@@ -5,15 +5,14 @@ title: 'Keeping Vanity URLs in Check: A Few Criteria'
 summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links. On a recent discussion thread on the Web Managers'
 authors:
   - andreanocesigritz
-categories:
-  - Content
-tag:
-  - GoUSAgov
+topics:
+  - content
+  - go-usa-gov
   - National Institute of Allergy and Infectious Diseases
   - NIAID
   - United States Patent and Trademark Office
   - USPTO
-  - Web Content Managers Forum
+  - web-content-managers-forum
 ---
 
 {{< legacy-img src="2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" >}}
@@ -22,7 +21,7 @@ tag:
 
 Shortcuts, Vanity or Marketing [URLs](http://en.wikipedia.org/wiki/Uniform_resource_locator), are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links.
 
-On a recent discussion thread on the [Web Managers listserv]({{< link "web-managers-forum.md" >}} "Web Content Managers Listserv"), several agencies offered the criteria they use to manage the requests and we’ve compiled it below.
+On a recent discussion thread on the [Web Managers listserv]({{< ref "web-managers-forum.md" >}} "Web Content Managers Listserv"), several agencies offered the criteria they use to manage the requests and we’ve compiled it below.
 
 ## NIAID Criteria
 

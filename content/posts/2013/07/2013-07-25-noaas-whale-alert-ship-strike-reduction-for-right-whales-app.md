@@ -5,12 +5,11 @@ title: 'NOAA&#8217;s Whale Alert – Ship Strike Reduction for Right Whales App'
 summary: Mariners now have an anytime, anywhere resource to aid in the
 authors:
   - brandon-barr
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - National Oceanic and Atmospheric Administration
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - mobile-apps
+  - national-oceanic-and-atmospheric-administration
+  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2013/07/whalealert.jpg" alt="The National Oceanic and Atmospheric Administration (NOAA), in collaboration with other groups in both the private and public sector, has developed an app for the iPhone and iPad which helps to reduce collisions between ships and the endangered right whales. " >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/whalealert.jpg)Mariners now have an anytime, anywhere resource to aid in the reduction of ship and right whale collisions.

@@ -1,0 +1,14 @@
+.clicks{
+	@include u-margin-top(0);
+	@include u-font('sans', '3xs');
+	@include at-media('tablet-lg') {
+		@include u-font('sans', '2xs');
+	}
+	@include u-text('italic');
+	@include u-display('block');
+	@include u-text('gold-40v');
+	i{
+		@include u-text('gold-30v');
+	}
+	white-space: nowrap;
+}

@@ -5,14 +5,15 @@ title: PolicyOps—A Better Way to Create and Implement Government Policies and 
 summary: '&ldquo;PolicyOps&rdquo; is a better way to create and implement government policies and programs through cutting-edge data analytics and new collaboration methods. PolicyOps (&ldquo;Policy&rdquo; plus &ldquo;Operations&rdquo;) is a new proposal for improving policy making and policy implementation. Based on a cutting-edge IT management method, DevOps (&ldquo;Development&rdquo; plus &ldquo;Operations&rdquo;), PolicyOps has two major concepts. First, closer collaboration'
 authors:
   - bbrantley
-categories:
-  - Governance
-  - Managing Digital
-tag:
+topics:
+  - devops
+  - governance
+  - product-management
   - analytics
   - data
   - OPM
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
+
 ---
 
 {{< legacy-img src="2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}} 

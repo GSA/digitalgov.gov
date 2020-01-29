@@ -5,11 +5,10 @@ title: Interested in Using the New Poll Feature on Twitter? Here’s What You Ne
 summary: ' Twitter polls allow you to tweet out simple A or B style opinion polls. These polls can spark some great engagement, but you’ll want to keep a few things in mind before getting started: To stay within the social media'
 authors:
   - mary-king
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - Twitter
 ---
 

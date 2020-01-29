@@ -5,12 +5,11 @@ title: 'Gather Your Agency&#8217;s Public Data with Let Me Get That Data for You
 summary: 'In case you missed it, U.S. Open Data recently launched a tool called: Let Me Get That Data For You (LMGTDY). The name is a play on the very funny Let Me Google That For You website. How LMGTDFY works Let Me Get That Data For You searches any website for'
 authors:
   - rebecca-williams
-categories:
-  - Code
-  - Data
-  - Monthly Theme
-tag:
-  - open data
+topics:
+  - code
+  - data
+  - monthly-theme
+  - open-data
 ---
 
 In case you missed it, U.S. Open Data [recently launched a tool](https://usopendata.org/2015/02/18/lmgtdfy/) called: <a href="http://lmgtdfy.usopendata.org/" target="_blank">Let Me Get That Data For You (LMGTDY)</a>. The name is a play on the very funny <a href="http://lmgtfy.com/" target="_blank">Let Me Google That For You</a> website.

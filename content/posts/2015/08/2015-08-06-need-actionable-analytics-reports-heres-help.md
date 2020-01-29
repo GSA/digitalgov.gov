@@ -5,17 +5,16 @@ title: Need Actionable Analytics Reports? Here’s Help
 summary: 'The Digital Analytics Program (DAP) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own'
 authors:
   - ilee
-categories:
-  - Metrics
-  - Monthly Theme
-tag:
+topics:
+  - metrics
+  - monthly-theme
   - analytics
-  - big data
+  - big-data
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
 ---
 
-The [Digital Analytics Program (DAP)]({{< link "/dap/" >}}) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own custom reports and segments is the way to go.
+The [Digital Analytics Program (DAP)]({{< ref "/guides/dap/_index.md" >}}) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own custom reports and segments is the way to go.
 
 As part of its on-going effort to educate and empower DAP users with Web analytics knowledge, the DAP team has put together the DAP Custom Reporting Catalog with many of the frequently used custom templates. These templates will help users drill down to the data of interest and provide valuable insights into specific website traffic to, ultimately, improve data-driven decision making.
 
@@ -38,5 +37,3 @@ Depending on the goals of the Web page, you can see how effective those landing 
 This report provides data in two tabs—one for the performance of specific content or pages and one for technical performance of the Web page. You can see which Web pages are receiving repeat pageviews, the percentage of pageviews which are entrances to the website, as well as the bounce rate and average time on page.
 
 {{< legacy-img src="2015/07/600-x-396-DAP-Custom-Reporting-Catalog-Aug-2015-Content-Efficiency-page-performance.jpg" alt="An analytics report shows Page Performance Efficiency" >}}
-
- 

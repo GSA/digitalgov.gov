@@ -15,7 +15,14 @@ registration_url: https://www.eventbrite.com/e/conversations-on-public-impact-ho
 youtube_id: ClRIrOw04XI
 aliases:
   - /event/conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives/
+topics:
+  - code
+  - product-management
+  - data
+  - security
+
 ---
+
 Please join the ethics working group in GSA's Technology Transformation Service as they host a presentation about data trusts&mdash;a legal structure designed to manage data, code, and other digital assets.
 
 This should be of interest to anyone tasked with managing others people's data.

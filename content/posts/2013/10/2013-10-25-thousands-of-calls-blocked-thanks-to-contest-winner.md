@@ -5,10 +5,9 @@ title: Thousands of Calls Blocked, Thanks to Contest Winner
 summary: Technology to block robocalls is a huge win for consumers and for challenge competitions this year. The FTC awarded a prize to Aaron Foss, creator of Nomorobo, in April. The technology went to market September 30, and the tool has already blocked more
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-tag:
-  - challenges and prize competitions
+topics:
+  - challenges
+  - challenges-and-prize-competitions
   - FTC
 ---
 

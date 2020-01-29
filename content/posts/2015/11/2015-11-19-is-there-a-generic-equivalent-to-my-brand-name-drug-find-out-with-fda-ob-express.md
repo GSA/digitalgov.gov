@@ -5,18 +5,17 @@ title: Is There a Generic Equivalent to My Brand Name Drug? Find out with FDA OB
 summary: 'Have you ever taken your prescription to the pharmacy, the one that you fill regularly, and the pharmacist hands you pills that have a different name and look quite different from what you regularly get? As a chemist by training, I try to curb my initial anxiety by checking out the composition. However, I have always looked'
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
-  - FDA
+topics:
+  - mobile
+  - fda
   - ios
-  - mobile apps
-  - native app
-  - native apps
+  - mobile-apps
+  - native-app
+  - native-apps
   - SSA
-  - The United States Social Security Administration
-  - Thursday Mobile Products
-  - US Food and Drug Administration
+  - the-united-states-social-security-administration
+  - thursday-mobile-products
+  - us-food-and-drug-administration
 ---
 
 Have you ever taken your prescription to the pharmacy, the one that you fill regularly, and the pharmacist hands you pills that have a different name and look quite different from what you regularly get? As a chemist by training, I try to curb my initial anxiety by checking out the composition. However, I have always looked for reassurance from the pharmacist that he/she has dispensed an equivalent generic drug at the direction of my doctor.
@@ -49,4 +48,4 @@ The help and support links allow you to email questions directly from the app. T
 
 So, the next time you visit the pharmacy, check out the generics for your brand name drugs with this app and perhaps save some money. I know I will.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

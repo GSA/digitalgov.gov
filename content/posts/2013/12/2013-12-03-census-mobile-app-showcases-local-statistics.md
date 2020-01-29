@@ -5,11 +5,10 @@ title: Census Mobile App Showcases Local Statistics
 summary: America has always been a nation on the move. Whether you are looking for a career change or a new neighborhood to call home, life decisions affect each of us every day. With roughly half of Americans now owning smartphones, everyone should
 authors:
   - stephen-buckner
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
 ---
 
 {{< legacy-img src="2013/12/250-x-446-dweller-app-3-screens-cb13-200-Graphic2.jpg" alt="Three screens of the dweller app on different mobile devices" >}}America has always been a nation on the move. Whether you are looking for a career change or a new neighborhood to call home, life decisions affect each of us every day.

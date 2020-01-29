@@ -1,0 +1,33 @@
+# Example YML file for guides
+
+nav:
+- title    : 'Overview'
+  path     : '/guides/guide-home/'
+- title    : 'Getting Started'
+  path     : '/guides/guide-home/getting-started/'
+  subnav   :
+  - title  : 'Three Easy Tasks'
+    path   : '/guides/guide-home/getting-started/basics/three-easy-tasks/'
+  - title  : 'Example Subnav'
+    path   : '/guides/guide-home/getting-started/example-subnav/'
+    subnav :
+    - title: 'Example Page'
+      path : '/guides/guide-home/getting-started/example-subnav/example-page/'
+- title    : 'Design Principles'
+  path     : '/guides/guide-home/design-principles/'
+  subnav   :
+  - title  : 'Start with real user needs'
+    path   : '/guides/guide-home/design-principles/start-with-real-user-needs/'
+  - title  : 'Earn Trust'
+    path   : '/guides/guide-home/design-principles/earn-trust/'
+  - title  : 'Embrace accessibility'
+    path   : '/guides/guide-home/design-principles/embrace-accessibility/'
+  - title  : 'Promote continuity'
+    path   : '/guides/guide-home/design-principles/promote-continuity/'
+  - title  : 'Listen'
+    path   : '/guides/guide-home/design-principles/listen/'
+- title    : 'Assessment Criteria'
+  path     : '/guides/guide-home/assessment-criteria/'
+  subnav   :
+  - title  : 'Include a search function'
+    path     : '/guides/guide-home/assessment-criteria/include-a-search-function/'

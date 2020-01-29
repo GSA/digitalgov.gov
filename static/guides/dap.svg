@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="480px" viewBox="0 0 480 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-3" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-5" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-7" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-9" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-11" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-13" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-15" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-17" points="80 80 0 80 80 0"></polygon>
+        <polygon id="path-19" points="80 80 0 80 80 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reporting-pitfalls" transform="translate(-800.000000, -240.000000)">
+            <g id="Group-2" transform="translate(800.000000, 240.000000)">
+                <g id="triangle-large" transform="translate(280.000000, 360.000000) rotate(-270.000000) translate(-280.000000, -360.000000) translate(240.000000, 320.000000)" fill="#FFFFFF">
+                    <polygon id="Path-2" points="80 80 0 80 80 0"></polygon>
+                </g>
+                <g id="triangle-large" transform="translate(440.000000, 360.000000) rotate(-270.000000) translate(-440.000000, -360.000000) translate(400.000000, 320.000000)" fill="#FFFFFF">
+                    <polygon id="Path-2" points="80 80 0 80 80 0"></polygon>
+                </g>
+                <g id="triangle-large" transform="translate(280.000000, 440.000000) rotate(-180.000000) translate(-280.000000, -440.000000) translate(240.000000, 400.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="color-gray-90" mask="url(#mask-2)" fill="#171717" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(440.000000, 440.000000) rotate(-180.000000) translate(-440.000000, -440.000000) translate(400.000000, 400.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <g id="color-gray-90" mask="url(#mask-4)" fill="#171717" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(440.000000, 40.000000) rotate(-180.000000) translate(-440.000000, -40.000000) translate(400.000000, 0.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <g id="color-gray-90" mask="url(#mask-6)" fill="#171717" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(120.000000, 360.000000) rotate(-180.000000) translate(-120.000000, -360.000000) translate(80.000000, 320.000000)" fill="#FFFFFF">
+                    <polygon id="Path-2" points="80 80 0 80 80 0"></polygon>
+                </g>
+                <g id="triangle-large" transform="translate(40.000000, 360.000000) rotate(-90.000000) translate(-40.000000, -360.000000) translate(0.000000, 320.000000)" fill="#5558D5">
+                    <g id="Path-2">
+                        <polygon points="80 80 0 80 80 0"></polygon>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(80.000000, 400.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <g id="color-gray-90" mask="url(#mask-8)" fill="#171717" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(200.000000, 440.000000) rotate(-270.000000) translate(-200.000000, -440.000000) translate(160.000000, 400.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <g id="color-gray-90" mask="url(#mask-10)" fill="#171717" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(360.000000, 440.000000) rotate(-90.000000) translate(-360.000000, -440.000000) translate(320.000000, 400.000000)" fill="#5558D5">
+                    <g id="Path-2">
+                        <polygon points="80 80 0 80 80 0"></polygon>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(360.000000, 40.000000) rotate(-90.000000) translate(-360.000000, -40.000000) translate(320.000000, 0.000000)" fill="#5558D5">
+                    <g id="Path-2">
+                        <polygon points="80 80 0 80 80 0"></polygon>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(200.000000, 280.000000) rotate(-90.000000) translate(-200.000000, -280.000000) translate(160.000000, 240.000000)" fill="#5558D5">
+                    <g id="Path-2">
+                        <polygon points="80 80 0 80 80 0"></polygon>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(200.000000, 360.000000) rotate(-90.000000) translate(-200.000000, -360.000000) translate(160.000000, 320.000000)" fill="#FFFFFF">
+                    <polygon id="Path-2" points="80 80 0 80 80 0"></polygon>
+                </g>
+                <g id="triangle-large" transform="translate(360.000000, 360.000000) rotate(-90.000000) translate(-360.000000, -360.000000) translate(320.000000, 320.000000)" fill="#FFFFFF">
+                    <polygon id="Path-2" points="80 80 0 80 80 0"></polygon>
+                </g>
+                <g id="triangle-large" transform="translate(440.000000, 280.000000) rotate(-270.000000) translate(-440.000000, -280.000000) translate(400.000000, 240.000000)" fill="#FFFFFF">
+                    <polygon id="Path-2" points="80 80 0 80 80 0"></polygon>
+                </g>
+                <g id="triangle-large" transform="translate(40.000000, 440.000000) rotate(-90.000000) translate(-40.000000, -440.000000) translate(0.000000, 400.000000)">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <g id="color-gray-90" mask="url(#mask-12)" fill="#171717" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(440.000000, 120.000000) rotate(-270.000000) translate(-440.000000, -120.000000) translate(400.000000, 80.000000)">
+                    <g id="triangle-large" transform="translate(40.000000, 40.000000) rotate(-180.000000) translate(-40.000000, -40.000000) ">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        <g id="color-gray-90" mask="url(#mask-14)" fill="#171717" fill-rule="evenodd">
+                            <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                                <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(440.000000, 200.000000) rotate(-360.000000) translate(-440.000000, -200.000000) translate(400.000000, 160.000000)" fill="#5558D5">
+                    <g id="Path-2">
+                        <polygon points="80 80 0 80 80 0"></polygon>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(440.000000, 280.000000) rotate(-450.000000) translate(-440.000000, -280.000000) translate(400.000000, 240.000000)">
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <g id="color-gray-90" mask="url(#mask-16)" fill="#171717" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(280.000000, 280.000000) rotate(-180.000000) translate(-280.000000, -280.000000) translate(240.000000, 240.000000)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    <g id="color-gray-90" mask="url(#mask-18)" fill="#171717" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle-large" transform="translate(400.000000, 0.000000)">
+                    <mask id="mask-20" fill="white">
+                        <use xlink:href="#path-19"></use>
+                    </mask>
+                    <use id="Path-2" fill="#222222" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    <g id="white-0" mask="url(#mask-20)" fill="#FFFFFF" fill-rule="evenodd">
+                        <g transform="translate(-11.500000, -11.500000)" id="Rectangle">
+                            <polygon points="0 0 103 0 103 103 0 103"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

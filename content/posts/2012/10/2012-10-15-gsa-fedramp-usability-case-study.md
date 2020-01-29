@@ -5,15 +5,14 @@ title: 'FedRAMP &#8211; Usability Case Study'
 summary: 'Websites allow newer government programs to establish a visual identity that introduces them to users and conveys the importance of their work. On April 18, 2012, the DigitalGov User Experience Program helped test GSA&#8217;s Federal Risk and Authorization Management Program (FedRAMP) site, which at that point was less than six months old. Three immediate needs were'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
-  - DigitalGov User Experience Program
-  - GSA
+  - ux
+  - digitalgov-user-experience-program
+  - gsa
   - usability
-  - usability case study
-  - user experience
+  - usability-case-study
+  - user-experience
 ---
 
 Websites allow newer government programs to establish a visual identity that introduces them to users and conveys the importance of their work.

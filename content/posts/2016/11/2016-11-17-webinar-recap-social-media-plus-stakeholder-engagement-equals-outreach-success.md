@@ -5,28 +5,27 @@ title: 'Webinar Recap: Social Media + External Affairs = Outreach Success'
 summary: 'Summary: How to leverage your resources to reach Spanish-dominant Hispanics online. A recent DigitalGov University (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness. Social Media Outreach Goals What does social media outreach success look like? Success is when agencies'
 authors:
   - victoria-wales
-categories:
-  - Content
-  - Social Media
-  - user-testing-and-research
-  - UX
-tag:
-  - CDC
+topics:
   - content
-  - content strategy
-  - content syndication
+  - social-media
+  - user-testing-and-research
+  - ux
+  - cdc
+  - content
+  - content-strategy
+  - content-syndication
   - disease
   - multilingual
-  - Recaps
-  - social media
-  - USAgov
+  - recaps
+  - social-media
+  - usagov
   - user research
   - webinar
 ---
 
 > _Summary: How to leverage your resources to reach Spanish-dominant Hispanics online._
 
-A recent [DigitalGov University]({{< link "/digitalgov-university/" >}}) (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness.
+A recent [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness.
 
 ## Social Media Outreach Goals {{< legacy-img src="2015/04/600-x-450-Social-Network-Rach27-iStock-Thinkstock-457041031.jpg" alt="Social Network" caption="" >}} 
 
@@ -55,7 +54,7 @@ With a limited budget and few resources, [CuidadodeSalud.gov](https://www.Cuidad
 
 You can be creative in your messaging, but just be careful to stereotype or over generalize. Don&#8217;t literally translate sayings or idioms. For example &#8220;apples to apples&#8221; does not have the same connotation in Spanish; it&#8217;s not a point of reference that is used or recognized. While you want to be catchy, balance being serious with being engaging. Vet your ideas with a native speaker who has cultural competencies and keeps up with topic trends regularly. How are people referring to the Affordable Care Act in Spanish? Can you do some focus group testing?
 
-[Transcreation]({{< link "2016-04-08-transcreation-why-do-we-need-it.md" >}}) is more important than translation. When you&#8217;re accurate and precise, leadership will trust your judgement and levels of approval will make the process much faster and smoother. For CuidadodeSalud.gov, messages are drafted in Spanish, and then translated to English for clearance.
+[Transcreation]({{< ref "2016-04-08-transcreation-why-do-we-need-it.md" >}}) is more important than translation. When you&#8217;re accurate and precise, leadership will trust your judgement and levels of approval will make the process much faster and smoother. For CuidadodeSalud.gov, messages are drafted in Spanish, and then translated to English for clearance.
 
 Message test with target audience to find out what resonates, from literacy competencies to making sure what is also recognizable. For instance, would it be better to use &#8220;health coverage&#8221; or &#8220;health insurance&#8221;?
 
@@ -138,4 +137,4 @@ _Depending on your agency&#8217;s social media policy, always respond to questio
 **Could you share your experience with Facebook ads? How do you target them? Have you found them to be successful?**_CuidadodeSalud.gov did some fan acquisition for a short time. Google ads and banner ads on search engines may be more effective, however. Google is using Twitter trends to pull in content from this platform. Word trails are trending and it&#8217;s because of Twitter._
 
  _Victoria Wales is a member of the [USAGov](https://www.usa.gov/explore/) Outreach Team at the U.S. General Services Administration._
-_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov]({{< link "tag/multilingual" >}})._ _If you’re a government employee, consider joining one of our [Communities]({{< link "/communities/" >}}), such as the [Multilingual Community of Practice]({{< link "multilingual.md" >}}), [SocialGov]({{< link "social-media.md" >}}), and the [Web Content Managers Forum]({{< link "web-managers-forum.md" >}})._
+_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov]({{< ref "/topics/multilingual" >}})._ _If you’re a government employee, consider joining one of our [Communities]({{< ref "/communities" >}}), such as the [Multilingual Community of Practice]({{< ref "multilingual.md" >}}), [SocialGov]({{< ref "social-media.md" >}}), and the [Web Content Managers Forum]({{< ref "web-managers-forum.md" >}})._

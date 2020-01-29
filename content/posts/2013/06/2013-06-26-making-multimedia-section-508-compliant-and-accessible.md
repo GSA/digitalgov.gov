@@ -5,11 +5,10 @@ title: Making Multimedia Section 508 Compliant and Accessible
 summary: 'You&#8217;ve seen videos, podcasts, and audio files on your favorite sites&mdash;whether they&#8217;re government, private sector, or entertainment sites. These are often viral media: media clips that are wildly popular, are shared through blogs or e&ndash;mail, produce chatter on the web, and increase traffic to websites. Some government agencies are using this phenomenon, by participating in'
 authors:
   - angela-hooker
-categories:
+topics:
   - user-testing-and-research
-tag:
   - accessibility
-  - section 508
+  - section-508
 ---
 
 {{< legacy-img src="2013/06/250-x-143-disabled-button-goldy-iStock-Thinkstock-494125429.jpg" alt="A disabled symbol on a keyboard button" caption="" >}} 
@@ -46,7 +45,7 @@ Graphics that contain certain types of optical illusions can also have the same 
 
 If you have a media item that contains this type of flashing, strobing, or optical illusions, do not post it. If you find that you&#8217;re overruled and must post this media, include a warning in your content, and do not automatically play the media or show the graphic when your page loads—allow your users to start and stop the media or click to access the graphic if they want to view it.
 
-For in-depth information on video accessibility, see DigitalGov.gov&#8217;s article: [Create Section 508-Compliant Videos on Your Government Websites](https://digitalgov.sites.usa.gov/2013/11/21/create-section-508-compliant-videos-on-your-government-websites-2/).
+For in-depth information on video accessibility, see DigitalGov.gov&#8217;s article: [Create Section 508-Compliant Videos on Your Government Websites](https://digital.gov/2013/11/21/create-section-508-compliant-videos-on-your-government-websites-2/).
 
 ### Software to play videos, audio, and multimedia:
 

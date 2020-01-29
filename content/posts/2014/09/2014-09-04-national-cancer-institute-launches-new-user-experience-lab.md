@@ -6,17 +6,16 @@ summary: ' Why does a Cancer institute need a User Experience lab? Simply put: T
 authors:
   - pooja-sawant
   - jonathan-rubin
-categories:
-  - Design
-  - Metrics
+topics:
+  - design
+  - metrics
   - user-testing-and-research
-  - UX
-tag:
-  - DigitalGov User Experience Program
-  - National Cancer Institute
+  - ux
+  - digitalgov-user-experience-program
+  - national-cancer-institute
   - NCI
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 {{< legacy-img src="2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-1.jpg" alt="User Experience U X lab 1" >}}
@@ -51,6 +50,6 @@ The lab will be having an Open House on September 11, from 11:30 am to 4 pm.
   
 The lab is located in rooms 2E-202 and 2E-206 on the National Cancer Institute’s Shady Grove campus, 9609 Medical Center Drive, Rockville, MD, 20850. Please email Silvia for details at <salazarsi@mail.nih.gov>.
 
-_**Pooja Sawant** is in her second year at University of Maryland, College Park, earning an MS in Information Management. She just finished interning with the [DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._
+_**Pooja Sawant** is in her second year at University of Maryland, College Park, earning an MS in Information Management. She just finished interning with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._
 
  

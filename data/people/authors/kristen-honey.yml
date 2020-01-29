@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -13,6 +13,12 @@ email: khoney@omb.eop.gov
 
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: "Kristen Honey, PhD, PMP is an Innovator in Residence with the HHS Office of the Chief Technology Officer, U.S. Department of Health and Human Services (HHS)."
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: 'Washington, DC'

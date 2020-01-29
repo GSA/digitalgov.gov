@@ -14,6 +14,10 @@ event_organizer: DigitalGov
 host:
 registration_url: https://www.eventbrite.com/e/this-is-how-we-work-together-with-brad-frost-registration-46125160597
 youtube_id: vtmnP2Lrf74
+topics:
+  - design
+  - uswds
+  - draft-web-design-standards
 
 ---
 

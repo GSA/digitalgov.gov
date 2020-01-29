@@ -5,12 +5,11 @@ title: EPA Indoor airPLUS App
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency. The Indoor airPLUS app provides home builders and verifier partners in the field easy access to the tools and resources of EPA’s Indoor airPLUS'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
-  - EPA
-  - mobile apps
-  - Mobile Gov Experience
+topics:
+  - mobile
+  - epa
+  - mobile-apps
+  - mobile-gov-experience
 ---
 
 _[{{< legacy-img src="2013/12/EPAairPLUS.png" alt="EPAairPLUS" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/EPAairPLUS.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency._
@@ -37,4 +36,4 @@ EPA launched a beta version of the app in early October 2011 and is gathering fe
 
 ## What We Learned
 
-A data entry application like Indoor airPlus that is not graphics intensive and does not require device menu manipulations lent itself well to the cross platform development approach that EPA took to reduce development costs and time. A proper [mobile product development process]({{< link "2012-02-24-epas-mobile-access-review-committee.md" >}} "EPA’s Mobile Access Review Committee") allows for thorough investigation of mobile options.
+A data entry application like Indoor airPlus that is not graphics intensive and does not require device menu manipulations lent itself well to the cross platform development approach that EPA took to reduce development costs and time. A proper [mobile product development process]({{< ref "2012-02-24-epas-mobile-access-review-committee.md" >}} "EPA’s Mobile Access Review Committee") allows for thorough investigation of mobile options.

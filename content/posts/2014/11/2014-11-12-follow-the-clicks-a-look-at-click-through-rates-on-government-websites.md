@@ -5,12 +5,11 @@ title: 'Follow the Clicks: A Look at Click-through Rates on Government Websites'
 summary: 'How important is it to show the most relevant result at the top of your search results page? Very. Searchers expect to find what they&#8217;re looking for quickly and easily&mdash;and without scrolling&mdash;when they search on government websites. If a Web page isn&#8217;t &ldquo;above the fold&rdquo; as one of the first listings on the first results'
 authors:
   - ammie-farraj-feijoo
-categories:
-  - Content
-  - Our Work
-tag:
+topics:
+  - content
+  - our-work
   - analytics
-  - DigitalGov Search
+  - digitalgov-search
 ---
 
 How important is it to show the most relevant result at the top of your search results page? Very.

@@ -5,9 +5,8 @@ title: State CIO Top Ten Policy and Technology Priorities for 2014
 summary: Security, consolidation, cloud services and enterprise portfolio management top the list of critical state CIO priorities in 2014, according to state information technology leaders surveyed by the National Association of State Chief Information Officers (NASCIO). The prioritized rankings of strategies and technologies reflect voting by state CIOs and are
 authors:
   - lnelson
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - security
 ---
 

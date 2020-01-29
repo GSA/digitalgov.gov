@@ -6,17 +6,16 @@ summary: 'DEMO Whenever I hear someone complain about the process of a design cr
 authors:
   - meghan-lazier
 
-categories:
-  - Design
-  - Managing Digital
-  - strategy-and-policy
-  - User Testing and Research
-  - UX
-
-tag:
-  - Best Practices
-  - User Experience
-  - UX
+topics:
+  - design
+  - product-management
+  - strategy
+  - policy
+  - user-testing-and-research
+  - ux
+  - best-practices
+  - user-experience
+  - ux
 
 ---
 

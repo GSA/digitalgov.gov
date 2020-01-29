@@ -5,23 +5,22 @@ title: How to Do Usability Testing with Kids
 summary: ' What do kids know about Web design? As we found out, quite a lot. Recently our DigitalGov User Experience Program teamed up with the Kids.gov team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office,'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
-  - DigitalGov User Experience Program
+  - ux
+  - digitalgov-user-experience-program
   - gamification
-  - GSA
-  - usability testing
-  - user experience
-  - UX
+  - gsa
+  - usability-testing
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" >}}
 
 What do kids know about Web design? As we found out, quite a lot.
 
-Recently our [DigitalGov User Experience Program]({{< link "resources/digitalgov-user-experience-resources/" >}}) teamed up with the [Kids.gov](http://www.kids.gov/) team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office, made possible by “Take Your Child to Work Day.” We also tweeted some results under the hashtag [#kidsgovtest](https://twitter.com/search?q=kidsgovtest&src=typd "kidsgovtest")
+Recently our [DigitalGov User Experience Program]({{< ref "/resources/digitalgov-user-experience-resources.md" >}}) teamed up with the [Kids.gov](http://www.kids.gov/) team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office, made possible by “Take Your Child to Work Day.” We also tweeted some results under the hashtag [#kidsgovtest](https://twitter.com/search?q=kidsgovtest&src=typd "kidsgovtest")
 
 We turned the lunchroom into our testing area, and set up laptops, balloons, markers and a good supply of sugar. Our goal: To get user feedback on Kids.gov’s design, navigation, and content.
 

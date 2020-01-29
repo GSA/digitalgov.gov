@@ -5,11 +5,12 @@ title: 'The Data Briefing: DevOps and Containers and Why They Are Important to T
 summary: 'You may have heard about &ldquo;DevOps&rdquo; in the news or when meeting with IT professionals. What exactly is DevOps and what, if any, connection does it have with agile? Also, what do &ldquo;containers&rdquo; have to do with all of this? In this week’s column, I will introduce DevOps and a related technology: containers. Some DevOps'
 authors:
   - bbrantley
-categories:
-  - Data
-  - Managing Digital
-tag:
-  - The Data Briefing
+topics:
+  - data
+  - devops
+  - product-management
+  - the-data-briefing
+
 ---
 
 You may have heard about “DevOps” in the news or when meeting with IT professionals. What exactly is DevOps and what, if any, connection does it have with agile? Also, what do “containers” have to do with all of this? In this week’s column, I will introduce DevOps and a related technology: containers. Some DevOps practitioners will argue with my interpretations, and I invite these practitioners to explain their perspectives in the comments. {{< legacy-img src="2016/08/600-x-400-Word-DevOps-on-wood-planks-TimArbaev-iStock-Thinkstock-531240484.jpg" alt="Word DevOps on wood planks" caption="" >}} 
@@ -27,5 +28,5 @@ Containers arose because running more than a few virtual machines makes enormous
 Containers allow applications to be in their self-contained capsules while sharing the one Mac operating system and program library. Containers greatly reduce the load on the host machine while maintaining the integrity of the applications that may need specific program libraries. If you have ever used Google Search, Gmail, or Google Docs, you have been using a container. You can also be certain that Gmail, Google Docs, and most other modern online applications have been developed and deployed using DevOps methods and technologies. Several federal agencies have also adopted DevOps in creating and delivering online and mobile applications for the American public. As the federal government continues to modernize its IT infrastructure, expect to see more use of DevOps and technologies like containers.
 
 _(Google, Google Search, Gmail, and Google Docs are used for illustrative purposes only and do not imply endorsement by the U.S. federal government or any specific federal government agency.)_
-_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

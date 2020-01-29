@@ -5,13 +5,12 @@ title: '95%: Describing the National Archives&#8217; Holdings'
 summary: 'The National Archives Catalog has reached a milestone: we now have 95% of our holdings completely described at the series level in our online catalog. This is a monumental achievement. Why? Because the National Archives holds over 14 billion pages of records, and we are adding hundreds of millions of pages to that total every'
 authors:
   - david-s-ferriero
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - data
   - digital records
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - records management
   - research
 ---

@@ -5,14 +5,13 @@ title: Best Practices for Remote User Experience Research
 summary: Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. One of
 authors:
   - justin-dopke
-categories:
-  - Design
-  - UX
-tag:
+topics:
+  - design
+  - ux
   - analytics
   - SSA
-  - The United States Social Security Administration
-  - user experience
+  - the-united-states-social-security-administration
+  - user-experience
 ---
 
 Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
@@ -33,7 +32,7 @@ One thing that is very important to work into your approach is that anyone using
 
 Keep your questions simple at first, and then build complexity—you don’t want to scare users off. Knowing who your users are will help you to come up with specific questions relevant to **them**—this can be helpful, especially with language questions. Remember: one size will NOT fit all—finding a local/regional contact is really helpful in terms of prep, as well as helping to fine-tune wording. Remember to stay flexible.
 
-Keep wording very basic and unambiguous, both for the people you are trying to contact and your clients. Every question asked should have a goal. If you are dealing with multiple languages, [automatic translations are often poor]({{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}}) at best, offensive at worst–know who you are trying to reach.
+Keep wording very basic and unambiguous, both for the people you are trying to contact and your clients. Every question asked should have a goal. If you are dealing with multiple languages, [automatic translations are often poor]({{< ref "2012-10-01-automated-translation-good-solution-or-not.md" >}}) at best, offensive at worst–know who you are trying to reach.
 
 Keep in mind that talking to your users, in the environment they are accessing your information, is the only real deal—presenting remotely-gathered information should always make this clear. It can help you identify risk, as well as help to justify travel/access requests. Of course, travel may not be an option, and access can be a challenge, (privacy, PII, etc…) but remote evaluation can be very helpful.
 

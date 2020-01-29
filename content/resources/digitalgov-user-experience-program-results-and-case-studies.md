@@ -1,13 +1,17 @@
 ---
-url: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies/
+slug: digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies
 date: 2014-01-16 11:01:12 -0400
 title: 'Fueleconomy.gov &#8211; Extended Case Study'
-summary: 'Like any valid business decision, User Experience work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our Usability Case Studies. Or see a more complete case study below. Case Study: Fueleconomy.gov Mobile Site In December of 2012'
+summary: "Like any valid business decision, User Experience work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our Usability Case Studies. Or see a more complete case study below. Case Study: Fueleconomy.gov Mobile Site In December of 2012"
+topics:
+  - user-experience
+  - usability
+  - usability-case-study
 authors:
   - andreanocesigritz
 ---
 
-Like any valid business decision, [User Experience](http://www.usability.gov/what-and-why/benefits-of-ucd.html) work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our [Usability Case Studies]({{< link "government-usability-case-studies.md" >}}). Or see a more complete case study below.
+Like any valid business decision, [User Experience](http://www.usability.gov/what-and-why/benefits-of-ucd.html) work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our [Usability Case Studies]({{< ref "government-usability-case-studies.md" >}}). Or see a more complete case study below.
 
 ## Case Study: Fueleconomy.gov Mobile Site
 
@@ -53,4 +57,4 @@ The fueleconomy.gov team implemented these and other changes based upon user fee
 
 [{{< legacy-img src="/2014/01/fueleconomy-user-experience-improvements-results-2.jpg" alt="Picture showing the increased traffic to fueleconomy.gov as a result of their usability test" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/fueleconomy-user-experience-improvements-results-2.jpg)
 
-Users were able to find information on the site, and enjoyed it enough to come back again. Their team was happy, and so were we. See our [Before and After Gallery]({{< link "government-usability-case-studies.md" >}}) for more screenshots of government products improved by User Experience work.
+Users were able to find information on the site, and enjoyed it enough to come back again. Their team was happy, and so were we. See our [Before and After Gallery]({{< ref "government-usability-case-studies.md" >}}) for more screenshots of government products improved by User Experience work.

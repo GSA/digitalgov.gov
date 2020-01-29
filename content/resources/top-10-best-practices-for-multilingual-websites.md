@@ -1,5 +1,5 @@
 ---
-url: /resources/top-10-best-practices-for-multilingual-websites/
+slug: top-10-best-practices-for-multilingual-websites
 date: 2016-09-07 10:00:45 -0400
 title: Top 10 Best Practices for Multilingual Websites
 summary: 'Language Digital communications must address the users&rsquo; language preference. The use of machine or automatic translations as a sole solution is strongly discouraged even if a disclaimer is added. If government agencies decide to use translation software, they should have the translation reviewed by a qualified language professional before posting it to the website to'
@@ -8,11 +8,15 @@ authors:
   - lmartinez
   - fedora-braverman
   - lina-younes
+topics:
+  - multilingual
+  - multilingual-community
 aliases:
   - /2012/08/12/top-10-best-practices-for-multilingual-websites/
+
 ---
 
-1. **Language** — Digital communications must address the users’ language preference. The use of machine or automatic translations as a sole solution is strongly discouraged even if a disclaimer is added. If government agencies decide to use translation software, they should have the translation reviewed by a qualified language professional before posting it to the website to ensure that the translation correctly [communicates the message]({{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}}) in a culturally relevant manner. [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_), the trusted source for government information in Spanish, offers users a complete experience including content, navigation, and all functionalities and features in that language.
+1. **Language** — Digital communications must address the users’ language preference. The use of machine or automatic translations as a sole solution is strongly discouraged even if a disclaimer is added. If government agencies decide to use translation software, they should have the translation reviewed by a qualified language professional before posting it to the website to ensure that the translation correctly [communicates the message]({{< ref "2012-10-01-automated-translation-good-solution-or-not.md" >}}) in a culturally relevant manner. [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_), the trusted source for government information in Spanish, offers users a complete experience including content, navigation, and all functionalities and features in that language.
 
 2. **Culture** — Agencies should conduct usability tests to understand the cultural considerations of their target audience. Regardless of language used, the online experience must be culturally relevant to achieve an emotional connection with the audience. Although [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) and [USA.gov](http://www.usa.gov/), its English-language counterpart, have the same structure, and look and feel, the Spanish site offers content and images that resonate with the Hispanic community.
 

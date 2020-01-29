@@ -5,16 +5,15 @@ title: 4 Tips on Great Survey Design
 summary: ' Whether they pop up while perusing an e-commerce site or land in your inbox after your bumpy flight in from Chicago, surveys are used in many different industries to gauge customer satisfaction and glean insight into user motivations. They are a useful tool in the kit of a user experience designer or anyone'
 authors:
   - georgia-gallavin
-categories:
-  - Monthly Theme
+topics:
+  - monthly-theme
   - user-testing-and-research
-  - UX
-tag:
-  - customer satisfaction
-  - DigitalGov User Experience Program
+  - ux
+  - customer-satisfaction
+  - digitalgov-user-experience-program
   - usability
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2014/10/600-x-480-survey-bathroom-sign.jpg" alt="600-x-480-survey-bathroom-sign" >}}
@@ -55,4 +54,4 @@ Depending on the topic, one approach is likely to be more appropriate than the o
 
 **4. User Test your User Surveys!**
   
-Also known in the field of Survey Methodology as “cognitive interviewing,” testing your survey questions with users before it is released into the wild can help to evaluate the design. You want to check that participants are responding in expected ways and that you are able to measure what you set out to measure. Unless you are using a validated survey, cognitive interviewing should be a part of your survey design process._**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She interned with the [User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._
+Also known in the field of Survey Methodology as “cognitive interviewing,” testing your survey questions with users before it is released into the wild can help to evaluate the design. You want to check that participants are responding in expected ways and that you are able to measure what you set out to measure. Unless you are using a validated survey, cognitive interviewing should be a part of your survey design process._**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She interned with the [User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._

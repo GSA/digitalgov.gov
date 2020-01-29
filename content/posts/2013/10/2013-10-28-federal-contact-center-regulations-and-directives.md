@@ -5,15 +5,14 @@ title: 'Federal Contact Center Regulations & Directives'
 summary: Contact centers operated and managed by federal agencies have to follow certain laws, regulations, policies, and other directives. Unless specifically noted, contact centers operated and managed by states or local governments do not have to comply with these same requirements. Access for People with Disabilities (Section 508) Federal contact centers must comply with Section 508
 authors:
   - tonya-beres
-categories:
-  - Managing Digital
-tag:
-  - government contact centers
+topics:
+  - product-management
+  - government-contact-centers
   - privacy
-  - section 508
+  - section-508
 ---
 
-{{< legacy-img src="2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}} 
+{{< legacy-img src="2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}}
 
 Contact centers operated and managed by federal agencies have to follow certain laws, regulations, policies, and other directives. Unless specifically noted, contact centers operated and managed by states or local governments do not have to comply with these same requirements.
 
@@ -22,21 +21,21 @@ Contact centers operated and managed by federal agencies have to follow certain 
     <h2>
       Access for People with Disabilities (Section 508)
     </h2>
-    
+
     <p>
       Federal contact centers must comply with Section 508 of the Rehabilitation Act of 1973. Review the requirements and the <a href="http://www.section508.gov/">accompanying guidance</a> to ensure your contact center makes services accessible to individuals with disabilities.
     </p>
-    
+
     <p>
-      Find out how <a title="Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)" href="{{< link "contact-center-technologies.md" >}}>Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)</a> enable agencies to extend services to people who are deaf, hard-of-hearing, or speech impaired.
+      Find out how <a title="Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)" href="{{< ref "contact-center-technologies.md" >}}>Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)</a> enable agencies to extend services to people who are deaf, hard-of-hearing, or speech impaired.
     </p>
   </div>
-  
+
   <div class="one-half">
     <h2>
       McNamara O&#8217;Hara Service Contract Act (SCA)
     </h2>
-    
+
     <p>
       You need to comply with the <a href="http://www.dol.gov/compliance/laws/comp-sca.htm">McNamara-O&#8217;Hara Service Contract Act (SCA)</a> if your agency obtains contractor support for its contact center. The SCA requires payment of existing wage rates and fringe benefits to service employees on contracts that provide services to the federal government.
     </p>
@@ -48,25 +47,25 @@ Contact centers operated and managed by federal agencies have to follow certain 
     <h2>
       Federal Information Systems Security Management
     </h2>
-    
+
     <p>
       Review <a title="Title III of the E-Government Act - entitled the Federal Information Security Management Act - FISMA" href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Title-III-of-the-E-Government-Act-entitled-the-Federal-Information-Security-Management-Act-FISMA.pdf">Title III of the E-Government Act, entitled the Federal Information Security Management Act (FISMA)</a> (PDF, 62 KB, 16 pages, December 2002) and the <a href="http://csrc.nist.gov/groups/SMA/fisma/index.html">FISMA Implementation Project</a> to ensure your contact center is in compliance with the law.
     </p>
-    
+
     <p>
       Federal contact centers must comply with laws and directives that protect information and information systems from unauthorized access, use, disclosure, disruption, modification or destruction in order to protect the integrity, confidentiality and availability of the information and information systems.
     </p>
   </div>
-  
+
   <div class="one-half">
     <h2>
       Privacy Requirements
     </h2>
-    
+
     <p>
       You should review the following laws and regulations that protect the public’s privacy when interacting with government to ensure your contact center is compliant:
     </p>
-    
+
     <ul>
       <li>
         <a href="http://www.justice.gov/opcl/1974privacyact-overview.htm">Privacy Act of 1974</a>

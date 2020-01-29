@@ -5,11 +5,11 @@ title: Bringing Agile Inside
 summary: 'We hear a lot about agile software development being used in work with customers and end users. User stories are developed, coders and programmers turn them into prototypes, then testing is done to make sure the features work and do what is expected. But, agile is more than a way to develop software; it&#8217;s a'
 authors:
   - ktrebon
-categories:
-  - Governance
-  - strategy-and-policy
+topics:
+  - governance
+  - strategy
+  - policy
   - user-testing-and-research
-tag:
   - innovation
 ---
 
@@ -25,7 +25,7 @@ OCSIT and 18F employees serve as the subject matter expert judges. They evaluate
 
 **PROBLEM UNDERSTANDING**: The proposal’s understanding and explanation of the problem that needs to be solved.
 
-**CUSTOMER NEED**: The proposal’s understanding of the customers that the project serves. Ideas are scored and grouped into 3 categories:
+**CUSTOMER NEED**: The proposal’s understanding of the customers that the project serves. Ideas are scored and grouped into 3 topics:
 
   1. Moving forward/being funded
   2. More information is needed, or the project needs to be re-scoped, or

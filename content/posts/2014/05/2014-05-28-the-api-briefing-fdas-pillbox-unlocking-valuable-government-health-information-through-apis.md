@@ -5,17 +5,17 @@ title: 'The API Briefing: NIH&#8217;s Pillbox – Unlocking Valuable Government 
 summary: 'The Food and Drug Administration collects drug labeling information for human prescription, over-the-counter, homeopathic, and veterinary products through a special markup language called &ldquo;Structured Product Labeling&rdquo; (SPL).  The database created from the SPL submissions is a treasure trove of health information that is valuable'
 authors:
   - bbrantley
-categories:
-  - API
-  - Code
-  - Data
-  - strategy-and-policy
-tag:
-  - API
+topics:
+  - api
+  - code
+  - data
+  - strategy
+  - policy
+  - api
   - GitHub
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/05/250-x-250-NLM-National-Library-of-Medicine-Pillbox-app-icon.jpg" alt="National Library of Medicine (NLM) Pillbox app icon" >}}The Food and Drug Administration collects drug labeling information for human prescription, over-the-counter, homeopathic, and veterinary products through a special [markup language](http://en.wikipedia.org/wiki/Markup_language "Definition of Markup Language") called “[Structured Product Labeling](http://www.fda.gov/forindustry/datastandards/structuredproductlabeling/default.htm "Structured Product Labeling")” (SPL). The database created from the SPL submissions is a treasure trove of health information that is valuable to pharmacists, doctors, and the ordinary health consumer. The problem is that data is hard for developers to access and process. Until recently, when the National Library of Medicine released open source code for “[Pillbox](http://developmentseed.org/blog/2014/05/23/pillbox-launches-on-github/ "Pillbox on Github").”

@@ -5,10 +5,10 @@ title: Managing Custom Software Development in Government When You're Not a Soft
 summary: "As custom software development becomes integral to accomplishing any program's mission, many managers in government find themselves faced with handling the unfamiliar: overseeing the design and implementation of a digital product that is functional, user-friendly, and necessary for realizing your program’s mission."
 authors:
   - kaitlin-devine
-categories:
-  - managing-digital
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - strategy
+  - policy
   - 18f
   - agile
   - project-management

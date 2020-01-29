@@ -5,12 +5,11 @@ title: 'The Content Corner: Telling Your Story'
 summary: 'Storytelling plays an important role in helping to establish the human connection that is often lost in today’s digital deluge of information, shares and tweets. A large amount of the content we consume today is derivative, second-hand, and generally passes through us like a breeze. But by using a method of sharing content that is as'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
-  - The Content Corner
-  - US Department of Labor
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
+  - the-content-corner
+  - us-department-of-labor
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Story-word-in-wood-type-marekuliasz-iStock-Thinkstock-492624321.jpg" alt="The word Story in wooded type" caption="" >}} 
@@ -55,4 +54,4 @@ Hopefully, this example has helped show you far more than my minor interest in S
 
 For most of us, there is some aspect of Luke or Deric’s journey that we have experienced either directly or via a loved one (Star Wars’ popularity isn’t just due to special effects). Sharing stories, whether it is Deric’s story and the stories of many others via the Labor blog or the White House’s [Faces of Health Care](https://www.whitehouse.gov/health-care-in-america#faces) section, helps people more directly see the impact a government service could have on their own lives. Customer stories form a portion of the larger story that you should be telling about your agency as a whole.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

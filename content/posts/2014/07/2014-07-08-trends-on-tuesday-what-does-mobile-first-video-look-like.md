@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: What Does Mobile-First Video Look Like?'
 summary: 'Like many Americans during the last month, I developed FIFA fever. Checking on scores, anticipating the latest Google Doodle and watching game highlights became part of my daily iPhone routine. Despite the elimination of Team U.S.A, mobile video consumption continues to win new fans. Consider these mobile video viewing statistics: On average, consumers spend 33 minutes'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
-  - Mobile UX Guideline 5
+topics:
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/07/250-x-276-illustration-film-reel-phone-Mobile-video-Natalia-Silych-iStock-Thinkstock-149793943.jpg" alt="An illustration of a film reel merging with a smart phone to represent mobile video" caption="" >}} 
@@ -30,4 +29,4 @@ The demand for mobile video will only increase, with eMarketer projecting:
 
 > In 2014, 113.4 million US tablet users will watch video programming on their devices at least monthly, representing 77.0% of all tablet users. That penetration rate will grow to 87.0% by 2018, according to eMarketer, totaling 149.0 million tablet video viewers, or 70.1% of all digital video viewers. Add smartphone viewing and the projected numbers grow from 89.0 million in 2014 to grow to 125.4 million by 2018.
 
-So the next time your agency produces video content, don’t forget about optimizing the message for mobile viewers. For more mobile-first strategies, watch the DigitalGov [Mobile Webinar series]({{< link "2013-09-30-mobile-first.md" >}} "Mobile Webinar series").
+So the next time your agency produces video content, don’t forget about optimizing the message for mobile viewers. For more mobile-first strategies, watch the DigitalGov [Mobile Webinar series]({{< ref "2013-09-30-mobile-first.md" >}} "Mobile Webinar series").

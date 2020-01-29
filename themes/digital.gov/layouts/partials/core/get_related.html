@@ -1,0 +1,105 @@
+{{/*
+  ======================================
+  Related Communities and Services
+  ======================================
+*/}}
+
+{{/* Communities ====================== */}}
+
+{{/* gets all pages in the site that are related */}}
+{{- $related_pages := .Site.Pages.Related  . -}}
+
+{{/* gets only the related community pages */}}
+{{- $communities := where $related_pages "Section" "communities" -}}
+
+{{/* Now shuffle the community pages and pick the first 5 */}}
+{{- $communities := first 5 $communities | shuffle -}}
+
+{{/* If there are community pages... */}}
+{{- with $communities -}}
+<section id="related_communities">
+
+  <header>
+    <h3>Join a Community</h3>
+  </header>
+  {{- range $communities -}}
+
+    <div class="promo">
+      <div>
+        <h4><a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a></h4>
+        {{- if .Params.members -}}
+        <p class="members">{{- .Params.members -}}+</p>
+        {{- end -}}
+      </div>
+      <a href="{{ .Params.url }}?dg" title="{{ .Params.head }}"><span></span></a>
+    </div>
+
+  {{- end -}}
+
+  <footer>
+    <p class="more"><a href="{{ "/communities/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "communities") }} communities</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+  </footer>
+
+</section>
+{{- end -}}
+
+
+{{/* Services ====================== */}}
+
+{{/* gets only the related service pages */}}
+{{- $services := where $related_pages "Section" "services" -}}
+
+{{/* Now shuffle the service pages and pick the first 5 */}}
+{{- $services := first 5 $services | shuffle -}}
+
+{{/* If there are services... */}}
+{{- with $services -}}
+<section id="related_services">
+
+  <header>
+    <h3>Get Started Building</h3>
+  </header>
+  {{- range $services -}}
+
+  <div class="promo" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+    {{ if .Params.source_url -}}
+    <div>
+      <h4>
+        <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
+      </h4>
+      {{- if .Params.icon -}}
+        {{- $src := (print "/logos/" .Params.icon) -}}
+        <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+      {{- else -}}
+        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+      {{- end -}}
+
+    </div>
+    <a class="overlay" href="{{ .Params.source_url }}?=dg" title="{{ .Params.title }}"><span></span></a>
+
+    {{- else -}}
+
+    <div>
+      <h4>
+        <a href="{{- .Params.url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
+      </h4>
+      {{- if .Params.icon -}}
+        {{- $src := (print "/logos/" .Params.icon) -}}
+        <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+      {{- else -}}
+        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+      {{- end -}}
+
+    </div>
+    <a class="overlay" href="{{ .Params.url }}?=dg" title="{{ .Params.title }}"><span></span></a>
+    {{ end }}
+  </div>
+
+  {{- end -}}
+
+  <footer>
+    <p class="more"><a href="{{ "/services/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "services") }} services</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+  </footer>
+
+</section>
+{{- end -}}

@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: Focus on Mobile Performance to Provide Better Mobile 
 summary: The New York Times recently published a report evaluating the cost of mobile ads on news websites and found that on many of the major sites, the ads were taking as much bandwidth and time as the content (if not more, in some cases). This comes after the recent hubub over Apple starting to allow
 authors:
   - wsullivan
-categories:
-  - Mobile
-  - Monthly Theme
-tag:
+topics:
   - mobile
-  - Trends on Tuesday
-  - user experience
-  - UX
+  - monthly-theme
+  - mobile
+  - trends-on-tuesday
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Skip-ad-sign-tzahiV-iStock-Thinkstock-475523390.jpg" alt="Skip ad sign" caption="" >}} 
@@ -27,4 +26,4 @@ After [initially pushing back on the new ad blocking](http://www.adweek.com/news
 
 &#8220;We messed up,&#8221; said Scott Cunningham, senior vice president of technology and ad operations at the IAB. &#8220;Looking back now, our scraping of dimes may have cost us dollars in consumer loyalty.&#8221;
 
-The key to fix this is to always build your digital products with a user-centered design, especially when creating [mobile moments]({{< link "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}): [performance and speed]({{< link "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}) are often the most important factors for the user to have an excellent experience.
+The key to fix this is to always build your digital products with a user-centered design, especially when creating [mobile moments]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}): [performance and speed]({{< ref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}) are often the most important factors for the user to have an excellent experience.

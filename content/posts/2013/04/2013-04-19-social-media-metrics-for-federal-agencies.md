@@ -5,11 +5,10 @@ title: Social Media Metrics for Federal Agencies
 summary: 'Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis&mdash;using the vast'
 authors:
   - jherman
-categories:
-  - Metrics
-  - Social Media
-tag:
-  - SocialGov
+topics:
+  - metrics
+  - social-media
+  - socialgov
 aliases:
   - /resources/federal-social-media-analytics-toolkit-hackpad/
 ---
@@ -53,7 +52,7 @@ While agencies will continue to have unique requirements, working towards a comm
 
 The baseline social media metrics in Part 3 are designed to align generally with the [White House&#8217;s Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). The broader digital metrics outline five major categories for analysis. These recommendations adopt those categories as universally shared between Web and social analysis, and provides two additional categories for agencies to directly link their metrics to goals: campaigns and strategic outcomes.
 
-There are 10 basic metrics that agencies can analyze through all platforms; organized into seven main categories:
+There are 10 basic metrics that agencies can analyze through all platforms; organized into seven main topics:
 
   * **Breadth**
       * Community Size

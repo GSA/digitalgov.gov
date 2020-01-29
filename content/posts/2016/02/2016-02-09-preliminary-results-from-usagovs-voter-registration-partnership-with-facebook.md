@@ -5,16 +5,15 @@ title: 'Preliminary Results from USAGov&#8217;s Voter Registration Partnership w
 summary: 'The first phase of our partnership with Facebook included Facebook &#8220;megaphones&#8221; being rolled out in a handful of states with rapidly approaching voter registration deadlines. Facebook&#8217;s megaphone is a featured box that is displayed at the top of all user&#8217;s News Feeds. (You may recall seeing these after certain disasters giving users the option to'
 authors:
   - jessica-milcetich
-categories:
-  - Metrics
-  - Social Media
-tag:
+topics:
+  - metrics
+  - social-media
   - analytics
-  - analytics.usa.gov
-  - Facebook
-  - social media
-  - social media metrics
-  - USAgov
+  - analytics-usa-gov
+  - facebook
+  - social-media
+  - social-media-metrics
+  - usagov
 ---
 
 The first phase of our partnership with Facebook included Facebook &#8220;megaphones&#8221; being rolled out in a handful of states with rapidly approaching voter registration deadlines. Facebook&#8217;s megaphone is a featured box that is displayed at the top of all user&#8217;s News Feeds. (You may recall seeing these after certain disasters giving users the option to quickly donate to Red Cross or other organizations).
@@ -37,6 +36,6 @@ On January 25, the megaphone rolled out in Texas, Georgia, Arkansas and Tennesse
 
 We noticed that the conversion rate was lower in the second set of states, and we&#8217;re still digging into that data to see if we can figure out why.
 
-This partnership is just one part of our year-long campaign, known as #VoteUSA, to help Americans actively take part in our democracy through voting. We&#8217;ll be sharing more from the campaign through out the year. If you&#8217;re working on anything related to voter education and empowerment for the upcoming elections, you can always feel free to [drop us a line](mailto:usapartnerships@gsa.gov). {{< legacy-img src="2016/01/600-x-400-Your-vote-is-important-Chromatika-Multimedia-iStock-Thinkstock-155612592.jpg" alt="A puzzle piece from an American flag puzzle is the one piece out of place and reads, Your vote is important." caption="" >}} 
+This partnership is just one part of our year-long campaign, known as #VoteUSA, to help Americans actively take part in our democracy through voting. We&#8217;ll be sharing more from the campaign through out the year. If you&#8217;re working on anything related to voter education and empowerment for the upcoming elections, you can always feel free to [drop us a line](mailto:usapartnerships@gsa.gov). {{< legacy-img src="2016/01/600-x-400-Your-vote-is-important-Chromatika-Multimedia-iStock-Thinkstock-155612592.jpg" alt="A puzzle piece from an American flag puzzle is the one piece out of place and reads, Your vote is important." caption="" >}}
 
 _This article [originally published](https://blog.usa.gov/preliminary-results-from-voter-registration-partnership-with-facebook) on the [USAgov blog](https://blog.usa.gov/), by Jessica Milcetich, a member of the USAGov Marketing and Outreach Team._

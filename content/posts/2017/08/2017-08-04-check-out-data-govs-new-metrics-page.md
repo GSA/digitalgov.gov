@@ -5,13 +5,12 @@ title: 'Check out Data.gov&#8217;s New Metrics Page'
 summary: 'Data.gov recently updated its Metrics page to provide greater detail and transparency to the progress of the Data.gov catalog. Data.gov is primarily a metadata catalog, providing information about, and links to, open datasets made available by federal agencies and participating non-federal sources such as state, county, and city'
 authors:
   - data-gov-team
-categories:
-  - Data
-  - Metrics
-tag:
+topics:
+  - data
+  - metrics
   - analytics
   - data
-  - data.gov
+  - data-gov
   - metrics
 ---
 

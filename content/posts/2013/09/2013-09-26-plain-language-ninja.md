@@ -5,12 +5,11 @@ title: Plain Language Ninja
 summary: 'A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division. So I scooted my chair over and looked at it. Then I looked at him and asked, &ldquo;But what'
 authors:
   - katherine-spivey
-categories:
-  - Content
-  - UX
-  - Writing
-tag:
-  - Plain language
+topics:
+  - content
+  - ux
+  - writing
+  - plain-language
 ---
 
 [{{< legacy-img src="2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151-250x125.jpg" alt="community center children work at a computer" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division.

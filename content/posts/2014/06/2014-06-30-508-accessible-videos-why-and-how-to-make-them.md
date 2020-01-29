@@ -7,12 +7,11 @@ authors:
   - jonathan-rubin
   - ryan-leisinger
   - gary-morin
-categories:
-  - Accessibility
-  - UX
-  - Video
-tag:
-  - section 508
+topics:
+  - accessibility
+  - ux
+  - video
+  - section-508
   - YouTube
 ---
 
@@ -23,15 +22,15 @@ tag:
 </p>
 
   1. <p dir="ltr">
-      <a title="508 Accessible Videos – How to Caption Videos" href="{{< link "2014-06-30-508-accessible-videos-how-to-caption-videos.md" >}}">Captioning</a>
+      <a title="508 Accessible Videos – How to Caption Videos" href="{{< ref "2014-06-30-508-accessible-videos-how-to-caption-videos.md" >}}">Captioning</a>
     </p>
 
   2. <p dir="ltr">
-      <a title="508 Accessible Videos – How to Make Audio Descriptions" href="{{< link "2014-06-30-508-accessible-videos-how-to-make-audio-descriptions.md" >}}">Audio descriptions</a>
+      <a title="508 Accessible Videos – How to Make Audio Descriptions" href="{{< ref "2014-06-30-508-accessible-videos-how-to-make-audio-descriptions.md" >}}">Audio descriptions</a>
     </p>
 
   3. <p dir="ltr">
-      <a title="508 Accessible Videos – Use a 508-Compliant Video Player" href="{{< link "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}">An Accessible video player</a>
+      <a title="508 Accessible Videos – Use a 508-Compliant Video Player" href="{{< ref "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}">An Accessible video player</a>
     </p>
 
 ### Why Accessibility Matters
@@ -57,15 +56,15 @@ tag:
 Accessible videos have three main elements:
 
   * <p dir="ltr">
-      <a title="508 Accessible Videos – How to Caption Videos" href="{{< link "2014-06-30-508-accessible-videos-how-to-caption-videos.md" >}}">Captions</a>—The audio parts of your video appear as text at the appropriate time and give access to people who are hearing impaired or deaf.
+      <a title="508 Accessible Videos – How to Caption Videos" href="{{< ref "2014-06-30-508-accessible-videos-how-to-caption-videos.md" >}}">Captions</a>—The audio parts of your video appear as text at the appropriate time and give access to people who are hearing impaired or deaf.
     </p>
 
   * <p dir="ltr">
-      An <a title="508 Accessible Videos – How to Make Audio Descriptions" href="{{< link "2014-06-30-508-accessible-videos-how-to-make-audio-descriptions.md" >}}">audio description</a>—A description of a video&#8217;s visual elements, gives access to people who are blind or visually impaired.
+      An <a title="508 Accessible Videos – How to Make Audio Descriptions" href="{{< ref "2014-06-30-508-accessible-videos-how-to-make-audio-descriptions.md" >}}">audio description</a>—A description of a video&#8217;s visual elements, gives access to people who are blind or visually impaired.
     </p>
 
   * <p dir="ltr">
-      A <a title="508 Accessible Videos – Use a 508-Compliant Video Player" href="{{< link "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}">508-compliant video player</a>—Ensures a person who requires keyboard navigation or an assistive device can navigate the window where the video plays (that is, the video player).
+      A <a title="508 Accessible Videos – Use a 508-Compliant Video Player" href="{{< ref "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}">508-compliant video player</a>—Ensures a person who requires keyboard navigation or an assistive device can navigate the window where the video plays (that is, the video player).
     </p>
 
 #### Is YouTube 508-Compliant?
@@ -87,5 +86,5 @@ Also remember that most video sharing sites frequently redesign their interfaces
     </p>
 
   * <p dir="ltr">
-      <strong>Uncut Footage</strong>—<a href="{{< link "2012-05-07-find-free-video-stock-footage.md" >}}">Raw footage or B roll</a>—that&#8217;s either included in its original form (uncut) for reporters to use or put up in draft form. This footage should be labeled as “unfinished” and not in its final form.
+      <strong>Uncut Footage</strong>—<a href="{{< ref "2012-05-07-find-free-video-stock-footage.md" >}}">Raw footage or B roll</a>—that&#8217;s either included in its original form (uncut) for reporters to use or put up in draft form. This footage should be labeled as “unfinished” and not in its final form.
     </p>

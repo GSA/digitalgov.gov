@@ -1,0 +1,105 @@
+{{/*
+  ======================================
+  Services Promos (for articles)
+  ======================================
+*/}}
+
+{{/* Gets the get_topics associated with this post */}}
+{{ $post_topics := .Params.topics }}
+
+{{/* IMPORTANT */}}
+{{/* This is an empty array (a.k.a. slice) */}}
+{{ $.Scratch.Set "related_services" (slice " ") }}
+
+{{/* For each topic in the post... */}}
+{{ range $i, $topic := $post_topics }}
+
+  {{/* Get all the services */}}
+  {{ $services := $.Site.GetPage "page" "services" }}
+  {{/* {{ $communities }} */}}
+  {{ $services := (where $.Site.Pages "Section" "services") }}
+  {{/* Get all the services WHERE page weight == 3 */}}
+  {{/* {{ $services := where ($services.Resources.ByType "page") ".Params.weight" 3 }} */}}
+  {{/* If there are any services */}}
+  {{ with $services }}
+
+    {{/* For each services */}}
+    {{ range $i, $e := $services }}
+      {{/* get the topic associated with the services */}}
+      {{ $service_topics := .Params.topics }}
+
+      {{/* If the $topic is in one of these services,... */}}
+      {{/* display the services */}}
+      {{ if in $service_topics $topic }}
+
+      {{/* This appends/adds the .File.LogicalName to the array */}}
+      {{- with .File -}}
+        {{ $.Scratch.Add "related_services" (slice .LogicalName ) }}
+      {{- end -}}
+
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Removes the duplicate file names in the array */}}
+{{ $related_services := uniq ($.Scratch.Get "related_services") }}
+
+{{ if $related_services }}
+  {{/* If there are related services... */}}
+  {{ if gt (len $related_services) 1 }}
+  <section id="related_services">
+
+    <header>
+      <h3>Get Started Building</h3>
+    </header>
+
+    {{/* Let's loop through the service pages that have similar topics! */}}
+    {{ range $i, $e := $related_services }}
+
+      {{/* Finally we can get the services/pages and their data */}}
+      {{ with $.Site.GetPage (print "/services/" $e) }}
+
+      <div class="promo" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        {{ if .Params.source_url -}}
+        <div>
+          <h4>
+            <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
+          </h4>
+          {{- if .Params.icon -}}
+            {{- $src := (print "/logos/" .Params.icon) -}}
+            <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+          {{- else -}}
+            <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+          {{- end -}}
+
+        </div>
+        <a class="overlay" href="{{ .Params.source_url }}?=dg" title="{{ .Params.title }}"><span></span></a>
+
+        {{- else -}}
+
+        <div>
+          <h4>
+            <a href="{{- .Params.url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
+          </h4>
+          {{- if .Params.icon -}}
+            {{- $src := (print "/logos/" .Params.icon) -}}
+            <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+          {{- else -}}
+            <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+          {{- end -}}
+
+        </div>
+        <a class="overlay" href="{{ .Params.url }}?=dg" title="{{ .Params.title }}"><span></span></a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+    {{ end }}
+
+    <footer>
+      <p class="more"><a href="{{ "/services/" | absURL }}"><span>See all {{ len (where .Site.Pages "Section" "services") }} services</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+    </footer>
+  </section>
+  {{ end }}
+{{ end }}

@@ -5,19 +5,18 @@ title: 'The Smithsonian’s IPOP Exhibition Framework: Lessons for a Human-Cente
 summary: 'One of the great challenges in designing a product &mdash; digital or otherwise &mdash; is stepping outside yourself and climbing into the minds of your users. You love the wonderful new app you’ve designed, but will it appeal to others? Fortunately, the field of user experience design (UX) gives us tools to understand our users through surveys, interviews, card'
 authors:
   - ben-bloom
-categories:
-  - Content
-  - Design
-  - Mobile
-  - UX
-tag:
+topics:
+  - content
+  - design
+  - mobile
+  - ux
   - apps
-  - Augmented Reality
-  - mobile apps
-  - Smithsonian Institution
-  - user experience
-  - UX
-  - Virtual/Augmented Reality Community
+  - augmented-reality
+  - mobile-apps
+  - smithsonian-institution
+  - user-experience
+  - ux
+  - virtual-augmented-reality-community
 ---
 
 One of the great challenges in designing a product — digital or otherwise — is stepping outside yourself and climbing into the minds of your users. You love the wonderful new app you’ve designed, but will it appeal to others? Fortunately, the field of user experience design (UX) gives us tools to understand our users through surveys, interviews, card sorting, and user testing.
@@ -79,6 +78,6 @@ Of course, creating broad and diverse content is nothing new. Designers of rich 
 
 {{< legacy-img src="2016/12/600-x-450-04\_skin\_and\_bones\_splash_screen.jpg" alt="Skin and Bones: Splash Screen, Office of Education & Outreach, Smithsonian’s National Museum of Natural History" >}}
 
- _[Benjamin Bloom]({{< link "author/ben-bloom" >}}) is a Web Developer at the [Smithsonian National Portrait Gallery](http://npg.si.edu/)._
-_Learn what other federal agencies are working on in [UX]({{< link "categories/ux" >}}), [design]({{< link "categories/design" >}}), [content development and strategies]({{< link "categories/content" >}}), [augmented reality]({{< link "tag/augmented-reality" >}}), and [mobile]({{< link "categories/mobile" >}})._
-_[Visit our Communities page]({{< link "/communities/" >}}) to find out how to join groups like the Federal User Experience Community, MobileGov, Virtual/Augmented Reality, and Digital Audio/Video Production and Strategy._
+ _[Benjamin Bloom]({{< ref "/authors/ben-bloom" >}}) is a Web Developer at the [Smithsonian National Portrait Gallery](http://npg.si.edu/)._
+_Learn what other federal agencies are working on in [UX]({{< ref "/topics/ux" >}}), [design]({{< ref "/topics/design" >}}), [content development and strategies]({{< ref "/topics/content" >}}), [augmented reality]({{< ref "/topics/augmented-reality" >}}), and [mobile]({{< ref "/topics/mobile" >}})._
+_[Visit our Communities page]({{< ref "/communities" >}}) to find out how to join groups like the Federal User Experience Community, MobileGov, Virtual/Augmented Reality, and Digital Audio/Video Production and Strategy._

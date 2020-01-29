@@ -15,9 +15,8 @@ registration_url: https://www.eventbrite.com/e/dap-webinar-for-federal-privacy-p
 youtube_id: bYkOqGiPXKE
 aliases:
   - /event/2019/01/29/analyzing-web-metrics-for-federal-privacy-professionals/
-categories:
+topics:
   - metrics
-tag:
   - analytics
   - dap
   - digital-analytics-program

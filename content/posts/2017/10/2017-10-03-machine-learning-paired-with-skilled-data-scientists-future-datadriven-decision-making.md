@@ -5,9 +5,8 @@ title: 'Machine Learning Paired with Skilled Data Scientists is the Future of Da
 summary: ML can provide high-value services for data management and analytics, security threat detection, and process improvement but it doesn't stop there.
 authors:
   - jada-jones
-categories:
+topics:
   - data
-tag:
   - ai
   - artificial-intelligence
   - big-data
@@ -15,7 +14,6 @@ tag:
   - data
   - defense-advanced-research-projects-agency
   - hhs
-  - machine-learning
   - nasa
   - national-aeronautics-and-space-administration
   - trends-on-tuesday
@@ -51,4 +49,4 @@ Learn more about some innovative ways that federal agencies are utilizing Machin
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
 
-_Interested in connecting with other feds exploring machine learning, artificial intelligence (AI), and similar innovations? Check out our new [Emerging Citizen Technology program]({{< link "2017/08/24/emerging-tech-and-open-data-for-a-more-open-and-accountable-government/" >}}) and join the related [Communities of Practice]({{< link "communities/" >}})._
+_Interested in connecting with other feds exploring machine learning, artificial intelligence (AI), and similar innovations? Check out our new [Emerging Citizen Technology program]({{< ref "2017-08-24-emerging-tech-and-open-data-for-a-more-open-and-accountable-government.md" >}}) and join the related [Communities of Practice]({{< ref "/communities" >}})._

@@ -5,19 +5,18 @@ title: Pillbox Google Hangout for Developers
 summary: 'Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a Google Hangout to talk about developing with the API, data, and open source code from Pillbox. I (Pillbox project manager), Mark Silverberg of Social Health'
 authors:
   - david-hale
-categories:
-  - API
-  - Data
-tag:
-  - FDA
+topics:
+  - api
+  - data
+  - fda
   - HHS
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
-  - NIH
+  - nih
   - NLM
-  - open source
-  - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - open-source
+  - us-food-and-drug-administration
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/05/250-x-250-NLM-National-Library-of-Medicine-Pillbox-app-icon.jpg" alt="National Library of Medicine (NLM) Pillbox app icon" >}}Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a [Google Hangout](https://plus.google.com/events/ce9jgn3qt5p8djudq0eekreja1k) to talk about developing with the API, data, and open source code from Pillbox.

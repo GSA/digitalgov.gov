@@ -5,17 +5,16 @@ title: '6 Digital Media Trends for 2015: You Can Make Them Accessible!'
 summary: ' Resolutions and predictions abound this time of year. If you’ve already lost the fight to finally give up sardine ice cream, you can always resolve to maintain or improve your digital media accessibility. Some people say that accessibility and Section 508 compliance squashes'
 authors:
   - angela-hooker
-categories:
-  - Accessibility
-  - Monthly Theme
-  - UX
-tag:
+topics:
   - accessibility
-  - content strategy
+  - monthly-theme
+  - ux
+  - accessibility
+  - content-strategy
   - mobile
-  - Plain language
-  - section 508
-  - social media
+  - plain-language
+  - section-508
+  - social-media
 ---
 
 {{< legacy-img src="2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." >}}
@@ -31,7 +30,7 @@ Let’s look at six digital media predictions to see how you can use them and st
       * Also consider that animations can distract people who have cognitive impairments. See WebAIM’s [distractability simulation](http://webaim.org/simulations/distractability) to experience it for yourself.
   3. In its article on [design trends that will rule 2015](http://designmodo.com/web-design-trends-2015/), Designmodo says that we’ll see more unique navigation menus. It’s always good to see trends that can improve the user experience; however, there’s a good reason that Vincent Flanders coined the term “[mystery meat navigation](http://www.webpagesthatsuck.com/mysterymeatnavigation.html),” back in the earlier Web days. 
       * A [clear and well-defined navigation scheme](http://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html) will benefit all users, including people who have cognitive impairments. If you decide to create a unique menu, be sure that your audience can easily perceive it as navigation and use the navigation scheme consistently throughout your project.
-  4. Forbes Magazine says that [content marketing will become inseparable from social media marketing](http://www.forbes.com/sites/jaysondemers/2014/12/01/the-top-7-content-marketing-trends-that-will-dominate-2015/). This means that [writing in plain language]({{< link "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}) is more important than ever. Because we write shorter messages on some social media platforms, conveying your message in a clear manner—using limited characters—can be a real challenge. 
+  4. Forbes Magazine says that [content marketing will become inseparable from social media marketing](http://www.forbes.com/sites/jaysondemers/2014/12/01/the-top-7-content-marketing-trends-that-will-dominate-2015/). This means that [writing in plain language]({{< ref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}) is more important than ever. Because we write shorter messages on some social media platforms, conveying your message in a clear manner—using limited characters—can be a real challenge. 
       * Learn about the audiences you’ll need to consider when you’re [writing accessible content](http://www.slideshare.net/AccessForAll/make-it-plain-accessbility-and-usability-through-plain-language).
   5. Creative Bloq discusses the [decline of the website](http://www.creativebloq.com/web-design/trends-2015-101413303) and AdAge’s Digital Next blog goes even further by recommending a [mobile-only strategy](http://adage.com/article/digitalnext/time-a-mobile-digital-strategy/296727/). We’ve been approaching this trend since the &#8220;mobile first&#8221; movement began. A mobile presence is important since some people only use mobile devices for Web access. 
       * When it comes to people with disabilities, having a desktop website is still critical. According to [WebAIM’s fifth screen reader survey](http://webaim.org/projects/screenreadersurvey5/#mobiledesktopusage) and their [survey of people with motor disabilities](http://webaim.org/projects/motordisabilitysurvey/#mobile), the respondents either prefer to use laptop or desktop computers for their Web experiences, or they still use desktop instead of mobile. This is probably because it’s easier to use their assistive technologies on those devices. By all means, have a mobile presence, but also serve the needs of people who aren’t able or willing to rely on a mobile device for their Web use.

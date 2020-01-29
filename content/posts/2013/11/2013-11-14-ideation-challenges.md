@@ -5,9 +5,8 @@ title: Ideation Challenges
 summary: 'Tips for Conducting an Ideation Challenge Examples of Ideation Challenges Criteria for Choosing an Ideation Platform Online Platforms and Tools Challenge and prize competitions are one tool that federal agencies use to drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. One type of competition is ideation, which allows you to collect ideas from'
 authors:
   - ktrebon
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - innovation
 ---
 
@@ -27,7 +26,7 @@ This section provides tips on running an ideation challenge, resources, examples
 
 <div>
   <p>
-    Ideation is the process of generating and developing new ideas to solve a problem or improve a product, process, or service. Public and private sector organizations commonly engage in ideation with the public or their customers. Challenge and prize competitions can gather ideas from the public, including experts, academics, students, and the private sector, on how to solve a problem. Sometimes the ideation phase is the first of several stages, where ideas are implemented in later phases, such as an apps or <a href="https://digitalgov.sites.usa.gov/wp-admin/post.php?post=94962&action=edit">technology demonstration challenge</a>.
+    Ideation is the process of generating and developing new ideas to solve a problem or improve a product, process, or service. Public and private sector organizations commonly engage in ideation with the public or their customers. Challenge and prize competitions can gather ideas from the public, including experts, academics, students, and the private sector, on how to solve a problem. Sometimes the ideation phase is the first of several stages, where ideas are implemented in later phases, such as an apps or <a href="https://digital.gov/wp-admin/post.php?post=94962&action=edit">technology demonstration challenge</a>.
   </p>
   
   <h2>
@@ -208,7 +207,7 @@ This section provides tips on running an ideation challenge, resources, examples
   </h2>
   
   <p>
-    The following list of tools and challenge platforms is provided as a resource and is not an endorsement for any company or technology. Those companies that are on the GSA Schedule <a href="http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES">541-4G for Challenges & Competition Services</a> are noted with (GS) next to the company name. Those that have a federal-compatible <a href="{{< link "negotiated-terms-of-service-agreements.md" >}}">Terms of Service</a> are noted with a (ToS) next to the company name.
+    The following list of tools and challenge platforms is provided as a resource and is not an endorsement for any company or technology. Those companies that are on the GSA Schedule <a href="http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES">541-4G for Challenges & Competition Services</a> are noted with (GS) next to the company name. Those that have a federal-compatible <a href="{{< ref "negotiated-terms-of-service-agreements.md" >}}">Terms of Service</a> are noted with a (ToS) next to the company name.
   </p>
   
   <p>
@@ -220,7 +219,7 @@ This section provides tips on running an ideation challenge, resources, examples
   </p>
   
   <p>
-    <a href="http://challenge.sites.usa.gov/">GSA Ideation Platform</a><br /> This is a no-cost, online tool for federal agencies to run ideation crowdsourcing competitions. The Challenge.gov team built this ideation tool on the <a href="https://sites.usa.gov/">sites.usa.gov platform</a> and launched it in February 2014. Watch the on-demand webinar to learn <a href="{{< link "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}">how to</a> use <a href="http://challenge.sites.usa.gov/">Challenge.sites.usa.gov</a>. Contact <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> for more information.
+    <a href="http://challenge.sites.usa.gov/">GSA Ideation Platform</a><br /> This is a no-cost, online tool for federal agencies to run ideation crowdsourcing competitions. The Challenge.gov team built this ideation tool on the <a href="https://sites.usa.gov/">sites.usa.gov platform</a> and launched it in February 2014. Watch the on-demand webinar to learn <a href="{{< ref "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}">how to</a> use <a href="http://challenge.sites.usa.gov/">Challenge.sites.usa.gov</a>. Contact <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> for more information.
   </p>
   
   <p>

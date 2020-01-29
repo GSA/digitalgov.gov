@@ -6,22 +6,21 @@ summary: Cancer clinical trials are a critically important step on the pathway f
 authors:
   - sheila-prindiville
   - michael-balint
-categories:
-  - API
-  - Code
-  - Content
-  - Data
-  - UX
-tag:
-  - API
+topics:
+  - api
+  - code
+  - content
+  - data
+  - ux
+  - api
   - code
   - content
   - data
   - innovation
-  - National Cancer Institute
-  - National Institutes of Health
+  - national-cancer-institute
+  - national-institutes-of-health
   - NCI
-  - NIH
+  - nih
   - PIF
   - Presidential Innovation Fellows
 ---

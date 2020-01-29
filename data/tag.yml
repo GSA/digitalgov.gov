@@ -27,7 +27,7 @@ agile-lean-community-of-practice:
 ai:
   display_name: "AI"
 aids-gov:
-  display_name: "AIDS.Gov"
+  display_name: "AIDS.gov"
 american-battle-monuments-commission:
   display_name: "American Battle Monuments Commission"
 american-red-cross:
@@ -37,7 +37,7 @@ americans-with-disabilities-act:
 analytics:
   display_name: "Analytics"
 analytics-usa-gov:
-  display_name: "analytics.usa.gov"
+  display_name: "Analytics.usa.gov"
 animal-and-plant-health-inspection-service:
   display_name: "Animal and Plant Health Inspection Service"
 anle:
@@ -415,7 +415,7 @@ gamification:
 gao:
   display_name: "GAO"
 github:
-  display_name: "Github"
+  display_name: "GitHub"
 gobiernousagov:
   display_name: "GobiernoUSA.gov"
 google-analytics:
@@ -515,7 +515,7 @@ lep:
 library-of-congress:
   display_name: "Library of Congress"
 linkedin:
-  display_name: "Linkedin"
+  display_name: "LinkedIn"
 loc:
   display_name: "LOC"
 m3-framework:

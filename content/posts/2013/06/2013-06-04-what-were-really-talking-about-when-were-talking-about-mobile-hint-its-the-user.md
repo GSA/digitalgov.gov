@@ -5,15 +5,14 @@ title: 'What We&#8217;re (Really) Talking About When We&#8217;re Talking About M
 summary: It used to be when we said mobile we meant activities and devices defined strictly by mobility and the features associated with it, such as GPS, SMS, barcode readers, cell phones, etc. But when I found myself in my easy chair watching a ballgame on my
 authors:
   - jim-costello
-categories:
-  - Managing Digital
-  - Mobile
-tag:
+topics:
+  - product-management
   - mobile
-  - Mobile App Development Program
-  - mobile gov
-  - responsive web design
-  - user experience
+  - mobile
+  - mobile-app-development-program
+  - mobile-gov
+  - responsive-web-design
+  - user-experience
 ---
 
 [{{< legacy-img src="2014/01/Usability.gov-reboot-450x300.jpg" alt="Mobile devices - Laptop, tablets, smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Usability.gov-reboot.jpg)It used to be when we said mobile we meant activities and devices defined strictly by mobility and the features associated with it, such as GPS, SMS, barcode readers, cell phones, etc. But when I found myself in my easy chair watching a ballgame on my laptop because it was closer than the TV, while checking other scores on my smartphone, mobility had little to do with it. If anything, I was the anti-mobile user. And that’s when I finally understood that the “mobility” landscape has expanded and covers a far greater range of uses than the simple term <span style="text-decoration: line-through">of</span> “mobile” can encompass.
@@ -22,4 +21,4 @@ When we say “mobile” now, we are really referring to the broad range of user
 
 How, where, and when are users (including your workers) accessing your information and interacting with you? And what are they looking for and doing? It’s not a one-size-fits-all answer; it’s a personal experience and personalized to the context. Whether you’re a government agency or a private agency, these new individualized conditions determine how you interact and provide information. That’s what [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) is all about; it grew out of new demands created by mobile, but it’s more than mobile. Yes, all the strictly mobile elements still apply, and we need to think about those capabilities when designing applications for workers or delivering services to citizens, but that’s just a starting point, not the end. None of us can assume that mobile does not apply to our situation — the situation has changed. We don’t know how or when people will be interacting with us in this new digital landscape, but we do know that we need to meet them appropriately for their situation and device. If not, we won’t be meeting them at all. And that’s not a good thing.
 
-There are programs in the federal government to get agencies starting to think about the mobile user. Recently, the Digital Services Innovation Center released the [Mobile App Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
+There are programs in the federal government to get agencies starting to think about the mobile user. Recently, the Digital Services Innovation Center released the [Mobile App Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.

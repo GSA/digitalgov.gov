@@ -5,17 +5,17 @@ title: How Creating On-The-Fly Digital Content Can Fill an Immediate Audience Ne
 summary: 'When some U.S. athletes at this month’s Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be. In less than a day after the spots were&hellip;spotted, the story of the mysterious circles was becoming clearer: they'
 authors:
   - yasmine-kloth
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
   - content
-  - content strategy
+  - product-management
+  - strategy
+  - policy
+  - content
+  - content-strategy
   - National Center for Complementary and Integrative Health
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCCIH
-  - NIH
+  - nih
 ---
 
 When some U.S. athletes at this month’s Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be.
@@ -86,5 +86,5 @@ What these results tell us, particularly with regard to the actual time spent by
   We shared the information across our digital platforms in a timely manner that made it relevant to the ongoing conversation about cupping.
 </li>
 
-In an ideal world, we would have seen this coming. But a big part of [developing digital content]({{< link "2016-02-01-the-content-corner-four-ways-to-help-your-content-stand-out.md" >}}) for successful platforms is balancing being prepared (think well-developed and thought-out [content calendars]({{< link "2015-03-02-the-content-corner-catching-a-wave.md" >}}) with [crafting relevant and timely content]({{< link "2016-08-08-the-content-corner-on-the-fly-content-strategies-round-offs-back-handsprings-and-double-twisting-layouts-not-required.md" >}}) for those on-the-fly, newsworthy moments that you just can’t predict. Like when a world-renowned gymnast walks onto his apparatus with his skin covered in large, red, angry-looking circles and everyone wants to know: _What are those?_
+In an ideal world, we would have seen this coming. But a big part of [developing digital content]({{< ref "2016-02-01-the-content-corner-four-ways-to-help-your-content-stand-out.md" >}}) for successful platforms is balancing being prepared (think well-developed and thought-out [content calendars]({{< ref "2015-03-02-the-content-corner-catching-a-wave.md" >}}) with [crafting relevant and timely content]({{< ref "2016-08-08-the-content-corner-on-the-fly-content-strategies-round-offs-back-handsprings-and-double-twisting-layouts-not-required.md" >}}) for those on-the-fly, newsworthy moments that you just can’t predict. Like when a world-renowned gymnast walks onto his apparatus with his skin covered in large, red, angry-looking circles and everyone wants to know: _What are those?_
 _Yasmine Kloth is a Digital and Social Media Strategist at the National Center for Complementary and Integrative Health, National Institutes of Health (NIH)._

@@ -5,28 +5,27 @@ title: 'The Content Corner: Defining Your Core'
 summary: Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the content pillar and various other aspects of developing a solid content strategy. Recent research from the Content Marketing Institute found the average business-to-business (B2B) company uses 13 content marketing tactics or
 authors:
   - tyrus-manuel
-categories:
-  - Content
-  - Social Media
-tag:
+topics:
+  - content
+  - social-media
   - BLM
-  - content strategy
-  - social media
+  - content-strategy
+  - social-media
   - The Bureau of Land Management
-  - The Content Corner
+  - the-content-corner
 ---
 
-Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
+Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
 
 [Recent research](http://contentmarketinginstitute.com/2015/09/simple-content-marketing-model/) from the Content Marketing Institute found the average business-to-business (B2B) company uses 13 content marketing tactics or channels, such as blogs, videos, events, etc. I&#8217;m sure that most federal agencies also have as wide an array of channels as well. DigitalGov itself is a good example, where we leverage blogs, videos, podcasts, live events (both in-person and Web-based), plus several social media accounts. That is a lot of ways to share and consume information.
 
-One important thing is to remember or establish what your core channel is. I like to refer to it as home base: it should be where all your other content channels lead back to. And it doesn&#8217;t always have to be your .gov homepage; in fact, it seems more and more common that an agency or company&#8217;s core is [not their traditional homepage]({{< link "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}}).
+One important thing is to remember or establish what your core channel is. I like to refer to it as home base: it should be where all your other content channels lead back to. And it doesn&#8217;t always have to be your .gov homepage; in fact, it seems more and more common that an agency or company&#8217;s core is [not their traditional homepage]({{< ref "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}}).
 
 ## Building a Home on Someone Else&#8217;s Land
 
 {{< legacy-img src="2015/01/600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841.jpg" alt="600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841" >}}
 
-As you work to establish your home base or core channel, be careful if you set up camp on a platform where you have little control and no true ownership. Similar to concerns about [user-generated content (UGC)]({{< link "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}), you have to be aware of the [terms of service]({{< link "negotiated-terms-of-service-agreements.md" >}}) on platforms such as Facebook, Twitter, YouTube and Tumblr.
+As you work to establish your home base or core channel, be careful if you set up camp on a platform where you have little control and no true ownership. Similar to concerns about [user-generated content (UGC)]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}), you have to be aware of the [terms of service]({{< ref "negotiated-terms-of-service-agreements.md" >}}) on platforms such as Facebook, Twitter, YouTube and Tumblr.
 
 A frequent issue with these platforms, such as Facebook, has been their changes to algorithms and how that can impact your exposure. A slight tweak can have a huge impact on your audiences, such as the [news feed changes they implemented in 2014](http://mashable.com/2014/04/16/news-feed-changes). We all know the importance of various social media channels, but I recommend thinking of them as supplements or feeders for your core and not your core itself.
 
@@ -48,6 +47,6 @@ I have already presented DigitalGov as a great example, and one of the other age
 
 At first blush, one could offer an argument that their Tumblr page seems like their core, with its breathtaking photography and leveraging of other Tumblr accounts. But as you look deeper, you can see the answer to their, &#8220;Why do we have this?&#8221;, question. BLM&#8217;s Tumblr is using its rich vein of photography to promote specific initiatives, and once they grab your attention, you can then go to a core and explore further. One of their current main initiatives is [Every Kid in a Park](https://www.everykidinapark.gov/), so in various places throughout their Tumblr, you get fed back to that core. There are also examples, such as using appropriate images, to make people aware of the [Continental Divide Wilderness Study Area](http://www.blm.gov/nm/st/en/prog/blm_special_areas/wilderness_and_wsas/wilderness_study_areas/wilderness_study_areas/Continental_Divide_WSA.html).
 
-Each agency has a different mission—and audience—and different ways they need to serve the citizen, but in the end, all their efforts should lead back to one central location: the core channel. From a practical standpoint that makes it easier to maintain your content and perform audits (not to mention any archival requirements). It also helps provide a clear focus for all your promotional efforts instead of creating a tangled Web of various social media sites or blogs. Make sure that regardless of how many channels you have, they all lead back to your core._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Each agency has a different mission—and audience—and different ways they need to serve the citizen, but in the end, all their efforts should lead back to one central location: the core channel. From a practical standpoint that makes it easier to maintain your content and perform audits (not to mention any archival requirements). It also helps provide a clear focus for all your promotional efforts instead of creating a tangled Web of various social media sites or blogs. Make sure that regardless of how many channels you have, they all lead back to your core._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Want to read more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

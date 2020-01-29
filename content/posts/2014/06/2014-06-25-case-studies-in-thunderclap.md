@@ -1,24 +1,23 @@
 ---
 slug: case-studies-in-thunderclap
 date: 2014-06-25 12:37:31 -0400
-title: Case Studies in Thunderclap
-summary: 'Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar. [youtube=http://www.youtube.com/watch?v=QuACkq02GVw&w=600]   What Makes a Thunderclap? Nicholas Garlow, public affairs specialist'
+title: "Case Studies in Thunderclap"
+summary: "Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages."
 authors:
   - alison-lemon
-categories:
-  - Social Media
-tag:
-  - EPA
-  - FDA
+topics:
+  - social-media
+  - epa
+  - fda
   - HHS
-  - Recaps
-  - SocialGov Community
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - recaps
+  - socialgov-community
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
+  - united-states-department-of-health-and-human-services
 ---
 
-Now that Thunderclap has been [approved for government use]({{< link "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.
+Now that Thunderclap has been [approved for government use]({{< ref "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.
 
 {{< youtube QuACkq02GVw >}}
 
@@ -56,11 +55,11 @@ EPA achieved success on their next two campaigns, [On Earth Day, #ActOnClimate!]
 
   * Thunderclap campaign subjects should be of interest to a broad audience, especially millennials.
   * Write a blog post and explain Thunderclap for those not familiar with the tool. Make it clear Thunderclap will only post to their account this one time.
-  * Allow enough time for promotion and promote daily on social media. Include current number of supporters in posts. For example: 
+  * Allow enough time for promotion and promote daily on social media. Include current number of supporters in posts. For example:
       * We need your help! 250 people have supported our Thunderclap, we need 500 to meet our goal!
       * Tag @ThunderclapIT on Twitter.
   * Remember to thank your supporters for promoting the message.
 
 Tell us: Has your agency used Thunderclap?
 
-_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< link "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< ref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

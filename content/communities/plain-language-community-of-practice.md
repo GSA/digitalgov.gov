@@ -1,24 +1,33 @@
 ---
-url: /communities/plain-language/
-uid: plain-language
+slug: plain-language
 date: 2016-02-03 10:58:53 -0400
-title: 'Plain Language Community of Practice'
+title: 'Plain Language'
 summary: 'Our goal is to promote the use of plain language for all government communications.'
+topics:
+  - plainlanguage
 aliases:
   - /communities/plain-language-community-of-practice/
+topics:
+  - accessibility
+  - content
+  - plain-language
+  - writing
+weight: 1
+community_list:
+  - platform: "listserv"
+    type: government
+    subscribe_form: "https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN"
+    members: 1104
+    emails_per_week: 1.1
+
+authors:
+  - katherine-spivey
+
 ---
 
 Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.
 
 And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 125 KB) mandates plain language for certain audiences and tasks.
-
-### Join
-
-How to join our listserv:
-
-1. [Register for a LISTSERV account](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1=SUBED1%3DPL-COP-MAIN&X=&Y=)
-2. [Fill out our form](https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN)
-
 
 ### Who we are
 

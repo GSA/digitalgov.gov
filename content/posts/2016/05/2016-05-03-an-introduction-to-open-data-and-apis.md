@@ -5,17 +5,16 @@ title: An Introduction to Open Data and APIs
 summary: 'The federal workplace is abuzz these days with talk about open data and how agencies can leverage that data through APIs. According to the federal Open Data Policy, data should be managed as an information asset, and making it discoverable and usable (in other words, open). Open data &ldquo;not only strengthens our democracy and promotes efficiency'
 authors:
   - john-paul
-categories:
-  - API
-  - Code
-  - Data
-tag:
-  - 18F
-  - analytics.usa.gov
-  - API
-  - data.gov
-  - open data
-  - Recaps
+topics:
+  - api
+  - code
+  - data
+  - 18f
+  - analytics-usa-gov
+  - api
+  - data-gov
+  - open-data
+  - recaps
   - US Department of Agriculture
   - USDA
 ---
@@ -28,7 +27,7 @@ Treating data as a national resource and strategic asset may seem like an overwh
 
 Thankfully, using modern APIs to share open data has never been easier, even if you are not a programmer or do not have a technical background.
 
-In the DigitalGov University webinar, **An Introduction to Open Data and APIs**, discover just how easy and fast it is to get hands on in integrating APIs into an organization’s open data solution. 18F advocate and GSA Innovation Specialist, Eric Mill, walked users through how to use APIs with the open Web. For the uninitiated, API stands for [application program interface](https://en.wikipedia.org/wiki/Application_programming_interface), “a set of routines, protocols, and tools for building software applications.” More information on APIs can be found in DigitalGov&#8217;s [Code]({{< link "categories/code" >}}) section. According to Mr. Mill, when talking about modern APIs, we are talking about transferring information from JSON to html.
+In the DigitalGov University webinar, **An Introduction to Open Data and APIs**, discover just how easy and fast it is to get hands on in integrating APIs into an organization’s open data solution. 18F advocate and GSA Innovation Specialist, Eric Mill, walked users through how to use APIs with the open Web. For the uninitiated, API stands for [application program interface](https://en.wikipedia.org/wiki/Application_programming_interface), “a set of routines, protocols, and tools for building software applications.” More information on APIs can be found in DigitalGov&#8217;s [Code]({{< ref "/topics/code" >}}) section. According to Mr. Mill, when talking about modern APIs, we are talking about transferring information from JSON to html.
 
 ## Use Cases
 

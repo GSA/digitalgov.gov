@@ -3,14 +3,13 @@ slug: mobile-product-accessibility-testing-resources
 date: 2013-07-31 10:34:45 -0400
 title: Mobile Product Accessibility Testing Resources
 summary: Accessibility testing is a subset of usability testing and is the inclusive practice of making websites and mobile applications usable by people of all abilities and disabilities. You do this by testing mobile websites and/or applications on all leading browsers, mobile devices and screen readers. This article was developed as part of the Mobile Application
-categories:
-  - Accessibility
-  - Mobile
+topics:
+  - accessibility
+  - mobile
   - user-testing-and-research
-tag:
-  - mobile apps
-  - usability testing
-  - UX
+  - mobile-apps
+  - usability-testing
+  - ux
 ---
 
 Accessibility testing is a subset of usability testing and is the inclusive practice of making websites and mobile applications usable by people of all abilities and disabilities. You do this by testing mobile websites and/or applications on all leading browsers, mobile devices and screen readers.

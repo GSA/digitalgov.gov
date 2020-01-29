@@ -5,10 +5,18 @@ summary: 'Join the U&#46;S&#46; Web Design System team as we talk through the re
 featured_image:
   uid: uswds-2-illio-feature-image
   alt: ''
-event_type:
-  - zoom
 date: 2019-05-23 14:30:00 -0500
 end_date: 2019-05-23 15:30:00 -0500
+# see all topics at https://digital.gov/topics
+topics:
+  - design
+  - product-management
+  - uswds
+  - public-sans
+
+# see all authors at https://digital.gov/authors
+authors:
+  - dan-williams
 event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-may-open-office-hours-registration-62047830732

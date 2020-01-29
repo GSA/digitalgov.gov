@@ -23,6 +23,9 @@ venue:
   zip: 20401
   country: 
   map: 
+topics:
+  - accessibility
+  - plain-language
 
 ---
 

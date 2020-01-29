@@ -5,13 +5,12 @@ title: 'Results Posted: 2012 Challenge Report'
 summary: ' This week the White House Office of Science and Technology Policy released its second comprehensive report detailing the use of federal challenge and prize competitions. Read it and you’ll find details about the fiscal benefits of more than 300 competitions implemented by 45 agencies. As the report'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Our Work
-tag:
+topics:
+  - challenges
+  - our-work
   - crowdsourcing
   - OSTP
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="The Challenge dot gov logo" >}}

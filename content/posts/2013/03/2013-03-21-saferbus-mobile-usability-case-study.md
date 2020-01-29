@@ -5,15 +5,14 @@ title: 'SaferBus Mobile App &#8211; Usability Case Study'
 summary: When designing a site, remember that your terms and icons are like signposts that show people where your links and pages lead. Make sure that you use words and pictures that are easily understood or people will have trouble using your site. Small changes like underlining links or adding arrows to indicate expandable information can
 authors:
   - jonathan-rubin
-categories:
-  - Mobile
+topics:
+  - mobile
   - user-testing-and-research
-  - UX
-tag:
-  - DigitalGov User Experience Program
-  - usability case study
-  - usability testing
-  - user experience
+  - ux
+  - digitalgov-user-experience-program
+  - usability-case-study
+  - usability-testing
+  - user-experience
 ---
 
 When designing a site, remember that your terms and icons are like signposts that show people where your links and pages lead. Make sure that you use words and pictures that are easily understood or people will have trouble using your site. Small changes like underlining links or adding arrows to indicate expandable information can vastly improve the usability of your site.

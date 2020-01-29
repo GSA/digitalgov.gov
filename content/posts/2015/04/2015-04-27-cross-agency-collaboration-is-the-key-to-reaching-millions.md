@@ -5,16 +5,15 @@ title: Cross-Agency Collaboration Is the Key to Reaching Millions
 summary: 'This story begins with a post about reverse mortgages, but don’t worry: we won’t go into the world of complex home loans. Rather, this is a story about how one federal agency is partnering with another to amplify its content and reach millions of people online&mdash;and why more agencies should do the same. Many federal'
 authors:
   - lgodfrey
-categories:
-  - Content
-  - Managing Digital
-tag:
+topics:
+  - content
+  - product-management
   - CFPB
   - Consumer Financial Protection Bureau
-  - content strategy
+  - content-strategy
   - GobiernoUSAgov
   - multilingual
-  - usa.gov
+  - usa-gov
 ---
 
 {{< legacy-img src="2015/04/600-x-450-USA-Flag-Puzzle-Alex-Slobodkin-iStock-Thinkstock-ThinkstockPhotos-121266219.jpg" alt="USA Flag Puzzle" caption="" >}} 

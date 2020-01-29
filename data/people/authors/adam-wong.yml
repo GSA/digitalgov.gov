@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Wong
 uid: adam-wong
 email: ""
 bio: 'Adam Wong is a senior innovation analyst in the Office of the National Coordinator for Health Information Technology at the Department of Health and Human Services. He also served as content coordinator for the federal government’s online Challenges and Prizes Toolkit.'
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

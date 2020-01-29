@@ -5,9 +5,8 @@ title: 'Thinking About Going Agile&#63; 5 Benefits Your Office Will Reap With Ag
 summary: 'Five benefits of using agile methodologies that can help federal employees improve the quality of their work.'
 authors:
   - brian-fox
-categories:
-  - managing-digital
-tag:
+topics:
+  - product-management
   - agile
   - sprint
 featured_image:

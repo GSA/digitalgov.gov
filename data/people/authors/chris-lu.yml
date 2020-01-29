@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -13,6 +13,12 @@ email: ""
 
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: 'During his career in public service, Chris Lu has worked in all three branches of the federal government. He was sworn in as the Deputy Secretary of the Department of Labor on April 4, 2014, after being confirmed unanimously by the U.S. Senate. He serves as the chief operating officer of a 17,000-employee organization that works to create greater opportunities for all Americans.'
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

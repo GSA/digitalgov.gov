@@ -5,12 +5,11 @@ title: Best Practices for Open Source in Government (Using GitHub)
 summary: 'Working on getting your agency to release an open source policy? Awesome! But if you want an effective open source program, you have to tightly integrate open source into how your agency procures, builds, and distributes technology. You&#8217;re not alone! There&#8217;s a growing community of'
 authors:
   - nkunin
-categories:
-  - Code
-tag:
+topics:
+  - code
   - CFPB
   - GitHub
-  - open source
+  - open-source
 ---
 
 [{{< legacy-img src="2013/11/github-octocat-233x250.jpg" alt="Animation of a cat and an octopus." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/github-octocat.jpg)Working on getting your agency to release an open source policy? Awesome! But if you want an effective open source program, you have to tightly integrate open source into how your agency procures, builds, and distributes technology.

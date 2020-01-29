@@ -5,13 +5,12 @@ title: Microsites Keep Your Audience Updated on Outbreaks
 summary: 'You can now help your audience stay up-to-date on the Zika virus outbreak&mdash;and others&mdash;through the Centers for Disease Control and Prevention (CDC)’s microsite, which is an easily embeddable collection of virus information for your agency’s website.'
 authors:
   - andreanocesigritz
-categories:
-  - Content
-  - Monthly Theme
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
-  - content syndication
+topics:
+  - content
+  - monthly-theme
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - content-syndication
 ---
 
 You can now help your audience stay up-to-date on the Zika virus outbreak—and others—through the Centers for Disease Control and Prevention (CDC)’s microsite, which is an [easily embeddable collection of virus information](https://tools.cdc.gov/medialibrary/index.aspx#/microsite/id/234558) for your agency’s website.
@@ -26,4 +25,4 @@ The microsite is built with Zika content, however the CDC now has the ability to
 
 {{< legacy-img src="2016/02/600-x-300-CDC-Public-Health-Media-Library-Zika-Virus-Microsite-preview-in-red.jpg" alt="The Zika Virus Microsite preview in red." >}}
 
-For more information, check out [The Content Corner: Structured Content and the Power of Syndication]({{< link "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}}) or contact the [CDC’s Content Services Team](mailto:IMTech@cdc.gov).
+For more information, check out [The Content Corner: Structured Content and the Power of Syndication]({{< ref "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}}) or contact the [CDC’s Content Services Team](mailto:IMTech@cdc.gov).

@@ -6,10 +6,9 @@ summary: Guest post by Ellen Langhans, healthfinder.gov Program Manager in the O
 authors:
   - ellen-langhans
   - tim-hudak
-categories:
+topics:
   - user-testing-and-research
-tag:
-  - Customer Experience
+  - cx
   - HHS
   - USDA
 ---

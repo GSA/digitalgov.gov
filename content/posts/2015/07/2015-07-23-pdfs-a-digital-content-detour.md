@@ -5,11 +5,10 @@ title: 'PDFs: A Digital Content Detour'
 summary: 'The Portable Document Format, or &ldquo;PDF&rdquo; file, is one of the staple productions of many communications professionals. It’s compact, prints exactly as formatted, and allows for clean, multiplatform distribution. However, it’s the old &ldquo;U.S. Route&rdquo; on the Digital Interstate. Let’s take an average user of a U.S. government website: a 45 year old PC user'
 authors:
   - mark-urban
-categories:
-  - Accessibility
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
+topics:
+  - accessibility
+  - cdc
+  - centers-for-disease-control-and-prevention
 ---
 
 {{< legacy-img src="2015/07/466-x-400-Uploading-documents-from-laptop-Model-la-iStock-Thinkstock-177522468.jpg" alt="Uploading documents from laptop" caption="" >}} 

@@ -5,17 +5,17 @@ title: OIP Seeks Your Participation in the Development of the National FOIA Port
 summary: 'The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA’s 18F team on the development of a National FOIA Portal. This is the next step in a long line of OIP initiatives working towards a National FOIA Portal going back to 2010 with the launch of FOIA.gov. Most recently, the FOIA'
 authors:
   - office-of-information-policy-doj
-categories:
-  - Managing Digital
-  - strategy-and-policy
+topics:
+  - product-management
+  - strategy
+  - policy
   - user-testing-and-research
-tag:
-  - 18F
+  - 18f
   - FOIA
-  - GSA
+  - gsa
   - OIP
-  - US Department of Justice
-  - US General Services Administration
+  - us-department-of-justice
+  - us-general-services-administration
 ---
 
 The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA’s [18F](https://18f.gsa.gov/) team on the development of a National FOIA Portal.

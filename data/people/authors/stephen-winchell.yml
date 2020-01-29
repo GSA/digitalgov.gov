@@ -10,13 +10,19 @@ first_name: Stephen
 last_name: Winchell
 uid: stephen-winchell
 email: stephen.winchell@gsa.gov
-linkedin: 
+linkedin:
 
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: 'As a Presidential Innovation Fellow, Stephen Winchell works at the Intelligence Advanced Research Projects Activity (IARPA), creating and managing new high-risk high-payoff research programs in support of long term Intelligence Community (IC) goals. His projects have focused on evaluating and testing new technologies; AI Security and Maritime Programs, and larger Office of the Director of National Intelligence (ODNI) strategic efforts.'
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: 'Presidential Innovation Fellows'
+
+# Agency Acronym or short name [e.g. DOI]
+agency: 'PIF'
 
 # Do you have a quote that you'd like to share on your profile?
 # [e.g. '']

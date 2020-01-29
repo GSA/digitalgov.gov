@@ -1,8 +1,11 @@
 ---
-url: /resources/government-customer-service-policies-requirements-1993-to-present/
+slug: government-customer-service-policies-requirements-1993-to-present
 date: 2016-01-07 5:41:53 -0400
 title: 'Government Customer Service Policies & Requirements: 1993 to Present'
 summary: 'May 2016&mdash;GAO Report GAO-16-509 March 2016&mdash;OMB Memo M-16-08 Establishment of the Core Federal Services Council 6/15/2017: Eliminated by M-17-26, Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208KB, 12 pages, June 2017) October 2014&mdash;GAO Report GAO-15-84 August 2014&mdash;U.S. Digital Services Playbook March 2014&mdash;Cross-Agency Priority (CAP) Goal &#8211; Customer Service May 2012&mdash;Digital Government'
+topics:
+  - policy
+  - customer-service
 authors:
   - rflagg
 ---

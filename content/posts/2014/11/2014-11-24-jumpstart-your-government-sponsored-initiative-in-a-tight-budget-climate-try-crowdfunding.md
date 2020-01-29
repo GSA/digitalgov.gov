@@ -5,13 +5,12 @@ title: 'Jumpstart Your Government-Sponsored Initiative in a Tight Budget Climate
 summary: 'There are many ways to apply crowdfunding in the government space. This case study highlights the U.S. Department of State’s utilization of an online crowdfunding platform (CFP) to launch the Alumni Engagement Innovation Fund 2.0 (AEIF 2.0). Through this fundraising platform, exchange program alumni were able to work on innovative solutions to the world’s toughest'
 authors:
   - minette-wilson
-categories:
-  - Challenges
-  - Managing Digital
-  - Social Media
-tag:
+topics:
+  - challenges
+  - product-management
+  - social-media
   - crowdfunding
-  - US Department of State
+  - us-department-of-state
 ---
 
 {{< legacy-img src="2014/11/600-x-450-Magnifying-Glass-Concept-Tashatuvango-iStock-Thinkstock-459962367.jpg" alt="Magnifying Glass Concept" caption="" >}} 

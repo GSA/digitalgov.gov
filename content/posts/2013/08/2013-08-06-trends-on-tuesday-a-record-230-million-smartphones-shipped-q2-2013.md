@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: A Record 230 Million Smartphones Shipped Q2 2013'
 summary: 'According to research done by Strategy Analytics, global smartphone shipments grew 47 percent from 156.5 million units in the second quarter of 2012 to 229.6 million units in the second quarter of 2013.  Additionally, the research finds that this growth is being driven by demand for Android phones'
 authors:
   - brandon-barr
-categories:
-  - Mobile
-tag:
-  - Trends on Tuesday
+topics:
+  - mobile
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2014/01/smartphones-250x166.jpg" alt="A stack of smartphones" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/smartphones.jpg)According to [research done by Strategy Analytics](http://blogs.strategyanalytics.com/WSS/post/2013/08/01/Strategy-Analytics-Android-Captures-Record-80-Percent-Share-of-Global-Smartphone-Shipments-in-Q2-2013.aspx), global smartphone shipments grew 47 percent from 156.5 million units in the second quarter of 2012 to 229.6 million units in the second quarter of 2013. Additionally, the research finds that this growth is being driven by demand for Android phones in countries such as the US, China, India, and Brazil. Strikingly, Android now makes up for 80% of the global smartphone market. Apple, on the other hand, is at its lowest share margin since 2010, sitting at 14 % of the market. The remaining percentage of the market share belongs to Microsoft (4 %) and others.
@@ -30,4 +29,4 @@ tag:
 
 **Total Growth Year-over-Year %  &#8211;  41.60%    46.70%**
 
-This data shows that mobile adoption continues to rise rapidly worldwide.  Agencies should keep this in mind and take a [mobile first approach.]({{< link "2013-09-30-mobile-first.md" >}} "Mobile First")
+This data shows that mobile adoption continues to rise rapidly worldwide.  Agencies should keep this in mind and take a [mobile first approach.]({{< ref "2013-09-30-mobile-first.md" >}} "Mobile First")

@@ -1,30 +1,32 @@
 ---
 slug: the-white-house-back-to-the-future-day-and-the-road-to-innovation
+short_url: 
+kicker: "Innovation"
 date: 2015-10-21 9:47:15 -0400
 title: The White House, Back To The Future Day, and the Road to Innovation
 summary: ' Well, it&#8217;s here: October 21, 2015. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the Back to the Future trilogy, we, on the other hand, are not quite there&mdash;yet! As the White House'
 authors:
   - toni-bonitto
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - innovation
   - OSTP
   - Twitter
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
+
 ---
 
 {{< legacy-img src="2015/10/600-x-300-wh_backtothefutureday_socialgraphic.jpg" alt="White House's Back To The Future Day graphic" >}}
 
-Well, it&#8217;s here: <strong>October 21, 2015</strong>. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the <em>Back to the Future</em> trilogy, we, on the other hand, are not quite there—yet! As the White House notes, we have come a long way in the past 30 years since the original <em>Back to the Future</em> came out in 1985, and <strong><a href="https://twitter.com/search?q=%23BackToTheFutureDay">#BackToTheFutureDay</a></strong> is a great opportunity to talk about where we&#8217;re going in the next 30. 
+Well, it&#8217;s here: <strong>October 21, 2015</strong>. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the <em>Back to the Future</em> trilogy, we, on the other hand, are not quite there—yet! As the White House notes, we have come a long way in the past 30 years since the original <em>Back to the Future</em> came out in 1985, and <strong><a href="https://twitter.com/search?q=%23BackToTheFutureDay">#BackToTheFutureDay</a></strong> is a great opportunity to talk about where we&#8217;re going in the next 30.
 
-Although Marty and Doc don&#8217;t officially arrive until 7:28 pm, the White House is hosting events this morning and afternoon with representatives from various agencies, universities, and the private sector to get the conversation going about current and upcoming innovations in technology and government. Leave a message on <a href="https://www.WhiteHouse.gov/Back-To-The-Future">WhiteHouse.gov/Back-To-The-Future</a> of what you think 2045 will look like, or join them online using the hashtags below to contribute your ideas. 
+Although Marty and Doc don&#8217;t officially arrive until 7:28 pm, the White House is hosting events this morning and afternoon with representatives from various agencies, universities, and the private sector to get the conversation going about current and upcoming innovations in technology and government. Leave a message on <a href="https://www.WhiteHouse.gov/Back-To-The-Future">WhiteHouse.gov/Back-To-The-Future</a> of what you think 2045 will look like, or join them online using the hashtags below to contribute your ideas.
 
-## Here&#8217;s the schedule for the day: 
+## Here&#8217;s the schedule for the day:
 
-* <strong>9:30 A.M. ET</strong>: A Google+ Hangout Conversation on Time Travel<br /> 
-<em>Featuring: OSTP Deputy Director for Technology and Innovation Tom Kalil, Professor Tim Ralph of the University of Queensland in Brisbane, Australia, and Mr. Martin Ringbauer, a PhD student at the University of Queensland.<br /> 
+* <strong>9:30 A.M. ET</strong>: A Google+ Hangout Conversation on Time Travel<br />
+<em>Featuring: OSTP Deputy Director for Technology and Innovation Tom Kalil, Professor Tim Ralph of the University of Queensland in Brisbane, Australia, and Mr. Martin Ringbauer, a PhD student at the University of Queensland.<br />
 </em><strong style="line-height: 1.5">What you can do:</strong> <a style="line-height: 1.5" href="https://www.whitehouse.gov/blog/2015/10/20/back-to-the-future-day">Watch live right here</a><span style="line-height: 1.5">!</span>
 
 {{< youtube qEkdtD3gI6E >}}
@@ -39,21 +41,21 @@ Although Marty and Doc don&#8217;t officially arrive until 7:28 pm, the White Ho
 
 Some recent articles about innovation in technology and government that we&#8217;ve posted here on DigitalGov include:
 
-* [The People and Teams That Power High-Impact Incentive Prizes]({{< link "2015-10-06-the-people-and-teams-that-power-high-impact-incentive-prizes.md" >}})
+* [The People and Teams That Power High-Impact Incentive Prizes]({{< ref "2015-10-06-the-people-and-teams-that-power-high-impact-incentive-prizes.md" >}})
 
 * Launched in 2010, and managed by GSA, [Challenge.gov](http://www.challenge.gov) is a key component of the White House’s [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/uploads/InnovationStrategy.pdf), which urges agencies to use incentivized competitions to drive innovation and advance their missions.
 
-* [The Future Will Be Printed – in 3D]({{< link "2015-01-15-the-future-will-be-printed-in-3d.md" >}}) The NIH 3D Print Exchange enhances learning and research through scientific 3D printable models.
+* [The Future Will Be Printed – in 3D]({{< ref "2015-01-15-the-future-will-be-printed-in-3d.md" >}}) The NIH 3D Print Exchange enhances learning and research through scientific 3D printable models.
 
-* [NASA Reaches New Frontiers in 3D Printing]({{< link "2015-01-29-nasa-reaches-new-frontiers-in-3d-printing.md" >}})
+* [NASA Reaches New Frontiers in 3D Printing]({{< ref "2015-01-29-nasa-reaches-new-frontiers-in-3d-printing.md" >}})
 Niki Werkheiser, NASA Project Manager for the In-space Manufacturing Initiative, shared tips for agencies and federal employees that are pursuing innovative projects.
 
-* [An Innovation Framework That Delivers: The SunShot Catalyst Program]({{< link "2015-08-07-an-innovation-framework-that-delivers-the-sunshot-catalyst-program.md" >}}) The Department of Energy’s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans.
+* [An Innovation Framework That Delivers: The SunShot Catalyst Program]({{< ref "2015-08-07-an-innovation-framework-that-delivers-the-sunshot-catalyst-program.md" >}}) The Department of Energy’s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans.
 
-* [The API Briefing: NASA and USPS Explore the Holographic Computing Frontier]({{< link "2015-01-28-the-api-briefing-nasa-and-usps-explore-the-holographic-computing-frontier.md" >}}) The federal government has a few augmented reality apps that demonstrate the power of holographic computing.
+* [The API Briefing: NASA and USPS Explore the Holographic Computing Frontier]({{< ref "2015-01-28-the-api-briefing-nasa-and-usps-explore-the-holographic-computing-frontier.md" >}}) The federal government has a few augmented reality apps that demonstrate the power of holographic computing.
 
-* [Success Spotlight: Challenge Takes Students, Biomedicine to Next Level]({{< link "2015-09-18-success-spotlight-challenge-takes-students-biomedicine-to-next-level.md" >}}) In its Design by Biomedical Undergraduate Teams (DEBUT) Challenge, the National Institutes of Health (NIH) called for students to submit solutions for unmet global health and clinical needs.
+* [Success Spotlight: Challenge Takes Students, Biomedicine to Next Level]({{< ref "2015-09-18-success-spotlight-challenge-takes-students-biomedicine-to-next-level.md" >}}) In its Design by Biomedical Undergraduate Teams (DEBUT) Challenge, the National Institutes of Health (NIH) called for students to submit solutions for unmet global health and clinical needs.
 
-* [DigitalGov Citizen Services Summit]({{< link "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}) The second annual **DigitalGov Citizen Services Summit and Expo** was held on May 21, 2015, at GSA headquarters in Washington, D.C. The focus this year was OPEN (open data, open source, open content, open communication, open communities, open government) and how digital services—like mobile development, social media, APIs, data and user experience—intersect and integrate to improve citizen services and reduce costs. A select line-up of speakers from across the federal government covered such topics as: privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, public participation, and customer experience. (Link includes full recording of the event)
+* [DigitalGov Citizen Services Summit]({{< ref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}) The second annual **DigitalGov Citizen Services Summit and Expo** was held on May 21, 2015, at GSA headquarters in Washington, D.C. The focus this year was OPEN (open data, open source, open content, open communication, open communities, open government) and how digital services—like mobile development, social media, APIs, data and user experience—intersect and integrate to improve citizen services and reduce costs. A select line-up of speakers from across the federal government covered such topics as: privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, public participation, and customer experience. (Link includes full recording of the event)
 
-View additional highlights of the day at [WhiteHouse.gov/Back-To-The-Future](https://obamawhitehouse.archives.gov/blog/2015/10/20/back-to-the-future-day). If you&#8217;d like to share how your agency is helping to move government into the future, [contact us]({{< link "contribute.md" >}}) or leave a comment below.
+View additional highlights of the day at [WhiteHouse.gov/Back-To-The-Future](https://obamawhitehouse.archives.gov/blog/2015/10/20/back-to-the-future-day). If you&#8217;d like to share how your agency is helping to move government into the future, [contact us]({{< ref "contribute.md" >}}) or leave a comment below.

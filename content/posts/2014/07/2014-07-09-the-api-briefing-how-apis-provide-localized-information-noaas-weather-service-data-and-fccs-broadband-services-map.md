@@ -5,20 +5,19 @@ title: 'The API Briefing: How APIs Provide Localized Information &#8211; NOAA’
 summary: 'The two featured APIs this week are excellent demonstrations of personalizing federal government data by where a user lives. Federal agencies collect a considerable amount of community data, from the Census Bureau’s surveys to the FDA’s local agricultural conditions. Thanks to GPS, app developers can locate a user’s immediate geographical location and tailor information based'
 authors:
   - bbrantley
-categories:
-  - API
-  - Data
-tag:
+topics:
+  - api
+  - data
   - Census
   - FCC
-  - FDA
-  - Federal Communications Commission
+  - fda
+  - federal-communications-commission
   - GPS
-  - mobile apps
-  - National Oceanic and Atmospheric Administration
+  - mobile-apps
+  - national-oceanic-and-atmospheric-administration
   - NOAA
-  - US Food and Drug Administration
-  - United States Census Bureau
+  - us-food-and-drug-administration
+  - united-states-census-bureau
 ---
 
 The two featured APIs this week are excellent demonstrations of personalizing federal government data by where a user lives. Federal agencies collect a considerable amount of community data, from the Census Bureau’s surveys to the FDA’s local agricultural conditions. Thanks to GPS, app developers can locate a user’s immediate geographical location and tailor information based on the latitude and longitude coordinates.

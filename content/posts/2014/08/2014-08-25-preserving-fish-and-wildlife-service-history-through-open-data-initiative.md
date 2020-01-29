@@ -5,14 +5,13 @@ title: Preserving Fish and Wildlife Service History through Open Data Initiative
 summary: 'In the summer of 1914, Frederick M. Dille, manager at Fort Niobrara National Wildlife Refuge, observed: &ldquo;The general conditions of affairs at Niobrara are favorable and good. The animals are thriving, the feed has been abundant, the fence is in good shape and Mr. Schultz has handled everything very satisfactory. [&hellip;] The pheasants have done'
 authors:
   - richard-easterbrook
-categories:
-  - Data
-tag:
-  - data.gov
+topics:
+  - data
+  - data-gov
   - DOI
   - FWS
-  - US Department of the Interior
-  - US Fish and Wildlife Service
+  - us-department-of-the-interior
+  - us-fish-and-wildlife-service
 ---
 
 In the summer of 1914, Frederick M. Dille, manager at Fort Niobrara National Wildlife Refuge, observed:
@@ -27,6 +26,6 @@ Data analysts at the Natural Resource Program Center (NRPC) in Fort Collins, Col
 
 President Obama’s Open Data Initiative mandated government agencies make all non-sensitive data available to the public, increasing accountability and transparency. In the summer of 2013, Chris Lett and Andrey Andreyev, both of the FWS Information Resource and Technology Management (IRTM) office, suggested that linking ServCat references to [Data.gov](http://www.data.gov/) would be the best way to meet this obligation. If public records in ServCat could be automatically harvested, they could be accessed by anyone without putting an additional burden on ServCat record owners.
 
-This was a huge undertaking for an agency as small as the FWS. As the System Manager of ServCat, I enlisted the help of Kenny Elsner, an IRTM Cartographer, Brent Frakes, Business Analyst for the National Park Service’s Natural Resource Stewardship and Science Directorate, and Jeff Applegate of the FWS’s Environmental Conservation Online System (ECOS) group. Between the four of us, we were able to determine the Data.Gov record requirements, query ServCat for ‘public’ records and publish these records to a file to a Web accessible folder that gets harvested by Data.Gov. This process is now automated, ensuring that newly created records are updated nightly and can be [harvested by Data.gov]({{< link "2014-06-20-agency-dataset-publication-in-data-gov.md" >}}) the following day.
+This was a huge undertaking for an agency as small as the FWS. As the System Manager of ServCat, I enlisted the help of Kenny Elsner, an IRTM Cartographer, Brent Frakes, Business Analyst for the National Park Service’s Natural Resource Stewardship and Science Directorate, and Jeff Applegate of the FWS’s Environmental Conservation Online System (ECOS) group. Between the four of us, we were able to determine the Data.Gov record requirements, query ServCat for ‘public’ records and publish these records to a file to a Web accessible folder that gets harvested by Data.Gov. This process is now automated, ensuring that newly created records are updated nightly and can be [harvested by Data.gov]({{< ref "2014-06-20-agency-dataset-publication-in-data-gov.md" >}}) the following day.
 
 “Storing data in ServCat prevents loss,” says Jana Newman, chief of the NRPC’s Inventory and Monitoring Branch. “But data tucked away that can’t be found is another type of loss. With ServCat, we have made it easy to store and share information.” We consider this to be a huge success for the FWS. New documents are added to ServCat regularly, reinforcing our commitment to sharing historical documents and management-relevant information both internally and with the public. With each record added, we learn lessons from our agency’s past and share stories of success with future wildlife practitioners.

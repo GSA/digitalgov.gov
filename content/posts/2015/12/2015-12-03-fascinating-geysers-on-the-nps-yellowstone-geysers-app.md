@@ -5,17 +5,16 @@ title: Fascinating Geysers on the NPS Yellowstone Geysers App
 summary: 'Geological phenomena such as steaming mud craters, bubbling mud pools, hot springs and geysers are some of the exhilarating features of a geo-thermal wonderland. Old Faithful in Yellowstone National Park falls into this category. If you are planning a visit to'
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - NPS
-  - social media
+  - social-media
   - SSA
-  - The United States Social Security Administration
-  - Thursday Mobile Products
-  - US National Park Service
+  - the-united-states-social-security-administration
+  - thursday-mobile-products
+  - us-national-park-service
 ---
 
 Geological phenomena such as steaming mud craters, bubbling mud pools, hot springs and geysers are some of the exhilarating features of a geo-thermal wonderland. Old Faithful in Yellowstone National Park falls into this category.
@@ -49,4 +48,4 @@ You can also use this app to browse social media content from the park&#8217;s [
 
 Want to watch a live eruption of Old Faithful and other geysers but can’t make it to the park? No worries—you are able to observe these hydrothermal rarities through an integrated webcam in the app.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

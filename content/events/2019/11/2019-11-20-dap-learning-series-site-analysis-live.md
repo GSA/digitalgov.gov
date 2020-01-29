@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-site-analysis-live
+kicker: Learning Series
 title: 'DAP Learning Series&#58; Site Analysis, Live!'
 summary: 'Join us for a live demonstration of a real site analysis - from defining website mission, goals, and KPIs, to pulling reporting to better understand site performance&#46;'
 featured_image:
@@ -12,8 +13,15 @@ end_date: 2019-11-20 14:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
 youtube_id: 3smZz7PduK8
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
 
 ---
+
+[_View the slides_](https://digital.gov/pdf/DAPLearningSeries.pdf) (PDF, 5.4 MB, 27 pages)
 
 DAP users often ask – _“How should I analyze my site?”_
 
@@ -31,4 +39,3 @@ _The Digital Analytics Program (DAP) offers advanced, easy web analytics to fede
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
 
 ---
-

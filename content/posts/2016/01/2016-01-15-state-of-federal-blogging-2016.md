@@ -5,15 +5,14 @@ title: State of Federal Blogging 2016
 summary: 'How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the White House, NASA and the Department of the Interior run their blogs and share content. White House: Blog Less, Empower More When you go to WhiteHouse.gov, their blog is featured prominently'
 authors:
   - danielle-brigida
-categories:
-  - Content
-tag:
+topics:
+  - content
   - blog
   - FWS
-  - NASA
-  - US Department of the Interior
-  - US Fish and Wildlife Service
-  - White House
+  - nasa
+  - us-department-of-the-interior
+  - us-fish-and-wildlife-service
+  - white-house
 ---
 
 How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the [White House](https://www.whitehouse.gov/blog), [NASA](http://blogs.nasa.gov/) and the [Department of the Interior](https://www.doi.gov/blog) run their blogs and share content. {{< legacy-img src="2016/01/600-x-400-Blog-Letterpress-Jason-Enterline-iStock-Thinkstock-470747892.jpg" alt="The word Blog spelled out in letterpress." caption="" >}} 

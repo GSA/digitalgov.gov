@@ -5,14 +5,13 @@ title: How FEMA Delivers Anytime, Anywhere Information During Disasters
 summary: 'No one wants to feel helpless in an emergency situation. To provide tips and assistance anytime, anywhere, the Federal Emergency Management Agency (FEMA) stepped up their mobile game. FEMA developed an SMS service and an app to engage with users while they’re on the go. The app is available on Android, Apple and Blackberry.'
 authors:
   - jenny-johnson
-categories:
+topics:
   - crowdsourcing-and-citizen-science
-  - Mobile
-tag:
-  - Federal Emergency Management Agency
-  - FEMA
   - mobile
-  - mobile apps
+  - federal-emergency-management-agency
+  - fema
+  - mobile
+  - mobile-apps
   - National Weather Service
   - NWS
 ---

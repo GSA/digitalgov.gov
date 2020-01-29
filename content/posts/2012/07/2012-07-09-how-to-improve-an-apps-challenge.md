@@ -5,11 +5,10 @@ title: How to Improve an Apps Challenge
 summary: 'The contest is over, but your work isn’t finished. Maintain a positive relationship with the community you’ve developed around your challenge. You will want to reach out to them in the future. Close the challenge and present awards Hold an awards ceremony to draw attention to the winners and to your challenge. The team behind'
 authors:
   - ktrebon
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - innovation
-  - mobile apps
+  - mobile-apps
 ---
 
 <span style="font-size: 13px;">The contest is over, but your work isn’t finished. Maintain a positive relationship with the community you’ve developed around your challenge. You will want to reach out to them in the future.</span>
@@ -41,11 +40,11 @@ tag:
     </p>
 
     <p>
-      Check out our <a title="Resources to Help Run an Apps or Mobile Apps Challenge" href="{{< link "2013-11-06-software-and-apps-challenges.md" >}}">resources</a>—including examples, lessons learned, and more—to help you run your apps or mobile apps challenge.
+      Check out our <a title="Resources to Help Run an Apps or Mobile Apps Challenge" href="{{< ref "2013-11-06-software-and-apps-challenges.md" >}}">resources</a>—including examples, lessons learned, and more—to help you run your apps or mobile apps challenge.
     </p>
 
     <p>
-      Review all the apps challenge steps at a glance on the <a href="https://digitalgov.sites.usa.gov/2013/11/06/software-and-apps-challenges/">How to Run an Apps Challenge page</a>.
+      Review all the apps challenge steps at a glance on the <a href="https://digital.gov/2013/11/06/software-and-apps-challenges/">How to Run an Apps Challenge page</a>.
     </p>
 
     <p>

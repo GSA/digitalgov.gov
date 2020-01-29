@@ -5,22 +5,21 @@ title: 'Trends on Tuesday: Mobile Messaging and Social App Research Released'
 summary: On DigitalGov, we frequently talk about some of the most popular app experiences, and research almost always shows that mobile messaging and social apps are the most frequently used. Pew Research released a new report specifically about
 authors:
   - wsullivan
-categories:
-  - Mobile
-  - Social Media
-tag:
-  - Facebook
-  - Instagram
-  - LinkedIn
+topics:
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 1
-  - social media
-  - Trends on Tuesday
+  - social-media
+  - facebook
+  - instagram
+  - linkedin
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-1
+  - social-media
+  - trends-on-tuesday
   - Twitter
 ---
 
-On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used]({{< link "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}).
+On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used]({{< ref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}).
   
 [{{< legacy-img src="2015/08/250-x-296-Pew-Research-2015-08-19\_social-media-update\_A_01.png" alt="A bar graph showing how frequently users access Facebook, Instagram, Twitter, Pinterest, and LinkedIn" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/250-x-296-Pew-Research-2015-08-19_social-media-update_A_01.png)
 
@@ -54,4 +53,4 @@ Although Facebook remains dominate and Twitter and LinkedIn are popular, Instagr
 
 ## Mobile Messaging Apps Are Replacing SMS Texting for Young Adults
 
-[SMS text messaging is sometimes used by agencies to send out quick messages to audience members]({{< link "2015-04-16-nci-reaching-the-public-via-sms-to-change-behaviors.md" >}}), and Duggan said new mobile messaging is starting to replace traditional SMS: “2015 marks the first time Pew Research Center has asked specifically about mobile messaging apps as a separate kind of mobile activity apart from cell phone texting. And already, according to a new survey, 36% of smartphone owners report using messaging apps such as WhatsApp, Kik or iMessage, and 17% use apps that automatically delete sent messages such as Snapchat or Wickr.”
+[SMS text messaging is sometimes used by agencies to send out quick messages to audience members]({{< ref "2015-04-16-nci-reaching-the-public-via-sms-to-change-behaviors.md" >}}), and Duggan said new mobile messaging is starting to replace traditional SMS: “2015 marks the first time Pew Research Center has asked specifically about mobile messaging apps as a separate kind of mobile activity apart from cell phone texting. And already, according to a new survey, 36% of smartphone owners report using messaging apps such as WhatsApp, Kik or iMessage, and 17% use apps that automatically delete sent messages such as Snapchat or Wickr.”

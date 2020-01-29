@@ -5,18 +5,18 @@ title: 'Cybersecurity: Protecting Manufacturing Technology and Innovation'
 summary: Recently a segment on my favorite morning news program stopped me in my tracks. The young and attractive hosts (why are they always so young and attractive?) were demonstrating new appliances including a smart refrigerator. The fridge was equipped with all kinds of high-tech features including touch screen displays, a camera inside that allows you
 authors:
   - pat-toth
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - best practices
+topics:
+  - product-management
+  - strategy
+  - policy
+  - best-practices
   - Commerce
   - data
-  - Department of Commerce
+  - department-of-commerce
   - innovation
-  - Internet of things
+  - internet-of-things
   - IoT
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
   - security
 ---

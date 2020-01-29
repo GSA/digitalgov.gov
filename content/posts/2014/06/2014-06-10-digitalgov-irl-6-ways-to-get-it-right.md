@@ -5,19 +5,18 @@ title: 'DigitalGov IRL: 6 Ways To Get It Right'
 summary: 'This morning I was walking down 18th Street, crossing Pennsylvania Avenue by the World Bank when I heard what sounded like &#8220;a test from the'
 authors:
   - gwynne-kostin
-categories:
-  - Content
-  - Data
-  - Mobile
-  - UX
-tag:
-  - Department of Commerce
+topics:
+  - content
+  - data
+  - mobile
+  - ux
+  - department-of-commerce
   - FCC
-  - FEMA
-  - Mobile UX Guideline 5
+  - fema
+  - mobile-ux-guideline-5
   - National Weather Service
   - NOAA
-  - open data
+  - open-data
 ---
 
 [{{< legacy-img-right src="2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/EmergencyAlert.jpg)This morning I was walking down 18th Street, crossing Pennsylvania Avenue by the World Bank when I heard what sounded like &#8220;<a href="https://www.youtube.com/watch?v=NRxrCBvt7TM" target="_blank">a test from the Emergency Broadcast System</a>.&#8221; I looked behind me and realized it was coming from my purse and that my phone was jiggling.

@@ -5,13 +5,13 @@ title: Five Lessons Learned During a Content Audit
 summary: 'As part of USAGov’s efforts to provide our audience with the reliable and quality information that they need, this summer, the Health, Education & Benefits (HE&B) topic desk completed its first content audit. Methodology and Results Data informed every step we took. In order to determine which areas to focus on first, the desk gathered'
 authors:
   - andrea-m-castelluccio
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
   - content
-  - USAgov
+  - product-management
+  - strategy
+  - policy
+  - content
+  - usagov
 ---
 
 As part of USAGov’s efforts to provide our audience with the reliable and quality information that they need, this summer, the Health, Education & Benefits (HE&B) topic desk completed its first content audit. {{< legacy-img src="2017/03/600-x-400-Brainstorming-Brainstorm-Business-People-Design-Concepts-scyther5-iStock-Thinkstock-516755868.jpg" alt="Business people brainstorming around a desk." caption="" >}} 

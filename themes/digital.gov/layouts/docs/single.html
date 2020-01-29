@@ -1,30 +1,49 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
-  {{ $.Scratch.Set "has_sidebar" true }}
-{{ end }}
-
 {{ define "content" }}
-<div id="contentleft" class="clearfix">
-  <div id="content" class="clearfix">
-    <div class="post singlepost type-post status-publish format-standard  hentry">
 
-      <div class="entry">
+<main role="main">
 
-        <h1 class="post-title single">
-          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
-        </h1>
+  <article>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <header>
+            {{/* The Parent Guide */}}
+            <h5 class="guide-title"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
+            {{/* Page Title */}}
+            <h1>{{ .Title | markdownify }}</h1>
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div>{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+            {{/* {{ partial "last-updated" . }} */}}
+          </header>
+        </div>
+      </div>
 
-        {{ .Content }}
+      <div class="grid-row tablet-lg:grid-gap-6">
 
-        {{ partial "post-meta--feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) }}
-        {{ partial "page-details" . }}
-        
-      </div><!-- .entry -->
-    </div><!--.post -->
-  </div><!-- #content -->
-</div><!-- #contentleft -->
+        <div class="grid-col-12 tablet-lg:grid-col-8">
+          <div class="content">
+            {{ .Content }}
+          </div>
+        </div>
+
+        <div class="grid-col-12 tablet-lg:grid-col-4">
+          {{- partial "core/guides/guide-nav" . -}}
+        </div>
+
+      </div>
+
+      <div class="grid-row tablet-lg:grid-gap-6">
+        <div class="grid-col-12">
+          {{ partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
+        </div>
+      </div>
+
+    </div>
+  </article>
+</main>
+
+  {{ partial "core/overlay" . }}
+
 {{ end }} {{/* end 'content' block */}}
-
-{{ define "sidebar" }}
-  {{ partial "sidebar-common.html" . }}
-{{ end }} {{/* end 'sidebar' block */}}

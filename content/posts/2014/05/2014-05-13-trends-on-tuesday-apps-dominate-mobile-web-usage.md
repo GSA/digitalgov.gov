@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: Apps Dominate Mobile Web Usage'
 summary: '&ldquo;There’s an app for that.&rdquo; New data from app analytics provider Flurry on mobile app usage reveals that smartphone users are taking this trademarked slogan to heart. Of the 2 hours and 42 minutes per day that a typical user is on a mobile device, mobile app usage accounts for 2 hours and 19 minutes'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
-  - Facebook
-  - mobile apps
-  - Mobile UX Guideline 5
+topics:
+  - mobile
+  - facebook
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
   - Twitter
 ---
 
@@ -28,4 +27,4 @@ tag:
   * Browsers lose share, most notable decline is Safari, which dropped from 12% to 5%. Non-Google, non-Apple browser dropped from 4% to 2%.
   * Google and Facebook apps accounted for 34.7% of time spent yet brought in 63.8% of ad revenues.
 
-The data above show that the [App vs. mobile web debate will continue](http://www.clickz.com/clickz/column/2343327/apps-and-mobile-web-the-state-of-the-debate?amf_cntctid=6862549&utm_term=&utm_content=Apps%20and%20Mobile%20Web%3A%20The%20State%20of%20the%20Debate&utm_campaign=CZ.Media.Cat.EU.A.U&utm_medium=Email&utm_source=CZ.DCM.Editors_Updates) but [mobile first]({{< link "2013-09-30-mobile-first.md" >}}) is a must for federal agencies. No matter where an agency is in their mobile application plan, they must take a proactive approach if they want to engage mobile web users. For example, having a robust social media presence or advertising on popular gaming apps are ways agencies that are still developing a [mobile app plan]({{< link "mobile-application-development-program.md" >}}) can leverage this trend. If your agency already has an app(s), you can increase visibility with mobile users by becoming part of the [Federal Mobile Apps Registry]({{< link "u-s-digital-registry.md" >}}). For more ideas, check out the resources available on DigitalGov.
+The data above show that the [App vs. mobile web debate will continue](http://www.clickz.com/clickz/column/2343327/apps-and-mobile-web-the-state-of-the-debate?amf_cntctid=6862549&utm_term=&utm_content=Apps%20and%20Mobile%20Web%3A%20The%20State%20of%20the%20Debate&utm_campaign=CZ.Media.Cat.EU.A.U&utm_medium=Email&utm_source=CZ.DCM.Editors_Updates) but [mobile first]({{< ref "2013-09-30-mobile-first.md" >}}) is a must for federal agencies. No matter where an agency is in their mobile application plan, they must take a proactive approach if they want to engage mobile web users. For example, having a robust social media presence or advertising on popular gaming apps are ways agencies that are still developing a [mobile app plan]({{< ref "mobile-application-development-program.md" >}}) can leverage this trend. If your agency already has an app(s), you can increase visibility with mobile users by becoming part of the [Federal Mobile Apps Registry]({{< ref "service_us-digital-registry.md" >}}). For more ideas, check out the resources available on DigitalGov.

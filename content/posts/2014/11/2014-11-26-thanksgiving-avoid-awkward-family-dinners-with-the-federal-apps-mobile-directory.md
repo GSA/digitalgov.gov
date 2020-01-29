@@ -5,17 +5,16 @@ title: Avoid an Awkward Family Thanksgiving with the Federal Apps Mobile Directo
 summary: 'Are you like me? Do you consistently eat too much on Thanksgiving to avoid invasive family conversations that have a high probability of 1) turning awkward and 2) forcing you to abandon a sworn blood oath to never again reveal details of your private life to loved ones? Don’t be like me. It’s your holiday,'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - API
-  - CDC
+topics:
+  - mobile
+  - api
+  - cdc
   - Census
-  - Centers for Disease Control and Prevention
-  - Thursday Mobile Products
+  - centers-for-disease-control-and-prevention
+  - thursday-mobile-products
   - US Department of Agriculture
-  - United States Census Bureau
-  - USAgov
+  - united-states-census-bureau
+  - usagov
   - USDA
 ---
 
@@ -29,9 +28,9 @@ Take control of the situation by steering the conversation away from when you&#8
 
 A [trio of apps from the U.S. Census Bureau](http://www.census.gov/mobile/) comes to the rescue by offering fascinating reads on big data on a national level and in communities across the country. First, get the pulse of the U.S. economy with the [America’s Economy](http://www.census.gov/mobile/economy/) app, which provides key economic measures on employment, manufacturing, international trade, retail sales, and residential construction and sales. You’ll be able to speak intelligently on the economy and have the facts to back it up, which is not a requirement for any family debate but will earn you street cred around the table.
 
-{{< legacy-img src="2013/12/250-x-446-dweller-app-3-screens-cb13-200-Graphic2.jpg" alt="Three screens of the dweller app on different mobile devices" >}}Next, plan your escape from the table, at least virtually, with the [Dwellr app]({{< link "2013-12-05-u-s-census-bureau-dwellr-app.md" >}} "U.S. Census Bureau Dwellr App") by discovering the top 25 cities that might interest you based on your lifestyle.
+{{< legacy-img src="2013/12/250-x-446-dweller-app-3-screens-cb13-200-Graphic2.jpg" alt="Three screens of the dweller app on different mobile devices" >}}Next, plan your escape from the table, at least virtually, with the [Dwellr app]({{< ref "2013-12-05-u-s-census-bureau-dwellr-app.md" >}} "U.S. Census Bureau Dwellr App") by discovering the top 25 cities that might interest you based on your lifestyle.
 
-Then, take the conversation far away from the weight you’ve gained since last Thanksgiving, by getting everyone involved in [Census PoP Quiz]({{< link "2014-08-14-census-pop-quiz-mobile-app-challenges-knowledge-of-state-statistics.md" >}} "Census PoP Quiz Mobile App Challenges Knowledge of State Statistics"), a new population challenge about the 50 states and the District of Columbia.
+Then, take the conversation far away from the weight you’ve gained since last Thanksgiving, by getting everyone involved in [Census PoP Quiz]({{< ref "2014-08-14-census-pop-quiz-mobile-app-challenges-knowledge-of-state-statistics.md" >}} "Census PoP Quiz Mobile App Challenges Knowledge of State Statistics"), a new population challenge about the 50 states and the District of Columbia.
 
 A great resource to keep the discussion relevant to Thanksgiving instead of relevant to how much you’re earning compared to your siblings is the Ask Karen app from the [USDA Food Safety and Inspection Service](http://www.fsis.usda.gov/wps/portal/fsis/home). Ask Karen is available on [iOS](https://itunes.apple.com/us/app/ask-karen-from-usda/id439084571?mt=8), [Android](https://play.google.com/store/apps/details?id=askkaren.gov) and [mobile Web](http://m.askkaren.gov) platforms and provides around the clock virtual assistance and tips on preventing foodborne illness, safe food handling and storage, and safe preparation of meat, poultry, and egg products. For instance, it answers questions like whether a wood or plastic cutting board is better to use, and if a turkey should be cooked breast-side up or breast-side down. Quick answers from the app: plastic, and it’s personal preference, although USDA recommends breast-side up the entire time.
 

@@ -2,15 +2,13 @@
 slug: usa-gov-and-gobiernousa-gov-measure-content-efficiency-with-new-kpi-metric
 date: 2017-09-12 12:14:34 -0400
 title: 'USA.gov and GobiernoUSA.gov Measure Content Efficiency With New KPI Metric'
-summary: 'This post was originally published on the USAGov blog.'
-authors: 
+summary: 'This post was originally published on the USA.gov blog.'
+authors:
   - jessica-milcetich
 
-categories: 
+topics:
   - content
   - metrics
-
-tag: 
   - analytics
   - content
   - gobiernousagov

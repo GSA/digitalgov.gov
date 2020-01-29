@@ -6,16 +6,16 @@ slug: 'cybersecuring-the-internet-of-things'
 summary: I recently had the chance to talk with the legendary Vint Cerf, one of the founding fathers of the internet. We had a wide-ranging discussion about the past, present and future of the internet, network security and what it would take to successfully, safely and reliably merge the digital and physical worlds, a concept known
 authors:
   - donna-dodson
-categories:
-  - Data
-  - Mobile
-  - 'Strategy and Policy'
-tag:
-  - best practices
+topics:
+  - data
+  - mobile
+  - strategy
+  - policy
+  - best-practices
   - infrastructure
-  - Internet of things
+  - internet-of-things
   - IoT
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
   - security
 ---

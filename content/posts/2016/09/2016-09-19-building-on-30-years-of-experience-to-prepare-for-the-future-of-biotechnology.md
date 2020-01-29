@@ -9,20 +9,20 @@ authors:
   - julia-doherty
   - melissa-goldstein
   - james-kim
-categories:
-  - Governance
-  - strategy-and-policy
-tag:
-  - EPA
-  - FDA
-  - Federal Register
+topics:
+  - governance
+  - strategy
+  - policy
+  - epa
+  - fda
+  - federal-register
   - OSTP
   - US Department of Agriculture
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - USDA
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 > Summary: EPA, FDA, and USDA unveil two documents as part of the Administration’s continuing effort to modernize the Federal regulatory system for biotechnology products.

@@ -5,23 +5,22 @@ title: 'The Data Briefing: White House Asks Data Scientists and App Developers t
 summary: 'The White House issued a call on September 30, 2015, for data scientists and app developers to help with a vital public health issue: suicide prevention. From the official announcement: &ldquo;If you are a data scientist, analyst, tech innovator, or entrepreneur interested in sharing ideas and resources for suicide prevention, we want to hear from'
 authors:
   - bbrantley
-categories:
-  - Data
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
+topics:
   - data
-  - mobile apps
-  - native app
-  - native apps
-  - open data
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - data
+  - mobile-apps
+  - native-app
+  - native-apps
+  - open-data
   - SAMHSA
-  - The Data Briefing
-  - US Department of Veterans Affairs
+  - the-data-briefing
+  - us-department-of-veterans-affairs
   - United States Patent and Trademark Office
   - USPTO
   - VA
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Help-Kiketz-iStock-Thinkstock-484208478.jpg" alt="The focus of photo of a page is on the word help." caption="" >}} 
@@ -40,7 +39,7 @@ SAMSHA also offers a <a href="http://www.samhsa.gov/data/" target="_blank">revam
 
 The Centers for Disease Control and Prevention’s (CDC) <a href="http://www.cdc.gov/violenceprevention/suicide/resources.html" target="_blank">resource page</a> for suicide prevention lists CDC resources and the other federal agencies involved in suicide prevention along with external organizations devoted to understanding and preventing suicide. Many of these organizations offer useful resources for data scientists and app developers. For example, the Department of Veterans Affairs <a href="https://www.vetselfcheck.org/Welcome.cfm" target="_blank">Veterans Self-Check Quiz</a> is a great online tool where the veteran can fill out a short, confidential survey. The veteran is then contacted by a VA Chat Counselor. The veteran can choose to remain anonymous while deciding if he or she wants to follow up on the services provided. The Veterans Self-Check Quiz would make an excellent mobile app and could be repurposed for other at-risk populations.
 
-Effective suicide prevention relies on helping individuals find the support they need, helping friends and families spot the warning signs and linking community resources to immediate mental health needs. If you are a data scientist, an app developer, or just have a good idea, please consider helping in making people’s lives better by reducing the risk of suicide in American society._Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+Effective suicide prevention relies on helping individuals find the support they need, helping friends and families spot the warning signs and linking community resources to immediate mental health needs. If you are a data scientist, an app developer, or just have a good idea, please consider helping in making people’s lives better by reducing the risk of suicide in American society._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 
 Want to read more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

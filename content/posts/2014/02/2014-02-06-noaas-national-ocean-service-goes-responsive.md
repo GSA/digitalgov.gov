@@ -3,15 +3,14 @@ slug: noaas-national-ocean-service-goes-responsive
 date: 2014-02-06 10:20:36 -0400
 title: 'NOAA&#8217;s National Ocean Service Goes Responsive'
 summary: ' Let&#8217;s ponder this for a moment: Maybe you live in South'
-categories:
-  - Mobile
-tag:
-  - Customer Experience
+topics:
+  - mobile
+  - cx
   - mobile
   - NOAA
-  - responsive web design
-  - Thursday Mobile Products
-  - user experience
+  - responsive-web-design
+  - thursday-mobile-products
+  - user-experience
 ---
 
 [{{< legacy-img src="2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg" alt="NOAA's National Ocean Service was the first line office within NOAA to launch a homepage that incorporates responsive design. Now, the office's nautical charts and tides and currents information are within easy reach to mariners and boaters of all kinds." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg)
@@ -53,4 +52,4 @@ NOS&#8217;s new design uses a responsive approach that is both elegant and actio
 (P.S.: You didn&#8217;t hear this from me, but we hope to see a responsive design for the main NOAA.gov homepage in the not-so-distant future, too. Stay tuned!)
 
 \___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\____
-_Got questions about responsive design? Start with this helpful [**article**]({{< link "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). And don&#8217;t forget: you can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._
+_Got questions about responsive design? Start with this helpful [**article**]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). And don&#8217;t forget: you can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._

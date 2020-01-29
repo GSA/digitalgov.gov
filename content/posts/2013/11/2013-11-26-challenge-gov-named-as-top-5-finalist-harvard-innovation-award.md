@@ -5,11 +5,10 @@ title: Challenge.gov Named as Top 5 Finalist Harvard Innovation Award
 summary: 'Thanks to the tremendous work of challenge managers across federal government and the support of the White House Office of Science & Technology Policy, the Challenge.gov program at GSA has been named one of the top 5'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Our Work
-tag:
-  - challenges and prize competitions
+topics:
+  - challenges
+  - our-work
+  - challenges-and-prize-competitions
   - crowdsourcing
   - innovation
 ---

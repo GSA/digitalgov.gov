@@ -5,30 +5,30 @@ title: 'How Do You Redesign a ‘Dinosaur’? Redesigning an Intranet Site: the 
 summary: 'Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. Indeed, it’s our job to nurture this ongoing process to create, update, test, update again. And, repeat! But, what about those sites or pages that seem to never crawl up to the &lsquo;high-priority’ list and'
 authors:
   - karla-blaine
-categories:
-  - Accessibility
-  - Content
-  - Data
-  - Design
-  - Managing Digital
-  - strategy-and-policy
-  - user-testing-and-research
-  - UX
-tag:
+topics:
+  - accessibility
   - content
-  - content strategy
-  - Customer Experience
-  - CX
+  - data
+  - design
+  - product-management
+  - strategy
+  - policy
+  - user-testing-and-research
+  - ux
+  - content
+  - content-strategy
+  - cx
+  - cx
   - National Center for Complementary and Integrative Health
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCCIH
-  - NIH
+  - nih
   - prototype
   - usability
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
   - user research
-  - UX
+  - ux
 ---
 
 Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. It’s our job, after all, to nurture the ongoing process of creating, updating, and testing. But, there are those sites or pages that never seem to make it to the high-priority list. For our Web team, this was our Center’s staff Intranet site.

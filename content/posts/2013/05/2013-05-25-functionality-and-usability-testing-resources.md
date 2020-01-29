@@ -5,17 +5,16 @@ title: Functionality and Usability Testing Resources
 summary: Functionality testing verifies that the functions of a product or service is working as intended. Each function is tested by providing appropriate input, verifying the output and comparing the actual results with the expected results. Usability testing measures the ease of use and intuitiveness of a product or service by asking users to perform a
 authors:
   - jparcell
-categories:
-  - Mobile
-  - user-testing-and-research
-tag:
+topics:
   - mobile
-  - UX
+  - user-testing-and-research
+  - mobile
+  - ux
 ---
 
 [<img class="alignright  wp-image-97002" alt="GSA's Mobile Application Development Program Helps Agencies Develop Mobile Products" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Mobile-app-description1.jpg" width="450" height="300" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Mobile-app-description1.jpg)Functionality testing verifies that the functions of a product or service is working as intended. Each function is tested by providing appropriate input, verifying the output and comparing the actual results with the expected results. Usability testing measures the ease of use and intuitiveness of a product or service by asking users to perform a task and observing what they do, where they succeed and where they have difficulties.
 
-This article was developed as part of the [Mobile Application Development Program](https://digitalgov.sites.usa.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digitalgov.sites.usa.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
+This article was developed as part of the [Mobile Application Development Program](https://digital.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digital.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
 
 <a name="Government Guidance"></a>**Government Guidance**
 
@@ -47,7 +46,7 @@ Listed below are resources available that further describe and conduct functiona
 **Relevant Communities:**
 
   * <a href="http://ixdadc.ning.com/" rel="nofollow">Interaction Design Association &#8211; DC Chapter</a> local community focused DC group within the larger Interaction Design Association
-  * [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile Gov Community Events") &#8211; cross-gov, multidisciplinary community dedicated to building a anytime, anywhere gov for the public
+  * [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile Gov Community Events") &#8211; cross-gov, multidisciplinary community dedicated to building a anytime, anywhere gov for the public
   * <a href="http://www.w3.org/" rel="nofollow">World Wide Web Consortium</a> &#8211; international community that develops Web standards
 
 **Testing Services**

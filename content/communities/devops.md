@@ -1,10 +1,42 @@
 ---
-url: /communities/devops/
-uid: devops
-date: 2019-05-29 12:58:00 -0500
-title: "DevOps Community of Practice"
+# View this page at https://digital.gov/communities/devops
+# Learn how to edit our pages at https://workflow.digital.gov
+
+slug: devops
+date: 2019-12-12 19:00:00 -0500
+title: "DevOps"
 deck: "Operating rapidly changing resilient systems at scale"
-summary: "The practice of operations and development staff participating together in the in the entire service lifecycle operate rapidly changing resilient systems at scale."
+summary: "The practice of operations and development staff participating in the in the entire service lifecycle to operate rapidly changing resilient systems at scale."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - devops
+
+# see all authors at https://digital.gov/authors
+authors:
+  - brian-fox
+  - peter-burkholder
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
+community_list:
+  - platform: listserv
+    type: government
+    subscribe_email: "devops-today-subscribe-request@listserv.gsa.gov"
+    subscribe_email_subject: "Subscribe to DevOps"
+    members: 297
+    emails_per_week:
+  - platform: listserv
+    type: public
+    subscribe_email: devops-public-subscribe-request@listserv.gsa.gov
+    subscribe_email_subject: "Subscribe Public DevOps"
+    members: 67
+    emails_per_week:
+
+# Make it better ♥
 
 ---
 
@@ -16,10 +48,11 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-- [**December Special Event with Nicolas Chaillan**](https://digital.gov/event/2019/12/03/devops-holiday-special-event-nicolas-chaillan/)
+- [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
 
 ## Past Meetings
 
+- [**December Special Event: Nicolas Chaillan**](https://digital.gov/event/2019/12/03/devops-holiday-special-event-nicolas-chaillan/)
 - [**November Special Event: Jez Humble: Building and Scaling High Performing Technology Organizations**](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)
 - [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
 - [**September Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/)
@@ -27,7 +60,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 - [**July Meeting**](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/)
 
 ## Join
-We have two listservs available, one for Federal Employees, and one for all individuals: 
+We have two listservs available, one for Federal Employees, and one for all individuals:
 
 - To join our federal government employee only Listserv, send an email from your official government email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)
 

@@ -5,21 +5,20 @@ title: New API Brings EPIC Earth Imagery to Developers
 summary: 'Daily imagery data taken by the Earth Polychromatic Imaging Camera is now accessible via a RESTful API available from the NASA API Portal. The Earth Polychromatic Imaging Camera (EPIC) is an instrument aboard NOAA’s DSCOVR satellite, which orbits at Earth’s Lagrange point, the sweet spot in space where the gravitational tug of the Earth and'
 authors:
   - veronica-phillips
-categories:
-  - API
-  - Code
-  - Content
-  - Data
-tag:
-  - API
+topics:
+  - api
   - code
   - content
-  - NASA
+  - data
+  - api
+  - code
+  - content
+  - nasa
   - National Aeronautics and Space Administration
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - open
-  - open data
+  - open-data
 ---
 
 Daily imagery data taken by the Earth Polychromatic Imaging Camera is now accessible via a RESTful API available from the <a href="https://api.nasa.gov/api.html#EPIC" target="_blank">NASA API Portal</a>. {{< legacy-img src="2016/11/600-x-400-NASA_Daily-imagery-data-taken-by-the-Earth-Polychromatic-Imaging-Camera-is-now-accessible-via-a-RESTful-API-available-from-the-NASA-API-Portal.jpg" alt="A photo from Earth Polychromatic Imaging Camera (EPIC)." caption="" >}} 

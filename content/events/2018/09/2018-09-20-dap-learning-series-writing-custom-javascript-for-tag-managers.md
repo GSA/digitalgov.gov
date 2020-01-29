@@ -7,6 +7,9 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
+topics:
+  - analytics
+  - dap
 date: 2018-09-20 14:00:00 -0400
 end_date: 2018-09-20 15:00:00 -0400
 event_organizer: DigitalGov University

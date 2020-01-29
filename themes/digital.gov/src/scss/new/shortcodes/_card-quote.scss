@@ -1,0 +1,26 @@
+.card-quote{
+	@include u-margin-bottom(1);
+	@include u-bg('gold-5');
+	blockquote{
+		@include u-margin(0);
+		@include u-padding-y('205');
+		@include u-padding-x(5);
+		@include u-padding-right(3);
+		@include u-text-indent(-2)
+		@include u-font('serif', 'lg');
+		@include at-media('tablet') {
+			@include u-padding-x(6);
+			@include u-padding-right(4);
+		}
+		.q{
+			@include u-margin-right('2px');
+		}
+		cite{
+			@include u-display('block');
+			@include u-text('right');
+			@include u-text('italic');
+			@include u-measure(4);
+			@include u-font('sans', 'md');
+		}
+	}
+}

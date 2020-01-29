@@ -5,15 +5,14 @@ title: 'Sixty Years of Tradition: Tracking Santa with NORAD'
 summary: '&#8216;Twas the night before Christmas, when all through the house, Not a creature was stirring, not even a mouse; The stockings were hung by the chimney with care, In hopes that St. Nicholas soon would be there; The children were nestled all snug in their beds;&#8230; &#8230;wondering when Santa was coming? &ldquo;Let’s check!&rdquo; they all'
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
-  - mobile apps
+topics:
+  - mobile
+  - mobile-apps
   - NORAD
   - North American Defense Command
   - SSA
-  - The United States Social Security Administration
-  - Thursday Mobile Products
+  - the-united-states-social-security-administration
+  - thursday-mobile-products
 ---
 
 > &#8216;Twas the night before Christmas, when all through the house,
@@ -44,4 +43,4 @@ The magic starts when you click on “**Let’s go!**” Explore “**Santa’s 
 
 {{< legacy-img src="2015/12/600-x-337-Windows-10-NORAD-Santa-Tracker-app-2015-60th-anniversary-Santas-Village-screen.jpg" alt="The Santa's Village screen of the Windows 10 app for the NORAD Santa Tracker." >}}
 
-Don’t forget your popcorn when you visit the **Theater** to enjoy movies on Santa and NORAD and the gift shop. Visit **NORAD HQ** to know more about NORAD’s mission, and learn how they track Santa’s flight around the world. In “Secret Santa Files,” view history and highlights of the program’s 60-year history tracking Santa’s yuletide journey._You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+Don’t forget your popcorn when you visit the **Theater** to enjoy movies on Santa and NORAD and the gift shop. Visit **NORAD HQ** to know more about NORAD’s mission, and learn how they track Santa’s flight around the world. In “Secret Santa Files,” view history and highlights of the program’s 60-year history tracking Santa’s yuletide journey._You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

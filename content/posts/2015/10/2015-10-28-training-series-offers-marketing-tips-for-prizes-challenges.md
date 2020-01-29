@@ -5,15 +5,14 @@ title: 'Training Series Offers Marketing Tips for Prizes & Challenges'
 summary: 'Marketing and public education is an essential part of any successful prize competition. The good news for federal agencies working with tight budgets is that both can be accomplished without breaking the bank. &ldquo;We have found other ways than spending a lot of money,&rdquo; said Denice Shaw, senior advisor to the Chief Innovation Officer at the'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - Challenges and Prizes Community of Practice
-  - EPA
-  - Recaps
-  - US Department of Education
-  - US Environmental Protection Agency
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prizes-community-of-practice
+  - epa
+  - recaps
+  - us-department-of-education
+  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}}
@@ -26,7 +25,7 @@ The good news for federal agencies working with tight budgets is that both can b
 
 Shaw joined two marketing experts from XPRIZE, October 20, for the latest [webinar](https://www.youtube.com/watch?v=yEyFIzj_7RM) in the **Expert Training Series: How to Design & Operate Prizes to Maximize Success**, a [seven-part educational forum](https://www.youtube.com/watch?v=pJzjZtjkwnc) on incentivized prize competitions.
 
-Designed for the federal challenge and prize community, the online series is a collaboration between GSA’s [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University]({{< link "/digitalgov-university/" >}}).
+Designed for the federal challenge and prize community, the online series is a collaboration between GSA’s [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}).
 
 The marketing of challenges helps recruit and motivate participants, bolsters the brand of partners or sponsors, and excites the public.
 

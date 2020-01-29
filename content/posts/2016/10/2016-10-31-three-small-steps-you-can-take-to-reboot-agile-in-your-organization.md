@@ -7,15 +7,15 @@ authors:
   - chris-goranson
   - michael-torres
   - kristy-singletary
-categories:
-  - strategy-and-policy
+topics:
+  - strategy
+  - policy
   - user-testing-and-research
-tag:
-  - 18F
+  - 18f
   - agile
-  - best practices
+  - best-practices
   - Commerce
-  - Department of Commerce
+  - department-of-commerce
   - kanban
   - lean
   - National Technical Information Service

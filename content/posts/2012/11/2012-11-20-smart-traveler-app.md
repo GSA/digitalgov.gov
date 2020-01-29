@@ -5,13 +5,12 @@ title: Smart Traveler App
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Department of State. Secretary Clinton often talks about using &#8220;21st Century Statecraft&#8221; at the State Department. For us in the website office, this equates to using new tools'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - Mobile Gov Experience
-  - Thursday Mobile Products
-  - US Department of State
+topics:
+  - mobile
+  - mobile-apps
+  - mobile-gov-experience
+  - thursday-mobile-products
+  - us-department-of-state
 ---
 
 _[{{< legacy-img src="2013/12/Smart\_Traveler\_App.jpg" alt="Smart\_Traveler\_App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Smart_Traveler_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **<a href="http://www.state.gov/" rel="nofollow">Department of State</a>**._

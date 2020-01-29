@@ -1,8 +1,10 @@
 ---
-url: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities/
+slug: digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities
 date: 2014-01-16 11:12:13 -0400
 title: 'DigitalGov User Experience Program: Speaking Opportunities'
 summary: 'The DigitalGov User Experience Program presents to federal audiences by phone, webinar and in person. We cover a variety of topics, including: User Centered Design and Usability Best (and Worst) Practices on Government Websites How to Improve Federal Digital Services and more Potential audiences include: CIOs'
+topics:
+  - user-experience
 authors:
   - andreanocesigritz
 ---

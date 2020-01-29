@@ -5,15 +5,14 @@ title: Mobile Gov User Experience Resources and Design Tools
 summary: In September 2013, the Mobile Gov Community of Practice released user experience guidelines and recommendations for federal agencies to use in order to create good mobile user experiences. This article highlights private sector and government resources and tools to assist agencies in implementing those user experience guidelines. Mobile User Experience Resources and Tools From the
 authors:
   - jparcell
-categories:
-  - Mobile
-  - UX
-tag:
+topics:
   - mobile
-  - UX
+  - ux
+  - mobile
+  - ux
 ---
 
-[<img class="alignright size-full wp-image-99122" alt="MobileGov innovators huddled around laptops at a coffee shop." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/MobileGovWikithon2013-06-17.png" width="436" height="322" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/MobileGovWikithon2013-06-17.png)In September 2013, the Mobile Gov Community of Practice released [user experience guidelines and recommendations]({{< link "2013-09-18-making-mobile-gov-user-experience-recommendations.md" >}} "Making Mobile Gov: User Experience Recommendations") for federal agencies to use in order to create good mobile user experiences. This article highlights private sector and government resources and tools to assist agencies in implementing those user experience guidelines.
+[<img class="alignright size-full wp-image-99122" alt="MobileGov innovators huddled around laptops at a coffee shop." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/MobileGovWikithon2013-06-17.png" width="436" height="322" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/MobileGovWikithon2013-06-17.png)In September 2013, the Mobile Gov Community of Practice released [user experience guidelines and recommendations]({{< ref "2013-09-18-making-mobile-gov-user-experience-recommendations.md" >}} "Making Mobile Gov: User Experience Recommendations") for federal agencies to use in order to create good mobile user experiences. This article highlights private sector and government resources and tools to assist agencies in implementing those user experience guidelines.
 
 **Mobile User Experience Resources and Tools From the Private Sector
   
@@ -29,7 +28,7 @@ There are a number of resources in the private sector for designing excellent Us
 
 **Government Guidance and Resources**
   
-Since November 2012, the [Mobile Gov Community of Practice](https://digitalgov.sites.usa.gov/communities/mobile/ "Mobile Gov Community Events") has been working to create awesome mobile user experiences and expertise in government. The community has hosted workshops, webinars, a user experience toolkit and a crowdsourcing tool. In September 2013, based on this work, the community released over forty [<span class="wiki_link_ext">Mobile User Experience Guidelines and Recommendations </span>](https://digitalgov.sites.usa.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations")for government.
+Since November 2012, the [Mobile Gov Community of Practice](https://digital.gov/communities/mobile/ "Mobile Gov Community Events") has been working to create awesome mobile user experiences and expertise in government. The community has hosted workshops, webinars, a user experience toolkit and a crowdsourcing tool. In September 2013, based on this work, the community released over forty [<span class="wiki_link_ext">Mobile User Experience Guidelines and Recommendations </span>](https://digital.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations")for government.
 
 
 

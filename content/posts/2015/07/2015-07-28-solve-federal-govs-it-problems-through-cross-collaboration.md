@@ -5,10 +5,9 @@ title: Solve Federal IT Problems Through Cross-Collaboration
 summary: '39 participants. 17 agencies. 6 months. Earlier this year, the CIO Council launched the IT Solutions Challenge, an initiative to engage GS 9-13 level rising stars in the IT and IT acquisition community. Participants identify shared challenges, those challenges where you might say to yourself, &ldquo;if only we could [x], life would be so much'
 authors:
   - kdaniel
-categories:
-  - Communities
-  - Monthly Theme
-tag:
+topics:
+  - communities
+  - monthly-theme
   - CIO Council
   - cloud
   - data

@@ -5,21 +5,20 @@ title: What Labor Department Data Do You Want?
 summary: ' Four years ago, we released our Labor Department-wide API&mdash;that is, an Application Programming Interface&mdash;with the hope that anyone who wants to build an'
 authors:
   - michael-pulsifer
-categories:
-  - API
-  - Code
-  - Data
-tag:
-  - API
+topics:
+  - api
+  - code
+  - data
+  - api
   - data
   - GitHub
   - National Weather Service
-  - US Department of Labor
+  - us-department-of-labor
 ---
 
 {{< legacy-img src="2015/04/600-x-135-labor-data-sets.jpg" alt="Data set icons from the US Department of Labor's Developer Portal; a maroon plus sign, a green bank icon, a blue bar chart and a purple question mark" >}}
 
-Four years ago, we released our Labor Department-wide [API]({{< link "2013-04-30-apis-in-government.md" >}})—that is, an Application Programming Interface—with the hope that anyone who wants to build an app using our data could do so easily. At the time, we started off with three datasets. Today, [we have around 200](http://developer.dol.gov/dataset/), including workplace injuries and illnesses, the unemployment rate, companies’ compliance with wage and hour laws, and many other important topics. We hope that the data we publish can help people who have jobs, are looking for jobs or are even retired from their jobs.
+Four years ago, we released our Labor Department-wide [API]({{< ref "2013-04-30-apis-in-government.md" >}})—that is, an Application Programming Interface—with the hope that anyone who wants to build an app using our data could do so easily. At the time, we started off with three datasets. Today, [we have around 200](http://developer.dol.gov/dataset/), including workplace injuries and illnesses, the unemployment rate, companies’ compliance with wage and hour laws, and many other important topics. We hope that the data we publish can help people who have jobs, are looking for jobs or are even retired from their jobs.
 
 {{< legacy-img src="2015/04/600-x-475-DOL-portal.jpg" alt="Department of Labor's Developer Portal website showing some Health and Safety datasets" >}}
 

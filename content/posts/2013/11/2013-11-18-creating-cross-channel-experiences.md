@@ -5,11 +5,10 @@ title: Creating Cross-Channel Experiences
 summary: One of the most important jobs for an organization is to think about the entire ecosystem of their brand and what the user experience is across each channel. Whether it is through accessing information on your site through various devices, calling a help line, engaging through social media, and/or having a face-to-face conversation, there may
 authors:
   - katie-messner
-categories:
-  - Content
-  - UX
-tag:
-  - content strategy
+topics:
+  - content
+  - ux
+  - content-strategy
   - usability
 ---
 
@@ -52,7 +51,7 @@ In their report, [The New Multi-screen World: Understanding Cross-platform Consu
     </p>
 
 <p dir="ltr">
-  This raises the question: what does the behavior look like? Google found that people move back and forth between devices throughout the day to accomplish their tasks. They broke the engagement into two categories: sequential usage and simultaneous usage of their devices. Sequential usage means someone moves from one device to another at different times to accomplish a task or activity. Simultaneous usage refers to using more than one device at the same time for either a related (complementary usage) or an unrelated activity (multi-tasking).
+  This raises the question: what does the behavior look like? Google found that people move back and forth between devices throughout the day to accomplish their tasks. They broke the engagement into two topics: sequential usage and simultaneous usage of their devices. Sequential usage means someone moves from one device to another at different times to accomplish a task or activity. Simultaneous usage refers to using more than one device at the same time for either a related (complementary usage) or an unrelated activity (multi-tasking).
 </p>
 
 <p dir="ltr">

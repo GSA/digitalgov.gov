@@ -3,11 +3,10 @@ slug: trends-on-tuesday-tablet-ownership-steadily-increasing
 date: 2014-03-11 10:32:50 -0400
 title: 'Trends on Tuesday: Tablet Ownership Steadily Increasing'
 summary: 'Tablet ownership continues to rise, 44% of Americans now owning one, according to Consumer Electronics Association (CEA) December 2013  estimates. Other interesting findings include: Exactly half of American adults now own either a tablet or an e-reader. 7 in 10 online consumers expect'
-categories:
-  - Mobile
-tag:
-  - responsive web design
-  - Trends on Tuesday
+topics:
+  - mobile
+  - responsive-web-design
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2014/03/tablet-screen-digitalgov-mobile.jpg" alt="Hand holding tablet screen showing Digitalgov.gov's mobile channel posts." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/tablet-screen-digitalgov-mobile.jpg)Tablet ownership continues to rise, 44% of Americans now owning one, according to [Consumer Electronics Association (CEA) December 2013  estimates](http://www.ce.org/News/News-Releases/Press-Releases/2013-Press-Releases/Tablet-Ownership-Rate-Reaches-New-High-of-44-Perce.aspx).
@@ -21,4 +20,4 @@ What is also interesting to note is that a shift toward smaller tablet screens i
 
 > Among current owners, small screens of seven to eight inches have increased from 25 percent ownership in June 2013 to 32 percent in December 2013. Conversely, ownership of medium screens 8.9 to 10.1inches have decreased from 73 percent in June 2013 to 68 percent in December 2013.
 
-The increase in overall tablet ownership and the move toward a slightly smaller screen means agencies designing their information for anywhere any device consumption need to consider the proliferation of screen sizes and think along [responsive design]({{< link "2013-08-20-embracing-responsive-design.md" >}} "Embracing Responsive Design").
+The increase in overall tablet ownership and the move toward a slightly smaller screen means agencies designing their information for anywhere any device consumption need to consider the proliferation of screen sizes and think along [responsive design]({{< ref "2013-08-20-embracing-responsive-design.md" >}} "Embracing Responsive Design").

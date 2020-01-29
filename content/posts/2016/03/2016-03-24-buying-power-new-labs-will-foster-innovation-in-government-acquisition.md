@@ -5,15 +5,14 @@ title: 'Buying Power: New Labs Will Foster Innovation in Government Acquisition'
 summary: The slow, tedious federal acquisition process has long been the butt of jokes in the private sector. If the government had wanted to buy the original Nintendo, one might say, it would have all the paperwork in place by the time the rest of the world had moved on to the XBox. But that culture
 authors:
   - kelly-olson
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
-  - DHS
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - dhs
   - HHS
-  - United States Department of Health and Human Services
-  - United States Department of Homeland Security
+  - united-states-department-of-health-and-human-services
+  - united-states-department-of-homeland-security
 ---
 
 The slow, tedious federal acquisition process has long been the butt of jokes in the private sector.

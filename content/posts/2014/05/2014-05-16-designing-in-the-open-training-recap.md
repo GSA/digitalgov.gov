@@ -5,16 +5,15 @@ title: Designing in the Open Training Recap
 summary: 'During the recent redesign of Data.gov, the team developed a process that helped them respond to public feedback, track the actions and hold themselves accountable. In a DigitalGov University webinar, &#8220;Designing in the Open&mdash;Public Participation in Government Web Design,&#8221; Phil Ashlock, chief architect at Data.gov, and Jeanne Holm, Data.gov evangelist, shared how integrating feedback from'
 authors:
   - andreanocesigritz
-categories:
-  - Content
-  - Data
-  - Monthly Theme
-  - Our Work
-tag:
-  - data.gov
+topics:
+  - content
+  - data
+  - monthly-theme
+  - our-work
+  - data-gov
   - GitHub
-  - open source
-  - Recaps
+  - open-source
+  - recaps
 ---
 
 During the recent redesign of [Data.gov](http://www.data.gov/), the team developed a process that helped them respond to public feedback, track the actions and hold themselves accountable. In a DigitalGov University webinar, &#8220;Designing in the Open—Public Participation in Government Web Design,&#8221; Phil Ashlock, chief architect at Data.gov, and Jeanne Holm, Data.gov evangelist, shared how integrating feedback from virtual, online and face-to-face testing, as well as across multiple social media platforms, helped dramatically change the design in the response to the needs of their users.
@@ -35,6 +34,6 @@ You can learn more about about those tips and Data.gov’s journey in changing t
 
 [youtube https://www.youtube.com/watch?v=A67xHIFGdfc]
   
-You can also read more about [Data.gov’s iterative, constantly evolving feedback process]({{< link "2014-03-18-data-gov-usability-case-study.md" >}} "Data.gov – Usability Case Study"). It’s ongoing and everyday, all the time, from anywhere.
+You can also read more about [Data.gov’s iterative, constantly evolving feedback process]({{< ref "2014-03-18-data-gov-usability-case-study.md" >}} "Data.gov – Usability Case Study"). It’s ongoing and everyday, all the time, from anywhere.
 
-_This article is part of this month&#8217;s editorial theme on the Digital Government Strategy. Check out our recently published article [Because It&#8217;s Hard]({{< link "2014-05-07-because-its-hard.md" >}}), and check back for more articles related to this theme in May._
+_This article is part of this month&#8217;s editorial theme on the Digital Government Strategy. Check out our recently published article [Because It&#8217;s Hard]({{< ref "2014-05-07-because-its-hard.md" >}}), and check back for more articles related to this theme in May._

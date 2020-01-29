@@ -1,0 +1,14 @@
+.note{
+	@include u-margin-bottom(2);
+	@include u-padding(2);
+	@include u-bg('accent-warm-lightest');
+	@include u-radius('sm');
+	p:last-child{
+		@include u-margin-bottom(0);
+	}
+}
+// For notes within list items
+li .note{
+	@include u-padding-y('05');
+	@include u-padding-x(1);
+}

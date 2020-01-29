@@ -5,25 +5,25 @@ title: Hualapai Public Safety Meet Old and New Challenges Through Technology
 summary: '6,000 feet deep, 18 miles wide, 5,000 people per day: The Reality of the Tribal Beat How can a place be remote and virtually unpopulated, yet constantly full of thousands of people and teeming with activity? It certainly seems impossible, but that is exactly the situation at Grand Canyon West (GCW), home of the Hualapai'
 authors:
   - lesia-dickson
-categories:
-  - Data
-  - Managing Digital
-  - Mobile
-  - strategy-and-policy
+topics:
+  - data
+  - product-management
+  - mobile
+  - strategy
+  - policy
   - user-testing-and-research
-  - Video
-tag:
-  - Audio/Video
+  - video
+  - audio-video
   - broadband
   - data
   - First Responder Network Authority
-  - FirstNet
+  - firstnet
   - mobile
   - NPS
   - public safety
   - Tribal
   - Tribal Government
-  - US National Park Service
+  - us-national-park-service
   - user research
   - video
   - wireless

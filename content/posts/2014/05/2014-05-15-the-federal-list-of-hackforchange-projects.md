@@ -5,34 +5,33 @@ title: 'The Federal List of #HackforChange Projects'
 summary: 'You should be on this list&mdash;the current federal government participants in the National Day of Civic Hacking. There are 15 agencies participating in the event, primarily in and around the Washington, D.C., area. This is a fantastic compilation of what agencies are doing, but it is not enough. We need more widespread participation across the country. If'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-tag:
-  - 18F
+topics:
+  - challenges
+  - 18f
   - Census
   - CFPB
-  - ChallengeGov
+  - challenge-gov
   - Consumer Financial Protection Bureau
-  - data.gov
-  - Federal Emergency Management Agency
-  - FEMA
+  - data-gov
+  - federal-emergency-management-agency
+  - fema
   - HHS
   - HUD
   - IMLS
   - Institute of Museum and Library Services
-  - NASA
-  - National Day of Civic Hacking
-  - National Institutes of Health
-  - national science foundation
-  - NIH
-  - NSF
-  - Peace Corps
+  - nasa
+  - national-day-of-civic-hacking
+  - national-institutes-of-health
+  - national-science-foundation
+  - nih
+  - nsf
+  - peace-corps
   - SBA
-  - US Agency for International Development
-  - United States Census Bureau
-  - United States Department of Health and Human Services
-  - United States Department of Housing and Urban Development
-  - USAID
+  - us-agency-for-international-development
+  - united-states-census-bureau
+  - united-states-department-of-health-and-human-services
+  - united-states-department-of-housing-and-urban-development
+  - usaid
 ---
 
 You should be on this list—the current federal government participants in the <a title="civic hack day" href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a>.

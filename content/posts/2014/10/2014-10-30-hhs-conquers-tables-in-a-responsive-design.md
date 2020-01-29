@@ -5,19 +5,18 @@ title: HHS Conquers Tables in a Responsive Design
 summary: This year, we moved HHS.gov to a responsive template to ensure that users accessing our site in a mobile environment had the best possible experience. Our department faced several challenges in moving a site the size of HHS.gov into a responsive template and one of those challenges surrounded our need to make tables work in
 authors:
   - clair-koroma
-categories:
-  - Mobile
-  - Monthly Theme
-tag:
+topics:
+  - mobile
+  - monthly-theme
   - HHS
-  - Mobile UX Guideline 5
-  - responsive web design
-  - United States Department of Health and Human Services
+  - mobile-ux-guideline-5
+  - responsive-web-design
+  - united-states-department-of-health-and-human-services
 ---
 
 This year, we moved [HHS.gov](http://www.hhs.gov) to a responsive template to ensure that users accessing our site in a mobile environment had the best possible experience. Our department faced several challenges in moving a site the size of HHS.gov into a responsive template and one of those challenges surrounded our need to make tables work in a responsive environment.
 
-Because of the nature of the information our department provides to the public, our use of tables is an integral part of how we communicate information. Not only do we use [a lot of tables like other agencies]({{< link "2014-10-28-trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design.md" >}} "Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design"), we also use complex tables and we have a lot of them, over 3,000 of our pages have tables. We considered fixing them as we found them, but that would have opened us up to a long, labor-intensive process that left a lot of our content inaccessible on mobile. So we had to figure out a way to:
+Because of the nature of the information our department provides to the public, our use of tables is an integral part of how we communicate information. Not only do we use [a lot of tables like other agencies]({{< ref "2014-10-28-trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design.md" >}} "Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design"), we also use complex tables and we have a lot of them, over 3,000 of our pages have tables. We considered fixing them as we found them, but that would have opened us up to a long, labor-intensive process that left a lot of our content inaccessible on mobile. So we had to figure out a way to:
 
   1. Deal with a large volume of legacy tables
   2. Present the data without omitting any of it, since for most of tables the entirety of the data is important to providing accurate information

@@ -5,28 +5,27 @@ title: Ignite with Us
 summary: 'Have a DigitalGov success?&mdash;published an API? Got buy-in from leadership? Changed a part of your customer-service paradigm? Developed a cool dashboard? Got the app out the door? Heck! Have you prototyped a wearable, drivable or flyable? Have a DigitalGov opinion?&mdash;think we should be focusing more or less on something? Have an idea on how to'
 authors:
   - apiazza
-categories:
-  - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
-  - UX
-tag:
-  - API
+topics:
+  - challenges
+  - code
+  - content
+  - product-management
+  - metrics
+  - mobile
+  - social-media
+  - ux
+  - api
   - Census
   - innovation
-  - mobile apps
-  - United States Census Bureau
+  - mobile-apps
+  - united-states-census-bureau
 ---
 
 Have a DigitalGov success?—published an API? Got buy-in from leadership? Changed a part of your customer-service paradigm? Developed a cool dashboard? Got the app out the door?
 
 Heck! Have you prototyped a wearable, drivable or flyable?
 
-Have a [DigitalGov]({{< link "index.html" >}}) opinion?—think we should be focusing more or less on something? Have an idea on how to improve development? Want to share your digital gov mantra? Internet of things?
+Have a [DigitalGov](https://digital.gov/) opinion?—think we should be focusing more or less on something? Have an idea on how to improve development? Want to share your digital gov mantra? Internet of things?
 
 You are doing and thinking a lot, and we have a place for a few of you smarties to share with other agencies. At the close of the [DigitalGov Citizen Services Summit]({{< tmp"events/digitalgov-citizen-services-summit.md" >}} "DigitalGov Citizen Services Summit") we will have quick and catchy ignite sessions and we want you to share your amazing innovations.
 

@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Mobile a “Second Screen” for TV Viewing'
 summary: 'A study conducted by Nielson for Q1 2013 reports that almost half of all mobile users use their mobile devices as second screens while watching TV on a daily basis (46% for smartphones, 43% for tablets).'
 authors:
   - brandon-barr
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Trends on Tuesday
+  - mobile
+  - trends-on-tuesday
 ---
 
 A study conducted by Nielson for Q1 2013 reports that almost half of all mobile users use their mobile devices as second screens while watching TV on a daily basis (46% for smartphones, 43% for tablets). Over two thirds of respondents said they use their devices while watching TV multiple times a week.
@@ -18,4 +17,4 @@ A study conducted by Nielson for Q1 2013 reports that almost half of all mobile 
 
 The study then asked these users what they were using their devices for. A majority of people responded that they use their devices for looking up general information, surfing the web, or using social media. However, what is more interesting is that a substantial amount of respondents said that they use their devices _as a supplement to the TV program_. Supplemental activities include looking up information on the actors or the program, reading or contributing to conversations about the program on social media, and even buying products that are being advertised. In this way, people are using their phones not merely as distractions, but as tools to enhance their TV viewing experience.
 
-As we&#8217;ve noted in the past, this trend demonstrates how mobile devices are changing the way people digest information. If an agency is running a television campaign, increasingly the public may expect a [mobile user experience]({{< link "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}} "Mobile Gov User Experience Resources and Design Tools"), like a mobile website with additional information or even a native app with sophisticated features, in conjunction with the television campaign. Agencies need to prepare for the various contexts that people consume information, whether it be with complete or divided attention.
+As we&#8217;ve noted in the past, this trend demonstrates how mobile devices are changing the way people digest information. If an agency is running a television campaign, increasingly the public may expect a [mobile user experience]({{< ref "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}} "Mobile Gov User Experience Resources and Design Tools"), like a mobile website with additional information or even a native app with sophisticated features, in conjunction with the television campaign. Agencies need to prepare for the various contexts that people consume information, whether it be with complete or divided attention.

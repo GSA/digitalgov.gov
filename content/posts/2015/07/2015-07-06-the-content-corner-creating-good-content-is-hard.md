@@ -5,11 +5,10 @@ title: 'The Content Corner: Creating Good Content is Hard'
 summary: Throughout my five-plus months so far on this blog, I have focused a great deal on creating content, the various methods to improve your content, and what exactly content is. One thing that I may not have emphasized enough is the quality of the actual writing itself and how no content strategy on the planet
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
-  - The Content Corner
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/07/600-x-210-Content-Writing-Block-Vertical-Pens-ileezhun-iStock-Thinkstock-472384968.jpg" alt="the words, Content Writing over a block of random placeholder text with vertical pen nibs" caption="" >}} 
@@ -34,7 +33,7 @@ Perhaps it has something to do with the massive marketing campaign for the upcom
 
 Machines currently can’t provide another value that SMEs do, which is the ability to take a complex topic and synthesize various aspects in order to make it more understandable and approachable for the audience.
 
-As I have discussed here before, a machine is unable to express itself with any personality and therefore cannot write with a [unique voice]({{< link "2015-04-20-the-content-corner-finding-your-voice.md" >}}). With blogging especially, but with all content in general, this personality and voice is what can help your content stand out in a flood of voices. Copyblogger in fact recommends that when all else fails to attract an audience, spice things up by being a [little weird or unique](http://www.copyblogger.com/confident-bloggers/).
+As I have discussed here before, a machine is unable to express itself with any personality and therefore cannot write with a [unique voice]({{< ref "2015-04-20-the-content-corner-finding-your-voice.md" >}}). With blogging especially, but with all content in general, this personality and voice is what can help your content stand out in a flood of voices. Copyblogger in fact recommends that when all else fails to attract an audience, spice things up by being a [little weird or unique](http://www.copyblogger.com/confident-bloggers/).
 
 My personal computer’s behavior aside, I don’t think real scientists are close to creating a machine intelligence that can act weird or develop personality traits that make connections between the writer and reader of a piece of content.
 
@@ -58,5 +57,5 @@ Purina’s Puppyhood site has also been called “heavily branded,” coming off
 
 [Natalie Burg of Contently](https://natalieburg.contently.com/) sums it up nicely: “Put simply, helpful content is valuable content.” And the creation of helpful content is not an easy task, but it is a vital one that, in my opinion, can’t be handled lightly and can’t be outsourced to hired guns and certainly not robots. Content creation needs to be handled with expertise and passion and with a voice that resonates with the audience.
 
-_You’ve just finished reading the third article from a new column called [The Content Corner]({{< link "tag/the-content-corner" >}}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
+_You’ve just finished reading the third article from a new column called [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
 _Tyrus “Ty” Manuel is an IT Specialist with the Administrative Office of the U.S. Courts and has been passionate about digital content since at least 1994._

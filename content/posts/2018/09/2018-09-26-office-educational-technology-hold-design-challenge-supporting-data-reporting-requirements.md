@@ -1,15 +1,15 @@
 ---
 slug: office-educational-technology-hold-design-challenge-supporting-data-reporting-requirements
+short_url: https://go.usa.gov/xPGsx
 date: 2018-09-26 12:00:00 -0500
 title: 'A Design Challenge to Improve How School Data is Reported'
 summary: 'Join ED for two days of sketching, prototyping, and building solutions to help states design family-friendly approaches that make school data more transparent and accessible.'
 deck: 'Join ED for two days of sketching, prototyping, and building solutions to help states design family-friendly approaches that make school data more transparent and accessible.'
 authors:
   - office-educational-technology
-categories:
+topics:
   - challenges
   - data
-tag:
   - challenges-and-prize-competitions
   - data
   - data-visualization
@@ -19,6 +19,7 @@ featured_image:
   alt: 'Photo of people working together at the Open Data Hackathon, 2016&#46;'
 
 ---
+
 
 > _In November, the U.S. Department of Education is holding a digital “report card” design challenge in Washington, D.C. to design tools, templates, and other innovative solutions to support data reporting requirements of the Every Student Succeeds Act (ESSA). This blog post was originally published on their [Office of Educational Technology’s blog](https://medium.com/@OfficeofEdTech/design-challenge-2dd649e5b8b4)._
 

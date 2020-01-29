@@ -5,19 +5,18 @@ title: Opening Public Services to Artificial Intelligence Assistants
 summary: '&ldquo;Hey, Computer, how do I access my public services?&rdquo;  Citizens will soon be able to ask their Intelligent Personal Assistants (IPA) this question through an Emerging Citizen Technology open-sourced pilot program. The purpose of the initiative is to guide dozens of federal programs make public service information available through automated, self-service platforms for the home'
 authors:
   - jherman
-categories:
+topics:
   - content
   - emerging-tech
-  - managing-digital
+  - product-management
   - our-work
   - ux
-tag:
   - artificial-intelligence
-  - customer-experience
+  - cx
   - innovation
 ---
 
-_“Hey, Computer, how do I access my public services?”_ 
+_“Hey, Computer, how do I access my public services?”_
 
 Citizens will soon be able to ask their Intelligent Personal Assistants (IPA) this question through an Emerging Citizen Technology open-sourced pilot program. The purpose of the initiative is to guide dozens of federal programs make public service information available through automated, self-service platforms for the home and office such as Amazon Alexa, Google Assistant, Microsoft Cortana and Facebook Messenger.
 
@@ -41,6 +40,6 @@ We are planning a new event at the U.S. General Services Administration Central 
 
 GSA’s [Emerging Citizen Technology Program](https://emerging.digital.gov/) unites federal agencies across government through pilot programs and collaborative Communities to develop the shared resources needed to efficiently and compliantly adopt emerging technologies for which agencies identify business cases but no guidance or inadequate resources may exist, including [Artificial Intelligence for Citizen Services](https://emerging.digital.gov/artificial-intelligence/), [Blockchain](https://emerging.digital.gov/blockchain/), [Virtual/Augmented Reality](https://emerging.digital.gov/virtual-reality/), and [Social Technology](https://emerging.digital.gov/Socialgov/).
 
-* * * 
+* * *
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

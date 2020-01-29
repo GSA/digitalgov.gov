@@ -5,16 +5,15 @@ title: NIH Image Gallery Data Call Success
 summary: 'In early April, the National Institutes of Health put out a call for images highlighting NIH-funded scientific research.  The image call was posted on the NIH image gallery website and advertised through the NIH Public Information Officers (PIO) Network. The NIH Image Gallery, which averages 6,000 views per day, features free-to-use images for the general'
 authors:
   - christen-geiler
-categories:
-  - Content
-  - Monthly Theme
-  - Social Media
-tag:
+topics:
   - content
-  - content strategy
-  - National Institutes of Health
-  - NIH
-  - social media
+  - monthly-theme
+  - social-media
+  - content
+  - content-strategy
+  - national-institutes-of-health
+  - nih
+  - social-media
 ---
 
 In early April, the National Institutes of Health put out a call for images highlighting NIH-funded scientific research.  The image call was posted on the [NIH image gallery website](https://www.nih.gov/news-events/images) and advertised through the NIH Public Information Officers (PIO) Network. {{< legacy-img src="2016/06/600-x-550-NIH-Image-Gallery\_Host-infection-stimulates-antibiotic-resistance\_June-3rd-2016\_flickr\_CC-BY-2.0_.jpg" alt="Confocal image of an injectable tumor cell infused anti-cancer cryogel vaccine, uploaded June 3, 2016." caption="" >}} 

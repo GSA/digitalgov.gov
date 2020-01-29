@@ -5,13 +5,12 @@ title: Welcome to the Future of Census.gov
 summary: 'If you have ever visited census.gov, you know that sorting through the vast array of information about America’s people, places and economy can be daunting. Based on customer research and feedback we collected and analyzed over time, we heard loud and clear'
 authors:
   - lisa-wolfisch
-categories:
-  - API
-  - Content
-  - Managing Digital
-  - Mobile
-tag:
-  - API
+topics:
+  - api
+  - content
+  - product-management
+  - mobile
+  - api
   - Census
 ---
 

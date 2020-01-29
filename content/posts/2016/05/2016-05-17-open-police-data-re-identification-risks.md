@@ -5,16 +5,15 @@ title: Open Police Data Re-identification Risks
 summary: 'Last week I spoke at a White House event, &ldquo;Opportunities & Challenges: Open Police Data and Ensuring the Safety and Security of Victims of Intimate Partner Violence and Sexual Assault.&rdquo; This event brought together representatives from government agencies, police departments, and advocacy groups to discuss the potential safety and privacy impact of open police data'
 authors:
   - lorrie-cranor
-categories:
-  - Data
-tag:
+topics:
+  - data
   - data
   - Federal Trade Commission
   - FTC
   - 'National Telecommunications and Information Administration'
-  - open data
+  - open-data
   - security
-  - White House
+  - white-house
 ---
 
 Last week I spoke at a White House event, “Opportunities & Challenges: Open Police Data and Ensuring the Safety and Security of Victims of Intimate Partner Violence and Sexual Assault.” This event brought together representatives from government agencies, police departments, and advocacy groups to discuss the potential safety and privacy impact of open police data initiatives.

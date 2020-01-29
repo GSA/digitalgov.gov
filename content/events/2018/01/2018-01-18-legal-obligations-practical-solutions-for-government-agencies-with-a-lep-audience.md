@@ -15,6 +15,11 @@ registration_url: https://www.eventbrite.com/e/legal-obligations-practical-solut
 youtube_id: F3LM8LmysgU
 aliases:
   - /event/legal-obligations-practical-solutions-for-government-agencies-with-a-lep-audience/
+topics:
+  - multilingual
+  - lep
+  - multilingual-community
+
 ---
 
 In this online training, presenters from the Department of Justice (DOJ) will provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning. This session is designed to provide federal, state, and local government agencies with a primer on their legal obligations to limited English proficient (LEP) individuals under [Title VI of the Civil Rights Act of 1964](https://www.justice.gov/crt/fcs/TitleVI) and, if applicable, [Executive Order 13166](https://www.justice.gov/crt/executive-order-13166).

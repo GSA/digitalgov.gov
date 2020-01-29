@@ -6,14 +6,13 @@ summary: 'This year, innovative technologies like 3D printing are playing a role
 authors:
   - stephanie-santoso
   - ryan-xue
-categories:
-  - Challenges
-  - Monthly Theme
-tag:
-  - NASA
-  - National Institutes of Health
-  - NIH
-  - Smithsonian Institution
+topics:
+  - challenges
+  - monthly-theme
+  - nasa
+  - national-institutes-of-health
+  - nih
+  - smithsonian-institution
 ---
 
 This year, innovative technologies like 3D printing are playing a role in creating a unique and interactive holiday experience at the White House.
@@ -32,23 +31,23 @@ The 3D printing allows individuals to quickly, easily and inexpensively prototyp
 
 The following ornament designs were 3D printed and are currently on display in the White House. These designs will be featured in the Smithsonian’s state-of-the-art [3D data platform](http://3d.si.edu/), and will join the small collection of White House ornaments in the Political History division of the Smithsonian’s National Museum of American History.
 
-&#8220;Winter Snowflakes&#8221; {{< legacy-img src="2014/12/430-x-344-winter\_snowflakes\_er-Gil-Rivera-Montclair-NJ.jpg" alt="Winter Snowflakes ornament created by Gil Rivera of Montclair, NJ" caption="" >}} 
+&#8220;Winter Snowflakes&#8221; {{< legacy-img src="2014/12/430-x-344-winter\_snowflakes\_er-Gil-Rivera-Montclair-NJ.jpg" alt="Winter Snowflakes ornament created by Gil Rivera of Montclair, NJ" caption="" >}}
 
 This intricately designed ornament of interlocking snowflakes evokes the beauty that comes with frosty winters.
 
-&#8220;Library of Congress&#8221; {{< legacy-img src="2014/12/430-x-344-library\_of\_congress_library-Vicky-Somma-Occoquan-VA.jpg" alt="Library of Congress ornament created by Vicky Somma of Occoquan, VA" caption="" >}} 
+&#8220;Library of Congress&#8221; {{< legacy-img src="2014/12/430-x-344-library\_of\_congress_library-Vicky-Somma-Occoquan-VA.jpg" alt="Library of Congress ornament created by Vicky Somma of Occoquan, VA" caption="" >}}
 
 The design for Vicky&#8217;s entry was inspired by one of her family&#8217;s favorite destinations in Washington, D.C. &#8212; the Reading Room in the Library of Congress&#8217; Jefferson Building.
 
-&#8220;Star of Bliss&#8221; {{< legacy-img src="2014/12/430-x-344-star\_of\_bliss_gf-Roy-Eid-Houston-TX.jpg" alt="Star of Bliss ornament created by Roy Eid of Houston, TX" caption="" >}} 
+&#8220;Star of Bliss&#8221; {{< legacy-img src="2014/12/430-x-344-star\_of\_bliss_gf-Roy-Eid-Houston-TX.jpg" alt="Star of Bliss ornament created by Roy Eid of Houston, TX" caption="" >}}
 
 Much like the way this ornament was created, through the mirroring and patterning of a simple line, the Star of Bliss signifies how a small act of kindness can transform and spread to create a wonderful, positive outcome.
 
-&#8220;Presidents of Christmas Past and Present&#8221; {{< legacy-img src="2014/12/430-x-344-presidents\_of\_christmas\_past\_and\_present\_sdr-Antar-Gamble-Hall-New-York-NY.jpg" alt="Presidents of Christmas Past and Present ornament created by Antar Gamble Hall of New York, NY" caption="" >}} 
+&#8220;Presidents of Christmas Past and Present&#8221; {{< legacy-img src="2014/12/430-x-344-presidents\_of\_christmas\_past\_and\_present\_sdr-Antar-Gamble-Hall-New-York-NY.jpg" alt="Presidents of Christmas Past and Present ornament created by Antar Gamble Hall of New York, NY" caption="" >}}
 
 The 44 stars featured around the ornament pay homage to the 44 presidents which have led this great nation.
 
-&#8220;Winter Wonderland of Innovation&#8221; {{< legacy-img src="2014/12/430-x-344-winter\_wonderland\_of\_innovation\_rr-David-Moore-and-Brandy-Badami-Livonia-MI.jpg" alt="Winter Wonderland of Innovation ornament created by David Moore and Brandy Badami of Livonia, MI" caption="" >}} 
+&#8220;Winter Wonderland of Innovation&#8221; {{< legacy-img src="2014/12/430-x-344-winter\_wonderland\_of\_innovation\_rr-David-Moore-and-Brandy-Badami-Livonia-MI.jpg" alt="Winter Wonderland of Innovation ornament created by David Moore and Brandy Badami of Livonia, MI" caption="" >}}
 
 Surrounding the White House in this ornament, are simple aspects of the holidays including a fully decorated tree, an imaginary sleigh that can take the First Family on evening strolls, a snowman and a sled.
 

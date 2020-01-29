@@ -6,11 +6,10 @@ summary: '[metaslider id=274602] Digital innovators from across government were 
 authors:
   - awichman
   - coqui-aspiazu
-categories:
-  - Managing Digital
-  - Our Work
-tag:
-  - DigitalGov Summit
+topics:
+  - product-management
+  - our-work
+  - digitalgov-summit
 ---
 
 [metaslider id=274602]
@@ -59,7 +58,7 @@ She also said that young people have found ways to serve their country through t
 
 
 
-Dr. David Bray, Chief Information Officer for the Federal Communications Commission and Eisenhower Fellow, discussed the [Internet of Everything]({{< link "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}).
+Dr. David Bray, Chief Information Officer for the Federal Communications Commission and Eisenhower Fellow, discussed the [Internet of Everything]({{< ref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}).
 
 <blockquote class="twitter-tweet" data-width="500">
   <p lang="en" dir="ltr">

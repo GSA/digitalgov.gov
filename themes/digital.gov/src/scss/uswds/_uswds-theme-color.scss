@@ -7,7 +7,7 @@
 ========================================
 ========================================
 ----------------------------------------
-USWDS 2.0.3
+USWDS 2.3.1
 ----------------------------------------
 COLOR SETTINGS
 ----------------------------------------
@@ -24,26 +24,26 @@ Theme palette colors
 */
 
 // Base colors
-$theme-color-base-family:           'gray-cool';
-$theme-color-base-lightest:         'gray-5';
-$theme-color-base-lighter:          'gray-cool-10';
-$theme-color-base-light:            'gray-cool-30';
-$theme-color-base:                  'gray-cool-50';
-$theme-color-base-dark:             'gray-cool-60';
-$theme-color-base-darker:           'gray-cool-70';
+$theme-color-base-family:           'gray-warm';
+$theme-color-base-lightest:         'gray-warm-5';
+$theme-color-base-lighter:          'gray-warm-10';
+$theme-color-base-light:            'gray-warm-30';
+$theme-color-base:                  'gray-warm-50';
+$theme-color-base-dark:             'gray-warm-60';
+$theme-color-base-darker:           'gray-warm-70';
 $theme-color-base-darkest:          'gray-90';
 $theme-color-base-ink:              'gray-90';
 
 // Primary colors
-$theme-color-primary-family:        'mint-cool';
-$theme-color-primary-lightest:      false;
-$theme-color-primary-lighter:       'mint-cool-10';
-$theme-color-primary-light:         'mint-cool-30';
-$theme-color-primary:               'mint-cool-60';
-$theme-color-primary-vivid:         'mint-cool-60';
-$theme-color-primary-dark:          'mint-cool-70';
-$theme-color-primary-darker:        'mint-cool-80';
-$theme-color-primary-darkest:       'mint-cool-90';
+$theme-color-primary-family:        'blue';
+$theme-color-primary-lightest:      'blue-5';
+$theme-color-primary-lighter:       'blue-10';
+$theme-color-primary-light:         'blue-30v';
+$theme-color-primary:               'blue-warm-50v';
+$theme-color-primary-vivid:         'blue-warm-60v';
+$theme-color-primary-dark:          'blue-warm-70';
+$theme-color-primary-darker:        'blue-warm-80';
+$theme-color-primary-darkest:       'blue-warm-90';
 
 // Secondary colors
 $theme-color-secondary-family:      'red';
@@ -60,8 +60,8 @@ $theme-color-secondary-darkest:     false;
 $theme-color-accent-warm-family:    'orange';
 $theme-color-accent-warm-lightest:  'gold-5v';
 $theme-color-accent-warm-lighter:   'gold-10v';
-$theme-color-accent-warm-light:     'orange-20v';
-$theme-color-accent-warm:           'orange-30v';
+$theme-color-accent-warm-light:     'orange-warm-20v';
+$theme-color-accent-warm:           'orange-warm-30v';
 $theme-color-accent-warm-dark:      'orange-50v';
 $theme-color-accent-warm-darker:    'orange-60';
 $theme-color-accent-warm-darkest:   false;
@@ -127,7 +127,7 @@ General colors
 */
 
 // Links
-$theme-link-color:             'primary';
-$theme-link-visited-color:     'violet-70v';
-$theme-link-hover-color:       'primary-dark';
+$theme-link-color:             'blue-warm-60v';
+$theme-link-visited-color:     'indigo-warm-60v';
+$theme-link-hover-color:       'blue-warm-70v';
 $theme-link-active-color:      'primary-darker';

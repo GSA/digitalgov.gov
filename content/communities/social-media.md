@@ -1,9 +1,33 @@
 ---
-url: /communities/social-media/
-uid: social-media
-date: 2013-11-21 3:32:54 -0400
-title: 'Social Media Community of Practice'
-summary: 'The Federal SocialGov Community unites over 1,200 digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs.'
+# View this page at https://digital.gov/communities/social-media
+# Learn how to edit our pages at https://workflow.digital.gov
+
+slug: social-media
+date: 2019-12-12 19:00:00 -0500
+title: "Social Media"
+deck: ""
+summary: "We are dedicated to improving the creation, adoption and evaluation of digital engagement programs and emerging social technologies and strategies for public services."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - social-media
+  - social-media-metrics
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
+community_list:
+  - platform: listserv
+    type: government
+    subscribe_email: "SM-COP-subscribe-request@listserv.gsa.gov"
+    subscribe_email_subject: "Join #SocialGov"
+    members: 953
+    emails_per_week: 5
+
+
+# Make it better ♥
 
 ---
 

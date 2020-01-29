@@ -5,13 +5,12 @@ title: 'The API Briefing: Keeping an Eye on Crime with the National Crime Victim
 summary: 'Every year, the Bureau of Justice Statistics surveys nearly 80,000 households and over 143,000 individuals about crime victimization. What is unique about this survey is that both reported and unreported crimes data is collected. The survey has a well-documented API which offers data in the CSV, XML, and JSON formats. Let’s examine the documentation to'
 authors:
   - bbrantley
-categories:
-  - API
-tag:
+topics:
+  - api
   - Bureau of Justice Statistics
   - US Department of Agriculture
   - USDA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/11/600-x-400-Crime-scene-no-fake-blood-splatter-Merydolla-iStock-Thinkstock-503890771.jpg" alt="Crime scene concept art: the word crime in white lettering and red, white, and blue police lights are displayed on asphalt" caption="" >}} 
@@ -22,7 +21,7 @@ The National Crime Victimization Survey (NCVS) API is split into “personal vic
 
 Obtaining the information is easy. The documentation provides sample <a href="http://www.bjs.gov/developer/ncvs/developers.cfm" target="_blank">API endpoints</a> that helps the developer create a URL (uniform resource locator) to return data in a specific format. For example, if a developer would like all personal victimization data for 2010 as a JSON file, he or she would use the following URL: <http://www.bjs.gov:8080/bjs/ncvs/v2/personal/2010?format=json> (Caution: link will download a large file). Other URL calls could return data by population or the count of household incidents by year.
 
-The NCVS API is an excellent data source for beginning developers to learn how to request and parse data for apps. Developers can use the most popular scripting languages to acquire the data and format it in a data table, charts, and interactive displays. The documentation is comprehensive and clearly defines the data fields. The only suggestion I&#8217;d have is to make it possible to include location information so that app developers could also experiment with mapping the data._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< link "2013-04-30-apis-in-government.md" >}}) _for more information._
+The NCVS API is an excellent data source for beginning developers to learn how to request and parse data for apps. Developers can use the most popular scripting languages to acquire the data and format it in a data table, charts, and interactive displays. The documentation is comprehensive and clearly defines the data fields. The only suggestion I&#8217;d have is to make it possible to include location information so that app developers could also experiment with mapping the data._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< ref "2013-04-30-apis-in-government.md" >}}) _for more information._
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:Bill.Brantley@wdc.usda.gov)_._
 
 **_Dr. William A. Brantley_** _is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_. All opinions are his own and do not reflect the opinions of the USDA or GSA._

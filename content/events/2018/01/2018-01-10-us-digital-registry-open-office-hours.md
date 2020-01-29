@@ -14,6 +14,11 @@ host:
 registration_url: https://www.eventbrite.com/e/us-digital-registry-open-office-hours-registration-41509177066
 aliases:
   - /event/us-digital-registry-open-office-hours/
+topics:
+  - mobile
+  - social-media
+  - us-digital-registry
+
 ---
 
 On the second Wednesday of every month, from 10:00 - 10:30 am, ET, the U.S Digital Registry team hosts monthly, open-office time to answer questions, discuss ideas, and take feedback about the U.S. Digital Registry.

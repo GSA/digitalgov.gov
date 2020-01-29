@@ -5,19 +5,18 @@ title: The New FedRAMP.gov Is Here
 summary: ' On Wednesday, March 11, FedRAMP unveiled a redesigned FedRAMP.gov. The new site focuses on user experience that fosters a better understanding of FedRAMP from basic knowledge, to in-depth program requirements and includes the launch of a'
 authors:
   - matt-goodrich
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - cloud
-  - DAP
-  - Digital Analytics Program
-  - FedRAMP
-  - GSA
-  - responsive web design
-  - Sites
-  - Thursday Mobile Products
-  - user experience
-  - UX
+  - dap
+  - digital-analytics-program
+  - fedramp
+  - gsa
+  - responsive-web-design
+  - sites
+  - thursday-mobile-products
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-300-screencap-of-new-FedRAMP-website-homepage-March-12th-2015.jpg" alt="A screencapture of the top part of the new FedRAMP website homepage, March 12, 2015" >}}
@@ -36,11 +35,11 @@ The FedRAMP team addressed these objectives and many others developing the websi
 
 The new FedRAMP.gov worked with each of the following services without incurring any costs to the program:
 
-  * User Experience Program: FedRAMP used the DigitalGov [User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}}) (formerly First Fridays) to better understand what the needs of our stakeholders are, what they needed from the website, and how to ensure our users have a successful experience on FedRAMP.gov.
+  * User Experience Program: FedRAMP used the DigitalGov [User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}}) (formerly First Fridays) to better understand what the needs of our stakeholders are, what they needed from the website, and how to ensure our users have a successful experience on FedRAMP.gov.
   * Sites.USA.gov: The new FedRAMP.gov uses [Sites.USA.gov](https://sites.usa.gov/), a DigitalGov no-cost, government-wide content management platform offered by the GSA’s Office of Citizen Services and Innovative Technologies (OCSIT). This allowed FedRAMP to create a WordPress website with no development costs.
   * Cloud Hosting: FedRAMP is all about cloud adoption and FedRAMP.gov is hosted in FedRAMP compliant clouds through CGI Federal and Akamai.
   * Mobile: The WordPress platfom for FedRAMP.gov is mobile friendly and allows users to access information through any device, anywhere with the same experience.
-  * Analytics: FedRAMP.gov is monitored by the [Digital Analytics Program]({{< link "/dap/" >}}) (DAP) giving insight to performanceand user experience on the website.
+  * Analytics: FedRAMP.gov is monitored by the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) giving insight to performanceand user experience on the website.
 
 To coincide with the launch of the new FedRAMP.gov, FedRAMP is formally launching its online training program. This first training module available focuses on FedRAMP processes. This will help users gain an understanding of the program and the level of effort required to comply with its requirements. The newly created “Resources” tab includes a training section where users can find an on-demand introductory training course. This training module is the first of many that FedRAMP will be releasing in creating a robust, FREE training program for all FedRAMP stakeholders.
 

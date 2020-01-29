@@ -5,11 +5,10 @@ title: What is a Civic Hacker?
 summary: 'The National Day of Civic Hacking is bringing together thousands of civic hackers on June 1st and 2nd. But what is a civic hacker, anyway? &#8220;Civic hackers&#8221; as we think about it for the National Day of Civic Hacking are technologists, civil servants, designers, entrepreneurs, engineers &#8211;'
 authors:
   - lnelson
-categories:
-  - Code
-  - Managing Digital
-tag:
-  - National Day of Civic Hacking
+topics:
+  - code
+  - product-management
+  - national-day-of-civic-hacking
 ---
 
 <p dir="ltr">

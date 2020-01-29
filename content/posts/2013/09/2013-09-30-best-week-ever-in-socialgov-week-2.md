@@ -5,13 +5,12 @@ title: 'Best Week Ever in #SocialGov: 2'
 summary: '(This is the second installment of an ongoing series charting the programs, events and people that make the emerging field of social media and data in government From where I sit, I think we just had a great week in #socialgov. From a sold-out international forum that demonstrated how we can use free tools to'
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - accessibility
   - FAFSA
-  - NASA
-  - SocialGov
+  - nasa
+  - socialgov
 ---
 
 {{< legacy-img src="2014/06/600-x-430-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and live-streamed guests from Australia, Ireland and Canada." caption="" >}} 

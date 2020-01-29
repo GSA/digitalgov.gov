@@ -5,23 +5,22 @@ title: NASA Reaches New Frontiers in 3D Printing
 summary: '3D printing has gone out of this world. Earlier this month, DigitalGov covered the NIH 3D Print Exchange, where 3D printing is supporting scientific learning and research. Today, we’re highlighting a project that is reaching brand new heights: NASA’s In-space Manufacturing Initiative. Self-Sufficiency in Space NASA is currently conducting 3D printing experiments aboard the International'
 authors:
   - awichman
-categories:
-  - Code
-  - Monthly Theme
-tag:
-  - challenges and prize competitions
-  - NASA
-  - National Institutes of Health
-  - NIH
+topics:
+  - code
+  - monthly-theme
+  - challenges-and-prize-competitions
+  - nasa
+  - national-institutes-of-health
+  - nih
   - SBIR
-  - Small Business Innovation Research
+  - small-business-innovation-research
 ---
 
-{{< legacy-img src="2015/01/600-x-439-3D-Printer-in-Action-isolated-on-white-silavsale-iStock-Thinkstock-504486619.jpg" alt="3D Printer in Action isolated on white" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-439-3D-Printer-in-Action-isolated-on-white-silavsale-iStock-Thinkstock-504486619.jpg" alt="3D Printer in Action isolated on white" caption="" >}}
 
 3D printing has gone out of this world.
 
-Earlier this month, DigitalGov covered the [NIH 3D Print Exchange]({{< link "2015-01-15-the-future-will-be-printed-in-3d.md" >}}), where 3D printing is supporting scientific learning and research. Today, we’re highlighting a project that is reaching brand new heights: NASA’s In-space Manufacturing Initiative.
+Earlier this month, DigitalGov covered the [NIH 3D Print Exchange]({{< ref "2015-01-15-the-future-will-be-printed-in-3d.md" >}}), where 3D printing is supporting scientific learning and research. Today, we’re highlighting a project that is reaching brand new heights: NASA’s In-space Manufacturing Initiative.
 
 ## Self-Sufficiency in Space
 

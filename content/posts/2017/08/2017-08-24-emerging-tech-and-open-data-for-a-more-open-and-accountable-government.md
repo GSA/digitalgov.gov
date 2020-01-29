@@ -5,18 +5,17 @@ title: Emerging Tech and Open Data for a More Open and Accountable Government
 summary: 'Open data and emerging technologies&mdash;including artificial intelligence and distributed ledgers, such as blockchain&mdash;hold vast potential to transform public services held back by bureaucracy and outdated IT systems. We are opening the doors to bold, fresh ideas for government accountability, transparency and citizen participation by working with U.S. businesses, civil society groups and others to shape'
 authors:
   - jherman
-categories:
+topics:
   - data
   - emerging-tech
   - our-work
-tag:
-  - AI
+  - ai
   - artificial intelligence
-  - Artificial Intelligence for Citizen Services Community
+  - artificial-intelligence-for-citizen-services-community
   - innovation
   - open
-  - open data
-  - open government
+  - open-data
+  - open-government
 ---
 
 Open data and emerging technologies—including artificial intelligence and distributed ledgers, such as blockchain—hold vast potential to transform public services held back by bureaucracy and outdated IT systems. We are opening the doors to bold, fresh ideas for government accountability, transparency and citizen participation by working with U.S. businesses, civil society groups and others to shape national goals for emerging technologies and open data in public services.

@@ -6,17 +6,16 @@ summary: 'Summary: The White House is hosting its first-ever Electric Vehicle Da
 authors:
   - austin-brown
   - candace-vahlsing
-categories:
-  - Data
-tag:
+topics:
+  - data
   - data
   - DOE
   - innovation
-  - open data
+  - open-data
   - OSTP
-  - United States Department of Energy
-  - White House
-  - White House Office of Science and Technology Policy
+  - united-states-department-of-energy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 > _Summary: The White House is hosting its first-ever Electric Vehicle Datathon, and nominations for participation are now open. Don&#8217;t miss your chance to join the discussion!_

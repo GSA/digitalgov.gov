@@ -5,23 +5,22 @@ title: 'The Data Briefing: An Interview with USAJOBS on New Changes to Their Dat
 summary: The Office of Personnel Management released a new look and functionality to USAJOBS in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the changes to USAJOBS and the data it provides. 1. What are
 authors:
   - bbrantley
-categories:
-  - Data
-  - Monthly Theme
-tag:
-  - agile
-  - API
+topics:
   - data
-  - data visualization
+  - monthly-theme
+  - agile
+  - api
+  - data
+  - data-visualization
   - OPM
-  - responsive web design
-  - The Data Briefing
-  - United States Office of Personnel Management
+  - responsive-web-design
+  - the-data-briefing
+  - united-states-office-of-personnel-management
   - United States Patent and Trademark Office
-  - user centered design
-  - user experience
+  - user-centered-design
+  - user-experience
   - USPTO
-  - UX
+  - ux
 ---
 
 The Office of Personnel Management released a new look and functionality to [USAJOBS](https://www.usajobs.gov/) in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the [changes to USAJOBS](https://www.usajobs.gov/ResourceCenter/SpotlightDetails/?contentID=1137) and the data it provides.
@@ -68,5 +67,5 @@ It is USAJOBS’ ambition to serve as the connector to match job seekers with th
 
 USAJOBS is probably one of the most used and visited sites of the federal government. What I find especially interesting is how the USAJOBS team used human-centered design to not only improve the look and functionality of the site, but also the way data is delivered through APIs and data visualizations. Thanks to Michelle Earley and the USAJOBS team for great work and for sharing their vision of the new USAJOBS.
 
-_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

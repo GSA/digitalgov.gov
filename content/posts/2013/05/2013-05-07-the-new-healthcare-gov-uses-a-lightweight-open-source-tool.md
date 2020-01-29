@@ -5,14 +5,13 @@ title: The New Healthcare.gov Uses a Lightweight Open Source Tool
 summary: ' Last week, we told you about the upcoming relaunch of Healthcare.gov and its use of the Jekyll website generator. Jekyll allows users to build dynamic websites served by static pages. To help manage large websites using Jekyll, developers working on the new healthcare.gov published the &lsquo;Prose.io’  editing interface'
 authors:
   - anthony-calabrese
-categories:
-  - Code
-tag:
-  - content strategy
+topics:
+  - code
+  - content-strategy
   - HHS
-  - open data
-  - open source
-  - United States Department of Health and Human Services
+  - open-data
+  - open-source
+  - united-states-department-of-health-and-human-services
 ---
 
 [{{< legacy-img src="2013/05/healthcare.gov-3-350x152.jpg" alt="HealthCare.gov screenshot from May 2013" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/05/healthcare.gov-3-350x152.jpg)

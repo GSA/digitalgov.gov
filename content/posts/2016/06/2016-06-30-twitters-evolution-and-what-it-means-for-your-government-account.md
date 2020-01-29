@@ -6,13 +6,12 @@ summary: 'Twitter has come a long way.  In ten years of evolution, we’ve seen 
 authors:
   - leah-stewart
   - ray-drake
-categories:
-  - Managing Digital
-  - Social Media
-tag:
-  - social media
+topics:
+  - product-management
+  - social-media
+  - social-media
   - US Citizenship and Immigration Service
-  - US Immigration and Customs Enforcement
+  - us-immigration-and-customs-enforcement
   - USCIS
 ---
 

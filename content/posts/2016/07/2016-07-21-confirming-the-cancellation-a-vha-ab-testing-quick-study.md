@@ -5,25 +5,24 @@ title: 'Confirming the Cancellation: A VHA A/B Testing Quick Study'
 summary: 'Summary: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, Veterans Health Administration (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear'
 authors:
   - abigail-noonan
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - a-b-testing
   - quick study
   - research
-  - US Department of Veterans Affairs
-  - usability case study
-  - usability testing
-  - user centered design
-  - user experience
-  - User Experience Community of Practice
-  - UX
-  - Veterans Health Administration
+  - us-department-of-veterans-affairs
+  - usability-case-study
+  - usability-testing
+  - user-centered-design
+  - user-experience
+  - user-experience-community-of-practice
+  - ux
+  - veterans-health-administration
   - VHA
 ---
 
-> **Summary**: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, [Veterans Health Administration](http://www.va.gov/health/) (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear button labeling that might easily confuse or slow down clinicians who encountered it, and created inconsistent messaging across the application. HFE performed a Quick Study, drawing from the suggestions of clinicians and the [User Experience Community of Practice]({{< link "user-experience.md" >}}) (UX-COP, an email listserv) to develop six mockups for an A/B comparison. The assessment concluded that clinicians preferred and performed best with button labels that clearly referred to the requested function and used verbs with opposing values to illustrate their options.
+> **Summary**: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, [Veterans Health Administration](http://www.va.gov/health/) (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear button labeling that might easily confuse or slow down clinicians who encountered it, and created inconsistent messaging across the application. HFE performed a Quick Study, drawing from the suggestions of clinicians and the [User Experience Community of Practice]({{< ref "user-experience.md" >}}) (UX-COP, an email listserv) to develop six mockups for an A/B comparison. The assessment concluded that clinicians preferred and performed best with button labels that clearly referred to the requested function and used verbs with opposing values to illustrate their options.
 
 ## Introduction
 

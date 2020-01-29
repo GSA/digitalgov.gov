@@ -5,12 +5,12 @@ title: 'Key to Successful Prize Competitions: Define Your Problem Statement'
 summary: 'In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue. To create a challenge that produces viable results, start by doing your own homework. Vaguely defined problems invite less-than-desirable solutions or scare'
 authors:
   - tlowden
-categories:
-  - Challenges
-  - strategy-and-policy
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
+topics:
+  - challenges
+  - strategy
+  - policy
+  - challenge-gov
+  - challenges-and-prize-competitions
 ---
 
 [{{< legacy-img src="2013/11/apples\_and\_oranges-450x300.jpg" alt="An apple placed between oranges" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/apples_and_oranges.jpg)In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue.
@@ -31,4 +31,4 @@ Company X is the sole orange juice manufacturer in a valley located in a state n
 
 By the time Company X arrived at the third statement, it would have had to invest time to do research with different stakeholders to really define the problem. But it&#8217;s easy to see how the company will get better results when the issue has been properly identified. And as this example shows, you may have to iterate your problem statement multiple times before you arrive at one that is concrete enough to attract the best solutions.
 
-If you need help thinking through your problem statement and designing your challenge, get in touch with us at one of our weekly office hours or at <challenges@gsa.gov>. For more information, visit the [Challenge.gov page]({{< link "challenge-gov.md" >}} "Challenge.gov").
+If you need help thinking through your problem statement and designing your challenge, get in touch with us at one of our weekly office hours or at <challenges@gsa.gov>. For more information, visit the [Challenge.gov page]({{< ref "service_challengegov.md" >}} "Challenge.gov").

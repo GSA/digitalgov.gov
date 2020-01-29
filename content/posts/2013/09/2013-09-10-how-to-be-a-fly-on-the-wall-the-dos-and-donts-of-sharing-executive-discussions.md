@@ -5,10 +5,10 @@ title: 'How to Be a Fly on the Wall: The Dos and Don&#8217;ts of Sharing Executi
 summary: 'A sure way to drive employees crazy is to never share what executives discuss or decide until a new mandate lands on the organization’s collective head. While senior leaders should expect some privacy in decision-making and debate, they should also expect to openly hold themselves accountable and to make sure their employees know where the'
 authors:
   - david-hebert
-categories:
-  - Content
-  - Managing Digital
-  - Social Media
+topics:
+  - content
+  - product-management
+  - social-media
 ---
 
 A sure way to drive employees crazy is to never share what executives discuss or decide until a new mandate lands on the organization’s collective head. While senior leaders should expect some privacy in decision-making and debate, they should also expect to openly hold themselves accountable and to make sure their employees know where the organization is headed.

@@ -5,15 +5,14 @@ title: Promoting Women’s Health Through Dynamic Multilingual Content
 summary: Sonia stands at the pharmacy counter, flashing her most brilliant smile. Jorge, the handsome neighborhood pharmacist, dispenses his own easy smile as they chat. Sound like an ordinary soap opera? This telenovela is actually a tool to help Spanish-speaking women make smart medication decisions. The four
 authors:
   - awichman
-categories:
-  - Content
-  - Social Media
-  - Video
-tag:
-  - FDA
+topics:
+  - content
+  - social-media
+  - video
+  - fda
   - multilingual
   - multilingual-community
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2014/12/600-x-336-Nunca-Mas-Lourdes-y-Sonia.jpg" alt="Lourdes and Sonia, at the pharmacy." >}}Sonia stands at the pharmacy counter, flashing her most brilliant smile. Jorge, the handsome neighborhood pharmacist, dispenses his own easy smile as they chat. Sound like an ordinary soap opera? This telenovela is actually a tool to help Spanish-speaking women make smart medication decisions.
@@ -34,4 +33,4 @@ Lemon said that although English and Spanish are their priority languages, the O
 
 ## Ready to create dynamic multilingual content at your own agency?
 
-Be sure to review the [multilingual digital content]({{< link "2014-07-01-multilingual-digital-content.md" >}}) resources that have been developed by the [Multilingual Community of Practice]({{< link "multilingual.md" >}}), as well as the [Sample Video Editorial and Accessiblity Guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012).
+Be sure to review the [multilingual digital content]({{< ref "2014-07-01-multilingual-digital-content.md" >}}) resources that have been developed by the [Multilingual Community of Practice]({{< ref "multilingual.md" >}}), as well as the [Sample Video Editorial and Accessiblity Guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012).

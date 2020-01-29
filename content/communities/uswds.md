@@ -1,11 +1,42 @@
 ---
-url: /communities/uswds/
-uid: uswds
-title: 'U.S. Web Design System Community of Practice'
-summary: 'A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project.'
-featured_image:
-  uid: uswds-2-illio-built-to-grow-alt
-  alt: ''
+# View this page at https://digital.gov/communities/uswds
+# Learn how to edit our pages at https://workflow.digital.gov
+
+slug: uswds
+date: 2019-12-12 19:00:00 -0500
+title: "U.S. Web Design System"
+deck: "Making it easier to build accessible, mobile-friendly government websites for the public."
+summary: "A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - accessibility
+  - code
+  - design
+  - product-management
+  - user-experience
+  - open-source
+  - uswds
+
+# see all authors at https://digital.gov/authors
+authors:
+  - dan-williams
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
+community_list:
+  - platform: slack
+    type: public
+    subscribe_email: uswds@support.digitalgov.gov
+    subscribe_email_subject: "Join USWDS Slack"
+    subscribe_form: https://chat.18f.gov/
+    members: 114
+    emails_per_week:
+
+# Make it better ♥
 
 ---
 
@@ -32,6 +63,6 @@ We support the U.S. Web Design System’s efforts to make it easier to build acc
 - [USWDS on GitHub](https://github.com/uswds/uswds/) 
 - [Join the USWDS Slack](https://chat.18f.gov/) 
 - [Follow @USWDS on Twitter](https://twitter.com/uswds?lang=en)
-- [Email the USWDS team](mailto:uswds@gsa.gov)
+- [Email the USWDS team](mailto:uswds@support.digitalgov.gov)
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}

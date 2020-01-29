@@ -1,0 +1,15 @@
+{{/* Listserv Platforms without form sign-up option */}}
+
+<a href="mailto:{{- .e.subscribe_email -}}
+{{- if .e.subscribe_email_subject -}}
+  ?subject={{- .e.subscribe_email_subject -}}
+  {{- if .e.subscribe_email_body -}}
+    &body={{- .e.subscribe_email_body -}}
+  {{- end -}}
+{{- else -}}
+  {{- if .e.subscribe_email_body -}}
+    ?body={{- .e.subscribe_email_body -}}
+  {{- end -}}
+{{- end -}}" class="join type-{{- .e.platform -}}"><i class="fas fa-envelope"></i> Join by email</a>
+
+<p>To join, email <strong>{{ .e.subscribe_email }}</strong> with {{ if .e.subscribe_email_subject }} <code>{{ .e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if .e.subscribe_email_body }} and <code>{{ .e.subscribe_email_body }}</code> in the body{{- end -}}.</p>

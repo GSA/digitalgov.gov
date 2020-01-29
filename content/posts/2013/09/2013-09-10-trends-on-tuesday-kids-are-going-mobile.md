@@ -5,16 +5,15 @@ title: 'Trends on Tuesday: Kids are Going Mobile'
 summary: 'From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds&mdash;particularly our smartphones and tablets. The early adoption of mobile is growing each year as evidenced by this infographic from EveryDayFamily.com. 30 percent of 2- to'
 authors:
   - lisa-wilcox
-categories:
-  - Mobile
-tag:
-  - CDC
+topics:
+  - mobile
+  - cdc
   - gamification
   - mobile
   - mobile-first
-  - National Gallery of Art
-  - Smithsonian Institution
-  - Trends on Tuesday
+  - national-gallery-of-art
+  - smithsonian-institution
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024-212x300.jpg" alt="Infographic about children's adoption of mobile technology." >}} From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds—particularly our smartphones and tablets.
@@ -34,6 +33,6 @@ Smartphones and tablets are very easy to use, as children have learned early how
 >   * 28% are Art & Music
 >   * 19% are Character Based
 
-There are examples of mobile targeting children’s games like [CDC’s Solve the Outbreak](http://www.cdc.gov/mobile/Applications/sto/), the [Smithsonian’s Meanderthal](http://humanorigins.si.edu/resources/multimedia/mobile-apps) and the [National Gallery of Art&#8217;s  Your Art](http://www.nga.gov/content/ngaweb/visit/tours-and-guides/mobile-app.html), which has a specific Kid’s Tour section. As government thinks [mobile first](https://digitalgov.sites.usa.gov/2013/09/30/mobile-first/ "Mobile First"), these agencies remember that mobile is a channel for children of all ages.
+There are examples of mobile targeting children’s games like [CDC’s Solve the Outbreak](http://www.cdc.gov/mobile/Applications/sto/), the [Smithsonian’s Meanderthal](http://humanorigins.si.edu/resources/multimedia/mobile-apps) and the [National Gallery of Art&#8217;s  Your Art](http://www.nga.gov/content/ngaweb/visit/tours-and-guides/mobile-app.html), which has a specific Kid’s Tour section. As government thinks [mobile first](https://digital.gov/2013/09/30/mobile-first/ "Mobile First"), these agencies remember that mobile is a channel for children of all ages.
 
 _Lisa Wilcox, U.S. Department of Agriculture_

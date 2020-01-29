@@ -5,15 +5,14 @@ title: Making Prototypes with Tools You Already Have
 summary: ' They say that necessity is the mother of invention. For me, the necessity resulted from long product development cycles paired with short windows for user testing and little room for iteration. The &ldquo;invention&rdquo; was the discovery of a powerful set of tools for prototyping that are available on just about'
 authors:
   - brandon-kopp
-categories:
-  - Design
+topics:
+  - design
   - user-testing-and-research
-tag:
   - BLS
   - prototype
-  - US Bureau of Labor Statistics
-  - usability testing
-  - user experience
+  - us-bureau-of-labor-statistics
+  - usability-testing
+  - user-experience
 ---
 
 {{< legacy-img src="2014/12/600-x-300-DigitalGov-Graphic.jpg" alt="600-x-300-DigitalGov-Graphic" >}}
@@ -40,4 +39,4 @@ I have since used Office Developer Tools and VBA programming to build more proto
 Finally, if you’d like to see the Prototypes themselves, you can download the [Powerpoint File](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/Developer-Tool-Examples.pptm) (PPT, 141 KB, Dec. 2014).
 
 _**Brandon Kopp** is Research Psychologist at the Bureau of Labor Statistics (BLS)._
-_Editor’s Note: You can check out our previous articles on the importance of Prototyping, including how to make a [mobile paper prototype]({{< link "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}}) and how to do [design sketches]({{< link "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}})._
+_Editor’s Note: You can check out our previous articles on the importance of Prototyping, including how to make a [mobile paper prototype]({{< ref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}}) and how to do [design sketches]({{< ref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}})._

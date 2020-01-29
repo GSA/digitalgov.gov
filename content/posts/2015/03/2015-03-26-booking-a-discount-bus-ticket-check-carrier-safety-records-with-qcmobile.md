@@ -5,18 +5,17 @@ title: Booking a Discount Bus Ticket? Check Carrier Safety Records with QCMobile
 summary: 'The new app from the Department of Transportation’s Federal Motor Carrier Safety Administration called &ldquo;QCMobile&rdquo; empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&#8217;s mobile strategy, as they have also recently released the SaferRide app. QCMobile (QC stands'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DOT
   - mobile
-  - mobile apps
-  - Thursday Mobile Products
-  - United States Department of Transportation
-  - USA.gov Federal Mobile Apps Directory
+  - mobile-apps
+  - thursday-mobile-products
+  - united-states-department-of-transportation
+  - usa-gov-federal-mobile-apps-directory
 ---
 
-The new app from the Department of Transportation’s Federal Motor Carrier Safety Administration called “QCMobile” empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&#8217;s mobile strategy, as they have also recently released the [SaferRide app]({{< link "2015-01-22-saferride-app-could-save-your-life.md" >}}).
+The new app from the Department of Transportation’s Federal Motor Carrier Safety Administration called “QCMobile” empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&#8217;s mobile strategy, as they have also recently released the [SaferRide app]({{< ref "2015-01-22-saferride-app-could-save-your-life.md" >}}).
 
 {{< legacy-img src="2015/03/250-x-445-QCMobile-Android-app.jpg" alt="QCMobile Android app" >}}QCMobile (QC stands for “Query Central”) is a free download for anyone interested in reviewing the DOT registration and safety performance information of motor carriers.
 
@@ -35,4 +34,4 @@ No login is required to access safety performance information in the app. Just o
 
 QCMobile is available [via iTunes or the App Store for Apple devices](https://itunes.apple.com/us/app/qcmobile./id966285877?mt=8) and the [Google Play store for Android devices](https://play.google.com/store/apps/details?id=gov.fmcsa.qcmobile&hl=en).
 
-_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._
+_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._

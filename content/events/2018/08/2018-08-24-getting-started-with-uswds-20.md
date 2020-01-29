@@ -8,23 +8,22 @@ featured_image:
 event_type:
   - online
   - zoom
+topics:
+  - code
+  - design
+  - uswds
 date: 2018-08-24 13:00:00 -0500
 end_date: 2018-08-24 13:30:00 -0500
 event_organizer: digital.gov
 host: U.S. Web Design System
-youtube_id: yo5bsqixpNU
 registration_url: https://www.eventbrite.com/e/august-us-web-design-system-monthly-call-getting-started-with-uswds-20-tickets-47179708779
-categories:
+topics:
   - accessibility
   - code
   - design
-  - ux
-tag:
-  - accessibility
   - user-centered-design
   - user-experience
   - uswds
-  - us-web-design-standards
   - ux
 
 ---
@@ -32,8 +31,6 @@ tag:
 Join us for our next monthly call on **Friday, August 24, 2018 at 1:00 pm ET / 10:00 am PT** for our monthly conversation with fellow designers and developers across the government.
 
 This month, the U.S. Web Design System team will show you how to get started with USWDS 2.0: how to set up your project colors, fonts, and more.
-
-_NOTE: This event will be held over [Zoom](https://zoom.us/j/350777429). On the day of the event, [visit this link](https://zoom.us/j/350777429) to verify that you're set up with Zoom before the start of the event._
 
 **Coming in USWDS 2.0**
 

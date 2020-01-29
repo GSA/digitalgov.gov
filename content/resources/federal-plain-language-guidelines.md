@@ -1,8 +1,11 @@
 ---
-url: /resources/federal-plain-language-guidelines/
+slug: federal-plain-language-guidelines
 date: 2015-11-05 2:06:53 -0400
 title: Federal Plain Language Guidelines
 summary: 'The Plain Language Action and Information Network (PLAIN) put together these federal guidelines to help implement the Plain Language Act of 2010. View Plain Language Guidelines Related Resources: Plain Writing Act of 2010 Plain Writing Basics Plain Language Web Writing Tips See all DigitalGov Resources'
+topics:
+  - plain-language
+  - policy
 authors:
   - apiazza
 ---
@@ -14,9 +17,9 @@ The Plain Language Action and Information Network (PLAIN) put together these [fe
 ## Related Resources:
 
   * [Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf)
-  * [Plain Writing Basics]({{< link "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}})
-  * [Plain Language Web Writing Tips]({{< link "plain-language-web-writing-tips.md" >}})
+  * [Plain Writing Basics]({{< ref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}})
+  * [Plain Language Web Writing Tips]({{< ref "plain-language-web-writing-tips.md" >}})
 
 * * *
 
-See all [DigitalGov Resources]({{< link "/resources/" >}})
+See all [DigitalGov Resources]({{< ref "/resources" >}})

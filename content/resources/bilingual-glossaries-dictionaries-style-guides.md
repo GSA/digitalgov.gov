@@ -1,16 +1,38 @@
 ---
-url: /resources/bilingual-glossaries-dictionaries-style-guides/
-date: 2014-06-11 9:55:09 -0400
-title: 'Bilingual Glossaries, Dictionaries, and Style Guides'
-summary: 'Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government.'
-type: guide
-deck: 'Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.'
-authors:
+# View this page at https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides
+# Learn how to edit our pages at https://workflow.digital.gov
+
+slug: bilingual-glossaries-dictionaries-style-guides
+date: 2014-06-11 9:55:00 -0500
+title: "Bilingual Glossaries, Dictionaries, and Style Guides"
+deck: "Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent."
+summary: "Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government."
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - accessibility
+  - content
+  - multilingual
+  - plain-language
+  - multilingual-community
+
+# see all authors at https://digital.gov/authors
+authors: 
   - lgodfrey
   - lmartinez
-aliases:
-    - /resources/spanish-language-style-guide-and-glossaries/
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+weight: 2
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /resources/spanish-language-style-guide-and-glossaries/
+
+
+# Make it better ♥
 ---
 
 The bilingual glossaries, dictionaries, and Spanish language style guides available in this section are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in languages other than English.
@@ -28,11 +50,17 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 ## Government Bilingual Glossaries
 
+### General Terminology
+
+#### Social Security Administration (SSA)
+
+This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html)  offers information ranging from states and days of the weeks to health.
+
 ### Financial Terminology
 
 #### Consumer Financial Protection Bureau (CFPB)
 
-The Bureau updated the [Glossary of English-Spanish Financial Terms](https://s3.amazonaws.com/files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf) (505 kb, PDF, 76 pages) with additional terminology compiled from other agencies and entities. 
+The Bureau updated the [Glossary of English-Spanish Financial Terms](https://s3.amazonaws.com/files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf) (505 kb, PDF, 76 pages) with additional terminology compiled from other agencies and entities.
 
 [Glossary of English-Chinese Financial Terms](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf) (PDF, 1.5 MB, 71 pages)
 
@@ -60,14 +88,9 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 - The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers two PDF files to download:
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
    - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages). 
-
-
-
-### General Terminology
-
-#### Social Security Administration (SSA)
-
-This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html)  offers information ranging from states and days of the weeks to health.
+- [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish: 
+   - [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a) 
+   - [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a) 
 
 ### Environment
 
@@ -85,7 +108,7 @@ Below is a compilation of available resources from different education organizat
 
 - The [English-Spanish Glossary of Student Financial Aid and Postsecondary Education](https://www.nasfaa.org/uploads/documents/ektron/88fdd293-2f4e-4c63-996e-f4bb95192879/0787ae7a3bcd4d0e98888ea6e82a69344.pdf) (513 kb, PDF, 44 pages) is led by TG and the U.S. Department of Education in partnership with many other organizations.
 - The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870).
-- This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition.
+- This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition. 
 
 ## Dictionaries
 
@@ -100,7 +123,7 @@ The National Cancer Institute has a dictionary of cancer terms in English and Sp
 
 #### USAGov Bilingual Style Guide
 
-The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) is a practical guide on the best practices used to create bilingual digital content for [USAGov](https://www.usa.gov/) and [USAGov en Español](https://www.usa.gov/espanol/). 
+The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) is a practical guide on the best practices used to create bilingual digital content for [USAGov](https://www.usa.gov/) and [USAGov en Español](https://www.usa.gov/espanol/).
 
 #### The City and County of San Francisco
 

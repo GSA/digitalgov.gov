@@ -5,12 +5,11 @@ title: Storyboarding is Key to Successful Storytelling
 summary: Communication professionals pride themselves on coming up with big ideas and big messages. But moving a great idea from conceptualization to execution can be challenging, especially when you want to keep your budget in check. Storyboards can greatly assist in this process, a strategy I found to be critical to the success of a new
 authors:
   - katie-gorscak
-categories:
-  - Content
-  - Video
-tag:
+topics:
+  - content
+  - video
   - HHS
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 Communication professionals pride themselves on coming up with big ideas and big messages. But moving a great idea from conceptualization to execution can be challenging, especially when you want to keep your budget in check. Storyboards can greatly assist in this process, a strategy I found to be critical to the success of a [new animated video developed for StopBullying.gov](http://www.stopbullying.gov/videos/2014/03/labels-dont-define-you.html). StopBullying.gov provides information from various government agencies on what bullying is, what cyberbullying is, who is at risk, and how you can prevent and respond to bullying.

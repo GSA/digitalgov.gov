@@ -5,18 +5,17 @@ title: 'The API Briefing: Quick Guide to Using GitHub &#8211; FDA’s OpenFDA Re
 summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Research Project. At the heart of the project is the OpenFDA API, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the'
 authors:
   - bbrantley
-categories:
-  - API
-  - Code
-  - Content
-tag:
-  - FDA
+topics:
+  - api
+  - code
+  - content
+  - fda
   - GitHub
-  - open source
+  - open-source
   - OPM
-  - US Food and Drug Administration
-  - United States Office of Personnel Management
-  - Wednesday API Briefing
+  - us-food-and-drug-administration
+  - united-states-office-of-personnel-management
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/06/250-x-289-Open-Data-Open-Source-Open-community-openFDA.jpg" alt="250-x-289-Open-Data-Open-Source-Open-community-openFDA" >}}The Food and Drug Administration (FDA) just released the <a href="https://open.fda.gov/" target="_blank">OpenFDA Research Project</a>. At the heart of the project is the <a href="https://open.fda.gov/about/" target="_blank">OpenFDA API</a>, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the <a href="https://open.fda.gov/api/reference/" target="_blank">FDA’s API Basics</a> page to learn how to access OpenFDA including interactive sample queries. The FDA’s API documentation is a great example of how to create detailed guidance for developers.
@@ -33,9 +32,9 @@ Once you have the basics down, try this <a href="https://try.github.io/levels/1/
 
 Not as necessary but very helpful when working with GitHub is how to write “Markdown.” Markdown uses regular alphanumeric characters to create text documents that have some formatting and is the preferred authoring method for GitHub documentation. It is quite easy to learn as this <a href="http://markdowntutorial.com/" target="_blank">10-minute tutorial demonstrates</a>.
 
-You can also check out the community of [government technologists working in GitHub for Government](https://github.com/government/welcome); [best practices for using open source in government]({{< link "2013-11-06-github-for-government.md" >}} "Best Practices for Open Source in Government - Using GitHub"); and a recap of the [DigitalGov University webinar on GitHub]({{< link "2014-03-05-github-for-government-recap.md" >}} "GitHub for Government Recap") that will walk you through various scenarios, like pull requests and issue creation.
+You can also check out the community of [government technologists working in GitHub for Government](https://github.com/government/welcome); [best practices for using open source in government]({{< ref "2013-11-06-github-for-government.md" >}} "Best Practices for Open Source in Government - Using GitHub"); and a recap of the [DigitalGov University webinar on GitHub]({{< ref "2014-03-05-github-for-government-recap.md" >}} "GitHub for Government Recap") that will walk you through various scenarios, like pull requests and issue creation.
 
-<span style="color: #222222">Agency Developers looking to jump-start their efforts can also find source code for native and web projects in the <a title="Federal Mobile Code Sharing Catalog Is Here" href="{{< link "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}}">Mobile Code Sharing Catalog</a>, which contains code from a variety of sources: federal agencies, other governments, and third-parties in the private sector .</span>
+<span style="color: #222222">Agency Developers looking to jump-start their efforts can also find source code for native and web projects in the <a title="Federal Mobile Code Sharing Catalog Is Here" href="{{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}}">Mobile Code Sharing Catalog</a>, which contains code from a variety of sources: federal agencies, other governments, and third-parties in the private sector .</span>
 
 OpenFDA is an exciting project in federal government APIs because of the richness of the data and possibilities it offers for creating amazing applications. The documentation is very well-done both on the OpenFDA website and in GitHub. If you want to develop your skills in using GitHub, OpenFDA’s GitHub repository is an excellent training resource._Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:%20William.Brantley@opm.gov)._
 _Dr. William A. Brantley, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at [BillBrantley.com](http://billbrantley.com/)._

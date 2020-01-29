@@ -5,19 +5,18 @@ title: 'Analytics Success Series: USA.gov'
 summary: 'USA.gov’s Analytics Success: using analytics data to inform design and responsivity to create a better experience for the user Last year, the USA.gov team found themselves facing a challenge. We were in need of a new content management system for our websites, USA.gov and Gobierno.USA.gov, which help people find and understand the most frequently requested'
 authors:
   - david-kaufmann
-categories:
-  - Metrics
-  - Our Work
-tag:
+topics:
+  - metrics
+  - our-work
   - analytics
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
-  - GSA
+  - digital-analytics-program
+  - gsa
   - usability
-  - USAgov
-  - user experience
-  - UX
+  - usagov
+  - user-experience
+  - ux
 ---
 
 _USA.gov’s Analytics Success: using analytics data to inform design and responsivity to create a better experience for the user_
@@ -26,7 +25,7 @@ Last year, the <a href="https://www.usa.gov/" target="_blank">USA.gov</a> team f
 
 That’s a whole lot of “new.” Where to begin?
 
-We decided to start with the data! A lot of that data was from the [Digital Analytics Program]({{< link "/dap/" >}})’s (DAP) Google Analytics (GA) account &#8212; mainly, how were people using our current versions of the site?
+We decided to start with the data! A lot of that data was from the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})’s (DAP) Google Analytics (GA) account &#8212; mainly, how were people using our current versions of the site?
 
 Some of us set out to create a new knowledge base that would fill our future version of the site and our contact center’s customer resource management tool with wonderful content. We looked at usage of the existing content in our contact center and on the web in order to isolate the most needed content. For web content, we used web analytics, and in particular, unique pageviews for an entire year.  Some of our content is seasonal, so it helps to look at a year at once. Using unique pageviews helped us line up a little bit better with our data sources like content used by our contact center agents.
 
@@ -39,12 +38,12 @@ The data told us that our visitors did not hang out with us for very long. After
 Web analytics data also helped us understand that mobile users were becoming an increasing percentage of our customers. This contributed to our desire to make sure that our design was equally direct for users on mobile and desktop, and therefore to allow our writers not to think about different platforms when writing. The result was one column of content on every type of device. If an idea wasn’t important enough to be included in the main content, then it didn’t need to be in a desktop-only bonus box on the side.
 
 **Previous Design:**
-  
+
 {{< legacy-img src="2016/10/USAgovOld.jpg" alt="The old version of the USA.gov webpage on International Travel" >}}
 
 **New Design:**
-  
+
 {{< legacy-img src="2016/10/USAgovnew.jpg" alt="The new version of the USA.gov webpage on getting or renewing a U.S. passport" >}}
 
 Overall, the Digital Analytics Program/Google Analytics usage data helped us pare down a sprawling site with busy content pages in a more efficient site that catered to its true primary users: people jumping in from Google to get an overview of a topic and know where to go next, and perhaps check out very closely related information as well. It’s also been hugely influential on our home page designs, as we strive to create a home page that enables the types of uses for our site that are most prevalent. But that’s a blog post for another day!_David Kaufmann is a member of the Analytics and User Experience teams at USAGov._
-_This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program]({{< link "/dap/" >}}) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please email us at <dap@support.digitalgov.gov>._
+_This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please email us at <dap@support.digitalgov.gov>._

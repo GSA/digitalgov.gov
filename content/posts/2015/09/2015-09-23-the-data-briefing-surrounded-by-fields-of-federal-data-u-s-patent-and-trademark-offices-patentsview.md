@@ -5,14 +5,13 @@ title: 'The Data Briefing: Surrounded by Fields of Federal Data—U.S. Patent an
 summary: Hello, everyone. My summer sabbatical was short but educational, and I am glad to be back in the federal government. I am also excited to again take up the weekly API article that is now expanded to include all things federal government data. Much has happened in the open data realm, and there is much
 authors:
   - bbrantley
-categories:
-  - Data
-tag:
-  - API
+topics:
   - data
-  - data visualization
-  - open data
-  - The Data Briefing
+  - api
+  - data
+  - data-visualization
+  - open-data
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---
@@ -21,7 +20,7 @@ Hello, everyone. My summer sabbatical was short but educational, and I am glad t
 
 On my sabbatical reading stack was &#8220;Code Halos: How the Digital Lives of People, Things, and Organizations are Changing the Rules of Business.&#8221; The authors (Malcolm Frank, Paul Roehrig, and Benjamin Pring) define code halos as “the field of digital information that surrounds any noun—any person, place, or thing.” Code halos depend upon the SMAC Stack—social technologies, mobile technologies, analytics, and the cloud—to capture, store, and provide the digital information. The authors claim code halos are important because they will form the foundation for the second economy: A second economy that will be built using the code halos that surround individuals, products, services, and organizations.
 
-This is nothing new, and you have read similar statements in my earlier columns. In fact, I have written several times about the [role that federal government data has in helping companies innovate]({{< link "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}}) to provide data-rich services and products: essential data such as [census information]({{< link "2015-06-03-the-api-briefing-make-it-an-api-the-census-bureaus-census-of-governments.md" >}}), [weather forecasts]({{< link "2014-07-09-the-api-briefing-how-apis-provide-localized-information-noaas-weather-service-data-and-fccs-broadband-services-map.md" >}}), [economic indicators]({{< link "2014-11-26-the-api-briefing-fred-and-alfred-serve-up-a-buffet-of-economic-data.md" >}}), and [health alerts]({{< link "2014-10-08-the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website.md" >}}). Combine this data with other data to produce code halos around a community, a group of people, or local economy. Let’s take an example from a new federal dataset.
+This is nothing new, and you have read similar statements in my earlier columns. In fact, I have written several times about the [role that federal government data has in helping companies innovate]({{< ref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}}) to provide data-rich services and products: essential data such as [census information]({{< ref "2015-06-03-the-api-briefing-make-it-an-api-the-census-bureaus-census-of-governments.md" >}}), [weather forecasts]({{< ref "2014-07-09-the-api-briefing-how-apis-provide-localized-information-noaas-weather-service-data-and-fccs-broadband-services-map.md" >}}), [economic indicators]({{< ref "2014-11-26-the-api-briefing-fred-and-alfred-serve-up-a-buffet-of-economic-data.md" >}}), and [health alerts]({{< ref "2014-10-08-the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website.md" >}}). Combine this data with other data to produce code halos around a community, a group of people, or local economy. Let’s take an example from a new federal dataset.
 
 {{< legacy-img src="2015/09/600-x-450-USPTO-PatentsView-homepage.jpg" alt="Screen capture from the U.S.P.T.O. Patents View homepage" >}}
 
@@ -33,5 +32,5 @@ You can combine the PatentsView data with Census data such as a community’s ag
 
 I like the concept of code halos, and I believe they play a vital role in the economy now and in the future. I also think that a major source of digital information for many code halos is produced by the federal government. We will explore this thought in further columns about federal government data._ (The term “code halos” is trademarked by Cognizant Technology Solutions U.S. Corporation. The use of Code Halo or Google are for illustrative purposes only and should not be construed as an endorsement by the U.S. federal government or its agencies.)_ 
 
-_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

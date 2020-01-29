@@ -5,13 +5,13 @@ title: The Life-Changing Magic of Writing Release Notes
 summary: 'A key part of agile development is constantly shipping new features. The team behind the Federal Election Commission’s (FEC) beta website ships new features at least once every two weeks. Sometimes the features are big, noticeable changes, such as the new home page we recently launched. And other times they’re small (a copy edit, an'
 authors:
   - noah-manger
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - product-management
+  - strategy
+  - policy
+  - 18f
   - agile
-  - best practices
+  - best-practices
   - workflows
 ---
 
@@ -53,4 +53,4 @@ Last, release notes provide an easy retrospective record of progress. After work
 
 ## Telling the story of your ever-changing product
 
-Working on an agile software project is exhilarating (if a little chaotic at times). But moving fast and constantly improving requires that we also tell the story of our product in a way that resonates with our teams, our stakeholders, and our users. Release notes have become a helpful focal point for my team working on [beta.fec.gov](https://beta.fec.gov/)._This was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ _Learn more about [government work in agile]({{< link "tag/agile" >}}). If you have a .gov or .mil email address, [learn how you can join the Agile/Lean Community of Practice]({{< link "/communities/" >}})._
+Working on an agile software project is exhilarating (if a little chaotic at times). But moving fast and constantly improving requires that we also tell the story of our product in a way that resonates with our teams, our stakeholders, and our users. Release notes have become a helpful focal point for my team working on [beta.fec.gov](https://beta.fec.gov/)._This was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ _Learn more about [government work in agile]({{< ref "/topics/agile" >}}). If you have a .gov or .mil email address, [learn how you can join the Agile/Lean Community of Practice]({{< ref "/communities" >}})._

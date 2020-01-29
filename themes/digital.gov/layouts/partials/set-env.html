@@ -1,7 +1,0 @@
-{{ $.Scratch.Set "env" (replaceRE "^([^/]+).+$" "$1" (getenv "SITE_PREFIX")) }}
-{{ $.Scratch.Set "branch" (getenv "BRANCH") }}
-
-<!-- If the branch_name is empty (usually on localhost), set it to "MASTER" -->
-{{ if eq ($.Scratch.Get "branch") "" }}
-  {{ $.Scratch.Set "branch" "master" }}
-{{ end }}

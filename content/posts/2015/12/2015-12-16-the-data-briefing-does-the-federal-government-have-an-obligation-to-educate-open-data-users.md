@@ -5,18 +5,17 @@ title: 'The Data Briefing: Does the Federal Government Have an Obligation to Edu
 summary: 'Pop quiz on statistics and data science (answers at the end of the article): 1) I have some data on accidents at railroad crossings. One variable indicates the compass direction a railroad crossing faces (North, Northwest, Northeast, and so on). This variable is a/an: Ordinal Categorical Directional Interval 2) I have some ordinal data that'
 authors:
   - bbrantley
-categories:
-  - Data
-tag:
-  - API
+topics:
   - data
-  - data visualization
+  - api
+  - data
+  - data-visualization
   - DOL
   - HHS
-  - open data
-  - The Data Briefing
-  - US Department of Labor
-  - United States Department of Health and Human Services
+  - open-data
+  - the-data-briefing
+  - us-department-of-labor
+  - united-states-department-of-health-and-human-services
   - United States Patent and Trademark Office
   - USPTO
 ---
@@ -68,7 +67,7 @@ Pop quiz on statistics and data science (answers at the end of the article):
   </li>
 </ol>
 
-Tony Hirst, a Senior Lecturer at the Open University in the United Kingdom, <a href="http://opendatacon.org/do-we-need-to-educate-open-data-users/" target="_blank">recently wrote about the need to educate open data users</a>. As he observed, many countries are making their data available for users to create [visualizations]({{< link "2015-07-24-free-the-data-femas-new-data-visualization-tool.md" >}}) and [apps]({{< link "2015-01-07-the-api-briefing-make-2015-the-year-you-create-an-app.md" >}}) from the data. However, much of the data made available is “dirty” in that there are misspellings, missing values and inconsistencies. The user would need to be familiar with the various ELT tools to arrange the data into usable forms.
+Tony Hirst, a Senior Lecturer at the Open University in the United Kingdom, <a href="http://opendatacon.org/do-we-need-to-educate-open-data-users/" target="_blank">recently wrote about the need to educate open data users</a>. As he observed, many countries are making their data available for users to create [visualizations]({{< ref "2015-07-24-free-the-data-femas-new-data-visualization-tool.md" >}}) and [apps]({{< ref "2015-01-07-the-api-briefing-make-2015-the-year-you-create-an-app.md" >}}) from the data. However, much of the data made available is “dirty” in that there are misspellings, missing values and inconsistencies. The user would need to be familiar with the various ELT tools to arrange the data into usable forms.
 
 Once the data is in good shape, the user would need to know how to use the data. That involves understanding basic statistics so as to know the appropriate statistical techniques to apply for analysis and visualization. Alternatively, an app developer would need to know how to create a well-formed request to an API (application programming interface).
 
@@ -82,5 +81,5 @@ I do not know the answer to that question, but I do know some federal agencies d
 
 The Developer Portal at the Department of Labor (DOL) is also a well-designed site to help users more effectively use labor datasets and APIs. On the Developer Portal homepage, users can choose the “Beginner” or “Experienced” path through the DOL site. There is a <a href="http://developer.dol.gov/beginners-guide/" target="_blank">tutorial on how the DOL APIs work</a> and extensive documentation in <a href="http://developer.dol.gov/beginner/" target="_blank">eight different programming languages for the DOL APIs</a>. The datasets catalog is well-organized with good descriptions of the datasets and how to use them.
 
-There was, and still may be, an expectation that users who access federal government data would know how to use the data properly. However, this may no longer be true given the great value of federal data; the increasing number of datasets and APIs being published; and the new tools that make it easy to access datasets and APIs. In the interests of public safety, economic innovation and increasing trust in government, maybe federal agencies should increase their training efforts in how to use federal government open data._Answers to the pop quiz: 1.B; 2. B; 3. D_._Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+There was, and still may be, an expectation that users who access federal government data would know how to use the data properly. However, this may no longer be true given the great value of federal data; the increasing number of datasets and APIs being published; and the new tools that make it easy to access datasets and APIs. In the interests of public safety, economic innovation and increasing trust in government, maybe federal agencies should increase their training efforts in how to use federal government open data._Answers to the pop quiz: 1.B; 2. B; 3. D_._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

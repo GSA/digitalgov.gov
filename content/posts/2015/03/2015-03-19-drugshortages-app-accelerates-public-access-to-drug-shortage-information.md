@@ -5,14 +5,13 @@ title: DrugShortages App Accelerates Public Access to Drug Shortage Information
 summary: 'The U.S. Food and Drug Administration&#8217;s new &#8220;DrugShortages&#8221; app gives the public access to important&mdash;and sometimes critical&mdash;drug shortage information easier and faster than ever before. Drugs in short supply can delay or deny needed care for patients. Shortages may also lead health care professionals to rely on alternative drug products,'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - FDA
+topics:
   - mobile
-  - Thursday Mobile Products
-  - US Food and Drug Administration
-  - USA.gov Federal Mobile Apps Directory
+  - fda
+  - mobile
+  - thursday-mobile-products
+  - us-food-and-drug-administration
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/03/250-x-444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages.jpg" alt="250 x 444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages" >}}The U.S. Food and Drug Administration&#8217;s new &#8220;DrugShortages&#8221; app gives the public access to important—and sometimes critical—drug shortage information easier and faster than ever before.
@@ -30,4 +29,4 @@ The app:
 
 The app is available for free download [via iTunes or the App Store for Apple devices](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=944986401&mt=8) and the [Google Play store for Android devices](https://play.google.com/store/apps/details?id=gov.fda.drugshortages) by searching “FDA Drug Shortages.”
 
-_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._
+_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._

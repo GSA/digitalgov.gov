@@ -6,17 +6,17 @@ summary: HTTPS is a necessary baseline for security on the modern web. Non-secur
 authors:
   - eric-mill
   - marina-fox
-categories:
-  - Governance
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - governance
+  - product-management
+  - strategy
+  - policy
   - analytics
-  - GSA
-  - HTTPS
+  - gsa
+  - https
   - metrics
   - policy
-  - search engine optimization
+  - search-engine-optimization
   - security
 ---
 
@@ -58,4 +58,4 @@ Additionally, GSA’s DigitalGov University and 18F teams have partnered to prod
   * [Implementing HTTPS](https://www.youtube.com/watch?v=rnM2qAfEG-M) (advanced, more technical detail)
   * [Migrating to HTTPS](https://www.youtube.com/watch?v=X5H8JRULDOo) (advanced, focused on HSTS, certificates, and mixed content)
 
-_Learn more about [security]({{< link "tag/security" >}}) and [HTTPS]({{< link "tag/https" >}}) — including why [switching to HTTPS will make your analytics better]({{< link "2016-06-06-why-switching-to-https-will-make-your-analytics-better.md" >}}) and how [HTTPS can impact the SEO of government websites]({{< link "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}}). If you have a .gov or .mil email address, consider joining our [communities]({{< link "/communities/" >}}) to connect with other feds working on web and digital projects._
+_Learn more about [security]({{< ref "/topics/security" >}}) and [HTTPS]({{< ref "/topics/https" >}}) — including why [switching to HTTPS will make your analytics better]({{< ref "2016-06-06-why-switching-to-https-will-make-your-analytics-better.md" >}}) and how [HTTPS can impact the SEO of government websites]({{< ref "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}}). If you have a .gov or .mil email address, consider joining our [communities]({{< ref "/communities" >}}) to connect with other feds working on web and digital projects._

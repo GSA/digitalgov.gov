@@ -6,44 +6,44 @@ summary: 'Americans Use Public Data to Improve the Lives of Fellow Citizens Data
 authors:
   - robin-thottungal
   - kris-rowley
-categories:
-  - API
-  - Challenges
+topics:
+  - api
+  - challenges
   - crowdsourcing-and-citizen-science
-  - Data
-  - strategy-and-policy
-tag:
-  - API
-  - apps challenges
-  - ChallengeGov
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - data
+  - strategy
+  - policy
+  - api
+  - apps-challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - data
-  - data visualization
-  - EPA
-  - GSA
+  - data-visualization
+  - epa
+  - gsa
   - innovation
-  - mobile apps
-  - National Day of Civic Hacking
-  - open data
-  - open government
+  - mobile-apps
+  - national-day-of-civic-hacking
+  - open-data
+  - open-government
   - OSTP
   - SBA
-  - US Agency for International Development
+  - us-agency-for-international-development
   - US Department of Agriculture
-  - US Environmental Protection Agency
-  - US General Services Administration
-  - US Small Business Administration
-  - USAID
+  - us-environmental-protection-agency
+  - us-general-services-administration
+  - us-small-business-administration
+  - usaid
   - USDA
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
-## Americans Use Public Data to Improve the Lives of Fellow Citizens {{< legacy-img src="2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" caption="" >}} 
+## Americans Use Public Data to Improve the Lives of Fellow Citizens {{< legacy-img src="2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" caption="" >}}
 
 Data is one of our most important national assets. It informs our policy and our national priorities. But as we have seen time and time again, the most effective way to govern is to engage with the public directly.
 
@@ -53,7 +53,7 @@ Broadening access to data has already had extraordinary benefits. Open data has 
 
 It has also opened new possibilities for the government. With open and available datasets, federal agencies can solicit the public to help solve some of the nation’s most challenging problems. And during the past year, we have seen more and more crowd-sourced solutions to some of the most pressing mission-centric challenges.
 
-These are technological tools created by the people, for the people. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
+These are technological tools created by the people, for the people. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}}
 
 <h3 id="spotlight-crowdsourcing" style="padding-top: 50px;padding-left: 30px">
   Spotlight: Citizens Innovate Technology for Food Resilience in a Changing Climate

@@ -5,11 +5,10 @@ title: Announcing Speakers and Agenda for the 2015 Summit
 summary: ' We are busting at the seams with excitement because the DigitalGov Citizen Services Summit is less than a month away! Today we are announcing the working agenda and confirmed speakers. The Summit, which will be taking place on Thursday, May 21, 2015'
 authors:
   - apiazza
-categories:
-  - Managing Digital
-  - Our Work
-tag:
-  - DigitalGov Summit
+topics:
+  - product-management
+  - our-work
+  - digitalgov-summit
 ---
 
 [{{< legacy-img src="2015/04/Summit-Logo-400width.gif" alt="A graphic logo of the DigitalGov Citizen Services Summit" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Summit-Logo-400width.gif)

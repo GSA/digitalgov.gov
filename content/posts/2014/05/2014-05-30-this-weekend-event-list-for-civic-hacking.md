@@ -5,43 +5,42 @@ title: 'This Weekend: Event List for Civic Hacking'
 summary: 'Our fabulous colleague Jeanne Holm is ready for the #hackforchange events this weekend and summarized some tips, notes and links to resources on Data.gov. Great things will happen this weekend! Remember, if you hear about great uses of government data, let'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Data
-tag:
+topics:
+  - challenges
+  - data
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
-  - data.gov
+  - data-gov
   - DOL
   - DOT
-  - EPA
+  - epa
   - FCC
-  - Federal Emergency Management Agency
-  - Federal Register
-  - FEMA
+  - federal-emergency-management-agency
+  - federal-register
+  - fema
   - HHS
   - HUD
   - IMLS
-  - NASA
-  - National Day of Civic Hacking
-  - National Institutes of Health
-  - National Oceanic and Atmospheric Administration
-  - national science foundation
-  - NIH
+  - nasa
+  - national-day-of-civic-hacking
+  - national-institutes-of-health
+  - national-oceanic-and-atmospheric-administration
+  - national-science-foundation
+  - nih
   - NOAA
   - NREL
-  - NSF
-  - Smithsonian Institution
-  - US Department of Education
-  - US Department of Labor
-  - US Environmental Protection Agency
-  - United States Census Bureau
-  - United States Department of Health and Human Services
-  - United States Department of Housing and Urban Development
-  - United States Department of Transportation
+  - nsf
+  - smithsonian-institution
+  - us-department-of-education
+  - us-department-of-labor
+  - us-environmental-protection-agency
+  - united-states-census-bureau
+  - united-states-department-of-health-and-human-services
+  - united-states-department-of-housing-and-urban-development
+  - united-states-department-of-transportation
   - USPTO
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Keep Calm and Open Data American Flag Statue of Lady Liberty" >}}Our fabulous colleague Jeanne Holm is ready for the [#hackforchange](https://twitter.com/hashtag/hackforchange) events this weekend and summarized some <a title="resources for civic hack day" href="https://www.data.gov/developers/hacking-change-tips-national-civic-day-hacking/" target="_blank">tips, notes and links to resources on Data.gov</a>.

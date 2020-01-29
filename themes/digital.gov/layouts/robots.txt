@@ -1,4 +1,4 @@
-{{- partial "set-env.html" . -}}
+{{- partial "core/set-env.html" . -}}
 User-agent: *
 {{ if eq ($.Scratch.Get "env") "site" }}
 {{- else -}}

@@ -5,13 +5,12 @@ title: Advice from USAID on Prize Competition Communication Strategies
 summary: 'A well-developed communications plan is critical to the success of a challenge competition, but too often it is one item managers leave to consider at the end of prize design. The United States Agency for International Development (USAID)’s Jarah Meador shared the Desal Prize plan and results in the September 16 webinar, &ldquo;Why Your Gov'
 authors:
   - ktrebon
-categories:
-  - Challenges
-tag:
-  - challenges and prize competitions
-  - Recaps
-  - US Agency for International Development
-  - USAID
+topics:
+  - challenges
+  - challenges-and-prize-competitions
+  - recaps
+  - us-agency-for-international-development
+  - usaid
 ---
 
 {{< legacy-img src="2014/09/600-x-200-social-media-Business-connection-TCmake_photo-iStock-Thinkstock-184725179.jpg" alt="social media and business connection icons" caption="" >}} 
@@ -49,4 +48,4 @@ USAID estimated that 25% of the communications work on their challenge occurred 
     
     **How many ideas are implemented, or being implemented?** USAID knows that 200 new solutions are in testing, field trials or being scaled. And 65%of those involved in implementing the solutions are people who&#8217;ve never worked with USAID before. This is one of the key [benefits of challenge and prize competitions](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf): Increasing the number and diversity of the individuals, organizations, and teams that are addressing a particular problem or challenge of national or international significance.
     
-    _Want to stay in the loop about future articles and no cost training? Sign up for [email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?preferences=true#tab1 "Sign up for DigitalGov.gov email updates"), or follow our [training calendar]({{< link "events" >}} "DigitalGov.gov training calendar")._
+    _Want to stay in the loop about future articles and no cost training? Sign up for [email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?preferences=true#tab1 "Sign up for DigitalGov.gov email updates"), or follow our [training calendar]({{< ref "/events" >}} "DigitalGov.gov training calendar")._

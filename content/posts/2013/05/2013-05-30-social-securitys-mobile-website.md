@@ -5,14 +5,13 @@ title: 'Social Security&#8217;s Mobile Website'
 summary: The Social Security Administration recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user friendly tabular icon driven navigation, which makes it very easy to find information anytime, anywhere. This mobile website was
 authors:
   - kanika-tolver
-categories:
-  - Mobile
-tag:
-  - mobile apps
+topics:
+  - mobile
+  - mobile-apps
   - multilingual
   - SSA
-  - The United States Social Security Administration
-  - Thursday Mobile Products
+  - the-united-states-social-security-administration
+  - thursday-mobile-products
 ---
 
 The [Social Security Administration](http://www.ssa.gov) recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user friendly tabular icon driven navigation, which makes it very easy to find information anytime, anywhere.

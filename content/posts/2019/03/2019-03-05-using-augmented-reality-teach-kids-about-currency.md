@@ -6,9 +6,8 @@ summary: 'The U.S. Currency Education Program used research, prototyping, and us
 deck: 'The U.S. Currency Education Program used research, prototyping, and user-feedback to develop a mobile app to teach young students about money.'
 authors:
   - ayjah-thomas
-categories:
+topics:
   - mobile
-tag:
   - mobile-apps
   - frb
   - federal-reserve-board

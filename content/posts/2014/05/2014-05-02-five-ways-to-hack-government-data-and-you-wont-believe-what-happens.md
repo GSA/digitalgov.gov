@@ -5,20 +5,19 @@ title: 'Civic Hacking: Pathways for Participation'
 summary: ' The National Day of Civic Hacking is actually a weekend. An awe-inspiring two days of collaborative work where coders, designers, writers, innovative thinkers,'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Code
-  - Data
-  - Writing
-tag:
+topics:
+  - challenges
+  - code
+  - data
+  - writing
   - Census
-  - ChallengeGov
-  - data.gov
+  - challenge-gov
+  - data-gov
   - innovation
-  - National Day of Civic Hacking
-  - national science foundation
-  - NSF
-  - United States Census Bureau
+  - national-day-of-civic-hacking
+  - national-science-foundation
+  - nsf
+  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2014/05/600-x-212-National-Day-of-Civic-Hacking-2014-facebook-banner-logo.jpg" alt="A Facebook banner that reads: National Day of Civic Hacking: To improve our communities and the governments that serve them. Join us May 31st - June 1st, 2014" >}}

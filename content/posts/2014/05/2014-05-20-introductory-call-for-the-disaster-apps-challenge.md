@@ -5,13 +5,12 @@ title: Introductory Call for the Disaster Apps Challenge
 summary: The National Defense University (NDU) is hosting a conference call Friday, May 23, to spread the word about the Disaster Apps Challenge Competition, which opened yesterday. This call is open to the public, specifically the people who are interested
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-tag:
-  - challenges and prize competitions
+topics:
+  - challenges
+  - challenges-and-prize-competitions
   - National Defense University
   - NDU
-  - open source
+  - open-source
 ---
 
 {{< legacy-img src="2014/05/250-x-296-National-Defense-University-Center-for-Technology-and-National-Security-Policy-shield-logo.jpg" alt="National Defense University - Center for Technology and National Security Policy shield logo" >}}The National Defense University (NDU) is hosting a conference call Friday, May 23, to spread the word about the <a title="disaster apps challenge competition" href="http://disasterapps.challengepost.com/" target="_blank">Disaster Apps Challenge Competition</a>, which opened yesterday.

@@ -7,20 +7,19 @@ authors:
   - kristen-honey
   - phaedra-chrousos
   - tom-black
-categories:
-  - Data
-  - Monthly Theme
-tag:
-  - 18F
-  - data.gov
+topics:
+  - data
+  - monthly-theme
+  - 18f
+  - data-gov
   - Education
   - HHS
-  - open government
+  - open-government
   - SSA
-  - The United States Social Security Administration
-  - US Department of Education
-  - United States Department of Energy
-  - United States Department of Health and Human Services
+  - the-united-states-social-security-administration
+  - us-department-of-education
+  - united-states-department-of-energy
+  - united-states-department-of-health-and-human-services
 ---
 
 > <div class="field-label">

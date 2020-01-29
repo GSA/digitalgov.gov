@@ -6,20 +6,19 @@ summary: ' When the Employment and Training Administration’s CareerOneStop tea
 authors:
   - kim-vitelli
   - michael-harding
-categories:
-  - Design
-  - Mobile
-  - user-testing-and-research
-  - UX
-tag:
+topics:
+  - design
   - mobile
-  - Mobile UX Guideline 5
-  - Thursday Mobile Products
-  - top tasks
-  - US Department of Labor
-  - usability testing
-  - user experience
-  - UX
+  - user-testing-and-research
+  - ux
+  - mobile
+  - mobile-ux-guideline-5
+  - thursday-mobile-products
+  - top-tasks
+  - us-department-of-labor
+  - usability-testing
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-436-cos-CareerOneStop.jpg" alt="CareerOneStop homepage" >}}
@@ -32,11 +31,11 @@ This was the first question the team asked. The answer? Just about everybody. Ca
 
 ## “Can users find what they need?”
 
-CareerOneStop offers so much information and so many options that it can be hard for users to locate the best resources for their unique needs. The team talked to users and watched them use the system to find out what they need, where they expect to find it, and what language is most meaningful to them. The goal was to identify the clearest labels and organization of information and resources to [help users connect with the information they need]({{< link "2015-02-06-top-task-usability-design-for-your-users.md" >}}). CareerOneStop now offers streamlined access to targeted resources for each audience.
+CareerOneStop offers so much information and so many options that it can be hard for users to locate the best resources for their unique needs. The team talked to users and watched them use the system to find out what they need, where they expect to find it, and what language is most meaningful to them. The goal was to identify the clearest labels and organization of information and resources to [help users connect with the information they need]({{< ref "2015-02-06-top-task-usability-design-for-your-users.md" >}}). CareerOneStop now offers streamlined access to targeted resources for each audience.
 
 ## “Are CareerOneStop’s websites and tools easy to use?”
 
-Individuals must be able to do more than simply find the resources they need—they also need those resources to be easy-to-use and effective at helping them meet their career, training, and employment goals. The CareerOneStop team conducted [usability testing]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}) on key tools and websites, during which they watched users interact with the site and learned how to improve functionality, organization, and language in order to better meet users’ needs.
+Individuals must be able to do more than simply find the resources they need—they also need those resources to be easy-to-use and effective at helping them meet their career, training, and employment goals. The CareerOneStop team conducted [usability testing]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) on key tools and websites, during which they watched users interact with the site and learned how to improve functionality, organization, and language in order to better meet users’ needs.
 
 ## “How are users accessing CareerOneStop resources?”
 

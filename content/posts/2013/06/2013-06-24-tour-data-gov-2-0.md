@@ -5,13 +5,12 @@ title: Tour Data.gov 2.0
 summary: ' As you know, last month Data.gov launched its new open-source Data.gov 2.0 catalog (catalog.data.gov). Based on CKAN, a data management platform used by many open-data catalogs around the world, Data.gov’s new catalog has received nothing but kudos from users. For the first time, our raw datasets, tools'
 authors:
   - sally-bourrie
-categories:
-  - Code
-  - Data
-tag:
-  - data.gov
-  - open data
-  - open government
+topics:
+  - code
+  - data
+  - data-gov
+  - open-data
+  - open-government
 ---
 
 [{{< legacy-img src="2013/06/Datagov-Science-Cinema-image-250x161.jpg" alt="screenshot of Data.gov site" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/Datagov-Science-Cinema-image.jpg)

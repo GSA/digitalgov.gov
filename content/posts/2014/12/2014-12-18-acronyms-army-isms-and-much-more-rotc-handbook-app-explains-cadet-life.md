@@ -5,17 +5,16 @@ title: 'Acronyms, Army-isms and Much More: ROTC Handbook App Explains Cadet Life
 summary: 'Have a potential future cadet in the family? Deciding whether the Army Reserve Officers&#8217; Training Corps (ROTC) program is right for you? Already in the program? Study up on the Army ROTC program before you or someone you know steps foot in the classroom in a crisp uniform. Download the ROTC Handbook from the U.S.'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - API
-  - native app
+topics:
+  - mobile
+  - api
+  - native-app
   - ROTC
-  - Thursday Mobile Products
-  - United States Army
+  - thursday-mobile-products
+  - united-states-army
 ---
 
-{{< legacy-img src="2014/12/600-x-450-Army-ROTC-at-Ohio-State-University-May-21-2009-by-Ibagli-from-Wikimedia-Commons.jpg" alt="Army ROTC at Ohio State University, May 21, 2009" caption="" >}} 
+{{< legacy-img src="2014/12/600-x-450-Army-ROTC-at-Ohio-State-University-May-21-2009-by-Ibagli-from-Wikimedia-Commons.jpg" alt="Army ROTC at Ohio State University, May 21, 2009" caption="" >}}
 
 Have a potential future cadet in the family? Deciding whether the Army Reserve Officers&#8217; Training Corps (ROTC) program is right for you? Already in the program? Study up on the Army ROTC program before you or someone you know steps foot in the classroom in a crisp uniform. Download the [ROTC Handbook from the U.S. Army Cadet Command](https://play.google.com/store/apps/details?id=mil.armyrotc.handbook) to help learn this new culture—acronyms, Army-isms and all.
 
@@ -27,4 +26,4 @@ For current cadets, the app contains an incredible amount of handy reference mat
 
 The app is available for Android devices. It was published in mobile format in partnership with Combined Arms Support Command’s Technology Integration Branch in Ft. Lee, Virginia.
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._

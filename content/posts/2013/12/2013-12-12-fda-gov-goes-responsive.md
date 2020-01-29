@@ -3,12 +3,11 @@ slug: fda-gov-goes-responsive
 date: 2013-12-12 13:10:11 -0400
 title: FDA.gov Goes Responsive
 summary: 'It’s late at night. Your child can&#8217;t sleep: She has some kind of virus. You reach for a bottle of over-the-counter infant fever reducer you bought recently. But wait, you say to yourself: Didn&#8217;t I hear on the news something about a recall? Which brand was that again? Thanks to the digital team at the'
-categories:
-  - Mobile
-tag:
-  - FDA
-  - responsive web design
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - fda
+  - responsive-web-design
+  - thursday-mobile-products
 ---
 
 [<img class="alignright  wp-image-104532" alt="FDA Responsive SIte" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/photo-FDAgovmobilehomepage.jpg" width="381" height="546" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/photo-FDAgovmobilehomepage.jpg)It’s late at night. Your child can&#8217;t sleep: She has some kind of virus. You reach for a bottle of over-the-counter infant fever reducer you bought recently. _But wait_, you say to yourself: _Didn&#8217;t I hear on the news something about a recall? Which brand was that again?_
@@ -19,6 +18,6 @@ Doctors, pharmacists, nurses and patients on-the-go can also “**Report an adve
 
 Looking for **specific medication or food product**? It&#8217;s easy to use the Search function, which is front and center on the page. **Consumer updates**, **news** and **FDA blogs** round out other direct-from-homepage offerings.
 
-The FDA is the latest in the steady march of federal government agencies (EPA, State, HUD and HHS, to name a few) to use the new [responsive]({{< link "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") design format. The FDA.gov&#8217;s homepage is the first in a series of pages the agency is equipping for responsive design, so stay tuned. Whip out your tablet or smartphone and try it out!
+The FDA is the latest in the steady march of federal government agencies (EPA, State, HUD and HHS, to name a few) to use the new [responsive]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") design format. The FDA.gov&#8217;s homepage is the first in a series of pages the agency is equipping for responsive design, so stay tuned. Whip out your tablet or smartphone and try it out!
 
 You can download the latest government mobile apps from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**.

@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -13,6 +13,12 @@ email: maria.aspiazu@gsa.gov
 
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: "Coqui Aspiazu is the Product Manager for Sites at GSA's Office of Citizen Services and Innovative Technologies in the Technology Transformation Services (TTS). Sites is a shared service that allows agencies to focus on creating great content rather than on building systems to deliver that content. Prior to her work in the federal government, Coqui worked as a journalist, leading web, television and print media projects."
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

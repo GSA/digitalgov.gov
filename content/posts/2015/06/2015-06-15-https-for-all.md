@@ -5,12 +5,11 @@ title: HTTPS For All
 summary: With the release of a new dashboard to measure best Web practices in the federal government and the establishment of a government-wide HTTPS Only Standard, the time to make the switch to HTTPS has arrived. Agencies have until December 31, 2016, to make the switch. The move to HTTPS is not only happening in government;
 authors:
   - kdaniel
-categories:
-  - Managing Digital
-tag:
-  - 18F
+topics:
+  - product-management
+  - 18f
   - data
-  - HTTPS
+  - https
   - security
 ---
 

@@ -5,20 +5,20 @@ title: 'Social Media Data Deep Dive: Turning Findings into Action'
 summary: 'GobiernoUSA, just like USA.gov, is part of a unique effort with a large mission&mdash;to guide people to the government information and services they seek. We cover a lot of topics in Spanish via our website, social media platforms, email sends, and contact center. One of the communication channels we focus a lot of attention on'
 authors:
   - victoria-wales
-categories:
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
+  - social-media
+  - strategy
+  - policy
   - analytics
   - content
-  - content strategy
+  - content-strategy
   - data
   - GobiernoUSAgov
   - metrics
   - multilingual
-  - social media
-  - social media metrics
-  - USAgov
+  - social-media
+  - social-media-metrics
+  - usagov
 ---
 
 GobiernoUSA, just like USA.gov, is part of a unique effort with a large mission—to guide people to the government information and services they seek. We cover a lot of topics in Spanish via our website, social media platforms, email sends, and contact center. One of the communication channels we focus a lot of attention on is social media, and we routinely measure how our efforts are going.

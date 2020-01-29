@@ -6,17 +6,16 @@ summary: 'Like many of you, we watched with great interest this week when a citi
 authors:
   - jherman
   - meredith-stewart
-categories:
-  - Managing Digital
-  - Social Media
-tag:
+topics:
+  - product-management
+  - social-media
   - DOJ
   - FBI
   - Federal Bureau of Investigation
   - FOIA
-  - National Action Plan on Open Government
-  - open government
-  - US Department of Justice
+  - national-action-plan-on-open-government
+  - open-government
+  - us-department-of-justice
 ---
 
 Like many of you, we watched with great interest this week when a citizen [submitted a Freedom of Information Act (FOIA) request](http://boingboing.net/2015/12/17/best-foia-ever-asking-fbi-to.html) to the Federal Bureau of Investigation (FBI) asking them to release to the public Wu-Tang Clan’s album, Once Upon a Time in Shaolin.
@@ -25,7 +24,7 @@ While official sources explain that the desired outcome is not possible at this 
 
 [{{< legacy-img src="2015/12/506-x-311-FBI-NY-PharmaBro-Martin-Shkreli-arrest-WuTang-Clan-tweet-Dec-17th-2015.jpg" alt="FBI NY's tweet on the arrest of Pharma Bro Martin Shkreli and Wu-Tang Clan album December 17th 2015" >}}](https://twitter.com/newyorkfbi/status/677597263540191232)
 
-&#8230;in light of this creative effort, let&#8217;s discuss how you too can use FOIA and other [Open Government programs]({{< link "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" >}}) to build a better tomorrow.
+&#8230;in light of this creative effort, let&#8217;s discuss how you too can use FOIA and other [Open Government programs]({{< ref "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" >}}) to build a better tomorrow.
 
 ## What is FOIA?
 

@@ -5,13 +5,13 @@ title: Privacy Policies, Terms of Service, and PIAs! Oh My!
 summary: Guest post by Cheryl Hackley who works in the Office of Public Affairs at the Federal Trade Commission. From my early days of using email, sites like MySpace, and later getting my first smartphone, it was a common practice for me to
 authors:
   - cheryl-hackley
-categories:
-  - strategy-and-policy
-tag:
+topics:
+  - strategy
+  - policy
   - privacy
   - Privacy Impact Assessment
-  - social media
-  - Terms of Service
+  - social-media
+  - terms-of-service
 ---
 
 _Guest post by Cheryl Hackley who works in the Office of Public Affairs at the Federal Trade Commission.[{{< legacy-img src="2013/09/privacy-image-250x167.png" alt="image of a computer with a padlock on the screen" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/privacy-image.png)_

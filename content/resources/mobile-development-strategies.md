@@ -1,16 +1,17 @@
 ---
-url: /resources/mobile-development-strategies
+slug: mobile-development-strategies
 date: 2018-10-09 12:30:00 -0500
 title: 'Mobile Development Strategies'
 summary: 'The following is a list of the most common mobile development strategies.'
-featured_image:
-  uid:
-type: guide
+deck:
+topics:
+  - mobile
+  - strategy
 aliases:
 
 ---
 
-> This guide was developed by the [MobileGov](https://digital.gov/communities/mobile/) Communtiy of Practice.
+_This guide was developed by the [MobileGov](https://digital.gov/communities/mobile/) Communtiy of Practice._
 
 You have decided to create a mobile application. What development strategy do you use? There are many strategies to choose from—some have very subtle differences between them, and some are used in combination.
 

@@ -5,10 +5,9 @@ title: Connect with Your Colleagues Before You Need Them
 summary: 'Running a government website or social media account is complex: while trying to meet your agency’s mission goals and your customers’ needs, you also have to keep track of issues like ethics, information security, privacy, and accessibility. It’s enough to make your head spin. Luckily, no one &hellip; errr &hellip; no online communications person &hellip;'
 authors:
   - jeffrey-levy
-categories:
-  - Content
-  - Managing Digital
-tag:
+topics:
+  - content
+  - product-management
   - US Citizenship and Immigration Service
   - USCIS
 ---

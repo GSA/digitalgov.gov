@@ -5,11 +5,10 @@ title: 'How to Manage Multimedia Assets: What Peace Corps Is Doing to Grow Its P
 summary: When Alex Snyder started working at Peace Corps a few years ago, he had an opportunity to explore a new platform for housing their digital assets. As a professional photographer himself, he saw the value in focusing on visual elements and making those more accessible. He focused on making the library about photos, video and
 authors:
   - danielle-brigida
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - multimedia
-  - Peace Corps
+  - peace-corps
 ---
 
 When Alex Snyder started working at Peace Corps a few years ago, he had an opportunity to explore a new platform for housing their digital assets. As a professional photographer himself, he saw the value in focusing on visual elements and making those more accessible. He focused on making the library about photos, video and graphics, and looked for a system that improved the photo submission process while displaying the decade’s worth of images the Peace Corps accrued. After doing extensive market research and assessing their needs, he chose a platform and began [building their Media Library](http://medialibrary.peacecorps.gov/). The Media Library has unlimited storage and the ability to collect and organize their many stunning photos that all tell the Peace Corps story.

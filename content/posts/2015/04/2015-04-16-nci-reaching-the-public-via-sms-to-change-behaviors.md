@@ -5,18 +5,17 @@ title: 'NCI: Reaching the Public via SMS to Change Behaviors'
 summary: SMS messages are an excellent way to reach audiences. The National Cancer Institute (NCI) saw SMS messages as an opportunity to reach the public for the implementation of their Mobile Health Behavioral Intervention Programs. NCI has 15 SMS based programs, including HealthyYouTxt, a program designed to help users live a healthier lifestyle, and SmokeFreeTxt, a
 authors:
   - kdaniel
-categories:
-  - Mobile
-  - Monthly Theme
-tag:
-  - customer service
-  - government contact centers
-  - National Cancer Institute
+topics:
+  - mobile
+  - monthly-theme
+  - customer-service
+  - government-contact-centers
+  - national-cancer-institute
   - NCI
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
-[SMS messages are an excellent way to reach audiences]({{< link "2015-02-03-trends-on-tuesday-using-sms-for-customer-support.md" >}}). The National Cancer Institute (NCI) saw SMS messages as an opportunity to reach the public for the implementation of their Mobile Health Behavioral Intervention Programs. NCI has 15 SMS based programs, including [HealthyYouTxt](http://smokefree.gov/healthyyou), a program designed to help users live a healthier lifestyle, and [SmokeFreeTxt](http://smokefree.gov/smokefreetxt), a program designed to help users quit smoking. In this piece, we will talk specifically about the domestic version of the SmokeFreeTxt program, one of their most popular programs.
+[SMS messages are an excellent way to reach audiences]({{< ref "2015-02-03-trends-on-tuesday-using-sms-for-customer-support.md" >}}). The National Cancer Institute (NCI) saw SMS messages as an opportunity to reach the public for the implementation of their Mobile Health Behavioral Intervention Programs. NCI has 15 SMS based programs, including [HealthyYouTxt](http://smokefree.gov/healthyyou), a program designed to help users live a healthier lifestyle, and [SmokeFreeTxt](http://smokefree.gov/smokefreetxt), a program designed to help users quit smoking. In this piece, we will talk specifically about the domestic version of the SmokeFreeTxt program, one of their most popular programs.
 
 **SMS vs. Mobile App**
 

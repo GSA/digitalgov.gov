@@ -6,19 +6,19 @@ summary: 'Last week we wrote about how we diffuse knowledge through shared inter
 authors:
   - cm-lubinski
   - becky-sweger
-categories:
-  - Code
-  - Data
-  - Governance
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
-  - best practices
+topics:
+  - code
   - data
-  - DATA Act
-  - Digital Accountability and Transparency Act
-  - US Department of the Treasury
+  - governance
+  - product-management
+  - strategy
+  - policy
+  - 18f
+  - best-practices
+  - data
+  - data-act
+  - digital-accountability-and-transparency-act
+  - us-department-of-the-treasury
 ---
 
 Last week we wrote about [how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform](https://18f.gsa.gov/2016/08/25/micro-purchase-design-philosophy-do-one-thing-well/). This week, we’ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is _not_ meant to be a full retrospective or post-mortem; we’ll be focusing on technical decisions. We should also delineate this from the more long term DATA Act broker, which is under active development.
@@ -47,7 +47,7 @@ The proof-of-concept focus is not without drawbacks, however. While we would arg
 
 {{< legacy-img src="2016/09/426-x-131-DATA-Act-MVP-minimum-viable-product-diagram.jpg" alt="A minimum viable product (MVP) diagram for the above description." >}}
 
- 
+
 
 ## Simplicity avoids scaring away agencies {#simplicity-avoids-scaring-away-agencies}
 

@@ -5,16 +5,16 @@ title: 'Trends on Tuesday: Are QR Codes Still Relevant?'
 summary: 'Recently, I was designing new outreach materials and needed a way to connect this offline collateral with my agency’s digital content. Using a QR (or Quick Response) code immediately came to mind, followed by the question, &ldquo;Are QR codes still relevant?&rdquo; Opinions differ on their utility and I couldn&#8217;t find any objective data on how'
 authors:
   - tjohnson
-categories:
-  - Communities
-  - Mobile
-  - Social Media
-  - strategy-and-policy
-tag:
-  - AoI
+topics:
+  - communities
   - mobile
-  - Mobile UX Guideline 5
-  - Trends on Tuesday
+  - social-media
+  - strategy
+  - policy
+  - aoi
+  - mobile
+  - mobile-ux-guideline-5
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/10/250-x-260-QR-code-label-concept-mipan-iStock-Thinkstock-white-borer-cropped-156493708.jpg" alt="QR code label concept" caption="" >}} 
@@ -32,4 +32,4 @@ Until then, [QR Code Press](http://www.qrcodepress.com/qr-code-detective-ultimat
   * **Use multimedia features.** A video can provide a much friendlier experience than a lengthy written document.
   * **Check the function of the QR code.** A stunning campaign will fail if the code doesn’t actually work due to some kind of error.
 
-With these tips in mind, and the desire to provide our consumers with information anytime, anywhere, we ultimately decided to use a QR code. I’ll be sure to write a post with any lessons learned once the materials are launched. For more insight into QR codes and how other agencies have utilized them, check out the &#8220;[Leveraging the Government Experience through QR Codes]({{< link "2013-02-14-qr-codes.md" >}} "Leveraging the Government Experience through QR Codes")&#8221; webinar on DigitalGov University.
+With these tips in mind, and the desire to provide our consumers with information anytime, anywhere, we ultimately decided to use a QR code. I’ll be sure to write a post with any lessons learned once the materials are launched. For more insight into QR codes and how other agencies have utilized them, check out the &#8220;[Leveraging the Government Experience through QR Codes]({{< ref "2013-02-14-qr-codes.md" >}} "Leveraging the Government Experience through QR Codes")&#8221; webinar on DigitalGov University.

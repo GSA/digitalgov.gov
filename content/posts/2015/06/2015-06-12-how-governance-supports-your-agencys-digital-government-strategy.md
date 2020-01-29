@@ -5,20 +5,20 @@ title: How Governance Supports Your Agency’s Digital Government Strategy
 summary: 'It seems that everyone these days is talking about &ldquo;governance.&rdquo; But what is it, really, and how can you make good governance usable in your agency? The federal government developed the Digital Government Strategy to deliver better Web services to the American people. The strategy is based on the notion of focusing on customers&mdash;the American'
 authors:
   - robert-jacoby
-categories:
-  - Governance
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - governance
+  - product-management
+  - strategy
+  - policy
   - HHS
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="Strategy concepts on chalk board" caption="" >}} 
 
 It seems that everyone these days is talking about “governance.” But what is it, really, and how can you make good governance usable in your agency?
 
-The federal government developed the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) to deliver better Web services to the American people. The strategy is based on the notion of focusing on customers—the American people—and their needs in terms of providing access to high-quality digital government information and services anywhere, anytime, on any device. Governance offers a practical, supporting framework for managing the myriad of content, applications, services, and platforms for managing this complex endeavor. [Guidelines were developed for governance]({{< link "2012-08-12-agile-sprinting-to-digital-governance-recommendations.md" >}}) using agile methods in response to the Strategy.
+The federal government developed the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) to deliver better Web services to the American people. The strategy is based on the notion of focusing on customers—the American people—and their needs in terms of providing access to high-quality digital government information and services anywhere, anytime, on any device. Governance offers a practical, supporting framework for managing the myriad of content, applications, services, and platforms for managing this complex endeavor. [Guidelines were developed for governance]({{< ref "2012-08-12-agile-sprinting-to-digital-governance-recommendations.md" >}}) using agile methods in response to the Strategy.
 
 This case study provides examples of implementing digital governance from experience with [Project Evolve for SAMHSA.gov](http://blog.samhsa.gov/category/evolve).
 
@@ -30,7 +30,7 @@ Site migrations and transformations happened throughout fiscal years 2013 and 20
 
 ## Functional Work Areas Drive Governance Challenges
 
-At the start of this fiscal year, the PE Team realized that challenges existed in and across multiple work areas. This was because _each_ governance area had some relationship—an interaction, interdependence, or coactivity—with some _other_ governance area or areas. As we migrated content from dozens of SAMHSA-owned sites into one integrated site, SAMHSA staff needed to be operating in a new paradigm. In the course of identifying content owners, we needed to determine the scope of their content and their roles and responsibilities, both outside and inside the Drupal Web content management system (CMS). Of course, all of our supporting activities would be impacted, including [usability testing]({{< link "2015-03-19-getting-started-with-usability-testing.md" >}}), communications and change management plans, [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}), and training programs. And, we needed to coordinate across teams.
+At the start of this fiscal year, the PE Team realized that challenges existed in and across multiple work areas. This was because _each_ governance area had some relationship—an interaction, interdependence, or coactivity—with some _other_ governance area or areas. As we migrated content from dozens of SAMHSA-owned sites into one integrated site, SAMHSA staff needed to be operating in a new paradigm. In the course of identifying content owners, we needed to determine the scope of their content and their roles and responsibilities, both outside and inside the Drupal Web content management system (CMS). Of course, all of our supporting activities would be impacted, including [usability testing]({{< ref "2015-03-19-getting-started-with-usability-testing.md" >}}), communications and change management plans, [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}), and training programs. And, we needed to coordinate across teams.
 
 ## Governance Needs Practical Solutions
 
@@ -40,7 +40,7 @@ We started solving the challenges of governance by changing our thinking about g
   * Current content workflow outside CMS
   * Drupal CMS (content workflows and roles and permissions)
   * Supporting areas (usability, communications, training, content strategy, change management, and more)
-  * Documentation (for example, [Web style guide]({{< link "2015-06-08-the-content-corner-creating-a-content-style-guide.md" >}}), CMS user guide, standard operating procedures)
+  * Documentation (for example, [Web style guide]({{< ref "2015-06-08-the-content-corner-creating-a-content-style-guide.md" >}}), CMS user guide, standard operating procedures)
 
 Focusing on the functional governance areas aided immensely in our ability to help SAMHSA model solutions that supported the goals of the Digital Government Strategy.
 

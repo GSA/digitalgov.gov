@@ -5,12 +5,11 @@ title: Creating Awesome Web Analytics Reports and Presentations
 summary: Collecting visitor, engagement, and traffic data for your digital channels is nothing new. By this time, you have a lot of data about your website. How do you use and present that data to make meaningful recommendations?
 authors:
   - sarah-kaczmarek
-categories:
-  - Metrics
-  - Social Media
+topics:
+  - metrics
+  - social-media
   - user-testing-and-research
-tag:
-  - DAP
+  - dap
   - GAO
 ---
 

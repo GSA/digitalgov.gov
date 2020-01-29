@@ -5,11 +5,11 @@ title: 'Extreme Makeover: GC News Release Edition'
 summary: ' The Government of Canada (GC) is retiring the traditional news release format in favour of a more digital-friendly product that makes the key messages of announcements clearer, quick facts more accessible and integrates more effectively with social media channels. The old style'
 authors:
   - communications-community-office-government-of-canada
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - social media
+topics:
+  - product-management
+  - strategy
+  - policy
+  - social-media
 ---
 
 <div>

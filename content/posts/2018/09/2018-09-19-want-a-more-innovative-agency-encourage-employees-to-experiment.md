@@ -5,17 +5,16 @@ title: 'Want a More Innovative Agency&#63; Encourage Employees to Experiment'
 summary: 'How agency leaders can create a work environment that fosters innovation via creativity and experimentation&#46;'
 authors:
   - brian-fox
-categories:
-  - managing-digital
-tag:
+topics:
+  - devops
+  - product-management
   - innovation
 featured_image:
   uid: light-bulb
   alt: ''
+deck: 'How agency leaders can create a work environment that fosters innovation via creativity and experimentation'
+
 ---
-
-
-_How agency leaders can create a work environment that fosters innovation via creativity and experimentation._
 
 Every organization seeks to innovate, to use the latest technology or methods to provide new products and services to their users—but despite this near-universal desire to improve the product, many can have a tough time generating meaningful innovation. What differentiates those agencies that are creating novel products or services from the rest is leadership’s role in creating a safe, creative work environment where employees have freedom to experiment on the job.
 

@@ -6,12 +6,11 @@ summary: 'In this age of content marketing that has led publications to call cer
 authors:
   - tyrus-manuel
   - andreanocesigritz
-categories:
-  - Content
-  - Monthly Theme
-tag:
-  - content strategy
-  - content syndication
+topics:
+  - content
+  - monthly-theme
+  - content-strategy
+  - content-syndication
 ---
 
 In this age of content marketing that has led publications to call certain ads &#8220;paid content,&#8221; those of us in government need to broaden our ideas about what “content” is. Many of us get it, but some agencies may also be missing opportunities because they don’t even grasp that content is a broad and fluid thing.
@@ -27,10 +26,10 @@ Everything is content, not just words on a website. The federal agencies we comm
 
 All of it is content and all of it is—or can be—effective at communicating, depending on how it is deployed and what the audience is. The true value of content is how people will engage with it.
 
-[This month, on DigitalGov]({{< link "categories/monthly-theme" >}}), we’re going to take a look at the power of our federal content, specifically:
+[This month, on DigitalGov]({{< ref "/topics/monthly-theme" >}}), we’re going to take a look at the power of our federal content, specifically:
 
-  * A [case study in content syndication success]({{< link "2016-02-04-does-content-syndication-work.md" >}})
-  * How [FEMA and others are providing location-aware content]({{< link "2016-02-08-the-content-corner-location-aware-content.md" >}}) to deliver the content users need where they need it
+  * A [case study in content syndication success]({{< ref "2016-02-04-does-content-syndication-work.md" >}})
+  * How [FEMA and others are providing location-aware content]({{< ref "2016-02-08-the-content-corner-location-aware-content.md" >}}) to deliver the content users need where they need it
   * How agencies can update their audiences with embeddable collections of real-time, evidence-based content
-  * How the [USCIS is tackling the problem of information disorganization]({{< link "2016-02-12-putting-your-main-message-first.md" >}}), which can lead your audience to seek out unofficial or misleading information.
-  * A look at [bot-driven content experiences]({{< link "2016-02-16-trends-on-tuesday-robot-messaging-goes-mainstream.md" >}}) and how agencies can look at more interactive user experiences beyond Web pages and apps.
+  * How the [USCIS is tackling the problem of information disorganization]({{< ref "2016-02-12-putting-your-main-message-first.md" >}}), which can lead your audience to seek out unofficial or misleading information.
+  * A look at [bot-driven content experiences]({{< ref "2016-02-16-trends-on-tuesday-robot-messaging-goes-mainstream.md" >}}) and how agencies can look at more interactive user experiences beyond Web pages and apps.

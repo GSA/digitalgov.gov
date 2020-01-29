@@ -5,19 +5,18 @@ title: Why People Contribute to Federal Tech Projects (And How You Can Provide a
 summary: 'Author&#8217;s note: Anyone can contribute to the development of the Open Opportunities platform via the project&#8217;s GitHub repository. The Open Opportunities program itself is only open to federal employees. Open, agile software development projects can improve government initiatives. As discussed in last week’s article on agile projects in government, the Open Opportunities platform has benefited'
 authors:
   - awichman
-categories:
-  - Our Work
-tag:
-  - 18F
+topics:
+  - our-work
+  - 18f
   - agile
-  - Open Opportunities program
-  - open source
+  - open-opportunities-program
+  - open-source
 ---
 
 _Author&#8217;s note: Anyone can contribute to the development of the Open Opportunities platform via [the project&#8217;s GitHub repository](https://github.com/18F/openopps-platform). The Open Opportunities program itself is only open to federal employees.
   _ 
   
-Open, agile software development projects can improve government initiatives. As discussed in last week’s article on [agile projects in government]({{< link "2016-01-04-how-agile-development-can-benefit-federal-projects.md" >}}), the [Open Opportunities platform](https://openopps.digitalgov.gov/) has benefited from increased collaboration within government as well as from contributions from outside of government. {{< legacy-img src="2016/01/600-x-338-People-communication-vector-VLADGRIN-iStock-Thinkstock-531278671.jpg" alt="Group of human figures with speech bubbles above their heads." caption="" >}} 
+Open, agile software development projects can improve government initiatives. As discussed in last week’s article on [agile projects in government]({{< ref "2016-01-04-how-agile-development-can-benefit-federal-projects.md" >}}), the [Open Opportunities platform](https://openopps.digitalgov.gov/) has benefited from increased collaboration within government as well as from contributions from outside of government. {{< legacy-img src="2016/01/600-x-338-People-communication-vector-VLADGRIN-iStock-Thinkstock-531278671.jpg" alt="Group of human figures with speech bubbles above their heads." caption="" >}} 
 
 How can other agencies effectively tap into the vast knowledge and skill set of the tech-minded public? Former Open Opportunities contributors discussed how and why they got involved with the project and what is needed to make contributing easy.
 
@@ -53,6 +52,6 @@ Sarsam was interested in JavaScript projects because they were different from wh
 
 Sarsam said it was “fun to contribute to the government with the thing that I’m good at.”
 
-_This article is the second in a two part series. The first article addressed [how open, agile development has benefitted the Open Opportunities platform]({{< link "2016-01-04-how-agile-development-can-benefit-federal-projects.md" >}})._
+_This article is the second in a two part series. The first article addressed [how open, agile development has benefitted the Open Opportunities platform]({{< ref "2016-01-04-how-agile-development-can-benefit-federal-projects.md" >}})._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

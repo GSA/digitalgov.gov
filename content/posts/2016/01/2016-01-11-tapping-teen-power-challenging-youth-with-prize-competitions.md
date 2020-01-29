@@ -1,22 +1,21 @@
 ---
 slug: tapping-teen-power-challenging-youth-with-prize-competitions
 date: 2016-01-11 10:30:05 -0400
-title: Tapping ‘Teen Power’—Challenging Youth with Prize Competitions
+title: "Tapping ‘Teen Power’ — Challenging Youth with Prize Competitions"
 summary: 'Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. Challenge.gov has seen many federal agencies launch prize competitions to educate and engage high school students. These include a NASA challenge that asked students to develop devices that could protect astronauts from radiation during space flight.'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
-  - apps challenges
-  - ChallengeGov
-  - challenges and prize competitions
-  - NASA
-  - national science foundation
-  - NSF
+topics:
+  - challenges
+  - apps-challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - nasa
+  - national-science-foundation
+  - nsf
 ---
 
-Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. {{< legacy-img src="2016/01/600-x-400-High-School-Students-Create-Winning-Design-for-NASAs-First-Flight-of-Orion-14-119-edc_0.jpg" alt="NASA’s Administrator, Charles Bolden (left), Marillyn Hewson, President/CEO of Lockheed Martin (right), and astronaut Rex Walheim (back) stand with Team ARES, from the Governors School for Science and Technology in Hampton, Va., winners of the Exploration Design Challenge high school competition." caption="" >}} 
+Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. {{< legacy-img src="2016/01/600-x-400-High-School-Students-Create-Winning-Design-for-NASAs-First-Flight-of-Orion-14-119-edc_0.jpg" alt="NASA’s Administrator, Charles Bolden (left), Marillyn Hewson, President/CEO of Lockheed Martin (right), and astronaut Rex Walheim (back) stand with Team ARES, from the Governors School for Science and Technology in Hampton, Va., winners of the Exploration Design Challenge high school competition." caption="" >}}
 
 Challenge.gov has seen many federal agencies launch prize competitions to educate and engage high school students. These include a [NASA challenge](http://www.nasa.gov/press/2014/april/high-school-students-create-winning-design-for-nasas-first-flight-of-orion/#.Vorwk5MrIdV) that asked students to develop devices that could protect astronauts from radiation during space flight.
 

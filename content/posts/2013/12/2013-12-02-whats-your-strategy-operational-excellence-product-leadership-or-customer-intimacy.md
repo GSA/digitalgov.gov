@@ -5,10 +5,10 @@ title: What’s Your Strategy? Operational Excellence, Product Leadership or Cus
 summary: 'In the Discipline of Market Leaders by Michael Treacy and Fred Wiersema, we learned about the importance of being clear about your strategic priority.  What unique value do you bring to the marketplace and your customers?  In this book, they describe three strategic priorities'
 authors:
   - martha-dorris
-categories:
-  - strategy-and-policy
-tag:
-  - Customer Experience
+topics:
+  - strategy
+  - policy
+  - cx
 ---
 
 <p dir="ltr">

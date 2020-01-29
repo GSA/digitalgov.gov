@@ -5,15 +5,14 @@ title: NASA Pulls Together National Data to Sleuth Out Air Traffic Improvement M
 summary: 'For the first time ever, air traffic researchers can view and analyze archived flight data collected and merged from all air traffic facilities across the U.S., with fast update rates ranging from one second to 12 seconds for every flight’s position. Previously, researchers only had access to national flight data that was similar to internet'
 authors:
   - sharon-lozano
-categories:
-  - Data
-  - user-testing-and-research
-tag:
+topics:
   - data
-  - data visualization
+  - user-testing-and-research
+  - data
+  - data-visualization
   - FAA
   - Federal Aviation Administration
-  - NASA
+  - nasa
   - research
 ---
 

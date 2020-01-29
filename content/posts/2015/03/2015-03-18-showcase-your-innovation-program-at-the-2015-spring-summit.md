@@ -5,11 +5,10 @@ title: Showcase Your Innovation Program at the 2015 Spring Summit
 summary: ' Here&#8217;s another other opportunity to show DigitalGov innovators what you got! The spring Digital Citizen Services Summit will host an expo, like we did in 2014, where you can showcase your program or service. This way participants will get a chance to meet'
 authors:
   - apiazza
-categories:
-  - Managing Digital
-  - Our Work
-tag:
-  - DigitalGov Summit
+topics:
+  - product-management
+  - our-work
+  - digitalgov-summit
 ---
 
 {{< legacy-img src="2015/03/600-x-450-Expo-Masses1.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}

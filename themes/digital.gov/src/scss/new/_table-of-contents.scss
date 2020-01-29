@@ -1,0 +1,45 @@
+// Table of Contents
+
+
+// Hiding the bullets on the TOC except for the guide pages
+.toc:not(.guide-toc) {
+	@include u-bg('base-lightest');
+	ul{
+		@include add-list-reset;
+	}
+}
+
+.toc{
+	@include u-margin-bottom(5);
+	@include u-padding-x('205');
+	@include u-padding-y(2);
+	h4{
+		@include u-margin(0);
+		@include u-margin-bottom(2);
+	}
+
+	ul{
+		@include u-padding-left(2);
+		li{
+			@include u-margin-y('105');
+			@include u-font('sans', 'xs');
+			@include u-line-height('sans', 3);
+			overflow-wrap: break-word;
+			&:last-child{
+				@include u-margin-bottom(0);
+			}
+			a{
+				@include u-text('primary-dark');
+				@include u-text('no-underline');
+				&:hover{
+					@include u-text('underline');
+				}
+			}
+		}
+	}
+}
+
+/* Hides all navigation that is below an H2 */
+#TableOfContents ul ul{
+	display: none;
+}

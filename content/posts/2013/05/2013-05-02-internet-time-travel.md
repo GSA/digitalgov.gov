@@ -5,9 +5,8 @@ title: Internet Time Travel
 summary: 'The first public page on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time.'
 authors:
   - tammi-marcoullier
-categories:
-  - UX
-tag:
+topics:
+  - ux
   - NARA
 ---
 

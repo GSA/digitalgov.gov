@@ -7,12 +7,11 @@ authors:
   - carolyn-dew
   - melody-kramer
   - maya-benari
-categories:
-  - Content
-  - UX
-tag:
-  - 18F
-  - Draft Web Design Standards
+topics:
+  - content
+  - ux
+  - 18f
+  - draft-web-design-standards
 ---
 
 One of the most common questions we receive is: Should I integrate the Draft U.S. Web Design Standards into my existing project?

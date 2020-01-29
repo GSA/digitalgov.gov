@@ -5,14 +5,13 @@ title: 'The Content Corner: Making Those Connections'
 summary: ' A (possibly infamous) blog post from last Friday and the discussion/debate that followed reminded me of several important points that we all may lose'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
-  - content strategy
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
+  - content-strategy
   - infographic
-  - social media
-  - The Content Corner
+  - social-media
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/03/600-x-400-super-excited-dog-meme.jpg" alt="A Boxer (dog) appears to jump on a grassy area outdoors, with large black and white text added to the image that says: Super Excited About Memes" >}}
@@ -29,7 +28,7 @@ If the best way to achieve your communication goals with a particular audience i
 
 Along with audience determining your message, your message can help determine how you communicate it. I&#8217;m regularly hammering the term &#8220;efficient&#8221; when it comes to content and that is very important when you are examining what would best do the job. Again, it&#8217;s about efficiency and not so much about comfort levels (and I&#8217;m talking about my comfort levels, too).
 
-One great example of this that has gained popularity of late is the [infographic]({{< link "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" >}}). It&#8217;s fast and can quickly provide a ton of useful information to a user. Add animation (when you need to) and you have an even more effective communication tool.
+One great example of this that has gained popularity of late is the [infographic]({{< ref "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" >}}). It&#8217;s fast and can quickly provide a ton of useful information to a user. Add animation (when you need to) and you have an even more effective communication tool.
 
 [{{< legacy-img src="2015/03/600-x-325-quick-sprout.jpg" alt="A Rule of Thumb for images: 1) Don't add an image just to have an image. 2) Don't use boring or irrelevant images 3) Avoid overused stock photos 4) Keep size in mind depending on how you use visual images. Click image for full infographic." caption="" >}}](http://www.quicksprout.com/2015/03/20/the-ultimate-guide-to-creating-visually-appealing-content/?display=wide) 
 
@@ -43,10 +42,10 @@ As opposed to a video, if you have a brief segment without audio that you need t
 
 All the other stuff I write about is important:
 
-  * [Audits]({{< link "2015-03-09-the-content-corner-performing-a-content-audit.md" >}})
-  * [Structure]({{< link "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}})
-  * [Strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}})
+  * [Audits]({{< ref "2015-03-09-the-content-corner-performing-a-content-audit.md" >}})
+  * [Structure]({{< ref "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}})
+  * [Strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}})
 
 and I will keep writing about it, but every so often I need to go to [Smithsonian&#8217;s Tumblr](http://smithsonianlibraries.tumblr.com/tagged/gif) and remind myself how much fun this can and should be.
 
-We have to always remember that our main mission is reaching out and building community and making people&#8217;s lives better. That&#8217;s a wonderful responsibility and we have so many exciting [tools]({{< link "federal-compatible-terms-of-service-agreements.md" >}}) (with more popping up all the time) to play with and try and fail when needed. Animated gifs, kinetic infographics, live-streamed video: whatever it takes to make that connection, because that&#8217;s why we&#8217;re doing this. If you need to increase your comfort level with at least one of these visual platforms, then sign-up for [Essentials of Animated Gifs for Government]({{< tmp "events/essentials-of-animated-gifs-for-government.md" >}} "Essentials of Animated Gifs for Government")._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+We have to always remember that our main mission is reaching out and building community and making people&#8217;s lives better. That&#8217;s a wonderful responsibility and we have so many exciting [tools]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}) (with more popping up all the time) to play with and try and fail when needed. Animated gifs, kinetic infographics, live-streamed video: whatever it takes to make that connection, because that&#8217;s why we&#8217;re doing this. If you need to increase your comfort level with at least one of these visual platforms, then sign-up for [Essentials of Animated Gifs for Government]({{< tmp "events/essentials-of-animated-gifs-for-government.md" >}} "Essentials of Animated Gifs for Government")._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

@@ -6,13 +6,13 @@ summary: 'Being a remote team doesn’t mean you should forgo any of your resear
 authors:
   - nicole-fenton
   - jamie-albrecht
-categories:
+topics:
   - design
-  - managing-digital
-  - strategy-and-policy
+  - product-management
+  - strategy
+  - policy
   - user-testing-and-research
   - ux
-tag:
   - 18f
   - fbi
   - fec
@@ -21,11 +21,11 @@ tag:
   - research
   - sprint
   - us-department-of-the-interior
-  - us-web-design-standards
+  - uswds
   - user-research
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428
-  alt: 
+  alt:
 ---
 
 > _This post was originally published on the [18F blog](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/)._
@@ -104,4 +104,4 @@ Even though we’re a distributed team, we recognize that not all research metho
 
 _How do you manage remote research projects? Let us know on Twitter: [@18F](https://twitter.com/18F/)_
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
+_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

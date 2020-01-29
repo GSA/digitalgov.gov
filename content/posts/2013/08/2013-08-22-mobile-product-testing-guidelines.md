@@ -5,25 +5,24 @@ title: Mobile Product Testing Guidelines and Resources
 summary: You have started developing your mobile product, but you may be wondering what and how to test. As with any form of software development, mobile testing should be done intermittently throughout all development stages. This article was developed as part of the Mobile Application Development Program to provide agencies with some general testing strategies, types,
 authors:
   - jparcell
-categories:
-  - Mobile
+topics:
+  - mobile
   - user-testing-and-research
-tag:
-  - mobile apps
-  - user experience
-  - UX
+  - mobile-apps
+  - user-experience
+  - ux
 ---
 
 You have started developing your mobile product, but you may be wondering what and how to test. As with any form of software development, mobile testing should be done intermittently throughout all development stages.
 
-This article was developed as part of the [Mobile Application Development Program](https://digitalgov.sites.usa.gov/resources/mobile-application-development-program/ "Mobile Application Development Program") to provide agencies with some general testing strategies, types, tools and testing scripts. The information on these testing pages has been pulled from the Mobile Gov Community of Practice and private sector resources. Specific guidance on testing has been split into four broad categories.
+This article was developed as part of the [Mobile Application Development Program](https://digital.gov/resources/mobile-application-development-program/ "Mobile Application Development Program") to provide agencies with some general testing strategies, types, tools and testing scripts. The information on these testing pages has been pulled from the Mobile Gov Community of Practice and private sector resources. Specific guidance on testing has been split into four broad categories.
 
-  * [Functionality/Usability]({{< link "2013-05-25-functionality-and-usability-testing-resources.md" >}})
-  * [Security/Privacy](https://digitalgov.sites.usa.gov/2013/08/05/mobile-product-security-and-privacy-testing-resources/ "Mobile Product Security and Privacy Testing Resources")
-  * [Accessibility](https://digitalgov.sites.usa.gov/2013/07/31/mobile-product-accessibility-testing-resources/ "Mobile Product Accessibility Testing Resources")
-  * [Performance (how your mobile product affects a device&#8217;s ecosystem)](https://digitalgov.sites.usa.gov/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing")
+  * [Functionality/Usability]({{< ref "2013-05-25-functionality-and-usability-testing-resources.md" >}})
+  * [Security/Privacy](https://digital.gov/2013/08/05/mobile-product-security-and-privacy-testing-resources/ "Mobile Product Security and Privacy Testing Resources")
+  * [Accessibility](https://digital.gov/2013/07/31/mobile-product-accessibility-testing-resources/ "Mobile Product Accessibility Testing Resources")
+  * [Performance (how your mobile product affects a device&#8217;s ecosystem)](https://digital.gov/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing")
 
-Each of these pages provides government guidance, further strategies, resources and tools like testing scripts and checklists. If you are in the early stages of mobile development, be sure to check out the [User Experience Guidelines and Recommendations](https://digitalgov.sites.usa.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations") which contain resources for the design stage, as well as our [sample Mobile SOW&#8217;s]({{< link "mobile-sow-and-developer-qualifications.md" >}} "Mobile SOW and Developer Qualifications") pages which contain sample contracting language for vendor testing. The [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program") offers agencies the ability to have their web-based mobile products tested on many different devices by federal employee volunteers through the Open Opportunities program.
+Each of these pages provides government guidance, further strategies, resources and tools like testing scripts and checklists. If you are in the early stages of mobile development, be sure to check out the [User Experience Guidelines and Recommendations](https://digital.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations") which contain resources for the design stage, as well as our [sample Mobile SOW&#8217;s]({{< ref "mobile-sow-and-developer-qualifications.md" >}} "Mobile SOW and Developer Qualifications") pages which contain sample contracting language for vendor testing. The [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program") offers agencies the ability to have their web-based mobile products tested on many different devices by federal employee volunteers through the Open Opportunities program.
 
 In June 2012, the testing group at NIH provided guidance on different types of mobile testing.
 
@@ -65,7 +64,7 @@ In June 2012, the testing group at NIH provided guidance on different types of m
               * Utest
               * <a href="http://www.mob4hire.com/" rel="nofollow">Mob4hire</a>
               * <a href="http://www.usertesting.com/" rel="nofollow">Usertesting.com</a>
-              * The [Federal Mobile Crowdsource Testing program](https://digitalgov.sites.usa.gov/services/open-opportunities-mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program") provides this service for free to federal agencies.
+              * The [Federal Mobile Crowdsource Testing program](https://digital.gov/services/open-opportunities-mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program") provides this service for free to federal agencies.
       * In-house (Using resources available on-hand)
           * Limited to what is available.
           * Can be expensive if thoroughness is a goal.
@@ -93,25 +92,25 @@ In June 2012, the testing group at NIH provided guidance on different types of m
   * Update policy
       * Android – able to push out updates whenever needed.
       * Apple, Amazon, Microsoft – updates go through same approval process as initial app submission. Apple allows for fast-track approval for updates, but is only reserved for apps that constantly crash or issues concerning security
-  * [Functionality](https://digitalgov.sites.usa.gov/2014/01/21/functionality-and-usability-testing-resources/ "Functionality and Usability Testing Resources")
+  * [Functionality](https://digital.gov/2014/01/21/functionality-and-usability-testing-resources/ "Functionality and Usability Testing Resources")
       * Needs to be tested on specific/targeted devices to make sure it is functional on different pieces of hardware.
       * Test on different OS versions (latest and legacy OS).
       * Test on different carriers.
       * Test on different browsers (if a web app).
-      * Check our article on [Compatibility Testing]({{< link "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" >}} "Mobile Product Compatibility and Functional Testing 101")
-  * [Security](https://digitalgov.sites.usa.gov/2013/08/05/mobile-product-security-and-privacy-testing-resources/ "Mobile Product Security and Privacy Testing Resources")
+      * Check our article on [Compatibility Testing]({{< ref "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" >}} "Mobile Product Compatibility and Functional Testing 101")
+  * [Security](https://digital.gov/2013/08/05/mobile-product-security-and-privacy-testing-resources/ "Mobile Product Security and Privacy Testing Resources")
       * Is private data kept private?
           * Stored personal data is password protected and/or encrypted.
           * Transmission of personal data from device to device is encrypted.
           * Limit user privileges (i.e. limiting access to certain files).
-  * [Load and Performance](https://digitalgov.sites.usa.gov/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing")
+  * [Load and Performance](https://digital.gov/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing")
       * Test for lagging issues on lesser-ended devices/hardware.
       * Test download speeds on different networks in different areas.
       * Battery usage – does the app heavily drain the device’s battery.
       * Scalability &#8212; ensure the app can handle the success scenario of getting used by a large group of people
           * Web services available to mimic load
           * Utest
-  * [Accessibility/Usability](https://digitalgov.sites.usa.gov/2013/07/31/mobile-product-accessibility-testing-resources/ "Mobile Product Accessibility Testing Resources")
+  * [Accessibility/Usability](https://digital.gov/2013/07/31/mobile-product-accessibility-testing-resources/ "Mobile Product Accessibility Testing Resources")
       * Currently, there are no clear Section 508 rules for native apps.
       * Web apps _should_ be fully accessible and Section 508 compliant.
           * iOS

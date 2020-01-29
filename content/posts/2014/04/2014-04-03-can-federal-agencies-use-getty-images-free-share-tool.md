@@ -5,18 +5,17 @@ title: Can Federal Agencies Use Getty Images’ Free Share Tool?
 summary: 'Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its’ copyrighted images for free. The news generated headlines and questions about whether it’s okay for government content producers to use the tool. From Getty’s perspective, the'
 authors:
   - judith-snyderman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - DoD
-  - Facebook
-  - Instagram
+  - facebook
+  - instagram
   - Library of Congress
   - LOC
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - Twitter
-  - US Department of State
-  - United States Department of Defense
+  - us-department-of-state
+  - united-states-department-of-defense
 
 ---
 

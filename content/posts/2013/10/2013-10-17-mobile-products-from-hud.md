@@ -3,14 +3,13 @@ slug: mobile-products-from-hud
 date: 2013-10-17 15:16:10 -0400
 title: Mobile Products from HUD
 summary: ' The Department of Housing and Urban Development has two apps that can help citizens learn about their housing rights, locate housing counselors and file housing discrimination complaints. The HUD Counselor Locator App allows smartphone and tablet users to locate housing counselors in their own area'
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - HUD
-  - mobile apps
-  - mobile gov
-  - Thursday Mobile Products
-  - United States Department of Housing and Urban Development
+  - mobile-apps
+  - mobile-gov
+  - thursday-mobile-products
+  - united-states-department-of-housing-and-urban-development
 ---
 
 [{{< legacy-img src="2013/10/HUD-Mobile-Apps.png" alt="Screen shot showing HUD's mobile app home screens" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/HUD-Mobile-Apps.png)

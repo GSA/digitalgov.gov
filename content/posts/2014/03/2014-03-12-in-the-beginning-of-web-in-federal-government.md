@@ -5,29 +5,28 @@ title: 'In the Beginning&#8230;of Web in Federal Government'
 summary: ' With the 25th anniversary of the Web, we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since. The State Department may have been one of the first, in 1991, with a'
 authors:
   - andreanocesigritz
-categories:
-  - Content
-tag:
+topics:
+  - content
   - CNCS
   - Corporation for National and Community Service
   - Court Services and Offender Supervision Agency
   - CSOSA
-  - DHS
-  - EPA
-  - FEMA
+  - dhs
+  - epa
+  - fema
   - Government Publishing Office
   - GPO
   - HHS
   - HUD
   - NARA
-  - NASA
-  - National Archives and Records Administration
-  - US Department of State
-  - United States Department of Health and Human Services
-  - United States Department of Homeland Security
-  - United States Department of Housing and Urban Development
-  - USAgov
-  - Web Content Managers Forum
+  - nasa
+  - national-archives-and-records-administration
+  - us-department-of-state
+  - united-states-department-of-health-and-human-services
+  - united-states-department-of-homeland-security
+  - united-states-department-of-housing-and-urban-development
+  - usagov
+  - web-content-managers-forum
 ---
 
 {{< legacy-img-right src="2014/03/Birthday-Cake\_Internet\_World-Wide-Web\_25-years-old\_Featured_301x212-250x176.jpg" alt="The internet is 25 years old!" >}}With the [25th anniversary of the Web](http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/), we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since.

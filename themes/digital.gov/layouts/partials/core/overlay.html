@@ -1,0 +1,11 @@
+<div id="overlay" class="page-details display-none">
+  <div class="contents">
+    <h6>File name</h6>
+    {{- with .File -}}<p>{{- .LogicalName -}}</p>{{- end -}}
+    <h6>File path</h6>
+    {{- with .File -}}<p>{{- .Path }}</p>{{- end -}}
+    <h6>Link Shortcode</h6>
+    {{- with .File -}}<p>&#x0007B;&#x0007B;&#x0003C; link "{{- .Path }}<p>" &#x0003E;&#x0007D;&#x0007D;</p>{{- end -}}
+    <button class="close" type="button" name="button">close</button>
+  </div>
+</div>

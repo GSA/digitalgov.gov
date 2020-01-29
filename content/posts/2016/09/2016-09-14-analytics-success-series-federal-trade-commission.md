@@ -5,25 +5,24 @@ title: 'Analytics Success Series: Federal Trade Commission'
 summary: 'FTC’s Analytics Success: Making mission-related tasks easier for the user to find In the summer of  2015, members of the Federal Trade Commission’s Office of Public Affairs (OPA) Web team worked with their FTC colleagues to analyze Digital Analytics Program (DAP) Google Analytics data (onsite search queries, landing pages, pageviews, etc.) for FTC.gov. We found'
 authors:
   - chris-noonan-sturm
-categories:
-  - Data
-  - Metrics
-  - Our Work
-tag:
-  - analytics
-  - DAP
+topics:
   - data
-  - Digital Analytics Program
+  - metrics
+  - our-work
+  - analytics
+  - dap
+  - data
+  - digital-analytics-program
   - Federal Trade Commission
   - FTC
   - metrics
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 _FTC’s Analytics Success: Making mission-related tasks easier for the user to find_
 
-In the summer of  2015, members of the Federal Trade Commission’s Office of Public Affairs (OPA) Web team worked with their FTC colleagues to analyze <a href="{{< link "/dap/" >}}" target="_blank">Digital Analytics Program</a> (DAP) Google Analytics data (onsite search queries, landing pages, pageviews, etc.) for <a href="https://www.ftc.gov/" target="_blank">FTC.gov</a>. We found that many visitors were coming to the site to perform mission-related tasks, such as filing a complaint or reporting identity theft. Unfortunately, we didn’t make those tasks obvious on the homepage – in fact, most of them were hidden under the global navigation menu. At the time, most of the homepage was informational, not task- or customer-oriented. In addition to the data analysis, we also conducted internal interviews to learn about any other tasks we should make more visible.
+In the summer of  2015, members of the Federal Trade Commission’s Office of Public Affairs (OPA) Web team worked with their FTC colleagues to analyze <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program</a> (DAP) Google Analytics data (onsite search queries, landing pages, pageviews, etc.) for <a href="https://www.ftc.gov/" target="_blank">FTC.gov</a>. We found that many visitors were coming to the site to perform mission-related tasks, such as filing a complaint or reporting identity theft. Unfortunately, we didn’t make those tasks obvious on the homepage – in fact, most of them were hidden under the global navigation menu. At the time, most of the homepage was informational, not task- or customer-oriented. In addition to the data analysis, we also conducted internal interviews to learn about any other tasks we should make more visible.
 
 Armed with this information, we revised the <a href="https://www.ftc.gov/" target="_blank">FTC.gov</a> homepage in October 2015 and added a new area called “Take Action,” cleanly and prominently displayed at the top of the page. On the mobile version of the site, we made the Take Action section cover the entire screen upon landing on the homepage. The purpose of the change was to enable consumers to very quickly find the “top tasks” that motivated them to visit <a href="https://www.ftc.gov/" target="_blank">FTC.gov</a>. We sought to measure success by comparing data from the month before the change, and the month afterward.
 

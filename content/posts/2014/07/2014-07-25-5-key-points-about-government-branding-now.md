@@ -5,14 +5,13 @@ title: 5 Key Points About Government Branding Now
 summary: 'Recently, I had the pleasure of speaking (in my own capacity) before the Council for Inspectors General for Integrity and Efficiency Public Affairs Officers (CIGIE-PAO) task force about branding. The invitation came by way of a colleague I greatly respect. Bridget Serchak is currently Chief of Public Affairs for the Department of Defense Inspector General and'
 authors:
   - dannielle-blumenthal
-categories:
-  - Content
-  - Social Media
-tag:
+topics:
+  - content
+  - social-media
   - DoD
   - NARA
-  - National Archives and Records Administration
-  - United States Department of Defense
+  - national-archives-and-records-administration
+  - united-states-department-of-defense
 ---
 
 {{< legacy-img src="2014/07/600-x-200-Social-media-promotion-bayhayalet-iStock-Thinkstock-451410203.jpg" alt="Puzzle pieces show a good brand can dangle a carrot (something they know that the customer wants), leading to a social media thumbs up or Like." caption="" >}} 

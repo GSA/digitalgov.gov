@@ -5,16 +5,15 @@ title: Is It Time to Try Medium? New Federal-Friendly Terms of Service
 summary: What is Medium? Good question. Is it a publishing platform, a social network, a distribution channel, a 21st century version of the op-ed page, or something else? With a continuously evolving feature-set, Medium defies simple classification. Perhaps it is best to think about Medium in terms of what you can accomplish with it. With a
 authors:
   - dana-allen-greil
-categories:
-  - Social Media
-tag:
-  - Terms of Service
-  - TOS
+topics:
+  - social-media
+  - terms-of-service
+  - tos
 ---
 
 ## What is Medium?
 
-Good question. Is it a [publishing platform](http://lifehacker.com/whats-with-new-blogging-platforms-like-medium-should-1518292181), a [social network](https://medium.com/@colinwalker/being-a-network-84213744966e), a [distribution channel](http://contentmarketinginstitute.com/2015/06/medium-betting-email-podcast/), a [21st century version of the op-ed page](http://www.washingtonpost.com/news/powerpost/wp/2015/07/02/can-medium-replace-the-op-ed-page/), or [something else](https://medium.com/the-story/creating-conversation-bac37bac2bcf)? With a continuously evolving feature-set, Medium defies simple classification. Perhaps it is best to think about Medium in terms of what you can accomplish with it. With a new [federal-friendly terms of service]({{< link "federal-compatible-terms-of-service-agreements.md" >}}) being rolled out this week, now is a good time to reconsider Medium’s use (and usefulness) in government.
+Good question. Is it a [publishing platform](http://lifehacker.com/whats-with-new-blogging-platforms-like-medium-should-1518292181), a [social network](https://medium.com/@colinwalker/being-a-network-84213744966e), a [distribution channel](http://contentmarketinginstitute.com/2015/06/medium-betting-email-podcast/), a [21st century version of the op-ed page](http://www.washingtonpost.com/news/powerpost/wp/2015/07/02/can-medium-replace-the-op-ed-page/), or [something else](https://medium.com/the-story/creating-conversation-bac37bac2bcf)? With a continuously evolving feature-set, Medium defies simple classification. Perhaps it is best to think about Medium in terms of what you can accomplish with it. With a new [federal-friendly terms of service]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}) being rolled out this week, now is a good time to reconsider Medium’s use (and usefulness) in government.
 
 ## Why Use Medium?
 

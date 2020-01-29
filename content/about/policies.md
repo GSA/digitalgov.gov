@@ -10,13 +10,13 @@ aliases:
 
 ## Comment Policy
 
-{{< legacy-img src="/2013/12/250-x-290-Keep-Calm-and-Follow-the-Rules-meme-ScreenShot-December-19th-2013-at-12-55-16pm.jpg" alt="Screen capture of an internet Keep Calm meme that says: Keep Calm and Follow the Rules" >}}
+{{< legacy-img-right src="/2013/12/250-x-290-Keep-Calm-and-Follow-the-Rules-meme-ScreenShot-December-19th-2013-at-12-55-16pm.jpg" alt="Screen capture of an internet Keep Calm meme that says: Keep Calm and Follow the Rules" >}}
 
 Comments are available on many pages and posts on this site. We welcome your comments and expect that our conversation will follow the general rules of respectful civil discourse. We will only post comments related to our purpose. We will review comments for posting within one business day. You&#8217;re fully responsible for everything that you submit in your comments, and all posted comments are in the public domain. We don&#8217;t discriminate against any views, but we reserve the right to not post comments. We do not post comments that are off-topic, spam, or overtly self-promoting.
 
 ## Privacy
 
-The U.S. General Services Administration (GSA) Office of Products and Programs will not share or sell any of your personal information with any other organization or government agency except as required by law. Please view [GSA’s privacy and security notice](http://www.gsa.gov/portal/content/116609).
+The U.S. General Services Administration (GSA) will not share or sell any of your personal information with any other organization or government agency except as required by law. Please view [GSA’s privacy and security notice](http://www.gsa.gov/portal/content/116609).
 
 ### Cookies and Analytics
 
@@ -34,7 +34,7 @@ This site may include useful hypertext links or pointers to information created 
   * is not responsible for transmissions users receive from linked websites
   * does not guarantee that outside websites comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act
 
-## Reuse & Copyright
+## Reuse and Copyright
 
 Most material on DigitalGov is free of copyright and may be copied and distributed without permission. We are flattered that you want to share. Citation of DigitalGov and a link back is much appreciated.
 

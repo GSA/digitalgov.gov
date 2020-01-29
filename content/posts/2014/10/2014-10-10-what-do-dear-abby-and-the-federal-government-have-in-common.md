@@ -6,11 +6,10 @@ summary: 'Lots of people ask us questions. So it only makes sense for us to part
 authors:
   - jacqueline-snee
   - jessica-milcetich
-categories:
-  - Content
-  - Metrics
-tag:
-  - USAgov
+topics:
+  - content
+  - metrics
+  - usagov
 ---
 
 {{< legacy-img src="2014/10/250-x-313-large-Dear-Abby-red-image.jpg" alt="250-x-313-large-Dear-Abby-red-image" >}}Lots of people ask us questions.

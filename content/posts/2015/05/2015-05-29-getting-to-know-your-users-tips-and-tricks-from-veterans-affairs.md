@@ -6,18 +6,17 @@ summary: 'Design research isn’t rocket science. But for many of us in the fede
 authors:
   - sarah-brooks
   - mollie-ruskin
-categories:
-  - Managing Digital
-  - Monthly Theme
-  - UX
-tag:
-  - Customer Experience
-  - customer satisfaction
-  - customer service
-  - Personas
-  - US Department of Veterans Affairs
-  - user centered design
-  - user experience
+topics:
+  - product-management
+  - monthly-theme
+  - ux
+  - cx
+  - customer-satisfaction
+  - customer-service
+  - personas
+  - us-department-of-veterans-affairs
+  - user-centered-design
+  - user-experience
   - VA
 ---
 
@@ -25,7 +24,7 @@ tag:
 
 Design research isn’t rocket science. But for many of us in the federal government, it can seem daunting and unfamiliar. We’re here to to help demystify the process of design research for those of you ready to wade into the waters.
 
-We’ve both done our fair share of design researching at the Department of Veterans Affairs (VA) over the past year. It hasn’t been easy—we’ve worked under itty bitty budgets and crazy timelines. Many doubted the value of the work or hadn’t been exposed to the design research approach before. Many equated research with [focus groups]({{< link "2015-04-17-focus-groups-are-they-right-for-you.md" >}}), or demographic breakdowns of user data. But the need to bring rich insight into veterans’ experiences with VA was strong—so getting through the hurdles was worthwhile.
+We’ve both done our fair share of design researching at the Department of Veterans Affairs (VA) over the past year. It hasn’t been easy—we’ve worked under itty bitty budgets and crazy timelines. Many doubted the value of the work or hadn’t been exposed to the design research approach before. Many equated research with [focus groups]({{< ref "2015-04-17-focus-groups-are-they-right-for-you.md" >}}), or demographic breakdowns of user data. But the need to bring rich insight into veterans’ experiences with VA was strong—so getting through the hurdles was worthwhile.
 
 ## 1. Getting ready: Figure out what you’re trying to figure out.
 
@@ -47,7 +46,7 @@ Six months later, when we wanted to build on the first research sprint, we conti
 
 Human-centered design research intentionally surfaces ‘thick’ data over ‘big data,’ which is to say: it takes small numbers of users (between 20 and 100) and delves deeply into their human needs, desires, motivations, and behaviors. Whereas quantitative studies often draw from large sample sizes to uncover statistically significant data, and focus groups and online feedback forms gather customer opinions, ethnography and design research are intended to complement this information with a deeper understanding of the nuanced and complex lives of customers.
 
-A quick note: why 1:1 in-depth [interviews]({{< link "2015-05-26-5-crucial-steps-for-conducting-an-effective-customer-interview.md" >}}) vs. focus groups? Because you learn different things in one-on-one interviews. Think of talking to a high schooler about picking a college while sitting next to their parent, or a group of peers, versus having this conversation with them, by themselves. The conversation will be different.
+A quick note: why 1:1 in-depth [interviews]({{< ref "2015-05-26-5-crucial-steps-for-conducting-an-effective-customer-interview.md" >}}) vs. focus groups? Because you learn different things in one-on-one interviews. Think of talking to a high schooler about picking a college while sitting next to their parent, or a group of peers, versus having this conversation with them, by themselves. The conversation will be different.
 
 People are influenced by many cognitive biases. In focus groups, we’re particularly influenced by social desirability bias—the tendency to over-report what we think people want to hear, and under-report what we think people don’t. The more direct route to get to an understanding of what people are really thinking and feeling is to speak with them individually, or on occasion, with a trusted family member or close friend if they are particularly reticent to speak 1:1.
 
@@ -81,7 +80,7 @@ We did nightly synthesis on the road, from restaurant lounges to hotel rooms. As
 
 ## 6. Bringing it home: Craft the story and find the right format.
 
-At the end of the day, you are a designer. (Yes you, all of you). You have the power—and responsibility—to create something meaningful, engaging and useful out of this sea of information you’ve just amassed. Your stakeholders—fancy bosses and busy agency partners and stretched-thin product managers—don’t need all of the beautiful insights you’ve gleaned. They need a story about what you learned. You need to take the themes you pulled out of the research and build a narrative. At this point, you’ll start to think about the shape your story will take. Are you sharing specific insights about trends in your user groups? Then perhaps [personas]({{< link "2015-01-09-personas-101.md" >}})—or archetypes of your customers—will help you. Or are you trying to communicate painpoints in a user’s path through your service? A customer journey map might do the trick. These are just a few of the formats for capturing the insights.
+At the end of the day, you are a designer. (Yes you, all of you). You have the power—and responsibility—to create something meaningful, engaging and useful out of this sea of information you’ve just amassed. Your stakeholders—fancy bosses and busy agency partners and stretched-thin product managers—don’t need all of the beautiful insights you’ve gleaned. They need a story about what you learned. You need to take the themes you pulled out of the research and build a narrative. At this point, you’ll start to think about the shape your story will take. Are you sharing specific insights about trends in your user groups? Then perhaps [personas]({{< ref "2015-01-09-personas-101.md" >}})—or archetypes of your customers—will help you. Or are you trying to communicate painpoints in a user’s path through your service? A customer journey map might do the trick. These are just a few of the formats for capturing the insights.
 
 ### What we did at VA:
 

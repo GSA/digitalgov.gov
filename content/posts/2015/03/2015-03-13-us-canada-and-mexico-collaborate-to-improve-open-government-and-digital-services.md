@@ -5,23 +5,23 @@ title: US, Canada, and Mexico Collaborate to Improve Open Government and Digital
 summary: 'Many forces are converging to strengthen the political, economic and commercial ties that bind the United States, Canada and Mexico. The GSA Office of Citizen Services and Innovative Technologies (OCSIT) has anticipated this drive toward collaboration for decades, building a network of links among the three nations’ Chief Information Officers and other national technology and'
 authors:
   - darlene-meskell
-categories:
-  - Governance
-  - Monthly Theme
-  - strategy-and-policy
-tag:
-  - 18F
-  - Connect.gov
-  - data.gov
+topics:
+  - governance
+  - monthly-theme
+  - strategy
+  - policy
+  - 18f
+  - connect-gov
+  - data-gov
   - FOIA
-  - GSA
+  - gsa
   - metadata
-  - open data
-  - open source
-  - US Digital Service
+  - open-data
+  - open-source
+  - us-digital-service
 ---
 
-{{< legacy-img src="2015/03/600-x-400-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="Globe and computer keyboard" caption="" >}} 
+{{< legacy-img src="2015/03/600-x-400-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="Globe and computer keyboard" caption="" >}}
 
 Many forces are converging to strengthen the political, economic and commercial ties that bind the United States, Canada and Mexico. The GSA Office of Citizen Services and Innovative Technologies (OCSIT) has anticipated this drive toward collaboration for decades, building a network of links among the three nations’ Chief Information Officers and other national technology and data experts.
 

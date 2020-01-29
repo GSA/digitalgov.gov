@@ -2,26 +2,26 @@
 slug: the-next-step-towards-a-bug-bounty-program-for-the-technology-transformation-service
 date: 2017-05-18 2:00:07 -0400
 title: The Next Step Towards a Bug Bounty Program for the Technology Transformation Service
-summary: 'On May 9, we took a big step toward creating a bug bounty program for our agency by issuing an award to HackerOne for a Software-as-a-Service bug-reporting platform. The TTS Bug Bounty will be a security initiative to pay people for identifying bugs and security holes in software operated by the General Service Administration’s Technology'
+summary: 'We took a big step toward creating a bug bounty program for our agency by issuing an award to HackerOne for a Software-as-a-Service bug-reporting platform.'
 authors:
   - eric-mill
   - omid-ghaffari-tabrizi
   - waldo-jaquith
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - product-management
+  - strategy
+  - policy
+  - 18f
   - DoD
   - security
-  - Technology Transformation Service
-  - TTS
-  - United States Department of Defense
+  - technology-transformation-services
+  - tts
+  - united-states-department-of-defense
 ---
 
 On May 9, we took a big step toward creating a bug bounty program for our agency by issuing an award to HackerOne for a Software-as-a-Service bug-reporting platform. The TTS Bug Bounty will be a security initiative to pay people for identifying bugs and security holes in software operated by the General Service Administration’s Technology Transformation Service (TTS), which includes 18F. This will be the first public bug bounty program run by a civilian agency, and follows in the footsteps of the [Hack the Pentagon](https://www.defense.gov/News/News-Releases/News-Release-View/Article/802929/defense-secretary-ash-carter-releases-hack-the-pentagon-results) and [Hack the Army](https://www.army.mil/article/178473/army_secretary_issues_challenge_with_hack_the_army_program) bug bounty programs run by the Department of Defense.
 
-Before launching the TTS Bug Bounty program, we issued the [TTS vulnerability disclosure policy](https://18f.gsa.gov/vulnerability-disclosure-policy/) in November. This policy outlines how researchers can report system vulnerabilities, while keeping personal and financial information safe. Bug bounties, which offer payouts for such reports, provide incentives for security researchers and other interested users to report security issues directly to the system owner through the use of financial rewards. {{< legacy-img src="2017/05/600-x-400-2-72-dpi-Software-development-and-debugging-concept.-Bug-found-in-binary-code-vchal-iStock-Thinkstock-504819900.jpg" alt="Software development and debugging concept. Bug found in binary code with magnifying glass." caption="" >}} 
+Before launching the TTS Bug Bounty program, we issued the [TTS vulnerability disclosure policy](https://18f.gsa.gov/vulnerability-disclosure-policy/) in November. This policy outlines how researchers can report system vulnerabilities, while keeping personal and financial information safe. Bug bounties, which offer payouts for such reports, provide incentives for security researchers and other interested users to report security issues directly to the system owner through the use of financial rewards. {{< legacy-img src="2017/05/600-x-400-2-72-dpi-Software-development-and-debugging-concept.-Bug-found-in-binary-code-vchal-iStock-Thinkstock-504819900.jpg" alt="Software development and debugging concept. Bug found in binary code with magnifying glass." caption="" >}}
 
 ## What is a “bug bounty” program? {#what-is-a-bug-bounty-program}
 

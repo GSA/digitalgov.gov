@@ -5,21 +5,20 @@ title: 'StudentAid.gov&#8217;s 1st Year: What We&#8217;ve Learned and Where We&#
 summary: ' Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid.  Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid. In my last post,'
 authors:
   - brenda-wensil
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
-  - Customer Experience
+  - ux
+  - cx
   - FAFSA
   - FSA
-  - US Department of Education
+  - us-department-of-education
 ---
 
 {{< legacy-img src="2014/01/federal-student-aid.jpg" alt="federal student aid" >}}
 
 _Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid. Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._
 
-In [my last post]({{< link "2013-09-06-studentaid-gov-improving-the-college-financing-experience.md" >}}), I shared about last year&#8217;s launch of <a href="http://studentaid.ed.gov/" target="_blank">StudentAid.gov</a> by the U.S. Department of Education&#8217;s Office of Federal Student Aid (FSA). The new site consolidates and combines content and interactive tools from multiple web sites and features instructional videos and infographics to help answer frequent questions about federal financial aid.
+In [my last post]({{< ref "2013-09-06-studentaid-gov-improving-the-college-financing-experience.md" >}}), I shared about last year&#8217;s launch of <a href="http://studentaid.ed.gov/" target="_blank">StudentAid.gov</a> by the U.S. Department of Education&#8217;s Office of Federal Student Aid (FSA). The new site consolidates and combines content and interactive tools from multiple web sites and features instructional videos and infographics to help answer frequent questions about federal financial aid.
 
 Fast forward a year, and while we still have lots of enhancements to make, we are seeing some great results and have a few friends in the industry telling us we are on the right track.
 

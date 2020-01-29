@@ -5,15 +5,14 @@ title: 'Keep a Strong Job Search Game with USA.gov&#8217;s Federal Mobile Apps D
 summary: 'Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the USA.gov Federal Mobile Apps Directory. Federal job hunters are no longer confined to desktop websites, so check'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Internal Revenue Service
   - IRS
-  - Thursday Mobile Products
-  - US Department of Justice
-  - US Department of State
-  - USA.gov Federal Mobile Apps Directory
+  - thursday-mobile-products
+  - us-department-of-justice
+  - us-department-of-state
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/02/250-x-410-IRSgov-mobile-jobs-site-How-to-Apply.jpg" alt="IRSgov's mobile jobs site How to Apply page." >}}Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml).
@@ -26,4 +25,4 @@ While you may be familiar with the [USAJobs mobile app](https://help.usajobs.gov
 
 And don’t forget the Department of Justice Law Jobs app, currently available for [iPhones](https://itunes.apple.com/us/app/doj-law-jobs/id905071111?mt=8). Use this app to quickly find attorney jobs and legal internships within the Justice Department.
 
-Have another federal job search app? Let me know about it in the comments, and include why you love it._You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._
+Have another federal job search app? Let me know about it in the comments, and include why you love it._You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._

@@ -5,42 +5,41 @@ title: 'Challenges, Crowdsourcing, Citizen Science: What&#8217;s the Dif?'
 summary: 'There’s more than one way to harness the wisdom of the crowd. In honor of December’s monthly theme, we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two’s company, three’s a crowd&mdash;and getting input from many is crowdsourcing. A White House'
 authors:
   - awichman
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
-tag:
+  - monthly-theme
   - Bureau of Reclamation
   - CFPB
-  - ChallengeGov
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - Consumer Financial Protection Bureau
   - crowdfunding
   - crowdsourcing
-  - EPA
+  - epa
   - FCPCCS
-  - GSA
+  - gsa
   - HHS
   - innovation
-  - NASA
-  - National Oceanic and Atmospheric Administration
+  - nasa
+  - national-oceanic-and-atmospheric-administration
   - NOAA
-  - prizes and competitions
+  - prizes-and-competitions
   - US Department of Agriculture
-  - US Environmental Protection Agency
-  - United States Department of Energy
-  - United States Department of Health and Human Services
-  - United States Geological Survey
+  - us-environmental-protection-agency
+  - united-states-department-of-energy
+  - united-states-department-of-health-and-human-services
+  - united-states-geological-survey
   - USDA
   - USGS
 ---
 
 There’s more than one way to harness the wisdom of the crowd.
 
-In honor of December’s [monthly theme]({{< link "2015-12-08-challenges-crowdsourcing-a-quick-overview-and-look-ahead.md" >}}), we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives.
+In honor of December’s [monthly theme]({{< ref "2015-12-08-challenges-crowdsourcing-a-quick-overview-and-look-ahead.md" >}}), we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives.
 
 ## Crowdsourcing
 
@@ -54,7 +53,7 @@ Efforts range from technical skills to scientific data to creative and visionary
 
   * Notice a change in landscape after a disaster? The U.S. Geological Survey (USGS) is collecting data to understand the broader impact of natural disasters, and citizens around the country are sharing what they know online through [iCoast](http://coastal.er.usgs.gov/icoast/).
   * Can you fix a technical bug with your programming skills? The Department of Health and Human Services’s (HHS) Centers for Medicare and Medicaid Services ran 100 technical challenge competitions to build a large-scale fraud detection platform. People could contribute micro- and macro-level programming skills.
-  * Have ideas about solar power? The Department of Energy launched an ideation program, [SunShot Catalyst]({{< link "2015-08-07-an-innovation-framework-that-delivers-the-sunshot-catalyst-program.md" >}}), to gather ideas from around the world about how to make solar energy cost-competitive.
+  * Have ideas about solar power? The Department of Energy launched an ideation program, [SunShot Catalyst]({{< ref "2015-08-07-an-innovation-framework-that-delivers-the-sunshot-catalyst-program.md" >}}), to gather ideas from around the world about how to make solar energy cost-competitive.
 
 These are just three examples out of hundreds of crowdsourcing initiatives in government that bridge collaboration and community among the federal government and the public. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
 
@@ -80,8 +79,8 @@ A [White House blog post](https://www.whitehouse.gov/blog/2014/12/02/designing-c
 
 Citizen science contributions help advance a variety of federal projects:
 
-  * The U.S. Geological Survey (USGS) works with citizen scientists to discover, collect and organize a variety of scientific data; one notable USGS citizen science project is [tracking bird species]({{< link "2015-01-20-usgs-where-citizen-science-is-for-the-birds.md" >}}).
-  * The National Oceanic and Atmospheric Administration (NOAA) has three mobile applications that are based on contributions from citizen scientists: [Dolphin and Whale 911]({{< link "2013-10-24-dolphin-and-whale-apps-from-noaa-fisheries.md" >}}), [Release Mako]({{< link "2013-11-14-noaa-release-mako-now-on-ios.md" >}}) and [CrowdMag]({{< link "2015-06-18-noaas-crowdmag-app-citizen-science-on-the-go.md" >}}).
+  * The U.S. Geological Survey (USGS) works with citizen scientists to discover, collect and organize a variety of scientific data; one notable USGS citizen science project is [tracking bird species]({{< ref "2015-01-20-usgs-where-citizen-science-is-for-the-birds.md" >}}).
+  * The National Oceanic and Atmospheric Administration (NOAA) has three mobile applications that are based on contributions from citizen scientists: [Dolphin and Whale 911]({{< ref "2013-10-24-dolphin-and-whale-apps-from-noaa-fisheries.md" >}}), [Release Mako]({{< ref "2013-11-14-noaa-release-mako-now-on-ios.md" >}}) and [CrowdMag]({{< ref "2015-06-18-noaas-crowdmag-app-citizen-science-on-the-go.md" >}}).
 
 ## Open Innovation Competitions
 
@@ -101,7 +100,7 @@ Among the most recent competitions:
   * The Environmental Protection Agency (EPA) is looking for [technologies to recycle nutrients from livestock manure](https://www.challenge.gov/challenge/nutrient-recycling-challenge/).
   * The Bureau of Reclamation is looking for solutions to [count food for critical fish species](https://www.challenge.gov/challenge/quantifying-drift-invertebrates-in-river-and-estuary-systems/).
 
-Read more about [successful federal challenges]({{< link "categories/challenges" >}}) and best practices for those interested in hosting one.
+Read more about [successful federal challenges]({{< ref "/topics/challenges" >}}) and best practices for those interested in hosting one.
 
 ## Crowdfunding
 
@@ -113,10 +112,10 @@ There is no official program within the federal government for crowdfunding. The
 
 ## Next Steps
 
-While the programs featured here are big bucket items, throughout government you’ll also find crowd-focused efforts like [maker faires](https://www.whitehouse.gov/nation-of-makers), [data jams]({{< link "2014-03-27-what-to-do-with-big-data.md" >}}), [hack-a-thons]({{< link "2015-05-27-the-national-day-of-civic-hacking-2015-harnessing-the-power-of-the-people.md" >}}), [game jams](http://www.hhs.gov/idealab/projects-item/health-game-jam/) and [demo days]({{< link "2015-08-10-data-delivers-challenge-culminates-in-national-demo-day-event-slated-for-thursday.md" >}}).
+While the programs featured here are big bucket items, throughout government you’ll also find crowd-focused efforts like [maker faires](https://www.whitehouse.gov/nation-of-makers), [data jams]({{< ref "2014-03-27-what-to-do-with-big-data.md" >}}), [hack-a-thons]({{< ref "2015-05-27-the-national-day-of-civic-hacking-2015-harnessing-the-power-of-the-people.md" >}}), [game jams](http://www.hhs.gov/idealab/projects-item/health-game-jam/) and [demo days]({{< ref "2015-08-10-data-delivers-challenge-culminates-in-national-demo-day-event-slated-for-thursday.md" >}}).
 
 Consider which format would be best for your program; look through the options and consider what outcome you want and what group could be the best contributors to the project. Talk with others who have run these programs and learn from their experience.
 
 There are also training videos and webinars on-demand that include all of the topics listed above on DigitalGov University’s [Challenges YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC).
 
-Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{< link "crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes.md" >}}).
+Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{< ref "crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{< ref "challenges-prizes.md" >}}).

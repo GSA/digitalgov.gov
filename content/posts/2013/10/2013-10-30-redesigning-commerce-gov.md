@@ -5,10 +5,10 @@ title: Redesigning Commerce.gov
 summary: 'After having the same look and feel on our website since 2010, Commerce.gov is embarking on a fresh redesign to put the user in the driver seat. Drawing on anonymized user input, we have made some significant changes and are excited to announce the launch of our new site &#8211; Beta.Commerce.gov. First, you’ll notice'
 authors:
   - mike-kruger
-categories:
-  - Code
-  - Content
-  - Design
+topics:
+  - code
+  - content
+  - design
 ---
 
 <p style="text-align: center">

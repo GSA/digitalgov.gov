@@ -5,14 +5,13 @@ title: Communication is Key in Measuring Customer Experience
 summary: As mentioned in previous blog posts, great efforts have been made in creating a Customer Experience program and a Customer Experience (CX) index in our Office of Citizen Services and Innovative Technologies (OCSIT) at GSA. Our office manages well over 10 programs, including websites, a contact center, search services, and
 authors:
   - simchah-suveyke-bogin
-categories:
-  - Metrics
-tag:
-  - Customer Experience
+topics:
+  - metrics
+  - cx
 ---
 
 <p style="text-align: left">
-  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/CX-is.jpg">{{< legacy-img src="2013/09/CX-is-250x166.jpg" alt="CX is" >}}</a>As mentioned in previous blog posts, great efforts have been made in creating a <a href="{{< link "2013-07-10-kicking-off-our-customer-experience-program.md" >}}">Customer Experience program</a> and a <a href="{{< link "2013-07-18-how-to-create-a-customer-experience-index.md" >}}">Customer Experience (CX) index</a> in our Office of Citizen Services and Innovative Technologies (OCSIT) at GSA. Our office manages well over 10 programs, including websites, a contact center, search services, and other tools. And we wanted to be able to create a picture of how our office is performing as a whole, in the eyes of our customers. To create this Customer Experience index, we decided every program within our office will ask their customers the exact same four survey questions.
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/CX-is.jpg">{{< legacy-img src="2013/09/CX-is-250x166.jpg" alt="CX is" >}}</a>As mentioned in previous blog posts, great efforts have been made in creating a <a href="{{< ref "2013-07-10-kicking-off-our-customer-experience-program.md" >}}">Customer Experience program</a> and a <a href="{{< ref "2013-07-18-how-to-create-a-customer-experience-index.md" >}}">Customer Experience (CX) index</a> in our Office of Citizen Services and Innovative Technologies (OCSIT) at GSA. Our office manages well over 10 programs, including websites, a contact center, search services, and other tools. And we wanted to be able to create a picture of how our office is performing as a whole, in the eyes of our customers. To create this Customer Experience index, we decided every program within our office will ask their customers the exact same four survey questions.
 </p>
 
 To accomplish this, our office established a cross-organizational work group. We&#8217;ve identified two types of customers we serve: (1) citizens and (2) federal agencies. I have been tasked with leading what we are calling the &#8220;Citizen Customer Experience (CX) team&#8221; for those programs that serve citizens.

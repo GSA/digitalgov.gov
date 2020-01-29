@@ -5,14 +5,13 @@ title: Using Visual Content to Drive Engagement
 summary: 'You’ve probably noticed the trend toward more visual content being shared across social platforms&mdash;pictures, infographics and how-to videos seem to be popping up everywhere. We certainly noticed that trend across several government social media properties, so when'
 authors:
   - jonathan-rubin
-categories:
-  - Monthly Theme
-  - Social Media
-  - Video
-  - Writing
-tag:
+topics:
+  - monthly-theme
+  - social-media
+  - video
+  - writing
   - Consumer Action Handbook
-  - USAgov
+  - usagov
 ---
 
 [{{< legacy-img src="2014/06/250-x-250-Army-CAH-Consumer-Action-Handbook.jpg" alt="Picture of soldier and a woman talking about how they like the Consumer Action Handbook" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/403-x-403-Army-CAH-Consumer-Action-Handbook.jpg)You’ve probably noticed the trend toward more visual content being shared across social platforms—pictures, infographics and how-to videos seem to be popping up everywhere.

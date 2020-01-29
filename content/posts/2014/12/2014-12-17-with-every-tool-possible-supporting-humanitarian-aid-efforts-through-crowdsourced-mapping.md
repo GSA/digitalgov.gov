@@ -5,16 +5,15 @@ title: 'With Every Tool Possible: Supporting Humanitarian Aid Efforts Through Cr
 summary: ' Fighting malaria in Botswana with a group of high school students in D.C. Contributing to the Ebola response from the West Bank. These scenarios may not fit the typical image of humanitarian aid efforts, but technology has transformed the possibilities for public participation in international development. Crowdsourced mapping projects have'
 authors:
   - awichman
-categories:
+topics:
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
-tag:
+  - monthly-theme
   - crowdsourcing
   - data
   - Humanitarian Information Unit
-  - open data
-  - Peace Corps
-  - US Department of State
+  - open-data
+  - peace-corps
+  - us-department-of-state
 ---
 
 {{< legacy-img src="2014/12/600-x-338-MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" >}}

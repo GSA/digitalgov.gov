@@ -6,24 +6,23 @@ summary: ' Federal agencies have used prize competitions and challenges to drive
 authors:
   - jenn-gustetic
   - kelly-olson
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
-  - FDA
-  - National Institutes of Health
-  - NIH
-  - US Agency for International Development
-  - US Food and Drug Administration
-  - USAID
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - fda
+  - national-institutes-of-health
+  - nih
+  - us-agency-for-international-development
+  - us-food-and-drug-administration
+  - usaid
 ---
 
 [{{< legacy-img src="2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/600-x-175-challenge-gov-5-years.jpg)
-  
+
 Federal agencies have used prize competitions and challenges to drive competition and spark innovation for nearly a decade. In September 2010, as part of President Obama’s [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/uploads/InnovationStrategy.pdf) [PDF], the Administration launched [Challenge.gov](https://www.challenge.gov/), an online platform that enables federal agencies to engage civic innovators, entrepreneurs, and citizen scientists in prize competitions and challenges designed to help carry out agency missions and benefit society.
 
-The Administration is helping organize two events this week to celebrate the success of Challenge.gov, recognize the importance of public-sector prizes, and catalyze the next-generation of ambitious prizes. On Wednesday, October 7, the White House, the Case Foundation, the Joyce Foundation, and Georgetown University will host an event titled “**All Hands on Deck: Solving Complex Problems through Prizes and Challenges**” that will provide federal, state, and local government leaders and private-sector supporters with information and tools on how to effectively use incentive prizes to improve outcomes in addressing complex social, policy, and technological challenges in national priority areas. On Thursday, October 8, the General Services Administration will host a community of more than 300 prize practitioners to celebrate the great accomplishments of public-sector prizes at a [five-year anniversary event]({{< link "2015-09-10-not-just-a-website-challenge-gov-enables-agencies-to-innovate-with-incentives.md" >}}) for Challenge.gov.
+The Administration is helping organize two events this week to celebrate the success of Challenge.gov, recognize the importance of public-sector prizes, and catalyze the next-generation of ambitious prizes. On Wednesday, October 7, the White House, the Case Foundation, the Joyce Foundation, and Georgetown University will host an event titled “**All Hands on Deck: Solving Complex Problems through Prizes and Challenges**” that will provide federal, state, and local government leaders and private-sector supporters with information and tools on how to effectively use incentive prizes to improve outcomes in addressing complex social, policy, and technological challenges in national priority areas. On Thursday, October 8, the General Services Administration will host a community of more than 300 prize practitioners to celebrate the great accomplishments of public-sector prizes at a [five-year anniversary event]({{< ref "2015-09-10-not-just-a-website-challenge-gov-enables-agencies-to-innovate-with-incentives.md" >}}) for Challenge.gov.
 
 Both of these events will showcase some of the more than 450 challenges that the federal government has conducted over the past 5 years to surface solutions from people and places across the country that would have been exceptionally difficult to discover through more traditional tools, like contracts and grants. A few examples of these people-powered prizes are:
 

@@ -5,18 +5,17 @@ title: '700 Strong: Challenge.gov Crosses New Milestone in Open Innovation'
 summary: Challenge.gov, the official website for crowdsourcing and prize competitions across government, celebrated its five-year anniversary in October 2015. Now, not even one year later, the site has reached another milestone. On Monday, two agencies launched new challenges, bringing the total
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - innovation
-  - NASA
+  - nasa
   - National Institute on Drug Abuse
   - NIDA
-  - NIH
+  - nih
 ---
 
 [Challenge.gov](https://www.challenge.gov/), the official website for crowdsourcing and prize competitions across government, celebrated its five-year anniversary in October 2015.
@@ -45,4 +44,4 @@ Essentially, the space agency wants solvers to submit technologies that can adva
   
 Since its launch in September 2010, Challenge.gov has seen a steady increase in use among both federal agencies and citizens. The 700 challenges on the site have seen more than 300,000 citizens compete for over $250 million in prize money.
 
-_Join nearly 700 federal managers across more than 70 government agencies to collaborate and share best practices on running challenge competitions by becoming a member of the <a href="{{< link "challenges-prizes.md" >}}" target="_blank">Challenges and Prizes Community of Practice</a>. Also check out DigitalGov&#8217;s other articles on <a href="{{< link "categories/challenges" >}}" target="_blank">challenge and prize competitions</a> and the recent 7-module webinar, [Expert Training Series: How to Design & Operate Prizes to Maximize Success]({{< link "2016-02-17-challenges-prizes-webinar-series-concludes-but-training-still-available.md" >}}), from [DigitalGov University]({{< link "/digitalgov-university/" >}}) (DGU)._
+_Join nearly 700 federal managers across more than 70 government agencies to collaborate and share best practices on running challenge competitions by becoming a member of the <a href="{{< ref "challenges-prizes.md" >}}" target="_blank">Challenges and Prizes Community of Practice</a>. Also check out DigitalGov&#8217;s other articles on <a href="{{< ref "/topics/challenges" >}}" target="_blank">challenge and prize competitions</a> and the recent 7-module webinar, [Expert Training Series: How to Design & Operate Prizes to Maximize Success]({{< ref "2016-02-17-challenges-prizes-webinar-series-concludes-but-training-still-available.md" >}}), from [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU)._

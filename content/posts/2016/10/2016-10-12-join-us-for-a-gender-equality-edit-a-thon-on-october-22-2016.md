@@ -5,17 +5,16 @@ title: Join us for a Gender Equality Edit-a-thon on October 22, 2016
 summary: 'Come out and join us on Saturday, October 22, 2016 from 10:00 am &ndash; 5:00 pm for a Wikipedia Edit-a-thon on Gender Equality in the Innovation Hub at the National Archives Building in Washington, DC. Register for this event today!'
 authors:
   - meredith-stewart
-categories:
-  - Content
+topics:
+  - content
   - crowdsourcing-and-citizen-science
-  - Managing Digital
-  - Mobile
+  - product-management
+  - mobile
   - user-testing-and-research
-tag:
   - content
   - crowdsourcing
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - research
 ---
 

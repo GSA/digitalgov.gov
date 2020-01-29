@@ -5,13 +5,12 @@ title: 'Customer Satisfaction: Innovating with Lack of Resources'
 summary: As government contact centers, we all face financial and technological constraints in our pursuit to improve the customer experience. One challenge faced by many contact centers is staffing limitations to handle the volume of incoming customer traffic. There are barely enough employees to operate phones, let alone work on meeting or exceeding the organizational customer
 authors:
   - rosetta-carrington-lue
-categories:
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - Customer Experience
-  - government contact centers
-  - social media
+topics:
+  - product-management
+  - monthly-theme
+  - cx
+  - government-contact-centers
+  - social-media
 ---
 
 {{< legacy-img src="2014/04/250-x-167-call-center-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-450795317.jpg" alt="Beautiful smiling businesswoman using futuristic interface showing applications" caption="" >}} 

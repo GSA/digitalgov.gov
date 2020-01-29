@@ -6,26 +6,25 @@ summary: 'Amidst the chaos of an active shooter event, preparedness is key to a 
 authors:
   - department-of-homeland-security
 
-categories:
-  - strategy-and-policy
-  - User Testing and Research
-  - UX
-  - Video
-
-tag:
-  - Audio/Video
-  - Augmented Reality
-  - DHS
+topics:
+  - strategy
+  - policy
+  - user-testing-and-research
+  - ux
+  - video
+  - audio-video
+  - augmented-reality
+  - dhs
   - Gamification
-  - Research
+  - research
   - Security
   - Training
-  - United States Army
-  - United States Department of Homeland Security
-  - Video
-  - Video Production Pros Community
-  - Virtual Reality
-  - Virtual/Augmented Reality Community
+  - united-states-army
+  - united-states-department-of-homeland-security
+  - video
+  - video-production-pros-community
+  - virtual-reality
+  - virtual-augmented-reality-community
 
 ---
 

@@ -5,16 +5,15 @@ title: 'Trends on Tuesday: Big Ideas from Mobile World Congress'
 summary: ' Mobile World Congress, the world’s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s show shattered previous records with more than 93,000 attendees across'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
-  - Internet of things
+topics:
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 6
-  - Trends on Tuesday
-  - virtual reality
-  - Virtual/Augmented Reality Community
+  - internet-of-things
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-6
+  - trends-on-tuesday
+  - virtual-reality
+  - virtual-augmented-reality-community
 ---
 
 {{< legacy-img src="2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" >}}
@@ -23,13 +22,13 @@ tag:
 
 ### Phone Sizes
 
-One notable trend (or [slowing of an explosive trend]({{< link "2015-01-06-trends-on-tuesday-phablets-top-tablets-in-post-holiday-activations.md" >}} "Trends on Tuesday: Phablets Top Tablets in Post-Holiday Activations")) was the size of mobile devices seems to have stabilized—for now. For the past couple of years, phones have been growing bigger and bigger every year at the Consumer Electronics Show (CES) and Mobile World Congress (MWC) as “phablets” (hybrid phone and tablet sized devices, larger than 5 inches) have become mainstream.
+One notable trend (or [slowing of an explosive trend]({{< ref "2015-01-06-trends-on-tuesday-phablets-top-tablets-in-post-holiday-activations.md" >}} "Trends on Tuesday: Phablets Top Tablets in Post-Holiday Activations")) was the size of mobile devices seems to have stabilized—for now. For the past couple of years, phones have been growing bigger and bigger every year at the Consumer Electronics Show (CES) and Mobile World Congress (MWC) as “phablets” (hybrid phone and tablet sized devices, larger than 5 inches) have become mainstream.
 
 This year, the sizes seemed to have stabilized with the larger brands like Samsung and HTC keeping their flagship phones in the same size range as last year, after increasing them year over year.
 
 The larger phablet phones like iPhone 6 Plus, Samsung Note 4 and Google Nexus 6 seem to be the limit of what people are willing to personally carry everyday as their phones. Many phablet users tout the utility of having both a phone and a device large enough to enjoyably watch large, high definition video, to read books on and the largely increased battery life—a long standing challenge for mobile devices.
 
-These industrial design trends tend to work in cycles though, so sizes might grow again or they might shrink as people grow tired of the larger device in their pocket. But for now, government agencies can focus on building and [testing our digital products for device sizes]({{< link "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}} "Trends on Tuesday: Mobile Web Lessons From the CrowdSource Mobile Testing Program") generally 6 inches and smaller—ideally with responsive structure, so if phones grow or shrink in the future we can still serve a high-quality experience.
+These industrial design trends tend to work in cycles though, so sizes might grow again or they might shrink as people grow tired of the larger device in their pocket. But for now, government agencies can focus on building and [testing our digital products for device sizes]({{< ref "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}} "Trends on Tuesday: Mobile Web Lessons From the CrowdSource Mobile Testing Program") generally 6 inches and smaller—ideally with responsive structure, so if phones grow or shrink in the future we can still serve a high-quality experience.
 
 ### The 5G World
 
@@ -45,7 +44,7 @@ For more about some of the specifications being proposed from industry groups, c
 
 ### The Internet of Things
 
-{{< legacy-img src="2015/03/250-x-329-toothbrush-Internet-of-Things-IoT.jpg" alt="ORAL-B smart toothbrush" >}}Another buzzword that was flooding the trade show floor was “The Internet of Things” or “[The Internet of Everything]({{< link "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}} "The Internet of Everything & Small Business Opportunities")” with all sorts of products—from cars to home energy controls to toothbrushes—becoming WiFi, Bluetooth and NFC equipped to add functionality, sensors and Internet communication protocols that share and track information.
+{{< legacy-img src="2015/03/250-x-329-toothbrush-Internet-of-Things-IoT.jpg" alt="ORAL-B smart toothbrush" >}}Another buzzword that was flooding the trade show floor was “The Internet of Things” or “[The Internet of Everything]({{< ref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}} "The Internet of Everything & Small Business Opportunities")” with all sorts of products—from cars to home energy controls to toothbrushes—becoming WiFi, Bluetooth and NFC equipped to add functionality, sensors and Internet communication protocols that share and track information.
 
 The most impressive demo I saw was from Oral B, that was introducing a Bluetooth enabled toothbrush that tracked the sensitivity, time and location of your brushing and offered feedback, customized brushing plans and data tracking over time, as well as weather and news information on your phone while it timed your brushing time. I don’t know if everyone would feel completely comfortable with taking this approach to every aspect of their life being tracked, ranked and connected, but The Internet of Things is coming, and government agencies are going to have to prepare for regulatory, bandwidth and security challenges and opportunities—especially in the health and public utility areas.
 
