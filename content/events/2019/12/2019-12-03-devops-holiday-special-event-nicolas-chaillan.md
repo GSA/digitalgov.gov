@@ -6,7 +6,7 @@ slug: devops-holiday-special-event-nicolas-chaillan
 title: "DevOps Holiday Special Event: Nicolas Chaillan"
 deck: ""
 summary: "Join the Chief Software Officer of the USAF to learn: How the DoD moved to Kubernetes and Istio."
-host: "DevOps COP"
+host: "DevOps CoP"
 event_organizer: "DigitalGov University"
 registration_url: 
 captions: 

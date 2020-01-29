@@ -1,5 +1,6 @@
 ---
 slug: it-modernization-apprenticeship-experience-breaking-down-workforce-innovation-barriers-at-usda
+short_url: https://go.usa.gov/xdTEf
 date: 2019-11-20 09:30:00 -0500
 title: "IT Modernization Apprenticeship Experience&#58; Breaking Down Workforce Innovation Barriers at USDA"
 summary: "An interagency Apprenticeship Experience is the next generation of learning and development: hands-on learning, on-the-job training, and networked mentorship&#46;"

@@ -16,7 +16,7 @@
       {{ end }}
     </div>
 
-    <div class="content">
+    <div class="summary">
       <p>
         {{- if .Params.deck -}}{{- .Params.deck | markdownify | emojify -}}{{- end -}}
         {{- if $source -}}
