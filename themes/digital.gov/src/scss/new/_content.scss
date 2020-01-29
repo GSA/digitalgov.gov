@@ -43,6 +43,15 @@
     clear:both;
   }
 
+  ul{
+    li{
+      @include u-line-height('sans', 3);
+    }
+    ul{
+      @include u-margin-top(1);
+      @include u-margin-bottom('105');
+    }
+  }
 
   // Code
   code{
