@@ -5,9 +5,8 @@ title: Law Library of Congress Implements Solution for Link and Reference Rot
 summary: 'Last fall, the Law Library of Congress implemented an external archiving solution for the problem of link and reference rot in its legal research reports. &ldquo;Link rot&rdquo; and &ldquo;reference rot&rdquo; (a.k.a. &ldquo;content drift&rdquo;) are the terms used to describe, respectively, the problem of non-working Web addresses and Web addresses that work but link to modified'
 authors:
   - charlotte-stichter
-categories:
-  - Content
-tag:
+topics:
+  - content
   - Law Library of Congress
   - Library of Congress
   - LOC

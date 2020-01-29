@@ -5,13 +5,12 @@ title: 'Welcome to BetaFEC: Campaign Finance for Everyone'
 summary: ' As the 2016 presidential election heats up, here at 18F we’ve been working with the Federal Election Commission (FEC) to make campaign finance data more accessible to the public. Today, we launched betaFEC, the first piece in a complete redesign of the FEC’s online'
 authors:
   - emileigh-barnes
-categories:
-  - Content
-tag:
-  - 18F
-  - API
+topics:
+  - content
+  - 18f
+  - api
   - FEC
-  - Federal Election Commission
+  - federal-election-commission
 ---
 
 {{< legacy-img src="2015/10/output_fGqTQA.gif" alt="Animated gif of the beta F.E.C. homepage" >}}

@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Zeitler
 uid: elizabeth-zeitler
 email: zeitlere@mcc.gov
 bio: Elizabeth Zeitler is a Transportation Advisor and Open Data advocate at the Millennium Challenge Corporation’s Division of Monitoring and Evaluation. She works to increase information access, use and learning for partner countries and for MCC as a AAAS Science and Technology Policy Fellow.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

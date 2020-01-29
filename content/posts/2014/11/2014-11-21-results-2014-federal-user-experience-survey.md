@@ -5,22 +5,20 @@ title: 'Results: 2014 Federal User Experience Survey'
 summary: 'The cream of the crop of the top of the mountain of ALL of the surveys I run has to be the Federal User Experience (UX) Survey. It&#8217;s the second time I&#8217;ve had the privilege of running it with Jean Fox, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - accessibility
   - communities
   - design
   - monthly-theme
   - user-testing-and-research
   - ux
-tag:
-  - AoI
+  - aoi
   - bls
   - user-experience-community-of-practice
   - us-bureau-of-labor-statistics
   - usability
   - user-experience
   - ux
-
 ---
 
 The cream of the crop of the top of the mountain of ALL of the surveys I run has to be the Federal User Experience (UX) Survey. It&#8217;s the second time I&#8217;ve had the privilege of running it with **Jean Fox**, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning what all of my UX colleagues are doing, and designing solutions for them based on real data, I start clasping my fingers together like Mr. Burns.
@@ -35,7 +33,7 @@ In our [2013 survey](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/201
 
 {{< legacy-img src="2014/11/600-x-438-ux-survey-growing.jpg" alt="600-x-438-ux-survey\---growing" >}}
 
-The results were very encouraging: 51% said their resources remained the same, 38% said they increased, and only 11% said they were decreasing. This trend is in line with larger trends about increasing popularity in User Experience design, research and adoption. We learned that (at least) nine federal agencies have Usability Labs, and many others are contemplating building ones as we speak. We&#8217;re seeing the use of eyetrackers, [heatmaps]({{< link "2014-04-04-heatmapping-tools-show-whats-hot-on-your-pages.md" >}}), mobile device testing and lots more. Huzzah!
+The results were very encouraging: 51% said their resources remained the same, 38% said they increased, and only 11% said they were decreasing. This trend is in line with larger trends about increasing popularity in User Experience design, research and adoption. We learned that (at least) nine federal agencies have Usability Labs, and many others are contemplating building ones as we speak. We&#8217;re seeing the use of eyetrackers, [heatmaps]({{< ref "2014-04-04-heatmapping-tools-show-whats-hot-on-your-pages.md" >}}), mobile device testing and lots more. Huzzah!
 
 For the past two years, we asked people how widespread User Experience is at their agency. This question is based on the many types of [User Experience maturity models](http://uxmag.com/articles/how-mature-is-your-organization-when-it-comes-to-ux) out there.
 
@@ -61,7 +59,7 @@ Government services used to be in person, phone-based and on paper. Then came th
 
 {{< legacy-img src="2014/11/600-x-332-ux-survey-training-needs.jpg" alt="600-x-332-ux-survey\---training-needs" >}}
 
-You can count on seeing some [DigitalGov University training]({{< link "/digitalgov-university/" >}}) on these subjects very soon. If you want to help teach a class, please [let us know](mailto:govux@gsa.gov).
+You can count on seeing some [DigitalGov University training]({{< ref "/about/digitalgov-university.md" >}}) on these subjects very soon. If you want to help teach a class, please [let us know](mailto:govux@gsa.gov).
 
 ### 4. Download the full survey summary
 

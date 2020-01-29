@@ -7,11 +7,10 @@ authors:
   - ryan-leisinger
   - gary-morin
   - jonathan-rubin
-categories:
-  - Accessibility
-  - Video
-tag:
-  - section 508
+topics:
+  - accessibility
+  - video
+  - section-508
   - YouTube
 ---
 
@@ -80,6 +79,6 @@ Instead, use high-contrast color combinations, such as black letters on a solid 
 
 [{{< legacy-img src="2014/07/600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption.jpg" alt="600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/665-x-373-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption.jpg)
 
-This image has captions that are at least 9 point, and the text color is readable on the background behind it, so reading them is much easier. For more information about captions in a specific player, see [Use a 508-Compliant and Accessible Video Player]({{< link "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}} "508 Accessible Videos – Use a 508-Compliant Video Player").
+This image has captions that are at least 9 point, and the text color is readable on the background behind it, so reading them is much easier. For more information about captions in a specific player, see [Use a 508-Compliant and Accessible Video Player]({{< ref "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}} "508 Accessible Videos – Use a 508-Compliant Video Player").
 
 There are dozens of captioning tools out there, do a [search](https://www.google.com/#q=video+captioning+resources&safe=active "Google search") to find some of them.

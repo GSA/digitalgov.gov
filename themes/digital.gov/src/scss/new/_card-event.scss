@@ -1,0 +1,77 @@
+.card-event-promo{
+	@include u-border-top('2px', 'primary-darker', 'solid');
+
+	.date{
+		@include u-margin(0);
+		@include u-padding-right(0);
+		@include at-media('tablet') {
+			@include u-padding-right('205');
+			@include u-border-right('1px', 'indigo-warm-80', 'solid');
+		}
+		span{
+			@include u-display('block');
+			@include u-text('center');
+			@include u-text('medium');
+		}
+		.date-mo{
+			@include u-text('uppercase');
+			@include u-font('sans', 'sm');
+			@include u-text('bold');
+			@include at-media('tablet') {
+				@include u-text('medium');
+			}
+		}
+		.date-day{
+			@include u-margin-bottom('05');
+			@include u-font('sans', '2xl');
+			@include u-text('thin');
+			@include u-line-height('sans', 1);
+			@include at-media('tablet') {
+				@include u-font('sans', '3xl');
+			}
+		}
+		.btn-register{
+			@include u-display('none');
+			@include at-media('tablet') {
+				@include u-display('block');
+			}
+		}
+	}
+	.btn-register{
+		@include u-padding-y(0);
+		@include u-padding-x(0);
+		@include u-font('sans', 'sm');
+		@include u-display('block');
+		@include u-radius('sm');
+		@include u-bg('white');
+		@include u-text('primary-vivid');
+		@include u-text('center');
+		@include u-border('2px', 'primary-vivid', 'solid');
+		transition: background-color .25s, color .25s;
+		@include at-media('tablet') {
+			@include u-display('none');
+		}
+	}
+	&:hover{
+		.btn-register{
+			@include u-bg('primary-vivid');
+			@include u-text('white');
+		}
+	}
+
+	.host{
+		@include u-margin-y('105');
+		@include u-text('gray-cool-60');
+		@include u-font('sans', 'xs');
+		@include at-media('tablet-lg') {
+			@include u-font('sans', 'sm');
+		}
+		@include u-line-height('sans', 2);
+	}
+	.time{
+		@include u-font('sans', 'md');
+		@include u-text('bold');
+		@include u-text('red-cool-40v');
+	}
+
+}

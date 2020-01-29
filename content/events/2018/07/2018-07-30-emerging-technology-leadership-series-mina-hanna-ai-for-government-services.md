@@ -13,9 +13,8 @@ event_organizer: DigitalGov University
 host: Emerging Citizen Technology Office
 registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-series-mina-hanna-and-ai-for-government-services-registration-48381530460
 youtube_id: 8b2i7H63rzc
-categories:
+topics:
   - emerging-tech
-tag:
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community

@@ -9,10 +9,8 @@ featured_image:
 authors:
   - bbrantley
 
-categories:
+topics:
   - data
-
-tag:
   - ai
   - artificial-intelligence
   - blockchain
@@ -20,7 +18,7 @@ tag:
   - data
   - security
   - the-data-briefing
-  - emerging-citizen-technology
+  - emerging-tech
 
 ---
 

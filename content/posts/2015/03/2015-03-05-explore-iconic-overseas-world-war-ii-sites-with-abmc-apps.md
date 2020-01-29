@@ -5,15 +5,15 @@ title: Explore Iconic Overseas World War II Sites with ABMC Apps
 summary: 'We have not forgotten, we will never forget, the debt of infinite gratitude that we have contracted with those who gave everything for our freedom. Rene Coty, Pr&eacute;sident de la R&eacute;publique Francaise Those are the words of Rene Coty, the president'
 authors:
   - kdowney
-categories:
-  - Mobile
-  - strategy-and-policy
-tag:
-  - ABMC
-  - American Battle Monuments Commission
-  - mobile apps
-  - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+topics:
+  - mobile
+  - strategy
+  - policy
+  - abmc
+  - american-battle-monuments-commission
+  - mobile-apps
+  - thursday-mobile-products
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 <div class="testimonial small">
@@ -40,4 +40,4 @@ These new ABMC apps, as well as the very popular [Pointe du Hoc](http://www.abmc
   Time will not dim the glory of their deeds.<br /> <span class="test-author">General of the Armies John J. Pershing, first chairman of ABMC</span>
 </div>
 
-_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._
+_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._

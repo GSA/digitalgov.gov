@@ -5,33 +5,32 @@ title: 'What&#8217;s Happening with the Internet of Things?'
 summary: 'No Mobile Gov Month on DigitalGov would be complete without an update on the Internet of Things. Regardless if you’re talking wearables, smart homes, sensors or any other connected device, your current mobile approaches will be impacted&mdash;as will your social media, user experience and data strategies. When we last visited the topic in April, discussion'
 authors:
   - jparcell
-categories:
-  - Managing Digital
-  - Mobile
-  - Monthly Theme
-  - Our Work
-tag:
+topics:
+  - product-management
+  - mobile
+  - monthly-theme
+  - our-work
   - Defense Intelligence Agency
   - DIA
   - DOT
   - Federal Trade Commission
   - FTC
-  - Internet of things
+  - internet-of-things
   - NIST
-  - United States Department of Transportation
+  - united-states-department-of-transportation
 ---
 
 {{< legacy-img src="2014/10/600-x-450-Image-of-tablet-with-city-urfinguss-iStock-Thinkstock-456860415.jpg" alt="Image of tablet with city" caption="" >}} 
 
-No [Mobile Gov Month on DigitalGov]({{< link "2014-10-20-welcome-to-mobilegov-month-on-digitalgov.md" >}} "Welcome to Mobile Gov Month on DigitalGov") would be complete without an update on the Internet of Things.
+No [Mobile Gov Month on DigitalGov]({{< ref "2014-10-20-welcome-to-mobilegov-month-on-digitalgov.md" >}} "Welcome to Mobile Gov Month on DigitalGov") would be complete without an update on the Internet of Things.
 
-Regardless if you’re talking wearables, smart homes, sensors or any other connected device, your current mobile approaches will be impacted—as will your social media, user experience and data strategies. When [we last visited the topic in April]({{< link "2014-04-08-tell-us-your-internet-of-things-challenges.md" >}} "Tell Us Your Internet of Things Challenges"), discussion in the federal government was minimal.
+Regardless if you’re talking wearables, smart homes, sensors or any other connected device, your current mobile approaches will be impacted—as will your social media, user experience and data strategies. When [we last visited the topic in April]({{< ref "2014-04-08-tell-us-your-internet-of-things-challenges.md" >}} "Tell Us Your Internet of Things Challenges"), discussion in the federal government was minimal.
 
 That’s no longer the case.
 
 Just this month there were multiple panels about it at the [Tech-In-State: Mobile Diplomacy](http://blogs.state.gov/stories/2014/10/16/mobile-diplomacy-state?utm_source=Dipnote) event and the Federal Trade Commision (FTC) was very active at the [2nd Annual Internet of Things Global Summit](http://eu-ems.com/summary.asp?event_id=221&page_id=1904) where FTC Chairwoman Edith Ramirez gave a keynote about challenges around IOT. Ramirez spoke about challenges around [security, consumer privacy and advanced data](http://www.stephensonstrategies.com/live-blogging-from-iot-global-summit/) analytics, which are hot areas in the IOT.
 
-Yesterday, Jordan Higgins of the Defense Intelligence Agency and Federal SocialGov Community published a great article on the current state of Internet of Things and [highlighted issues around security and privacy and offered some ways users can protect their data]({{< link "2014-10-30-cyber-house-of-horrors.md" >}} "Beware the Cyber Security House of Horrors!").
+Yesterday, Jordan Higgins of the Defense Intelligence Agency and Federal SocialGov Community published a great article on the current state of Internet of Things and [highlighted issues around security and privacy and offered some ways users can protect their data]({{< ref "2014-10-30-cyber-house-of-horrors.md" >}} "Beware the Cyber Security House of Horrors!").
 
 Panelists at the events I mentioned above noted as we move forward we’re going to need to think in broader terms about user experience, specifically around the [user story](http://en.wikipedia.org/wiki/User_story). A good user experience will be one that seamlessly organizes numerous connected devices and sensors.
 
@@ -43,6 +42,6 @@ San Francisco found that average parking rates were lower, it was easier to find
 
 Smart Rome won’t be built in a day—Internet of Things implementations will be iterative. As one panelist at the Internet of Things Global Summit noted, it’s like we are back in 1900 talking about the impact of the automobile. We know we are dealing with a game-changing technology, but we’re not sure how it’s going to affect us and how it will play out.
 
-The best way to stay connected is to discuss these challenges and work together. Join the [SocialGov Commmunity]({{< link "social-media.md" >}} "Social Media"). Get involved with discussions around [competitions and prizes]({{< link "challenges-prizes.md" >}} "Challenges & Prizes Community"). Become a [data guru](https://opendata.stackexchange.com/questions/ask?tags=data.gov). Stay involved in the [User Experience community]({{< link "user-experience.md" >}} "Federal User Experience Community") and, of course, join my [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile").
+The best way to stay connected is to discuss these challenges and work together. Join the [SocialGov Commmunity]({{< ref "social-media.md" >}} "Social Media"). Get involved with discussions around [competitions and prizes]({{< ref "challenges-prizes.md" >}} "Challenges & Prizes Community"). Become a [data guru](https://opendata.stackexchange.com/questions/ask?tags=data.gov). Stay involved in the [User Experience community]({{< ref "user-experience.md" >}} "Federal User Experience Community") and, of course, join my [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile").
 
 It’ll take a village to build a smart village. Let’s do this!

@@ -3,14 +3,13 @@ slug: centers-for-disease-control-content-syndication
 date: 2012-11-05 14:13:31 -0400
 title: Centers for Disease Control Content Syndication
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Centers for Disease Control and Prevention. The Centers for Disease Control and Prevention (CDC) uses content syndication to share important health information with a variety of federal public'
-categories:
-  - API
-  - Mobile
-tag:
-  - API
-  - CDC
-  - Mobile Gov Experience
-  - structured content
+topics:
+  - api
+  - mobile
+  - api
+  - cdc
+  - mobile-gov-experience
+  - structured-content
 ---
 
 _[{{< legacy-img src="2013/12/CDC\_iPad\_iPhone-250x171.png" alt="iPad and Phone showing CDC mobile content" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/CDC_iPad_iPhone.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Centers for Disease Control and Prevention**._
@@ -23,7 +22,7 @@ CDC developed content syndication to give our public health partners and other i
 
 ## <a name="x-What We Did"></a>What We Did {#toc1}
 
-CDC created an [application programming interface (API)](https://digitalgov.sites.usa.gov/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs") that enabling partner organizations to display CDC.gov content on their Web sites by simply adding a JavaScript widget which retrieves the CDC content. CDC assigns a unique campaign ID to each partner that is used for tracking and metrics purposes. This unique ID allows CDC to measure not only the traffic generated on the partner site, but also all traffic from their site back to CDC.gov.
+CDC created an [application programming interface (API)](https://digital.gov/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs") that enabling partner organizations to display CDC.gov content on their Web sites by simply adding a JavaScript widget which retrieves the CDC content. CDC assigns a unique campaign ID to each partner that is used for tracking and metrics purposes. This unique ID allows CDC to measure not only the traffic generated on the partner site, but also all traffic from their site back to CDC.gov.
 
 ## <a name="x-How It Worked"></a>How It Worked {#toc2}
 

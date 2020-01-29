@@ -5,13 +5,12 @@ title: Bringing Water Protection into the Modern Age
 summary: Information technology is everywhere. How we communicate, and how we share with one another has gone digital, saving paper, time, money, and making it easier to get information faster and more reliably. Forty-three years ago, when the Clean Water Act was enacted, things moved a little slower. But the significance and impact of this important
 authors:
   - cynthia-giles
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - data
-  - EPA
-  - open data
-  - US Environmental Protection Agency
+  - epa
+  - open-data
+  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2015/10/600-x-412-Blue-world-in-the-hand-Usa-RomoloTavani-iStock-Thinkstock-168721833.jpg" alt="A pair of hands hold a blue globe showing the Western Hemisphere of the Americas, over a background of sparkling water." caption="" >}} 

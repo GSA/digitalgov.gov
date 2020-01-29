@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Hinkley
 uid: carolyn-hinkley
 email: carolyn.hinkley@ee.doe.gov
 bio: Carolyn Hinkley is a Web Project Manager for the Office of Energy Efficiency and Renewable Energy in the Department of Energy. This post was written in her capacity as a part-time remote detailee to the Advanced Manufacturing National Program Office at the National Institute of Standards and Technology.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

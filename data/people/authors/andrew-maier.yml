@@ -1,16 +1,22 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
-# 
+#
 # Reach out to digitalgov@gsa.gov if you need assistance.
 
 display_name: Andrew Maier
 first_name: Andrew
 last_name: Maier
 uid: andrew-maier
-email: "andrew.maier@gsa.gov"
-bio: "Andrew Maier is a designer and researcher with 18F"
+email: andrew.maier@gsa.gov
+bio: "Andrew Maier is a designer and researcher with 18F."
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: "General Services Administration"
+
+# Agency Acronym or short name [e.g. DOI]
+agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: "Washington, DC"

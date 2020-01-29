@@ -1,0 +1,13 @@
+{{- define "content" -}}
+
+<main aria-label="Content" role="main" id="home">
+
+  {{/* Popular Resources */}}
+  {{- partialCached "core/home/resources_featured" . -}}
+
+  {{/* News */}}
+  {{- partialCached "core/home/news_featured" . -}}
+
+</main>
+
+{{- end -}}

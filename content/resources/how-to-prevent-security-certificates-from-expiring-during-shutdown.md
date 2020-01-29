@@ -1,8 +1,11 @@
 ---
-url: /resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/
+slug: how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations
 date: 2019-02-07 11:30:00 -0400
 title: "How to Prevent Security Certificates From Expiring During a Lapse in Operations"
 summary: "These are the steps that people in government can take to avoid having security certificates expire during a lapse in operations."
+topics:
+  - security
+
 ---
 
 ### 1. Gather a list of all of your domains

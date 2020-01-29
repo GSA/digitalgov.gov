@@ -5,15 +5,14 @@ title: 'From Startup to Veteran CEO: New BusinessUSA App Has You Covered'
 summary: BusinessUSA is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for Android and iOS devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - Department of Commerce
-  - mobile apps
+topics:
+  - mobile
+  - department-of-commerce
+  - mobile-apps
   - SBA
-  - Thursday Mobile Products
-  - US Small Business Administration
-  - USA.gov Federal Mobile Apps Directory
+  - thursday-mobile-products
+  - us-small-business-administration
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 [{{< legacy-img src="2015/05/250-x-429-BusinessUSA-menu-screen-Google-Play-for-Android.jpg" alt="Business U.S.A. menu screen" >}}BusinessUSA](http://business.usa.gov) is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for [Android](https://play.google.com/store/apps/details?id=com.BusinessUSA.BusinessUSA) and [iOS](https://itunes.apple.com/us/app/businessusa/id905514958?mt=8) devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet or smartphone.
@@ -39,4 +38,4 @@ The app features:
 
 The mobile app is based on the desktop version of the [Business.USA.gov business portal](http://business.usa.gov/) (also known as: BusinessUSA or BusinessUSA.gov), both of which are created and managed by BusinessUSA, a federal agency managed jointly by the U.S. Department of Commerce and the Small Business Administration.
 
-_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml){#anch_84}. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}}){#anch_85}._
+_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml){#anch_84}. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}}){#anch_85}._

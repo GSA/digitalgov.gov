@@ -5,10 +5,9 @@ title: 'National Weather Service: Think Social Training'
 summary: 'For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public. As these accounts were'
 authors:
   - tim-brice
-categories:
-  - Social Media
-tag:
-  - Facebook
+topics:
+  - social-media
+  - facebook
   - National Weather Service
   - Twitter
   - YouTube

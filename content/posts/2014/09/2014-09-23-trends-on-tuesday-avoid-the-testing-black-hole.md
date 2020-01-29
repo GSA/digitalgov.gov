@@ -5,21 +5,20 @@ title: 'Trends on Tuesday: Avoid the Testing Black Hole'
 summary: ' Remember the Golden Age of Web development? A time long ago when there were only five desktop browsers to support, a few different screen sizes and every user connected via broadband? Well, those days are over. With the advent of mobile Web'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal CrowdSource Mobile Testing Program
-  - mobile testing
-  - Mobile UX Guideline 4
-  - responsive web design
+  - mobile-testing
+  - mobile-ux-guideline-4
+  - responsive-web-design
   - SSA
-  - The United States Social Security Administration
-  - Trends on Tuesday
+  - the-united-states-social-security-administration
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}
 
-Remember the Golden Age of Web development? A time long ago when there were only five desktop browsers to support, a few different screen sizes and every user connected via broadband? Well, those days are over. With the advent of mobile Web implementations like [responsive Web design]({{< link "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"), there are three times the number of browsers working on many different-sized devices with varying operating systems and connection speeds. Trying to tackle all of these factors quickly becomes a testing nightmare.
+Remember the Golden Age of Web development? A time long ago when there were only five desktop browsers to support, a few different screen sizes and every user connected via broadband? Well, those days are over. With the advent of mobile Web implementations like [responsive Web design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"), there are three times the number of browsers working on many different-sized devices with varying operating systems and connection speeds. Trying to tackle all of these factors quickly becomes a testing nightmare.
 
 Developer [Tom Maslen](http://www.smashingmagazine.com/2014/07/14/testing-and-responsive-web-design/ "Tom Maslen") outlines some ways for developers to &#8220;test smart&#8221; so that they don’t have to test every device every time they want to update a website:
 

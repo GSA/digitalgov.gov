@@ -5,25 +5,24 @@ title: Challenge and Prize Practitioners Gather at GSA
 summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov team gathered the Challenges and Prizes Community of Practice together for its quarterly meeting. The group covered two topics: Highlights from challenge competitions run in 2013.'
 authors:
   - ktrebon
-categories:
-  - Challenges
-  - Code
-tag:
-  - ChallengeGov
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - code
+  - challenge-gov
+  - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - HUD
   - innovation
-  - NASA
+  - nasa
   - National Eye Institute
-  - national science foundation
-  - NSF
-  - Recaps
-  - United States Department of Housing and Urban Development
-  - White House Office of Science and Technology Policy
+  - national-science-foundation
+  - nsf
+  - recaps
+  - united-states-department-of-housing-and-urban-development
+  - white-house-office-of-science-and-technology-policy
 ---
 
-Got [innovation]({{< link "categories/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
+Got [innovation]({{< ref "/topics/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
 
 On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the Challenges and Prizes Community of Practice. The group covered two topics:
 
@@ -32,7 +31,7 @@ On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered t
 
 {{< legacy-img src="2014/06/600-x-450-Challenges-and-Prizes-Community-of-Practice-quarterly-meeting-May-28-2014-photo-11.jpg" alt="Challenges and Prizes Community of Practice quarterly meeting on May 28, 2014" >}}
 
-Cristin Dorgelo, Assistant Director for Grand Challenges at the [White House Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp), shared the results of a [recent report on challenge and prize competitions]({{< link "2014-05-07-new-white-house-report-prize-competition-use-increased-85-in-2013.md" >}}) conducted under [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf) Authority.
+Cristin Dorgelo, Assistant Director for Grand Challenges at the [White House Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp), shared the results of a [recent report on challenge and prize competitions]({{< ref "2014-05-07-new-white-house-report-prize-competition-use-increased-85-in-2013.md" >}}) conducted under [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf) Authority.
 
 Trends include:
 

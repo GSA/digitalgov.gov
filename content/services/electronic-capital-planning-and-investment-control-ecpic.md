@@ -2,7 +2,9 @@
 url: /services/electronic-capital-planning-and-investment-control-ecpic/
 date: 2015-12-04 11:35:10 -0400
 title: 'Electronic Capital Planning and Investment Control (eCPIC)'
-summary: 'The electronic Capital Planning and Investment Control (eCPIC) application helps automate capital planning and portfolio management processes for enabling government agencies to effectively mature their investment management strategies and achieve agency mission goals and objectives.'
+summary: "The electronic Capital Planning and Investment Control (eCPIC) application helps automate capital planning and portfolio management processes for enabling government agencies to effectively mature their investment management strategies and achieve agency mission goals and objectives."
+
+weight: 0
 ---
 
 <div class="deck"><p>The eCPIC application helps automate capital planning and portfolio management processes for enabling government agencies to effectively mature their investment management strategies and achieve agency mission goals and objectives.</p></div>

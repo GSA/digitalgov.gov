@@ -5,13 +5,12 @@ title: NOAA National Weather Service Meteorologist Twitter Use Shows that All Go
 summary: 'During the run up to a recent winter storm, Twitter was aflutter with reports of 20-30 inches of snow falling across wide swaths of the Midwest. Unfortunately for snow lovers, those rumors were highly speculative and unfounded. That didn’t stop members'
 authors:
   - mike-kruger
-categories:
-  - Social Media
-tag:
-  - Department of Commerce
+topics:
+  - social-media
+  - department-of-commerce
   - NOAA
   - NWS
-  - social media
+  - social-media
   - Twitter
 ---
 

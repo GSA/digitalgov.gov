@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-site-analysis-live
+kicker: Learning Series
 title: 'DAP Learning Series&#58; Site Analysis, Live!'
 summary: 'Join us for a live demonstration of a real site analysis - from defining website mission, goals, and KPIs, to pulling reporting to better understand site performance&#46;'
 featured_image:
@@ -11,11 +12,16 @@ date: 2019-11-20 13:00:00 -0500
 end_date: 2019-11-20 14:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
-registration_url: https://www.eventbrite.com/e/dap-learning-series-site-analysis-live-registration-59347191046
+youtube_id: 3smZz7PduK8
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
 
 ---
 
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993574&CustomerID=321)_
+[_View the slides_](https://digital.gov/pdf/DAPLearningSeries.pdf) (PDF, 5.4 MB, 27 pages)
 
 DAP users often ask – _“How should I analyze my site?”_
 
@@ -33,5 +39,3 @@ _The Digital Analytics Program (DAP) offers advanced, easy web analytics to fede
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
 
 ---
-
-_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_

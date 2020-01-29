@@ -5,15 +5,15 @@ title: 'Trends on Tuesday: 40% of Smartphone Users Look up Government Informatio
 summary: 'The Pew Research Center released a deep research dive into &ldquo;U.S. Smartphone Use in 2015&rdquo; that provided three big ideas and data points for government agencies to consider when planning their digital strategies. More than 2/3 of Americans have smartphones; many of those are mobile first or mobile only Internet users.'
 authors:
   - wsullivan
-categories:
-  - Managing Digital
-  - Mobile
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
   - mobile
-  - Mobile UX Guideline 5
+  - strategy
+  - policy
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 The [Pew Research Center released a deep research dive into “U.S. Smartphone Use in 2015”](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) that provided three big ideas and data points for government agencies to consider when planning their digital strategies.
@@ -28,7 +28,7 @@ In terms of “smartphone-dependent” groups, Pew cites that “10% of American
 
 ## People are doing a lot more with those phones than just texting and talking.
 
-[As we’ve previously discussed on DigitalGov]({{< link "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}), Pew provided examples of how [smartphones are used for much more than just calling, texting or Internet browsing](http://www.pewinternet.org/2015/04/01/chapter-two-usage-and-attitudes-toward-smartphones/) and noted that users are turning to mobile devices for a wide range of life tasks:
+[As we’ve previously discussed on DigitalGov]({{< ref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}), Pew provided examples of how [smartphones are used for much more than just calling, texting or Internet browsing](http://www.pewinternet.org/2015/04/01/chapter-two-usage-and-attitudes-toward-smartphones/) and noted that users are turning to mobile devices for a wide range of life tasks:
 
   * 62% of smartphone owners have used their phone in the past year to look up information about a health condition.
   * 57% did online banking.
@@ -50,6 +50,6 @@ The report also discussed [the types of content audiences engaged with on their 
 
 ## What does this mean for government agencies?
 
-This research shows that a significant and growing portion of our constituencies [need to be able to access our digital content and properties by mobile devices]({{< link "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}} "Trends on Tuesday: Smartphone Market Growth Makes Mobile-Friendly a Must") because they have no other easily accessible options. If your agency primarily serves underprivileged, low-income or minority communities, these rates are even higher, and it is exponentially more crucial to your mission to prepare your digital content to be mobile-optimized as soon as possible, if not first, before the desktop experience.
+This research shows that a significant and growing portion of our constituencies [need to be able to access our digital content and properties by mobile devices]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}} "Trends on Tuesday: Smartphone Market Growth Makes Mobile-Friendly a Must") because they have no other easily accessible options. If your agency primarily serves underprivileged, low-income or minority communities, these rates are even higher, and it is exponentially more crucial to your mission to prepare your digital content to be mobile-optimized as soon as possible, if not first, before the desktop experience.
 
 From breaking news and safety information in a disaster, to reporting community issues, to researching health issues, to looking up government services—smartphones are a critically important tool for government agencies to serve and connect with the people they serve.

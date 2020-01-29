@@ -5,21 +5,20 @@ title: Crowdsourced Digital Citizen Services Summit
 summary: 'In May 2015, we’re hosting the second DigitalGov Citizen Services Summit. This round we are looking to you&mdash;federal innovators across government&mdash;to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better'
 authors:
   - apiazza
-categories:
-  - Challenges
-  - Code
-  - Content
+topics:
+  - challenges
+  - code
+  - content
   - crowdsourcing-and-citizen-science
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Monthly Theme
-  - Our Work
-  - Social Media
-  - UX
-tag:
+  - product-management
+  - metrics
+  - mobile
+  - monthly-theme
+  - our-work
+  - social-media
+  - ux
   - crowdsourcing
-  - DigitalGov Summit
+  - digitalgov-summit
 ---
 
 In May 2015, we’re hosting the second DigitalGov Citizen Services Summit "Spring 2015 DigitalGov Citizen Services Summit"). This round we are looking to you—federal innovators across government—to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better digital services. So, we’ve set up a [crowdsourcing platform](https://crowdhall.com/h/299/) where you can suggest presentation ideas and vote for your favorites.

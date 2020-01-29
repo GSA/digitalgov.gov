@@ -5,29 +5,28 @@ title: 'Structured Content in Government: How HHS and NCI Are Getting Started'
 summary: 'Metadata, tagging, content modeling &hellip; they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed. If you’re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall content'
 authors:
   - hannah-gladfelter-rubin
-categories:
-  - Content
-  - Data
-  - Mobile
-  - Monthly Theme
-tag:
-  - content models
-  - content strategy
-  - DGU
+topics:
+  - content
+  - data
+  - mobile
+  - monthly-theme
+  - content-models
+  - content-strategy
+  - digitalgov-university
   - HHS
   - metadata
-  - Mobile UX Guideline 1
-  - National Cancer Institute
+  - mobile-ux-guideline-1
+  - national-cancer-institute
   - NCI
-  - open and structured content models
-  - United States Department of Health and Human Services
+  - open-and-structured-content-models
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 
 
 Metadata, tagging, content modeling … they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed.
 
-If you’re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall [content strategy]({{< link "tag/content-strategy" >}}). In practice, however, a lot depends on your agency’s culture, its technical resources, its existing practices, and the state of your content.
+If you’re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall [content strategy]({{< ref "/topics/content-strategy" >}}). In practice, however, a lot depends on your agency’s culture, its technical resources, its existing practices, and the state of your content.
 
 At one end of the spectrum, you might have little to no formal structure around your digital content, and you’d like to add metadata to help you manage it more dynamically. At the other end, you may have well-developed metadata but want to rethink the overall content architecture as your product line expands and diversifies. On the business side, you may have strong buy-in, or you may need to sell the idea to managers, authors, or both.
 

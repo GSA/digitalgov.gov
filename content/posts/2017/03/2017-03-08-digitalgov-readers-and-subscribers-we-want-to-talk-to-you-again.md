@@ -5,22 +5,21 @@ title: 'DigitalGov Readers and Subscribers: We Want to Talk to You (Again)'
 summary: ' We at DigitalGov want to hear more about you &#8211; your job, your role, the challenges you face &mdash; all of it &mdash; as you work to deliver more secure, effective, and reliable'
 authors:
   - digitalgov-team
-categories:
-  - Content
-  - Managing Digital
-  - Our Work
-  - user-testing-and-research
-  - UX
-tag:
+topics:
   - content
-  - Customer Experience
-  - CX
-  - DigitalGov University
+  - product-management
+  - our-work
+  - user-testing-and-research
+  - ux
+  - content
+  - cx
+  - cx
+  - digitalgov-university
   - 'Office of Products and Programs'
   - OPP
   - research
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="http://i.giphy.com/3o6Zt3PBAGPUvmvUJO.gif" alt="An animated gif of a girl with the word Hi written on her hand from National Archives' Giphy.com collection." >}}

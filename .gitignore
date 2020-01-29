@@ -8,3 +8,4 @@ content/images/uploaded/
 node_modules
 .ruby-version
 .env
+.DS_Store

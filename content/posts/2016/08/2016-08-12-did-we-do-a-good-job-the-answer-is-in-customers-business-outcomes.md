@@ -5,13 +5,12 @@ title: 'Did We Do a Good Job? The Answer Is in Customers&#8217; Business Outcome
 summary: 'Earlier this week, I shared with my colleagues at EXIM the results of our 2016 export credit insurance customer survey. This is the third consecutive year that our largest customer segment has been asked to share their feedback with us. We appreciate knowing, through our customers&#8217; eyes, how we are doing on our agency&#8217;s strategic'
 authors:
   - stephanie-thum
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
-  - customer satisfaction
-  - customer service
-  - CX
+topics:
+  - product-management
+  - cx
+  - customer-satisfaction
+  - customer-service
+  - cx
   - Ex-Im Bank
   - Export-Import Bank of the United States
 ---
@@ -28,6 +27,6 @@ Starting on page 10 of the summary report, you will see, through their own ratin
 
 To use an old phrase, “at the end of the day,” this is EXIM Bank’s mission. And through this survey, our customers have shared a very positive description, in the context of their own business outcomes, as to how we are meeting our mission. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
 
-[Last year’s survey report]({{< link "2015-12-22-after-the-survey-turning-customer-feedback-into-action.md" >}}) described how EXIM Bank has responded to customer feedback in the past. We will continue to incorporate customer views into our work—not just within our export credit insurance offerings, but also in our working capital guarantee and medium-term insurance and loan guarantee product lines, which are also used by many U.S. small business exporters. We know that we have work to do to improve our processes and the surrounding communication, as some of the survey scores show.
+[Last year’s survey report]({{< ref "2015-12-22-after-the-survey-turning-customer-feedback-into-action.md" >}}) described how EXIM Bank has responded to customer feedback in the past. We will continue to incorporate customer views into our work—not just within our export credit insurance offerings, but also in our working capital guarantee and medium-term insurance and loan guarantee product lines, which are also used by many U.S. small business exporters. We know that we have work to do to improve our processes and the surrounding communication, as some of the survey scores show.
 
 To the hundreds of U.S. small business exporters who took the time to answer our survey, we thank you for your time and feedback. And to the cadre of approved insurance brokers who help us work with our end-user customers, we thank you for helping us reach those U.S. exporters. We are committed to listening and will continue working on ways to improve customers&#8217; experiences with EXIM Bank.

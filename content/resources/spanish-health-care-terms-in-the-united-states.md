@@ -1,11 +1,15 @@
 ---
-url: /resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/
+slug: spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states
 date: 2014-06-11 12:40:27 -0400
 title: 'Spanish Language Style Guide and Glossaries: Spanish Health Care Terms in the United States'
 summary: 'A list of common English health care and medical terms, and their Spanish translations.'
+topics:
+  - multilingual
+  - multilingual-community
 authors:
   - lgodfrey
   - lmartinez
+
 ---
 
 Below is a list of common English health care and medical terms (in **bold**), and their equivalent Spanish translations (in _italics_).

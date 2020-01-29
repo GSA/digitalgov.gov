@@ -1,25 +1,33 @@
 ---
+# View this page at https://digital.gov/2019/06/13/building-trust-with-users-through-open-communication-feedback
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: building-trust-with-users-through-open-communication-feedback
-date: 2019-06-13 12:00:00 -0500
-title: 'Building Trust with Users Through Open Communication and Feedback'
-deck: 'A look at how FEMA responds to user needs and bugs in their app development&#46;'
-summary: 'A look at how FEMA responds to user needs and bugs in their app development&#46;'
-authors:
-  - robert-fitzhenry
-categories:
+date: 2019-06-13 14:00:00 -0500
+kicker: Mobile
+title: "Building Trust with Users Through Open Communication and Feedback"
+deck: "A look at how FEMA responds to user needs and bugs in their app development."
+summary: "A look at how FEMA responds to user needs and bugs in their app development."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - cx
   - mobile
-tag:
+  - content-strategy
   - apps
   - fema
-  - content-strategy
-  - cx
-  - federal-emergency-management-agency
   - thursday-mobile-products
-featured_image:
-  uid: fema-mobile-app-home-cropped
-  alt: 'A screen from the FEMA app&#46;'
 
+# see all authors at https://digital.gov/authors
+authors:
+  - r-fitz-fitzhenry
+
+# Primary Image
+primary_image: "fema-mobile-app-home-updated"
+
+# Make it better ♥
 ---
+
 
 “If it’s not broke, don’t fix it,” doesn’t work with mobile apps. A patch, update, or platform change upstream often means preventive maintenance downstream. The unavoidable fixes keep things from getting dammed up, even if there’s no sure way to prevent every interruption of the information flow.
 

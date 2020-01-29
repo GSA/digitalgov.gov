@@ -1,0 +1,68 @@
+{{/*
+  ======================================
+  AUTHORS
+  ======================================
+*/}}
+
+{{- if .Params.community_managers -}}
+  <div class="authors-list">
+
+    {{/* Sets the taxonomy we're pulling here */}}
+    {{- $taxonomy := "authors" -}}
+    {{- $authors := .Param $taxonomy -}}
+
+    {{/* get the authors  */}}
+    {{- $authors := .Params.community_managers -}}
+
+    {{ if ge (len $authors) 2 }}
+      <h3>Community Managers</h3>
+    {{ else }}
+      <h3>Community Manager</h3>
+    {{ end }}
+
+    {{/* Count the number of authors */}}
+    {{- $length := $authors | len -}}
+
+    {{/* NOTE: Many of the pages in digital.gov have duplicate authors. */}}
+    {{/* So we are running "uniq" on the array to remove duplicates */}}
+    {{- range $i, $e := uniq ($authors) -}}
+
+      {{/* If the byline was entered as a display name (i.e. - John Smith )
+      then this will turn that into a UID for use in a URL. */}}
+      {{- $uid := $e | urlize -}}
+
+      {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
+      {{- $author := $.Site.GetPage (printf "/%s/%s" $taxonomy $uid) -}}
+      {{- with $author -}}
+
+      <div class="author grid-row">
+        <div class="grid-col-auto">
+          <div class="photo">
+            {{- if $author.Params.github -}}
+            <img src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="Photo: {{ $author.Params.display_name | default $uid -}}">
+            {{- else -}}
+            {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
+            <img src="{{- $default_profile | absURL -}}" alt="Photo: {{ $author.Params.display_name | default $uid -}}">
+            {{- end -}}
+          </div>
+        </div>
+        <div class="grid-col-9">
+          <div class="details">
+            <h5>
+              <a href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.Params.display_name | default $uid -}} " rel="author">
+                {{- $author.Params.display_name | default $uid -}}
+              </a>
+            </h5>
+
+            {{- if $author.Params.agency -}}
+            <p>{{- $author.Params.agency -}}{{- if $author.Params.location -}}&nbsp;|&nbsp;{{- $author.Params.location -}}{{- end -}}</p>
+            {{- end -}}
+
+          </div>
+        </div>
+      </div>
+
+      {{- end -}}
+    {{- end -}}
+  </div>
+{{- end -}}

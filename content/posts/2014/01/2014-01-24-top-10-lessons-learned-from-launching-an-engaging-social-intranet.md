@@ -5,9 +5,8 @@ title: Top 10 Lessons Learned from Launching an Engaging Social Intranet
 summary: 'On January 16th, the Federal Communicators Network gathered at the National Archives and Records Administration (NARA). The topic of the day was Driving Employee Engagement through a Social Intranet, and Kelly Osborn, NARA&#8217;s community manager for the Internal Collaboration Network (ICN) was the expert speaker. Kelly has been the driving force behind the project from'
 authors:
   - mary-king
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - FCN
   - NARA
 ---

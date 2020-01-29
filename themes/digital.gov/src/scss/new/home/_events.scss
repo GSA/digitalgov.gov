@@ -1,0 +1,56 @@
+// All posts page — https://digital.gov/posts/
+.events.section{
+  .paper{
+    @include u-bg('blue-warm-5');
+  }
+}
+
+// header styles that apply to both places
+header.header-events{
+  @include u-padding-bottom(2);
+  @include u-text('primary-dark');
+  h1, h2{
+    @include u-margin-y(1);
+    @include u-font('sans', '2xl');
+    @include u-text('heavy');
+    @include u-text('center');
+    @include u-line-height('sans', 2);
+  }
+  .deck, p{
+    @include u-margin(0);
+    @include u-text('light');
+    @include u-text('center');
+    @include u-font('sans', 'lg');
+    @include u-line-height('sans', 3);
+    strong{
+      @include u-text('medium');
+    }
+    @include at-media('tablet-lg') {
+      @include u-margin-x('auto');
+      @include u-width('tablet-lg');
+    }
+  }
+  .newsletter{
+    p{
+      @include u-padding-x(2);
+      @include u-font('sans', 'sm');
+      @include u-text('left');
+    }
+    a{
+      @include u-text('no-underline');
+      @include u-text('primary-vivid');
+      @include u-text('bold');
+      img{
+        @include u-position('relative');
+        @include u-top(1);
+        @include u-width(4);
+      }
+      &:hover{
+        span{
+          @include u-border-bottom('2px', 'accent-warm', 'solid');
+        }
+      }
+    }
+
+  }
+}

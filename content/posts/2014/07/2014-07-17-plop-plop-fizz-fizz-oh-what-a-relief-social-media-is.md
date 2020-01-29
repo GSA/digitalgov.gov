@@ -5,13 +5,12 @@ title: Plop Plop, Fizz Fizz, Oh What a Relief Social Media Is!
 summary: 'We often think of social media as a way to expand our audience, but some public health departments are using it as a new tool for tracking outbreaks of salmonella, e. coli, and other foodborne illnesses. It’s a familiar story: A nice meal out results in days of gastrointestinal discomfort when you realize only too'
 authors:
   - eden-savino
-categories:
-  - Data
-  - Social Media
-tag:
+topics:
+  - data
+  - social-media
   - GAO
-  - open source
-  - US Government Accountability Office
+  - open-source
+  - us-government-accountability-office
 ---
 
 {{< legacy-img src="2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" caption="" >}} 

@@ -1,8 +1,10 @@
 ---
-url: /resources/code-of-federal-regulations-cfr-parts-1220-1238/
+slug: code-of-federal-regulations-cfr-parts-1220-1238
 date: 2015-11-23 3:13:12 -0400
 title: Code of Federal Regulations (CFR), Parts 1220-1238
 summary: 'Subchapter B  of the CFR specifies polices for federal agencies records management programs relating to proper records creation and maintenance, adequate documentation, and records disposition. View Code of Federal Regulations (CFR), Parts 1220-1238 Related Links NARA guidance for implementing Section 207(e) of the E-Gov Act NARA guidance on managing web records NARA Bulletin 2014-02 Guidance'
+topics:
+  - policy
 authors:
   - andreanocesigritz
 ---
@@ -27,4 +29,4 @@ Subchapter B  of the CFR specifies polices for federal agencies records manageme
 
  
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

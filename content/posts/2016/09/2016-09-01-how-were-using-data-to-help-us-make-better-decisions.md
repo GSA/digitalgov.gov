@@ -5,20 +5,19 @@ title: 'How We&#8217;re Using Data to Help Us Make Better Decisions'
 summary: 'This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA’s data management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and'
 authors:
   - david-shive
-categories:
-  - Data
-tag:
+topics:
+  - data
   - cloud
   - data
   - FAS
   - Federal Acquisition Service
-  - GSA
+  - gsa
   - Office of Governmentwide Policy
   - OGP
-  - open data
+  - open-data
   - PBS
   - Public Buildings Service
-  - US General Services Administration
+  - us-general-services-administration
 ---
 
 This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA’s data management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and insightful data can help us be a more data-driven organization. I am proud to say that D2D now has more than 1,000 users and over 100 published dashboards across GSA!

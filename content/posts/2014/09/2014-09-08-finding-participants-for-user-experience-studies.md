@@ -5,24 +5,23 @@ title: Finding Participants for User Experience Studies
 summary: 'How do you find participants for your usability studies? I spoke recently with the User Experience Community of Practice about how we recruit participants for usability and cognitive studies at the U.S. Bureau of Labor Statistics (BLS). Hopefully I can give you some new ideas about recruiting volunteers to fuel your user research. At BLS, we'
 authors:
   - jean-fox
-categories:
-  - Communities
+topics:
+  - communities
   - user-testing-and-research
-tag:
-  - AoI
+  - aoi
   - BLS
   - DOL
-  - US Bureau of Labor Statistics
-  - US Department of Labor
-  - usability testing
-  - user experience
+  - us-bureau-of-labor-statistics
+  - us-department-of-labor
+  - usability-testing
+  - user-experience
 ---
 
 {{< legacy-img src="2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}} 
 
 How do you find participants for your usability studies?
 
-I spoke recently with the [User Experience Community of Practice]({{< link "user-experience.md" >}}) about how we recruit participants for usability and cognitive studies at the [U.S. Bureau of Labor Statistics](http://www.bls.gov/home.htm) (BLS). Hopefully I can give you some new ideas about recruiting volunteers to fuel your user research.
+I spoke recently with the [User Experience Community of Practice]({{< ref "user-experience.md" >}}) about how we recruit participants for usability and cognitive studies at the [U.S. Bureau of Labor Statistics](http://www.bls.gov/home.htm) (BLS). Hopefully I can give you some new ideas about recruiting volunteers to fuel your user research.
 
 At BLS, we need different types of participants for different studies. Very often, we are looking for members of the general public. To find these participants, we have placed ads in newspapers and online ad services. Also, people who have enjoyed their experience with BLS studies have referred friends to us. Our list is now large enough that we can usually recruit participants from the list without further advertising.
 
@@ -40,6 +39,6 @@ Our studies usually last about an hour. We conduct most of our studies in our la
 
 This is how we recruit participants at BLS. If you have any additional suggestions about recruiting, please leave them in the comments below!
 
-_**Jean E. Fox** is Research Psychologist at the U.S. Bureau of Labor Statistics and Co-Chair of the [User Experience Community of Practice]({{< link "user-experience.md" >}})._
+_**Jean E. Fox** is Research Psychologist at the U.S. Bureau of Labor Statistics and Co-Chair of the [User Experience Community of Practice]({{< ref "user-experience.md" >}})._
 
  

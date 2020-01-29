@@ -15,6 +15,9 @@ registration_url: https://www.eventbrite.com/e/marketing-as-a-service-an-introdu
 youtube_id: mg1W8l1bfqI
 aliases:
   - /event/marketingasaservice-an-introduction-usagovs-partnership-toolkit/
+topics:
+  - usagov
+
 ---
 
 USAGov recognizes that all of us as agencies have a common mission: to serve the public. We work with different agency partners to educate and inform them on various government programs and services. Through these partnerships, we not only engage and guide different audiences, but work to steadily demystify what it means to “market in the Government.”

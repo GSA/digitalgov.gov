@@ -3,16 +3,16 @@ slug: mobile-first
 date: 2013-09-30 11:44:17 -0400
 title: Mobile First
 summary: Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority. This means the site
-categories:
-  - Design
-  - Mobile
-  - strategy-and-policy
-  - UX
-tag:
+topics:
+  - design
+  - mobile
+  - strategy
+  - policy
+  - ux
   - mobile
   - mobile-first
-  - Recaps
-  - responsive web design
+  - recaps
+  - responsive-web-design
 ---
 
 [{{< legacy-img src="2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/smartphones.jpg)Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority.
@@ -33,6 +33,6 @@ According to <a href="http://www.lukew.com/resources/mobile_first.asp" rel="nofo
   * forces you to focus and prioritize your products by embracing the constraints inherent in mobile design, and
   * allows you to deliver innovative experiences by building on new capabilities native to mobile devices and modes of use.
 
-Mobile first is closely related to the concept of [responsive web design]({{< link "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") which uses <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS3" rel="nofollow">W3C CSS3 media queries</a>.
+Mobile first is closely related to the concept of [responsive web design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") which uses <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS3" rel="nofollow">W3C CSS3 media queries</a>.
 
  

@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: America’s New First Screen'
 summary: 'It has finally happened: Mobile has bumped TV as America&#8217;s first screen. Recent analysis from Flurry Analytics, which included data from the Bureau of Labor Statistics, found that time spent on mobile devices grew in the U.S. by 9.3% to 2 hrs and 57 minutes, while time spent watching TV has remained flat at 2 hrs and 48'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - BLS
   - mobile
-  - Mobile App Development Program
-  - mobile apps
-  - Trends on Tuesday
-  - US Bureau of Labor Statistics
+  - mobile-app-development-program
+  - mobile-apps
+  - trends-on-tuesday
+  - us-bureau-of-labor-statistics
 ---
 
 {{< legacy-img src="2014/12/600-x-450-Shows-tablet-denphumi-iStock-Thinkstock-176622799.jpg" alt="concept image of a mobile tablet being used for a variety of tasks; television, movies, games, music, email, social networks, et cetera." caption="" >}} 
@@ -29,4 +28,4 @@ So what are some of the factors that helped mobile snatch the big prize from tel
 
 This a big moment for the mobile industry, as well as app developers (like us). Despite the belief that the larger players in the app industry would monopolize time spent on mobile, consumers have shown that there is growing interest in specialized applications.
 
-For more information on how to successfully develop mobile applications and/or mobile websites for the public, check out the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program").
+For more information on how to successfully develop mobile applications and/or mobile websites for the public, check out the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program").

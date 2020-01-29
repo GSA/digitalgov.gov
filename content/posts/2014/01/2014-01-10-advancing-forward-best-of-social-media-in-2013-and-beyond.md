@@ -5,13 +5,12 @@ title: 'Advancing Forward: Best of Social Media in 2013 and Beyond'
 summary: 'It was a very good year, as Frank Sinatra sang, in the field of social media for the federal government. Advances were made not only in the technologies applied by agencies, but also the policies and strategies that unlock their potential to improve services and reduce costs. I’d like to share with you just some'
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
-  - SocialGov
+topics:
+  - social-media
+  - socialgov
 ---
 
-[<img class="aligncenter size-full wp-image-105172" alt="Three astronauts floating in a space capsule." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Best-of-1.jpg" width="569" height="346" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Best-of-1.jpg)It was a very good year, as Frank Sinatra sang, in the field of social media for the federal government. Advances were made not only in the technologies applied by agencies, but also the policies and strategies that unlock their potential to improve services and reduce costs. I’d like to share with you just some of the programs that made 2013 a very good year for the <a title="Advancing Forward: Best of Social Media in 2013 and Beyond" href="https://digitalgov.sites.usa.gov/2014/01/10/advancing-forward-best-of-social-media-in-2013-and-beyond/" target="_blank"><strong>SocialGov community</strong></a>, what the challenges are that we’ll face in the coming year, and also give you insight into what to expect in 2014 as we overcome those emerging challenges together with you.
+[<img class="aligncenter size-full wp-image-105172" alt="Three astronauts floating in a space capsule." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Best-of-1.jpg" width="569" height="346" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Best-of-1.jpg)It was a very good year, as Frank Sinatra sang, in the field of social media for the federal government. Advances were made not only in the technologies applied by agencies, but also the policies and strategies that unlock their potential to improve services and reduce costs. I’d like to share with you just some of the programs that made 2013 a very good year for the <a title="Advancing Forward: Best of Social Media in 2013 and Beyond" href="https://digital.gov/2014/01/10/advancing-forward-best-of-social-media-in-2013-and-beyond/" target="_blank"><strong>SocialGov community</strong></a>, what the challenges are that we’ll face in the coming year, and also give you insight into what to expect in 2014 as we overcome those emerging challenges together with you.
 
 <p dir="ltr">
   To break the ice, let’s start with an agency it’s easy to find among the stars: <strong>NASA</strong>. The space agency’s Twitter account is the most followed in government, and their innovators like Jason Townsend are always looking for new and better ways to engage their community. NASA <a href="http://www.youtube.com/watch?v=r7_BZe6cGoI" target="_blank">hosted two <strong>Google Hangouts</strong> with astronauts</a> aboard the <strong>International Space Station</strong> — programs like these shatter the mold for what limits other agencies think exist, and open the door to better programs across mission fields.
@@ -42,7 +41,7 @@ tag:
     </p>
 
 <p dir="ltr">
-  That’s just one approach though — in 2013 agencies diverged from only engaging on one or two main platforms and expanded to look at a fuller breadth of options to improve their mission. Agencies now have more than 60 social media apps available to them with <a title="Federal-Compatible Terms of Service Agreements" href="https://digitalgov.sites.usa.gov/resources/federal-compatible-terms-of-service-agreements/" target="_blank">federal-friendly terms of service</a> negotiated, allowing them to better select which method is best for engagement.
+  That’s just one approach though — in 2013 agencies diverged from only engaging on one or two main platforms and expanded to look at a fuller breadth of options to improve their mission. Agencies now have more than 60 social media apps available to them with <a title="Federal-Compatible Terms of Service Agreements" href="https://digital.gov/resources/federal-compatible-terms-of-service-agreements/" target="_blank">federal-friendly terms of service</a> negotiated, allowing them to better select which method is best for engagement.
 </p>
 
   * <p dir="ltr">
@@ -100,11 +99,11 @@ tag:
 </p>
 
   * <p dir="ltr">
-      The <a title="Social Media Metrics for Federal Agencies" href="https://digitalgov.sites.usa.gov/2013/04/19/social-media-metrics-for-federal-agencies-2/" target="_blank">first guidance for performance analysis of social media</a> in federal agencies
+      The <a title="Social Media Metrics for Federal Agencies" href="https://digital.gov/2013/04/19/social-media-metrics-for-federal-agencies-2/" target="_blank">first guidance for performance analysis of social media</a> in federal agencies
     </p>
 
   * <p dir="ltr">
-      The <a title="Improving the Accessibility of Social Media in Government" href="https://digitalgov.sites.usa.gov/2013/04/23/improving-the-accessibility-of-social-media-in-government/" target="_blank">first toolkit for improving federal social media accessibility</a> for persons with disabilities
+      The <a title="Improving the Accessibility of Social Media in Government" href="https://digital.gov/2013/04/23/improving-the-accessibility-of-social-media-in-government/" target="_blank">first toolkit for improving federal social media accessibility</a> for persons with disabilities
     </p>
 
   * <p dir="ltr">
@@ -120,7 +119,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/best-of-4b.jpg"><img class="size-full wp-image-105242 alignright" alt="best of 4b" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/best-of-4b.jpg" width="284" height="285" /></a>What’s next? Whether through mobile development with the <a title="Mobile" href="https://digitalgov.sites.usa.gov/communities/mobile/" target="_blank"><strong>Mobile Community</strong></a>, innovative prize competitions through <strong><a href="https://challenge.gov/" target="_blank">Challenge.gov</a></strong>, the members of our SocialGov Community will continue to work across offices, agencies and missions to modernize and improve public services and meet the challenges of tomorrow.
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/best-of-4b.jpg"><img class="size-full wp-image-105242 alignright" alt="best of 4b" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/best-of-4b.jpg" width="284" height="285" /></a>What’s next? Whether through mobile development with the <a title="Mobile" href="https://digital.gov/communities/mobile/" target="_blank"><strong>Mobile Community</strong></a>, innovative prize competitions through <strong><a href="https://challenge.gov/" target="_blank">Challenge.gov</a></strong>, the members of our SocialGov Community will continue to work across offices, agencies and missions to modernize and improve public services and meet the challenges of tomorrow.
 </p>
 
 <p dir="ltr">
@@ -140,7 +139,7 @@ tag:
     </p>
 
 <p dir="ltr">
-  <strong>How are we going to face these challenges in 2014?</strong> Together. The shared services model we use helps us to not only share guidance, recommendations, and tools like the <a href="https://digitalgov.sites.usa.gov/services/social-media-registry/" target="_blank"><strong>Federal Social Media Registry</strong></a> — we also use our strength of numbers across agencies to share knowledge of everything from adjustments in platform algorithms, reviews of the newest tools, and the analysis of our legal, privacy and security teams. The SocialGov Community may be only one-deep in some agencies, but that one person has the collective support and knowledge of more than 130 agencies at their fingertips.
+  <strong>How are we going to face these challenges in 2014?</strong> Together. The shared services model we use helps us to not only share guidance, recommendations, and tools like the <a href="https://digital.gov/services/social-media-registry/" target="_blank"><strong>Federal Social Media Registry</strong></a> — we also use our strength of numbers across agencies to share knowledge of everything from adjustments in platform algorithms, reviews of the newest tools, and the analysis of our legal, privacy and security teams. The SocialGov Community may be only one-deep in some agencies, but that one person has the collective support and knowledge of more than 130 agencies at their fingertips.
 </p>
 
 <p dir="ltr">

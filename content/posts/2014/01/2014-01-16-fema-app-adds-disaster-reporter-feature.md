@@ -3,16 +3,15 @@ slug: fema-app-adds-disaster-reporter-feature
 date: 2014-01-16 17:03:25 -0400
 title: 'FEMA App adds &#8216;Disaster Reporter&#8217; feature'
 summary: 'The Federal Emergency Management Agency (FEMA) is taking the well-known slogan, &#8220;See something, say something,&#8221; to the crowd. Consider it more &#8220;See something, submit something.&#8221; Harnessing the power of citizen intelligence to understand and respond to disasters, FEMA in late 2013 launched a new feature in'
-categories:
+topics:
   - crowdsourcing-and-citizen-science
-  - Mobile
-  - Social Media
-tag:
+  - mobile
+  - social-media
   - crowdsourcing
-  - FEMA
-  - mobile apps
-  - mobile gov
-  - Thursday Mobile Products
+  - fema
+  - mobile-apps
+  - mobile-gov
+  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2014/01/femaappphoto-266x400.png" alt="Fema App Screenshot of Disaster Reporter Feature" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/femaappphoto.png)The [Federal Emergency Management Agency](http://www.fema.gov) (FEMA) is taking the well-known slogan, &#8220;See something, say something,&#8221;__ to the crowd. Consider it more &#8220;See something, submit something.&#8221;

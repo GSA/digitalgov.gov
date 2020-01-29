@@ -1,0 +1,65 @@
+// Guide Header
+.guides{
+	// Gov banner — makes it widescreen
+	.gov-banner{
+		.usa-banner__inner{
+			@include u-maxw('widescreen');
+		}
+		.usa-banner__content{
+			@include u-maxw('widescreen');
+		}
+	}
+	// Header — makes it widescreen
+	header.usa-header{
+		.usa-nav-container{
+			@include u-maxw('widescreen');
+		}
+	}
+
+	// ================
+
+	main{
+		@include u-padding(0);
+		@include u-border-top(0, !important);
+	}
+}
+
+
+.guides{
+	// ================
+	// Header styles
+
+	.hero{
+		@include u-margin-bottom(0);
+		@include u-padding-y(5);
+		@include u-bg('base-lightest');
+
+		// If is the guide home
+		h1{
+			@include u-font('sans', 'xl');
+			@include u-text('heavy');
+			@include u-text('primary-darker');
+			a{
+				@include u-text('primary-darker');
+				@include u-text('no-underline');
+			}
+		}
+		h2{
+			@include u-font('sans', 'lg');
+			@include u-text('heavy');
+			a{
+				@include u-text('primary-darker');
+				@include u-text('no-underline');
+			}
+		}
+		.deck{
+			@include u-margin(0);
+			@include u-margin-top('05');
+			@include u-font('sans', 'lg');
+			@include u-text('normal');
+			@include u-text('primary-dark');
+			@include u-line-height('sans', 2);
+			@include u-maxw('desktop');
+		}
+	}
+}

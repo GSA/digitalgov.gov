@@ -5,13 +5,12 @@ title: 18F’s Style Guide for Open Source Project Documentation
 summary: 'We routinely publish our best practices in the 18F Guides, and today we’re happy to launch a new one: the 18F Open Source Style Guide. The Open Source Style Guide is a comprehensive handbook for writing clear, accessible, and user-friendly documentation so that'
 authors:
   - melody-kramer
-categories:
-  - Code
-  - Writing
-tag:
-  - 18F
+topics:
+  - code
+  - writing
+  - 18f
   - GitHub
-  - open source
+  - open-source
 ---
 
 We routinely publish our best practices in the [18F Guides](https://pages.18f.gov/guides/), and today we’re happy to launch a new one: the [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/).

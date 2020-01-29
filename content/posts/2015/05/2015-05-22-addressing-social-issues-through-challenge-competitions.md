@@ -5,12 +5,11 @@ title: Addressing Social Issues Through Challenge Competitions
 summary: 'Innovation challenges leverage public creativity to address important problems. They can also be a tool for reaching and educating the next generation of leaders about social issues. The Office of Policy Development and Research (PD&R) at the U.S. Department of Housing and Urban Development (HUD) recently wrapped up the second year of the Innovation in'
 authors:
   - claire-yerke-desjardins
-categories:
-  - Challenges
-tag:
-  - challenges and prize competitions
+topics:
+  - challenges
+  - challenges-and-prize-competitions
   - HUD
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-housing-and-urban-development
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Building-under-construction-with-crane-green-bluebay2014-iStock-Thinkstock-494558479.jpg" alt="Concept graphic for housing construction, planning and costs." caption="" >}} 

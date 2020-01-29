@@ -5,13 +5,12 @@ title: 'The API Briefing: Keeping up with Federal Employee Training – DOD’s 
 summary: 'Federal employee training is about to receive a much-needed boost in the President’s 2015 Budget Request. Training is essential to the federal workforce and agencies have a number of learning management systems to deliver online training along with the traditional classroom training. The problem is that all of these training sources don’t share information with'
 authors:
   - bbrantley
-categories:
-  - API
-tag:
-  - API
+topics:
+  - api
+  - api
   - DoD
-  - United States Department of Defense
-  - Wednesday API Briefing
+  - united-states-department-of-defense
+  - wednesday-api-briefing
 ---
 
 Federal employee training is about to receive a much-needed boost in the <a href="http://www.washingtonpost.com/politics/federal_government/hard-hit-federal-training-gets-attention-in-obamas-2015-budget-proposal/2014/03/02/cd6aaa5e-a0b1-11e3-9ba6-800d1192d08b_story.html" target="_blank">President’s 2015 Budget Request</a>. Training is essential to the federal workforce and agencies have a number of learning management systems to deliver online training along with the traditional classroom training. The problem is that all of these training sources don’t share information with each other about what training a learner has completed. Compiling a training record is a tedious and mostly manual process of printing out certificates, filling out SF-182s, and keeping paper records.

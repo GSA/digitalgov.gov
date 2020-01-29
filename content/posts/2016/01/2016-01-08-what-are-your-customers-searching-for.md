@@ -5,12 +5,11 @@ title: What Are Your Customers Searching For?
 summary: 'What are your agency’s website visitors looking for? Can they find it easily? How do you know? Search analytics provide valuable data that can positively affect an agency’s Web strategy. This topic was the focus of a recent webinar, Show Me the Data: Leveraging Analytics in DigitalGov Search. Dawn Pointer McCleskey, acting program manager for'
 authors:
   - awichman
-categories:
-  - Our Work
-tag:
+topics:
+  - our-work
   - analytics
-  - DigitalGov Search
-  - USAgov
+  - digitalgov-search
+  - usagov
 ---
 
 What are your agency’s website visitors looking for? Can they find it easily? How do you know? {{< legacy-img src="2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" caption="" >}} 

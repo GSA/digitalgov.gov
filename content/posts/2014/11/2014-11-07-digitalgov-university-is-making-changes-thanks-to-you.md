@@ -5,12 +5,11 @@ title: DigitalGov University is Making Changes Thanks to You
 summary: DigitalGov University took the pulse of our participants this spring and found that our audience wants more information about events, wants us to better communicate the value of programs and wants more access to our programs. DigitalGov University (DGU) is a platform for feds to share ideas, experiences and techniques to meet 21st century public
 authors:
   - apiazza
-categories:
-  - Monthly Theme
-  - Our Work
-tag:
-  - Customer Experience
-  - Open Opportunities program
+topics:
+  - monthly-theme
+  - our-work
+  - cx
+  - open-opportunities-program
 ---
 
 {{< legacy-img src="2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" caption="" >}} 
@@ -45,6 +44,6 @@ DGU has morphed over the years into a program by feds for feds. We listen and he
 
 [tell us, and we will put it on the calendar](https://www.surveymonkey.com/s/friend-event).
 
-Are you using social in an innovative way to meet your agency goals? Are you working in an agile environment? Are you more focused on creating mobile apps? Has using an open sourced tool allow you to work smarter? We want to know. [Submit your event ideas to us]({{< link "/about/" >}} "Contact Us"). Chances are other agencies can benefit from the awesome work you&#8217;re doing and the lessons you learned along the way. Feel free to also submit ideas on what you want to hear about or who you want to hear from.
+Are you using social in an innovative way to meet your agency goals? Are you working in an agile environment? Are you more focused on creating mobile apps? Has using an open sourced tool allow you to work smarter? We want to know. [Submit your event ideas to us]({{< ref "/about/_index.md" >}} "Contact Us"). Chances are other agencies can benefit from the awesome work you&#8217;re doing and the lessons you learned along the way. Feel free to also submit ideas on what you want to hear about or who you want to hear from.
 
-One last thing continue to check out the [events calendar]({{< link "events" >}}) to see what&#8217;s cookin&#8217;, and keep those cards and letters coming.
+One last thing continue to check out the [events calendar]({{< ref "/events" >}}) to see what&#8217;s cookin&#8217;, and keep those cards and letters coming.

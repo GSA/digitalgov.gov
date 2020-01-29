@@ -12,6 +12,11 @@ end_date: 2019-04-09 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-federal-community-of-practice-for-crowdsourcing-and-citizen-registration-58989187247
+topics:
+  - crowdsourcing
+  - challenges-and-prizes-community-of-practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
 youtube_id: Kx1kSJ4y-7s
 
 ---

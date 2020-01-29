@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: What’s Your Mobile [App]etite?'
 summary: 'In a few short years, the number of mobile apps has exploded, and the time spent on apps continues to increase. However, one thing hasn&#8217;t changed: the number of apps individuals use. The average smartphone owner uses 22 to 28 apps in a month, according to new data from Nielsen. Here are a few highlights'
 authors:
   - tjohnson
-categories:
-  - Design
-  - Mobile
-tag:
+topics:
+  - design
   - mobile
-  - Mobile App Development Program
-  - Mobile UX Guideline 5
-  - Trends on Tuesday
-  - user experience
+  - mobile
+  - mobile-app-development-program
+  - mobile-ux-guideline-5
+  - trends-on-tuesday
+  - user-experience
 ---
 
 {{< legacy-img src="2014/08/250-x-193-Shopping-cart-with-icons-on-Tablet-PC-urfinguss-iStock-Thinkstock-451689875.jpg" alt="Shopping cart filled with app icons on a mobile tablet." caption="" >}} 
@@ -26,4 +25,4 @@ In a few short years, the number of mobile apps has exploded, and the time spent
   * Mobile users spent nearly 11 hours per month, on average, accessing social networking and search apps.
   * Entertainment viewing, including video, audio and gaming apps, grew 71% among mobile users over the prior year.
 
-This is good, and better, news for government agencies that are developing mobile applications, and those considering it as part of their mobile strategy. If an agency can provide smartphone owners with an app that is intuitive and meets their needs, they have a good chance of being a go-to app for their target audience. If you need help deciding on that app for your agency, the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program") provides [case studies]({{< link "tag/mobile-gov-experience" >}}) and the latest [mobile trends]({{< link "tag/trends-on-tuesday" >}}) to help you plan your mobile product.
+This is good, and better, news for government agencies that are developing mobile applications, and those considering it as part of their mobile strategy. If an agency can provide smartphone owners with an app that is intuitive and meets their needs, they have a good chance of being a go-to app for their target audience. If you need help deciding on that app for your agency, the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") provides [case studies]({{< ref "/topics/mobile-gov-experience" >}}) and the latest [mobile trends]({{< ref "/topics/trends-on-tuesday" >}}) to help you plan your mobile product.

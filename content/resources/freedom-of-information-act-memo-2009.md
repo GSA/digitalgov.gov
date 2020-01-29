@@ -1,8 +1,11 @@
 ---
-url: /resources/freedom-of-information-act-memo-2009/
+slug: freedom-of-information-act-memo-2009
 date: 2015-09-03 1:10:21 -0400
 title: Freedom of Information Act Memo 2009
 summary: 'The Freedom of Information Act (FOIA) is the law that gives anyone the right to access information from the federal government. It is often described as the law that keeps citizens in the know about their government. This 2009 FOIA memo covers the following: An agency should not withhold information simply because it may do so legally. Whenever an'
+topics:
+  - policy
+  - foia
 authors:
   - apiazza
 ---
@@ -22,4 +25,4 @@ The disclosure obligation under the FOIA is not absolute. The Act provides exemp
 
 * * *
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

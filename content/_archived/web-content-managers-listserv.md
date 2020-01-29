@@ -1,11 +1,20 @@
 ---
 url: /communities/web-managers-forum/web-content-managers-listserv/
 date: 2014-03-04 10:22:04 -0400
-title: Web Content Managers Listserv
+title: Web Content Managers
 summary: 'The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal.'
+members: 1875
+topics:
+  - content
+  - product-management
+
+community_list:
+  - type: "listserv"
+    subscribe_email: alycia.piazza@gsa.gov
+    subject: "Join Web Content Managers"
 ---
 
-The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals. Learn more about the [Web Content Managers Forum]({{< link "web-managers-forum.md" >}} "Web Content Managers Forum").
+The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals. Learn more about the [Web Content Managers Forum]({{< ref "web-managers-forum.md" >}} "Web Content Managers Forum").
 
 ### Join
 

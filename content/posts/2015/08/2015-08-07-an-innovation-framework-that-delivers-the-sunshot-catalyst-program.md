@@ -5,15 +5,14 @@ title: 'An Innovation Framework That Delivers: The SunShot Catalyst Program'
 summary: 'Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people. The Department of Energy’s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans. As part of the initiative, the SunShot Catalyst open innovation program seeks to rapidly deliver solar solutions'
 authors:
   - awichman
-categories:
-  - Challenges
-tag:
-  - challenges and prize competitions
+topics:
+  - challenges
+  - challenges-and-prize-competitions
   - data
   - DOE
   - innovation
-  - open data
-  - United States Department of Energy
+  - open-data
+  - united-states-department-of-energy
 ---
 
 Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people.
@@ -49,7 +48,7 @@ Contreras said that the Catalyst team began working with topcoder after seeing t
 
 “There’s a lot of people willing to do work, and as the momentum builds, it becomes a passion and a livelihood,” Contreras said. “We see it with the sharing economy and we’re seeing it here, with our ability to take these communities and plug them into the Catalyst framework.”
 
-Catalyst also aligns with other federal efforts: for the Solar apps challenge, all 17 finalists made an effort to incorporate [Green Button data]({{< link "2015-02-04-saving-energy-one-green-button-at-a-time.md" >}}).
+Catalyst also aligns with other federal efforts: for the Solar apps challenge, all 17 finalists made an effort to incorporate [Green Button data]({{< ref "2015-02-04-saving-energy-one-green-button-at-a-time.md" >}}).
 
 “Everybody knows that data, in and of itself, is valuable,” Contreras said. “I think Catalyst has shown that we are capable of building products on that data. Underneath this software development is a wealth of open data that solar has put out there. We have a ton of data assets from DOE labs across the nation, and they are the data layer for these products. Not only are we successful with engaging new people, we are unlocking data. The more people who know about energy, who can code, and who are entrepreneurs, are helping the data movement.”
 

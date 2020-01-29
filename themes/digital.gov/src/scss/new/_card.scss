@@ -1,0 +1,126 @@
+.card{
+	@include u-margin-bottom('205');
+	@include u-bg('white');
+	@include u-border-bottom('1px', 'gray-cool-10', 'solid');
+	@include u-padding('105');
+	@include u-padding-bottom(2);
+	@include u-bg('white');
+	transition: background-color .2s;
+	@include at-media('tablet') {
+		@include u-margin-bottom(1);
+		@include u-padding('205');
+	}
+	.kicker{
+		@include u-margin(0);
+		@include u-margin-bottom('05');
+		@include u-font('sans', '2xs');
+		@include u-text('semibold');
+		@include u-text('uppercase');
+		@include u-color('primary-vivid');
+	}
+	h3{
+		@include u-margin(0);
+		@include u-font('sans', 'lg');
+		@include u-text('bold');
+		a{
+			@include u-text('primary-darker');
+			@include u-text('no-underline');
+		}
+	}
+	.summary,
+	.deck{
+		@include u-margin-top(1);
+		@include u-line-height('sans', 3);
+		@include u-font('sans', 'md');
+		@include u-text('normal');
+	}
+
+	.meta{
+		@include u-margin-top('105');
+		@include u-display('flex');
+		@include at-media('tablet-lg') {
+			@include u-margin-top('105');
+		}
+
+		.date{
+			@include u-margin-top(0);
+			@include u-margin-right('105');
+			@include u-font('sans', '2xs');
+			@include at-media('tablet-lg') {
+				@include u-font('sans', 'xs');
+				@include u-margin-right(2);
+			}
+			@include u-text('gray-cool-60');
+			@include u-text('normal');
+			a{
+				@include u-text('gray-cool-60');
+				@include u-text('no-underline');
+				&:hover{
+					@include u-border-bottom('2px', 'accent-warm', 'solid');
+				}
+			}
+		}
+		.authors-list-short{
+		}
+		.clicks{
+			@include u-margin-top(0);
+			@include u-font('sans', '2xs');
+			@include at-media('tablet-lg') {
+				@include u-font('sans', 'xs');
+			}
+			@include u-text('italic');
+			// @include u-display('block');
+			@include u-display('none'); // temporary
+			@include u-text('gold-40v');
+			i{
+				@include u-text('gold-30v');
+			}
+			white-space: nowrap;
+		}
+	}
+
+	.media-featured{
+		@include u-margin-bottom(2);
+		@include at-media('tablet') {
+			@include u-margin-bottom(0);
+		}
+	}
+}
+
+.card-linked{
+	// To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+	@include u-position('relative');
+	.overlay span{
+		@include u-margin(0);
+		@include u-position('absolute');
+		@include u-width('full');
+		@include u-height('full');
+		@include u-top(0);
+		@include u-left(0);
+		cursor: pointer;
+		z-index: 1;
+	}
+	&:hover{
+		.paper{
+			@include u-bg('gray-cool-2', !important);
+		}
+		h3 a{
+			@include u-border-bottom('2px', 'accent-warm', 'solid');
+		}
+		.play{
+			@include u-bg('primary-vivid');
+		}
+		.btn-register{
+			@include u-bg('primary-vivid');
+			@include u-text('white');
+		}
+		.topics{
+			a{
+				@include u-bg('indigo-warm-20');
+				&:hover{
+					@include u-bg('indigo-warm-30');
+				}
+			}
+		}
+	}
+}

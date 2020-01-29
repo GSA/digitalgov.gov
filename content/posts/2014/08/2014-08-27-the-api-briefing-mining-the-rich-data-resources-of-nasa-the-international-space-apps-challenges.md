@@ -5,17 +5,16 @@ title: 'The API Briefing: Mining the Rich Data Resources of NASA &#8211; The Int
 summary: 'The National Aeronautics and Space Administration (NASA) has an enormous collection of aerospace and science data sets. NASA missions and projects can create amazing amounts of data. One example: the Earth Observing System Data and Information System has collected enough information to fill the Library of Congress (Data.NASA.gov). A more recent example: the Solar Dynamics'
 authors:
   - bbrantley
-categories:
-  - API
-  - Mobile
-tag:
-  - challenges and prize competitions
-  - data.gov
-  - Mobile UX Guideline 5
-  - NASA
+topics:
+  - api
+  - mobile
+  - challenges-and-prize-competitions
+  - data-gov
+  - mobile-ux-guideline-5
+  - nasa
   - OPM
-  - United States Office of Personnel Management
-  - Wednesday API Briefing
+  - united-states-office-of-personnel-management
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/08/600-x-466-Spacecraft-Soyuz-And-Space-Station-3DSculptor-iStock-Thinkstock-480050411.jpg" alt="Spacecraft Soyuz and Space Station" caption="" >}} 

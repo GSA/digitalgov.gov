@@ -2,24 +2,25 @@
 slug: build-empathy-with-stakeholder-interviews-part-2-conversation
 date: 2016-07-29 12:00:13 -0400
 title: 'Build Empathy With Stakeholder Interviews, Part 2: Conversation'
-summary: 'A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series I hope to summarize (as best as possible) the presentation I gave, &#8220;Foster The People: Building Empathy with Stakeholder Interviews.&#8221; In the first post of'
+summary: 'How to run user-interviews and synthesize and integrate the results into the teams shared understanding'
+deck: 'How to run user-interviews and synthesize and integrate the results into the teams shared understanding'
 authors:
   - andrew-maier
-categories:
-  - Design
-  - strategy-and-policy
+topics:
+  - design
+  - strategy
+  - policy
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - State
-  - US Department of State
-  - user centered design
-  - user experience
+  - us-department-of-state
+  - user-centered-design
+  - user-experience
   - user research
-  - UX
+  - ux
 ---
 
-A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series I hope to summarize (as best as possible) the presentation I gave, &#8220;[Foster The People: Building Empathy with Stakeholder Interviews](https://speakerdeck.com/andrewmaier/foster-the-people-building-empathy-with-stakeholder-interviews).&#8221; {{< legacy-img src="2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}} 
+A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series I hope to summarize (as best as possible) the presentation I gave, &#8220;[Foster The People: Building Empathy with Stakeholder Interviews](https://speakerdeck.com/andrewmaier/foster-the-people-building-empathy-with-stakeholder-interviews).&#8221; {{< legacy-img src="2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}}
 
 In the [first post of this series](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/), I covered what stakeholder interviews are, why they’re valuable, and how to prepare for them. In this second post, I’ll cover how to actually run the interviews as well as some tips for synthesizing and socializing what you learn.
 
@@ -48,7 +49,7 @@ Finally, consider inviting a teammate or two along to the interviews. This not o
 As you travel to your interviews, give yourself time to mentally prepare for them. Researcher Steve Portigal describes this as a “transition ritual:”
 
 > In the same way that interviews are not the same as everyday conversations, the time we spend with research participants is separate from the time we spend doing our “regular jobby stuff.” Transition rituals help interviewers switch contexts, providing a more objective interview.
-> 
+>
 > For me, this sometimes means assembling the materials and equipment, checking that I have the documents, etc. That’s sufficient. For someone else, they might want to remind themselves that what they are about to do is focus on the participant. That also has the benefit of reminding them to let go of the stuff-at-the-office: the report they have to give, the meetings they’re missing, etc.
 
 Transition rituals help clear your head and get you in a frame of mind where you can practice humble inquiry and active listening — both are essential skills for a successful interview.

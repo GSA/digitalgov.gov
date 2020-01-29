@@ -5,16 +5,15 @@ title: Introduction to APIs
 summary: 'There&#8217;s an easier way to get content and data into the hands of citizens. Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways&#8211;via mobile devices, mobile apps, innovative mash-ups, and much more. Simply put, &#8220;APIs are a better way to get government information'
 authors:
   - gray-brooks
-categories:
-  - API
-  - Code
-  - Mobile
-tag:
-  - API
-  - CDC
-  - mobile gov
-  - NASA
-  - Recaps
+topics:
+  - api
+  - code
+  - mobile
+  - api
+  - cdc
+  - mobile-gov
+  - nasa
+  - recaps
 ---
 
 There&#8217;s an easier way to get content and data into the hands of citizens. Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways&#8211;via mobile devices, mobile apps, innovative mash-ups, and much more. Simply put, &#8220;APIs are a better way to get government information and services into the hands of the people who need them.&#8221;

@@ -5,18 +5,17 @@ title: 'Member Spotlight &#8211; Hannah Rubin, Library of Congress'
 summary: 'Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the'
 authors:
   - rflagg
-categories:
-  - Content
-  - Metrics
+topics:
+  - content
+  - metrics
   - user-testing-and-research
-tag:
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - Library of Congress
   - LOC
-  - Open Opportunities program
+  - open-opportunities-program
 ---
 
-{{< legacy-img src="2014/09/250-x-366-Hannah-Rubin.jpg" alt="Hannah Rubin, Congressional Research Service (C R S) at the Library of Congress." >}}Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the [DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") via our [Open Opportunities program]({{< link "open-opportunities.md" >}} "Open Opportunities Program").
+{{< legacy-img src="2014/09/250-x-366-Hannah-Rubin.jpg" alt="Hannah Rubin, Congressional Research Service (C R S) at the Library of Congress." >}}Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") via our [Open Opportunities program]({{< ref "open-opportunities.md" >}} "Open Opportunities Program").
 
 ## What do you love most about your current job/position?
 

@@ -5,20 +5,19 @@ title: Facebook Increases Public Service Verification to Improve Citizen Engagem
 summary: 'Facebook is now the first social media platform to start verifying all federal government pages with their signature blue checkmark using the Federal Social Media Registry API. The Federal Social Media Registry provides the singular source that allows social media platforms to quickly collect real government accounts&mdash;emphasizing the critical need to ensure the trust, quality and'
 authors:
   - jherman
-categories:
-  - API
-  - Data
-  - Governance
-  - Managing Digital
-  - Social Media
-tag:
-  - 18F
+topics:
+  - api
+  - data
+  - governance
+  - product-management
+  - social-media
+  - 18f
   - Central Intelligence Agency
   - CIA
-  - data.gov
-  - Facebook
-  - SocialGov Community
-  - user experience
+  - data-gov
+  - facebook
+  - socialgov-community
+  - user-experience
 ---
 
 Facebook is now the first social media platform to start verifying all federal government pages with their signature blue checkmark using the <a href="http://www.usa.gov/About/developer-resources/social-media-registry.shtml" target="_blank">Federal Social Media Registry</a> API. The Federal Social Media Registry provides the singular source that allows social media platforms to quickly collect real government accounts—emphasizing the critical need to ensure the trust, quality and security of citizen engagement.
@@ -47,6 +46,6 @@ Traditionally, social media platforms verify accounts on a case-by-case basis wo
 
 We worked with innovators at **<a href="https://18f.gsa.gov/" target="_blank">18F </a>**and **<a href="http://www.data.gov/" target="_blank">Data.gov</a>** to improve delivery of the federal-wide registry API by creating a one-click export function that condenses the federal-wide data Facebook needed into a shared service custom fit for their verification process.
 
-The** <a href="{{< link "social-media.md" >}}" target="_blank">SocialGov Community</a>**, including almost 700 digital engagement and social media managers from across the federal government, is dedicated to finding new and better ways to use social media to measurably improve public services and make them more cost effective.
+The** <a href="{{< ref "social-media.md" >}}" target="_blank">SocialGov Community</a>**, including almost 700 digital engagement and social media managers from across the federal government, is dedicated to finding new and better ways to use social media to measurably improve public services and make them more cost effective.
 
 We look forward to continuing working with Facebook on improving the citizen user experience for all public services. Other social media platforms can also use the API for their accounts to help ensure quality and trust in digital government.

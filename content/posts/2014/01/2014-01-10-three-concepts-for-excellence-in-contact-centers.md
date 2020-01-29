@@ -5,14 +5,13 @@ title: Three Concepts for Excellence in Contact Centers
 summary: 'Using contact centers to deliver digital services is an emerging area in government. Due to the growth of online services, centers receive more attention and represent an important touch point for customers. When you need to speak directly with someone to get help or resolve an issue, it must be a good experience. This reflects on'
 authors:
   - mary-ann-monroe
-categories:
-  - Communities
-  - Managing Digital
-tag:
-  - AoI
-  - Customer Experience
-  - customer satisfaction
-  - government contact centers
+topics:
+  - communities
+  - product-management
+  - aoi
+  - cx
+  - customer-satisfaction
+  - government-contact-centers
 ---
 
 {{< legacy-img src="2014/01/600-x-405-Headset-with-a-microphone-VitalyEdush-iStock-Thinkstock-178719336.jpg" alt="Headset with a microphone" caption="" >}} 

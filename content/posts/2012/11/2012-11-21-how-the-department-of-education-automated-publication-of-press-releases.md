@@ -5,19 +5,18 @@ title: How the Department of Education Automated Publication of Press Releases
 summary: A case study on how the Department of Education used the Drupal content management system (CMS) to publish press releases as structured content to automatically generate listing pages and reduce errors and posting time. The Challenge The Department of Education was posting press releases using a system that posted them as static HTML files. The
 authors:
   - jennifer-reeves
-categories:
-  - Content
-tag:
+topics:
+  - content
   - CMS
-  - Content Management System
+  - content-management-system
   - drupal
-  - structured content
-  - US Department of Education
+  - structured-content
+  - us-department-of-education
 ---
 
 {{< legacy-img src="2014/07/250-x-188-Web-design-concept-Gears-on-Html-Code-background-maxkabakov-iStock-Thinkstock-469530729.jpg" alt="Web design concept: Gears on HTML Code background" caption="" >}}
 
-A case study on how the Department of Education used the Drupal [content management system]({{< link "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit") (CMS) to publish press releases as structured content to automatically generate listing pages and reduce errors and posting time.
+A case study on how the Department of Education used the Drupal [content management system]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit") (CMS) to publish press releases as structured content to automatically generate listing pages and reduce errors and posting time.
 
 ## The Challenge
 

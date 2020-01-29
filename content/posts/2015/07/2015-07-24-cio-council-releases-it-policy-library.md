@@ -5,10 +5,10 @@ title: CIO Council Releases IT Policy Library
 summary: The CIO Council recently published an IT Policy Library database in order to provide agency innovators with a searchable, comprehensive collection of IT reporting and action requirements for federal agencies. Craig Jennings, Senior Advisor at the Federal CIO Council, was instrumental in the implementation of the resource library. Craig believed that all of the policies
 authors:
   - kdaniel
-categories:
-  - Governance
-  - strategy-and-policy
-tag:
+topics:
+  - governance
+  - strategy
+  - policy
   - CIO Council
 ---
 

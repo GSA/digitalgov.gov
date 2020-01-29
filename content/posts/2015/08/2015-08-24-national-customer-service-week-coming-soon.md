@@ -5,10 +5,9 @@ title: 'National Customer Service Week: Coming Soon!'
 summary: 'Help us celebrate the Everyday Heroes in our agencies during Customer Service Week, October 5-9, 2015. In 1992, Congress passed Public Law No: 102-481, which proclaimed the first full week in October as National Customer Service Week. The Principles and Practices Subgroup of the Customer Service Cross Agency Priority (CAP) Goal has started work on'
 authors:
   - alison-sturgeon
-categories:
-  - Managing Digital
-tag:
-  - customer service
+topics:
+  - product-management
+  - customer-service
 ---
 
 {{< legacy-img src="2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" caption="" >}} 

@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: Why You Should Be Accessible on Mobile'
 summary: MobileMarketingWatch released an article explaining why it is important for the workplace to be making the move to mobile. When it comes to marketing, it is essential to understand your customer and be easily discoverable or else your product will go unseen. It is all about
 authors:
   - rachel-hurley
-categories:
-  - Accessibility
-  - Mobile
-tag:
+topics:
+  - accessibility
+  - mobile
   - Making Mobile Gov
-  - mobile apps
-  - mobile gov
-  - Trends on Tuesday
+  - mobile-apps
+  - mobile-gov
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2013/08/smartphone-shopping-cart-image-250x168.png" alt="image of smartphone in shopping cart" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/smartphone-shopping-cart-image.png)[MobileMarketingWatch](http://www.mobilemarketingwatch.com/) released an article explaining why it is important for the workplace to be making the move to mobile. When it comes to marketing, it is essential to understand your customer and be easily discoverable or else your product will go unseen. It is all about “place, place, place.” It is no secret the use of smartphones and tablets is increasing all the time, so being easily discoverable on these devices is absolutely essential.

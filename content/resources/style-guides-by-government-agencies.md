@@ -1,14 +1,18 @@
 ---
-url: /resources/style-guides-by-government-agencies/
+slug: style-guides-by-government-agencies
 date: 2017-05-23 3:43:08 -0400
 title: 'Style Guides by Government Agencies'
 summary: 'This page is a collection of style guides created by government agencies.'
+topics:
+  - plain-language
+  - writing
+  - content
 
 ---
 
 Style guides are used to set the tone and guidelines for how an agency communicates with the public.
 
-This page is a collection of style guides created by government agencies.  You can add your agency&#8217;s guide by [emailing DigitalGov]({{< link "/about/" >}}) or sharing in the [Plain Language Community of Practice]({{< link "plain-language-community-of-practice.md" >}}).
+This page is a collection of style guides created by government agencies.  You can add your agency&#8217;s guide by [emailing DigitalGov]({{< ref "/about/_index.md" >}}) or sharing in the [Plain Language Community of Practice]({{< ref "plain-language-community-of-practice.md" >}}).
 
 ---
 
@@ -85,11 +89,11 @@ This page is a collection of style guides created by government agencies.  You c
 
 Here&#8217;s a collection of guides created by digital communities of practice and other groups.
 
-- [Bilingual Glossaries, Dictionaries, and Style Guides]({{< link "bilingual-glossaries-dictionaries-style-guides.md" >}})
+- [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}})
 - [Department of Defense&#8217;s Introduction to Plain Language](http://www.dtic.mil/whs/directives/plainlanguage/PlainLanguageCourse.pdf) (PDF, 407 KB, 44 pgs)
 - [PLAIN&#8217;s Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
-- [Spanish Health Care Terms in the United States]({{< link "spanish-health-care-terms-in-the-united-states.md" >}})
-- [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms]({{< link "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}})
-- [Spanish Language Style Guide and Glossaries: Grammar]({{< link "spanish-language-style-guide-and-glossaries-grammar.md" >}})
-- [Spanish Language Style Guide & Glossaries: Information Technology Terms]({{< link "spanish-language-style-guide-glossaries-information-technology-terms.md" >}})
-- [Spanish Language Style Guide & Glossaries: Internet Resources]({{< link "spanish-language-style-guide-glossaries-internet-resources.md" >}})
+- [Spanish Health Care Terms in the United States]({{< ref "spanish-health-care-terms-in-the-united-states.md" >}})
+- [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms]({{< ref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}})
+- [Spanish Language Style Guide and Glossaries: Grammar]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md" >}})
+- [Spanish Language Style Guide & Glossaries: Information Technology Terms]({{< ref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}})
+- [Spanish Language Style Guide & Glossaries: Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}})

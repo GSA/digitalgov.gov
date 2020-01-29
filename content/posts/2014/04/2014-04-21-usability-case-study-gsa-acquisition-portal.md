@@ -5,16 +5,15 @@ title: 'GSA Acquisition Portal &#8211; Usability Case Study'
 summary: 'Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it’s much better to have completed them before the public sees it. For Christina Mullins, a Contracting Officer'
 authors:
   - tlowden
-categories:
-  - Design
+topics:
+  - design
   - user-testing-and-research
-  - UX
-tag:
-  - DigitalGov User Experience Program
-  - GSA
-  - usability case study
-  - usability testing
-  - user experience
+  - ux
+  - digitalgov-user-experience-program
+  - gsa
+  - usability-case-study
+  - usability-testing
+  - user-experience
 ---
 
 <p dir="ltr">
@@ -27,7 +26,7 @@ For Christina Mullins, a Contracting Officer at the Public Building Service in t
 
 Mullins recently led a project to create an internal agency website called the “GSA Acquisition Portal,” designed to be a “one-stop shop” resource site for GSA’s acquisition workforce, and was asked by a colleague to investigate usability testing.
 
-She connected with Jonathan Rubin, Program Manager for the [DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}}), and with a little guidance, was able to design a simple but effective test based on completing 12 tasks the project team felt people would want to accomplish with the site.
+She connected with Jonathan Rubin, Program Manager for the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}}), and with a little guidance, was able to design a simple but effective test based on completing 12 tasks the project team felt people would want to accomplish with the site.
 
 The website project team consisting of members from various backgrounds and offices in the agency reviewed, prioritized, and finalized the test script. Volunteer testers were recruited from a wide range of positions to represent the breadth of GSA employees who will use the site. The tests were performed on semi-functional pages in a staging environment, completely virtually.
 
@@ -69,4 +68,4 @@ Some of the feedback included expanding the Quick Links section to a wider set o
   “Go read a case study and drink the Kool-Aid, then the next thing to focus on is writing a good test plan, and make sure you build enough time into your schedule to make it happen.”
 </p>
 
-_For more information on usability testing, visit the [DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}}) page or [join the DigitalGov User Experience Community of Practice.]({{< link "user-experience.md" >}})_
+_For more information on usability testing, visit the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}}) page or [join the DigitalGov User Experience Community of Practice.]({{< ref "user-experience.md" >}})_

@@ -1,30 +1,71 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
-{{ end }}
+{{- define "content" -}}
 
-{{ define "content" }}
+<main id="resources" role="main">
+  <article>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
 
-<div class="page guide">
-  <div class="hentry entry">
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
 
-    <div class="entry-head">
-      {{ partial "breadcrumbs" . }}
-      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
-      {{ partial "deck" . }}
-      {{ partial "last-updated" . }}
-    </div>
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
 
-    {{- partial "guide-nav" . -}}
+            {{/* {{ partial "last-updated" . }} */}}
+          </div>
+        </div>
+      </div>
+    </header>
 
-    <div class="entry-content">
-      {{ .Content }}
-    </div>
+    {{/* Popular Resources */}}
+    <section class="usa-section" id="resources_featured">
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12 tablet-lg:grid-col-10">
+            {{- partialCached "core/resources_featured" . -}}
+          </div>
+        </div>
+      </div>
+    </section>
 
-    {{ partial "post-meta--feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
-    {{ partial "page-details" . }}
+    <section class="topic-buttons">
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <h2>Resources by Topic</h2>
+          </div>
+        </div>
+        <div class="grid-row tablet:grid-gap-2">
+          {{- $top_topics := $.Site.Taxonomies.topics -}}
+          {{- range $name, $taxonomy := $top_topics -}}
+            {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+              {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+                <div class="grid-col-12 tablet:grid-col-4">
+                  <div class="topic" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+                    <h3>
+                      <a href="{{- .Permalink | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
+                    </h3>
+                  </div>
+                </div>
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        </div>
+        <footer>
+          <div class="grid-row tablet-lg:grid-gap-2">
+            <div class="grid-col-12">
+              <p class="more"><a href="/topics"><span>See all topics</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </section>
 
-  </div>
+  </article>
+</main>
 
-</div>
-
-{{ end }} {{/* end 'content' block */}}
+{{- end -}}

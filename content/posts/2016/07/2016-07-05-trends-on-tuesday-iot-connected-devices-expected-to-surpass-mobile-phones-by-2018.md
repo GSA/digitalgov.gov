@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: IoT Connected Devices Expected to Surpass Mobile Phon
 summary: 'International telecommunications network operator, Ericsson, released their Mobility Report around the future of mobile recently with a bunch of interesting data around the future of telecommunications and mobile. The surprise star of the report is not mobile phones though&mdash;although it will continue to grow, especially in emerging markets where it hasn’t reached saturation like it'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
-  - Internet of things
+topics:
   - mobile
-  - Trends on Tuesday
+  - internet-of-things
+  - mobile
+  - trends-on-tuesday
 ---
 
 International telecommunications network operator, Ericsson, released their [Mobility Report](https://www.ericsson.com/mobility-report) around the future of mobile recently with a bunch of interesting data around the future of telecommunications and mobile.

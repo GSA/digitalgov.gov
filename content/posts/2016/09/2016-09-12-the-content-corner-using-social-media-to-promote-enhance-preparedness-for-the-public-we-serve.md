@@ -5,27 +5,27 @@ title: 'The Content Corner: Using Social Media to Promote, Enhance Preparedness 
 summary: 'September is National Preparedness Month. FEMA&#8217;s Ready.gov is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in America’s PrepareAthon! and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30. '
 authors:
   - kyle-s-richardson
-categories:
-  - Content
-  - Managing Digital
-  - Mobile
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
   - content
-  - content strategy
-  - Federal Emergency Management Agency
+  - product-management
+  - mobile
+  - social-media
+  - strategy
+  - policy
+  - content
+  - content-strategy
+  - federal-emergency-management-agency
   - Federal Mobile Products Registry
-  - FEMA
-  - FirstNet
+  - fema
+  - firstnet
   - mobile
   - National Guard
   - National Weather Service
   - NWS
-  - social media
-  - The Content Corner
-  - US Digital Registry
-  - USA.gov Federal Mobile Apps Directory
+  - social-media
+  - the-content-corner
+  - us-digital-registry
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 _September is National Preparedness Month. FEMA&#8217;s [Ready.gov](https://www.ready.gov/) is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in [America’s PrepareAthon!](https://community.fema.gov/) and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30._
@@ -52,7 +52,7 @@ As data use continues to skyrocket for the general public and first responders a
 
 Chrissie Coon, FirstNet Public Safety Liaison and former Public Information Officer at North Las Vegas Police Department, shares her perspective on the continued reliance on social media by public safety agencies. “It is vital to an effective response to have a presence on social media as more and more people are turning to social media during crisis to get firsthand, credible information from public safety agencies,” said Chrissie. “Official Twitter, Facebook, and YouTube accounts have become vital channels for first responders to communicate with the community during emergency response for everything from evacuation information to incident status updates.”
 
-When the disaster strikes, it&#8217;s important for those involved in public safety to be seen as a trusted source of information. Part of the preparedness for agencies involved is [establishing brand credibility]({{< link "2016-02-03-new-u-s-digital-registry-authenticates-official-public-service-accounts.md" >}}) and capturing an audience ahead of time. So, agencies are using social media day-to-day to engage with their community, and share preparedness info.
+When the disaster strikes, it&#8217;s important for those involved in public safety to be seen as a trusted source of information. Part of the preparedness for agencies involved is [establishing brand credibility]({{< ref "2016-02-03-new-u-s-digital-registry-authenticates-official-public-service-accounts.md" >}}) and capturing an audience ahead of time. So, agencies are using social media day-to-day to engage with their community, and share preparedness info.
 
 Throughout September, more than 3,000 organizations—national, regional, and local governments, as well as private and public organizations—are supporting emergency preparedness efforts and encouraging Americans to take action. Each week they will focus messaging and products on several unique areas.
 

@@ -5,21 +5,20 @@ title: Creative Usability Test Methods—or My Brief Career as a Robot Voice
 summary: 'When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That’s just what happened to us. We’re well practiced at usability testing at USAGov&mdash;in person, remote, hallway tests, first-click tests&mdash;all of these things we manage without blinking an eye.'
 authors:
   - joanne-mcgovern
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
-  - Customer Experience
-  - Customer Experience Community of Practice
-  - customer service
+  - ux
+  - cx
+  - customer-experience-community-of-practice
+  - customer-service
   - Government Contact Center Council
-  - government contact centers
-  - usability testing
-  - USAgov
-  - user experience
-  - User Experience Community of Practice
+  - government-contact-centers
+  - usability-testing
+  - usagov
+  - user-experience
+  - user-experience-community-of-practice
   - user research
-  - UX
+  - ux
 ---
 
 When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That’s just what happened to us.

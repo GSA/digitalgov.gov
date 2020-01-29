@@ -5,11 +5,10 @@ title: To Use Social Sharing Buttons or Not
 summary: Our digital gov neighbors in the U.K. have been working on their own digital strategy, including the consolidating into a single website. When the GOV.UK team introduced social sharing buttons, that allow users to post a link to the page on Facebook or Twitter, on their
 authors:
   - andreanocesigritz
-categories:
-  - Content
-tag:
+topics:
+  - content
   - mobile
-  - social media
+  - social-media
 ---
 
 [{{< legacy-img src="2014/04/GovUK-250-x-150.jpg" alt="The gov dot U K logo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/GovUK-250-x-150.jpg)Our digital gov neighbors in the U.K. have been working on their own digital strategy, including the [consolidating into a single website](https://gds.blog.gov.uk/about/). When the [GOV.UK team](https://www.gov.uk/) introduced social sharing buttons, that allow users to post a link to the page on Facebook or Twitter, on their pages, it wasn’t in response to audience request, but as an experiment. And after two and a half months, they [decided to do some analysis](https://insidegovuk.blog.gov.uk/2014/02/20/gov-uk-social-sharing-buttons-the-first-10-weeks/). They found that their overall sharing rates using the buttons were low, less than 1%.

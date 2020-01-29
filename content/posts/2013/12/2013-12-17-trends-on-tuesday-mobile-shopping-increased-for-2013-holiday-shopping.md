@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Mobile Shopping Increased for 2013 Holiday Shopping'
 summary: 'Mobile shopping increased significantly this year for both Black Friday and Cyber Monday. But by how much? A lot says this report from IBM: Online Sales Set New Record: Thanksgiving Day online sales grew by 19.7 percent year-over-year followed by Black Friday, with sales increasing 19 percent over 2012.'
 authors:
   - lisa-wilcox
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - mobile apps
-  - Trends on Tuesday
+  - mobile
+  - mobile-apps
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2014/01/Screen-Shot-2013-12-04-at-11.41.45-AM.png" alt="IBM Report Screenshot" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Screen-Shot-2013-12-04-at-11.41.45-AM.png)Mobile shopping increased significantly this year for both Black Friday and Cyber Monday. But by how much? A lot says this [report from IBM](http://www-01.ibm.com/software/marketing-solutions/benchmark-reports/black-friday-2013.html):
@@ -22,4 +21,4 @@ tag:
   * **iOS vs. Android:** On average, iOS users spent $127.92 per order, compared to $105.20 per order for Android on Black Friday. iOS traffic reached 28.2 percent of all online traffic, compared to 11.4 percent for Android. iOS sales reached 18.1 percent of all online sales, compared to 3.5 percent for Android.
   * **Retailers “Push” Promotions to Mobile Shoppers:** On average, retailers sent 37 percent more push notifications during the two day period of Thanksgiving Day and Black Friday – the alert messages and popup notifications from apps installed on your mobile device – when compared to daily averages over the past two months. Average daily retail app installations also grew by 23 percent using the same comparison. Retailers sent more notifications on Thanksgiving Day than Black Friday.
 
-With these anytime, anywhere shopping habits becoming more common, agencies must become more acutely aware of their audience and their internet browsing habits, as well as their expected [user experience]({{< link "2013-09-18-making-mobile-gov-user-experience-recommendations.md" >}}). Agencies should consider how to provide a custom browsing experience for citizens in their [mobile strategy]({{< link "2013-09-30-mobile-first.md" >}} "Mobile First").
+With these anytime, anywhere shopping habits becoming more common, agencies must become more acutely aware of their audience and their internet browsing habits, as well as their expected [user experience]({{< ref "2013-09-18-making-mobile-gov-user-experience-recommendations.md" >}}). Agencies should consider how to provide a custom browsing experience for citizens in their [mobile strategy]({{< ref "2013-09-30-mobile-first.md" >}} "Mobile First").

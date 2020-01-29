@@ -5,11 +5,10 @@ title: Crowdhall, Tint Now Available for Federal Use
 summary: 'It’s been a busy few months negotiating Terms of Service on behalf of the federal government, and we’re happy to announce CrowdHall and Tint are now available and that the Tumblr agreement has been updated for the first time in almost 2 years.CrowdHall logo'
 authors:
   - bsteele
-categories:
-  - Managing Digital
-  - Social Media
-tag:
-  - Terms of Service
+topics:
+  - product-management
+  - social-media
+  - terms-of-service
 ---
 
 [{{< legacy-img src="2013/07/social-media-button1-250x113.jpg" alt="Computer key that says social media in blue" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/social-media-button1.jpg)It’s been a busy few months negotiating Terms of Service on behalf of the federal government, and we’re happy to announce CrowdHall and Tint are now available and that the Tumblr agreement has been updated for the first time in almost 2 years.CrowdHall logo
@@ -20,4 +19,4 @@ tag:
 
 And [Tumblr](https://www.tumblr.com/) just released an updated online Terms of Service and no longer has a separate federal-compatible amendment. Agencies have been patiently awaiting the new TOS since Tumblr was acquired by Yahoo in August 2013.[{{< legacy-img src="2014/02/Tumblr.jpg" alt="Tumblr logo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Tumblr.jpg)
 
-The online agreements for all three are listed among the [tools and apps with fed-friendly Terms of Service]({{< link "negotiated-terms-of-service-agreements.md" >}}). You can share these agreements with your [agency’s Point-of-Contact for Terms of Service]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}) and your agency’s counsel to see if these tools are approved for use at your agency and if they are a good fit for your program.
+The online agreements for all three are listed among the [tools and apps with fed-friendly Terms of Service]({{< ref "negotiated-terms-of-service-agreements.md" >}}). You can share these agreements with your [agency’s Point-of-Contact for Terms of Service]({{< ref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}) and your agency’s counsel to see if these tools are approved for use at your agency and if they are a good fit for your program.

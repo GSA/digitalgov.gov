@@ -5,15 +5,14 @@ title: 'The API Briefing: Practicing Safe App Development with Secure Federal AP
 summary: ' When browsing the various APIs offered by the federal government, you may have noticed that developers need to sign up for an API key. You may have also noticed that the documentation tells app developers to access the API using specified methods. Along with these two requirements, federal API creators'
 authors:
   - bbrantley
-categories:
-  - API
-tag:
-  - API
-  - API keys
+topics:
+  - api
+  - api
+  - api-keys
   - security
   - US Department of Agriculture
   - USDA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/03/FDAgov-API-Key.jpg" alt="FDAgov-API-Key" >}}
@@ -34,6 +33,6 @@ Another security practice is to use the appropriate REpresentational State Trans
 
 A fundamental security practice is to limit the kind of methods that an API provides. For example, an API can be read only whereby the developer can only view information but cannot change the information in the API’s data in any way. For example, the <a href="http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html" target="_blank">U.S. Department of Agriculture’s Farmers Market API</a> allows developers to request data on farmers markets but developers can put in new data or change any of the entries. If an API allows “write” access, the API creator can still limit what information will be written to the API and require approval before the data is altered.
 
-There are more methods to secure APIs. As APIs become more used and vital to applications, developers need to verify that API information is accurate. Using federal APIs helps build trust in apps because federal API creators take great care in building incredibly useful and highly secure APIs._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< link "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
+There are more methods to secure APIs. As APIs become more used and vital to applications, developers need to verify that API information is accurate. Using federal APIs helps build trust in apps because federal API creators take great care in building incredibly useful and highly secure APIs._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>._
 _Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._

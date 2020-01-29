@@ -5,33 +5,32 @@ title: Make Gov APIs Better with User Experience
 summary: 'APIs and User Experience go together like gummi bears and ice cream. An API is a product just like a car, a website or a ballpoint pen. It’s designed to help someone do something. Products'
 authors:
   - jonathan-rubin
-categories:
-  - API
-  - Code
+topics:
+  - api
+  - code
   - user-testing-and-research
-  - UX
-tag:
-  - 18F
-  - API
-  - API keys
-  - DigitalGov User Experience Program
-  - Federal Emergency Management Agency
-  - FEMA
+  - ux
+  - 18f
+  - api
+  - api-keys
+  - digitalgov-user-experience-program
+  - federal-emergency-management-agency
+  - fema
   - OPM
   - US Department of Agriculture
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - USDA
 ---
 
-[{{< legacy-img src="2014/05/250-x-150-API-Blog-image-circles.jpg" alt="A graphic depicting how APIs help build apps, which are then used by citizens, industry and government." >}}APIs]({{< link "2013-04-30-apis-in-government.md" >}}) and [User Experience](http://www.usability.gov/what-and-why/user-experience.html) go together like gummi bears and ice cream.
+[{{< legacy-img src="2014/05/250-x-150-API-Blog-image-circles.jpg" alt="A graphic depicting how APIs help build apps, which are then used by citizens, industry and government." >}}APIs]({{< ref "2013-04-30-apis-in-government.md" >}}) and [User Experience](http://www.usability.gov/what-and-why/user-experience.html) go together like gummi bears and ice cream.
 
 An API is a product just like a car, a website or a ballpoint pen. It’s designed to help someone do something. Products are either designed well—they meet expectations and deliver value—or they are designed poorly and create frustration and confusion. Inevitably, bad products are abandoned without a thought, like an old T-shirt with holes in it.
 
-So for the past few months we have been taking APIs from [USDA](http://ers.usda.gov/developer#.U2p8rPldUq4), [FEMA](http://www.fema.gov/developer-resources), [OPM](https://data.usajobs.gov/), and other agencies and improving them via [User Experience evaluations]({{< link "digitalgov-user-experience-program-test-support.md" >}}). We bring together agencies and their customers—private-sector developers who use APIs every day—and ask the developers to maneuver the APIs and documentation. These developers provide a live critique of the APIs and identify problems and stumbling blocks to using them.
+So for the past few months we have been taking APIs from [USDA](http://ers.usda.gov/developer#.U2p8rPldUq4), [FEMA](http://www.fema.gov/developer-resources), [OPM](https://data.usajobs.gov/), and other agencies and improving them via [User Experience evaluations]({{< ref "digitalgov-user-experience-program-test-support.md" >}}). We bring together agencies and their customers—private-sector developers who use APIs every day—and ask the developers to maneuver the APIs and documentation. These developers provide a live critique of the APIs and identify problems and stumbling blocks to using them.
 
 Bing! Instant and unfiltered customer feedback.
 
-And who are we? We&#8217;re two GSA programs—[DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}}) and [18F](http://18f.gsa.gov/)—who care about creating better digital products. We improve federal systems and teach people about user research, all in one morning.
+And who are we? We&#8217;re two GSA programs—[DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}}) and [18F](http://18f.gsa.gov/)—who care about creating better digital products. We improve federal systems and teach people about user research, all in one morning.
 
 The promise of APIs is incredible and their widespread adoption is a key part of 21st century government. But APIs are only worth the sweat and tears that go into their creation if people can use them. Our program has helped more than a dozen agencies realize the benefits of User Experience evaluations.
 

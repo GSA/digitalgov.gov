@@ -5,14 +5,13 @@ title: openFDA and Drug Adverse Events
 summary: 'openFDA launched today and with it the first publicly available dataset&mdash;Drug Adverse Reaction and Medication Error Reports&mdash;that covers more than 4 million records from 2004 to 2013. The openFDA team compiled 10 things to help developers use this dataset more effectively, including: Interactive examples created by the openFDA team to give perspective to the data. The'
 authors:
   - sean-herron
-categories:
-  - API
-  - Content
-tag:
-  - FDA
+topics:
+  - api
+  - content
+  - fda
   - HHS
-  - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - us-food-and-drug-administration
+  - united-states-department-of-health-and-human-services
 ---
 
 openFDA [launched today](http://open.fda.gov/update/openfda-innovative-initiative-opens-door-to-wealth-of-fda-publicly-available-data/) and with it the first publicly available dataset—[Drug Adverse Reaction and Medication Error Reports](http://open.fda.gov/drug/event/)—that covers more than 4 million records from 2004 to 2013.

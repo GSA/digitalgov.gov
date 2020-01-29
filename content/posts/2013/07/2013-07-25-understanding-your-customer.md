@@ -5,23 +5,22 @@ title: Understanding Your Customer
 summary: 'Do you know who your customers are?  And what they expect from your organization? One of the most critical components of a successful customer experience program is to understand your customer. The first step is knowing who your customers are. Are they veterans, students, senior citizens or other federal workers?  In some cases your customers'
 authors:
   - martha-dorris
-categories:
-  - Managing Digital
-  - UX
-tag:
-  - Customer Experience
+topics:
+  - product-management
+  - ux
+  - cx
 ---
 
-{{< legacy-img src="2013/07/250-x-100-Who-is-our-customer-Zoonar-RF-Zoonar-Thinkstock-127029271.jpg" alt="Who is our customer? spelled out on old-fashioned, wooden typography blocks" caption="" >}} 
+{{< legacy-img src="2013/07/250-x-100-Who-is-our-customer-Zoonar-RF-Zoonar-Thinkstock-127029271.jpg" alt="Who is our customer? spelled out on old-fashioned, wooden typography blocks" caption="" >}}
 
 Do you know who your customers are?  And what they expect from your organization?
 
 One of the most critical components of a successful customer experience program is to understand your customer. The first step is knowing who your customers are. Are they veterans, students, senior citizens or other federal workers?  In some cases your customers could wear many different hats when interacting with your agency. They could be a veteran, a caregiver, a parent, and a federal worker, all rolled into one.
 
-There are numerous ways to determine what your customers expect when interacting with your organization online. You can conduct customer satisfaction surveys, hold focus groups, and assess the <a href="(({{< link "categories/metrics" >}})" target="_blank">analytics</a> of your program or website.
+There are numerous ways to determine what your customers expect when interacting with your organization online. You can conduct customer satisfaction surveys, hold focus groups, and assess the <a href="(({{< ref "/topics/metrics" >}})" target="_blank">analytics</a> of your program or website.
 
 <p dir="ltr">
-  As I wrote in my <a href="{{< link "2013-07-18-how-to-create-a-customer-experience-index.md" >}}" target="_blank">previous post</a>, my office within GSA is creating a <strong>Customer Experience index</strong> for our agency-facing programs and for our public-facing programs. The index will give us a baseline to determine whether the overall experience is improving or not.  However, to diagnose the issues or the improvements, you will need feedback from other tools such as the surveys or focus groups mentioned above.
+  As I wrote in my <a href="{{< ref "2013-07-18-how-to-create-a-customer-experience-index.md" >}}" target="_blank">previous post</a>, my office within GSA is creating a <strong>Customer Experience index</strong> for our agency-facing programs and for our public-facing programs. The index will give us a baseline to determine whether the overall experience is improving or not.  However, to diagnose the issues or the improvements, you will need feedback from other tools such as the surveys or focus groups mentioned above.
 </p>
 
 > Here’s what’s critical: The results need to be from the customer’s perspective, not from the agency’s perspective.

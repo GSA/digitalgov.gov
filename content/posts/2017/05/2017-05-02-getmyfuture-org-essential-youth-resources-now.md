@@ -5,25 +5,24 @@ title: 'GetMyFuture.org: Essential Youth Resources, Now'
 summary: 'They say that life can be summed up as the process of a series of doors closing. By that, they mean that opportunities for taking different paths start to disappear as you move through life. It’s a logical sentiment, but there’s an obverse to it. When you’re young, all those doors are open. Doors as far as you can see. It’s all about learning how to make informed decisions about what doors to wander through.'
 authors:
   - gay-gilbert
-categories:
-  - Content
-  - Data
-  - Design
-  - Managing Digital
-  - Mobile
-  - UX
-tag:
-  - Audio/Video
+topics:
+  - content
   - data
-  - Digital Audio/Video Community
+  - design
+  - product-management
+  - mobile
+  - ux
+  - audio-video
+  - data
+  - digital-audio-video-community
   - mobile
   - mobile-friendly
-  - MobileGov
-  - user centered design
-  - user experience
-  - UX
+  - mobile-gov
+  - user-centered-design
+  - user-experience
+  - ux
   - video
-  - Video Production Pros community
+  - video-production-pros-community
 ---
 
 > _This post was originally published on the [U.S. Department of Labor Blog](https://blog.dol.gov/)._

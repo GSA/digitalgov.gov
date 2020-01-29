@@ -5,25 +5,24 @@ title: White House SocialGov Summit Aims to Improve Open Data Innovation
 summary: ' More than 100 digital engagement and open data managers from across government met with leaders in the private sector startup community August 7 at the White House for a summit on integrating our digital services with public participation to create more'
 authors:
   - jherman
-categories:
-  - Code
-  - Social Media
-tag:
-  - data.gov
+topics:
+  - code
+  - social-media
+  - data-gov
   - DOL
-  - open data
-  - Recaps
-  - SocialGov Community
-  - US Department of Labor
-  - US Department of State
-  - World Bank
+  - open-data
+  - recaps
+  - socialgov-community
+  - us-department-of-labor
+  - us-department-of-state
+  - world-bank
 ---
 
 {{< legacy-img src="2014/08/600-x-180-SocialGov-Open-Data-White-House-EEOB-Summit-Aug-7th-2014.jpg" alt="SocialGov Open Data White House EEOB Summit, Aug 7th 2014" >}}
 
 More than 100 digital engagement and open data managers from across government met with leaders in the private sector startup community August 7 at the White House for a summit on integrating our digital services with public participation to create more opportunities for innovation and tackle tougher challenges.
 
-The <a href="{{< tmp "events/socialgov-summit-for-open-data-innovation.md" >}}" target="_blank">SocialGov Summit on Open Data Innovation</a> was organized by the 700-member <a href="{{< link "social-media.md" >}}" target="_blank">SocialGov Community</a> and <a href="http://www.whitehouse.gov/administration/eop/ostp/blog" target="_blank">White House Office of Science and Technology Policy</a>, launching a new inter-community initiative to apply combined open data, digital engagement, and innovative technologies to fields ranging from the Internet of Things and emergency management to modernization of the regulatory process.
+The <a href="{{< tmp "events/socialgov-summit-for-open-data-innovation.md" >}}" target="_blank">SocialGov Summit on Open Data Innovation</a> was organized by the 700-member <a href="{{< ref "social-media.md" >}}" target="_blank">SocialGov Community</a> and <a href="http://www.whitehouse.gov/administration/eop/ostp/blog" target="_blank">White House Office of Science and Technology Policy</a>, launching a new inter-community initiative to apply combined open data, digital engagement, and innovative technologies to fields ranging from the Internet of Things and emergency management to modernization of the regulatory process.
 
 The format of the event shadowed the roles of social media in government itself:
 

@@ -3,29 +3,28 @@ slug: design-conflict-do-you-know-your-conflict-style
 date: 2017-09-18 09:00:34 -0400
 title: 'Design and Conflict&#58; Do You Know Your Conflict Style&#63;'
 summary: 'Building empathy towards users is always a part of the UX process, but it’s not always common practice to build empathy towards our teammates. Here’s an idea to proactively address conflict and build empathy through understanding on your team.'
-authors: 
+authors:
   - meghan-lazier
-categories: 
-  - managing-digital
+topics:
+  - product-management
   - ux
   - design
-tag: 
   - communication
   - project-management
   - user-experience
   - ux
-featured_image: 
+featured_image:
   uid: old-boxing-gloves-nailed-to-the-textured-wall-viktor-gladkov-istock-thinkstock-506102725
   alt: 'Old boxing gloves nailed to a textured wall.'
 ---
 
-Ask most government employees their Myers-Briggs Type Indicator® and they can rattle off their results. But if you ask a government employee about their conflict style, it’s much less likely they can talk about their tendencies and predilections around tension. 
+Ask most government employees their Myers-Briggs Type Indicator® and they can rattle off their results. But if you ask a government employee about their conflict style, it’s much less likely they can talk about their tendencies and predilections around tension.
 
-Conflict is inevitable in the workplace, but is conflict something your product team proactively talks about? 
+Conflict is inevitable in the workplace, but is conflict something your product team proactively talks about?
 
-Building empathy towards users is always a part of the UX process, but it’s not always common practice to build empathy towards our teammates. Here’s an idea to proactively address conflict and build empathy through understanding on your team. 
+Building empathy towards users is always a part of the UX process, but it’s not always common practice to build empathy towards our teammates. Here’s an idea to proactively address conflict and build empathy through understanding on your team.
 
-The Thomas-Kilmann Conflict Mode Instrument is a tool developed by two behavioral scientists who identified five styles of responding to conflict. While you could have everyone on your team [take the assessment](https://www.talent.wisc.edu/home/Portals/0/conflict_styles_assessment.pdf) and discuss the results, just understanding your own tendencies could be the first step to better addressing conflict. 
+The Thomas-Kilmann Conflict Mode Instrument is a tool developed by two behavioral scientists who identified five styles of responding to conflict. While you could have everyone on your team [take the assessment](https://www.talent.wisc.edu/home/Portals/0/conflict_styles_assessment.pdf) and discuss the results, just understanding your own tendencies could be the first step to better addressing conflict.
 
 {{< img src="conflict-management-ildo-frazao-istock-thinkstock-833530332" alt="A close-up on a business man holding a small sign that reads, Conflict Management." caption="Ildo Frazao/iStock/Thinkstock" >}}
 
@@ -89,6 +88,6 @@ The collaborating style is likely your team at its best during conflict. It’s 
 *   **Active listening** is a key component of an effective approach to the collaborating style. Has the collaborator on your team practiced active listening? Is active listening a norm on your team?
 *   Does your federal workplace offer training in creative problem solving or conflict management? Someone who tends to lean on a collaborating style might want further training to improve their inherent approach.
 
-It’s important to remember that no one has a single style for dealing with conflict. It’s possible to use each of the styles or to rely on just a couple out of habit or personality. Keep in mind that the Thomas-Kilmann styles of conflict is just one theory. There are other academic approaches to conflict that you could use to proactively address conflict. Related topics, like dealing with stress or active listening, are also places to start addressing your team’s attitude towards conflict. 
+It’s important to remember that no one has a single style for dealing with conflict. It’s possible to use each of the styles or to rely on just a couple out of habit or personality. Keep in mind that the Thomas-Kilmann styles of conflict is just one theory. There are other academic approaches to conflict that you could use to proactively address conflict. Related topics, like dealing with stress or active listening, are also places to start addressing your team’s attitude towards conflict.
 
 _Have you found other tools or ideas to talk about conflict on teams useful? Let us know in the comments._

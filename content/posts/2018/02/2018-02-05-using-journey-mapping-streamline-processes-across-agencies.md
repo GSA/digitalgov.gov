@@ -2,21 +2,19 @@
 slug: using-journey-mapping-streamline-processes-across-agencies
 date: 2018-02-05 11:52:00 -0400
 title: 'Using Journey Mapping to Streamline Processes Across Agencies'
-summary: 'Summary of an agency information sharing exercise to improve the customer experience for newly naturalized citizens attempting to travel abroad&#46;'
+summary: 'How one team used journey mapping to improve the customer experience for newly naturalized citizens attempting to travel abroad&#46;'
+deck: 'How one team used journey mapping to improve the customer experience for newly naturalized citizens attempting to travel abroad&#46;'
 authors: 
   - lgodfrey
-categories: 
-  - content
+topics: 
   - design
   - metrics
-  - ux
-tag: 
   - content
   - metrics
   - analytics
   - user-experience
   - accessibility
-  - customer-experience
+  - cx
   - ux
   - cx
 featured_image: 

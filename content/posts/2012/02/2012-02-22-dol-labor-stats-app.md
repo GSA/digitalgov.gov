@@ -5,13 +5,12 @@ title: DOL Labor Stats App
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. The Labor Stats Application presents the most up-to-date numbers and news releases for top employment statistics published by Department of Labor’s Employment and Training Administration (ETA) and Bureau of Labor Statistics'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DOL
-  - mobile apps
-  - Mobile Gov Experience
-  - US Department of Labor
+  - mobile-apps
+  - mobile-gov-experience
+  - us-department-of-labor
 ---
 
 _[{{< legacy-img src="2013/12/ss_dolstats1-166x250.jpg" alt="Department of Labor Stats App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/ss_dolstats1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._

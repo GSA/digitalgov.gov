@@ -5,13 +5,12 @@ title: Top 5 Ways to Increase Email Survey Responses
 summary: 'Surveys are a great way to gain valuable insight into your customers’ true interests and needs. With the abundant number of survey tools available, it’s almost too easy to quickly put together a survey and send it out to your target audience. All too often, organizations will be in a hurry to get their survey'
 authors:
   - zhanrui-kuang
-categories:
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - Customer Experience
-  - customer satisfaction
-  - customer service
+topics:
+  - product-management
+  - monthly-theme
+  - cx
+  - customer-satisfaction
+  - customer-service
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Mail-PashaIgnatov-iStock-Thinkstock-133940537.jpg" alt="Email icons, with an open one highlighted in orange" caption="" >}} 
@@ -20,7 +19,7 @@ Surveys are a great way to gain valuable insight into your customers’ true int
 
 All too often, organizations will be in a hurry to get their survey out and will send out a long, wordy introductory message for a survey, or conversely, will not provide enough context. What they may not realize, though, is that this approach almost always results in the majority of recipients ignoring the survey. Recipients are likely to stop reading after a certain point, or if they don’t know what the survey is about, they will trash the message immediately. As a result, the organization ends up with an incredibly low and statistically insignificant response rate.
 
-GSA’s Office of Customer Experience relies heavily on customer data, gathered from [surveys]({{< link "2014-11-10-4-tips-on-great-survey-design.md" >}} "4 Tips on Great Survey Design"), customer interviews/[focus groups]({{< link "2015-04-17-focus-groups-are-they-right-for-you.md" >}} "Focus Groups: Are They Right for You?"), and other methods, to inform business process decisions. This heavy reliance on data is dependent on obtaining a large enough sample size that is statistically significant enough to influence change. As such, the team regularly consults with GSA’s Social and Behavioral Sciences Team to identify survey best practices to obtain a higher response rate. GSA now uses the following top 5 tips specifically related to survey questions, written correspondence, and distribution methods when developing surveys:
+GSA’s Office of Customer Experience relies heavily on customer data, gathered from [surveys]({{< ref "2014-11-10-4-tips-on-great-survey-design.md" >}} "4 Tips on Great Survey Design"), customer interviews/[focus groups]({{< ref "2015-04-17-focus-groups-are-they-right-for-you.md" >}} "Focus Groups: Are They Right for You?"), and other methods, to inform business process decisions. This heavy reliance on data is dependent on obtaining a large enough sample size that is statistically significant enough to influence change. As such, the team regularly consults with GSA’s Social and Behavioral Sciences Team to identify survey best practices to obtain a higher response rate. GSA now uses the following top 5 tips specifically related to survey questions, written correspondence, and distribution methods when developing surveys:
 
 ## 1. Make the message brief and “skimmable”
 

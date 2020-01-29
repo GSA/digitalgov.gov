@@ -5,11 +5,10 @@ title: Twitter Town Hall Tips from the VA
 summary: I work for the Department of Veterans Affairs in a national benefits office that oversees Veterans life Insurance programs. Our office has held a couple of successful Twitter Town Halls. They get a little smoother each time because we make a point of adjusting our style based on our lessons learned. After answering a question
 authors:
   - melodee-mercer
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Twitter
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
 ---
 

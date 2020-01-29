@@ -3,19 +3,18 @@ slug: prepareathon-2014-disaster-preparedness-in-the-palm-of-your-hand
 date: 2014-09-11 10:00:58 -0400
 title: '#PrepareAthon 2014: Disaster Preparedness in the Palm of Your Hand'
 summary: "If there was one thing we learned on September 11, 2001, it's that you can never be too prepared for a disaster of any magnitude. September is aptly named National Preparedness Month and the government's #PrepareAthon campaign&mdash;led by the Federal Emergency Management Administration (FEMA)&mdash;is under way, culminating in National PrepareAthon! Day, September 30."
-categories:
-  - Mobile
-tag:
-  - American Red Cross
-  - Federal Emergency Management Agency
-  - FEMA
-  - mobile apps
-  - National Oceanic and Atmospheric Administration
+topics:
+  - mobile
+  - american-red-cross
+  - federal-emergency-management-agency
+  - fema
+  - mobile-apps
+  - national-oceanic-and-atmospheric-administration
   - National Weather Service
   - NOAA
   - NWS
-  - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - thursday-mobile-products
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 [{{< legacy-img src="2014/09/250-x-306-FEMA\_PREPARE-POSTERS\_general\_small\_v4\_RELEASE\_508.jpg" alt="FEMA ad for National Preparedness Month; National PrepareAthon! Day, September 30, 2014." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/09/600-x-735-FEMA_PREPARE-POSTERS_general_small_v4_RELEASE_508.jpg)If there was one thing we learned on September 11, 2001, it&#8217;s that you can never be too prepared for a disaster of any magnitude.

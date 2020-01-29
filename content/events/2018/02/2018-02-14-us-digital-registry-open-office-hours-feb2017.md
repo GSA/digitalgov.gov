@@ -15,6 +15,10 @@ registration_url: https://www.eventbrite.com/e/us-digital-registry-open-office-h
 aliases:
   - /event/us-digital-registry-open-office-hours-feb2017/
   - /event/us-digital-registry-open-office-hours-feb2018/
+topics:
+  - mobile
+  - social-media
+  - us-digital-registry
 
 ---
 

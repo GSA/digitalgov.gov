@@ -5,20 +5,19 @@ title: 'DigitalGov Summit Recap: Innovation Through Customer Experience'
 summary: Meeting customer needs can be done, no matter what agency you represent. A panel discussion at the 2015 DigitalGov Citizen Services Summit delved into customer experience (CX) work at three agencies with diverse missions. Andrew Hughey, Product Development Director at the Internal Revenue Service (IRS), moderated the panel that featured Stephanie Thum, Vice President of
 authors:
   - awichman
-categories:
-  - Managing Digital
-  - Our Work
-tag:
-  - Customer Experience
-  - customer satisfaction
-  - customer service
-  - CX
-  - DigitalGov Summit
+topics:
+  - product-management
+  - our-work
+  - cx
+  - customer-satisfaction
+  - customer-service
+  - cx
+  - digitalgov-summit
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - Internal Revenue Service
   - IRS
-  - Recaps
+  - recaps
   - US Citizenship and Immigration Service
   - USCIS
 ---

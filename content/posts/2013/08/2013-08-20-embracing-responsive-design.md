@@ -5,17 +5,16 @@ title: Embracing Responsive Design
 summary: See how a shift in consumer behavior during the last few years lead to the responsive redesign of USA.gov and GobiernoUSA.gov.
 authors:
   - lgodfrey
-categories:
-  - Code
-  - Content
-  - Design
-  - Mobile
-tag:
+topics:
+  - code
+  - content
+  - design
+  - mobile
   - accessibility
   - GobiernoUSAgov
   - mobile
-  - responsive web design
-  - USAgov
+  - responsive-web-design
+  - usagov
 ---
 
 <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/USA.gov-responsive.jpg">{{< legacy-img src="2013/08/USA.gov-responsive-250x213.jpg" alt="USA.gov website on a laptop, tablet and smartphone" >}}</a>There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of [USAGov](https://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_), consumers can now have access to the same information and services when they need them, and on any platform and device. 
@@ -37,5 +36,5 @@ Let us know what you think. With the ability to count traffic for desktop, table
 
 More responsive design examples: 
 
-* [Medicare.gov]({{< link "2013-06-27-medicare-gov-mobile-website.md" >}})
-* [Housing & Urban Development Office of Inspector General]({{< link "2013-08-01-hud-office-of-inspector-general-responsive-design-website.md" >}})
+* [Medicare.gov]({{< ref "2013-06-27-medicare-gov-mobile-website.md" >}})
+* [Housing & Urban Development Office of Inspector General]({{< ref "2013-08-01-hud-office-of-inspector-general-responsive-design-website.md" >}})

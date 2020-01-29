@@ -5,20 +5,18 @@ title: 'Design Sketching: The Easiest Prototype Method Ever'
 summary: 'When it comes to Web and software design, the pen(cil) is often mightier than the Design Suite. What I mean is: Tech is cool, but don’t fall under its spell. It’s often when you remove the technological layers between you and your thoughts that the best ideas sprout. You’ve heard of great ideas that started'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - design
   - mobile
   - ux
-tag:
   - DOL
-  - federal user experience community
+  - federal-user-experience-community
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - prototype
   - usability
   - user-experience
-  - ux
 
 ---
 
@@ -26,7 +24,7 @@ When it comes to Web and software design, the pen(cil) is often mightier than th
 
 You’ve heard of great ideas that started on bar napkins, right? One way that low-tech beats high-tech is when it comes to conceptualizing early-stage design ideas. Smart designers create a “low-fidelity” prototype of your product—a rough approximation of what it&#8217;s going to look like so people can actually interact with it. This is not a foreign concept to federal agencies, the Department of Labor used paper prototypes for their [DOL Timesheet app](http://www.dol.gov/dol/apps/timesheet.htm).
 
-We talked about creating [paper prototypes]({{< link "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}}) in an earlier article—how you can use scissors and pens to create no-cost user tests with an _interactive_ product. That last part is important—interactive. Below is a wireframe for a kids site. When you look at it, you get an general idea of what content goes where. But you can’t USE it. You can’t see if it meets your needs. You can’t tell if it’s any good or not. You just kind of look at it and think, “Hmmm. OK.”
+We talked about creating [paper prototypes]({{< ref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}}) in an earlier article—how you can use scissors and pens to create no-cost user tests with an _interactive_ product. That last part is important—interactive. Below is a wireframe for a kids site. When you look at it, you get an general idea of what content goes where. But you can’t USE it. You can’t see if it meets your needs. You can’t tell if it’s any good or not. You just kind of look at it and think, “Hmmm. OK.”
 
 {{< legacy-img src="2014/07/600-x-285-KidsGov-prototype.jpg" alt="Kids dot gov prototype" >}}
 
@@ -40,7 +38,7 @@ This is a sample design I made for an idea for federal mobile app. It took exact
 
 All of a sudden, you’ve gone from a piece of paper to an experience you can lead someone through. Now, by creating multiple sheets for your customer to move through, you can conduct a quick but valuable usability test. Your customer (and you) start to understand the product better. They can see the layers and understand where they “are” in the whole thing. That’s very powerful. Once you know where you are, you know where you can do. Options start to come to mind. And people can form opinions about this new experience that they are having.
 
-The [Federal User Experience Program]({{< link "user-experience.md" >}} "Federal User Experience Community") and the [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile") recently held a Mobile Prototyping workshop where we taught people to list as many ideas as they could for a mobile app, and then start sketching some design ideas with markers. They started off rough, and quickly progressed into a series of images they gave to users to try. Very quickly, the design strengths and weaknesses revealed themselves.
+The [Federal User Experience Program]({{< ref "user-experience.md" >}} "Federal User Experience Community") and the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") recently held a Mobile Prototyping workshop where we taught people to list as many ideas as they could for a mobile app, and then start sketching some design ideas with markers. They started off rough, and quickly progressed into a series of images they gave to users to try. Very quickly, the design strengths and weaknesses revealed themselves.
 
 {{< legacy-img src="2014/07/600-x-290-prototyp-3.jpg" alt="prototype 3" >}}
 

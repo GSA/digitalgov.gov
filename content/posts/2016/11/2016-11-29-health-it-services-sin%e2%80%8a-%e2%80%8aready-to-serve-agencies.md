@@ -5,14 +5,14 @@ title: Health IT Services SIN — Ready to Serve Agencies
 summary: 'This summer I announced the the release of our new Health IT Services Special Item Number (SIN 132&ndash;56) on IT Schedule 70. Now, I am happy to report that the SIN has been awarded to 65 highly qualified industry partners &mdash; with that number continuing to grow daily as new contracts are being awarded. With such a'
 authors:
   - mary-davie
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - strategy
+  - policy
   - Federal Health IT Strategic Plan
-  - GSA
+  - gsa
   - IT Schedule 70
-  - US General Services Administration
+  - us-general-services-administration
 ---
 
 This summer I [announced](https://gsablogs.gsa.gov/technology/2016/07/19/gsa-continues-to-develop-health-it-service-offerings/) the the release of our new Health IT Services Special Item Number (SIN 132–56) on IT Schedule 70. Now, I am happy to report that the SIN has been awarded to 65 highly qualified industry partners — with that number continuing to grow daily as new contracts are being awarded. With such a robust supplier offering, the SIN is now very much ready to serve agencies’ health IT services requirements.

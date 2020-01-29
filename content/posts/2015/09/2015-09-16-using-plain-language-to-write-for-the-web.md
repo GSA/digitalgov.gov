@@ -5,17 +5,14 @@ title: Using Plain Language to Write for the Web
 summary: 'Plain language will make you a better writer. For federal employees, it&#8217;s also the law. On September 9th, Katherine Spivey, Co-Chair of the Plain Language Action and Information Network (PLAIN), presented a webinar on plain writing principles and how to apply them to Web writing. She also addressed how federal writers can comply with the'
 authors:
   - awichman
-categories:
-  - content
+topics:
   - writing
-tag:
   - plain-language
   - plain-writing-act-of-2010
   - recaps
-
 ---
 
-{{< legacy-img src="2015/09/600-x-400-Signpost-showing-simple-or-complicated-keport-iStock-Thinkstock-481691104.jpg" alt="A signpost showing signs pointing in opposite directions; one says, simple, and the other says, complicated." caption="" >}} 
+{{< legacy-img src="2015/09/600-x-400-Signpost-showing-simple-or-complicated-keport-iStock-Thinkstock-481691104.jpg" alt="A signpost showing signs pointing in opposite directions; one says, simple, and the other says, complicated." caption="" >}}
 
 Plain language will make you a better writer. For federal employees, it&#8217;s also the law.
 

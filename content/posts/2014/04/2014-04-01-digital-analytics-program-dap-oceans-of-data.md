@@ -5,16 +5,15 @@ title: 'Digital Analytics Program (DAP): Oceans of Data'
 summary: In the last 15 months, the federal Digital Analytics Program (DAP) monthly Web traffic has grown to more than 1.1 billion views gov-wide, providing Web analytics to 29 U.S. federal cabinet-level agencies and nearly 3,000 public-facing government Web properties. The
 authors:
   - marina-fox
-categories:
-  - Data
-  - Metrics
-tag:
-  - DAP
-  - Digital Analytics Program
+topics:
+  - data
+  - metrics
+  - dap
+  - digital-analytics-program
   - mobile
-  - NASA
+  - nasa
   - NPS
-  - social media
+  - social-media
 ---
 
 <p style="text-align: left">
@@ -31,6 +30,6 @@ tag:
 
 DAP data helps agencies their website visitors find relevant and timely information on government services across multiple channels (e.g. Social Media, offsite links, organic search, email campaigns etc.) and to view the Web content on any devices (mobile, desktop, tablet).
 
-The DAP Web Analytics architecture with its agency-based views provides agency users with transparency into their Web traffic data and promotes every-day knowledge sharing, lessons learned, and best practices. Check out how [NASA]({{< link "2013-09-17-digital-analytics-program-goes-to-the-moon.md" >}}) and [NPS]({{< link "2013-11-06-nps-gov-use-of-digital-analytics-program-beyond-the-numbers.md" >}}) leverage the DAP GA data to improve their digital citizen services.
+The DAP Web Analytics architecture with its agency-based views provides agency users with transparency into their Web traffic data and promotes every-day knowledge sharing, lessons learned, and best practices. Check out how [NASA]({{< ref "2013-09-17-digital-analytics-program-goes-to-the-moon.md" >}}) and [NPS]({{< ref "2013-11-06-nps-gov-use-of-digital-analytics-program-beyond-the-numbers.md" >}}) leverage the DAP GA data to improve their digital citizen services.
 
-_For more about DAP and how your agrency website can participate, visit <{{< link "/dap/" >}}>._
+_For more about DAP and how your agrency website can participate, visit <{{< ref "/guides/dap/_index.md" >}}>._

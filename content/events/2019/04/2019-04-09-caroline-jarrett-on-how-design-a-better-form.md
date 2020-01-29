@@ -14,6 +14,12 @@ host: TTS Research Guild
 registration_url: https://www.eventbrite.com/e/caroline-jarrett-on-how-to-design-a-better-form-registration-58448034645
 youtube_id: Br5O0hAaqt8
 
+topics:
+  - design
+  - user-experience
+  - research
+  - ux
+  
 ---
 
 _Watch the video on [YouTube](https://www.youtube.com/watch?v=Br5O0hAaqt8) to read the live chat comments that Caroline Jarrett explains in detail in her [recap of the event](http://www.effortmark.co.uk/discussing-a-topic-map-for-how-to-design-better-a-form/)._ 

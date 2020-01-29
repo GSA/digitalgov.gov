@@ -5,13 +5,12 @@ title: 'Focus Groups: Are They Right for You?'
 summary: ' The short answer is: it depends on your goals. If you Google &ldquo;focus group,&rdquo; you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are. What Is a Focus Group? Focus groups are an inexpensive way'
 authors:
   - stacey-sarris
-categories:
-  - Design
+topics:
+  - design
   - user-testing-and-research
-  - UX
-tag:
-  - user experience
-  - UX
+  - ux
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." >}}
@@ -130,6 +129,6 @@ If you have decided that conducting a focus group is a good idea for your projec
   * [CheckList](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/FocusGroupCheckList.pdf) [PDF]: A printable Word document to use on the day of your focus group, to make sure you don’t forget anything.
   * [Quiz](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/QuizTestYourKnowledge.pdf) [PDF]: A fun way to test your knowledge.
 
-Finally, in our [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}), you can find a script to use for your focus group and a presentation on focus groups.
+Finally, in our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}), you can find a script to use for your focus group and a presentation on focus groups.
 
 _Stacey Sarris is a UX consultant and adjunct professor at Pace University, doctoral candidate at University of Baltimore&#8217;s Information and Interaction Design program, and was a UX intern at GSA._

@@ -5,15 +5,14 @@ title: Citizen Engagement at NASA
 summary: 'Recently, the White House hosted Stakeholder Engagement Workshops&mdash;an informal meet-up for citizens and federal agencies to discuss progress on Open Government. The third version of our Open Gov Plan is due June 1st. My Open Innovation teammates and I took the opportunity to attend the event. We gained valuable insights from citizen activists on what'
 authors:
   - elizabeth-hochberg
-categories:
-  - Data
-  - UX
-tag:
-  - challenges and prize competitions
-  - data.gov
+topics:
+  - data
+  - ux
+  - challenges-and-prize-competitions
+  - data-gov
   - FOIA
-  - NASA
-  - open government
+  - nasa
+  - open-government
 ---
 
 Recently, the White House hosted Stakeholder Engagement Workshops—an informal meet-up for citizens and federal agencies to discuss progress on Open Government. The third version of our [Open Gov Plan](https://open.nasa.gov/blog/2014/04/23/share-your-thoughts-open-gov-3-0-plan/) is due June 1st.

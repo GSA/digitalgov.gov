@@ -5,36 +5,36 @@ title: 'Webinar Recap: Snaps and Stripes—Sharing Public Service Stories with S
 summary: What does Snapchat, the disappearing message-and-video platform most used by teenagers, have to do with government outreach and communications programs? Well, Snapchat has quickly become an incredibly effective digital storytelling medium, and content creators across multiple government agencies have adopted it as an important part of their programs. A recent New York Times article described
 authors:
   - lisa-bari
-categories:
-  - Accessibility
-  - Content
-  - Managing Digital
-  - Social Media
-  - strategy-and-policy
-  - UX
-  - Video
-tag:
+topics:
   - accessibility
-  - best practices
   - content
-  - content strategy
-  - Customer Experience
-  - CX
-  - DGU
-  - DigitalGov University
-  - GSA
-  - NASA
+  - product-management
+  - social-media
+  - strategy
+  - policy
+  - ux
+  - video
+  - accessibility
+  - best-practices
+  - content
+  - content-strategy
+  - cx
+  - cx
+  - digitalgov-university
+  - digitalgov-university
+  - gsa
+  - nasa
   - National Museum of African American History and Culture
   - NMAAHC
-  - Peace Corps
-  - Recaps
-  - section 508
-  - Smithsonian Institution
-  - social media
-  - US General Services Administration
-  - USAgov
-  - user experience
-  - UX
+  - peace-corps
+  - recaps
+  - section-508
+  - smithsonian-institution
+  - social-media
+  - us-general-services-administration
+  - usagov
+  - user-experience
+  - ux
   - video
 ---
 
@@ -42,7 +42,7 @@ What does Snapchat, the disappearing message-and-video platform most used by tee
 
 A recent [New York Times article](http://www.nytimes.com/2016/09/26/business/snapchat-known-for-ephemera-proves-its-staying-power-with-videos.html?_r=0) described how nearly 35 million users in the United States watched highlights and stories from the Summer Olympics on Snapchat. Furthermore, it allowed individual athletes to broadcast their unique and personal experiences at the Games. Perhaps most importantly, Snapchat is one of the best ways to reach young people—it reaches a reported 41% of Americans aged 18-34. In comparison, the average TV network only reaches 6% of the same demographic. If you want to engage with Millennials, Snapchat is the social media channel for you.
 
-Last week, [Edgardo Morales]({{< link "author/edgardo-morales" >}}), Outreach and Marketing Specialist at USA.Gov, and Emily Furfaro, Social Media Specialist at NASA, joined [Justin Herman]({{< link "author/jherman" >}}), Manager of Government-wide Social Media and Digital Engagement Programs at the General Services Administration (GSA) for a [DigitalGov University]({{< link "/digitalgov-university/" >}}) (DGU) webinar, [Snaps and Stripes: Sharing Public Service Stories with Snapchat](https://www.youtube.com/watch?v=G82jBHxE4Tk). Edgardo and Emily talked about their agencies’ work using Snapchat to engage and communicate with the public.
+Last week, [Edgardo Morales]({{< ref "/authors/edgardo-morales" >}}), Outreach and Marketing Specialist at USA.Gov, and Emily Furfaro, Social Media Specialist at NASA, joined [Justin Herman]({{< ref "/authors/jherman" >}}), Manager of Government-wide Social Media and Digital Engagement Programs at the General Services Administration (GSA) for a [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar, [Snaps and Stripes: Sharing Public Service Stories with Snapchat](https://www.youtube.com/watch?v=G82jBHxE4Tk). Edgardo and Emily talked about their agencies’ work using Snapchat to engage and communicate with the public.
 
 ## USA.gov on Snapchat
 
@@ -54,7 +54,7 @@ The team decided to create a recognizable mascot for Snapchat, and found “Pres
 
 However, they don’t always use the mascots; it is context dependent. Other types of content they share include immigration information, emergency preparedness, and really anything else that is a priority across the wealth of content and services on the [USA.gov website](https://www.usa.gov/). Recently, they provided a sneak peak of the new [National Museum of African American History and Culture](https://nmaahc.si.edu/), which was very popular. Currently, they are working with the Peace Corps to do a weekly Peace Corps volunteer Snapchat takeover. They provide access to their account to a volunteer abroad who is sharing stories of their daily life.
 
-[Accessibility]({{< link "categories/accessibility" >}}) is always a priority at USA.gov—they plan for accessibility before they start creating content. Edgardo mentioned that they keep it succinct, always have a clear beginning and end of the story, and that they storyboard it in advance using Word or PowerPoint.
+[Accessibility]({{< ref "/topics/accessibility" >}}) is always a priority at USA.gov—they plan for accessibility before they start creating content. Edgardo mentioned that they keep it succinct, always have a clear beginning and end of the story, and that they storyboard it in advance using Word or PowerPoint.
 
 After creating the [Snapchat story](https://support.snapchat.com/en-US/about/stories) (a story is simply multiple videos strung together on the platform), they download the story, which is done by going to [“Memories”](https://support.snapchat.com/en-US/ca/memories) on the platform to download or text or email the story to yourself (you can also save each snap to Memories as you shoot each video). Then, they edit the video file for accessibility. They narrate with great detail (including audio descriptions where possible), close-caption it, and add a text transcript. To ensure that everyone can engage with the content, even after it has disappeared from Snapchat, they upload the video to their website, their [Snapchat Stories playlist on YouTube](https://www.youtube.com/playlist?list=PLrcvzEeHM66sPsgTJSWdRx5zpKuGB-IhB), or other social media platforms.
 
@@ -90,4 +90,4 @@ You can follow the NASA Social Media Team on Twitter at [@NASASocial](https://tw
 
 {{< youtube G82jBHxE4Tk >}}
 
-_Learn more about [DigitalGov University]({{< link "/digitalgov-university/" >}}) and [register for an upcoming event]({{< link "events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgovu@gsa.gov). If you have a .gov or .mil email address, check out the various [DigitalGov Communities]({{< link "/communities/" >}}), like SocialGov and MobileGov, that you can join._
+_Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) and [register for an upcoming event]({{< ref "/events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgovu@gsa.gov). If you have a .gov or .mil email address, check out the various [DigitalGov Communities]({{< ref "/communities" >}}), like SocialGov and MobileGov, that you can join._

@@ -5,10 +5,9 @@ title: FICAM’s New Resources Help Solve Government’s Identity Management Cha
 summary: 'In today’s digital world, it’s imperative that government agencies safeguard citizens’ physical and electronic security. In the world of Federal IT, adopting and advancing cybersecurity can’t be accomplished in one day, or by one agency. Federal agencies must work together to tackle complex problems and stay ahead of evolving network threats. The Federal Identity, Credential,'
 authors:
   - jim-sheire
-categories:
-  - Managing Digital
-  - Mobile
-tag:
+topics:
+  - product-management
+  - mobile
   - mobile
   - security
 ---

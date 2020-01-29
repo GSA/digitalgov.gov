@@ -6,11 +6,11 @@ summary: 'Content marketing is everywhere and you&#8217;re hearing more about it
 authors:
   - victoria-wales
   - darren-b-lurie
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - product-management
+  - strategy
+  - policy
   - content
   - marketing
 ---

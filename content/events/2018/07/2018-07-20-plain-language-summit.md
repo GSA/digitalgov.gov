@@ -8,6 +8,8 @@ featured_image:
 event_type:
   - youtube-live
   - in-person
+topics:
+  - plain-language
 date: 2018-07-20 09:00:00 -0500
 end_date: 2018-07-20 15:30:00 -0500
 event_organizer: DigitalGov
@@ -27,7 +29,7 @@ categories:
   - user experience
   - writing
 tag:
-  - customer-experience
+  - cx
   - customer-experience-community-of-practice
   - multilingual
   - plain-language

@@ -5,10 +5,9 @@ title: Develop with Web Standards
 summary: 'What It Is Do you remember the days when web pages had banners announcing that they were &#8220;best viewed with browser X&#8221;? Veteran web developers and designers certainly do, because they had to consider numerous exceptions for certain browsers and their versions. Today, building websites isn&#8217;t as challenging and that&#8217;s because developers are moving toward'
 authors:
   - gray-brooks
-categories:
-  - Code
-tag:
-  - Draft Web Design Standards
+topics:
+  - code
+  - draft-web-design-standards
 ---
 
 ## What It Is

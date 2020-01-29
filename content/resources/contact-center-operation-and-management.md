@@ -1,18 +1,22 @@
 ---
-url: /resources/contact-center-guidelines/contact-center-operation-and-management/
+slug: contact-center-guidelines/contact-center-operation-and-management
 date: 2014-02-05 10:36:45 -0400
-title: Contact Center Operation and Management
-summary: Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance. Control Contact Center Costs Monitor Quality Avoid Fraudulent Pay Phone Calls Call Calibration IVR Call Flow Basics Disaster Planning and
+title: "Contact Center Operation and Management"
+summary: "Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance. Control Contact Center Costs Monitor Quality Avoid Fraudulent Pay Phone Calls Call Calibration IVR Call Flow Basics Disaster Planning and"
+topics:
+  - contact-centers
 ---
 
 Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance.
 
-  * [Control Contact Center Costs]({{< link "contact-center-operation-and-management.md#control" >}})
-  * [Monitor Quality]({{< link "contact-center-operation-and-management.md#monitor" >}})
-  * [Avoid Fraudulent Pay Phone Calls]({{< link "contact-center-operation-and-management.md#avoid" >}})
-  * [Call Calibration]({{< link "contact-center-operation-and-management.md#call" >}})
-  * [IVR Call Flow Basics]({{< link "contact-center-operation-and-management.md#IVR" >}})
-  * [Disaster Planning and Recovery]({{< link "contact-center-operation-and-management.md#disaster" >}})
+  * [Control Contact Center Costs]({{< ref "contact-center-operation-and-management.md#control" >}})
+  * [Monitor Quality]({{< ref "contact-center-operation-and-management.md#monitor" >}})
+  * [Avoid Fraudulent Pay Phone Calls]({{< ref "contact-center-operation-and-management.md#avoid" >}})
+  * [Call Calibration]({{< ref "contact-center-operation-and-management.md#call" >}})
+  * [IVR Call Flow Basics]({{< ref "contact-center-operation-and-management.md#IVR" >}})
+  * [Disaster Planning and Recovery]({{< ref "contact-center-operation-and-management.md#disaster" >}})
+
+
 
 ## Control Contact Center Costs {#control}
 
@@ -63,7 +67,7 @@ Quality monitoring allows you to observe an agent’s phone calls, email and web
 -   Evaluate agent performance against established standards and for any performance that merits action, note, record, and refer to the responsible component (HR, QA, Training, etc.). Ensure the agent gets both positive and negative feedback to improve their performance. Provide ongoing training and coaching. Repeat this process continuously throughout the agent’s tenure.
 -   Process and system improvement issues, as well as needed training curriculum revisions, are often identified through monitoring sessions. These issues are fed back to the responsible component for action.
 
-Traditional quality monitoring involves reviewing a random sample of interactions, assessing them for general quality standards, and then generating monthly reports based on average scores. Most contact centers only evaluate a very small percentage of their calls this way. Quality monitoring tools will increase the efficiency of these evaluation processes by reducing the administrative effort in recording agent interactions by storing, analyzing, and scoring the interactions for quality.  
+Traditional quality monitoring involves reviewing a random sample of interactions, assessing them for general quality standards, and then generating monthly reports based on average scores. Most contact centers only evaluate a very small percentage of their calls this way. Quality monitoring tools will increase the efficiency of these evaluation processes by reducing the administrative effort in recording agent interactions by storing, analyzing, and scoring the interactions for quality.
 Some quality monitoring solutions combine call–recording functionality with performance management, speech analytics and e-learning capabilities to address skills gaps. These tools help formalize and add substance to quality transactions and make the quality-monitoring process more efficient and effective.
 
 The lifecycle begins during hiring and training, when a prospective agent’s performance is monitored and evaluated to identify weaknesses and skills gaps.

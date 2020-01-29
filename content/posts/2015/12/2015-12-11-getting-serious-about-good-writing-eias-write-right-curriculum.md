@@ -5,12 +5,11 @@ title: Getting Serious About Good Writing—EIA’s Write Right Curriculum
 summary: 'Let’s see&ndash;you want to improve the skills of your agency’s writers. Here’s a to-do list: Enlist a high-level champion, ideally your agency head, to make statements saying writing skills are critical&mdash;check. Create a Writing Style Guide&mdash;check. Hold classes to introduce the Style Guide&mdash;check. Expand internal editing resources&mdash;check. But what’s next? If you really want to'
 authors:
   - gina-pearson
-categories:
-  - Writing
-tag:
+topics:
+  - writing
   - EIA
-  - Plain language
-  - Plain Writing Act of 2010
+  - plain-language
+  - plain-writing-act-of-2010
   - US Energy Information Administration
 ---
 

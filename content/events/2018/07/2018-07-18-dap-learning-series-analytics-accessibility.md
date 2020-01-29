@@ -13,16 +13,15 @@ event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-analytics-and-accessibility-registration-42564426345
 youtube_id: y0HD0baIIP0
-aliases:
-  - /event/dap-learning-series-analytics-accessibility/
-categories:
-  - accessibility
-  - metrics
-tag:
-  - accessibility
+topics:
   - analytics
+  - digital-analytics-program
+  - accessibility
   - dap
   - digital-analytics-program
+  - metrics
+aliases:
+  - /event/dap-learning-series-analytics-accessibility/
 
 ---
 

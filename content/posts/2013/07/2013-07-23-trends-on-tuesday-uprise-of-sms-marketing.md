@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Uprise of SMS Marketing'
 summary: 'MobileMarketingWatch recently published an article on how the SMS marketing world is changing. Due to its popularity, SMS has evolved into one of the most effective mobile marketing strategies. Improves Relevance for All: Marketers tailor campaigns to a variety of interests in order'
 authors:
   - rachel-hurley
-categories:
-  - Mobile
-tag:
-  - social media
-  - Trends on Tuesday
+topics:
+  - mobile
+  - social-media
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2013/07/Featurephone.jpg" alt="Stock Image of a person using a feature phone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/Featurephone.jpg)[MobileMarketingWatch](http://www.mobilemarketingwatch.com/sms-marketing-how-its-changing-in-2013-34049/) recently published an article on how the SMS marketing world is changing. Due to its popularity, SMS has evolved into one of the most effective mobile marketing strategies.
@@ -20,4 +19,4 @@ tag:
 >   * **Providing Value from Start to Finish**: SMS is now used for everything from receipt confirmations to account updates.
 >   * **Delivering More Through Less**: Marketers don&#8217;t want to overextend their welcome on their consumer&#8217;s mobile devices, so they send fewer messages that are carefully crafted with more relevance to the consumer.
 
-Agencies wanting to promote their mobile products should consider this new level of SMS Marketing for their consumers to get their services out there. Check out other agencies that are using [SMS](https://digitalgov.sites.usa.gov/2012/08/21/sms-or-short-message-service/ "SMS or Short Message Service") as a marketing strategy.
+Agencies wanting to promote their mobile products should consider this new level of SMS Marketing for their consumers to get their services out there. Check out other agencies that are using [SMS](https://digital.gov/2012/08/21/sms-or-short-message-service/ "SMS or Short Message Service") as a marketing strategy.

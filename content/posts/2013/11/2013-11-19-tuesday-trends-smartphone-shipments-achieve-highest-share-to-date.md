@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Smartphone Shipments Achieve Highest Share to Date'
 summary: Last week, Gartner reported that global smartphone shipments have achieved their highest share ever recorded. Worldwide mobile phone sales totaled 455.6 million units in the third quarter of 2013, an increase of 5.7 percent from the same period last year. The real bread and butter came
 authors:
   - lisa-wilcox
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - mobile
 ---
 
@@ -19,4 +18,4 @@ Worldwide smartphone sales reached 250.2 million units, up 45.8 percent from the
 
 As the price for smartphones becomes more and more affordable, users are rushing to replace their &#8220;regular cell phones&#8221; for smartphones. Gartner estimates that global mobile phone sales are on pace to reach 1.81 billion units in 2013, which is up 3.4 percent from 2012.
 
-This data shows that mobile adoption continues to rise rapidly worldwide. More evidence that agencies should take a [mobile first](https://digitalgov.sites.usa.gov/2013/09/30/mobile-first/ "Mobile First") approach.
+This data shows that mobile adoption continues to rise rapidly worldwide. More evidence that agencies should take a [mobile first](https://digital.gov/2013/09/30/mobile-first/ "Mobile First") approach.

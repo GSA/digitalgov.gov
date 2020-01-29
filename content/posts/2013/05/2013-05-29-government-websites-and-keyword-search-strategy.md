@@ -5,11 +5,10 @@ title: Government Websites and Keyword Search Strategy
 summary: 'Having a keyword search strategy is critical for government agencies to: Gain awareness, Secure a strong online presence and Help the public obtain the information they need. Since the public relies heavily on Government-related information for research, and a myriad of other tasks, each government'
 authors:
   - stephanie-stover
-categories:
-  - Managing Digital
-  - UX
-tag:
-  - search engine optimization
+topics:
+  - product-management
+  - ux
+  - search-engine-optimization
 ---
 
 {{< legacy-img src="2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle" >}}Having a keyword search strategy is critical for government agencies to:

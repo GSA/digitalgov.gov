@@ -5,12 +5,12 @@ title: Kanban for Government
 summary: 'Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that &ldquo;DO ALL THE THINGS!&rdquo; was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It’s also used to balance capacity and demand'
 authors:
   - alan-brouilette
-categories:
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - strategy
+  - policy
+  - 18f
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - kanban
   - OCSIT
   - Office of Citizen Services and Innovative Technology

@@ -5,18 +5,17 @@ title: Introducing the Digital Audio/Video Community of Practice
 summary: 'Tech giants have changed the world of broadcast forever. In a little more than a year, video on Facebook went from being a seldomly seen media type on a user’s timeline to a strategic priority for Mark Zuckerberg. The platform now serves over 8 billion video views a day and Facebook continues to roll out improvements'
 authors:
   - randy-abramson
-categories:
-  - Communities
-  - Content
-  - Managing Digital
-  - Mobile
-  - Social Media
-  - UX
-  - Video
-tag:
+topics:
   - communities
   - content
-  - Digital Audio/Video Community
+  - product-management
+  - mobile
+  - social-media
+  - ux
+  - video
+  - communities
+  - content
+  - digital-audio-video-community
   - video
 ---
 
@@ -24,6 +23,6 @@ Tech giants have changed the world of broadcast forever. In a little more than a
 
 Within the U.S. government, we have talented cinematographers, expert editors and incredible storytellers, all working to help fulfill the missions of their respective agencies. But the digital audio/video landscape is constantly changing. Announcements about new tools and deployment strategies for taking advantage of social media platforms bombard us daily.
 
-The [Digital Audio/Video Community]({{< link "communities/video-production/" >}}) exists for us to help each other through these exciting times. We’ll trade knowledge about current projects and techniques, hold roundtable discussions and webinars to share best practices, have industry experts advise us and provide recognition for excellent work within the government space.
+The [Digital Audio/Video Community]({{< ref "/communities/video.md" >}}) exists for us to help each other through these exciting times. We’ll trade knowledge about current projects and techniques, hold roundtable discussions and webinars to share best practices, have industry experts advise us and provide recognition for excellent work within the government space.
 
-If you are passionate about the intersection of mobile, storytelling and social media, please [join our community]({{< link "communities/video-production/" >}}). We look forward to sharing the road ahead.
+If you are passionate about the intersection of mobile, storytelling and social media, please [join our community]({{< ref "/communities/video.md" >}}). We look forward to sharing the road ahead.

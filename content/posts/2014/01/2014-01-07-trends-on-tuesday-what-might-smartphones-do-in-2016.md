@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: What Might Smartphones Do in 2016?'
 summary: 'A recent article in Mobile Marketing Watch suggested location-based sensor fusion would be featured on a billion mobile devices in 2016. Last year Mary Meeker said in 2013 that mobile would be wearable, sharable, drivable and flyable. We&#8217;ve gathered some other projections for the future functionality of mobile devices; &bull; Indoor'
 authors:
   - lisa-wilcox
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Trends on Tuesday
+  - mobile
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2014/01/smartphones.jpg" alt="smartphones" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/smartphones.jpg)A [recent article in Mobile Marketing Watch](http://www.mobilemarketingwatch.com/which-feature-will-1-billion-smartphones-offer-by-2016-37526/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29) suggested location-based sensor fusion would be featured on a billion mobile devices in 2016. Last year [Mary Meeker said in 2013 that mobile](https://howtomobile.apps.gov/2013/06/04/trends-on-tuesday-mary-meekers-internet-trends-report/) would be wearable, sharable, drivable and flyable. We&#8217;ve gathered some other projections for the future functionality of mobile devices;
@@ -20,4 +19,4 @@ tag:
 
 • **Rise of Gestures and Touch-free Input** &#8211; Casting a sidelong glance to pause a video, and other gestures and nontap inputs [are on the rise](http://phys.org/news/2013-12-pcs-tablets-movements.html). More sophisticated transitions and input methods will soon be the norm for interacting with devices.
 
-The point of these projections is that with new functionality the smartphone of tomorrow will be tuned into the user more than ever. This is why it is important for government agencies to recognize these trends and adapt their [mobile first]({{< link "2013-09-30-mobile-first.md" >}} "Mobile First") approaches to meet the needs of the user.
+The point of these projections is that with new functionality the smartphone of tomorrow will be tuned into the user more than ever. This is why it is important for government agencies to recognize these trends and adapt their [mobile first]({{< ref "2013-09-30-mobile-first.md" >}} "Mobile First") approaches to meet the needs of the user.

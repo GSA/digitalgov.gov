@@ -5,20 +5,19 @@ title: Crowdsourcing at the Law Library of Congress
 summary: 'The Law Library acquired a large collection from William S. Hein & Co., Inc. to make all volumes of several collections (like the Federal Register) available in open access to researchers. Preparing these files by adding metadata for easy searching takes a lot of work, so this summer we asked law students and library students from'
 authors:
   - jennifer-gonzalez
-categories:
+topics:
   - crowdsourcing-and-citizen-science
-  - Data
-  - Managing Digital
+  - data
+  - product-management
   - user-testing-and-research
-tag:
   - crowdsourcing
   - Law Library of Congress
   - LOC
   - metadata
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - research
-  - Smithsonian Institution
+  - smithsonian-institution
 ---
 
 The [Law Library](http://www.gov.gov/law/?loclr=bloglaw) acquired a large collection from [William S. Hein & Co., Inc.](http://home.wshein.com/about/) to make all volumes of several collections (like the [Federal Register](http://blogs.gov.gov/law/2016/06/federal-register-volumes-now-available-online/?loclr=bloglaw)) available in open access to researchers. Preparing these files by adding metadata for easy searching takes a lot of work, so this summer we asked law students and library students from across the country to help become our “crowd” in order to crowdsource metadata for a collection of 542 volumes of _U.S. Reports_.

@@ -5,16 +5,15 @@ title: New Coast Guard App Streamlines Boating Safety to Maximize Summer Fun
 summary: 'Just in time for the summer season, the U.S. Coast Guard launched a brand new app to give smartphone users easy, on-demand access to critical boating safety information and resources. With this new app, called United States Coast Guard, users can ensure they have proper'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal Mobile Products Registry
   - ios
-  - mobile apps
-  - native app
-  - Thursday Mobile Products
-  - US Coast Guard
-  - USA.gov Federal Mobile Apps Directory
+  - mobile-apps
+  - native-app
+  - thursday-mobile-products
+  - us-coast-guard
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/06/250-x-444-DHS-US-Coast-Guard-android-main-menu.jpg" alt="DHS US Coast Guard Android app main menu" >}}Just in time for the summer season, the U.S. Coast Guard launched a brand new app to give smartphone users easy, on-demand access to critical boating safety information and resources.
@@ -55,4 +54,4 @@ On a privacy note: personal information stored on the phone through this app is 
 
 **Important note:** The U.S. Coast Guard app is mainly designed to provide additional boating safety resources for mobile device users. It is not a replacement for a [VHF-FM marine radio](http://www.navcen.uscg.gov/?pageName=mtBoater), [Emergency Position Indicating Radio Beacon](http://www.epirb.com/) (EPIRB), safe boating classes and best judgment. Learn more about being a responsible boater at the  <a href="http://www.uscgboating.org" target="_blank">official website of the U.S. Coast Guard&#8217;s Boating Safety Division</a>.
 
-You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}}).
+You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}}).

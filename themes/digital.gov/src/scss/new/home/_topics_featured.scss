@@ -1,0 +1,8 @@
+
+#topics_featured{
+  h2 {
+    @include u-margin-bottom(2);
+    @include u-font('sans', 'sm');
+    @include u-text('semibold');
+  }
+}

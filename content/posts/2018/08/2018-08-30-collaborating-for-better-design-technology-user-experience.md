@@ -5,12 +5,10 @@ title: 'Collaborating for Better Design, Technology, and User Experience'
 summary: 'Overview of initiatives across Federal government that focus on IT design, development and accessibility&#46;'
 authors:
   - john-sullivan
-categories:
-  - accessibility
+topics:
   - design
-  - managing-digital
+  - product-management
   - ux
-tag:
   - accessibility
   - innovation
   - usability

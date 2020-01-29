@@ -5,17 +5,16 @@ title: 'Trends on Tuesday: Federal App Development Trends'
 summary: Mobile apps meet real world needs. App development is not a homogenous process, however. Apple and Android devices are overwhelmingly dominant in device ownership and app development. So, we examined the Federal Mobile Apps Directory for iOS and Android offerings. We noticed a predominance
 authors:
   - awichman
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile App Development Program
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 6
-  - Trends on Tuesday
+  - mobile
+  - mobile-app-development-program
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-6
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/04/600-x-250-Apple-App-Store-and-Android-Google-Play-icons.jpg" alt="Apple App Store and Android Google Play icons" >}}Mobile apps meet real world needs. App development is not a homogenous process, however.
@@ -24,7 +23,7 @@ Apple and Android devices are overwhelmingly dominant in device ownership and ap
 
 So, we wondered: what makes federal app development iOS-centric? Does it match general trends?
 
-We contacted Will Sullivan, Director of Mobile for the Broadcasting Board of Governors and current [Trends on Tuesday]({{< link "tag/trends-on-tuesday" >}}) contributor, to hear his thoughts on iOS and Android development on the federal level. He posited several theories, and we researched the buzz going around in the tech world.
+We contacted Will Sullivan, Director of Mobile for the Broadcasting Board of Governors and current [Trends on Tuesday]({{< ref "/topics/trends-on-tuesday" >}}) contributor, to hear his thoughts on iOS and Android development on the federal level. He posited several theories, and we researched the buzz going around in the tech world.
 
 ## Everyone else is doing iOS
 
@@ -52,4 +51,4 @@ A July 2014 [Forbes article](http://www.forbes.com/sites/symantec/2014/07/24/and
 
 ## Federal developer resources
 
-As more native apps are created by federal agencies, developers need to consider how their audience engages in the mobile world. DigitalGov’s [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}}) is full of helpful resources and case studies about mobile apps in the federal space, and the [Mobile Community of Practice]({{< link "mobilegov.md" >}}) is where agencies tackle mobile technology issues together.
+As more native apps are created by federal agencies, developers need to consider how their audience engages in the mobile world. DigitalGov’s [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}) is full of helpful resources and case studies about mobile apps in the federal space, and the [Mobile Community of Practice]({{< ref "mobilegov.md" >}}) is where agencies tackle mobile technology issues together.

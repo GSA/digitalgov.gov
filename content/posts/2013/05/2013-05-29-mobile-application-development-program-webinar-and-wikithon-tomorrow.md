@@ -5,11 +5,10 @@ title: Mobile Application Development Program Webinar and Wikithon Tomorrow!
 summary: ' Anytime, anywhere government information and services are becoming more important as the public increasingly consumes information and services on the go. As we announced last week, agencies can now get assistance with their mobile development efforts with our new Mobile Application Development Program. Tomorrow, we will host'
 authors:
   - jparcell
-categories:
-  - Code
-  - Mobile
-tag:
-  - mobile gov
+topics:
+  - code
+  - mobile
+  - mobile-gov
 ---
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](http://gsablogs.gsa.gov/dsic/get-it-done/mobile-application-development-program/)

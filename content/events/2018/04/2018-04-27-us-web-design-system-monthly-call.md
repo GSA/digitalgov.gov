@@ -13,6 +13,10 @@ end_date: 2018-04-27 13:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/april-us-web-design-system-call-tickets-44852101844
+topics:
+  - design
+  - uswds
+  - draft-web-design-standards
 
 ---
 

@@ -5,17 +5,16 @@ title: 'Trends on Tuesday: Key Trends for Government from Mary Meeker’s 2016 I
 summary: 'Internet strategist Mary Meeker delivered her 2016 Internet Trends report this month, and there are several key takeaways for government agencies to consider and continue tracking as our connected world continues to evolve: Mobile phone adoption and Internet growth is meeting saturation. Incremental global growth will continue (especially in India, which she called out for'
 authors:
   - wsullivan
-categories:
-  - Managing Digital
-  - Mobile
-tag:
-  - data
-  - Internet of things
+topics:
+  - product-management
   - mobile
-  - open data
+  - data
+  - internet-of-things
+  - mobile
+  - open-data
   - privacy
   - security
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 Internet strategist Mary Meeker delivered her  [2016 Internet Trends report](http://www.slideshare.net/kleinerperkins/2016-internet-trends-report) this month, and there are several key takeaways for government agencies to consider and continue tracking as our connected world continues to evolve:
@@ -31,13 +30,13 @@ Internet strategist Mary Meeker delivered her  [2016 Internet Trends report](htt
       <strong>Connected cars are going to continue to grow.</strong> Meeker pointed out that the U.S. is one of the leading markets in adoption and innovation in this space, and she said the effort and investment being put forth from car makers and ride-sharing giants like Uber and Lyft are going to continue to drive growth. (Pun, intended.) <i>(Slides 137 &#8211; 150)</i>
     </li>
     <li style="margin-bottom: 15px">
-      <strong>Messaging is the new mass market and mobile interface.</strong> Moving from simple emojis to advanced <a href="{{< link "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}">chat bots</a> and business transactions, direct-to-consumer and peer-to-peer communication is the new mass market. Meeker posited that messaging would become the replacement for the home screen. <i>(Slides 97-110)</i>. Learn more about bots and AI for government customer service at an <a href="{{< tmp "events/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}">upcoming DigitalGov event</a>.
+      <strong>Messaging is the new mass market and mobile interface.</strong> Moving from simple emojis to advanced <a href="{{< ref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}">chat bots</a> and business transactions, direct-to-consumer and peer-to-peer communication is the new mass market. Meeker posited that messaging would become the replacement for the home screen. <i>(Slides 97-110)</i>. Learn more about bots and AI for government customer service at an <a href="{{< tmp "events/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}">upcoming DigitalGov event</a>.
     </li>
     <li style="margin-bottom: 15px">
       <strong>Voice emerges as a new, important interface.</strong> Besides the personalized experience of messaging apps, voice is another new personalized vehicle for serving people—from simple searches to voice assistants like Amazon&#8217;s Alexa. The quality, accuracy and speed of voice interactions has dramatically increased across the major platforms to above 90% accuracy. As this continues to evolve, new experiences—previously thought of as far out ideas from Star Trek or the movie Her—may soon be in our houses and hands. <i>(Slides 112 &#8211; 131)</i>
     </li>
     <li style="margin-bottom: 15px">
-      <strong>Data as a platform expands.</strong> Leveraging the continuously reducing cost of data and continually growing connectivity, the ability to use data to aggregate and improve people’s lives and increase efficiency is going to continue to grow. Government agencies specifically can use their massive amounts of <a href="{{< link "2016-06-17-data-the-key-to-a-more-transparent-open-government.md" >}}">data to help improve the lives of the public</a>. <i>(Slides 194-205)</i>
+      <strong>Data as a platform expands.</strong> Leveraging the continuously reducing cost of data and continually growing connectivity, the ability to use data to aggregate and improve people’s lives and increase efficiency is going to continue to grow. Government agencies specifically can use their massive amounts of <a href="{{< ref "2016-06-17-data-the-key-to-a-more-transparent-open-government.md" >}}">data to help improve the lives of the public</a>. <i>(Slides 194-205)</i>
     </li>
     <li style="margin-bottom: 15px">
       <strong>Privacy will exponentially become more important and difficult.</strong> With all the new Internet connected devices, from cars to the Internet of Things, and the wealth of data provided, information security and privacy is going to become an even larger issue to manage in the future, especially as standards are still emerging for the new platforms. Consumers&#8217; comfort levels with who and how they share data seem to vary among generations, although most people probably don’t realize how much data major life platforms like Google and Facebook have about them. Data breaches have become a common part of life with almost everyone affected in the past couple years. Organizations—and especially government agencies—need to be at the forefront of managing security for the public, educating and evangelizing best practices. <i>(Slides 206-212)</i>

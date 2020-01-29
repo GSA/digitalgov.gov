@@ -1,8 +1,10 @@
 ---
-url: /resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/
+slug: m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies
 date: 2015-11-05 2:46:00 -0400
 title: M-10-22 Guidance for Online Use of Web Measurement and Customization Technologies
 summary: 'On January 21, 2009, the President issued a memorandum calling for the establishment of &ldquo;a system of transparency, public participation, and collaboration.&rdquo; The memorandum required an Open Government Directive to be issued by the Director of the Office of Management and Budget (OMB), instructing &ldquo;executive departments and agencies to take specific actions implementing the principles'
+topics:
+  - policy
 authors:
   - andreanocesigritz
 ---
@@ -15,9 +17,9 @@ OMB’s Open Government Directive requires a series of measures to promote the c
 
 ## Related Links
 
-  * [What is a Terms of Service Agreement?]({{< link "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}})
-  * [Information on Federal Compatible Terms of Service]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
-  * [List of Federal Terms of Service Agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
+  * [What is a Terms of Service Agreement?]({{< ref "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}})
+  * [Information on Federal Compatible Terms of Service]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}})
+  * [List of Federal Terms of Service Agreements]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}})
 
  
 
@@ -25,4 +27,4 @@ OMB’s Open Government Directive requires a series of measures to promote the c
 
  
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

@@ -5,28 +5,27 @@ title: Innovation Means More, Better, Cost Effective Digital Training
 summary: A recent FedTech Magazine article asked,
 authors:
   - jherman
-categories:
-  - Managing Digital
-  - Social Media
-tag:
+topics:
+  - product-management
+  - social-media
   - CFPB
-  - DGU
+  - digitalgov-university
   - DoD
   - FAA
   - FAFSA
-  - NASA
-  - SocialGov
-  - US Department of Education
-  - US Department of State
-  - United States Army
-  - United States Department of Defense
+  - nasa
+  - socialgov
+  - us-department-of-education
+  - us-department-of-state
+  - united-states-army
+  - united-states-department-of-defense
 ---
 
 [{{< legacy-img src="2014/06/250-x-180-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada. Photos by Laura McHugh." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/1014-x-726-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg)A recent **FedTech Magazine** article asked, &#8220;[When There Are No Barriers to Technology, How Can the Government Innovate?](http://www.fedtechmagazine.com/article/2014/01/when-there-are-no-barriers-technology-how-can-government-innovate)&#8221; We thought we&#8217;d take up the challenge and let you know how government uses innovations from digital communities to grow a social media education and training program that provides more opportunities than ever for agencies to share, learn and measurably improve our programs for citizens.
 
 And by more we mean almost four times more with the same resources.
 
-Many of you may already know [**DigitalGov University**]({{< link "/digitalgov-university/" >}} "DigitalGov University"), the federal government program that aims to provide high quality, cost-effective training to thousands of federal employees each year in digital services and citizen engagement. What you may not know is now that technology and strategic advancements are ripping down silos between agencies, these education programs are experiencing a boom that allows more federal employees learn how to make their services measurably better and cost efficient.
+Many of you may already know [**DigitalGov University**]({{< ref "/about/digitalgov-university.md" >}} "DigitalGov University"), the federal government program that aims to provide high quality, cost-effective training to thousands of federal employees each year in digital services and citizen engagement. What you may not know is now that technology and strategic advancements are ripping down silos between agencies, these education programs are experiencing a boom that allows more federal employees learn how to make their services measurably better and cost efficient.
 
 Did you hear somewhere, though, that social media training opportunities for public servants is lacking? Let&#8217;s show you how government is changing all that through innovation.
 
@@ -34,7 +33,7 @@ Did you hear somewhere, though, that social media training opportunities for pub
 
 Through the #**SocialGov Community**, more than 500 digital engagement program managers, directors and practitioners from more than 130 federal agencies are collaborating, sharing and improving knowledge management.
 
-We&#8217;ve seen the results of this not only in how we evaluate programs and institutionalize customized best practices, but also in multi-agency initiatives like the first recommendations for [Social Media Performance Metrics]({{< link "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}) for government, and the first Social Media Accessibility initiative for improving these services for persons with disabilities, wounded warriors and the aging population.
+We&#8217;ve seen the results of this not only in how we evaluate programs and institutionalize customized best practices, but also in multi-agency initiatives like the first recommendations for [Social Media Performance Metrics]({{< ref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}) for government, and the first Social Media Accessibility initiative for improving these services for persons with disabilities, wounded warriors and the aging population.
 
 You’re going to see more results of better education and knowledge-sharing in 2014 through upcoming **Policy Development resources**, programs to better support small businesses and entrepreneurs in partnership with the **Small Business Administration**, improved digital customer service methodologies, and groundbreaking steps into the Internet of Things.
 

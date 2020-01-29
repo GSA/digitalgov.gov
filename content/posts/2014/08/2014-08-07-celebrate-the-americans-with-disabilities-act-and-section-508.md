@@ -5,13 +5,12 @@ title: Celebrate the Americans with Disabilities Act and Section 508
 summary: Happy anniversary, baby! Seventies pop songs aside, July 26, 2014, was the 24th anniversary of the Americans with Disabilities Act (ADA), and on August 7 of this year, Section 508 of the Rehabilitation Act of 1973, as amended in 1998, will have its 16th anniversary. Sometimes these two laws are mistaken one for the other,
 authors:
   - angela-hooker
-categories:
-  - Accessibility
-  - UX
-tag:
+topics:
+  - accessibility
+  - ux
   - accessibility
   - Americans with Disabilities Act
-  - section 508
+  - section-508
 ---
 
 Happy anniversary, baby!

@@ -5,16 +5,15 @@ title: 'Trends on Tuesday: Facebook, TV and How to Reach Millennials and Hispani
 summary: 'How do you capture millennial and Hispanic eyes? Through their hands. (More specifically: their mobile devices, and the social apps within!). AdAge recently analyzed a study from Nielsen’s Homescan panel which found that in a typical month, 12.2% of millennials can only be reached through TV (looking at the top 10 networks only) versus 14.2%'
 authors:
   - awichman
-categories:
-  - Mobile
-  - Social Media
-tag:
-  - Facebook
+topics:
+  - mobile
+  - social-media
+  - facebook
   - mobile
   - mobile-first
   - mobile-friendly
-  - social media
-  - Trends on Tuesday
+  - social-media
+  - trends-on-tuesday
 ---
 
 How do you capture millennial and Hispanic eyes? Through their hands. (More specifically: their mobile devices, and the social apps within!). {{< legacy-img src="2015/11/600-x-400-Popular-social-media-icons-on-smartphone-device-screen-scyther5-iStock-Editorial-Thinkstock482565588.jpg" alt="Popular social media icons on smartphone device screen" caption="" >}} 
@@ -29,6 +28,6 @@ Erin Sills, director of global consumer insights for Facebook, highlighted the i
 
 > &#8220;We need to keep in mind that Facebook is largely a mobile platform, and it&#8217;s not that mobile is coming: Mobile is here.”
 
-This research and analysis supports trends highlighted in previous articles on DigitalGov: U.S. consumers are [spending more time in mobile apps than on TV]({{< link "2015-10-06-trends-on-tuesday-the-rise-of-apps-the-decline-of-tv.md" >}}), mobile users [spend most of their time in social apps]({{< link "2015-10-27-trends-on-tuesday-users-spend-most-of-their-time-in-social-apps.md" >}}), and Hispanic millennials have long been viewed as a population that not only embraces but will also [shape the mobile future]({{< link "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}).
+This research and analysis supports trends highlighted in previous articles on DigitalGov: U.S. consumers are [spending more time in mobile apps than on TV]({{< ref "2015-10-06-trends-on-tuesday-the-rise-of-apps-the-decline-of-tv.md" >}}), mobile users [spend most of their time in social apps]({{< ref "2015-10-27-trends-on-tuesday-users-spend-most-of-their-time-in-social-apps.md" >}}), and Hispanic millennials have long been viewed as a population that not only embraces but will also [shape the mobile future]({{< ref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}).
 
-Agencies looking to reach the millennial and Hispanic populations through [social media]({{< link "categories/socialmedia" >}}) and [mobile]({{< link "categories/mobile" >}}) outreach can tap into the wealth of resources on DigitalGov. Recent additions include [5 Keys for Government to Reach Hispanics Through Social Media]({{< link "2015-11-05-somossocial-5-keys-for-government-to-reach-hispanics-through-social-media.md" >}}), [Social Video: Making Sense of the Facebook and YouTube Platforms]({{< link "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}), and [tools for evaluating if your website is mobile-friendly]({{< link "2015-10-23-is-your-site-mobile-friendly.md" >}}).
+Agencies looking to reach the millennial and Hispanic populations through [social media]({{< ref "/topics/social-media" >}}) and [mobile]({{< ref "/topics/mobile" >}}) outreach can tap into the wealth of resources on DigitalGov. Recent additions include [5 Keys for Government to Reach Hispanics Through Social Media]({{< ref "2015-11-05-somossocial-5-keys-for-government-to-reach-hispanics-through-social-media.md" >}}), [Social Video: Making Sense of the Facebook and YouTube Platforms]({{< ref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}), and [tools for evaluating if your website is mobile-friendly]({{< ref "2015-10-23-is-your-site-mobile-friendly.md" >}}).

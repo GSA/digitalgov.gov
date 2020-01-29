@@ -5,10 +5,10 @@ title: Promoting the Use of Green IT
 summary: 'Summary: We&#8217;re taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the government&#8217;s overall IT security posture. Today, the Administration is taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the overall information technology (IT) security posture of the Federal'
 authors:
   - tony-scott
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - strategy
+  - policy
   - Federal Information Technology Acquisition Reform Act
   - FITARA
   - green IT

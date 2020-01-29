@@ -5,11 +5,10 @@ title: USA.Gov Launches vote.USA.gov to Help Citizens Register and Connect with 
 summary: ' One of the most important rights of American citizens is the right to vote. It is the foundation of our democracy, and in many ways, the basis of our government. This is why the team at USA.gov is excited to announce the launch'
 authors:
   - sarah-crane
-categories:
-  - Content
-tag:
-  - GSA
-  - usa.gov
+topics:
+  - content
+  - gsa
+  - usa-gov
 ---
 
 {{< legacy-img src="2015/09/600-x-315-Vote-USA-gov-open-graph-850x446.jpg" alt="Screen capture of Vote dot U.S.A. dot gov." >}}

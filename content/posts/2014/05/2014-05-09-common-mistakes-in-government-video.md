@@ -5,13 +5,12 @@ title: Common Mistakes in Government Video
 summary: ' Videographers in the federal government come from a variety of backgrounds&mdash;commercial television news, the armed services or broadcast/film school. Many of these individuals continue to hone their craft through the years, adopting new technology, taking training courses, learning new editing software,'
 authors:
   - jini-ryan
-categories:
-  - Video
-tag:
-  - CBP
-  - EPA
+topics:
+  - video
+  - us-customs-and-border-protection
+  - epa
   - US Customs and Border Protection
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2014/05/600-x-400-Video-Shoot-Common-Mistakes-in-Government-Video.jpg" alt="Outdoor Video Shoot example for Common Mistakes in Government Video" >}}

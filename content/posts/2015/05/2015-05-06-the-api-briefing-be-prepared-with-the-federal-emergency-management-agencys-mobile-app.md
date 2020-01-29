@@ -5,19 +5,18 @@ title: 'The API Briefing: Be Prepared with the Federal Emergency Management Agen
 summary: 'Before coming to DC in late 2008, I lived in Louisville, Kentucky. Louisville is in the Ohio Valley Region, which meteorologists euphemistically call &ldquo;weather-rich.&rdquo; With spring came the beautiful flowers and the Kentucky Derby. Spring also brought flooding, tornadoes, severe thunderstorms, and windstorms. This is why I had several emergency weather radios that also doubled'
 authors:
   - bbrantley
-categories:
-  - API
-  - Mobile
-tag:
-  - API
-  - data
-  - Federal Emergency Management Agency
-  - FEMA
+topics:
+  - api
   - mobile
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 5
-  - native app
-  - Wednesday API Briefing
+  - api
+  - data
+  - federal-emergency-management-agency
+  - fema
+  - mobile
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-5
+  - native-app
+  - wednesday-api-briefing
 ---
 
 Before coming to DC in late 2008, I lived in Louisville, Kentucky. Louisville is in the Ohio Valley Region, which meteorologists euphemistically call “weather-rich.” With spring came the beautiful flowers and the Kentucky Derby. Spring also brought flooding, tornadoes, severe thunderstorms, and windstorms. This is why I had several emergency weather radios that also doubled as flashlights and cell phone chargers.
@@ -32,6 +31,6 @@ Here is one idea: pair the information from the FEMA disaster declaration API wi
 
 Another idea: the FEMA disaster declaration API can be programmed into a spreadsheet along with long-term economic development data. Researchers could investigate how long it takes a disaster area to recover from a disaster and what types of grant programs and economic assistance were most effective.
 
-The Federal government has much information on disaster preparation and recovery from up-to-minute disaster notification services to rebuilding after a natural disaster. As the FEMA Mobile App shows, this information is perfect for APIs and apps to help the American public – especially if you live in a weather-rich location. In-person attendees of the [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/) can talk to the FEMA representatives who developed the app at the [Summit Expo](https://summit.digitalgov.gov/expo/). If you don&#8217;t have a Summit ticket, you can sign up for the [remote attendance](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401)._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< link "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
+The Federal government has much information on disaster preparation and recovery from up-to-minute disaster notification services to rebuilding after a natural disaster. As the FEMA Mobile App shows, this information is perfect for APIs and apps to help the American public – especially if you live in a weather-rich location. In-person attendees of the [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/) can talk to the FEMA representatives who developed the app at the [Summit Expo](https://summit.digitalgov.gov/expo/). If you don&#8217;t have a Summit ticket, you can sign up for the [remote attendance](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401)._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:bill.brantley@wdc.usda.gov" target="_blank">email</a>._
 _Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-Federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._

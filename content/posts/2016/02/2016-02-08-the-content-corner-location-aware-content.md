@@ -5,15 +5,14 @@ title: 'The Content Corner: Location-Aware Content'
 summary: 'While January was about looking ahead, February is focused on content and many of the new possibilities and challenges that will face us as content creators over the next year and beyond. At the intersection of these two themes lies the genesis of my topic today: location-aware content. More than a Map One of the'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-  - Monthly Theme
-tag:
-  - Administrative Office of the United States Courts
-  - content models
-  - Federal Emergency Management Agency
-  - FEMA
-  - The Content Corner
+topics:
+  - content
+  - monthly-theme
+  - administrative-office-of-the-united-states-courts
+  - content-models
+  - federal-emergency-management-agency
+  - fema
+  - the-content-corner
 ---
 
 While January was about looking ahead, February is focused on content and many of the new possibilities and challenges that will face us as content creators over the next year and beyond. At the intersection of these two themes lies the genesis of my topic today: location-aware content. {{< legacy-img src="2015/11/600-x-400-Mobile-phone-gps-navigation-travel-destination-location-and-positioning-concept-cybrain-iStock-Thinkstock-493553122.jpg" alt="Mobile phone gps navigation, travel destination, location and positioning concept of a map and single marker over a smart phone" caption="" >}} 
@@ -36,10 +35,10 @@ Advertisers are beginning to use similar methods to deliver customer locations a
 
 ## Emergency-related Information
 
-The [FEMA app]({{< link "2016-01-28-how-fema-delivers-anytime-anywhere-information-during-disasters.md" >}}) shows a great initial step in using a user’s location to help provide severe weather information and nearby shelter locations. In the future, the Federal Emergency Management Agency may be able to utilize GPS and geofencing to help alert people in a threatened area that they are near a shelter or relief area or to warn them of an approaching storm or road flooding. As opposed to the more generic, and often ignored emergency alerts that pop up on your phone when weather is threatening your county or surrounding counties, how about when weather is threatening an area within a few miles of your current location? Certain weather apps are leveraging GPS data to help alert you of nearby lightning strikes and other serious weather; I can see FEMA and other agencies building upon this service to provide additional critical location and context aware content for the user.
+The [FEMA app]({{< ref "2016-01-28-how-fema-delivers-anytime-anywhere-information-during-disasters.md" >}}) shows a great initial step in using a user’s location to help provide severe weather information and nearby shelter locations. In the future, the Federal Emergency Management Agency may be able to utilize GPS and geofencing to help alert people in a threatened area that they are near a shelter or relief area or to warn them of an approaching storm or road flooding. As opposed to the more generic, and often ignored emergency alerts that pop up on your phone when weather is threatening your county or surrounding counties, how about when weather is threatening an area within a few miles of your current location? Certain weather apps are leveraging GPS data to help alert you of nearby lightning strikes and other serious weather; I can see FEMA and other agencies building upon this service to provide additional critical location and context aware content for the user.
 
 Another item of note is the clear importance that FEMA assigns to the user’s location data and privacy concerns. One of the best ways to proceed is to follow W3C guidance and ask the user&#8217;s permission before any location information is gathered. Once that data is collected, be clear to the user what steps are taken afterwards. As a public sector entity, a user shouldn&#8217;t fear this information being sold, but protection of individual privacy is an issue that will only grow as technology advances.
 
 As we do so much these days, a user must weigh the benefits of a feature versus its privacy concerns. Technology will not prove to be the barrier to greater adoption of location-aware content, but ethical concerns may.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

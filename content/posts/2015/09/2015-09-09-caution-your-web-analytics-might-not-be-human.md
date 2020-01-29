@@ -5,21 +5,20 @@ title: 'Caution: Your Web Analytics Might Not Be Human'
 summary: 'A Digital Analytics Program (DAP) user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing,'
 authors:
   - tlowden
-categories:
-  - Metrics
-  - Monthly Theme
-tag:
+topics:
+  - metrics
+  - monthly-theme
   - analytics
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
 ---
 
-A <a href="{{< link "/dap/" >}}" target="_blank">Digital Analytics Program (DAP)</a> user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing, and he couldn’t figure out why the numbers would be so different.
+A <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program (DAP)</a> user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing, and he couldn’t figure out why the numbers would be so different.
 
 When I say different, I mean substantially so. Looking at the pageviews metric, the agency implementation was reporting almost 33% MORE views than DAP. Naturally, he hoped that the higher numbers were the “correct” ones, and somehow, the DAP numbers were incorrect.
 
-The first thing I told him was that, unfortunately, the two numbers will never be <a href="http://fivethirtyeight.com/features/why-we-still-cant-agree-on-web-metrics/" target="_blank">exactly the same</a>. Tracking with two different tools or in this case, even two instances of the same tool, won’t end up reporting perfect matches (since the DAP code is custom-built). That said, a 33% delta was far too much; and after some thought, I figured out what the main problem was. {{< legacy-img src="2015/09/600-x-400-Robot-Spider-with-clipping-path-Linda-Bucklin-iStock-Thinkstock-139863441.jpg" alt="Illustration of a robot spider" caption="" >}} 
+The first thing I told him was that, unfortunately, the two numbers will never be <a href="http://fivethirtyeight.com/features/why-we-still-cant-agree-on-web-metrics/" target="_blank">exactly the same</a>. Tracking with two different tools or in this case, even two instances of the same tool, won’t end up reporting perfect matches (since the DAP code is custom-built). That said, a 33% delta was far too much; and after some thought, I figured out what the main problem was. {{< legacy-img src="2015/09/600-x-400-Robot-Spider-with-clipping-path-Linda-Bucklin-iStock-Thinkstock-139863441.jpg" alt="Illustration of a robot spider" caption="" >}}
 
 Spiders.
 

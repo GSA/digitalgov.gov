@@ -1,62 +1,180 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "tribe_events-template-default single single-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-single tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive tribe-mobile" }}
+{{- define "content" -}}
+{{/* This sets $future_event to true or false */}}
+{{- $future_event := (time .Params.end_date).After now -}}
+{{/* Add to Calendar */}}
+{{- $event_startDate := dateFormat "2006-01-02 03:04 PM" (time .Params.date) -}}
+{{- $event_endDate := dateFormat "2006-01-02 03:04 PM" (time .Params.end_date) -}}
+{{- $event_url := (print "\n\nEvent Page: https:" .Permalink) -}}
+{{- $event_title := .Title | markdownify -}}
+{{- $event_desc := $.Params.summary | default $.Site.Params.description | markdownify -}}
+{{- $event_description := (print $event_desc $event_url) -}}
+{{- $event_location := .Params.venue.venue_name -}}
 
-{{ end }}
+<main role="main" class="event">
+  <article>
 
-{{ define "content" }}
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+            <p class="breadcrumb"><a href="{{- "events/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></p>
+            {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+            {{- end -}}
+            <h1>{{- .Title | markdownify -}}</h1>
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+            {{- if .Params.host -}}
 
-{{ partial "event-venue--inPerson.html" . }}
+            <p class="datetime"><i class="far fa-calendar"></i>
+              {{ with .Date }}
+              {{ . | dateFormat "Monday, January 02, 2006" }}
+              {{ end }}
+              <span>
+                {{- with .Date -}}
+                {{- . | dateFormat "3:04 PM" -}}
+                {{- end }} –
+                {{ with .Params.end_date -}}
+                {{- . | dateFormat "3:04 PM ET" -}}
+                {{- end -}}
+              </span>
+            </p>
 
-<div class="entry event">
-  <div class="event-head">
-    <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
-    <h1>{{ .Title | markdownify }}</h1>
-    {{ if .Params.deck }}
-    <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
-    {{ end }}
+            <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer }}</p>
+            {{- end -}}
+          </div>
+        </div>
+      </div>
+    </header>
 
-    <div class="event-details">
 
-      <span class="event-date">
-        {{ with .Date }}
-        {{ . | dateFormat "Monday, January 02, 2006" }}
-        {{ end }}
-        <span>
-          {{ with .Date }}
-          {{ . | dateFormat "3:04 PM" }}
-          {{ end }} –
-          {{ with .Params.end_date }}
-          {{ . | dateFormat "3:04 PM ET" }}
-          {{ end }}
-        </span>
-      </span>
+    {{/* EVENT Actions — REGISTER and Add to Calendar */}}
+    {{/* If is a Future Event */}}
+    {{- if eq $future_event true -}}
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <div class="actions">
+            {{/* Register */}}
+            <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
 
-      {{ partial "event-type.html" . }}
+            <span class="addtocalendar">
+              <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
+              <var class="atc_event">
+                <var class="atc_date_start">{{- $event_startDate -}}</var>
+                <var class="atc_date_end">{{- $event_endDate -}}</var>
+                <var class="atc_timezone">America/New_York</var>
+                <var class="atc_title">{{- $event_title -}}</var>
+                <var class="atc_description">{{- htmlUnescape $event_description | safeHTML -}}</var>
+                <var class="atc_location">{{- $event_location -}}</var>
+                <var class="atc_organizer">Digital.gov</var>
+                <var class="atc_organizer_email">digitalgov@gsa.gov</var>
+              </var>
+            </span>
 
+          </div>
+        </div>
+      </div>
     </div>
+    {{- end -}}
 
-    {{ partial "event-actions.html" . }}
 
-  </div>
+    {{/* EVENT Stages —
+    Depending on the type of event, different "event stages" appear on the page.
+    - Only for upcomming events
+    ==================================== */}}
 
-  <!-- If event_type == "online" -->
-  {{ if (isset .Params "youtube_id") }}
-    {{ partial "event-stage.html" . }}
-  {{ end }}
+    {{/* YouTube LIVE Stage */}}
+    {{- if eq .Params.event_platform "youtube_live" -}}
 
-  <div class="event-content">
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-    <div class="addthis_inline_share_toolbox"></div>
+      {{/* If is a Future Event */}}
+      {{- if eq $future_event true -}}
+        {{- .Render "stage-youtube-live" -}}
+      {{- end -}}
 
-    {{ .Content }}
-  </div>
+    {{- end -}}
 
-  {{ if (isset .Params "venue") }}
-    {{ partial "event-location.html" . }}
-  {{ end }}
 
-  {{ partial "post-meta--feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "branch" ($.Scratch.Get "branch")) }}
-  {{ partial "page-details" . }}
+    {{/* PAST EVENT / Video  -------------------- */}}
+    {{/* If is NOT a Future Event (Past event) */}}
+    {{- if eq $future_event false -}}
 
-</div>
-{{ end }}
+      {{- .Render "stage-youtube" -}}
+
+    {{- end -}}
+
+
+    <section>
+      <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <div class="grid-row tablet-lg:grid-gap-4">
+          <div class="grid-col-12 tablet:grid-col-9">
+
+            {{/* ZOOM Stage */}}
+            {{- if eq .Params.event_platform "zoom" -}}
+              {{/* If is a Future Event */}}
+              {{- if eq $future_event true -}}
+                {{- .Render "stage-zoom" -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
+
+            {{- partial "core/feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "prompt" "Have questions about this event or future events?" "branch" ($.Scratch.Get "branch")) -}}
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
+
+            {{/* Authors */}}
+            {{- if .Params.authors -}}
+            <h4>In this talk</h4>
+            {{- partial "core/get_authors" . -}}
+            {{- end -}}
+
+            {{- if eq .Params.event_platform "youtube_live" -}}
+              {{- if eq $future_event true -}}
+              <div class="actions actions-stacked">
+                {{/* Register */}}
+                <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+
+                <span class="addtocalendar">
+                  <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
+                  <var class="atc_event">
+                    <var class="atc_date_start">{{- $event_startDate -}}</var>
+                    <var class="atc_date_end">{{- $event_endDate -}}</var>
+                    <var class="atc_timezone">America/New_York</var>
+                    <var class="atc_title">{{- $event_title -}}</var>
+                    <var class="atc_description">{{- htmlUnescape $event_description | safeHTML -}}</var>
+                    <var class="atc_location">{{- $event_location -}}</var>
+                    <var class="atc_organizer">Digital.gov</var>
+                    <var class="atc_organizer_email">digitalgov@gsa.gov</var>
+                  </var>
+                </span>
+
+              </div>
+              {{- end -}}
+            {{- end -}}
+
+            {{/* Related Communities and Services */}}
+            {{- partial "core/get_related" . -}}
+
+            {{/* Topics */}}
+            {{- partial "core/get_topics" . -}}
+
+            {{/* Share Tools */}}
+            {{- partial "core/get_sharetools" . -}}
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </article>
+</main>
+
+{{- end -}}

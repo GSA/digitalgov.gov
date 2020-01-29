@@ -5,27 +5,27 @@ title: 'GAO to Congress: Federal Agencies Are Making a Difference Through Open I
 summary: 'Federal agencies confront tough problems every day. In searching for solutions, agencies will want to attract different perspectives, test new products, build capacity and communities, and increase public awareness. How do they do it? The answer: open innovation. Federal agencies need to engage and collaborate with all sectors of society, a task made easier by'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-  - Communities
+topics:
+  - challenges
+  - communities
   - crowdsourcing-and-citizen-science
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - product-management
+  - strategy
+  - policy
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - DOT
-  - EPA
+  - epa
   - GAO
   - innovation
-  - NASA
-  - open data
-  - US Environmental Protection Agency
-  - US Government Accountability Office
-  - United States Department of Transportation
+  - nasa
+  - open-data
+  - us-environmental-protection-agency
+  - us-government-accountability-office
+  - united-states-department-of-transportation
 ---
 
 Federal agencies confront tough problems every day. In searching for solutions, agencies will want to attract different perspectives, test new products, build capacity and communities, and increase public awareness.
@@ -36,7 +36,7 @@ The answer: open innovation.
 
 Federal agencies need to engage and collaborate with all sectors of society, a task made easier by online technologies, says a Government Accountability Office (GAO) [report](http://www.gao.gov/products/GAO-17-14) issued last week.
 
-OPEN INNOVATION: Practices to Engage Citizens and Effectively Implement Federal Initiatives is accompanied by an infographic and podcast, all well worth your while. Many of the highlighted activities were spearheaded by [communities]({{< link "/communities/" >}}) represented on DigitalGov: crowdsourcing and citizen science, open data, and prize competitions.
+OPEN INNOVATION: Practices to Engage Citizens and Effectively Implement Federal Initiatives is accompanied by an infographic and podcast, all well worth your while. Many of the highlighted activities were spearheaded by [communities]({{< ref "/communities" >}}) represented on DigitalGov: crowdsourcing and citizen science, open data, and prize competitions.
 
 [{{< legacy-img src="2016/10/600-x-234-GAO-report-title.jpg" alt="Click to view the full infographic" >}}](http://www.gao.gov/assets/690/680374.pdf)
 

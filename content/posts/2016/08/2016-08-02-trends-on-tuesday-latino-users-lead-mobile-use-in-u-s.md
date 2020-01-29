@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: Latino Users Lead Mobile Use in U.S.'
 summary: 'The Pew Research Center released a report in July that shows people of Latino descent are heavily reliant on mobile phones for their Internet access, more than other ethnicities.  The report said that since 2012, the percentage of Hispanic adults who used mobile devices to access the Internet jumped from 76% to 94% in 2015. These percentages'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - mobile
   - mobile-first
   - mobile-friendly
   - multilingual
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 The Pew Research Center released a report in July that shows </span><span style="font-weight: 400"><a href="http://www.pewhispanic.org/2016/07/20/digital-divide-narrows-for-latinos-as-more-spanish-speakers-and-immigrants-go-online/">people of Latino descent are heavily reliant on mobile phones for their Internet access</a>, more than other ethnicities</span><span style="font-weight: 400">. </p> 
@@ -32,5 +31,5 @@ The Pew Research Center released a report in July that shows </span><span style=
     </p>
     
     <p>
-      Government agencies should keep this in mind when planning their digital properties, focusing on <a href="{{< link "2016-03-29-google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may.md" >}}">mobile-optimized</a> and <a href="{{< link "tag/multilingual" >}}">multilingual</a> experiences to serve <a href="http://www.pewresearch.org/fact-tank/2014/06/26/u-s-hispanic-and-asian-populations-growing-but-for-different-reasons/">one of the largest and fastest growing groups</a> in America. 
+      Government agencies should keep this in mind when planning their digital properties, focusing on <a href="{{< ref "2016-03-29-google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may.md" >}}">mobile-optimized</a> and <a href="{{< ref "/topics/multilingual" >}}">multilingual</a> experiences to serve <a href="http://www.pewresearch.org/fact-tank/2014/06/26/u-s-hispanic-and-asian-populations-growing-but-for-different-reasons/">one of the largest and fastest growing groups</a> in America. 
     </p>

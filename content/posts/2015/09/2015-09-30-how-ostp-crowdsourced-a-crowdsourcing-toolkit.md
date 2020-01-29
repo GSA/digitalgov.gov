@@ -5,34 +5,33 @@ title: How OSTP Crowdsourced A Crowdsourcing Toolkit
 summary: To promote crowdsourcing, one effective tool is, well, crowdsourcing. Today, the White House Office of Science and Technology Policy (OSTP) and the Federal Community of Practice for Crowdsourcing and Citizen Science (CCS) unveiled the Citizen Science and Crowdsourcing Toolkit. The toolkit contains information, resources, and best practices federal agencies can use to harness the power
 authors:
   - awichman
-categories:
+topics:
   - crowdsourcing-and-citizen-science
-  - Managing Digital
-  - Our Work
-tag:
+  - product-management
+  - our-work
   - "508"
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - DAP
-  - Digital Analytics Program
-  - DigitalGov Search
+  - dap
+  - digital-analytics-program
+  - digitalgov-search
   - FCPCCS
-  - Open Opportunities program
+  - open-opportunities-program
   - OSTP
-  - section 508
-  - Sites
+  - section-508
+  - sites
   - sitesusagov
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
-{{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}}
 
 To promote crowdsourcing, one effective tool is, well, crowdsourcing.
 
-Today, the White House [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP) and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}}) (CCS) unveiled the [Citizen Science and Crowdsourcing Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The toolkit contains information, resources, and best practices federal agencies can use to harness the power of public participation.
+Today, the White House [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP) and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}) (CCS) unveiled the [Citizen Science and Crowdsourcing Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The toolkit contains information, resources, and best practices federal agencies can use to harness the power of public participation.
 
 Specifically, the toolkit provides:
 
@@ -44,7 +43,7 @@ Specifically, the toolkit provides:
 
 The Toolkit was developed in response to the [2013 Second Open Government National Action Plan](https://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) [PDF]. As part of the the plan, agencies were charged with developing an Open Innovation Toolkit; the Crowdsourcing and Citizen Science Toolkit is the first component of the Open Innovation Toolkit to be completed.
 
-## Building the Building Team {{< legacy-img src="2015/09/600-x-400-Cube-Letters-show-teams-in-front-of-unsharp-ludo-figures-Umkehrer-iStock-Thinkstock-472509682.jpg" alt="Cube Letters show teams in front of unsharp ludo figures." caption="" >}} 
+## Building the Building Team {{< legacy-img src="2015/09/600-x-400-Cube-Letters-show-teams-in-front-of-unsharp-ludo-figures-Umkehrer-iStock-Thinkstock-472509682.jpg" alt="Cube Letters show teams in front of unsharp ludo figures." caption="" >}}
 
 OSTP and CCS had a wealth of subject matter expert knowledge but did not have resources or expertise to build and host a publicly available toolkit.
 
@@ -60,6 +59,6 @@ Participants also expanded their skill sets as a result of the collaboration. Sa
 
 ## Behind the Scenes
 
-The toolkit was built on [Sites](https://sites.usa.gov/), a free shared service that provides federal agencies with an open-source CMS and secure cloud hosting. Analytics code from the [Digital Analytics Program]({{< link "/dap/" >}}) was implemented on the toolkit website, and [DigitalGov Search](http://search.digitalgov.gov/) powers the toolkit’s search box.
+The toolkit was built on [Sites](https://sites.usa.gov/), a free shared service that provides federal agencies with an open-source CMS and secure cloud hosting. Analytics code from the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) was implemented on the toolkit website, and [DigitalGov Search](http://search.digitalgov.gov/) powers the toolkit’s search box.
 
 Gustetic noted that the project was done with no funding, making the availability of tools and shared services essential in the success of the toolkit.

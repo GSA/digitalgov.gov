@@ -14,6 +14,10 @@ event_organizer: DigitalGov University
 host: The GSA Emerging Citizen Technology Office (ECTO)
 registration_url: https://www.eventbrite.com/e/overview-of-the-technology-modernization-fund-registration-46199707569
 youtube_id: cvKMYGcabxo
+topics:
+  - emerging-tech
+  - it-modernization-fund
+  - product-management
 
 ---
 

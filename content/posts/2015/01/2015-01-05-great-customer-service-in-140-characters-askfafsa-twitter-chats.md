@@ -5,13 +5,12 @@ title: 'Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats'
 summary: ' As agencies strive for success in digital government, they often need to open their virtual doors and meet the public in new and evolving spaces. Federal Student Aid meets its audience in the 21st century public square at monthly #AskFAFSA sessions. During the live'
 authors:
   - awichman
-categories:
-  - Social Media
-tag:
-  - Federal Student Aid
+topics:
+  - social-media
+  - federal-student-aid
   - FSA
   - Twitter
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
 ---
 
@@ -55,5 +54,5 @@ One of the challenges of #AskFAFSA is the time investment, Vuong said. Because #
 
 “The positive of this event is reaching out to your audience and letting them know there are real people behind the screen, not just automated copy and paste answers,” Vuong said. “Our SME guests also like it and think it is neat to be involved.”
 
-_Want to know more about hosting a Twitter town hall at your agency? The Twitter chat resources available on DigitalGov cover what you need to know, from understanding [Twitter chat basics]({{< link "2013-10-16-twitter-chats-for-federal-agencies.md" >}}) for federal agencies to [tips for successful chats]({{< link "2013-10-17-hosting-successful-federal-twitter-chats.md" >}}).
+_Want to know more about hosting a Twitter town hall at your agency? The Twitter chat resources available on DigitalGov cover what you need to know, from understanding [Twitter chat basics]({{< ref "2013-10-16-twitter-chats-for-federal-agencies.md" >}}) for federal agencies to [tips for successful chats]({{< ref "2013-10-17-hosting-successful-federal-twitter-chats.md" >}}).
   _

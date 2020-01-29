@@ -6,11 +6,10 @@ summary: 'Sign up now to watch the DigitalGov Summit from the comfort of your de
 authors:
   - apiazza
   - jthalls
-categories:
-  - Managing Digital
-  - Our Work
-tag:
-  - DigitalGov Summit
+topics:
+  - product-management
+  - our-work
+  - digitalgov-summit
 ---
 
 {{< legacy-img src="2015/04/600-x-208-Webcast-blue-squares-ileezhun-iStock-Thinkstock-ThinkstockPhotos-467395968.jpg" alt="To the left of the word webcast, six screens surround a globe icon." caption="" >}}
@@ -21,7 +20,7 @@ Virtual attendance will be an awesome way to experience the event with extras no
 
 ## Apply for an Expo Table {{< legacy-img src="2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-20140530_103909.jpg" alt="2014 Summit Expo tables and crowd of attendees" caption="" >}}
 
-Another way you can attend the summit is to get [picked to exhibit]({{< link "2015-03-18-showcase-your-innovation-program-at-the-2015-spring-summit.md" >}} "Showcase Your Innovation Program at the 2015 Spring Summit"). Like last year, we will be hosting tables for federal agencies to showcase innovations, tools, and resources. Since tables are limited we want to have a good mix of agencies and innovations—and we really hope that you will [apply for a table](https://www.surveymonkey.com/s/digitalgov-expo). Remember the table must be:
+Another way you can attend the summit is to get [picked to exhibit]({{< ref "2015-03-18-showcase-your-innovation-program-at-the-2015-spring-summit.md" >}} "Showcase Your Innovation Program at the 2015 Spring Summit"). Like last year, we will be hosting tables for federal agencies to showcase innovations, tools, and resources. Since tables are limited we want to have a good mix of agencies and innovations—and we really hope that you will [apply for a table](https://www.surveymonkey.com/s/digitalgov-expo). Remember the table must be:
 
   * Hosted by a federal agency
   * Showcasing or demoing a government-wide service, community, or tool with a digital theme

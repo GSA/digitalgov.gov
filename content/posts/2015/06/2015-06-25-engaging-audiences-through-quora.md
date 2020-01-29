@@ -5,17 +5,16 @@ title: Engaging Audiences Through Quora
 summary: 'There’s no doubt that traditional social media sites like Facebook and Twitter have transformed how we communicate with stakeholders. Quora is another tool for agencies seeking to engage highly-educated thought leaders and influencers, policy makers, entrepreneurs, scientists, engineers and journalists worldwide. The brainchild of two former Facebook employees with the backing of Wikipedia’s founder, Quora aims to'
 authors:
   - carolyn-hinkley
-categories:
-  - Monthly Theme
-  - Social Media
-tag:
-  - National Institute of Standards and Technology
+topics:
+  - monthly-theme
+  - social-media
+  - national-institute-of-standards-and-technology
   - NIST
-  - social media
-  - Terms of Service
+  - social-media
+  - terms-of-service
 ---
 
-{{< legacy-img src="2015/06/600-x-400-Question-and-answer-words-raywoo-iStock-Thinkstock-178110327.jpg" alt="The words Question and Answer on puzzle pieces" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-Question-and-answer-words-raywoo-iStock-Thinkstock-178110327.jpg" alt="The words Question and Answer on puzzle pieces" caption="" >}}
 
 There’s no doubt that traditional social media sites like Facebook and Twitter have transformed how we communicate with stakeholders. [Quora](http://www.quora.com/about) is another tool for agencies seeking to engage highly-educated thought leaders and influencers, policy makers, entrepreneurs, scientists, engineers and journalists worldwide.
 

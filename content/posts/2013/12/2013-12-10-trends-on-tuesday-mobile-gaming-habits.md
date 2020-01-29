@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: Mobile Gaming Habits'
 summary: ' We&#8217;ve reported before that playing games is one of the most popular activities on mobile devices. A recent study by App Annie and IDC dives deeper into'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
-  - CDC
+topics:
+  - mobile
+  - cdc
   - gamification
   - mobile
-  - mobile apps
-  - Trends on Tuesday
+  - mobile-apps
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/01/photo-1024x768.png" alt="CDC Solve the Outbreak Plantation Blues for iPad showing the first clue in their new game scenario with a photo of the Louisiana bayou." >}} 
@@ -33,4 +32,4 @@ And it&#8217;s just not children who are playing games on mobile devices.
 
 > The average smartphone game player was 41 years old in June 2013, with 53 per cent of the user base female.
 
-Government agencies have been targeting mobile game players. [CDC&#8217;s Solve the Outbreak]({{< link "2013-10-31-new-outbreaks-but-no-zombies-on-cdcs-solve-the-outbreak.md" >}} "New Outbreaks (but No Zombies) on CDC’s Solve the Outbreak") iPad app is a highly successful example and you can read about their strategy here.
+Government agencies have been targeting mobile game players. [CDC&#8217;s Solve the Outbreak]({{< ref "2013-10-31-new-outbreaks-but-no-zombies-on-cdcs-solve-the-outbreak.md" >}} "New Outbreaks (but No Zombies) on CDC’s Solve the Outbreak") iPad app is a highly successful example and you can read about their strategy here.

@@ -5,13 +5,12 @@ title: 'New White House Report: Prize Competition Use Increased 85% in 2013'
 summary: We are thrilled to share an update from our competition colleagues at the White House Office of Science and Technology Policy. The third annual comprehensive report detailing the use of prizes and
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
-  - prizes and competitions
-  - White House Office of Science and Technology Policy
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - prizes-and-competitions
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2014/05/250-x-250-Executive-Office-of-the-President-of-the-United-States-Office-of-Science-and-Technology-Policy-seal.jpg" alt="The official seal for the Executive Office of the President of the United States, Office of Science and Technology Policy" >}}We are thrilled to share an update from our competition colleagues at the White House Office of Science and Technology Policy. The third annual comprehensive report detailing the use of prizes and competitions by federal agencies to spur innovation, engage citizen solvers, address tough problems, and advance their core missions is now available &#8212; [Federal Prize Authority 2013](http://www.whitehouse.gov/sites/default/files/microsites/ostp/competes_prizesreport_fy13_final.pdf "prize authority progress report 2013").

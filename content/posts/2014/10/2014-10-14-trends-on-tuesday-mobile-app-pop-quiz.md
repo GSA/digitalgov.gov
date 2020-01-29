@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: Mobile App Pop Quiz'
 summary: 'It’s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? ComScore recently released the U.S. Mobile App Report which sheds light on how Americans use mobile apps. Test your knowledge with the five questions'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
-  - CDC
+topics:
+  - mobile
+  - cdc
   - Census
-  - Centers for Disease Control and Prevention
-  - mobile apps
-  - Trends on Tuesday
-  - United States Census Bureau
+  - centers-for-disease-control-and-prevention
+  - mobile-apps
+  - trends-on-tuesday
+  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2013/05/250-x-375-CDC-Solve-the-Outbreak.jpg" alt="Advertisement for CDC's Solve the Outbreak App" >}}It’s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? [ComScore recently released the U.S. Mobile App Report](http://www.comscore.com/Insights/Blog/5-Questions-and-Answers-Shedding-Light-on-How-Americans-Use-Mobile-Apps) which sheds light on how Americans use mobile apps. Test your knowledge with the five questions and answers below:
@@ -42,4 +41,4 @@ So, how did you do? Every agency should take this test before investing time and
 
 The [U.S. Census Bureau](http://www.census.gov/) and the [Centers for Disease Control and Prevention](http://www.cdc.gov/) are great examples of how agencies are putting these questions and answers to use. Their apps, [Pop Quiz](http://www.census.gov/mobile/censuspopquiz/) and [Solve the Outbreak](http://www.cdc.gov/mobile/applications/sto/) use games to connect hard-to-reach audiences with information they should know.
 
-For more information on developing mobile products for the public, check out DigitalGov’s [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program").
+For more information on developing mobile products for the public, check out DigitalGov’s [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program").

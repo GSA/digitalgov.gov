@@ -5,16 +5,15 @@ title: 'User Experience (UX) vs. Customer Experience (CX): What&#8217;s the Dif?
 summary: '&ldquo;User Experience&rdquo; and &ldquo;Customer Experience.&rdquo; They sound pretty similar, right? Well, here at the Office of Citizen Services and Innovative Technologies, we look at it like this: User Experience (UX) deals with people interacting with your product and the experience they receive from that interaction. UX is measured with metrics like: success rate, error rate,'
 authors:
   - tlowden
-categories:
-  - Communities
-  - Monthly Theme
-  - UX
-tag:
-  - AoI
-  - Customer Experience
-  - DigitalGov User Experience Program
-  - search engine optimization
-  - user experience
+topics:
+  - communities
+  - monthly-theme
+  - ux
+  - aoi
+  - cx
+  - digitalgov-user-experience-program
+  - search-engine-optimization
+  - user-experience
 ---
 
 “User Experience” and “Customer Experience.” They sound pretty similar, right?
@@ -48,5 +47,5 @@ It can work in reverse, as well. You might have the best advertising, brand reco
 
 You can see how UX is really a component of CX, and each play an important role in the overall success of a program, the reputation of your brand, and customers’ loyalty to your brand. Failures in either area lead to a bad customer experience overall. Think about this as you develop products and services, and make sure to begin with the customer in mind.
 
-_For more information on user experience, become part of the [User Experience Community.]({{< link "user-experience.md" >}})_
+_For more information on user experience, become part of the [User Experience Community.]({{< ref "user-experience.md" >}})_
 _This article is part of this month&#8217;s editorial theme on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

@@ -5,16 +5,15 @@ title: CBP Border Wait Time App a One-Stop Shop for Cross Border Travel
 summary: The new Border Wait Time app from U.S. Customs and Border Protection (CBP) is a one stop shop for cross border travelers, displaying estimated wait times and open lane statuses at U.S. land ports of entry. Travelers can also locate ports of entry
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - CBP
-  - DHS
+topics:
+  - mobile
+  - us-customs-and-border-protection
+  - dhs
   - ICE
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Customs and Border Protection
-  - US Immigration and Customs Enforcement
-  - United States Department of Homeland Security
+  - us-immigration-and-customs-enforcement
+  - united-states-department-of-homeland-security
 ---
 
 {{< legacy-img src="2015/01/250-x-338-DHS-Customs-and-Border-Patrol-CBP-Twitter-seal.jpg" alt="DHS Customs and Border Patrol CBP seal from Twitter" >}}The new [Border Wait Time](http://bwt.cbp.gov/) app from [U.S. Customs and Border Protection](http://www.cbp.gov/) (CBP) is a one stop shop for cross border travelers, displaying estimated wait times and open lane statuses at U.S. land ports of entry. Travelers can also locate ports of entry closest to their location, and then map the best route to the crossing of their choice.
@@ -33,4 +32,4 @@ The app does not require you to register or provide any personal information. CB
 
 CBP is a component of the Department of Homeland Security and provides security and facilitation operations at 328 ports of entry throughout the country. The agency is charged with keeping terrorists and their weapons out of the U.S. while facilitating lawful international travel and trade.
 
-_Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})__._
+_Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})__._

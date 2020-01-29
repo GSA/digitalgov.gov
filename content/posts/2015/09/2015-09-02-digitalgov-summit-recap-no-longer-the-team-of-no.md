@@ -5,14 +5,13 @@ title: 'DigitalGov Summit Recap: No Longer the Team of No'
 summary: 'No one likes to be told no. This is especially true at work, when you’re moving toward something that you feel is in the best interest of your customers. But so often in government, our forward progress gets slowed down by others in our organization who we think &ldquo;just don’t get it&rdquo;&mdash;namely those in content,'
 authors:
   - andreanocesigritz
-categories:
-  - Our Work
-tag:
-  - DigitalGov Summit
+topics:
+  - our-work
+  - digitalgov-summit
   - DOJ
   - US Department of Agriculture
-  - US Department of Justice
-  - United States Department of Energy
+  - us-department-of-justice
+  - united-states-department-of-energy
   - USDA
 ---
 

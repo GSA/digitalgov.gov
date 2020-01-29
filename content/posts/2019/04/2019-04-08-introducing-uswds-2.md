@@ -1,21 +1,21 @@
 ---
 slug: introducing-uswds-2
 date: 2019-04-08 09:00:00 -0500
-title: 'Introducing USWDS 2.0'
-deck: 'Reinvent the experience, not the wheel'
+title: "Introducing USWDS 2.0"
+deck: "Reinvent the experience, not the wheel"
 summary: "Today's update introduces a powerful toolkit of new features to help make creating useful, consistent digital services faster, simpler, and more fun."
 authors:
   - dan-williams
   - maya-benari
-categories:
+topics:
   - code
   - design
-  - managing-digital
+  - product-management
   - mobile
   - ux
   - accessibility
-tag:
   - uswds
+  - public-sans
 featured_image:
   uid: uswds-2-illio-feature-image-black
   alt: 'A colorful collection of screens and interface components'

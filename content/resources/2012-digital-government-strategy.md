@@ -1,5 +1,5 @@
 ---
-url: /resources/2012-digital-government-strategy/
+slug: 2012-digital-government-strategy
 date: 2015-09-29 10:15:27 -0400
 title: 2012 Digital Government Strategy
 summary: 'The 2012 Digital Government Strategy mission drives agencies, and the need to deliver better services to customers at a lower cost&mdash;whether an agency is supporting the warfighter overseas, a teacher seeking classroom resources, or a family figuring out how to pay for college is pushing every level of government to look for new solutions. The'
@@ -17,7 +17,7 @@ The Digital Government Strategy incorporates a broad range of input from governm
 
 ## Related Links
 
-  * [Digital Government Strategy Milestones Report]({{< link "2012-08-29-digital-government-strategy-milestones-report.md" >}})
+  * [Digital Government Strategy Milestones Report]({{< ref "2012-08-29-digital-government-strategy-milestones-report.md" >}})
   * [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
   * [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
   * [OMB M-13-13 Open Data Policy—Managing Information as an Asset](http://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
@@ -31,4 +31,4 @@ The Digital Government Strategy incorporates a broad range of input from governm
 
 
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

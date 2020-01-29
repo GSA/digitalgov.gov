@@ -5,13 +5,12 @@ title: 3rd U.S. Public Participation Playbook Draft Released This Month
 summary: 'The new third draft of the U.S. Public Participation Playbook continues to incorporate changes proposed from more than 100 suggestions submitted via public comment aimed at measuring the performance and improving the development of government programs. It takes the 13 initial &#8220;plays&#8221; from rough brainstorming and collaborations to a more refined, action-focused presentation that will help contributors understand and identify opportunities'
 authors:
   - jherman
-categories:
-  - Managing Digital
-  - Metrics
-  - Social Media
-tag:
+topics:
+  - product-management
+  - metrics
+  - social-media
   - Digital Services Playbook
-  - National Action Plan on Open Government
+  - national-action-plan-on-open-government
 ---
 
 [{{< legacy-img src="2014/12/600-x-450-People-Background-VLADGRIN-iStock-Thinkstock-148498411-533x400.jpg" alt="Black background with colorful illustrations of different adult male and female silhouettes." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/600-x-450-People-Background-VLADGRIN-iStock-Thinkstock-148498411.jpg) 
@@ -41,7 +40,7 @@ From now until the first formal version is released in early January, we ask par
   * **Case studies and resources that exemplify each of the recommendations**, specifically case studies and resources outside the digital and federal participatory space.
   * **Ideas on better structuring and ordering the plays**, as over the course of our collaborative process it&#8217;s become clear that the content will need more context and framing to support the easiest use by managers in building and evaluating their programs.
 
-For more information on what [the U.S. Public Participation Playbook](http://www.whitehouse.gov/blog/2014/11/25/help-shape-public-participation) is, please take a look at <a href="{{< link "2014-12-08-2nd-u-s-public-participation-playbook-draft-responds-to-public-contributions.md" >}}" target="_blank">our DigitalGov post on the second draft</a> that lays out how we’re building it to improve public participation with not just its content but the very process behind its design, and answers some common questions we received.
+For more information on what [the U.S. Public Participation Playbook](http://www.whitehouse.gov/blog/2014/11/25/help-shape-public-participation) is, please take a look at <a href="{{< ref "2014-12-08-2nd-u-s-public-participation-playbook-draft-responds-to-public-contributions.md" >}}" target="_blank">our DigitalGov post on the second draft</a> that lays out how we’re building it to improve public participation with not just its content but the very process behind its design, and answers some common questions we received.
 
 Thank you to all who contributed in recent weeks, and to all who will contribute in the coming months as we build from this foundation we&#8217;ve built together. We invite you to comment via the <a href="https://mymadison.io/docs/us-public-participation-playbook-draft-v3" target="_blank">Madison platform</a>, hosted by the **OpenGov Foundation**, through email at <justin.herman@gsa.gov> or by scheduling a time for face-to-face discussion.
 

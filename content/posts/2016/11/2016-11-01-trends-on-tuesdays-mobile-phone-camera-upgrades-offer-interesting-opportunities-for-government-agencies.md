@@ -5,21 +5,20 @@ title: 'Trends on Tuesdays: Mobile Phone Camera Upgrades Offer Interesting Oppor
 summary: 'Professional photographer and early &ldquo;iPhonography&rdquo; pioneer, Chase Jarvis coined the phrase, &ldquo;The best camera is the one that&#8217;s with you.&rdquo; The recent jumps in mobile phone photo technology presents interesting opportunities for government agencies to consider as mobile phone cameras are starting to rival and surpass professional gear. When Google and Apple both announced their'
 authors:
   - wsullivan
-categories:
-  - Content
-  - Managing Digital
-  - Social Media
-  - Video
-tag:
+topics:
+  - content
+  - product-management
+  - social-media
+  - video
   - app
-  - Audio/Video
+  - audio-video
   - content
   - mobile
-  - mobile apps
-  - native app
-  - native apps
-  - social media
-  - Trends on Tuesday
+  - mobile-apps
+  - native-app
+  - native-apps
+  - social-media
+  - trends-on-tuesday
   - video
 ---
 

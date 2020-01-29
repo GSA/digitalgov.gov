@@ -5,12 +5,11 @@ title: Create Section 508-Compliant Videos on Your Government Websites
 summary: It is undeniable the reach of online video into our modern lives. From cats in shark costumes riding on Roombas to the 2.1 million people live streaming the 2012 Super Bowl. Online video inspires us with TED talks and allows us to feel the rush of Felix Baumgartner jumping from space. With online video so
 authors:
   - ryan-leisinger
-categories:
-  - Accessibility
-  - Content
-  - Video
-tag:
-  - section 508
+topics:
+  - accessibility
+  - content
+  - video
+  - section-508
 ---
 
 It is undeniable the reach of online video into our modern lives. From <a title="Cat in shark constume rides Roomba on YouTube" href="http://www.youtube.com/watch?v=Of2HU3LGdbo" target="_blank">cats in shark costumes riding on Roombas</a> to the 2.1 million people live streaming the 2012 Super Bowl. Online video inspires us with TED talks and allows us to feel the rush of Felix Baumgartner jumping from space. With online video so embedded (online video geek pun) in our lives, it makes perfect sense for Government to use online video to engage its citizens.
@@ -25,6 +24,6 @@ In early 2012, an interagency group of Section 508 experts, convened by the Gene
 
 **How to Create Section 508-Compliant Videos on Your Government Websites**
 
-  * [Make Multimedia Section 508 Compliant and Accessible]({{< link "2013-06-26-making-multimedia-section-508-compliant-and-accessible.md" >}}
+  * [Make Multimedia Section 508 Compliant and Accessible]({{< ref "2013-06-26-making-multimedia-section-508-compliant-and-accessible.md" >}}
 
 We welcome your feedback. We intend to maintain and plan to evolve these documents.

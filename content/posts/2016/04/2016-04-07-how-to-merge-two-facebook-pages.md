@@ -6,12 +6,11 @@ summary: In the next couple of years as new social media platforms emerge and or
 authors:
   - sara-smith
   - janet-linton
-categories:
-  - Managing Digital
-  - Social Media
-tag:
-  - National Institutes of Health
-  - NIH
+topics:
+  - product-management
+  - social-media
+  - national-institutes-of-health
+  - nih
 ---
 
 In the next couple of years as new social media platforms emerge and organizations open more accounts, when do you make the decision to shut an account down? When resources are limited, we must analyze the effectiveness of our social media programs and put our time and effort into the accounts that best serve our audiences.
@@ -104,7 +103,7 @@ There are two ways to [merge your Facebook pages](https://www.facebook.com/help/
 
 Within a day, our pages were merged! We’d be lying if we didn’t say we were a little nervous about how it would come out, but our fans merged (for a total of nearly 75K fans) and there have been no issues on the NIDA Facebook page.
 
-Post-merge, you’ll want to remember to update your website and anywhere else linking to the page going away. You’ll also want to ensure you remove the page from any [social media registries]({{< link "u-s-digital-registry.md" >}}).
+Post-merge, you’ll want to remember to update your website and anywhere else linking to the page going away. You’ll also want to ensure you remove the page from any [social media registries]({{< ref "service_us-digital-registry.md" >}}).
 
 ## Lessons Learned
 

@@ -1,0 +1,38 @@
+{{/*
+  ======================================
+  TOPICS
+  ======================================
+*/}}
+
+{{/* This outputs the topics used on a specific page.*/}}
+
+{{/* Checks if there are topics applied to this page */}}
+{{- if .Params.topics -}}
+<div class="topics">
+  {{/* Sets the taxonomy we're pulling here */}}
+  {{- $taxonomy := "topics" -}}
+  {{- $topics := .Param $taxonomy -}}
+  {{/* Gets the number of topics that are applied */}}
+  {{- $length := $topics | len -}}
+
+  {{/* For each of the topics,... */}}
+
+  {{/* NOTE: Many of the pages in digital.gov have duplicate topics after our last migration —— So we are running "uniq" on the array to remove duplicates */}}
+  {{- range $i, $e := uniq (sort $topics) -}}
+    {{- $slug := . -}}
+
+    {{/* Gets the Topics page */}}
+    {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
+
+      {{/* Show all the topics */}}
+      {{/* <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a> */}}
+
+      {{/* Show only topics with weight 2 or 3 */}}
+      {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+        <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a>
+      {{- end -}}
+
+    {{- end -}}
+  {{- end -}}
+</div>
+{{- end -}}

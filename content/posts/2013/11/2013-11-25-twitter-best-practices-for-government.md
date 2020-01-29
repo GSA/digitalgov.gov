@@ -5,9 +5,8 @@ title: Twitter Best Practices for Government
 summary: 'Best practices and success stories to help government leverage the power of Twitter'
 authors:
   - lnelson
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Twitter
 ---
 

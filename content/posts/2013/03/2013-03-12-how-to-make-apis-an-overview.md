@@ -5,12 +5,11 @@ title: How to Make APIs—An Overview
 summary: 'After choosing a set of information or services to offer via API, some of your next steps are to plan and implement the API. You&#8217;ll still need to prepare documentation, tools, and other elements that make a complete package for the API, but at the center is the actual Web service itself. In many situations,'
 authors:
   - gray-brooks
-categories:
-  - API
-  - Code
-tag:
-  - API
-  - open data
+topics:
+  - api
+  - code
+  - api
+  - open-data
 ---
 
 {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
@@ -46,7 +45,7 @@ Given the ease of this method, it’s highly recommended as a good first step fo
 
 Several websites offer the same ease of use described above but with more powerful functionality. The starting point is the same. Agency staff take a piece of agency data that exists as .csv or .xls spreadsheets, upload it, choose a few descriptions and other options, and the website hosts the data file but also provides a RESTful API, along with documentation and helpful tools for consuming the API.
 
-The Socrata toolset that powers [Data.gov](http://www.data.gov/) includes this means, such that [spreadsheets that are served through Data.gov]({{< link "2013-04-30-producing-apis-through-data-gov.md" >}} "Producing APIs through Data.gov") may benefit from this API access automatically. Other services such as [Socrata’s API Foundry](http://www.socrata.com/api-foundry/), [Emergent One](http://www.emergentone.com/), and [Webservius](http://www.webservius.com/corp/) go further and provide a more rich package in addition to simply standing up the API, automatically building in elements such as code samples, interactive documentation, API keys, and more. GSA&#8217;s [.gov domain](https://explore.data.gov/Federal-Government-Finances-and-Employment/Federal-Executive-Agency-Internet-Domains-as-of-04/ku4m-7ynp?) and [Data Center Consolidation](https://explore.data.gov/Federal-Government-Finances-and-Employment/Federal-Data-Center-Consolidation-Initiative-FDCCI/d5wm-4c37) APIs provide an example of this method.
+The Socrata toolset that powers [Data.gov](http://www.data.gov/) includes this means, such that [spreadsheets that are served through Data.gov]({{< ref "2013-04-30-producing-apis-through-data-gov.md" >}} "Producing APIs through Data.gov") may benefit from this API access automatically. Other services such as [Socrata’s API Foundry](http://www.socrata.com/api-foundry/), [Emergent One](http://www.emergentone.com/), and [Webservius](http://www.webservius.com/corp/) go further and provide a more rich package in addition to simply standing up the API, automatically building in elements such as code samples, interactive documentation, API keys, and more. GSA&#8217;s [.gov domain](https://explore.data.gov/Federal-Government-Finances-and-Employment/Federal-Executive-Agency-Internet-Domains-as-of-04/ku4m-7ynp?) and [Data Center Consolidation](https://explore.data.gov/Federal-Government-Finances-and-Employment/Federal-Data-Center-Consolidation-Initiative-FDCCI/d5wm-4c37) APIs provide an example of this method.
 
 These first two approaches target data that is already in a spreadsheet file. Oftentimes, the data is more complex than that.
 

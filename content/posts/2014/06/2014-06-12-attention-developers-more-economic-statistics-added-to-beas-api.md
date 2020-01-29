@@ -5,12 +5,11 @@ title: 'Attention Developers: More Economic Statistics Added to BEA’s API'
 summary: Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year. The API now provides direct access to the
 authors:
   - bea-team
-categories:
-  - API
-  - Data
-tag:
-  - BEA
-  - US Bureau of Economic Analysis
+topics:
+  - api
+  - data
+  - bea
+  - us-bureau-of-economic-analysis
 ---
 
 {{< legacy-img src="2014/06/250-x-69-Bureau-of-Economic-Analysis-BEA-logo.jpg" alt="250 x 69 Bureau of Economic Analysis BEA logo" >}}Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year.

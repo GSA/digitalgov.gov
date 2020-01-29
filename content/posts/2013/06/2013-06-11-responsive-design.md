@@ -5,14 +5,13 @@ title: Responsive Design Overview, Resources and Tools
 summary: 'Responsive Web design refers to a fluidly constructed Web page layout that scales from handheld device displays to large, high-resolution computer displays using flexible typography, flexible images, fluid grids, and CSS3 media queries. For years, most Web teams designed for the desktop. Branding, navigation, work flows &#8211; the overall look & feel of online applications'
 authors:
   - jparcell
-categories:
-  - Managing Digital
-  - Mobile
-tag:
-  - mobile apps
-  - responsive web design
-  - USAgov
-  - UX
+topics:
+  - product-management
+  - mobile
+  - mobile-apps
+  - responsive-web-design
+  - usagov
+  - ux
 ---
 
 Responsive Web design refers to a fluidly constructed Web page layout that scales from handheld device displays to large, high-resolution computer displays using flexible typography, flexible images, fluid grids, and <a href="http://www.w3.org/TR/css3-mediaqueries/" rel="nofollow">CSS3 media queries</a>.
@@ -60,6 +59,6 @@ Finally, using responsive design techniques means that your web layout stands a 
   * <a href="http://speakerdeck.com/u/scottjehl/p/responsive-responsible" rel="nofollow">Responsive and Responsible</a>
   * <a href="http://www.slideshare.net/lyzadanger/crap-it-doesnt-look-quite-right-or-how-i-learned-to-stop-worrying-and-set-my-mobile-web-sites-free-9518337" rel="nofollow">Cloud Four (non-Techy)</a>
   * <a href="http://patternlab.bradfrostweb.com/" rel="nofollow">Pattern Lab</a> by Brad Frost
-  * [USA.gov Responsive Design]({{< link "2013-08-20-embracing-responsive-design.md" >}} "Embracing Responsive Design") Implementation
+  * [USA.gov Responsive Design]({{< ref "2013-08-20-embracing-responsive-design.md" >}} "Embracing Responsive Design") Implementation
 
 ## <a name="x-Government Examples of Responsive Design::"></a> {#toc8}

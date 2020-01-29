@@ -5,29 +5,28 @@ title: Opening Government Through Federal Crowdsourcing
 summary: Crowdsourcing is a critical corner of the digital government landscape, and our December theme articles have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives
 authors:
   - awichman
-categories:
-  - Challenges
-  - Communities
+topics:
+  - challenges
+  - communities
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
-tag:
-  - AoI
-  - Challenges and Prizes Community of Practice
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - monthly-theme
+  - aoi
+  - challenges-and-prizes-community-of-practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - Consumer Product Safety Commission
   - crowdsourcing
   - FCPCCS
   - NARA
-  - NASA
-  - National Archives and Records Administration
+  - nasa
+  - national-archives-and-records-administration
   - OSTP
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." caption="" >}}
 
-Crowdsourcing is a critical corner of the digital government landscape, and our [December theme articles]({{< link "2014-12-08-crowdsourcing-month-an-overview.md" >}}) have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives as a whole.
+Crowdsourcing is a critical corner of the digital government landscape, and our [December theme articles]({{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}}) have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives as a whole.
 
 We spoke with **Jenn Gustetic**, Assistant Director for Open Innovation in the [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP). The scope of her position covers challenges and prizes as well as citizen science and crowdsourcing. Gustetic said that the promise of these interactive tools lies in their ability to unlock potential from new corners of the public. No longer do people need to work through organizations in order to get their voice heard.
 
@@ -35,9 +34,9 @@ We spoke with **Jenn Gustetic**, Assistant Director for Open Innovation in the [
 
 ## **Challenges and Prizes**
 
-[Challenges and prizes]({{< link "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}}) have existed in the government sphere since the mid-2000s. In the past four years, Gustetic noted an increase not only in the number of challenges and prizes but also in the size, complexity, and sophistication of competitions. Current challenges reflect the diversity of opportunities: the Consumer Product Safety Commission is asking middle school students to enter a [poster competition](http://www.cpsc.gov/cocontest) on carbon monoxide awareness, and NASA is seeking teams to [build small spacecraft](http://www.nasa.gov/cubequest/#.VJB79ivF-E4) that can carry out operations near the moon and in deep space.
+[Challenges and prizes]({{< ref "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}}) have existed in the government sphere since the mid-2000s. In the past four years, Gustetic noted an increase not only in the number of challenges and prizes but also in the size, complexity, and sophistication of competitions. Current challenges reflect the diversity of opportunities: the Consumer Product Safety Commission is asking middle school students to enter a [poster competition](http://www.cpsc.gov/cocontest) on carbon monoxide awareness, and NASA is seeking teams to [build small spacecraft](http://www.nasa.gov/cubequest/#.VJB79ivF-E4) that can carry out operations near the moon and in deep space.
 
-More agencies are taking concrete steps to institutionalize challenge and prize activities: several agencies have dedicated prize leads, and a number of agencies are working on common contracting vehicles to cut down on operational costs. Enthusiasm has also grown through the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes.md" >}}), which has over 600 members.
+More agencies are taking concrete steps to institutionalize challenge and prize activities: several agencies have dedicated prize leads, and a number of agencies are working on common contracting vehicles to cut down on operational costs. Enthusiasm has also grown through the [Challenges and Prizes Community of Practice]({{< ref "challenges-prizes.md" >}}), which has over 600 members.
 
 “On a maturity spectrum, challenges and prizes are a middle schooler, in adolescence,” said Gustetic. “We’re not completely in our early development phase anymore, and we are starting to grow up, become institutionalized, and be evaluated.”
 

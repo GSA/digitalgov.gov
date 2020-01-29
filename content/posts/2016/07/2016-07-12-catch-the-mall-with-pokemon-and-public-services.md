@@ -6,21 +6,20 @@ summary: '&#8220;&#8230; I have never seen so many people of all ages walking ar
 authors:
   - jherman
   - paul-ollig
-categories:
+topics:
   - emerging-tech
   - mobile
   - social-media
   - ux
-tag:
-  - Augmented Reality
+  - augmented-reality
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - NPS
-  - social media
-  - US National Park Service
-  - user experience
-  - Virtual-Augmented-Reality-Community
+  - social-media
+  - us-national-park-service
+  - user-experience
+  - virtual-augmented-reality-community
 ---
 
 &#8220;&#8230; I have never seen so many people of all ages walking around our civic spaces and small businesses interacting as I have this morning. Teens catching them. People catching them in line for coffee. Moms outsmarting their kids. Local youths teaching my toddler how to throw a ball. Full grown adults. Marines. Kids on scooters. Kids on bikes. 20-somethings walking in packs. How are other small towns faring? Awesome to be outside right now building a community over something so silly and fun. Suddenly, things aren&#8217;t a ghost town&#8230;and it&#8217;s only Monday morning…&#8221; {{< legacy-img src="2016/07/250-x-445-Pidgey-and-NPS-at-Washington-Monument.jpg" alt="Pidgey and NPS at the Washington Monument in Washington, D.C." caption="" >}}
@@ -29,7 +28,7 @@ Of course this Facebook commenter is referring to the phenom that is Pokémon Go
 
 Whether you are fans of the cartoonish little monsters or not, the fact is that this is just the early stages of mapping and augmented reality in gaming, and agencies need to get ahead of the curve and recognize the unique opportunities and guidelines for these emerging technologies—because this advance is inevitable ([like our programs in artificial intelligence]({{< tmp "events/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}))—and soon it will be ten apps and games instead of just one, then a hundred.
 
-For years, agencies like the [National Park Service](https://www.nps.gov/) have struggled with how to engage with and encourage younger, tech-savvy audiences to get outside and [#FindYourPark]({{< link "2015-06-30-celebrating-parks-creating-connections-nps-prepares-for-2016-centennial.md">}}). Suddenly, over the weekend, our parks are besieged by [Pokémon hunters, exploring all the nooks and crannies of our parks](https://www.facebook.com/nationalparkservice/videos/10153602428786389/) on their quest to &#8220;catch &#8217;em all.&#8221; While it’s not all fun and games &#8212; there are people wandering into areas that are closed to the public due to safety and resource protection issues &#8212; this provides a fascinating opportunity to explore visitor engagement at the speed of technology.
+For years, agencies like the [National Park Service](https://www.nps.gov/) have struggled with how to engage with and encourage younger, tech-savvy audiences to get outside and [#FindYourPark]({{< ref "2015-06-30-celebrating-parks-creating-connections-nps-prepares-for-2016-centennial.md">}}). Suddenly, over the weekend, our parks are besieged by [Pokémon hunters, exploring all the nooks and crannies of our parks](https://www.facebook.com/nationalparkservice/videos/10153602428786389/) on their quest to &#8220;catch &#8217;em all.&#8221; While it’s not all fun and games &#8212; there are people wandering into areas that are closed to the public due to safety and resource protection issues &#8212; this provides a fascinating opportunity to explore visitor engagement at the speed of technology.
 
 <blockquote class="twitter-tweet" data-width="500">
   <p lang="en" dir="ltr">

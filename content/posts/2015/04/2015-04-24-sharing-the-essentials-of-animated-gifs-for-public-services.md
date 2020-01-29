@@ -2,38 +2,37 @@
 slug: sharing-the-essentials-of-animated-gifs-for-public-services
 date: 2015-04-24 13:33:00 -0400
 title: Sharing the Essentials of Animated Gifs for Public Services
-summary: '[youtube=http://www.youtube.com/watch?v=ohmyOKPSGPg&w=600] Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer'
+summary: 'Animated gifs are increasingly found throughout the digital experience of today’s users.'
 authors:
   - jherman
-categories:
-  - Content
-  - Social Media
-tag:
-  - 18F
+topics:
+  - content
+  - social-media
+  - 18f
   - accessibility
-  - DGU
+  - digitalgov-university
   - GobiernoUSAgov
   - multimedia
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - ODNI
   - Office of the Director of National Intelligence
-  - Peace Corps
-  - Recaps
-  - social media
-  - SocialGov
-  - SocialGov Community
-  - usa.gov
+  - peace-corps
+  - recaps
+  - social-media
+  - socialgov
+  - socialgov-community
+  - usa-gov
   - webinar
 ---
 
-Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction. 
+Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
 
 {{< youtube ohmyOKPSGPg >}}
 
-To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community]({{< link "social-media.md" >}}) through [DigitalGov University]({{< link "/digitalgov-university/" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters. 
+To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community]({{< ref "social-media.md" >}}) through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
 
-Notably, this became the highest rated SocialGov webinar based on user feedback from a post-event survey. By popular demand, we will follow-up with another article highlighting the practical and efficient ways other agencies are using this training to develop and use animated gifs in their digital programs. 
+Notably, this became the highest rated SocialGov webinar based on user feedback from a post-event survey. By popular demand, we will follow-up with another article highlighting the practical and efficient ways other agencies are using this training to develop and use animated gifs in their digital programs.
 
 ## Define your objectives and bring services to where citizens are
 

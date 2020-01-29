@@ -1,11 +1,25 @@
 ---
-url: /communities/open-government/
-uid: open-government
+slug: open-gov
 date: 2017-08-24 3:30:00 -0400
-title: 'OpenGov Community of Practice'
+title: 'OpenGov'
 summary: 'The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.'
+topics:
+  - open-source
 aliases:
   - /communities/open-government-opengov-community-of-practice/
+  - /communities/open-government/
+weight: 1
+community_list:
+  - platform: "google-group"
+    type: public
+    subscribe_form: "https://groups.google.com/forum/#!forum/us-open-government"
+  - platform: "listserv"
+    type: government
+    subscribe_email: opengov-subscribe-request@listserv.gsa.gov
+    subscribe_email_subject: "Join: OpenGov"
+    members: 232
+    emails_per_week:
+
 ---
 
 The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.

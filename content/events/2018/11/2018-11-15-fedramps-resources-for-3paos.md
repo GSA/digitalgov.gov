@@ -14,9 +14,11 @@ event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/fedramps-resources-for-3paos-registration-51525265456
 youtube_id: RTVrSikRqus
+captions: https://www.captionedtext.com/client/event.aspx?EventID=3794709&CustomerID=321
 aliases:
   - /event/2018/11/12/fedramps-resources-for-3paos/
-
+topics:
+  - fedramp
 ---
 
 {{< img-right src="featued-301-x-212-fedramp-2017-5th-anniversary-logo" >}}

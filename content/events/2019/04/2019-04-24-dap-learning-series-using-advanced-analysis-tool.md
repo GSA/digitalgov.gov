@@ -14,7 +14,14 @@ host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-using-the-advanced-analysis-tool-registration-59013346508
 youtube_id: OoAisdLNhe0
 
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
+
 ---
+
 [*View live captioning for this event.*](https://www.captionedtext.com/client/event.aspx?EventID=3948197&CustomerID=321)
 
 In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), program manager for the [Digital Analytics Program](https://digital.gov/dap/) (DAP), will give a brief introduction of the Advanced Analysis tool, and discuss how it can be used to better understand how the public interacts with your website. Attendees will learn:

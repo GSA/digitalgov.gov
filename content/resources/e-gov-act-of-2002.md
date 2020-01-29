@@ -1,8 +1,10 @@
 ---
-url: /resources/e-gov-act-of-2002/
+slug: e-gov-act-of-2002
 date: 2015-09-29 10:04:09 -0400
 title: E-Gov Act of 2002
 summary: 'The E-Government Act of 2002 (Pub.L. 107&ndash;347, 116 Stat. 2899, 44 U.S.C. &sect; 101, H.R. 2458/S. 803), is a United States statute enacted on December 17, 2002, with an effective date for most provisions of April 17, 2003. Its stated purpose is to improve the management and promotion of electronic government services and processes by'
+topics:
+  - policy
 authors:
   - andreanocesigritz
 ---
@@ -13,7 +15,7 @@ authors:
 
 ## Related Links
 
-  * [Checklist of Requirements for Federal Websites and Digital Services]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})
+  * [Checklist of Requirements for Federal Websites and Digital Services]({{< ref "checklist-of-requirements-for-federal-digital-services.md" >}})
 
 * * *
 
@@ -21,4 +23,4 @@ authors:
 
  
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

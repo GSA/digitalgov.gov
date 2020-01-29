@@ -5,15 +5,14 @@ title: Visualizing BLS Data to Improve Understanding
 summary: 'If a picture is worth a thousand words, what’s the value of a striking, cool chart or map of some BLS data? At the U.S. Bureau of Labor Statistics (BLS), we’re always thinking of better ways to help our users understand the information we produce. The global economy is complex, and the statistics to explain'
 authors:
   - erica-groshen
-categories:
-  - Content
-  - Data
-tag:
+topics:
+  - content
+  - data
   - BLS
   - data
-  - data visualization
+  - data-visualization
   - infographic
-  - US Bureau of Labor Statistics
+  - us-bureau-of-labor-statistics
 ---
 
 If a picture is worth a thousand words, what’s the value of a striking, cool chart or map of some BLS data? At the U.S. Bureau of Labor Statistics (BLS), we’re always thinking of better ways to help our users understand the information we produce. The global economy is complex, and the statistics to explain the economy can be complex too.

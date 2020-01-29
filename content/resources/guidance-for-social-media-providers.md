@@ -1,8 +1,11 @@
 ---
-url: /resources/guidance-for-social-media-providers/
+slug: guidance-for-social-media-providers
 date: 2014-02-14 12:30:27 -0400
 title: Guidance for Social Media Providers
-summary: 'GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please email GSA and include the following information: Explanation of the'
+summary: "GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please email GSA and include the following information: Explanation of the"
+topics:
+  - social-media
+  - terms-of-service
 ---
 
 [{{< legacy-img src="/2014/01/termsofService.jpg" alt="Typed sheet of paper with Agreement and the top and a pen laying on it." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/termsofService.jpg)GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please email [GSA](mailto:socialmediaapps@gsa.gov) and include the following information:
@@ -32,4 +35,4 @@ GSA legal counsel will then review your offer. If approved, we will post: your p
 
 Federal social media TOS points of contact will work with their attorneys to review the products to see if they meet their business needs. They will also review the federal–compatible terms (either your general terms or a proposed amendment for federal agencies, as described above) to see if they meet agency programmatic and legal requirements and then they will sign the amended TOS for their agency to use.
 
-If your interaction with federal agencies results in changes to your initially submitted federal–friendly Terms of Service, you must [email the updated terms to GSA](mailto:socialmediaapps@gsa.gov). GSA will post your latest offered [terms of service on DigitalGov]({{< link "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements") for subsequent agencies to review and sign.
+If your interaction with federal agencies results in changes to your initially submitted federal–friendly Terms of Service, you must [email the updated terms to GSA](mailto:socialmediaapps@gsa.gov). GSA will post your latest offered [terms of service on DigitalGov]({{< ref "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements") for subsequent agencies to review and sign.

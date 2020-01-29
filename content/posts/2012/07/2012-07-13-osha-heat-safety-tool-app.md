@@ -3,13 +3,12 @@ slug: osha-heat-safety-tool-app
 date: 2012-07-13 14:39:01 -0400
 title: OSHA Heat Safety Tool App
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Department of Labor. The Heat Safety Tool provides the heat index for your work site and precautions to prevent heat illness. Why We Did It OSHA developed the'
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DOL
-  - mobile apps
-  - Mobile Gov Experience
-  - US Department of Labor
+  - mobile-apps
+  - mobile-gov-experience
+  - us-department-of-labor
 ---
 
 _[{{< legacy-img src="2013/12/OSHAHeatSafety_App.jpg" alt="OSHA Heat Safety App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/OSHAHeatSafety_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Department of Labor._
@@ -36,6 +35,6 @@ In iOS, the app became a very confusing experience. User interface conventions w
 
 ## <a name="x-What We Learned"></a>What We Learned {#toc3}
 
-Design for the individual platforms from the beginning. Headaches and delays later in the process from usability or accessibility issues can be headed-off right from the beginning. One way to do that is by following a good [Statement of Work model](https://digitalgov.sites.usa.gov/resources/mobile-sow-and-developer-qualifications/ "Mobile SOW and Developer Qualifications") when contracting for mobile products.
+Design for the individual platforms from the beginning. Headaches and delays later in the process from usability or accessibility issues can be headed-off right from the beginning. One way to do that is by following a good [Statement of Work model](https://digital.gov/resources/mobile-sow-and-developer-qualifications/ "Mobile SOW and Developer Qualifications") when contracting for mobile products.
 
 <span style="color: #000000;font-family: arial, helvetica, sans-serif;font-size: 12.727272033691406px;line-height: 17.27272605895996px;background-color: #ffffff"> </span>

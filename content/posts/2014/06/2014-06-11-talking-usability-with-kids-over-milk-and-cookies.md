@@ -6,13 +6,12 @@ summary: 'The Bureau of Labor Statistics (BLS) recently created a new Web page m
 authors:
   - jean-fox
   - robin-l-kaplan
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - BLS
-  - US Bureau of Labor Statistics
-  - US Department of Labor
+  - us-bureau-of-labor-statistics
+  - us-department-of-labor
 ---
 
 {{< legacy-img src="2014/06/250-x-170-kids-usability-testing.jpg" alt="Young kids at computers" >}}The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending “[Take Your Daughters and Sons to Work Day](http://www.daughtersandsonstowork.org/wmspage7d10.html?parm1=936)”?

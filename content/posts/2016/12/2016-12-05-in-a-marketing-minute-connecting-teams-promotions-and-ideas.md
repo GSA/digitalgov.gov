@@ -5,18 +5,18 @@ title: 'In a Marketing Minute: Connecting Teams, Promotions, and Ideas'
 summary: 'Every first week of every month, USAGov’s marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’s how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act'
 authors:
   - victoria-wales
-categories:
-  - Content
-  - Managing Digital
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
   - content
-  - content strategy
+  - product-management
+  - social-media
+  - strategy
+  - policy
+  - content
+  - content-strategy
   - GobiernoUSAgov
-  - kids.gov
-  - social media
-  - USAgov
+  - kids-gov
+  - social-media
+  - usagov
 ---
 
 Every first week of every month, USAGov’s marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’s how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act as a reminder of what’s coming up that month that contributors need to be aware of. It also gives a heads up to our Analytics Team about what promotions could be the causes of increased website visits, email, and social media traffic.
@@ -89,5 +89,5 @@ ICYMI — August promotions!
 
 To be in the know of what the M team is cranking out in collaboration with many of you, check out the [editorial calendar](https://docs.google.com/spreadsheets/u/1/d/1lSrSUibMhRnMq1d6PonG476DskNzoY7qTMrhK73dWas/edit?usp=drive_web)! Have an idea? Submit it for consideration via [this Google Form](https://docs.google.com/a/gsa.gov/forms/d/1Mmf2fEUDHillNtdDJjwOrniZEm1uyXnX_uLyU7X2zRQ/viewform). 
 
-[_Victoria Wales_]({{< link "author/victoria-wales" >}}) _is a Digital Innovation Specialist for USAGov at GSA._
+[_Victoria Wales_]({{< ref "/authors/victoria-wales" >}}) _is a Digital Innovation Specialist for USAGov at GSA._
 _This was originally published on the [USAGov blog](https://blog.usa.gov/)._

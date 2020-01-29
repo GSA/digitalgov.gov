@@ -5,18 +5,18 @@ title: Updated FOIA Regulation Template and Guidance Now Available
 summary: 'On September 7th, the Office of Information Policy (OIP) released an updated version of its Guidance for Agency Freedom of Information Act (FOIA) Regulations, along with an updated FOIA Regulation Template. These resources were first issued in March 2016. OIP has updated them to take into account changes made to the FOIA by the FOIA Improvement'
 authors:
   - office-of-information-policy
-categories:
-  - Governance
-  - strategy-and-policy
-tag:
+topics:
+  - governance
+  - strategy
+  - policy
   - DOJ
   - FOIA
-  - Freedom of Information Act
+  - freedom-of-information-act
   - Office of Government Information Services
-  - Office of Information Policy
+  - office-of-information-policy
   - OGIS
   - OIP
-  - US Department of Justice
+  - us-department-of-justice
 ---
 
 On September 7th, the Office of Information Policy (OIP) released an updated version of its Guidance for Agency [Freedom of Information Act](https://www.foia.gov/) (FOIA) Regulations, along with an updated FOIA Regulation Template. These resources were first issued in [March 2016](https://www.justice.gov/oip/blog/new-guidance-and-template-agency-foia-regulations-now-available). OIP has updated them to take into account changes made to the FOIA by the [FOIA Improvement Act of 2016](https://www.justice.gov/oip/freedom-information-act-5-usc-552) and by recent court decisions.

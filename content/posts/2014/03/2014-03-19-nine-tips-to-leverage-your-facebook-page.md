@@ -6,16 +6,15 @@ summary: 'Due to recent news feed changes, Facebook engagement is down nearly 50
 authors:
   - scott-horvath
   - jessica-orquina
-categories:
-  - Social Media
-tag:
-  - EPA
-  - Facebook
-  - social media
+topics:
+  - social-media
+  - epa
+  - facebook
+  - social-media
   - USGS
 ---
 
-[{{< legacy-img src="2014/03/Facebook-login-250-x-167.png" alt="facebook log-in screen grab" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/Facebook-login-250-x-167.png)Due to recent news feed changes, Facebook engagement is down nearly 50% since October for brand pages and is predicted to go lower, according to [Social@Ogilvy](https://social.ogilvy.com/facebook-zero-considering-life-after-the-demise-of-organic-reach/). As a result federal agencies are continually monitoring the performance of their pages and diversifying their strategies. We talked to members of the [Social Media Community of Practice]({{< link "social-media.md" >}}) for their best tips to help your agency leverage its Facebook presence.
+[{{< legacy-img src="2014/03/Facebook-login-250-x-167.png" alt="facebook log-in screen grab" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/Facebook-login-250-x-167.png)Due to recent news feed changes, Facebook engagement is down nearly 50% since October for brand pages and is predicted to go lower, according to [Social@Ogilvy](https://social.ogilvy.com/facebook-zero-considering-life-after-the-demise-of-organic-reach/). As a result federal agencies are continually monitoring the performance of their pages and diversifying their strategies. We talked to members of the [Social Media Community of Practice]({{< ref "social-media.md" >}}) for their best tips to help your agency leverage its Facebook presence.
 
 Scott Horvath is the Bureau Social Media Lead, Office of Communications and Publishing at the U.S. Geological Survey (USGS). Scott says, &#8220;The USGS has been running its [main Facebook account](https://www.facebook.com/USGeologicalSurvey) since Nov 2010. Since that time its grown from a few followers to now more than 80,000 people from around the world. As the premier earth science agency in the federal government, we have a wealth of knowledge covering a wide-range of scientific research such as climate change, water and its impacts on the environment, drought, biology and ecosystems, energy, environmental health, and many more. Our Facebook presence has been managed, from the start, by using our own employees (aka &#8211; Ambassadors) to post and engage on the topics within their area of expertise. Our Ambassadors range from actual scientists doing work in the field, to public affairs, and customer service staff and are always excited to share the science that they&#8217;re passionate about.&#8221;
 

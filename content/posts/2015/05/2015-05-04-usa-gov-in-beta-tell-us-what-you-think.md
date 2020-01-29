@@ -5,19 +5,18 @@ title: 'USA.gov in Beta: Tell Us What You Think'
 summary: ' Thirteen years in digital is an eon, and on the eve of its 13th birthday, we at USA.gov found ourselves reckoning with a mid-life crisis. In the thirteen years since Firstgov.gov was launched (and ten years for FirstGov en Espa&ntilde;ol), the sheer volume and sophistication'
 authors:
   - sarah-crane
-categories:
-  - Content
-  - Managing Digital
-tag:
-  - API
-  - DAP
-  - Digital Analytics Program
+topics:
+  - content
+  - product-management
+  - api
+  - dap
+  - digital-analytics-program
   - drupal
   - GobiernoUSAgov
-  - government contact centers
-  - Personas
-  - social media
-  - usa.gov
+  - government-contact-centers
+  - personas
+  - social-media
+  - usa-gov
 ---
 
 {{< legacy-img src="2015/04/600-x-182-USAgov-Beta-Banner_Marketing01.jpg" alt="USa.gov Beta banner for new website" >}}
@@ -30,13 +29,13 @@ Things have changed, and we realized it was time to take a good, hard look at ou
 
 Tough questions. Hard questions. But absolutely crucial.
 
-To get to the answer, we talked—and listened—to our customers. We poured through our [Digital Analytics Program]({{< link "/dap/" >}}) data, analyzed and segmented our customer satisfaction reports, conducted focus groups and created new [personas]({{< link "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}} "Using Personas to Better Understand Customers: USA.gov Case Study") and journey maps. The data was clear that for some 26 million visitors every year, USA.gov is _**the**_ government website—and the brand means trusted, official government information.
+To get to the answer, we talked—and listened—to our customers. We poured through our [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) data, analyzed and segmented our customer satisfaction reports, conducted focus groups and created new [personas]({{< ref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}} "Using Personas to Better Understand Customers: USA.gov Case Study") and journey maps. The data was clear that for some 26 million visitors every year, USA.gov is _**the**_ government website—and the brand means trusted, official government information.
 
-But we didn’t just talk to our users—we talked to another, even more critical, customer base: our agency partners. You told us that partnering with the USA.gov brand provided a wider audience for your message and a distinct and powerful brand recognition mechanism. A recent example of this was the [work we did with CFPB to amplify their message around reverse mortgages]({{< link "2015-04-27-cross-agency-collaboration-is-the-key-to-reaching-millions.md" >}} "Cross-Agency Collaboration Is the Key to Reaching Millions").
+But we didn’t just talk to our users—we talked to another, even more critical, customer base: our agency partners. You told us that partnering with the USA.gov brand provided a wider audience for your message and a distinct and powerful brand recognition mechanism. A recent example of this was the [work we did with CFPB to amplify their message around reverse mortgages]({{< ref "2015-04-27-cross-agency-collaboration-is-the-key-to-reaching-millions.md" >}} "Cross-Agency Collaboration Is the Key to Reaching Millions").
 
-And that’s when the lightbulb went off: the future of USA.gov is not as a self-contained, self-maintaining portal. The future of USA.gov is a bilingual publishing platform for government agencies—a powerful engine that can grab content directly from authoritative sources (agencies) and dynamically publish it on the USA.gov domain—thus giving the content a much wider audience and the benefits of the powerful USA.gov page rank. We can even push your content further to our trusted media partners like Facebook, Huffington Post, AOL Latino, Univision, NPR, the Washington Post and more—and in so doing, we “free” government content from our own websites and distribute it to multipliers who can reach a broader and more diverse audience. Our social media channels, our email program and our [contact center]({{< link "tag/government-contact-centers" >}}) also play a key role in connecting millions of people with government information and services in English and Spanish.
+And that’s when the lightbulb went off: the future of USA.gov is not as a self-contained, self-maintaining portal. The future of USA.gov is a bilingual publishing platform for government agencies—a powerful engine that can grab content directly from authoritative sources (agencies) and dynamically publish it on the USA.gov domain—thus giving the content a much wider audience and the benefits of the powerful USA.gov page rank. We can even push your content further to our trusted media partners like Facebook, Huffington Post, AOL Latino, Univision, NPR, the Washington Post and more—and in so doing, we “free” government content from our own websites and distribute it to multipliers who can reach a broader and more diverse audience. Our social media channels, our email program and our [contact center]({{< ref "/topics/government-contact-centers" >}}) also play a key role in connecting millions of people with government information and services in English and Spanish.
 
-The mechanics are pretty simple: the USA.gov platform is built around a central content API—this API populates our flagship websites, [USAGov](https://www.usa.gov/), [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_), and [Kids.gov](https://www.kids.gov/), as well as the console used by our live-assistance agents to answer phone calls, emails, and live chats. The API can pull directly from your agency APIs and syndicate out to other platforms. If you’re curious about the nitty-gritty mechanics of our adaptive content system, you can find out more by watching [this video series]({{< link "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}).
+The mechanics are pretty simple: the USA.gov platform is built around a central content API—this API populates our flagship websites, [USAGov](https://www.usa.gov/), [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_), and [Kids.gov](https://www.kids.gov/), as well as the console used by our live-assistance agents to answer phone calls, emails, and live chats. The API can pull directly from your agency APIs and syndicate out to other platforms. If you’re curious about the nitty-gritty mechanics of our adaptive content system, you can find out more by watching [this video series]({{< ref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}).
 
 So, without further ado, here are the new [beta.USA.gov](http://beta.usa.gov/) and [beta.Gobierno.USA.gov](http://beta.gobierno.usa.gov/). Built in Drupal and built with a central content API to ingest and syndicate government information, this site is so much more than a site. It’s an invitation to agencies to use our brand, leverage our partnerships and release their valuable information out into the wild.
 

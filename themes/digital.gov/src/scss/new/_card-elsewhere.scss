@@ -1,0 +1,47 @@
+.card-elsewhere{
+	& > div{
+		@include u-display('flex');
+		@include u-flex('justify-start');
+		@include u-flex('align-start');
+	}
+	.icon{
+		@include u-margin-right('105');
+		@include u-square(7);
+		@include at-media('mobile-lg'){
+			@include u-square(7);
+		}
+		img{
+			@include u-circle(7);
+			@include at-media('mobile-lg'){
+				@include u-circle(7);
+			}
+			@include u-border('1px', 'gray-cool-10', 'solid');
+		}
+	}
+	.summary{
+		@include u-margin-top(0);
+		flex: 1;
+		p{
+			@include u-measure(5);
+			@include u-line-height('sans', 3);
+			@include u-font('sans', 'md');
+			@include u-text('normal');
+		}
+		.source{
+			@include u-margin-top('05');
+			@include u-display('block');
+		}
+		a{
+			@include u-color('blue-50v');
+		}
+	}
+	.domain{
+		@include u-margin-top('05');
+		@include u-font('sans', '2xs');
+		@include u-color('gray-60');
+		@include u-text('italic');
+		a{
+			@include u-color('gray-60');
+		}
+	}
+}

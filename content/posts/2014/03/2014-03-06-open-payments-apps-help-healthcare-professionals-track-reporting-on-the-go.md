@@ -3,15 +3,14 @@ slug: open-payments-apps-help-healthcare-professionals-track-reporting-on-the-go
 date: 2014-03-06 10:30:22 -0400
 title: Open Payments Apps Help Healthcare Professionals Track Reporting On The Go
 summary: The Affordable Care Act (ACA) is bringing lots of change to the traditional healthcare landscape as practitioners and healthcare companies gear up for an influx of patient demand. There are also changes to the way healthcare companies and doctors will track and report reimbursements. And not only is the healthcare changing but also are the
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - CMS
   - HHS
-  - mobile apps
-  - mobile gov
-  - Thursday Mobile Products
-  - United States Department of Health and Human Services
+  - mobile-apps
+  - mobile-gov
+  - thursday-mobile-products
+  - united-states-department-of-health-and-human-services
 ---
 
 The [**Affordable Care Act**](http://www.hhs.gov/healthcare/rights/) (ACA) is bringing lots of change to the traditional healthcare landscape as practitioners and healthcare companies gear up for an influx of patient demand. There are also changes to the way healthcare companies and doctors will track and report reimbursements.

@@ -24,6 +24,11 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
   - /event/customer-relationship-management-government-sector-best-practices-pitfalls-tips/
+topics:
+  - cx
+  - cx
+  - customer-experience-community-of-practice
+
 ---
 
 ## About the Event

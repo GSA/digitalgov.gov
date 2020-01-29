@@ -5,16 +5,16 @@ title: 'That Six-Letter Word: Change'
 summary: 'One of the biggest challenges in implementing a new technology or process is change. Change creates a multitude of feelings; for some it is apprehension and uncertainty, while for others it is excitement and acceptance. Change management is defined as &#8220;a systematic approach to dealing with change, both from the perspective of an organization and'
 authors:
   - christen-geiler
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - strategy
+  - policy
   - FCC
-  - Federal Communications Commission
-  - GSA
+  - federal-communications-commission
+  - gsa
   - innovation
-  - project management
-  - US General Services Administration
+  - project-management
+  - us-general-services-administration
 ---
 
 One of the biggest challenges in implementing a new technology or process is change. Change creates a multitude of feelings; for some it is apprehension and uncertainty, while for others it is excitement and acceptance.

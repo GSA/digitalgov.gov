@@ -5,20 +5,19 @@ title: Search Is the New Big Data Recap
 summary: 'Search is easy, right? You type a term in a search box and the exact page you&#8217;re looking for appears at the top of the list of results. But search is hard and has many shades of grey. On April 10, 2014, Loren Siebert, our DigitalGov Search senior search architect, presented on: Complexities of recall'
 authors:
   - ammie-farraj-feijoo
-categories:
-  - Code
-  - Content
-tag:
-  - DigitalGov Search
-  - open source
-  - Recaps
+topics:
+  - code
+  - content
+  - digitalgov-search
+  - open-source
+  - recaps
 ---
 
 {{< legacy-img src="2014/04/250-x-240-big-data-word-cloud-search-macgyverhh-iStock-Thinkstock-482418537.jpg" alt="Word cloud of Search terms, in the shape of a star" caption="" >}} 
 
 Search is easy, right? You type a term in a search box and the exact page you&#8217;re looking for appears at the top of the list of results. But search is hard and has many shades of grey.
 
-On April 10, 2014, Loren Siebert, our [DigitalGov Search]({{< link "search.md" >}}) senior search architect, presented on:
+On April 10, 2014, Loren Siebert, our [DigitalGov Search]({{< ref "service_search.md" >}}) senior search architect, presented on:
 
   * Complexities of recall and precision,
   * Popular open source search technologies, and

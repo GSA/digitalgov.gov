@@ -5,11 +5,11 @@ title: Creative Challenge Contests
 summary: 'Multimedia, Photo, Poster, Design Challenge and prize competitions are one path that federal agencies take to drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. Creative competitions include multimedia, photo, poster, and design competitions. Here you’ll find tips on running a creative challenge, resources, examples, and information about online platforms you can use to'
 authors:
   - ktrebon
-categories:
+topics:
   - challenges
-  - managing-digital
-  - strategy-and-policy
-tag:
+  - product-management
+  - strategy
+  - policy
   - analytics
   - apps-challenges
   - challenge-gov

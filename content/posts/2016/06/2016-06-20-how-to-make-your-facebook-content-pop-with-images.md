@@ -5,18 +5,18 @@ title: How to Make Your Facebook Content ‘Pop’ with Images
 summary: 'Facebook is a highly visual medium. Studies show that Facebook posts featuring photos are the most noticed, liked, and shared. Posts featuring an image stand out in the news feeds of people who like your page. While a great image can cut through the clutter, you don’t need to fill your feed. Think &ldquo;representative&rdquo; and high-quality'
 authors:
   - aids-gov
-categories:
-  - Content
-  - Monthly Theme
-  - Social Media
-  - strategy-and-policy
-tag:
-  - AIDS-gov
+topics:
   - content
-  - content strategy
+  - monthly-theme
+  - social-media
+  - strategy
+  - policy
+  - aids-gov
+  - content
+  - content-strategy
   - HHS
-  - social media
-  - United States Department of Health and Human Services
+  - social-media
+  - united-states-department-of-health-and-human-services
 ---
 
 Facebook is a highly visual medium. [Studies](http://www.socialmediaexaminer.com/photos-generate-engagement-research) show that [Facebook posts featuring photos](https://www.facebook.com/AIDS.gov/) are the most noticed, liked, and shared.

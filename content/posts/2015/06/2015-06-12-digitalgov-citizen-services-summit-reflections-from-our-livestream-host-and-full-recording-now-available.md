@@ -5,22 +5,21 @@ title: 'DigitalGov Citizen Services Summit: Reflections from Our Livestream Host
 summary: 'The second annual DigitalGov Citizen Services Summit was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve'
 authors:
   - bernetta-reese
-categories:
-  - Our Work
-tag:
+topics:
+  - our-work
   - agile
   - analytics
-  - Connect.gov
-  - Customer Experience
-  - DigitalGov Summit
+  - connect-gov
+  - cx
+  - digitalgov-summit
   - FCC
-  - Federal Communications Commission
-  - GSA
+  - federal-communications-commission
+  - gsa
   - OSTP
   - privacy
-  - US Department of State
-  - United States Department of Health and Human Services
-  - White House Office of Science and Technology Policy
+  - us-department-of-state
+  - united-states-department-of-health-and-human-services
+  - white-house-office-of-science-and-technology-policy
 ---
 
 The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.
@@ -81,7 +80,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
   </tr>
 </table>
 
-“Open” was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< link "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
+“Open” was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
 
 [youtube https://www.youtube.com/watch?v=nvB1udoMKfM&w=600]
 

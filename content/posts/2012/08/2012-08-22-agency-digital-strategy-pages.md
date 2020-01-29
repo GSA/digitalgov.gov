@@ -5,53 +5,52 @@ title: Agency Digital Strategy Pages
 summary: 'In his May 23rd, 2012 Presidential Memorandum, President Obama directed Executive Departments and Agencies to: Implement the requirements of the Digital Government Strategy, and Create a page at www.[agency].gov/digitalstrategy to publicly report progress of this implementation. Consistent with Milestone Actions #2.1 (open data) and #7.1 (mobile optimization), agencies will post candidate data sets and services to'
 authors:
   - apiazza
-categories:
-  - Managing Digital
-tag:
-  - Department of Commerce
-  - DHS
+topics:
+  - product-management
+  - department-of-commerce
+  - dhs
   - DoD
   - DOE
   - DOI
   - DOJ
   - DOL
   - DOT
-  - EPA
+  - epa
   - FCC
-  - Federal Communications Commission
-  - GSA
+  - federal-communications-commission
+  - gsa
   - HHS
   - HUD
   - NARA
-  - NASA
-  - National Archives and Records Administration
-  - national science foundation
+  - nasa
+  - national-archives-and-records-administration
+  - national-science-foundation
   - NRC
-  - NSF
+  - nsf
   - Nuclear Regulatory Commission
   - OPM
   - SBA
   - SSA
-  - The United States Social Security Administration
-  - US Agency for International Development
+  - the-united-states-social-security-administration
+  - us-agency-for-international-development
   - US Department of Agriculture
-  - US Department of Education
-  - US Department of Justice
-  - US Department of Labor
-  - US Department of State
-  - US Department of the Interior
-  - US Department of the Treasury
-  - US Department of Veterans Affairs
-  - US Environmental Protection Agency
-  - US Small Business Administration
-  - United States Department of Defense
-  - United States Department of Energy
-  - United States Department of Health and Human Services
-  - United States Department of Homeland Security
-  - United States Department of Housing and Urban Development
-  - United States Department of Transportation
-  - United States Office of Personnel Management
-  - USAID
+  - us-department-of-education
+  - us-department-of-justice
+  - us-department-of-labor
+  - us-department-of-state
+  - us-department-of-the-interior
+  - us-department-of-the-treasury
+  - us-department-of-veterans-affairs
+  - us-environmental-protection-agency
+  - us-small-business-administration
+  - united-states-department-of-defense
+  - united-states-department-of-energy
+  - united-states-department-of-health-and-human-services
+  - united-states-department-of-homeland-security
+  - united-states-department-of-housing-and-urban-development
+  - united-states-department-of-transportation
+  - united-states-office-of-personnel-management
+  - usaid
   - USDA
   - VA
 ---

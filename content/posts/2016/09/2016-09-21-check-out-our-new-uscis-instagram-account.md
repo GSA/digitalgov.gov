@@ -5,17 +5,17 @@ title: Check Out Our New USCIS Instagram Account!
 summary: We are fortunate to meet amazing immigrants every day and share in their immigration journeys. Now we have a unique opportunity to share their stories with the world using Instagram. Today, we launched our Instagram account under the handle @USCIS and @USCIS_ES (Spanish version) and will share photos, graphics and videos to highlight our vital
 authors:
   - uscis-staff
-categories:
-  - Content
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
   - content
-  - content strategy
-  - DHS
-  - social media
+  - social-media
+  - strategy
+  - policy
+  - content
+  - content-strategy
+  - dhs
+  - social-media
   - US Citizenship and Immigration Service
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - USCIS
 ---
 

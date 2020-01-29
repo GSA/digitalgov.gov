@@ -6,19 +6,18 @@ summary: 'A website redesign is never an easy task, but when responsiveness is o
 authors:
   - ellen-arnold-losey
   - debra-harris
-categories:
-  - Mobile
-  - Monthly Theme
-tag:
+topics:
+  - mobile
+  - monthly-theme
   - analytics
   - Defense Finance and Accounting Services
   - DFAS
   - DOE
   - mobile
-  - Mobile UX Guideline 1
-  - Recaps
-  - responsive web design
-  - United States Department of Energy
+  - mobile-ux-guideline-1
+  - recaps
+  - responsive-web-design
+  - united-states-department-of-energy
 ---
 
 {{< legacy-img src="2014/10/250-x-444-responsive-design-Energy-Gov-website-Oct20th2014-Android.jpg" alt="The Energy.gov responsive website as seen on an Android phone." >}}A website redesign is never an easy task, but when responsiveness is one of your redesign&#8217;s key goals, special considerations come into play that can present unique challenges. In the September webinar on Responsive Web Design Challenges in Government, we heard from two agencies who identified coordination, leadership buy-in and content decisions when mobilizing their websites.
@@ -74,4 +73,4 @@ Missed the webinar? You can watch it below.
 [youtube=http://www.youtube.com/watch?v=2RjPMpu_03s&w=600]
 
  _**Ellen Arnold Losey** is the Senior Graphic Designer and Webmaster at the Institute of Museum and Library Services and **Debra Harris** is a Public Affairs Specialist at the Defense Finance and Accounting Service._
-_If you&#8217;re interested in helping solve government challenges around Responsive Web Design, join the [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile") and participate in [October&#8217;s MobileGov Around the Horn Call]({{< tmp "events/october-mobile-gov-around-the-horn-call.md" >}} "October Mobile Gov Around the Horn Call") where we will discuss responsive Web design performance._
+_If you&#8217;re interested in helping solve government challenges around Responsive Web Design, join the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") and participate in [October&#8217;s MobileGov Around the Horn Call]({{< tmp "events/october-mobile-gov-around-the-horn-call.md" >}} "October Mobile Gov Around the Horn Call") where we will discuss responsive Web design performance._

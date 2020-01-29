@@ -5,28 +5,28 @@ title: U.S. Web Design Standards Releases Version 1.0
 summary: The U.S. Web Design Standards are a library of design guidelines and code to help government developers quickly create trustworthy, accessible, and consistent digital government services. Last month, we announced the 1.0 release of the Standards, a milestone that signals the Standards are a stable, trustworthy resource for government designers and developers. By using the
 authors:
   - 18f-team
-categories:
-  - Accessibility
-  - Design
-  - Managing Digital
-  - Mobile
-  - strategy-and-policy
-  - UX
-tag:
-  - 18F
+topics:
   - accessibility
-  - Draft Web Design Standards
-  - responsive web design
-  - US Web Design Standards
+  - design
+  - product-management
+  - mobile
+  - strategy
+  - policy
+  - ux
+  - 18f
+  - accessibility
+  - draft-web-design-standards
+  - responsive-web-design
+  - uswds
   - usability
-  - user centered design
-  - user experience
-  - UX
+  - user-centered-design
+  - user-experience
+  - ux
 ---
 
 The [U.S. Web Design Standards](https://standards.usa.gov/) are a library of design guidelines and code to help government developers quickly create trustworthy, accessible, and consistent digital government services. Last month, we announced the 1.0 release of the Standards, a milestone that signals the Standards are a stable, trustworthy resource for government designers and developers.
 
-By using the well-tested and easy-to-implement code from the Standards, developers can quickly create new websites or have a leg-up in updating existing services to have a modern, consistent feel. It includes code and guidelines for forms, typography, buttons, alerts, and more. The Standards are open source and free to use, but our team is also available to work closely with federal agencies to develop custom features or train teams on implementing the Standards.<figure>{{< legacy-img src="https://18f.gsa.gov/assets/blog/web-design-standards/before-after-epa.jpg" alt="" >}}<figcaption>The Environmental Protection Agency used the Standards to redesign epa.gov.</figcaption></figure> 
+By using the well-tested and easy-to-implement code from the Standards, developers can quickly create new websites or have a leg-up in updating existing services to have a modern, consistent feel. It includes code and guidelines for forms, typography, buttons, alerts, and more. The Standards are open source and free to use, but our team is also available to work closely with federal agencies to develop custom features or train teams on implementing the Standards.<figure>{{< legacy-img src="https://18f.gsa.gov/assets/blog/web-design-standards/before-after-epa.jpg" alt="" >}}<figcaption>The Environmental Protection Agency used the Standards to redesign epa.gov.</figcaption></figure>
 
 With this launch, federal agencies should feel confident to use the Standards — and just to clarify they are not an official requirement for agencies — you can use as much or as little as you chose. The Standards are already used on more than 100 sites and services that collectively reach almost 20 million users per month. This release is the culmination of more than a year and a half of design and development through more than 20 versions.
 

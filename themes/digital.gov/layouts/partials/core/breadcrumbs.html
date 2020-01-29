@@ -1,0 +1,30 @@
+<nav class="breadcrumbs">
+  <div class="grid-container grid-container-widescreen">
+    <div class="grid-row">
+      <div class="grid-col-auto">
+        <p>
+          <a href="/">Home</a>
+          {{- template "breadcrumb" dict "current" . "id" .UniqueID -}}
+        </p>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<!-- Breadcrumb template -->
+{{- define "breadcrumb" -}}
+  {{- if .current.Parent -}}
+    <!-- If the Parent is not HOME -->
+    {{- if ne .current.Parent .IsHome -}}
+      <!-- Call this template again -->
+      {{- template "breadcrumb" dict "current" .current.Parent -}}
+    {{- end }}
+
+    {{- if eq .id .current.UniqueID }}
+    <span class="arrow-right"></span> {{ .current.Title -}}
+    {{ else }}
+    <span class="arrow-right"></span> <a href="{{- .current.URL -}}">{{- .current.Title -}}</a>
+    {{- end -}}
+
+  {{- end -}}
+{{- end -}}

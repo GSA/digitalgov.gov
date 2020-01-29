@@ -5,16 +5,16 @@ title: The People’s Code – Now on Code.gov
 summary: 'Summary: Today we’re launching Code.gov so that our Nation can continue to unlock the tremendous potential of the Federal Government’s software. Over the past few years, we’ve taken unprecedented action to help Americans engage with their Government in new and meaningful ways. Using Vote.gov, citizens can now quickly navigate their state’s voter registration process through'
 authors:
   - tony-scott
-categories:
-  - Code
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - code
+  - product-management
+  - strategy
+  - policy
   - code
   - Office of Management and Budget
   - OMB
   - open
-  - open source
+  - open-source
 ---
 
 > _Summary: Today we’re launching Code.gov so that our Nation can continue to unlock the tremendous potential of the Federal Government’s software._

@@ -5,10 +5,9 @@ title: 'StudentAid.gov: Improving the College Financing Experience'
 summary: 'Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA).  Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid.  The launch of StudentAid.gov in July 2012,'
 authors:
   - brenda-wensil
-categories:
-  - Managing Digital
-  - UX
-tag:
+topics:
+  - product-management
+  - ux
   - FAFSA
   - multilingual
 ---

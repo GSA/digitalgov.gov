@@ -5,18 +5,17 @@ title: 'Who&#8217;s Using Your Agency&#8217;s Data?'
 summary: ' For months, I’ve been trying to figure out how to get leads for the OMB External Use Open Data Survey responses. I’ve attended Google Analytics seminars, asked for survey responses from some of our public facing sites, added a data request form to our /data page, and begged for leads'
 authors:
   - myehsha-boone
-categories:
-  - Data
-tag:
+topics:
+  - data
   - FOIA
-  - open data
+  - open-data
 ---
 
 {{< legacy-img src="2014/12/600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226.jpg" alt="600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226" >}}
 
 For months, I’ve been trying to figure out how to get leads for the OMB External Use Open Data Survey responses. I’ve attended Google Analytics seminars, asked for survey responses from some of our public facing sites, added a data request form to our /data page, and begged for leads from program owners. The result was very few leads and no indication of whether or not they were people who actually were looking for our data, used our data or just had a website resource access issue. Then one day, it just dawned on me—Freedom of Information Act (FOIA) requests!
 
-Ok, what really happened was that I got frustrated and began to think about the advantages and benefits to the Open Data Policy and why we should proactively publish data in first place. Since one of the major benefits is to reduce the number of FOIA requests, then why not start there? The people who request data regularly usually know exactly what they are looking for and probably have some ideas on how we can improve our delivery and processes. Also, since the FOIA office pre-dates “Open Data”, they are the best resource for determining who’s using the data and the [“top” users]({{< link "2014-08-21-how-to-find-your-open-data-hotshots.md" >}} "How to Find Your Open Data Hotshots") of our data.
+Ok, what really happened was that I got frustrated and began to think about the advantages and benefits to the Open Data Policy and why we should proactively publish data in first place. Since one of the major benefits is to reduce the number of FOIA requests, then why not start there? The people who request data regularly usually know exactly what they are looking for and probably have some ideas on how we can improve our delivery and processes. Also, since the FOIA office pre-dates “Open Data”, they are the best resource for determining who’s using the data and the [“top” users]({{< ref "2014-08-21-how-to-find-your-open-data-hotshots.md" >}} "How to Find Your Open Data Hotshots") of our data.
 
 In preparation, I created an electronic method to collect the survey data provided by OMB. I contacted our FOIA office and asked for leads from regular requestors or repetitive requestors. After gaining internal approvals from legal to send the survey to the public, I sent an invitation via email to the list of FOIA requestors. Tada! _(Sing like R-E-S-P-E-C-T) R-E-S-P-O-N-S-E!_
 

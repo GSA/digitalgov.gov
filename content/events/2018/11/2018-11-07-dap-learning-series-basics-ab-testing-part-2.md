@@ -7,22 +7,27 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
+topics:
+  - a-b-testing
+  - analytics
+  - cfpb
+  - dap
 date: 2018-11-07 14:00:00 -0500
 end_date: 2018-11-07 15:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-ab-testing-basics-part-2-registration-51480507584
 youtube_id: ZO6uYBoseCQ
-categories:
+captions: https://www.captionedtext.com/client/event.aspx?EventID=3794626&CustomerID=321
+
+topics:
   - metrics
-tag:
   - a-b-testing
   - analytics
   - cfpb
   - consumer-financial-protection-bureau
   - dap
   - digital-analytics-program
-
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._

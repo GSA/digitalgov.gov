@@ -5,16 +5,15 @@ title: 'Trends on Tuesday: Mobile Marketing on the Rise'
 summary: 'Marketers are increasingly using SMS, push notifications, mobile apps, location-based functionality and other mobile-first techniques to reach constituents. That’s according to a recent article from Marketingland.com, which provided an overview of the mobile trends presented in Salesforce’s 2015 State of Marketing Report. The report was based on a survey of 5,000 marketers in 10 countries. Some'
 authors:
   - awichman
-categories:
-  - Mobile
-tag:
-  - customer service
+topics:
+  - mobile
+  - customer-service
   - GPS
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/01/600-x-235-Mobile-target-ahmetemre-iStock-Thinkstock-504029513.jpg" alt="Mobile target" caption="" >}} 
@@ -33,4 +32,4 @@ A majority of respondents (86%) also said that it is important to &#8220;create 
 
 Marketers of all stripes are looking towards the mobile future. Although traditional marketing can be viewed as communicating a product’s value in order to sell it, marketing can also be seen as raising awareness through relationship-building.
 
-This sphere of marketing is critical to government. As the public increasingly depends on mobile devices and apps, federal agencies must become &#8220;marketers&#8221; that deliver information and services in mobile-friendly formats. Any agency can make [mobile-first content]({{< link "2013-09-30-mobile-first.md" >}}), and mobile is one of the [15 government customer service trends we see happening in 2015]({{< link "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}). Through mobile, agencies will position themselves to meet 21st century needs.
+This sphere of marketing is critical to government. As the public increasingly depends on mobile devices and apps, federal agencies must become &#8220;marketers&#8221; that deliver information and services in mobile-friendly formats. Any agency can make [mobile-first content]({{< ref "2013-09-30-mobile-first.md" >}}), and mobile is one of the [15 government customer service trends we see happening in 2015]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}). Through mobile, agencies will position themselves to meet 21st century needs.

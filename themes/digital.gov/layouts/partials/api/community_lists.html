@@ -1,0 +1,47 @@
+{{- if (isset .Params "community_list") -}}
+  "community_list" : {
+
+    {{- $community_lists := .Params.community_list -}}
+    {{- $length := $community_lists | len -}}
+    {{- $.Scratch.Set "count" 1 -}}
+    {{/* For each of the $community_lists,... */}}
+    {{- range $index, $list := $community_lists -}}
+      {{/* If there is a community_list or multiple */}}
+      {{- with $list -}}
+        {{/* get the count */}}
+        {{- $count := $.Scratch.Get "count" -}}
+        "list_{{ $count }}" : {
+
+        {{/* get the number of elements in this community_list */}}
+        {{- $sub_length := $list | len -}}
+
+        {{/* Set the count for this community_list to 1 */}}
+        {{- $.Scratch.Set "sub_count" 1 -}}
+
+        {{/* Loop through the elements in this community_list */}}
+        {{- range $i, $e := $list -}}
+
+          {{/* get the current sub_count for this community_list */}}
+          {{ $sub_count := $.Scratch.Get "sub_count" -}}
+
+          {{/* If this list has a $i (key) */}}
+          {{- with $i -}}
+
+            {{/* if the sub_count is equal to the sub_length, then don't add a comma to the end */}}
+            {{- if eq $sub_count $sub_length -}}
+              "{{- $i -}}" : "{{- $e -}}"
+            {{- else -}}
+              "{{- $i -}}" : "{{- $e -}}",
+            {{- end -}}
+
+          {{- end -}}
+
+          {{/* Add 1 to the sub_count count, for the next iteration */}}
+          {{- $.Scratch.Add "sub_count" 1 -}}
+
+        {{- end -}}
+        }{{- if eq $count $length -}}{{- else -}},{{- end -}}{{- $.Scratch.Add "count" 1 -}}
+      {{- end -}}
+    {{- end -}}
+  },
+{{- end -}}

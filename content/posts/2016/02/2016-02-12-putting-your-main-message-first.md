@@ -5,12 +5,11 @@ title: Putting Your Main Message First
 summary: 'Want to learn how to clearly communicate your message? Watch the new &ldquo;Put Your Main Message First&rdquo; video from U.S. Citizenship and Immigration Services (USCIS). Created by USCIS’ Office of Communications, the video teaches you about the importance of organizing your information so that your audience understands your key messages. &ldquo;It’s common in government writing'
 authors:
   - alice-chen
-categories:
-  - Content
-  - Monthly Theme
-tag:
-  - Plain language
-  - Plain Language Community of Practice
+topics:
+  - content
+  - monthly-theme
+  - plain-language
+  - plain-language-community-of-practice
   - US Citizenship and Immigration Service
   - USCIS
 ---

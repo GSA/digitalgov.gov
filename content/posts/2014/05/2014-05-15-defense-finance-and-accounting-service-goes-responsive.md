@@ -3,26 +3,25 @@ slug: defense-finance-and-accounting-service-goes-responsive
 date: 2014-05-15 13:15:53 -0400
 title: Defense Finance and Accounting Service Goes Responsive
 summary: 'Let&#8217;s face it: Some of us work to live. Some live to work. And all of us look forward to pay day. If you work for the Department of Defense, the Executive Office of the President, the Environmental Protection Agency, the Department of Energy, the Department of Veterans Affairs, the Department of Health'
-categories:
-  - Design
-  - Mobile
-tag:
-  - Broadcasting Board of Governors
+topics:
+  - design
+  - mobile
+  - broadcasting-board-of-governors
   - Defense Finance and Accounting Services
   - DFAS
   - DoD
   - DOE
-  - EPA
-  - Executive Office of the President
+  - epa
+  - executive-office-of-the-president
   - HHS
-  - Mobile UX Guideline 5
-  - responsive web design
-  - Thursday Mobile Products
-  - US Department of Veterans Affairs
-  - US Environmental Protection Agency
-  - United States Department of Defense
-  - United States Department of Energy
-  - United States Department of Health and Human Services
+  - mobile-ux-guideline-5
+  - responsive-web-design
+  - thursday-mobile-products
+  - us-department-of-veterans-affairs
+  - us-environmental-protection-agency
+  - united-states-department-of-defense
+  - united-states-department-of-energy
+  - united-states-department-of-health-and-human-services
   - VA
 ---
 
@@ -34,7 +33,7 @@ That&#8217;s A LOT of paychecks.
 
 In 2012, the digital team at DFAS saw a trend. As much as 15% of the traffic to their website was coming from people using smartphones and other devices to do things like [check their pay](http://www.dfas.mil/mypayinfo.html) (current and retiree), [correct their military records](http://www.dfas.mil/correctmilitaryrecords.html) and [get advice on debt and bankruptcy](http://www.dfas.mil/debtandclaims.html). The team, led by website program manager Debra Fioritto, decided to embark on a major redesign to optimize their site for a variety of screen sizes and types.
 
-Fast forward to May 2014 and a **newly launched, mobile-friendly** **[www.dfas.mil](http://www.dfas.mil)**. Boasting a [responsive design]({{< link "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), the site helps four main categories of users:
+Fast forward to May 2014 and a **newly launched, mobile-friendly** **[www.dfas.mil](http://www.dfas.mil)**. Boasting a [responsive design]({{< ref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), the site helps four main categories of users:
 
   * [Manage their MyPay accounts](http://www.dfas.mil/mypayinfo.html) right from the homepage;
   * [Make online debt payments](http://www.dfas.mil/debtandclaims.html);

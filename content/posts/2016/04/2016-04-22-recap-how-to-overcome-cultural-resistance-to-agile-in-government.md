@@ -5,17 +5,16 @@ title: 'Recap: How to Overcome Cultural Resistance to Agile in Government'
 summary: 'Armed with the knowledge that &lsquo;most studies suggest that losses are twice as powerful, psychologically, as gains,’ federal change agents can better prepare for possible cultural resistance as they begin to implement agile practices at their agencies. There are a variety of resistant-to-change personas (change is painful for most of us, but we dislike it'
 authors:
   - andreanocesigritz
-categories:
-  - Managing Digital
-  - Monthly Theme
-tag:
+topics:
+  - product-management
+  - monthly-theme
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - Census
-  - DGU
-  - DigitalGov University
-  - Recaps
-  - United States Census Bureau
+  - digitalgov-university
+  - digitalgov-university
+  - recaps
+  - united-states-census-bureau
   - United States Patent and Trademark Office
   - USPTO
 ---

@@ -5,9 +5,8 @@ title: New Tools to Help You Innovate Within the FAR
 summary: Outdated development practices and narrow interpretations of acquisition regulations have prevented the federal government from taking advantage of technologies that can help agencies deliver better digital services to the public. OMB is developing new tools to help you take advantage of existing procurement authorities in the FAR, or the Federal Acquisition Regulation, the nearly 2,000
 authors:
   - andreanocesigritz
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - regulation
 ---
 

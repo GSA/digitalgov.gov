@@ -5,13 +5,12 @@ title: 10 Tips for Better Hallway Usability Testing
 summary: ' Hallway testing is a usability test set-up in a high foot traffic area, utilizing bystanders to test your product. Your participants will be people who happen to be walking down the hall and are able to afford 5-10 minutes of their day.'
 authors:
   - usajobs-team
-categories:
+topics:
   - user-testing-and-research
-tag:
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - OPM
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 [{{< legacy-img src="2014/02/usajobs-hallway-test-at-gsa-250x186.jpg" alt="People sitting at a table conducting a usability test" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/usajobs-hallway-test-at-gsa.jpg)

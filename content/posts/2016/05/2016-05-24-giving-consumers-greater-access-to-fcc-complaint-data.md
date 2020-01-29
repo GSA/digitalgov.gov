@@ -6,11 +6,10 @@ summary: 'Greater transparency is one of the goals of our Consumer Help Center, 
 authors:
   - alison-kutler
   - david-a-bray
-categories:
-  - Data
-tag:
+topics:
+  - data
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
 ---
 
 Greater transparency is one of the goals of our [Consumer Help Center](https://consumercomplaints.fcc.gov/hc/en-us/), which for over a year now has been the FCC’s primary online destination for learning about consumer telecommunications issues, filing informal consumer complaints and finding out what other consumers are concerned about.

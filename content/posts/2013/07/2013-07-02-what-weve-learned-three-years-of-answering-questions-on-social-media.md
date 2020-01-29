@@ -5,14 +5,13 @@ title: 'What We’ve Learned: Three Years of Answering Questions on Social Media
 summary: 'USA.gov and GobiernoUSA.gov have been engaging with the public on social media long before Mayor Cory Booker underscored the need at this year’s SXSW. In January 2010, we began to respond to questions and comments on our Facebook and Twitter accounts. We never advertised the service, but people naturally'
 authors:
   - michelle-chronister
-categories:
-  - Social Media
-tag:
-  - Facebook
+topics:
+  - social-media
+  - facebook
   - GobiernoUSAgov
-  - social media
+  - social-media
   - Twitter
-  - USAgov
+  - usagov
 ---
 
 [{{< legacy-img src="2013/07/social-media-button1-250x113.jpg" alt="Computer key that says social media in blue" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/social-media-button1.jpg)

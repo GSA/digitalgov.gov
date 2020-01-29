@@ -5,10 +5,9 @@ title: 'Rocking the Vote: How the USA.gov Brand Leveraged the Mid-term Elections
 summary: You might have noticed a lot of people were talking about the elections yesterday, especially on social media. Election and voting hashtags were trending all day long as people around the country hit the polls to vote for senators, representatives, governors and more. And while plenty of people were really excited to simply let their
 authors:
   - jessica-milcetich
-categories:
-  - Social Media
-tag:
-  - USAgov
+topics:
+  - social-media
+  - usagov
 ---
 
 You might have noticed a lot of people were talking about the elections yesterday, especially on social media. Election and voting hashtags were trending all day long as people around the country hit the polls to vote for senators, representatives, governors and more.

@@ -5,18 +5,18 @@ title: 'CSAT, NPS, and CES: 3 Easy Ways to Measure Customer Experience (CX)'
 summary: 'Have you ever wondered how to measure a customer’s experience? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance,'
 authors:
   - craig-chavez
-categories:
-  - Metrics
-  - strategy-and-policy
-tag:
+topics:
+  - metrics
+  - strategy
+  - policy
   - analytics
-  - Customer Experience
-  - Customer Experience Community of Practice
-  - CX
+  - cx
+  - customer-experience-community-of-practice
+  - cx
   - metrics
 ---
 
-Have you ever wondered how to measure a [customer’s experience]({{< link "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
+Have you ever wondered how to measure a [customer’s experience]({{< ref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
 
 Honestly, I was overwhelmed. Luckily, I got in touch with Kelly J. Ohaver, Customer Experience Manager from the [City of Centennial, Colorado](http://www.centennialco.gov/). This introductory blog spells three customer experience metrics that Kelly shared with me, along with some examples and graphs.
 
@@ -44,7 +44,7 @@ Here’s a chart of how to calculate NPS; subtract the percent of Detractors fro
 
 ## Customer Effort Score (CES)
 
-Customer Effort Score (CES) is the last metric I found—and it’s powerful since it focuses in on one specific attribute or feature of a service. Its rationale is to look at loyalty as a way of expressing a customer’s level of satisfaction. If service providers can reduce the customer’s effort in getting a service, they’ll create customer loyalty. Ease of use fosters customer loyalty, and loyalty means [engaged customers]({{< link "customer-experience-toolkit.md" >}}) who will return. The following is an example of CES in action.
+Customer Effort Score (CES) is the last metric I found—and it’s powerful since it focuses in on one specific attribute or feature of a service. Its rationale is to look at loyalty as a way of expressing a customer’s level of satisfaction. If service providers can reduce the customer’s effort in getting a service, they’ll create customer loyalty. Ease of use fosters customer loyalty, and loyalty means [engaged customers]({{< ref "customer-experience-toolkit.md" >}}) who will return. The following is an example of CES in action.
 
 The City of Centennial uses two questions to measure and analyze CES. &#8220;To what extent do you agree with the following statement: The City of Centennial made it easy for me to handle my issue.&#8221; with a rating scale of 1 (Strongly Agree) to 5 (Strongly Disagree). And a follow up question of, &#8220;What specific technologies, business processes, and/or employee behaviors made doing business with the City easy or difficult?&#8221;
 

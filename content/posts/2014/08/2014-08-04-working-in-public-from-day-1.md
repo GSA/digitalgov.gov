@@ -5,12 +5,11 @@ title: Working In Public From Day 1
 summary: 'In the wide world of software, maybe you’ve heard someone say this, or maybe you’ve said it yourself: &#8220;I’ll open source it after I clean up the code; it’s a mess right now.&#8221; Or: &#8220;I think there are some passwords in there; I’ll get around to cleaning it out at some point.&#8221; Or simply: &#8220;No'
 authors:
   - eric-mill
-categories:
-  - Code
-tag:
-  - 18F
+topics:
+  - code
+  - 18f
   - GitHub
-  - open source
+  - open-source
 ---
 
 In the wide world of software, maybe you’ve heard someone say this, or maybe you’ve said it yourself: _&#8220;I’ll open source it after I clean up the code; it’s a mess right now.&#8221;_

@@ -5,20 +5,19 @@ title: Social Security Joins The Hispanic Heritage Month Celebration
 summary: Social Security joins you and your family in celebrating Hispanic Heritage Month, which runs from September 15 to October 15. We know the contributions of Hispanics can be traced to before the origins of the United States with the discovery, exploration, and naming of many places in our nation, such as state names like California,
 authors:
   - doug-walker
-categories:
-  - Content
-  - Managing Digital
-  - UX
-tag:
+topics:
   - content
-  - Customer Experience
-  - customer service
-  - CX
+  - product-management
+  - ux
+  - content
+  - cx
+  - customer-service
+  - cx
   - multilingual
   - SSA
-  - The United States Social Security Administration
-  - user experience
-  - UX
+  - the-united-states-social-security-administration
+  - user-experience
+  - ux
 ---
 
 Social Security joins you and your family in celebrating [Hispanic Heritage Month](http://www.hispanicheritagemonth.gov/), which runs from September 15 to October 15.

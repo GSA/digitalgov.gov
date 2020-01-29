@@ -5,26 +5,26 @@ title: AIDS.gov Responsive Design
 summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov. AIDS.gov implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. View the
 authors:
   - jparcell
-categories:
-  - Design
-  - Mobile
+topics:
+  - design
+  - mobile
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - HHS
-  - Mobile Gov Experience
-  - Mobile UX Guideline 5
-  - responsive web design
+  - mobile-gov-experience
+  - mobile-ux-guideline-5
+  - responsive-web-design
 ---
 
-_[{{< legacy-img src="2013/12/aids_ss.jpg" alt="Aids.gov" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/aids_ss.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._ _
-  _ 
+_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._
 
-<a href="http://aids.gov/" rel="nofollow">AIDS.gov</a> implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. <a title="Mobile Webinar Series Recap: Responsive Design" href="{{< link "2012-07-02-mobile-webinar-series-recap-responsive-design.md" >}}" rel="nofollow">View the webinar on  AIDs.gov&#8217;s responsive design</a>.
+{{< legacy-img-right src="/2013/12/aids_ss.jpg" alt="Aids.gov homepage" >}}
+
+<a href="http://aids.gov/" rel="nofollow">AIDS.gov</a> implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. <a title="Mobile Webinar Series Recap: Responsive Design" href="{{< ref "2012-07-02-mobile-webinar-series-recap-responsive-design.md" >}}" rel="nofollow">View the webinar on  AIDs.gov's responsive design</a>.
 
 ## Why We Did It
 
-Testing showed that more and more people were trying to access the website via mobile device but not all mobile devices were receiving the m.aids.gov site fully. Since a lot of the content made the implementation of [responsive design]({{< link "2013-06-11-responsive-design.md" >}} "Responsive Design") fairly easy, it made sense to combine the websites on a plethora of levels, the two main reasons routing from an easier to manage site (one site vs. two sites), coupled with the need for a more efficient, better designed, mobile site. We had previous experience with responsive design with the <a href="http://facing.aids.gov/" rel="nofollow">Facing AIDS</a> project.
+Testing showed that more and more people were trying to access the website via mobile device but not all mobile devices were receiving the m.aids.gov site fully. Since a lot of the content made the implementation of [responsive design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design") fairly easy, it made sense to combine the websites on a plethora of levels, the two main reasons routing from an easier to manage site (one site vs. two sites), coupled with the need for a more efficient, better designed, mobile site. We had previous experience with responsive design with the <a href="http://facing.aids.gov/" rel="nofollow">Facing AIDS</a> project.
 
 A simple reason for the switch to responsive design can be seen in the increased mobile traffic to AIDS.gov:
 
@@ -43,7 +43,7 @@ Not really any feedback since launch was only a week prior, but so far testing h
 
 Testing needs to occur not only in a office and in-house environment, but other places as well. Most of the bugs were found on tablets and smartphones while testing them on the devices they will inevitably be used on. The website may work on the browsers in the office during the beginning stages of testing, however, if it doesn’t work on the actual devices it is not as helpful to mobile users.
 
-## What&#8217;s Next
+## What's Next
 
 Continue to expand the site’s ability to perform on other devices from any screen, browser, or device fathomable. The site is relatively new so receiving more feedback will be a tangible goal in the near future.
 

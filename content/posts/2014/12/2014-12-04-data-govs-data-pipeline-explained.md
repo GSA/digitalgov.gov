@@ -5,13 +5,12 @@ title: Data.gov’s Data Pipeline Explained
 summary: 'In case you missed it: the Data.gov team recently hosted DigitalGov University webinars designed to help agencies and open data advocates better understand how to get data on Data.gov and how to implement the Open Data Policy’s metadata schema updates. These webinars were designed assist government data publishers in making more data discoverable to the'
 authors:
   - rebecca-williams
-categories:
-  - Data
-tag:
-  - data.gov
+topics:
+  - data
+  - data-gov
   - metadata
-  - open data
-  - Recaps
+  - open-data
+  - recaps
 ---
 
 In case you missed it: the Data.gov team recently hosted DigitalGov University webinars designed to help agencies and open data advocates better understand how to get data on Data.gov and how to implement the Open Data Policy’s metadata schema updates. These webinars were designed assist government data publishers in making more data discoverable to the American people. You can watch these webinars and check out additional supplemental resources below.

@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-misunderstood-metrics
+kicker: Learning Series
 title: 'DAP Learning Series&#58; Misunderstood Metrics'
 summary: 'What are some examples of misunderstood metrics, and how and when should you use them&#63; We’ll talk about these metrics and their potential misinterpretations and pitfalls&#46;'
 featured_image:
@@ -13,8 +14,14 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-misunderstood-metrics-registration-59346956344
 youtube_id: nvNwmFEroWA
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
 
 ---
+
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993566&CustomerID=321)_
 
 Google Analytics provides a plethora of metrics for DAP reporting. Digital Analytics Program (DAP) users have access to many metrics, but many of these metrics are misunderstood. What are some examples of misunderstood metrics, and how and when should you use them? We’ll talk about these metrics and their potential misinterpretations and pitfalls.

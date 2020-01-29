@@ -5,27 +5,27 @@ title: 'The Data Briefing: Twenty Years of USAJOBS'
 summary: I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20th anniversary of USAJOBS. 1) What are the three big lessons learned from 20 years of building and managing USAJOBS? I think one of the greatest benefits of being an Agile program is that we are constantly learning. In
 authors:
   - bbrantley
-categories:
-  - Data
-  - Managing Digital
-  - Metrics
-  - strategy-and-policy
+topics:
+  - data
+  - product-management
+  - metrics
+  - strategy
+  - policy
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - agile
   - blockchain
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
-  - GSA
+  - digital-analytics-program
+  - gsa
   - lean
-  - The Data Briefing
-  - US General Services Administration
-  - user centered design
+  - the-data-briefing
+  - us-general-services-administration
+  - user-centered-design
 ---
 
-I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20<sup>th</sup> anniversary of USAJOBS. {{< legacy-img src="2016/10/600-x-400-20th-Cake-robynmac-iStock-Thinkstock-179306985.jpg" alt="A red, white, and blue 20th anniversary or birthday cake." caption="" >}} 
+I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20<sup>th</sup> anniversary of USAJOBS. {{< legacy-img src="2016/10/600-x-400-20th-Cake-robynmac-iStock-Thinkstock-179306985.jpg" alt="A red, white, and blue 20th anniversary or birthday cake." caption="" >}}
 
 **1) What are the three big lessons learned from 20 years of building and managing USAJOBS?**
 
@@ -45,7 +45,7 @@ In addition to keeping our focus on delivering a website that uses the research 
 
 **3) What management innovations (human-centered design, lean/agile, etc.) have helped USAJOBS the most?**
 
-Truthfully, I think I would be doing a disservice to our team to prioritize one management innovation over another. Each example you have provided has played a critical role in our ability to evolve a paper process into a customer experience. Additionally, as an Agile program we continue to iterate on how we approach design and management techniques. In the last year we have dedicated resources such as business analysts, a testing coordinator, and an agile coach to a core scrum team which has allowed us to deliver more rapidly in our releases. Our Data Analytics team is working with GSA to leverage their [Digital Analytics Program]({{< link "/dap/" >}}) (DAP) to collect data about customer behavior and to create testing scenarios that mimic how USAJOBS.gov is actually being used. And we continue to explore Change Management practices and techniques to improve our communication efforts and engage our stakeholders in more intentional and strategic ways.
+Truthfully, I think I would be doing a disservice to our team to prioritize one management innovation over another. Each example you have provided has played a critical role in our ability to evolve a paper process into a customer experience. Additionally, as an Agile program we continue to iterate on how we approach design and management techniques. In the last year we have dedicated resources such as business analysts, a testing coordinator, and an agile coach to a core scrum team which has allowed us to deliver more rapidly in our releases. Our Data Analytics team is working with GSA to leverage their [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) to collect data about customer behavior and to create testing scenarios that mimic how USAJOBS.gov is actually being used. And we continue to explore Change Management practices and techniques to improve our communication efforts and engage our stakeholders in more intentional and strategic ways.
 
 **4) What is in the future for USAJOBS: blockchains, chatbots, augmented reality?**
 

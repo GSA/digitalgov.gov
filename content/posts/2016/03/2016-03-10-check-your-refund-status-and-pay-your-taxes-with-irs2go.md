@@ -5,15 +5,14 @@ title: Check Your Refund Status AND Pay Your Taxes With IRS2Go
 summary: 'This tax season, it’s not just taxpayers expecting a refund who can take advantage of IRS2Go, the IRS’ mobile app, but now taxpayers who owe money are able to make payments through the app. IRS2Go offered for Amazon, Android and'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Internal Revenue Service
   - IRS
-  - mobile apps
-  - Thursday Mobile Products
-  - US Digital Registry
-  - USA.gov Federal Mobile Apps Directory
+  - mobile-apps
+  - thursday-mobile-products
+  - us-digital-registry
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 This tax season, it’s not just taxpayers expecting a refund who can take advantage of [IRS2Go](https://www.irs.gov/uac/IRS2GoApp), the IRS’ mobile app, but now taxpayers who owe money are able to make payments through the app.
@@ -30,4 +29,4 @@ IRS2Go users are still able check the status of their returns, access free tax p
 
 {{< legacy-img src="2016/03/600-x-323-IRS2Go-app-screenshots-Amazon-Kindle.jpg" alt="Three screens from the IRS to Go app on an Amazon Kindle tablet.." >}}
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}})._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}})._

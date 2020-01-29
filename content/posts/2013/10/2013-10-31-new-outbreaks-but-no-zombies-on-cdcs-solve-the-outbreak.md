@@ -5,15 +5,14 @@ title: 'New Outbreaks (but No Zombies) on CDC&#8217;s Solve the Outbreak'
 summary: 'The Centers for Disease Control recently added three new outbreaks to their Solve the Outbreak app. CDC released the app earlier this year to teach users how CDC’s disease detectives save lives everyday.'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
-  - CDC
-  - mobile apps
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - cdc
+  - mobile-apps
+  - thursday-mobile-products
 ---
 
-The [Centers for Disease Control](http://www.cdc.gov) recently added three new outbreaks to their [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) app. CDC released [the app earlier this year]({{< link "2013-02-21-cdcs-solve-the-outbreak-app.md" >}} "CDC’s Solve the Outbreak App") to teach users how CDC’s disease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points.
+The [Centers for Disease Control](http://www.cdc.gov) recently added three new outbreaks to their [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) app. CDC released [the app earlier this year]({{< ref "2013-02-21-cdcs-solve-the-outbreak-app.md" >}} "CDC’s Solve the Outbreak App") to teach users how CDC’s disease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points.
 
 {{< legacy-img src="2013/10/600-x-450-Solve-the-Outbreak-Sugar-Plantation-Blues.jpg" alt="Screen shot of the first clue for the game Sugar Plantation Blues showing a photo of a swamp." >}}
 
@@ -21,4 +20,4 @@ Since it&#8217;s Halloween, I&#8217;ll note that a zombie epidemic is not one of
 
 The app itself is no zombie. Solve the Outbreak recently earned 4.5 out of 5 points from a NextGov industry panel, which is the highest score of any app in NextGov&#8217;s [Grading Government Apps](http://www.nextgov.com/media/webgraphics-apps/apps.html) series. The only con from the experts is the app&#8217;s lack of an Android version.
 
-Developers of CDC&#8217;s Solve the Outbreak were featured speakers on our [You&#8217;ll Have Them at Swipe: Make an Awesome Mobile User Experience]({{< link "2013-02-11-youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar.md" >}} "You’ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar") webinar and the team provided input on our recent [Mobile User Experience Guidelines and Recommendations]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}} "Mobile User Experience Guidelines and Recommendations")._You can find other apps like [CDC&#8217;s Solve the Outbreak](http://apps.usa.gov/solvetheoutbreak-app.shtml) on the [USA.gov Apps Gallery](http://apps.usa.gov/). Happy Halloween!_
+Developers of CDC&#8217;s Solve the Outbreak were featured speakers on our [You&#8217;ll Have Them at Swipe: Make an Awesome Mobile User Experience]({{< ref "2013-02-11-youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar.md" >}} "You’ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar") webinar and the team provided input on our recent [Mobile User Experience Guidelines and Recommendations]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}} "Mobile User Experience Guidelines and Recommendations")._You can find other apps like [CDC&#8217;s Solve the Outbreak](http://apps.usa.gov/solvetheoutbreak-app.shtml) on the [USA.gov Apps Gallery](http://apps.usa.gov/). Happy Halloween!_

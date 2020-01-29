@@ -6,25 +6,24 @@ summary: Employee engagement, evidenced by displays of dedication, persistence, 
 authors:
   - john-paul
   - rflagg
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
-  - CX
+topics:
+  - product-management
+  - cx
+  - cx
   - DOL
   - HUD
   - OPM
-  - Recaps
-  - US Bureau of Engraving and Printing
-  - US Department of Labor
-  - United States Department of Housing and Urban Development
-  - United States Office of Personnel Management
+  - recaps
+  - us-bureau-of-engraving-and-printing
+  - us-department-of-labor
+  - united-states-department-of-housing-and-urban-development
+  - united-states-office-of-personnel-management
 ---
 
 Employee engagement, evidenced by displays of dedication, persistence, effort and overall attachment to organization and mission, is a key factor in business success, but it can be a struggle for government organizations. Organizational leaders seeking to cultivate a culture of engagement need tangible examples of how to successfully move the needle in a positive direction. The annual Employee Viewpoint Survey (EVS) can provide agencies with a tangible way to measure employee engagement.
 
 {{< legacy-img src="2016/03/600-x-338-Creating-the-Employee-Experience-Big-Benefits.jpg" alt="The Creating the Employee Experience slide from the Cultivating a Culture of Engagement PowerPoint presentation. It gives 10 examples of things that make employees stay, such as feeling empowered, valued, and trusted, and when they are challenged, paid well, and receive mentoring." >}}
-  
+
 This webinar provides a deeper look at workforce engagement in the Government. Led by DOL thought leader Mika Johanna Cross, a panel of experts from OPM, HUD, DOL, and BEP take us through how organizations can change their culture one small step at a time. Justin Johnson of OPM identifies challenges and success factors, such as understanding engagement as a product, and the need to make it a personal interaction. Towanda Brooks shares HUD’s success through leadership strategy with the “Department of Opportunity “and the importance of building trust. BEP strategist Kristin McNally reviews their six-step information sharing strategy for successfully engaging a highly diverse workforce. Finally, Sydney Rose describes the DOL “Cinderella story” of Secretary Perez’ efforts to personally listen to the Department’s widely distributed workforce, taking DOL from 2nd-to-last to the top 10 best places to work in the federal government.
 
 According to this panel of experts, the main drivers of employee engagement are:
@@ -137,6 +136,6 @@ You can [view the presentation slides](https://s3.amazonaws.com/digitalgov/_lega
 
 [youtube=http://www.youtube.com/watch?v=THvdtQQURZ0&w=600]
 
- 
 
-For more content like this, [join the Customer Experience Community (CX-COP)]({{< link "customer-experience-community.md" >}}).
+
+For more content like this, [join the Customer Experience Community (CX-COP)]({{< ref "customer-experience-community.md" >}}).

@@ -3,11 +3,10 @@ slug: usdas-amber-waves-app
 date: 2013-02-28 9:10:41 -0400
 title: 'USDA&#8217;s Amber Waves App'
 summary: 'The U.S. Department of Agriculture&#8217;s (USDA) Economic Research Service (ERS) has developed a tablet app for their Amber Waves magazine which showcases'
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - mobile-apps
+  - thursday-mobile-products
   - USDA
 ---
 

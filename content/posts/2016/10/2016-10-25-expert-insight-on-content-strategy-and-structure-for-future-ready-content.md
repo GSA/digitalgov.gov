@@ -5,16 +5,16 @@ title: Expert Insight on Content Strategy and Structure for Future-Ready Content
 summary: 'We recently interviewed Sara Wachter-Boettcher, author of Content Everywhere: Strategy and Structure for Future-Ready Content. Sara, a frequent conference speaker, runs a content strategy consultancy, and is the co-author of Design for Real Life. She has extensive experience consulting with major brands, universities, agencies, nonprofits, and others to make their content more memorable, manageable, and'
 authors:
   - christen-geiler
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
   - content
-  - content models
-  - content strategy
-  - open and structured content models
-  - structured content
+  - product-management
+  - strategy
+  - policy
+  - content
+  - content-models
+  - content-strategy
+  - open-and-structured-content-models
+  - structured-content
 ---
 
 We recently interviewed [Sara Wachter-Boettcher](http://www.sarawb.com/), author of _Content Everywhere: Strategy and Structure for Future-Ready Content_. Sara, a frequent conference speaker, runs a content strategy consultancy, and is the co-author of _Design for Real Life_. She has extensive experience consulting with major brands, universities, agencies, nonprofits, and others to make their content more memorable, manageable, and sustainable.
@@ -29,13 +29,13 @@ Most content on the web is unstructured, meaning it’s just a page with blobs o
 
 An organization determines its content strategy by defining its capability areas and potential customers. Once defined, the organization can focus on developing a unique credibility in a specific area.
 
-An organization can’t have [content strategy]({{< link "tag/content-strategy" >}}) and [structured content]({{< link "tag/open-and-structured-content-models" >}}) until it learns to operate in a structured way.
+An organization can’t have [content strategy]({{< ref "/topics/content-strategy" >}}) and [structured content]({{< ref "/topics/open-and-structured-content-models" >}}) until it learns to operate in a structured way.
 
 ## The Broader Story
 
 **What is the biggest challenge for Federal agencies in adopting the practice of content strategy?**
 
-In her opinion, one of the biggest challenges is when folks who create web content get stuck in the culture of their organization and don&#8217;t see the importance of making changes to show their content in a new way. The key being “thinking of their content in a broader story.” Frequently, we see web content creators forget to focus on their audience connection points when they should be thinking of the web as an inter-connected system. When this happens, it truly opens new opportunities and possibilities. {{< legacy-img src="2016/10/600-x-450-Magic-book-Lobke-Peers-shevvers-iStock-Thinkstock-147289491.jpg" alt="An open book with wisps of light." caption="" >}} 
+In her opinion, one of the biggest challenges is when folks who create web content get stuck in the culture of their organization and don&#8217;t see the importance of making changes to show their content in a new way. The key being “thinking of their content in a broader story.” Frequently, we see web content creators forget to focus on their audience connection points when they should be thinking of the web as an inter-connected system. When this happens, it truly opens new opportunities and possibilities. {{< legacy-img src="2016/10/600-x-450-Magic-book-Lobke-Peers-shevvers-iStock-Thinkstock-147289491.jpg" alt="An open book with wisps of light." caption="" >}}
 
 **Does this happen outside the Government?**
 
@@ -45,8 +45,8 @@ In her work, Sara has noticed that entrenchment happens everywhere, in both publ
 
 **What do you see as the solution?**
 
-One solution to fix these problems is to get people thinking about content strategy—and patience is key to that success. There are many [techniques]({{< link "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) to get [content models]({{< link "2016-05-05-how-to-create-portable-content-with-structured-content-models.md" >}}) created, but changing way people think may take a while.
+One solution to fix these problems is to get people thinking about content strategy—and patience is key to that success. There are many [techniques]({{< ref "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) to get [content models]({{< ref "2016-05-05-how-to-create-portable-content-with-structured-content-models.md" >}}) created, but changing way people think may take a while.
 
 You need to have a clear set of principles, determining the goal of the web site, what content is important to your audience and what it really needs from the site—and then get the organization to work in a structured way to deliver it.
 
-This is another instance where [change is essential]({{< link "2016-08-04-that-six-letter-word-change.md" >}}). Sara notes, “If you work in an organization, you have been trained to think through the lens of the organization—[which] makes it very hard to think about users. People need to get into the habit of thinking about the customer, and then think about the steps and the questions they have and use it as a tool to reflect on the content. Why would they be looking for some information? What is the scenario?” Asking questions like these forces people to revise the way they examine their organization’s web content to help them move forward with a strategy that works.
+This is another instance where [change is essential]({{< ref "2016-08-04-that-six-letter-word-change.md" >}}). Sara notes, “If you work in an organization, you have been trained to think through the lens of the organization—[which] makes it very hard to think about users. People need to get into the habit of thinking about the customer, and then think about the steps and the questions they have and use it as a tool to reflect on the content. Why would they be looking for some information? What is the scenario?” Asking questions like these forces people to revise the way they examine their organization’s web content to help them move forward with a strategy that works.

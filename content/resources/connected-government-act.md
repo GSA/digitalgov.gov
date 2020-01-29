@@ -1,20 +1,22 @@
 ---
-url: /resources/connected-government-act/
+slug: connected-government-act
 date: 2018-06-25 9:00:00 -0400
 title: 'Connected Government Act'
 summary: 'Resources to help your agency comply with the Connected Government Act.'
-type: guide
 deck: 'As of July of 2018, all new and redesigned agency websites are required to be mobile friendly.'
 featured_image:
   uid: hr2331-connected-govt-act
-
+topics:
+  - product-management
+  - mobile
+  - policy
 ---
 
 The [**Connected Government Act**](https://www.congress.gov/bill/115th-congress/house-bill/2331) (H.R.2331) was signed into law on January 10, 2018, and requires new and redesigned federal agency public websites to be mobile-friendly. The [General Services Administration](https://www.gsa.gov/) (GSA) and [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) will submit a report to Congress in 2019 that describes how agencies can implement the law and assess their compliance.
 
 The new law codifies OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
 
-The sections below were curated by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to help you make sure that your websites comply with the law. 
+The sections below were curated by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to help you make sure that your websites comply with the law.
 
 {{< img src="hr2331-connected-govt-act" >}}
 
@@ -32,7 +34,7 @@ Do you know how mobile fits into your agency’s larger digital strategy? If not
 - **Mobile Device Trends on Government Websites** <br />The shift to “mobile first” makes sense given that the smartphone is now the growth driver, while desktop device usage is rapidly decreasing among U.S. users. Now that we’ve seen the top level shift from desktop to mobile, let’s drill deeper into mobile device specific trends. <br />https://www.digitalgov.gov/2017/08/14/20162017-mobile-analysis-mobile-device-trends-on-government-websites/
 - **Finding the Best Mobile Moment Is the First Stepping Stone to Anytime, Anywhere Government** <br />Mobile moments are your agency’s chance to shine. The key is getting to know your user; analytics can help you find the moment. <br />https://www.digitalgov.gov/2015/06/01/finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government/
 - **Making MobileGov Project** <br />Making MobileGov was a three phase multi-media project created by the MobileGov Community of Practice in 2011 to help federal agencies discover, discuss and design a citizen-centric path to mobile government services and information. Many of the findings in the project still apply in 2018. <br />https://www.digitalgov.gov/2011/06/21/making-mobile-gov-project/
-- **Mobile Development Strategies** <br />Mobile first, mobile-only, mobile-friendly? What’s the difference? There are many mobile development strategies to choose from and there are very subtle differences between some of them, and some are used in combination. We’ve got you covered on them all here. <br />https://digital.gov/resources/mobile-development-strategies 
+- **Mobile Development Strategies** <br />Mobile first, mobile-only, mobile-friendly? What’s the difference? There are many mobile development strategies to choose from and there are very subtle differences between some of them, and some are used in combination. We’ve got you covered on them all here. <br />https://digital.gov/resources/mobile-development-strategies
 - **Google Will Rank ‘Mobile-Friendly’ Sites Even Higher Beginning in May** <br />Google now focuses even more exclusively on boosting mobile-friendly sites. <br />https://www.digitalgov.gov/2016/03/29/google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may/
 - **Mobile First Webinar Recap** <br />A “mobile first” approach is where new websites and applications are designed for mobile devices first, instead of designed for the traditional desktop. Representatives from government and the private sector spoke about what it means to be “mobile first.” <br />https://www.digitalgov.gov/2012/08/03/mobile-first-webinar-recap/
 - **How Contact Centers are Adapting to the Mobile User** <br />According to this study by Compare Business Products, one of the most important impacts for contact centers is that smartphone users can now connect with contact centers via voice calls, SMS messages, Internet pages, social media video chat and native apps. <br />https://www.digitalgov.gov/2014/04/22/trends-on-tuesday-how-contact-centers-are-adapting-to-the-mobile-user/
@@ -122,7 +124,7 @@ We've covered the essentials above, but below is information about policies, pla
 
 ### App Platforms
 
-If you are creating an app, you will need to work with the platform to get your app added to their store. The following have federal-compatible Terms of Service agreements. 
+If you are creating an app, you will need to work with the platform to get your app added to their store. The following have federal-compatible Terms of Service agreements.
 
 - **Apple** <br />https://www.digitalgov.gov/2013/05/30/apples-ios-terms-of-service-developer-program-license-agreement/
 - **Blackberry App World** <br />https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/blackberry-app-world-tos-agreement.pdf (PDF, 270 kb, 4 pages)
@@ -177,7 +179,7 @@ When you are building an app or creating a mobile-friendly site, there are certa
 
 ### Federal Mobile Apps Directory
 
-A sortable list of all known federal government apps. <br />[https://www.usa.gov/mobile-apps](https://www.usa.gov/mobile-apps) 
+A sortable list of all known federal government apps. <br />[https://www.usa.gov/mobile-apps](https://www.usa.gov/mobile-apps)
 
 ### U.S. Digital Registry
 

@@ -5,16 +5,15 @@ title: 7 Ways to Ignite User-Centered Design at Your Agency
 summary: 'So you’ve done a couple of usability studies, and a few people are starting to &ldquo;see the light.&rdquo; Now you’d like to take it to the next level and help your organization embrace user-centered design (UCD) as the philosophy that drives all your digital projects. But what is best way to do this? How can'
 authors:
   - wendy-littman
-categories:
-  - Design
+topics:
+  - design
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - DOE
-  - United States Department of Energy
-  - user centered design
-  - user experience
-  - UX
+  - united-states-department-of-energy
+  - user-centered-design
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Light-bulb-with-drawing-graph-Jannoon028-iStock-Thinkstock-515705127.jpg" alt="Light bulb with drawing graph" caption="" >}} 
@@ -73,7 +72,7 @@ Look for UX consultants who:
 
 If you don’t have the budget to hire a consultant, look for some free resources. For example:
 
-  * Programs like GSA’s [DigitalGov User Experience program]({{< link "digitalgov-user-experience-resources.md" >}}).
+  * Programs like GSA’s [DigitalGov User Experience program]({{< ref "digitalgov-user-experience-resources.md" >}}).
   * Free templates and other resources available on sites like [usability.gov](http://www.usability.gov/).
   * Training and mentoring available through the [User Experience Professionals Association](http://uxpa.org/) (UXPA).
 

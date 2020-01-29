@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: 10 Tips for Mobile Live Streaming'
 summary: ' Mobile video is starting to hit its second wave for both consumption and creation, and government agencies can prepare now to ride this new channel for mobile and social engagement. Fueled by mobile bandwidth and cellular stability steadily increasing and consumers&#8217; comfort'
 authors:
   - wsullivan
-categories:
-  - Content
-  - Mobile
-  - Video
-tag:
+topics:
+  - content
   - mobile
-  - Mobile UX Guideline 1
-  - Trends on Tuesday
+  - video
+  - mobile
+  - mobile-ux-guideline-1
+  - trends-on-tuesday
   - Twitter
 ---
 

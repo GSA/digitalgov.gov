@@ -5,19 +5,18 @@ title: Sharing The Story of Innovation
 summary: Our goal for a more veteran-centered and innovative VA is shared. Our approach to innovation is collaborative. Our approach to innovation is driven by listening, understanding and responding to the experiences and stories of the Veterans we serve. We were huddled on squeaky chairs in the social room of a transitional housing facility in Los
 authors:
   - va-center-for-innovation
-categories:
-  - Accessibility
-  - Design
+topics:
+  - accessibility
+  - design
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - innovation
   - research
-  - US Department of Veterans Affairs
-  - user centered design
-  - user experience
+  - us-department-of-veterans-affairs
+  - user-centered-design
+  - user-experience
   - VA
-  - VA Center for Innovation
+  - va-center-for-innovation
   - VACI
 ---
 
