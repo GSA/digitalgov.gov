@@ -11,7 +11,7 @@ source: logingov
 slug: logingov-surpassed-has-20-million-registered
 date: 2020-01-22 23:00:00 -0500
 title: "Login.gov has surpassed has 20 million registered users"
-deck: "This week, **Login.gov has surpassed has 20 million registered users!** :tada: Congratulations to the team for hitting this milestone while keeping the product simple and secure for the public."
+deck: "This week, **Login.gov has surpassed 20 million registered users!** :tada: Congratulations to the team for hitting this milestone while keeping the product simple and secure for the public."
 summary: "This week, Login.gov has surpassed has 20 million registered users! Congratulations to the team for hitting this milestone while keeping the product simple and secure for the public."
 
 # see all topics at https://digital.gov/topics
