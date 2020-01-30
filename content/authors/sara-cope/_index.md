@@ -15,7 +15,7 @@ pronoun: ""
 email: sara.cope@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Sr. Developer GSA, Digital Service"
+bio: "Sr. Engineer, Open Source and Innovations"
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
