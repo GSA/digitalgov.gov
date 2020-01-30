@@ -21,8 +21,8 @@ ignoreFiles:
   - "content/_archived/*"
 
 sitemap:
-  changefreq            : "monthly"
-  priority              : 0.5
+  changefreq            : "daily"
+  priority              : 1
   filename              : "sitemap.xml"
 
 outputFormats:
