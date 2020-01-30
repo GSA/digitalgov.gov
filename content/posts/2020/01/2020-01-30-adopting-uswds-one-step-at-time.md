@@ -25,18 +25,18 @@ authors:
   - jeremyzilar
 
 # primary Image (for social media)
-primary_image: "uswds-baseball"
+primary_image: "this-weeks-idea-card-wk6"
 
 
 # Make it better ♥
 ---
 
 
-{{< card-quote bg="dark" text="Learning is never cumulative, it is a movement of knowing which has no beginning and no end." cite="Bruce Lee" >}}
+{{< card-quote text="Learning is never cumulative, it is a movement of knowing which has no beginning and no end." cite="Bruce Lee" >}}
 
 Last week, [General Services Administration (GSA) officially released](https://www.gsa.gov/blog/2020/01/22/gsa-publishes-standards-for-building-federal-websites-and-digital-services) the ‘website standards’ referenced in Section 3(e) of [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/).
 
-{{< img-right src="21c-idea-icon-w600sq" >}}
+{{< img-right src="this-weeks-idea-icon-wk6" >}}
 
 Specifically, the [website standards](https://designsystem.digital.gov/website-standards/) say agencies should use the U.S. Web Design System (USWDS):
 
