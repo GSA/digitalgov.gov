@@ -22,7 +22,7 @@ community_list:
     type: government_only
     subscribe_email: "FedRPA-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe RPA"
-    members: 763
+    members: 829
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

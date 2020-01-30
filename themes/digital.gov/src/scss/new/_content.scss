@@ -37,21 +37,28 @@
     @include u-margin-bottom(0);
   }
 
+
+  h3{
+    @include u-text('medium');
+  }
+
   // HR tags
   hr{
     @include u-margin-y(3);
     clear:both;
   }
 
-  ul{
-    li{
-      @include u-line-height('sans', 3);
-    }
-    ul{
-      @include u-margin-top(1);
-      @include u-margin-bottom('105');
-    }
-  }
+  // Lists
+  // ul{
+  //   li{
+  //     @include u-line-height('sans', 3);
+  //     ul,
+  //     ol{
+  //       @include u-margin-top(1);
+  //       @include u-margin-bottom('105');
+  //     }
+  //   }
+  // }
 
   // Code
   code{
@@ -85,23 +92,12 @@
   // Quotes
   blockquote{
     @include u-margin-x(5);
-    @include u-measure(2);
+    @include u-measure(4);
+    @include u-margin-left(0);
+    @include u-padding-left(5);
+    @include u-border-left('05', 'solid', 'base-lighter');
   }
-  .quote{
-    @include u-margin-x(0);
-    @include u-padding(3);
-  }
-  .quote.inline{
-    @include u-border-top(1);
-    @include u-margin-top(1);
-    @include u-margin-left(2);
-    @include u-padding-y(1);
-    @include u-padding-x(0);
-    @include u-padding-bottom(2);
-    @include u-font-family('serif');
-    @include u-width('card-lg');
-    @include u-float('right');
-  }
+
 
   // tables
   table{

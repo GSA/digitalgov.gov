@@ -11,8 +11,8 @@ source: searchgov
 slug: searchgov-2019-in-review
 date: 2020-01-27 13:00:00 -0500
 title: "Search.gov: 2019 in Review"
-deck: "**In 2019, Search.gov served 295,916,305 queries across over 2,000 government websites**. Find out more in their annual report, including the common topics people search for."
-summary: "**In 2019, Search.gov served **295,916,305 queries across over 2,000 government websites**. Find out more in their annual report, including the common topics people search for."
+deck: "**In 2019, Search.gov served 295,916,305 queries across more than 2,000 government websites**. Find out more in their annual report, including the most common topics that people searched for."
+summary: "**In 2019, Search.gov served **295,916,305 queries across more than 2,000 government websites**. Find out more in their annual report, including the most common topics that people searched for."
 
 # see all topics at https://digital.gov/topics
 topics:
