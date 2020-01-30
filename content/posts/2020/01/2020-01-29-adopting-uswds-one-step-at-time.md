@@ -49,18 +49,16 @@ Specifically, the [website standards](https://designsystem.digital.gov/website-s
 
 In short, agencies will need to incrementally implement USWDS principles, guidance, and code.
 
-But before we go on, there are three important things that you should understand about adopting USWDS:
+
+{{< note >}}
+Three important things that you should understand about adopting [USWDS](https://designsystem.digital.gov/):
 
 -   **You don’t need to adopt the design system all at once.** In fact, we encourage you to adopt the design system incrementally, and adapt it to meet your agency’s mission and user needs.
 -   **You don’t need to add any special code to your website to get started.** In fact, we encourage you to start with the principles and guidance.
 -   **You don’t need to do a full-scale site redesign to start incorporating USWDS code and components.** In fact, we encourage you to start with something smaller like color tokens or the gov banner.
 
+{{< /note >}}
 
-**What we’ll cover in this post:**
-
-- A quick intro to design systems, including our own USWDS.
-- An explanation of what it means to adopt the design system using the USWDS maturity model.
-- And a look ahead into assessing maturity and prioritizing next steps
 
 ## A Quick Intro to Design Systems
 
@@ -135,25 +133,21 @@ One thing you and your team can do right away is to evaluate the decisions you�
 
 Here are a few activities you could use get started:
 
-{{< box >}}
-
-**Activity #1**
+{{< note "activity" >}}
 
 1. Read over the design principles with your team.
 2. Note which ones resonate most with your team and why.
 3. List the decisions you’ve recently made, and actions you and your team are - already doing that fall under one or more of the design principles.
 
-{{< /box >}}
+{{< /note >}}
 
-{{< box >}}
-
-**Activity #2**
+{{< note "activity" >}}
 
 1. List all of the recent edits (content + functionality) you and your team have made to your website in the last 3 months.
 2. For each edit made, note the actions you took that directly apply to one or more of the design principles.
 3. Make a list of actions you and your team can start doing to incorporate one or more of the design principles into your decision-making workflow.
 
-{{< /box >}}
+{{< /note >}}
 
 ---
 
@@ -165,15 +159,13 @@ Even before adding any USWDS code to your site, you can begin to adopt its user 
 
 Here is an activity you could use get started:
 
-{{< box >}}
-
-**Activity #1**
+{{< note "activity" >}}
 
 1. Identify USWDS components that your website uses.
 2. Check to see if your site’s components follow the USWDS usability and accessibility guidance.
 3. Add any instances where the component does not follow the guidance to an action plan.
 
-{{< /box >}}
+{{< /note >}}
 
 ---
 
