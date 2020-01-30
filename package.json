@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
+  "scripts": {
+    "test:pa11y": "pa11y-ci --config .pa11yci"
+  },
   "directories": {
     "doc": "docs"
   },
