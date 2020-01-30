@@ -5,7 +5,7 @@ slug: adopting-uswds-one-step-at-time
 
 # Short URL — https://go.usa.gov/
 short_url: https://go.usa.gov/xdjTe
-date: 2020-01-29 19:00:00 -0500
+date: 2020-01-30 19:00:00 -0500
 kicker: "This Week's IDEA"
 title: "Adopting the USWDS, One Step at a Time"
 deck: "The U.S. Web Design System is key to new website standards"
@@ -26,6 +26,10 @@ authors:
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card-wk6"
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /2020/01/29/adopting-uswds-one-step-at-time/
 
 
 # Make it better ♥
