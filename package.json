@@ -6,13 +6,18 @@
   "directories": {
     "doc": "docs"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSA/digitalgov.gov.git"
+  },
+  "license": "",
   "dependencies": {
     "gulp-jshint": "^2.1.0",
     "octicons": "^7.3.0"
   },
   "devDependencies": {
     "acorn": "^6.4.0",
-    "autoprefixer": "^9.7.3",
+    "autoprefixer": "^9.7.4",
     "braces": "^2.3.2",
     "change-case": "^3.1.0",
     "css-mqpacker": "^7.0.0",
@@ -44,15 +49,15 @@
     "gulp-watch": "^5.0.0",
     "i": "^0.3.6",
     "image-size": "^0.8.3",
-    "jshint": "^2.10.3",
-    "npm": "^6.13.4",
+    "jshint": "^2.11.0",
+    "npm": "^6.13.7",
     "path": "^0.12.7",
-    "postcss": "^7.0.25",
+    "postcss": "^7.0.26",
     "postcss-uncss": "^0.16.1",
     "sharp": "^0.23.4",
-    "tap": "^14.10.4",
+    "tap": "^14.10.6",
     "uncss": "^0.16.2",
-    "uswds": "^2.3.1",
+    "uswds": "^2.4.0",
     "uswds-gulp": "github:uswds/uswds-gulp",
     "vinyl-paths": "^3.0.1"
   }
