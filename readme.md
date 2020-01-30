@@ -39,3 +39,15 @@ or
 `hugo serve --config=config_dev.yml` _(can take 5 secs to launch but only builds a portion of the content)_
 
 **visit** http://localhost:1313/
+
+#### Test
+
+To run web accessibility testing do the following:  
+a. Start a server by following the `Install` and `Run` instructions above. *Site must be running locally to perform the scan.*  
+b. At the command line run `npm run test:pa11y` to initiate the accessibility checker.
+
+*Note*: Currently, this only runs accessiblity checks on the site home page as a Proof of Concept demonstration.
+
+Accessibility testing configuration is located in the .pa11yci file. 
+
+We follow the WCAG2AA standard. For more info on the rules being tested checkout the [pa11y wiki](https://github.com/pa11y/pa11y/wiki/HTML-CodeSniffer-Rules).
