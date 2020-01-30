@@ -3,7 +3,7 @@ date: 2019-12-31 12:00:00 -0500
 title: "Grammar and Spelling"
 deck: "TKTK"
 summary: "TKTK"
-guide: style-guide
+guide: digitalgov-handbook
 ---
 
 In general, we follow [AP Style](https://www.apstylebook.com/). Use [plain language](https://www.plainlanguage.gov/) in your writing for clarity. Avoid using acronyms or [jargon](https://www.digitalgov.gov/2014/08/15/get-out-of-the-jargon-trap-plain-language-training-can-help/) that may be unfamiliar to the general public or those outside your agency.

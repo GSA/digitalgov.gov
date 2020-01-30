@@ -1,0 +1,21 @@
+nav:
+- title    : 'Overview'
+  path     : '/guides/digitalgov-handbook/_index.md'
+- title    : 'Style Guide'
+  path     : '/guides/digitalgov-handbook/style-guide/_index.md'
+  subnav   :
+  - title    : 'Voice and Tone'
+    path     : '/guides/digitalgov-handbook/style-guide/voice-and-tone.md'
+  - title    : 'Grammar and Spelling'
+    path     : '/guides/digitalgov-handbook/style-guide/grammar-and-spelling.md'
+  - title    : 'Image Use'
+    path     : '/guides/digitalgov-handbook/style-guide/image-use.md'
+  - title    : 'Author Profiles'
+    path     : '/guides/digitalgov-handbook/style-guide/author-profiles.md'
+  - title    : 'Branding'
+    path     : '/guides/digitalgov-handbook/style-guide/branding/_index.md'
+    subnav   :
+    - title  : 'Logos and Assets'
+      path   : '/guides/digitalgov-handbook/style-guide/branding/logos-and-assets.md'
+    - title  : 'Service Logos'
+      path   : '/guides/digitalgov-handbook/style-guide/branding/service-logos.md'

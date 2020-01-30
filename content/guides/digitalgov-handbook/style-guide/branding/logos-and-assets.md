@@ -1,9 +1,9 @@
 ---
 date: 2019-12-31 12:00:00 -0500
-title: "Branding and Logos"
+title: "Logos and Assets"
 deck: "TKTK"
 summary: "TKTK"
-guide: style-guide
+guide: digitalgov-handbook
 ---
 
 ## Logos
