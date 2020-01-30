@@ -13,7 +13,8 @@
   "license": "",
   "dependencies": {
     "gulp-jshint": "^2.1.0",
-    "octicons": "^7.3.0"
+    "octicons": "^7.3.0",
+    "pa11y-ci": "^2.3.0"
   },
   "devDependencies": {
     "acorn": "^6.4.0",
