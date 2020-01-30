@@ -1,10 +1,10 @@
 .card-quote{
-	@include u-margin-bottom(2);
+	@include u-margin-bottom(3);
 	@include u-bg('gold-5');
 	@include u-radius('sm');
 	blockquote{
 		@include u-margin(0);
-		@include u-padding-y('205');
+		@include u-padding-y(4);
 		@include u-padding-x(5);
 		@include u-padding-right(3);
 		@include u-text-indent(-2);
@@ -27,5 +27,13 @@
 			@include u-measure(4);
 			@include u-font('sans', 'md');
 		}
+	}
+}
+
+.card-quote.dark{
+	@include u-bg('gray-cool-70');
+	blockquote{
+		@include u-text('white');
+		@include u-border-left('05', 'solid', 'gray-cool-20');
 	}
 }

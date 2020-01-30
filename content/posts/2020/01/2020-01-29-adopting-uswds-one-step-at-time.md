@@ -31,7 +31,7 @@ primary_image: "tktk"
 ---
 
 
-{{< card-quote text="Learning is never cumulative, it is a movement of knowing which has no beginning and no end." cite="Bruce Lee" >}}
+{{< card-quote bg="dark" text="Learning is never cumulative, it is a movement of knowing which has no beginning and no end." cite="Bruce Lee" >}}
 
 Last week, [General Services Administration (GSA) officially released](https://www.gsa.gov/blog/2020/01/22/gsa-publishes-standards-for-building-federal-websites-and-digital-services) the ‘website standards’ referenced in Section 3(e) of [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/).
 
