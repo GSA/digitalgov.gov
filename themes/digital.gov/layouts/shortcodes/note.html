@@ -1,3 +1,10 @@
-<div class="note">
-  {{ .Inner | markdownify }}
+
+<div class="note {{ if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
+  {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
+    <h4><i class="fas fa-cubes"></i> Activity</h4>
+  {{- else -}}
+    <h4><i class="far fa-bell"></i> Note</h4>
+  {{- end -}}
+
+  {{- .Inner | markdownify -}}
 </div>
