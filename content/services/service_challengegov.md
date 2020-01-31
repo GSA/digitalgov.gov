@@ -30,7 +30,7 @@ topics:
 
 ---
 
-{{< button href="https://challenge.gov/a/buzz/pages/about-us" text="Post a challenge on Challenge.gov" >}}
+{{< button href="https://www.challenge.gov/about/" text="Post a challenge on Challenge.gov" >}}
 
 ## **A Primer on Challenges & Prizes**
 
@@ -60,7 +60,7 @@ The [Strategy for American Innovation](https://obamawhitehouse.archives.gov/site
 
 In 2010, the Office of Management and Budget issued a [memo](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf) (PDF, 94 KB, 12 pages) providing a formal policy framework to guide agencies in using challenges and prize competitions to advance their core missions.
 
-That same year, the General Services Administration (GSA) launched [Challenge.gov](http://challenge.gov/), the official clearinghouse for all federal problem-solving competitions.
+That same year, the General Services Administration (GSA) launched [Challenge.gov](http://www.challenge.gov/), the official clearinghouse for all federal problem-solving competitions.
 
 ## A Platform for All
 

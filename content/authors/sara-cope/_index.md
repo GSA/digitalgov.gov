@@ -37,11 +37,16 @@ github: "saracope"
 profile_photo: "github"
 
 # [e.g., Digital_Gov]
-twitter: ""
+twitter: "sarassassin"
 facebook: ""
 instagram: ""
-linkedin: ""
+linkedin: "saracope"
 youtube: ""
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
 
 # Make it better ♥
 ---
