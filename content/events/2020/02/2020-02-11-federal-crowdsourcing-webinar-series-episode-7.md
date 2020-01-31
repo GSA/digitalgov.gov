@@ -4,7 +4,7 @@
 slug: federal-crowdsourcing-webinar-series-episode-7
 title: "Federal Crowdsourcing Webinar Series Episode 7: Crowdsourcing for Code"
 deck: ""
-summary: "Find out how the commercial information technology sector is helping the U.S. government to expand its repository—and application—of open-source code as part of Code.gov’s Open Tasks initiative. "
+summary: "Find out how the commercial information technology sector is helping the U.S. government to expand its repository—and application—of open-source code as part of Code.gov’s Open Tasks initiative."
 host: "Federal Crowdsourcing"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/92368415417
@@ -19,8 +19,9 @@ end_date: 2020-02-11 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - code
-  - open-source
   - innovation
+  - open
+  - open-source
 
 # see all authors at https://digital.gov/authors
 authors: 
