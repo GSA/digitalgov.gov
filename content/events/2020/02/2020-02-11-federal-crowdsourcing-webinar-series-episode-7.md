@@ -16,6 +16,16 @@ date: 2020-02-11 14:00:00 -0500
 # end date
 end_date: 2020-02-11 15:00:00 -0500
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - code
+  - open-source
+  - innovation
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - tammy-white
+
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
 
@@ -23,6 +33,7 @@ event_platform: zoom
 youtube_id: 
 
 # Make it better ♥
+
 ---
 
 The U.S. government spends billions of dollars annually on information technology (IT). Whether sustaining legacy systems or procuring highly customized applications, the costs add up.
