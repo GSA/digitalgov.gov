@@ -1,8 +1,8 @@
 ---
 date: 2019-12-31 12:00:00 -0500
 title: "Grammar and Spelling"
-deck: "TKTK"
-summary: "TKTK"
+deck: ""
+summary: ""
 guide: digitalgov-handbook
 ---
 
@@ -22,7 +22,7 @@ Do not capitalize words like _federal_, _government_, or _agency_ unless it is:
 
 ## Publication Titles
 
-Blogs, magazines, books, etc. are in normal text (i.e., no italics or underlining). Ideally, the titles will be linked to the work that is being referenced.
+Blogs, magazines, books, etc. are in normal text _(i.e., no italics or underlining)_. Ideally, the titles will be linked to the work that is being referenced.
 
 ## Courtesy and Professional Titles
 
@@ -82,7 +82,7 @@ To avoid confusion, always provide the full name of an agency or program the fir
 
 > _Lorem ipsum **National Aeronautics and Space Administration (NASA)** dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._
 >
-> _Duis aute irure dolor **NASA** in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum._
+  > _Duis aute irure dolor **NASA** in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum._
 
 **Initialism examples**:
 
