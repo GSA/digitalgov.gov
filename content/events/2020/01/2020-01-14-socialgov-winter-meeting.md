@@ -1,7 +1,6 @@
 ---
 # View this page at https://digital.gov/event/2020/01/socialgov-winter-meeting
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: socialgov-winter-meeting
 title: "SocialGov Winter Meeting"
 deck: ""
@@ -12,37 +11,19 @@ registration_url: https://www.eventbrite.com/e/socialgov-winter-meeting-registra
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4305155&CustomerID=321
 
 # start date
-date: 2020-01-14 08:00:00 -0500
+date: 2020-01-14 8:00:00 -0500
 
 # end date
 end_date: 2020-01-14 13:30:00 -0500
 
-# see all topics at https://digital.gov/topics
-topics:
-  - social-media
-  - plain-language
-  - socialgov
-  - socialgov-community
-
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
-
 # YouTube ID
-youtube_id:
+youtube_id: hTjkSjkPP48
 
-venue_name: "US General Services Administration"
-room: "Room 1459/1460/1461 (Conference Center)"
-address: "1800 F St NW"
-city: "Washington"
-state: "DC"
-zip: "20006"
-country: "United States"
-
-featured_image:
-  uid: socialgov-winter-event-2020
-  alt: ''
+# Primary Image (for social media)
+primary_image: "socialgov-winter-event-2020"
 
 # Make it better ♥
+
 ---
 
 {{< img src="socialgov-winter-event-2020" >}}
