@@ -26,8 +26,6 @@ primary_image: "socialgov-winter-event-2020"
 
 ---
 
-{{< img src="socialgov-winter-event-2020" >}}
-
 Join us for SocialGov’s winter meeting to learn more about these exciting social media topics, presented by your federal colleagues:
 
 -   **Tips for Hosting a Twitter Trivia Party** — by Riley Wilson and Robin Materese, National Institute of Standards and Technology **(NIST)**
@@ -83,7 +81,3 @@ Laura is passionate about using technology to communicate in ways that are pract
 
 {{< img-right src="katherine-spivey" >}}
 **Katherine Spivey** — serves as GSA’s Plain Language Launcher and is a Senior Communications Analyst for the Office of Strategic Communications. She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. In her previous position at GSA, she managed web content, coordinated social media, and edited the Great Government through Technology blog. Before GSA, Katherine was web content manager at Homeland Security, law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from UVA and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
-
----
-
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
