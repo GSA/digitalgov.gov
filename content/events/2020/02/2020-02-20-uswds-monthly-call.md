@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: uswds-monthly-call
-title: "USWDS Monthly Call"
+title: "USWDS Monthly Call: Website Standard Panel Discussion"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions."
 host: "U.S. Web Design System"
@@ -41,7 +41,7 @@ youtube_id:
 
 {{< img-right src="uswds-logo" >}}
 
-For this month's U.S. Web Design System (USWDS) monthly call Dan Williams, product lead, will discuss the design system in greater detail. Time will be set aside for a live Q&A session between attendees and Dan.
+Join Dan Williams, USWDS Product Lead, and a cross-agency panel to discuss what it means for digital product teams to have a new website standard — what questions we have, and what challenges and opportunities the standard provides
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
