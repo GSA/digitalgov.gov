@@ -2,15 +2,17 @@
 
 We're so glad you're thinking about contributing to a U.S. Government open source project! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
-## How to contribute to digital.gov
+## How to contribute to this open source project
 Before contributing, we encourage you to read our CONTRIBUTING policy (you are here), our [LICENSE](LICENSE.md), and our [README](readme.md), all of which are at the root of this repository.
 
-- We want to ensure a welcoming environment for all of our projects. Our staff follows this [Code of Conduct](CODE_OF_CONDUCT.md) and all contributors should do the same.
+- We want to ensure a welcoming environment for all of our projects. Our team follows this [Code of Conduct](CODE_OF_CONDUCT.md) and all contributors should do the same.
 - Report bugs and request features via [Github Issues](https://github.com/GSA/digitalgov.gov/issues).
 - [Email us](mailto://digitalgov@gsa.gov) your ideas on how to improve digital.gov. We're always open to suggestions.
 - Create a [Github pull request](https://help.github.com/articles/creating-a-pull-request/) with new functionality or bug fix.
 - Improve or create documentation.
 - Help us improve our tests.
+
+Interested in contributing content to digital.gov? Checkout out our [Submission Guidelines](https://digital.gov/about/contribute/) to get started.
 
 ## Public domain
 
