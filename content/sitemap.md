@@ -1,8 +1,5 @@
 ---
-url: /sitemap/
-date: 2014-02-12 9:11:32 -0400
-title: Site Map
-authors:
-  - jeremyzilar
+date: 2020-02-04 12:00:00 -0500
+title: Digital.gov Sitemap
+redirectto: /sitemap.xml
 ---
-
