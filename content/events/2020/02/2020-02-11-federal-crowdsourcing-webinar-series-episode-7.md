@@ -4,7 +4,7 @@
 slug: federal-crowdsourcing-webinar-series-episode-7
 title: "Federal Crowdsourcing Webinar Series Episode 7: Crowdsourcing for Code"
 deck: ""
-summary: "Find out how the commercial information technology sector is helping the U.S. government to expand its repository—and application—of open-source code as part of Code.gov’s Open Tasks initiative."
+summary: "Find out how the Code.gov team, and every day contributors, are helping the U.S. government to expand its repository—and application—of open-source code as part of Code.gov’s Open Tasks initiative."
 host: "Federal Crowdsourcing"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/92368415417
@@ -47,7 +47,7 @@ Managed by the General Services Administration (GSA), Code.gov hosts an [Open Ta
 
 Join us to find out how the Consumer Financial Protection Bureau, GSA and the Defense, Energy, and Health and Human Services departments are crowdsourcing for code with more than 50 open tasks currently listed in the repo.
 
-**Amin Mehr** is the deputy director of Code.gov. His government work extends across federal agencies, including the Small Business Administration and the Department of Commerce. Now at the General Services Administration, he has consulted on a number of cross-agency digital and IT initiatives including the Small Business Innovation Research (SBIR) program, BusinessUSA (now retired), and Performance.gov, where he served as a member of the Performance Improvement Council and the Federal CIO Council in the Office of Government-wide Policy. He is a Fulbright Scholar with a B.S. degree in electrical engineering from the University of Virginia.
+**Amin Mehr** is co-product owner of Code.gov in the Office of Solutions within GSA's Technology Transformation Service. On the team, he works on a range of topics including strategy, product, outreach and customer experience to help agencies meet the objectives of the Federal Source Code Policy. Cross-agency collaboration is pivotal in ensuring that agencies are doing their best to build software in a smart and scalable manner. In his previous work at GSA, Amin served as former program director for Performance.gov alongside with his work on the CIO Council. He also has previously led teams at the Small Business Administration and the Department of Commerce on BusinessUSA, SBIR and a variety of other IT initiatives.
 
 **Related Links:**
 
