@@ -48,10 +48,11 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-- [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
+To be updated shortly
 
 ## Past Meetings
 
+- [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
 - [**December Special Event: Nicolas Chaillan**](https://digital.gov/event/2019/12/03/devops-holiday-special-event-nicolas-chaillan/)
 - [**November Special Event: Jez Humble: Building and Scaling High Performing Technology Organizations**](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)
 - [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
