@@ -48,7 +48,8 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-To be updated shortly
+- [**February Meeting: Moving From Agile Towards DevOps With a Small Team**](%28https://digital.gov/event/2020/02/25/moving-from-agile-towards-devops-with/%29)
+
 
 ## Past Meetings
 
