@@ -27,6 +27,8 @@ youtube_id:
 
 ---
 
+DAP has long given web managers the option to track YouTube embeds on their pages, but it’s not always used. We’ll show you how to turn YouTube video tracking on (it’s very easy!). We’ll also show how the data can be used to analyze how long people watch the videos on your pages.
+
 **Tim Lowden** manages the federal government's aggregated web analytics initiative, the Digital Analytics Program (DAP), at the General Services Administration. The DAP aims to help agencies better understand the public's interaction with the federal digital space, and records over 2.5 billion page views on more than 5,000 federal government websites each month. Much of this data is available to the public at analytics.usa.gov.
 
 Prior to his government service, he worked at the UN's International Labour Organization. He is a Returned Peace Corps Volunteer who served in Morocco from 2008 to 2010 and holds degrees from SUNY Buffalo and the George Washington University.
