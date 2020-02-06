@@ -21,6 +21,11 @@
       </div>
     </header>
 
+
+    {{ $resource_pages := where .Site.Pages "Section" "resources" }}
+    {{ partial "core/get_csv" (dict "array" $resource_pages) }}
+
+
     {{/* Popular Resources */}}
     <section class="usa-section" id="resources_featured">
       <div class="grid-container grid-container-desktop">

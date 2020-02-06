@@ -1,0 +1,6 @@
+.csv{
+	@include u-padding(4);
+	@include u-radius('md');
+	@include u-bg('base-lightest');
+	@include u-font('mono', '2xs');
+}

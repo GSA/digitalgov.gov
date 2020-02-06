@@ -1,0 +1,60 @@
+{{- with .array -}}
+<section>
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row">
+      <div class="grid-col-12">
+        <div class="csv">
+          "Title / Headline",
+          "Deck",
+          "Summary",
+          URL,
+          Source,
+          Source URL,
+          Date,
+          Authors,
+          Topics<br/>
+          {{ range . -}}
+            "{{ .Title -}}{{- with and .Params.source .Params.source_url -}}&nbsp;&#8599;{{- end -}}",
+            {{- with .Params.deck -}}
+              "{{- . -}}",
+            {{- else -}}
+              "",
+            {{- end -}}
+            {{- with .Params.summary -}}
+              "{{- . -}}",
+            {{- else -}}
+              "",
+            {{- end -}}
+            https://digital.gov{{- .Permalink | relURL -}},
+            {{- with .Params.source -}}
+              "{{- . -}}",
+            {{- else -}}
+              "",
+            {{- end -}}
+            {{- with .Params.source_url -}}
+              {{- . -}},
+            {{- else -}}
+              "",
+            {{- end -}}
+            {{- with .Date -}}
+              "{{- .Format "Jan _2, 2006" -}}",
+            {{- else -}}
+              "N/A",
+            {{- end -}}
+            {{- with .Params.authors -}}
+              "{{- delimit . ", " -}}",
+            {{- else -}}
+              "N/A",
+            {{- end -}}
+            {{- with .Params.topics -}}
+              "{{- delimit . ", " -}}"
+            {{- else -}}
+              "N/A"
+            {{- end -}}<br/>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{- end -}}
