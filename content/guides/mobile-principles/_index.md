@@ -1,7 +1,8 @@
 ---
 date: 2018-10-09 12:30:00 -0500
-title: 'Eight Principles of Mobile-Friendliness'
-summary: 'In order to help agencies comply with mobile website requirements, we will share a principle of mobile-friendliness each week for eight weeks&mdash;and how adhering to these principles can greatly improve their sites.'
+title: "The Guide to Mobile Websites"
+deck: "Guidance on making better mobile websites for the public."
+summary: "How to make better mobile websites for the public."
 guide: mobile-principles
 aliases:
   - /resources/mobile/principles/
@@ -12,7 +13,9 @@ The [Connected Government Act](https://digital.gov/resources/connected-governmen
 
 In order to help you comply, we decided it’s time to start reviewing good mobile web development practices. Over the next couple of months, we will share eight principles of mobile-friendliness (one each week)&mdash;and how adhering to these principles can greatly improve your site.
 
-We also need your critical thoughts, and comments, about these principles. Join the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) and let us know what you’re doing to work toward mobile-friendliness at your agency.
+{{< note >}}
+We need your critical thoughts, and comments around mobile guidance. Join the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) and let us know what you’re doing to work toward mobile-friendliness at your agency.
+{{< /note >}}
 
 Let’s get started!
 
@@ -24,4 +27,8 @@ Building on last year’s results, we are back at it again—but this time we ex
 
 {{< guide-toc >}}
 
-As a reminder, **check back each week for another principle** that we distilled from Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), and the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). We will provide a description of the issue, a method to detect the issue, and solutions to eliminate or prevent the issue from appearing your site to help make it more mobile-friendly.
+
+### Related resources:
+
+- Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool
+- [DigitalDashboard.gov](https://www.digitaldashboard.gov/)[Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites).
