@@ -1,3 +1,19 @@
+{{/*
+This  partial can be used in a template to render a CSV of pages.
+Useful when needing to do a content audit of a section, and pull that data into a spreadsheet.
+
+### How it works
+
+In local development, you'd have to:
+1. Generate an array of pages from a section
+2. pass that array into the partial
+
+Example:
+{{ $resource_pages := where .Site.Pages "Section" "resources" }}
+{{ partial "core/get_csv" (dict "array" $resource_pages) }}
+
+*/}}
+
 {{- with .array -}}
 <section>
   <div class="grid-container grid-container-desktop">
