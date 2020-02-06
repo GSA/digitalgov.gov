@@ -24,6 +24,9 @@
 	p:last-child{
 		@include u-margin-bottom(0);
 	}
+	div{
+		@include u-measure(5);
+	}
 }
 // For notes within list items
 li .note{
