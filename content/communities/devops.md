@@ -50,7 +50,6 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 - [**February Meeting: Moving From Agile Towards DevOps With a Small Team**](https://digital.gov/event/2020/02/25/moving-from-agile-towards-devops-with/)
 
-
 ## Past Meetings
 
 - [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
@@ -82,4 +81,4 @@ The DevOps CoP will meet on the fourth Tuesday of each month for 30 minutes. In 
 
 Community Co-Manager **Brian Fox** is currently a strategist with [18F](https://18f.gsa.gov/). Prior to working as a member of the 18F Strategy team, he led systems development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map. Brian has also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
 
-Community Co-Manager **Peter Burkholder** is a consulting engineer with [18F](https://18f.gsa.gov/), where he's also supported cloud.gov. Before 18F, Peter worked with Chef Software's enterprise customers to guide them on adoption of DevOps practices and infras tructure-as-code, and has held operations roles with health technology companies, NIH, NCAR and AARP.  He's also an organizer of the DevOpsDC MeetUp and the annual DevOpsDaysDC conference.
+Community Co-Manager **Peter Burkholder** is a consulting engineer with [18F](https://18f.gsa.gov/), where he's also supported cloud.gov. Before 18F, Peter worked with Chef Software's enterprise customers to guide them on adoption of DevOps practices and infras tructure-as-code, and has held operations roles with health technology companies, National Institutes of Health (NIH), National Center for Atmospheric Research (NCAR), and AARP.  He's also an organizer of the DevOpsDC MeetUp and the annual DevOpsDaysDC conference.
