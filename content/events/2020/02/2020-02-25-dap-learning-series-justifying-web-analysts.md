@@ -40,10 +40,10 @@ We'll address these questions and more in this DAP series webinar.
 ---
 
 **Related Links**:
--   [DAP Guide](https://digital.gov/guide/dap/)
--   [Github repo](https://github.com/digital-analytics-program/gov-wide-code)
--   [Analytics.usa.gov](https://analytics.usa.gov/)
--   [DAP Youtube Analytics Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
+- [DAP Guide](https://digital.gov/guide/dap/)
+- [Github repo](https://github.com/digital-analytics-program/gov-wide-code)
+- [Analytics.usa.gov](https://analytics.usa.gov/)
+- [DAP Youtube Analytics Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 
 ---
 
