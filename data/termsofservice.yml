@@ -568,7 +568,7 @@ termsofservice:
   - name          : Trello
     url           : https://trello.com
     description   : 'Collaborate & organize your projects into boards'
-    uri           : https://trello.com/amendment-to-trello-terms-of-service-applicable-to-government-users
+    uri           : https://www.atlassian.com/legal/government-amendment
     type          : web
     updated       :
     status        :
