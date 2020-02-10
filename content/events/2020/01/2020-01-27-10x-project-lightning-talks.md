@@ -1,9 +1,7 @@
 ---
 # View this page at https://digital.gov/event/2020/01/10x-project-lightning-talks
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: 10x-project-lightning-talks
-kicker: "Ideation"
 title: "10x Project Lightning Talks"
 deck: ""
 summary: "In this webinar, 10x project teams demonstrate their work to date and provide brief overviews of each project. Topics range from federating data to agile budgeting to machine learning, and our hope is that these talks will inspire others to submit ideas to 10x."
@@ -19,7 +17,7 @@ date: 2020-01-27 14:00:00 -0500
 end_date: 2020-01-27 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - agile
   - data
   - ai
@@ -27,17 +25,15 @@ topics:
   - cloud
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
   - nico-papafil
   - sarah-crane
   - will-cahoe
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
-
 # YouTube ID
-youtube_id:
+youtube_id: S5DO-R2iy54
 
+# Make it better ♥
 
 ---
 
