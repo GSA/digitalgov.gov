@@ -26,24 +26,26 @@ youtube_id:
 
 ---
 
-Creating and integrating an analytics function into any team or organization is challenging. We'll discuss:
--   How do I justify a web analyst role on my team?
--   How do I make the business case for this role to my leadership?
--   How many analysts do I need?
--   How should an analyst integrate into my team for the best results?
--   What hats would an analyst need to wear?
+Creating and integrating an analytics function into any team or organization is challenging. We'll discuss: 
 
-We'll address these questions and more in this DAP series webinar.
+- How do I justify a web analyst role on my team?
+- How do I make the business case for this role to my leadership?
+- How many analysts do I need?
+- How should an analyst integrate into my team for the best results?
+- What hats would an analyst need to wear?
 
-**Freddie Blicher** is a Google Analytics Consultant at MetroStar Systems, and supports the Digital Analytics Program as a DAP Analyst. He is also an instructor at General Assembly in Washington, DC teaching Google Analytics Intro and Bootcamp courses. He has experience in Google Analytics, Adobe Analytics, IBM Analytics and Webtrends and has worked with e-commerce, government and non-profit clients such as Hilton Worldwide, Audi USA, Macys.com, Marriott International, Ritz-Carlton, GSA DAP and others.
+We'll address these questions and more in this _DAP Learning Series_ webinar.
 
----
+## Speaker 
 
-**Related Links**:
-- [DAP Guide](https://digital.gov/guide/dap/)
-- [Github repo](https://github.com/digital-analytics-program/gov-wide-code)
-- [Analytics.usa.gov](https://analytics.usa.gov/)
-- [DAP Youtube Analytics Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
+**Freddie Blicher** is a Google Analytics Consultant at MetroStar Systems, and supports the Digital Analytics Program as a DAP Analyst. He is also an instructor, teaching Intro and Bootcamp courses on Google Analytics at General Assembly in Washington, DC. He has experience in Google Analytics, Adobe Analytics, IBM Analytics and Webtrends and has worked with e-commerce, government and non-profit clients such as Hilton Worldwide, Audi USA, Macys.com, Marriott International, Ritz-Carlton, GSA DAP, and others.
+
+## Related Links 
+
+- [DAP Guide](https://digital.gov/guide/dap/) 
+- [Github repo](https://github.com/digital-analytics-program/gov-wide-code) 
+- [Analytics.usa.gov](https://analytics.usa.gov/) 
+- [DAP Youtube Analytics Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
 
 ---
 
