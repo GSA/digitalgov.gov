@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/02/dap-learning-series-justifying-web-analysts
+# View this page at https://digital.gov/event/2020/03/dap-learning-series-justifying-web-analysts
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-justifying-web-analysts
 title: "DAP Learning Series: Justifying the Web Analyst's Role in your Organization"
@@ -11,10 +11,19 @@ registration_url: https://www.eventbrite.com/e/93157648033
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4341007&CustomerID=321
 
 # start date
-date: 2020-03-25 14:00:00 -0500
+date: 2020-03-25 15:00:00 -0500
 
 # end date
-end_date: 2020-03-25 15:00:00 -0500
+end_date: 2020-03-25 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - dap
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - freddie-blicher
+  - tlowden
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
