@@ -33,6 +33,8 @@ authors:
 # YouTube ID
 youtube_id: S5DO-R2iy54
 
+***[View the slides](digitalgov.gov/pdf/10x%20Project%20Lightning%20Talks.pdf)*** (PDF, 13MB, 56 pages)
+
 # Make it better ♥
 
 ---
