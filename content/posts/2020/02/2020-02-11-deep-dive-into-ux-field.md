@@ -4,7 +4,7 @@
 slug: deep-dive-into-ux-field
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xdXzg
 date: 2020-02-11 12:00:00 -0500
 kicker: "UX"
 title: "Deep Dive into the UX Field"
