@@ -8,7 +8,7 @@ short_url:
 date: 2020-02-11 12:00:00 -0500
 kicker: "UX"
 title: "Deep Dive into the UX Field"
-deck: "Interview with an Innovation Specialist"
+deck: "An interview with an Innovation Specialist at U.S. Department of the Interior’s Office of Natural Resources Revenue (ONRR)."
 summary: "There is a growing number of uses for user experience (UX) design, as well as a growing alphabet of UX-related careers; this series will offer some insight into the field by speaking with UX experts in government."
 
 # see all topics at https://digital.gov/topics
