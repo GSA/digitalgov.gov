@@ -19,7 +19,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - digitalgov-team
+  - ammie-farraj-feijoo
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
