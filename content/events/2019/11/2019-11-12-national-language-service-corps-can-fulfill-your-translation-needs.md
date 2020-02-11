@@ -12,7 +12,9 @@ end_date: 2019-11-12 14:00:00 -0500
 event_organizer: DigitalGov University
 host: Multilingual Community of Practice and Digital.gov
 youtube_id: j9WrjjQyOSk
-
+topics:
+  - multilingual
+  - agile
 ---
 
 _[View the slides](https://digital.gov/pdf/NLSC-DigitalGov-Language-Community-Capability.pdf)_ (PDF, 17.3 MB, 12 pages)
