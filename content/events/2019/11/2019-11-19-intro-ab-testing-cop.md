@@ -12,7 +12,12 @@ end_date: 2019-11-19 11:30:00 -0500
 event_organizer: DigitalGov University
 host: TTS Research Guild & Digital.gov
 youtube_id: fXHqrdOEbnI
-
+topics:
+  - A/B Testing
+  - analytics
+  - search engine optimization
+  - web analysis
+  - randomized control trials
 ---
 
 The Consumer Financial Protection Bureau (CFPB) has been running A/B tests for over four years, and we have learned a lot about when testing makes sense, how to work cross-team for the best results, how to run a successful test, and what it means when your test doesn’t get the results you expected. In this session, we would like to share knowledge with our new community of practice, as well as discuss what we as a group hope to get out of this community.  
