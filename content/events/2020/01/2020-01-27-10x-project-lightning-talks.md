@@ -33,8 +33,6 @@ authors:
 # YouTube ID
 youtube_id: S5DO-R2iy54
 
-***[View the slides](digitalgov.gov/pdf/10x%20Project%20Lightning%20Talks.pdf)*** (PDF, 13MB, 56 pages)
-
 # Make it better ♥
 
 ---
@@ -50,14 +48,16 @@ In a set of 5-minute presentations, the 10x project teams will outline:
  - Current project status
  - How to get in touch with projects and the 10x team
 
+[View the slides](https://digitalgov.gov/pdf/10x-Project-Lightning-Talks.pdf) (PDF, 13 MB, 56 pages)
+
  ---
 
-**Related links**:
+## Related Links
 
- - [The 10x website](https://10x.gsa.gov/)
- - [Tips for 10x submissions](https://10x.gsa.gov/send-us-an-idea/)
- - [Submit an idea to 10x](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP)
- - [Learn more about 10x projects](https://10x.gsa.gov/projects/)
+ - [The 10x website](https://10x.gsa.gov/) 
+ - [Tips for 10x submissions](https://10x.gsa.gov/send-us-an-idea/) 
+ - [Submit an idea to 10x](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP) 
+ - [Learn more about 10x projects](https://10x.gsa.gov/projects/) 
 
  ---
 
