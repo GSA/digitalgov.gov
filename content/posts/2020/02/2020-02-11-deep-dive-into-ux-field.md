@@ -22,7 +22,7 @@ authors:
   - stephanie-santana
 
 # primary Image (for social media)
-primary_image: "ux-nrrd-logo"
+primary_image: "ux-nrrd-fb"
 
 # Make it better ♥
 
