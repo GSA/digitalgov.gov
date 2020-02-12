@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/93333895193
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4341380&CustomerID=321
 
 # start date
-date: 2020-02-23 14:00:00 -0500
+date: 2020-04-23 14:00:00 -0500
 
 # end date
-end_date: 2020-02-23 17:00:00 -0500
+end_date: 2020-04-23 17:00:00 -0500
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
