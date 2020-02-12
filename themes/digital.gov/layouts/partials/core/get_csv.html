@@ -41,7 +41,7 @@ Example:
             {{- else -}}
               "",
             {{- end -}}
-            https://digital.gov{{- .Permalink -}},
+              {{- .Permalink | absURL -}},
             {{- with .Params.source -}}
               "{{- . -}}",
             {{- else -}}
