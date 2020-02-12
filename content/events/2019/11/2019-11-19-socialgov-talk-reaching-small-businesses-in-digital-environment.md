@@ -13,9 +13,9 @@ event_organizer: DigitalGov University
 host: SocialGov
 youtube_id: aR2feIr_1Ds
 topics:
-  - social media
-  - small business administration
- 
+  - social-media
+  - small-business-administration
+
 ---
 
 Join the digital experts at the U.S. Small Business Administration (SBA) to learn how they 
