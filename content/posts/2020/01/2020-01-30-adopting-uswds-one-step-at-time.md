@@ -97,7 +97,7 @@ Similarly, sites that use the design system follow similar rules to achieve diff
 
 USWDS empowers teams to work effectively and efficiently, focusing on their mission, and on high-value problems, not on foundational stuff like the border radius of buttons or how to build a responsive navigation.
 
-It ships with Section 508 accessibility and the mobile friendliness required by the Connected Government Act built into its principles, guidance, and code. This provides teams with a head start, so they just need to test their site is accessible and mobile-friendly versus starting from scratch.
+It ships with Section 508 accessibility and the mobile friendliness required by the [Connected Government Act](https://digital.gov/resources/connected-government-act/) built into its principles, guidance, and code. This provides teams with a head start, so they just need to test their site is accessible and mobile-friendly versus starting from scratch.
 
 Finally, USWDS is built to support a modern, iterative, and agile style of working. It's built to adapt to user needs, and to encourage rapid development and incremental adoption. In total, it's built to:
 
