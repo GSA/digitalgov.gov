@@ -36,4 +36,13 @@ You will need to have attended, or viewed the recording of Analytics Case Study 
 
 ---
 
+**Related Links:**
+
+ - [DAP Guide](https://digital.gov/guide/dap/)
+ - [Github repo](https://github.com/digital-analytics-program/gov-wide-code)
+ - [Analytics.usa.gov](https://analytics.usa.gov/)
+ - [DAP Youtube Analytics Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
+
+---
+
 *This talk is hosted by the federal government’s aggregated web analytics initiative, the [Digital Analytics Program](https://digital.gov/guide/dap/) (DAP). The DAP team offers implementation and reporting support as well as analytics training for users. In addition, data from the DAP is used to power the public-facing [analytics.usa.gov](https://analytics.usa.gov/). Reach out to the team with questions or access requests at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov).*
