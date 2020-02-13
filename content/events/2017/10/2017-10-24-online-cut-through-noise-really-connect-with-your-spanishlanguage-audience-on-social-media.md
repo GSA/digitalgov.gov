@@ -1,20 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2017/10/connect-with-your-spanishlanguage-audience-on
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: connect-with-your-spanishlanguage-audience-on-social-media
-title: 'Connect with your Spanish-language audience on Social Media'
-summary: 'This event will provide concrete tips and examples of how to reach more Spanish speakers needing and looking for government information through social media'
-event_type:
-  - online
-date: 2017-10-24 14:00:00 -0400
-end_date: 2017-10-24 15:00:00 -0400
-event_organizer: DigitalGov University
-host: Multilingual Community of Practice
+title: "Connect with your Spanish-language audience on Social Media"
+deck: ""
+summary: "This event will provide concrete tips and examples of how to reach more Spanish speakers needing and looking for government information through social media"
+host: "Multilingual Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/cut-through-the-noise-connect-with-your-spanish-language-audience-on-social-media-registration-38668014071
-youtube_id: rXYUcCDkF9I
-aliases:
-  - /event/connect-with-your-spanishlanguage-audience-on-social-media/
-topics:
+captions: 
+
+# start date
+date: 2017-10-24 14:00:00 -0500
+
+# end date
+end_date: 2017-10-24 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - social-media
   - multilingual
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - lgodfrey
+  - lmartinez
+  - edgardo-morales
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: youtube_live
+
+# YouTube ID
+youtube_id: rXYUcCDkF9I
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/connect-with-your-spanishlanguage-audience-on-social-media/
+
+# Make it better ♥
 
 ---
 
