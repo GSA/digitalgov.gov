@@ -1,33 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2017/12/workshop-making-government-websites-with-github
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: workshop-making-government-websites-with-github-federalist-us-web-design-standards
-title: 'Workshop: Making Government Websites with GitHub, Federalist & U.S. Web Design Standards'
-summary: 'Come learn how to create a simple, compliant government website, using Federalist, GitHub and the U&#46;S&#46; Web Design Standards&#46;'
-event_type:
-  - youtube-live
-  - in-person
-date: 2017-12-12 09:00:00 -0400
-end_date: 2017-12-12 12:00:00 -0400
-event_organizer: Federalist
-host: Will Slack
+title: "Workshop: Making Government Websites with GitHub, Federalist & U.S. Web Design Standards"
+deck: ""
+summary: "Come learn how to create a simple, compliant government website, using Federalist, GitHub and the U.S. Web Design Standards."
+host: "Will Slack"
+event_organizer: "Federalist"
 registration_url: https://www.eventbrite.com/e/workshop-making-government-websites-with-federalist-github-basics-registration-39457265744
-youtube_id: qeFNf2EPzpE
-venue:
-  venue_name: U.S. General Services Administration
-  room: 1425
-  address: 1800 F Street NW
-  city: Washington
-  state: D.C.
-  zip: 20405
-  country: USA
-  map: https://goo.gl/maps/bFWBD6QfDLA2
-aliases:
-  - /event/workshop-making-government-websites-with-github-federalist-us-web-design-standards
-topics:
+captions: 
+
+# start date
+date: 2017-12-12 8:00:00 -0500
+
+# end date
+end_date: 2017-12-12 11:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - code
   - design
   - uswds
-  - draft-web-design-standards
   - open-source
+  - draft-web-design-standards
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - will-slack
+  - david-warren
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: youtube_live
+
+# YouTube ID
+youtube_id: qeFNf2EPzpE
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/workshop-making-government-websites-with-github-federalist-us-web-design-standards
+
+# Make it better ♥
 
 ---
 
