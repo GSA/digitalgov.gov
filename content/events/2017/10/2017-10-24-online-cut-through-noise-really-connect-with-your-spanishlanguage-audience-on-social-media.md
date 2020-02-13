@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2017/10/connect-with-your-spanishlanguage-audience-on
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: connect-with-your-spanishlanguage-audience-on-social-media
-title: "Connect with your Spanish-language audience on Social Media"
+title: "Connect With Your Spanish-Language Audience on Social Media"
 deck: ""
 summary: "This event will provide concrete tips and examples of how to reach more Spanish speakers needing and looking for government information through social media"
 host: "Multilingual Community of Practice"
@@ -18,8 +18,8 @@ end_date: 2017-10-24 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - social-media
   - multilingual
+  - social-media
 
 # see all authors at https://digital.gov/authors
 authors: 
