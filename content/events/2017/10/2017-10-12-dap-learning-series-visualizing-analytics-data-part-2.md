@@ -20,6 +20,7 @@ end_date: 2017-10-12 15:00:00 -0500
 topics: 
   - analytics
   - dap
+  - data
   - digital-analytics-program
   - metrics
 
