@@ -58,9 +58,9 @@ primary_image: "mobilegov-event"
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
-<li>MobileGov Community (https://digital.gov/communities/mobile/)
-<li>Federal CrowdSource Mobile Testing Program (https://digital.gov/services/mobile-application-testing-program/)
+aliases:
+- [MobileGov Community](https://digital.gov/communities/mobile/)
+- [Federal CrowdSource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/)
 
 # Make it better ♥
 ---
