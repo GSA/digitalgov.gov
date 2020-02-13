@@ -1,0 +1,31 @@
+---
+# View this page at https://digital.gov/2020/02/13/even-with-a-design-system-you
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# originally published at the following URL
+source_url: "https://18f.gsa.gov/2020/02/06/even-with-a-design-system-you-still-need-a-designer/"
+
+# Which team published this?
+# Learn about sources at https://workflow.digital.gov/sources
+source: 18f
+slug: even-with-a-design-system-you
+
+# Short URL — https://go.usa.gov/
+short_url: 
+date: 2020-02-13 16:00:00 -0500
+title: "Even with a design system, you still need a designer"
+deck: "The US Web Design System gives flexibility so teams can build the right solution for users, but there are still plenty of design decisions that teams need to make to be successful."
+summary: ""
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - design
+  - product-management
+  - uswds
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - jeremyzilar
+
+# Make it better ♥
+---
