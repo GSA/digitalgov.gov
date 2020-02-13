@@ -21,6 +21,7 @@ topics:
   - analytics
   - dap
   - digital-analytics-program
+  - metrics
 
 # see all authors at https://digital.gov/authors
 authors: 
