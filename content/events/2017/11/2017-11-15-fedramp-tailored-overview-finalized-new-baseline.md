@@ -38,4 +38,6 @@ aliases:
 
 ---
 
-An introduction to the newly released security baseline, FedRAMP Tailored, which is designed for Cloud Service Providers (CSPs) with Low-Impact Software- as-a-Service (LI-SaaS) Systems. The webinar will address what FedRAMP Tailored is, how it was developed, how the finalized version differs from draft versions released for public comment, and other useful information geared toward CSPs, agencies, and 3PAOs. Discussion also address how to begin a FedRAMP Tailored authorization.
+An introduction to the newly released security baseline, FedRAMP Tailored, which is designed for Cloud Service Providers (CSPs) with Low-Impact Software- as-a-Service (LI-SaaS) Systems. 
+
+The webinar addresses what FedRAMP Tailored is, how it was developed, how the finalized version differs from draft versions released for public comment, and other useful information geared toward CSPs, agencies, and 3PAOs. Discussion also covers how to begin a FedRAMP Tailored authorization.
