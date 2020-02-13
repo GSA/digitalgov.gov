@@ -20,7 +20,6 @@ end_date: 2018-01-26 12:30:00 -0500
 topics: 
   - design
   - uswds
-  - draft-web-design-standards
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -58,6 +57,5 @@ Join us to hear from the team and ask questions.
 - John Donmoyer
 - Dan Williams
 
-This call will be help over Zoom. Link will be provided upon registration.
 
 _This talk is open to federal employees who work on digital projects that could use the Web Design Standards._
