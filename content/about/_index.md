@@ -1,10 +1,7 @@
 ---
-date: 2017-11-14 12:05:00 -0400
-title: 'Welcome to Digital.gov'
-deck: 'We help the government community deliver better digital services.'
-summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
-aliases:
-  - /contact-us/
+title: "Welcome to Digital.gov"
+deck: "We help the government community deliver better digital services."
+summary: "Welcome to Digital.gov. Learn more about what we&#39;re working on"
 
 ---
 
@@ -15,7 +12,7 @@ And we do that by providing people in the federal government with the tools, met
 
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
-
+{{< box >}}
 ## Our Guiding Principlies
 
 ### 1. Elevate digital literacy and understanding
@@ -41,43 +38,24 @@ Everything we do is informed by what our audience needs. We apply multiple metho
 ### 6. Work in the open
 
 We do all of our work in the open and strive to organize our work in ways that allow others to participate.
+{{< /box >}}
 
-We’ve found that agencies need:
 
-- Guidance on implementing digital policies and initiatives
-- Open access to modern methods, practices, policies, and tools
-- Focused trainings and events that help teams learn and adopt new concepts
-- Easy access to collaborate with others across government who are working on the same problems
+**What our readers need:**
 
-## What We Are Working On
+- Tools and Resources
+- Examples of problems being solved in government
+- Collaboration
 
-Over the last decade, DigitalGov has become a destination in government to learn about the methods, practices, policies and tools that are needed to create effective digital services.
+Learn more about [what our readers need »]({{< ref "/about/contribute.md#what-our-readers-need">}})
 
-And we believe DigitalGov should set the example for how government learns, builds, delivers and measures digital services in the 21st century.
-
-We are building DigitalGov into a destination that practices the methods that it teaches, and along the way, we are going to tell the story of how we get there, using the very tools that are available in the open, across the government.
-
-- [DigitalGov on GitHub](https://github.com/GSA/digitalgov.gov)
-- [Follow us on Twitter](https://twitter.com/digital_gov/)
-- [Join our Facebook page](https://www.facebook.com/DigitalGov)
-- [Subscribe to our newsletter]({{< ref "/about/subscribe.md" >}})
-- [Join a community of practice]({{< ref "/communities/_index.md" >}})
-- Reach out, [send us an email](mailto:digitalgov@gsa.gov)
 
 ## Our Team
-We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in the federal government and have a wealth of experience creating modern digital services.
+We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
 
-**Digital.gov:** Jeremy Zilar, Toni Bonitto <br/>
+**Digital.gov:** Sara Cope, Jeremy Zilar, Toni Bonitto <br/>
 **Communities:** Jacob Parcell <br/>
 **Video and Events:** Alexandar Schulte, Gabrielle Fratanduono <br/>
-**U.S. Web Design System:** Dan Williams, Sara Cope <br/>
+**U.S. Web Design System:** Dan Williams <br/>
 
-## Contact Us
-
-For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
-
-**Have a question or comment?**
-
-- [Send us an email »](mailto:digitalgov@gsa.gov)
-- [Create an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
-- Or make an edit to our pages
+{{< button href="{{< ref '/about/contact.md'>}}" text="Contact Us" >}}
