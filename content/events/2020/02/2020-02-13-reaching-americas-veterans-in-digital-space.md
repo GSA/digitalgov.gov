@@ -30,6 +30,8 @@ youtube_id: HZljlUjJBmc
 
 Hear from the experts at the Department of Veterans Affairs about how they reach and engage with America’s veterans through digital platforms. They cover video, social media, email, text, and more.
 
+## Speakers 
+
 **Jason Davis** served five years with the Army’s 101st Airborne, including two combat tours to Iraq in support of Operation Iraqi Freedom. After leaving service, he earned a BA in Literary Journalism from the University of California at Irvine, and an MA in Writing (nonfiction) from Johns Hopkins University. Jason was an editor and photographer under the Motor Trend umbrella prior to running VBA’s social media from 2013-2019. Jason moved up the street to VA’s Digital Media Engagement team in June 2019.
 
 **Tanner Iskra** is the host of the VA’s podcast, “Borne the Battle.” He is a United States Marine Corps Veteran who served as an intel analyst in OIF III and later as a combat videographer/photographer. During his military career he deployed to OIF III as well as Romania, Latvia, Bulgaria, Germany, France, Spain as part of the Black Sea Rotational Force. After leaving active duty, Tanner was a Senior Post Production Editor with NASCAR Productions. Tanner is a graduate of the Cronkite School of Journalism at Arizona State University with a Bachelor of Arts in Mass Communication and Media Studies and holds a Certificate in Military Motion Media from the Newhouse School of Journalism at Syracuse University. Joining the Department of Veteran’s Affairs in October 2018, Tanner is a video producer with the Digital Media Engagement team focusing on producing, editing and shooting content that tells the Veteran’s story.
