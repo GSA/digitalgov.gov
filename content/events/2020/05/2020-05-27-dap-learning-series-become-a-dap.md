@@ -20,6 +20,14 @@ end_date: 2020-05-27 14:00:00 -0500
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
 
+# see all topics at https://digital.gov/topics
+topics:
+  - metrics
+  - ux
+  - analytics
+  - dap
+  - digital-analytics-program
+
 # see all authors at https://digital.gov/authors
 authors:
   - tlowden
@@ -37,9 +45,11 @@ During this webinar, we'll discuss the Digital Analytics Program’s Certified A
 
 **Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), at the General Services Administration (GSA) where he oversees training and support for over 3,000 users. Annually, more than 1000 attendees learn about various web analytics topics in DAP webinars, half-day virtual seminars, and on-site workshops.
 
+---
+
 **[The Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})** (DAP) helps agencies better understand the public's interaction with the federal digital space, and records over 2.5 billion pageviews on more than 5,000 federal government websites each month. Much of these data are available to the public at [analytics.usa.gov](https://analytics.usa.gov).
 
-- [Guide to DAP](https://digital.gov/guide/dap/)
+- [Guide to DAP]({{< ref "/guides/dap/_index.md" >}})
 - [The DAP video library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Analytics.usa.gov](https://analytics.usa.gov/)
 - [DAP on Github](https://github.com/digital-analytics-program/gov-wide-code)
