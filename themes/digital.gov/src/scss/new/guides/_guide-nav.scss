@@ -81,7 +81,7 @@
 					@include u-width('105');
 					@include u-height(2);
 					@include u-display('inline-block');
-					background-image: url('../lib/uswds/img/angle-arrow-right-black.svg');
+					background-image: url('../uswds/img/angle-arrow-right-black.svg');
 					background-size: .49rem;
 					background-repeat: no-repeat;
 					background-position: center bottom;
@@ -89,7 +89,7 @@
 			}
 			.usa-current{
 				.arrow-right{
-					background-image: url('../lib/uswds/img/angle-arrow-right-white.svg');
+					background-image: url('../uswds/img/angle-arrow-right-white.svg');
 				}
 			}
 
