@@ -1,23 +1,44 @@
 ---
+# View this page at https://digital.gov/event/2018/01/us-web-design-standards-monthly-users
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: us-web-design-standards-monthly-users-call
-title: 'U.S. Web Design Standards Monthly Users Call'
-summary: 'In our next monthly users call, the U&#46;S&#46; Web Design Standards core team will share what they’re working on in 2018&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - online
-date: 2018-01-26 13:00:00 -0400
-end_date: 2018-01-26 13:30:00 -0400
-event_organizer: DigitalGov University
-host: USWDS
+title: "U.S. Web Design Standards Monthly Users Call"
+deck: ""
+summary: "In our next monthly users call, the U.S. Web Design Standards core team will share what they’re working on in 2018."
+host: "USWDS"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/january-us-web-design-standards-users-call-tickets-42250600684
-aliases:
-  - /event/us-web-design-standards-monthly-users-call/
-topics:
+captions: 
+
+# start date
+date: 2018-01-26 12:00:00 -0500
+
+# end date
+end_date: 2018-01-26 12:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - design
   - uswds
   - draft-web-design-standards
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dan-williams
+  - maya-benari
+  - john-donmoyer
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
+# YouTube ID
+youtube_id: 
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/us-web-design-standards-monthly-users-call/
+
+# Make it better ♥
 
 ---
 
@@ -37,6 +58,5 @@ Join us to hear from the team and ask questions.
 - John Donmoyer
 - Dan Williams
 
-This call will be help over Zoom. Link will be provided upon registration.
 
 _This talk is open to federal employees who work on digital projects that could use the Web Design Standards._
