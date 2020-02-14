@@ -11,19 +11,18 @@ USWDS SASS GULPFILE
 ----------------------------------------
 */
 
-var autoprefixer  = require('autoprefixer');
-var autoprefixerOptions = require('../../node_modules/uswds-gulp/config/browsers');
-var cssnano       = require('cssnano');
-var gulp          = require('gulp');
-var mqpacker      = require('css-mqpacker');
-var path          = require('path');
-var pkg           = require('../../node_modules/uswds/package.json');
-var postcss       = require('gulp-postcss');
-var rename        = require('gulp-rename');
-var replace       = require('gulp-replace');
-var sass          = require('gulp-sass');
-var sourcemaps    = require('gulp-sourcemaps');
-var uswds         = require('../../node_modules/uswds-gulp/config/uswds');
+const autoprefixer = require("autoprefixer");
+const autoprefixerOptions = require("../../node_modules/uswds-gulp/config/browsers");
+const csso = require("postcss-csso");
+const gulp = require("gulp");
+const pkg = require("../../node_modules/uswds/package.json");
+const postcss = require("gulp-postcss");
+const replace = require("gulp-replace");
+const sass = require("gulp-sass");
+const sourcemaps = require("gulp-sourcemaps");
+const uswds = require("../../node_modules/uswds-gulp/config/uswds");
+
+sass.compiler = require("sass");
 
 /*
 ----------------------------------------
@@ -92,22 +91,22 @@ gulp.task('build-sass', function(done) {
   var plugins = [
     // Autoprefix
     autoprefixer(autoprefixerOptions),
-    // Pack media queries
-    mqpacker({ sort: true }),
     // Minify
-    cssnano(({ autoprefixer: { browsers: autoprefixerOptions }}))
+    csso({ forceMediaMerge: true })
   ];
   return gulp.src([
       `${PROJECT_SASS_SRC}/**/*.scss`
     ])
     .pipe(sourcemaps.init({ largeFile: true }))
-    .pipe(sass({
+    .pipe(
+      sass.sync({
         includePaths: [
           `${PROJECT_SASS_SRC}`,
           `${uswds}/scss`,
-          `${uswds}/scss/packages`,
+          `${uswds}/scss/packages`
         ]
-      }))
+      })
+    )
     .pipe(replace(
       /\buswds @version\b/g,
       'based on uswds v' + pkg.version
