@@ -60,3 +60,27 @@ To run a web accessibility test on digital.gov do the following:
 *Note*: Currently, this only runs accessiblity checks on the site home page as a Proof of Concept demonstration.
 
 Accessibility testing configuration is located in the .pa11yci file.
+
+
+## Common Regex scripts
+
+### convert legacy-img to standard img
+
+```
+{{< legacy-img src="/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"( alt=".+?")* >}}
+```
+```
+{{< img src="$1"$2 >}}
+```
+
+### convert CDN links
+```
+{{< legacy-img src="/(\d{4,4})
+{{< legacy-img src="$1
+```
+
+### replace `url` with `slug` in posts
+```
+^url: .+/([^/]+)\.md
+slug: $1
+```
