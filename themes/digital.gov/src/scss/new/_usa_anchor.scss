@@ -114,7 +114,7 @@
     @include u-font('sans', '2xs');
     @include at-media('tablet') {
       @include u-margin-top(0);
-      @include u-margin-left(2)
+      @include u-margin-left(2);
       @include u-padding-y(1);
       @include u-float('right');
       @include u-font('sans', 'xs');
