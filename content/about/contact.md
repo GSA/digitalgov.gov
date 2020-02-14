@@ -37,8 +37,8 @@ Have someone to add? Email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 **10x**<br/>
 [10x](https://10x.gsa.gov/) is the office of investments for TTS, which provides funding for new technology projects or products across government.
 
--   Agency: GSA / TTS
--   Contact: Nico Papafil [10x@gsa.gov](mailto:10x@gsa.gov)
+-   <i class="far fa-building"></i> GSA / TTS
+-   <i class="far fa-user"></i> Nico Papafil [10x@gsa.gov](mailto:10x@gsa.gov)
 
 **21st Century IDEA**<br/>
 [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/), otherwise known as 21st Century IDEA, aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites. It requires agencies to comply with TTS’ [website standards](https://designsystem.digital.gov/website-standards/).
