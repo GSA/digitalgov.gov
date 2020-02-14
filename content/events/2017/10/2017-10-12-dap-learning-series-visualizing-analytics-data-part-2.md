@@ -1,20 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2017/10/dap-learning-series-visualizing-analytics
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: online-dap-learning-series-visualizing-analytics-data-part-2
-title: 'DAP Learning Series – Visualizing Analytics Data Part 2'
-summary: 'In this online event, we&#39;ll discuss how to use tools that are designed to import data and visualize it without report exports&#46;'
-event_type:
-  - online
-date: 2017-10-12 14:00:00 -0400
-end_date: 2017-10-12 15:00:00 -0400
-event_organizer: DigitalGov University
-host: Digital Analytics Program (DAP)
+title: "DAP Learning Series – Visualizing Analytics Data Part 2"
+deck: ""
+summary: "In this online event, we'll discuss how to use tools that are designed to import data and visualize it without report exports."
+host: "Digital Analytics Program (DAP)"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/online-dap-learning-series-visualizing-analytics-data-part-2-registration-37759883829
-youtube_id: TQ2CXlEY3qw
-topics:
+captions: 
+
+# start date
+date: 2017-10-12 14:00:00 -0500
+
+# end date
+end_date: 2017-10-12 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - analytics
+  - dap
+  - data
   - digital-analytics-program
-aliases:
+  - metrics
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - freddie-blicher
+  - tlowden
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
+# YouTube ID
+youtube_id: TQ2CXlEY3qw
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
   - /event/online-dap-learning-series-visualizing-analytics-data-part-2/
+
+# Make it better ♥
 ---
 
 ## About the training
