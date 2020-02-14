@@ -59,5 +59,5 @@ We'll walk through step by step, how to think about taking actions based on data
 - [Guide to DAP]({{< ref "/guides/dap/_index.md" >}})
 - [The DAP video library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Analytics.usa.gov](https://analytics.usa.gov/)
-- [DAP on Github](https://github.com/digital-analytics-program/gov-wide-code)
+- [DAP on GitHub](https://github.com/digital-analytics-program/gov-wide-code)
 - Questions? Email the DAP team at  [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov).
