@@ -38,6 +38,11 @@ _see https://gohugo.io/getting-started/installing/ for other OSs_
 2. _wait 5-6 secs_
 3. visit http://localhost:1313/
 
+**Other helpful HUGO commands:**
+
+- `hugo serve --templateMetricsHints` — for seeing where you can apply caching in templates and speed up the build time
+[See more »](https://gohugo.io/commands/hugo/)
+
 
 ## Accessibility tests
 
