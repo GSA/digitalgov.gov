@@ -6,7 +6,7 @@
       <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <div class="grid-row">
           <div class="grid-col-12">
-            <p class="breadcrumb"><a href="{{- "posts/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Latest News</span> </a></p>
+            <p class="breadcrumb"><a href="{{- "news" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Latest News</span> </a></p>
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
             {{- end -}}

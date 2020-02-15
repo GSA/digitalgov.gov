@@ -85,7 +85,7 @@ params:
 refLinksNotFoundURL: https://digital.gov/resources/
 
 permalinks:
-  posts                 : ":year/:month/:day/:slug/"
+  news                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
 
 # Related Posts Config

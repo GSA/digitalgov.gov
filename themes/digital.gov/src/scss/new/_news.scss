@@ -1,6 +1,6 @@
 // Homepage — https://digital.gov/
 .home, .topics.taxonomy{
-  #posts_featured{
+  #news_featured{
     .paper{
       @include u-padding-y(1);
       @include at-media('tablet') {
@@ -8,7 +8,7 @@
       }
       @include u-bg('gray-warm-5');
     }
-    header.header-posts{
+    header.header-news{
       @include u-padding-y(2);
       h2{
         @include u-font('sans', 'xl');
@@ -29,15 +29,15 @@
   }
 }
 
-// All posts page — https://digital.gov/posts/
-.posts.section{
+// All news page — https://digital.gov/news/
+.news.section{
   .paper{
     @include u-bg('gray-warm-5');
   }
 }
 
 // header styles that apply to both places
-header.header-posts{
+header.header-news{
   @include u-padding-bottom(2);
   @include u-text('indigo-warm-80');
   h1, h2{

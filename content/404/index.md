@@ -14,6 +14,6 @@ authors:
 
 * Go back to the [homepage](https://digital.gov/).
 * [Search](http://find.digitalgov.gov/search?affiliate=digitalgov) for the page.
-* View our [latest news]({{< ref "/posts/_index.md">}}).
+* View our [latest news]({{< ref "/news/_index.md">}}).
 * Explore our [guides and resources]({{< ref "/resources/_index.md">}}).
 * Send us an email and [let us know this page is missing](mailto:digitalgov@gsa.gov).

@@ -41,7 +41,7 @@
           {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
           {{/* Gets the recent blog posts */}}
-          {{- $posts := where .Pages "Section" "posts" -}}
+          {{- $posts := where .Pages "Section" "news" -}}
 
           {{/* Merges the past events and the recent blog posts */}}
           {{ $stream := union $posts $past_events }}
@@ -57,18 +57,18 @@
                 {{- .Render "card-event-past" -}}
               {{- end -}}
 
-              {{- if eq .Type "posts" -}}
+              {{- if eq .Type "news" -}}
                 {{/* External links */}}
                 {{- if .Params.source -}}
-                  {{/* see /layouts/posts/ for card templates */}}
+                  {{/* see /layouts/news/ for card templates */}}
                   {{ .Render "card-elsewhere"}}
                 {{ else }}
                   {{/* Blog Posts — Internal links */}}
                   {{- if .Params.deck }}
-                    {{/* see /layouts/posts/ for card templates */}}
+                    {{/* see /layouts/news/ for card templates */}}
                     {{ .Render "card-article"}}
                   {{ else }}
-                    {{/* see /layouts/posts/ for card templates */}}
+                    {{/* see /layouts/news/ for card templates */}}
                     {{ .Render "card-article"}}
                   {{ end }}
                 {{ end }}
