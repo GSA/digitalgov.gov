@@ -1,6 +1,5 @@
 ---
-date: 2017-11-14 12:05:00 -0400
-title: 'Welcome to Digital.gov'
+title: "Welcome to Digital.gov"
 deck: 'We help the government community deliver better digital services.'
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
 aliases:
