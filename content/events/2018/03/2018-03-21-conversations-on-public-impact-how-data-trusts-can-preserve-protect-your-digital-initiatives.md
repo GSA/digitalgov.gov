@@ -1,24 +1,44 @@
 ---
+# View this page at https://digital.gov/event/2018/03/21/conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives/
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives
-title: 'Conversations on Public Impact&#58; How data trusts can preserve and protect your digital initiatives'
-summary: 'The Ethics Working Group in GSA&#39;s Technology Transformation Service hosts a presentation about data trusts; a legal structure designed to manage data, code, and other digital assets.'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-03-21 14:00:00 -0500
-end_date: 2018-03-21 15:00:00 -0500
-event_organizer: DigitalGov University
-host:
+title: "Conversations on Public Impact: How data trusts can preserve and protect your digital initiatives"
+deck: ""
+summary: "The Ethics Working Group in GSA's Technology Transformation Service hosts a presentation about data trusts; a legal structure designed to manage data, code, and other digital assets."
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/conversations-on-public-impact-how-data-trusts-can-preserve-and-protect-your-digital-initiatives-registration-43860732632
-youtube_id: ClRIrOw04XI
-aliases:
-  - /event/conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives/
+captions:
+
+# start date
+date: 2018-03-21 15:00:00 -0500
+
+# end date
+end_date: 2018-03-21 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
 topics:
   - code
-  - product-management
   - data
+  - product-management
+  - security
+
+# see all authors at https://digital.gov/authors
+authors:
+  - jeremyzilar
+
+# YouTube ID
+youtube_id: ClRIrOw04XI
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /event/conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives/
+
+# Make it better ♥
+
+---
+
   - security
 
 ---
