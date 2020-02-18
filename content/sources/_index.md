@@ -1,6 +1,4 @@
 ---
-head: 'Source'
+title: "Sources"
 summary: ''
-path: 'https://digital.gov/'
-icon: 'icon-url'
 ---
