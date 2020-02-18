@@ -12,7 +12,7 @@ personas:
 
 ### Steps to take
 
-- Work with your front end designer to identify the [basic landmark elements](https://dequeuniversity.com/assets/html/jquery-summit/html5/slides/landmarks.html) in your wireframes, particularly for complex layouts. Landmark elements are identified either through HTML5 semantic markers or through ARIA roles when HTML can’t identify something. You don’t need to be an expert on HTML or ARIA, as long as you know the basics.
+- Work with your front end designer to identify the [basic landmark elements](https://www.w3.org/TR/wai-aria-practices/examples/landmarks/HTML5.html) in your wireframes, particularly for complex layouts. Landmark elements are identified either through HTML5 semantic markers or through ARIA roles when HTML can’t identify something. You don’t need to be an expert on HTML or ARIA, as long as you know the basics.
   - header
   - nav
   - main
