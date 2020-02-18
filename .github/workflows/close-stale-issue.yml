@@ -1,0 +1,24 @@
+name: Mark stale issues and pull requests
+
+# Run every Friday at midnight
+on:
+  schedule:
+  - cron: "0 0 * * FRI"
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/stale@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'Hello! 👋 It looks like this issue is stale because it has been open 60 days with no activity. This is usually because the request was already solved or it is no longer applicable. If this issue should remain open, remove the stale label or add a comment. Otherwise, this will be closed in 7 days.'
+        stale-pr-message: 'Hello! 👋 It looks like this pull request is stale because it has been open 60 days with no activity. This is usually because the request was already solved or it is no longer applicable. If this pull request should remain open, remove the stale label or add a comment. Otherwise, this will be closed in 7 days.'
+        days-before-stale: 60
+        days-before-close: 7
+        stale-issue-label: '[status] stale'
+        exempt-issue-label: '---- HOLD ----'
+        stale-pr-label: '[status] stale'
+        exempt-pr-label: '---- HOLD ----'
