@@ -1,6 +1,7 @@
 ---
-# View this page at https://digital.gov/event/2018/03/conversations-on-public-impact-how-data
+# View this page at https://digital.gov/event/2018/03/21/conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives/
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives
 title: "Conversations on Public Impact: How data trusts can preserve and protect your digital initiatives"
 deck: ""
@@ -8,7 +9,7 @@ summary: "The Ethics Working Group in GSA's Technology Transformation Service ho
 host: ""
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/conversations-on-public-impact-how-data-trusts-can-preserve-and-protect-your-digital-initiatives-registration-43860732632
-captions: 
+captions:
 
 # start date
 date: 2018-03-21 15:00:00 -0500
@@ -17,21 +18,21 @@ date: 2018-03-21 15:00:00 -0500
 end_date: 2018-03-21 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - code
   - data
   - product-management
   - security
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jeremyzilar
 
 # YouTube ID
 youtube_id: ClRIrOw04XI
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /event/conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives/
 
 # Make it better ♥
@@ -39,7 +40,7 @@ aliases:
 ---
 
   - security
-  
+
 ---
 
 Please join the ethics working group in GSA's Technology Transformation Service as they host a presentation about data trusts&mdash;a legal structure designed to manage data, code, and other digital assets.
