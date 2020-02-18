@@ -1,4 +1,4 @@
-name: Mark stale issues and pull requests
+name: "Mark stale issues and pull requests"
 
 # Run every Friday at midnight
 on:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   stale:
-
+    
     runs-on: ubuntu-latest
 
     steps:
