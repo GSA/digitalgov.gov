@@ -39,12 +39,12 @@ youtube_id:
 
 At the end of the day, we aren’t just here to make technology work—we’re here to serve people. This is especially true when working on systems like healthcare and financial assistance programs that directly, and often unproportionally, impact underrepresented and vulnerable people.
 
-Over the last year and a half, Amy Ashida of 18F has been working with the [State of Vermont’s Integrated Eligibility and Enrollment initiative](https://legislature.vermont.gov/Documents/2020/WorkGroups/Senate%20Appropriations/Presentations/W~Agency%20of%20Human%20Services~Integrated%20Eligibility%20and%20Enrolllment~1-16-2019.pdf) to develop an in-house user research practice. She’ll share recruiting and facilitation methods that helped get in-house research up and running, as well as lessons learned around recognizing and mitigating bias. Agencies looking to develop or grow their own user research practices will walk away with actionable steps to apply to their own research.
+Over the last year and a half, Amy Ashida of 18F has been working with the [State of Vermont’s Integrated Eligibility and Enrollment initiative (PDF, 6.7 MB, 47 pages)](https://legislature.vermont.gov/Documents/2020/WorkGroups/Senate%20Appropriations/Presentations/W~Agency%20of%20Human%20Services~Integrated%20Eligibility%20and%20Enrolllment~1-16-2019.pdf) to develop an in-house user research practice. She’ll share recruiting and facilitation methods that helped get in-house research up and running, as well as lessons learned around recognizing and mitigating bias. Agencies looking to develop or grow their own user research practices will walk away with actionable steps to apply to their own research.
 
 ## Speaker
 
-Amy Ashida is a service designer passionate about finding ways to align people, processes, and technology for public good. She has a background in digital product design and joined [18F](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/18F), an office within the [Technology Transformation Services](https://www.gsa.gov/tts/) (TTS) at the U.S. General Services Administration, in 2018. Amy has over a decade of experience working with states and federal agencies, tech companies, news organizations, and nonprofits.
+**Amy Ashida** is a service designer passionate about finding ways to align people, processes, and technology for public good. She has a background in digital product design and joined [18F](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/18F), an office within the [Technology Transformation Services](https://www.gsa.gov/tts/) (TTS) at the U.S. General Services Administration, in 2018. Amy has over a decade of experience working with states and federal agencies, tech companies, news organizations, and nonprofits.
 
 ---
 
-*This talk is hosted by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) and Digital.gov.*
+_This talk is hosted by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) and Digital.gov._ 
