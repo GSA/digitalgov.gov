@@ -1,6 +1,7 @@
 ---
-# View this page at https://digital.gov/event/2018/03/dap-learning-series-a-deep-dive
+# View this page at https://digital.gov/event/2018/03/22/dap-learning-series-a-deep-dive-into-analytics-events/
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: dap-learning-series-a-deep-dive-into-analytics-events
 title: "DAP Learning Series: A Deep Dive into Analytics Events"
 deck: ""
