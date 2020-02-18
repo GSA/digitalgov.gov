@@ -1,6 +1,4 @@
 ---
-slug: dap-learning-series-a-deep-dive-into-analytics-events
----
 # View this page at https://digital.gov/event/2018/03/dap-learning-series-a-deep-dive
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-a-deep-dive-into-analytics-events
@@ -10,7 +8,7 @@ summary: "This online event will focus on events in Google Analytics"
 host: "Digital Analytics Program"
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dap-learning-series-a-deep-dive-into-analytics-events-registration-42545065436
-captions: 
+captions:
 
 # start date
 date: 2018-03-22 14:00:00 -0500
@@ -19,21 +17,21 @@ date: 2018-03-22 14:00:00 -0500
 end_date: 2018-03-22 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - data
   - analytics
   - dap
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - tlowden
 
 # YouTube ID
 youtube_id: GkAme6gCeDw
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /event/dap-learning-series-a-deep-dive-into-analytics-events/
 
 # Make it better ♥
