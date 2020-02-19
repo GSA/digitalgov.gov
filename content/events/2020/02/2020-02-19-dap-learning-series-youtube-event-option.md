@@ -4,9 +4,8 @@
 slug: dap-learning-series-youtube-event-option
 kicker: "DAP Learning Series"
 title: "The YouTube Event Option"
-deck: "Learn how to measure the watch time of embedded YouTube videos on your website"
-summary: "In this session, you’ll learn how to track plays of embedded YouTube videos on your DAP-enabled pages, and how to create reports for analysis.
-"
+deck: "Learn how to track plays of embedded YouTube videos on your DAP-enabled pages"
+summary: "In this session, you’ll learn how to track plays of embedded YouTube videos on your DAP-enabled pages, and how to create reports for analysis."
 host: "Digital Analytics Program (DAP)"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/93130175863
