@@ -51,7 +51,7 @@ The second part of the workshop will be your chance to get hands-on experience w
 
 :sparkles: _We will live-stream the first 90 mins of the workshop. Video will be available after._ :sparkles:
 
-### Schedule
+## Schedule
 * 9 - 9:15am — Arrivals
 * 9:15 - 10am — Federalist overview _(+ online)_
 * 10 - 10:45am — Breakout working groups
