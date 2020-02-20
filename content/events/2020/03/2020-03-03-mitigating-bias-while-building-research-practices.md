@@ -45,15 +45,15 @@ Over the last year and a half, Amy Ashida of 18F has been working with the [Stat
 
 **Amy Ashida** is a service designer passionate about finding ways to align people, processes, and technology for public good. She has a background in digital product design and joined [18F](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/18F), an office within the [Technology Transformation Services](https://www.gsa.gov/tts/) (TTS) at the U.S. General Services Administration, in 2018. Amy has over a decade of experience working with states and federal agencies, tech companies, news organizations, and nonprofits.
 
----
+## Related Links
 
-**Related Links:**
 Bias references:
 
  - [https://uxplanet.org/design-principles-selection-bias-bf51ff9ac69b](https://uxplanet.org/design-principles-selection-bias-bf51ff9ac69b)
  - [https://thedecisionlab.com/biases/framing-effect/](https://thedecisionlab.com/biases/framing-effect/)
  
-Research methods:
+Research methods: 
+
  - [https://methods.18f.gov/discover/stakeholder-and-user-interviews/](https://methods.18f.gov/discover/stakeholder-and-user-interviews/)
  - [https://methods.18f.gov/decide/affinity-diagramming/](https://methods.18f.gov/decide/affinity-diagramming/)
  - [https://methods.18f.gov/discover/hopes-and-fears/](https://methods.18f.gov/discover/hopes-and-fears/)
