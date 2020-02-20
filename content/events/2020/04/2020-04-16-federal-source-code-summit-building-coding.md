@@ -4,7 +4,7 @@
 slug: federal-source-code-summit-building-coding
 title: "Federal Source Code Summit: Building Coding Communities"
 deck: ""
-summary: "This first annual Federal Source Code Summit will bring together the coding community to share success stories and best practices for utilizing open source software and examine the implementation of the Federal Source Code policy."
+summary: "This summit will bring together the coding community to share success stories and best practices for utilizing open source software, and examine the implementation of the Federal Source Code policy."
 host: "Code"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/95629579647
@@ -42,7 +42,7 @@ map: ""
 
 ---
 
-Code.gov will host the first annual Federal Source Code Summit that will bring together the coding community to share success stories and best practices for utilizing open source software and examine the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov).
+Code.gov will host the first annual Federal Source Code Summit that will bring together the coding community to share success stories and best practices for utilizing open source software, and examine the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov).
 
 The U.S. government spends billions of dollars annually on information technology (IT). Whether sustaining legacy systems or procuring highly customized applications, the costs add up. Code.gov was launched three years ago to lead the charge for code reuse and open source development while providing agency partners and developers with resources to improve agency mission outcomes and provide quality service while saving taxpayer dollars.
 
@@ -72,15 +72,14 @@ Panelists:
  - **Joe Amalfitano**, Open Source Lead, Social Security Administration
  
 ## Speakers
+
 **Joseph Castle** serves as the Director of Code.gov where he is responsible for the implementation of the White House’s Federal Source Code Policy (FSCP). His duties with Code.gov include the development of the technical platform and federal agency progress with policy execution. Prior to this, he served as the Director of GSA Digital Service, leading an effort to build a high-performing technology team to implement federal digital government strategy initiatives: open government, data, and code. Due to his success with GSA Digital Service, he was appointed by the U.S. Chief Information Officer’s Office to lead Code.gov. Mr. Castle served in the Obama Administration, is a recent Fed100 recipient, a Ph.D. candidate with a dissertation focused on OSS publication in the federal sector, and invited to become a Harvard Kennedy School Visiting Research Fellow in the 2019-2020 academic year.
 
 **Amin Mehr** is co-product owner of Code.gov in the Office of Solutions within GSA’s Technology Transformation Services. On the team, he works on a range of topics including strategy, product, outreach, and customer experience to help agencies meet the objectives of the Federal Source Code Policy. Cross-agency collaboration is pivotal in ensuring that agencies are doing their best to build software in a smart and scalable manner. In his previous work at GSA, Amin served as former program director for Performance.gov alongside his work on the CIO Council. He also has previously led teams at the Small Business Administration and the Department of Commerce on BusinessUSA, The Small Business Innovation Research Program and a variety of other IT initiatives.
 
-**Karen Trebon** is the Lead for the Smarter IT Delivery Portfolio, one of five in the Technology Transformation Services within the Federal Acquisition Service at the U.S. General Services Administration. She manages the people, budget, and contracts that power Search.gov and Code.gov. Karen has been with GSA since 2002. She has a Bachelors in Government from the University of Maryland College Park and a Masters in Public Administration from George Washington University. She is also a certified Project Management Professional (PMP). Prior to GSA, Karen worked for Amplify Public Affairs and the American Power Association. She also worked in Annapolis, and also did three brief stints on Capitol Hill with Senator Sarbanes, Representative Hoyer, and the House Energy and Commerce Committee.
+**Karen Trebon** is the Lead for the Smarter IT Delivery Portfolio, one of five in the Technology Transformation Services within the Federal Acquisition Service at the U.S. General Services Administration. She manages the people, budget, and contracts that power Search.gov and Code.gov. Karen has been with GSA since 2002. She has a Bachelors in Government from the University of Maryland College Park and a Masters in Public Administration from George Washington University. She is also a certified Project Management Professional (PMP). Prior to GSA, Karen worked for Amplify Public Affairs and the American Power Association. She also worked in Annapolis, and also did three brief stints on Capitol Hill with Senator Sarbanes, Representative Hoyer, and the House Energy and Commerce Committee. 
 
----
-
-**Related Links:**
+## Related Links:
 
  - [Crowdsourcing for Code!](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/) 
  - [When In Rome: Code.gov Collaborates with Digital Italia](https://medium.com/codedotgov/when-in-rome-code-gov-collaborates-with-digital-italia-73106d10db01)
@@ -90,4 +89,4 @@ Panelists:
 
 ---
 
-*This Summit is hosted by [Code.gov](https://code.gov/) with support from [Digital.gov](https://digital.gov/). Code.gov is the federal government's platform for sharing America's open source software.*
+_This Summit is hosted by [Code.gov](https://code.gov/) with support from [Digital.gov](https://digital.gov/). Code.gov is the federal government's platform for sharing America's open source software._ 
