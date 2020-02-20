@@ -47,4 +47,18 @@ Over the last year and a half, Amy Ashida of 18F has been working with the [Stat
 
 ---
 
+**Related Links:**
+Bias references:
+
+ - [https://uxplanet.org/design-principles-selection-bias-bf51ff9ac69b](https://uxplanet.org/design-principles-selection-bias-bf51ff9ac69b)
+ - [https://thedecisionlab.com/biases/framing-effect/](https://thedecisionlab.com/biases/framing-effect/)
+ 
+Research methods:
+ - [https://methods.18f.gov/discover/stakeholder-and-user-interviews/](https://methods.18f.gov/discover/stakeholder-and-user-interviews/)
+ - [https://methods.18f.gov/decide/affinity-diagramming/](https://methods.18f.gov/decide/affinity-diagramming/)
+ - [https://methods.18f.gov/discover/hopes-and-fears/](https://methods.18f.gov/discover/hopes-and-fears/)
+ - [https://methods.18f.gov/decide/journey-mapping/](https://methods.18f.gov/decide/journey-mapping/)
+ 
+ ---
+ 
 _This talk is hosted by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) and Digital.gov._ 
