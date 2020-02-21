@@ -27,11 +27,11 @@ topics:
 authors:
   - dan-williams
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
-
 # YouTube ID
-youtube_id:
+youtube_id: 8T8r7avEPF8
+
+# Primary Image (for social media)
+primary_image: "uswds-2-illio-feature-image"
 
 # Make it better ♥
 
