@@ -14,7 +14,7 @@ captions: https://www.captionedtext.com/client/event.aspx?EventID=4344805&Custom
 date: 2020-04-16 8:30:00 -0500
 
 # end date
-end_date: 2020-04-16 13:30:00 -0500
+end_date: 2020-04-16 12:15:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -66,10 +66,21 @@ Speaker: **Joe Castle**, Director, Code.gov
 
 **11:00 - 11:30 am** Panel: Policy Implementation
 Panelists:
- - **Jacob DePriest**, Director of Software, National Security Agency
- - **Brian Lee**, Senior Advisor, Informatics, Centers for Disease Control and Prevention
+ - **Andrew Heibel**, Program Lead for Walkoff, National Security Agency
+ - **Brian Lee**, Chief Data Scientist, Centers for Disease Control and Prevention
  - **Laura Beufort**, Software Developer, Federal Election Commission
- - **Joe Amalfitano**, Open Source Lead, Social Security Administration
+ - **Joe Amalfitano**, Open Source Lead, Social Security Administration (TBD)
+
+**11:40-12:10 pm** Panel: Software Development w/ Open Source
+Panelists:
+
+ - **Jacob DePriest**, Director of Software, National Security Agency
+ - **Sara Cope**, Product Owner of Digital.gov, General Services Administration
+ - **Taylor Yates**, Data Scientist, NASA (TBD)
+ - **Hahnemann Ortiz**, Data Scientist, Internal Revenue Service
+ - **Rayvn Manuel**, Developer and Engineer, National Museum of African American History and Culture
+ 
+ **12:10-12:15 pm** Closing
  
 ## Speakers
 
