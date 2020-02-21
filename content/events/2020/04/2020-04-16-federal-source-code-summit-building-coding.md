@@ -66,8 +66,9 @@ Speaker: **Joe Castle**, Director, Code.gov
 
 **11:00 - 11:30 am** Panel: Policy Implementation
 Panelists:
+
  - **Andrew Heibel**, Program Lead for Walkoff, National Security Agency
- - **Brian Lee**, Chief Data Scientist, Centers for Disease Control and Prevention
+ - **Brian Lee**, Senior Advisor, Informatics, Centers for Disease Control and Prevention
  - **Laura Beufort**, Software Developer, Federal Election Commission
  - **Joe Amalfitano**, Open Source Lead, Social Security Administration (TBD)
 
