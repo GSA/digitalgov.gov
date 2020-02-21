@@ -18,9 +18,9 @@ end_date: 2020-04-16 12:15:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - federal sourcecode
-  - open source software
-  - software security
+  - code
+  - open-source
+  - security
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
@@ -75,7 +75,6 @@ Panelists:
 **11:40-12:10 pm** Panel: Software Development w/ Open Source
 Panelists:
 
- - **Andrew Heibel**, Program Lead for WALKOFF, National Security Agency
  - **Sara Cope**, Product Owner of Digital.gov, General Services Administration
  - **Taylor Yates**, Data Scientist, NASA (TBD)
  - **Aidan Feldman**, Lead for TTS Infrastructure, General Services Administration
