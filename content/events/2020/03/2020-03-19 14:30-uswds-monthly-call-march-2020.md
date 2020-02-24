@@ -13,10 +13,10 @@ registration_url: https://www.eventbrite.com/e/uswds-monthly-call-march-2020-reg
 captions: 
 
 # start date
-date: 2020-03-19 14:30 14:30:00 -0500
+date: 2020-03-19 14:30:00 -0500
 
 # end date
-end_date: 2020-03-19 15:30 15:30:00 -0500
+end_date: 2020-03-19 15:30:00 -0500
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
