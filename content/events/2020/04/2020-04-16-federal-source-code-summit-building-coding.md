@@ -2,10 +2,10 @@
 # View this page at https://digital.gov/event/2020/04/federal-source-code-summit-building-coding
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-source-code-summit-building-coding
-title: "Federal Source Code Summit: Building Coding Communities"
+title: "Federal Source Code Summit: Building a Source Code Community"
 deck: ""
-summary: "This summit will bring together the coding community to share success stories and best practices for utilizing open source software, and examine the implementation of the Federal Source Code policy."
-host: "Code"
+summary: "This summit brings together the federal community to share success stories and best practices for utilizing federal source code and open source software, and examine the implementation of the Federal Source Code policy."
+host: "Code.gov"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/95629579647
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4344805&CustomerID=321
@@ -42,11 +42,11 @@ map: ""
 
 ---
 
-Code.gov will host the first annual Federal Source Code Summit that will bring together the coding community to share success stories and best practices for utilizing open source software, and examine the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov).
+Code.gov will host the first annual Federal Source Code Summit to share success stories and best practices for utilizing federal source code and open source software, and examine the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov).
 
-The U.S. government spends billions of dollars annually on information technology (IT). Whether sustaining legacy systems or procuring highly customized applications, the costs add up. Code.gov was launched three years ago to lead the charge for code reuse and open source development while providing agency partners and developers with resources to improve agency mission outcomes and provide quality service while saving taxpayer dollars.
+The U.S. government spends billions of dollars annually on information technology (IT). Whether sustaining legacy systems or procuring highly customized applications, the costs add up. Code.gov was launched three years ago to lead the charge for code reuse and open source development while providing agency partners and developers with resources to improve agency mission outcomes and provide quality service to save taxpayer dollars.
 
-This conference will highlight open source success stories in the U.S. and abroad, and will discuss next steps for continuing to build communities of code.
+This conference includes success stories in the U.S. and abroad with source code and open source software, and will discuss next steps for continuing to build communities focused on source code.
 
 ## Federal Source Code Summit Agenda
 **8:30 - 9:00 am** Check-in to pick up badge
@@ -57,7 +57,7 @@ This conference will highlight open source success stories in the U.S. and abroa
 Speaker: **Ron Bewtra**, Chief Technology Officer, Department of Justice
 
 **9:45 - 10:15 am** Fireside Chat
-Speaker: International governments
+Speaker: International governments (TBD)
 
 **10:20 - 10:50 am** Federal Source Code Study Results
 Speaker: **Joe Castle**, Director, Code.gov
@@ -75,17 +75,16 @@ Panelists:
 **11:40-12:10 pm** Panel: Software Development w/ Open Source
 Panelists:
 
- - **Jacob DePriest**, Director of Software, National Security Agency
  - **Sara Cope**, Product Owner of Digital.gov, General Services Administration
  - **Taylor Yates**, Data Scientist, NASA (TBD)
- - **Hahnemann Ortiz**, Data Scientist, Internal Revenue Service
+ - **Aidan Feldman**, Lead for TTS Infrastructure, General Services Administration
  - **Rayvn Manuel**, Developer and Engineer, National Museum of African American History and Culture
  
  **12:10-12:15 pm** Closing
  
 ## Speakers
 
-**Joseph Castle** serves as the Director of Code.gov where he is responsible for the implementation of the White House’s Federal Source Code Policy (FSCP). His duties with Code.gov include the development of the technical platform and federal agency progress with policy execution. Prior to this, he served as the Director of GSA Digital Service, leading an effort to build a high-performing technology team to implement federal digital government strategy initiatives: open government, data, and code. Due to his success with GSA Digital Service, he was appointed by the U.S. Chief Information Officer’s Office to lead Code.gov. Mr. Castle served in the Obama Administration, is a recent Fed100 recipient, a Ph.D. candidate with a dissertation focused on OSS publication in the federal sector, and invited to become a Harvard Kennedy School Visiting Research Fellow in the 2019-2020 academic year.
+**Joseph Castle** serves as the Director of Code.gov where he is responsible for the implementation of the White House’s Federal Source Code Policy (FSCP). His duties with Code.gov include the development of the technical platform and federal agency progress with policy execution. Prior to this, he served as the Director of GSA Digital Service, leading an effort to build a high-performing technology team to implement federal digital government strategy initiatives: open government, data, and code. Due to his success with GSA Digital Service, he was appointed by the U.S. Chief Information Officer’s Office to lead Code.gov. Mr. Castle served in the Obama Administration, is a recent Fed100 recipient, and a Ph.D. candidate with a dissertation focused on OSS publication in the federal sector.
 
 **Amin Mehr** is co-product owner of Code.gov in the Office of Solutions within GSA’s Technology Transformation Services. On the team, he works on a range of topics including strategy, product, outreach, and customer experience to help agencies meet the objectives of the Federal Source Code Policy. Cross-agency collaboration is pivotal in ensuring that agencies are doing their best to build software in a smart and scalable manner. In his previous work at GSA, Amin served as former program director for Performance.gov alongside his work on the CIO Council. He also has previously led teams at the Small Business Administration and the Department of Commerce on BusinessUSA, The Small Business Innovation Research Program and a variety of other IT initiatives.
 
@@ -101,4 +100,4 @@ Panelists:
 
 ---
 
-_This Summit is hosted by [Code.gov](https://code.gov/) with support from [Digital.gov](https://digital.gov/). Code.gov is the federal government's platform for sharing America's open source software._ 
+_This Summit is hosted by [Code.gov](https://code.gov/) with support from [Digital.gov](https://digital.gov/). Code.gov is the federal government's platform for sharing America's source code._ 
