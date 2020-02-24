@@ -158,7 +158,7 @@ The Chief Information Officer of each executive agency, or a designee, shall--
 
 ## What Does It Mean to Modernize Websites?
 
-Public-facing websites and digital services should use the [U.S. Web Design System](https://designsystem.digital.gov/maturity-model/) and meet eight specific requirements.
+Public-facing websites and digital services should use the [U.S. Web Design System](https://designsystem.digital.gov/) and meet eight specific requirements.
 
 1. **Accessible** - be accessible to individuals with disabilities in accordance with [Section 508](https://www.section508.gov/)
 2. **Consistent** - have a consistent appearance
@@ -169,9 +169,13 @@ Public-facing websites and digital services should use the [U.S. Web Design Syst
 7. **Customizable** - provide an option for a more customized digital experience
 8. **Mobile-friendly** - be functional and usable on mobile devices
 
-## How is Progress Reported?
+## Agencies Must Report Progress on Website Modernization
 
-**21st Century IDEA** requires executive agencies to provide progress reports. Each agency that maintains a public website or digital service must report to
+Section 3 of **21st Century IDEA** requires executive agencies to report their progress in implementing the website modernization requirements in the Act. Each agency that maintains a public website or digital service must report to:
 
 - Congress on those websites and services, including the cost and schedule of modernization, and
 - OMB and the public annually (for the next 5 years) on the agency's progress in implementing the requirements.
+
+## What Are the Deadlines?
+
+Refer to [Public Law 115–336](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf) (PDF, 315 kb, 4 pages, December 2018) for more detailed information on the deadlines and reporting requirements in 21st Century IDEA.
