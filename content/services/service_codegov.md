@@ -3,7 +3,7 @@
 title: 'Code.gov'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'A catalog of open source code from across the federal government.'
+summary: 'A collection of federal source code including open source software.'
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes

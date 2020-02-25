@@ -16,17 +16,21 @@ date: 2020-02-13 14:00:00 -0500
 # end date
 end_date: 2020-02-13 15:00:00 -0500
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# see all topics at https://digital.gov/topics
+topics: 
+  - social-media
+  - us-department-of-veterans-affairs
 
 # YouTube ID
-youtube_id: 
+youtube_id: HZljlUjJBmc
 
 # Make it better ♥
 
 ---
 
 Hear from the experts at the Department of Veterans Affairs about how they reach and engage with America’s veterans through digital platforms. They cover video, social media, email, text, and more.
+
+## Speakers 
 
 **Jason Davis** served five years with the Army’s 101st Airborne, including two combat tours to Iraq in support of Operation Iraqi Freedom. After leaving service, he earned a BA in Literary Journalism from the University of California at Irvine, and an MA in Writing (nonfiction) from Johns Hopkins University. Jason was an editor and photographer under the Motor Trend umbrella prior to running VBA’s social media from 2013-2019. Jason moved up the street to VA’s Digital Media Engagement team in June 2019.
 

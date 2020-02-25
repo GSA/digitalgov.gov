@@ -31,8 +31,6 @@ outputFormats:
     baseName: "siteimages"
     isPlainText: true
     notAlternative: true
-  RSS:
-    mediatype: "application/rss"
   JSON:
     mediatype: "application/json"
 

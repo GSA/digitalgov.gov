@@ -16,6 +16,15 @@ date: 2020-01-14 8:00:00 -0500
 # end date
 end_date: 2020-01-14 13:30:00 -0500
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - social-media
+  - plain-language
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - katherine-spivey
+
 # YouTube ID
 youtube_id: hTjkSjkPP48
 
@@ -23,7 +32,6 @@ youtube_id: hTjkSjkPP48
 primary_image: "socialgov-winter-event-2020"
 
 # Make it better ♥
-
 ---
 
 Join us for SocialGov’s winter meeting to learn more about these exciting social media topics, presented by your federal colleagues:

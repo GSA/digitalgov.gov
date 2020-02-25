@@ -4,7 +4,7 @@
 slug: federal-crowdsourcing-webinar-series-episode-7
 title: "Federal Crowdsourcing Webinar Series Episode 7: Crowdsourcing for Code"
 deck: ""
-summary: "Find out how the Code.gov team, and every day contributors, are helping the U.S. government to expand its repository—and application—of open-source code as part of Code.gov’s Open Tasks initiative."
+summary: "Learn how the Code.gov team, and every day contributors, are helping the U.S. government to expand its repository—and application—of open-source code as part of Code.gov’s Open Tasks initiative."
 host: "Federal Crowdsourcing"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/92368415417
@@ -31,7 +31,7 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id: MzAuMy6LIjY
 
 # Make it better ♥
 
@@ -45,7 +45,7 @@ So it’s not surprising that the [President’s Management Agenda](https://www.
 
 Managed by the General Services Administration (GSA), Code.gov hosts an [Open Task Repository](https://www.code.gov/open-tasks), a collection of open-source software projects listed by federal agencies as open for collaboration. Governed by the program’s recently updated [Contributor Code of Conduct](https://medium.com/codedotgov/new-decade-new-code-gov-code-of-conduct-d8402a79a34b), the program is building an inclusive and collegial community with technologists across the country.
 
-Join us to find out how the Consumer Financial Protection Bureau, GSA and the Defense, Energy, and Health and Human Services departments are crowdsourcing for code with more than 50 open tasks currently listed in the repo.
+See how the Consumer Financial Protection Bureau, GSA and the Defense, Energy, and Health and Human Services departments are crowdsourcing for code with more than 50 open tasks currently listed in the repo.
 
 **Amin Mehr** is co-product owner of Code.gov in the Office of Solutions within GSA's Technology Transformation Service. On the team, he works on a range of topics including strategy, product, outreach and customer experience to help agencies meet the objectives of the Federal Source Code Policy. Cross-agency collaboration is pivotal in ensuring that agencies are doing their best to build software in a smart and scalable manner. In his previous work at GSA, Amin served as former program director for Performance.gov alongside with his work on the CIO Council. He also has previously led teams at the Small Business Administration and the Department of Commerce on BusinessUSA, SBIR and a variety of other IT initiatives.
 
