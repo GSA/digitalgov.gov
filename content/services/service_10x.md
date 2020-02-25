@@ -3,17 +3,17 @@
 title: '10x'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'Funding technology-focused ideas that improve the experience people have with our government.'
+summary: "Provides funding for new technology projects or products across government, from the TTS office of investments."
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-source_url: 'https://10x.gsa.gov/'
+source_url: "https://10x.gsa.gov/"
 
 # Images need to be at 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: '10x.png'
+icon: 10x.png
 
 email: 10x@gsa.gov
 

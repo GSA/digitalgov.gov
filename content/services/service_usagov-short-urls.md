@@ -2,10 +2,10 @@
 url: /services/usa-gov-short-urls/
 
 # What is the name of the product or service?
-title: 'Go.USA.gov'
+title: "Go.USA.gov"
 
 # Keep it short — should be no longer than 10 words.
-summary: 'A URL shortener for official government domains.'
+summary: "A URL shortener for official government domains."
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
@@ -15,7 +15,9 @@ summary: 'A URL shortener for official government domains.'
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: 'usa-gov.png'
+icon: "usa-gov.png"
+
+email: go.usa.gov@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

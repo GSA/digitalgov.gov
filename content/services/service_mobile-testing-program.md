@@ -2,10 +2,10 @@
 url: /services/mobile-application-testing-program/
 
 # What is the name of the product or service?
-title: 'Federal CrowdSource Mobile Testing Program'
+title: "Federal Crowdsource Mobile Testing Program"
 
 # Keep it short — should be no longer than 10 words.
-summary: 'Free mobile compatibility testing by feds, for feds.'
+summary: "Compatibility testing service that agencies can use to test the mobile-friendliness of their websites."
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
@@ -16,6 +16,8 @@ summary: 'Free mobile compatibility testing by feds, for feds.'
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'digit-150.png'
+
+email: digitalgov@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

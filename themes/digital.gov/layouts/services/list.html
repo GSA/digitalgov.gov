@@ -40,7 +40,7 @@
           {{- range sort . "Title" -}}
 
               <div class="card-service" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
-                
+
                 {{- if .Params.icon -}}
                 {{- $src := (print "/logos/" .Params.icon) -}}
                 <img src="{{- $src | relURL -}}" alt="{{- .Params.name }} Logo">
@@ -53,7 +53,7 @@
 
                   <p class="contact">
                   {{- if .Params.email -}}
-                    <a href="mailto:{{- .Params.email -}}" title="Email {{ .Params.title -}}">{{- .Params.email -}}</a>
+                    Email: <a href="mailto:{{- .Params.email -}}" title="Email {{ .Params.title -}}">{{- .Params.email -}}</a>
                   {{- end -}}
                   </p>
 

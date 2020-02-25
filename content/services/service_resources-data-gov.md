@@ -1,11 +1,11 @@
 ---
-url: /services/data-gov/
+url: /services/resources-data-gov/
 
 # What is the name of the product or service?
-title: "Data.gov"
+title: "Resources.Data.gov"
 
 # Keep it short — should be no longer than 10 words.
-summary: "Data, tools, and resources to conduct research, develop web and mobile applications."
+summary: "An online repository of policies, schema standards, tools, best practices, and case studies to provide agencies with resources for federal data management."
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
@@ -30,6 +30,7 @@ topics:
   - data
   - api
   - code
+  - policy
   - open-source
   - open-data
 

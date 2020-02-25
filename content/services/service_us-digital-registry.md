@@ -2,10 +2,10 @@
 url: /services/u-s-digital-registry/
 
 # What is the name of the product or service?
-title: 'U.S. Digital Registry'
+title: "U.S. Digital Registry"
 
 # Keep it short — should be no longer than 10 words.
-summary: 'A resource for confirming the official status of government social media accounts, mobile apps, and mobile websites.'
+summary: "An inventory of official government social media accounts, mobile websites and apps, as reported and authenticated by federal managers."
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
@@ -16,6 +16,8 @@ summary: 'A resource for confirming the official status of government social med
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'digit-150.png'
+
+email: usdigitalregistry@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage
@@ -50,7 +52,7 @@ Federal agencies are directed to update these accounts in the U.S. Digital Regis
 > “To help confirm the validity of official U.S. Government digital platforms, within 60 days of the publication date of this Memorandum, agencies must register their public-facing digital services such as social media, collaboration accounts, mobile apps and mobile websites, with the U.S. Digital Registry at: [http://www.digitalgov.gov/services/u-s-digital-registry/](http://www.digitalgov.gov/services/u-s-digital-registry/).”
 
 
-**To register and manage accounts on the U.S. Digital Registry** you must have a  [Login.gov](http://login.gov/)  account, which is available to federal government employees and contractors with a valid .gov, .mil, or .[fed.us](http://fed.us/)  email address.  
+**To register and manage accounts on the U.S. Digital Registry** you must have a  [Login.gov](http://login.gov/)  account, which is available to federal government employees and contractors with a valid .gov, .mil, or .[fed.us](http://fed.us/)  email address.
 
 1. Go to the  [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov/)
 
