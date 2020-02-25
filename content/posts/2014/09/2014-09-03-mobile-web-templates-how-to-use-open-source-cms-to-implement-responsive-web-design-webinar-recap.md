@@ -28,7 +28,7 @@ But do you know _how_ it happens? Would you know how to _implement_ responsive W
 
 [youtube=http://www.youtube.com/watch?v=iKeh25cKgrY&w=600]
 
-As we’ve been learning since the [February workshop on the topic]({{ ref . "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), federal Web managers are using a number of solutions to implement responsive design on their sites, including [structured data and content models]({{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" }}), APIs, and/or leveraging existing content management systems (CMS). Last month’s webinar featured three speakers presenting solutions that use open-source CMS: **Ryan Day** from the General Services Administration, **Eric Brassil** from the State Department, and **Karen Trebon** from the General Services Administration.
+As we’ve been learning since the [February workshop on the topic]({{ ref . "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), federal Web managers are using a number of solutions to implement responsive design on their sites, including [structured data and content models]({{ ref . "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" }}), APIs, and/or leveraging existing content management systems (CMS). Last month’s webinar featured three speakers presenting solutions that use open-source CMS: **Ryan Day** from the General Services Administration, **Eric Brassil** from the State Department, and **Karen Trebon** from the General Services Administration.
 
 ### Drupal at GSA’s Child Care Information Portal
 

@@ -60,7 +60,7 @@ Syndication allows your content to be consumed by the other federal agencies, st
   * Audience retention and content re-use leverage inter-agency content to reduce overhead
   * Allowing staff to focus on your mission priorities
 
-This approach is key to the success for federal agencies with public health missions like the [Centers for Disease Control]({{ ref . "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), who now easily share content, [almost seamlessly]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" }}).
+This approach is key to the success for federal agencies with public health missions like the [Centers for Disease Control]({{ ref . "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), who now easily share content, [almost seamlessly]({{ ref . "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" }}).
 
 Here is an example of a CDC Web page content on <http://www.cdc.gov/parasites/hookworm/>
 

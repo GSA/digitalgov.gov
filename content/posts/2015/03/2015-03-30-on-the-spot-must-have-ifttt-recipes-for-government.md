@@ -18,7 +18,7 @@ topics:
 
 {{< legacy-img src="2015/02/600-x-274-IFTTT-recipe-for-Send-a-SMS-at-a-certain-time-every-day.jpg" alt="IFTTT recipe for send a SMS at a certain time every day" >}}
 
-Ever since [we announced IFTTT was available for federal use]({{ ref . "2015-02-12-ifttt-combines-social-media-mobile-and-internet-of-things-for-government.md" >}}), dozens of ideas have been shared for how program managers can use the tool to increase their productivity. I asked some API enthusiasts in the [SocialGov community]({{< ref "social-media.md" }}) which of their favorite recipes were must-haves for all digital teams or for those new to the platform.
+Ever since [we announced IFTTT was available for federal use]({{ ref . "2015-02-12-ifttt-combines-social-media-mobile-and-internet-of-things-for-government.md" >}}), dozens of ideas have been shared for how program managers can use the tool to increase their productivity. I asked some API enthusiasts in the [SocialGov community]({{ ref . "social-media.md" }}) which of their favorite recipes were must-haves for all digital teams or for those new to the platform.
 
 First, for those not familiar with it, [IFTTT](https://ifttt.com/) (as in “If This Then That”) combines [166 channels](https://ifttt.com/channels) like Twitter, Android and iOS Location, and RSS into “recipes” that can integrate government social media, data, location-based services, and the Internet of Things.
 

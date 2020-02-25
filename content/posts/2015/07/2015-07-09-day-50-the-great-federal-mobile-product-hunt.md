@@ -22,7 +22,7 @@ topics:
 
 {{< legacy-img src="2015/07/600-x-200-Day-50.jpg" alt="Day 50 banner" >}}{{< legacy-img src="2015/07/600-x-200-Tally-Graphic.jpg" alt="Leaderboard Tally" >}}
 
-The [Great Federal Mobile Product Hunt]({{ ref . "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}) is off to the races in _both_ English and Spanish with [David Cooper]({{< ref "2015-06-25-using-apps-for-mental-healthcare.md" }}) in the lead at 12 #lostapps from the [National Center for Telehealth and Technology](http://t2health.dcoe.mil/), [Department of Veterans Affairs](http://www.va.gov/) in a close second with 10, and Elizabeth Perez of [Substance Abuse and Mental Health Services Administration](http://www.samhsa.gov/) rounding out the leaderboard at Day 50.
+The [Great Federal Mobile Product Hunt]({{ ref . "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}) is off to the races in _both_ English and Spanish with [David Cooper]({{ ref . "2015-06-25-using-apps-for-mental-healthcare.md" }}) in the lead at 12 #lostapps from the [National Center for Telehealth and Technology](http://t2health.dcoe.mil/), [Department of Veterans Affairs](http://www.va.gov/) in a close second with 10, and Elizabeth Perez of [Substance Abuse and Mental Health Services Administration](http://www.samhsa.gov/) rounding out the leaderboard at Day 50.
 
 {{< legacy-img src="2015/07/600-x-200-LEADERBOARD.jpg" alt="Leaderboard" >}}
 

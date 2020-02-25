@@ -38,7 +38,7 @@ Mobile compatibility testing is checking or validating that your application beh
 
 We spend a lot of time planning and developing our application, and we want all of our customers to have the same expected user experience.
 
-Test cycles conducted through the [Federal CrowdSource Mobile Testing Program]({{ ref . "service_mobile-testing-program.md" >}}) have uncovered [many types of compatibility related issues]({{< ref "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" }}) that have an effect on user experience, including:
+Test cycles conducted through the [Federal CrowdSource Mobile Testing Program]({{ ref . "service_mobile-testing-program.md" >}}) have uncovered [many types of compatibility related issues]({{ ref . "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" }}) that have an effect on user experience, including:
 
   * Content—A full website usually does not fit on a small mobile device
   * Navigation—Mobile navigation may require different navigation methods than the full size website

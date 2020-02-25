@@ -55,11 +55,11 @@ Most short URLs do not provide clues about their destination. That’s why we cr
   </p>
   
   <p dir="ltr">
-     With that in mind, you should avoid using the short URL as the link title, such as “<a title="USA.gov Short URLs" href="{{ ref . "service_usagov-short-urls.md" >}}">Click here</a>” (It’s never a good idea to use “click here,” but that’s a story for another day.) It’s ok to use a short URL as the link when you use actual words as the link title, such as “Learn more about <a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" }}">short URLs</a>.”
+     With that in mind, you should avoid using the short URL as the link title, such as “<a title="USA.gov Short URLs" href="{{ ref . "service_usagov-short-urls.md" >}}">Click here</a>” (It’s never a good idea to use “click here,” but that’s a story for another day.) It’s ok to use a short URL as the link when you use actual words as the link title, such as “Learn more about <a title="USA.gov Short URLs" href="{{ ref . "service_usagov-short-urls.md" }}">short URLs</a>.”
   </p>
   
   <p dir="ltr">
-     You can’t follow this rule when writing messages for social media because there isn’t the option to use a link title. Instead, give a good description first so users can decide if they want to click the link, such as “You can learn more about how to create short .gov URLs at <a title="USA.gov Short URLs" href="{{ ref . "service_usagov-short-urls.md" >}}">http://go.usa.gov/Whtm</a>.” <a title="5 Myths About Social Media Accessibility" href="{{< ref "2013-06-26-5-myths-about-social-media-accessibility-2.md" }}">Learn more about making social media accessible.</a>
+     You can’t follow this rule when writing messages for social media because there isn’t the option to use a link title. Instead, give a good description first so users can decide if they want to click the link, such as “You can learn more about how to create short .gov URLs at <a title="USA.gov Short URLs" href="{{ ref . "service_usagov-short-urls.md" >}}">http://go.usa.gov/Whtm</a>.” <a title="5 Myths About Social Media Accessibility" href="{{ ref . "2013-06-26-5-myths-about-social-media-accessibility-2.md" }}">Learn more about making social media accessible.</a>
   </p>
   
   <h2>

@@ -47,7 +47,7 @@ In 2013, we published an article on how [government must respond rapidly to soci
 
 ## Social Tools and Terms of Service {{< legacy-img src="2014/05/250-x-166-Terms-of-Service-alexskopje-iStock-Thinkstock-176024832.jpg" alt="Terms of Service typed out on a sheet of paper in a typewriter" caption="" >}} 
 
-GSA has been working on negotiating [federal friendly terms of service agreements]({{ ref . "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}}) since 2009, and we have a long list of [tools that are acceptable for the federal government]({{< ref "negotiated-terms-of-service-agreements.md" }}) to use because of these renegotiated terms. This past year we hosted some events with the newer tools that we’ve added to the list.
+GSA has been working on negotiating [federal friendly terms of service agreements]({{ ref . "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}}) since 2009, and we have a long list of [tools that are acceptable for the federal government]({{ ref . "negotiated-terms-of-service-agreements.md" }}) to use because of these renegotiated terms. This past year we hosted some events with the newer tools that we’ve added to the list.
 
 First, take a look at the article [Getting to Yes: How to Negotiate Federal Friendly Terms of Service]({{ ref . "2015-02-06-getting-to-yes-working-with-vendors-to-secure-terms-of-service-and-federal-friendly-pricing.md" }}), written by Clair Koroma and Kathryn Hambleton of the Department of Health and Human Services (HHS). Then, watch the corresponding [on-demand webinar for tips on negotiating TOS agreements at your agency](https://youtu.be/wc13slb9by4).
 

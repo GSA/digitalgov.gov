@@ -39,7 +39,7 @@ This standard report segments the audience by device category: desktop, mobile, 
 
 {{< legacy-img src="2016/01/600-x-385-DAP-Analyzing-Mobile-Traffic-desktop-mobile-tablet.jpg" alt="Device topics: desktop, mobile, and tablet." >}}
 
-What’s the bounce rate for your mobile users? If it’s high, look into possible causes for that. [Is it a good mobile moment?]({{ ref . "2015-06-01-finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government.md" >}}) Is your website [mobile-friendly]({{< ref "2015-10-23-is-your-site-mobile-friendly.md" }})? The Pages/Session and the Avg. Session Duration metrics indicate how engaged your mobile users are.
+What’s the bounce rate for your mobile users? If it’s high, look into possible causes for that. [Is it a good mobile moment?]({{ ref . "2015-06-01-finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government.md" >}}) Is your website [mobile-friendly]({{ ref . "2015-10-23-is-your-site-mobile-friendly.md" }})? The Pages/Session and the Avg. Session Duration metrics indicate how engaged your mobile users are.
 
 ## 3. Mobile Performance Analysis report
 
@@ -79,6 +79,6 @@ The dimension can be a hostname, a page or a subdirectory.
 
 Remember, many times it’s helpful to compare data with previous date ranges so you can see trends.
 
-We hope these simple tools will help you get a better understanding of your mobile visitors. [Follow DigitalGov’s mobile channel]({{ ref . "/topics/mobile" >}}) and [join the MobileGov Community of Practice]({{< ref "mobilegov.md" }}) for the latest insight on mobile!
+We hope these simple tools will help you get a better understanding of your mobile visitors. [Follow DigitalGov’s mobile channel]({{ ref . "/topics/mobile" >}}) and [join the MobileGov Community of Practice]({{ ref . "mobilegov.md" }}) for the latest insight on mobile!
 
 If you use any reports or have tips for analyzing mobile traffic, please let us know in the comments!

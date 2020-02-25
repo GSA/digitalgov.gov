@@ -50,7 +50,7 @@ If there is something that is hard to find or a process on your site is not work
 
 ## Talk to your Users {{< legacy-img src="2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}} 
 
-There are tons of resources already available about [usability on DigitalGov]({{ ref . "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and some of the challenges particular to federal government and the public sector. All the [information regarding the Paperwork Reduction Act (PRA)]({{< ref "paperwork-reduction-act-fast-track-process.md" }}) is invaluable in my experience.
+There are tons of resources already available about [usability on DigitalGov]({{ ref . "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and some of the challenges particular to federal government and the public sector. All the [information regarding the Paperwork Reduction Act (PRA)]({{ ref . "paperwork-reduction-act-fast-track-process.md" }}) is invaluable in my experience.
 
 I also relied heavily on the available resources on [user interviews]({{ ref . "2015-05-26-5-crucial-steps-for-conducting-an-effective-customer-interview.md" }}) as a great reference and a way to get up to speed quickly. A personal suggestion when planning to do user interviews is to respect the subject’s time by being as prepared as possible. I really made it a point to probably over-thank my subjects, and by being very prepared and efficient during our time together, it reflected my respect for their time.
 

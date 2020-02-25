@@ -19,7 +19,7 @@ topics:
   - YouTube
 ---
 
-{{< legacy-img src="2014/05/featured-301-x-212-DigitalGov-Search-homepage-250x176.jpg" alt="featured 301 x 212 DigitalGov Search homepage" >}}Content is no longer limited to your .gov website. Social media accounts also contain a treasure trove of information relevant to your site’s visitors. Keeping that in mind, [DigitalGov Search]({{ ref . "service_search.md" >}} "DigitalGov Search") has worked to [bring all your content, wherever it is, to your search results]({{< ref "2014-08-26-help-the-public-find-your-information-wherever-and-however-youve-published-it.md" }} "Help the Public Find Your Information, Wherever and However You’ve Published It").
+{{< legacy-img src="2014/05/featured-301-x-212-DigitalGov-Search-homepage-250x176.jpg" alt="featured 301 x 212 DigitalGov Search homepage" >}}Content is no longer limited to your .gov website. Social media accounts also contain a treasure trove of information relevant to your site’s visitors. Keeping that in mind, [DigitalGov Search]({{ ref . "service_search.md" >}} "DigitalGov Search") has worked to [bring all your content, wherever it is, to your search results]({{ ref . "2014-08-26-help-the-public-find-your-information-wherever-and-however-youve-published-it.md" }} "Help the Public Find Your Information, Wherever and However You’ve Published It").
 
 Finding something you didn’t know you were looking for is the best form of discovery, so make sure there are ample opportunities to find your content in all its forms. Searchers expect to see more than a list of links on your site. They expect to see instant answers to their questions.
 

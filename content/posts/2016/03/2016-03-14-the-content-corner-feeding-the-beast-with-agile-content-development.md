@@ -12,7 +12,7 @@ topics:
   - the-content-corner
 ---
 
-I feel as though I have ignored the [beast in the room]({{ ref . "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) lately, and since I began my tenure on [The Content Corner]({{< ref "/topics/the-content-corner" }}) introducing that concept, I felt I needed to wrestle with it one last time [before I depart](https://openopps.digitalgov.gov/tasks/479).
+I feel as though I have ignored the [beast in the room]({{ ref . "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) lately, and since I began my tenure on [The Content Corner]({{ ref . "/topics/the-content-corner" }}) introducing that concept, I felt I needed to wrestle with it one last time [before I depart](https://openopps.digitalgov.gov/tasks/479).
 
 Previously, I discussed the concept of [pair writing]({{ ref . "2015-12-14-the-content-corner-is-pair-writing-right-for-you.md" >}}). Today I want to investigate how another software development concept can be leveraged to improve the quality and quantity of the content we create: [Agile content development](http://www.fastcocreate.com/1682380/the-3-keys-to-agile-content-development). {{< legacy-img src="2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="" }} 
 

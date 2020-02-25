@@ -15,7 +15,7 @@ topics:
   - the-content-corner
 ---
 
-Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{ ref . "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" }}).
+Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{ ref . "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{ ref . "2015-03-23-the-content-corner-building-a-content-strategy.md" }}).
 
 [Recent research](http://contentmarketinginstitute.com/2015/09/simple-content-marketing-model/) from the Content Marketing Institute found the average business-to-business (B2B) company uses 13 content marketing tactics or channels, such as blogs, videos, events, etc. I&#8217;m sure that most federal agencies also have as wide an array of channels as well. DigitalGov itself is a good example, where we leverage blogs, videos, podcasts, live events (both in-person and Web-based), plus several social media accounts. That is a lot of ways to share and consume information.
 
@@ -25,7 +25,7 @@ One important thing is to remember or establish what your core channel is. I lik
 
 {{< legacy-img src="2015/01/600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841.jpg" alt="600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841" >}}
 
-As you work to establish your home base or core channel, be careful if you set up camp on a platform where you have little control and no true ownership. Similar to concerns about [user-generated content (UGC)]({{ ref . "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}), you have to be aware of the [terms of service]({{< ref "negotiated-terms-of-service-agreements.md" }}) on platforms such as Facebook, Twitter, YouTube and Tumblr.
+As you work to establish your home base or core channel, be careful if you set up camp on a platform where you have little control and no true ownership. Similar to concerns about [user-generated content (UGC)]({{ ref . "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}), you have to be aware of the [terms of service]({{ ref . "negotiated-terms-of-service-agreements.md" }}) on platforms such as Facebook, Twitter, YouTube and Tumblr.
 
 A frequent issue with these platforms, such as Facebook, has been their changes to algorithms and how that can impact your exposure. A slight tweak can have a huge impact on your audiences, such as the [news feed changes they implemented in 2014](http://mashable.com/2014/04/16/news-feed-changes). We all know the importance of various social media channels, but I recommend thinking of them as supplements or feeders for your core and not your core itself.
 

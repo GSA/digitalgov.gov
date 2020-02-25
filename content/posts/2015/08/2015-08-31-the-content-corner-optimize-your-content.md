@@ -18,7 +18,7 @@ topics:
 
 For the past several weeks, I have been writing about fairly cerebral and more technical aspects of content generation and language in general. This week, I felt it was time to get back to a more basic content concept: content optimization.
 
-Frequently when content optimization is discussed it is heavily focused on [search engine optimization (SEO)]({{ ref . "2013-05-02-why-government-websites-need-seo.md" >}}) and the development of keywords. Doing everything you can to help people find the information you have created is important, but it goes far beyond chasing a search engine’s ever-changing algorithm. As content creation and SEO have evolved, the importance of [well-written, concise content]({{< ref "plain-language-web-writing-tips.md" }}) as part of your optimization strategy cannot be discounted.
+Frequently when content optimization is discussed it is heavily focused on [search engine optimization (SEO)]({{ ref . "2013-05-02-why-government-websites-need-seo.md" >}}) and the development of keywords. Doing everything you can to help people find the information you have created is important, but it goes far beyond chasing a search engine’s ever-changing algorithm. As content creation and SEO have evolved, the importance of [well-written, concise content]({{ ref . "plain-language-web-writing-tips.md" }}) as part of your optimization strategy cannot be discounted.
 
 ## Keywords Still Matter {{< legacy-img src="2015/08/600-x-400-Keyword-compass-phototake-iStock-Thinkstock-463488879.jpg" alt="A compass and various letters surround a search box." caption="" >}} 
 

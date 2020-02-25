@@ -20,7 +20,7 @@ topics:
 
 As we round out 2014, we’re reflecting on the exciting year we’ve had at DigitalGov since we [launched in February]({{ ref . "2014-02-26-open-for-innovation-in-digitalgov.md" }} "Open for Innovation in DigitalGov!"). Our mission is to share information and resources from agencies across the federal government that are working in the digital space, and highlight the services and communities that can help you meet your digital government goals.
 
-We look forward to bringing you more great content in 2015, but first we wanted to highlight the most popular articles on DigitalGov this year. You can also check out the [hottest Mobile articles]({{ ref . "2014-12-30-trends-on-tuesday-the-hottest-digitalgov-mobile-articles-in-2014.md" >}} "Trends on Tuesday: The Hottest DigitalGov Mobile Articles in 2014") and [biggest Social Media initiatives in 2014]({{< ref "2014-12-31-big-in-socialgov-in-2014-services-access-and-participation.md" }}).
+We look forward to bringing you more great content in 2015, but first we wanted to highlight the most popular articles on DigitalGov this year. You can also check out the [hottest Mobile articles]({{ ref . "2014-12-30-trends-on-tuesday-the-hottest-digitalgov-mobile-articles-in-2014.md" >}} "Trends on Tuesday: The Hottest DigitalGov Mobile Articles in 2014") and [biggest Social Media initiatives in 2014]({{ ref . "2014-12-31-big-in-socialgov-in-2014-services-access-and-participation.md" }}).
 
 ## Top 10 Most Viewed Articles
 

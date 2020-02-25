@@ -27,7 +27,7 @@ topics:
   - united-states-department-of-health-and-human-services
 ---
 
-A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content]({{ ref . "/topics/open-and-structured-content-models" >}}). By offering critical health information via [syndication]({{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" }}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
+A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content]({{ ref . "/topics/open-and-structured-content-models" >}}). By offering critical health information via [syndication]({{ ref . "2012-11-05-centers-for-disease-control-content-syndication.md" }}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
 
 <p>
   {{< legacy-img src="2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" >}}
@@ -101,7 +101,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </h2> {{< legacy-img src="2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" caption="" >}} 
   
   <p>
-    Another powerful aspect of the <a href="{{ ref . "2014-10-08-the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website.md" >}}" target="_blank">CDC content syndication efforts</a> is that because of their efforts in developing content that will work with their own <a href="{{< ref "2013-06-11-responsive-design.md" }}" target="_blank">responsive design</a> templates, it comes ready made for mobile devices. Some of this will depend on your own site’s architecture (if your site itself isn’t responsive, then it won’t magically change) but if it is, or you have mobile-friendly templates, then the CDC content should display correctly (unless I’m horribly mistaken).
+    Another powerful aspect of the <a href="{{ ref . "2014-10-08-the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website.md" >}}" target="_blank">CDC content syndication efforts</a> is that because of their efforts in developing content that will work with their own <a href="{{ ref . "2013-06-11-responsive-design.md" }}" target="_blank">responsive design</a> templates, it comes ready made for mobile devices. Some of this will depend on your own site’s architecture (if your site itself isn’t responsive, then it won’t magically change) but if it is, or you have mobile-friendly templates, then the CDC content should display correctly (unless I’m horribly mistaken).
   </p>
   
   <p>

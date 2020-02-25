@@ -80,7 +80,7 @@ A [White House blog post](https://www.whitehouse.gov/blog/2014/12/02/designing-c
 Citizen science contributions help advance a variety of federal projects:
 
   * The U.S. Geological Survey (USGS) works with citizen scientists to discover, collect and organize a variety of scientific data; one notable USGS citizen science project is [tracking bird species]({{ ref . "2015-01-20-usgs-where-citizen-science-is-for-the-birds.md" }}).
-  * The National Oceanic and Atmospheric Administration (NOAA) has three mobile applications that are based on contributions from citizen scientists: [Dolphin and Whale 911]({{ ref . "2013-10-24-dolphin-and-whale-apps-from-noaa-fisheries.md" >}}), [Release Mako]({{ ref . "2013-11-14-noaa-release-mako-now-on-ios.md" }}) and [CrowdMag]({{< ref "2015-06-18-noaas-crowdmag-app-citizen-science-on-the-go.md" }}).
+  * The National Oceanic and Atmospheric Administration (NOAA) has three mobile applications that are based on contributions from citizen scientists: [Dolphin and Whale 911]({{ ref . "2013-10-24-dolphin-and-whale-apps-from-noaa-fisheries.md" >}}), [Release Mako]({{ ref . "2013-11-14-noaa-release-mako-now-on-ios.md" }}) and [CrowdMag]({{ ref . "2015-06-18-noaas-crowdmag-app-citizen-science-on-the-go.md" }}).
 
 ## Open Innovation Competitions
 
@@ -112,10 +112,10 @@ There is no official program within the federal government for crowdfunding. The
 
 ## Next Steps
 
-While the programs featured here are big bucket items, throughout government you’ll also find crowd-focused efforts like [maker faires](https://www.whitehouse.gov/nation-of-makers), [data jams]({{ ref . "2014-03-27-what-to-do-with-big-data.md" >}}), [hack-a-thons]({{ ref . "2015-05-27-the-national-day-of-civic-hacking-2015-harnessing-the-power-of-the-people.md" }}), [game jams](http://www.hhs.gov/idealab/projects-item/health-game-jam/) and [demo days]({{< ref "2015-08-10-data-delivers-challenge-culminates-in-national-demo-day-event-slated-for-thursday.md" }}).
+While the programs featured here are big bucket items, throughout government you’ll also find crowd-focused efforts like [maker faires](https://www.whitehouse.gov/nation-of-makers), [data jams]({{ ref . "2014-03-27-what-to-do-with-big-data.md" >}}), [hack-a-thons]({{ ref . "2015-05-27-the-national-day-of-civic-hacking-2015-harnessing-the-power-of-the-people.md" }}), [game jams](http://www.hhs.gov/idealab/projects-item/health-game-jam/) and [demo days]({{ ref . "2015-08-10-data-delivers-challenge-culminates-in-national-demo-day-event-slated-for-thursday.md" }}).
 
 Consider which format would be best for your program; look through the options and consider what outcome you want and what group could be the best contributors to the project. Talk with others who have run these programs and learn from their experience.
 
 There are also training videos and webinars on-demand that include all of the topics listed above on DigitalGov University’s [Challenges YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC).
 
-Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{ ref . "crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{< ref "challenges-prizes.md" }}).
+Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{ ref . "crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{ ref . "challenges-prizes.md" }}).

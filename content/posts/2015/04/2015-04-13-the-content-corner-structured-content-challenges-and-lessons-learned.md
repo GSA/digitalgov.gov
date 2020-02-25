@@ -21,7 +21,7 @@ topics:
 
 {{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 
 
-In May 2014, Sarah Crane discussed the importance of structured content, APIs and the development of a &#8220;Create Once, Publish Everywhere&#8221; ([COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13)) strategy at [USA.gov](http://www.usa.gov/) via a [three part video series]({{ ref . "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}). After my recent post about a [world without Web pages]({{< ref "2015-03-16-the-content-corner-a-world-without-web-pages.md" }}), Sarah and I connected and we discussed the challenges she has experienced during the COPE project at USA.gov and some lessons to consider whether you’re at the beginning or early stages of a similar project.
+In May 2014, Sarah Crane discussed the importance of structured content, APIs and the development of a &#8220;Create Once, Publish Everywhere&#8221; ([COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13)) strategy at [USA.gov](http://www.usa.gov/) via a [three part video series]({{ ref . "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}). After my recent post about a [world without Web pages]({{ ref . "2015-03-16-the-content-corner-a-world-without-web-pages.md" }}), Sarah and I connected and we discussed the challenges she has experienced during the COPE project at USA.gov and some lessons to consider whether you’re at the beginning or early stages of a similar project.
 
 # A Smarter Solution Needed
 

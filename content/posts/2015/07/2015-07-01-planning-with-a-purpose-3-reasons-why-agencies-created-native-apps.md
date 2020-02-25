@@ -40,7 +40,7 @@ When Sarah Herrmann, Digital Communications Manager for the American Battle Monu
 
 These application objectives align with ABMC&#8217;s strategic goal to &#8220;provide an inspirational and educational visitor experience through effective outreach and interpretive programs.&#8221;
 
-Since the application objectives support one of the agency&#8217;s strategic goals, Herrmann can easily state [why this application is beneficial]({{ ref . "2015-03-05-explore-iconic-overseas-world-war-ii-sites-with-abmc-apps.md" >}}). Other agencies have used native applications effectively for [crowdsourcing projects]({{< ref "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" }}).
+Since the application objectives support one of the agency&#8217;s strategic goals, Herrmann can easily state [why this application is beneficial]({{ ref . "2015-03-05-explore-iconic-overseas-world-war-ii-sites-with-abmc-apps.md" >}}). Other agencies have used native applications effectively for [crowdsourcing projects]({{ ref . "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" }}).
 
 ## Business Requirements
 

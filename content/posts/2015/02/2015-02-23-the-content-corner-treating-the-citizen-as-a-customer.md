@@ -33,7 +33,7 @@ We just discussed this above, but it is worth repeating and possibly worth makin
 
 ## Understanding Your User
 
-The most effective way to ensure your content acts as the user’s guide is to know where they are going. What are their motivations, why are they here, [who are they](http://www.copyblogger.com/deep-connections/)? This gets into many topics surrounding [personas]({{ ref . "2015-01-09-personas-101.md" >}} "Personas 101"), user interviews, and [accessibility]({{< ref "2014-11-17-user-experience-impossible-the-line-between-accessibility-and-usability.md" }} "User Experience Impossible: The Line Between Accessibility and Usability"). Only by knowing as much as possible about your site’s visitors can you understand what they want from you and expedite that journey. It’s really hard to help someone if you don’t know what they need.
+The most effective way to ensure your content acts as the user’s guide is to know where they are going. What are their motivations, why are they here, [who are they](http://www.copyblogger.com/deep-connections/)? This gets into many topics surrounding [personas]({{ ref . "2015-01-09-personas-101.md" >}} "Personas 101"), user interviews, and [accessibility]({{ ref . "2014-11-17-user-experience-impossible-the-line-between-accessibility-and-usability.md" }} "User Experience Impossible: The Line Between Accessibility and Usability"). Only by knowing as much as possible about your site’s visitors can you understand what they want from you and expedite that journey. It’s really hard to help someone if you don’t know what they need.
 
 ## Design Matters
 

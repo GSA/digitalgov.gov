@@ -32,7 +32,7 @@ topics:
 This includes details on the policies and <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf" target="_blank">legal authorities</a>, like the [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf "America COMPETES Act Summary Memo"), under which agencies run their competitions.
 
 <p dir="ltr">
-  3) Digital Gov University. A robust resource of <a href="{{ ref . "digitalgov-university.md" >}}">archived training</a> and <a title="link to upcoming DigitalGov University training" href="{{< ref "/events" }}">upcoming events</a>. Some of the most popular webinars are:
+  3) Digital Gov University. A robust resource of <a href="{{ ref . "digitalgov-university.md" >}}">archived training</a> and <a title="link to upcoming DigitalGov University training" href="{{ ref . "/events" }}">upcoming events</a>. Some of the most popular webinars are:
 </p>
 
   * [Metrics and measurements](http://www.youtube.com/watch?v=wBnQhDS1gZg)

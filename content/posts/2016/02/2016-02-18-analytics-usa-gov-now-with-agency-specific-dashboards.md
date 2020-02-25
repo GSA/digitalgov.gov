@@ -55,7 +55,7 @@ Starting today, you’ll see a dropdown from the main [analytics.usa.gov](https:
 
 ## What Do These Pages Show Me?
 
-These dashboard pages allow for greater insight into how the public interacts with specific agency websites as a complement to the aggregated view available at [analytics.usa.gov]({{ ref . "2016-02-16-trends-on-tuesday-robot-messaging-goes-mainstream.md" >}}). In many cases, the information we see as a government-wide percentage does not perfectly mirror an individual agency’s data. For example, at the time of writing this post, the domestic vs. foreign traffic on the whole of participating [Digital Analytics Program]({{< ref "/guides/dap/_index.md" }}) (DAP) sites is about 90% to 10%, respectively. But the VA specifically has a 99% to 1% ratio, while NASA has a 62% to 38% domestic to foreign visits ratio.
+These dashboard pages allow for greater insight into how the public interacts with specific agency websites as a complement to the aggregated view available at [analytics.usa.gov]({{ ref . "2016-02-16-trends-on-tuesday-robot-messaging-goes-mainstream.md" >}}). In many cases, the information we see as a government-wide percentage does not perfectly mirror an individual agency’s data. For example, at the time of writing this post, the domestic vs. foreign traffic on the whole of participating [Digital Analytics Program]({{ ref . "/guides/dap/_index.md" }}) (DAP) sites is about 90% to 10%, respectively. But the VA specifically has a 99% to 1% ratio, while NASA has a 62% to 38% domestic to foreign visits ratio.
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>

@@ -22,7 +22,7 @@ If you work at a U.S. Post Office, you interact with your customers, talk with t
 
 So, in addition to collecting good analytics (like through GSA’s free [Digital Analytics Program]({{ ref . "/guides/dap/_index.md" }} "DAP: Digital Analytics Program")), it&#8217;s crucial to understand your how your customers use your technology on a one-to-one basis. That’s why you focus on the User Experience (or UX); a product&#8217;s ease-of-use, whether it looks nice or creates any emotional friction, and if people can use it to accomplish something they want.
 
-User Experience is closely related to [Customer Experience]({{ ref . "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}} "User Experience (UX) vs. Customer Experience (CX): What’s the Dif?"), and the [User Experience]({{< ref "digitalgov-user-experience-resources.md" }} "DigitalGov User Experience Program") program that I manage at GSA helps: build UX teams at agencies across the federal government, them to understand their customers&#8217; needs, and build products centered around them.
+User Experience is closely related to [Customer Experience]({{ ref . "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}} "User Experience (UX) vs. Customer Experience (CX): What’s the Dif?"), and the [User Experience]({{ ref . "digitalgov-user-experience-resources.md" }} "DigitalGov User Experience Program") program that I manage at GSA helps: build UX teams at agencies across the federal government, them to understand their customers&#8217; needs, and build products centered around them.
 
 For this month&#8217;s UX theme, we&#8217;re hitting this topic from lots of angles:
 

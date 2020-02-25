@@ -29,7 +29,7 @@ Most content on the web is unstructured, meaning it’s just a page with blobs o
 
 An organization determines its content strategy by defining its capability areas and potential customers. Once defined, the organization can focus on developing a unique credibility in a specific area.
 
-An organization can’t have [content strategy]({{ ref . "/topics/content-strategy" >}}) and [structured content]({{< ref "/topics/open-and-structured-content-models" }}) until it learns to operate in a structured way.
+An organization can’t have [content strategy]({{ ref . "/topics/content-strategy" >}}) and [structured content]({{ ref . "/topics/open-and-structured-content-models" }}) until it learns to operate in a structured way.
 
 ## The Broader Story
 
@@ -45,7 +45,7 @@ In her work, Sara has noticed that entrenchment happens everywhere, in both publ
 
 **What do you see as the solution?**
 
-One solution to fix these problems is to get people thinking about content strategy—and patience is key to that success. There are many [techniques]({{ ref . "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) to get [content models]({{< ref "2016-05-05-how-to-create-portable-content-with-structured-content-models.md" }}) created, but changing way people think may take a while.
+One solution to fix these problems is to get people thinking about content strategy—and patience is key to that success. There are many [techniques]({{ ref . "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) to get [content models]({{ ref . "2016-05-05-how-to-create-portable-content-with-structured-content-models.md" }}) created, but changing way people think may take a while.
 
 You need to have a clear set of principles, determining the goal of the web site, what content is important to your audience and what it really needs from the site—and then get the organization to work in a structured way to deliver it.
 

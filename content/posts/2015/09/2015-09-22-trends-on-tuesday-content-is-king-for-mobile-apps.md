@@ -21,7 +21,7 @@ topics:
 
 Yahoo’s mobile analytics service, [Flurry](https://developer.yahoo.com/analytics/), released a [new and provocative report about mobile apps versus mobile browser usage](http://flurrymobile.tumblr.com/post/127638842745/seven-years-into-the-mobile-revolution-content-is), in which they found audiences are spending almost an hour more with their mobile phones than last year. They also discussed the importance of how “content is king” in mobile apps.
 
-The top mobile app categories included mobile messaging/social applications, entertainment, and games, which is nothing new; these continue to reign as the most popular among users as [repeat research]({{ ref . "2015-09-01-trends-on-tuesday-mobile-messaging-and-social-app-research-released.md" >}}) from different sources [continues to prove this]({{< ref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" }}).
+The top mobile app categories included mobile messaging/social applications, entertainment, and games, which is nothing new; these continue to reign as the most popular among users as [repeat research]({{ ref . "2015-09-01-trends-on-tuesday-mobile-messaging-and-social-app-research-released.md" >}}) from different sources [continues to prove this]({{ ref . "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" }}).
 
 What was unique about this report was that content within those apps was driving the time spent and creating that growth.
 
