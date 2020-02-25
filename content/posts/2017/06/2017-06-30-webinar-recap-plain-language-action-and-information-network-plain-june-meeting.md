@@ -146,5 +146,5 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
         </p>
 
         <p>
-          <em>If you have a <strong>.gov</strong> or <strong>.mil</strong> email address, consider joining one of our <a href="{{< ref "/communities" >}}">Communities</a>, such as the <a href="{{< ref "plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>, the <a href="{{< ref "web-managers-forum.md" >}}">Web Content Managers Forum</a>, the <a href="{{< ref . "multilingual.md" >}}">Multilingual Community of Practice</a>, or the <a href="{{< ref "web-managers-forum.md" >}}">Web Content Managers Forum</a>.</em>
+          <em>If you have a <strong>.gov</strong> or <strong>.mil</strong> email address, consider joining one of our <a href="{{< ref "/communities" >}}">Communities</a>, such as the <a href="{{< ref "plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>, the <a href="{{< ref "web-managers-forum.md" >}}">Web Content Managers Forum</a>, the <a href="{{ ref . "multilingual.md" }}">Multilingual Community of Practice</a>, or the <a href="{{< ref "web-managers-forum.md" >}}">Web Content Managers Forum</a>.</em>
         </p>

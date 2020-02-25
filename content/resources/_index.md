@@ -83,7 +83,7 @@ aliases:
 
 ## Multilingual
 
-* [Multilingual Community of Practice]({{< ref . "multilingual.md" >}})
+* [Multilingual Community of Practice]({{ ref . "multilingual.md" }})
 * [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}})
 * [Style Guides by Government Agencies]({{< ref "style-guides-by-government-agencies.md" >}})
 * [Top 10 Best Practices for Multilingual Websites]({{< ref "top-10-best-practices-for-multilingual-websites.md" >}})
