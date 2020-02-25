@@ -15,6 +15,8 @@ source_url: 'https://10x.gsa.gov/'
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: '10x.png'
 
+email: 10x@gsa.gov
+
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage
 # 1 == will show on the all services page
