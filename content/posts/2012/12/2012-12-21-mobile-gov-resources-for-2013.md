@@ -29,7 +29,7 @@ topics:
 
 **APIs**
 
-Application Programming Interfaces (APIs) have been called the “secret sauce” for digital services. They help open information (content and data) so it can be reused inside and outside of government. Agencies like the [CDC have leveraged API&#8217;s to build Mobile Gov]({{ ref . "2012-11-05-centers-for-disease-control-content-syndication.md" >}} "Centers for Disease Control Content Syndication"). The Digital Services Innovation Center is helping agencies build out APIs by building out knowledge. Agencies can [use the API Toolkit]({{ ref . "$1" }} "Introduction to APIs") and see [examples of APIs in government]({{ ref . "$1" }} "Healthfinder.gov API").
+Application Programming Interfaces (APIs) have been called the “secret sauce” for digital services. They help open information (content and data) so it can be reused inside and outside of government. Agencies like the [CDC have leveraged API&#8217;s to build Mobile Gov]({{ ref . "$1" }} "Centers for Disease Control Content Syndication"). The Digital Services Innovation Center is helping agencies build out APIs by building out knowledge. Agencies can [use the API Toolkit]({{ ref . "$1" }} "Introduction to APIs") and see [examples of APIs in government]({{ ref . "$1" }} "Healthfinder.gov API").
 
 **Open Content Management**
 
@@ -37,7 +37,7 @@ To support infrastructure and content needs across the federal government, the D
 
 **Mobile First**
 
-[Mobile First]({{ ref . "2013-09-30-mobile-first.md" >}} "Mobile First") is a form of mobile strategy that posits any content or application that an agency creates, should be done with a mobile first mentality. Agencies should design all mobile products with accessibility in mind and use these practices when testing. Check out the webinar we hosted that explains a proper Mobile First approach and then read the [National Cancer Institute&#8217;s mobile first approach]({{ ref . "$1" }} "Taking Cancer.gov Mobile").
+[Mobile First]({{ ref . "$1" }} "Mobile First") is a form of mobile strategy that posits any content or application that an agency creates, should be done with a mobile first mentality. Agencies should design all mobile products with accessibility in mind and use these practices when testing. Check out the webinar we hosted that explains a proper Mobile First approach and then read the [National Cancer Institute&#8217;s mobile first approach]({{ ref . "$1" }} "Taking Cancer.gov Mobile").
 
 **Mobile App vs. Mobile Web**
 
@@ -49,7 +49,7 @@ Since that webinar we&#8217;ve learned that mobile implementation is not a clear
 
   * Mobile Web&#8211;Instead of creating a mobile website different than the traditional agency website, a popular implementation of mobile web is [responsive design]({{ ref . "2013-06-11-responsive-design.md" }} "Responsive Design Overview, Resources and Tools") which allows a website to adjust to the size of any device&#8217;s screen.
   * Mobile Web Apps&#8211; One new implementation we are seeing are mobile websites that are responsive but offer some sort of advanced functionality. An example is [NIH&#8217;s MyDS web app]({{ ref . "2012-03-05-myds-web-app.md" }} "MyDS Web App") which allows users to document and store their dietary supplement intake from anytime and anywhere.
-  * Native Apps&#8211; We are seeing various mobile device functionalities being utilized on various mobile platforms. For some examples of good government native apps, check out [MyTSA]({{ ref . "2012-02-22-my-tsa-mobile-app.md" >}} "My TSA Mobile App"), [IRS2Go]({{ ref . "$1" }} "DOL Labor Stats App"), and USDA&#8217;s [AskKaren]({{ ref . "$1" }} "USDA’s Ask Karen").
+  * Native Apps&#8211; We are seeing various mobile device functionalities being utilized on various mobile platforms. For some examples of good government native apps, check out [MyTSA]({{ ref . "$1" }} "My TSA Mobile App"), [IRS2Go]({{ ref . "$1" }} "DOL Labor Stats App"), and USDA&#8217;s [AskKaren]({{ ref . "$1" }} "USDA’s Ask Karen").
 
 **Mobile Platforms**
 

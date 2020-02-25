@@ -23,7 +23,7 @@ topics:
 
 Practice makes perfect. But in the mobile world, it’s testing that makes products better.
 
-For federal agencies that have developed their own apps or mobile-friendly sites, the [CrowdSource Mobile Testing Program]({{ ref . "service_mobile-testing-program.md" >}}) offers a simple way to collect feedback on [compatibility testing]({{ ref . "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" }}).
+For federal agencies that have developed their own apps or mobile-friendly sites, the [CrowdSource Mobile Testing Program]({{ ref . "service_mobile-testing-program.md" }}) offers a simple way to collect feedback on [compatibility testing]({{ ref . "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" }}).
 
 Since the program’s inception in March 2013, eight federal mobile websites (including responsive design) have been tested by 65 federal employees from 41 agencies. The benefits are twofold: agencies receive actionable feedback about their mobile websites, and testers gain valuable knowledge about mobile websites that they can share with their own agencies.
 
@@ -61,4 +61,4 @@ Mobile devices may behave differently as they switch between WiFi and cellular d
 
 Do you want to help us create more mobile lessons learned? Join in and sign up to help us [virtually test BusinessUSA.gov](https://midas.18f.us/tasks/45) at your leisure next week.
 
-You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program page]({{ ref . "service_mobile-testing-program.md" >}}) provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{ ref . "/topics/mobile" }} "Mobile").
+You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program page]({{ ref . "service_mobile-testing-program.md" }}) provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{ ref . "/topics/mobile" }} "Mobile").

@@ -28,7 +28,7 @@ We also recently had Stephanie Thum, Vice President of Customer Experience at th
 
 ## Successful CX Programs
 
-Last February, we interviewed Stephanie Thum about customer experience and why leadership support at the highest levels is so important to [successful customer experience programs]({{ ref . "2014-02-21-customer-experience-video-blog-stephanie-thum-export-import-bank.md" >}} "Customer Experience Video Blog: Stephanie Thum, Export-Import Bank"), and since measuring the customer experience is super important she shared how the [Export-Import Bank measures the transaction experience and finding CX metrics that matter.]({{ ref . "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" }} "Government CX:  Where Do You Find the Right Foundational Metrics?")
+Last February, we interviewed Stephanie Thum about customer experience and why leadership support at the highest levels is so important to [successful customer experience programs]({{ ref . "2014-02-21-customer-experience-video-blog-stephanie-thum-export-import-bank.md" }} "Customer Experience Video Blog: Stephanie Thum, Export-Import Bank"), and since measuring the customer experience is super important she shared how the [Export-Import Bank measures the transaction experience and finding CX metrics that matter.]({{ ref . "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" }} "Government CX:  Where Do You Find the Right Foundational Metrics?")
 
 ## Social Media
 

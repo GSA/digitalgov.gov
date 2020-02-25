@@ -10,7 +10,7 @@ topics:
   - Census
 ---
 
-<a href="{{ ref . "2013-03-20-census-takes-march-madness-to-a-new-level.md" >}}" rel="attachment wp-att-97632">{{< legacy-img src="2013/03/census-1-308x220-1-250x178.jpg" alt="census-1-308x220 (1)" }}</a>
+<a href="{{ ref . "2013-03-20-census-takes-march-madness-to-a-new-level.md" }}" rel="attachment wp-att-97632">{{< legacy-img src="2013/03/census-1-308x220-1-250x178.jpg" alt="census-1-308x220 (1)" }}</a>
 
 Government agencies are working hard  to communicate complex mountains of data clearly and effectively through graphics. The [Census Bureau](http://www.census.gov/), known for their great work creating visual images, has done just that. They have created a great data visualization game just in time for March Madness! The game, &#8220;Population Bracketology&#8221; [tests your knowledge](http://www.census.gov/dataviz/visualizations/057/) of state and metropolitan area population estimates.
 

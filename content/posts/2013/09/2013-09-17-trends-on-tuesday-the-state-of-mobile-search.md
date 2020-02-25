@@ -19,6 +19,6 @@ Last year Google predicted that [mobile search will overtake the desktop search 
 
 According to [Google&#8217;s Mobile Search Moments Study](http://www.google.com/think/research-studies/creating-moments-that-matter.html), 40% of mobile searches have a local focus, with 77% of mobile searches occurring at home or at work and, 17% taking place while users are on the go. Shopping queries are twice as likely to take place while the user is in a store.
 
-It is important to take this information into account [when optimizing websites]({{ ref . "2013-08-27-trends-on-tuesday-why-you-should-be-accessible-on-mobile.md" >}} "Trends on Tuesday: Why You Should Be Accessible on Mobile") and thinking [mobile first]({{ ref . "2013-09-30-mobile-first.md" }} "Mobile First") so that constituents, vendors, employees, and stakeholders can access your information, anytime, anywhere.
+It is important to take this information into account [when optimizing websites]({{ ref . "2013-08-27-trends-on-tuesday-why-you-should-be-accessible-on-mobile.md" }} "Trends on Tuesday: Why You Should Be Accessible on Mobile") and thinking [mobile first]({{ ref . "2013-09-30-mobile-first.md" }} "Mobile First") so that constituents, vendors, employees, and stakeholders can access your information, anytime, anywhere.
 
 _By Lisa Wilcox, U.S. Department of Agriculture_

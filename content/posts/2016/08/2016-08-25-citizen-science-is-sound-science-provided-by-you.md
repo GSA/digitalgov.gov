@@ -30,4 +30,4 @@ Your involvement matters.
 The Forest Service very much wants to engage communities in caring for their land and natural resources. Every year, tens of thousands of [volunteers](http://www.fs.fed.us/working-with-us/volunteers) take to the forests, grasslands, wetlands, coasts–and their own backyards–to contribute high quality data for science.
 
 When the public is involved in land and resource management through citizen science, it can foster the connection between scientific discovery and public interest. So, how will you contribute to the places you love?_This post was originally published on the [Forest Service](http://www.fs.fed.us/blogs/) blog._
-_To learn more, read our [Crowdsourcing and Citizen Science articles]({{ ref . "/topics/crowdsourcing-and-citizen-science" >}}), and [join the Federal Community of Practice on Crowdsourcing and Citizen Science (CCS)]({{ ref . "/communities" }})._
+_To learn more, read our [Crowdsourcing and Citizen Science articles]({{ ref . "/topics/crowdsourcing-and-citizen-science" }}), and [join the Federal Community of Practice on Crowdsourcing and Citizen Science (CCS)]({{ ref . "/communities" }})._

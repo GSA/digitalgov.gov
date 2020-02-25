@@ -30,7 +30,7 @@ topics:
 
 {{< legacy-img src="2015/10/600-x-400-Businesswoman-talking-on-mobile-phone-Pilin_Petunyia-iStock-Thinkstock-177283677.jpg" alt="Business woman stops to use a mobile phone" caption="" >}} 
 
-DigitalGov&#8217;s [theme]({{ ref . "/topics/monthly-theme" >}}) this month is [mobile moments]({{ ref . "2015-10-07-is-your-agency-winning-its-mobile-moments.md" }}), which explores the impact of mobile applications in the federal government. For this post, I am examining the more than 300 mobile apps created by the federal government. An <a href="https://www.usa.gov/mobile-apps" target="_blank">updated list of federal mobile apps is on USA.gov</a>.
+DigitalGov&#8217;s [theme]({{ ref . "/topics/monthly-theme" }}) this month is [mobile moments]({{ ref . "2015-10-07-is-your-agency-winning-its-mobile-moments.md" }}), which explores the impact of mobile applications in the federal government. For this post, I am examining the more than 300 mobile apps created by the federal government. An <a href="https://www.usa.gov/mobile-apps" target="_blank">updated list of federal mobile apps is on USA.gov</a>.
 
 According to the list, 73 federal organizations have released mobile apps on a wide variety of topics. The National Oceanic and Atmospheric Administration has the most mobile apps with 31 releases. The Smithsonian Institution released 15 mobile apps while the Centers for Disease Control, the Department of Defense and the Department of Health and Human Services have 14 mobile apps each.
 

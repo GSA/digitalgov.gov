@@ -20,7 +20,7 @@ topics:
 
 What is mobile-friendly?
 
-[Mobile-friendly]({{ ref . "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" >}}) simply means your visitors can use phones and tablets to visit your website and [have a user-friendly experience]({{ ref . "2015-10-20-focus-on-mobile-performance.md" }}).
+[Mobile-friendly]({{ ref . "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" }}) simply means your visitors can use phones and tablets to visit your website and [have a user-friendly experience]({{ ref . "2015-10-20-focus-on-mobile-performance.md" }}).
 
 Many of us get toward the end of mobile site development and really do not know if what we created is &#8220;mobile-friendly.” We think we have followed all of the mobile best practices and performed usability testing. However, do we have something concrete to quantitatively certify that we are mobile-friendly?
 

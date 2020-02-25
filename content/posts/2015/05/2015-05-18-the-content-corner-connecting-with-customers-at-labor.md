@@ -20,7 +20,7 @@ topics:
 
 {{< legacy-img src="2015/05/250-x-249-People-in-Social-network-VOLODYMYR-GRINKO-iStock-Thinkstock-156972305.jpg" alt="Outline of a figure is surrounded by social and business icons" caption="" >}} 
 
-Here at DigitalGov, [customer service is a focal theme]({{ ref . "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" >}}) during the month of May, and by some type of cosmic chance, I was invited to share my insights on [content strategy]({{ ref . "2015-03-23-the-content-corner-building-a-content-strategy.md" }} "The Content Corner: Building a Content Strategy") and content creation at a Customer Service Community of Practice event at the Department of Labor. The event focused on topics I commonly discuss here in [The Content Corner]({{ ref . "/topics/the-content-corner" }}), such as efficient and interesting content and how better content translates into better customer service.
+Here at DigitalGov, [customer service is a focal theme]({{ ref . "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" }}) during the month of May, and by some type of cosmic chance, I was invited to share my insights on [content strategy]({{ ref . "2015-03-23-the-content-corner-building-a-content-strategy.md" }} "The Content Corner: Building a Content Strategy") and content creation at a Customer Service Community of Practice event at the Department of Labor. The event focused on topics I commonly discuss here in [The Content Corner]({{ ref . "/topics/the-content-corner" }}), such as efficient and interesting content and how better content translates into better customer service.
 
 ## **Content = Customer Service**
 
@@ -34,7 +34,7 @@ The customer service event at Labor, organized by the extremely hard-working Eri
 
 The Obama administration made digital government and a more [customer-centric government](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#better-digital-services) a primary focus upon coming into office, and this blog and this platform and all the things you read about here are an outgrowth of the gauntlet laid down by the administration. One of the key parts of that initiative is [plain language]({{ ref . "2014-04-16-how-to-tell-your-agencys-story-plainly.md" }}) and easily digestible content, a struggle discussed by the agency representatives at Labor. One example was the challenge of making extremely dense policy documents or presentations more accessible and scannable to the user. Some suggestions from the panelists included:
 
-  * Think of new [ways to present plain text content]({{ ref . "2015-05-11-the-content-corner-ranking-six-common-content-types.md" >}} "The Content Corner: Ranking Six Common Content Types") (video, [podcasts]({{ ref . "2015-04-06-the-content-corner-should-you-be-podcasting.md" }} "The Content Corner: Should You Be Podcasting?"))
+  * Think of new [ways to present plain text content]({{ ref . "2015-05-11-the-content-corner-ranking-six-common-content-types.md" }} "The Content Corner: Ranking Six Common Content Types") (video, [podcasts]({{ ref . "2015-04-06-the-content-corner-should-you-be-podcasting.md" }} "The Content Corner: Should You Be Podcasting?"))
   * Look for ways to split the content into more digestible chunks
   * [Infographics](https://www.youtube.com/watch?v=bgpGefaZVJ4) are a very efficient way to convey information to a user
 

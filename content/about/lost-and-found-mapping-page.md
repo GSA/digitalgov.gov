@@ -472,7 +472,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Storyboarding is Key to Successful Storytelling" href="{{ ref . "2014-04-25-storyboarding-is-key-to-successful-storytelling.md" >}}">Storyboarding is Key to Successful Storytelling</a><br /> <a title="Storyboard: A Tool for a Successful Video" href="{{ ref "2014-04-11-storyboard-a-tool-for-a-successful-video.md" }}">Storyboard: A Tool for a Successful Video</a>
+      <a title="Storyboarding is Key to Successful Storytelling" href="{{ ref . "$1" }}">Storyboarding is Key to Successful Storytelling</a><br /> <a title="Storyboard: A Tool for a Successful Video" href="{{ ref "2014-04-11-storyboard-a-tool-for-a-successful-video.md" }}">Storyboard: A Tool for a Successful Video</a>
     </td>
   </tr>
 

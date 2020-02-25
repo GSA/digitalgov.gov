@@ -49,4 +49,4 @@ Learn more about some innovative ways that federal agencies are utilizing Machin
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
 
-_Interested in connecting with other feds exploring machine learning, artificial intelligence (AI), and similar innovations? Check out our new [Emerging Citizen Technology program]({{ ref . "2017-08-24-emerging-tech-and-open-data-for-a-more-open-and-accountable-government.md" >}}) and join the related [Communities of Practice]({{ ref . "/communities" }})._
+_Interested in connecting with other feds exploring machine learning, artificial intelligence (AI), and similar innovations? Check out our new [Emerging Citizen Technology program]({{ ref . "2017-08-24-emerging-tech-and-open-data-for-a-more-open-and-accountable-government.md" }}) and join the related [Communities of Practice]({{ ref . "/communities" }})._

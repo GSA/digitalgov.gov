@@ -30,7 +30,7 @@ Maybe everyone else gets this and I am showing scars from bad CMS implementation
 
 At [my agency](http://uscourts.gov), we have recently wrapped up a project to streamline the CMS form our court HR representatives use for internal job postings.
 
-After [user interviews]({{ ref . "2013-06-28-6-way-to-improve-web-user-experience.md" >}}), [wireframing]({{ ref . "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" }}) and a recent migration to a Drupal CMS, we were able to really simplify the job posting process for this group of content contributors dispersed across the country (and U.S. territories).
+After [user interviews]({{ ref . "2013-06-28-6-way-to-improve-web-user-experience.md" }}), [wireframing]({{ ref . "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" }}) and a recent migration to a Drupal CMS, we were able to really simplify the job posting process for this group of content contributors dispersed across the country (and U.S. territories).
 
 ## Field Names
 

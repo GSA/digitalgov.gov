@@ -73,4 +73,4 @@ Over the past two years, Bryce has served as the multimedia lead for the Consume
 
 Bryce graduated from Virginia Commonwealth University with his bachelor of science in Public Relations and currently lives in Washington, D.C.
 
-_The [Video Production Pros Community of Practice]({{ ref . "video.md" >}}) is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining]({{ ref . "video.md" >}})._
+_The [Video Production Pros Community of Practice]({{ ref . "$1" }})._

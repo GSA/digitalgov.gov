@@ -68,4 +68,4 @@ Some of the feedback included expanding the Quick Links section to a wider set o
   “Go read a case study and drink the Kool-Aid, then the next thing to focus on is writing a good test plan, and make sure you build enough time into your schedule to make it happen.”
 </p>
 
-_For more information on usability testing, visit the [DigitalGov User Experience Program]({{ ref . "digitalgov-user-experience-resources.md" >}}) page or [join the DigitalGov User Experience Community of Practice.]({{ ref . "user-experience.md" }})_
+_For more information on usability testing, visit the [DigitalGov User Experience Program]({{ ref . "digitalgov-user-experience-resources.md" }}) page or [join the DigitalGov User Experience Community of Practice.]({{ ref . "user-experience.md" }})_

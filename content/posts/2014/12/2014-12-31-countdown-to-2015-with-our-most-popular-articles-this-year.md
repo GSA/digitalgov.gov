@@ -20,7 +20,7 @@ topics:
 
 As we round out 2014, we’re reflecting on the exciting year we’ve had at DigitalGov since we [launched in February]({{ ref . "2014-02-26-open-for-innovation-in-digitalgov.md" }} "Open for Innovation in DigitalGov!"). Our mission is to share information and resources from agencies across the federal government that are working in the digital space, and highlight the services and communities that can help you meet your digital government goals.
 
-We look forward to bringing you more great content in 2015, but first we wanted to highlight the most popular articles on DigitalGov this year. You can also check out the [hottest Mobile articles]({{ ref . "2014-12-30-trends-on-tuesday-the-hottest-digitalgov-mobile-articles-in-2014.md" >}} "Trends on Tuesday: The Hottest DigitalGov Mobile Articles in 2014") and [biggest Social Media initiatives in 2014]({{ ref . "2014-12-31-big-in-socialgov-in-2014-services-access-and-participation.md" }}).
+We look forward to bringing you more great content in 2015, but first we wanted to highlight the most popular articles on DigitalGov this year. You can also check out the [hottest Mobile articles]({{ ref . "2014-12-30-trends-on-tuesday-the-hottest-digitalgov-mobile-articles-in-2014.md" }} "Trends on Tuesday: The Hottest DigitalGov Mobile Articles in 2014") and [biggest Social Media initiatives in 2014]({{ ref . "2014-12-31-big-in-socialgov-in-2014-services-access-and-participation.md" }}).
 
 ## Top 10 Most Viewed Articles
 
@@ -30,7 +30,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   </div>
   
   <div class="one-half">
-    <a title="Can Federal Agencies Use Getty Images’ Free Share Tool?" href="{{ ref . "2014-04-03-can-federal-agencies-use-getty-images-free-share-tool.md" >}}">{{< legacy-img src="2014/12/featured-301-x-212-Getty-article-image.jpg" alt="Screencapture of Getty thumbnails." }}</a>
+    <a title="Can Federal Agencies Use Getty Images’ Free Share Tool?" href="{{ ref . "2014-04-03-can-federal-agencies-use-getty-images-free-share-tool.md" }}">{{< legacy-img src="2014/12/featured-301-x-212-Getty-article-image.jpg" alt="Screencapture of Getty thumbnails." }}</a>
   </div>
 </blockquote>
 
@@ -40,7 +40,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   </div>
   
   <div class="one-half">
-    <a title="U.S. Gov Releases New Collaborative Social Media Services" href="{{ ref . "2014-06-30-u-s-gov-releases-new-collaborative-social-media-services.md" >}}">{{< legacy-img src="2014/06/featured-301-x-212-June-30th2014-SocialGov-Google-Hangout.jpg" alt="YouTube screen capture of June 30, 2014 SocialGov Google Hangout" }}</a>
+    <a title="U.S. Gov Releases New Collaborative Social Media Services" href="{{ ref . "2014-06-30-u-s-gov-releases-new-collaborative-social-media-services.md" }}">{{< legacy-img src="2014/06/featured-301-x-212-June-30th2014-SocialGov-Google-Hangout.jpg" alt="YouTube screen capture of June 30, 2014 SocialGov Google Hangout" }}</a>
   </div>
 </blockquote>
 
@@ -70,7 +70,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   </div>
   
   <div class="one-half">
-    <a title="New Google Analytics for Government Training Manual" href="{{ ref . "2014-05-15-new-google-analytics-for-government-training-manual.md" >}}">{{< legacy-img src="2014/05/featured-301-x-212-Google-Analytics-for-Government-2nd-Edition-May-2014.jpg" alt="The cover image for the title, Google Analytics for Government, 2nd Edition, May 2014" }}</a>
+    <a title="New Google Analytics for Government Training Manual" href="{{ ref . "2014-05-15-new-google-analytics-for-government-training-manual.md" }}">{{< legacy-img src="2014/05/featured-301-x-212-Google-Analytics-for-Government-2nd-Edition-May-2014.jpg" alt="The cover image for the title, Google Analytics for Government, 2nd Edition, May 2014" }}</a>
   </div>
 </blockquote>
 
@@ -80,7 +80,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   </div>
   
   <div class="one-half">
-    <a title="NOAA National Weather Service Meteorologist Twitter Use Shows that All Government Employees are Communicators" href="{{ ref . "2014-02-26-noaa-national-weather-service-meteorologist-twitter-use-shows-that-all-government-employees-are-communicators.md" >}}">{{< legacy-img src="2014/08/featured-301-x-212-NOAA-logo-seal-National-Oceanic-and-Atmospheric-Administration.jpg" alt="Logo / seal for the National Oceanic and Atmospheric Administration (NOAA)" }}</a>
+    <a title="NOAA National Weather Service Meteorologist Twitter Use Shows that All Government Employees are Communicators" href="{{ ref . "2014-02-26-noaa-national-weather-service-meteorologist-twitter-use-shows-that-all-government-employees-are-communicators.md" }}">{{< legacy-img src="2014/08/featured-301-x-212-NOAA-logo-seal-National-Oceanic-and-Atmospheric-Administration.jpg" alt="Logo / seal for the National Oceanic and Atmospheric Administration (NOAA)" }}</a>
   </div>
 </blockquote>
 
@@ -90,7 +90,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   </div>
   
   <div class="one-half">
-    <a title="Government Open and Structured Content Models Are Here!" href="{{ ref . "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}">{{< legacy-img src="2014/05/featured-301-x-212-Content-Model-Mural-portion-1.jpg" alt="featured 301 x 212 Content Model Mural, open content portion" }}</a>
+    <a title="Government Open and Structured Content Models Are Here!" href="{{ ref . "2014-05-05-government-open-and-structured-content-models-are-here.md" }}">{{< legacy-img src="2014/05/featured-301-x-212-Content-Model-Mural-portion-1.jpg" alt="featured 301 x 212 Content Model Mural, open content portion" }}</a>
   </div>
 </blockquote>
 
@@ -110,7 +110,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   </div>
   
   <div class="one-half">
-    <a title="Customize Your Own Amazing Social Media Report Infographic" href="{{ ref . "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" >}}">{{< legacy-img src="2014/03/GAO-Featured-Social-Media-Rocket_301x212.jpg" alt="GAO-Featured-Social-Media-Rocket_301x212" }}</a>
+    <a title="Customize Your Own Amazing Social Media Report Infographic" href="{{ ref . "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" }}">{{< legacy-img src="2014/03/GAO-Featured-Social-Media-Rocket_301x212.jpg" alt="GAO-Featured-Social-Media-Rocket_301x212" }}</a>
   </div>
 </blockquote>
 
@@ -120,7 +120,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   </div>
   
   <div class="one-half">
-    <a title="Creating Awesome Web Analytics Reports and Presentations" href="{{ ref . "2014-03-04-creating-awesome-web-analytics-reports-and-presentations.md" >}}">{{< legacy-img src="2014/12/featured-301-x-212-Google-Analytics-image.jpg" alt="Google Analytics graphic" }}</a>
+    <a title="Creating Awesome Web Analytics Reports and Presentations" href="{{ ref . "2014-03-04-creating-awesome-web-analytics-reports-and-presentations.md" }}">{{< legacy-img src="2014/12/featured-301-x-212-Google-Analytics-image.jpg" alt="Google Analytics graphic" }}</a>
   </div>
 </blockquote>
 

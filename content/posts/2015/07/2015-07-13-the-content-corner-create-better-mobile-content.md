@@ -20,7 +20,7 @@ topics:
 
 {{< legacy-img src="2015/07/600-x-436-Mobile-phone-Nik_Merkulov-iStock-Thinkstock-466186589.jpg" alt="Mobile devices with question marks on the screens" caption="" >}} 
 
-All content needs to be developed with a [mobile-first]({{ ref . "2013-09-30-mobile-first.md" >}}) strategy, from [headline choice]({{ ref . "2015-06-22-the-content-corner-writing-better-headlines.md" }}) to paragraph length.
+All content needs to be developed with a [mobile-first]({{ ref . "2013-09-30-mobile-first.md" }}) strategy, from [headline choice]({{ ref . "2015-06-22-the-content-corner-writing-better-headlines.md" }}) to paragraph length.
 
 Although we are all now living in a post-[mobilegeddon]({{ ref . "2015-04-15-mobilegeddon-government-edition.md" }}) world, many of us are still implementing a mobile strategy. This strategy should consider several factors, including viewport size, cellular versus WiFi considerations, and load times.
 
@@ -62,7 +62,7 @@ Be sure to review any content you are creating in a small viewport to at least m
 
 # Images Are a Double-edged Sword
 
-There are ongoing conversations about the pros and cons of images. This includes the wonderful possibilities of what are hopefully not permanently being called “[gifographics](http://contentmarketinginstitute.com/2015/06/gifographics-better-infographics/)” or animated infographics. Of course, we also must account for the challenges of [making graphics accessible]({{ ref . "improving-the-accessibility-of-social-media-in-government.md" >}}) to all our site visitors. Images can convey a lot of information quickly and can be very efficient. But many infographics still scale poorly on mobile and can be both bandwidth and screen hogs. At a minimum, understand the tradeoffs associated with graphics and mobile alongside their efficiency and [desirability among users]({{ ref . "2015-05-11-the-content-corner-ranking-six-common-content-types.md" }}).
+There are ongoing conversations about the pros and cons of images. This includes the wonderful possibilities of what are hopefully not permanently being called “[gifographics](http://contentmarketinginstitute.com/2015/06/gifographics-better-infographics/)” or animated infographics. Of course, we also must account for the challenges of [making graphics accessible]({{ ref . "improving-the-accessibility-of-social-media-in-government.md" }}) to all our site visitors. Images can convey a lot of information quickly and can be very efficient. But many infographics still scale poorly on mobile and can be both bandwidth and screen hogs. At a minimum, understand the tradeoffs associated with graphics and mobile alongside their efficiency and [desirability among users]({{ ref . "2015-05-11-the-content-corner-ranking-six-common-content-types.md" }}).
 
 # Use Paragraphs Wisely
 

@@ -16,7 +16,7 @@ topics:
 
 {{< legacy-img src="2015/05/600-x-335-Human-Connection-gray-tonivaver-iStock-Thinkstock-466180691.jpg" alt="Network of human figures" caption="" >}} 
 
-Over the past several years, DigitalGov has been extremely focused on [structured content]({{ ref . "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}), [content models]({{ ref . "2014-05-05-government-open-and-structured-content-models-are-here.md" }}), and their role in [future-ready content]({{ ref . "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" }}) (and rightly so). A shift of focus back to the content itself as opposed to where it will be published is critical for agencies as we aim to reach as many customers as possible, regardless of what device or screen they are using.
+Over the past several years, DigitalGov has been extremely focused on [structured content]({{ ref . "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" }}), [content models]({{ ref . "2014-05-05-government-open-and-structured-content-models-are-here.md" }}), and their role in [future-ready content]({{ ref . "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" }}) (and rightly so). A shift of focus back to the content itself as opposed to where it will be published is critical for agencies as we aim to reach as many customers as possible, regardless of what device or screen they are using.
 
 Making the end user an extremely high priority in our content publishing is also important, but there are several other user groups that we need to make sure aren’t lost in the shuffle:
 

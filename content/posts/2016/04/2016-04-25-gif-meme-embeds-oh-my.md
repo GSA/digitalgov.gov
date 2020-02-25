@@ -45,7 +45,7 @@ From a simple infographic like [USA.gov did](https://gsa-cmp-fileupload.s3.amazo
 
 ## Blogs
 
-By now, probably most of us know what a blog is—you hopefully have a blog on your website, which you regularly produce content in an easy readable, hopefully [plain language format]({{ ref . "plain-language-web-writing-tips.md" >}}), for your audience to read. A blog can take many forms, it can be posted natively on your website, on a social networking page, etc. For example, recently at FirstNet we [launched a Tumblr account]({{ ref . "2016-03-17-firstnet-launches-tumblr-seeking-stories-of-public-safety-broadband-use.md" }}), which we use as an [extension of our blog](http://firstnet.gov/newsroom/blog) to tell real stories of our nation’s first responders.
+By now, probably most of us know what a blog is—you hopefully have a blog on your website, which you regularly produce content in an easy readable, hopefully [plain language format]({{ ref . "plain-language-web-writing-tips.md" }}), for your audience to read. A blog can take many forms, it can be posted natively on your website, on a social networking page, etc. For example, recently at FirstNet we [launched a Tumblr account]({{ ref . "2016-03-17-firstnet-launches-tumblr-seeking-stories-of-public-safety-broadband-use.md" }}), which we use as an [extension of our blog](http://firstnet.gov/newsroom/blog) to tell real stories of our nation’s first responders.
 
 As Tyrus Manuel said in a [previous Content Corner post]({{ ref . "2015-07-06-the-content-corner-creating-good-content-is-hard.md" }}), “there is great benefit in allowing a subject matter expert (SME) to simply convey the knowledge that they have”—and a blog is a great platform to allow for that.
 

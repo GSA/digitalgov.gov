@@ -26,7 +26,7 @@ topics:
 
 Government mobile code developed to help make tables mobile-friendly in one agency has now been used in another agency’s mobile efforts.
 
-Last month, Clair Koroma told DigitalGov readers about [code that the Department of Health and Human Services had developed]({{ ref . "2014-10-30-hhs-conquers-tables-in-a-responsive-design.md" >}}) to make website tables mobile-friendly and then HHS shared it on the [Mobile Code Sharing Catalog]({{ ref . "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" }} "Federal Mobile Code Sharing Catalog Is Here"). Debra Fiorrito from the Defense Financial Accounting Service and her developer, Todd Posius, have implemented the code on the DFAS.mil site.
+Last month, Clair Koroma told DigitalGov readers about [code that the Department of Health and Human Services had developed]({{ ref . "2014-10-30-hhs-conquers-tables-in-a-responsive-design.md" }}) to make website tables mobile-friendly and then HHS shared it on the [Mobile Code Sharing Catalog]({{ ref . "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" }} "Federal Mobile Code Sharing Catalog Is Here"). Debra Fiorrito from the Defense Financial Accounting Service and her developer, Todd Posius, have implemented the code on the DFAS.mil site.
 
 Fioritto, the program manager for [DFAS.mil](http://www.dfas.mil/) said in an interview, that one of the DFAS challenges has been “dealing with tables as a thorn in their side.” Approximately 5% of DFAS.mil pages have tables “with not a lot of consistency, and on mobile the tables just extended off the page.”
 

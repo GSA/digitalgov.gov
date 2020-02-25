@@ -41,7 +41,7 @@ In addition to the global distribution of our users, a full 20% of our survey re
 What other aspects of writing should authors of technical content pay attention to?
 
   * Writing in the agency style, which writers often forget about in the midst of analysis. Our agency has a [Writing Style Guide](http://www.eia.gov/about/eiawritingstyleguide.pdf) to help writers with punctuation, hyphenation, capitalization and agency style choices.
-  * Scrubbing for consistency in usage, [voice]({{ ref . "2015-04-20-the-content-corner-finding-your-voice.md" >}}) and [writing style]({{ ref . "2015-06-08-the-content-corner-creating-a-content-style-guide.md" }}) when a report has many authors.
+  * Scrubbing for consistency in usage, [voice]({{ ref . "2015-04-20-the-content-corner-finding-your-voice.md" }}) and [writing style]({{ ref . "2015-06-08-the-content-corner-creating-a-content-style-guide.md" }}) when a report has many authors.
   * Reading the document aloud before sending it to your boss. Use spell check for way more than just spelling. Have a nontechnical colleague read it and give honest feedback. If you are the reviewer, never be afraid to say “I don’t understand this.” If you don’t understand what the writer is saying, many readers won’t either.
 
 And, the sentence at the beginning of this piece should say, “This method used many factors to achieve a record level of production.”

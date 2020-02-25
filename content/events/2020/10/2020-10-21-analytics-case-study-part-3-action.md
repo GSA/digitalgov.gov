@@ -42,7 +42,7 @@ youtube_id:
 
 In part 3 of our Analytics Case Study series, we'll address how to take action using the data and insights from Part 2 of this series. We'll continue using our real world example of an agency to illustrate how to begin thinking about taking action, using your insights from the data.
 
-You will need to have attended, or viewed [**Part 1**]({{ ref . "2020-08-26-dap-analytics-case-study-part-1.md" >}}) and [**Part 2**]({{ ref . "$1" }}) of our Analytics Case Study series, identified your website mission, goals and KPIs and understand how to tie your DAP Google Analytics reporting to your strategy.
+You will need to have attended, or viewed [**Part 1**]({{ ref . "$1" }}) and [**Part 2**]({{ ref . "$1" }}) of our Analytics Case Study series, identified your website mission, goals and KPIs and understand how to tie your DAP Google Analytics reporting to your strategy.
 
 We'll walk through step by step, how to think about taking actions based on data and insights. The goal of the webinar is to empower you with a real world example about how to connect the dots between your website mission, goals, KPIs and insights, to begin taking action.
 

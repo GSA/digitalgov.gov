@@ -28,7 +28,7 @@ So, you have some systems or tools your customers or employees access. Maybe you
 
 ## Step 1: Get buy-in {{< legacy-img src="2015/02/250-x-167-Learn-and-share-conceptual-words-on-blackboard-AnsonLu-iStock-Thinkstock-525385549.jpg" alt="Learn and share conceptual words on blackboard" caption="" >}} 
 
-First, get a UX champion in your organization. Lay the groundwork with managers, content authors, developers, or anyone else who has a stake in improving user experience. Read [books](http://uxmastery.com/resources/books/) and [articles]({{ ref . "/topics/ux" >}}), attend [events and webinars]({{ ref . "/events" }}), and share your insight with your colleagues. Use what you have learned to show how it benefits your organization. Keep building until you are the office usability expert.
+First, get a UX champion in your organization. Lay the groundwork with managers, content authors, developers, or anyone else who has a stake in improving user experience. Read [books](http://uxmastery.com/resources/books/) and [articles]({{ ref . "/topics/ux" }}), attend [events and webinars]({{ ref . "/events" }}), and share your insight with your colleagues. Use what you have learned to show how it benefits your organization. Keep building until you are the office usability expert.
 
 As one UX-pert advised, &#8220;Don’t let the naysayers discourage you. You’re likely to run into obstacles from internal stakeholders and even established designers.&#8221; Talk it up so word gets to the right people.
 
@@ -36,7 +36,7 @@ Don’t forget you have the [Federal UX Community of Practice]({{ ref . "user-ex
 
 ## Step 2: Have a strategy
 
-{{< legacy-img src="2015/02/250-x-167-Mobile-Paper-Prototype-tablet-screenshot-May-20th-2014-8am.jpg" alt="Mobile paper prototype tablet screenshot" >}}Which projects do you think can provide some quick wins to build enthusiasm? Start small, like testing an existing system. Make use of the free [usability testing resources]({{ ref . "digitalgov-user-experience-resources.md" >}}) at GSA. Then add [prototyping]({{ ref . "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" }}) in your next research project. Maybe a [card sort](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)? How about developing [personas]({{ ref . "2015-01-09-personas-101.md" }})? If you’re doing a full-blown test, why not invite observers?
+{{< legacy-img src="2015/02/250-x-167-Mobile-Paper-Prototype-tablet-screenshot-May-20th-2014-8am.jpg" alt="Mobile paper prototype tablet screenshot" >}}Which projects do you think can provide some quick wins to build enthusiasm? Start small, like testing an existing system. Make use of the free [usability testing resources]({{ ref . "digitalgov-user-experience-resources.md" }}) at GSA. Then add [prototyping]({{ ref . "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" }}) in your next research project. Maybe a [card sort](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)? How about developing [personas]({{ ref . "2015-01-09-personas-101.md" }})? If you’re doing a full-blown test, why not invite observers?
 
 You may need to prove how usability is worth it. Look at the Web analytics and show how your changes made a noticeable improvement.
 

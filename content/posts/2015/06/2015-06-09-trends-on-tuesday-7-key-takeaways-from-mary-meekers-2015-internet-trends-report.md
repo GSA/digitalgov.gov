@@ -17,7 +17,7 @@ topics:
 
 [{{< legacy-img src="2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from Internet Trends 2015 - Code conference by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Government-Just-Beginning.jpg)
 
-Silicon Valley analyst [Mary Meeker’s annual 2015 Internet Trends report](http://www.kpcb.com/internet-trends) has been released and is an exhaustive analysis of the world’s digital evolution (often [mobile first]({{ ref . "2013-09-30-mobile-first.md" >}}) driven) and how it is affecting business, culture and information. [Previous years&#8217; reports]({{ ref . "2014-06-03-trends-on-tuesday-mary-meekers-2014-internet-trends.md" }}) have tracked emerging tech from mobile to 3D printing, and this year is no different.
+Silicon Valley analyst [Mary Meeker’s annual 2015 Internet Trends report](http://www.kpcb.com/internet-trends) has been released and is an exhaustive analysis of the world’s digital evolution (often [mobile first]({{ ref . "2013-09-30-mobile-first.md" }}) driven) and how it is affecting business, culture and information. [Previous years&#8217; reports]({{ ref . "2014-06-03-trends-on-tuesday-mary-meekers-2014-internet-trends.md" }}) have tracked emerging tech from mobile to 3D printing, and this year is no different.
 
 Here are some of the key highlights from the report for government agencies and mobile-focused people:
 
