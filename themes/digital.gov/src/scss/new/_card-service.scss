@@ -1,0 +1,37 @@
+.card-service{
+  @include u-padding-y(3);
+  @include u-border-top('base-lighter', '1px', 'solid');
+  @include u-display('flex');
+  &:first-child{
+    @include u-border-top(0);
+  }
+
+  img{
+    @include u-margin-right('105');
+    @include u-width(6);
+    @include u-height(6);
+    @include at-media('tablet') {
+      @include u-margin-right('205');
+      @include u-width(8);
+      @include u-height(8);
+  	}
+  }
+  h3{
+    @include u-margin-bottom(1);
+    a{
+      @include u-text('black');
+      // @include u-text('no-underline');
+      &:hover{
+        // @include u-text('underline');
+      }
+    }
+  }
+  p{
+    @include u-margin-top(0);
+    @include u-line-height('sans', 2);
+  }
+  .contact{
+    @include u-font('sans', '2xs');
+    @include u-margin-top('105');
+  }
+}

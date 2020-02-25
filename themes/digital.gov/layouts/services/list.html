@@ -25,31 +25,45 @@
   <section>
     <div class="grid-container grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-2">
+        <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
 
-      {{/* Gets all service pages */}}
-      {{- $services := (where .Site.Pages "Section" "services") -}}
+        {{/* Gets all service pages */}}
+        {{- $services := (where .Site.Pages "Section" "services") -}}
 
-      {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-      {{- $services := (where $services ".Params.weight" "ge" 1) -}}
+        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+        {{- $services := (where $services ".Params.weight" "ge" 1) -}}
 
-      {{- with $services -}}
+        {{- $services := (where $services ".Params.weight" "ge" 1) -}}
 
-        {{- range $i, $e := . -}}
+        {{- with $services -}}
 
-          <div class="grid-col-12 tablet:grid-col-6">
-            <div class="promo promo-card " data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
-              {{- if .Params.icon -}}
-              {{- $src := (print "/logos/" .Params.icon) -}}
-              <img src="{{- $src | relURL -}}" alt="{{- .Params.name }} Logo">
-              {{- end -}}
-              <h3><a href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .Permalink -}}{{- end -}}?dg" title="{{- .Params.title -}}">{{- .Params.title -}}</a></h3>
-              <p>{{- .Params.summary | markdownify -}}</p>
-              <a class="overlay" href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .Permalink -}}{{- end -}}?dg" title="{{- .Params.title -}}"><span></span></a>
-            </div>
-          </div>
+          {{- range sort . "Title" -}}
 
+              <div class="card-service" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+                
+                {{- if .Params.icon -}}
+                {{- $src := (print "/logos/" .Params.icon) -}}
+                <img src="{{- $src | relURL -}}" alt="{{- .Params.name }} Logo">
+                {{- end -}}
+
+                <div>
+                  <h3><a href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .Permalink -}}{{- end -}}?dg" title="{{- .Params.title -}}">{{- .Params.title -}}</a></h3>
+
+                  <p>{{- .Params.summary | markdownify -}}</p>
+
+                  <p class="contact">
+                  {{- if .Params.email -}}
+                    <a href="mailto:{{- .Params.email -}}" title="Email {{ .Params.title -}}">{{- .Params.email -}}</a>
+                  {{- end -}}
+                  </p>
+
+                </div>
+
+              </div>
+
+          {{- end -}}
         {{- end -}}
-      {{- end -}}
+        </div>
       </div>
 
     </div>
