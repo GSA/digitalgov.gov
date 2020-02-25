@@ -58,4 +58,4 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **Video and Events:** Alexandar Schulte, Gabrielle Fratanduono <br/>
 **U.S. Web Design System:** Dan Williams <br/>
 
-{{< button href="{{< ref '/about/contact.md'>}}" text="Contact Us" >}}
+{{< button href="/about/contact/" text="Contact Us" >}}
