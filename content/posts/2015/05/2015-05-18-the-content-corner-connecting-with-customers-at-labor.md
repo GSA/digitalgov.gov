@@ -20,7 +20,7 @@ topics:
 
 {{< legacy-img src="2015/05/250-x-249-People-in-Social-network-VOLODYMYR-GRINKO-iStock-Thinkstock-156972305.jpg" alt="Outline of a figure is surrounded by social and business icons" caption="" >}} 
 
-Here at DigitalGov, [customer service is a focal theme]({{ ref . "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" >}}) during the month of May, and by some type of cosmic chance, I was invited to share my insights on [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}} "The Content Corner: Building a Content Strategy") and content creation at a Customer Service Community of Practice event at the Department of Labor. The event focused on topics I commonly discuss here in [The Content Corner]({{< ref "/topics/the-content-corner" }}), such as efficient and interesting content and how better content translates into better customer service.
+Here at DigitalGov, [customer service is a focal theme]({{ ref . "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" >}}) during the month of May, and by some type of cosmic chance, I was invited to share my insights on [content strategy]({{ ref . "2015-03-23-the-content-corner-building-a-content-strategy.md" }} "The Content Corner: Building a Content Strategy") and content creation at a Customer Service Community of Practice event at the Department of Labor. The event focused on topics I commonly discuss here in [The Content Corner]({{< ref "/topics/the-content-corner" }}), such as efficient and interesting content and how better content translates into better customer service.
 
 ## **Content = Customer Service**
 

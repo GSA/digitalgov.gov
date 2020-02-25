@@ -58,4 +58,4 @@ Federal website administrators can [email the DAP Support team](mailto:dap@suppo
 
 
 _For additional information regarding federal websites and digital products, visit our [Resources]({{ ref . "/resources/_index.md" >}}) section, and review the [Checklist of Requirements for Federal Websites and Digital Services]({{< ref "checklist-of-requirements-for-federal-digital-services.md" }})._
-_Read some of our recent blog posts on what other agencies are doing in [mobile]({{ ref . "/topics/mobile" >}}) and [metrics](({{< ref "/topics/metrics" >}})), and if you have a .gov or .mil email account, consider joining some of our various [Communities of Practice]({{< ref "/communities" }})._
+_Read some of our recent blog posts on what other agencies are doing in [mobile]({{ ref . "/topics/mobile" >}}) and [metrics](({{ ref . "/topics/metrics" }})), and if you have a .gov or .mil email account, consider joining some of our various [Communities of Practice]({{< ref "/communities" }})._

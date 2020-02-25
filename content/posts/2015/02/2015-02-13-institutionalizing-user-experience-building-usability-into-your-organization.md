@@ -36,7 +36,7 @@ Don’t forget you have the [Federal UX Community of Practice]({{ ref . "user-ex
 
 ## Step 2: Have a strategy
 
-{{< legacy-img src="2015/02/250-x-167-Mobile-Paper-Prototype-tablet-screenshot-May-20th-2014-8am.jpg" alt="Mobile paper prototype tablet screenshot" >}}Which projects do you think can provide some quick wins to build enthusiasm? Start small, like testing an existing system. Make use of the free [usability testing resources]({{ ref . "digitalgov-user-experience-resources.md" >}}) at GSA. Then add [prototyping]({{< ref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}}) in your next research project. Maybe a [card sort](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)? How about developing [personas]({{< ref "2015-01-09-personas-101.md" }})? If you’re doing a full-blown test, why not invite observers?
+{{< legacy-img src="2015/02/250-x-167-Mobile-Paper-Prototype-tablet-screenshot-May-20th-2014-8am.jpg" alt="Mobile paper prototype tablet screenshot" >}}Which projects do you think can provide some quick wins to build enthusiasm? Start small, like testing an existing system. Make use of the free [usability testing resources]({{ ref . "digitalgov-user-experience-resources.md" >}}) at GSA. Then add [prototyping]({{ ref . "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" }}) in your next research project. Maybe a [card sort](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)? How about developing [personas]({{< ref "2015-01-09-personas-101.md" }})? If you’re doing a full-blown test, why not invite observers?
 
 You may need to prove how usability is worth it. Look at the Web analytics and show how your changes made a noticeable improvement.
 

@@ -25,7 +25,7 @@ Apps are now the top media channel in the United States: on average, people spen
 
 The article noted that the 198 minutes spent on apps does not include time spent on a mobile browser: with that time added, users spend 220 minutes on mobile devices every day (a little more than 3.5 hours).
 
-Of course, the numbers don’t account for users who are watching TV while also using their devices. Regardless, the trend is clear and supported by other research: mobile is a [primary way that people access everything]({{ ref . "2015-05-26-trends-on-tuesday-186-3-million-people-own-smartphones-in-the-u-s.md" >}}) from [social media]({{< ref "2013-11-05-trends-on-tuesday-mobile-surpasses-desktop-for-social-media.md" >}}) to [government information]({{< ref "2015-04-07-trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information.md" }}).
+Of course, the numbers don’t account for users who are watching TV while also using their devices. Regardless, the trend is clear and supported by other research: mobile is a [primary way that people access everything]({{ ref . "2015-05-26-trends-on-tuesday-186-3-million-people-own-smartphones-in-the-u-s.md" >}}) from [social media]({{ ref . "2013-11-05-trends-on-tuesday-mobile-surpasses-desktop-for-social-media.md" }}) to [government information]({{< ref "2015-04-07-trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information.md" }}).
 
 Although Flurry’s article is focused solely on apps, the need for mobile-friendly government content and services is clear, even for agencies that don’t have native apps. When users spend more than 3.5 hours per day on mobile, they expect mobile-friendliness.
 
