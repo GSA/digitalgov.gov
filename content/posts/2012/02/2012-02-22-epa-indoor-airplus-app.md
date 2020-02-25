@@ -36,4 +36,4 @@ EPA launched a beta version of the app in early October 2011 and is gathering fe
 
 ## What We Learned
 
-A data entry application like Indoor airPlus that is not graphics intensive and does not require device menu manipulations lent itself well to the cross platform development approach that EPA took to reduce development costs and time. A proper [mobile product development process]({{< ref "2012-02-24-epas-mobile-access-review-committee.md" >}} "EPA’s Mobile Access Review Committee") allows for thorough investigation of mobile options.
+A data entry application like Indoor airPlus that is not graphics intensive and does not require device menu manipulations lent itself well to the cross platform development approach that EPA took to reduce development costs and time. A proper [mobile product development process]({{ ref . "2012-02-24-epas-mobile-access-review-committee.md" }} "EPA’s Mobile Access Review Committee") allows for thorough investigation of mobile options.

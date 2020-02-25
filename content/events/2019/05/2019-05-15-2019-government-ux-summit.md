@@ -108,6 +108,6 @@ A community lunch will follow in the BLS cafeteria for those who wish to stay. B
 
 ---
 
-**The 2019 Government UX Summit** is sponsored by the [User Experience Community of Practice]({{< ref "/communities/user-experience.md" >}}) (UX CoP) and DigitalGov.
+**The 2019 Government UX Summit** is sponsored by the [User Experience Community of Practice]({{ ref . "/communities/user-experience.md" }}) (UX CoP) and DigitalGov.
 
-_[The UX CoP]({{< ref "/communities/user-experience.md" >}}) is a group of more than 1,100 federal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems.  We provide training, networking, and support for government UX practitioners. Anyone with an interest in UX and a US government email address is encouraged to join._
+_[The UX CoP]({{ ref . "/communities/user-experience.md" }}) is a group of more than 1,100 federal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems.  We provide training, networking, and support for government UX practitioners. Anyone with an interest in UX and a US government email address is encouraged to join._

@@ -32,4 +32,4 @@ And it&#8217;s just not children who are playing games on mobile devices.
 
 > The average smartphone game player was 41 years old in June 2013, with 53 per cent of the user base female.
 
-Government agencies have been targeting mobile game players. [CDC&#8217;s Solve the Outbreak]({{< ref "2013-10-31-new-outbreaks-but-no-zombies-on-cdcs-solve-the-outbreak.md" >}} "New Outbreaks (but No Zombies) on CDC’s Solve the Outbreak") iPad app is a highly successful example and you can read about their strategy here.
+Government agencies have been targeting mobile game players. [CDC&#8217;s Solve the Outbreak]({{ ref . "2013-10-31-new-outbreaks-but-no-zombies-on-cdcs-solve-the-outbreak.md" }} "New Outbreaks (but No Zombies) on CDC’s Solve the Outbreak") iPad app is a highly successful example and you can read about their strategy here.

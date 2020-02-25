@@ -24,4 +24,4 @@ The Office of Management and Budget (OMB) provided this guidance to implement th
 
 * * *
 
-See more [DigitalGov Resources]({{< ref "/resources" >}})
+See more [DigitalGov Resources]({{ ref . "/resources" }})

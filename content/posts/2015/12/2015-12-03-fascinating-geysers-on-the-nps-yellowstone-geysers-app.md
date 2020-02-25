@@ -48,4 +48,4 @@ You can also use this app to browse social media content from the park&#8217;s [
 
 Want to watch a live eruption of Old Faithful and other geysers but can’t make it to the park? No worries—you are able to observe these hydrothermal rarities through an integrated webcam in the app.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{ ref . "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" }})._

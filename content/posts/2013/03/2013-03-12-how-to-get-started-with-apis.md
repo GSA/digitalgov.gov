@@ -68,7 +68,7 @@ If your agency is just getting started with API generation, it may be worth begi
   </li>
 </ol>
 
-As with any addition to an agency’s Web presence, it is important to work with your agency’s network operations team, IT security team, and general counsel per your normal workflows. For some, this may be the first time that they have been involved in an API rollout, and they may rely on you to familiarize them with some of the underlying [philosophy and methods of APIs in government]({{< ref "2013-04-30-apis-in-government.md" >}} "APIs in Government").
+As with any addition to an agency’s Web presence, it is important to work with your agency’s network operations team, IT security team, and general counsel per your normal workflows. For some, this may be the first time that they have been involved in an API rollout, and they may rely on you to familiarize them with some of the underlying [philosophy and methods of APIs in government]({{ ref . "2013-04-30-apis-in-government.md" }} "APIs in Government").
 
 <ol start="5">
   <li>
@@ -76,7 +76,7 @@ As with any addition to an agency’s Web presence, it is important to work with
   </li>
 </ol>
 
-Just turning on an API isn’t enough. It’s necessary to create a landing page for the documentation and related resources and to ensure that prospective users can find this material. Consult the [API release kit]({{< ref "2013-05-16-api-release-kit.md" >}} "API Release Kit") for a comprehensive review of these components and open-source options for maintaining them.
+Just turning on an API isn’t enough. It’s necessary to create a landing page for the documentation and related resources and to ensure that prospective users can find this material. Consult the [API release kit]({{ ref . "2013-05-16-api-release-kit.md" }} "API Release Kit") for a comprehensive review of these components and open-source options for maintaining them.
 
 <ol start="6">
   <li>
@@ -84,7 +84,7 @@ Just turning on an API isn’t enough. It’s necessary to create a landing page
   </li>
 </ol>
 
-There are [several ways to create an API]({{< ref "2013-03-12-how-to-make-apis-an-overview.md" >}} "How to Make APIs—An Overview"). Your team may have the expertise, but if not, you should be able to collaborate with your IT department and any system owner on high-level requirements and leave the API creation to your agency’s developers. If these opportunities do not exist, some methods of API creation entail useful tools that can be operated without deep technical skills.
+There are [several ways to create an API]({{ ref . "2013-03-12-how-to-make-apis-an-overview.md" }} "How to Make APIs—An Overview"). Your team may have the expertise, but if not, you should be able to collaborate with your IT department and any system owner on high-level requirements and leave the API creation to your agency’s developers. If these opportunities do not exist, some methods of API creation entail useful tools that can be operated without deep technical skills.
 
 <ol start="7">
   <li>
@@ -104,7 +104,7 @@ Your network operations staff should be able to provide automated tools for load
   </li>
 </ol>
 
-Each API should have a landing page. The landing pages should be linked to a main developer hub. Even if your agency is generating its first API, it is not too early to release it as part of a developer hub. If your agency already has launched several APIs but doesn’t yet have a consolidated hub, it’s definitely worth assembling one at this stage and growing it from this point on. Consult the [/Developer kit]({{< ref "2013-05-21-developer-kit.md" >}}) for a comprehensive review of the developer hub components and open-source options for maintaining them.
+Each API should have a landing page. The landing pages should be linked to a main developer hub. Even if your agency is generating its first API, it is not too early to release it as part of a developer hub. If your agency already has launched several APIs but doesn’t yet have a consolidated hub, it’s definitely worth assembling one at this stage and growing it from this point on. Consult the [/Developer kit]({{ ref . "2013-05-21-developer-kit.md" }}) for a comprehensive review of the developer hub components and open-source options for maintaining them.
 
 <ol start="9">
   <li>

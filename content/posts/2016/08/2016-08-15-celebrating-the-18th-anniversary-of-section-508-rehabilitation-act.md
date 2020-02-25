@@ -435,7 +435,7 @@ It’s also worth noting that the CIO Council’s active [Accessibility Communit
 
 > Modeled after the [Digital Services Playbook](https://playbook.cio.gov/ "Digital Services Playbook"), the Technology Accessibility Playbook provides twelve plays that, if followed together, will help the government ensure its information and communications technology is fully accessible to disabled employees and members of the public. The plays outline a sustainable approach to supporting full inclusion through technology, and provide a framework for strategic planning and defining program maturity capabilities needed within each agency.
 
-Another collaborative initiative we want to highlight is the [Improving the Accessibility of Social Media Toolkit]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}} "Improving the Accessibility of Social Media Toolkit"). This toolkit was developed by many agencies and just recently updated by the Dept. of Labor Office of Disability Employment Policy, and the FCC.
+Another collaborative initiative we want to highlight is the [Improving the Accessibility of Social Media Toolkit]({{ ref . "improving-the-accessibility-of-social-media-in-government.md" }} "Improving the Accessibility of Social Media Toolkit"). This toolkit was developed by many agencies and just recently updated by the Dept. of Labor Office of Disability Employment Policy, and the FCC.
 
 ## Testing
 

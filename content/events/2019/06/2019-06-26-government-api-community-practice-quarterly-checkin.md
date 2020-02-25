@@ -49,4 +49,4 @@ This afternoon event is an opportunity for API practitioners from across federal
 In person: GSA Headquarters - Room 2213
 Virtual:  Will send to registrants
 
-[Learn more about the APIs community of practice »]({{< ref "/communities/apis.md" >}})
+[Learn more about the APIs community of practice »]({{ ref . "/communities/apis.md" }})

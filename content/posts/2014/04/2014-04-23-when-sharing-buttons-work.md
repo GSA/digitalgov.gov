@@ -13,7 +13,7 @@ topics:
   - socialgov
 ---
 
-{{< legacy-img src="2014/04/250-x-242-GAO-social-icon.jpg" alt="250-x-242-GAO-social-icon" >}}At the U.S. Government Accountability Office (GAO) we use sharing buttons on our website to help people share content from web pages with their colleagues and friends. With one click, a user can post a page’s link to popular social networking sites or send it via email. The article [_To Use Social Sharing Buttons or Not_]({{< ref "2014-04-02-to-use-social-sharing-buttons-or-not.md" >}}) looks at some ways that social sharing buttons are actually used. Here’s a look at what works for us.
+{{< legacy-img src="2014/04/250-x-242-GAO-social-icon.jpg" alt="250-x-242-GAO-social-icon" >}}At the U.S. Government Accountability Office (GAO) we use sharing buttons on our website to help people share content from web pages with their colleagues and friends. With one click, a user can post a page’s link to popular social networking sites or send it via email. The article [_To Use Social Sharing Buttons or Not_]({{ ref . "2014-04-02-to-use-social-sharing-buttons-or-not.md" }}) looks at some ways that social sharing buttons are actually used. Here’s a look at what works for us.
 
 On our main website, GAO.gov, we have sharing buttons on the summary pages of our reports and testimonies, as well as on our topics pages. Similar to our [neighbors in the U.K.](https://insidegovuk.blog.gov.uk/2014/02/20/gov-uk-social-sharing-buttons-the-first-10-weeks/), we found these sharing rates were generally low. We were happy to see a very different picture when it came to our blog, the [WatchBlog](http://blog.gao.gov/)_._
 

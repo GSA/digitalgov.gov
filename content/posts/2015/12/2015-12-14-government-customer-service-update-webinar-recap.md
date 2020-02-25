@@ -19,7 +19,7 @@ topics:
   - the-united-states-social-security-administration
 ---
 
-OMB’s Lisa Danzig, who co-leads the [Cross Agency Priority (CAP) Customer Service Goal](http://www.performance.gov/content/customer-service?view=public#overview) with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they’ve done [since we last spoke with her, earlier this year]({{< ref "2015-05-29-a-conversation-with-omb-on-customer-service.md" >}}). {{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
+OMB’s Lisa Danzig, who co-leads the [Cross Agency Priority (CAP) Customer Service Goal](http://www.performance.gov/content/customer-service?view=public#overview) with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they’ve done [since we last spoke with her, earlier this year]({{ ref . "2015-05-29-a-conversation-with-omb-on-customer-service.md" >}}). {{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" }} 
 
 ## Background
 
@@ -42,7 +42,7 @@ The past 18 months focused on the first two strategies.
 
 The next 16 months will focus on the second two strategies.
 
-**Standards, practices and tools:** OMB has identified leaders from 15 high-impact customer-facing programs, who gather together on a regular basis to discuss issues, share best practices and provide feedback to CAP goal leadership. A “Principles & Practices” subgroup (led by [Rachel Flagg, GSA]({{< ref "/authors/rflagg" >}})) is developing a customer service toolkit, which includes practical guidance and resources to help agencies improve the experience they deliver to customers.
+**Standards, practices and tools:** OMB has identified leaders from 15 high-impact customer-facing programs, who gather together on a regular basis to discuss issues, share best practices and provide feedback to CAP goal leadership. A “Principles & Practices” subgroup (led by [Rachel Flagg, GSA]({{ ref . "/authors/rflagg" }})) is developing a customer service toolkit, which includes practical guidance and resources to help agencies improve the experience they deliver to customers.
 
 **Improve top customer interactions:** Moving forward, the CAP Goal team will focus on improving top customer transactions with federal programs. First priority will be those agencies that provide significant services to citizens, businesses and other customers.
 
@@ -54,4 +54,4 @@ Lisa says ”There is no greater need now than to develop a more holistic approa
 
 [youtube=http://www.youtube.com/watch?v=JZvGF8UsanU&w=600&start=0]
 
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting]({{< ref "customer-experience-community.md" >}}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.
+Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting]({{ ref . "customer-experience-community.md" }}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.

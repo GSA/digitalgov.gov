@@ -16,7 +16,7 @@ topics:
   - nasa
 ---
 
-A case study on how NASA is choosing a new enterprise [content management system (CMS)]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit").
+A case study on how NASA is choosing a new enterprise [content management system (CMS)]({{ ref . "2013-10-30-content-management-systems-toolkit.md" }} "Content Management Systems Toolkit").
 
 ## The Challenge {{< legacy-img src="2014/07/250-x-250-Vector-cms-round-icon-nickylarson974-iStock-Thinkstock-486974655.jpg" alt="A round CMS icon" caption="" >}}
 
@@ -47,4 +47,4 @@ Key takeaways:
 
 ## Resources
 
-  * Read the [9 Reasons Your Agency Should Have a CMS]({{< ref "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" >}} "9 Reasons Your Agency Should Have A CMS")
+  * Read the [9 Reasons Your Agency Should Have a CMS]({{ ref . "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" }} "9 Reasons Your Agency Should Have A CMS")

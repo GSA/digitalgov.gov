@@ -19,7 +19,7 @@ topics:
 
 Most people relate the term “heat map” with something they see during the weather forecast on the nightly news, those colorful maps that vividly illustrate how hot it’s going to be during an impending heat wave. The word &#8220;heat map&#8221; may not usually however, conjure up images of a widely used Web usability tool; but for those who manage [Environmental Protection Agency’s](http://www.epa.gov/) (EPA) website, that is exactly what the phrase brings to mind.
 
-[Heat mapping]({{< ref "2014-04-04-heatmapping-tools-show-whats-hot-on-your-pages.md" >}}) tests are one of the many tools at the disposal of epa.gov to evaluate the effectiveness of the homepage. The test tracks the behavior of a visitor to a website, and color codes the results based on the level of engagement. If a link is being clicked frequently, the heat map will display results as being “white hot.” When there is little activity, that area of the page will remain a darker color.
+[Heat mapping]({{ ref . "2014-04-04-heatmapping-tools-show-whats-hot-on-your-pages.md" }}) tests are one of the many tools at the disposal of epa.gov to evaluate the effectiveness of the homepage. The test tracks the behavior of a visitor to a website, and color codes the results based on the level of engagement. If a link is being clicked frequently, the heat map will display results as being “white hot.” When there is little activity, that area of the page will remain a darker color.
 
 {{< legacy-img src="2014/08/435-x-207-EPA-homepage-heatmap.jpg" alt="435 x 207 EPA homepage heatmap" >}}
 
@@ -57,4 +57,4 @@ It only takes a quick glance at the heat map, however, to see that as a section 
 
 Heat mapping is just one of many usability tools out there, but as EPA has demonstrated, whether utilized as a one-off activity or incorporated into a continuous testing cycle, it can provide valuable feedback in an easy to understand format to help improve the usability of a website.
 
-_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She is interning with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._
+_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She is interning with the [DigitalGov User Experience Program]({{ ref . "digitalgov-user-experience-resources.md" }} "DigitalGov User Experience Program") at GSA this summer._

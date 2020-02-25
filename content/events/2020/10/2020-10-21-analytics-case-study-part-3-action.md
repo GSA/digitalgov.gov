@@ -42,21 +42,21 @@ youtube_id:
 
 In part 3 of our Analytics Case Study series, we'll address how to take action using the data and insights from Part 2 of this series. We'll continue using our real world example of an agency to illustrate how to begin thinking about taking action, using your insights from the data.
 
-You will need to have attended, or viewed [**Part 1**]({{< ref "2020-08-26-dap-analytics-case-study-part-1.md" >}}) and [**Part 2**]({{< ref "2020-09-24-dap-analytics-case-study-part-2" >}}) of our Analytics Case Study series, identified your website mission, goals and KPIs and understand how to tie your DAP Google Analytics reporting to your strategy.
+You will need to have attended, or viewed [**Part 1**]({{ ref . "2020-08-26-dap-analytics-case-study-part-1.md" >}}) and [**Part 2**]({{< ref "2020-09-24-dap-analytics-case-study-part-2" }}) of our Analytics Case Study series, identified your website mission, goals and KPIs and understand how to tie your DAP Google Analytics reporting to your strategy.
 
 We'll walk through step by step, how to think about taking actions based on data and insights. The goal of the webinar is to empower you with a real world example about how to connect the dots between your website mission, goals, KPIs and insights, to begin taking action.
 
 ## About the speakers
 
-**Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), at the General Services Administration (GSA).
+**Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{ ref . "/guides/dap/_index.md" }}) (DAP), at the General Services Administration (GSA).
 
 **Freddie Blicher** supports the Digital Analytics Program as an analyst and teaches courses in analytics across the D.C. area.
 
 ---
 
-**[The Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})** (DAP) helps agencies better understand the public's interaction with the federal digital space, and records over 2.5 billion pageviews on more than 5,000 federal government websites each month. Much of these data are available to the public at [analytics.usa.gov](https://analytics.usa.gov).
+**[The Digital Analytics Program]({{ ref . "/guides/dap/_index.md" }})** (DAP) helps agencies better understand the public's interaction with the federal digital space, and records over 2.5 billion pageviews on more than 5,000 federal government websites each month. Much of these data are available to the public at [analytics.usa.gov](https://analytics.usa.gov).
 
-- [Guide to DAP]({{< ref "/guides/dap/_index.md" >}})
+- [Guide to DAP]({{ ref . "/guides/dap/_index.md" }})
 - [The DAP video library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Analytics.usa.gov](https://analytics.usa.gov/)
 - [DAP on GitHub](https://github.com/digital-analytics-program/gov-wide-code)

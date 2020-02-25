@@ -39,7 +39,7 @@ topics:
 Have you implemented or are you planning to implement a responsively designed site?
 
 <p dir="ltr">
-  Come help us answer these questions, update/build some new mobile <a title="Mobile User Experience Guidelines and Recommendations" href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}">user experience recommendations</a> and get your agency’s responsive implementation a leg up!
+  Come help us answer these questions, update/build some new mobile <a title="Mobile User Experience Guidelines and Recommendations" href="{{ ref . "mobile-user-experience-guidelines-and-recommendations.md" }}">user experience recommendations</a> and get your agency’s responsive implementation a leg up!
 </p>
 
 <p dir="ltr">

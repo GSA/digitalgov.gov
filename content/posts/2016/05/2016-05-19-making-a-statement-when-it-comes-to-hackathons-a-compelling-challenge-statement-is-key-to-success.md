@@ -21,7 +21,7 @@ Hackathons can (and very regularly do) produce amazing technology, but it really
 
 {{< legacy-img src="2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking 2016 logo" >}}
 
-A [problem statement]({{< ref "2014-04-28-in-crowdsourcing-competitions-defining-the-problem-is-half-the-battle.md" >}}) defines a particular challenge or issue of importance both to the agency writing it and the participants attending the hackathon. The best challenge statements meet a real need, compel developers to take action, and inspire a creative solution that could not otherwise be developed. Here are a few best practices on how to write a great problem statement:
+A [problem statement]({{ ref . "2014-04-28-in-crowdsourcing-competitions-defining-the-problem-is-half-the-battle.md" }}) defines a particular challenge or issue of importance both to the agency writing it and the participants attending the hackathon. The best challenge statements meet a real need, compel developers to take action, and inspire a creative solution that could not otherwise be developed. Here are a few best practices on how to write a great problem statement:
 
   * **Clarity:** The better the challenge statement, the better the product you’ll likely end up with at the hackathon. It should be clear, actionable and linked to impact.
   * **Involve stakeholders:** We often kick off our challenge development by holding a “big-think” meeting with key stakeholders. This isn’t necessarily to develop the challenges themselves, but to identify areas of interest for key topics. (A [recent webinar](https://www.youtube.com/watch?v=aOT9vzNY8sY&feature=youtu.be) covered the topic of problem definition workshops.)

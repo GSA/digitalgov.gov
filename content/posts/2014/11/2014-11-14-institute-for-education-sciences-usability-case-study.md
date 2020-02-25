@@ -17,7 +17,7 @@ topics:
   - ux
 ---
 
-After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the [Institute of Education Sciences (IES)](http://ies.ed.gov/funding/). Their complaints prompted a [Plain Language]({{< ref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}) makeover for the Institute’s funding materials.
+After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the [Institute of Education Sciences (IES)](http://ies.ed.gov/funding/). Their complaints prompted a [Plain Language]({{ ref . "2014-04-16-how-to-tell-your-agencys-story-plainly.md" }}) makeover for the Institute’s funding materials.
 
 As the research arm of the U.S. Education Department, IES’s mission is to provide rigorous and relevant evidence on which to ground education practice and policy. Beginning in 2012, the project applied a Plain Language best practices to both their Funding Opportunities page and the grant solicitations themselves. The goal was make the information more user-friendly, clarify requirements, and make the application process easier.
 

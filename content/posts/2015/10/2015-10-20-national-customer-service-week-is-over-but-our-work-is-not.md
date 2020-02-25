@@ -27,7 +27,7 @@ Get your customer personas right, and you will improve the customer experience (
 
 That&#8217;s advice [Rick Parrish](https://www.forrester.com/Rick%20Parrish) from [Forrester Research](https://www.forrester.com/home/) gave in response to an audience question during the September 29 [DigitalGov University webinar](https://www.youtube.com/watch?v=JFJg-8KwR9I) on the state of CX in the federal government. Your key customers are those that are most important to the organization, and often most difficult to serve, he explained.
 
-When you get into [personas]({{< ref "2015-01-09-personas-101.md" >}}), user stories, [customer journey maps](http://blogs.forrester.com/maxie_schmidt_subramanian/14-12-08-there_is_a_secret_to_better_cx_metrics_journey_mapping) and the like, it’s easy to go down the rabbit hole, Parrish said. Most organizations—even big companies—maintain 3-5 personas for their key customers.
+When you get into [personas]({{ ref . "2015-01-09-personas-101.md" }}), user stories, [customer journey maps](http://blogs.forrester.com/maxie_schmidt_subramanian/14-12-08-there_is_a_secret_to_better_cx_metrics_journey_mapping) and the like, it’s easy to go down the rabbit hole, Parrish said. Most organizations—even big companies—maintain 3-5 personas for their key customers.
 
 When the United Services Automobile Association (USAA) developed the first mobile check deposit app, they were designing for a particular persona—a recently-commissioned officer going on a foreign deployment—and built the app to serve that persona’s needs. And it ended up working well for the rest of their customers, too.
 

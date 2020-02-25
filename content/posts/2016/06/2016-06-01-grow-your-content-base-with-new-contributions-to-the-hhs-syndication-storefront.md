@@ -16,7 +16,7 @@ topics:
   - united-states-department-of-health-and-human-services
 ---
 
-We have written about [syndication]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}}) and its [successes]({{< ref "2016-02-04-does-content-syndication-work.md" >}}) before.
+We have written about [syndication]({{ ref . "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}}) and its [successes]({{< ref "2016-02-04-does-content-syndication-work.md" }}) before.
 
 The content offerings of the [HHS Syndication Storefront](https://syndication.hhs.gov/) have recently grown. The [National Institute of Heart Lung and Blood Diseases](http://www.nhlbi.nih.gov/) (NHLBI), part of the [National Institutes of Health](https://www.nih.gov/) (NIH), is the latest to add content into the system.
 

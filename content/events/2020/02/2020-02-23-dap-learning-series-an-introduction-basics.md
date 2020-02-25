@@ -46,15 +46,15 @@ In this session, we’ll try to get you acquainted with the Google Analytics int
 
 ## About the speakers
 
-**Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), at the General Services Administration (GSA).
+**Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{ ref . "/guides/dap/_index.md" }}) (DAP), at the General Services Administration (GSA).
 
 **Freddie Blicher** supports the Digital Analytics Program as an analyst and teaches courses in analytics across the D.C. area.
 
 ---
 
-**[The Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})** (DAP) helps agencies better understand the public's interaction with the federal digital space, and records over 2.5 billion pageviews on more than 5,000 federal government websites each month. Much of these data are available to the public at [analytics.usa.gov](https://analytics.usa.gov).
+**[The Digital Analytics Program]({{ ref . "/guides/dap/_index.md" }})** (DAP) helps agencies better understand the public's interaction with the federal digital space, and records over 2.5 billion pageviews on more than 5,000 federal government websites each month. Much of these data are available to the public at [analytics.usa.gov](https://analytics.usa.gov).
 
-- [Guide to DAP]({{< ref "/guides/dap/_index.md" >}})
+- [Guide to DAP]({{ ref . "/guides/dap/_index.md" }})
 - [The DAP video library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Analytics.usa.gov](https://analytics.usa.gov/)
 - [DAP on GitHub](https://github.com/digital-analytics-program/gov-wide-code)

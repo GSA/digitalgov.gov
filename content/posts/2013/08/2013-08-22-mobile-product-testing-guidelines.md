@@ -17,12 +17,12 @@ You have started developing your mobile product, but you may be wondering what a
 
 This article was developed as part of the [Mobile Application Development Program](https://digital.gov/resources/mobile-application-development-program/ "Mobile Application Development Program") to provide agencies with some general testing strategies, types, tools and testing scripts. The information on these testing pages has been pulled from the Mobile Gov Community of Practice and private sector resources. Specific guidance on testing has been split into four broad categories.
 
-  * [Functionality/Usability]({{< ref "2013-05-25-functionality-and-usability-testing-resources.md" >}})
+  * [Functionality/Usability]({{ ref . "2013-05-25-functionality-and-usability-testing-resources.md" }})
   * [Security/Privacy](https://digital.gov/2013/08/05/mobile-product-security-and-privacy-testing-resources/ "Mobile Product Security and Privacy Testing Resources")
   * [Accessibility](https://digital.gov/2013/07/31/mobile-product-accessibility-testing-resources/ "Mobile Product Accessibility Testing Resources")
   * [Performance (how your mobile product affects a device&#8217;s ecosystem)](https://digital.gov/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing")
 
-Each of these pages provides government guidance, further strategies, resources and tools like testing scripts and checklists. If you are in the early stages of mobile development, be sure to check out the [User Experience Guidelines and Recommendations](https://digital.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations") which contain resources for the design stage, as well as our [sample Mobile SOW&#8217;s]({{< ref "mobile-sow-and-developer-qualifications.md" >}} "Mobile SOW and Developer Qualifications") pages which contain sample contracting language for vendor testing. The [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program") offers agencies the ability to have their web-based mobile products tested on many different devices by federal employee volunteers through the Open Opportunities program.
+Each of these pages provides government guidance, further strategies, resources and tools like testing scripts and checklists. If you are in the early stages of mobile development, be sure to check out the [User Experience Guidelines and Recommendations](https://digital.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations") which contain resources for the design stage, as well as our [sample Mobile SOW&#8217;s]({{ ref . "mobile-sow-and-developer-qualifications.md" >}} "Mobile SOW and Developer Qualifications") pages which contain sample contracting language for vendor testing. The [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" }} "Federal CrowdSource Mobile Testing Program") offers agencies the ability to have their web-based mobile products tested on many different devices by federal employee volunteers through the Open Opportunities program.
 
 In June 2012, the testing group at NIH provided guidance on different types of mobile testing.
 
@@ -97,7 +97,7 @@ In June 2012, the testing group at NIH provided guidance on different types of m
       * Test on different OS versions (latest and legacy OS).
       * Test on different carriers.
       * Test on different browsers (if a web app).
-      * Check our article on [Compatibility Testing]({{< ref "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" >}} "Mobile Product Compatibility and Functional Testing 101")
+      * Check our article on [Compatibility Testing]({{ ref . "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" }} "Mobile Product Compatibility and Functional Testing 101")
   * [Security](https://digital.gov/2013/08/05/mobile-product-security-and-privacy-testing-resources/ "Mobile Product Security and Privacy Testing Resources")
       * Is private data kept private?
           * Stored personal data is password protected and/or encrypted.

@@ -17,7 +17,7 @@ topics:
 
 {{< legacy-img src="2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 
 
-U.S. Hispanics are ahead of the digital curve, according to [an analysis](http://www.mediapost.com/publications/article/232274/hispanics-ahead-of-the-digital-curve.html "an analysis") of strategies of leading brands and forward-thinking marketers by Lisa Gevelber, Vice President of Americas Marketing. As [we&#8217;ve noted before]({{< ref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}), Hispanics not only lead in adoption of new devices, they are also power users of mobile.
+U.S. Hispanics are ahead of the digital curve, according to [an analysis](http://www.mediapost.com/publications/article/232274/hispanics-ahead-of-the-digital-curve.html "an analysis") of strategies of leading brands and forward-thinking marketers by Lisa Gevelber, Vice President of Americas Marketing. As [we&#8217;ve noted before]({{ ref . "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" }}), Hispanics not only lead in adoption of new devices, they are also power users of mobile.
 
 The report highlights a few categories supporting Gevelber’s observations:
 
@@ -28,4 +28,4 @@ The report highlights a few categories supporting Gevelber’s observations:
   * Among smartphone owners, Hispanics are 17% more likely than non-Hispanics to access the Web through their phone than through a computer, and more likely to upgrade or replace their mobile headsets and buy tablets.
   * Hispanics are 1.5% more likely to buy mobile apps and digital media than non-Hispanics.
 
-As your agency continues to develop new mobile products and services, take advantage of the lessons learned by the [Government Multilingual Community of Practice]({{ ref . "multilingual.md" }} "Government Multilingual Community of Practice"). The [best practices and resources]({{< ref "2014-07-01-multilingual-digital-content.md" >}} "Multilingual Digital Content") developed by the group can help your agency create mobile approaches that are multilingual and culturally adapted.
+As your agency continues to develop new mobile products and services, take advantage of the lessons learned by the [Government Multilingual Community of Practice]({{ ref . "multilingual.md" }} "Government Multilingual Community of Practice"). The [best practices and resources]({{ ref . "2014-07-01-multilingual-digital-content.md" }} "Multilingual Digital Content") developed by the group can help your agency create mobile approaches that are multilingual and culturally adapted.

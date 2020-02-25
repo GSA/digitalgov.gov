@@ -30,7 +30,7 @@ This sounds simple, but there are thousands of combinations of browser types and
 
 Does your application function as expected on your customers&#8217; devices?
 
-While [usability testing]({{< ref "2015-03-19-getting-started-with-usability-testing.md" >}}) focuses on the look, feel and ease of use, compatibility testing focuses on determining if the hardware and software display and allow the application to function properly.
+While [usability testing]({{ ref . "2015-03-19-getting-started-with-usability-testing.md" }}) focuses on the look, feel and ease of use, compatibility testing focuses on determining if the hardware and software display and allow the application to function properly.
 
 Mobile compatibility testing is checking or validating that your application behaves as expected across the combination of mobile devices and browsers that your customers will be using to access your application.
 
@@ -38,14 +38,14 @@ Mobile compatibility testing is checking or validating that your application beh
 
 We spend a lot of time planning and developing our application, and we want all of our customers to have the same expected user experience.
 
-Test cycles conducted through the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) have uncovered [many types of compatibility related issues]({{< ref "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}}) that have an effect on user experience, including:
+Test cycles conducted through the [Federal CrowdSource Mobile Testing Program]({{ ref . "service_mobile-testing-program.md" >}}) have uncovered [many types of compatibility related issues]({{< ref "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" }}) that have an effect on user experience, including:
 
   * Content—A full website usually does not fit on a small mobile device
   * Navigation—Mobile navigation may require different navigation methods than the full size website
   * Size—Smaller screens require font and objects to be sized appropriately
   * Functions and Feature—Component behavior is not always predictable on the different devices and operating systems
 
-[Native applications bring even more issues]({{< ref "2015-06-16-trends-on-tuesday-native-app-lessons-from-the-crowdsource-mobile-testing-program.md" >}}), including:
+[Native applications bring even more issues]({{ ref . "2015-06-16-trends-on-tuesday-native-app-lessons-from-the-crowdsource-mobile-testing-program.md" }}), including:
 
   * Installation and upgrade issues
   * More dependence on the operating system than with responsive Web design applications
@@ -57,15 +57,15 @@ The majority of time spent on mobile device compatibility testing is focused on 
 
 That said, when using some automation tools, tests can be automated and executed across different devices, capturing screen shots along the way. But, in many cases, manual intervention is still required to interpret these results.
 
-Additionally, there are many tools available, such as [emulators and simulators]({{< ref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}), that reduce the need for physical devices for testing.
+Additionally, there are many tools available, such as [emulators and simulators]({{ ref . "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" }}), that reduce the need for physical devices for testing.
 
 ## How Do You Ensure Your Mobile Application Is Compatible with All of Your Customers’ Devices? {{< legacy-img src="2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="" >}} 
 
-The [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) is ready to assist you in determining if your application is compatible with the mobile devices your customers are using.
+The [Federal CrowdSource Mobile Testing Program]({{ ref . "service_mobile-testing-program.md" }}) is ready to assist you in determining if your application is compatible with the mobile devices your customers are using.
 
 This program gathers federal employees and conducts a test cycle that will perform scripted and exploratory testing on your application. These individual results will be consolidated into an actionable results report that your agency can use to improve your application. This process also provides a forum for the tester to collaborate and share knowledge with others.
 
-For more information on being a tester or having your federal application tested, please [contact DigitalGov]({{< ref "/about/_index.md" >}}).
+For more information on being a tester or having your federal application tested, please [contact DigitalGov]({{ ref . "/about/_index.md" }}).
 
 ## Additional Resources
 

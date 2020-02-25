@@ -45,7 +45,7 @@ If you have questions or would like to discuss particulars, [we would love to he
   <em>This is the first post in a five part series. Stay tuned for the following posts:</em>
 </h3>
 
-  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{< ref "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}})
-  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection]({{< ref "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}})
-  * [Let’s Encrypt those CNAMES, Shall We?]({{< ref "2016-09-07-lets-encrypt-those-cnames-shall-we.md" >}})
-  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{< ref "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}})
+  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{ ref . "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" }})
+  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection]({{ ref . "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" }})
+  * [Let’s Encrypt those CNAMES, Shall We?]({{ ref . "2016-09-07-lets-encrypt-those-cnames-shall-we.md" }})
+  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{ ref . "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" }})

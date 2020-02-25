@@ -23,7 +23,7 @@ topics:
 
 We then asked you to set priorities and help hone a set of useful, actionable user experience guidelines and recommendations that agencies could adopt. More than 100 people from 35 federal agencies, states, the private sector and academia helped rank these practices in our crowdsourcing effort.
 
-We took the feedback, did some analysis and posted these <a title="Mobile User Experience Guidelines and Recommendations" href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}" target="_blank">guidelines and recommendations</a> developed by Mobile Gov practitioners.
+We took the feedback, did some analysis and posted these <a title="Mobile User Experience Guidelines and Recommendations" href="{{ ref . "mobile-user-experience-guidelines-and-recommendations.md" }}" target="_blank">guidelines and recommendations</a> developed by Mobile Gov practitioners.
 
 **What We Found**
 
@@ -33,11 +33,11 @@ Information architecture (IA) practices&#8211;that is the logical structures tha
 
 See the Mobile User Experience Toolkit for help you can use to create good mobile IA.
 
-The conversation on mobile user experience is not finished with just IA. It’s just heating up. As <a title="Mobile User Experience Guidelines and Recommendations" href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}" target="_blank">you can see</a>, mobilegov innovators also recommended practices in functionality, content, trustworthiness and design.
+The conversation on mobile user experience is not finished with just IA. It’s just heating up. As <a title="Mobile User Experience Guidelines and Recommendations" href="{{ ref . "mobile-user-experience-guidelines-and-recommendations.md" }}" target="_blank">you can see</a>, mobilegov innovators also recommended practices in functionality, content, trustworthiness and design.
 
 **What&#8217;s Next******
 
-First, [take a look at the recommendations]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}} "Mobile User Experience Guidelines and Recommendations"). They are meant to evolve as this fast moving technology evolves. Let us know what&#8217;s missing. Tell us how we can be clearer. Share your UX tips in the comment section of the recommendations page.
+First, [take a look at the recommendations]({{ ref . "mobile-user-experience-guidelines-and-recommendations.md" }} "Mobile User Experience Guidelines and Recommendations"). They are meant to evolve as this fast moving technology evolves. Let us know what&#8217;s missing. Tell us how we can be clearer. Share your UX tips in the comment section of the recommendations page.
 
 Then, check out the discussion with the folks from NIH, Department of Labor and the State Department who led this effort in the webinar below.[
   ](http://www.howto.gov/training/classes/mobile-user-experience-recommendations-and-guidelines-panel) 

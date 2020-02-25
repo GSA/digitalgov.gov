@@ -21,7 +21,7 @@ topics:
 
 Yahoo’s mobile analytics service, [Flurry](https://developer.yahoo.com/analytics/), released a [new and provocative report about mobile apps versus mobile browser usage](http://flurrymobile.tumblr.com/post/127638842745/seven-years-into-the-mobile-revolution-content-is), in which they found audiences are spending almost an hour more with their mobile phones than last year. They also discussed the importance of how “content is king” in mobile apps.
 
-The top mobile app categories included mobile messaging/social applications, entertainment, and games, which is nothing new; these continue to reign as the most popular among users as [repeat research]({{< ref "2015-09-01-trends-on-tuesday-mobile-messaging-and-social-app-research-released.md" >}}) from different sources [continues to prove this]({{< ref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}).
+The top mobile app categories included mobile messaging/social applications, entertainment, and games, which is nothing new; these continue to reign as the most popular among users as [repeat research]({{ ref . "2015-09-01-trends-on-tuesday-mobile-messaging-and-social-app-research-released.md" >}}) from different sources [continues to prove this]({{< ref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" }}).
 
 What was unique about this report was that content within those apps was driving the time spent and creating that growth.
 
@@ -37,7 +37,7 @@ So yes, mobile app usage is up, but within the apps users are often viewing Web 
 
 So, these numbers can be very deceiving and may make you think about running out and just building everything in apps, but you should keep in mind most of the social and entertainment content is Web content. Also, most government agencies don’t work in the mobile messaging or entertainment business, so making the case for building and supporting a native app can be a tough sale compared to a mobile-optimized website that works in all mobile browsers.
 
-One other key takeaway from this research is to keep in mind how important it is to [make sure that you’re testing your website performance]({{< ref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}) within social media webviews, as well as on the mobile and tablet platform browsers.
+One other key takeaway from this research is to keep in mind how important it is to [make sure that you’re testing your website performance]({{ ref . "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" }}) within social media webviews, as well as on the mobile and tablet platform browsers.
 
 Apps aren’t just dominating mobile; Flurry published another recent report finding that they now dominate more audience time than TV viewing.
 

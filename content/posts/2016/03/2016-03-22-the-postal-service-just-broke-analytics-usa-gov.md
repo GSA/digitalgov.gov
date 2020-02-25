@@ -18,7 +18,7 @@ Ok, so it didn’t _really_ break it. But you might notice that the amount of �
 
 {{< legacy-img src="2016/03/600-x-400-USPS-top-of-Analytics-dashboard-March-22-2016.jpg" alt="The United States Post Office website takes first place with over six thousand visitors in this moment on the Analytics Dashboard on the morning of March 22, 2016." >}}
 
-The [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) team has been working with a team from the U.S. Postal Service over the past few months to implement DAP on usps.com and all usps.com subdomains. Last week, DAP was activated on the pages, and we nearly passed out when we saw the first data coming in. This week, you can see some of that data on [analytics.usa.gov](https://analytics.usa.gov/).
+The [Digital Analytics Program]({{ ref . "/guides/dap/_index.md" }}) (DAP) team has been working with a team from the U.S. Postal Service over the past few months to implement DAP on usps.com and all usps.com subdomains. Last week, DAP was activated on the pages, and we nearly passed out when we saw the first data coming in. This week, you can see some of that data on [analytics.usa.gov](https://analytics.usa.gov/).
 
 What you see is real. At any given moment, there can be upwards of 6,000 real-time visitors on the [usps.com](https://www.usps.com/) homepage and over 50,000 across all the pages within [usps.com](https://www.usps.com/) domains. As a result, the real-time numbers across all participating sites, as well as the “visits in the past 90 days” section will be markedly higher. There are a lot of people out there tracking packages.
 

@@ -31,7 +31,7 @@ topics:
 
 To promote crowdsourcing, one effective tool is, well, crowdsourcing.
 
-Today, the White House [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP) and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}) (CCS) unveiled the [Citizen Science and Crowdsourcing Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The toolkit contains information, resources, and best practices federal agencies can use to harness the power of public participation.
+Today, the White House [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP) and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{ ref . "crowdsourcing-and-citizen-science.md" }}) (CCS) unveiled the [Citizen Science and Crowdsourcing Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The toolkit contains information, resources, and best practices federal agencies can use to harness the power of public participation.
 
 Specifically, the toolkit provides:
 
@@ -59,6 +59,6 @@ Participants also expanded their skill sets as a result of the collaboration. Sa
 
 ## Behind the Scenes
 
-The toolkit was built on [Sites](https://sites.usa.gov/), a free shared service that provides federal agencies with an open-source CMS and secure cloud hosting. Analytics code from the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) was implemented on the toolkit website, and [DigitalGov Search](http://search.digitalgov.gov/) powers the toolkit’s search box.
+The toolkit was built on [Sites](https://sites.usa.gov/), a free shared service that provides federal agencies with an open-source CMS and secure cloud hosting. Analytics code from the [Digital Analytics Program]({{ ref . "/guides/dap/_index.md" }}) was implemented on the toolkit website, and [DigitalGov Search](http://search.digitalgov.gov/) powers the toolkit’s search box.
 
 Gustetic noted that the project was done with no funding, making the availability of tools and shared services essential in the success of the toolkit.

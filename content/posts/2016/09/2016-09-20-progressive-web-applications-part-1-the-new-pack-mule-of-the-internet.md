@@ -61,4 +61,4 @@ To save these resources, the Web page registers the service worker with the brow
 The Web Application Manifest is a JSON script that makes it possible for the Web application to assign a home screen icon, theme and background color to the app, define a [splash screen](https://developers.google.com/web/updates/2015/10/splashscreen?hl=en), and run the web app in full-screen mode as a standalone application.
 
 
-_In the coming weeks, we’ll explore some of the [benefits and challenges of using PWAs]({{< ref "2016-10-13-progressive-web-applications-part-2-pros-cons-and-looking-ahead.md" >}}) and some real world examples. Stay tuned!_
+_In the coming weeks, we’ll explore some of the [benefits and challenges of using PWAs]({{ ref . "2016-10-13-progressive-web-applications-part-2-pros-cons-and-looking-ahead.md" }}) and some real world examples. Stay tuned!_

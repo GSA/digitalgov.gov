@@ -14,7 +14,7 @@ topics:
 
 {{< legacy-img src="2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}
 
-Saving the whales just got easier for West Coasters with the [latest version](https://itunes.apple.com/us/app/whale-alert-reducing-ship/id911035973?ls=1&mt=8.) of the [popular Whale Alert app]({{< ref "2013-07-25-noaas-whale-alert-ship-strike-reduction-for-right-whales-app.md" >}}).
+Saving the whales just got easier for West Coasters with the [latest version](https://itunes.apple.com/us/app/whale-alert-reducing-ship/id911035973?ls=1&mt=8.) of the [popular Whale Alert app]({{ ref . "2013-07-25-noaas-whale-alert-ship-strike-reduction-for-right-whales-app.md" }}).
 
 This free &#8220;feel-good&#8221; iPhone/iPad app, [developed by NOAA&#8217;s Office of National Marine Sanctuaries and a long list of partners](http://sanctuaries.noaa.gov/news/press/2014/pr091114.html), now enables users on both U.S. coasts to submit reports of whale sightings in real-time that could ultimately alert boaters and vessel captains to slow down and avoid colliding with these majestic creatures.
 

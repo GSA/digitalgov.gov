@@ -22,7 +22,7 @@ topics:
 
 Tackling technology tasks just got easier.
 
-Recently, federal agencies negotiated eight new Terms of Service (TOS) Agreements for free apps and services. DigitalGov has an extensive [list of federal-friendly TOS agreements]({{< ref "negotiated-terms-of-service-agreements.md" >}}) for free products, and the list is updated as new TOS agreements are created.
+Recently, federal agencies negotiated eight new Terms of Service (TOS) Agreements for free apps and services. DigitalGov has an extensive [list of federal-friendly TOS agreements]({{ ref . "negotiated-terms-of-service-agreements.md" }}) for free products, and the list is updated as new TOS agreements are created.
 
 ## Cyfe
 
@@ -36,7 +36,7 @@ Recently, federal agencies negotiated eight new Terms of Service (TOS) Agreement
 
 [IFTTT](https://ifttt.com/), or “If This Then That,” is a web-based service centered on the use of conditional statements, or “recipes.” Using a set of criteria from a pool of web apps, users create recipes: when a specific action occurs on one app, that app will trigger another app and cause it to perform a function. Basically, if this happens, then that action will occur. This TOS agreement was negotiated by **GSA**.
 
-A recent article on DigitalGov explains [how agencies can use IFTTT]({{< ref "2015-02-12-ifttt-combines-social-media-mobile-and-internet-of-things-for-government.md" >}}) in a variety of ways and encourages agencies to submit their own ideas or examples.
+A recent article on DigitalGov explains [how agencies can use IFTTT]({{ ref . "2015-02-12-ifttt-combines-social-media-mobile-and-internet-of-things-for-government.md" }}) in a variety of ways and encourages agencies to submit their own ideas or examples.
 
 ## Mandrill
 
@@ -54,10 +54,10 @@ The team communication platform, [Slack](https://slack.com/), is a collaborative
 
 [StackExchange](http://stackexchange.com/) is a network of question and answer websites. Created for the programming community, it covers a variety of topics, including: [Open Data](http://opendata.stackexchange.com/), [User Experience](http://ux.stackexchange.com/), and [Programming](http://programmers.stackexchange.com/). The sites are self-moderated, subjecting users to a reputation award process. This TOS agreement was negotiated by **GSA**.
 
-DigitalGov’s [article on the Open Data Stack Exchange]({{< ref "2014-09-10-stacking-up-the-benefits-of-openness.md" >}}) highlighted how agencies and the public can interact on the platform.
+DigitalGov’s [article on the Open Data Stack Exchange]({{ ref . "2014-09-10-stacking-up-the-benefits-of-openness.md" }}) highlighted how agencies and the public can interact on the platform.
 
 ## Trello
 
 [Trello](https://trello.com/) is a web-based project management application. Projects are displayed as boards, which subsequently contain task lists and corresponding task cards. Cards can be part of multiple lists, representing movement of an idea from thought to tangible creation. This TOS agreement was negotiated by **GSA**.
 
-_Agencies interested in the TOS negotiation process should start with the article [What Is a “Terms of Service” and How Do I Get One?]({{< ref "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}})_
+_Agencies interested in the TOS negotiation process should start with the article [What Is a “Terms of Service” and How Do I Get One?]({{ ref . "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" }})_

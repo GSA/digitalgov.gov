@@ -34,13 +34,13 @@ Three recent stories demonstrate how opening up federal government data and usin
 
 3. {{< legacy-img-right src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Meme: Keep Calm and Open Data over an American flag" >}}The Department of Homeland Security (DHS) released 275 datasets through the <a href="https://hifld-dhs-gii.opendata.arcgis.com/" target="_blank">Homeland Infrastructure Foundation-Level Data Working Group (HIFLD)</a>. These datasets provide valuable mapping information for disaster officials and first responders. It is also hoped innovators can create startups around the DHS data. One example is a mobile app that can display alternative fueling stations for use during emergencies and to help city planners prepare for emergencies. 
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}">APIs in Government</a> for more information._ 
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{ ref . "2013-04-30-apis-in-government.md" }}">APIs in Government</a> for more information._ 
 
 
 *** 
 
 _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._ 
+_Each week, [The Data Briefing]({{ ref . "/topics/the-data-briefing" }}) showcases the latest federal data news and trends._ 
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 

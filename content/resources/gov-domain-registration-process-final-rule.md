@@ -25,4 +25,4 @@ This final rule establishes FMR part 102-173, Internet GOV Domain, and provides 
 
 * * *
 
-See more [DigitalGov Resources]({{< ref "/resources" >}})
+See more [DigitalGov Resources]({{ ref . "/resources" }})

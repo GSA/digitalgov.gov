@@ -31,7 +31,7 @@ However, the desire to connect innovators extends beyond the VA’s doors.
 
 As the Network team looked to expand their innovation initiatives, they found the [Open Opportunities](https://openopps.digitalgov.gov/) platform. Open Opportunities helps agencies tap into expertise in all corners of the federal government while also providing professional development opportunities. Agencies post tasks and projects that are picked up by federal employees.
 
-Although Open Opportunities is limited to the federal government, the [platform’s code is open source]({{< ref "2016-01-14-why-people-contribute-to-federal-tech-projects-and-how-you-can-provide-a-good-experience.md" >}}). Ippolito recognized the potential of the platform and wanted to use it to help expand the VA’s reach to the public.
+Although Open Opportunities is limited to the federal government, the [platform’s code is open source]({{ ref . "2016-01-14-why-people-contribute-to-federal-tech-projects-and-how-you-can-provide-a-good-experience.md" }}). Ippolito recognized the potential of the platform and wanted to use it to help expand the VA’s reach to the public.
 
 When Ippolito proposed the idea of adapting Open Opportunities code for a public-facing collaboration platform, one of her colleagues mentioned that she worked with a program to get HD Woodson High School students involved with STEM projects. Each summer, the students are assigned a project to work on, and the VA team recognized an opportunity for even more public collaboration: have high school students adapt the code and build the platform.
 

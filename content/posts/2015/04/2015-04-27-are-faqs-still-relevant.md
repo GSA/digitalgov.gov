@@ -30,7 +30,7 @@ Nielsen Norman Group recently published two articles arguing for the continued u
 
 Previously, the UK Digital Government Service published an article on their approach: [FAQs: Why We Don’t Have Them](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/).
 
-Similarly, federal employees in the [User Experience Community of Practice]({{< ref "user-experience.md" >}}) have varying views on FAQs. A recent listserv discussion touched on the reasons why some agencies still use FAQs (and why others avoid them). Below are selected comments and pieces of advice generated from the discussion.
+Similarly, federal employees in the [User Experience Community of Practice]({{ ref . "user-experience.md" }}) have varying views on FAQs. A recent listserv discussion touched on the reasons why some agencies still use FAQs (and why others avoid them). Below are selected comments and pieces of advice generated from the discussion.
 
 ## FAQs For Content Delivery
 
@@ -52,7 +52,7 @@ Stephanie Thum, Vice President of Customer Experience at the [Export-Import Bank
 
 “The nature of the work we do at our agency is so complex (we finance and insure exports toward the creation of U.S. jobs) that incoming inquiries can be very nuanced, such that FAQs don’t fully answer the customer’s question, which can be frustrating,” Thum said. “There is also the matter of a vernacular that is not shared. We may refer to a transaction or product in one way while the customer uses a different vernacular.”
 
-DigitalGov previously covered how [ExIm improved their contact centers]({{< ref "2014-12-04-ex-im-bank-announces-improved-customer-contact-center-to-better-serve-u-s-exporters.md" >}}) to deliver better customer experience.
+DigitalGov previously covered how [ExIm improved their contact centers]({{ ref . "2014-12-04-ex-im-bank-announces-improved-customer-contact-center-to-better-serve-u-s-exporters.md" }}) to deliver better customer experience.
 
 ## FAQ Maintenance Difficulties—And One Solution
 

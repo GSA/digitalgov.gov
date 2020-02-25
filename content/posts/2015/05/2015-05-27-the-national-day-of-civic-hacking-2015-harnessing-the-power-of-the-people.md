@@ -42,7 +42,7 @@ The many benefits of the National Day of Civic Hacking include:
 
 ## What’s the theme? {{< legacy-img src="2015/05/250-x-346-Hurricane-Storm-Evacuation-Route-Sign-choicegraphx-iStock-Thinkstock-98154377.jpg" alt="Hurricane Storm Evacuation Route Sign" caption="" >}} 
 
-We look for challenge themes that excite citizens and encourage collaboration across the local, state and federal levels. This year we are excited to offer three federal government core themes for [civic hackers]({{< ref "2013-05-15-what-is-a-civic-hacker.md" >}} "What is a Civic Hacker?") to focus on: “Oceans &#8217;15,” Climate, and Disaster Response.
+We look for challenge themes that excite citizens and encourage collaboration across the local, state and federal levels. This year we are excited to offer three federal government core themes for [civic hackers]({{ ref . "2013-05-15-what-is-a-civic-hacker.md" }} "What is a Civic Hacker?") to focus on: “Oceans &#8217;15,” Climate, and Disaster Response.
 
 Civic hacking during the event is in no way limited to these three verticals; they are provided to illustrate some major areas of interest where a collaboration could have powerful and immediate impact. Projects are also expected in the areas of Health, Justice and Open Data.
 

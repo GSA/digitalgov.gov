@@ -22,4 +22,4 @@ Making information resources accessible, discoverable, and usable by the public 
 
 * * *
 
-See more [DigitalGov Resources]({{< ref "/resources" >}})
+See more [DigitalGov Resources]({{ ref . "/resources" }})

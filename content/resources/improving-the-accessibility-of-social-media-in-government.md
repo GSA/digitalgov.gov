@@ -26,9 +26,9 @@ To begin exploring the Toolkit, simply select from this table of contents:
 
 ## Who Developed This Toolkit?
 
-**_Improving the Accessibility of Social Media_** is brought to you by the U.S. Department of Labor&#8217;s [Office of Disability Employment Policy (ODEP)](http://www.dol.gov/odep/), the U.S. General Services Administration’s [Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729) and the Social Media Accessibility Working Group, a committee within the [Federal Social Media Community of Practice]({{< ref "social-media.md" >}} "Social Media"). Working together, these entities have aimed to curate and share best practices to help agencies ensure their social media content is accessible everyone, including users with disabilities. Efforts are also being made to work with social media platform and tool developers, citizens and partners to encourage greater accessibility.
+**_Improving the Accessibility of Social Media_** is brought to you by the U.S. Department of Labor&#8217;s [Office of Disability Employment Policy (ODEP)](http://www.dol.gov/odep/), the U.S. General Services Administration’s [Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729) and the Social Media Accessibility Working Group, a committee within the [Federal Social Media Community of Practice]({{ ref . "social-media.md" }} "Social Media"). Working together, these entities have aimed to curate and share best practices to help agencies ensure their social media content is accessible everyone, including users with disabilities. Efforts are also being made to work with social media platform and tool developers, citizens and partners to encourage greater accessibility.
 
-The genesis of this Toolkit is a collaborative document that originated at the [#SocialGov Summit on Accessibility]({{< ref "2012-11-30-socialgov-summit-highlights-accessibility-challenges.md" >}} "#SocialGov Summit Highlights Accessibility Challenges"), which is a product of eight agencies: U.S. Geological Survey, Environmental Protection Agency, Department of Labor, Department of Transportation, National Oceanic and Atmospheric Administration, National Cancer Institute, National Human Genome Research Institute and the General Services Administration. Also included is input from [“Sociability: Social Media for People with a Disability,”](http://www.mediaaccess.org.au/online-media/social-media) by Dr. Scott Hollier, Western Australia Manager for Media Access Australia (MAA) and member of the Advisory Committee of the World Wide Web Consortium (W3C).
+The genesis of this Toolkit is a collaborative document that originated at the [#SocialGov Summit on Accessibility]({{ ref . "2012-11-30-socialgov-summit-highlights-accessibility-challenges.md" }} "#SocialGov Summit Highlights Accessibility Challenges"), which is a product of eight agencies: U.S. Geological Survey, Environmental Protection Agency, Department of Labor, Department of Transportation, National Oceanic and Atmospheric Administration, National Cancer Institute, National Human Genome Research Institute and the General Services Administration. Also included is input from [“Sociability: Social Media for People with a Disability,”](http://www.mediaaccess.org.au/online-media/social-media) by Dr. Scott Hollier, Western Australia Manager for Media Access Australia (MAA) and member of the Advisory Committee of the World Wide Web Consortium (W3C).
 
 ## Why Is The Accessibility of Social Media So Important?
 
@@ -168,7 +168,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
   * [Emergency 2.0 Wiki Accessibility Toolkit](http://emergency20wiki.org/wiki/index.php/Accessibility_Toolkit) (Australia)
   * [Queen University’s Accessibility Hub](http://www.queensu.ca/accessibility/how-info/social-media-accessibility) (Canada)
   * [Accessibility articles on Usability.gov](http://www.usability.gov/tags/accessibility/)
-  * [Accessibility section on DigitalGov.gov]({{< ref "/topics/accessibility" >}})
+  * [Accessibility section on DigitalGov.gov]({{ ref . "/topics/accessibility" }})
   * [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG/)
   * [Section508.gov](http://section508.gov/)
   * [Department of Health and Human Services Section 508 Resources](http://www.hhs.gov/web/508/index.html)
@@ -183,7 +183,7 @@ Digital Government University (DGU) offers a series of trainings based on these 
   * [Making Social Media More Accessible: What You Can Do Today](https://www.youtube.com/watch?v=aMlFWIu6rpY&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Q&index=25) (December 2012)
   * [Role-Based Accessibility in Government: Everyone&#8217;s Responsibility](https://www.youtube.com/watch?v=2wRl-JM3I-M) (November 2012)
   * [DigitialGov YouTube Channel](https://www.youtube.com/digitalgov)
-  * [DigitalGov University On-Demand Training]({{< ref "/about/digitalgov-university.md" >}})
+  * [DigitalGov University On-Demand Training]({{ ref . "/about/digitalgov-university.md" }})
 
 ### Other Web resources
 
@@ -209,5 +209,5 @@ Ways to provide feedback and engage on this topic:
 
   * Use the commenting tool at the bottom of this page to share your comments and suggest additional content, examples or case studies.
   * Subscribe to [email updates about this Toolkit](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_39)
-  * Join the [Federal Social Media Community of Practice]({{< ref "social-media.md" >}} "Social Media")
+  * Join the [Federal Social Media Community of Practice]({{ ref . "social-media.md" }} "Social Media")
   * [email us](mailto:justin.herman@gsa.gov)

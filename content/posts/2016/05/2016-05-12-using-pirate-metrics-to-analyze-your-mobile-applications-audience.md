@@ -24,7 +24,7 @@ What Makes a Native App Successful?
 
 There are over 200 native applications in the federal government with various download numbers. Are the ones with the most downloads the most successful? Is the one with fewer users who are more engaged more successful? It depends on what you are trying to accomplish.
 
-David Cooper, the [Mobile Application Development Lead]({{< ref "2015-06-25-using-apps-for-mental-healthcare.md" >}}) with the National Center for Telehealth and Technology (T2) and member of the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}), said during a recent DigitalGov University (DGU) webinar, that while vanity metrics such as page views for websites and downloads for apps make you feel good, they don’t tell you anything about how users like your app or site. For that, you need actionable metrics, ones that provide you with the information you need to help improve your app. Downloads won’t give you that information. 
+David Cooper, the [Mobile Application Development Lead]({{ ref . "2015-06-25-using-apps-for-mental-healthcare.md" >}}) with the National Center for Telehealth and Technology (T2) and member of the [MobileGov Community of Practice]({{< ref "mobilegov.md" }}), said during a recent DigitalGov University (DGU) webinar, that while vanity metrics such as page views for websites and downloads for apps make you feel good, they don’t tell you anything about how users like your app or site. For that, you need actionable metrics, ones that provide you with the information you need to help improve your app. Downloads won’t give you that information. 
 
 {{< legacy-img src="2016/05/600-x-400-Pirate-Lady_Reiterlied_flickr_CC-BY-NC-SA-2.0_21900258113_db59a364a7_o.jpg" alt="A colorful lady pirate LEGO toy against a black background" caption="" >}} 
 
@@ -58,7 +58,7 @@ How are people finding your product? Promotions are a good to let people know ab
 
 **Do people tell others about your product?** Does it go viral via word of mouth? You need to find your super users and make it easy for them to tell others about your product. As it turns out some of Cooper’s best promotion efforts aren’t digital—they partnered with frontline health professionals to recommend their apps as part of veterans treatment programs, and so developed a “prescription pad.” The apps were downloaded much more frequently once doctors were able to include a prescription to download a mobile app rather than try to remember and recite the URL to a patient.
 
-So, how do you accomplish all of this on a government budget? Luckily, with many of the analytics tools you can set up dashboards and then forget about it in the sense that they will automatically collect statistics over time. Cooper also mentioned low/no cost usability techniques such as [paper prototyping]({{< ref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}}) to gather data.
+So, how do you accomplish all of this on a government budget? Luckily, with many of the analytics tools you can set up dashboards and then forget about it in the sense that they will automatically collect statistics over time. Cooper also mentioned low/no cost usability techniques such as [paper prototyping]({{ ref . "2014-05-22-how-to-make-a-mobile-paper-prototype.md" }}) to gather data.
 
 As Cooper, a psychologist by training, pointed out you can find many low cost and free online training resources as well as various books and YouTube videos (Google Analytics, Google Ventures, etc.) As he pointed out in his concluding remarks, “other people are writing mobile app and websites and are sharing their experiences like I am with you. That is how I learned. A lot of trial and error.”
 
@@ -73,4 +73,4 @@ Helpful Training Links Cooper mentioned in his slides:
   * [Udemy Marketing Courses](https://www.udemy.com/courses/marketing/all-courses/?price=price-free&lang=en) 
   * Google [Analytics](https://www.youtube.com/user/googleanalytics) and [Ventures](https://www.youtube.com/user/GoogleVentures) 
   
-  _Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_
+  _Learn more about [DigitalGov University]({{ ref . "/about/digitalgov-university.md" }}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_

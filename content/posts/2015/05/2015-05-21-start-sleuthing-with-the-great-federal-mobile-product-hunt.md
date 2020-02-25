@@ -19,7 +19,7 @@ topics:
 
 {{< legacy-img src="2015/05/600-x-211-MobileGov-Shared-Tweet-Photo.jpg" alt="The Digital Gov Hunters of the Lost Apps Twitter promo graphic, inviting users to Join the Hunt and use the Lost Apps hashtag." caption="" >}} 
 
-Mobile-friendliness is a [must for government]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}} "Trends on Tuesday: Smartphone Market Growth Makes Mobile-Friendly a Must"). We know there are a number of agencies who have mobile-friendly digital products that we don’t know about, and they deserve their day in the sun.
+Mobile-friendliness is a [must for government]({{ ref . "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" }} "Trends on Tuesday: Smartphone Market Growth Makes Mobile-Friendly a Must"). We know there are a number of agencies who have mobile-friendly digital products that we don’t know about, and they deserve their day in the sun.
 
 We need your help to find them. So today, at the DigitalGov Citizen Services Summit you will find the MobileGov Community of Practice [Expo Table](https://summit.digitalgov.gov/expo/), where we are kicking off the Great Federal Mobile Product Hunt. The mission of the hunt is simple—find the mobile apps or websites not listed on the registry.
 
@@ -29,7 +29,7 @@ Here’s how you can help agencies get their promotional mojo by participating i
 
   * Check out the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml) to see if your agency&#8217;s products are listed.
   * If they are listed, great!
-  * If not, [email us](mailto:digitalgov@gsa.gov) with the subject line “LostApps,” and tell us the name of the mobile app or website and the contact person for it. We will add the app or website to the registry, and we may profile it in our [Thursday Mobile Products]({{< ref "/topics/thursday-mobile-products" >}}) series here on DigitalGov.
+  * If not, [email us](mailto:digitalgov@gsa.gov) with the subject line “LostApps,” and tell us the name of the mobile app or website and the contact person for it. We will add the app or website to the registry, and we may profile it in our [Thursday Mobile Products]({{ ref . "/topics/thursday-mobile-products" }}) series here on DigitalGov.
 
 Stay tuned, as we will be bringing you periodic updates about our progress in finding missing apps. Help us spread the word by using the hashtags #lostapps and #mobilegov on Twitter.
 

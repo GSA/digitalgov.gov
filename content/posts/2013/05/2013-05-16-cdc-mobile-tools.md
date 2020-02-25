@@ -18,4 +18,4 @@ The mobile website was developed to allow users to access a subset of CDC’s co
 
 The [CDC Mobile App](http://apps.usa.gov/cdc-mobile-app.shtml) is compatible for iPad and Android mobile devices. The CDC Mobile App was designed to allow users to access healthcare related information. The mobile app allows users to view articles, journals, reports, press releases and images from the CDC’s Public Image Library. The application also allows the users to access CDC’s podcasts, blogs, and social media.
 
-In addition, the CDC has developed other mobile tools like [Solve the Outbreak]({{< ref "2013-06-18-cdcs-solve-the-outbreak-app-2.md" >}} "CDC’s Solve the Outbreak App") and Fluview. You can find more government mobile products like these on the [USA.gov Apps Gallery](http://apps.usa.gov/).
+In addition, the CDC has developed other mobile tools like [Solve the Outbreak]({{ ref . "2013-06-18-cdcs-solve-the-outbreak-app-2.md" }} "CDC’s Solve the Outbreak App") and Fluview. You can find more government mobile products like these on the [USA.gov Apps Gallery](http://apps.usa.gov/).

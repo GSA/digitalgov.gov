@@ -23,7 +23,7 @@ An important question worth asking is: how can all of us increase the benefits o
 
 ## On Mitigating Potential Downsides
 
-While on an Eisenhower Fellowship to Australia and Taiwan, David had the opportunity to meet with industry and government leaders involved with both the Internet and the [Internet of Everything]({{< ref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}) (IoE). Leaders from both nations raised concerns about whether the Internet was becoming an “echo chamber” for reinforcing extreme views, instead of possibly seeking healthy discussions and middle ground solutions?
+While on an Eisenhower Fellowship to Australia and Taiwan, David had the opportunity to meet with industry and government leaders involved with both the Internet and the [Internet of Everything]({{ ref . "2015-02-26-the-internet-of-everything-small-business-opportunities.md" }}) (IoE). Leaders from both nations raised concerns about whether the Internet was becoming an “echo chamber” for reinforcing extreme views, instead of possibly seeking healthy discussions and middle ground solutions?
 
 Scientific research has shown for each of us as humans, once we have a set view in our minds, we all are more likely to interpret data and narratives to reaffirm our set view and dismiss data and narratives that challenge our set view. This means that for all of us it is very hard to change our minds once our minds are set. With the accelerating global adoption of the Internet, several leaders in Taiwan and Australia wondered whether social media might discourage discussion of compromises across different ideologies?
 

@@ -29,7 +29,7 @@ The Central Intelligence Agency launched their Twitter account with [the second 
 
 Now for the first time, on the DigitalGov podcast, learn from the CIA itself the best practices behind one of the most high-profile social media accounts in both the public and private sector.
 
-Justin Herman, GSA lead for the government-wide [SocialGov Community]({{< ref "social-media.md" >}}), explores the story-behind-the-stories with Carolyn Reams, web strategist for [CIA.gov](https://www.cia.gov/index.html), on not-so-secret subjects including:
+Justin Herman, GSA lead for the government-wide [SocialGov Community]({{ ref . "social-media.md" }}), explores the story-behind-the-stories with Carolyn Reams, web strategist for [CIA.gov](https://www.cia.gov/index.html), on not-so-secret subjects including:
 
   * How and why did the CIA get into social media?
   * What does a great day look like for the CIA social media team?

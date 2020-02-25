@@ -22,29 +22,29 @@ This month, our round up focuses on customer experience (CX). As I was rounding 
 
 ## Predictions and Trends
 
-Martha Dorris, Director of the Office of Strategic Programs in the Information Technology Service (ITS), and former Director of the Office of Innovative Technologies at GSA, wrote [15 Government Customer Services Trends for 2015]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}} "15 Government Customer Service Trends for 2015") with some predictions about what will happen this year in the CX arena. Let’s see if her predictions come true.
+Martha Dorris, Director of the Office of Strategic Programs in the Information Technology Service (ITS), and former Director of the Office of Innovative Technologies at GSA, wrote [15 Government Customer Services Trends for 2015]({{ ref . "2015-01-12-15-government-customer-service-trends-for-2015.md" }} "15 Government Customer Service Trends for 2015") with some predictions about what will happen this year in the CX arena. Let’s see if her predictions come true.
 
-We also recently had Stephanie Thum, Vice President of Customer Experience at the Export-Import Bank write [Will 2016 be the Federal Government’s ‘Year of the Customer?’]({{< ref "2014-12-01-will-2016-be-the-federal-governments-year-of-the-customer.md" >}} "Will 2016 Be the Federal Government’s ‘Year of the Customer?’") Stephanie takes a look at 5 reasons why if 2014 was the year of planting seeds—and if this will be the year of germination and nurturing—then we can look to 2016 as the year in which agencies’ CX efforts may begin to truly bear fruit.
+We also recently had Stephanie Thum, Vice President of Customer Experience at the Export-Import Bank write [Will 2016 be the Federal Government’s ‘Year of the Customer?’]({{ ref . "2014-12-01-will-2016-be-the-federal-governments-year-of-the-customer.md" }} "Will 2016 Be the Federal Government’s ‘Year of the Customer?’") Stephanie takes a look at 5 reasons why if 2014 was the year of planting seeds—and if this will be the year of germination and nurturing—then we can look to 2016 as the year in which agencies’ CX efforts may begin to truly bear fruit.
 
 ## Successful CX Programs
 
-Last February, we interviewed Stephanie Thum about customer experience and why leadership support at the highest levels is so important to [successful customer experience programs]({{< ref "2014-02-21-customer-experience-video-blog-stephanie-thum-export-import-bank.md" >}} "Customer Experience Video Blog: Stephanie Thum, Export-Import Bank"), and since measuring the customer experience is super important she shared how the [Export-Import Bank measures the transaction experience and finding CX metrics that matter.]({{< ref "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" >}} "Government CX:  Where Do You Find the Right Foundational Metrics?")
+Last February, we interviewed Stephanie Thum about customer experience and why leadership support at the highest levels is so important to [successful customer experience programs]({{ ref . "2014-02-21-customer-experience-video-blog-stephanie-thum-export-import-bank.md" >}} "Customer Experience Video Blog: Stephanie Thum, Export-Import Bank"), and since measuring the customer experience is super important she shared how the [Export-Import Bank measures the transaction experience and finding CX metrics that matter.]({{< ref "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" }} "Government CX:  Where Do You Find the Right Foundational Metrics?")
 
 ## Social Media
 
- [Social media is also a great way to reach customers]({{< ref "2015-04-24-meeting-customer-needs-through-social-media.md" >}} "Meeting Customer Needs Through Social Media") and in this post we took a look at how agencies are leveraging social media tools as a meeting space for two-way conversations, and to even resolve user issues and deliver excellent customer service.
+ [Social media is also a great way to reach customers]({{ ref . "2015-04-24-meeting-customer-needs-through-social-media.md" }} "Meeting Customer Needs Through Social Media") and in this post we took a look at how agencies are leveraging social media tools as a meeting space for two-way conversations, and to even resolve user issues and deliver excellent customer service.
 
 ## Personas and Customer Profiles
 
 You should consider is developing your customer profiles to help you get to know your customer a little bit better.
 
-In a recent [Trends on Tuesday: The Total Market Approach]({{< ref "2015-04-21-trends-on-tuesday-the-total-market-approach.md" >}} "Trends on Tuesday: The Total Market  Approach"), Ashley Wichman of the DigitalGov team talks about taking a multi-cultural approach to marketing and understanding the diversity of the consumer. Personas were cited as a helpful tool in this approach.
+In a recent [Trends on Tuesday: The Total Market Approach]({{ ref . "2015-04-21-trends-on-tuesday-the-total-market-approach.md" }} "Trends on Tuesday: The Total Market  Approach"), Ashley Wichman of the DigitalGov team talks about taking a multi-cultural approach to marketing and understanding the diversity of the consumer. Personas were cited as a helpful tool in this approach.
 
 We’ve also had several other articles on personas including:
 
-  * A [persona development case study with the National Cancer Institute]({{< ref "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}} "Persona Development Case Study: NCI and Spanish Language Outreach") and their Spanish language outreach
-  * An article with perspectives from the Department of Agriculture and the Department of Health and Human Services on [using and creating personas and the challenges associated with this process.]({{< ref "2015-02-02-agency-perspectives-on-personas-use-development-and-challenges.md" >}} "Agency Perspectives on Personas - Use, Development and Challenges")
-  * A USA.gov case study on [using personas to better understand customers]({{< ref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}} "Using Personas to Better Understand Customers: USA.gov Case Study").
+  * A [persona development case study with the National Cancer Institute]({{ ref . "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" }} "Persona Development Case Study: NCI and Spanish Language Outreach") and their Spanish language outreach
+  * An article with perspectives from the Department of Agriculture and the Department of Health and Human Services on [using and creating personas and the challenges associated with this process.]({{ ref . "2015-02-02-agency-perspectives-on-personas-use-development-and-challenges.md" }} "Agency Perspectives on Personas - Use, Development and Challenges")
+  * A USA.gov case study on [using personas to better understand customers]({{ ref . "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" }} "Using Personas to Better Understand Customers: USA.gov Case Study").
 
 ## Events
 

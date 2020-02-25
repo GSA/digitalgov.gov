@@ -33,4 +33,4 @@ You can access the glossary, contact information and materials about wage laws t
 
 Labor provides this app as a public service and intends the regulations and related material in this app to enhance public access to information on its programs.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{ ref . "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" }})._

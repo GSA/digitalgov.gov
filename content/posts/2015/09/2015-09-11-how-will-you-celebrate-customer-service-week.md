@@ -36,11 +36,11 @@ Develop internal communications and activities around Customer Service Week, to 
 How does your agency use social media to serve customers? Talk to your agency’s social media lead about giving one of these ideas a spin.
 
   * {{< legacy-img src="2015/09/250-x-250-Social-media-connections-SilverV-iStock-Thinkstock-179875424.jpg" alt="Social media connections" caption="" >}}
-    Host [customer service “office hours” or chats]({{< ref "2013-10-17-hosting-successful-federal-twitter-chats.md" >}}) on Twitter, and follow [#GovCX](https://twitter.com/hashtag/govcx)</li>
+    Host [customer service “office hours” or chats]({{ ref . "2013-10-17-hosting-successful-federal-twitter-chats.md" }}) on Twitter, and follow [#GovCX](https://twitter.com/hashtag/govcx)</li>
 
       * Share answers to common customer questions on Facebook
       * [Share ideas on Pinterest](https://www.pinterest.com/explore/customer-service-week/)
-      * Review the list of tools that have a [federal-friendly Terms of Service]({{< ref "negotiated-terms-of-service-agreements.md" >}}), to see if there are any new tools your agency should consider adopting
+      * Review the list of tools that have a [federal-friendly Terms of Service]({{ ref . "negotiated-terms-of-service-agreements.md" }}), to see if there are any new tools your agency should consider adopting
       * Organize an after-hours networking event for your customer teams</ul>
 
     ## Customer Experience (CX) Day
@@ -74,4 +74,4 @@ How does your agency use social media to serve customers? Talk to your agency’
           * Document customer success stories, such as the Transportation Security Administration’s “Kudos Across America,” and share with your staff
           * Develop recommendations for next year’s celebrations
 
-        Want to improve customer experience in government? Join the Customer Experience Community of Practice (CX-COP). It’s a platform for government CX practitioners to share knowledge, ask questions, and collaborate to improve the government customer experience. Visit the [Customer Experience Community page]({{< ref "customer-experience-community.md" >}}) to register. {{< legacy-img src="2015/09/600-x-400-Callcenter-Strong-team-Teamwork-Androsov-Konstantin-iStock-Thinkstock-93536156.jpg" alt="Team of call center figures" caption="" >}}
+        Want to improve customer experience in government? Join the Customer Experience Community of Practice (CX-COP). It’s a platform for government CX practitioners to share knowledge, ask questions, and collaborate to improve the government customer experience. Visit the [Customer Experience Community page]({{ ref . "customer-experience-community.md" >}}) to register. {{< legacy-img src="2015/09/600-x-400-Callcenter-Strong-team-Teamwork-Androsov-Konstantin-iStock-Thinkstock-93536156.jpg" alt="Team of call center figures" caption="" }}

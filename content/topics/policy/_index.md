@@ -18,4 +18,4 @@ weight: 2
 
 **More information**
 
-- See our ["Checklist of Requirements for Federal Websites and Digital Services"]({{< ref "/resources/checklist-of-requirements-for-federal-digital-services.md" >}})
+- See our ["Checklist of Requirements for Federal Websites and Digital Services"]({{ ref . "/resources/checklist-of-requirements-for-federal-digital-services.md" }})

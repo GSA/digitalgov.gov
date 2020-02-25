@@ -21,7 +21,7 @@ I used to teach 8th grade science in inner city Denver in the 1990s. After that,
 
 After learning more about design, Information Architecture, and now user experience, I began to realize that while digital services for kids looked really good on the outside, on the inside they were awful. Scope/feature creep is very, very likely since there is always the temptation to “just add THIS function.”
 
-I wanted to add my take to some of the good material out there about usability testing with kids in the government sphere, including these articles by the [Bureau of Labor Statistics]({{< ref "2014-06-11-talking-usability-with-kids-over-milk-and-cookies.md" >}}), [Usability.gov](http://www.usability.gov/get-involved/blog/2015/02/working-with-kids-and-teens.html) and [Kids.gov]({{< ref "2014-04-02-kids-gov-usability-case-study.md" >}}). Here we go:
+I wanted to add my take to some of the good material out there about usability testing with kids in the government sphere, including these articles by the [Bureau of Labor Statistics]({{ ref . "2014-06-11-talking-usability-with-kids-over-milk-and-cookies.md" >}}), [Usability.gov](http://www.usability.gov/get-involved/blog/2015/02/working-with-kids-and-teens.html) and [Kids.gov]({{< ref "2014-04-02-kids-gov-usability-case-study.md" }}). Here we go:
 
 ## 1. Who are you REALLY designing for?
 

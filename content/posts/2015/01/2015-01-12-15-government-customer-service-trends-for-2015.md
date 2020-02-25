@@ -51,7 +51,7 @@ With public expectations at an all-time high, and trust in government nearing al
 ## 5. Social media will continue to effectively deliver information and services, especially to specific populations or demographics.
 
 <p style="padding-left: 30px;">
-  Social media experts from across the federal government will finalize the <a title="3rd U.S. Public Participation Playbook Draft Released This Month" href="{{< ref "2014-12-17-3rd-u-s-public-participation-playbook-draft-released-this-month.md" >}}">draft U.S. Public Participation Playbook</a>, and will continue to work with stakeholders from both the public and private sectors to improve how agencies serve the public via social channels.
+  Social media experts from across the federal government will finalize the <a title="3rd U.S. Public Participation Playbook Draft Released This Month" href="{{ ref . "2014-12-17-3rd-u-s-public-participation-playbook-draft-released-this-month.md" }}">draft U.S. Public Participation Playbook</a>, and will continue to work with stakeholders from both the public and private sectors to improve how agencies serve the public via social channels.
 </p>
 
 ## 6. Contact centers will continue to be an important channel to serve the public.
@@ -75,7 +75,7 @@ With public expectations at an all-time high, and trust in government nearing al
 ## 9. Collection and measurement of key website performance and satisfaction data will improve.
 
 <p style="padding-left: 30px;">
-  Use of the <a title="DAP: Digital Analytics Program" href="{{< ref "/guides/dap/_index.md" >}}">Digital Analytics Program (DAP</a>) will continue to expand across government. This no-cost, hosted website analytics tool helps government agencies measure performance of their digital services, and it will be augmented to measure customer satisfaction and integrate with key performance indicators.
+  Use of the <a title="DAP: Digital Analytics Program" href="{{ ref . "/guides/dap/_index.md" }}">Digital Analytics Program (DAP</a>) will continue to expand across government. This no-cost, hosted website analytics tool helps government agencies measure performance of their digital services, and it will be augmented to measure customer satisfaction and integrate with key performance indicators.
 </p> {{< legacy-img src="2015/01/600-x-325-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280.jpg" alt="Website Contact Page Icons Concept" caption="" >}}
 
 ## 10. Agencies will align contact channels to deliver the same answers to customers via email, phone, chat, website etc.

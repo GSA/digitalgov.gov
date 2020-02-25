@@ -32,7 +32,7 @@ topics:
   - us-small-business-administration
 ---
 
-We won’t build the government of the 21st century by [drawing within the lines]({{< ref "2014-05-07-because-its-hard.md" >}}).
+We won’t build the government of the 21st century by [drawing within the lines]({{ ref . "2014-05-07-because-its-hard.md" }}).
 
 We don&#8217;t have to tell you the hard work of building a digital government doesn&#8217;t exist in a vacuum or a bubble. Show us social media without mobile, Web without data and user experience without APIs. You can&#8217;t? That&#8217;s right—in reality, digital government intersects and cuts across boundaries every day in order to deliver the digital goods.
 
@@ -51,7 +51,7 @@ Following an opening keynote by Federal Communications Commission (FCC) CIO, Dav
   * public private partnerships and
   * inter-agency work.
 
-These panels will explore how agencies can integrate their [data]({{< ref "/topics/code" >}}data1/), [social media]({{< ref "/topics/social-media" >}}), [user experience]({{< ref "/topics/ux" >}}), [mobile development]({{< ref "/topics/mobile" >}}) and other programs in order to achieve the best improvements for citizen services. Confirmed speakers include:
+These panels will explore how agencies can integrate their [data]({{ ref . "/topics/code" >}}data1/), [social media]({{< ref "/topics/social-media" >}}), [user experience]({{< ref "/topics/ux" >}}), [mobile development]({{< ref "/topics/mobile" }}) and other programs in order to achieve the best improvements for citizen services. Confirmed speakers include:
 
   * Jack Bienko, Small Business Administration (SBA)
   * Denise Shaw, Environmental Protection Agency (EPA)

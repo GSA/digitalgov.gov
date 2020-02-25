@@ -18,7 +18,7 @@ topics:
 
 [{{< legacy-img src="2015/09/600-x-313_1019-pm-274-629-PEAK-full-eclipse1.jpg" alt="A screen capture from Analytics.USA.gov shows that 274,629 people visited U.S. governnment websites at 10:19 pm on September 27, 2015 during the Super Blood Moon lunar eclipse." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/1080-x-1285_1019-pm-274-629-PEAK-full-eclipse.jpg)
 
-NASA&#8217;s reach over the last 24 hours eclipsed that of the regulars typically seen in [government digital metrics](https://analytics.USA.gov). But, all agencies can drive the conversation and accomplish a similar feat with a good [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
+NASA&#8217;s reach over the last 24 hours eclipsed that of the regulars typically seen in [government digital metrics](https://analytics.USA.gov). But, all agencies can drive the conversation and accomplish a similar feat with a good [content strategy]({{ ref . "2015-03-23-the-content-corner-building-a-content-strategy.md" }}).
 
 [NASA defines a supermoon](http://nasa.tumblr.com/post/129807068979/what-is-a-supermoon-lunar-eclipse), which appears approximately 14 percent larger in diameter due to its proximity to the Earth, as _a full or new moon that falls closest to the fall equinox, and is at its closest approach to the Earth_.
 
@@ -38,7 +38,7 @@ NASA&#8217;s hashtag, **#SuperBloodMoon**, dominated popular social media channe
 
 **Facebook**
 
-This morning, the hashtag was still the Top Trend in Facebook&#8217;s Science and Technology ticker. NASA ran a #SuperBloodMoon Photo Contest on their [Facebook page](https://www.facebook.com/NASA), which received over 1,500 submissions yesterday from all around the world within the first 2 hours. The best shots are being featured in [their gallery on Facebook](https://www.facebook.com/NASA/app_723403517771551); voting begins at [3 pm Eastern](https://www.facebook.com/NASA/app_723403517771551) today. This is a great example of [harnessing user-generated content]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}) to keep the conversation going.
+This morning, the hashtag was still the Top Trend in Facebook&#8217;s Science and Technology ticker. NASA ran a #SuperBloodMoon Photo Contest on their [Facebook page](https://www.facebook.com/NASA), which received over 1,500 submissions yesterday from all around the world within the first 2 hours. The best shots are being featured in [their gallery on Facebook](https://www.facebook.com/NASA/app_723403517771551); voting begins at [3 pm Eastern](https://www.facebook.com/NASA/app_723403517771551) today. This is a great example of [harnessing user-generated content]({{ ref . "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" }}) to keep the conversation going.
 
 **Twitter**
 

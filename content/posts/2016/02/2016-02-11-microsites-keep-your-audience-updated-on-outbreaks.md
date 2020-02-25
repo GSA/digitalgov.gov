@@ -25,4 +25,4 @@ The microsite is built with Zika content, however the CDC now has the ability to
 
 {{< legacy-img src="2016/02/600-x-300-CDC-Public-Health-Media-Library-Zika-Virus-Microsite-preview-in-red.jpg" alt="The Zika Virus Microsite preview in red." >}}
 
-For more information, check out [The Content Corner: Structured Content and the Power of Syndication]({{< ref "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}}) or contact the [CDC’s Content Services Team](mailto:IMTech@cdc.gov).
+For more information, check out [The Content Corner: Structured Content and the Power of Syndication]({{ ref . "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" }}) or contact the [CDC’s Content Services Team](mailto:IMTech@cdc.gov).

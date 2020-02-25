@@ -108,16 +108,16 @@ topics:
     
     <ul>
       <li>
-        <a title="Ideation Challenges" href="{{< ref "2013-11-14-ideation-challenges.md" >}}">Ideation Challenges</a>
+        <a title="Ideation Challenges" href="{{ ref . "2013-11-14-ideation-challenges.md" }}">Ideation Challenges</a>
       </li>
       <li>
-        <a title="Software and Apps Challenges" href="{{< ref "2013-11-06-software-and-apps-challenges.md" >}}">Software and Apps Challenges</a>
+        <a title="Software and Apps Challenges" href="{{ ref . "2013-11-06-software-and-apps-challenges.md" }}">Software and Apps Challenges</a>
       </li>
       <li>
-        <a title="Creative Challenge Contests" href="{{< ref "2013-10-31-creative-challenge-contests.md" >}}">Creative Challenge Contests</a>
+        <a title="Creative Challenge Contests" href="{{ ref . "2013-10-31-creative-challenge-contests.md" }}">Creative Challenge Contests</a>
       </li>
       <li>
-        <a title="Technology Demonstration and Market Stimulation Challenges" href="{{< ref "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" >}}">Technology Demonstration and Market Stimulation Prizes</a>
+        <a title="Technology Demonstration and Market Stimulation Challenges" href="{{ ref . "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" }}">Technology Demonstration and Market Stimulation Prizes</a>
       </li>
     </ul>
   </div>

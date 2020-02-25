@@ -3,7 +3,7 @@
 ## We help people in government build better digital services
 https://digital.gov
 
-- Sign-up for the [Digital.gov newsletter »]({{< ref "/about/subscribe.md" >}})
+- Sign-up for the [Digital.gov newsletter »]({{ ref . "/about/subscribe.md" }})
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
 - Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
 

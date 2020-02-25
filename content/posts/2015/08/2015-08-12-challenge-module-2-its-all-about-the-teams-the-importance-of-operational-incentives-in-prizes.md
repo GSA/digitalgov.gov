@@ -38,4 +38,4 @@ But even with the best prize package, an ill-defined problem will leave potentia
 
 [youtube=http://www.youtube.com/watch?v=w_-UKCfyjUQ&w=600]
 
-Missed Module 1? You can read this [recap of Prize History, Prize Theory and What Makes a Good Prize]({{< ref "2015-07-29-challenge-module-1-prize-history-prize-theory-and-what-makes-a-good-prize.md" >}}).
+Missed Module 1? You can read this [recap of Prize History, Prize Theory and What Makes a Good Prize]({{ ref . "2015-07-29-challenge-module-1-prize-history-prize-theory-and-what-makes-a-good-prize.md" }}).

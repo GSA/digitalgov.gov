@@ -18,7 +18,7 @@ Our work at the General Services Administration encompass many of the pillars of
 
 OGP is an international organization with 66 members countries promoting transparency, increased civic participation, and harness new technologies to make government more open, effective, and accountable. OGP’s ultimate goal includes improving the quality of services that citizens receive, and that’s something we too strive to champion by shipping and driving adoption of the best new products and processes.
 
-GSA’s commitments in the National Action Plan not only use our resources and technology to [improve citizen services](http://www.data.gov/meta/open-government-national-action-plan/), but we enthusiastically helped develop the plan itself to [give a greater voice to citizens]({{< ref "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" >}}) through coordinated open dialogues and collaboration between federal agencies, state and local governments, and civil societies.
+GSA’s commitments in the National Action Plan not only use our resources and technology to [improve citizen services](http://www.data.gov/meta/open-government-national-action-plan/), but we enthusiastically helped develop the plan itself to [give a greater voice to citizens]({{ ref . "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" }}) through coordinated open dialogues and collaboration between federal agencies, state and local governments, and civil societies.
 
 Our commitments to the third U.S. National Action Plan include:
 

@@ -13,7 +13,7 @@ topics:
 
 [{{< legacy-img src="2014/12/250-x-307-crowdsourcing-post-green-blue-pink-arrows.jpg" alt="Green, blue, and pink arrows point to the right." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/250-x-307-crowdsourcing-post-green-blue-pink-arrows.jpg)
 
-You might remember in the post [Crowdsourced Digital Citizen Services Summit]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}} "Crowdsourced Digital Citizen Services Summit") we said &#8220;[Go to Citizen Services Summit 2015. Go there now!](https://crowdhall.com/h/299/)&#8221; Well if you haven&#8217;t yet, there is still time to go there and propose a session, idea, or speaker.
+You might remember in the post [Crowdsourced Digital Citizen Services Summit]({{ ref . "2014-12-15-crowdsourced-digital-citizen-services-summit.md" }} "Crowdsourced Digital Citizen Services Summit") we said &#8220;[Go to Citizen Services Summit 2015. Go there now!](https://crowdhall.com/h/299/)&#8221; Well if you haven&#8217;t yet, there is still time to go there and propose a session, idea, or speaker.
 
 Anyone can propose a session.
 

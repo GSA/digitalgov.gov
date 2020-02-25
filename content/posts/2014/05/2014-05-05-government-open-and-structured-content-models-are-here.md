@@ -46,9 +46,9 @@ topics:
 
 How can you make your content adaptive for efficient delivery to all of these mediums?
 
-Structured content and open content models [can help you create content]({{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}) that is platform-agnostic, format-free, and device-independent.
+Structured content and open content models [can help you create content]({{ ref . "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" }}) that is platform-agnostic, format-free, and device-independent.
 
-We&#8217;ve created [two open and structured content models](http://gsa.github.io/Open-And-Structured-Content-Models/index.html) that we want you to use and adapt. These content models were created to help government agencies easily publish content in multiple forms and on multiple platforms by a cross-agency working group sponsored by the General Service Administration’s [Digital Services Innovation Center]({{< ref "/about/_index.md" >}}).
+We&#8217;ve created [two open and structured content models](http://gsa.github.io/Open-And-Structured-Content-Models/index.html) that we want you to use and adapt. These content models were created to help government agencies easily publish content in multiple forms and on multiple platforms by a cross-agency working group sponsored by the General Service Administration’s [Digital Services Innovation Center]({{ ref . "/about/_index.md" }}).
 
 [{{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2958-x-1407-Open-Content-Model-full-cropped.jpg)
 

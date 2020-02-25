@@ -23,7 +23,7 @@ When people hear about challenge competitions, they most often ask about the res
 
 Two great examples are featured on the <a title="white house blog prize competitions" href="https://www.whitehouse.gov/blog/2015/04/17/21st-century-public-servants-using-prizes-and-challenges-spur-innovation" target="_blank">White House Office of Science and Technology Policy</a> site, which include the &#8220;needle in the haystack&#8221; solvers for a space mass competition and eleven entrepreneurial start-ups that are using breast cancer research.
 
-You&#8217;ll also read about how the <a href="{{< ref "challenges-prizes.md" >}}" target="_blank">Federal Community of Practice for Challenges and Prizes</a> is creating a toolkit with user-centered design that ultimately will be developed into an interactive resource for government agencies to run incentive competitions, from conception through to implementation.
+You&#8217;ll also read about how the <a href="{{ ref . "challenges-prizes.md" }}" target="_blank">Federal Community of Practice for Challenges and Prizes</a> is creating a toolkit with user-centered design that ultimately will be developed into an interactive resource for government agencies to run incentive competitions, from conception through to implementation.
 
 The competition highlights from NASA and the National Institutes of Health (NIH)  are re-printed below.
 

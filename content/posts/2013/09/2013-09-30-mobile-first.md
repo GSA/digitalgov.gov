@@ -33,6 +33,6 @@ According to <a href="http://www.lukew.com/resources/mobile_first.asp" rel="nofo
   * forces you to focus and prioritize your products by embracing the constraints inherent in mobile design, and
   * allows you to deliver innovative experiences by building on new capabilities native to mobile devices and modes of use.
 
-Mobile first is closely related to the concept of [responsive web design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") which uses <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS3" rel="nofollow">W3C CSS3 media queries</a>.
+Mobile first is closely related to the concept of [responsive web design]({{ ref . "2013-06-11-responsive-design.md" }} "Responsive Design Overview, Resources and Tools") which uses <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS3" rel="nofollow">W3C CSS3 media queries</a>.
 
  

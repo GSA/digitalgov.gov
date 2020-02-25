@@ -31,4 +31,4 @@ Company X is the sole orange juice manufacturer in a valley located in a state n
 
 By the time Company X arrived at the third statement, it would have had to invest time to do research with different stakeholders to really define the problem. But it&#8217;s easy to see how the company will get better results when the issue has been properly identified. And as this example shows, you may have to iterate your problem statement multiple times before you arrive at one that is concrete enough to attract the best solutions.
 
-If you need help thinking through your problem statement and designing your challenge, get in touch with us at one of our weekly office hours or at <challenges@gsa.gov>. For more information, visit the [Challenge.gov page]({{< ref "service_challengegov.md" >}} "Challenge.gov").
+If you need help thinking through your problem statement and designing your challenge, get in touch with us at one of our weekly office hours or at <challenges@gsa.gov>. For more information, visit the [Challenge.gov page]({{ ref . "service_challengegov.md" }} "Challenge.gov").

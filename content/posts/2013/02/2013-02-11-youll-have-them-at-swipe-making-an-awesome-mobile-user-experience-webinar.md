@@ -12,7 +12,7 @@ topics:
   - VA
 ---
 
-[{{< legacy-img src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}](https://sites.usa.gov/howtomobile/files/2011/05/PTSD_App.jpg)Learn how to create amazing and engaging [Mobile Gov User Experiences]({{< ref "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}} "Mobile Gov User Experience Resources and Design Tools") by watching this webinar.
+[{{< legacy-img src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}](https://sites.usa.gov/howtomobile/files/2011/05/PTSD_App.jpg)Learn how to create amazing and engaging [Mobile Gov User Experiences]({{ ref . "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" }} "Mobile Gov User Experience Resources and Design Tools") by watching this webinar.
 
 Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation. In fact, Smashing magazine [has listed 12 elements](http://mobile.smashingmagazine.com/2012/07/12/elements-mobile-user-experience/) to consider for building good mobile user experiences.
 

@@ -16,7 +16,7 @@ aliases:
 
 ---
 
-GSA supports many [communities of practice]({{< ref "/communities/_index.md" >}}) by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.
+GSA supports many [communities of practice]({{ ref . "/communities/_index.md" }}) by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.
 
 The handy tips that follow will help you manage your GSA Listserv subscription. Confirm that your community’s list is hosted by GSA by checking that the email address ends in “@listserv.gsa.gov”. If you still have questions after reading this page, contact your community or listserv manager.
 
@@ -24,7 +24,7 @@ Note that these instructions reference a sample Listserv called _TESTLIST@listse
 
 ## How to Join a Listserv
 
-Government employees (with a .gov or .mil email address) are encouraged to join any communities of practice that relate to your work. [Visit our Communities page]({{< ref "/communities" >}}) to see all the communities and learn how to join.
+Government employees (with a .gov or .mil email address) are encouraged to join any communities of practice that relate to your work. [Visit our Communities page]({{ ref . "/communities" }}) to see all the communities and learn how to join.
 
 ## General Etiquette
 

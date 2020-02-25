@@ -78,7 +78,7 @@ GSA employs a special contracting vehicle, [Professional Services Schedule 541 4
 
 ## A Community of Helping Hands
 
-The federal government has a growing and active [community of practice]({{< ref "challenges-prizes.md" >}}) for challenges and prizes. This government-only group consists of more than 725 federal challenge practitioners who use a listserv to ask questions and share information. [Email the Challenges Listserv](mailto:challenges@listserv.gsa.gov "challenges at listserv dot g s a dot gov") to join and receive email alerts about training, events, networking opportunities, and new reports and resources.
+The federal government has a growing and active [community of practice]({{ ref . "challenges-prizes.md" }}) for challenges and prizes. This government-only group consists of more than 725 federal challenge practitioners who use a listserv to ask questions and share information. [Email the Challenges Listserv](mailto:challenges@listserv.gsa.gov "challenges at listserv dot g s a dot gov") to join and receive email alerts about training, events, networking opportunities, and new reports and resources.
 
 In addition to providing assistance directly to agency prize managers, GSA also facilitates mentoring by bringing together veteran prize leads and experts and challenge teams with highly specific prize competiton planning, strategy and execution needs.
 

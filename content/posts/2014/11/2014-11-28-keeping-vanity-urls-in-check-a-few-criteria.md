@@ -21,7 +21,7 @@ topics:
 
 Shortcuts, Vanity or Marketing [URLs](http://en.wikipedia.org/wiki/Uniform_resource_locator), are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links.
 
-On a recent discussion thread on the [Web Managers listserv]({{< ref "web-managers-forum.md" >}} "Web Content Managers Listserv"), several agencies offered the criteria they use to manage the requests and we’ve compiled it below.
+On a recent discussion thread on the [Web Managers listserv]({{ ref . "web-managers-forum.md" }} "Web Content Managers Listserv"), several agencies offered the criteria they use to manage the requests and we’ve compiled it below.
 
 ## NIAID Criteria
 

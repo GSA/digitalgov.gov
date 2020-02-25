@@ -38,8 +38,8 @@ Can digital magnetometers built in modern mobile smartphones be used as scientif
 
 Success of this mission ultimately depends on you, and many others just like you.
 
-CrowdMag is available [on Google Play](https://play.google.com/store/apps/details?id=gov.noaa.ngdc.wmm2) for Android devices, and Apple’s [iTunes store](https://itunes.apple.com/app/id910578825) for iOS devices. The NOAA CrowdMag App is one of many examples of agencies using [mobile apps to crowdsource]({{< ref "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" >}}), but it is the only one that has leveraged the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}).
+CrowdMag is available [on Google Play](https://play.google.com/store/apps/details?id=gov.noaa.ngdc.wmm2) for Android devices, and Apple’s [iTunes store](https://itunes.apple.com/app/id910578825) for iOS devices. The NOAA CrowdMag App is one of many examples of agencies using [mobile apps to crowdsource]({{ ref . "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" >}}), but it is the only one that has leveraged the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" }}).
 
 **Bonus**: Learn more about geomagnetism on the NOAA’s [Frequently Asked Questions page](http://www.ngdc.noaa.gov/geomag/faqgeom.shtml).
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{ ref . "service_us-digital-registry.md" }})._

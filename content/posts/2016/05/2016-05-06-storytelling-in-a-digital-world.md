@@ -13,7 +13,7 @@ topics:
   - us-environmental-protection-agency
 ---
 
-The art of storytelling has been around since the dawn of mankind. [Storytelling remains relevant today]({{< ref "2015-06-29-the-content-corner-telling-your-story.md" >}}), and a recent effort by the Environmental Protection Agency (EPA) shows how agencies can use storytelling to showcase great projects while also teaching employees new communication strategies. {{< legacy-img src="2016/04/600-x-350-Newspaper-Rock-State-Historic-Park-Utah-johnaudrey-iStock-Thinkstock-145244872.jpg" alt=" width=" >}} 
+The art of storytelling has been around since the dawn of mankind. [Storytelling remains relevant today]({{ ref . "2015-06-29-the-content-corner-telling-your-story.md" >}}), and a recent effort by the Environmental Protection Agency (EPA) shows how agencies can use storytelling to showcase great projects while also teaching employees new communication strategies. {{< legacy-img src="2016/04/600-x-350-Newspaper-Rock-State-Historic-Park-Utah-johnaudrey-iStock-Thinkstock-145244872.jpg" alt=" width=" }} 
 
 Over the past year, Chris Reed, an environmental protection specialist in EPA’s Office of Policy, led a nationwide team that produced a set of 30 [videos that highlight sustainability initiatives](https://www.epa.gov/sustainability/sustainability-action-video-series) within the agency. Instead of traditional EPA reports and PowerPoint presentations, Reed inspired the office to look at storytelling to make successful employee efforts come alive.
 

@@ -18,7 +18,7 @@ topics:
 
 Standing on the corner, waiting in the rain, I swear I’ll never, ever, use that app again. Why? Because the bad user experience (UX) design was preventing me from determining when the Metrobus would arrive.
 
-UX is everything from the visual design to the navigation structure of the website or mobile app. This month, <a href="{{< ref "2015-11-09-how-ux-effects-change-in-government-one-test-one-customer-survey-at-a-time.md" >}}" target="_blank">DigitalGov is focusing on UX design.</a> Good UX design is based on understanding how people perceive and process information on everything from websites to mobile apps. In this article, I will describe two fundamental neuroscience concepts and one communication theory that explain how to create good UX design.
+UX is everything from the visual design to the navigation structure of the website or mobile app. This month, <a href="{{ ref . "2015-11-09-how-ux-effects-change-in-government-one-test-one-customer-survey-at-a-time.md" }}" target="_blank">DigitalGov is focusing on UX design.</a> Good UX design is based on understanding how people perceive and process information on everything from websites to mobile apps. In this article, I will describe two fundamental neuroscience concepts and one communication theory that explain how to create good UX design.
 
 ## Cognitive Barriers
 
@@ -47,5 +47,5 @@ From the iTunes description: “Ask Karen provides 24/7 assistance and tips on p
 
 Good UX design is essential to unlocking the value of federal government data. Understanding the neuroscience and communication theory behind how people process information will help the developers, agency communicators and data scientists best present and deliver vitally-needed data products and services to the American public.
 
-{{< legacy-img src="2015/11/600-x-434-USDA-Ask-Karen-iPhone-app-support-and-food-allergies-screens.jpg" alt="Support and food allergies screens of the USDA Ask Karen iPhone app." >}}_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+{{< legacy-img src="2015/11/600-x-434-USDA-Ask-Karen-iPhone-app-support-and-food-allergies-screens.jpg" alt="Support and food allergies screens of the USDA Ask Karen iPhone app." >}}_Each week, [The Data Briefing]({{ ref . "/topics/the-data-briefing" }}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

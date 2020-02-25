@@ -55,4 +55,4 @@ Maybe you want to know if people think the smartphone app you created to help fi
 
 Even though the SUS is turning a mature 28 years old this year, its accuracy, reliability, and utility is a good indication that this survey will be around for many years to come. 
 
-_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She recently finished her internship with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}}) at GSA._
+_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She recently finished her internship with the [DigitalGov User Experience Program]({{ ref . "digitalgov-user-experience-resources.md" }}) at GSA._

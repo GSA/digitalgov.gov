@@ -33,7 +33,7 @@ That&#8217;s A LOT of paychecks.
 
 In 2012, the digital team at DFAS saw a trend. As much as 15% of the traffic to their website was coming from people using smartphones and other devices to do things like [check their pay](http://www.dfas.mil/mypayinfo.html) (current and retiree), [correct their military records](http://www.dfas.mil/correctmilitaryrecords.html) and [get advice on debt and bankruptcy](http://www.dfas.mil/debtandclaims.html). The team, led by website program manager Debra Fioritto, decided to embark on a major redesign to optimize their site for a variety of screen sizes and types.
 
-Fast forward to May 2014 and a **newly launched, mobile-friendly** **[www.dfas.mil](http://www.dfas.mil)**. Boasting a [responsive design]({{< ref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), the site helps four main categories of users:
+Fast forward to May 2014 and a **newly launched, mobile-friendly** **[www.dfas.mil](http://www.dfas.mil)**. Boasting a [responsive design]({{ ref . "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" }}), the site helps four main categories of users:
 
   * [Manage their MyPay accounts](http://www.dfas.mil/mypayinfo.html) right from the homepage;
   * [Make online debt payments](http://www.dfas.mil/debtandclaims.html);

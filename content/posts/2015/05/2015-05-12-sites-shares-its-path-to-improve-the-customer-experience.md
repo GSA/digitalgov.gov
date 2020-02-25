@@ -16,7 +16,7 @@ topics:
 
 As the product manager of [Sites](https://sites.usa.gov/), my job is to make sure that our service delivers what we offer: provide an easy, fast and cost‐effective solution for federal agencies that want to create a secure government website to reach the public.
 
-With 40 websites that are currently live or in active development, our program is constantly evolving. Our roadmap is filled with milestones designed to improve our service, address our customers’ needs, and keep our platform up to date. How do we create this road map? By analyzing the [Customer Experience]({{< ref "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" >}} "Monthly Theme: Customer Service in the Federal Digital Space").
+With 40 websites that are currently live or in active development, our program is constantly evolving. Our roadmap is filled with milestones designed to improve our service, address our customers’ needs, and keep our platform up to date. How do we create this road map? By analyzing the [Customer Experience]({{ ref . "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" }} "Monthly Theme: Customer Service in the Federal Digital Space").
 
 I’m not going to suggest that we have mastered the customer experience. Quite the contrary, once you get started you’ll see that much like your agile releases this too is fast-moving series of iterations. However, I’ll share with you our 3 down-and-dirty steps to CX that can help anyone get started.
 

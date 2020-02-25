@@ -29,4 +29,4 @@ The demand for mobile video will only increase, with eMarketer projecting:
 
 > In 2014, 113.4 million US tablet users will watch video programming on their devices at least monthly, representing 77.0% of all tablet users. That penetration rate will grow to 87.0% by 2018, according to eMarketer, totaling 149.0 million tablet video viewers, or 70.1% of all digital video viewers. Add smartphone viewing and the projected numbers grow from 89.0 million in 2014 to grow to 125.4 million by 2018.
 
-So the next time your agency produces video content, don’t forget about optimizing the message for mobile viewers. For more mobile-first strategies, watch the DigitalGov [Mobile Webinar series]({{< ref "2013-09-30-mobile-first.md" >}} "Mobile Webinar series").
+So the next time your agency produces video content, don’t forget about optimizing the message for mobile viewers. For more mobile-first strategies, watch the DigitalGov [Mobile Webinar series]({{ ref . "2013-09-30-mobile-first.md" }} "Mobile Webinar series").

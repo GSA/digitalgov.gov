@@ -19,7 +19,7 @@ topics:
 
 {{< legacy-img src="2015/01/250-x-374-EDgov-3-0-homepage.jpg" alt="Screenshot of the Ed.gov website's homepage" >}}Rome wasn&#8217;t built in a day. Neither are website redesigns.
 
-In line with the [piecemeal responsive Web design implementation]({{< ref "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}) trend we recently highlighted, the [new Ed.gov website redesign]({{< ref "2015-01-23-new-ed-gov-homepage-and-more.md" >}}) happened in three phases. In this case, budget limitations and existing content management systems (CMSs) influenced the decision-making process.
+In line with the [piecemeal responsive Web design implementation]({{ ref . "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}) trend we recently highlighted, the [new Ed.gov website redesign]({{< ref "2015-01-23-new-ed-gov-homepage-and-more.md" }}) happened in three phases. In this case, budget limitations and existing content management systems (CMSs) influenced the decision-making process.
 
 “We use three different CMSs,” said Jill James, Web director at the Department of Education. “We timed the phases of our redesigns with technical upgrades that we needed to do anyway.”
 
@@ -33,7 +33,7 @@ The [third and final phase](http://www.ed.gov/blog/2015/01/new-ed-gov-homepage-a
 
 {{< legacy-img src="2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}
 
-All of Ed.gov’s website and blogs now have [responsive design]({{< ref "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}}) and Bootstrap styling. The combination of responsive themes and Bootstrap means that Ed.gov pages automatically adjust to the size of smartphones or tablets. Going with this style was a pivot from their initial plans.
+All of Ed.gov’s website and blogs now have [responsive design]({{ ref . "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" }}) and Bootstrap styling. The combination of responsive themes and Bootstrap means that Ed.gov pages automatically adjust to the size of smartphones or tablets. Going with this style was a pivot from their initial plans.
 
 “As we looked at Bootstrap, we realized it would take care of a lot of theming and styling issues on the site,” said James. “It provided a big shortcut for us. Early in development, when elements on a page would collapse or reorder at different screen widths on the test site, it was a hot mess. Once we started using Bootstrap, things worked better, and it saved us a lot of time.”
 

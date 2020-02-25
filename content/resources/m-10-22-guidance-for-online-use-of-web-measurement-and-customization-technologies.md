@@ -17,9 +17,9 @@ OMB’s Open Government Directive requires a series of measures to promote the c
 
 ## Related Links
 
-  * [What is a Terms of Service Agreement?]({{< ref "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}})
-  * [Information on Federal Compatible Terms of Service]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}})
-  * [List of Federal Terms of Service Agreements]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}})
+  * [What is a Terms of Service Agreement?]({{ ref . "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" }})
+  * [Information on Federal Compatible Terms of Service]({{ ref . "/resources/federal-compatible-terms-of-service-agreements.md" }})
+  * [List of Federal Terms of Service Agreements]({{ ref . "/resources/federal-compatible-terms-of-service-agreements.md" }})
 
  
 
@@ -27,4 +27,4 @@ OMB’s Open Government Directive requires a series of measures to promote the c
 
  
 
-See more [DigitalGov Resources]({{< ref "/resources" >}})
+See more [DigitalGov Resources]({{ ref . "/resources" }})

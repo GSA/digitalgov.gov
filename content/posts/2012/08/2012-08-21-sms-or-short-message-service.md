@@ -23,7 +23,7 @@ SMS is one of the most ubiquitous features of mobile phones. Whereas functionali
   * <a href="http://www.fda.gov/Safety/MedWatch/default.htm" rel="nofollow">FDA Medwatch</a> Your FDA gateway for finding clinically important safety information and reporting serious problems with human medical products.
   * <a href="http://www.text4baby.org/about.html" rel="nofollow">Text4Baby</a> is a free mobile information service designed to promote maternal and child health. An educational program of the National Healthy Mothers, Healthy Babies Coalition (HMHB), text4baby provides pregnant women and new moms with information they need to take care of their health and give their babies the best possible start in life.
   * <a href="http://mobihealthnews.com/9429/hhs-announces-text4health-task-force/" rel="nofollow">Text-4-Health</a> HHS has also created a special Text4Health taskforce to determine how to best apply lessons learned from Text4Baby to smoking cessation, obesity and childhood health issues.
-  * [National Contact Center Text Message Program]({{< ref "2012-05-12-national-contact-centers-text-message-program.md" >}} "National Contact Center’s Text Message Program")
+  * [National Contact Center Text Message Program]({{ ref . "2012-05-12-national-contact-centers-text-message-program.md" }} "National Contact Center’s Text Message Program")
 
 ## <a name="x-SMS Cautions"></a>SMS Cautions
 

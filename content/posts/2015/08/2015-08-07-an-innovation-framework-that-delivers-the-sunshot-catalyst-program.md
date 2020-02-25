@@ -48,7 +48,7 @@ Contreras said that the Catalyst team began working with topcoder after seeing t
 
 “There’s a lot of people willing to do work, and as the momentum builds, it becomes a passion and a livelihood,” Contreras said. “We see it with the sharing economy and we’re seeing it here, with our ability to take these communities and plug them into the Catalyst framework.”
 
-Catalyst also aligns with other federal efforts: for the Solar apps challenge, all 17 finalists made an effort to incorporate [Green Button data]({{< ref "2015-02-04-saving-energy-one-green-button-at-a-time.md" >}}).
+Catalyst also aligns with other federal efforts: for the Solar apps challenge, all 17 finalists made an effort to incorporate [Green Button data]({{ ref . "2015-02-04-saving-energy-one-green-button-at-a-time.md" }}).
 
 “Everybody knows that data, in and of itself, is valuable,” Contreras said. “I think Catalyst has shown that we are capable of building products on that data. Underneath this software development is a wealth of open data that solar has put out there. We have a ton of data assets from DOE labs across the nation, and they are the data layer for these products. Not only are we successful with engaging new people, we are unlocking data. The more people who know about energy, who can code, and who are entrepreneurs, are helping the data movement.”
 

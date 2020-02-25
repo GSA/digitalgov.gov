@@ -49,7 +49,7 @@ Specifically, the Act requires all executive branch agencies to:
 - digitize services and forms,
 - accelerate use of e-signatures,
 - improve customer experience, and
-- standardize and transition to centralized [shared services]({{< ref "/services/_index.md" >}}).
+- standardize and transition to centralized [shared services]({{ ref . "/services/_index.md" }}).
 
 It also requires agencies to comply with the [website standards](https://designsystem.digital.gov/website-standards/), using the [U.S. Web Design System](https://designsystem.digital.gov/).
 

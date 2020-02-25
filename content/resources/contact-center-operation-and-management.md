@@ -9,12 +9,12 @@ topics:
 
 Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance.
 
-  * [Control Contact Center Costs]({{< ref "contact-center-operation-and-management.md#control" >}})
-  * [Monitor Quality]({{< ref "contact-center-operation-and-management.md#monitor" >}})
-  * [Avoid Fraudulent Pay Phone Calls]({{< ref "contact-center-operation-and-management.md#avoid" >}})
-  * [Call Calibration]({{< ref "contact-center-operation-and-management.md#call" >}})
-  * [IVR Call Flow Basics]({{< ref "contact-center-operation-and-management.md#IVR" >}})
-  * [Disaster Planning and Recovery]({{< ref "contact-center-operation-and-management.md#disaster" >}})
+  * [Control Contact Center Costs]({{ ref . "contact-center-operation-and-management.md#control" }})
+  * [Monitor Quality]({{ ref . "contact-center-operation-and-management.md#monitor" }})
+  * [Avoid Fraudulent Pay Phone Calls]({{ ref . "contact-center-operation-and-management.md#avoid" }})
+  * [Call Calibration]({{ ref . "contact-center-operation-and-management.md#call" }})
+  * [IVR Call Flow Basics]({{ ref . "contact-center-operation-and-management.md#IVR" }})
+  * [Disaster Planning and Recovery]({{ ref . "contact-center-operation-and-management.md#disaster" }})
 
 
 

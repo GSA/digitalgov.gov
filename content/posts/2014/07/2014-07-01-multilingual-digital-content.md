@@ -48,10 +48,10 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
 ## Tools to Make it Happen
 
- * {{< legacy-img src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} [Top 10 Best Practices for Multilingual Websites]({{< ref "top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
+ * {{< legacy-img src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} [Top 10 Best Practices for Multilingual Websites]({{ ref . "top-10-best-practices-for-multilingual-websites.md" }} "Top 10 Best Practices for Multilingual Websites")
  * [Official Directory of Federal Agency Names in Spanish](http://www.usa.gov/gobiernousa/directorios/federal/index.shtml)
- * [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}} "Spanish Language Style Guide and Glossaries")—Browse the Guide and learn about Spanish language use of capitalization, abbreviations, punctuation, diacritics and much more. Consult glossaries on health, technology, government terminology and more!
- * [Lost in Translation]({{< ref "2012-10-01-automated-translation-good-solution-or-not.md" >}} "Automated Translation—Good Solution or Not?")
+ * [Bilingual Glossaries, Dictionaries, and Style Guides]({{ ref . "bilingual-glossaries-dictionaries-style-guides.md" }} "Spanish Language Style Guide and Glossaries")—Browse the Guide and learn about Spanish language use of capitalization, abbreviations, punctuation, diacritics and much more. Consult glossaries on health, technology, government terminology and more!
+ * [Lost in Translation]({{ ref . "2012-10-01-automated-translation-good-solution-or-not.md" }} "Automated Translation—Good Solution or Not?")
 
 ## Resources
 

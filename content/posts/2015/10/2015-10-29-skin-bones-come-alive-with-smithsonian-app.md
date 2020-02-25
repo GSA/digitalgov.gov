@@ -45,4 +45,4 @@ This app is a must-have for anyone visiting the Smithsonian’s National Museum 
 
 {{< legacy-img src="2015/10/600-x-338-Smithsonian-Skin-and-Bones-app-Coomon-Vampire-Bat-Skeleton-screen.jpg" alt="The Common Vampire Bat screen from the Smithsonian Skin and Bones iPhone app" >}}
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{ ref . "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" }})._

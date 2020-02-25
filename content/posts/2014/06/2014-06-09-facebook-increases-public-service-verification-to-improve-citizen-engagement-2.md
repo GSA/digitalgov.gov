@@ -46,6 +46,6 @@ Traditionally, social media platforms verify accounts on a case-by-case basis wo
 
 We worked with innovators at **<a href="https://18f.gsa.gov/" target="_blank">18F </a>**and **<a href="http://www.data.gov/" target="_blank">Data.gov</a>** to improve delivery of the federal-wide registry API by creating a one-click export function that condenses the federal-wide data Facebook needed into a shared service custom fit for their verification process.
 
-The** <a href="{{< ref "social-media.md" >}}" target="_blank">SocialGov Community</a>**, including almost 700 digital engagement and social media managers from across the federal government, is dedicated to finding new and better ways to use social media to measurably improve public services and make them more cost effective.
+The** <a href="{{ ref . "social-media.md" }}" target="_blank">SocialGov Community</a>**, including almost 700 digital engagement and social media managers from across the federal government, is dedicated to finding new and better ways to use social media to measurably improve public services and make them more cost effective.
 
 We look forward to continuing working with Facebook on improving the citizen user experience for all public services. Other social media platforms can also use the API for their accounts to help ensure quality and trust in digital government.

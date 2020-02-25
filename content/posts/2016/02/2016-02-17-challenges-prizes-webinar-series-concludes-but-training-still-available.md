@@ -80,7 +80,7 @@ Egos and competing interests may be a problem in some groups, but that wasn’t 
 
 “Sometimes you’re in the middle of a process where you think you know what you can get out of it, but then you realize you can get so much more,” said Alexis Bonnell, chief of applied innovation and acceleration at the U.S. Agency for International Development’s (USAID) Global Development Lab.
 
-USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/) continues to make an impact through cross-sector partnerships and technology development. In addition to providing front-line healthcare workers with a [safer, easier-to-use suit]({{< ref "2015-12-11-all-in-partnering-across-sectors-can-boost-competition-results.md" >}}), the challenge also produced innovations in sensors and information technology.
+USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/) continues to make an impact through cross-sector partnerships and technology development. In addition to providing front-line healthcare workers with a [safer, easier-to-use suit]({{ ref . "2015-12-11-all-in-partnering-across-sectors-can-boost-competition-results.md" }}), the challenge also produced innovations in sensors and information technology.
 
 [Watch/listen to the seventh and final webinar of the series](https://www.youtube.com/watch?v=QdLSB2rjV9w), originally hosted on Jan. 14.
 

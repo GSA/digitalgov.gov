@@ -50,7 +50,7 @@ Once again, use the tools and conventions that people are expecting and familiar
 
 #### 5. Offer sample code
 
-Let people test drive the car before investing in it. Providing interactive documentation where they can test the code gives them that ability, and shows that you are confident in your API. A nice example of this is the [OpenFDA API](https://open.fda.gov/), and here’s a [usability case study]({{< ref "2014-08-22-api-usability-case-study-openfda.md" >}}) that goes into detail why we like this one so much.
+Let people test drive the car before investing in it. Providing interactive documentation where they can test the code gives them that ability, and shows that you are confident in your API. A nice example of this is the [OpenFDA API](https://open.fda.gov/), and here’s a [usability case study]({{ ref . "2014-08-22-api-usability-case-study-openfda.md" }}) that goes into detail why we like this one so much.
 
 #### 6. Pay attention to details
 

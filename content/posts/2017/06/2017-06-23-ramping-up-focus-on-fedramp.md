@@ -10,7 +10,7 @@ topics:
   - fedramp
 ---
 
-After recently celebrating our [Fifth Birthday and logo update]({{< ref "2017-06-13-fedramp-5th-anniversary.md" >}}), the FedRAMP PMO is excited to announce a few more changes to our website in the form of a new blog series and newly created [Tips & Cues page](https://www.fedramp.gov/?p=66820).
+After recently celebrating our [Fifth Birthday and logo update]({{ ref . "2017-06-13-fedramp-5th-anniversary.md" }}), the FedRAMP PMO is excited to announce a few more changes to our website in the form of a new blog series and newly created [Tips & Cues page](https://www.fedramp.gov/?p=66820).
 
 In the interest of communicating information about how to best work with FedRAMP regularly, we will be introducing a series of multi-part blogs. These series will be published weekly, in addition to any programmatic updates that occur. Our series of blogs will cover the following topics:
 

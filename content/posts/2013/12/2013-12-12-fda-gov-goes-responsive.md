@@ -18,6 +18,6 @@ Doctors, pharmacists, nurses and patients on-the-go can also “**Report an adve
 
 Looking for **specific medication or food product**? It&#8217;s easy to use the Search function, which is front and center on the page. **Consumer updates**, **news** and **FDA blogs** round out other direct-from-homepage offerings.
 
-The FDA is the latest in the steady march of federal government agencies (EPA, State, HUD and HHS, to name a few) to use the new [responsive]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") design format. The FDA.gov&#8217;s homepage is the first in a series of pages the agency is equipping for responsive design, so stay tuned. Whip out your tablet or smartphone and try it out!
+The FDA is the latest in the steady march of federal government agencies (EPA, State, HUD and HHS, to name a few) to use the new [responsive]({{ ref . "2013-06-11-responsive-design.md" }} "Responsive Design Overview, Resources and Tools") design format. The FDA.gov&#8217;s homepage is the first in a series of pages the agency is equipping for responsive design, so stay tuned. Whip out your tablet or smartphone and try it out!
 
 You can download the latest government mobile apps from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**.

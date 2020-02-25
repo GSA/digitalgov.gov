@@ -99,7 +99,7 @@ Effective comments are “actionable,” meaning easy to place in context and ev
 
 More than just effective comments, we&#8217;re working to improve our standard for effective responses.
 
-For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="{{< ref "mobilegov.md" >}}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
+For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="{{ ref . "mobilegov.md" }}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
 
 [{{< legacy-img src="2014/12/Madison-Example-600px.jpg" alt="Madison Example 600px" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/Madison-Example-600px.jpg)
 
@@ -251,4 +251,4 @@ Scott Prince, National Institutes of Health
 
 Veronica Wendt, National Defense University
 
-<em>Justin Herman is the <a href="{{< ref "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>
+<em>Justin Herman is the <a href="{{ ref . "social-media.md" }}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>

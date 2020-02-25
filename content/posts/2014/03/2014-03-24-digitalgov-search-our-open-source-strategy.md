@@ -18,7 +18,7 @@ topics:
   - open-source
 ---
 
-At [DigitalGov Search]({{< ref "service_search.md" >}}), we keep an eye on on our what our government counterparts are up to, both in the U.S. and other countries. We recently came across [Gov.UK&#8217;s](https://www.gov.uk/) philosophy on and approach to [coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open). It caught our attention and we realized we should also articulate our open source strategy.
+At [DigitalGov Search]({{ ref . "service_search.md" }}), we keep an eye on on our what our government counterparts are up to, both in the U.S. and other countries. We recently came across [Gov.UK&#8217;s](https://www.gov.uk/) philosophy on and approach to [coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open). It caught our attention and we realized we should also articulate our open source strategy.
 
 ## Use and Contribute to Open Source Projects
 

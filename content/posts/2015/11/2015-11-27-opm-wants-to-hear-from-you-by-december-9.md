@@ -17,4 +17,4 @@ The study will review the &#8220;current classification and qualification standa
 
 Interested SMEs can send their name, agency, email and telephone information to [Riconda Fortson](mailto:riconda.fortson@opm.gov).
 
-_Editor&#8217;s Note: You can view our [collection of digital government position descriptions]({{< ref "sample-position-descriptions-for-digital-government-jobs.md" >}}). Have one that&#8217;s not in our group? Send it to [DigitalGov](mailto:digitalgov@gsa.gov)!_
+_Editor&#8217;s Note: You can view our [collection of digital government position descriptions]({{ ref . "sample-position-descriptions-for-digital-government-jobs.md" }}). Have one that&#8217;s not in our group? Send it to [DigitalGov](mailto:digitalgov@gsa.gov)!_

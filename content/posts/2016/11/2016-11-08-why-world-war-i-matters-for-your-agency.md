@@ -60,5 +60,5 @@ These are just a few examples of how World War I transformed the fabric of our n
 ABMC is a U.S. government agency charged with commemorating the service, achievements and sacrifice of the U.S. armed forces. Established by Congress in 1923, ABMC administers, operates, and maintains 25 permanent American military cemeteries and 27 federal memorials, monuments and markers located across the globe. These cemeteries and memorials, most of which commemorate the service and sacrifice of Americans who served in World War I and World War II, are among the most beautiful and meticulously maintained shrines in the world. For more information, visit [www.abmc.gov](http://www.abmc.gov), or connect with us on [Facebook](http://www.facebook.com/abmcpage), [YouTube](http://www.youtube.com/abmcvideos), or [Instagram](http://www.instgram.com/usabmc)._
 _This is the first of a 3-part series from ABMC—the others are:_
 
-  * Part II, [How to Tell the World War I Story: Make it Personal]({{< ref "2017-03-09-how-to-tell-the-world-war-i-story-make-it-personal.md" >}})
+  * Part II, [How to Tell the World War I Story: Make it Personal]({{ ref . "2017-03-09-how-to-tell-the-world-war-i-story-make-it-personal.md" }})
   * Part III, _Coming soon_

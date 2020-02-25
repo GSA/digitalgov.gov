@@ -15,4 +15,4 @@ This memorandum provides Resource Management Offices and PMA Initiative Leads wi
 
 * * *
 
-See more [DigitalGov Resources]({{< ref "/resources" >}})
+See more [DigitalGov Resources]({{ ref . "/resources" }})

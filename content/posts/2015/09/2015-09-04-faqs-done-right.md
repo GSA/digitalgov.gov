@@ -18,7 +18,7 @@ topics:
 
 {{< legacy-img src="2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" caption="" >}} 
 
-In the circle of Web content life, FAQ sections are an endangered species. We’ve previously discussed the [relevance of FAQs]({{< ref "2015-04-27-are-faqs-still-relevant.md" >}}): Should FAQs go extinct, or are they a useful tool in your content ecosystem?
+In the circle of Web content life, FAQ sections are an endangered species. We’ve previously discussed the [relevance of FAQs]({{ ref . "2015-04-27-are-faqs-still-relevant.md" }}): Should FAQs go extinct, or are they a useful tool in your content ecosystem?
 
 Kathryn Catania, Chief of the Plain Language and Content Division at the U.S. Citizenship and Immigration Services, encourages agencies to take a critical look at how content should be delivered.
 

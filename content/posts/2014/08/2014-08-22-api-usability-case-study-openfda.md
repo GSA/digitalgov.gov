@@ -47,4 +47,4 @@ An example of the iterative development methodology of openFDA, some of the feed
 
 Although the usability session was conducted at a very early stage in the development process, the openFDA team did not end their testing there. The benefits of testing early and often were made clear, and this API usability evaluation served as inspiration to open up the platform to more developer testing. The beta version of openFDA was released to the public on June 2 of this year and the agency continues to work on incorporating additional data sets for future use.
 
-_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She is interning with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._
+_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She is interning with the [DigitalGov User Experience Program]({{ ref . "digitalgov-user-experience-resources.md" }} "DigitalGov User Experience Program") at GSA this summer._

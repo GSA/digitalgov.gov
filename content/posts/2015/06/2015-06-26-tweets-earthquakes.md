@@ -21,7 +21,7 @@ topics:
 
 When one thinks of social media, usually it is thought of as a tool to keep in touch with friends and family. Behind all the social networking lies vast amounts of data that can be used in a multitude of ways. This data is an opportunity for government agencies to improve the services they provide to the public.
 
-There are a number of agencies that are using social media data in order [to improve services and cut costs]({{< ref "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}). For example, social media data can be used to enhance the overall effectiveness of an agency&#8217;s data. The U.S. Geological Survey (USGS) operates a system that detects earthquakes using data from Twitter. This is by no means the only system that USGS relies on to track earthquakes. But, the tweet-based system serves as a tool that enhances the data provided from the USGS’s traditional methods of earthquake detection.
+There are a number of agencies that are using social media data in order [to improve services and cut costs]({{ ref . "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" }}). For example, social media data can be used to enhance the overall effectiveness of an agency&#8217;s data. The U.S. Geological Survey (USGS) operates a system that detects earthquakes using data from Twitter. This is by no means the only system that USGS relies on to track earthquakes. But, the tweet-based system serves as a tool that enhances the data provided from the USGS’s traditional methods of earthquake detection.
 
 {{< legacy-img src="2015/06/600-x-445-Detection-Delay-Time-Figure5.jpg" alt="600-x-445-Detection-Delay-Time-Figure5" >}}
 

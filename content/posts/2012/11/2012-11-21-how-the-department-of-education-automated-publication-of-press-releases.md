@@ -16,7 +16,7 @@ topics:
 
 {{< legacy-img src="2014/07/250-x-188-Web-design-concept-Gears-on-Html-Code-background-maxkabakov-iStock-Thinkstock-469530729.jpg" alt="Web design concept: Gears on HTML Code background" caption="" >}}
 
-A case study on how the Department of Education used the Drupal [content management system]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit") (CMS) to publish press releases as structured content to automatically generate listing pages and reduce errors and posting time.
+A case study on how the Department of Education used the Drupal [content management system]({{ ref . "2013-10-30-content-management-systems-toolkit.md" }} "Content Management Systems Toolkit") (CMS) to publish press releases as structured content to automatically generate listing pages and reduce errors and posting time.
 
 ## The Challenge
 

@@ -14,7 +14,7 @@ topics:
   - open-and-structured-content-models
 ---
 
-Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for [modular content is growing]({{< ref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).
+Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for [modular content is growing]({{ ref . "2015-08-24-the-content-corner-modular-design-and-structured-content.md" }}).
 
 ## How can you make your content adaptive to all of these mediums?
 
@@ -60,7 +60,7 @@ Syndication allows your content to be consumed by the other federal agencies, st
   * Audience retention and content re-use leverage inter-agency content to reduce overhead
   * Allowing staff to focus on your mission priorities
 
-This approach is key to the success for federal agencies with public health missions like the [Centers for Disease Control]({{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), who now easily share content, [almost seamlessly]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}}).
+This approach is key to the success for federal agencies with public health missions like the [Centers for Disease Control]({{ ref . "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), who now easily share content, [almost seamlessly]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" }}).
 
 Here is an example of a CDC Web page content on <http://www.cdc.gov/parasites/hookworm/>
 
@@ -74,7 +74,7 @@ seamlessly appears here <http://www.niaid.nih.gov/topics/hookworm/Pages/Default.
 
 You have your data and are now ready to start “cooking” with a content model (pizza). The U.S. General Services Administration’s Office of Citizen Services and Innovative Technologies (OCSIT) convened a working group to create [two open and structured content models](https://github.com/GSA/Open-And-Structured-Content-Models/issues) you can use and adapt to make your own. These content models were created to help government agencies easily publish content in multiple forms (slices) and on multiple platforms.
 
-The [Article](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html) and [Event](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html) models, are geared to provide a template for structuring digital information that makes [Create Once, Publish Everywhere (COPE)]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}}) possible. The Article and Events models are not intended to be exhaustive. They serve as a common starting point. When agencies identify elements not covered by these two content models they can extend them with additional elements.
+The [Article](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html) and [Event](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html) models, are geared to provide a template for structuring digital information that makes [Create Once, Publish Everywhere (COPE)]({{ ref . "2013-07-29-how-to-create-open-structured-content.md" }}) possible. The Article and Events models are not intended to be exhaustive. They serve as a common starting point. When agencies identify elements not covered by these two content models they can extend them with additional elements.
 
 These [models are located on GitHub](https://github.com/GSA/Open-And-Structured-Content-Models/issues)—check them out, help update them and start making your slices!
 
@@ -84,7 +84,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
 
 ## Want to learn more?
 
-Check out [Government Open and Structured Content Models are Here!]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}})
+Check out [Government Open and Structured Content Models are Here!]({{ ref . "2014-05-05-government-open-and-structured-content-models-are-here.md" }})
 
  
 

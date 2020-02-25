@@ -24,7 +24,7 @@ topics:
 
 {{< legacy-img src="2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}}
 
-Metadata for website content is usually managed as part of the editorial process when documents are created and published with [content management systems]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}}).
+Metadata for website content is usually managed as part of the editorial process when documents are created and published with [content management systems]({{ ref . "2013-10-30-content-management-systems-toolkit.md" }}).
 
 There may be another source for this metadata, especially in regulatory agencies: internal databases that reference Web content in support of record keeping processes. These databases may contain public and non-public information that were never meant to be published for public consumption. “Metadata” is not typically how the content is described.
 
