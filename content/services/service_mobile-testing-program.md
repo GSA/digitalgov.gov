@@ -40,7 +40,7 @@ Our CrowdSource Mobile Testing program is a FREE service provided for federal ag
 
 ## Here&#8217;s How It Works
 
-You Tell Us Your Top Tasks for your mobile website &#8211;
+You tell us your top tasks for your mobile website &#8211;
 
 We help you create a script for our testers!
 

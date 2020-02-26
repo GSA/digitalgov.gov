@@ -233,7 +233,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Metrics Guidance and Best Practices" href="{{< ref "/guide/dap/_index.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
+      <a title="DAP: Digital Metrics Guidance and Best Practices" href="{{< ref "/guides/dap/_index.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
     </td>
   </tr>
 
@@ -243,7 +243,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Analytics Program" href="{{< ref "/guide/dap/_index.md" >}}">DAP: Digital Analytics Program</a>
+      <a title="DAP: Digital Analytics Program" href="{{< ref "/guides/dap/_index.md" >}}">DAP: Digital Analytics Program</a>
     </td>
   </tr>
 
@@ -273,7 +273,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program" href="{{< ref "/guide/dap/_index.md" >}}">Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program</a>
+      <a title="Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program" href="{{< ref "/guides/dap/_index.md" >}}">Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program</a>
     </td>
   </tr>
 

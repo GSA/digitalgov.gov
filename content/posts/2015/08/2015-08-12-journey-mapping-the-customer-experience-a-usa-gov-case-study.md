@@ -40,7 +40,7 @@ To create Linda’s behavior line, we looked at:
   * USA.gov customer satisfaction survey data
   * Searches on Google that led customers to USA.gov
   * [Contact center]({{< ref "/topics/government-contact-centers" >}}) content usage
-  * Web analytics for other government websites available through the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}})
+  * Web analytics for other government websites available through the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})
   * General search trends on Google
 
 Once the behavior line was created, we printed each step on one piece of paper. We taped the steps to the wall, with accompanying images, and the facilitators walked the participants through a series of exercises to explore the journey, which includes:

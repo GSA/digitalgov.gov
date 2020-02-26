@@ -24,13 +24,17 @@
     {{/* Popular Resources */}}
     <section class="usa-section" id="resources_featured">
       <div class="grid-container grid-container-desktop">
-        {{- partialCached "core/resources_featured" . -}}
+        <div class="grid-row">
+          <div class="grid-col-12 tablet-lg:grid-col-10">
+            {{- partialCached "core/resources_featured" . -}}
+          </div>
+        </div>
       </div>
     </section>
 
     <section class="topic-buttons">
       <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-2">
+        <div class="grid-row">
           <div class="grid-col-12">
             <h2>Resources by Topic</h2>
           </div>
@@ -43,7 +47,7 @@
                 <div class="grid-col-12 tablet:grid-col-4">
                   <div class="topic" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
                     <h3>
-                      <a href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
+                      <a href="{{- .Permalink | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
                     </h3>
                   </div>
                 </div>

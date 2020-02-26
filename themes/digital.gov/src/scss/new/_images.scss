@@ -9,7 +9,8 @@
     @include u-font('sans', '2xs');
     @include u-line-height('sans', 3);
     @include u-color('gray-cool-60');
-    @include u-display('inline-block');
+    @include u-text('light');
+    @include u-maxw('full');
     span{
       @include u-text('italic');
     }

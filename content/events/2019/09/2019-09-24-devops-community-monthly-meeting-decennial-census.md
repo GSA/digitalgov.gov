@@ -10,8 +10,10 @@ event_type:
 date: 2019-09-24 14:00:00 -0500
 end_date: 2019-09-24 14:30:00 -0500
 event_organizer: DigitalGov University
-host: DevOps COP 
+host: DevOps CoP 
 youtube_id: mBF73XzaU0c
+topics: 
+  - devops
 
 ---
 

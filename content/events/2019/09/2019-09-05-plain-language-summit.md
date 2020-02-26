@@ -38,7 +38,7 @@ tag:
 
 ---
 
-{{< img src="card-plain-language-summit-2019" >}}
+
 
 **On Thursday, September 5th, 2019**, the federal Plain Language community brought together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language in government communications.
 

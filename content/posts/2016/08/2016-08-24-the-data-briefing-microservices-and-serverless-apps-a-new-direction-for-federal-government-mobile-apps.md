@@ -8,6 +8,7 @@ authors:
 topics:
   - api
   - data
+  - devops
   - mobile
   - data
   - mobile
@@ -15,6 +16,7 @@ topics:
   - national-institute-of-standards-and-technology
   - NIST
   - the-data-briefing
+
 ---
 
 Continuing from last week’s column on [DevOps and containers]({{< ref "2016-08-17-the-data-briefing-devops-and-containers-and-why-they-are-important-to-transforming-federal-government-it.md" >}}), I will explain two other hot trends in IT — microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines ([PDF](http://csrc.nist.gov/publications/drafts/800-180/sp800-180_draft.pdf), 660 kb, 12 pages, February 2016). {{< legacy-img src="2016/08/600-x-324-Differences-between-System-Virtual-Machines-and-Application-Containers.jpg" alt="A screen capture of Figure 1 from the PDF file, NIST Definition of Microservices, Application Containers and System Virtual Machines showing the differences between System Virtual Machines and Application Containers." caption="" >}} 
@@ -31,6 +33,10 @@ Microservices can run on servers whether the server is a physical machine or a v
 
 Major cloud hosting companies offer serverless environments for microservices developers. An app developer can create a front-end for an application that uses a collection of microservices to provide functions. The advantages are that microservices can be mixed and matched to handle unique customer demands. There may be a federal government mobile app that handles vacationing at the U.S. national parks. The mobile app uses one microservice to provide lodging information while another app handles reservations for special events. If the user is physically challenged and requires special accommodations, the mobile app can find and incorporate the necessary microservices to allow the physically challenged user to complete transactions.
 
-Microservices and serverless apps offer a great opportunity for federal agencies to collaborate with each other to build citizen-centered mobile apps. Each agency can concentrate on building microservices that are specific to the data assets that each agency possesses. The Census Bureau can create a good set of census data microservices while the Bureau of Labor Statistics (BLS) can create microservices from BLS data. These microservices can be blended into a mobile app. The mobile app can also be configured if the user wants to mix in Department of Veterans Affairs data. These federal government mobile apps can be truly responsive to user needs and help agencies better serve the American public._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._
+Microservices and serverless apps offer a great opportunity for federal agencies to collaborate with each other to build citizen-centered mobile apps. Each agency can concentrate on building microservices that are specific to the data assets that each agency possesses. The Census Bureau can create a good set of census data microservices while the Bureau of Labor Statistics (BLS) can create microservices from BLS data. These microservices can be blended into a mobile app. The mobile app can also be configured if the user wants to mix in Department of Veterans Affairs data. These federal government mobile apps can be truly responsive to user needs and help agencies better serve the American public. 
+
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._ 
+
+_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._ 
+
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -18,7 +18,8 @@
 			@include u-border('1px', 'gray-cool-10', 'solid');
 		}
 	}
-	.content{
+	.summary{
+		@include u-margin-top(0);
 		flex: 1;
 		p{
 			@include u-measure(5);

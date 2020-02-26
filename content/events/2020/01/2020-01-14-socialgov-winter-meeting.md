@@ -1,7 +1,6 @@
 ---
 # View this page at https://digital.gov/event/2020/01/socialgov-winter-meeting
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: socialgov-winter-meeting
 title: "SocialGov Winter Meeting"
 deck: ""
@@ -12,40 +11,28 @@ registration_url: https://www.eventbrite.com/e/socialgov-winter-meeting-registra
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4305155&CustomerID=321
 
 # start date
-date: 2020-01-14 08:00:00 -0500
+date: 2020-01-14 8:00:00 -0500
 
 # end date
 end_date: 2020-01-14 13:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - social-media
   - plain-language
-  - socialgov
-  - socialgov-community
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# see all authors at https://digital.gov/authors
+authors: 
+  - katherine-spivey
 
 # YouTube ID
-youtube_id:
+youtube_id: hTjkSjkPP48
 
-venue_name: "US General Services Administration"
-room: "Room 1459/1460/1461 (Conference Center)"
-address: "1800 F St NW"
-city: "Washington"
-state: "DC"
-zip: "20006"
-country: "United States"
-
-featured_image:
-  uid: socialgov-winter-event-2020
-  alt: ''
+# Primary Image (for social media)
+primary_image: "socialgov-winter-event-2020"
 
 # Make it better ♥
 ---
-
-{{< img src="socialgov-winter-event-2020" >}}
 
 Join us for SocialGov’s winter meeting to learn more about these exciting social media topics, presented by your federal colleagues:
 
@@ -102,7 +89,3 @@ Laura is passionate about using technology to communicate in ways that are pract
 
 {{< img-right src="katherine-spivey" >}}
 **Katherine Spivey** — serves as GSA’s Plain Language Launcher and is a Senior Communications Analyst for the Office of Strategic Communications. She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. In her previous position at GSA, she managed web content, coordinated social media, and edited the Great Government through Technology blog. Before GSA, Katherine was web content manager at Homeland Security, law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from UVA and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
-
----
-
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
