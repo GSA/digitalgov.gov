@@ -1,24 +1,21 @@
 ---
-# View this page at https://digital.gov/event/2020/02/dap-learning-series-youtube-event-option
+# View this page at https://digital.gov/event/2020/08/dap-analytics-case-study-part-2
 # Learn how to edit our pages at https://workflow.digital.gov
-slug: dap-learning-series-youtube-event-option
+slug: dap-analytics-case-study-part-2
 kicker: "DAP Learning Series"
-title: "The YouTube Event Option"
-deck: "Learn how to track plays of embedded YouTube videos on your DAP-enabled pages"
-summary: "In this session, you’ll learn how to track plays of embedded YouTube videos on your DAP-enabled pages, and how to create reports for analysis."
+title: "Analytics Case Study Part 2: Analysis"
+deck: "How to pull reporting and conduct analysis through the lens of your analytics strategy."
+summary: "In this workshop, we'll address how to pull reporting and conduct analysis through the lens of your analytics strategy."
 host: "Digital Analytics Program (DAP)"
 event_organizer: "Digital.gov"
-registration_url: https://www.eventbrite.com/e/93130175863
-captions: https://www.captionedtext.com/client/event.aspx?EventID=4340910&CustomerID=321
+registration_url: https://www.eventbrite.com/e/94153506673
+captions: https://www.captionedtext.com/client/event.aspx?EventID=4342449&CustomerID=321
 
 # start date
-date: 2020-02-19 14:00:00 -0500
+date: 2020-09-24 15:00:00 -0500
 
 # end date
-end_date: 2020-02-19 15:00:00 -0500
-
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+end_date: 2020-09-24 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -33,18 +30,28 @@ authors:
   - tlowden
   - freddie-blicher
 
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
 # YouTube ID
-youtube_id: F-WYipB6M7s
+youtube_id:
 
 # Make it better ♥
 
 ---
 
-DAP has long given web managers the option to track YouTube embeds on their pages, but it’s not always used. We’ll show you how to turn YouTube video tracking on (it’s very easy!). We’ll also show how the data can be used to analyze how long people watch the videos on your pages.
+In the second part of our Analytics Case Study series, we'll address how to pull reporting and conduct analysis through the lens of your analytics strategy.
+
+You will need to have attended, or viewed the recording of [Analytics Case Study Part 1]({{< ref "2020-08-26-dap-analytics-case-study-part-1.md" >}}), and identified your website mission, goals and KPIs.
+
+We'll walk through step by step, how to pull reporting using an example agency's site and data. The goal of the webinar is to empower you with a real world example about how to tie your metrics to your website mission, goals and KPIs.
+
 
 ## About the speakers
 
 **Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), at the General Services Administration (GSA).
+
+**Freddie Blicher** supports the Digital Analytics Program as an analyst and teaches courses in analytics across the D.C. area.
 
 ---
 
