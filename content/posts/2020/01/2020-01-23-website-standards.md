@@ -12,8 +12,8 @@ source: gsa
 slug: website-standards
 date: 2020-01-23 19:00:00 -0500
 title: "Website standards"
-deck: "The GSA officially announced this week that the **U.S. Web Design System (USWDS) is the 'website standards'** referenced in 21st Century IDEA."
-summary: "The GSA officially announced this week that the **U.S. Web Design System (USWDS) is the 'website standards'** referenced in 21st Century IDEA."
+deck: "GSA officially released the ‘website standards’ referenced in Section 3(e) of 21st Century IDEA. **The U.S. Web Design System (USWDS) is key to new website standards.**"
+summary: "GSA officially released the ‘website standards’ referenced in Section 3(e) of 21st Century IDEA. **The U.S. Web Design System (USWDS) is key to new website standards.**"
 
 # see all topics at https://digital.gov/topics
 topics:

@@ -13,7 +13,7 @@ topics:
   - mobile
 
 # originally published at the following URL
-source_url: "https://digital.gov/guide/mobile-principles/"
+source_url: "https://digital.gov/guides/mobile-principles/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources

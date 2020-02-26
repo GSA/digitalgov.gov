@@ -1,20 +1,42 @@
 ---
+# View this page at https://digital.gov/event/2017/10/an-around-world-recap-plain-monthly
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: online-an-around-the-world-recap-plain-monthly-meeting
-title: 'An Around the World Recap PLAIN Monthly Meeting'
-summary: 'In this online event, PLAIN co-chairs will provide a recap of international plain language initiatives discussed at the 2017 Plain Language Association International conference in Graz, Austria.'
-event_type:
-  - online
-date: 2017-10-11 14:00:00 -0400
-end_date: 2017-10-11 15:00:00 -0400
-event_organizer: DigitalGov University
-host: Plain Language Community of Practice
+title: "An Around the World Recap PLAIN Monthly Meeting"
+deck: ""
+summary: "In this online event, PLAIN co-chairs will provide a recap of international plain language initiatives discussed at the 2017 Plain Language Association International conference in Graz, Austria."
+host: "Plain Language Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/an-around-the-world-recap-plain-monthly-meeting-registration-38539458558
-youtube_id: 3FKyVeipMss
-aliases:
-  - /event/online-an-around-the-world-recap-plain-monthly-meeting/
-topics:
+captions: 
+
+# start date
+date: 2017-10-11 14:00:00 -0500
+
+# end date
+end_date: 2017-10-11 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - plain-language
   - plain-language-community-of-practice
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - katherine-spivey
+  - jthalls
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: youtube_live
+
+# YouTube ID
+youtube_id: 3FKyVeipMss
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/online-an-around-the-world-recap-plain-monthly-meeting/
+
+# Make it better ♥
 
 ---
 
