@@ -1,9 +1,11 @@
 ---
-# View this page at https://digital.gov/event/2020/05/uswds-monthly-call-may-2020
+# View this page at https://digital.gov/event/2020/11/uswds-monthly-call-november-2020
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: uswds-monthly-call-may-2020
-title: "USWDS Monthly Call - May 2020"
+draft: true
+
+slug: uswds-monthly-call-november-2020
+title: "USWDS Monthly Call - November 2020"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 host: "U.S. Web Design System"
@@ -12,10 +14,10 @@ registration_url:
 captions:
 
 # start date
-date: 2020-05-21 14:30:00 -0500
+date: 2020-11-19 14:30:00 -0500
 
 # end date
-end_date: 2020-05-21 15:30:00 -0500
+end_date: 2020-11-19 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
