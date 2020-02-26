@@ -41,6 +41,8 @@ at the Library of Congress ([map](https://www.google.com/maps/place/Library+of+C
 _Registration page coming soon ..._
 {{< /box >}}
 
+{{< img src="ux-government-summit-2020" >}}
+
 ## Call for Presenters
 We are currently seeking submissions for presentations on topics such as:
 
@@ -70,8 +72,6 @@ We're looking for presentations in the following formats:
 For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov).
 
 U.S. local, state, tribal, and federal government employees (all levels) and contractors with U.S. government email addresses (with their agency’s approval) are all eligible to present. Speakers from outside DC can present remotely.
-
-{{< img src="ux-government-summit-2020" >}}
 
 ---
 
