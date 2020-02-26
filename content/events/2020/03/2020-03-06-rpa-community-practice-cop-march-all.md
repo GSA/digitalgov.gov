@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: rpa-community-practice-cop-march-all
 title: "RPA Community of Practice: March All-Hands Meeting"
-deck: "Join the Robotic Process Automation (RPA) Community of Practice online to discuss the next steps in accelerating the adoption of RPA in the federal environment."
+deck: "Discuss the next steps in accelerating the adoption of RPA in the federal environment."
 summary: "Join the Robotic Process Automation (RPA) Community of Practice online to discuss the next steps in accelerating the adoption of RPA in the federal environment."
 host: "Robotic Process Automation Community of Practice"
 event_organizer: "Digital.gov"
