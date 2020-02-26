@@ -7,7 +7,7 @@ deck: ""
 summary: "An opportunity to learn, share experiences, and network with UX practitioners from across government."
 host: "User Experience Community of Practice"
 event_organizer: "Digital.gov"
-registration_url: Coming Soon
+registration_url: 
 captions: 
 
 # start date
