@@ -7,7 +7,7 @@ deck: ""
 summary: "Join the RPA Community of Practice (CoP) online to discuss the next steps in accelerating the adoption of RPA in the Federal environment. "
 host: "Robotic Process Automation Community of Practice"
 event_organizer: "Digital.gov"
-registration_url: https://www.eventbrite.com/e/rpa-community-of-practice-cop-march-all-hands-registration-95644143207
+registration_url: https://www.eventbrite.com/e/95644143207
 captions: https://www.captionedtext.com/client/event.aspx?EventID=3944823&CustomerID=321
 
 # start date
