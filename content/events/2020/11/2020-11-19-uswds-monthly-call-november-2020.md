@@ -2,8 +2,6 @@
 # View this page at https://digital.gov/event/2020/11/uswds-monthly-call-november-2020
 # Learn how to edit our pages at https://workflow.digital.gov
 
-draft: true
-
 slug: uswds-monthly-call-november-2020
 title: "USWDS Monthly Call - November 2020"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
