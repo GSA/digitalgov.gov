@@ -43,7 +43,7 @@ taxonomies:
 outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]
   section: ["HTML","RSS", "JSON"]
-  page: ["HTML","RSS", "JSON"]
+  page: ["HTML", "JSON"]
   taxonomy: ["HTML","RSS", "json"]
 
 # Goldmark is from Hugo 0.60 the default library used for Markdown.
