@@ -13,8 +13,8 @@ last_name: "Black"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: tom-black
+# slug — the specific user-id for an author.
+slug: tom-black
 
 # if you include an email address, it will be displayed on your profile page
 email: "thomas.black@gsa.gov"

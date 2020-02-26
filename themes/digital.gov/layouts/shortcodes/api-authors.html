@@ -17,8 +17,8 @@
   {{- end -}}
   "items" : [{
   {{ range $index, $author := $list -}}
-    {{- if $author.Params.uid -}}
-      "{{- $author.Params.uid -}}" : {
+    {{- if $author.Params.slug -}}
+      "{{- $author.Params.slug -}}" : {
         {{- if $author.Params.display_name -}}
         "display_name" : "{{- $author.Params.display_name -}}",
         {{- end -}}
@@ -31,9 +31,9 @@
         {{- if $author.Params.pronoun -}}
         "pronoun" : "{{- $author.Params.pronoun -}}",
         {{- end -}}
-        {{- if $author.Params.uid -}}
-        "uid" : "{{- $author.Params.uid -}}",
-        {{- end -}}
+
+        {{- partial "api/slug" . -}}
+
         {{- if $author.Params.email -}}
         "email" : "{{- $author.Params.email -}}",
         {{- end -}}

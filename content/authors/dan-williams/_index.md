@@ -13,8 +13,8 @@ last_name: "Williams"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: dan-williams
+# slug — the specific user-id for an author.
+slug: dan-williams
 
 # if you include an email address, it will be displayed on your profile page
 email: "daniel.williams@gsa.gov"

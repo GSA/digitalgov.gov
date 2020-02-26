@@ -13,8 +13,8 @@ last_name: "DIngbaum"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: mark-anthony
+# slug — the specific user-id for an author.
+slug: mark-anthony
 
 # if you include an email address, it will be displayed on your profile page
 email: "markanthony.dingbaum@opm.gov"

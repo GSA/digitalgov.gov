@@ -13,8 +13,8 @@ last_name: "Koroma"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: clair-koroma
+# slug — the specific user-id for an author.
+slug: clair-koroma
 
 # if you include an email address, it will be displayed on your profile page
 email: "Clair.Koroma@hhs.gov"

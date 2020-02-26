@@ -13,8 +13,8 @@ last_name: "Patil"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: dr-dj-patil
+# slug — the specific user-id for an author.
+slug: dr-dj-patil
 
 # if you include an email address, it will be displayed on your profile page
 email: "Dhanurjay_A_Patil@ostp.eop.gov"

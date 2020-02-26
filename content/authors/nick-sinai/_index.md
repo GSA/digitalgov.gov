@@ -13,8 +13,8 @@ last_name: "Sinai"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: nick-sinai
+# slug — the specific user-id for an author.
+slug: nick-sinai
 
 # if you include an email address, it will be displayed on your profile page
 email: "Nicholas_S_Sinai@ostp.eop.gov"

@@ -16,9 +16,9 @@
       {{ end }}
     </div>
 
-    <div class="content">
+    <div class="summary">
       <p>
-        {{- if .Params.deck -}}{{- .Params.deck | markdownify -}}{{- end -}}
+        {{- if .Params.deck -}}{{- .Params.deck | markdownify | emojify -}}{{- end -}}
         {{- if $source -}}
           {{ $url := urls.Parse .Params.source_url }}
           <em class="source">— via <a href="{{- $source.Params.domain -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>

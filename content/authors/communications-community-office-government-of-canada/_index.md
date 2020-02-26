@@ -13,8 +13,8 @@ last_name: "Government of Canada"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: communications-community-office-government-of-canada
+# slug — the specific user-id for an author.
+slug: communications-community-office-government-of-canada
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

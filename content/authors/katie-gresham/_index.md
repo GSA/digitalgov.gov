@@ -13,8 +13,8 @@ last_name: "Gresham"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: katie-gresham
+# slug — the specific user-id for an author.
+slug: katie-gresham
 
 # if you include an email address, it will be displayed on your profile page
 email: "katie.gresham@usdoj.gov"

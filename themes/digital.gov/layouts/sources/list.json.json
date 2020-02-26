@@ -13,7 +13,8 @@
     "items" : [
     {{- range $index, $element := $list -}}
     {
-        "slug" : "{{- .Params.slug | markdownify -}}",
+        {{- partial "api/slug" . -}}
+        
         {{- if (isset .Params "name") -}}
         "name" : "{{- .Params.name | markdownify -}}",
         {{- end -}}

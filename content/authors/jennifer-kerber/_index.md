@@ -13,8 +13,8 @@ last_name: "Kerber"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: jennifer-kerber
+# slug — the specific user-id for an author.
+slug: jennifer-kerber
 
 # if you include an email address, it will be displayed on your profile page
 email: "jennifer.kerber@gsa.gov"

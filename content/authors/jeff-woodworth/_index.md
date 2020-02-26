@@ -13,8 +13,8 @@ last_name: "Woodworth"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: jeff-woodworth
+# slug — the specific user-id for an author.
+slug: jeff-woodworth
 
 # if you include an email address, it will be displayed on your profile page
 email: "jeffrey.woodworth@gsa.gov"

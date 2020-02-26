@@ -47,7 +47,7 @@
                 <div class="grid-col-12 tablet:grid-col-4">
                   <div class="topic" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
                     <h3>
-                      <a href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
+                      <a href="{{- .Permalink | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
                     </h3>
                   </div>
                 </div>

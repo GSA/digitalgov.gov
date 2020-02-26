@@ -13,8 +13,8 @@ last_name: "Linton"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: janet-linton
+# slug — the specific user-id for an author.
+slug: janet-linton
 
 # if you include an email address, it will be displayed on your profile page
 email: "lintonjl@nida.nih.gov"

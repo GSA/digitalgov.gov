@@ -10,7 +10,7 @@ last_name: "Colter"
 pronoun: ""
 
 # user id — not easily changed
-uid: "angela-colter"
+slug: "angela-colter"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: angela.colter@gsa.gov

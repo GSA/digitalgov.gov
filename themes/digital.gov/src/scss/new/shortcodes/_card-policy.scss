@@ -1,5 +1,5 @@
 .card-policy{
-	@include u-margin-bottom(1);
+	@include u-margin-y(2);
 	@include u-maxw('tablet');
 	button{
 		@include u-padding-y('105');
@@ -27,19 +27,24 @@
 			@include u-bg('gold-50');
 			@include u-radius-left('sm');
 		}
-		.kicker{
-			@include u-margin-bottom('05');
-			@include u-display('block');
-			@include u-text('uppercase');
-			@include u-text('light');
-			@include u-font('sans', '3xs');
-		}
+
 		.src{
+			@include u-text('medium');
 			em{
 				@include u-margin-left('2px');
 				@include u-text('base-dark');
 				@include u-text('italic');
 				@include u-text('normal');
+			}
+			strong{
+				@include u-text('heavy');
+			}
+			.kicker{
+				@include u-margin-bottom('05');
+				@include u-display('block');
+				@include u-text('uppercase');
+				@include u-text('light');
+				@include u-font('sans', '3xs');
 			}
 		}
 		&:hover{
@@ -54,7 +59,7 @@
 		@include u-padding-x(4);
 		@include u-padding-left(7);
 		@include at-media('tablet') {
-			@include u-padding-left(8);
+			@include u-padding-left(7);
 		}
 		@include u-bg('gold-5');
 		@include u-text('gold-80');
@@ -62,7 +67,7 @@
 		@include u-font('serif', '2xs');
 		@include u-line-height('serif', 5);
 		blockquote{
-			@include u-margin(0);
+			@include u-margin-x(0);
 			@include u-padding(0);
 			@include u-padding-left(2);
 			@include u-border-left('2px', 'base', 'solid');
@@ -70,9 +75,11 @@
 			@include u-bg('gold-5');
 		}
 		.src{
-			@include u-font('sans', '2xs');
+			@include u-margin-top(3);
+			@include u-font('sans', 'xs');
 			@include u-text('gold-80');
 			@include u-text('medium');
+			@include u-display('block');
 		}
 	}
 }

@@ -13,8 +13,8 @@ last_name: "Sturgeon"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: alison-sturgeon
+# slug — the specific user-id for an author.
+slug: alison-sturgeon
 
 # if you include an email address, it will be displayed on your profile page
 email: "Alison.a.sturgeon@ssa.gov"

@@ -13,8 +13,8 @@ last_name: "Murley"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: susanna-murley
+# slug — the specific user-id for an author.
+slug: susanna-murley
 
 # if you include an email address, it will be displayed on your profile page
 email: "susanna.murley@ee.doe.gov"

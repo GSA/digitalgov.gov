@@ -3,7 +3,6 @@
 #resources {
   .list-collection{
     @include u-margin-bottom(2);
-    @include u-border(0);
     h2 {
       @include u-font('sans', 'md');
     }
@@ -20,7 +19,6 @@
   @include u-overflow('scroll');
   h2 {
     @include u-margin-bottom(2);
-    @include u-font('sans', 'sm');
     @include u-text('semibold');
   }
   .topic-section{
@@ -46,5 +44,10 @@
   .topic-section ~ .topic-section{
     @include u-margin-top(4);
     @include u-border-top('1px', 'base-darker', 'solid');
+  }
+}
+#resources #resources_by_topic{
+  h2 {
+    @include u-font('sans', 'sm');
   }
 }

@@ -10,7 +10,7 @@ last_name: "Gibson"
 pronoun: ""
 
 # user id — not easily changed
-uid: "yvette-gibson"
+slug: "yvette-gibson"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: yvette.gibson@gsa.gov

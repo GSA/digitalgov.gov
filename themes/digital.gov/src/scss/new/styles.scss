@@ -68,6 +68,7 @@
 @import 'guides/guide-header';
 @import 'guides/guide-nav';
 @import 'guides/guide-page-head';
+@import 'guides/guide-toc';
 @import 'guides/guide-content';
 
 // Authors lists
@@ -100,6 +101,8 @@
 @import 'topics-sidebar';
 
 
+@import 'breadcrumbs';
+@import 'clicks';
 @import 'buttons';
 
 // Edit Tools
@@ -107,5 +110,6 @@
 
 @import 'shortcodes/box';
 @import 'shortcodes/note';
+@import 'shortcodes/highlight';
 @import 'shortcodes/card-policy';
 @import 'shortcodes/card-quote';

@@ -13,8 +13,8 @@ last_name: "Mercer"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: melodee-mercer
+# slug — the specific user-id for an author.
+slug: melodee-mercer
 
 # if you include an email address, it will be displayed on your profile page
 email: "melodee.mercer@va.gov"

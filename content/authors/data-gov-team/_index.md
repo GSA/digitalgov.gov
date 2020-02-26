@@ -13,8 +13,8 @@ last_name: "Data.gov Team"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: data-gov-team
+# slug — the specific user-id for an author.
+slug: data-gov-team
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

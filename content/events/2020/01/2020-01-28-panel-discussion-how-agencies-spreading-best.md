@@ -1,13 +1,11 @@
 ---
-# View this page at https://digital.gov/event/2020/01/panel-discussion-how-agencies-spreading-best
+# View this page at https://digital.gov/event/2020/01/how-agencies-spreading-best-practices
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: panel-discussion-how-agencies-spreading-best
-kicker: "DevOps"
 title: "How Agencies Are Spreading Best Practices"
 deck: "A panel discussion with people from six different agencies on how they share technical best practices in their organizations."
 summary: "Join the DevOps Community of Practice in a panel discussion as different agencies share technical best practices in various offices."
-host: "DevOps Community of Practice"
+host: "DevOps CoP"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/88923583833
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4309720&CustomerID=321
@@ -18,11 +16,18 @@ date: 2020-01-28 14:00:00 -0500
 # end date
 end_date: 2020-01-28 15:00:00 -0500
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# see all topics at https://digital.gov/topics
+topics: 
+  - devops
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - brian-fox
 
 # YouTube ID
-youtube_id:
+youtube_id: uSyGcxN-hTA
+
+# Make it better ♥
 
 ---
 

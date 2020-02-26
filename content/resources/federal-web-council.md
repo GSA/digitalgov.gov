@@ -1,10 +1,26 @@
 ---
-url: /resources/federal-web-council/
-date: 2019-06-25 9:00:00 -0400
-title: "Federal Web Council"
-summary: "A cross-agency group that is working together to improve the delivery of U.S. government information and services online."
-deck: "A cross-agency group that is working to improve the delivery of government information and digital services."
+# View this page at https://digital.gov/resources/federal-web-council
+# Learn how to edit our pages at https://workflow.digital.gov
 
+# slug (url path) — changing this requires a redirect
+slug: federal-web-council
+date: 2019-06-25 9:00:00 -0500
+title: "Federal Web Council"
+deck: "A cross-agency group that is working to improve the delivery of government information and digital services."
+summary: "A cross-agency group that is working together to improve the delivery of U.S. government information and services online."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - product-management
+  - 21st-century-idea
+
+# see all authors at https://digital.gov/authors
+authors:
+  - ammie-farraj-feijoo
+  - jeremyzilar
+  - rflagg
+
+# Make it better ♥
 ---
 
 The Federal Web Council was launched in January 2004 as an interagency group of federal web managers working together to improve the delivery of U.S. government information and services online. It provides a forum for high-level cross-agency collaboration, and recommends policies and guidelines for all public-facing U.S. federal websites.
@@ -35,7 +51,7 @@ The Web Council is led by two co-chairs; one from the U.S. General Services Admi
 
 ## Current Projects and Key Resources
 
--   [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA)
+-   [21st Century Integrated Digital Experience Act](https://digital.gov/guides/21st-century-idea/) (21st Century IDEA)
 -   [Checklist of Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)
 -   [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/)
 -   [U.S. Web Design System](https://designsystem.digital.gov/)

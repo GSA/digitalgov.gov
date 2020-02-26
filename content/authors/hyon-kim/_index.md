@@ -13,8 +13,8 @@ last_name: "Kim"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: hyon-kim
+# slug — the specific user-id for an author.
+slug: hyon-kim
 
 # if you include an email address, it will be displayed on your profile page
 email: "hyon.kim@gsa.gov"

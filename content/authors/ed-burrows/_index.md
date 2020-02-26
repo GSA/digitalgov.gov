@@ -10,7 +10,7 @@ last_name: "Burrows"
 pronoun: ""
 
 # user id — not easily changed
-uid: "ed-burrows"
+slug: "ed-burrows"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: edward.burrows@gsa.gov

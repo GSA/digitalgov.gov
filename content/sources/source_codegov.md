@@ -4,7 +4,7 @@ slug: 'codegov'
 name: 'Code.gov'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'a one-line summary of the source'
+summary: ''
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes

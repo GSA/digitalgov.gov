@@ -76,7 +76,3 @@ People are interested in participating in spaces where they can more seamlessly 
 This guidance stems from qualitative user research we conducted with over nearly two dozen federal members of our audience — content managers, designers, developers, innovation leaders — who are involved with all aspects of agencies’ digital services.
 
 As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart:
-
----
-
-_Digital.gov is part of the Innovation Portfolio of the [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs), which is part of the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA)._

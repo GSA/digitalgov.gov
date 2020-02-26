@@ -8,8 +8,8 @@ deck: ""
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions."
 host: "U.S. Web Design System"
 event_organizer: "DigitalGov University"
-registration_url: 
-captions: 
+registration_url:
+captions:
 
 # start date
 date: 2019-12-19 14:30:00 -0500
@@ -18,13 +18,14 @@ date: 2019-12-19 14:30:00 -0500
 end_date: 2019-12-19 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - design
   - product-management
   - uswds
+  - 21st-century-idea
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - dan-williams
 
 # Event platform (zoom, youtube_live, adobe_connect)
@@ -39,7 +40,7 @@ primary_image: "uswds-2-illio-feature-image"
 # Make it better ♥
 ---
 
-{{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
+{{< img-right src="uswds-logo" >}}
 
 Please join Dan Williams, U.S. Web Design System (USWDS) product lead, as he wraps up 2019 with a special talk dedicated to answering the hardest questions about USWDS from the past year.
 
@@ -56,9 +57,3 @@ This event is part of a monthly series that generally takes place on the third T
 - [Email Us](mailto:uswds@gsa.gov)
 - [Join our community](https://digital.gov/communities/uswds/)
 - [Follow @uswds on Twitter](https://twitter.com/uswds)
-
----
-
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
-
-_This talk is hosted by the [U.S. Web Design System](https://designsystem.digital.gov/) and Digital.gov._

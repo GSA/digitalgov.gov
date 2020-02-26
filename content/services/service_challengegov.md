@@ -30,7 +30,7 @@ topics:
 
 ---
 
-{{< button href="https://challenge.gov/a/buzz/pages/about-us" text="Post a challenge on Challenge.gov" >}}
+{{< button href="https://www.challenge.gov/about/" text="Post a challenge on Challenge.gov" >}}
 
 ## **A Primer on Challenges & Prizes**
 
@@ -60,7 +60,7 @@ The [Strategy for American Innovation](https://obamawhitehouse.archives.gov/site
 
 In 2010, the Office of Management and Budget issued a [memo](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf) (PDF, 94 KB, 12 pages) providing a formal policy framework to guide agencies in using challenges and prize competitions to advance their core missions.
 
-That same year, the General Services Administration (GSA) launched [Challenge.gov](http://challenge.gov/), the official clearinghouse for all federal problem-solving competitions.
+That same year, the General Services Administration (GSA) launched [Challenge.gov](http://www.challenge.gov/), the official clearinghouse for all federal problem-solving competitions.
 
 ## A Platform for All
 
@@ -80,7 +80,7 @@ GSA employs a special contracting vehicle, [Professional Services Schedule 541 4
 
 The federal government has a growing and active [community of practice]({{< ref "challenges-prizes.md" >}}) for challenges and prizes. This government-only group consists of more than 725 federal challenge practitioners who use a listserv to ask questions and share information. [Email the Challenges Listserv](mailto:challenges@listserv.gsa.gov "challenges at listserv dot g s a dot gov") to join and receive email alerts about training, events, networking opportunities, and new reports and resources.
 
-In addition, GSA manages a [mentorship program](https://www.challenge.gov/mentors/) for the federal challenge and prize community. This group of 20 experts is available to offer support and advice to agencies on competition planning, strategy and execution.
+In addition to providing assistance directly to agency prize managers, GSA also facilitates mentoring by bringing together veteran prize leads and experts and challenge teams with highly specific prize competiton planning, strategy and execution needs.
 
 ## Watch and Learn
 
@@ -90,4 +90,4 @@ This [playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opo
 
 Though the benefits to government agencies are numerous, open competitions are ultimately about people. Challenges have long-lasting impacts beyond the public sector. They help stimulate markets and create industries, build communities of citizen scientists and change people’s lives.
 
-Read about how federal challenges improved the lives of these winning [problem-solvers](https://www.challenge.gov/success-stories/).
+See examples of how federal agencies have applied prize methodology to achieve progress in this [catalog of case studies](https://www.challenge.gov/toolkit/case-studies).

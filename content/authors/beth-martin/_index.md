@@ -13,8 +13,8 @@ last_name: "Martin"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: beth-martin
+# slug — the specific user-id for an author.
+slug: beth-martin
 
 # if you include an email address, it will be displayed on your profile page
 email: "Beth.Martin@faa.gov"

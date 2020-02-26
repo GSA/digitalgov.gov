@@ -105,9 +105,9 @@
       {{- if .Params.source_url -}}
       "source_url" : "{{- .Params.source_url -}}",
       {{- end -}}
-      {{- if .Slug -}}
-      "slug" : "{{ .Slug }}",
-      {{- end -}}
+
+      {{- partial "api/slug" . -}}
+      
       "url" : "{{- .Permalink -}}",
       {{- if .Params.aliases -}}
       "aliases" : {

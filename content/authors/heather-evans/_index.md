@@ -13,8 +13,8 @@ last_name: "Evans"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: heather-evans
+# slug — the specific user-id for an author.
+slug: heather-evans
 
 # if you include an email address, it will be displayed on your profile page
 email: "heather.evans@nist.gov"

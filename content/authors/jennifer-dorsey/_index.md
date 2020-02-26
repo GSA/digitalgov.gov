@@ -13,8 +13,8 @@ last_name: "Dorsey"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: jennifer-dorsey
+# slug — the specific user-id for an author.
+slug: jennifer-dorsey
 
 # if you include an email address, it will be displayed on your profile page
 email: "jennifer.dorsey@opm.gov"

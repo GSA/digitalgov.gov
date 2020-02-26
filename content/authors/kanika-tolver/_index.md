@@ -13,8 +13,8 @@ last_name: "Tolver"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: kanika-tolver
+# slug — the specific user-id for an author.
+slug: kanika-tolver
 
 # if you include an email address, it will be displayed on your profile page
 email: "TolverK@state.gov"

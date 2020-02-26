@@ -10,7 +10,7 @@ last_name: "Atlas"
 pronoun: ""
 
 # user id — not easily changed
-uid: "alan-atlas"
+slug: "alan-atlas"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email:
@@ -31,11 +31,11 @@ agency: "GSA"
 location: ""
 
 # A GitHub account will allow you to edit pages on DigitalGov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
-github: "AlanAtlas"
+github: ""
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: "github"
+profile_photo: ""
 
 # [e.g., Digital_Gov]
 twitter: ""
