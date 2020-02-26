@@ -2,9 +2,9 @@
 # View this page at https://digital.gov/event/2020/03/rpa-community-practice-cop-march-all
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: rpa-community-practice-cop-march-all
-title: "RPA Community of Practice (CoP) March All Hands"
+title: "RPA Community of Practice: March All-Hands Meeting"
 deck: ""
-summary: "Join the RPA Community of Practice (CoP) online to discuss the next steps in accelerating the adoption of RPA in the Federal environment. "
+summary: "Join the RPA Community of Practice online to discuss the next steps in accelerating the adoption of RPA in the Federal environment."
 host: "Robotic Process Automation Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/95644143207
@@ -30,9 +30,10 @@ youtube_id:
 
 ---
 
-**This event is for Federal Government employees only, you must have a .gov or .mil address to register!**
+**This event is for federal government employees only, you must have a .gov or .mil address to register!**
 
-This community-wide meeting will act as an update and discussion of the following:
+This community-wide meeting will act as an update and discussion of the following: 
+
  - Successes of the Federal RPA Program Playbook
  - Next steps for creating a Federal RPA Use Case Inventory
  - How the RPA COP is engaging with the Federal CIO Council to drive key issues forward.
