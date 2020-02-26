@@ -8,8 +8,8 @@ deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about 
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
-registration_url:
-captions:
+registration_url: https://www.eventbrite.com/e/uswds-monthly-call-may-2020-registration-94024217967
+captions: https://www.captionedtext.com/client/event.aspx?EventID=4340554&CustomerID=321
 
 # start date
 date: 2020-05-21 14:30:00 -0500
