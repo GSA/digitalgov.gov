@@ -27,7 +27,7 @@ nav.topics-sidebar{
         @include u-text('medium');
         @include u-text('no-underline');
         @include u-text('indigo-70');
-        @include u-font('sans', 'md');
+        @include u-font('sans', 'sm');
         @include u-line-height('sans', 2);
         @include u-display('block');
         &:hover{
