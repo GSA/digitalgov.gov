@@ -4,7 +4,7 @@
 slug: uswds-monthly-call-april-2020
 title: "USWDS Monthly Call - April 2020"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
-summary: ""
+summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-april-2020-registration-94003638413
@@ -17,20 +17,21 @@ date: 2020-04-16 14:30:00 -0500
 end_date: 2020-04-16 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - design
   - uswds
+  - 21st-century-idea
   - user-centered-design
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - dan-williams
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id:
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
