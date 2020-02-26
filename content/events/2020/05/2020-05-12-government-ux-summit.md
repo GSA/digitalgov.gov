@@ -1,23 +1,26 @@
 ---
 # View this page at https://digital.gov/event/2020/05/2020-government-ux-summit
 # Learn how to edit our pages at https://workflow.digital.gov
-slug: 2020-government-ux-summit
-title: "2020 Government UX Summit"
-deck: ""
+
+draft: true
+
+slug: government-ux-summit-2020
+title: "Government UX Summit 2020"
+deck: "An opportunity to learn, share experiences, and network with UX practitioners from across government."
 summary: "An opportunity to learn, share experiences, and network with UX practitioners from across government."
 host: "User Experience Community of Practice"
 event_organizer: "Digital.gov"
-registration_url: 
-captions: 
+registration_url:
+captions:
 
 # start date
-date: 2020-05-12 9:000:00 -0500
+date: 2020-05-12 9:00:00 -0500
 
 # end date
-end_date: 2020-05-12 16:000:00 -0500
+end_date: 2020-05-12 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - agile
   - design
   - user-experience
@@ -26,14 +29,14 @@ topics:
   - ux
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jean-fox
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id:
 
 # Venue
 venue_name: "Library of Congress"
