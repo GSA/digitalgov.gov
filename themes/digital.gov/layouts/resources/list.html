@@ -74,32 +74,55 @@
             <h2>All Resources by Topic</h2>
           </div>
         </div>
-        {{ range $name, $taxonomy := $.Site.Taxonomies.topics }}
-          {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-            {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
-            {{- if $resources_by_topic -}}
-            <div class="topic-section">
-              <div class="grid-row">
-                <div class="grid-col-12">
-                  <h3><a href="{{- .Permalink -}}">{{- .Title -}}</a></h3>
-                </div>
-              </div>
-              <div class="grid-row">
-                <div class="grid-col-12 tablet-lg:grid-col-10">
-                  {{- partial "core/list_related_resources.html" (dict "Page" $page "Resources" $resources_by_topic) -}}
-                </div>
-              </div>
-              <footer>
-                <div class="grid-row">
-                  <div class="grid-col-12">
-                    <p class="more"><a href="{{- .Permalink -}}"><span>More on {{ .Title -}}</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+        <div class="grid-row grid-gap-4">
+          <div class="grid-col-12 tablet:grid-col-3">
+            <nav class="topics-sidebar">
+              <ul>
+                {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
+                  {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+                    {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+                      <li><a href="">{{- .Title -}}</a></li>
+                    {{- end -}}
+                  {{- end -}}
+                {{- end -}}
+              </ul>
+            </nav>
+          </div>
+          <div class="grid-col-12 tablet:grid-col-9">
+
+            {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
+              {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+                {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+
+                  {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
+                  {{- if $resources_by_topic -}}
+                  <div class="topic-section">
+                    <div class="grid-row">
+                      <div class="grid-col-12">
+                        <h3><a href="{{- .Permalink -}}">{{- .Title -}}</a></h3>
+                      </div>
+                    </div>
+                    <div class="grid-row">
+                      <div class="grid-col-12 tablet-lg:grid-col-10">
+                        {{- partial "core/list_related_resources.html" (dict "Page" $page "Resources" $resources_by_topic) -}}
+                      </div>
+                    </div>
+                    <footer>
+                      <div class="grid-row">
+                        <div class="grid-col-12">
+                          <p class="more"><a href="{{- .Permalink -}}"><span>More on {{ .Title -}}</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+                        </div>
+                      </div>
+                    </footer>
                   </div>
-                </div>
-              </footer>
-            </div>
-            {{- end -}}
-          {{ end }}
-        {{ end }}
+                  {{- end -}}
+
+                {{- end -}}
+              {{ end }}
+            {{ end }}
+
+          </div>
+        </div>
       </div>
     </section>
 

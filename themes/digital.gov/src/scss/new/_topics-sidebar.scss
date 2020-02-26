@@ -17,15 +17,18 @@ nav.topics-sidebar{
   }
 
   ul{
+    @include add-list-reset;
     li{
       @include u-margin-y(0);
       @include u-padding-y(0);
       a{
-        @include u-padding-y('05');
-        @include u-padding-x(3);
-        @include u-text('semibold');
+        @include u-padding-y(1);
+        @include u-padding-x('205');
+        @include u-text('medium');
         @include u-text('no-underline');
         @include u-text('indigo-70');
+        @include u-font('sans', 'md');
+        @include u-line-height('sans', 2);
         @include u-display('block');
         &:hover{
           @include u-bg('gray-warm-5');
