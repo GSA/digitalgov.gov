@@ -23,6 +23,7 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
+  - federal-open-source
   - open-source
   - code
   - data
