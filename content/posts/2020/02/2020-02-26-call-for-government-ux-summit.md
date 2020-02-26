@@ -41,8 +41,6 @@ at the Library of Congress ([map](https://www.google.com/maps/place/Library+of+C
 _Registration page coming soon ..._
 {{< /box >}}
 
-{{< img src="ux-government-summit-2020" >}}
-
 ## Call for Presenters
 We are currently seeking submissions for presentations on topics such as:
 
