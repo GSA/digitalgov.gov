@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2020/03/katherine-spivey-on-readability-audits-government
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: katherine-spivey-on-readability-audits-government
-title: "Katherine Spivey on Readability Audits of Government Websites"
+title: "Readability Audits of Government Websites with Katherine Spivey"
 deck: ""
 summary: "In this meeting, we’ll talk about readability audits and formulas and how they work—and don’t work—to improve web content and the users’ experience."
 host: "Plain Language Community of Practice"
@@ -47,16 +47,15 @@ map: ""
 
 ---
 
-We have a *lot* of content on government websites. Much of this content would benefit from pruning, if not outright deleting. In this talk, Katherine will show how she did a readability audit on a set of pages, describe the decisions she had to make, and explain unexpected results. As a result, you can decide whether a readability audit might work for your website content (and how or why it might not).
+We have _a lot_ of content on government websites. Much of this content would benefit from pruning, if not outright deleting. In this talk, Katherine will show how she did a readability audit on a set of pages, describe the decisions she had to make, and explain unexpected results. As a result, you can decide whether a readability audit might work for your website content (and how or why it might not). 
 
-## **Presenter**
+## Presenter 
+
 Katherine Spivey serves as Plain Language Launcher at the U.S. General Services Administration (GSA). She is co-chair of the [Plain Language Action and Information Network](https://digital.gov/communities/plain-language/) (PLAIN) and provides Plain Language training for DigitalGov University.
 
-At GSA, she is the plain language expert for the Office of Strategic Communication. Previously, she managed web content, coordinated social media, and edited the agency’s [Great Government through Technology](https://gsablogs.gsa.gov/technology/) blog. Before GSA, Katherine was web content manager at the U.S. Department of Homeland Security (DHS), the international law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from University of Virginia and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
+At GSA, she is the plain language expert for the Office of Strategic Communication. Previously, she managed web content, coordinated social media, and edited the agency’s [Great Government through Technology](https://gsablogs.gsa.gov/technology/) blog. Before GSA, Katherine was web content manager at the U.S. Department of Homeland Security (DHS), the international law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from University of Virginia and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia. 
 
----
-
-**Related Links:**
+## Related Links
 
  - [Plain Language](https://www.plainlanguage.gov/)
  
