@@ -48,7 +48,7 @@
               <ul>
                 {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
                   {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                    {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+                    {{- if eq .Params.weight 2 -}}
                       {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
                       {{- if $resources_by_topic -}}
                         <li><a href="#{{- $name -}}"><span>{{- .Title -}}</span></a></li>
@@ -64,7 +64,7 @@
 
             {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
               {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+                {{- if eq .Params.weight 2 -}}
 
                   {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
                   {{- if $resources_by_topic -}}
