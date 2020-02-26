@@ -23,13 +23,18 @@ topics:
 authors:
   - jean-fox
 
+# Primary Image (for social media)
+primary_image: "ux-government-summit-2020"
+
 # Make it better ♥
 
 ---
 
-The 2020 Government UX Summit is a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
+{{< img src="ux-government-summit-2020" >}}
 
-Government agencies are striving to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/).
+Join us for the 2020 Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
+
+Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/).
 
 {{< box >}}
 **Save the date**<br/>
@@ -37,8 +42,6 @@ May 12, 2020, 9:00-4:00 p.m. ET<br/>
 at the Library of Congress ([map](https://www.google.com/maps/place/Library+of+Congress/@38.888684,-77.0069077,17z/data=!3m2!4b1!5s0x89b7b82bf81714b1:0xb306acf1c3a0b282!4m5!3m4!1s0x390feef68ef83a4d:0x46cbb296f4de3eec!8m2!3d38.888684!4d-77.004719))<br/>
 _Registration page coming soon..._
 {{< /box >}}
-
-
 
 ## Call for Presenters
 We are currently seeking submissions for presentations on topics such as:
