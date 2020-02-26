@@ -8,7 +8,7 @@ summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk abo
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-march-2020-registration-93324956457
-captions: https://www.captionedtext.com/client/event.aspx?EventID=4340559&CustomerID=321
+captions: https://www.captionedtext.com/client/event.aspx?EventID=4340546&CustomerID=321
 
 # start date
 date: 2020-03-19 14:30:00 -0500
