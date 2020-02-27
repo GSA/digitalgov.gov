@@ -34,7 +34,7 @@ github: "fieldsey"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: "github"
+profile_photo: ""
 
 # [e.g., Digital_Gov]
 twitter: ""
