@@ -43,25 +43,8 @@
           </div>
         </div>
         <div class="grid-row grid-gap-4">
-          <div class="grid-col-12 tablet:grid-col-3">
-            <nav class="topics-sidebar">
-              <ul>
-                {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
-                  {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                    {{- if eq .Params.weight 2 -}}
-                      {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
-                      {{- if $resources_by_topic -}}
-                        <li><a href="#{{- $name -}}"><span>{{- .Title -}}</span></a></li>
-                      {{- end -}}
-                    {{- end -}}
-                  {{- end -}}
-                {{- end -}}
-              </ul>
-            </nav>
-            <p class="more"><a href="/topics"><span>See all topics</span> <i class="fas fa-arrow-circle-right"></i></a></p>
-          </div>
-          <div class="grid-col-12 tablet:grid-col-9">
 
+          <div class="grid-col-12 tablet:grid-col-9">
             {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
               {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
                 {{- if eq .Params.weight 2 -}}
@@ -94,6 +77,25 @@
             {{ end }}
 
           </div>
+
+          <div class="grid-col-12 tablet:grid-col-3 tablet:order-first">
+            <nav class="topics-sidebar">
+              <ul>
+                {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
+                  {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+                    {{- if eq .Params.weight 2 -}}
+                      {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
+                      {{- if $resources_by_topic -}}
+                        <li><a href="#{{- $name -}}"><span>{{- .Title -}}</span></a></li>
+                      {{- end -}}
+                    {{- end -}}
+                  {{- end -}}
+                {{- end -}}
+              </ul>
+            </nav>
+            <p class="more"><a href="/topics"><span>See all topics</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+          </div>
+
         </div>
       </div>
     </section>

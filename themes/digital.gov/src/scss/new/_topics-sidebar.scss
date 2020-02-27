@@ -33,7 +33,7 @@ nav.topics-sidebar{
         &:hover{
           @include u-bg('gray-warm-5');
           span{
-            @include u-border-bottom('2px', 'solid', 'accent-warm');
+            @include u-border-bottom('2px', 'solid', 'orange-warm-40v');
           }
         }
       }
