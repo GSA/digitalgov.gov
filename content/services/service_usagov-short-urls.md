@@ -4,18 +4,13 @@ url: /services/usa-gov-short-urls/
 # What is the name of the product or service?
 title: "Go.USA.gov"
 
+# Which team published this?
+# Learn about sources at https://workflow.digital.gov/sources
+source: 'usagov'
+
 # Keep it short — should be no longer than 10 words.
 summary: "A URL shortener for official government domains."
 
-# Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-# source_url: 'https://digital.gov/services/usa-gov-short-urls/'
-
-# Images need to be 200x200px with a transparent background
-# Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
-# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: "usa-gov.png"
 
 contact: go.usa.gov@gsa.gov
 

@@ -37,18 +37,8 @@ A list of the most important resources tagged with the same topic */}}
             {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
             {{- if $source.Params.icon -}}
 
-              {{/*
-              We have two folders for source icons
-              - /logos/ — this is for logos to be used in the newsfeed and the icons
-              - logos/icons/ — for overriding the icon image
-              */}}
-              {{- $icon_url := (print "/static/logos/_icons/" $source.Params.icon) -}}
-              {{- if (fileExists $icon_url) -}}
-                <img src="{{- (print "/logos/_icons/" $source.Params.icon) | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
-              {{- else -}}
-                <img src="{{- (print "/logos/" $source.Params.icon) | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
-              {{- end -}}
-
+              {{- $src := (printf "/logos/%s%s" $source.Params.icon "-icon.png") -}}
+              <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} icon"/><span>{{- .Title | markdownify -}}</span>
 
             {{- end -}}
 

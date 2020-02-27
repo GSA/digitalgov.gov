@@ -1,0 +1,53 @@
+<div class="card-service" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+
+  {{/* Icons
+  Get the "source" in the file and looks up the icon that is used there.
+  */}}
+  {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+  {{- if $source -}}
+
+    {{- $src := (printf "/logos/%s%s" $source.Params.icon "-logo.png") -}}
+    <div class="icon">
+      <img src="{{ $src | relURL }}" alt="{{- $source.Params.name -}} logo">
+    </div>
+
+  {{- else if .Params.icon -}}
+
+    {{- $src := (printf "/logos/%s%s" .Params.icon "-logo.png") -}}
+    <div class="icon">
+      <img src="{{ $src | relURL }}" alt="{{- .Params.name -}} logo">
+    </div>
+
+  {{- else -}}
+
+    <div class="icon">
+      <img src="{{ "/logos/digit-gold.png" | relURL }}" alt="{{- .Params.source -}} logo">
+    </div>
+
+  {{- end -}}
+
+  <div>
+    <h3><a href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .Permalink -}}{{- end -}}?dg" title="{{- .Params.title -}}">{{- .Params.title -}}</a></h3>
+
+    <p>{{- .Params.summary | markdownify -}}</p>
+
+    {{- if .Params.authors -}}
+    <div class="team">
+      <h4>Team:</h4>
+      {{- partial "core/get_authors_short" . -}}
+    </div>
+    {{- end -}}
+
+    {{- if .Params.contact -}}
+    <div class="contact">
+      <h4>Contact:</h4>
+      <p>
+        <a href="mailto:{{- .Params.contact -}}" title="Contact {{ .Params.title -}}">{{- .Params.contact -}}</a>
+      </p>
+    </div>
+    {{- end -}}
+
+
+  </div>
+
+</div>

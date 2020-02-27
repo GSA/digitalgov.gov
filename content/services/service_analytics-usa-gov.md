@@ -5,7 +5,6 @@ title: "Analytics.USA.gov"
 # Keep it short — should be no longer than 10 words.
 summary: "A window into how people are interacting with the government online. Powered by the Digital Analytics Program (DAP)"
 
-
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 source_url: "https://analytics.usa.gov/"
@@ -14,7 +13,7 @@ source_url: "https://analytics.usa.gov/"
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: analytics-usa-gov.png
+icon: 'analytics-usa-gov'
 
 # see all authors at https://digital.gov/authors
 authors:

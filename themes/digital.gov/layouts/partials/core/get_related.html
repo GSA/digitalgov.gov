@@ -68,8 +68,8 @@
         <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
       </h4>
       {{- if .Params.icon -}}
-        {{- $src := (print "/logos/" .Params.icon) -}}
-        <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+        {{- $src := (printf "/logos/%s" .Params.icon "-icon.png") -}}
+        <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Icon">
       {{- else -}}
         <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
       {{- end -}}
@@ -84,7 +84,7 @@
         <a href="{{- .Params.url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
       </h4>
       {{- if .Params.icon -}}
-        {{- $src := (print "/logos/" .Params.icon) -}}
+        {{- $src := (printf "/logos/%s" .Params.icon "-icon.png") -}}
         <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
       {{- else -}}
         <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">

@@ -7,18 +7,12 @@ slug: usagov
 title: "USAGov and USAGov en Español"
 summary: "A customer service platform that helps the public navigate the government space by providing topical  information and services in English and Spanish."
 
-# originally published at the following URL
-source_url: "https://www.usa.gov/"
-
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: usagov
+source: 'usagov'
 
-# Images need to be 200x200px with a transparent background
-# Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
-# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: usa-gov.png
+# originally published at the following URL
+source_url: "https://www.usa.gov/"
 
 contact: tktk
 

@@ -7,15 +7,10 @@ title: "Challenge.gov"
 # Keep it short — should be no longer than 10 words.
 summary: "Provides resources and collaborative opportunities to facilitate the use of prize competitions in government."
 
-# What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-# source_url: 'https://challenge.gov/'
 
-# Images need to be 200x200px with a transparent background
-# Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
-# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: 'challenge-gov-logo.png'
+# What source published this?
+source: 'challengegov'
+
 
 contact: team@challenge.gov
 

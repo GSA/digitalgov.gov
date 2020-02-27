@@ -14,7 +14,7 @@ domain: 'https://demo.digital.gov'
 
 # To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.
 # Copy and paste that full path here:
-icon: "digit-150.png"
+icon: "digitalgov"
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage

@@ -14,7 +14,7 @@ domain: 'https://18f.gsa.gov/'
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
-icon: "18f-logo.png"
+icon: "18f"
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage

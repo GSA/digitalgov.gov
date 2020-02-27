@@ -6,18 +6,25 @@
     @include u-border-top(0);
   }
 
-  img{
-    @include u-margin-right('105');
-    @include u-width(6);
-    @include u-height(6);
-    @include at-media('tablet') {
-      @include u-margin-right('205');
-      @include u-width(8);
-      @include u-height(8);
-  	}
-  }
+
+  .icon{
+		@include u-margin-right(2);
+		@include u-square(7);
+		@include at-media('mobile-lg'){
+			@include u-square(7);
+		}
+		img{
+			@include u-circle(7);
+			@include at-media('mobile-lg'){
+				@include u-circle(7);
+			}
+			@include u-border('1px', 'gray-cool-10', 'solid');
+		}
+	}
+
   h3{
     @include u-margin-bottom(1);
+    @include u-font('sans', 'lg');
     a{
       @include u-text('black');
       @include u-text('no-underline');
