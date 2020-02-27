@@ -11,7 +11,7 @@
           <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>
           <h1>{{- .Title -}}</h1>
 
-          {{- $allpages := (where .Pages "Section" "posts") -}}
+          {{- $allpages := (where .Pages "Section" "news") -}}
 
           <p class="deck">{{- .Params.summary -}}</p>
 
@@ -50,7 +50,7 @@
     </div>
   </div>
 
-  <section id="posts_featured" class="stream">
+  <section id="news_featured" class="stream">
     <div class="paper">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-4">
@@ -66,7 +66,7 @@
           {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
           {{/* Gets the recent blog posts */}}
-          {{- $posts := where .Paginator.Pages "Section" "posts" -}}
+          {{- $posts := where .Paginator.Pages "Section" "news" -}}
 
           {{/* Merges the past events and the recent blog posts */}}
           {{ $stream := union $posts $past_events }}
@@ -86,18 +86,18 @@
                 {{- .Render "card-event-past" -}}
               {{- end -}}
 
-              {{- if eq .Type "posts" -}}
+              {{- if eq .Type "news" -}}
                 {{/* External links */}}
                 {{- if .Params.source -}}
-                  {{/* see /layouts/posts/ for card templates */}}
+                  {{/* see /layouts/news/ for card templates */}}
                   {{ .Render "card-elsewhere"}}
                 {{ else }}
                   {{/* Blog Posts — Internal links */}}
                   {{- if .Params.deck }}
-                    {{/* see /layouts/posts/ for card templates */}}
+                    {{/* see /layouts/news/ for card templates */}}
                     {{ .Render "card-article"}}
                   {{ else }}
-                    {{/* see /layouts/posts/ for card templates */}}
+                    {{/* see /layouts/news/ for card templates */}}
                     {{ .Render "card-article"}}
                   {{ end }}
                 {{ end }}

@@ -1,12 +1,5 @@
 // communities
 
-// All posts page — https://digital.gov/posts/
-.communities.section{
-  .paper{
-    // @include u-bg('gold-5v');
-  }
-}
-
 header.header-communities{
   @include u-padding-bottom(2);
   @include u-text('indigo-warm-80');
