@@ -10,18 +10,21 @@ deck: ""
 summary: "An introduction to accessibility, and why it matters."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - accessibility
   - product-management
   - plain-language
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jeremyzilar
   - toni-bonitto
 
 # primary Image (for social media)
 primary_image: "accessibility-101-card"
+
+aliases:
+  - /resources/intro-accessibility
 
 # Make it better ♥
 ---
