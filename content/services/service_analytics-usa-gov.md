@@ -16,6 +16,10 @@ source_url: "https://analytics.usa.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: analytics-usa-gov.png
 
+# see all authors at https://digital.gov/authors
+authors:
+  - tlowden
+
 contact: dap@support.digitalgov.gov
 
 # Weight: control how services appear across the site

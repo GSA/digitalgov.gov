@@ -51,11 +51,22 @@
 
                   <p>{{- .Params.summary | markdownify -}}</p>
 
-                  {{- if .Params.contact -}}
-                  <p class="contact">
-                    Contact: <a href="mailto:{{- .Params.contact -}}" title="Contact {{ .Params.title -}}">{{- .Params.contact -}}</a>
-                  </p>
+                  {{- if .Params.authors -}}
+                  <div class="team">
+                    <h4>Team:</h4>
+                    {{- partial "core/get_authors_short" . -}}
+                  </div>
                   {{- end -}}
+
+                  {{- if .Params.contact -}}
+                  <div class="contact">
+                    <h4>Contact:</h4>
+                    <p>
+                      <a href="mailto:{{- .Params.contact -}}" title="Contact {{ .Params.title -}}">{{- .Params.contact -}}</a>
+                    </p>
+                  </div>
+                  {{- end -}}
+
 
                 </div>
 

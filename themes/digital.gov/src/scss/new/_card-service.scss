@@ -20,18 +20,37 @@
     @include u-margin-bottom(1);
     a{
       @include u-text('black');
-      // @include u-text('no-underline');
+      @include u-text('no-underline');
       &:hover{
-        // @include u-text('underline');
+        @include u-text('underline');
       }
     }
   }
+
   p{
     @include u-margin-top(0);
-    @include u-line-height('sans', 2);
+    @include u-line-height('sans', 3);
   }
+
+  .team,
   .contact{
-    @include u-font('sans', '2xs');
-    @include u-margin-top('105');
+    @include u-margin-top(1);
+    @include u-display('flex');
+    @include u-flex('align-center');
+    h4{
+      @include u-margin-right(1);
+      @include u-font('sans', '2xs');
+      @include u-text('normal');
+      @include u-text('base-darker');
+    }
+    p{
+      @include u-margin-top(0);
+      @include u-font('sans', '2xs');
+      @include u-line-height('sans', 1);
+    }
+    .authors-list{
+      @include u-margin(0);
+    }
   }
+
 }
