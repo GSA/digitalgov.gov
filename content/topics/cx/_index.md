@@ -9,7 +9,7 @@ title: "Customer Experience"
 summary: ""
 
 # Weight
-weight: 3
+weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki/topics
