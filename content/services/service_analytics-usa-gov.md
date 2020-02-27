@@ -16,7 +16,7 @@ source_url: "https://analytics.usa.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: analytics-usa-gov.png
 
-email: dap@support.digitalgov.gov
+contact: dap@support.digitalgov.gov
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage

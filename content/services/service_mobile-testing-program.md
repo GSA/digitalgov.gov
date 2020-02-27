@@ -17,7 +17,7 @@ summary: "Compatibility testing service that agencies can use to test the mobile
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'digit-150.png'
 
-email: digitalgov@gsa.gov
+contact: digitalgov@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

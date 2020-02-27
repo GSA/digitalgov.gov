@@ -51,9 +51,9 @@
 
                   <p>{{- .Params.summary | markdownify -}}</p>
 
-                  {{- if .Params.email -}}
+                  {{- if .Params.contact -}}
                   <p class="contact">
-                    Email: <a href="mailto:{{- .Params.email -}}" title="Email {{ .Params.title -}}">{{- .Params.email -}}</a>
+                    Contact: <a href="mailto:{{- .Params.contact -}}" title="Contact {{ .Params.title -}}">{{- .Params.contact -}}</a>
                   </p>
                   {{- end -}}
 

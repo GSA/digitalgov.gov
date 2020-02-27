@@ -15,7 +15,7 @@ source_url: "https://www.section508.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'gsa.png'
 
-email: section.508@gsa.gov
+contact: section.508@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

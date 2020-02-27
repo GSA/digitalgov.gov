@@ -17,7 +17,7 @@ source_url: "https://search.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "searchgov.png"
 
-email: search@support.digitalgov.gov
+contact: search@support.digitalgov.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

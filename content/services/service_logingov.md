@@ -15,7 +15,7 @@ source_url: "https://www.login.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "login-gov.png"
 
-email: partners@login.gov
+contact: partners@login.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

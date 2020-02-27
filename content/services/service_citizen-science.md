@@ -15,7 +15,7 @@ source_url: "https://citizenScience.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "citizen-science.png"
 
-email: citizenscience@gsa.gov
+contact: citizenscience@gsa.gov
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage

@@ -17,7 +17,7 @@ summary: "A URL shortener for official government domains."
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "usa-gov.png"
 
-email: go.usa.gov@gsa.gov
+contact: go.usa.gov@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

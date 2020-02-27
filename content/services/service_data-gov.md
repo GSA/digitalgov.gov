@@ -17,7 +17,7 @@ source_url: "https://data.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "data-gov.png"
 
-email: datagovhelp@gsa.gov
+contact: datagovhelp@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

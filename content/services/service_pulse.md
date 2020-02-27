@@ -15,7 +15,7 @@ source_url: "https://pulse.cio.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "pulse.png"
 
-email: pulse@cio.gov
+contact: pulse@cio.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

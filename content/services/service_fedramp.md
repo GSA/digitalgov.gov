@@ -15,7 +15,7 @@ source_url: "https://www.fedramp.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'fedramp.png'
 
-email: info@FedRAMP.gov
+contact: info@FedRAMP.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

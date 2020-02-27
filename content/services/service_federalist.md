@@ -15,7 +15,7 @@ source_url: "https://federalist.18f.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "federalist.png"
 
-email: federalist-inquiries@gsa.gov
+contact: federalist-inquiries@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

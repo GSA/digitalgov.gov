@@ -15,7 +15,7 @@ source_url: 'https://cloud.gov/'
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'cloudgov.png'
 
-email: cloud-gov-inquiries@gsa.gov
+contact: cloud-gov-inquiries@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

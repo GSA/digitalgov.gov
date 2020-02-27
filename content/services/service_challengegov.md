@@ -17,7 +17,7 @@ summary: "Provides resources and collaborative opportunities to facilitate the u
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'challenge-gov-logo.png'
 
-email: team@challenge.gov
+contact: team@challenge.gov
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage

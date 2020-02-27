@@ -15,7 +15,7 @@ source_url: "https://code.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "codegov.png"
 
-email: code@gsa.gov
+contact: code@gsa.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

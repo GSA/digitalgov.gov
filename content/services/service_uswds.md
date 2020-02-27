@@ -18,7 +18,7 @@ source_url: "https://designsystem.digital.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'uswds.png'
 
-email: uswds@support.digitalgov.gov
+contact: uswds@support.digitalgov.gov
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

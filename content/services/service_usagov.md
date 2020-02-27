@@ -20,7 +20,7 @@ source: usagov
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: usa-gov.png
 
-email: tktk
+contact: tktk
 
 
 # Weight control how these promos appear on the site

@@ -15,7 +15,7 @@ source_url: "https://api.data.gov/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: "data-gov.png"
 
-email: api.data.gov@gsa.gov
+contact: api.data.gov@gsa.gov
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage
