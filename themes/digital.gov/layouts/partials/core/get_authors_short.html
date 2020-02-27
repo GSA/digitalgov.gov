@@ -14,9 +14,9 @@
     {{/* Count the number of authors */}}
     {{- $length := $authors | len -}}
 
-    {{/* NOTE: Many of the pages in digital.gov have duplicate topics. */}}
+    {{/* NOTE: Many of the pages in digital.gov have duplicate authors. */}}
     {{/* So we are running "uniq" on the array to remove duplicates */}}
-    {{- range $i, $e := uniq (sort $authors) -}}
+    {{- range $i, $e := uniq $authors -}}
       {{- $uid := . -}}
 
       {{/* If the byline was entered as a display name (i.e. - John Smith )
