@@ -1,6 +1,8 @@
 ---
 # View this page at https://digital.gov/event/2020/03/rpa-community-practice-cop-march-all
 # Learn how to edit our pages at https://workflow.digital.gov
+
+kicker: Robotic Process Automation
 slug: rpa-community-practice-cop-march-all
 title: "RPA Community of Practice: March All-Hands Meeting"
 deck: "Discuss the next steps in accelerating the adoption of RPA in the federal environment."
