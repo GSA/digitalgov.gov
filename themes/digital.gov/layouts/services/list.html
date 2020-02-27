@@ -43,7 +43,7 @@
 
                 {{- if .Params.icon -}}
                 {{- $src := (print "/logos/" .Params.icon) -}}
-                <img src="{{- $src | relURL -}}" alt="{{- .Params.name }} Logo">
+                <a href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .Permalink -}}{{- end -}}?dg" title="{{- .Params.title -}}"><img src="{{- $src | relURL -}}" alt="{{- .Params.name }} Logo"></a>
                 {{- end -}}
 
                 <div>
@@ -51,11 +51,11 @@
 
                   <p>{{- .Params.summary | markdownify -}}</p>
 
-                  <p class="contact">
                   {{- if .Params.email -}}
+                  <p class="contact">
                     Email: <a href="mailto:{{- .Params.email -}}" title="Email {{ .Params.title -}}">{{- .Params.email -}}</a>
-                  {{- end -}}
                   </p>
+                  {{- end -}}
 
                 </div>
 
