@@ -25,9 +25,9 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - cloud
+  - design
   - content
-  - content-management-system
-  - github
+  - user-centered-design
+  - training
 
 ---
