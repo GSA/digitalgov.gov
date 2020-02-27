@@ -32,4 +32,8 @@ topics:
   - mobile
   - product-management
 
+# see all authors at https://digital.gov/authors
+authors:
+  - dan-williams
+
 ---

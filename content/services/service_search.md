@@ -23,6 +23,10 @@ contact: search@support.digitalgov.gov
 # 0 == hidden promo
 weight: 2
 
+# see all authors at https://digital.gov/authors
+authors:
+  - dmccleskey
+
 # Topics that best describe this product or service
 topics:
   - search-engine-optimization
