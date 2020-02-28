@@ -1,8 +1,6 @@
 ---
-# View this page at https://digital.gov/event/2020/03/katherine-spivey-on-readability-audits-government
+# View this page at https://digital.gov/event/2020/03/readability-audits-government-websites-with-katherine
 # Learn how to edit our pages at https://workflow.digital.gov
-
-kicker: Plain Language
 slug: katherine-spivey-on-readability-audits-government
 title: "Readability Audits of Government Websites with Katherine Spivey"
 deck: ""
@@ -13,37 +11,13 @@ registration_url: https://www.eventbrite.com/e/96429851281
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4349813&CustomerID=321
 
 # start date
-date: 2020-03-11 13:00:00 -0500
+date: 2020-03-11 15:00:00 -0500
 
 # end date
-end_date: 2020-03-11 14:30:00 -0500
-
-# see all topics at https://digital.gov/topics
-topics:
-  - content
-  - cx
-  - plain-language
-  - ux
-
-# see all authors at https://digital.gov/authors
-authors:
-  - katherine-spivey
-
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+end_date: 2020-03-11 16:30:00 -0500
 
 # YouTube ID
-youtube_id:
-
-# Venue
-venue_name: "General Services Administration"
-room: "4143"
-address: "1800 F Street NW"
-city: "Washington"
-state: "District of Columbia"
-zip: "20006"
-country: ""
-map: ""
+youtube_id: 
 
 # Make it better ♥
 
