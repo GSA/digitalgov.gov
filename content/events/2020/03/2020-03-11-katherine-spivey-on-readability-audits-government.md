@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/96429851281
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4349813&CustomerID=321
 
 # start date
-date: 2020-03-11 15:00:00 -0500
+date: 2020-03-11 14:00:00 -0500
 
 # end date
-end_date: 2020-03-11 16:30:00 -0500
+end_date: 2020-03-11 15:30:00 -0500
 
 # YouTube ID
 youtube_id: 
