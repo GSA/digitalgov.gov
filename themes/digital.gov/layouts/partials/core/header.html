@@ -54,14 +54,6 @@
           </div>
         </form>
 
-
-        <div class="social-icons display-none">
-          <a rel="alternate" href="https://twitter.com/digital_gov"><i class="fab fa-twitter"></i></a>
-          <a rel="alternate" href="https://www.facebook.com/digitalgov/"><i class="fab fa-facebook"></i></a>
-          <a rel="alternate" href="https://youtube.com/digitalgov"><i class="fab fa-youtube"></i></a>
-          {{ with .OutputFormats.Get "rss" -}}{{- printf `<a rel="%s" type="%s" href="%s" title="%s" ><i class="fas fa-rss-square"></i></a>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML -}}{{- end }}
-        </div>
-
       </div>
     </div>
   </nav>
