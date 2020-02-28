@@ -71,7 +71,7 @@
             {{/* Blog Posts by Topic —
             List all of the blog posts and events tagged with this topic */}}
 
-            {{- $allpages := (where .Pages "Section" "posts") -}}
+            {{- $allpages := (where .Pages "Section" "news") -}}
 
             {{/* Gets the past events */}}
             {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
@@ -80,7 +80,7 @@
             {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
             {{/* Gets the recent blog posts */}}
-            {{- $posts := where .Paginator.Pages "Section" "posts" -}}
+            {{- $posts := where .Paginator.Pages "Section" "news" -}}
 
             {{/* Merges the past events and the recent blog posts */}}
             {{ $stream := union $posts $past_events }}
@@ -101,18 +101,18 @@
                   {{- .Render "card-event-past" -}}
                 {{- end -}}
 
-                {{- if eq .Type "posts" -}}
+                {{- if eq .Type "news" -}}
                   {{/* External links */}}
                   {{- if .Params.source -}}
-                    {{/* see /layouts/posts/ for card templates */}}
+                    {{/* see /layouts/news/ for card templates */}}
                     {{ .Render "card-elsewhere"}}
                   {{ else }}
                     {{/* Blog Posts — Internal links */}}
                     {{- if .Params.deck }}
-                      {{/* see /layouts/posts/ for card templates */}}
+                      {{/* see /layouts/news/ for card templates */}}
                       {{ .Render "card-article"}}
                     {{ else }}
-                      {{/* see /layouts/posts/ for card templates */}}
+                      {{/* see /layouts/news/ for card templates */}}
                       {{ .Render "card-article"}}
                     {{ end }}
                   {{ end }}
@@ -129,7 +129,7 @@
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
           <footer>
-            <a class="btn" href="{{ "posts" | absURL }}" title=""><span>See all News</span> <i class="fas fa-arrow-circle-right"></i></a>
+            <a class="btn" href="{{ "news" | absURL }}" title=""><span>See all News</span> <i class="fas fa-arrow-circle-right"></i></a>
             <p>Have a case study to share? Did your team recently launch something?<br/><a href="mailto:digitalgov@gsa.gov" title=""><strong>Send us an email</strong></a></p>
           </footer>
         </div>
