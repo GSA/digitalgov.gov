@@ -6,7 +6,7 @@ kicker: Robotic Process Automation
 slug: rpa-community-practice-cop-march-all
 title: "RPA Community of Practice: March All-Hands Meeting"
 deck: "Discuss the next steps in accelerating the adoption of RPA in the federal environment."
-summary: "Join the Robotic Process Automation (RPA) Community of Practice online to discuss the next steps in accelerating the adoption of RPA in the federal environment."
+summary: "Join the RPA Community of Practice online to discuss the next steps in accelerating the adoption of robotic process automation in the federal environment."
 host: "Robotic Process Automation Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/95644143207
