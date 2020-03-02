@@ -38,6 +38,8 @@ map: ""
 
 ---
 
+{{< note >}}This event is for federal government employees only, you must have a .gov or .mil address to register!{{< /note >}}
+
 This workshop will be restricted to the first 100 registrants, as it is designed for hands-on, small group collaboration.
 
 Participants will work in small groups with federal leaders currently operating human resource RPA automations. Sessions will include a brief discussion of how RPA is currently used in federal human resource operations, demos of current human resource applications, and facilitate discussions of your agency’s business challenges and how you can apply RPA.
