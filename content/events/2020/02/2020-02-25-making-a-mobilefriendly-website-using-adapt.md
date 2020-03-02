@@ -7,7 +7,7 @@ deck: "Learn how to improve the user experience of your website by following the
 summary: ""
 host: "David Fern"
 event_organizer: "Digital.gov"
-registration_url: https://www.eventbrite.com/e/making-a-mobile-friendly-website-using-the-adapt-model-registration-93988386795 
+registration_url: https://www.eventbrite.com/e/making-a-mobile-friendly-website-using-the-adapt-model-registration-93988386795
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4342277&CustomerID=321
 
 # start date
@@ -16,30 +16,11 @@ date: 2020-02-25 15:00:00 -0500
 # end date
 end_date: 2020-02-25 16:00:00 -0500
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
-
-# see all topics at https://digital.gov/topics
-topics: 
-  - cx
-  - mobile
-  - 21st-century-idea
-  - ux
-  - web-content-managers-forum
-
-# see all authors at https://digital.gov/authors
-authors: 
-  - david-fern
-
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
-
 # YouTube ID
-youtube_id: 
+youtube_id: x8UvFt26MDE
 
 # Primary Image (for social media)
 primary_image: "mobilegov-event"
-
 
 # Make it better ♥
 
