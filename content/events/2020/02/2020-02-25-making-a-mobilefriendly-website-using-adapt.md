@@ -16,28 +16,48 @@ date: 2020-02-25 15:00:00 -0500
 # end date
 end_date: 2020-02-25 16:00:00 -0500
 
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
+# see all topics at https://digital.gov/topics
+topics:
+  - cx
+  - mobile
+  - 21st-century-idea
+  - ux
+  - web-content-managers-forum
+
+# see all authors at https://digital.gov/authors
+authors:
+  - david-fern
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
 # YouTube ID
 youtube_id: x8UvFt26MDE
 
 # Primary Image (for social media)
 primary_image: "mobilegov-event"
 
+
 # Make it better ♥
 
 ---
 
+
 The 21st Century Integrated Digital Experience Act ([21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)) requires federal websites to be "fully functional and usable on common mobile devices." Mobile-friendliness, however, can mean a variety of things, depending on the perspective of a user.
 
-David Fern, co-lead of the MobileGov Community and the Federal Crowdsource Mobile Testing Program, knows a lot about making websites and content mobile-friendly. This webinar gives you insights into his approach—the ADAPT Model—which looks to ensure that websites are mobile-friendly: 
+David Fern, co-lead of the MobileGov Community and the Federal Crowdsource Mobile Testing Program, knows a lot about making websites and content mobile-friendly. This webinar gives you insights into his approach—the ADAPT Model—which looks to ensure that websites are mobile-friendly:
 
-- **A**ssess Your Site  
-- **D**etermine Challenges  
-- **A**lign Solutions  
-- **P**erform Enhancements  
-- **T**est Again  
+- **A**ssess Your Site
+- **D**etermine Challenges
+- **A**lign Solutions
+- **P**erform Enhancements
+- **T**est Again
 
 He'll walk you through this approach, give you some resources for testing your site or content, and answer any questions that you have about mobile-friendliness.
 
---- 
+---
 
 _This event is hosted by the [MobileGov Community](https://digital.gov/communities/mobile/) and DigitalGov University. MobileGov is a GSA-sponsored community of practice focused on implementing solutions for making mobile technologies better in government._
