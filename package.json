@@ -57,11 +57,13 @@
     "npm": "^6.13.7",
     "path": "^0.12.7",
     "postcss": "^7.0.26",
+    "postcss-csso": "^4.0.0",
     "postcss-uncss": "^0.16.1",
+    "sass": "^1.25.0",
     "sharp": "^0.23.4",
     "tap": "^14.10.6",
     "uncss": "^0.16.2",
-    "uswds": "^2.4.0",
+    "uswds": "^2.5.0",
     "uswds-gulp": "github:uswds/uswds-gulp",
     "vinyl-paths": "^3.0.1"
   }

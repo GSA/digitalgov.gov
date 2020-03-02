@@ -11,7 +11,7 @@
 }
 
 
-#home #resources_featured{
+.home #resources_featured{
   @include u-padding-y(0);
   @include at-media('tablet-lg') {
     @include u-padding-y(5);

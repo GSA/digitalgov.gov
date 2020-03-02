@@ -16,7 +16,7 @@
   <nav role="navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
-        <img src="{{ "/lib/uswds/img/close.svg" | relURL }}" alt="close">
+        <img src="{{ "/uswds/img/close.svg" | relURL }}" alt="close">
       </button>
 
       {{- $currentNode := . -}}
@@ -53,14 +53,6 @@
             <button class="usa-button" name="commit" type="submit"><span class="usa-sr-only">Search</span></button>
           </div>
         </form>
-
-
-        <div class="social-icons display-none">
-          <a rel="alternate" href="https://twitter.com/digital_gov"><i class="fab fa-twitter"></i></a>
-          <a rel="alternate" href="https://www.facebook.com/digitalgov/"><i class="fab fa-facebook"></i></a>
-          <a rel="alternate" href="https://youtube.com/digitalgov"><i class="fab fa-youtube"></i></a>
-          {{ with .OutputFormats.Get "rss" -}}{{- printf `<a rel="%s" type="%s" href="%s" title="%s" ><i class="fas fa-rss-square"></i></a>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML -}}{{- end }}
-        </div>
 
       </div>
     </div>

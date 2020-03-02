@@ -3,6 +3,7 @@ site/
 public/
 content/images/_working/
 content/images/uploaded/
+themes/digital.gov/static/uswds/fonts/source-sans-pro/
 .sass-cache/
 .jekyll-metadata
 node_modules

@@ -20,7 +20,7 @@ slug: brian-fox
 email: "bfox@usgs.gov"
 
 # Bio — keep it under 50 words
-bio: "Brian Fox is Systems Development Branch Chief at the National Geospatial Technical Operations Center (NGTOC), U.S. Geological Survey (USGS)."
+bio: "Brian Fox is currently a management consultant at 18F at the General Services Administration (GSA). He has led Systems Development at U.S. Geological Survey (USGS) where he supervised development activity in support of The National Map. Brian also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas. He holds an undergraduate degree in Geography from the University of Minnesota and a MBA from the University of Missouri - Saint Louis."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""

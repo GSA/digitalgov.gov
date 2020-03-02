@@ -1,0 +1,3 @@
+---
+redirectto: /news/index.xml
+---

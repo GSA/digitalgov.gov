@@ -31,8 +31,6 @@ outputFormats:
     baseName: "siteimages"
     isPlainText: true
     notAlternative: true
-  RSS:
-    mediatype: "application/rss"
   JSON:
     mediatype: "application/json"
 
@@ -45,7 +43,7 @@ taxonomies:
 outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]
   section: ["HTML","RSS", "JSON"]
-  page: ["HTML","RSS", "JSON"]
+  page: ["HTML", "JSON"]
   taxonomy: ["HTML","RSS", "json"]
 
 # Goldmark is from Hugo 0.60 the default library used for Markdown.
@@ -85,7 +83,7 @@ params:
 refLinksNotFoundURL: https://digital.gov/resources/
 
 permalinks:
-  posts                 : ":year/:month/:day/:slug/"
+  news                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
 
 # Related Posts Config
