@@ -41,7 +41,7 @@ Example:
             {{- else -}}
               "",
             {{- end -}}
-              {{- .Permalink | absURL -}},
+              {{- .Permalink | relURL -}},
             {{- with .Params.source -}}
               "{{- . -}}",
             {{- else -}}
