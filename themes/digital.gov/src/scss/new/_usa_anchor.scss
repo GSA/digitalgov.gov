@@ -114,7 +114,7 @@
     @include u-font('sans', '2xs');
     @include at-media('tablet') {
       @include u-margin-top(0);
-      @include u-margin-left(2)
+      @include u-margin-left(2);
       @include u-padding-y(1);
       @include u-float('right');
       @include u-font('sans', 'xs');
@@ -127,13 +127,13 @@
     }
   }
   .usa-accordion__button[aria-expanded=false]{
-    background-image: url('../lib/uswds/img/angle-arrow-down-white.svg'),-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
+    background-image: url('../uswds/img/angle-arrow-down-white.svg'),-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
     background-size: .85rem;
     background-repeat: no-repeat;
     background-position: 6.65em center;
   }
   .usa-accordion__button[aria-expanded=true]{
-    background-image: url('../lib/uswds/img/angle-arrow-up-white.svg'),-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
+    background-image: url('../uswds/img/angle-arrow-up-white.svg'),-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
     background-size: .85rem;
     background-repeat: no-repeat;
     background-position: 6.65em center;
