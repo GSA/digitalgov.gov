@@ -10,6 +10,8 @@ event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/95692241069
 captions: 
 
+draft: true
+
 # start date
 date: 2020-04-02 08:30:00 -0500
 
