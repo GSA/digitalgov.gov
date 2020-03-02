@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: michael-mul
+slug: michael-mule
 display_name: "Michael Mulé"
 first_name: "Michael"
 last_name: "Mulé"
