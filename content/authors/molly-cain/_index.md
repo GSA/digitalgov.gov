@@ -30,7 +30,7 @@ agency: "DHS"
 location: ""
 
 # A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
-github: ""
+github: "Majanssen"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
