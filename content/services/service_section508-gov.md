@@ -13,7 +13,6 @@ source: 'gsa'
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 source_url: "https://www.section508.gov/"
 
-
 contact: section.508@gsa.gov
 
 # Weight control how these promos appear on the site
@@ -21,6 +20,10 @@ contact: section.508@gsa.gov
 # 1 == will show on the all services page
 # 0 == hidden promo
 weight: 1
+
+# see all authors at https://digital.gov/authors
+authors:
+  - john-sullivan
 
 # Topics that best describe this product or service
 topics:

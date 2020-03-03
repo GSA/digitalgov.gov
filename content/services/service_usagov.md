@@ -14,7 +14,7 @@ source: 'usagov'
 # originally published at the following URL
 source_url: "https://www.usa.gov/"
 
-contact: tktk
+contact: TKTK
 
 
 # Weight control how these promos appear on the site

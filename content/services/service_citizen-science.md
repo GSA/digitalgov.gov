@@ -23,6 +23,10 @@ contact: citizenscience@gsa.gov
 # 0 == hidden promo
 weight: 1
 
+# see all authors at https://digital.gov/authors
+authors:
+  - jarah-meador
+
 # Topics that best describe this product or service
 topics:
   - citizen-science

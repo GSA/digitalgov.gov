@@ -30,4 +30,8 @@ topics:
   - content-management-system
   - github
 
+# see all authors at https://digital.gov/authors
+authors:
+  - eddie-tejeda
+
 ---

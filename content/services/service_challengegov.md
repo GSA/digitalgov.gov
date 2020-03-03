@@ -25,6 +25,10 @@ topics:
   - challenges
   - innovation
 
+# see all authors at https://digital.gov/authors
+authors:
+  - jarah-meador
+    
 ---
 
 {{< button href="https://www.challenge.gov/about/" text="Post a challenge on Challenge.gov" >}}

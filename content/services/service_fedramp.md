@@ -23,6 +23,10 @@ contact: info@FedRAMP.gov
 # 0 == hidden promo
 weight: 1
 
+# see all authors at https://digital.gov/authors
+authors:
+  - ashley-mahan
+
 # Topics that best describe this product or service
 topics:
   - cloud

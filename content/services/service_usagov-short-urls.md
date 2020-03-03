@@ -20,6 +20,10 @@ contact: go.usa.gov@gsa.gov
 # 0 == hidden promo
 weight: 1
 
+# see all authors at https://digital.gov/authors
+authors:
+  - russell-oneill
+
 # Topics that best describe this product or service
 topics:
   - social-media

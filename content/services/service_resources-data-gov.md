@@ -25,6 +25,10 @@ contact: datagovhelp@gsa.gov
 # 0 == hidden promo
 weight: 1
 
+# see all authors at https://digital.gov/authors
+authors:
+  - jparcell
+
 # Topics that best describe this product or service
 topics:
   - data

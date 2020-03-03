@@ -25,6 +25,11 @@ contact: usdigitalregistry@gsa.gov
 # 0 == hidden promo
 weight: 1
 
+
+# see all authors at https://digital.gov/authors
+authors:
+  - ndavidson
+
 # Topics that best describe this product or service
 topics:
   - social-media

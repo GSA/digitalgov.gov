@@ -21,6 +21,10 @@ contact: partners@login.gov
 # 0 == hidden promo
 weight: 2
 
+# see all authors at https://digital.gov/authors
+authors:
+  - amos-stone
+
 # Topics that best describe this product or service
 topics:
   - https

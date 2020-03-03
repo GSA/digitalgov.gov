@@ -23,6 +23,10 @@ contact: code@gsa.gov
 # 0 == hidden promo
 weight: 2
 
+# see all authors at https://digital.gov/authors
+authors:
+  - joe-castle
+
 # Topics that best describe this product or service
 topics:
   - open-source
