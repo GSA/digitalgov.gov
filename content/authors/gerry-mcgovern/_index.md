@@ -37,7 +37,7 @@ github: ""
 profile_photo: ""
 
 # [e.g., Digital_Gov]
-twitter: "@gerrymcgovern"
+twitter: "gerrymcgovern"
 facebook: ""
 instagram: ""
 linkedin: ""
