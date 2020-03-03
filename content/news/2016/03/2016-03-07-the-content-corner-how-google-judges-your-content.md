@@ -58,7 +58,7 @@ As an example, [NASA](https://www.nasa.gov/) appears in three of the top four se
 
 In the end, it remains fair to say that user-focused content creation is your best SEO strategy. That is certainly the impetus behind Google’s ongoing tweaks to their algorithms and the [Quality Rater Guidelines](http://www.scribd.com/doc/217994742/General-Guidelines-1). But as I said, Google (and the other search engines) are a critical part in helping the public find our content, so we need to be aware of how well our content will abide by their rules. This means things like:
 
-  * remembering [content length](http://blog.serpiq.com/how-important-is-content-length-why-data-driven-seo-trumps-guru-opinions/) is important (the [Goldilocks Zone](http://science.nasa.gov/science-news/science-at-nasa/2003/02oct_goldilocks/) is also applicable to content),
+  * remembering content length is important (the [Goldilocks Zone](http://science.nasa.gov/science-news/science-at-nasa/2003/02oct_goldilocks/) is also applicable to content),
   * leveraging your subject matter experts to create knowledgeable content (Google implicitly discourages novice writers), and
   * citing and linking to other expert and recognized sources (like we strive to do with every post at DigitalGov).
 
