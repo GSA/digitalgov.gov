@@ -34,7 +34,7 @@ weight: 1
 
 The RPA Community of Practice (CoP) is charged with sharing solutions to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
 
-## The RPA Playbook (v1.1)
+## The RPA Playbook
 
 This playbook is designed to provide federal agencies detailed, accessible guidance for initiating a new RPA program or rapidly evolving an existing program.
 
