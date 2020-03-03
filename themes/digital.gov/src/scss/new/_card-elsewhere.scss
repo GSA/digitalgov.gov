@@ -4,8 +4,9 @@
 		@include u-flex('justify-start');
 		@include u-flex('align-start');
 	}
+
 	.icon{
-		@include u-margin-right('105');
+		@include u-margin-right(1);
 		@include u-square(7);
 		@include at-media('mobile-lg'){
 			@include u-square(7);

@@ -18,7 +18,7 @@
       <div class="summary">{{ .Params.summary | markdownify }}</div>
       {{- end -}}
 
-      {{- partial "core/get_authors_short" . -}}
+      {{- partial "core/get_authors_short" (dict "page" . ) -}}
 
       <div class="meta">
         <div class="date">{{ dateFormat "Jan 02, 2006" .Date }}</div>
