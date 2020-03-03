@@ -1,9 +1,9 @@
 name: "Mark stale issues and pull requests"
 
-# Run every Friday at midnight
+# Run at 07:00 on every Monday
 on:
   schedule:
-  - cron: "0 0 * * *"
+  - cron: "0 7 * * mon"
 
 jobs:
   stale:
