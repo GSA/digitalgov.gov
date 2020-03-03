@@ -49,5 +49,5 @@ The AI CoP will bring together federal employees to:
 - facilitate the sharing of best practices, use cases, and lessons learned, and
 - advance and share tools, playbooks success stories with a community of interested professionals.
 
-## **Past Meetings**
+## Past Meetings
  - [**February AI Community of Practice Meeting**](https://youtu.be/iFHPS7ieheQ)
