@@ -2,6 +2,7 @@
 # View this page at https://digital.gov/event/2020/05/2020-government-ux-summit
 # Learn how to edit our pages at https://workflow.digital.gov
 
+short_url: https://go.usa.gov/xdfwr
 slug: call-for-government-ux-summit
 date: 2020-02-27 9:00:00 -0500
 kicker: UX
