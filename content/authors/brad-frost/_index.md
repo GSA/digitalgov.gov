@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "I'm Brad Frost, a web designer, speaker, consultant, writer, and musician located in beautiful Pittsburgh, PA."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
@@ -27,10 +27,10 @@ agency_full_name: ""
 agency: ""
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: ""
+location: "Pittsburgh, PA"
 
 # A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
-github: ""
+github: "bradfrost"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
