@@ -17,11 +17,11 @@ logo: "opm"
 
 contact: "lab@opm.gov"
 
-# Weight control how these promos appear on the site
-# 2 == will be part of the rotation on the homepage
-# 1 == will show on the all services page
-# 0 == hidden promo
-weight: 2
+# Weight — controls how services appear across the site
+# 2 == will appear as related service (ADs) on blog posts and event pages
+# 1 == will appear on the tools and services page, and all related topic pages
+# 0 == hides this service from all pages, but URL is still public
+weight: 1
 
 # Topics that best describe this product or service
 topics:
