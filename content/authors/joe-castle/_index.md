@@ -37,12 +37,12 @@ github: "jcastle"
 profile_photo: "github"
 
 # [e.g., Digital_Gov]
-twitter: "@codedotgov"
+twitter: "codedotgov"
 facebook: ""
 instagram: ""
 linkedin: "code.gov"
 youtube: ""
-medium: "@codedotgov"
+medium: "codedotgov"
 
 # Make it better ♥
 ---
