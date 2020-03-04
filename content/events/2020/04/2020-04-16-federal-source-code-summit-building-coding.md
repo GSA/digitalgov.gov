@@ -90,6 +90,9 @@ Panelists:
 
 **Karen Trebon** is the Lead for the Smarter IT Delivery Portfolio, one of five in the Technology Transformation Services within the Federal Acquisition Service at the U.S. General Services Administration. She manages the people, budget, and contracts that power Search.gov and Code.gov. Karen has been with GSA since 2002. She has a Bachelors in Government from the University of Maryland College Park and a Masters in Public Administration from George Washington University. She is also a certified Project Management Professional (PMP). Prior to GSA, Karen worked for Amplify Public Affairs and the American Power Association. She also worked in Annapolis, and also did three brief stints on Capitol Hill with Senator Sarbanes, Representative Hoyer, and the House Energy and Commerce Committee. 
 
+**Brian Lee** is the Senior Advisor for Informatics to Centers for Disease Control and Prevention's Office of the Chief Information Officer where he work with data to make better technology investments to improve public health impact. Brian is the program official for [open.cdc.gov](https://open.cdc.gov) and [data.cdc.gov](https://data.cdc.gov), helping public health programs across all CDC centers, institutes, and offices connect open technology with public health communities. Brian joined CDC in 2012 as the Deputy Director for the Informatics Innovation Unit and later served as the Chief Public Health Informatics Officer for the Office of Public Health Scientific Services. Brian is a self-taught programmer and holds a BBA from Georgia State University, an MPH from Emory University, and multiple certifications.
+
+
 ## Related Links:
 
  - [Crowdsourcing for Code!](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/) 
