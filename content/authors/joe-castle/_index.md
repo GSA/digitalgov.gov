@@ -1,24 +1,24 @@
 ---
-# View this page at https://digital.gov/authors/joe-castle
+# View this page at https://digital.gov/authors/joseph-castle
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: joe-castle
-display_name: "Joe Castle"
-first_name: "Joe"
+slug: joseph-castle
+display_name: "Joseph Castle"
+first_name: "Joseph"
 last_name: "Castle"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
+pronoun: "he/him"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: joseph.castle@gsa.gov
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Joseph Castle serves as the Director of Code.gov where he is responsible for the implementation of the White House’s Federal Source Code Policy (FSCP). His duties with Code.gov include the development of the technical platform and federal agency progress with policy implementation. Mr. Castle served in the Obama Administration, is a recent Fed100 recipient, and a Ph.D. candidate with a dissertation focused on OSS publication in the federal sector."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url: "https://www.linkedin.com/in/jrcastle/"
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
@@ -37,11 +37,12 @@ github: "jcastle"
 profile_photo: "github"
 
 # [e.g., Digital_Gov]
-twitter: ""
+twitter: "@codedotgov"
 facebook: ""
 instagram: ""
-linkedin: ""
+linkedin: "code.gov"
 youtube: ""
+medium: "@codedotgov"
 
 # Make it better ♥
 ---
