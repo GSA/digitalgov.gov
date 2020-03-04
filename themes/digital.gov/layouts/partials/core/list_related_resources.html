@@ -1,7 +1,6 @@
 {{/* Key Resources — 
 A list of the most important resources tagged with the same topic */}}
 
-
 {{/* Define the $resources variable */}}
 {{- $resources := "" -}}
 
@@ -29,43 +28,58 @@ A list of the most important resources tagged with the same topic */}}
       {{/* If an external link  */}}
       {{- if or .Params.source_url .Params.source -}}
 
-      <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
-        <a class="" href="{{- .Params.source_url -}}?=dg" title="{{- .Title | markdownify -}}">
+        {{/* If there is a defined source for this page */}}
+        {{- if .Params.source -}}
+          {{/* Get the source data */}}
+          {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
+          {{/* If there is a logo defined in the source */}}
+          {{- if $source.Params.logo -}}
+            {{/* get the path for the icon — e.g. 18f-icon.png */}}
+            {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
+            {{/* Pass these vars into the list item template (botton of page) */}}
+            {{- template "list-item-resource" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
 
-          {{/* If there is a defined source for this page */}}
-          {{- if .Params.source -}}
-            {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
-            {{- if $source.Params.icon -}}
-
-              {{- $src := (printf "/logos/%s%s" $source.Params.icon "-icon.png") -}}
-              <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} icon"/><span>{{- .Title | markdownify -}}</span>
-
-            {{- end -}}
-
-          {{/* No source? let's attempt to get the favicon for the URL */}}
-          {{- else -}}
-            <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo"/><span>{{- .Title | markdownify -}}</span>
           {{- end -}}
-
-        </a>
-        {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}
-      </li>
+        {{/* No source? let's attempt to get the favicon for the URL */}}
+        {{- else -}}
+          {{/* get the Favicon via Google Favicon service */}}
+          {{- $src := (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) -}}
+          {{/* Pass these vars into the list item template (botton of page) */}}
+          {{- template "list-item-resource" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+        {{- end -}}
 
       {{/* If an internal link... */}}
       {{- else -}}
-      <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
-        <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}} ">
 
-          {{/* Use the digital.gov logo */}}
-          {{- $source_url := (print "/img/digit-50.png") -}}
-          <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Page.Title | markdownify -}}</span>
+        {{/* Use the digital.gov logo */}}
+        {{/* Pass these vars into the list item template (botton of page) */}}
+        {{- template "list-item-resource" dict "item" . "href" (print .Params.source_url "?dg") "src" (print "/img/digit-50.png") -}}
 
-        </a>
-        {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}
-      </li>
       {{- end -}}
 
     {{- end -}}
   </ul>
 </div>
+{{- end -}}
+
+{{- define "list-item-resource" -}}
+  {{- $href := .href -}}
+  {{- $src := .src -}}
+  {{- with .item -}}
+  <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+    <a href="{{- $href -}}" title="{{- .Title | markdownify -}}">
+
+      {{- template "icon-resource" dict "item" . "src" $src -}}
+
+    </a>
+    {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}
+  </li>
+  {{- end -}}
+{{- end -}}
+
+{{- define "icon-resource" -}}
+  {{- $src := .src -}}
+  {{- with .item -}}
+    <img src="{{ $src | relURL }}" alt="{{- .Params.name }} icon"/><span>{{- .Title | markdownify -}}</span>
+  {{- end -}}
 {{- end -}}
