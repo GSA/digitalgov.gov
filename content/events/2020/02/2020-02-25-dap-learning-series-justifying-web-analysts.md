@@ -1,10 +1,11 @@
 ---
 # View this page at https://digital.gov/event/2020/02/dap-learning-series-justifying-web-analysts
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: dap-learning-series-justifying-web-analysts
 kicker: "DAP Learning Series"
 title: "Justifying the Web Analyst's Role in Your Organization"
-deck: "How to justify an analysts role on your team and make a business case for this person your team."
+deck: "How to justify an analysts role on your team and make a business case for this person to leadership."
 summary: "In this workshop, we'll address how to think about justifying an analyst role on your team, and talk about the role's many hats, as well as making the business case to your leadership team."
 host: "Digital Analytics Program (DAP)"
 event_organizer: "Digital.gov"
