@@ -3,7 +3,7 @@
 title: "PlainLanguage.gov"
 
 # Keep it short — should be no longer than 10 words.
-summary: "Guidance on the use of plain language for government communications."
+summary: "Guidance on the use of plain language for government communications and training for federal employees."
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes

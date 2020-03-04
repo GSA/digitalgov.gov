@@ -17,6 +17,7 @@ source_url: "https://10x.gsa.gov/"
 authors:
   - nico-papafil
   - will-cahoe
+  - sarah-crane
 
 contact: 10x@gsa.gov
 
