@@ -50,4 +50,4 @@ The AI CoP will bring together federal employees to:
 - advance and share tools, playbooks success stories with a community of interested professionals.
 
 ## Past Meetings
- - [**February AI Community of Practice Meeting**](https://youtu.be/iFHPS7ieheQ)
+ - [**February AI Community of Practice Meeting - HHS Data Insights Initiative**](https://youtu.be/iFHPS7ieheQ)
