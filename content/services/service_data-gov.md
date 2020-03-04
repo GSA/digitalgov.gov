@@ -15,7 +15,7 @@ source_url: "https://data.gov/"
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: "datagov"
+logo: "datagov"
 
 contact: datagovhelp@gsa.gov
 

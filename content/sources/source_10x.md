@@ -14,5 +14,5 @@ domain: 'https://10x.gsa.gov/'
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
-icon: "10x"
+logo: "10x"
 ---

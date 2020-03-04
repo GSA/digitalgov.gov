@@ -79,8 +79,8 @@
       {{ range $reusablePages }}
 
         <article class="promo">
-          {{ if .Params.icon }}
-          {{ $src := (print "/logos/" .Params.icon) }}
+          {{ if .Params.logo }}
+          {{ $src := (print "/logos/" .Params.logo) }}
           <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
           {{ end }}
           <h3><a href="{{ .Params.source_url }}?dg" title="{{ .Params.name }}">{{ .Params.name }}</a></h3>

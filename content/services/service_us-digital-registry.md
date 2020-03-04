@@ -15,7 +15,7 @@ summary: "An inventory of official government social media accounts, mobile webs
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: 'digitalgov'
+logo: 'digitalgov'
 
 contact: usdigitalregistry@gsa.gov
 

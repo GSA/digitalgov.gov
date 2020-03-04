@@ -13,7 +13,7 @@ source_url: "https://plainlanguage.gov/"
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: "plainlanguage"
+logo: "plainlanguage"
 
 contact: info@plainlanguage.gov
 

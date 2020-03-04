@@ -59,7 +59,7 @@
       {{/* Finally we can loop through all of the promos/files */}}
       {{ range $reusablePages }}
         <li>
-          <a href="{{ .Params.source_url }}?dg"><strong>{{ .Params.name }}</strong> {{- if .Params.icon -}}{{- $src := (print "/logos/" .Params.icon) -}}<img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">{{- end -}}</a>{{- if .Params.summary }} — {{ .Params.summary -}}{{- end -}}
+          <a href="{{ .Params.source_url }}?dg"><strong>{{ .Params.name }}</strong> {{- if .Params.logo -}}{{- $src := (print "/logos/" .Params.logo) -}}<img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">{{- end -}}</a>{{- if .Params.summary }} — {{ .Params.summary -}}{{- end -}}
         </li>
       {{- end -}}
 

@@ -13,7 +13,7 @@ source_url: "https://analytics.usa.gov/"
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: 'analytics-usa-gov'
+logo: 'analytics-usa-gov'
 
 # see all authors at https://digital.gov/authors
 authors:

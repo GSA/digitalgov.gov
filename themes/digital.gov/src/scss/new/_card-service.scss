@@ -9,7 +9,7 @@
     @include u-border-top(0);
   }
 
-  .icon{
+  .logo{
     @include u-margin-right('105');
     @include u-square(6);
     @include at-media('mobile-lg'){
