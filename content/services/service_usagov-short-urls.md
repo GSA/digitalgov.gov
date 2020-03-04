@@ -37,8 +37,6 @@ Short URLs have become an essential part of social media communications. They ma
 
 [Go.USA.gov](http://go.usa.gov/) is a URL shortener that lets anyone with a government email address create short, trustworthy .gov URLs. Go.USA.gov only shortens government URLs—that is: .mil, .gov, .fed.us, .si.edu, and .state.xx.us URLs. You must have a verifiable U.S. federal, state, or local government email address to register for a Go.USA.gov account. Visit [Go.USA.gov](http://go.usa.gov/) to sign up now. Using Go.USA.gov is easy: Just sign in, copy and paste the government URL and click shorten. Over 12,000 government employees already use <a href="http://go.usa.gov/" target="_blank">Go.USA.gov</a> and have shortened more than 340,000 URLs.
 
-##
-
 ## Quick Facts
 
   * The public can click on Go.USA.gov URLs knowing they will lead to official U.S. government information.
