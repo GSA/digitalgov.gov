@@ -17,14 +17,14 @@ date: 2020-02-11 14:00:00 -0500
 end_date: 2020-02-11 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - code
   - innovation
   - open
   - open-source
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - tammy-white
 
 # Event platform (zoom, youtube_live, adobe_connect)
@@ -33,6 +33,9 @@ event_platform: zoom
 # YouTube ID
 youtube_id: MzAuMy6LIjY
 
+# Primary Image (for social media)
+primary_image: "challenge-card-episode-7"
+
 # Make it better ♥
 
 ---
@@ -40,7 +43,7 @@ youtube_id: MzAuMy6LIjY
 The U.S. government spends billions of dollars annually on information technology (IT). Whether sustaining legacy systems or procuring highly customized applications, the costs add up.
 
 So it’s not surprising that the [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html) pinpoints IT modernization as a key driver of transformation—capable of speeding service delivery, cutting costs to taxpayers, and improving how citizens interact with, perceive, and trust federal agencies.
-  
+
 [Code.gov](http://www.code.gov), a program known for maintaining “America’s code,” is working toward that mission with a crowdsourcing call-to-action to software designers, developers, and other civic-tech professionals from industry to iterate on open-source code solutions with federal colleagues.
 
 Managed by the General Services Administration (GSA), Code.gov hosts an [Open Task Repository](https://www.code.gov/open-tasks), a collection of open-source software projects listed by federal agencies as open for collaboration. Governed by the program’s recently updated [Contributor Code of Conduct](https://medium.com/codedotgov/new-decade-new-code-gov-code-of-conduct-d8402a79a34b), the program is building an inclusive and collegial community with technologists across the country.
