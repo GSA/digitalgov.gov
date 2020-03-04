@@ -19,7 +19,7 @@ contact: inquiries18F@gsa.gov
 # 2 == will appear as related service (ADs) on blog posts and event pages
 # 1 == will appear on the tools and services page, and all related topic pages
 # 0 == hides this service from all pages, but URL is still public
-weight: 1
+weight: 0
 
 # Topics that best describe this product or service
 topics:
