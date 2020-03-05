@@ -3,9 +3,9 @@
 # Your author profile page lives at:
 # https://digital.gov/authors/kristen-onell
 
-display_name: "Kristen O&#39;Nell"
+display_name: "Kristen O'Nell"
 first_name: "Kristen"
-last_name: "O&#39;Nell"
+last_name: "O'Nell"
 
 # Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
 # List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
