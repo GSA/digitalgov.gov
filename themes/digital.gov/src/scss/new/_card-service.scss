@@ -53,6 +53,9 @@
 
 .services-contacts{
   @include u-bg('base-lighter');
+  .header-news{
+    @include u-margin-bottom(5);
+  }
 }
 .card-service-contact-heading{
   @include u-display('none');
