@@ -56,6 +56,7 @@ In her previous position, she served as the digital media manager at the Corpora
 Previously, Duquette was an FAA national media spokesperson and handled a wide range of issues and policies, including the September 11th terrorist attacks, accidents and emergencies, international safety programs, regulations, aircraft certification, and passenger safety. From June 1990 to April 1995, Duquette was the manager of member relations for the Aerospace Industries Association (AIA).
 
 {{< img-right src="kristen-alsop" >}}
+
 **Kristen Alsop** is the Digital Communications Strategist for the Federal Aviation Administration (FAA). Working with the manager and other communications team members, she develops communications strategies on drones, commercial space transportation, safety and public engagement campaigns and social media content.
 
 Previously, Alsop worked for the FAA’s Corporate Communications team on workforce engagement and safety campaigns, video and podcast production, web content creation, and wrote articles, newsletters, speeches and scripts.
