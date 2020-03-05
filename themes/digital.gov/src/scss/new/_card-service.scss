@@ -85,7 +85,11 @@
       }
     }
 
+    div{
+      flex: 1;
+    }
     .icon{
+      flex: none;
       img{
         @include u-margin-right(1);
         @include u-width(2);
@@ -93,6 +97,7 @@
         @include u-top('2px');
       }
     }
+
     h3{
       @include u-font('sans', 'sm');
       @include u-line-height('sans', 3);
