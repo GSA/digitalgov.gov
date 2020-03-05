@@ -1,6 +1,7 @@
 ---
 # View this page at https://digital.gov/event/2018/04/marketingasaservice-an-introduction-usagovs-partnership-toolkit
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: marketingasaservice-an-introduction-usagovs-partnership-toolkit
 title: "Marketing-as-a-Service: An Introduction to USAGov's Partnership Toolkit"
 deck: ""
