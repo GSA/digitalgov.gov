@@ -22,73 +22,37 @@
     </div>
   </div>
 
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row tablet-lg:grid-gap-2">
-      <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
-
-      {{/* Gets all service pages */}}
-      {{- $services := (where .Site.Pages "Section" "services") -}}
-
-      {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-      {{- $services_featured := (where $services ".Params.weight" "ge" 1) -}}
-
-      {{- with $services_featured -}}
-
-        {{- range sort . "Title" -}}
-
-          {{- .Render "card-service" -}}
-
-        {{- end -}}
-      {{- end -}}
-      </div>
-    </div>
-  </div>
-
-  <section class="usa-section services-contacts">
-    <div class="grid-container grid-container-desktop-lg">
-      <div class="grid-row">
+  <section class="services-list">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-2">
         <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
 
-          <header class="header-news">
-            <h2>Directory of services, tools, and teams</h2>
-            <p>An easy way to connect with the teams that make these free and low-cost services tools and services.</p>
+        {{/* Gets all service pages */}}
+        {{- $services := (where .Site.Pages "Section" "services") -}}
 
+        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+        {{- $services_featured := (where $services ".Params.weight" "ge" 1) -}}
 
-          </header>
-        </div>
-      </div>
-      <div class="grid-row">
-        <div class="grid-col-12">
+        {{- with $services_featured -}}
 
-          {{/* Gather all the service pages */}}
-          {{- with $services -}}
+          {{- range sort . "Title" -}}
 
-            <div class="card card-service-contact card-service-contact-heading">
-              <div class="grid-row grid-gap-2">
-                <div class="grid-col-12 tablet:grid-col-3">
-                  <strong>Name</strong>
-                </div>
-                <div class="grid-col-12 tablet:grid-col-5">
-                  <strong>Description</strong>
-                </div>
-                <div class="grid-col-12 tablet:grid-col-4">
-                  <strong>Contact</strong>
-                </div>
-              </div>
-            </div>
-
-            {{- range sort . "Title" -}}
-
-              {{- .Render "card-service-contact" -}}
-
-            {{- end -}}
+            {{- .Render "card-service" -}}
 
           {{- end -}}
+        {{- end -}}
+        </div>
+      </div>
+
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <footer>
+            <a class="btn" href="{{- "services/directory" | absURL -}}" title=""><span>See the full directory</span> <i class="fas fa-arrow-circle-right"></i></a>
+          </footer>
         </div>
       </div>
     </div>
   </section>
-
 
 </main>
 

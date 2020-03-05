@@ -3,6 +3,17 @@
   .paper{
     // @include u-bg('indigo-80');
   }
+
+  .services-list{
+    footer{
+  		@include u-margin-y(2);
+  		@include u-text('center');
+  		p{
+  			@include u-maxw('full');
+  		}
+  	}
+  }
+
 }
 
 header.header-services{

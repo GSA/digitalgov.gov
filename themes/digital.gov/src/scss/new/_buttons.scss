@@ -38,9 +38,12 @@ a.btn{
 	i{
 		@include u-margin-left('05');
 	}
-	transition: background-color .2s, border-color .2s;
+	transition: background-color .2s, border .2s, border-color .2s;
 	&:hover{
 		@include u-bg('indigo-70');
+		span{
+			@include u-border-bottom('2px','white','solid');
+		}
 	}
 }
 a.btn-sm{

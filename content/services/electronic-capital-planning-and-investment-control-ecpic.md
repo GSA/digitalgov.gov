@@ -1,7 +1,7 @@
 ---
 title: 'Electronic Capital Planning and Investment Control (eCPIC)'
 summary: "An application helps automate capital planning and portfolio management processes for enabling government agencies to effectively mature their investment management strategies and achieve agency mission goals and objectives."
-
+contact: ecpic.pmo@gsa.gov
 source: "digitalgov"
 logo: 'digitalgov'
 
