@@ -70,9 +70,9 @@ We're looking for presentations in the following formats:
  
 ## Call for Presenters
 
-With their agency’s approval, only U.S. government employees (federal, state, tribal, and local) and contractors **with U.S. government email addresses** are all eligible to present. This is to ensure that the event supports government UX work.  Speakers from outside Washington, DC can present remotely. 
+Only U.S. government employees (federal, state, tribal, and local) and contractors **with a U.S. government email address**&mdash;and with their agency’s approval&mdash;are eligible to present. This is to ensure that the event supports government UX work. Speakers from outside Washington, DC can present remotely. 
 
-{{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}}
+{{< highlight >}}**Submissions are due by close of business on Friday, March 6**. {{< /highlight >}} 
 
 For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov).
 
