@@ -44,7 +44,7 @@ This playbook is designed to provide federal agencies detailed, accessible guida
 ## RPA Use Cases
 This playbook is designed to provide federal agencies detailed, accessible guidance for initiating a new RPA program or rapidly evolving an existing program.
 
-{{< button href="https://feedback.gsa.gov/jfe/form/SV_5AuaO2sJP5Pbi4J" text="Submit a RPA Use Case" >}}
+{{< button href="https://feedback.gsa.gov/jfe/form/SV_5AuaO2sJP5Pbi4J" text="Submit an RPA Use Case" >}}
 
 
 
@@ -89,8 +89,6 @@ The community is organized into 10 practice areas, with assigned leaders from im
 ## What We Do
 
 The community achieves its mission through information sharing, identification and definition of options, best practices, methods and standards for RPA implementation and operations. It does not set policy, but policy-setting agencies are encouraged to participate and make use of the community’s base of knowledge, information, and experience.
-
-This community consists of representatives from more than 50 federal agencies, with more than 750 confirmed members.
 
 ---
 
