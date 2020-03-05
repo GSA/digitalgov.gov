@@ -1,4 +1,7 @@
-.topics{
+// The styles for .topics-list 
+// (those topics that can be found on the article and event pages).
+
+.topics-list{
   @include u-margin-y(2);
   @include u-font('sans', '2xs');
   @include u-text('normal');
