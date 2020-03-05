@@ -34,7 +34,7 @@
     <p>{{- .Params.summary | markdownify -}}</p>
 
     {{- if .Params.authors -}}
-      {{- partial "core/get_authors_short" (dict "page" . "contact" .Params.contact ) -}}
+      {{- partial "core/get_authors_short" (dict "page" . ) -}}
     {{- end -}}
 
   </div>

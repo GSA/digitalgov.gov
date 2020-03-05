@@ -3,6 +3,7 @@
 title: "18F"
 
 # Keep it short — should be no longer than 10 words.
+deck: "We help government agencies fix technical problems, build products, and improve how government serves the public through technology."
 summary: "We help government agencies fix technical problems, build products, and improve how government serves the public through technology."
 
 
