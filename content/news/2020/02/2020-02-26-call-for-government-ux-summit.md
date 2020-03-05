@@ -31,6 +31,14 @@ primary_image: "ux-government-summit-2020"
 
 ---
 
+## Call for Presenters
+
+Only U.S. government employees (federal, state, tribal, and local) and contractors **with a U.S. government email address**&mdash;and with their agency’s approval&mdash;are eligible to present. This is to ensure that the event supports government UX work. Speakers from outside Washington, DC can present remotely. 
+
+{{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}} 
+
+Scroll down to see the topics and presentation formats. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov). 
+
 {{< img src="ux-government-summit-2020" >}}
 
 Join us for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
@@ -71,15 +79,6 @@ We're looking for presentations in the following formats:
  - 10-minute presentations, where speakers can present short discussions or brief highlights
  - 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
  - 90-minute sessions, where speakers can provide more in-depth training on a UX method
- 
-## Call for Presenters
-
-Only U.S. government employees (federal, state, tribal, and local) and contractors **with a U.S. government email address**&mdash;and with their agency’s approval&mdash;are eligible to present. This is to ensure that the event supports government UX work. Speakers from outside Washington, DC can present remotely. 
-
-
-{{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}} 
-
-For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov).
 
 ---
 
