@@ -75,6 +75,15 @@
 
         p{
           @include u-margin-top(0);
+          a{
+            @include u-text('no-underline', !important);
+            @include u-text('medium');
+            &:hover{
+              span{
+                @include u-border-bottom('1px', 'blue-warm-70v', 'solid');
+              }
+            }
+          }
         }
 
       }
