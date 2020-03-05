@@ -68,12 +68,12 @@ We're looking for presentations in the following formats:
  - 10-minute presentations, where speakers can present short discussions or brief highlights
  - 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
  - 90-minute sessions, where speakers can provide more in-depth training on a UX method
+ 
+ Only government employees (at all levels of U.S. government) and contractors with U.S. government email addresses (with their agency’s approval) are all eligible to present. This is to ensure that the event supports government UX work. Speakers from outside DC can present remotely.
 
 {{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}}
 
 For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov).
-
-U.S. local, state, tribal, and federal government employees (all levels) and contractors with U.S. government email addresses (with their agency’s approval) are all eligible to present. Speakers from outside DC can present remotely.
 
 ---
 
