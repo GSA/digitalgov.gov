@@ -44,10 +44,12 @@ Many questions exist in terms of how to engage in an effective acquisition and p
 
 ## Presenters
 
-**Omid Ghaffari-Tabrizi**
+**Omid Ghaffari-Tabrizi** 
+
 As the Acquisition Lead focusing on program management at the IT Modernization Centers of Excellence (CoE), Omid stood up the acquisition team that supports internal needs as well as those of each of the CoE agency partners. He leads the modernization efforts for procurement processes and acquisition shops within GSA, as well as throughout the government. Culminating in the efforts currently underway at the Joint Artificial Intelligence Center (JAIC) and Department of Labor, Omid's work has developed tools and the processes that use those tools to buy the latest technology being implemented in the government, including AI and RPA. Prior to joining the CoE, Omid did similar work for [login.gov](http://login.gov/) and the 18F Office of Acquisitions. Before joining the government, Omid was an attorney specializing in contract law.
 
-**Keith Nakasone**
+**Keith Nakasone** 
+
 Mr. Keith Nakasone is the Deputy Assistant Commissioner, Acquisition Management, within the Office of Information Technology Category (ITC) in GSA’s Federal Acquisition Service (FAS). The Federal Acquisition Service provides buying platforms and acquisition services to Federal, State and Local governments for a broad range of items from office supplies to motor vehicles to information technology and telecommunications products and services. As an organization within FAS, ITC provides access to a wide range of commercial and custom IT products, services and solutions.
 
 Acquisition Management provides oversight of strategy development, internal training for the acquisition workforce, and system support for executing ITC’s acquisition, some of the largest in government, such as Schedule 70, IT Governmentwide Acquisition Contracts (GWACs) and Telecommunications contracts such as Networx and Enterprise Infrastructure Solutions (EIS). Additionally, the office establishes training and development programs to ensure a trained, engaged, innovative, and forward-thinking acquisition workforce.
