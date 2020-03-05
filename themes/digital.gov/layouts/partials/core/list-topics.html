@@ -1,7 +1,7 @@
 {{/*
   ======================================
   TOPICS
-  The styles for .topics-list
+  The styles for .list-topics
   (those topics that can be found on the article and event pages).
   ======================================
 */}}
@@ -10,7 +10,7 @@
 
 {{/* Checks if there are topics applied to this page */}}
 {{- if .Params.topics -}}
-<div class="topics-list">
+<div class="list-topics">
   {{/* Sets the taxonomy we're pulling here */}}
   {{- $taxonomy := "topics" -}}
   {{- $topics := .Param $taxonomy -}}
