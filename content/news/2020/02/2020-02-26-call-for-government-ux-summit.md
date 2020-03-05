@@ -82,6 +82,6 @@ We're looking for presentations in the following formats:
 
 ---
 
-_The 2020 Government UX Summit is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and Digital.gov._
+_The Government UX Summit 2020 is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and Digital.gov._
 
 _[**Join the UX CoP**](https://digital.gov/communities/user-experience/) is a group of more than 1,200 federal, tribal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide training, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join._
