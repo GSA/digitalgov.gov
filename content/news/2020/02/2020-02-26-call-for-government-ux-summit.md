@@ -47,6 +47,8 @@ _Registration page coming soon ..._
 
 ## What we're looking for
 
+### Topics 
+
 We are currently seeking submissions for presentations on topics such as:
 
  - Design and evaluation methods _(especially more applied topics, such as training with a particular method)_
@@ -62,6 +64,8 @@ We are currently seeking submissions for presentations on topics such as:
 
 _See the [presentations from the 2019 Government UX Summit]({{< ref "2019-05-15-2019-government-ux-summit.md" >}})_
 
+### Format 
+
 We're looking for presentations in the following formats:
 
  - 10-minute presentations, where speakers can present short discussions or brief highlights
@@ -71,6 +75,7 @@ We're looking for presentations in the following formats:
 ## Call for Presenters
 
 Only U.S. government employees (federal, state, tribal, and local) and contractors **with a U.S. government email address**&mdash;and with their agency’s approval&mdash;are eligible to present. This is to ensure that the event supports government UX work. Speakers from outside Washington, DC can present remotely. 
+ 
 
 {{< highlight >}}**Submissions are due by close of business on Friday, March 6**. {{< /highlight >}} 
 
