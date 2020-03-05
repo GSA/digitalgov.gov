@@ -21,7 +21,7 @@ authors:
   - nina-bianchi
 
 # primary Image (for social media)
-primary_image: "oko"
+primary_image: "learning-culture-coffee-chats"
 
 
 # Make it better ♥
