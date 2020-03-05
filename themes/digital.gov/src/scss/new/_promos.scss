@@ -5,30 +5,13 @@
   @include u-margin-y(1);
   @include u-padding(1);
   @include u-bg('gray-warm-3');
-  // @include u-border('1px','gray-warm-10','solid');
-  // @include u-radius('md');
+  @include u-border('1px','gray-warm-10','solid');
+  @include u-radius('md');
   & > div{
     @include u-display('flex');
-    @include u-flex('column');
     @include u-flex('align-center');
-    @include u-flex('justify-center');
+    @include u-flex('justify');
   }
-
-  .logo{
-    @include u-square(6);
-    @include at-media('mobile-lg'){
-      @include u-square(7);
-    }
-
-    img{
-      @include u-circle(6);
-      @include at-media('mobile-lg'){
-        @include u-circle(7);
-      }
-      @include u-border('1px', 'gray-cool-10', 'solid');
-    }
-  }
-
   h3{
     @include u-margin(0);
     @include u-font('sans', 'sm');
@@ -67,12 +50,20 @@
     @include u-padding-y('2px');
     @include u-radius('pill');
   }
-
+  img{
+    @include u-margin-top(0);
+    @include u-width(3);
+  }
+  img.thumb{
+    @include u-margin-top('05');
+    @include u-margin-right(2);
+    @include u-width(5);
+    @include u-height(5);
+  }
   p{
     @include u-margin-top(0);
-    @include u-display('none');
-    @include u-font('sans', '2xs');
-    @include u-line-height('sans', 2);
+    // @include u-font('sans', 'md');
+    // @include u-line-height('sans', 3);
   }
   a{
     @include u-text('indigo-80');
