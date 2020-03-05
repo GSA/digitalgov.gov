@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2018/04/dap-learning-series-creating-your-own
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-creating-your-own-campaign-url-builder
-title: "DAP Learning Series: Creating Your Own Campaign URL builder"
+title: "DAP Learning Series: Creating Your Own Campaign URL Builder"
 deck: ""
 summary: "This online event will cover how to create a campaign URL in Google Analtyics and how to effectively implement it."
 host: "Digital Analytics Program"
