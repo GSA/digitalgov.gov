@@ -45,7 +45,8 @@ at the Library of Congress ([map](https://www.google.com/maps/place/Library+of+C
 _Registration page coming soon ..._
 {{< /box >}}
 
-## Call for Presenters
+## What we're looking for
+
 We are currently seeking submissions for presentations on topics such as:
 
  - Design and evaluation methods _(especially more applied topics, such as training with a particular method)_
@@ -61,15 +62,15 @@ We are currently seeking submissions for presentations on topics such as:
 
 _See the [presentations from the 2019 Government UX Summit]({{< ref "2019-05-15-2019-government-ux-summit.md" >}})_
 
-## What we're looking for
-
 We're looking for presentations in the following formats:
 
  - 10-minute presentations, where speakers can present short discussions or brief highlights
  - 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
  - 90-minute sessions, where speakers can provide more in-depth training on a UX method
  
- Only government employees (at all levels of U.S. government) and contractors with U.S. government email addresses (with their agency’s approval) are all eligible to present. This is to ensure that the event supports government UX work. Speakers from outside DC can present remotely.
+## Call for Presenters
+
+With their agency’s approval, only U.S. government employees (federal, state, tribal, and local) and contractors **with U.S. government email addresses** are all eligible to present. This is to ensure that the event supports government UX work.  Speakers from outside Washington, DC can present remotely. 
 
 {{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}}
 
