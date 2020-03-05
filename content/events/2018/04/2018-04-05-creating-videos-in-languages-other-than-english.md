@@ -1,28 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2018/04/creating-videos-in-languages-other-than
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: creating-videos-in-languages-other-than-english
-title: 'Creating Videos in Languages Other Than English'
-summary: 'Join the Multilingual and Video Production Pros Communities of Practice for a talk about a video the CFPB created, for a Spanish speaking audience.'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-04-05 11:00:00 -0500
-end_date: 2018-04-05 12:00:00 -0500
-event_organizer: DigitalGov University
-host:
+title: "Creating Videos in Languages Other Than English"
+deck: ""
+summary: "Join the Multilingual and Video Production Pros Communities of Practice for a talk about a video the CFPB created, for a Spanish speaking audience."
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/creating-videos-in-languages-other-than-english-registration-44340580871
-youtube_id: aQXHz9CDtGE
-aliases:
-  - /event/creating-videos-in-languages-other-than-english/
-topics:
-  - content
+captions: 
+
+# start date
+date: 2018-04-05 12:00:00 -0500
+
+# end date
+end_date: 2018-04-05 13:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - audio-video
+  - content
   - multilingual
   - video
   - multilingual-community
   - multimedia
   - video-production-pros-community
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - lgodfrey
+  - bryce-spivey
+
+# YouTube ID
+youtube_id: aQXHz9CDtGE
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/creating-videos-in-languages-other-than-english/
+
+# Make it better ♥
 
 ---
 
