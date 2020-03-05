@@ -20,8 +20,9 @@ end_date: 2018-06-07 15:00:00 -0500
 topics: 
   - analytics
   - digital-analytics-program
-  - digitalgov-search
-  - usagov
+  - google-analytics
+  - metrics
+  - dap
 
 # see all authors at https://digital.gov/authors
 authors: 
