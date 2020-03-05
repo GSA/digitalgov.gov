@@ -32,15 +32,25 @@ weight: 1
 # Make it better ♥
 ---
 
-The RPA Community of Practice (CoP) pursues a bifurcated mission. First, the organization is charged with sharing solutions to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This portion of the mission includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
+The RPA Community of Practice (CoP) is charged with sharing solutions to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
 
-The second element of the RPA CoP mission is to provide knowledge sharing and mentoring to organizations looking to start an RPA program or to evolve their current RPA services. This **RPA Playbook** is a small part of the CoP’s knowledge sharing efforts, which also include frequent cross-government collaborative meetings, communications, thought leadership pieces, webinars, and workshops.
+## The RPA Playbook
+
+This playbook is designed to provide federal agencies detailed, accessible guidance for initiating a new RPA program or rapidly evolving an existing program.
 
 {{< button href="https://digital.gov/pdf/rpa-playbook.pdf" text="Download the RPA Playbook (v1.1)" >}}
 
-The RPA CoP seeks to achieve its important mission with a sense of urgency and a bias towards action. As agencies continue to learn the potential benefits of RPA, enthusiasm for developing RPA programs government-wide grows exponentially. The RPA CoP plays an important role in helping agencies convert RPA enthusiasm into action. Specifically, the CoP helps agencies develop programs that are cost effective, auditable, avoid common pitfalls, and most importantly, deploy impactful automations.
+
+## RPA Use Cases
+This playbook is designed to provide federal agencies detailed, accessible guidance for initiating a new RPA program or rapidly evolving an existing program.
+
+{{< button href="https://feedback.gsa.gov/jfe/form/SV_5AuaO2sJP5Pbi4J" text="Submit a RPA Use Case" >}}
+
+
 
 ## Who We Are
+
+The RPA CoP seeks to achieve its important mission with a sense of urgency and a bias towards action. As agencies continue to learn the potential benefits of RPA, enthusiasm for developing RPA programs government-wide grows exponentially. The RPA CoP plays an important role in helping agencies convert RPA enthusiasm into action. Specifically, the CoP helps agencies develop programs that are cost effective, auditable, avoid common pitfalls, and most importantly, deploy impactful automations.
 
 The executive sponsors for the RPA Community of Practice are:
 

@@ -24,7 +24,7 @@
               <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
               <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
               {{ $topics := .Params.topics }}
-              {{- partial "core/get_topics" . -}}
+              {{- partial "core/topics-list" . -}}
             </div>
           {{ end }}
         {{ end }}
