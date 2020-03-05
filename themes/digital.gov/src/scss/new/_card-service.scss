@@ -44,12 +44,17 @@
       @include u-line-height('sans', 3);
       @include u-display('flex');
     }
-
+    .list-topics{
+      @include u-margin-bottom(0);
+    }
     .authors-list{
       @include u-margin-bottom(0);
     }
   }
 }
+
+
+
 
 .services-contacts{
   @include u-bg('base-lighter');

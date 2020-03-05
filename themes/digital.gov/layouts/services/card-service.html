@@ -33,8 +33,8 @@
 
     <p>{{- .Params.summary | markdownify -}}</p>
 
-    {{- if .Params.authors -}}
-      {{- partial "core/get_authors_short" (dict "page" . ) -}}
+    {{- if .Params.topics -}}
+      {{- partial "core/list-topics" . -}}
     {{- end -}}
 
   </div>
