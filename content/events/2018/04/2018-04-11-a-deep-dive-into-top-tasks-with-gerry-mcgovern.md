@@ -24,6 +24,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors: 
   - gerry-mcgovern
+  - andreanocesigritz
 
 # YouTube ID
 youtube_id: 5llJ98UkXYI
