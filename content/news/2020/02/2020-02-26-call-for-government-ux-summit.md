@@ -37,21 +37,7 @@ Only U.S. government employees (federal, state, tribal, and local) and contracto
 
 {{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}} 
 
-Scroll down to see the topics and presentation formats. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov). 
-
-{{< img src="ux-government-summit-2020" >}}
-
-Join us for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
-
-Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/).
-
-{{< box >}}
-### Save the date
-**Government UX Summit 2020**<br/>
-May 12, 2020, 9:00 a.m - 4:00 p.m., ET<br/>
-at the Library of Congress ([map](https://www.google.com/maps/place/Library+of+Congress/@38.888684,-77.0069077,17z/data=!3m2!4b1!5s0x89b7b82bf81714b1:0xb306acf1c3a0b282!4m5!3m4!1s0x390feef68ef83a4d:0x46cbb296f4de3eec!8m2!3d38.888684!4d-77.004719))<br/>
-_Registration page coming soon ..._
-{{< /box >}}
+Scroll down to see the topics and presentation formats we're looking to set up. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov). 
 
 ## What we're looking for
 
@@ -79,6 +65,20 @@ We're looking for presentations in the following formats:
  - 10-minute presentations, where speakers can present short discussions or brief highlights
  - 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
  - 90-minute sessions, where speakers can provide more in-depth training on a UX method
+
+{{< img src="ux-government-summit-2020" >}}
+
+Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/). 
+
+Join us for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
+
+{{< box >}}
+### Save the date
+**Government UX Summit 2020**<br/>
+May 12, 2020, 9:00 a.m - 4:00 p.m., ET<br/>
+at the Library of Congress ([map](https://www.google.com/maps/place/Library+of+Congress/@38.888684,-77.0069077,17z/data=!3m2!4b1!5s0x89b7b82bf81714b1:0xb306acf1c3a0b282!4m5!3m4!1s0x390feef68ef83a4d:0x46cbb296f4de3eec!8m2!3d38.888684!4d-77.004719))<br/>
+_Registration page coming soon ..._
+{{< /box >}}
 
 ---
 
