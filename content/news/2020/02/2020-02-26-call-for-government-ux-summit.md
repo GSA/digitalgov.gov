@@ -31,6 +31,10 @@ primary_image: "ux-government-summit-2020"
 
 ---
 
+Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/). 
+
+Join us as presenters for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government. 
+
 {{< box >}}
 ### Save the date
 **Government UX Summit 2020**<br/>
@@ -45,7 +49,7 @@ Only U.S. government employees (federal, state, tribal, and local) and contracto
 
 {{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}} 
 
-Scroll down to see the topics and presentation formats we're looking to set up. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov). 
+Below are the topics and presentation formats we're looking for. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov). 
 
 ## What we're looking for
 
@@ -75,10 +79,6 @@ We're looking for presentations in the following formats:
  - 90-minute sessions, where speakers can provide more in-depth training on a UX method
 
 {{< img src="ux-government-summit-2020" >}}
-
-Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/). 
-
-Join us for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government. 
 
 ---
 
