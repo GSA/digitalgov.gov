@@ -1,21 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2018/07/a-first-look-at-uswds-20
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: a-first-look-at-uswds-20
-title: 'A First Look at USWDS 2.0'
-summary: 'This month, the USWDS team will share what&#39;s coming up in version 2&#46;0 which is set to launch later this summer&#46;'
-featured_image:
-  uid: preview-uswds-2-0
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-07-06 13:00:00 -0500
-end_date: 2018-07-06 13:30:00 -0500
-event_organizer: DigitalGov University
-host: U.S. Web Design System
+title: "A First Look at USWDS 2.0"
+deck: ""
+summary: "This month, the USWDS team will share what's coming up in version 2.0 which is set to launch later this summer."
+host: "U.S. Web Design System"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/july-us-web-design-system-monthly-call-tickets-46807677022
-youtube_id: TuOqjxirOUA
-topics:
+captions: 
+
+# start date
+date: 2018-07-06 14:00:00 -0500
+
+# end date
+end_date: 2018-07-06 14:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - design
   - uswds
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dan-williams
+  - maya-benari
+
+# YouTube ID
+youtube_id: TuOqjxirOUA
+
+# Primary Image (for social media)
+primary_image: "preview-uswds-2-0"
+
+# Make it better ♥
 
 ---
 

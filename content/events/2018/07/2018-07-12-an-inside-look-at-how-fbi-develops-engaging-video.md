@@ -1,23 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2018/07/an-inside-look-at-how-fbi
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: an-inside-look-at-how-fbi-develops-engaging-video
-title: 'An Inside Look at How the FBI Develops Engaging Video'
-summary: 'Do you want to learn how to create a successful video strategy from beginning to end&#63;'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - youtube-live
-date: 2018-07-12 14:00:00 -0500
-end_date: 2018-07-12 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Video Production Pros
+title: "An Inside Look at How the FBI Develops Engaging Video"
+deck: ""
+summary: "Do you want to learn how to create a successful video strategy from beginning to end?"
+host: "Video Production Pros"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/an-inside-look-at-how-the-fbi-develops-engaging-video-registration-47363929789
-youtube_id: djpDY31ZhlI
-topics:
+captions: 
+
+# start date
+date: 2018-07-12 15:00:00 -0500
+
+# end date
+end_date: 2018-07-12 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - audio-video
   - video
   - fbi
   - federal-bureau-of-investigation
   - video-production-pros-community
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - steve-lewis
+  - bryce-spivey
+
+# YouTube ID
+youtube_id: djpDY31ZhlI
+
+# Make it better ♥
 
 ---
 
