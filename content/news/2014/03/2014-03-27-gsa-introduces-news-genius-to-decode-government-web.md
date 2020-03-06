@@ -64,7 +64,7 @@ topics:
 </p>
 
 <p dir="ltr">
-  This announcement comes today in conjunction with our SocialGov Summit, hosted by the <a href="{{< ref "social-media.md" >}}">Federal SocialGov Community</a> and the Small Business Administration, which focuses on how government can better grow opportunities for entrepreneurs and small businesses using digital engagement, social media and data.
+  This announcement comes today in conjunction with our SocialGov Summit, hosted by the <a href="{{< ref "communities/social-media.md" >}}">Federal SocialGov Community</a> and the Small Business Administration, which focuses on how government can better grow opportunities for entrepreneurs and small businesses using digital engagement, social media and data.
 </p>
 
 <p dir="ltr">
@@ -76,7 +76,7 @@ topics:
 </p>
 
 <p dir="ltr">
-  The <a href="{{< ref "social-media.md" >}}">SocialGov Community</a>, also known less-coolly as the Federal Social Media Community of Practice, is a performance-driven team of 600 digital engagement managers from more than 130 federal programs committed to using social media to measurably improve public services and measurably reduce costs. Recent shared services delivered by the SocialGov Community include the:
+  The <a href="{{< ref "communities/social-media.md" >}}">SocialGov Community</a>, also known less-coolly as the Federal Social Media Community of Practice, is a performance-driven team of 600 digital engagement managers from more than 130 federal programs committed to using social media to measurably improve public services and measurably reduce costs. Recent shared services delivered by the SocialGov Community include the:
 </p>
 
   * <p dir="ltr">

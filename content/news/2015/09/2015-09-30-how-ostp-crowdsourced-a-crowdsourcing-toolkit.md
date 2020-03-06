@@ -31,7 +31,7 @@ topics:
 
 To promote crowdsourcing, one effective tool is, well, crowdsourcing.
 
-Today, the White House [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP) and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}) (CCS) unveiled the [Citizen Science and Crowdsourcing Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The toolkit contains information, resources, and best practices federal agencies can use to harness the power of public participation.
+Today, the White House [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP) and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< ref "communities/crowdsourcing-and-citizen-science.md" >}}) (CCS) unveiled the [Citizen Science and Crowdsourcing Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The toolkit contains information, resources, and best practices federal agencies can use to harness the power of public participation.
 
 Specifically, the toolkit provides:
 

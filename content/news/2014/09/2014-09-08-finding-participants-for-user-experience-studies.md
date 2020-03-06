@@ -21,7 +21,7 @@ topics:
 
 How do you find participants for your usability studies?
 
-I spoke recently with the [User Experience Community of Practice]({{< ref "user-experience.md" >}}) about how we recruit participants for usability and cognitive studies at the [U.S. Bureau of Labor Statistics](http://www.bls.gov/home.htm) (BLS). Hopefully I can give you some new ideas about recruiting volunteers to fuel your user research.
+I spoke recently with the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}}) about how we recruit participants for usability and cognitive studies at the [U.S. Bureau of Labor Statistics](http://www.bls.gov/home.htm) (BLS). Hopefully I can give you some new ideas about recruiting volunteers to fuel your user research.
 
 At BLS, we need different types of participants for different studies. Very often, we are looking for members of the general public. To find these participants, we have placed ads in newspapers and online ad services. Also, people who have enjoyed their experience with BLS studies have referred friends to us. Our list is now large enough that we can usually recruit participants from the list without further advertising.
 
@@ -39,6 +39,6 @@ Our studies usually last about an hour. We conduct most of our studies in our la
 
 This is how we recruit participants at BLS. If you have any additional suggestions about recruiting, please leave them in the comments below!
 
-_**Jean E. Fox** is Research Psychologist at the U.S. Bureau of Labor Statistics and Co-Chair of the [User Experience Community of Practice]({{< ref "user-experience.md" >}})._
+_**Jean E. Fox** is Research Psychologist at the U.S. Bureau of Labor Statistics and Co-Chair of the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}})._
 
  

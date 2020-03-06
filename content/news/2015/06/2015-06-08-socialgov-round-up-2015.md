@@ -33,7 +33,7 @@ topics:
 
 {{< legacy-img src="2015/06/600-x-360-World-social-digital-TCmake_photo-iStock-Thinkstock-183161931.jpg" alt="A digital graphic of social media icons revolving around a globe, above a smart phone" caption="" >}} 
 
-The [#SocialGov Community]({{< ref "social-media.md" >}}) is coming up on three years of hard work and pushing the boundaries on using social tools across the federal government.
+The [#SocialGov Community]({{< ref "communities/social-media.md" >}}) is coming up on three years of hard work and pushing the boundaries on using social tools across the federal government.
 
 I’d like to start this round up by taking a look at the event we hosted last year, [State of the #SocialGov 2014: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media]({{< ref "2014-02-18-state-of-the-socialgov-2014.md" >}}). Justin Herman, #SocialGov Community Lead, [moderated a talk looking at the work delivered by the SocialGov CoP over the past 2 years](https://youtu.be/5vyAlqOEsuM) and looked ahead to the next year. #SocialGov CoP, we look forward to a 3 year anniversary review.
 
