@@ -1,11 +1,11 @@
 ---
-# View this page at https://digital.gov/2020/03/04/learning-culture-10-personalized-employee-experiences
+# View this page at https://digital.gov/2020/03/11/learning-culture-10-personalized-employee-experiences
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: learning-culture-10-personalized-employee-experiences
 
 # Short URL — https://go.usa.gov/
 short_url: JOJO
-date: 2020-03-04 19:00:00 -0500
+date: 2020-03-11 19:00:00 -0500
 kicker: "Professional Development"
 title: "Learning Culture: 10 Personalized Employee Experiences"
 deck: ""
