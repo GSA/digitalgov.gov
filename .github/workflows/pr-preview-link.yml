@@ -18,6 +18,6 @@ jobs:
       - name: Comment Pull Request
         uses: thollander/actions-comment-pull-request@1.0.0
         with:
-          message: ':mag: [__view the preview__](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${{ github.head_ref }})'
+          message: ':mag: [__Preview in Federalist__](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${{ github.head_ref }})'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
