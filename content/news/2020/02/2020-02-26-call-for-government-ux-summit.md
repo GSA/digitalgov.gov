@@ -31,11 +31,9 @@ primary_image: "ux-government-summit-2020"
 
 ---
 
-{{< img src="ux-government-summit-2020" >}}
+Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/). 
 
-Join us for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
-
-Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/).
+Join us as presenters for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government. 
 
 {{< box >}}
 ### Save the date
@@ -46,6 +44,17 @@ _Registration page coming soon ..._
 {{< /box >}}
 
 ## Call for Presenters
+
+Only U.S. government employees (federal, state, tribal, and local) and contractors **with a U.S. government email address**&mdash;and with their agency’s approval&mdash;are eligible to present. This is to ensure that the event supports government UX work. Speakers from outside Washington, DC can present remotely. 
+
+{{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}} 
+
+Below are the topics and presentation formats we're looking for. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov). 
+
+## What we're looking for
+
+### Topics 
+
 We are currently seeking submissions for presentations on topics such as:
 
  - Design and evaluation methods _(especially more applied topics, such as training with a particular method)_
@@ -61,7 +70,7 @@ We are currently seeking submissions for presentations on topics such as:
 
 _See the [presentations from the 2019 Government UX Summit]({{< ref "2019-05-15-2019-government-ux-summit.md" >}})_
 
-## What we're looking for
+### Format 
 
 We're looking for presentations in the following formats:
 
@@ -69,14 +78,10 @@ We're looking for presentations in the following formats:
  - 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
  - 90-minute sessions, where speakers can provide more in-depth training on a UX method
 
-{{< highlight >}}**Submissions are due by close of business on Friday, March 6**.{{< /highlight >}}
-
-For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov).
-
-U.S. local, state, tribal, and federal government employees (all levels) and contractors with U.S. government email addresses (with their agency’s approval) are all eligible to present. Speakers from outside DC can present remotely.
+{{< img src="ux-government-summit-2020" >}}
 
 ---
 
-_The 2020 Government UX Summit is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and Digital.gov._
+_The Government UX Summit 2020 is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and Digital.gov._
 
 _[**Join the UX CoP**](https://digital.gov/communities/user-experience/) is a group of more than 1,200 federal, tribal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide training, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join._
