@@ -24,7 +24,7 @@ topics:
 
 {{< legacy-img src="2015/02/600-x-420-Usability-Mathias-Rosenthal-iStock-Thinkstock-523316205.jpg" alt="Usability sign" caption="" >}} 
 
-So, you have some systems or tools your customers or employees access. Maybe you want to put together a robust capability to conduct usability testing. How do you start formalizing user experience (UX) into your organization? **Brad Ludlow** at GSA tossed this topic out on the [User Experience community listserv]({{< ref "user-experience.md" >}}), and I&#8217;ve encapsulated the superb discussion that followed below. Here, then, are four easy steps to building User Experience into your office:
+So, you have some systems or tools your customers or employees access. Maybe you want to put together a robust capability to conduct usability testing. How do you start formalizing user experience (UX) into your organization? **Brad Ludlow** at GSA tossed this topic out on the [User Experience community listserv]({{< ref "communities/user-experience.md" >}}), and I&#8217;ve encapsulated the superb discussion that followed below. Here, then, are four easy steps to building User Experience into your office:
 
 ## Step 1: Get buy-in {{< legacy-img src="2015/02/250-x-167-Learn-and-share-conceptual-words-on-blackboard-AnsonLu-iStock-Thinkstock-525385549.jpg" alt="Learn and share conceptual words on blackboard" caption="" >}} 
 
@@ -32,7 +32,7 @@ First, get a UX champion in your organization. Lay the groundwork with managers,
 
 As one UX-pert advised, &#8220;Don’t let the naysayers discourage you. You’re likely to run into obstacles from internal stakeholders and even established designers.&#8221; Talk it up so word gets to the right people.
 
-Don’t forget you have the [Federal UX Community of Practice]({{< ref "user-experience.md" >}}) to help find answers to your questions!
+Don’t forget you have the [Federal UX Community of Practice]({{< ref "communities/user-experience.md" >}}) to help find answers to your questions!
 
 ## Step 2: Have a strategy
 

@@ -64,7 +64,7 @@ If you are looking to improve your performance, or just get a sense for how well
 
 **Resources & Tools**
 
-  * [Join our UX Community]({{< ref "user-experience.md" >}})
+  * [Join our UX Community]({{< ref "communities/user-experience.md" >}})
   * [Google Page Speed](https://developers.google.com/speed/pagespeed/)
   * [Google Mobile Testing Tool](https://testmysite.thinkwithgoogle.com/)
   * [GTMetrix](https://gtmetrix.com/)
@@ -122,7 +122,7 @@ With the January release of the [Access Board’s final rule](https://www.access
 
 **Resources & Tools**
 
-  * [Join our User Experience (UX) Community]({{< ref "user-experience.md" >}})
+  * [Join our User Experience (UX) Community]({{< ref "communities/user-experience.md" >}})
   * [Accessibility Resource List]({{< ref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
   * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
   * [Agency Implementation Guides](https://section508.gov/agency-shared-guidance)

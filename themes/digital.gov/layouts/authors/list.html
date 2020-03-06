@@ -15,7 +15,7 @@
 
             <div>
               {{/* Name */}}
-              <h1>{{ .Params.display_name }}</h1>
+              <h1>{{- .Params.display_name | markdownify -}}</h1>
               {{/* Bio */}}
               <div class="bio">
 

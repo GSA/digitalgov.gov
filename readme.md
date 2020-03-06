@@ -19,12 +19,11 @@ Want to learn more about how we work? [Check out our Wiki page »](https://githu
 
 [Digital.gov](https://digital.gov/) is built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).
 
-
 ### Install NPM Dependencies
 
 `npm install`
 
-### Install Hugo
+### Install Hugo 0.66.0
 
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
@@ -43,6 +42,11 @@ _see https://gohugo.io/getting-started/installing/ for other OSs_
 - `hugo serve --templateMetricsHints` — for seeing where you can apply caching in templates and speed up the build time
 [See more »](https://gohugo.io/commands/hugo/)
 
+## Upgrading Hugo
+
+1. Read through [the recent releases](https://github.com/gohugoio/hugo/releases)
+2. Run `brew upgrade hugo` to upgrade your local copy ([docs](https://gohugo.io/getting-started/installing/#upgrade-hugo)).
+1. Set the version in the `.hugo-version` file. This is only used for telling Federalist which version of Hugo they should checkout and use.
 
 ## Accessibility tests
 

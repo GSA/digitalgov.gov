@@ -47,7 +47,7 @@ According to **Christopher Lagan**, Chief of Social Media for the **U.S. Coast G
 
 While changes to the Facebook news feed, for example, can mean improvements in how companies use the tool, they serve as a reminder to government social media managers to kick the tires of their programs and ensure that their goals address the needs of the mission and not the perceptions of what advertisers think we should be.
 
-In the next three months, the <a href="{{< ref "social-media.md" >}}" target="_blank"><strong>Federal SocialGov Community</strong></a> is developing three new government social media toolkits for public comment and improvement on **Github** that agencies can use to improve their programs by standards important to public services:
+In the next three months, the <a href="{{< ref "communities/social-media.md" >}}" target="_blank"><strong>Federal SocialGov Community</strong></a> is developing three new government social media toolkits for public comment and improvement on **Github** that agencies can use to improve their programs by standards important to public services:
 
   * The first **Federal Social Media Policy Development toolkit**, a product of a 20-agency working group that will help offices better evaluate and improve their governance policies
   * The second version of the [**Social Media Accessibility toolkit**]({{< ref "federal-social-media-accessibility-toolkit-hackpad.md" >}}), updated by the **Department of Labor Office of Disability Employment Policy**
