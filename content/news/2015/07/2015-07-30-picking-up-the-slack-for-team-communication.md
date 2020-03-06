@@ -33,7 +33,7 @@ The search functionality is a key selling point for some.
 
 McDaniel said her nine person team moved to using Slack for internal communication after finding Google Hangouts unreliable.
 
-Members of the [Social Media Community of Practice]({{< ref "social-media.md" >}}) praised Slack for being easy to learn and easy to manage.
+Members of the [Social Media Community of Practice]({{< ref "communities/social-media.md" >}}) praised Slack for being easy to learn and easy to manage.
 
 The Bureau of International Information Programs (IIP) at the Department of State has deployed Slack in its bureau, and over half of the bureau’s 350 staff are active, meaning they are logging in and posting, says Hilary Brandt, Director of IIP’s Office of Policy, Outreach and Governance. To encourage adoption in the bureau, they’ve been holding short, internal training sessions on Slack and have even had an “email-free Slack day,” Brandt says.
 
