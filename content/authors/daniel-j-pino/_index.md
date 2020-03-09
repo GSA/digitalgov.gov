@@ -1,7 +1,7 @@
 ---
 # View this page at https://digital.gov/authors/daniel-j-pino
 # Learn how to edit our pages at https://workflow.digital.gov
-
+slug: daniel-j-pino
 display_name: "Daniel J Pino"
 first_name: "Daniel J."
 last_name: "Pino"

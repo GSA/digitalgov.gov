@@ -1,8 +1,8 @@
 ---
-
 # Your author profile page lives at:
 # https://digital.gov/authors/james-geoghegan
 
+slug: james-geoghegan
 display_name: "Jim Geoghegan"
 first_name: "James"
 last_name: "Geoghegan"

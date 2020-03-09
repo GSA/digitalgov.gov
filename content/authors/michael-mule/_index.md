@@ -1,24 +1,24 @@
 ---
-# View this page at https://digital.gov/authors/michael-mul
+# View this page at https://digital.gov/authors/michael-mule
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
 slug: michael-mule
-display_name: "Michael Mulé"
+display_name: "Michael Mul&#233;"
 first_name: "Michael"
-last_name: "Mulé"
+last_name: "Mul&#233;"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
 bio: "Attorney Advisor"
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. Department of Justice"

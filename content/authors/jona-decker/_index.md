@@ -1,7 +1,7 @@
 ---
 # View this page at https://digital.gov/authors/jona-decker
 # Learn how to edit our pages at https://workflow.digital.gov
-
+slug: jona-decker
 display_name: "Jona Decker"
 first_name: "Jona"
 last_name: "Decker"

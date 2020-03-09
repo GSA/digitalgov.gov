@@ -1,7 +1,7 @@
 ---
 # View this page at https://digital.gov/authors/joshua-di-frances
 # Learn how to edit our pages at https://workflow.digital.gov
-
+slug: joshua-di-frances
 display_name: "Joshua Di Frances"
 first_name: "Joshua"
 last_name: "Di Frances"

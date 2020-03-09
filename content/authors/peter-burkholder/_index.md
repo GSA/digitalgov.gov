@@ -2,6 +2,7 @@
 # View this page at https://digital.gov/authors/peter-burkholder
 # Learn how to edit our pages at https://workflow.digital.gov
 
+slug: peter-burkholder
 display_name: "Peter Burkholder"
 first_name: "Peter"
 last_name: "Burkholder"

@@ -2,6 +2,7 @@
 # View this page at https://digital.gov/authors/sharon-mar
 # Learn how to edit our pages at https://workflow.digital.gov
 
+slug: sharon-mar
 display_name: "Sharon Mar"
 first_name: "Sharon"
 last_name: "Mar"

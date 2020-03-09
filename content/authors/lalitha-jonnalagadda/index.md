@@ -2,6 +2,8 @@
 # View this page at https://digital.gov/authors/lalitha-jonnalagadda
 # Learn how to edit our pages at https://workflow.digital.gov
 
+slug: lalitha-jonnalagadda
+
 display_name: "Lalitha Jonnalagadda"
 first_name: "Lalitha"
 last_name: "Jonnalagadda"
@@ -19,7 +21,7 @@ email: lalitha.jonnalagadda@gsa.gov
 bio: "Product Manager at 18F"
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
