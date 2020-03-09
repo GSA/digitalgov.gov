@@ -1,15 +1,3 @@
-.services-contacts{
-  @include u-bg('base-lighter');
-  header{
-    @include u-margin-bottom(5);
-  }
-}
-.card-service-contact-heading{
-  @include u-display('none');
-  @include at-media('tablet') {
-    @include u-display('block');
-  }
-}
 .card.card-service-contact{
   @include u-margin-bottom(0);
   @include u-padding-y('105');
