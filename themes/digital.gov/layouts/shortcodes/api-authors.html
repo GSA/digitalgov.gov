@@ -1,5 +1,6 @@
 {{- partial "core/set-env.html" . -}}
-{{- $list := (where .Site.Pages "Section" "authors") -}}
+{{- $list := where .Site.Pages "Section" "authors" -}}
+{{- $list := where $list ".Path" "ne" "authors/_index.md" -}}
 {{- $length := len $list -}}
 {
   "version" : "https://jsonfeed.org/version/1",
@@ -17,66 +18,66 @@
   {{- end -}}
   "items" : [{
   {{ range $index, $author := $list -}}
-    {{- if $author.Params.slug -}}
-      "{{- $author.Params.slug -}}" : {
-        {{- if $author.Params.display_name -}}
-        "display_name" : "{{- $author.Params.display_name -}}",
+    {{ with $author }}
+      "{{- .Params.slug -}}" : {
+        {{- if .Params.display_name -}}
+        "display_name" : "{{- .Params.display_name -}}",
         {{- end -}}
-        {{- if $author.Params.first_name -}}
-        "first_name" : "{{- $author.Params.first_name -}}",
+        {{- if .Params.first_name -}}
+        "first_name" : "{{- .Params.first_name -}}",
         {{- end -}}
-        {{- if $author.Params.last_name -}}
-        "last_name" : "{{- $author.Params.last_name -}}",
+        {{- if .Params.last_name -}}
+        "last_name" : "{{- .Params.last_name -}}",
         {{- end -}}
-        {{- if $author.Params.pronoun -}}
-        "pronoun" : "{{- $author.Params.pronoun -}}",
+        {{- if .Params.pronoun -}}
+        "pronoun" : "{{- .Params.pronoun -}}",
         {{- end -}}
 
         {{- partial "api/slug" . -}}
 
-        {{- if $author.Params.email -}}
-        "email" : "{{- $author.Params.email -}}",
+        {{- if .Params.email -}}
+        "email" : "{{- .Params.email -}}",
         {{- end -}}
-        {{- if $author.Params.location -}}
-        "location" : "{{- $author.Params.location -}}",
+        {{- if .Params.location -}}
+        "location" : "{{- .Params.location -}}",
         {{- end -}}
-        {{- if $author.Params.bio -}}
-        "bio" : "{{- $author.Params.bio -}}",
+        {{- if .Params.bio -}}
+        "bio" : "{{- .Params.bio -}}",
         {{- end -}}
-        {{- if $author.Params.bio_url -}}
-        "bio_url" : "{{- $author.Params.bio_url -}}",
+        {{- if .Params.bio_url -}}
+        "bio_url" : "{{- .Params.bio_url -}}",
         {{- end -}}
-        {{- if $author.Params.agency -}}
-        "agency" : "{{- $author.Params.agency -}}",
+        {{- if .Params.agency -}}
+        "agency" : "{{- .Params.agency -}}",
         {{- end -}}
-        {{- if $author.Params.agency_full_name -}}
-        "agency_full_name" : "{{- $author.Params.agency_full_name -}}",
+        {{- if .Params.agency_full_name -}}
+        "agency_full_name" : "{{- .Params.agency_full_name -}}",
         {{- end -}}
-        {{- if $author.Params.github -}}
-        "github" : "{{- $author.Params.github -}}",
+        {{- if .Params.github -}}
+        "github" : "{{- .Params.github -}}",
         {{- end -}}
-        {{- if $author.Params.profile_source -}}
-        "profile_source" : "{{- $author.Params.profile_source -}}",
+        {{- if .Params.profile_source -}}
+        "profile_source" : "{{- .Params.profile_source -}}",
         {{- end -}}
-        {{- if $author.Params.twitter -}}
-        "twitter" : "{{- $author.Params.twitter -}}",
+        {{- if .Params.twitter -}}
+        "twitter" : "{{- .Params.twitter -}}",
         {{- end -}}
-        {{- if $author.Params.facebook -}}
-        "facebook" : "{{- $author.Params.facebook -}}",
+        {{- if .Params.facebook -}}
+        "facebook" : "{{- .Params.facebook -}}",
         {{- end -}}
-        {{- if $author.Params.linkedin -}}
-        "linkedin" : "{{- $author.Params.linkedin -}}",
+        {{- if .Params.linkedin -}}
+        "linkedin" : "{{- .Params.linkedin -}}",
         {{- end -}}
-        {{- if $author.Params.youtube -}}
-        "youtube" : "{{- $author.Params.youtube -}}",
+        {{- if .Params.youtube -}}
+        "youtube" : "{{- .Params.youtube -}}",
         {{- end -}}
         "branch" : {{- $.Scratch.Get "branch" | jsonify -}},
-        {{- with $author.File -}}
+        {{- with .File -}}
           "filename" : {{- .LogicalName | jsonify -}},
         {{- end -}}
-        "filepath" : {{ with $author.File -}}{{- .Path | jsonify -}}{{- end -}},
-        "filepathURL" : {{- with $author.File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
-        "editpathURL" : {{- with $author.File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        "filepath" : {{ with .File -}}{{- .Path | jsonify -}}{{- end -}},
+        "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
         {{- if .Params.aliases -}}
         "aliases" : {
           {{- $aliaslen := .Params.aliases | len -}}
@@ -94,8 +95,8 @@
           {{- end -}}
         },
         {{- end -}}
-        {{- if $author.Params.weight -}}
-        "weight" : "{{- $author.Params.weight -}}",
+        {{- if .Params.weight -}}
+        "weight" : "{{- .Params.weight -}}",
         {{- end -}}
         "url" : "{{- .Permalink -}}"
       }{{- $.Scratch.Add "i" 1 -}}
