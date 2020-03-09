@@ -83,8 +83,12 @@
 
       <div class="grid-col-12 tablet:grid-col-4">
 
-        <div class="copy">
-          {{- partial "core/get_authors_short" (dict "page" . "contact" .Params.contact ) -}}
+        <div class="copy copy-contacts">
+          {{ if .Params.contact }}
+            <a class="contact" href="mailto:{{- .Params.contact -}}" title="Contact"><span><i class="fas fa-envelope"></i>&nbsp;Contact</span></a>
+          {{- end -}}
+
+          {{- partial "core/get_authors_short" . -}}
         </div>
 
       </div>
