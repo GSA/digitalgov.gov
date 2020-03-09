@@ -26,7 +26,7 @@
         <div class="deck">{{ .Params.summary | markdownify -}}</div>
       {{- end -}}
 
-      {{- partial "core/get_authors_short" (dict "page" . ) -}}
+      {{- partial "core/get_authors_short" . -}}
 
       <div class="meta">
         {{- partial "core/get_clicks" . -}}

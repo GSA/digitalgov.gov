@@ -55,7 +55,7 @@
 
                 </header>
                 <footer>
-                  <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2" -}}</a><span>&#10038;</span>{{- partial "core/get_authors_short" (dict "page" . ) -}}
+                  <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2" -}}</a><span>&#10038;</span>{{- partial "core/get_authors_short" . -}}
                 </footer>
               </div>
             </div>
