@@ -62,4 +62,4 @@ EPA achieved success on their next two campaigns, [On Earth Day, #ActOnClimate!]
 
 Tell us: Has your agency used Thunderclap?
 
-_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< ref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< ref "communities/social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

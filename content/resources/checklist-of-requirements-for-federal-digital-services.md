@@ -31,7 +31,7 @@ These high-level policies cover basic requirements for all websites and digital 
 * [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
-* See a full list of [policies and regulations »]({{< ref "/topics/policy/_index.md" >}})
+* See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
 * See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
 
 <p class="more"><a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA <i class="fas fa-arrow-alt-circle-right"></i></a></p>

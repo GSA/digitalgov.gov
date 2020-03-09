@@ -1,22 +1,39 @@
 ---
+# View this page at https://digital.gov/event/2018/04/marketingasaservice-an-introduction-usagovs-partnership-toolkit
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: marketingasaservice-an-introduction-usagovs-partnership-toolkit
-title: 'Marketing-as-a-Service&#58; An Introduction to USAGov&#39;s Partnership Toolkit'
-summary: 'The USAGov team will talk about their new Partnership Toolkit and focus on how government agencies can partner with USAGov to market various programs and services.'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-04-03 14:00:00 -0500
-end_date: 2018-04-03 15:00:00 -0500
-event_organizer: DigitalGov University
-host:
+title: "Marketing-as-a-Service: An Introduction to USAGov's Partnership Toolkit"
+deck: ""
+summary: "The USAGov team will talk about their new Partnership Toolkit and focus on how government agencies can partner with USAGov to market various programs and services."
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/marketing-as-a-service-an-introduction-to-usagovs-partnership-toolkit-registration-44339870747
-youtube_id: mg1W8l1bfqI
-aliases:
-  - /event/marketingasaservice-an-introduction-usagovs-partnership-toolkit/
-topics:
+captions: 
+
+# start date
+date: 2018-04-03 15:00:00 -0500
+
+# end date
+end_date: 2018-04-03 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - usagov
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - victoria-wales
+  - claire-loxsom
+
+# YouTube ID
+youtube_id: mg1W8l1bfqI
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/marketingasaservice-an-introduction-usagovs-partnership-toolkit/
+
+# Make it better ♥
 
 ---
 
