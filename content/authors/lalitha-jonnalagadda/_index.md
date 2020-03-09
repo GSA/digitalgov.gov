@@ -1,18 +1,13 @@
 ---
 # View this page at https://digital.gov/authors/lalitha-jonnalagadda
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: lalitha-jonnalagadda
-
 display_name: "Lalitha Jonnalagadda"
 first_name: "Lalitha"
 last_name: "Jonnalagadda"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: "She/Her"
-
-# user id — not easily changed
-uid: "lalitha-jonnalagadda"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: lalitha.jonnalagadda@gsa.gov
@@ -45,11 +40,6 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
 
 # Make it better ♥
 ---
