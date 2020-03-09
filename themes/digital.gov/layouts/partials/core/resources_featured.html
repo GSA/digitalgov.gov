@@ -1,60 +1,70 @@
-{{- $resources_featured := (where .Site.Pages "Section" "resources") -}}
-{{/* If there are any resources at all... */}}
-{{- if $resources_featured -}}
+{{/* Get the all the resources */}}
+{{- $resources := where .Site.Pages "Section" "resources" -}}
+{{/* Get the all the resources with a weight 3 */}}
+{{- $resources_featured := (where $resources ".Params.weight" "eq" 3) -}}
+{{/* Get the all the links */}}
+{{- $links := (where .Site.Pages "Section" "links") -}}
+{{/* Get the all the links with a weight 3 */}}
+{{- $links_featured := (where $links ".Params.weight" "eq" 3) -}}
+{{/* Merges the $links_featured and the $resources_featured */}}
+{{- $stream := union $resources_featured $links_featured -}}
+{{/* If there are any items at all... */}}
+{{- if $stream -}}
+
 <div class="list-collection">
   <h2>Popular Guides and Resources</h2>
   <ul>
-    {{- range sort $resources_featured "Title" "asc" -}}
-      {{- if eq .Params.weight 3 -}}
-        {{/* If an external link  */}}
-        {{- if or .Params.source_url .Params.source -}}
 
-        <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
-          <a class="" href="{{- .Params.source_url -}}?=dg" title="{{- .Title | markdownify -}}">
+    {{- range sort $stream "Title" "asc" -}}
 
-            {{/* If there is a defined source for this page */}}
-            {{- if .Params.source -}}
-              {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+      {{/* If an external link  */}}
+      {{- if or .Params.source_url .Params.source -}}
 
-              {{- if $source.Params.icon -}}
-                {{/*
-                We have two folders for source icons
-                - /logos/ — this is for logos to be used in the newsfeed and the icons
-                - logos/icons/ — for overriding the icon image
-                */}}
-                {{- $icon_url := (print "/static/logos/_icons/" $source.Params.icon) -}}
-                {{/* checks if an icon image exists */}}
-                {{- if (fileExists $icon_url) -}}
-                  <img src="{{- (print "/logos/_icons/" $source.Params.icon) | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
-                {{- else -}}
-                  <img src="{{- (print "/logos/" $source.Params.icon) | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
-                {{- end -}}
+      <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <a class="" href="{{- .Params.source_url -}}?=dg" title="{{- .Title | markdownify -}}">
+
+          {{/* If there is a defined source for this page */}}
+          {{- if .Params.source -}}
+            {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+
+            {{- if $source.Params.icon -}}
+              {{/*
+              We have two folders for source icons
+              - /logos/ — this is for logos to be used in the newsfeed and the icons
+              - logos/icons/ — for overriding the icon image
+              */}}
+              {{- $icon_url := (print "/static/logos/_icons/" $source.Params.icon) -}}
+              {{/* checks if an icon image exists */}}
+              {{- if (fileExists $icon_url) -}}
+                <img src="{{- (print "/logos/_icons/" $source.Params.icon) | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
+              {{- else -}}
+                <img src="{{- (print "/logos/" $source.Params.icon) | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
               {{- end -}}
-
-            {{/* No source? let's attempt to get the favicon for the URL */}}
-            {{- else -}}
-              <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo"/><span>{{- .Title | markdownify -}}</span>
             {{- end -}}
 
-          </a>
-          {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
-        </li>
+          {{/* No source? let's attempt to get the favicon for the URL */}}
+          {{- else -}}
+            <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo"/><span>{{- .Title | markdownify -}}</span>
+          {{- end -}}
 
-        {{/* If an internal link... */}}
-        {{- else -}}
-        <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
-          <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}} ">
+        </a>
+        {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
+      </li>
 
-            {{/* Use the digital.gov logo */}}
-            {{- $source_url := (print "/img/digit-50.png") -}}
-            <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
+      {{/* If an internal link... */}}
+      {{- else -}}
+      <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}} ">
 
-          </a>
-          {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
-        </li>
-        {{- end -}}
+          {{/* Use the digital.gov logo */}}
+          {{- $source_url := (print "/img/digit-50.png") -}}
+          <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
 
+        </a>
+        {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
+      </li>
       {{- end -}}
+
     {{- end -}}
   </ul>
 

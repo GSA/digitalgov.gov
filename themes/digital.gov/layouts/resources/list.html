@@ -45,12 +45,26 @@
         <div class="grid-row grid-gap-4">
 
           <div class="grid-col-12 tablet:grid-col-9">
-            {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
-              {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                {{- if eq .Params.weight 2 -}}
 
-                  {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
-                  {{- if $resources_by_topic -}}
+            {{/* Get the all the topics */}}
+            {{- $topics := $.Site.Taxonomies.topics -}}
+            {{/* Get the all the topics with a weight 2 */}}
+            {{- $topics_featured := (where $topics ".Params.weight" "eq" 2) -}}
+
+            {{- range $name, $taxonomy := $topics_featured -}}
+
+              {{/* Gets the associated topic page in /topics/ */}}
+              {{- $topic_page := $.Site.GetPage (printf "/topics/%s" $name) -}}
+
+              {{- with $topic_page -}}
+
+                {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
+                {{- $links_by_topic := (where $taxonomy "Section" "links") -}}
+
+                {{/* Merges the $links_featured and the $resources_featured */}}
+                {{- $stream := union $links_by_topic $resources_by_topic -}}
+
+                {{- if $stream -}}
                   <div class="topic-section">
                     <div class="grid-row">
                       <div class="grid-col-12">
@@ -59,7 +73,7 @@
                     </div>
                     <div class="grid-row">
                       <div class="grid-col-12 tablet-lg:grid-col-10">
-                        {{- partial "core/list_related_resources.html" (dict "Page" $page "Resources" $resources_by_topic) -}}
+                        {{- partial "core/list_related_resources.html" (dict "Page" $page "Resources" $stream) -}}
                       </div>
                     </div>
                     <footer>
@@ -70,24 +84,22 @@
                       </div>
                     </footer>
                   </div>
-                  {{- end -}}
-
                 {{- end -}}
-              {{ end }}
-            {{ end }}
+              {{- end -}}
+            {{- end -}}
 
           </div>
 
           <div class="grid-col-12 tablet:grid-col-3 tablet:order-first">
             <nav class="topics-sidebar">
               <ul>
-                {{- range $name, $taxonomy := $.Site.Taxonomies.topics -}}
-                  {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                    {{- if eq .Params.weight 2 -}}
-                      {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
-                      {{- if $resources_by_topic -}}
-                        <li><a href="#{{- $name -}}"><span>{{- .Title -}}</span></a></li>
-                      {{- end -}}
+                {{- range $name, $taxonomy := $topics_featured -}}
+                  {{/* Gets the associated topic page in /topics/ */}}
+                  {{- $topic_page := $.Site.GetPage (printf "/topics/%s" $name) -}}
+                  {{- with $topic_page -}}
+                    {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
+                    {{- if $resources_by_topic -}}
+                      <li><a href="#{{- $name -}}"><span>{{- .Title -}}</span></a></li>
                     {{- end -}}
                   {{- end -}}
                 {{- end -}}

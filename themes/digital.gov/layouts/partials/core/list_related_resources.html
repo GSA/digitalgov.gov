@@ -1,14 +1,17 @@
 {{/* Key Resources — 
 A list of the most important resources tagged with the same topic */}}
 
-
 {{/* Define the $resources variable */}}
 {{- $resources := "" -}}
+{{- $links := "" -}}
 
 {{/* If this is being used on a TOPICS list page... */}}
 {{- if eq .Kind "taxonomy" -}}
   {{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
-  {{- $resources = (where .Pages "Section" "resources") -}}
+  {{/* Get the all the resources */}}
+  {{- $resources = where .Pages "Section" "resources" -}}
+  {{/* Get the all the links */}}
+  {{- $links = where .Pages "Section" "links" -}}
 {{- end -}}
 
 {{/* If this is being used on a PAGE (e.g. like as in a shortcode...) */}}
@@ -16,15 +19,21 @@ A list of the most important resources tagged with the same topic */}}
   {{/* gets all pages in the site that are related, via the partial */}}
   {{/* gets only the related resource pages */}}
   {{- $resources = .Resources -}}
+  {{- $links = .Links -}}
 {{- end -}}
 
 
-{{/* If there are any resources at all... */}}
-{{- if $resources -}}
+{{/* Merges the $links and the $resources */}}
+{{- $stream := union $resources $links -}}
+{{/* {{- $stream := "" -}} */}}
+{{/* If there are any items at all... */}}
+{{- if $stream -}}
+
+
 <div class="list-collection">
   {{- if eq .Kind "taxonomy" -}}<h2>Resources on {{ .Title -}}</h2>{{- end -}}
   <ul>
-    {{- range sort $resources "Title" "asc" -}}
+    {{- range sort $stream "Title" "asc" -}}
 
       {{/* If an external link  */}}
       {{- if or .Params.source_url .Params.source -}}
