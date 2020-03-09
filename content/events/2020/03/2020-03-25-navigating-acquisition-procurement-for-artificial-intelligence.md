@@ -60,6 +60,12 @@ Acquisition Management provides oversight of strategy development, internal trai
 
 Mr. Nakasone started his civil service career in 1989 specializing in the field of Procurement with an emphasis in Telecommunications and IT Services, Hardware and Software. Prior to joining ITC, Mr. Nakasone served as Senior Procurement Executive at the FCC overseeing the Acquisitions and Procurements, Contracting Officer’s and Contracting Officer’s Representatives Certification Programs, as well as responsible for the Small Business goals for the agency.
 
+**Eric Ewing**
+
+{{< img-right src="eric-ewing" >}}
+
+Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives. Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Eric consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
+
 ---
 
 *This webinar is hosted by the Artificial Intelligence Community of Practice, the federal government only community dedicated to AI.*
