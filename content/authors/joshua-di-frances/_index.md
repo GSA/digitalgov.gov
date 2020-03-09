@@ -7,10 +7,7 @@ first_name: "Joshua"
 last_name: "Di Frances"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: "joshua-di-frances"
-
-# user id — not easily changed
-slug: ""
+pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: joshua.difrances@pif.gov
