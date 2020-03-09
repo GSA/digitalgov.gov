@@ -30,7 +30,7 @@ Nielsen Norman Group recently published two articles arguing for the continued u
 
 Previously, the UK Digital Government Service published an article on their approach: [FAQs: Why We Don’t Have Them](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/).
 
-Similarly, federal employees in the [User Experience Community of Practice]({{< ref "user-experience.md" >}}) have varying views on FAQs. A recent listserv discussion touched on the reasons why some agencies still use FAQs (and why others avoid them). Below are selected comments and pieces of advice generated from the discussion.
+Similarly, federal employees in the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}}) have varying views on FAQs. A recent listserv discussion touched on the reasons why some agencies still use FAQs (and why others avoid them). Below are selected comments and pieces of advice generated from the discussion.
 
 ## FAQs For Content Delivery
 

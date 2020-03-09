@@ -39,7 +39,7 @@ aliases:
 
 ## Crowdsourcing and Citizen Science
 
-* [Federal Crowdsourcing and Citizen Science Community]({{< ref "crowdsourcing-and-citizen-science.md" >}})
+* [Federal Crowdsourcing and Citizen Science Community]({{< ref "communities/crowdsourcing-and-citizen-science.md" >}})
 * [Crowdsourcing Toolkit for Federal Agencies]({{< ref "crowdsourcing-toolkit-for-federal-agencies.md" >}})
 
 ## Customer Experience
@@ -83,7 +83,7 @@ aliases:
 
 ## Multilingual
 
-* [Multilingual Community of Practice]({{< ref "multilingual.md" >}})
+* [Multilingual Community of Practice]({{< ref "communities/multilingual.md" >}})
 * [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}})
 * [Style Guides by Government Agencies]({{< ref "style-guides-by-government-agencies.md" >}})
 * [Top 10 Best Practices for Multilingual Websites]({{< ref "top-10-best-practices-for-multilingual-websites.md" >}})
@@ -96,7 +96,7 @@ aliases:
 
 ## Plain Language
 
-* [Plain Language Community of Practice]({{< ref "plain-language-community-of-practice.md" >}})
+* [Plain Language Community of Practice]({{< ref "communities/plain-language-community-of-practice.md" >}})
 * [Plain Language Guidelines by The Plain Language Action and Information Network (PLAIN)](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
 * [Plain Language Web Writing Tips]({{< ref "plain-language-web-writing-tips.md" >}})
 * [Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 kb, 3 pages, September 2010)
@@ -120,7 +120,7 @@ aliases:
 
 ## Social Media
 
-* [Social Media Community of Practice]({{< ref "social-media.md" >}})
+* [Social Media Community of Practice]({{< ref "communities/social-media.md" >}})
 * [Guidance for Social Media Providers]({{< ref "guidance-for-social-media-providers.md" >}})
 * [Improving the Accessibility of Social Media in Government]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}})
     * [Federal Social Media Accessibility Toolkit]({{< ref "federal-social-media-accessibility-toolkit-hackpad.md" >}})
@@ -137,7 +137,7 @@ aliases:
 
 ## User Experience
 
-* [User Experience Community]({{< ref "user-experience.md" >}})
+* [User Experience Community]({{< ref "communities/user-experience.md" >}})
 * [DigitalGov User Experience Resources]({{< ref "digitalgov-user-experience-resources.md" >}})
     * [Government Usability Case Studies]({{< ref "digitalgov-user-experience-program-results-and-case-studies.md" >}})
 

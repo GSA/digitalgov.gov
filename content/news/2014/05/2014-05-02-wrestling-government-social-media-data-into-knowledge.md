@@ -13,7 +13,7 @@ topics:
   - us-department-of-labor
 ---
 
-[{{< legacy-img src="2014/05/250-x-250-Alison-Lemon.jpg" alt="Alison Lemon" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/600-x-600-Alison-Lemon.jpg)This week the [**SocialGov Community**]({{< ref "social-media.md" >}}) took the step of recruiting a **Digital Engagement Knowledge Manager**, and I am excited to join the team through [the innovative new Open Opportunities Program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/). At this point, though, you may be asking—is there really so much information out there that it needs to be managed?
+[{{< legacy-img src="2014/05/250-x-250-Alison-Lemon.jpg" alt="Alison Lemon" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/600-x-600-Alison-Lemon.jpg)This week the [**SocialGov Community**]({{< ref "communities/social-media.md" >}}) took the step of recruiting a **Digital Engagement Knowledge Manager**, and I am excited to join the team through [the innovative new Open Opportunities Program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/). At this point, though, you may be asking—is there really so much information out there that it needs to be managed?
 
 **Yes!** The truth is that the same challenges pop up all across government, and the same questions are asked over and over. The federal agencies using social media need to [fulfill our unique missions in the government]({{< ref "2014-04-22-government-social-media-isnt-lagging-its-different-and-thats-good.md" >}}) and find the best ways to connect citizens with services.
 
@@ -43,4 +43,4 @@ We are over 600 strong with representation from all across government—and grow
 
 Working together, we can pull out the most valuable pieces of data and information and transform it into concrete knowledge that can be shared and used.
 
-Let’s continue the discussion here. What can Digital Knowledge Managers do to make your jobs easier? What are your biggest challenges? Whether you are part of a large social media team or a one-person dynamo armed with a Twitter handle, we want to hear from you!_Alison Lemon is a Knowledge Manager for the [SocialGov Community]({{< ref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA&#8217;s Office of Women&#8217;s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+Let’s continue the discussion here. What can Digital Knowledge Managers do to make your jobs easier? What are your biggest challenges? Whether you are part of a large social media team or a one-person dynamo armed with a Twitter handle, we want to hear from you!_Alison Lemon is a Knowledge Manager for the [SocialGov Community]({{< ref "communities/social-media.md" >}}) and a Senior Analyst for Social Media with the FDA&#8217;s Office of Women&#8217;s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

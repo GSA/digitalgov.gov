@@ -34,4 +34,4 @@ For this month&#8217;s UX theme, we&#8217;re hitting this topic from lots of ang
   * Why [slow load times can crush your Responsive Web Design implementation]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}} "Trends on Tuesday: Speed Matters When Measuring Responsive Web Design Performance Load Times")
   * How to ensure people use your site search? Here’s [one important thing NOT to do]({{< ref "2014-11-24-placeholder-text-think-outside-the-box.md" >}} "Placeholder Text: Think Outside the Box")
 
-Finally, if you want to get involved with the 530+ members of the [Federal User Experience Community]({{< ref "user-experience.md" >}} "Federal User Experience Community"), please [email us](mailto:UXgov@gsa.gov) and we&#8217;ll get you signed up.
+Finally, if you want to get involved with the 530+ members of the [Federal User Experience Community]({{< ref "communities/user-experience.md" >}} "Federal User Experience Community"), please [email us](mailto:UXgov@gsa.gov) and we&#8217;ll get you signed up.

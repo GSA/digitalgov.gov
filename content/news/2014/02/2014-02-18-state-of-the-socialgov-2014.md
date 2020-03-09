@@ -23,7 +23,7 @@ If the silos and barriers that separated our programs are smashed, what could we
 
 Whether you’re a citizen who needs better access to services, an entrepreneur looking to spark innovation in the marketplace, or a public servant who wants to get your mission done more effectively and efficiently &#8212; there have never been more opportunities to achieve these through social media in government.
 
-Our <a href="https://www.youtube.com/watch?v=mmpG94tDtWQ&list=UU5V8jrK77-8gsa9RL_taG9A&feature=c4-overview" target="_blank">State of the #SocialGov 2014 webinar</a> discussed growth in the <a href="{{< ref "social-media.md" >}}" target="_blank">Federal Social Media Community of Practice</a>, known as the #**SocialGov Community**, and how more than 500 members from more than 130 agencies are working together to create a government that is more:
+Our <a href="https://www.youtube.com/watch?v=mmpG94tDtWQ&list=UU5V8jrK77-8gsa9RL_taG9A&feature=c4-overview" target="_blank">State of the #SocialGov 2014 webinar</a> discussed growth in the <a href="{{< ref "communities/social-media.md" >}}" target="_blank">Federal Social Media Community of Practice</a>, known as the #**SocialGov Community**, and how more than 500 members from more than 130 agencies are working together to create a government that is more:
 
   * **Citizen-centric**: by creating programs that begin and end with providing a better customer experience based on feedback, analysis and responsiveness;
   * **Integrated**: by sharing and collaborating better between agencies and citizens, whether through the web, mobile or data anytime, anywhere on any device;

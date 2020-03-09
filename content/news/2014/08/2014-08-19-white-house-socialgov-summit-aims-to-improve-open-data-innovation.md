@@ -22,7 +22,7 @@ topics:
 
 More than 100 digital engagement and open data managers from across government met with leaders in the private sector startup community August 7 at the White House for a summit on integrating our digital services with public participation to create more opportunities for innovation and tackle tougher challenges.
 
-The <a href="{{< tmp "events/socialgov-summit-for-open-data-innovation.md" >}}" target="_blank">SocialGov Summit on Open Data Innovation</a> was organized by the 700-member <a href="{{< ref "social-media.md" >}}" target="_blank">SocialGov Community</a> and <a href="http://www.whitehouse.gov/administration/eop/ostp/blog" target="_blank">White House Office of Science and Technology Policy</a>, launching a new inter-community initiative to apply combined open data, digital engagement, and innovative technologies to fields ranging from the Internet of Things and emergency management to modernization of the regulatory process.
+The <a href="{{< tmp "events/socialgov-summit-for-open-data-innovation.md" >}}" target="_blank">SocialGov Summit on Open Data Innovation</a> was organized by the 700-member <a href="{{< ref "communities/social-media.md" >}}" target="_blank">SocialGov Community</a> and <a href="http://www.whitehouse.gov/administration/eop/ostp/blog" target="_blank">White House Office of Science and Technology Policy</a>, launching a new inter-community initiative to apply combined open data, digital engagement, and innovative technologies to fields ranging from the Internet of Things and emergency management to modernization of the regulatory process.
 
 The format of the event shadowed the roles of social media in government itself:
 

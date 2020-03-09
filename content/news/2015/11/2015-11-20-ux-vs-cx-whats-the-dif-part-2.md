@@ -51,7 +51,7 @@ CX and UX are everywhere in government now. However you define them, agencies ar
 
   * Join a community
       * [Customer Experience]({{< ref "customer-experience-community.md" >}})
-      * [User Experience]({{< ref "user-experience.md" >}})
+      * [User Experience]({{< ref "communities/user-experience.md" >}})
   * Take some training
       * [Upcoming events from DigitalGov University]({{< ref "/events" >}})
       * [CX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW)
@@ -61,4 +61,4 @@ CX and UX are everywhere in government now. However you define them, agencies ar
 
 How has your agency embraced CX and UX? Tell us in the comments.
 
-_Thanks to members of the [UX]({{< ref "user-experience.md" >}}) and [CX]({{< ref "customer-experience-community.md" >}}) communities for their contributions to this article._
+_Thanks to members of the [UX]({{< ref "communities/user-experience.md" >}}) and [CX]({{< ref "customer-experience-community.md" >}}) communities for their contributions to this article._

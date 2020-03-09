@@ -49,7 +49,7 @@ The mentorship program will help make challenges and prizes a reality across the
 
 But that’s not all.
 
-OSTP in collaboration with the [Federal Community of Practice on Crowdsourcing and Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}) (CCS) and GSA’s [Open Opportunities](https://openopps.digitalgov.gov/) program recently launched an [online toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) with case studies and tips for managing all types of crowdsourcing and citizen science projects. In addition, the CCS works across the government to develop best practices for designing, implementing and evaluating crowdsourcing and citizen science initiatives.
+OSTP in collaboration with the [Federal Community of Practice on Crowdsourcing and Citizen Science]({{< ref "communities/crowdsourcing-and-citizen-science.md" >}}) (CCS) and GSA’s [Open Opportunities](https://openopps.digitalgov.gov/) program recently launched an [online toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) with case studies and tips for managing all types of crowdsourcing and citizen science projects. In addition, the CCS works across the government to develop best practices for designing, implementing and evaluating crowdsourcing and citizen science initiatives.
 
 It’s one of several new initiatives designed to [build momentum for open innovation](https://www.whitehouse.gov/blog/2015/10/22/building-momentum-open-innovation) in response to the White House’s call.
 

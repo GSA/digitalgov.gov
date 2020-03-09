@@ -47,7 +47,7 @@ The toolkit, however, requires agency practitioners to offer their learnings, ex
 
 ## Enter the Agency Coordinator {{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
 
-Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}), to help track and organize the growing number of crowdsourcing projects.
+Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< ref "communities/crowdsourcing-and-citizen-science.md" >}}), to help track and organize the growing number of crowdsourcing projects.
 
 Appointed by their agencies, these coordinators will help with a variety of activities, including:
 

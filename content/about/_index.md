@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Digital.gov"
 deck: 'We help the government community deliver better digital services.'
-summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
+summary: 'Welcome to Digital.gov. Learn more about what we&#39;re working on'
 aliases:
   - /contact-us/
 
@@ -50,15 +50,15 @@ We’ve found that agencies need:
 
 ## What We Are Working On
 
-Over the last decade, DigitalGov has become a destination in government to learn about the methods, practices, policies and tools that are needed to create effective digital services.
+Over the last decade, Digital.gov has become a destination in government to learn about the methods, practices, policies and tools that are needed to create effective digital services.
 
-And we believe DigitalGov should set the example for how government learns, builds, delivers and measures digital services in the 21st century.
+And we believe Digital.gov should set the example for how government learns, builds, delivers and measures digital services in the 21st century.
 
-We are building DigitalGov into a destination that practices the methods that it teaches, and along the way, we are going to tell the story of how we get there, using the very tools that are available in the open, across the government.
+We are building Digital.gov into a destination that practices the methods that it teaches, and along the way, we are going to tell the story of how we get there, using the very tools that are available in the open, across the government.
 
-- [DigitalGov on GitHub](https://github.com/GSA/digitalgov.gov)
+- [Digital.gov on GitHub](https://github.com/GSA/digitalgov.gov)
 - [Follow us on Twitter](https://twitter.com/digital_gov/)
-- [Join our Facebook page](https://www.facebook.com/DigitalGov)
+- [Join our Facebook page](https://www.facebook.com/Digital.gov)
 - [Subscribe to our newsletter]({{< ref "/about/subscribe.md" >}})
 - [Join a community of practice]({{< ref "/communities/_index.md" >}})
 - Reach out, [send us an email](mailto:digitalgov@gsa.gov)
@@ -66,17 +66,17 @@ We are building DigitalGov into a destination that practices the methods that it
 ## Our Team
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in the federal government and have a wealth of experience creating modern digital services.
 
-**Digital.gov:** Jeremy Zilar, Toni Bonitto <br/>
+**Digital.gov:** Sara Cope, Toni Bonitto, Jeremy Zilar <br/>
 **Communities:** Jacob Parcell <br/>
-**Video and Events:** Alexandar Schulte, Gabrielle Fratanduono <br/>
-**U.S. Web Design System:** Dan Williams, Sara Cope <br/>
+**Events and Video:** Alexandar Schulte, Gabrielle Fratanduono <br/>
+**U.S. Web Design System:** Dan Williams <br/>
 
 ## Contact Us
-
-For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
 **Have a question or comment?**
 
 - [Send us an email »](mailto:digitalgov@gsa.gov)
 - [Create an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
 - Or make an edit to our pages
+
+For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
