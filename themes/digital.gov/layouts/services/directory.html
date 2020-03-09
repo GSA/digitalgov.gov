@@ -23,7 +23,7 @@
   </div>
 
   {{/* Gets all service pages */}}
-  {{- $services := (where .Site.Pages "Section" "services") -}}
+  {{- $services := (where .Site.RegularPages "Section" "services") -}}
 
   <div class="grid-container grid-container-desktop-lg">
     <div class="grid-row">
