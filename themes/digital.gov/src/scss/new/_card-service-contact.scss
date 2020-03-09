@@ -75,9 +75,27 @@
     }
     .authors-list-short{
       @include u-margin(0);
-      @include u-margin-left(3);
+    }
+  }
+  .copy-contacts{
+    @include u-margin-left(3);
+    @include at-media('tablet') {
+      @include u-margin-left(0);
+    }
+    @include u-display('flex');
+    @include u-flex('align-start');
+    .contact{
+      @include u-margin-top(1);
+      @include u-margin-right('105');
       @include at-media('tablet') {
-        @include u-margin-left(0);
+        @include u-margin-right(2);
+      }
+      @include u-text('black');
+      @include u-text('no-underline');
+      &:hover{
+        span{
+          @include u-border-bottom('1px','black','solid');
+        }
       }
     }
   }
