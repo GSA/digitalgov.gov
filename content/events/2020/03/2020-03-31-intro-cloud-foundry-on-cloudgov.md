@@ -54,11 +54,11 @@ While this session will focus on developer interactions, it is ideal for anyone 
 
 A regular speaker at conferences, unconferences, and meetups, Steve was invited to be a keynote speaker at the Cloud Foundry Summit in Basel in 2018.
 
----
 
-## Related Links
+## Related
 
- - [Cloud.gov](https://cloud.gov/)
+ - [**Try cloud.gov for free**](https://cloud.gov/sign-up/) — [Follow this guide](https://cloud.gov/sign-up/) to create an account and deploy a sample app in your own free sandbox.
+ - Learn more about [Cloud.gov](https://cloud.gov/)
  - [Cloud Foundry](https://cloudfoundry.org)
  - [Cloud Foundry on GitHub](https://github.com/cloudfoundry)
 
