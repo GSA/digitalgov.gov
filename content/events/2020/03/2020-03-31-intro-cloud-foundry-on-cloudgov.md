@@ -58,9 +58,9 @@ A regular speaker at conferences, unconferences, and meetups, Steve was invited 
 
 ## Related Links
 
- - [https://cloud.gov/](https://cloud.gov/)
- - [https://cloudfoundry.org](https://cloudfoundry.org)
- - [https://github.com/cloudfoundry](https://github.com/cloudfoundry)
+ - [Cloud.gov](https://cloud.gov/)
+ - [Cloud Foundry](https://cloudfoundry.org)
+ - [Cloud Foundry on GitHub](https://github.com/cloudfoundry)
 
  ---
 
