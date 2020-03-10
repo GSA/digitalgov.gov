@@ -3,7 +3,7 @@
 # https://digital.gov/topics/https
 
 # Topic Title
-title: "Https"
+title: "https"
 
 # description — keep it short and clear
 summary: ""
