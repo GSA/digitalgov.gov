@@ -15,7 +15,7 @@ pronoun: ""
 email: ammie.farrajfeijoo@gsa.gov
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Ammie is the implementation lead for [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) at GSA's Technology Transformation Services."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
