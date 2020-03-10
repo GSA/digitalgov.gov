@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: intro-cloud-foundry-on-cloudgov
+kicker: Cloud.gov
 title: "Intro to Cloud Foundry on Cloud.gov"
 deck: "A look at the open source cloud application platform behind Cloud.gov"
 summary: "In this workshop, we demonstrate the basics of using the Cloud.gov platform as a developer."
