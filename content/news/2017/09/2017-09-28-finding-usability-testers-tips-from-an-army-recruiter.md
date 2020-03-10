@@ -19,6 +19,7 @@ topics:
 featured_image:
   uid: typing-on-laptop-close-up-littlehenrabi-istock-thinkstock-537275804
   alt: 'Close-up of hands typing on laptop.'
+
 ---
 
 After spending 22 years in the U.S. Army, including 3 years as a recruiter, Julie Jackson realized that not only was she qualified to work in usability, but had a knack for it—especially because of her ability to strike up a conversation with nearly anyone, anywhere. Julie shares how her training in the Army has helped in her approach to [usability testing]({{< ref "/topics/research" >}}), and gives a peek inside how usability testing works for [USAJOBS.gov](https://www.usajobs.gov/) at the [Office of Personnel Management](https://www.opm.gov/) (OPM).
@@ -77,7 +78,7 @@ In the Army, things didn’t always go as planned. I use those experiences to en
 
 ## In closing, what advice would you give to another usability expert in government who is struggling to find testers?
 
-**Talk to everyone.** Never let an opportunity to recruit passes you by. In the Army, I was always recruiting; when I was at a restaurant I would talk to the waiter/waitress, when I was at the ER one time with a broken ankle, I talked to guy taking my vital signs, and when I was making a medical appointment the other day I talked to people making my appointment. I don’t expect everyone to do this, but, if you can you will find people who want to help.
+**Talk to everyone.** Never let an opportunity to recruit pass you by. In the Army, I was always recruiting; when I was at a restaurant I would talk to the waiter/waitress, when I was at the ER one time with a broken ankle, I talked to guy taking my vital signs, and when I was making a medical appointment the other day I talked to people making my appointment. I don’t expect everyone to do this, but, if you can you will find people who want to help.
 
 **Always ask for referrals.** This is a great way to find people you may otherwise never encounter. Ask open an open ended question like “who do you know that would be interested in helping us out?”
 
