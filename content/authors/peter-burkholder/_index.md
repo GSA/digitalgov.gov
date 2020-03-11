@@ -2,15 +2,13 @@
 # View this page at https://digital.gov/authors/peter-burkholder
 # Learn how to edit our pages at https://workflow.digital.gov
 
+slug: peter-burkholder
 display_name: "Peter Burkholder"
 first_name: "Peter"
 last_name: "Burkholder"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: "peter-burkholder"
-
-# user id — not easily changed
-slug: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
 email:

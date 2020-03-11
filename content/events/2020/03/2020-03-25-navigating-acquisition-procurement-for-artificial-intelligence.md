@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2020/03/navigating-acquisition-procurement-for-artificial-intelligence
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: navigating-acquisition-procurement-for-artificial-intelligence
-title: "Navigating acquisition and procurement for artificial intelligence and advanced data analytics"
+title: "Navigating Acquisition and Procurement for Artificial Intelligence and Advanced Data Analytics"
 deck: ""
 summary: "We will provide guidance on how to manage the process of procuring AI products, services, and technologies, including considerations, pitfalls, and lessons learned."
 host: "Artificial Intelligence Community of Practice"
