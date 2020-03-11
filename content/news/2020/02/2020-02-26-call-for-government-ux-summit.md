@@ -31,6 +31,13 @@ primary_image: "ux-government-summit-2020"
 
 ---
 
+
+{{< note >}}
+The March 9th deadline has passed. Thank you&mdash;we have received a number of submissions on a wide variety of topics related to UX! 
+
+A great committee of government employees is in the process of reviewing the submissions to create the program. We expect to finalize the program in early April, and will then post it on the [Events](https://digital.gov/events/) page so you can register for the Summit in May. 
+{{< /note >}}
+
 Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/). 
 
 Join us as presenters for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government. 
