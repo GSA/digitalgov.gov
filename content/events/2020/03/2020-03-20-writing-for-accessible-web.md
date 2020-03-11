@@ -38,3 +38,9 @@ Interested in how to write accessible web content? Then join us for this special
 Do you create content for a website or digital product? Do you contribute documents, text, or images that end up on a website or digital product? Regardless of your role in government, you’re a content creator.
 
 We all communicate with each other and the public in the course of our duties. And yet, accessibility is often viewed through the lens of software development or visual design. This presentation will focus on what we can all do to design content that is accessible to everyone. We’ll also talk about how accessible content design is better for all users.
+
+
+#Presenter
+Ryan Johnson is a content strategist at 18F. He has worked at the intersection of communications and technology for over a decade. Before joining 18F earlier this year, Ryan worked for nonprofits, academia, local government, and the Department of the Interior.
+
+Ryan specializes in content strategy, content design, accessibility, and information architecture. He lives in Portland, Oregon.
