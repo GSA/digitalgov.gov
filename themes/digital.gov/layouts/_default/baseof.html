@@ -22,6 +22,8 @@
     {{- partialCached "core/usa-banner.html" . -}}
     {{- if eq .Type "guides" -}}
     {{- partial "core/guides/guide-header.html" . -}}
+    {{- else if eq .Type "resources" -}}
+    {{- partial "core/header-flat.html" . -}}
     {{- else -}}
     {{- partialCached "core/header.html" . -}}
     {{- end -}}

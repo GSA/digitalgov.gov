@@ -1,6 +1,6 @@
 .search-bar{
-  @include u-padding-y(4);
-  @include u-bg('gray-warm-5');
+  @include u-padding-top(4);
+  // @include u-bg('gray-warm-5');
 
   form{
     div{
@@ -19,7 +19,18 @@
       }
       .usa-button{
         @include u-height(6);
+        @include u-width(7);
       }
+    }
+  }
+
+  .search-sites{
+    @include u-margin-top(1);
+    @include u-font('sans', '2xs');
+    @include u-text('base-dark');
+    @include u-text('normal');
+    a{
+
     }
   }
 }

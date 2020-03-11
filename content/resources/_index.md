@@ -1,7 +1,7 @@
 ---
 title: "Guides and Resources"
-deck: ":evergreen_tree: Essential ‘how-to’ guidance for product managers in government."
-summary: "Common resources for people working in Digital government."
+deck: ":evergreen_tree: The essential ‘how-to’ guidance for product managers in government."
+summary: "Essential ‘how-to’ guidance from across government product managers in government."
 aliases:
   - /tools/
 
