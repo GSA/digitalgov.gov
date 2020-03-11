@@ -31,6 +31,10 @@ event_platform: zoom
 # YouTube ID
 youtube_id: 
 
+# see all authors at https://digital.gov/authors
+authors:
+  - ryan-johnson
+
 # Make it better ♥
 ---
 
