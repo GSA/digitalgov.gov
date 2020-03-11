@@ -4,7 +4,7 @@
 
 # slug — the specific user-id for an author.
 slug: evan-matthew-papp
-display_name: "Evan Matthew Papp "
+display_name: "Evan Matthew Papp"
 first_name: "Evan Matthew"
 last_name: "Papp"
 
@@ -37,9 +37,9 @@ github: ""
 profile_photo: ""
 
 # [e.g., Digital_Gov]
-twitter: ""
+twitter: "EvanMatthewPapp"
 facebook: ""
-instagram: ""
+instagram: "evanmatthewpapp"
 linkedin: ""
 youtube: ""
 
