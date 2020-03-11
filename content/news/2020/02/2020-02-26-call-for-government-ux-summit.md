@@ -38,7 +38,7 @@ A great committee of government employees is in the process of reviewing them to
 
 **Save the date**<br/>
 Government UX Summit 2020<br/>
-May 12, 2020, 9:00 am - 4:00 pm, ET<br/>
+May 12, 2020, 9:00 am to 4:00 pm, ET<br/>
 at the Library of Congress ([map](https://www.google.com/maps/place/Library+of+Congress/@38.888684,-77.0069077,17z/data=!3m2!4b1!5s0x89b7b82bf81714b1:0xb306acf1c3a0b282!4m5!3m4!1s0x390feef68ef83a4d:0x46cbb296f4de3eec!8m2!3d38.888684!4d-77.004719))<br/>
 {{< /note >}}
 
