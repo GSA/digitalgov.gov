@@ -4,7 +4,7 @@
 slug: learning-culture-10-personalized-employee-experiences
 
 # Short URL — https://go.usa.gov/
-short_url: JOJO
+short_url: https://go.usa.gov/xd62X
 date: 2020-03-11 19:00:00 -0500
 kicker: "Professional Development"
 title: "Learning Culture: 10 Personalized Employee Experiences"
