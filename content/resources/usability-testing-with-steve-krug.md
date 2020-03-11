@@ -23,7 +23,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - andrea-sigritz
+  - andreanocesigritz
   - jeremyzilar
 
 # Page weight: controls how this page appears across the site
