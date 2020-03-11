@@ -31,6 +31,12 @@ primary_image: "ux-government-summit-2020"
 
 ---
 
+{{< note >}}
+**The March 9th deadline for submissions has passed.** Thank you&mdash;we have received a number of submissions on a wide variety of topics related to UX! 
+
+A great committee of government employees is in the process of reviewing them to create the program. We expect to finalize the program in early April, and will then post it on the [Events](https://digital.gov/events/) page so you can register for the Summit. 
+{{< /note >}}
+
 Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/). 
 
 Join us as presenters for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government. 
@@ -84,4 +90,4 @@ We're looking for presentations in the following formats:
 
 _The Government UX Summit 2020 is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and Digital.gov._
 
-_[**Join the UX CoP**](https://digital.gov/communities/user-experience/) is a group of more than 1,200 federal, tribal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide training, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join._
+_[**Join the UX CoP**](https://digital.gov/communities/user-experience/) &mdash; a group of more than 1,200 federal, tribal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide training, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join._
