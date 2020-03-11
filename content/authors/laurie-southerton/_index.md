@@ -21,10 +21,10 @@ bio: ""
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. General Services Administration, FedRAMP"
+agency_full_name: "U.S. General Services Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: "GSA, FedRAMP"
+agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
