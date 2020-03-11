@@ -40,14 +40,14 @@ Our articles this month will delve into some of these methods through examples, 
 ## Appealing to the Citizen Scientist
 
 Citizen science is a hot topic in open crowdsourcing efforts. Imagine how much more agencies can achieve by inviting non-government researchers, scientists, technologists, academics and others into the scientific process to identifying research questions, collect and analyze data, interpret and extrapolate from results.
-  
+
 It’s small wonder, then, that so many agencies are turning to citizen science for many new and exciting initiatives, including:
 
   * [Oak Ridge National Laboratory’s challenge](http://web.ornl.gov/sci/buildings/jump/) to increase energy efficiency in buildings
   * [The Environmental Protection Agency’s effort](https://ccsinventory.wilsoncenter.org/#projectId/228) to measure and address the impacts of transit and air pollution on children’s health
   * [The National Park Service’s pilot program](http://www.nps.gov/rlc/continentaldivide/international-partnerships.htm) that allows students to study species present in both the Rocky Mountains and a park in Costa Rica.
 
-The White House Office of Science and Technology Policy (OSTP) also led an effort to [create a toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) for those wishing to carry out their own citizen science and crowdsourcing projects. The [Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}) community of practice worked to establish the toolkit and now is ramping-up coordination efforts in this area, including development of a central online database for federal citizen science initiatives.
+The White House Office of Science and Technology Policy (OSTP) also led an effort to [create a toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) for those wishing to carry out their own citizen science and crowdsourcing projects. The [Citizen Science]({{< ref "communities/crowdsourcing-and-citizen-science.md" >}}) community of practice worked to establish the toolkit and now is ramping-up coordination efforts in this area, including development of a central online database for federal citizen science initiatives.
 
 The partnership between GSA and OSTP also will help establish coordinators at each agency who can help manage contributions to this database.
 

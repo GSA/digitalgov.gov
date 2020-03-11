@@ -304,7 +304,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Video Library" href="{{< ref "digitalgov-university.md" >}}">Video Library</a>
+      <a title="Video Library" href="{{< ref "/events" >}}">Video Library</a>
     </td>
   </tr>
 

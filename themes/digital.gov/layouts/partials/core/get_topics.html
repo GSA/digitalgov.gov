@@ -29,8 +29,11 @@
 
       {{/* Show only topics with weight 2 or 3 */}}
       {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
-        <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a>
+        {{/* <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a> */}}
       {{- end -}}
+
+      {{/* Show all topics, regardless of weight */}}
+      <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a>
 
     {{- end -}}
   {{- end -}}

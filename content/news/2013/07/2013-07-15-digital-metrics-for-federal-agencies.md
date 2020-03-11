@@ -725,7 +725,7 @@ Social media is transforming how government engages with citizens and how it del
 
 Analysis of this social data is critical not just for agency communication offices—but also for program managers at every level of your organization. [Social media in government]({{< ref "/topics/social-media" >}}) increasingly requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.
 
-Here are a set of recommended, baseline social media metrics, developed and maintained by an interagency working group of the [Federal Social Media Community of Practice]({{< ref "social-media.md" >}}). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
+Here are a set of recommended, baseline social media metrics, developed and maintained by an interagency working group of the [Federal Social Media Community of Practice]({{< ref "communities/social-media.md" >}}). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
 
 ## <a name="part-2"></a>Part 2: Reporting Requirements and Common Tools
 
@@ -853,7 +853,7 @@ To support this common framework, agencies should collect performance and custom
 
   * [Web and New Media Community]({{< ref "web-managers-forum.md" >}})—an ad hoc group of over 3,000 federal, state, local, and tribal U.S. government employees.
   * Metrics Community of Practice—part of the [Federal Web Managers Council]({{< ref "web-managers-forum.md" >}}), an inter-agency group working to improve digital metrics.
-  * [Social Media Performance Metrics working group]({{< ref "social-media.md" >}}).
+  * [Social Media Performance Metrics working group]({{< ref "communities/social-media.md" >}}).
 
 ### **Training**
 

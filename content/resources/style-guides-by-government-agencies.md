@@ -12,7 +12,7 @@ topics:
 
 Style guides are used to set the tone and guidelines for how an agency communicates with the public.
 
-This page is a collection of style guides created by government agencies.  You can add your agency&#8217;s guide by [emailing DigitalGov]({{< ref "/about/_index.md" >}}) or sharing in the [Plain Language Community of Practice]({{< ref "plain-language-community-of-practice.md" >}}).
+This page is a collection of style guides created by government agencies.  You can add your agency&#8217;s guide by [emailing DigitalGov]({{< ref "/about/_index.md" >}}) or sharing in the [Plain Language Community of Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}).
 
 ---
 

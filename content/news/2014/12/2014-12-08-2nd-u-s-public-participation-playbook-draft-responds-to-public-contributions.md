@@ -251,4 +251,4 @@ Scott Prince, National Institutes of Health
 
 Veronica Wendt, National Defense University
 
-<em>Justin Herman is the <a href="{{< ref "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>
+<em>Justin Herman is the <a href="{{< ref "communities/social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>

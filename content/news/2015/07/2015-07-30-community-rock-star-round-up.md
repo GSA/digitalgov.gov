@@ -57,7 +57,7 @@ We wanted to recognize the [Open and Structure Content Working Group](http://gsa
 
 ## User & Customer Experience (UX) & (CX)
 
-Some leaders from the [User Experience]({{< ref "user-experience.md" >}}) and Customer Experience groups include folks who are champions of knowledge sharing and making sure the user/customer is at the forefront of thinking during decision making at their agencies.
+Some leaders from the [User Experience]({{< ref "communities/user-experience.md" >}}) and Customer Experience groups include folks who are champions of knowledge sharing and making sure the user/customer is at the forefront of thinking during decision making at their agencies.
 
 **Lin Wang**, of the U.S. Census Bureau, is the head of Census’ UX program, a federal leader in survey methodology and a great friend to the UX community. She has been sponsoring tours of their UX lab, discussing their team structure and leading workshops for the larger community.
 
@@ -74,7 +74,7 @@ Also from GSA, **Leilani Martinez** and **Victoria Wales** produced articles sup
 
 ## SocialGov
 
-In the [#SocialGov Community]({{< ref "social-media.md" >}}) we’d like to acknowledge representatives from the National Institutes of Health, State Department Bureau of Consular Affairs, Office of the Director of National Intelligence, Defense Intelligence Agency, and the Federal Communications Commission (FCC). These rock stars not only consistently contributed to inter-agency programs on top of running their own, they specifically helped build the collaborative model that led to the creation of our best new initiatives like the [U.S. Public Participation Playbook]({{< ref "2015-02-05-u-s-public-participation-playbook-open-for-coders-and-designers-on-github.md" >}}), the [Cyber-Vandalism Prevention toolkit]({{< ref "2015-01-27-new-inter-agency-social-media-cyber-vandalism-toolkit-launched.md" >}}) and created content for us.
+In the [#SocialGov Community]({{< ref "communities/social-media.md" >}}) we’d like to acknowledge representatives from the National Institutes of Health, State Department Bureau of Consular Affairs, Office of the Director of National Intelligence, Defense Intelligence Agency, and the Federal Communications Commission (FCC). These rock stars not only consistently contributed to inter-agency programs on top of running their own, they specifically helped build the collaborative model that led to the creation of our best new initiatives like the [U.S. Public Participation Playbook]({{< ref "2015-02-05-u-s-public-participation-playbook-open-for-coders-and-designers-on-github.md" >}}), the [Cyber-Vandalism Prevention toolkit]({{< ref "2015-01-27-new-inter-agency-social-media-cyber-vandalism-toolkit-launched.md" >}}) and created content for us.
 
 **Alison Lemon** of NIH was a SocialGov 20%er, [through Open Opportunities](https://openopps.digitalgov.gov/tasks), taking on knowledge management and [writing articles]({{< ref "/authors/alison-lemon" >}}). Take a look at how [HHS and the Environmental Protection Agency used Thunderclap]({{< ref "2014-06-25-case-studies-in-thunderclap.md" >}}) to spread their campaigns.
 
