@@ -34,7 +34,7 @@ github: "laurenancona"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: ""
+profile_photo: "github"
 
 # [e.g., Digital_Gov]
 twitter: ""
