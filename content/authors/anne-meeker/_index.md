@@ -1,41 +1,40 @@
 ---
-# View this page at https://digital.gov/authors/lalitha-jonnalagadda
+# View this page at https://digital.gov/authors/anne-meeker
 # Learn how to edit our pages at https://workflow.digital.gov
 
-display_name: "Lalitha Jonnalagadda"
-first_name: "Lalitha"
-last_name: "Jonnalagadda"
+# slug — the specific user-id for an author.
+slug: anne-meeker
+display_name: "Anne Meeker"
+first_name: "Anne"
+last_name: "Meeker"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: "She/Her"
-
-# user id — not easily changed
-uid: "lalitha-jonnalagadda"
+pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: lalitha.jonnalagadda@gsa.gov
+email: 
 
 # Bio — keep it under 50 words
-bio: "Product Manager at 18F"
+bio: ""
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. General Services Administration"
+agency_full_name: "Office of Congressman Seth Moulton (MA-06)"
 
 # Agency Acronym [e.g., GSA]
-agency: "18F"
+agency: ""
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: "New York City"
+location: ""
 
-# A GitHub account will allow you to edit pages on DigitalGov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
-github: "lalitha-jonnalagadda"
+# A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
+github: ""
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: "github"
+profile_photo: ""
 
 # [e.g., Digital_Gov]
 twitter: ""
@@ -43,11 +42,6 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
 
 # Make it better ♥
 ---

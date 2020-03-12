@@ -1,5 +1,10 @@
 // Styles for the main resources page
 
+.resources {
+  .paper{
+    @include u-bg('gray-cool-5');
+  }
+}
 #resources {
   .list-collection{
     @include u-margin-bottom(2);
@@ -15,13 +20,14 @@
 }
 
 #resources_by_topic{
+  @include u-bg('white');
   @include u-padding-top(1);
   h2 {
     @include u-margin-bottom(2);
+    @include u-padding-top(5);
     @include u-text('semibold');
     @include u-font('sans', 'sm');
     @include u-border-top('1px', 'base-light', 'solid');
-    @include u-padding-top(5);
   }
   .topic-section{
     @include u-margin-top(0);

@@ -1,4 +1,5 @@
 #resources_featured{
+  @include u-bg('white');
   @include u-padding-y(2);
   .list-collection{
     @include u-border(0);

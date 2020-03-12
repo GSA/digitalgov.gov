@@ -1,4 +1,4 @@
-<div class="page-head">
+<header class="page-head page-head-{{- .Type -}}">
 
   {{- if not .IsNode -}}
     {{- if .Params.kicker -}}
@@ -17,4 +17,4 @@
   <div class="usa-intro">{{- .Params.deck | markdownify -}}</div>
   {{- end -}}
 
-</div>
+</header>
