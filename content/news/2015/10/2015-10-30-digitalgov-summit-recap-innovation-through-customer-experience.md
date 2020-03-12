@@ -58,4 +58,4 @@ The full panel discussion is available below.
 
 ## Full Video
 
-[youtube=http://www.youtube.com/watch?v=2dH_hvUNEVM&w=600]
+{{< youtube 2dH_hvUNEVM >}}
