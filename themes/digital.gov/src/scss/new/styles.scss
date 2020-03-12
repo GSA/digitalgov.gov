@@ -54,6 +54,8 @@
 @import 'card-event';
 
 @import 'article';
+@import 'page-head';
+
 @import 'news';
 @import 'events';
 @import 'table-of-contents';
@@ -81,6 +83,7 @@
 @import 'author-profile';
 
 @import 'notice-bar';
+@import 'search-bar';
 
 @import 'related_promos';
 @import 'video';
@@ -89,8 +92,9 @@
 @import 'home/home';
 @import 'home/events';
 @import 'home/topics_featured';
-@import 'home/resources_featured';
+@import 'resources_featured';
 @import 'home/communities';
+
 
 @import 'community-info';
 

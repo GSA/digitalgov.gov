@@ -1,0 +1,33 @@
+.search-bar{
+  @include u-padding-top(4);
+  // @include u-bg('gray-warm-5');
+
+  form{
+    div{
+      @include u-flex('justify-center');
+      input{
+        @include u-padding-y(1);
+        @include u-height(6);
+        @include u-font('sans', 'lg');
+        @include u-maxw('tablet');
+        @include u-radius-left('md');
+        @include u-border('1px', 'base-light', 'solid');
+        @include u-border-right(0);
+        &::placeholder {
+          @include u-text('light');
+        }
+      }
+      .usa-button{
+        @include u-height(6);
+        @include u-width(7);
+      }
+    }
+  }
+
+  .search-sites{
+    @include u-margin-top(1);
+    @include u-font('sans', '2xs');
+    @include u-text('base-dark');
+    @include u-text('normal');
+  }
+}
