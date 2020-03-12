@@ -42,7 +42,6 @@ facebook: ""
 instagram: ""
 linkedin: "code.gov"
 youtube: ""
-medium: "codedotgov"
 
 # Make it better ♥
 ---

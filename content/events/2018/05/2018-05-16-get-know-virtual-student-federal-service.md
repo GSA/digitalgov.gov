@@ -1,23 +1,36 @@
 ---
+# View this page at https://digital.gov/event/2018/05/get-know-virtual-student-federal-service
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: get-know-virtual-student-federal-service
-title: 'Get to Know the Virtual Student Federal Service'
-summary: 'Learn how U&#46;S&#46; college students working remotely can be virtual interns for you and your federal government teams through the Virtual Student Federal Service&#46;'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - youtube-live
-  - online
-date: 2018-05-24 13:00:00 -0500
-end_date: 2018-05-24 14:00:00 -0500
-event_organizer: DigitalGov University
-host: 
+title: "Get to Know the Virtual Student Federal Service"
+deck: ""
+summary: "Learn how U.S. college students working remotely can be virtual interns for you and your federal government teams through the Virtual Student Federal Service."
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/virtual-student-federal-service-vsfs-submit-a-project-and-make-an-impact-registration-46118530767
-youtube_id: aQWmGrrsvtY
-topics:
+captions: 
+
+# start date
+date: 2018-05-24 14:00:00 -0500
+
+# end date
+end_date: 2018-05-24 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - professional-development
   - state
   - us-department-of-state
-  - professional-development
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - bridget-roddy
+  - nora-dempsey
+
+# YouTube ID
+youtube_id: aQWmGrrsvtY
+
+# Make it better ♥
 
 ---
 

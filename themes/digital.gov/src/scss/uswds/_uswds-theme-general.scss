@@ -25,7 +25,7 @@ Relative image file path
 ----------------------------------------
 */
 
-$theme-image-path: "../uswds/img/";
+$theme-image-path: "../uswds/img";
 
 /*
 ----------------------------------------
@@ -39,7 +39,7 @@ Show updates and notifications.
 */
 
 $theme-show-compile-warnings: true;
-$theme-show-notifications: true;
+$theme-show-notifications: false;
 
 /*
 ----------------------------------------

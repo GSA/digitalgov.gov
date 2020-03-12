@@ -1,21 +1,39 @@
 ---
+# View this page at https://digital.gov/event/2018/07/what-you-need-know-required-prize
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: what-you-need-know-required-prize-reporting-congress
-title: 'What You Need to Know&#58; Required Prize Reporting to Congress'
-summary: 'Federal employees who have been involved in running a prize competition for their agencies at any point during fiscal years 2017 and 2018 should attend this information session on prize reporting.'
-featured_image:
-  uid: challengegov-logo
-  alt: 'The challenge.gov star logo'
-event_type:
-  - youtube-live
-date: 2018-07-10 14:00:00 -0500
-end_date: 2018-07-10 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Challenge.gov
+title: "What You Need to Know: Required Prize Reporting to Congress"
+deck: ""
+summary: "Federal employees who have been involved in running a prize competition for their agencies at any point during fiscal years 2017 and 2018 should attend this information session on prize reporting."
+host: "Challenge.gov"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/required-prize-reporting-to-congress-what-you-need-to-know-registration-47272890488
-youtube_id: msyPsjhZM7A
-topics:
+captions: 
+
+# start date
+date: 2018-07-10 15:00:00 -0500
+
+# end date
+end_date: 2018-07-10 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - challenges
   - policy
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - jennifer-shieh
+  - shirley-han
+  - tammy-white
+
+# YouTube ID
+youtube_id: msyPsjhZM7A
+
+# Primary Image (for social media)
+primary_image: "challengegov-logo"
+
+# Make it better ♥
 
 ---
 

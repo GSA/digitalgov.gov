@@ -18,7 +18,7 @@ email: nina.bianchi@nih.gov
 bio: "Currently, as Director of Workforce Solutions with the IT Modernization Centers of Excellence (CoE), Nina Bianchi is leading cross-agency workforce innovation to improve service outcomes for citizen customers. From clinical trials and data supply chains to artificial intelligence and management operations, she is ushering in the future of federal leadership by design. "
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
@@ -43,10 +43,7 @@ instagram: ""
 linkedin: ""
 youtube: ""
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
+
 
 # Make it better ♥
 ---

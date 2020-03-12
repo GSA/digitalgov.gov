@@ -1,27 +1,41 @@
 ---
+# View this page at https://digital.gov/event/2018/07/dap-learning-series-analytics-accessibility
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-analytics-accessibility
-title: 'DAP Learning Series&#58; Analytics and Accessibility'
-summary: 'This online event will cover how to check if behaviors change when people are using keystrokes to click, which might give insight into how users with disabilities interact with your site'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-07-18 14:00:00 -0400
-end_date: 2018-07-18 15:00:00 -0400
-event_organizer: DigitalGov University
-host: Digital Analytics Program
+title: "DAP Learning Series: Analytics and Accessibility"
+deck: ""
+summary: "This online event will cover how to check if behaviors change when people are using keystrokes to click, which might give insight into how users with disabilities interact with your site"
+host: "Digital Analytics Program"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dap-learning-series-analytics-and-accessibility-registration-42564426345
-youtube_id: y0HD0baIIP0
-topics:
-  - analytics
-  - digital-analytics-program
+captions: 
+
+# start date
+date: 2018-07-18 14:00:00 -0500
+
+# end date
+end_date: 2018-07-18 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - accessibility
+  - metrics
+  - analytics
   - dap
   - digital-analytics-program
-  - metrics
-aliases:
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - tlowden
+
+# YouTube ID
+youtube_id: y0HD0baIIP0
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
   - /event/dap-learning-series-analytics-accessibility/
+
+# Make it better ♥
 
 ---
 
