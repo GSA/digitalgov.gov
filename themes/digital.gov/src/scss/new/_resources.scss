@@ -1,10 +1,12 @@
 // Styles for the main resources page
 
+// .paper sets the background-color for the page
 .resources.section {
   .paper{
     @include u-bg('gray-cool-5');
   }
 }
+
 #resources {
   .list-collection{
     @include u-margin-bottom(2);
