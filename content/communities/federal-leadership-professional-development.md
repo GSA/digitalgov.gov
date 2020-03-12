@@ -5,15 +5,21 @@
 slug: federal-leadership-professional-development
 date: 2020-03-10 16:00:00 -0500
 title: "Federal Leadership and Professional Development"
-deck: "Providing federal employees with seminars on leadership, professional development, and successful strategies"
-summary: "A by-government, for-government seminar series that connects federal employees, providing them with seminars on leadership, professional development, and successful strategies."
+deck: "Providing federal employees with seminars on leadership, professional development, and successful strategies."
+summary: "Providing federal employees with seminars on leadership, professional development, and successful strategies."
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
+# see all topics at https://digital.gov/topics
+topics:
+  - product-management
+  - professional-development
+  - training
 
 community_list:
-  - platform: listserv
-    type: government_only
-    subscribe_email: "FedLeadershipSeminar-subscribe-request@listserv.gsa.gov. "
-    subscribe_email_subject: "Subscribe FedLeadership CoP "
-    members: 4463
   - platform: listserv
     type: government only
     subscribe_email: FedLeadershipSeminar-subscribe-request@listserv.gsa.gov.
