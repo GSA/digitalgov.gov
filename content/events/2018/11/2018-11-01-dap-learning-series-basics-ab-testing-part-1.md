@@ -1,7 +1,3 @@
- ---
-# View this page at https://digital.gov/event/2018/11/dap-learning-series-basics-ab-testing
-# Learn how to edit our pages at https://workflow.digital.gov
-slug: dap-learning-series-basics-ab-testing-part-1
 ---
 # View this page at https://digital.gov/event/2018/11/dap-learning-series-basics-ab-testing
 # Learn how to edit our pages at https://workflow.digital.gov
