@@ -4,7 +4,7 @@
 slug: writing-for-accessible-web
 kicker: "Content Design"
 title: "Writing for the Accessible Web"
-deck: "Learn how you can effectively write accessible web content."
+deck: "Learn how to write and design web content that is accessible for everyone."
 summary: "Join us for this special presentation featuring 18f Content Strategist, Ryan Johnson, as he dives into how you can effectively write accessible web content."
 host: "TTS Accessibility and Content Guilds"
 event_organizer: "Digital.gov"
@@ -18,7 +18,7 @@ date: 2020-03-20 13:00:00 -0500
 end_date: 2020-03-20 14:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - accessibility
   - content
   - content-strategy
@@ -29,7 +29,7 @@ topics:
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id:
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -42,8 +42,16 @@ Interested in how to write accessible web content? Then join us for this special
 
 Do you create content for a website or digital product? Do you contribute documents, text, or images that end up on a website or digital product? Regardless of your role in government, you’re a content creator.
 
-We all communicate with each other and the public in the course of our duties. And yet, accessibility is often viewed through the lens of software development or visual design. This presentation will focus on what we can all do to design content that is accessible to everyone. We’ll also talk about how accessible content design is better for all users.
+We all communicate with each other and the public in the course of our duties. And yet, accessibility is often viewed through the lens of software development or visual design. This presentation will focus on what we can all do to design content that is accessible to everyone.
+
 
 ## Our speaker
 
-**Ryan Johnson** is a content strategist at [18F](https://18f.gsa.gov/). He has worked at the intersection of communications and technology for over a decade. Before joining 18F earlier this year, Ryan worked for nonprofits, academia, local government, and the Department of the Interior. Ryan specializes in content strategy, content design, accessibility, and information architecture. He lives in Portland, Oregon.
+**Ryan Johnson** is a content strategist at [18F](https://18f.gsa.gov/). He has worked at the intersection of communications and technology for over a decade. Before joining 18F earlier this year, Ryan worked for nonprofits, academia, local government, and the Department of the Interior. Ryan specializes in content strategy, content design, accessibility, and information architecture. He lives in Portland, OR.
+
+## Related
+- [18F Content Guide](https://content-guide.18f.gov/)
+- [18F Accessibility Guide](https://accessibility.18f.gov/)
+- [Accessibility for Teams](https://accessibility.digital.gov/)
+- [PlainLanguage.gov](https://plainlanguage.gov)
+- More on [Accessibility](https://digital.gov/topics/accessibility/) on Digital.gov
