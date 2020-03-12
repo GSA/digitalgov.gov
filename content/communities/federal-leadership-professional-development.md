@@ -8,6 +8,8 @@ title: "Federal Leadership and Professional Development"
 deck: "Providing federal employees with seminars on leadership, professional development, and successful strategies"
 summary: "A by-government, for-government seminar series that connects federal employees, providing them with seminars on leadership, professional development, and successful strategies."
 
+draft: true
+
 community_list:
   - platform: listserv
     type: government_only
@@ -22,6 +24,7 @@ community_list:
     terms: "Anyone with a .gov or .mil email address is eligible to join"
     members: 4463
 
+---
 
 ## Who We Are
 
