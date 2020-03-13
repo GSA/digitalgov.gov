@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/99704719500
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4378304&CustomerID=321
 
 # start date
-date: 2020-03-25 15:00:00 -0500
+date: 2020-03-24 15:00:00 -0500
 
 # end date
-end_date: 2020-03-25 15:30:00 -0500
+end_date: 2020-03-24 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
