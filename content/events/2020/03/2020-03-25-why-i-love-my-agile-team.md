@@ -43,7 +43,8 @@ In this talk, you will hear how the Land Information New Zealand (LINZ) Agile te
  - how they are using Agile to create an open source cloud based base map service, and
  - what their DevOps future might look like.
  
- ## Presenter
+## Presenter
+
 **Karl Baker** is the Senior Digital Cartographer at Land Information NZ, where he is part of the leadership team that maintains the New Zealand Government’s Topographic Mapping products and services. He is currently one of the leads, within an Agile team, which are looking to replace their entire legacy mapping system, end to end. Karl started his career, at the predecessor of LINZ, when all their paper based information was converted into digital processes and data. Over the years in between, he worked at the New Zealand Fire Service and within commercial Geospatial Consulting organisations. One particular highlight was working with the geospatial components of [the current NZ Police “OnDuty” application](https://www.police.govt.nz/news/ten-one-magazine/well-and-truly-onduty).
 
 ---
