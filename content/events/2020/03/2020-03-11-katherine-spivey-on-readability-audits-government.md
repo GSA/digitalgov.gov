@@ -33,7 +33,7 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id:
+youtube_id: xuPLXDXbk_4
 
 # Venue
 venue_name: "General Services Administration"
