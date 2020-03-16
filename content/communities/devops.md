@@ -48,7 +48,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-Coming Soon!
+[**March Meeting: Why I Love My Agile Team!**](https://digital.gov/event/2020/03/24/why-i-love-my-agile-team/)
 
 ## Past Meetings
 
