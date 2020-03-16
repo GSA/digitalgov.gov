@@ -11,11 +11,25 @@ registration_url: https://www.eventbrite.com/e/uswds-monthly-call-march-2020-reg
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4340546&CustomerID=321
 
 # start date
-date: 2020-03-19 15:30:00 -0500
+date: 2020-03-19 14:30:00 -0500
 
 # end date
-end_date: 2020-03-19 16:30:00 -0500
+end_date: 2020-03-19 15:30:00 -0500
 
+# see all topics at https://digital.gov/topics
+topics:
+  - uswds
+  - design
+  - 21st-century-idea
+  - user-centered-design
+
+# see all authors at https://digital.gov/authors
+authors:
+  - dan-williams
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+ 
 # YouTube ID
 youtube_id: 
 
