@@ -7,8 +7,8 @@ deck: "Learn how to improve the user experience of your website by following the
 summary: ""
 host: "David Fern"
 event_organizer: "Digital.gov"
-registration_url: https://www.eventbrite.com/e/making-a-mobile-friendly-website-using-the-adapt-model-registration-93988386795
-captions: https://www.captionedtext.com/client/event.aspx?EventID=4342277&CustomerID=321
+registration_url: 
+captions: 
 
 # start date
 date: 2020-02-25 15:00:00 -0500
@@ -16,35 +16,29 @@ date: 2020-02-25 15:00:00 -0500
 # end date
 end_date: 2020-02-25 16:00:00 -0500
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
-
 # see all topics at https://digital.gov/topics
-topics:
-  - cx
-  - mobile
+topics: 
   - 21st-century-idea
+  - accessibility
+  - cx
+  - design
+  - mobile
   - ux
   - web-content-managers-forum
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
   - david-fern
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
-
 # YouTube ID
-youtube_id: x8UvFt26MDE
+youtube_id: O7jKHjFPnUc
 
 # Primary Image (for social media)
 primary_image: "mobilegov-event"
 
-
 # Make it better ♥
 
 ---
-
 
 The 21st Century Integrated Digital Experience Act ([21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)) requires federal websites to be "fully functional and usable on common mobile devices." Mobile-friendliness, however, can mean a variety of things, depending on the perspective of a user.
 
