@@ -1,8 +1,8 @@
 ---
-# View this page at https://digital.gov/event/2020/03/19/uswds-monthly-call-march-2020/
+# View this page at https://digital.gov/event/2020/03/uswds-monthly-call-color-tokens
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: uswds-monthly-call-march-2020
-title: "USWDS Monthly Call - March 2020"
+title: "USWDS Monthly Call - Color Tokens Update"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as he talks about the design system and answers your questions."
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as he talks about the design system and answers your questions."
 host: "U.S. Web Design System"
@@ -29,14 +29,15 @@ authors:
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
-
+ 
 # YouTube ID
-youtube_id:
+youtube_id: 
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
 
 # Make it better ♥
+
 ---
 
 {{< img-right src="uswds-logo" >}}
