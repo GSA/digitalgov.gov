@@ -5,7 +5,7 @@ slug: updates-on-21st-century-idea-key
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-03-16 16:000:00 -0500
+date: 2020-03-16 16:00:00 -0500
 kicker: "21st Century IDEA"
 title: "Updates on 21st Century IDEA: Key Insights & Lessons Learned"
 deck: ""
@@ -25,7 +25,7 @@ authors:
   - stephanie-santana
 
 # primary Image (for social media)
-primary_image: "mnm"
+primary_image: "this-weeks-idea-card"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -35,10 +35,9 @@ weight: 1
 # Make it better ♥
 
 ---
+{{< img-right src="21c-idea-icon-w600sq" >}}
 
 If you’ve been following the Digital.gov site, you may be familiar with our articles focusing on the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA). In a nutshell, the Act is intended “to improve executive agency digital services." There are five substantive parts to the Act, which reflect efforts to enhance the user experience. We spoke to 21st Century IDEA implementation lead, Ammie Farraj Feijoo, at the General Services Administration (GSA), to get the rundown on what’s been accomplished&mdash;and what’s on deck for 2020. 
-
-[a 21cIDEA image; see doc https://docs.google.com/document/d/1lhOJUp8DZjkhvBnM5EhgOs6IOgk9Yv8lOh-vm6Pjq1o/edit ]
 
 ## Completed in 2019: Modernization Planning 
 
@@ -60,14 +59,14 @@ Like all executive branch agencies, GSA is working to better understand its digi
 - **Understand the “landscape”**: GSA’s small, but resourceful team made a strategic choice to inventory their websites, which helped determine the range of content GSA was producing online as well as GSA’s overall digital footprint.  
 - **Ensure buy-in from senior level management**: In addition to the cross-agency team, GSA also established a digital governance senior steering committee. This way senior executives across the agency had multiple opportunities to give their input and support on deliverables. 
 - **Determine points of contact before a data call**: GSA’s team worked to identify what areas of critical feedback they wanted. They also made sure they had key points of contact for each of their determined domains, such as how searchable or accessible GSA sites are. The data call ultimately resulted in four target areas GSA identified to improve their digital presence. 
+
 - **Cross reference website data with analytics**: GSA found only about a dozen of its sites accounted for 95% of the web traffic. Those stats combined with information acquired from the data call helped GSA narrow down their focus. 
 - **Form a practice network**: GSA created a Content Management Community of Practice for its employees who manage websites and digital services. This enabled staff across the agency to share news, information, and resources all in one location. 
+
 - **Use the Maturity Model**: GSA has issued and is using the [U.S. Web Design System (USWDS) Maturity Model](https://designsystem.digital.gov/maturity-model/) to improve its web presence. 
 
-Use the Maturity Model image https://designsystem.digital.gov/img/maturity-model.svg 
-alt="A diagram showing the concentric circles of the USWDS maturity model, progressing from Principles on the outside, through Guidance, and finally to Code in the innermost circle."
-Caption text = "Figure: The U.S. Web Design System Maturity Model."
-Ammie also wants 
+{{< img src="uswds-maturity-model" >}}
+
 
 ## Up Next for 2020: Digitization 
 
