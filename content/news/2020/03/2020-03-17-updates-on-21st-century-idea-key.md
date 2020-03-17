@@ -1,11 +1,11 @@
 ---
-# View this page at https://digital.gov/2020/03/16/updates-on-21st-century-idea-key
+# View this page at https://digital.gov/2020/03/17/updates-on-21st-century-idea-key
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: updates-on-21st-century-idea-key
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-03-16 16:00:00 -0500
+date: 2020-03-17 12:00:00 -0500
 kicker: "21st Century IDEA"
 title: "Updates on 21st Century IDEA: Key Insights & Lessons Learned"
 deck: ""
@@ -35,9 +35,10 @@ weight: 1
 # Make it better ♥
 
 ---
-{{< img-right src="21c-idea-icon-w600sq" >}}
 
 If you’ve been following the Digital.gov site, you may be familiar with our articles focusing on the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA). In a nutshell, the Act is intended “to improve executive agency digital services." There are five substantive parts to the Act, which reflect efforts to enhance the user experience. We spoke to 21st Century IDEA implementation lead, Ammie Farraj Feijoo, at the General Services Administration (GSA), to get the rundown on what’s been accomplished&mdash;and what’s on deck for 2020. 
+
+{{< img src="21c-idea-icon-w600sq" >}}
 
 ## Completed in 2019: Modernization Planning 
 
