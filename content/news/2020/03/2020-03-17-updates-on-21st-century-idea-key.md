@@ -36,9 +36,9 @@ weight: 1
 
 ---
 
-If you’ve been following the Digital.gov site, you may be familiar with our articles focusing on the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA). In a nutshell, the Act is intended “to improve executive agency digital services." There are five substantive parts to the Act, which reflect efforts to enhance the user experience. We spoke to 21st Century IDEA implementation lead, Ammie Farraj Feijoo, at the General Services Administration (GSA), to get the rundown on what’s been accomplished&mdash;and what’s on deck for 2020. 
+{{< img-right src="21c-idea-icon-w600sq" >}}
 
-{{< img src="21c-idea-icon-w600sq" >}}
+If you’ve been following the Digital.gov site, you may be familiar with our articles focusing on the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA). In a nutshell, the Act is intended “to improve executive agency digital services." There are five substantive parts to the Act, which reflect efforts to enhance the user experience. We spoke to 21st Century IDEA implementation lead, Ammie Farraj Feijoo, at the General Services Administration (GSA), to get the rundown on what’s been accomplished&mdash;and what’s on deck for 2020. 
 
 ## Completed in 2019: Modernization Planning 
 
