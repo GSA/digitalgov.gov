@@ -4,7 +4,7 @@
 slug: updates-on-21st-century-idea-key
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xdt5h
 date: 2020-03-17 12:00:00 -0500
 kicker: "21st Century IDEA"
 title: "Updates on 21st Century IDEA: Key Insights & Lessons Learned"
