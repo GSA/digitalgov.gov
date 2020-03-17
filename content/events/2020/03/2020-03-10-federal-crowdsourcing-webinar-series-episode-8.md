@@ -31,7 +31,7 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id:
+youtube_id: zQWcKElVEFU
 
 # Primary Image (for social media)
 primary_image: "challenge-card-episode-8"
