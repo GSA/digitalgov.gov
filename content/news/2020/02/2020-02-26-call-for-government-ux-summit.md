@@ -32,28 +32,20 @@ primary_image: "ux-government-summit-2020"
 ---
 
 {{< note >}}
-**The March 9th deadline for submissions has passed.** Thank you&mdash;we have received a number of submissions on a wide variety of topics related to UX! 
-
-A great committee of government employees is in the process of reviewing them to create the program. We expect to finalize the program in early April, and will then post it on the [Events](https://digital.gov/events/) page so you can register for the Summit. 
+**The Government UX Summit 2020, originially scheduled for May 12 at the Library of Congress, is postponed.** Please check back for scheduling updates on the now virtual only event soon.
 {{< /note >}}
 
 Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/). 
 
 Join us as presenters for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government. 
 
-{{< box >}}
-### Save the date
-**Government UX Summit 2020**<br/>
-May 12, 2020, 9:00 a.m - 4:00 p.m., ET<br/>
-at the Library of Congress ([map](https://www.google.com/maps/place/Library+of+Congress/@38.888684,-77.0069077,17z/data=!3m2!4b1!5s0x89b7b82bf81714b1:0xb306acf1c3a0b282!4m5!3m4!1s0x390feef68ef83a4d:0x46cbb296f4de3eec!8m2!3d38.888684!4d-77.004719))<br/>
-_Registration page coming soon ..._
-{{< /box >}}
-
 ## Call for Presenters
 
 Only U.S. government employees (federal, state, tribal, and local) and contractors **with a U.S. government email address**&mdash;and with their agency’s approval&mdash;are eligible to present. This is to ensure that the event supports government UX work. Speakers from outside Washington, DC can present remotely. 
 
-{{< highlight >}}**Submissions are due by close of business on Monday, March 9**.{{< /highlight >}} 
+**The March 9th deadline for submissions has passed.** Thank you&mdash;we have received a number of submissions on a wide variety of topics related to UX! 
+
+A great committee of government employees is in the process of reviewing them to create the program. We expect to finalize the program in early April, and will then post it on the [Events](https://digital.gov/events/) page so you can register for the Summit. 
 
 Below are the topics and presentation formats we're looking for. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov). 
 
