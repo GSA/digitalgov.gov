@@ -281,7 +281,7 @@ termsofservice:
     url           : https://www.letsencrypt.org
     description   : HTTPS Certificate Authority
     uri           : 'https://letsencrypt.org/documents/LE-USG-SA-Amendment-Sept-22-2015.pdf'
-    type          : pdf
+    type          : web
     updated       :
     status        :
 
@@ -536,7 +536,7 @@ termsofservice:
   - name          : Survey Analytics
     url           : http://www.surveyanalytics.com
     description   : Survey software
-    uri           : /2014/01/survey-analytics-tos-amendment.pdf
+    uri           : '2014/01/survey-analytics-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
     status        :
@@ -608,7 +608,7 @@ termsofservice:
   - name          : Wikispaces
     url           : http://www.wikispaces.com/
     description   : Collaboration
-    uri           : /2014/01/wikispaces-tos-amendment.pdf
+    uri           : '2014/01/wikispaces-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-01
     status        :
