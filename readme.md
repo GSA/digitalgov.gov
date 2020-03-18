@@ -88,3 +88,5 @@ Accessibility testing configuration is located in the .pa11yci file.
 ^url: .+/([^/]+)\.md
 slug: $1
 ```
+
+To provide feedback on this project, please checkout our [Contributing Guildelines](CONTRIBUTING.md).
