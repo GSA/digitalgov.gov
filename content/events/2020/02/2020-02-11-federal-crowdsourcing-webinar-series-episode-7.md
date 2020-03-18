@@ -64,7 +64,7 @@ See how the Consumer Financial Protection Bureau, GSA and the Defense, Energy, a
 
 Airing the second Tuesday of each month, this series will illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue. Don’t miss these previous episodes:
 
--   Episode 6: [FedRAMP Ideation](https://www.youtube.com/watch?v=bx1ANQtHNQY) (October 2019), with Betsy Steele, GSA
+-   Episode 6: [FedRAMP Ideation](https://digital.gov/event/2019/10/30/federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation/) (October 2019), with Betsy Steele, GSA
 -   Episode 5: [History by the People](https://digital.gov/event/2019/08/13/federal-crowdsourcing-webinar-series-episode-5-by-the-people/) (August 2019), with Lauren Algee, Library of Congress
 -   Episode 4: [Open Opportunities](https://digital.gov/event/2019/07/09/federal-crowdsourcing-webinar-series-episode-4-open-opportunities/) (July 2019), with Lisa Nelson, USAJOBS, OPM
 -   Episode 3: [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/) (June 2019), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
