@@ -1,6 +1,9 @@
 ---
 # View this page at https://digital.gov/event/2020/04/federal-source-code-summit-building-coding
-# Learn how to edit our pages at https://workflow.digital.gov
+# Learn how to edit our pages at https://workflow.digital.gov 
+
+draft: true
+
 slug: federal-source-code-summit-building-coding
 title: "Federal Source Code Summit: Building a Source Code Community"
 deck: ""
