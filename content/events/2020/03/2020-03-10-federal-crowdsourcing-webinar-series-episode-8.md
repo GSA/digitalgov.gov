@@ -40,8 +40,6 @@ primary_image: "challenge-card-episode-8"
 
 ---
 
-{{< img src="challenge-card-episode-8" >}}
-
 Have you ever been laser-focused on a problem for some time, only to have the solution suddenly come from an unlikely source? The best ideas can come from within our own organizations, perhaps an office or two away -- the hardest part is knowing when and how to open the topic to a larger group for ideas.
 
 {{< img-right src="nasa-work-logo" >}}
