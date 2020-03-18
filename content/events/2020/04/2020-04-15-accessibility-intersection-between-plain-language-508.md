@@ -46,9 +46,10 @@ At its core, plain language is about making documents accessible to readers. In 
  - What formatting techniques hinder access to electronic or print texts?
  - Are there times when plain language and accessibility might be at odds?
  
- ## Speakers
+## Speakers
 
 **Katina Stapleton**, Co-Chair of PLAIN
+
 **David Lipscomb**, from the Center for Plain Language
 
 ---
