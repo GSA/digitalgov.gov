@@ -7,6 +7,14 @@ jobs:
     steps:
       - checkout
 
+      - run:
+          name: Check Authors API
+          command: curl https://digital.gov/authors/v1/json/ | jq
+
+      # - run:
+      #     name: Check Topics API
+      #     command: curl https://digital.gov/topics/v1/json/ | jq
+
       # - restore_cache:
       #     keys:
       #       - dg-cache-v1-{{ .Branch }}-{{ .Revision }}
