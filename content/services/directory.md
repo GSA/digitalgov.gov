@@ -1,10 +1,10 @@
 ---
 # What is the name of the product or service?
 title: "Directory of services, tools, and teams"
-deck: "An easy way to connect with the teams that make these free and low-cost services tools and services."
+deck: "Shared services and tools offered by the GSA and other agencies."
 
 # Keep it short — should be no longer than 10 words.
-summary: "TKTK"
+summary: "Free and low-cost shared services and tools offered by the GSA and other agencies."
 
 weight: 0
 
