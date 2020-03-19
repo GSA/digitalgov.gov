@@ -14,7 +14,7 @@ jobs:
 
       - run:
           name: Check Authors API ${CIRCLE_BRANCH}
-          command: make test | curl https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${CIRCLE_BRANCH}/authors/v1/json/ | jq
+          command: curl https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${CIRCLE_BRANCH}/authors/v1/json/ | jq
 
       # - run:
       #     name: Check Topics API
