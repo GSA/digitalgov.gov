@@ -9,7 +9,7 @@ jobs:
 
       - run:
           name: Check Authors API
-          command: curl https://digital.gov/authors/v1/json/ | jq
+          command: make test | curl https://digital.gov/authors/v1/json/ | jq
 
       # - run:
       #     name: Check Topics API
