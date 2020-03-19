@@ -7,9 +7,14 @@ jobs:
     steps:
       - checkout
 
+      # Run a step to print what branch our code base is on.
+      - run: # test what branch we're on.
+          name: "What branch am I on?"
+          command: echo ${CIRCLE_BRANCH}
+
       - run:
-          name: Check Authors API
-          command: make test | curl https://digital.gov/authors/v1/json/ | jq
+          name: Check Authors API ${CIRCLE_BRANCH}
+          command: make test | curl https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${CIRCLE_BRANCH}/authors/v1/json/ | jq
 
       # - run:
       #     name: Check Topics API
