@@ -1,9 +1,11 @@
 {{/* Get all of the resources */}}
-{{- $resources_featured := (where .Site.Pages "Section" "resources") -}}
-{{/* Sort all of the resources by weight */}}
-{{- $resources_featured := (sort $resources_featured ".Params.weight" "desc" ) -}}
+{{- $resources_featured := (where .Site.Pages.ByTitle "Section" "resources") -}}
+
 {{/* Get only the pages that are greater than or equal to 3 */}}
 {{- $resources_featured := (where $resources_featured ".Params.weight" "ge" 3 ) -}}
+
+{{/* Sort all of the resources by weight */}}
+{{- $resources_featured := (sort $resources_featured "Weight" "desc" ) -}}
 
 {{/* If there are any resources at all... */}}
 {{- if $resources_featured -}}
@@ -12,7 +14,6 @@
   <ul>
 
     {{- range $resources_featured -}}
-
       {{/* If an external link  */}}
       {{- if or .Params.source_url .Params.source -}}
 
