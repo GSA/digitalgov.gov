@@ -39,10 +39,12 @@
 @import 'paper';
 
 @import 'header';
+
+@import 'newsletter-signup';
 @import 'footer';
 @import 'usa_anchor';
+
 @import 'promos';
-@import 'newsletter';
 @import 'stream';
 
 // Cards
@@ -52,6 +54,8 @@
 @import 'card-event';
 
 @import 'article';
+@import 'page-head';
+
 @import 'news';
 @import 'events';
 @import 'table-of-contents';
@@ -62,7 +66,7 @@
 // Lists of related pages
 @import 'list-collection';
 
-@import 'feedback';
+@import 'page-data';
 @import 'share-tools';
 
 @import 'guides/guide-header';
@@ -79,6 +83,7 @@
 @import 'author-profile';
 
 @import 'notice-bar';
+@import 'search-bar';
 
 @import 'related_promos';
 @import 'video';
@@ -87,8 +92,9 @@
 @import 'home/home';
 @import 'home/events';
 @import 'home/topics_featured';
-@import 'home/resources_featured';
+@import 'resources_featured';
 @import 'home/communities';
+
 
 @import 'community-info';
 

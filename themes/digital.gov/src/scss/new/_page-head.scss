@@ -1,0 +1,25 @@
+header.page-head{
+  @include u-padding-bottom(2);
+  @include u-text('indigo-warm-80');
+  h1, h2{
+    @include u-margin-y(1);
+    @include u-text('heavy');
+    @include u-text('center');
+    @include u-line-height('sans', 2);
+    @include u-font('sans', 'xl');
+    @include at-media('tablet') {
+      @include u-font('sans', '2xl');
+    }
+  }
+  .deck, p{
+    @include u-margin(0);
+    @include u-text('light');
+    @include u-text('center');
+    @include u-maxw('none');
+    @include u-font('sans', 'md');
+    @include u-line-height('sans', 3);
+    @include at-media('tablet') {
+      @include u-font('sans', 'lg');
+    }
+  }
+}

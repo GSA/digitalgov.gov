@@ -1,12 +1,12 @@
 ---
-# View this page at https://digital.gov/authors/michael-mul
+# View this page at https://digital.gov/authors/eric-kanter
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: michael-mule
-display_name: "Michael Mulé"
-first_name: "Michael"
-last_name: "Mulé"
+slug: eric-kanter
+display_name: "Eric Kanter"
+first_name: "Eric"
+last_name: "Kanter"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
@@ -15,16 +15,16 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Attorney Advisor"
+bio: ""
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. Department of Justice"
+agency_full_name: "Office of Congressman Seth Moulton (MA-06)"
 
 # Agency Acronym [e.g., GSA]
-agency: "DOJ"
+agency: ""
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""

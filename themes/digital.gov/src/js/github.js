@@ -13,7 +13,7 @@ jQuery(document).ready(function($) {
 			].join("\n");
 
 			// Insert the .edit_file_link html into the .edit_file div and remove the .hidden class
-			$('#feedback .edit_file').html(edit).removeClass('hidden');
+			$('#page-data .edit_file').html(edit).removeClass('hidden');
 		}
 	}
 	build_edit_file_link();

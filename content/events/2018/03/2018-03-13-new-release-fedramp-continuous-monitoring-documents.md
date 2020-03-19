@@ -1,22 +1,37 @@
 ---
+# View this page at https://digital.gov/event/2018/03/new-release-fedramp-continuous-monitoring-documents
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: new-release-fedramp-continuous-monitoring-documents
-title: 'New Release of FedRAMP Continuous Monitoring Documents'
-summary: 'The FedRAMP team will walk through the Continuous Monitoring documents that were released January 31, 2018&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-03-13 13:00:00 -0500
-end_date: 2018-03-13 14:00:00 -0500
-event_organizer: DigitalGov University
-host: FedRAMP
+title: "New Release of FedRAMP Continuous Monitoring Documents"
+deck: ""
+summary: "The FedRAMP team will walk through the Continuous Monitoring documents that were released January 31, 2018."
+host: "FedRAMP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/new-release-of-fedramp-continuous-monitoring-documents-registration-43037189392
-youtube_id: CNGKskdv1DY
-aliases:
-  - /event/new-release-fedramp-continuous-monitoring-documents/
-topics:
+captions: 
+
+# start date
+date: 2018-03-13 14:00:00 -0500
+
+# end date
+end_date: 2018-03-13 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - fedramp
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - john-hamilton
+
+# YouTube ID
+youtube_id: CNGKskdv1DY
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/new-release-fedramp-continuous-monitoring-documents/
+
+# Make it better ♥
 
 ---
 

@@ -1,6 +1,7 @@
 
 // List of Topic buttons
 .topic-buttons{
+  @include u-bg('white');
   @include u-padding-bottom('105');
   @include at-media('tablet') {
     @include u-padding-bottom(2);

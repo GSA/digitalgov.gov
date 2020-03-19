@@ -4,7 +4,7 @@
 slug: federal-crowdsourcing-webinar-series-episode-8
 title: "Federal Crowdsourcing Webinar Series, Episode 8: How NASA@WORK Ignites Ideas from Within"
 deck: ""
-summary: "See how NASA’s workforce contributes inspiring ideas as part of internal idea competitions facilitated NASA@WORK program."
+summary: "Learn how NASA’s workforce contributes inspiring ideas as part of internal idea competitions facilitated NASA@WORK program."
 host: "Challenge.gov "
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/98255467749
@@ -31,7 +31,7 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id:
+youtube_id: zQWcKElVEFU
 
 # Primary Image (for social media)
 primary_image: "challenge-card-episode-8"
@@ -40,17 +40,15 @@ primary_image: "challenge-card-episode-8"
 
 ---
 
-
-{{< img src="challenge-card-episode-8" >}}
-
 Have you ever been laser-focused on a problem for some time, only to have the solution suddenly come from an unlikely source? The best ideas can come from within our own organizations, perhaps an office or two away -- the hardest part is knowing when and how to open the topic to a larger group for ideas.
 
 {{< img-right src="nasa-work-logo" >}}
+
 The National Aeronautics and Space Administration (NASA) thrives on tapping its internal braintrust to bring inspiring and innovative ideas forward. Through its internal crowdsourcing platform, [NASA@WORK](https://www.nasa.gov/coeci/nasa-at-work), the space agency encourages its staff to post problems in the form of challenges in which the entire NASA community can participate.
 
 Managed by NASA’s [Center of Excellence for Collaborative Innovation](https://www.nasa.gov/offices/COECI/index.html) (CoECI), NASA@WORK specialists work closely with program teams to prepare challenges, accept ideas, and evaluate solutions in as little as 10 weeks. Winning ideas and their authors are recognized widely across the agency.
 
-**This webinar will show you how to:**
+**This webinar shows you how to:**
 
  - Generate new ideas with idea competitions (or ideations) internal to your organizations.
  - Add structure and definition to a challenge or problem before sourcing for ideas.

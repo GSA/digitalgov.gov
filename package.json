@@ -20,7 +20,7 @@
     "pa11y-ci": "^2.3.0"
   },
   "devDependencies": {
-    "acorn": "^6.4.0",
+    "acorn": "^6.4.1",
     "autoprefixer": "^9.7.4",
     "braces": "^2.3.2",
     "change-case": "^3.1.0",

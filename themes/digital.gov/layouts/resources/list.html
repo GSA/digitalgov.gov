@@ -2,7 +2,7 @@
 
 <main id="resources" role="main">
   <article>
-    <header>
+    <header class="page-head page-head-{{- .Type -}}">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
@@ -12,12 +12,21 @@
 
             {{/* Deck */}}
             {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            <div class="deck">{{- .Params.deck | markdownify | emojify -}}</div>
             {{- end -}}
 
             {{/* {{ partial "last-updated" . }} */}}
           </div>
         </div>
+
+        <div class="grid-row">
+          <div class="grid-col-12">
+
+            {{- partial "core/search-bar.html" . -}}
+
+          </div>
+        </div>
+
       </div>
     </header>
 
@@ -37,6 +46,7 @@
     {{- $page := .Page -}}
     <section class="usa-section" id="resources_by_topic">
       <div class="grid-container grid-container-desktop">
+        
         <div class="grid-row">
           <div class="grid-col-12">
             <h2>All Resources by Topic</h2>

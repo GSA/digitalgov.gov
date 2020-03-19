@@ -15,10 +15,10 @@ pronoun: ""
 email: ammie.farrajfeijoo@gsa.gov
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Ammie is the implementation lead for [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) at GSA's Technology Transformation Services."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
@@ -42,11 +42,6 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
 
 # Make it better ♥
 

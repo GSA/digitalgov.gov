@@ -1,37 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2018/08/performance-goals-for-government-services-august
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: performance-goals-for-government-services-interagency-emerging-citizen-technology-meeting-aug-2018
-title: 'Performance Goals for Government Services &#x2F; August 2018 Inter-agency Emerging Citizen Technology Meeting'
-summary: 'How agencies can align their emerging technology for government services programs with Cross-Agency Priority Goals &#40;CAP Goals&#41; on Performance&#46;gov and other strategic priorities&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - online
-  - in-person
-date: 2018-08-06 10:00:00 -0500
-end_date: 2018-08-06 12:00:00 -0500
-event_organizer: DigitalGov University
-host: Emerging Citizen Technology Office (ECTO)
+title: "Performance Goals for Government Services / August 2018 Inter-agency Emerging Citizen Technology Meeting"
+deck: ""
+summary: "How agencies can align their emerging technology for government services programs with Cross-Agency Priority Goals (CAP Goals) on Performance.gov and other strategic priorities."
+host: "Emerging Citizen Technology Office (ECTO)"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/performance-goals-for-government-services-inter-agency-emerging-citizen-technology-meeting-aug-2018-registration-48453323194
-venue:
-  venue_name: U.S. General Services Administration
-  room: 1459 / 1460
-  address: 1800 F Street NW
-  city: Washington
-  state: D.C.
-  zip: 20405
-  country: USA
-  map: https://goo.gl/maps/bFWBD6QfDLA2
-topics:
+captions: 
+
+# start date
+date: 2018-08-06 11:00:00 -0500
+
+# end date
+end_date: 2018-08-06 13:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - emerging-tech
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
-  - emerging-tech
   - augmented-reality
   - blockchain
-  - virtual-augmented-reality-community
   - virtual-reality
+  - virtual-augmented-reality-community
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - jherman
+
+# YouTube ID
+youtube_id: 
+
+# Make it better ♥
 
 ---
 

@@ -1,6 +1,9 @@
 ---
 # View this page at https://digital.gov/event/2020/04/federal-source-code-summit-building-coding
-# Learn how to edit our pages at https://workflow.digital.gov
+# Learn how to edit our pages at https://workflow.digital.gov 
+
+draft: true
+
 slug: federal-source-code-summit-building-coding
 title: "Federal Source Code Summit: Building a Source Code Community"
 deck: ""
@@ -92,6 +95,21 @@ Panelists:
 
 **Brian Lee** is the Senior Advisor for Informatics to Centers for Disease Control and Prevention's Office of the Chief Information Officer where he work with data to make better technology investments to improve public health impact. Brian is the program official for [open.cdc.gov](https://open.cdc.gov) and [data.cdc.gov](https://data.cdc.gov), helping public health programs across all CDC centers, institutes, and offices connect open technology with public health communities. Brian joined CDC in 2012 as the Deputy Director for the Informatics Innovation Unit and later served as the Chief Public Health Informatics Officer for the Office of Public Health Scientific Services. Brian is a self-taught programmer and holds a BBA from Georgia State University, an MPH from Emory University, and multiple certifications.
 
+**Leonardo Favario** is the Open Source Project Leader of the Department for
+the Digital Transformation at the Italian Government. He is responsible for the
+open source strategy which involves [Developers
+Italia](https://developers.italia.it/en), the [publiccode.yml
+specification](https://docs.italia.it/italia/developers-italia/publiccodeyml-en/en/master/index.html),
+the new National guidelines and the catalogue of open
+source software created by public administrations and available for reuse.
+Previously, he was in charge of the open source strategy of the Digital
+Transformation Team working in the Italian Presidency of the Council, where he
+supported the establishment of the new software reuse model following
+the open source approach. Leonardo is a free and open source software
+advocate since a very young age. He holds a PhD in computer and control
+engineering and he has been a Fulbright BEST scholar in California where he
+also worked on the development of some open source platforms at Stanford
+University. 
 
 ## Related Links:
 
