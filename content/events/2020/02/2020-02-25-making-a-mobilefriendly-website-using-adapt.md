@@ -42,6 +42,10 @@ primary_image: "mobilegov-event"
 
 The 21st Century Integrated Digital Experience Act ([21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)) requires federal websites to be "fully functional and usable on common mobile devices." Mobile-friendliness, however, can mean a variety of things, depending on the perspective of a user.
 
+--- 
+
+_The presentation deck will be available on Monday, March 23rd._
+
 David Fern, co-lead of the MobileGov Community and the Federal Crowdsource Mobile Testing Program, knows a lot about making websites and content mobile-friendly. This webinar gives you insights into his approach—the ADAPT Model—which looks to ensure that websites are mobile-friendly:
 
 - **A**ssess Your Site
