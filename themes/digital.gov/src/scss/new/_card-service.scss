@@ -26,6 +26,11 @@
       }
       @include u-border('1px', 'gray-cool-10', 'solid');
     }
+    &:hover{
+      img{
+        @include u-border('1px', 'gray-cool-20', 'solid');
+      }
+    }
   }
   .copy{
     flex: 1;
