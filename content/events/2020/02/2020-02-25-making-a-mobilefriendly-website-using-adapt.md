@@ -10,6 +10,8 @@ event_organizer: "Digital.gov"
 registration_url: 
 captions: 
 
+_The presentation deck will be available on Monday, March 23rd._
+
 # start date
 date: 2020-02-25 15:00:00 -0500
 
