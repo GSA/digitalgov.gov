@@ -1,12 +1,10 @@
 .card-service{
   @include u-margin-y(1);
-  @include u-padding-y(2);
-  @include u-padding-x(2);
+  @include u-padding-y('205');
   @include u-border-top('base-lighter', '1px', 'solid');
   @include u-display('flex');
   @include u-flex('justify-start');
   @include u-flex('align-start');
-  @include u-bg('white');
   &:first-child{
     @include u-border-top(0);
   }
