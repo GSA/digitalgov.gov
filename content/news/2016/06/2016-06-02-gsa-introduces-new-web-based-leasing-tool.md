@@ -23,7 +23,7 @@ Ms. Manzano-Diaz said that the AAAP will transform how the GSA Mid-Atlantic Regi
 
 Ms. Manzano-Diaz said, ”The launch of this online tool helps GSA achieve better value and savings, serve our partners and make a more sustainable government.”
 
-In response to a Request for Lease Proposal, building owners and/or brokers can electronically submit lease offers through the AAAP website at [https://aaap.gsa.gov](https://aaap.gsa.gov/). Awards are made through AAAP to the lowest-priced building that can accommodate the government’s needs in terms of square footage, technical requirements, length of lease term and delineated area.
+In response to a Request for Lease Proposal, building owners and/or brokers can electronically submit lease offers through the AAAP website at [https://aaap.gsa.gov](http://www.gsa.gov/portal/content/168395). Awards are made through AAAP to the lowest-priced building that can accommodate the government’s needs in terms of square footage, technical requirements, length of lease term and delineated area.
 
 There will be additional AAAP Industry Days held in Baltimore, Norfolk, Richmond, Martinsburg, Charleston, Pittsburgh and Harrisburg. [**Register Now**.](https://docs.google.com/a/gsa.gov/forms/d/1SZS9cgmhxiCYen1ybe95gG4wl94kA9mSQANLMb8OGIU/viewform?c=0&w=1) **** [Learn more about AAAP](http://www.gsa.gov/portal/content/168395) [>](http://www.gsa.gov/portal/content/168395)
 
