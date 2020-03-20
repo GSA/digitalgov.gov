@@ -54,9 +54,9 @@ Second, __STAY IN YOUR LANE__. Only post information directly related to your ag
     
 -   If you add a significant news release or update to the public, please __FORWARD THE URL OF THE ARTICLE__ to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov)  for inclusion as well.
     
-Third, __LINK TO THE <a href="#comms-lanes">PRIMARY LANES OF COMMUNICATION__</a> for the disease.
+Third, __LINK TO THE <a href="#lanes-of-communication">PRIMARY LANES OF COMMUNICATION__</a> for the disease.
 
--   Link to all three lanes <a href="#comms-lanes">__(see below)__</a> from all publicly-released materials related to COVID-19.
+-   Link to all three lanes <a href="#lanes-of-communication">__(see below)__</a> from all publicly-released materials related to COVID-19.
     
 -   Link to all three lanes prominently on your agency’s Coronavirus page.
     
@@ -68,7 +68,7 @@ Third, __LINK TO THE <a href="#comms-lanes">PRIMARY LANES OF COMMUNICATION__</a>
     
 Fourth, at this point, please __DO NOT CREATE A LOGO__ or any other distinct visual treatment for COVID-19. To provide for some level of consistency of presentation, a high-resolution copy of the image that CDC has been using can be found at [https://phil.cdc.gov/Details.aspx?pid=2871](https://phil.cdc.gov/Details.aspx?pid=2871).
 
-## <a id="comms-lanes">Lanes of Communication</a>
+## Lanes of Communication
 
 ### Coronavirus.gov
 [https://www.coronavirus.gov](https://www.coronavirus.gov)
