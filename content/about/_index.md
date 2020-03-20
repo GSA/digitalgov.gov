@@ -14,8 +14,10 @@ And we do that by providing people in the federal government with the tools, met
 
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
+
 {{< box >}}
 ## Our Guiding Principlies
+
 
 ### 1. Elevate digital literacy and understanding
 
@@ -40,6 +42,7 @@ Everything we do is informed by what our audience needs. We apply multiple metho
 ### 6. Work in the open
 
 We do all of our work in the open and strive to organize our work in ways that allow others to participate.
+
 {{< /box >}}
 
 
