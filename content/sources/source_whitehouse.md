@@ -1,6 +1,6 @@
 ---
 # What is the headline of this promo?
-slug: whitehouse
+slug: 'whitehouse'
 name: "The White House"
 
 # Keep it short — should be no longer than 10 words.
@@ -14,7 +14,7 @@ domain: "https://whitehouse.gov"
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
-icon: 'whitehouse.png'
+icon: 'whitehouse'
 
 
 # Weight: control how services appear across the site
