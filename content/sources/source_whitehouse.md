@@ -1,7 +1,7 @@
 ---
 # What is the headline of this promo?
 slug: 'whitehouse'
-name: "The White House"
+name: 'The White House'
 
 # Keep it short — should be no longer than 10 words.
 summary: ""
