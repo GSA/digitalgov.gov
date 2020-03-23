@@ -281,7 +281,7 @@ termsofservice:
     url           : https://www.letsencrypt.org
     description   : HTTPS Certificate Authority
     uri           : 'https://letsencrypt.org/documents/LE-USG-SA-Amendment-Sept-22-2015.pdf'
-    type          : web
+    type          : pdf
     updated       :
     status        :
 
