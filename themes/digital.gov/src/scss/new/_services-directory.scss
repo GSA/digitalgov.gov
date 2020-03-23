@@ -1,0 +1,12 @@
+.services-contacts{
+  @include u-bg('gray-warm-5');
+  header{
+    @include u-margin-bottom(5);
+  }
+}
+.card-service-contact-heading{
+  @include u-display('none');
+  @include at-media('tablet') {
+    @include u-display('block');
+  }
+}
