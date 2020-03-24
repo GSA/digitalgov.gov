@@ -53,7 +53,7 @@ A list of the most important resources tagged with the same topic */}}
 
         {{/* Use the digital.gov logo */}}
         {{/* Pass these vars into the list item template (botton of page) */}}
-        {{- template "list-item-resource" dict "item" . "href" (print .Params.source_url "?dg") "src" (print "/img/digit-50.png") -}}
+        {{- template "list-item-resource" dict "item" . "href" (print .Permalink "?dg") "src" (print "/img/digit-50.png") -}}
 
       {{- end -}}
 
