@@ -52,7 +52,7 @@
       {{/* Use the digital.gov logo */}}
       {{/* Pass these vars into the list item template
       (see bottom of list_related_resources of page) */}}
-      {{- template "list-item-resource" dict "item" . "href" (print .Params.source_url "?dg") "src" (print "/img/digit-50.png") -}}
+      {{- template "list-item-resource" dict "item" . "href" (print .Permalink "?dg") "src" (print "/img/digit-50.png") -}}
 
     {{- end -}}
 
