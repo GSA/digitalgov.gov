@@ -4,8 +4,8 @@
 slug: how-utilize-open-source-jupyter-project
 kicker: Open Source
 title: "How to Utilize the Open Source Jupyter Project for your Research"
-deck: "technical discussions surrounding data analytics"
-summary: "In this workshop, we will introduce the Jupyter Project and how the project is being used by the greater research community. We’ll discuss how to navigate the Jupyter notebook, and showcase how easy it is to render mathematical expressions using Jupyter built in support for Latex and show how easy it is to wrangle data."
+deck: ""
+summary: "We'll show you how easy it can be to wrangle data and engage in technical discussions surrounding data, artificial intelligence, machine-learning models."
 host: "Artificial Intelligence Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/100790194184
@@ -40,7 +40,7 @@ youtube_id:
 ---
 
 
-**In this talk**, we will introduce the Jupyter Project and how it is being used by the greater research community to engage in technical discussions surrounding data analytics, AI products, ML Models, and reproducing results.
+**In this talk**, we will introduce the Jupyter Project and how it is being used by the greater research community to engage in technical discussions surrounding data analytics, artificial intelligence products, machine-learning models, and reproducing results.
 
 We’ll walk through some of the ways to help break down common challenges into smaller, more decomposable problems and be able to showcase solutions utilizing the Jupyter Project. We'll also discuss how to navigate Jupyter notebook, and showcase how easy it is to render mathematical expressions using Jupyter built in support for Latex and show how easy it is to wrangle data.
 
