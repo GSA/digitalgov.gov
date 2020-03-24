@@ -2,8 +2,9 @@
 # View this page at https://digital.gov/event/2020/04/how-utilize-open-source-jupyter-project
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: how-utilize-open-source-jupyter-project
-title: "How to Utilize the Open Source Jupyter Project for your Research "
-deck: ""
+kicker: Open Source
+title: "How to Utilize the Open Source Jupyter Project for your Research"
+deck: "technical discussions surrounding data analytics"
 summary: "In this workshop, we will introduce the Jupyter Project and how the project is being used by the greater research community. We’ll discuss how to navigate the Jupyter notebook, and showcase how easy it is to render mathematical expressions using Jupyter built in support for Latex and show how easy it is to wrangle data."
 host: "Artificial Intelligence Community of Practice"
 event_organizer: "Digital.gov"
@@ -17,24 +18,32 @@ date: 2020-04-14 14:00:00 -0500
 end_date: 2020-04-14 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
-  - ai
+topics:
+  - artificial-intelligence
+  - open-data
+  - data
+  - emerging-tech
+  - research
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - steven-babitch
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id:
 
 # Make it better ♥
 
 ---
 
-Many questions exist in terms of how to engage in technical discussions surrounding data analytics, AI products, ML Models, and reproducing results. In this talk, we will walk through some of the ways to help break down these challenges into smaller, more decomposable problems and be able to showcase solutions utilizing the Jupyter Project.
+
+**In this talk**, we will introduce the Jupyter Project and how it is being used by the greater research community to engage in technical discussions surrounding data analytics, AI products, ML Models, and reproducing results.
+
+We’ll walk through some of the ways to help break down common challenges into smaller, more decomposable problems and be able to showcase solutions utilizing the Jupyter Project. We'll also discuss how to navigate Jupyter notebook, and showcase how easy it is to render mathematical expressions using Jupyter built in support for Latex and show how easy it is to wrangle data.
+
 
 ## Presenter
 
@@ -44,9 +53,10 @@ Many questions exist in terms of how to engage in technical discussions surround
 
 **Related Links:**
 
+ - Join the [Artificial Intelligence Community]({{< ref "/communities/artificial-intelligence.md" >}})
  - [https://jupyter.org/](https://jupyter.org/)
  - [https://github.com/Wildertrek/Jupyter-Latex](https://github.com/Wildertrek/Jupyter-Latex)
- 
+
 ---
 
 *This webinar is hosted by the Artificial Intelligence Community of Practice, the federal government only community dedicated to AI.*
