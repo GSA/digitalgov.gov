@@ -536,7 +536,7 @@ termsofservice:
   - name          : Survey Analytics
     url           : http://www.surveyanalytics.com
     description   : Survey software
-    uri           : /2014/01/survey-analytics-tos-amendment.pdf
+    uri           : '2014/01/survey-analytics-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
     status        :
@@ -608,7 +608,7 @@ termsofservice:
   - name          : Wikispaces
     url           : http://www.wikispaces.com/
     description   : Collaboration
-    uri           : /2014/01/wikispaces-tos-amendment.pdf
+    uri           : '2014/01/wikispaces-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-01
     status        :
