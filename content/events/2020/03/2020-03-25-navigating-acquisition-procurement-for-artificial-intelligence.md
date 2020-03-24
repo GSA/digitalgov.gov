@@ -9,6 +9,7 @@ host: "Artificial Intelligence Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/98272089465
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4375987&CustomerID=321
+draft: true
 
 # start date
 date: 2020-03-25 14:00:00 -0500
