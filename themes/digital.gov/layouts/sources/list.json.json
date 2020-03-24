@@ -25,7 +25,7 @@
         "domain" : "{{- .Params.domain -}}",
         {{- end -}}
         {{- if (isset .Params "icon") -}}
-        "icon" : "{{- .Params.logo -}}",
+        "icon" : "{{- .Params.icon -}}",
         {{- end -}}
         {{- if (isset .Params "weight") -}}
         "weight" : "{{- .Params.weight -}}",

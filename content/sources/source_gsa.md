@@ -16,7 +16,7 @@ domain: ""
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The name of your organization should be clearly reflected in the filename (e.g., usds-logo.png or 18f-logo.png)
-logo: "gsa"
+icon: "gsa-logo.png"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
