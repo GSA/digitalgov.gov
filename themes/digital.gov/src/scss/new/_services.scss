@@ -1,6 +1,18 @@
 // Services
 .services.section{
   .paper{
-    // @include u-bg('indigo-80');
+    // @include u-bg('gray-warm-5');
   }
+
+  .services-list{
+    @include u-margin-y(2);
+    footer{
+  		@include u-margin-y(2);
+  		@include u-text('center');
+  		p{
+  			@include u-maxw('full');
+  		}
+  	}
+  }
+
 }
