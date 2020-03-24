@@ -35,6 +35,6 @@ Definitely take the time to [listen to Gustafson’s full presentation on YouTub
 
 In a tech world where code choice sometimes becomes almost a religion, he’s one of the most reasonable, least dogmatic evangelists around, and government agencies should pay attention because he is focused on providing access to the Web to everyone, rather than just the elite with the latest devices.
 
-Government agencies should support and follow Gustafson&#8217;s prescribed adaptive ideology to serve all of our constituencies best**—**from the users of low-tech, low-cost Trac Phones to the iPhone 6 Plus phablet user driving a Tesla with a 17-inch touch-enabled Web browser who also has a Web-enabled refrigerator at home.
+Government agencies should support and follow Gustafson&#8217;s prescribed adaptive ideology to serve all of our constituencies best—from the users of low-tech, low-cost Trac Phones to the iPhone 6 Plus phablet user driving a Tesla with a 17-inch touch-enabled Web browser who also has a Web-enabled refrigerator at home.
 
 {{< legacy-img src="2015/08/600-x-450-Aaron-Gustafson-Beyond-Responsive-presentation_Adaptive-web-screens-image-by-Brad-Frost.jpg" alt="Concept graphic by Brad Frost shows various devices and appliances with web screens" >}}
