@@ -38,11 +38,11 @@ You are required to have an "About" page on your site.
 On your primary agency site, you would include information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
 
 - the agency’s strategic plan and annual performance plans
-- the agency’s privacy policy page <a href="#privacy-policy>_(more on this below)_</a>
+- the agency’s privacy policy page _([more on this below](#privacy-policy))_
 - the agency’s point of contact, as required by the Small Business Paperwork Relief Act of 2002
 - the agency’s Open Government page
 - the agency’s Plain Writing page
-- information as required under the No Fear Act of 2002 <a href="#equal-employment">_(more on this below)_</a>
+- information as required under the No Fear Act of 2002 _([more on this below](#equal-employment))_
 - information associated with the agency’s implementation of the Information Quality Act
 
 Secondary agency sites also need an "About" page that describes your site and links to your own website policies. It should also links to the primary agency's "About" page. For example, our Digital.gov About page has:
