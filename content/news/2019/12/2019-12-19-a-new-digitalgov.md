@@ -19,10 +19,7 @@ topics:
 authors:
   - jeremyzilar
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
+
 
 featured_image:
   uid: digitalgov-new-2019
