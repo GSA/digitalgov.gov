@@ -40,6 +40,10 @@ youtube_id:
 
 ---
 
+{{< note >}}
+**This event is for federal employees only**. Those who register with their .gov or .mil email address will get a confirmation email with the instructions on how to join.
+{{< /note >}}
+
 Many questions exist in terms of how to engage in an effective acquisition and procurement process for AI products, services, and technologies. This talk will walk through some of the key considerations and challenges that you are likely to face, as well as the terms and conditions that you’ll want to be clear about when managing through the process to ensure a good outcome.
 
 ## Presenters
