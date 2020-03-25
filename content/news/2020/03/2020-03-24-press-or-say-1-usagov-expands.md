@@ -15,8 +15,8 @@ short_url:
 date: 2020-03-24 17:00:00 -0500
 kicker: "Contact Centers"
 title: "Press or Say 1: USAGov Expands Its Use of Interactive Voice Response"
-deck: ""
-summary: "In 2019, USA.gov received nearly half a million calls! Based on new research and contact center data, they designed a new IVR that's informative, yet concise--and helps maximize resources."
+deck: "In 2019, USA.gov received nearly half a million calls! Based on new research and contact center data, they designed a new IVR that's informative, yet concise&mdash;and helps maximize resources."
+summary: "In 2019, USA.gov received nearly half a million calls! Based on new research and contact center data, they designed a new IVR that's informative, yet concise&mdash;and helps maximize resources."
 
 # see all topics at https://digital.gov/topics
 topics: 
