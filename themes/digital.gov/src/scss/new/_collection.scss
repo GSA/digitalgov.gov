@@ -92,3 +92,8 @@
     }
   }
 }
+
+#topic .collection{
+  @include u-padding-y(1);
+  @include u-border-top('1px', 'gray-cool-40', 'solid');
+}
