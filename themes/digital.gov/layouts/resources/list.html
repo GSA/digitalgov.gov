@@ -72,7 +72,7 @@
             {{/* Gets all the pages in the /topics directory */}}
             {{- with ($.Site.GetPage (printf "/%s" "topics")) -}}
 
-              {{/* Get only the pages that are equal to 2 */}}
+              {{/* Get only the pages that are greater than or equal to 2 */}}
               {{- $topics_featured := (where .Pages ".Params.weight" "ge" 2 ) -}}
 
               {{/* Loop through all the topics... */}}
@@ -116,7 +116,7 @@
 
                 {{/* Gets all the pages in the /topics directory */}}
                 {{- with ($.Site.GetPage (printf "/%s" "topics")) -}}
-                
+
                   {{/* Get only the pages that are equal to 2 */}}
                   {{- $topics_featured := (where .Pages ".Params.weight" "ge" 2 ) -}}
 
