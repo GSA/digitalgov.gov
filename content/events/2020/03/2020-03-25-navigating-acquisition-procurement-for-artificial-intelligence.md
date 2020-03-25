@@ -9,7 +9,6 @@ host: "Artificial Intelligence Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/98272089465
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4375987&CustomerID=321
-draft: true
 
 # start date
 date: 2020-03-25 14:00:00 -0500
@@ -18,7 +17,7 @@ date: 2020-03-25 14:00:00 -0500
 end_date: 2020-03-25 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - data
   - acquisition
   - ai
@@ -27,7 +26,7 @@ topics:
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - steven-babitch
   - omid-ghaffari-tabrizi
 
@@ -35,23 +34,27 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id:
 
 # Make it better ♥
 
 ---
 
+{{< note >}}
+**This event is for federal government employees only!** Those who register with their .gov or .mil email address will get a confirmation email with instructions on how to join.
+{{< /note >}}
+
 Many questions exist in terms of how to engage in an effective acquisition and procurement process for AI products, services, and technologies. This talk will walk through some of the key considerations and challenges that you are likely to face, as well as the terms and conditions that you’ll want to be clear about when managing through the process to ensure a good outcome.
 
 ## Presenters
 
-**Omid Ghaffari-Tabrizi** 
+**Omid Ghaffari-Tabrizi**
 
 {{< img-right src="omid-ghaffari-tabrizi" >}}
 
 As the Acquisition Lead focusing on program management at the IT Modernization Centers of Excellence (CoE), Omid stood up the acquisition team that supports internal needs as well as those of each of the CoE agency partners. He leads the modernization efforts for procurement processes and acquisition shops within GSA, as well as throughout the government. Culminating in the efforts currently underway at the Joint Artificial Intelligence Center (JAIC) and Department of Labor, Omid's work has developed tools and the processes that use those tools to buy the latest technology being implemented in the government, including AI and RPA. Prior to joining the CoE, Omid did similar work for [login.gov](http://login.gov/) and the 18F Office of Acquisitions. Before joining the government, Omid was an attorney specializing in contract law.
 
-**Keith Nakasone** 
+**Keith Nakasone**
 
 {{< img-right src="keith-nakasone" >}}
 
