@@ -1,7 +1,10 @@
 backend:
   name: github
   repo: GSA/digitalgov.gov
-
+  base_url: https://federalistapp.18f.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  branch: master
 
 publish_mode: editorial_workflow
 
