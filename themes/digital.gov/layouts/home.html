@@ -20,10 +20,10 @@
 
         <div class="grid-col-12 tablet-lg:grid-col-8">
           {{/* Get all of the resources */}}
-          {{- $resourcesfeatured := (where .Site.Pages.ByTitle "Section" "resources") -}}
+          {{- $resources := (where .Site.Pages.ByTitle "Section" "resources") -}}
 
           {{/* Get only the pages that are greater than or equal to 3 */}}
-          {{- $resourcesfeatured := (where $resourcesfeatured ".Params.weight" "ge" 3 ) -}}
+          {{- $resourcesfeatured := (where $resources ".Params.weight" "ge" 3 ) -}}
 
           {{/* Sort all of the resources by weight */}}
           {{- $resourcesfeatured := (sort $resourcesfeatured "Weight" "desc" ) -}}
