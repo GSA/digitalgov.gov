@@ -1,4 +1,3 @@
-
 {{/* Gets the full array of items passed into the partial */}}
 {{- $list := .list -}}
 
@@ -28,8 +27,8 @@
 
           {{/* get the path for the icon — e.g. 18f-icon.png */}}
           {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
-          {{/* Pass these vars into the list item template
-          (see bottom of list_related_resources of page) */}}
+          {{/* Pass these vars into the collection template
+          (see bottom of collection.html partial) */}}
           {{- template "collection-list-item" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
 
         {{- end -}}
@@ -39,8 +38,8 @@
 
         {{/* get the Favicon via Google Favicon service */}}
         {{- $src := (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) -}}
-        {{/* Pass these vars into the list item template
-        (see bottom of list_related_resources of page) */}}
+        {{/* Pass these vars into the collection template
+        (see bottom of collection.html partial) */}}
         {{- template "collection-list-item" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
 
       {{- end -}}
@@ -49,8 +48,8 @@
     {{- else -}}
 
       {{/* Use the digital.gov logo */}}
-      {{/* Pass these vars into the list item template
-      (see bottom of list_related_resources of page) */}}
+      {{/* Pass these vars into the collection template
+      (see bottom of collection.html partial) */}}
       {{- template "collection-list-item" dict "item" . "href" (print .Permalink "?dg") "src" (print "/img/digit-50.png") -}}
 
     {{- end -}}
