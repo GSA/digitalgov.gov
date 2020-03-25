@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: uswds-monthly-call-march-2020
 title: "USWDS Monthly Call - Color Tokens Update"
-deck: "Watch as U.S. Web Design System Product Lead, Dan Williams, as he talks and answers questions about the design system."
+deck: "Watch U.S. Web Design System Product Lead, Dan Williams, as he talks and answers questions about the design system."
 summary: "Watch U.S. Web Design System Product Lead, Dan Williams, as he talks about the design system and answers participant questions."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
