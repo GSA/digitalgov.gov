@@ -16,7 +16,7 @@ backend:
   branch: master
   squash_merges: true # squash all commits into a single commit when the PR is merged
   commit_messages:
-    create: 'Create {{collection}} "{{slug}}"'
+    create: 'New {{collection}}: "{{display_name}}"'
     update: 'Update {{collection}} "{{slug}}"'
     delete: 'Delete {{collection}} "{{slug}}"'
     uploadMedia: 'Upload "{{path}}"'
@@ -36,6 +36,9 @@ public_folder: "/media"
 slug:
   encoding: "unicode"
   clean_accents: true
+
+# when using the default proxy server port
+local_backend: true
 
 # Content Collections
 collections:
