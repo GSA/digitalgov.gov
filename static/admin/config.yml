@@ -47,7 +47,7 @@ collections:
     folder: "content/authors" # The path to the folder where the documents are stored
     path: '{{slug}}/_index.md'
     create: true # Allow users to create new documents in this collection
-    slug: {{slug}}
+    slug: "{{slug}}"
 
     # Field Settings
     # - label     — the title that will appear above the field in the editor
