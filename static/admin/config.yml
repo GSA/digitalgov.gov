@@ -23,8 +23,8 @@ collections:
 
 
     # Field Settings =======================
-    # - label     — this is the key that will be used in the front matter
-    # - name      — the title that will appear above the field in the editor
+    # - label     — the title that will appear above the field in the editor
+    # - name      — this is the key that will be used in the front matter
     # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
     # - required  — all fields are required by default unless you include `required: false`
     # - hint  — this is the helper text that occurrs below the field.
@@ -32,92 +32,92 @@ collections:
 
     fields: # The fields for each document, usually in front matter
 
-      - label: "display_name"
-        name: "Display Name"
+      - label: "Display Name"
+        name: "display_name"
         widget: "string"
         hint: "TKTK"
 
-      - label: "first_name"
-        name: "First Name"
+      - label: "First Name"
+        name: "first_name"
         widget: "string"
         hint: "TKTK"
 
-      - label: "last_name"
-        name: "Last Name"
+      - label: "Last Name"
+        name: "last_name"
         widget: "string"
         hint: "TKTK"
 
-      - label: "pronoun"
-        name: "Pronoun"
-        widget: "string"
-        hint: "TKTK"
-        required: false
-
-      - label: "email"
-        name: "Email"
+      - label: "Pronoun"
+        name: "pronoun"
         widget: "string"
         hint: "TKTK"
         required: false
 
-      - label: "bio"
-        name: "Bio"
+      - label: "Email"
+        name: "email"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Bio"
+        name: "bio"
         widget: "text"
         hint: "TKTK"
         required: false
 
-      - label: "agency_full_name"
-        name: "Agency Full Name"
+      - label: "Agency Full Name"
+        name: "agency_full_name"
         widget: "string"
         hint: "e.g. U.S. General Services Administration"
         required: false
 
-      - label: "agency"
-        name: "Agency Acronym"
+      - label: "Agency Acronym"
+        name: "agency"
         widget: "string"
         hint: "e.g. GSA"
         required: false
 
-      - label: "location"
-        name: "Location"
+      - label: "Location"
+        name: "location"
         widget: "string"
         hint: "Help us show that the federal workforce is not all in the D.C. area.<br/>Where in the country do you live in? [e.g. 'New York City' or 'Portland, OR']"
         required: false
 
-      - label: "github"
-        name: "GitHub ID"
+      - label: "GitHub ID"
+        name: "github"
         widget: "string"
         hint: "[e.g. 'jeremyzilar'] — We'll use your GitHub profile image as your author photot on Digital.gov"
         required: false
 
-      - label: "profile_photo"
-        name: "Profile Photo"
+      - label: "Profile Photo"
+        name: "profile_photo"
         widget: "select"
         options: ["---", "github", "digit-light", "digit-dark", "digit-pride"]
         hint: "TKTK"
         required: false
 
-      - label: "fwitter"
-        name: "Twitter"
+      - label: "Twitter"
+        name: "twitter"
         widget: "string"
         hint: "Enter your username without the @ handle [e.g. digital_gov]"
         required: false
 
-      - label: "facebook"
-        name: "Facebook"
+      - label: "Facebook"
+        name: "facebook"
         widget: "string"
         required: false
 
-      - label: "instagram"
-        name: "Instagram"
+      - label: "Instagram"
+        name: "instagram"
         widget: "string"
         required: false
 
-      - label: "linkedin"
-        name: "LinkedIn"
+      - label: "Linkedin"
+        name: "linkedIn"
         widget: "string"
         required: false
 
-      - label: "youtube"
-        name: "YouTube"
+      - label: "YouTube"
+        name: "youtube"
         widget: "string"
         required: false
