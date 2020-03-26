@@ -13,27 +13,42 @@ public_folder: "/media" # The src attribute for uploaded media will begin with /
 
 collections:
 
-  - name: "news" # Used in routes, e.g., /admin/collections/blog
-    label: "News" # Used in the UI
-    folder: "content/news" # The path to the folder where the documents are stored
+  - name: "author" # Used in routes, e.g., /admin/collections/blog
+    label: "Author" # Used in the UI
+    folder: "content/authors" # The path to the folder where the documents are stored
+    path: "{{slug}}/_index.md"
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
 
-      - label: "Title"
-        name: "title"
+      - label: "display_name"
+        name: "Display Name"
         widget: "string"
+        hint: "TKTK"
 
-      - label: "Publish Date"
-        name: "date"
+      - label: "first_name"
+        name: "First Name"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "last_name"
+        name: "Last Name"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "pronoun"
+        name: "Pronoun"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "email"
+        name: "Email"
+        widget: "string"
+        hint: "TKTK"
         required: false
-        widget: "datetime"
 
-      - label: "Topics"
-        name: "topics"
+      - label: "bio"
+        name: "Bio"
+        widget: "text"
+        hint: "TKTK"
         required: false
-        widget: "list"
-
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
