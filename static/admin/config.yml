@@ -29,7 +29,7 @@ collections:
     folder: "content/authors" # The path to the folder where the documents are stored
     path: '{{slug}}/_index.md'
     create: true # Allow users to create new documents in this collection
-    slug:
+    slug: {{slug}}
       encoding: "unicode"
       clean_accents: true
 
