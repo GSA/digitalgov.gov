@@ -50,7 +50,7 @@ This Act may be cited as the "Connected Government Act".
 
 [[Page 131 STAT. 2279]] 
 
- - (2) <<NOTE: Assessment.>> assesses the compliance of each agency with such requirement. 
+ - (2) &#60;&#60;NOTE: Assessment.&#62;&#62; assesses the compliance of each agency with such requirement. 
 
 {{< /card-policy >}}
 
