@@ -1,3 +1,11 @@
+display_url: https://digital.gov
+site_url: https://digital.gov
+
+# logo_url — sets the logo in the /admin
+# logo_url: https://digital.gov/img/digit-150.png
+logo_url: https://digital.gov/logos/digitalgov-logo.png
+
+# Backend and connections
 backend:
   name: github
   repo: GSA/digitalgov.gov
@@ -15,11 +23,21 @@ backend:
     deleteMedia: 'Delete "{{path}}"'
     openAuthoring: '{{message}}, {{author-login}}'
 
+# Enables the NetlifyCMS editorial workflow tools
 publish_mode: editorial_workflow
 
-media_folder: "static/media" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/media" # The src attribute for uploaded media will begin with /images/uploads
+# Media / Images
+# This is where media will be stored in the repo
+media_folder: "static/media"
+# Path for uploaded media on the live site
+public_folder: "/media"
 
+# slug — sets how filenames for entries are created and sanitized.
+slug:
+  encoding: "unicode"
+  clean_accents: true
+
+# Content Collections
 collections:
 
   # AUTHORS =======================
@@ -30,8 +48,6 @@ collections:
     path: '{{slug}}/_index.md'
     create: true # Allow users to create new documents in this collection
     slug: {{slug}}
-      encoding: "unicode"
-      clean_accents: true
 
     # Field Settings
     # - label     — the title that will appear above the field in the editor
