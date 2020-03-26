@@ -86,7 +86,7 @@
                 <div class="topic-section">
                   <div class="grid-row">
                     <div class="grid-col-12">
-                      <h3 id="{{- .Title -}}"><a href="{{- .Permalink -}}">{{- .Title -}}</a></h3>
+                      <h3 id="{{- path.Base .RelPermalink -}}"><a href="{{- .Permalink -}}">{{- .Title -}}</a></h3>
                     </div>
                   </div>
                   <div class="grid-row">
@@ -117,7 +117,7 @@
                 {{/* Gets all the pages in the /topics directory */}}
                 {{- with ($.Site.GetPage (printf "/%s" "topics")) -}}
 
-                  {{/* Get only the pages that are equal to 2 */}}
+                  {{/* Get only the pages that are greater than or equal to 2 */}}
                   {{- $topics_featured := (where .Pages ".Params.weight" "ge" 2 ) -}}
 
                   {{/* Loop through all the topics... */}}
@@ -125,9 +125,9 @@
 
                     {{/* Get all resource pages with this current taxonomy */}}
                     {{- $resources_by_topic := (where .Pages "Section" "resources") -}}
-
                     {{- if $resources_by_topic -}}
-                      <li><a href="#{{- $name -}}"><span>{{- .Title -}}</span></a></li>
+                      {{- $slug := .RelPermalink -}}
+                      <li><a href="#{{- path.Base .RelPermalink -}}"><span>{{- .Title -}}</span></a></li>
                     {{- end -}}
                   {{- end -}}
                 {{- end -}}
