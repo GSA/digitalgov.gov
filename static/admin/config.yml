@@ -8,6 +8,13 @@ backend:
 
 publish_mode: editorial_workflow
 
+# when using the default proxy server port
+local_backend: true
+
+# when using a custom proxy server port
+local_backend:
+  url: http://localhost:1313/api/v1
+
 media_folder: "static/media" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/media" # The src attribute for uploaded media will begin with /images/uploads
 
