@@ -44,9 +44,11 @@ collections:
   - name: "authors" # Used in routes, e.g., /admin/collections/blog
     label: "Authors" # Used in the UI
     label_singular: 'Author'
-    folder: "content/authors" # The path to the folder where the documents are stored
-    path: '{{slug}}/_index.md'
+    description: "TKTK"
+    folder: "content/authors" # path to the folder where files are stored
+    path: '{{slug}}/_index.md' # custom file path
     create: true # Allow users to create new documents in this collection
+    identifier_field: display_name # sets the field that is used to create the slug
     slug: "{{slug}}"
 
     # Field Settings
