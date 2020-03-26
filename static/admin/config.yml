@@ -8,12 +8,6 @@ backend:
 
 publish_mode: editorial_workflow
 
-# when using the default proxy server port
-local_backend: true
-
-# when using a custom proxy server port
-local_backend:
-  url: http://localhost:1313/api/v1
 
 media_folder: "static/media" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/media" # The src attribute for uploaded media will begin with /images/uploads
@@ -26,6 +20,16 @@ collections:
     path: "{{slug}}/_index.md"
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+
+
+    # Field Settings =======================
+    # - label     — this is the key that will be used in the front matter
+    # - name      — the title that will appear above the field in the editor
+    # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
+    # - required  — all fields are required by default unless you include `required: false`
+    # - hint  — this is the helper text that occurrs below the field.
+
+
     fields: # The fields for each document, usually in front matter
 
       - label: "display_name"
@@ -47,6 +51,7 @@ collections:
         name: "Pronoun"
         widget: "string"
         hint: "TKTK"
+        required: false
 
       - label: "email"
         name: "Email"
@@ -58,4 +63,61 @@ collections:
         name: "Bio"
         widget: "text"
         hint: "TKTK"
+        required: false
+
+      - label: "agency_full_name"
+        name: "Agency Full Name"
+        widget: "string"
+        hint: "e.g. U.S. General Services Administration"
+        required: false
+
+      - label: "agency"
+        name: "Agency Acronym"
+        widget: "string"
+        hint: "e.g. GSA"
+        required: false
+
+      - label: "location"
+        name: "Location"
+        widget: "string"
+        hint: "Help us show that the federal workforce is not all in the D.C. area.<br/>Where in the country do you live in? [e.g. 'New York City' or 'Portland, OR']"
+        required: false
+
+      - label: "github"
+        name: "GitHub ID"
+        widget: "string"
+        hint: "[e.g. 'jeremyzilar'] — We'll use your GitHub profile image as your author photot on Digital.gov"
+        required: false
+
+      - label: "profile_photo"
+        name: "Profile Photo"
+        widget: "select"
+        options: ["---", "github", "digit-light", "digit-dark", "digit-pride"]
+        hint: "TKTK"
+        required: false
+
+      - label: "fwitter"
+        name: "Twitter"
+        widget: "string"
+        hint: "Enter your username without the @ handle [e.g. digital_gov]"
+        required: false
+
+      - label: "facebook"
+        name: "Facebook"
+        widget: "string"
+        required: false
+
+      - label: "instagram"
+        name: "Instagram"
+        widget: "string"
+        required: false
+
+      - label: "linkedin"
+        name: "LinkedIn"
+        widget: "string"
+        required: false
+
+      - label: "youtube"
+        name: "YouTube"
+        widget: "string"
         required: false
