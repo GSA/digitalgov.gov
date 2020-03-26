@@ -26,10 +26,5 @@ topics:
 authors: 
   - marietta-jelks
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
-
 # Make it better ♥
 ---
