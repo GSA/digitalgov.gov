@@ -41,11 +41,16 @@
 
             {{/* News Posts =========================== */}}
             {{/* Gets the recent blog posts */}}
-            {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "news" -}}
+            {{- $news := where .Site.RegularPages.ByDate.Reverse "Section" "news" -}}
 
-            {{/* Merges the past events and the recent blog posts */}}
-            {{ $stream := union $posts $past_events }}
-            {{/* {{ $stream := union $posts $events }} */}}
+            {{/* Gets the recent linked_news */}}
+            {{- $linked_news := where .Site.RegularPages.ByDate "Section" "linked_news" -}}
+
+            {{/* Merges the $linked_news and the $news */}}
+            {{ $news_stream := union $news $linked_news }}
+
+            {{/* Merges the past events and the recent news */}}
+            {{ $stream := union $news_stream $past_events }}
 
             {{/* Sorting all the items by date and reverse chron */}}
             {{ $stream := $stream.ByDate.Reverse }}
