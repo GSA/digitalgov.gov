@@ -3,7 +3,7 @@
 ## We help people in government build better digital services
 https://digital.gov
 
-- Sign-up for the [Digital.gov newsletter »]({{< ref "/about/subscribe.md" >}})
+- Sign-up for the [Digital.gov newsletter »](https://digital.gov/about/subscribe/)
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
 - Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
 
@@ -12,30 +12,113 @@ Want to learn more about how we work? [Check out our Wiki page »](https://githu
 
 ---
 
-
 [![CircleCI](https://circleci.com/gh/GSA/digitalgov.gov/tree/master.svg?style=svg)](https://circleci.com/gh/GSA/digitalgov.gov/tree/master)
+
+---
+## Repositories
+
+As a product, [digital.gov](https://digital.gov) maintains a collection of repositories. All of our work is open source and we encourage you to take a look at and contribute to our projects by submitting a Pull Request, a Github Issue, or commenting on existing Issues and Pull Requests. 
+
+All of our repositories follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) guidelines.
+
+### Digital.gov repositories
+
+These repos are all used to maintain [digital.gov](https://digital.gov)  
+
+
+<details>
+  <summary>Platform</summary>
+
+| Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| [GSA/**digitalgov.gov**]([https://github.com/GSA/digitalgov.gov](https://github.com/GSA/digitalgov.gov))                               | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).| 
+| [18F/**dns**](https://github.com/18F/dns)                              | DNS configuration for digital.gov domains managed by GSA TTS.| 
+| [uswds/**uswds**](https://github.com/uswds/uswds)                              | This site is developed using the U.S. Web Design System v2, managed by GSA TTS.| 
+
+</details>
+
+<details>
+  <summary>Tools - projects we have created in order to better aid our work on the digital.gov platform.</summary>
+
+| Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| [GSA/**digital.gov-design**](https://github.com/GSA/digital.gov-design)      | A collection of design assets used for the digital.gov platform.                                                          | 
+| [GSA/**digitalgov-workflow**](https://github.com/GSA/digitalgov-workflow)                           | A tool for managing the digital.gov editorial workflow on GitHub.                                                                                                                                                                            | 
+| [GSA/**redir**](https://github.com/GSA/redir)                   | A basic [Jekyll](https://jekyllrb.com/) template to use for temporary redirects.    
+
+</details>
+
+---
 
 ## Development Guide
 
-[Digital.gov](https://digital.gov/) is built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).
+### Technologies you should be familiarize yourself with
 
-### Install NPM Dependencies
+- [Hugo](https://gohugo.io/documentation/) - The primary site engine that builds digital.gov code and content.
+- [Front Matter](https://gohugo.io/content-management/front-matter#readout) - The top of each page/post includes keywords within `---` tags. This is meta data that helps Hugo build the site, but you can also use it to pass custom variables.
+- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) - the design system used in digital.gov.
+- [Gulp](https://gulpjs.com/) - the asset pipeline.
 
-`npm install`
+### Installation
 
-### Install Hugo 0.66.0
+#### Prerequisites
+To use Gulp, you must have [Node](https://nodejs.org/en/download/) and [NPM](https://www.npmjs.com/get-npm) installed.
+
+#### Install Hugo 0.66.0
 
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
-**For OSX:**
+**[For OSX](https://gohugo.io/getting-started/installing/#install-hugo-with-brew):**
 `brew install hugo`
 _see https://gohugo.io/getting-started/installing/ for other OSs_
 
-#### Run
 
-1. Run `hugo serve` in the terminal
-2. _wait 5-6 secs_
-3. visit http://localhost:1313/
+#### Setup
+
+Once the prerequisites are installed, [clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to your local machine, and then run:
+
+```
+npm install
+```
+
+This will install all of the Node dependencies needed to run your Hugo environment. This may take a little while!
+
+#### Local Development
+Local development is powered by BrowserSync, to allow rapid development through:
+
+- A local development server at `http://localhost:1313/`.
+- Automatic CSS & JS updates without reloading the page
+- Automatic page reloads when content is changed
+
+Running the local development server is as simple as running:
+
+```
+hugo serve
+```
+You may then view your local site in the browser at at `http://localhost:1313/'.
+
+
+### Configuration
+#### Environment Variables
+This project uses environment variables to handle uploading of images to AWS (powered by Gulp scripts).
+
+In your command line terminal run `cp env.example .env` to create a template .env file in the root directory of the project.
+
+Replace “[your key goes here]” in the .env file with your AWS key.
+
+#### Asset Pipeline
+
+All style and image build tasks are handled by [Gulp](https://gulpjs.com/docs/en/getting-started/javascript-and-gulpfiles) and are located in `gulpfile.js`. All parts of the build are configurable in discrete files (located in config/gulp) to make management easy.
+
+Starting the gulp watch tasks to compile styles can be done by running:
+
+```
+gulp
+```
+
+### Images
+Images found in `content/images/inbox/` will be optimized and compressed and sent to an AWS S3 bucket for usage in your layouts and content. This is done by running the `gulp img` command. See the digital.gov wiki for [how to process images](https://github.com/GSA/digitalgov.gov/wiki/Adding-Images).
+
 
 **Other helpful HUGO commands:**
 
