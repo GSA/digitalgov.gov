@@ -41,10 +41,16 @@
           {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
           {{/* Gets the recent blog posts */}}
-          {{- $posts := where .Pages "Section" "news" -}}
+          {{- $news := where .Pages "Section" "news" -}}
+
+          {{/* Gets the recent linked_news */}}
+          {{- $linked_news := where .Site.RegularPages.ByDate "Section" "linked_news" -}}
+
+          {{/* Merges the $link_posts and the $news */}}
+          {{ $news_stream := union $news $linked_news }}
 
           {{/* Merges the past events and the recent blog posts */}}
-          {{ $stream := union $posts $past_events }}
+          {{ $stream := union $past_events $news_stream }}
 
           {{/* If there are any items at all... */}}
           {{- if $stream -}}
@@ -55,6 +61,11 @@
 
               {{- if eq .Type "events" -}}
                 {{- .Render "card-event-past" -}}
+              {{- end -}}
+
+              {{- if eq .Type "linked_news" -}}
+                {{/* see /layouts/linked_news/ for card templates */}}
+                {{ .Render "card-linked_news"}}
               {{- end -}}
 
               {{- if eq .Type "news" -}}
