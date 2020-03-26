@@ -85,6 +85,11 @@
                 {{- end -}}
               {{- end -}}
 
+              {{- if eq .Type "linked_news" -}}
+                {{/* see /layouts/linked_news/ for card templates */}}
+                {{ .Render "card-linked_news"}}
+              {{- end -}}
+
               {{- if eq .Type "news" -}}
                 {{/* External links */}}
                 {{- if .Params.source -}}
