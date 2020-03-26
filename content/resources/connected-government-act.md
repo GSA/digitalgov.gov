@@ -20,9 +20,9 @@ The sections below were curated by the [MobileGov Community of Practice](https:/
 
 {{< card-policy src="https://www.congress.gov/bill/115th-congress/house-bill/2331/text" kicker="Law" title="**H.R.2331**: Connected Government Act" >}}
 
-To require a new or updated Federal website that is intended for use by the public to be mobile friendly, and for other purposes. <<NOTE: Jan. 10, 2018 -  [H.R. 2331]>> 
+To require a new or updated Federal website that is intended for use by the public to be mobile friendly, and for other purposes. &#60;&#60;NOTE: Jan. 10, 2018 - [H.R. 2331]&#62;&#62; 
 
-Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, <<NOTE: Connected Government Act. 44 USC 101 note.>> 
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, &#60;&#60;NOTE: Connected Government Act. 44 USC 101 note.&#62;&#62; 
 
 **SECTION 1. SHORT TITLE.** 
 
@@ -30,21 +30,21 @@ This Act may be cited as the "Connected Government Act".
 
 **SEC. 2. FEDERAL WEBSITES REQUIRED TO BE MOBILE FRIENDLY.** 
 
-(a) Amendment.--Subchapter II of chapter 35 of title 44, United States Code, is amended by adding at the end the following new section: 
+(a) **Amendment.**--Subchapter II of chapter 35 of title 44, United States Code, is amended by adding at the end the following new section: 
 
- - "Sec. 3559. <<NOTE: 44 USC 3559.>>  Federal websites required to be mobile friendly 
+"Sec. 3559. &#60;&#60;NOTE: 44 USC 3559.&#62;&#62; Federal websites required to be mobile friendly 
 
- - "(a) <<NOTE: Time period.>>  In General.--If, on or after the date that is 180 days after the date of the enactment of this section, an agency creates a website that is intended for use by the public or conducts a redesign of an existing legacy website that is intended for use by the public, the agency shall ensure to the greatest extent practicable that the website is mobile friendly. 
+ - "(a) &#60;&#60;NOTE: Time period.&#62;&#62; In General.--If, on or after the date that is 180 days after the date of the enactment of this section, an agency creates a website that is intended for use by the public or conducts a redesign of an existing legacy website that is intended for use by the public, the agency shall ensure to the greatest extent practicable that the website is mobile friendly. 
 
  - "(b) Definitions.--In this section: 
    - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5. 
    - "(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.". 
 
-(b) Technical and Conforming Amendment.--The table of sections at the beginning of chapter 35 of title 44, United States Code, is amended <<NOTE: 44 USC 3501 prec.>> by adding after the item related to section 3558 the following new item: 
+(b) **Technical and Conforming Amendment.**--The table of sections at the beginning of chapter 35 of title 44, United States Code, is amended &#60;&#60;NOTE: 44 USC 3501 prec.&#62;&#62; by adding after the item related to section 3558 the following new item: 
 
- - "3559. Federal websites required to be mobile friendly.". 
+"3559. Federal websites required to be mobile friendly.". 
 
-&#40;c&#41; <<NOTE: Deadline. Consultation. Public information.>> Report by OMB and GSA Required.--Not later than 18 months after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services, shall make publicly available and submit to Congress a report that-- 
+&#40;c&#41; &#60;&#60;NOTE: Deadline. Consultation. Public information.&#62;&#62; **Report by OMB and GSA Required.**--Not later than 18 months after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services, shall make publicly available and submit to Congress a report that-- 
 
  - (1) describes the implementation of the requirement described under section 3559 of title 44, United States Code, as added by subsection (a); and 
 
