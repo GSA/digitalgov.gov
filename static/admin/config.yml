@@ -4,31 +4,41 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
+  open_authoring: true # accept contributions (forks) from GitHub users
   branch: master
+  squash_merges: true # squash all commits into a single commit when the PR is merged
+  commit_messages:
+    create: 'Create {{collection}} "{{slug}}"'
+    update: 'Update {{collection}} "{{slug}}"'
+    delete: 'Delete {{collection}} "{{slug}}"'
+    uploadMedia: 'Upload "{{path}}"'
+    deleteMedia: 'Delete "{{path}}"'
+    openAuthoring: '{{message}}, {{author-login}}'
 
 publish_mode: editorial_workflow
-
 
 media_folder: "static/media" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/media" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
 
-  - name: "author" # Used in routes, e.g., /admin/collections/blog
-    label: "Author" # Used in the UI
+  # AUTHORS =======================
+  - name: "authors" # Used in routes, e.g., /admin/collections/blog
+    label: "Authors" # Used in the UI
+    label_singular: 'Author'
     folder: "content/authors" # The path to the folder where the documents are stored
-    path: "{{slug}}/_index.md"
+    path: '{{slug}}/_index.md'
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug:
+      encoding: "unicode"
+      clean_accents: true
 
-
-    # Field Settings =======================
+    # Field Settings
     # - label     — the title that will appear above the field in the editor
     # - name      — this is the key that will be used in the front matter
     # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
     # - required  — all fields are required by default unless you include `required: false`
     # - hint  — this is the helper text that occurrs below the field.
-
 
     fields: # The fields for each document, usually in front matter
 
