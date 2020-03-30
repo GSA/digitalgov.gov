@@ -25,7 +25,7 @@ weight: 2
 
 # see all authors at https://digital.gov/authors
 authors:
-  - joe-castle
+  - joseph-castle
 
 # Topics that best describe this product or service
 topics:
