@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: how-utilize-open-source-jupyter-project
 kicker: Open Source
-title: "How to Utilize the Open Source Jupyter Project for your Research"
+title: "AI Tech Workshop: How to Utilize the Open Source Jupyter Project for your Research"
 deck: ""
 summary: "We'll show you how easy it can be to wrangle data and engage in technical discussions surrounding data, artificial intelligence, machine-learning models."
 host: "Artificial Intelligence Community of Practice"
