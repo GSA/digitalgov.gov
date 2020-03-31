@@ -9,6 +9,19 @@ topics:
   - terms-of-service
 ---
 
+{{< note >}}
+**The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is currently inactive. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.
+{{< /note >}}
+
+{{< box >}}
+**Related pages**
+
+- [Federal-Compatible Terms of Service Agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
+- [Negotiated Terms of Service Agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
+- [Agency Points of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
+{{< /box >}}
+
+
 If your agency is part of a larger agency, your contact will be at the larger agency, as these agreements are negotiated and signed for the entire agency.
 
 If your agency isn’t listed below, contact [the Digital.gov team](digitalgov@gsa.gov) and we will add your point of contact to the list.
