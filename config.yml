@@ -17,7 +17,7 @@ buildFuture             : true
 ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
-  - "content/images/*"
+  - "content/images/_inbox"
   - "content/_archived/*"
 
 sitemap:
