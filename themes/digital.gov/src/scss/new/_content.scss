@@ -100,36 +100,35 @@
 
   // tables
   table{
-    @include u-margin-y(2);
+    @include u-margin-y(5);
     @include u-font('sans', 'xs');
     @include u-width('full');
     tr{
-      th{
-        @include u-text('left');
-      }
       th,
       td{
         @include u-padding-y(1);
-        @include u-padding-x(1);
+        @include u-padding-x('05');
         vertical-align: top;
-        @include u-border-bottom('1px', 'solid', 'base-lighter');
+        @include u-border-x(0);
+    		@include u-border-y('1px','base-light','solid');
         a{
-          @include u-text('no-underline');
-          &:hover{
-            @include u-text('underline');
-          }
-        }
+    			@include u-text('no-underline');
+    			&:hover{
+    				span{
+    					@include u-text('underline');
+    				}
+    			}
+    		}
         .icon{
           @include u-width('205');
         }
       }
-      th:first-child,
-      td:first-child{
-        @include u-padding-left(0);
-      }
-      th:last-child,
-      td:last-child{
-        @include u-padding-right(0);
+      th{
+        @include u-text('left');
+    		@include u-text('bold');
+        @include u-border(0);
+    		@include u-padding-x('05');
+        @include u-border-top('2px','black','solid');
       }
     }
   }
