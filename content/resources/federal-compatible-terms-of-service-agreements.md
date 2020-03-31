@@ -11,7 +11,8 @@ topics:
 
 ---
 
-{{< note >}}
+
+{{< note "alert" >}}
 **The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is currently inactive. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.
 {{< /note >}}
 
