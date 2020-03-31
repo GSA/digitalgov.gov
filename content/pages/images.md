@@ -1,10 +1,12 @@
 ---
-url: /images
+slug: images
 type: docs
 layout: all-images
 date: 2017-07-08 3:46:23 -0400
-title: All Images
-summary: this is a summary
+title: "Images"
+summary: "A running feed of the images we use on Digital.gov."
 js: [all-images.js]
-css: [all-images.css]
+css: [stream-images.css]
 ---
+
+A running feed of the images we use on Digital.gov.
