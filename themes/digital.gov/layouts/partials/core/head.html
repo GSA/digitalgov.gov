@@ -174,9 +174,14 @@
   <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
   {{- end -}}
 
-  {{- range $.Params.css -}}
-    {{- $path := (printf "css/%s" .) | absURL -}}
-    <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
+  {{/* Custom CSS */}}
+  {{- if $.Params.css -}}
+    {{- range $.Params.css -}}
+      {{- $path := (printf "dist/%s" .) | absURL -}}
+      <!-- CUSTOM CSS -->
+      <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
+    {{- end -}}
   {{- end -}}
+
 
 </head>
