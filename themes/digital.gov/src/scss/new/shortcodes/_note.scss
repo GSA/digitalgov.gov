@@ -59,3 +59,17 @@ li .note{
 		}
 	}
 }
+
+// Activities  — color settings
+.note.alert{
+	@include u-bg('red-5');
+	@include u-text('red-60v');
+	@include u-border-left('05', 'solid', 'red-30v');
+	a{
+		@include u-text('red-60v');
+		@include u-border-bottom('1px', 'solid', 'red-60v');
+		&:hover{
+			@include u-text('red-80v');
+		}
+	}
+}
