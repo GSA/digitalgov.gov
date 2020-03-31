@@ -1,10 +1,10 @@
 # Key
 
 # type:
-# - pdf
-# - gdoc
-# - wdoc
-# - web
+# - 'PDF'
+# - 'Google Doc'
+# - 'Word Doc'
+# - 'Website'
 
 # status:
 # - inactive = company no longer has a govt approved TOS
@@ -17,23 +17,23 @@ termsofservice:
     url           : https://developer.amazon.com/public/
     description   : Mobile app store
     uri           : '2014/07/amazon-appstore-agreements-tos-amendment-12714-140522145744-phpapp02.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : "AddThis"
     url           : 'http://www.addthis.com/'
     description   : 'Bookmarking & sharing'
     uri           : '2014/07/addthis-updated-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : 'Asana'
     url           : 'https://www.asana.com/'
     description   : 'Collaborative software; mobile- and web-based project management tool'
     uri          : 'https://asana.com/terms#amendment'
-    type          : web
+    type          : 'Website'
     updated       :
     status        : inactive
 
@@ -41,39 +41,39 @@ termsofservice:
     url           : http://www.bing.com/
     description   : Search engine
     uri           : '2014/07/bing-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Blackberry App World
     url           : http://appworld.blackberry.com/webstore/
     description   : Mobile app store
     uri           : '2014/07/blackberry-app-world-tos-agreement.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : 'Blip.tv'
     url           : http://www.blip.tv/
     description   : 'Video sharing'
     uri           : '2014/07/bliptv-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        : inactive
 
   - name          : 'CartoDB'
     url           : http://www.cartodb.com/
     description   : 'Maps for the web – made easy'
     uri           : https://drive.google.com/file/d/0B3OBExqwT6KJRG8taVZHZUNEQUE/view
-    type          : gdoc
-    updated       : 2014-07
+    type          : 'Google Doc'
+    updated       : 07-2014
     status        :
 
   - name          : 'Challenge.gov'
     url           : 'http://www.challenge.gov/'
     description   : 'Government challenge platform'
     uri           : '2014/07/challengegov-tos-amendment.pdf'
-    type          : pdf
+    type          : 'PDF'
     updated       :
     status        :
 
@@ -81,7 +81,7 @@ termsofservice:
     url           : 'http://chatwing.com/'
     description   : 'Website/app chat client'
     uri           : 'http://chatwing.com/site/amendment'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -89,7 +89,7 @@ termsofservice:
     url           : http://www.classmarker.com/
     description   : 'Online testing & training platform'
     uri           : http://www.classmarker.com/online-testing/terms/usa-federal-agencies/
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -97,7 +97,7 @@ termsofservice:
     url           : http://www.cyfe.com/
     description   : 'All-in-one dashboard'
     uri           : http://www.cyfe.com/terms-government
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -105,15 +105,15 @@ termsofservice:
     url           : http://www.dialogue-app.com/info/
     description   : 'Crowdsourcing & ideation'
     uri           : '2014/07/delib-dialog-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Disqus
     url           : http://www.disqus.com/
     description   : 'Universal commenting & social discussion'
     uri           : https://help.disqus.com/customer/portal/articles/2537842-amendment-to-disqus-terms-of-service-applicable-to-u-s-federal-government-users
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -121,7 +121,7 @@ termsofservice:
     url           : http://www.eventbrite.com/
     description   : Event Management tool
     uri           : 'http://www.eventbrite.com/l/federal-government'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -129,7 +129,7 @@ termsofservice:
     url           : http://www.facebook.com/
     description   : Social networking
     uri           : https://www.facebook.com/terms_pages_gov.php
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -137,15 +137,15 @@ termsofservice:
     url           : http://www.flickr.com/
     description   : 'Photo sharing, now owned by SmugMug'
     uri           : '2018/flickr-amendment-5-23-18.pdf'
-    type          : pdf
-    updated       : 2018-05-23
+    type          : 'PDF'
+    updated       : 05-23-2018
     status        :
 
   - name          : Flipboard
     url           : http://www.flipboard.com/
     description   : 'Magazine format social network aggregation'
     uri           : 'https://about.flipboard.com/federal-tou/'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -153,63 +153,63 @@ termsofservice:
     url           : http://foursquare.com/
     description   : 'Location-based software and services'
     uri           : '2014/07/foursquare-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
-  - name          : GitHub
+  - name          : "GitHub"
     url           : https://github.com/
-    description   : 'Collaborative software development tool'
-    uri           : 'https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-government-users'
-    type          : web
+    description   : "Collaborative software development tool"
+    uri           : https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-government-users
+    type          : "Site"
     updated       :
     status        :
 
-  - name          : Google Analytics
-    url           : 'http://www.google.com/analytics/'
-    description   : Website analytics tool
+  - name          : "Google Analytics"
+    url           : "http://www.google.com/analytics/"
+    description   : "Website analytics tool"
     uri           : '2014/07/google-analytics-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Google Blogger
     url           : http://www.blogger.com/
     description   : Blogging software
     uri           : '2014/07/google-blogger-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : 'Google Feedburner'
     url           : 'http://feedburner.google.com/'
     description   : 'RSS feed management software'
     uri           : '2014/07/google-feedburner-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : 'Google+'
     url           : https://plus.google.com/
     description   : Social network with mulilingual capabilities
     uri           : '2014/07/google-plus-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        : inactive
 
   - name          : Google Visualization
     url           : https://developers.google.com/chart/
     description   : 'Display of multimedia, data, maps'
     uri           : '2014/07/google-visualization-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : GovLoop
     url           : http://www.govloop.com/
     description   : Knowledge network
     uri           : http://www.govloop.com/terms-of-service/
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -217,7 +217,7 @@ termsofservice:
     url           : https://hackpad.com/
     description   : 'Wiki and real-time collaborative documents'
     uri           : 'https://hackpad.com/MwTzlQre2hE#AMENDMENT-TO-HACKPAD-TERMS-OF-SERVICE'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -225,23 +225,23 @@ termsofservice:
     url           : http://hootsuite.com/
     description   : Social media dashboard
     uri           : '2015/02/hootsuite-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2015-02
+    type          : 'PDF'
+    updated       : 02-2015
     status        :
 
   - name          : Hulu
     url           : http://www.hulu.com/
     description   : Video streaming
     uri           : '2014/01/hulu-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Hypothesis
     url           : https://www.hypothes.is/
     description   : Web peer review layer
     uri           : 'https://www.hypothes.is/tos-government-users/'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -249,7 +249,7 @@ termsofservice:
     url           : http://www.ideascale.com/
     description   : 'Voting & feedback'
     uri           : 'http://support.ideascale.com/customer/portal/articles/1134791-amendment-to-terms-of-service-applicable-to-governmental-users-members'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -257,7 +257,7 @@ termsofservice:
     url           : http://www.ifttt.com/
     description   : 'A toolkit for using/creating recipes for powerful data integrations'
     uri           : 'https://ifttt.com/terms_for_government_agencies'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -265,39 +265,39 @@ termsofservice:
     url           : http://instagram.com
     description   : 'Photo & video sharing service'
     uri           : 'https://help.instagram.com/317709155098612'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
-  - name          : IntenseDebate
+  - name          : "IntenseDebate"
     url           : http://www.intensedebate.com/
-    description   : Social commenting
+    description   : "Social commenting"
     uri           : '2014/01/intensedebate-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : "Let's Encrypt"
     url           : https://www.letsencrypt.org
     description   : HTTPS Certificate Authority
     uri           : 'https://letsencrypt.org/documents/LE-USG-SA-Amendment-Sept-22-2015.pdf'
-    type          : pdf
-    updated       :
+    type          : 'PDF'
+    updated       : 09-2015
     status        :
 
   - name          : LinkedIn
     url           : http://www.linkedin.com
     description   : Professional networking
     uri           : '2015/09/Amendment-to-LinkedIn-User-Agreement_Federal.pdf'
-    type          : pdf
-    updated       : 2015-09
+    type          : 'PDF'
+    updated       : 09-2015
     status        :
 
   - name          : MapBox
     url           : http://mapbox.com/
     description   : Online maps service
     uri           : 'https://www.mapbox.com/usg-tos'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -305,7 +305,7 @@ termsofservice:
     url           : http://www.medium.com/
     description   : 'Publishing platform'
     uri           : 'https://medium.com/@Medium/amendment-to-medium-terms-of-service-applicable-to-u-s-government-users-fccb00db67d7'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -313,7 +313,7 @@ termsofservice:
     url           : http://www.mendeley.com/
     description   : Social networking platform
     uri           : 'http://www.mendeley.com/terms-governmental-amendment/'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -321,7 +321,7 @@ termsofservice:
     url           : http://my.commetrics.com/
     description   : 'Tracking & benchmarking of blogs'
     uri           : 'http://info.cytrap.eu/terms-privacy/terms-and-conditions'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -329,15 +329,15 @@ termsofservice:
     url           : http://www.myspace.com/
     description   : Social networking
     uri           : '2014/01/myspace-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Need to Meet
     url           : http://www.needtomeet.com
     description   : Scheduling app
     uri           : 'http://www.needtomeet.com/terms'
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -345,7 +345,7 @@ termsofservice:
     url           : http://news.rapgenius.com/
     description   : 'Wiki & real-time collaborative documents'
     uri           : http://news.rapgenius.com/static/government_terms
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -353,23 +353,23 @@ termsofservice:
     url           : http://www.opencalais.com
     description   : Automated metadata
     uri           : '2014/01/opencalais-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Piktochart
     url           : http://www.piktochart.com/
     description   : 'Create easy-to-use inforgraphics'
     uri           : '2015/05/Piktochart-Commerce-Amended-TOS-3_15.pdf'
-    type          : pdf
-    updated       : 2015-05
+    type          : 'PDF'
+    updated       : 05-2015
     status        :
 
   - name          : Pinterest
     url           : http://pinterest.com/
     description   : Online collections
     uri           : https://support.pinterest.com/entries/22787291
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -377,7 +377,7 @@ termsofservice:
     url           : https://plot.ly
     description   : Graph and share data
     uri           : https://plot.ly/amendment-to-plotly-terms-of-service-applicable-to-government-users/
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -385,7 +385,7 @@ termsofservice:
     url           : https://marvelapp.com/pop
     description   : Prototyping on paper
     uri           : https://marvelapp.com/terms/
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -393,15 +393,15 @@ termsofservice:
     url           : https://www.qualtrics.com/
     description   : Customer experience survey software
     uri           : https://www.qualtrics.com/terms-of-service/
-    type          : web
-    updated       : 2017-08-21
+    type          : 'Website'
+    updated       : 08-21-2017
     status        :
 
   - name          : Quora
     url           : http://www.quora.com
     description   : Question and answer community website
     uri           : http://www.quora.com/about/government_tos
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -409,7 +409,7 @@ termsofservice:
     url           : https://www.qzzr.com/
     description   : 'Create, embed, and share quizzes'
     uri           : https://www.qzzr.com/terms-of-service
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -417,15 +417,15 @@ termsofservice:
     url           : https://www.roku.com/
     description   : 'TV streaming platform'
     uri           : https://docs.roku.com/doc/developerdistribution/en-us
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
-    
+
   - name          : Screendoor
     url           : http://www.dobt.co/screendoor/
     description   : Online forms
     uri           : https://dashboard.dobt.co/federal_terms
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -433,15 +433,15 @@ termsofservice:
     url           : http://www.scribd.com/
     description   : Social publishing
     uri           : '2014/01/scribd-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Slack
     url           : http://www.slack.com/
     description   : Team communication platform
     uri           : https://slack.com/terms-of-service/government
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -449,15 +449,15 @@ termsofservice:
     url           : http://www.slideshare.com/
     description   : Presentation sharing
     uri           : '2014/01/slideshare-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Snapchat
     url           : https://www.snapchat.com/
     description   : 'Social, messaging App'
     uri           : https://www.snap.com/en-US/terms/us-amendment/
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -465,7 +465,7 @@ termsofservice:
     url           : http://snip.ly/
     description   : Content sharing
     uri           : http://snip.ly/terms/
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -473,7 +473,7 @@ termsofservice:
     url           : http://www.socialoomph.com/
     description   : Social media productivity tool
     uri           : https://www.socialoomph.com/termsfederal
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -481,31 +481,31 @@ termsofservice:
     url           : http://tellafriend.socialtwist.com/
     description   : 'Bookmarking & sharing tool'
     uri           : '2014/01/socialtwist-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Socrata
     url           : http://www.socrata.com/products/custom-web-and-mobile-apps-government-data
     description   : Data hosting
     uri           : '2014/01/socrata-tos-amendment_0.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : SourceForge
     url           : http://sourceforge.net/
     description   : 'Open source software development & sharing'
     uri           : '2014/01/sourceforge-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : StackExchange
     url           : http://stackexchange.com/
     description   : Question and answer communities
     uri           : http://stackexchange.com/legal
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -513,15 +513,15 @@ termsofservice:
     url           : http://www.stcinnovations.com/vencorps/
     description   : 'Challenges, contests & prizes tool'
     uri           : '2014/01/stci-vencorps-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Storify
     url           : http://storify.com/
     description   : 'Social media curation & publishing platform'
     uri           : http://storify.com/tos/amendment
-    type          : web
+    type          : 'Website'
     updated       :
     status        : inactive
 
@@ -529,23 +529,23 @@ termsofservice:
     url           : http://www.stumbleupon.com/
     description   : Content discovery
     uri           : '2014/01/stumbleupon-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Survey Analytics
     url           : http://www.surveyanalytics.com
     description   : Survey software
     uri           : '2014/01/survey-analytics-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        :
 
   - name          : Survey Monkey
     url           : http://www.surveymonkey.com/
     description   : Survey software
     uri           : http://www.surveymonkey.com/mp/policy/terms-of-use-government/
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -553,7 +553,7 @@ termsofservice:
     url           : https://www.thunderclap.it/?locale=en
     description   : 'Crowd-speaking platform'
     uri           : https://www.thunderclap.it/federal_tou
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -561,7 +561,7 @@ termsofservice:
     url           : http://www.tintup.com/
     description   : Connect and display social media feeds
     uri           : http://www.tintup.com/termsofservice/amendment
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -569,7 +569,7 @@ termsofservice:
     url           : https://trello.com
     description   : 'Collaborate & organize your projects into boards'
     uri           : https://www.atlassian.com/legal/government-amendment
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -577,23 +577,23 @@ termsofservice:
     url           : http://www.tubemogul.com/
     description   : 'Video analytics & distribution'
     uri           : '2014/01/tubemogul-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-01
+    type          : 'PDF'
+    updated       : 01-2014
     status        :
 
   - name          : Tumblr
     url           : http://www.tumblr.com
     description   : Blogging
     uri           : '2014/10/countersigned-GSA-Tumblr-agreement.pdf'
-    type          : pdf
-    updated       : 2014-10
+    type          : 'PDF'
+    updated       : 10-2014
     status        :
 
   - name          : Twitter
     url           : https://twitter.com/
     description   : Social networking service
     uri           : https://twitter.com/tos
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -601,7 +601,7 @@ termsofservice:
     url           : https://twitter.com/vineapp
     description   : Video sharing service, from Twitter
     uri           : https://vine.co/terms
-    type          : web
+    type          : 'Website'
     updated       :
     status        :
 
@@ -609,63 +609,63 @@ termsofservice:
     url           : http://www.wikispaces.com/
     description   : Collaboration
     uri           : '2014/01/wikispaces-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-01
+    type          : 'PDF'
+    updated       : 10-2014
     status        :
 
   - name          : WordPress
     url           : http://wordpress.com
     description   : Content Management
     uri           : '2014/01/wordpress-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-01
+    type          : 'PDF'
+    updated       : 10-2014
     status        :
 
   - name          : Yammer
     url           : https://www.yammer.com/
     description   : 'Microblogging + team communications'
     uri           : '2014/01/yammer-tos-amendment.doc'
-    type          : wdoc
-    updated       : 2014-01
+    type          : 'Word Doc'
+    updated       : 10-2014
     status        :
 
   - name          : Yelp
     url           : http://www.yelp.com/
     description   : 'Crowd-sourced local reviews and social networking'
     uri           : '2015/08/Yelp-Terms-Amendment-for-use-by-Govt-FINAL-07-30-2015.doc'
-    type          : wdoc
-    updated       : 2015-08
+    type          : 'Word Doc'
+    updated       : 08-2015
     status        :
 
   - name          : YouTube
     url           : http://www.youtube.com
     description   : Video sharing
     uri           : '2014/01/youtube-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-01
+    type          : 'PDF'
+    updated       : 01-2014
     status        :
 
   - name          : ZeeMaps
     url           : http://zeemaps.com/
     description   : maps
     uri           : '2014/01/zeemaps-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-01
+    type          : 'PDF'
+    updated       : 01-2014
     status        :
 
   - name          : '4Q Survey.com'
     url           : http://www.4qsurvey.com/
     description   : Satisfaction measurement tool
     uri           : '2014/07/4qsurvey-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
+    type          : 'PDF'
+    updated       : 07-2014
     status        : inactive
 
   - name          : Bitly
     url           : https://bitly.com/
     description   : 'Bookmark, organize & share'
     uri           :
-    type          : web
+    type          : 'Website'
     updated       :
     status        : inactive
 
@@ -673,15 +673,15 @@ termsofservice:
     url           : http://www.cooliris.com/
     description   : 'Video & picture browsing. The company terminated the agreement on 01/01/15 with notice.'
     uri           :
-    type          : web
-    updated       : 2015-01
+    type          : 'Website'
+    updated       : 01-2015
     status        : inactive
 
   - name          : CrowdHall
     url           : https://www.crowdhall.com/
     description   : Host online interactive town halls
     uri           : https://api.crowdhall.com/auth/about/terms_federal
-    type          : web
+    type          : 'Website'
     updated       :
     status        : inactive
 
@@ -689,7 +689,7 @@ termsofservice:
     url           : http://www.google.com/moderator/#0
     description   : '(Has been retired) Social commenting & discussion.'
     uri           : '2014/07/google-moderator-tos-amendment.pdf'
-    type          : pdf
+    type          : 'PDF'
     updated       :
     status        : inactive
 
@@ -697,7 +697,7 @@ termsofservice:
     url           : https://www.google.com/webmasters/tools/
     description   : 'Analytics and search engine optimization — Google Webmaster Tools has decided not to sign up any new agencies but will honor existing agreements.'
     uri           : '2014/07/google-webmaster-tools-tos-amendment.pdf'
-    type          : pdf
+    type          : 'PDF'
     updated       : 2013-10-18
     status        : inactive
 
@@ -705,16 +705,16 @@ termsofservice:
     url           : http://mandrill.com
     description   : Transactional email service, by MailChimp, now an add-on for paid monthly MailChimp accounts.
     uri           : http://mandrill.com/amended-government-terms
-    type          : web
-    updated       : 2016-03-16
+    type          : 'Website'
+    updated       : 03-16-2016
     status        : inactive
 
   - name          : MeetUp Everywhere
     url           : http://www.meetup.com/everywhere/
     description   : Social networking platform
     uri           : '/2014/01/meetup-everywhere-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-01
+    type          : 'PDF'
+    updated       : 01-2014
     status        : inactive
 
   - name          : 'Ustream.tv'
@@ -729,6 +729,6 @@ termsofservice:
     url           : http://www.uservoice.com/
     description   : 'Voting, customer & constituent feedback. No longer offers a “free” civic engagement option.'
     uri           : https://www.uservoice.com/tos/federal/
-    type          : web
+    type          : 'Website'
     updated       :
     status        : inactive
