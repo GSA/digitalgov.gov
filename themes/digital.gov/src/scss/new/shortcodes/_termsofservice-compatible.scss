@@ -9,9 +9,7 @@ table.tos-list{
 		@include u-padding-x('105');
 		@include u-border-x(0);
 		@include u-border-y('1px','base-lighter','solid');
-		.description{
-			@include u-font('sans', 'sm');
-		}
+		@include u-font('sans', 'sm');
 		a{
 			@include u-text('no-underline');
 			&:hover{
@@ -25,6 +23,7 @@ table.tos-list{
 	.tos-file{
 		@include u-font('sans', '2xs');
 		@include u-minw(15);
+		@include u-width('card');
 
 		.updated{
 			@include u-margin(0);
