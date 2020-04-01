@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp build-sass && gulp compile && gulp compile-common && hugo serve",
-    "federalist": "gulp build-sass && gulp compile && gulp compile-common && hugo build",
+    "federalist": "npm install && gulp build-sass && gulp compile && gulp compile-common && hugo build",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "directories": {
