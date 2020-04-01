@@ -4,8 +4,12 @@
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
   "scripts": {
-    "start": "gulp build-sass && gulp compile && gulp compile-common && hugo serve",
-    "federalist": "npm install && gulp build-sass && gulp compile && gulp compile-common && hugo build",
+    "build": "gulp",
+    "federalist": "concurrently \"npm run build\" \"hugo build\"",
+    "start": "concurrently \"npm run watch\" \"hugo serve\"",
+    "watch": "npm run build",
+    "watch:js": "gulp watch-js",
+    "watch:sass": "gulp watch-sass",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "directories": {
@@ -17,6 +21,7 @@
   },
   "license": "",
   "dependencies": {
+    "concurrently": "^5.1.0",
     "gulp-jshint": "^2.1.0",
     "octicons": "^7.3.0",
     "pa11y-ci": "^2.3.0"

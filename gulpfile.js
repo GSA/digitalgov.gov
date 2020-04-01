@@ -18,12 +18,15 @@ gulp.task("img-upload", gulp.series('cleanup'));
 
 gulp.task("img", gulp.series('img-upload'));
 
-gulp.task('watch-assets', function () {
-  gulp.watch('./themes/digital.gov/src/scss/uswds/**/*.scss', gulp.series('build-sass'));
-  gulp.watch('./themes/digital.gov/src/scss/new/**/*.scss', gulp.series('build-sass'));
+// =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+gulp.task("watch-js", function() {
   gulp.watch('./themes/digital.gov/src/js/**/*.js', gulp.series('compile', 'compile-common'));
 });
 
-gulp.task('watch', gulp.series('build-sass', 'compile', 'compile-common', 'watch-assets'));
+gulp.task("watch-sass", function() {
+  gulp.watch('./themes/digital.gov/src/scss/uswds/**/*.scss', gulp.series('build-sass'));
+  gulp.watch('./themes/digital.gov/src/scss/new/**/*.scss', gulp.series('build-sass'));
+});
 
-gulp.task('default', gulp.series('watch'));
+gulp.task('default', gulp.series('build-sass', 'compile', 'compile-common'));
