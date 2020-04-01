@@ -4,9 +4,8 @@
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
   "scripts": {
-    "build": "gulp build-sass && gulp compile && gulp compile-common && hugo build",
     "start": "gulp build-sass && gulp compile && gulp compile-common && hugo serve",
-    "federalist": "build",
+    "federalist": "gulp build-sass && gulp compile && gulp compile-common && hugo build",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "directories": {
