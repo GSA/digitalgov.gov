@@ -29,4 +29,6 @@ gulp.task("watch-sass", function() {
   gulp.watch('./themes/digital.gov/src/scss/new/**/*.scss', gulp.series('build-sass'));
 });
 
-gulp.task('default', gulp.series('build-sass', 'compile', 'compile-common'));
+gulp.task('build', gulp.series('build-sass', 'compile', 'compile-common'));
+
+// gulp.task('default', gulp.series('build-sass', 'compile', 'compile-common'));

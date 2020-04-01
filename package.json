@@ -4,7 +4,7 @@
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
   "scripts": {
-    "build": "gulp",
+    "build": "gulp build",
     "federalist": "npm run build",
     "start": "concurrently \"npm run watch\" \"hugo serve\"",
     "watch": "npm run build",
