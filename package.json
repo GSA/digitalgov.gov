@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp",
-    "federalist": "concurrently \"npm run build\" \"hugo build\"",
+    "federalist": "npm run build",
     "start": "concurrently \"npm run watch\" \"hugo serve\"",
     "watch": "npm run build",
     "watch:js": "gulp watch-js",
