@@ -30,7 +30,7 @@ This Act may be cited as the "Connected Government Act".
 
 {{< highlight >}}**SEC. 2. FEDERAL WEBSITES REQUIRED TO BE MOBILE FRIENDLY.**{{< /highlight >}} 
 
-(a) {{< highlight >}}**Amendment.**{{< highlight >}}--Subchapter II of chapter 35 of title 44, United States Code, is amended by adding at the end the following new section: 
+(a) {{< highlight >}}**Amendment.**{{< /highlight >}}--Subchapter II of chapter 35 of title 44, United States Code, is amended by adding at the end the following new section: 
 
 {{< highlight >}}"Sec. 3559. (NOTE: 44 USC 3559.) Federal websites required to be mobile friendly{{< /highlight >}} 
 
@@ -38,7 +38,7 @@ This Act may be cited as the "Connected Government Act".
 
  - "(b) Definitions.--In this section: 
    - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5. 
-   - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< highlight >}}". 
+   - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< /highlight >}}". 
 
 (b) **Technical and Conforming Amendment.**--The table of sections at the beginning of chapter 35 of title 44, United States Code, is amended (NOTE: 44 USC 3501 prec.) by adding after the item related to section 3558 the following new item: 
 
