@@ -1,0 +1,35 @@
+table.tos-list{
+	th{
+		@include u-bg('base-lighter');
+		@include u-text('bold');
+		@include u-border(0);
+		@include u-padding-x('105');
+	}
+	td{
+		@include u-padding-x('105');
+		@include u-border-x(0);
+		@include u-border-y('1px','base-lighter','solid');
+		.description{
+			@include u-font('sans', 'sm');
+		}
+		a{
+			@include u-text('no-underline');
+			&:hover{
+				span{
+					@include u-text('underline');
+				}
+			}
+		}
+	}
+
+	.tos-file{
+		@include u-font('sans', '2xs');
+		@include u-minw(15);
+
+		.updated{
+			@include u-margin(0);
+			@include u-font('sans', '3xs');
+			@include u-text('base');
+		}
+	}
+}
