@@ -60,9 +60,26 @@
 
 <script src='{{ "dist/jquery.min.js" | absURL }}'></script>
 <script src='{{ "dist/uswds.min.js" | absURL }}'></script>
-<script src='{{ "dist/base.js" | absURL }}'></script>
+<script src='{{ "dist/common.js" | absURL }}'></script>
 
 {{/* Add to Calendar JS */}}
 {{- partial "core/addtocalendar-js" . -}}
+
+<!-- Set the Images API as a variable -->
+<script type="text/javascript">
+  var root_url = {{ "" | absURL }};
+  var all_images_json = {{ "images/v1/json/" | absURL }};
+</script>
+
+
+{{/* Custom JS */}}
+{{- if $.Params.js -}}
+  {{- range $.Params.js -}}
+    {{- $path := (printf "dist/%s" .) | absURL -}}
+    <!-- CUSTOM JS -->
+    <script src="{{ $path }}" type='text/javascript' charset='utf-8'></script>
+  {{- end -}}
+{{- end -}}
+
 
 </html>

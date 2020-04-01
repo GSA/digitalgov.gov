@@ -1,0 +1,92 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+*/
+
+// -------------------------------------
+// Import individual theme settings
+
+@import '../uswds/uswds-theme-general';
+@import '../uswds/uswds-theme-typography';
+@import '../uswds/uswds-theme-spacing';
+@import '../uswds/uswds-theme-color';
+@import '../uswds/uswds-theme-utilities';
+@import '../uswds/uswds-theme-components';
+
+// -------------------------------------
+// Import individual USWDS modules...
+
+// @import 'uswds-fonts';
+// @import 'uswds-layout-grid';
+// @import 'uswds-components';
+// @import 'uswds-utilities';
+
+// -------------------------------------
+// ...or import all USWDS modules
+
+@import 'uswds';
+
+// -------------------------------------
+// custom styles
+
+.card-img{
+  @include u-border-top('1px', 'solid', 'base-lighter');
+  @include u-padding-y(4);
+  @include u-display('flex');
+  .media{
+    @include u-margin-right(2);
+    @include u-width('tablet');
+    img{
+      @include u-border('1px', 'solid', 'base-lighter');
+    }
+    p{
+      @include u-margin-top(0);
+      @include u-margin-x('2px');
+      @include u-font('sans', '3xs');
+      @include u-line-height('sans', 2);
+      @include u-text('base-dark');
+    }
+  }
+
+  .img-data{
+    @include u-font('sans', '2xs');
+    @include u-width('full');
+    p{
+      @include u-margin-top('05');
+    }
+    .code{
+      @include u-margin-y(2);
+      .label{
+        @include u-margin-y(0);
+        @include u-font('sans', '3xs');
+      }
+      pre {
+        @include u-margin-y(0);
+        @include u-bg('white');
+        @include u-padding-y('2px');
+        @include u-padding-x(1);
+        @include u-font('sans', 'xs');
+      }
+    }
+  }
+  .edit{
+    @include u-padding-y('2px');
+    @include u-padding-x(1);
+    @include u-radius('md');
+    @include u-text('medium');
+    @include u-font('sans', '2xs');
+    @include u-display('inline-block');
+    @include u-border('1px', 'solid', 'primary-vivid');
+  }
+  .meta{
+    @include u-margin-top(0);
+    @include u-margin-x('2px');
+    @include u-font('mono', '3xs');
+    @include u-text('base');
+  }
+}

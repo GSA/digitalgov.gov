@@ -1,0 +1,48 @@
+{{- define "content" -}}
+
+<main role="main">
+  <article>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+            <p class="breadcrumb"><a href="{{- "/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Home</span> </a></p>
+            {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+            {{- end -}}
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
+
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+
+          <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
+
+            <div id="stream-images" class="stream usa-prose"></div>
+
+            {{- partial "core/page-data" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  </article>
+</main>
+{{- end -}}
