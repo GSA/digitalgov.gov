@@ -39,19 +39,6 @@ This Act may be cited as the "Connected Government Act".
  - "(b) Definitions.--In this section: 
    - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5. 
    - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< /highlight >}}". 
-
-(b) **Technical and Conforming Amendment.**--The table of sections at the beginning of chapter 35 of title 44, United States Code, is amended (NOTE: 44 USC 3501 prec.) by adding after the item related to section 3558 the following new item: 
-
-"3559. Federal websites required to be mobile friendly.". 
-
-&#40;c&#41; (NOTE: Deadline. Consultation. Public information.) **Report by OMB and GSA Required.**--Not later than 18 months after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services, shall make publicly available and submit to Congress a report that-- 
-
- - (1) describes the implementation of the requirement described under section 3559 of title 44, United States Code, as added by subsection (a); and 
-
-[[Page 131 STAT. 2279]] 
-
- - (2) (NOTE: Assessment.) assesses the compliance of each agency with such requirement. 
-
 {{< /card-policy >}}
 
 ## What Is Mobile-Friendly?
