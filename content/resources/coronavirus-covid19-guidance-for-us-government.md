@@ -53,7 +53,7 @@ Federal agencies with a role in the response effort should stand up an `agency.g
 - [Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (COVID-19) — CDC
 - [Government Response to Coronavirus](https://www.usa.gov/coronavirus) — USAgov
 
-In addition, use your agency coronavirus page to communicate what your agency is doing to support the response effort and link to [featured content](#content-to-feature) as appropriate. Also follow the [guidance for social media](#social-media-guidance). Coordinate emergency response-related web communications with your [Federal Web Council representative]({{< ref "/resources/federal-web-council.md" >}}).
+In addition, use your agency coronavirus page to communicate what your agency is doing to support the response effort and link to [featured content](#content-to-feature) as appropriate. Also follow the [guidance for social media](#social-media-guidance). Coordinate emergency response-related web communications with your [Federal Web Council]({{< ref "/resources/federal-web-council.md" >}}) representative.
 
 Link to authoritative information from other government agencies related to your agency mission or ”lane.” Do NOT copy and paste content from other agencies/websites onto your site.
 
