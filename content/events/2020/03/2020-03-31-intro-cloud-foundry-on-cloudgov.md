@@ -58,7 +58,7 @@ A regular speaker at conferences, unconferences, and meetups, Steve was invited 
 
 ## Related
 
- - [**Try cloud.gov for free**](https://cloud.gov/sign-up/) — [Follow this guide](https://cloud.gov/sign-up/) to create an account and deploy a sample app in your own free sandbox.
+ - [**Try cloud.gov for free**](http://tutorials.cloudfoundry.org/trycf/) — [Follow this guide](http://tutorials.cloudfoundry.org/trycf/) to create an account and deploy a sample app in your own free sandbox.
  - Learn more about [Cloud.gov](https://cloud.gov/)
  - [Cloud Foundry](https://cloudfoundry.org)
  - [Cloud Foundry on GitHub](https://github.com/cloudfoundry)
