@@ -116,6 +116,6 @@ Landing page on USA.gov that is cataloging all U.S. government activities relate
 
 Follow the following handles and retweet/share information relevant to your agency.
 
-Twitter: [@CDCgov](https://twitter.com/cdcgov)
-Facebook: [https://www.facebook.com/CDC](https://www.facebook.com/CDC)
-Instagram: [@CDCgov](https://www.instagram.com/CDCgov)
+- Twitter: [@CDCgov](https://twitter.com/cdcgov)
+- Facebook: [https://www.facebook.com/CDC](https://www.facebook.com/CDC)
+- Instagram: [@CDCgov](https://www.instagram.com/CDCgov)
