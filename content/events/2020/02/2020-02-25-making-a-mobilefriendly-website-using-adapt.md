@@ -44,8 +44,6 @@ The 21st Century Integrated Digital Experience Act ([21st Century IDEA](https://
 
 --- 
 
-_The presentation deck will be available on Monday, March 23rd._
-
 David Fern, co-lead of the MobileGov Community and the Federal Crowdsource Mobile Testing Program, knows a lot about making websites and content mobile-friendly. This webinar gives you insights into his approach—the ADAPT Model—which looks to ensure that websites are mobile-friendly:
 
 - **A**ssess Your Site
@@ -55,6 +53,8 @@ David Fern, co-lead of the MobileGov Community and the Federal Crowdsource Mobil
 - **T**est Again
 
 He'll walk you through this approach, give you some resources for testing your site or content, and answer any questions that you have about mobile-friendliness.
+
+Presentation deck: [Using the ADAPT Model to Become Mobile-Friendly (PDF, 763 KB, 16 pages)](https://digital.gov/pdf/MobileGov-Making-a-Mobile-Friendly-Website-Using-the-ADAPT-Model_a11y.pdf) 
 
 ---
 
