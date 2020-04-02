@@ -16,8 +16,9 @@ gulp.task("img-process", gulp.series(gulp.parallel('img-variants', 'img-proxy'))
 gulp.task("img-upload", gulp.series('cleanup'));
 // gulp.task("img-commit", gulp.series('git-push'));
 
-gulp.task("img", gulp.series('img-upload'));
-
+if (process.env.NODE_ENV === 'development'){
+  gulp.task("img", gulp.series('img-upload'));
+}
 // =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 
 gulp.task("watch-js", function() {
