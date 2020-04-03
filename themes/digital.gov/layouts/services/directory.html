@@ -25,6 +25,9 @@
   {{/* Gets all service pages */}}
   {{- $services := (where .Site.RegularPages "Section" "services") -}}
 
+  {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+  {{- $services := (where $services ".Params.weight" "ge" 1) -}}
+
   <div class="grid-container grid-container-desktop-lg">
     <div class="grid-row">
       <div class="grid-col-12">
