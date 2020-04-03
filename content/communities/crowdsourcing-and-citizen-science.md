@@ -17,7 +17,7 @@ topics:
 authors:
   - jay-benforado
   - sophia-b-liu
-  -john-mcLaughlin
+  - john-mcLaughlin
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
