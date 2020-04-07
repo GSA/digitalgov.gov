@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "John is the Education Program Manager in the Office of Education at the National Oceanic and Atmospheric Administration (NOAA)."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
