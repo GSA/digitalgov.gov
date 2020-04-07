@@ -30,6 +30,11 @@ youtube_id:
 
 ---
 
+{{< note >}}
+**April 7, 2020:** This event has been cancelled and will be rescheduled soon for a later date. 
+If you have already registered for this event, check your email for updates from digitalgovu@gsa.gov. 
+{{< /note >}}
+
 Government employees encounter problems to solve on a daily basis. Maybe you need to define and implement new services for people eligible for a government program, or identify a process improvement that saves time, money, or resources. Often, these solutions involve software products. We've seen our fair share of failed government projects in the news. We’ve also seen many great digital services that serve citizens so well that they become a reminder that the government is on your side. In our experience, these successes result from project teams shifting their mindset to product thinking.
 
 Product thinking focuses on outcomes—what happens when problems are solved—instead of outputs. Outputs—the things teams produce, such as software features or product releases—are important, but they are not the same as outcomes which directly relate to achieving goals. It doesn't matter how many features that were built, or deadlines that were adhered to if, at the end of the day, somebody using the software product can't access the government service they need (e.g., sign up for health insurance coverage, apply for disability benefits, or help an employee serve a beneficiary).
