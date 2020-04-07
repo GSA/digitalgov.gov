@@ -1,7 +1,6 @@
 var gulp          = require("gulp"),
     path          = require('path'),
     gutil         = require('gulp-util'),
-    watch         = require('gulp-watch'),
     vinylPaths    = require('vinyl-paths'),
     replace       = require("gulp-replace-name"),
     sass          = require("gulp-sass"),
