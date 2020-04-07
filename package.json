@@ -31,7 +31,6 @@
     "gulp": "^4.0.2",
     "gulp-bless": "^4.0.1",
     "gulp-clean-css": "^4.2.0",
-    "gulp-combine-mq": "^0.4.0",
     "gulp-concat": "^2.6.1",
     "gulp-git": "^2.10.0",
     "gulp-gzip": "^1.4.2",
