@@ -4,7 +4,7 @@
 slug: spring-cleaning-tips-for-web-content
 
 # Short URL — https://go.usa.gov/
-short_url: pkpkp
+short_url: https://go.usa.gov/xvTSS
 date: 2020-04-07 9:00:00 -0500
 kicker: "This Week's IDEA"
 title: "Spring Cleaning Tips for Web Content"
