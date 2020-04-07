@@ -99,7 +99,9 @@ Visit [Search.gov](https://www.search.gov/) for more tips on [how to get search 
 
 “Agencies are encouraged to update their .gov websites to the greatest extent practicable to provide agency service delivery information to Federal Government consumers and to direct Federal Government consumers to the appropriate digital and telephonic resources to obtain needed services. We also encourage agencies to assess the usability of its digital resources, and to improve user centered design and customer service aspects of its websites, web applications, and other citizen-facing interfaces.” 
 
-[OMB 20-19, Harnessing Technology to Support Mission Continuity](https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-19.pdf) (PDF, 195 KB, 5 pages, March 22, 2020)
+[OMB 20-19, Harnessing Technology to Support Mission Continuity](https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-19.pdf) (PDF, 195 KB, 5 pages, March 22, 2020) 
+
+*** 
 
 Do you have a 21st Century IDEA-related comment or question? Or would you like to give a shout out to your colleagues? Send it to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we’ll work to incorporate it into the next newsletter.
 
