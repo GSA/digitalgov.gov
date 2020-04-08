@@ -1,18 +1,13 @@
-.list-collection{
+.collection{
   @include u-margin-bottom('105');
-  @include u-padding-top(2);
+
   h2{
     @include u-margin(0);
     @include u-margin-bottom(2);
     @include u-font('sans', 'md');
     @include u-text('semibold');
   }
-  h4{
-    @include u-margin(0);
-    @include u-margin-top(3);
-    @include u-font('sans', 'sm');
-    @include u-text('bold');
-  }
+
   p.deck{
     @include u-margin(0);
     @include u-margin-bottom(1);
@@ -20,17 +15,19 @@
     @include u-line-height('sans', 1);
     @include u-text('light');
   }
+
   .external-link[href^=http]:not([href*=".gov"]):after {
-      background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
-      background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
-      background-size: 100%;
-      content: "";
-      display: inline-block;
-      height: .9em;
-      margin-bottom: -2px;
-      margin-left: .15rem;
-      width: .9em;
+    background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
+    background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
+    background-size: 100%;
+    content: "";
+    display: inline-block;
+    height: .9em;
+    margin-bottom: -2px;
+    margin-left: .15rem;
+    width: .9em;
   }
+
   ul{
     @include add-list-reset;
     @include u-margin(0);
@@ -43,17 +40,19 @@
       @include u-display('flex');
       @include u-flex('align-start');
 
-      // used on resource pages and service pages
+      // the DIV that wraps the icon in collections
       .icon{
         @include u-margin-top('1px');
+        @include u-margin-right(1);
         img{
-          @include u-margin-right(1);
           @include u-width(2);
+          @include u-maxw(2);
           @include u-position('relative');
           @include u-top('2px');
         }
       }
 
+      // the DIV that wraps the text used in collections
       .copy{
         & > div{
           @include u-display('flex');
@@ -87,17 +86,14 @@
         }
 
       }
-
-
       .members{
         @include u-font('sans', 'xs');
       }
-
-
     }
   }
 }
 
-#topic .list-collection{
+#topic .collection{
+  @include u-padding-y(1);
   @include u-border-top('1px', 'gray-cool-40', 'solid');
 }
