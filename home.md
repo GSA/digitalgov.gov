@@ -8,36 +8,37 @@ permalink: /
 ---
 
 <div class="home-list">
-  <div class="usa-grid">
-    <div class="usa-width-three-fourths1">
+  <div class="grid-container">
+    <div class="grid-row">
+    <div class="grid-col-12">
       <p class="home-list-text">Everyone who works on government websites has a role to play in making federal resources accessible and inclusive.</p>
       <p class="home-list-text"><b>Choose the guide that fits your role:</b></p>
-      <ul class="home-roles-list">
-        <li>
+      <ul class="home-roles-list grid-row">
+        <li class="grid-col-12 tablet:grid-col-fill">
           <a href="{{ site.baseurl }}/product/getting-started/">
             <img src="{{ site.baseurl }}/assets/img/icons/product.svg" alt="">
             <p>Product</p>
           </a>
         </li>
-        <li>
+        <li class="grid-col-12 tablet:grid-col-fill">
           <a href="{{ site.baseurl }}/content-design/getting-started/">
             <img src="{{ site.baseurl }}/assets/img/icons/content.svg" alt="">
             <p>Content</p>
           </a>
         </li>
-        <li>
+        <li class="grid-col-12 tablet:grid-col-fill">
           <a href="{{ site.baseurl }}/ux/getting-started/">
             <img src="{{ site.baseurl }}/assets/img/icons/ux.svg" alt="">
             <p>UX</p>
           </a>
-        </li>
-        <li>
+        </li >
+        <li class="grid-col-12 tablet:grid-col-fill">
           <a href="{{ site.baseurl }}/visual-design/getting-started/">
             <img src="{{ site.baseurl }}/assets/img/icons/visual-design.svg" alt="">
             <p>Visual design</p>
           </a>
         </li>
-        <li>
+        <li class="grid-col-12 tablet:grid-col-fill">
           <a href="{{ site.baseurl }}/front-end/getting-started/">
             <img src="{{ site.baseurl }}/assets/img/icons/front-end.svg" alt="">
             <p>Front end</p>
@@ -45,6 +46,7 @@ permalink: /
         </li>
       </ul>
       <p class="home-roles-note">These roles are based on the roles we have at the Technology Transformation Services at GSA.</p>
+    </div>
     </div>
   </div>
 </div>
@@ -73,6 +75,6 @@ We focus on the issues most likely to impact government sites. These guidelines 
 Questions or comments? Please reach out to us in the project's [GitHub issues](https://github.com/18F/accessibility-playbook/issues/) or email [g-accessibility@gsa.gov](mailto:g-accessibility@gsa.gov).
 {% endcapture %}
 
-<div class="usa-grid usa-content home-section-about">
+<div class="grid-container usa-prose home-section-about">
 {{ home-2 | markdownify }}
 </div>
