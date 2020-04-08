@@ -17,8 +17,8 @@ date: 2020-04-23 14:00:00 -0500
 # end date
 end_date: 2020-04-23 17:00:00 -0500
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (youtube_live, adobe_connect)
+event_platform: 
 
 # see all topics at https://digital.gov/topics
 topics:
