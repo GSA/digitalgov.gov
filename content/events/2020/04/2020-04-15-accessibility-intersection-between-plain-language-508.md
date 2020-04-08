@@ -29,8 +29,8 @@ authors:
   - katherine-spivey
   - katina-stapleton
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (youtube_live, adobe_connect)
+event_platform: 
 
 # YouTube ID
 youtube_id:
