@@ -38,4 +38,6 @@ gulp.task('watch-assets', function () {
 
 gulp.task('watch', gulp.series('build-sass', 'compile', 'compile-common', 'watch-assets'));
 
+gulp.task('build-assets', gulp.series('build-sass', 'compile', 'compile-common'));
+
 gulp.task('default', gulp.series('watch'));

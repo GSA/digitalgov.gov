@@ -7,7 +7,7 @@
     "env": "gulp env",
     "gulp": "gulp",
     "hugo": "hugo serve",
-    "federalist": "gulp",
+    "federalist": "gulp build-assets",
     "start": "npm-run-all --parallel env gulp hugo",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
