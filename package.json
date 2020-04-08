@@ -4,6 +4,10 @@
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
   "scripts": {
+    "gulp": "gulp",
+    "hugo": "hugo serve",
+    "federalist": "gulp",
+    "start": "npm-run-all --parallel gulp hugo",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "directories": {
@@ -16,6 +20,7 @@
   "license": "",
   "dependencies": {
     "gulp-jshint": "^2.1.0",
+    "npm-run-all": "^4.1.5",
     "octicons": "^7.3.0",
     "pa11y-ci": "^2.3.0"
   },
