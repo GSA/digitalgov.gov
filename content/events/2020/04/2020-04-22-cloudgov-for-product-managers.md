@@ -33,7 +33,7 @@ A common challenge for product managers in government is deploying their applica
 
 ## Presenter
 
-**Kara Reinsel** is the product manager for Cloud.gov. Previously, she was a product manager at 18F, where she partnered with and coached clients to help them transform their digital operations by building human-centered digital products. Before working for the federal government, Kara worked as a product lead and digital strategist at a variety of nonprofit and for-profit organizations including National 4-H Council, AARP, Wunderman, AOL, and McKinsey & Co.
+**Kara Reinsel** is the product manager for Cloud.gov. Previously, she was a product manager at 18F, where she partnered with and coached clients to help them transform their digital operations by building human-centered digital products.
 
 ---
 
