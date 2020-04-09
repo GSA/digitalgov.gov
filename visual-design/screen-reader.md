@@ -14,13 +14,12 @@ personas:
 - If forms are present, make sure the screen reader reads labels and instructions.
 - Make sure that all links are properly descriptive. For example, the link text “Read More” provides no context about where the user will go if they click it, while “Read more about dinosaurs” describes what’s on the other side of the link.
 
-<ul class="usa-accordion usa-accordion-bordered">
+<ul class="usa-accordion usa-accordion--bordered">
   <li>
-    <button class="usa-accordion-button"
-      aria-expanded="false" aria-controls="amendment-1">
-      Use VoiceOver screen reader on Mac
-    </button>
-    <div id="amendment-1" class="usa-accordion-content">
+      <button class="usa-accordion__button" aria-expanded="false" aria-controls="amendment-1">
+        Use VoiceOver screen reader on Mac
+      </button>
+    <div id="amendment-1" class="usa-accordion__content">
       <ul>
         <li><b>Turn VoiceOver on</b>: command (⌘) + F5</li>
         <li><b>Go into web area</b>: control + alt + shift + down arrow (⬇)</li>

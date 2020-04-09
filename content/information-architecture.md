@@ -6,8 +6,8 @@ category: Content design
 sidebar: content
 question: Is your site organized such that everyone can navigate it easily?
 personas:
-- Beth has a lower tech literacy level and needs a site’s layout to be clear. 
-- Julian has low vision and uses a screen reader to navigate the web. Kendra has a newborn and her attention is often divided; she needs to be able to understand a site’s contents at a glance. 
+- Beth has a lower tech literacy level and needs a site’s layout to be clear.
+- Julian has low vision and uses a screen reader to navigate the web. Kendra has a newborn and her attention is often divided; she needs to be able to understand a site’s contents at a glance.
 - Lyle is undergoing a crisis and needs to quickly find just the content pertinent to him.
 ---
 
@@ -19,13 +19,13 @@ personas:
 - Determine whether the HTML document has a language attribute so that screen readers will read it with the correct accent and pronunciation. For example: `<html lang="en">`. (Note: If you’re not comfortable taking this step, feel free to ask another designer on your project team to help.)
 - If forms are present, make sure the screen reader reads labels and instructions.
 
-<ul class="usa-accordion usa-accordion-bordered">
+<ul class="usa-accordion usa-accordion--bordered">
   <li>
-    <button class="usa-accordion-button"
+    <button class="usa-accordion__button"
       aria-expanded="false" aria-controls="amendment-1">
       Use VoiceOver screen reader on Mac
     </button>
-    <div id="amendment-1" class="usa-accordion-content">
+    <div id="amendment-1" class="usa-accordion__content">
       <ul>
         <li><b>Turn VoiceOver on</b>: command (⌘) + F5</li>
         <li><b>Go into web area</b>: control + alt + shift + down arrow (⬇)</li>
