@@ -12,17 +12,13 @@ last_name: "Nakasone"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
-bio: "Mr. Keith Nakasone is the Deputy Assistant Commissioner, Acquisition Management, within the Office of Information Technology Category (ITC) in GSA’s Federal Acquisition Service (FAS). The Federal Acquisition Service provides buying platforms and acquisition services to Federal, State and Local governments for a broad range of items from office supplies to motor vehicles to information technology and telecommunications products and services. As an organization within FAS, ITC provides access to a wide range of commercial and custom IT products, services and solutions.
-
-Acquisition Management provides oversight of strategy development, internal training for the acquisition workforce, and system support for executing ITC’s acquisition, some of the largest in government, such as Schedule 70, IT Governmentwide Acquisition Contracts (GWACs) and Telecommunications contracts such as Networx and Enterprise Infrastructure Solutions (EIS). Additionally, the office establishes training and development programs to ensure a trained, engaged, innovative, and forward-thinking acquisition workforce.
-
-Mr. Nakasone started his civil service career in 1989 specializing in the field of Procurement with an emphasis in Telecommunications and IT Services, Hardware and Software. Prior to joining ITC, Mr. Nakasone served as Senior Procurement Executive at the FCC overseeing the Acquisitions and Procurements, Contracting Officer’s and Contracting Officer’s Representatives Certification Programs, as well as responsible for the Small Business goals for the agency."
+bio: "Mr. Keith Nakasone is the Deputy Assistant Commissioner, Acquisition Management, within the Office of Information Technology Category (ITC) in GSA's Federal Acquisition Service (FAS). The Federal Acquisition Service provides buying platforms and acquisition services to Federal, State and Local governments for a broad range of items from office supplies to motor vehicles to information technology and telecommunications products and services. As an organization within FAS, ITC provides access to a wide range of commercial and custom IT products, services and solutions."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
