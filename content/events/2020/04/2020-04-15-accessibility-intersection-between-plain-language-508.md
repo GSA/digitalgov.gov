@@ -30,7 +30,7 @@ authors:
   - katina-stapleton
 
 # Event platform (youtube_live, adobe_connect)
-event_platform: 
+event_platform: adobe_connect
 
 # YouTube ID
 youtube_id:
