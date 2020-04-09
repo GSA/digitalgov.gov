@@ -1,0 +1,15 @@
+<section class="stage stage-zoom">
+  <div class="icon">
+    <p>
+      <i class="fas fa-desktop"></i>
+    </p>
+  </div>
+  <div>
+    <p><strong>This event will be held over Adobe Connect.</strong> A link to join this event will be sent via email to those who register. <a href="#" title="Download and install Adobe Connect">Download and install Adobe Connect</a>. Before the meeting, ensure that your computer and network connections are configured by running a test at <a href="http://www.adobe.com/go/meeting_test.">http://www.adobe.com/go/meeting_test</a>.</p>
+
+    {{- if .Params.captions -}}
+    <p><a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{- .Title -}}"><strong><i class="far fa-closed-captioning"></i> <span>View captions</span></strong></a></p>
+    {{- end -}}
+
+  </div>
+</section>

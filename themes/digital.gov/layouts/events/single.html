@@ -119,6 +119,14 @@
               {{- end -}}
             {{- end -}}
 
+            {{/* Adobe Connect Stage */}}
+            {{- if eq .Params.event_platform "adobe_connect" -}}
+              {{/* If is a Future Event */}}
+              {{- if eq $future_event true -}}
+                {{- .Render "stage-adobe_connect" -}}
+              {{- end -}}
+            {{- end -}}
+
             {{/* Content */}}
             <div class="content">
               {{- .Content -}}
