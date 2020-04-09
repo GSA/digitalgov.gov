@@ -10,8 +10,6 @@ gulp.task('env', async function (done) {
   done();
 });
 
-
-
 if (process.env.NODE_ENV === 'development') {
   require('./config/gulp/img-prep');
   require('./config/gulp/img-process');
