@@ -15,7 +15,7 @@ topics:
   - open-source
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: - Sara Cope 
 
 community_list:
   - platform: listserv
