@@ -10,6 +10,13 @@ event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/102418841512
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4411645&CustomerID=321
 
+event_type:
+  - online
+
+featured_image:
+  uid:
+  alt: ''
+
 # start date
 date: 2020-04-28 14:000:00 -0500
 
