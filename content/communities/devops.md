@@ -48,7 +48,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-[**April Meeting: The Hero’s Journey for Re-Skilling Talent (And Other Digital Adventures)**](https://digital.gov/event/2020/04/28/heros-journey-for-reskilling-talent-other/)
+- [**April Meeting: The Hero’s Journey for Re-Skilling Talent (And Other Digital Adventures)**](https://digital.gov/event/2020/04/28/heros-journey-for-reskilling-talent-other/)
 
 ## Past Meetings
 
