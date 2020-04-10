@@ -13,8 +13,6 @@ topics:
   - devops
   - product-management
   - open-source
-  - policy-implementation
-  - platform-engineering
 
 # see all authors at https://digital.gov/authors
 authors:
