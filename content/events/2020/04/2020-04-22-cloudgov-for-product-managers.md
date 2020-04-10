@@ -22,6 +22,10 @@ topics:
   - cloud
   - cloud-gov
 
+# see all authors at https://digital.gov/authors
+authors:
+  - kara-reinsel
+
 # YouTube ID
 youtube_id: 
 
@@ -37,4 +41,4 @@ A common challenge for product managers in government is deploying their applica
 
 ---
 
-*This talk is hosted by [Cloud.gov](https://cloud.gov/) and Digital.gov. Cloud.gov is a product of the U.S. General Services Administration that helps government teams build, run, and authorize government cloud systems quickly and cost-effectively. [Contact the team »](https://cloud.gov/docs/help/)*
+*This talk is hosted by [Cloud.gov](https://cloud.gov/) and Digital.gov. Cloud.gov is a product of the U.S. General Services Administration that helps government teams build, run, and authorize government cloud systems quickly and cost-effectively. [Contact the Cloud.gov team »](https://cloud.gov/docs/help/)*
