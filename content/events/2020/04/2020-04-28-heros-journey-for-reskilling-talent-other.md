@@ -21,10 +21,10 @@ featured_image:
   alt: ''
 
 # start date
-date: 2020-04-28 14:000:00 -0500
+date: 2020-04-28 14:00:00 -0500
 
 # end date
-end_date: 2020-04-28 14:030:00 -0500
+end_date: 2020-04-28 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
