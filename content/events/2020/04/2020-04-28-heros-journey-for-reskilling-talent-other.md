@@ -1,10 +1,13 @@
 ---
 # View this page at https://digital.gov/event/2020/04/heros-journey-for-reskilling-talent-other
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: heros-journey-for-reskilling-talent-other
+
 title: "The Hero's Journey for Re-Skilling Talent (And Other Digital Adventures)"
 deck: ""
 summary: "For those seeking ways to internally re-skill their workforce for digital transformation, a look at mythology reveals a recurring theme where those answering the call are involved in an iterative  cycle of 'leveling-up', a theme that may help change-agents set conditions for successful retention and growth of organic digital talent."
+
 host: "DevOps Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/102418841512
@@ -34,9 +37,6 @@ topics:
 authors: 
   - brian-fox
 
-# YouTube ID
-youtube_id: 
-
 # Make it better ♥
 
 ---
@@ -49,4 +49,4 @@ What does Star Wars, The Matrix, and The Hobbit have to do with re-skilling your
 
 ---
 
-*This talk is hosted by the [DevOp Community](https://digital.gov/communities/devops/) and Digital.gov.*
+_This talk is hosted by the [DevOp Community](https://digital.gov/communities/devops/) and Digital.gov._ 
