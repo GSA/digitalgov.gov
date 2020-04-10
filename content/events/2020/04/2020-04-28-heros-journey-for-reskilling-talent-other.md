@@ -49,4 +49,4 @@ What does Star Wars, The Matrix, and The Hobbit have to do with re-skilling your
 
 ---
 
-_This talk is hosted by the [DevOp Community](https://digital.gov/communities/devops/) and Digital.gov._ 
+_This talk is hosted by the [DevOps Community](https://digital.gov/communities/devops/) and Digital.gov._ 
