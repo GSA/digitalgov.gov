@@ -15,8 +15,8 @@ short_url:
 date: 2020-03-24 13:00:00 -0500
 kicker: "18F"
 title: "Continuous Learning for Product Managers"
-deck: "As product managers, we never stop learning because products never stop evolving and changing. You need to quickly get up to speed on a product’s technical implementation, design, user research, and business needs."
-summary: "As product managers, we never stop learning because products never stop evolving and changing. You need to quickly get up to speed on a product’s technical implementation, design, user research, and business needs."
+deck: "<strong>As product managers, we never stop learning because products never stop evolving and changing.</strong> You need to quickly get up to speed on a product’s technical implementation, design, user research, and business needs."
+summary: "<strong>As product managers, we never stop learning because products never stop evolving and changing.</strong> You need to quickly get up to speed on a product’s technical implementation, design, user research, and business needs."
 
 # see all topics at https://digital.gov/topics
 topics: 
