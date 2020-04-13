@@ -29,7 +29,7 @@ topics:
   * [Technical demonstration and market stimulation]({{< ref "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" >}} "link to toolkit on how to run grand scientific and technical challenges")
   *  [Ideation]({{< ref "2013-11-14-ideation-challenges.md" >}} "link to toolkit on how to run challenges that collect ideas")
 
-This includes details on the policies and <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf" target="_blank">legal authorities</a>, like the [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf "America COMPETES Act Summary Memo"), under which agencies run their competitions.
+This includes details on the policies and <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf" target="_blank">legal authorities</a>, like the [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf "America COMPETES Act Summary Memo"), under which agencies run their competitions.
 
 <p dir="ltr">
   3) Digital Gov University. A robust resource of <a href="{{< ref "/events" >}}">archived training</a> and <a title="link to upcoming DigitalGov University training" href="{{< ref "/events" >}}">upcoming events</a>. Some of the most popular webinars are:

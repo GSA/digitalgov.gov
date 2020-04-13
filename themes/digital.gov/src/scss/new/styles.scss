@@ -64,7 +64,7 @@
 @import 'resources';
 
 // Lists of related pages
-@import 'list-collection';
+@import 'collection';
 
 @import 'page-data';
 @import 'share-tools';
@@ -101,6 +101,9 @@
 @import 'related_communities';
 @import 'services';
 @import 'related_services';
+@import 'services-directory';
+@import 'card-service';
+@import 'card-service-contact';
 
 // Topics styles
 @import 'topic-buttons';
@@ -120,3 +123,4 @@
 @import 'shortcodes/highlight';
 @import 'shortcodes/card-policy';
 @import 'shortcodes/card-quote';
+@import 'shortcodes/termsofservice-compatible';

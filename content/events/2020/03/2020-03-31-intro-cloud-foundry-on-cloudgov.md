@@ -29,7 +29,7 @@ topics:
 event_platform: zoom
 
 # YouTube ID
-youtube_id:
+youtube_id: G3fk3cJci0I
 
 # Primary Image (for social media)
 primary_image: "cloudgov-intro-to-cloud-foundry"
@@ -38,8 +38,6 @@ primary_image: "cloudgov-intro-to-cloud-foundry"
 
 ---
 
-
-{{< img src="cloudgov-intro-to-cloud-foundry" >}}
 
 Are you a [Cloud.gov](https://cloud.gov/) customer—or potential customer—interested in how Cloud.gov can simplify and accelerate your development organizations? In this guided demonstration, we walk you through the basics of using the core Cloud.gov platform called [Cloud Foundry](https://www.cloudfoundry.org/)— an open source cloud application platform. We highlight the simplicity that Cloud Foundry brings to developer workflows through its use of high-level abstractions and APIs, and discuss the impact of using cloud.gov and Cloud Foundry on a developer's responsibilities.
 
@@ -58,9 +56,10 @@ A regular speaker at conferences, unconferences, and meetups, Steve was invited 
 
 ## Related
 
- - [**Try cloud.gov for free**](https://cloud.gov/sign-up/) — [Follow this guide](https://cloud.gov/sign-up/) to create an account and deploy a sample app in your own free sandbox.
+ - [**Try cloud.gov for free**](https://cloud.gov/sign-up/) — [Follow this guide](https://cloud.gov/docs/getting-started/your-first-deploy/) to create an account and deploy a sample app in your own free sandbox.
  - Learn more about [Cloud.gov](https://cloud.gov/)
  - [Cloud Foundry](https://cloudfoundry.org)
+ - [Cloud Foundry Tutorial](http://tutorials.cloudfoundry.org/trycf/)
  - [Cloud Foundry on GitHub](https://github.com/cloudfoundry)
 
  ---
