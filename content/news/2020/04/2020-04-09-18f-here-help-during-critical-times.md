@@ -12,7 +12,7 @@ slug: 18f-here-help-during-critical-times
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-04-09 18:00:00 -0500
+date: 2020-04-09 19:00:00 -0500
 kicker: "18F"
 title: "18F Is Here to Help During Critical Times"
 deck: "Government agencies are seeing their systems and staff stretched to the max as they do their best to serve the public. 18F is a team of government employees with expertise in modern digital tools and practices, and we’re here to help."
@@ -26,5 +26,11 @@ topics:
 authors: 
   - 18f-team
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
 # Make it better ♥
+
 ---
