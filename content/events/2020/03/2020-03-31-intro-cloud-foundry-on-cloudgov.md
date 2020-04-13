@@ -39,8 +39,6 @@ primary_image: "cloudgov-intro-to-cloud-foundry"
 ---
 
 
-{{< img src="cloudgov-intro-to-cloud-foundry" >}}
-
 Are you a [Cloud.gov](https://cloud.gov/) customer—or potential customer—interested in how Cloud.gov can simplify and accelerate your development organizations? In this guided demonstration, we walk you through the basics of using the core Cloud.gov platform called [Cloud Foundry](https://www.cloudfoundry.org/)— an open source cloud application platform. We highlight the simplicity that Cloud Foundry brings to developer workflows through its use of high-level abstractions and APIs, and discuss the impact of using cloud.gov and Cloud Foundry on a developer's responsibilities.
 
 {{< img-right src="cloud-gov" >}}
