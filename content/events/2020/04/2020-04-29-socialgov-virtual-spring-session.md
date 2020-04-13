@@ -27,7 +27,7 @@ youtube_id:
 
 ---
 
-In this session you will hear from the digital experts at Census, National Archives and Records Administration, the Department of Interior, the National Park Service, the Fish and Wildlife Service, and the Department of State about how to help Census 2020, a social media crisis communication case study, social media strategy, and researching digital resources.
+In this session you will hear from the digital experts at Census, General Services Administration, the Department of Interior, the National Park Service, the Fish and Wildlife Service, and the Department of State about how to help Census 2020, a social media crisis communication case study, social media strategy, and researching digital resources.
 
 ## Agenda
 
