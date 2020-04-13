@@ -1,30 +1,30 @@
 ---
-# View this page at https://digital.gov/authors/keith-nakasone
+# View this page at https://digital.gov/authors/kara-reinsel
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: keith-nakasone
-display_name: "Keith Nakasone"
-first_name: "Keith"
-last_name: "Nakasone"
+slug: kara-reinsel
+display_name: "Kara Reinsel"
+first_name: "Kara"
+last_name: "Reinsel"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email:
+email: kara.reinsel@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Mr. Keith Nakasone is the Deputy Assistant Commissioner, Acquisition Management, within the Office of Information Technology Category (ITC) in GSA's Federal Acquisition Service (FAS). The Federal Acquisition Service provides buying platforms and acquisition services to Federal, State and Local governments for a broad range of items from office supplies to motor vehicles to information technology and telecommunications products and services. As an organization within FAS, ITC provides access to a wide range of commercial and custom IT products, services and solutions."
+bio: "Kara Reinsel is the product manager for Cloud.gov. Previously, she was a product manager at 18F, where she partnered with and coached clients to help them transform their digital operations by building human-centered digital products. "
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url:
+bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. General Services Administration"
+agency_full_name: ""
 
 # Agency Acronym [e.g., GSA]
-agency: "GSA"
+agency: ""
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""

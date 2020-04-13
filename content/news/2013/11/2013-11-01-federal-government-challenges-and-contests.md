@@ -64,7 +64,7 @@ topics:
     </p>
     
     <p>
-      Among the benefits outlined in <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf">OMB&#8217;s 2010 memo</a> (PDF, 94 KB, 12 pages, March 2010), challenges:
+      Among the benefits outlined in <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf">OMB&#8217;s 2010 memo</a> (PDF, 94 KB, 12 pages, March 2010), challenges:
     </p>
     
     <ul>

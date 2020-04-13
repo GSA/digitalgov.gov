@@ -29,7 +29,7 @@ topics:
 event_platform: zoom
 
 # YouTube ID
-youtube_id:
+youtube_id: G3fk3cJci0I
 
 # Primary Image (for social media)
 primary_image: "cloudgov-intro-to-cloud-foundry"

@@ -4,7 +4,7 @@ summary: "An application helps automate capital planning and portfolio managemen
 contact: ecpic.pmo@gsa.gov
 source: "digitalgov"
 logo: 'digitalgov'
-
+weight: 1
 ---
 
 <div class="deck"><p>The eCPIC application helps automate capital planning and portfolio management processes for enabling government agencies to effectively mature their investment management strategies and achieve agency mission goals and objectives.</p></div>

@@ -29,7 +29,7 @@
         {{- $services := (where .Site.Pages "Section" "services") -}}
 
         {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-        {{- $services_featured := (where $services ".Params.weight" "ge" 1) -}}
+        {{- $services_featured := (where $services ".Params.weight" "ge" 2) -}}
 
         {{- with $services_featured -}}
 
@@ -38,7 +38,9 @@
             {{- .Render "card-service" -}}
 
           {{- end -}}
+
         {{- end -}}
+        
         </div>
       </div>
 
