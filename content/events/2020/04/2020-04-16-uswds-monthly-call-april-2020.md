@@ -27,7 +27,7 @@ topics:
 authors:
   - dan-williams
 
-# Event platform (zoom, youtube_live, adobe_connect)
+# Event platform (youtube_live, adobe_connect)
 
 
 # YouTube ID
