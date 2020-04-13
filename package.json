@@ -5,10 +5,11 @@
   "main": "gulpfile.js",
   "scripts": {
     "env": "gulp env",
-    "gulp": "gulp",
+    "gulp": "gulp build-assets",
+    "local-build": "gulp && gulp watch",
     "hugo": "hugo serve",
     "federalist": "gulp build-assets",
-    "start": "npm-run-all --parallel env gulp hugo",
+    "start": "npm-run-all --parallel env local-build hugo",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "directories": {

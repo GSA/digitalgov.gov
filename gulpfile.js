@@ -26,8 +26,6 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 
-
-
 gulp.task('watch-assets', function () {
   gulp.watch('./themes/digital.gov/src/scss/uswds/**/*.scss', gulp.series('build-sass'));
   gulp.watch('./themes/digital.gov/src/scss/new/**/*.scss', gulp.series('build-sass'));
