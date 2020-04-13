@@ -58,17 +58,17 @@
 
 </body>
 
-<script src='{{ "dist/jquery.min.js" | absURL }}'></script>
-<script src='{{ "dist/uswds.min.js" | absURL }}'></script>
-<script src='{{ "dist/common.js" | absURL }}'></script>
+<script src='{{ "dist/jquery.min.js" | relURL }}'></script>
+<script src='{{ "dist/uswds.min.js" | relURL }}'></script>
+<script src='{{ "dist/common.js" | relURL }}'></script>
 
 {{/* Add to Calendar JS */}}
 {{- partial "core/addtocalendar-js" . -}}
 
 <!-- Set the Images API as a variable -->
 <script type="text/javascript">
-  var root_url = {{ "" | absURL }};
-  var all_images_json = {{ "images/v1/json/" | absURL }};
+  var root_url = {{ "" | relURL }};
+  var all_images_json = {{ "images/v1/json/" | relURL }};
 </script>
 
 

@@ -109,7 +109,7 @@
   <link href="{{- .Permalink -}}index.json" rel="alternate" type="application/json" title="{{- .Site.Title -}}" />
 
   {{ "<!-- Sitemap-->" | safeHTML }}
-  <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />
+  <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | relURL -}}" />
 
   <!-- Theme Color / Browser -->
   <!-- https://developers.google.com/web/tools/lighthouse/audits/address-bar -->
@@ -150,18 +150,18 @@
   {{- end -}}
 
   {{/* Base styles */}}
-  <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' />
+  <link rel="stylesheet" href='{{- "dist/styles.css" | relURL -}}' type="text/css" media='all' />
   <script src="https://kit.fontawesome.com/dbf359f887.js"></script>
 
 
   {{ "<!-- Favicons & Icons -->" | safeHTML }}
-  <link rel="apple-touch-icon" sizes="180x180" href='{{- "img/icons/apple-touch-icon.png" | absURL -}}'>
-  <link rel="icon" type="image/png" sizes="32x32" href='{{- "img/icons/favicon-32x32.png" | absURL -}}'>
-  <link rel="icon" type="image/png" sizes="16x16" href='{{- "img/icons/favicon-16x16.png" | absURL -}}'>
-  <link rel="manifest" href='{{- "img/icons/manifest.json" | absURL -}}'>
-  <link rel="mask-icon" href='{{- "img/icons/safari-pinned-tab.svg" | absURL -}}' color="#333333">
-  <link rel="shortcut icon" href='{{- "img/icons/favicon.ico" | absURL -}}'>
-  <meta name="msapplication-config" content='{{ "img/icons/browserconfig.xml" | absURL }}'>
+  <link rel="apple-touch-icon" sizes="180x180" href='{{- "img/icons/apple-touch-icon.png" | relURL -}}'>
+  <link rel="icon" type="image/png" sizes="32x32" href='{{- "img/icons/favicon-32x32.png" | relURL -}}'>
+  <link rel="icon" type="image/png" sizes="16x16" href='{{- "img/icons/favicon-16x16.png" | relURL -}}'>
+  <link rel="manifest" href='{{- "img/icons/manifest.json" | relURL -}}'>
+  <link rel="mask-icon" href='{{- "img/icons/safari-pinned-tab.svg" | relURL -}}' color="#333333">
+  <link rel="shortcut icon" href='{{- "img/icons/favicon.ico" | relURL -}}'>
+  <meta name="msapplication-config" content='{{ "img/icons/browserconfig.xml" | relURL }}'>
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 

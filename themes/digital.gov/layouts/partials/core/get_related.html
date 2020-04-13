@@ -37,7 +37,7 @@
   {{- end -}}
 
   <footer>
-    <p class="more"><a href="{{ "/communities/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "communities") }} communities</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+    <p class="more"><a href="{{ "/communities/" | relURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "communities") }} communities</span> <i class="fas fa-arrow-circle-right"></i></a></p>
   </footer>
 
 </section>
@@ -97,7 +97,7 @@
   {{- end -}}
 
   <footer>
-    <p class="more"><a href="{{ "/services/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "services") }} services</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+    <p class="more"><a href="{{ "/services/" | relURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "services") }} services</span> <i class="fas fa-arrow-circle-right"></i></a></p>
   </footer>
 
 </section>

@@ -10,7 +10,7 @@
             {{- if .Params.github -}}
               <img class="profile" src="https://github.com/{{- .Params.github -}}.png?size=100" srcset="https://www.github.com/{{-  .Params.github -}}.png?size=200" alt="Photo: {{- .Params.display_name -}}">
             {{- else -}}
-              <img class="profile" src="{{- "img/digit-light.png" | absURL -}}" alt="Photo: {{- .Params.display_name -}}">
+              <img class="profile" src="{{- "img/digit-light.png" | relURL -}}" alt="Photo: {{- .Params.display_name -}}">
             {{- end -}}
 
             <div>
@@ -129,7 +129,7 @@
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
           <footer>
-            <a class="btn" href="{{ "news" | absURL }}" title=""><span>See all News</span> <i class="fas fa-arrow-circle-right"></i></a>
+            <a class="btn" href="{{ "news" | relURL }}" title=""><span>See all News</span> <i class="fas fa-arrow-circle-right"></i></a>
             <p>Have a case study to share? Did your team recently launch something?<br/><a href="mailto:digitalgov@gsa.gov" title=""><strong>Send us an email</strong></a></p>
           </footer>
         </div>
