@@ -23,6 +23,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - stephanie-santana
+  - gandhi
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card"
