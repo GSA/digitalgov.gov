@@ -9,7 +9,7 @@ jobs:
       HUGO_BUILD_DIR: ~/hugo/public
 
     steps:
-      - run: apt-get update && apt-get install -y --no-install-recommends git
+      - run: sudo apt-get update && apt-get install -y --no-install-recommends git
       - checkout
       - run: HUGO_ENV=production hugo build -v -d $HUGO_BUILD_DIR
 
