@@ -43,6 +43,8 @@ This presentation will discuss some of the most recent findings about the litera
 
 During this session, we will also explore timely examples of materials and how to make them even clearer by writing for those who may struggle most.
 
+## Presenter
+
 [**Dr. Meredith Larson**](https://www.linkedin.com/in/meredithjlarson/) is a research analyst for the U.S. Department of Education, Institute of Education Sciences, National Center for Education Research, with a focus on postsecondary and adult education. She oversees research projects and initiatives relevant to addressing the skill and attainment gaps of adults and improving their academic outcomes. Dr. Larson earned a master’s degree in cognitive and instructional psychology and a doctorate in psycholinguistics.
 
 ---
