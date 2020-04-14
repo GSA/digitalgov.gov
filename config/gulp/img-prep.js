@@ -65,9 +65,9 @@ gulp.task("write-data-file", gulp.series('clean-inbox', function (done) {
         "width    : " + dimensions.width,
         "height   : " + dimensions.height,
         "format   : " + format,
-        "credit   : ",
-        "caption  : ",
-        "alt      : "
+        "credit   : \"\" ",
+        "caption  : \"\" ",
+        "alt      : \"\" "
       ].join("\n");
       fs.writeFile('data/images/'+ uid +'.yml', img_data, function(){
         console.log('image file written');
