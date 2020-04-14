@@ -3,9 +3,15 @@ jobs:
   build:
     docker:
       - image: circleci/node:10.16.3-browsers
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
 
     steps:
+      - run: apt-get update && apt-get install -y --no-install-recommends git
       - checkout
+      - run: HUGO_ENV=production hugo build -v -d $HUGO_BUILD_DIR
 
       # Run a step to print what branch our code base is on.
       - run: # test what branch we're on.
