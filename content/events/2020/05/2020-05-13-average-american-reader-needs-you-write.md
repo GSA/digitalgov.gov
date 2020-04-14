@@ -49,7 +49,11 @@ During this session, we will also explore timely examples of materials and how t
 
 ---
 
-*Resources on adult literacy include IES research on [adult basic skills](https://ies.ed.gov/topics/adultBasic.asp), the most recent results from the [PIAAC assessment](https://nces.ed.gov/surveys/piaac/current_results.asp) of adult skills, and the Georgia State University [Adult Literacy Research Center](https://education.gsu.edu/research-outreach/alrc/).*
+**Related Links:**
+
+ - IES research on [adult basic skills](https://ies.ed.gov/topics/adultBasic.asp)
+ - [PIAAC assessment](https://nces.ed.gov/surveys/piaac/current_results.asp) of adult skills
+ - Georgia State University [Adult Literacy Research Center](https://education.gsu.edu/research-outreach/alrc/)
 
 ---
 
