@@ -2,7 +2,6 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node:10.16.3-browsers
       - image: cibuilds/hugo:latest
     working_directory: ~/hugo
     environment:
