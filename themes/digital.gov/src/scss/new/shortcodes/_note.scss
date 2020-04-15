@@ -18,6 +18,9 @@
 			@include u-text('no-underline');
 		}
 	}
+	.highlight{
+		@include u-bg('yellow-5');
+	}
 	strong{
 		@include u-text('medium');
 	}
@@ -71,5 +74,24 @@ li .note{
 		&:hover{
 			@include u-text('red-80v');
 		}
+	}
+}
+
+// Comment — color settings
+.note.comment{
+	@include u-bg('blue-cool-10');
+	@include u-text('blue-cool-80');
+	@include u-border-left('05', 'solid', 'blue-cool-80');
+	a{
+		@include u-text('blue-cool-80');
+		@include u-border-bottom('1px', 'solid', 'blue-cool-80');
+		&:hover{
+			@include u-text('blue-cool-70');
+		}
+	}
+	blockquote{
+		@include u-padding-left(0);
+		@include u-border(0);
+		@include u-font('serif', 'lg');
 	}
 }
