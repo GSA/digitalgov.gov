@@ -114,7 +114,7 @@ NPM will run the following scripts:
 - `gulp env` — sets the environment variable to development (local builds only, not in Federalist)
 - `gulp` — builds and compresses all of the SCSS and JS files, and copies jquery and uswds js from `node_modules` and puts them in the `/dist/` folder.
 - `gulp Watch` — starts a watch task to look for changes in the SCSS and JS files
-- `hugo build` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
+- `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
 
 
 When Hugo is done building, you should see a success message like:
