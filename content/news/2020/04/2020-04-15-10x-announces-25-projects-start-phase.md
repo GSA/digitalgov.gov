@@ -54,14 +54,11 @@ We conducted an analysis of the various idea submissions and wanted to share the
 
 {{< img src="10x-selected-ideas" >}}
 
-**Distribution of GSA & Outside Agencies**: In the two pie charts above, Figure 1 shows that 41.9% of submitted ideas were from GSA, while 58.1% were from outside agencies. Figure 2 shows that 59.3% of selected ideas were from GSA, while 40.7% were from outside agencies. As a reminder, evaluators did not know with which agency the submitters were affiliated. However, this slight variance could be due to the fact that GSA employees were more familiar with the submission process criteria, therefore they may have been able to submit pitches that better aligned with what the 10x program was looking for in terms of clarity, alignment, and impact. 
+**Distribution of GSA & Outside Agencies**: In the two graphs above, Figure 1 shows that 41.9% of submitted ideas were from GSA, while 58.1% were from outside agencies. Figure 2 shows that 59.3% of selected ideas were from GSA, while 40.7% were from outside agencies. As a reminder, evaluators did not know with which agency the submitters were affiliated. However, this slight variance could be due to the fact that GSA employees were more familiar with the submission process criteria, therefore they may have been able to submit pitches that better aligned with what the 10x program was looking for in terms of clarity, alignment, and impact. 
 
 **TTS Areas of Focus**: In the bar graph below, we also analyzed how submitted ideas vs. selected ideas mapped to the six TTS Focus Areas of **Artificial Intelligence**, **Omnichannel Experience**, **Data and Analytics**, **Identity**, **Cloud and Infrastructure**, and **Accelerators**. The majority of submitted ideas, roughly 25%, fell under the umbrella of Omnichannel Experience. Twenty-two percent of ideas fell under the umbrella of Data & Analytics, and about 14% of ideas focused on Artificial Intelligence (AI). This matched closely with selected ideas. The majority of selected ideas, 37%, focused on Omnichannel Experience, while 30%, focused on Data & Analytics. AI and Accelerators each represented 11% of selected ideas.
 
 {{< img src="10x-areas-of-focus" >}}
-
-Descriptive alt text: Bar graph showing the percentage of ideas submitted (black bars) and the percentage of ideas selected (purple bars) across seven focus areas: Omnichannel Experience (25% total, 37% selected), Artificial Intelligence (14% total, 11% selected, Infrastructure Optimization and Cloud (12% total, 7% selected), Accelerators and Innovation (11% total, 11% selected), Data and Analytics (22% total, 30% selected), Identity Management (2% total, 4% selected), and “Other” (15% total, 0% selected).
-On-page caption: Figure 3, Areas of Focus
 
 ## What’s Next?
 
