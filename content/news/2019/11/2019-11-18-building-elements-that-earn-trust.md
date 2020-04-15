@@ -33,12 +33,13 @@ The more we do this work, it becomes clear that trust is a key value that overla
 
 We’d like to get your help in defining the elements that we all need to have in place to start earning trust, and what actions federal digital teams need to take to get there.
 
+
 {{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button-text="Submit your answers" button-url="https://github.com/GSA/digitalgov.gov/issues/1517">}}
 
-1. To deliver an experience that is trustworthy, we need to _____________.
-2. To perform this action, we need _______________.
-{{< /card-prompt >}}
+> 1. To deliver an experience that is trustworthy, we need to _____________.
+> 2. To perform this action, we need _______________.
 
+{{< /card-prompt >}}
 
 
 **An example might be**:
