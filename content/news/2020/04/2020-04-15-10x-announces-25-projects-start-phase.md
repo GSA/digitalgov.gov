@@ -11,8 +11,17 @@ title: "10x Announces 25 Projects to Start Phase One"
 deck: ""
 summary: "10x, the federal venture studio, has approved 25 new projects for Phase One funding."
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - 10x
+  - innovation
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - nico-papafil
+
 # primary Image (for social media)
-primary_image: "10x-logo"
+primary_image: "10x-areas-of-focus"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
