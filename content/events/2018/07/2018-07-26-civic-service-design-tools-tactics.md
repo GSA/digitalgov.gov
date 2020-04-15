@@ -1,28 +1,36 @@
 ---
+# View this page at https://digital.gov/event/2018/07/civic-service-design-tools-tactics
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: civic-service-design-tools-tactics
-title: 'Civic Service Design Tools &#43; Tactics'
-summary: 'Join us for this hour long webinar to receive an introduction on the Civic Service Design Tools &#43; Tactics, a set of practical ways to gather insights from the people who depend on your services in their own environments&#46; '
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-topics:
+title: "Civic Service Design Tools + Tactics"
+deck: ""
+summary: "Join us for this hour long webinar to receive an introduction on the Civic Service Design Tools + Tactics, a set of practical ways to gather insights from the people who depend on your services in their own environments. "
+host: ""
+event_organizer: "DigitalGov University"
+registration_url: https://www.eventbrite.com/e/civic-service-design-tools-tactics-tickets-47865327483
+captions: 
+
+# start date
+date: 2018-07-26 15:00:00 -0500
+
+# end date
+end_date: 2018-07-26 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - design
   - usability
-date: 2018-07-26 14:00:00 -0500
-end_date: 2018-07-26 15:00:00 -0500
-event_organizer: DigitalGov University
-host:
-registration_url: https://www.eventbrite.com/e/civic-service-design-tools-tactics-tickets-47865327483
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - caroline-bauer
+  - emily-herrick
+  - mari-nakano
+
+# YouTube ID
 youtube_id: oo774vjqRjk
-categories:
-  - design
-  - ux
-tag:
-  - user-centered-design
-  - user-experience
-  - ux
+
+# Make it better ♥
 
 ---
 

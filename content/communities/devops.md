@@ -48,10 +48,11 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-[**March Meeting: Why I Love My Agile Team!**](https://digital.gov/event/2020/03/24/why-i-love-my-agile-team/)
+- [**April Meeting: The Hero’s Journey for Re-Skilling Talent (And Other Digital Adventures)**](https://digital.gov/event/2020/04/28/heros-journey-for-reskilling-talent-other/)
 
 ## Past Meetings
 
+- [**March Meeting: Why I Love My Agile Team!**](https://digital.gov/event/2020/03/24/why-i-love-my-agile-team/)
 - [**February Meeting: Moving From Agile Towards DevOps With a Small Team**](https://digital.gov/event/2020/02/25/moving-from-agile-towards-devops-with/)
 - [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
 - [**December Special Event: Nicolas Chaillan**](https://digital.gov/event/2019/12/03/devops-holiday-special-event-nicolas-chaillan/)
