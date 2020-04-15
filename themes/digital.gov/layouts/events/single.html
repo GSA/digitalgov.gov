@@ -127,6 +127,15 @@
               {{- end -}}
             {{- end -}}
 
+            {{/* Google Stage */}}
+            {{- if eq .Params.event_platform "google" -}}
+            {{/* If is a Future Event */}}
+            {{- if eq $future_event true -}}
+              {{- .Render "stage-google" -}}
+            {{- end -}}
+          {{- end -}}
+          
+
             {{/* Content */}}
             <div class="content">
               {{- .Content -}}
