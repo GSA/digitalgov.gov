@@ -1,22 +1,36 @@
 ---
+# View this page at https://digital.gov/event/2018/11/fedramps-resources-for-agencies
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramps-resources-for-agencies
-title: 'FedRAMP&#39;s Resources for Agencies'
-summary: 'Learn about recent website updates and resources available to help you through the FedRAMP authorization process&#46;'
-featured_image:
-  uid: featued-301-x-212-fedramp-2017-5th-anniversary-logo
-  alt: ''
-event_type:
-  - youtube-live
-  - online
-topics:
-  - fedramp
-date: 2018-11-06 14:00:00 -0500
-end_date: 2018-11-06 15:00:00 -0500
-event_organizer: DigitalGov University
-host: FedRAMP
+title: "FedRAMP's Resources for Agencies"
+deck: ""
+summary: "Learn about recent website updates and resources available to help you through the FedRAMP authorization process."
+host: "FedRAMP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/fedramps-resources-for-agencies-registration-51517233432
-youtube_id: JMSKBVKjE9g
 captions: https://www.captionedtext.com/client/event.aspx?EventID=3794666&CustomerID=321
+
+# start date
+date: 2018-11-06 14:00:00 -0500
+
+# end date
+end_date: 2018-11-06 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - fedramp
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - ryan-hoesing
+
+# YouTube ID
+youtube_id: JMSKBVKjE9g
+
+# Primary Image (for social media)
+primary_image: "featued-301-x-212-fedramp-2017-5th-anniversary-logo"
+
+# Make it better ♥
 
 ---
 
