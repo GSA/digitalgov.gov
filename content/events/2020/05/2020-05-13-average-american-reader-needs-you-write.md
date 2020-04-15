@@ -47,9 +47,7 @@ During this session, we will also explore timely examples of materials and how t
 
 [**Dr. Meredith Larson**](https://www.linkedin.com/in/meredithjlarson/) is a research analyst for the U.S. Department of Education, Institute of Education Sciences, National Center for Education Research, with a focus on postsecondary and adult education. She oversees research projects and initiatives relevant to addressing the skill and attainment gaps of adults and improving their academic outcomes. Dr. Larson earned a master’s degree in cognitive and instructional psychology and a doctorate in psycholinguistics.
 
----
-
-**Related Links:**
+## Related Links
 
  - IES research on [adult basic skills](https://ies.ed.gov/topics/adultBasic.asp)
  - [PIAAC assessment](https://nces.ed.gov/surveys/piaac/current_results.asp) of adult skills
@@ -57,4 +55,4 @@ During this session, we will also explore timely examples of materials and how t
 
 ---
 
-*This meeting is hosted by the [Plain Language Action and Information Network](https://plainlanguage.gov/) (PLAIN), a community of federal employees dedicated to the idea that citizens deserve clear communications from the government.*
+_This meeting is hosted by the [Plain Language Action and Information Network](https://plainlanguage.gov/) (PLAIN), a community of federal employees dedicated to the idea that citizens deserve clear communications from the government._ 
