@@ -22,7 +22,7 @@ topics:
   - user-centered-design
   - research
 
-# Event platform (zoom, youtube_live, adobe_connect)
+# Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
 
 # see all authors at https://digital.gov/authors

@@ -1,6 +1,6 @@
 ---
 # View this page at https://digital.gov/event/2020/04/federal-source-code-summit-building-coding
-# Learn how to edit our pages at https://workflow.digital.gov 
+# Learn how to edit our pages at https://workflow.digital.gov
 
 draft: true
 
@@ -20,16 +20,16 @@ date: 2020-04-16 8:30:00 -0500
 end_date: 2020-04-16 12:15:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - code
   - open-source
   - security
 
-# Event platform (zoom, youtube_live, adobe_connect)
+# Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id:
 
 # Venue
 venue_name: "General Services Administration"
@@ -82,16 +82,16 @@ Panelists:
  - **Taylor Yates**, Data Scientist, NASA (TBD)
  - **Aidan Feldman**, Lead for TTS Infrastructure, General Services Administration
  - **Rayvn Manuel**, Developer and Engineer, National Museum of African American History and Culture
- 
+
  **12:10-12:15 pm** Closing
- 
+
 ## Speakers
 
 **Joseph Castle** serves as the Director of Code.gov where he is responsible for the implementation of the White House’s Federal Source Code Policy (FSCP). His duties with Code.gov include the development of the technical platform and federal agency progress with policy execution. Prior to this, he served as the Director of GSA Digital Service, leading an effort to build a high-performing technology team to implement federal digital government strategy initiatives: open government, data, and code. Due to his success with GSA Digital Service, he was appointed by the U.S. Chief Information Officer’s Office to lead Code.gov. Mr. Castle served in the Obama Administration, is a recent Fed100 recipient, and a Ph.D. candidate with a dissertation focused on OSS publication in the federal sector.
 
 **Amin Mehr** is co-product owner of Code.gov in the Office of Solutions within GSA’s Technology Transformation Services. On the team, he works on a range of topics including strategy, product, outreach, and customer experience to help agencies meet the objectives of the Federal Source Code Policy. Cross-agency collaboration is pivotal in ensuring that agencies are doing their best to build software in a smart and scalable manner. In his previous work at GSA, Amin served as former program director for Performance.gov alongside his work on the CIO Council. He also has previously led teams at the Small Business Administration and the Department of Commerce on BusinessUSA, The Small Business Innovation Research Program and a variety of other IT initiatives.
 
-**Karen Trebon** is the Lead for the Smarter IT Delivery Portfolio, one of five in the Technology Transformation Services within the Federal Acquisition Service at the U.S. General Services Administration. She manages the people, budget, and contracts that power Search.gov and Code.gov. Karen has been with GSA since 2002. She has a Bachelors in Government from the University of Maryland College Park and a Masters in Public Administration from George Washington University. She is also a certified Project Management Professional (PMP). Prior to GSA, Karen worked for Amplify Public Affairs and the American Power Association. She also worked in Annapolis, and also did three brief stints on Capitol Hill with Senator Sarbanes, Representative Hoyer, and the House Energy and Commerce Committee. 
+**Karen Trebon** is the Lead for the Smarter IT Delivery Portfolio, one of five in the Technology Transformation Services within the Federal Acquisition Service at the U.S. General Services Administration. She manages the people, budget, and contracts that power Search.gov and Code.gov. Karen has been with GSA since 2002. She has a Bachelors in Government from the University of Maryland College Park and a Masters in Public Administration from George Washington University. She is also a certified Project Management Professional (PMP). Prior to GSA, Karen worked for Amplify Public Affairs and the American Power Association. She also worked in Annapolis, and also did three brief stints on Capitol Hill with Senator Sarbanes, Representative Hoyer, and the House Energy and Commerce Committee.
 
 **Brian Lee** is the Senior Advisor for Informatics to Centers for Disease Control and Prevention's Office of the Chief Information Officer where he work with data to make better technology investments to improve public health impact. Brian is the program official for [open.cdc.gov](https://open.cdc.gov) and [data.cdc.gov](https://data.cdc.gov), helping public health programs across all CDC centers, institutes, and offices connect open technology with public health communities. Brian joined CDC in 2012 as the Deputy Director for the Informatics Innovation Unit and later served as the Chief Public Health Informatics Officer for the Office of Public Health Scientific Services. Brian is a self-taught programmer and holds a BBA from Georgia State University, an MPH from Emory University, and multiple certifications.
 
@@ -109,11 +109,11 @@ the open source approach. Leonardo is a free and open source software
 advocate since a very young age. He holds a PhD in computer and control
 engineering and he has been a Fulbright BEST scholar in California where he
 also worked on the development of some open source platforms at Stanford
-University. 
+University.
 
 ## Related Links:
 
- - [Crowdsourcing for Code!](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/) 
+ - [Crowdsourcing for Code!](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/)
  - [When In Rome: Code.gov Collaborates with Digital Italia](https://medium.com/codedotgov/when-in-rome-code-gov-collaborates-with-digital-italia-73106d10db01)
  - [The Summer of Code: Building Coding Communities](https://medium.com/codedotgov/the-summer-of-code-building-coding-communities-55685aee8a8a)
  - [New Decade, New Code.gov Code of Conduct](https://www.medium.com/codedotgov/new-decade-new-code-gov-code-of-conduct-d8402a79a34b)
@@ -121,4 +121,4 @@ University.
 
 ---
 
-_This Summit is hosted by [Code.gov](https://code.gov/) with support from [Digital.gov](https://digital.gov/). Code.gov is the federal government's platform for sharing America's source code._ 
+_This Summit is hosted by [Code.gov](https://code.gov/) with support from [Digital.gov](https://digital.gov/). Code.gov is the federal government's platform for sharing America's source code._
