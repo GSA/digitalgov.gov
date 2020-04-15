@@ -15,8 +15,8 @@ topics:
   - open-source
 
 # see all authors at https://digital.gov/authors
-authors:
-  - sara-cope
+authors: 
+ - joseph-castle
 
 community_list:
   - platform: listserv
@@ -24,8 +24,8 @@ community_list:
     subscribe_email: "listserv@listserv.gsa.gov"
     subscribe_email_body: "subscribe code"
 
-
 # Make it better ♥
+
 ---
 
 We are a community of federal government developers, managers, and individuals interested in open source software. We support the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov/) (OMB Memo M-16-21) and associated technology platform, [Code.gov](https://code.gov/).
@@ -37,3 +37,12 @@ We help answer questions and offer solutions concerning open source software. We
 ## Who we are
 
 We are developers and open source experts, dedicated to helping you with any questions or concerns you may have about open source in the federal government. Curious about something regarding open source software or Code.gov? Ask us.
+
+## Community managers
+Joseph Castle, Washington, DC.
+
+## Related resources 
+- [**Code.gov**](http://code.gov)
+- [**Code.gov API**](https://open.gsa.gov/api/codedotgov/)
+- [**Code.gov Resources**](https://github.com/GSA/code-gov)
+- [**Federal Source Code Policy**](https://sourcecode.cio.gov/)
