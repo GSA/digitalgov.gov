@@ -1,3 +1,4 @@
+{{/* Checks is there is inner contet in the shortcode */}}
 {{- if .Inner -}}
 <div class="card-prompt">
   {{- if (.Get "intro") -}}
@@ -8,17 +9,21 @@
       <p>{{ .Get "intro" | markdownify -}}</p>
     </div>
   {{- end -}}
+
   {{- if .Inner -}}
   <div class="prompt">
     {{- .Inner | markdownify -}}
   </div>
   {{- end -}}
-  {{- if (.Get "button") -}}
+
+  {{- if (.Get "button-text") -}}
   <div class="submit">
-    <button class="usa-button"><a href="{{- .Get "url" -}}" title="{{- .Get "button" -}}">{{- .Get "button" -}}</a></button>
+    <button class="usa-button"><a href="{{- .Get "button-url" -}}" title="{{- .Get "button-text" -}}">{{- .Get "button-text" -}}</a></button>
     <span></span>
   </div>
   {{- end -}}
+
+  {{/* Fallback text */}}
   {{- if (.Get "fallback") -}}<p class="fallback">{{- .Get "fallback" | markdownify -}}</p>{{- end -}}
 </div>
 {{- end -}}
