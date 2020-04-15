@@ -26,7 +26,7 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 // Watch Tasks
-gulp.task('watch-assets', function () {
+gulp.task('watch', function () {
   gulp.watch('./themes/digital.gov/src/scss/uswds/**/*.scss', gulp.series('build-sass'));
   gulp.watch('./themes/digital.gov/src/scss/new/**/*.scss', gulp.series('build-sass'));
   gulp.watch('./themes/digital.gov/src/js/**/*.js', gulp.series('compile', 'compile-common'));
@@ -35,8 +35,5 @@ gulp.task('watch-assets', function () {
 // gulp build-assets — build without watching
 gulp.task('build-assets', gulp.series('build-sass', 'compile', 'compile-common'));
 
-// gulp watch
-gulp.task('watch', gulp.series('build-assets', 'watch-assets'));
-
 // gulp — build + watch
-gulp.task('default', gulp.series('watch'));
+gulp.task('default', gulp.series('build-assets','watch'));
