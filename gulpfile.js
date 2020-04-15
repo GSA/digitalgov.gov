@@ -5,7 +5,7 @@ require('./config/gulp/uswds');
 
 
 // Set the environment
-gulp.task('env', async function (done) {
+gulp.task('set-env', async function (done) {
   return process.env.NODE_ENV = 'development';
   done();
 });
@@ -32,10 +32,11 @@ gulp.task('watch-assets', function () {
   gulp.watch('./themes/digital.gov/src/js/**/*.js', gulp.series('compile', 'compile-common'));
 });
 
-gulp.task('watch', gulp.series('build-assets', 'watch-assets'));
-
 // gulp build-assets — build without watching
 gulp.task('build-assets', gulp.series('build-sass', 'compile', 'compile-common'));
+
+// gulp watch
+gulp.task('watch', gulp.series('build-assets', 'watch-assets'));
 
 // gulp — build + watch
 gulp.task('default', gulp.series('watch'));
