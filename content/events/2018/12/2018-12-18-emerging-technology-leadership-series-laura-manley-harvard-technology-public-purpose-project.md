@@ -1,27 +1,41 @@
 ---
+# View this page at https://digital.gov/event/2018/12/emerging-technology-leadership-series-laura-manley
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: emerging-technology-leadership-series-laura-manley-harvard-technology-public-purpose-project
-title: 'Emerging Technology Leadership Series&#58; Laura Manley, Harvard Technology and Public Purpose Project'
-summary: 'In this next installment of the Emerging Technology Leadership Series we will discuss with Laura Manley, director of Harvard TAPP,  what agencies should know about better understanding and managing potential risks from promising emerging technologies.'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - youtube-live
-date: 2018-12-18 14:00:00 -0500
-end_date: 2018-12-18 15:00:00 -0500
-event_organizer: DigitalGov University
-host: ECTO
+title: "Emerging Technology Leadership Series: Laura Manley, Harvard Technology and Public Purpose Project"
+deck: ""
+summary: "In this next installment of the Emerging Technology Leadership Series we will discuss with Laura Manley, director of Harvard TAPP,  what agencies should know about better understanding and managing potential risks from promising emerging technologies."
+host: "ECTO"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-series-laura-manley-harvard-technology-and-public-purpose-project-registration-53698327142
-youtube_id: gbmRaFuJyrM
-topics:
+captions: 
+
+# start date
+date: 2018-12-18 14:00:00 -0500
+
+# end date
+end_date: 2018-12-18 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - emerging-tech
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
   - blockchain
-  - virtual-augmented-reality-community
   - virtual-reality
+  - virtual-augmented-reality-community
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - jherman
+  - laura-manley
+
+# YouTube ID
+youtube_id: gbmRaFuJyrM
+
+# Make it better ♥
 
 ---
 
