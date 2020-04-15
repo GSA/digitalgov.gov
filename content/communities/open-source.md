@@ -18,6 +18,8 @@ topics:
 authors: 
  - joseph-castle
 
+weight: 1
+
 community_list:
   - platform: listserv
     type: government
