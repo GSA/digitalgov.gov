@@ -12,15 +12,26 @@ slug: continuous-learning-for-product-managers
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-03-24 12:00:00 -0500
+date: 2020-03-24 13:00:00 -0500
 kicker: "18F"
 title: "Continuous Learning for Product Managers"
 deck: "<strong>As product managers, we never stop learning because products never stop evolving and changing.</strong> You need to quickly get up to speed on a product’s technical implementation, design, user research, and business needs."
-summary: ""
+summary: "<strong>As product managers, we never stop learning because products never stop evolving and changing.</strong> You need to quickly get up to speed on a product’s technical implementation, design, user research, and business needs."
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - product-management
+  - 18f
 
 # see all authors at https://digital.gov/authors
 authors: 
   - kara-reinsel
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
 # Make it better ♥
+
 ---

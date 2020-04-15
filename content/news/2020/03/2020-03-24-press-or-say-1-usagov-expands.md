@@ -12,11 +12,11 @@ slug: press-or-say-1-usagov-expands
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-03-24 17:00:00 -0500
+date: 2020-03-24 18:00:00 -0500
 kicker: "Contact Centers"
 title: "Press or Say 1: USAGov Expands Its Use of Interactive Voice Response"
-deck: "**In 2019, USA.gov received nearly half a million calls!** Read about how they expanded their use of interactive voice response to better serve citizens and maximize their resources."
-summary: "In 2019, USA.gov received nearly half a million calls! To help callers get answers for basic questions more quickly, and to save money and free-up our contact center agents to handle more complicated questions, the USAGov Contact Center recently added more interactive voice response (IVR) messaging."
+deck: "<strong>In 2019, USA.gov received nearly half a million calls!</strong> Read about how they expanded their use of interactive voice response to better serve citizens and maximize their resources."
+summary: "<strong>In 2019, USA.gov received nearly half a million calls!</strong> To help callers get answers for basic questions more quickly, and to save money and free-up our contact center agents to handle more complicated questions, the USAGov Contact Center recently added more interactive voice response (IVR) messaging."
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -25,6 +25,11 @@ topics:
 # see all authors at https://digital.gov/authors
 authors: 
   - marietta-jelks
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
 
 # Make it better ♥
 ---
