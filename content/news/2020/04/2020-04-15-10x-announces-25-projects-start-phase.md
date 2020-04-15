@@ -4,7 +4,7 @@
 slug: 10x-announces-25-projects-start-phase
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xv8aG
 date: 2020-04-15 15:30:00 -0500
 kicker: "10x"
 title: "10x Announces 25 Projects to Start Phase One"
