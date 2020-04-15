@@ -20,7 +20,7 @@ end_date: 2020-04-07 15:00:00 -0500
 topics: 
   - product-management
 
-# Event platform (zoom, youtube_live, adobe_connect)
+# Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
 
 # YouTube ID
