@@ -15,20 +15,20 @@ Want to learn more about how we work? [Check out our Wiki page »](https://githu
 ---
 ## Repositories
 
-As a product, [digital.gov](https://digital.gov) maintains a collection of repositories. All of our work is open source and we encourage you to take a look at and contribute to our projects by submitting a Pull Request, a Github Issue, or commenting on existing Issues and Pull Requests. 
+As a product, [digital.gov](https://digital.gov) maintains a collection of repositories. All of our work is open source and we encourage you to take a look at and contribute to our projects by submitting a Pull Request, a Github Issue, or commenting on existing Issues and Pull Requests.
 
 
-The repositories below are all used to maintain [digital.gov:](https://digital.gov)  
+The repositories below are all used to maintain [digital.gov:](https://digital.gov)
 
 
 <details>
   <summary>Platform</summary>
 
 | Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| [GSA/**digitalgov.gov**](https://github.com/GSA/digitalgov.gov)                               | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).| 
-| [18F/**dns**](https://github.com/18F/dns)                              | DNS configuration for digital.gov domains managed by GSA TTS.| 
-| [uswds/**uswds**](https://github.com/uswds/uswds)                              | This site is developed using the U.S. Web Design System v2, managed by GSA TTS.| 
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GSA/**digitalgov.gov**](https://github.com/GSA/digitalgov.gov)                               | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).|
+| [18F/**dns**](https://github.com/18F/dns)                              | DNS configuration for digital.gov domains managed by GSA TTS.|
+| [uswds/**uswds**](https://github.com/uswds/uswds)                              | This site is developed using the U.S. Web Design System v2, managed by GSA TTS.|
 
 </details>
 
@@ -36,12 +36,12 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
   <summary>Tools - projects we have created in order to better aid our work on the digital.gov platform.</summary>
 
 | Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| [GSA/**digital.gov-design**](https://github.com/GSA/digital.gov-design)      | A collection of design assets used for the digital.gov platform.                                                          | 
-| [GSA/**digitalgov-workflow**](https://github.com/GSA/digitalgov-workflow)                           | A tool for managing the digital.gov editorial workflow on GitHub.                                                                                                                                                                            | 
-| [GSA/**redir**](https://github.com/GSA/redir)                   | A basic [Jekyll](https://jekyllrb.com/) template to use for temporary redirects.    
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GSA/**digital.gov-design**](https://github.com/GSA/digital.gov-design)      | A collection of design assets used for the digital.gov platform.                                                          |
+| [GSA/**digitalgov-workflow**](https://github.com/GSA/digitalgov-workflow)                           | A tool for managing the digital.gov editorial workflow on GitHub.                                                                                                                                                                            |
+| [GSA/**redir**](https://github.com/GSA/redir)                   | A basic [Jekyll](https://jekyllrb.com/) template to use for temporary redirects.
 
-</details>  
+</details>
 
 
 ---
@@ -64,7 +64,7 @@ npm install gulp-cli -g
 ```
 
 To use Gulp, you must have [Node](https://nodejs.org/) and [NPM](https://www.npmjs.com) installed.
-We're currently using Node v10.16.3. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.  
+We're currently using Node v10.16.3. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
 
 NPM is package along with Node. Check your versions of these in your terminal command line by typing:
 ```
@@ -87,7 +87,7 @@ Quickly check your Hugo version at your terminal command line by running:
 hugo version
 ```
 
-**Note:** Digital.gov currently uses Hugo version 0.66.0. This is noted in our [.hugo-version](.hugo-version) file. 
+**Note:** Digital.gov currently uses Hugo version 0.66.0. This is noted in our [.hugo-version](.hugo-version) file.
 If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: [Using Legecy Versions of the Hugo Static Site Generator](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/)
 
 #### Setup
@@ -105,22 +105,30 @@ This will install all of the Node dependencies needed to run your Hugo environme
 Running the local development server is as simple as running:
 
 ```
-hugo serve
+npm start
 ```
+
+NPM will run the following scripts:
+
+- `gulp env` — sets the environment variable to development (local builds only, not in Federalist)
+- `gulp` — builds and compresses all of the SCSS and JS files, and copies jquery and uswds js from `node_modules` and puts them in the `/dist/` folder.
+- `gulp Watch` — starts a watch task to look for changes in the SCSS and JS files
+- `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
+
 
 When Hugo is done building, you should see a success message like:
 ```
 Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
-You may then view your local site in the browser at `http://localhost:1313/'.
+
+You may then view your local site in the browser at `http://localhost:1313/`.
 
 Local development is powered by BrowserSync, to allow rapid development through:
 
 - A local development server at `http://localhost:1313/`.
 - Automatic CSS & JS updates without reloading the page
 - Automatic page reloads when content is changed
-
 
 
 ### Configuration
@@ -132,6 +140,8 @@ In your command line terminal run `cp env.example .env` to create a template .en
 Replace “[your key goes here]” in the .env file with your AWS key.
 
 #### Asset Pipeline
+
+_NOTE: This is now included in the `npm start` command above_
 
 All style and image build tasks are handled by [Gulp](https://gulpjs.com/docs/en/getting-started/javascript-and-gulpfiles) and are located in `gulpfile.js`. All parts of the build are configurable in discrete files (located in config/gulp) to make management easy.
 
@@ -150,8 +160,10 @@ Images found in `content/images/inbox/` will be optimized and compressed and sen
 
 **Other helpful HUGO commands:**
 
+- `hugo build` — builds all the pages in the site, without creating a server
+- `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
 - `hugo serve --templateMetricsHints` — for seeing where you can apply caching in templates and speed up the build time
-[See more »](https://gohugo.io/commands/hugo/)
+[See more in the Hugo docs »](https://gohugo.io/commands/hugo/)
 
 ## Upgrading Hugo
 

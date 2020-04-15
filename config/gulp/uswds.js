@@ -51,7 +51,7 @@ const IMG_DEST = './themes/digital.gov/static/uswds/img';
 const FONTS_DEST = './themes/digital.gov/static/uswds/fonts';
 
 // Javascript destination
-const JS_DEST = './themes/digital.gov/static/uswds/js';
+const JS_DEST = './themes/digital.gov/static/dist';
 
 // Compiled CSS destination
 const CSS_DEST = './themes/digital.gov/static/dist';
