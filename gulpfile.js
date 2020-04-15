@@ -25,15 +25,17 @@ if (process.env.NODE_ENV === 'development') {
   gulp.task("img", gulp.series('img-upload'));
 }
 
-
+// Watch Tasks
 gulp.task('watch-assets', function () {
   gulp.watch('./themes/digital.gov/src/scss/uswds/**/*.scss', gulp.series('build-sass'));
   gulp.watch('./themes/digital.gov/src/scss/new/**/*.scss', gulp.series('build-sass'));
   gulp.watch('./themes/digital.gov/src/js/**/*.js', gulp.series('compile', 'compile-common'));
 });
 
-gulp.task('watch', gulp.series('build-sass', 'compile', 'compile-common', 'watch-assets'));
+gulp.task('watch', gulp.series('build-assets', 'watch-assets'));
 
+// gulp build-assets — build without watching
 gulp.task('build-assets', gulp.series('build-sass', 'compile', 'compile-common'));
 
+// gulp — build + watch
 gulp.task('default', gulp.series('watch'));
