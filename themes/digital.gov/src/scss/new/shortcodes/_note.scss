@@ -104,13 +104,18 @@ li .note{
 // Comment — color settings
 .note.comment{
 	@include u-bg('blue-cool-10');
-	@include u-text('blue-cool-80');
-	@include u-border-left('05', 'solid', 'blue-cool-80');
+	@include u-text('blue-cool-70');
+	@include u-border-left('05', 'solid', 'blue-cool-50');
+	h4{
+		i{
+			@include u-text('blue-cool-60');
+		}
+	}
 	a{
-		@include u-text('blue-cool-80');
-		@include u-border-bottom('1px', 'solid', 'blue-cool-80');
+		@include u-text('blue-cool-70');
+		@include u-border-bottom('1px', 'solid', 'blue-cool-50');
 		&:hover{
-			@include u-text('blue-cool-70');
+			@include u-text('blue-cool-80');
 		}
 	}
 	.highlight{
