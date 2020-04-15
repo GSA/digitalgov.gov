@@ -108,7 +108,6 @@ Running the local development server is as simple as running:
 npm start
 ```
 
-
 NPM will run the following scripts:
 
 - `gulp env` — sets the environment variable to development (local builds only, not in Federalist)
