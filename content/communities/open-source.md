@@ -16,6 +16,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
+ - joseph-castle
 
 community_list:
   - platform: listserv
@@ -38,7 +39,7 @@ We help answer questions and offer solutions concerning open source software. We
 We are developers and open source experts, dedicated to helping you with any questions or concerns you may have about open source in the federal government. Curious about something regarding open source software or Code.gov? Ask us.
 
 ## Community managers
-Amin Mehr, Washington DC; Joseph Castle, Washington, DC.
+Joseph Castle, Washington, DC.
 
 ## Related resources 
 - [**Code.gov**](http://code.gov)
