@@ -41,7 +41,7 @@
                       <div class="details">
                         <h5>
                           <a href="{{- $link | absURL -}} " title="Posts by {{- $author.Params.display_name | default $i -}} " rel="author">
-                            {{- $author.Params.display_name | default $i -}}
+                            {{- $author.Params.display_name | default $i | markdownify -}}
                           </a>
                         </h5>
 

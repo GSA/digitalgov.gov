@@ -1,6 +1,6 @@
 // Styles for the list of authors generally found on in cards in the news stream
 .authors-list-short{
-	@include u-margin-top('205');
+	@include u-margin-top('105');
 	@include u-margin-bottom(1);
 	@include u-maxw('full');
 	@include u-display('flex');
@@ -31,6 +31,19 @@
 		}
 		&:hover{
 			@include u-text('underline');
+		}
+	}
+	.author.contact{
+		@include u-margin-right(1);
+		@include u-padding-y('2px');
+		@include u-padding-right(1);
+		@include u-text('primary-darker');
+		@include u-bg('white');
+		@include u-border-right('1px', 'base', 'solid');
+		i{
+			@include u-text('primary-darker');
+		}
+		&:hover{
 		}
 	}
 }

@@ -16,9 +16,30 @@ The [**Connected Government Act**](https://www.congress.gov/bill/115th-congress/
 
 The new law codifies OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
 
-The sections below were curated by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to help you make sure that your websites comply with the law.
+The sections below were curated by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to help you make sure that your websites comply with the law. 
 
-{{< img src="hr2331-connected-govt-act" >}}
+{{< card-policy src="https://www.congress.gov/bill/115th-congress/house-bill/2331/text" kicker="Law" title="**H.R.2331**: Connected Government Act" >}}
+
+To require a new or updated Federal website that is intended for use by the public to be mobile friendly, and for other purposes. (NOTE: Jan. 10, 2018 - [H.R. 2331]) 
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, (NOTE: Connected Government Act. 44 USC 101 note.) 
+
+**SECTION 1. SHORT TITLE.** 
+
+This Act may be cited as the "Connected Government Act". 
+
+{{< highlight >}}**SEC. 2. FEDERAL WEBSITES REQUIRED TO BE MOBILE FRIENDLY.**{{< /highlight >}} 
+
+(a) {{< highlight >}}**Amendment.**{{< /highlight >}}--Subchapter II of chapter 35 of title 44, United States Code, is amended by adding at the end the following new section: 
+
+{{< highlight >}}"Sec. 3559. (NOTE: 44 USC 3559.) Federal websites required to be mobile friendly{{< /highlight >}} 
+
+ - "(a) (NOTE: Time period.) In General.--{{< highlight >}}If, on or after the date that is 180 days after the date of the enactment of this section, an agency creates a website that is intended for use by the public or conducts a redesign of an existing legacy website that is intended for use by the public, the agency shall ensure to the greatest extent practicable that the website is mobile friendly.{{< /highlight >}} 
+
+ - "(b) Definitions.--In this section: 
+   - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5. 
+   - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< /highlight >}}". 
+{{< /card-policy >}}
 
 ## What Is Mobile-Friendly?
 

@@ -17,6 +17,7 @@ topics:
 authors:
   - jay-benforado
   - sophia-b-liu
+  - john-mcLaughlin
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
@@ -32,7 +33,7 @@ aliases:
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "listserv@listserv.gsa.gov"
+    subscribe_email: "FCPCCS-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "subscribe FCPCCS"
     subscribe_email_body: "enter your name + agency you work for"
     members: 427
@@ -52,6 +53,8 @@ The FedCCS Co-Chairs are:
 Jay Benforado, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
 
 Sophia B. Liu, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
+
+John McLaughlin, Education Program Manager, Office of Education, National Oceanic and Atmospheric Administration (NOAA)
 
 ## Overview
 

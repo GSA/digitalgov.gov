@@ -22,6 +22,6 @@
 
   .usa-banner__button[aria-expanded=true]:after{
     @include u-bg('primary-darker');
-    background-image: url(../lib/uswds/img/close-white-alt.svg),linear-gradient(transparent,transparent);
+    background-image: url(../uswds/img/close-white-alt.svg),linear-gradient(transparent,transparent);
   }
 }

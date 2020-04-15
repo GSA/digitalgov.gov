@@ -1,8 +1,8 @@
 ---
-
 # Your author profile page lives at:
 # https://digital.gov/authors/james-geoghegan
 
+slug: james-geoghegan
 display_name: "Jim Geoghegan"
 first_name: "James"
 last_name: "Geoghegan"
@@ -12,9 +12,6 @@ last_name: "Geoghegan"
 # See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
 # Examples: they/them, she/her, or he/him
 pronoun: ""
-
-# User ID (not easily changed)
-uid: james-geoghegan
 
 # if you include an email address, it will be displayed on your profile page
 email: "james.geoghegan@gsa.gov"

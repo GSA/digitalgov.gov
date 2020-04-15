@@ -140,6 +140,16 @@
   {{- end -}}
 
   {{ "<!-- CSS -->" | safeHTML }}
+  {{/* Custom CSS — needs to be included before the base styles */}}
+  {{- if $.Params.css -}}
+    {{- range $.Params.css -}}
+      {{- $path := (printf "dist/%s" .) | absURL -}}
+      <!-- CUSTOM CSS -->
+      <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
+    {{- end -}}
+  {{- end -}}
+
+  {{/* Base styles */}}
   <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' />
   <script src="https://kit.fontawesome.com/dbf359f887.js"></script>
 
@@ -168,15 +178,10 @@
     <!-- {{ getenv "BRANCH" }} | {{ $.Scratch.Get "branch" }} -->
   </script>
 
-
+  {{/* Add to Calendar CSS */}}
   {{- if eq .Section "events" -}}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
   <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
-  {{- end -}}
-
-  {{- range $.Params.css -}}
-    {{- $path := (printf "css/%s" .) | absURL -}}
-    <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
   {{- end -}}
 
 </head>

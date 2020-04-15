@@ -1,0 +1,23 @@
+name: add federalist preview link to PR
+
+on:
+  # Trigger the workflow pull request,
+  # but only for the master branch
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    name: Add Federalist Preview link
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Comment Pull Request
+        uses: thollander/actions-comment-pull-request@1.0.0
+        with:
+          message: ':mag: [__Preview in Federalist__](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${{ github.head_ref }})'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    

@@ -2,25 +2,26 @@
 url: /services/challenge-gov/
 
 # What is the name of the product or service?
-title: 'Challenge.gov'
+title: "Challenge.gov"
 
 # Keep it short — should be no longer than 10 words.
-summary: 'An open innovation hub for challenge and prize competitions.'
+summary: "Provides resources and collaborative opportunities to facilitate the use of prize competitions in government."
 
-# What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-# source_url: 'https://challenge.gov/'
+# What source published this?
+source: 'challengegov'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: 'challenge-gov-logo.png'
+logo: 'challengegov'
 
-# Weight: control how services appear across the site
-# 2 == will be part of the rotation on the homepage
-# 1 == will show on the all services page
-# 0 == hidden promo
+contact: team@challenge.gov
+
+# Weight — controls how services appear across the site
+# 2 == will appear as related service (ADs) on blog posts and event pages
+# 1 == will appear on the tools and services page, and all related topic pages
+# 0 == hides this service from all pages, but URL is still public
 weight: 2
 
 # Topics that best describe this product or service
@@ -28,9 +29,13 @@ topics:
   - challenges
   - innovation
 
+# see all authors at https://digital.gov/authors
+authors:
+  - jarah-meador
+
 ---
 
-{{< button href="https://challenge.gov/a/buzz/pages/about-us" text="Post a challenge on Challenge.gov" >}}
+{{< button href="https://www.challenge.gov/about/" text="Post a challenge on Challenge.gov" >}}
 
 ## **A Primer on Challenges & Prizes**
 
@@ -60,7 +65,7 @@ The [Strategy for American Innovation](https://obamawhitehouse.archives.gov/site
 
 In 2010, the Office of Management and Budget issued a [memo](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf) (PDF, 94 KB, 12 pages) providing a formal policy framework to guide agencies in using challenges and prize competitions to advance their core missions.
 
-That same year, the General Services Administration (GSA) launched [Challenge.gov](http://challenge.gov/), the official clearinghouse for all federal problem-solving competitions.
+That same year, the General Services Administration (GSA) launched [Challenge.gov](http://www.challenge.gov/), the official clearinghouse for all federal problem-solving competitions.
 
 ## A Platform for All
 

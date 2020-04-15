@@ -1,22 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2018/06/funding-future-technology-modernization-fund-proposal
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: funding-future-technology-modernization-fund-proposal-workshop
-title: 'Funding the Future&#58; Technology Modernization Fund Proposal Workshop'
-summary: ''
-featured_image:
-  uid: emerging-tech-tmf
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-06-08 09:00:00 -0500
-end_date: 2018-06-08 12:00:00 -0500
-event_organizer: DigitalGov University
-host:
+title: "Funding the Future: Technology Modernization Fund Proposal Workshop"
+deck: ""
+summary: ""
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/funding-the-future-technology-modernization-fund-proposal-workshop-registration-46384593568
-youtube_id: 0UsrfJ9oiM4
-topics:
+captions: 
+
+# start date
+date: 2018-06-08 10:00:00 -0500
+
+# end date
+end_date: 2018-06-08 13:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - emerging-tech
   - product-management
   - it-modernization-fund
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - elizabeth-cain
+  - emma-perron
+  - jherman
+
+# YouTube ID
+youtube_id: 0UsrfJ9oiM4
+
+# Primary Image (for social media)
+primary_image: "emerging-tech-tmf"
+
+# Make it better ♥
 
 ---
 [GSA’s Emerging Citizen Technology Office](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology) (ECTO) and the [Technology Modernization Fund Program Management Office](https://emerging.digital.gov/TMF/) (TMF PMO) are hosting an online workshop at GSA on June 8, 2018 to hands-on assist agencies with developing proposals for TMF that advance emerging technologies and programs that can improve our services and reduce costs for the American people today and in the coming years.

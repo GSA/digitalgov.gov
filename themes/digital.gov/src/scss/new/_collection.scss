@@ -1,0 +1,99 @@
+.collection{
+  @include u-margin-bottom('105');
+
+  h2{
+    @include u-margin(0);
+    @include u-margin-bottom(2);
+    @include u-font('sans', 'md');
+    @include u-text('semibold');
+  }
+
+  p.deck{
+    @include u-margin(0);
+    @include u-margin-bottom(1);
+    @include u-font('sans', 'lg');
+    @include u-line-height('sans', 1);
+    @include u-text('light');
+  }
+
+  .external-link[href^=http]:not([href*=".gov"]):after {
+    background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
+    background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
+    background-size: 100%;
+    content: "";
+    display: inline-block;
+    height: .9em;
+    margin-bottom: -2px;
+    margin-left: .15rem;
+    width: .9em;
+  }
+
+  ul{
+    @include add-list-reset;
+    @include u-margin(0);
+    @include u-margin-bottom('105');
+    li{
+      @include u-margin-bottom('105');
+      @include u-maxw('tablet-lg');
+      @include u-font('sans', 'sm');
+      @include u-line-height('sans', 3);
+      @include u-display('flex');
+      @include u-flex('align-start');
+
+      // the DIV that wraps the icon in collections
+      .icon{
+        @include u-margin-top('1px');
+        @include u-margin-right(1);
+        img{
+          @include u-width(2);
+          @include u-maxw(2);
+          @include u-position('relative');
+          @include u-top('2px');
+        }
+      }
+
+      // the DIV that wraps the text used in collections
+      .copy{
+        & > div{
+          @include u-display('flex');
+          @include u-flex('align-center');
+          h3{
+            @include u-font('sans', 'sm');
+            @include u-line-height('sans', 4);
+            a{
+              @include u-text('no-underline', !important);
+              @include u-text('medium');
+              &:hover{
+                span{
+                  @include u-border-bottom('1px', 'blue-warm-70v', 'solid');
+                }
+              }
+            }
+          }
+        }
+
+        p{
+          @include u-margin-top(0);
+          a{
+            @include u-text('no-underline', !important);
+            @include u-text('medium');
+            &:hover{
+              span{
+                @include u-border-bottom('1px', 'blue-warm-70v', 'solid');
+              }
+            }
+          }
+        }
+
+      }
+      .members{
+        @include u-font('sans', 'xs');
+      }
+    }
+  }
+}
+
+#topic .collection{
+  @include u-padding-y(1);
+  @include u-border-top('1px', 'gray-cool-40', 'solid');
+}

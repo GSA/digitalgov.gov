@@ -1,23 +1,39 @@
 ---
+# View this page at https://digital.gov/event/2018/05/an-overview-technology-modernization-fund-tmf
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: an-overview-technology-modernization-fund-tmf
-title: 'An Overview of the Technology Modernization Fund &#40;TMF&#41;'
-summary: 'The Technology Modernization Fund &#40;TMF&#41; Program Management Office and the GSA Emerging Citizen Technology Office &#40;ECTO&#41; are hosting a conversation to help agencies develop proposals for technology modernization projects&#46;'
-featured_image:
-  uid: emerging-tech-tmf
-  alt: ''
-event_type:
-  - youtube-live
-  - online
-date: 2018-05-22 11:00:00 -0500
-end_date: 2018-05-22 12:00:00 -0500
-event_organizer: DigitalGov University
-host: The GSA Emerging Citizen Technology Office (ECTO)
+title: "An Overview of the Technology Modernization Fund (TMF)"
+deck: ""
+summary: "The Technology Modernization Fund (TMF) Program Management Office and the GSA Emerging Citizen Technology Office (ECTO) are hosting a conversation to help agencies develop proposals for technology modernization projects."
+host: "The GSA Emerging Citizen Technology Office (ECTO)"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/overview-of-the-technology-modernization-fund-registration-46199707569
-youtube_id: cvKMYGcabxo
-topics:
+captions: 
+
+# start date
+date: 2018-05-22 12:00:00 -0500
+
+# end date
+end_date: 2018-05-22 13:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - emerging-tech
-  - it-modernization-fund
   - product-management
+  - it-modernization-fund
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - jherman
+  - elizabeth-cain
+
+# YouTube ID
+youtube_id: cvKMYGcabxo
+
+# Primary Image (for social media)
+primary_image: "emerging-tech-tmf"
+
+# Make it better ♥
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 # View this page at https://digital.gov/authors/jona-decker
 # Learn how to edit our pages at https://workflow.digital.gov
-
+slug: jona-decker
 display_name: "Jona Decker"
 first_name: "Jona"
 last_name: "Decker"
@@ -9,8 +9,6 @@ last_name: "Decker"
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: "she/her"
 
-# user id — not easily changed
-uid: "jona-decker"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: jona.decker@gsa.gov

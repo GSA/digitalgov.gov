@@ -1,23 +1,39 @@
 ---
+# View this page at https://digital.gov/event/2018/06/usability-testing-with-steve-krug
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: usability-testing-with-steve-krug
-title: 'Usability Testing with Steve Krug'
-summary: 'Join us for a 90 minute demonstration and talk with Steve Krug, where he will share how you can get started making usability fixes, no matter what your full time job is&#46;'
-featured_image:
-  uid: usability-testing-steve-krug
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-06-14 14:00:00 -0500
-end_date: 2018-06-14 15:30:00 -0500
-event_organizer: DigitalGov University
-host: User Experience Community of Practice
+title: "Usability Testing with Steve Krug"
+deck: ""
+summary: "Join us for a 90 minute demonstration and talk with Steve Krug, where he will share how you can get started making usability fixes, no matter what your full time job is."
+host: "User Experience Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/usability-testing-with-steve-krug-registration-46107266074
-youtube_id: 6fjn1Zz3lMU
-topics:
+captions: 
+
+# start date
+date: 2018-06-14 15:00:00 -0500
+
+# end date
+end_date: 2018-06-14 16:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - usability
   - user-experience
   - ux
-  - usability
   - usability-testing
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - steve-krug
+
+# YouTube ID
+youtube_id: 6fjn1Zz3lMU
+
+# Primary Image (for social media)
+primary_image: "usability-testing-steve-krug"
+
+# Make it better ♥
 
 ---
 

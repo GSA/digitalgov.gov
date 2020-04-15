@@ -66,12 +66,12 @@ You are encouraged to reach out to your agency’s Web Council member if you hav
 -   Department of Agriculture — Peter Rhee
 -   Department of Commerce — Alicia Sowah
 -   Department of Defense — Terry Davis
--   Department of Education — Jim Mould
+-   Department of Education — Sally Harris
 -   Department of Energy — Tom O'Neill
 -   Department of Health and Human Services — Stacey Palosky
 -   Department of Homeland Security — Matt Harmon
 -   Department of Housing and Urban Development — Helen Savoye-Minor
--   Department of the Interior — Larry Gillick
+-   Department of the Interior — DeRon Johnson
 -   Department of Justice — Ashley McGowan
 -   Department of Labor — Stan Olshefski
 -   Department of State — Monica Perry
@@ -81,7 +81,7 @@ You are encouraged to reach out to your agency’s Web Council member if you hav
 -   Environmental Protection Agency — Lin Darlington
 -   General Services Administration — Sarah Bryant
 -   National Aeronautics and Space Administration — Brian Dunbar
--   National Science Foundation — _VACANT_
+-   National Science Foundation — Bridgette White
 -   Nuclear Regulatory Commission — _VACANT_
 -   Office of Personnel Management — Heather Stern
 -   Small Business Administration — Nagesh Rao

@@ -1,14 +1,32 @@
 ---
-url: /resources/intro-accessibility/
-date: 2019-12-04 9:00:00 -0400
-title: "Intro to Accessibility"
-summary: "An introduction to accessibility, and why it matters."
-featured_image:
-  uid: accessibility-101-card
-authors:
-  - tonibonitto
-  - jeremyzilar
+# View this page at https://digital.gov/resources/introduction-accessibility
+# Learn how to edit our pages at https://workflow.digital.gov
 
+# slug (url path) — changing this requires a redirect
+slug: introduction-accessibility
+date: 2019-12-04 8:00:00 -0500
+title: "Introduction to Accessibility"
+deck: ""
+summary: "An introduction to accessibility, and why it matters."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - accessibility
+  - product-management
+  - plain-language
+
+# see all authors at https://digital.gov/authors
+authors:
+  - jeremyzilar
+  - toni-bonitto
+
+# primary Image (for social media)
+primary_image: "accessibility-101-card"
+
+aliases:
+  - /resources/intro-accessibility
+
+# Make it better ♥
 ---
 
 This is the start of a conversation that we hope continues throughout your time in government.

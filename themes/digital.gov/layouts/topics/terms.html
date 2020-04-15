@@ -22,7 +22,7 @@
         {{- $top_topics := $.Site.Taxonomies.topics -}}
         {{- range $name, $taxonomy := $top_topics -}}
           {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-            {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+            {{- if eq .Params.weight 2 -}}
               <div class="grid-col-12 tablet:grid-col-4">
                 <div class="topic" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
                   <h3>

@@ -18,20 +18,20 @@ topics:
 ---
 
 {{< note >}}
-**Note:** _You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations._
+You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations.
 {{< /note >}}
 
 
 ## Overarching Policies
 These high-level policies cover basic requirements for all websites and digital services.
 
-* [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018 
+* [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 * [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 * [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
-* See a full list of [policies and regulations »]({{< ref "/topics/policy/_index.md" >}})
+* See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
 * See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
 
 <p class="more"><a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA <i class="fas fa-arrow-alt-circle-right"></i></a></p>
@@ -43,12 +43,12 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 
 * [Accessibility for Teams](https://accessibility.digital.gov/) — A guide for embedding accessibility and inclusive design practices into your team’s workflow
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
-* [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
+* [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)
 * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
 * [WCAG Quick Reference](https://www.w3.org/WAI/WCAG20/quickref/) and [WCAG Web tutorials](https://www.w3.org/WAI/tutorials/)
-* [Technology Accessibility Playbook](https://section508.gov/sites/default/files/Technology%20Accessibility%20Playbook%20Version%201%20%28last%20updated%206_2_2016%29.doc)
+* [Technology Accessibility Playbooks](https://section508.gov/tools/playbooks/)
 * [Federal CIO Council Accessibility Best Practices](https://section508.gov/best-practices)
-* [Governmentwide Section 508 Strategic Plan (2013)](https://www.section508.gov/sites/default/files/strategic-plan-508-compliance.pdf)
+* [Governmentwide Section 508 Strategic Plan (2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)
 
 <p class="more"><a href="{{< ref "/topics/accessibility" >}}">More on Accessibility <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -86,7 +86,7 @@ government-customer-service-policies-requirements-1993-to-present/)
 
 ## Design
 
-Use the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) to deliver a great digital experience by integrating design principles, 
+Use the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) to deliver a great digital experience by integrating design principles,
 following user experience guidance, and using USWDS code.
 
 Follow current government design standards when creating new websites or making significant changes to existing websites.
