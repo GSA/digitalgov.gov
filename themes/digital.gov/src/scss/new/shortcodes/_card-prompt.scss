@@ -37,16 +37,8 @@
 		@include u-font('serif', 'lg');
 		@include u-text('blue-cool-80');
 		@include u-line-height('serif', 3);
-		ol,ul{
-			@include u-margin-y(0);
-			@include u-padding-left('205');
-			li{
-				@include u-margin-bottom(2);
-			}
-		}
+
 		blockquote{
-			@include u-padding-left(0);
-			@include u-border(0);
 			@include u-font('serif', 'lg');
 		}
 	}
