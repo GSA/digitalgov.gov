@@ -15,7 +15,6 @@ registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-se
 youtube_id: gbmRaFuJyrM
 topics:
   - emerging-tech
-  - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
