@@ -20,7 +20,7 @@ end_date: 2020-01-27 15:00:00 -0500
 topics: 
   - agile
   - data
-  - ai
+  - artificial-intelligence
   - analytics
   - cloud
 
