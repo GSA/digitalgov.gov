@@ -9,7 +9,7 @@ topics:
   - code
   - data
   - social-media
-  - ai
+  - emerging-tech
   - artificial-intelligence
   - chatbots
   - content
@@ -21,6 +21,7 @@ topics:
 featured_image:
   uid: Cropped-chatbot-technology-concept-on-electric-circuit-background-surrounded-by-related-ai-and-chat-icons-zapp2photo-istock-thinkstock-676338286
   alt: 'Chatbot technology concept on electric circuit background surrounded by related AI and chat icons'
+
 ---
 
 The best way to learn a new technical skill is to just play around with the technology. Learning through playing with technology goes for building websites, mobile apps, and now, chatbots. As chatbots have become more popular, some online sites will let you create a chatbot with little or no programming. Now, realize that the easier it is to create the chatbot, the less sophisticated the chatbot will be. However, you may not need a sophisticated chatbot that can handle almost any situation.
