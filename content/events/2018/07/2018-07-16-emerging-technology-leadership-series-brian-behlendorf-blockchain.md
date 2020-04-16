@@ -1,21 +1,34 @@
 ---
+# View this page at https://digital.gov/event/2018/07/emerging-technology-leadership-series-brian-behlendorf
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: emerging-technology-leadership-series-brian-behlendorf-blockchain
-title: 'Emerging Technology Leadership Series&#58; Brian Behlendorf and Blockchain'
-summary: 'The Emerging Technology Leadership Series, hosted by the U&#46;S&#46; General Services Administration Emerging Citizen Technology Office, is a six-part livestream pilot to enhance the modern federal workforce with training, education and awareness of emerging technologies including Artificial Intelligence, Robotic Process Automation, Blockchain, Social Technologies and Virtual&#x2F;Augmented Reality&#46; '
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - youtube-live
-date: 2018-07-16 15:00:00 -0500
-end_date: 2018-07-16 16:00:00 -0500
-event_organizer: DigitalGov University
-host: Emerging Citizen Technology Office (ECTO) 
+title: "Emerging Technology Leadership Series: Brian Behlendorf and Blockchain"
+deck: ""
+summary: "The Emerging Technology Leadership Series, hosted by the U.S. General Services Administration Emerging Citizen Technology Office, is a six-part livestream pilot to enhance the modern federal workforce with training, education and awareness of emerging technologies including Artificial Intelligence, Robotic Process Automation, Blockchain, Social Technologies and Virtual/Augmented Reality. "
+host: "Emerging Citizen Technology Office (ECTO)"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-series-brian-behlendorf-and-blockchain-registration-47996835828
-youtube_id: 0vEMKDmqKYM
-topics:
+captions: 
+
+# start date
+date: 2018-07-16 16:00:00 -0500
+
+# end date
+end_date: 2018-07-16 17:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - emerging-tech
   - blockchain
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - brian-behlendorf
+
+# YouTube ID
+youtube_id: 0vEMKDmqKYM
+
+# Make it better ♥
 
 ---
 
