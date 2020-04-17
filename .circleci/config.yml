@@ -12,7 +12,7 @@ jobs:
     steps:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
       - checkout
-      - run: hugo
+      - run: hugo -v -s ${HUGO_ROOT}
       - run: ls -all ${HUGO_ROOT}
       - run: ls -all ${HUGO_BUILD_DIR}
       - run: ls -all ${HUGO_BUILD_DIR}/authors/
