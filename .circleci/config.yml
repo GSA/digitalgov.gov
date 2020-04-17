@@ -14,9 +14,14 @@ jobs:
       - run: hugo -v -d $HUGO_BUILD_DIR
 
       # Run a step to print what branch our code base is on.
-      - run: # test what branch we're on.
+      - run: 
           name: "What branch am I on?"
           command: echo ${CIRCLE_BRANCH}
+
+      # Run a step to print the Authors API path in CircleCi
+      - run:
+          name: "Authors API path"
+          command: echo ${HUGO_BUILD_DIR}/authors/v1/json/
 
       - run:
           name: Check Authors API $CIRCLE_BRANCH
