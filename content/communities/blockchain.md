@@ -55,7 +55,7 @@ This community serves as a collaborative hub for federal agencies that are inter
 
 **If you are a federal government employee** with a .gov or .mil email address, join our [Federal Blockchain Community](mailto:Blockchain-subscribe-request@listserv.gsa.gov?subject=Blockchain%20listserv).
 
-To join our **public** listserv for Blockchain, contact [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv) with the message body“SUB BlockchainPublic.”
+To join our **public** listserv for Blockchain, contact [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv&body=SUB%20BlockchainPublic) with the message body “SUB BlockchainPublic.”
 
 ### What We Do
 
