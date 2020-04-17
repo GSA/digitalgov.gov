@@ -4,10 +4,10 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~/hugo
+    working_directory: ~/project/
     environment:
-      HUGO_ROOT: ~/hugo
-      HUGO_BUILD_DIR: ~/hugo/public
+      HUGO_ROOT: ~/project/
+      HUGO_BUILD_DIR: ~/project/public
 
     steps:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
