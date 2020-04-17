@@ -13,6 +13,8 @@ jobs:
       - checkout
       - run: hugo -v -s ~/project
       - run: ls -all ~/project
+      - run: ls -all ~/project/public
+      - run: ls -all ~/project/public/authors/v1
 
       # Run a step to print what branch our code base is on.
       - run:
