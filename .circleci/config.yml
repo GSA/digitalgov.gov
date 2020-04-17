@@ -12,9 +12,6 @@ jobs:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
       - checkout
       - run: hugo -v -s ~/project
-      - run: ls -all ~/project
-      - run: ls -all ~/project/public
-      - run: ls -all ~/project/public/authors/v1
 
       # Run a step to print what branch our code base is on.
       - run:
@@ -28,7 +25,7 @@ jobs:
 
       - run:
           name: Check Authors API $CIRCLE_BRANCH
-          command: curl ${HUGO_BUILD_DIR}/authors/v1/json/ | jq
+          command: curl ${HUGO_BUILD_DIR}/authors/v1/json/index.json | jq
           # command: curl https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${CIRCLE_BRANCH}/authors/v1/json/ | jq
 
       # - run:
