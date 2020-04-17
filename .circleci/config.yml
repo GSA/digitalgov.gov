@@ -29,8 +29,28 @@ jobs:
           command: echo ~/project/public/authors/v1/json/
 
       - run:
-          name: Check Authors API
+          name: Update NPM
+          command: 'sudo npm install -g npm@latest'
+
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+
+      - run:
+          name: npm install
+          command: 'npm install'
+
+      - save_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+          paths:
+            - node_modules
+
+      - run:
+          name: Check Authors API | validjson
           command: validjson < ~/project/public/authors/v1/json/
+
+      - run:
+          name: Check Authors API | cat
+          command: cat ~/project/public/authors/v1/json/ | jq
           # command: curl https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${CIRCLE_BRANCH}/authors/v1/json/ | jq
 
       # - run:
