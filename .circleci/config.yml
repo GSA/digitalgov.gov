@@ -11,7 +11,10 @@ jobs:
     steps:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
       - checkout
-      - run: hugo -v -s ~/project
+      - run: hugo
+      - run: ls -all ${HUGO_BUILD_DIR}/
+      - run: ls -all ${HUGO_BUILD_DIR}/authors/
+      - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/json/
 
       # Run a step to print what branch our code base is on.
