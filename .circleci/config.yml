@@ -12,8 +12,8 @@ jobs:
     steps:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
       - checkout
-      - run: hugo -v -s ${HUGO_ROOT}
-      - run: ls -all ${HUGO_ROOT}
+      - run: hugo -v -s ~/project/
+      - run: ls -all ~/project/
       - run: ls -all ${HUGO_BUILD_DIR}
       - run: ls -all ${HUGO_BUILD_DIR}/authors/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/
