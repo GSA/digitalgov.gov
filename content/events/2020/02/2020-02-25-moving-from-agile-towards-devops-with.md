@@ -16,7 +16,7 @@ date: 2020-02-25 14:00:00 -0500
 # end date
 end_date: 2020-02-25 14:30:00 -0500
 
-# Event platform (zoom, youtube_live, adobe_connect)
+# Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
 
 # YouTube ID

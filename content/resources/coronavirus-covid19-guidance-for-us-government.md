@@ -61,13 +61,30 @@ Link to authoritative information from other government agencies related to your
 
 The White House, in collaboration with DHS and HHS, encourages agencies to feature the following content on both their agency homepages and coronavirus pages as appropriate.
 
-### Last updated April 1, 2020
+### Last updated April 16, 2020
+-   **Schema.org 7.0 Tags for Coronavirus Pages**: The [White House and key federal agencies](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/) are working alongside Schema.org to help ensure coronavirus resources are prioritized with online search engines. [Schema.org has released new standard tags](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html) for webpages; [view the implementation instructions](https://developers.google.com/search/docs/data-types/special-announcements).
+    
+-   **Coronavirus Aid, Relief, and Economic Security (CARES) Act**: The Treasury Department is hard at work implementing the [CARES Act](https://treasury.gov/coronavirus) to provide relief for hard working American families, small businesses, and various industries impacted by coronavirus (COVID-19). This site includes valuable resources for these groups.
+    
 
-- [**Updated: Coronavirus Guidelines for America**](https://www.whitehouse.gov/briefings-statements/coronavirus-guidelines-america/) — The White House Coronavirus Task Force has issued an updated version of this document.
-- [**Frequently Asked Questions**](https://faq.coronavirus.gov) — An interagency website, organized by the White House Coronavirus Task Force, for definitive information on the public’s most frequently asked questions. The site currently features content from the Department of Health and Human Services, Department of Homeland Security, Federal Emergency Management Agency (FEMA), Department of the Treasury, and Small Business Administration.
-- [**Small Business Resources**](https://www.coronavirus.gov/smallbusiness/) — The White House Coronavirus Task Force has provided this information on various assistance programs available to small businesses.
-- [**FEMA Rumor Control**](https://www.fema.gov/Coronavirus-Rumor-Control) — Helping the public distinguish between rumors and facts regarding the coronavirus (COVID-19) pandemic. A great resource for social media – if you see a rumor, reply back with the correct answer and link to the FEMA Rumor Control page.
-- [**FEMA How You Can Help**](https://www.fema.gov/coronavirus/how-to-help) — Learn the best way to donate, volunteer, or provide critical supplies to fight the COVID-19 pandemic.
+-   **Coronavirus Tax Relief**: The Internal Revenue Service (IRS) is offering [Coronavirus Tax Relief](http://www.irs.gov/coronavirus) for individuals, businesses, tax-exempt organizations and others affected by coronavirus (COVID-19). This includes information on Economic Impact Payments going to millions of people.
+    
+
+-   **OPM Open Opportunities**: The OPM COVID-19 Response Program is using [Open Opportunities](https://openopps.usajobs.gov/) as a central location for federal agencies to post details and temporary assignments related to coronavirus (COVID-19). Open Opportunities is a governmentwide platform offering professional development opportunities to current federal employees. If your agency is interested in participating:
+    -   Email [workforce@opm.gov](mailto:workforce@opm.gov) so OPM can invite you to a virtual information session.
+    -  Post details and temporary assignments to [Open Opportunities](https://openopps.usajobs.gov/).
+
+{{< accordion kicker="Previous update" title="**April 1, 2020**:" >}}
+
+- [**Updated: Coronavirus Guidelines for America**](https://www.whitehouse.gov/briefings-statements/coronavirus-guidelines-america/) — The White House Coronavirus Task Force has issued an updated version of this document.  
+- [**Frequently Asked Questions**](https://faq.coronavirus.gov) — An interagency website, organized by the White House Coronavirus Task Force, for definitive information on the public’s most frequently asked questions. The site currently features content from the Department of Health and Human Services, Department of Homeland Security, Federal Emergency Management Agency (FEMA), Department of the Treasury, and Small Business Administration.  
+- [**Small Business Resources**](https://www.coronavirus.gov/smallbusiness/) — The White House Coronavirus Task Force has provided this information on various assistance programs available to small businesses.  
+- [**FEMA Rumor Control**](https://www.fema.gov/Coronavirus-Rumor-Control) — Helping the public distinguish between rumors and facts regarding the coronavirus (COVID-19) pandemic. A great resource for social media – if you see a rumor, reply back with the correct answer and link to the FEMA Rumor Control page.  
+- [**FEMA How You Can Help**](https://www.fema.gov/coronavirus/how-to-help) — Learn the best way to donate, volunteer, or provide critical supplies to fight the COVID-19 pandemic.  
+
+{{< /accordion >}}
+
+
 
 ## Web Guidance
 

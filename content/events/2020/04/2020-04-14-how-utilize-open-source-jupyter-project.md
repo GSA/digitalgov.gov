@@ -29,8 +29,8 @@ topics:
 authors:
   - steven-babitch
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: 
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform: adobe_connect
 
 # YouTube ID
 youtube_id:
