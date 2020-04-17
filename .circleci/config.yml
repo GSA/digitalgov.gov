@@ -12,6 +12,7 @@ jobs:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
       - checkout
       - run: hugo -v -s ~/project
+      - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/json/
 
       # Run a step to print what branch our code base is on.
       - run:
@@ -21,7 +22,7 @@ jobs:
       # Run a step to print the Authors API path in CircleCi
       - run:
           name: "Authors API path"
-          command: echo ${HUGO_BUILD_DIR}/authors/v1/json/index.json
+          command: echo ${HUGO_BUILD_DIR}/authors/v1/json/
 
       - run:
           name: Check Authors API
