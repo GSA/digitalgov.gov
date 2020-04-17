@@ -30,7 +30,7 @@ jobs:
 
       - run:
           name: Check Authors API
-          command: curl ~/project/public/authors/v1/json/ | jq
+          command: validjson < ~/project/public/authors/v1/json/
           # command: curl https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${CIRCLE_BRANCH}/authors/v1/json/ | jq
 
       # - run:
