@@ -1,20 +1,35 @@
+{{/* set the href as a variable */}}
+{{- $href := "" -}}
+{{- if .Params.source_url -}}
+  {{- $href = (print .Params.source_url "?dg") -}}
+{{- else -}}
+  {{- $href = (print .Permalink "?dg") -}}
+{{- end -}}
+
 <div class="card card-elsewhere card-linked" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
   <div>
-    <div class="icon">
-      {{/* Favicon
-      If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
-      {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
-      {{- if $source -}}
-        {{- if $source.Params.logo -}}
-          {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
-          <img src="{{ $src | relURL }}" alt="{{- $source.Params.name -}} logo">
-        {{- end -}}
 
-      {{/* Otherwise, use the Favicon that Google stores for the site. */}}
-      {{- else -}}
-        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo">
-      {{ end }}
-    </div>
+    {{/* Logos
+    Get the "source" in the file and looks up the icon that is used there.
+    See services/card-service.html for the logo template
+    */}}
+    
+    {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+    {{- if $source -}}
+
+      {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
+      {{- template "logo" dict "src" $src "alt" $source.Params.name "href" $href -}}
+
+    {{- else if .Params.logo -}}
+
+      {{- $src := (printf "/logos/%s%s" .Params.logo "-logo.png") -}}
+      {{- template "logo" dict "src" $src "alt" .Params.name "href" $href -}}
+
+    {{- else -}}
+
+      {{- template "logo" dict "src" "/logos/digit-gold.png" "alt" .Params.source "href" $href -}}
+
+    {{- end -}}
 
     <div class="summary">
       <p>
