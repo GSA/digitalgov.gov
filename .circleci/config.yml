@@ -6,7 +6,7 @@ jobs:
       - image: cibuilds/hugo:latest
     working_directory: ~/project/
     environment:
-      HUGO_ROOT: ~/project/
+      HUGO_ROOT: ~/project
       HUGO_BUILD_DIR: ~/project/public
 
     steps:
@@ -14,7 +14,8 @@ jobs:
       - checkout
       - run: hugo -v -s ~/project/
       - run: ls -all ~/project/
-      - run: ls -all ${HUGO_BUILD_DIR}
+      - run: ls -all ${HUGO_ROOT}/
+      - run: ls -all ${HUGO_BUILD_DIR}/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/json/
