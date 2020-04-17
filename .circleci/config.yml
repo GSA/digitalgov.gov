@@ -13,10 +13,10 @@ jobs:
       - checkout
       - run: hugo -v -s ~/project/
       - run: ls -all ~/project/
-      - run: ls -all ${HUGO_BUILD_DIR}/
-      - run: ls -all ${HUGO_BUILD_DIR}/authors/
-      - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/
-      - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/json/
+      - run: ls -all ~/project/public/
+      - run: ls -all ~/project/public/authors/
+      - run: ls -all ~/project/public/authors/v1/
+      - run: ls -all ~/project/public/authors/v1/json/
 
       # Run a step to print what branch our code base is on.
       - run:
@@ -26,11 +26,11 @@ jobs:
       # Run a step to print the Authors API path in CircleCi
       - run:
           name: "Authors API path"
-          command: echo ${HUGO_BUILD_DIR}/authors/v1/json/
+          command: echo ~/project/public/authors/v1/json/
 
       - run:
           name: Check Authors API
-          command: curl ${HUGO_BUILD_DIR}/authors/v1/json/ | jq
+          command: curl ~/project/public/authors/v1/json/ | jq
           # command: curl https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${CIRCLE_BRANCH}/authors/v1/json/ | jq
 
       # - run:
