@@ -6,6 +6,7 @@ summary: "Links to relevant laws, policies, and regulations for federal agencies
 deck: 'The relevant laws, policies, and regulations for federal agencies.'
 authors:
   - rflagg
+  - ammie-farraj-feijoo
 aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
@@ -13,7 +14,7 @@ weight: 3
 topics:
   - product-management
   - policy
-  - multilingual
+  - governance
 
 ---
 
@@ -60,6 +61,12 @@ Understand customer needs, set performance standards, collect and address custom
 * [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) (PDF, 102 KB, 9 pages, June 2010)
 
 <p class="more"><a href="{{< ref "/topics/metrics" >}}">More on Metrics <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+
+## Coordination During Incidents of National Significance
+
+Federal websites must provide timely and accurate information during incidents of national significance. During such incidents, the Department of Homeland Security has the authority to coordinate all U.S. government communications to ensure consistent public information through an integrated federal incident communications system. Coordinate emergency response-related web communications with your [Federal Web Council representative](https://digital.gov/resources/federal-web-council/#current-council-members).
+
+* [Emergency Support Function 15](https://www.fema.gov/media-library/assets/documents/34369) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/media-library/assets/documents/117791)
 
 ## Copyright
 
