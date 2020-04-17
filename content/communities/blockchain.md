@@ -21,10 +21,15 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "listserv@listserv.gsa.gov"
-    subscribe_email_body: "SUB BlockchainPublic"
+    subscribe_email_subject: "Blockchain listserv"
     members: 667
     emails_per_week:
-
+  - platform: "listserv"
+    type: public
+    subscribe_email: listserv@listserv.gsa.gov
+    subscribe_email_body: "SUB BlockchainPublic."
+    members:
+    emails_per_week:
 
 # Make it better ♥
 
