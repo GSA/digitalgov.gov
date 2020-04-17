@@ -6,7 +6,6 @@ jobs:
       - image: cibuilds/hugo:latest
     working_directory: ~/project/
     environment:
-      HUGO_ROOT: ~/project
       HUGO_BUILD_DIR: ~/project/public
 
     steps:
