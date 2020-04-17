@@ -1,7 +1,9 @@
-{{/* set the href as a variable */}}
+{{/* Sets the href as a variable */}}
 {{- $href := "" -}}
+{{/* Checks if the .Params.source_url is set */}}
 {{- if .Params.source_url -}}
   {{- $href = (print .Params.source_url "?dg") -}}
+{{/* If not, use the link to the page HUGO generates on Digital.gov */}}
 {{- else -}}
   {{- $href = (print .Permalink "?dg") -}}
 {{- end -}}
@@ -29,8 +31,6 @@
     {{- else -}}
       {{- template "logo" dict "src" "/logos/digitalgov-logo.png" "alt" "Digital.gov Logo" "href" $href -}}
     {{- end -}}
-
-
 
     <div class="summary">
       <p>
