@@ -11,6 +11,7 @@ jobs:
     steps:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
       - checkout
+      - run: ls -all ~/project/src/
       - run: hugo -v -s ~/project/src/
 
       # Run a step to print what branch our code base is on.
