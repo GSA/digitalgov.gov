@@ -6,13 +6,13 @@ title: "18F"
 deck: "We help government agencies fix technical problems, build products, and improve how government serves the public through technology."
 summary: "We help government agencies fix technical problems, build products, and improve how government serves the public through technology."
 
-
 # What source published this?
 source: '18f'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 source_url: "https://18f.gsa.gov/"
+
 
 contact: inquiries18F@gsa.gov
 
