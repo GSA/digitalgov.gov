@@ -14,7 +14,6 @@ jobs:
       - checkout
       - run: hugo -v -s ~/project/
       - run: ls -all ~/project/
-      - run: ls -all ${HUGO_ROOT}/
       - run: ls -all ${HUGO_BUILD_DIR}/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/
