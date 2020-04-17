@@ -8,7 +8,7 @@ source_url: "https://blog.usa.gov/taking-a-look-at-the-usagov-analytics-dashboar
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: usagov
+service: usagov
 slug: taking-a-look-at-usagov-analytics
 date: 2020-01-16 11:40:00 -0500
 kicker: "Analytics"

@@ -13,7 +13,7 @@ source_url: "https://pra.digital.gov/clearance-process/rules/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: pra-guide
+service: pra-guide
 
 # see all topics at https://digital.gov/topics
 topics:

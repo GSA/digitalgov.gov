@@ -7,7 +7,7 @@ source_url: "https://www.gsa.gov/blog/2020/01/22/gsa-publishes-standards-for-bui
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: gsa
+service: gsa
 
 slug: website-standards
 date: 2020-01-23 19:00:00 -0500

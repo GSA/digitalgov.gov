@@ -14,7 +14,7 @@ source_url: "https://blog.usa.gov/usagov-contact-center-five-most-popular-questi
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: usagov
+service: usagov
 
 # see all topics at https://digital.gov/topics
 topics:

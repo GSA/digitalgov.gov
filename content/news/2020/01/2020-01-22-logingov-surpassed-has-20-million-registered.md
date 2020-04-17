@@ -7,7 +7,7 @@ source_url: "https://login.gov/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: logingov
+service: logingov
 slug: logingov-surpassed-has-20-million-registered
 date: 2020-01-22 23:00:00 -0500
 title: "Login.gov has surpassed 20 million registered users"

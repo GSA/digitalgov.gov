@@ -14,7 +14,7 @@ source_url: "https://18f.gsa.gov/2019/05/29/you-might-not-be-as-agile-as-you-thi
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: 18f
+service: 18f
 
 # see all topics at https://digital.gov/topics
 topics: 

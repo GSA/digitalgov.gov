@@ -13,7 +13,7 @@ source_url: "https://medium.com/codedotgov/success-story-the-u-s-web-design-syst
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: codegov
+service: codegov
 
 # see all topics at https://digital.gov/topics
 topics:

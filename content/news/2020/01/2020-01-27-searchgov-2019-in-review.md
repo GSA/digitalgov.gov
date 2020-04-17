@@ -7,7 +7,7 @@ source_url: "https://search.gov/blog/2019-annual-review.html"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: searchgov
+service: searchgov
 slug: searchgov-2019-in-review
 date: 2020-01-27 13:00:00 -0500
 title: "Search.gov: 2019 in Review"

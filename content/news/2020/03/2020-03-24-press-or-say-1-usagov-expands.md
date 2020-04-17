@@ -7,11 +7,11 @@ source_url: "https://blog.usa.gov/press-or-say-1-usagov-expands-its-use-of-inter
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: usagov
+service: usagov
 slug: press-or-say-1-usagov-expands
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url:
 date: 2020-03-24 18:00:00 -0500
 kicker: "Contact Centers"
 title: "Press or Say 1: USAGov Expands Its Use of Interactive Voice Response"
@@ -19,17 +19,13 @@ deck: "<strong>In 2019, USA.gov received nearly half a million calls!</strong> R
 summary: "<strong>In 2019, USA.gov received nearly half a million calls!</strong> To help callers get answers for basic questions more quickly, and to save money and free-up our contact center agents to handle more complicated questions, the USAGov Contact Center recently added more interactive voice response (IVR) messaging."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - contact-centers
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - marietta-jelks
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
 
 # Make it better ♥
 ---

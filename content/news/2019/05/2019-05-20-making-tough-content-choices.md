@@ -14,7 +14,7 @@ source_url: "https://revenuedata.doi.gov/blog/making-tough-content-choices/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: doi-revenuedata
+service: doi-revenuedata
 
 # see all topics at https://digital.gov/topics
 topics:

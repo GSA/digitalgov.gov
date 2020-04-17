@@ -14,7 +14,7 @@ source_url: "https://coe.gsa.gov/2019/12/17/cx-update-16.html"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: coe
+service: coe
 
 # see all authors at https://digital.gov/authors
 authors:

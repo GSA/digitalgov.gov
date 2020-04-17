@@ -14,7 +14,7 @@ source_url: "https://digital.gov/communities/uswds/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: uswds
+service: uswds
 
 # see all topics at https://digital.gov/topics
 topics:

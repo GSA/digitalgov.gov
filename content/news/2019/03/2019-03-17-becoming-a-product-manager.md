@@ -9,6 +9,6 @@ topics:
   - product-management
   - project-management
 
-source: 'doi-revenuedata'
+service: 'doi-revenuedata'
 source_url: 'https://revenuedata.doi.gov/blog/becoming-a-product-manager/'
 ---

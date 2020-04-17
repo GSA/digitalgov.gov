@@ -9,7 +9,7 @@ topics:
   - us-digital-service
   - social-media
 
-source: 'usds'
+service: 'usds'
 source_url: 'https://www.instagram.com/usdigitalservice/'
 
 ---

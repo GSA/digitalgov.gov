@@ -7,7 +7,7 @@ source_url: "https://18f.gsa.gov/2020/02/06/even-with-a-design-system-you-still-
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: 18f
+service: 18f
 slug: even-with-a-design-system-you
 
 # Short URL — https://go.usa.gov/
