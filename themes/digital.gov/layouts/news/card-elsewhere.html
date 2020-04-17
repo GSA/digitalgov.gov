@@ -35,12 +35,12 @@
     <div class="summary">
       <p>
         {{- if .Params.deck -}}{{- .Params.deck | markdownify | emojify -}}{{- end -}}
-        {{- if $source -}}
+        {{- if $service -}}
           {{ $url := urls.Parse .Params.source_url }}
-          <em class="source">— via <a href="{{- $source.Params.domain -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
+          <em class="source">— via <a href="{{- $service.Params.source_url -}}" title="Read at {{ $service.Params.title -}}">{{- $service.Params.title -}}</a></em>
         {{ end }}
       </p>
-      {{- if $source -}}
+      {{- if $service -}}
         {{ $url := urls.Parse .Params.source_url }}
         <p class="domain"></p>
       {{ end }}

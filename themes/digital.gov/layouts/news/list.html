@@ -59,7 +59,7 @@
 
               {{- if eq .Type "news" -}}
                 {{/* External links */}}
-                {{- if .Params.source -}}
+                {{- if .Params.service -}}
                   {{/* see /layouts/news/ for card templates */}}
                   {{ .Render "card-elsewhere"}}
                 {{ else }}
