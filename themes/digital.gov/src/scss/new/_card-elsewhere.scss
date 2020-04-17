@@ -6,7 +6,7 @@
 	}
 	// See services/card-service.html for the logo template
 	.logo{
-		@include u-margin-right(2);
+		@include u-margin-right('205');
 		@include u-square(7);
 		@include at-media('mobile-lg'){
 			@include u-square(7);
