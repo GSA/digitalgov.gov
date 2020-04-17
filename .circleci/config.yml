@@ -4,15 +4,17 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~/project
+    working_directory: ~/
     environment:
-      HUGO_BUILD_DIR: ~/project/public
+      HUGO_ROOT: ~/public
+      HUGO_BUILD_DIR: ~/public
 
     steps:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
       - checkout
       - run: hugo
-      - run: ls -all ${HUGO_BUILD_DIR}/
+      - run: ls -all ${HUGO_ROOT}
+      - run: ls -all ${HUGO_BUILD_DIR}
       - run: ls -all ${HUGO_BUILD_DIR}/authors/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/
       - run: ls -all ${HUGO_BUILD_DIR}/authors/v1/json/
