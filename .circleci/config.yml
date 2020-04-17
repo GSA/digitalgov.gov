@@ -3,6 +3,7 @@ version: 2
 jobs:
   build:
     docker:
+      - image: circleci/node:13.8.0-buster
       - image: cibuilds/hugo:latest
     working_directory: ~/project/
     environment:
