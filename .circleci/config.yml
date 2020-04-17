@@ -3,6 +3,7 @@ version: 2
 jobs:
   build:
     docker:
+      - image: circleci/node:latest
       - image: cibuilds/hugo:latest
     working_directory: ~/project/
     environment:
@@ -10,27 +11,39 @@ jobs:
 
     steps:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
+
       - checkout
-      - run: hugo -v -s ~/project/
-      - run: ls -all ~/project/
-      - run: ls -all ~/project/public/
-      - run: ls -all ~/project/public/authors/
-      - run: ls -all ~/project/public/authors/v1/
-      - run: ls -all ~/project/public/authors/v1/json/
 
       # Run a step to print what branch our code base is on.
       - run:
           name: "What branch am I on?"
           command: echo ${CIRCLE_BRANCH}
 
-      # Run a step to print the Authors API path in CircleCi
       - run:
-          name: "Authors API path"
-          command: echo ~/project/public/authors/v1/json/
+          name: Update NPM
+          command: 'sudo npm install -g npm@latest'
+
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+
+      - run:
+          name: npm install
+          command: 'npm install'
+
+      - save_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+          paths:
+            - node_modules
+
+      - run: hugo -v -s ~/project/
+
+      - run:
+          name: Check Authors API | validjson
+          command: validjson < ~/project/public/authors/v1/json/
 
       - run:
           name: Check Authors API | cat
-          command: cat ~/project/public/authors/v1/json/index.json | jq
+          command: cat ~/project/public/authors/v1/json/ | jq
           # command: curl https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.app.cloud.gov/preview/gsa/digitalgov.gov/${CIRCLE_BRANCH}/authors/v1/json/ | jq
 
       # - run:
