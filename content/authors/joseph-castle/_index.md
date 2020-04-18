@@ -15,7 +15,7 @@ pronoun: "he/him"
 email: joseph.castle@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Joseph Castle serves as the Director of Code.gov where he is responsible for the implementation of the White House’s Federal Source Code Policy (FSCP). His duties with Code.gov include the development of the technical platform and federal agency progress with policy implementation. Mr. Castle served in the Obama Administration, is a recent Fed100 recipient, and a Ph.D. candidate with a dissertation focused on OSS publication in the federal sector."
+bio: "Joseph Castle serves as the Product Owner & Front-End Engineer of Code.gov where he is responsible for maintaining the Code.gov website and overseeing federal agency implementation of the White House’s Federal Source Code Policy. Dr. Castle earned his PhD from Virginia Tech and his dissertation focused on OSS publication in the federal sector. He served in the Obama Administration, is a U.S. Army veteran, and a Fed100 recipient."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: "https://www.linkedin.com/in/jrcastle/"
