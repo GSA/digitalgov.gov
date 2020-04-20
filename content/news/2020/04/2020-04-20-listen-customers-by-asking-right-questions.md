@@ -51,6 +51,8 @@ This requirement really means that we need to [listen](https://designsystem.digi
 
 What are some of the **right questions** that we can ask to [discover](https://methods.18f.gov/discover/) what our customers want and need?
 
+---
+
 ## Four Questions to Help Discover What Customers Want and Need
 
 Consider the following four questions, based on the U.S. Web Design System’s [Listen design principle](https://designsystem.digital.gov/design-principles/#listen).
