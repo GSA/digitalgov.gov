@@ -26,13 +26,13 @@ authors:
 
 ---
 
-### Join
+## Join
 
 To join, send an email to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20open-data) with nothing in the subject, and body content containing "subscribe open-data."
 
 [Read more about the Open Data Working Group »](https://project-open-data.cio.gov/working-group/)
 
-### Who we are
+## Who we are
 
 A community listserv and working group that unites 900 open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.
 
