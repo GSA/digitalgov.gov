@@ -12,7 +12,7 @@ deck: "Three tips to tidy up the content on federal websites"
 summary: "This week, we’re providing a few tips for tidying up redundant, outdated, and trivial content."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - 21st-century-idea
   - content
   - content-strategy
@@ -26,16 +26,11 @@ topics:
   - seo
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - ammie-farraj-feijoo
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card-wk3"
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
 
 # Make it better ♥
 
@@ -47,7 +42,7 @@ weight: 1
 
 Welcome to This Week’s IDEA, where we talk about one essential topic around [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) and share resources and tools that you can use to start making small, incremental changes to your websites and digital services.
 
-Did you know that 90% of data is never accessed again 90 days after it is first stored? Eighty percent of downloaded apps are never used again after 90 days? Ninety percent of data has been created in the last two years? 
+Did you know that 90% of data is never accessed again 90 days after it is first stored? Eighty percent of downloaded apps are never used again after 90 days? Ninety percent of data has been created in the last two years?
 
 According to Gerry McGovern, author of several books about [top tasks](https://digital.gov/event/2018/04/11/a-deep-dive-into-top-tasks-with-gerry-mcgovern/), we should delete 90% of the information on a typical website to make the site useful. And use [plain language](https://www.plainlanguage.gov/) to make the remaining information more effective—1,000 words can often be [edited down](https://www.plainlanguage.gov/examples/before-and-after/) to 200 to make it more effective and easier to understand.
 
@@ -57,7 +52,7 @@ Your website exists to deliver good content to your visitors. You need to unders
 
 ## Three Tips for Tidying Up Content
 
-To make your content work better, follow these three tips, which are adapted from the [content plays](https://www.usda.gov/digital-strategy/content/plays) in the [USDA Digital Strategy Playbook](https://www.usda.gov/digital-strategy). 
+To make your content work better, follow these three tips, which are adapted from the [content plays](https://www.usda.gov/digital-strategy/content/plays) in the [USDA Digital Strategy Playbook](https://www.usda.gov/digital-strategy).
 
 ### Tip 1. Edit Your Content for Plain Language
 
@@ -74,7 +69,7 @@ Visit [PlainLanguage.gov](https://www.plainlanguage.gov/) for more information o
 
 ### Tip 2. Audit Your Content
 
-Audit your content to understand what content you currently have, identify gaps that exist, and prioritize improvements. 
+Audit your content to understand what content you currently have, identify gaps that exist, and prioritize improvements.
 
 After you set the goals and scope of your audit, you’ll need to collect and analyze data. See, for example, this [sample spreadsheet to audit content](https://www.usda.gov/sites/default/files/documents/content-audit-template.xlsx) (.xlsx, 19 kb, two tabs).
 
@@ -88,7 +83,7 @@ Optimize the content on your site to ensure customers can find your content when
 - Registering your site with the major commercial search engines; and
 - Publishing an [XML sitemap](https://search.gov/manual/sitemaps.html).
 
-Visit [Search.gov](https://www.search.gov/) for more tips on [how to get search engines to index the right content for better discoverability](https://www.search.gov/manual/how-search-engines-index-content-better-discoverability.html). 
+Visit [Search.gov](https://www.search.gov/) for more tips on [how to get search engines to index the right content for better discoverability](https://www.search.gov/manual/how-search-engines-index-content-better-discoverability.html).
 
 ## Up Next
 
@@ -97,11 +92,11 @@ Visit [Search.gov](https://www.search.gov/) for more tips on [how to get search 
 
 ## From the Field
 
-“Agencies are encouraged to update their .gov websites to the greatest extent practicable to provide agency service delivery information to Federal Government consumers and to direct Federal Government consumers to the appropriate digital and telephonic resources to obtain needed services. We also encourage agencies to assess the usability of its digital resources, and to improve user centered design and customer service aspects of its websites, web applications, and other citizen-facing interfaces.” 
+“Agencies are encouraged to update their .gov websites to the greatest extent practicable to provide agency service delivery information to Federal Government consumers and to direct Federal Government consumers to the appropriate digital and telephonic resources to obtain needed services. We also encourage agencies to assess the usability of its digital resources, and to improve user centered design and customer service aspects of its websites, web applications, and other citizen-facing interfaces.”
 
-[OMB 20-19, Harnessing Technology to Support Mission Continuity](https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-19.pdf) (PDF, 195 KB, 5 pages, March 22, 2020) 
+[OMB 20-19, Harnessing Technology to Support Mission Continuity](https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-19.pdf) (PDF, 195 KB, 5 pages, March 22, 2020)
 
-*** 
+***
 
 Do you have a 21st Century IDEA-related comment or question? Or would you like to give a shout out to your colleagues? Send it to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we’ll work to incorporate it into the next newsletter.
 
