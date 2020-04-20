@@ -60,14 +60,17 @@ gulp.task("write-data-file", gulp.series('clean-inbox', function (done) {
       var format = file.path.split('.').pop();
       var dimensions = sizeOf(file.path);
       var img_data = [
+        "# This image is available at:",
+        "# https://s3.amazonaws.com/digitalgov/" + uid + "." + format + "\n",
+        "# Image shortcode: {{< img src=\"" + uid + "\" >}}\n",
         "date     : " + get_curr_date(),
         "uid      : " + uid,
         "width    : " + dimensions.width,
         "height   : " + dimensions.height,
         "format   : " + format,
-        "credit   : ",
-        "caption  : ",
-        "alt      : "
+        "credit   : \"\" ",
+        "caption  : \"\" ",
+        "alt      : \"\" "
       ].join("\n");
       fs.writeFile('data/images/'+ uid +'.yml', img_data, function(){
         console.log('image file written');

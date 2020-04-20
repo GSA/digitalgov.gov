@@ -1,24 +1,41 @@
 ---
+# View this page at https://digital.gov/event/2018/11/fedramps-resources-for-3paos
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramps-resources-for-3paos
-title: 'FedRAMP&#39;s Resources for 3PAOs'
-summary: 'Come and learn more about the recent updates to fedramp&#46;gov and the resources available to help you through the FedRAMP authorization process&#46;'
-featured_image:
-  uid: featued-301-x-212-fedramp-2017-5th-anniversary-logo
-  alt: ''
-event_type:
-  - youtube-live
-  - online
-date: 2018-11-15 14:00:00 -0500
-end_date: 2018-11-15 15:00:00 -0500
-event_organizer: DigitalGov University
-host: FedRAMP
+title: "FedRAMP's Resources for 3PAOs"
+deck: ""
+summary: "Come and learn more about the recent updates to fedramp.gov and the resources available to help you through the FedRAMP authorization process."
+host: "FedRAMP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/fedramps-resources-for-3paos-registration-51525265456
-youtube_id: RTVrSikRqus
 captions: https://www.captionedtext.com/client/event.aspx?EventID=3794709&CustomerID=321
-aliases:
-  - /event/2018/11/12/fedramps-resources-for-3paos/
-topics:
+
+# start date
+date: 2018-11-15 14:00:00 -0500
+
+# end date
+end_date: 2018-11-15 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - fedramp
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - ryan-hoesing
+
+# YouTube ID
+youtube_id: RTVrSikRqus
+
+# Primary Image (for social media)
+primary_image: "featued-301-x-212-fedramp-2017-5th-anniversary-logo"
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/2018/11/12/fedramps-resources-for-3paos/
+
+# Make it better ♥
+
 ---
 
 {{< img-right src="featued-301-x-212-fedramp-2017-5th-anniversary-logo" >}}

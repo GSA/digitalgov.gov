@@ -4,8 +4,8 @@
 slug: open-source
 date: 2020-01-29 15:00:00 -0500
 title: "Open Source"
-deck: "A community of developers, managers, and individuals interested in open source software in the federal government."
-summary: "A community of developers, managers, and individuals interested in open source software in the federal government."
+deck: "A federal government community interested in source code and open source software (OSS)."
+summary: "A federal government community interested in source code and open source software (OSS)."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -30,15 +30,17 @@ community_list:
 
 ---
 
-We are a community of federal government developers, managers, and individuals interested in open source software. We support the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov/) (OMB Memo M-16-21) and associated technology platform, [Code.gov](https://code.gov/).
+We are a community of federal government employees and contractors interested source code and open source software (OSS). We support the implementation of the [Federal Source Code Policy (FSCP)](https://sourcecode.cio.gov/) and associated technology platform [Code.gov](https://code.gov/).
 
 ## What we do
 
-We help answer questions and offer solutions concerning open source software. We support keeping Code.gov current with federal source code and content for working with open source code.
+We support federal agency implementation of the FSCP. Accorinding to the FSCP, agencies are required to create their own source code policy, update acquisition language to capture new custom code, and create a source code inventory and encouraged to open sourcing a portion of the inventory.
+
+We have a listserv with approximately 650+ agency members interested in federal software and hold an agency-wide community-of-pracitce (CoP) monthly meeting on the third Thursday of the month. Through the Code.gov website and API, we facilitate aggregatation of agency source code for sharing across agencies and with the public.
 
 ## Who we are
 
-We are developers and open source experts, dedicated to helping you with any questions or concerns you may have about open source in the federal government. Curious about something regarding open source software or Code.gov? Ask us.
+We are developers and open source experts, dedicated to helping you with any questions or concerns you may have about source code and OSS in the federal government. Curious about something regarding open source software or Code.gov? Ask us.
 
 ## Community managers
 Joseph Castle, Washington, DC.
