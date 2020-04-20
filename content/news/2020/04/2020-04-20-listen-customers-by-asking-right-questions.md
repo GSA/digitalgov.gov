@@ -24,6 +24,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors: 
   - ammie-farraj-feijoo
+  - rhett-skelton
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card-wk2"
