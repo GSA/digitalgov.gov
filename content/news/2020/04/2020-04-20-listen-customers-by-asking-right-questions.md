@@ -4,7 +4,7 @@
 slug: listen-customers-by-asking-right-questions
 
 # Short URL — https://go.usa.gov/
-short_url:
+short_url: https://go.usa.gov/xvNjZ
 date: 2020-04-20 14:00:00 -0500
 kicker: "This Week's IDEA"
 title: "Listen to Customers by Asking the Right Questions"
