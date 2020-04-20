@@ -39,7 +39,7 @@ weight: 1
 
 {{< card-quote text="If you do not know how to ask the right question, you discover nothing." cite="W. Edwards Deming" >}}
 
-{{< img-right src="this-weeks-idea-icon-wk1" >}}
+{{< img-right src="this-weeks-idea-icon-wk2" >}}
 
 Welcome to This Week’s IDEA, where we talk about one essential topic around [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) and share resources and tools that you can use to start making small, incremental changes to your websites and digital services. 
 
