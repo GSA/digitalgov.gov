@@ -13,6 +13,7 @@ authors:
 topics:
   - product-management
   - 21st-century-idea
+  - this-weeks-idea
 
 ---
 
