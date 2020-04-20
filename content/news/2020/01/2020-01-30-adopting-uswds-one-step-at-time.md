@@ -18,6 +18,7 @@ topics:
   - product-management
   - uswds
   - 21st-century-idea
+  - this-weeks-idea
 
 # see all authors at https://digital.gov/authors
 authors:
