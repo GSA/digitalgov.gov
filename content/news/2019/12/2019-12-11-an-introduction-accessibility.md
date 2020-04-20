@@ -10,6 +10,7 @@ authors:
 topics:
   - accessibility
   - 21st-century-idea
+  - this-weeks-idea
 featured_image:
   uid: this-weeks-idea-card
   alt: ''
