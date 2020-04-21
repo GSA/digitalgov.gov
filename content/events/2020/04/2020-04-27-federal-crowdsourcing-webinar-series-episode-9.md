@@ -54,7 +54,7 @@ Participants will learn how:
  - The hub plays a role by granting access to archivists, historians, and their expertise when research rooms and other physical locations are closed.
  - You and your staff can join and participate.
  
- ## Presenters:
+## Presenters:
 
 **Kelly Osborn** is a community manager and web developer in the Office of Innovation at NARA. Prior to joining the National Archives, she was a web developer for the publishers of The Atlantic and Science, as well as the Smithsonian's American Art Museum.
 
