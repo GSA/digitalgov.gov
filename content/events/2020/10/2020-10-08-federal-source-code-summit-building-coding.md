@@ -2,8 +2,6 @@
 # View this page at https://digital.gov/event/2020/04/federal-source-code-summit-building-coding
 # Learn how to edit our pages at https://workflow.digital.gov
 
-draft: true
-
 slug: federal-source-code-summit-building-coding
 title: "Federal Source Code Summit: Building a Source Code Community"
 deck: ""
@@ -14,19 +12,16 @@ registration_url: https://www.eventbrite.com/e/95629579647
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4344805&CustomerID=321
 
 # start date
-date: 2020-04-16 8:30:00 -0500
+date: 2020-10-08 8:30:00 -0500
 
 # end date
-end_date: 2020-04-16 12:15:00 -0500
+end_date: 2020-10-08 12:15:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
   - code
   - open-source
   - security
-
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
 
 # YouTube ID
 youtube_id:
@@ -40,6 +35,10 @@ state: "DC"
 zip: "20006"
 country: ""
 map: ""
+
+# Redirects
+aliases:
+  - /event/2020/04/federal-source-code-summit-building-coding
 
 # Make it better ♥
 
