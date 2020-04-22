@@ -31,10 +31,11 @@ In this session you will hear from the digital experts at Census, General Servic
 
 ## Agenda
 
--   **12:30 - 1:00 pm ET** "Social Media and Crisis Communications: Case Study" - Department of State, Bureau of Educational & Cultural Affairs (Asha Beh)
--   **1:00 to 1:15** “Update on Census 2020 Social Media” - Census (James M. Roberts) 
--   **1:15 to 1:30** “How to Get 100+ Social Media Accounts on Message” - General Services Administration (Gabrielle Perret)
-- **1:30 to 2:15** "Using humor and beauty to connect with your audience and build community" Department of Interior, National Park Service, Fish and Wildlife Service (Danielle Brigida, Matthew Turner, and Holly Richards)
+ - "Crisis Communications" Tips for Social Media - **Asha Beh and Katie Stasa**, Department of State, Bureau of Educational & Cultural Affairs
+ - Update on Census 2020 Social Media - **James Roberts**, Census
+ - "How to get 100+ social media satellite accounts on message" - **Gabrielle Perret**, General Services Administration
+ - "Using humor and beauty to connect with your audience and build community" - **Danielle Brigida, Matthew Turner, and Holly Richards**, Department of Interior, National Park Service, Fish and Wildlife Service
+ - "Finding an appropriate tone on social in a crisis" **Leila Kamgar and Caroline Agsten**, State Department Foreign Service Institute
 
 ---
 
