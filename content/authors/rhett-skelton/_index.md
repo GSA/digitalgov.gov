@@ -40,7 +40,7 @@ profile_photo: ""
 twitter: ""
 facebook: ""
 instagram: ""
-linkedin: "https://www.linkedin.com/in/rhettskelton/"
+linkedin: "rhettskelton"
 youtube: ""
 
 # Make it better ♥
