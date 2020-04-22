@@ -4,7 +4,7 @@
 slug: strengthen-your-organizations-vision-through-collaboration
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xvnTu
 date: 2020-04-22 16:00:00 -0500
 title: "Strengthen Your Organization's Vision Through Collaboration"
 deck: "Build community _with_ people who will be adopting new technologies."
