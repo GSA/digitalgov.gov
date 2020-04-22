@@ -4,8 +4,8 @@
 
 # slug — the specific user-id for an author.
 slug: christopher-chip-crane
-display_name: "Christopher "Chip" Crane"
-first_name: "Christopher "Chip""
+display_name: "Christopher 'Chip' Crane"
+first_name: "Christopher 'Chip'"
 last_name: "Crane"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
