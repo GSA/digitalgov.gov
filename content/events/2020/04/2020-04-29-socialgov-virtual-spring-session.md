@@ -35,7 +35,7 @@ In this session you will hear from the digital experts at Census, General Servic
  - Update on Census 2020 Social Media - **James Roberts**, Census
  - "How to get 100+ social media satellite accounts on message" - **Gabrielle Perret**, General Services Administration
  - "Using humor and beauty to connect with your audience and build community" - **Danielle Brigida, Matthew Turner, and Holly Richards**, Department of Interior, National Park Service, Fish and Wildlife Service
- - "Finding an appropriate tone on social in a crisis" **Leila Kamgar and Caroline Agsten**, State Department Foreign Service Institute
+ - "Finding an appropriate tone on social in a crisis" - **Leila Kamgar and Caroline Agsten**, State Department Foreign Service Institute
 
 ---
 
