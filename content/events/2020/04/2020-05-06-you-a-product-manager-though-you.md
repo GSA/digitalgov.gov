@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/100006588398
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4379399&CustomerID=321
 
 # start date
-date: 2020-04-07 14:00:00 -0500
+date: 2020-05-06 14:00:00 -0500
 
 # end date
-end_date: 2020-04-07 15:00:00 -0500
+end_date: 2020-05-06 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -25,6 +25,10 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: 
+
+# Redirects
+aliases:
+  - /2020/04/you-a-product-manager-though-you
 
 # Make it better ♥
 
