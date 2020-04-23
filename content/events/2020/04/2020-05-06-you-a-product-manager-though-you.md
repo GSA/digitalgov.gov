@@ -28,16 +28,11 @@ youtube_id:
 
 # Redirects
 aliases:
-  - /2020/04/you-a-product-manager-though-you
+  - /2020/04/07/you-a-product-manager-though-you/
 
 # Make it better ♥
 
 ---
-
-{{< note >}}
-**April 7, 2020:** This event has been cancelled and will be rescheduled soon for a later date. 
-If you have already registered for this event, check your email for updates from digitalgovu@gsa.gov. 
-{{< /note >}}
 
 Government employees encounter problems to solve on a daily basis. Maybe you need to define and implement new services for people eligible for a government program, or identify a process improvement that saves time, money, or resources. Often, these solutions involve software products. We've seen our fair share of failed government projects in the news. We’ve also seen many great digital services that serve citizens so well that they become a reminder that the government is on your side. In our experience, these successes result from project teams shifting their mindset to product thinking.
 
