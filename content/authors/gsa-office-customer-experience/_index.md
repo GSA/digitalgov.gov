@@ -15,8 +15,7 @@ pronoun: ""
 email: customerexperience@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Our mission is to improve the end-to-end experience of GSA customers by aligning operations to customer needs. We do this by working across GSA to achieve major goals based on customer data, collaborating with teams to better understand agency customers’ needs and ensuring consistent customer experiences enterprise-wide, developing and strengthening our agency’s customer experience abilities and processes, and prototyping future products and processes to gather the user feedback we need to evaluate and refine big ideas.
-"
+bio: "Our mission is to improve the end-to-end experience of GSA customers by aligning operations to customer needs. We do this by working across GSA to achieve major goals based on customer data, collaborating with teams to better understand agency customers’ needs and ensuring consistent customer experiences enterprise-wide, developing and strengthening our agency’s customer experience abilities and processes, and prototyping future products and processes to gather the user feedback we need to evaluate and refine big ideas."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: https://www.gsa.gov/about-us/organization/office-of-customer-experience
