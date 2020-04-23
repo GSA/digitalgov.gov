@@ -5,7 +5,7 @@ slug: a-guide-for-agencies-building-cx
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-04-24 19:000:00 -0500
+date: 2020-04-24 10:00:00 -0500
 kicker: "Customer Experience"
 title: "A Guide For Agencies Building CX Capacity"
 deck: ""
