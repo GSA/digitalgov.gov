@@ -6,8 +6,10 @@
   "scripts": {
     "set-env": "gulp set-env",
     "local-build": "gulp build-assets && gulp watch",
+    "server-build": "gulp build-assets",
     "hugo": "hugo serve",
-    "federalist": "gulp build-assets && hugo build",
+    "hugo-build": "hugo build",
+    "federalist": "npm-run-all --parallel set-env server-build hugo-build",
     "start": "npm-run-all --parallel set-env local-build hugo",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
