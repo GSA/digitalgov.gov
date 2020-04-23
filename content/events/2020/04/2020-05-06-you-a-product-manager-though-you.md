@@ -5,7 +5,7 @@ slug: you-a-product-manager-though-you
 title: "You Are a Product Manager (Though You May Not Know It)"
 deck: ""
 summary: "We will define product management, discuss how it's used in the government context through a case study, and arm listeners with practices to use and evangelize product thinking."
-host: "18F Product Chapter "
+host: "18F Product Chapter"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/100006588398
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4379399&CustomerID=321
