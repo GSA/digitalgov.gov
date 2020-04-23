@@ -26,7 +26,7 @@ topics:
   - open-source
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
+event_platform: 
 
 # YouTube ID
 youtube_id: G3fk3cJci0I

@@ -16,6 +16,9 @@ date: 2020-04-22 14:00:00 -0500
 # end date
 end_date: 2020-04-22 15:00:00 -0500
 
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform: google
+
 # see all topics at https://digital.gov/topics
 topics: 
   - product-management
