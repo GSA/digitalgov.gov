@@ -26,7 +26,7 @@ authors:
   - brian-fox
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
+event_platform:
 
 # YouTube ID
 youtube_id: 2sOwbF7azGA
