@@ -20,8 +20,6 @@ end_date: 2020-04-27 15:00:00 -0500
 topics: 
   - crowdsourcing
   - open-data
-  - research
-  - innovation
 
 # see all authors at https://digital.gov/authors
 authors: 
