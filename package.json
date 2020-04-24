@@ -4,14 +4,15 @@
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
   "scripts": {
-    "local-build": "gulp build-assets && gulp watch",
-    "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve",
     "federalist": "export NODE_ENV=production && gulp build-assets",
+    "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve",
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint": "hugo && run-p lint:*",
-    "start": "npm-run-all --parallel local-build hugo",
-    "test:pa11y": "pa11y-ci --config .pa11yci"
+    "local-build": "gulp build-assets && gulp watch",
+    "start": "npm-run-all --parallel local-build hugo workflow",
+    "test:pa11y": "pa11y-ci --config .pa11yci",
+    "workflow": "npx netlify-cms-proxy-server"
   },
   "directories": {
     "doc": "docs"
