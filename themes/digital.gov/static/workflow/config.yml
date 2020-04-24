@@ -1,7 +1,7 @@
 display_url: https://digital.gov
 site_url: https://digital.gov
 
-# logo_url — sets the logo in the /admin
+# logo_url — sets the logo in the Workflow admin
 # logo_url: https://digital.gov/img/digit-150.png
 logo_url: https://digital.gov/logos/digitalgov-logo.png
 
@@ -23,14 +23,18 @@ backend:
     deleteMedia: 'Delete "{{path}}"'
     openAuthoring: '{{message}}, {{author-login}}'
 
+
 # Enables the NetlifyCMS editorial workflow tools
 publish_mode: editorial_workflow
 
+
+# MEDIA IS NOT BEING USED AT THIS TIME
 # Media / Images
 # This is where media will be stored in the repo
 media_folder: "static/media"
 # Path for uploaded media on the live site
 public_folder: "/media"
+
 
 # slug — sets how filenames for entries are created and sanitized.
 slug:
@@ -40,14 +44,15 @@ slug:
 
 # Localhost Editing
 # uses the local proxy server port
+# This is configured to run in our `npm start` script, defined in packages.json
 local_backend:
-  url: http://localhost:1313/api/v1
+  url: http://localhost:8081/api/v1
 
 # Content Collections
 collections:
 
   # AUTHORS =======================
-  - name: "authors" # Used in routes, e.g., /admin/collections/blog
+  - name: "authors" # Used in routes, e.g., /workflow/collections/blog
     label: "Authors" # Used in the UI
     label_singular: 'Author'
     description: "TKTK"
