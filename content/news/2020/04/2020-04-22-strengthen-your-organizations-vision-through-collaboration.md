@@ -41,7 +41,7 @@ What does this mean for [IT Modernization](https://www.meritalk.com/articles/gsa
 
 Check out the following “wisdom gems” we put together from our experience working across federal agencies. We encourage you to try them!
 
-## Wisdom Gem 1: Vision & Mission: There’s a Difference
+## Wisdom Gem 1: Vision & Mission&mdash;There’s a Difference
 
 Government agencies are mission-based. Yet goals, objectives, missions, and visions often get confused. Clarify the difference.  
 
@@ -59,7 +59,7 @@ As a leader, you can create space for people to share their viewpoints. Bring yo
 
 Ashley Wichman, Program Analyst for Employee Engagement at TTS notes that “Facilitating a meaningful conversation between people who may see the world differently is key — this exchange, whether in times of crisis or everyday work activities, is part of what bonds us in shared purpose.” To get you started, we have published [a number of employee engagement methods that you can try (virtual or in-person) to bring people together](https://digital.gov/2020/01/22/10-employee-engagement-experiences-foster-collaboration/). 
 
-## Wisdom Gem 3: Triangulate & Align
+## Wisdom Gem 3: Triangulate and Align
 
 After gathering input from your stakeholders, it’s time to bring your core vision to life. 
 
