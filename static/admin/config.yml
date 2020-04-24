@@ -81,6 +81,10 @@ collections:
         widget: "string"
         hint: "TKTK"
 
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+
       - label: "Pronoun"
         name: "pronoun"
         widget: "string"
@@ -109,12 +113,14 @@ collections:
         name: "agency_full_name"
         widget: "string"
         hint: "e.g. U.S. General Services Administration"
+        comment: "# Agency Full Name [e.g. U.S. General Services Administration]"
         required: false
 
       - label: "Agency Acronym"
         name: "agency"
         widget: "string"
         hint: "e.g. GSA"
+        comment: "# Agency Acronym [e.g., GSA]"
         required: false
 
       - label: "Location"
@@ -126,13 +132,13 @@ collections:
       - label: "GitHub ID"
         name: "github"
         widget: "string"
-        hint: "[e.g. 'jeremyzilar'] — We'll use your GitHub profile image as your author photot on Digital.gov"
+        hint: "[e.g. 'jeremyzilar'] — We'll use your GitHub profile image as your author photo on Digital.gov"
         required: false
 
       - label: "Profile Photo"
         name: "profile_photo"
         widget: "select"
-        options: ["---", "github", "digit-light", "digit-dark", "digit-pride"]
+        options: ["github", "digit-light", "digit-dark", "digit-pride"]
         hint: "TKTK"
         required: false
 
