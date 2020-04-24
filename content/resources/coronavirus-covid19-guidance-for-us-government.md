@@ -110,6 +110,18 @@ Third, __LINK TO THE <a href="#lanes-of-communication">PRIMARY LANES OF COMMUNIC
 
 Fourth, at this point, please __DO NOT CREATE A LOGO__ or any other distinct visual treatment for COVID-19. To provide for some level of consistency of presentation, a high-resolution copy of the image that CDC has been using can be found at [https://phil.cdc.gov/Details.aspx?pid=2871](https://phil.cdc.gov/Details.aspx?pid=2871).
 
+Fifth, learn more about how to update your web pages with Schema.org’s newly released tags in the post on WhiteHouse.gov, [Connecting Americans to Coronavirus Information Online](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/).
+
+Follow the guidance below to implement Schema.org tags on all relevant pages with coronavirus content:
+
+-   [Bing Webmaster special announcement specifications](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249)
+    
+-   [Google Search Console best practices for health websites](https://support.google.com/webmasters/answer/9781983?hl=en)
+    
+-   [Google tips on adding structured data to COVID-19 announcements](https://developers.google.com/search/docs/data-types/special-announcements)
+    
+-   [Schema.org Special Announcement](https://schema.org/SpecialAnnouncement)
+
 ## Lanes of Communication
 
 ### Coronavirus.gov

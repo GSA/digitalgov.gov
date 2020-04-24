@@ -21,14 +21,14 @@ topics:
   - product-management
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform:
+event_platform: 
 
 # YouTube ID
 youtube_id: 
 
 # Redirects
 aliases:
-  - /2020/04/07/you-a-product-manager-though-you/
+  - /event/2020/04/07/you-a-product-manager-though-you/
 
 # Make it better ♥
 

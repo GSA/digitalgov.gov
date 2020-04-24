@@ -6,6 +6,7 @@ slug: strengthen-your-organizations-vision-through-collaboration
 # Short URL — https://go.usa.gov/
 short_url: https://go.usa.gov/xvnTu
 date: 2020-04-22 16:00:00 -0500
+kicker: "How We Work"
 title: "Strengthen Your Organization's Vision Through Collaboration"
 deck: "Build community _with_ people who will be adopting new technologies."
 summary: "Inclusive visioning helps accelerate successful outcomes. To help agencies innovate from within, bring people together to make big IT Modernization strategies come to fruition."
