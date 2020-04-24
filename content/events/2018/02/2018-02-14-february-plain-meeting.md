@@ -7,7 +7,7 @@ event_type:
 date: 2018-02-14 14:00:00 -0500
 end_date: 2018-02-14 15:30:00 -0500
 event_organizer: DigitalGov University
-host: PLAIN Language
+host: 
 registration_url: https://www.eventbrite.com/e/february-plain-monthly-meeting-registration-42365715997
 venue:
   venue_name: U.S. General Services Administration
