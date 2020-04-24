@@ -95,7 +95,7 @@ A procurement run in this fashion allows the government to obtain one or more us
 
 This is achieved by using a standardized format for procurement documentation as well as a simple, standardized process. The more standardized documentation and processes are, the faster and more consistently they can be completed.
 
-This consistency in documentation and process also allows our industry partners to know exactly what to expect in terms of boilerplate as well as we unique sections or clauses. Additionally, our project teams know exactly what they’ll be getting and what they’re committing to in terms of timing. Finally, our acquisition teams know exactly what they’ll have to optimize and execute upon to maintain the lowest possible overhead without compromising technical quality.
+This consistency in documentation and process also allows our industry partners to know exactly what to expect in terms of boilerplate as well as unique sections or clauses. Additionally, our project teams know exactly what they’ll be getting and what they’re committing to in terms of timing. Finally, our acquisition teams know exactly what they’ll have to optimize and execute upon to maintain the lowest possible overhead without compromising technical quality.
 
 ## The Award
 
@@ -109,7 +109,7 @@ The other small business, and eventual awardee, was a contractor that had previo
 
 ## What We Got in the End
 
-The solicitation began on September 9, 2019. The website was delivered fully functional as described in the user story on October 15, 2019. From writing the solicitation to delivery, the entire story took 36 days. It’s worth noting that by the time development started, we could have already begun writing the solicitation for the next story. In this case, it turned out that the simplest, one-story solution removed the pressure to rush ahead so we have not yet begun on the second story.)
+The solicitation began on September 9, 2019. The website was delivered fully functional as described in the user story on October 15, 2019. From writing the solicitation to delivery, the entire story took 36 days. It’s worth noting that by the time development started, we could have already begun writing the solicitation for the next story. In this case, it turned out that the simplest, one-story solution removed the pressure to rush ahead so we have not yet begun on the second story.
 
 Upon completion of our work, the Innovation Lab’s website was created on a specific and internal URL, using a template on [Federalist](https://federalist.18f.gov/). Three prototypes (not just the one we thought we would get within the budget we had) linked to and displayed on that URL.
 
