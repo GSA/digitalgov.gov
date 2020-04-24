@@ -28,7 +28,7 @@ youtube_id:
 
 # Redirects
 aliases:
-  - /2020/04/07/you-a-product-manager-though-you/
+  - /event/2020/04/07/you-a-product-manager-though-you/
 
 # Make it better ♥
 
