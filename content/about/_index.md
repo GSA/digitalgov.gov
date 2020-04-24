@@ -16,8 +16,7 @@ It is our job to be the experts in the problems people in government face, and s
 
 
 {{< box >}}
-## Our Guiding Principlies
-
+## Our Guiding Principles
 
 ### 1. Elevate digital literacy and understanding
 
