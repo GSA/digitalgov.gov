@@ -4,7 +4,7 @@
 slug: experimenting-with-micropurchase-threshold
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xvQ7a
 date: 2020-04-24 09:30:00 -0500
 kicker: "Acquisition"
 title: "Experimenting with the Micro-Purchase Threshold"
