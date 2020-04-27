@@ -1,3 +1,8 @@
+# ===========================
+# Netlify CMS
+# https://www.netlifycms.org/docs/
+# A full example https://github.com/netlify/netlify-cms/blob/master/dev-test/config.yml
+
 display_url: https://digital.gov
 site_url: https://digital.gov
 
@@ -48,8 +53,62 @@ slug:
 local_backend:
   url: http://localhost:8081/api/v1
 
+
+
+# ==============================================
 # Content Collections
 collections:
+
+
+
+  # EVENTS =======================
+  - name: "events" # Used in routes, e.g., /workflow/collections/blog
+    label: "Events" # Used in the UI
+    label_singular: 'Event'
+    description: "TKTK"
+    folder: "content/events" # path to the folder where files are stored
+    path: '{{slug}}' # custom file path
+    create: true # Allow users to create new documents in this collection
+    identifier_field: title # sets the field that is used to create the slug
+    slug: "{{slug}}"
+
+    # =================================
+    # Field Settings
+    # - label     — the title that will appear above the field in the editor
+    # - name      — this is the key that will be used in the front matter
+    # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
+    # - required  — all fields are required by default unless you include `required: false`
+    # - hint  — this is the helper text that occurrs below the field.
+    # Available fields: https://www.netlifycms.org/docs/widgets/#markdown
+
+    fields: # The fields for each document, usually in front matter
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        hint: "Make it good!"
+
+      - label: "Deck"
+        name: "deck"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Summary"
+        name: "summary"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Registration URL"
+        name: "registration_url"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+
+
+
+
 
   # AUTHORS =======================
   - name: "authors" # Used in routes, e.g., /workflow/collections/blog
@@ -62,19 +121,21 @@ collections:
     identifier_field: display_name # sets the field that is used to create the slug
     slug: "{{slug}}"
 
+    # =================================
     # Field Settings
     # - label     — the title that will appear above the field in the editor
     # - name      — this is the key that will be used in the front matter
     # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
     # - required  — all fields are required by default unless you include `required: false`
     # - hint  — this is the helper text that occurrs below the field.
+    # Available fields: https://www.netlifycms.org/docs/widgets/#markdown
 
     fields: # The fields for each document, usually in front matter
 
       - label: "Display Name"
         name: "display_name"
         widget: "string"
-        hint: "TKTK"
+        hint: "text below the field"
 
       - label: "First Name"
         name: "first_name"
@@ -85,10 +146,6 @@ collections:
         name: "last_name"
         widget: "string"
         hint: "TKTK"
-
-      - label: "Slug"
-        name: "slug"
-        widget: "string"
 
       - label: "Pronoun"
         name: "pronoun"
@@ -106,11 +163,13 @@ collections:
         name: "bio"
         widget: "text"
         hint: "TKTK"
+        minimal: true
+        pattern: ['.{20,}', "Must have at least 20 characters"]
         required: false
 
       - label: "Bio URL"
         name: "bio_url"
-        widget: "text"
+        widget: "string"
         hint: "Provide a full URL to where people can learn more about your work."
         required: false
 
