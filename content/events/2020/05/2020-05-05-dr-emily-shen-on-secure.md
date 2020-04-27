@@ -33,7 +33,7 @@ youtube_id:
 
 ---
 
-For many applications, organizations want to collaborate to gain insights from their collective data—but don't want to share their own data due to security and privacy concerns. Secure multi-party computation (MPC) allows parties to jointly work on their data, without giving their data to each other and without using a trusted party.
+For many applications, organizations want to collaborate to gain insights from their collective data—but don't want to share their own data due to security and privacy concerns. Secure multi-party computation (MPC) allows parties to jointly analyze their data, without giving their data to each other and without using a trusted party.
 
 While MPC techniques exist that can in theory compute any function securely, in practice, it is challenging to develop and optimize MPC for complex functions. To address this challenge, Lincoln Laboratory has developed a framework for rapidly prototyping and evaluating MPC solutions.
 
@@ -41,7 +41,7 @@ This talk will describe MPC technology, the framework developed by the Laborator
 
 ## About the Presenter
 
-**Dr. Emily Shen**, a recipient of the 2019 MIT Lincoln Laboratory Early Career Technical Achievement Award, is a technical staff member in the Laboratory's Secure Resilient Systems and Technology Group. She currently leads projects designing and developing secure multi-party computation technology for privacy-preserving collaboration. She has also worked on cryptographically-secure database search and access control.
+**Dr. Emily Shen**, is a technical staff member in MIT Lincoln Laboratory's Secure Resilient Systems and Technology Group, and a recipient of the Laboratory's 2019 Early Career Technical Achievement Award. She currently leads projects designing and developing secure multi-party computation technology for privacy-preserving collaboration. She has also worked on cryptographically-secure database search and access control.
 
 ---
 
