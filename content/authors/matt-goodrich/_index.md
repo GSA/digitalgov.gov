@@ -12,16 +12,16 @@ last_name: "Goodrich"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: matthew.goodrich@gsa.gov
+email: m
 
 # Bio — keep it under 50 words
-bio: "As FedRAMP director, Matt manages the FedRAMP PMO and sets the overall direction of the program. As a mandatory government-wide initiative, FedRAMP is one of the leading cloud computing security programs paving the way for cloud adoption and ensuring the security of cloud computing solutions used by the US government."
+bio: "As former FedRAMP director, Matt managed the FedRAMP PMO and overall direction of the program. As a mandatory government-wide initiative, FedRAMP is one of the leading cloud computing security programs paving the way for cloud adoption and ensuring the security of cloud computing solutions used by the US government."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. General Services Administration"
+agency_full_name: ""
 
 # Agency Acronym [e.g., GSA]
 agency: ""
