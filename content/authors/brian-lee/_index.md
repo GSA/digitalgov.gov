@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Senior Advisor for Informatics to Centers for Disease Control and Prevention’s Office of the Chief Information Officer where he work with data to make better technology investments to improve public health impact. Brian is the program official for open.cdc.gov and data.cdc.gov, helping public health programs across all CDC centers, institutes, and offices connect open technology with public health communities. Brian joined CDC in 2012 as the Deputy Director for the Informatics Innovation Unit and later served as the Chief Public Health Informatics Officer for the Office of Public Health Scientific Services. Brian is a self-taught programmer and holds a BBA from Georgia State University, an MPH from Emory University, and multiple certifications."
+bio: "Senior Advisor for Informatics to Centers for Disease Control and Prevention’s Office of the Chief Information Officer where he works with data to make better technology investments to improve public health impact. Brian is the program official for open.cdc.gov and data.cdc.gov, helping public health programs across all CDC centers, institutes, and offices connect open technology with public health communities. Brian joined CDC in 2012 as the Deputy Director for the Informatics Innovation Unit and later served as the Chief Public Health Informatics Officer for the Office of Public Health Scientific Services. Brian is a self-taught programmer and holds a BBA from Georgia State University, an MPH from Emory University, and multiple certifications."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
