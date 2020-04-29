@@ -49,15 +49,15 @@ Participants will learn how this model is helping FDA to better understand evolv
 **More About the Federal Crowdsourcing Webinar Series**
 
 Airing monthly, this series illuminates how U.S. agencies are reaching beyond their typical channels to source talent and enthusiasm to multiply the ideas and perspectives being brought to a particular issue. Don’t miss these previous episodes: 
-* Episode 9: History Hub, with Kelly Osborn and Darren Cole, NARA
-* Episode 8: NASA@WORK, with Carissa Callini and Jeff DOI, NASA
-* Episode 7: Crowdsourcing for Code, with Amin Mehr, Code.gov
-* Episode 6: FedRAMP Ideation, with Betsy Steele, GSA
-* Episode 5: History by the People, with Lauren Algee, Library of Congress
-* Episode 4: Open Opportunities, with Lisa Nelson, USAJOBS, OPM
-* Episode 3: The Opportunity Project, with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
-* Episode 2: Challenges and Prize Competitions, with Jarah Meador, GSA, and Jessie Buerlein, HHS
-* Episode 1: Crowdsourcing and Citizen Science, with John McLaughlin, NOAA, and Sophia B. Liu, USGS
+* Episode 9: [History Hub] (https://digital.gov/event/2020/04/27/federal-crowdsourcing-webinar-series-episode-9/), with Kelly Osborn and Darren Cole, NARA
+* Episode 8: [NASA@WORK] (https://digital.gov/event/2020/03/10/federal-crowdsourcing-webinar-series-episode-8/), with Carissa Callini and Jeff DOI, NASA
+* Episode 7: [Crowdsourcing for Code] (https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/), with Amin Mehr, Code.gov
+* Episode 6: [FedRAMP Ideation] (https://www.youtube.com/watch?v=bx1ANQtHNQY), with Betsy Steele, GSA
+* Episode 5: [History by the People] (https://digital.gov/event/2019/08/13/federal-crowdsourcing-webinar-series-episode-5-by-the-people/), with Lauren Algee, Library of Congress
+* Episode 4: [Open Opportunities] (https://digital.gov/event/2019/07/09/federal-crowdsourcing-webinar-series-episode-4-open-opportunities/), with Lisa Nelson, USAJOBS, OPM
+* Episode 3: [The Opportunity Project] (https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
+* Episode 2: [Challenges and Prize Competitions] (https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/), with Jarah Meador, GSA, and Jessie Buerlein, HHS
+* Episode 1: [Crowdsourcing and Citizen Science] (https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
 
 
 ##About our Presenters:##
