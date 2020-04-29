@@ -46,24 +46,23 @@ Enter precisionFDA, a secure, cloud-based platform that aids the study and analy
 
 Participants will learn how this model is helping FDA to better understand evolving areas of science around large biological data sets and apply that understanding to inform and develop regulatory science standards.
 
-**More About the Federal Crowdsourcing Webinar Series**
+**##More About the Federal Crowdsourcing Webinar Series##**
 
 Airing monthly, this series illuminates how U.S. agencies are reaching beyond their typical channels to source talent and enthusiasm to multiply the ideas and perspectives being brought to a particular issue. Don’t miss these previous episodes: 
-* Episode 9: [History Hub](https://digital.gov/event/2020/04/27/federal-crowdsourcing-webinar-series-episode-9/), with Kelly Osborn and Darren Cole, NARA
-* Episode 8: [NASA@WORK](https://digital.gov/event/2020/03/10/federal-crowdsourcing-webinar-series-episode-8/), with Carissa Callini and Jeff DOI, NASA
-* Episode 7: [Crowdsourcing for Code](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/), with Amin Mehr, Code.gov
-* Episode 6: [FedRAMP Ideation](https://www.youtube.com/watch?v=bx1ANQtHNQY), with Betsy Steele, GSA
-* Episode 5: [History by the People](https://digital.gov/event/2019/08/13/federal-crowdsourcing-webinar-series-episode-5-by-the-people/), with Lauren Algee, Library of Congress
-* Episode 4: [Open Opportunities](https://digital.gov/event/2019/07/09/federal-crowdsourcing-webinar-series-episode-4-open-opportunities/), with Lisa Nelson, USAJOBS, OPM
-* Episode 3: [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
-* Episode 2: [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/), with Jarah Meador, GSA, and Jessie Buerlein, HHS
-* Episode 1: [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
+- Episode 9: [History Hub](https://digital.gov/event/2020/04/27/federal-crowdsourcing-webinar-series-episode-9/), with Kelly Osborn and Darren Cole, NARA
+- Episode 8: [NASA@WORK](https://digital.gov/event/2020/03/10/federal-crowdsourcing-webinar-series-episode-8/), with Carissa Callini and Jeff DOI, NASA
+- Episode 7: [Crowdsourcing for Code](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/), with Amin Mehr, Code.gov
+- Episode 6: [FedRAMP Ideation](https://www.youtube.com/watch?v=bx1ANQtHNQY), with Betsy Steele, GSA
+- Episode 5: [History by the People](https://digital.gov/event/2019/08/13/federal-crowdsourcing-webinar-series-episode-5-by-the-people/), with Lauren Algee, Library of Congress
+- Episode 4: [Open Opportunities](https://digital.gov/event/2019/07/09/federal-crowdsourcing-webinar-series-episode-4-open-opportunities/), with Lisa Nelson, USAJOBS, OPM
+- Episode 3: [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
+- Episode 2: [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/), with Jarah Meador, GSA, and Jessie Buerlein, HHS
+- Episode 1: [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
 
+**##About our Presenters:##**
 
-##About our Presenters:##
-
-##Jarah Meador## has been leading open innovation programs in government for seven years at the United States Agency for International Development (USAID), U.S. Department of Veterans Affairs (VA), and now as the director of the Challenge.gov and Citizenscience.gov programs at the U.S. General Services Administration (GSA). Jarah came to her role(s) in government via the Science and Technology Policy Fellowship Program of the American Association for the Advancement of Science. Prior to this she was a research scientist focused primarily on radiation biophysics and DNA repair processes.
+**Jarah Meador** has been leading open innovation programs in government for seven years at the United States Agency for International Development (USAID), U.S. Department of Veterans Affairs (VA), and now as the director of the Challenge.gov and Citizenscience.gov programs at the U.S. General Services Administration (GSA). Jarah came to her role(s) in government via the Science and Technology Policy Fellowship Program of the American Association for the Advancement of Science. Prior to this she was a research scientist focused primarily on radiation biophysics and DNA repair processes.
  
-##Elaine Johanson## currently serves as the acting director of health informatics within the Office of the Chief Scientist at FDA, where she brings more than 35 years of information technology and health informatics experience. In this position, she utilizes non-traditional mechanisms to share FDA data and to engage external experts in evolving areas of regulatory science. In addition, she facilitates agency-wide participation in international health data and terminology standards, leads the identification and curation of substance information, and the exchange of product labeling information for FDA.
+**Elaine Johanson** currently serves as the acting director of health informatics within the Office of the Chief Scientist at FDA, where she brings more than 35 years of information technology and health informatics experience. In this position, she utilizes non-traditional mechanisms to share FDA data and to engage external experts in evolving areas of regulatory science. In addition, she facilitates agency-wide participation in international health data and terminology standards, leads the identification and curation of substance information, and the exchange of product labeling information for FDA.
  
-##Holly Stephens## has 17 years of experience in the design and implementation of genetic and genomic studies in the fields of neuropsychiatry, cardiovascular disease, pharmacogenomics, and oncology. In addition, she has 10 years of molecular genetics laboratory experience and a certification in clinical research. As a contractor for Booz Allen, she has supported the precisionFDA initiative for more than two years.
+**Holly Stephens**has 17 years of experience in the design and implementation of genetic and genomic studies in the fields of neuropsychiatry, cardiovascular disease, pharmacogenomics, and oncology. In addition, she has 10 years of molecular genetics laboratory experience and a certification in clinical research. As a contractor for Booz Allen, she has supported the precisionFDA initiative for more than two years.
