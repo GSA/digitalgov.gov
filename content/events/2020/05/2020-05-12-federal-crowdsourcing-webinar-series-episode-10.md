@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 captions: 
 
 # start date
-date: 2020-05-12 14:000:00 -0500
+date: 2020-05-12 14:00:00 -0500
 
 # end date
-end_date: 2020-05-12 15:000:00 -0500
+end_date: 2020-05-12 15:00:00 -0500
 
 # see all authors at https://digital.gov/authors
 authors: 
