@@ -61,7 +61,10 @@ Link to authoritative information from other government agencies related to your
 
 The White House, in collaboration with DHS and HHS, encourages agencies to feature the following content on both their agency homepages and coronavirus pages as appropriate.
 
-### Last updated April 16, 2020
+### Last updated April 29, 2020
+- **Guidelines for Opening Up America Again**: On April 27, President Trump announced the [Guidelines for Opening Up America Again](https://www.whitehouse.gov/openingamerica/), a three-phased approach based on the advice of public health experts (related [image assets](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/css/microsites/opening-america-logo-2x.png)).
+
+{{< accordion kicker="Previous update" title="**April 16, 2020**:" >}}
 -   **Schema.org 7.0 Tags for Coronavirus Pages**: The [White House and key federal agencies](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/) are working alongside Schema.org to help ensure coronavirus resources are prioritized with online search engines. [Schema.org has released new standard tags](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html) for webpages; [view the implementation instructions](https://developers.google.com/search/docs/data-types/special-announcements).
     
 -   **Coronavirus Aid, Relief, and Economic Security (CARES) Act**: The Treasury Department is hard at work implementing the [CARES Act](https://treasury.gov/coronavirus) to provide relief for hard working American families, small businesses, and various industries impacted by coronavirus (COVID-19). This site includes valuable resources for these groups.
@@ -73,6 +76,7 @@ The White House, in collaboration with DHS and HHS, encourages agencies to featu
 -   **OPM Open Opportunities**: The OPM COVID-19 Response Program is using [Open Opportunities](https://openopps.usajobs.gov/) as a central location for federal agencies to post details and temporary assignments related to coronavirus (COVID-19). Open Opportunities is a governmentwide platform offering professional development opportunities to current federal employees. If your agency is interested in participating:
     -   Email [workforce@opm.gov](mailto:workforce@opm.gov) so OPM can invite you to a virtual information session.
     -  Post details and temporary assignments to [Open Opportunities](https://openopps.usajobs.gov/).
+{{< /accordion >}}
 
 {{< accordion kicker="Previous update" title="**April 1, 2020**:" >}}
 
