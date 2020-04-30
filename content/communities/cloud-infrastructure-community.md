@@ -32,21 +32,22 @@ community_list:
 
 
 # Make it better ♥
-Who We Are
-The Cloud & Infrastructure Community of Practice (C&I CoP) is chartered under the Federal CIO Council and governed by an Executive Committee of representatives from both CFO Act and small federal agency representatives. GSA’s Data Center and Cloud Optimization Initiative (DCCOI) Program Management Office (PMO) provides logistical support for the CoP in the areas of policy compliance and operational best practices to meet requirements in OMB Memo M-19-19 (PDF, 2.2 MB, 13 pages) and the federal cloud computing strategy, Cloud Smart. 
 
-What We Do
+## Who We Are
+The Cloud & Infrastructure Community of Practice (C&I CoP) is chartered under the [Federal CIO Council](https://www.cio.gov/) and governed by an Executive Committee of representatives from both [CFO Act](https://cfo.gov/about/) and small federal agency representatives. GSA’s Data Center and Cloud Optimization Initiative (DCCOI) Program Management Office (PMO) provides logistical support for the CoP in the areas of policy compliance and operational best practices to meet requirements in OMB [M-19-19 (PDF, 2.2 MB, 13 pages](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-19-Data-Centers.pdf) and the federal cloud computing strategy, [Cloud Smart](https://cloud.cio.gov/strategy/). 
+
+## What We Do
 
 We connect data center and cloud colleagues to share insights and knowledge on:
 
-Data center infrastructure management
-Facility oversight and optimization
-Data Center Optimization Initiative (DCOI) Reporting
-New technologies
-Cloud optimization best practices
-Application Rationalization
+- Data center infrastructure management
+- Facility oversight and optimization
+- Data Center Optimization Initiative (DCOI) Reporting
+- New technologies
+- Cloud optimization best practices
+- Application Rationalization
 
 We host a monthly conference call and occasional in-person events in Washington, DC.
 
-Learn more at gsa.gov/dcoi, and email us at dccoi@gsa.gov if you have questions.
+Learn more at [gsa.gov/dcoi](https://www.gsa.gov/technology/government-it-initiatives/data-center-optimization-initiative-dcoi), and email us at [dccoi@gsa.gov](mailto:dccoi@gsa.gov) if you have questions.
 
