@@ -7,6 +7,17 @@ title: "Federal Technology Investment Management Community"
 deck: "The FTIM CoP consists of government professionals working to enhance IT spending transparency across government. "
 summary: "The FTIM CoP shares best practices and lessons learned to improve IT cost transparency across government."
 
+# see all topics at https://digital.gov/topics
+topics:
+  - 
+
+# see all authors at https://digital.gov/authors
+authors:
+  - shonna-evansthompson
+  - laura-szakmary
+  - kyra-stewart
+  
+  
 community_list:
   - platform: listserv
     type: government
