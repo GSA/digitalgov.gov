@@ -30,7 +30,7 @@ authors:
   - kara-reinsel
 
 # YouTube ID
-youtube_id: 
+youtube_id: zrq7lGEwIZY
 
 # Make it better ♥
 
@@ -41,6 +41,12 @@ A common challenge for product managers in government is deploying their applica
 ## Presenter
 
 **Kara Reinsel** is the product manager for Cloud.gov. Previously, she was a product manager at 18F, where she partnered with and coached clients to help them transform their digital operations by building human-centered digital products.
+
+---
+
+## Past Events:
+
+ - [Intro to Cloud Foundry on Cloud.gov](https://digital.gov/event/2020/03/31/intro-cloud-foundry-on-cloudgov/)
 
 ---
 
