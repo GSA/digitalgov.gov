@@ -12,6 +12,11 @@ topics:
   - cloud
   - infrastructure
 
+# see all authors at https://digital.gov/authors
+authors:
+  - thomas-santucci
+  - guy-cavallo
+  
 community_list:
   - platform: listserv
     type: government
