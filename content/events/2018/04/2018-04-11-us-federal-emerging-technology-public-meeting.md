@@ -27,6 +27,7 @@ topics:
   - socialgov-community
   - virtual-reality
   - virtual-augmented-reality-community
+  - robotic-process-automation
 
 # see all authors at https://digital.gov/authors
 authors: 
