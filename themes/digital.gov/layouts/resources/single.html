@@ -29,11 +29,11 @@
           <div class="grid-col-12 tablet:grid-col-9" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
 
             {{/* Content */}}
-            <div class="content">
+            <div class="content usa-prose">
               {{- .Content -}}
             </div>
 
-            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/page-data" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 
@@ -49,7 +49,7 @@
             {{- partial "core/get_related" . -}}
 
             {{/* Topics */}}
-            {{/* {{- partial "core/get_topics" . -}} */}}
+            {{/* {{- partial "core/list-topics" . -}} */}}
 
             {{/* Share Tools */}}
             {{/* {{- partial "core/get_sharetools" . -}} */}}

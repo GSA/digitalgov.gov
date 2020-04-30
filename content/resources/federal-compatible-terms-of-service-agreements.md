@@ -1,7 +1,7 @@
 ---
 url: /resources/federal-compatible-terms-of-service-agreements/
 date: 2014-01-09 2:40:58 -0400
-title: Federal-Compatible Terms of Service Agreements
+title: "Federal-Compatible Terms of Service Agreements"
 guidenav: termsofservice
 summary: 'Agreements negotiated between the federal government and vendors who offer digital tools and services.'
 deck: "A guide to the agreements negotiated between the federal government and vendors who offer digital tools and services."
@@ -10,6 +10,19 @@ topics:
   - terms-of-service
 
 ---
+
+
+{{< note "alert" >}}
+**The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is no longer active. It applied to no-cost tools only. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.
+{{< /note >}}
+
+{{< box >}}
+**Related pages**
+
+- [Federal-Compatible Terms of Service Agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
+- [Negotiated Terms of Service Agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
+- [Agency Points of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
+{{< /box >}}
 
 ## Why TOS is Important
 
@@ -77,5 +90,4 @@ Tool and service providers interested in engaging in Terms of Service discussion
   * Find your agency&#8217;s [Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
   * View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
   * Use the [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011)
-  * Read about [NASCIO&#8217;s revised Terms of Service for Facebook](http://www.nascio.org/newsroom/pressrelease.cfm?id=93) for state and local governments
   * Guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements

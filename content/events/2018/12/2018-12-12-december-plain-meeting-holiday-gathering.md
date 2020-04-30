@@ -5,7 +5,7 @@ summary: "Join us for our traditional winter finger-food potluck where we'll dis
 featured_image:
   uid: plain-language
   alt: 'The Plain Language.gov website logo.'
-event_platform: zoom
+event_platform:
 date: 2018-12-12 14:00:00 -0500
 end_date: 2018-12-12 15:30:00 -0500
 event_organizer: DigitalGov University

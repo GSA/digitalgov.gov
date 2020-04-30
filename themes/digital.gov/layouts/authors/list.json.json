@@ -32,9 +32,7 @@
     {{- if .Params.location -}}
     "location" : "{{- .Params.location -}}",
     {{- end -}}
-    {{- if .Params.bio -}}
-    "bio" : "{{- .Params.bio -}}",
-    {{- end -}}
+    {{- partial "api/bio" . -}}
     {{- if .Params.bio_url -}}
     "bio_url" : "{{- .Params.bio_url -}}",
     {{- end -}}

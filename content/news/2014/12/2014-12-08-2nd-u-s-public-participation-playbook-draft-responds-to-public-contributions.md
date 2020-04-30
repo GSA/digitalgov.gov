@@ -20,7 +20,7 @@ topics:
   - fda
   - Federal Aviation Administration
   - federal-communications-commission
-  - First Responders Network
+  - Firstnet
   - FWS
   - gsa
   - International Trade Administration
@@ -62,9 +62,10 @@ topics:
   - us-fish-and-wildlife-service
   - USGS
   - white-house-office-of-science-and-technology-policy
+
 ---
 
-[{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg)
+{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}
 
 The new <a href="https://mymadison.io/docs/us-public-participation-playbook-draft-2" target="_blank">second draft of the U.S. Public Participation Playbook</a> incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to come. We still need your contributions for this groundbreaking new collaborative resource to measurably improve our participatory public services across government, and would like to take this opportunity to share what we have learned so far.
 
@@ -101,7 +102,7 @@ More than just effective comments, we&#8217;re working to improve our standard f
 
 For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="{{< ref "mobilegov.md" >}}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
 
-[{{< legacy-img src="2014/12/Madison-Example-600px.jpg" alt="Madison Example 600px" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/Madison-Example-600px.jpg)
+{{< legacy-img src="2014/12/Madison-Example-600px.jpg" alt="Madison Example 600px" >}}
 
 We&#8217;re kicking the tires on how we can better report direct correlations between each comment and the actions they result in, and look forward to improving this capability.
 
@@ -251,4 +252,6 @@ Scott Prince, National Institutes of Health
 
 Veronica Wendt, National Defense University
 
-<em>Justin Herman is the <a href="{{< ref "communities/social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>
+--- 
+
+_Justin Herman is the <a href="{{< ref "communities/social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>._ 

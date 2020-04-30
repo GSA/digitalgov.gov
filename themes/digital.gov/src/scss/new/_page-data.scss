@@ -1,0 +1,36 @@
+#page-data{
+	@include u-margin-y(4);
+	@include u-padding(2);
+	@include u-bg('gray-warm-5');
+	p{
+
+	}
+	.branch{
+		@include u-display('none');
+	}
+	.edit_file{
+		@include u-margin-top(2);
+		@include u-display('flex');
+		@include u-flex('align-center');
+		.edit_file_link{
+			@include u-padding-x('105');
+			@include u-padding-y('05');
+			@include u-bg('blue-warm-50v');
+			@include u-font('sans', 'sm');
+			@include u-radius('sm');
+			@include u-text('white');
+			@include u-text('medium');
+			@include u-text('no-underline');
+			&:hover{
+				span{
+					@include u-border-bottom('1px','solid','white');
+				}
+			}
+		}
+		p{
+			@include u-margin(0);
+			@include u-padding-x(1);
+			@include u-font('sans', 'xs');
+		}
+	}
+}

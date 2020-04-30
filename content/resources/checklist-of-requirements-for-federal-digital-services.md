@@ -6,14 +6,16 @@ summary: "Links to relevant laws, policies, and regulations for federal agencies
 deck: 'The relevant laws, policies, and regulations for federal agencies.'
 authors:
   - rflagg
+  - ammie-farraj-feijoo
 aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
+  - /resources/policies-for-federal-agency-public-websites-m-05-04/
 weight: 3
 topics:
   - product-management
   - policy
-  - multilingual
+  - governance
 
 ---
 
@@ -43,12 +45,12 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 
 * [Accessibility for Teams](https://accessibility.digital.gov/) — A guide for embedding accessibility and inclusive design practices into your team’s workflow
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
-* [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
+* [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)
 * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
 * [WCAG Quick Reference](https://www.w3.org/WAI/WCAG20/quickref/) and [WCAG Web tutorials](https://www.w3.org/WAI/tutorials/)
-* [Technology Accessibility Playbook](https://section508.gov/tools/playbooks/technology-accessibility-playbook-intro)
+* [Technology Accessibility Playbooks](https://section508.gov/tools/playbooks/)
 * [Federal CIO Council Accessibility Best Practices](https://section508.gov/best-practices)
-* [Governmentwide Section 508 Strategic Plan (2013)](https://www.section508.gov/sites/default/files/strategic-plan-508-compliance.pdf)
+* [Governmentwide Section 508 Strategic Plan (2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)
 
 <p class="more"><a href="{{< ref "/topics/accessibility" >}}">More on Accessibility <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -60,6 +62,12 @@ Understand customer needs, set performance standards, collect and address custom
 * [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) (PDF, 102 KB, 9 pages, June 2010)
 
 <p class="more"><a href="{{< ref "/topics/metrics" >}}">More on Metrics <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+
+## Coordination During Incidents of National Significance
+
+Federal websites must provide timely and accurate information during incidents of national significance. During such incidents, the Department of Homeland Security has the authority to coordinate all U.S. government communications to ensure consistent public information through an integrated federal incident communications system. Coordinate emergency response-related web communications with your [Federal Web Council representative](https://digital.gov/resources/federal-web-council/#current-council-members).
+
+* [Emergency Support Function 15](https://www.fema.gov/media-library/assets/documents/34369) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/media-library/assets/documents/117791)
 
 ## Copyright
 

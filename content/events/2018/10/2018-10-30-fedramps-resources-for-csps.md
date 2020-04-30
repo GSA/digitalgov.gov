@@ -1,21 +1,37 @@
 ---
+# View this page at https://digital.gov/event/2018/10/fedramps-resources-for-csps
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramps-resources-for-csps
-title: 'FedRAMP&#39;s Resources for CSPs'
-summary: 'Come and learn more about the recent updates to fedramp&#46;gov and the resources available to help you through the FedRAMP authorization process&#46;'
-featured_image:
-  uid: featued-301-x-212-fedramp-2017-5th-anniversary-logo
-  alt: ''
-event_type:
-  - youtube-live
-  - online
-topics:
-  - fedramp
-date: 2018-10-30 14:00:00 -0500
-end_date: 2018-10-30 15:00:00 -0500
-event_organizer: DigitalGov University
-host: FedRAMP
+title: "FedRAMP's Resources for CSPs"
+deck: ""
+summary: "Come and learn more about the recent updates to fedramp.gov and the resources available to help you through the FedRAMP authorization process."
+host: "FedRAMP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/fedramps-resources-for-csps-registration-51472220798
+captions: 
+
+# start date
+date: 2018-10-30 15:00:00 -0500
+
+# end date
+end_date: 2018-10-30 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - fedramp
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - claire-bukovac
+  - ryan-hoesing
+
+# YouTube ID
 youtube_id: 2ghbR-PHYOU
+
+# Primary Image (for social media)
+primary_image: "featued-301-x-212-fedramp-2017-5th-anniversary-logo"
+
+# Make it better ♥
 
 ---
 

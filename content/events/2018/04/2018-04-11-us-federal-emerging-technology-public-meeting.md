@@ -20,7 +20,6 @@ end_date: 2018-04-11 13:00:00 -0500
 topics: 
   - emerging-tech
   - social-media
-  - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - blockchain

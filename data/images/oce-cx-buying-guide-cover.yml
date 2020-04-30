@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/oce-cx-buying-guide-cover.png
+
+# Image shortcode: {{< img src="oce-cx-buying-guide-cover" >}}
+
+date     : 2020-04-23 13:04:02 -0400
+uid      : oce-cx-buying-guide-cover
+width    : 1200
+height   : 630
+format   : png
+credit   : ""
+caption  : ""
+alt      : "Screencapture of the cover of the Customer Experience Services Evaluationa and Buying Guide. Colorful abstract shapes, icons, and the abbreviation for Customer Experience, CX, are below the title." 

@@ -1,34 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2018/03/infographics-plain-language-considerations
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: infographics-plain-language-considerations
-title: 'Infographics&#58; Plain Language Considerations'
-summary: 'The March meeting of the Plain Language Community of Practice will focus what makes an infographic easy to understand'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-  - in-person
-date: 2018-03-14 14:00:00 -0500
-end_date: 2018-03-14 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Plain Language
+title: "Infographics: Plain Language Considerations"
+deck: ""
+summary: "The March meeting of the Plain Language Community of Practice will focus what makes an infographic easy to understand"
+host: "Plain Language"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/march-plain-meeting-infographics-registration-43723253428
-youtube_id: 49SJvZT3t2s
-venue:
-  venue_name: U.S. General Services Administration
-  room: 6324
-  address: 1800 F Street NW
-  city: Washington
-  state: D.C.
-  zip: 20405
-  country: USA
-  map: https://goo.gl/maps/bFWBD6QfDLA2
-aliases:
-  - /event/infographics-plain-language-considerations/
-topics:
+captions: 
+
+# start date
+date: 2018-03-14 15:00:00 -0500
+
+# end date
+end_date: 2018-03-14 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - accessibility
   - plain-language
   - plain-language-community-of-practice
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - kathryn-sosbe
+  - liz-pucci
+
+# YouTube ID
+youtube_id: 49SJvZT3t2s
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/infographics-plain-language-considerations/
+
+# Make it better ♥
 
 ---
 

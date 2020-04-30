@@ -1,23 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2019/04/federal-crowdsourcing-webinar-series-episode-1
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-mobilize-citizen-scientists
-title: 'Federal Crowdsourcing Webinar Series, Episode 1: Citizen Science'
-summary: 'This is the first installment of GSA’s Federal Crowdsourcing Webinar Series, where we look at how to use crowdsourcing to reach beyond your walls and source talent and enthusiasm&#46;'
-featured_image:
-  uid: challengegov-card-episode-1
-  alt: ''
-event_type:
-  - zoom
-date: 2019-04-09 14:00:00 -0500
-end_date: 2019-04-09 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Challenge.gov
+title: "Federal Crowdsourcing Webinar Series, Episode 1: Citizen Science"
+deck: ""
+summary: "This is the first installment of GSA’s Federal Crowdsourcing Webinar Series, where we look at how to use crowdsourcing to reach beyond your walls and source talent and enthusiasm."
+host: "Challenge.gov"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-federal-community-of-practice-for-crowdsourcing-and-citizen-registration-58989187247
-topics:
+captions: 
+
+# start date
+date: 2019-04-09 15:00:00 -0500
+
+# end date
+end_date: 2019-04-09 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - crowdsourcing
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - john-mclaughlin
+  - sophia-b-liu
+
+# YouTube ID
 youtube_id: Kx1kSJ4y-7s
+
+# Primary Image (for social media)
+primary_image: "challengegov-card-episode-1"
+
+# Make it better ♥
 
 ---
 

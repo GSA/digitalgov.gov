@@ -12,13 +12,13 @@ last_name: "Zeichner"
 pronoun: "she/her"
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: nicole.zeichner@gsa.gov
+email: "nicole.zeichner@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Nikki is a member of 18F's Product chapter." 
+bio: "Nikki is a member of 18F's Product chapter."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: https://github.com/18F/privacy-tools
+bio_url: "https://github.com/18F/privacy-tools"
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"

@@ -179,3 +179,7 @@ Section 3 of **21st Century IDEA** requires executive agencies to report their p
 ## What Are the Deadlines?
 
 Refer to [Public Law 115–336](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf) (PDF, 315 kb, 4 pages, December 2018) for more detailed information on the deadlines and reporting requirements in 21st Century IDEA.
+
+## More Information 
+
+Visit our topic page for [21st Century IDEA-related resources, news, and training events](https://digital.gov/topics/21st-century-idea/). 

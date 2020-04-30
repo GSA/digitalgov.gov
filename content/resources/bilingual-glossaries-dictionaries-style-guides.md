@@ -79,6 +79,12 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 * Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages)
 * Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages)
 
+#### Pension Benefit Guaranty Corporation (PBGC)
+
+Financial and retirement terminology: 
+
+[Glossary of Terms: English to Spanish](https://www.pbgc.gov/es/recursos/glosario-de-terminos-ingles-espanol) 
+
 ### Health and Well-being
 
 #### U.S. Department of Health and Human Services (HHS)

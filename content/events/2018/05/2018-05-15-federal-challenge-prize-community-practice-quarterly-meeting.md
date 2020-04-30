@@ -1,29 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2018/05/federal-challenge-prize-community-practice
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-challenge-prize-community-practice-quarterly-meeting
-title: 'Federal Challenge &amp; Prize Community of Practice Quarterly Meeting'
-summary: 'Crowdsourcing experts from around the federal government come together to discuss trends, success stories and lessons learned in the use of competitions.'
-event_type:
-  - youtube-live
-  - in-person
-date: 2018-05-15 13:00:00 -0500
-end_date: 2018-05-15 16:00:00 -0500
-event_organizer: DigitalGov University
-host: Challenge & Prize Community of Practice
+title: "Federal Challenge & Prize Community of Practice Quarterly Meeting"
+deck: ""
+summary: "Crowdsourcing experts from around the federal government come together to discuss trends, success stories and lessons learned in the use of competitions."
+host: "Challenge & Prize Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/federal-challenge-prize-community-of-practice-quarterly-meeting-registration-45447663184
-youtube_id: fY5jhPVVPwM
-venue:
-  venue_name: U.S. General Services Administration
-  room: 1153
-  address: 1800 F Street NW
-  city: Washington
-  state: D.C.
-  zip: 20405
-  country: USA
-  map: https://goo.gl/maps/bFWBD6QfDLA2
-topics:
+captions: 
+
+# start date
+date: 2018-05-15 14:00:00 -0500
+
+# end date
+end_date: 2018-05-15 17:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - challenges
-  - challenges-and-prizes-community-of-practice
   - crowdsourcing
+  - challenges-and-prizes-community-of-practice
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - andrew-hait
+  - craig-jolley
+  - debbie-bucci
+  - elizabeth-cain
+  - eric-mill
+  - jennifer-shieh
+  - jim-thompson
+  - joseph-castle
+  - kate-appel
+  - nathan-dietz
+  - toby-egan
+
+# YouTube ID
+youtube_id: fY5jhPVVPwM
+
+# Make it better ♥
 
 ---
 

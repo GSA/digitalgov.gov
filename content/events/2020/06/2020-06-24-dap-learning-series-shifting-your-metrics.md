@@ -29,8 +29,8 @@ topics:
 authors:
   - tlowden
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # YouTube ID
 youtube_id:

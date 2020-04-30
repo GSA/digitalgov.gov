@@ -37,11 +37,20 @@
           {{/* If the first page in a paginated sequence */}}
           {{ if eq .Paginator.PageNumber 1 }}
 
-            {{ partial "core/list_related_resources.html" . }}
+            {{/* Gets the resource .Pages associated with this topic */}}
+            {{- $resources := (where .Pages "Section" "resources") -}}
+            {{/* Pass $resources to the collection template */}}
+            {{- partial "core/collection" (dict "list" $resources "heading" (print "Resources on " .Title)) -}}
 
-            {{ partial "core/list_related_services.html" . }}
+            {{/* Gets the services .Pages associated with this topic */}}
+            {{- $services := (where .Pages "Section" "services") -}}
+            {{/* Pass $services to the collection template */}}
+            {{- partial "core/collection" (dict "list" $services "heading" "Tools and Services") -}}
 
-            {{ partial "core/list_related_communities.html" . }}
+            {{/* Gets the communities .Pages associated with this topic */}}
+            {{- $communities := (where .Pages "Section" "communities") -}}
+            {{/* Pass $communities to the collection template */}}
+            {{- partial "core/collection" (dict "list" $communities "heading" "Join a Community of Practice") -}}
 
           {{- end -}}
 

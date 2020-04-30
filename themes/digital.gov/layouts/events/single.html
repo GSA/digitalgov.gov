@@ -119,12 +119,29 @@
               {{- end -}}
             {{- end -}}
 
+            {{/* Adobe Connect Stage */}}
+            {{- if eq .Params.event_platform "adobe_connect" -}}
+              {{/* If is a Future Event */}}
+              {{- if eq $future_event true -}}
+                {{- .Render "stage-adobe_connect" -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{/* Google Stage */}}
+            {{- if eq .Params.event_platform "google" -}}
+            {{/* If is a Future Event */}}
+            {{- if eq $future_event true -}}
+              {{- .Render "stage-google" -}}
+            {{- end -}}
+          {{- end -}}
+          
+
             {{/* Content */}}
             <div class="content">
               {{- .Content -}}
             </div>
 
-            {{- partial "core/feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "prompt" "Have questions about this event or future events?" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/page-data" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "prompt" "Have questions about this event or future events?" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 
@@ -164,7 +181,7 @@
             {{- partial "core/get_related" . -}}
 
             {{/* Topics */}}
-            {{- partial "core/get_topics" . -}}
+            {{- partial "core/list-topics" . -}}
 
             {{/* Share Tools */}}
             {{- partial "core/get_sharetools" . -}}

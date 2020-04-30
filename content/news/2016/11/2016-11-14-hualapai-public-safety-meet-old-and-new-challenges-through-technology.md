@@ -16,7 +16,6 @@ topics:
   - audio-video
   - broadband
   - data
-  - First Responder Network Authority
   - firstnet
   - mobile
   - NPS
