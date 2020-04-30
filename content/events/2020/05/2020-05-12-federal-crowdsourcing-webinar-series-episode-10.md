@@ -46,9 +46,10 @@ Enter precisionFDA, a secure, cloud-based platform that aids the study and analy
 
 Participants will learn how this model is helping FDA to better understand evolving areas of science around large biological data sets and apply that understanding to inform and develop regulatory science standards.
 
-**##More About the Federal Crowdsourcing Webinar Series##**
+**More About the Federal Crowdsourcing Webinar Series**
 
-Airing monthly, this series illuminates how U.S. agencies are reaching beyond their typical channels to source talent and enthusiasm to multiply the ideas and perspectives being brought to a particular issue. Don’t miss these previous episodes: 
+Airing monthly, this series illuminates how U.S. agencies are reaching beyond their typical channels to source talent and enthusiasm to multiply the ideas and perspectives being brought to a particular issue. Don’t miss these previous episodes:
+
 - Episode 9: [History Hub](https://digital.gov/event/2020/04/27/federal-crowdsourcing-webinar-series-episode-9/), with Kelly Osborn and Darren Cole, NARA
 - Episode 8: [NASA@WORK](https://digital.gov/event/2020/03/10/federal-crowdsourcing-webinar-series-episode-8/), with Carissa Callini and Jeff DOI, NASA
 - Episode 7: [Crowdsourcing for Code](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/), with Amin Mehr, Code.gov
@@ -59,7 +60,7 @@ Airing monthly, this series illuminates how U.S. agencies are reaching beyond th
 - Episode 2: [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/), with Jarah Meador, GSA, and Jessie Buerlein, HHS
 - Episode 1: [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
 
-**##About our Presenters:##**
+## About our Presenters:
 
 **Jarah Meador** has been leading open innovation programs in government for seven years at the United States Agency for International Development (USAID), U.S. Department of Veterans Affairs (VA), and now as the director of the Challenge.gov and Citizenscience.gov programs at the U.S. General Services Administration (GSA). Jarah came to her role(s) in government via the Science and Technology Policy Fellowship Program of the American Association for the Advancement of Science. Prior to this she was a research scientist focused primarily on radiation biophysics and DNA repair processes.
  
