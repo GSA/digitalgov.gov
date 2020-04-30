@@ -61,7 +61,7 @@ Link to authoritative information from other government agencies related to your
 
 The White House, in collaboration with DHS and HHS, encourages agencies to feature the following content on both their agency homepages and coronavirus pages as appropriate.
 
-### Last updated April 29, 2020
+### Last updated April 28, 2020
 - **Guidelines for Opening Up America Again**: On April 27, President Trump announced the [Guidelines for Opening Up America Again](https://www.whitehouse.gov/openingamerica/), a three-phased approach based on the advice of public health experts (related [image assets](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/css/microsites/opening-america-logo-2x.png)).
 
 {{< accordion kicker="Previous update" title="**April 16, 2020**:" >}}
