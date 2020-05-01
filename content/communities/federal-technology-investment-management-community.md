@@ -4,8 +4,8 @@
 slug: federal-technology-investment-management-community
 date: 2020-04-30 17:00:00 -0500
 title: "Federal Technology Investment Management Community"
-deck: "The FTIM CoP consists of government professionals working to enhance IT spending transparency across government. "
-summary: "The FTIM CoP shares best practices and lessons learned to improve IT cost transparency across government."
+deck: "Working to achieve greater government-wide efficiency in the management of federal IT resources and assets."
+summary: "We share best practices and lessons learned to improve IT cost transparency across government."
 
 # see all topics at https://digital.gov/topics
 topics:
