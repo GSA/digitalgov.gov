@@ -21,7 +21,7 @@ topics:
   - emerging-tech
   - product-management
   - it-modernization-fund
-  - robotic-process-automation
+  - rpa
 
 # see all authors at https://digital.gov/authors
 authors: 
