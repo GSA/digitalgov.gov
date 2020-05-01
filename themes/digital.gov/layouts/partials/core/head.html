@@ -134,14 +134,13 @@
   {{/* Meta Refresh for Link pages */}}
   {{- if $.Params.source_url -}}
   {{- "<!-- Redirect =============== -->" | safeHTML }}
+  <meta http-equiv="refresh" content="2;url={{- .Params.source_url -}}">
   <script type="text/javascript">
-    window.setTimeout(function(){window.location.href=window.location.href},900000);
+    window.setTimeout(function(){window.location.href=window.location.href},2000);
   </script>
-  <noscript>
-  	<meta http-equiv="refresh" content="0; url={{- $.Params.source_url -}}">
-  </noscript>
+
   {{- end -}}
-  
+
 
   {{ "<!-- CSS -->" | safeHTML }}
   {{/* Custom CSS — needs to be included before the base styles */}}
