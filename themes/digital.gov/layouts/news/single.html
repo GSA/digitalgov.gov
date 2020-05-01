@@ -43,6 +43,16 @@
               {{- .Content -}}
             </div>
 
+            <div class="content usa-prose">
+              {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+              {{ $url := urls.Parse .Params.source_url }}
+              {{- if $source -}}
+                To read this in full, visit {{ $source.Params.name }} at <a href="{{- $url -}}" title="{{- $url -}}">{{ $source.Params.name -}}</a>.
+              {{- end -}}
+
+
+            </div>
+
             {{- partial "core/page-data" (dict "page" . "page_type" "post" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>

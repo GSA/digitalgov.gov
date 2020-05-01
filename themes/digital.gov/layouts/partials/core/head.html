@@ -131,6 +131,7 @@
   </script>
   {{- end -}}
 
+  <!-- For link posts and pages -->
   {{- if $.Params.source_url -}}
   {{- "<!-- Redirect =============== -->" | safeHTML }}
   <meta http-equiv="refresh" content="0; url={{- $.Params.source_url -}}">
