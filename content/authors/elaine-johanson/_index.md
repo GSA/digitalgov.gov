@@ -21,10 +21,10 @@ bio: "As the acting director of health informatics within the Office of the Chie
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "U.S. Food and Drug Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "FDA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
