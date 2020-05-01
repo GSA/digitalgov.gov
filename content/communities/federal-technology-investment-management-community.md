@@ -1,6 +1,7 @@
 ---
 # View this page at https://digital.gov/communities/federal-technology-investment-management-community
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: federal-technology-investment-management-community
 date: 2020-04-30 17:00:00 -0500
 title: "Federal Technology Investment Management Community"
@@ -33,7 +34,9 @@ community_list:
 
 
 # Make it better ♥
+
 ---
+
 The Federal Technology Investment Management (FTIM) Community of Practice (CoP) helps federal agencies implement a standard way to categorize information technology (IT) costs, technologies, resources, applications, and services. We help agencies optimize the value of their IT investments by prioritizing transparency, consumption, and performance. If you’re a **federal employee or contractor with a .gov or .mil email address** and are interested in helping the federal government improve cost management for IT, we welcome you!
 
 ## Who We Are
