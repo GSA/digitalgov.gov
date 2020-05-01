@@ -17,18 +17,15 @@ authors:
   - laura-szakmary
   - kyra-stewart
   
-  
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
 community_list:
   - platform: listserv
     type: government
     subscribe_email: "listserv@listserv.gsa.gov"
-    subscribe_email_body: "Subscribe FTIM-COP"
-    terms: "Open to any Federal employee or contractor with a .gov or .mil email address."
-    members: 518
-    emails_per_week: .5
-  - platform: listserv
-    type: public
-    subscribe_email: listserv@listserv.gsa.gov
     subscribe_email_body: "Subscribe FTIM-COP"
     terms: "Open to any Federal employee or contractor with a .gov or .mil email address."
     members: 518
