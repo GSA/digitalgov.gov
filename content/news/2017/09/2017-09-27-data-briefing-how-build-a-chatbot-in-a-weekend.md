@@ -18,7 +18,8 @@ topics:
   - social-media
   - training
   - writing
-  - robotic-process-automation      
+  - rpa
+  
 featured_image:
   uid: Cropped-chatbot-technology-concept-on-electric-circuit-background-surrounded-by-related-ai-and-chat-icons-zapp2photo-istock-thinkstock-676338286
   alt: 'Chatbot technology concept on electric circuit background surrounded by related AI and chat icons'
