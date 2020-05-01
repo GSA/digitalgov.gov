@@ -17,6 +17,11 @@ authors:
   - thomas-santucci
   - guy-cavallo
   
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+  
 community_list:
   - platform: listserv
     type: government
@@ -26,15 +31,6 @@ community_list:
     terms: "Open to anyone with a .gov or .mil email address."
     members: 900
     emails_per_week: 0.5
-  - platform: listserv
-    type: government only
-    subscribe_email: listserv@listserv.gsa.gov 
-    subscribe_email_subject: "Join: Cloud & Infrastructure Community"
-    subscribe_email_body: "Subscribe datacenters [First Name] [Last Name], [Position Title] "
-    terms: "Open to anyone with a .gov or .mil email address."
-    members: 900
-    emails_per_week: 0.5
-
 
 # Make it better ♥
 
