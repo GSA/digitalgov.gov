@@ -49,8 +49,8 @@ In this webinar, you will learn:
 
 **Related Links:**
 
-- How to Tell Your Agency’s Story Plainly[https://digital.gov/2014/04/16/how-to-tell-your-agencys-story-plainly/] 
-- Federal Plain Language Guidelines[https://plainlanguage.gov/guidelines/]
-- Using Plain Language to Write for the Web[https://digital.gov/2015/09/16/using-plain-language-to-write-for-the-web/]
+- [How to Tell Your Agency’s Story Plainly](https://digital.gov/2014/04/16/how-to-tell-your-agencys-story-plainly/) 
+- [Federal Plain Language Guidelines](https://plainlanguage.gov/guidelines/)
+- [Using Plain Language to Write for the Web](https://digital.gov/2015/09/16/using-plain-language-to-write-for-the-web/)
 
 
