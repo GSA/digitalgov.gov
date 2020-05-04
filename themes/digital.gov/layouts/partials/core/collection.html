@@ -1,3 +1,19 @@
+{{/*
+The collection template is a way to consistently format lists of pages in Digital.gov. Most commonly used on the Resources page.
+
+To use: put this partial in an template and pass in the array of pages you want to display.
+
+Example from /layouts/resources/list.html
+
+{{- partial "core/collection" (dict "list" $stream "heading" "Popular Guides and Resources") -}}
+
+There values you can pass into the partial:
+- heading (optional)
+- list
+
+*/}}
+
+
 {{/* Gets the full array of items passed into the partial */}}
 {{- $list := .list -}}
 
@@ -57,8 +73,6 @@
   </ul>
 </div>
 {{- end -}}
-
-
 
 
 {{- define "collection-list-item" -}}
