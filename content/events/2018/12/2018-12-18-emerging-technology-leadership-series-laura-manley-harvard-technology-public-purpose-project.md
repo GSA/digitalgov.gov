@@ -25,7 +25,8 @@ topics:
   - blockchain
   - virtual-reality
   - virtual-augmented-reality-community
-
+  - rpa
+  
 # see all authors at https://digital.gov/authors
 authors: 
   - jherman
