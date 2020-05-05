@@ -2,7 +2,7 @@
 slug: top-10-best-practices-for-multilingual-websites
 date: 2016-09-07 10:00:45 -0400
 title: Top 10 Best Practices for Multilingual Websites
-summary: 'Language Digital communications must address the users&rsquo; language preference. The use of machine or automatic translations as a sole solution is strongly discouraged even if a disclaimer is added. If government agencies decide to use translation software, they should have the translation reviewed by a qualified language professional before posting it to the website to'
+summary: "Ten tips for creating and managing multilingual government websites."
 authors:
   - lgodfrey
   - lmartinez
