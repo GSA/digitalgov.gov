@@ -27,7 +27,7 @@ topics:
   - crowdsourcing
   - open
   - innovation
-  - challenges and prizes
+  - challenges
   - data science
   - medicine
   - health
