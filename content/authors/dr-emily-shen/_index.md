@@ -15,10 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "A technical staff member in the Secure Resilient Systems and Technology Group at MIT Lincoln Laboratory. Her primary research interests lie in cryptography. She currently leads projects designing and developing secure multi-party computation technology for privacy-preserving collaboration. She has also worked on cryptographically secure database search and access control.  
-
-Dr. Shen is a recipient of the 2019 MIT Lincoln Laboratory Early Career Technical Achievement Award. Prior to joining the Laboratory in 2013, she received a BS degree, with distinction and honors, in computer science from Stanford University in 2006, and SM and PhD degrees in electrical engineering and computer science from MIT in 2008 and 2013, respectively.
-"
+bio: "A technical staff member in the Secure Resilient Systems and Technology Group at MIT Lincoln Laboratory. Her primary research interests lie in cryptography. She currently leads projects designing and developing secure multi-party computation technology for privacy-preserving collaboration. She has also worked on cryptographically secure database search and access control."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
