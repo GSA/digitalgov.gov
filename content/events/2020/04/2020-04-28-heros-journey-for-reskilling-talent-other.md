@@ -39,6 +39,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors: 
   - brian-fox
+  - major-jeremy-f-thomas
   
 # YouTube ID
 youtube_id: -WOZq09cwMo
