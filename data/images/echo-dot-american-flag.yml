@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/echo-dot-american-flag.png
+
+# Image shortcode: {{< img src="echo-dot-american-flag" >}}
+
+date     : 2020-05-07 08:38:02 -0400
+uid      : echo-dot-american-flag
+width    : 600
+height   : 450
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A hand holds an Echo Dot from Amazon in front of an American flag."
