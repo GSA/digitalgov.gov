@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Jason Davis served five years with the Army’s 101st Airborne, including two combat tours to Iraq in support of Operation Iraqi Freedom. After leaving service, he earned a BA in Literary Journalism from the University of California at Irvine, and an MA in Writing (nonfiction) from Johns Hopkins University. Jason was an editor and photographer under the Motor Trend umbrella prior to running Veterans Benefits Administration’s social media from 2013 to 2019. Jason moved up the street to VA’s Digital Media Engagement team in June 2019"
+bio: "Jason Davis served five years with the Army’s 101st Airborne, including two combat tours to Iraq in support of Operation Iraqi Freedom. After leaving service, he earned a BA in Literary Journalism from the University of California at Irvine, and an MA in Writing (nonfiction) from Johns Hopkins University. Jason was an editor and photographer under the Motor Trend umbrella prior to running Veterans Benefits Administration’s social media from 2013 to 2019. Jason moved up the street to VA’s Digital Media Engagement team in June 2019."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
