@@ -26,8 +26,6 @@ topics:
 
 The first chatbot, ELIZA, was created back in 1964 to demonstrate that communication between humans and computers would be superficial. However, much to Dr. Weizenbaum’s (ELIZA’a creator) surprise, people easily formed friendly relationships with the computer program. People forming relationships with ELIZA was especially surprising considering just [how simple the program was regarding generating conversational responses](http://www.filfre.net/2011/06/eliza-part-2/). ELIZA essentially parroted back what the users typed but, this was enough to convince people that the program seemed to care about the person. The [ELIZA Effect](https://en.wikipedia.org/wiki/ELIZA_effect) was coined to describe how users attribute humanlike motives to computer programs. You can talk to ELIZA yourself at this [site](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm). 
 
-{{< legacy-img src="2015/12/600-x-450-Creative-brain-concept-background-thanaphiphat-iStock-Thinkstock-494897999.jpg" alt="Creative brain concept illustration" caption="" >}} 
-
 {{< img src="creative-brain-concept-thanaphiphat-istock-thinkstock-494897999" >}}
 
 People are quick to treat computer programs as being [more aware than computer code could be](https://chatbotsmagazine.com/why-people-treat-bots-like-people-1c3d7afafca8). However, can computer programs – especially chatbots – have a significant effect on people? Especially people suffering from depression or anxiety?
