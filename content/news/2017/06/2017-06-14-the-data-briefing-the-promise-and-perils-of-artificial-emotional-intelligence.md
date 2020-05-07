@@ -2,9 +2,14 @@
 slug: the-data-briefing-the-promise-and-perils-of-artificial-emotional-intelligence
 date: 2017-06-14 11:37:13 -0400
 title: 'The Data Briefing: the Promise &#8211; and Perils &#8211; of Artificial Emotional Intelligence'
-summary: 'The first chatbot, ELIZA, was created back in 1964 to demonstrate that communication between humans and computers would be superficial. However, much to Dr. Weizenbaum’s (ELIZA’a creator) surprise, people easily formed friendly relationships with the computer program. People forming relationships with ELIZA was especially surprising considering just how simple the program was regarding generating conversational'
+summary: "People are quick to treat computer programs as being more aware than computer code could be. However, can computer programs – especially chatbots – have a significant effect on people? Especially people suffering from depression or anxiety? A recent academic study shows some promising results from using a chatbot as a complement to a human therapist."
+
 authors:
   - bbrantley
+
+# primary Image (for social media)
+primary_image: "creative-brain-concept-thanaphiphat-istock-thinkstock-494897999"
+
 topics:
   - data
   - mobile
@@ -16,13 +21,19 @@ topics:
   - internet-of-things
   - IoT
   - mobile
+
 ---
 
-The first chatbot, ELIZA, was created back in 1964 to demonstrate that communication between humans and computers would be superficial. However, much to Dr. Weizenbaum’s (ELIZA’a creator) surprise, people easily formed friendly relationships with the computer program. People forming relationships with ELIZA was especially surprising considering just [how simple the program was regarding generating conversational responses](http://www.filfre.net/2011/06/eliza-part-2/). ELIZA essentially parroted back what the users typed but, this was enough to convince people that the program seemed to care about the person. The [ELIZA Effect](https://en.wikipedia.org/wiki/ELIZA_effect) was coined to describe how users attribute humanlike motives to computer programs. You can talk to ELIZA yourself at this [site](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm). {{< legacy-img src="2015/12/600-x-450-Creative-brain-concept-background-thanaphiphat-iStock-Thinkstock-494897999.jpg" alt="Creative brain concept illustration" caption="" >}} 
+The first chatbot, ELIZA, was created back in 1964 to demonstrate that communication between humans and computers would be superficial. However, much to Dr. Weizenbaum’s (ELIZA’a creator) surprise, people easily formed friendly relationships with the computer program. People forming relationships with ELIZA was especially surprising considering just [how simple the program was regarding generating conversational responses](http://www.filfre.net/2011/06/eliza-part-2/). ELIZA essentially parroted back what the users typed but, this was enough to convince people that the program seemed to care about the person. The [ELIZA Effect](https://en.wikipedia.org/wiki/ELIZA_effect) was coined to describe how users attribute humanlike motives to computer programs. You can talk to ELIZA yourself at this [site](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm). 
+
+{{< legacy-img src="2015/12/600-x-450-Creative-brain-concept-background-thanaphiphat-iStock-Thinkstock-494897999.jpg" alt="Creative brain concept illustration" caption="" >}} 
+
+{{< img src="creative-brain-concept-thanaphiphat-istock-thinkstock-494897999" >}}
 
 People are quick to treat computer programs as being [more aware than computer code could be](https://chatbotsmagazine.com/why-people-treat-bots-like-people-1c3d7afafca8). However, can computer programs – especially chatbots – have a significant effect on people? Especially people suffering from depression or anxiety?
 
-<img src="https://www.woebot.io/img/more-features/WoebotApp.png" width="250" align="right" />A recent academic study shows some promising results from [using a chatbot as a complement to a human therapist](https://mental.jmir.org/2017/2/e19/). Called [Woebot](https://www.woebot.io/), the chatbot used [cognitive behavioral therapy](https://psychcentral.com/lib/in-depth-cognitive-behavioral-therapy/) techniques to “[help people identify and manage symptoms of anxiety and depression, through identifying and changing patterns of distorted negative thinking](https://chatbotsmagazine.com/a-therapist-bot-actually-works-e27c72b9632e).” Students who used Woebot were found to have significantly reduced symptoms of anxiety and depression compared to students who only used a self-help book. Please note that this is only one study of 70 students over a two-week period but, it shows promise.
+{{< img-right src="woebotapp" >}}
+A recent academic study shows some promising results from [using a chatbot as a complement to a human therapist](https://mental.jmir.org/2017/2/e19/). Called [Woebot](https://www.woebot.io/), the chatbot used [cognitive behavioral therapy](https://psychcentral.com/lib/in-depth-cognitive-behavioral-therapy/) techniques to “[help people identify and manage symptoms of anxiety and depression, through identifying and changing patterns of distorted negative thinking](https://chatbotsmagazine.com/a-therapist-bot-actually-works-e27c72b9632e).” Students who used Woebot were found to have significantly reduced symptoms of anxiety and depression compared to students who only used a self-help book. Please note that this is only one study of 70 students over a two-week period but, it shows promise.
 
 On September 30, 2015, the [White House called on data scientists and app developers to help in creating suicide prevention apps]({{< ref "2015-10-07-the-data-briefing-white-house-asks-data-scientists-and-app-developers-to-help-suicide-prevention-efforts.md" >}}). A chatbot like Woebot is on call 24/7, does not judge, and can keep the person talking while first responders are being called to the scene. Similarly, Facebook is working on [machine-learning algorithms to detect suicidal thoughts in Facebook postings](https://www.scientificamerican.com/article/can-facebooks-machine-learning-algorithms-accurately-predict-suicide/). The Facebook algorithms could be embedded in apps provided by the Veterans Administration or the Substance Abuse and Mental Health Services Administration.
 
