@@ -25,6 +25,9 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - darren-cole
+  - kelly-osborn
+  - rebecca-collier
   - tammy-white
 
 # YouTube ID
