@@ -4,8 +4,8 @@
 
 # slug — the specific user-id for an author.
 slug: christopher-m-wurst
-display_name: "Christopher M. Wurst"
-first_name: "Christopher M."
+display_name: "Christopher M Wurst"
+first_name: "Christopher M"
 last_name: "Wurst"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
