@@ -20,7 +20,6 @@ end_date: 2020-05-12 15:00:00 -0500
 authors: 
   - Jarah Meador
   - Elaine Johanson
-  - Holly Stephens
   
 # see all topics at https://digital.gov/topics
 topics: 
