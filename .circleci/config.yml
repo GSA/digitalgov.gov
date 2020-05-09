@@ -5,9 +5,9 @@ jobs:
     docker:
       - image: circleci/node:latest
       - image: cibuilds/hugo:latest
-    working_directory: ~/project/
+    working_directory: ~/usr/bin/project/
     environment:
-      HUGO_BUILD_DIR: ~/project/public
+      HUGO_BUILD_DIR: ~/usr/bin/project/public
 
     steps:
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends git
@@ -19,9 +19,9 @@ jobs:
           name: "What branch am I on?"
           command: echo ${CIRCLE_BRANCH}
 
-      - run:
-          name: Update NPM
-          command: 'sudo npm install -g npm@latest'
+      # - run:
+      #     name: Update NPM
+      #     command: 'sudo npm install -g npm@latest'
 
       - restore_cache:
           key: dependency-cache-{{ checksum "package-lock.json" }}
