@@ -17,7 +17,6 @@ jobs:
       # Run a step to print what branch our code base is on.
       - run:
           name: "What branch am I on?"
-          command: echo ${CIRCLE_BRANCH}
           command: echo pwd
       # - run:
       #     name: Update NPM
