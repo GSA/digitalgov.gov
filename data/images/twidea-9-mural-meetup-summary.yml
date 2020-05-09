@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/twidea-9-mural-meetup-summary.png
+
+# Image shortcode: {{< img src="twidea-9-mural-meetup-summary" >}}
+
+date     : 2020-05-05 17:42:23 -0400
+uid      : twidea-9-mural-meetup-summary
+width    : 8258
+height   : 5939
+format   : png
+credit   : ""
+caption  : "Summary from four breakout groups."
+alt      : "Screen capture of five groups of notes in light green, light blue, pink, yellow, and black, are displayed in an online whiteboard."

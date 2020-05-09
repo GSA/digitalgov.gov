@@ -10,6 +10,7 @@ authors:
 topics:
   - accessibility
   - 21st-century-idea
+  - this-weeks-idea
 featured_image:
   uid: this-weeks-idea-card
   alt: ''
@@ -40,4 +41,4 @@ We hope you’ll use resource this to onboard someone to the topic of accessibil
 
 Huge shout-out to **Robert Jolly, a Product Manager at 18F** who recently took on the task of updating the [18F Accessibility Guide](https://accessibility.18f.gov/) to USWDS 2.0 from USWDS 1.0. Along the way, Robert stated, “I’m not an engineer by trade/title!” yet found his way through the guidance and made it happen.
 
-_“thanks for all the great work y’all are doing—it’s extremely helpful and sorely needed in the federal government.”_ — **Steven “Shep” Shepherd who works in the Policy and Legislative Initiatives Division at HUD** and is working with to revise their existing web forms using USWDS 2.0.
+_“thanks for all the great work y’all are doing—it’s extremely helpful and sorely needed in the federal government.”_ — **Steven “Shep” Shepherd who works in the Policy and Legislative Initiatives Division at HUD** and is working with to revise their existing web forms using USWDS 2.0. 

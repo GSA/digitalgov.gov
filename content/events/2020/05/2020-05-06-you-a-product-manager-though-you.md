@@ -5,35 +5,34 @@ slug: you-a-product-manager-though-you
 title: "You Are a Product Manager (Though You May Not Know It)"
 deck: ""
 summary: "We will define product management, discuss how it's used in the government context through a case study, and arm listeners with practices to use and evangelize product thinking."
-host: "18F Product Chapter "
+host: "18F Product Chapter"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/100006588398
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4379399&CustomerID=321
 
 # start date
-date: 2020-04-07 14:00:00 -0500
+date: 2020-05-06 14:00:00 -0500
 
 # end date
-end_date: 2020-04-07 15:00:00 -0500
+end_date: 2020-05-06 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
   - product-management
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
+event_platform: 
 
 # YouTube ID
 youtube_id: 
 
+# Redirects
+aliases:
+  - /event/2020/04/07/you-a-product-manager-though-you/
+
 # Make it better ♥
 
 ---
-
-{{< note >}}
-**April 7, 2020:** This event has been cancelled and will be rescheduled soon for a later date. 
-If you have already registered for this event, check your email for updates from digitalgovu@gsa.gov. 
-{{< /note >}}
 
 Government employees encounter problems to solve on a daily basis. Maybe you need to define and implement new services for people eligible for a government program, or identify a process improvement that saves time, money, or resources. Often, these solutions involve software products. We've seen our fair share of failed government projects in the news. We’ve also seen many great digital services that serve citizens so well that they become a reminder that the government is on your side. In our experience, these successes result from project teams shifting their mindset to product thinking.
 

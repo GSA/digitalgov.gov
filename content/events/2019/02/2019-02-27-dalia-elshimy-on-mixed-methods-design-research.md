@@ -1,24 +1,39 @@
 ---
+# View this page at https://digital.gov/event/2019/02/dalia-elshimy-on-mixed-methods-design
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: dalia-elshimy-on-mixed-methods-design-research
-title: 'Dalia El-Shimy on Mixed Methods Design Research'
-summary: 'How should designers collect data and how can they use that data to inform their work&#63; Dalia El-Shimy, UX Research Lead at Shopify&#39;s Montreal Office, will share how her team uses mixed methods research in support of its design decisions&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-02-27 14:00:00 -0500
-end_date: 2019-02-27 14:30:00 -0500
-event_organizer: DigitalGov University
-host: 'Digital.gov + TTS Research Guild'
+title: "Dalia El-Shimy on Mixed Methods Design Research"
+deck: ""
+summary: "How should designers collect data and how can they use that data to inform their work? Dalia El-Shimy, UX Research Lead at Shopify's Montreal Office, will share how her team uses mixed methods research in support of its design decisions."
+host: "Digital.gov + TTS Research Guild"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dalia-el-shimy-on-mixed-methods-research-in-support-of-design-registration-56943695125
-youtube_id: G8j815ryxr0
-topics:
+captions: 
+
+# start date
+date: 2019-02-27 14:00:00 -0500
+
+# end date
+end_date: 2019-02-27 14:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - design
   - research
-  - ux
   - user-research
+  - ux
   - methodology
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - andrew-maier
+  - ben-peterson
+  - dalia-elshimy
+
+# YouTube ID
+youtube_id: G8j815ryxr0
+
+# Make it better ♥
 
 ---
 

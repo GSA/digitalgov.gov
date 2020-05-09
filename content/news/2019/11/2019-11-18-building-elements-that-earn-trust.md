@@ -11,6 +11,7 @@ authors:
 topics:
   - product-management
   - 21st-century-idea
+  - this-weeks-idea
 featured_image:
   uid: this-weeks-idea-card-wk3
   alt: ''
@@ -68,4 +69,4 @@ Over the course of the next few weeks, we'll be taking your answers and using th
 
 ---
 
-_Have a 21st Century IDEA related comment or question? Or maybe you’d like to shout out some work your team has done? Send it to us by 3 pm ET on Thursdays ([digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)) and we’ll work to incorporate it into the next week’s newsletter._
+_Have a 21st Century IDEA related comment or question? Or maybe you’d like to shout out some work your team has done? Send it to us by 3 pm ET on Thursdays ([digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)) and we’ll work to incorporate it into the next week’s newsletter._ 

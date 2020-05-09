@@ -61,7 +61,10 @@ Link to authoritative information from other government agencies related to your
 
 The White House, in collaboration with DHS and HHS, encourages agencies to feature the following content on both their agency homepages and coronavirus pages as appropriate.
 
-### Last updated April 16, 2020
+### Last updated April 28, 2020
+- **Guidelines for Opening Up America Again**: On April 27, President Trump announced the [Guidelines for Opening Up America Again](https://www.whitehouse.gov/openingamerica/), a three-phased approach based on the advice of public health experts (related [image assets](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/css/microsites/opening-america-logo-2x.png)).
+
+{{< accordion kicker="Previous update" title="**April 16, 2020**:" >}}
 -   **Schema.org 7.0 Tags for Coronavirus Pages**: The [White House and key federal agencies](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/) are working alongside Schema.org to help ensure coronavirus resources are prioritized with online search engines. [Schema.org has released new standard tags](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html) for webpages; [view the implementation instructions](https://developers.google.com/search/docs/data-types/special-announcements).
     
 -   **Coronavirus Aid, Relief, and Economic Security (CARES) Act**: The Treasury Department is hard at work implementing the [CARES Act](https://treasury.gov/coronavirus) to provide relief for hard working American families, small businesses, and various industries impacted by coronavirus (COVID-19). This site includes valuable resources for these groups.
@@ -73,6 +76,7 @@ The White House, in collaboration with DHS and HHS, encourages agencies to featu
 -   **OPM Open Opportunities**: The OPM COVID-19 Response Program is using [Open Opportunities](https://openopps.usajobs.gov/) as a central location for federal agencies to post details and temporary assignments related to coronavirus (COVID-19). Open Opportunities is a governmentwide platform offering professional development opportunities to current federal employees. If your agency is interested in participating:
     -   Email [workforce@opm.gov](mailto:workforce@opm.gov) so OPM can invite you to a virtual information session.
     -  Post details and temporary assignments to [Open Opportunities](https://openopps.usajobs.gov/).
+{{< /accordion >}}
 
 {{< accordion kicker="Previous update" title="**April 1, 2020**:" >}}
 
@@ -109,6 +113,18 @@ Third, __LINK TO THE <a href="#lanes-of-communication">PRIMARY LANES OF COMMUNIC
 -   If your agency does not have agency-specific coronavirus information to present, include a link to [coronavirus.gov](https://www.coronavirus.gov/) on the homepage of your agency website. Prominence of display and additional locations to place the link is at agency discretion and should be based on user analytics (focus on where your users would be looking for this kind of information).
 
 Fourth, at this point, please __DO NOT CREATE A LOGO__ or any other distinct visual treatment for COVID-19. To provide for some level of consistency of presentation, a high-resolution copy of the image that CDC has been using can be found at [https://phil.cdc.gov/Details.aspx?pid=2871](https://phil.cdc.gov/Details.aspx?pid=2871).
+
+Fifth, learn more about how to update your web pages with Schema.org’s newly released tags in the post on WhiteHouse.gov, [Connecting Americans to Coronavirus Information Online](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/).
+
+Follow the guidance below to implement Schema.org tags on all relevant pages with coronavirus content:
+
+-   [Bing Webmaster special announcement specifications](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249)
+    
+-   [Google Search Console best practices for health websites](https://support.google.com/webmasters/answer/9781983?hl=en)
+    
+-   [Google tips on adding structured data to COVID-19 announcements](https://developers.google.com/search/docs/data-types/special-announcements)
+    
+-   [Schema.org Special Announcement](https://schema.org/SpecialAnnouncement)
 
 ## Lanes of Communication
 
