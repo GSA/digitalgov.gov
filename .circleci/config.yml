@@ -18,7 +18,7 @@ jobs:
       - run:
           name: "What branch am I on?"
           command: echo ${CIRCLE_BRANCH}
-
+          command: echo pwd
       # - run:
       #     name: Update NPM
       #     command: 'sudo npm install -g npm@latest'
