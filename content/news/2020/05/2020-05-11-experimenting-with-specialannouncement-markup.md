@@ -7,9 +7,9 @@ slug: experimenting-with-specialannouncement-markup
 short_url: 
 date: 2020-05-11 12:00:00 -0500
 kicker: "Findability"
-title: "Experimenting with SpecialAnnouncement Mark-up"
-deck: "What USAgov learned during its pilot with SpecialAnnouncement mark-up to make information easier to find in search results."
-summary: "What USAgov learned during its pilot with SpecialAnnouncement mark-up to make information easier to find in search results."
+title: "Experimenting with SpecialAnnouncement Markup"
+deck: "What USAgov learned during its pilot with SpecialAnnouncement markup to make information easier to find in search results."
+summary: "What USAgov learned during its pilot with SpecialAnnouncement markup to make information easier to find in search results."
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -46,11 +46,11 @@ Search engines try to learn about our web pages to provide good matches for thei
 
 [Schema.org is an example](https://schema.org/docs/gs.html). Created together by major search engines, the schema.org tags let you tell search engines about your content, so that they can better understand it. The tags create structure within unstructured web page data. For example, websites might use the schema.org tags to tell search engines that the breadcrumbs on their webpages are breadcrumbs, and then search engines can show these breadcrumbs in search results.
 
-Similarly, search engines won’t be able to interpret different paragraphs of text appropriately without signals as to the type of content. USA.gov uses [FAQPage](https://schema.org/FAQPage), a type of schema.org mark-up, to tell them that some of the headings on our pages are questions and the text that follows are answers; search engines use these to create special results that show full question and answer content from that website within search results pages. SpecialAnnouncement is one of the many Schema.org types.
+Similarly, search engines won’t be able to interpret different paragraphs of text appropriately without signals as to the type of content. USA.gov uses [FAQPage](https://schema.org/FAQPage), a type of schema.org markup, to tell them that some of the headings on our pages are questions and the text that follows are answers; search engines use these to create special results that show full question and answer content from that website within search results pages. SpecialAnnouncement is one of the many Schema.org types.
 
 ## What is SpecialAnnouncement
 
-The [SpecialAnnouncement](https://schema.org/SpecialAnnouncement) mark-up allows web pages to identify themselves as containing new and important information for the public concerning the coronavirus response. It also lets search engines provide a category for that type of information. Because these are announcements, they’re expected to apply for a limited amount of time, so expiration dates can be set. All of this data about the page can be used by search engines to present the page as a special or “rich” result to their users. These rich results are eye-catching to readers through modified layout, symbol and color.
+The [SpecialAnnouncement](https://schema.org/SpecialAnnouncement) markup allows web pages to identify themselves as containing new and important information for the public concerning the coronavirus response. It also lets search engines provide a category for that type of information. Because these are announcements, they’re expected to apply for a limited amount of time, so expiration dates can be set. All of this data about the page can be used by search engines to present the page as a special or “rich” result to their users. These rich results are eye-catching to readers through modified layout, symbol and color.
 
 The major search engines have published guidance on how they will interpret your use of SpecialAnnouncement. They also shared information about how they actually support the data by using it in search results.
 
@@ -59,21 +59,21 @@ The major search engines have published guidance on how they will interpret your
   
 Schema.org also has lots of detailed [information about SpecialAnnouncement](https://schema.org/SpecialAnnouncement). In most cases, the search engine documentation should be sufficient to get you going.
 
-## What might search engines do with SpecialAnnouncement mark-up
+## What might search engines do with SpecialAnnouncement markup
 
-To date, we, and other agencies that have implemented the mark-up, haven’t seen any changes on search results pages. Google has released a [statement on feature availability](https://developers.google.com/search/docs/data-types/special-announcements#feature-availability) and, hopefully, rich results using the data we provide with SpecialAnnouncement will become prevalent in the future.
+To date, we, and other agencies that have implemented the markup, haven’t seen any changes on search results pages. Google has released a [statement on feature availability](https://developers.google.com/search/docs/data-types/special-announcements#feature-availability) and, hopefully, rich results using the data we provide with SpecialAnnouncement will become prevalent in the future.
 
 In the meantime, using SpecialAnnouncement can help search engines learn about important information that agencies disseminate to the public. When visual representation of the data occurs in search engine results pages, pages with this code on them will immediately benefit.
 
 Based on our experience with the display of data using other schema.org types such as FAQ, treatment for special announcement may involve an alert symbol and a distinct background color.
 
-## Does my page need this mark-up
+## Does my page need this markup
 
-Yes, any web page your agency publishes about coronavirus needs this mark-up.
+Yes, any web page your agency publishes about coronavirus needs this markup.
 
-In [Connecting Americans to Coronavirus Information Online](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/), “The White House Office of Science and Technology Policy (OSTP) and Office of Management and Budget (OMB) directed Federal Chief Information Officers to incorporate these new Schema.org standard tags into all federally maintained web pages related to COVID-19.” When a government web page that announces information about our coronavirus pandemic response includes SpecialAnnouncement mark-up, it will help search engines fine-tune their support for our information. And, having mark-up on your pages now means that they are ready for special treatment in results pages as soon as that is a possibility.
+In [Connecting Americans to Coronavirus Information Online](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/), “The White House Office of Science and Technology Policy (OSTP) and Office of Management and Budget (OMB) directed Federal Chief Information Officers to incorporate these new Schema.org standard tags into all federally maintained web pages related to COVID-19.” When a government web page that announces information about our coronavirus pandemic response includes SpecialAnnouncement markup, it will help search engines fine-tune their support for our information. And, having markup on your pages now means that they are ready for special treatment in results pages as soon as that is a possibility.
 
-In the event that it is not possible to add the mark-up to every page that might be appropriate, here are some considerations USAGov has used to prioritize.
+In the event that it is not possible to add the markup to every page that might be appropriate, here are some considerations USAGov has used to prioritize.
 
 ### Learn about your page’s position in search results
 
@@ -83,13 +83,13 @@ The major search engine companies also provide tools that let you see how your p
 
 ### Start with pages that already rank high
 
-Adding the mark-up will not improve the results ranking for any given page. A page won’t be listed higher in search results pages than it normally would by adding the mark-up. But while using schema.org tags like this does not improve position in search results, if a page already ranks highly for a certain query and that page has supported schema.org mark-up on it, the special treatment for that page’s listing may be triggered.
+Adding the markup will not improve the results ranking for any given page. A page won’t be listed higher in search results pages than it normally would by adding the markup. But while using schema.org tags like this does not improve position in search results, if a page already ranks highly for a certain query and that page has supported schema.org markup on it, the special treatment for that page’s listing may be triggered.
 
-## What information do you need to create the mark-up
+## What information do you need to create the markup
 
-USAgov found we actually do not need much more information to create the mark-up. Because it is based on content we already have within the web page, it is pretty easy to create each field required by the mark-up.
+USAgov found we actually do not need much more information to create the markup. Because it is based on content we already have within the web page, it is pretty easy to create each field required by the markup.
 
-As with all mark-up formats, SpecialAnnouncement creates structure within unstructured web page data. That means it applies signals to certain information in the page, as if assigning that information to fields in a database. Choosing the values for the categories it wants is sort of like filling out a form. It’s best to explore those categories using the documentation from the major search engines. For example, here is [the list from Google](https://developers.google.com/search/docs/data-types/special-announcements#data-type-definitions). The list of mandatory fields you need to provide values for is very short; there are also options to choose fields depending on the topic of your page.
+As with all markup formats, SpecialAnnouncement creates structure within unstructured web page data. That means it applies signals to certain information in the page, as if assigning that information to fields in a database. Choosing the values for the categories it wants is sort of like filling out a form. It’s best to explore those categories using the documentation from the major search engines. For example, here is [the list from Google](https://developers.google.com/search/docs/data-types/special-announcements#data-type-definitions). The list of mandatory fields you need to provide values for is very short; there are also options to choose fields depending on the topic of your page.
 
 The main categories to answer are:
 
@@ -100,7 +100,7 @@ Depending on the category you choose, there may be more choices for extra inform
 
 If you still have questions, there is a [Google SpecialAnnouncement support group](https://developers.google.com/search/docs/data-types/special-announcements#troubleshooting) you can join. You can also join Digital.gov’s [web content managers community](https://digital.gov/communities/web-content-managers/) to ask and answer questions of your federal government peers.
 
-## How do I get the mark-up on the page
+## How do I get the markup on the page
 
 USAgov’s preferred method for putting SpecialAnnouncement information onto pages is by coding it using JSON-LD, and then putting this code into the “head” section of the web page’s code. JSON-LD is a computer language that is just for data. It allows for simple pairs of categories and a value, and it allows for hierarchies. We prefer this method for several reasons. It is supported by multiple search engines, it’s easy for them to read, and it’s separate from the other parts of your code so it can be inserted and adjusted without breaking things.
 
@@ -108,11 +108,11 @@ If you are unable to get developer support to add JSON-LD to your web page, Goog
 
 ### Managing SpecialAnnouncement pages over time
 
-Adding new mark-up code with original content to individual web pages in this manner may be outside of your normal workflow, so you’ll need to add some new steps. You will need a way to keep track of this “hidden” content that you add to each web page. If possible, define a strategy for which mark-up you’ll add to which types of pages, and assign those pages to particular content types. You can then add the mark-up fields to the page template for that content type, which will allow you to make global changes as needed, and target items for regular review.
+Adding new markup code with original content to individual web pages in this manner may be outside of your normal workflow, so you’ll need to add some new steps. You will need a way to keep track of this “hidden” content that you add to each web page. If possible, define a strategy for which markup you’ll add to which types of pages, and assign those pages to particular content types. You can then add the markup fields to the page template for that content type, which will allow you to make global changes as needed, and target items for regular review.
 
-If the mark-up can’t be managed holistically, the expiration date field can be of some service, because once the announcement has expired in the search engines, it won’t have any impact.
+If the markup can’t be managed holistically, the expiration date field can be of some service, because once the announcement has expired in the search engines, it won’t have any impact.
 
-## How do I know if my mark-up is valid
+## How do I know if my markup is valid
 
 Search engines provide validation tools for structured data. These tools allow you to submit a url for a web page, and then test to see if the code is correct for the types of structured data that the search engine supports. If there’s a problem, they can give you some clues on how to fix it. The Bing tool requires a [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) account. The [Google rich results tester](https://search.google.com/test/rich-results) does not have such a requirement. Both tools know to look for and check SpecialAnnouncement.
 
@@ -122,17 +122,17 @@ If you’re not a developer, but you’re writing the JSON-LD yourself, another 
 
 If your code is on a page and working, and you have access to Google Search Console or Bing Webmaster Tools, they provide forms so you can let them know that your page has been updated and therefore should be re-indexed soon.
 
-## How do I know if my mark-up is being used by search engines
+## How do I know if my markup is being used by search engines
 
-As mentioned above, USAgov has not seen support for display of rich results within results pages using our SpecialAnnouncement mark-up. However, as of May 5, 2020, Google Search Console now supports tracking performance for pages with this type of mark-up. That means that a Search Console account for your site allows you to discover:
+As mentioned above, USAgov has not seen support for display of rich results within results pages using our SpecialAnnouncement markup. However, as of May 5, 2020, Google Search Console now supports tracking performance for pages with this type of markup. That means that a Search Console account for your site allows you to discover:
 
-- Which pages on your site have been discovered as having mark-up;
-- Which pages have valid or invalid mark-up; and  
-- How many times a rich result using that mark-up has been shown in results pages, and how many times that has resulted in a referral to your site.
+- Which pages on your site have been discovered as having markup;
+- Which pages have valid or invalid markup; and  
+- How many times a rich result using that markup has been shown in results pages, and how many times that has resulted in a referral to your site.
 
-If your mark-up is not valid, and you make a change to try to fix it, you can request that the search engine re-index your page in order to evaluate the change.
+If your markup is not valid, and you make a change to try to fix it, you can request that the search engine re-index your page in order to evaluate the change.
 
-USAgov has used Search Console to learn which marked-up pages have been indexed and the validity of their mark-up. As of May 5, the data does not indicate that the mark-up has been used for any rich results. See the screenshot below.
+USAgov has used Search Console to learn which marked-up pages have been indexed and the validity of their markup. As of May 5, the data does not indicate that the markup has been used for any rich results. See the screenshot below.
 
 {{< img src="two-specialannouncement-pages" >}}
 
