@@ -18,8 +18,10 @@ end_date: 2020-05-12 15:00:00 -0500
 
 # see all authors at https://digital.gov/authors
 authors: 
-  - Jarah Meador
-  - Elaine Johanson
+  - elaine-johanson
+  - emily-boja-phd
+  - holly-stephens
+  - jarah-meador
   
 # see all topics at https://digital.gov/topics
 topics: 
@@ -35,6 +37,7 @@ topics:
 youtube_id: 
 
 # Make it better ♥
+
 ---
 
 Did you know the U.S. Food and Drug Administration (FDA) regulates products that account for roughly 25% of the U.S. economy? That’s right: The agency reviews and approves a lot more than drugs and vaccines. Its purview extends to medical devices, dietary supplements, foods and more—and it’s constantly monitoring for their potential health risks to the public. 
