@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "James L. Reuter was named NASA’s associate administrator for the Space Technology Mission Directorate (STMD) at NASA Headquarters in June 2019, a position in which he served in an acting capacity since February 2017. In this role, he provides executive leadership and management of the technology programs within STMD, with an annual investment value of $1.1 billion"
+bio: "James L. Reuter was named NASA’s associate administrator for the Space Technology Mission Directorate (STMD) at NASA Headquarters in June 2019, a position in which he served in an acting capacity since February 2017. In this role, he provides executive leadership and management of the technology programs within STMD, with an annual investment value of $1.1 billion."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: https://www.nasa.gov/directorates/spacetech/about_us/bios/reuter_bio
