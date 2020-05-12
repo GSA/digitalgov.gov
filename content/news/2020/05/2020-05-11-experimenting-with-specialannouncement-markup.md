@@ -4,7 +4,7 @@
 slug: experimenting-with-specialannouncement-markup
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xvHV4
 date: 2020-05-11 12:00:00 -0500
 kicker: "Findability"
 title: "Experimenting with SpecialAnnouncement Markup"
