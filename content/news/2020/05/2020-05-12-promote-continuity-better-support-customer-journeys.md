@@ -4,7 +4,7 @@
 slug: promote-continuity-better-support-customer-journeys
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xv6rZ
 date: 2020-05-12 17:00:00 -0500
 kicker: "This Week's IDEA"
 title: "Promote Continuity to Better Support Customer Journeys"
