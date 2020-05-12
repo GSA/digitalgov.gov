@@ -32,7 +32,7 @@ weight: 1
 
 ---
 
-Lieutenant colonel Ted Erickson served as the program manager for the Air Force’s Common Computing Environment (CCE), which is now commonly known as [Cloud One](https://software.af.mil/team/cloud-one/)). During his tenure, beginning in 2017, his government and contractor team accumulated a number of lessons learned that will no doubt resonate with the DevOps practitioners.
+Lieutenant colonel Ted Erickson served as the program manager for the Air Force’s Common Computing Environment (CCE), which is now commonly known as [Cloud One](https://software.af.mil/team/cloud-one/). During his tenure, beginning in 2017, his government and contractor team accumulated a number of lessons learned that will no doubt resonate with the DevOps practitioners.
 
 Ted plans to discuss his informal lessons running up to his departure from the program in the summer of 2019 just as [DevSecOps](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/) took flight in the Air Force. He plans to discuss early challenges with stakeholder management, process development, and education surrounding newly-available cloud tools.
 
