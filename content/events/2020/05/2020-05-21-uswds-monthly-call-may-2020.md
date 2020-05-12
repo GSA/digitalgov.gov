@@ -37,16 +37,14 @@ weight: 1
 
 {{< img-right src="uswds-logo" >}}
 
-Dan Williams, U.S. Web Design System (USWDS) product lead, will host the next USWDS monthly call on Thursday, May 21, at 2:30 pm, ET. Register today!
-
-Join this month’s call where Dan and USWDS team members will demo the design system’s newly-released components for cards and forms. They’ll also share new UX guidance for data visualizations.
+Join this month’s call where Dan Williams, U.S. Web Design System (USWDS) product lead and USWDS team members will demo the design system’s newly-released components for cards and forms. They’ll also share new user expereince (UX) guidance for data visualizations.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
 USWDS is a library of principles, guidance, and code to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
 
+## About the USWDS 
 
-## About the USWDS
 [**The U.S. Web Design System**](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
 - [The U.S. Web Design System](https://designsystem.digital.gov/)
