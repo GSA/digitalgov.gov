@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/uswds-monthly-call-may-2020-regis
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4340554&CustomerID=321
 
 # start date
-date: 2020-05-21 15:30:00 -0500
+date: 2020-05-21 14:30:00 -0500
 
 # end date
-end_date: 2020-05-21 16:30:00 -0500
+end_date: 2020-05-21 15:30:00 -0500
 
 # see all authors at https://digital.gov/authors
 authors: 
