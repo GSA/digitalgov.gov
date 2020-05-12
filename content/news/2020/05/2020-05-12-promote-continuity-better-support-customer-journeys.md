@@ -8,7 +8,7 @@ short_url:
 date: 2020-05-12 17:00:00 -0500
 kicker: "This Week's IDEA"
 title: "Promote Continuity to Better Support Customer Journeys"
-deck: 'Using service design to focus on &#171;how it works&#187;'
+deck: 'Using service design to focus on &#34;how it works&#34;'
 summary: "This week, we’re exploring what it means to promote continuity, and we’re taking a look at ways to use service design to deliver a great experience."
 
 # see all topics at https://digital.gov/topics
