@@ -50,7 +50,7 @@ Consistency is not necessarily conformity. Each website has a unique audience, m
 
 So, what does it mean to promote continuity, and how can we build user-centered solutions that address the whole experience of our customers in the context of their journey?
 
-In 2003, when asked about the success of the iPod, [Steve Jobs said](https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html), "Most people make the mistake of thinking design is what it looks like. People think it's this veneer—that the designers are handed this box and told, 'Make it look good!' That's not what we think design is. It's not just what it looks like and feels like. Design is how it works."
+In 2003, when asked about the success of the iPod, Steve Jobs said, "Most people make the mistake of thinking design is what it looks like. People think it's this veneer—that the designers are handed this box and told, 'Make it look good!' That's not what we think design is. It's not just what it looks like and feels like. Design is how it works."
 
 How can we design government websites so they look good AND work? How can we design our services to better support customer journeys?
 
