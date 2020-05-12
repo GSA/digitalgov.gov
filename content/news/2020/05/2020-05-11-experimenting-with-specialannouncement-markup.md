@@ -8,8 +8,8 @@ short_url: https://go.usa.gov/xvHV4
 date: 2020-05-11 12:00:00 -0500
 kicker: "Findability"
 title: "Experimenting with SpecialAnnouncement Markup"
-deck: "What USAgov learned during its pilot with SpecialAnnouncement markup to make information easier to find in search results."
-summary: "What USAgov learned during its pilot with SpecialAnnouncement markup to make information easier to find in search results."
+deck: "What USA.gov learned during its pilot with SpecialAnnouncement markup to make information easier to find in search results."
+summary: "What USA.gov learned during its pilot with SpecialAnnouncement markup to make information easier to find in search results."
 
 # see all authors at https://digital.gov/authors
 authors: 
