@@ -39,4 +39,4 @@ Ted plans to discuss his informal lessons running up to his departure from the p
  
  ---
  
- *This talk is hosted by the [DevOp Community](https://digital.gov/communities/devops/) and Digital.gov.*
+ *This talk is hosted by the [DevOps Community](https://digital.gov/communities/devops/) and Digital.gov.*
