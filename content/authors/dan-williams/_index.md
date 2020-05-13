@@ -20,10 +20,10 @@ slug: dan-williams
 email: "daniel.williams@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Dan is the program lead for the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS)."
+bio: "Dan Williams is the program lead for the U.S. Web Design System (USWDS)."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: ""
+bio_url: "https://designsystem.digital.gov/"
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
