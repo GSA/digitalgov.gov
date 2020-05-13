@@ -21,10 +21,10 @@ bio: "Robert Djurasaj is the Cloud Architect (on detail) and Delivery Project Ma
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "U.S. Geological Survey"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "USGS"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
