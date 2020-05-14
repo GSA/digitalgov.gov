@@ -15,7 +15,7 @@ pronoun: ""
 email: ron.williams@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Ron Williams serves as Deputy Director for cloud.gov. Prior to joining GSA TTS, he was Director of IT for USDA Communications working on USDA.gov, ChooseMyPlate.gov, Farmers.gov, other public facing websites. As an open-source advocate, Ron focuses on deploying disruptive technologies within public sector institutions to improve services provided to the general public. "
+bio: "Ron Williams serves as Deputy Director for cloud.gov. Prior to joining the Technology Transformation Services (TTS) at the U.S. General Services Administration (GSA), he was Director of IT for USDA Communications working on USDA.gov, ChooseMyPlate.gov, Farmers.gov, other public facing websites. As an open-source advocate, Ron focuses on deploying disruptive technologies within public sector institutions to improve services provided to the general public. "
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
