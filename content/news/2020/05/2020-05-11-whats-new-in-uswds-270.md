@@ -15,8 +15,8 @@ short_url:
 date: 2020-05-11 14:00:00 -0500
 kicker: "USWDS"
 title: "What’s new in USWDS 2.7.0"
-deck: "Release Notes: **What’s new in USWDS 2.7.0**&mdash;Read more about these components on our website, but we’re excited to start releasing the first of a number of new design system components planned for 2020!"
-summary: "Release Notes: **What’s new in USWDS 2.7.0**&mdash;Read more about these components on our website, but we’re excited to start releasing the first of a number of new design system components planned for 2020!"
+deck: "**Release Notes: What’s new in USWDS 2.7.0**&mdash;Read more about these components on our website, but we’re excited to start releasing the first of a number of new design system components planned for 2020!"
+summary: "**Release Notes: What’s new in USWDS 2.7.0**&mdash;Read more about these components on our website, but we’re excited to start releasing the first of a number of new design system components planned for 2020!"
 
 # see all topics at https://digital.gov/topics
 topics: 
