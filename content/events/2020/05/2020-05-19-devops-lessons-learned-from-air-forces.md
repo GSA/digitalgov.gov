@@ -20,6 +20,17 @@ end_date: 2020-05-19 14:30:00 -0500
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: google
 
+# see all topics at https://digital.gov/topics
+topics:  
+  - agile
+  - devops
+  - professional-development
+  - project-management
+
+# see all authors at https://digital.gov/authors
+authors:
+  - lt-col-theodore-j-erickson
+
 # YouTube ID
 youtube_id: 
 
