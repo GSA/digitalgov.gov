@@ -87,7 +87,7 @@ Check out [the summary from the four breakout groups](https://app.mural.co/t/gsa
 
 ## From the Field
 
-“All government websites shouldn’t look exactly the same because trust and recognition are not universal. Instead, the design must match the tone and subject matter of each agency’s unique mission.” [&mdash;via 18F](https://18f.gsa.gov/2020/02/06/even-with-a-design-system-you-still-need-a-designer/)
+“All government websites shouldn’t look exactly the same because trust and recognition are not universal. Instead, the design must match the tone and subject matter of each agency’s unique mission.” &mdash;[via 18F](https://18f.gsa.gov/2020/02/06/even-with-a-design-system-you-still-need-a-designer/)
 
 ---
 
