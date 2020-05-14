@@ -20,6 +20,8 @@ end_date: 2020-05-20 15:00:00 -0500
 # see all authors at https://digital.gov/authors
 authors: 
   - kara-reinsel
+  - jessyka-castillo
+  - ron-williams
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: google
@@ -27,12 +29,8 @@ event_platform: google
 # YouTube ID
 youtube_id: 
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
-
 # Make it better ♥
+
 ---
 
 Agencies embarking on migration to the cloud often encounter challenges associated with successful acquisition. Programs must often connect a puzzle of contract vehicles and tools to meet the compliance and mission requirements. Key takeaways for this tech talk will include streamlining purchasing through Inter-Agency Agreements (IAAs), reducing administrative overhead, and mitigating IT program risks.
