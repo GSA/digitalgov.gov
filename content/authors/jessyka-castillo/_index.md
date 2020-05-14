@@ -15,7 +15,7 @@ pronoun: ""
 email: jessyka.castillo@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Jessyka Castillo currently leads Agency Partnerships for cloud.gov. She is responsible for the relationship management of existing and prospective cloud.gov partners."
+bio: "Jessyka Castillo currently leads Agency Partnerships for Cloud.gov. She is responsible for the relationship management of existing and prospective Cloud.gov partners."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
