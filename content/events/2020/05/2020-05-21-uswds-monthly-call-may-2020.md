@@ -36,7 +36,7 @@ primary_image: "uswds-2-illio-feature-image"
 
 {{< img-right src="uswds-logo" >}}
 
-Join this month’s call where Dan Williams, U.S. Web Design System (USWDS) product lead and USWDS team members will demo the design system’s newly-released components for cards and forms. They’ll also share new user expereince (UX) guidance for data visualizations.
+Join this month’s call where Dan Williams, U.S. Web Design System (USWDS) product lead and USWDS team members will demo the design system’s newly-released components for cards and forms. They’ll also share new user experience (UX) guidance for data visualizations.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
