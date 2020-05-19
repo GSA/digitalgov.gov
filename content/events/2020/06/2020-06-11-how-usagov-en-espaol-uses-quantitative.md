@@ -19,9 +19,12 @@ end_date: 2020-06-11 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
+  - analytics
   - contact-centers
   - content-strategy
   - dap
+  - data
+  - metrics
   - multilingual
   - social-media
   - strategy
