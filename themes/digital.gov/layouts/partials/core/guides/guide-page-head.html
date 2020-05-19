@@ -6,7 +6,7 @@
     {{- else -}}
     <p class="kicker"><a href="{{- .Parent.Permalink -}}" title="Go to {{- .Parent.Title -}}">{{- .Parent.Title -}}</a></p>
     {{- end -}}
-  {{- end -}}
+
 
 
   {{/* Page Title */}}
@@ -16,5 +16,14 @@
   {{- if .Params.deck -}}
   <div class="usa-intro">{{- .Params.deck | markdownify -}}</div>
   {{- end -}}
+  {{ else}}
+  {{- if .Params.kicker -}}
+    <p class="kicker">{{- .Params.kicker -}}</p>
+    {{- else -}}
+    <p class="kicker">{{- .Page.Title -}}</p>
+    {{- end -}}
+    {{/* Page Title */}}
+    <h1>Overview</h1>
 
+  {{- end -}}
 </header>
