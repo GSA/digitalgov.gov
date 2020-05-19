@@ -58,9 +58,9 @@ We will demo how we use the [Digital Analytics Program](https://digital.gov/serv
 
 ## Presenters:
 
-**Fabiola Herrera** has 12+ years of experience writing, editing, translating and managing content online. She creates content in Spanish for USAGov en Espa&#241;ol - for both the site and social media. She also analyzes data from the USAGov Contact Center. With this data, she develops monthly reports outlining trends and makes recommendations to improve the customer experience both on and offline.
+**Fabiola Herrera** has 12+ years of experience writing, editing, translating and managing content online. She creates content in Spanish for USAGov en Espa&#241;ol&mdash;for both the site and social media. She also analyzes data from the USAGov Contact Center. With this data, she develops monthly reports outlining trends and makes recommendations to improve the customer experience both on and offline.
 
-**Andres Quiñones** is a bilingual data analyst with many years of experience in optimization strategy, search and data analysis, and data storytelling. One of his key tasks in the team is to analyze all the data being collected from across different channels, including survey comments, and make recommendations to other teams in the organization. His analysis is key to the development of content and outreach messages that help the public find the answers they need.
+**Andres Quiñones** is a bilingual data analyst with many years of experience in optimization strategy, search and data analysis, and data storytelling. As part of the team, one of his key tasks is to analyze all the data being collected from across different channels (including survey comments) and make recommendations to other teams in the organization. His analysis is key to the development of content and outreach messages that help the public find the answers they need.
 
 ---
 
