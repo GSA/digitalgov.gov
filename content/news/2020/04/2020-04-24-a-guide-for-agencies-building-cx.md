@@ -21,7 +21,9 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - gsa-office-customer-experience
+  - Sheev Davé
+  - Aaron Stienstra
+  - Boris Arratia
 
 # primary Image (for social media)
 primary_image: "oce-cx-buying-guide-cover"
