@@ -54,7 +54,7 @@ weight: 0
 
 Understanding the needs of an audience is key in order to be able to develop the right content. We will show how USAGov en Espa&#241;ol continuously gathers and analyzes quantitative and qualitative data from a variety of channels, including the USAGov Contact Center, to meet the constantly evolving needs of our Spanish-language users.
 
-We will demo how we use DAP and other tools to collect data. We will also show a few examples of how we conduct our analysis to be able to make recommendations.
+We will demo how we use the [Digital Analytics Program](https://digital.gov/services/dap/) (DAP) and other tools to collect data. We will also show a few examples of how we conduct our analysis to be able to make recommendations.
 
 ## Presenters:
 
@@ -64,7 +64,7 @@ We will demo how we use DAP and other tools to collect data. We will also show a
 
 ---
 
-**Related Links:**
+## Related Links:
 
  - [USAGov Contact Center: Five Most Popular Questions from May to August 2019](https://blog.usa.gov/usagov-contact-center-five-most-popular-questions-from-may-to-july-2019)
  - [Top Searches on USA.gov in 2019](https://blog.usa.gov/top-search-queries-on-usa.gov-for-2019-0-0)
