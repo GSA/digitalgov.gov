@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: derek-mesaki
+slug: derek-masaki
 display_name: "Derek Masaki"
 first_name: "Derek"
 last_name: "Masaki"
