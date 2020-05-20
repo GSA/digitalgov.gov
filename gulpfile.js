@@ -2,11 +2,14 @@ var gulp = require("gulp");
 
 require('./config/gulp/scripts');
 require('./config/gulp/uswds');
-require('./config/gulp/img-prep');
-require('./config/gulp/img-process');
-require('./config/gulp/img-upload');
-require('./config/gulp/img-commit');
 
+const node_env = process.env.NODE_ENV ? process.env.NODE_ENV : 'development';
+console.log("env: " + node_env);
+if (process.env.NODE_ENV !== 'production') {
+  require('./config/gulp/img-prep');
+  require('./config/gulp/img-process');
+  require('./config/gulp/img-upload');
+  require('./config/gulp/img-commit');
 
   // Image Process tasks
   gulp.task("img-prep", gulp.series('mkdir'));
@@ -15,7 +18,7 @@ require('./config/gulp/img-commit');
   // gulp.task("img-commit", gulp.series('git-push'));
 
   gulp.task("img", gulp.series('img-upload'));
-
+}
 // Watch Tasks
 gulp.task('watch', function () {
   gulp.watch('./themes/digital.gov/src/scss/uswds/**/*.scss', gulp.series('build-sass'));
