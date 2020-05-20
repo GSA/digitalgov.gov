@@ -21,10 +21,10 @@ bio: ""
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "Homeland Security and Emergency Management Agency"
+agency_full_name: ""
 
 # Agency Acronym [e.g., GSA]
-agency: "HSEMA"
+agency: ""
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
