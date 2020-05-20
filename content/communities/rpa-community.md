@@ -40,22 +40,18 @@ weight: 1
 
 The RPA Community of Practice (CoP) is charged with sharing solutions to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
 
-## The RPA Playbook
-
-This playbook is designed to provide federal agencies detailed, accessible guidance for initiating a new RPA program or rapidly evolving an existing program.
-
-{{< button href="https://digital.gov/pdf/rpa-playbook.pdf" text="Download the RPA Playbook (v1.1)" >}}
-
-## RPA Use Cases
-
-This playbook is designed to provide federal agencies detailed, accessible guidance for initiating a new RPA program or rapidly evolving an existing program.
-
-{{< button href="https://feedback.gsa.gov/jfe/form/SV_5AuaO2sJP5Pbi4J" text="Submit an RPA Use Case" >}}
-
-## Who We Are
+## Purpose
 
 The RPA CoP seeks to achieve its important mission with a sense of urgency and a bias towards action. As agencies continue to learn the potential benefits of RPA, enthusiasm for developing RPA programs government-wide grows exponentially. The RPA CoP plays an important role in helping agencies convert RPA enthusiasm into action. Specifically, the CoP helps agencies develop programs that are cost effective, auditable, avoid common pitfalls, and most importantly, deploy impactful automations.
 
+## What We Do
+
+The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP assists agencies in developing programs that are cost-effective, auditable, avoid common pitfalls, and most importantly, deploy impactful automations. To this end, the CoP hosts frequent knowledge-sharing events and publishes valuable guidance on best practices.
+
+## Resources
+The RPA community has gathered several resource which are available to anyone interested in becoming more familiar with Robotic Process Automation including a [Playbook]({{< ref "rpa-playbook.md" >}}) and [Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}}). Check out our [RPA Guide]({{< ref "guides/rpa" >}}) to learn more!
+
+## Who We Are  
 The executive sponsors for the RPA Community of Practice are:
 
 - **Gerard Badorrek** — General Services Administration Chief Financial Officer and RPA Community of Practice Chair
@@ -87,9 +83,7 @@ The community is organized into 10 practice areas, with assigned leaders from im
 - **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF)
 - **RPA Playbook Lead**: Jim Geoghegan, General Services Administration (GSA)
 
-## What We Do
 
-The community achieves its mission through information sharing, identification and definition of options, best practices, methods and standards for RPA implementation and operations. It does not set policy, but policy-setting agencies are encouraged to participate and make use of the community’s base of knowledge, information, and experience.
 
 ---
 
