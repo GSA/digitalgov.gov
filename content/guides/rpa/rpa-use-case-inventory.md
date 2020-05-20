@@ -6,30 +6,18 @@ summary: ""
 guide: rpa
 ---
 
-## Overview
+## RPA Use Case Inventory
 
-The [Digital Analytics Program](https://digital.gov/services/dap/) (DAP) now offers the opportunity to become a DAP Certified Analyst. Prospective analysts must complete the DAP Certification Exam with a score of 80 percent or better. The exam is 50 questions and is multiple choice. Prospective analysts can take the exam more than once. 
+Hosted by the Federal [RPA Community of Practice (CoP)](https://digital.gov/communities/rpa/), the Federal RPA Use Case Inventory aims to capture all RPA use cases from across the federal government. This list of automations will help agencies create additional capacity, increase efficiency, enhance quality, and drive greater compliance.   
 
-The exam is not intended to be easy, nor is it targeted at novice DAP or Google Analytics users. The DAP team hopes that the exam can be used by prospective analysts in annual goals or individual development plans to demonstrate to supervisors that they maintain high-level of understanding of the program and Google Analytics. 
 
-DAP Certified Analysts will also be added to the Certified-DAP-Analysts Listserv designed for intermediate and advanced discussion of web analytics topics—including, but not limited to implementation, advanced features, and custom configurations. Any new DAP Certified Analyst will also have the ability to opt-out of the Listserv, if desired. 
+The Goals of the Use Case Inventory are to: 
 
-## The Exam
+-   **Increase awareness** of current RPA applications across the Federal Government to increase knowledge sharing, and accelerated adoption of innovative technologies.  
+-   Facilitate the **consolidation and sharing of individual agency RPA applications** to increase ROI and leverage economies of scale (government-wide solutions).  
+-   Develop **standardized performance metrics** for RPA deployments that allow accurate statements about government-wide impact of innovative technologies.
 
-To request the link to take the exam, email us at [dap@support.digitalgov.gov](http://dap@support.digitalgov.gov?subject=DAP%20Certification%20Exam%20Request) with the subject: “DAP Certification Exam Request.” 
+ 
 
-In order to become a DAP Certified Analyst, you must be a current DAP user. DAP users are limited to federal employees, and federal contractors with written approval from their federal supervisor. In order to receive the link for the exam, you will first be verified by the DAP team.
+{{< button href="https://feedback.gsa.gov/jfe/form/SV_5AuaO2sJP5Pbi4J" text="Submit an RPA Use Case" >}}
 
-The exam is offered via Google Forms. The DAP team understands that some agencies block Google Forms. If your agency blocks Google Forms, you can download and take the exam via a PDF version (which will be included in your email package from the team). The DAP team will accept either electronically- or manually-filled PDF exams by email only, at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov). 
-
-In order to prevent the distribution of correct answers, the DAP team has opted not to send exam participants a question-by-question review. After taking the exam, the prospective analyst will receive only a score. If the score passes the exam, the analyst will be sent a certificate (via email) from the DAP team verifying the completion and passing grade. If the prospective analyst does not pass the exam, they will not be sent their correct or incorrect exam answers. 
-
-## Study Materials
-
-The Digital Analytics Program team has created a study guide to help prospective analysts become more familiar with the content, but it is not the only resource from which the DAP Certification Exam draws questions.
-
-- [Review the DAP Certification Exam Study Guide](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/Certified_Analyst_Study_Guide.pdf) (PDF, 1.7 MB, 40 pages) 
-- [Watch our video tutorials and talks on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
-- [Explore the DAP GitHub Repo](https://github.com/digital-analytics-program/gov-wide-code) 
-
-Good luck on the exam :tada: !
