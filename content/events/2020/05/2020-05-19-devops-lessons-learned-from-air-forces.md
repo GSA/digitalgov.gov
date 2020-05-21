@@ -32,7 +32,7 @@ authors:
   - lt-col-theodore-j-erickson
 
 # YouTube ID
-youtube_id: 
+youtube_id: CeBGLZzfpAs
 
 # Make it better ♥
 
