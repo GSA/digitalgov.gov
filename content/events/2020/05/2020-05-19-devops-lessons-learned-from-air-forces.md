@@ -46,8 +46,8 @@ Ted plans to discuss his informal lessons running up to his departure from the p
 
 **Lt. Col. Theodore J. Erickson** is currently the Materiel Leader for the Enterprise Information Technology as a Service Program, Air Force Life Cycle Management Center, Cyber, Command, Control, Infrastructure & Networks Directorate. He was most recently assigned as the Branch Chief, Cyber & IT Infrastructure Operations and as the program manager for the Cloud One program within the same Directorate. His previous duty was as a Program Element Monitor, Information Dominance Directorate, Office of the Assistant Secretary of the Air Force for Acquisition, Washington, D.C.
 
- Lt. Col. Erickson received his commission from the United States Air Force Academy in 2004. He is a developmental engineer who has served as a Signals Engineer, Program Manager, Program Element Monitor and Engineering Assignments Officer.
+Lt. Col. Erickson received his commission from the United States Air Force Academy in 2004. He is a developmental engineer who has served as a Signals Engineer, Program Manager, Program Element Monitor and Engineering Assignments Officer.
  
- ---
+---
  
- *This talk is hosted by the [DevOps Community](https://digital.gov/communities/devops/) and Digital.gov.*
+_This talk is hosted by the [DevOps Community](https://digital.gov/communities/devops/) and Digital.gov._ 
