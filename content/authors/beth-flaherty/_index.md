@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Beth Flaherty is SYSTRAN Software’s Director of Government Solutions and is based in the Washington D.C. area. In her role, Beth is responsible for account management for current US Government clients and for educating prospective clients on the benefits of machine translation."
+bio: "Beth Flaherty is SYSTRAN Software’s Director of Government Solutions and is based in the Washington, D.C. area. In her role, Beth is responsible for account management for current U.S. government clients and for educating prospective clients on the benefits of machine translation."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
