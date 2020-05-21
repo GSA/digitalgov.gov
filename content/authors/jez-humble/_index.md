@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Jez Humble is co-author of the Shingo Award-winning Accelerate, The DevOps Handbook, Lean Enterprise, and the Jolt Award-winning Continuous Delivery. He has spent his career tinkering with code, infrastructure, and product development in companies of varying sizes across three continents, including work for the US Federal Government at 18F. Jez works as a developer advocate at Google and teaches at UC Berkeley."
+bio: "Jez Humble is co-author of the Shingo Award-winning Accelerate, The DevOps Handbook, Lean Enterprise, and the Jolt Award-winning Continuous Delivery. He has spent his career tinkering with code, infrastructure, and product development in companies of varying sizes across three continents, including work for the U.S. federal government at [18F](https://www.18f.gov). Jez works as a developer advocate at Google and teaches at UC Berkeley."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
