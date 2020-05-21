@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Annetta is an anthropologist by training and has a PhD from the University of Arizona. She worked for the U.S. government from 1980 until early 2007. Most of her federal career focused on writing and implementing regulations. She spent four years as the chief plain language expert on Vice President Al Gore’s National Partnership for Reinventing Government."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: https://www.iplfederation.org/introducing-annetta-cheek/
