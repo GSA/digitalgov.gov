@@ -20,9 +20,9 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - Sheev Davé
-  - Aaron Stienstra
-  - Boris Arratia
+  - sheev-dav
+  - aaron-stienstra
+  - boris-arratia
 
 # primary Image (for social media)
 primary_image: "oce-cx-buying-guide-cover"
