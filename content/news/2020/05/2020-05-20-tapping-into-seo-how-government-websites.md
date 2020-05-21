@@ -22,6 +22,9 @@ topics:
 authors: 
   - albinko-hasic
 
+# primary Image (for social media)
+primary_image: "seo-colorful-website-illustration-under-magnifying-glass-aleksandr-durnov-istock-gettyimagesplus-954640444"
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
