@@ -30,9 +30,6 @@ weight: 0
 # Make it better ♥
 ---
 
-# Make it better ♥
----
-
 {{< img-right src="uswds-logo" >}}
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
