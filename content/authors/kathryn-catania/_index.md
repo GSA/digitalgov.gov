@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "chief, Plain Language and Content Division, Office of Communications, USCIS"
+bio: "Kathryn Catania is the Chief, Plain Language and Content Division, of the Office of Communications at U.S. Citizenship and Immigration Services (USCIS), which is part of the U.S. Department of Homeland Security (DHS)."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
