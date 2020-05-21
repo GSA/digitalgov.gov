@@ -15,16 +15,16 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Tori Garten is the chief of the New Media and Web Policy Branch at the NIAID—one of the 27 Institutes and Centers of NIH."
+bio: "Tori Garten is the chief of the New Media and Web Policy Branch at the National Institute of Allergy and Infectious Diseases (NIAID)—one of the 27 Institutes and Centers of the National Institutes of Health (NIH)."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "National Institute of Allergy and Infectious Diseases National Institutes of Health"
+agency_full_name: "National Institute of Allergy and Infectious Diseases"
 
 # Agency Acronym [e.g., GSA]
-agency: "NIAID/NIH"
+agency: "NIAID"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
