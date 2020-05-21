@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/fedramp-logo-circle-stamp.png
+
+# Image shortcode: {{< img src="fedramp-logo-circle-stamp" >}}
+
+date     : 2020-05-21 09:13:54 -0400
+uid      : fedramp-logo-circle-stamp
+width    : 150
+height   : 150
+format   : png
+credit   : ""
+caption  : ""
+alt      : "FedRAMP's FR circle logo" 
