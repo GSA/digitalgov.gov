@@ -39,7 +39,7 @@ weight: 0
 
 ---
 
-In 2016, the Census Bureau created a translation office to standardize the quality, style and terminology of translations. The language support for the 2020 Census is a significant expansion of previous censuses, and is the most robust language program that the U.S. Census Bureau has ever built. Respondents can respond online or by phone in English and 12 non-English languages, and access video and print guides in 59 non-English languages (supporting over 99% of all U.S. households).
+In 2016, the Census Bureau created a translation office to standardize the quality, style, and terminology of translations. The language support for the 2020 Census is a significant expansion of previous censuses, and is the most robust language program that the U.S. Census Bureau has ever built. Respondents can respond online or by phone in English and 12 non-English languages, and access video and print guides in 59 non-English languages (supporting over 99% of all U.S. households).
 
 In this presentation, 2020 Census language program experts will provide an overview and demonstration of non-English instruments, questionnaires, and materials, and discuss the processes, technology, and tools used.
 
