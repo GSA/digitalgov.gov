@@ -4,7 +4,7 @@
 slug: tapping-into-seo-how-government-websites
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xvhmA
 date: 2020-05-20 15:00:00 -0500
 kicker: "SEO"
 title: "Tapping Into SEO: How Government Websites Can Improve Content Reach"
