@@ -3,14 +3,9 @@ var gulp = require("gulp");
 require('./config/gulp/scripts');
 require('./config/gulp/uswds');
 
-
-// Set the environment
-gulp.task('set-env', async function (done) {
-  return process.env.NODE_ENV = 'development';
-  done();
-});
-
-if (process.env.NODE_ENV === 'development') {
+const node_env = process.env.NODE_ENV ? process.env.NODE_ENV : 'development';
+console.log("env: " + node_env);
+if (process.env.NODE_ENV !== 'production') {
   require('./config/gulp/img-prep');
   require('./config/gulp/img-process');
   require('./config/gulp/img-upload');
@@ -24,12 +19,12 @@ if (process.env.NODE_ENV === 'development') {
 
   gulp.task("img", gulp.series('img-upload'));
 }
-
 // Watch Tasks
 gulp.task('watch', function () {
   gulp.watch('./themes/digital.gov/src/scss/uswds/**/*.scss', gulp.series('build-sass'));
   gulp.watch('./themes/digital.gov/src/scss/new/**/*.scss', gulp.series('build-sass'));
   gulp.watch('./themes/digital.gov/src/js/**/*.js', gulp.series('compile', 'compile-common'));
+  gulp.watch('./content/images/_inbox/*.*', gulp.series('img'));
 });
 
 // gulp build-assets — build without watching

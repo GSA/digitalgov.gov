@@ -4,11 +4,10 @@
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
   "scripts": {
-    "set-env": "gulp set-env",
     "local-build": "gulp build-assets && gulp watch",
     "hugo": "hugo serve",
-    "federalist": "gulp build-assets",
-    "start": "npm-run-all --parallel set-env local-build hugo",
+    "federalist": "export NODE_ENV=production && gulp build-assets",
+    "start": "npm-run-all --parallel local-build hugo",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "directories": {

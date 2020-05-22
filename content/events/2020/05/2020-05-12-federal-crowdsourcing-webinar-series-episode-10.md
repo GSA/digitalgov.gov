@@ -18,9 +18,10 @@ end_date: 2020-05-12 15:00:00 -0500
 
 # see all authors at https://digital.gov/authors
 authors: 
-  - Jarah Meador
-  - Elaine Johanson
-  - Holly Stephens
+  - elaine-johanson
+  - emily-boja-phd
+  - holly-stephens
+  - jarah-meador
   
 # see all topics at https://digital.gov/topics
 topics: 
@@ -36,6 +37,7 @@ topics:
 youtube_id: 
 
 # Make it better ♥
+
 ---
 
 Did you know the U.S. Food and Drug Administration (FDA) regulates products that account for roughly 25% of the U.S. economy? That’s right: The agency reviews and approves a lot more than drugs and vaccines. Its purview extends to medical devices, dietary supplements, foods and more—and it’s constantly monitoring for their potential health risks to the public. 
@@ -65,5 +67,8 @@ Airing monthly, this series illuminates how U.S. agencies are reaching beyond th
 **Jarah Meador** has been leading open innovation programs in government for seven years at the United States Agency for International Development (USAID), U.S. Department of Veterans Affairs (VA), and now as the director of the Challenge.gov and Citizenscience.gov programs at the U.S. General Services Administration (GSA). Jarah came to her role(s) in government via the Science and Technology Policy Fellowship Program of the American Association for the Advancement of Science. Prior to this she was a research scientist focused primarily on radiation biophysics and DNA repair processes.
  
 **Elaine Johanson** currently serves as the acting director of health informatics within the Office of the Chief Scientist at FDA, where she brings more than 35 years of information technology and health informatics experience. In this position, she utilizes non-traditional mechanisms to share FDA data and to engage external experts in evolving areas of regulatory science. In addition, she facilitates agency-wide participation in international health data and terminology standards, leads the identification and curation of substance information, and the exchange of product labeling information for FDA.
- 
-**Holly Stephens** has 17 years of experience in the design and implementation of genetic and genomic studies in the fields of neuropsychiatry, cardiovascular disease, pharmacogenomics, and oncology. In addition, she has 10 years of molecular genetics laboratory experience and a certification in clinical research. As a contractor for Booz Allen, she has supported the precisionFDA initiative for more than two years.
+
+**Dr. Emily Boja** is a health scientist who will support OHI’s precisionFDA initiative and other informatics endeavors. Prior to joining OHI, she was a Program Director at the Office of Cancer Clinical Proteomic Research, NCI, NIH, providing scientific expertise and leadership in managing the Clinical Proteomic Tumor Analysis Consortium program. In addition, she oversaw the analytical, informatics and regulatory aspects of molecular technologies, platforms and tools via interactions with the FDA and the American Association of Clinical Chemistry, e.g.,, leading the precisionFDA-NCI-CPTAC Multi-Omics Enabled Sample Mislabeling Correction Challenge. Prior to the NCI, she served as a Staff Scientist at the Laboratory of Cardiac Energetics, NHLBI, NIH. She holds a Ph.D. degree in Biochemistry and Molecular Biology from the Medical College of Virginia, Virginia Commonwealth University.
+
+**Holly Stephens** has 17 years of experience in the design and implementation of genetic and genomic studies in the fields of neuropsychiatry, cardiovascular disease, pharmacogenomics, and oncology. In addition, she has 10 years of molecular genetics laboratory experience and a certification in clinical research. 
+
