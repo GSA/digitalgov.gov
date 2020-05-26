@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: uswds-monthly-call-may-2020
 title: "USWDS Monthly Call - Cards, Forms, and Data Visualizations"
-deck: "U.S. Web Design System Product Lead, Dan Williams, and team talk about the design system and answers audience questions."
+deck: "U.S. Web Design System Product Lead, Dan Williams, and team talked about the design system and answered audience questions."
 summary: "The May 2020 USWDS monthly call revisited the design system’s card and forms components. Speakers also paid special attention to data visualization."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
