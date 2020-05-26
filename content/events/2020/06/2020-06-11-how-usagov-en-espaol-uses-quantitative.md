@@ -43,6 +43,9 @@ event_platform: zoom
 # YouTube ID
 youtube_id: 
 
+# Primary Image (for social media)
+primary_image: "usagov-espanol-logo"
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
