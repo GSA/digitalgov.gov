@@ -24,7 +24,7 @@ bio_url: https://www.whitehouse.gov/people/kelvin-k-droegemeier/
 agency_full_name: "White House"
 
 # Agency Acronym [e.g., GSA]
-agency: "WHOSTP"
+agency: "OSTP"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
