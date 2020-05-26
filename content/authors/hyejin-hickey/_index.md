@@ -21,10 +21,10 @@ bio: "Hyejin Hickey is a language acquisition professional with expertise in mil
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "Department of Defense"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "DOD"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
