@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Alex Measure is an economist-turned-machine learning and natural language processing (NLP) practitioner at BLS. He designs, builds, and maintains machine learning systems that automate difficult text classification, information extraction, and record-matching problems in production systems."
+bio: "Alex Measure is an economist-turned-machine learning and natural language processing (NLP) practitioner at the Burueau of Labor Statistics (BLS). He designs, builds, and maintains machine learning systems that automate difficult text classification, information extraction, and record-matching problems in production systems."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
