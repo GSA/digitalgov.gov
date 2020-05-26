@@ -29,7 +29,7 @@ topics:
   - open
   - innovation
   - challenges
-  - data science
+  - data-science
   - medicine
   - health
 
