@@ -15,8 +15,8 @@ short_url:
 date: 2020-05-27 11:00:00 -0500
 kicker: "Open Source Code"
 title: "Federal Source Code Study Series"
-deck: "**Federal Source Code Study Series** &mdash; Learn about some of the history of Open Source Software in the federal government."
-summary: "**Federal Source Code Study Series** &mdash; Learn about some of the history of Open Source Software in the federal government."
+deck: "**Federal Source Code Study Series** &mdash; Read the first article of the Federal Source Codes Study (FSCS) series. The FSCS was a three-year study that examined the federal government's effort in implementing the Federal Source Code Policy and open sourcing software."
+summary: "**Federal Source Code Study Series** &mdash; Read the first article of the Federal Source Codes Study (FSCS) series. The FSCS was a three-year study that examined the federal government's effort in implementing the Federal Source Code Policy and open sourcing software."
 
 # see all topics at https://digital.gov/topics
 topics: 
