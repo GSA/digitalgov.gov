@@ -12,6 +12,10 @@ summary: "Supporting and coordinating the use of artificial intelligence technol
 topics:
   - data
   - artificial-intelligence
+  
+# see all authors at https://digital.gov/authors
+authors:
+  - steven-babitch
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
