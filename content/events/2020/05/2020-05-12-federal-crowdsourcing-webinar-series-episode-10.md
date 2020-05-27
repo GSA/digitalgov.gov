@@ -29,8 +29,6 @@ topics:
   - open
   - innovation
   - challenges
-  - medicine
-  - health
 
 # YouTube ID
 youtube_id: 
