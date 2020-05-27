@@ -12,7 +12,7 @@ slug: federal-source-code-study-series
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-05-27 23:000:00 -0500
+date: 2020-05-27 11:00:00 -0500
 kicker: "Open Source Code"
 title: "Federal Source Code Study Series"
 deck: "**Federal Source Code Study Series** &mdash; Learn about some of the history of Open Source Software in the federal government."
