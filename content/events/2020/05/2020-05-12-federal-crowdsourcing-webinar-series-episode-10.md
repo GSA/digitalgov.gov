@@ -29,7 +29,6 @@ topics:
   - open
   - innovation
   - challenges
-  - data-science
   - medicine
   - health
 
