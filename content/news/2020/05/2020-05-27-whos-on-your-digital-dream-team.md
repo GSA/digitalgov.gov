@@ -4,8 +4,8 @@
 slug: whos-on-your-digital-dream-team
 
 # Short URL — https://go.usa.gov/
-short_url: 
-date: 2020-05-27 22:00:00 -0500
+short_url: https://go.usa.gov/xwYuQ
+date: 2020-05-27 23:00:00 -0500
 kicker: "This Week’s IDEA"
 title: "Who's on Your Digital Dream Team?"
 deck: "Getting the right skills, talent, leadership, and support in place to build winning digital tools and services"
