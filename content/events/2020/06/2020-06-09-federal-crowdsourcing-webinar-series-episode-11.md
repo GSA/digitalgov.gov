@@ -50,7 +50,7 @@ More importantly, it’s the law: With the passage of the [21st Century Integrat
 
 So how do you know if your application is functioning properly on different mobile devices? You take it to the testers.
 
- The [CrowdSource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/) is a network of federal employees who voluntarily test agency website displays across devices, operating systems, and mobile browsers. browsers. The results they provide can immediately be applied to make federally hosted information more available and accessible to citizens on the go.
+ The [CrowdSource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/) is a network of federal employees who voluntarily test agency website displays across devices, operating systems, and mobile browsers. The results they provide can immediately be applied to make federally hosted information more available and accessible to citizens on the go.
 
 On the other side of the coin, participating in mobile test cycles helps educate federal employees on mobile technologies.
 
