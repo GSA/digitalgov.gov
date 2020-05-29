@@ -59,8 +59,8 @@ params:
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
   git_org               : "GSA"
   git_repo              : "digitalgov.gov"
-  url_shortener_login: jeremyz
-  url_shortener_api: d0ac464a2dfad044147e9537fd51503b
+  url_shortener_login: s010sdc
+  url_shortener_api: a2e23efb16d2e7276df87fd016cff830
   devmode               : false
 
   # Homepage settings
