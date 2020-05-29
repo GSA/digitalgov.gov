@@ -26,9 +26,6 @@ topics:
   - privacy
   - security
 
-# YouTube ID
-youtube_id: 
-
 # Make it better ♥
 
 ---
