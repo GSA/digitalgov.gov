@@ -50,6 +50,7 @@ Then, of course, you need a team with the right mix of skills. These are the key
 -   **Customer Experience Specialist** - Ensures digital services are designed to flow in a logical manner, from start to finish (including across channels), to help customers complete their task as quickly and easily as possible.
 -   **Designer** - Helps define users, problems, and potential solutions. (Note that, even with a design system, [you still need a designer](https://18f.gsa.gov/2020/02/06/even-with-a-design-system-you-still-need-a-designer/).)
 -   **Developer** - Builds digital tools that work well, and are accessible and easy to use.
+-   **Digital Analyst** - Ensures digital services are achieving their goals and objectives, and provides insights to improve customer experience across all channels. 
 -   **IT Accessibility Specialist** - Ensures systems and content meet Section 508 requirements, and are designed for ease of use by all persons, regardless of ability.
 -   **Social Media Manager** - Engages customers and promotes products and services via social channels.
 -   **User Experience Specialist** - Engages real users to observe behaviors, understand expectations, and design digital products to meet user needs.
