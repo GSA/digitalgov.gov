@@ -1,11 +1,6 @@
-
-**Summary**
-
-<!-- Summary of the PR -->
-
 This PR implements the following **changes:**
 
-* [ ] change 1
+* change 1
 
 
 **URL / Link to page**
