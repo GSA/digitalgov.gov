@@ -46,11 +46,11 @@ weight: 0
 
 Once simply a smart feature, mobile-friendly sites have evolved into must-have components of every organization’s digital presence, and now mobile accounts, for more than half of all web activity.
 
-More importantly, it’s the law: With the passage of the [21st Century Integrated Digital Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) of 2018, public-facing government websites and digital services must be functional and usable on any mobile device.
+More importantly, it’s the law: With the passage of the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) of 2018, public-facing government websites and digital services must be functional and usable on any mobile device.
 
 So how do you know if your application is functioning properly on different mobile devices? You take it to the testers.
 
- The [CrowdSource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/) is a network of federal employees who voluntarily test agency website displays across devices, operating systems, and mobile browsers. The results they provide can immediately be applied to make federally hosted information more available and accessible to citizens on the go.
+The [CrowdSource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/) is a network of federal employees who voluntarily test agency website displays across devices, operating systems, and mobile browsers. The results they provide can immediately be applied to make federally hosted information more available and accessible to citizens on the go.
 
 On the other side of the coin, participating in mobile test cycles helps educate federal employees on mobile technologies.
 
