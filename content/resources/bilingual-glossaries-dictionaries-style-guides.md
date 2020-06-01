@@ -91,9 +91,9 @@ Financial and retirement terminology:
 
 - [Health Resources and Services Administration](https://www.hrsa.gov/) (HRSA): <br />Offers the **Glossary for Organ Donation and Transplantation** on [their English website](https://www.organdonor.gov/about/facts-terms/terms.html), and [their Spanish website](https://donaciondeorganos.gov/sobre/datos-t%C3%A9rminos/1yv2/t%C3%A9rminos.html).
 - [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
-- The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers two PDF files to download:
+- The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers a glossary and a style guide:
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
-   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages). 
+   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/culture-language/article/style-guide-translations-spanish). 
 - [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish: 
    - [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a) 
    - [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a) 
