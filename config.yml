@@ -60,7 +60,7 @@ params:
   git_org               : "GSA"
   git_repo              : "digitalgov.gov"
   url_shortener_login: s010sdc
-  url_shortener_api: a2e23efb16d2e7276df87fd016cff830
+  url_shortener_api: SHORTURL_KEY
   devmode               : false
 
   # Homepage settings
