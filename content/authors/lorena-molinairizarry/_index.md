@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Lorena is the founder and current vice-president of NextGen Network @Census- focusing on Leadership and Career Development for Millennials and Gen X employees, generational differences in the workplace, and process improvement to enhance business practices. In addition, she is a member of the Government-wide NextGen Leadership Forum (chaired by GovLoop)."
+bio: "Lorena is the founder and current vice-president of NextGen Network @ Census, focusing on Leadership and Career Development for Millennials and Gen X employees, generational differences in the workplace, and process improvement to enhance business practices. In addition, she is a member of the Government-wide NextGen Leadership Forum (chaired by GovLoop)."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
@@ -24,7 +24,7 @@ bio_url:
 agency_full_name: "U.S. Census Bureau"
 
 # Agency Acronym [e.g., GSA]
-agency: "USCB"
+agency: "Census"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
