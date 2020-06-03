@@ -15,16 +15,16 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Hyejin Hickey is a language acquisition professional with expertise in military foreign language education. Within the past 12 years, she has supported the U.S. Special Operations Command’s Special Warfare Center and School, U.S. Army 1-1 Special Forces Group and Detachment 1, and U.S. Air Force 43rd Intelligence Squadron in Okinawa, Japan. Currently, she supports the Defense Language and National Security Education Office’s National Language Service Corps as the Partner Support Liaison Lead."
+bio: "Hyejin Hickey is a language acquisition professional with expertise in military foreign language education. Within the past 12 years, she has supported the U.S. Special Operations Command’s Special Warfare Center and School, U.S. Army 1-1 Special Forces Group and Detachment 1, and U.S. Air Force 43rd Intelligence Squadron in Okinawa, Japan. Currently, she supports the [Defense Language and National Security Education Office](https://www.dlnseo.org/)’s [National Language Service Corps](https://www.nlscorps.org/) as the Partner Support Liaison Lead."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url: https://www.nlscorps.org/
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "Department of Defense"
+agency_full_name: "U.S. Department of Defense"
 
 # Agency Acronym [e.g., GSA]
-agency: "DOD"
+agency: "DoD"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
@@ -44,4 +44,5 @@ linkedin: ""
 youtube: ""
 
 # Make it better ♥
+
 ---
