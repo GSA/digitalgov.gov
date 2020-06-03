@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/usagov-specialannouncement.png
+
+# Image shortcode: {{< img src="usagov-specialannouncement" >}}
+
+date     : 2020-05-11 16:36:30 -0400
+uid      : usagov-specialannouncement
+width    : 1656
+height   : 734
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 

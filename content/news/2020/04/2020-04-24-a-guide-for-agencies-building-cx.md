@@ -13,7 +13,6 @@ summary: "GSA’s customer experience team has released a federal buying guide t
 
 # see all topics at https://digital.gov/topics
 topics:
-  - customer-experience
   - cx
   - design
   - governance
@@ -21,7 +20,9 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - gsa-office-customer-experience
+  - sheev-dav
+  - aaron-stienstra
+  - boris-arratia
 
 # primary Image (for social media)
 primary_image: "oce-cx-buying-guide-cover"
