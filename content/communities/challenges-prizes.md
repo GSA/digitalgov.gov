@@ -17,7 +17,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - eric-beidel
+  - jarah-meador
   - stephanie-green
   - tammy-white
 
