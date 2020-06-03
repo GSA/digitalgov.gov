@@ -5,7 +5,7 @@ slug: women-in-it-panel-1
 title: "Women In Federal IT & Cyber Conference Panel #1: Designing a Network"
 deck: "Panelists will be discussing the importance of surrounding yourself with those with similar skills, and a strategic professional network."
 kicker: "CIO Council"
-summary: "The importance of surrounding yourself with those with similar technical skills, finding your niche, and designing a professional network. The concept of a professional network might be intimidating, why not start with those with similar interests and skills to create a core network. A core network prioritizes those with similar technical skills to build a strong foundation. You can expect to come away with a) the “why” of designing a core network, b) ways to identify people with similar skills, and c) steps you can take to design a strategic professional network.
+summary: "The importance of surrounding yourself with those with similar technical skills, finding your niche, and designing a professional network. The concept of a professional network might be intimidating, why not start with those with similar interests and skills to create a core network. A core network prioritizes those with similar technical skills to build a strong foundation. You can expect to come away with a) the why of designing a core network, b) ways to identify people with similar skills, and c) steps you can take to design a strategic professional network."
 host: "CIO Council"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/107263285374
