@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Leslie O'Flahavan is an online writing expert. Leslie specializes in helping organizations improve the quality of customer service responses. She helps employees improve the quality of the email, chat, and social media messages they send to customers."
+bio: "Leslie O'Flahavan is an online writing expert. Leslie specializes in helping organizations improve the quality of customer service responses. She helps employees improve the quality of the email, chat, and social media messages that they send to customers."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
