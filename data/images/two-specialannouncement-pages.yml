@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/two-specialannouncement-pages.png
+
+# Image shortcode: {{< img src="two-specialannouncement-pages" >}}
+
+date     : 2020-05-11 14:51:18 -0400
+uid      : two-specialannouncement-pages
+width    : 841
+height   : 327
+format   : png
+credit   : "" 
+caption  : "USA.gov pages with SpecialAnnouncement markup as displayed in Search Console" 
+alt      : "USA.gov pages with SpecialAnnouncement markup as displayed in Search Console" 
