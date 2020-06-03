@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/10x-gold-x-logo.png
+
+# Image shortcode: {{< img src="10x-gold-x-logo" >}}
+
+date     : 2020-05-05 17:42:23 -0400
+uid      : 10x-gold-x-logo
+width    : 1200
+height   : 725
+format   : png
+credit   : ""
+caption  : ""
+alt      : "This version of the 10x logo has a gold x."

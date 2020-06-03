@@ -23,7 +23,7 @@ topics:
   - research
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
+event_platform:
 
 # see all authors at https://digital.gov/authors
 authors:

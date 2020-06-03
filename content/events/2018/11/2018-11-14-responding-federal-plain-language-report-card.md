@@ -5,7 +5,7 @@ summary: 'We will discuss the Federal Plain Language Report Card and how to addr
 featured_image:
   uid:
   alt: ''
-event_platform: zoom
+event_platform: 
 date: 2018-11-14 14:00:00 -0500
 end_date: 2018-11-14 15:00:00 -0500
 event_organizer: DigitalGov University
