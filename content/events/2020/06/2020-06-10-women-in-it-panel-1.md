@@ -24,7 +24,10 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - shila-cooch
   - kyra-stewart
+  - rotimi-abimbola
+  - sarah-moffat
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: adobe_connect
