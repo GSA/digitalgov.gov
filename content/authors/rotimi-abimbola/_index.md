@@ -18,7 +18,7 @@ email:
 bio: "Rotimi Abimbola serves as the Chief of Staff to the Chief Information Officer (CIO) at the U.S. Department of the Interior. In this capacity she works alongside the CIO to bridge the gap between technical and non-technical communities and support mission functions. "
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url: https://www.doi.gov/ocio
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. Department of the Interior"
