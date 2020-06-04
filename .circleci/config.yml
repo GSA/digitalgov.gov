@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node:latest
+      - image: circleci/node:12
       - image: cibuilds/hugo:latest
     working_directory: ~/usr/bin/project/
     environment:
