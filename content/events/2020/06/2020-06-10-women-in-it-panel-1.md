@@ -1,6 +1,7 @@
 ---
 # View this page at https://digital.gov/event/2020/06/women-in-it-panel-1
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: women-in-it-panel-1
 title: "Women In Federal IT & Cyber Conference Panel #1: Designing a Network"
 deck: "Panelists will be discussing the importance of surrounding yourself with those with similar skills, and a strategic professional network."
