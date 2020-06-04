@@ -11,11 +11,11 @@ last_name: "Stewart"
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
+# Email — If you include an email address, it will be displayed on your profile page
 email: kyra.stewart@gsa.gov
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Kyra M. Stewart serves as the team lead for the Technology Business Management (TBM) Program Management Office (PMO) at the U.S. General Services Administration. In this role, she supports TBM Implementation across the Federal government. With more than $90 billion spent on Federal IT each year, her work is integral to increasing cost transparency and enabling better data-driven decision making. "
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
