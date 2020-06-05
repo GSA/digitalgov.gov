@@ -41,6 +41,7 @@ youtube_id:
 # Make it better ♥
 
 ---
+{{< note >}}This event is for federal government employees only, you must have a .gov or .mil address to register!{{< /note >}}
 
 **Moderator: Shila Cooch, OMB**
 Shila Cooch, an 18-year civil servant of the U.S. Federal Government, is recognized as an accomplished government technology and policy executive who expertly manages monumental organizational change - currently serving under the Federal Chief Information Officer (CIO), in the White House Office of Management and Budget (OMB).
