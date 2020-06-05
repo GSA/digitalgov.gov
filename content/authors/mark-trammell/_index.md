@@ -21,10 +21,10 @@ bio: "Mark Trammell is a designer and researcher at 18F working most frequently 
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. Department of Veterans Affairs"
+agency_full_name: "U.S. General Services Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: "VA"
+agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
