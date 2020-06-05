@@ -16,6 +16,16 @@ date: 2020-05-05 15:00:00 -0500
 # end date
 end_date: 2020-05-05 16:00:00 -0500
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - dr-emily-shen
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - data
+  - privacy
+  - security
+
 # YouTube ID
 youtube_id: 
 
