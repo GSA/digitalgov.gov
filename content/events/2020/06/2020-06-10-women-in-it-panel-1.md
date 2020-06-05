@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/06/women-in-it-panel-1
+# View this page at https://digital.gov/event/2020/06/10/women-in-it-panel-1
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: women-in-it-panel-1
@@ -36,10 +36,7 @@ event_platform: adobe_connect
 # YouTube ID
 youtube_id: 
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
+
 
 # Make it better ♥
 
