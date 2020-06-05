@@ -20,10 +20,7 @@ youtube_id:
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 0
+draft: true
 
 # Make it better ♥
 ---
