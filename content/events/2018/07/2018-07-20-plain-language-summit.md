@@ -93,7 +93,3 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
 
 
-**NOTE:** In-person tickets are limited and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will receive priority, and others after.
-
-
-{{< img src="plain-language-summit-2018" caption="" alt="Plain Language Summit 2018" >}}
