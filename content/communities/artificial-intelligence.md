@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/communities/artificial-intelligence
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: artificial-intelligence
-date: 0-12-31 19:3:00 -0500
+date: 2019-12-31 19:03:00 -0500
 title: "Artificial Intelligence"
 deck: ""
 summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
