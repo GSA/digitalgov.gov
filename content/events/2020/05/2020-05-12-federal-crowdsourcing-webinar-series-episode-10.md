@@ -42,7 +42,7 @@ Did you know the U.S. Food and Drug Administration (FDA) regulates products that
 
 All of that monitoring means massive amounts of data. Information and reporting on adverse reactions streams in from numerous sources, including healthcare providers and patients. So, how does FDA detect the “blips” in data that could lead to important public health discoveries? 
 
-Enter <a href="https://precision.fda.gov/challenges/9" target="_blank" rel="noopener">precisionFDA</a>, a secure, cloud-based platform that aids the study and analysis of large datasets. Established in 2016, precisionFDA harnesses the power of the crowd to advance data science techniques to identify anomalies that may lead to valuable health insights.
+Enter [precisionFDA](https://precision.fda.gov/challenges/9), a secure, cloud-based platform that aids the study and analysis of large datasets. Established in 2016, precisionFDA harnesses the power of the crowd to advance data science techniques to identify anomalies that may lead to valuable health insights.
 
 Participants will learn how this model is helping FDA to better understand evolving areas of science around large biological data sets and apply that understanding to inform and develop regulatory science standards.
 
