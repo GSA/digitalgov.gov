@@ -1,20 +1,20 @@
 ---
 # View this page at https://digital.gov/communities/artificial-intelligence
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: artificial-intelligence
-date: 2019-12-12 19:000:00 -0500
+date: 0-12-31 19:3:00 -0500
 title: "Artificial Intelligence"
 deck: ""
 summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - data
   - artificial-intelligence
-  
+
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
+  - krista-kinnard
   - steven-babitch
 
 # Page weight: controls how this page appears across the site
@@ -28,10 +28,10 @@ community_list:
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AI Listserv"
     members: 734
-    emails_per_week:
+
 
 # Make it better ♥
-
+---
 ---
 
 When the president signed the [Executive Order 13859, Maintaining American Leadership in Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/), on February 11, 2019, it launched the American AI initiative to promote and protect AI technology and innovation in the United States.
