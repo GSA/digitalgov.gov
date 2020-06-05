@@ -10,7 +10,7 @@ host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-july-2020-registration-96968989859
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4340586&CustomerID=321
-
+draft: true
 # start date
 date: 2020-07-16 14:30:00 -0500
 
