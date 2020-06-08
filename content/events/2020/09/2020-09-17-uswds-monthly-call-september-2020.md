@@ -37,6 +37,9 @@ youtube_id:
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
 
+aliases:
+  - /events/
+  
 # Make it better ♥
 ---
 
