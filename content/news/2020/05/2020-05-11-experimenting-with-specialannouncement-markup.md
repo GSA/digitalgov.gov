@@ -120,7 +120,7 @@ If the markup can’t be managed holistically, the expiration date field can be 
 
 Search engines provide validation tools for structured data. These tools allow you to submit a url for a web page, and then test to see if the code is correct for the types of structured data that the search engine supports. If there’s a problem, they can give you some clues on how to fix it. The Bing tool requires a [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) account. The [Google rich results tester](https://search.google.com/test/rich-results) does not have such a requirement. Both tools know to look for and check SpecialAnnouncement. Google’s rich results tester now provides a preview of the rich result too. The style does not match what we are seeing in actual search results, but the structure, interactivity, and text are the same.  
 
-{{< img-right img src="rich-results-test" >}}
+{{< img-right src="rich-results-test" >}}
 
 Here is an example of a preview of the rich result from above, but with the accordion closed: 
 
