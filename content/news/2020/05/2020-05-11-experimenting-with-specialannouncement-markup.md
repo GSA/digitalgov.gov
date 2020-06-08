@@ -7,9 +7,9 @@ slug: experimenting-with-specialannouncement-markup
 short_url: https://go.usa.gov/xvHV4
 date: 2020-05-11 12:00:00 -0500
 kicker: "Findability"
-title: "Experimenting with SpecialAnnouncement Markup"
-deck: "What USA.gov learned during its pilot with SpecialAnnouncement markup to make information easier to find in search results."
-summary: "What USA.gov learned during its pilot with SpecialAnnouncement markup to make information easier to find in search results."
+title: "Experimenting with SpecialAnnouncement Markup (Updated June 08, 2020)"
+deck: "What USA.gov learned during its pilot with SpecialAnnouncement markup to make COVID-19 information easier to find in search results."
+summary: "What USA.gov learned during its pilot with SpecialAnnouncement markup to make COVID-19 information easier to find in search results, now updated to reflect changes by major search engines."
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -33,6 +33,12 @@ topics:
 ---
 
 ## Introduction
+
+Please note that we’ve updated this article since its original publication. Key changes include:
+
+- SpecialAnnouncement markup is now being used to [display rich results](#what-might-search-engines-do-with-specialannouncement-markup) in search engines.
+- You can now [preview what results look like](#how-do-i-know-if-my-markup-is-valid) using Google’s rich results tester.
+- Google Search Console is now reporting on impressions and clicks for SpecialAnnouncement rich results.
 
 The American people need access to the most up-to-date, trusted information on coronavirus.
 
@@ -61,17 +67,15 @@ Schema.org also has lots of detailed [information about SpecialAnnouncement](htt
 
 ## What might search engines do with SpecialAnnouncement markup
 
-To date, we, and other agencies that have implemented the markup, haven’t seen any changes on search results pages. Google has released a [statement on feature availability](https://developers.google.com/search/docs/data-types/special-announcements#feature-availability) and, hopefully, rich results using the data we provide with SpecialAnnouncement will become prevalent in the future.
+At the minimum, using SpecialAnnouncement can help search engines learn about important information that we disseminate to the public. In some circumstances, search engines are using the markup to generate rich results that display the tagged information in an eye-catching way. Search engines may replace a page’s standard listing in a results page with a rich result. Or, if a page ranks very highly for a certain query, a search engine may place the rich result in a prominent place. As discussed below, SpecialAnnouncement markup does not improve the ranking of a page, but it can trigger a rich result that can both draw user attention and feature the text included in the markup. Here is a recent example of a SpecialAnnouncement rich result with the accordioned content open and visible:
 
-In the meantime, using SpecialAnnouncement can help search engines learn about important information that agencies disseminate to the public. When visual representation of the data occurs in search engine results pages, pages with this code on them will immediately benefit.
-
-Based on our experience with the display of data using other schema.org types such as FAQ, treatment for special announcement may involve an alert symbol and a distinct background color.
+{{< img src="rich-results-in-serp" >}}
 
 ## Does my page need this markup
 
 Yes, any web page your agency publishes about coronavirus needs this markup.
 
-In [Connecting Americans to Coronavirus Information Online](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/), “The White House Office of Science and Technology Policy (OSTP) and Office of Management and Budget (OMB) directed Federal Chief Information Officers to incorporate these new Schema.org standard tags into all federally maintained web pages related to COVID-19.” When a government web page that announces information about our coronavirus pandemic response includes SpecialAnnouncement markup, it will help search engines fine-tune their support for our information. And, having markup on your pages now means that they are ready for special treatment in results pages as soon as that is a possibility.
+In [Connecting Americans to Coronavirus Information Online](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/), “The White House Office of Science and Technology Policy (OSTP) and Office of Management and Budget (OMB) directed Federal Chief Information Officers to incorporate these new Schema.org standard tags into all federally maintained web pages related to COVID-19.” When a government web page that announces information about our coronavirus pandemic response includes SpecialAnnouncement markup, it will help search engines fine-tune their support for our information. And, having markup on your pages now means that they are ready for special treatment in results pages.
 
 In the event that it is not possible to add the markup to every page that might be appropriate, here are some considerations USA.gov has used to prioritize.
 
@@ -114,7 +118,11 @@ If the markup can’t be managed holistically, the expiration date field can be 
 
 ## How do I know if my markup is valid
 
-Search engines provide validation tools for structured data. These tools allow you to submit a url for a web page, and then test to see if the code is correct for the types of structured data that the search engine supports. If there’s a problem, they can give you some clues on how to fix it. The Bing tool requires a [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) account. The [Google rich results tester](https://search.google.com/test/rich-results) does not have such a requirement. Both tools know to look for and check SpecialAnnouncement.
+Search engines provide validation tools for structured data. These tools allow you to submit a url for a web page, and then test to see if the code is correct for the types of structured data that the search engine supports. If there’s a problem, they can give you some clues on how to fix it. The Bing tool requires a [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) account. The [Google rich results tester](https://search.google.com/test/rich-results) does not have such a requirement. Both tools know to look for and check SpecialAnnouncement. Google’s rich results tester now provides a preview of the rich result too. The style does not match what we are seeing in actual search results, but the structure, interactivity, and text are the same.  
+
+Here is an example of a preview of the rich result from above, but with the accordion closed:
+
+{{< img src="rich-results-test" >}}
 
 USA.gov tests its code before we put it on a page. The rich results tester allows us to test pasted-in code, as well. It expects full page html, not just a block of JSON-LD, so to perfectly recreate what our page will be like with the code, we copy the page’s code into the tester, then we paste the new JSON-LD `<script>` block into the head section of the page html already in the tester. Then, we run the test. (Tip: Remember to surround the JSON-LD with a `<script>` tag as shown in the documentation.)
 
@@ -122,19 +130,14 @@ If you’re not a developer, but you’re writing the JSON-LD yourself, another 
 
 If your code is on a page and working, and you have access to Google Search Console or Bing Webmaster Tools, they provide forms so you can let them know that your page has been updated and therefore should be re-indexed soon.
 
+These tools also list the pages from your website that they have discovered to contain the markup and whether or not they are  valid.  If your markup is not valid, and you make a change to try to fix it, you can request that the search engine re-index your page in order to evaluate the change.
+
 ## How do I know if my markup is being used by search engines
 
-As mentioned above, USA.gov has not seen support for display of rich results within results pages using our SpecialAnnouncement markup. However, as of May 5, 2020, Google Search Console now supports tracking performance for pages with this type of markup. That means that a Search Console account for your site allows you to discover:
+In addition to revealing what marked up pages have been discovered, Google Search Console now reveals whether rich results based on SpecialAnnouncement markup have been shown to users (a metric called Impressions) and resulted in a referral to your page (called a Click). Here is an example of this data from the USA.gov Search Console account:
 
-- Which pages on your site have been discovered as having markup;
-- Which pages have valid or invalid markup; and  
-- How many times a rich result using that markup has been shown in results pages, and how many times that has resulted in a referral to your site.
+{{< img src="search-console-data" >}}
 
-If your markup is not valid, and you make a change to try to fix it, you can request that the search engine re-index your page in order to evaluate the change.
-
-USA.gov has used Search Console to learn which marked-up pages have been indexed and the validity of their markup. As of May 5, the data does not indicate that the markup has been used for any rich results. See the screenshot below.
-
-{{< img src="two-specialannouncement-pages" >}}
 
 We will update this page as things change and as we learn more.
 

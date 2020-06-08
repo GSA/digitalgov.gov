@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/rich-results-test.png
+
+# Image shortcode: {{< img src="rich-results-test" >}}
+
+date     : 2020-06-08 08:19:09 -0400
+uid      : rich-results-test
+width    : 326
+height   : 366
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "SpecialAnnouncement rich result for the CDC\'s \"Cases in the U.S.\" webpage with the accordion closed" 
