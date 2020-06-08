@@ -38,7 +38,7 @@ youtube_id:
 primary_image: "uswds-2-illio-feature-image"
 
 aliases:
-  - /event/
+  - /events/
   
 # Make it better ♥
 ---
