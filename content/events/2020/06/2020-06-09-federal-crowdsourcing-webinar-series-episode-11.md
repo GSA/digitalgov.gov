@@ -5,7 +5,7 @@ slug: federal-crowdsourcing-webinar-series-episode-11
 title: "Federal Crowdsourcing Webinar Series, Episode 11: Mobile Testing Program Makes Content More Accessible"
 deck: ""
 kicker: "Federal Crowdsourcing"
-summary: "Agencies Optimize Mobile Experiences with Help from Federal Testers "
+summary: "Agencies optimize mobile experiences with help from federal testers."
 host: "Challenge.gov"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/106957891934
