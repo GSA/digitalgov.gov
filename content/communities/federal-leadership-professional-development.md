@@ -24,10 +24,8 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: FedLeadershipSeminar-subscribe-request@listserv.gsa.gov.
-    subscribe_email_subject: "Subscribe FedLeadership CoP "
-    subscribe_email_body: "Please subscribe me to the FedLeadership CoP "
     terms: "Anyone with a .gov or .mil email address is eligible to join"
-    members: 4463
+    members: 4660
 
 ---
 
