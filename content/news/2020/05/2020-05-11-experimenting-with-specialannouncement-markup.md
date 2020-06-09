@@ -7,7 +7,7 @@ slug: experimenting-with-specialannouncement-markup
 short_url: https://go.usa.gov/xvHV4
 date: 2020-05-11 12:00:00 -0500
 kicker: "Findability"
-title: "Experimenting with SpecialAnnouncement Markup (Updated June 08, 2020)"
+title: "Experimenting with SpecialAnnouncement Markup (Updated June 09, 2020)"
 deck: "What USA.gov learned during its pilot with SpecialAnnouncement markup to make COVID-19 information easier to find in search results."
 summary: "What USA.gov learned during its pilot with SpecialAnnouncement markup to make COVID-19 information easier to find in search results, now updated to reflect changes by major search engines."
 
