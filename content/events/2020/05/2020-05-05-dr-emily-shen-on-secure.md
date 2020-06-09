@@ -5,16 +5,16 @@ slug: dr-emily-shen-on-secure
 title: " Dr. Emily Shen on Secure Multi-Party Computation"
 deck: "This talk will describe how organizations can collaborate in a privacy-preserving manner using a cryptographic technology called secure multi-party computation."
 summary: "Learn how organizations can securely collaborate using cryptographic technologies. "
-host: "Hosted by the Federal Privacy Council and Digital.gov."
+host: "Hosted by the Federal Privacy Council"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/dr-emily-shen-on-secure-multi-party-computation-registration-103424838476
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4416516&CustomerID=321
 
 # start date
-date: 2020-05-05 14:00:00 -0500
+date: 2020-05-05 15:00:00 -0500
 
 # end date
-end_date: 2020-05-05 15:00:00 -0500
+end_date: 2020-05-05 16:00:00 -0500
 
 # see all authors at https://digital.gov/authors
 authors: 
