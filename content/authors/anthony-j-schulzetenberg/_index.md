@@ -24,7 +24,7 @@ bio_url:
 agency_full_name: "U.S. Census Bureau"
 
 # Agency Acronym [e.g., GSA]
-agency: "USCSB"
+agency: "USCB"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
