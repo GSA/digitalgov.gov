@@ -29,10 +29,6 @@ authors:
 # primary Image (for social media)
 primary_image: "twidea-9-breakout-group-brainstorm"
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
 
 # Make it better ♥
 
