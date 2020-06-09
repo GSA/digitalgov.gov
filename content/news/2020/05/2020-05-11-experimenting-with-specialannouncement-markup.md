@@ -118,11 +118,7 @@ If the markup can’t be managed holistically, the expiration date field can be 
 
 ## How do I know if my markup is valid
 
-Search engines provide validation tools for structured data. These tools allow you to submit a url for a web page, and then test to see if the code is correct for the types of structured data that the search engine supports. If there’s a problem, they can give you some clues on how to fix it. The Bing tool requires a [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) account. The [Google rich results tester](https://search.google.com/test/rich-results) does not have such a requirement. Both tools know to look for and check SpecialAnnouncement. Google’s rich results tester now provides a preview of the rich result too. The style does not match what we are seeing in actual search results, but the structure, interactivity, and text are the same.  
-
-Here is an example of a preview of the rich result from above, but with the accordion closed:
-
-{{< img src="rich-results-test" >}}
+Search engines provide validation tools for structured data. These tools allow you to submit a url for a web page, and then test to see if the code is correct for the types of structured data that the search engine supports. If there’s a problem, they can give you some clues on how to fix it. The Bing tool requires a [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) account. The [Google rich results tester](https://search.google.com/test/rich-results) does not have such a requirement. Both tools know to look for and check SpecialAnnouncement. Google’s rich results tester now provides a preview of the rich result too. The style does not match what we are seeing in actual search results, but the structure, interactivity, and text are the same. 
 
 USA.gov tests its code before we put it on a page. The rich results tester allows us to test pasted-in code, as well. It expects full page html, not just a block of JSON-LD, so to perfectly recreate what our page will be like with the code, we copy the page’s code into the tester, then we paste the new JSON-LD `<script>` block into the head section of the page html already in the tester. Then, we run the test. (Tip: Remember to surround the JSON-LD with a `<script>` tag as shown in the documentation.)
 
