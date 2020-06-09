@@ -3,11 +3,11 @@
 
 # Image shortcode: {{< img src="rich-results-test" >}}
 
-date     : 2020-06-08 08:19:09 -0400
+date     : 2020-06-09 10:17:52 -0400
 uid      : rich-results-test
-width    : 326
-height   : 366
+width    : 2880
+height   : 1800
 format   : png
 credit   : "" 
 caption  : "" 
-alt      : "SpecialAnnouncement rich result for the CDC\'s \"Cases in the U.S.\" webpage with the accordion closed" 
+alt      : "Screen capture shows the preview of SpecialAnnouncement for the Cases in the U.S. CDC webpage with the accordion closed in Google Rich Results Test." 
