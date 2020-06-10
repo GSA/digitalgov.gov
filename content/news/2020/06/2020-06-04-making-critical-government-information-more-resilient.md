@@ -15,7 +15,7 @@ short_url:
 date: 2020-06-04 11:00:00 -0500
 kicker: "Tools"
 title: "Making Critical Government Information More Resilient"
-deck: "A roundup of steps that federal agencies, and other government entities, can take right now to improve the resilience of their websites and serve information more efficiently to the people that need it."
+deck: "**Making Critical Government Information More Resilient**&mdash;A roundup of steps that federal agencies, and other government entities, can take right now to improve the resilience of their websites and serve information more efficiently to the people that need it."
 summary: ""
 
 # see all topics at https://digital.gov/topics
