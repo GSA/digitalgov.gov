@@ -77,7 +77,7 @@ Through a series of quick presentations, we’ll learn more about the following 
  - Mike Stern, Government Notification Services  
  
  <br/>
- {{< button href="https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP?utm_source=dg-event&utm_medium=referral&utm_campaign=10x-talk-2020-06-30" text="Submit an idea to 10x!" >}}
+ {{< button href="https://go.usa.gov/xw53z" text="Submit an idea to 10x!" >}}
  <br/>
  <br/>
 
@@ -92,4 +92,4 @@ Through a series of quick presentations, we’ll learn more about the following 
  
  ---
  
- *10x is an incremental investment fund inside the United States federal government. We fund internal projects that can scale across the federal government or significantly improve how our government builds technology for the public good. Our next round of funding closes July 28, 2020 so please [submit your ideas here](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP)!*
+ *10x is an incremental investment fund inside the United States federal government. We fund internal projects that can scale across the federal government or significantly improve how our government builds technology for the public good. Our next round of funding closes July 28, 2020 so please [submit your ideas here](https://go.usa.gov/xw53z)!*
