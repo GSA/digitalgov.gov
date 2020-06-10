@@ -49,7 +49,11 @@ weight: 0
 # Make it better ♥
 
 ---
-
+ <br/>
+ {{< button href="https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP" text="Submit an idea to 10x!" >}}
+ <br/>
+ <br/>
+ 
 Join us for a live showcase of some of the most innovative projects in government. In this event, several 10x-funded project teams will give an overview of their work, an update on the current status, and discuss other ways in which the 10x approach is unique.
 
 Through a series of quick presentations, we’ll learn more about the following projects:
@@ -61,8 +65,10 @@ Through a series of quick presentations, we’ll learn more about the following 
  - Agile Budgeting and Oversight Handbook
  - Combating Bias in Artificial Intelligence and Machine Learning Implementations
  - Improving Access to Government Housing Assistance
- - Government Notification Services
- 
+ - Government Notification Services  
+
+
+
 ## Presenters:
 
  - Mike Gintz, Eligibility APIs
@@ -72,15 +78,17 @@ Through a series of quick presentations, we’ll learn more about the following 
  - Alicia Rouault, Agile Budgeting and Oversight Handbook
  - Shaudi Hosseini, Combating Bias in AI/ML Implementations
  - Improving Access to Government Housing Assistance
- - Mike Stern, Government Notification Services
+ - Mike Stern, Government Notification Services  
  
+
+
  ---
  
 **Related Links**
 
+
  - [The 10x website](https://10x.gsa.gov/)
  - [Tips for 10x submissions](https://10x.gsa.gov/send-us-an-idea/)
- - [Submit an idea to 10x](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP)
  - [Learn more about 10x projects](https://10x.gsa.gov/projects/)
  
  ---
