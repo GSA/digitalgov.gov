@@ -1,17 +1,17 @@
 ---
-# View this page at https://digital.gov/authors/peter-roland
+# View this page at https://digital.gov/authors/peter-rowland
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: peter-roland
-display_name: "Peter Roland"
+slug: peter-rowland
+display_name: "Peter Rowland"
 first_name: "Peter"
-last_name: "Roland"
+last_name: "Rowland"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
+# Email — If you include an email address, it will be displayed on your profile page
 email: 
 
 # Bio — keep it under 50 words
