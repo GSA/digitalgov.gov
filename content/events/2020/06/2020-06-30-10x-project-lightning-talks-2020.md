@@ -63,7 +63,7 @@ Through a series of quick presentations, we’ll learn more about the following 
  - Improving Access to Government Housing Assistance
  - Government Notification Services
  
- ## Presenters:
+## Presenters:
 
  - Mike Gintz, Eligibility APIs
  - Gray Brooks and Eleni Gesch-Karamanlidis, Spotlight
@@ -76,7 +76,7 @@ Through a series of quick presentations, we’ll learn more about the following 
  
  ---
  
- **Related Links**
+**Related Links**
 
  - [The 10x website](https://10x.gsa.gov/)
  - [Tips for 10x submissions](https://10x.gsa.gov/send-us-an-idea/)
@@ -85,4 +85,4 @@ Through a series of quick presentations, we’ll learn more about the following 
  
  ---
  
- _10x is an incremental investment fund inside the United States federal government. We fund internal projects that can scale across the federal government or significantly improve how our government builds technology for the public good. Our next round of funding closes July 28, 2020 so please [submit your ideas here](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP)!_
+ *10x is an incremental investment fund inside the United States federal government. We fund internal projects that can scale across the federal government or significantly improve how our government builds technology for the public good. Our next round of funding closes July 28, 2020 so please [submit your ideas here](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP)!*
