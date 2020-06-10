@@ -49,10 +49,6 @@ weight: 0
 # Make it better ♥
 
 ---
- <br/>
- {{< button href="https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP" text="Submit an idea to 10x!" >}}
- <br/>
- <br/>
  
 Join us for a live showcase of some of the most innovative projects in government. In this event, several 10x-funded project teams will give an overview of their work, an update on the current status, and discuss other ways in which the 10x approach is unique.
 
@@ -80,7 +76,10 @@ Through a series of quick presentations, we’ll learn more about the following 
  - Improving Access to Government Housing Assistance
  - Mike Stern, Government Notification Services  
  
-
+ <br/>
+ {{< button href="https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP?utm_source=dg-event&utm_medium=referral&utm_campaign=10x-talk-2020-06-30" text="Submit an idea to 10x!" >}}
+ <br/>
+ <br/>
 
  ---
  
