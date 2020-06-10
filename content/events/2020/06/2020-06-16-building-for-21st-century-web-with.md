@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2020/06/building-for-21st-century-web-with
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: building-for-21st-century-web-with
-title: "Building for the 21st century web with Federalist"
+title: "Building for the 21st-Century Web with Federalist"
 deck: ""
 kicker: "Cloud.gov"
 summary: "Building, deploying, and hosting fast, secure, and compliant federal web sites and applications with Federalist."
