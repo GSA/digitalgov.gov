@@ -62,42 +62,20 @@ Link to authoritative information from other government agencies related to your
 The White House, in collaboration with DHS and HHS, encourages agencies to feature the following content on both their agency homepages and coronavirus pages as appropriate.
 
 ### Last updated June 10, 2020:
-### Publishing Operating Status of Federal Public Facilities:  
-
-#### Background
-
-Policy authority: [OMB M-20-23 - Aligning Federal Agency Operations with the National Guidelines for Opening Up America Again](https://www.whitehouse.gov/wp-content/uploads/2020/04/M-20-23.pdf) section II, page 9
-
-“Agencies will post on their website the operating status of their public facilities and OPM will maintain a public site that provides a compilation of this information across all Federal agencies. These websites will be continually updated as necessary.”
-
-### Action Plan
-
-Develop and send guidance to agencies on the requirement to publish the operating status and hours of federal facilities on their website. GSA will manage a page compiling this information, linked from usa.gov/coronavirus. OPM confirmed that, even though they are tagged in the OMB memo, they would prefer that GSA manage the list.
-
-### DRAFT Email Text
-
-TO: Federal Web Council; Web Managers CoP, cc: Heather Stern @ OPM
-FROM: Matt Harmon, DHS (per ESF-15)  
-
-Subject: Publishing the operating status of federal public facilities
-
-Dear Agency Web Managers,
-
-[OMB M-20-23 - Aligning Federal Agency Operations with the National Guidelines for Opening Up America Again](https://www.whitehouse.gov/wp-content/uploads/2020/04/M-20-23.pdf) (section II, page 9) requires federal agencies to publish the operating status of their public facilities on their website.
-
-  
+**Publishing Operating Status of Federal Public Facilities**:  [OMB M-20-23 - Aligning Federal Agency Operations with the National Guidelines for Opening Up America Again](https://www.whitehouse.gov/wp-content/uploads/2020/04/M-20-23.pdf) (section II, page 9) requires federal agencies to publish the operating status of their public facilities on their website.
 
 As your agency begins to reopen public-facing facilities, please publish this information on your `agency.gov/coronavirus` page to help people easily determine which federal facilities are currently open to the public.
 
 GSA, in collaboration with OPM, will maintain a comprehensive list of the operational status of federal public facilities on USA.gov.
 
-Here’s what you should do:
--   Also include up-to date facility status information on your site where customers would look for such information (e.g., Contact Us or About Us pages)
--   Make the facility status information easy to link to, so when someone follows the link, they'll see the info right away
--   Include markup so search engines can more easily find and disseminate the information
--   Bing tips on how to mark up [organizations](https://www.bing.com/webmaster/help/markup-businesses-and-organizations-cc507c09) and [special announcements](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249)
--   Google tips on how to mark up [organizations](https://developers.google.com/search/docs/data-types/local-business) and [special announcements](https://developers.google.com/search/docs/data-types/special-announcements)
--   Learn how [USA.gov applies SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find in search results
+Here’s what you should do:    
+
+- Also include up-to date facility status information on your site where customers would look for such information (e.g., Contact Us or About Us pages)  
+- Make the facility status information easy to link to, so when someone follows the link, they'll see the info right away  
+- Include markup so search engines can more easily find and disseminate the information  
+  - Bing tips on how to mark up [organizations](https://www.bing.com/webmaster/help/markup-businesses-and-organizations-cc507c09) and [special announcements](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249) 
+  -   Google tips on how to mark up [organizations](https://developers.google.com/search/docs/data-types/local-business) and [special announcements](https://developers.google.com/search/docs/data-types/special-announcements)
+  -   Learn how [USA.gov applies SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find in search results
     
 Please contact your [Federal Web Council representative](https://digital.gov/resources/federal-web-council/) if you have questions.
 
