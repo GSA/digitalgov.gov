@@ -5,7 +5,8 @@ slug: build-sites-address-entire-user-journey
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-06-18 15:00:00 -0500
+date: 2020-06-11 15:00:00 -0500
+kicker: "This Week's IDEA"
 title: "Build Sites to Address the Entire User Journey"
 deck: "Making Remote Work Work for Journey Mapping"
 summary: "This week, we’re exploring what it means to understand the user experience, and we’re taking a look at ways to use journey mapping to find opportunities for improving products and services."
@@ -26,9 +27,13 @@ authors:
   - mark-trammell
   - matt-dobson
 
+# primary Image (for social media)
+primary_image: "this-weeks-idea-card"
+
 
 # Make it better ♥
 ---
+{{< card-quote text="I wisely started with a map." cite=" J.R.R. Tolkien" >}}
 
 Welcome to [This Week’s IDEA](https://digital.gov/topics/this-weeks-idea/), where we talk about one essential topic around [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) and share resources and tools that you can use to start making small, incremental changes to your websites and digital services.
 
@@ -111,3 +116,61 @@ At the beginning of each session, tell people how and when they can contribute, 
 -   “Stay muted and unmute yourself to speak any time” -or- “Type ‘Comment’ in the chat and the moderator will call on people”
     
 -   “Go ahead and write in the shared document as we go” -or- “The scribe and I will be taking notes on-screen as we go. If we don’t capture your intent, please let us know!”
+
+## Step 1: Align on journey mapping purpose and determine what to map
+
+### Introduce mapping and prep for collaboration
+
+1.  Provide a simple example to introduce your participants to the concept and structure of a journey map. For example, describing the process of going out for ice cream (MS Excel, 5 KB, 1 sheet).
+    
+
+  a.  Consider where the journey begins and ends. Break down the journey into phases and steps, being as high level as possible and include only the detail necessary for the journey to be understood.
+    
+
+3.  Ask everyone to send you a list (could be in a shared document) of the expected steps in the process
+    
+4.  Set up the journey map document. For this example, we’ll use the spreadsheet above.
+1.  In the first column, label the rows: Phase, Steps, Pitfalls, Thoughts, Feelings, Channel
+
+2.  In the steps row, enter the steps, left-to-right. When there are duplicates of a step, just pick one.
+
+## Step 2: Break the process down and visualize it
+
+### Review the steps in the process
+
+1.  Ask your team to group these steps into phases of the process and name each phase. (Enter these in the phase row)
+    
+2.  What are some pitfalls that can happen during the process? Enter them below the step where they can occur.
+    
+3.  For each phase, what might people be thinking?
+    
+4.  For each phase, what feelings might they have?
+    
+
+## Step 3: Analyze the map to determine next steps
+
+Identify pain points and opportunities for improvement
+
+1.  Review the map focusing on how things interact, noting the unexpected, points of friction and steps that might be streamlined
+    
+2.  Determine priority areas to address
+    
+3.  Next steps could be, sharing this map with others, to make sure you’ve accurately reflected the journey, or creating buy-in for changes to roles and processes, or adding a “How might we?” brainstorm to think about ways to improve the journey.
+    
+4.  To maximize the usefulness of your map, make it a living document that is updated as process changes or with additional rows of information that could be metrics you could measure improvement by, like how much time or money is spent at each step (or in between steps) or customer satisfaction. You could also show the current state and a reimagined future state map to get buy in for making the experience better.
+    
+
+## Additional Resources
+
+-   [Journey Mapping](https://methods.18f.gov/decide/journey-mapping/) from 18F’s methods cards collection
+    
+-   [3-part series on journey mapping](https://coe.gsa.gov/2019/04/17/cx-update-9.html) from GSA’s Customer Experience Center of Excellence
+    
+
+## Up Next
+
+-   Attend [Shifting Your Metrics Mindset](https://digital.gov/event/2020/06/24/dap-learning-series-shifting-your-metrics/) on June 24. Learn how to orient your analytics strategy around success metrics. This webinar is part of the Digital Analytics Program’s learning series.
+    
+-   The [Lab at OPM](https://lab.opm.gov/) offers classes in human-centered design. Check out their 2020 classes, including the monthly workshop on the [Fundamentals of Human-Centered Design](https://leadership.opm.gov/programs.aspx?course=234).
+    
+-   Attend “Making Remote Work Work for Journey Mapping” on July 9. This webinar will be conducted by members of the 18F Research Guild.
