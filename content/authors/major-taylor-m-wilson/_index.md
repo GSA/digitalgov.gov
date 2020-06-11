@@ -4,7 +4,7 @@
 
 # slug — the specific user-id for an author.
 slug: major-taylor-m-wilson
-display_name: "Major Taylor M Wilson"
+display_name: "Major Taylor M. Wilson"
 first_name: "Major Taylor"
 last_name: "Wilson"
 
