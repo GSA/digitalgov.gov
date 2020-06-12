@@ -42,7 +42,7 @@ This event is the first networking session of a six part series of engagements f
 
 ## Mentors:
 
-**Maria Roat,*** ***Deputy Federal Chief Information Officer, OMB***
+**Maria Roat,** ***Deputy Federal Chief Information Officer, OMB***
 
 Maria Roat became the Deputy Federal Chief Information Officer (CIO) in May 2020, bringing 35+ years of professional experience in information technology.
 
@@ -54,7 +54,7 @@ In addition, Ms. Roat served 10 years at the Department of Homeland Security (DH
 
 Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, in which she obtained the rank of Master Chief Petty Officer, Information Systems Technician. Ms. Roat is a graduate of the University of Maryland (UMUC), Harvard Business School Executive Education Program for Leadership Development, and the Navy Senior Enlisted Academy.
 
-**Dorothy Aronson**, ****Chief Information Officer, National Science Foundation***
+**Dorothy Aronson**, ***Chief Information Officer, National Science Foundation***
 
 Ms. Aronson was recently named the CIO for the National Science Foundation (NSF) after serving for almost six months as both the Acting CIO and as the Director for the Division of Information Systems within the Office of Information and Resource Management.
 
