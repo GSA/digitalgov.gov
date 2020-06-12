@@ -73,8 +73,8 @@ Here’s what you should do:
 - Also include up-to date facility status information on your site where customers would look for such information (e.g., Contact Us or About Us pages)  
 - Make the facility status information easy to link to, so when someone follows the link, they'll see the info right away  
 - Include markup so search engines can more easily find and disseminate the information  
-  - Bing tips on how to mark up [organizations](https://www.bing.com/webmaster/help/markup-businesses-and-organizations-cc507c09) and [special announcements](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249) 
-  -   Google tips on how to mark up [organizations](https://developers.google.com/search/docs/data-types/local-business) and [special announcements](https://developers.google.com/search/docs/data-types/special-announcements)
+  - Bing tips on marking up [organizations](https://www.bing.com/webmaster/help/markup-businesses-and-organizations-cc507c09) and [special announcements](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249) 
+  -   Google tips on marking up [organizations](https://developers.google.com/search/docs/data-types/local-business) and [special announcements](https://developers.google.com/search/docs/data-types/special-announcements)
   -   Learn how [USA.gov applies SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find in search results
     
 Please contact your [Federal Web Council representative](https://digital.gov/resources/federal-web-council/) if you have questions.
