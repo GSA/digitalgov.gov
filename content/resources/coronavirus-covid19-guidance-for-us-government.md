@@ -61,7 +61,7 @@ Link to authoritative information from other government agencies related to your
 
 The White House, in collaboration with DHS and HHS, encourages agencies to feature the following content on both their agency homepages and coronavirus pages as appropriate.
 
-### Last updated June 10, 2020:
+### Last updated June 12, 2020:
 **Publishing Operating Status of Federal Public Facilities**:  [OMB M-20-23 - Aligning Federal Agency Operations with the National Guidelines for Opening Up America Again](https://www.whitehouse.gov/wp-content/uploads/2020/04/M-20-23.pdf) (section II, page 9) requires federal agencies to publish the operating status of their public facilities on their website.
 
 As your agency begins to reopen public-facing facilities, please publish this information on your `agency.gov/coronavirus` page to help people easily determine which federal facilities are currently open to the public.
