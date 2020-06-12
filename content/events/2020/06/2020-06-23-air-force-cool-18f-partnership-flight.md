@@ -24,6 +24,10 @@ topics:
   - mobile
   - social-media
   - ai
+  
+# see all authors at https://digital.gov/authors
+authors: 
+  - major-taylor-m-wilson
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
