@@ -42,7 +42,7 @@ This event is the first networking session of a six part series of engagements f
 
 ## Mentors:
 
-**Maria Roat,** ***Deputy Federal Chief Information Officer, OMB***
+### Maria Roat, _Deputy Federal Chief Information Officer, Office of Management and Budget_  
 
 Maria Roat became the Deputy Federal Chief Information Officer (CIO) in May 2020, bringing 35+ years of professional experience in information technology.
 
@@ -54,7 +54,7 @@ In addition, Ms. Roat served 10 years at the Department of Homeland Security (DH
 
 Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, in which she obtained the rank of Master Chief Petty Officer, Information Systems Technician. Ms. Roat is a graduate of the University of Maryland (UMUC), Harvard Business School Executive Education Program for Leadership Development, and the Navy Senior Enlisted Academy.
 
-**Dorothy Aronson**, ***Chief Information Officer, National Science Foundation***
+### Dorothy Aronson, _Chief Information Officer, National Science Foundation_ 
 
 Ms. Aronson was recently named the CIO for the National Science Foundation (NSF) after serving for almost six months as both the Acting CIO and as the Director for the Division of Information Systems within the Office of Information and Resource Management.
 
@@ -62,7 +62,7 @@ In her role as the Director for the Division of Information Systems since 2011, 
 
 Prior to her time at NSF, Ms. Aronson served as the Director for the Office of Management Operations for the Defense Advanced Research Project Agency. She holds a Business degree from Duke University and is committed to lifelong learning.
 
-**Jason Gray,** ***Chief Information Officer, Department of Education***
+### Jason Gray, _Chief Information Officer, Department of Education_ 
 
 Jason Gray was selected in May 2016 to serve as the U. S. Department of Education’s CIO. In this position, he oversees an IT portfolio of $689 million in programs. As the CIO, Gray serves as a principal advisor to the under secretary, deputy secretary, and secretary with respect to the astute use of IT to exceed the expectations of the Department’s customers.
 
@@ -74,4 +74,4 @@ Gray received his M.B.A. from Colorado Technical University, completed the Key E
 
 ---
 
-*The Women in Federal IT and Cyber series of virtual engagements is hosted by the Chief Information Officer Council (CIOC) and Digital.gov.*
+_The Women in Federal IT and Cyber series of virtual engagements is hosted by the Chief Information Officer Council (CIOC) and Digital.gov._ 
