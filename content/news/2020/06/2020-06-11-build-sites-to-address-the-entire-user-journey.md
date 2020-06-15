@@ -173,3 +173,11 @@ Identify pain points and opportunities for improvement
 -   The [Lab at OPM](https://lab.opm.gov/) offers classes in human-centered design. Check out their 2020 classes, including the monthly workshop on the [Fundamentals of Human-Centered Design](https://leadership.opm.gov/programs.aspx?course=234).
     
 -   Attend “Making Remote Work Work for Journey Mapping” on July 9. This webinar will be conducted by members of the 18F Research Guild.
+
+## From the Field
+
+Meet Charlotte. She is a resident of Northern California who survived the devastating Camp Fire, which burned nearly 154,000 acres. Her house was destroyed and her family farm severely damaged. To Charlotte, this is a tragic life event that is upending her existence. To the federal government, it triggers possible eligibility for programs spread across dozens of agencies: Imagine each of the U.S. government’s services as part of a broader customer journey. How might federal agencies change their approach or even work together? How might citizens think differently about those services and their overall experience with government? —[via Performance.gov](https://www.performance.gov/mapping-cx-journey/)
+
+----------
+
+Do you have a 21st Century IDEA-related comment or question? Or would you like to give a shout out to your colleagues? Send it to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we’ll work to incorporate it into the next newsletter.
