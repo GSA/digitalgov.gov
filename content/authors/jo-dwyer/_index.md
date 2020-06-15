@@ -9,7 +9,7 @@ first_name: "Jo"
 last_name: "Dwyer"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
+pronoun: "she/her"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: 
