@@ -39,13 +39,13 @@ Welcome to [This Week’s IDEA](https://digital.gov/topics/this-weeks-idea/), wh
 
 One of the design principles of the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) is promoting [continuity](https://designsystem.digital.gov/design-principles/#promote-continuity), or minimizing disruption, for your customers over time and across platforms, agencies, and devices.
 
-Agencies, websites, and services all have different audiences, goals and missions and the way we all implement them differ. One way to mitigate these challenges is to design sites with the USWDS in mind, and build sites with user-centered solutions to address the entire user journey, not just a specific task. One way you can do this is through [journey mapping](https://methods.18f.gov/decide/journey-mapping/).
+Agencies, websites, and services all have different audiences, goals and missions, so we may implement solutions differently. One way to mitigate these challenges is to design sites with the USWDS in mind, and build sites with user-centered solutions to address the entire user journey, not just a specific task. One way you can do this is through [journey mapping](https://methods.18f.gov/decide/journey-mapping/).
 
 Below, we cover how journey maps provide value to your project and how you can use them even when the people you need to work with are geographically distributed.
 
 ## What are journey maps?
 
-Journey maps are artifacts that display how one person goes through a process, which could be as common and everyday as making a cup of coffee, or important and infrequent as applying for a passport. They range from as few as two steps on a path, to as many are needed to adequately make the journey understandable. Each mapped step of a journey can describe goals, interactions, materials required, and even thoughts or emotional states
+Journey maps are artifacts that display how one person goes through a process, which could be as common and everyday as making a cup of coffee, or important and infrequent as applying for a passport. They range from as few as two steps on a path, to as many are needed to adequately make the journey understandable. Each mapped step of a journey can describe goals, interactions, materials required, and even thoughts or emotional states.
 
 ## Why use a journey map?
 
@@ -96,7 +96,7 @@ In advance, ask someone to be the moderator. While you guide the discussion and 
 
 ### Select the tools you’ll use
 
-Tools can range from pen and paper to spreadsheets to concept-mapping software like Mural, Miro, or slide deck tools. The tools you use should prioritize collaboration over complexity. A high-fidelity version of the journey map will come later. When selecting the right tool consider:
+Tools can range from pen and paper to spreadsheets to concept-mapping software or slide deck tools. The tools you use should prioritize collaboration over complexity. A high-fidelity version of the journey map will come later. When selecting the right tool consider:
 
 -   Which tool are you most confident using?
     
