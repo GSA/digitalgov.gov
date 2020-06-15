@@ -12,28 +12,13 @@ registration_url: https://www.eventbrite.com/e/106957891934
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4468831&CustomerID=321
 
 # start date
-date: 2020-06-09 14:00:00 -0500
+date: 2020-06-09 15:00:00 -0500
 
 # end date
-end_date: 2020-06-09 15:00:00 -0500
-
-# see all topics at https://digital.gov/topics
-topics: 
-  - 21st-century-idea
-  - crowdsourcing
-  - mobile
-  - ux
-  - innovation
-
-# see all authors at https://digital.gov/authors
-authors: 
-  - david-fern
-
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
+end_date: 2020-06-09 16:00:00 -0500
 
 # YouTube ID
-youtube_id: 
+youtube_id: 76gvoSVOGkc
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -41,7 +26,7 @@ youtube_id:
 weight: 0
 
 # Make it better ♥
-
+---
 ---
 
 Once simply a smart feature, mobile-friendly sites have evolved into must-have components of every organization’s digital presence, and now mobile accounts, for more than half of all web activity.
@@ -66,7 +51,7 @@ See how this crowdsourcing approach has provided a broad set of helpful data and
 
 Airing monthly, this series illuminates how U.S. agencies are reaching beyond their typical channels to source talent and enthusiasm to multiply the ideas and perspectives being brought to a particular issue. Don’t miss these previous episodes:
 
- - Episode 10: precisionFDA, with Elaine Johansen, Emily Boja and Holly Stephens
+ - Episode 10: [precisionFDA](https://digital.gov/event/2020/05/12/federal-crowdsourcing-webinar-series-episode-10/), with Elaine Johansen, Emily Boja and Holly Stephens
  - Episode 9: [History Hub](https://digital.gov/event/2020/04/27/federal-crowdsourcing-webinar-series-episode-9/), with Kelly Osborn and Darren Cole, NARA
  - Episode 8: [NASA@WORK](https://digital.gov/event/2020/03/10/federal-crowdsourcing-webinar-series-episode-8/), with Carissa Callini and Jeff DOI, NASA
  - Episode 7: [Crowdsourcing for Code](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/), with Amin Mehr, Code.gov
