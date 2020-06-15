@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2020/04/uswds-monthly-call-april-2020
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: uswds-monthly-call-april-2020
-title: "USWDS Monthly Call - Card Components Update"
+title: "USWDS Monthly Call - Easing into the Design System"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 host: "U.S. Web Design System"
@@ -31,7 +31,7 @@ authors:
 
 
 # YouTube ID
-youtube_id:
+youtube_id: Kux6qerjnNE
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
@@ -41,11 +41,9 @@ primary_image: "uswds-2-illio-feature-image"
 
 {{< img-right src="uswds-logo" >}}
 
-Dan Williams, U.S. Web Design System (USWDS) product lead, will host the next USWDS monthly call on Thursday, April 16, at 2:30 pm ET. Register today.
+During this month’s call, Dan Williams, USWDS product lead, shared some tips and tricks on how to ease into using USWDS by using packages for specific components like buttons, footer and header.
 
-You wanted cards, so we built cards! Join this month’s call to learn more about the newly-released card component and guidance on when to use it. Dan will also share some tips and tricks on how to ease into using USWDS by using its core design language (tokens, mixins, and functions) only.
-
-This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each call.
+This event is part of a monthly series that takes place on the third Thursday of each month.
 
 USWDS is a toolkit of principles, guidance, and code that you can use to build accessible, mobile-friendly government websites for the American public.
 
