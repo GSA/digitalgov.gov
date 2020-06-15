@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/communities/accessibility-section-508
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: accessibility
+slug: it-accessibility-section-508
 date: 2018-10-05 13:00:00 -0500
 title: "IT Accessibility and Section 508"
 deck: ""
