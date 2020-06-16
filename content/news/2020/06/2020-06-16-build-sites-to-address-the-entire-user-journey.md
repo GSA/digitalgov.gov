@@ -4,7 +4,7 @@
 slug: build-sites-address-entire-user-journey
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xwPPZ
 date: 2020-06-16 15:00:00 -0500
 kicker: "This Week's IDEA"
 title: "Build Sites to Address the Entire User Journey"
