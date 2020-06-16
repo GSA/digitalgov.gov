@@ -69,7 +69,7 @@ Through a series of quick presentations, we’ll learn more about the following 
 
  - Mike Gintz, Eligibility APIs
  - Gray Brooks and Eleni Gesch-Karamanlidis, Spotlight
- - Peter Roland, Privacy Dashboard
+ - Peter Rowland, Privacy Dashboard
  - Ben Judy, USWDS Advanced Form Controls
  - Alicia Rouault, Agile Budgeting and Oversight Handbook
  - Shaudi Hosseini, Combating Bias in AI/ML Implementations
