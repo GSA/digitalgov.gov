@@ -1,11 +1,11 @@
 ---
-# View this page at https://digital.gov/2020/06/18/build-sites-address-entire-user-journey
+# View this page at https://digital.gov/2020/06/16/build-sites-address-entire-user-journey
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: build-sites-address-entire-user-journey
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-06-11 15:00:00 -0500
+date: 2020-06-16 15:00:00 -0500
 kicker: "This Week's IDEA"
 title: "Build Sites to Address the Entire User Journey"
 deck: "Making Remote Work Work for Journey Mapping"
