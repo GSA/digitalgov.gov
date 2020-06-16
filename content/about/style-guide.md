@@ -1,19 +1,19 @@
 ---
 url: /style-guide/
 date: 2018-04-26 10:25:54 -0400
-title: 'DigitalGov Style Guide'
-summary: 'This is the DigitalGov style guide.'
+title: 'Digital.gov Style Guide'
+summary: 'This is the Digital.gov style guide.'
 deck: 'We encourage you to use the guidelines below to ensure that content on digital.gov is clear, concise, and benefits the widest possible audience.'
 
 ---
 
-:tada: Welcome to the DigitalGov style guide!
+:tada: Welcome to the Digital.gov style guide!
 
-Below you’ll find guidance for voice and tone, author bios and photos, branding, grammar, images, plain language, inclusive language, and more. We will soon update details on _how_ to submit to DigitalGov.
+Below you’ll find guidance for voice and tone, author bios and photos, branding, grammar, images, plain language, inclusive language, and more. We will soon update details on _how_ to submit to Digital.gov.
 
 ## Voice and Tone
 
-Articles for DigitalGov—written by employees from across the federal government—use an informal, conversational tone.
+Articles for Digital.gov—written by employees from across the federal government—use an informal, conversational tone.
 
 ### Conscious Inclusivity
 
@@ -88,7 +88,6 @@ Unless the symbol is part of a name or branding, use the word (e.g., use the wor
 #### Places
 
 - When referring to a number of states, the word “state” should be lowercase (e.g., All 50 states responded.)
-- Agency names (jump link to ‘Agency Abbreviations’ below)
 - Locations
   - District of Columbia: abbreviate as D.C. in copy, but use the official postal code, DC (without periods), for an address
   - United States: abbreviate as U.S.
@@ -165,7 +164,7 @@ e.g. (_exempli gratia_), which is Latin for “for example, ...” use it to lis
 i.e. (_id est_) is Latin for “in other words, ...”
 
 
-## DigitalGov Branding
+## Digital.gov Branding
 
 The overarching name of the site is Digital.gov. You may see references to “DigitalGov” in our archives, but going forward, it should be referred to as “Digital.gov”.
 
@@ -203,13 +202,12 @@ The overarching name of the site is Digital.gov. You may see references to “Di
 - **[Digital Analytics Program](https://www.digital.gov/dap/)** (DAP)
   - dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
 - **DigitalGov Search** was renamed: **[Search.gov](https://www.digital.gov/services/search/)**
-- **[DigitalGov University](https://www.digital.gov/digitalgov-university/)** (DGU)
-- **[Emerging Citizen Technology Office](https://emerging.digital.gov/)** (ECTO)
+- **[Digital.gov University](https://www.digital.gov/digitalgov-university/)** (DGU)
 - **[Federal CrowdSource Mobile Testing Program](https://www.digital.gov/services/mobile-application-testing-program/)** (no acronym)
 - **[U.S. Digital Registry](https://www.digital.gov/services/u-s-digital-registry/)** (no acronym; replaced the Federal Social Media Registry and the Federal Mobile Products Registry)
 - **U.S. Web Design Standards** was renamed: **[U.S. Web Design System](https://designsystem.digital.gov/)** (USWDS)
 
-Additionally, we often abbreviate Community of Practice as CoP, and we have [over 20 communities](https://digital.gov/communities/) listed on DigitalGov. However, they are run by federal employees at agencies across the federal government, so they don’t always follow the same naming conventions. If writing about them or topics covered in their listservs, you can get the full, proper name (and any alternates) from their individual Community pages on DigitalGov.
+Additionally, we often abbreviate Community of Practice as CoP, and we have [over 20 communities](https://digital.gov/communities/) listed on Digital.gov. However, they are run by federal employees at agencies across the federal government, so they don’t always follow the same naming conventions. If writing about them or topics covered in their listservs, you can get the full, proper name (and any alternates) from their individual Community pages on Digital.gov.
 
 Name examples include: MobileGov, SocialGov, OpenGov, Open Data, PLAIN, Government Contact Center Council (G3C), Web Content Managers Forum, and Federal Community of Practice on Crowdsourcing and Citizen Science (CCS).
 
@@ -249,7 +247,7 @@ Section 5.3 is for images used in a website/blog; section 5.4 is for images used
 _Best Practices for Attribution_ (with examples):
 [http://wiki.creativecommons.org/Best_practices_for_attribution](http://wiki.creativecommons.org/Best_practices_for_attribution)
 
-3. **flickr** photos ([DigitalGov example](https://digital.gov/2014/06/30/social-media-accessibility-issues-and-solutions/))
+3. **flickr** photos ([Digital.gov example](https://digital.gov/2014/06/30/social-media-accessibility-issues-and-solutions/))
 
 Give attribution to photographers with CC license
 https://help.yahoo.com/kb/flickr/SLN7674.html
@@ -275,4 +273,4 @@ Below are some free image and media resources. Take care to read and supply any 
 - [NOAA Photo Library](http://www.photolib.noaa.gov/)
 - [NASA Earth Observatory](https://earthobservatory.nasa.gov/)
 
-**_Note_**: DigitalGov does have access to Getty’s [ThinkStock.com](http://www.ThinkStock.com) website (not free). If you wish to use an image from there, just include the URL for each image with your draft; we’ll log in, review, and download them for your posts.
+**_Note_**: Digital.gov does have access to Getty’s [ThinkStock.com](http://www.ThinkStock.com) website (not free). If you wish to use an image from there, just include the URL for each image with your draft; we’ll log in, review, and download them for your posts.
