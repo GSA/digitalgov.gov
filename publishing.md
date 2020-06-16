@@ -52,9 +52,9 @@ https://github.com/GSA/digitalgov.gov/tree/demo/data/people/authors
 To make a new author:
 1. Copy the text/data from one of the existing author data files
 2. Create a new one in the authors folder (parent folder)
-3. Commit the fire directly to the `demo` branch
+3. Commit the file directly to the `demo` branch
 
-`Note:` Watch out for special characters `"$&:/@` in the author files.
+`Note:` Watch out for special characters `"$&:/@'` in the author files, check names with apostrophes.
 
 - - -
 ### Creating a Redirect

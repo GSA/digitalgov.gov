@@ -16,7 +16,7 @@ source_url: "https://pra.digital.gov/"
 source: pra-guide
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - cx
   - pra
   - policy
@@ -24,14 +24,14 @@ topics:
   - user-research
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jeremyzilar
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 3
+weight: 2
 
 # Make it better ♥
 ---

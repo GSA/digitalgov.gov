@@ -1,20 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2018/05/an-introduction-searchgov
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: an-introduction-searchgov
-title: 'An Introduction to Search&#46;gov'
-summary: 'Learn about the essential features of Search&#46;gov and tour its Admin Center.'
-featured_image:
-  uid: searchgov-intro
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-05-03 13:00:00 -0500
-end_date: 2018-05-03 14:00:00 -0500
-event_organizer: DigitalGov University
-host:
+title: "An Introduction to Search.gov"
+deck: ""
+summary: "Learn about the essential features of Search.gov and tour its Admin Center."
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/searchgov-basics-registration-45389799111
-youtube_id: W9gFgy4Jx6k
-topics:
+captions: 
+
+# start date
+date: 2018-05-03 14:00:00 -0500
+
+# end date
+end_date: 2018-05-03 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - data
   - digitalgov-search
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dmccleskey
+
+# YouTube ID
+youtube_id: W9gFgy4Jx6k
+
+# Primary Image (for social media)
+primary_image: "searchgov-intro"
+
+# Make it better ♥
 
 ---
 

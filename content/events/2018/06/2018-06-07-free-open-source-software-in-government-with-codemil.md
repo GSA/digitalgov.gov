@@ -1,25 +1,37 @@
 ---
+# View this page at https://digital.gov/event/2018/06/free-open-source-software-in
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: free-open-source-software-in-government-with-codemil
-title: 'Free &amp; Open Source Software in Government with Code&#46;mil'
-summary: 'Join the Code&#46;mil team for a discussion on open source in government and a look at the important work they have been doing on Code&#46;mil to enable greater adoption of open source at the DoD.'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-  - online
-date: 2018-06-05 11:00:00 -0500
-end_date: 2018-06-05 12:00:00 -0500
-event_organizer: DigitalGov University
-host: Code.mil
+title: "Free & Open Source Software in Government with Code.mil"
+deck: ""
+summary: "Join the Code.mil team for a discussion on open source in government and a look at the important work they have been doing on Code.mil to enable greater adoption of open source at the DoD."
+host: "Code.mil"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/free-open-source-software-in-government-with-codemil-registration-45814864493
-youtube_id: 4ulaWNBDPgk
-topics:
+captions: 
+
+# start date
+date: 2018-06-05 12:00:00 -0500
+
+# end date
+end_date: 2018-06-05 13:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - code
   - open-source
 
----
+# see all authors at https://digital.gov/authors
+authors: 
+  - ari-chivukula
+  - jordan-kasper
 
+# YouTube ID
+youtube_id: 4ulaWNBDPgk
+
+# Make it better ♥
+
+---
 
 Join the [Code.mil](https://Code.mil) team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.
 

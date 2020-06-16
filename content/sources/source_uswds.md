@@ -8,13 +8,13 @@ summary: 'A design system for the federal government'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-domain: 'https://v2.designsystem.digital.gov'
+domain: 'https://designsystem.digital.gov'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
-icon: 'uswds.png'
+logo: 'uswds'
 
 
 # Weight: control how services appear across the site

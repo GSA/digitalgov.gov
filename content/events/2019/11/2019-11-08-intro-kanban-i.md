@@ -29,8 +29,8 @@ authors:
   - alan-atlas
   - alan-brouilette
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # YouTube ID
 youtube_id: 7L3m26puP-M

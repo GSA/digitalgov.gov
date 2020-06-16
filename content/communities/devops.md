@@ -48,16 +48,15 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-- [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
+**[June Meeting: Air Force COOL and 18F, Partnership and Flight Operations Software Agile Lessons Learned](https://digital.gov/event/2020/06/23/air-force-cool-18f-partnership-flight/)**
 
 ## Past Meetings
 
-- [**December Special Event: Nicolas Chaillan**](https://digital.gov/event/2019/12/03/devops-holiday-special-event-nicolas-chaillan/)
-- [**November Special Event: Jez Humble: Building and Scaling High Performing Technology Organizations**](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)
-- [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
-- [**September Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/)
-- [**August Meeting**](https://digital.gov/event/2019/08/27/devops-community-practice-monthly-meeting/)
-- [**July Meeting**](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/)
+- **[May Meeting: DevOps Lessons Learned from the Air Force’s Early Cloud Journey](https://digital.gov/event/2020/05/19/devops-lessons-learned-from-air-forces/)**
+- [**April Meeting: The Hero’s Journey for Re-Skilling Talent (And Other Digital Adventures)**](https://digital.gov/event/2020/04/28/heros-journey-for-reskilling-talent-other/)
+- [**March Meeting: Why I Love My Agile Team!**](https://digital.gov/event/2020/03/24/why-i-love-my-agile-team/)
+- [**February Meeting: Moving From Agile Towards DevOps With a Small Team**](https://digital.gov/event/2020/02/25/moving-from-agile-towards-devops-with/)
+- [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
 
 ## Join
 We have two listservs available, one for Federal Employees, and one for all individuals:
@@ -80,4 +79,4 @@ The DevOps CoP will meet on the fourth Tuesday of each month for 30 minutes. In 
 
 Community Co-Manager **Brian Fox** is currently a strategist with [18F](https://18f.gsa.gov/). Prior to working as a member of the 18F Strategy team, he led systems development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map. Brian has also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
 
-Community Co-Manager **Peter Burkholder** is a consulting engineer with [18F](https://18f.gsa.gov/), where he's also supported cloud.gov. Before 18F, Peter worked with Chef Software's enterprise customers to guide them on adoption of DevOps practices and infras tructure-as-code, and has held operations roles with health technology companies, NIH, NCAR and AARP.  He's also an organizer of the DevOpsDC MeetUp and the annual DevOpsDaysDC conference.
+Community Co-Manager **Peter Burkholder** is a consulting engineer with [18F](https://18f.gsa.gov/), where he's also supported cloud.gov. Before 18F, Peter worked with Chef Software's enterprise customers to guide them on adoption of DevOps practices and infras tructure-as-code, and has held operations roles with health technology companies, National Institutes of Health (NIH), National Center for Atmospheric Research (NCAR), and AARP.  He's also an organizer of the DevOpsDC MeetUp and the annual DevOpsDaysDC conference.

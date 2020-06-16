@@ -1,24 +1,44 @@
 ---
+# View this page at https://digital.gov/event/2018/01/how-better-serve-your-lep-audience
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: legal-obligations-practical-solutions-for-government-agencies-with-a-lep-audience
-title: 'How to Better Serve Your LEP Audience by Meeting the Federal Requirements'
-summary: Learn about your legal obligations to limited English proficient individuals (LEP) as a federal, state, or local government agency. We'll provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning.
-featured_image:
-  uid: doj
-  alt: 'Department of Justice'
-event_type:
-  - youtube-live
-date: 2018-01-18 14:00:00 -0400
-end_date: 2018-01-18 15:00:00 -0400
-event_organizer: DigitalGov University
-host: Multilingual Community of Practice
+title: "How to Better Serve Your LEP Audience by Meeting the Federal Requirements"
+deck: ""
+summary: "Learn about your legal obligations to limited English proficient individuals (LEP) as a federal, state, or local government agency. We'll provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning."
+host: "Multilingual Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/legal-obligations-practical-solutions-if-your-agency-interacts-with-lep-audiences-registration-40912496378
-youtube_id: F3LM8LmysgU
-aliases:
-  - /event/legal-obligations-practical-solutions-for-government-agencies-with-a-lep-audience/
-topics:
+captions: 
+
+# start date
+date: 2018-01-18 13:00:00 -0500
+
+# end date
+end_date: 2018-01-18 14:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - multilingual
   - lep
   - multilingual-community
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - anna-medina
+  - laureen-laglagaron
+  - michael-mule
+
+# YouTube ID
+youtube_id: F3LM8LmysgU
+
+# Primary Image (for social media)
+primary_image: "doj"
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/legal-obligations-practical-solutions-for-government-agencies-with-a-lep-audience/
+
+# Make it better ♥
 
 ---
 

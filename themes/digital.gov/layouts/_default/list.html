@@ -33,7 +33,7 @@
               {{- .Content -}}
             </div>
 
-            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/page-data" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 
@@ -49,7 +49,7 @@
             {{- partial "core/get_related" . -}}
 
             {{/* Topics */}}
-            {{/* {{- partial "core/get_topics" . -}} */}}
+            {{/* {{- partial "core/list-topics" . -}} */}}
 
             {{/* Share Tools */}}
             {{/* {{- partial "core/get_sharetools" . -}} */}}

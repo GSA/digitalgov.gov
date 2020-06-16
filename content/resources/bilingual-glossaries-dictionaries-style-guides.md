@@ -79,15 +79,21 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 * Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages)
 * Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages)
 
+#### Pension Benefit Guaranty Corporation (PBGC)
+
+Financial and retirement terminology: 
+
+[Glossary of Terms: English to Spanish](https://www.pbgc.gov/es/recursos/glosario-de-terminos-ingles-espanol) 
+
 ### Health and Well-being
 
 #### U.S. Department of Health and Human Services (HHS)
 
 - [Health Resources and Services Administration](https://www.hrsa.gov/) (HRSA): <br />Offers the **Glossary for Organ Donation and Transplantation** on [their English website](https://www.organdonor.gov/about/facts-terms/terms.html), and [their Spanish website](https://donaciondeorganos.gov/sobre/datos-t%C3%A9rminos/1yv2/t%C3%A9rminos.html).
 - [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
-- The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers two PDF files to download:
+- The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers a glossary and a style guide:
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
-   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages). 
+   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/culture-language/article/style-guide-translations-spanish). 
 - [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish: 
    - [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a) 
    - [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a) 

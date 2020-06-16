@@ -1,24 +1,36 @@
 ---
+# View this page at https://digital.gov/event/2018/07/emerging-technology-leadership-series-ai-for
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: emerging-technology-leadership-series-mina-hanna-ai-for-government-services
-title: 'Emerging Technology Leadership Series&#58; AI for Government Services with Mina Hanna'
-summary: 'Mina Hanna is the chair of the Institute of Electrical and Electronics Engineers’ &#40;IEEE&#41; Artificial Intelligence and Autonomous Systems Policy Committee. He will share what federal managers need to know to understand this increasingly complex and expanding field&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-07-30 13:00:00 -0500
-end_date: 2018-07-30 14:00:00 -0500
-event_organizer: DigitalGov University
-host: Emerging Citizen Technology Office
+title: "Emerging Technology Leadership Series: AI for Government Services with Mina Hanna"
+deck: ""
+summary: "Mina Hanna is the chair of the Institute of Electrical and Electronics Engineers’ (IEEE) Artificial Intelligence and Autonomous Systems Policy Committee. He will share what federal managers need to know to understand this increasingly complex and expanding field."
+host: "Emerging Citizen Technology Office"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-series-mina-hanna-and-ai-for-government-services-registration-48381530460
-youtube_id: 8b2i7H63rzc
-topics:
+captions: 
+
+# start date
+date: 2018-07-30 14:00:00 -0500
+
+# end date
+end_date: 2018-07-30 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - emerging-tech
-  - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - jherman
+  - mina-hanna
+
+# YouTube ID
+youtube_id: 8b2i7H63rzc
+
+# Make it better ♥
 ---
 
 Artificial Intelligence is no one thing. It is a diverse array of functions that will inevitably transform government services through a combination of increased access to data, computing power, and algorithms that can improve analysis, alleviate resource constraints and deliver IT modernization solutions (for starters).

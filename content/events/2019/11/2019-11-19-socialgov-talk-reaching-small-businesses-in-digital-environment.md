@@ -12,6 +12,9 @@ end_date: 2019-11-19 15:00:00 -0500
 event_organizer: DigitalGov University
 host: SocialGov
 youtube_id: aR2feIr_1Ds
+topics:
+  - social-media
+  - us-small-business-administration
 
 ---
 

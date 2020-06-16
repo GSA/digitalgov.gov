@@ -1,23 +1,42 @@
 ---
+# View this page at https://digital.gov/event/2018/04/a-deep-dive-into-top-tasks
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: a-deep-dive-into-top-tasks-with-gerry-mcgovern
-title: 'A Deep Dive Into Top Tasks with Gerry McGovern'
-summary: 'This talk will focus on how using the top tasks approach will help you deliver what your customers want to make it easier and faster for people to do things they need to do with government&#46;'
-featured_image:
-  uid: event-top-tasks
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-04-11 11:00:00 -0500
-end_date: 2018-04-11 12:00:00 -0500
-event_organizer: DigitalGov University
-host:
+title: "A Deep Dive Into Top Tasks with Gerry McGovern"
+deck: ""
+summary: "This talk will focus on how using the top tasks approach will help you deliver what your customers want to make it easier and faster for people to do things they need to do with government."
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/top-tasks-with-gerry-mcgovern-registration-43479365954
-youtube_id: 5llJ98UkXYI
-aliases:
-  - /event/a-deep-dive-into-top-tasks-with-gerry-mcgovern/
-topics:
+captions: 
+
+# start date
+date: 2018-04-11 12:00:00 -0500
+
+# end date
+end_date: 2018-04-11 13:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - product-management
   - project-management
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - gerry-mcgovern
+  - andreanocesigritz
+
+# YouTube ID
+youtube_id: 5llJ98UkXYI
+
+# Primary Image (for social media)
+primary_image: "event-top-tasks"
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/a-deep-dive-into-top-tasks-with-gerry-mcgovern/
+
+# Make it better ♥
 
 ---
 

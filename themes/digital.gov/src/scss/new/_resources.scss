@@ -1,13 +1,13 @@
 // Styles for the main resources page
 
-#resources {
-  .list-collection{
-    @include u-margin-bottom(2);
-    h2 {
-      @include u-font('sans', 'md');
-    }
+// .paper sets the background-color for the page
+.resources.section {
+  .paper{
+    @include u-bg('gray-cool-5');
   }
+}
 
+#resources {
   .in-page{
     @include u-bg('gray-warm-3');
     @include u-text('indigo-80');
@@ -15,11 +15,14 @@
 }
 
 #resources_by_topic{
-  @include u-position('relative');
-  @include u-overflow('scroll');
+  @include u-bg('white');
+  @include u-padding-top(1);
   h2 {
     @include u-margin-bottom(2);
+    @include u-padding-top(5);
     @include u-text('semibold');
+    @include u-font('sans', 'sm');
+    @include u-border-top('1px', 'base-light', 'solid');
   }
   .topic-section{
     @include u-margin-top(0);
@@ -28,7 +31,8 @@
     h3{
       @include u-margin-top(0);
       @include u-margin-bottom(0);
-      @include u-padding-y('105');
+      @include u-padding-top(1);
+      @include u-padding-bottom('105');
       @include u-font('sans', 'lg');
       @include u-text('semibold');
       @include u-position('sticky');
@@ -43,11 +47,6 @@
   }
   .topic-section ~ .topic-section{
     @include u-margin-top(4);
-    @include u-border-top('1px', 'base-darker', 'solid');
-  }
-}
-#resources #resources_by_topic{
-  h2 {
-    @include u-font('sans', 'sm');
+    @include u-border-top('1px', 'base-light', 'solid');
   }
 }

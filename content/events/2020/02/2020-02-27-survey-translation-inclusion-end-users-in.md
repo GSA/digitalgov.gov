@@ -22,15 +22,15 @@ topics:
   - user-centered-design
   - research
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # see all authors at https://digital.gov/authors
 authors:
   - lgodfrey
 
 # YouTube ID
-youtube_id:
+youtube_id: BxO4kS9rdF0
 
 # Make it better ♥
 
