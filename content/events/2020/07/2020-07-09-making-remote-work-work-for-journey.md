@@ -6,7 +6,7 @@ slug: making-remote-work-work-for-journey
 title: "Making Remote Work Work for Journey Mapping "
 deck: ""
 summary: "Join us for a discussion about the value of journey mapping, and how to adapt the mapping process to make the most out of remote collaboration. "
-host: "DigitalGov University "
+host: "18F Research Guild"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/making-remote-work-work-for-journey-mapping-tickets-109037319558
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4469789&CustomerID=321
