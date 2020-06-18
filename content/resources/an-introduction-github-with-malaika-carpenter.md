@@ -29,6 +29,7 @@ weight: 1
 # Make it better ♥
 ---
 
+{{< youtube lZD7_kmc_zs >}}
 **What is GitHub?**
 [GitHub](https://github.com/) is a web-based interface that uses [Git](https://git-scm.com/), the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.
 
