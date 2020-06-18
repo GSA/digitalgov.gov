@@ -1,12 +1,12 @@
 ---
-# View this page at https://digital.gov/authors/peter-roland
+# View this page at https://digital.gov/authors/karen-matragrano
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: peter-roland
-display_name: "Peter Roland"
-first_name: "Peter"
-last_name: "Roland"
+slug: karen-matragrano
+display_name: "Karen Matragrano"
+first_name: "Karen "
+last_name: "Matragrano"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
@@ -15,16 +15,16 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Karen Matragrano was named Service Delivery Director in 2016, leading the largest division within the OCIO. In this role, she led a team who are dedicated to implementing and managing modern and secure IT solutions to meet the needs of our customers. She values customer feedback and continually looks for ways to improve IT service experience. In January 2020, she accepted the role as Deputy CIO for the Enterprise Services Division, performing similar duties as her previous role."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url: https://www.doi.gov/ocio/karen-matragrano
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "U.S. Department of Interior"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "DOI"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
