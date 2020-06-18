@@ -15,6 +15,7 @@ topics:
   - training
   - user-experience
   - github
+  - code
   
 # YouTube ID
 youtube_id: lZD7_kmc_zs
