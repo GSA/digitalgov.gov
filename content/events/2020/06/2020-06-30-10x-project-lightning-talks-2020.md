@@ -31,7 +31,7 @@ authors:
   - gray-brooks
   - mike-gintz
   - mike-stern
-  - peter-roland
+  - peter-rowland
   - sarah-crane
   - shaudi-hosseini
 
