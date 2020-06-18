@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/julie-strothman.png
+
+# Image shortcode: {{< img src="julie-strothman" >}}
+
+date     : 2020-06-10 14:53:05 -0400
+uid      : julie-strothman
+width    : 512
+height   : 512
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Julie Strothman" 

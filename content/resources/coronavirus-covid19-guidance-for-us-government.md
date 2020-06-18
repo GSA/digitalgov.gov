@@ -61,8 +61,27 @@ Link to authoritative information from other government agencies related to your
 
 The White House, in collaboration with DHS and HHS, encourages agencies to feature the following content on both their agency homepages and coronavirus pages as appropriate.
 
-### Last updated April 28, 2020
+### Last updated June 12, 2020:
+**Publishing Operating Status of Federal Public Facilities**:  [OMB M-20-23 - Aligning Federal Agency Operations with the National Guidelines for Opening Up America Again](https://www.whitehouse.gov/wp-content/uploads/2020/04/M-20-23.pdf) (section II, page 9) requires federal agencies to publish the operating status of their public facilities on their website.
+
+As your agency begins to reopen public-facing facilities, please publish this information on your `agency.gov/coronavirus` page to help people easily determine which federal facilities are currently open to the public.
+
+GSA, in collaboration with OPM, will maintain a comprehensive list of the operational status of federal public facilities on USA.gov.
+
+Here’s what you should do:    
+
+- Also include up-to date facility status information on your site where customers would look for such information (e.g., Contact Us or About Us pages)  
+- Make the facility status information easy to link to, so when someone follows the link, they'll see the info right away  
+- Include markup so search engines can more easily find and disseminate the information  
+  - Bing tips on marking up [organizations](https://www.bing.com/webmaster/help/markup-businesses-and-organizations-cc507c09) and [special announcements](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249) 
+  -   Google tips on marking up [organizations](https://developers.google.com/search/docs/data-types/local-business) and [special announcements](https://developers.google.com/search/docs/data-types/special-announcements)
+  -   Learn how [USA.gov applies SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find in search results
+    
+Please contact your [Federal Web Council representative](https://digital.gov/resources/federal-web-council/) if you have questions.
+
+{{< accordion kicker="Previous update" title="**April 28, 2020**:" >}}
 - **Guidelines for Opening Up America Again**: On April 27, President Trump announced the [Guidelines for Opening Up America Again](https://www.whitehouse.gov/openingamerica/), a three-phased approach based on the advice of public health experts (related [image assets](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/css/microsites/opening-america-logo-2x.png)).
+{{< /accordion >}}
 
 {{< accordion kicker="Previous update" title="**April 16, 2020**:" >}}
 -   **Schema.org 7.0 Tags for Coronavirus Pages**: The [White House and key federal agencies](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/) are working alongside Schema.org to help ensure coronavirus resources are prioritized with online search engines. [Schema.org has released new standard tags](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html) for webpages; [view the implementation instructions](https://developers.google.com/search/docs/data-types/special-announcements).

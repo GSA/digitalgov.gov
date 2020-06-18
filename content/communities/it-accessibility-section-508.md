@@ -2,11 +2,15 @@
 # View this page at https://digital.gov/communities/accessibility-section-508
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: accessibility
+slug: it-accessibility-section-508
 date: 2018-10-05 13:00:00 -0500
 title: "IT Accessibility and Section 508"
 deck: ""
 summary: "We support people who are working to improve accessibility of information technology."
+
+aliases:
+  - /communities/accessibility/
+
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -29,7 +33,7 @@ community_list:
     subscribe_email: "section.508@gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
     members: 673
-    emails_per_week: 
+    emails_per_week:
 
 
 # Make it better ♥

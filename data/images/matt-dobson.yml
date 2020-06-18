@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/matt-dobson.png
+
+# Image shortcode: {{< img src="matt-dobson" >}}
+
+date     : 2020-06-10 14:53:11 -0400
+uid      : matt-dobson
+width    : 512
+height   : 512
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Matt Dobson" 
