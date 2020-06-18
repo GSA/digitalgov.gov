@@ -21,6 +21,13 @@ end_date: 2020-07-16 15:00:00 -0500
 topics: 
   - professional-development
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - karen-matragrano
+  - nancy-kreidler
+  - wanda-jonesheath
+  - ravoyne-ray-payton
+
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: adobe_connect
 
@@ -35,6 +42,14 @@ weight: 0
 # Make it better ♥
 
 ---
+
+As leaders, how do you reach out and connect with the right people to expand your professional network? A strong leader has a network with individuals from outside their technical skills or expertise. Once you have built your core network, the next step is to expand to individuals outside, such as finance, acquisition, human resources, and operations. Breaking into other silos can create a competitive advantage to move up.
+
+You can expect to come away with tips for:
+
+ 1. strategies to expand your network;
+ 2. working with individuals from other functions and perspectives; and
+ 3. creating opportunities that not only expand your network, but expand your thinking.
 
 ## Presenters:
 
