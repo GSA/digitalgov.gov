@@ -21,7 +21,6 @@
 
 .box.base-light{
 	@include u-bg('base-light');
-	@include u-text('white');
 }
 
 .box.base{
