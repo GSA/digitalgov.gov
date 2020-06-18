@@ -53,11 +53,11 @@ Carpenter notes that becoming fluent in GitHub terminology might seem intimidati
 **How Do I Use GitHub?**
 In her live demonstration, Carpenter shows how files are changed and merged in GitHub. This can be done by any member on the team, developers and non-developers, that has access to a Github repository. The following is a step-by-step method in which GitHub users can develop their websites:
 
-*Step 1* - Team members will open an issue via a project board.
-*Step 2* - Team members will create a new branch from the most recent version of the main branch in the repository where the entire team works to avoid conflicts.
-*Step 3* - Team members will add commits (edits/ changes) to their respective branches.
-*Step 4* - Team members will open a pull request in which users can assign other team members to review content changes and internally discuss the details of the commits.
-*Step 5* - After waiting for the Federalist build to complete, team members can preview the change on a test version of the website and request reviewers to approve or comment on the change. Once the reviewers approve the pull request, the commits merge into the main branch and are published on the live site.
+- *Step 1* - Team members will open an issue via a project board.
+- *Step 2* - Team members will create a new branch from the most recent version of the main branch in the repository where the entire team works to avoid conflicts.
+- *Step 3* - Team members will add commits (edits/ changes) to their respective branches.
+- *Step 4* - Team members will open a pull request in which users can assign other team members to review content changes and internally discuss the details of the commits.
+- *Step 5* - After waiting for the Federalist build to complete, team members can preview the change on a test version of the website and request reviewers to approve or comment on the change. Once the reviewers approve the pull request, the commits merge into the main branch and are published on the live site.
 
 **What Else Do I Need to Know About GitHub?**
 Carpenter provides some helpful hints when using GitHub. For example, when starting a project using issues and project boards, she suggests GitHub users write their content on external word processors or via Google Docs, and then, save these files to their respective project boards. These steps allow developers and content creators to have a master copy of the file(s), thus helping them track changes over the course of a project.
