@@ -5,15 +5,13 @@
 # slug (url path) — changing this requires a redirect
 slug: an-introduction-github-with-malaika-carpenter
 date: 2020-06-18 13:00:00 -0500
-title: "An Introduction to Github with Malaika Carpenter"
-deck: "How to use GitHub into easy, practical steps and  demonstrates ways to use this tool to create, manage and publish website content. "
+title: "An Introduction to Github"
+deck: "How to use GitHub in easy, practical steps to create, manage and publish website content. "
 summary: ""
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - design
   - training
-  - user-experience
   - github
   - code
   
