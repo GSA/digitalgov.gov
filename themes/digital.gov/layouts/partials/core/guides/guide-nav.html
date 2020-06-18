@@ -22,6 +22,7 @@
               {{ if $item.subnav -}}<span class="arrow-right"></span>{{- end -}}
             </a>
 
+            {{/* Sub items — second level down */}}
             {{- if $item.subnav -}}
               <ul class="usa-sidenav__sublist">
                 {{- range $item.subnav -}}
@@ -31,6 +32,22 @@
                     <a class="{{- if eq $current_url $sub_page.Permalink  -}}usa-current{{- end -}}" href="{{- $sub_page.Permalink  -}}" title="{{- $sub_item.title -}}">
                       {{- $sub_item.title }}
                     </a>
+
+                    {{/* Sub-sub items (theird level down) */}}
+                    {{- if $sub_item.subnav -}}
+                      <ul class="usa-sidenav__sublist">
+                        {{- range $sub_item.subnav -}}
+                          {{- $subsub_item := . -}}
+                          {{- $subsub_page := $.Site.GetPage $subsub_item.path  -}}
+                          <li class="usa-sidenav__item">
+                            <a class="{{- if eq $current_url $subsub_page.Permalink  -}}usa-current{{- end -}}" href="{{- $subsub_page.Permalink  -}}" title="{{- $subsub_item.title -}}">
+                              {{- $subsub_item.title }}
+                            </a>
+                          </li>
+                        {{- end -}}
+                      </ul>
+                    {{- end -}}
+
                   </li>
                 {{- end -}}
               </ul>

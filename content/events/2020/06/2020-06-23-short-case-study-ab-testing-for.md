@@ -16,6 +16,10 @@ date: 2020-06-23 14:00:00 -0500
 # end date
 end_date: 2020-06-23 15:00:00 -0500
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - kristal-byrd
+
 # see all topics at https://digital.gov/topics
 topics: 
   - a-b-testing
