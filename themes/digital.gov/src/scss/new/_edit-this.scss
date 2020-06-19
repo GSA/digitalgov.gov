@@ -69,7 +69,7 @@
     @include u-text('no-underline');
     @include u-shadow(5);
     &:hover{
-      @include u-bg('blue-50v');
+      @include u-bg('blue-60v');
     }
     i{
       position: relative;
