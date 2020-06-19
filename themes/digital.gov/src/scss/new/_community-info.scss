@@ -50,9 +50,9 @@
       }
     }
     .join.type-google-group{
-      @include u-bg('blue-40v');
+      @include u-bg('blue-50v');
       &:hover{
-        @include u-bg('blue-50v');
+        @include u-bg('blue-60v');
       }
     }
     .join.type-slack{
