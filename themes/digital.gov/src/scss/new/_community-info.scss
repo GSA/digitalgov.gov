@@ -41,12 +41,12 @@
       @include u-text('gray-1');
       @include u-text('no-underline');
       @include u-font('sans', 'md');
-      @include u-bg('orange-warm-50v');
+      @include u-bg('mint-50v');
       @include u-display('block');
       @include u-radius('md');
       @include u-text('bold');
       &:hover{
-        @include u-bg('orange-warm-60v');
+        @include u-bg('mint-60v');
       }
     }
     .join.type-google-group{
