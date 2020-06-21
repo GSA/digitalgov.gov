@@ -64,7 +64,7 @@ jQuery(document).ready(function($) {
                 "<p class='label'>Use this shortcode in the content body</p>",
                 "<pre>{{< img src=\""+uid+"\" >}}</pre>", // shortcode
               "</div>",
-              "<p class='edit btn'><a target='_new' href='https://github.com/GSA/digitalgov.gov/edit/master/data/images/"+uid+".yml' title='view on GitHub'>Edit on GitHub »</a></p>",
+              "<p class='edit btn'><a target='_new' href='https://github.com/GSA/digitalgov.gov/edit/main/data/images/"+uid+".yml' title='view on GitHub'>Edit on GitHub »</a></p>",
             "</div>",
             "<p class='meta'>Uploaded on "+date+"</p>",
           "</div>",
