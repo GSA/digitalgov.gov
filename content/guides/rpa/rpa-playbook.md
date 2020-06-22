@@ -30,10 +30,10 @@ Readers can expect to find guidance for:
       -   **Credentialing Policy** &mdash; Designing compliant credentialing processes aligning with RPA program resourcing and technology strategies.
       -   **Privacy Policy** &mdash; Developing processes to meet relevant federal privacy and ethics standards for the deployment of RPA.
       -   RPA Program Management
-- **RPA Program Management**
-  -   **Operating Model** &mdash; Establishing an effective oversight and management framework to foster cross-agency collaboration and accountability.
-  -   **RPA Program Design** &mdash; Designing an RPA program structure to meet established throughput goals and deployment strategy.
-  -   **Management Reporting and Business Value** &mdash; Creating program-specific and government-wide RPA implementation and operations metrics, strategies, and business case models to drive common measurement and impact analysis.
-  -   **Process Selection, Assessment, and Improvement** &mdash; Identifying and assessing processes for automation that maximize the value of RPA within an agency. Leveraging RPA effectively as a tool for broad process improvement within an agency.
-  -   **HR Planning and Impacts** &mdash; Drafting HR processes and guidance to address the impacts of RPA—including employee reskilling, redeployment, and satisfaction.
-  -  **Operations Management** &mdash; Defining processes for developing automations, scheduling automations, facilitating capacity management, license management, and monitoring and fixing errors.
+  - **RPA Program Management**
+    -   **Operating Model** &mdash; Establishing an effective oversight and management framework to foster cross-agency collaboration and accountability.
+    -   **RPA Program Design** &mdash; Designing an RPA program structure to meet established throughput goals and deployment strategy.
+    -   **Management Reporting and Business Value** &mdash; Creating program-specific and government-wide RPA implementation and operations metrics, strategies, and business case models to drive common measurement and impact analysis.
+    -   **Process Selection, Assessment, and Improvement** &mdash; Identifying and assessing processes for automation that maximize the value of RPA within an agency. Leveraging RPA effectively as a tool for broad process improvement within an agency.
+    -   **HR Planning and Impacts** &mdash; Drafting HR processes and guidance to address the impacts of RPA—including employee reskilling, redeployment, and satisfaction.
+    -  **Operations Management** &mdash; Defining processes for developing automations, scheduling automations, facilitating capacity management, license management, and monitoring and fixing errors.
