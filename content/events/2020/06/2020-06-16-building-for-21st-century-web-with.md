@@ -28,7 +28,7 @@ authors:
   - david-corwin
 
 # YouTube ID
-youtube_id: 
+youtube_id: 0_RsITB_LMw
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
