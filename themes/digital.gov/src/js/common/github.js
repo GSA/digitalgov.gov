@@ -19,7 +19,7 @@ jQuery(document).ready(function($) {
 	build_edit_file_link();
 
 	function get_commit_data(){
-		if (branch == "master") {
+		if (branch == "main") {
 			branchpath = "";
 		} else {
 			branchpath = "/" + branch;
@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
 			 	dataType: 'json',
 			}).done(function(data) {
 				if (typeof data !== 'undefined') {
-					if (branch == "master") {
+					if (branch == "main") {
 						show_last_commit(data, branch);
 					} else {
 						// show_branch_last_commit(data, branch);

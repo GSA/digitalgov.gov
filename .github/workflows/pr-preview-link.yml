@@ -2,10 +2,10 @@ name: add federalist preview link to PR
 
 on:
   # Trigger the workflow pull request,
-  # but only for the master branch
+  # but only for the main branch
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   comment:
