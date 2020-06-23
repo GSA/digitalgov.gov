@@ -55,7 +55,7 @@ weight: 0
 
 ---
 
-Join our three-day virtual summit, July 28 to July 30, and gain insights on UX Methods, Service Design, and Managing UX. It’s a great opportunity to learn about UX from our federal, state, and local government UX colleagues. 
+Join our three-day virtual summit, **July 28 to July 30**, and gain insights on UX Methods, Service Design, and Managing UX. It’s a great opportunity to learn about UX from our federal, state, and local government UX colleagues. 
 
 {{< accordion kicker="Day 1 of the UX Summit" title="UX Methods - July 28" icon="fas fa-copy" >}}
 
