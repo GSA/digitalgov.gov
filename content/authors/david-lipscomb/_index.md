@@ -11,11 +11,11 @@ last_name: "Lipscomb"
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
+# Email — If you include an email address, it will be displayed on your profile page
 email: 
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "David Lipscomb is the director of the Writing Center and assistant professor at Georgetown University. As a Board member of the Center for Plain Language, David leads the Center’s Report Card program. At Georgetown, David incorporates plain writing principles into his courses and has designed assignments in which students complete plain writing challenges for a number of government agencies. His current research focuses on the ways recent discoveries in the fields of usability and cognitive psychology call into question some traditional pieces of writing advice, such as delaying emphatic points, as in the once-beloved “periodic sentence.” "
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
