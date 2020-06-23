@@ -15,7 +15,7 @@ short_url:
 date: 2020-06-23 11:00:00 -0500
 kicker: "Version Control"
 title: "Intro to GitHub for Content Creation with Malaika Carpenter"
-deck: "In this live training, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content."
+deck: "**Intro to GitHub for Content Creation with Malaika Carpenter** &mdash; In this live training, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content."
 summary: "In this live training, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content."
 
 # see all topics at https://digital.gov/topics
