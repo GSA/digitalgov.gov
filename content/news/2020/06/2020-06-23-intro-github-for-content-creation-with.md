@@ -24,6 +24,10 @@ topics:
   - training
   - github
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - malaika-carpenter
+  
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
