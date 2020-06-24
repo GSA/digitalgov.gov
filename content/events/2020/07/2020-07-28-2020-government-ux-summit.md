@@ -55,9 +55,11 @@ weight: 0
 
 ---
 
+***When registering, please select the individual sessions that you'd like to attend. You will need to register individually to receive the proper Zoom links.***
+
 Join our three-day virtual summit, **July 28 to July 30**, and gain insights on UX Methods, Service Design, and Managing UX. It’s a great opportunity to learn about UX from our federal, state, and local government UX colleagues. 
 
-{{< accordion kicker="Day 1 of the UX Summit" title="UX Methods - July 28" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 1" title="UX Methods - July 28" icon="fas fa-copy" >}}
 
  **First Session – 10-minute presentations 11:30 AM – 12:30 PM ET**
 
@@ -78,7 +80,7 @@ This presentation proposes a useful method to track standards and UX requirement
  - **Ohana for Digital Service Design (or Baking Accessibility into your Digital Product Lifecycle)** - *Jennifer Strickland and Kendra Skeene, Ad Hoc (VA Modernization)*
 Designing and developing digital products that are accessible to all doesn’t just make good business sense — it’s also the law. Yet it’s often an overlooked part of the product development lifecycle. The best and most cost-effective way to ensure your product is accessible is to start with accessibility. In this session, participants will learn how to incorporate accessibility and inclusive design at each stage of the product lifecycle. From product requirements through user research, content strategy and copywriting, design, front-end development, and QA, consider accessibility using these effective guidelines. {{< /accordion >}}
 
-{{< accordion kicker="Day 2 of the UX Summit" title="Service Design - July 29" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 2" title="Service Design - July 29" icon="fas fa-copy" >}}
 
  **First Session –  11:30 AM – 12:30 PM ET**
 
@@ -98,7 +100,7 @@ Learn about the similarities and differences between Product Design and Service 
 
 For residents, forms are often front doors to access city services. They are also critical entry points not just to redesign content, but to transform the end-to-end experience of city services that better serve residents. This talk will discuss lessons learned from the City of Austin’s experiments in how service designers collaborate with content strategists to achieve this goal. We will focus on two case studies that offer different insights on how service designers and content strategists can collaborate. {{< /accordion >}}
 
-{{< accordion kicker="Day 3 of the UX Summit" title="Managing UX - July 30" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 3" title="Managing UX - July 30" icon="fas fa-copy" >}}
 
  **First Session –  11:30 AM – 12:30 PM ET**
 
@@ -113,6 +115,12 @@ Modernization means change—and change can sometimes be hard. When creating new
 A comprehensive, empirical discovery process sets the stage for a streamlined roadmap and agile project approach. Drawing on discovery insights for a new Careers site for HHS.gov, the speakers will recount quantifiable tactics that led to an evidence-based decision matrix which guided the design, development, content and communications efforts for the project. Participants will hear use cases for activities that can be used to ensure any pivoting supports the overarching digital strategy. Additionally, regular check-ins with stakeholders will run smoothly when the vision for the site is captured in the beginning with benchmarks for success clearly identified. {{< /accordion >}}
 
 ---
+
+**Related Links:**
+
+ - [Government UX Summit 2019](https://digital.gov/event/2019/05/15/2019-government-ux-summit/)
+ 
+ ---
 
 *The 2020 Government UX Summit is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and DigitalGov.*
 
