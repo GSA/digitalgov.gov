@@ -78,6 +78,7 @@ This presentation proposes a useful method to track standards and UX requirement
 **Second Session 1:30 – 2:30 PM ET**
 
  - **Ohana for Digital Service Design (or Baking Accessibility into your Digital Product Lifecycle)** - *Jennifer Strickland and Kendra Skeene, Ad Hoc (VA Modernization)*
+
 Designing and developing digital products that are accessible to all doesn’t just make good business sense — it’s also the law. Yet it’s often an overlooked part of the product development lifecycle. The best and most cost-effective way to ensure your product is accessible is to start with accessibility. In this session, participants will learn how to incorporate accessibility and inclusive design at each stage of the product lifecycle. From product requirements through user research, content strategy and copywriting, design, front-end development, and QA, consider accessibility using these effective guidelines. {{< /accordion >}}
 
 {{< accordion kicker="Day 2" title="Service Design - July 29" icon="fas fa-copy" >}}
