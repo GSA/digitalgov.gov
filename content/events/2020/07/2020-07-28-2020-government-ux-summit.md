@@ -54,6 +54,7 @@ weight: 0
 # Make it better ♥
 
 ---
+{{< img src="2020-ux-summit" >}}
 
 ***When registering, please select the individual sessions that you'd like to attend. You will need to register individually to receive the proper Zoom links.***
 
