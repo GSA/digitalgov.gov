@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/2020-ux-summit.png
+
+# Image shortcode: {{< img src="2020-ux-summit" >}}
+
+date     : 2020-06-24 11:55:06 -0400
+uid      : 2020-ux-summit
+width    : 1218
+height   : 514
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Government UX Summit sponsored by the UX Community of Practice" 
