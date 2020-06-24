@@ -3,10 +3,10 @@
 
 # Image shortcode: {{< img src="pets-cats" >}}
 
-date     : 2020-06-23 16:31:43 -0400
+date     : 2020-06-23 20:40:58 -0400
 uid      : pets-cats
-width    : 962
-height   : 1338
+width    : 945
+height   : 483
 format   : png
 credit   : "" 
 caption  : "A screenshot of a tweet from the 18F Twitter account, which shows 12 photos of employees’ dogs and cats." 
