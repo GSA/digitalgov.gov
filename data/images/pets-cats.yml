@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/pets-cats.png
+
+# Image shortcode: {{< img src="pets-cats" >}}
+
+date     : 2020-06-23 16:31:43 -0400
+uid      : pets-cats
+width    : 962
+height   : 1338
+format   : png
+credit   : "" 
+caption  : "A screenshot of a tweet from the 18F Twitter account, which shows 12 photos of employees’ dogs and cats." 
+alt      : "A tweet from the 18F Twitter account, which shows 12 photos of employees’ dogs and cats." 

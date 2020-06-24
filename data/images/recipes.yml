@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/recipes.png
+
+# Image shortcode: {{< img src="recipes" >}}
+
+date     : 2020-06-23 16:30:26 -0400
+uid      : recipes
+width    : 4308
+height   : 3692
+format   : png
+credit   : "" 
+caption  : "A photograph of an open recipe box, with recipes written on index cards sticking in it." 
+alt      : "A photograph of an open recipe box, with recipes written on index cards sticking in it." 

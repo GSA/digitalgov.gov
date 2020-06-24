@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/singing-bowl.png
+
+# Image shortcode: {{< img src="singing-bowl" >}}
+
+date     : 2020-06-23 16:30:26 -0400
+uid      : singing-bowl
+width    : 3396
+height   : 2848
+format   : png
+credit   : "" 
+caption  : "A photograph of a metal meditation singing bowl. " 
+alt      : "A metal meditation singing bowl. " 
