@@ -64,15 +64,19 @@ Join our three-day virtual summit, **July 28 to July 30**, and gain insights on 
  **First Session – 10-minute presentations 11:30 AM – 12:30 PM ET**
 
  - **Becoming a UX Houdini: Finding Opportunities in the Face of Constrictions** - *John Pull, Library of Congress*
+
 The Library of Congress’s Harry Houdini Collection provides insights and inspiration for UX professionals who feel chained down by the regulations, legacy systems, and PR challenges of government projects.
 
  - **UX Research via Dot-Voting** - *Angela Smithers and Maya Rhodan, National Museum of African American History and Culture*
+
 A presentation on adapting the [discover method](https://methods.18f.gov/discover/dot-voting/) from 18F to perform quick user testing and get quantifiable results that stakeholders can comprehend.
 
  - **Development of a Standardized Formula to Calculate Severity Scores in Multitask Usability Testing** - *Anthony J. Schulzetenberg, U.S. Census Bureau*
+
 Severity scores are often used in usability research to provide stakeholders a measure of urgency for the usability problems that were identified during testing. However, the methods used to develop these scores often lack rigor or applicability to multitask usability research. Because government UX research often involves testing multiple tasks, we propose an intuitive method to calculate severity scores for each usability problem that takes into account both the effectiveness and efficiency of the user, weighting effectiveness-related problems more heavily. We then can calculate an overall severity score and see each problem’s relative strain on the system’s total usability.
 
  - **Solving the Lost Sock Problem: A Useful Method to Track Standards and UX Requirements in an Agile Software Development Process** - *Margo Kabel, Veterans Health Administration*
+
 This presentation proposes a useful method to track standards and UX requirements in an agile software development process. This presentation is also a case study of medication information standards implementation at the Veterans Health Administration.
 
 **Second Session 1:30 – 2:30 PM ET**
