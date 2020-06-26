@@ -1,21 +1,39 @@
 ---
+# View this page at https://digital.gov/event/2018/07/fedramp-boundary-guidance-response-industry-comment
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramp-boundary-guidance-response-industry-comment
-title: 'FedRAMP Boundary Guidance&#58; Response to Industry Comment'
-summary: 'During this 45 minute webinar, we will focus on responding to industry feedback from the May 2018 guidance that FedRAMP released to inform Cloud Service Providers &#40;CSPs&#41; and agencies on the “rules of thumb” to consider when developing the FedRAMP authorization boundary for their cloud service offering&#40;s&#41;&#46;'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - youtube-live
-topics:
-  - fedramp
-date: 2018-07-25 15:00:00 -0500
-end_date: 2018-07-25 16:00:00 -0500
-event_organizer: DigitalGov University
-host: FedRAMP
+title: "FedRAMP Boundary Guidance: Response to Industry Comment"
+deck: ""
+summary: "During this 45 minute webinar, we will focus on responding to industry feedback from the May 2018 guidance that FedRAMP released to inform Cloud Service Providers (CSPs) and agencies on the “rules of thumb” to consider when developing the FedRAMP authorization boundary for their cloud service offering(s)."
+host: "FedRAMP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/fedramp-boundary-guidance-response-to-industry-comment-ii-registration-47681909876
+captions: 
+
+# start date
+date: 2018-07-25 16:00:00 -0500
+
+# end date
+end_date: 2018-07-25 17:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - fedramp
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - ashley-mahan
+  - matt-goodrich
+
+# YouTube ID
 youtube_id: esZsPfEgDqc
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 In May 2018, [FedRAMP](https://www.fedramp.gov/) released guidance informing Cloud Service Providers (CSPs) and agencies on the “rules of thumb” to consider when developing the FedRAMP authorization boundary for their cloud service offering(s). Following its release, the FedRAMP Program Management Office (PMO) accepted comments on the guidance until Friday, June 8th. In response to the comments received from industry partners, the FedRAMP PMO will be hosting two webinars. 
