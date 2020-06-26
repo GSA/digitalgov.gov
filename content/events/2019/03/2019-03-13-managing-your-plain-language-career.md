@@ -27,6 +27,7 @@ authors:
   - donna-garland
   - jonathan-withington
   - megan-miller
+  - katherine-spivey
 
 # YouTube ID
 youtube_id: JIR489Oq7OY
