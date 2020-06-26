@@ -10,7 +10,7 @@ summary: 'Guidance on building better digital services in government'
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
-domain: 'https://demo.digital.gov'
+domain: 'https://digital.gov'
 
 # To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.
 # Copy and paste that full path here:
