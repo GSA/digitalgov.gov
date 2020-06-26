@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Nicolas Pjontek is the Acting Manager for canada.ca analytics, and the principal publisher of Service Canada in the Government of Canada"
+bio: "Nicolas Pjontek is the Acting Manager for canada.ca analytics, and the principal publisher of Service Canada in the Government of Canada."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
