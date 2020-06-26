@@ -12,7 +12,7 @@ slug: mapping-wcag-20-functional-performance-criteria
 
 date: 2020-06-26 14:00:00 -0500
 title: "Mapping of WCAG 2.0 to Functional Performance Criteria"
-deck: "**Mapping of WCAG 2.0 to Functional Performance Criteria** &mdash; See how specific disabilities may be impacted by by not following accessible guidelines. "
+deck: "**Mapping of WCAG 2.0 to Functional Performance Criteria** &mdash; See how specific disabilities may be impacted by not following accessible guidelines. "
 
 
 # Make it better ♥
