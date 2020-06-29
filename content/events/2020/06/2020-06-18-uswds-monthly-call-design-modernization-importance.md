@@ -4,17 +4,17 @@
 slug: uswds-monthly-call-design-modernization-importance
 title: "USWDS Monthly Call: Design Modernization and the Importance of Designers"
 deck: ""
-summary: "The June 2020 USWDS monthly call will focus on the design system and design modernization with special guest speakers from 18F.  Dan Williams, USWDS product lead, will lead the call and facilitate a live question and answer session with event attendees."
+summary: "The June 2020 USWDS monthly focused on the design system and design modernization with guest speakers from 18F.  Dan Williams, USWDS product lead, led the call and facilitated a live question and answer session with event attendees."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-design-modernization-and-the-importance-of-designers-tickets-109009363942
 captions: 
 
 # start date
-date: 2020-06-18 14:30:00 -0500
+date: 2020-06-18 15:30:00 -0500
 
 # end date
-end_date: 2020-06-18 15:30:00 -0500
+end_date: 2020-06-18 16:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -24,13 +24,11 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - christine-bath
   - dan-williams
 
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
-
 # YouTube ID
-youtube_id: 
+youtube_id: ieJykgw8U2I
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
@@ -45,7 +43,7 @@ weight: 0
 
 {{< img-right src="uswds-logo" >}}
 
-This month, Dan Williams, USWDS product lead, and 18F teammates will talk about how the design system helps teams build better sites faster. They’ll also discuss why, even when using a design system like USWDS, teams still need a designer.
+This month, Dan Williams, USWDS product lead, and 18F teammates talked about how the design system helps teams build better sites faster. They discussed why, even when using a design system like USWDS, teams still need a designer.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
