@@ -43,7 +43,7 @@ weight: 0
 
 {{< img-right src="uswds-logo" >}}
 
-This month, Dan Williams, USWDS product lead, and 18F teammates talked about how the design system helps teams build better sites faster. They discussed why, even when using a design system like USWDS, teams still need a designer.
+Dan Williams, U.S. Web Design System (USWDS) product lead, and 18F teammates discussed how the design system helps design teams solve problems and encourage team collaboration. Most importantly, they addressed why, even when using a design system like USWDS, teams still need a designer.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
