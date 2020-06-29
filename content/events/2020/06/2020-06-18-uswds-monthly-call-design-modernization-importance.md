@@ -26,6 +26,8 @@ topics:
 authors: 
   - christine-bath
   - dan-williams
+  - laura-gerhardt
+  - austin-hernandez
 
 # YouTube ID
 youtube_id: ieJykgw8U2I
