@@ -41,7 +41,7 @@ Some of our colleagues say that we make meetings feel like a family reunion - th
 
 Think of it like this: meetings are a federal employee’s kitchen, and we are the chefs. Depending on the ingredients, preparation, and final execution, the meeting experience can have perfectly crisp edges, or flop into an undercooked, messy pile. Each of us can influence the meeting experience and how good — or bad — it tastes.
 
-{{< img src="cooking-metaphor-town-hall" alt="A photograph of a dinner table with plates, bowls and utensils. The dishes are holding olives, salt, bruschetta, tomatoes, cabbage, and bread, and there is a frying pan with potatoes and meat." >}}
+{{< img src="cooking-metaphor-town-hall" >}}
 
 This month, we’re focusing on large group meetings: divisional Town Halls or office-wide gatherings. We recently organized a Town Hall for our division, the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA), and we’re sharing insights on our successes and takeaways from that event, and others that we have facilitated.  
 
@@ -55,7 +55,7 @@ Write out the goals for each section of the agenda. Give each part a clear time 
 
 Avoid the dreaded, “we do this activity because we’ve always done it” by clarifying the “why” behind everything on your agenda. This sharpens the meeting content and helps your employees know what they’ll gain by attending. You can only serve big groups well if you’ve planned for it ahead of time—just like in your kitchen.
 
-{{< img src="UID" alt="A photograph of an open recipe box, with recipes written on index cards in it." >}}
+{{< img src="open-recipe-box" >}}
 
 2. **Create your team: select a chef, a sous chef, and a few station chefs**
 
@@ -81,7 +81,7 @@ Include short educational or learning sessions in the agenda. For example, the T
 
 Lastly, consider closing the meeting with an action item or an open question that brings the whole “meal” together and leaves people feeling satisfied and included. Open your next Town Hall with insights from the action item or question from the previous Town Hall. For example, we encouraged our colleagues to reach out and tell someone why they appreciate them.
 
-{{< img src="meditation-singing-bowl-shutterstock-128452169" alt="A photograph of a metal meditation singing bowl." >}}
+{{< img src="meditation-singing-bowl-shutterstock-128452169" >}}
 
 4. **Use audio and visual cues for a richer sensory experience**
 
