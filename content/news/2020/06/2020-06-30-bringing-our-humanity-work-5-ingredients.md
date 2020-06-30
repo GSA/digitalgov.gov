@@ -5,7 +5,7 @@ slug: bringing-our-humanity-work-5-ingredients
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-06-30 7:00:00 -0500
+date: 2020-06-30 10:00:00 -0500
 title: "Bringing Our Human(ity) to Work: 5 Ingredients for a Delightful Town Hall"
 deck: "In this Bringing Our Human(ity) to Work series, we’re going to share what we believe are the best “meeting ingredients” for a variety of meeting experiences: large groups, teams, and small groups."
 summary: "How to design impactful and engaging Town Hall or large group meetings."
@@ -91,14 +91,14 @@ In our Town Hall, we used a meditation bell to start the meeting and to alert sp
 
 The visual elements of your meeting can also increase engagement. A quick internet search will reveal an abundance of “recipes” on how to create compelling slides. Our core advice is to keep them simple; a “wall of text” distracts employees from the main message. 
  
-Plus, slides are only one method for conveying visual information. Is there a new initiative that can be shown through a live demonstration? Can a short leadership message be effectively conveyed by the speaker simply turning their video camera on? A smart chef leverages precooked elements when it makes sense—use pre-recorded videos as needed.
+Plus, slides are only one method for conveying visual information. Is there a new initiative that can be shown through a live demonstration? Can a short leadership message be effectively conveyed by the speaker simply turning their video camera on? A smart chef leverages precooked elements when it makes sense—use pre-recorded videos as needed. 
 
 5. **Infuse with kudos and “cuteness”**
 
 A staple of TTS large group meetings is sharing “pets, children, and other cuteness.” Staff turn on their video cameras (if they weren’t already on) and show off their pets, children, or something else they enjoy. Photos can be shown to the camera, too. The icing on the cake: if you wait until the end of the meeting to reveal these, people will stay until the end! 
 
-We also encourage gratitude and reflection. Kudos are another staple of our meetings: we set aside a timeblock for teammates to thank each other, in their own words. The moderator can gather names ahead of time and call on each person to unmute. They can also read off kudos for anyone who can’t attend or would prefer not to unmute.
+We also encourage gratitude and reflection. Kudos are another staple of our meetings: we set aside a timeblock for teammates to thank each other, in their own words. The moderator can gather names ahead of time and call on each person to unmute. They can also read off kudos for anyone who can’t attend or would prefer not to unmute. 
 
 {{< tweet 1180123465963188224 >}}
 
-We hope you’ll stir together our five ingredients and create the dish that best serves your audience. Stay tuned for the next piece, focused on small team meetings.
+We hope you’ll stir together our five ingredients and create the dish that best serves your audience. Stay tuned for the next piece, focused on small team meetings. 
