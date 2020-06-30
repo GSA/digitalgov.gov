@@ -55,7 +55,7 @@ Write out the goals for each section of the agenda. Give each part a clear time 
 
 Avoid the dreaded, “we do this activity because we’ve always done it” by clarifying the “why” behind everything on your agenda. This sharpens the meeting content and helps your employees know what they’ll gain by attending. You can only serve big groups well if you’ve planned for it ahead of time—just like in your kitchen.
 
-{{< img src="UID" alt="A photograph of an open recipe box, with recipes written on index cards sticking in it." >}}
+{{< img src="UID" alt="A photograph of an open recipe box, with recipes written on index cards in it." >}}
 
 2. **Create your team: select a chef, a sous chef, and a few station chefs**
 
