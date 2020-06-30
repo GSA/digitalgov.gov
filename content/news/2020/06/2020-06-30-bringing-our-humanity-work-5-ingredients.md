@@ -6,8 +6,8 @@ slug: bringing-our-humanity-work-5-ingredients
 # Short URL — https://go.usa.gov/
 short_url: 
 date: 2020-06-30 7:00:00 -0500
-title: "Bringing Our Humanity to Work: 5 Ingredients for a Delightful Town Hall"
-deck: "In this Bringing Our Humanity to Work series, we’re going to share what we believe are the best “meeting ingredients” for a variety of meeting experiences: large groups, teams, and small groups."
+title: "Bringing Our Human(ity) to Work: 5 Ingredients for a Delightful Town Hall"
+deck: "In this Bringing Our Human(ity) to Work series, we’re going to share what we believe are the best “meeting ingredients” for a variety of meeting experiences: large groups, teams, and small groups."
 summary: "How to design impactful and engaging Town Hall or large group meetings."
 
 # see all topics at https://digital.gov/topics
@@ -41,7 +41,7 @@ Some of our colleagues say that we make meetings feel like a family reunion - th
 
 Think of it like this: meetings are a federal employee’s kitchen, and we are the chefs. Depending on the ingredients, preparation, and final execution, the meeting experience can have perfectly crisp edges, or flop into an undercooked, messy pile. Each of us can influence the meeting experience and how good — or bad — it tastes.
 
-This month, we’re focusing on large group meetings: divisional Town Halls or office-wide gatherings. We recently organized a Town Hall for our division, the Technology Transformation Services (TTS) at the U.S. General Services Administration (GSA), and we’re sharing insights on our successes and takeaways from that event, and others that we have facilitated.  
+This month, we’re focusing on large group meetings: divisional Town Halls or office-wide gatherings. We recently organized a Town Hall for our division, the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA), and we’re sharing insights on our successes and takeaways from that event, and others that we have facilitated.  
 
 ## 5 Ingredients for a Delightful Town Hall Experience
 
@@ -102,7 +102,6 @@ A staple of TTS large group meetings is sharing “pets, children, and other cut
 
 We also encourage gratitude and reflection. Kudos are another staple of our meetings: we set aside a timeblock for teammates to thank each other, in their own words. The moderator can gather names ahead of time and call on each person to unmute. They can also read off kudos for anyone who can’t attend or would prefer not to unmute.
 
-
-A screenshot of a tweet from the 18F Twitter account, which shows 12 photos of employees’ dogs and cats.
+{{< tweet 1180123465963188224 >}}
 
 We hope you’ll stir together our five ingredients and create the dish that best serves your audience. Stay tuned for the next piece, focused on small team meetings.
