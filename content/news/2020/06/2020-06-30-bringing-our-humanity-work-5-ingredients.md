@@ -22,7 +22,7 @@ authors:
   - nina-bianchi
 
 # primary Image (for social media)
-primary_image: "kop"
+primary_image: "cooking-metaphor-town-hall"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -41,6 +41,8 @@ Some of our colleagues say that we make meetings feel like a family reunion - th
 
 Think of it like this: meetings are a federal employee’s kitchen, and we are the chefs. Depending on the ingredients, preparation, and final execution, the meeting experience can have perfectly crisp edges, or flop into an undercooked, messy pile. Each of us can influence the meeting experience and how good — or bad — it tastes.
 
+{{< img src="cooking-metaphor-town-hall" alt="A photograph of a dinner table with plates, bowls and utensils. The dishes are holding olives, salt, bruschetta, tomatoes, cabbage, and bread, and there is a frying pan with potatoes and meat." >}}
+
 This month, we’re focusing on large group meetings: divisional Town Halls or office-wide gatherings. We recently organized a Town Hall for our division, the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA), and we’re sharing insights on our successes and takeaways from that event, and others that we have facilitated.  
 
 ## 5 Ingredients for a Delightful Town Hall Experience
@@ -53,8 +55,7 @@ Write out the goals for each section of the agenda. Give each part a clear time 
 
 Avoid the dreaded, “we do this activity because we’ve always done it” by clarifying the “why” behind everything on your agenda. This sharpens the meeting content and helps your employees know what they’ll gain by attending. You can only serve big groups well if you’ve planned for it ahead of time—just like in your kitchen.
 
-
-A photograph of an open recipe box, with recipes written on index cards sticking in it.
+{{< img src="UID" alt="A photograph of an open recipe box, with recipes written on index cards sticking in it." >}}
 
 2. **Create your team: select a chef, a sous chef, and a few station chefs**
 
@@ -65,7 +66,6 @@ A well-seasoned meeting also has a buzzing “kitchen” behind the scenes. The 
 We’ve both learned from experience that you can’t do it all alone: when we co-facilitated the Town Hall, we leaned on the support of several other teammates as station chefs to moderate a communications backchannel and the videoconferencing chatbox. We also recommend having a notetaker assemble meeting insights into a summary that is distributed office-wide afterward. 
 
 Doing a practice run is worth the time investment. It’s better to undercook a dish in front of friends, rather than 500 people. At minimum, have a short meeting to talk through the agenda with all presenters and chefs, so everyone knows their role and the overall meeting flow. 
-
 
 3. **Plan interactive segments: add the right spices**
 
@@ -81,9 +81,7 @@ Include short educational or learning sessions in the agenda. For example, the T
 
 Lastly, consider closing the meeting with an action item or an open question that brings the whole “meal” together and leaves people feeling satisfied and included. Open your next Town Hall with insights from the action item or question from the previous Town Hall. For example, we encouraged our colleagues to reach out and tell someone why they appreciate them.
 
-
-
-A photograph of a metal meditation singing bowl. 
+{{< img src="meditation-singing-bowl-shutterstock-128452169" alt="A photograph of a metal meditation singing bowl." >}}
 
 4. **Use audio and visual cues for a richer sensory experience**
 
@@ -94,7 +92,6 @@ In our Town Hall, we used a meditation bell to start the meeting and to alert sp
 The visual elements of your meeting can also increase engagement. A quick internet search will reveal an abundance of “recipes” on how to create compelling slides. Our core advice is to keep them simple; a “wall of text” distracts employees from the main message. 
  
 Plus, slides are only one method for conveying visual information. Is there a new initiative that can be shown through a live demonstration? Can a short leadership message be effectively conveyed by the speaker simply turning their video camera on? A smart chef leverages precooked elements when it makes sense—use pre-recorded videos as needed.
-
 
 5. **Infuse with kudos and “cuteness”**
 
