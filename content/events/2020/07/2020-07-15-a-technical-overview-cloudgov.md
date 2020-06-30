@@ -47,7 +47,7 @@ cloud.gov is a sophisticated and complex platform. Using visual diagrams, we wil
 
 ## Presenter:
 
-Steve Greenberg is an industry veteran with more than 20 years of experience in the architecture, operations, and development of custom applications. He is a proud Cloud Foundry Ambassador, an active member of the Cloud Foundry community, a technical advisor to the Cloud Foundry Foundation, and the recipient of the Cloud Advocate community award. A frequent open source contributor, he is the original author of the Spring Cloud Service Broker. He is currently working on the cloud.gov team as a platform operator (contractor).
+**Steve Greenberg** is an industry veteran with more than 20 years of experience in the architecture, operations, and development of custom applications. He is a proud Cloud Foundry Ambassador, an active member of the Cloud Foundry community, a technical advisor to the Cloud Foundry Foundation, and the recipient of the Cloud Advocate community award. A frequent open source contributor, he is the original author of the Spring Cloud Service Broker. He is currently working on the cloud.gov team as a platform operator (contractor).
 
 A regular speaker at conferences, unconferences, and meetups, Steve was invited to be a keynote speaker at the Cloud Foundry Summit in Basel in 2018.
 
