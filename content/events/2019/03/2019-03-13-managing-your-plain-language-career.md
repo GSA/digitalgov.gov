@@ -1,23 +1,46 @@
 ---
+# View this page at https://digital.gov/event/2019/03/managing-your-plain-language-career
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: managing-your-plain-language-career
-title: 'Managing Your Plain Language Career'
-summary: 'We&#39;ll discuss how to document and publicize your formal and informal plain language work — teaching, training, reviewing, or copyediting&#46;'
-featured_image:
-  uid: plain-language
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-03-13 14:00:00 -0500
-end_date: 2019-03-13 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Plain Language
+title: "Managing Your Plain Language Career"
+deck: ""
+summary: "We'll discuss how to document and publicize your formal and informal plain language work — teaching, training, reviewing, or copyediting."
+host: "Plain Language"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/managing-your-plain-language-career-registration-56927630074
-youtube_id: JIR489Oq7OY
-topics:
-  - writing
+captions: 
+
+# start date
+date: 2019-03-13 15:00:00 -0500
+
+# end date
+end_date: 2019-03-13 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - plain-language
+  - writing
   - plain-language-community-of-practice
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - donna-garland
+  - jonathan-withington
+  - megan-miller
+  - katherine-spivey
+
+# YouTube ID
+youtube_id: JIR489Oq7OY
+
+# Primary Image (for social media)
+primary_image: "plain-language"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 Get the credit you deserve!
