@@ -1,19 +1,34 @@
 ---
+# View this page at https://digital.gov/event/2019/04/crowdsourcing-for-access-engagement-at
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: crowdsourcing-for-access-engagement-at-library-congress
-title: 'Crowdsourcing for Access &amp; Engagement at the Library of Congress'
-summary: 'Learn how the Library is utilizing user-centered design to invite the public to explore, transcribe, and tag historical materials through a new open source platform&#46;'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - youtube-live
-date: 2019-04-23 14:00:00 -0500
-end_date: 2019-04-23 15:00:00 -0500
-event_organizer: Digitalgov
-host: Library of Congress Labs & Digitalgov University
+title: "Crowdsourcing for Access & Engagement at the Library of Congress"
+deck: ""
+summary: "Learn how the Library is utilizing user-centered design to invite the public to explore, transcribe, and tag historical materials through a new open source platform."
+host: "Library of Congress Labs & Digitalgov University"
+event_organizer: "Digitalgov"
 registration_url: https://www.eventbrite.com/e/crowdsourcing-for-access-engagement-at-the-library-of-congress-registration-59761556424
+captions: 
+
+# start date
+date: 2019-04-23 15:00:00 -0500
+
+# end date
+end_date: 2019-04-23 16:00:00 -0500
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - lauren-algee
+
+# YouTube ID
 youtube_id: cZYWQwY94Y0
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _[View live captioning event](https://www.captionedtext.com/client/event.aspx?EventID=3997009&CustomerID=321)_
