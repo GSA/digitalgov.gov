@@ -5,11 +5,11 @@ slug: us-data-federation-graduates-10x-program
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-07-02 18:00:00 -0500
+date: 2020-07-02 10:00:00 -0500
 kicker: "10x"
 title: "The U.S. Data Federation graduates the 10x Program, Launches New Repository"
 deck: ""
-summary: "GSA’s 10x program is proud and excited to announce the graduation of the U.S. Data Federation project, the first to exit 10x after receiving all four phases of 10x investment."
+summary: "GSA's 10x program is proud and excited to announce the graduation of the U.S. Data Federation project, the first to exit 10x after receiving all four phases of 10x investment."
 
 # see all topics at https://digital.gov/topics
 topics: 
