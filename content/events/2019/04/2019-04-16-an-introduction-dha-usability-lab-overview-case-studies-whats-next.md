@@ -1,24 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2019/04/an-introduction-dha-usability-lab
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: an-introduction-dha-usability-lab-overview-case-studies-whats-next
 title: "An Introduction to the DHA Usability Lab"
 deck: "Overview, Case Studies, and What’s Next"
-summary: 'Join us for an overview of the DHA Usability Lab, and the resources they provide to improve customer experience.'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-04-16 13:00:00 -0500
-end_date: 2019-04-16 14:00:00 -0500
-event_organizer: DigitalGov University
-host:
+summary: "Join us for an overview of the DHA Usability Lab, and the resources they provide to improve customer experience."
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/introduction-to-the-dha-usability-lab-overview-case-studies-whats-next-registration-59327626528
-youtube_id: wZ0knU9_TAU
-topics:
+captions: 
+
+# start date
+date: 2019-04-16 14:00:00 -0500
+
+# end date
+end_date: 2019-04-16 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - usability
   - user-experience
   - ux
-  - usability
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - dr-julie-kinn
+
+# YouTube ID
+youtube_id: wZ0knU9_TAU
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3953012&CustomerID=321)_
