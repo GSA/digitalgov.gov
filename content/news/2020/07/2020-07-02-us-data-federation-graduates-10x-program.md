@@ -84,4 +84,3 @@ The 10x program is confident that resources.data.gov will continue to be nurture
 Thank you to all the 18F staff who worked on the various phases of the 10x Data Federation project: Julia Lindpaintner, Mike Gintz, Princess Ojiaku, James Tranovich, Amy Mok, Ethan Heppner, Mark Headd, Chris Goranson, Catherine Devlin, Joe Kryzstan, Tony Garvan. 
 
 To learn more about the 10x program and find out how to submit your good-for-government idea, visit [10x.gsa.gov](https://10x.gsa.gov). 
-
