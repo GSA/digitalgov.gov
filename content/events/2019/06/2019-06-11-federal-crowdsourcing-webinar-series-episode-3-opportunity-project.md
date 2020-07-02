@@ -24,6 +24,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors: 
   - lorena-molinairizarry
+  - drew-zachary
 
 # YouTube ID
 youtube_id: ZhMgfptuiUw
@@ -37,6 +38,7 @@ primary_image: "challengegov-card-episode-3"
 weight: 0
 
 # Make it better ♥
+
 ---
 
 _[View Live Captioning for this Event ](https://www.captionedtext.com/client/event.aspx?EventID=3998900&CustomerID=321)_
