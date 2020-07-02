@@ -31,8 +31,7 @@ weight: 1
 
 When developing accessible content, authors need to think about how users will access and engage with content both visually or auditorily. By considering the following ways to create accessible content, you can enhance the way content is searched, used, and accessed. Here are some important Do’s and Don’ts to help you think about creating accessible content.
 
-**Images**
-
+**Images**<br/>
 *DO* <br/>
 * Think about the image’s strategic purpose. Ask yourself, “Is this visual pertinent to the overall purpose of the presentation, email, document, or site?”<br/>
 * Add alt-text to describe your images.
@@ -68,7 +67,7 @@ When developing accessible content, authors need to think about how users will a
 
 
 **Animations**<br/>
-*DO* <br/>
+*DO*<br/>
 * Stick to an easily scrollable format.<br/>
 * Use static images.
 
