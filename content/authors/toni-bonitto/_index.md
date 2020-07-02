@@ -20,7 +20,7 @@ slug: toni-bonitto
 email: "toni.bonitto@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "New to government, Toni spent most of her tech career in New York, New Jersey, and Florida in the private and nonprofit sectors. She now serves as an Innovation Specialist for DigitalGov in the Technology Transformation Service at GSA&#39;s headquarters in Washington, DC."
+bio: "Toni spent most of her tech career in New York, New Jersey, and Florida in the private and nonprofit sectors. She now serves as an Innovation Specialist for DigitalGov in the Technology Transformation Service at GSA&#39;s headquarters in Washington, DC, where she recently completed a term as the co-lead for the TTS Accessibility Guild."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: "https://digital.gov/about/"
