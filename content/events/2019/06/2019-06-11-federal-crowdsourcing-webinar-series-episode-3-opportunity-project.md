@@ -1,20 +1,42 @@
 ---
+# View this page at https://digital.gov/event/2019/06/federal-crowdsourcing-webinar-series-opportunity-project
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-webinar-series-episode-3-opportunity-project
-kicker: Episode 3
-title: 'Federal Crowdsourcing Webinar Series: The Opportunity Project'
-summary: 'The Opportunity Project engages government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation&#46; Learn how this initiative is making government data more accessible through cross-sector collaboration&#46;'
-featured_image:
-  uid: challengegov-card-episode-3
-  alt: ''
-event_type:
-  - zoom
-date: 2019-06-11 14:00:00 -0500
-end_date: 2019-06-11 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Challenge.gov
-registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-3-the-opportunity-project-registration-59460181002 
+title: "Federal Crowdsourcing Webinar Series: The Opportunity Project"
+deck: ""
+kicker: "Episode 3"
+summary: "The Opportunity Project engages government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation. Learn how this initiative is making government data more accessible through cross-sector collaboration."
+host: "Challenge.gov"
+event_organizer: "DigitalGov University"
+registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-3-the-opportunity-project-registration-59460181002
+captions: 
+
+# start date
+date: 2019-06-11 15:00:00 -0500
+
+# end date
+end_date: 2019-06-11 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - crowdsourcing
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - lorena-molinairizarry
+
+# YouTube ID
 youtube_id: ZhMgfptuiUw
 
+# Primary Image (for social media)
+primary_image: "challengegov-card-episode-3"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _[View Live Captioning for this Event ](https://www.captionedtext.com/client/event.aspx?EventID=3998900&CustomerID=321)_
