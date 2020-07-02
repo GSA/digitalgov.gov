@@ -39,6 +39,8 @@ authors:
   - john-pull
   - katherine-b-nammacher
   - margo-kabel
+  - maya-rhodan
+  - sarah-rigdon
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
