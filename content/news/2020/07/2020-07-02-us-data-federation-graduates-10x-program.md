@@ -35,7 +35,7 @@ weight: 1
 
 ---
 
-The U.S. General Services Administration's (GSA) 10x program is proud and excited to announce the graduation of the U.S. Data Federation project, the first to exit 10x after receiving all [four phases of 10x investment](https://10x.gsa.gov/the-10x-process/). The project culminated in the relaunch of [resources.data.gov](https://resources.data.gov), a government-wide repository of data resources called for by the Evidence Act and Federal Data Strategy. Along the way, it created new reusable tools for agencies, and seeded several new 10x projects. You can learn more about resources.data.gov by reading their most recent blog post. 
+The U.S. General Services Administration's (GSA) 10x program is proud and excited to announce the graduation of the U.S. Data Federation project, the first to exit 10x after receiving all [four phases of 10x investment](https://10x.gsa.gov/the-10x-process/). The project culminated in the relaunch of [resources.data.gov](https://resources.data.gov), a government-wide repository of data resources called for by the Evidence Act and Federal Data Strategy. Along the way, it created new reusable tools for agencies, and seeded several new 10x projects. You can learn more about resources.data.gov by reading their most recent [blog post](https://www.data.gov/meta/serving-the-needs-of-data-practitioners-with-a-new-resources-data-gov/). 
 
 ## The U.S. Data Federation 
 
