@@ -33,63 +33,65 @@ When developing accessible content, authors need to think about how users will a
 
 **Images**<br/>
 *DO* <br/>
-- Think about the image’s strategic purpose. Ask yourself, “Is this visual pertinent to the overall purpose of the presentation, email, document, or site?”<br/>
-- Add alt-text to describe your images.
+-   Think about the image’s strategic purpose. Ask yourself, “Is this visual pertinent to the overall purpose of the presentation, email, document, or site?”<br/>
+-   Add alt-text to describe your images.
 
 *DON'T*<br/>
-- Add an image just for decorative purposes.
+-   Add an image just for decorative purposes.
 
     
 **Headers**<br/>
 *DO*<br/>
-- Use header’s thoughtfully. They identify significant prompts for readers.
+-   Use header’s thoughtfully. They identify significant prompts for readers.
 
 *DON'T*<br/>
-- Assume users will understand the importance of text.
+-   Assume users will understand the importance of text.
 
     
 **Emails**<br/>
 *DO*<br/>
-* Write out the full text of the email so they can be read by screen readers.
+-   Write out the full text of the email so they can be read by screen readers.
 
 *DON'T*<br/>
-* Share screenshots of text. Screen readers will process these as photos and unable to read the text.
+-   Share screenshots of text. Screen readers will process these as photos and unable to read the text.
 
 
 **URLs**<br/>
-*DO*  <br/>
-- Offer descriptive links with context of what is being shared.<br/>
-- Use visual cues, such as changing the link’s colors and underlining.
+*DO*<br/>
+-   Offer descriptive links with context of what is being shared.<br/>
+-   Use visual cues, such as changing the link’s colors and underlining.
 
 *DON'T*<br/>
-- Use language, such as “click here” or “link” when referencing the URL. <br/>
-- List the full URL when inserting the link into content.
+-   Use language, such as “click here” or “link” when referencing the URL. <br/>
+-   List the full URL when inserting the link into content.
 
 
 **Animations**<br/>
 *DO*<br/>
-- Stick to an easily scrollable format.<br/>
-- Use static images.
+-   Stick to an easily scrollable format.<br/>
+-   Use static images.
 
-*DON'T *<br/>
-- Use gifs or parralyx features to avoid visual strain.
+*DON'T*<br/>
+ -   Use gifs or parralyx features to avoid visual strain.
     
     
 **Color Contrast**<br/>
 *DO*<br/>
-- Comply to color contrast guidelines.<br/>
-- Consider the USWDS [color pairings](https://designsystem.digital.gov/design-tokens/color/overview/#color-and-accessibility) when building a website.
+-   Comply to color contrast guidelines.<br/>
+-   Consider the USWDS [color pairings](https://designsystem.digital.gov/design-tokens/color/overview/#color-and-accessibility) when building a website.
 
 *DON'T*<br/>
-- Use colors that are too close together.
+-   Use colors that are too close together.
+
 
 **PDFs**<br/>
 *DO*<br/>
-- Create PDF files via word processors.<br/>
-- Run tests to check the accessibility of the images and text in the file.
+-   Create PDF files via word processors.<br/>
+-   Run tests to check the accessibility of the images and text in the file.
 
 *DON'T*<br/>
-- Use scanned PDFs where text is not able to be highlighted or be read via screen readers.
+-   Use scanned PDFs where text is not able to be highlighted or be read via screen readers.
+
 
 Thinking about accessibility goes well beyond simply making sure content is readable by screen readers and meeting color contrast requirements. Instead, you need to take a critical view to your content to determine if the information is being shared appropriately, so readers can understand and easily review the content. 
 
