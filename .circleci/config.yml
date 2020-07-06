@@ -1,5 +1,5 @@
 jobs:
-  install-node-example:
+  install-node:
     docker:
       - image: "cimg/base:stable"
     steps:
@@ -7,34 +7,10 @@ jobs:
       - node/install:
           node-version: 10.21.0
       - run: node --version
-      - run:
-          name: Install Gulp
-          command: sudo npm install gulp-cli -g
-      - run:
-          name: Install NPM Dependencies
-          command: npm install
-      - run:
-          name: Image Prep
-          command: gulp img-prep
-      - run:
-          name: Image Process
-          command: gulp img-process
-      - run: git diff HEAD
-      # - run:
-      #     name: Image Commit
-      #     command: |
-      #       git config --global -l
-      #       git config --global user.email "jeremy.zilar@gsa.gov"
-      #       git config --global user.name "Jeremy Zilar"
-      #       gulp img-commit
 orbs:
   node: circleci/node@3.0.1
 version: 2.1
 workflows:
-  test_my_app:
+  build:
     jobs:
-      - install-node-example:
-        filters:
-          branches:
-            only:
-              - bh-circleci
+      - install-node
