@@ -33,4 +33,8 @@ version: 2.1
 workflows:
   test_my_app:
     jobs:
-      - install-node-example
+      - install-node-example:
+        filters:
+          branches:
+            only:
+              - bh-circleci
