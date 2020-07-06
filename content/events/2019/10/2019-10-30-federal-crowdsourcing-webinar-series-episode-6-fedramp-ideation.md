@@ -1,6 +1,6 @@
 ---
 slug: federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation
-title: 'Federal Crowdsourcing Webinar Series Episode 6&#58; The FedRAMP Ideation'
+title: 'Federal Crowdsourcing Webinar Series, Episode 6&#58; The FedRAMP Ideation'
 summary: 'Betsy Steele, of the Federal Risk and Authorization Management Program &#40;FedRAMP&#41; team, shares how a crowdsourcing initiative invited the larger cybersecurity community to help inform the next iteration of government’s cloud security authorization program&#46;'
 featured_image:
   uid: challengegov-card-episode-6
