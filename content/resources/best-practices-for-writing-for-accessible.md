@@ -111,3 +111,5 @@ Thinking about accessibility goes well beyond simply making sure content is read
 
 As content creators, we need to think about the purpose and mission, not just of individual components of a digital content, but how these components fit together to optimize the user experience for everyone, especially for those with accessible needs. 
 
+ For more info on accessible web development watch this [presentation](https://digital.gov/event/2020/03/20/writing-for-accessible-web/) from 18F content strategist Ryan Johnson.
+
