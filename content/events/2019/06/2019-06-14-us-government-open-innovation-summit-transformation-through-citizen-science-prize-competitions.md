@@ -1,19 +1,58 @@
 ---
+# View this page at https://digital.gov/event/2019/06/us-government-open-innovation-summit
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: us-government-open-innovation-summit-transformation-through-citizen-science-prize-competitions
 title: "U.S. Government Open Innovation Summit"
 deck: "Transformation Through Citizen Science and Prize Competitions"
-summary: 'Presentations that highligh the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government'
-featured_image:
-  uid: open-innovation-summit-lockup
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-06-14 08:30:00 -0500
-end_date: 2019-06-14 16:00:00 -0500
-event_organizer: DigitalGov University
-host: Federal Community of Practice for Crowdsourcing and Citizen Science (FedCCS), Challenges and Prizes Federal Community of Practice
+summary: "Presentations that highligh the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government"
+host: "Federal Community of Practice for Crowdsourcing and Citizen Science (FedCCS), Challenges and Prizes Federal Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/us-government-open-innovation-summit-transformation-through-citizen-science-and-prizes-registration-61872290687
+captions: 
+
+# start date
+date: 2019-06-14 9:30:00 -0500
+
+# end date
+end_date: 2019-06-14 17:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - challenges
+  - citizen-science
+  - innovation
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - alexis-bonnell
+  - dr-kelvin-droegemeier
+  - drew-zachary
+  - ellen-ryan
+  - jarah-meador
+  - jenn-gustetic
+  - jennifer-shieh
+  - jim-reuter
+  - john-mclaughlin
+  - ku-mcmahan
+  - lauren-algee
+  - marc-kuchner
+  - sarahlloyd-stevenson
+  - sophia-b-liu
+  - taylor-gilliland
+
+# YouTube ID
 youtube_id: 5ORul6NslyE
+
+# Primary Image (for social media)
+primary_image: "open-innovation-summit-lockup"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
+---
 
 ---
 
