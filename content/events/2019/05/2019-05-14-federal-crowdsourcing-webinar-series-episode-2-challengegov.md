@@ -19,6 +19,8 @@ end_date: 2019-05-14 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - crowdsourcing
+  - challenges
+  - challenge-gov
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -37,9 +39,10 @@ primary_image: "challengegov-card-episode-2"
 weight: 0
 
 # Make it better ♥
+
 ---
 
-_[View the slides from this presentation](https://digital.gov/pdf/ep2-challengegov.pdf) (PDF 4.4MB)._
+_[View the slides from this presentation](https://digital.gov/pdf/ep2-challengegov.pdf) (PDF 4.4 MB)._
 
 The Federal Crowdsourcing Webinar Series explores how federal agencies are engaging the crowd to multiply the ideas and perspectives they bring to certain issues. In this second episode, you’ll learn about the benefits of prize competitions and the resources available to federal agencies through GSA’s Challenge.gov program.
 
@@ -55,8 +58,6 @@ Additionally, this episode will feature an overview of the prize portfolio at th
 
 - **Jarah Meador, PhD**, Director, Challenge.gov, U.S. General Services Administration
 - **Jessie Buerlein, MSW**, Sr. Public Health Analyst and Prize Lead, Maternal and Child Health Bureau, Health Resources and Services Administration, Department of Health and Human Services
-
-
 
 **Upcoming episodes in the Federal Crowdsourcing Webinar Series include:**
 
