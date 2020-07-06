@@ -17,6 +17,11 @@ date: 2020-06-09 15:00:00 -0500
 # end date
 end_date: 2020-06-09 16:00:00 -0500
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - mobile
+  - crowdsourcing
+
 # YouTube ID
 youtube_id: 76gvoSVOGkc
 
@@ -26,7 +31,7 @@ youtube_id: 76gvoSVOGkc
 weight: 0
 
 # Make it better ♥
----
+
 ---
 
 Once simply a smart feature, mobile-friendly sites have evolved into must-have components of every organization’s digital presence, and now mobile accounts, for more than half of all web activity.
