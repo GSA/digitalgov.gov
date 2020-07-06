@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2019/06/federal-crowdsourcing-webinar-series-opportunity-project
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-webinar-series-episode-3-opportunity-project
-title: "Federal Crowdsourcing Webinar Series: The Opportunity Project"
+title: "Federal Crowdsourcing Webinar Series, Episode 3: The Opportunity Project"
 deck: ""
 kicker: "Episode 3"
 summary: "The Opportunity Project engages government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation. Learn how this initiative is making government data more accessible through cross-sector collaboration."
