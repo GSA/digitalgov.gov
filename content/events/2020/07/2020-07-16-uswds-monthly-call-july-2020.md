@@ -1,6 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/07/uswds-monthly-call-july-2020
----
+
 # View this page at https://digital.gov/event/2020/07/uswds-monthly-call-july-2020
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: uswds-monthly-call-july-2020
