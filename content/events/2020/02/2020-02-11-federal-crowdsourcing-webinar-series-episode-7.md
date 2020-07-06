@@ -22,6 +22,7 @@ topics:
   - innovation
   - open
   - open-source
+  - crowdsourcing
 
 # see all authors at https://digital.gov/authors
 authors:
