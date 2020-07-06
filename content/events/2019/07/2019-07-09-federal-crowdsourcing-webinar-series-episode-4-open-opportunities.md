@@ -13,6 +13,11 @@ event_organizer: DigitalGov University
 host: Challenge.gov
 youtube_id: P2zYuqikgzY
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - crowdsourcing
+  - open-opportunities-program
+
 ---
 
 During this episode of the Federal Crowdsourcing Webinar Series, we met Lisa Nelson, engagement manager for the Open Opportunities program. She shared how agencies are crowdsourcing for talent to respond quickly to critical mission needs and changes, and how federal employees benefit from the experiential professional development offered.
