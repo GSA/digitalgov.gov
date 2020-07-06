@@ -13,6 +13,11 @@ event_organizer: DigitalGov University
 host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-6-registration-66229112057
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - crowdsourcing
+  - fedramp
+
 aliases:
   - /event/2019/10/08/federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation/
 
