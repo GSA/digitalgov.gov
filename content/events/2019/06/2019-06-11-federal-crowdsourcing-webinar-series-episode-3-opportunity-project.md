@@ -20,7 +20,6 @@ end_date: 2019-06-11 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - crowdsourcing
-  - open-opportunities-program
 
 # see all authors at https://digital.gov/authors
 authors: 
