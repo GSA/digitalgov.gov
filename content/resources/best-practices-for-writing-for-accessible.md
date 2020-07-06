@@ -32,65 +32,79 @@ weight: 1
 When developing accessible content, authors need to think about how users will access and engage with content both visually or auditorily. By considering the following ways to create accessible content, you can enhance the way content is searched, used, and accessed. Here are some important Do’s and Don’ts to help you think about creating accessible content.
 
 **Images**<br/>
-*DO* <br/>
--   Think about the image’s strategic purpose. Ask yourself, “Is this visual pertinent to the overall purpose of the presentation, email, document, or site?”<br/>
--   Add alt-text to describe your images.
+*DO* 
 
-*DON'T*<br/>
--   Add an image just for decorative purposes.
+- Think about the image’s strategic purpose. Ask yourself, “Is this visual pertinent to the overall purpose of the presentation, email, document, or site?”<br/>
+- Add alt-text to describe your images.
+
+*DON'T*
+
+- Add an image just for decorative purposes.
 
     
 **Headers**<br/>
-*DO*<br/>
--   Use header’s thoughtfully. They identify significant prompts for readers.
+*DO*
 
-*DON'T*<br/>
--   Assume users will understand the importance of text.
+- Use header’s thoughtfully. They identify significant prompts for readers.
+
+*DON'T*
+
+- Assume users will understand the importance of text.
 
     
 **Emails**<br/>
-*DO*<br/>
--   Write out the full text of the email so they can be read by screen readers.
+*DO*
 
-*DON'T*<br/>
--   Share screenshots of text. Screen readers will process these as photos and unable to read the text.
+- Write out the full text of the email so they can be read by screen readers.
+
+*DON'T*
+
+- Share screenshots of text. Screen readers will process these as photos and unable to read the text.
 
 
 **URLs**<br/>
-*DO*<br/>
--   Offer descriptive links with context of what is being shared.<br/>
--   Use visual cues, such as changing the link’s colors and underlining.
+*DO*
 
-*DON'T*<br/>
--   Use language, such as “click here” or “link” when referencing the URL. <br/>
--   List the full URL when inserting the link into content.
+- Offer descriptive links with context of what is being shared.<br/>
+- Use visual cues, such as changing the link’s colors and underlining.
+
+*DON'T*
+
+- Use language, such as “click here” or “link” when referencing the URL. <br/>
+- List the full URL when inserting the link into content.
 
 
 **Animations**<br/>
-*DO*<br/>
--   Stick to an easily scrollable format.<br/>
--   Use static images.
+*DO*
 
-*DON'T*<br/>
- -   Use gifs or parralyx features to avoid visual strain.
+- Stick to an easily scrollable format.
+- Use static images.
+
+*DON'T*
+
+ - Use gifs or parralyx features to avoid visual strain.
     
     
 **Color Contrast**<br/>
-*DO*<br/>
--   Comply to color contrast guidelines.<br/>
--   Consider the USWDS [color pairings](https://designsystem.digital.gov/design-tokens/color/overview/#color-and-accessibility) when building a website.
+*DO*
 
-*DON'T*<br/>
--   Use colors that are too close together.
+- Comply to color contrast guidelines.
+- Consider the USWDS [color pairings](https://designsystem.digital.gov/design-tokens/color/overview/#color-and-accessibility) when building a website.
+
+*DON'T*
+
+- Use colors that are too close together.
 
 
 **PDFs**<br/>
-*DO*<br/>
--   Create PDF files via word processors.<br/>
--   Run tests to check the accessibility of the images and text in the file.
+*DO*
 
-*DON'T*<br/>
--   Use scanned PDFs where text is not able to be highlighted or be read via screen readers.
+- Create PDF files via word processors.
+- Run tests to check the accessibility of the images and text in the file.
+
+*DON'T*
+
+- Use scanned PDFs where text is not able to be highlighted or be read via screen readers.
 
 
 Thinking about accessibility goes well beyond simply making sure content is readable by screen readers and meeting color contrast requirements. Instead, you need to take a critical view to your content to determine if the information is being shared appropriately, so readers can understand and easily review the content. 
