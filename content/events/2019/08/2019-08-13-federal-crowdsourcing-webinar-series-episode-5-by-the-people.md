@@ -14,6 +14,12 @@ host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-5-by-the-people-registration-60195136273
 youtube_id: -37DJHJtFE0
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - crowdsourcing
+  - loc
+  - library-of-congress
+
 ---
 
 The [Library of Congress](https://www.loc.gov/) is the oldest cultural institution in the country, housing more than 168 million items in its vast collection (including more than 39 million cataloged books and other print materials in 470 languages).
