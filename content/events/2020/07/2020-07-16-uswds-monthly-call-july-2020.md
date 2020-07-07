@@ -1,32 +1,20 @@
 ---
-
-# View this page at https://digital.gov/event/2020/07/uswds-monthly-call-july-2020
+# View this page at https://digital.gov/event/2020/07/uswds-monthly-call-form-components-update
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: uswds-monthly-call-july-2020
 title: "USWDS Monthly Call: Form Components Update"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
-summary: "The July 2020 USWDS monthly call will focus on the design system’s banner, forms and date picker features. Members of the 10x forms team will join Dan Williams, USWDS product lead, who will facilitate a live question and answer session with event attendees."
+summary: "For the July 2020 USWDS, Dan Williams, USWDS product lead, will lead a demonstration of several newly released USWDS components."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-form-components-update-tickets-112126128268
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4506109&CustomerID=321
 
 # start date
-date: 2020-07-16 14:30:00 -0500
+date: 2020-07-16 15:30:00 -0500
 
 # end date
-end_date: 2020-07-16 15:30:00 -0500
-
-# see all topics at https://digital.gov/topics
-topics: 
-  - 21st-century-idea
-  - design
-  - uswds
-  - user-centered-design
-
-# see all authors at https://digital.gov/authors
-authors: 
-  - dan-williams
+end_date: 2020-07-16 16:30:00 -0500
 
 # YouTube ID
 youtube_id: 
@@ -44,7 +32,7 @@ weight: 0
 
 {{< img-right src="uswds-logo" >}}
 
-This month, Dan Williams, USWDS product lead, and 10x teammates will talk about several newly released USWDS components, including updates to the banner, date picker and form controls.  
+This month, Dan Williams, USWDS product lead, will lead a demonstration of several newly released USWDS components, including file input, breadcrumb, tooltip, and the long-awaited date picker. We'll also discuss updates to the USWDS gov banner.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
