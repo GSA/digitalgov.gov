@@ -108,6 +108,7 @@ When developing accessible content, authors need to think about how users will a
 
 1. Use scanned PDFs where text is not able to be highlighted or be read via screen readers. 
 
+## Additional Considerations
 
 Thinking about accessibility goes well beyond simply making sure content is readable by screen readers and meeting color contrast requirements. Instead, you need to take a critical view to your content to determine if the information is being shared appropriately, so readers can understand and easily review the content. 
 
