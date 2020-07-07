@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Steve "Elmo" Lauver is a co-founder of Air Force Ventures and AFWERX, where he leads the tech accelerator portfolio and is a program manager for Air Force Innovation. He breaks down barriers for the warfighter to leverage commercial technology while reimagining how the Air Force partners, engages, and invests in nontraditional businesses. He is an Air Force Captain who has served as a pilot for Air Force Special Operations Command and has multiple deployments under his belt."
+bio: "Steve (Elmo) Lauver is a co-founder of Air Force Ventures and AFWERX, where he leads the tech accelerator portfolio and is a program manager for Air Force Innovation. He breaks down barriers for the warfighter to leverage commercial technology while reimagining how the Air Force partners, engages, and invests in nontraditional businesses. He is an Air Force Captain who has served as a pilot for Air Force Special Operations Command and has multiple deployments under his belt."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
