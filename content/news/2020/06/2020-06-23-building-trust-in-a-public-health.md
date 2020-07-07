@@ -15,7 +15,7 @@ short_url:
 date: 2020-06-23 18:00:00 -0500
 kicker: "Content Design"
 title: "Building Trust in a Public Health Crisis"
-deck: "Building Trust in a Public Health Crisis&mdash;Lately, the 18F content team has been thinking about how to communicate well in a crisis—providing clear, understandable content is especially important. Content strategy practices that focus on the needs of the user are essential to earning the trust of the public. Here, we will explain how to embody those qualities on the web in user-centered ways."
+deck: "**Building Trust in a Public Health Crisis**&mdash;Lately, the 18F content team has been thinking about how to communicate well in a crisis—providing clear, understandable content is especially important. Content strategy practices that focus on the needs of the user are essential to earning the trust of the public. Here, we will explain how to embody those qualities on the web in user-centered ways."
 summary: ""
 
 # see all topics at https://digital.gov/topics
