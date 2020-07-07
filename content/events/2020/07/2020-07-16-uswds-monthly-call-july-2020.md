@@ -8,7 +8,7 @@ deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about 
 summary: "The July 2020 USWDS monthly call will focus on the design system’s banner, forms and date picker features. Members of the 10x forms team will join Dan Williams, USWDS product lead, who will facilitate a live question and answer session with event attendees."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
-registration_url: https://www.eventbrite.com/e/uswds-monthly-call-july-2020-registration-96968989859
+registration_url: https://www.eventbrite.com/e/uswds-monthly-call-form-components-update-tickets-112126128268
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4506109&CustomerID=321
 
 # start date
