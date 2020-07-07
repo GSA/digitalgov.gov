@@ -1,0 +1,16 @@
+jobs:
+  install-node:
+    docker:
+      - image: "cimg/base:stable"
+    steps:
+      - checkout
+      - node/install:
+          node-version: 10.21.0
+      - run: node --version
+orbs:
+  node: circleci/node@3.0.1
+version: 2.1
+workflows:
+  build:
+    jobs:
+      - install-node
