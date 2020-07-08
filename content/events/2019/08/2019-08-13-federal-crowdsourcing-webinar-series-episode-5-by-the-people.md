@@ -1,25 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2019/08/federal-crowdsourcing-webinar-series-episode-5
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-webinar-series-episode-5-by-the-people
-title: "Federal Crowdsourcing Webinar Series, Episode 5&#58; By the People"
+title: "Federal Crowdsourcing Webinar Series, Episode 5: By the People"
+deck: ""
 summary: "The Library of Congress is the largest library in the world. While often referred to as the research arm of Congress, it is hardly limited to lawmakers. It is open to the public who, in fact, are also helping to make their digital collections more accessible and available to all."
-featured_image:
-  uid: challengegov-card-episode-5
-  alt: ''
-event_type:
-  - Zoom
-date: 2019-08-13 14:00:00 -0500
-end_date: 2019-08-13 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Challenge.gov
+host: "Challenge.gov"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-5-by-the-people-registration-60195136273
-youtube_id: -37DJHJtFE0
+captions: 
+
+# start date
+date: 2019-08-13 15:00:00 -0500
+
+# end date
+end_date: 2019-08-13 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
   - crowdsourcing
-  - loc
   - library-of-congress
+  - loc
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - lauren-algee
+
+# YouTube ID
+youtube_id: -37DJHJtFE0
+
+# Primary Image (for social media)
+primary_image: "challengegov-card-episode-5"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 The [Library of Congress](https://www.loc.gov/) is the oldest cultural institution in the country, housing more than 168 million items in its vast collection (including more than 39 million cataloged books and other print materials in 470 languages).
