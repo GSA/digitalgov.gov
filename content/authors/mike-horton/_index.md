@@ -1,17 +1,17 @@
 ---
-# View this page at https://digital.gov/authors/mike-horton
+# View this page at https://digital.gov/authors/michael-horton
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
 slug: mike-horton
-display_name: "Mike Horton"
-first_name: "Mike"
+display_name: "Michael Horton"
+first_name: "Michael"
 last_name: "Horton"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
+# Email — If you include an email address, it will be displayed on your profile page
 email: 
 
 # Bio — keep it under 50 words
@@ -30,11 +30,11 @@ agency: "GSA"
 location: ""
 
 # A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
-github: ""
+github: "michaelhortongsa"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: ""
+profile_photo: "github"
 
 # [e.g., Digital_Gov]
 twitter: ""
