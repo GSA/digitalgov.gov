@@ -11,10 +11,20 @@ registration_url: https://www.eventbrite.com/e/uswds-monthly-call-form-component
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4506109&CustomerID=321
 
 # start date
-date: 2020-07-16 14:30:00 -0500
+date: 2020-07-16 15:30:00 -0500
 
 # end date
-end_date: 2020-07-16 15:30:00 -0500
+end_date: 2020-07-16 16:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - code
+  - design
+  - uswds
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dan-williams
 
 # YouTube ID
 youtube_id: 
