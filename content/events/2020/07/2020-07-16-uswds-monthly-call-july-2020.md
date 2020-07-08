@@ -16,6 +16,16 @@ date: 2020-07-16 14:30:00 -0500
 # end date
 end_date: 2020-07-16 15:30:00 -0500
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - code
+  - design
+  - uswds
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dan-williams
+
 # YouTube ID
 youtube_id: 
 
