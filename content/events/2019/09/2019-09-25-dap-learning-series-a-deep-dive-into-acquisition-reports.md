@@ -1,25 +1,42 @@
 ---
+# View this page at https://digital.gov/event/2019/09/dap-learning-series-a-deep-dive
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-a-deep-dive-into-acquisition-reports
-kicker: Learning Series
-title: 'DAP Learning Series&#58; A Deep Dive Into Acquisition Reports'
-summary: 'In this webinar, we’ll review the acquisition reporting section in-depth, and discuss usefulness of reports and where there may be gaps in data&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - Zoom
-date: 2019-09-25 13:00:00 -0500
-end_date: 2019-09-25 14:00:00 -0500
-event_organizer: DigitalGov University
-host: DAP
+title: "DAP Learning Series: A Deep Dive Into Acquisition Reports"
+deck: ""
+kicker: "Learning Series"
+summary: "In this webinar, we’ll review the acquisition reporting section in-depth, and discuss usefulness of reports and where there may be gaps in data."
+host: "DAP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-acquisition-reports-registration-59347581213
-youtube_id: ufbLmgJUdp8
-topics:
+captions: 
+
+# start date
+date: 2019-09-25 14:00:00 -0500
+
+# end date
+end_date: 2019-09-25 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - metrics
   - analytics
   - dap
   - digital-analytics-program
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - tlowden
+
+# YouTube ID
+youtube_id: ufbLmgJUdp8
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _[View slides for this event.](https://digital.gov/pdf/Deep-Dive-Into-Acquisition-Reports.pdf) (PDF, 4.52 MB, 19 pages)_
