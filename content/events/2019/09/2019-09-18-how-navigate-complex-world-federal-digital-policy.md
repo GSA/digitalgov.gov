@@ -1,19 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2019/09/how-navigate-complex-world-federal-digital
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: how-navigate-complex-world-federal-digital-policy
-title: 'How to Navigate the Complex World of Federal Digital Policy'
-summary: 'Tori Garten will explore the multi-tiered challenge of understanding and governing federal digital policy in a complex and ever-changing digital world&#46;'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - Zoom
-date: 2019-09-18 14:00:00 -0500
-end_date: 2019-09-18 15:00:00 -0500
-event_organizer: DigitalGov University
-host: NIAID
+title: "How to Navigate the Complex World of Federal Digital Policy"
+deck: ""
+summary: "Tori Garten will explore the multi-tiered challenge of understanding and governing federal digital policy in a complex and ever-changing digital world."
+host: "NIAID"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/how-to-navigate-the-complex-world-of-federal-digital-policy-registration-72160535103
+captions: 
+
+# start date
+date: 2019-09-18 15:00:00 -0500
+
+# end date
+end_date: 2019-09-18 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - policy
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - tori-garten
+
+# YouTube ID
 youtube_id: h9gDpsVoQTI
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 Did you know that if you print out all of the federal requirements for digital websites, it is over 2 inches thick (double-sided)?! How do you keep up with everything that is out there? How do you ensure that your organization is complying and provide accurate advice to stakeholders? 
