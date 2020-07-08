@@ -22,7 +22,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
-  - bryce-spivey
+  - katherine-spivey
   - leslie-oflahavan
 
 # YouTube ID
