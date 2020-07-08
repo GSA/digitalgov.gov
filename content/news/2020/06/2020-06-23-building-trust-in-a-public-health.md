@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # originally published at the following URL
-source_url: ""
+source_url: "https://18f.gsa.gov/2020/06/23/building-trust-in-a-public-health-crisis/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
