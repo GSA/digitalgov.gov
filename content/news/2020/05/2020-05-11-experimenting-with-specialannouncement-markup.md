@@ -21,7 +21,7 @@ primary_image: "usagov-specialannouncement"
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 2
 
 topics: 
   - content-strategy
