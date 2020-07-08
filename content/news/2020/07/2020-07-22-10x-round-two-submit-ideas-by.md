@@ -1,11 +1,11 @@
 ---
-# View this page at https://digital.gov/2020/07/08/10x-round-two-submit-ideas-by
+# View this page at https://digital.gov/2020/07/22/10x-round-two-submit-ideas-by
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: 10x-round-two-submit-ideas-by
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-07-08 9:00:00 -0500
+date: 2020-07-22 9:00:00 -0500
 kicker: "Innovation"
 title: "10x Round Two: Submit Ideas by August 5"
 deck: "10x funds new ideas to help the federal government deliver better products and services."
