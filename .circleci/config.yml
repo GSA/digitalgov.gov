@@ -1,16 +1,27 @@
+version: 2.1
+
+orbs:
+  hugo: circleci/hugo@0.5.2
+
 jobs:
-  install-node:
+  test:
     docker:
       - image: "cimg/base:stable"
     steps:
-      - checkout
-      - node/install:
-          node-version: 10.21.0
-      - run: node --version
-orbs:
-  node: circleci/node@3.0.1
-version: 2.1
+      - attach_workspace:
+          at: .
+      - run:
+          name: Test APIs
+          command: |
+            cat public/{authors,images,topics}/v1/json/index.html | \
+            jq -e . >/dev/null 2>&1
+
 workflows:
-  build:
+  build_and_test:
     jobs:
-      - install-node
+      - hugo/build:
+          html-proofer: false
+          version: "0.66.0"
+      - test:
+          requires:
+            - hugo/build
