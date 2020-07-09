@@ -25,10 +25,10 @@ authors:
   
 # see all topics at https://digital.gov/topics
 topics: 
-  - crowdsourcing
-  - open
-  - innovation
   - challenges
+  - crowdsourcing
+  - innovation
+  - open
 
 # YouTube ID
 youtube_id: 
@@ -68,4 +68,3 @@ Airing monthly, this series illuminates how U.S. agencies are reaching beyond th
 **Dr. Emily Boja** is a health scientist who will support OHI’s precisionFDA initiative and other informatics endeavors. Prior to joining OHI, she was a Program Director at the Office of Cancer Clinical Proteomic Research, NCI, NIH, providing scientific expertise and leadership in managing the Clinical Proteomic Tumor Analysis Consortium program. In addition, she oversaw the analytical, informatics and regulatory aspects of molecular technologies, platforms and tools via interactions with the FDA and the American Association of Clinical Chemistry, e.g.,, leading the precisionFDA-NCI-CPTAC Multi-Omics Enabled Sample Mislabeling Correction Challenge. Prior to the NCI, she served as a Staff Scientist at the Laboratory of Cardiac Energetics, NHLBI, NIH. She holds a Ph.D. degree in Biochemistry and Molecular Biology from the Medical College of Virginia, Virginia Commonwealth University.
 
 **Holly Stephens** has 17 years of experience in the design and implementation of genetic and genomic studies in the fields of neuropsychiatry, cardiovascular disease, pharmacogenomics, and oncology. In addition, she has 10 years of molecular genetics laboratory experience and a certification in clinical research. 
-

@@ -17,6 +17,11 @@ date: 2020-06-09 15:00:00 -0500
 # end date
 end_date: 2020-06-09 16:00:00 -0500
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - mobile
+  - crowdsourcing
+
 # YouTube ID
 youtube_id: 76gvoSVOGkc
 
@@ -26,7 +31,7 @@ youtube_id: 76gvoSVOGkc
 weight: 0
 
 # Make it better ♥
----
+
 ---
 
 Once simply a smart feature, mobile-friendly sites have evolved into must-have components of every organization’s digital presence, and now mobile accounts, for more than half of all web activity.
@@ -43,7 +48,13 @@ See how this crowdsourcing approach has provided a broad set of helpful data and
 
 ## Presenter:
 
-**David Fern** is an information technology (IT) specialist in the Social Security Administration’s Office of IT Enterprise Business Support. A long-time advocate for mobile experience, David is a co-leader of the Federal MobileGov Community of Practice and the CrowdSource Mobile Testing Program, working closely with more than 300 volunteers and counterparts across over 30 government agencies. His biweekly Mobile Trends Tickers email is a widely distributed resource on all-things mobile.
+**David Fern** is an information technology (IT) specialist in the Social Security Administration’s Office of IT Enterprise Business Support. A long-time advocate for mobile experience, David is a co-leader of the Federal MobileGov Community of Practice and the CrowdSource Mobile Testing Program, working closely with more than 300 volunteers and counterparts across over 30 government agencies. His biweekly Mobile Trends Tickers email is a widely distributed resource on all-things mobile. 
+
+## Related Links:
+
+ - [Federal CrowdSource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/)
+ - [Making a Mobile Friendly Website Using the ADAPT Model](https://www.youtube.com/watch?v=x8UvFt26MDE) (video)
+ - [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)
 
 ---
 
@@ -61,13 +72,7 @@ Airing monthly, this series illuminates how U.S. agencies are reaching beyond th
  - Episode 3: [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
  - Episode 2: [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/), with Jarah Meador, GSA, and Jessie Buerlein, HHS
  - Episode 1: [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
- 
- **Related Links:** 
 
- - [Federal CrowdSource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/)
- - [Making a Mobile Friendly Website Using the ADAPT Model](https://www.youtube.com/watch?v=x8UvFt26MDE) (video)
- - [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)
- 
- ---
- 
- *This talk is hosted by [Challenge.gov](http://www.challenge.gov). Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 102 federal agencies run over 1,100 prize competitions with public participation since 2010.*
+---
+
+_This talk is hosted by [Challenge.gov](http://www.challenge.gov). Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 102 federal agencies run over 1,100 prize competitions with public participation since 2010._ 
