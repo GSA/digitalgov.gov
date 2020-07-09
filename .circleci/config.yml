@@ -6,15 +6,14 @@ orbs:
 jobs:
   test:
     docker:
-      - image: "cimg/base:stable"
+      - image: circleci/node:10.21.0
     steps:
+      - checkout
       - attach_workspace:
           at: .
       - run:
-          name: Test APIs
-          command: |
-            cat public/{authors,images,topics}/v1/json/index.html | \
-            jq -e . >/dev/null 2>&1
+          name: Test API JSON
+          command: npm run test:json
 
 workflows:
   build_and_test:
