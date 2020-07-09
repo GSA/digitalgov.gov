@@ -7,7 +7,7 @@ slug: best-practices-for-writing-for-accessible
 date: 2020-07-02 14:00:00 -0500
 title: "Best Practices for Writing for the Accessible Web"
 deck: ""
-summary: "18F Content Strategist Ryan Johnson offers detailed information on ways to make your online information&mdash;including web pages, presentations, emails, or pdfs&mdash;accessible for those with auditory and visual needs."
+summary: "Tips for making online information accessible for those with auditory and visual needs."
 
 # see all topics at https://digital.gov/topics
 topics: 
