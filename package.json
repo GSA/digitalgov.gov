@@ -8,7 +8,9 @@
     "hugo": "hugo serve",
     "federalist": "export NODE_ENV=production && gulp build-assets",
     "start": "npm-run-all --parallel local-build hugo",
-    "test:pa11y": "pa11y-ci --config .pa11yci"
+    "test:pa11y": "pa11y-ci --config .pa11yci",
+    "test:json": "bash -c 'cat public/{authors,topics}/v1/json/index.html | jq -e . >/dev/null 2>&1'",
+    "test": "hugo && npm run test:json"
   },
   "directories": {
     "doc": "docs"
@@ -62,6 +64,7 @@
     "gulp-util": "^3.0.8",
     "i": "^0.3.6",
     "image-size": "^0.8.3",
+    "jq-cli-wrapper": "^1.6.1",
     "npm": "^6.14.4",
     "path": "^0.12.7",
     "postcss": "^7.0.27",
