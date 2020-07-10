@@ -60,7 +60,7 @@
     "gulp-util": "^3.0.8",
     "image-size": "^0.8.3",
     "jsonlint": "^1.6.3",
-    "npm": "^6.14.4",
+    "npm": "^6.14.6",
     "path": "^0.12.7",
     "postcss": "^7.0.27",
     "vinyl-paths": "^3.0.1"
