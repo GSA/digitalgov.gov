@@ -5,7 +5,7 @@ var changeCase    = require('change-case');
 var del           = require("del");
 var tap           = require('gulp-tap');
 var sizeOf        = require('image-size');
-var fs            = require('graceful-fs');
+var fs            = require('fs');
 
 
 
