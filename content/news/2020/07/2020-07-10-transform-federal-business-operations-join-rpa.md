@@ -7,7 +7,7 @@ slug: transform-federal-business-operations-join-rpa
 short_url: 
 date: 2020-07-10 16:00:00 -0500
 title: "Transform Federal Business Operations: Join the RPA Community of Practice"
-deck: "The RPA CoP shares solutions to help individual agencies overcome the challenges that arise in designing and deploying an effective RPA program."
+deck: "Sharing solutions to help individual agencies overcome the challenges that arise in designing and deploying an effective RPA program."
 summary: "Federal employees interested in Robotic Process Automation should join the RPA Community of Practice (CoP) as their agencies commence their RPA programs."
 
 # see all topics at https://digital.gov/topics
