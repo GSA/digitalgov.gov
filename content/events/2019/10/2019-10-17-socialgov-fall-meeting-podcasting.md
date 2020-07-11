@@ -1,20 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2019/10/socialgov-fall-meeting-podcasting
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: socialgov-fall-meeting-podcasting
-title: 'SocialGov Fall Meeting - Podcasting!'
-summary: 'Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46;'
-featured_image:
-  uid: socialgov-podcasting
-  alt: ''
-event_type:
-  - Zoom
-  - in-person
-date: 2019-10-17 08:30:00 -0500
-end_date: 2019-10-17 12:00:00 -0500
-event_organizer: DigitalGov University
-host: SocialGov
+title: "SocialGov Fall Meeting - Podcasting!"
+deck: ""
+summary: "Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences."
+host: "SocialGov"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/socialgov-fall-meeting-podcasting-registration-73999357069
+captions: 
+
+# start date
+date: 2019-10-17 9:30:00 -0500
+
+# end date
+end_date: 2019-10-17 13:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - social-media
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - anamaria-sinitean
+  - christopher-m-wurst
+  - david-a-kosub-phd
+  - matt-dozier
+  - tanner-iskra
+
+# YouTube ID
 youtube_id: HZFw1zl5rcM
 
+# Primary Image (for social media)
+primary_image: "socialgov-podcasting"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 With an estimated 51 percent of the U.S. population saying that they’ve listened to a podcast, have you ever wondered if a podcast is right for your agency to get out information about your mission and work?
