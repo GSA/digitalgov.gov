@@ -43,5 +43,9 @@ instagram: ""
 linkedin: ""
 youtube: ""
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+ - mike-horton
+
 # Make it better ♥
 ---
