@@ -188,6 +188,8 @@ To run a web accessibility test on digital.gov do the following:
 
 Accessibility testing configuration is located in the .pa11yci file.
 
+To test the validity of API JSON files, run `npm run test` in the terminal on your local machine.  This will check the validity of the Hugo generated JSON files used for the API. Currently, it validates authors, images, and topics using the tool `jsonlint`. If an issue is found with the JSON, jq will return a non-zero exit code causing CircleCI to fail. See the [wiki API page](https://github.com/GSA/digitalgov.gov/wiki/APIs) for fixing API issues. 
+
 
 ## Common Regex scripts
 
