@@ -1,19 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2019/10/study-design-developing-a-citizen-science
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: study-design-developing-a-citizen-science-project-that-delivers-results
-title: 'Study Design&#58; Developing a Citizen Science Project that Delivers Results'
-summary: 'Prior to developing a community-based data collection program, it is essential to think through the scientific process and the steps necessary to create a program where the data collected match your monitoring objectives and data use goals&#46;'
-featured_image:
-  uid: citizen-science-study-design
-  alt: ''
-event_type:
-  - Zoom
-date: 2019-10-16 14:00:00 -0500
-end_date: 2019-10-16 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Federal Crowdsourcing and Citizen Science Community of Practice
+title: "Study Design: Developing a Citizen Science Project that Delivers Results"
+deck: ""
+summary: "Prior to developing a community-based data collection program, it is essential to think through the scientific process and the steps necessary to create a program where the data collected match your monitoring objectives and data use goals."
+host: "Federal Crowdsourcing and Citizen Science Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/study-design-developing-a-citizen-science-project-that-delivers-results-registration-72182944129
+captions: 
+
+# start date
+date: 2019-10-16 15:00:00 -0500
+
+# end date
+end_date: 2019-10-16 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - data
+  - citizen-science
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - john-mclaughlin
+  - julie-vastine
+
+# YouTube ID
 youtube_id: ZQ2xibNtYqc
 
+# Primary Image (for social media)
+primary_image: "citizen-science-study-design"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4163860&CustomerID=321)_

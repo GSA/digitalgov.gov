@@ -30,6 +30,7 @@ topics:
   - search-engine-optimization
 
 # Make it better ♥
+
 ---
 
 ## Introduction
@@ -137,7 +138,6 @@ These tools also list the pages from your website that they have discovered to c
 In addition to revealing what marked up pages have been discovered, Google Search Console now reveals whether rich results based on SpecialAnnouncement markup have been shown to users (a metric called Impressions) and resulted in a referral to your page (called a Click). Here is an example of this data from the USA.gov Search Console account:
 
 {{< img src="search-console-data" >}}
-
 
 We will update this page as things change and as we learn more.
 

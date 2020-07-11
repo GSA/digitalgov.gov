@@ -1,16 +1,57 @@
+version: 2.1
+
+orbs:
+  hugo: circleci/hugo@0.5.2
+  node: circleci/node@3.0.1
+
+default-executor: &default-executor
+  executor:
+    name: node/default
+    tag: '10.21.0'
+
 jobs:
-  install-node:
-    docker:
-      - image: "cimg/base:stable"
+  test:
+    <<: *default-executor
     steps:
       - checkout
-      - node/install:
-          node-version: 10.21.0
-      - run: node --version
-orbs:
-  node: circleci/node@3.0.1
-version: 2.1
+      - node/install-packages
+      - attach_workspace:
+          at: .
+      - run:
+          name: Test API JSON
+          command: npm run test:json
+  process:
+    <<: *default-executor
+    steps:
+      - checkout
+      - node/install-packages
+      - run:
+          name: Install Gulp
+          command: sudo npm install gulp-cli -g
+      - run:
+          name: Image Process
+          command: gulp img
+      - add_ssh_keys:
+          fingerprints:
+            - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
+      - run:
+          name: Commit to GitHub
+          command: |
+            git config user.email "digitalgov@gsa.gov"
+            git config user.name "CircleCI"
+            git add content/images/_inbox data/images static/img/proxy
+            git commit -m "Images processed [skip ci]" || echo "Skipping..."
+            git push --set-upstream origin $CIRCLE_BRANCH
+
 workflows:
-  build:
+  build_test_process:
     jobs:
-      - install-node
+      - hugo/build:
+          html-proofer: false
+          version: "0.66.0"
+      - test:
+          requires:
+            - hugo/build
+      - process:
+          requires:
+            - test

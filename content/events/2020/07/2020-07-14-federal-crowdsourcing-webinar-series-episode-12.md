@@ -26,6 +26,8 @@ topics:
 # see all authors at https://digital.gov/authors
 authors: 
   - tammy-white
+  - steve-elmo-lauver
+  - joey-arora
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
@@ -52,7 +54,9 @@ Across its innovation hubs and tech accelerators, via competitive prize challeng
 
 ## Presenter:
 
-Joseph “Joey” Arora is the co-founder of Air Force Ventures and AFWERX, where he directs ecosystem development for Air Force innovation. Joey strives to unite the country’s defense apparatus and startup space to reshape how the Air Force invests in small businesses and meet national security imperatives. He is an Air Force captain and has served as an airfield operations officer in the United States and Afghanistan. He has facilitated Startup Weekends across the country.
+**Joseph “Joey” Arora** is the co-founder of Air Force Ventures and AFWERX, where he directs ecosystem development for Air Force innovation. Joey strives to unite the country’s defense apparatus and startup space to reshape how the Air Force invests in small businesses and meet national security imperatives. He is an Air Force captain and has served as an airfield operations officer in the United States and Afghanistan. He has facilitated Startup Weekends across the country.
+
+**Steve "Elmo" Lauver** is a co-founder of Air Force Ventures and AFWERX, where he leads the tech accelerator portfolio and is a program manager for Air Force Innovation. He breaks down barriers for the warfighter to leverage commercial technology while reimaging how the Air Force partners, engages, and invests in nontraditional businesses. He is an Air Force Captain who has served as a pilot for Air Force Special Operations Command and has multiple deployments under his belt. He also loves skydiving.
 
 ## Related Links:
 
