@@ -1,19 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2019/10/using-neural-machine-translation-for-multilingual
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: using-neural-machine-translation-for-multilingual-communication
-title: 'Using Neural Machine Translation for Multilingual Communication'
-summary: 'With the sharp improvement in machine translation quality, the variety of government use cases for this technology has evolved&#46;'
-featured_image:
-  uid: multilingual-neural-machine-translation
-  alt: ''
-event_type:
-  - Zoom
-date: 2019-10-15 11:00:00 -0500
-end_date: 2019-10-15 12:00:00 -0500
-event_organizer: DigitalGov University
-host: Multilingual Community of Practice
+title: "Using Neural Machine Translation for Multilingual Communication"
+deck: ""
+summary: "With the sharp improvement in machine translation quality, the variety of government use cases for this technology has evolved."
+host: "Multilingual Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/using-neural-machine-translation-for-multilingual-communication-registration-73984366231
+captions: 
+
+# start date
+date: 2019-10-15 12:00:00 -0500
+
+# end date
+end_date: 2019-10-15 13:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - multilingual
+  - ai
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - beth-flaherty
+  - lgodfrey
+
+# YouTube ID
 youtube_id: BGOEGD2_NyM
 
+# Primary Image (for social media)
+primary_image: "multilingual-neural-machine-translation"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 {{< img src="multilingual-neural-machine-translation" >}}
