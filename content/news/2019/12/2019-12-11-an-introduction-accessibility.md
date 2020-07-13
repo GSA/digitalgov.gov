@@ -7,10 +7,13 @@ title: "An Introduction to Accessibility"
 summary: 'This week, we&#39;re taking at look at how to reframe our approach to encouraging others to build with accessibility&#46;'
 authors:
   - jeremyzilar
+  - toni-bonitto
+
 topics:
   - accessibility
   - 21st-century-idea
   - this-weeks-idea
+
 featured_image:
   uid: this-weeks-idea-card
   alt: ''
