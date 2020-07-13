@@ -24,6 +24,7 @@ topics:
 authors:
   - dan-williams
   - jeremyzilar
+  - ammie-farraj-feijoo
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card-wk6"
