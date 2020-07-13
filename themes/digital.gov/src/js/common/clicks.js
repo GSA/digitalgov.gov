@@ -92,7 +92,7 @@ jQuery(document).ready(function($) {
 	$('*[data-short_url]').each(function(){
 		var short_url = $(this).data('short_url');
 		var article = $(this);
-		var api = 'https://go.usa.gov/api/clicks.json?login=jeremyz&apiKey=d0ac464a2dfad044147e9537fd51503b&shortUrl=' + encodeURI(short_url);
+		var api = 'https://go.usa.gov/api/clicks.json?login=' + process.env.HUGO_PARAMS_goUsaUsername + '&apiKey=' + process.env.HUGO_PARAMS_goUsaApiKey + '&shortUrl=' + encodeURI(short_url);
 		$.getJSON( api, function( data ) {
 			$.each( data.response.data.entry, function( key, value ) {
 				var element = $(article).find('.clicks');
