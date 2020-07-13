@@ -1,7 +1,6 @@
 ---
 # View this page at https://digital.gov/event/2019/12/devops-holiday-special-event-nicolas-chaillan
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: devops-holiday-special-event-nicolas-chaillan
 title: "DevOps Holiday Special Event: Nicolas Chaillan"
 deck: ""
@@ -27,14 +26,19 @@ topics:
   - united-states-air-force
   - virtual-reality
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - nicolas-chaillan
+
 # YouTube ID
 youtube_id: RB7s9xCW2CM
 
-# Primary Image (for social media)
-primary_image: ""
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
 # Make it better ♥
-
 ---
 
 We will share how the Department of Defense (DoD) moved to DevSecOps and Continuous Integration/Continuous Delivery by leveraging [Kubernetes](https://software.af.mil/training/kubernetes/) and Open Container Initiative (OCI) compliant containers.
