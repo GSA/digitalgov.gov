@@ -23,6 +23,11 @@ community_list:
     subscribe_email: "FedRPA-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe RPA"
     members: 977
+  - platform: listserv
+    type: public
+    subscribe_email: "PubRPA-subscribe-request@listserv.gsa.gov"
+    subscribe_email_subject: "Subscribe PubRPA"
+    members: 0
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
