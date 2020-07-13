@@ -16,9 +16,18 @@ date: 2019-05-21 13:00:00 -0500
 # end date
 end_date: 2019-05-21 13:30:00 -0500
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - design
+  - research
+  - user-experience
+
 # see all authors at https://digital.gov/authors
 authors: 
   - bridget-roddy
+  - jeremiah-azurin
+  - stefano-rivolta
+  - tristan-williamso
 
 # YouTube ID
 youtube_id: 7LY8A2lMU8I
