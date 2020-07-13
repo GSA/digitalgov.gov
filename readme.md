@@ -170,6 +170,7 @@ Images found in `content/images/inbox/` will be optimized and compressed and sen
 1. Read through [the recent releases](https://github.com/gohugoio/hugo/releases)
 2. Run `brew upgrade hugo` to upgrade your local copy ([docs](https://gohugo.io/getting-started/installing/#upgrade-hugo)).
 1. Set the version in the `.hugo-version` file. This is only used for telling Federalist which version of Hugo they should checkout and use.
+3. Update the version in `.circleci/config.yml to ensure that the same version of Hugo is being used for CI.
 
 ## Accessibility tests
 
@@ -188,7 +189,7 @@ To run a web accessibility test on digital.gov do the following:
 
 Accessibility testing configuration is located in the .pa11yci file.
 
-To test the validity of API JSON files, run `npm run test` in the terminal on your local machine.  This will check the validity of the Hugo generated JSON files used for the API. Currently, it validates authors, images, and topics using the tool `jsonlint`. If an issue is found with the JSON, jq will return a non-zero exit code causing CircleCI to fail. See the [wiki API page](https://github.com/GSA/digitalgov.gov/wiki/APIs) for fixing API issues. 
+To test the validity of API JSON files, run `npm run test` in the terminal on your local machine.  This will check the validity of the Hugo generated JSON files used for the API. Currently, it validates authors, images, and topics using the tool `jsonlint`. If an issue is found with the JSON, `jsonlint` will return a non-zero exit code causing CircleCI to fail. See the [wiki API page](https://github.com/GSA/digitalgov.gov/wiki/APIs) for fixing API issues. 
 
 
 ## Common Regex scripts
