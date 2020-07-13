@@ -24,6 +24,7 @@ topics:
 authors:
   - dan-williams
   - jeremyzilar
+  - ammie-farraj-feijoo
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card-wk6"
@@ -31,7 +32,6 @@ primary_image: "this-weeks-idea-card-wk6"
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /2020/01/29/adopting-uswds-one-step-at-time/
-
 
 # Make it better ♥
 
