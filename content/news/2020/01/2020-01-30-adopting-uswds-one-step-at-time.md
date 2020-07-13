@@ -33,7 +33,6 @@ primary_image: "this-weeks-idea-card-wk6"
 aliases:
   - /2020/01/29/adopting-uswds-one-step-at-time/
 
-
 # Make it better ♥
 
 ---
