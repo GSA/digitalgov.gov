@@ -8,10 +8,14 @@ deck: "Let’s talk about the elements that go into building trust with people w
 summary: 'This week, we’d like to talk about trust, and the elements that go into building trust with people who are using our services&#46;'
 authors:
   - jeremyzilar
+  - ammie-farraj-feijoo
+  - dan-williams
+
 topics:
   - product-management
   - 21st-century-idea
   - this-weeks-idea
+
 featured_image:
   uid: this-weeks-idea-card-wk3
   alt: ''
