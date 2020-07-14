@@ -4,7 +4,7 @@
 
 # slug — the specific user-id for an author.
 slug: michael-horton
-display_name: "Mike Horton"
+display_name: "Michael Horton"
 first_name: "Michael"
 last_name: "Horton"
 
@@ -34,7 +34,7 @@ github: "michaelhortongsa"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: "github"
+profile_photo: ""
 
 # [e.g., Digital_Gov]
 twitter: ""
@@ -42,10 +42,6 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
- - mike-horton
 
 # Make it better ♥
 ---
