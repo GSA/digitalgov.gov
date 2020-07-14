@@ -10,6 +10,15 @@ default-executor: &default-executor
     tag: "10.21.0"
 
 jobs:
+  html-proofer:
+    executor:
+      name: hugo/cibuilds
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: "Test generated website with HTML Proofer."
+          command: "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external"
   test:
     <<: *default-executor
     steps:
@@ -55,11 +64,15 @@ workflows:
       - hugo/build:
           html-proofer: false
           version: "0.66.0"
+      - html-proofer:
+          requires:
+            - hugo/build
       - test:
           requires:
             - hugo/build
       - process:
           requires:
+            - html-proofer
             - test
           filters:
             branches:
