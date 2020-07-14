@@ -37,7 +37,7 @@ weight: 0
 ---
 {{< note >}}This event is for federal government employees only; you must have a **.gov** or **.mil** email address to register!{{< /note >}}
 
-This event is the second networking session of a six part series of engagements for the Women in Federal IT & Cyber Conference. The networking session will be arranged in three small groups with the opportunity to interact with three top Federal IT executives. Participants will hear from federal executives about career development, leadership, and best practices on developing a professional network.
+This event is the second networking session of a six-part series of engagements for the Women in Federal IT & Cyber Conference. The networking session will be arranged in three small groups with the opportunity to interact with three top Federal IT executives. Participants will hear from federal executives about career development, leadership, and best practices on developing a professional network.
 
 ## Presenters:
 
