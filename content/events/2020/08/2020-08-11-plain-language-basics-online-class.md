@@ -54,14 +54,14 @@ We’ll cover the following:
  - Background
  - The law - Plain Writing Act of 2010 and executive orders
  - Federal Plain Language Guidelines
- - Write for your audience
- - Organize your information
- - Choose your words carefully
- - Be concise
- - Keep it conversational
- - Design for reading
- - Follow web standards
- - Test your assumptions
+    - Write for your audience
+    - Organize your information
+    - Choose your words carefully
+    - Be concise
+    - Keep it conversational
+    - Design for reading
+    - Follow web standards
+    - Test your assumptions
     
 We’ll use plenty of before-and-after examples, and in-class participation.
   
