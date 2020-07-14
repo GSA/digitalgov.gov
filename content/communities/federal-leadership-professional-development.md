@@ -66,7 +66,6 @@ Our vision is to build, retain, and connect a more collaborative, engaged, and c
 - Seminar series [YouTube Channel](https://www.youtube.com/channel/UCJ1wh1JcX9nwin7w1f_S3fQ)
 - Seminar series [videos on Max.Gov](https://community.max.gov/x/_3opcg)
 
-
 ## Who We Are
 
 **Community Manager Kim M. Wittenberg** is a Health Scientist Administrator at the Agency for Healthcare Research and Quality (AHRQ).  She has over 10 years of systematic review experience at AHRQ. In addition to serving as a Contracting Officer Representative and Program Official, Ms. Wittenberg oversees incoming interagency agreements and provides Section-508 compliance guidance. Between October 2016 and April 2017, she served as a Special Assistant in the Office of Aerospace Medicine during a President’s Management Council (PMC) Leadership Rotation, where she worked on developing processes for identifying, reporting, maintaining, and updating meaningful performance measures. Following the PMC Rotation, Ms. Wittenberg created and chaired a Federal Leadership and Professional Development CoP to share lessons learned and foster cross-agency connections, collaborations, and sharing.

@@ -27,7 +27,7 @@ Here are some tools and templates to help you create better user experiences. If
    * [Usability Test Report Template](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Fsites%2Fdefault%2Ffiles%2Fusability-test-report.docx&sa=D&sntz=1&usg=AFQjCNEPnHnai2tEMgnsmOGnIyBz1q3Xug) (from usability.gov)
 
 3. **Focus Group**:
-   *  [Video Focus Group Script and Facilitator Guidelines &#8211; Sample](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/FocusGroupDiscussionGuide-generic.docx) (DOC, 21 KB, December 2014)
+   * [Video Focus Group Script and Facilitator Guidelines &#8211; Sample](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/FocusGroupDiscussionGuide-generic.docx) (DOC, 21 KB, December 2014)
    * [Igniting User-Centered Design Thinking at Dept. of Energy](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/UXPA-DC-2014-Wendy-Littman.pptx) (PPT, 5.4 MG, 14 slides, December 2014)
 
 4. **Usability Expert Evaluation** (in beta):

@@ -47,6 +47,7 @@ This playbook is designed to provide federal agencies detailed, accessible guida
 {{< button href="https://digital.gov/pdf/rpa-playbook.pdf" text="Download the RPA Playbook (v1.1)" >}}
 
 ## RPA Use Cases
+
 This playbook is designed to provide federal agencies detailed, accessible guidance for initiating a new RPA program or rapidly evolving an existing program.
 
 {{< button href="https://feedback.gsa.gov/jfe/form/SV_5AuaO2sJP5Pbi4J" text="Submit an RPA Use Case" >}}
@@ -73,7 +74,6 @@ The community is organized into 10 practice areas, with assigned leaders from im
 - **IT Platform**: Shang-Jeo Gaublomme, Department of Homeland Security (DHS)
 - **Security Policy**: Frank Greenwell, Federal Reserve Board (FRB); David Harris, Department of the Interior (DOI)
 
-
 ### Management:
 
 - **Operating Model/Center of Excellence (CoE)**: James Gregory, Department of Homeland Security (DHS); Anju Anand, National Science Foundation (NSF); Pam Wolfe, National Aeronautics and Space Administration (NASA)
@@ -84,7 +84,7 @@ The community is organized into 10 practice areas, with assigned leaders from im
 ### Operations:
 
 - **Operations Management**: General Services Administration (GSA)
-- **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF) 
+- **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF)
 - **RPA Playbook Lead**: Jim Geoghegan, General Services Administration (GSA)
 
 ## What We Do

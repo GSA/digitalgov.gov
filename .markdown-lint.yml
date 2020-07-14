@@ -30,3 +30,8 @@ MD033: false # Allow inline HTML
 MD034: false # Bare URL used
 MD036: false # Emphasis used instead of a heading
 MD040: false # Fenced code blocks should have a language specified
+
+#################
+# Rules by tags #
+#################
+blank_lines: false # Error on blank lines

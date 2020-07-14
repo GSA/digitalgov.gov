@@ -197,7 +197,7 @@ Accessibility testing configuration is located in the .pa11yci file.
 
 To test the validity of API JSON files, run `npm run lint:json` in the terminal on your local machine.  This will check the validity of the Hugo generated JSON files used for the API. Currently, it validates authors, images, and topics using the tool `jsonlint`. If an issue is found with the JSON, `jsonlint` will return a non-zero exit code causing CircleCI to fail. See the [wiki API page](https://github.com/GSA/digitalgov.gov/wiki/APIs) for fixing API issues.
 
-Mardown linting can be performed by running `npm run lint:json`. The rules that are used for the linter can be found in `.markdown-lint.yml`.
+Markdown linting can be performed by running `npm run lint:json`. The rules that are used for the linter can be found in `.markdown-lint.yml`.
 
 ## Common Regex scripts
 

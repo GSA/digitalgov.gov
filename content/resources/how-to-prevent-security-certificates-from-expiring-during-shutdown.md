@@ -9,6 +9,7 @@ topics:
 ---
 
 ### 1. Gather a list of all of your domains
+
 The easiest way to do this is to:
 
 - Go to [https://pulse.cio.gov/https/domains/](https://pulse.cio.gov/https/domains/)
@@ -18,12 +19,15 @@ The easiest way to do this is to:
 - Open the CSV as a spreadsheet
 
 ### 2. Ask your IT department which domains are auto-renewing
+
 Send them your new spreadsheet and have them mark which domains and sub-domains are auto-renewing.
 
 ### 3. Figure out who is responsible for purchasing security (SSL) certificates in your organization.
+
 You are going to need to reach out to the person/people who usually buys your certificates _(someone with purchasing authority)_. They are usually different from the people who upload your certificates _(usually someone in IT)_.
 
 ### 4. Identify when your SSL certificates will expire
+
 This is fairly easy:
 
 - Go to [https://transparencyreport.google.com/https/certificates?hl=en](https://transparencyreport.google.com/https/certificates?hl=en)
@@ -32,10 +36,10 @@ This is fairly easy:
 - In the results, the “Valid to” column is the date that your certificate expires
 - Add this date your new domains spreadsheet
 
-
 _Or you can also ask the person who regularly purchases your SSL certificates. They might keep a log._
 
 ### 5. Renew all upcoming SSL certificates
+
 If the certificate is set to expire in the next three months , make a request to get those certificates renewed now.
 
 :tada:
@@ -43,17 +47,21 @@ If the certificate is set to expire in the next three months , make a request to
 ---
 
 ### Have Questions?
+
 [This overview on certificates from CIO.gov](https://https.cio.gov/certificates/) is one of the best resources for people in government who are wanting to learn more about getting SSL certificates right.
 
 #### Q. Are security certificates and SSL certificates the same thing?
+
 Yep.
 
 #### Q. What do certificates do exactly?
+
 [From CIO.gov](https://https.cio.gov/certificates/) —
 
 >"Websites use certificates to create an HTTPS connection. When signed by a trusted certificate authority (CA), certificates give confidence to browsers that they are visiting the “real” website."
 
 #### Q. Can certificates be set to auto-renew?
+
 Yes, you should talk to your IT department about moving in the direction of auto-renewing certificates.
 
 We generally recommend that any certificate you do purchase be low cost, automatable, short-lived, and published to Certificate Transparency logs.  Furthermore, all certificates should be free of the following:

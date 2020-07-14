@@ -16,7 +16,7 @@ The [Executive Order 13571](https://www.whitehouse.gov/the-press-office/2011/04/
 
 ## Related Links
 
-  *  [M-11-24 Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf)
+* [M-11-24 Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf)
 
 * * *
 

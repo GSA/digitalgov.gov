@@ -15,9 +15,9 @@ This memo set forth that &#8220;To the extent feasible and appropriate, especial
 
 ## Related Resources
 
-  * [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 KB, 3 pages, January 2010)
-  * [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
-  * [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 KB, 6 pages, April 2011)
+* [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 KB, 3 pages, January 2010)
+* [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
+* [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 KB, 6 pages, April 2011)
 
 * * *
 
