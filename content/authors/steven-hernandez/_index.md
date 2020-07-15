@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Steven Hernandez is an information assurance expert serving the past twenty years in a variety of contexts and missions. He has worked on the front lines in operations centers and led research teams attempting to balance security, privacy, and mission delivery considerations. "
+bio: "Steven Hernandez is an information assurance expert, serving the past twenty years in a variety of contexts and missions. He has worked on the front lines in operations centers and led research teams attempting to balance security, privacy, and mission delivery considerations. "
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
