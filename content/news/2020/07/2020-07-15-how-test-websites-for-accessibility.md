@@ -15,8 +15,8 @@ short_url:
 date: 2020-07-15 17:00:00 -0500
 kicker: "Accessibility"
 title: "How to Test Websites for Accessibility"
-deck: ""
-summary: "**How to Test Websites for Accessibility**&mdash;Use both manual and automated testing methods to create accessible websites."
+deck: "**How to Test Websites for Accessibility**&mdash;Use both manual and automated testing methods to create accessible websites."
+summary: ""
 
 # see all topics at https://digital.gov/topics
 topics: 
