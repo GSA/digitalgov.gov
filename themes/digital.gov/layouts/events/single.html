@@ -10,7 +10,7 @@
 {{- $event_description := (print $event_desc $event_url) -}}
 {{- $event_location := .Params.venue.venue_name -}}
 
-<main role="main" class="event">
+<main role="main" id="main-content" class="event">
   <article>
 
     <header>
@@ -134,7 +134,7 @@
               {{- .Render "stage-google" -}}
             {{- end -}}
           {{- end -}}
-          
+
 
             {{/* Content */}}
             <div class="content">
