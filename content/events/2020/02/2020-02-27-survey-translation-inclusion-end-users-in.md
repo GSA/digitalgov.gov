@@ -17,23 +17,28 @@ date: 2020-02-27 14:30:00 -0500
 end_date: 2020-02-27 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - multilingual
-  - user-centered-design
   - research
-
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform:
+  - user-centered-design
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
+  - kathleen-kephart
   - lgodfrey
+  - mikelyn-meyers
+  - patricia-goerman
 
 # YouTube ID
 youtube_id: BxO4kS9rdF0
 
-# Make it better ♥
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
+# Make it better ♥
+---
 ---
 
 Federal government agencies produce translations of a variety of materials, from surveys to websites, with the goal of increasing the reach of our programs and federal data resources. This talk uses survey translation as an illustration of the complexities and potential pitfalls involved in providing resources in multiple languages.
