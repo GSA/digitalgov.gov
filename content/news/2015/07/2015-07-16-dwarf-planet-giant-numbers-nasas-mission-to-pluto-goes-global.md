@@ -29,7 +29,7 @@ Any time we go this far from home and do something that’s never been done befo
   <tr>
     <td style="text-align: center">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Pluto just had its first visitor! Thanks <a href="https://twitter.com/NASA">@NASA</a> &#8211; it&#8217;s a great day for discovery and American leadership. <a href="http://t.co/FfztBSMbK0">pic.twitter.com/FfztBSMbK0</a>
         </p>
 

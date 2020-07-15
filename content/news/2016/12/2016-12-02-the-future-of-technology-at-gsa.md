@@ -29,7 +29,7 @@ The potential to transform government and impact the lives of Americans is treme
 > “If it’s important, it’s important for all administrations,” said GSA Technology Transformation Service Commissioner Rob Cook.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     GSA Admin <a href="https://twitter.com/DeniseUSGSA">@DeniseUSGSA</a> on the future of technology in the federal government. <a href="https://twitter.com/hashtag/GSATech?src=hash">#GSATech</a> <a href="https://twitter.com/hashtag/InnovateGov?src=hash">#InnovateGov</a> <a href="https://t.co/zEssbqnSZL">pic.twitter.com/zEssbqnSZL</a>
   </p>
   
@@ -41,7 +41,7 @@ The potential to transform government and impact the lives of Americans is treme
 
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     We need to modernize government — programs like <a href="https://twitter.com/18F">@18F</a> and <a href="https://twitter.com/USDS">@USDS</a> hold great potential for our country.<a href="https://t.co/QAtxjzKXh6">https://t.co/QAtxjzKXh6</a>
   </p>
   
@@ -55,7 +55,7 @@ The potential to transform government and impact the lives of Americans is treme
 > “We have people from different political stripes on the team,” said Rob Cook. “We don’t think technology is partisan.”
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     18F co-founder on why tech transcends party politics: <a href="https://t.co/isUtBYV7U6">https://t.co/isUtBYV7U6</a> <a href="https://t.co/no5wWow0P6">pic.twitter.com/no5wWow0P6</a>
   </p>
   
@@ -93,7 +93,7 @@ The potential to transform government and impact the lives of Americans is treme
 Established earlier this year, TTS seeks to improve the technology of the federal government. Americans increasingly interact with vital services online and the job of TTS is to help agencies deliver digital products and services that are easy to use, efficient, effective and secure.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     GSA's improving the way federal government & industry do business. Read more about our technological efforts → <a href="https://t.co/KlV7WOYxVM">https://t.co/KlV7WOYxVM</a>
   </p>
   
@@ -131,7 +131,7 @@ Established earlier this year, TTS seeks to improve the technology of the federa
 > </div>
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     GSA's New Tech Leader Says Group is Ready for Its Pixar Moment <a href="https://t.co/IotrLouECP">https://t.co/IotrLouECP</a> <a href="https://t.co/jrFyx9PnBM">pic.twitter.com/jrFyx9PnBM</a>
   </p>
   
@@ -149,7 +149,7 @@ Established earlier this year, TTS seeks to improve the technology of the federa
 GSA finds ways to help the government get the best industry has to offer, while reducing the barriers to entry that have kept that from happening in the past.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     GSA Administrator <a href="https://twitter.com/DeniseUSGSA">@DeniseUSGSA</a> discusses efforts to increase government & industry collaboration w/ <a href="https://twitter.com/FederalTimes">@FederalTimes</a> <a href="https://t.co/SU9S0TFVvP">https://t.co/SU9S0TFVvP</a>
   </p>
   
@@ -161,7 +161,7 @@ GSA finds ways to help the government get the best industry has to offer, while 
 
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     Working in the open leads to a better end product. Read about <a href="https://twitter.com/18F">@18F</a>'s recent work w/ state & local governments. <a href="https://t.co/CEjq6CqFby">https://t.co/CEjq6CqFby</a>
   </p>
   
@@ -175,7 +175,7 @@ GSA finds ways to help the government get the best industry has to offer, while 
 > “TTS will continue,” said Cook, “to help government improve the way it buys technology and partners with industry to provide solutions and services to help federal agencies better tell their stories and provide services to the public.”
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     Dig in to today's <a href="https://twitter.com/MorningTech">@MorningTech</a> for details on whether GSA's tech leadership (inc. <a href="https://twitter.com/18F">@18F</a>) says it's staying or going. <a href="https://t.co/qWTiUK9LUV">https://t.co/qWTiUK9LUV</a>
   </p>
   
@@ -193,7 +193,7 @@ GSA finds ways to help the government get the best industry has to offer, while 
 We are driven by the mission of giving the government the tools to more effectively serve our users, the American people.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     TTS Commissioner Rob Cook, "Our citizens deserve a government that uses technology to make their lives easier." <a href="https://t.co/zs7seQ8nIH">https://t.co/zs7seQ8nIH</a>
   </p>
   
@@ -229,7 +229,7 @@ We are driven by the mission of giving the government the tools to more effectiv
 > “Ultimately, though, in TTS, the U.S. Digital Services and other digital services teams, I think enough good has been shown that this thing will maintain itself for the foreseeable future and I’m super excited about that,” said GSA CIO David Shive in a [recent interview](http://federalnewsradio.com/digital-government/2016/11/shive-brought-gsas-18f-much-needed-parental-guidance/) with Federal News Radio.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     what you can do to maximize innovation&#8230; Action Grid: diverse, inclusive, equitable science & tech workforce <a href="https://t.co/3oZqBfgnM6">https://t.co/3oZqBfgnM6</a>
   </p>
   

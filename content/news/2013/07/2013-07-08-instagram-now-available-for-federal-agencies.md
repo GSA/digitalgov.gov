@@ -15,7 +15,7 @@ topics:
   - white-house
 ---
 
-<p dir="ltr">
+<p>
   <strong><a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/WHInstagram.jpg">{{< legacy-img src="2013/07/WHInstagram.jpg" alt="Instagram image from White House." >}}</a>Instagram</strong> is the latest mobile and social media tool available to federal, state and local governments to better engage with the public, with a newly negotiated <a href="http://instagram.com/legal/terms/usgov/" target="_blank">government-compatible Terms of Service (TOS) agreement.</a> <strong>GSA</strong> collaborated with Instagram to negotiate the amended terms, which brings the total number of <a href="{{< ref "negotiated-terms-of-service-agreements.md" >}}" target="_blank">tools with federal-compatible agreements</a> to 65.
 </p>
 

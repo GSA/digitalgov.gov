@@ -21,7 +21,7 @@ The theme of this year&#8217;s Summit was &#8220;<span class="il">open.</span>&#
 Megan Smith, U.S. Chief Technology Officer, opened the Summit, challenging all techies in government to help solve problems and be part of decision-making at the highest levels of government.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     <a href="https://twitter.com/USCTO">@uscto</a> Lots of different talents are shifting and moving to solve the real problems of today <a href="https://twitter.com/hashtag/digitalgov15?src=hash">#digitalgov15</a>
   </p>
   
@@ -35,7 +35,7 @@ Megan Smith, U.S. Chief Technology Officer, opened the Summit, challenging all t
 She also said that young people have found ways to serve their country through the Peace Corps and Teach for America and invited the group to think how they could serve digitally.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     Megan Smith, US CTO suggests more virtual public service can be enabled by tech <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> &#8211; more talent working on problems <a href="https://twitter.com/hashtag/citizen2015?src=hash">#citizen2015</a>
   </p>
   
@@ -47,7 +47,7 @@ She also said that young people have found ways to serve their country through t
 
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     .<a href="https://twitter.com/USCTO">@uscto</a> promoting intersection of tech and service: "How about a Virtual <a href="https://twitter.com/PeaceCorps">@PeaceCorps</a>?" <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>
   </p>
   
@@ -61,7 +61,7 @@ She also said that young people have found ways to serve their country through t
 Dr. David Bray, Chief Information Officer for the Federal Communications Commission and Eisenhower Fellow, discussed the [Internet of Everything]({{< ref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}).
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     The Internet of things is already here, but how do we get to a world where everything is connected? <a href="https://twitter.com/hashtag/digitalgov15?src=hash">#digitalgov15</a>
   </p>
   
@@ -75,7 +75,7 @@ Dr. David Bray, Chief Information Officer for the Federal Communications Commiss
 This dependency on technology will generate new issues, he warned.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     Listening to <a href="https://twitter.com/fcc_cio">@fcc_cio</a> discuss Internet of things. Fascinating! He asks who in public service will keep things safe? <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>
   </p>
   
