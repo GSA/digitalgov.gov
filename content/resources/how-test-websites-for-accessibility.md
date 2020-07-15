@@ -30,7 +30,8 @@ weight: 1
 
 ---
 
-{{< youtube o7l5d6XVDuM >}}
+{{< youtube o7l5d6XVDuM >}} 
+ 
 
 {{< note >}}
 In this video, Michael Horton, Accessible Design and Development Advisor at the GSA’s Office of Government-wide Policy, describes how to use manual and automated testing methods to create accessible websites—and why it matters. He also shares more information about GSA’s Government-wide IT Accessibility Program.
