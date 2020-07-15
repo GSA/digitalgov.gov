@@ -12,10 +12,10 @@ last_name: "Perret"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email: gabrielle.perret@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Senior Media Advisor, Office of Strategic Communication"
+bio: "Gabby is the Senior Media Advisor, in the Office of Strategic Communication (OSC) at GSA."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
