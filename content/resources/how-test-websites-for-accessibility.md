@@ -26,6 +26,9 @@ authors:
 # 2 -- highlighted
 weight: 1
 
+# primary Image (for social media)
+primary_image: "gettyimages-1073019390"
+
 # Make it better ♥
 
 ---
