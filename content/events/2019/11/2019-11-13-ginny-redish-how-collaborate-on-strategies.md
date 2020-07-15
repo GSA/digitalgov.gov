@@ -38,10 +38,10 @@ primary_image: "plainlanguage-ginny-redish-card"
 weight: 0
 
 # Make it better ♥
+
 ---
 
 Join us for a session with noted user experience (UX) and plain language expert, Ginny Redish. She'll explain strategies, how they work together, the good that happens when they do, the mess that happens when they don't, and the worst scenario of all: no strategy at all.
-
 
 ## About the speaker
 
@@ -62,4 +62,3 @@ _All references to specific brands, products, and/or companies are used only for
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
 
 This talk is hosted by the [Plain Language Action and Information Network](https://digital.gov/communities/plain-language/) (PLAIN) and Digital.gov.
-
