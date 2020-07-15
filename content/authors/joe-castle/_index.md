@@ -12,7 +12,7 @@ last_name: "Castle"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email: joseph.castle@gsa.gov
 
 # Bio — keep it under 50 words
 bio: ""
