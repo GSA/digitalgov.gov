@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Ms. Beth Killoran currently serves as the Deputy Chief Information Officer for the U.S. General Services Administration (GSA). Prior to joining GSA, Beth served as the CIO for the Department of Health and Human Services since November 2015."
+bio: "Ms. Beth Killoran currently serves as the Deputy Chief Information Officer for the U.S. General Services Administration (GSA). Prior to joining GSA, Beth served as the CIO for the Department of Health and Human Services."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
