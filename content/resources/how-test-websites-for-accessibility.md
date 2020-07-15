@@ -58,10 +58,12 @@ There are several [testing methods](https://www.section508.gov/test/testing-over
 - **Manual** &mdash; Manual testing uses a documented, consistent, repeatable process;
 - **Hybrid** &mdash; A combination of automated and manual testing. 
 
-You should use the hybrid approach—both manual testing by Trusted Testers and automated testing tools—to create accessible websites and digital services. 
+You should use the hybrid approach—both manual testing by Trusted Testers and automated testing tools—to create accessible websites and digital services.  
 
-<<add icon>> Become a Trusted Tester
-Visit the [DHS online training portal](https://training.section508testing.net) to take the Trusted Tester training. You can self-enroll, and DHS provides the training at no cost. 
+{{< card intro="**Become a Trusted Tester** 
+
+Visit the [DHS online training portal](https://training.section508testing.net) to take the Trusted Tester training. You can self-enroll, and DHS provides the training at no cost.
+{{< /card >}}
 
 ## About the Government-wide IT Accessibility Program 
 
