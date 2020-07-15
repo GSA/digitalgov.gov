@@ -4,7 +4,7 @@
 
 # slug — the specific user-id for an author.
 slug: michael-horton
-display_name: "Mike Horton"
+display_name: "Michael Horton"
 first_name: "Michael"
 last_name: "Horton"
 
@@ -12,7 +12,7 @@ last_name: "Horton"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email: michael.horton@gsa.gov
 
 # Bio — keep it under 50 words
 bio: "Accessible Design & Development Advisor, Office of Government-wide Policy"
