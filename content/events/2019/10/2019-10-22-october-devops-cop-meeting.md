@@ -1,20 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2019/10/october-devops-community-meeting
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: october-devops-cop-meeting
-title: 'October DevOps Community Meeting'
-summary: 'An overview of multiple Infrastructure as Code &#40;IaC&#41; tools followed by a deep-dive on how to setup a Gitlab Runner to perform GitOps functions including IaC deployments against multiple AWS environments&#46; '
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - zoom
-date: 2019-10-22 14:00:00 -0500
-end_date: 2019-10-22 14:30:00 -0500
-event_organizer: DigitalGov University
-host: DevOps CoP
-youtube_id: yHlnAG2UX3Y
+title: "October DevOps Community Meeting"
+deck: ""
+summary: "An overview of multiple Infrastructure as Code (IaC) tools followed by a deep-dive on how to setup a Gitlab Runner to perform GitOps functions including IaC deployments against multiple AWS environments. "
+host: "DevOps CoP"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
+date: 2019-10-22 15:00:00 -0500
+
+# end date
+end_date: 2019-10-22 15:30:00 -0500
+
+# see all topics at https://digital.gov/topics
 topics: 
   - devops
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - robert-djurasaj
+
+# YouTube ID
+youtube_id: yHlnAG2UX3Y
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 This month, we'll be giving you all an overview of multiple Infrastructure as Code (IaC) tools followed by a deep-dive on how to setup a Gitlab Runner to perform GitOps functions including IaC deployments against multiple AWS environments. We will also have a demo of the National Geospatial Technical Operation Center (NGTOC) approach at using best practices for rapid development and continuous deployment of immutable infrastructure(s).
