@@ -1,7 +1,7 @@
 ---
 slug: federal-contact-center-regulations-and-directives
 date: 2013-10-28 5:19:56 -0400
-title: 'Federal Contact Center Regulations & Directives'
+title: "Federal Contact Center Regulations & Directives"
 summary: Contact centers operated and managed by federal agencies have to follow certain laws, regulations, policies, and other directives. Unless specifically noted, contact centers operated and managed by states or local governments do not have to comply with these same requirements. Access for People with Disabilities (Section 508) Federal contact centers must comply with Section 508
 authors:
   - tonya-beres
@@ -27,8 +27,9 @@ Contact centers operated and managed by federal agencies have to follow certain 
     </p>
 
     <p>
-      Find out how <a title="Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)" href="{{< ref "contact-center-technologies.md" >}}>Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)</a> enable agencies to extend services to people who are deaf, hard-of-hearing, or speech impaired.
+      Find out how <a title="Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)" href="{{< ref "contact-center-technologies.md" >}}">Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)</a> enable agencies to extend services to people who are deaf, hard-of-hearing, or speech impaired.
     </p>
+
   </div>
 
   <div class="one-half">
@@ -39,6 +40,7 @@ Contact centers operated and managed by federal agencies have to follow certain 
     <p>
       You need to comply with the <a href="http://www.dol.gov/compliance/laws/comp-sca.htm">McNamara-O&#8217;Hara Service Contract Act (SCA)</a> if your agency obtains contractor support for its contact center. The SCA requires payment of existing wage rates and fringe benefits to service employees on contracts that provide services to the federal government.
     </p>
+
   </div>
 </blockquote>
 
@@ -55,6 +57,7 @@ Contact centers operated and managed by federal agencies have to follow certain 
     <p>
       Federal contact centers must comply with laws and directives that protect information and information systems from unauthorized access, use, disclosure, disruption, modification or destruction in order to protect the integrity, confidentiality and availability of the information and information systems.
     </p>
+
   </div>
 
   <div class="one-half">
@@ -77,5 +80,6 @@ Contact centers operated and managed by federal agencies have to follow certain 
         <a href="http://www.whitehouse.gov/omb/circulars_a130_a130appendix_i">OMB Circular A-130, App 1</a>
       </li>
     </ul>
+
   </div>
 </blockquote>
