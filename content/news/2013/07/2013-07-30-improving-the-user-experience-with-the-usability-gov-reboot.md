@@ -14,17 +14,17 @@ topics:
 
 [{{< legacy-img src="2014/01/Usability.gov-reboot-250x187.jpg" alt="Mobile devices showing responsively designed site across a Laptop, tablets, smartphones" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Usability.gov-reboot.jpg)Plan and analyze. Write and design.  Test and refine.  As Web Manager for <a href="http://www.usability.gov/" target="_blank">Usability.gov</a>, I have found that taking a user-centered approach is vital each time you improve or build a digital product, especially when the content is about improving user experience.
 
-<p dir="ltr">
+<p>
   In our <a href="http://www.usability.gov/get-involved/blog/2013/07/welcome-to-relaunched-site.html">recent reboot of Usability.gov</a> we put our own advice to the test by evaluating the existing site and analyzing the extensive feedback on the concepts for the redesign.  The new site has launched with expanded content, a fresh design, and more ways to get involved in the Usability.gov program moving forward.
 </p>
 
 ## **Becoming More Useful**
 
-<p dir="ltr">
+<p>
   Our team pulled together some market research, analyzed the metrics, performed in-lab and remote usability testing, and leveraged feedback from surveys, focus groups, a card sort, and social media to find out what our current and potential users expect.  We learned that although users found the content, templates, and guidelines helpful, they needed more.
 </p>
 
-<p dir="ltr">
+<p>
   As a result, we expanded the focus of the site with the goal to reintroduce it as the leading resource for <a href="http://www.usability.gov/what-and-why/user-experience.html">user experience (UX)</a> best practices.  We added overviews, methods, resources, and glossary terms for the following content topics:
 </p>
 
@@ -39,19 +39,19 @@ topics:
   * [Accessibility](http://www.usability.gov/what-and-why/accessibility.html)
   * [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
 
-<h2 dir="ltr">
+<h2>
   Creating an Engaging Design
 </h2>
 
-<p dir="ltr">
+<p>
   The team also freshened up the look of the site and rethought the user interface.  The team chose to go beyond responsive design and experimented in designing first for touch and swipe and then reverse engineered for the more traditional click and scroll.  The tile design went through various testing and resulted in a design that has a default view of swipeable cards as well as the option for users to toggle to a more traditional list view, if preferred.
 </p>
 
-<h2 dir="ltr">
+<h2>
   Ways to Get Involved
 </h2>
 
-<p dir="ltr">
+<p>
   We also are trying to make <a href="http://www.usability.gov/" target="_blank">Usability.gov</a> a platform for active conversation.  To that end, we’re inviting individuals to:
 </p>
 
@@ -59,6 +59,6 @@ topics:
   * Stay connected through [Twitter](http://twitter.com/usabilitygov) and [email updates](https://public.govdelivery.com/accounts/USHHS/subscriber/topics?qsp=USHHS_2)
   * Help update the [Research-Based Web Design and Usability Guidelines](http://guidelines.usability.gov/)
 
-<p dir="ltr">
+<p>
   So, have we built the site you need?  Please let us know what you think.
 </p>

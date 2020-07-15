@@ -13,15 +13,15 @@ topics:
   - innovation
 ---
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Innovations-in-American-Government-seal.jpg">{{< legacy-img src="2013/11/Innovations-in-American-Government-seal.jpg" alt="Star in the middle of a circle with a red and blue ribbon wrapped around." >}}</a>Thanks to the tremendous work of challenge managers across federal government and the support of the White House Office of Science & Technology Policy, the <a title="challenge.gov" href="http://www.challenge.gov" target="_blank">Challenge.gov</a> program at GSA has been named one of the <a title="top 5 finalist" href="http://www.ash.harvard.edu/Home/News-Events/Press-Releases2/Innovations-in-American-Government-Award-Finalists-Announced" target="_blank">top 5 finalists</a> in Harvard&#8217;s Innovations in American Government Award!
 </p>
 
-<p dir="ltr">
+<p>
   We are honored to be among this group, after rigorous competition from all levels of government. Join us in congratulating all the finalists today.
 </p>
 
-<p dir="ltr">
+<p>
   And a big pat on the back to the hundreds of champions at 59 agencies who worked on the 300+ public prize competitions to-date. Your innovative ideas, determination, creativity and hard work are what brings this program to life every day, engaging citizens and solving mission-centric problems in ways that tap into the best and brightest minds in the world.
 </p>
 

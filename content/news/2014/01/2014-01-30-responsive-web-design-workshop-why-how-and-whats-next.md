@@ -16,19 +16,19 @@ topics:
   - us-department-of-education
 ---
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/aids_ss.jpg">{{< legacy-img src="2013/12/aids_ss.jpg" alt="Home Screen of AIDS.gov's responsively designed web site on a smartphone." >}}</a>Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many <a href="FIND?s=responsive+design.md)>agencies have implemented it </a>and many others are exploring this approach to Mobile Gov.
 </p>
 
-<p dir="ltr">
+<p>
   There are still many other questions about responsive web design and it’s time to provide some illumination.
 </p>
 
-<p dir="ltr">
+<p>
   Next Thursday, February 6, we are providing an opportunity for agencies to talk about these questions. At our <strong>Responsive Web Design Workshop: Why, How and What’s Next? </strong>workshop, we’re bringing Aids.gov, Department of Labor, Federal Student Aid, National Cancer Institute, GSA and other agencies together to talk about the ins and outs of responsive web design implementations.
 </p>
 
-<p dir="ltr">
+<p>
   The event will answer three big questions:
 </p>
 
@@ -38,11 +38,11 @@ topics:
 
 Have you implemented or are you planning to implement a responsively designed site?
 
-<p dir="ltr">
+<p>
   Come help us answer these questions, update/build some new mobile <a title="Mobile User Experience Guidelines and Recommendations" href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}">user experience recommendations</a> and get your agency’s responsive implementation a leg up!
 </p>
 
-<p dir="ltr">
+<p>
   Space is limited for this FREE EVENT, <a href="https://www.eventbrite.com/register?orderid=249648927663&client_token=92c14b7ecebb42b383215f1c8823e7f5&eid=10103916085">so sign up now</a>! (Federal Employees Only)
 </p>
 

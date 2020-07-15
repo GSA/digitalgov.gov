@@ -28,7 +28,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none" rowspan="2" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           We&#8217;ve kicked off the <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> Summit with <a href="https://twitter.com/USCTO">@USCTO</a> <a href="https://twitter.com/jakegab">@jakegab</a> <a href="https://twitter.com/gwynnek">@gwynnek</a> <a href="https://twitter.com/PSChrousos">@PSChrousos</a>! Hope you are tuned in! <a href="http://t.co/EZSwHB45RO">pic.twitter.com/EZSwHB45RO</a>
         </p>
         
@@ -40,7 +40,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
     
     <td style="text-align: left;vertical-align: top;border-style: none" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Around 1200 federal digital government innovators are signed up for our DigitalGov Citizen Services Summit tomorrow. Follow <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>!
         </p>
         
@@ -54,7 +54,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           1 hour until <a href="https://twitter.com/BernettaReese">@BernettaReese</a> and I kick off the Red carpet livestream <a href="https://twitter.com/Digital_Gov">@Digital_Gov</a> Summit! Watch here! <a href="https://t.co/j4GSKjANno">https://t.co/j4GSKjANno</a> <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>
         </p>
         
@@ -68,7 +68,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none" colspan="2">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           This morning, <a href="https://twitter.com/Digital_Gov">@Digital_Gov</a> hosts the Citizen Services Summit &#8211; livestream starts at 8:45ET! <a href="http://t.co/y3rRVvJVNl">http://t.co/y3rRVvJVNl</a> <a href="https://twitter.com/hashtag/digitalgov15?src=hash">#digitalgov15</a> <a href="https://twitter.com/hashtag/engagement?src=hash">#engagement</a>
         </p>
         
@@ -90,7 +90,7 @@ Megan Smith, U.S. Chief Technology Officer in the Office of Science and Technolo
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Love seeing the excitement and energy at <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> &#8211; proud of <a href="https://twitter.com/USCTO">@USCTO</a> and team for representing!
         </p>
         
@@ -102,7 +102,7 @@ Megan Smith, U.S. Chief Technology Officer in the Office of Science and Technolo
     
     <td style="text-align: left;vertical-align: top;border-style: none" rowspan="2" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           We are off at the <a href="https://twitter.com/Digital_Gov">@Digital_Gov</a> summit! <a href="https://twitter.com/USCTO">@USCTO</a> kicks us off! <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> <a href="http://t.co/0jqo8L8BqX">pic.twitter.com/0jqo8L8BqX</a>
         </p>
         
@@ -116,7 +116,7 @@ Megan Smith, U.S. Chief Technology Officer in the Office of Science and Technolo
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Great, live and online delivery of a conference and user participation from <a href="https://twitter.com/Digital_Gov">@Digital_Gov</a> <a href="http://t.co/z78ROeeSc5">http://t.co/z78ROeeSc5</a> <a href="https://twitter.com/hashtag/digitalgov15?src=hash">#digitalgov15</a>
         </p>
         
@@ -134,7 +134,7 @@ Dr. David Bray, Chief Information Officer for the Federal Communications Commiss
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Counting down till the <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> Summit tomorrow! In person or online, we&#8217;ll see you soon! <a href="https://twitter.com/gwynnek">@gwynnek</a> <a href="https://twitter.com/CorinaDuBois">@CorinaDuBois</a> <a href="https://twitter.com/JustinHerman">@JustinHerman</a> <a href="https://twitter.com/jakegab">@jakegab</a>
         </p>
         
@@ -146,7 +146,7 @@ Dr. David Bray, Chief Information Officer for the Federal Communications Commiss
     
     <td style="text-align: left;vertical-align: top;border-style: none" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Amazing morning so far. Kickin off <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> with <a href="https://twitter.com/gwynnek">@gwynnek</a> <a href="https://twitter.com/PSChrousos">@PSChrousos</a> <a href="https://twitter.com/USCTO">@USCTO</a> <a href="https://twitter.com/fcc_cio">@fcc_cio</a> <a href="https://twitter.com/StoicBuddha">@StoicBuddha</a>
         </p>
         
@@ -160,7 +160,7 @@ Dr. David Bray, Chief Information Officer for the Federal Communications Commiss
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> <a href="https://twitter.com/fcc_cio">@fcc_cio</a> summarizing the Internet of everything, going <a href="https://twitter.com/hashtag/exponential?src=hash">#exponential</a> &#8230; with alphabet aerobics <a href="https://twitter.com/hashtag/Impressive?src=hash">#Impressive</a>
         </p>
         
@@ -172,7 +172,7 @@ Dr. David Bray, Chief Information Officer for the Federal Communications Commiss
     
     <td style="text-align: left;vertical-align: top;border-style: none">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           In 5 yrs, 50 billion connected devices on Internet of Everything <a href="https://twitter.com/hashtag/exponential?src=hash">#exponential</a> <a href="https://twitter.com/fcc_cio">@fcc_cio</a> David Bray at <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>.
         </p>
         
@@ -190,7 +190,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Live stream central for <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> with <a href="https://twitter.com/BernettaReese">@BernettaReese</a> and <a href="https://twitter.com/CorinaDuBois">@CorinaDuBois</a> <a href="http://t.co/Meogjxl8uB">pic.twitter.com/Meogjxl8uB</a>
         </p>
         
@@ -200,7 +200,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Wow! Great job on the live stream for <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>. Loving the interview with <a href="https://twitter.com/HHSGov">@HHSGov</a> Sally Dadajou!
         </p>
         
@@ -210,7 +210,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           enjoying live stream <a href="https://twitter.com/hashtag/digitalgov15?src=hash">#digitalgov15</a> <a href="http://t.co/T1rY6e6KM1">pic.twitter.com/T1rY6e6KM1</a>
         </p>
         
@@ -220,7 +220,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Just getting ready for my live stream interview with Bernetta Reese up next! <a href="https://twitter.com/hashtag/digitalgov15?src=hash">#digitalgov15</a> <a href="http://t.co/T9xEYfDhMf">pic.twitter.com/T9xEYfDhMf</a>
         </p>
         
@@ -232,7 +232,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
     
     <td style="text-align: left;vertical-align: top;border-style: none" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Awesome special features for online attendees of <a href="https://twitter.com/hashtag/digitalgov15?src=hash">#digitalgov15</a>
         </p>
         
@@ -242,7 +242,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Peace Corp, SAMSA, DHS, Stare, Commerce, Energy&#8230;and lots more here at <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> <a href="http://t.co/N8UStfZq2a">pic.twitter.com/N8UStfZq2a</a>
         </p>
         
@@ -252,7 +252,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Prepping with <a href="https://twitter.com/BernettaReese">@BernettaReese</a> for <a href="https://twitter.com/hashtag/digitalgov15?src=hash">#digitalgov15</a> interview on being government <a href="https://twitter.com/hashtag/ChangeAgents?src=hash">#ChangeAgents</a> <a href="http://t.co/9UMRYTovwu">pic.twitter.com/9UMRYTovwu</a>
         </p>
         
@@ -262,7 +262,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           20 agencies represented on <a href="https://twitter.com/DigitalGov">@DigitalGov</a> Summit program + others to come on <a href="https://twitter.com/BernettaReese">@BernettaReese</a> livestream <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> <a href="http://t.co/geILMj6nNi">http://t.co/geILMj6nNi</a>
         </p>
         
@@ -272,7 +272,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Great job bernetta on the live stream! Thank you <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> for helping make me a better public servant.
         </p>
         
@@ -282,7 +282,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Following the <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> livestream!
         </p>
         
@@ -300,7 +300,7 @@ The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalG
   <tr>
     <td style="text-align: left;vertical-align: top;border-style: none" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Counting down till the <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> Summit tomorrow! In person or online, we&#8217;ll see you soon! <a href="https://twitter.com/gwynnek">@gwynnek</a> <a href="https://twitter.com/CorinaDuBois">@CorinaDuBois</a> <a href="https://twitter.com/JustinHerman">@JustinHerman</a> <a href="https://twitter.com/jakegab">@jakegab</a>
         </p>
         
@@ -310,7 +310,7 @@ The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalG
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> is now trending in USA, ranking 6
         </p>
         
@@ -320,7 +320,7 @@ The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalG
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           We are trending in the US! You all rock! Keep the tweets coming! <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>
         </p>
         
@@ -332,7 +332,7 @@ The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalG
     
     <td style="text-align: left;vertical-align: top;border-style: none" width="50%">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           So&#8230; <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> is trending thanks to <a href="https://twitter.com/fcc_cio">@fcc_cio</a> and <a href="https://twitter.com/Digital_Gov">@Digital_Gov</a>, my robot heart is touched. Say whaaat? <a href="http://t.co/G10Vw0jUX9">http://t.co/G10Vw0jUX9</a>
         </p>
         
@@ -342,7 +342,7 @@ The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalG
       </blockquote>
       
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Oh snap. <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> just started trending, just as <a href="https://twitter.com/fcc_cio">@fcc_cio</a> predicted it would. The force is strong in this <a href="https://twitter.com/hashtag/changeagent?src=hash">#changeagent</a>..
         </p>
         
