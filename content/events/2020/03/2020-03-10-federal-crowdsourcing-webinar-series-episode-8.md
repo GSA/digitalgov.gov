@@ -11,24 +11,23 @@ registration_url: https://www.eventbrite.com/e/98255467749
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4375888&CustomerID=321
 
 # start date
-date: 2020-03-10 14:00:00 -0500
+date: 2020-03-10 15:00:00 -0500
 
 # end date
-end_date: 2020-03-10 15:00:00 -0500
+end_date: 2020-03-10 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - challenges
   - crowdsourcing
   - innovation
   - nasa
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
+  - carissa-callini
+  - jeffrey-doi
   - tammy-white
-
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform:
 
 # YouTube ID
 youtube_id: zQWcKElVEFU
@@ -36,8 +35,12 @@ youtube_id: zQWcKElVEFU
 # Primary Image (for social media)
 primary_image: "challenge-card-episode-8"
 
-# Make it better ♥
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
+# Make it better ♥
 ---
 
 Have you ever been laser-focused on a problem for some time, only to have the solution suddenly come from an unlikely source? The best ideas can come from within our own organizations, perhaps an office or two away -- the hardest part is knowing when and how to open the topic to a larger group for ideas.
