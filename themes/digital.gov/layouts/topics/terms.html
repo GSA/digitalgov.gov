@@ -2,7 +2,7 @@
 {{/* lists out the tags for the site */}}
 {{- define "content" -}}
 
-<main role="main">
+<main role="main" id="main-content">
 
   <header>
     <div class="grid-container grid-container-desktop">
@@ -124,7 +124,6 @@
         <div class="grid-col-6">
           <table>
             {{- $topics := (where .Site.Pages "Section" "topics") -}}
-            {{- len $topics -}}
             {{- range $name, $taxonomy := $topics.ByTitle -}}
               <tr>
                 <td class="padding-1 border-bottom-1px border-base-lighter"><a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
@@ -137,7 +136,6 @@
         <div class="grid-col-6">
           <table>
             {{- $topics_tax := $.Site.Taxonomies.topics -}}
-            {{- len $topics_tax -}}
             {{- range $name, $taxonomy := $topics_tax -}}
               {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
               <tr>
