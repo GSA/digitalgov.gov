@@ -53,6 +53,7 @@ Logan Powell (Census) and Dr. Bill Brantley (USPTO)
 We are a diverse community of project managers, developers, agency leaders, and other public servants who want to improve organizational processes while becoming more personally effective in their work.
 
 ## What we do
+
 The Agile/Lean Community of Practice has three goals:
 
 1. To share best practices and case studies of successful agile/lean projects in the federal agencies.

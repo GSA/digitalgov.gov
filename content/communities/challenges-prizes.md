@@ -64,6 +64,7 @@ Our community supports and encourages the use of incentivized competition to att
 Members of the Challenge and Prize COP gather about four times a year to share ideas, review best practices, and discuss policies and procedures. Membership and participation is open to federal, state, and local government. We host a listserv for members to ask questions, announce new challenges and prizes, and more.
 
 ## Key Resources
+
 - Official listing of federal prizes and challenges: http://www.challenge.gov
 - Toolkit and resources on running challenges: http://www.challenge.gov/toolkit
 - Playlist of challenges and prizes webinars: https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC

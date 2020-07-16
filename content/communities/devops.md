@@ -59,6 +59,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 - [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
 
 ## Join
+
 We have two listservs available, one for Federal Employees, and one for all individuals:
 
 - To join our federal government employee only Listserv, send an email from your official government email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)

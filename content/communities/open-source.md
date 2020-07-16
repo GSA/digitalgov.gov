@@ -44,10 +44,12 @@ We have a listserv with approximately 650+ agency members interested in federal 
 We are developers and open source experts, dedicated to helping you with any questions or concerns you may have about source code and OSS in the federal government. Curious about something regarding open source software or Code.gov? Ask us.
 
 ## Community managers
+
 Amin Mehr, Washington, DC  
 Joseph Castle, Washington, DC
 
-## Related resources 
+## Related resources
+
 - [**Code.gov**](http://code.gov)
 - [**Code.gov API**](https://open.gsa.gov/api/codedotgov/)
 - [**Code.gov Resources**](https://github.com/GSA/code-gov)

@@ -7,7 +7,7 @@ orbs:
 default-executor: &default-executor
   executor:
     name: node/default
-    tag: '10.21.0'
+    tag: "10.21.0"
 
 jobs:
   test:
@@ -18,8 +18,11 @@ jobs:
       - attach_workspace:
           at: .
       - run:
-          name: Test API JSON
-          command: npm run test:json
+          name: Lint JSON
+          command: npm run lint:json
+      - run:
+          name: Lint Markdown
+          command: npm run lint:markdown
   process:
     <<: *default-executor
     steps:

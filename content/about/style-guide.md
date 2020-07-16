@@ -21,8 +21,8 @@ Not everyone who uses government services or engages with federal agencies are U
 
 Additionally, where possible:
 
- * Avoid using gendered pronouns; instead, use they or their.
- * Avoid age-related descriptions of people unless absolutely necessary for the content; in those cases, try using older people or older person—instead of elderly or senior.
+* Avoid using gendered pronouns; instead, use they or their.
+* Avoid age-related descriptions of people unless absolutely necessary for the content; in those cases, try using older people or older person—instead of elderly or senior.
 
 See the **18F Content Guide** for more on inclusive language: https://content-guide.18f.gov/inclusive-language/
 
@@ -36,9 +36,9 @@ Capitalize proper nouns for people, places, and agency names.
 
 Do not capitalize words like _federal_, _government_, or _agency_ unless it is:
 
- * The first word in a sentence
- * An official title for or name of something
- * In a title or header (see _Content Titles and Headers_ below)
+* The first word in a sentence
+* An official title for or name of something
+* In a title or header (see _Content Titles and Headers_ below)
 
 ### Publication Titles
 
@@ -53,9 +53,11 @@ If a person's gender isn't clear from their first name (e.g., Chris, Pat, Lesley
 ### Content Titles and Headers
 
 #### Format
+
 We use [title case](https://en.wikipedia.org/wiki/Letter_case#Title_case) for for all titles and paragraph headers. Only use end punctuation for headers that pose a question (e.g., What Did We Learn?). If you’re unsure, many free, web-based title case tools use the filters to get AP Style (Examples: [titlecase.com](http://www.titlecase.com) and [capitalizemytitle.com](http://www.capitalizemytitle.com)).
 
 #### Size
+
 Article titles should be set to H1, with any subsequent headers set as H2, H3, and so forth, in hierarchical order.
 
 Do not use H3 or below to attempt to make the text appear bold; just apply bold formatting to the text with the Formatting Toolbar in Google Docs or Microsoft Word.
@@ -74,7 +76,7 @@ Unless the symbol is part of a name or branding, use the word (e.g., use the wor
 #### Dates
 
 - Use the expanded form of Month Day, Year (e.g., February 16, 2018) to avoid confusion that may arise by using the numeric format—for users in some other countries, 01/11/2018 would mean November 1st; not January 11th.
-  - For specific dates, use the full, four-digit year
+    - For specific dates, use the full, four-digit year
 - Can abbreviate for informal dates (the ‘90s)
 - Include ordinal indicators (st, nd, rd, th) on dates (e.g., use November 23rd instead of November 23)
 
@@ -89,9 +91,9 @@ Unless the symbol is part of a name or branding, use the word (e.g., use the wor
 
 - When referring to a number of states, the word “state” should be lowercase (e.g., All 50 states responded.)
 - Locations
-  - District of Columbia: abbreviate as D.C. in copy, but use the official postal code, DC (without periods), for an address
-  - United States: abbreviate as U.S.
-  - In copy, spell out state names, such as California. This will help keep naming conventions consistent (while the 2-character abbreviation without periods is the current postal standard for addresses in U.S. states and territories, older versions are still used by some people), and it can help avoid confusion; people often mix up the abbreviation for Louisiana (LA) with the one for Los Angeles (L.A.)
+    - District of Columbia: abbreviate as D.C. in copy, but use the official postal code, DC (without periods), for an address
+    - United States: abbreviate as U.S.
+    - In copy, spell out state names, such as California. This will help keep naming conventions consistent (while the 2-character abbreviation without periods is the current postal standard for addresses in U.S. states and territories, older versions are still used by some people), and it can help avoid confusion; people often mix up the abbreviation for Louisiana (LA) with the one for Los Angeles (L.A.)
 
 ### Agency Abbreviations
 
@@ -114,6 +116,7 @@ scuba (scuba self contained breathing apparatus), laser (light amplification by 
 **_Note_**: Avoid redundancies, such as, “ATM machine” (automated teller machine machine) and “PIN number” (personal identification number number).
 
 ##### Pluralization
+
 There is no need to add an _s_ to the end of an initialism or acronym if a word in the original name is already plural.
 
 For example, we use **CoE** for _Centers of Excellence_. Adding an _s_ on the end—CoEs—would actually mean, _Centers of Excellences_.
@@ -121,6 +124,7 @@ For example, we use **CoE** for _Centers of Excellence_. Adding an _s_ on the en
 ### Punctuation
 
 #### Commas
+
 In writing, oral pauses are indicated by commas. They are also used to order things, like lists, [clauses](https://www.youtube.com/watch?v=49EsnvxVQec), or a series of terms. Much like debates over [what counts as a sandwich](https://twitter.com/matttomic/status/859117370455060481) and [the proper pronunciation for the image file type, _gif_](https://www.cnn.com/2013/05/22/tech/web/pronounce-gif/index.html), disagreements about whether or not to use an Oxford comma (also known as the _Harvard comma_ and the _serial comma_) are quite common.
 
 It can be confusing (or potentially [costly](https://www.washingtonpost.com/news/morning-mix/wp/2017/03/16/the-ruling-in-this-maine-labor-dispute-hinged-on-the-omission-of-an-oxford-comma/) in [unexpected](https://www.instagram.com/p/BSTmAS2lZ_6/) ways) to omit the Oxford comma, so, we’d like to err on the side of caution. As noted by [AP Stylebook in their Twitter Chat on September 12, 2017](https://twitter.com/APStylebook/status/907673471865507841):
@@ -140,8 +144,8 @@ Use an apostrophe to indicate:
 
 - Possession—”Agile also improves the development team’s ability to commit to work.”
 - Missing letters or numbers
-  - Contractions: ”For example, with a bilingual English/Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text).”
-  - Date abbreviations: ”the ‘90s” (the apostrophe replaces the _19_ in _1990s_)
+    - Contractions: ”For example, with a bilingual English/Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text).”
+    - Date abbreviations: ”the ‘90s” (the apostrophe replaces the _19_ in _1990s_)
 
 Do not use an apostrophe to make words plural.
 Ever.
@@ -163,11 +167,9 @@ If it’s a list of fragments, do not use punctuation at the end. Capitalize the
 e.g. (_exempli gratia_), which is Latin for “for example, ...” use it to list one or more examples
 i.e. (_id est_) is Latin for “in other words, ...”
 
-
 ## Digital.gov Branding
 
 The overarching name of the site is Digital.gov. You may see references to “DigitalGov” in our archives, but going forward, it should be referred to as “Digital.gov”.
-
 
 ## Logos
 
@@ -197,12 +199,10 @@ The overarching name of the site is Digital.gov. You may see references to “Di
 {{< asset-img path="/img/digit-usa.png" alt="" width="100"  >}}
 {{< /accordion >}}
 
-
-
 ### Branded names and initialisms or acronyms for related services and programs:
 
 - **[Digital Analytics Program](https://www.digital.gov/dap/)** (DAP)
-  - dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
+    - dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
 - **DigitalGov Search** was renamed: **[Search.gov](https://www.digital.gov/services/search/)**
 - **[Digital.gov University](https://www.digital.gov/digitalgov-university/)** (DGU)
 - **[Federal CrowdSource Mobile Testing Program](https://www.digital.gov/services/mobile-application-testing-program/)** (no acronym)
