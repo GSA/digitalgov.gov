@@ -18,18 +18,30 @@ end_date: 2020-01-14 13:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - social-media
   - plain-language
+  - social-media
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - jessica-brown
   - katherine-spivey
+  - laura-larrimore
+  - rachel-delange
+  - riley-wilson
+  - robin-materese
+  - sara-eguren
+  - terry-lemons
 
 # YouTube ID
 youtube_id: hTjkSjkPP48
 
 # Primary Image (for social media)
 primary_image: "socialgov-winter-event-2020"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
 # Make it better ♥
 ---
