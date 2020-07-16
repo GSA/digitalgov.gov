@@ -51,15 +51,7 @@ You can expect to come away with tips for:
  2. working with individuals from other functions and perspectives; and
  3. creating opportunities that not only expand your network, but expand your thinking.
 
-## Presenters:
-
-As leaders, how do you reach out and connect with the right people to expand your professional network? A strong leader has a network with individuals from outside their technical skills or expertise. Once you have built your core network, the next step is to expand to individuals outside, such as finance, acquisition, human resources, and operations. Breaking into other silos can create a competitive advantage to move up.
-
-You can expect to come away with tips for:
-
- 1. strategies to expand your network;
- 2. working with individuals from other functions and perspectives; and
- 3. creating opportunities that not only expand your network, but expand your thinking.
+## Presenters: 
  
  **Moderator: Ravoyne "Ray" Payton, USDA**
 

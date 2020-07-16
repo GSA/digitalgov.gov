@@ -1,20 +1,48 @@
 ---
+# View this page at https://digital.gov/event/2019/07/american-tech-series-part-two-advancing
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: american-tech-series-part-two-advancing-usercentric-design-in-government
-title: 'American Tech Series, Part Two&#58; Advancing User-centric Design in Government'
-summary: 'In part two of this multi-part YouTube Live series, learn how User-centered design is a practice honed by the American tech industry'
-featured_image: 
-  uid: americantech
-  alt: 'American Tech logo'
-event_type: 
-  - youtube-live
-date: 2019-07-23 14:00:00 -0500
-end_date: 2019-07-23 14:15:00 -0500
-event_organizer: DigitalGov University
-host: PIF
+title: "American Tech Series, Part Two: Advancing User-centric Design in Government"
+deck: ""
+summary: "In part two of this multi-part YouTube Live series, learn how User-centered design is a practice honed by the American tech industry"
+host: "PIF"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/american-tech-series-part-two-advancing-user-centric-design-in-government-registration-63483436668
+captions: 
+
+# start date
+date: 2019-07-23 15:00:00 -0500
+
+# end date
+end_date: 2019-07-23 15:15:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - 18f
+  - pif
+  - user-centered-design
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - davar-ardalan
+  - kara-reinsel
+  - maria-dayton
+  - marietta-jelks
+
+# YouTube ID
 youtube_id: Hi9KWZhi0so
 
+# Primary Image (for social media)
+primary_image: "americantech"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
+
 [*View live captioning for this event*](https://www.captionedtext.com/client/event.aspx?EventID=4076484&CustomerID=321)
 
 

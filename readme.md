@@ -64,7 +64,7 @@ npm install gulp-cli -g
 ```
 
 To use Gulp, you must have [Node](https://nodejs.org/) and [NPM](https://www.npmjs.com) installed.
-We're currently using Node v10.16.3. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
+We're currently using Node v10.21.0. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
 
 NPM is package along with Node. Check your versions of these in your terminal command line by typing:
 ```
@@ -170,6 +170,7 @@ Images found in `content/images/inbox/` will be optimized and compressed and sen
 1. Read through [the recent releases](https://github.com/gohugoio/hugo/releases)
 2. Run `brew upgrade hugo` to upgrade your local copy ([docs](https://gohugo.io/getting-started/installing/#upgrade-hugo)).
 1. Set the version in the `.hugo-version` file. This is only used for telling Federalist which version of Hugo they should checkout and use.
+3. Update the version in `.circleci/config.yml to ensure that the same version of Hugo is being used for CI.
 
 ## Accessibility tests
 
@@ -187,6 +188,8 @@ To run a web accessibility test on digital.gov do the following:
 *Note*: Currently, this only runs accessiblity checks on the site home page as a Proof of Concept demonstration.
 
 Accessibility testing configuration is located in the .pa11yci file.
+
+To test the validity of API JSON files, run `npm run test` in the terminal on your local machine.  This will check the validity of the Hugo generated JSON files used for the API. Currently, it validates authors, images, and topics using the tool `jsonlint`. If an issue is found with the JSON, `jsonlint` will return a non-zero exit code causing CircleCI to fail. See the [wiki API page](https://github.com/GSA/digitalgov.gov/wiki/APIs) for fixing API issues. 
 
 
 ## Common Regex scripts

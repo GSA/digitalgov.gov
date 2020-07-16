@@ -1,19 +1,42 @@
 ---
+# View this page at https://digital.gov/event/2019/06/how-develop-an-agency-brand-voice
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: how-develop-an-agency-brand-voice-that-connects-with-customers-online
-title: 'How to Develop an Agency Brand Voice That Connects With Customers Online'
-summary: 'Come join the Plain Language community on the 12th of June and learn how to develop an agency brand voice!'
-featured_image: 
-  uid: plain-language
-  alt: ''
-event_type: 
-  - zoom
-date: 2019-06-12 14:00:00 -0500
-end_date: 2019-06-12 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Plain Language 
+title: "How to Develop an Agency Brand Voice That Connects With Customers Online"
+deck: ""
+summary: "Come join the Plain Language community on the 12th of June and learn how to develop an agency brand voice!"
+host: "Plain Language"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dont-use-that-tone-of-voice-with-me-how-to-develop-an-agency-brand-voice-registration-61151693361
+captions: 
+
+# start date
+date: 2019-06-12 15:00:00 -0500
+
+# end date
+end_date: 2019-06-12 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - plain-language
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - katherine-spivey
+  - leslie-oflahavan
+
+# YouTube ID
 youtube_id: Cmxv70Tn2hk
 
+# Primary Image (for social media)
+primary_image: "plain-language"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 [Read the event transcript](https://digital.gov/pdf/PLAIN-06122019-Transcript.pdf) (PDF, 84 KB, 12 pages) 

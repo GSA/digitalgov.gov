@@ -1,12 +1,12 @@
 ---
-# View this page at https://digital.gov/authors/mike-horton
+# View this page at https://digital.gov/authors/jeremiah-azurin
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: mike-horton
-display_name: "Mike Horton"
-first_name: "Mike"
-last_name: "Horton"
+slug: jeremiah-azurin
+display_name: "Jeremiah Azurin"
+first_name: "Jeremiah"
+last_name: "Azurin"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
@@ -15,16 +15,16 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Accessible Design & Development Advisor, Office of Government-wide Policy"
+bio: ""
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. General Services Administration"
+agency_full_name: ""
 
 # Agency Acronym [e.g., GSA]
-agency: "GSA"
+agency: ""
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""

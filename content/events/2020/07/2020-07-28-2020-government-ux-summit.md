@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2020/07/2020-government-ux-summit
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: 2020-government-ux-summit
-title: "2020 Government UX Summit"
+title: "2020 Government UX Summit: July 28, 29, and 30"
 deck: ""
 kicker: "User Experience"
 summary: "A remote event covering user experience (UX) methods, service design, and managing UX in the government."
@@ -39,6 +39,8 @@ authors:
   - john-pull
   - katherine-b-nammacher
   - margo-kabel
+  - maya-rhodan
+  - sarah-rigdon
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom

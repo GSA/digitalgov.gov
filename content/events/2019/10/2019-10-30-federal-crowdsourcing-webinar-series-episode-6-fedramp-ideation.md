@@ -1,28 +1,48 @@
 ---
+# View this page at https://digital.gov/event/2019/10/federal-crowdsourcing-webinar-series-episode-6
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation
-title: 'Federal Crowdsourcing Webinar Series Episode 6&#58; The FedRAMP Ideation'
-summary: 'Betsy Steele, of the Federal Risk and Authorization Management Program &#40;FedRAMP&#41; team, shares how a crowdsourcing initiative invited the larger cybersecurity community to help inform the next iteration of government’s cloud security authorization program&#46;'
-featured_image:
-  uid: challengegov-card-episode-6
-  alt: ''
-event_type:
-  - Zoom
-date: 2019-10-30 14:00:00 -0500
-end_date: 2019-10-30 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Challenge.gov
+title: "Federal Crowdsourcing Webinar Series, Episode 6: The FedRAMP Ideation"
+deck: ""
+summary: "Betsy Steele, of the Federal Risk and Authorization Management Program (FedRAMP) team, shares how a crowdsourcing initiative invited the larger cybersecurity community to help inform the next iteration of government’s cloud security authorization program."
+host: "Challenge.gov"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-6-registration-66229112057
+captions: 
+
+# start date
+date: 2019-10-30 15:00:00 -0500
+
+# end date
+end_date: 2019-10-30 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
   - crowdsourcing
   - fedramp
 
-aliases:
-  - /event/2019/10/08/federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation/
+# see all authors at https://digital.gov/authors
+authors: 
+  - bsteele
+  - tammy-white
 
+# YouTube ID
 youtube_id: bx1ANQtHNQY
 
+# Primary Image (for social media)
+primary_image: "challengegov-card-episode-6"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/2019/10/08/federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation/
+
+
+# Make it better ♥
 ---
 
 Government is finding its way to the cloud, using care and caution to protect its sensitive data while supporting current IT modernization efforts, a hallmark of the [President’s Management Agenda](https://www.whitehouse.gov/omb/management/pma/) (PMA).

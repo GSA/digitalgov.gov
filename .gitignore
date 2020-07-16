@@ -1,13 +1,13 @@
 _site/
 site/
 public/
+dist/
 content/images/_working/
 content/images/uploaded/
-themes/digital.gov/static/dist/
 themes/digital.gov/static/uswds/fonts/source-sans-pro/
 .sass-cache/
 .jekyll-metadata
-node_modules
+node_modules/
 .ruby-version
 .env
 .DS_Store
@@ -19,5 +19,4 @@ content/images/_inbox/Inclusive-Vision-Triangulate.png
 content/images/_inbox/Inclusive_Vision_Triangulate.png
 content/images/_inbox/Refine_Listen.png
 content/images/_inbox/Triangulate.png
-dist
 static/img/proxy/fedramp-logo-stamp.jpeg

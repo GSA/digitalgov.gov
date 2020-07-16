@@ -32,7 +32,7 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id: X8ogMVm0mUc
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -45,7 +45,7 @@ weight: 0
 
 Journey maps and other experience-mapping methods are valuable tools to help teams embrace the spirit of 21st Century Integrated Digital Experience Act by better understanding user and customer needs and addressing their whole experience. 
 
-As many people are adapting to remote work on distributed teams, we must adjust our methods for research. This talk will explore how to preserve the value and impact of mapping exercises, while adapting facilitation and collaboration methods for a virtual work environment. 
+As many people are adapting to remote work on distributed teams, we must adjust our methods for research. This talk explored how to preserve the value and impact of mapping exercises, while adapting facilitation and collaboration methods for a virtual work environment. 
 
 ## Speakers:
 
