@@ -8,8 +8,8 @@ deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about 
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
-registration_url: https://www.eventbrite.com/e/uswds-monthly-call-august-2020-registration-96976628707
-captions: https://www.captionedtext.com/client/event.aspx?EventID=4340589&CustomerID=321
+registration_url: https://www.eventbrite.com/e/uswds-monthly-call-the-design-system-and-ux-debt-tickets-113824638558
+captions: 
 
 # start date
 date: 2020-08-20 14:30:00 -0500
@@ -27,6 +27,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - dan-williams
+  - suran-de-silva
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform:
@@ -42,10 +43,11 @@ primary_image: "uswds-2-illio-feature-image"
 
 {{< img-right src="uswds-logo" >}}
 
+This month, Dan Williams, USWDS product lead, is joined by Suran De Silva, User Experience Product Manager at the IRS, in a discussion about UX debt and how it can impact the efficiency and quality of your products and services.  Together, they will cover what UX debt is, why it can be an issue, how to identify it, and tips to reduce UX debt in your work while using the design system.
+
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
 USWDS is a library of principles, guidance, and code to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
-
 
 ## About the USWDS
 [**The U.S. Web Design System**](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
