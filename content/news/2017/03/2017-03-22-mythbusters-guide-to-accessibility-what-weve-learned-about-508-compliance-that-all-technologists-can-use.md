@@ -64,29 +64,26 @@ For instance, consider the following table:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*a-vpzuV8bS9SRLCaj28xAg.png)
 
-To a sighted user, it’s obvious that the title “Overview By Tax Year” is related to the table. However, just by looking at the markup, a screenreader may not be able to draw the same conclusion:
+To a sighted user, it’s obvious that the title “Overview By Tax Year” is related to the table. However, just by looking at the markup, a screenreader may not be able to draw the same conclusion:  
 
-<pre><h3>
+`<h3>
   Overview By Tax Year
-</h3>
+</h3>`  
+`<table>`
 
-
-<table>
-  <!-- ... --></pre>
   
   
   <p>
-    To explicitly link the two, we use <code>&lt;a href="https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby" target="_blank" rel="nofollow noopener">aria-labelledby&lt;/a></code>:
+    To explicitly link the two, we use [aria-labelledby](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby):
   </p>
   
-  
-  <pre><h3 id="overview-by-tax-year-table-title">
+`
+<h3 id="overview-by-tax-year-table-title">
   Overview By Tax Year
 </h3>
-
-
 <table aria-labelledby="overview-by-tax-year-table-title">
-  <!-- ... --></pre>
+`
+
   
   
   <p>
