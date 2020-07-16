@@ -52,7 +52,6 @@ primary_image: "open-innovation-summit-lockup"
 weight: 0
 
 # Make it better ♥
----
 
 ---
 
