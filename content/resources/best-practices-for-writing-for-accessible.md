@@ -31,8 +31,8 @@ When developing accessible content, authors need to think about how users will a
 
 *DO* 
 
-1. Think about the image’s strategic purpose. Ask yourself, “Is this visual pertinent to the overall purpose of the presentation, email, document, or site?” 
-2. Add alt-text to describe your images. 
+1. Think about the image's strategic purpose. Ask yourself, "Is this visual pertinent to the overall purpose of the presentation, email, document, or site?" 
+2. Add alt text to describe your images. 
 
 *DON'T*
 
@@ -42,7 +42,7 @@ When developing accessible content, authors need to think about how users will a
 
 *DO*
 
-1. Use header’s thoughtfully. They identify significant prompts for readers. 
+1. Use headers thoughtfully. They identify significant prompts for readers. 
 
 *DON'T*
 
@@ -56,18 +56,18 @@ When developing accessible content, authors need to think about how users will a
 
 *DON'T*
 
-1. Share screenshots of text. Screen readers will process these as photos and unable to read the text. 
+1. Share screenshots of text. Screen readers will process these as photos and be unable to read the text. 
 
 ## URLs
 
 *DO*
 
 1. Offer descriptive links with context of what is being shared. 
-2. Use visual cues, such as changing the link’s colors and underlining. 
+2. Use visual cues, such as changing the link's colors and underlining. 
 
 *DON'T*
 
-1. Use language, such as “click here” or “link” when referencing the URL. 
+1. Use language, such as “click here” or “link,” when referencing the URL. 
 2. List the full URL when inserting the link into content. 
 
 ## Animations
@@ -86,7 +86,7 @@ When developing accessible content, authors need to think about how users will a
 *DO*
 
 1. Comply to color contrast guidelines. 
-2. Consider the USWDS [color pairings](https://designsystem.digital.gov/design-tokens/color/overview/#color-and-accessibility) when building a website. 
+2. Consider the U.S. Web Design System (USWDS) [color pairings](https://designsystem.digital.gov/design-tokens/color/overview/#color-and-accessibility) when building a website. 
 
 *DON'T*
 
@@ -109,4 +109,4 @@ Thinking about accessibility goes well beyond simply making sure content is read
 
 As content creators, we need to think about the purpose and mission, not just of individual components of a digital content, but how these components fit together to optimize the user experience for everyone, especially for those with accessible needs. 
 
-For more information on how you can create accessible web development, watch this [presentation](https://digital.gov/event/2020/03/20/writing-for-accessible-web/) from 18F content strategist Ryan Johnson. 
+For more information on how you can create accessible web development, watch this [presentation](https://digital.gov/event/2020/03/20/writing-for-accessible-web/) from 18F Content Strategist, Ryan Johnson. 
