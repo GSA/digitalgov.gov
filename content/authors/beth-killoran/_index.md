@@ -1,21 +1,21 @@
 ---
-# View this page at https://digital.gov/authors/michael-horton
+# View this page at https://digital.gov/authors/beth-killoran
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: michael-horton
-display_name: "Michael Horton"
-first_name: "Michael"
-last_name: "Horton"
+slug: beth-killoran
+display_name: "Beth Killoran"
+first_name: "Beth"
+last_name: "Killoran"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
-email: michael.horton@gsa.gov
+# Email — If you include an email address, it will be displayed on your profile page
+email: 
 
 # Bio — keep it under 50 words
-bio: "Accessible Design & Development Advisor, Office of Government-wide Policy"
+bio: "Ms. Beth Killoran currently serves as the Deputy Chief Information Officer for the U.S. General Services Administration (GSA). Prior to joining GSA, Beth served as the CIO for the Department of Health and Human Services."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
@@ -30,11 +30,11 @@ agency: "GSA"
 location: ""
 
 # A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
-github: "michaelhortongsa"
+github: ""
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: "github"
+profile_photo: ""
 
 # [e.g., Digital_Gov]
 twitter: ""
@@ -42,10 +42,6 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
- - mike-horton
 
 # Make it better ♥
 ---

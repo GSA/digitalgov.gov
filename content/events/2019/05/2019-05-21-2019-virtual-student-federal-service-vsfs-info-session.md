@@ -1,19 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2019/05/2019-virtual-student-federal-service-vsfs
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: 2019-virtual-student-federal-service-vsfs-info-session
-title: '2019 Virtual Student Federal Service &#40;VSFS&#41; Info Session'
-summary: 'An overview of how your agency can participate in this year’s VSFS program&#46;'
-featured_image:
-  uid: vsfs-card
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-05-21 12:00:00 -0500
-end_date: 2019-05-21 12:30:00 -0500
-event_organizer: DigitalGov University
-host: DigitalGov University
+title: "2019 Virtual Student Federal Service (VSFS) Info Session"
+deck: ""
+summary: "An overview of how your agency can participate in this year’s VSFS program."
+host: "DigitalGov University"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/2019-virtual-student-federal-service-info-session-registration-62009088854
+captions: 
+
+# start date
+date: 2019-05-21 13:00:00 -0500
+
+# end date
+end_date: 2019-05-21 13:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - social-media
+  - user-experience
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - bridget-roddy
+  - jeremiah-azurin
+  - stefano-rivolta
+  - tristan-williamson
+
+# YouTube ID
 youtube_id: 7LY8A2lMU8I
 
+# Primary Image (for social media)
+primary_image: "vsfs-card"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _[View Live Captioning for this Event](https://www.captionedtext.com/client/event.aspx?EventID=4039820&CustomerID=321)_

@@ -1,24 +1,42 @@
 ---
+# View this page at https://digital.gov/event/2019/11/dap-learning-series-site-analysis-live
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-site-analysis-live
-kicker: Learning Series
-title: 'DAP Learning Series&#58; Site Analysis, Live!'
-summary: 'Join us for a live demonstration of a real site analysis - from defining website mission, goals, and KPIs, to pulling reporting to better understand site performance&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - Zoom
+title: "DAP Learning Series: Site Analysis, Live!"
+deck: ""
+kicker: "Learning Series"
+summary: "Join us for a live demonstration of a real site analysis - from defining website mission, goals, and KPIs, to pulling reporting to better understand site performance."
+host: "DAP"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
 date: 2019-11-20 13:00:00 -0500
+
+# end date
 end_date: 2019-11-20 14:00:00 -0500
-event_organizer: DigitalGov University
-host: DAP
-youtube_id: 3smZz7PduK8
-topics:
+
+# see all topics at https://digital.gov/topics
+topics: 
   - metrics
   - analytics
   - dap
   - digital-analytics-program
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - freddie-blicher
+
+# YouTube ID
+youtube_id: 3smZz7PduK8
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 [_View the slides_](https://digital.gov/pdf/DAPLearningSeries.pdf) (PDF, 5.4 MB, 27 pages)
