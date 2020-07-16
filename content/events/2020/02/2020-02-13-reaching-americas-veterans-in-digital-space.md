@@ -21,11 +21,24 @@ topics:
   - social-media
   - us-department-of-veterans-affairs
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - bronwyn-emmet
+  - dominique-ramirez
+  - gabrielle-perret
+  - jason-davis
+  - tanner-iskra
+  - tim-hudak
+
 # YouTube ID
 youtube_id: HZljlUjJBmc
 
-# Make it better ♥
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
+# Make it better ♥
 ---
 
 Hear from the experts at the Department of Veterans Affairs about how they reach and engage with America’s veterans through digital platforms. They cover video, social media, email, text, and more.
