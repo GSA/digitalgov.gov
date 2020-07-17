@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "local-build": "gulp build-assets && gulp watch",
-    "hugo": "hugo serve",
+    "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve",
     "federalist": "export NODE_ENV=production && gulp build-assets",
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
