@@ -61,3 +61,6 @@ workflows:
       - process:
           requires:
             - test
+          filters:
+            branches:
+              ignore: main
