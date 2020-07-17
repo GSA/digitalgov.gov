@@ -44,8 +44,8 @@ Short URLs have become an essential part of social media communications. They ma
 
 ## Quick Facts
 
-  * The public can click on Go.USA.gov URLs knowing they will lead to official U.S. government information.
-  * Go.USA.gov tracks the number of clicks each shortened URL receives, allowing users to measure the impact of their outreach.
-  * Go.USA.gov is open source and was developed in Drupal. If you would like to contribute to future enhancements, please [contact us](mailto:go.usa.gov@gsa.gov).
+* The public can click on Go.USA.gov URLs knowing they will lead to official U.S. government information.
+* Go.USA.gov tracks the number of clicks each shortened URL receives, allowing users to measure the impact of their outreach.
+* Go.USA.gov is open source and was developed in Drupal. If you would like to contribute to future enhancements, please [contact us](mailto:go.usa.gov@gsa.gov).
 
-If you have questions about USA.gov short URLs, please [send us an e–mail](mailto:go.usa.gov@gsa.gov). 
+If you have questions about USA.gov short URLs, please [send us an e–mail](mailto:go.usa.gov@gsa.gov).

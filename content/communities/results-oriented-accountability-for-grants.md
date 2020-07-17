@@ -24,8 +24,8 @@ Are you interested in rebalancing grants compliance efforts with a focus on resu
 
 If so, join our community!
 
- - Federal members: to join, use your **.gov** or **.mil** email address to [email grantsfed-subscribe-request@listserv.gsa.gov](mailto:grantsfed-subscribe-request@listserv.gsa.gov?subject=Federal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
- - Non-federal members: to join, [email grantscommunity-subscribe-request@listserv.gsa.gov](mailto:grantscommunity-subscribe-request@listserv.gsa.gov?subject=Non%2DFederal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
+- Federal members: to join, use your **.gov** or **.mil** email address to [email grantsfed-subscribe-request@listserv.gsa.gov](mailto:grantsfed-subscribe-request@listserv.gsa.gov?subject=Federal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
+- Non-federal members: to join, [email grantscommunity-subscribe-request@listserv.gsa.gov](mailto:grantscommunity-subscribe-request@listserv.gsa.gov?subject=Non%2DFederal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
 
 ## Who we are
 

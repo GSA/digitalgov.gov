@@ -25,6 +25,7 @@ community_list:
 The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.
 
 ### Join
+
 We host two listservs. One is open to the public/civil society for the purposes of collaboration and discussion as well as coordination the quarterly government & civil society gatherings. The other is a government-only listserv and is primarily to disseminate government specific information on timelines and deadlines for the NAP and offer support as agencies work to achieve their commitments.
 
 - Public: (please subscribe if you are interested in collaboration with federal and civil society OpenGov partners) Join here: https://groups.google.com/forum/#!forum/us-open-government
@@ -40,9 +41,11 @@ The goal of these groups is to provide a safe and open arena for US-focused coll
 - The NAP Commitments
 
 ### Who we are
+
 The OpenGov community consists of government employees and civil society members working in the the field of Open Government. We work on the US NAP share best practices, and advocate for opening government information.  The goal of the meetings is to discuss the NAP commitments, to connect with OMB to support them through that process, and work collaboratively to meet the milestones over the 2 year commitment cycle.
 
 ### What we do
+
 Based on the Open Government Memo (M 10-06) we:
 
 - Publish government information online
@@ -51,6 +54,7 @@ Based on the Open Government Memo (M 10-06) we:
 - Create and enable framework for Open Government
 
 ### Key Resources
-*   [M-09-12, President’s Memorandum on Transparency and Open Government – Interagency Collaboration](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_fy2009/m09-12.pdf) (1.1 MB PDF, 3 pages)
-*   [M 10-06, Open Government Directive](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf) (82 kb PDF, 11 pages)
-*   [GSA’s OpenGov Plan](https://www.gsa.gov/portal/category/26751)
+
+* [M-09-12, President’s Memorandum on Transparency and Open Government – Interagency Collaboration](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_fy2009/m09-12.pdf) (1.1 MB PDF, 3 pages)
+* [M 10-06, Open Government Directive](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf) (82 kb PDF, 11 pages)
+* [GSA’s OpenGov Plan](https://www.gsa.gov/portal/category/26751)

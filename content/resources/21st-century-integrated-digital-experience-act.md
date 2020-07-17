@@ -29,7 +29,6 @@ primary_image: "21st-century-idea-resource-card"
 
 The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
 
-
 ## Why Is It Important?
 
 In 2019, there were over [14 billion sessions and 38 billion page views](https://analytics.usa.gov/) on federal websites. Customer expectations are being ratcheted up by the private sector. Government services should be delivered in ways the public now demands and expects—quick, easy, secure, and accessible.
@@ -37,7 +36,6 @@ In 2019, there were over [14 billion sessions and 38 billion page views](https:/
 We can, and should, do more.
 
 **21st Century IDEA is a significant opportunity** to improve the lives of the public by transforming how government uses technology. It is a way to make this change happen, and it provides a clear, practical path forward.
-
 
 ## What’s in the Law?
 
@@ -180,6 +178,6 @@ Section 3 of **21st Century IDEA** requires executive agencies to report their p
 
 Refer to [Public Law 115–336](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf) (PDF, 315 kb, 4 pages, December 2018) for more detailed information on the deadlines and reporting requirements in 21st Century IDEA.
 
-## More Information 
+## More Information
 
-Visit our topic page for [21st Century IDEA-related resources, news, and training events](https://digital.gov/topics/21st-century-idea/). 
+Visit our topic page for [21st Century IDEA-related resources, news, and training events](https://digital.gov/topics/21st-century-idea/).

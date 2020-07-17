@@ -75,9 +75,9 @@ What might first come to mind are people who have mobility restrictions, tremors
 
 It’s important to understand that everyone experiences some form of disability. As an example, imagine that three people are trying to watch the same video, but each person has a different type of disability:
 
--   Mark lost most of his hearing after a severe illness. He has a **permanent disability**.
--   Jesse’s ears are ringing after a concert, and they are having trouble hearing a video. They have a **temporary disability**.
--   Sam is struggling to listen to a video in a loud office. She has a **situational disability**.
+- Mark lost most of his hearing after a severe illness. He has a **permanent disability**.
+- Jesse’s ears are ringing after a concert, and they are having trouble hearing a video. They have a **temporary disability**.
+- Sam is struggling to listen to a video in a loud office. She has a **situational disability**.
 
 The fix that benefits everyone in this circumstance might be to apply a captioning service to the video. That would directly help Mark who has a permanent disability, but also benefit Jesse and Sam who have temporary and situational disabilities. This is known as the “[Curb-cut effect](https://medium.com/@mosaicofminds/the-curb-cut-effect-how-making-public-spaces-accessible-to-people-with-disabilities-helps-everyone-d69f24c58785).” When we design for people with permanent disabilities, folks with temporary and situational limitations can also benefit.
 
@@ -103,7 +103,6 @@ Someone with an arm in a cast will have difficulty typing on their keyboard, or,
 
 Examples include a new parent holding a baby, someone trying to open a door while holding one or multiple items, or if calling into meeting where they have a visual presentation.
 
-
 ### Cognitive, Learning, and Neurological Disabilities
 
 It’s also good to remember that there are disabilities that are not physical that have an affect on our work, like anxiety, dyslexia, and autism. These [posters from the U.K. government](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) illustrate the do’s and don'ts around about designing for these types of disabilities.
@@ -124,9 +123,9 @@ Developing a strong understanding of the people who use your products is one of 
 
 There are lots of accessibility problems we can catch before we even put our products in front of people with disabilities. These automated tools are not a replacement for building empathy, they are just checks to ensure you’re building your product with the right code.
 
--   **Code Linting** — Linting is the process of running a program that will analyse code for potential errors and prevent basic bugs from ever going live.
--   **Automated Testing** — Catch anything that would break the app.
--   **Manual Testing** — Verify that the experience is right by running additional scanning tools, walking through the common scenarios that your users go through, then add assistive tech to that flow.
+- **Code Linting** — Linting is the process of running a program that will analyse code for potential errors and prevent basic bugs from ever going live.
+- **Automated Testing** — Catch anything that would break the app.
+- **Manual Testing** — Verify that the experience is right by running additional scanning tools, walking through the common scenarios that your users go through, then add assistive tech to that flow.
 
 With good testing practices, we’ll fix obvious bugs before they ever reach an end user. This is just as true with accessibility as it is for everything else.
 
@@ -138,10 +137,10 @@ Establish accessibility requirements early in your project lifecycle, ensuring e
 
 Here are some tasks for each member of your team:
 
--   **Product managers:** Prioritize accessibility during project phases
--   **Designers or researchers:** Create user-friendly solutions that have proper labels, visual contrast, and is constantly tested
--   **Engineering:** Set up basic tests using standard components, and implement labels and keyboard navigation behavior
--   **Acquisitions:** Make sure vendor tools are accessible
+- **Product managers:** Prioritize accessibility during project phases
+- **Designers or researchers:** Create user-friendly solutions that have proper labels, visual contrast, and is constantly tested
+- **Engineering:** Set up basic tests using standard components, and implement labels and keyboard navigation behavior
+- **Acquisitions:** Make sure vendor tools are accessible
 
 ### 2. **Be mindful of how to be more inclusive when working with others**
 
@@ -149,9 +148,9 @@ Create an environment where folks feel comfortable letting you know what their p
 
 Here are some practices for being more inclusive with those you work with, many of which are an extension of the courtesy that most people automatically practice.
 
--  **Create presentations or other documents that are accessible:** Making internal documents accessible helps your co-workers and partners (and is required, too!)
--  **Be open to other ways of working if the tools aren’t working for some of your coworkers:** If one tool isn’t working for some of your coworkers, switch to another.
--  **Make sure everyone can participate:** Make use of the [Federal Relay captioning services](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/federal-relay-fedrelay) to help make your meetings and work accessible to those you work with. (We use [Relay Conference Captioning](https://www.sprintrelay.com/federal) for most hosted meetings)
+- **Create presentations or other documents that are accessible:** Making internal documents accessible helps your co-workers and partners (and is required, too!)
+- **Be open to other ways of working if the tools aren’t working for some of your coworkers:** If one tool isn’t working for some of your coworkers, switch to another.
+- **Make sure everyone can participate:** Make use of the [Federal Relay captioning services](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/federal-relay-fedrelay) to help make your meetings and work accessible to those you work with. (We use [Relay Conference Captioning](https://www.sprintrelay.com/federal) for most hosted meetings)
 
 Federal Relay services are free for federal agencies to use through a contract agreement. The one that we use most often for hosting meetings is “[Relay Conference Captioning](https://www.sprintrelay.com/federal) (RCC)”
 
@@ -161,21 +160,21 @@ A screen reader is a form of assistive technology used by folks who are blind or
 
 However, many people are not familiar with screen readers, nor have they experienced their own products through a screen reader. Learning how to use this tool can be intimidating for people who have never used one before, but luckily free versions are included as part of most operating systems with tutorials available for you to try.
 
--   [How to use VoiceOver screen reader on a Mac (macOS Catalina) »](https://help.apple.com/voiceover/mac/10.15/)
--   [How to use Narrator screen reader on a PC (Windows 10) »](https://support.microsoft.com/en-us/help/14234/windows-hear-text-read-aloud-with-narrator)
--   [How to use Narrator screen reader on a PC (Windows 7 and 8.1) »](https://support.microsoft.com/en-us/help/14234)
+- [How to use VoiceOver screen reader on a Mac (macOS Catalina) »](https://help.apple.com/voiceover/mac/10.15/)
+- [How to use Narrator screen reader on a PC (Windows 10) »](https://support.microsoft.com/en-us/help/14234/windows-hear-text-read-aloud-with-narrator)
+- [How to use Narrator screen reader on a PC (Windows 7 and 8.1) »](https://support.microsoft.com/en-us/help/14234)
 
 Note that the most popular screen readers are NVDA and JAWS (with VoiceOver coming in third) according to a [2019 WebAIM survey](https://webaim.org/projects/screenreadersurvey8/), but you’ll get a basic overview of interaction patterns using the programs that come with your computer or mobile phone.
 
 If you are able to test screen readers with multiple browsers, the following is a list of what AT works best with which browser:
 
--   NVDA and Mozilla Firefox
--   JAWS and Microsoft Internet Explorer
--   VoiceOver (iOS) and Safari (iOS)
--   Android TalkBack and Google Chrome
--   ChromeVox and Google Chrome (desktop)
--   Windows 10 Narrator and Edge
--   VoiceOver (Mac) and Safari (Mac)
+- NVDA and Mozilla Firefox
+- JAWS and Microsoft Internet Explorer
+- VoiceOver (iOS) and Safari (iOS)
+- Android TalkBack and Google Chrome
+- ChromeVox and Google Chrome (desktop)
+- Windows 10 Narrator and Edge
+- VoiceOver (Mac) and Safari (Mac)
 
 ## Additional Resources
 

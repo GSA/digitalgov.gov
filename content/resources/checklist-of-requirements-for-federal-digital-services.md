@@ -23,8 +23,8 @@ topics:
 You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations.
 {{< /note >}}
 
-
 ## Overarching Policies
+
 These high-level policies cover basic requirements for all websites and digital services.
 
 * [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
@@ -37,7 +37,6 @@ These high-level policies cover basic requirements for all websites and digital 
 * See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
 
 <p class="more"><a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA <i class="fas fa-arrow-alt-circle-right"></i></a></p>
-
 
 ## Accessibility / Section 508
 

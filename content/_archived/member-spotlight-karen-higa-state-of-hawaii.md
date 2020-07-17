@@ -17,10 +17,10 @@ What I love about my job is the opportunity to be involved in exciting projects,
 
 The objective of the Open Government Program is to make government more transparent, participatory, and collaborative; and to better serve the citizens of Hawaii online instead of waiting in line. We have several projects in the works:
 
-  * **Website Modernization** &#8211; Making government more accessible by following a user-centered design process and making it easier for citizens to find the information they’re looking for.
-  * **Open Data / Dashboards** &#8211; By sharing our data via [data.hawaii.gov](http://data.hawaii.gov/) in an open and transparent means, we empower our citizens, ourselves, and our customers to access information anywhere, anytime.
-  * **Mobile Apps** &#8211; Developing mobile applications for departments to meet the anticipated demands from residents to access government information and services on their mobile devices
-  * **Statewide Intranet** – Providing a collaborative area for users within the State’s organization to communicate, find information, and deploy applications to support business operations.
+* **Website Modernization** &#8211; Making government more accessible by following a user-centered design process and making it easier for citizens to find the information they’re looking for.
+* **Open Data / Dashboards** &#8211; By sharing our data via [data.hawaii.gov](http://data.hawaii.gov/) in an open and transparent means, we empower our citizens, ourselves, and our customers to access information anywhere, anytime.
+* **Mobile Apps** &#8211; Developing mobile applications for departments to meet the anticipated demands from residents to access government information and services on their mobile devices
+* **Statewide Intranet** – Providing a collaborative area for users within the State’s organization to communicate, find information, and deploy applications to support business operations.
 
 ### Please tell us about a recent success you&#8217;ve had.
 

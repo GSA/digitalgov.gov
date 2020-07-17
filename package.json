@@ -7,10 +7,11 @@
     "local-build": "gulp build-assets && gulp watch",
     "hugo": "hugo serve",
     "federalist": "export NODE_ENV=production && gulp build-assets",
+    "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
+    "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
+    "lint": "hugo && run-p lint:*",
     "start": "npm-run-all --parallel local-build hugo",
-    "test:pa11y": "pa11y-ci --config .pa11yci",
-    "test:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
-    "test": "hugo && npm run test:json"
+    "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "directories": {
     "doc": "docs"
@@ -59,6 +60,7 @@
     "gulp-util": "^3.0.8",
     "image-size": "^0.8.3",
     "jsonlint": "^1.6.3",
+    "markdownlint-cli": "^0.23.2",
     "postcss": "^7.0.27",
     "vinyl-paths": "^3.0.1"
   }

@@ -14,8 +14,8 @@ And we do that by providing people in the federal government with the tools, met
 
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
-
 {{< box >}}
+
 ## Our Guiding Principles
 
 ### 1. Elevate digital literacy and understanding
@@ -44,7 +44,6 @@ We do all of our work in the open and strive to organize our work in ways that a
 
 {{< /box >}}
 
-
 **What our readers need:**
 
 - Tools and Resources
@@ -53,8 +52,8 @@ We do all of our work in the open and strive to organize our work in ways that a
 
 Learn more about [what our readers need »]({{< ref "/about/contribute.md#what-our-readers-need">}})
 
-
 ## Our Team
+
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
 
 **Digital.gov:** Sara Cope, Jeremy Zilar, Toni Bonitto <br/>
