@@ -47,8 +47,7 @@ jobs:
             git config user.email "digitalgov@gsa.gov"
             git config user.name "CircleCI"
             git add content/images/_inbox data/images static/img/proxy
-            git commit -m "Images processed [skip ci]" || echo "Skipping..."
-            git push --set-upstream origin $CIRCLE_BRANCH
+            git commit -m "Images processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
 
 workflows:
   build_test_process:
@@ -62,3 +61,6 @@ workflows:
       - process:
           requires:
             - test
+          filters:
+            branches:
+              ignore: main
