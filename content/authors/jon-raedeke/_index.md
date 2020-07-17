@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: john-raedeke
+slug: jon-raedeke
 display_name: "Jon Raedeke "
 first_name: "Jon"
 last_name: "Raedeke "
@@ -43,5 +43,7 @@ instagram: ""
 linkedin: ""
 youtube: ""
 
+aliases:
+ - john-raedeke
 # Make it better ♥
 ---
