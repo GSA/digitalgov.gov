@@ -16,10 +16,6 @@ topics:
 
 {{< legacy-img src="2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}
 
-<p style="text-align: right">
-  <a class="button" style="color: #000000" href="{{< tmp "events/u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day.md" >}}">VISIT EVENT PAGE</a> <a class="button" style="color: #000000" href="https://attendee.gotowebinar.com/register/6671101352261489921">REGISTER NOW</a>
-</p>
-
 The U.S. Census Bureau this week will showcase some of the most innovative data-driven apps soon to spark change in cities from coast to coast during its first-ever [National Demo Day]({{< tmp "events/u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day.md" >}}).
 
 On Thursday, Aug. 13, from 2 to 3 p.m. EST, five teams that participated in a recent crowdsourcing challenge will demonstrate their use of open data to address critical issues within their communities. The event marks the culmination of the [National CitySDK Open Data Challenge](https://www.challenge.gov/challenge/city-software-development-kit-sdk-data-solutions-challenge/), launched back in June using [Challenge.gov](https://www.challenge.gov/list/), the federal government&#8217;s free platform for running challenges and prize competitions to spur innovation.
