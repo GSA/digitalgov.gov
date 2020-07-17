@@ -45,10 +45,11 @@ It’s always nice to hear from friends in the government analytics world. Join 
 
 ## About the speakers
 
-:canada:**Nicolas Pjontek** is the Manager of the [Canada.ca](https://www.canada.ca/) Analytics team at Service Canada (Government of Canada).
-:us:**Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), at the General Services Administration (GSA).
+:canada: **Nicolas Pjontek** is the Manager of the [Canada.ca](https://www.canada.ca/) Analytics team at Service Canada (Government of Canada).  
 
-:us:**Freddie Blicher** supports the Digital Analytics Program as an analyst and teaches courses in analytics across the D.C. area.
+:us: **Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), at the General Services Administration (GSA).
+
+:us: **Freddie Blicher** supports the Digital Analytics Program as an analyst and teaches courses in analytics across the D.C. area.
 
 ---
 
