@@ -17,7 +17,7 @@ topics:
 ---
 
 <p>
-  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/aids_ss.jpg">{{< legacy-img src="2013/12/aids_ss.jpg" alt="Home Screen of AIDS.gov's responsively designed web site on a smartphone." >}}</a>Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many <a href="FIND?s=responsive+design.md)>agencies have implemented it </a>and many others are exploring this approach to Mobile Gov.
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/aids_ss.jpg">{{< legacy-img src="2013/12/aids_ss.jpg" alt="Home Screen of AIDS.gov's responsively designed web site on a smartphone." >}}</a>Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many agencies have implemented it and many others are exploring this approach to Mobile Gov.
 </p>
 
 <p>
