@@ -17,20 +17,25 @@ date: 2020-02-27 14:30:00 -0500
 end_date: 2020-02-27 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - multilingual
-  - user-centered-design
   - research
-
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform:
+  - user-centered-design
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
+  - kathleen-kephart
   - lgodfrey
+  - mikelyn-meyers
+  - patricia-goerman
 
 # YouTube ID
 youtube_id: BxO4kS9rdF0
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
 # Make it better ♥
 
@@ -50,12 +55,12 @@ We will review the intricacies of multilingual survey design, give an overview o
 
 ---
 
-### Survey Translation Resources
+## Survey Translation Resources
 - [European Social Survey guidelines](http://www.europeansocialsurvey.org/docs/round6/methods/ESS6_translation_guidelines.pdf)
 - [U.S. Census Bureau translation guidelines](https://www.census.gov/srd/papers/pdf/rsm2005-06.pdf)
 - [Cross cultural survey guidelines website](http://www.ccsg.isr.umich.edu/translation.cfm)
 
-### Multilingual Pre-testing Best Practice Resources
+## Multilingual Pre-testing Best Practice Resources
 - [Cross-cultural survey guidelines](http://www.ccsg.isr.umich.edu/pretesting.cfm)
 - [International Workshop on Comparative Survey Design and Implementation](http://www.csdiworkshop.org/)
 - [Q-bank database, hosted by National Center for Health Statistics](http://www.cdc.gov/QBANK/Home.aspx/)

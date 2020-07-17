@@ -50,23 +50,23 @@ The U.S. Digital Registry only includes accounts that represent official U.S. go
 
 More than 80 apps currently have amended Terms of Service for official government use. This list will update and expand in future iterations based on need and capability:
 
-  * Facebook
-  * Flickr
-  * Github
-  * Google+
-  * IdeaScale
-  * Instagram
-  * LinkedIn
-  * Pinterest
-  * Scribd
-  * Slideshare
-  * Socrata
-  * Storify
-  * Tumblr
-  * Twitter
-  * Uservoice
-  * Ustream
-  * YouTube
+* Facebook
+* Flickr
+* Github
+* Google+
+* IdeaScale
+* Instagram
+* LinkedIn
+* Pinterest
+* Scribd
+* Slideshare
+* Socrata
+* Storify
+* Tumblr
+* Twitter
+* Uservoice
+* Ustream
+* YouTube
 
 ## Feedback
 

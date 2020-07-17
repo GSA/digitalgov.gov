@@ -19,11 +19,11 @@ The use of social media may create Federal records that must be captured and man
 
 ## Related Links
 
-  *   * [NARA guidance for implementing Section 207(e) of the E-Gov Act](http://www.archives.gov/records-mgmt/bulletins/2006/2006-02.html)
-      * [NARA guidance on managing web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
-      * [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
-      * [E-Government Act of 2002](http://www.archives.gov/about/laws/egov-act-section-207.html) (Section 207)
+    * * [NARA guidance for implementing Section 207(e) of the E-Gov Act](http://www.archives.gov/records-mgmt/bulletins/2006/2006-02.html)
+    * [NARA guidance on managing web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
+    * [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
+    * [E-Government Act of 2002](http://www.archives.gov/about/laws/egov-act-section-207.html) (Section 207)
 
 * * *
 
-See more [DigitalGov Resources]({{< ref "/resources" >}}) 
+See more [DigitalGov Resources]({{< ref "/resources" >}})

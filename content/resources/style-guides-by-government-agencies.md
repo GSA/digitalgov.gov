@@ -83,7 +83,7 @@ This page is a collection of style guides created by government agencies.  You c
 
 - [Program Operational Manual for Notice Standards](https://secure.ssa.gov/apps10/poms.nsf/lnx/0900610000)
 
-* * *
+---
 
 ## Other Writing Resources
 

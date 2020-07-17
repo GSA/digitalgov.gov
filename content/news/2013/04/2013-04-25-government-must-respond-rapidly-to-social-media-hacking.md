@@ -13,15 +13,15 @@ topics:
   - Twitter
 ---
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Safe-cracker.jpg">{{< legacy-img src="2013/12/Safe-cracker.jpg" alt="Image of a safe on a mobile phone" >}}</a>
 </p>
 
-<p dir="ltr">
+<p>
   [<strong>Editor&#8217;s note:</strong> <em>Please watch the Jan. 15 , 2015, webinar on<a href="https://www.youtube.com/watch?v=tesgduqeyjI&authuser=0"> How Government Can Prepare for and Respond to Social Media Hacks.</a> on our Youtube channel</em>]
 </p>
 
-<p dir="ltr">
+<p>
   The hacking of an Associated Press news account on Twitter this week, <a href="http://www.nextgov.com/mobile/2013/04/how-twitter-accounts-apsget-hacked/62732/?oref=ng-HPriver" target="_blank">and its fallout</a>, underscored the need for agencies to prepare for similar obstacles. Especially in public service, misinformation from rogue accounts can create damaging impact. Following these steps can help you mitigate the risk of not only rogue posts from your own account, but also respond to rogue posts from outside accounts that could harm your mission.
 </p>
 
@@ -39,13 +39,13 @@ Twitter’s website has<a href="https://support.twitter.com/articles/76036-keepi
   * Never give your username and password out to untrusted third parties, especially those promising to get you followers or make you money.
   * Make sure your computer and operating system is up-to-date with the most recent patches, upgrades, and anti-virus software.
 
-<p dir="ltr">
+<p>
   The bottom line is to use the same common sense you use elsewhere.
 </p>
 
  **Repairing Your Account After Hacking**
 
-<p dir="ltr">
+<p>
   Let’s say that the damage is already done and you’ve lost control of your Twitter account &#8212; what then? If you follow these steps, you can minimize the trouble caused and get your mission back on track quickly.
 </p>
 
@@ -55,11 +55,11 @@ Twitter’s website has<a href="https://support.twitter.com/articles/76036-keepi
 >   4. **Alert your followers to hacking**: If you don’t have access to your account yet, use other accounts to alert your community that a breach occurred. Chances are if rogue tweets are sent to your community they will already suspect something is wrong and this will help prevent the spread of false information. Make sure this is sent within four minutes of the initial breach, at most, and that your strategies and policies allow you to respond quickly when it counts.
 >   5. **Dispel rumors**: Once your account is regained, make a record of the rogue tweets, delete them from your stream, and communicate to your community what happened. Yours won’t be the first account hacked, but citizens rely on you to handle it best.
 
-<p dir="ltr">
+<p>
   <strong>Responding to Rogue Tweets from a Hacked Account</strong>
 </p>
 
-<p dir="ltr">
+<p>
   Sometimes the best preparation can’t protect you from misinformation when someone else’s hacked account is spreading misinformation about your agency. Just like when repairing your own account, time is of the essence and citizens need you ready to dispel rumors.
 </p>
 

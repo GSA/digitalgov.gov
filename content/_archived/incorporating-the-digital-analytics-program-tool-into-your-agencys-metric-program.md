@@ -28,9 +28,9 @@ Which solution you choose will depend on your Web analytics requirements and you
 
 Web analytics programs collect data through logfile analysis or page tagging. Because of the technologies and methods used to collect data, measurements between the two can be very different. Page tagging provides more accurate data about human activity on websites, so it’s more useful for business analysis. Logfile analysis tracks all traffic (bots, spiders, and visitors not running JavaScript) and thus provides a very granular view of site metrics. Wikipedia provides a useful [overview of the two collection methods](http://en.wikipedia.org/wiki/Web_analytics). To determine if your website needs both collection methods, ask:  “How do I currently use our Web analytics data?”
 
-  * Do I primarily run basic traffic and usage reports and analysis (that is, high-level business analysis, such as website visits, page views, visitor demographics, etc.)?
-  * Do I rely heavily on my server-side metrics, such as website/page availability (uptime), actual usage of podcasts or other features that belong to the agency, but are stored or hosted on other/partner websites (for example, iTunes)?
-  * Do I use logfile mining and transactional data to measure how much our Web servers are hit not just by human traffic, but also bots, search engine spiders, and visits from visitors who are not running JavaScript?
+* Do I primarily run basic traffic and usage reports and analysis (that is, high-level business analysis, such as website visits, page views, visitor demographics, etc.)?
+* Do I rely heavily on my server-side metrics, such as website/page availability (uptime), actual usage of podcasts or other features that belong to the agency, but are stored or hosted on other/partner websites (for example, iTunes)?
+* Do I use logfile mining and transactional data to measure how much our Web servers are hit not just by human traffic, but also bots, search engine spiders, and visits from visitors who are not running JavaScript?
 
 Answers to these questions drive your agency’s/website’s Web analytics requirements and the decision about which analytics solution is right for you.
 
@@ -48,8 +48,8 @@ Other leading Web analytics solutions, such as Omniture/Adobe SiteCatalyst and W
 
 ## Learn More
 
-  * [Digital Analytics Program]({{< link "/dap/" >}} "DAP: Digital Analytics Program")
-  * [Common Questions About the Digital Analytics Program]({{< link "common-questions-about-dap.md" >}} "Common Questions about DAP - FAQ")
+* [Digital Analytics Program]({{< link "/dap/" >}} "DAP: Digital Analytics Program")
+* [Common Questions About the Digital Analytics Program]({{< link "common-questions-about-dap.md" >}} "Common Questions about DAP - FAQ")
 
 ## Contact Us
 

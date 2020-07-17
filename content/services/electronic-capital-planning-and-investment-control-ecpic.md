@@ -21,11 +21,11 @@ eCPIC is a web-based, government-owned and operated software as a service (SaaS)
 
 ## Our Goals:
 
-  * Happy Federal Partners
-  * Mature the level of IT Capital Planning and IT Investment Management controls and processes across federal agencies.
-  * Assist OMB to create effective guidance and provide value added oversight by being their IT capital planning and IT investment management subject matter expert
-  * Increase Agency adoption of the eCPIC tool
-  * Modernize the eCPIC application to improve current capability, take advantage of modern technologies, and ensure the future security of the eCPIC tool
+* Happy Federal Partners
+* Mature the level of IT Capital Planning and IT Investment Management controls and processes across federal agencies.
+* Assist OMB to create effective guidance and provide value added oversight by being their IT capital planning and IT investment management subject matter expert
+* Increase Agency adoption of the eCPIC tool
+* Modernize the eCPIC application to improve current capability, take advantage of modern technologies, and ensure the future security of the eCPIC tool
 
 ---
 
@@ -51,7 +51,6 @@ eCPIC is a web-based, government-owned and operated software as a service (SaaS)
 - U.S. Environmental Protection Agency (EPA)
 - U.S. General Services Administration
 - U.S. Securities and Exchange Commission (SEC)
-
 
 ---
 

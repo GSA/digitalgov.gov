@@ -112,7 +112,7 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
   <tr>
     <td style="vertical-align: top;text-align: center">
       <blockquote class="twitter-tweet" data-width="500">
-        <p lang="en" dir="ltr">
+        <p lang="en">
           RT <a href="https://twitter.com/plain_language">@plain_language</a>: Doctor: Have you had paroxysms of coughing? Patient: Uh, you mean fits? <a href="https://twitter.com/hashtag/plainlanguage?src=hash">#plainlanguage</a> <a href="https://t.co/Byiav6BdGN">pic.twitter.com/Byiav6BdGN</a>
         </p>
 

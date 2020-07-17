@@ -17,12 +17,10 @@ authors:
 
 {{< legacy-img src="/2015/02/600-x-418-Mobile-app-description1.jpg" alt="Mobile Application Development Program: Plan, Develop, Test, Launch" >}}
 
-  * **Plan**—Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers.
-  * **Develop—**Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.
-  * **Test—**Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
-  * **Launch—**Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
-
-
+* **Plan**—Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers.
+* **Develop—**Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.
+* **Test—**Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
+* **Launch—**Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
 
 <table width="100%">
   <tr>

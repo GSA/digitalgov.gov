@@ -34,7 +34,7 @@ With more than 72% of adult Internet users, Facebook, by far, leads as the top m
 Besides the content on Facebook, when users in the Facebook app go to other websites, they’re kept within the Facebook app and content is displayed within a webview. Facebook drives so much traffic to other sites that it actually makes Facebook’s WebView within their app one of the worlds largest browsers, if not the largest browser, as Benedict Evans, one of the world’s most prominent mobile analysts, proclaimed:
 
 <blockquote class="twitter-tweet" width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     On mobile, the most popular browser is Facebook, not Safari or Chrome
   </p>
   

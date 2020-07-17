@@ -44,13 +44,13 @@ If you’re a federal employee, follow these steps (or [download our easy step-b
 
   1. **Review existing policy**: Review your agency’s social media policy and guidance to be sure you understand requirements to use specific tools, branding, etc.
 
-  2.  **See what’s available**: Consult the list of free products and services with federal TOS agreements. Keep in mind that even though a tool may be on the list, your agency may not have approved the TOS for that tool. Each agency considers its own policies, needs, expectations and practices, and conducts a legal review, before signing agreements. Among other sources, your agency counsel may want to review the [OMB Memorandum M–13–10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) regarding implications of certain online Terms of Service agreements.
+  2. **See what’s available**: Consult the list of free products and services with federal TOS agreements. Keep in mind that even though a tool may be on the list, your agency may not have approved the TOS for that tool. Each agency considers its own policies, needs, expectations and practices, and conducts a legal review, before signing agreements. Among other sources, your agency counsel may want to review the [OMB Memorandum M–13–10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) regarding implications of certain online Terms of Service agreements.
 
-  3.  **Work with your agency point of contact**: Before you decide to use a tool, work with your agency’s Point-of-Contact for social media tools and your general counsel for other tools and services. This person will discuss your social media requirements and explain what already exists to meet your needs, including any TOS agreements that have been signed by your agency. This is also the person who works with your agency’s attorneys to determine if any new Terms of Service agreements are needed.
+  3. **Work with your agency point of contact**: Before you decide to use a tool, work with your agency’s Point-of-Contact for social media tools and your general counsel for other tools and services. This person will discuss your social media requirements and explain what already exists to meet your needs, including any TOS agreements that have been signed by your agency. This is also the person who works with your agency’s attorneys to determine if any new Terms of Service agreements are needed.
 
-  4.  **If approved, create an account**: If your agency point of contact approves and your agency has a signed TOS for that tool, you can work with your agency point of contact to set up your new account.
+  4. **If approved, create an account**: If your agency point of contact approves and your agency has a signed TOS for that tool, you can work with your agency point of contact to set up your new account.
 
-  5.  **Put accounts in the [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)**: GSA created a federal-wide social media registry to help agencies inventory all their social media accounts and give the public a way to validate official social media accounts.
+  5. **Put accounts in the [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)**: GSA created a federal-wide social media registry to help agencies inventory all their social media accounts and give the public a way to validate official social media accounts.
 
 Agencies should note that because these products and services are free and don&#8217;t involve agency appropriated funds, the agreements are not considered to be government contracts nor are they procurements under the Federal Acquisition Regulation (FAR). In contrast, fee–based products fall under all federal procurement rules and regulations, and are not included in this process.
 
@@ -71,9 +71,9 @@ The National Association of State Chief Information Officers (NASCIO) and the Na
 
 They negotiated revised terms with Facebook, YouTube, and Twitter:
 
-  * Facebook made changes to their [standard terms that apply to state and local governments](http://www.facebook.com/terms_pages_gov.php).
-  * Twitter [incorporated revisions in Section 12B](http://twitter.com/tos) of their most recent general TOS update.
-  * The [YouTube terms are available to state government agencies that](http://www.nascio.org/newsroom/pressRelease.cfm?id=119) request them through their State CIOs.
+* Facebook made changes to their [standard terms that apply to state and local governments](http://www.facebook.com/terms_pages_gov.php).
+* Twitter [incorporated revisions in Section 12B](http://twitter.com/tos) of their most recent general TOS update.
+* The [YouTube terms are available to state government agencies that](http://www.nascio.org/newsroom/pressRelease.cfm?id=119) request them through their State CIOs.
 
 Negotiations with other providers are ongoing.
 
@@ -87,7 +87,7 @@ Tool and service providers interested in engaging in Terms of Service discussion
 
 ## Additional Resources
 
-  * Find your agency&#8217;s [Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
-  * View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
-  * Use the [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011)
-  * Guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements
+* Find your agency&#8217;s [Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
+* View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
+* Use the [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011)
+* Guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements

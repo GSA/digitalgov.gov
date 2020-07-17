@@ -22,9 +22,11 @@ Below are examples and explanations for words, phrases, acronyms, numbers, punct
 ### Abbreviations
 
 1) **Incorrect Use**: EE UU
+
 * **Correct Use**: EE. UU. (Estados Unidos)
 
 2) **Incorrect Use**: f.f. c.c.
+
 * **Correct Use**: FF. CC. (ferrocarriles)
 
 Plural form of compound words, organization names or some countries are made by using double letters, as in ferrocarriles (FF. CC.) and Estados Unidos (EE. UU.).
@@ -32,12 +34,15 @@ Plural form of compound words, organization names or some countries are made by 
 ### Acronyms
 
 1) **Incorrect Use**: CD–ROM
+
 * **Correct Use**: CD–ROM (Compact Disk–Read Only Memory)
 
 2) **Incorrect Use**: E.U.A.
+
 * **Correct Use**: EUA
 
 3) **Incorrect Use**: O.N.U.
+
 * **Correct Use**: ONU
 
 While periods are used in abbreviations of complex names (two or more words) to indicate different words, acronyms (siglas en español) do not use periods between the words.
@@ -74,51 +79,51 @@ Me temo —comentó Juan— que da igual
 
 Titles in Spanish do not follow the capitalization style of the English language:
 
-  * Fraudes de trabajo en el hogar
-  * Work-at-Home Schemes
+* Fraudes de trabajo en el hogar
+* Work-at-Home Schemes
 
 ### Do NOT Capitalize
 
 **Days of the week and months**
 
-  * In Spanish the days of the week and months of the year are written in lower case unless they are the first word in a sentence.
+* In Spanish the days of the week and months of the year are written in lower case unless they are the first word in a sentence.
 
 **Languages and nationalities**
 
-  * Follow the same guidelines as days of the week and months.
+* Follow the same guidelines as days of the week and months.
 
 **Words in parentheses**
 
 Don&#8217;t capitalize unless the text in parentheses is an acronym. Examples:
 
-  * TC (tomografía computada)
-  * Red Mundial para la Búsqueda de Niños Desaparecidos (en inglés)
-  * Culebrilla (herpes zoster)
+* TC (tomografía computada)
+* Red Mundial para la Búsqueda de Niños Desaparecidos (en inglés)
+* Culebrilla (herpes zoster)
 
 ### Do Capitalize
 
 **First Word of a Title**
 
-  * Tipos de asistencia financiera para la universidad.
+* Tipos de asistencia financiera para la universidad.
 
 **Names of People or Places (Proper Nouns)**
 
-  * Enfermedad de Still del adulto
-  * Evite problemas en las aduanas cuando regresa a los Estados Unidos
-  * Organización Internacional del Trabajo
+* Enfermedad de Still del adulto
+* Evite problemas en las aduanas cuando regresa a los Estados Unidos
+* Organización Internacional del Trabajo
 
 **First Word After a Colon (:)**
 
-  * When it is a quote (between quotations marks or not), or a list in several paragraphs, each one following a number or a letter
+* When it is a quote (between quotations marks or not), or a list in several paragraphs, each one following a number or a letter
 
 **First Word After an Em (—) Dash**
 
-  * Enfermedad del corazón —Prevención
+* Enfermedad del corazón —Prevención
 
 **First Word After a Forward Slash (/)**
 
-  * Impuestos/Tributación
-  * Desvío de las arterias coronarias/Angioplastia
+* Impuestos/Tributación
+* Desvío de las arterias coronarias/Angioplastia
 
 ## Dates & Numbers {#dates}
 
@@ -186,15 +191,13 @@ Trillón = Un millón de billones, que se expresa por la unidad seguida de 18 ce
 
 In Spanish, exclamation and question marks open and close the desired phrase. The opening ones are inverted (¡) (¿) and the closing ones are the same as in English: (!) and (?):
 
-  * ¡Hágalo en línea!
-  * ¿Cómo puedo hacerme ciudadano estadounidense?
+* ¡Hágalo en línea!
+* ¿Cómo puedo hacerme ciudadano estadounidense?
 
 Punctuation marks are written outside of quotation marks, parenthesis and dashes.
 
-  * Juventud, divino tesoro, &#161;ya te vas para no volver!
-  * El médico dijo: &#8220;La revisión se canceló; era previsible por el temor del paciente. Sin embargo, es probable que la cancelación no sea definitiva&#8221;; acto seguido, suspiró hondo y añadió: “El cáncer es curable en su diagnóstico precoz (las estadísticas lo confirman), la familia debe saberlo&#8221;.
-
-
+* Juventud, divino tesoro, &#161;ya te vas para no volver!
+* El médico dijo: &#8220;La revisión se canceló; era previsible por el temor del paciente. Sin embargo, es probable que la cancelación no sea definitiva&#8221;; acto seguido, suspiró hondo y añadió: “El cáncer es curable en su diagnóstico precoz (las estadísticas lo confirman), la familia debe saberlo&#8221;.
 
 ## Diacritics and HTML Code {#diacritics}
 
@@ -204,7 +207,7 @@ When using HTML, diacritics [los acentos gráficos] must be also coded. For exam
 
 `Página = P&amp;#225;gina`
 
-#### Spanish Accent Rules 
+#### Spanish Accent Rules
 
 Accent rules apply to both capital and lower case letters. For example:
 
@@ -535,7 +538,7 @@ Each character and its code is listed below:
 
 ## Sources
 
-* [El Diccionario de la Real Academia Española](http://www.rae.es/). 
+* [El Diccionario de la Real Academia Española](http://www.rae.es/).
 
 * National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)
 

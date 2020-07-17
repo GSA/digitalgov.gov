@@ -73,7 +73,7 @@ To date, CuidadodeSalud.gov&#8217;s Facebook page boasts the largest following o
 For Twitter, CuidadodeSalud.gov kept its outreach efforts simple. The team researched audiences on Twitter, considered the relevancy and popularity of hashtags, whether to use an English one, one in Spanish, or both. The team also considered trends and what people were already talking about on Twitter as related to the topic. Partnerships are critical to Twitter outreach success. And in the cases where partners didn&#8217;t have Twitter handles, they would include the chat events in their newsletters and this would also help drive interest and participation.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="es" dir="ltr">
+  <p lang="es">
     <a href="https://twitter.com/hashtag/BacktoSchool?src=hash">#BacktoSchool</a> significa nuevos libros, mochilas y cobertura! Estamos participando en la chat de <a href="https://twitter.com/hashtag/OurSalud?src=hash">#OurSalud</a> <a href="https://t.co/A39BSNoWjf">pic.twitter.com/A39BSNoWjf</a>
   </p>
   
