@@ -1,7 +1,7 @@
 {{- define "content" -}}
 
 <main role="main">
-  <article {{ if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
+  <article {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
     <header>
       <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <div class="grid-row">
