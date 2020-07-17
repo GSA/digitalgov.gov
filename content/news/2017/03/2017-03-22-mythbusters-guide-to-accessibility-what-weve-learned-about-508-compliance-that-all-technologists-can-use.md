@@ -2,7 +2,7 @@
 slug: mythbusters-guide-to-accessibility-what-weve-learned-about-508-compliance-that-all-technologists-can-use
 date: 2017-03-22 12:14:30 -0400
 title: 'Mythbuster’s Guide to Accessibility: What We&#8217;ve Learned About 508 Compliance That All Technologists Can Use'
-summary: 'As government technology improves and accelerates, the U.S. Digital Service has the opportunity to improve the most critical public-facing services across agencies. The services and products we create need to be accessible to everyone. Too often, we’ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we’ll debunk'
+summary: 'Too often, we’ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we’ll debunk these myths, so you can easily create universally accessible content.'
 authors:
   - nick-heiner
 topics:
@@ -14,6 +14,7 @@ topics:
   - USDS
   - user-experience
   - ux
+
 ---
 
 As government technology improves and accelerates, the U.S. Digital Service has the opportunity to improve the most critical public-facing services across agencies. The services and products we create need to be accessible to everyone. Too often, we’ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we’ll debunk these myths, so you can easily create universally accessible content.
@@ -38,17 +39,15 @@ WCAG provides the industry-recognized set of standards for accessible content. I
 
 > _2.4.6 Headings and Labels: Headings and labels describe topic or purpose._
 
-Depending on the context in which you’re building, headings and labels may be implemented in different ways. On the web, for instance, you’d use an 
-
-# tag for a page heading.</p> 
+Depending on the context in which you’re building, headings and labels may be implemented in different ways. On the web, for instance, you’d use an `<H1>` tag for a page heading.</p> 
 
 When you’re trying to make content accessible, you may hear that you must use a particular implementation method. This is simply not true — WCAG does not require any particular implementation. Focus on the “what” not the “how.”
 
-## Myth 3: It’s possible to build something that’s 100% accessible._Reality: No product is perfect by any metric._
+## Myth 3: It’s possible to build something that’s 100% accessible. _Reality: No product is perfect by any metric._
 
 Fixing 100% of reported accessibility defects is not a reasonable goal, just like you wouldn’t expect to ship with zero known bugs or a perfect user experience for users without a disability. How much you invest in UX is a judgement call, and eventually you have to ship. 508 only requires a user experience that’s “comparable” between user with and without a disability; it doesn’t require either of those user experiences to be perfect.
 
-## Myth 4: It’s easy to treat accessibility as an afterthought._Reality: Designing for accessibility from the beginning is way easier._
+## Myth 4: It’s easy to treat accessibility as an afterthought. _Reality: Designing for accessibility from the beginning is way easier._
 
 Just like mobile has different design considerations than desktop, so does accessibility. Many designs are going to be onerous to make accessible after the fact. You can save a ton of development time and headaches by baking accessibility in upfront.
 
@@ -56,7 +55,7 @@ Visually-impaired users interact with a UI in a fundamentally different way than
 
 The <a href="https://18f.gsa.gov/2015/09/28/web-design-standards/" target="_blank" rel="nofollow noopener">U.S. Web Design Standards</a> provide guidance for accessibility out of the box. If you’re working for the government, you can start with the U.S. Web Design Standards and know that you’re building on a good, accessible foundation. Additionally, each UI component in the Standards offers guidance for how to ensure accessibility.
 
-## Myth 5: Implementing accessibility can only be done by 10x Rockstar Ninja Guru A-Player Front-End Engineers_Reality: Accessibility is straightforward for mid-level developers._
+## Myth 5: Implementing accessibility can only be done by 10x Rockstar Ninja Guru A-Player Front-End Engineers _Reality: Accessibility is straightforward for mid-level developers._
 
 If you write semantic, standards-conformant code, you’ll get a lot of accessibility support out of the box. To provide assistive technology additional clues about how your content is structured, you can use <a href="https://www.w3.org/WAI/intro/aria" target="_blank" rel="nofollow noopener">ARIA</a>.
 
@@ -64,29 +63,26 @@ For instance, consider the following table:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*a-vpzuV8bS9SRLCaj28xAg.png)
 
-To a sighted user, it’s obvious that the title “Overview By Tax Year” is related to the table. However, just by looking at the markup, a screenreader may not be able to draw the same conclusion:
+To a sighted user, it’s obvious that the title “Overview By Tax Year” is related to the table. However, just by looking at the markup, a screenreader may not be able to draw the same conclusion:  
 
-<pre><h3>
+`<h3>
   Overview By Tax Year
-</h3>
+</h3>`  
+`<table>`
 
-
-<table>
-  <!-- ... --></pre>
   
   
   <p>
-    To explicitly link the two, we use <code>&lt;a href="https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby" target="_blank" rel="nofollow noopener">aria-labelledby&lt;/a></code>:
+    To explicitly link the two, we use [aria-labelledby](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby):
   </p>
   
-  
-  <pre><h3 id="overview-by-tax-year-table-title">
+`
+<h3 id="overview-by-tax-year-table-title">
   Overview By Tax Year
 </h3>
-
-
 <table aria-labelledby="overview-by-tax-year-table-title">
-  <!-- ... --></pre>
+`
+
   
   
   <p>
@@ -94,11 +90,8 @@ To a sighted user, it’s obvious that the title “Overview By Tax Year” is r
   </p>
   
   
-  <h2>
-    Myth 6: Testing can be done without consulting assistive technologies or users with disabilities.
-  </h2>
-  
-  
+## Myth 6: Testing can be done without consulting assistive technologies or users with disabilities.
+
   <p>
     <em>Reality: The only way to ensure that users with a disability get a comparable experience is to test with them and the tools they use.</em>
   </p>
@@ -109,10 +102,7 @@ To a sighted user, it’s obvious that the title “Overview By Tax Year” is r
   </p>
   
   
-  <h2>
-    Myth 7: Text-Only versions of your content are accessible.
-  </h2>
-  
+## Myth 7: Text-Only versions of your content are accessible.
   
   <p>
     <em>Reality: “Separate but equal” accommodations are a lose-lose.</em>
@@ -124,11 +114,8 @@ To a sighted user, it’s obvious that the title “Overview By Tax Year” is r
   </p>
   
   
-  <h2>
-    Conclusion
-  </h2>
-  
-  
+## Conclusion
+
   <p>
     Accessibility isn’t crazy voodoo magic. If you’re comfortable building modern apps, you can easily pick up the skills necessary to make your content accessible. Being thoughtful about accessibility is a win-win: you get more users, and everyone can benefit from your creation.
   </p>

@@ -26,7 +26,7 @@ While a massive infographic immediately arrests due to its overwhelming data con
 Sure, you can house an infographic on your website, and there’s always Pinterest, but your best connection with your audience is likely on [Facebook](https://www.facebook.com/ajplusenglish/photos/a.409210322553814.1073741828.407570359384477/502960276512151/) or [Twitter](https://twitter.com/WhiteHouse/status/761596821701529601). Those platforms only allow a sliver of a large infographic to be displayed, and any user is going to have to really want to dig into a big data display to click through.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     FACT: Wages are rising at the fastest pace in 7 years → <a href="https://t.co/C8P76lnNkb">https://t.co/C8P76lnNkb</a> <a href="https://twitter.com/hashtag/JobsReport?src=hash">#JobsReport</a> <a href="https://t.co/erXP4sSOsd">pic.twitter.com/erXP4sSOsd</a>
   </p>
   

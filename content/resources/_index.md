@@ -11,6 +11,7 @@ aliases:
 {{< search-resources >}}
 
 ## Getting Started
+
 - [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< ref "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
 - [**Checklist of Requirements for Federal Digital Services**]({{< ref "checklist-of-requirements-for-federal-digital-services.md" >}})
 - [**Required Web Content and Links**]({{< ref "resources/required-web-content-and-links.md" >}})
@@ -57,12 +58,11 @@ aliases:
 * [U.S. Web Design System](https://designsystem.digital.gov/)
 * [Style Guides by Government Agencies]({{< ref "style-guides-by-government-agencies.md" >}})
 
-
 ## Digital Strategy
 
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
-  * [Agency Digital Strategy Pages]({{< ref "2012-08-22-agency-digital-strategy-pages.md" >}})
-  * [Guidelines for Improving Digital Services]({{< ref "guidelines-for-improving-digital-services.md" >}})
+    * [Agency Digital Strategy Pages]({{< ref "2012-08-22-agency-digital-strategy-pages.md" >}})
+    * [Guidelines for Improving Digital Services]({{< ref "guidelines-for-improving-digital-services.md" >}})
 * [Putting Citizens First: Transforming Online Government](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Federal-Web-Managers-White-Paper.pdf) (PDF, 47 kb, 4 pages, November 2008)
 
 ## Measurement

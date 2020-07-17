@@ -16,8 +16,8 @@ On August 11, 2000, the President signed Executive Order 13166, &#8220;Improving
 
 ## Related Resources
 
-  * [Dept. of Justice Memo Reaffirming the Mandates of EO 13166](http://www.justice.gov/crt/lep/13166/AG_021711_EO_13166_Memo_to_Agencies_with_Supplement.pdf) (PDF, February 2011)
-  * [Federal Agency LEP Guidance](http://www.justice.gov/crt/lep/guidance/guidance_index.html) (Dept. of Justice)
+* [Dept. of Justice Memo Reaffirming the Mandates of EO 13166](http://www.justice.gov/crt/lep/13166/AG_021711_EO_13166_Memo_to_Agencies_with_Supplement.pdf) (PDF, February 2011)
+* [Federal Agency LEP Guidance](http://www.justice.gov/crt/lep/guidance/guidance_index.html) (Dept. of Justice)
 
 * * *
 

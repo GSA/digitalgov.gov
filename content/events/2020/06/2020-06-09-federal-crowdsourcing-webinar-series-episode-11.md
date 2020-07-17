@@ -12,15 +12,20 @@ registration_url: https://www.eventbrite.com/e/106957891934
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4468831&CustomerID=321
 
 # start date
-date: 2020-06-09 15:00:00 -0500
+date: 2020-06-09 16:00:00 -0500
 
 # end date
-end_date: 2020-06-09 16:00:00 -0500
+end_date: 2020-06-09 17:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - mobile
   - crowdsourcing
+  - mobile
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - david-fern
+  - tammy-white
 
 # YouTube ID
 youtube_id: 76gvoSVOGkc
@@ -31,7 +36,6 @@ youtube_id: 76gvoSVOGkc
 weight: 0
 
 # Make it better ♥
-
 ---
 
 Once simply a smart feature, mobile-friendly sites have evolved into must-have components of every organization’s digital presence, and now mobile accounts, for more than half of all web activity.

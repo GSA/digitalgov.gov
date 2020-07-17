@@ -55,13 +55,14 @@ Join the `#uswds-public` channel in our Slack at [chat.18f.gov](https://chat.18f
 **Community Manager:** Dan Williams, U.S. General Services Administration (GSA)
 
 ## What we do
+
 We support the U.S. Web Design System’s efforts to make it easier to build accessible, mobile-friendly government websites for the American public.
 
 ### Additional Resources
 
-- [The U.S. Web Design System](https://designsystem.digital.gov/) 
-- [USWDS on GitHub](https://github.com/uswds/uswds/) 
-- [Join the USWDS Slack](https://chat.18f.gov/) 
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [USWDS on GitHub](https://github.com/uswds/uswds/)
+- [Join the USWDS Slack](https://chat.18f.gov/)
 - [Follow @USWDS on Twitter](https://twitter.com/uswds?lang=en)
 - [Email the USWDS team](mailto:uswds@support.digitalgov.gov)
 

@@ -27,7 +27,7 @@ This Toolkit is your guide to **_Improving the Accessibility of Social Media for
 
 **_Improving the Accessibility of Social Media for Public Service_** is brought to you by the U.S. Department of Labor&#8217;s [Office of Disability Employment Policy (ODEP)](http://www.dol.gov/odep/), the U.S. General Services Administration’s [Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729) and the Social Media Accessibility Working Group, a committee within the [Federal Social Media Community of Practice](http://www.howto.gov/communities/federal-web-managers-council/social-media). Working together, these entities have aimed to curate and share best practices to help agencies ensure their social media content is accessible to everyone, including users with disabilities. Efforts are also being made to work with social media platform and tool developers, citizens and partners to encourage greater accessibility.
 
-The genesis of this Toolkit is a collaborative document that originated at the [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)[ Summit on Accessibility](http://blog.howto.gov/2012/11/30/socialgov-summit-highlights-accessibility-challenges/), which is a product of eight agencies: U.S. Geological Survey, Environmental Protection Agency, Department of Labor, Department of Transportation, National Oceanic and Atmospheric Administration, National Cancer Institute, National Human Genome Research Institute and the General Services Administration. Also included is input from “[Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media),” by Dr. Scott Hollier, Western Australia Manager for Media Access Australia (MAA) and member of the Advisory Committee of the World Wide Web Consortium (W3C).
+The genesis of this Toolkit is a collaborative document that originated at the [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)[Summit on Accessibility](http://blog.howto.gov/2012/11/30/socialgov-summit-highlights-accessibility-challenges/), which is a product of eight agencies: U.S. Geological Survey, Environmental Protection Agency, Department of Labor, Department of Transportation, National Oceanic and Atmospheric Administration, National Cancer Institute, National Human Genome Research Institute and the General Services Administration. Also included is input from “[Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media),” by Dr. Scott Hollier, Western Australia Manager for Media Access Australia (MAA) and member of the Advisory Committee of the World Wide Web Consortium (W3C).
 
 ## Why Is The Accessibility of Social Media So Important?
 
@@ -54,16 +54,18 @@ Below is a set of recommended, baseline strategies to improve the accessibility 
   1. **Make your contact information available on your social media account page**.
 
     List a primary phone number and email address where a user can reach your agency with questions, or provide a link to your agency website that lists the appropriate contact information.
+
   2. **Make your social media content available through more than one channel**.
 
     Provide easy points of entry for more information. Some of the most common ways are to post threads on your website, provide options to sign up for daily email digests of social media posts or to add a social media widget to your agency website.
+
   3. **Provide links or contact information to official social media support and accessibility teams.
 
-** Often, social media tools have their own accessibility tips and support help desks. Educate yourself about them and provide links to your constituents.
-  4. **Keep it simple.
+**Often, social media tools have their own accessibility tips and support help desks. Educate yourself about them and provide links to your constituents.
+4.**Keep it simple.
 
-** Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)), and limit your use of hashtags, abbreviations and acronyms. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read, including for those using a screen reader.
-  5. **Learn the accessibility requirements and periodically test your content for accessibility.
+**Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)), and limit your use of hashtags, abbreviations and acronyms. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read, including for those using a screen reader.
+5.**Learn the accessibility requirements and periodically test your content for accessibility.
 
 ** Read the [Section 508 Standards](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) and the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) and other key resources that discuss them. Then test your social media content with a screen reader or other type of assistive technology.
 
@@ -148,7 +150,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
   1. Upon uploading a video clip, add a transcript to cover spoken and visual action to Vine&#8217;s “description” field.
   2. Remember that in addition to including captioning for individuals who are deaf or hard of hearing, information that is conveyed visually needs to include descriptive text readable by screen readers for individuals who are blind or who have low or limited vision.
-  3. Alternatively, Vine videos can be embedded in a website where they can be captioned and described.** ** Closed-caption can be embedded Vine video on your website using a tool like the [JW Player](https://support.jwplayer.com/).
+  3. Alternatively, Vine videos can be embedded in a website where they can be captioned and described.**** Closed-caption can be embedded Vine video on your website using a tool like the [JW Player](https://support.jwplayer.com/).
 
 ### Tips for Making Blogs Accessible
 
@@ -164,67 +166,67 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
 ## Tips for Making Other Social Media Platforms Accessible
 
-  * Depending on your social media strategy, you may want to use other platforms such as [LinkedIn](https://www.linkedin.com/) or [Pinterest](http://www.pinterest.com/) to connect with constituents.
-  * LinkedIn focuses on professional contacts and also allows users to collaborate and share articles and ideas through its group message boards. Your LinkedIn profile should have a clear image to accompany your name so users can distinguish you from other potential contacts with a similar name or brand.
-  * LinkedIn Online Support <https://www.linkedin.com/help/linkedin>
-  * Pinterest is a visual discovery tool where users create online “bulletin boards” of images, ideas and videos. All Pinterest content is “pinned” to boards from outside sources. Include a description of the item you are pinning and alert users if it is a picture, video, audio file or GIF (e.g. [PIC], [VIDEO], [AUDIO], [GIF]). If you are pinning content that you did not create or is not accessible, make sure your audience is aware of these limitations by including a brief note in the description of the pin.
-  * As with Vine videos, Instagram videos should have captions and a transcript. For more information on video accessibility, read the Tips for Making YouTube Videos Accessible and Tips for Making Vine Posts Accessible.
+* Depending on your social media strategy, you may want to use other platforms such as [LinkedIn](https://www.linkedin.com/) or [Pinterest](http://www.pinterest.com/) to connect with constituents.
+* LinkedIn focuses on professional contacts and also allows users to collaborate and share articles and ideas through its group message boards. Your LinkedIn profile should have a clear image to accompany your name so users can distinguish you from other potential contacts with a similar name or brand.
+* LinkedIn Online Support <https://www.linkedin.com/help/linkedin>
+* Pinterest is a visual discovery tool where users create online “bulletin boards” of images, ideas and videos. All Pinterest content is “pinned” to boards from outside sources. Include a description of the item you are pinning and alert users if it is a picture, video, audio file or GIF (e.g. [PIC], [VIDEO], [AUDIO], [GIF]). If you are pinning content that you did not create or is not accessible, make sure your audience is aware of these limitations by including a brief note in the description of the pin.
+* As with Vine videos, Instagram videos should have captions and a transcript. For more information on video accessibility, read the Tips for Making YouTube Videos Accessible and Tips for Making Vine Posts Accessible.
 
 ## Additional Resources
 
-### Resources recommended by the Community of Practice:** **
+### Resources recommended by the Community of Practice:****
 
-  * [Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media) (Australia)
+* [Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media) (Australia)
 
-  * [Emergency 2.0 Wiki Accessibility Toolkit](http://emergency20wiki.org/wiki/index.php/Accessibility_Toolkit) (Australia)
+* [Emergency 2.0 Wiki Accessibility Toolkit](http://emergency20wiki.org/wiki/index.php/Accessibility_Toolkit) (Australia)
 
-  * [Queen University’s Accessibility Hub](http://www.queensu.ca/accessibility/how-info/social-media-accessibility) (Canada)
+* [Queen University’s Accessibility Hub](http://www.queensu.ca/accessibility/how-info/social-media-accessibility) (Canada)
 
-  * [Accessibility articles on Usability.gov](http://www.usability.gov/tags/accessibility/)
+* [Accessibility articles on Usability.gov](http://www.usability.gov/tags/accessibility/)
 
-  * [Accessibility section on DigitalGov.gov]({{< ref "/topics/accessibility" >}})
+* [Accessibility section on DigitalGov.gov]({{< ref "/topics/accessibility" >}})
 
-  * [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG/)
+* [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG/)
 
-  * [Section508.gov](http://section508.gov/)
+* [Section508.gov](http://section508.gov/)
 
-  * [Department of Health and Human Services Section 508 Resources](http://www.hhs.gov/web/508/index.html)
+* [Department of Health and Human Services Section 508 Resources](http://www.hhs.gov/web/508/index.html)
 
-  * [AccDC Technical Style Guides](http://whatsock.com/tsg/) (Powered by jQuery, Dojo or MooTools)
+* [AccDC Technical Style Guides](http://whatsock.com/tsg/) (Powered by jQuery, Dojo or MooTools)
 
-  * [AccDC Technical Style Guide for Standalone and jQuery](https://github.com/accdc/tsg) (on GitHub)
+* [AccDC Technical Style Guide for Standalone and jQuery](https://github.com/accdc/tsg) (on GitHub)
 
 ### Digital Government University (DGU) offers a series of trainings based on these recommendations and expanded guidance. On-demand accessibility classes from DGU include:
 
-  * [Social Media: You Still Need Plain Language](https://www.youtube.com/watch?v=W756zIegQBs&index=23&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Qhttp://www.howto.gov/training/classes/social-media-and-plain-language) (January 2013)
+* [Social Media: You Still Need Plain Language](https://www.youtube.com/watch?v=W756zIegQBs&index=23&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Qhttp://www.howto.gov/training/classes/social-media-and-plain-language) (January 2013)
 
-  * [Making Social Media More Accessible: What You Can Do Today](https://www.youtube.com/watch?v=aMlFWIu6rpY&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Q&index=25) (December 2012)
+* [Making Social Media More Accessible: What You Can Do Today](https://www.youtube.com/watch?v=aMlFWIu6rpY&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Q&index=25) (December 2012)
 
-  * [Role-Based Accessibility in Government: Everyone&#8217;s Responsibility](https://www.youtube.com/watch?v=2wRl-JM3I-Mhttp://www.howto.gov/training/classes/role-based-accessibility) (November 2012)
+* [Role-Based Accessibility in Government: Everyone&#8217;s Responsibility](https://www.youtube.com/watch?v=2wRl-JM3I-Mhttp://www.howto.gov/training/classes/role-based-accessibility) (November 2012)
 
-  * [DigitalGov YouTube Channel](https://www.youtube.com/digitalgov)
+* [DigitalGov YouTube Channel](https://www.youtube.com/digitalgov)
 
-  * [DigitalGov University On-Demand Training]({{< ref "/about/digitalgov-university.md" >}})
+* [DigitalGov University On-Demand Training]({{< ref "/about/digitalgov-university.md" >}})
 
 ### Other Web resources
 
-  * [a11yTips](http://dboudreau.tumblr.com/)
+* [a11yTips](http://dboudreau.tumblr.com/)
 
-  * [Accessible Joe](http://accessiblejoe.com/tools/)
+* [Accessible Joe](http://accessiblejoe.com/tools/)
 
-  * [WebAIM](http://webaim.org/)
+* [WebAIM](http://webaim.org/)
 
-  * [Usability.gov](http://www.usability.gov/)
+* [Usability.gov](http://www.usability.gov/)
 
-  * [DANYA T.H.I.S. Social Media Accessibility Google Hangout](https://www.youtube.com/watch?v=DKXXKtFRNlQ)
+* [DANYA T.H.I.S. Social Media Accessibility Google Hangout](https://www.youtube.com/watch?v=DKXXKtFRNlQ)
 
-  * [W3 Accessibility Testing](http://www.w3.org/wiki/Accessibility_testing)
+* [W3 Accessibility Testing](http://www.w3.org/wiki/Accessibility_testing)
 
-  * [WAVE Accessibility Testing](http://wave.webaim.org/)
+* [WAVE Accessibility Testing](http://wave.webaim.org/)
 
-  * [Ask JAN SNAP Tool](http://askjan.org/bulletins/SNAPTool.htm)
+* [Ask JAN SNAP Tool](http://askjan.org/bulletins/SNAPTool.htm)
 
-  * [W3 Web Accessibility Initiative](http://www.w3.org/WAI/)
+* [W3 Web Accessibility Initiative](http://www.w3.org/WAI/)
 
 ## How To Provide Feedback Or Contribute Content To This Toolkit
 

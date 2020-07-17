@@ -27,43 +27,43 @@ One way to offer that clear accountability and communication is by keeping peopl
 
 **Do** find a way to measure participation, whether through web metrics software looking at your executive blog, email delivery services, or the other analysis tools. You can also poll employees about whether they followed the coverage and why. **Don’t** assume that everyone will stay glued to your coverage all day (remember, they’re at work) or that attention is the same as assent.
 
-<p dir="ltr">
+<p>
   <strong>The Writing: Good Material, Clear Messages.</strong>
 </p>
 
-<p dir="ltr">
+<p>
   <strong>Do</strong> keep the voice and tense of the coverage clear and consistent, and time/date stamp your posts. <strong>Don’t</strong> make employees have to think about who’s writing the updates or when they were supposed to be written.
 </p>
 
-<p dir="ltr">
+<p>
   <strong>Do</strong> pay close attention to what’s being discussed so you can pull out the best material to share. <strong>Don’t</strong> check your email, write that proposal you’ve been meaning to get to, or browse for jobs while you’re supposed to be covering the event.
 </p>
 
-<p dir="ltr" style="text-align: left">
+<p style="text-align: left">
   <strong>Do</strong> make quotes, paraphrases, and attributions crystal clear. <strong>Don’t</strong> leave out important contextual information that leaves employees wondering what on Earth these overpaid clowns are thinking.<a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/fed-community-post.jpg">{{< legacy-img src="2013/09/fed-community-post-250x188.jpg" alt="whiteboard image of community drawing" >}}</a>
 </p>
 
-<p dir="ltr">
+<p>
   <strong>Make It Live for Better Internal Communication.</strong>
 </p>
 
-<p dir="ltr">
+<p>
   <strong>Do</strong> strongly advocate for live or near-live coverage to ensure that the discussion is captured and the word is out. <strong>Don’t</strong> agree to a process through which meeting notes are approved and scrubbed clean by every cook in the executive kitchen — if this happens, you might as well not cover the meeting.
 </p>
 
-<p dir="ltr">
+<p>
   <strong>Managing Comments and Participation While Live-Blogging for Internal Communications.</strong>
 </p>
 
-<p dir="ltr">
+<p>
   <strong>Do</strong> come up with one or two good questions to ask individual leaders during breaks or at the end of the event. <strong>Don’t</strong> ask them a question that would put them in an awkward position with their colleagues (“So, why do you think Brenda’s programs keep getting cut?”).
 </p>
 
-<p dir="ltr">
+<p>
   <strong>Do</strong> gather and consider how to handle incoming employee comments during the event, whether through email, blog comment section, or otherwise, and bring up good ones during breaks or when asked. <strong>Don’t</strong> raise your hand to read out feedback every time it comes in during the meeting.
 </p>
 
-<p dir="ltr">
+<p>
   Originally published on the<a href="http://fedcommnetwork.blogspot.com/2013/09/how-to-be-fly-on-wall-dos-and-donts-of.html"> Federal Communicators Network Blog</a>.
 </p>
 

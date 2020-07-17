@@ -3,7 +3,7 @@
 .content{
   @include u-margin-bottom(5);
 }
-#topic .content *{
+.main-topic .content *{
   @include u-measure(6);
 }
 

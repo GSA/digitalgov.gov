@@ -27,7 +27,7 @@ On October 19th, NIH brought together nearly 1,500 digital and health experts in
 [Susannah Fox](https://storify.com/StuckonSW/opening-plenary-of-nihdigital-nih-digital-summit-b), Chief Technology Officer of the [U.S. Department of Health and Human Services](http://www.hhs.gov/) (HHS), said we have entered the “third digital era.” First we connected documents, then we connected people. Now in the third era, we can unleash empathy, harness health data and allow everyone access to it, Fox said.
 
 <blockquote class="twitter-tweet" lang="en">
-  <p dir="ltr" lang="en">
+  <p lang="en">
     &#8220;How might we connect the edges of science to the majority?&#8221; &#8211; <a href="https://twitter.com/SusannahFox">@SusannahFox</a> <a href="https://twitter.com/hashtag/nihdigital?src=hash">#nihdigital</a>
   </p>
   
@@ -55,7 +55,7 @@ On October 19th, NIH brought together nearly 1,500 digital and health experts in
 Patient activists Anna McCollister-Slipp and Guy Anthony [discussed their first-hand experiences using digital](https://storify.com/StuckonSW/nihdigital-patient-parent-panel). Talking openly about health conditions has reduced stigma and has enabled connections with other patients.
 
 <blockquote class="twitter-tweet" lang="en">
-  <p dir="ltr" lang="en">
+  <p lang="en">
     &#8220;I changed &#8216;resources&#8217; to &#8216;wesources&#8217; because these are our shared tools.&#8221; &#8211;<a href="https://twitter.com/IAMGUYANTHONY">@IAMGUYANTHONY</a> <a href="https://twitter.com/hashtag/NIHDigital?src=hash">#NIHDigital</a>
   </p>
   
@@ -81,7 +81,7 @@ Rebecca Spencer White used the Internet to find care for her son with a rare dis
 Erin Edgerton of Norvell Digital Edge Communications [advised government to emulate what brands do well](https://storify.com/StuckonSW/nihdigital). Focus on engagement first and awareness last.
 
 <blockquote class="twitter-tweet" lang="en">
-  <p dir="ltr" lang="en">
+  <p lang="en">
     &#8220;MORE&#8221; [followers, likes] should be a low priority. Engagement should be first. <a href="https://twitter.com/eedgerton">@eedgerton</a> <a href="https://twitter.com/hashtag/NIHDigital?src=hash">#NIHDigital</a>
   </p>
   
@@ -115,7 +115,7 @@ Elizabeth Jarrett of the Office of the Assistant Secretary for Preparedness and 
 Megan Moreno, with [Seattle Children’s Research Institute](http://www.seattlechildrens.org/research/), uses social media as a tool to investigate adolescent health and looks for associations between online and offline behavior.
 
 <blockquote class="twitter-tweet" lang="en">
-  <p dir="ltr" lang="en">
+  <p lang="en">
     Dr. Megan Moreno: need to integrate social media into existing successful behavioral interventions targeted towards adolescents <a href="https://twitter.com/hashtag/NIHDigital?src=hash">#NIHDigital</a>
   </p>
   

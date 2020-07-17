@@ -16,6 +16,8 @@ authors:
 draft: true
 ---
 
+<!-- markdownlint-disable-file -->
+
 # H1 Heading
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. **Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat**.
@@ -67,15 +69,15 @@ _Italic text — Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed 
 ---
 
 - List
-  - nested list item
-  - nested list item
-  - nested list item
+    - nested list item
+    - nested list item
+    - nested list item
 - list item
 
 1. list item
 1. longer list item
-  1. nested item
-  2. nested item
+1. nested item
+2. nested item
 1. end list item
 
 ---

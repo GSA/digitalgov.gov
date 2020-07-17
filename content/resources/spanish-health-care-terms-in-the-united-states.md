@@ -383,6 +383,4 @@ _programa del bebé sano_
 **well-care**:<br />
 _mantenimiento del buen estado de salud_
 
-
-
 _Source: Adapted from [ApuntesOnline](http://www.apuntesonline.org/)_

@@ -7,24 +7,31 @@ orbs:
 default-executor: &default-executor
   executor:
     name: node/default
-    tag: '10.21.0'
+    tag: "10.21.0"
 
 jobs:
   test:
     <<: *default-executor
     steps:
       - checkout
-      - node/install-packages
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
       - attach_workspace:
           at: .
       - run:
-          name: Test API JSON
-          command: npm run test:json
+          name: Lint JSON
+          command: npm run lint:json
+      - run:
+          name: Lint Markdown
+          command: npm run lint:markdown
   process:
     <<: *default-executor
     steps:
       - checkout
-      - node/install-packages
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
       - run:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
@@ -40,8 +47,7 @@ jobs:
             git config user.email "digitalgov@gsa.gov"
             git config user.name "CircleCI"
             git add content/images/_inbox data/images static/img/proxy
-            git commit -m "Images processed [skip ci]" || echo "Skipping..."
-            git push --set-upstream origin $CIRCLE_BRANCH
+            git commit -m "Images processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
 
 workflows:
   build_test_process:
@@ -55,3 +61,6 @@ workflows:
       - process:
           requires:
             - test
+          filters:
+            branches:
+              ignore: main

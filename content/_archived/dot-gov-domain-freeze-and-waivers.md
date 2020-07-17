@@ -28,8 +28,8 @@ Federal agencies are required to host digital content on .gov, .mil, or .fed.us 
 
 Policies related to .gov domains include:
 
-  * [OMB Policies for Federal Public Websites](http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)—requires agencies to “Use Approved Domains”
-  * [.GOV Internet Program Guidelines](https://www.dotgov.gov/portal/web/dotgov/program-guidelines)—overview of domain registration requirements
-  * [.GOV Internet Domain Guidelines](https://www.dotgov.gov/portal/web/dotgov/domain-guidelines)—guidance for agency domain management
-  * Final Rule &#8211; 41 [CFR Part 102-173](https://www.dotgov.gov/portal/web/dotgov/policy)—authorizes GSA to manage the .gov registration process
-  * [Prohibition on lobbying with appropriated moneys](http://www.gpo.gov/fdsys/pkg/USCODE-2012-title18/pdf/USCODE-2012-title18-partI-chap93-sec1913.pdf) (Title 18, Section 1913, U.S. Code)—federal public websites must not be used for direct or indirect lobbying
+* [OMB Policies for Federal Public Websites](http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)—requires agencies to “Use Approved Domains”
+* [.GOV Internet Program Guidelines](https://www.dotgov.gov/portal/web/dotgov/program-guidelines)—overview of domain registration requirements
+* [.GOV Internet Domain Guidelines](https://www.dotgov.gov/portal/web/dotgov/domain-guidelines)—guidance for agency domain management
+* Final Rule &#8211; 41 [CFR Part 102-173](https://www.dotgov.gov/portal/web/dotgov/policy)—authorizes GSA to manage the .gov registration process
+* [Prohibition on lobbying with appropriated moneys](http://www.gpo.gov/fdsys/pkg/USCODE-2012-title18/pdf/USCODE-2012-title18-partI-chap93-sec1913.pdf) (Title 18, Section 1913, U.S. Code)—federal public websites must not be used for direct or indirect lobbying

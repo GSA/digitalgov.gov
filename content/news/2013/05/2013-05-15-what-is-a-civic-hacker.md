@@ -11,7 +11,7 @@ topics:
   - national-day-of-civic-hacking
 ---
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/National-Day-of-Civic-Hacking-3.jpg">{{< legacy-img src="2014/01/National-Day-of-Civic-Hacking-3.jpg" alt="Black and white of a old U.S. fighter plane" >}}</a>The <a href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a> is bringing together thousands of civic hackers on June 1st and 2nd. But what is a civic hacker, anyway?
 </p>
 

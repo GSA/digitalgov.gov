@@ -28,11 +28,11 @@ DigitalGov also uses multi-session cookies to help us understand how people use 
 
 This site may include useful hypertext links or pointers to information created and maintained by others. We provide these links and pointers solely for your information and convenience. When you select a link to an outside website, remember that you&#8217;re leaving this blog and are subject to the privacy and security policies of the owners/sponsors of the outside website. When you leave this blog, remember that GSA
 
-  * does not control or guarantee the accuracy, relevance, timeliness or completeness of information contained on a linked website
-  * does not endorse the organizations sponsoring linked websites, and we do not endorse the views they express or the products/services they offer
-  * cannot authorize the use of copyrighted materials contained in linked websites. Those who provide comments are responsible for the copyright of any content they provide
-  * is not responsible for transmissions users receive from linked websites
-  * does not guarantee that outside websites comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act
+* does not control or guarantee the accuracy, relevance, timeliness or completeness of information contained on a linked website
+* does not endorse the organizations sponsoring linked websites, and we do not endorse the views they express or the products/services they offer
+* cannot authorize the use of copyrighted materials contained in linked websites. Those who provide comments are responsible for the copyright of any content they provide
+* is not responsible for transmissions users receive from linked websites
+* does not guarantee that outside websites comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act
 
 ## Reuse and Copyright
 

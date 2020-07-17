@@ -40,20 +40,20 @@ Inventory.data.gov as a dataset management system requires a user account and is
 
 Inventory.data.gov provides the following features for dataset management/Open Data Policy compliance purposes:
 
-*   Existing data.json and enterprise data inventory metadata can be imported directly into inventory.data.gov.
-*   User group organizations can be created either for an entire agency or for individual bureaus so that users and permissions can be managed and delegated as needed by the agency
-*   A platform to manage public/non-public datasets: create new entries, modify existing ones, and delete any datasets as needed
-*   Unredacted Inventory / Enterprise Data Inventory (EDI) and Redacted Inventory / Public Data Listing (PDL) functionality exports the successfully validated datasets in the form of a data.json file complying to the POD Schema 1.1 version. Error records are provided in a log file for review and resolution by agency users.
+* Existing data.json and enterprise data inventory metadata can be imported directly into inventory.data.gov.
+* User group organizations can be created either for an entire agency or for individual bureaus so that users and permissions can be managed and delegated as needed by the agency
+* A platform to manage public/non-public datasets: create new entries, modify existing ones, and delete any datasets as needed
+* Unredacted Inventory / Enterprise Data Inventory (EDI) and Redacted Inventory / Public Data Listing (PDL) functionality exports the successfully validated datasets in the form of a data.json file complying to the POD Schema 1.1 version. Error records are provided in a log file for review and resolution by agency users.
 
 ## Using inventory.data.gov
 
 Once an agency has consulted with the Data.gov PMO and has decided to use inventory.data.gov for dataset management, the next steps are:
 
-1.  Setting up an “organization” on inventory.data.govFirst, the agency should decide how they want to present their structure within inventory.data.gov. An agency could make the “organization” the entire agency (for example, make the entire Department of Veterans Affairs one “organization). In that case, everyone with a user account associated to VA on inventory.data.gov would be able to view, add, edit or delete datasets for all of VA within inventory.data.gov. An agency could create an “organization” for sub-agencies, for instance creating an organization for the Farm Service Agency and all the other units of the Department of Agriculture. In that scenario, a user account for Farm Service Agency could view, add, edit or delete datasets for the Farm Service Agency only.The Data.gov PMO will set up organizations in the manner requested by the agency.
+1. Setting up an “organization” on inventory.data.govFirst, the agency should decide how they want to present their structure within inventory.data.gov. An agency could make the “organization” the entire agency (for example, make the entire Department of Veterans Affairs one “organization). In that case, everyone with a user account associated to VA on inventory.data.gov would be able to view, add, edit or delete datasets for all of VA within inventory.data.gov. An agency could create an “organization” for sub-agencies, for instance creating an organization for the Farm Service Agency and all the other units of the Department of Agriculture. In that scenario, a user account for Farm Service Agency could view, add, edit or delete datasets for the Farm Service Agency only.The Data.gov PMO will set up organizations in the manner requested by the agency.
 
-1.  Migrating existing datasets to inventory.data.govMost agencies have already created data inventories pursuant to the Open Data Policy. To begin using inventory.data.gov to manage the datasets, the Data.gov team will migrate the existing data listings to inventory.data.gov so that agencies can start editing from the current versions. For agencies that do not have data inventories under the Open Data Policy, but do have datasets listed in the current Data.gov catalog from the old Dataset Management System, the Data.gov PMO can migrate these old listings into inventory.data.gov for the agencies to update.
+1. Migrating existing datasets to inventory.data.govMost agencies have already created data inventories pursuant to the Open Data Policy. To begin using inventory.data.gov to manage the datasets, the Data.gov team will migrate the existing data listings to inventory.data.gov so that agencies can start editing from the current versions. For agencies that do not have data inventories under the Open Data Policy, but do have datasets listed in the current Data.gov catalog from the old Dataset Management System, the Data.gov PMO can migrate these old listings into inventory.data.gov for the agencies to update.
 
-1.  Creating user accounts for the agency representatives who will be using inventory.data.gov to manage the agency datasets.Inventory.data.gov, for dataset management purposes, is not publicly accessible. Users must have accounts on the system. There are three levels of accounts for any “organization” on inventory.data.gov: Administrator, Editor, and Member. For dataset management, agency users will either have an Administrator or Editor account. Agencies should appoint at least one Administrator. Administrators can add additional members from that agency (organization), including additional Administrators.Agencies should nominate the Administrator(s). The Data.gov PMO will create these accounts and ensure that the Administrators are familiar with the process of adding additional Administrators and Members for their agency (organization).
+1. Creating user accounts for the agency representatives who will be using inventory.data.gov to manage the agency datasets.Inventory.data.gov, for dataset management purposes, is not publicly accessible. Users must have accounts on the system. There are three levels of accounts for any “organization” on inventory.data.gov: Administrator, Editor, and Member. For dataset management, agency users will either have an Administrator or Editor account. Agencies should appoint at least one Administrator. Administrators can add additional members from that agency (organization), including additional Administrators.Agencies should nominate the Administrator(s). The Data.gov PMO will create these accounts and ensure that the Administrators are familiar with the process of adding additional Administrators and Members for their agency (organization).
 
 ### Creating a User Account
 
@@ -302,54 +302,54 @@ Data.gov, working with DigitalGov University, presented a webinar for agencies i
 
 Here are some questions and answers raised during the webinar:
 
-1.  If your agency already has an admin listed, do you need their approval to be appointed as an admin?
+1. If your agency already has an admin listed, do you need their approval to be appointed as an admin?
 
 If someone at your agency already has an admin account on inventory.data.gov, that person can grant you an admin account. There are no limits on how many admin accounts an agency can have.
 
-1.  Who do we email to request our organization be created?
+1. Who do we email to request our organization be created?
 
 Contact the DataGov team via email.
 
-1.  Who should I contact to get my organization approved/created?
+1. Who should I contact to get my organization approved/created?
 
 When you contact the Data.gov team (see contact info above) about using inventory.data.gov, we can create the organization for you.
 
-1.  For the record to be identified as geospatial, does “geospatial” go in Theme (Category)
+1. For the record to be identified as geospatial, does “geospatial” go in Theme (Category)
 
 Yes. That designation also ensures that record is included in geoplatform.gov.
 
-1.  Is there a way to import an existing data.json into inventory.data.gov?
+1. Is there a way to import an existing data.json into inventory.data.gov?
 
 For importing existing data.json, please contact the Data.gov team and we will work with you to migrate into inventory.data.gov.
 
-1.  How do we know our agency POC?
+1. How do we know our agency POC?
 
 For Data.gov/Open Data Policy purposes, if you don’t know your agency’s POC, contact the Data.gov team and we will connect you. You can also find your agency POC at https://project-open-data.cio.gov/points-of-contact/
 
-1.  How does this work with Data.gov?
+1. How does this work with Data.gov?
 
 Inventory.data.gov is a separate system from the Data.gov catalog, using the same technology as the catalog (CKAN) to provide a service that agencies can use to create and maintain data inventories that are ultimately harvested by the Data.gov catalog from agency.gov/data.json
 
-1.  Can we add custom core metadata fields?
+1. Can we add custom core metadata fields?
 
 Yes, but not through the user interface on inventory.data.gov currently. Please contact the Data.gov team if you have this situation.
 
-1.  Does search works only on dataset name and description or the actual content as well?
+1. Does search works only on dataset name and description or the actual content as well?
 
 Search does not cover the actual content.
 
-1.  What is the difference between public and restricted-public?
+1. What is the difference between public and restricted-public?
 
 See the “access level” field in [Project Open Data](https://project-open-data.cio.gov/v1.1/schema/): The degree to which this dataset could be made publicly-available, regardless of whether it has been made available. Choices: public (Data asset is or could be made publicly available to all without restrictions), restricted public (Data asset is available under certain use restrictions), or non-public (Data asset is not available to members of the public).
 
-1.  Can you clarify the difference between central and inventory CKAN? It seems like many datasets are using the datastore feature on inventory.data.gov – is this no longer the policy and inventory is mainly for creating data.json files?
+1. Can you clarify the difference between central and inventory CKAN? It seems like many datasets are using the datastore feature on inventory.data.gov – is this no longer the policy and inventory is mainly for creating data.json files?
 
 “Central CKAN” was a term used in 2014 to refer to what we call inventory.data.gov – it is one and the same. This webinar focused on the primary purpose of inventory.data.gov – to provide a dataset management system to help agencies create and maintain their data inventories and arrive at a data.json. We do use inventory.data.gov for a second purpose – to host a small number of datasets for agencies that needed a hosting capability at the conclusion of the Socrata platform contract that Data.gov had until July 2014.
 
-1.  If inventory.data.gov is not intended for geospatial metadata, what system is? Geoplatform.gov? If we have standards-compliant (ISO, FGDC, etc.) metadata already published, can we import these metadata fields? Or must we enter them manually?
+1. If inventory.data.gov is not intended for geospatial metadata, what system is? Geoplatform.gov? If we have standards-compliant (ISO, FGDC, etc.) metadata already published, can we import these metadata fields? Or must we enter them manually?
 
 Inventory.data.gov in its current form is not designed to handle geospatial metadata. As discussed in our harvesting documentation, Data.gov continues to harvest geospatial datasets directly from geospatial harvest sources. Agencies should have the remainder of their agencies in a “non-geospatial” data.json that the Data.gov catalog can harvest.
 
-1.  So the system does not push errors to you; you have to search for them?
+1. So the system does not push errors to you; you have to search for them?
 
 When you are ready to export your agency’s datasets to data.json and hit the button on inventory.data.gov, you will be prompted to download a zip file containing the data.json. If there are errors, the zip file will also contain an error log containing information about the datasets with errors. We are working on improving validation within inventory.data.gov so that more errors are identified as you are adding and editing datasets, before you reach the export stage.

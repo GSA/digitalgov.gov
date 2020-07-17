@@ -56,7 +56,6 @@ Federal agencies are directed to update these accounts in the U.S. Digital Regis
 
 > “To help confirm the validity of official U.S. Government digital platforms, within 60 days of the publication date of this Memorandum, agencies must register their public-facing digital services such as social media, collaboration accounts, mobile apps and mobile websites, with the U.S. Digital Registry at: [http://www.digitalgov.gov/services/u-s-digital-registry/](http://www.digitalgov.gov/services/u-s-digital-registry/).”
 
-
 **To register and manage accounts on the U.S. Digital Registry** you must have a  [Login.gov](http://login.gov/)  account, which is available to federal government employees and contractors with a valid .gov, .mil, or .[fed.us](http://fed.us/)  email address.
 
 1. Go to the  [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov/)

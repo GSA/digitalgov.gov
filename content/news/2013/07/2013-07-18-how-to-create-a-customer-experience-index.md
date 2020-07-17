@@ -10,7 +10,7 @@ topics:
   - cx
 ---
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/index-chart-notebook.jpg">{{< legacy-img src="2013/07/index-chart-notebook.jpg" alt="image of notebook with charts and a pen" >}}</a>In my last post I talked about how we’re <a href="{{< ref "2013-07-10-kicking-off-our-customer-experience-program.md" >}}">kicking off our Customer Experience program</a> in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA.  There are many paths to creating a customer experience program, from starting with cultural issues like employee engagement and telling our customer experience stories, to events highlighting the plan moving forward.
 </p>
 
@@ -18,21 +18,21 @@ While we have been working diligently on employee engagement issues and talking 
 
 Keeping it simple was one of our primary objectives.  The index is being created by using questions that address:
 
-  * <p dir="ltr">
+  * <p>
       Did your customer accomplish the task that they came to your organization, website, or program for?
     </p>
 
-  * <p dir="ltr">
+  * <p>
       Would your customer recommend your product or service to a friend or colleague?
     </p>
 
-  * <p dir="ltr">
+  * <p>
       Would your customer use your services again?
     </p>
 
   * How would they rate the overall experience when interacting with your product or service?
 
-<p dir="ltr">
+<p>
   Each question will be rated from 1 to 5, with 5 being the best score. The overall score will be calculated by taking the percentage of responses that receive a 4 or 5, minus the responses that rated a 1 or 2. Each result will be averaged to create a composite customer experience, or CX, index. We have made a commitment to the Administrator of GSA to create a methodology and plan for computing these indexes by the end of the fiscal year. This commitment was also included in all of the performance plans for our executives and managers throughout OCSIT.
 </p>
 

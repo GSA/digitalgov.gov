@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/socialgov-talks-leveraging-pop-cu
 captions: 
 
 # start date
-date: 2019-09-26 14:00:00 -0500
+date: 2019-09-26 15:00:00 -0500
 
 # end date
-end_date: 2019-09-26 15:00:00 -0500
+end_date: 2019-09-26 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -22,6 +22,8 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - gabrielle-perret
+  - laura-larrimore
   - paul-lester
 
 # YouTube ID

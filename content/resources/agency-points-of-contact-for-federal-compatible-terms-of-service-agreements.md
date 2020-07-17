@@ -21,7 +21,6 @@ topics:
 - [Agency Points of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
 {{< /box >}}
 
-
 If your agency is part of a larger agency, your contact will be at the larger agency, as these agreements are negotiated and signed for the entire agency.
 
 If your agency isn’t listed below, contact [the Digital.gov team](digitalgov@gsa.gov) and we will add your point of contact to the list.

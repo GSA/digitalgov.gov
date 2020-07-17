@@ -48,5 +48,5 @@ The community mailing list is open to everyone, though some events will be limit
 
 ## Key Resources
 
- - [API guides and resources for federal agencies](https://api-all-the-x.18f.gov/)
- - [US Government API mailing list](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis)
+- [API guides and resources for federal agencies](https://api-all-the-x.18f.gov/)
+- [US Government API mailing list](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis)

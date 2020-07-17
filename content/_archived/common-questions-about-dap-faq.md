@@ -13,13 +13,13 @@ authors:
 
 Below are the questions we hear most often about the [Digital Analytics Program (DAP)]({{< link "/dap/" >}} "DAP: Digital Analytics Program").
 
-  * [User Agreement](#part-7) "Common Questions about DAP (FAQ): User Agreement"
-  * [Implementation](#part-1) "Common Questions about DAP (FAQ): Implementation"
-  * [Customization and Access](#part-2) "Common Questions about DAP (FAQ): Customization and Access"
-  * [Google Universal Analytics](#part-3) "Common Questions about DAP (FAQ): Google Universal Analytics"
-  * [Data Access, Retention and Privacy](#part-4) "Common Questions about DAP (FAQ): Data Access, Retention and Privacy"
-  * [Reporting](#part-5) "Common Questions about DAP (FAQ): Reporting"
-  * [Customer Satisfaction Tool Implementation](#part-6) "Common Questions about DAP (FAQ): Customer Satisfaction Tool Implementation"
+* [User Agreement](#part-7) "Common Questions about DAP (FAQ): User Agreement"
+* [Implementation](#part-1) "Common Questions about DAP (FAQ): Implementation"
+* [Customization and Access](#part-2) "Common Questions about DAP (FAQ): Customization and Access"
+* [Google Universal Analytics](#part-3) "Common Questions about DAP (FAQ): Google Universal Analytics"
+* [Data Access, Retention and Privacy](#part-4) "Common Questions about DAP (FAQ): Data Access, Retention and Privacy"
+* [Reporting](#part-5) "Common Questions about DAP (FAQ): Reporting"
+* [Customer Satisfaction Tool Implementation](#part-6) "Common Questions about DAP (FAQ): Customer Satisfaction Tool Implementation"
 
 <h2 id="part-7" style="padding-top: 50px">
   User Agreement
@@ -29,12 +29,12 @@ Below are the questions we hear most often about the [Digital Analytics Program 
 
 By logging in and accessing data within the tools of the Digital Analytics Program (DAP), you understand and agree that:
 
-  * Access to the government-wide view of the Digital Analytics Program (DAP) is to assist participating agencies in improving websites across the government.
-  * Portions of the data are available to the public on [analytics.usa.gov](http://analytics.usa.gov). Access to data beyond that on analytics.usa.gov is restricted to DAP users only.
-  * Each participating agency controls the distribution and sharing of their own agency-specific data beyond what is shown on [analytics.usa.gov](http://analytics.usa.gov) at the discretion of the agency’s designated DAP POC.
-  * Agencies are not authorized to communicate or share findings derived from the DAP tools about another agency without the other agency’s explicit, written permission.
-  * For questions regarding these and other scenarios on the use of the DAP data, agencies should contact the Office of Management and Budget by emailing <eGov@omb.eop.gov>.
-  * The Google Analytics code is designed to collect data in a consistent way across all .gov websites. Any modifications to the code without DAP authorization is prohibited. DAP requires oversight of the code in order to ensure the data is reported accurately for agency sites. Agencies can continue to run their own metrics tools in addition to DAP.
+* Access to the government-wide view of the Digital Analytics Program (DAP) is to assist participating agencies in improving websites across the government.
+* Portions of the data are available to the public on [analytics.usa.gov](http://analytics.usa.gov). Access to data beyond that on analytics.usa.gov is restricted to DAP users only.
+* Each participating agency controls the distribution and sharing of their own agency-specific data beyond what is shown on [analytics.usa.gov](http://analytics.usa.gov) at the discretion of the agency’s designated DAP POC.
+* Agencies are not authorized to communicate or share findings derived from the DAP tools about another agency without the other agency’s explicit, written permission.
+* For questions regarding these and other scenarios on the use of the DAP data, agencies should contact the Office of Management and Budget by emailing <eGov@omb.eop.gov>.
+* The Google Analytics code is designed to collect data in a consistent way across all .gov websites. Any modifications to the code without DAP authorization is prohibited. DAP requires oversight of the code in order to ensure the data is reported accurately for agency sites. Agencies can continue to run their own metrics tools in addition to DAP.
 
 <h2 id="part-1" style="padding-top: 50px">
   Implementation
@@ -68,10 +68,10 @@ No. The code makes itself “secondary” to other code by safely exiting if it 
 
 The only issue is customizations that affect:
 
-  * Cookie timeout periods
-  * Use _setAllowHash
-  * Use _setDomain with a leading period
-  * Use the old Urchin tracking code
+* Cookie timeout periods
+* Use _setAllowHash
+* Use _setDomain with a leading period
+* Use the old Urchin tracking code
 
 The current deployment is designed to insulate itself from and be unobtrusive to existing implementations. The government-wide tool looks at the existing cookies and adjusts its own configuration to match the existing GA code configuration. The only caveat is if your existing customizations changed cookie timeout periods. In these unusual cases, this code will write to the same cookies with the standard timeout periods. Learn more about [incorporating the DAP tool into your current metrics program]({{< link "/dap/" >}} "DAP: Digital Analytics Program").
 
@@ -93,7 +93,7 @@ No. At this time, the DAP GA code can be deployed only on public-facing agency w
 
 ### How is the DAP Google Analytics account architected?
 
-DAP GA Gov-wide account uses_ Views (formerly called &#8216;Profiles&#8217;)_ to categorize and report on federal government agencies’ website traffic. Views are assigned at the main federal agency level (e.g. DOD, DOC, Department of Education etc.), and the traffic for sub-agencies/bureaus websites is reported under their main agency profile. There’s also an overarching, government-wide reporting profile, which combines all of the federal websites’ traffic into a single profile.
+DAP GA Gov-wide account uses _Views (formerly called &#8216;Profiles&#8217;)_ to categorize and report on federal government agencies’ website traffic. Views are assigned at the main federal agency level (e.g. DOD, DOC, Department of Education etc.), and the traffic for sub-agencies/bureaus websites is reported under their main agency profile. There’s also an overarching, government-wide reporting profile, which combines all of the federal websites’ traffic into a single profile.
 
 DAP staff is responsible for creating all agency profiles, as well as maintaining each of the profiles’ filters used to distribute incoming traffic data. For security purposes, all DAP GA user access requests must be first approved by the respective agency’s DAP POC. Once approved, all DAP users are granted view-only rights to access the GA views. After user access is granted, users can view website traffic within the DAP profiles. At this time, all of the user management and other admin functions are handled by the DAP staff only.
 
@@ -103,7 +103,7 @@ To zoom into the specific website’s traffic, each DAP user can create up to 10
   <a name="customization-access"></a>Customization and Access
 </h2>
 
-###  Who can use the tool?
+### Who can use the tool?
 
 DAP implementation and usage is limited to agencies of the U.S. federal government.
 
@@ -134,12 +134,6 @@ If your agency is still using a ga.js DAP code, an upgrade to Universal Analytic
 Compared to the classic GA (ga.js), UA gives GA users more control over tracking settings (e.g. session timeouts, campaign timeouts, exclusion of referrals, addition of search engines, removal of certain search terms etc.). UA also gives users the ability to create custom dimensions and custom metrics (in the current classic GA, users can only create custom variables), and other customization enhancements.
 
 If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< link "analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
-
-###
-
-###
-
-###
 
 <h2 id="part-4" style="padding-top: 50px">
   <a name="data-access-retention-privacy"></a>Data Access, Retention and Privacy
@@ -191,9 +185,9 @@ We recommend adding the following language:
 
 > This website uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
 >
->   * [Google’s main privacy policy](http://www.google.com/intl/en/policies/privacy)
->   * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
->   * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
+> * [Google’s main privacy policy](http://www.google.com/intl/en/policies/privacy)
+> * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
+> * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
 
 See [this notice]({{< link "policies.md" >}}) on our Site Policies page.
 
@@ -211,12 +205,12 @@ There are several reliable sources of competitive/benchmark data, including comm
 
 There are also a variety of Web analytics blogs that publish the _Google Analytics Monthly Benchmark Report_, a report that Google Analytics users receive by email on a monthly basis if they opt-in to share data anonymously with Google. For example, Google Analytics Benchmark Averages for Bounce Rate are as follows:
 
-  * **40-60%** Content websites
-  * **30-50%** Lead generation sites
-  * **70-98%** Blogs
-  * **20-40%** Retail sites
-  * **10-30%** Service sites
-  * **70-90%** Landing pages
+* **40-60%** Content websites
+* **30-50%** Lead generation sites
+* **70-98%** Blogs
+* **20-40%** Retail sites
+* **10-30%** Service sites
+* **70-90%** Landing pages
 
 Ultimately, while there are many sources for benchmarking information, your Web data interpretation and analysis should be based on the website/department/agency goals that make sense within your organization. Industry-based benchmark percentages only make sense to measure against when they are in the proper context, and align to your specific website, the mission of your site, and other factors specific to YOUR needs and goals.
 
@@ -230,10 +224,10 @@ The code will track off-site/outbound links as part of a visit, so a visit will 
 
 Most common Bounce Rate scenarios:
 
-  * Clicks the back button (most common)
-  * Closes the browser (window/tab)
-  * Types a new URL
-  * Does nothing (session times out after 30 min)
+* Clicks the back button (most common)
+* Closes the browser (window/tab)
+* Types a new URL
+* Does nothing (session times out after 30 min)
 
 Bounce rate is the % of visits that only had one page view. A click is tied to a specific action, like a new page, search box, an offsite/outbound/external link, a sign-up form etc., so, it is considered to be interaction/engagement with that page, and hence, would not be considered a bounce.
 
@@ -245,10 +239,10 @@ Bounce rate is the % of visits that only had one page view. A click is tied to a
 
 GSA has negotiated federal friendly Terms of Service with the following tools that can be used to collect Customer Satisfaction data:
 
-  * [4Q Survey.com](http://www.4qsurvey.com/)
-  * [Survey Analytics](http://www.surveyanalytics.com/)
-  * [SurveyMonkey](http://www.surveymonkey.com/)
-  * [UserVoice](http://www.uservoice.com/)
+* [4Q Survey.com](http://www.4qsurvey.com/)
+* [Survey Analytics](http://www.surveyanalytics.com/)
+* [SurveyMonkey](http://www.surveymonkey.com/)
+* [UserVoice](http://www.uservoice.com/)
 
 Take a look at the process for [signing the terms and using the tool]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") and talk to [your agency POC]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements").
 
@@ -263,8 +257,8 @@ Plan to report the data on your /digitalstrategy pages. The [OMB guidance](https
 
 For Customer Satisfaction:
 
-  * Describe the tool(s) utilized, progress toward implementing on all public-facing .gov websites (pursuant to privacy and security laws and regulations), and approach to finishing implementation on all .gov websites (if not yet complete).
-  * Provide links to any places where this customer satisfaction data is being shared publicly.
+* Describe the tool(s) utilized, progress toward implementing on all public-facing .gov websites (pursuant to privacy and security laws and regulations), and approach to finishing implementation on all .gov websites (if not yet complete).
+* Provide links to any places where this customer satisfaction data is being shared publicly.
 
 ### How should we structure the data? Open ended? Numeric scale?
 
