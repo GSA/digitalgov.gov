@@ -32,7 +32,7 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id: L-J6yCWzum4
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
