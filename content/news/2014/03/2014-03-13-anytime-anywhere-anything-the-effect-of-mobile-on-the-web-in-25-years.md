@@ -21,7 +21,7 @@ topics:
   - USDA
 ---
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/featured-web-future-166678934-301-x-212.jpg">{{< legacy-img src="2014/03/featured-web-future-166678934-301-x-212.jpg" alt="featured web future 166678934 301 x 212" >}}</a>In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted.
 </p>
 

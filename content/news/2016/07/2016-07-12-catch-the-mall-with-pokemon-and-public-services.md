@@ -31,7 +31,7 @@ Whether you are fans of the cartoonish little monsters or not, the fact is that 
 For years, agencies like the [National Park Service](https://www.nps.gov/) have struggled with how to engage with and encourage younger, tech-savvy audiences to get outside and [#FindYourPark]({{< ref "2015-06-30-celebrating-parks-creating-connections-nps-prepares-for-2016-centennial.md">}}). Suddenly, over the weekend, our parks are besieged by [Pokémon hunters, exploring all the nooks and crannies of our parks](https://www.facebook.com/nationalparkservice/videos/10153602428786389/) on their quest to &#8220;catch &#8217;em all.&#8221; While it’s not all fun and games &#8212; there are people wandering into areas that are closed to the public due to safety and resource protection issues &#8212; this provides a fascinating opportunity to explore visitor engagement at the speed of technology.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     Attention Trainers: We're so excited you're headed out to the parks. Go <a href="https://twitter.com/hashtag/FindYourPark?src=hash">#FindYourPark</a> & catch 'em all! <a href="https://twitter.com/hashtag/PokemonGo?src=hash">#PokemonGo</a><a href="https://t.co/HOK57ZPQ0i">https://t.co/HOK57ZPQ0i</a>
   </p>
 

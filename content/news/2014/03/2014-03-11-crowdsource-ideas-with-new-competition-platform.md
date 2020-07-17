@@ -14,7 +14,7 @@ topics:
   - recaps
 ---
 
-<p dir="ltr">
+<p>
   Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool.
 </p>
 
