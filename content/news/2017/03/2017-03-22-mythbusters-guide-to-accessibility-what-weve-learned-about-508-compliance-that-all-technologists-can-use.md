@@ -39,9 +39,7 @@ WCAG provides the industry-recognized set of standards for accessible content. I
 
 > _2.4.6 Headings and Labels: Headings and labels describe topic or purpose._
 
-Depending on the context in which you’re building, headings and labels may be implemented in different ways. On the web, for instance, you’d use an 
-
-# tag for a page heading.</p> 
+Depending on the context in which you’re building, headings and labels may be implemented in different ways. On the web, for instance, you’d use an `H1` tag for a page heading.</p> 
 
 When you’re trying to make content accessible, you may hear that you must use a particular implementation method. This is simply not true — WCAG does not require any particular implementation. Focus on the “what” not the “how.”
 
