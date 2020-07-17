@@ -14,7 +14,9 @@ jobs:
     <<: *default-executor
     steps:
       - checkout
-      - node/install-packages
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
       - attach_workspace:
           at: .
       - run:
@@ -27,7 +29,9 @@ jobs:
     <<: *default-executor
     steps:
       - checkout
-      - node/install-packages
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
       - run:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
