@@ -23,6 +23,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - gabrielle-perret
   - natale-goriel
   - paul-lester
   - stephen-morris
@@ -37,7 +38,6 @@ weight: 0
 
 # Make it better ♥
 ---
-
 Join the digital experts at the U.S. Small Business Administration (SBA) to learn how they 
 
 - develop successful campaigns to reach small business in the digital environment, 
