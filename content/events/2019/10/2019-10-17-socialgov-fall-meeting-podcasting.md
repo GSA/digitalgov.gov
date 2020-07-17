@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/socialgov-fall-meeting-podcasting
 captions: 
 
 # start date
-date: 2019-10-17 9:30:00 -0500
+date: 2019-10-17 10:30:00 -0500
 
 # end date
-end_date: 2019-10-17 13:00:00 -0500
+end_date: 2019-10-17 14:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -25,6 +25,7 @@ authors:
   - anamaria-sinitean
   - christopher-m-wurst
   - david-a-kosub-phd
+  - gabrielle-perret
   - matt-dozier
   - tanner-iskra
 
