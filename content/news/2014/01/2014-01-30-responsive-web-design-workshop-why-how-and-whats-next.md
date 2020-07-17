@@ -1,8 +1,8 @@
 ---
 slug: responsive-web-design-workshop-why-how-and-whats-next
 date: 2014-01-30 10:28:29 -0400
-title: 'Responsive Web Design Workshop: Why, How and What’s Next?'
-summary: 'Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many agencies have implemented it and many others are exploring this approach to Mobile Gov. There are still many other questions about responsive web'
+title: "Responsive Web Design Workshop: Why, How and What’s Next?"
+summary: "Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many agencies have implemented it and many others are exploring this approach to Mobile Gov. There are still many other questions about responsive web"
 authors:
   - jparcell
 topics:
@@ -32,9 +32,9 @@ topics:
   The event will answer three big questions:
 </p>
 
-  * Why do responsive web design?
-  * How should an agency implement responsive web design?
-  * Once responsive web design is implemented, how do you stay future ready?
+- Why do responsive web design?
+- How should an agency implement responsive web design?
+- Once responsive web design is implemented, how do you stay future ready?
 
 Have you implemented or are you planning to implement a responsively designed site?
 
@@ -50,27 +50,27 @@ Have you implemented or are you planning to implement a responsively designed si
 
 #### Part 1 – Responsive Design – Why
 
-  * Why and When You Should Do Responsive-All Attendees
-  * [AIDS.gov](http://aids.gov/) Responsive Web Design Experience – AIDS.gov
+- Why and When You Should Do Responsive-All Attendees
+- [AIDS.gov](http://aids.gov/) Responsive Web Design Experience – AIDS.gov
 
 #### Part 2 – Responsive Design – How
 
-  * Responsive Web Design  Implementation and Open Source CMS Systems – GSA
-  * Open Content Modeling and Responsive Design – National Cancer Institute
+- Responsive Web Design Implementation and Open Source CMS Systems – GSA
+- Open Content Modeling and Responsive Design – National Cancer Institute
 
 #### Part 3 – Responsive Design – What’s Next
 
-  * How Should You Engage With Your Users for Mobile – National Institutes of Health
-  * Federal Student Aid-From Responsive to Apps – Department of Education
+- How Should You Engage With Your Users for Mobile – National Institutes of Health
+- Federal Student Aid-From Responsive to Apps – Department of Education
 
-###  Event Details:
+### Event Details:
 
 **Responsive Web Design Workshop: Why, How and What’s Next?**
-  
+
 Thursday, February 6, 2014
-  
+
 9:00 – 1:00 pm
-  
+
 GSA – 1800 F Street NW
 
 If you have any questions, please contact Jacob Parcell at jacob.parcell@gsa.gov
