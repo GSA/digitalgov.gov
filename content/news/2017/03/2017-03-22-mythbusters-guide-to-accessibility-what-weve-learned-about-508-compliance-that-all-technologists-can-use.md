@@ -2,7 +2,7 @@
 slug: mythbusters-guide-to-accessibility-what-weve-learned-about-508-compliance-that-all-technologists-can-use
 date: 2017-03-22 12:14:30 -0400
 title: 'Mythbuster’s Guide to Accessibility: What We&#8217;ve Learned About 508 Compliance That All Technologists Can Use'
-summary: 'As government technology improves and accelerates, the U.S. Digital Service has the opportunity to improve the most critical public-facing services across agencies. The services and products we create need to be accessible to everyone. Too often, we’ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we’ll debunk'
+summary: 'Too often, we’ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we’ll debunk these myths, so you can easily create universally accessible content.'
 authors:
   - nick-heiner
 topics:
@@ -14,6 +14,7 @@ topics:
   - USDS
   - user-experience
   - ux
+
 ---
 
 As government technology improves and accelerates, the U.S. Digital Service has the opportunity to improve the most critical public-facing services across agencies. The services and products we create need to be accessible to everyone. Too often, we’ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we’ll debunk these myths, so you can easily create universally accessible content.
@@ -91,11 +92,8 @@ To a sighted user, it’s obvious that the title “Overview By Tax Year” is r
   </p>
   
   
-  <h2>
-    Myth 6: Testing can be done without consulting assistive technologies or users with disabilities.
-  </h2>
-  
-  
+## Myth 6: Testing can be done without consulting assistive technologies or users with disabilities.
+
   <p>
     <em>Reality: The only way to ensure that users with a disability get a comparable experience is to test with them and the tools they use.</em>
   </p>
@@ -106,10 +104,7 @@ To a sighted user, it’s obvious that the title “Overview By Tax Year” is r
   </p>
   
   
-  <h2>
-    Myth 7: Text-Only versions of your content are accessible.
-  </h2>
-  
+## Myth 7: Text-Only versions of your content are accessible.
   
   <p>
     <em>Reality: “Separate but equal” accommodations are a lose-lose.</em>
@@ -121,11 +116,8 @@ To a sighted user, it’s obvious that the title “Overview By Tax Year” is r
   </p>
   
   
-  <h2>
-    Conclusion
-  </h2>
-  
-  
+## Conclusion
+
   <p>
     Accessibility isn’t crazy voodoo magic. If you’re comfortable building modern apps, you can easily pick up the skills necessary to make your content accessible. Being thoughtful about accessibility is a win-win: you get more users, and everyone can benefit from your creation.
   </p>
