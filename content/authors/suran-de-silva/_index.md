@@ -11,11 +11,12 @@ last_name: "De Silva"
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
+# Email — If you include an email address, it will be displayed on your profile page
 email: 
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "
+Suran De Silva is a digital strategist and UX advocate leading an effort to improve the taxpayer experience through consistent and user-driven design at the Internal Revenue Service."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
@@ -44,5 +45,4 @@ linkedin: ""
 youtube: ""
 
 # Make it better ♥
-
 ---
