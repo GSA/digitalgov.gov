@@ -4,8 +4,8 @@
 
 # slug — the specific user-id for an author.
 slug: ravoyne-ray-payton
-display_name: "Ravoyne \"Ray\" Payton"
-first_name: "Ravoyne \"Ray\""
+display_name: "Ravoyne \'Ray\' Payton"
+first_name: "Ravoyne \'Ray\'"
 last_name: "Payton"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
