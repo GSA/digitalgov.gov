@@ -1,6 +1,6 @@
 ---
 date: 2020-05-15 09:00:00 -0500
-title: "RPA Internal Controls"
+title: "RPA Playbook Internal Controls Addendum"
 deck: ""
 summary: ""
 guide: rpa
@@ -16,5 +16,5 @@ The addendum addresses topics such as:
 -   Audit Readiness
 -   Controls Objectives and Suggested Artifacts
 
-{{< button href="#" text=" IC Addendum" >}}
+{{< button href="https://digital.gov/pdf/rpa-playbook-ic-addendum-v1.0.pdf" text=" IC Addendum" >}}
 

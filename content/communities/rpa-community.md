@@ -48,7 +48,7 @@ The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP
 
 ## Resources
 
-The RPA community has built several resources, including an RPA Program [Playbook]({{< ref "rpa-playbook.md" >}}), an [Internal Controls Guide]({{< ref "rpa-internal-controls.md" >}}), and the [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}}). Check out our [RPA Guide]({{< ref "guides/rpa" >}}) to learn more!
+The RPA community has built several resources, including an RPA Program [Playbook]({{< ref "rpa-playbook.md" >}}), an [Internal Controls Guide](https://digital.gov/pdf/rpa-playbook-ic-addendum-v1.0.pdf), and the [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}}). Check out our [RPA Guide]({{< ref "guides/rpa" >}}) to learn more!
 
 ## Who We Are  
 
