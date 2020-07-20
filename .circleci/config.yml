@@ -10,19 +10,31 @@ default-executor: &default-executor
     tag: "10.21.0"
 
 jobs:
+  build:
+    <<: *default-executor
+    steps:
+      - checkout
+      - hugo/install:
+          version: "0.66.0"
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
+      - run:
+          name: Build assets
+          command: npm run federalist
+      - run:
+          name: Build with Hugo
+          command: HUGO_ENV=production hugo -v -s . -d public
+      - persist_to_workspace:
+          paths:
+            - public
+          root: .
   html-proofer:
     executor:
       name: hugo/cibuilds
     steps:
-      - checkout
-      - node/install-packages:
-          cache-path: ~/project/node_modules
-          override-ci-command: npm install
       - attach_workspace:
           at: .
-      - run:
-          name: Build assets
-          command: npm run federalist
       - run:
           name: "Test generated website with HTML Proofer."
           command: "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external"
@@ -68,15 +80,13 @@ jobs:
 workflows:
   build_test_process:
     jobs:
-      - hugo/build:
-          html-proofer: false
-          version: "0.66.0"
+      - build
       - html-proofer:
           requires:
-            - hugo/build
+            - build
       - test:
           requires:
-            - hugo/build
+            - build
       - process:
           requires:
             - html-proofer
