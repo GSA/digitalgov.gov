@@ -14,8 +14,15 @@ jobs:
     executor:
       name: hugo/cibuilds
     steps:
+      - checkout
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
       - attach_workspace:
           at: .
+      - run:
+          name: Build assets
+          command: npm run federalist
       - run:
           name: "Test generated website with HTML Proofer."
           command: "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external"
