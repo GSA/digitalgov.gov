@@ -26,6 +26,6 @@ Federal employees may access the Federal Use Case Inventory by visiting [GSA’s
 
 ## Instruction Manual
 
-Review the [Instruction Manual (PDF)]()
+Review the Use Case Inventory [Instruction Manual](https://digital.gov/pdf/rpa-use-case-inventory-instruction-manual.pdf)  (PDF, 1.6 MB, 11 pages)
 
 This guide helps CoP members access, navigate, and leverage the RPA Use Case Inventory. Please refer to the Instruction Manual for both setting up a MAX.gov account as well as making the most of the data available in the Use Case Inventory.
