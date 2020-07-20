@@ -20,15 +20,15 @@ RPA products vary in their exact capabilities, but all RPA technologies emulate 
 Popular uses of RPA include data entry, data reconciliation, spreadsheet manipulation, systems integration, automated data reporting, analytics, and customer outreach and communications.
 
 ## Why Deploy RPA at Your Agency  
-Federal agencies are under continuous pressure to do more with fewer resources. Federal mandates such as OMB’s [M-18-23](https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pdf) provide guidance to agencies to pursue operational improvements, greater efficiencies, increased capabilities, and technology modernization. RPA’s proven advantages is with reduced implementation time, increased organizational capacity, improved employee engagement, qualitative benefits in process execution, and wide-ranging applicability across functions and agency priorities.
+Program managers are challenged to leverage limited resources to deliver on federal and agency-specific requirements. In response, federal mandates such as OMB’s [M-18-23](https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pdf), “Shifting From Low-Value to High-Value Work ” guides agencies to work toward operational improvements, greater efficiencies, increased capabilities, and technology modernization. 
 
-## RPA Community of Practice
-The [RPA Community of Practice (CoP)](https://digital.gov/communities/rpa/) helps agencies share solutions to overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.  
+RPA can achieve these goals at a low cost, with immediate impact. Specifically, RPA benefits include:
 
-Specifically, the CoP assists agencies in developing programs that are cost-effective, auditable, avoid common pitfalls, and most importantly, deploy impactful automations.  
-
-Notably, the CoP does not set policy, but policy-setting agencies are encouraged to participate and make use of the community’s base of knowledge, information, and experience.
-
-## Contact the RPA coordinator
-
-The RPA community and the RPA Playbook are coordinated by **Jim Geoghegan**: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov)
+-   Rapid implementation time compared to traditional IT solutions
+-   Increased organizational capacity
+-   Improved employee engagement with a focus on high-value work
+-   Wide-ranging applicability across agency functions and priorities
+-   Increased accuracy and compliance
+-   Improved standardization and auditability
+-   Reduced process cycle times
+-   Increased measurability and transparency
