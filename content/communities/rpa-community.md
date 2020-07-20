@@ -48,7 +48,7 @@ The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP
 
 ## Resources
 
-The RPA community has built several resources, including an RPA Program [Playbook]({{< ref "rpa-playbook.md" >}}), an [Internal Controls Guide](http://a), and the [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}}). Check out our [RPA Guide]({{< ref "guides/rpa" >}}) to learn more!
+The RPA community has built several resources, including an RPA Program [Playbook]({{< ref "rpa-playbook.md" >}}), an [Internal Controls Guide]({{< ref "rpa-internal-controls.md" >}}), and the [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}}). Check out our [RPA Guide]({{< ref "guides/rpa" >}}) to learn more!
 
 ## Who We Are  
 
@@ -58,7 +58,7 @@ The executive sponsor for the RPA Community of Practice is:
 
 - **Gerard Badorrek** — General Services Administration Chief Financial Officer and RPA Community of Practice Chair
 
-The RPA community is managed by Jim Geoghegan: **Jim Geoghegan**: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
+The RPA community is managed by **Jim Geoghegan**: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
 
 ---
 
@@ -81,14 +81,7 @@ The community is organized into 10 practice areas, with subject matter experts f
 ### Operations:
 
 - **Operations Management**: General Services Administration (GSA)
-<<<<<<< HEAD
-- **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF)
-- **RPA Playbook Lead**: Jim Geoghegan, General Services Administration (GSA)
-
-
-=======
 - **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF) 
->>>>>>> update rpa community page
 
 ---
 
