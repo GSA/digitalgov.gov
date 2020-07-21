@@ -43,7 +43,7 @@ Cloud.gov makes doing the right thing the easiest path. It provides better secur
 
 **How do you know if cloud.gov is a good fit for your team?** 
 
-Cloud.gov is intended for agencies that work with [Federal Information Security Modernization Act (FISMA) low and moderate environments](https://www.fedramp.gov/understanding-baselines-and-impact-levels/). In addition, cloud.gov is a good solution for teams that are focused on developing and deploying web apps quickly, need to quickly access and procure cloud services, and/or don’t have the resources to manage security and compliance themselves. 
+Cloud.gov is intended for agencies that work with Federal Information Security Modernization Act (FISMA) [low and moderate environments](https://www.fedramp.gov/understanding-baselines-and-impact-levels/). In addition, cloud.gov is a good solution for teams that are focused on developing and deploying web apps quickly, need to quickly access and procure cloud services, and/or don’t have the resources to manage security and compliance themselves. 
 
 **How is the ATO process simplified by using cloud.gov?** 
 
