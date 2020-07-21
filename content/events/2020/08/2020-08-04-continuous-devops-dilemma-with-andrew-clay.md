@@ -42,8 +42,8 @@ weight: 1
 ---
 Getting different outcomes requires different behaviors. Changing entrenched behaviors is particularly difficult for organizations because multiple groups need to coordinate change simultaneously in the face of uncertainty, skepticism and even mistrust. What can organizations do to bring more clarity to the hard work of aligning individual interests with the collective interest? And can that work be the foundation for adapting to the needs of the future, not simply setting new standards for today? 
 
-## Presenter:
+## Presenter
 
-**Andrew Clay Shafer  
+**Andrew Clay Shafer**  
 
 Always fascinated with the dynamics of creating high performing individuals and organizations, Andrew has a long history helping people deliver systems with better tools and processes. Andrew evangelized DevOps before DevOps was a word, and helped to organize devopsdays events since the earliest days of the movement. With more than 20 years of experience in technology, he gravitated to Agile and Lean methods as a software developer in the early 2000s. Applying this to systems evolved into DevOps practices, and now he's focused on helping traditional organizations change their behavior to deliver outcomes with new technology.
