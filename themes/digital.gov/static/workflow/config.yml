@@ -47,7 +47,7 @@ collections:
   - name: "authors" # Used in routes, e.g., /workflow/collections/blog
     label: "Authors" # Used in the UI
     label_singular: "Author"
-    description: "TKTK"
+    description: "This page will help create a new author profile on Digital.gov."
     folder: "content/authors" # path to the folder where files are stored
     path: "{{slug}}/_index" # custom file path
     create: true # Allow users to create new documents in this collection
