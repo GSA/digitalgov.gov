@@ -33,6 +33,8 @@ weight: 1
 
 ---
 
+{{< img-right src="cloud-gov" >}}
+
 As government agencies move to the cloud, government product managers are figuring out how to migrate their sites and applications to a cloud environment that is secure, safe, and compliant. Product managers need to understand their agencies’ needs and how cloud providers best support those needs. Cloud.gov is specifically designed to get government agencies onto the cloud by providing better security and faster compliance so that your team can focus on developing applications. 
 
 **Why should your team use cloud.gov?** 
