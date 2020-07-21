@@ -18,7 +18,7 @@ backend:
   auth_endpoint: external/auth/github
   preview_context: federalist/build
   open_authoring: true # accept contributions (forks) from GitHub users
-  branch: master
+  branch: main
   squash_merges: true # squash all commits into a single commit when the PR is merged
   commit_messages:
     create: 'New {{collection}}: "{{slug}}"'
