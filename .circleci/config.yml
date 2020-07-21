@@ -4,19 +4,45 @@ orbs:
   hugo: circleci/hugo@0.5.2
   node: circleci/node@3.0.1
 
-default-executor: &default-executor
+defaults: &defaults
   executor:
     name: node/default
     tag: "10.21.0"
 
 jobs:
-  test:
-    <<: *default-executor
+  build:
+    <<: *defaults
     steps:
       - checkout
+      - hugo/install:
+          version: "0.66.0"
       - node/install-packages:
           cache-path: ~/project/node_modules
           override-ci-command: npm install
+      - run:
+          name: Build assets
+          command: npm run federalist
+      - run:
+          name: Build with Hugo
+          command: HUGO_ENV=production hugo -v -s . -d public
+      - persist_to_workspace:
+          paths:
+            - node_modules
+            - public
+          root: .
+  html-proofer:
+    executor:
+      name: hugo/cibuilds
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: "Test generated website with HTML Proofer."
+          command: "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external || exit 0"
+  test:
+    <<: *defaults
+    steps:
+      - checkout
       - attach_workspace:
           at: .
       - run:
@@ -26,12 +52,11 @@ jobs:
           name: Lint Markdown
           command: npm run lint:markdown
   process:
-    <<: *default-executor
+    <<: *defaults
     steps:
       - checkout
-      - node/install-packages:
-          cache-path: ~/project/node_modules
-          override-ci-command: npm install
+      - attach_workspace:
+          at: .
       - run:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
@@ -52,14 +77,16 @@ jobs:
 workflows:
   build_test_process:
     jobs:
-      - hugo/build:
-          html-proofer: false
-          version: "0.66.0"
+      - build
+      - html-proofer:
+          requires:
+            - build
       - test:
           requires:
-            - hugo/build
+            - build
       - process:
           requires:
+            - html-proofer
             - test
           filters:
             branches:
