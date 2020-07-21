@@ -4,7 +4,7 @@
 slug: an-introduction-cloudgov-for-product-managers
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xfkTS
 date: 2020-07-21 12:00:00 -0500
 title: "An Introduction to cloud.gov for Product Managers"
 deck: ""
