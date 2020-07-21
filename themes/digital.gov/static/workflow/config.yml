@@ -1,13 +1,8 @@
 # ===========================
 # Netlify CMS
 # https://www.netlifycms.org/docs/
-# A full example https://github.com/netlify/netlify-cms/blob/master/dev-test/config.yml
 
-display_url: https://digital.gov
 site_url: https://digital.gov
-
-# logo_url — sets the logo in the Workflow admin
-# logo_url: https://digital.gov/img/digit-150.png
 logo_url: https://digital.gov/logos/digitalgov-logo.png
 
 # Backend and connections
@@ -17,8 +12,9 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  open_authoring: true # accept contributions (forks) from GitHub users
   branch: main
+  use_graphql: true
+  open_authoring: true # accept contributions (forks) from GitHub users
   squash_merges: true # squash all commits into a single commit when the PR is merged
   commit_messages:
     create: 'New {{collection}}: "{{slug}}"'
@@ -28,88 +24,25 @@ backend:
     deleteMedia: 'Delete "{{path}}"'
     openAuthoring: '{{message}}, {{author-login}}'
 
-
-# Enables the NetlifyCMS editorial workflow tools
+# Publish Mode
 publish_mode: editorial_workflow
-
-
-# MEDIA IS NOT BEING USED AT THIS TIME
-# Media / Images
-# This is where media will be stored in the repo
-media_folder: "static/media"
-# Path for uploaded media on the live site
-public_folder: "/media"
-
-
-# slug — sets how filenames for entries are created and sanitized.
-slug:
-  encoding: "unicode"
-  clean_accents: true
-
+show_preview_links: false
 
 # Localhost Editing
-# uses the local proxy server port
-# This is configured to run in our `npm start` script, defined in packages.json
 local_backend:
   url: http://localhost:8081/api/v1
 
+# Media / Images
+media_folder: "static/media"
+public_folder: "/img/proxy"
 
+# Misc
+slug:
+  clean_accents: true
 
 # ==============================================
 # Content Collections
 collections:
-
-
-
-  # EVENTS =======================
-  - name: "events" # Used in routes, e.g., /workflow/collections/blog
-    label: "Events" # Used in the UI
-    label_singular: 'Event'
-    description: "TKTK"
-    folder: "content/events" # path to the folder where files are stored
-    path: '{{slug}}' # custom file path
-    create: true # Allow users to create new documents in this collection
-    identifier_field: title # sets the field that is used to create the slug
-    slug: "{{slug}}"
-
-    # =================================
-    # Field Settings
-    # - label     — the title that will appear above the field in the editor
-    # - name      — this is the key that will be used in the front matter
-    # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
-    # - required  — all fields are required by default unless you include `required: false`
-    # - hint  — this is the helper text that occurrs below the field.
-    # Available fields: https://www.netlifycms.org/docs/widgets/#markdown
-
-    fields: # The fields for each document, usually in front matter
-
-      - label: "Title"
-        name: "title"
-        widget: "string"
-        hint: "Make it good!"
-
-      - label: "Deck"
-        name: "deck"
-        widget: "string"
-        hint: "TKTK"
-        required: false
-
-      - label: "Summary"
-        name: "summary"
-        widget: "string"
-        hint: "TKTK"
-
-      - label: "Registration URL"
-        name: "registration_url"
-        widget: "string"
-        hint: "TKTK"
-        required: false
-
-
-
-
-
-
   # AUTHORS =======================
   - name: "authors" # Used in routes, e.g., /workflow/collections/blog
     label: "Authors" # Used in the UI
