@@ -1,0 +1,186 @@
+# ===========================
+# Netlify CMS
+# https://www.netlifycms.org/docs/
+
+site_url: https://digital.gov
+logo_url: https://digital.gov/logos/digitalgov-logo.png
+
+# Backend and connections
+backend:
+  name: github
+  repo: GSA/digitalgov.gov
+  base_url: https://federalistapp.18f.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  branch: main
+  use_graphql: true
+  open_authoring: true # accept contributions (forks) from GitHub users
+  squash_merges: true # squash all commits into a single commit when the PR is merged
+  commit_messages:
+    create: 'New {{collection}}: "{{slug}}"'
+    update: 'Update {{collection}} "{{slug}}"'
+    delete: 'Delete {{collection}} "{{slug}}"'
+    uploadMedia: 'Upload "{{path}}"'
+    deleteMedia: 'Delete "{{path}}"'
+    openAuthoring: "{{message}}, {{author-login}}"
+
+# Publish Mode
+publish_mode: editorial_workflow
+
+# Localhost Editing
+local_backend:
+  url: http://localhost:8081/api/v1
+
+# Media / Images
+media_folder: "static/media"
+public_folder: "/img/proxy"
+
+# Misc
+slug:
+  clean_accents: true
+
+# ==============================================
+# Content Collections
+collections:
+  # AUTHORS =======================
+  - name: "authors" # Used in routes, e.g., /workflow/collections/blog
+    label: "Authors" # Used in the UI
+    label_singular: "Author"
+    description: "This page will help create a new author profile on Digital.gov"
+    folder: "content/authors" # path to the folder where files are stored
+    identifier_field: display_name # sets the field that is used to create the slug
+    path: "{{slug}}/_index" # custom file path
+    preview_path: authors/{{display_name}}
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    editor:
+      preview: false
+
+    fields:
+      - label: "Display Name"
+        name: "display_name"
+        widget: "string"
+        hint: "How you prefer to be referred to."
+
+      - label: "First Name"
+        name: "first_name"
+        widget: "string"
+
+      - label: "Last Name"
+        name: "last_name"
+        widget: "string"
+
+      - label: "Pronoun"
+        name: "pronoun"
+        widget: "string"
+        hint: >
+          List your pronoun(s) if you want them displayed alongside your name.
+          If blank, we'll use just your name. Learn more http://mypronouns.org"
+        comment: |-
+          List your pronoun(s) if you want them displayed alongside your name.
+           If blank, we'll use just your name. Learn more http://mypronouns.org
+        required: false
+
+      - label: "Email"
+        name: "email"
+        widget: "string"
+        hint: "If you include an email address, it will be displayed on your profile page"
+        comment: "If you include an email address, it will be displayed on your profile page"
+        required: false
+
+      - label: "Bio"
+        name: "bio"
+        widget: "text"
+        hint: "Keep it under 50 words and only one paragraph"
+        comment: "Keep it under 50 words and only one paragraph"
+        pattern: [".{20,}", "Must have at least 20 characters"]
+        required: false
+
+      - label: "Bio URL"
+        name: "bio_url"
+        widget: "string"
+        hint: >
+          Where can people learn more about your work?
+          Provide a full URL [e.g. 'https://www.example.gov/']
+        comment: |-
+          Where can people learn more about your work?
+           Provide a full URL [e.g. 'https://www.example.gov/']
+        required: false
+
+      - label: "Agency Full Name"
+        name: "agency_full_name"
+        widget: "string"
+        hint: "e.g. U.S. General Services Administration"
+        comment: "e.g. U.S. General Services Administration"
+        required: false
+
+      - label: "Agency Acronym"
+        name: "agency"
+        widget: "string"
+        hint: "e.g. GSA"
+        comment: "Agency Acronym [e.g., GSA]"
+        required: false
+
+      - label: "Location"
+        name: "location"
+        widget: "string"
+        hint: |-
+          Help us show that the federal workforce is not all in the D.C. area.
+          Where in the country do you live in? [e.g. 'New York City' or 'Portland, OR']
+        comment: "Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']"
+        required: false
+
+      - label: "GitHub ID"
+        name: "github"
+        widget: "string"
+        hint: |
+          [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
+          Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
+          Learn more about getting a Github account at [URL]
+        comment: |
+          [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
+           Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
+           Learn more about getting a Github account at [URL]
+        required: false
+
+      - label: "Profile Photo"
+        name: "profile_photo"
+        widget: "select"
+        options: ["github", "digit-light", "digit-dark", "digit-pride"]
+        hint: "See [URL] for a full list of profile photo options"
+        comment: "See [URL] for a full list of profile photo options"
+        required: false
+
+      - label: "Twitter"
+        name: "twitter"
+        widget: "string"
+        hint: "e.g., Digital_Gov"
+        required: false
+
+      - label: "Facebook"
+        name: "facebook"
+        widget: "string"
+        required: false
+
+      - label: "Instagram"
+        name: "instagram"
+        widget: "string"
+        required: false
+
+      - label: "Linkedin"
+        name: "linkedIn"
+        widget: "string"
+        required: false
+
+      - label: "YouTube"
+        name: "youtube"
+        widget: "string"
+        required: false
+
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: "Enter the path of the URL that you want redirected to this page"
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }

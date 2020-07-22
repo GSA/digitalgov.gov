@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <style>
+      img[alt="Logo"] {
+        margin-left: 75px;
+        width: 150px;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script>
+      function slugify(string) {
+        const a =
+          "àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;";
+        const b =
+          "aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnoooooooooprrsssssttuuuuuuuuuwxyyzzz------";
+        const p = new RegExp(a.split("").join("|"), "g");
+
+        return string
+          .toString()
+          .toLowerCase()
+          .replace(/\s+/g, "-") // Replace spaces with -
+          .replace(p, c => b.charAt(a.indexOf(c))) // Replace special characters
+          .replace(/&/g, "-and-") // Replace & with 'and'
+          .replace(/\band |\bthe |\bare |\bis |\bof |\bto /g, "")
+          .replace(/[^\w\-]+/g, "") // Remove all non-word characters
+          .replace(/\-\-+/g, "-") // Replace multiple - with single -
+          .replace(/^-+/, "") // Trim - from start of text
+          .replace(/-+$/, ""); // Trim - from end of text
+      }
+
+      CMS.registerEventListener({
+        name: "preSave",
+        handler: ({ entry }) => {
+          if (!entry.get("slug")) {
+            const slug = slugify(entry.getIn(["data", "display_name"]));
+
+            return entry.get("data").set("slug", slug);
+          }
+        }
+      });
+    </script>
+  </body>
+</html>
