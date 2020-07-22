@@ -5,7 +5,7 @@ slug: 10x-round-two-submit-ideas-by
 
 # Short URL — https://go.usa.gov/
 short_url: 
-date: 2020-07-22 9:00:00 -0500
+date: 2020-07-22 8:00:00 -0500
 kicker: "Innovation"
 title: "10x Round Two: Submit Ideas by August 5"
 deck: "10x funds new ideas to help the federal government deliver better products and services."
