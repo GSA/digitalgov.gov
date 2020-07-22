@@ -50,7 +50,9 @@ collections:
     folder: "content/authors" # path to the folder where files are stored
     identifier_field: display_name # sets the field that is used to create the slug
     path: "{{slug}}/_index" # custom file path
+    preview_path: authors/{{display_name}}
     create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
     editor:
       preview: false
 
