@@ -174,3 +174,11 @@ collections:
         name: "youtube"
         widget: "string"
         required: false
+
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: "Enter the path of the URL that you want redirected to this page"
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
