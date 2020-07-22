@@ -168,7 +168,7 @@ collections:
         required: false
 
       - label: "Linkedin"
-        name: "linkedIn"
+        name: "linkedin"
         widget: "string"
         required: false
 
