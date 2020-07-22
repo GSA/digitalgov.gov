@@ -26,7 +26,6 @@ backend:
 
 # Publish Mode
 publish_mode: editorial_workflow
-show_preview_links: false
 
 # Localhost Editing
 local_backend:
@@ -47,23 +46,15 @@ collections:
   - name: "authors" # Used in routes, e.g., /workflow/collections/blog
     label: "Authors" # Used in the UI
     label_singular: "Author"
-    description: "This page will help create a new author profile on Digital.gov."
+    description: "This page will help create a new author profile on Digital.gov"
     folder: "content/authors" # path to the folder where files are stored
+    identifier_field: display_name # sets the field that is used to create the slug
     path: "{{slug}}/_index" # custom file path
     create: true # Allow users to create new documents in this collection
-    identifier_field: display_name # sets the field that is used to create the slug
-    slug: "{{slug}}"
+    editor:
+      preview: false
 
-    # =================================
-    # Field Settings
-    # - label     — the title that will appear above the field in the editor
-    # - name      — this is the key that will be used in the front matter
-    # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
-    # - required  — all fields are required by default unless you include `required: false`
-    # - hint  — this is the helper text that occurrs below the field.
-    # Available fields: https://www.netlifycms.org/docs/widgets/#markdown
-
-    fields: # The fields for each document, usually in front matter
+    fields:
       - label: "Display Name"
         name: "display_name"
         widget: "string"
@@ -80,38 +71,45 @@ collections:
       - label: "Pronoun"
         name: "pronoun"
         widget: "string"
-        hint: "List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org"
-        comment: "List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org"
+        hint: >
+          List your pronoun(s) if you want them displayed alongside your name.
+          If blank, we'll use just your name. Learn more http://mypronouns.org"
+        comment: |-
+          List your pronoun(s) if you want them displayed alongside your name.
+           If blank, we'll use just your name. Learn more http://mypronouns.org
         required: false
 
       - label: "Email"
         name: "email"
         widget: "string"
         hint: "If you include an email address, it will be displayed on your profile page"
-        comment: "Email — If you include an email address, it will be displayed on your profile page"
+        comment: "If you include an email address, it will be displayed on your profile page"
         required: false
 
       - label: "Bio"
         name: "bio"
         widget: "text"
         hint: "Keep it under 50 words and only one paragraph"
-        comment: "Bio — keep it under 50 words"
-        minimal: true
+        comment: "Keep it under 50 words and only one paragraph"
         pattern: [".{20,}", "Must have at least 20 characters"]
         required: false
 
       - label: "Bio URL"
         name: "bio_url"
         widget: "string"
-        hint: "Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']"
-        comment: "bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']"
+        hint: >
+          Where can people learn more about your work?
+          Provide a full URL [e.g. 'https://www.example.gov/']
+        comment: |-
+          Where can people learn more about your work?
+           Provide a full URL [e.g. 'https://www.example.gov/']
         required: false
 
       - label: "Agency Full Name"
         name: "agency_full_name"
         widget: "string"
         hint: "e.g. U.S. General Services Administration"
-        comment: "Agency Full Name [e.g. U.S. General Services Administration]"
+        comment: "e.g. U.S. General Services Administration"
         required: false
 
       - label: "Agency Acronym"
@@ -124,15 +122,23 @@ collections:
       - label: "Location"
         name: "location"
         widget: "string"
-        hint: "Help us show that the federal workforce is not all in the D.C. area.<br/>Where in the country do you live in? [e.g. 'New York City' or 'Portland, OR']"
+        hint: |-
+          Help us show that the federal workforce is not all in the D.C. area.
+          Where in the country do you live in? [e.g. 'New York City' or 'Portland, OR']
         comment: "Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']"
         required: false
 
       - label: "GitHub ID"
         name: "github"
         widget: "string"
-        hint: "[e.g. 'jeremyzilar'] — We'll use your GitHub profile image as your author photo on Digital.gov"
-        comment: "A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]"
+        hint: |
+          [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
+          Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
+          Learn more about getting a Github account at [URL]
+        comment: |
+          [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
+           Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
+           Learn more about getting a Github account at [URL]
         required: false
 
       - label: "Profile Photo"
