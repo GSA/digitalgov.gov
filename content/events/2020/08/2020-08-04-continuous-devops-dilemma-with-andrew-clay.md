@@ -33,13 +33,10 @@ event_platform: zoom
 # YouTube ID
 youtube_id: 
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
-
 # Make it better ♥
+
 ---
+
 Getting different outcomes requires different behaviors. Changing entrenched behaviors is particularly difficult for organizations because multiple groups need to coordinate change simultaneously in the face of uncertainty, skepticism and even mistrust. What can organizations do to bring more clarity to the hard work of aligning individual interests with the collective interest? And can that work be the foundation for adapting to the needs of the future, not simply setting new standards for today? 
 
 ## Presenter:
