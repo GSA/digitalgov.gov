@@ -32,8 +32,7 @@ local_backend:
   url: http://localhost:8081/api/v1
 
 # Media / Images
-media_folder: "static/media"
-public_folder: "/img/proxy"
+media_folder: "content/images/_inbox"
 
 # Misc
 slug:
@@ -55,7 +54,6 @@ collections:
     slug: "{{slug}}"
     editor:
       preview: false
-
     fields:
       - label: "Display Name"
         name: "display_name"
@@ -184,3 +182,42 @@ collections:
         hint: "Enter the path of the URL that you want redirected to this page"
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
+
+  # IMAGE UPLOAD =======================
+  - name: "image-upload" # Used in routes, e.g., /workflow/collections/blog
+    label: "Image upload" # Used in the UI
+    description: "This page will help upload a new image to Digital.gov"
+    folder: "content/images/_inbox" # path to the folder where files are stored
+    identifier_field: image # sets the field that is used to create the slug
+    create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
+    fields:
+      - label: "Image"
+        name: "image"
+        widget: "image"
+
+  # IMAGE METADATA =======================
+  - name: "image-metadata" # Used in routes, e.g., /workflow/collections/blog
+    label: "Image metadata" # Used in the UI
+    description: "This page will help edit image metadata"
+    folder: "data/images" # path to the folder where files are stored
+    identifier_field: uid # sets the field that is used to create the slug
+    extension: yml
+    format: yml
+    editor:
+      preview: false
+    fields:
+      - label: "uid"
+        name: "uid"
+        widget: "hidden"
+
+      - label: "Credit"
+        name: "credit"
+        widget: "string"
+      - label: "Caption"
+        name: "caption"
+        widget: "string"
+      - label: "Alt"
+        name: "alt"
+        widget: "string"

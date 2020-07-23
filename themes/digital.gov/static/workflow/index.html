@@ -10,11 +10,27 @@
         margin-left: 75px;
         width: 150px;
       }
+      nav li:last-child {
+        display: none;
+      }
     </style>
   </head>
   <body>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script>
+      function getImageSize(imgSrc) {
+        var imgLoader = new Image(); // create a new image object
+
+        imgLoader.onload = function() {
+          // assign onload handler
+          var height = imgLoader.height;
+          var width = imgLoader.width;
+          alert("Image size: " + width + "x" + height);
+        };
+
+        imgLoader.src = imgSrc; // set the image source
+      }
+
       function slugify(string) {
         const a =
           "àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;";
@@ -38,10 +54,16 @@
       CMS.registerEventListener({
         name: "preSave",
         handler: ({ entry }) => {
-          if (!entry.get("slug")) {
-            const slug = slugify(entry.getIn(["data", "display_name"]));
+          console.log(JSON.stringify(entry));
 
-            return entry.get("data").set("slug", slug);
+          switch (entry.get("collection")) {
+            case "authors":
+              if (!entry.get("slug")) {
+                const slug = slugify(entry.getIn(["data", "display_name"]));
+
+                return entry.get("data").set("slug", slug);
+              }
+              break;
           }
         }
       });
