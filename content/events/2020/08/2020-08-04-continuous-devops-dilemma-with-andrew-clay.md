@@ -26,6 +26,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors: 
   - brian-fox
+  - andrew-clay-shafer
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
