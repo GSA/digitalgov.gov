@@ -67,7 +67,7 @@ The community is organized into 10 practice areas, with subject matter experts f
 ### Technology
 
 - **Privacy**: Richard Spiedel, General Services Administration (GSA); Marcela Souaya, General Services Administration (GSA)
-- **Credentialing**: Jennifer Hill, Treasury (FIT);
+- **Credentialing**: Jennifer Hill, Treasury (FIT)
 - **IT Platform**: Shang-Jeo Gaublomme, Department of Homeland Security (DHS)
 - **Security Policy**: Frank Greenwell, Federal Reserve Board (FRB); David Harris, Department of the Interior (DOI)
 
