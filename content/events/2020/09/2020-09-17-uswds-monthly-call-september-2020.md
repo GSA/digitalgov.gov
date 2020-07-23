@@ -1,15 +1,14 @@
 ---
 # View this page at https://digital.gov/event/2020/09/uswds-monthly-call-september-2020
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: uswds-monthly-call-september-2020
 title: "USWDS Monthly Call - September 2020"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
-registration_url: https://www.eventbrite.com/e/uswds-monthly-call-september-2020-registration-96977457185
-captions: https://www.captionedtext.com/client/event.aspx?EventID=4340590&CustomerID=321
+registration_url: https://www.eventbrite.com/e/uswds-september-2020-monthly-call-tickets-114599339710
+captions: 
 
 # start date
 date: 2020-09-17 14:30:00 -0500
@@ -24,18 +23,16 @@ topics:
   - 21st-century-idea
   - user-centered-design
 
-# see all authors at https://digital.gov/authors
-authors:
-  - dan-williams
-
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform:
-
 # YouTube ID
-youtube_id:
+youtube_id: 
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
 # Make it better ♥
 ---
