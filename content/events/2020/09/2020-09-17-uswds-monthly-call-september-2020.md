@@ -11,10 +11,17 @@ registration_url: https://www.eventbrite.com/e/uswds-september-2020-monthly-call
 captions: 
 
 # start date
-date: 2020-09-17 15:30:00 -0500
+date: 2020-09-17 14:30:00 -0500
 
 # end date
-end_date: 2020-09-17 16:30:00 -0500
+end_date: 2020-09-17 15:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics:
+  - design
+  - uswds
+  - 21st-century-idea
+  - user-centered-design
 
 # YouTube ID
 youtube_id: 
