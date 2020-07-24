@@ -8,7 +8,7 @@ aliases:
 
 ---
 {{< box >}}
-**Interested in joining the RPA communtity?** Click here to [join](https://digital.gov/communities/rpa/).
+**Interested in joining the RPA communtity?** Click here to [learn more](https://digital.gov/communities/rpa/).
 {{< /box >}}
 {{< guide-toc >}}
 ## What is RPA
