@@ -10,6 +10,9 @@
         margin-left: 75px;
         width: 150px;
       }
+      nav li:last-child {
+        display: none;
+      }
     </style>
   </head>
   <body>
@@ -38,10 +41,37 @@
       CMS.registerEventListener({
         name: "preSave",
         handler: ({ entry }) => {
-          if (!entry.get("slug")) {
-            const slug = slugify(entry.getIn(["data", "display_name"]));
+          switch (entry.get("collection")) {
+            case "authors":
+              if (!entry.get("slug")) {
+                const slug = slugify(entry.getIn(["data", "display_name"]));
 
-            return entry.get("data").set("slug", slug);
+                return entry.get("data").set("slug", slug);
+              }
+              break;
+
+            case "events":
+              const cms_date = entry.getIn(["data", "cms_date"]);
+              const cms_end_date = entry.getIn(["data", "cms_end_date"]);
+              const primary_image =
+                entry.getIn(["data", "primary_image"]) || "";
+
+              const date = `${cms_date.getIn(["yyyy"])}-${cms_date.getIn([
+                "mm"
+              ])}-${cms_date.getIn(["dd"])} ${cms_date.getIn([
+                "time"
+              ])}:00 -0500`;
+              const end_date = `${cms_end_date.getIn([
+                "yyyy"
+              ])}-${cms_end_date.getIn(["mm"])}-${cms_end_date.getIn([
+                "dd"
+              ])} ${cms_end_date.getIn(["time"])}:00 -0500`;
+
+              return entry
+                .get("data")
+                .set("date", date)
+                .set("end_date", end_date)
+                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
           }
         }
       });
