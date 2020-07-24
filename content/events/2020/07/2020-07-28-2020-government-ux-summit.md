@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/07/2020-government-ux-summit
+# View this page at https://digital.gov/event/2020/07/2020-government-ux-summit-july-28
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: 2020-government-ux-summit
 title: "2020 Government UX Summit: July 28, 29, and 30"
@@ -12,10 +12,10 @@ registration_url: https://www.eventbrite.com/e/110671732130
 captions: 
 
 # start date
-date: 2020-07-28 11:30:00 -0500
+date: 2020-07-28 12:30:00 -0500
 
 # end date
-end_date: 2020-07-30 14:30:00 -0500
+end_date: 2020-07-30 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -42,11 +42,11 @@ authors:
   - maya-rhodan
   - sarah-rigdon
 
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
-
 # YouTube ID
 youtube_id: 
+
+# Primary Image (for social media)
+primary_image: "ux-government-summit-2020"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -56,6 +56,7 @@ weight: 0
 # Make it better ♥
 
 ---
+
 {{< img src="2020-ux-summit" >}}
 
 ***When registering, please select the individual sessions that you'd like to attend. You will need to register individually to receive the proper Zoom links.***
