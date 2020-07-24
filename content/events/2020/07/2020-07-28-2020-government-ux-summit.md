@@ -12,10 +12,10 @@ registration_url: https://www.eventbrite.com/e/110671732130
 captions: 
 
 # start date
-date: 2020-07-28 12:30:00 -0500
+date: 2020-07-28 11:30:00 -0500
 
 # end date
-end_date: 2020-07-30 15:30:00 -0500
+end_date: 2020-07-30 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -47,6 +47,8 @@ youtube_id:
 
 # Primary Image (for social media)
 primary_image: "ux-government-summit-2020"
+
+event_platform: zoom
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
