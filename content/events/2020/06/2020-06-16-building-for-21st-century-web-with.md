@@ -53,9 +53,9 @@ David Corwin is a polyglot software engineer with 15 years of experience in vari
  - [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
  - [https://search.gov/](https://search.gov/)
  - https://digital.gov/guides/dap/
- - [https://jamstack.org/](https://jamstack.org/
- - [https://www.netlifycms.org/](https://www.netlifycms.org/
- - [https://jekyllrb.com/](https://jekyllrb.com/
+ - [https://jamstack.org/](https://jamstack.org/)
+ - [https://www.netlifycms.org/](https://www.netlifycms.org/)
+ - [https://jekyllrb.com/](https://jekyllrb.com/)
  - [https://github.com/gohugoio/hugo](https://github.com/gohugoio/hugo)
  - https://www.gatsbyjs.org/
  
