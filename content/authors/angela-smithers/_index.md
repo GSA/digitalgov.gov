@@ -12,22 +12,22 @@ last_name: "Smithers"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email: smithersa@si.edu
 
 # Bio — keep it under 50 words
-bio: "Angela is a “Jill of all trades.”  She carry the title of User Experience, but in her current position Angela has done graphic design, front-end web design, user interface design, accessibility for web and digital media, and now user research. In this era,  Angela describes herself as a Product Designer."
+bio: "Angela is a “Jill of all trades.”  She has a background in user experience (UX), and in her current position as a product designer at the Smithsonian's National Museum of African American History and Culture (NMAAHC), Angela has worked on graphic design, front-end web design, user interface design, accessibility for web and digital media, and user research."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "National Museum of African American History and Culture"
+agency_full_name: "Smithsonian Institute"
 
 # Agency Acronym [e.g., GSA]
 agency: "NMAAHC"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: ""
+location: "Washington, DC"
 
 # A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
 github: ""
