@@ -12,19 +12,19 @@ last_name: "Smithers"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: asmithers@oig.doc.gov
+email: 
 
 # Bio — keep it under 50 words
-bio: "Angela is the IT Specialist (Webmaster) in the Office of Chief Information Officer at the Office of Inspector General."
+bio: "Angela is a “Jill of all trades.”  She carry the title of User Experience, but in her current position Angela has done graphic design, front-end web design, user interface design, accessibility for web and digital media, and now user research. In this era,  Angela describes herself as a Product Designer."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "National Museum of African American History and Culture"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "NMAAHC"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
@@ -44,5 +44,4 @@ linkedin: ""
 youtube: ""
 
 # Make it better ♥
-
 ---
