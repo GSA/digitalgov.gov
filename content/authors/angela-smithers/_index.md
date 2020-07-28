@@ -4,8 +4,8 @@
 
 # slug — the specific user-id for an author.
 slug: angela-smithers
-display_name: "Angela Y Smithers"
-first_name: "Angela Y"
+display_name: "Angela Y. Smithers"
+first_name: "Angela"
 last_name: "Smithers"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
