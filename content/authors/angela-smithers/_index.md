@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: angela-smithers
+slug: angela-y-smithers
 display_name: "Angela Y Smithers"
 first_name: "Angela Y"
 last_name: "Smithers"
