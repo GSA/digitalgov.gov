@@ -11,7 +11,7 @@ last_name: "Bonitto"
 # List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
 # See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
 # Examples: they/them, she/her, or he/him
-pronoun: ""
+pronoun: "she/her"
 
 # slug — the specific user-id for an author.
 slug: toni-bonitto
@@ -20,7 +20,7 @@ slug: toni-bonitto
 email: "toni.bonitto@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Toni spent most of her tech career in New York, New Jersey, and Florida in the private and nonprofit sectors. She now serves as an Innovation Specialist for DigitalGov in the Technology Transformation Service at GSA&#39;s headquarters in Washington, DC, where she recently completed a term as the co-lead for the TTS Accessibility Guild."
+bio: "A native New Yorker, Toni spent most of her tech career in New York, New Jersey, and Florida in the private and nonprofit sectors. She currently serves as an Innovation Specialist in the Technology Transformation Services (TTS) at GSA&#39;s headquarters in DC. Her main role is as Digital.gov's Content Lead and Editor where she writes articles and resource guides, and recruits and manages rotations of volunteer content writers via the Open Opportunities program and Communities of Practice. She also provides front-end development, social media, email marketing, analytics reporting, and customer service for the program. Toni is also a member of the TTS Digital Council and its Review Team, is a Level I Contracting Officer's Representative (COR), has certifications in both Email Marketing and Social Media, and recently completed a year-plus term as the co-lead for the TTS Accessibility Guild, which included contributing to the development of and teaching an _Accessibility 101_ course as part of onboarding requirements for new hires."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: "https://digital.gov/about/"
@@ -41,7 +41,7 @@ github: "ToniBonittoGSA"
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
-profile_source: ""
+profile_source: "github"
 
 # Professional Social Media [e.g., Digital_Gov]
 twitter: "Digital_Gov"
