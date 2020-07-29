@@ -164,7 +164,7 @@ Information you collect from the public should minimize burden and maximize publ
 
 Regularly evaluate all digital products for performance and cost effectiveness by collecting and acting on metrics and customer feedback, conducting usability testing, and measuring return on investment. Establish performance measures to demonstrate mission achievement; Make your annual performance plans readily available to the public.
 
-* [Government Performance Results Act of 1993 (GPRA)](http://obamawhitehouse.archives.gov/omb/mgmt-gpra/index-gpra)</a>
+* [Government Performance Results Act of 1993 (GPRA)](http://obamawhitehouse.archives.gov/omb/mgmt-gpra/index-gpra)
 
 ## Plain Writing
 
@@ -182,7 +182,7 @@ Implement security and management controls to prevent the inappropriate disclosu
 * [M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) (PDF, 1 MB, 13 pages, May 2019)
 * [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22) (September 2003)
 * [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
-* [Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm)</a>
+* [Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm)
 
 ## Prohibition on Advertising
 
