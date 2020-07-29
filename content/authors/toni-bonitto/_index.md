@@ -26,10 +26,10 @@ bio: "Toni spent most of her tech career in New York, New Jersey, and Florida in
 bio_url: "https://digital.gov/about/"
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "U.S. General Services Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: "Washington, DC"
@@ -45,9 +45,9 @@ profile_source: ""
 
 # Professional Social Media [e.g., Digital_Gov]
 twitter: "Digital_Gov"
-facebook: ""
+facebook: "DigitalGov"
 linkedin: "bonitto"
-YouTube: ""
+YouTube: "digitalgov"
 
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors
