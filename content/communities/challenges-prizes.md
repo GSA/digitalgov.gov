@@ -1,33 +1,29 @@
 ---
-# View this page at https://digital.gov/communities/challenges-prizes
+# View this page at https://digital.gov/communities/challenge-prize
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: challenges-prizes
 date: 2013-12-05 10:46:00 -0500
-title: 'Challenge & Prize'
+title: "Challenge & Prize"
 deck: ""
 summary: "We encourage public participation in crowdsourcing competitions to find innovative government solutions."
 
-
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - challenges
   - crowdsourcing
   - challenge-gov
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
   - jarah-meador
-  - stephanie-green
-  - tammy-white
 
-# Weight: controls how this page appears across the site
+# Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases:
+aliases: 
   - /challenges-prizes-community/
 
 
@@ -38,11 +34,10 @@ community_list:
     subscribe_email_subject: "Join Challenges Community"
     subscribe_email_body: "enter your name + agency you work for"
     members: 738
-    emails_per_week:
 
 
 # Make it better ♥
-
+---
 ---
 
 {{< img-right src="challenge-gov-logo" >}}
