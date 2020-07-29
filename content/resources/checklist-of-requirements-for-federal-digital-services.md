@@ -180,7 +180,7 @@ Information you collect from the public should minimize burden and maximize publ
 
 Regularly evaluate all digital products for performance and cost effectiveness by collecting and acting on metrics and customer feedback, conducting usability testing, and measuring return on investment. Establish performance measures to demonstrate mission achievement; Make your annual performance plans readily available to the public.
 
-* [Government Performance Results Act of 1993 (GPRA)](http://obamawhitehouse.archives.gov/omb/mgmt-gpra/index-gpra)</a>
+* [Government Performance Results Act of 1993 (GPRA)](http://obamawhitehouse.archives.gov/omb/mgmt-gpra/index-gpra)
 
 ## Plain Writing
 
@@ -195,10 +195,10 @@ Federal executive branch agencies are required to write all new or significantly
 
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide service through a secure connection. Provide a link to your privacy policy on every page, or in your overall site policies. Conduct a privacy impact assessment of your website. Post a "Privacy Act Statement" that explains your legal authority for collecting personal data and how the data will be used.
 
-* [Requirements for Accepting Externally Issued Identity Credentials](http://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/ombreqforacceptingexternally_issuedidcred10-6-2011.pdf) (PDF, 166 KB, 4 pages, October 2011)
+* [M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) (PDF, 1 MB, 13 pages, May 2019)
 * [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22) (September 2003)
 * [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
-* [Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm)</a>
+* [Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm)
 
 ## Prohibition on Advertising
 
