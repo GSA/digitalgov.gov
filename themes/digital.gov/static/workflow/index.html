@@ -10,14 +10,29 @@
         margin-left: 75px;
         width: 150px;
       }
-      nav li:last-child {
+
+      div[class*="LibraryTop"] button[class*="DeleteButton"] {
+        display: none;
+      }
+
+      body:not(.show-upload) label[class*="nc-fileUploadButton"] {
         display: none;
       }
     </style>
   </head>
   <body>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script src="https://unpkg.com/netlify-cms-widget-async-select@1.3.4"></script>
+
     <script>
+      function addSlug(field = "title") {
+        if (!entry.get("slug")) {
+          return entry
+            .get("data")
+            .set("slug", slugify(entry.getIn(["data", field])));
+        }
+      }
+
       function slugify(string) {
         const a =
           "àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;";
@@ -38,16 +53,14 @@
           .replace(/-+$/, ""); // Trim - from end of text
       }
 
+      CMS.registerWidget("async-select", window.AsyncSelectControl);
+
       CMS.registerEventListener({
         name: "preSave",
         handler: ({ entry }) => {
           switch (entry.get("collection")) {
             case "authors":
-              if (!entry.get("slug")) {
-                const slug = slugify(entry.getIn(["data", "display_name"]));
-
-                return entry.get("data").set("slug", slug);
-              }
+              addSlug("display_name");
               break;
 
             case "events":
@@ -56,25 +69,43 @@
               const primary_image =
                 entry.getIn(["data", "primary_image"]) || "";
 
-              const date = `${cms_date.getIn(["yyyy"])}-${cms_date.getIn([
-                "mm"
-              ])}-${cms_date.getIn(["dd"])} ${cms_date.getIn([
-                "time"
-              ])}:00 -0500`;
-              const end_date = `${cms_end_date.getIn([
-                "yyyy"
-              ])}-${cms_end_date.getIn(["mm"])}-${cms_end_date.getIn([
-                "dd"
-              ])} ${cms_end_date.getIn(["time"])}:00 -0500`;
-
-              return entry
+              entry
                 .get("data")
-                .set("date", date)
-                .set("end_date", end_date)
+                .set(
+                  "date",
+                  `${cms_date.getIn(["yyyy"])}-${cms_date.getIn([
+                    "mm"
+                  ])}-${cms_date.getIn(["dd"])} ${cms_date.getIn([
+                    "time"
+                  ])}:00 -0500`
+                )
+                .set(
+                  "end_date",
+                  `${cms_end_date.getIn(["yyyy"])}-${cms_end_date.getIn([
+                    "mm"
+                  ])}-${cms_end_date.getIn(["dd"])} ${cms_end_date.getIn([
+                    "time"
+                  ])}:00 -0500`
+                )
                 .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
+
+              addSlug();
+              break;
+
+            case "sources":
+              addSlug("name");
+              break;
           }
         }
       });
+
+      window.addEventListener("hashchange", function(e) {
+        var body = document.querySelector("body");
+        window.location.hash.indexOf("#/collections/image-upload/new") > -1
+          ? body.classList.add("show-upload")
+          : body.classList.remove("show-upload");
+      });
+      window.dispatchEvent(new HashChangeEvent("hashchange"));
     </script>
   </body>
 </html>
