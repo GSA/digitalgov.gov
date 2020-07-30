@@ -7,7 +7,6 @@ aliases:
 
 ---
 
-
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
 And we do that by providing people in the federal government with the tools, methods, practices, and policy guidance they need to deliver effective and accessible digital services.
@@ -56,7 +55,7 @@ Learn more about [what our readers need »]({{< ref "/about/contribute.md#what-o
 
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
 
-**Digital.gov:** Sara Cope, Jeremy Zilar, Toni Bonitto <br/>
+**Digital.gov:** Sara Cope, Toni Bonitto <br/>
 **Communities:** Jacob Parcell <br/>
 **Video and Events:** Alexandar Schulte, Gabrielle Fratanduono <br/>
 **U.S. Web Design System:** Dan Williams <br/>
