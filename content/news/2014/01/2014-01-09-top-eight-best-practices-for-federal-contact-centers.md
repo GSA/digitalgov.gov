@@ -2,7 +2,6 @@
 slug: top-eight-best-practices-for-federal-contact-centers
 date: 2014-01-09 5:24:49 -0400
 title: Top 8 Best Practices for Federal Contact Centers
-slug: top-eight-best-practices-for-federal-contact-centers
 summary: ""
 authors:
   - barbara-walton

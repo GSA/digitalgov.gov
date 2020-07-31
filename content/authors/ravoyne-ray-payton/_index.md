@@ -4,15 +4,15 @@
 
 # slug — the specific user-id for an author.
 slug: ravoyne-ray-payton
-display_name: "Ravoyne \'Ray\' Payton"
-first_name: "Ravoyne \'Ray\'"
+display_name: "Ravoyne 'Ray' Payton"
+first_name: "Ravoyne 'Ray'"
 last_name: "Payton"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
 bio: "Rayvone \"Ray\" Payton is Associate Chief Information Officer (ACIO) for the Information Resource Management Center (IRMC). As the IRMC ACIO, she is responsible for Capital Planning and IT Governance, Enterprise Architecture, e-Government, Information Management, IT Policy/IT Strategic Planning and Section 508 Compliance."
