@@ -169,6 +169,8 @@ collections:
 
     path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
     slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
+    media_folder: "/static/img/proxy"
+    public_folder: ""
     create: true
 
     fields:
@@ -194,20 +196,6 @@ collections:
         name: "summary"
         widget: "text"
         hint: "1-sentence description that does not repeat the headline"
-      - label: "Source Url"
-        name: "source_url"
-        widget: "string"
-        hint: "e.g. https://18f.gsa.gov/2019/04/01/ ..."
-        comment: "Originally published at the following URL"
-        required: false
-      - label: "Source"
-        name: "source"
-        widget: "relation"
-        collection: "sources"
-        searchFields: ["name"]
-        valueField: "slug"
-        displayFields: ["name"]
-        required: false
       - label: "Host"
         name: "host"
         widget: "string"
@@ -313,10 +301,123 @@ collections:
         name: "primary_image"
         widget: "image"
         required: false
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: "Enter the path of the URL that you want redirected to this page"
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+        required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+
+  # NEWS =======================
+  - name: "news"
+    label: "News"
+    label_singular: "Blog Post"
+    description: "This page will help create a new blog post on Digital.gov"
+    folder: "content/news"
+    editor:
+      preview: false
+
+    path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
+    slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
+    media_folder: "/static/img/proxy"
+    public_folder: ""
+    create: true
+
+    fields:
+      - label: "Source Url"
+        name: "source_url"
+        widget: "string"
+        hint: "e.g. https://18f.gsa.gov/2019/04/01/ ..."
+        comment: "Originally published at the following URL"
+        required: false
+      - label: "Source"
+        name: "source"
+        widget: "relation"
+        collection: "sources"
+        searchFields: ["name"]
+        valueField: "slug"
+        displayFields: ["name"]
+        required: false
+      - label: "Short URL"
+        name: "short_url"
+        widget: "string"
+        hint: "Create a short URL: https://go.usa.gov/."
+        required: false
+      - label: "Date"
+        name: "cms_date"
+        widget: "object"
+        hint: "e.g. 2019-04-01 13:24"
+        fields:
+          - label: "Month"
+            name: "mm"
+            widget: "string"
+            hint: "MM"
+            pattern: ["^(0[1-9]|1[0-2])$", "Must be 01-12"]
+          - label: "Day"
+            name: "dd"
+            widget: "string"
+            hint: "DD"
+            pattern: ["^(0[1-9]|[12]\\d|3[01])$", "Must be 01-31"]
+          - label: "Year"
+            name: "yyyy"
+            widget: "string"
+            hint: "YYYY"
+            pattern: ["^(\\d{4})$", "Must be valid year"]
+      - label: "Kicker"
+        name: "kicker"
+        widget: "string"
+        hint: "Super Short, like one word"
+        required: false
+      - label: "Title / Headline"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+      - label: "Deck / Sub-head"
+        name: "deck"
+        widget: "text"
+        hint: |-
+          Think of this as the sentence you'd most like to tweet.
+          Do not repeat the headline. You need to be able to read it outloud in a single breath.
+        required: false
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Topics"
+        name: "topics"
+        widget: "async-select"
+        url: "https://digital.gov/topics/v1/json/"
+        valueField: "slug"
+        displayField: "title"
+        dataKey: "items"
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["first_name", "last_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Primary Image (for social media)"
+        name: "primary_image"
+        widget: "image"
+        required: false
       - label: "Page Weight"
         name: "weight"
         widget: "number"
-        default: 0
+        default: 1
         valueType: "int"
         min: 0
         max: 1
@@ -334,6 +435,9 @@ collections:
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
         required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
 
   # SOURCES =======================
   - name: "sources"
