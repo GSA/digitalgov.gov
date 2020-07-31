@@ -25,7 +25,7 @@
     <script src="https://unpkg.com/netlify-cms-widget-async-select@1.3.4"></script>
 
     <script>
-      function addSlug(field = "title") {
+      function addSlug(entry, field = "title") {
         if (!entry.get("slug")) {
           return entry
             .get("data")
@@ -60,7 +60,7 @@
         handler: ({ entry }) => {
           switch (entry.get("collection")) {
             case "authors":
-              addSlug("display_name");
+              return addSlug(entry, "display_name");
               break;
 
             case "events":
@@ -68,8 +68,9 @@
               const cms_end_date = entry.getIn(["data", "cms_end_date"]);
               const primary_image =
                 entry.getIn(["data", "primary_image"]) || "";
+              const slug = entry.getIn(["data", "title"]);
 
-              entry
+              return entry
                 .get("data")
                 .set(
                   "date",
@@ -87,13 +88,12 @@
                     "time"
                   ])}:00 -0500`
                 )
-                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
-
-              addSlug();
+                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""))
+                .set("slug", slugify(slug));
               break;
 
             case "sources":
-              addSlug("name");
+              return addSlug(entry, "name");
               break;
           }
         }
