@@ -4,7 +4,7 @@
 
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
-title: "Web Content Managers"
+title: "Web Content Managers Community"
 deck: ""
 summary: "The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites."
 
