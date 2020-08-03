@@ -688,6 +688,98 @@ collections:
         name: "body"
         widget: "markdown"
 
+  # SERVICES =======================
+  - name: "services"
+    label: "Services"
+    label_singular: "Service"
+    description: "This page will help create a new service on Digital.gov"
+    folder: "content/services"
+    editor:
+      preview: false
+
+    slug: "service_{{slug}}"
+    create: true
+
+    fields:
+      - label: "Name"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+      - label: "Description"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Logo"
+        name: "logo"
+        widget: "string"
+        hint: "Images must be uploaded in the /static/logos/ folder before they can be used here."
+        comment: "Images must be uploaded in the /static/logos/ folder before they can be used here."
+      - label: "Source Url"
+        name: "source_url"
+        widget: "string"
+        hint: "e.g. https://18f.gsa.gov/2019/04/01/ ..."
+        comment: "Originally published at the following URL"
+        required: false
+      - label: "Source"
+        name: "source"
+        widget: "relation"
+        collection: "sources"
+        searchFields: ["name"]
+        valueField: "slug"
+        displayFields: ["name"]
+        required: false
+      - label: "Email Address"
+        name: "contact"
+        widget: "string"
+        hint: "Needs to be an email address!"
+      - label: "Topics"
+        name: "topics"
+        widget: "async-select"
+        url: "https://digital.gov/topics/v1/json/"
+        valueField: "slug"
+        displayField: "title"
+        dataKey: "items"
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["display_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        default: 0
+        valueType: "int"
+        min: 0
+        max: 2
+        step: 1
+        hint: "Controls how this page appears across the site (0 -- hides this service from all pages, but URL is still public, 1 -- will appear on the tools and services page, and all related topic pages, 2 -- will appear as related service (ADs) on blog posts and event pages"
+        comment: |-
+          Controls how this page appears across the site
+           0 -- hides this service from all pages, but URL is still public
+           1 -- will appear on the tools and services page, and all related topic pages
+           2 -- will appear as related service (ADs) on blog posts and event pages
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: "Enter the path of the URL that you want redirected to this page"
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+        required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+
   # SOURCES =======================
   - name: "sources"
     label: "Sources"
@@ -719,7 +811,7 @@ collections:
         name: "logo"
         widget: "string"
         hint: "Images must be uploaded in the /static/logos/ folder before they can be used here."
-        comment: "The link to your blog homepage or news feed. (e.g. https://18f.gsa.gov/)"
+        comment: "Images must be uploaded in the /static/logos/ folder before they can be used here."
       - label: "Topics"
         name: "topics"
         widget: "async-select"
