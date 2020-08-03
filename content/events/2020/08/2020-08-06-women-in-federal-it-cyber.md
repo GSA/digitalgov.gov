@@ -12,10 +12,10 @@ registration_url: https://www.eventbrite.com/e/114668735274
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4511657&CustomerID=321
 
 # start date
-date: 2020-08-06 14:000:00 -0500
+date: 2020-08-06 14:00:00 -0500
 
 # end date
-end_date: 2020-08-06 15:000:00 -0500
+end_date: 2020-08-06 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
