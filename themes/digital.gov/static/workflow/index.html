@@ -67,6 +67,14 @@
               }
               break;
 
+            case "communities":
+              if (!entry.get("slug")) {
+                return entry
+                  .get("data")
+                  .set("slug", slugify(entry.getIn(["data", "title"])));
+              }
+              break;
+
             case "events":
               return entry
                 .get("data")
