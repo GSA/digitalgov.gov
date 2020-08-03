@@ -85,6 +85,14 @@
                 .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""))
                 .set("slug", slugify(entry.getIn(["data", "title"])));
 
+            case "resources":
+              if (!entry.get("slug")) {
+                return entry
+                  .get("data")
+                  .set("slug", slugify(entry.getIn(["data", "title"])));
+              }
+              break;
+
             case "sources":
               if (!entry.get("slug")) {
                 return entry
