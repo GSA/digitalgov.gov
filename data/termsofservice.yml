@@ -120,7 +120,7 @@ termsofservice:
   - name          : Eventbrite
     url           : http://www.eventbrite.com/
     description   : Event Management tool
-    uri           : 'http://www.eventbrite.com/l/federal-government'
+    uri           : 'https://www.eventbrite.com/l/federaltos/'
     type          : 'Website'
     updated       :
     status        :
