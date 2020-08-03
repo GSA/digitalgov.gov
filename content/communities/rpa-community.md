@@ -4,7 +4,7 @@
 
 slug: rpa
 date: 2019-12-12 19:00:00 -0500
-title: "Robotic Process Automation (RPA)"
+title: "Robotic Process Automation (RPA) Community"
 deck: "A collaborative body designed to rapidly accelerate the adoption of RPA technology across the federal government"
 summary: "We are a group who is working to accelerate robotic process automation (RPA) adoption in the federal government."
 
