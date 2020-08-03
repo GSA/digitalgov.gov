@@ -40,11 +40,11 @@ weight: 1
 
 ## Purpose
 
-The RPA CoP helps individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
+The RPA CoP helps individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy and security, and designing common management metrics to gauge government-wide impact of RPA.
 
 ## What We Do
 
-The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP assists agencies in developing programs that are cost-effective, auditable, avoid common pitfalls, and most importantly, deploy impactful automations. To this end, the CoP hosts frequent knowledge-sharing events and publishes valuable guidance on best practices.
+The RPA CoP helps individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy and security, and designing common management metrics to gauge government-wide impact of RPA.
 
 ## Resources
 
@@ -58,11 +58,11 @@ The executive sponsor for the RPA Community of Practice is:
 
 - **Gerard Badorrek** — General Services Administration Chief Financial Officer and RPA Community of Practice Chair
 
-The RPA community is managed by **Jim Geoghegan**: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
+Jim Geoghegan (GSA) manages the RPA community: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
 
 ---
 
-The community is organized into 10 practice areas, with subject matter experts from across the Federal Government.
+The community is organized into 10 practice areas, with subject matter experts from across the federal government.
 
 ### Technology
 
