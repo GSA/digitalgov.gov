@@ -1,7 +1,7 @@
 ---
 slug: customer-experience-community
 date: 2015-07-08 10:30:37 -0400
-title: 'Customer Experience'
+title: 'Customer Experience Community'
 summary: 'We are an interagency group of customer experience practitioners.'
 
 weight: 1
