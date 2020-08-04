@@ -23,6 +23,7 @@ topics:
   - uswds
   - 21st-century-idea
   - user-centered-design
+  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -43,7 +44,7 @@ primary_image: "uswds-2-illio-feature-image"
 
 {{< img-right src="uswds-logo" >}}
 
-This month, Dan Williams, USWDS product lead, is joined by Suran De Silva, User Experience Product Manager at the IRS, in a discussion about UX debt and how it can impact the efficiency and quality of your products and services.  Together, they will cover what UX debt is, why it can be an issue, how to identify it, and tips to reduce UX debt in your work while using the design system.
+This month, Dan Williams, USWDS product lead, is joined by Suran De Silva, User Experience Product Manager at the IRS, in a discussion about UX debt and how it can impact the efficiency and quality of your products and services.  Together, they will cover what UX debt is, why it can be an issue, how to identify it, and tips to reduce UX debt in your work.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
