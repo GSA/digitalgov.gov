@@ -22,7 +22,7 @@ authors:
   - rflagg
   - ammie-farraj-feijoo
 slug: measure-performance-to-make-continuous-improvements
-date: 2020-08-04 12:00 -0500
+date: 2020-08-04 12:00:00 -0500
 primary_image: this-weeks-idea-card-wk3
 # Controls how this page appears across the site
 # 0 -- hidden
