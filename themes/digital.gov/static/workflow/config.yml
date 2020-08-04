@@ -46,6 +46,7 @@ collections:
     identifier_field: display_name
     path: "{{slug}}/_index"
     create: true
+    preview_path: authors/{{display_name}}
 
     fields:
       - label: "Display Name"
@@ -172,6 +173,7 @@ collections:
     media_folder: "/static/img/proxy"
     public_folder: ""
     create: true
+    preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{title}}
 
     fields:
       - label: "Event Title"
@@ -327,6 +329,7 @@ collections:
     media_folder: "/static/img/proxy"
     public_folder: ""
     create: true
+    preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{cms_date[dd]}}/{{title}}
 
     fields:
       - label: "Source Url"
@@ -494,6 +497,8 @@ collections:
 
     path: "{{slug}}/_index"
     create: true
+    preview_path: topics/{{title}}
+
 
     fields:
       - label: "Topic Title"
