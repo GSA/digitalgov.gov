@@ -40,18 +40,27 @@ youtube_id:
 primary_image: "uswds-2-illio-feature-image"
 
 # Make it better ♥
+
 ---
 
 {{< img-right src="uswds-logo" >}}
 
-This month, Dan Williams, USWDS product lead, is joined by Suran De Silva, User Experience Product Manager at the IRS, in a discussion about UX debt and how it can impact the efficiency and quality of your products and services.  Together, they will cover what UX debt is, why it can be an issue, how to identify it, and tips to reduce UX debt in your work.
+This month, Dan Williams, USWDS product lead, is joined by Suran De Silva, user experience (UX) product manager at the Internal Revenue Service (IRS), in a discussion about UX debt and how it can impact the efficiency and quality of your products and services. Together, they will cover: 
+
+* what UX debt is, 
+* why it can be an issue, 
+* how to identify it, and 
+* tips to reduce UX debt in your work.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
 USWDS is a library of principles, guidance, and code to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
 
-## About the USWDS
-[**The U.S. Web Design System**](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
+## About the USWDS 
+
+The [**U.S. Web Design System**](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices. 
+
+### Related Links 
 
 - [The U.S. Web Design System](https://designsystem.digital.gov/)
 - [Contribute on GitHub](https://github.com/uswds/uswds/issues)
