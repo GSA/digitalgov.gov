@@ -3,7 +3,7 @@ cms_date:
   mm: "08"
   dd: "04"
   yyyy: "2020"
-kicker: Analytics
+kicker: This Week's IDEA
 title: Measure Performance to Make Continuous Improvements
 deck: Listening to customers is the best way to improve websites and digital
   services.
