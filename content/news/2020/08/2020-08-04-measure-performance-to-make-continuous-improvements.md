@@ -4,6 +4,9 @@ cms_date:
   dd: "04"
   yyyy: "2020"
 
+# Short URL — https://go.usa.gov/
+short_url: https://go.usa.gov/xfpKg
+
 kicker: This Week's IDEA
 
 title: Measure Performance to Make Continuous Improvements
