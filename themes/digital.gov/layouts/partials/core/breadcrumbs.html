@@ -4,7 +4,7 @@
       <div class="grid-col-auto">
         <p>
           <a href="/">Home</a>
-          {{- template "breadcrumb" dict "current" . "id" .UniqueID -}}
+          {{- template "breadcrumb" dict "current" . "id" .File.UniqueID -}}
         </p>
       </div>
     </div>
@@ -20,10 +20,10 @@
       {{- template "breadcrumb" dict "current" .current.Parent -}}
     {{- end }}
 
-    {{- if eq .id .current.UniqueID }}
+    {{- if eq .id .current.File.UniqueID }}
     <span class="arrow-right"></span> {{ .current.Title -}}
     {{ else }}
-    <span class="arrow-right"></span> <a href="{{- .current.URL -}}">{{- .current.Title -}}</a>
+    <span class="arrow-right"></span> <a href="{{- .current.Permalink -}}">{{- .current.Title -}}</a>
     {{- end -}}
 
   {{- end -}}
