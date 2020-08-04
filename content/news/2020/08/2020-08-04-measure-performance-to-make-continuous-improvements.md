@@ -3,13 +3,18 @@ cms_date:
   mm: "08"
   dd: "04"
   yyyy: "2020"
+
 kicker: This Week's IDEA
+
 title: Measure Performance to Make Continuous Improvements
+
 deck: Listening to customers is the best way to improve websites and digital
   services.
+
 summary: This week, we’re exploring what it means to measure performance, and
   we’re taking a look at how listening to customers is the best way to
   continuously improve websites and digital services.
+
 # See all topics at https://digital.gov/topics
 topics:
   - 21st-century-idea
@@ -17,18 +22,25 @@ topics:
   - uswds
   - analytics
   - cx
+
 # See all authors at https://digital.gov/authors
 authors:
   - rflagg
   - ammie-farraj-feijoo
+
 slug: measure-performance-to-make-continuous-improvements
+
 date: 2020-08-04 12:00:00 -0500
+
 primary_image: this-weeks-idea-card-wk3
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 {{< card-quote text="When people talk, listen completely. Most people never listen." cite="Ernest Hemingway" >}}
 
 {{< img-right src="this-weeks-idea-icon-wk3" >}}
@@ -47,7 +59,7 @@ Below, we share a case study from the U.S. Department of Health and Human Servic
 
 The digital performance measurement program at HHS has changed the way the agency manages its sites and content, driving better understanding of customers and their needs. Performance measures guide how they allocate resources, and inform their vision for the future, including where they innovate. They are committed to listening to users, and gather both quantitative and qualitative data to empower teams across HHS to have deeper dialogues about service delivery. Listening to customer feedback has changed how HHS communicates with, and provides services to, the public.
 
-To determine key performance indicators (KPIs), HHS first identifies their goals, then they tailor their KPIs to reflect the value they aim to bring to users, and what they measure against. They’ve adopted a few universal KPIs, which they’ve dubbed “Satisfaction KPIs.” These are based on 21st Century IDEA and the USWDS [design principles](https://designsystem.digital.gov/design-principles/), and include page load time, readability, search satisfaction, and search engine optimization (SEO).
+To determine key performance indicators (KPIs), HHS first identifies their goals, then they tailor their KPIs to reflect the value they aim to bring to users, and what they measure against. They’ve adopted a few universal KPIs, which they’ve dubbed “Satisfaction KPIs.” These are based on 21st Century IDEA and the [USWDS design principles](https://designsystem.digital.gov/design-principles/), and include page load time, readability, search satisfaction, and search engine optimization (SEO).
 
 At the same time, they recognize that every site is different, with different business goals. As an example, a metric such as bounce rate would not be a good common KPI when comparing sites such as time.gov and IRS.gov. [Time.gov](https://www.time.gov/) is expected to have a relatively high bounce rate (a visitor checks the time and leaves the site), whereas [IRS.gov](https://www.irs.gov/) is expected to have a much lower bounce rate (visitors browse across many pages, checking tax information, changes to tax laws, etc.). Because these two sites have very different goals, KPIs must be tailored to fit each site.
 
