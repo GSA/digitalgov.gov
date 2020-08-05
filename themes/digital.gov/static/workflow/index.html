@@ -101,6 +101,14 @@
               }
               break;
 
+            case "services":
+              if (!entry.get("slug")) {
+                return entry
+                  .get("data")
+                  .set("slug", slugify(entry.getIn(["data", "title"])));
+              }
+              break;
+
             case "sources":
               if (!entry.get("slug")) {
                 return entry
