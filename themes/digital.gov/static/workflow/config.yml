@@ -12,7 +12,6 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  use_graphql: true
   branch: main
   open_authoring: true
   squash_merges: true
@@ -839,7 +838,6 @@ collections:
     path: "{{slug}}/_index"
     create: true
     preview_path: topics/{{title}}
-
 
     fields:
       - label: "Topic Title"
