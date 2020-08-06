@@ -12,14 +12,13 @@ last_name: "De Silva"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
-bio: "
-Suran De Silva is a digital strategist and UX advocate leading an effort to improve the taxpayer experience through consistent and user-driven design at the Internal Revenue Service."
+bio: "Suran De Silva is a digital strategist and UX advocate leading an effort to improve the taxpayer experience through consistent and user-driven design at the Internal Revenue Service."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "Internal Revenue Service"
@@ -43,6 +42,5 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
 # Make it better ♥
 ---

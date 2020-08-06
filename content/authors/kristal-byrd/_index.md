@@ -12,14 +12,13 @@ last_name: "Byrd"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
-bio: "Kristal Byrd manages the user experience program of the Office of Strategic Communication (OSC) in the U.S. General Services Administration (GSA). She advocates for data-informed design and develops strategy to improve the user experience of GSA digital assets.
-"
+bio: "Kristal Byrd manages the user experience program of the Office of Strategic Communication (OSC) in the U.S. General Services Administration (GSA). She advocates for data-informed design and develops strategy to improve the user experience of GSA digital assets."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
@@ -43,6 +42,5 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
 # Make it better ♥
 ---

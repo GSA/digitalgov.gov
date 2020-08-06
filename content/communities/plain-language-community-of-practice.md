@@ -1,10 +1,8 @@
 ---
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
-title: 'Plain Language'
-summary: 'Our goal is to promote the use of plain language for all government communications.'
-topics:
-  - plainlanguage
+title: "Plain Language"
+summary: "Our goal is to promote the use of plain language for all government communications."
 aliases:
   - /communities/plain-language-community-of-practice/
 topics:
