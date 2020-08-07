@@ -10,6 +10,10 @@ summary: "Provides resources and collaborative opportunities to facilitate the u
 # What source published this?
 source: 'challengegov'
 
+# What is the URL for this product or service?
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+source_url: "https://challenge.gov/"
+
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
