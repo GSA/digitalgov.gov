@@ -52,7 +52,7 @@ In this webinar, Dr. Ku McMahan discusses the culture, program management, and o
 
 ## Presenter:
 
-*At USAID, **Dr. Ku McMahan** serves as team lead for Securing Water for Food: A Grand Challenge for Development in the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab) at USAID. He received his Ph.D. in environmental sciences and an M.P.H. in environmental health from the University of North Carolina at Chapel Hill under NSF and EPA STAR Fellowships. He received a B.A. in environmental sciences and policy. In addition, he developed a simple, low-cost water quality test for developing countries and emergency situations. Ku was recently a program executive officer for the USAID WA-WASH program in GLOWS and assistant professor of research at Florida International University.*
+At USAID, **Dr. Ku McMahan** serves as team lead for Securing Water for Food: A Grand Challenge for Development in the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab) at USAID. He received his Ph.D. in environmental sciences and an M.P.H. in environmental health from the University of North Carolina at Chapel Hill under NSF and EPA STAR Fellowships. He received a B.A. in environmental sciences and policy. In addition, he developed a simple, low-cost water quality test for developing countries and emergency situations. Ku was recently a program executive officer for the USAID WA-WASH program in GLOWS and assistant professor of research at Florida International University.
 
 ---
 
