@@ -15,7 +15,7 @@ captions: https://www.captionedtext.com/client/event.aspx?EventID=4538005&Custom
 date: 2020-08-18 14:00:00 -0500
 
 # end date
-end_date: 2020-08-18 115:00:00 -0500
+end_date: 2020-08-18 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
