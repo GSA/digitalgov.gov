@@ -12,14 +12,13 @@ last_name: "Kreidler"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
-bio: "Nancy Kreidler was selected for the Senior Executive Service and assumed her duties as the Director of Cybersecurity and Information Assurance at the Headquarters, Department of the U.S. Army, CIO/G-6 in March 2019.  As the Cybersecurity and Information Assurance Director, she serves as the principal advisor to the CIO/G-6 and other Senior Army Leaders on the integration of all aspects of information technology (IT) and cybersecurity strategy within CIO/G-6. Ms. Kreidler is responsible for assisting in the development of strategy, policy, and guidance for the Army's ongoing cybersecurity and information assurance efforts. 
-"
+bio: "Nancy Kreidler was selected for the Senior Executive Service and assumed her duties as the Director of Cybersecurity and Information Assurance at the Headquarters, Department of the U.S. Army, CIO/G-6 in March 2019.  As the Cybersecurity and Information Assurance Director, she serves as the principal advisor to the CIO/G-6 and other Senior Army Leaders on the integration of all aspects of information technology (IT) and cybersecurity strategy within CIO/G-6. Ms. Kreidler is responsible for assisting in the development of strategy, policy, and guidance for the Army's ongoing cybersecurity and information assurance efforts."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. Army"
@@ -43,6 +42,5 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
 # Make it better ♥
 ---

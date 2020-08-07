@@ -1,4 +1,3 @@
-
 ---
 # View this page at https://digital.gov/event/2020/07/making-remote-work-work-for-journey
 # Learn how to edit our pages at https://workflow.digital.gov
@@ -18,13 +17,13 @@ date: 2020-07-09 13:30:00 -0500
 end_date: 2020-07-09 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - research
   - ux
   - user-experience
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - julie-strothman
   - matt-dobson
 
@@ -38,17 +37,16 @@ youtube_id: X8ogMVm0mUc
 # 0 -- hidden
 # 1 -- visible
 weight: 0
-
 # Make it better ♥
 
 ---
 
-Journey maps and other experience-mapping methods are valuable tools to help teams embrace the spirit of 21st Century Integrated Digital Experience Act by better understanding user and customer needs and addressing their whole experience. 
+Journey maps and other experience-mapping methods are valuable tools to help teams embrace the spirit of 21st Century Integrated Digital Experience Act by better understanding user and customer needs and addressing their whole experience.
 
-As many people are adapting to remote work on distributed teams, we must adjust our methods for research. This talk explored how to preserve the value and impact of mapping exercises, while adapting facilitation and collaboration methods for a virtual work environment. 
+As many people are adapting to remote work on distributed teams, we must adjust our methods for research. This talk explored how to preserve the value and impact of mapping exercises, while adapting facilitation and collaboration methods for a virtual work environment.
 
 ## Speakers:
 
-**Julie Strothman** is a user experience researcher and designer at 18F. Based in southern Vermont, Julie has worked on state and local apps to increase access to affordable housing and to help agencies support people experiencing homelessness, as well as state-level public health data portals. She started her UX career at a college for students with learning disabilities, and has maintained a focus on inclusive design and accessibility testing. 
+**Julie Strothman** is a user experience researcher and designer at 18F. Based in southern Vermont, Julie has worked on state and local apps to increase access to affordable housing and to help agencies support people experiencing homelessness, as well as state-level public health data portals. She started her UX career at a college for students with learning disabilities, and has maintained a focus on inclusive design and accessibility testing.
 
-**Matt Dobson** is a designer and researcher located in Louisville, KY. He is a member of 18F’s Human Services portfolio team and co-lead of the TTS Research Guild. Matt is also a local leader for Louisville’s Interaction Design Association (IxDA) chapter and an active participant in Code for Kentuckiana, the Louisville-area brigade of Code for America. 
+**Matt Dobson** is a designer and researcher located in Louisville, KY. He is a member of 18F’s Human Services portfolio team and co-lead of the TTS Research Guild. Matt is also a local leader for Louisville’s Interaction Design Association (IxDA) chapter and an active participant in Code for Kentuckiana, the Louisville-area brigade of Code for America.
