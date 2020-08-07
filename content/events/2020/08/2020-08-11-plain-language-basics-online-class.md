@@ -1,11 +1,11 @@
 ---
 # View this page at https://digital.gov/event/2020/08/plain-language-basics-online-class
 # Learn how to edit our pages at https://workflow.digital.gov
-slug: plain-language-basics-online-class
-title: "Plain Language Basics: Online Class"
+slug: plain-language-basics-online-workshop
+title: "Plain Language Basics: Online Workshop"
 deck: ""
 kicker: "Plain Language"
-summary: "Take this three-hour online class to learn how to write and edit in plain language."
+summary: "Take this three-hour online workshop to learn how to write and edit in plain language."
 host: "Plain Language Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/113552869690
@@ -46,7 +46,7 @@ weight: 0
 
 ---
 
-U.S. government agencies are required to communicate in plain language. How do federal employees learn how to do that? The [Plain Language Action and Information Network](https://www.plainlanguage.gov/) (PLAIN) offers free training to federal agencies; this three-hour online class through Digital.gov explains how to write in plain language.
+U.S. government agencies are required to communicate in plain language. How do federal employees learn how to do that? The [Plain Language Action and Information Network](https://www.plainlanguage.gov/) (PLAIN) offers free opporuntity to federal agencies; this three-hour online workshop through Digital.gov explains how to write in plain language.
 
 We’ll cover the following:
 
@@ -63,11 +63,11 @@ We’ll cover the following:
     - Follow web standards
     - Test your assumptions
     
-We’ll use plenty of before-and-after examples, and in-class participation.
+We’ll use plenty of before-and-after examples.
   
 ## Presenter:
 
-**Katherine Spivey** serves as thePlain Language Launcher at the U.S. General Services Administration (GSA). She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. At GSA, she is the plain language expert for the Office of Strategic Communication. Previously, she managed web content, coordinated social media, and edited the [Great Government through Technology](https://gsablogs.gsa.gov/technology/) blog. Before GSA, Katherine was web content manager at the U.S. Department of Homeland Security, the international law firm, and the International Association of Chiefs of Police. With an M.A. from the University of Virginia and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
+**Katherine Spivey** serves as the Plain Language Launcher at the U.S. General Services Administration (GSA). She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. At GSA, she is the plain language expert for the Office of Strategic Communication. Previously, she managed web content, coordinated social media, and edited the [Great Government through Technology](https://gsablogs.gsa.gov/technology/) blog. Before GSA, Katherine was web content manager at the U.S. Department of Homeland Security, the international law firm, and the International Association of Chiefs of Police. With an M.A. from the University of Virginia and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
 
 ---
 
