@@ -50,17 +50,13 @@ By ensuring that the entrepreneurs and scientists behind groundbreaking new appr
 
 In this webinar, Dr. Ku McMahan discusses the culture, program management, and outcomes of SWFF. He will be sharing how SWFF’s process for finding and scaling new water and agriculture solutions helped 7 million farmers and their families produce 6.8 million tons of food and save 19 billion liters of water.
 
-## Presenter:
+## Presenter
 
-At USAID, **Dr. Ku McMahan** serves as team lead for Securing Water for Food: A Grand Challenge for Development in the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab) at USAID. He received his Ph.D. in environmental sciences and an M.P.H. in environmental health from the University of North Carolina at Chapel Hill under NSF and EPA STAR Fellowships. He received a B.A. in environmental sciences and policy. In addition, he developed a simple, low-cost water quality test for developing countries and emergency situations. Ku was recently a program executive officer for the USAID WA-WASH program in GLOWS and assistant professor of research at Florida International University.
+At USAID, **Dr. Ku McMahan** serves as team lead for Securing Water for Food: A Grand Challenge for Development in the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab) at USAID. He received his Ph.D. in environmental sciences and an M.P.H. in environmental health from the University of North Carolina at Chapel Hill under NSF and EPA STAR Fellowships. He received a B.A. in environmental sciences and policy. In addition, he developed a simple, low-cost water quality test for developing countries and emergency situations. Ku was recently a program executive officer for the USAID WA-WASH program in GLOWS and assistant professor of research at Florida International University. 
 
----
-
-**Related Links:**
+## Related Links
 
  - [Securing Water For Food: A Grand Challenge for Development](https://securingwaterforfood.org/)
  - [Water and Energy for Food](https://www.we4f.org/)
- 
- ---
- 
- *This webinar is hosted by Securing Water for Food: A Grand Challenge for Development (SWFF) and Digital.gov. SWFF worked with innovators to scale solutions for water-agricultural challenges in developing countries and emerging economies.*
+
+*This webinar is hosted by Securing Water for Food: A Grand Challenge for Development (SWFF) and Digital.gov. SWFF worked with innovators to scale solutions for water-agricultural challenges in developing countries and emerging economies.* 
