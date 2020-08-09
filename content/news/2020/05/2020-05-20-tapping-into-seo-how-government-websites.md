@@ -58,6 +58,10 @@ Once you have identified the keywords that you wish to focus on, the next step i
 
 The last step in the process involves off-page optimization. Off-page optimization essentially involves gaining backlinks to your content. Search engines are more likely to rank a page highly if it has built [backlinks](https://en.wikipedia.org/wiki/Backlink) to its content. Whenever possible, links to content across the organization’s website and other websites should be incorporated for maximum reach.
 
+### Pagespeed Optimization
+
+Pagespeed refers to the amount of time a page needs to be completely loaded. [Pagespeed](https://screpy.com) depends on many different factors, from host to design and can be optimized. In fact, page load time does matter for both users and search engines. Users are less likely to stay on a website that takes ages to load and Google will certainly penalize your website for being too slow. Also, a fast website also converts better.
+
 ## Cost-Saving Benefit
 
 One of the best benefits of SEO is that it does not involve paying for ad space or costly campaigns. While organizations can still pay for advertisements, some of which are often displayed with an “Ad” tag within a given search, there are many who do not pay a dime for high rankings, simply by utilizing SEO and optimizing their content. While the process of learning SEO can be somewhat technical, there are a lot of free online tools and information that can help instruct you further on how to improve your SEO skills, and, ultimately grow the audience of your organization’s content. 
