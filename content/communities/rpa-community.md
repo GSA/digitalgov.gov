@@ -40,11 +40,11 @@ weight: 1
 
 ## Purpose
 
-The RPA CoP helps individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy and security, and designing common management metrics to gauge government-wide impact of RPA.
+The RPA Community of Practice (CoP) helps individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, ensuring privacy and security, and designing common management metrics to gauge RPA’s government-wide impact.
 
 ## What We Do
 
-The RPA CoP helps individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, privacy and security, and designing common management metrics to gauge government-wide impact of RPA.
+The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP helps agencies develop programs that are cost-effective and auditable, avoid common pitfalls, and make a significant impact. The CoP hosts frequent knowledge-sharing events and publishes valuable guidance on best practices.
 
 ## Resources
 
@@ -52,11 +52,9 @@ The RPA community has built several resources, including an RPA Program [Playboo
 
 ## Who We Are  
 
-The RPA CoP is composed of leaders across the Federal Government who share a passion for RPA.
+The RPA CoP comprises  leaders across the federal government who share a passion for RPA.
 
-The executive sponsor for the RPA Community of Practice is:
-
-- **Gerard Badorrek** — General Services Administration Chief Financial Officer and RPA Community of Practice Chair
+**Gerard Badorrek** (General Services Administration (GSA)) Chief Financial Officer is the  RPA CoP Chair and executive sponsor.
 
 Jim Geoghegan (GSA) manages the RPA community: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
 
@@ -66,8 +64,8 @@ The community is organized into 10 practice areas, with subject matter experts f
 
 ### Technology
 
-- **Privacy**: Richard Spiedel, General Services Administration (GSA); Marcela Souaya, General Services Administration (GSA)
-- **Credentialing**: Jennifer Hill, Treasury (FIT)
+- **Privacy**: Richard Spiedel (GSA); Marcela Souaya (GSA)
+- **Credentialing**: Jennifer Hill, Treasury Office of Financial Innovation & Transformation (FIT)
 - **IT Platform**: Shang-Jeo Gaublomme, Department of Homeland Security (DHS)
 - **Security Policy**: Frank Greenwell, Federal Reserve Board (FRB); David Harris, Department of the Interior (DOI)
 
@@ -75,13 +73,13 @@ The community is organized into 10 practice areas, with subject matter experts f
 
 - **Operating Model/Center of Excellence (CoE)**: James Gregory, Department of Homeland Security (DHS); Anju Anand, National Science Foundation (NSF); Pam Wolfe, National Aeronautics and Space Administration (NASA)
 - **HR Impact, Culture, Change Management, Comms**: Veronica Villalobos, Office of Personnel Management (OPM); Marianne Ndekey, Office of Personnel Management (OPM); A’ndrea Jones, Department of Housing and Urban Development (HUD)
-- **Management Reporting & Business Value**: James Geoghegan, General Services Administration (GSA); Kate Mishra, Department of Housing and Urban Development (HUD)
+- **Management Reporting & Business Value**: James Geoghegan, (GSA); Kate Mishra, (HUD)
 - **Process Selection, Use Case, and Automation Sharing**: Erica Thomas, Office of the Secretary of Defense (DOD), Bo Shevchik, Federal Reserve System (Bank of St. Louis)
 
 ### Operations:
 
-- **Operations Management**: General Services Administration (GSA)
-- **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF) 
+- **Operations Management**: James gregory, (GSA)
+- **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, Department of Veterans Affairs (VA)
 
 ---
 
