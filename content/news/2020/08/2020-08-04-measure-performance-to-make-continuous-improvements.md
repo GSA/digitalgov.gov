@@ -96,7 +96,7 @@ Their current challenge, along with many others in government right now, is adap
 
 ## Up Next
 
--  Attend any or all webinars in the Digital Analytics Program’s three-part analytics case study series:
+Attend any or all webinars in the Digital Analytics Program’s three-part analytics case study series:
 
 -  [Part 1: Assessment](https://digital.gov/event/2020/08/26/dap-analytics-case-study-part-1/)—How to assess your analytics strategy to ensure you’re pulling impactful and relevant data (August 26)
     
