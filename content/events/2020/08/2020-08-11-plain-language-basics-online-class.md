@@ -48,7 +48,7 @@ weight: 0
 
 U.S. government agencies are required to communicate in plain language. This three-hour online workshop by the [Plain Language Action and Information Network](https://www.plainlanguage.gov/) (PLAIN) through Digital.gov explains how to write in plain language.
 
-We’ll cover the following:
+We'll cover the following:
 
  - Definition of plain language
  - Background
@@ -69,12 +69,10 @@ We’ll use plenty of before-and-after examples.
 
 **Katherine Spivey** serves as the Plain Language Launcher at the U.S. General Services Administration (GSA). She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. At GSA, she is the plain language expert for the Office of Strategic Communication. Previously, she managed web content, coordinated social media, and edited the [Great Government through Technology](https://gsablogs.gsa.gov/technology/) blog. Before GSA, Katherine was web content manager at the U.S. Department of Homeland Security, the international law firm, and the International Association of Chiefs of Police. With an M.A. from the University of Virginia and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
 
----
+## Related Links
 
-**Related Link:**
-
- - **[Federal Plain Language Guidelines](https://www.plainlanguage.gov/guidelines)**
+ - [Federal Plain Language Guidelines](https://www.plainlanguage.gov/guidelines)
  
  ---
  
- *The [Plain Language Action and Information Network](https://www.plainlanguage.gov/) (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better service to the American public.*
+_The [Plain Language Action and Information Network](https://www.plainlanguage.gov/) (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better service to the American public._ 
