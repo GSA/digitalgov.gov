@@ -1,7 +1,7 @@
 ---
 # View this page at https://digital.gov/event/2020/08/plain-language-basics-online-class
 # Learn how to edit our pages at https://workflow.digital.gov
-slug: plain-language-basics-online-workshop
+slug: plain-language-basics-online-class
 title: "Plain Language Basics: Online Workshop"
 deck: ""
 kicker: "Plain Language"
@@ -46,7 +46,7 @@ weight: 0
 
 ---
 
-U.S. government agencies are required to communicate in plain language. How do federal employees learn how to do that? The [Plain Language Action and Information Network](https://www.plainlanguage.gov/) (PLAIN) offers free opporuntity to federal agencies; this three-hour online workshop through Digital.gov explains how to write in plain language.
+U.S. government agencies are required to communicate in plain language. This three-hour online workshop by the [Plain Language Action and Information Network](https://www.plainlanguage.gov/) (PLAIN) through Digital.gov explains how to write in plain language.
 
 We’ll cover the following:
 
