@@ -15,7 +15,7 @@ jobs:
     steps:
       - checkout
       - hugo/install:
-          version: "0.66.0"
+          version: "0.74.3"
       - node/install-packages:
           cache-path: ~/project/node_modules
           override-ci-command: npm install

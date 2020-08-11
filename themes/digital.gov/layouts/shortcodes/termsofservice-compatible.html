@@ -7,7 +7,7 @@
   </tr>
   {{ range where .Site.Data.termsofservice.termsofservice "status" "!=" (slice "closed" "not-compatible") }}
   <tr>
-    <td><a href="{{ .url }}" title="{{ .name }}"><img class="favicon" src="https://www.google.com/s2/favicons?domain={{ .url }}" alt="{{ .name }}"> <strong><span>{{ .name }}</span></strong></a> {{ if .description }} — {{ .description -}}{{- end -}}</td>
+    <td><a href="{{ .Params.url }}" title="{{ .name }}"><img class="favicon" src="https://www.google.com/s2/favicons?domain={{ .Params.url }}" alt="{{ .name }}"> <strong><span>{{ .name }}</span></strong></a> {{ if .description }} — {{ .description -}}{{- end -}}</td>
 
     {{ $.Scratch.Set "filepath" (printf "%s" "null") }}
     {{ if eq .type "PDF" }}

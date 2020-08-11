@@ -19,7 +19,7 @@
     {{- end -}}
     {{- with .Site.Author.name -}}
     "author" : {
-        "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
+        "name" : "{{- . -}}"{{- with $.Site.Author.Params.url -}},
         "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
         "avatar": "{{- . | absURL -}}"{{- end -}}
     },
