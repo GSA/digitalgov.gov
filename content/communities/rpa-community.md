@@ -78,7 +78,7 @@ The community is organized into 10 practice areas, with subject matter experts f
 
 ### Operations:
 
-- **Operations Management**: James gregory, (GSA)
+- **Operations Management**: James Gregory, (GSA)
 - **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, Department of Veterans Affairs (VA)
 
 ---
