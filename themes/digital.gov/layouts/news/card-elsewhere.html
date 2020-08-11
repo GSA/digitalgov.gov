@@ -21,7 +21,7 @@
         {{- if .Params.deck -}}{{- .Params.deck | markdownify | emojify -}}{{- end -}}
         {{- if $source -}}
           {{ $url := urls.Parse .Params.source_url }}
-          <em class="source">— via <a href="{{- $source.Params.domain -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
+          <em class="source">— via <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{- else -}}{{- .Params.source_url -}}{{- end -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
         {{ end }}
       </p>
       {{- if $source -}}
@@ -36,5 +36,4 @@
     <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
     {{- partial "core/get_clicks" . -}}
   </div>
-  <a class="overlay" href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{- else -}}{{- .Params.source_url -}}{{- end -}}" title="{{- .Params.source_name -}}"><span></span></a>
 </div>
