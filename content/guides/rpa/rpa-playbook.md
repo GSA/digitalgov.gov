@@ -11,12 +11,6 @@ Written by the RPA CoP, the RPA playbook provides detailed, accessible guidance 
 
 {{< button href="https://digital.gov/pdf/rpa-playbook.pdf" text="Download the RPA Playbook (v1.1)" >}}
 
-
-## Submit Feedback
-The RPA CoP values your feedback. If you are using the playbook within your agency or have suggestions for future content, please let us know!
-
-{{< button href="##" text="Playbook Survey" >}}
-
 ## At a Glance  
 To serve as a guiding reference tool for federal agencies, the playbook covers both program management and technology management strategies for RPA programs at all levels.  Readers can expect to find guidance for:
 
