@@ -1,0 +1,12 @@
+img[alt="Logo"] {
+  margin-left: 75px;
+  width: 150px;
+}
+
+div[class*="LibraryTop"] button[class*="DeleteButton"] {
+  display: none;
+}
+
+body:not(.show-upload) label[class*="nc-fileUploadButton"] {
+  display: none;
+}
