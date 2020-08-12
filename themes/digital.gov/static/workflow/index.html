@@ -5,215 +5,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <style>
-      img[alt="Logo"] {
-        margin-left: 75px;
-        width: 150px;
-      }
-
-      div[class*="LibraryTop"] button[class*="DeleteButton"] {
-        display: none;
-      }
-
-      body:not(.show-upload) label[class*="nc-fileUploadButton"] {
-        display: none;
-      }
-    </style>
+    <link rel="stylesheet" type="text/css" href="index.css" />
   </head>
   <body>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script src="https://unpkg.com/netlify-cms-widget-async-select@1.3.4"></script>
+    <script type="module">
+      import editorComponents from "./js/editorComponents/index.js";
+      import { formatDate, slugify } from "./js/helpers.js";
 
-    <script>
-      function formatDate(date) {
-        return `${date.getIn(["yyyy"])}-${date.getIn(["mm"])}-${date.getIn([
-          "dd"
-        ])} ${date.getIn(["time"]) ? date.getIn(["time"]) : "12"}:00:00 -0500`;
-      }
-
-      function slugify(string) {
-        const a =
-          "àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;";
-        const b =
-          "aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnoooooooooprrsssssttuuuuuuuuuwxyyzzz------";
-        const p = new RegExp(a.split("").join("|"), "g");
-
-        return string
-          .toString()
-          .toLowerCase()
-          .replace(/[']/g, "") // Remove single quotes
-          .replace(/[.]/g, "-") // Replace periods with dashes
-          .replace(/\s+/g, "-") // Replace spaces with -
-          .replace(p, c => b.charAt(a.indexOf(c))) // Replace special characters
-          .replace(/[^\w\-]+/g, "") // Remove all non-word characters
-          .replace(/\-\-+/g, "-") // Replace multiple - with single -
-          .replace(/^-+/, "") // Trim - from start of text
-          .replace(/-+$/, ""); // Trim - from end of text
-      }
-
+      // Register custom widgets
       CMS.registerWidget("async-select", window.AsyncSelectControl);
 
+      // Modify entry data and add slug value to front matter
       CMS.registerEventListener({
         name: "preSave",
         handler: ({ entry }) => {
-          const primary_image = entry.getIn(["data", "primary_image"]) || "";
+          let data = entry.get("data");
+
+          const primary_image = data.getIn(["primary_image"]) || "";
+
+          if (!entry.get("slug")) {
+            data = data.set(
+              "slug",
+              slugify(
+                data.getIn(["title"]) ||
+                  data.getIn(["display_name"]) ||
+                  data.getIn(["name"])
+              )
+            );
+          }
 
           switch (entry.get("collection")) {
-            case "authors":
-              if (!entry.get("slug")) {
-                return entry
-                  .get("data")
-                  .set("slug", slugify(entry.getIn(["data", "display_name"])));
-              }
-              break;
-
-            case "communities":
-              if (!entry.get("slug")) {
-                return entry
-                  .get("data")
-                  .set("slug", slugify(entry.getIn(["data", "title"])));
-              }
-              break;
-
             case "events":
-              return entry
-                .get("data")
-                .set("date", formatDate(entry.getIn(["data", "cms_date"])))
-                .set(
-                  "end_date",
-                  formatDate(entry.getIn(["data", "cms_end_date"]))
-                )
-                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""))
-                .set("slug", slugify(entry.getIn(["data", "title"])));
+              data = data
+                .set("date", formatDate(data.getIn(["cms_date"])))
+                .set("end_date", formatDate(data.getIn(["cms_end_date"])))
+                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
 
             case "news":
-              return entry
-                .get("data")
-                .set("date", formatDate(entry.getIn(["data", "cms_date"])))
-                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""))
-                .set("slug", slugify(entry.getIn(["data", "title"])));
-
-            case "resources":
-              if (!entry.get("slug")) {
-                return entry
-                  .get("data")
-                  .set("slug", slugify(entry.getIn(["data", "title"])));
-              }
-              break;
-
-            case "services":
-              if (!entry.get("slug")) {
-                return entry
-                  .get("data")
-                  .set("slug", slugify(entry.getIn(["data", "title"])));
-              }
-              break;
-
-            case "sources":
-              if (!entry.get("slug")) {
-                return entry
-                  .get("data")
-                  .set("slug", slugify(entry.getIn(["data", "name"])));
-              }
-              break;
+              data = data
+                .set("date", formatDate(data.getIn(["cms_date"])))
+                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
           }
+
+          return data;
         }
       });
 
-      CMS.registerEditorComponent({
-        id: "img",
-        label: "Images",
-        fields: [
-          {
-            name: "src",
-            label: "Source",
-            widget: "string"
-          },
-          {
-            name: "alt",
-            label: "Alt text",
-            widget: "string"
-          }
-        ],
-        pattern: /{{< img src="([a-zA-Z0-9]+)" alt="([a-zA-Z0-9]+)" >}}/,
-        fromBlock: function(match) {
-          return {
-            src: match[1],
-            alt: match[2]
-          };
-        },
-        toBlock: function(obj) {
-          return `{{< img src="${obj.src}" alt="${obj.alt}" >}}`;
-        },
-        toPreview: function(obj) {
-          return `{{< img src="${obj.src}" alt="${obj.alt}" >}}`;
-        }
-      });
-      CMS.registerEditorComponent({
-        id: "img-right",
-        label: "Images, Right Aligned",
-        fields: [
-          {
-            name: "src",
-            label: "Source",
-            widget: "string"
-          },
-          {
-            name: "alt",
-            label: "Alt text",
-            widget: "string"
-          }
-        ],
-        pattern: /{{< img-right src="([a-zA-Z0-9]+)" alt="([a-zA-Z0-9]+)" >}}/,
-        fromBlock: function(match) {
-          return {
-            src: match[1],
-            alt: match[2]
-          };
-        },
-        toBlock: function(obj) {
-          return `{{< img-right src="${obj.src}" alt="${obj.alt}" >}}`;
-        },
-        toPreview: function(obj) {
-          return `{{< img-right src="${obj.src}" alt="${obj.alt}" >}}`;
-        }
-      });
-      CMS.registerEditorComponent({
-        id: "instagram",
-        label: "Instagram",
-        fields: [
-          {
-            name: "pid",
-            label: "Photo id",
-            widget: "string"
-          },
-          {
-            name: "hidecaption",
-            label: "Hidden caption",
-            widget: "boolean"
-          }
-        ],
-        pattern: /{{< instagram ([a-zA-Z0-9]+)\s?(hidecaption)? >}}/,
-        fromBlock: function(match) {
-          return {
-            pid: match[1],
-            hidecaption: match[2]
-          };
-        },
-        toBlock: function(obj) {
-          return `{{< instagram ${obj.pid}${
-            obj.hidecaption ? " hidecaption" : ""
-          } >}}`;
-        },
-        toPreview: function(obj) {
-          return `{{< instagram ${obj.pid}${
-            obj.hidecaption ? " hidecaption" : ""
-          } >}}`;
-        }
-      });
+      // Register custom Hugo shortcodes (found in js/editorComponents)
+      editorComponents.forEach(component =>
+        CMS.registerEditorComponent(component)
+      );
 
+      // Only show media library upload button on Image Upload collection
       window.addEventListener("hashchange", function(e) {
-        var body = document.querySelector("body");
+        const body = document.querySelector("body");
+
         window.location.hash.indexOf("#/collections/image-upload/new") > -1
           ? body.classList.add("show-upload")
           : body.classList.remove("show-upload");
