@@ -1,6 +1,8 @@
 const component = {
   id: "img-right",
-  label: "Images, Right Aligned",
+  label: "Images, right aligned",
+  hint:
+    'example: {{< img-right src="peace-corps-customer-satisfaction" alt="A bar graph showing User Satisfaction: Task Completion vs. Content Comprehension" >}}',
   fields: [
     {
       name: "src",
@@ -13,7 +15,7 @@ const component = {
       widget: "string"
     }
   ],
-  pattern: /{{< img-right src="([a-zA-Z0-9]+)" alt="([a-zA-Z0-9]+)" >}}/,
+  pattern: /{{< img-right\s?(?:src="(.*?)")?\s?(?:alt="(.*?)")? >}}/,
   fromBlock: function(match) {
     return {
       src: match[1],
@@ -21,10 +23,10 @@ const component = {
     };
   },
   toBlock: function(obj) {
-    return `{{< img-right src="${obj.src}" alt="${obj.alt}" >}}`;
+    return `{{< img-right src="${obj.src}" alt="${obj.alt ? obj.alt : ""}" >}}`;
   },
   toPreview: function(obj) {
-    return `{{< img-right src="${obj.src}" alt="${obj.alt}" >}}`;
+    return `{{< img-right src="${obj.src}" alt="${obj.alt ? obj.alt : ""}" >}}`;
   }
 };
 

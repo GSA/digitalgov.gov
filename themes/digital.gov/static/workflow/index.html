@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <link rel="stylesheet" type="text/css" href="index.css" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
   </head>
   <body>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
@@ -17,7 +17,7 @@
       // Register custom widgets
       CMS.registerWidget("async-select", window.AsyncSelectControl);
 
-      // Modify entry data and add slug value to front matter
+      // Modify entry data and add slug value
       CMS.registerEventListener({
         name: "preSave",
         handler: ({ entry }) => {
@@ -53,12 +53,12 @@
         }
       });
 
-      // Register custom Hugo shortcodes (found in js/editorComponents)
+      // Register custom Hugo shortcodes
       editorComponents.forEach(component =>
         CMS.registerEditorComponent(component)
       );
 
-      // Only show media library upload button on Image Upload collection
+      // Only show media library upload button in Image Upload collection
       window.addEventListener("hashchange", function(e) {
         const body = document.querySelector("body");
 
