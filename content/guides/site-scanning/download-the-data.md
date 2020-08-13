@@ -8,4 +8,6 @@ aliases:
   - /guide/site-scanning/download-the-data/
 ---
 
-....
+There's a complete API available for accessing all of the scan data.  Complete documentation, including API key registration, can be found on open.gsa.gov, but here is an exhaustive list of endpoints for convenience.  
+
+...
