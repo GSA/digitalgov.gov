@@ -22,21 +22,22 @@ aliases:
 
 #### Spotlight Website v1
 
-* [Spotlight 1.0 Code.json Report](/report-pages/live/spotlight1-codedotjson-report.md)
-* [Spotlight 1.0 Data.json Report](/report-pages/live/spotlight1-datadotjson-report.md)
-* [Spotlight 1.0 Data Hub Report](/report-pages/live/spotlight1-datahub-report.md)
-* [Spotlight 1.0 Developer Hub Report](/report-pages/live/spotlight1-developerhub-report.md)
-* [Spotlight 1.0 /Robots.txt Report](/report-pages/live/spotlight1-robotstxt-report.md)
-* [Spotlight 1.0 /Sitemap.xml Report](/report-pages/live/spotlight1-sitemapxml-report.md)
-* [Spotlight 1.0 Privacy Page Report](/report-pages/live/spotlight1-privacy-report.md)
-* [Spotlight 1.0 USWDS Report](/report-pages/live/spotlight1-uswds-report.md)
-* [Spotlight 1.0 DAP Report](/report-pages/live/spotlight1-analytics-report.md)
-* [Spotlight 1.0 Third Party Services Report](/report-pages/live/spotlight1-third-party-report.md)
-* [Spotlight 1.0 Page Status Report](/report-pages/live/spotlight1-200-report.md)
+* [Spotlight 1.0 Code.json Report](https://site-scanning.app.cloud.gov/search200/200-codejson/?200page=/code.json&mimetype=application/json)
+* [Spotlight 1.0 Data.json Report](https://site-scanning.app.cloud.gov/search200/200-data.json/?200page=/data.json&mimetype=application/json)
+* [Spotlight 1.0 Data Hub Report](https://site-scanning.app.cloud.gov/search200/?200page=/data&q=200)
+* [Spotlight 1.0 Developer Hub Report](https://site-scanning.app.cloud.gov/search200/200-developer/?domainsearch=&present=Present&200page=%2Fdeveloper&date=Scan+Date&agency=All+Agencies&domaintype=All+Branches&org=All+Organizations&mimetype=all+content_types&hitsperpage=50)
+* [Spotlight 1.0 /Robots.txt Report](https://site-scanning.app.cloud.gov/search200/200-robotstxt/?200page=/robots.txt)
+* [Spotlight 1.0 /Sitemap.xml Report](https://site-scanning.app.cloud.gov/sitemap/)
+* [Spotlight 1.0 Privacy Page Report](https://site-scanning.app.cloud.gov/privacy/)
+* [Spotlight 1.0 USWDS Report](https://site-scanning.app.cloud.gov/searchUSWDS/)
+* [Spotlight 1.0 DAP Report](https://site-scanning.app.cloud.gov/search200/dap/)
+* [Spotlight 1.0 Third Party Services Report](ttps://site-scanning.app.cloud.gov/search200/third_parties/)
+* [Spotlight 1.0 Page Status Report](https://site-scanning.app.cloud.gov/search200/)
 
 #### Other
 
 * [TTS Dashboard](https://cg-bbe64741-a601-484f-bc3b-e8eef3c28590.app.cloud.gov/site/18f/site-scanning-dashboard/)
-* [Known code.json locations](/report-pages/live/codedotjson-dashboard.md)
-* [Known data.json locations](/report-pages/live/datadotjson-dashboard.md)
+* [Known code.json locations](https://cg-bbe64741-a601-484f-bc3b-e8eef3c28590.app.cloud.gov/site/18f/site-scanning-dashboard/codegov/)
+* [Known data.json locations](https://cg-bbe64741-a601-484f-bc3b-e8eef3c28590.app.cloud.gov/site/18f/site-scanning-dashboard/datagov/)
 
+_Have ideas for other report pages?  Please [file an issue](https://github.com/18F/site-scanning/issues) or add your idea [to the list of candidate report pages](https://github.com/18F/site-scanning-documentation/blob/main/report-pages/candidate-report-pages.md)!_
