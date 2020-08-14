@@ -314,6 +314,7 @@ collections:
     folder: "content/events"
     editor:
       preview: false
+    sortableFields: ["date", "title"]
 
     path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
     slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
@@ -323,6 +324,9 @@ collections:
     preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{title}}
 
     fields:
+      - label: "Date"
+        name: "date"
+        widget: "hidden"
       - label: "Event Title"
         name: "title"
         widget: "string"
@@ -470,6 +474,7 @@ collections:
     folder: "content/news"
     editor:
       preview: false
+    sortableFields: ["date", "title"]
 
     path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
     slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
@@ -479,6 +484,9 @@ collections:
     preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{cms_date[dd]}}/{{title}}
 
     fields:
+      - label: "Date"
+        name: "date"
+        widget: "hidden"
       - label: "Source Url"
         name: "source_url"
         widget: "string"
@@ -839,7 +847,6 @@ collections:
     path: "{{slug}}/_index"
     create: true
     preview_path: topics/{{title}}
-
 
     fields:
       - label: "Topic Title"
