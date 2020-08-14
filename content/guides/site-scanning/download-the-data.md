@@ -3,11 +3,12 @@ date: 2020-07-28 09:00:00 -0500
 title: "Download the Data"
 deck: ""
 summary: ""
-guide: dap
+guide: site-scanning
 aliases:
   - /guide/site-scanning/download-the-data/
 ---
 
-There's a complete API available for accessing all of the scan data.  Complete documentation, including API key registration, can be found on open.gsa.gov, but here is an exhaustive list of endpoints for convenience.  
+There's a complete API available for accessing all of the scan data.  Complete documentation, including API key registration, [can be found on open.gsa.gov](https://open.gsa.gov/api/spotlight-api/), but here is an exhaustive list of endpoints for convenience:  
 
-...
+
+[Insert table here]
