@@ -12,10 +12,10 @@ registration_url: https://www.eventbrite.com/e/116212353277
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4538005&CustomerID=321
 
 # start date
-date: 2020-08-18 14:00:00 -0500
+date: 2020-08-18 15:00:00 -0500
 
 # end date
-end_date: 2020-08-18 15:00:00 -0500
+end_date: 2020-08-18 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -25,10 +25,8 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - dr-ku-mcmahan
   - jarah-meador
-
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
 
 # YouTube ID
 youtube_id: 
@@ -39,7 +37,6 @@ youtube_id:
 weight: 0
 
 # Make it better ♥
-
 ---
 
 *Thank you for your interest in this Digital.gov event. Please contact us directly at [DigitalGovU@gsa.gov](mailto:Digitalgovu@gsa.gov) if you need accessible accommodations to be able to attend.*
