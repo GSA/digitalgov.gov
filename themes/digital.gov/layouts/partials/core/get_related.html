@@ -6,14 +6,11 @@
 
 {{/* Communities ====================== */}}
 
-{{/* gets all pages in the site that are related */}}
-{{- $related_pages := .Site.Pages.Related  . -}}
-
 {{/* gets only the related community pages */}}
-{{- $communities := where $related_pages "Section" "communities" -}}
+{{- $communities_all := where (.Site.RegularPages.RelatedIndices . "topics" ) "Section" "communities" -}}
 
 {{/* Now shuffle the community pages and pick the first 5 */}}
-{{- $communities := first 5 $communities | shuffle -}}
+{{- $communities := first 5 $communities_all | shuffle -}}
 
 {{/* If there are community pages... */}}
 {{- with $communities -}}
@@ -36,7 +33,7 @@
   {{- end -}}
 
   <footer>
-    <p class="more"><a href="{{ "/communities/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "communities") }} communities</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+    <p class="more"><a href="{{ "/communities/" | absURL }}"><span>See all {{ len $communities_all }} communities</span> <i class="fas fa-arrow-circle-right"></i></a></p>
   </footer>
 
 </section>
@@ -46,10 +43,10 @@
 {{/* Services ====================== */}}
 
 {{/* gets only the related service pages */}}
-{{- $services := where $related_pages "Section" "services" -}}
+{{- $services_all := where (.Site.RegularPages.RelatedIndices . "topics" ) "Section" "services" -}}
 
 {{/* Now shuffle the service pages and pick the first 5 */}}
-{{- $services := first 5 $services | shuffle -}}
+{{- $services := first 5 $services_all | shuffle -}}
 
 {{/* If there are services... */}}
 {{- with $services -}}
@@ -96,7 +93,7 @@
   {{- end -}}
 
   <footer>
-    <p class="more"><a href="{{ "/services/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "services") }} services</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+    <p class="more"><a href="{{ "/services/" | absURL }}"><span>See all {{ len $services_all }} services</span> <i class="fas fa-arrow-circle-right"></i></a></p>
   </footer>
 
 </section>

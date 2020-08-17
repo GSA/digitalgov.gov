@@ -24,7 +24,7 @@ jobs:
           command: npm run federalist
       - run:
           name: Build with Hugo
-          command: HUGO_ENV=production hugo -v -s . -d public
+          command: HUGO_ENV=production hugo --templateMetrics --templateMetricsHints -v -s . -d public
       - persist_to_workspace:
           paths:
             - node_modules
