@@ -61,7 +61,9 @@ We'll cover the following:
     - Test your assumptions
     
 We’ll use plenty of before-and-after examples.
-  
+
+[View the slides](https://digital.gov/pdf/PLbasicsDGU81120-508-checked.pdf) (PDF, 19.1 MB, 68 pages)
+
 ## Presenter:
 
 **Katherine Spivey** serves as the Plain Language Launcher at the U.S. General Services Administration (GSA). She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. At GSA, she is the plain language expert for the Office of Strategic Communication. Previously, she managed web content, coordinated social media, and edited the [Great Government through Technology](https://gsablogs.gsa.gov/technology/) blog. Before GSA, Katherine was web content manager at the U.S. Department of Homeland Security, the international law firm, and the International Association of Chiefs of Police. With an M.A. from the University of Virginia and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
