@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/08/plain-language-basics-online-class
+# View this page at https://digital.gov/event/2020/08/plain-language-basics-online-workshop
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: plain-language-basics-online-class
 title: "Plain Language Basics: Online Workshop"
@@ -12,10 +12,10 @@ registration_url: https://www.eventbrite.com/e/113552869690
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4508859&CustomerID=321
 
 # start date
-date: 2020-08-11 13:00:00 -0500
+date: 2020-08-11 14:00:00 -0500
 
 # end date
-end_date: 2020-08-11 16:00:00 -0500
+end_date: 2020-08-11 17:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
@@ -31,11 +31,8 @@ topics:
 authors: 
   - katherine-spivey
 
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
-
 # YouTube ID
-youtube_id: 
+youtube_id: tm3wk-GRS6g
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
