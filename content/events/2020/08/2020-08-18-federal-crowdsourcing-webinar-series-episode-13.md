@@ -32,7 +32,7 @@ authors:
 event_platform: 
 
 # YouTube ID
-youtube_id: 
+youtube_id: tr2h7wFoFoU
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
