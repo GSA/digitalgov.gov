@@ -25,10 +25,11 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - dr-ku-mcmahan
   - jarah-meador
 
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)	
+event_platform: 
 
 # YouTube ID
 youtube_id: 
@@ -39,7 +40,6 @@ youtube_id:
 weight: 0
 
 # Make it better ♥
-
 ---
 
 *Thank you for your interest in this Digital.gov event. Please contact us directly at [DigitalGovU@gsa.gov](mailto:Digitalgovu@gsa.gov) if you need accessible accommodations to be able to attend.*
@@ -59,4 +59,4 @@ At USAID, **Dr. Ku McMahan** serves as team lead for Securing Water for Food: A 
  - [Securing Water For Food: A Grand Challenge for Development](https://securingwaterforfood.org/)
  - [Water and Energy for Food](https://www.we4f.org/)
 
-*This webinar is hosted by Securing Water for Food: A Grand Challenge for Development (SWFF) and Digital.gov. SWFF worked with innovators to scale solutions for water-agricultural challenges in developing countries and emerging economies.* 
+_This webinar is hosted by Securing Water for Food: A Grand Challenge for Development (SWFF) and Digital.gov. SWFF worked with innovators to scale solutions for water-agricultural challenges in developing countries and emerging economies._ 
