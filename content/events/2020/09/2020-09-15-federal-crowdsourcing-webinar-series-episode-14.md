@@ -23,6 +23,7 @@ topics:
   - design
   - open-data
   - user-centered-design
+  - crowdsourcing
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -66,12 +67,32 @@ The TOPx toolkit will be widely available beginning in December on [opportunity.
 ---
 
 **Related Links:**
-
+ - 
  - [Census Open Innovation Labs website](https://opportunity.census.gov/coil/)
  - [The Opportunity Project website](https://opportunity.census.gov/)
  - [U.S. Department of State’s Office of Foreign Assistance](https://www.state.gov/about-us-office-of-foreign-assistance/)
  - [ForeignAssistance.gov](https://foreignassistance.gov/)
  
  ---
+ 
+ **More About the Federal Crowdsourcing Webinar Series**
+
+Airing monthly, this series illuminates how U.S. agencies are reaching beyond their typical channels to source talent and enthusiasm to multiply the ideas and perspectives being brought to a particular issue. Don’t miss these previous episodes:
+
+- Episode 13: [Securing Water for Food’s Crowdsourcing Culture](https://digital.gov/event/2020/08/18/federal-crowdsourcing-webinar-series-episode-13/), with Dr. Ku McMahan, USAID
+- Episode 12: [How AFWERX Crowdsources an Innovation Culture](https://digital.gov/event/2020/07/14/federal-crowdsourcing-webinar-series-episode-12/), with Joseph “Joey” Arora, Air Force Ventures and AFWERX and Steve “Elmo” Lauver, Air Force Ventures and AFWERX
+-   Episode 11:  [Federal Crowdsource Mobile Testing Program](https://digital.gov/event/2020/06/09/federal-crowdsourcing-webinar-series-episode-11/), with David Fern, SSA
+-   Episode 10: precisionFDA, with Elaine Johansen, Emily Boja and Holly Stephens
+-   Episode 9:  [History Hub](https://digital.gov/event/2020/04/27/federal-crowdsourcing-webinar-series-episode-9/), with Kelly Osborn and Darren Cole, NARA
+-   Episode 8:  [NASA@WORK](https://digital.gov/event/2020/03/10/federal-crowdsourcing-webinar-series-episode-8/), with Carissa Callini and Jeff DOI, NASA
+-   Episode 7:  [Crowdsourcing for Code](https://digital.gov/event/2020/02/11/federal-crowdsourcing-webinar-series-episode-7/), with Amin Mehr, Code.gov
+-   Episode 6:  [FedRAMP Ideation](https://www.youtube.com/watch?v=bx1ANQtHNQY), with Betsy Steele, GSA
+-   Episode 5:  [History by the People](https://digital.gov/event/2019/08/13/federal-crowdsourcing-webinar-series-episode-5-by-the-people/), with Lauren Algee, Library of Congress
+-   Episode 4:  [Open Opportunities](https://digital.gov/event/2019/07/09/federal-crowdsourcing-webinar-series-episode-4-open-opportunities/), with Lisa Nelson, USAJOBS, OPM
+-   Episode 3:  [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
+-   Episode 2:  [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/), with Jarah Meador, GSA, and Jessie Buerlein, HHS
+-   Episode 1:  [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
+
+---
  
  *The Opportunity Project of the Census Open Innovation Labs facilitates 12-week virtual product development sprints that bring together technologists, government, and communities to catalyze data-driven innovation.*
