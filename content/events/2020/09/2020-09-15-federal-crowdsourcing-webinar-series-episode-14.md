@@ -67,7 +67,7 @@ The TOPx toolkit will be widely available beginning in December on [opportunity.
 ---
 
 **Related Links:**
- - 
+
  - [Census Open Innovation Labs website](https://opportunity.census.gov/coil/)
  - [The Opportunity Project website](https://opportunity.census.gov/)
  - [U.S. Department of State’s Office of Foreign Assistance](https://www.state.gov/about-us-office-of-foreign-assistance/)
