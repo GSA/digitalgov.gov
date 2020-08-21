@@ -46,3 +46,6 @@ a[aria-describedby="footnote-label"]:focus::after {
 footer :target {
   background: yellow;
 }
+[aria-label="Back to content"] {
+  font-size: 0.8em;
+}
