@@ -35,7 +35,7 @@ weight: 1
 
 ---
 
-As the National Institutes of Health (NIH) launched the _All of Us_ Research Program, two Presidential Innovation Fellows combined our expertise in marketing and science to bring this program - and unprecedented diversity in medical data - to the public. Read on to learn why uniting communications and data is so important for ensuring that health research truly serves all of us.
+As the National Institutes of Health (NIH) launched the _All of Us_ Research Program, two Presidential Innovation Fellows combined our expertise in marketing and science to bring this program&mdash;and unprecedented diversity in medical data&mdash;to the public. Read on to learn why uniting communications and data is so important for ensuring that health research truly serves all of us.
 
 Health is personal and informed by myriad factors, including our unique experiences, genes, environment, and resources, to name a few. You might guess, then, that the healthcare we receive is personalized. But too often, that’s not the case. Why? Part of the answer lies in the research that health professionals use to develop practices like precision medicine. For example, a 2016 analysis published in Nature <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref">[1]</a></sup> reported that 81% of participants in genome-wide association studies (GWAS) were of European descent, a worrying sign of populations being neglected on “the road to precision medicine.” GWAS involves scanning genomes from many different kinds of people in order to identify genetic markers that can be used to understand how genes contribute to disease. The goal is to then use this knowledge to create better prevention and treatment strategies. Yet GWAS and [other medical research](https://pubmed.ncbi.nlm.nih.gov/31415071/) frequently miss a vast majority of the world's variation. 
 
@@ -43,7 +43,9 @@ Health is personal and informed by myriad factors, including our unique experien
 
 This is where NIH’s _All of Us_ Research Program comes in. [_All of Us_ is committed to serving the diversity of our nation](https://allofus.nih.gov/about/diversity-and-inclusion) by equipping researchers with data to study the differences that make each of us unique. This bold initiative is already the most diverse medical research program of its kind, and has the power to look for answers to some of our hardest health questions. The program aims to [reflect the diversity of the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234962) and to include participants from groups that have been underrepresented in health research in the past, including underrepresented racial and ethnic, rural, socio-economic and gender and sexual minority populations. To date, it has enrolled approximately [350,000 people from across all 50 states](https://www.joinallofus.org/coronavirus). Of those who’ve completed all the initial steps of the program, 80% come from communities historically underrepresented in research. <sup><a aria-describedby="footnote-label" href="#fn2" id="footnotes-ref">[2]</a></sup>
 
-Engaging communities is no small task. While enrolling and retaining participants is a challenge for many longitudinal studies, _All of Us_’ commitment to previously underrepresented populations requires even more innovative approaches. 
+{{< img src="adele-at-all-of-us-trailer" >}}
+
+Engaging communities is no small task. While enrolling and retaining participants is a challenge for many longitudinal studies, &#95;All of Us&#95;’ commitment to previously underrepresented populations requires even more innovative approaches. 
 
 And that’s where we came in. [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/) (PIF) work as “entrepreneurs in residence” within federal agencies and apply our private-sector expertise to accelerate the success of civic solutions for all Americans. Working on _All of Us_, we pooled our expertise as strategic communications and scientific leaders to enroll participants and activate a research community to help usher in a more inclusive era of precision medicine research.  
 
@@ -68,6 +70,8 @@ Through it all, we learned that launching research at this scale requires art an
 In many ways, our complementary skill sets reflect the diverse and innovative nature of this ambitious program. From ideation and testimonial storytelling, to accelerating medical breakthroughs through a collaborative and custom data platform, we have worked together in partnership with NIH leadership to showcase the unique and tremendous impact of _All of Us_. 
 
 Are you passionate about the civic impact of communications and data? Interested in using your expertise for public good? Learn more about PIF [at our website](https://pif.gov), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our Fellows.
+
+{{< img src="adele-and-georgeta" >}}
 
 _Georgeta Dragoiu and Adele Luta are Presidential Innovation Fellows detailed to the National Institutes of Health. Both joined PIF as private-sector industry leaders in their respective fields across STEM and communications._
 
