@@ -54,9 +54,7 @@ Since many of our trainers are not used to training remotely, we’d like to use
 {{< img-right src="katherine-spivey" >}}
 **Katherine Spivey** — serves as GSA’s Plain Language Launcher and is a Senior Communications Analyst for the Office of Strategic Communications. She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. In her previous position at GSA, she managed web content, coordinated social media, and edited the Great Government through Technology blog. Before GSA, Katherine was web content manager at Homeland Security, law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from UVA and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
 
----
-
-**Related Links:**
+## Related Links
 
  - [https://www.plainlanguage.gov](https://www.plainlanguage.gov)
  - [Training page](https://plainlanguage.gov/training/)
@@ -64,5 +62,4 @@ Since many of our trainers are not used to training remotely, we’d like to use
  
  ---
  
- *This talk is hosted by the Plain Language Action and Information Network (PLAIN), also known as the Plain Language Community of Practice. PLAIN is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Our goal is to promote the use of plain language for all government communications.*
- 
+_This talk is hosted by the Plain Language Action and Information Network (PLAIN), also known as the [Plain Language Community of Practice](https://digital.gov/communities/plain-language/). PLAIN is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Our goal is to promote the use of plain language for all government communications._ 
