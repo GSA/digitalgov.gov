@@ -51,8 +51,8 @@ Since many of our trainers are not used to training remotely, we’d like to use
 
 ## Speaker:
 
-{{< img src="katherine-spivey" >}}
-**Katherine Spivey** serves as GSA’s Plain Language Launcher. She is co-chair of the Plain Language Action and Information Network (PLAIN) and leads plain language webinars for DigitalGov University. At GSA, she is the plain language expert for the Office of Strategic Communication. Previously, she managed web content, coordinated social media, and edited the Great Government through Technology blog. Before GSA, Katherine was web content manager at the Department of Homeland Security, an international law firm, and the International Association of Chiefs of Police. With an M.A. from University of Virginia and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
+{{< img-right src="katherine-spivey" >}}
+**Katherine Spivey** — serves as GSA’s Plain Language Launcher and is a Senior Communications Analyst for the Office of Strategic Communications. She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. In her previous position at GSA, she managed web content, coordinated social media, and edited the Great Government through Technology blog. Before GSA, Katherine was web content manager at Homeland Security, law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from UVA and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
 
 ---
 
