@@ -56,7 +56,7 @@ Since many of our trainers are not used to training remotely, we’d like to use
 
 ## Related Links
 
- - [https://www.plainlanguage.gov](https://www.plainlanguage.gov)
+ - [PlainLanguage.gov](https://www.plainlanguage.gov)
  - [Training page](https://plainlanguage.gov/training/)
  - [Federal Plain Language Guidelines](https://www.plainlanguage.gov/guidelines)
  
