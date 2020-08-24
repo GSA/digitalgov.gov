@@ -72,6 +72,7 @@ We’ll use plenty of before-and-after examples.
 
 ## Related Links
 
+ - [August Plain Language Basics: Online Workshop](https://digital.gov/event/2020/08/11/plain-language-basics-online-class/)
  - [PlainLanguage.gov](https://www.plainlanguage.gov)
  - [Training page](https://plainlanguage.gov/training/)
  - [Federal Plain Language Guidelines](https://www.plainlanguage.gov/guidelines)
