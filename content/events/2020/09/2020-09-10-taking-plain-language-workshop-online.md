@@ -2,28 +2,29 @@
 # View this page at https://digital.gov/event/2020/09/taking-plain-language-workshop-online
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: taking-plain-language-workshop-online
-title: "Taking Plain Language Workshop Online"
+title: "Plain Language Basics: Online Workshop"
 deck: ""
 kicker: "Plain Language"
-summary: "PLAIN’s been providing learning opportunities in person for years; now, we have to do our workshop virtually. How can we do it so we meet our audience’s needs?"
+summary: "Take this three-hour online workshop to learn how to write and edit in plain language."
 host: "Plain Language Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/117770006259
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4548029&CustomerID=321
 
 # start date
-date: 2020-09-10 14:00:00 -0500
+date: 2020-09-10 13:00:00 -0500
 
 # end date
-end_date: 2020-09-10 18:00:00 -0500
+end_date: 2020-09-10 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - cx
+  - content
+  - content-strategy
   - plain-language
-  - professional-development
   - user-experience
-  - video
+  - ux
+  - writing
   - plain-language-community-of-practice
 
 # see all authors at https://digital.gov/authors
@@ -45,9 +46,24 @@ weight: 0
 
 ---
 
-Plain Language Action and Information Network (PLAIN) receives many requests for plain language workshops. Since March, we’ve not been able to go to agencies to train, since many buildings are closed and most federal employees working from home. However, agencies still want training.
+U.S. government agencies are required to communicate in plain language. This three-hour online workshop by the [Plain Language Action and Information Network](https://www.plainlanguage.gov/) (PLAIN) through Digital.gov explains how to write in plain language.
 
-Since many of our trainers are not used to training remotely, we’d like to use this huddle session to discuss best practices, lessons learned, and what not to do. Whether or not you’re a trainer, if you’ve attended a remote session, please attend and share your ideas.
+We'll cover the following:
+
+ - Definition of plain language
+ - Background
+ - The law - Plain Writing Act of 2010 and executive orders
+ - Federal Plain Language Guidelines
+    - Write for your audience
+    - Organize your information
+    - Choose your words carefully
+    - Be concise
+    - Keep it conversational
+    - Design for reading
+    - Follow web standards
+    - Test your assumptions
+    
+We’ll use plenty of before-and-after examples.
 
 ## Speaker:
 
