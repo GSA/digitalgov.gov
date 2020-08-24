@@ -315,6 +315,7 @@ collections:
     editor:
       preview: false
     sortableFields: ["date", "title"]
+    summary: "{{date}} - {{title}}"
 
     path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
     slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
@@ -475,6 +476,7 @@ collections:
     editor:
       preview: false
     sortableFields: ["date", "title"]
+    summary: "{{date}} - {{title}}"
 
     path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
     slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
