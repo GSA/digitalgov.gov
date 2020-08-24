@@ -1,7 +1,7 @@
 ---
 # View this page at https://digital.gov/event/2020/09/taking-plain-language-workshop-online
 # Learn how to edit our pages at https://workflow.digital.gov
-slug: plain-language-basics-online-workshop
+slug: taking-plain-language-workshop-online
 title: "Plain Language Basics: Online Workshop"
 deck: ""
 kicker: "Plain Language"
