@@ -7,3 +7,7 @@ div[class*="LibraryTop"] button[class*="DeleteButton"],
 body:not(.show-upload) label[class*="nc-fileUploadButton"] {
   display: none;
 }
+
+.cms-editor-visual div[role="menu"] ul {
+  width: 220px !important;
+}
