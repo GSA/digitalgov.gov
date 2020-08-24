@@ -1,7 +1,6 @@
 ---
 # View this page at https://digital.gov/event/2020/08/uswds-monthly-call-august-2020
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: uswds-monthly-call-august-2020
 title: "USWDS Monthly Call - August 2020"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
@@ -18,26 +17,28 @@ date: 2020-08-20 14:30:00 -0500
 end_date: 2020-08-20 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
+  - 21st-century-idea
   - design
   - uswds
-  - 21st-century-idea
-  - user-centered-design
   - user-experience
+  - user-centered-design
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
   - dan-williams
   - suran-de-silva
 
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform:
-
 # YouTube ID
-youtube_id:
+youtube_id: ZEeulpMFEvY
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
 # Make it better ♥
 
