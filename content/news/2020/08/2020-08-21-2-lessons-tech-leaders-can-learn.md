@@ -4,7 +4,7 @@
 slug: 2-lessons-tech-leaders-can-learn
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xGqHA
 date: 2020-08-21 18:00:00 -0500
 kicker: "Presidential Innovation Fellows"
 title: "2 Lessons Tech Leaders Can Learn From Unprecedented Health Research"
@@ -68,6 +68,8 @@ Engaging researchers to use this rich, national resource to drive health discove
 Through it all, we learned that launching research at this scale requires art and science. 
 
 In many ways, our complementary skill sets reflect the diverse and innovative nature of this ambitious program. From ideation and testimonial storytelling, to accelerating medical breakthroughs through a collaborative and custom data platform, we have worked together in partnership with NIH leadership to showcase the unique and tremendous impact of _All of Us_. 
+
+***
 
 Are you passionate about the civic impact of communications and data? Interested in using your expertise for public good? Learn more about PIF [at our website](https://pif.gov), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our Fellows.
 
