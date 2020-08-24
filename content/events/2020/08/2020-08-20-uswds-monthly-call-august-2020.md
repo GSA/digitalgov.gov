@@ -11,10 +11,10 @@ registration_url: https://www.eventbrite.com/e/uswds-monthly-call-the-design-sys
 captions: 
 
 # start date
-date: 2020-08-20 15:30:00 -0500
+date: 2020-08-20 14:30:00 -0500
 
 # end date
-end_date: 2020-08-20 16:30:00 -0500
+end_date: 2020-08-20 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
