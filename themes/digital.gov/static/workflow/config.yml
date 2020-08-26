@@ -393,6 +393,7 @@ collections:
             widget: "string"
             hint: "The time the event starts, in eastern time (HH:MM)"
             pattern: ["^(?:2[0-3]|[01][0-9]):[0-5][0-9]$", "Must be HH:MM"]
+        required: false
       - label: "End Date/Time"
         name: "cms_end_date"
         widget: "object"
@@ -418,6 +419,7 @@ collections:
             widget: "string"
             hint: "The time the event ends, in eastern time (HH:MM)"
             pattern: ["^(?:2[0-3]|[01][0-9]):[0-5][0-9]$", "Must be HH:MM"]
+        required: false
       - label: "Topics"
         name: "topics"
         widget: "async-select"
@@ -528,6 +530,7 @@ collections:
             widget: "string"
             hint: "YYYY"
             pattern: ["^(\\d{4})$", "Must be valid year"]
+        required: false
       - label: "Kicker"
         name: "kicker"
         widget: "string"
