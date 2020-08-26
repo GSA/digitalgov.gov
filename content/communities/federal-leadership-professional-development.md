@@ -29,7 +29,7 @@ community_list:
 
 ---
 
-The Federal Leadership and Professional Development community of practice connects approximately 4,500 federal employees and is steadily growing. The initiative provides an avenue to:
+The Federal Leadership and Professional Development community of practice connects thousands of federal employees and is steadily growing. The initiative provides an avenue to:
 
 1. bring employees together (despite barriers to connection, such as geographic distance);
 2. provide free training (as training resources are often limited)
@@ -50,7 +50,7 @@ Our community’s goals are to facilitate:
 3. **Problem solving** for common hurdles.
 4. **Professional development** opportunities without fees for all levels of federal employees.
 5. **Access** to seminar series resources and other learning opportunities.
-6. **Partnership** with and PROMOTION of similar efforts.
+6. **Partnership** with and promotion of similar efforts.
 
 Our vision is to build, retain, and connect a more collaborative, engaged, and capable workforce with the tools and expertise needed to more efficiently and effectively serve the public.
 
@@ -59,7 +59,7 @@ Our vision is to build, retain, and connect a more collaborative, engaged, and c
 **News Coverage:**
 
 - [**Learning to be a Leader**](https://www.govexec.com/management/2019/10/learning-be-leader/160956/) (Government Executive, 10/30/2019)
-- [**No-cost career development series helping feds move up the ladder**](https://federalnewsnetwork.com/federal-drive/2018/09/no-cost-career-development-series-helping-feds-move-up-the-ladder/) (Federal New Network, 09/05/2019)
+- [**No-cost career development series helping feds move up the ladder**](https://federalnewsnetwork.com/federal-drive/2018/09/no-cost-career-development-series-helping-feds-move-up-the-ladder/) (Federal News Network, 09/05/2019)
 
 **Past Seminars:**
 
@@ -68,4 +68,4 @@ Our vision is to build, retain, and connect a more collaborative, engaged, and c
 
 ## Who We Are
 
-**Community Manager Kim M. Wittenberg** is a Health Scientist Administrator at the Agency for Healthcare Research and Quality (AHRQ).  She has over 10 years of systematic review experience at AHRQ. In addition to serving as a Contracting Officer Representative and Program Official, Ms. Wittenberg oversees incoming interagency agreements and provides Section-508 compliance guidance. Between October 2016 and April 2017, she served as a Special Assistant in the Office of Aerospace Medicine during a President’s Management Council (PMC) Leadership Rotation, where she worked on developing processes for identifying, reporting, maintaining, and updating meaningful performance measures. Following the PMC Rotation, Ms. Wittenberg created and chaired a Federal Leadership and Professional Development CoP to share lessons learned and foster cross-agency connections, collaborations, and sharing.
+**Community Manager Kim M. Wittenberg** is a Health Scientist Administrator at the Agency for Healthcare Research and Quality (AHRQ) in the Department of Health and Human Services (HHS). After completing a President’s Management Council (PMC) Interagency Rotation in 2017, Ms. Wittenberg created, and subsequently led, the Federal Leadership and Professional Development Seminar Series CoP to share lessons learned and foster cross-agency connections, collaborations, and sharing.
