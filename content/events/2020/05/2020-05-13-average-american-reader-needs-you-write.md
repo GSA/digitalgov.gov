@@ -1,6 +1,7 @@
 ---
 # View this page at https://digital.gov/event/2020/05/average-american-reader-needs-you-write
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: average-american-reader-needs-you-write
 title: "The Average American Reader Needs You to Write (Even More) Clearly"
 deck: ""
@@ -19,13 +20,19 @@ topics:
 authors: 
   - katherine-spivey
   - meredith-larson
-
-# YouTube ID
-youtube_id: aOy9UzClmMA
+  
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+weight: 1
 
 # Make it better ♥
 
 ---
+
+{{< youtube aOy9UzClmMA >}}
+<br /><br />
 
 {{< note >}}
 This presentation (PDF, 3.6 MB, 51 pages), crafted by Dr. Meredith Larson of the U.S. Department of Education, offers detailed information on literacy skills of U.S. adults, including digital literacy, and the implications for communicating with the public. 
