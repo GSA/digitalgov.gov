@@ -1,7 +1,6 @@
 ---
 # View this page at https://digital.gov/event/2020/05/average-american-reader-needs-you-write
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: average-american-reader-needs-you-write
 title: "The Average American Reader Needs You to Write (Even More) Clearly"
 deck: ""
