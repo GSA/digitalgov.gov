@@ -57,12 +57,10 @@ PIAAC is designed to assess adults in different countries over a broad range of 
 PIAAC has four domains: 
 
 ### 1. Literacy
-"Literacy is understanding, evaluating, using, and engaging with written text to participate in the society, to achieve one's goals, and to develop one's knowledge and potential."
-    * PIAAC Literacy Domain Page &#8211; <https://nces.ed.gov/surveys/piaac/literacy.asp>
+"Literacy is understanding, evaluating, using, and engaging with written text to participate in the society, to achieve one's goals, and to develop one's knowledge and potential." [PIAAC Literacy Domain Page](<https://nces.ed.gov/surveys/piaac/literacy.asp).
 
 ### 2. Numeracy
-"The ability to access, use, interpret, and communicate mathematical information and ideas, to engage in and manage mathematical demands of a range of situations in adult life."
-    * PIAAC Numeracy Domain Page &#8211; <https://nces.ed.gov/surveys/piaac/numeracy.asp>
+"The ability to access, use, interpret, and communicate mathematical information and ideas, to engage in and manage mathematical demands of a range of situations in adult life." [PIAAC Numeracy Domain Page](https://nces.ed.gov/surveys/piaac/numeracy.asp).
 
 {{< note >}}
 Literacy and Numeracy has a 5-point scale. 
@@ -82,8 +80,7 @@ For Literacy and Numeracy, **Level 3** should be sufficient for participation in
 - **Level 5**: Integrate information across multiple dense texts; construct syntheses, ideas or points of view; or evaluate evidence based arguments. 
 
 ### 3. Digital Problem Solving in Technology-Rich Environments
-"Using digital technology, communication tools, and networks to acquire and evaluate information, communicate with others, and perform practical tasks."
-    * PIAAC Problem Solving in Technology-Rich Environments Domain Page &#8211; <https://nces.ed.gov/surveys/piaac/problem-solving.asp>
+"Using digital technology, communication tools, and networks to acquire and evaluate information, communicate with others, and perform practical tasks." [PIAAC Problem Solving in Technology-Rich Environments Domain Page](https://nces.ed.gov/surveys/piaac/problem-solving.asp).
 
 {{< note >}}
 Digital Problem Solving has a 3-point scale.
@@ -99,8 +96,7 @@ For Digital Problem Solving, **Level 2** should be sufficient for participation 
 - **Level 3**: Navigating multiple pages to find a form, etc. 
 
 ### 4. Reading Components
-“Focuses on elements of reading that are comparable across the range of languages in the participating countries: reading vocabulary, sentence comprehension, and basic passage comprehension.” Find out more about reading components: https://nces.ed.gov/surveys/piaac/reading-components.asp
-    * PIAAC Reading Components Domain Page &#8211; <https://nces.ed.gov/surveys/piaac/problem-solving.asp>
+“Focuses on elements of reading that are comparable across the range of languages in the participating countries: reading vocabulary, sentence comprehension, and basic passage comprehension.” [PIAAC Reading Components Domain Page](https://nces.ed.gov/surveys/piaac/reading-components.asp).
 
 ## How the United States ranks
 
