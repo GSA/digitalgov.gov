@@ -6,7 +6,7 @@ slug: devops
 date: 2019-12-12 19:00:00 -0500
 title: "DevOps"
 deck: "Operating rapidly changing resilient systems at scale"
-summary: "The practice of operations and development staff participating in the in the entire service lifecycle to operate rapidly changing resilient systems at scale."
+summary: "The practice of operations and development staff participating in the entire service lifecycle to operate rapidly changing resilient systems at scale."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -48,10 +48,11 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-**[August Special Event: The Continuous DevOps Dilemma with Andrew Clay Shafer](https://digital.gov/event/2020/08/04/continuous-devops-dilemma-with-andrew-clay/)**
+Please check back for an upcoming meeting.
 
 ## Past Meetings
 
+- **[August Special Event: The Continuous DevOps Dilemma with Andrew Clay Shafer](https://digital.gov/event/2020/08/04/continuous-devops-dilemma-with-andrew-clay/)**
 - **[June Meeting: Air Force COOL and 18F, Partnership and Flight Operations Software Agile Lessons Learned](https://digital.gov/event/2020/06/23/air-force-cool-18f-partnership-flight/)**
 - **[May Meeting: DevOps Lessons Learned from the Air Force’s Early Cloud Journey](https://digital.gov/event/2020/05/19/devops-lessons-learned-from-air-forces/)**
 - [**April Meeting: The Hero’s Journey for Re-Skilling Talent (And Other Digital Adventures)**](https://digital.gov/event/2020/04/28/heros-journey-for-reskilling-talent-other/)
@@ -64,7 +65,6 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 We have two listservs available, one for Federal Employees, and one for all individuals:
 
 - To join our federal government employee only Listserv, send an email from your official government email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)
-
 - To join our public Listserv, perfect for federal employees, contractors, vendors, and academia to participate in the conversation, send an email to: [devops-public-subscribe-request@listserv.gsa.gov](mailto:devops-public-subscribe-request@listserv.gsa.gov)
 
 ## What We Do
