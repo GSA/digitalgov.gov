@@ -17,12 +17,16 @@
       // Register custom widgets
       CMS.registerWidget("async-select", window.AsyncSelectControl);
 
+      // Register custom Hugo shortcodes
+      editorComponents.forEach(component =>
+        CMS.registerEditorComponent(component)
+      );
+
       // Modify entry data and add slug value
       CMS.registerEventListener({
         name: "preSave",
         handler: ({ entry }) => {
           let data = entry.get("data");
-
           const primary_image = data.getIn(["primary_image"]) || "";
 
           if (data.getIn(["primary_image"])) {
@@ -46,21 +50,6 @@
           return data;
         }
       });
-
-      // Register custom Hugo shortcodes
-      editorComponents.forEach(component =>
-        CMS.registerEditorComponent(component)
-      );
-
-      // Only show media library upload button in Image Upload collection
-      window.addEventListener("hashchange", function(e) {
-        const body = document.querySelector("body");
-
-        window.location.hash.indexOf("#/collections/image-upload/new") > -1
-          ? body.classList.add("show-upload")
-          : body.classList.remove("show-upload");
-      });
-      window.dispatchEvent(new HashChangeEvent("hashchange"));
     </script>
   </body>
 </html>

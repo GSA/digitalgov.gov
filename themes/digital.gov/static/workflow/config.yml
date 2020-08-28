@@ -71,7 +71,7 @@ collections:
     folder: "content/authors"
     identifier_field: display_name
     path: "{{slug}}/_index"
-    preview_path: authors/{{display_name}}
+    preview_path: authors/{{fields.slug}}
     fields:
       - label: "Display Name"
         name: "display_name"
@@ -190,16 +190,8 @@ collections:
     label_singular: "Community"
     description: "This page will help create a new community on Digital.gov"
     folder: "content/communities"
-    media_folder: "/static/img/proxy"
-    public_folder: ""
+    preview_path: communities/{{fields.slug}}
     fields:
-      - label: "Date"
-        name: "date"
-        widget: "datetime"
-        dateFormat: "YYYY-MM-DD"
-        timeFormat: false
-        format: "YYYY-MM-DD 12:00:00 -0500"
-        hint: "e.g. 2019-04-01"
       - label: "Title / Headline"
         name: "title"
         widget: "string"
@@ -239,7 +231,11 @@ collections:
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
-        widget: "image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
         required: false
       - label: "Page Weight"
         name: "weight"
@@ -262,7 +258,6 @@ collections:
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
         required: false
-
       - label: "Community lists"
         label_singular: Community list
         name: "community_list"
@@ -338,9 +333,8 @@ collections:
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    media_folder: "/static/img/proxy"
-    public_folder: ""
-    preview_path: event/{{year}}/{{month}}/{{title}}
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{fields.slug}}
+    preview_path_date_field: "date"
     fields:
       - label: "Event Title"
         name: "title"
@@ -431,7 +425,11 @@ collections:
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
-        widget: "image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
         required: false
       - label: "Redirects"
         label_singular: Redirect
@@ -453,13 +451,11 @@ collections:
     label_singular: "Blog Post"
     description: "This page will help create a new blog post on Digital.gov"
     folder: "content/news"
-    sortableFields: ["date", "title"]
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    media_folder: "/static/img/proxy"
-    public_folder: ""
-    preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
+    preview_path: "{{year}}/{{month}}/{{day}}/{{fields.slug}}"
+    preview_path_date_field: "date"
     fields:
       - label: "Source Url"
         name: "source_url"
@@ -530,7 +526,11 @@ collections:
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
-        widget: "image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
         required: false
       - label: "Page Weight"
         name: "weight"
@@ -565,8 +565,7 @@ collections:
     label_singular: "Resource"
     description: "This page will help create a new resource on Digital.gov"
     folder: "content/resources"
-    media_folder: "/static/img/proxy"
-    public_folder: ""
+    preview_path: resources/{{fields.slug}}
     fields:
       - label: "Source Url"
         name: "source_url"
@@ -582,13 +581,6 @@ collections:
         valueField: "slug"
         displayFields: ["name"]
         required: false
-      - label: "Date"
-        name: "date"
-        widget: "datetime"
-        dateFormat: "YYYY-MM-DD"
-        timeFormat: false
-        format: "YYYY-MM-DD 12:00:00 -0500"
-        hint: "e.g. 2019-04-01"
       - label: "Title / Headline"
         name: "title"
         widget: "string"
@@ -628,7 +620,11 @@ collections:
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
-        widget: "image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
         required: false
       - label: "Page Weight"
         name: "weight"
@@ -664,7 +660,8 @@ collections:
     label_singular: "Service"
     description: "This page will help create a new service on Digital.gov"
     folder: "content/services"
-    slug: "service_{{slug}}"
+    path: "service_{{slug}}"
+    preview_path: services/directory
     fields:
       - label: "Name"
         name: "title"
@@ -842,6 +839,8 @@ collections:
     identifier_field: uid
     extension: yml
     format: yml
+    create: false
+    preview_path: images
     fields:
       - label: "uid"
         name: "uid"
