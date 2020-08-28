@@ -31,6 +31,26 @@ media_folder: "/static/img/proxy"
 slug:
   clean_accents: true
 
+editorComponents: &editorComponents
+  editorComponents:
+    - "accordion"
+    - "assetImg"
+    - "box"
+    - "button"
+    - "cardQuote"
+    - "fbVideo"
+    - "footnote"
+    - "imgRight"
+    - "img"
+    - "instagram"
+    - "legacyFile"
+    - "legacyImgRight"
+    - "legacyImg"
+    - "note"
+    - "ref"
+    - "tweet"
+    - "youtube"
+
 # ==============================================
 # Content Collections
 collections:
@@ -307,6 +327,7 @@ collections:
         name: "body"
         widget: "markdown"
         required: false
+        <<: *editorComponents
 
   # EVENTS =======================
   - name: "events"
@@ -471,6 +492,7 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        <<: *editorComponents
 
   # NEWS =======================
   - name: "news"
@@ -605,6 +627,7 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        <<: *editorComponents
 
   # RESOURCES =======================
   - name: "resources"
@@ -708,6 +731,7 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        <<: *editorComponents
 
   # SERVICES =======================
   - name: "services"
@@ -801,6 +825,7 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        <<: *editorComponents
 
   # SOURCES =======================
   - name: "sources"

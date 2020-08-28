@@ -1,5 +1,5 @@
 const component = {
-  id: "fb-video",
+  id: "fbVideo",
   label: "Facebook video",
   hint:
     'example: {{< fb-video "https://www.facebook.com/nih.nccih/videos/1405263649496849/" >}}',

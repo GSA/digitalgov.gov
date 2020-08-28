@@ -1,5 +1,5 @@
 const component = {
-  id: "img-right",
+  id: "imgRight",
   label: "Images, right aligned",
   hint:
     'example: {{< img-right src="peace-corps-customer-satisfaction" alt="A bar graph showing User Satisfaction: Task Completion vs. Content Comprehension" >}}',

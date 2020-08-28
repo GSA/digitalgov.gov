@@ -1,5 +1,5 @@
 const component = {
-  id: "card-quote",
+  id: "cardQuote",
   label: "Card quote",
   hint:
     'example: {{< card-quote text="Individual commitment to a group effort—that is what makes a team work, a company work, a society work, a civilization work." cite="Vince Lombardi, National Football League (NFL) coach" >}}',

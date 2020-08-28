@@ -1,14 +1,16 @@
 import accordion from "./accordion.js";
-import assetImage from "./asset-image.js";
+import assetImg from "./asset-img.js";
+import box from "./box.js";
 import button from "./button.js";
 import cardQuote from "./card-quote.js";
 import fbVideo from "./fb-video.js";
 import footnote from "./footnote.js";
 import imgRight from "./img-right.js";
-import images from "./images.js";
+import img from "./img.js";
 import instagram from "./instagram.js";
+import legacyFile from "./legacy-file.js";
 import legacyImgRight from "./legacy-img-right.js";
-import legacyImages from "./legacy-images.js";
+import legacyImg from "./legacy-img.js";
 import note from "./note.js";
 import ref from "./ref.js";
 import tweet from "./tweet.js";
@@ -16,16 +18,18 @@ import youtube from "./youtube.js";
 
 export default [
   accordion,
-  assetImage,
+  assetImg,
+  box,
   button,
   cardQuote,
   fbVideo,
   footnote,
   imgRight,
-  images,
+  img,
   instagram,
+  legacyFile,
   legacyImgRight,
-  legacyImages,
+  legacyImg,
   note,
   ref,
   tweet,
