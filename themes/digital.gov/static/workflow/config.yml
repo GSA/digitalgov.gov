@@ -31,6 +31,13 @@ media_folder: "/static/img/proxy"
 slug:
   clean_accents: true
 
+# Defaults
+defaults: &defaults
+  editor:
+    preview: false
+  create: true
+  delete: false
+
 editorComponents: &editorComponents
   editorComponents:
     - "accordion"
@@ -53,22 +60,18 @@ editorComponents: &editorComponents
 
 # ==============================================
 # Content Collections
+
 collections:
   # AUTHORS =======================
-  - name: "authors"
+  - <<: *defaults
+    name: "authors"
     label: "Authors"
     label_singular: "Author"
     description: "This page will help create a new author profile on Digital.gov"
     folder: "content/authors"
-    editor:
-      preview: false
-
     identifier_field: display_name
     path: "{{slug}}/_index"
-    create: true
-    delete: false
     preview_path: authors/{{display_name}}
-
     fields:
       - label: "Display Name"
         name: "display_name"
@@ -181,19 +184,14 @@ collections:
         field: { label: Redirect, name: redirect, widget: string }
 
   # COMMUNITIES =======================
-  - name: "communities"
+  - <<: *defaults
+    name: "communities"
     label: "Communities"
     label_singular: "Community"
     description: "This page will help create a new community on Digital.gov"
     folder: "content/communities"
-    editor:
-      preview: false
-
     media_folder: "/static/img/proxy"
     public_folder: ""
-    create: true
-    delete: false
-
     fields:
       - label: "Date"
         name: "date"
@@ -330,24 +328,19 @@ collections:
         <<: *editorComponents
 
   # EVENTS =======================
-  - name: "events"
+  - <<: *defaults
+    name: "events"
     label: "Events"
     label_singular: "Event"
     description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
-    editor:
-      preview: false
     sortableFields: ["date", "title"]
     summary: "{{date}} - {{title}}"
-
     path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
     slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
     media_folder: "/static/img/proxy"
     public_folder: ""
-    create: true
-    delete: false
     preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{title}}
-
     fields:
       - label: "Date"
         name: "date"
@@ -495,24 +488,19 @@ collections:
         <<: *editorComponents
 
   # NEWS =======================
-  - name: "news"
+  - <<: *defaults
+    name: "news"
     label: "News"
     label_singular: "Blog Post"
     description: "This page will help create a new blog post on Digital.gov"
     folder: "content/news"
-    editor:
-      preview: false
     sortableFields: ["date", "title"]
     summary: "{{date}} - {{title}}"
-
     path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
     slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
     media_folder: "/static/img/proxy"
     public_folder: ""
-    create: true
-    delete: false
     preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{cms_date[dd]}}/{{title}}
-
     fields:
       - label: "Date"
         name: "date"
@@ -630,19 +618,14 @@ collections:
         <<: *editorComponents
 
   # RESOURCES =======================
-  - name: "resources"
+  - <<: *defaults
+    name: "resources"
     label: "Resources"
     label_singular: "Resource"
     description: "This page will help create a new resource on Digital.gov"
     folder: "content/resources"
-    editor:
-      preview: false
-
     media_folder: "/static/img/proxy"
     public_folder: ""
-    create: true
-    delete: false
-
     fields:
       - label: "Source Url"
         name: "source_url"
@@ -734,18 +717,13 @@ collections:
         <<: *editorComponents
 
   # SERVICES =======================
-  - name: "services"
+  - <<: *defaults
+    name: "services"
     label: "Services"
     label_singular: "Service"
     description: "This page will help create a new service on Digital.gov"
     folder: "content/services"
-    editor:
-      preview: false
-
     slug: "service_{{slug}}"
-    create: true
-    delete: false
-
     fields:
       - label: "Name"
         name: "title"
@@ -828,19 +806,14 @@ collections:
         <<: *editorComponents
 
   # SOURCES =======================
-  - name: "sources"
+  - <<: *defaults
+    name: "sources"
     label: "Sources"
     label_singular: "Source"
     description: "Sources are the sites from our community that we have pointed to or re-published from."
     folder: "content/sources"
-    editor:
-      preview: false
-
     identifier_field: name
     path: "source_{{slug}}"
-    create: true
-    delete: false
-
     fields:
       - label: "Source Name"
         name: "name"
@@ -873,19 +846,14 @@ collections:
         required: false
 
   # TOPICS =======================
-  - name: "topics"
+  - <<: *defaults
+    name: "topics"
     label: "Topics"
     label_singular: "Topic"
     description: "This page will help create a new topic on Digital.gov"
     folder: "content/topics"
-    editor:
-      preview: false
-
     path: "{{slug}}/_index"
-    create: true
-    delete: false
     preview_path: topics/{{title}}
-
     fields:
       - label: "Topic Title"
         name: "title"
@@ -911,36 +879,28 @@ collections:
            2 -- featured on the Resource page
 
   # IMAGE UPLOAD =======================
-  - name: "image-upload"
+  - <<: *defaults
+    name: "image-upload"
     label: "Image upload"
     description: "This page will help upload a new image to Digital.gov"
     folder: "content/images/_inbox"
-    editor:
-      preview: false
-
     media_folder: ""
     public_folder: ""
     identifier_field: image
-    create: true
-    delete: false
-
     fields:
       - label: "Image"
         name: "image"
         widget: "image"
 
   # IMAGE METADATA =======================
-  - name: "image-metadata"
+  - <<: *defaults
+    name: "image-metadata"
     label: "Image metadata"
     description: "This page will help edit image metadata"
     folder: "data/images"
-    editor:
-      preview: false
-
     identifier_field: uid
     extension: yml
     format: yml
-
     fields:
       - label: "uid"
         name: "uid"
