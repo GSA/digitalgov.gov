@@ -40,7 +40,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-Please check back for an upcoming meeting. 
+Please check back for an upcoming meeting.
 
 ## Past Meetings
 
