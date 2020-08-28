@@ -1,9 +1,3 @@
-export function formatDate(date) {
-  return `${date.getIn(["yyyy"])}-${date.getIn(["mm"])}-${date.getIn(["dd"])} ${
-    date.getIn(["time"]) ? date.getIn(["time"]) : "12:00"
-  }:00 -0500`;
-}
-
 export function slugify(string = "") {
   const a =
     "àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;";

@@ -335,16 +335,13 @@ collections:
     description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
     sortableFields: ["date", "title"]
-    summary: "{{date}} - {{title}}"
-    path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
-    slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     media_folder: "/static/img/proxy"
     public_folder: ""
-    preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{title}}
+    preview_path: event/{{year}}/{{month}}/{{title}}
     fields:
-      - label: "Date"
-        name: "date"
-        widget: "hidden"
       - label: "Event Title"
         name: "title"
         widget: "string"
@@ -386,57 +383,19 @@ collections:
         hint: "e.g. https://www.captionedtext.com..."
         required: false
       - label: "Start Date/Time"
-        name: "cms_date"
-        widget: "object"
-        hint: "e.g. 2019-04-01 13:24"
-        fields:
-          - label: "Month"
-            name: "mm"
-            widget: "string"
-            hint: "MM"
-            pattern: ["^(0[1-9]|1[0-2])$", "Must be 01-12"]
-          - label: "Day"
-            name: "dd"
-            widget: "string"
-            hint: "DD"
-            pattern: ["^(0[1-9]|[12]\\d|3[01])$", "Must be 01-31"]
-          - label: "Year"
-            name: "yyyy"
-            widget: "string"
-            hint: "YYYY"
-            pattern: ["^(\\d{4})$", "Must be valid year"]
-          - label: "Time"
-            name: "time"
-            widget: "string"
-            hint: "The time the event starts, in eastern time (HH:MM)"
-            pattern: ["^(?:2[0-3]|[01][0-9]):[0-5][0-9]$", "Must be HH:MM"]
-        required: false
-      - label: "End Date/Time"
-        name: "cms_end_date"
-        widget: "object"
-        hint: "Usually the same date as the event"
-        fields:
-          - label: "Month"
-            name: "mm"
-            widget: "string"
-            hint: "MM"
-            pattern: ["^(0[1-9]|1[0-2])$", "Must be 01-12"]
-          - label: "Day"
-            name: "dd"
-            widget: "string"
-            hint: "DD"
-            pattern: ["^(0[1-9]|[12]\\d|3[01])$", "Must be 01-31"]
-          - label: "Year"
-            name: "yyyy"
-            widget: "string"
-            hint: "YYYY"
-            pattern: ["^(\\d{4})$", "Must be valid year"]
-          - label: "Time"
-            name: "time"
-            widget: "string"
-            hint: "The time the event ends, in eastern time (HH:MM)"
-            pattern: ["^(?:2[0-3]|[01][0-9]):[0-5][0-9]$", "Must be HH:MM"]
-        required: false
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
       - label: "Topics"
         name: "topics"
         widget: "async-select"
@@ -495,16 +454,13 @@ collections:
     description: "This page will help create a new blog post on Digital.gov"
     folder: "content/news"
     sortableFields: ["date", "title"]
-    summary: "{{date}} - {{title}}"
-    path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
-    slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     media_folder: "/static/img/proxy"
     public_folder: ""
-    preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{cms_date[dd]}}/{{title}}
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
     fields:
-      - label: "Date"
-        name: "date"
-        widget: "hidden"
       - label: "Source Url"
         name: "source_url"
         widget: "string"
@@ -525,26 +481,11 @@ collections:
         hint: "Create a short URL: https://go.usa.gov/."
         required: false
       - label: "Date"
-        name: "cms_date"
-        widget: "object"
-        hint: "e.g. 2019-04-01 13:24"
-        fields:
-          - label: "Month"
-            name: "mm"
-            widget: "string"
-            hint: "MM"
-            pattern: ["^(0[1-9]|1[0-2])$", "Must be 01-12"]
-          - label: "Day"
-            name: "dd"
-            widget: "string"
-            hint: "DD"
-            pattern: ["^(0[1-9]|[12]\\d|3[01])$", "Must be 01-31"]
-          - label: "Year"
-            name: "yyyy"
-            widget: "string"
-            hint: "YYYY"
-            pattern: ["^(\\d{4})$", "Must be valid year"]
-        required: false
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
       - label: "Kicker"
         name: "kicker"
         widget: "string"

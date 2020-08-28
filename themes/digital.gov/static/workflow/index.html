@@ -12,7 +12,7 @@
     <script src="https://unpkg.com/netlify-cms-widget-async-select@1.3.4"></script>
     <script type="module">
       import editorComponents from "./js/editorComponents/index.js";
-      import { formatDate, slugify } from "./js/helpers.js";
+      import { slugify } from "./js/helpers.js";
 
       // Register custom widgets
       CMS.registerWidget("async-select", window.AsyncSelectControl);
@@ -25,6 +25,13 @@
 
           const primary_image = data.getIn(["primary_image"]) || "";
 
+          if (data.getIn(["primary_image"])) {
+            data = data.set(
+              "primary_image",
+              primary_image.replace(/\.[^/.]+$/, "")
+            );
+          }
+
           if (!entry.get("slug")) {
             data = data.set(
               "slug",
@@ -34,19 +41,6 @@
                   data.getIn(["name"])
               )
             );
-          }
-
-          switch (entry.get("collection")) {
-            case "events":
-              data = data
-                .set("date", formatDate(data.getIn(["cms_date"])))
-                .set("end_date", formatDate(data.getIn(["cms_end_date"])))
-                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
-
-            case "news":
-              data = data
-                .set("date", formatDate(data.getIn(["cms_date"])))
-                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
           }
 
           return data;
