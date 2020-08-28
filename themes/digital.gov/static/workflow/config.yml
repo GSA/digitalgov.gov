@@ -46,6 +46,7 @@ collections:
     identifier_field: display_name
     path: "{{slug}}/_index"
     create: true
+    delete: false
     preview_path: authors/{{display_name}}
 
     fields:
@@ -171,6 +172,7 @@ collections:
     media_folder: "/static/img/proxy"
     public_folder: ""
     create: true
+    delete: false
 
     fields:
       - label: "Date"
@@ -322,6 +324,7 @@ collections:
     media_folder: "/static/img/proxy"
     public_folder: ""
     create: true
+    delete: false
     preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{title}}
 
     fields:
@@ -485,6 +488,7 @@ collections:
     media_folder: "/static/img/proxy"
     public_folder: ""
     create: true
+    delete: false
     preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{cms_date[dd]}}/{{title}}
 
     fields:
@@ -614,6 +618,7 @@ collections:
     media_folder: "/static/img/proxy"
     public_folder: ""
     create: true
+    delete: false
 
     fields:
       - label: "Source Url"
@@ -715,6 +720,7 @@ collections:
 
     slug: "service_{{slug}}"
     create: true
+    delete: false
 
     fields:
       - label: "Name"
@@ -808,6 +814,7 @@ collections:
     identifier_field: name
     path: "source_{{slug}}"
     create: true
+    delete: false
 
     fields:
       - label: "Source Name"
@@ -851,6 +858,7 @@ collections:
 
     path: "{{slug}}/_index"
     create: true
+    delete: false
     preview_path: topics/{{title}}
 
     fields:
@@ -889,6 +897,7 @@ collections:
     public_folder: ""
     identifier_field: image
     create: true
+    delete: false
 
     fields:
       - label: "Image"
