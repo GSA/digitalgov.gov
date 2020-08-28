@@ -1,5 +1,5 @@
 const component = {
-  id: "asset-img",
+  id: "assetImg",
   label: "Asset Image",
   hint:
     'example: {{< asset-img path="/img/digitalgov-logo-black.svg" alt="" width="220" >}}',

@@ -1,5 +1,5 @@
 const component = {
-  id: "legacy-img-right",
+  id: "legacyImgRight",
   label: "Legacy images, right aligned",
   hint:
     'example: {{< legacy-img-right src="2016/07/250-x-444-FEMA-app-Heat-Advisory-pg-1-for-Washington-DC-area-July-25th-2016.jpg" alt="Screen capture of the FEMA app\'s Heat Advisory for the Washington, DC area on July 25, 2016." >}}',

@@ -1,5 +1,5 @@
 const component = {
-  id: "legacy-img",
+  id: "legacyImg",
   label: "Legacy images",
   hint:
     'example: {{< legacy-img src="/2015/09/600-x-147-howto-icons-left-text.jpg" alt="Icons from FCPCCS toolkit" >}}',

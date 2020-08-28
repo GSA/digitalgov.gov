@@ -12,18 +12,29 @@
     <script src="https://unpkg.com/netlify-cms-widget-async-select@1.3.4"></script>
     <script type="module">
       import editorComponents from "./js/editorComponents/index.js";
-      import { formatDate, slugify } from "./js/helpers.js";
+      import { slugify } from "./js/helpers.js";
 
       // Register custom widgets
       CMS.registerWidget("async-select", window.AsyncSelectControl);
+
+      // Register custom Hugo shortcodes
+      editorComponents.forEach(component =>
+        CMS.registerEditorComponent(component)
+      );
 
       // Modify entry data and add slug value
       CMS.registerEventListener({
         name: "preSave",
         handler: ({ entry }) => {
           let data = entry.get("data");
-
           const primary_image = data.getIn(["primary_image"]) || "";
+
+          if (data.getIn(["primary_image"])) {
+            data = data.set(
+              "primary_image",
+              primary_image.replace(/\.[^/.]+$/, "")
+            );
+          }
 
           if (!entry.get("slug")) {
             data = data.set(
@@ -36,37 +47,9 @@
             );
           }
 
-          switch (entry.get("collection")) {
-            case "events":
-              data = data
-                .set("date", formatDate(data.getIn(["cms_date"])))
-                .set("end_date", formatDate(data.getIn(["cms_end_date"])))
-                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
-
-            case "news":
-              data = data
-                .set("date", formatDate(data.getIn(["cms_date"])))
-                .set("primary_image", primary_image.replace(/\.[^/.]+$/, ""));
-          }
-
           return data;
         }
       });
-
-      // Register custom Hugo shortcodes
-      editorComponents.forEach(component =>
-        CMS.registerEditorComponent(component)
-      );
-
-      // Only show media library upload button in Image Upload collection
-      window.addEventListener("hashchange", function(e) {
-        const body = document.querySelector("body");
-
-        window.location.hash.indexOf("#/collections/image-upload/new") > -1
-          ? body.classList.add("show-upload")
-          : body.classList.remove("show-upload");
-      });
-      window.dispatchEvent(new HashChangeEvent("hashchange"));
     </script>
   </body>
 </html>

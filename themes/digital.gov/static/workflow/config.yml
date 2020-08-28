@@ -31,23 +31,47 @@ media_folder: "/static/img/proxy"
 slug:
   clean_accents: true
 
+# Defaults
+defaults: &defaults
+  editor:
+    preview: false
+  create: true
+  delete: false
+
+editorComponents: &editorComponents
+  editorComponents:
+    - "accordion"
+    - "assetImg"
+    - "box"
+    - "button"
+    - "cardQuote"
+    - "fbVideo"
+    - "footnote"
+    - "imgRight"
+    - "img"
+    - "instagram"
+    - "legacyFile"
+    - "legacyImgRight"
+    - "legacyImg"
+    - "note"
+    - "ref"
+    - "tweet"
+    - "youtube"
+
 # ==============================================
 # Content Collections
+
 collections:
   # AUTHORS =======================
-  - name: "authors"
+  - <<: *defaults
+    name: "authors"
     label: "Authors"
     label_singular: "Author"
     description: "This page will help create a new author profile on Digital.gov"
     folder: "content/authors"
-    editor:
-      preview: false
-
     identifier_field: display_name
     path: "{{slug}}/_index"
-    create: true
-    preview_path: authors/{{display_name}}
-
+    preview_path: authors/{{fields.slug}}
     fields:
       - label: "Display Name"
         name: "display_name"
@@ -160,26 +184,14 @@ collections:
         field: { label: Redirect, name: redirect, widget: string }
 
   # COMMUNITIES =======================
-  - name: "communities"
+  - <<: *defaults
+    name: "communities"
     label: "Communities"
     label_singular: "Community"
     description: "This page will help create a new community on Digital.gov"
     folder: "content/communities"
-    editor:
-      preview: false
-
-    media_folder: "/static/img/proxy"
-    public_folder: ""
-    create: true
-
+    preview_path: communities/{{fields.slug}}
     fields:
-      - label: "Date"
-        name: "date"
-        widget: "datetime"
-        dateFormat: "YYYY-MM-DD"
-        timeFormat: false
-        format: "YYYY-MM-DD 12:00:00 -0500"
-        hint: "e.g. 2019-04-01"
       - label: "Title / Headline"
         name: "title"
         widget: "string"
@@ -219,7 +231,11 @@ collections:
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
-        widget: "image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
         required: false
       - label: "Page Weight"
         name: "weight"
@@ -242,7 +258,6 @@ collections:
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
         required: false
-
       - label: "Community lists"
         label_singular: Community list
         name: "community_list"
@@ -305,28 +320,22 @@ collections:
         name: "body"
         widget: "markdown"
         required: false
+        <<: *editorComponents
 
   # EVENTS =======================
-  - name: "events"
+  - <<: *defaults
+    name: "events"
     label: "Events"
     label_singular: "Event"
     description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
-    editor:
-      preview: false
     sortableFields: ["date", "title"]
-
-    path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
-    slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
-    media_folder: "/static/img/proxy"
-    public_folder: ""
-    create: true
-    preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{title}}
-
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{fields.slug}}
+    preview_path_date_field: "date"
     fields:
-      - label: "Date"
-        name: "date"
-        widget: "hidden"
       - label: "Event Title"
         name: "title"
         widget: "string"
@@ -368,55 +377,19 @@ collections:
         hint: "e.g. https://www.captionedtext.com..."
         required: false
       - label: "Start Date/Time"
-        name: "cms_date"
-        widget: "object"
-        hint: "e.g. 2019-04-01 13:24"
-        fields:
-          - label: "Month"
-            name: "mm"
-            widget: "string"
-            hint: "MM"
-            pattern: ["^(0[1-9]|1[0-2])$", "Must be 01-12"]
-          - label: "Day"
-            name: "dd"
-            widget: "string"
-            hint: "DD"
-            pattern: ["^(0[1-9]|[12]\\d|3[01])$", "Must be 01-31"]
-          - label: "Year"
-            name: "yyyy"
-            widget: "string"
-            hint: "YYYY"
-            pattern: ["^(\\d{4})$", "Must be valid year"]
-          - label: "Time"
-            name: "time"
-            widget: "string"
-            hint: "The time the event starts, in eastern time (HH:MM)"
-            pattern: ["^(?:2[0-3]|[01][0-9]):[0-5][0-9]$", "Must be HH:MM"]
-      - label: "End Date/Time"
-        name: "cms_end_date"
-        widget: "object"
-        hint: "Usually the same date as the event"
-        fields:
-          - label: "Month"
-            name: "mm"
-            widget: "string"
-            hint: "MM"
-            pattern: ["^(0[1-9]|1[0-2])$", "Must be 01-12"]
-          - label: "Day"
-            name: "dd"
-            widget: "string"
-            hint: "DD"
-            pattern: ["^(0[1-9]|[12]\\d|3[01])$", "Must be 01-31"]
-          - label: "Year"
-            name: "yyyy"
-            widget: "string"
-            hint: "YYYY"
-            pattern: ["^(\\d{4})$", "Must be valid year"]
-          - label: "Time"
-            name: "time"
-            widget: "string"
-            hint: "The time the event ends, in eastern time (HH:MM)"
-            pattern: ["^(?:2[0-3]|[01][0-9]):[0-5][0-9]$", "Must be HH:MM"]
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
       - label: "Topics"
         name: "topics"
         widget: "async-select"
@@ -452,7 +425,11 @@ collections:
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
-        widget: "image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
         required: false
       - label: "Redirects"
         label_singular: Redirect
@@ -465,28 +442,21 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        <<: *editorComponents
 
   # NEWS =======================
-  - name: "news"
+  - <<: *defaults
+    name: "news"
     label: "News"
     label_singular: "Blog Post"
     description: "This page will help create a new blog post on Digital.gov"
     folder: "content/news"
-    editor:
-      preview: false
-    sortableFields: ["date", "title"]
-
-    path: "{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{slug}}"
-    slug: "{{cms_date[yyyy]}}-{{cms_date[mm]}}-{{cms_date[dd]}}-{{slug}}"
-    media_folder: "/static/img/proxy"
-    public_folder: ""
-    create: true
-    preview_path: event/{{cms_date[yyyy]}}/{{cms_date[mm]}}/{{cms_date[dd]}}/{{title}}
-
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{fields.slug}}"
+    preview_path_date_field: "date"
     fields:
-      - label: "Date"
-        name: "date"
-        widget: "hidden"
       - label: "Source Url"
         name: "source_url"
         widget: "string"
@@ -507,25 +477,11 @@ collections:
         hint: "Create a short URL: https://go.usa.gov/."
         required: false
       - label: "Date"
-        name: "cms_date"
-        widget: "object"
-        hint: "e.g. 2019-04-01 13:24"
-        fields:
-          - label: "Month"
-            name: "mm"
-            widget: "string"
-            hint: "MM"
-            pattern: ["^(0[1-9]|1[0-2])$", "Must be 01-12"]
-          - label: "Day"
-            name: "dd"
-            widget: "string"
-            hint: "DD"
-            pattern: ["^(0[1-9]|[12]\\d|3[01])$", "Must be 01-31"]
-          - label: "Year"
-            name: "yyyy"
-            widget: "string"
-            hint: "YYYY"
-            pattern: ["^(\\d{4})$", "Must be valid year"]
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
       - label: "Kicker"
         name: "kicker"
         widget: "string"
@@ -570,7 +526,11 @@ collections:
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
-        widget: "image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
         required: false
       - label: "Page Weight"
         name: "weight"
@@ -596,20 +556,16 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        <<: *editorComponents
 
   # RESOURCES =======================
-  - name: "resources"
+  - <<: *defaults
+    name: "resources"
     label: "Resources"
     label_singular: "Resource"
     description: "This page will help create a new resource on Digital.gov"
     folder: "content/resources"
-    editor:
-      preview: false
-
-    media_folder: "/static/img/proxy"
-    public_folder: ""
-    create: true
-
+    preview_path: resources/{{fields.slug}}
     fields:
       - label: "Source Url"
         name: "source_url"
@@ -625,13 +581,6 @@ collections:
         valueField: "slug"
         displayFields: ["name"]
         required: false
-      - label: "Date"
-        name: "date"
-        widget: "datetime"
-        dateFormat: "YYYY-MM-DD"
-        timeFormat: false
-        format: "YYYY-MM-DD 12:00:00 -0500"
-        hint: "e.g. 2019-04-01"
       - label: "Title / Headline"
         name: "title"
         widget: "string"
@@ -671,7 +620,11 @@ collections:
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
-        widget: "image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
         required: false
       - label: "Page Weight"
         name: "weight"
@@ -698,19 +651,17 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        <<: *editorComponents
 
   # SERVICES =======================
-  - name: "services"
+  - <<: *defaults
+    name: "services"
     label: "Services"
     label_singular: "Service"
     description: "This page will help create a new service on Digital.gov"
     folder: "content/services"
-    editor:
-      preview: false
-
-    slug: "service_{{slug}}"
-    create: true
-
+    path: "service_{{slug}}"
+    preview_path: services/directory
     fields:
       - label: "Name"
         name: "title"
@@ -790,20 +741,17 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        <<: *editorComponents
 
   # SOURCES =======================
-  - name: "sources"
+  - <<: *defaults
+    name: "sources"
     label: "Sources"
     label_singular: "Source"
     description: "Sources are the sites from our community that we have pointed to or re-published from."
     folder: "content/sources"
-    editor:
-      preview: false
-
     identifier_field: name
     path: "source_{{slug}}"
-    create: true
-
     fields:
       - label: "Source Name"
         name: "name"
@@ -836,18 +784,14 @@ collections:
         required: false
 
   # TOPICS =======================
-  - name: "topics"
+  - <<: *defaults
+    name: "topics"
     label: "Topics"
     label_singular: "Topic"
     description: "This page will help create a new topic on Digital.gov"
     folder: "content/topics"
-    editor:
-      preview: false
-
     path: "{{slug}}/_index"
-    create: true
     preview_path: topics/{{title}}
-
     fields:
       - label: "Topic Title"
         name: "title"
@@ -873,35 +817,30 @@ collections:
            2 -- featured on the Resource page
 
   # IMAGE UPLOAD =======================
-  - name: "image-upload"
+  - <<: *defaults
+    name: "image-upload"
     label: "Image upload"
     description: "This page will help upload a new image to Digital.gov"
     folder: "content/images/_inbox"
-    editor:
-      preview: false
-
     media_folder: ""
     public_folder: ""
     identifier_field: image
-    create: true
-
     fields:
       - label: "Image"
         name: "image"
         widget: "image"
 
   # IMAGE METADATA =======================
-  - name: "image-metadata"
+  - <<: *defaults
+    name: "image-metadata"
     label: "Image metadata"
     description: "This page will help edit image metadata"
     folder: "data/images"
-    editor:
-      preview: false
-
     identifier_field: uid
     extension: yml
     format: yml
-
+    create: false
+    preview_path: images
     fields:
       - label: "uid"
         name: "uid"

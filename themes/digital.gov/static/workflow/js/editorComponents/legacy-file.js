@@ -1,5 +1,5 @@
 const component = {
-  id: "legacy-file",
+  id: "legacyFile",
   label: "Legacy file",
   hint: 'example: {{< legacy-file "2014/07/metadata-in-drupal-epa.pdf" >}}',
   fields: [
