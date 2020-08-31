@@ -39,7 +39,7 @@ youtube_id:
 <br /><br />
 
 {{< note >}}
-This presentation (PDF, 3.6 MB, 51 pages), crafted by Dr. Meredith Larson of the U.S. Department of Education, offers detailed information on literacy skills of U.S. adults, including digital literacy, and the implications for communicating with the public. 
+[This presentation (PDF, 3.6 MB, 51 pages)](https://digital.gov/pdf/TheAverageAmericanClean_rev.pdf), crafted by Dr. Meredith Larson of the U.S. Department of Education, offers detailed information on literacy skills of U.S. adults, including digital literacy, and the implications for communicating with the public. 
 {{< /note >}}
 
 When communicating with the public, we must change our assumptions about their ability to understand text. This is especially true when the information keeps changing and is complex, or the stakes are high and people are in crisis.
