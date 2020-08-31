@@ -21,7 +21,8 @@ This memo contains the opinion by the Office of Legal Counsel (OLC) of the Depar
 * [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
 * [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 KB, 7 pages, April 2010)
 * [Guidelines for Secure Use of Social Media by Federal Departments and Agencies](https://cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf) (PDF, 233 KB, 19 pages, September 2009)
-* [OMB M-05-04, Policies for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
+* [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (1.2 MB, 18 pages, November 2016)
+
 
 * * *
 
