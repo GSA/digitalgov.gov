@@ -1,14 +1,10 @@
 ---
-# View this page at https://digital.gov/communities/web-content-managers
-# Learn how to edit our pages at https://workflow.digital.gov
-
-slug: web-content-managers
-date: 2013-11-21 2:31:00 -0500
-title: "Web Content Managers"
+title: Web Content Managers
 deck: ""
-summary: "The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites."
-
-# see all topics at https://digital.gov/topics
+summary: The Web Content Managers Forum is a community of government employees
+  who share ideas, challenges, lessons learned, and best practices in managing
+  the content of government websites.
+# See all topics at https://digital.gov/topics
 topics:
   - metrics
   - product-management
@@ -16,33 +12,30 @@ topics:
   - content-strategy
   - project-management
   - analytics
-
-# see all authors at https://digital.gov/authors
+# See all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
-
-# Page weight: controls how this page appears across the site
+  - tori-garten
+  - beth-martin
+slug: web-content-managers
+date: 2013-11-21 2:31:00 -0500
+# Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
-# Redirects: enter the path of the URL that you want redirected to this page
+# Enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/web-managers-forum/
   - /communities/web-managers-forum/web-content-managers-listserv/
-
-
+# Enter the path of the URL that you want redirected to this page
 community_list:
   - platform: listserv
     type: government_only
-    subscribe_email: "digitalgovu@gsa.gov"
-    subscribe_email_subject: "Join Web Content Managers"
+    subscribe_email: digitalgovu@gsa.gov
+    subscribe_email_subject: Join Web Content Managers
     subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
     members: 1878
     emails_per_week: 4
-
-
-# Make it better ♥
 ---
 
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.
