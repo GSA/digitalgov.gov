@@ -27,7 +27,7 @@ primary_image: "21st-century-idea-resource-card"
 ---
 
 
-The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
+The [21st Century Integrated Digital Experience Act](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
 
 ## Why Is It Important?
 
@@ -51,7 +51,7 @@ Specifically, the Act requires all executive branch agencies to:
 
 It also requires agencies to comply with the [website standards](https://designsystem.digital.gov/website-standards/), using the [U.S. Web Design System](https://designsystem.digital.gov/).
 
-{{< card-policy src="https://www.congress.gov/bill/115th-congress/house-bill/5759/text" kicker="Law" title="**H.R.5759**: 21st Century Integrated Digital Experience Act" >}}
+{{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}
 
 To improve executive agency digital services, and for other purposes.
 
