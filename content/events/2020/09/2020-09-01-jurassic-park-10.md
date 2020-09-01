@@ -24,7 +24,7 @@ primary_image: 10x-logo
 ---
 > Dinos roamed the earth a long time ago and have come back to eat everyone.
 
-{{< box color="base-dark >}} Note: this is an event. {{< /box >}}
+{{< box color="base-dark" >}} Note: this is an event. {{< /box >}}
 
 ## Related Links:
 
