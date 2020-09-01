@@ -18,7 +18,7 @@ We regularly accept content for this site from various federal agencies and are 
 
 - **News, Updates, and Blog Posts** — Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices. We are looking for posts that show what your team is working on, what challenges you’re facing, or how you’re working to make digital better for the public.
 - **Case Studies** — We are looking for examples of what agencies are doing, case studies, or collections of validated federal-wide news that has an impact on digital in one spot.
-- **Informational Events** — Digital.gov provides a range of free events for people and teams across the federal government. 
+- **Informational Events** — Digital.gov provides a range of free events for people and teams across the federal government.
 - **Resources, Tools, and Services** — To help agencies confidently take steps toward working smarter, we try to collect a list of available implementation playbooks, guidance documents, checklists, toolkits, style guides, and other similar content organized by specific topic areas.
 
 <!-- {{< hs-form-contribute >}} -->
