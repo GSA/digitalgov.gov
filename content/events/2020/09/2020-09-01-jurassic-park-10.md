@@ -20,11 +20,12 @@ authors:
 slug: jurassic-park-10
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: H0YMQe4rZug
 primary_image: 10x-logo
 ---
 > Dinos roamed the earth a long time ago and have come back to eat everyone.
 
-{{< box color="base-dark >}}  Note: this is an event.  {{< /box >}}
+{{< box color="base-dark" >}}  Note: this is an event.  {{< /box >}}
 
 ## Related Links:
 
@@ -37,4 +38,6 @@ primary_image: 10x-logo
 
 **Katherine Spivey** — serves as GSA’s Plain Language Launcher and is a Senior Communications Analyst for the Office of Strategic Communications. She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. In her previous position at GSA, she managed web content, coordinated social media, and edited the Great Government through Technology blog. Before GSA, Katherine was web content manager at Homeland Security, law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from UVA and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
 
-{{< accordion kicker="last update" title="test" icon="fas fa-copy" >}} We are having so much fun. {{< /accordion >}}
+{{< accordion kicker="last update" title="test" icon="fas fa-copy" >}}   We are having so much fun.   {{< /accordion >}}
+
+{{< card-quote text="I love t-rexes." cite="Dr. Rex" >}}
