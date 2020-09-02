@@ -1,16 +1,9 @@
 ---
-# This topic lives at
-# https://digital.gov/topics/508
-
-# Topic Title
 title: "508"
-
-# description — keep it short and clear
-summary: ""
-
-# Weight
+summary: Section 508 resources and information.
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- featured on the Resource page
 weight: 1
-
-# For more information on managing topics,
-# see https://github.com/GSA/digitalgov.gov/wiki/topics
 ---
