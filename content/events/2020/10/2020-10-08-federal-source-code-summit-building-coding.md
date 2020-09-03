@@ -44,6 +44,8 @@ aliases:
 
 ---
 
+{{< img-right src="2020-federal-source-code-summit-logo" >}}
+
 Code.gov will host its first annual Federal Source Code Summit to share success stories and best practices for utilizing federal source code and open source software (OSS), and examine the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov).
 
 The U.S. government spends billions of dollars annually on information technology (IT). Whether sustaining legacy systems or procuring highly customized applications, the costs add up. Code.gov was launched three years ago to lead the charge for code reuse and open source development while providing agency partners and developers with resources to improve agency mission outcomes and provide quality service to save taxpayer dollars.
