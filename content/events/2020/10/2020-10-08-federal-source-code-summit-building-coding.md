@@ -63,7 +63,7 @@ This summit includes success stories in the U.S. and abroad with source code and
 
 **9:00 - 9:15am** Welcome kick-off
 
-**9:15 - 9:35am** Summit Keynote by *Ron Bewtra*, Chief Technology Officer, Department of Justice
+**9:15 - 9:35am** Summit Keynote 
 
 **9:45 - 10:15am** Fireside Chat with International Governments  
 
