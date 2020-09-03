@@ -49,7 +49,10 @@ primary_image: "cloudgov-logo"
 weight: 0
 
 # Make it better ♥
+
 ---
+
+{{< img-right src="cloud-gov" >}}
 
 In this talk, Ron Williams and Carlo Costino will share insights into how agencies can use cloud services in a cost-effective manner. 
 
