@@ -22,12 +22,12 @@ const component = {
     };
   },
   toBlock: function(obj) {
-    return `{{< box color="${obj.color ? obj.color : ""} >}} ${
+    return `{{< box color="${obj.color ? obj.color : ""}" >}} ${
       obj.content
     } {{< /box >}}`;
   },
   toPreview: function(obj) {
-    return `{{< box color="${obj.color ? obj.color : ""} >}} ${
+    return `{{< box color="${obj.color ? obj.color : ""}" >}} ${
       obj.content
     } {{< /box >}}`;
   }
