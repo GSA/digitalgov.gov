@@ -3,8 +3,7 @@ img[alt="Logo"] {
   width: 150px;
 }
 
-div[class*="LibraryTop"] button[class*="DeleteButton"],
-body:not(.show-upload) label[class*="nc-fileUploadButton"] {
+div[class*="LibraryTop"] button[class*="DeleteButton"] {
   display: none;
 }
 

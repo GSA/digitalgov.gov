@@ -25,7 +25,7 @@ local_backend:
   url: http://localhost:8081/api/v1
 
 # Media / Images
-media_folder: "/static/img/proxy"
+media_folder: "/content/images/_inbox"
 
 # Misc
 slug:
@@ -329,7 +329,6 @@ collections:
     label_singular: "Event"
     description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
-    sortableFields: ["date", "title"]
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -822,8 +821,6 @@ collections:
     label: "Image upload"
     description: "This page will help upload a new image to Digital.gov"
     folder: "content/images/_inbox"
-    media_folder: ""
-    public_folder: ""
     identifier_field: image
     fields:
       - label: "Image"
