@@ -3,7 +3,8 @@ img[alt="Logo"] {
   width: 150px;
 }
 
-div[class*="LibraryTop"] button[class*="DeleteButton"] {
+div[class*="LibraryTop"] button[class*="DeleteButton"],
+div[class$="WorkflowCardContainer-card"] div[class$="CardDateContainer-text"] {
   display: none;
 }
 
