@@ -194,6 +194,12 @@ collections:
     folder: "content/communities"
     preview_path: communities/{{fields.slug}}
     fields:
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
       - label: "Title / Headline"
         name: "title"
         widget: "string"
