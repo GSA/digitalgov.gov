@@ -826,6 +826,15 @@ collections:
            0 -- hidden
            1 -- visible
            2 -- featured on the Resource page
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
 
   # IMAGE UPLOAD =======================
   - <<: *defaults
