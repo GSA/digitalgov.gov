@@ -580,6 +580,12 @@ collections:
     folder: "content/resources"
     preview_path: resources/{{fields.slug}}
     fields:
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
       - label: "Source Url"
         name: "source_url"
         widget: "string"
