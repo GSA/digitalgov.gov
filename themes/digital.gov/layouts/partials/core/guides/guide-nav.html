@@ -17,7 +17,7 @@
           {{- $item := . -}}
           <li class="usa-sidenav__item">
             {{- $page := $.Site.GetPage $item.path  -}}
-            <a class="{{- if eq $current_url $page.Permalink  -}}usa-current{{- end -}}" href="{{- $page.Permalink  -}}" title="{{- $item.title -}}">
+            <a class="{{- if eq $current_url $page.Permalink  -}}usa-current{{- end -}}" href="{{- $item.path -}}" title="{{- $item.title -}}">
               {{- $item.title }}
               {{ if $item.subnav -}}<span class="arrow-right"></span>{{- end -}}
             </a>
