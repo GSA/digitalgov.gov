@@ -54,3 +54,6 @@ Joseph Castle, Washington, DC
 - [**Code.gov API**](https://open.gsa.gov/api/codedotgov/)
 - [**Code.gov Resources**](https://github.com/GSA/code-gov)
 - [**Federal Source Code Policy**](https://sourcecode.cio.gov/)
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

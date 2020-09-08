@@ -28,3 +28,6 @@ How to join our listserv:
 
 1. [Register for a LISTSERV account](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1=SUBED1%3DCX-COP&X=&Y=)
 2. [Fill out our form](https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=CX-COP)
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
