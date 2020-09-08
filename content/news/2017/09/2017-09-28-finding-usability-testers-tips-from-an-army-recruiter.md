@@ -49,7 +49,7 @@ We usually have between 8 and 10 participants for a hallway test. These tests ar
 
 During our initial research, we compiled a list of volunteers; however, that list is a little stale since we have been using it for about 2 years. I talk to anyone that will listen and ask everyone to participate in testing. One day I walked out the front of the building and talked to people who were waiting for their commuter bus to arrive. This was a short notice test and I knew that if they were waiting for a bus outside my building that they worked nearby. I have also talked to people in line at the food trucks. :blush:
 
-Any time we have a meeting with a group of people who work outside of OPM, I always take the opportunity to pitch [usability testing]({{< ref "/topics/ux" >}}) and have a sheet available for people to give me their contact information.
+Any time we have a meeting with a group of people who work outside of OPM, I always take the opportunity to pitch [usability testing]({{< ref "/topics/user-experience" >}}) and have a sheet available for people to give me their contact information.
 
 Here are some examples of how we’ve recruited for specialized needs and interests:
 
