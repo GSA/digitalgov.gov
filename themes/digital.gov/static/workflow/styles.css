@@ -4,7 +4,7 @@ img[alt="Logo"] {
 }
 
 div[class*="LibraryTop"] button[class*="DeleteButton"],
-body:not(.show-upload) label[class*="nc-fileUploadButton"] {
+div[class$="WorkflowCardContainer-card"] div[class$="CardDateContainer-text"] {
   display: none;
 }
 

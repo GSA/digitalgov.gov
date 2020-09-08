@@ -25,7 +25,7 @@ local_backend:
   url: http://localhost:8081/api/v1
 
 # Media / Images
-media_folder: "/static/img/proxy"
+media_folder: "/content/images/_inbox"
 
 # Misc
 slug:
@@ -179,7 +179,9 @@ collections:
         label_singular: Redirect
         name: "aliases"
         widget: "list"
-        hint: "Enter the path of the URL that you want redirected to this page"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
 
@@ -192,6 +194,12 @@ collections:
     folder: "content/communities"
     preview_path: communities/{{fields.slug}}
     fields:
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
       - label: "Title / Headline"
         name: "title"
         widget: "string"
@@ -254,7 +262,9 @@ collections:
         label_singular: Redirect
         name: "aliases"
         widget: "list"
-        hint: "Enter the path of the URL that you want redirected to this page"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
         required: false
@@ -329,7 +339,6 @@ collections:
     label_singular: "Event"
     description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
-    sortableFields: ["date", "title"]
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -435,7 +444,9 @@ collections:
         label_singular: Redirect
         name: "aliases"
         widget: "list"
-        hint: "Enter the path of the URL that you want redirected to this page"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
         required: false
@@ -549,7 +560,9 @@ collections:
         label_singular: Redirect
         name: "aliases"
         widget: "list"
-        hint: "Enter the path of the URL that you want redirected to this page"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
         required: false
@@ -567,6 +580,12 @@ collections:
     folder: "content/resources"
     preview_path: resources/{{fields.slug}}
     fields:
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
       - label: "Source Url"
         name: "source_url"
         widget: "string"
@@ -644,7 +663,9 @@ collections:
         label_singular: Redirect
         name: "aliases"
         widget: "list"
-        hint: "Enter the path of the URL that you want redirected to this page"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
         required: false
@@ -734,7 +755,9 @@ collections:
         label_singular: Redirect
         name: "aliases"
         widget: "list"
-        hint: "Enter the path of the URL that you want redirected to this page"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
         required: false
@@ -797,10 +820,12 @@ collections:
         name: "title"
         widget: "string"
         hint: "Short, topical, no acronyms."
+        comments: "Topic Title"
       - label: "Description"
         name: "summary"
         widget: "text"
         hint: "1-sentence description that does not repeat the headline"
+        comments: "description — keep it short and clear"
       - label: "Weight"
         name: "weight"
         widget: "number"
@@ -815,6 +840,15 @@ collections:
            0 -- hidden
            1 -- visible
            2 -- featured on the Resource page
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
 
   # IMAGE UPLOAD =======================
   - <<: *defaults
@@ -822,8 +856,6 @@ collections:
     label: "Image upload"
     description: "This page will help upload a new image to Digital.gov"
     folder: "content/images/_inbox"
-    media_folder: ""
-    public_folder: ""
     identifier_field: image
     fields:
       - label: "Image"
