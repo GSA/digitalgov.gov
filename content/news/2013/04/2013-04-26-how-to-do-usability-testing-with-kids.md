@@ -7,13 +7,12 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - ux
   - digitalgov-user-experience-program
   - gamification
   - gsa
   - usability-testing
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" >}}

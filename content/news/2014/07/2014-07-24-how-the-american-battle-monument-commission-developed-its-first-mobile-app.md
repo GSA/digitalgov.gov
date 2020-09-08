@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - ux
   - abmc
   - american-battle-monuments-commission
   - mobile

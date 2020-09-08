@@ -20,7 +20,6 @@ topics:
   - user-centered-design
   - user-experience
   - uswds
-  - ux
 
 ---
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - ux
+  - user-experience
   - digitalgov-search
   - National Ocean Service
   - national-oceanic-and-atmospheric-administration

@@ -7,14 +7,13 @@ authors:
   - bbrantley
 topics:
   - data
-  - ux
   - api
   - data
   - the-data-briefing
   - United States Patent and Trademark Office
   - user-experience
   - USPTO
-  - ux
+  
 ---
 
 Recently, DigitalGov devoted an entire month to exploring how <a href="{{< ref "/topics/ux" >}}" target="_blank">good user experience (UX) helps government design better digital products and services</a>. UX is the art and science of understanding how people will use a website or mobile app to solve a problem or meet a need. UX is a combination of <a href="{{< ref "2015-11-25-the-data-briefing-how-neuroscience-and-communication-theory-inform-good-user-experience-design.md" >}}" target="_blank">neuroscience, communication theory</a>, information architecture, [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}), graphic design, and responsive programming to build an experience that is inviting and beneficial to users.

@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - product-management
-  - ux
+  - user-experience
   - FCN
   - mobile
 ---

@@ -8,7 +8,7 @@ authors:
   - robin-l-kaplan
 topics:
   - user-testing-and-research
-  - ux
+  - user-experience
   - BLS
   - us-bureau-of-labor-statistics
   - us-department-of-labor

@@ -7,7 +7,7 @@ authors:
   - brenda-wensil
 topics:
   - user-testing-and-research
-  - ux
+  - user-experience
   - cx
   - FAFSA
   - FSA

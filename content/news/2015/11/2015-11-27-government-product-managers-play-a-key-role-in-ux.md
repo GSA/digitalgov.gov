@@ -16,7 +16,7 @@ topics:
   - personas
   - united-states-office-of-personnel-management
   - user-experience
-  - ux
+  
 ---
 
 Government product managers sit at the intersection of three circles—business, design and technology. We play a key role in [user experience (UX)]({{< ref "communities/user-experience.md" >}}), because we are tasked with understanding users to build a product that is desirable and viable. This product could be a paper or online form, a website or a mobile app. {{< legacy-img src="2015/11/600-x-400-Three-gear-to-place-concepts-with-clipping-path-NUMAX3D-iStock-Thinkstock-187787658.jpg" alt="Three intersecting gears." caption="" >}} 

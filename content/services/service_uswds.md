@@ -24,7 +24,6 @@ weight: 2
 topics:
   - design
   - code
-  - ux
   - open-source
   - uswds
   - accessibility

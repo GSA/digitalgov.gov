@@ -10,7 +10,6 @@ topics:
   - design
   - mobile
   - user-testing-and-research
-  - ux
   - mobile
   - mobile-ux-guideline-5
   - thursday-mobile-products
@@ -18,7 +17,7 @@ topics:
   - us-department-of-labor
   - usability-testing
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2015/03/600-x-436-cos-CareerOneStop.jpg" alt="CareerOneStop homepage" >}}

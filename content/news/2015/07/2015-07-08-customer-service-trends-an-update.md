@@ -7,7 +7,7 @@ authors:
   - martha-dorris
 topics:
   - product-management
-  - ux
+  - user-experience
   - agile
   - content-syndication
   - COPE

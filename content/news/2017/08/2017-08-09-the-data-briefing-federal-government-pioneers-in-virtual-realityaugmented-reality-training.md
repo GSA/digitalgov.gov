@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - design
-  - ux
+  - user-experience
   - video
   - audio-video
   - augmented-reality

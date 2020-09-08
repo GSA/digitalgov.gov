@@ -19,7 +19,6 @@ end_date: 2020-07-09 14:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - research
-  - ux
   - user-experience
 
 # see all authors at https://digital.gov/authors

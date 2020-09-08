@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - ux
   - fda
   - infographic
   - us-food-and-drug-administration

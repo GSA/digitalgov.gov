@@ -10,7 +10,6 @@ topics:
   - emerging-tech
   - mobile
   - social-media
-  - ux
   - augmented-reality
   - gamification
   - mobile

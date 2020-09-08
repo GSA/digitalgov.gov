@@ -7,7 +7,6 @@ authors:
   - jonathan-rubin
 topics:
   - design
-  - ux
   - data-gov
   - usability-case-study
   - user-experience

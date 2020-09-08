@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - mobile-apps
   - user-experience
-  - ux
+  
 ---
 
 You have started developing your mobile product, but you may be wondering what and how to test. As with any form of software development, mobile testing should be done intermittently throughout all development stages.

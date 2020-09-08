@@ -7,7 +7,6 @@ authors:
   - joanne-mcgovern
 topics:
   - user-testing-and-research
-  - ux
   - cx
   - customer-experience-community-of-practice
   - customer-service
@@ -18,7 +17,7 @@ topics:
   - user-experience
   - user-experience-community-of-practice
   - user research
-  - ux
+  
 ---
 
 When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That’s just what happened to us.

@@ -7,7 +7,7 @@ authors:
   - stephanie-stover
 topics:
   - product-management
-  - ux
+  - user-experience
   - search-engine-optimization
 ---
 

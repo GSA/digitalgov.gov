@@ -7,7 +7,7 @@ authors:
   - brenda-wensil
 topics:
   - product-management
-  - ux
+  - user-experience
   - FAFSA
   - multilingual
 ---

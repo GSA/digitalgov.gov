@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - product-management
-  - ux
+  - user-experience
   - accessibility
   - dhs
   - DOL

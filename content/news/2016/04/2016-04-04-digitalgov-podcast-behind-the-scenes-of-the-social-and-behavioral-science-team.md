@@ -14,7 +14,7 @@ topics:
   - USDA
   - user-centered-design
   - user-experience
-  - ux
+  
 ---
 
 Enrolling veterans in retirement plans. Helping small farmers access credit. Surveying employees about their workspace.

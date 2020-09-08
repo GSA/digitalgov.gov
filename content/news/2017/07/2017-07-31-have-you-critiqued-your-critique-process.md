@@ -12,10 +12,9 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - ux
   - best-practices
   - user-experience
-  - ux
+  
 
 ---
 

@@ -29,7 +29,6 @@ weight: 2
 topics:
   - mobile
   - user-testing-and-research
-  - ux
   - user-experience
 
 # see all authors at https://digital.gov/authors

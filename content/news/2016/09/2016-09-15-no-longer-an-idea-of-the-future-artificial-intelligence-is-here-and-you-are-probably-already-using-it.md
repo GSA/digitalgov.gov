@@ -12,7 +12,6 @@ topics:
   - product-management
   - metrics
   - user-testing-and-research
-  - ux
   - ai
   - analytics
   - artificial intelligence
@@ -28,7 +27,6 @@ topics:
   - research
   - security
   - user-experience
-  - ux
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

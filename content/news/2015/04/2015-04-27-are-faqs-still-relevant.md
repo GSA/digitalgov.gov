@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - monthly-theme
-  - ux
   - CFPB
   - Consumer Financial Protection Bureau
   - customer-service

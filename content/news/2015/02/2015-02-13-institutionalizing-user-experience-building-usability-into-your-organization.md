@@ -7,7 +7,6 @@ authors:
   - beth-martin
 topics:
   - communities
-  - ux
   - analytics
   - aoi
   - digitalgov-user-experience-program
@@ -19,7 +18,7 @@ topics:
   - usability-testing
   - user-experience
   - user-experience-community-of-practice
-  - ux
+  
 ---
 
 {{< legacy-img src="2015/02/600-x-420-Usability-Mathias-Rosenthal-iStock-Thinkstock-523316205.jpg" alt="Usability sign" caption="" >}} 

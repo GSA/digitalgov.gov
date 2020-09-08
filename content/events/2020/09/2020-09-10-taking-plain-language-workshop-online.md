@@ -23,7 +23,6 @@ topics:
   - content-strategy
   - plain-language
   - user-experience
-  - ux
   - writing
   - plain-language-community-of-practice
 

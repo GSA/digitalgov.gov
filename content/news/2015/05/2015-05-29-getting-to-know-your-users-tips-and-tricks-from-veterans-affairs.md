@@ -9,7 +9,6 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - ux
   - cx
   - customer-satisfaction
   - customer-service

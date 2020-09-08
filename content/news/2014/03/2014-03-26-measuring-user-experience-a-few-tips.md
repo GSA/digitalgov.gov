@@ -8,7 +8,6 @@ authors:
 topics:
   - communities
   - user-testing-and-research
-  - ux
   - a-b-testing
   - aoi
   - recaps

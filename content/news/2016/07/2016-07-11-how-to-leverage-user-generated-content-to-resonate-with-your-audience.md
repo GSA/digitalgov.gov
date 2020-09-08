@@ -9,7 +9,7 @@ topics:
   - content
   - mobile
   - social-media
-  - ux
+  - user-experience
   - apps-challenges
   - challenge-gov
   - challenges-and-prize-competitions

@@ -23,7 +23,7 @@ topics:
   - usability-testing
   - user-experience
   - user-experience-community-of-practice
-  - ux
+  
 ---
 
 {{< legacy-img src="2015/02/250-x-185-Abstract-internet-connection-concept-with-cmputer-mouse-agawa288-iStock-Thinkstock-457944729.jpg" alt="Abstract internet connection concept with computer mouse" caption="" >}} 

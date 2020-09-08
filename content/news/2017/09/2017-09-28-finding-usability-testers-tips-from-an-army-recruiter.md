@@ -7,7 +7,6 @@ authors:
   - meghan-lazier
 topics:
   - user-testing-and-research
-  - ux
   - opm
   - united-states-office-of-personnel-management
   - usability
@@ -15,7 +14,7 @@ topics:
   - usajobs
   - user-centered-design
   - user-experience
-  - ux
+
 featured_image:
   uid: typing-on-laptop-close-up-littlehenrabi-istock-thinkstock-537275804
   alt: 'Close-up of hands typing on laptop.'

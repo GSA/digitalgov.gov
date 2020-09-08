@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - our-work
-  - ux
   - 18f
   - cx
   - customer-service

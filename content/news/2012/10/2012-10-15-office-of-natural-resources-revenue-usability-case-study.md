@@ -7,7 +7,6 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - ux
   - digitalgov-user-experience-program
   - Office of Natural Resources Revenue
   - ONRR
