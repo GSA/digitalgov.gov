@@ -146,6 +146,7 @@ collections:
           [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
            Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
            Learn more about getting a Github account at [URL]
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
         required: false
       - label: "Profile Photo"
         name: "profile_photo"
@@ -157,23 +158,32 @@ collections:
       - label: "Twitter"
         name: "twitter"
         widget: "string"
-        hint: "e.g., Digital_Gov"
+        hint: "Your Twitter username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
         required: false
       - label: "Facebook"
         name: "facebook"
         widget: "string"
+        hint: "Your Facebook username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
         required: false
       - label: "Instagram"
         name: "instagram"
         widget: "string"
+        hint: "Your Instagram username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
         required: false
       - label: "Linkedin"
         name: "linkedin"
         widget: "string"
+        hint: "Your Linkedin username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
         required: false
       - label: "YouTube"
         name: "youtube"
         widget: "string"
+        hint: "Your YouTube username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
         required: false
       - label: "Redirects"
         label_singular: Redirect
