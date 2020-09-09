@@ -82,7 +82,7 @@ Lastly, I want to highlight the invaluable experience of working across sectors.
 
 Increasing workplace diversity is an important topic, and my goal is to promote professional diversification of experiences. A value both for employees to embrace, and employers to seek. Consider the growth from going from one big tech company to another, versus traversing cross-sector experiences altogether. By leaning into service, and contributing to the public sector, I serendipitously gained insight into an entirely different culture, way of thinking, set of priorities, and even business model. 
 
-While serving in the government, I found myself asking, 
+While serving in the government, I found myself asking: 
 
 > "How do our motivations change when our customer base doesn’t need to be acquired? What if we didn’t need to hire a "growth team" to reach 330 million users… what then would we prioritize? If not revenue, how else should we be defining success?"
 
