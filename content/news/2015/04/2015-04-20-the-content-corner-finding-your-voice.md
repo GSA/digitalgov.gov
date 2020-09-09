@@ -12,6 +12,7 @@ topics:
   - personas
   - social-media
   - the-content-corner
+
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Speech-Bubble-Key-pressureUA-iStock-Thinkstock-ThinkstockPhotos-140790012.jpg" alt="Speech Bubble Key" caption="" >}} 
@@ -28,7 +29,7 @@ After turning your attention inward and focusing on the mission of your agency a
 
 # Voice and Tone
 
-I have generally used voice and tone interchangeably during this post, but others (rightly) make an important distinction between the two. Stephanie Schwab even divides voice into [four distinct components](http://www.socialmediaexplorer.com/social-media-marketing/finding-your-brand-voice/) which are:
+I have generally used voice and tone interchangeably during this post, but others (rightly) make an important distinction between the two. Stephanie Schwab even divides voice into [four distinct components](https://crackerjackmarketing.com/blog/finding-brand-voice/) which are:
 
   * **Character or Persona:** If your agency was a person, what would it look like?
   * **Tone:** Loud or soft, open or more closed off
@@ -37,7 +38,9 @@ I have generally used voice and tone interchangeably during this post, but other
 
 For sake of brevity, I have basically blended these traits into either the voice or tone, but I suggest you read further and work with whatever structure works best for you and for your agency. If you are the main evangelist at your agency, you need to be able to live and breathe this stuff, so do what works best in achieving your goals. One of the more common ways to differentiate the two is that voice is more of a concept of your agency as a set of adjectives whereas tone is a product of this concept that changes depending on the audience or situation.
 
-# A Different Tone for Different Times {{< legacy-img src="2015/04/600-x-155-Social-media-chat-bubble-words-Qstockmedia-iStock-Thinkstock-ThinkstockPhotos-474237751.jpg" alt="Social media chat bubble words" caption="" >}} 
+# A Different Tone for Different Times 
+
+{{< legacy-img src="2015/04/600-x-155-Social-media-chat-bubble-words-Qstockmedia-iStock-Thinkstock-ThinkstockPhotos-474237751.jpg" alt="Social media chat bubble words" caption="" >}} 
 
 Just as we all speak differently to our parents, our friends, and our boss, we should also at least consider a different tone depending upon our platform or content. Social media is the clear content type that will need a specific tone and is probably one of the main drivers of agencies even discussing brand, voice, and tone. Rocket Media outlines a nice set of [steps to help you establish the proper tone](http://rocketmedia.com/blog/steps-for-creating-a-voice-and-tone-guide) depending on various channels and content types:
 
