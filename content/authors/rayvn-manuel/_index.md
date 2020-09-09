@@ -1,6 +1,6 @@
 ---
-display_name: " Rayvn Manuel"
-first_name: " Rayvn"
+display_name: Rayvn Manuel
+first_name: Rayvn
 last_name: Manuel
 # Keep it under 50 words and only one paragraph
 bio: >+
