@@ -38,4 +38,4 @@ Along with advising leadership about the state of app development & DevOps best 
 
 - - -
 
-*This talk is hosted by the* [*DevOps Community of Practice (CoP)](https://digital.gov/communities/devops/*)*. The DevOps CoP provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.*
+*This talk is hosted by the* [DevOps Community of Practice (CoP)](https://digital.gov/communities/devops/*)*. The DevOps CoP provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.*
