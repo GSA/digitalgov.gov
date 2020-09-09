@@ -10,7 +10,6 @@ topics:
   - design
   - metrics
   - user-testing-and-research
-  - ux
   - digitalgov-user-experience-program
   - national-cancer-institute
   - NCI

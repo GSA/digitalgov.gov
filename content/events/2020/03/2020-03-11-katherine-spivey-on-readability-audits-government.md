@@ -23,7 +23,7 @@ topics:
   - content
   - cx
   - plain-language
-  - ux
+  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:

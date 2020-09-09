@@ -7,7 +7,6 @@ authors:
   - pooja-sawant
 topics:
   - user-testing-and-research
-  - ux
   - cx
   - digitalgov-user-experience-program
   - personas

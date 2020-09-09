@@ -6,7 +6,6 @@ summary: 'Plan and analyze. Write and design.  Test and refine.  As Web Manager 
 authors:
   - katie-messner
 topics:
-  - ux
   - content-strategy
   - usability
   - user-experience

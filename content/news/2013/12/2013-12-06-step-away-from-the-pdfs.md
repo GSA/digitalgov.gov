@@ -7,7 +7,7 @@ authors:
   - leah-bannon
 topics:
   - product-management
-  - ux
+  - user-experience
 ---
 
 <p>

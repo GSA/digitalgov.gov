@@ -22,7 +22,7 @@ topics:
   - cx
   - design
   - mobile
-  - ux
+  - user-experience
   - web-content-managers-forum
 
 # see all authors at https://digital.gov/authors

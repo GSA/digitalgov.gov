@@ -9,7 +9,7 @@ authors:
   - gary-morin
 topics:
   - accessibility
-  - ux
+  - user-experience
   - video
   - section-508
   - YouTube

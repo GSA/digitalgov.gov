@@ -10,7 +10,7 @@ topics:
   - digitalgov-user-experience-program
   - OPM
   - user-experience
-  - ux
+  
 ---
 
 [{{< legacy-img src="2014/02/usajobs-hallway-test-at-gsa-250x186.jpg" alt="People sitting at a table conducting a usability test" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/usajobs-hallway-test-at-gsa.jpg)

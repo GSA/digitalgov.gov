@@ -20,7 +20,6 @@ end_date: 2019-04-16 15:00:00 -0500
 topics: 
   - usability
   - user-experience
-  - ux
 
 # see all authors at https://digital.gov/authors
 authors: 

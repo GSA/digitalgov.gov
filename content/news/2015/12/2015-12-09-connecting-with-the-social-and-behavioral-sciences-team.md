@@ -15,7 +15,7 @@ topics:
   - recaps
   - SBST
   - Social and Behavioral Sciences Team
-  - ux
+  - user-experience
 ---
 
 The new [Social and Behavioral Sciences Team (SBST)](https://sbst.gov/) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on. Amira also shared how agencies can propose projects for the SBST to tackle, and explained how social and behavioral sciences, customer experience (CX) and user experience (UX) work together to enhance government products and services.

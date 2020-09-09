@@ -10,7 +10,7 @@ topics:
   - design
   - metrics
   - user-testing-and-research
-  - ux
+  - user-experience
   - digitalgov-user-experience-program
   - epa
   - us-environmental-protection-agency

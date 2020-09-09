@@ -26,7 +26,7 @@ topics:
   - usability-testing
   - user-experience
   - user-research
-  - ux
+  
 featured_image:
   uid: featured-301-x-212-nih-logo-national-institutes-of-health
   alt: 'NIH logo'

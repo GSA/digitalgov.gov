@@ -7,7 +7,6 @@ authors:
   - tlowden
 topics:
   - user-testing-and-research
-  - ux
   - digitalgov-user-experience-program
   - usability
   - usagov

@@ -12,7 +12,7 @@ topics:
   - product-management
   - mobile
   - social-media
-  - ux
+  - user-experience
   - 3d-printing
   - ai
   - artificial intelligence

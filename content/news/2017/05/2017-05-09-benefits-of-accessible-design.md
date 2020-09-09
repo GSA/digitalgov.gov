@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - design
-  - ux
+  - user-experience
   - accessibility
   - gsa
   - section-508

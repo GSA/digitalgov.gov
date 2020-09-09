@@ -19,7 +19,7 @@ topics:
   - united-states-office-of-personnel-management
   - USAJOBS
   - user-experience
-  - ux
+  
 ---
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._

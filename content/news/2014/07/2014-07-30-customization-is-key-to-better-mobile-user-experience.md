@@ -7,7 +7,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - ux
   - cdc
   - centers-for-disease-control-and-prevention
   - gps
@@ -23,7 +22,7 @@ topics:
   - us-national-park-service
   - united-states-department-of-health-and-human-services
   - user-experience
-  - ux
+  
 
 ---
 

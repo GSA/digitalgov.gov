@@ -7,7 +7,7 @@ authors:
   - katie-messner
 topics:
   - content
-  - ux
+  - user-experience
   - content-strategy
   - usability
 ---

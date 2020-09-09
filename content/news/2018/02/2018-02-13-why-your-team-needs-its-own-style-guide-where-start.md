@@ -6,7 +6,6 @@ summary: 'Learn how creating your own style guide can help facilitate developmen
 authors:
   - meghan-lazier
 topics:
-  - ux
   - design
   - accessibility
   - mobile
@@ -18,7 +17,7 @@ topics:
   - frb
   - united-states-patent-and-trademark-office
   - uspto
-  - ux
+  - user-experience
 featured_image:
   uid: cfpb-secondary-color-palette-swatches-featured
   alt: 'CFPB Design Manual: Secondary Colors Palette.'

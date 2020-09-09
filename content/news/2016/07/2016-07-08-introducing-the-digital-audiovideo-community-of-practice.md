@@ -11,7 +11,7 @@ topics:
   - product-management
   - mobile
   - social-media
-  - ux
+  - user-experience
   - video
   - communities
   - content

@@ -10,7 +10,7 @@ topics:
   - content
   - product-management
   - social-media
-  - ux
+  - user-experience
   - aoi
   - cx
   - government-contact-centers

@@ -9,7 +9,7 @@ topics:
   - content
   - social-media
   - user-testing-and-research
-  - ux
+  - user-experience
   - cdc
   - content
   - content-strategy

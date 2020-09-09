@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - user-testing-and-research
-  - ux
+  - user-experience
   - analytics
   - Library of Congress
   - LOC

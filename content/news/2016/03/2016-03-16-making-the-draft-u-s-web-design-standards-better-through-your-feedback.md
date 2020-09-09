@@ -8,7 +8,7 @@ authors:
   - melody-kramer
 topics:
   - content
-  - ux
+  - user-experience
   - 18f
   - draft-web-design-standards
   - user-centered-design

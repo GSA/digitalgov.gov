@@ -12,14 +12,13 @@ topics:
   - product-management
   - strategy
   - policy
-  - ux
   - accessibility
   - multilingual
   - multilingual-community
   - usagov
   - user-centered-design
   - user-experience
-  - ux
+  
 ---
 
 About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth]({{< ref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}).

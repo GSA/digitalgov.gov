@@ -8,12 +8,11 @@ authors:
 topics:
   - accessibility
   - design
-  - ux
   - accessibility
   - us-digital-service
   - USDS
   - user-experience
-  - ux
+  
 
 ---
 

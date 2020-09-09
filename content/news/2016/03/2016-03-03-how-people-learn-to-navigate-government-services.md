@@ -8,7 +8,7 @@ authors:
   - carolyn-dew
   - john-yuda
 topics:
-  - ux
+  - user-experience
   - 18f
 ---
 

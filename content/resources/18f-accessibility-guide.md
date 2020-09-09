@@ -29,6 +29,6 @@ weight: 2
 topics:
   - accessibility
   - design
-  - ux
+  - user-experience
 
 ---

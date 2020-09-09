@@ -15,7 +15,7 @@ topics:
   - agile
   - content-strategy
   - research
-  - ux
+  - user-experience
   - usability
   - user-research
   - methodology

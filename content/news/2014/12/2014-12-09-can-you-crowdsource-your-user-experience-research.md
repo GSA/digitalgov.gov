@@ -10,7 +10,6 @@ topics:
   - design
   - monthly-theme
   - user-testing-and-research
-  - ux
   - api
   - crowdsourcing
   - data-gov
@@ -22,7 +21,7 @@ topics:
   - usability starter kit
   - usability-testing
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2014/12/600-x-415-orange-Business-team-Network-isolated-on-white-Mostafa-Fawzy-Hemera-Thinkstock-101365600.jpg" alt="Business team Network isolated on white" caption="" >}} 

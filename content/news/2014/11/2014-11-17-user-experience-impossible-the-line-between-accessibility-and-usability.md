@@ -10,7 +10,6 @@ topics:
   - design
   - monthly-theme
   - user-testing-and-research
-  - ux
   - accessibility
   - SBA
   - section-508
@@ -18,7 +17,7 @@ topics:
   - usability
   - usagov
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2014/11/600-x-402-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Internet accessibility concept" caption="" >}} 

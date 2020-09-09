@@ -10,7 +10,7 @@ authors:
   - john-yuda
 topics:
   - product-management
-  - ux
+  - user-experience
   - 18f
   - draft-web-design-standards
 ---
