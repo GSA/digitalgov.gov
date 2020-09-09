@@ -4,7 +4,7 @@
 slug: how-serving-in-government-made-me
 
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/xGZQT
 date: 2020-09-08 21:00:00 -0500
 kicker: "Presidential Innovation Fellows"
 title: "How Serving in Government Made Me a Better Designer and Product Manager"
