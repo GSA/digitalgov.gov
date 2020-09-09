@@ -106,7 +106,7 @@
   {{- $href := .href -}}
   {{- $src := .src -}}
   {{- with .item -}}
-    <div class="promo" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+    <div class="promo" data-edit-this="{{- .Path -}}">
       <div>
         <h4>
           <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a>

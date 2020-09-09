@@ -57,7 +57,7 @@
   {{- $href := .href -}}
   {{- $src := .src -}}
   {{- with .item -}}
-  <div class="card card-service-contact" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+  <div class="card card-service-contact" data-edit-this="{{- .Path -}}">
 
     <div class="grid-row grid-gap-2">
       <div class="grid-col-12 tablet:grid-col-3">
