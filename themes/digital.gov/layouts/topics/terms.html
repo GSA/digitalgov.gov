@@ -24,7 +24,7 @@
           {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
             {{- if eq .Params.weight 2 -}}
               <div class="grid-col-12 tablet:grid-col-4">
-                <div class="topic" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+                <div class="topic" data-edit-this="{{- .Path -}}">
                   <h3>
                     <a href="{{- .Permalink | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
                   </h3>
@@ -75,7 +75,7 @@
           {{/*
           Output the topic HTML
           */}}
-          <div class="topic" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+          <div class="topic" data-edit-this="{{- .Path -}}">
             <p>
               <a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a> <span class="count">{{- $taxonomy.Count -}}</span>
             </p>
