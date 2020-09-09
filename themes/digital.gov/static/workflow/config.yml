@@ -71,7 +71,7 @@ collections:
     folder: "content/authors"
     identifier_field: display_name
     path: "{{slug}}/_index"
-    preview_path: authors/{{fields.slug}}
+    preview_path: authors/{{slug}}
     fields:
       - label: "Display Name"
         name: "display_name"
@@ -192,7 +192,7 @@ collections:
     label_singular: "Community"
     description: "This page will help create a new community on Digital.gov"
     folder: "content/communities"
-    preview_path: communities/{{fields.slug}}
+    preview_path: communities/{{slug}}
     fields:
       - label: "Date"
         name: "date"
@@ -342,7 +342,7 @@ collections:
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: event/{{year}}/{{month}}/{{day}}/{{fields.slug}}
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{slug}}
     preview_path_date_field: "date"
     fields:
       - label: "Event Title"
@@ -465,7 +465,7 @@ collections:
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "{{year}}/{{month}}/{{day}}/{{fields.slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
     preview_path_date_field: "date"
     fields:
       - label: "Source Url"
@@ -578,7 +578,7 @@ collections:
     label_singular: "Resource"
     description: "This page will help create a new resource on Digital.gov"
     folder: "content/resources"
-    preview_path: resources/{{fields.slug}}
+    preview_path: resources/{{slug}}
     fields:
       - label: "Date"
         name: "date"
@@ -814,7 +814,7 @@ collections:
     description: "This page will help create a new topic on Digital.gov"
     folder: "content/topics"
     path: "{{slug}}/_index"
-    preview_path: topics/{{title}}
+    preview_path: topics/{{slug}}
     fields:
       - label: "Topic Title"
         name: "title"
