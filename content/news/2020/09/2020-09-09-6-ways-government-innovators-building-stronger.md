@@ -57,4 +57,4 @@ Together, we recognized the importance of data privacy and design principles. TT
 
 **The Impact Summit Series continues**! Our next two events will cover how federal agencies are using cloud platforms and **customer experience** to improve and scale public services. You can find more information and registration for our next Impact Summit Series events [on GSA’s TTS Impact Summit website](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-impact-summit/tts-impact-summit-resources-and-materials). You can also [watch the recording to learn more](https://www.youtube.com/watch?v=Cp67gSKbw30&list=PLd9b-GuOJ3nEtmhIoQcUxdtZ-tyvXEf92&index=2). 
 
-**We hope to see you there.**
+**We hope to see you there.** 
