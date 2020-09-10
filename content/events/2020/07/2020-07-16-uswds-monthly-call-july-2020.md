@@ -26,7 +26,7 @@ topics:
 authors: 
   - dan-williams
   - jared-cunha
-  - william-bagakoyo
+  - william-bagayoko
   - james-mejia
   - ben-judy
 

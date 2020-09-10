@@ -1,12 +1,12 @@
 ---
-# View this page at https://digital.gov/authors/william-bagakoyo
+# View this page at https://digital.gov/authors/william-bagayoko
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: william-bagakoyo
-display_name: "William Bagakoyo"
+slug: william-bagayoko
+display_name: "William Bagayoko"
 first_name: "William"
-last_name: "Bagakoyo"
+last_name: "Bagayoko"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""

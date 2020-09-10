@@ -27,7 +27,7 @@ authors:
   - dan-williams
   - james-mejia
   - jared-cunha
-  - william-bagakoyo
+  - william-bagayoko
 
 # YouTube ID
 youtube_id: kP-9tJFm3Ag
