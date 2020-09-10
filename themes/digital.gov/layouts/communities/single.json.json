@@ -34,7 +34,7 @@
       {{- end -}}
       "title" : {{- .Title | jsonify -}},
       {{- if (isset .Params "summary") -}}
-      "summary" : "{{- .Params.summary -}}",
+      "summary" : "{{- replace .Params.summary "\n" "\\n" -}}",
       {{- end -}}
       {{- if (isset .Params "deck") -}}
       "deck" : "{{- .Params.deck | markdownify -}}",
@@ -107,7 +107,7 @@
       {{- end -}}
 
       {{- partial "api/slug" . -}}
-      
+
       "url" : "{{- .Permalink -}}",
       {{- if .Params.aliases -}}
       "aliases" : {

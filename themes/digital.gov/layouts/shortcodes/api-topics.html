@@ -14,7 +14,7 @@
       {
         "slug" : "{{- with .File -}}{{- .Path | replaceRE "^topics/([^/]+).*" "$1" -}}{{- end -}}",
         "title" : "{{- .Title -}}",
-        "summary" : "{{- .Params.summary -}}",
+        "summary" : "{{- replace .Params.summary "\n" "\\n" -}}",
         {{- if .Params.aliases -}}
         "aliases" : {
           {{- $aliaslen := .Params.aliases | len -}}
