@@ -1,12 +1,12 @@
 ---
 slug: 18f-de-risking-guides
-date: 2020-09-10 17:34:00 -0500
+date: 2020-09-10 15:34:00 -0500
 
-title: '18F De-Risking Guides'
-deck: 'Best practices on doing product management well'
-summary: 'Best practices on doing product management well'
+title: '18F De-risking Guides'
+deck: 'A field guide for good governance'
+summary: 'The Federal Field Guide to De-risk Government Technology offers guidance to federal agencies on how to structure software development teams, write contracts, and oversee agile software activities to reduce risks and improve outcomes for end-users.'
 authors:
-  - toni-bonittio
+  - toni-bonitto
 
 # Topics that best describe this product or service
 topics:
