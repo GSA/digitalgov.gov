@@ -1,16 +1,16 @@
 ---
-slug: 18f-guide-product-management
-date: 2019-04-03 17:34:00 -0500
+slug: 18f-de-risking-guides
+date: 2020-09-10 17:34:00 -0500
 
-title: '18F Guide to Product Management'
+title: '18F De-Risking Guides'
 deck: 'Best practices on doing product management well'
 summary: 'Best practices on doing product management well'
 authors:
-  - jeremyzilar
+  - toni-bonittio
 
 # Topics that best describe this product or service
 topics:
-  - design
+  - acquisition
   - product-management
   - strategy
   - agile
