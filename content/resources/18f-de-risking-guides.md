@@ -3,7 +3,7 @@ slug: 18f-de-risking-guides
 date: 2020-09-10 15:34:00 -0500
 
 title: '18F De-risking Guides'
-deck: 'A field guide for good governance'
+deck: 'Field guides for state and federal agencies on how to structure software development teams, write contracts, and oversee agile software activities to reduce risks and improve outcomes for end-users.'
 summary: 'The Federal Field Guide to De-risk Government Technology offers guidance to federal agencies on how to structure software development teams, write contracts, and oversee agile software activities to reduce risks and improve outcomes for end-users.'
 authors:
   - toni-bonitto
