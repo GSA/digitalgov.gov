@@ -15,7 +15,7 @@ short_url:
 date: 2020-09-09 9:00:00 -0500
 kicker: "Best Practices"
 title: "A Federal Guide to De-risk Government Technology Projects"
-deck: "**A Federal Guide to De-risk Government Technology Projects**&mdash;Written as a field guide for good governance, the Federal Field Guide to De-risk Government Technology offers guidance to federal agencies on how to structure software development teams, write contracts, and oversee agile software activities to reduce risks and improve outcomes for end-users. The field guide is written for federal agency cross-functional teams delivering IT services to their users – senior executives, program managers, product owners, senior procurement executives, contracting officers, IT managers, and funding officials."
+deck: "**A Federal Guide to De-risk Government Technology Projects**&mdash;Written for cross-functional teams delivering IT services to their users, the Federal Field Guide to De-risk Government Technology offers guidance to federal agencies on how to structure software development teams, write contracts, and oversee agile software activities to reduce risks and improve outcomes for end-users."
 summary: ""
 
 # see all topics at https://digital.gov/topics
