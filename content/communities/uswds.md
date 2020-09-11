@@ -68,3 +68,5 @@ We support the U.S. Web Design System’s efforts to make it easier to build acc
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}
 
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
