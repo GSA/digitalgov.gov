@@ -71,7 +71,7 @@ collections:
     folder: "content/authors"
     identifier_field: display_name
     path: "{{slug}}/_index"
-    preview_path: authors/{{slug}}
+    preview_path: authors/{{display_name}}
     fields:
       - label: "Display Name"
         name: "display_name"
@@ -352,7 +352,7 @@ collections:
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: event/{{year}}/{{month}}/{{day}}/{{slug}}
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
     preview_path_date_field: "date"
     fields:
       - label: "Event Title"
@@ -475,7 +475,7 @@ collections:
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{title}}"
     preview_path_date_field: "date"
     fields:
       - label: "Source Url"
@@ -824,7 +824,7 @@ collections:
     description: "This page will help create a new topic on Digital.gov"
     folder: "content/topics"
     path: "{{slug}}/_index"
-    preview_path: topics/{{slug}}
+    preview_path: topics/{{title}}
     fields:
       - label: "Topic Title"
         name: "title"
