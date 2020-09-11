@@ -66,7 +66,7 @@ Key takeaways include:
 
 ## Presenters:
 
-**Ron Williams** serves as Deputy Director for cloud.gov. Prior to joining the Technology Transformation Services (TTS) at the U.S. General ServicesAdministration (GSA), he was Director of IT for the U.S. Department of Agriculture (USDA) Communications working on USDA.gov, ChooseMyPlate.gov, Farmers.gov, and other public facing websites. As an open-source advocate, Ron focuses on deploying disruptive technologies within public sector institutions to improve services provided to the general public.
+**Ron Williams** serves as Deputy Director for cloud.gov. Prior to joining the Technology Transformation Services (TTS) at the U.S. General Services Administration (GSA), he was Director of IT for the U.S. Department of Agriculture (USDA) Communications working on USDA.gov, ChooseMyPlate.gov, Farmers.gov, and other public facing websites. As an open-source advocate, Ron focuses on deploying disruptive technologies within public sector institutions to improve services provided to the general public.
 
 **Carlo Costino** serves as a platform operator for cloud.gov. He previously served as a software engineer and engineering supervisor within TTS’ 18F, where he partnered closely with the Federal Election Commission (FEC) on the modernization of FEC.gov. Carlo is deeply passionate about education and technology and seeks to find ways to bring the two together. He focuses on bringing modern open-source technologies to help improve public services while sharing his knowledge with others so that they may do the same at their agencies.
 
