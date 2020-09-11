@@ -43,5 +43,8 @@ instagram: ""
 linkedin: ""
 youtube: ""
 
+aliases:
+  - /authors/william-bagakoyo
+
 # Make it better ♥
 ---
