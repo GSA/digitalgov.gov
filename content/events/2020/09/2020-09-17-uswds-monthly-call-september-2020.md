@@ -1,9 +1,9 @@
 ---
 title: USWDS Monthly Call - September 2020
 deck: Join U.S. Web Design System Product Lead, Dan Williams, as we talk about
-  the design system and answer your questions.
+  the three new components for the design system.
 summary: Join U.S. Web Design System Product Lead, Dan Williams, as we talk
-  about the design system and answer your questions.
+  about the three new components for the design system.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/uswds-september-2020-monthly-call-tickets-114599339710
@@ -31,7 +31,11 @@ primary_image: uswds-2-illio-feature-image
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
-This month, Dan Williams, USWDS product lead, will introduce and demo three new components: identifier, time picker and step indicator. The identifier, a supplement to your  standard site footer,  discloses a site's parent agency and displays agency links required by federal policy. The time picker and step indicator are new additions to the forms components that allow visitors to select a time from a drop-down menu and to follow their progress in a step-by-step process.
+This month, Dan Williams, USWDS product lead, will introduce and demo three new components:
+
+* **Identifier.** The identifier, a supplement to your  standard site footer,  discloses a site's parent agency and displays agency links required by federal policy.
+* **Time picker.** The time picker is one of two new additions to the forms components that allow visitors to select a time from a drop-down menu.
+* **Step indicator.** The step indicator is the second addition to the forms components that allow users to follow their progress in a step-by-step process.
 
 USWDS is a library of principles, guidance, and code to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
 
