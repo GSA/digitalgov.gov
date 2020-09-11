@@ -8,10 +8,10 @@ deck: "**Improvements to the US Web Design System Banner Content and Code**
   &mdash;We improved the security banner that's featured on many government
   websites and we encourage teams to update to this new security language as
   soon as possible."
-summary: "**Improvements to the US Web Design System Banner Content and Code** -
-  We improved the security banner that's featured on many government websites
-  and we encourage teams to update to this new security language as soon as
-  possible."
+summary: "**Improvements to the US Web Design System Banner Content and Code**
+  &mdash;We improved the security banner that's featured on many government
+  websites and we encourage teams to update to this new security language as
+  soon as possible."
 slug: improvements-to-the-us-web-design-system-banner-content-and-code
 # Controls how this page appears across the site
 # 0 -- hidden
