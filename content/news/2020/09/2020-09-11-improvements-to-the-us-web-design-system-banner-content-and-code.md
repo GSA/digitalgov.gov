@@ -18,4 +18,3 @@ slug: improvements-to-the-us-web-design-system-banner-content-and-code
 # 1 -- visible
 weight: 1
 ---
-x
