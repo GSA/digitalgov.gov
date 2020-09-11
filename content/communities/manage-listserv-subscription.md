@@ -16,7 +16,7 @@ aliases:
 
 ---
 
-GSA supports many [communities of practice]({{< ref "/communities/_index.md" >}}) by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.
+GSA supports many [communities of practice]({{< ref "/communities/_index.md" >}}) (CoP) by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.
 
 The handy tips that follow will help you manage your GSA Listserv subscription. Confirm that your community’s list is hosted by GSA by checking that the email address ends in “@listserv.gsa.gov”. If you still have questions after reading this page, contact your community or listserv manager.
 
@@ -33,8 +33,8 @@ When sending a message to the entire Listserv, consider that your message is goi
 ### Rules and Guidelines for Online Discussions
 
 - Respect your peers: Any derogatory comments on race, disability, sexuality, [and more](https://handbook.tts.gsa.gov/code-of-conduct/) will not be tolerated. No inappropriate language or personal attacks.
-- Use Plain Language: If you don’t know what Plain Language is, think about [joining the community](https://digital.gov/communities/plain-language/), [attending one of our Plain Language CoP meetings](https://digital.gov/events/), or [check out our resources](https://digital.gov/topics/plain-language/). You can also visit [plainlanguage.gov](https://plainlanguage.gov/). Please use correct spelling and grammar so all can participate.
-- Grammar and fonts: Please spell check your messages. Use correct spelling (ex. You, not u. Are, not r). And please use an easy to read font: Ex. Times New Roman, or Helvetica in 12 point font and black text color.
+- Use plain language: If you are unfamiliar with plain language, think about [joining the community](https://digital.gov/communities/plain-language/), [attending one of our Plain Language CoP meetings](https://digital.gov/events/), or [check out our resources](https://digital.gov/topics/plain-language/). You can also visit [PlainLanguage.gov](https://www.plainlanguage.gov/) where you can learn about the Plain Writing Act of 2010 requirements. Please use correct spelling and grammar so all can participate.
+- Grammar and fonts: Please spell-check your messages. Use correct spelling (use the word _you_, not the letter _u_, and the word _are_, not the letter _r_). Please use 12-point, black text in an easy to read font&mdash;such as [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman) or [Helvetica](https://en.wikipedia.org/wiki/Helvetica).
 - Please be patient: Digital.gov CoP members have different experience levels. You may consider some of the conversation threads on a particular topic simple, but they are fundamental for people to learn.
 - Practice constructive criticism: Please review your language when participating in conversation. Engage in conversation by articulating your thoughts. Abide by, “if you have nothing nice to say, don’t say it at all!” Read your comments over before pressing send.
 - Stay organized: Please keep the conversation threads focused. Start a new thread if it does not pertain to the latest conversation.
