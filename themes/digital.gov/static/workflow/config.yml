@@ -37,6 +37,7 @@ defaults: &defaults
     preview: false
   create: true
   delete: false
+  publish: false
 
 editorComponents: &editorComponents
   editorComponents:
@@ -867,6 +868,7 @@ collections:
     description: "This page will help upload a new image to Digital.gov"
     folder: "content/images/_inbox"
     identifier_field: image
+    publish: true
     fields:
       - label: "Image"
         name: "image"
