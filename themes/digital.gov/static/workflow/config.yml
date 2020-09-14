@@ -464,6 +464,7 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        required: false
         <<: *editorComponents
 
   # NEWS =======================
@@ -580,6 +581,7 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        required: false
         <<: *editorComponents
 
   # RESOURCES =======================
@@ -683,6 +685,7 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        required: false
         <<: *editorComponents
 
   # SERVICES =======================
@@ -775,6 +778,7 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
+        required: false
         <<: *editorComponents
 
   # SOURCES =======================

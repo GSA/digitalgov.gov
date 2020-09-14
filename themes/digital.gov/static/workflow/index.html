@@ -27,14 +27,6 @@
         name: "preSave",
         handler: ({ entry }) => {
           let data = entry.get("data");
-          const primary_image = data.getIn(["primary_image"]) || "";
-
-          if (data.getIn(["primary_image"])) {
-            data = data.set(
-              "primary_image",
-              primary_image.replace(/\.[^/.]+$/, "")
-            );
-          }
 
           if (!entry.get("slug")) {
             data = data.set(
