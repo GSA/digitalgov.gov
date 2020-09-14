@@ -24,9 +24,9 @@ slug: a-fresh-start-with-devops-maybe
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
-When you define ‘legacy’ as applications or systems which are less than five years old, adopting a DevOps way of working should offer an organization a fresh start. However, beginning with a blank slate does not mean that integrating the philosophy is without challenges. 
- 
-No Legacy DevOps is the telling of the tale of the DevOps team at the Smithsonian’s National Museum of African American History and Culture (NMAAHC) and the sharing of the challenges encountered, mistakes made, and the resulting strategy captured from the valuable lessons learned and learning. 
+When you define ‘legacy’ as applications or systems which are less than five years old, adopting a DevOps way of working should offer an organization a fresh start. However, beginning with a blank slate does not mean that integrating the philosophy is without challenges.
+
+No Legacy DevOps is the telling of the tale of the DevOps team at the Smithsonian’s National Museum of African American History and Culture (NMAAHC) and the sharing of the challenges encountered, mistakes made, and the resulting strategy captured from the valuable lessons learned and learning.
 
 ## Speaker:
 
