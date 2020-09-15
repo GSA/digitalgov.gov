@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/sara-head-shot.jpg
+
+# Image shortcode: {{< img src="sara-head-shot" >}}
+
+date     : 2020-09-15 20:46:29 -0400
+uid      : sara-head-shot
+width    : 2048
+height   : 1365
+format   : jpg
+credit   : "" 
+caption  : "" 
+alt      : "" 
