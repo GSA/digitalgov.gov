@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
 title: "Play 2: Commit to action"
-deck: "Use web analytics to reach your strategic website goals"
-summary: "Use web analytics to reach your strategic website goals."
+deck: "This is an example of a deck. It is optional."
+summary: "This is an example of a summary."
 guide: web-analytics-playbook
 aliases:
 ---
