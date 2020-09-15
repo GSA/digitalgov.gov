@@ -20,6 +20,8 @@
 ###############
 MD001: false # Header levels should only increment by one level at a time
 MD004: false # Unordered list style
+MD009:
+  br_spaces: 2 # Trailing spaces
 MD007:
   indent: 4 # Unordered list indentation
 MD013: false # Line length
