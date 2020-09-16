@@ -48,7 +48,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-Please check back for an upcoming meeting.
+- **[September Meeting: A Fresh Start With DevOps - Maybe](https://digital.gov/event/2020/09/22/a-fresh-start-with-devops-maybe/)**
 
 ## Past Meetings
 
