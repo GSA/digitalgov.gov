@@ -1,0 +1,161 @@
+{{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
+
+{{- if and $guide_data $guide_data.showNextPrevious -}}
+  {{- $current_page := . -}}
+  {{- $current_url := $current_page.Permalink -}}
+
+  {{- $guide_files := (where .Site.Pages ".Params.guide" .Params.guide) -}}
+
+  {{- $prev_item := 0 -}}
+  {{- $point_item := 0 -}}
+
+  <ul class="guide-prev-next usa-button-group">
+    {{- if $guide_data.nav -}}
+      {{- range $guide_data.nav -}}
+        {{- $item := . -}}
+
+        {{- $prev_item = $point_item -}}
+        {{- $point_item = $item -}}
+
+        {{- if not (eq $prev_item 0) -}}
+
+          {{- $point_page := $.Site.GetPage $point_item.path  -}}
+          {{- $prev_page := $.Site.GetPage $prev_item.path -}}
+
+          {{- if eq $current_url $point_page.Permalink  -}}
+
+            <li class="usa-button-group__item prev-item">
+              <a class="usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
+                Previous
+              </a>
+            </li>
+          {{- end -}}
+
+          {{- if eq $current_url $prev_page.Permalink  -}}
+            <li class="usa-button-group__item margin-left-auto next-item">
+              <a class="usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
+                Next
+              </a>
+            </li>
+          {{- end -}}
+
+        {{- end -}}
+
+        {{- if $item.subnav -}}
+          {{- range $item.subnav -}}
+            {{- $sub_item := . -}}
+
+            {{- $prev_item = $point_item -}}
+            {{- $point_item = $sub_item -}}
+
+            {{- if not (eq $prev_item 0) -}}
+
+              {{- $point_page := $.Site.GetPage $point_item.path  -}}
+              {{- $prev_page := $.Site.GetPage $prev_item.path -}}
+
+              {{- if eq $current_url $point_page.Permalink  -}}
+                <li class="usa-button-group__item prev-item">
+                  <a class="usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
+                    Previous
+                  </a>
+                </li>
+              {{- end -}}
+
+              {{- if eq $current_url $prev_page.Permalink  -}}
+                <li class="usa-button-group__item margin-left-auto next-item">
+                  <a class="usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
+                    Next
+                  </a>
+                </li>
+              {{- end -}}
+            {{- end -}}
+
+            {{- if $sub_item.subnav -}}
+              {{- range $sub_item.subnav -}}
+                {{- $subsub_item := . -}}
+
+                {{- $prev_item = $point_item -}}
+                {{- $point_item = $subsub_item -}}
+
+                {{- if not (eq $prev_item 0) -}}
+
+                  {{- $point_page := $.Site.GetPage $point_item.path  -}}
+                  {{- $prev_page := $.Site.GetPage $prev_item.path -}}
+
+                  {{- if eq $current_url $point_page.Permalink  -}}
+                    <li class="usa-button-group__item prev-item">
+                      <a class="usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
+                        Previous
+                      </a>
+                    </li>
+                  {{- end -}}
+
+                  {{- if eq $current_url $prev_page.Permalink  -}}
+                    <li class="usa-button-group__item next-item">
+                      <a class="usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
+                        Next
+                      </a>
+                    </li>
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+
+          {{- end -}}
+        {{- end -}}
+
+      {{- end -}}
+
+    {{- else -}}
+      {{- range sort ($guide_files) ".Params.weight" "desc" -}}
+
+        {{- if not (eq .Kind "section") -}}
+
+          {{- $item := . -}}
+
+          {{- $prev_item = $point_item -}}
+          {{- $point_item = $item -}}
+
+          {{- if eq $current_page.Kind "section" -}}
+            {{- if (eq $prev_item 0) -}}
+
+              <li class="usa-button-group__item margin-left-auto next-item">
+                <a class="usa-button" href="{{- $point_item.Permalink | relURL -}}" title="{{- $point_item.Title -}}">
+                  Next
+                </a>
+              </li>
+            {{- end -}}
+          {{- end -}}
+
+          {{- if eq $current_url $point_item.Permalink  -}}
+            {{- if not (eq $prev_item 0) -}}
+              <li class="usa-button-group__item prev-item">
+                <a class="usa-button usa-button--outline" href="{{- $prev_item.Permalink | relURL -}}" title="{{- $prev_item.Title -}}">
+                  Previous
+                </a>
+              </li>
+            {{- else -}}
+              <li class="usa-button-group__item prev-item">
+                <a class="usa-button usa-button--outline" href="{{- $current_page.CurrentSection.Permalink | relURL -}}" title="Overview">
+                  Previous
+                </a>
+              </li>
+            {{- end -}}
+          {{- end -}}
+
+          {{- if not (eq $prev_item 0) -}}
+            {{- if eq $current_url $prev_item.Permalink  -}}
+
+              <li class="usa-button-group__item margin-left-auto next-item">
+                <a class="usa-button" href="{{- $point_item.Permalink | relURL -}}" title="{{- $point_item.Title -}}">
+                  Next
+                </a>
+              </li>
+            {{- end -}}
+          {{- end -}}
+
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </ul>
+{{- end -}}
