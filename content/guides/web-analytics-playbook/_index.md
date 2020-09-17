@@ -13,4 +13,4 @@ Federal websites vary greatly in content and purpose, but they all share a commo
 
 Web analytics tools play an integral role in pursuit of that goal. However, if the tool is implemented improperly or the data it collects are analyzed incorrectly, it can derail delivering information or services to the public.
 
-Use these plays to help strategize how your team can use web analytics to get the most impact for your website’s target audience.
+Use these plays to help strategize how your team can most effectively use web analytics for your website and target audience.
