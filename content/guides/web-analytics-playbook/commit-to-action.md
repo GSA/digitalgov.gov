@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
 title: "Play 2: Commit to action"
-deck: "This is an example of a deck. It is optional."
-summary: "This is an example of a summary."
+deck: ""
+summary: ""
 guide: web-analytics-playbook
 aliases:
 ---

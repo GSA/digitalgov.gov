@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
 title: "Play 7: Invest in training and support"
-deck: "Use web analytics to reach your strategic website goals"
-summary: "Use web analytics to reach your strategic website goals."
+deck: ""
+summary: ""
 guide: web-analytics-playbook
 aliases:
 

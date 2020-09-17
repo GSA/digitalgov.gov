@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
 title: "Play 1: Create a foundation"
-deck: "This is an example of a deck. It is optional."
-summary: "Use web analytics to reach your strategic website goals."
+deck: ""
+summary: ""
 guide: web-analytics-playbook
 aliases:
 ---
