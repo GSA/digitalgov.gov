@@ -5,7 +5,6 @@ deck: ""
 summary: ""
 guide: public-participation
 guidenav: publicparticipation
-permalink: establish-goals
 ---
 ## Play 1: Clearly define and communicate your objectives
 
