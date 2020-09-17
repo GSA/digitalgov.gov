@@ -4,7 +4,6 @@ title: "Understand the Playing Field"
 deck: ""
 summary: ""
 guide: public-participation
-guidenav: publicparticipation
 ---
 ## Play 2: Understand your participants and stakeholder groups
 

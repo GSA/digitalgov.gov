@@ -4,7 +4,6 @@ title: "Evaluate and Report"
 deck: ""
 summary: ""
 guide: public-participation
-guidenav: publicparticipation
 ---
 ## Play 12: Transparently report outcomes and performance of participation
 

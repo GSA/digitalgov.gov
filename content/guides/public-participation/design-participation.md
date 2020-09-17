@@ -4,7 +4,6 @@ title: "Design Participation"
 deck: ""
 summary: ""
 guide: public-participation
-guidenav: publicparticipation
 ---
 ## Play 5: Select appropriate design format for public participation
 

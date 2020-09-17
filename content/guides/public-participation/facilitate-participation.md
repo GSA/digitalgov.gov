@@ -4,7 +4,6 @@ title: "Facilitate Participation"
 deck: ""
 summary: ""
 guide: public-participation
-guidenav: publicparticipation
 ---
 ## Play 11: Use Data to Drive Decision Making
 

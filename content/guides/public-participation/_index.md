@@ -4,7 +4,6 @@ title: "U. S. Public Participation Playbook"
 deck: ""
 summary: 
 guide: public-participation
-guidenav: public-participation
 aliases:
 
 ---
