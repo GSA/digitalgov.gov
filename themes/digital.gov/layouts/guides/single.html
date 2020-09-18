@@ -11,7 +11,6 @@
 
         <div class="grid-col-12 tablet-lg:grid-col-2" data-edit-this="{{- .Path -}}">
           {{- partial "core/guides/guide-nav" . -}}
-          {{- partial "core/guides/guide-prev-next" . -}}
         </div>
 
         <div class="grid-col-12 tablet-lg:grid-col-8">
@@ -29,6 +28,7 @@
 
             {{ .Content }}
 
+            {{- partial "core/guides/guide-prev-next" . -}}
           </div>
 
         </div>
