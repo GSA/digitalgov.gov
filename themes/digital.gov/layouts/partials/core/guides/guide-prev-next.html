@@ -9,7 +9,7 @@
   {{- $prev_item := 0 -}}
   {{- $point_item := 0 -}}
 
-  <ul class="guide-prev-next usa-button-group">
+  <div class="guide-prev-next grid-row">
     {{- if $guide_data.nav -}}
       {{- range $guide_data.nav -}}
         {{- $item := . -}}
@@ -23,20 +23,15 @@
           {{- $prev_page := $.Site.GetPage $prev_item.path -}}
 
           {{- if eq $current_url $point_page.Permalink  -}}
-
-            <li class="usa-button-group__item prev-item">
-              <a class="usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
-                Previous
-              </a>
-            </li>
+            <a class="prev-item usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
+              Previous
+            </a>
           {{- end -}}
 
           {{- if eq $current_url $prev_page.Permalink  -}}
-            <li class="usa-button-group__item margin-left-auto next-item">
-              <a class="usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
-                Next
-              </a>
-            </li>
+            <a class="next-item usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
+              Next
+            </a>
           {{- end -}}
 
         {{- end -}}
@@ -54,19 +49,15 @@
               {{- $prev_page := $.Site.GetPage $prev_item.path -}}
 
               {{- if eq $current_url $point_page.Permalink  -}}
-                <li class="usa-button-group__item prev-item">
-                  <a class="usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
-                    Previous
-                  </a>
-                </li>
+                <a class="prev-item usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
+                  Previous
+                </a>
               {{- end -}}
 
               {{- if eq $current_url $prev_page.Permalink  -}}
-                <li class="usa-button-group__item margin-left-auto next-item">
-                  <a class="usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
-                    Next
-                  </a>
-                </li>
+                <a class="next-item usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
+                  Next
+                </a>
               {{- end -}}
             {{- end -}}
 
@@ -83,19 +74,15 @@
                   {{- $prev_page := $.Site.GetPage $prev_item.path -}}
 
                   {{- if eq $current_url $point_page.Permalink  -}}
-                    <li class="usa-button-group__item prev-item">
-                      <a class="usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
-                        Previous
-                      </a>
-                    </li>
+                    <a class="prev-item usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
+                      Previous
+                    </a>
                   {{- end -}}
 
                   {{- if eq $current_url $prev_page.Permalink  -}}
-                    <li class="usa-button-group__item next-item">
-                      <a class="usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
-                        Next
-                      </a>
-                    </li>
+                    <a class="next-item usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
+                      Next
+                    </a>
                   {{- end -}}
                 {{- end -}}
               {{- end -}}
@@ -118,44 +105,34 @@
 
           {{- if eq $current_page.Kind "section" -}}
             {{- if (eq $prev_item 0) -}}
-
-              <li class="usa-button-group__item margin-left-auto next-item">
-                <a class="usa-button" href="{{- $point_item.Permalink | relURL -}}" title="{{- $point_item.Title -}}">
-                  Next
-                </a>
-              </li>
+              <a class="next-item usa-button" href="{{- $point_item.Permalink | relURL -}}" title="{{- $point_item.Title -}}">
+                Next
+              </a>
             {{- end -}}
           {{- end -}}
 
           {{- if eq $current_url $point_item.Permalink  -}}
             {{- if not (eq $prev_item 0) -}}
-              <li class="usa-button-group__item prev-item">
-                <a class="usa-button usa-button--outline" href="{{- $prev_item.Permalink | relURL -}}" title="{{- $prev_item.Title -}}">
-                  Previous
-                </a>
-              </li>
+              <a class="prev-item usa-button usa-button--outline" href="{{- $prev_item.Permalink | relURL -}}" title="{{- $prev_item.Title -}}">
+                Previous
+              </a>
             {{- else -}}
-              <li class="usa-button-group__item prev-item">
-                <a class="usa-button usa-button--outline" href="{{- $current_page.CurrentSection.Permalink | relURL -}}" title="Overview">
-                  Previous
-                </a>
-              </li>
+              <a class="prev-item usa-button usa-button--outline" href="{{- $current_page.CurrentSection.Permalink | relURL -}}" title="Overview">
+                Previous
+              </a>
             {{- end -}}
           {{- end -}}
 
           {{- if not (eq $prev_item 0) -}}
             {{- if eq $current_url $prev_item.Permalink  -}}
-
-              <li class="usa-button-group__item margin-left-auto next-item">
-                <a class="usa-button" href="{{- $point_item.Permalink | relURL -}}" title="{{- $point_item.Title -}}">
-                  Next
-                </a>
-              </li>
+              <a class="next-item usa-button" href="{{- $point_item.Permalink | relURL -}}" title="{{- $point_item.Title -}}">
+                Next
+              </a>
             {{- end -}}
           {{- end -}}
 
         {{- end -}}
       {{- end -}}
     {{- end -}}
-  </ul>
+  </div>
 {{- end -}}

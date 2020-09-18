@@ -1,10 +1,4 @@
 .guide-prev-next {
-    @include u-display('none');
-	@include at-media('tablet-lg') {
-		@include u-display('block');
-    }
-    
-    background-color: red;
 	.next-item {
         margin-left: auto;
     }
