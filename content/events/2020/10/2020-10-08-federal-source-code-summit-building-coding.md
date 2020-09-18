@@ -52,7 +52,7 @@ The U.S. government spends billions of dollars annually on information technolog
 
 This summit includes success stories in the U.S. and abroad with source code and OSS, and participants will discuss next steps for continuing to build communities focused on OSS.
 
-*Note: This summit is scheduled to be both in-person and virtual, however it may ultimately be all virtual pending government directed social distancing guidelines. Attendees will be notified of updates closer to the date of the event.*
+*Note: This summit will be virtual.*
 <br><br>
 
 ---
@@ -61,21 +61,21 @@ This summit includes success stories in the U.S. and abroad with source code and
 
 *Speaker confirmation pending agency approval.*
 
-**8:30 - 9:00am** Check-in to pick up badge
+**9:00 - 9:10am** Welcome & kick-off by Nicole Williams, Code.gov Communications Director, General Services Administration
 
-**9:00 - 9:15am** Welcome kick-off
+**9:10 - 9:15am** Welcome by Karen Trebon, Chief of Staff for TTS Solutions, General Services Administration
 
 **9:15 - 9:35am** Summit Keynote 
 
-**9:45 - 10:15am** Fireside Chat with International Governments  
+**9:45 - 10:15am** Chat with International Governments  
 
 - *Leonardo Favario*, Department for the Digital Transformation, Italian Government  
-- UK Government - *TBD*  
+- Israeli Government - *TBD*  
 - Canadian Government - *TBD*
 
 **10:20 - 10:50am** Federal Source Code Study Results by *Joseph Castle*, Product Owner & Front-End Engineer, Code.gov
 
-**10:50 - 11:00am** Break for coffee and networking
+**10:50 - 11:00am** Coffee and stretch break
 
 **11:00 - 11:30am** Policy Implementation Panel  
 
@@ -98,7 +98,9 @@ This summit includes success stories in the U.S. and abroad with source code and
 
 ## Speakers
 
-**Joseph Castle** is the Product Owner & Front-End Engineer of Code.gov where he is responsible for maintaining the Code.gov website and overseeing federal agency implementation of the White House’s Federal Source Code Policy. Dr. Castle earned his PhD from Virginia Tech and his dissertation focused on OSS publication in the federal sector. He served in the Obama Administration, is a U.S. Army veteran, and a Fed100 recipient.
+**Joseph Castle** is the Product Manager & Front-End Engineer of Code.gov where he is responsible for maintaining the [Code.gov website](https://code.gov) and overseeing federal agency implementation of the White House’s [Federal Source Code Policy](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf). Dr. Castle earned his PhD from Virginia Tech and his [dissertation](https://github.com/jcastle/dissertation_publishingOSS) focused on OSS publication in the federal sector. He served in the Obama Administration, is a U.S. Army veteran, and a Fed100 recipient. Socials - [GitHub](https://github.com/jcastle) | [LinkedIn](https://www.linkedin.com/in/jrcastle/) | [Twitter](https://twitter.com/jrcastle_vt). 
+
+**Sara Cope** is the lead engineer and program manager on Digital.gov at GSA. She is passionate about education and diversity in tech and loves helping others level-up their skills. When Sara isn’t immersed in all things web, she can be found playing tabletop games, collecting toys, and enjoying her local park system.
 
 **Leonardo Favario** is the Open Source Project Leader of the Department for the Digital Transformation at the Italian Government. He is responsible for the open source strategy which involves [Developers Italia](https://developers.italia.it/en), the [publiccode.yml specification](https://docs.italia.it/italia/developers-italia/publiccodeyml-en/en/master/index.html),the new National guidelines and the catalogue of opensource software created by public administrations and available for reuse. Previously, he was in charge of the open source strategy of the Digital Transformation Team working in the Italian Presidency of the Council, where he supported the establishment of the new software reuse model following the open source approach. Leonardo is a free and open source software advocate since a very young age. He holds a PhD in computer and control engineering and he has been a Fulbright BEST scholar in California where he also worked on the development of some open source platforms at Stanford University.
 
