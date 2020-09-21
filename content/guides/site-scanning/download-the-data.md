@@ -9,7 +9,7 @@ aliases:
 ---
 There's a complete API available for accessing all of the scan data.  Complete documentation, including API key registration, [can be found on open.gsa.gov](https://open.gsa.gov/api/spotlight-api/), along with an exhaustive links directly to the data.  
 
-## Example Data Links
+**Example Data Links**
 
 The API documents this in more detail, but to give you a sense of what is possible, below is a list of example direct links to the Site Scanning data:  
 
