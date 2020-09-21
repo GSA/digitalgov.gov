@@ -45,7 +45,7 @@ If you've created a report page or other mashup that we haven't listed here, be 
 
 ## Access the data directly
 
-All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/spotlight-api/).  An exhaustive gallery of data links can also be found on the [Spotlight website's data page](https://federalist-05e4f538-b6c2-49a0-a38c-262ad093ad6d.app.cloud.gov/site/18f/spotlight-ui/data).  
+All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/).  A gallery of data links can also be found on the [data page](download-the-data/).  
 
 
 ## Learn more about the program, the scans, and the underlying data
