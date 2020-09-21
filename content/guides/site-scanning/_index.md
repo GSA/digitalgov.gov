@@ -14,8 +14,6 @@ aliases:
   - /sitescans/
 ---
 
-{{< guide-toc >}}
-
 **The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health and best practices. The program is a shared service provided by the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov) (GSA).
 
 **We scan federal agencies for:**
