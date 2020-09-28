@@ -15,10 +15,9 @@
 
         {{- range $guide_data.nav -}}
           {{- $item := . -}}
-          {{$page := strings.TrimSuffix "/"  $item.path}}
-          {{- $page := $.Site.GetPage $page }}
+          {{- $page := $.Site.GetPage $item.path }}
           <li class="usa-sidenav__item">
-            <a class="{{- if eq $current_url $page.Permalink  -}}usa-current{{- end -}}" href="{{$page.Permalink}}" title="{{- $item.title -}}">
+            <a class="{{- if eq $current_url $page.Permalink  -}}usa-current{{- end -}}" href="{{- $page.Permalink -}}" title="{{- $item.title -}}">
               {{- $item.title }}
               {{ if $item.subnav -}}<span class="arrow-right"></span>{{- end -}}
             </a>
