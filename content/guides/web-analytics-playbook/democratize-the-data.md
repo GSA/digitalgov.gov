@@ -6,8 +6,6 @@ summary: ""
 guide: web-analytics-playbook
 aliases:
 ---
-## Democratize the data
-
 Data democratization means breaking down barriers to information. Don’t force stakeholders to request data from a single data owner. Allow relevant parties access to data—and, crucially, empower them with the skills to understand it. That’s the best way to have the team holistically understand what success means for the project.
 
 Checklist:

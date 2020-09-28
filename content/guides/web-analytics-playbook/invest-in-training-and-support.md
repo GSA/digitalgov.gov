@@ -7,8 +7,6 @@ guide: web-analytics-playbook
 aliases:
 
 ---
-## Invest in training and support
-
 Train team members to decipher the analytics data. It’s good for stakeholders to have direct access to data. It’s a nightmare when reports are misinterpreted or the same data are interpreted different ways because team members haven’t been trained. Take the time and effort to make sure stakeholders can come to reliable conclusions.
 
 Checklist:
