@@ -1,4 +1,5 @@
 showNextPrevious: true
+showReadTime: true
 nav:
 - title  : 'Overview'
   path   : '/guides/mobile-principles/_index.md'
