@@ -17,7 +17,7 @@ Use these plays to help strategize how your team can most effectively use web an
 1.  [Create a foundation for your strategy]({{< ref "create-a-foundation-for-your-strategy" >}})
 2.  [Commit to action]({{< ref "commit-to-action" >}})
 3.  [Implement wisely]({{< ref "implement-wisely" >}})
-4.  [Configure your tool’s settings]({{< ref "configure-your-tools-settings-carefully" >}}) carefully
+4.  [Configure your tool’s settings carefully]({{< ref "configure-your-tools-settings-carefully" >}})
 5.  [Know what you’re looking for]({{< ref "know-what-youre-looking-for" >}})
 6.  [Democratize the data]({{< ref "democratize-the-data" >}})
 7.  [Invest in training and support]({{< ref "invest-in-training-and-support" >}})
