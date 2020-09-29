@@ -23,6 +23,8 @@ authors:
 slug: a-fresh-start-with-devops-maybe
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+# YouTube ID
+youtube_id: G0mESPK2RzU
 ---
 When you define ‘legacy’ as applications or systems which are less than five years old, adopting a DevOps way of working should offer an organization a fresh start. However, beginning with a blank slate does not mean that integrating the philosophy is without challenges.
 
