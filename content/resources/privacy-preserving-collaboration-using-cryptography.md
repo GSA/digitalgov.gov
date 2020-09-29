@@ -41,4 +41,4 @@ MIT Lincoln Laboratory has used the RAMP framework to develop MPC for privacy-pr
 
 For the [DARPA Brandeis program](https://www.darpa.mil/program/brandeis), MIT Lincoln Laboratory also prototyped MPC for network defense analytics to allow organizations to perform distributed threat detection. In ongoing and future work, MIT Lincoln Laboratory is leveraging the RAMP framework to develop MPC solutions for new use cases and mission areas and plans to open-source the framework.
 
-For more information, please visit Dr. Emily Shen’s May 2020 [Digital.gov presentation](https://digital.gov/event/2020/05/05/dr-emily-shen-on-secure/).
+For more information, please [watch Dr. Emily Shen's May 2020 presentation here on Digital.gov](https://digital.gov/event/2020/05/05/dr-emily-shen-on-secure/).
