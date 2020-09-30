@@ -8,8 +8,8 @@ guide: rpa
 ## RPA Internal Controls
 
 ### Team
-- Cory Nelson
-- Renatta Barnett
+- Renata Bartlett
+- Corey Nelson
 - Robin Kane
 - William Bagayoko *check*
 
