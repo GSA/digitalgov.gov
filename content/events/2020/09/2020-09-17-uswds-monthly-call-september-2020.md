@@ -22,6 +22,8 @@ authors:
   - james-mejia
 slug: uswds-monthly-call-september-2020
 # zoom, youtube_live, adobe_connect, google
+# YouTube ID
+youtube_id: YKT09mZxQZA
 event_platform: zoom
 youtube_id: null
 weight: 0
