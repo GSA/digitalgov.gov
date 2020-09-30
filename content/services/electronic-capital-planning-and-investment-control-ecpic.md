@@ -1,6 +1,6 @@
 ---
 title: 'Folio'
-summary: "Folio is a web-based, government-owned fee-for-service technology solution that federal agencies use to support their internal Portfolio Management, IT Capital Planning, and IT Governance processes to meet their external reporting requirements to the Office of Management and Budget (OMB). The application was established using three distinct phases: Vision, Design, and Develop."
+summary: "Folio is a web-based, government-owned fee-for-service technology solution that federal agencies use to support their internal Portfolio Management, IT Capital Planning, and IT Governance processes to meet their external reporting requirements to the Office of Management and Budget (OMB)."
 contact: folio.pmo@gsa.gov
 source: "digitalgov"
 logo: 'digitalgov'
@@ -56,7 +56,7 @@ The Folio application automates capital planning and portfolio management proces
 
 ## Frequently Asked Questions
 
-Below lists Frequently Asked Questions (FAQs) asked during demonstrations of the Folio software. 
+Below lists Frequently Asked Questions (FAQs) asked during demonstrations of the Folio software.
 
 **Why did you modernize to Folio?**
 
@@ -64,7 +64,7 @@ Modernizing to Folio eliminated the pains of maintaining a legacy eCPIC applicat
 
 **How was Folio created?**
 
-Folio was created in three phases: **Vision**, **Design**, and **Develop**. The Folio lifecycle incorporated key modernization goals in each phase, a user-centered design approach, and continuous iteration and development. 
+Folio was created in three phases: **Vision**, **Design**, and **Develop**. The Folio lifecycle incorporated key modernization goals in each phase, a user-centered design approach, and continuous iteration and development.
 1. **Vision**: GSA worked with agencies to select key goals and prioritize functionality.
 2. **Design**: We relied on usability testing and Tiger Teams to gather and incorporate frequent user feedback.
 3. **Develop**: We developed (and will continue to develop) in agile iterations to test, adjust, and release Folio functionality on a regular basis.
