@@ -10,7 +10,7 @@ guide: rpa
 ### Team
 - Renata Bartlett -test
 - Corey Nelson
-- Robin Kane
+- Robin Kane is awesome!
 - William Bagayoko *check*
 
 Written by the RPA CoP, *Creating a Robust Controls System for RPA Programs* serves as an addendum to the RPA Playbook. It provides practical insights for federal programs looking to minimize the risks and controls challenges associated with successfully implementing RPA.
