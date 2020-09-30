@@ -6,8 +6,6 @@ summary: ""
 guide: web-analytics-playbook
 aliases:
 ---
-## Implement wisely
-
 In the early days of web analytics, almost all analytics tools had to be deployed via script tags in the site’s HTML. Today, we have many tag management options that allow non-developers to adjust and customize implementations.
 
 Whether you deploy from HTML or use a tag manager, the key word is flexibility. Don’t get locked into not being able to adjust an event tag because you can’t do anything about the once-per-month release cycle.

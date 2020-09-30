@@ -6,8 +6,6 @@ summary: ""
 guide: web-analytics-playbook
 aliases:
 ---
-## Configure your tool’s settings carefully
-
 You’ve probably seen the acronym: GIGO, or Garbage In, Garbage Out. If your data are garbage in (not consistent or incorrect) when it comes into your reporting tool, then no matter how good your strategy or reporting structure, the data will inherently be garbage out as well.
 
  Reports are only as good as the data collection behind them. Configuring your analytics tool is a crucial but often overlooked part of an analytics program’s overall success. Be cautious when you configure your tool to maximize insights and minimize garbage.

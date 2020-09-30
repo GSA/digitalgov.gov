@@ -6,8 +6,6 @@ summary: ""
 guide: web-analytics-playbook
 aliases:
 ---
-## Know what you’re looking for
-
 Although certain data sometimes stand out as surprising or odd, you need to consistently measure your predetermined success metrics to see if you are meeting your KPI targets.
 
 Checklist:

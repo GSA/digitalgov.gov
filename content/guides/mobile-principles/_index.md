@@ -14,14 +14,12 @@ In order to help you comply, we decided it’s time to start reviewing good mobi
 
 We also need your critical thoughts, and comments, about these principles. Join the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) and let us know what you’re doing to work toward mobile-friendliness at your agency.
 
-Let’s get started!
-
 ## The Principles
 
 In 2017, the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) tested the top federal websites most visited on mobile devices (smartphones and tablets). The results of the automated tests, [A Guide to To Creating Mobile-Friendly Web Sites](https://digital.gov/resources/guide-create-mobile-friendly-websites/), showed us that a few common practices greatly affect the usability of a site on a mobile device.
 
 Building on last year’s results, we are back at it again—but this time we examined the automated testing tools themselves. During this review, we found there are eight principles of mobile-friendliness. And if you follow them, they will make your site more usable and user-friendly.
 
-{{< guide-toc >}}
+<!-- As a reminder, **check back each week for another principle** that we distilled from Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), and the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). We will provide a description of the issue, a method to detect the issue, and solutions to eliminate or prevent the issue from appearing your site to help make it more mobile-friendly. -->
 
-As a reminder, **check back each week for another principle** that we distilled from Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), and the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). We will provide a description of the issue, a method to detect the issue, and solutions to eliminate or prevent the issue from appearing your site to help make it more mobile-friendly.
+Let’s get started!

@@ -6,8 +6,6 @@ summary: ""
 guide: web-analytics-playbook
 aliases:
 ---
-## Do it continuously
-
 The analytics cycle never stops. You will always have to assess objectives, targets, and KPIs to make sure you reliably improve. After your team completes a session of measurement, testing, measurement, implementing change, and measurement again, it’s time to start anew. You’ll have new content to analyze, new priorities to shift towards, and new ways to improve the user experience. Welcome!
 
 Checklist:
