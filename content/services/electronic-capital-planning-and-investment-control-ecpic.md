@@ -72,3 +72,7 @@ Folio was created in three phases: **Vision**, **Design**, and **Develop**. The 
 **Does Folio integrate with other tools?**
 
 Yes, to best support the differing needs of each agency, Folio development relies on an API First strategy. Folio’s API Gateway allows agencies to integrate with the IT Dashboard and other external sources, including internal agency tools.
+
+{{< box >}}
+**Interested in learning more about the Folio tool?** Send an email to [folio.pmo@gsa.gov](mailto:folio.pmo@gsa.gov).
+{{< /box >}}
