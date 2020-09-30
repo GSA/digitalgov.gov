@@ -17,4 +17,3 @@ The addendum addresses topics such as:
 -   Controls Objectives and Suggested Artifacts
 
 {{< button href="https://digital.gov/pdf/rpa-playbook-ic-addendum-v1.0.pdf" text=" IC Addendum" >}}
-
