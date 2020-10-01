@@ -41,6 +41,7 @@ You will need to register for each session to receive the correct links and conf
 ## Agenda
 
 **(Tues., October 27)**
+
 **First Session (10:00a.m. - 12:15p.m. ET)**
 
 In this session you will hear from the following speakers :
@@ -58,6 +59,7 @@ In this session you will hear from the following speakers :
 * **3:30pm - 4:15pm : 30 Years of False Criticisms -** Joe Kimble, Professor Emeritus, Western Michigan University
 
 **(Wed., October 28)**
+
 **Third Session (9:30 a.m. – 12:00 p.m. ET)**
 
 In this session you will hear from the following speakers :
