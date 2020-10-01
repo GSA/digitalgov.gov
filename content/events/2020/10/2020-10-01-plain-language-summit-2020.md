@@ -42,6 +42,7 @@ You will need to register for each session to receive the correct links and conf
 
 **(Tues., October 27)**
 **First Session (10:00a.m. - 12:15p.m. ET)**
+
 In this session you will hear from the following speakers :
 
 * **10:00am - 10:30am: Welcome & Annual Report** - Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN) & Katina Stapleton, Co-Chair of PLAIN
@@ -49,6 +50,7 @@ In this session you will hear from the following speakers :
 * **11:15am - 12:15pm : Keynote -** Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
 
 **Second Session (2:00 p.m. – 4:15 p.m. ET)**
+
 In this session you will hear from the following speakers :
 
 * **2:00pm - 3:00pm : Plain Language and Customer Experience -** Martha Dorris, Dorris Consulting International
@@ -57,6 +59,7 @@ In this session you will hear from the following speakers :
 
 **(Wed., October 28)**
 **Third Session (9:30 a.m. – 12:00 p.m. ET)**
+
 In this session you will hear from the following speakers :
 
 * **9:30am - 10:00am: Using plain language can improve your ability to influence, motivate, or mobilize others,** Bethany Blakey
@@ -65,6 +68,7 @@ In this session you will hear from the following speakers :
 * **11:00am - 12:00pm : Sense making lessons from the Private Sector,** Abby Covert, Information Architect & Author
 
 **Fourth Session (2:00 p.m. – 4:15 p.m. ET)**
+
 In this session you will hear from the following speakers :
 
 * **2:00pm - 3:00pm : Training Writers,** Scott Kubie
