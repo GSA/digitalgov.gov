@@ -9,7 +9,7 @@ guide: rpa
 
 ### Team
 - Renata Bartlett -test
-- Corey Nelson
+- Corey Nelson - aqui
 - Robin Kane is awesome!
 - William Bagayoko *check*! 
 
