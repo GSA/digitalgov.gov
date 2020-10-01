@@ -36,34 +36,27 @@ primary_image: plain-language
 ---
 On October 27-28, 2020, the Plain Language Action and Information Network (PLAIN) brings experts to explain how plain language can improve our government communication.
 
-You will need to register for each session to receive the correct links and conference details.
+You will need to register for each session to receive the correct links and conference details. Below is a short description of each session.
 
-Below is a short description of each session.
+## Agenda
 
-## **Agenda**
-
-### **(Tues., October 27)**
-
+**(Tues., October 27)**
 **First Session (10:00a.m. - 12:15p.m. ET)**
-
 In this session you will hear from the following speakers :
 
 * **10:00am - 10:30am: Welcome & Annual Report** - Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN) & Katina Stapleton, Co-Chair of PLAIN
 * **10:35am - 11:15am: Lessons learned from 18f -** Nicole Fenton, Senior Content Strategist, Nava
 * **11:15am - 12:15pm : Keynote -** Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
 
-### Second Session (2:00 p.m. – 4:15 p.m. ET)
-
+**Second Session (2:00 p.m. – 4:15 p.m. ET)**
 In this session you will hear from the following speakers :
 
-* **2:00pm - 3:00pm : Plain Language and Customer Experience** - Martha Dorris, Dorris Consulting International
+* **2:00pm - 3:00pm : Plain Language and Customer Experience -** Martha Dorris, Dorris Consulting International
 * **3:00pm - 3:30pm : International Plain Language Standards -** Annetta Cheek
 * **3:30pm - 4:15pm : 30 Years of False Criticisms -** Joe Kimble, Professor Emeritus, Western Michigan University
 
-## (Wed., October 28)
-
-### Third Session (9:30 a.m. – 12:00 p.m. ET)
-
+**(Wed., October 28)**
+**Third Session (9:30 a.m. – 12:00 p.m. ET)**
 In this session you will hear from the following speakers :
 
 * **9:30am - 10:00am: Using plain language can improve your ability to influence, motivate, or mobilize others,** Bethany Blakey
@@ -71,13 +64,12 @@ In this session you will hear from the following speakers :
 * **10:00am - 11:00am: Content Strategy -** Ginny Redish, Redish & Associates
 * **11:00am - 12:00pm : Sense making lessons from the Private Sector,** Abby Covert, Information Architect & Author
 
-### Second Session (2:00 p.m. – 4:15 p.m. ET)
-
+**Fourth Session (2:00 p.m. – 4:15 p.m. ET)**
 In this session you will hear from the following speakers :
 
 * **2:00pm - 3:00pm : Training Writers,** Scott Kubie
 * **3:00pm - 3:30pm : Plain Language,** Becky Spurbeck, Content Strategist U.S. Bank
 
-\---
+---
 
 *Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.*
