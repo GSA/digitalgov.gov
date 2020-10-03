@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - product-management
-  - ux
+  - user-experience
   - FCN
   - mobile
 ---
@@ -17,7 +17,7 @@ topics:
 
 [{{< legacy-img src="2013/11/man-with-cat-in-lap-250x184.jpg" alt="Man with cat in lap working on a tablet" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/man-with-cat-in-lap.jpg) 
 
-<p dir="ltr">
+<p>
   It’s simple—you’re the technical expert; you know the topic inside out, so of course you can easily explain it to a captive audience. Right? Not always.
 </p>
 
@@ -31,23 +31,23 @@ A critical part of the pilot phase has been ensuring that all of the participant
 
 As the communications lead on the project, I learned five valuable lessons in communicating technical information to a largely nontechnical audience:
 
-  1. <p dir="ltr">
+  1. <p>
       Be sure you can articulate your communications goals. We continuously go back to answer the question “What are we trying to accomplish?” It is a balancing act of trying to keep our internal team focused on the big picture communication goals while keeping the technical details in plain English to be understood by our nontechnical audiences. The critical piece is keeping conversations about communications focused on the big picture rather than getting stuck in the weeds regarding the technology’s functionality. Being comfortable with our communications end-goal allows us to keep everyone internally on the same page.
     </p>
 
-  2. <p dir="ltr">
+  2. <p>
       Know your audience. We don’t mean identifying stakeholders. We mean…Know Them! What makes them tick! Understand their comfort level with technology. How do they prefer to receive news and information, when is the best time to communicate with them and why are they involved with your program? At VA, we work directly with our Caregiver Support team, which is responsible for knowing our caregivers and their needs. They have helped us identify tone, style and frequency of the messages being disseminated to our caregivers and other audiences.
     </p>
 
-  3. [{{< legacy-img src="2013/11/care4-caregiver-186x250.jpg" alt="care4 caregiver" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/care4-caregiver.jpg) <p dir="ltr">
+  3. [{{< legacy-img src="2013/11/care4-caregiver-186x250.jpg" alt="care4 caregiver" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/care4-caregiver.jpg) <p>
       Structure your messages. Some communicators use message maps and others use message boxes.  We structured messages in buckets so we could address our internal and external stakeholders. Our buckets include Vision, Value, Need to Know, and Calls to Action. This approach allows us to work from the same template and, as new apps are developed, think through—What is most valuable to veterans and their caregivers as well as health care teams.
     </p>
 
-  4. <p dir="ltr">
+  4. <p>
       What’s in it for me. Sometimes it’s easy to lose sight of the larger goal amidst the arduous vetting and approvals of what we as communicators do in the federal government. Making sure that every message is associated with a value to veterans, caregivers or clinicians helped us focus on the essential components.
     </p>
 
-  5. <p dir="ltr">
+  5. <p>
       Be responsive. Ours was a pilot program and issues pop up. As they do, we work with our IT team to minimize the impact. We inform our help desk, update our website and develop easy-to-understand communications translating the current IT challenges and providing solutions as they are available.
     </p>
 

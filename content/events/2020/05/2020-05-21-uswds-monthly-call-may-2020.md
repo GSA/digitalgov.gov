@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/05/uswds-monthly-call-may-2020
+# View this page at https://digital.gov/event/2020/05/uswds-monthly-call-cards-forms
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: uswds-monthly-call-may-2020
 title: "USWDS Monthly Call - Cards, Forms, and Data Visualizations"
@@ -7,21 +7,27 @@ deck: "U.S. Web Design System Product Lead, Dan Williams, and team talked about 
 summary: "The May 2020 USWDS monthly call revisited the design system’s card and forms components. Speakers also paid special attention to data visualization."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
+registration_url: 
+captions: 
 
 # start date
-date: 2020-05-21 14:30:00 -0500
+date: 2020-05-21 15:30:00 -0500
 
 # end date
-end_date: 2020-05-21 15:30:00 -0500
+end_date: 2020-05-21 16:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - uswds
-  - ux
+  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors: 
+  - ben-judy
   - dan-williams
+  - james-mejia
+  - jared-cunha
+  - william-bagayoko
 
 # YouTube ID
 youtube_id: kP-9tJFm3Ag
@@ -29,8 +35,12 @@ youtube_id: kP-9tJFm3Ag
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
 
-# Make it better ♥
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
+# Make it better ♥
 ---
 
 {{< img-right src="uswds-logo" >}}

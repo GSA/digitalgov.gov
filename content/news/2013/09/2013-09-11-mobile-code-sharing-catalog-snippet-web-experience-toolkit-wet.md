@@ -12,19 +12,19 @@ topics:
   - mobile-gov
 ---
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/codesharing.png"><img class="alignright size-full wp-image-101822" alt="The same computer code shown on a smartphone screen, a tablet screen and a desktop screen" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/codesharing.png" width="460" height="351" /></a>Looking to jumpstart your mobile website development? Check out the <a href="http://gsa.github.io/Mobile-Code-Catalog/web_html.html#modular">Web Experience Toolkit (WET) available on the Mobile Code Sharing Catalog</a>. The toolkit includes reusable components for building and maintaining innovative Web sites that are accessible, usable, and interoperable.
 </p>
 
-<p dir="ltr">
+<p>
   Developed as a collaborative open source project by the <a href="http://www.tbs-sct.gc.ca/ws-nw/index-eng.asp">Government of Canada</a>, the WET has reusable components that are open source software and free for use by departments and external Web communities. The toolkit complies with the new <a href="http://www.w3.org/TR/WCAG20/">Standards on Web Accessibility</a> and <a href="http://wet-boew.github.io/wet-boew/index-eng.html">Web Usability</a>; and will also ease compliance with the Standard on Web Interoperability.
 </p>
 
-<p dir="ltr">
+<p>
   The Web Experience Toolkit is just one of the many pieces of open source code available on the<a href="http://gsa.github.io/Mobile-Code-Catalog/index.html"> Mobile Code Sharing Catalog</a> hosted on <a href="https://github.com/">GitHub</a>.
 </p>
 
-<p dir="ltr">
+<p>
   <em>The Mobile Code Sharing Catalog was developed as part of the <a title="Mobile Application Development Program" href="https://digital.gov/resources/mobile-application-development-program/">Mobile Application Development Program</a>. Developers can find and SHARE source code for native and web projects from a variety of sources.</em>
 </p>
 

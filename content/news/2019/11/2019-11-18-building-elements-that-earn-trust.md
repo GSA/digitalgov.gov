@@ -8,10 +8,14 @@ deck: "Let’s talk about the elements that go into building trust with people w
 summary: 'This week, we’d like to talk about trust, and the elements that go into building trust with people who are using our services&#46;'
 authors:
   - jeremyzilar
+  - ammie-farraj-feijoo
+  - dan-williams
+
 topics:
   - product-management
   - 21st-century-idea
   - this-weeks-idea
+
 featured_image:
   uid: this-weeks-idea-card-wk3
   alt: ''
@@ -22,7 +26,7 @@ featured_image:
 
 {{< img-right src="this-weeks-idea-icon-wk3" >}}
 
-Welcome to this week’s idea, where we explain one essential topic around [**21st Century IDEA**](https://digital.gov/guides/21st-century-idea/) and give you the resources and tools to start making focused changes to your digital products.
+Welcome to this week’s idea, where we explain one essential topic around [**21st Century IDEA**](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) and give you the resources and tools to start making focused changes to your digital products.
 
 This week, we’d like to talk about [trust](https://www.merriam-webster.com/dictionary/trust), and the key elements that go into building that trust with people who are using our services.
 

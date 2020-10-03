@@ -17,6 +17,13 @@ date: 2020-06-18 13:30:00 -0500
 # end date
 end_date: 2020-06-18 14:30:00 -0500
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - multilingual
+  - census
+  - multilingual-community
+  - united-states-census-bureau
+
 # see all authors at https://digital.gov/authors
 authors: 
   - jason-kopp
@@ -28,7 +35,7 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id: feAX-G2OBoQ
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -480,7 +480,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
   </div>
 
   <div class="one-half">
-    <strong>Department of Defense</strong><br /> <a title="Army.mil Test Results" href="{{< ref "2013-06-19-army-mil-usability-case-study.md" >}}">Army.mil &#8211; Usability Case Study</a></p> 
+    <strong>Department of Defense</strong><br /> <a title="Army.mil Test Results" href="{{< ref "2013-06-19-army-mil-usability-case-study.md" >}}">Army.mil &#8211; Usability Case Study</a></p>
 
     <ul>
       <li>

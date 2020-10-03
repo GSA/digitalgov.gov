@@ -23,7 +23,7 @@ event_platform:
 # see all topics at https://digital.gov/topics
 topics:
   - metrics
-  - ux
+  - user-experience
   - analytics
   - dap
   - digital-analytics-program

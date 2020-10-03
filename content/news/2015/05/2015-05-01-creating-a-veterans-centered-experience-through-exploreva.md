@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - user-testing-and-research
-  - ux
   - a-b-testing
   - content-strategy
   - social-media

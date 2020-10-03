@@ -7,7 +7,6 @@ authors:
   - ashley-braun
 topics:
   - user-testing-and-research
-  - ux
   - digitalgov-user-experience-program
   - national-oceanic-and-atmospheric-administration
   - NOAA

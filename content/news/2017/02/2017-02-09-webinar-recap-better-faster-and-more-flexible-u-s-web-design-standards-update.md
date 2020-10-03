@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - product-management
-  - ux
+  - user-experience
   - recaps
   - uswds
 ---

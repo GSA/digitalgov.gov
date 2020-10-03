@@ -6,8 +6,7 @@ summary: 'When users interact with a website to find information, it is importan
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
-  - ux
+  - user-testing-and-research  
   - digitalgov-user-experience-program
   - usability
   - usability-case-study

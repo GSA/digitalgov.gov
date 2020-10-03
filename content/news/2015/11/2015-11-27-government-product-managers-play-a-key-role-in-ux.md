@@ -16,14 +16,14 @@ topics:
   - personas
   - united-states-office-of-personnel-management
   - user-experience
-  - ux
+  
 ---
 
 Government product managers sit at the intersection of three circles—business, design and technology. We play a key role in [user experience (UX)]({{< ref "communities/user-experience.md" >}}), because we are tasked with understanding users to build a product that is desirable and viable. This product could be a paper or online form, a website or a mobile app. {{< legacy-img src="2015/11/600-x-400-Three-gear-to-place-concepts-with-clipping-path-NUMAX3D-iStock-Thinkstock-187787658.jpg" alt="Three intersecting gears." caption="" >}} 
 
 **Product** management is different from **project** management. Product managers are the defenders and voice of the product&#8217;s customers, while a project manager is more concerned with balancing costs, scope and schedule issues.
 
-I recently completed a Product Development and Management class. Here are half a dozen things I learned and you need to know if you are a beginner to product management and its role in [UX]({{< ref "/topics/ux" >}}):
+I recently completed a Product Development and Management class. Here are half a dozen things I learned and you need to know if you are a beginner to product management and its role in [UX]({{< ref "/topics/user-experience" >}}):
 
   1. **Product managers understand user needs through interviews.** For example, if the product is a website redesign, ask who will be using the new site? How and where do they access it now? Does the existing site meet their needs, in at least some ways? In what ways does it not? Interview questions should be open-ended as much as possible.
   2. **Identifying user needs is important, but equally important is a product manager&#8217;s ability to translate those into features.** Products are made up of little features, and product managers use user stories as they work with developers to build features. A [user story](https://help.rallydev.com/writing-great-user-story) is a sentence that describes the need and the benefit. It can generally be completed in one sprint and takes this form: As a \_, I want \_, so I can _. Notice that it doesn&#8217;t say HOW to build the feature. The developers may have a better idea than you, so let them be creative. Product managers work with developers to prioritize stories and features.

@@ -1,24 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2019/04/an-introduction-us-data-federation
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: an-introduction-us-data-federation
-title: 'An Introduction to the U&#46;S&#46; Data Federation'
-summary: 'Find out how the U&#46;S&#46; Data Federation’s work can help you&#46; The team will give an introduction to the problems the U&#46;S&#46; Data Federation seeks to address, describe its approach, and share its vision for the future of the initiative&#46; '
-featured_image:
-  uid: data-federation-banner
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-04-17 13:00:00 -0500
-end_date: 2019-04-17 13:30:00 -0500
-event_organizer: DigitalGov University
-host: U.S. Data Federation
+title: "An Introduction to the U.S. Data Federation"
+deck: ""
+summary: "Find out how the U.S. Data Federation’s work can help you. The team will give an introduction to the problems the U.S. Data Federation seeks to address, describe its approach, and share its vision for the future of the initiative. "
+host: "U.S. Data Federation"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/an-introduction-to-the-us-data-federation-registration-58856885529
-youtube_id: r4XUu2MLrDo
+captions: 
 
-topics:
+# start date
+date: 2019-04-17 14:00:00 -0500
+
+# end date
+end_date: 2019-04-17 14:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - api
   - data
   - open-source
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - amy-mok
+  - julia-lindpaintner
+  - pashlock
+
+# YouTube ID
+youtube_id: r4XUu2MLrDo
+
+# Primary Image (for social media)
+primary_image: "data-federation-banner"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 {{< img-right src="data-federation-logo" >}}

@@ -53,12 +53,5 @@ The AI CoP will bring together federal employees to:
 - facilitate the sharing of best practices, use cases, and lessons learned, and
 - advance and share tools, playbooks success stories with a community of interested professionals.
 
-## Upcoming Meetings
- - [**April AI Community of Practice Meeting**](https://digital.gov/event/2020/04/14/how-utilize-open-source-jupyter-project/) - AI Tech Workshop: How to Utilize the Open Source Jupyter Project for your Research.
-
-## Past Meetings
- - [**March AI Community of Practice Meeting**](https://digital.gov/event/2020/03/25/navigating-acquisition-procurement-for-artificial-intelligence/) - Navigating Acquisition and Procurement for Artificial Intelligence and Advanced Data Analytics.
- - [**February AI Community of Practice Meeting**](https://youtu.be/iFHPS7ieheQ) - HHS Data Insights Initiative. A data sharing initiative that lays the foundation for the use of AI across agencies.
-
- 
-
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

@@ -10,6 +10,10 @@ summary: "Provides resources and collaborative opportunities to facilitate the u
 # What source published this?
 source: 'challengegov'
 
+# What is the URL for this product or service?
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+source_url: "https://challenge.gov/"
+
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
@@ -43,10 +47,10 @@ Challenges and prize competitions are proven methods to drive innovation in the 
 
 Today, incentivized and open competition has become a standard tool for federal agencies to solve mission-centric problems—whether technical, scientific, or creative. Agencies have used challenges to tackle a variety of issues, including:
 
-  * Building resiliency in communities damaged by natural disasters
-  * Raising literacy levels for low-income students
-  * Jumpstarting technology development and startups in the energy sector
-  * Creating environmentally friendly and economically feasible products to recycle nutrients in livestock manure on America’s farms
+* Building resiliency in communities damaged by natural disasters
+* Raising literacy levels for low-income students
+* Jumpstarting technology development and startups in the energy sector
+* Creating environmentally friendly and economically feasible products to recycle nutrients in livestock manure on America’s farms
 
 The links on this page contain a variety of resources that will help agencies and their partners better understand and navigate the process of running a challenge.
 
@@ -54,10 +58,10 @@ The links on this page contain a variety of resources that will help agencies an
 
 Well-designed challenges and prize competitions allow agencies to:
 
-  * Pay only for success and establish an ambitious goal without having to predict which team or approach is most likely to succeed;
-  * Reach beyond the “usual suspects” to increase the number of solvers tackling a problem and to identify novel approaches without great risk;
-  * Bring out-of-discipline perspectives to bear; and
-  * Increase cost-effectiveness to maximize the return on taxpayer dollars.
+* Pay only for success and establish an ambitious goal without having to predict which team or approach is most likely to succeed;
+* Reach beyond the “usual suspects” to increase the number of solvers tackling a problem and to identify novel approaches without great risk;
+* Bring out-of-discipline perspectives to bear; and
+* Increase cost-effectiveness to maximize the return on taxpayer dollars.
 
 ## Policy and Guidance
 

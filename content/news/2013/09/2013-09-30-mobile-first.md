@@ -8,7 +8,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - ux
+  - user-experience
   - mobile
   - mobile-first
   - recaps

@@ -1,0 +1,93 @@
+version: 2.1
+
+orbs:
+  hugo: circleci/hugo@0.5.2
+  node: circleci/node@3.0.1
+
+defaults: &defaults
+  executor:
+    name: node/default
+    tag: "10.21.0"
+
+jobs:
+  build:
+    <<: *defaults
+    steps:
+      - checkout
+      - hugo/install:
+          version: "0.74.3"
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
+      - run:
+          name: Build assets
+          command: npm run federalist
+      - run:
+          name: Build with Hugo
+          command: HUGO_ENV=production hugo -v -s . -d public
+      - persist_to_workspace:
+          paths:
+            - node_modules
+            - public
+          root: .
+  html-proofer:
+    executor:
+      name: hugo/cibuilds
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: "Test generated website with HTML Proofer."
+          command: "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external || exit 0"
+  test:
+    <<: *defaults
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: Lint JSON
+          command: npm run lint:json
+      - run:
+          name: Lint Markdown
+          command: npm run lint:markdown
+  process:
+    <<: *defaults
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: Install Gulp
+          command: sudo npm install gulp-cli -g
+      - run:
+          name: Image Process
+          command: gulp img
+      - add_ssh_keys:
+          fingerprints:
+            - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
+      - run:
+          name: Commit to GitHub
+          command: |
+            git config user.email "digitalgov@gsa.gov"
+            git config user.name "CircleCI"
+            git add content/images/_inbox data/images static/img/proxy
+            git commit -m "Images processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
+
+workflows:
+  build_test_process:
+    jobs:
+      - build
+      - html-proofer:
+          requires:
+            - build
+      - test:
+          requires:
+            - build
+      - process:
+          requires:
+            - html-proofer
+            - test
+          filters:
+            branches:
+              ignore: main

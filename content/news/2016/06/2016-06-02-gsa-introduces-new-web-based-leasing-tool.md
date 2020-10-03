@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - product-management
-  - ux
+  - user-experience
   - gsa
   - us-general-services-administration
   - web-based

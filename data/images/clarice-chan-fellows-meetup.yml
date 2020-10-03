@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/clarice-chan-fellows-meetup.png
+
+# Image shortcode: {{< img src="clarice-chan-fellows-meetup" >}}
+
+date     : 2020-09-08 20:25:14 -0400
+uid      : clarice-chan-fellows-meetup
+width    : 1200
+height   : 630
+format   : png
+credit   : ""
+caption  : ""
+alt      : "In an office filled with people, Clarice speaks with a Coding It Forward Fellow. She is wearing a blue shirt and gestures with her hands as she speaks to the Fellow."

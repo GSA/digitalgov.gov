@@ -11,7 +11,7 @@ last_name: "Kyungae Smith"
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
+# Email — If you include an email address, it will be displayed on your profile page
 email: 
 
 # Bio — keep it under 50 words
@@ -21,10 +21,10 @@ bio: "Caroline Kyungae Smith is a Design Strategist with more than 8 years of ex
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "Executive Office of the President"
+agency_full_name: "Office of Management and Budget"
 
 # Agency Acronym [e.g., GSA]
-agency: "EOP"
+agency: "USDS"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""

@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: cloud-infrastructure-community
 date: 2020-04-30 10:00:00 -0500
-title: "Cloud and Infrastructure Community"
+title: "Cloud and Infrastructure"
 deck: "We connect data center and cloud colleagues to share insights and knowledge."
 summary: "A community for those who support their agency’s IT modernization efforts, and want to learn about application rationalization, data center optimization, and federal cloud computing."
 
@@ -35,7 +35,8 @@ community_list:
 # Make it better ♥
 ---
 ## Who We Are
-The Cloud & Infrastructure Community of Practice (C&I CoP) is chartered under the [Federal CIO Council](https://www.cio.gov/) and governed by an Executive Committee of representatives from both [CFO Act](https://cfo.gov/about/) and small federal agency representatives. GSA’s Data Center and Cloud Optimization Initiative (DCCOI) Program Management Office (PMO) provides logistical support for the CoP in the areas of policy compliance and operational best practices to meet requirements in OMB [M-19-19 (PDF, 2.2 MB, 13 pages](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-19-Data-Centers.pdf) and the federal cloud computing strategy, [Cloud Smart](https://cloud.cio.gov/strategy/). 
+
+The Cloud & Infrastructure Community of Practice (C&I CoP) is chartered under the [Federal CIO Council](https://www.cio.gov/) and governed by an Executive Committee of representatives from both [CFO Act](https://cfo.gov/about/) and small federal agency representatives. GSA’s Data Center and Cloud Optimization Initiative (DCCOI) Program Management Office (PMO) provides logistical support for the CoP in the areas of policy compliance and operational best practices to meet requirements in OMB [M-19-19 (PDF, 2.2 MB, 13 pages](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-19-Data-Centers.pdf) and the federal cloud computing strategy, [Cloud Smart](https://cloud.cio.gov/strategy/).
 
 ## What We Do
 
@@ -52,3 +53,5 @@ We host a monthly conference call and occasional in-person events in Washington,
 
 Learn more at [gsa.gov/dcoi](https://www.gsa.gov/technology/government-it-initiatives/data-center-optimization-initiative-dcoi), and email us at [dccoi@gsa.gov](mailto:dccoi@gsa.gov) if you have questions.
 
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

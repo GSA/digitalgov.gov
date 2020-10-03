@@ -17,10 +17,9 @@ topics:
   - code
   - content
   - mobile
-  - ux
   - accessibility
   - uswds
-  - ux
+  - user-experience
   - accessibility
 
 ---

@@ -23,7 +23,7 @@ topics:
 
 ## What are Audio Descriptions?
 
-<p dir="ltr">
+<p>
   Audio Description, also called descriptive video or video description, is an additional audio track that describes and gives context for essential visual information. Audio Description makes videos and multimedia accessible to people who have &#8220;low vision&#8221; (very poor vision), or who are blind, by capturing what is happening on screen into audible descriptions that are played during natural pauses in the audio track. Here is <a href="http://www.youtube.com/watch?v=BfGYV7dHIbY&list=UURZkbmj75un6xMQo6mjUWyA&index=3&feature=plcp">a video that explains why audio descriptions are important</a> to include.
 </p>
 
@@ -33,7 +33,7 @@ Audio Description is usually delivered as a separate audio track that a person w
 
 Some examples of videos with captions and separate transcripts can be see at the Department of Justice&#8217;s [ADA Video Gallery](http://www.ada.gov//videogallery.htm) and the Department of Veterans Affairs&#8217; [MyCareer@VA Video Gallery](http://www.mycareeratva.va.gov/about/Pages/VideoGallery.aspx).
 
-<p dir="ltr">
+<p>
   There are three types of audio description:
 </p>
 

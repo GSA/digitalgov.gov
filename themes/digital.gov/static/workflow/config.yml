@@ -1,0 +1,904 @@
+# ===========================
+# Netlify CMS
+# https://www.netlifycms.org/docs/
+
+site_url: https://digital.gov
+logo_url: https://digital.gov/logos/digitalgov-logo.png
+
+backend:
+  # Federalist
+  name: github
+  repo: GSA/digitalgov.gov
+  base_url: https://federalistapp.18f.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  use_graphql: true
+  branch: main
+  open_authoring: true
+  squash_merges: true
+
+# Publish Mode
+publish_mode: editorial_workflow
+
+# Localhost Editing
+local_backend:
+  url: http://localhost:8081/api/v1
+
+# Media / Images
+media_folder: "/content/images/_inbox"
+
+# Misc
+slug:
+  clean_accents: true
+
+# Defaults
+defaults: &defaults
+  editor:
+    preview: false
+  create: true
+  delete: false
+  publish: false
+
+editorComponents: &editorComponents
+  editorComponents:
+    - "accordion"
+    - "assetImg"
+    - "box"
+    - "button"
+    - "cardQuote"
+    - "fbVideo"
+    - "footnote"
+    - "imgRight"
+    - "img"
+    - "instagram"
+    - "legacyFile"
+    - "legacyImgRight"
+    - "legacyImg"
+    - "note"
+    - "ref"
+    - "tweet"
+    - "youtube"
+
+# ==============================================
+# Content Collections
+
+collections:
+  # AUTHORS =======================
+  - <<: *defaults
+    name: "authors"
+    label: "Authors"
+    label_singular: "Author"
+    description: "This page will help create a new author profile on Digital.gov"
+    folder: "content/authors"
+    identifier_field: display_name
+    path: "{{slug}}/_index"
+    preview_path: authors/{{display_name}}
+    fields:
+      - label: "Display Name"
+        name: "display_name"
+        widget: "string"
+        hint: "How you prefer to be referred to."
+      - label: "First Name"
+        name: "first_name"
+        widget: "string"
+      - label: "Last Name"
+        name: "last_name"
+        widget: "string"
+      - label: "Pronoun"
+        name: "pronoun"
+        widget: "string"
+        hint: >
+          List your pronoun(s) if you want them displayed alongside your name.
+          If blank, we'll use just your name. Learn more http://mypronouns.org"
+        comment: |-
+          List your pronoun(s) if you want them displayed alongside your name.
+           If blank, we'll use just your name. Learn more http://mypronouns.org
+        required: false
+      - label: "Email"
+        name: "email"
+        widget: "string"
+        hint: "If you include an email address, it will be displayed on your profile page"
+        comment: "If you include an email address, it will be displayed on your profile page"
+        required: false
+      - label: "Bio"
+        name: "bio"
+        widget: "text"
+        hint: "Keep it under 50 words and only one paragraph"
+        comment: "Keep it under 50 words and only one paragraph"
+        required: false
+      - label: "Bio URL"
+        name: "bio_url"
+        widget: "string"
+        hint: >
+          Where can people learn more about your work?
+          Provide a full URL [e.g. 'https://www.example.gov/']
+        comment: |-
+          Where can people learn more about your work?
+           Provide a full URL [e.g. 'https://www.example.gov/']
+        required: false
+      - label: "Agency Full Name"
+        name: "agency_full_name"
+        widget: "string"
+        hint: "e.g. U.S. General Services Administration"
+        comment: "e.g. U.S. General Services Administration"
+        required: false
+      - label: "Agency Acronym"
+        name: "agency"
+        widget: "string"
+        hint: "e.g. GSA"
+        comment: "Agency Acronym [e.g., GSA]"
+        required: false
+      - label: "Location"
+        name: "location"
+        widget: "string"
+        hint: |-
+          Help us show that the federal workforce is not all in the D.C. area.
+          Where in the country do you live in? [e.g. 'New York City' or 'Portland, OR']
+        comment: "Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']"
+        required: false
+      - label: "GitHub ID"
+        name: "github"
+        widget: "string"
+        hint: |-
+          [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
+          Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
+          Learn more about getting a Github account at [URL]
+        comment: |-
+          [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
+           Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
+           Learn more about getting a Github account at [URL]
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
+        required: false
+      - label: "Profile Photo"
+        name: "profile_photo"
+        widget: "select"
+        options: ["github", "digit-light", "digit-dark", "digit-pride"]
+        hint: "See [URL] for a full list of profile photo options"
+        comment: "See [URL] for a full list of profile photo options"
+        required: false
+      - label: "Twitter"
+        name: "twitter"
+        widget: "string"
+        hint: "Your Twitter username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
+        required: false
+      - label: "Facebook"
+        name: "facebook"
+        widget: "string"
+        hint: "Your Facebook username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
+        required: false
+      - label: "Instagram"
+        name: "instagram"
+        widget: "string"
+        hint: "Your Instagram username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
+        required: false
+      - label: "Linkedin"
+        name: "linkedin"
+        widget: "string"
+        hint: "Your Linkedin username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
+        required: false
+      - label: "YouTube"
+        name: "youtube"
+        widget: "string"
+        hint: "Your YouTube username [e.g. 'Digital_Gov']"
+        pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
+        required: false
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+
+  # COMMUNITIES =======================
+  - <<: *defaults
+    name: "communities"
+    label: "Communities"
+    label_singular: "Community"
+    description: "This page will help create a new community on Digital.gov"
+    folder: "content/communities"
+    preview_path: communities/{{slug}}
+    fields:
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+      - label: "Title / Headline"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+      - label: "Deck / Sub-head"
+        name: "deck"
+        widget: "text"
+        hint: |-
+          Think of this as the sentence you'd most like to tweet.
+          Do not repeat the headline. You need to be able to read it outloud in a single breath.
+        required: false
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Topics"
+        name: "topics"
+        widget: "async-select"
+        url: "https://digital.gov/topics/v1/json/"
+        valueField: "slug"
+        displayField: "title"
+        dataKey: "items"
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Community Managers"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["first_name", "last_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Primary Image (for social media)"
+        name: "primary_image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
+        required: false
+      - label: "Page Weight"
+        name: "weight"
+        widget: "number"
+        default: 1
+        valueType: "int"
+        min: 0
+        max: 1
+        step: 1
+        hint: "Controls how this page appears across the site (0 -- hidden, 1 -- visible)"
+        comment: |-
+          Controls how this page appears across the site
+           0 -- hidden
+           1 -- visible
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+        required: false
+      - label: "Community lists"
+        label_singular: Community list
+        name: "community_list"
+        widget: "list"
+        hint: |-
+          Fill out these fields if the community has more than one email group.
+          For example, the group has a federal-only list and an open to the public list.
+          These settings control the \"Join box\" on the community page.
+        comment: "Enter the path of the URL that you want redirected to this page"
+        fields:
+          - label: "Platform"
+            name: "platform"
+            widget: "select"
+            options: ["listserv", "google-group", "slack"]
+            comment: "listserv, google-group, slack"
+          - label: "Group type"
+            name: "type"
+            widget: "select"
+            options: ["public", "government", "government_only"]
+            hint: "Controls how this page appears across the site (public — Open to the public, government — Open to anyone with a .gov or .mil email address, government_only — Open to anyone in government)"
+            comment: |-
+              public — Open to the public
+               government — Open to anyone with a .gov or .mil email address
+               government_only — Open to anyone in government
+          - label: "Subscribe Email"
+            name: "subscribe_email"
+            widget: "string"
+            hint: "e.g. listserv@listserv.gsa.gov"
+            required: false
+          - label: "Subscribe Email Subject"
+            name: "subscribe_email_subject"
+            widget: "string"
+            hint: "e.g. Go Plain"
+            required: false
+          - label: "Subscribe Email Body"
+            name: "subscribe_email_body"
+            widget: "string"
+            required: false
+          - label: "Subscribe Form URL"
+            name: "subscribe_form"
+            widget: "string"
+            hint: "Usually a Google form"
+            required: false
+          - label: "Terms"
+            name: "terms"
+            widget: "string"
+            hint: '"Anyone with a .gov or .mil email address is eligible to join."'
+            required: false
+          - label: "Members"
+            name: "members"
+            widget: "string"
+            hint: "e.g. 543"
+            required: false
+          - label: "Emails per Week"
+            name: "emails_per_week"
+            widget: "string"
+            hint: "e.g. 2.5"
+            required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        required: false
+        <<: *editorComponents
+
+  # EVENTS =======================
+  - <<: *defaults
+    name: "events"
+    label: "Events"
+    label_singular: "Event"
+    description: "This page will help create a new event on Digital.gov"
+    folder: "content/events"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
+    preview_path_date_field: "date"
+    fields:
+      - label: "Event Title"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+      - label: "Deck / Sub-head"
+        name: "deck"
+        widget: "text"
+        hint: |-
+          Think of this as the sentence you'd most like to tweet.
+          Do not repeat the headline. You need to be able to read it outloud in a single breath.
+        required: false
+      - label: "Kicker"
+        name: "kicker"
+        widget: "string"
+        hint: |-
+          Highlight the relevant topic. This displays above the event title on the /events/ page.
+          Should always be included. Use only one or two words.
+        required: false
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Host"
+        name: "host"
+        widget: "string"
+        hint: "e.g. Plain Language Community of Practice"
+        required: false
+      - label: "Event Organizer"
+        name: "event_organizer"
+        widget: "string"
+        default: "Digital.gov"
+      - label: "Registration URL"
+        name: "registration_url"
+        widget: "string"
+        hint: "e.g. https://www.eventbrite.com/..."
+      - label: "Captions URL"
+        name: "captions"
+        widget: "string"
+        hint: "e.g. https://www.captionedtext.com..."
+        required: false
+      - label: "Start Date/Time"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
+      - label: "Topics"
+        name: "topics"
+        widget: "async-select"
+        url: "https://digital.gov/topics/v1/json/"
+        valueField: "slug"
+        displayField: "title"
+        dataKey: "items"
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Presenters (authors)"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["first_name", "last_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Event platform"
+        name: "event_platform"
+        widget: "select"
+        options: ["zoom", "youtube_live", "adobe_connect", "google"]
+        comment: "zoom, youtube_live, adobe_connect, google"
+        required: false
+      - label: "YouTube ID"
+        name: "youtube_id"
+        widget: "string"
+        hint: "e.g. 3FKyVeipMss"
+        required: false
+      - label: "Primary Image (for social media)"
+        name: "primary_image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
+        required: false
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+        required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        required: false
+        <<: *editorComponents
+
+  # NEWS =======================
+  - <<: *defaults
+    name: "news"
+    label: "News"
+    label_singular: "Blog Post"
+    description: "This page will help create a new blog post on Digital.gov"
+    folder: "content/news"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{title}}"
+    preview_path_date_field: "date"
+    fields:
+      - label: "Source Url"
+        name: "source_url"
+        widget: "string"
+        hint: "e.g. https://18f.gsa.gov/2019/04/01/ ..."
+        comment: "Originally published at the following URL"
+        required: false
+      - label: "Source"
+        name: "source"
+        widget: "relation"
+        collection: "sources"
+        searchFields: ["name"]
+        valueField: "slug"
+        displayFields: ["name"]
+        required: false
+      - label: "Short URL"
+        name: "short_url"
+        widget: "string"
+        hint: "Create a short URL: https://go.usa.gov/."
+        required: false
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+      - label: "Kicker"
+        name: "kicker"
+        widget: "string"
+        hint: "Super Short, like one word"
+        required: false
+      - label: "Title / Headline"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+      - label: "Deck / Sub-head"
+        name: "deck"
+        widget: "text"
+        hint: |-
+          Think of this as the sentence you'd most like to tweet.
+          Do not repeat the headline. You need to be able to read it outloud in a single breath.
+        required: false
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Topics"
+        name: "topics"
+        widget: "async-select"
+        url: "https://digital.gov/topics/v1/json/"
+        valueField: "slug"
+        displayField: "title"
+        dataKey: "items"
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["first_name", "last_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Primary Image (for social media)"
+        name: "primary_image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
+        required: false
+      - label: "Page Weight"
+        name: "weight"
+        widget: "number"
+        default: 1
+        valueType: "int"
+        min: 0
+        max: 1
+        step: 1
+        hint: "Controls how this page appears across the site (0 -- hidden, 1 -- visible)"
+        comment: |-
+          Controls how this page appears across the site
+           0 -- hidden
+           1 -- visible
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+        required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        required: false
+        <<: *editorComponents
+
+  # RESOURCES =======================
+  - <<: *defaults
+    name: "resources"
+    label: "Resources"
+    label_singular: "Resource"
+    description: "This page will help create a new resource on Digital.gov"
+    folder: "content/resources"
+    preview_path: resources/{{slug}}
+    fields:
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+      - label: "Source Url"
+        name: "source_url"
+        widget: "string"
+        hint: "e.g. https://18f.gsa.gov/2019/04/01/ ..."
+        comment: "Originally published at the following URL"
+        required: false
+      - label: "Source"
+        name: "source"
+        widget: "relation"
+        collection: "sources"
+        searchFields: ["name"]
+        valueField: "slug"
+        displayFields: ["name"]
+        required: false
+      - label: "Title / Headline"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+      - label: "Deck / Sub-head"
+        name: "deck"
+        widget: "text"
+        hint: |-
+          Think of this as the sentence you'd most like to tweet.
+          Do not repeat the headline. You need to be able to read it outloud in a single breath.
+        required: false
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Topics"
+        name: "topics"
+        widget: "async-select"
+        url: "https://digital.gov/topics/v1/json/"
+        valueField: "slug"
+        displayField: "title"
+        dataKey: "items"
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["display_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Primary Image (for social media)"
+        name: "primary_image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
+        required: false
+      - label: "Page Weight"
+        name: "weight"
+        widget: "number"
+        default: 1
+        valueType: "int"
+        min: 0
+        max: 2
+        step: 1
+        hint: "Controls how this page appears across the site (0 -- hidden, 1 -- visible, 2 -- highlighted)"
+        comment: |-
+          Controls how this page appears across the site
+           0 -- hidden
+           1 -- visible
+           2 -- highlighted
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+        required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        required: false
+        <<: *editorComponents
+
+  # SERVICES =======================
+  - <<: *defaults
+    name: "services"
+    label: "Services"
+    label_singular: "Service"
+    description: "This page will help create a new service on Digital.gov"
+    folder: "content/services"
+    path: "service_{{slug}}"
+    preview_path: services/directory
+    fields:
+      - label: "Name"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+      - label: "Description"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Logo"
+        name: "logo"
+        widget: "string"
+        hint: "Images must be uploaded in the /static/logos/ folder before they can be used here."
+        comment: "Images must be uploaded in the /static/logos/ folder before they can be used here."
+      - label: "Source Url"
+        name: "source_url"
+        widget: "string"
+        hint: "e.g. https://18f.gsa.gov/2019/04/01/ ..."
+        comment: "Originally published at the following URL"
+        required: false
+      - label: "Source"
+        name: "source"
+        widget: "relation"
+        collection: "sources"
+        searchFields: ["name"]
+        valueField: "slug"
+        displayFields: ["name"]
+        required: false
+      - label: "Email Address"
+        name: "contact"
+        widget: "string"
+        hint: "Needs to be an email address!"
+      - label: "Topics"
+        name: "topics"
+        widget: "async-select"
+        url: "https://digital.gov/topics/v1/json/"
+        valueField: "slug"
+        displayField: "title"
+        dataKey: "items"
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["display_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        default: 0
+        valueType: "int"
+        min: 0
+        max: 2
+        step: 1
+        hint: "Controls how this page appears across the site (0 -- hides this service from all pages, but URL is still public, 1 -- will appear on the tools and services page, and all related topic pages, 2 -- will appear as related service (ADs) on blog posts and event pages"
+        comment: |-
+          Controls how this page appears across the site
+           0 -- hides this service from all pages, but URL is still public
+           1 -- will appear on the tools and services page, and all related topic pages
+           2 -- will appear as related service (ADs) on blog posts and event pages
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+        required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        required: false
+        <<: *editorComponents
+
+  # SOURCES =======================
+  - <<: *defaults
+    name: "sources"
+    label: "Sources"
+    label_singular: "Source"
+    description: "Sources are the sites from our community that we have pointed to or re-published from."
+    folder: "content/sources"
+    identifier_field: name
+    path: "source_{{slug}}"
+    fields:
+      - label: "Source Name"
+        name: "name"
+        widget: "string"
+        hint: "e.g. 18F, HHS Idea Lab"
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        hint: "A short, 1-sentence description that does not include the source name."
+      - label: "Primary Domain"
+        name: "domain"
+        widget: "string"
+        hint: "e.g. https://18f.gsa.gov/"
+        comment: "The link to your blog homepage or news feed. (e.g. https://18f.gsa.gov/)"
+      - label: "Logo"
+        name: "logo"
+        widget: "string"
+        hint: "Images must be uploaded in the /static/logos/ folder before they can be used here."
+        comment: "Images must be uploaded in the /static/logos/ folder before they can be used here."
+      - label: "Topics"
+        name: "topics"
+        widget: "async-select"
+        url: "https://digital.gov/topics/v1/json/"
+        valueField: "slug"
+        displayField: "title"
+        dataKey: "items"
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+
+  # TOPICS =======================
+  - <<: *defaults
+    name: "topics"
+    label: "Topics"
+    label_singular: "Topic"
+    description: "This page will help create a new topic on Digital.gov"
+    folder: "content/topics"
+    path: "{{slug}}/_index"
+    preview_path: topics/{{title}}
+    fields:
+      - label: "Topic Title"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+        comments: "Topic Title"
+      - label: "Description"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+        comments: "description — keep it short and clear"
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        default: 0
+        valueType: "int"
+        min: 0
+        max: 2
+        step: 1
+        hint: "Controls how this page appears across the site (0 -- hidden, 1 -- visible, 2 -- featured on the Resource page"
+        comment: |-
+          Controls how this page appears across the site
+           0 -- hidden
+           1 -- visible
+           2 -- featured on the Resource page
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+
+  # IMAGE UPLOAD =======================
+  - <<: *defaults
+    name: "image-upload"
+    label: "Image upload"
+    description: "This page will help upload a new image to Digital.gov"
+    folder: "content/images/_inbox"
+    identifier_field: image
+    publish: true
+    fields:
+      - label: "Image"
+        name: "image"
+        widget: "image"
+
+  # IMAGE METADATA =======================
+  - <<: *defaults
+    name: "image-metadata"
+    label: "Image metadata"
+    description: "This page will help edit image metadata"
+    folder: "data/images"
+    identifier_field: uid
+    extension: yml
+    format: yml
+    create: false
+    preview_path: images
+    fields:
+      - label: "uid"
+        name: "uid"
+        widget: "hidden"
+      - label: "Credit"
+        name: "credit"
+        widget: "string"
+      - label: "Caption"
+        name: "caption"
+        widget: "string"
+      - label: "Alt"
+        name: "alt"
+        widget: "string"

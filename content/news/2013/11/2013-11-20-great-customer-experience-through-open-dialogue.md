@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - social-media
-  - ux
   - cx
   - social-media
   - user-experience

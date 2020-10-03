@@ -1,22 +1,48 @@
 ---
+# View this page at https://digital.gov/event/2019/05/federal-crowdsourcing-webinar-series-episode-2
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-webinar-series-episode-2-challengegov
-title: 'Federal Crowdsourcing Webinar Series, Episode 2&#58; Challenge&#46;gov'
-summary: 'Need help solving a problem&#63; Join Challenge&#46;gov to learn how federal agencies can use prize competitions to reach innovators in novel ways&#46;'
-featured_image:
-  uid: challengegov-card-episode-2
-  alt: ''
-event_type:
-  - zoom
-date: 2019-05-14 14:00:00 -0500
-end_date: 2019-05-14 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Challenge.gov
+title: "Federal Crowdsourcing Webinar Series, Episode 2: Challenge.gov"
+deck: ""
+summary: "Need help solving a problem? Join Challenge.gov to learn how federal agencies can use prize competitions to reach innovators in novel ways."
+host: "Challenge.gov"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-2-challengegov-tickets-60872206408
+captions: 
+
+# start date
+date: 2019-05-14 15:00:00 -0500
+
+# end date
+end_date: 2019-05-14 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - crowdsourcing
+  - challenges
+  - challenge-gov
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - jarah-meador
+  - jessie-buerlein
+
+# YouTube ID
 youtube_id: pj0UQykvnS4
+
+# Primary Image (for social media)
+primary_image: "challengegov-card-episode-2"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 
 ---
 
-_[View the slides from this presentation](https://digital.gov/pdf/ep2-challengegov.pdf) (PDF 4.4MB)._
+_[View the slides from this presentation](https://digital.gov/pdf/ep2-challengegov.pdf) (PDF 4.4 MB)._
 
 The Federal Crowdsourcing Webinar Series explores how federal agencies are engaging the crowd to multiply the ideas and perspectives they bring to certain issues. In this second episode, you’ll learn about the benefits of prize competitions and the resources available to federal agencies through GSA’s Challenge.gov program.
 
@@ -32,8 +58,6 @@ Additionally, this episode will feature an overview of the prize portfolio at th
 
 - **Jarah Meador, PhD**, Director, Challenge.gov, U.S. General Services Administration
 - **Jessie Buerlein, MSW**, Sr. Public Health Analyst and Prize Lead, Maternal and Child Health Bureau, Health Resources and Services Administration, Department of Health and Human Services
-
-
 
 **Upcoming episodes in the Federal Crowdsourcing Webinar Series include:**
 

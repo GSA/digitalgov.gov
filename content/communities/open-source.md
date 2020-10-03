@@ -35,7 +35,7 @@ We are a community of federal government employees and contractors interested so
 
 ## What we do
 
-We support federal agency implementation of the FSCP. Accorinding to the FSCP, agencies are required to create their own source code policy, update acquisition language to capture new custom code, and create a source code inventory and encouraged to open sourcing a portion of the inventory.
+We support federal agency implementation of the FSCP. According to the FSCP, agencies are required to create their own source code policy, update acquisition language to capture new custom code, and create a source code inventory and encouraged to open sourcing a portion of the inventory.
 
 We have a listserv with approximately 650+ agency members interested in federal software and hold an agency-wide community-of-pracitce (CoP) monthly meeting on the third Thursday of the month. Through the Code.gov website and API, we facilitate aggregatation of agency source code for sharing across agencies and with the public.
 
@@ -44,11 +44,16 @@ We have a listserv with approximately 650+ agency members interested in federal 
 We are developers and open source experts, dedicated to helping you with any questions or concerns you may have about source code and OSS in the federal government. Curious about something regarding open source software or Code.gov? Ask us.
 
 ## Community managers
+
 Amin Mehr, Washington, DC  
 Joseph Castle, Washington, DC
 
-## Related resources 
+## Related resources
+
 - [**Code.gov**](http://code.gov)
 - [**Code.gov API**](https://open.gsa.gov/api/codedotgov/)
 - [**Code.gov Resources**](https://github.com/GSA/code-gov)
 - [**Federal Source Code Policy**](https://sourcecode.cio.gov/)
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

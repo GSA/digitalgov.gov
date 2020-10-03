@@ -9,7 +9,6 @@ topics:
   - accessibility
   - design
   - user-testing-and-research
-  - ux
   - innovation
   - research
   - us-department-of-veterans-affairs

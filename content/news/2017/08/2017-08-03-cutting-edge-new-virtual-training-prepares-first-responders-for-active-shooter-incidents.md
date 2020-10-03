@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - ux
+  - user-experience
   - video
   - audio-video
   - augmented-reality

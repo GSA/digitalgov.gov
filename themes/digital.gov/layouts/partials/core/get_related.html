@@ -31,7 +31,6 @@
         <p class="members">{{- .Params.members -}}+</p>
         {{- end -}}
       </div>
-      <a href="{{ .Params.url }}?dg" title="{{ .Params.head }}"><span></span></a>
     </div>
 
   {{- end -}}
@@ -107,14 +106,13 @@
   {{- $href := .href -}}
   {{- $src := .src -}}
   {{- with .item -}}
-    <div class="promo" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+    <div class="promo" data-edit-this="{{- .Path -}}">
       <div>
         <h4>
           <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a>
         </h4>
         <img src="{{- $src | relURL -}}" alt="{{- .Params.name -}} logo"/>
       </div>
-      <a class="overlay" href="{{ .Params.source_url }}?=dg" title="{{ .Params.title }}"><span></span></a>
     </div>
   {{- end -}}
 {{- end -}}

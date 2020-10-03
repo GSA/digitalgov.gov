@@ -12,9 +12,9 @@ topics:
 
   1. Explanation of the free, social media product you are offering for the federal government&#8217;s consideration. Include:
 
-  * Product Name
-  * Product Description
-  * Point–of–Contact for questions
+* Product Name
+* Product Description
+* Point–of–Contact for questions
 
 <ol start="2">
   <li>
@@ -22,12 +22,12 @@ topics:
   </li>
 </ol>
 
-  * If your general Terms of Service are already federal–friendly, include a link to those general terms.
-  * If your Terms of Service need to be amended to make them federal–compatible, please tell us how you will accomplish this. Options include: 
-      * The quickest and easiest way to get to a point where federal agencies can legally use your product is for you to incorporate these federally–appropriate clauses into your standard or general Terms of Service. You can do this by express revisions within the document (by way of example, you could indicate in the existing clause on law and jurisdiction, that if the user is a federal agency, federal law and federal courts will be used). Or you can do this via a link (&#8220;Use by federal agencies will follow the terms found here [link]&#8221;) Either of these choices will allow many agencies to sign up via the automated, labor–saving &#8220;click–through&#8221; process.
-      * If you prefer to draft a &#8220;side–letter&#8221; amendment for consideration by federal agencies, please include in your email (or attach) a first draft of an Amended Terms of Service Agreement for use by federal agencies. This is the document that will be reviewed by each agency that would like to consider using your product. You can replace this document with updated versions as you negotiate with agencies.
-  * Create a generic mailbox like <socialmediaapps@gsa.gov> so that interested agencies can contact you if they have questions about their agency account.
-  * Provide any specific instructions you need to give federal agencies that would like to use your product under a signed agreement.
+* If your general Terms of Service are already federal–friendly, include a link to those general terms.
+* If your Terms of Service need to be amended to make them federal–compatible, please tell us how you will accomplish this. Options include:
+    * The quickest and easiest way to get to a point where federal agencies can legally use your product is for you to incorporate these federally–appropriate clauses into your standard or general Terms of Service. You can do this by express revisions within the document (by way of example, you could indicate in the existing clause on law and jurisdiction, that if the user is a federal agency, federal law and federal courts will be used). Or you can do this via a link (&#8220;Use by federal agencies will follow the terms found here [link]&#8221;) Either of these choices will allow many agencies to sign up via the automated, labor–saving &#8220;click–through&#8221; process.
+    * If you prefer to draft a &#8220;side–letter&#8221; amendment for consideration by federal agencies, please include in your email (or attach) a first draft of an Amended Terms of Service Agreement for use by federal agencies. This is the document that will be reviewed by each agency that would like to consider using your product. You can replace this document with updated versions as you negotiate with agencies.
+* Create a generic mailbox like <socialmediaapps@gsa.gov> so that interested agencies can contact you if they have questions about their agency account.
+* Provide any specific instructions you need to give federal agencies that would like to use your product under a signed agreement.
 
 ## Posting to DigitalGov.gov
 

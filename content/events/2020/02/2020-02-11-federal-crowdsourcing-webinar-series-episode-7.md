@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2020/02/federal-crowdsourcing-webinar-series-episode-7
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-webinar-series-episode-7
-title: "Federal Crowdsourcing Webinar Series Episode 7: Crowdsourcing for Code"
+title: "Federal Crowdsourcing Webinar Series, Episode 7: Crowdsourcing for Code"
 deck: ""
 summary: "Learn how the Code.gov team, and every day contributors, are helping the U.S. government to expand its repository—and application—of open-source code as part of Code.gov’s Open Tasks initiative."
 host: "Federal Crowdsourcing"
@@ -22,6 +22,7 @@ topics:
   - innovation
   - open
   - open-source
+  - crowdsourcing
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script src="https://unpkg.com/netlify-cms-widget-async-select@1.3.4"></script>
+    <script type="module">
+      import editorComponents from "./js/editorComponents/index.js";
+      import { slugify } from "./js/helpers.js";
+
+      // Register custom widgets
+      CMS.registerWidget("async-select", window.AsyncSelectControl);
+
+      // Register custom Hugo shortcodes
+      editorComponents.forEach(component =>
+        CMS.registerEditorComponent(component)
+      );
+
+      // Modify entry data and add slug value
+      CMS.registerEventListener({
+        name: "preSave",
+        handler: ({ entry }) => {
+          let data = entry.get("data");
+
+          if (!entry.get("slug")) {
+            data = data.set(
+              "slug",
+              slugify(
+                data.getIn(["title"]) ||
+                  data.getIn(["display_name"]) ||
+                  data.getIn(["name"])
+              )
+            );
+          }
+
+          return data;
+        }
+      });
+    </script>
+  </body>
+</html>

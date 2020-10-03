@@ -9,7 +9,6 @@ topics:
   - data
   - metrics
   - mobile
-  - ux
   - analytics
   - cx
   - dap

@@ -6,7 +6,7 @@ slug: devops
 date: 2019-12-12 19:00:00 -0500
 title: "DevOps"
 deck: "Operating rapidly changing resilient systems at scale"
-summary: "The practice of operations and development staff participating in the in the entire service lifecycle to operate rapidly changing resilient systems at scale."
+summary: "The practice of operations and development staff participating in the entire service lifecycle to operate rapidly changing resilient systems at scale."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -48,10 +48,13 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-**[June Meeting: Air Force COOL and 18F, Partnership and Flight Operations Software Agile Lessons Learned](https://digital.gov/event/2020/06/23/air-force-cool-18f-partnership-flight/)**
+- **Please check back soon for upcoming meetings**
 
 ## Past Meetings
 
+- **[September Meeting: A Fresh Start With DevOps - Maybe](https://digital.gov/event/2020/09/22/a-fresh-start-with-devops-maybe/)**
+- **[August Special Event: The Continuous DevOps Dilemma with Andrew Clay Shafer](https://digital.gov/event/2020/08/04/continuous-devops-dilemma-with-andrew-clay/)**
+- **[June Meeting: Air Force COOL and 18F, Partnership and Flight Operations Software Agile Lessons Learned](https://digital.gov/event/2020/06/23/air-force-cool-18f-partnership-flight/)**
 - **[May Meeting: DevOps Lessons Learned from the Air Force’s Early Cloud Journey](https://digital.gov/event/2020/05/19/devops-lessons-learned-from-air-forces/)**
 - [**April Meeting: The Hero’s Journey for Re-Skilling Talent (And Other Digital Adventures)**](https://digital.gov/event/2020/04/28/heros-journey-for-reskilling-talent-other/)
 - [**March Meeting: Why I Love My Agile Team!**](https://digital.gov/event/2020/03/24/why-i-love-my-agile-team/)
@@ -59,10 +62,10 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 - [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
 
 ## Join
+
 We have two listservs available, one for Federal Employees, and one for all individuals:
 
 - To join our federal government employee only Listserv, send an email from your official government email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)
-
 - To join our public Listserv, perfect for federal employees, contractors, vendors, and academia to participate in the conversation, send an email to: [devops-public-subscribe-request@listserv.gsa.gov](mailto:devops-public-subscribe-request@listserv.gsa.gov)
 
 ## What We Do
@@ -80,3 +83,6 @@ The DevOps CoP will meet on the fourth Tuesday of each month for 30 minutes. In 
 Community Co-Manager **Brian Fox** is currently a strategist with [18F](https://18f.gsa.gov/). Prior to working as a member of the 18F Strategy team, he led systems development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map. Brian has also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
 
 Community Co-Manager **Peter Burkholder** is a consulting engineer with [18F](https://18f.gsa.gov/), where he's also supported cloud.gov. Before 18F, Peter worked with Chef Software's enterprise customers to guide them on adoption of DevOps practices and infras tructure-as-code, and has held operations roles with health technology companies, National Institutes of Health (NIH), National Center for Atmospheric Research (NCAR), and AARP.  He's also an organizer of the DevOpsDC MeetUp and the annual DevOpsDaysDC conference.
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

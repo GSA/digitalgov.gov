@@ -35,7 +35,7 @@ The data that the system provides to USGS scientists consists of tweets, estimat
   <tr>
     <td style="text-align: center;vertical-align: top;border-style: none">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Prelim M6.0 earthquake ANTOFAGASTA, CHILE Jun-10 13:52 UTC, updates <a href="http://t.co/x8pk7JNZ7N">http://t.co/x8pk7JNZ7N</a>, 37 <a href="https://twitter.com/hashtag/temblor?src=hash">#temblor</a> tweets/min
         </p>
         
@@ -49,7 +49,7 @@ The data that the system provides to USGS scientists consists of tweets, estimat
   <tr>
     <td style="text-align: center;vertical-align: top;border-style: none">
       <blockquote class="twitter-tweet" lang="en">
-        <p dir="ltr" lang="en">
+        <p lang="en">
           Prelim M6.0 earthquake SABAH, MALAYSIA Jun-4 23:15 UTC, updates <a href="http://t.co/MCbuqvYUZW">http://t.co/MCbuqvYUZW</a>, 15 <a href="https://twitter.com/hashtag/quake?src=hash">#quake</a> tweets/min
         </p>
         

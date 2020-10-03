@@ -7,7 +7,6 @@ authors:
   - rflagg
 topics:
   - monthly-theme
-  - ux
   - 18f
   - cx
   - customer-experience-community-of-practice
@@ -15,7 +14,7 @@ topics:
   - usability starter kit
   - user-experience-community-of-practice
   - user-experience
-  - ux
+  
 ---
 
 In honor of [World Usability Day](http://www.worldusabilityday.org/), which happened on November 12, we’d like to demystify two extremely important and oft-confusing acronyms—CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery.

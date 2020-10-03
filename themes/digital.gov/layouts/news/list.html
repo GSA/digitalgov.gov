@@ -1,10 +1,10 @@
 {{ define "content" }}
 
-<main role="main">
+<main role="main" id="main-content">
 
   <div class="grid-container grid-container-desktop">
     <div class="grid-row">
-      <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+      <div class="grid-col-12" data-edit-this="{{- .Path -}}">
         <header class="page-head page-head-{{- .Type -}}">
 
           {{/* Page Title */}}

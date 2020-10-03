@@ -40,12 +40,14 @@ community_list:
 The Federal Technology Investment Management (FTIM) Community of Practice (CoP) helps federal agencies implement a standard way to categorize information technology (IT) costs, technologies, resources, applications, and services. We help agencies optimize the value of their IT investments by prioritizing transparency, consumption, and performance. If you’re a **federal employee or contractor with a .gov or .mil email address** and are interested in helping the federal government improve cost management for IT, we welcome you!
 
 ## Who We Are
+
 The FTIM CoP consists of government professionals working to enhance IT spending transparency across government. We also engage industry, academia, and nonprofits to help agencies better understand and communicate the business and mission value of IT spending.
 
 ## What We Do
+
 Our community leverages agency knowledge to mature and streamline the Capital Planning and Investment Control, Technology Business Management, and portfolio management processes. We aim to achieve greater government-wide efficiency in the management of federal IT resources and assets.
 
 The FTIM CoP meets monthly to discuss and share best practices that improve IT cost transparency. [Learn more about TBM on CIO.gov](https://www.cio.gov/policies-and-priorities/tbm/), and email us at [FTIM-COP@gsa.gov](mailto:FTIM-COP@gsa.gov) with questions.
 
-
-
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

@@ -1,25 +1,41 @@
 ---
+# View this page at https://digital.gov/event/2019/04/dap-learning-series-using-advanced-analysis
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-using-advanced-analysis-tool
-title: 'DAP Learning Series&#58; Using the Advanced Analysis Tool'
-summary: 'We’ll demo the Advanced Analysis tool and show how you can use it to better understand your data and create drag-and-drop reports!'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-04-24 13:00:00 -0500
-end_date: 2019-04-24 14:00:00 -0500
-event_organizer: DigitalGov University
-host: DAP
+title: "DAP Learning Series: Using the Advanced Analysis Tool"
+deck: ""
+summary: "We’ll demo the Advanced Analysis tool and show how you can use it to better understand your data and create drag-and-drop reports!"
+host: "DAP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dap-learning-series-using-the-advanced-analysis-tool-registration-59013346508
-youtube_id: OoAisdLNhe0
+captions: 
 
-topics:
+# start date
+date: 2019-04-24 14:00:00 -0500
+
+# end date
+end_date: 2019-04-24 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - metrics
   - analytics
   - dap
   - digital-analytics-program
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - tlowden
+
+# YouTube ID
+youtube_id: OoAisdLNhe0
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 [*View live captioning for this event.*](https://www.captionedtext.com/client/event.aspx?EventID=3948197&CustomerID=321)

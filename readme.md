@@ -1,7 +1,7 @@
-<h1><img src="https://demo.digital.gov/img/digitalgov-logo-black.svg" alt="Digital.gov Logo"/></h1>
-
+<h1><img src="https://digital.gov/img/digitalgov-logo-purple.svg" alt="Digital.gov Logo"/></h1>
 
 ## We help people in government build better digital services
+
 https://digital.gov
 
 - Sign-up for the [Digital.gov newsletter »](https://digital.gov/about/subscribe/)
@@ -10,15 +10,13 @@ https://digital.gov
 
 Want to learn more about how we work? [Check out our Wiki page »](https://github.com/GSA/digitalgov.gov/wiki)
 
-
 ---
+
 ## Repositories
 
 As a product, [digital.gov](https://digital.gov) maintains a collection of repositories. All of our work is open source and we encourage you to take a look at and contribute to our projects by submitting a Pull Request, a Github Issue, or commenting on existing Issues and Pull Requests.
 
-
 The repositories below are all used to maintain [digital.gov:](https://digital.gov)
-
 
 <details>
   <summary>Platform</summary>
@@ -42,7 +40,6 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 
 </details>
 
-
 ---
 
 ## Development Guide
@@ -57,15 +54,18 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 ### Installation
 
 #### Prerequisites
+
 Install [Gulp](https://gulpjs.com/) globally from your terminal command line:
+
 ```
 npm install gulp-cli -g
 ```
 
 To use Gulp, you must have [Node](https://nodejs.org/) and [NPM](https://www.npmjs.com) installed.
-We're currently using Node v10.16.3. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
+We're currently using Node v10.21.0. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
 
 NPM is package along with Node. Check your versions of these in your terminal command line by typing:
+
 ```
 node -v
 npm -v
@@ -82,6 +82,7 @@ Using [Homebrew](https://docs.brew.sh/) is a quick and easy way to install Hugo.
 _see https://gohugo.io/getting-started/installing/ for other OSs_
 
 Quickly check your Hugo version at your terminal command line by running:
+
 ```
 hugo version
 ```
@@ -114,8 +115,8 @@ NPM will run the following scripts:
 - `gulp Watch` — starts a watch task to look for changes in the SCSS and JS files
 - `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
 
-
 When Hugo is done building, you should see a success message like:
+
 ```
 Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
@@ -129,9 +130,10 @@ Local development is powered by BrowserSync, to allow rapid development through:
 - Automatic CSS & JS updates without reloading the page
 - Automatic page reloads when content is changed
 
-
 ### Configuration
+
 #### Environment Variables
+
 This project uses environment variables to handle uploading of images to AWS (powered by Gulp scripts).
 
 In your command line terminal run `cp env.example .env` to create a template .env file in the root directory of the project.
@@ -149,13 +151,14 @@ Starting the gulp watch tasks to compile styles. This can be done in the termina
 ```
 gulp
 ```
+
 You would want to have the Hugo build running along with a `gulp` session in separate terminal sessions in order to compile and watch both content and style changes.
 
 **Tip:** Use the keyboard shortcut `control + c` to stop the gulp watch process.
 
 ### Images
-Images found in `content/images/inbox/` will be optimized and compressed and sent to an AWS S3 bucket for usage in your layouts and content. This is done by running the `gulp img` command. See the digital.gov wiki for [how to process images](https://github.com/GSA/digitalgov.gov/wiki/Adding-Images).
 
+Images found in `content/images/inbox/` will be optimized and compressed and sent to an AWS S3 bucket for usage in your layouts and content. This is done by running the `gulp img` command. See the digital.gov wiki for [how to process images](https://github.com/GSA/digitalgov.gov/wiki/Adding-Images).
 
 **Other helpful HUGO commands:**
 
@@ -169,6 +172,7 @@ Images found in `content/images/inbox/` will be optimized and compressed and sen
 1. Read through [the recent releases](https://github.com/gohugoio/hugo/releases)
 2. Run `brew upgrade hugo` to upgrade your local copy ([docs](https://gohugo.io/getting-started/installing/#upgrade-hugo)).
 1. Set the version in the `.hugo-version` file. This is only used for telling Federalist which version of Hugo they should checkout and use.
+3. Update the version in `.circleci/config.yml to ensure that the same version of Hugo is being used for CI.
 
 ## Accessibility tests
 
@@ -180,13 +184,20 @@ To run a web accessibility test on digital.gov do the following:
 
 1. Check out the site from GitHub https://github.com/GSA/digitalgov.gov/
 1. Install and run the site locally following the `Install` and `Run` instructions above. *Site must be running locally to perform the scan.*
-  - If this is your first time running pa11y, then you'll need to run `npm install` to make sure pa11ly is installed.
+
+- If this is your first time running pa11y, then you'll need to run `npm install` to make sure pa11ly is installed.
+
 2. In a separate terminal window, run `npm run test:pa11y` to initiate the accessibility checker.
 
 *Note*: Currently, this only runs accessiblity checks on the site home page as a Proof of Concept demonstration.
 
 Accessibility testing configuration is located in the .pa11yci file.
 
+## Linters
+
+To test the validity of API JSON files, run `npm run lint:json` in the terminal on your local machine.  This will check the validity of the Hugo generated JSON files used for the API. Currently, it validates authors, images, and topics using the tool `jsonlint`. If an issue is found with the JSON, `jsonlint` will return a non-zero exit code causing CircleCI to fail. See the [wiki API page](https://github.com/GSA/digitalgov.gov/wiki/APIs) for fixing API issues.
+
+Markdown linting can be performed by running `npm run lint:json`. The rules that are used for the linter can be found in `.markdown-lint.yml`.
 
 ## Common Regex scripts
 
@@ -195,17 +206,20 @@ Accessibility testing configuration is located in the .pa11yci file.
 ```
 {{< legacy-img src="/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"( alt=".+?")* >}}
 ```
+
 ```
 {{< img src="$1"$2 >}}
 ```
 
 ### convert CDN links
+
 ```
 {{< legacy-img src="/(\d{4,4})
 {{< legacy-img src="$1
 ```
 
 ### replace `url` with `slug` in posts
+
 ```
 ^url: .+/([^/]+)\.md
 slug: $1

@@ -1,11 +1,11 @@
 {{- define "content" -}}
 
-<main role="main">
+<main role="main" id="main-content">
   <article>
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+          <div class="grid-col-12" data-edit-this="{{- .Path -}}">
             <p class="breadcrumb"><a href="{{- "/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Home</span> </a></p>
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
@@ -26,7 +26,7 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
 
-          <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+          <div class="grid-col-12" data-edit-this="{{- .Path -}}">
 
             {{/* Content */}}
             <div class="content">

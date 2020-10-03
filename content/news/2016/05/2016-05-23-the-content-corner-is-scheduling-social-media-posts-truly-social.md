@@ -10,7 +10,7 @@ topics:
   - product-management
   - monthly-theme
   - social-media
-  - ux
+  - user-experience
   - cx
   - cx
   - firstnet

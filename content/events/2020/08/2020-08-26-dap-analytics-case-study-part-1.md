@@ -20,7 +20,7 @@ end_date: 2020-08-26 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - metrics
-  - ux
+  - user-experience
   - analytics
   - dap
   - digital-analytics-program
@@ -34,7 +34,7 @@ authors:
 event_platform:
 
 # YouTube ID
-youtube_id:
+youtube_id: H0YMQe4rZug
 
 # Make it better ♥
 

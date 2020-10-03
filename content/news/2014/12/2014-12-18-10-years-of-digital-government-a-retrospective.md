@@ -12,7 +12,7 @@ topics:
   - product-management
   - mobile
   - social-media
-  - ux
+  - user-experience
   - cdc
   - centers-for-disease-control-and-prevention
   - HHS

@@ -12,15 +12,13 @@ last_name: "Pull"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
-bio: "
-John Pull’s library career spans 28 years but only two institutions: Harvard’s rare book collection (1992-1995) and the Library of Congress (1995-present).  He has been a rare book curator, cataloger, web director, communications director, and is currently a UX specialist with LOC’s Design Directorate.  From 1998 to 2003, in his spare time, he ran a successful digital arts consultancy in London.  He has lectured extensively in North America and Europe, and has worked with national libraries from six continents.  He believes the roadblocks frequently presented by federal work can be launch pads.
-"
+bio: "John Pull’s library career spans 28 years but only two institutions: Harvard’s rare book collection (1992-1995) and the Library of Congress (1995-present). He has been a rare book curator, cataloger, web director, communications director, and is currently a UX specialist with LOC’s Design Directorate. From 1998 to 2013, in his spare time, he ran a successful digital arts consultancy in London.  He has lectured extensively in North America and Europe, and has worked with national libraries from six continents. He believes the roadblocks frequently presented by federal work can be launch pads."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "Library of Congress"
@@ -44,6 +42,5 @@ facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-
 # Make it better ♥
 ---

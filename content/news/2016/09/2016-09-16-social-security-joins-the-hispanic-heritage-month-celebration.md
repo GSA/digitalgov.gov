@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - product-management
-  - ux
   - content
   - cx
   - customer-service
@@ -17,7 +16,7 @@ topics:
   - SSA
   - the-united-states-social-security-administration
   - user-experience
-  - ux
+  
 ---
 
 Social Security joins you and your family in celebrating [Hispanic Heritage Month](http://www.hispanicheritagemonth.gov/), which runs from September 15 to October 15.

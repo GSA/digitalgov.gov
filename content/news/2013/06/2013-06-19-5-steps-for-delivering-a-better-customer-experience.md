@@ -7,13 +7,13 @@ authors:
   - martha-dorris
 topics:
   - product-management
-  - ux
+  - user-experience
   - cx
   - gsa
   - top-tasks
 ---
 
-<p dir="ltr">
+<p>
   Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service. Those experiences drive high expectations for interacting with any organization, including government agencies.<a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/customer-experience-model-image.jpg">{{< legacy-img src="2013/06/customer-experience-model-image-250x171.jpg" alt="customer experience model image" >}}</a>
 </p>
 
@@ -25,23 +25,23 @@ One of the key themes we&#8217;ve learned from our research is that to ensure a 
 
 Here are 5 straightforward steps you can take to deliver a “wow” experience in government:
 
-  * <p dir="ltr">
+  * <p>
       Determine who your most important customers are and the primary tasks they want to accomplish.  These top tasks should be based on qualitative web analytics data.
     </p>
 
-  * <p dir="ltr">
+  * <p>
       Walk through the steps at completing a transaction using your website or organization to determine how long it takes for each step and to identify opportunities to streamline the process.
     </p>
 
-  * <p dir="ltr">
+  * <p>
       Identify their primary pain points.
     </p>
 
-  * <p dir="ltr">
+  * <p>
       Define clearly what you want the customer experience to be.
     </p>
 
-  * <p dir="ltr">
+  * <p>
       Identify a few initiatives that address some of the pain points and meet your proposed experience. Then pilot, pilot, pilot to see if these improvements work.
     </p>
 

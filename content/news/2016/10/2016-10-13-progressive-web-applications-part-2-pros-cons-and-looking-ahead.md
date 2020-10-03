@@ -10,7 +10,7 @@ topics:
   - content
   - design
   - mobile
-  - ux
+  - user-experience
   - app
   - code
   - innovation

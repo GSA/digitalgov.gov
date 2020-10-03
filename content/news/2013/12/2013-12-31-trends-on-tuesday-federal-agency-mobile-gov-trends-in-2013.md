@@ -28,7 +28,7 @@ topics:
   - united-states-department-of-energy
   - united-states-department-of-housing-and-urban-development
   - user-experience
-  - ux
+  
 ---
 
 [{{< legacy-img src="2014/01/Gov-Apps.png" alt="Gov Apps" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Gov-Apps.png)Today we want to tell you about the federal agency trends we saw this year in the development of public facing mobile products.

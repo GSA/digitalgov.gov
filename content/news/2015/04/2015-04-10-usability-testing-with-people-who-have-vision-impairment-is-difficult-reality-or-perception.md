@@ -7,7 +7,7 @@ authors:
   - stacey-sarris
 topics:
   - accessibility
-  - ux
+  - user-experience
   - accessibility
   - usability
   - usability-testing

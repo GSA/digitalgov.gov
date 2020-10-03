@@ -7,7 +7,6 @@ authors:
   - abigail-noonan
 topics:
   - user-testing-and-research
-  - ux
   - a-b-testing
   - quick study
   - research
@@ -17,7 +16,6 @@ topics:
   - user-centered-design
   - user-experience
   - user-experience-community-of-practice
-  - ux
   - veterans-health-administration
   - VHA
 ---

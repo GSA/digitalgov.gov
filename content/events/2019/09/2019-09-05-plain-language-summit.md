@@ -1,43 +1,52 @@
 ---
+# View this page at https://digital.gov/event/2019/09/plain-language-summit-2019
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: plain-language-summit-2019
 title: "Plain Language Summit 2019"
-summary: "A day of talks and conversations on how to advance plain language in government communications, hosted by the federal Plain Language community of practice."
 deck: "A day of talks and conversations on how to advance plain language in government communications"
-featured_image:
-  uid: plain-language-summit-2019
-  alt: 'Plain Language Summit 2019'
-event_type:
-  - zoom
-  - in-person
-date: 2019-09-05 09:00:00 -0500
-end_date: 2019-09-05 16:00:00 -0500
-event_organizer: DigitalGov
-host: Plain Language Community of Practice
-youtube_id: cny1CIMuv3o
-venue:
-  venue_name: U.S. General Services Administration
-  room: 1459/1460/1461
-  address: 1800 F Street NW
-  city: Washington
-  state: D.C.
-  zip: 20006
-  country: USA
-  map: https://goo.gl/maps/bFWBD6QfDLA2
-categories:
-  - user experience
-  - writing
-tag:
-  - customer-experience
-  - customer-experience-community-of-practice
-  - multilingual
+summary: "A day of talks and conversations on how to advance plain language in government communications, hosted by the federal Plain Language community of practice."
+host: "Plain Language Community of Practice"
+event_organizer: "DigitalGov"
+registration_url: 
+captions: 
+
+# start date
+date: 2019-09-05 10:00:00 -0500
+
+# end date
+end_date: 2019-09-05 17:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - plain-language
-  - plain-language-community-of-practice
-  - training
-  - user experience
-  - ux
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - annetta-cheek
+  - camille-tucker
+  - caroline-bauer
+  - cynthia-baur
+  - david-lipscomb
+  - jamie-stark
+  - jana-goldman
+  - john-whalen
+  - katherine-spivey
+  - kathryn-catania
+  - susanna-murley
+
+# YouTube ID
+youtube_id: cny1CIMuv3o
+
+# Primary Image (for social media)
+primary_image: "plain-language-summit-2019"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
-
 
 
 **On Thursday, September 5th, 2019**, the federal Plain Language community brought together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language in government communications.

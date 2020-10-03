@@ -10,7 +10,7 @@ topics:
   - emerging-tech
   - product-management
   - our-work
-  - ux
+  - user-experience
   - artificial-intelligence
   - cx
   - innovation

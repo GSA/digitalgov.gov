@@ -1,10 +1,8 @@
 ---
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
-title: 'Plain Language'
-summary: 'Our goal is to promote the use of plain language for all government communications.'
-topics:
-  - plainlanguage
+title: "Plain Language"
+summary: "Our goal is to promote the use of plain language for all government communications."
 aliases:
   - /communities/plain-language-community-of-practice/
 topics:
@@ -29,8 +27,11 @@ Our goal is to promote the use of plain language for all government communicatio
 
 And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 125 KB) mandates plain language for certain audiences and tasks.
 
-### Who we are
+## Who we are
 
 The Plain Language Action and Information Network (PLAIN) Community of Practice (PL-COP) is an inter-agency group of plain language practitioners from many different federal government agencies and specialties who support the use of clear communication in government writing.
 
 PL-COP is administered by the [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/about/).
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

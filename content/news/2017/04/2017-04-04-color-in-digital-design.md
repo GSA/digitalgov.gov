@@ -9,12 +9,10 @@ topics:
   - content
   - design
   - product-management
-  - ux
   - communities
   - uswds
   - user-experience
   - user-experience-community-of-practice
-  - ux
   - web-content-managers-forum
 ---
 

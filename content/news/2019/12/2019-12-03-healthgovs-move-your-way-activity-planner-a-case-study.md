@@ -10,10 +10,10 @@ authors:
 
 categories:
   - design
-  - ux
+  
 tag:
   - user-experience
-  - ux
+  
 featured_image:
   uid: move-your-way-01
   alt: 'Move Your Way logo'

@@ -7,7 +7,7 @@ authors:
   - elizabeth-hochberg
 topics:
   - data
-  - ux
+  - user-experience
   - challenges-and-prize-competitions
   - data-gov
   - FOIA

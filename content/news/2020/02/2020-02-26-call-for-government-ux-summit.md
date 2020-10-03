@@ -18,7 +18,7 @@ topics:
   - user-experience
   - plain-language
   - user-research
-  - ux
+  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -58,13 +58,13 @@ We are currently seeking submissions for presentations on topics such as:
  - Design and evaluation methods _(especially more applied topics, such as training with a particular method)_
  - Case studies of UX projects or programs
  - Working with the U.S. Web Design System
- - UX tools
+  tools
  - Starting and building a government UX program
  - Lessons learned in managing a user experience program
  - Government-specific challenges and obstacles
- - UX and Agile
+  and Agile
  - Using UX to innovate
- - UX research
+  research
 
 _See the [presentations from the 2019 Government UX Summit]({{< ref "2019-05-15-2019-government-ux-summit.md" >}})_
 

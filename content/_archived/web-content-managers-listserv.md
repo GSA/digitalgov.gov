@@ -36,8 +36,8 @@ To verify a message for distribution:
 
 OR
 
-  * Click the link provided in the email message.
-  * The link will appear similar to this:  &#8220;To APPROVE the message: [https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A3042E6C&L=CONTENT-MANAGERS-L](https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=CONTENT-MANAGERS-L)
+* Click the link provided in the email message.
+* The link will appear similar to this:  &#8220;To APPROVE the message: [https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A3042E6C&L=CONTENT-MANAGERS-L](https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=CONTENT-MANAGERS-L)
 
 ### General Etiquette
 
@@ -55,9 +55,9 @@ Following are some of the common commands you can use as a subscriber of this li
 
 When using these commands, always:
 
-  * Send the command in an email message addressed to:  [**listserv@listserv.gsa.gov**](mailto:listserv@listserv.gsa.gov)
-  * Type the command in the body of the message, on one line (not in the subject line—the subject line should be left blank)
-  * Remove any other text from the body of your message, including signature blocks
+* Send the command in an email message addressed to:  [**listserv@listserv.gsa.gov**](mailto:listserv@listserv.gsa.gov)
+* Type the command in the body of the message, on one line (not in the subject line—the subject line should be left blank)
+* Remove any other text from the body of your message, including signature blocks
 
 <table border="1" width="475">
   <tr valign="top">
@@ -120,8 +120,6 @@ When using these commands, always:
     </td>
   </tr>
 </table>
-
-
 
 ## How to Access the Listserv Archive
 

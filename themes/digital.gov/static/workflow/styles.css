@@ -1,0 +1,13 @@
+img[alt="Logo"] {
+  margin-left: 75px;
+  width: 150px;
+}
+
+div[class*="LibraryTop"] button[class*="DeleteButton"],
+div[class*="WorkflowCardContainer-card"] div[class*="CardDateContainer-text"] {
+  display: none;
+}
+
+.cms-editor-visual div[role="menu"] ul {
+  width: 220px !important;
+}

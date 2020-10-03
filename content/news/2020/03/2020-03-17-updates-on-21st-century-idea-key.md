@@ -18,7 +18,7 @@ topics:
   - metrics
   - uswds
   - user-experience
-  - ux
+  
 
 # see all authors at https://digital.gov/authors
 authors:

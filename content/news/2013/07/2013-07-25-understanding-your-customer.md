@@ -7,7 +7,7 @@ authors:
   - martha-dorris
 topics:
   - product-management
-  - ux
+  - user-experience
   - cx
 ---
 
@@ -19,7 +19,7 @@ One of the most critical components of a successful customer experience program 
 
 There are numerous ways to determine what your customers expect when interacting with your organization online. You can conduct customer satisfaction surveys, hold focus groups, and assess the <a href="(({{< ref "/topics/metrics" >}})" target="_blank">analytics</a> of your program or website.
 
-<p dir="ltr">
+<p>
   As I wrote in my <a href="{{< ref "2013-07-18-how-to-create-a-customer-experience-index.md" >}}" target="_blank">previous post</a>, my office within GSA is creating a <strong>Customer Experience index</strong> for our agency-facing programs and for our public-facing programs. The index will give us a baseline to determine whether the overall experience is improving or not.  However, to diagnose the issues or the improvements, you will need feedback from other tools such as the surveys or focus groups mentioned above.
 </p>
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - user-testing-and-research
-  - ux
+  - user-experience
   - accessibility
   - usability
 ---

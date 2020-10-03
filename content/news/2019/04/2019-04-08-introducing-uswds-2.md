@@ -12,7 +12,7 @@ topics:
   - design
   - product-management
   - mobile
-  - ux
+  - user-experience
   - accessibility
   - uswds
   - public-sans

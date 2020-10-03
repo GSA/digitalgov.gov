@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - user-testing-and-research
-  - ux
+  - user-experience
   - aoi
   - digitalgov-user-experience-program
   - Federal Reserve Board

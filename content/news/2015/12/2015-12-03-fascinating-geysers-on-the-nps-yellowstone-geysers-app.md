@@ -37,7 +37,7 @@ The photo gallery includes amazing pictures of each geyser. Each eruption is qui
 You can also use this app to browse social media content from the park&#8217;s [Twitter](https://twitter.com/YellowstoneNPS), [YouTube](https://www.youtube.com/user/YellowstoneNPS), and [Flickr](https://www.flickr.com/photos/yellowstonenps/) sites to learn what is happening in Yellowstone.
 
 <blockquote class="twitter-tweet" lang="en">
-  <p dir="ltr" lang="en">
+  <p lang="en">
     There&#8217;s something celebratory in a geyser, so here&#8217;s one (fittingly called Grand) for the <a href="https://twitter.com/hashtag/USWNT?src=hash">#USWNT</a>. Congratulations! <a href="http://t.co/qJvWQyVKsH">pic.twitter.com/qJvWQyVKsH</a>
   </p>
   

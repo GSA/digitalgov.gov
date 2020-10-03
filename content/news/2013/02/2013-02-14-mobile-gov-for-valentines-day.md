@@ -22,6 +22,6 @@ topics:
   Of course no one knows that special someone like you do! Browse the numerous free apps on the <a href="http://apps.usa.gov/">USA.gov Apps Gallery</a> for something  just for them. Happy Valentine&#8217;s Day!
 </div>
 
-<div dir="ltr">
+<div>
   &#8212;
 </div>

@@ -16,11 +16,11 @@ topics:
 
 {{< legacy-img src="2014/03/250-x-220-stack-of-books-resources.jpg" alt="A stack of hardcover books" >}}Interested in running a [challenge and prize competition]({{< ref "2013-11-01-federal-government-challenges-and-contests.md" >}} "Link to definition of challenge and prize competition"), but don&#8217;t know where to start? Well, here are all the resources [GSA&#8217;s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729 "link to OCSIT page on GSA.gov") has to offer:
 
-<p dir="ltr">
+<p>
   1) <a title="link to Challenge.gov" href="https://challenge.gov/">Challenge.gov</a>. Put your agency&#8217;s challenges on this government-wide listing and learn about more than 300 public prizes run over the past four years. You can filter by agency and challenge type, such as software, ideas, designs. Built and hosted by GSA, you can also use it to run crowdsourcing competitions end to end.  This is available for federal agencies at no cost. <strong>On-demand webinar:</strong> <a href="{{< ref "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}" target="_blank">Crowdsource Ideas with Competition Platform</a>
 </p>
 
-<p dir="ltr">
+<p>
   2) <a title="link to Challenges page on DigitalGov.gov" href="{{< ref "/topics/challenges" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
 </p>
 
@@ -31,7 +31,7 @@ topics:
 
 This includes details on the policies and <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf" target="_blank">legal authorities</a>, like the [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf "America COMPETES Act Summary Memo"), under which agencies run their competitions.
 
-<p dir="ltr">
+<p>
   3) Digital Gov University. A robust resource of <a href="{{< ref "/events" >}}">archived training</a> and <a title="link to upcoming DigitalGov University training" href="{{< ref "/events" >}}">upcoming events</a>. Some of the most popular webinars are:
 </p>
 
@@ -39,15 +39,15 @@ This includes details on the policies and <a href="https://www.whitehouse.gov/si
   * [What drives competitors](http://www.youtube.com/watch?v=5QWyidc67lo)
   * [Hack-a-thons from start to finish](http://www.youtube.com/watch?v=Q1NrFuiQWGM)
 
-<p dir="ltr">
+<p>
   4) Social Media. Follow <a title="link to Challenge.gov's Twitter account" href="https://twitter.com/ChallengeGov">@ChallengeGov on Twitter</a> and check out our<a title="link to Challenge.gov's Facebook page" href="https://www.facebook.com/ChallengeGov"> Facebook</a> page. You can use these to learn about public prizes and we can help promote your agency’s challenges.
 </p>
 
-<p dir="ltr">
+<p>
   5) <a title="link to GSA Schedule 541 4G information " href="http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES">GSA Schedule 541 4G for Challenge and Competition Services</a>. Sixteen vendors who can help you run public prizes.
 </p>
 
-<p dir="ltr">
+<p>
   6) The <a href="{{< ref "challenges-prizes.md" >}}">Community of Practice</a> email address: <a href="mailto:challenges@listserv.gsa.gov">challenges@listserv.gsa.gov</a>. This is a government only listserv, if you have questions you want to ask all the other agencies in the group. You&#8217;ll also receive email alerts about training, events, networking opportunities, and new reports and resources.
 </p>
 
