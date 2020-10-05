@@ -23,6 +23,9 @@ topics:
   - open-source
   - security
 
+# zoom, youtube_live, adobe_connect, google
+event_platform: zoom
+
 # YouTube ID
 youtube_id:
 
