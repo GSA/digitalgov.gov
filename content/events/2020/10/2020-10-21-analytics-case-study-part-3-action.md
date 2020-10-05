@@ -32,6 +32,9 @@ topics:
 authors:
   - tlowden
   - freddie-blicher
+  
+# zoom, youtube_live, adobe_connect, google
+event_platform: zoom
 
 # YouTube ID
 youtube_id:
