@@ -28,7 +28,7 @@ community_list:
     type: government
     subscribe_email: "mobilegov-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe to MobileGov"
-    members: 1070
+    members: 934
     emails_per_week: 2.62
 
 # Make it better ♥

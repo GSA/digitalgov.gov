@@ -33,7 +33,7 @@ community_list:
     subscribe_email: uswds@support.digitalgov.gov
     subscribe_email_subject: "Join USWDS Slack"
     subscribe_form: https://chat.18f.gov/
-    members: 855
+    members: 108
     emails_per_week:
 
 # Make it better ♥

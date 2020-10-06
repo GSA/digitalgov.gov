@@ -15,7 +15,7 @@ community_list:
   - platform: "listserv"
     type: government
     subscribe_form: "https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN"
-    members: 1104
+    members: 1169
     emails_per_week: 1.1
 
 authors:
