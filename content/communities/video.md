@@ -16,7 +16,7 @@ community_list:
     type: government
     subscribe_email: Kevin.Spivey@cfpb.gov
     subscribe_email_subject: "Join Video Production Pros"
-    members: 411
+    members: 447
     emails_per_week: 5.94
 
 ---

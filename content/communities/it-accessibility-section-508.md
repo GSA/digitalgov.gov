@@ -32,7 +32,7 @@ community_list:
     type: government
     subscribe_email: "section.508@gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
-    members: 673
+    members: 744
     emails_per_week:
 
 
