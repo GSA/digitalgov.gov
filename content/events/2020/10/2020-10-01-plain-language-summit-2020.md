@@ -34,6 +34,9 @@ slug: plain-language-summit-2020
 event_platform: zoom
 primary_image: plain-language
 ---
+
+{{< img-right src="plain-language" >}}
+
 On October 27-28, 2020, the Plain Language Action and Information Network (PLAIN) brings experts to explain how plain language can improve our government communication.
 
 You will need to register for each session to receive the correct links and conference details. Below is a short description of each session.
