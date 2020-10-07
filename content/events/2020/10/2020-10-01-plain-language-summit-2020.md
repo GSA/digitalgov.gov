@@ -79,3 +79,5 @@ In this session you will hear from the following speakers :
 ---
 
 *Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.*
+
+{{< button href="https://digital.gov/communities/plain-language/" text="Join the Plain Language Community of Practice" >}}
