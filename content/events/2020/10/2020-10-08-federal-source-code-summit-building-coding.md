@@ -66,27 +66,27 @@ _Note: This summit will be virtual._
 
 **9:15 - 9:35am** Summit Keynote by _Daniel Morgan_, Chief Data Officer, Department of Transportation
 
-**9:45 - 10:15am** Chat with International Governments
+**9:45 - 10:15am** Chat with International Governments facilitated by _Amin Mehr_ and _Joseph Castle_
 
 - _Leonardo Favario_, Open Source Project Leader, Department for the Digital Transformation, Italian Government
-- _Shimone Shore_, Chief Architect, Open Source Program, Israeli Government
+- _Shimon Shore_, Chief Architect, Open Source Program, Israeli Government
 
 **10:20 - 10:50am** Federal Source Code Study Results by _Joseph Castle_, Product Manager & Frontend Engineer, Code.gov
 
 **10:50 - 11:00am** Coffee and stretch break
 
-**11:00 - 11:30am** Policy Implementation Panel
+**11:00 - 11:30am** Policy Implementation Panel facilitated by _Joseph Castle_
 
 - _Andrew Heibel_, Program Lead for Walkoff, National Security Agency
 - _Brian Lee_, Senior Advisor, Informatics, Centers for Disease Control and Prevention
-- _Laura Beufort_, Software Developer, Federal Election Commission
-- _Joe Amalfitano_, Open Source Lead, Social Security Administration
+- _Laura Beaufort_, Technical Lead, Federal Election Commission
+- _Joseph Amalfitano_, Open Source Lead, Social Security Administration
 
-**11:40-12:10pm** Software Development w/ Open Source Panel
+**11:40-12:10pm** Software Development w/ Open Source Panel facilitated by _Amin Mehr_
 
 - _Sara Cope_, Product Owner of Digital.gov, General Services Administration
 - _Taylor Yates_, Data Scientist, NASA
-- _Aidan Feldman_, Lead for TTS Infrastructure, General Services Administration
+- _Aidan Feldman_, TTS Technology Director, General Services Administration
 - _Rayvn Manuel_, Developer and Engineer, National Museum of African American History and Culture
 
 **12:10-12:15pm** Summit Closing  
@@ -98,7 +98,7 @@ _Note: This summit will be virtual._
 
 **Joseph Amalfitano** is the implementation lead of the Federal Source Code policy at Social Security Administration (SSA). He is a passionate advocate for open source culture and breaking down organizational silos. Joseph has been with the SSA since 2009. He holds two master’s degrees from the University of Central Florida; one in Management Information Systems and the other in Accounting. When he isn’t working he can be found with his family, playing games, or tinkering with his smart home setup.
 
-**Laura Beaufort** is the Tech Lead at the Federal Election Commission, where she works to increase transparency in campaign finance. At the FEC, she led the initiative to add the fec.gov’s code to code.gov and campaign finance API to data.gov. Her interests include application security, performance improvement, and fixing bugs. She also actively participates in the open source community, having contributed to several open source projects.
+**Laura Beaufort** is the Technical Lead at the Federal Election Commission, where she works to increase transparency in campaign finance. At the FEC, she led the initiative to add the fec.gov’s code to code.gov and campaign finance API to data.gov. Her interests include application security, performance improvement, and fixing bugs. She also actively participates in the open source community, having contributed to several open source projects.
 
 **Joseph Castle** is the Product Manager & Front-End Engineer of Code.gov where he is responsible for maintaining the [Code.gov website](https://code.gov) and overseeing federal agency implementation of the White House’s [Federal Source Code Policy](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf). Dr. Castle earned his PhD from Virginia Tech and his [dissertation](https://github.com/jcastle/dissertation_publishingOSS) focused on OSS publication in the federal sector. He served in the Obama Administration, is a U.S. Army veteran, and a Fed100 recipient.
 
@@ -117,6 +117,8 @@ _Note: This summit will be virtual._
 **Daniel Morgan** is the first Chief Data Officer of the United States Department of Transportation, having served in this capacity for five years. As the CDO, he has overall responsibility for the Departmental data program and data compliance across the Department. He is responsible for establishing a clear vision of the data managed in DOT and the application of DOT data for decision-making. He serves as data strategist and adviser, steward for improving data quality, liaison for data sharing and developer of new data products.
 
 Prior to assuming this role, Mr. Morgan spent 15 years as a management consultant, providing services to public and private sector clients in a variety of areas, including: open government, information technology governance, capital planning and investment control, enterprise architecture, and human capital planning. Mr. Morgan holds a Bachelor's Degree in Mechanical Engineering from the University of Illinois at Urbana-Champaign.
+
+**Shimon Shore** is the Chief Architect for the Open Source Program in the Israel Ministry of Science and Technology and works closely with the Israel Government Information and Communications Technology Authority to advance the use of and contribution to Open Source software by the Israeli Government. Shimon helps to run the Israel Government Open Source community which acts as a knowledge and education center for Open Source in the Israel Government. He leads the Ministry of Science and Technology's Open Source first policy. Shimon has over 30 years of software development experience in the private sector in which he contributed to and utilized many Free and Open Source Software. He utilizes that vast experience to  advocate for Free and Open Source Software adoption in the public sector. He holds a degree in Mathematics and Computer Science from the University of Waterloo and now lives in Jerusalem.
 
 **Karen Trebon** is the Lead for the Smarter IT Delivery Portfolio, one of five in the Technology Transformation Services within the Federal Acquisition Service at the U.S. General Services Administration. She manages the people, budget, and contracts that power Search.gov and Code.gov. Karen has been with GSA since 2002. She has a Bachelors in Government from the University of Maryland College Park and a Masters in Public Administration from George Washington University. She is also a certified Project Management Professional (PMP). Prior to GSA, Karen worked for Amplify Public Affairs and the American Power Association. She also worked in Annapolis, and also did three brief stints on Capitol Hill with Senator Sarbanes, Representative Hoyer, and the House Energy and Commerce Committee.
 
