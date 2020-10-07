@@ -85,7 +85,7 @@ _Note: This summit will be virtual and open to government employees and contract
 **11:40-12:10pm** Software Development w/ Open Source Panel facilitated by _Amin Mehr_
 
 - _Sara Cope_, Product Owner of Digital.gov, General Services Administration
-- _Taylor Yates_, Data Scientist, NASA
+- _Taylor Yates_, Software Engineer, NASA
 - _Aidan Feldman_, TTS Technology Director, General Services Administration
 - _Rayvn Manuel_, Developer and Engineer, National Museum of African American History and Culture
 
@@ -123,6 +123,8 @@ Prior to assuming this role, Mr. Morgan spent 15 years as a management consultan
 **Karen Trebon** is the Lead for the Smarter IT Delivery Portfolio, one of five in the Technology Transformation Services within the Federal Acquisition Service at the U.S. General Services Administration. She manages the people, budget, and contracts that power Search.gov and Code.gov. Karen has been with GSA since 2002. She has a Bachelors in Government from the University of Maryland College Park and a Masters in Public Administration from George Washington University. She is also a certified Project Management Professional (PMP). Prior to GSA, Karen worked for Amplify Public Affairs and the American Power Association. She also worked in Annapolis, and also did three brief stints on Capitol Hill with Senator Sarbanes, Representative Hoyer, and the House Energy and Commerce Committee.
 
 **Nicole Yvonne Williams (Nikki)** is the Communications Director for Code.gov. A veteran communications and public relations professional, she previously served as Senior Advisor and Communications Director for three Members of Congress and has been a spokesperson and consultant on various national campaigns and projects. Nikki is a “true blue” graduate of Spelman College and received her Master of Arts Degree in Communications Management from John Carroll University. She is active in The Links, Incorporated, Delta Sigma Theta Sorority, Incorporated, the National Alumnae Association of Spelman College and is a member of South Euclid United Church of Christ. Nikki is a drummer who loves music (especially live), puzzles, Spades games, laughing out loud and is a long-suffering Cleveland Browns and Cavaliers fan (2016 WORLD CHAMPS!).
+
+**Evan "Taylor" Yates** is contracted as a Software Engineer for Open Innovation, where he works to cultivate open-source culture at NASA and generally improve the usability and discoverability of the agency’s public data assets. His main responsibilities include the maintenance and development of [code.nasa.gov](https://code.nasa.gov/), [data.nasa.gov](https://nasa.github.io/data-nasa-gov-frontpage/), and [api.nasa.gov](https://api.nasa.gov/). He also manages NASA’s public [GitHub organization](https://github.com/nasa), where the bulk of the agency’s open-source code resides. As for his background, Taylor grew up in Spokane, WA, where he received a classical primary and secondary education. He went on to attend Claremont McKenna College in southern California, where he completed the Harvey Mudd College Computer Science major through a consortium arrangement. His favorite languages are Python, JavaScript, and Bash, and he prefers APIs over UIs when given the choice. His interests range from basketball and hiking to musical theater and online gaming.
 
 ## Related Links:
 
