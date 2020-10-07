@@ -53,7 +53,7 @@ The U.S. government spends billions of dollars annually on information technolog
 
 This summit includes success stories in the U.S. and abroad with source code and OSS, and participants will discuss next steps for continuing to build communities focused on OSS.
 
-_Note: This summit will be virtual._
+_Note: This summit will be virtual and open to government employees and contracted vendors only (i.e., individuals with .gov and .mil email addresses)._
 <br><br>
 
 ---
