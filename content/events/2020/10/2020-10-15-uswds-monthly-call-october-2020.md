@@ -1,43 +1,42 @@
 ---
-# View this page at https://digital.gov/event/2020/10/uswds-monthly-call-october-2020
-# Learn how to edit our pages at https://workflow.digital.gov
+title: 'USWDS October Monthly Call: Deceptive Design Patterns (or "Dark Patterns")'
+deck: Deceptive design patterns—also known as "Dark Patterns”—are techniques
+  used in websites and apps to trick people into taking specific unintended
+  actions (like, signing up for things they didn't mean to). In this talk, Ron
+  Bronson from 18F will uncover some of these tricks, and show what we all can
+  do to assure that deceptive design patterns stay out of the sites we build.
+kicker: USWDS
+summary: >-
+  Deceptive design patterns—also known as "Dark Patterns”—are techniques used in
+  websites and apps to trick people into taking specific unintended actions
+  (like, signing up for things they didn't mean to). In this talk, Ron Bronson
+  from 18F will uncover some of these tricks, and show what we all can do to
+  assure that deceptive design patterns stay out of the sites we build.
 
-slug: uswds-monthly-call-october-2020
-title: "USWDS Monthly Call - October 2020"
-deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
-summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
-host: "U.S. Web Design System"
-event_organizer: "Digital.gov"
-registration_url:
-captions:
 
-# start date
+  We'll also hear the latest news and updates from the U.S. Web Design System.
+host: U.S. Web Design System
+event_organizer: Digital.gov
+registration_url: https://www.eventbrite.com/e/uswds-monthly-call-deceptive-design-patterns-or-dark-patterns-registration-124140139499
+captions: https://www.captionedtext.com/client/event.aspx?EventID=4602522&CustomerID=321
 date: 2020-10-15 14:30:00 -0500
-
-# end date
 end_date: 2020-10-15 15:30:00 -0500
-
-# see all topics at https://digital.gov/topics
+# See all topics at https://digital.gov/topics
 topics:
   - design
   - uswds
   - 21st-century-idea
   - user-centered-design
-
-# see all authors at https://digital.gov/authors
+  - content-strategy
+  - user-experience
+# See all authors at https://digital.gov/authors
 authors:
   - dan-williams
-
-# Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform:
-
-# YouTube ID
-youtube_id:
-
-# Primary Image (for social media)
-primary_image: "uswds-2-illio-feature-image"
-
-# Make it better ♥
+slug: uswds-monthly-call-october-2020
+# zoom, youtube_live, adobe_connect, google
+event_platform: zoom
+youtube_id: null
+primary_image: uswds-logo
 ---
 
 {{< img-right src="uswds-logo" >}}
