@@ -22,6 +22,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams
+  - ron-bronson
 slug: uswds-monthly-call-october-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
