@@ -18,7 +18,7 @@ community_list:
 
 ---
 
-The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 700 members across more than 140 federal, state and local U.S. government offices and agencies.
+The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 800 members across more than 140 federal, state and local U.S. government offices and agencies.
 
 ## Join
 
