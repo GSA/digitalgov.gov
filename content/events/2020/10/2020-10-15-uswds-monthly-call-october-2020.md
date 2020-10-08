@@ -1,20 +1,10 @@
 ---
-title: 'USWDS October Monthly Call: Deceptive Design Patterns (or "Dark Patterns")'
-deck: Deceptive design patterns—also known as "Dark Patterns”—are techniques
-  used in websites and apps to trick people into taking specific unintended
-  actions (like, signing up for things they didn't mean to). In this talk, Ron
-  Bronson from 18F will uncover some of these tricks, and show what we all can
-  do to assure that deceptive design patterns stay out of the sites we build.
+title: USWDS Monthly Call - October 2020
+deck: Deceptive design patterns—also known as "Dark Patterns”
 kicker: USWDS
-summary: >-
-  Deceptive design patterns—also known as "Dark Patterns”—are techniques used in
-  websites and apps to trick people into taking specific unintended actions
-  (like, signing up for things they didn't mean to). In this talk, Ron Bronson
-  from 18F will uncover some of these tricks, and show what we all can do to
-  assure that deceptive design patterns stay out of the sites we build.
-
-
-  We'll also hear the latest news and updates from the U.S. Web Design System.
+summary: In this talk, we will uncover some of these tricks, and show what we
+  all can do to assure that deceptive design patterns stay out of the sites we
+  build.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-deceptive-design-patterns-or-dark-patterns-registration-124140139499
@@ -38,19 +28,22 @@ event_platform: zoom
 youtube_id: null
 primary_image: uswds-logo
 ---
+{{< img-right src="uswds-logo" alt="" >}}
 
-{{< img-right src="uswds-logo" >}}
+Deceptive design patterns—also known as "Dark Patterns”—are techniques used in websites and apps to trick people into taking specific unintended actions (like, signing up for things they didn't mean to). In this talk, Ron Bronson from 18F will uncover some of these tricks, and show what we all can do to assure that deceptive design patterns stay out of the sites we build.
+
+We'll also hear the latest news and updates from the U.S. Web Design System.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
 USWDS is a library of principles, guidance, and code to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
 
-
 ## About the USWDS
-[**The U.S. Web Design System**](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-- [The U.S. Web Design System](https://designsystem.digital.gov/)
-- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-- [Email Us](mailto:uswds@support.digitalgov.gov)
-- [Join our community](https://digital.gov/communities/uswds/)
-- [Follow @uswds on Twitter](https://twitter.com/uswds)
+**[The U.S. Web Design System](https://designsystem.digital.gov/)** is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
+
+* [The U.S. Web Design System](https://designsystem.digital.gov/)
+* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+* [Email Us](mailto:uswds@support.digitalgov.gov)
+* [Join our community](https://digital.gov/communities/uswds/)
+* [Follow @uswds on Twitter](https://twitter.com/uswds)
