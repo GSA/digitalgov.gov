@@ -27,6 +27,7 @@ slug: federal-crowdsourcing-webinar-series-episode-15-10x-transforming-technolog
 event_platform: zoom
 primary_image: 10x-gold-x-logo
 ---
+
 The U.S. General Services Administration’s [10x](https://10x.gsa.gov/) program is unique from other crowdsourcing programs in a few key ways:
 
 1. it is government-wide
@@ -39,23 +40,23 @@ Key takeaways from the session will include:
 * Advantages and challenges in the government-wide scope
 * Pros and cons of a framework where the idea originator is not part of the project team
 
-  ## **Presenters**
+## Presenters
 
-  **Nico Papafil** is the co-founder and Director of 10x in GSA’s Technology Transformation Service. Nico oversees the budget and financials, staffing, contracts business operations, and day to day program management. Since FY15, he has managed a portfolio of over $81M in technology investments.
+**Nico Papafil** is the co-founder and Director of 10x in GSA’s Technology Transformation Service. Nico oversees the budget and financials, staffing, contracts business operations, and day to day program management. Since FY15, he has managed a portfolio of over $81M in technology investments.
 
-  **Sarah Crane** and **Dan Radounis** are project coordinators for 10x. In this role, they provide guidance, mentorship and oversight of the 10x project teams.
+**Sarah Crane** and **Dan Radounis** are project coordinators for 10x. In this role, they provide guidance, mentorship and oversight of the 10x project teams.
 
-  **Will Cahoe** provides program support to 10x through communications, marketing, and community-building. Will’s contributions have been recognized in a Government Innovation Award, a GEARS of Government award, and Fedscoop 50 nomination, and more.
+**Will Cahoe** provides program support to 10x through communications, marketing, and community-building. Will’s contributions have been recognized in a Government Innovation Award, a GEARS of Government award, and Fedscoop 50 nomination, and more.
 
-  \---
+---
 
-  **Related Links:**[](http://10x.gsa.gov)
+**Related Links:**
 
   * [10x website](http://10x.gsa.gov)
   * [10x projects](https://trello.com/b/NyUC0e0j/10x-project-tracking)
   * [10x](https://digital.gov/topics/10x/) (Digital.gov)
   * [10x Project Lightning Talks 2020](https://digital.gov/event/2020/06/30/10x-project-lightning-talks-2020/)
 
-  \---
+---
 
-  *10x funds technology-focused ideas from federal employees with an aim to improve the experience all people have with our government.*
+*10x funds technology-focused ideas from federal employees with an aim to improve the experience all people have with our government.*
