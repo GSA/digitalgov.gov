@@ -1,10 +1,7 @@
 ---
-title: "Federal Crowdsourcing Webinar Series, Episode 15: 10x: Transforming
-  Technology Through Agile Investments"
+title: "Federal Crowdsourcing Webinar Series, Episode 15 &mdash; 10x: Transforming Technology Through Agile Investments"
 kicker: Federal Crowdsourcing
-summary: In this webinar, we will discuss GSA’s incremental investment program,
-  10x, which is modeled after modern venture capital best practices and start up
-  studios.
+summary: In this webinar, we will discuss GSA’s incremental investment program, 10x, which is modeled after modern venture capital best practices and start up studios.
 host: 10x
 event_organizer: Digital.gov
 registration_url: https://gsa.zoomgov.com/j/1613851404?pwd=YXRrYjQ4NVdUZWhPNHNJUEpDTFlxdz09
@@ -26,19 +23,20 @@ slug: federal-crowdsourcing-webinar-series-episode-15-10x-transforming-technolog
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 10x-gold-x-logo
+
 ---
 
 The U.S. General Services Administration’s [10x](https://10x.gsa.gov/) program is unique from other crowdsourcing programs in a few key ways:
 
-1. it is government-wide
-2. products funded by 10x must be reusable across government, and
-3. idea authors and project teams are intentionally distanced.
+1. It is government-wide. 
+2. Products funded by 10x must be reusable across government. 
+3. Idea authors and project teams are intentionally distanced. 
 
 Key takeaways from the session will include:
 
-* An overview of the 10x process
-* Advantages and challenges in the government-wide scope
-* Pros and cons of a framework where the idea originator is not part of the project team
+* An overview of the 10x process. 
+* Advantages and challenges in the government-wide scope. 
+* Pros and cons of a framework where the idea originator is not part of the project team. 
 
 ## Presenters
 
@@ -48,9 +46,7 @@ Key takeaways from the session will include:
 
 **Will Cahoe** provides program support to 10x through communications, marketing, and community-building. Will’s contributions have been recognized in a Government Innovation Award, a GEARS of Government award, and Fedscoop 50 nomination, and more.
 
----
-
-**Related Links:**
+## Related Links
 
   * [10x website](http://10x.gsa.gov)
   * [10x projects](https://trello.com/b/NyUC0e0j/10x-project-tracking)
@@ -59,4 +55,4 @@ Key takeaways from the session will include:
 
 ---
 
-*10x funds technology-focused ideas from federal employees with an aim to improve the experience all people have with our government.*
+_10x funds technology-focused ideas from federal employees with an aim to improve the experience all people have with our government._ 
