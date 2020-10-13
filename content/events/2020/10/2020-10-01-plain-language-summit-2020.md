@@ -58,7 +58,7 @@ In this session you will hear from the following speakers :
 In this session you will hear from the following speakers :
 
 * **2:00pm - 3:00pm : Plain Language and Customer Experience-** Martha Dorris, Dorris Consulting International
-* **3:00pm - 3:30pm : International Plain Language Standards** Annetta Cheek, Chair, Standards Committee, International Federation for Plain Language
+* **3:00pm - 3:30pm : International Plain Language Standards-** Annetta Cheek, Chair, Standards Committee, International Federation for Plain Language
 * **3:30pm - 4:15pm : 30 Years of False Criticisms-** Joe Kimble, Flimsy Claims for Legalese and False Criticisms of Plain Language: A 30-Year Collection
 
 **(Wed., October 28)**
