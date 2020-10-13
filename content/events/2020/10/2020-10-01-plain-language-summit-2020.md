@@ -67,8 +67,7 @@ In this session you will hear from the following speakers :
 
 In this session you will hear from the following speakers :
 
-* **9:30am - 10:00am: Using plain language can improve your ability to influence, motivate, or mobilize others-** Bethany Blakey
-* Chief Modernization Strategist, CoE, TTS
+* **9:30am - 10:00am: Using plain language can improve your ability to influence, motivate, or mobilize others-** Bethany Blakey, Chief Modernization Strategist, CoE, TTS
 * **10:00am - 11:00am: Content Strategy-** Ginny Redish, Redish & Associates
 * **11:00am - 12:00pm : Sense making lessons from the Private Sector-** Abby Covert, Information Architect & Author
 
