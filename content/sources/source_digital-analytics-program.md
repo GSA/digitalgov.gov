@@ -8,5 +8,5 @@ logo: dap
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
-slug: digital-analytics-program
+slug: dap
 ---
