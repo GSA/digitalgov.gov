@@ -57,9 +57,9 @@ In this session you will hear from the following speakers :
 
 In this session you will hear from the following speakers :
 
-* **2:00pm - 3:00pm : Plain Language and Customer Experience,** Martha Dorris, Dorris Consulting International
-* **3:00pm - 3:30pm : International Plain Language Standards**
-* **3:30pm - 4:15pm : 30 Years of False Criticisms** 
+* **2:00pm - 3:00pm : Plain Language and Customer Experience-** Martha Dorris, Dorris Consulting International
+* **3:00pm - 3:30pm : International Plain Language Standards-** Annetta Cheek, Chair, Standards Committee, International Federation for Plain Language
+* **3:30pm - 4:15pm : 30 Years of False Criticisms-** Joe Kimble, Flimsy Claims for Legalese and False Criticisms of Plain Language: A 30-Year Collection
 
 **(Wed., October 28)**
 
@@ -67,8 +67,7 @@ In this session you will hear from the following speakers :
 
 In this session you will hear from the following speakers :
 
-* **9:30am - 10:00am: Using plain language can improve your ability to influence, motivate, or mobilize others,** Bethany Blakey
-* Chief Modernization Strategist, CoE, TTS
+* **9:30am - 10:00am: Using plain language can improve your ability to influence, motivate, or mobilize others-** Bethany Blakey, Chief Modernization Strategist, CoE, TTS
 * **10:00am - 11:00am: Content Strategy-** Ginny Redish, Redish & Associates
 * **11:00am - 12:00pm : Sense making lessons from the Private Sector-** Abby Covert, Information Architect & Author
 
@@ -77,7 +76,7 @@ In this session you will hear from the following speakers :
 In this session you will hear from the following speakers :
 
 * **2:00pm - 3:00pm : Training Writers** 
-* **3:00pm - 3:30pm : Plain Language**
+* **3:00pm - 4:00pm : Plain Language-** Katherine Spivey
 
 ---
 
