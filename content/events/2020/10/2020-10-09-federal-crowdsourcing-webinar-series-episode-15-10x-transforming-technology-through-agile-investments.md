@@ -4,7 +4,7 @@ kicker: Federal Crowdsourcing
 summary: In this webinar, we will discuss GSA’s incremental investment program, 10x, which is modeled after modern venture capital best practices and start up studios.
 host: 10x
 event_organizer: Digital.gov
-registration_url: https://gsa.zoomgov.com/j/1613851404?pwd=YXRrYjQ4NVdUZWhPNHNJUEpDTFlxdz09
+registration_url: https://www.eventbrite.com/e/124606203509
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4607560&CustomerID=321
 date: 2020-10-29 14:00:00 -0500
 end_date: 2020-10-29 15:00:00 -0500
