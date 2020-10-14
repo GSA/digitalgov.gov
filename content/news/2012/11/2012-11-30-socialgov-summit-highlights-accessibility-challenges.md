@@ -19,7 +19,7 @@ topics:
 While we&#8217;ll share more from the summit in an extended post, here are some initial key takeaways from among the hundred participants:
 
   * Don&#8217;t always rely on automated translations for your social media content, explained **Scott Horvath** of the <a href="http://www.usgs.gov/" target="_blank"><strong>U.S. Geological Survey</strong></a>. Many can be  inaccurate, which can then cause more confusion. With video, for example, have a written script prepared that you can share.
-  * Social media content, especially critical information during emergencies, should be regularly evaluated for &#8220;how it sounds; does it make sense; does it convey the same message that we think we are conveying_&#8220;_ through accessibility-enhanced tools,__ according to **Debria Hayes** of the **<a href="www.noaa.gov" target="_blank">National Oceanic and Atmospheric Administration</a>.**
+  * Social media content, especially critical information during emergencies, should be regularly evaluated for &#8220;how it sounds; does it make sense; does it convey the same message that we think we are conveying_&#8220;_ through accessibility-enhanced tools,__ according to **Debria Hayes** of the **<a href="https://www.noaa.gov" target="_blank">National Oceanic and Atmospheric Administration</a>.**
   * We can&#8217;t control how accessible apps are, but through engagement with platform providers we can communicate the needs of our citizens, says **Alyssa Gallagher** from the <a href="http://www.cancer.gov/" target="_blank"><strong>National Cancer Institute</strong></a>.  Better evaluation of options available to agencies and using tools like the Social Media Registry API strengthen our ability to ensure communities can engage when they need it.
 
 <div>
