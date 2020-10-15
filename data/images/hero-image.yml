@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/hero-image.png
+
+# Image shortcode: {{< img src="hero-image" >}}
+
+date     : 2020-10-15 19:59:13 -0400
+uid      : hero-image
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
