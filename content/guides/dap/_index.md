@@ -25,7 +25,7 @@ aliases:
 - Scalable infrastructure for measuring a broad range of .gov sites (large and small)
 - Training on analytics tools and reporting
     - [View upcoming trainings and talks »](https://digital.gov/events/) 
-    - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
+    - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba) 
     - Ongoing help-desk support around implementation, data, and reporting
 
 
