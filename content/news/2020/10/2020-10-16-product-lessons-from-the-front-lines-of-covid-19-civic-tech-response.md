@@ -4,6 +4,9 @@ title: Product lessons from the front lines of COVID-19 civic tech response
 summary: Two Presidential Innovation Fellows share how we can build digital
   services quickly without compromising quality for the public in times of
   crisis.
+authors:
+  - likhitha-patha
+  - dr-kaeli-yuen
 # See all topics at https://digital.gov/topics
 topics:
   - product-management
