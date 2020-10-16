@@ -77,4 +77,6 @@ By spending time on user research, including deep dives with VA call centers and
 
 **Kaeli**: An important part of this piece of advice is “don’t reinvent the wheel.” Even though we had the in-house tech team available who could have built the VA coronavirus chatbot themselves, we saved precious time by starting with a commercial off-the-shelf chatbot framework. There were some minor trade-offs in customizability, but it got the job done and addressed the pressing need to get information to Veterans quickly.
 
-**Are you passionate about the civic impact of human-centered design and product development? Interested in using your expertise for public good? Learn more about PIF [at our website](https://pif.gov/), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our fellows.**
+----------
+
+Are you passionate about the civic impact of human-centered design and product development? Interested in using your expertise for public good? Learn more about PIF [at our website](https://pif.gov/), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our fellows.
