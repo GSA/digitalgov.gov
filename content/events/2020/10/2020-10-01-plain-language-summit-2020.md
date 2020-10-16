@@ -29,6 +29,10 @@ authors:
   - annetta-cheek
   - joe-kimble
   - ginny-redish
+  - scott-kubie
+  - mark-m-mchale 
+  - bethany-blakey
+  - abby-covert  
 slug: plain-language-summit-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
