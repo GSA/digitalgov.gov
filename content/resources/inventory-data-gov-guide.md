@@ -12,16 +12,16 @@ authors:
 redirectto: https://resources.data.gov/resources/inventory-data-gov-guide/
 ---
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Using inventory.data.gov](#using-inventory-data-gov)
-    - [Creating a User Account](#creating-user-account)
-    - [Using inventory.data.gov to manage datasets](#manage-datasets)
-    - [Adding a Dataset](#add-dataset)
-    - [Exporting Data.json](#export-data-json)
-    - [Automating data.json downloads by agencies](#automating-data-json-downloads)
-    - [Dataset Hosting](#dataset-hosting)
-- [Webinar on inventory.data.gov](#webinar)
+* [Introduction](#introduction)
+* [Features](#features)
+* [Using inventory.data.gov](#using-inventory-data-gov)
+    * [Creating a User Account](#creating-user-account)
+    * [Using inventory.data.gov to manage datasets](#manage-datasets)
+    * [Adding a Dataset](#add-dataset)
+    * [Exporting Data.json](#export-data-json)
+    * [Automating data.json downloads by agencies](#automating-data-json-downloads)
+    * [Dataset Hosting](#dataset-hosting)
+* [Webinar on inventory.data.gov](#webinar)
 
 ## Introduction
 
@@ -39,10 +39,10 @@ Inventory.data.gov as a dataset management system requires a user account and is
 
 Inventory.data.gov provides the following features for dataset management/Open Data Policy compliance purposes:
 
-- Existing data.json and enterprise data inventory metadata can be imported directly into inventory.data.gov.
-- User group organizations can be created either for an entire agency or for individual bureaus so that users and permissions can be managed and delegated as needed by the agency
-- A platform to manage public/non-public datasets: create new entries, modify existing ones, and delete any datasets as needed
-- Unredacted Inventory / Enterprise Data Inventory (EDI) and Redacted Inventory / Public Data Listing (PDL) functionality exports the successfully validated datasets in the form of a data.json file complying to the POD Schema 1.1 version. Error records are provided in a log file for review and resolution by agency users.
+* Existing data.json and enterprise data inventory metadata can be imported directly into inventory.data.gov.
+* User group organizations can be created either for an entire agency or for individual bureaus so that users and permissions can be managed and delegated as needed by the agency
+* A platform to manage public/non-public datasets: create new entries, modify existing ones, and delete any datasets as needed
+* Unredacted Inventory / Enterprise Data Inventory (EDI) and Redacted Inventory / Public Data Listing (PDL) functionality exports the successfully validated datasets in the form of a data.json file complying to the POD Schema 1.1 version. Error records are provided in a log file for review and resolution by agency users.
 
 ## Using inventory.data.gov
 

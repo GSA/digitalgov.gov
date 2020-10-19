@@ -4,11 +4,11 @@ date: 2014-12-10 2:53:55 -0400
 title: "How to Get Your Open Data on Data.gov"
 summary: "Find out below how federal, federal geospatial, and non-federal data is funneled to Data.gov and how you can get your data federated on Data.gov for greater discoverability and and impact."
 topics:
-  - data
-  - open-data
-  - data-gov
+  * data
+  * open-data
+  * data-gov
 authors:
-  - pashlock
+  * pashlock
 redirectto: https://resources.data.gov/resources/data-gov-open-data-howto/
 ---
 
@@ -16,14 +16,14 @@ Data.gov is the central clearinghouse for open data from the United States feder
 
 This guide is primarily for the [Open Data Points of Contact](https://project-open-data.cio.gov/points-of-contact/) (POC) at each agency. If you would like to add data to Data.gov and you are not the POC for your agency, please contact your POC. If your agency has no POC listed, please continue reading and [contact Data.gov](https://www.data.gov/contact) for assistance.
 
-- [**Overview**](#overview "Overview")
-- [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1-organize-your-open-data-for-the-data-gov-pipeline "Step 1: Organize your open data for the Data.gov Pipeline")
-    - [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
-    - [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
-    - [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
-- [**Step 2: Coordinate with Data.gov**](#step-2-coordinate-with-data-gov "Step 2: Coordinate with Data.gov")
-- [**Resources & Tools**](#resources-tools "Resources & Tools")
-- [**Frequently Asked Questions**](#frequently-asked-questions "Frequently Asked Questions")
+* [**Overview**](#overview "Overview")
+* [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1-organize-your-open-data-for-the-data-gov-pipeline "Step 1: Organize your open data for the Data.gov Pipeline")
+    * [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
+    * [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
+    * [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
+* [**Step 2: Coordinate with Data.gov**](#step-2-coordinate-with-data-gov "Step 2: Coordinate with Data.gov")
+* [**Resources & Tools**](#resources-tools "Resources & Tools")
+* [**Frequently Asked Questions**](#frequently-asked-questions "Frequently Asked Questions")
 
 ## Overview
 
@@ -172,22 +172,22 @@ Once your Data.gov account is created, and your permissions are in place, you ca
 4. Navigate to [http://catalog.data.gov/harvest](http://catalog.data.gov/harvest)
 5. Click the “Add Harvest Source” button
 6. Enter information into the fields provided on the page. They include the following fields:
-   - CKAN
-   - Data.json
-   - CSW Server
-   - Web Accessible Folder (WAF)
-   - Single spatial metadata document
-   - Geoportal Server
-   - Web Accessible Folder (WAF) Homogeneous Collection
-   - Z39.50
-   - ArcGIS Rest API
-   - Autodetect
-   - ISO 19115 Metadata (ISO 19139 XSD)
-   - FGDC Minimal Validation
-   - FGDC CSDGM Version 2.0, 1998 (FGDC-STD-001-1998)
-   - FGDC CSDGM Biological Data Profile (FGDC-STD-001.1-1999)
-   - FGDC CSDGM Metadata Profile for Shoreline Data (FGDC-STD-001.2-2001)
-   - FGDC Extensions for Remote Sensing (FGDC-STD-012-2002)
+   * CKAN
+   * Data.json
+   * CSW Server
+   * Web Accessible Folder (WAF)
+   * Single spatial metadata document
+   * Geoportal Server
+   * Web Accessible Folder (WAF) Homogeneous Collection
+   * Z39.50
+   * ArcGIS Rest API
+   * Autodetect
+   * ISO 19115 Metadata (ISO 19139 XSD)
+   * FGDC Minimal Validation
+   * FGDC CSDGM Version 2.0, 1998 (FGDC-STD-001-1998)
+   * FGDC CSDGM Biological Data Profile (FGDC-STD-001.1-1999)
+   * FGDC CSDGM Metadata Profile for Shoreline Data (FGDC-STD-001.2-2001)
+   * FGDC Extensions for Remote Sensing (FGDC-STD-012-2002)
    1. URL – The harvest source URL that contains your data
    2. Title – The title for your harvest source. This title is the name that will be displayed as the access link for the harvest source on Catalog.data.gov
    3. Description – A summary of the data provided by your harvest source
@@ -214,27 +214,27 @@ Once the harvester has been tested successfully, Data.gov will start automatical
 
 ### Resources
 
-- Continually updated Federal Open Data Policy guidance and technical standards, commonly referred to as [Project Open Data](http://project-open-data.github.io/)
-- Federal Open Data Policy Memo, [OMB M-13-13](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf)
-- [FGDC geospatial metadata information](http://www.fgdc.gov/metadata)
-- [GeoPlatform.gov initiative](http://www.fgdc.gov/initiatives/geospatial-platform)
-- [Catalog.Data.gov CKAN Publisher Tutorial to facilitate GeoPlatform Geospatial Data Discovery](http://www.geoplatform.gov/sites/default/files/document_library/catalog_data_gov_publishing_tutorial.pdf)
-- Metadata Recommendations Supporting Data Discovery and Use in Data.gov and GeoPlatform.gov _(add link when documented is updated at `https://cms.geoplatform.gov/sites/default/files/document_library`)_
+* Continually updated Federal Open Data Policy guidance and technical standards, commonly referred to as [Project Open Data](http://project-open-data.github.io/)
+* Federal Open Data Policy Memo, [OMB M-13-13](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf)
+* [FGDC geospatial metadata information](http://www.fgdc.gov/metadata)
+* [GeoPlatform.gov initiative](http://www.fgdc.gov/initiatives/geospatial-platform)
+* [Catalog.Data.gov CKAN Publisher Tutorial to facilitate GeoPlatform Geospatial Data Discovery](http://www.geoplatform.gov/sites/default/files/document_library/catalog_data_gov_publishing_tutorial.pdf)
+* Metadata Recommendations Supporting Data Discovery and Use in Data.gov and GeoPlatform.gov _(add link when documented is updated at `https://cms.geoplatform.gov/sites/default/files/document_library`)_
 
 ### Testing Tools
 
-- [Project Op](https://www.data.gov/labs/)[en Data Dashboard](http://labs.data.gov/dashboard/offices): A dashboard to track the progress of agencies implementing Project Open Data on a quarterly basis
-- [Project Open Data data.json Validator](http://labs.data.gov/dashboard/validate): A validator for v1.0 and v1.1 of the Project Open Data Metadata Schema
-- Project Open Data Converters: A [converter](http://labs.data.gov/dashboard/datagov/csv_to_json) to transform CSV files into JSON as defined by the Project Open Data Metadata Schema and an [export API](http://labs.data.gov/dashboard/export) to export from the CKAN API and transform the metadata into JSON as defined by the Project Open Data Metadata Schema
-- [Project Open Data Changeset Preview](http://labs.data.gov/dashboard/changeset) — Agencies can use the Project Open Data Dashboard [changeset tool](http://labs.data.gov/dashboard/changeset) to compare their data.json file to data that currently exists on Data.gov to see what will be replaced, added, or removed.
-- Agencies can test the process of harvesting their data.json by [requesting access to Data.gov’s test harvester](https://github.com/GSA/data.gov/wiki/Guide-to-creating-an-account-for-and-using-the-test-harvester).
+* [Project Op](https://www.data.gov/labs/)[en Data Dashboard](http://labs.data.gov/dashboard/offices): A dashboard to track the progress of agencies implementing Project Open Data on a quarterly basis
+* [Project Open Data data.json Validator](http://labs.data.gov/dashboard/validate): A validator for v1.0 and v1.1 of the Project Open Data Metadata Schema
+* Project Open Data Converters: A [converter](http://labs.data.gov/dashboard/datagov/csv_to_json) to transform CSV files into JSON as defined by the Project Open Data Metadata Schema and an [export API](http://labs.data.gov/dashboard/export) to export from the CKAN API and transform the metadata into JSON as defined by the Project Open Data Metadata Schema
+* [Project Open Data Changeset Preview](http://labs.data.gov/dashboard/changeset) — Agencies can use the Project Open Data Dashboard [changeset tool](http://labs.data.gov/dashboard/changeset) to compare their data.json file to data that currently exists on Data.gov to see what will be replaced, added, or removed.
+* Agencies can test the process of harvesting their data.json by [requesting access to Data.gov’s test harvester](https://github.com/GSA/data.gov/wiki/Guide-to-creating-an-account-for-and-using-the-test-harvester).
 
 ## Frequently Asked Questions
 
-- **[General](#faq-general)**
-- **[Federal Data with Project Open Data](#faq-data)**
-- **[Federal Geospatial](#faq-geospatial)**
-- **[Non-federal](#faq-non-federal)**
+* **[General](#faq-general)**
+* **[Federal Data with Project Open Data](#faq-data)**
+* **[Federal Geospatial](#faq-geospatial)**
+* **[Non-federal](#faq-non-federal)**
 
 ### General
 
