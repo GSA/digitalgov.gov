@@ -18,9 +18,9 @@ This guide is primarily for the [Open Data Points of Contact](https://project-op
 
 - [**Overview**](#overview "Overview")
 - [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1-organize-your-open-data-for-the-data-gov-pipeline "Step 1: Organize your open data for the Data.gov Pipeline")
-  - [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
-  - [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
-  - [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
+    - [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
+    - [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
+    - [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
 - [**Step 2: Coordinate with Data.gov**](#step-2-coordinate-with-data-gov "Step 2: Coordinate with Data.gov")
 - [**Resources & Tools**](#resources-tools "Resources & Tools")
 - [**Frequently Asked Questions**](#frequently-asked-questions "Frequently Asked Questions")
