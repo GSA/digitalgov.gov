@@ -9,7 +9,7 @@ topics:
   - data-gov
 authors:
   - pashlock
-redirectto: https://resources.data.gov/tools/inventory-data-gov-guide/
+redirectto: https://resources.data.gov/resources/inventory-data-gov-guide/
 
 ---
 
