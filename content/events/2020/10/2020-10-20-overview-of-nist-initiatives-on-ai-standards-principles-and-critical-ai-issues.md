@@ -31,10 +31,10 @@ primary_image: nist-logo-1200x630
 
 AI has the potential to impact nearly all aspects of our society, including our economy, but the development and use of the new technologies it brings are not without technical challenges and risks. AI must be developed in a trustworthy manner to ensure reliability, safety and accuracy. 
 
-Elham Tabassi and Mark Przybocki will provide an overview of ongoing [National Institute of Standards and Technology](https://www.nist.gov/)(NIST) efforts supporting fundamental and applied research and standards for AI technologies.
+Elham Tabassi and Mark Przybocki will provide an overview of ongoing [National Institute of Standards and Technology](https://www.nist.gov/) (NIST) efforts supporting fundamental and applied research and standards for AI technologies.
 
 - - -
 
-*This talk is hosted by the [AI Community of Practice (CoP)](https://digital.gov/communities/devops/)*. This community aims to unite federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.
+*This talk is hosted by the [AI Community of Practice (CoP)](https://digital.gov/communities/artificial-intelligence/)*. This community aims to unite federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.
 
 
