@@ -79,7 +79,7 @@ In this session you will hear from the following speakers :
 
 In this session you will hear from the following speakers :
 
-* **2:00pm - 3:00pm : Training Writers** 
+* **2:00pm - 3:00pm : Training Writers-** Scott Kubie, Independent Consultant
 * **3:00pm - 4:00pm : Plain Language-** Katherine Spivey
 
 ---
