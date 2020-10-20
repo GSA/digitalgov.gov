@@ -1,6 +1,7 @@
 ---
 title: Overview of NIST Initiatives on AI Standards, Principles, and Critical AI
   Issues
+kicker: Artificial Intelligence
 deck: In this webinar experts from NIST provide an overview of their key AI
   initiatives including responsible, trustworthy, and explainable AI.
 summary: In this webinar experts from NIST provide an overview of their key AI
