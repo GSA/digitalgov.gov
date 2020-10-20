@@ -40,7 +40,7 @@ profile_photo: "digit-dark"
 twitter: ""
 facebook: ""
 instagram: ""
-linkedin: "https://www.linkedin.com/in/bridget-fields/"
+linkedin: "bridget-fields"
 youtube: ""
 
 # Make it better ♥
