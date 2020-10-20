@@ -40,7 +40,7 @@ profile_photo: "github"
 twitter: ""
 facebook: ""
 instagram: ""
-linkedin: "https://www.linkedin.com/in/oghaffari/"
+linkedin: "oghaffari"
 youtube: ""
 
 # Make it better ♥
