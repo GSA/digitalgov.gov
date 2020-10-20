@@ -37,15 +37,15 @@ Attendees will walk away with an understanding of:
 * Methods of benchmarking against peers, competitors, and best-in-class eCommerce sites to remain current with the evolving digital landscape and expectations
 * How the above analytics and continuous improvement approach has helped USPS promote, protect, and expand its brand while growing revenue (especially in extraordinary times, like during the novel coronavirus pandemic).
 
-  #### Presenters:
+## Presenters:
 
-  **Matt Petrowski** began his digital career in 2007 as an ad ops trafficker for HealthCentral, a top online health publisher. After subsequent work as a digital strategist and eCommerce content manager, Matt joined the USPS digital brand marketing team in 2014 as the digital analytics program manager. Since then, he has successfully transitioned USPS.com to Google Analytics, incorporated structured data on a platform level, implemented a centralized digital marketing data platform, and shared machine learning from website data with USPS business teams. 
+**Matt Petrowski** began his digital career in 2007 as an ad ops trafficker for HealthCentral, a top online health publisher. After subsequent work as a digital strategist and eCommerce content manager, Matt joined the USPS digital brand marketing team in 2014 as the digital analytics program manager. Since then, he has successfully transitioned USPS.com to Google Analytics, incorporated structured data on a platform level, implemented a centralized digital marketing data platform, and shared machine learning from website data with USPS business teams. 
 
-  Outside of work, Matt’s primary area of interest is how digital mediums modify interpersonal behaviors and emotions. 
+Outside of work, Matt’s primary area of interest is how digital mediums modify interpersonal behaviors and emotions. 
 
-  **Jeff Pass** made his first website in 1997 and has been involved in digital communications, usability, information architecture, content strategy, and design ever since. For the last 21 years, Jeff has been a federal contractor working on high-profile projects including HealthCare.gov, CFTC.gov, MyHealthevet.gov (now MyHealth.va.gov), and dozens more. Since 2014, he has been the User Experience Team Lead for USPS.gov.
+**Jeff Pass** made his first website in 1997 and has been involved in digital communications, usability, information architecture, content strategy, and design ever since. For the last 21 years, Jeff has been a federal contractor working on high-profile projects including HealthCare.gov, CFTC.gov, MyHealthevet.gov (now MyHealth.va.gov), and dozens more. Since 2014, he has been the User Experience Team Lead for USPS.gov.
 
-  Jeff also helps the UX community of practice for his employer, Booz Allen Hamilton, and has been a long-time UX event organizer, including GoodGov UX, World IA Day DC, UXDC, DCUS, World Usability Day, IA Summit, IA Conference, and UXPA.
+Jeff also helps the UX community of practice for his employer, Booz Allen Hamilton, and has been a long-time UX event organizer, including GoodGov UX, World IA Day DC, UXDC, DCUS, World Usability Day, IA Summit, IA Conference, and UXPA.
 
 ---
 
