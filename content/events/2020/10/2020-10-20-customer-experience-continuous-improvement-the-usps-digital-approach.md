@@ -47,7 +47,7 @@ Attendees will walk away with an understanding of:
 
   Jeff also helps the UX community of practice for his employer, Booz Allen Hamilton, and has been a long-time UX event organizer, including GoodGov UX, World IA Day DC, UXDC, DCUS, World Usability Day, IA Summit, IA Conference, and UXPA.
 
-  \---
+---
 
   **Related Links:**
 
@@ -59,6 +59,6 @@ Attendees will walk away with an understanding of:
   * [Research-Based Web Design and Usability Guidelines](https://guidelines.usability.gov/) (<https://guidelines.usability.gov/>)
   * [Usability.gov](https://www.usability.gov/) (<https://www.usability.gov/>)
 
-  \---
+---
 
   *This talk is presented by the USPS.com Digital Analytics and User Experience Teams who operate under the USPS department of Digital Brand Marketing and hosted by Digital.gov.*
