@@ -25,7 +25,7 @@ youtube_id: "null"
 ---
 A networking event complementing the video to be released on Monday, November 10, Service to Service, on the perspectives from women who have transitioned from serving in the armed forces to serving our country as civilian government employees. In this networking event, participants will have the opportunity to ask questions to senior leaders who have transitioned from military to civilian service in the IT and cyber field. Come prepare to ask on transitioning, leadership and career development.
 
-**Speakers:**
+## Speakers:
 
 **Donna Roy** is the Assistant Director, Chief Information Officer, directing all technology areas including Application Development, Cybersecurity, Data, Design, End User Systems and Strategy, Enterprise Architecture, Network Engineering and Systems Engineering at the Consumer Financial Protection Bureau.  Donna serves as the principal advisor to the Director and Chief Operating Officer for all matters related to information technology for the Bureau.  She is responsible for maximizing productive use of current and emerging information technologies and setting the Bureau standards in these areas.
 
@@ -39,6 +39,6 @@ In this role, Ms. Spinks leads an extensive DODIN and DCO portfolio responsible 
 
 Ms. Spinks is the go-to person for institutionalizing cloud migration and network transformation.  She creates processes, tools, techniques and protocols to compute, store, process, analyze and secure USMC data while driving enablers to proactive network resiliency posture.
 
-\---
+---
 
 *The Women in Federal IT and Cyber series of virtual engagements is hosted by the Chief Information Officer Council (CIOC).*
