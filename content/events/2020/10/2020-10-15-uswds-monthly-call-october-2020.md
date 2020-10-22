@@ -26,7 +26,7 @@ authors:
 slug: uswds-monthly-call-october-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-youtube_id: null
+youtube_id: Aw5ovySXf6o
 primary_image: uswds-logo
 ---
 {{< img-right src="uswds-logo" alt="" >}}
