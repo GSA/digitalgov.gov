@@ -17,6 +17,10 @@ topics:
   - usability
   - seo
   - user-experience
+# See all authors at https://digital.gov/authors
+authors:
+  - matt-petrowsk
+  - jeff-pass
 slug: customer-experience-continuous-improvement-the-usps-digital-approach
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4612713&CustomerID=321
 date: 2020-11-12 14:00:00 -0500
