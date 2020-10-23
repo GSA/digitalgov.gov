@@ -23,7 +23,7 @@ slug: women-in-federal-it-cyber-conference-panel-discussion-3-veterans-day
 event_platform: zoom
 youtube_id: "null"
 ---
-A networking event complementing the video to be released on Monday, November 10, Service to Service, on the perspectives from women who have transitioned from serving in the armed forces to serving our country as civilian government employees. In this networking event, participants will have the opportunity to ask questions to senior leaders who have transitioned from military to civilian service in the IT and cyber field. Come prepare to ask on transitioning, leadership and career development.
+A networking event complementing the video to be released on Monday, November 10, Service to Service, on the perspectives from women who have transitioned from serving in the armed forces to serving our country as civilian government employees. In this networking event, participants will have the opportunity to ask questions to senior leaders who have transitioned from military to civilian service in the IT and cyber field.
 
 ## Speakers:
 
