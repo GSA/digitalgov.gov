@@ -9,7 +9,7 @@ topics:
   - data-gov
 authors:
   - pashlock
-redirectto: https://resources.data.gov/tools/how-to-get-your-open-data-on-datagov/
+redirectto: https://resources.data.gov/resources/data-gov-open-data-howto/
 
 ---
 
