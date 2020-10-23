@@ -51,13 +51,13 @@ Jeff has been a long-time UX event organizer, including GoodGov UX, World IA Day
 
   **Related Links:**
 
-  * [2012 Digital Government Strategy](https://digital.gov/resources/2012-digital-government-strategy/) (<https://digital.gov/resources/2012-digital-government-strategy/>)
-  * [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (<https://digital.gov/resources/21st-century-integrated-digital-experience-act/>)
-  * [USPS Digital Style Guide](https://www.usps.com/styleguide/) (<https://www.usps.com/styleguide/>)
-  * [Analytics.usa.gov](https://analytics.usa.gov/) (<https://analytics.usa.gov/>)
-  * [Information Architecture Heuristics](https://understandinggroup.com/poster) (<https://understandinggroup.com/poster>) (note: the basis for the USPS.com UX heuristics)
-  * [Research-Based Web Design and Usability Guidelines](https://guidelines.usability.gov/) (<https://guidelines.usability.gov/>)
-  * [Usability.gov](https://www.usability.gov/) (<https://www.usability.gov/>)
+  * [2012 Digital Government Strategy](https://digital.gov/resources/2012-digital-government-strategy/) 
+  * [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) 
+  * [USPS Digital Style Guide](https://www.usps.com/styleguide/) 
+  * [Analytics.usa.gov](https://analytics.usa.gov/) 
+  * [Information Architecture Heuristics](https://understandinggroup.com/poster) (note: the basis for the USPS.com UX heuristics)
+  * [Research-Based Web Design and Usability Guidelines](https://guidelines.usability.gov/) 
+  * [Usability.gov](https://www.usability.gov/) 
 
 ---
 
