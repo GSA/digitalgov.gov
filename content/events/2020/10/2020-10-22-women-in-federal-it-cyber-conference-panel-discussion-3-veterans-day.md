@@ -1,5 +1,5 @@
 ---
-title: "Women In Federal IT & Cyber Conference Panel Discussion #3: Veterans Day"
+title: "Women In Federal IT & Cyber Conference Panel Discussion #4: Veterans Day"
 kicker: CIO Council
 summary: Panelists will discuss the challenges of transitioning and the benefits
   of transitioning from military to civilian service in the IT field.
