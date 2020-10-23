@@ -5,10 +5,8 @@ summary: Panelists will discuss the challenges of transitioning and the benefits
   of transitioning from military to civilian service in the IT field.
 host: CIO Council
 event_organizer: Digital.gov
-registration_url: "https://www.eventbrite.com/e/women-in-federal-it-cyber-confe\
-  rence-panel-discussion-3-veterans-day-tickets-126324226161 "
-captions: "https://www.captionedtext.com/client/event.aspx?EventID=4613207&Cust\
-  omerID=321 "
+registration_url: "https://www.eventbrite.com/e/women-in-federal-it-cyber-conference-panel-discussion-3-veterans-day-tickets-126324226161"
+captions: "https://www.captionedtext.com/client/event.aspx?EventID=4613207&CustomerID=321"
 date: 2020-11-10 14:00:00 -0500
 end_date: 2020-11-10 15:00:00 -0500
 # See all topics at https://digital.gov/topics
@@ -18,7 +16,7 @@ topics:
 authors:
   - renata-spinks
   - donna-roy
-slug: women-in-federal-it-cyber-conference-panel-discussion-3-veterans-day
+slug: women-in-federal-it-cyber-conference-panel-discussion-4-veterans-day
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: "null"
