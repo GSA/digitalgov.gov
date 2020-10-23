@@ -45,7 +45,7 @@ Outside of work, Matt’s primary area of interest is how digital mediums modify
 
 **Jeff Pass** made his first website in 1997 and has been involved in digital communications, usability, information architecture, content strategy, and design ever since. For the last 21 years, Jeff has been a federal contractor working on high-profile projects including HealthCare.gov, CFTC.gov, MyHealthevet.gov (now MyHealth.va.gov), and dozens more. Since 2014, he has been the User Experience Team Lead for USPS.gov.
 
-Jeff also helps the UX community of practice for his employer, Booz Allen Hamilton, and has been a long-time UX event organizer, including GoodGov UX, World IA Day DC, UXDC, DCUS, World Usability Day, IA Summit, IA Conference, and UXPA.
+Jeff has been a long-time UX event organizer, including GoodGov UX, World IA Day DC, UXDC, DCUS, World Usability Day, IA Summit, IA Conference, and UXPA.
 
 ---
 
