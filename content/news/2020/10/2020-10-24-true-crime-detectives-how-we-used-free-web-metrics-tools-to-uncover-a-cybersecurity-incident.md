@@ -15,11 +15,14 @@ topics:
 authors:
   - david-kaufmann
 slug: true-crime-detectives-how-we-used-free-web-metrics-tools-to-uncover-a-cybersecurity-incident
+primary_image: kaufmann-fraud-404
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 People who spend a fair amount of time digging through website analytics accounts know the feeling that you are driving [_The Mystery Machine_](https://en.wikipedia.org/wiki/Scooby-Doo) on the way to, hopefully, solving a mystery. It’s not often that we find ourselves uncovering a cybersecurity issue , as well. However, that’s what happened to us at USAGov—three times. 
 
 During our adventure, our ongoing efforts to creatively pursue actionable insights into our website data would be rewarded. For example, the time we spend tracking hits not just on the web pages that we want the public to read, but those we do not. Or, for deriving as much value as we can out of free and inexpensive web analytics products by putting them to work in unpredictable ways.
