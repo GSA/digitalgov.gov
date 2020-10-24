@@ -102,7 +102,7 @@ The first thing we did, which affected all three phases, was removing the barrie
 <tbody role="rowgroup">
     <tr role="row">
       <td role="cell">Solicitation close</td>
-      <td role="cell">1 day</td>
+      <td role="cell">1 day &nbsp;&nbsp;&nbsp;</td>
       <td role="cell">Collect all responses, by phase, to create templates and “Mad Libs” for evaluators.</td>
     </tr>
    <tr role="row">
