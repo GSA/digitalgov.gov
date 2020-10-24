@@ -94,7 +94,7 @@ The first thing we did, which affected all three phases, was removing the barrie
   <thead role="rowgroup">
     <tr role="row">
       <th role="columnheader">Phase </th>
-      <th role="columnheader">Time &nbsp;&nbsp;</th>
+      <th role="columnheader">Time &nbsp;&nbsp;&nbsp;&nbsp;</th>
       <th role="columnheader">Notes </th>
     </tr>
   </thead>
