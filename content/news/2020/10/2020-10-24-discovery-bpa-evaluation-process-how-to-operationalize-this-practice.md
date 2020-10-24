@@ -2,10 +2,8 @@
 date: 2020-10-26 20:25:00 -0500
 kicker: Acquisition
 title: "Discovery BPA Evaluation Process: How to Operationalize this Practice"
-deck: How to Operationalize this Practice
-summary: This guide provides acquisition professionals the steps and resources
-  needed to operationalize the evaluation process developed for the Discovery
-  BPA.
+deck: 
+summary: This guide provides acquisition professionals the steps and resources needed to operationalize the evaluation process developed for the Discovery BPA.
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
@@ -25,7 +23,9 @@ slug: discovery-bpa-evaluation-process-how-to-operationalize-this-practice
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 At the Technology Transformation Services (TTS), we take pride in iterating everything we do and using cross-functional teams in all aspects of our work. Utilizing modern techniques and emerging technologies in our own work has given us a great deal of insight into what it takes to acquire services and products from the contractors that have the technical expertise to deliver the same to our agency partners. 
 
 After our first experiment with a Blanket Purchase Agreement (BPA) through our experiences with the [Agile BPA](https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/) (aBPA), 18F Acquisitions subject matter experts (SMEs) and their counterparts at the [IT Modernization Centers of Excellence](https://coe.gsa.gov/) (CoE) developed the Discovery BPA (dBPA). While serving a different purpose, many of the lessons learned from the experience of establishing the initial set of agreements and awarding the task orders on the aBPA were incorporated into the solicitation that resulted in the dBPA. 
@@ -91,7 +91,6 @@ The first thing we did, which affected all three phases, was removing the barrie
 ## The Evaluation Timeline
 
 <table>
-
 <tr>
 <th scope="col">Phase</th>
 <th scope="col">Time</th>
@@ -99,35 +98,34 @@ The first thing we did, which affected all three phases, was removing the barrie
 </tr>
 
 <tr>
-<th scope="row">Solicitation close</th>
+<td>Solicitation close</td>
 <td>1 day</td>
 <td>Collect all responses, by phase, to create templates and “Mad Libs” for evaluators.</td>
 </tr>
 
 <tr>
-<th scope="row">Phase I</th>
+<td>Phase I</td>
 <td>7 days</td>
 <td>Responses were provided in 48 hours with the questions set to mimic a real-world issue we face.</td>
 </tr>
 
 <tr>
-<th scope="row">Phase II</th>
+<td>Phase II</td>
 <td>8 days</td>
 <td>Evaluate the scenario question, again, with an “answer guide,” testing the ability to make “it” stick.</td>
 </tr>
 
 <tr>
-<th scope="row">Phase III</th>
+<td>Phase III</td>
 <td>12 days</td>
 <td>Run through the technical proposal and management approach with an eye on similar experience.</td>
 </tr>
 
 <tr>
-<th scope="row">Award</th>
+<td>Award</td>
 <td>22 days</td>
 <td>Using the Google Sheets that had all the responses, generate all award documentation and brief FAC.</td>
 </tr>
-
 </table>
 
 ### Phase I - Technical Challenge
