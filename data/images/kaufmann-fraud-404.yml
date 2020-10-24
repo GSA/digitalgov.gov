@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/kaufmann-fraud-404.png
+
+# Image shortcode: {{< img src="kaufmann-fraud-404" >}}
+
+date     : 2020-10-24 01:04:05 -0400
+uid      : kaufmann-fraud-404
+width    : 759
+height   : 557
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A screenshot of website visitation data shows an increase in page views to a website using USA.gov code to trick visitors into sharing personal information." 
