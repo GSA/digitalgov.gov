@@ -20,4 +20,5 @@ jobs:
         days-before-close: 14
         stale-issue-label: '[status] stale'
         stale-pr-label: '[status] stale'
+        exempt-issue-label: '---- HOLD ----, Bug: broken links, Bug: Content Cleanup'
         exempt-pr-label: '---- HOLD ----'
