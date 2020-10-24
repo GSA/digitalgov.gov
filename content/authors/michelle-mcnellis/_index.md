@@ -40,7 +40,7 @@ profile_photo: "github"
 twitter: ""
 facebook: ""
 instagram: ""
-linkedin: "https://www.linkedin.com/in/michelle-mcnellis"
+linkedin: "michelle-mcnellis"
 youtube: ""
 
 # Make it better ♥

@@ -38,7 +38,7 @@ community_list:
     subscribe_email: "digitalgovu@gsa.gov"
     subscribe_email_subject: "Join Web Content Managers"
     subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
-    members: 1878
+    members: 1899
     emails_per_week: 4
 
 

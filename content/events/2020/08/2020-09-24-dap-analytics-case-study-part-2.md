@@ -34,7 +34,7 @@ authors:
 event_platform:
 
 # YouTube ID
-youtube_id:
+youtube_id: u7LvthwLARU
 
 # Make it better ♥
 

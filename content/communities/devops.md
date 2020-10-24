@@ -48,10 +48,11 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-Please check back for an upcoming meeting.
+- **Please check back soon for upcoming meetings**
 
 ## Past Meetings
 
+- **[September Meeting: A Fresh Start With DevOps - Maybe](https://digital.gov/event/2020/09/22/a-fresh-start-with-devops-maybe/)**
 - **[August Special Event: The Continuous DevOps Dilemma with Andrew Clay Shafer](https://digital.gov/event/2020/08/04/continuous-devops-dilemma-with-andrew-clay/)**
 - **[June Meeting: Air Force COOL and 18F, Partnership and Flight Operations Software Agile Lessons Learned](https://digital.gov/event/2020/06/23/air-force-cool-18f-partnership-flight/)**
 - **[May Meeting: DevOps Lessons Learned from the Air Force’s Early Cloud Journey](https://digital.gov/event/2020/05/19/devops-lessons-learned-from-air-forces/)**

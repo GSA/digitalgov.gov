@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/kaeli.png
+
+# Image shortcode: {{< img src="kaeli" >}}
+
+date     : 2020-10-15 19:59:13 -0400
+uid      : kaeli
+width    : 3024
+height   : 4032
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Dr. Kaeli Yuen stands smiling outdoors. She is on the steps of a government building."

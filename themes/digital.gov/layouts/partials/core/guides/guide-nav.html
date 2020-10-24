@@ -8,16 +8,16 @@
       {{/* All the guide files */}}
       {{- $guide_files := (where .Site.Pages ".Params.guide" .Params.guide) -}}
       {{/* Check for a guide YML file  */}}
-      {{- if $guide_data -}}
+      {{- if and $guide_data $guide_data.nav -}}
         {{/* {{ template "guidenav-data-driven" (dict "current_page" $current_page "guide_data" $guide_data.nav "guide_files" $guide_files ) }} */}}
         {{/* Gets the URL of the current page in the guide */}}
         {{- $current_url := $current_page.Permalink -}}
 
         {{- range $guide_data.nav -}}
           {{- $item := . -}}
+          {{- $page := $.Site.GetPage $item.path }}
           <li class="usa-sidenav__item">
-            {{- $page := $.Site.GetPage $item.path  -}}
-            <a class="{{- if eq $current_url $page.Permalink  -}}usa-current{{- end -}}" href="{{- $page.Permalink  -}}" title="{{- $item.title -}}">
+            <a class="{{- if eq $current_url $page.Permalink  -}}usa-current{{- end -}}" href="{{- $page.Permalink -}}" title="{{- $item.title -}}">
               {{- $item.title }}
               {{ if $item.subnav -}}<span class="arrow-right"></span>{{- end -}}
             </a>

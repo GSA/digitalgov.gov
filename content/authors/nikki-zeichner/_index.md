@@ -40,7 +40,7 @@ profile_photo: "github"
 twitter: "nikzei"
 facebook: ""
 instagram: ""
-linkedin: "https://www.linkedin.com/in/nikki-zeichner-82689412"
+linkedin: "nikki-zeichner-82689412"
 youtube: ""
 
 # Make it better ♥

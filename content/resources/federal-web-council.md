@@ -64,8 +64,8 @@ You are encouraged to reach out to your agency’s Web Council member if you hav
 
 - Agency for International Development — Gregg Your
 - Department of Agriculture — Peter Rhee
-- Department of Commerce — Alicia Sowah
-- Department of Defense — Terry Davis
+- Department of Commerce — Stan Smith
+- Department of Defense — Amanda Villwock
 - Department of Education — Sally Harris
 - Department of Energy — Tom O'Neill
 - Department of Health and Human Services — Stacey Palosky

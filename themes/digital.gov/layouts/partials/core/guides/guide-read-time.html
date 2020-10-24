@@ -1,0 +1,17 @@
+{{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
+
+{{- if and $guide_data $guide_data.showReadTime -}}
+
+    {{- $readTime := 0 -}}
+
+    {{ if isset .Params "readtime" }}
+        {{- $readTime = .Params.readTime -}}
+    {{- else -}}
+        {{- $readTime = .ReadingTime -}}
+    {{- end -}}
+
+    {{ if $readTime }}
+        {{ $readTimeMinutes := cond (gt $readTime 1) "minutes" "minute" }}
+        <p>Reading time: {{ $readTime }} {{ $readTimeMinutes }}</p>
+    {{- end -}}
+{{- end -}}

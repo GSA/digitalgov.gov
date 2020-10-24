@@ -40,7 +40,7 @@ profile_photo: "github"
 twitter: "codedotgov"
 facebook: ""
 instagram: ""
-linkedin: "code.gov"
+linkedin: "aminmehr"
 youtube: ""
 
 # Make it better ♥

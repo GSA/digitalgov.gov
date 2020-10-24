@@ -1,0 +1,21 @@
+# Navigation YML file for web analytics guide guide
+showNextPrevious: true
+nav:
+- title    : 'Overview'
+  path     : '/guides/web-analytics-playbook/_index.md'
+- title    : 'Play 1: Create a foundation'
+  path     : '/guides/web-analytics-playbook/create-a-foundation-for-your-strategy.md'
+- title    : 'Play 2: Commit to action'
+  path     : '/guides/web-analytics-playbook/commit-to-action.md'
+- title    : 'Play 3: Implement wisely'
+  path     : '/guides/web-analytics-playbook/implement-wisely.md'
+- title    : "Play 4: Configure your tool's settings carefully"
+  path     : '/guides/web-analytics-playbook/configure-your-tools-settings-carefully.md'
+- title    : "Play 5: Know what you're looking for"
+  path     : '/guides/web-analytics-playbook/know-what-youre-looking-for.md'
+- title    : 'Play 6: Democratize the data'
+  path     : '/guides/web-analytics-playbook/democratize-the-data.md'
+- title    : 'Play 7: Invest in training and support'
+  path     : '/guides/web-analytics-playbook/invest-in-training-and-support.md'
+- title    : 'Play 8: Do it continuously'
+  path     : '/guides/web-analytics-playbook/do-it-continuously.md'

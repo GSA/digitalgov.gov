@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/kaufmann-404-page-spike.png
+
+# Image shortcode: {{< img src="kaufmann-404-page-spike" >}}
+
+date     : 2020-10-24 00:31:04 -0400
+uid      : kaufmann-404-page-spike
+width    : 844
+height   : 670
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A screenshot of DAP data shows a spike in pageviews occurred on August 6, 2020. It lists the top seven 404 pages under USAGov's English and Spanish websites." 

@@ -4,7 +4,7 @@
 slug: analytics-case-study-part-3-action
 kicker: "DAP Learning Series"
 title: "Analytics Case Study Part 3: Action"
-deck: "How to take actions using the analysis and insights you created using DAP and Google Analytics."
+deck: "How to take action using the analysis and insights you created using DAP and Google Analytics."
 summary: "In this webinar, we'll address how to use the analysis and insights you created using DAP Google Analytics, to take action."
 host: "Digital Analytics Program (DAP)"
 event_organizer: "Digital.gov"
@@ -32,9 +32,12 @@ topics:
 authors:
   - tlowden
   - freddie-blicher
+  
+# zoom, youtube_live, adobe_connect, google
+event_platform: zoom
 
 # YouTube ID
-youtube_id:
+youtube_id: lpf6rA1OzzI
 
 # Make it better ♥
 
@@ -44,7 +47,7 @@ In part 3 of our Analytics Case Study series, we'll address how to take action u
 
 You will need to have attended, or viewed [**Part 1**]({{< ref "2020-08-26-dap-analytics-case-study-part-1.md" >}}) and [**Part 2**]({{< ref "2020-09-24-dap-analytics-case-study-part-2" >}}) of our Analytics Case Study series, identified your website mission, goals and KPIs and understand how to tie your DAP Google Analytics reporting to your strategy.
 
-We'll walk through step by step, how to think about taking actions based on data and insights. The goal of the webinar is to empower you with a real world example about how to connect the dots between your website mission, goals, KPIs and insights, to begin taking action.
+We'll walk through step by step, how to think about taking action based on data and insights. The goal of the webinar is to empower you with a real world example about how to connect the dots between your website mission, goals, KPIs and insights, to begin taking action.
 
 ## About the speakers
 

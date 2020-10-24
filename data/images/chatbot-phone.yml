@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/chatbot-phone.png
+
+# Image shortcode: {{< img src="chatbot-phone" >}}
+
+date     : 2020-10-15 19:59:13 -0400
+uid      : chatbot-phone
+width    : 463
+height   : 939
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "An illustrated mobile phone has the VA coronavirus chatbot webpage open. The chatbot has 2 questions populating the screen."

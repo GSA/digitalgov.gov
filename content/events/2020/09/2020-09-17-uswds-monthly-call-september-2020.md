@@ -23,7 +23,8 @@ authors:
 slug: uswds-monthly-call-september-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-youtube_id: null
+# YouTube ID
+youtube_id: YKT09mZxQZA
 weight: 0
 primary_image: uswds-2-illio-feature-image
 ---
