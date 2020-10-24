@@ -20,7 +20,7 @@ slug: true-crime-detectives-how-we-used-free-web-metrics-tools-to-uncover-a-cybe
 # 1 -- visible
 weight: 1
 ---
-People who spend a fair amount of time digging through website analytics accounts know the feeling that you are driving [The Mystery Machine](https://en.wikipedia.org/wiki/Scooby-Doo) on the way to, hopefully, solving a mystery. It’s not often that we find ourselves uncovering a cybersecurity issue , as well. However, that’s what happened to us at USAGov—three times. 
+People who spend a fair amount of time digging through website analytics accounts know the feeling that you are driving [_The Mystery Machine_](https://en.wikipedia.org/wiki/Scooby-Doo) on the way to, hopefully, solving a mystery. It’s not often that we find ourselves uncovering a cybersecurity issue , as well. However, that’s what happened to us at USAGov—three times. 
 
 During our adventure, our ongoing efforts to creatively pursue actionable insights into our website data would be rewarded. For example, the time we spend tracking hits not just on the web pages that we want the public to read, but those we do not. Or, for deriving as much value as we can out of free and inexpensive web analytics products by putting them to work in unpredictable ways.
 
@@ -34,7 +34,9 @@ While on the hunt to solve a different mystery, I was spending some time in the 
 
 At around this time, I started using a tag manager product to deploy the scripts that allow our web pages to send hit information to our analytics accounts. We use the free version of a popular web analytics account, as well as the more robust [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) version offered by the U.S. General Services Administration (GSA). For testing things I was doing with the tag manager, I set up an analytics account just for sending hits on test sites. I only wanted the code for this test account to fire on our test websites, so I used rules on our tag manager to make that happen. 
 
-That’s when I decided to add a view to this account for collecting hits from websites that aren’t either our main site or our test and sandbox sites. I used the tag manager to fire our analytics script for this account on pages with a hostname that didn’t match any of our known sites.
+That’s when I decided to add a view to this account for collecting hits from websites that aren’t either our main site or our test and sandbox sites. I used the tag manager to fire our analytics script for this account on pages with a hostname that didn’t match any of our known sites. 
+
+{{< img src="kaufmann-fraud-404" >}}
 
 ## A cybersecurity incident...revealed!
 
