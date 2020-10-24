@@ -90,12 +90,11 @@ The first thing we did, which affected all three phases, was removing the barrie
 
 ## The Evaluation Timeline
 
-
 <table role="table">
   <thead role="rowgroup">
     <tr role="row">
       <th role="columnheader">Phase </th>
-      <th role="columnheader">Time </th>
+      <th role="columnheader">Time &nbsp;&nbsp;</th>
       <th role="columnheader">Notes </th>
     </tr>
   </thead>
@@ -106,73 +105,26 @@ The first thing we did, which affected all three phases, was removing the barrie
       <td role="cell">1 day</td>
       <td role="cell">Collect all responses, by phase, to create templates and “Mad Libs” for evaluators.</td>
     </tr>
-
    <tr role="row">
       <td role="cell">Phase I</td>
       <td role="cell">7 days</td>
       <td role="cell">Responses were provided in 48 hours with the questions set to mimic a real-world issue we face.</td>
     </tr>
-
     <tr role="row">
       <td role="cell">Phase II</td>
       <td role="cell">8 days</td>
       <td role="cell">Evaluate the scenario question, again, with an “answer guide,” testing the ability to make “it” stick.</td>
     </tr>
-
     <tr role="row">
       <td role="cell">Phase III</td>
       <td role="cell">12 days</td>
       <td role="cell">Run through the technical proposal and management approach with an eye on similar experience.</td>
     </tr>
-
     <tr role="row">
       <td role="cell">Award</td>
       <td role="cell">22 days</td>
       <td role="cell">Using the Google Sheets that had all the responses, generate all award documentation and brief FAC.</td>
     </tr>
-</tbody>
-</table>
-
---- 
-
-<table>
-  <thead>
-<tr>
-<th scope="col">Phase </th>
-<th scope="col">Time </th>
-<th scope="col">Notes </th>
-</tr>
-  </thead>
-<tbody>
-<tr>
-<td>Solicitation close</td>
-<td>1 day</td>
-<td>Collect all responses, by phase, to create templates and “Mad Libs” for evaluators.</td>
-</tr>
-
-<tr>
-<td>Phase I</td>
-<td>7 days</td>
-<td>Responses were provided in 48 hours with the questions set to mimic a real-world issue we face.</td>
-</tr>
-
-<tr>
-<td>Phase II</td>
-<td>8 days</td>
-<td>Evaluate the scenario question, again, with an “answer guide,” testing the ability to make “it” stick.</td>
-</tr>
-
-<tr>
-<td>Phase III</td>
-<td>12 days</td>
-<td>Run through the technical proposal and management approach with an eye on similar experience.</td>
-</tr>
-
-<tr>
-<td>Award</td>
-<td>22 days</td>
-<td>Using the Google Sheets that had all the responses, generate all award documentation and brief FAC.</td>
-</tr>
 </tbody>
 </table>
 
