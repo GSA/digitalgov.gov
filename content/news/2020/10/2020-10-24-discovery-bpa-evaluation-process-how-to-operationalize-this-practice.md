@@ -93,36 +93,30 @@ The first thing we did, which affected all three phases, was removing the barrie
 <table role="table">
   <thead role="rowgroup">
     <tr role="row">
-      <th role="columnheader">Phase </th>
-      <th role="columnheader">Time &nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th role="columnheader">Phase and Time</th>
       <th role="columnheader">Notes </th>
     </tr>
   </thead>
 
 <tbody role="rowgroup">
     <tr role="row">
-      <td role="cell">Solicitation close</td>
-      <td role="cell">1 day &nbsp;&nbsp;&nbsp;</td>
+      <td role="cell">Solicitation close: 1 day</td>
       <td role="cell">Collect all responses, by phase, to create templates and “Mad Libs” for evaluators.</td>
     </tr>
    <tr role="row">
-      <td role="cell">Phase I</td>
-      <td role="cell">7 days</td>
+      <td role="cell">Phase I: 7 days</td>
       <td role="cell">Responses were provided in 48 hours with the questions set to mimic a real-world issue we face.</td>
     </tr>
     <tr role="row">
-      <td role="cell">Phase II</td>
-      <td role="cell">8 days</td>
+      <td role="cell">Phase II: 8 days</td>
       <td role="cell">Evaluate the scenario question, again, with an “answer guide,” testing the ability to make “it” stick.</td>
     </tr>
     <tr role="row">
-      <td role="cell">Phase III</td>
-      <td role="cell">12 days</td>
+      <td role="cell">Phase III: 12 days</td>
       <td role="cell">Run through the technical proposal and management approach with an eye on similar experience.</td>
     </tr>
     <tr role="row">
-      <td role="cell">Award</td>
-      <td role="cell">22 days</td>
+      <td role="cell">Award: 22 days</td>
       <td role="cell">Using the Google Sheets that had all the responses, generate all award documentation and brief FAC.</td>
     </tr>
 </tbody>
