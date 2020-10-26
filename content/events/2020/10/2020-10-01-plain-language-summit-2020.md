@@ -37,53 +37,54 @@ slug: plain-language-summit-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: plain-language
+
 ---
 
 {{< img-right src="plain-language" >}}
 
-On October 27-28, 2020, the Plain Language Action and Information Network (PLAIN) brings experts to explain how plain language can improve our government communication.
+On October 27 and 28, 2020, the Plain Language Action and Information Network (PLAIN) will bring experts together to explain how plain language can improve our government communication.
 
-You will need to register for each session to receive the correct links and conference details. Below is a short description of each session.
+There will be two sessions each day. You will need to register for each one to receive the correct Zoom for Government links and conference details. Below is a short description of each of the four sessions. 
 
 ## Agenda
 
-**(Tues., October 27)**
+### Tuesday, October 27
 
-**First Session (10:00a.m. - 12:15p.m. ET)**
+**First Session (10:00 am - 12:15 pm, ET)**
 
-In this session you will hear from the following speakers :
+In this session you will hear from the following speakers:
 
-* **10:00am - 10:30am: Welcome & Annual Report-** Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN) & Katina Stapleton, Co-Chair of PLAIN
-* **10:35am - 11:15am: Putting Plain Language to the Test-** Nicole Fenton, Senior Content Strategist, Nava
-* **11:15am - 12:15pm : Keynote-** Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
+* **10:00 am - 10:30 am: Welcome & Annual Report**&mdash;Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN) and Katina Stapleton, co-chair of PLAIN
+* **10:35 am - 11:15 am: Putting Plain Language to the Test**&mdash;Nicole Fenton, Senior Content Strategist
+* **11:15 am - 12:15 pm: Keynote**&mdash;Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
 
-**Second Session (2:00 p.m. – 4:15 p.m. ET)**
+**Second Session (2:00 pm – 4:15 pm, ET)**
 
-In this session you will hear from the following speakers :
+In this session you will hear from the following speakers:
 
-* **2:00pm - 3:00pm : Government CX: Intersection of CX and PL-** Martha Dorris, Dorris Consulting International
-* **3:00pm - 3:30pm : How We Got the Plain Writing Act Passed-** Annetta Cheek, Chair, Standards Committee, International Federation for Plain Language
-* **3:30pm - 4:15pm : 30 Years of False Criticisms-** Joe Kimble, Flimsy Claims for Legalese and False Criticisms of Plain Language: A 30-Year Collection
+* **2:00 pm - 3:00 pm: Government CX: Intersection of CX and PL**&mdash;Martha Dorris, Independent Consultant 
+* **3:00 pm - 3:30 pm: How We Got the Plain Writing Act Passed**&mdash;Annetta Cheek, Chair, Standards Committee, International Federation for Plain Language
+* **3:30 pm - 4:15 pm: Flimsy Claims for Legalese and False Criticisms of Plain Language: A 30-Year Collection**&mdash;Joe Kimble, Professor Emeritus, Western Michigan University
 
-**(Wed., October 28)**
+### Wednesday, October 28
 
-**Third Session (9:30 a.m. – 12:00 p.m. ET)**
+**Third Session (9:30 am – 12:00 pm, ET)**
 
-In this session you will hear from the following speakers :
+In this session you will hear from the following speakers:
 
-* **9:30am - 10:00am: Use Plain Language to Influence, Motivate & Mobilize for Change-** Bethany Blakey, Chief Modernization Strategist, CoE, TTS
-* **10:00am - 11:00am: Content Strategy-** Ginny Redish, Redish & Associates
-* **11:00am - 12:00pm : Sense making lessons from the Private Sector-** Abby Covert, Information Architect & Author
+* **9:30 am - 10:00 am: Use Plain Language to Influence, Motivate & Mobilize for Change**&mdash;Bethany Blakey, Chief Modernization Strategist, CoE, TTS
+* **10:00 am - 11:00 am: Content Strategy**&mdash;Ginny Redish
+* **11:00 am - 12:00 pm: Sense making lessons from the Private Sector**&mdash;Abby Covert, Information Architect & Author
 
-**Fourth Session (2:00 p.m. – 4:15 p.m. ET)**
+**Fourth Session (2:00 pm – 4:15 pm, ET)**
 
-In this session you will hear from the following speakers :
+In this session you will hear from the following speakers:
 
-* **2:00pm - 3:00pm : How Smart Teams Create and Train Writers-** Scott Kubie, Independent Consultant
-* **3:00pm - 4:00pm : Plain Language-** Katherine Spivey
+* **2:00 pm - 3:00 pm: How Smart Teams Create and Train Writers**&mdash;Scott Kubie, Independent Consultant
+* **3:00 pm - 4:00 pm: Plain Language**&mdash;Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)
 
 ---
 
-*Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.*
+_Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money, and provide better customer service to the public._
 
 {{< button href="https://digital.gov/communities/plain-language/" text="Join the Plain Language Community of Practice" >}}
