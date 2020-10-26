@@ -1,6 +1,8 @@
 ---
 date: 2020-10-26 00:08:00 -0500
 kicker: Security
+# Short URL — https://go.usa.gov/
+short_url: https://go.usa.gov/x74Fv
 title: "True Crime Detectives: How We Used Free Web Metrics Tools To Uncover a
   Cybersecurity Incident"
 deck: Join USA.gov as we slowly uncover a conspiracy to scam Americans using
