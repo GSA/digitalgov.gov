@@ -2,8 +2,9 @@
 date: 2020-10-27 02:21:00 -0500
 kicker: Metrics
 title: "Zero Pageviews Is Your Goal: Finding Problem Pages with Website Analytics"
-summary: Improve customer experience by turning your website analytics upside
-  down to track the numbers for pages you DON’T want visitors to see.
+summary: Improve customer experience by turning your website analytics upside down to track the numbers for pages you DON’T want visitors to see.
+# Short URL — https://go.usa.gov/
+short_url: 
 # See all topics at https://digital.gov/topics
 topics:
   - metrics
@@ -19,7 +20,9 @@ primary_image: kaufmann-404-page-spike
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Website analytics are great for monitoring visits to the content that your team has spent time and resources working on. Are people finding this important content? Which parts of the content are people using the most 
 
 However, website analytics are also important for tracking the performance of the web pages that you *don’t want people to visit*. These are pages that you would expect to be associated with bad experiences and frustration. Most commonly, I’m talking about error pages, but there are other negative page visits that could be measured on your site, too.
@@ -27,6 +30,8 @@ However, website analytics are also important for tracking the performance of th
 ## Error Pages
 
 The easiest place to look for problems is [404 pages](https://en.wikipedia.org/wiki/HTTP_404). In most situations, your website is set up to have 404s when the URL requested by the browser doesn’t match an expected one. These pageviews to your 404 page still register hits to your analytics account, so you can examine these URLs and perform other analysis there. 
+
+{{< img src="kaufmann-404-page-spike" >}}
 
 ### For DAP Users
 
