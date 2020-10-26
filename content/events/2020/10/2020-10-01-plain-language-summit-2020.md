@@ -51,7 +51,7 @@ You will need to register for each session to receive the correct links and conf
 
 **First Session (10:00a.m. - 12:15p.m. ET)**
 
-In this session you will hear from the following speakers :
+In this session you will hear from the following speakers:
 
 * **10:00am - 10:30am: Welcome & Annual Report-** Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN) & Katina Stapleton, Co-Chair of PLAIN
 * **10:35am - 11:15am: Putting Plain Language to the Test-** Nicole Fenton, Senior Content Strategist
@@ -59,7 +59,7 @@ In this session you will hear from the following speakers :
 
 **Second Session (2:00 p.m. – 4:15 p.m. ET)**
 
-In this session you will hear from the following speakers :
+In this session you will hear from the following speakers:
 
 * **2:00pm - 3:00pm : Government CX: Intersection of CX and PL-** Martha Dorris, Independent Consultant 
 * **3:00pm - 3:30pm : How We Got the Plain Writing Act Passed-** Annetta Cheek, Chair, Standards Committee, International Federation for Plain Language
@@ -69,7 +69,7 @@ In this session you will hear from the following speakers :
 
 **Third Session (9:30 a.m. – 12:00 p.m. ET)**
 
-In this session you will hear from the following speakers :
+In this session you will hear from the following speakers:
 
 * **9:30am - 10:00am: Use Plain Language to Influence, Motivate & Mobilize for Change-** Bethany Blakey, Chief Modernization Strategist, CoE, TTS
 * **10:00am - 11:00am: Content Strategy-** Ginny Redish
@@ -77,7 +77,7 @@ In this session you will hear from the following speakers :
 
 **Fourth Session (2:00 p.m. – 4:15 p.m. ET)**
 
-In this session you will hear from the following speakers :
+In this session you will hear from the following speakers:
 
 * **2:00pm - 3:00pm : How Smart Teams Create and Train Writers-** Scott Kubie, Independent Consultant
 * **3:00pm - 4:00pm : Plain Language-** Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)
