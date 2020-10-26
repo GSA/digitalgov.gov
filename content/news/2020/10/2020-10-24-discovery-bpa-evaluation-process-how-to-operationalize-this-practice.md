@@ -1,5 +1,5 @@
 ---
-date: 2020-10-26 20:25:00 -0500
+date: 2020-10-26 11:20:00 -0500
 kicker: Acquisition
 title: "Discovery BPA Evaluation Process: How to Operationalize this Practice"
 deck: 
@@ -19,6 +19,7 @@ authors:
   - ashley-owens
   - rebecca-refoy
 slug: discovery-bpa-evaluation-process-how-to-operationalize-this-practice
+primary_image: strategy-implementation-metal-gears
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
