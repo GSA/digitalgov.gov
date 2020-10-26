@@ -4,6 +4,8 @@ kicker: Acquisition
 title: "Discovery BPA Evaluation Process: How to Operationalize this Practice"
 deck: 
 summary: This guide provides acquisition professionals the steps and resources needed to operationalize the evaluation process developed for the Discovery BPA.
+# Short URL — https://go.usa.gov/
+short_url: https://go.usa.gov/x74MR
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
