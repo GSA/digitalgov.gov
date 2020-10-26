@@ -1,5 +1,5 @@
 ---
-date: 2020-10-27 02:21:00 -0500
+date: 2020-10-27 10:00:00 -0500
 kicker: Metrics
 title: "Zero Pageviews Is Your Goal: Finding Problem Pages with Website Analytics"
 summary: Improve customer experience by turning your website analytics upside down to track the numbers for pages you DON’T want visitors to see.
