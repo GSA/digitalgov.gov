@@ -21,7 +21,7 @@ authors:
   - ashley-owens
   - rebecca-refoy
 slug: discovery-bpa-evaluation-process-how-to-operationalize-this-practice
-primary_image: strategy-implementation-metal-gears
+primary_image: "strategy-implementation-metal-gears"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
