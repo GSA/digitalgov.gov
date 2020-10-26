@@ -1,7 +1,7 @@
 # This image is available at:
-# https://s3.amazonaws.com/digitalgov/strategy-implementation-metal-gears-etiammos-istock-getty-images-plus-668233520.png
+# https://s3.amazonaws.com/digitalgov/strategy-implementation-metal-gears.png
 
-# Image shortcode: {{< img src="strategy-implementation-metal-gears-etiammos-istock-getty-images-plus-668233520" >}}
+# Image shortcode: {{< img src="strategy-implementation-metal-gears" >}}
 
 date     : 2020-10-26 10:25:01 -0400
 uid      : strategy-implementation-metal-gears
@@ -10,4 +10,4 @@ height   : 3456
 format   : png
 credit   : "EtiAmmos / iStock / Getty Images Plus"
 caption  : ""
-alt      : "The words strategy and implementation are imprinted upon connected metal gears."
+alt      : "The words strategy and implementation are each imprinted upon connected metal gears."
