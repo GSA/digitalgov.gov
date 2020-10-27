@@ -12,7 +12,7 @@ last_name: "Kinnard"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email: krista.kinnard@gsa.gov
 
 # Bio — keep it under 50 words
 bio: ""
