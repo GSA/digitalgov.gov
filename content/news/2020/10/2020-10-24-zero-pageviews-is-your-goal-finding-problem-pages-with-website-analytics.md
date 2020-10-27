@@ -4,7 +4,7 @@ kicker: Metrics
 title: "Zero Pageviews Is Your Goal: Finding Problem Pages with Website Analytics"
 summary: Improve customer experience by turning your website analytics upside down to track the numbers for pages you DON’T want visitors to see.
 # Short URL — https://go.usa.gov/
-short_url: 
+short_url: https://go.usa.gov/x72Hg
 # See all topics at https://digital.gov/topics
 topics:
   - metrics
