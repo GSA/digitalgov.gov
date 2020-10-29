@@ -60,28 +60,6 @@ Jim Geoghegan (GSA) manages the RPA community: [james.geoghegan@gsa.gov](mailto:
 
 ---
 
-The community is organized into 10 practice areas, with subject matter experts from across the federal government.
-
-### Technology
-
-- **Privacy**: Richard Spiedel (GSA); Marcela Souaya (GSA)
-- **Credentialing**: Jennifer Hill, Treasury Office of Financial Innovation & Transformation (FIT)
-- **IT Platform**: Shang-Jeo Gaublomme, Department of Homeland Security (DHS)
-- **Security Policy**: Frank Greenwell, Federal Reserve Board (FRB); David Harris, Department of the Interior (DOI)
-
-### Management:
-
-- **Operating Model/Center of Excellence (CoE)**: James Gregory, Department of Homeland Security (DHS); Anju Anand, National Science Foundation (NSF); Pam Wolfe, National Aeronautics and Space Administration (NASA)
-- **HR Impact, Culture, Change Management, Comms**: Veronica Villalobos, Office of Personnel Management (OPM); Marianne Ndekey, Office of Personnel Management (OPM); A’ndrea Jones, Department of Housing and Urban Development (HUD)
-- **Management Reporting & Business Value**: James Geoghegan, (GSA); Kate Mishra, (HUD)
-- **Process Selection, Use Case, and Automation Sharing**: Erica Thomas, Office of the Secretary of Defense (DOD), Bo Shevchik, Federal Reserve System (Bank of St. Louis)
-
-### Operations:
-
-- **Operations Management**: James Gregory, (GSA)
-- **Development**: Christine Gex, Department of the Army (DOD); Margaret Moon, Department of Veterans Affairs (VA)
-
-
 ## Community Conduct
 When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
 
