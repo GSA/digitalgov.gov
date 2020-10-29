@@ -4,7 +4,7 @@ summary: We implement IT modernization at federal agencies by leveraging private
   sector innovation and government services while centralizing best practices
   and expertise for holistic transformation.
 # Images must be uploaded in the /static/logos/ folder before they can be used here.
-logo: gsa
+logo: coe
 # Originally published at the following URL
 source_url: https://coe.gsa.gov/
 contact: connectcoe@gsa.gov
