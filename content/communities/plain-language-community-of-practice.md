@@ -14,8 +14,8 @@ weight: 1
 community_list:
   - platform: "listserv"
     type: public
-    subscribe_form: "https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN"
-    members: 1169
+    subscribe_email: "PL-COP-MAIN-subscribe-request@listserv.gsa.gov"
+    members: 1269
     emails_per_week: 1.1
 
 authors:
