@@ -16,6 +16,6 @@ authors:
 # 0 -- hides this service from all pages, but URL is still public
 # 1 -- will appear on the tools and services page, and all related topic pages
 # 2 -- will appear as related service (ADs) on blog posts and event pages
-weight: 0
+weight: 1
 slug: centers-of-excellence
 ---
