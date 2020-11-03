@@ -26,6 +26,8 @@ primary_image: chat-bot-and-human-message-conversation-concept-screen-zapp2photo
 # 1 -- visible
 weight: 1
 ---
+{{< img src="aidan-hero-image" >}}
+
 Federal Student Aid (FSA) has 68 million customers, many of whom have used our call centers and may have waited to speak with a representative. 
 
 In fact, we receive about 30 million calls annually.  
