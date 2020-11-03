@@ -1,5 +1,5 @@
 ---
-title: Overview of NIST Initiatives on AI Standards, Principles, and Critical AI
+title: Overview of NIST Initiatives on Artificial Intelligence (AI) Standards, Principles, and Critical AI
   Issues
 kicker: Artificial Intelligence
 deck: In this webinar experts from NIST provide an overview of their key Artificial Intelligence (AI)
@@ -33,6 +33,8 @@ primary_image: nist-logo-1200x630
 Artificial Intelligence (AI) has the potential to impact nearly all aspects of our society, including our economy, but the development and use of the new technologies it brings are not without technical challenges and risks. AI must be developed in a trustworthy manner to ensure reliability, safety and accuracy. 
 
 Elham Tabassi and Mark Przybocki will provide an overview of ongoing [National Institute of Standards and Technology](https://www.nist.gov/) (NIST) efforts supporting fundamental and applied research and standards for AI technologies.
+
+## Speakers:
 
 **Elham Tabassi** is the Chief of Staff in the Information Technology Laboratory (ITL) at the National Institute of Standards and Technology (NIST). ITL, one of six research laboratories within NIST, supports NIST’s mission to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life. ITL conducts fundamental and applied research in computer science and engineering, mathematics, and statistics that cultivates trust in information technology and metrology by developing and disseminating standards, measurements, and testing for interoperability, security, usability, and reliability of information systems.  
 
