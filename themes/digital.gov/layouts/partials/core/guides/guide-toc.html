@@ -6,32 +6,6 @@
 
 */}}
 
-{{- if .Page.IsNode -}}
-  <div class="toc guide-toc">
-    {{/*
-      Checks if the page is the top most page in a guide.
-      - If yes, it will display the "In this guide"
-      - If no, it will display the "In this section"
-    */}}
-    {{- if eq .Page.File.Dir (printf "guides/%s/" .Page.Params.guide) -}}
-      <h2>In this guide</h2>
-    {{- else -}}
-      <h2>In this section</h2>
-    {{- end -}}
-
-    <ul>
-      <!-- Get all -->
-      {{- $guide_pages := where $.Site.RegularPages "Section" "guides" -}}
-      {{- $guide_pages := where $guide_pages "Section" .Page.CurrentSection -}}
-      {{- range sort (.Page.Pages) ".Page.Params.weight" "desc" -}}
-        <li>
-          <a href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a>
-        </li>
-      {{- end -}}
-    </ul>
-  </div>
-
-{{- else -}}
 
   {{- if .Page.TableOfContents -}}
   <div class="toc guide-toc">
@@ -40,4 +14,4 @@
   </div>
   {{- end -}}
 
-{{- end -}}
+

@@ -15,7 +15,7 @@ topics:
 <div>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/canadian-flag-2.jpg">{{< legacy-img src="2014/02/canadian-flag-2-250x126.jpg" alt="Canadian flag with a maple leaf in the center" >}}</a></p> 
   
-  <p dir="ltr">
+  <p>
     The Government of Canada (GC) is retiring the traditional news release format in favour of a more digital-friendly product that makes the key messages of announcements clearer, quick facts more accessible and integrates more effectively with social media channels.
   </p>
   
@@ -34,7 +34,7 @@ topics:
   * Offer associated links that provide additional context to help the reader better understand the issue.
 
 <div>
-  <p dir="ltr">
+  <p>
     An example of the new-look release is <a href="http://news.gc.ca/web/article-en.do;jsessionid=ac1b105430d7f94738f426044019a723ed7564fc4139.e34Rc3iMbx8Oai0Tbx0SaxqMb3r0?mthd=tp&crtr.page=1&nid=806819&crtr.tp1D=1">here</a>.
   </p>
   

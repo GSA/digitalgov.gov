@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/event/2020/02/federal-crowdsourcing-webinar-series-episode-7
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-webinar-series-episode-7
-title: "Federal Crowdsourcing Webinar Series Episode 7: Crowdsourcing for Code"
+title: "Federal Crowdsourcing Webinar Series, Episode 7: Crowdsourcing for Code"
 deck: ""
 summary: "Learn how the Code.gov team, and every day contributors, are helping the U.S. government to expand its repository—and application—of open-source code as part of Code.gov’s Open Tasks initiative."
 host: "Federal Crowdsourcing"
@@ -22,13 +22,14 @@ topics:
   - innovation
   - open
   - open-source
+  - crowdsourcing
 
 # see all authors at https://digital.gov/authors
 authors:
   - tammy-white
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # YouTube ID
 youtube_id: MzAuMy6LIjY
@@ -64,7 +65,7 @@ See how the Consumer Financial Protection Bureau, GSA and the Defense, Energy, a
 
 Airing the second Tuesday of each month, this series will illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue. Don’t miss these previous episodes:
 
--   Episode 6: [FedRAMP Ideation](https://www.youtube.com/watch?v=bx1ANQtHNQY) (October 2019), with Betsy Steele, GSA
+-   Episode 6: [FedRAMP Ideation](https://digital.gov/event/2019/10/30/federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation/) (October 2019), with Betsy Steele, GSA
 -   Episode 5: [History by the People](https://digital.gov/event/2019/08/13/federal-crowdsourcing-webinar-series-episode-5-by-the-people/) (August 2019), with Lauren Algee, Library of Congress
 -   Episode 4: [Open Opportunities](https://digital.gov/event/2019/07/09/federal-crowdsourcing-webinar-series-episode-4-open-opportunities/) (July 2019), with Lisa Nelson, USAJOBS, OPM
 -   Episode 3: [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/) (June 2019), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau

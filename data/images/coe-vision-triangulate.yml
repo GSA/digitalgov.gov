@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/coe-vision-triangulate.png
+
+# Image shortcode: {{< img src="coe-vision-triangulate" >}}
+
+date     : 2020-04-22 12:18:47 -0400
+uid      : coe-vision-triangulate
+width    : 2846
+height   : 1600
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A multi-colored triangle with a black check mark in the center, and a dark person icon at each corner of the triangle." 

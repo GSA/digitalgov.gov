@@ -9,7 +9,7 @@ authors:
 topics:
   - accessibility
   - design
-  - ux
+  - user-experience
   - methodology
   - section-508
 featured_image:
@@ -29,7 +29,7 @@ Each person on a team, whether you’re a manager, designer, or developer, has a
 
 - Product management
 - Content design
-- UX design
+- user-experience design
 - Visual design
 - Front-end development
 

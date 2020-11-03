@@ -27,8 +27,7 @@ primary_image: "21st-century-idea-resource-card"
 ---
 
 
-The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
-
+The [21st Century Integrated Digital Experience Act](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
 
 ## Why Is It Important?
 
@@ -37,7 +36,6 @@ In 2019, there were over [14 billion sessions and 38 billion page views](https:/
 We can, and should, do more.
 
 **21st Century IDEA is a significant opportunity** to improve the lives of the public by transforming how government uses technology. It is a way to make this change happen, and it provides a clear, practical path forward.
-
 
 ## What’s in the Law?
 
@@ -53,7 +51,7 @@ Specifically, the Act requires all executive branch agencies to:
 
 It also requires agencies to comply with the [website standards](https://designsystem.digital.gov/website-standards/), using the [U.S. Web Design System](https://designsystem.digital.gov/).
 
-{{< card-policy src="https://www.congress.gov/bill/115th-congress/house-bill/5759/text" kicker="Law" title="**H.R.5759**: 21st Century Integrated Digital Experience Act" >}}
+{{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}
 
 To improve executive agency digital services, and for other purposes.
 
@@ -179,3 +177,7 @@ Section 3 of **21st Century IDEA** requires executive agencies to report their p
 ## What Are the Deadlines?
 
 Refer to [Public Law 115–336](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf) (PDF, 315 kb, 4 pages, December 2018) for more detailed information on the deadlines and reporting requirements in 21st Century IDEA.
+
+## More Information
+
+Visit our topic page for [21st Century IDEA-related resources, news, and training events](https://digital.gov/topics/21st-century-idea/).

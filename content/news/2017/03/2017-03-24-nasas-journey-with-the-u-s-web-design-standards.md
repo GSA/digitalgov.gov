@@ -10,7 +10,7 @@ topics:
   - design
   - strategy
   - policy
-  - ux
+  - user-experience
   - 18f
   - accessibility
   - digitalgov-university

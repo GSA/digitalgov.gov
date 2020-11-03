@@ -1,8 +1,8 @@
 ---
-
 # Your author profile page lives at:
 # https://digital.gov/authors/james-geoghegan
 
+slug: james-geoghegan
 display_name: "Jim Geoghegan"
 first_name: "James"
 last_name: "Geoghegan"
@@ -13,14 +13,11 @@ last_name: "Geoghegan"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: james-geoghegan
-
 # if you include an email address, it will be displayed on your profile page
 email: "james.geoghegan@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Jim Geoghegan is the RPA Community of Practice program manager, a consortium of 975 federal members from over 65 agencies. A proponent for action, he is passionate about building automation and efficiency into federal processes."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""

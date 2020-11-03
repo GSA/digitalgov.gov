@@ -20,4 +20,4 @@ topics:
 >   * Average smartphone usage grew 50 percent in 2013. The average amount of traffic per smartphone in 2013 was 529MB per month, up from 353 MB per month in 2012.
 >   * In 2013, the number of mobile-connected tablets increased 2.2-fold to 92 million, and each tablet generated 2.6 times more traffic than the average smartphone. In 2013, mobile data traffic per tablet was 1,374 MB per month, compared to 529MB per month per smartphone.
 
-As mobile data traffic soars, your customers will be accessing agency sites via mobile devices (smartphones, tablets, etc.) even more frequently, so a [mobile first strategy](FIND?s=mobile+first.md) can be very effective for meeting the mobile user&#8217;s needs.
+As mobile data traffic soars, your customers will be accessing agency sites via mobile devices (smartphones, tablets, etc.) even more frequently, so a [mobile first strategy]({{< ref "2013-09-30-mobile-first" >}}) can be very effective for meeting the mobile user&#8217;s needs.

@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - trends-on-tuesday
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2015/11/600-x-400-Internet-of-Things-Concept-Bobboz-iStock-Thinkstock-476790268.jpg" alt="Internet of Things Concept" caption="" >}} 

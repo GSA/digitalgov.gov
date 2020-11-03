@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - user-testing-and-research
-  - ux
+  - user-experience
   - api
   - open-source
   - usability-testing

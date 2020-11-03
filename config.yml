@@ -17,7 +17,7 @@ buildFuture             : true
 ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
-  - "content/images/*"
+  - "content/images/_inbox"
   - "content/_archived/*"
 
 sitemap:
@@ -44,7 +44,7 @@ outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]
   section: ["HTML","RSS", "JSON"]
   page: ["HTML", "JSON"]
-  taxonomy: ["HTML","RSS", "json"]
+  term: ["HTML","RSS", "JSON"]
 
 # Goldmark is from Hugo 0.60 the default library used for Markdown.
 # https://gohugo.io/getting-started/configuration-markup/#goldmark
@@ -59,8 +59,8 @@ params:
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
   git_org               : "GSA"
   git_repo              : "digitalgov.gov"
-  url_shortener_login: jeremyz
-  url_shortener_api: d0ac464a2dfad044147e9537fd51503b
+  goUsaUsername         : ""
+  goUsaApiKey           : ""
   devmode               : false
 
   # Homepage settings

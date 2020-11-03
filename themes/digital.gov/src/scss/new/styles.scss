@@ -39,10 +39,12 @@
 @import 'paper';
 
 @import 'header';
+
+@import 'newsletter-signup';
 @import 'footer';
 @import 'usa_anchor';
+
 @import 'promos';
-@import 'newsletter';
 @import 'stream';
 
 // Cards
@@ -52,6 +54,8 @@
 @import 'card-event';
 
 @import 'article';
+@import 'page-head';
+
 @import 'news';
 @import 'events';
 @import 'table-of-contents';
@@ -60,7 +64,7 @@
 @import 'resources';
 
 // Lists of related pages
-@import 'list-collection';
+@import 'collection';
 
 @import 'touchpoints_feedback';
 @import 'page-data';
@@ -71,6 +75,7 @@
 @import 'guides/guide-page-head';
 @import 'guides/guide-toc';
 @import 'guides/guide-content';
+@import 'guides/guide-prev-next';
 
 // Authors lists
 @import 'authors-list';
@@ -80,6 +85,7 @@
 @import 'author-profile';
 
 @import 'notice-bar';
+@import 'search-bar';
 
 @import 'related_promos';
 @import 'video';
@@ -88,18 +94,23 @@
 @import 'home/home';
 @import 'home/events';
 @import 'home/topics_featured';
-@import 'home/resources_featured';
+@import 'resources_featured';
 @import 'home/communities';
+
 
 @import 'community-info';
 
 @import 'related_communities';
 @import 'services';
 @import 'related_services';
+@import 'services-directory';
+@import 'card-service';
+@import 'card-service-contact';
 
 // Topics styles
 @import 'topic-buttons';
 @import 'topics-sidebar';
+@import 'list-topics';
 
 
 @import 'breadcrumbs';
@@ -109,8 +120,12 @@
 // Edit Tools
 @import 'edit-this';
 
+@import 'shortcodes/accordion';
 @import 'shortcodes/box';
 @import 'shortcodes/note';
 @import 'shortcodes/highlight';
 @import 'shortcodes/card-policy';
 @import 'shortcodes/card-quote';
+@import 'shortcodes/asset-img';
+@import 'shortcodes/card-prompt';
+@import 'shortcodes/termsofservice-compatible';

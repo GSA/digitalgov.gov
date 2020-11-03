@@ -10,9 +10,12 @@ featured_image:
   alt: ''
 authors:
   - jeremyzilar
+  - ammie-farraj-feijoo
+
 topics:
   - product-management
   - 21st-century-idea
+  - this-weeks-idea
 
 ---
 

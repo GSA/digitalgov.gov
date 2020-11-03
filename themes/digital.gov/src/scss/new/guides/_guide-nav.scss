@@ -10,7 +10,6 @@
 		li{
 			a{
 				@include u-padding-y(1);
-				@include u-padding-x('105');
 				@include u-text('black');
 				@include u-text('normal');
 				@include u-text('no-underline');

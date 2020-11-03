@@ -11,7 +11,6 @@ topics:
   - design
   - product-management
   - mobile
-  - ux
   - audio-video
   - data
   - digital-audio-video-community
@@ -20,7 +19,6 @@ topics:
   - mobile-gov
   - user-centered-design
   - user-experience
-  - ux
   - video
   - video-production-pros-community
 ---

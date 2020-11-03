@@ -12,9 +12,9 @@
 <div class="image image-right">
   <img
     src='{{- $imgBaseCDN -}}_w200.{{- $imgExt -}}'
-    {{- if or (.Get "alt") $thisimg.alt -}}
+    {{ if or (.Get "alt") $thisimg.alt }}
     alt='{{- with .Get "alt" -}}{{- . -}}{{- else -}}{{- $thisimg.alt -}}{{- end -}}'
-    {{- end -}}
+    {{ end }}
     srcset="
     {{- if ge $imgWidth 200 -}}{{- $imgBaseCDN -}}_bu.jpg 48w,
       {{- if ge $imgWidth 400 -}}

@@ -44,7 +44,7 @@ On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Servi
 &#8220;The General Services Administration has a long history of being a strong leader in adopting technology in government,&#8221; said Administrator Roth when giving her opening remarks at GSA&#8217;s Technology Industry Day.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     "What we’re doing here will also translate to our partners in state, local, and municipal governments." <a href="https://twitter.com/DeniseUSGSA">@DeniseUSGSA</a> <a href="https://twitter.com/hashtag/GSAtech?src=hash">#GSAtech</a>
   </p>
 
@@ -58,7 +58,7 @@ On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Servi
 In a moderated panel, the leadership team shared their insights about the future of GSA’s role in making it easier for agencies to create and buy technology. The panel included GSA Administrator Denise Turner Roth, Acting [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) Commissioner David Shive, Chief Technology Officer Navin Vembar, Assistant Commissioner of [Integrated Technology Services](http://www.gsa.gov/portal/content/105150) Mary Davie and Executive Director of [18F](http://www.gsa.gov/portal/content/124182) Aaron Snow.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     <a href="https://twitter.com/USGSA">@USGSA</a> leaders talk technology! <a href="https://twitter.com/DeniseUSGSA">@DeniseUSGSA</a> <a href="https://twitter.com/GSA_CIO">@GSA_CIO</a> <a href="https://twitter.com/aaronsnow">@aaronsnow</a> <a href="https://twitter.com/NavinVembar">@NavinVembar</a> <a href="https://twitter.com/marydavie">@marydavie</a> <a href="https://twitter.com/hashtag/InnovateGov?src=hash">#InnovateGov</a> <a href="https://twitter.com/hashtag/GSATech?src=hash">#GSATech</a> <a href="https://t.co/FHrmBwr4xW">pic.twitter.com/FHrmBwr4xW</a>
   </p>
 
@@ -70,7 +70,7 @@ In a moderated panel, the leadership team shared their insights about the future
 
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     GSA Admin <a href="https://twitter.com/DeniseUSGSA">@DeniseUSGSA</a> on the future of technology in the federal government. <a href="https://twitter.com/hashtag/GSATech?src=hash">#GSATech</a> <a href="https://twitter.com/hashtag/InnovateGov?src=hash">#InnovateGov</a> <a href="https://t.co/zEssbqnSZL">pic.twitter.com/zEssbqnSZL</a>
   </p>
 
@@ -86,7 +86,7 @@ In a series of lightning talks, GSA&#8217;s Technology Industry highlighted the 
 Vendors also had the opportunity to view demos of current projects.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     Product demos at GSA'S Tech Industry Day! <a href="https://twitter.com/hashtag/InnovateGov?src=hash">#InnovateGov</a> <a href="https://twitter.com/hashtag/GSATech?src=hash">#GSATech</a> <a href="https://t.co/eWtiXTpbEf">pic.twitter.com/eWtiXTpbEf</a>
   </p>
 

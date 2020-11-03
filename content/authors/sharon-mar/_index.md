@@ -2,6 +2,7 @@
 # View this page at https://digital.gov/authors/sharon-mar
 # Learn how to edit our pages at https://workflow.digital.gov
 
+slug: sharon-mar
 display_name: "Sharon Mar"
 first_name: "Sharon"
 last_name: "Mar"
@@ -9,8 +10,7 @@ last_name: "Mar"
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: "sharon-mar"
 
-# user id — not easily changed
-slug: ""
+
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: Sharon_Mar@omb.eop.gov

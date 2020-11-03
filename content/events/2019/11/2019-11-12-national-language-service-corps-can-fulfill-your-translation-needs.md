@@ -1,18 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2019/11/national-language-service-corps-can-fulfill
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: national-language-service-corps-can-fulfill-your-translation-needs
-title: 'The National Language Service Corps Can Fulfill Your Translation Needs'
-summary: 'An increase in demand for multilingual digital content, shrinking budgets, and rising translation costs have impacted federal agencies trying to offer information and services in languages other than English&#46; Learn how the National Service Language Corps &#40;NLSC&#41; can help&#46;'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - zoom
+title: "The National Language Service Corps Can Fulfill Your Translation Needs"
+deck: ""
+summary: "An increase in demand for multilingual digital content, shrinking budgets, and rising translation costs have impacted federal agencies trying to offer information and services in languages other than English. Learn how the National Service Language Corps (NLSC) can help."
+host: "Multilingual Community of Practice and Digital.gov"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
 date: 2019-11-12 13:00:00 -0500
+
+# end date
 end_date: 2019-11-12 14:00:00 -0500
-event_organizer: DigitalGov University
-host: Multilingual Community of Practice and Digital.gov
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - multilingual
+  - content
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - christina-lantuh
+  - hyejin-hickey
+
+# YouTube ID
 youtube_id: j9WrjjQyOSk
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _[View the slides](https://digital.gov/pdf/NLSC-DigitalGov-Language-Community-Capability.pdf)_ (PDF, 17.3 MB, 12 pages)

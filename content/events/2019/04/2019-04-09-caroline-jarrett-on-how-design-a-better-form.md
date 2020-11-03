@@ -1,25 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2019/04/caroline-jarrett-on-how-design-a
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: caroline-jarrett-on-how-design-a-better-form
-title: 'Caroline Jarrett on How to Design a Better Form'
-summary: 'We have a lot of forms in government, and many of them would benefit from better design&#46; In this talk, Caroline Jarrett will explore a curriculum she’s working on about how to design forms&#46;'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - youtube-live
-date: 2019-04-09 14:00:00 -0500
-end_date: 2019-04-09 14:30:00 -0500
-event_organizer: DigitalGov University
-host: TTS Research Guild
+title: "Caroline Jarrett on How to Design a Better Form"
+deck: ""
+summary: "We have a lot of forms in government, and many of them would benefit from better design. In this talk, Caroline Jarrett will explore a curriculum she’s working on about how to design forms."
+host: "TTS Research Guild"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/caroline-jarrett-on-how-to-design-a-better-form-registration-58448034645
+captions: 
+
+# start date
+date: 2019-04-09 15:00:00 -0500
+
+# end date
+end_date: 2019-04-09 15:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - design
+  - research
+  - user-experience
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - caroline-jarrett
+
+# YouTube ID
 youtube_id: Br5O0hAaqt8
 
-topics:
-  - design
-  - user-experience
-  - research
-  - ux
-  
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _Watch the video on [YouTube](https://www.youtube.com/watch?v=Br5O0hAaqt8) to read the live chat comments that Caroline Jarrett explains in detail in her [recap of the event](http://www.effortmark.co.uk/discussing-a-topic-map-for-how-to-design-better-a-form/)._ 

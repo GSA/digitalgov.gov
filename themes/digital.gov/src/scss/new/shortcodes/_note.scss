@@ -18,13 +18,31 @@
 			@include u-text('no-underline');
 		}
 	}
+
+	.highlight{
+		@include u-bg('yellow-5');
+	}
+
 	strong{
 		@include u-text('medium');
 	}
 	p:last-child{
 		@include u-margin-bottom(0);
 	}
+	blockquote{
+		@include u-padding-left(0);
+		@include u-border(0);
+	}
+	ol,ul{
+		@include u-margin-y(0);
+		@include u-padding-left('205');
+		li{
+			@include u-margin-bottom(2);
+		}
+	}
 }
+
+
 // For notes within list items
 li .note{
 	@include u-padding-y('05');
@@ -44,6 +62,9 @@ li .note{
 			@include u-text('blue-80');
 		}
 	}
+	.highlight{
+		@include u-bg('blue-10');
+	}
 }
 
 // Activities  — color settings
@@ -57,5 +78,51 @@ li .note{
 		&:hover{
 			@include u-text('orange-warm-80');
 		}
+	}
+	.highlight{
+		@include u-bg('orange-warm-10');
+	}
+}
+
+// Activities  — color settings
+.note.alert{
+	@include u-bg('red-5');
+	@include u-text('red-60v');
+	@include u-border-left('05', 'solid', 'red-40v');
+	a{
+		@include u-text('red-60v');
+		@include u-border-bottom('1px', 'solid', 'red-60v');
+		&:hover{
+			@include u-text('red-80v');
+		}
+	}
+	.highlight{
+		@include u-bg('red-10');
+	}
+}
+
+// Comment — color settings
+.note.comment{
+	@include u-bg('blue-cool-10');
+	@include u-text('blue-cool-70');
+	@include u-border-left('05', 'solid', 'blue-cool-50');
+	h4{
+		i{
+			@include u-text('blue-cool-60');
+		}
+	}
+	a{
+		@include u-text('blue-cool-70');
+		@include u-border-bottom('1px', 'solid', 'blue-cool-50');
+		&:hover{
+			@include u-text('blue-cool-80');
+		}
+	}
+	.highlight{
+		@include u-bg('white');
+		@include u-bg('yellow-5');
+	}
+	blockquote{
+		@include u-font('serif', 'lg');
 	}
 }

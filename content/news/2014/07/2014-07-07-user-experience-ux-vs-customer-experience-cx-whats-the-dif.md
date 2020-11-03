@@ -8,7 +8,6 @@ authors:
 topics:
   - communities
   - monthly-theme
-  - ux
   - aoi
   - cx
   - digitalgov-user-experience-program

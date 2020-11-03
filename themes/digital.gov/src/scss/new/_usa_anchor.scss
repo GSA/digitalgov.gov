@@ -188,9 +188,9 @@
       @include at-media('tablet-lg') {
         @include u-font('sans', 'sm');
       }
-      @include u-bg('blue-40v');
+      @include u-bg('blue-50v');
       &:hover{
-        @include u-bg('blue-50v');
+        @include u-bg('blue-60v');
       }
     }
   }

@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/telehealth-website.png
+
+# Image shortcode: {{< img src="telehealth-website" >}}
+
+date     : 2020-10-15 19:59:13 -0400
+uid      : telehealth-website
+width    : 1889
+height   : 847
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "The homepage of telehealth.hhs.gov. White text on a dark blue background reads, Telehealth: Health care from the safety of our homes. Illustrated in bright blue, a blue hand is holding a phone and is on a video conference with a health care professional."

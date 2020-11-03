@@ -13,7 +13,7 @@ topics:
   - metrics
   - mobile
   - social-media
-  - ux
+  - user-experience
   - api
   - Census
   - innovation

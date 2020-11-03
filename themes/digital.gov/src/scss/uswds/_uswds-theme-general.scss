@@ -25,7 +25,7 @@ Relative image file path
 ----------------------------------------
 */
 
-$theme-image-path: "../uswds/img/";
+$theme-image-path: "../uswds/img";
 
 /*
 ----------------------------------------
@@ -39,7 +39,7 @@ Show updates and notifications.
 */
 
 $theme-show-compile-warnings: true;
-$theme-show-notifications: true;
+$theme-show-notifications: false;
 
 /*
 ----------------------------------------
@@ -87,7 +87,7 @@ Focus styles
 ----------------------------------------
 */
 
-$theme-focus-color: "blue-40v";
+$theme-focus-color: "blue-50v";
 $theme-focus-offset: 0;
 $theme-focus-style: solid;
 $theme-focus-width: 0.5;

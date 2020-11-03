@@ -9,7 +9,6 @@ authors:
   - jill-james
 topics:
   - content
-  - ux
   - cx
   - HHS
   - innovation

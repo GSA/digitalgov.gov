@@ -21,7 +21,7 @@ One of the leading mobile app analytics companies, <a href="http://www.flurry.co
 
 Overall, mobile app usage grew 76% in 2014, and the top app categories included: “Lifestyle & Shopping,” growing 174%; “Utilities & Productivity,” growing 121%; “Messaging & Social,” growing 89%; and “Health & Fitness” and “Travel” categories, both growing 89% year over year.
 
-<p dir="ltr">
+<p>
   Compared to <a href="http://www.flurry.com/bid/103601/Mobile-Use-Grows-115-in-2013-Propelled-by-Messaging-Apps" target="_blank">last year’s report</a>, “Messaging & Social” and “Utilities & Productivity” still reigned in the top two verticals. What’s interesting is that the 2014 app categories that grew faster tended to be those with more complex tasks, rather than those with more simple tasks like gaming and consuming passive music and news media.
 </p> {{< legacy-img src="2015/03/600-x-450-Flurry-Analytics-Mobile-Use-Grows-115-percent-in-2013-led-by-messaging-and-social-apps.jpg" alt="Bar chart showing 2012 to 2013 Mobile Use grew 115 percent. led by messaging and social apps." caption="" >}} 
 

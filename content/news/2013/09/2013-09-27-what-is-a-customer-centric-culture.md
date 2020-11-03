@@ -17,23 +17,23 @@ In our very first customer experience (CX) blog post about <a href="{{< ref "201
 
 Our core principles say that all staff will:
 
-  1. <p dir="ltr">
+  1. <p>
       Take responsibility for providing an experience greater than customer expectations.
     </p>
 
-  2. <p dir="ltr">
+  2. <p>
       Engage, listen and resolve.
     </p>
 
-  3. <p dir="ltr">
+  3. <p>
       Design business from the outside in, not the inside out.
     </p>
 
-  4. <p dir="ltr">
+  4. <p>
       Incorporate customer experience  as a key success metric in everything we do.
     </p>
 
-  5. <p dir="ltr">
+  5. <p>
       Make every contact with a customer an opportunity to influence their experience.
     </p>
 

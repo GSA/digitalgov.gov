@@ -19,7 +19,7 @@ community_list:
     subscribe_email: laura.godfrey@gsa.gov
     subscribe_email_subject: "Join: Multilingual"
     subscribe_form: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
-    members: 267
+    members: 314
     emails_per_week: 1.33
 
 authors:
@@ -47,38 +47,39 @@ We [collect research]({{< ref "2014-07-01-multilingual-digital-content.md" >}}),
 
 The goal is to develop templates and compile research data, mandates and other materials to help digital content managers have a successful cross-platform presence. The group also develops guidelines to answer questions such as how to:
 
-  * Develop a strategy — where to start
-  * Create a website and a digital presence in another language
-  * Build the business case
-  * Get buy-in from upper management and other stakeholders
-  * Offer mobile services
-  * Have a successful presence in social media channels
-  * Offer content in other languages via APIs
+* Develop a strategy — where to start
+* Create a website and a digital presence in another language
+* Build the business case
+* Get buy-in from upper management and other stakeholders
+* Offer mobile services
+* Have a successful presence in social media channels
+* Offer content in other languages via APIs
 
 ### Translation, Adaptation, and Localization of Content
 
 The group comes together to work on:
 
-  * Solving common translation problems
-  * Overcoming language barriers
-  * Developing government-wide style guides to help standardize the use of languages other than English throughout the government
-  * Developing plain language guidelines
-  * Creating general guidelines for the acquisition and management of translation work and contracts
+* Solving common translation problems
+* Overcoming language barriers
+* Developing government-wide style guides to help standardize the use of languages other than English throughout the government
+* Developing plain language guidelines
+* Creating general guidelines for the acquisition and management of translation work and contracts
 
 ### Marketing, Outreach, Education, and Training
 
 The group compiles and documents best practice examples across government to answer questions such as:
 
-  * Strategy: What are others doing to market their multilingual websites and other channels?
-  * What Works: Are there lessons learned to be shared?
-  * Metrics: How can we measure success associated with successful online marketing?
-  * Communication: How do we communicate success?
+* Strategy: What are others doing to market their multilingual websites and other channels?
+* What Works: Are there lessons learned to be shared?
+* Metrics: How can we measure success associated with successful online marketing?
+* Communication: How do we communicate success?
 
 The group also researches outreach opportunities such as participating in training sessions, workshops and community events.
 
 ---
 
 ### Getting Started
+
 - [Top 10 Best Practices for Multilingual Websites](https://www.digitalgov.gov/resources/top-10-best-practices-for-multilingual-websites/)
 - [Agencias y Departamentos del Gobierno Federal](https://gobierno.usa.gov/agencias-federales/a)
 - [Bilingual Glossaries, Dictionaries, and Style Guides](https://www.digitalgov.gov/resources/bilingual-glossaries-dictionaries-style-guides/)
@@ -86,8 +87,12 @@ The group also researches outreach opportunities such as participating in traini
 - [Lost in Translation](https://www.digitalgov.gov/2012/10/01/automated-translation-good-solution-or-not/)
 
 ### Featured Articles
+
 - [A Guide to Publishing Multilingual Digital Content](https://www.digitalgov.gov/2014/07/01/multilingual-digital-content/)
 - [Multiple Languages, Single Platforms: the World Digital Library](https://www.digitalgov.gov/2015/04/09/multiple-languages-single-platforms-the-world-digital-library/)
 - [Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future](https://www.digitalgov.gov/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/)
 - [Persona Development Case Study: NCI and Spanish Language Outreach](https://www.digitalgov.gov/2015/03/02/persona-development-case-study-nci-and-spanish-language-outreach/)
-- [More on Multilingual »](https://www.digitalgov.gov/tag/multilingual/)
+- [More on Multilingual »](https://digital.gov/topics/multilingual/)
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

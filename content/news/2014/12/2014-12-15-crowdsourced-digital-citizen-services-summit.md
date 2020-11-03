@@ -16,7 +16,7 @@ topics:
   - monthly-theme
   - our-work
   - social-media
-  - ux
+  - user-experience
   - crowdsourcing
   - digitalgov-summit
 ---

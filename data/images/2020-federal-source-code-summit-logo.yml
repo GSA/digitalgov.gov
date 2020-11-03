@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/2020-federal-source-code-summit-logo.png
+
+# Image shortcode: {{< img src="2020-federal-source-code-summit-logo" >}}
+
+date     : 2020-09-02 14:55:01 -0400
+uid      : 2020-federal-source-code-summit-logo
+width    : 630
+height   : 639
+format   : png
+credit   : ""
+caption  : ""
+alt      : "Logo for the 2020 Federal Source Code Summit has blue and black text on a white background." 

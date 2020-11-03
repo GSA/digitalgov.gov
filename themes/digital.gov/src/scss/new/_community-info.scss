@@ -38,21 +38,21 @@
       @include u-margin-bottom(2);
       @include u-padding-y('105');
       @include u-text('center');
-      @include u-text('gray-1');
+      @include u-text('white');
       @include u-text('no-underline');
       @include u-font('sans', 'md');
-      @include u-bg('gold-30v');
+      @include u-bg('cyan-50v');
       @include u-display('block');
       @include u-radius('md');
       @include u-text('bold');
       &:hover{
-        @include u-bg('gold-40v');
+        @include u-bg('cyan-60v');
       }
     }
     .join.type-google-group{
-      @include u-bg('blue-40v');
+      @include u-bg('blue-50v');
       &:hover{
-        @include u-bg('blue-50v');
+        @include u-bg('blue-60v');
       }
     }
     .join.type-slack{

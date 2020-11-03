@@ -6,14 +6,16 @@ summary: "Links to relevant laws, policies, and regulations for federal agencies
 deck: 'The relevant laws, policies, and regulations for federal agencies.'
 authors:
   - rflagg
+  - ammie-farraj-feijoo
 aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
+  - /resources/policies-for-federal-agency-public-websites-m-05-04/
 weight: 3
 topics:
   - product-management
   - policy
-  - multilingual
+  - governance
 
 ---
 
@@ -21,8 +23,8 @@ topics:
 You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations.
 {{< /note >}}
 
-
 ## Overarching Policies
+
 These high-level policies cover basic requirements for all websites and digital services.
 
 * [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
@@ -36,19 +38,18 @@ These high-level policies cover basic requirements for all websites and digital 
 
 <p class="more"><a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
-
 ## Accessibility / Section 508
 
 Ensure access for people with disabilities, including motor, auditory, cognitive, seizure/neurological, and visual impairments; ensure content is "perceivable, operable, understandable, and robust." Teach staff how to create accessible products, and conduct accessibility testing before launch, or when making significant changes to, digital products and services.
 
 * [Accessibility for Teams](https://accessibility.digital.gov/) — A guide for embedding accessibility and inclusive design practices into your team’s workflow
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
-* [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
+* [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)
 * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
 * [WCAG Quick Reference](https://www.w3.org/WAI/WCAG20/quickref/) and [WCAG Web tutorials](https://www.w3.org/WAI/tutorials/)
-* [Technology Accessibility Playbook](https://section508.gov/tools/playbooks/technology-accessibility-playbook-intro)
+* [Technology Accessibility Playbooks](https://section508.gov/tools/playbooks/)
 * [Federal CIO Council Accessibility Best Practices](https://section508.gov/best-practices)
-* [Governmentwide Section 508 Strategic Plan (2013)](https://www.section508.gov/sites/default/files/strategic-plan-508-compliance.pdf)
+* [Governmentwide Section 508 Strategic Plan (2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)
 
 <p class="more"><a href="{{< ref "/topics/accessibility" >}}">More on Accessibility <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -60,6 +61,12 @@ Understand customer needs, set performance standards, collect and address custom
 * [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) (PDF, 102 KB, 9 pages, June 2010)
 
 <p class="more"><a href="{{< ref "/topics/metrics" >}}">More on Metrics <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+
+## Coordination During Incidents of National Significance
+
+Federal websites must provide timely and accurate information during incidents of national significance. During such incidents, the Department of Homeland Security has the authority to coordinate all U.S. government communications to ensure consistent public information through an integrated federal incident communications system. Coordinate emergency response-related web communications with your [Federal Web Council representative](https://digital.gov/resources/federal-web-council/#current-council-members).
+
+* [Emergency Support Function 15](https://www.fema.gov/media-library/assets/documents/34369) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/media-library/assets/documents/117791)
 
 ## Copyright
 
@@ -173,7 +180,7 @@ Information you collect from the public should minimize burden and maximize publ
 
 Regularly evaluate all digital products for performance and cost effectiveness by collecting and acting on metrics and customer feedback, conducting usability testing, and measuring return on investment. Establish performance measures to demonstrate mission achievement; Make your annual performance plans readily available to the public.
 
-* [Government Performance Results Act of 1993 (GPRA)](http://obamawhitehouse.archives.gov/omb/mgmt-gpra/index-gpra)</a>
+* [Government Performance Results Act of 1993 (GPRA)](http://obamawhitehouse.archives.gov/omb/mgmt-gpra/index-gpra)
 
 ## Plain Writing
 
@@ -188,10 +195,10 @@ Federal executive branch agencies are required to write all new or significantly
 
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide service through a secure connection. Provide a link to your privacy policy on every page, or in your overall site policies. Conduct a privacy impact assessment of your website. Post a "Privacy Act Statement" that explains your legal authority for collecting personal data and how the data will be used.
 
-* [Requirements for Accepting Externally Issued Identity Credentials](http://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/ombreqforacceptingexternally_issuedidcred10-6-2011.pdf) (PDF, 166 KB, 4 pages, October 2011)
+* [M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) (PDF, 1 MB, 13 pages, May 2019)
 * [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22) (September 2003)
 * [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
-* [Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm)</a>
+* [Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm)
 
 ## Prohibition on Advertising
 

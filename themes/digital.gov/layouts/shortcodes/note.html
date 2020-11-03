@@ -1,10 +1,49 @@
+{{/*
+
+Note Shortcode — the following are all the iterations of the "note" shortcode and how to use them.
+
+Note —
+{{< note >}}
+text goes here...
+{{< /note >}}
+
+Activity —
+{{< note "activity" >}}
+Activity text goes here...
+{{< /note >}}
+
+Alert —
+{{< note "alert" >}}
+Alert text goes here...
+{{< /note >}}
+
+Comment —
+{{< note "alert" >}}
+> Comment goes here as a blockquote
+
+additional text goes here...
+{{< /note >}}
+
+*/}}
 
 <div class="note {{ if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
     <h4><i class="fas fa-cubes"></i> Activity</h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
+    <h4><i class="fas fa-exclamation-circle"></i> Alert</h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
+    <h4><i class="fas fa-comment-alt fa-flip-horizontal"></i> Comment</h4>
   {{- else -}}
     <h4><i class="far fa-bell"></i> Note</h4>
   {{- end -}}
 
   {{- .Inner | markdownify -}}
+
+  {{- if (.Get "button-text") -}}
+  <div class="submit">
+    <button class="usa-button"><a href="{{- .Get "button-url" -}}" title="{{- .Get "button-text" -}}">{{- .Get "button-text" -}}</a></button>
+    <span></span>
+  </div>
+  {{- end -}}
+
 </div>

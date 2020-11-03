@@ -79,11 +79,15 @@ This page is a collection of style guides created by government agencies.  You c
 
 - [U.S. Government Publishing Office Style Manual](https://www.gpo.gov/fdsys/search/pagedetails.action?collectionCode=GPO&granuleId=&packageId=GPO-STYLEMANUAL-2016)
 
+**U.S. Postal Service (USPS)**
+
+- [USPS Digital Style Guide](https://www.usps.com/styleguide/)
+
 **U.S. Social Security Administration (SSA)**
 
 - [Program Operational Manual for Notice Standards](https://secure.ssa.gov/apps10/poms.nsf/lnx/0900610000)
 
-* * *
+---
 
 ## Other Writing Resources
 

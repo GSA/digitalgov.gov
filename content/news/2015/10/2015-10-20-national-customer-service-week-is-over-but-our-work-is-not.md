@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - ux
   - "508"
   - accessibility
   - cx

@@ -22,4 +22,4 @@ This mobile website [was developed with intelligent back end business processes]
 
 Social Security’s mobile website educates the public on how to create a new account, which enables users to access online statements and other related services. The new office locator feature provides directions to a Social Security office nearest to you.
 
-You can find more mobile optimized sites like [socialsecurity.gov](www.socialsecurity.gov) on the [USA.gov Apps Gallery](http://apps.usa.gov/).
+You can find more mobile optimized sites like [socialsecurity.gov](https://www.socialsecurity.gov) on the [USA.gov Apps Gallery](http://apps.usa.gov/).

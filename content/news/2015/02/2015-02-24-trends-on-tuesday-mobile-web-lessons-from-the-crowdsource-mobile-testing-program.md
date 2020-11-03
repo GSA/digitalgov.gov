@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - our-work
-  - ux
+  - user-experience
   - Defense Finance and Accounting Services
   - Federal CrowdSource Mobile Testing Program
   - mobile-gov-community-of-practice

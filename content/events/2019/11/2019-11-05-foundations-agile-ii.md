@@ -1,19 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2019/11/foundations-agile-part-ii
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: foundations-agile-ii
-title: 'Foundations of Agile, Part II'
+title: "Foundations of Agile, Part II"
 deck: "with Alan Atlas and Alan Brouilette"
-summary: 'Part two of exploring the fundamentals of the Agile methodology will look at the external view of producing customer value and the difficulty of adopting Agile methods.'
-featured_image:
-  uid: agile-foundations-part-2
-  alt: ''
-event_type:
-  - zoom
+summary: "Part two of exploring the fundamentals of the Agile methodology will look at the external view of producing customer value and the difficulty of adopting Agile methods."
+host: "18F"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
 date: 2019-11-05 15:30:00 -0500
+
+# end date
 end_date: 2019-11-05 16:30:00 -0500
-event_organizer: DigitalGov University
-host: 18F
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - agile
+  - product-management
+  - kanban
+  - scrum
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - alan-atlas
+  - alan-brouilette
+
+# YouTube ID
 youtube_id: Dtv2H1YsswQ
 
+# Primary Image (for social media)
+primary_image: "agile-foundations-part-2"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 [View the slides](https://digital.gov/pdf/Foundations-of-Agile-%20Part-2-Slides.pdf) (PDF, 1.67 MB, 38 pages)

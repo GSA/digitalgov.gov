@@ -1,17 +1,21 @@
 ---
 # View this page at https://digital.gov/communities/artificial-intelligence
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: artificial-intelligence
-date: 2019-12-12 19:000:00 -0500
+date: 2019-12-31 19:03:00 -0500
 title: "Artificial Intelligence"
 deck: ""
 summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - data
   - artificial-intelligence
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - krista-kinnard
+  - steven-babitch
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -23,11 +27,11 @@ community_list:
     type: government
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AI Listserv"
-    members: 476
-    emails_per_week:
+    members: 824
+
 
 # Make it better ♥
-
+---
 ---
 
 When the president signed the [Executive Order 13859, Maintaining American Leadership in Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/), on February 11, 2019, it launched the American AI initiative to promote and protect AI technology and innovation in the United States.
@@ -49,5 +53,5 @@ The AI CoP will bring together federal employees to:
 - facilitate the sharing of best practices, use cases, and lessons learned, and
 - advance and share tools, playbooks success stories with a community of interested professionals.
 
-## Past Meetings
- - [**February AI Community of Practice Meeting**](https://youtu.be/iFHPS7ieheQ) - HHS Data Insights Initiative. A data sharing initiative that lays the foundation for the use of AI across agencies.
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

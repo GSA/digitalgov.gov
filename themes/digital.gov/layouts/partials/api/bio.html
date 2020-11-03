@@ -1,0 +1,3 @@
+{{- with .Params.bio -}}
+"bio" : "{{- replace . "\n" "\\n" -}}",
+{{- end -}}

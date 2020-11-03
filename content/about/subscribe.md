@@ -18,11 +18,13 @@ Our strategy is to provide you with just the right amount of information to help
 
 That said — while we aim to send one email each week, we may occasionally send stand alone emails with important news items or product launches (though we'll keep those emails to a minimum).
 
-_Interested in contributing to Digital.gov? [Check out our contribution page »]({{< ref "/about/contribute.md" >}})_
+_Interested in contributing to Digital.gov? [Check out our contribution page »]({{< ref "/about/contribute.md" >}})_ <br /><br />
+
 
 {{< hs-form-subscribe >}}
 
-:envelope:Have additional questions? Reach out at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+
+<br /><br />:envelope: Have additional questions? Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
 ## Other ways to subscribe and follow
 

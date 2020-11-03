@@ -17,37 +17,37 @@ topics:
 
 {{< legacy-img src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" >}}After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue.
 
-<p dir="ltr">
+<p>
   More than 20 federal innovators recently took part in a workshop offered to avoid such a scenario. The Department of Homeland Security’s Meredith Lee, who also serves as the volunteer lead for the <a href="https://max.omb.gov/community/display/Planning/Ideation+Community+of+Practice+%28Idea+Generation+Tools%29">Federal Ideation Community of Practice</a> (ICOP), led the participants through various exercises to help agencies learn to identify and define the problems they face; a key part of the process of any ideation exercise and/or challenge competition.
 </p>
 
-<p dir="ltr">
+<p>
   With interest in federal ideation increasing and the recent launch of <a href="http://challenge.sites.usa.gov/">Challenge.sites.usa.gov</a>, a free federal public prize competition crowdsourcing tool, the workshop was a timely reminder of the work needed to plan a successful challenge. (Hint: It starts with an accurate problem statement!)
 </p>
 
-<p dir="ltr">
+<p>
   Lee noted that often a problem is assumed before needed research is done about the people it affects, and then long processes (such as a public prize competition) are carried out, all the while asking the wrong question.
 </p>
 
-<p dir="ltr">
+<p>
   <strong>Three important takeaways of the workshop include:</strong>
 </p>
 
 ## 1. Empathy is key
 
-<p dir="ltr">
+<p>
   Understanding the people who are affected by the problem is the most important part of the process of creating an actionable, accurate problem statement. Before making assumptions about what might solve an issue, take the time to explore the thoughts, values, and opinions of the users. If you can, interview them personally.
 </p>
 
-<p dir="ltr">
+<p>
   The participants in the workshop were given a mock scenario, improving the “lunch experience”, and asked to interview each other to gain insight about the other person’s view of lunch.
 </p>
 
-<p dir="ltr">
+<p>
   Emphasis was placed on listening rather than leading, and using phrases like “tell me more” and “why.”
 </p>
 
-<p dir="ltr">
+<p>
   The results were telling and varied.  The &#8220;important&#8221; part of a lunch break was reported in many forms:
 </p>
 
@@ -56,17 +56,17 @@ topics:
   * Food itself was most relevant
   * Catch up on work
 
-<p dir="ltr">
+<p>
   It became obvious that improving the “lunch experience” would not easily be summed up with a singular action.
 </p>
 
-<p dir="ltr" style="text-align: center">
+<p style="text-align: center">
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/IMG-20140402-00016.jpg">{{< legacy-img src="2014/04/IMG-20140402-00016-533x400.jpg" alt="Workshop participants in an activity" >}}</a>
 </p>
 
 ## 2. Think about user point-of-view
 
-<p dir="ltr">
+<p>
   Use the feelings, emotions, thoughts, beliefs, actions, behaviors, and quotes you collected while empathizing with users to form insights and create point-of-view statements. Having a grasp of the point of view will assist you in forming the problem statement and the “ask” for your crowdsourcing competition.
 </p>
 
@@ -76,7 +76,7 @@ Lee recommended using a simple formula to create user point-of-view statements:
 
 ## 3. State the problem before the ask
 
-<p dir="ltr">
+<p>
   {{< legacy-img src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-3.jpg" alt="250 x 188 Ideation ChallengeGov training photo 3" >}}When you prepare to run the challenge, make sure the potential solvers know the problem itself (which you painstakingly identified previously) before asking them to do something; it’ll help both you and the potential solvers stay focused and produce more pointed solutions.
 </p>
 

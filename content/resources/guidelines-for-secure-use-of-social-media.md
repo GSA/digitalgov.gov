@@ -16,10 +16,9 @@ The use of social media for federal services and interactions is growing tremend
 
 ## Related Links
 
-  * [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
-  * [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 KB, 7 pages, April 2010)
-  * [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
-
+* [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
+* [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 KB, 7 pages, April 2010)
+* [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (1.2 MB, 18 pages, November 2016)
 
 ---
 

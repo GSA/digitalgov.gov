@@ -7,7 +7,6 @@ authors:
   - colleen-bayus
 topics:
   - user-testing-and-research
-  - ux
   - usa-gov
   - user-experience
 ---

@@ -10,7 +10,7 @@ topics:
   - product-management
   - our-work
   - user-testing-and-research
-  - ux
+  - user-experience
   - content
   - cx
   - cx

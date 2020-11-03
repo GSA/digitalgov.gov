@@ -23,17 +23,17 @@ topics:
   - content
   - cx
   - plain-language
-  - ux
+  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # YouTube ID
-youtube_id:
+youtube_id: xuPLXDXbk_4
 
 # Venue
 venue_name: "General Services Administration"

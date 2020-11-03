@@ -1,42 +1,46 @@
 ---
+# View this page at https://digital.gov/event/2018/07/plain-language-summit-2018
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: plain-language-summit-2018
-title: 'Plain Language Summit 2018'
-summary: 'The federal Plain Language community is holding their first all-day summit in Washington D.C., and you’re invited!'
-featured_image:
-  uid: plain-language-summit-2018
-  alt: 'Plain Language Summit 2018'
-event_type:
-  - youtube-live
-  - in-person
-topics:
-  - plain-language
-date: 2018-07-20 09:00:00 -0500
-end_date: 2018-07-20 15:30:00 -0500
-event_organizer: DigitalGov
-host: Plain Language Community of Practice
-youtube_id: W4gzfemW0Rc
+title: "Plain Language Summit 2018"
+deck: ""
+summary: "The federal Plain Language community is holding their first all-day summit in Washington D.C., and you’re invited!"
+host: "Plain Language Community of Practice"
+event_organizer: "DigitalGov"
 registration_url: https://www.eventbrite.com/e/plain-language-summit-2018-tickets-46589162439
-venue:
-  venue_name: U.S. General Services Administration
-  room: 1459/1460/1461
-  address: 1800 F Street NW
-  city: Washington
-  state: D.C.
-  zip: 20405
-  country: USA
-  map: https://goo.gl/maps/bFWBD6QfDLA2
-categories:
-  - user experience
-  - writing
-tag:
-  - cx
-  - customer-experience-community-of-practice
-  - multilingual
+captions: 
+
+# start date
+date: 2018-07-20 10:00:00 -0500
+
+# end date
+end_date: 2018-07-20 16:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - plain-language
-  - plain-language-community-of-practice
-  - training
-  - user experience
-  - ux
+  - user-experience
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - anne-meeker
+  - donna-garland
+  - eric-kanter
+  - ginny-redish
+  - joe-kimble
+  - jonathan-rubin
+  - katherine-spivey
+  - katina-stapleton
+  - lgodfrey
+  - meredith-larson
+
+# YouTube ID
+youtube_id: W4gzfemW0Rc
+
+# Primary Image (for social media)
+primary_image: "plain-language-summit-2018"
+
+# Make it better ♥
 
 ---
 
@@ -89,7 +93,3 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
 
 
-**NOTE:** In-person tickets are limited and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will receive priority, and others after.
-
-
-{{< img src="plain-language-summit-2018" caption="" alt="Plain Language Summit 2018" >}}

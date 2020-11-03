@@ -1,24 +1,42 @@
 ---
+# View this page at https://digital.gov/event/2018/05/how-search-engines-index-your-websites
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: how-search-engines-index-your-websites
-title: 'How Search Engines Index Your Websites'
-summary: 'Join Search&#46;gov as they walk you through the fundamentals of how search engines monitor your content and pull relevant data from your pages.'
-featured_image:
-  uid: searchgov-advanced
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-05-29 13:00:00 -0500
-end_date: 2018-05-29 14:00:00 -0500
-event_organizer: DigitalGov University
-host:
+title: "How Search Engines Index Your Websites"
+deck: ""
+summary: "Join Search.gov as they walk you through the fundamentals of how search engines monitor your content and pull relevant data from your pages."
+host: ""
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/searchgov-advanced-technical-registration-45389884366
-youtube_id: THhe3Z7XSxg
-aliases:
-  - /event/2018/05/30/how-search-engines-index-your-websites/
-topics:
+captions: 
+
+# start date
+date: 2018-05-29 14:00:00 -0500
+
+# end date
+end_date: 2018-05-29 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - digitalgov-search
-  - seo
   - search-engine-optimization
+  - seo
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dmccleskey
+
+# YouTube ID
+youtube_id: THhe3Z7XSxg
+
+# Primary Image (for social media)
+primary_image: "searchgov-advanced"
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/2018/05/30/how-search-engines-index-your-websites/
+
+# Make it better ♥
 
 ---
 

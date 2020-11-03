@@ -11,7 +11,6 @@ authors:
 
 [{{< legacy-img src="/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Open-Opportunities-Task-Creator-Process1.pdf)Click the image to download your own copy of this chart for reference.
 
-
 ## Preparation
 
 1. **Brainstorm and Review:**

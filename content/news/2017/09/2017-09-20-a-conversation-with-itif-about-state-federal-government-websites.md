@@ -11,7 +11,6 @@ topics:
   - metrics
   - mobile
   - user-testing-and-research
-  - ux
   - accessibility
   - communities
   - content
@@ -32,7 +31,7 @@ topics:
   - usability
   - user-experience
   - user-research
-  - ux
+  
 featured_image:
   uid: itif-presentation-title-slide
   alt: 'Screen capture of the event in the YouTube player&#46;'

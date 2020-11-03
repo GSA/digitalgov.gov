@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - social-media
-  - ux
+  - user-experience
   - DOJ
   - terms-of-service
   - tos

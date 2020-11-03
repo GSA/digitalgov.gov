@@ -23,7 +23,7 @@ email: "katherine.spivey@gsa.gov"
 bio: "Katherine Spivey is the General Services Administration (GSA)’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: "https://plainlanguage.gov"
+bio_url: "https://www.plainlanguage.gov"
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "General Services Administration"
@@ -41,7 +41,7 @@ github: "kpspivey"
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
-profile_source: ""
+profile_source: "github"
 
 # Professional Social Media [e.g., Digital_Gov]
 twitter: "katherinespivey"

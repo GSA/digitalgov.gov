@@ -15,15 +15,11 @@ This bulletin provides Federal agencies with the National Archives and Records A
 
 ## Related Links
 
-  * [NARA guidance on managing web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
-  * [NARA Bulletin 2014-02 Guidance on managing social media records](http://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html) (October 2013)
-  * [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
-  * [E-Government Act of 2002](http://www.archives.gov/about/laws/egov-act-section-207.html) (Section 207)
-
- 
+* [NARA guidance on managing web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
+* [NARA Bulletin 2014-02 Guidance on managing social media records](http://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html) (October 2013)
+* [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (1.2 MB, 18 pages, November 2016)
+* [E-Government Act of 2002](http://www.archives.gov/about/laws/egov-act-section-207.html) (Section 207)
 
 * * *
-
- 
 
 See more [DigitalGov Resources]({{< ref "/resources" >}})

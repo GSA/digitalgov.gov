@@ -9,7 +9,6 @@ topics:
   - content
   - product-management
   - user-testing-and-research
-  - ux
   - video
   - audio-video
   - CFPB

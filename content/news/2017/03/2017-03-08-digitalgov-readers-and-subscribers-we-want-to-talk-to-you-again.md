@@ -10,7 +10,6 @@ topics:
   - product-management
   - our-work
   - user-testing-and-research
-  - ux
   - content
   - cx
   - cx
@@ -19,7 +18,7 @@ topics:
   - OPP
   - research
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="http://i.giphy.com/3o6Zt3PBAGPUvmvUJO.gif" alt="An animated gif of a girl with the word Hi written on her hand from National Archives' Giphy.com collection." >}}

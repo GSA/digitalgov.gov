@@ -1,33 +1,29 @@
 ---
-# View this page at https://digital.gov/communities/challenges-prizes
+# View this page at https://digital.gov/communities/challenge-prize
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: challenges-prizes
 date: 2013-12-05 10:46:00 -0500
-title: 'Challenge & Prize'
+title: "Challenge & Prize"
 deck: ""
 summary: "We encourage public participation in crowdsourcing competitions to find innovative government solutions."
 
-
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - challenges
   - crowdsourcing
   - challenge-gov
 
 # see all authors at https://digital.gov/authors
-authors:
-  - eric-beidel
-  - stephanie-green
-  - tammy-white
+authors: 
+  - jarah-meador
 
-# Weight: controls how this page appears across the site
+# Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases:
+aliases: 
   - /challenges-prizes-community/
 
 
@@ -38,11 +34,10 @@ community_list:
     subscribe_email_subject: "Join Challenges Community"
     subscribe_email_body: "enter your name + agency you work for"
     members: 738
-    emails_per_week:
 
 
 # Make it better ♥
-
+---
 ---
 
 {{< img-right src="challenge-gov-logo" >}}
@@ -64,8 +59,12 @@ Our community supports and encourages the use of incentivized competition to att
 Members of the Challenge and Prize COP gather about four times a year to share ideas, review best practices, and discuss policies and procedures. Membership and participation is open to federal, state, and local government. We host a listserv for members to ask questions, announce new challenges and prizes, and more.
 
 ## Key Resources
+
 - Official listing of federal prizes and challenges: http://www.challenge.gov
 - Toolkit and resources on running challenges: http://www.challenge.gov/toolkit
 - Playlist of challenges and prizes webinars: https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC
 - Facebook: http://www.facebook.com/challengegov
 - Twitter: http://www.twitter.com/challengegov
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

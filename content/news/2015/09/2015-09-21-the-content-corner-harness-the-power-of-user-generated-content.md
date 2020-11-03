@@ -43,7 +43,7 @@ They are also using staff and social media to promote the agency as a potential 
 A recent high-profile example of user-generated content came during [President Obama&#8217;s recent trip to Alaska](https://www.whitehouse.gov/2015-alaska-trip). During his visit to highlight the effects of climate change on the 49th state, the president took over a variety of White House social media platforms to provide a first-hand account of his travels. Along with [Instagram](https://instagram.com/whitehouse/), Obama also used [Twitter](https://twitter.com/whitehouse) and [Medium](https://medium.com/@PresidentObama) to personally share his experiences and create a social media fueled travelogue of his Alaska visit. As with all user-generated content, his first-hand accounts and personal approach provided a stronger message than having an aide or public affairs staffer report on or document the trip. The user&#8217;s personal experience was key in providing an authoritative and trustworthy tone to the content (also didn&#8217;t hurt that it was the leader of the free world).
 
 <blockquote class="twitter-tweet" lang="en">
-  <p dir="ltr" lang="en">
+  <p lang="en">
     Watch a sneak peek of <a href="https://twitter.com/POTUS">@POTUS</a> in the wild with <a href="https://twitter.com/BearGrylls">@BearGrylls</a> talking about climate change → <a href="http://t.co/eAVC9RjeMV">http://t.co/eAVC9RjeMV</a> <a href="https://t.co/iN73E8fqwL">https://t.co/iN73E8fqwL</a>
   </p>
   

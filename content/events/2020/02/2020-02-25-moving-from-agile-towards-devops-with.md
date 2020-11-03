@@ -16,14 +16,23 @@ date: 2020-02-25 14:00:00 -0500
 # end date
 end_date: 2020-02-25 14:30:00 -0500
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# see all topics at https://digital.gov/topics
+topics: 
+  - devops
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - chris-lauer
 
 # YouTube ID
 youtube_id: ubhn8xUQYVs
 
-# Make it better ♥
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
+# Make it better ♥
 ---
 
 Chris Lauer will share the initial steps taken by the [Space Weather Prediction Center](https://www.swpc.noaa.gov/) to implement agile and DevOps methods. The office has a number of constraints, including a relatively small development and IT team. Chris will share their lessons learned with participants, including their failures and successes. This event should be of interest to government technical staff and leadership curious about how and where to start when implementing agile and DevOps.

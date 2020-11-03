@@ -9,7 +9,6 @@ topics:
   - design
   - mobile
   - user-testing-and-research
-  - ux
   - gsa
   - mobile
   - mobile-apps

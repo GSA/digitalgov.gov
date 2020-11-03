@@ -16,7 +16,7 @@ topics:
 ---
 
 <blockquote class="twitter-tweet" lang="en">
-  <p dir="ltr" lang="en">
+  <p lang="en">
     Julia Child and the OSS Recipe for Shark Repellent: <a href="http://t.co/q3cC4QiJhR">http://t.co/q3cC4QiJhR</a> <a href="https://twitter.com/hashtag/SharkWeek?src=hash">#SharkWeek</a> <a href="https://twitter.com/hashtag/OSS?src=hash">#OSS</a> <a href="https://twitter.com/hashtag/WWII?src=hash">#WWII</a> <a href="http://t.co/Idbo1OkPLP">pic.twitter.com/Idbo1OkPLP</a>
   </p>
 

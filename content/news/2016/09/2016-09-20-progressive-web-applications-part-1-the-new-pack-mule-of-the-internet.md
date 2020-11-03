@@ -11,7 +11,7 @@ topics:
   - design
   - product-management
   - mobile
-  - ux
+  - user-experience
   - app
   - code
   - innovation

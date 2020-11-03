@@ -1,25 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2019/02/analyzing-web-metrics-for-federal-privacy
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: analyzing-web-metrics-for-federal-privacy-professionals
-title: 'Analyzing Web Metrics for Federal Privacy Professionals'
-summary: 'For this event, DAP has partnered with the fine folks who run the Federal Privacy Council&#39;s Tech Tuesday Series to teach us how to measure, analyze, and improve experiences for users visiting privacy pages on your agency websites&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-02-19 15:00:00 -0500
-end_date: 2019-02-19 16:00:00 -0500
-event_organizer: DigitalGov University
-host: DAP
+title: "Analyzing Web Metrics for Federal Privacy Professionals"
+deck: ""
+summary: "For this event, DAP has partnered with the fine folks who run the Federal Privacy Council's Tech Tuesday Series to teach us how to measure, analyze, and improve experiences for users visiting privacy pages on your agency websites."
+host: "DAP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dap-webinar-for-federal-privacy-professionals-registration-53600065238
-youtube_id: bYkOqGiPXKE
-aliases:
-  - /event/2019/01/29/analyzing-web-metrics-for-federal-privacy-professionals/
-topics:
+captions: 
+
+# start date
+date: 2019-02-19 15:00:00 -0500
+
+# end date
+end_date: 2019-02-19 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - metrics
   - analytics
   - dap
   - digital-analytics-program
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - tlowden
+
+# YouTube ID
+youtube_id: bYkOqGiPXKE
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /event/2019/01/29/analyzing-web-metrics-for-federal-privacy-professionals/
+
+# Make it better ♥
 
 ---
 

@@ -1,0 +1,168 @@
+// Newsletter
+
+#newsletter-signup{
+  @include u-padding-y('105');
+  @include at-media('tablet'){
+    @include u-padding-y(3);
+  }
+  @include u-bg('indigo-80');
+  .usa-sign-up{
+    @include u-padding-y(0);
+  }
+  .blurb{
+    @include u-margin-top('105');
+    @include u-font('sans', 'lg');
+    @include u-text('light');
+    @include u-text('white');
+    @include u-line-height('sans', 3);
+    strong{
+      @include u-text('bold');
+    }
+
+  }
+
+  .usa-sign-up{
+    .hbspt-form{
+      form{
+        div:first-of-type{
+          h2{
+            @include u-display('none');
+            @include u-margin(0);
+            @include u-font('sans', 'lg');
+            @include u-text('white');
+            @include u-text('light');
+          }
+          .hs-fieldtype-text{
+            label{
+              @include u-margin-bottom('05');
+              @include u-font('sans', 'xs');
+              @include u-text('light');
+              @include u-text('white');
+            }
+            .input{
+              @include u-margin-bottom('105');
+              @include u-padding-left(5);
+              @include u-border('1px','base-lighter','solid');
+              @include u-radius('sm');
+              background: #fff url('/img/love-letter.png') no-repeat 8px 11px;
+              @include u-bg('white');
+              input{
+                @include u-margin-bottom(0);
+                @include u-padding-y(1);
+                @include u-padding-x(1);
+                @include u-padding-left('105');
+                @include u-font('sans', 'lg');
+                @include u-text('thin');
+                @include u-width('full');
+                @include u-border(0);
+                @include u-border-left('1px','base-lighter','solid');
+                @include u-bg('white');
+              }
+            }
+            ul.hs-error-msgs{
+              @include u-margin-top(0);
+              @include u-margin-bottom('05');
+              @include u-text('white');
+              li{
+                @include u-text('white');
+                label{
+                  @include u-text('white');
+                  @include u-text('light');
+                  @include u-font('sans', 'xs');
+                  @include u-line-height('sans', 2);
+                }
+              }
+            }
+          }
+        }
+        .hs_submit{
+          .actions{
+            @include u-margin-bottom(0);
+            @include u-display('flex');
+            @include u-flex('justify-end');
+            .hs-button{
+              @include u-margin-bottom(1);
+              @include u-padding-y(1);
+              @include u-padding-x(1);
+              @include u-text('white');
+              @include u-text('medium');
+              @include u-border('2px','white','solid');
+              @include u-bg('indigo-80');
+              @include u-radius('md');
+              @include u-font('sans', 'md');
+              cursor:pointer;
+              &:hover{
+                @include u-text('indigo-80');
+                @include u-bg('white');
+              }
+            }
+          }
+        }
+        .hs_error_rollup {
+          ul.hs-error-msgs{
+            @include u-margin-top(0);
+            @include u-margin-bottom('05');
+            @include u-text('white');
+            li{
+              @include u-text('white');
+              label{
+                @include u-text('white');
+                @include u-text('light');
+                @include u-font('sans', 'xs');
+                @include u-line-height('sans', 2);
+              }
+            }
+          }
+        }
+      }
+
+    }
+  }
+}
+//
+// #newsletter_signup{
+//   // @include u-margin-y(3);
+//   input,
+//   button{
+//     @include u-height(5);
+//     @include u-font('sans', 'md');
+//   }
+//   input{
+//     @include u-width('full');
+//     @include u-text('light');
+//     border-color: #3d4076;
+//     @include u-border(1px);
+//     @include u-border-right(0);
+//     @include u-padding-left('105');
+//     // @include u-radius('sm');
+//     border-radius: 2px 0 0 2px;
+//     color: #4d52af;
+//   }
+//   button{
+//     @include u-margin-top(0);
+//     padding: 0 12px;
+//     vertical-align: top;
+//     @include u-font('sans', 'md');
+//
+//     // @include u-border(1px);
+//     border: 1px #000 solid;
+//     @include u-border-left(0);
+//     // @include u-radius('sm');
+//     border-radius: 0 2px 2px 0 ;
+//
+//     &:hover{
+//       @include u-bg('blue-30v');
+//     }
+//
+//     // tablet-lg and above
+//     @include at-media('tablet-lg') {
+//       position:inherit;
+//       left:0;
+//     }
+//     img{
+//       width: 36px;
+//       position: relative;
+//       top:3px;
+//     }
+//   }
+// }

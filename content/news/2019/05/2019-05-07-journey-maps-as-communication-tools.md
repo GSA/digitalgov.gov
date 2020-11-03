@@ -20,7 +20,6 @@ topics:
   - design
   - product-management
   - user-experience
-  - ux
 
 # see all authors at https://digital.gov/authors
 authors:

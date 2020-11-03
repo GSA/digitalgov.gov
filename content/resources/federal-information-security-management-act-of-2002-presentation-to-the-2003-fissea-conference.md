@@ -16,16 +16,12 @@ The head of the agency delegates to the CIO a number of information security res
 
 ## Related Links
 
-  * [OMB M-04-25 Reporting Instructions for the Federal Information Security Management Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-25.pdf) (PDF, 269 KB, 28 pages, August 2004)
-  * [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
-  * [NIST Guidelines on Securing Public Web Servers](http://csrc.nist.gov/publications/nistpubs/800-44-ver2/SP800-44v2.pdf) (PDF, 960 KB, 142 pages, September 2007)
-  * [E-Government Act of 2002](http://www.archives.gov/about/laws/egov-act-section-207.html) (Section 207)
-  * [OMB Circular A-130 Appendix III, Management of Federal Information Resources](https://obamawhitehouse.archives.gov/omb/circulars_a130_a130appendix_iii)
-
- 
+* [OMB M-04-25 Reporting Instructions for the Federal Information Security Management Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-25.pdf) (PDF, 269 KB, 28 pages, August 2004)
+* [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
+* [NIST Guidelines on Securing Public Web Servers](http://csrc.nist.gov/publications/nistpubs/800-44-ver2/SP800-44v2.pdf) (PDF, 960 KB, 142 pages, September 2007)
+* [E-Government Act of 2002](http://www.archives.gov/about/laws/egov-act-section-207.html) (Section 207)
+* [OMB Circular A-130 Appendix III, Management of Federal Information Resources](https://obamawhitehouse.archives.gov/omb/circulars_a130_a130appendix_iii)
 
 * * *
-
- 
 
 See more [DigitalGov Resources]({{< ref "/resources" >}})

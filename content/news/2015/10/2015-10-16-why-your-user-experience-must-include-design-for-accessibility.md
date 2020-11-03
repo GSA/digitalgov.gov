@@ -7,7 +7,6 @@ authors:
   - justin-dopke
 topics:
   - accessibility
-  - ux
   - section-508
   - SSA
   - the-united-states-social-security-administration

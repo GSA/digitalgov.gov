@@ -1,24 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2019/05/dap-learning-series-using-analyticsusagov-api
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-using-analytics-usa-gov-api
-kicker: Learning Series
-title: 'DAP Learning Series&#58; Using the analytics&#46;usa&#46;gov API'
-summary: 'Learn how Analytics.usa.gov, the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats.'
-featured_image:
-  uid:
-  alt: ''
-date: 2019-05-23 14:00:00 -0500
-end_date: 2019-05-23 15:00:00 -0500
-event_organizer: DigitalGov University
-host: DAP
+title: "DAP Learning Series: Using the analytics.usa.gov API"
+deck: ""
+kicker: "Learning Series"
+summary: "Learn how Analytics.usa.gov, the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats."
+host: "DAP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dap-learning-series-using-the-analyticsusagov-api-registration-59346385637
-youtube_id: N6cFKcPK8PU
-topics:
-  - analytics-usa-gov
+captions: 
+
+# start date
+date: 2019-05-23 15:00:00 -0500
+
+# end date
+end_date: 2019-05-23 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - metrics
   - analytics
+  - analytics-usa-gov
   - dap
   - digital-analytics-program
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - tlowden
+
+# YouTube ID
+youtube_id: N6cFKcPK8PU
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 Learn how [analytics.usa.gov](analytics.usa.gov), the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats outside of the Google Analytics interface.

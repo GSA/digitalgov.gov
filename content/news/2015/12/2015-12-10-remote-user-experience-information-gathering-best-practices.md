@@ -7,7 +7,6 @@ authors:
   - justin-dopke
 topics:
   - design
-  - ux
   - analytics
   - SSA
   - the-united-states-social-security-administration
