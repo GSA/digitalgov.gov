@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/aidan-hero-image.jpg
+
+# Image shortcode: {{< img src="aidan-hero-image" >}}
+
+date     : 2020-11-03 16:03:30 -0400
+uid      : aidan-hero-image
+width    : 5001
+height   : 2814
+format   : jpg
+credit   : "" 
+caption  : "" 
+alt      : "" 
