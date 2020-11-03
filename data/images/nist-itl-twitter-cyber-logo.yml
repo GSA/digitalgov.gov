@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/nist-itl-twitter-cyber-logo.png
+
+# Image shortcode: {{< img src="nist-itl-twitter-cyber-logo" >}}
+
+date     : 2020-11-03 15:33:00 -0400
+uid      : nist-itl-twitter-cyber-logo
+width    : 265
+height   : 265
+format   : png
+credit   : ""
+caption  : ""
+alt      : "National Institute of Standards and Technology logo for their Information Technology Laboratory has the acronym NIST in white text and the word cyber in light blue on a square black background."
