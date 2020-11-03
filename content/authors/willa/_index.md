@@ -1,5 +1,5 @@
 ---
-display_name: Willa
+display_name: Willa Armstrong
 first_name: Willa
 last_name: Armstrong
 # List your pronoun(s) if you want them displayed alongside your name.
