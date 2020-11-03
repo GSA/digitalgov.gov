@@ -30,7 +30,7 @@ In this talk, we’ll go over the central principles of digital accessibility an
 
 **Presenter:** *Willa Armstrong* is a Digital Accessibility Specialist at the Library of Congress. Previously she worked at the New York Public Library.
 
-\---
+---
 
 **Related Links:**
 
@@ -38,6 +38,6 @@ In this talk, we’ll go over the central principles of digital accessibility an
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
 * [Accessibility for Teams](https://accessibility.digital.gov/)
 
-\---
+---
 
 This talk is hosted by the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and Digital.gov. The Multilingual CoP is a group of federal, state, and local government digital professionals working to expand and improve digital content in languages other than English.
