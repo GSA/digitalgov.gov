@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/nist-twitter-logo.png
+
+# Image shortcode: {{< img src="nist-twitter-logo" >}}
+
+date     : 2020-11-03 15:33:00 -0400
+uid      : nist-twitter-logo
+width    : 400
+height   : 400
+format   : png
+credit   : ""
+caption  : ""
+alt      : "National Institute of Standards and Technology logo has the acronym NIST in white text on a square black background."
