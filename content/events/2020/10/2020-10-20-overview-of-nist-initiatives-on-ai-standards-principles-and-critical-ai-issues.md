@@ -32,6 +32,8 @@ Elham Tabassi and Mark Przybocki will provide an overview of ongoing [National I
 
 ## Speakers:
 
+{{< img-right src="nist-itl-twitter-cyber-logo" >}}
+
 **Elham Tabassi** is the chief of staff in the [Information Technology Laboratory](https://www.nist.gov/itl) (ITL) at NIST. ITL, one of six research laboratories within NIST, supports NIST's mission to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life. ITL conducts fundamental and applied research in computer science and engineering, mathematics, and statistics that cultivates trust in information technology and metrology by developing and disseminating standards, measurements, and testing for interoperability, security, usability, and reliability of information systems.  
 
 **Mark Przybocki** is the acting chief of the [Information Access Division](https://www.nist.gov/itl/iad) (IAD), one of seven technical divisions in ITL. In this capacity, he leads NIST collaborations with industry, academia, and other government agencies to foster trust in emerging technologies that make sense of complex (human) information, by developing improvements to the measurement science, managing technical evaluations, and contributing to standards. The IAD is home to the high profile [Text Retrieval Conference](https://trec.nist.gov/) (TREC), several biometric benchmarking programs, and a growing number of technical evaluations for emerging human language, natural language processing, and speech, image, and video analytics technologies. Mr. Przybocki’s current interests are in AI benchmarking, explainable AI, and bias across the AI development lifecycle.
