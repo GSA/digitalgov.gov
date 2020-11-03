@@ -34,7 +34,7 @@ In this talk, we’ll go over the central principles of digital accessibility an
 
 **Related Links:**
 
-* Section508.gov
+* [Section508.gov](https://section508.gov/)
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
 * [Accessibility for Teams](https://accessibility.digital.gov/)
 
