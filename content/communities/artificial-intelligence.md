@@ -27,7 +27,7 @@ community_list:
     type: government
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AI Listserv"
-    members: 824
+    members: 934
 
 
 # Make it better ♥
