@@ -4,7 +4,8 @@
 	p{
 		@include u-text('center');
 	}
-	.buttons{
+	label{
+		display: block;
 		@include u-text('center');
 	}
 }
