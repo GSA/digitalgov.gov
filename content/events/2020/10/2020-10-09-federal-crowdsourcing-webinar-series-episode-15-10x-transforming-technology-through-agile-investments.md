@@ -24,6 +24,9 @@ slug: federal-crowdsourcing-webinar-series-episode-15-10x-transforming-technolog
 event_platform: zoom
 primary_image: 10x-gold-x-logo
 
+# YouTube ID
+youtube_id: vYAaAiRh2ww
+
 ---
 
 The U.S. General Services Administration’s [10x](https://10x.gsa.gov/) program is unique from other crowdsourcing programs in a few key ways:
