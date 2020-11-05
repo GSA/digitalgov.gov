@@ -24,6 +24,9 @@ slug: overview-of-nist-initiatives-on-ai-standards-principles-and-critical-ai-is
 event_platform: zoom
 primary_image: nist-logo-1200x630
 
+# YouTube ID
+youtube_id: KJ6_XphVNSw
+
 ---
 
 Artificial intelligence (AI) has the potential to impact nearly all aspects of our society, including our economy, but the development and use of the new technologies it brings are not without technical challenges and risks. AI must be developed in a trustworthy manner to ensure reliability, safety, and accuracy. 
