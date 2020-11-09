@@ -19,4 +19,4 @@ Specifically, the report:
 4.  Identifies incremental and obtainable steps to mature Federal RPA Programs
 5.  Acknowledges barriers to RPA adoption and reassess the CoP’s strategy for achieving its mission - “accelerate the adoption of RPA across Government"
 
-{{< button href="https://digital.gov/pdf/state-of-federal-rpa.pdf" text="State of Federal RPA Report v1" >}}
+{{< button href="https://digital.gov/pdf/state-of-federal-rpa-v1.1.pdf" text="State of Federal RPA Report v1.1" >}}
