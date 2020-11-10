@@ -32,7 +32,6 @@ community_list:
 
 # Make it better ♥
 ---
----
 
 When the president signed the [Executive Order 13859, Maintaining American Leadership in Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/), on February 11, 2019, it launched the American AI initiative to promote and protect AI technology and innovation in the United States.
 
