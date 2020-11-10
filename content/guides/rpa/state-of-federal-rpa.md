@@ -17,6 +17,6 @@ Specifically, the report:
 2.  Establishes a baseline to measure RPA Program growth on an annual basis
 3.  Creates a methodology for gauging the Government-Wide impact of RPA on Federal strategies such as the President’s Management Agenda, Cross-Agency Priority Goal 6
 4.  Identifies incremental and obtainable steps to mature Federal RPA Programs
-5.  Acknowledges barriers to RPA adoption and reassess the CoP’s strategy for achieving its mission - “accelerate the adoption of RPA across Government"
+5.  Acknowledges barriers to RPA adoption
 
-{{< button href="https://digital.gov/pdf/state-of-federal-rpa.pdf" text="State of Federal RPA Report v1" >}}
+{{< button href="https://digital.gov/pdf/state-of-federal-rpa.pdf" text="State of Federal RPA Report" >}}
