@@ -20,6 +20,7 @@ topics:
 authors:
   - willa
   - lgodfrey
+  - wendy-a-f-g-stengel
 slug: practical-tips-for-accessible-content-and-multilingual-websites
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
