@@ -24,7 +24,9 @@ slug: uswds-monthly-call-november-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: uswds-2-illio-feature-image
+
 ---
+
 Join U.S. Web Design System Product Lead, Dan Williams, to hear about what's next for the design system as we come to the end of 2020. During this event, the design system team will discuss what we've learned this year and how we're thinking about the future of the design system.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
