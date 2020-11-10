@@ -4,12 +4,13 @@
 
 slug: uswds-monthly-call-november-2020
 title: "USWDS Monthly Call - November 2020"
-deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
-summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
+kicker: USWDS
+deck: "What's Next for USWDS"
+summary: "Join U.S. Web Design System Product Lead, Dan Williams, to hear about what's next for the design system as we come to the end of 2020."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
-registration_url:
-captions:
+registration_url: https://www.eventbrite.com/e/128291289701
+captions: https://www.captionedtext.com/client/event.aspx?EventID=4632755&CustomerID=321
 
 # start date
 date: 2020-11-19 14:30:00 -0500
@@ -29,7 +30,7 @@ authors:
   - dan-williams
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform:
+event_platform: zoom
 
 # YouTube ID
 youtube_id:
@@ -41,6 +42,7 @@ primary_image: "uswds-2-illio-feature-image"
 ---
 
 {{< img-right src="uswds-logo" >}}
+Join U.S. Web Design System Product Lead, Dan Williams, to hear about what's next for the design system as we come to the end of 2020. During this event, the design system team will discuss what we've learned this year and how we're thinking about the future of the design system.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
