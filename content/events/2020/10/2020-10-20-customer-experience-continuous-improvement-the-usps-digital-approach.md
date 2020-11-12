@@ -17,6 +17,10 @@ topics:
   - usability
   - seo
   - user-experience
+# See all authors at https://digital.gov/authors
+authors:
+  - jeff-pass
+  - alexander-turgeon
 slug: customer-experience-continuous-improvement-the-usps-digital-approach
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4612713&CustomerID=321
 date: 2020-11-12 14:00:00 -0500
@@ -46,6 +50,8 @@ Outside of work, Matt’s primary area of interest is how digital mediums modify
 **Jeff Pass** made his first website in 1997 and has been involved in digital communications, usability, information architecture, content strategy, and design ever since. For the last 21 years, Jeff has been a federal contractor working on high-profile projects including HealthCare.gov, CFTC.gov, MyHealthevet.gov (now MyHealth.va.gov), and dozens more. Since 2014, he has been the User Experience Team Lead for USPS.gov.
 
 Jeff has been a long-time UX event organizer, including GoodGov UX, World IA Day DC, UXDC, DCUS, World Usability Day, IA Summit, IA Conference, and UXPA.
+
+**Alexander Turgeon** has provided support to several commercial clients as well as Clark University, combining both highly strategic and creative solutions to deliver client results based on business analytics and user experience practices. For the past 5 years, Alex has been supporting both federal and commercial clients ranging from the John F. Kennedy Center for the Performing Arts to small local businesses across Worcester, Massachusetts. As a federal contractor, Alex has worked on high-impact clients including the Internal Revenue Service (IRS), the Department of the Treasury in support of the Department of Homeland Security (DHS), and now the United States Postal Service (USPS). Since 2019, he has been the User Experience Business Team Lead for USPS.com. 
 
 ---
 
