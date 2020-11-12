@@ -31,9 +31,11 @@ Integrating accessibility into your everyday practice ensures access for people 
 
 In this talk, we’ll go over the central principles of digital accessibility and how these principles remove access barriers and improve user experience for everyone. We’ll cover key ways you can create content that is usable and understandable. Lastly, we’ll touch on the accessibility considerations needed when creating and working with multilingual platforms and content.
 
-## Presenter 
+## Presenters 
 
 **Willa Armstrong** is a digital accessibility specialist at the Library of Congress. Previously she worked at the New York Public Library.
+
+**Wendy A F G Stengel** is section chief for Accessibility and Usability at the Library of Congress. She’s passionate about finding better ways to connect people with the content they need and want, and easier ways for people to get their tasks accomplished. Wendy lives and works in Washington, DC.
 
 ## Related Links 
 
