@@ -52,6 +52,8 @@ There will be two sessions each day. You will need to register for each one to r
 
 **First Session (10:00 am - 12:15 pm, ET)**
 
+- [Watch the video](https://youtu.be/Ed9uZK1N4z8)
+
 In this session you will hear from the following speakers:
 
 * **10:00 am - 10:30 am: Welcome & Annual Report**&mdash;Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN) and Katina Stapleton, co-chair of PLAIN
@@ -59,6 +61,8 @@ In this session you will hear from the following speakers:
 * **11:15 am - 12:15 pm: Keynote**&mdash;Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
 
 **Second Session (2:00 pm – 4:15 pm, ET)**
+
+- [Watch the video](https://youtu.be/Fh2wiGRjqeQ)
 
 In this session you will hear from the following speakers:
 
@@ -70,6 +74,8 @@ In this session you will hear from the following speakers:
 
 **Third Session (9:30 am – 12:00 pm, ET)**
 
+- [Watch the video](https://youtu.be/lxkN7rLcKQI)
+
 In this session you will hear from the following speakers:
 
 * **9:30 am - 10:00 am: Use Plain Language to Influence, Motivate & Mobilize for Change**&mdash;Bethany Blakey, Chief Modernization Strategist, CoE, TTS
@@ -77,6 +83,8 @@ In this session you will hear from the following speakers:
 * **11:00 am - 12:00 pm: Sense making lessons from the Private Sector**&mdash;Abby Covert, Information Architect & Author
 
 **Fourth Session (2:00 pm – 4:15 pm, ET)**
+
+- [Watch the video](https://youtu.be/6RiaxEFqReM)
 
 In this session you will hear from the following speakers:
 
