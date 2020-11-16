@@ -9,7 +9,7 @@ deck: "Governmentwide resources to make communicating government information to 
 summary: "Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - accessibility
   - content
   - multilingual
@@ -17,7 +17,7 @@ topics:
   - multilingual-community
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - lgodfrey
   - lmartinez
 
@@ -28,7 +28,7 @@ authors:
 weight: 2
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /resources/spanish-language-style-guide-and-glossaries/
 
 
@@ -54,7 +54,22 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 #### Social Security Administration (SSA)
 
-This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html)  offers information ranging from states and days of the weeks to health.
+This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html) offers information ranging from states and days of the weeks to health.
+
+**Social Security Information in Other Languages**
+
+* [American Sign Language - watch on YouTube](https://www.youtube.com/watch?v=H9T8cDmFVEg)
+* [Arabic](https://www.ssa.gov/multilanguage/Arabic/arabic.htm)
+* [Chinese (Traditional; Long Form)](https://www.ssa.gov/multilanguage/Chinese/chinese.htm)
+* [Farsi](https://www.ssa.gov/multilanguage/Farsi/farsi.htm)
+* [French](https://www.ssa.gov/multilanguage/French/french.htm)
+* [Greek](https://www.ssa.gov/multilanguage/Greek/greek.htm)
+* [Italian](https://www.ssa.gov/multilanguage/Italian/italian.htm)
+* [Korean](https://www.ssa.gov/multilanguage/Korean/korean.htm)
+* [Polish](https://www.ssa.gov/multilanguage/Polish/polish.htm)
+* [Portuguese](https://www.ssa.gov/multilanguage/Portuguese/portuguese.htm)
+* [Russian](https://www.ssa.gov/multilanguage/Russian/russian.htm)
+* [Vietnamese](https://www.ssa.gov/multilanguage/Vietname/vietnamese.htm)
 
 ### Financial Terminology
 
