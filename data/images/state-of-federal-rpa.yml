@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/state-of-federal-rpa.png
+
+# Image shortcode: {{< img src="state-of-federal-rpa" >}}
+
+date     : 2020-11-04 14:24:35 -0400
+uid      : state-of-federal-rpa
+width    : 535
+height   : 681
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "State of Federal RPA report cover"
