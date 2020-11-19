@@ -15,6 +15,7 @@ topics:
 authors:
   - james-geoghegan
 slug: state-of-federal-rpa-report-adoption-and-impact-of-robotic-process-automation-in-the-federal-government
+primary_image: rpa-bots
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
