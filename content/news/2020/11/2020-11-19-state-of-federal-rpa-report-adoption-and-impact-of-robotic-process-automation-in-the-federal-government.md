@@ -20,9 +20,10 @@ slug: state-of-federal-rpa-report-adoption-and-impact-of-robotic-process-automat
 # 1 -- visible
 weight: 1
 ---
-{{< img src="rpa-state-update" >}}
 
 Robotic Process Automation (RPA) was introduced to the federal government in 2018 and is now recognized as a powerful processing and automation tool. Because RPA technologies emulate human actions, it dramatically reduces an organization’s low value workload and shifts the emphasis toward higher value work. It has now doubled in capacity and become widely adopted across different agencies. In January 2020, the [RPA Community of Practice](https://digital.gov/communities/rpa/) (CoP) published the [RPA Playbook](https://digital.gov/communities/rpa/) to guide process owners and staff with the appropriate training to rapidly design, test, and deploy automations.
+
+{{< img src="rpa-state-update" >}}
 
 We’ve had the opportunity to look back at the last two years to analyze and gauge the progress of how different agencies have been effectively using RPA as an efficient automation tool. To summarize and give a general synopsis on the progress and development of RPA, the RPA CoP is proud to announce the publication of the [State of Federal RPA Report.](https://digital.gov/guides/rpa/state-of-federal-rpa/) This report takes a deep dive into the measurement of RPA program maturity, establishment of standardized methods of measuring program growth, methodology of gauging governmental impact, and identification of challenges to RPA adoption. RPA program maturity increased significantly during fiscal year 2020, characterized by a 110 percent increase in automations deployed and a 200 percent increase in annualized hours. This exponential increase in automations deployed and workload reduction hours has accelerated program maturity and increased functional capabilities. The analysis of results based on FY20 has led to increased intrigue and anticipation for RPA going into the next fiscal year and beyond.
 
