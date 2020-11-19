@@ -7,10 +7,7 @@ email: aidan.feldman@gsa.gov
 # Keep it under 50 words and only one paragraph
 bio: Aidan Feldman is the TTS Technology Director, where he supports the
   programs and people that transform how government uses technology. Previously,
-  Aidan worked at digital service teams 18F and Census xD, and startups like
-  GitHub and Artsy. He has taught software development at places like Cornell,
-  New York University, and General Assembly, and founded Hacker Hours, which
-  provide free office hours for people learning to code.
+  Aidan worked at digital service teams 18F and Census xD, and serveral startups.
 # e.g. U.S. General Services Administration
 agency_full_name: U. S. General Services Administration
 # Agency Acronym [e.g., GSA]
