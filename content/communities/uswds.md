@@ -65,6 +65,7 @@ We support the U.S. Web Design System’s efforts to make it easier to build acc
 - [Join the USWDS Slack](https://chat.18f.gov/)
 - [Follow @USWDS on Twitter](https://twitter.com/uswds?lang=en)
 - [Email the USWDS team](mailto:uswds@support.digitalgov.gov)
+- [View our training video playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nGqDYCNsCMHCQ9MdD5jfB01)
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}
 
