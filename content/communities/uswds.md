@@ -4,7 +4,7 @@
 
 slug: uswds
 date: 2019-12-12 19:00:00 -0500
-title: "U.S. Web Design System Community"
+title: "U.S. Web Design System"
 deck: "Making it easier to build accessible, mobile-friendly government websites for the public."
 summary: "A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project."
 
