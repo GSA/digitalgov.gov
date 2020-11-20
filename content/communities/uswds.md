@@ -4,7 +4,7 @@
 
 slug: uswds
 date: 2019-12-12 19:00:00 -0500
-title: "U.S. Web Design System Community"
+title: "U.S. Web Design System"
 deck: "Making it easier to build accessible, mobile-friendly government websites for the public."
 summary: "A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project."
 
@@ -65,6 +65,7 @@ We support the U.S. Web Design System’s efforts to make it easier to build acc
 - [Join the USWDS Slack](https://chat.18f.gov/)
 - [Follow @USWDS on Twitter](https://twitter.com/uswds?lang=en)
 - [Email the USWDS team](mailto:uswds@support.digitalgov.gov)
+- [View our training video playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nGqDYCNsCMHCQ9MdD5jfB01)
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}
 
