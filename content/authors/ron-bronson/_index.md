@@ -8,7 +8,7 @@ pronoun: He/Him
 # If you include an email address, it will be displayed on your profile page
 email: ronald.bronson@gsa.gov
 # Keep it under 50 words and only one paragraph
-bio: Product Design supervisor for the GSA TTS 18F team.
+bio: Ron Bronson is an information architect, strategist & global speaker on service design. He currently leads the product design teams for GSA/TTS 18F team.
 # Where can people learn more about your work?
 # Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: https://now.ronbronson.com/
