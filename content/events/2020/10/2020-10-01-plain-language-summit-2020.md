@@ -61,7 +61,7 @@ In this session you will hear from the following speakers:
 
 {{< youtube EsJh0GuGYDA >}}
 
-#### Second Session (2:00 pm – 4:15 pm, ET)**
+#### Second Session (2:00 pm – 4:15 pm, ET)
 
 In this session you will hear from the following speakers:
 
