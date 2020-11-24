@@ -50,9 +50,7 @@ There will be two sessions each day. You will need to register for each one to r
 
 ### Tuesday, October 27
 
-**First Session (10:00 am - 12:15 pm, ET)**
-
-- [Watch the video](https://youtu.be/EsJh0GuGYDA)
+#### First Session (10:00 am - 12:15 pm, ET)
 
 In this session you will hear from the following speakers:
 
@@ -61,9 +59,9 @@ In this session you will hear from the following speakers:
   - [View the slides](https://digital.gov/pdf/pl-summit-2020-nicole-fenton.pdf) (PDF, 18.7 MB, 43 pages)
 * **11:15 am - 12:15 pm: Keynote**&mdash;Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
 
-**Second Session (2:00 pm – 4:15 pm, ET)**
+{{< youtube EsJh0GuGYDA >}}
 
-- [Watch the video](https://youtu.be/-pP0JEJ3FHo)
+#### Second Session (2:00 pm – 4:15 pm, ET)**
 
 In this session you will hear from the following speakers:
 
@@ -73,11 +71,12 @@ In this session you will hear from the following speakers:
 * **3:30 pm - 4:15 pm: Flimsy Claims for Legalese and False Criticisms of Plain Language: A 30-Year Collection**&mdash;Joe Kimble, Professor Emeritus, Western Michigan University
   - [View the slides](https://digital.gov/pdf/pl-summit-2020-joseph-kimble.pdf) (PDF, 112 KB, 14 pages)
 
+
+{{< youtube -pP0JEJ3FHo >}}
+
 ### Wednesday, October 28
 
-**Third Session (9:30 am – 12:00 pm, ET)**
-
-- [Watch the video](https://youtu.be/iXxy9b9NHRg)
+#### Third Session (9:30 am – 12:00 pm, ET)
 
 In this session you will hear from the following speakers:
 
@@ -88,15 +87,17 @@ In this session you will hear from the following speakers:
 * **11:00 am - 12:00 pm: Sense making lessons from the Private Sector**&mdash;Abby Covert, Information Architect & Author
   - [View the slides](https://digital.gov/pdf/pl-summit-2020-abby-covert.pdf) (PDF, 11.2 MB, 53 pages)
 
-**Fourth Session (2:00 pm – 4:15 pm, ET)**
+{{< youtube iXxy9b9NHRg >}}
 
-- [Watch the video](https://youtu.be/OllB0f5fNc0)
+#### Fourth Session (2:00 pm – 4:15 pm, ET)
 
 In this session you will hear from the following speakers:
 
 * **2:00 pm - 3:00 pm: How Smart Teams Create and Train Writers**&mdash;Scott Kubie, Independent Consultant
   - [View the slides](https://digital.gov/pdf/pl-summit-2020-scott-kubie.pdf) (PDF, 9.26 MB, 23 pages)
 * **3:00 pm - 4:00 pm: Plain Language**&mdash;Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)
+
+{{< youtube OllB0f5fNc0 >}}
 
 ---
 
