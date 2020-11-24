@@ -75,7 +75,7 @@ You are encouraged to reach out to your agency’s Web Council member if you hav
 - Department of Justice — Ashley McGowan
 - Department of Labor — Stan Olshefski
 - Department of State — Monica Perry
-- Department of Transportation — Andrea Bouchard
+- Department of Transportation — Beth Couturier
 - Department of the Treasury — Teri Greene
 - Department of Veterans Affairs — Joshua Tuscher
 - Environmental Protection Agency — Lin Darlington
