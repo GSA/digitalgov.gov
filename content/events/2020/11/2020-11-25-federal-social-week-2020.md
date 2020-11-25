@@ -34,9 +34,11 @@ event_platform: zoom
 
 Join SocialGov for a week of afternoon sessions on all things federal social media! We’ll be hearing from the best federal government accounts on how they get the job done in the most creative, engaging way possible.
 
-## Monday, December 7, 2:00 pm - 2:45 pm, ET
+## Session One
 
-### Session One: When Is the Best Time To Tweet? 
+### Monday, December 7, 2:00 pm - 2:45 pm, ET
+
+#### When Is the Best Time To Tweet? 
 
 When’s the best time to tweet? The USAGov team behind @USAGovEspanol experimented with Twitter to ensure they’re reaching the right people at the right time with valuable content. Hear some takeaways and lessons learned in rethinking the team's strategy.
 
@@ -44,9 +46,11 @@ In this session you will hear from the following speakers:
 
 * Carolina Landsberger and Andres Quinones Ortiz, USAGov Outreach Team, U.S. General Services Administration (GSA)
 
-## Tuesday, December 8, 2:00 pm - 2:45 pm, ET
+## Session Two
 
-### Session Two: TSA's Quest to Determine the Cutest Canine
+### Tuesday, December 8, 2:00 pm - 2:45 pm, ET
+
+#### TSA's Quest to Determine the Cutest Canine
 
 The best things on the internet are dogs and babies, and the Transportation Security Administration (TSA) decided to focus on dogs with their second annual TSA Cutest Canine contest! Join social media expert Sara Eckert to learn more about TSA’s successful campaign and some valuable lessons learned.
 
@@ -54,9 +58,11 @@ In this session you will hear from:
 
 * Sara Eckert, Social Media Strategist, Social Media Branch, Strategic Communications and Public Affairs, TSA
 
-## Wednesday, December 9, 12:00 pm -12:45 pm, ET
+## Session Three 
 
-### Session Three: 5 Insider Secrets to Email Marketing
+### Wednesday, December 9, 12:00 pm -12:45 pm, ET
+
+#### 5 Insider Secrets to Email Marketing
 
 Members of GSA's Office of Strategic Communication and Centers of Excellence join us to share their successes with email marketing. Get some insider tips on increasing engagement, newsletter design, promoting social media, and more. 
 
@@ -66,9 +72,11 @@ In this session you will hear from the following speakers:
 * Peter Lenentine, GSA
 * Victoria Wales, Strategic Outreach Specialist, GSA
 
-## Wednesday, December 9, 3:00 pm - 3:45 pm, ET
+## Session Four
 
-### Session Four: What’s New and Interesting in Podcasting 
+### Wednesday, December 9, 3:00 pm - 3:45 pm, ET
+
+#### What’s New and Interesting in Podcasting 
 
 Tanner Iskra, podcast expert and host of the U.S. Department of Veterans Affairs's popular “Borne the Battle” podcast, will be talking about what’s new in podcasting styles, his philosophy on video in podcasting, the podcast award show landscape, interagency cooperation, and more in what will surely be an interesting discussion! 
 
@@ -76,9 +84,11 @@ In this session you will hear from:
 
 * Tanner Iskra, video producer and host of the VA’s "Borne the Battle" Podcast, VA
 
-## Thursday, December 10, 2:00 pm - 2:45 pm, ET
+## Session Five
 
-### Session Five: Posting Travel Content When No One is Traveling 
+### Thursday, December 10, 2:00 pm - 2:45 pm, ET
+
+#### Posting Travel Content When No One is Traveling 
 
 Hear how the U.S. Department of State's TravelGov team has adapted their Instagram strategy with travel being restricted during COVID-19! 
 
@@ -86,9 +96,11 @@ In this session you will hear from the following speakers:
 
 * Alyssa Zalenski, Digital Content Manager, Bureau of Consular Affairs
 
-## Thursday, December 10, 3:00 pm - 3:45 pm, ET
+## Session Six
 
-### Session Six: How to engage your audience like a Marine (Marine Corps Recruit Depot Parris Island, Parris Island)
+### Thursday, December 10, 3:00 pm - 3:45 pm, ET
+
+#### How To Engage Your Audience Like a Marine
 
 Join Chief Warrant Officer Bobby Yarbrough who runs the Marine Corps Recruit Depot Parris Island, S.C. Facebook page for an interesting conversation on how he engages his audience, strategy for addressing comments, develops content, and more.
 
@@ -96,9 +108,11 @@ In this session you will hear from:
 
 * Chief Warrant Officer Bobby Yarbrough, Marine Corps Recruit Depot, Parris Island, South Carolina 
 
-## Friday, December 11, 1:00 pm - 2:00 pm, ET
+## Session Seven
 
-### Session Seven: Using Social Media Influencers in the Federal Government
+### Friday, December 11, 1:00 pm - 2:00 pm, ET
+
+#### Using Social Media Influencers in the Federal Government
 
 Join the experts at the U.S. Consumer Product Safety Commission and Census Bureau to hear about their success using social media influencers to engage their audiences. They will be discussing how they worked this through the approval chains at their agencies, how they found and booked influencers, campaign results, and more.
 
