@@ -38,9 +38,9 @@ Join SocialGov for a week of afternoon sessions on all things federal social med
 
 When’s the best time to tweet? The USAGov team behind @USAGovEspanol experimented with Twitter to ensure they’re reaching the right people at the right time with valuable content. Hear from their team some takeaways and lessons learned in rethinking their strategy.
 
-In this session you will hear from the following speakers:
+* In this session you will hear from the following speakers:
 
-* Carolina Landsberger and Andres Quinones Ortiz, USAGov Outreach Team 
+  * Carolina Landsberger and Andres Quinones Ortiz, USAGov Outreach Team 
 
 ### Tuesday, December 8
 
