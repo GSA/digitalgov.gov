@@ -42,7 +42,7 @@ In this session you will hear from the following speakers:
 
 * Carolina Landsberger and Andres Quinones Ortiz, USAGov Outreach Team 
 
-### Tuesday, December 8 
+### Tuesday, December 8
 
 #### Second Session (2:00 pm - 2:45 pm, ET)  TSA's Quest to Determine the Cutest Canine. Transportation Security Administration (Transportation Security Administration)
 
@@ -52,7 +52,7 @@ The best things on the internet are dogs and babies, and TSA decided to focus on
 
   * Sara Eckert, Social Media Strategist, Social Media Branch, Strategic Communications and Public Affairs, Transportation Security Administration
 
-### Wednesday, December 9 
+### Wednesday, December 9
 
 #### Third Session (12:00 pm -12:45 pm, ET) 5 Insider Secrets to Email Marketing (U.S. General Services Administration, Office of Strategic Communication and Centers of Excellence)
 
@@ -60,7 +60,9 @@ Join Victoria Wales and Gabrielle Perret of the U.S. General Services Administra
 
 * In this session you will hear from the following speakers:
 
-  * Gabrielle Perret, Senior Media Advisor, U.S. General Services Administration,  Peter Lenentine, U.S. General Services Administration, and Victoria Wales, Strategic Outreach Specialist, U.S. General Services Administration. 
+  * Gabrielle Perret, Senior Media Advisor, U.S. General Services Administration,  
+  * Peter Lenentine, U.S. General Services Administration, 
+  * Victoria Wales, Strategic Outreach Specialist, U.S. General Services Administration. 
 
 ### Wednesday, December 9  
 
@@ -72,20 +74,15 @@ Podcast expert and host of the popular “Borne the Battle” podcast Tanner Isk
 
   * Tanner Iskra, Video Producer and Host of VA’s "Borne the Battle" Podcast.
 
-
-
 ### Thursday, December 10
 
 #### Fifth Session (2:00 pm - 2:45 pm, ET)  Posting Travel Content When No One is Traveling (U.S. Department of State, TravelGov)
 
 Hear how the TravelGov team has adapted their Instagram strategy with travel being restricted during COVID-19! 
 
-\
-In this session you will hear from the following speakers:
+* In this session you will hear from the following speakers:
 
-* Alyssa Zalenski, Digital Content Manager, Bureau of Consular Affairs
-
-
+  * Alyssa Zalenski, Digital Content Manager, Bureau of Consular Affairs
 
 ### Thursday, December 10
 
@@ -93,7 +90,20 @@ In this session you will hear from the following speakers:
 
 Join Chief Warrant Officer Bobby Yarbrough who runs the Marine Corps Recruit Depot Parris Island, S.C. Facebook page for an interesting conversation on how he engages his audience, strategy for addressing comments, develops content, and more.
 
-\
-In this session you will hear from: 
+* In this session you will hear from: 
 
-* Alyssa Zalenski, Digital Content Manager, Bureau of Consular Affairs
+  * Chief Warrant Officer Bobby Yarbrough, Marine Corps Recruit Depot Parris Island, S.C. 
+
+### Friday, December 11
+
+#### Seventh Session (1:00 pm - 2:00 pm, ET)  Using Social Media Influencers in the Federal Government. Center for the Study of the Presidency and Congress and the Census Bureau (U.S. Consumer Product Safety Commission & Census Bureau, U.S. Department of Commerce)
+
+Join the experts at the U.S. Consumer Product Safety Commission & Census Bureau to hear about their success using social media influencers to engage their audiences. They will be discussing how they worked this through the approval chains at their agencies, how they found and booked influencers, campaign results, and more.
+
+* In this session you will hear from: 
+
+  * Kendall B Johnson, Executive Director, 2020 Census Integrated Communications Contract PMO, Communications Directorate /U.S. Census Bureau,
+  * Briana D Kaya, Deputy Division Chief, Center for New Media & Promotion, U.S. Census Bureau
+  * Yolanda Byrd, Deputy Chief in the Promotions Branch, Center for New Media & Promotions 
+  * Joe Galbo, Social Media Specialist at U.S. Consumer Product Safety Commission
+  * Joe Martyak, Director of Communications, U.S. Consumer Product Safety Commission
