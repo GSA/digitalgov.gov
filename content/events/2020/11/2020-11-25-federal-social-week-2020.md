@@ -30,7 +30,7 @@ slug: federal-social-week-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
-Join SocialGov for a week of afternoon sessions on all things federal social media! We’ll be hearing from the best federal government accounts on how they get the job done in the most creative, engaging way possible. Agenda
+Join SocialGov for a week of afternoon sessions on all things federal social media! We’ll be hearing from the best federal government accounts on how they get the job done in the most creative, engaging way possible.
 
 ### Monday, December 7
 
@@ -72,7 +72,7 @@ Podcast expert and host of the popular “Borne the Battle” podcast Tanner Isk
 
 * In this session you will hear from:
 
-  * Tanner Iskra, Video Producer and Host of VA’s "Borne the Battle" Podcast.
+  * Tanner Iskra, Video Producer and Host of VA’s "Borne the Battle" Podcast
 
 ### Thursday, December 10
 
