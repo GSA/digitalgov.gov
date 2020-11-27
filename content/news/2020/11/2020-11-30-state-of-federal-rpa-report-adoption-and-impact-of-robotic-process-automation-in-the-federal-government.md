@@ -1,5 +1,5 @@
 ---
-date: 2020-11-19 09:48:00 -0500
+date: 2020-11-30 09:48:00 -0500
 kicker: Robotic Process Automation
 title: "State of Federal RPA Report: Adoption and Impact of Robotic Process
   Automation in the Federal Government"
