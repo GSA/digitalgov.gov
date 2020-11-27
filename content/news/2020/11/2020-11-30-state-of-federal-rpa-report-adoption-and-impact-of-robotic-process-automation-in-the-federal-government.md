@@ -25,7 +25,7 @@ Robotic Process Automation (RPA) was introduced to the federal government severa
 
 
 
-To summarize and measure the progress of Federal RPA programs over the last two years, the RPA Community of Practice is proud to announce the publication of the [State of Federal RPA Report.](https://digital.gov/guides/rpa/state-of-federal-rpa/). This report:  
+To summarize and measure the progress of Federal RPA programs over the last two years, the RPA Community of Practice is proud to announce the publication of the [State of Federal RPA Report](https://digital.gov/guides/rpa/state-of-federal-rpa/). This report:  
 -  Provides a standardized framework for measuring RPA Program maturity  
 -  Establishes a baseline to measure RPA Program growth on an annual basis  
 -  Creates a methodology for gauging the Government-Wide impact of RPA on Federal strategies such as the President’s Management Agenda, Cross-Agency Priority Goal 6  
