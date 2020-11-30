@@ -116,8 +116,8 @@ menu:
       Identifier      : "communities"
       URL             : "/communities/"
       Weight          : 4
-    - Name            : "Services"
-      Identifier      : "services"
+    - Name            : "Tools"
+      Identifier      : "tools"
       URL             : "/services/"
       Weight          : 5
 
