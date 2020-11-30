@@ -1,0 +1,14 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/rpa-state-update.png
+
+# Image shortcode: {{< img src="rpa-state-update" >}}
+
+date     : 2020-11-19 15:32:21 -0400
+uid      : rpa-state-update
+width    : 1201
+height   : 538
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A gray and black collage from the cover of the The State of Federal Robotics Process Automation report includes technology and innovation imagery and icons, such as a robotic hand, circuit board, light bulb, gears, cell towers, and atoms.
+" 
