@@ -4,9 +4,7 @@ date: 2020-12-01 14:10:00 -0500
 source_url: ""
 title: "Deceptive Design: How to Identify and Combat Consequence Design"
 deck: ""
-summary: Consequence design is part of everyday life. Deceptive techniques like
-  “dark patterns” and “hostile design” trick people into taking unintended
-  actions — learn how to prevent them from sneaking into our design work.
+summary: Consequence design is part of everyday life. Deceptive techniques like “dark patterns” and “hostile design” trick people into taking unintended actions — learn how to prevent them from sneaking into our design work.
 # See all topics at https://digital.gov/topics
 topics:
   - 18f
@@ -35,22 +33,22 @@ These tricks come in several forms, such as a popup window that demands a new su
 * **Designer Myopia** occurs when we design from our own experiences, rather than solving actual problems. It also happens when designers do not consider user needs, and focus on their own preferences or motives.
 * **Attention Theft** inundates users with notifications or information trying to catch their attention. If information comes from only one website or Listserv, it’s no problem, but we often receive unsolicited messages from many sources.
 * **Coercive Friction** pushes users to make counterintuitive decisions.
-* **Guilt Friction** employs design patterns to reinforce guilt as a user retention strategy. 
+* **Guilt Friction** employs design patterns to reinforce guilt as a user retention strategy.
 
-Coercive and guilt friction are best explained with an example: 
+Coercive and guilt friction are best explained with an example:
 
 Carl is not thinking about a haircut, but suddenly he receives an email from his barber saying, “It’s been a while since your last visit – we miss you!” The barbershop is clearly trying to persuade Carl by targeting the feeling of guilt and questioning whether he needs a haircut or not. At times, users see through these techniques because it’s obvious that the notifications are being sent by a system, not by the actual sender (in this case, Carl’s long-time barber). Regardless, it is easy for a user to fall into a trap when the design has deceptive intentions.
 
-#### **As designers, we can practice the 4 Rs to prevent hostile design:** 
+#### **As designers, we can practice the 4 Rs to prevent hostile design:**
 
 1. **Reconsider** our own assumptions.
 2. **Reframe** the problem statement with the lens of an “edge case,” or the audience outside our normal or expected view.
 3. **Rewrite** your protocols as needed to mine for information about liminal (or transitional) user experience (UX) states.
-4. **Repeat** this process. 
+4. **Repeat** this process.
 
 Now, let’s get more specific.
 
-#### **What are some practical methods we can implement to make sure we are following the 4 Rs?** 
+#### **What are some practical methods we can implement to make sure we are following the 4 Rs?**
 
 * **Designated Dissenter**. A sprint exercise where a designated team member imagines and verbalizes ways in which the product can be abused.
 * **Consequence Framing**. Asking key questions, such as: Who informed the decisions? Who have we missed? This usually involves imagining the end or ideal state, and working backwards with the goal of finding a theme.
