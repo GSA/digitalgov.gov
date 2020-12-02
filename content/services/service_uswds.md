@@ -36,5 +36,4 @@ topics:
 authors:
   - dan-williams
   - ammie-farraj-feijoo
-
 ---

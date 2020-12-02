@@ -36,6 +36,8 @@ community_list:
     members: 108
     emails_per_week:
 
+redirectto: https://designsystem.digital.gov/about/community/
+
 # Make it better ♥
 
 ---
