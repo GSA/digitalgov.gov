@@ -11,6 +11,9 @@ topics:
   - user-experience
   - uswds
   - design
+# See all authors at https://digital.gov/authors
+authors:
+  - ron-bronson
 slug: deceptive-design-how-to-identify-and-combat-consequence-design
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -18,7 +21,7 @@ slug: deceptive-design-how-to-identify-and-combat-consequence-design
 # 2 -- highlighted
 weight: 1
 ---
-{{< youtube Aw5ovySXf6o >}}
+{{< youtube Aw5ovySXf6o&t=1430s >}}
 
 {{< note >}} In this training, Ron Bronson, who leads the product design teams for GSA/TTS 18F team, discusses what we all can do to assure that deceptive design patterns stay out of the sites we build. The article below provides an overview of the presentation. {{< /note >}}
 
@@ -29,7 +32,7 @@ These tricks come in several forms, such as a popup window that demands a new su
 
 {{< card-quote text="Products are not innocent; they mediate our behavior; how we collaborate, how we interact with our environment and how we deal with social issues." cite="Alain Dujardin" >}}
 
-### **What are some common types of hostile design?**
+## **What are some common types of hostile design?**
 
 * **Designer Myopia** occurs when we design from our own experiences, rather than solving actual problems. It also happens when designers do not consider user needs, and focus on their own preferences or motives.
 * **Attention Theft** inundates users with notifications or information trying to catch their attention. If information comes from only one website or Listserv, it’s no problem, but we often receive unsolicited messages from many sources.
@@ -40,7 +43,7 @@ Coercive and guilt friction are best explained with an example:
 
 Carl is not thinking about a haircut, but suddenly he receives an email from his barber saying, “It’s been a while since your last visit – we miss you!” The barbershop is clearly trying to persuade Carl by targeting the feeling of guilt and questioning whether he needs a haircut or not. At times, users see through these techniques because it’s obvious that the notifications are being sent by a system, not by the actual sender (in this case, Carl’s long-time barber). Regardless, it is easy for a user to fall into a trap when the design has deceptive intentions.
 
-### **As designers, we can practice the 4 Rs to prevent hostile design:**
+## **As designers, we can practice the 4 Rs to prevent hostile design:**
 
 1. **Reconsider** our own assumptions.
 2. **Reframe** the problem statement with the lens of an “edge case,” or the audience outside our normal or expected view.
@@ -49,7 +52,7 @@ Carl is not thinking about a haircut, but suddenly he receives an email from his
 
 Now, let’s get more specific.
 
-### **What are some practical methods we can implement to make sure we are following the 4 Rs?**
+## **What are some practical methods we can implement to make sure we are following the 4 Rs?**
 
 * **Designated Dissenter** - A sprint exercise where a designated team member imagines and verbalizes ways in which the product can be abused.
 * **Consequence Framing** - Asking key questions, such as: Who informed the decisions? Who have we missed? This usually involves imagining the end or ideal state, and working backwards with the goal of finding a theme.
