@@ -22,7 +22,6 @@ authors:
   - laura-larrimore
   - claire-loxsom
   - andres-quinones
-  - sarah-eckert
   - victoria-wales
   - tanner-iskra
 slug: federal-social-week-2020
@@ -121,5 +120,3 @@ In this session you will hear from:
 * Kendall B Johnson, Executive Director, 2020 Census Integrated Communications Contract PMO, Communications Directorate, U.S. Census Bureau 
 * Briana D Kaya, Deputy Division Chief, Center for New Media & Promotion, U.S. Census Bureau 
 * Yolanda Byrd, Deputy Chief in the Promotions Branch, Center for New Media & Promotions 
-* Joe Galbo, Social Media Specialist at U.S. Consumer Product Safety Commission 
-* Joe Martyak, Director of Communications, U.S. Consumer Product Safety Commission 
