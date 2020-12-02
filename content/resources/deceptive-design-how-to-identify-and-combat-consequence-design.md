@@ -21,7 +21,7 @@ slug: deceptive-design-how-to-identify-and-combat-consequence-design
 # 2 -- highlighted
 weight: 1
 ---
-{{< youtube Aw5ovySXf6o&t=1430s >}}
+{{< youtube Aw5ovySXf6o >}}
 
 {{< note >}} In this training, Ron Bronson, who leads the product design teams for GSA/TTS 18F team, discusses what we all can do to assure that deceptive design patterns stay out of the sites we build. The article below provides an overview of the presentation. {{< /note >}}
 
