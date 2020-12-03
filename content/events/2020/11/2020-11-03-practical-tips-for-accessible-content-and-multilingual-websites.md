@@ -33,7 +33,7 @@ In this talk, we’ll go over the central principles of digital accessibility an
 
 ## Presenters 
 
-**Willa Armstrong** is a Digital Accessibility Specialist at the Library of Congress. Trained as a librarian, she is dedicated to removing barriers and ensuring equal access to information for all. Previously she worked at the New York Public Library in both Digital Accessibility and NYPL Labs.
+**Willa Armstrong** is a digital accessibility specialist at the Library of Congress. Trained as a librarian, she is dedicated to removing barriers and ensuring equal access to information for all. Previously, she worked in digital accessibility for the public library system in New York City.
 
 **Wendy A F G Stengel** is section chief for Accessibility and Usability at the Library of Congress. She’s passionate about finding better ways to connect people with the content they need and want, and easier ways for people to get their tasks accomplished. Wendy lives and works in Washington, DC.
 
