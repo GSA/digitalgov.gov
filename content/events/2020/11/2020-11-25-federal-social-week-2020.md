@@ -64,12 +64,12 @@ In this session you will hear from:
 
 #### 5 Insider Secrets to Email Marketing
 
-Members of GSA's Office of Strategic Communication and Centers of Excellence join us to share their successes with email marketing. Get some insider tips on increasing engagement, newsletter design, promoting social media, and more. 
+Members of GSA's Office of Strategic Communication, Centers of Excellence, and GSA IT join us to share their successes with email marketing. Get some insider tips on increasing engagement, newsletter design, promoting social media, and more. 
 
 In this session you will hear from the following speakers: 
 
 * Gabrielle Perret, Senior Media Advisor, GSA
-* Peter Lenentine, GSA
+* Peter Lenentine, Director of User Experience & Usability, GSA
 * Victoria Wales, Strategic Outreach Specialist, GSA
 
 ## Session Four
