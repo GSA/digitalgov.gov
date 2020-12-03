@@ -22,7 +22,6 @@ authors:
   - laura-larrimore
   - claire-loxsom
   - andres-quinones
-  - sarah-eckert
   - victoria-wales
   - tanner-iskra
 slug: federal-social-week-2020
