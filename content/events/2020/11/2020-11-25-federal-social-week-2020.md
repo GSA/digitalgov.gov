@@ -1,5 +1,5 @@
 ---
-title: Federal Social Week 2020!
+title: Federal Social Media Week 2020!
 kicker: Social Media
 summary: "2020 has been an unprecedented year for challenges and opportunities in social media. SocialGov’s Federal Social Media Week 2020 will bring you some interesting perspectives on how to keep social media moving and successful for 2021."
 host: Social Media Community of Practice
@@ -28,7 +28,7 @@ slug: federal-social-week-2020
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-
+primary_image: social-media-week-2020
 ---
 
 Join SocialGov for a week of afternoon sessions on all things federal social media! We’ll be hearing from the best federal government accounts on how they get the job done in the most creative, engaging way possible.
