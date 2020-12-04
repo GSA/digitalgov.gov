@@ -6,7 +6,7 @@
       @include at-media('tablet') {
         @include u-padding-y(3);
       }
-      @include u-bg('gray-warm-5');
+      @include u-bg('blue-warm-5');
     }
     header.page-head{
       @include u-padding-y(2);
@@ -32,6 +32,6 @@
 // All news page — https://digital.gov/news/
 .news.section{
   .paper{
-    @include u-bg('gray-warm-5');
+    @include u-bg('blue-warm-5');
   }
 }

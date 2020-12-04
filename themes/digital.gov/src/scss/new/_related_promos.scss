@@ -23,7 +23,7 @@
       @include u-font('sans', '3xs');
     }
     &:hover{
-      @include u-bg('gray-warm-5');
+      @include u-bg('gray-cool-5');
       h3 a{
         border-bottom: 2px #fc906d solid;
       }

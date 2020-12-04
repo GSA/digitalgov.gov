@@ -31,7 +31,7 @@ nav.topics-sidebar{
         @include u-line-height('sans', 2);
         @include u-display('block');
         &:hover{
-          @include u-bg('gray-warm-5');
+          @include u-bg('gray-cool-5');
           span{
             @include u-border-bottom('2px', 'solid', 'orange-warm-40v');
           }
