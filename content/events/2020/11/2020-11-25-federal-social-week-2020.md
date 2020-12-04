@@ -28,7 +28,7 @@ slug: federal-social-week-2020
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-
+primary_image: social-media-week-2020
 ---
 
 Join SocialGov for a week of afternoon sessions on all things federal social media! We’ll be hearing from the best federal government accounts on how they get the job done in the most creative, engaging way possible.
