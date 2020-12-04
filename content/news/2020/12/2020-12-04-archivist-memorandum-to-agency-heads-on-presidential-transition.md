@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://www.archives.gov/records-mgmt/memos/ac-11-2021
-source: 
+source: nara
 date: 2020-12-01 14:55:00 -0500
 kicker: Records Management
 title: Archivist Memorandum to Agency Heads on Presidential Transition
