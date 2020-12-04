@@ -1,6 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://www.archives.gov/records-mgmt/memos/ac-11-2021
+source: digitalgov
 date: 2020-12-01 14:55:00 -0500
 kicker: Records Management
 title: Archivist Memorandum to Agency Heads on Presidential Transition
@@ -28,7 +29,8 @@ summary: On Monday, November 30, the Archivist of the United States sent a
 topics:
   - records-management
 # See all authors at https://digital.gov/authors
-authors: []
+authors:
+  - nathan-dietz
 slug: archivist-memorandum-to-agency-heads-on-presidential-transition
 # Controls how this page appears across the site
 # 0 -- hidden
