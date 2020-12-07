@@ -5,7 +5,7 @@ source: nara
 date: 2020-12-01 14:55:00 -0500
 kicker: Records Management
 title: Archivist Memorandum to Agency Heads on Presidential Transition
-deck: **Archivist Memorandum to Agency Heads on Presidential Transition**&mdash;On Monday, November 30, the Archivist of the United States sent a
+deck: "**Archivist Memorandum to Agency Heads on Presidential Transition**&mdash;On Monday, November 30, the Archivist of the United States sent a
   memorandum to agency heads reminding them of the importance of records
   management during a presidential transition. In this memo, the Archivist
   emphasizes that in order to have a successful transition, it is crucial that
@@ -14,8 +14,8 @@ deck: **Archivist Memorandum to Agency Heads on Presidential Transition**&mdash;
   agency and that all agency officials and employees are properly briefed on
   their records management responsibilities. Review the resources posted on
   their website for additional information about federal records management
-  during transition.
-summary: **Archivist Memorandum to Agency Heads on Presidential Transition**&mdash;On Monday, November 30, the Archivist of the United States sent a
+  during transition."
+summary: "**Archivist Memorandum to Agency Heads on Presidential Transition**&mdash;On Monday, November 30, the Archivist of the United States sent a
   memorandum to agency heads reminding them of the importance of records
   management during a presidential transition. In this memo, the Archivist
   emphasizes that in order to have a successful transition, it is crucial that
@@ -24,7 +24,7 @@ summary: **Archivist Memorandum to Agency Heads on Presidential Transition**&mda
   agency and that all agency officials and employees are properly briefed on
   their records management responsibilities. Review the resources posted on
   their website for additional information about federal records management
-  during transition.
+  during transition."
 # See all topics at https://digital.gov/topics
 topics:
   - records-management
