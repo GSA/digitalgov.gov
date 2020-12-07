@@ -1,7 +1,7 @@
 .box{
 	@include u-margin-bottom(1);
 	@include u-padding(2);
-	@include u-bg('gray-warm-5');
+	@include u-bg('gray-cool-5');
 	@include u-radius('sm');
 	@include u-text('black');
 	@include u-font('sans', 'xs');
