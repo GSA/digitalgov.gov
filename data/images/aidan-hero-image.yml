@@ -1,13 +1,13 @@
 # This image is available at:
-# https://s3.amazonaws.com/digitalgov/aidan-hero-image.jpg
+# https://s3.amazonaws.com/digitalgov/aidan-hero-image.png
 
 # Image shortcode: {{< img src="aidan-hero-image" >}}
 
-date     : 2020-11-03 16:03:30 -0400
+date     : 2020-12-07 20:28:28 -0400
 uid      : aidan-hero-image
 width    : 5001
 height   : 2814
-format   : jpg
+format   : png
 credit   : "" 
 caption  : "" 
-alt      : "Graphic showing a laptop that reads Federal Student Aid’s new Virtual Assistant offers model for improved customer service in government" 
+alt      : "" 
