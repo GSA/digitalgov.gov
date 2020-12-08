@@ -19,7 +19,7 @@ community_list:
     subscribe_email: laura.godfrey@gsa.gov
     subscribe_email_subject: "Join: Multilingual"
     subscribe_form: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
-    members: 345
+    members: 385
     emails_per_week: 1.33
 
 authors:
