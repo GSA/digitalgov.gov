@@ -73,7 +73,7 @@ npm -v
 
 Using [Homebrew](https://docs.brew.sh/) is a quick and easy way to install Hugo. [Install Homebrew](https://docs.brew.sh/Installation) before getting started.
 
-#### Install Hugo 0.74.3
+#### Install Hugo 0.79.0
 
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
@@ -87,7 +87,7 @@ Quickly check your Hugo version at your terminal command line by running:
 hugo version
 ```
 
-**Note:** Digital.gov currently uses Hugo version 0.74.3. This is noted in our [.hugo-version](.hugo-version) file.
+**Note:** Digital.gov currently uses Hugo version 0.79.0. This is noted in our [.hugo-version](.hugo-version) file.
 If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: [Using Legecy Versions of the Hugo Static Site Generator](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/)
 
 #### Setup
@@ -170,9 +170,10 @@ Images found in `content/images/inbox/` will be optimized and compressed and sen
 ## Upgrading Hugo
 
 1. Read through [the recent releases](https://github.com/gohugoio/hugo/releases)
-2. Run `brew upgrade hugo` to upgrade your local copy ([docs](https://gohugo.io/getting-started/installing/#upgrade-hugo)).
+1. Run `brew upgrade hugo` to upgrade your local copy ([docs](https://gohugo.io/getting-started/installing/#upgrade-hugo)).
 1. Set the version in the `.hugo-version` file. This is only used for telling Federalist which version of Hugo they should checkout and use.
-3. Update the version in `.circleci/config.yml to ensure that the same version of Hugo is being used for CI.
+1. Update this README.md to show the current hugo version
+1. Update the version in `.circleci/config.yml to ensure that the same version of Hugo is being used for CI.
 
 ## Accessibility tests
 
