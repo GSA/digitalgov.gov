@@ -40,7 +40,7 @@ When sending a message to the entire Listserv, consider that your message is goi
 - Stay organized: Please keep the conversation threads focused. Start a new thread if it does not pertain to the latest conversation.
 - Be brief: Try to be direct and stay on point as much as possible.
 
-### Other considereations 
+### Other considerations 
 
 - Understand your agency’s policy about using all government equipment.
 - Behave online in such a way that you do not bring your agency into disrepute, even if you are not officially representing your agency.
