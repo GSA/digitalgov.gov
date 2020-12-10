@@ -40,6 +40,16 @@ When sending a message to the entire Listserv, consider that your message is goi
 - Stay organized: Please keep the conversation threads focused. Start a new thread if it does not pertain to the latest conversation.
 - Be brief: Try to be direct and stay on point as much as possible.
 
+### Other considereations 
+
+- Understand your agency’s policy about using all government equipment.
+- Behave online in such a way that you do not bring your agency into disrepute, even if you are not officially representing your agency.
+- Do not participate in commercial communications or endorsements.
+- Remember all of your email correspondence with the CoP are subject to release under the [Freedom of Information Act (FOIA)](https://www.foia.gov/).
+- Check your current agency policies on managing records. Find more information on the [National Archives Records Management Information Page](https://www.archives.gov/records-mgmt).
+- Abide by U.S. copyright laws when referencing or using others' content in any materials.
+- Follow the [Paperwork Reduction Act (PRA) Guide](https://www.opm.gov/about-us/open-government/digital-government-strategy/fitara/paperwork-reduction-act-guide.pdf) before sending out a survey or other requests for feedback, especially if your community includes members of the public (non-government).
+
 ## How to Send a Message
 
 Any Listserv member can send a message to the group by using this email address:
