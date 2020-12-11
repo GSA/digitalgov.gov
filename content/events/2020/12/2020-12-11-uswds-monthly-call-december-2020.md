@@ -25,7 +25,6 @@ slug: uswds-monthly-call-december-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
-{{< img src="uswds-logo" alt="USWDS logo" >}}
 
 Join the U.S. Web Design System team as we look at what's in our latest release: USWDS 2.10.0! We'll review new components designed with emergency response in mind and learn how they work independently and in combination to highlight critical information and actions. This month's call should be of particular interest to developers.
 
