@@ -71,4 +71,4 @@ Knowledge Sharing: This listserv provides you with a platform to ask and answer 
 ## Community Conduct
 The Communities of Practice are hosted by digital.gov, a service of the Technology Transformation Services (TTS) within the General Services Administration (GSA). GSA is a federal agency subject to the Freedom of Information Act (FOIA) and must comply with requests for records made under FOIA. As a result, all communications made on this Communities of Practice LISTSERV are subject to release under FOIA.
 
-When participating in this CoP, follow [Digital.gov Community Guidelines](https://digital.gov/communities/manage-your-subscription/).
+As a community member, you must follow [Digital.gov Community Guidelines](https://digital.gov/communities/manage-your-subscription/) and abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
