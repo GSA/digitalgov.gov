@@ -14,7 +14,7 @@ authors:
   - alyssa-feola
   - aidan-feldman
 slug: tts-bug-bounty-program-3-year-review
-primary_image: seo-colorful-website-illustration-under-magnifying-glass-aleksandr-durnov-istock-gettyimagesplus-954640444
+primary_image: bug-bounty1
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
