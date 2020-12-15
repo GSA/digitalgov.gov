@@ -26,6 +26,8 @@ As described in the [Binding Operational Directive 20-01: Vulnerability Disclosu
 
 *In bug bounty programs, organizations pay for valid and impactful findings of certain types of vulnerabilities in their systems or products. A financial reward can incentivize action, and may attract people who might not otherwise look for vulnerabilities.*
 
+{{< img src="bug-bounty-timeline" >}}
+
 ## TTS Bug Bounty Program Overview
 
 The TTS Bug Bounty runs on top of our [vulnerability disclosure program](https://18f.gsa.gov/vulnerability-disclosure-policy/), offering financial rewards for valid findings for a subset of our systems. Those bounties are an incentive for security researchers to spend time digging into our systems, finding problems and reporting them before a bad actor finds them and exploits them. Here’s how it works:  
@@ -62,9 +64,13 @@ We value researchers’ contributions and are proud of our program’s responsiv
 -   Researchers receive bounty 15 days from the date of submission.
 -   Valid vulnerabilities are fixed within two months.
 
+{{< img src="bug-bounty3" >}}
+
 ## Year 1
 
 As shown in the chart below, a majority of the submissions came at the onset of our public launch.
+
+{{< img src="bug-bounty2" >}}
 
 We attribute this to getting press around the launch, as well as having systems that had not yet been scrutinized by outside security researchers.
 
@@ -87,6 +93,8 @@ Description: It was found that https://idp.fr.cloud.gov is vulnerable to an open
 ## Year 3
 
 In our third year, 30% of our valid reports had a high or critical [CVSS rating](https://nvd.nist.gov/vuln-metrics/cvss), which contributed towards a justification for increasing internal staff to improve the system development life cycle.
+
+{{< img src="bug-bounty4" >}}
 
 **Bounty Highlight**
 
