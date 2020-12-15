@@ -1,6 +1,6 @@
 ---
 slug: manage-your-subscription
-title: 'title: 'Community Guidelines'
+title: 'Community Guidelines'
 type: page
 summary: 'GSA supports many communities of practice by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.'
 
