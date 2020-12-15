@@ -20,7 +20,7 @@ slug: jeremyzilar
 email: "jeremy.zilar@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Director, Digital.gov"
+bio: "As part of his four-year term with [18F](https://www.18f.gov), Jeremy served in GSA's Technology Transformation Service as Digital.gov's director from 2017 to 2020."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
