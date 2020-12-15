@@ -41,7 +41,7 @@ Note that these instructions reference a sample Listserv called _TESTLIST@listse
 ## Freedom of Information Act (FOIA)
 The Communities of Practice are hosted by digital.gov, a service of the Technology Transformation Services (TTS) within the General Services Administration (GSA). GSA is a federal agency subject to the [Freedom of Information Act](https://www.foia.gov/) and must comply with requests for records made under FOIA. As a result, all communications made on this Communities of Practice LISTSERV are subject to release under FOIA.
 
-## General Etiquette
+## Listserv Information
 
 When sending a message to the entire Listserv, consider that your message is going to hundreds or even thousands of people. Below, please find some general rules and guidelines when participating in a Digital.gov CoP LISTSERV discussion.
 
