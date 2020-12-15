@@ -37,20 +37,21 @@ The TTS Bug Bounty runs on top of our [vulnerability disclosure program](https:/
 1.  They submit to [our program](https://hackerone.com/tts)
 1.  The triage team confirms that:
   1.  The system is [in scope](https://hackerone.com/tts?type=team#scope)
+      - If we believe the vulnerability may exist in other systems, we pass that information along to the system owners to proactively find and fix
   2.  The finding is valid
   3.  What the severity rating should be, based on the [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
 1.  The report is assigned to the system owners
 1.  There may be back-and-forth for clarification, decision on whether it’s considered a security vulnerability or not, etc.
 1.  Once validated, a bounty is awarded
 1.  The system owners fix the issue
-1.  If we believe the vulnerability may exist in other systems, we pass that information along to the system owners to proactively find and fix
-1.  Successful programs receive dozens of reports per month, but on average, only about 10% of submissions turn out to be valid. All submissions need responses or else you risk alienating researchers. 
+
+Successful programs receive dozens of reports per month, but on average, only about 10% of submissions turn out to be valid. All submissions need responses or else you risk alienating researchers. 
 
 There is a Not To Exceed (NTE) bounty pool from which researchers are paid, ensuring that the cost of the program has an upper limit.
 
 ## All Time Review:
 
-On average, we receive 21 submissions per month. 18% of submissions are valid and unique vulnerabilities. The average award is $462.
+On average, we receive 21 submissions per month. 18% of submissions are valid and unique vulnerabilities, which have an average award of $462.
 
 Severity breakdown:
 
@@ -78,7 +79,7 @@ We attribute this to getting press around the launch, as well as having systems 
 
 Report: [#265528](https://hackerone.com/reports/265528), Reported: 9/2/2019, Asset: data.gov Weakness: Cross-site Scripting (XSS) - Reflected, Bounty: $300, Researcher: Dr. Jones (sp1d3rs)
 
-Description: A security researcher discovered Cross-Site scripting (XSS) issue on the data.gov site. The XSS worked only with few ‘&’ chars in certain places. These were identified by trial-and-error method. The input appeared to be correctly sanitized without it. The discovered XSS issue was site-wide and affected 80+ endpoints.
+Description: A security researcher discovered [Cross-Site Scripting (XSS)](https://owasp.org/www-community/attacks/xss/) issue on the data.gov site. The XSS worked only with few ‘&’ chars in certain places, identified by a trial-and-error method. The input appeared to be correctly sanitized without it. The discovered XSS issue was site-wide and affected 80+ endpoints.
 
 ## Year 2
 
@@ -90,7 +91,7 @@ In our second year, our rate of valid reports increased from 39% the prior year 
 
 Report: [#387007](https://hackerone.com/reports/387007), Reported: 7/26/2018, Asset: cloud.gov Weakness: Open Redirect, Bounty: $150, Researcher: Sergey Bobrov (bobrov)
 
-Description: It was found that https://idp.fr.cloud.gov is vulnerable to an open redirect due to improper validation of the value of URL path. A web application accepts a user-controlled input that specifies a link to an external site, and uses that link in a Redirect. This simplifies phishing attacks.
+Description: It was found that https://idp.fr.cloud.gov is vulnerable to an [open redirect](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html) due to improper validation of the value of URL path. A web application accepts a user-controlled input that specifies a link to an external site, and uses that link in a Redirect. This simplifies phishing attacks.
 
 ## Year 3
 
@@ -102,7 +103,7 @@ In our third year, 30% of our valid reports had a high or critical [CVSS rating]
 
 Reported: [#514224](https://hackerone.com/reports/514224), 3/23/2019, Asset: search.gov, Weakness: Server-Side Request Forgery (SSRF), Bounty: $150, Researcher: Noriaki Iwasaki (niwasaki)
 
-Description: The search.gov endpoint was vulnerable to SSRF via URL parameter. The parameter is protected but can be bypassed using LF (%0A). This may have allowed an attacker to poke on the internal network.
+Description: The search.gov endpoint was vulnerable to [SSRF](https://owasp.org/www-community/attacks/Server_Side_Request_Forgery) via a URL parameter. The parameter is protected but could be bypassed using a Line Feed character (`%0A`). This may have allowed an attacker to poke on the internal network.
 
 ### What we learned…
 
