@@ -34,7 +34,3 @@ Video Production Pros brings together passionate storytellers, artists, social g
 **Knowledge Sharing**: Our listserv will provide news about emerging video production gear, software and more. We cover everything from pre-production to post. We strive to make our videos more successful on social platforms, through analytics, using mobile tools, targeted distribution and more. Members will be able to ask questions, network and share their knowledge.
 
 **Events**: Our members will share networking events, training sessions, volunteer opportunities and more.
-
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

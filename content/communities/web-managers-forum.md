@@ -66,9 +66,3 @@ Knowledge Sharing: This listserv provides you with a platform to ask and answer 
 - [Paperwork Reduction Act Fast Track Process](https://www.digitalgov.gov/resources/paperwork-reduction-act-fast-track-process/)
 - [Plain Language Guidelines](https://plainlanguage.gov/guidelines/)
 - [U.S Web Design System](https://designsystem.digital.gov/)
-
-
-## Community Conduct
-The Communities of Practice are hosted by digital.gov, a service of the Technology Transformation Services (TTS) within the General Services Administration (GSA). GSA is a federal agency subject to the Freedom of Information Act (FOIA) and must comply with requests for records made under FOIA. As a result, all communications made on this Communities of Practice LISTSERV are subject to release under FOIA.
-
-As a community member, you must follow [Digital.gov Community Guidelines](https://digital.gov/communities/manage-your-subscription/) and abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

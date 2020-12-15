@@ -23,6 +23,3 @@ The government Customer Experience Community of Practice (CX-COP) is an interage
 ## Join
 
 Join the CX-COP listserv and community to stay on the cutting edge of government customer experience, including news, training, best practices, and technology.
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

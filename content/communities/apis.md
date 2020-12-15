@@ -50,6 +50,3 @@ The community mailing list is open to everyone, though some events will be limit
 
 - [API guides and resources for federal agencies](https://api-all-the-x.18f.gov/)
 - [US Government API mailing list](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis)
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

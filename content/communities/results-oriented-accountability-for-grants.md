@@ -55,6 +55,3 @@ As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA)
 * [Performance.gov Twitter](https://twitter.com/PerformanceGov)
 * [Performance.gov LinkedIn](https://www.linkedin.com/company/performance-gov/)
 * [CFO Council Grants](https://www.cfo.gov/grants/)
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

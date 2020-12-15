@@ -69,6 +69,3 @@ Our vision is to build, retain, and connect a more collaborative, engaged, and c
 ## Who We Are
 
 **Community Manager Kim M. Wittenberg** is a Health Scientist Administrator at the Agency for Healthcare Research and Quality (AHRQ) in the Department of Health and Human Services (HHS). After completing a President’s Management Council (PMC) Interagency Rotation in 2017, Ms. Wittenberg created, and subsequently led, the Federal Leadership and Professional Development Seminar Series CoP to share lessons learned and foster cross-agency connections, collaborations, and sharing.
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

@@ -52,6 +52,3 @@ We connect data center and cloud colleagues to share insights and knowledge on:
 We host a monthly conference call and occasional in-person events in Washington, DC.
 
 Learn more at [gsa.gov/dcoi](https://www.gsa.gov/technology/government-it-initiatives/data-center-optimization-initiative-dcoi), and email us at [dccoi@gsa.gov](mailto:dccoi@gsa.gov) if you have questions.
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

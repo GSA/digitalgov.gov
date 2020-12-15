@@ -48,6 +48,3 @@ The FTIM CoP consists of government professionals working to enhance IT spending
 Our community leverages agency knowledge to mature and streamline the Capital Planning and Investment Control, Technology Business Management, and portfolio management processes. We aim to achieve greater government-wide efficiency in the management of federal IT resources and assets.
 
 The FTIM CoP meets monthly to discuss and share best practices that improve IT cost transparency. [Learn more about TBM on CIO.gov](https://www.cio.gov/policies-and-priorities/tbm/), and email us at [FTIM-COP@gsa.gov](mailto:FTIM-COP@gsa.gov) with questions.
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

@@ -69,6 +69,3 @@ YouTube videos:
 - [Overcoming Cultural Resistance to Agile in Government](https://www.youtube.com/watch?v=yFY7QrJtWww)
 - [Agile Government 101](https://www.youtube.com/watch?v=BJ7QzG33DK0)
 - [The Innovative State – Lean (Government) Startups (Aneesh Chopra) TEDxUVA](https://www.youtube.com/watch?v=CtUrH0NH8MA)
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
