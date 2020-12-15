@@ -24,8 +24,11 @@ authors:
 slug: practical-tips-for-accessible-content-and-multilingual-websites
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: MCaMRyl6svQ
 
 ---
+
+[View the accessible slides](https://digital.gov/pdf/2020-12-03-practical-tips-for-accessible-content-and-multilingual-websites.pdf) (PDF, 2.71 MB, 37 pages)
 
 Integrating accessibility into your everyday practice ensures access for people with disabilities. 
 
