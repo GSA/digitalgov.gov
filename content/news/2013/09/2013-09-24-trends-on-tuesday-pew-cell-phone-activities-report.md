@@ -9,9 +9,10 @@ topics:
   - mobile
   - trends-on-tuesday
   - user-experience
+
 ---
 
-[{{< legacy-img src="2013/09/Pewchart.jpg" alt="Pew Research Center’s Internet & American Life Project released their report on Cell Phone Activities for 2013. This is a graph documenting mobile access to email, Internet and other digital technologies." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/Pewchart.jpg)[Pew Research Center’s Internet & American Life Project](http://www.pewinternet.org/) recently released their report on Cell Phone Activities for 2013. The report stated that 91% of American adults own a cell phone and many use their devices for more than just phone calls.
+<img src="https://s3.amazonaws.com/digitalgov/&#95;legacy-img/2013/09/Pewchart.jpg" align="right" alt="Pew Research Center’s Internet & American Life Project released their report on Cell Phone Activities for 2013. This is a graph documenting mobile access to email, Internet and other digital technologies.">[Pew Research Center’s Internet & American Life Project](http://www.pewinternet.org/) recently released their report on Cell Phone Activities for 2013. The report stated that 91% of American adults own a cell phone and many use their devices for more than just phone calls.
 
 In Pew&#8217;s recent survey, they found the most popular activities people perform on the smartphones are what you might expect; texting, accessing the web, and emailing. App downloads by phone owners have increased to 50%  &#8211; up from 22% in 2009. Many are also accessing location-based services such as directions or recommendations. Nearly half (48%) use their phones to listen to music. Also the proportion of video calling has tripled since May 2011.
   
