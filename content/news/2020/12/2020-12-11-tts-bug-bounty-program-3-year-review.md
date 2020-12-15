@@ -104,7 +104,7 @@ Reported: [#514224](https://hackerone.com/reports/514224), 3/23/2019, Asset: sea
 
 Description: The search.gov endpoint was vulnerable to SSRF via URL parameter. The parameter is protected but can be bypassed using LF (%0A). This may have allowed an attacker to poke on the internal network.
 
-### What we *learned*…
+### What we learned…
 
 **Staffing** &mdash; We started out with a rotating cohort of internal folks overseeing the program. Once the team grew and got more defined we switched to dedicated staff. This allows us to have consistent focus on the state and potential improvements to the program.
 
@@ -114,7 +114,7 @@ Description: The search.gov endpoint was vulnerable to SSRF via URL parameter. T
   
 **Effort** &mdash; It really does take a village. There tend to be false positives: about 68% of all the reports we receive are not valid. We use third-party triage as part of our program, which means that we don’t have to worry about the reports until they’ve been verified. This helps to offload distraction from our team.
 
-### How we’ve *iterated*…
+### How we’ve iterated…
 
 **Volume** &mdash; When a new system is added, there tend to be more reports up front, which then decreases to a more steady state. To mitigate that volume, we throttle the reports by starting systems out in a private bug bounty, which is only available to a small number of security researchers. (There are other ways to do this throttling—that’s just what works for us.) We also have a setting for signaling, a means of identifying hackers who have had consistently valid reports, so that we receive reports from more vetted researchers. After a time, we move systems to the public program to make it available to anyone to submit. We then increase the bounty rewards over time, to incentivize researchers to continue to investigate our systems.
 
