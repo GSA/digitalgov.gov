@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/bug-bounty3.png
+
+# Image shortcode: {{< img src="bug-bounty3" >}}
+
+date     : 2020-12-15 01:02:52 -0400
+uid      : bug-bounty3
+width    : 2124
+height   : 1226
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line chart showing more than 280 bug bounty submissions in quarter 3 of 2017. Of which, around 40 were deemed valid. Subsequent submissions and validations were significantly less, with no more than 60 each quarter."

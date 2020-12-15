@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/bug-bounty-timeline.png
+
+# Image shortcode: {{< img src="bug-bounty-timeline" >}}
+
+date     : 2020-12-15 00:15:33 -0400
+uid      : bug-bounty-timeline
+width    : 1055
+height   : 378
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Timeline showing the evolution of government bug bounty programs starting in 2016 with the Department of Defense and ending in May of 2017 with TTS launches the bug bounty program." 

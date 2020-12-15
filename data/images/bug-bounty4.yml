@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/bug-bounty4.png
+
+# Image shortcode: {{< img src="bug-bounty4" >}}
+
+date     : 2020-12-15 01:02:52 -0400
+uid      : bug-bounty4
+width    : 2124
+height   : 1226
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line chart showing an increase of bug bounty submissions to over 90 in quarter 2 of 2020."
