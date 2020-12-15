@@ -84,6 +84,8 @@ Description: A security researcher discovered Cross-Site scripting (XSS) issue o
 
 In our second year, our rate of valid reports increased from 39% the prior year to almost 52%. We’ve attributed the spike in activity to updating the scope with a new asset that was widely distributed and drew more attention to our program.
 
+{{< img src="bug-bounty5" >}}
+
 **Bounty Highlight**
 
 Report: [#387007](https://hackerone.com/reports/387007), Reported: 7/26/2018, Asset: cloud.gov Weakness: Open Redirect, Bounty: $150, Researcher: Sergey Bobrov (bobrov)
