@@ -134,9 +134,12 @@
             <div class="Community_conduct">
               <h2 id="community-conduct">Community Conduct</h2>
               {{- partial "core/community_pagefooter" . -}}
+              <br>
             </div>
-            {{- partial "core/page-data" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
-
+            <div>
+              <br/>
+              {{- partial "core/page-data" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
+             </div>
           </div>
 
         </div>
