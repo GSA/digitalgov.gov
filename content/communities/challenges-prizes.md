@@ -65,6 +65,3 @@ Members of the Challenge and Prize COP gather about four times a year to share i
 - Playlist of challenges and prizes webinars: https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC
 - Facebook: http://www.facebook.com/challengegov
 - Twitter: http://www.twitter.com/challengegov
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

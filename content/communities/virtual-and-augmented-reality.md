@@ -42,6 +42,3 @@ This community serves as a collaborative hub for the research and refinement of 
 ## What We Do
 
 Federal agencies are eager to share their ideas on how this new medium might expand and improve their services – using virtual therapy to treat PTSD, educating farmers on the installation of solar panels, or disaster management preparedness and response. To help explore and share these great ideas, we host workshops where agencies and industry specialists can brainstorm and demonstrate the new technologies.
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

@@ -32,6 +32,3 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
 The Plain Language Action and Information Network (PLAIN) Community of Practice (PL-COP) is an inter-agency group of plain language practitioners from many different federal government agencies and specialties who support the use of clear communication in government writing.
 
 PL-COP is administered by the [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/about/).
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

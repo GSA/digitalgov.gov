@@ -93,6 +93,3 @@ The group also researches outreach opportunities such as participating in traini
 - [Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future](https://www.digitalgov.gov/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/)
 - [Persona Development Case Study: NCI and Spanish Language Outreach](https://www.digitalgov.gov/2015/03/02/persona-development-case-study-nci-and-spanish-language-outreach/)
 - [More on Multilingual »](https://digital.gov/topics/multilingual/)
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

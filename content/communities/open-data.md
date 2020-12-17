@@ -37,6 +37,3 @@ To join, send an email to [listserv@listserv.gsa.gov](mailto:listserv@listserv.g
 A community listserv and working group that unites 900 open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.
 
 Monthly implementation support meetings are held the first Tuesday at the U.S. General Services Administration (GSA) for Federal employees and contractors.
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

@@ -51,6 +51,3 @@ The A/B Testing Community of Practice started with a team at the Consumer Financ
 **Community Managers:**
 
 - [Kelley Holden](mailto:kelley.holden@cfpb.gov), works at the CFPB as a Digital Analytics Program Manager on the Data Science and Analytics team. She has worked on multiple projects that include SEO strategy, A/B and RCT testing, web analysis, analytics visualizations, data science, and user behavior analysis.
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

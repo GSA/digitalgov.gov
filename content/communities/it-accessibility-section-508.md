@@ -55,6 +55,3 @@ We identify and promote best practices for implementing the [Information and Com
 - [Section508.gov](https://www.section508.gov) | [Contact Information](https://www.section508.gov/content/contact-us)
 - [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)
 - [Accessibility for Teams](https://accessibility.digital.gov)
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

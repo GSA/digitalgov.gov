@@ -58,6 +58,3 @@ Based on the Open Government Memo (M 10-06) we:
 * [M-09-12, President’s Memorandum on Transparency and Open Government – Interagency Collaboration](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_fy2009/m09-12.pdf) (1.1 MB PDF, 3 pages)
 * [M 10-06, Open Government Directive](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf) (82 kb PDF, 11 pages)
 * [GSA’s OpenGov Plan](https://www.gsa.gov/portal/category/26751)
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

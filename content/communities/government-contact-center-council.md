@@ -44,6 +44,3 @@ The membership consists of more than 275-member contact center managers and dire
 ## What We Do
 
 The G3C meets monthly to discuss and share best practices to improve citizens’ contact center experience. Our mission is to identify contact center best practices, provide educational forums, trend improvements, share ideas and be the resource for government contact centers. We discuss everything from technology, performance metrics, team member engagement and training, and channel management, to name a few topics.
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
