@@ -24,7 +24,7 @@ Note that these instructions reference a sample Listserv called _TESTLIST@listse
 
 ## Rules and Guidelines for Online Discussions
 
-— Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies.
+- Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies.
 - Understand your agency’s policy about using all government equipment.
 - Behave online in such a way that you do not bring your agency into disrepute, even if you are not officially representing your agency.
 - Do not participate in commercial communications or endorsements. No commercial communications or endorsements are permitted.
