@@ -28,10 +28,10 @@ These tricks come in several forms, such as a popup window that demands a new su
 
 **What are some common types of hostile design?** 
 
-* **Designer Myopia** occurs when we design from our own experiences, rather than solving actual problems. It also happens when designers do not consider user needs, and focus on their own preferences or motives.
-* **Attention Theft** inundates users with notifications or information trying to catch their attention. If information comes from only one website or Listserv, it’s no problem, but we often receive unsolicited messages from many sources.
-* **Coercive Friction** pushes users to make counterintuitive decisions.
-* **Guilt Friction** employs design patterns to reinforce guilt as a user retention strategy.
+* **Designer myopia** occurs when we design from our own experiences, rather than solving actual problems. It also happens when designers do not consider user needs, and focus on their own preferences or motives.
+* **Attention theft** inundates users with notifications or information trying to catch their attention. If information comes from only one website or Listserv, it’s no problem, but we often receive unsolicited messages from many sources.
+* **Coercive friction** pushes users to make counterintuitive decisions.
+* **Guilt friction** employs design patterns to reinforce guilt as a user retention strategy.
 
 Coercive and guilt friction are best explained with an example: 
 
@@ -48,7 +48,7 @@ Now, let’s get more specific.
 
 **What are some practical methods we can implement to make sure we are following the 4 Rs?** 
 
-* **Designated Dissenter**A sprint exercise where a designated team member imagines and verbalizes ways in which the product can be abused.
+* **Designated Dissenter**&mdash;A sprint exercise where a designated team member imagines and verbalizes ways in which the product can be abused.
 * **Consequence Framing**&mdash;Asking key questions, such as: Who informed the decisions? Who have we missed? This usually involves imagining the end or ideal state, and working backwards with the goal of finding a theme.
 * **Friction Auditing**&mdash;Developing entire UX research sprints around friction, deception, and mining for hostility where we don’t anticipate it.
 * **Harm Analysis**&mdash;Before launching a new feature, we can speculate potential harm, which gives us the tools to assess where our myopia lies.
