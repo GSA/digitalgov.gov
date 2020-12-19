@@ -12,7 +12,7 @@ topics:
 authors:
   - ron-bronson
 slug: deceptive-design-how-to-identify-and-combat-consequence-design
-primary_image: phishing-mouse-trap-calve-istock-thinkstock-91891104
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
