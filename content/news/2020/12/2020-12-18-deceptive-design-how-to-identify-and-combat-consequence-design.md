@@ -26,7 +26,7 @@ We all rely on design to facilitate our user experiences. So, shouldn’t design
 
 These tricks come in several forms, such as a popup window that demands a new subscription, or a spot designed to look like dirt on your phone screen, so you try to wipe it off and end up clicking a link instead. Even in the non-digital world, we can identify certain deceptive behaviors as “hostile design,” such as sleight of hand or trick questions. Designers, intentionally or unintentionally, can use psychology to mislead and trap users. 
 
-**What are some common types of hostile design?** 
+## What are some common types of hostile design? 
 
 * **Designer myopia** occurs when we design from our own experiences, rather than solving actual problems. It also happens when designers do not consider user needs, and focus on their own preferences or motives.
 * **Attention theft** inundates users with notifications or information trying to catch their attention. If information comes from only one website or Listserv, it’s no problem, but we often receive unsolicited messages from many sources.
@@ -46,7 +46,7 @@ Carl is not thinking about a haircut, but suddenly he receives an email from his
 
 Now, let’s get more specific.
 
-**What are some practical methods we can implement to make sure we are following the 4 Rs?** 
+## What are some practical methods we can implement to make sure we are following the 4 Rs? 
 
 * **Designated Dissenter**&mdash;A sprint exercise where a designated team member imagines and verbalizes ways in which the product can be abused.
 * **Consequence Framing**&mdash;Asking key questions, such as: Who informed the decisions? Who have we missed? This usually involves imagining the end or ideal state, and working backwards with the goal of finding a theme.
