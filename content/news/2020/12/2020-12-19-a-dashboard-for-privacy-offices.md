@@ -23,4 +23,5 @@ slug: a-dashboard-for-privacy-offices
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
