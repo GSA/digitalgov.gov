@@ -24,9 +24,10 @@ Note that these instructions reference a sample Listserv called _TESTLIST@listse
 
 ## Rules and Guidelines for Online Discussions
 
+- Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies.
 - Understand your agency’s policy about using all government equipment.
 - Behave online in such a way that you do not bring your agency into disrepute, even if you are not officially representing your agency.
-- Do not participate in commercial communications or endorsements.
+- Do not participate in commercial communications or endorsements. No commercial communications or endorsements are permitted.
 - Check your current agency policies on managing records. Find more information on the [National Archives Records Management Information Page](https://www.archives.gov/records-mgmt).
 - Abide by U.S. copyright laws when referencing or using others' content in any materials.
 - Follow the [Paperwork Reduction Act (PRA) Guide](https://www.opm.gov/about-us/open-government/digital-government-strategy/fitara/paperwork-reduction-act-guide.pdf) before sending out a survey or other requests for feedback, especially if your community includes members of the public (non-government).
