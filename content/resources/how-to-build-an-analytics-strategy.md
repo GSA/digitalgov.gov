@@ -25,11 +25,11 @@ weight: 1
 
 ---
 
-The Digital Analytics Program (DAP) recently partnered with Digital.gov to help set up an analytics strategy to monitor their website and overall platform performance. DAP provided a start-to-finish approach for assessing, reporting, and taking action using this strategy in a 3 part series: 
+The Digital Analytics Program (DAP) recently partnered with Digital.gov to help set up an analytics strategy to monitor their website and overall platform performance. DAP provided a start-to-finish approach for assessing, reporting, and taking action using this strategy in a 3-part series: 
 
-* Part 1: [Assessment](https://digital.gov/event/2020/08/26/dap-analytics-case-study-part-1/)
-* Part 2: [Reporting & Analysis](https://digital.gov/event/2020/09/24/dap-analytics-case-study-part-2/)
-* Part 3: [Taking Action](https://digital.gov/event/2020/10/21/analytics-case-study-part-3-action/)
+* Part 1: Assessment
+* Part 2: Reporting & Analysis
+* Part 3: Taking Action
 
 This review provides some highlighted steps from the series, which you can follow to build an analytics strategy and immediately extract value in your government analytics reporting role.
 
