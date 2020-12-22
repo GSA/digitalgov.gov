@@ -25,9 +25,9 @@ Many experts now recommend even shorter page titles. Below are a couple of artic
 
 In addition to the suggestions offered in our [previous article on Achieving Good SEO]({{< ref "2013-05-31-four-steps-to-achieve-good-seo.md" >}}), here are a few specific tips for page titles: 
   
-1. Place page titles in a <code>&lt;title&gt;</code> tag within the <code>&lt;head&gt;</code>
+1. Place page titles in a <code>&lt;title&gt;</code> tag within the <code>&lt;head&gt;</code>.
 2. There’s no magic number, but around 55 characters or less is good.
-3. There’s no set syntax, but &#8220;Primary Keyword &#8211; Secondary Keyword | Brand Name&#8221; is good.</p>
+3. There’s no set syntax, but &#8220;Primary Keyword &#8211; Secondary Keyword | Brand Name&#8221; is good.
 
 Below are a few articles on optimizing title tags for search engines:
 
