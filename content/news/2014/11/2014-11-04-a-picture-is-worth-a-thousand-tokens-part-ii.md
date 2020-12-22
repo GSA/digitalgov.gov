@@ -102,7 +102,7 @@ This populates the bigram field for each index with whatever natural language fi
         ],
         "highlight": {
           "pre_tag": "<strong>",
-          "post_tag": "<\/strong>"
+          "post_tag": "</strong>"
         }
       }
     }
