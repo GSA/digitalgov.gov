@@ -1,10 +1,8 @@
 ---
 date: 2020-12-22 14:01:00 -0500
 title: How to Build an Analytics Strategy
-deck: A case study using Digital.gov as an example of how to assess, report, and
-  take action using web analytics as part of an analytics strategy.
-summary: A case study using Digital.gov as an example of how to assess, report,
-  and take action using web analytics as part of an analytics strategy.
+deck: "A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy."
+summary: "A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy."
 # See all topics at https://digital.gov/topics
 topics:
   - metrics
