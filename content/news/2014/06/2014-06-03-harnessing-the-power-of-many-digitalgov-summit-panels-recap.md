@@ -54,5 +54,5 @@ What can we do improve the quality of inter-agency work? Grama thinks it would b
 
 Agencies can also strive to think beyond their silos, since ultimately we work for the taxpayer. If you do work for another agency, “the taxpayer benefits even if your own agency doesn&#8217;t see the direct benefit,” said Pulsifer.
 
-What has been your experience with inter-agency work?_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community]({{<ref "/authors/alison-lemon">}}) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._
+What has been your experience with inter-agency work?_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community](FIND?s=alison+lemon.md) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._
 _Thanks to our special Summit blogger, Alison, who took up the Open Opportunities challenge. You can [find more opportunities to participate](http://gsablogs.gsa.gov/dsic/category/open-opportunities/)._
