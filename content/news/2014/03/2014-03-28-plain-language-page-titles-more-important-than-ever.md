@@ -30,17 +30,17 @@ In addition to the suggestions offered in our [previous article on Achieving Goo
 </p>
 
 <p>
-      <a href="http://searchengineland.com/nine-best-practices-for-optimized-title-tags-111979">Nine Best Practices For Optimized < title > Tags</a>
+    <a href="http://searchengineland.com/nine-best-practices-for-optimized-title-tags-111979">Nine Best Practices For Optimized title Tags</a>
 </p>
 
 <p>
-      <a href="http://moz.com/learn/seo/title-tag">Title Tag</a>
+    <a href="http://moz.com/learn/seo/title-tag">Title Tag</a>
 </p>
 
 <p>
-      <a href="http://www.w3.org/QA/Tips/good-titles">Title: the most important element of a quality Web page</a>
+    <a href="http://www.w3.org/QA/Tips/good-titles">Title: the most important element of a quality Web page</a>
 </p>
 
 <p>
-          <em>If you’re interested in learning more about search, register for our Search Is the New Big Data (in-person training) on April 10.</em>
+      <em>If you’re interested in learning more about search, register for our Search Is the New Big Data (in-person training) on April 10.</em>
 </p>
