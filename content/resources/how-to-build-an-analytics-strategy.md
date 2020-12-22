@@ -41,7 +41,7 @@ Of note, we used both the DAP web analytics tool and a web analytics account tha
 
 We connected the dots between an organization's website strategy and how this cascades through the reporting experience. We illustrated how your strategy serves as the linchpin and foundation of website reporting. If you don't do the hard, up-front work of defining your strategy, you'll never be able to set up goals and glean insights from your data. 
 
-**Key Steps and Highlights** 
+**Key Steps and Highlights**
 
 * **Define your analytics strategy**&mdash;[mission, goals and KPIs](https://youtu.be/H0YMQe4rZug?t=511)—before you pull reports. There should be a logical connection between each of these items to keep you focused on your mission.
 * [**Assess the different data sources** and tracking methods](https://youtu.be/H0YMQe4rZug?t=991) at your disposal for reporting. Understanding whether you have a DAP account, an independently-managed account, both account types, or other metric tools implemented is key in figuring out next steps in tracking the metrics that matter most, and how you'll be able to define your KPIs. 
@@ -53,7 +53,7 @@ We connected the dots between an organization's website strategy and how this ca
 
 In the second part, we demonstrated how to pull reporting using Digital.gov data in both the DAP account and their independently-managed account. You must know your website mission, goals and KPIs, and know how to find the data to assess the performance of your KPIs in both DAP or an independently managed account. 
 
-**Key Steps & Highlights** 
+**Key Steps & Highlights**
 
 * [**Examine the differences**](https://youtu.be/u7LvthwLARU?t=309) between DAP and your independently-managed web analytics account. For example, you have the ability to analyze and [configure goals in your independently-managed account](https://youtu.be/u7LvthwLARU?t=675). 
 * **Assess your metrics toolset**. Beyond website data, you might have tools that help you track certain goals better or have more connection to your end goals. Understanding the varied tools at your disposal is key in learning where you might need to pull your data. We assed some of [Digital.gov's current toolset](https://youtu.be/u7LvthwLARU?t=635) as a starting point. 
@@ -67,7 +67,7 @@ In the second part, we demonstrated how to pull reporting using Digital.gov data
 
 We addressed how to take action using the data and insights from Part 2 of this series. We used our real world example from Digital.gov and continued to illustrate how to begin thinking about taking action, using your insights from the data.
 
-**Key Steps & Highlights** 
+**Key Steps & Highlights**
 
 * [**Consider the 4-step framework**](https://youtu.be/lpf6rA1OzzI?t=367) for taking action on your metrics. This framework provides a quick guide on the process for establishing and taking action on your metrics. [Here is a quick example](https://youtu.be/lpf6rA1OzzI?t=451) of how we followed this framework to help Digital.gov.
 * **Use the data to unlock what might be driving conversation rates**. For example, Digital.gov looked at the [sites driving people to join their communities](https://youtu.be/lpf6rA1OzzI?t=721).
