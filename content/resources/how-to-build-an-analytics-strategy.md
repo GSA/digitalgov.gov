@@ -1,8 +1,13 @@
 ---
+slug: how-to-build-an-analytics-strategy
 date: 2020-12-22 14:01:00 -0500
-title: How to Build an Analytics Strategy
+title: "How to Build an Analytics Strategy"
 deck: "A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy."
 summary: "A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy."
+# See all authors at https://digital.gov/authors
+authors:
+  - tlowden
+  - freddie-blicher
 # See all topics at https://digital.gov/topics
 topics:
   - metrics
@@ -12,11 +17,6 @@ topics:
   - dap
   - project-management
   - digital-analytics-program
-# See all authors at https://digital.gov/authors
-authors:
-  - tlowden
-  - freddie-blicher
-slug: how-to-build-an-analytics-strategy
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
