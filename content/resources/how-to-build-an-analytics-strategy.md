@@ -1,9 +1,9 @@
 ---
 slug: how-to-build-an-analytics-strategy
 date: 2020-12-22 14:01:00 -0500
-title: "How to Build an Analytics Strategy"
-deck: "A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy."
-summary: "A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy."
+title: How to Build an Analytics Strategy
+deck: A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy.
+summary: A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy.
 # See all authors at https://digital.gov/authors
 authors:
   - tlowden
@@ -25,7 +25,7 @@ weight: 1
 
 ---
 
-The Digital Analytics Program (DAP) recently partnered with Digital.gov to help set up an analytics strategy to monitor their website and overall platform performance. DAP provided a start-to-finish approach for assessing, reporting, and taking action using this strategy in a 3-part series: 
+The [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) recently partnered with Digital.gov to help set up an analytics strategy to monitor their website and overall platform performance. DAP provided a start-to-finish approach for assessing, reporting, and taking action using this strategy in a 3-part series: 
 
 * Part 1: Assessment
 * Part 2: Reporting & Analysis
