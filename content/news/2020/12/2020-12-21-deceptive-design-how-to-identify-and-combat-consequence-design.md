@@ -2,7 +2,7 @@
 # Originally published at the following URL
 source_url: https://digital.gov/resources/deceptive-design-how-to-identify-and-combat-consequence-design/
 source: digitalgov
-date: 2020-12-21 09:08:00 -0500
+date: 2020-12-01 09:08:00 -0500
 kicker: Design
 title: "Deceptive Design: How to Identify and Combat Consequence Design"
 deck: "**Deceptive Design: How to Identify and Combat Consequence
