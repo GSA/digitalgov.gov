@@ -19,6 +19,7 @@ The use of social media may create Federal records that must be captured and man
 
 ## Related Links
 
+* NARA blog post on [Managing Official Email and Social Media Accounts during a presidential transition](https://records-express.blogs.archives.gov/2020/10/21/transition-post-3-managing-official-email-and-social-media-accounts/) (October 10, 2020)
 * [NARA guidance for implementing Section 207(e) of the E-Gov Act](http://www.archives.gov/records-mgmt/bulletins/2006/2006-02.html)
 * [NARA guidance on managing web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
 * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (1.2 MB, 18 pages, November 2016)
