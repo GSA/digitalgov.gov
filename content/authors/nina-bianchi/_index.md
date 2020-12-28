@@ -12,19 +12,19 @@ last_name: "Bianchi"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: nina.bianchi@nih.gov
+email: Nina.Bianchi@fda.hhs.gov
 
 # Bio — keep it under 50 words
-bio: "Currently, as Director of Workforce Solutions with the IT Modernization Centers of Excellence (CoE), Nina Bianchi is leading cross-agency workforce innovation to improve service outcomes for citizen customers. From clinical trials and data supply chains to artificial intelligence and management operations, she is ushering in the future of federal leadership by design. "
+bio: "Nina Bianchi formerly served as the Director of Workforce Solutions at the [Centers of Excellence](https://coe.gsa.gov/) (CoE), building teams and creating a community of more effective problem-solvers to drive modern organizations where great people want to work. To foster a 21st-century organizational culture of creative problem-solving and innovation operations for the future of work, Bianchi builds partnerships across siloed business units to enable holistic digital transformation and leads strategic operational innovation to inspire and cross-train diverse teams."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. General Services Administration"
+agency_full_name: "U.S. Food and Drug Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: "GSA"
+agency: "FDA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: "Washington, D.C."
@@ -40,10 +40,10 @@ profile_photo: "github"
 twitter: ""
 facebook: ""
 instagram: ""
-linkedin: ""
+linkedin: "bianchininafuture"
 youtube: ""
 
+# For more information on managing your author page,
+# see https://workflow.digital.gov/authors
 
-
-# Make it better ♥
 ---
