@@ -2,8 +2,8 @@
 # Originally published at the following URL
 source_url: https://digital.gov/guides/dap/become-a-dap-certified-analyst/
 source: dap
-date: 2020-12-28 17:31:00 -0500
-kicker: Digital Analytics Program
+date: 2020-12-28 17:00:00 -0500
+kicker: 
 title: Become a DAP Certified Analyst
 deck: "**Become a DAP Certified Analyst**&mdash;The Digital Analytics Program
   (DAP) now offers the opportunity to become a DAP Certified Analyst.
@@ -22,10 +22,11 @@ topics:
   - digital-analytics-program
 # See all authors at https://digital.gov/authors
 authors:
-  - aaron-snow
+  - tlowden
 slug: become-a-dap-certified-analyst
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
