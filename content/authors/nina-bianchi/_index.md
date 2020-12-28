@@ -43,6 +43,7 @@ instagram: ""
 linkedin: "bianchininafuture"
 youtube: ""
 
-# Make it better ♥
+# For more information on managing your author page,
+# see https://workflow.digital.gov/authors
 
 ---
