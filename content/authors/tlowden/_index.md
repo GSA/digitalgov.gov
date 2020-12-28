@@ -20,13 +20,13 @@ slug: tlowden
 email: "timothy.lowden@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Tim Lowden is Program Manager for the Digital Analytics Program (DAP) in the Technology Transformation Service at GSA. He holds a B.A. in English from SUNY Buffalo, an M.A. in Global Communication from the George Washington University, and is a Returned Peace Corps Volunteer who served in Morocco."
+bio: "Tim Lowden is Program Manager for the [Digital Analytics Program](https://digital.gov/services/dap) (DAP) in the [Technology Transformation Services](https://www.gsa.gov/tts/) (TTS) at GSA. He holds a B.A. in English from SUNY Buffalo, an M.A. in Global Communication from the George Washington University, and is a Returned Peace Corps Volunteer who served in Morocco."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "General Services Administration"
+agency_full_name: "U.S. General Services Administration"
 
 # Agency Acronym [e.g., GSA]
 agency: "GSA"
