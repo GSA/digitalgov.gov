@@ -24,6 +24,7 @@ topics:
   - us-environmental-protection-agency
   - us-food-and-drug-administration
   - united-states-census-bureau
+
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}} 
@@ -42,17 +43,20 @@ One of the agencies that is used to supplying information is the **Department of
 
 **Denice Shaw**, Associate Chief Innovation Officer, Office of Research and Development, **Environmental Protection Agency**, knew the problem of nutrient pollution needed an unconventional solution. Many agencies needed the data, and although sensors existed to measure the problem, it was expensive to do so. However, by pulling together multiple stakeholders, including other agencies and academia they were able to lower the cost.
 
-### Top-down approach vs. a bottom-up approach
+## Top-down approach vs. a bottom-up approach
 
 According to Parcell, both approaches can work. When you use a bottom-up approach, “if you can find the things people are interested, you can get more people involved.”
 
 Grama says “the top-down approach is familiar. The top might not know about the details, they are more interested in the end product.” She also sees a lot of Web and social media folks using a bottom-up approach to figuring things out. The challenge is to articulate why it&#8217;s important to top management.
 
-### Improving inter-agency work
+## Improving inter-agency work
 
 What can we do improve the quality of inter-agency work? Grama thinks it would be beneficial for government workers to carve out time specifically to think about innovation.
 
 Agencies can also strive to think beyond their silos, since ultimately we work for the taxpayer. If you do work for another agency, “the taxpayer benefits even if your own agency doesn&#8217;t see the direct benefit,” said Pulsifer.
 
-What has been your experience with inter-agency work?_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community](FIND?s=alison+lemon.md) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._
-_Thanks to our special Summit blogger, Alison, who took up the Open Opportunities challenge. You can [find more opportunities to participate](http://gsablogs.gsa.gov/dsic/category/open-opportunities/)._
+What has been your experience with inter-agency work?
+
+_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community]({{<ref "/authors/alison-lemon">}}) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._ 
+
+_Thanks to our special Summit blogger, Alison, who took up the Open Opportunities challenge. You can [find more opportunities to participate](http://gsablogs.gsa.gov/dsic/category/open-opportunities/)._ 

@@ -19,9 +19,10 @@ topics:
   - OSTP
   - recaps
   - white-house-office-of-science-and-technology-policy
+
 ---
 
-{{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="Bplanet / iStock / Thinkstock" >}} 
 
 We’ve had an excellent year of training and community events for the federal challenge and prize community, so for the month of December DigitalGov University has taken a look at the events we’ve hosted this year and rounded them up in line with this month&#8217;s [Crowdsourcing theme]({{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview").
 
@@ -47,4 +48,4 @@ You may also be interested in watching [Why Your Challenge & Prize Competition N
 
 If you are thinking about launching a video competition then you may be interested in watching [Running a Successful Video Challenge](https://www.youtube.com/watch?v=kaK90anXf7w&index=7&list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC). The presenter for this event, **Jason Crusan**, Director CoECI NASA, presents a case study of how NASA has used professional crowdsourcing for video creation. **Tammi Marcoullier**, Challenge.gov Program Manager, reviews getting from A to B, or how to decide what kind of video challenge you want to execute by examining your goals.
 
-Finally, you can take a look at the [summary of our event on Design Thinking](http://youtu.be/oLAtcfGCcdc?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) and how this workshop helped folks working on challenge and prize competitions think through the design and execution of their challenge. Enjoy! For more events around challenge and prize competitions check out our [Events Calendar]({{< ref "/events" >}}. For questions about Challenge.gov or the [Challenge & Prize Community of Practice]({{< ref "challenges-prizes.md" >}} "Challenges & Prizes Community") email <Challenge@gsa.gov>.
+Finally, you can take a look at the [summary of our event on Design Thinking](http://youtu.be/oLAtcfGCcdc?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) and how this workshop helped folks working on challenge and prize competitions think through the design and execution of their challenge. Enjoy! For more events around challenge and prize competitions check out our [Events Calendar]({{< ref "/events" >}}). For questions about Challenge.gov or the [Challenge & Prize Community of Practice]({{< ref "challenges-prizes.md" >}} "Challenges & Prizes Community") email <Challenge@gsa.gov>. 
