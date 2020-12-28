@@ -24,8 +24,8 @@ Are you interested in rebalancing grants compliance efforts with a focus on resu
 
 If so, join our community!
 
- - Federal members: to join, use your **.gov** or **.mil** email address to [email grantsfed-subscribe-request@listserv.gsa.gov](mailto:grantsfed-subscribe-request@listserv.gsa.gov?subject=Federal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
- - Non-federal members: to join, [email grantscommunity-subscribe-request@listserv.gsa.gov](mailto:grantscommunity-subscribe-request@listserv.gsa.gov?subject=Non%2DFederal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
+- Federal members: to join, use your **.gov** or **.mil** email address to [email grantsfed-subscribe-request@listserv.gsa.gov](mailto:grantsfed-subscribe-request@listserv.gsa.gov?subject=Federal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
+- Non-federal members: to join, [email grantscommunity-subscribe-request@listserv.gsa.gov](mailto:grantscommunity-subscribe-request@listserv.gsa.gov?subject=Non%2DFederal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
 
 ## Who we are
 
@@ -55,3 +55,6 @@ As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA)
 * [Performance.gov Twitter](https://twitter.com/PerformanceGov)
 * [Performance.gov LinkedIn](https://www.linkedin.com/company/performance-gov/)
 * [CFO Council Grants](https://www.cfo.gov/grants/)
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

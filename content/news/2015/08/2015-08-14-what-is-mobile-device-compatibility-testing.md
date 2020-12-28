@@ -15,7 +15,7 @@ topics:
   - native-app
   - native-apps
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 

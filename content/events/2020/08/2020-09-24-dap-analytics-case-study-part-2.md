@@ -20,7 +20,7 @@ end_date: 2020-09-24 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - metrics
-  - ux
+  - user-experience
   - analytics
   - dap
   - digital-analytics-program
@@ -30,11 +30,11 @@ authors:
   - tlowden
   - freddie-blicher
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # YouTube ID
-youtube_id:
+youtube_id: u7LvthwLARU
 
 # Make it better ♥
 

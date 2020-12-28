@@ -1,6 +1,6 @@
 {{ define "content" }}
 
-<main role="main">
+<main role="main" id="main-content">
 
   <div class="grid-container grid-container-desktop">
     <div class="grid-row tablet-lg:grid-gap-4">
@@ -36,7 +36,7 @@
         {{ range $i, $e := $communities }}
           <div class="grid-col-12 tablet:grid-col-6">
 
-            <article class="promo promo-card" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+            <article class="promo promo-card" data-edit-this="{{- .Path -}}">
               <div class="grid-row tablet-lg:grid-gap-4">
                 <div class="grid-col-12">
                   <h4><a href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">{{- $e.Title | markdownify -}}</a></h4>
@@ -66,7 +66,7 @@
 
         </div>
         <div class="grid-col-12 tablet:grid-col-4">
-          <p><strong>For more information on Communities</strong>, or to propose a new inter-agency group, please send an email to <a href="mailto:digitalgov@gsa.gov?subject=Communities">digitalgov@gsa.gov</a>.</p>
+          <p><strong>For more information on Communities</strong>, or to propose a new inter-agency group, please send an email to <a href="mailto:digitalgovu@gsa.gov?subject=Communities">digitalgovu@gsa.gov</a>.</p>
         </div>
       </div>
     </div>

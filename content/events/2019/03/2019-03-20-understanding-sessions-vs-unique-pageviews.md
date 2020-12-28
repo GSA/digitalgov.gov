@@ -1,28 +1,40 @@
 ---
+# View this page at https://digital.gov/event/2019/03/dap-learning-series-understanding-when-use
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: understanding-sessions-vs-unique-pageviews
-title: 'DAP Learning Series: Understanding When to Use Sessions vs&#46; Unique Pageviews'
-deck: 'Understanding When to Use Sessions vs&#46; Unique Pageviews'
-summary: 'In this webinar, Freddie Blicher, an analyst for the Digial Analytics Program, will discuss how to think about sessions and unique pageviews in reporting and content analysis&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-03-20 14:00:00 -0500
-end_date: 2019-03-20 15:00:00 -0500
-event_organizer: DigitalGov University
-host: DAP
+title: "DAP Learning Series: Understanding When to Use Sessions vs. Unique Pageviews"
+deck: "Understanding When to Use Sessions vs. Unique Pageviews"
+summary: "In this webinar, Freddie Blicher, an analyst for the Digial Analytics Program, will discuss how to think about sessions and unique pageviews in reporting and content analysis."
+host: "DAP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/understanding-sessions-vs-unique-pageviews-registration-58648809167
-youtube_id: uVvP6qeaZPY
+captions: 
 
-topics:
-  - metrics
+# start date
+date: 2019-03-20 15:00:00 -0500
+
+# end date
+end_date: 2019-03-20 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - a-b-testing
+  - metrics
   - analytics
   - cfpb
   - consumer-financial-protection-bureau
   - dap
   - digital-analytics-program
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - freddie-blicher
+  - tlowden
+
+# YouTube ID
+youtube_id: uVvP6qeaZPY
+
+# Make it better ♥
 
 ---
 _[View the slides from this presentation](https://digital.gov/pdf/sessions-unique-page-views.pdf)._

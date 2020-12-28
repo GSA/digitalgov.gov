@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - monthly-theme
-  - ux
+  - user-experience
   - accessibility
   - content-strategy
   - mobile

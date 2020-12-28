@@ -1,19 +1,37 @@
 ---
+# View this page at https://digital.gov/event/2019/04/indexing-with-searchgov
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: indexing-with-searchgov
-title: 'Indexing with Search&#46;gov'
-deck: 'Come take a walk through the Search&#46;gov indexing process from start to finish'
-summary: 'Come take a walk through the Search&#46;gov indexing process from start to finish&#46;'
-featured_image:
-  uid: searchdotgovlogo
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-04-25 13:00:00 -0500
-end_date: 2019-04-25 14:00:00 -0500
-event_organizer: DigitalGov University
-host: Search.gov
+title: "Indexing with Search.gov"
+deck: "Come take a walk through the Search.gov indexing process from start to finish"
+summary: "Come take a walk through the Search.gov indexing process from start to finish."
+host: "Search.gov"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/indexing-with-searchgov-registration-60430277587
+captions: 
+
+# start date
+date: 2019-04-25 14:00:00 -0500
+
+# end date
+end_date: 2019-04-25 15:00:00 -0500
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dmccleskey
+
+# YouTube ID
 youtube_id: zxyJVrxWVmg
+
+# Primary Image (for social media)
+primary_image: "searchdotgovlogo"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 
 ---
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4009164&CustomerID=321)_

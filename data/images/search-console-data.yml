@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/search-console-data.png
+
+# Image shortcode: {{< img src="search-console-data" >}}
+
+date     : 2020-06-08 08:34:16 -0400
+uid      : search-console-data
+width    : 674
+height   : 754
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Data from the USA.gov Search Console account showing clicks and impressions over the past week" 

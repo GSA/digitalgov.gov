@@ -1,31 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2018/09/a-conversation-with-evan-papp-power
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: a-conversation-with-evan-papp
-title: 'A Conversation with Evan Papp of Power Africa'
-summary: 'Evan Papp will talk about a video and story he produced while traveling internationally in Africa.'
-featured_image:
-  uid: power-africa-evan-papp
-  alt: ''
-event_type:
-  - youtube-live
-topics:
+title: "A Conversation with Evan Papp of Power Africa"
+deck: ""
+summary: "Evan Papp will talk about a video and story he produced while traveling internationally in Africa."
+host: "Video Community"
+event_organizer: "DigitalGov University"
+registration_url: https://www.eventbrite.com/e/a-conversation-with-evan-papp-of-power-africa-registration-49902616068
+captions: 
+
+# start date
+date: 2018-09-27 13:00:00 -0500
+
+# end date
+end_date: 2018-09-27 14:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - audio-video
   - video
-date: 2018-09-27 12:00:00 -0500
-end_date: 2018-09-27 13:00:00 -0500
-event_organizer: DigitalGov University
-host: Video Community
-registration_url: https://www.eventbrite.com/e/a-conversation-with-evan-papp-of-power-africa-registration-49902616068
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - bryce-spivey
+  - evan-matthew-papp
+
+# YouTube ID
 youtube_id: BQlgGotFUlQ
-categories:
-  - content
-  - video
-tag:
-  - video
-  - video-production-pros-community
-  - cfpb
-  - consumer-financial-protection-bureau
-  - usaid
-  - us-agency-for-international-development
+
+# Primary Image (for social media)
+primary_image: "power-africa-evan-papp"
+
+# Make it better ♥
 
 ---
 

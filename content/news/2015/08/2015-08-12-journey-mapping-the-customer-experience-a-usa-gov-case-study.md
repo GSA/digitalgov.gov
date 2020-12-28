@@ -7,7 +7,7 @@ authors:
   - mary-ann-monroe
   - michelle-chronister
 topics:
-  - ux
+  - user-experience
   - analytics
   - cx
   - government-contact-centers

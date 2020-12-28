@@ -19,22 +19,24 @@ end_date: 2020-03-03 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - design
-  - user-experience
   - research
+  - user-experience
   - user-research
 
 # see all authors at https://digital.gov/authors
 authors: 
-  - jean-fox
-
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+  - amy-ashida
+  - matt-dobson
 
 # YouTube ID
 youtube_id: fHTQcDNuXR8
 
-# Make it better ♥
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
+# Make it better ♥
 ---
 
 At the end of the day, we aren’t just here to make technology work—we’re here to serve people. This is especially true when working on systems like healthcare and financial assistance programs that directly, and often unproportionally, impact underrepresented and vulnerable people.

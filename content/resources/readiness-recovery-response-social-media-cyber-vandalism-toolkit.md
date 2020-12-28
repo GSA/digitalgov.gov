@@ -18,7 +18,6 @@ Cyber-vandalism presents a serious challenge to online-based communication tools
 
 This document provides guidance, resources, and security practices that prepare users to respond to cyber-hijacking, make informed choices, and enact future policy.
 
-
 ## Readiness: Phase 1
 
 Cyber-vandalism occurs when an outside party, regardless of identity or motive, takes control of an agency communication channel and misdirects it. Incidents may contain information misleading to the public or threatening to an agent of the United States. Agencies should plan and train prior to an incident, and prepare approved processes and material for the recovery and response to cyber-vandalism.
@@ -105,17 +104,17 @@ This type of authentication verifies a user attempting to access a device or sys
 
 **Live training:** [Cybersecurity Online Learning (COL)](https://colcqpub1.connectsolutions.com/content/connect/c1/7/en/events/catalog.html) program supplements mandatory FISMA security role-based training by offering in-demand cybersecurity workshops. The Information Assurance Branch, United States Department of State, offers monthly social media security online courses for free for anyone with a “.mil” or “.gov” email address, regardless if the applicant is an FTE, military, or contractor.
 
-  * [Department of Defense Social Media Security/Privacy Education & Training](http://www.defense.gov/socialmedia/education-and-training.aspx/)
-  * [Consumer.ftc.gov/scam-alerts](https://consumer.ftc.gov/scam-alerts)
-  * [OnGuardOnline.gov](https://onguardonline.gov/)
-  * [National Cyber Awareness System](https://www.us-cert.gov/ncas)
-  * [Antiphishing.org](https://antiphishing.org/)
-  * Webinar: [Operations Security (OPSEC) & Social Media: Balancing Security, Secrecy, & Transparency](https://www.youtube.com/watch?v=aa7BKJ6sk8g)
-  * Webinar: [How to Recover from a Social Media Crisis](https://www.youtube.com/watch?v=K0yy3wviTvM)
-  * Webinar: [How Government Can Prepare for and Respond to Social Media Hacks](https://www.youtube.com/watch?v=tesgduqeyjI)
-  * Post: [Beware the Cyber Security House of Horrors]({{< ref "2014-10-30-cyber-house-of-horrors.md" >}})
-  * Post: [Twitter&#8217;s Two Step Verification Process]({{< ref "2013-05-31-twitters-two-step-verification-process.md" >}})
-  * Post: [Government Must Respond Rapidly to Social Media Hacking]({{< ref "2013-04-25-government-must-respond-rapidly-to-social-media-hacking.md" >}})
+* [Department of Defense Social Media Security/Privacy Education & Training](http://www.defense.gov/socialmedia/education-and-training.aspx/)
+* [Consumer.ftc.gov/scam-alerts](https://consumer.ftc.gov/scam-alerts)
+* [OnGuardOnline.gov](https://onguardonline.gov/)
+* [National Cyber Awareness System](https://www.us-cert.gov/ncas)
+* [Antiphishing.org](https://antiphishing.org/)
+* Webinar: [Operations Security (OPSEC) & Social Media: Balancing Security, Secrecy, & Transparency](https://www.youtube.com/watch?v=aa7BKJ6sk8g)
+* Webinar: [How to Recover from a Social Media Crisis](https://www.youtube.com/watch?v=K0yy3wviTvM)
+* Webinar: [How Government Can Prepare for and Respond to Social Media Hacks](https://www.youtube.com/watch?v=tesgduqeyjI)
+* Post: [Beware the Cyber Security House of Horrors]({{< ref "2014-10-30-cyber-house-of-horrors.md" >}})
+* Post: [Twitter&#8217;s Two Step Verification Process]({{< ref "2013-05-31-twitters-two-step-verification-process.md" >}})
+* Post: [Government Must Respond Rapidly to Social Media Hacking]({{< ref "2013-04-25-government-must-respond-rapidly-to-social-media-hacking.md" >}})
 
 ## Recovery: Phase 2
 
@@ -132,7 +131,7 @@ Alerts of suspicious activity on social media can come from anywhere, including 
   3. **LinkedIn:** [Respond to and Report Various Issues](https://help.linkedin.com/app/safety/answers/detail/a_id/146); Email: <LCSHelp@linkedin.com>; Email: <mcirrito@linkedin.com>;
   4. **Instagram:** [Online form for Instagram](https://help.instagram.com/368191326593075); Email: <government@FB.com>;
   5. **Vine:** [Online form for Vine](https://support.twitter.com/forms/vine); Email: <Gov@Twitter.com>;
-  6. **Hootsuite:** Email: <Support@hootsuite.com>; Email: <sajji.hussein@hootsuite.com>; 
+  6. **Hootsuite:** Email: <Support@hootsuite.com>; Email: <sajji.hussein@hootsuite.com>;
 
 ### 2. Audit your social media inventory
 
@@ -152,7 +151,6 @@ Once securing your other accounts, release pre-approved initial messages alertin
   3. Stop all pre-scheduled messages.
   4. Restore normal settings and features.
 
-
 ## Response: Phase 3
 
 Agencies must not only prepare for and recover social media accounts after a cyber-vandalism incident, they should also quickly and effectively respond to their stakeholders and audiences as soon as possible using social media in order to maintain trust in digital services. Initial responses to the cyber-security stakeholder team and the public should be within minutes of recovering control of your accounts.
@@ -171,17 +169,16 @@ Agencies must not only prepare for and recover social media accounts after a cyb
 
 ### 3. Conduct a review of lessons learned
 
-  * What type of response worked well?
-  * Why did this work so well?
-  * What did not work?
-  * What unforeseen events occurred?
-  * What changes will lead to a better response?
+* What type of response worked well?
+* Why did this work so well?
+* What did not work?
+* What unforeseen events occurred?
+* What changes will lead to a better response?
 
 ### 4. Apply data and analysis of outcomes to improving your program
 
-  * Develop after-action report.
-  * Ensure future relevance with accurate information.
-  * Include lessons learned and best practices.
-
+* Develop after-action report.
+* Ensure future relevance with accurate information.
+* Include lessons learned and best practices.
 
 {{< note >}}**This resource is a &#8220;living document&#8221**; designed for continued contribution and expansion &#8212; if you have input or suggestions, please suggest an edit or email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).{{< /note >}}

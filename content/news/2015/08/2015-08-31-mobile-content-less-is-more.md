@@ -21,7 +21,7 @@ topics:
   - transportation-security-administration
   - TSA
   - user-experience
-  - ux
+  
 ---
 
 With 14 test cycles under our belt, the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) has heard one recurring theme from our testers—&#8221;there&#8217;s too much information!&#8221;

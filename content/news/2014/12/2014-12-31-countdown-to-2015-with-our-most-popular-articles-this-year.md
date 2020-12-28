@@ -13,7 +13,7 @@ topics:
   - metrics
   - mobile
   - social-media
-  - ux
+  - user-experience
 ---
 
 {{< legacy-img src="2014/12/600-x-400-New-Year-Clock-Ferdiperdozniy-iStock-Thinkstock-519748391.jpg" alt="2015 New Year countdown clock" caption="" >}} 

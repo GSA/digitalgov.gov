@@ -1,0 +1,12 @@
+#touchpoints_feedback{
+	@include u-padding('205');
+	@include u-bg('gray-warm-5');
+	p{
+		@include u-text('center');
+		max-width: 100%;
+	}
+	label{
+		display: block;
+		@include u-text('center');
+	}
+}

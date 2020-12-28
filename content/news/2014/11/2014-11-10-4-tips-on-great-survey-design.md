@@ -8,12 +8,11 @@ authors:
 topics:
   - monthly-theme
   - user-testing-and-research
-  - ux
   - customer-satisfaction
   - digitalgov-user-experience-program
   - usability
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2014/10/600-x-480-survey-bathroom-sign.jpg" alt="600-x-480-survey-bathroom-sign" >}}

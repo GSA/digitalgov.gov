@@ -8,10 +8,9 @@ authors:
 topics:
   - monthly-theme
   - user-testing-and-research
-  - ux
   - digitalgov-user-experience-program
   - user-experience
-  - ux
+  
 ---
 
 There are many buzzwords thrown around in the digital government universe, but the most impactful ideas are rooted in one action: engagement. Whether it is a tweet, a mobile app, or a community of practitioners, every digital program or service requires interaction between an organization and its customer.
@@ -27,7 +26,7 @@ There are also a multitude of ways that you can engage with #UXgov through the D
   * Join the [UX community of practice]({{< ref "communities/user-experience.md" >}}) to exchange ideas, training opportunities and more
   * [Volunteer](https://docs.google.com/a/gsa.gov/forms/d/177jjJXp2nvBaFOBWnVIDV5UFWGIMfBibMMNvYZdklpQ/viewform) to be a usability tester
   * Launch your own UX initiative with our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}})
-  * Read our [UX blog posts]({{< ref "/topics/ux" >}}) on everything under the sun
+  * Read our [UX blog posts]({{< ref "/topics/user-experience" >}}) on everything under the sun
   * Submit a [Usability Case Study]({{< ref "government-usability-case-studies.md" >}}) about the great work you&#8217;ve done
 
 Remember—whatever you build, it always come down, ultimately, to the customers that use it. Make sure they are part of the process, and they&#8217;ll thank you for it.

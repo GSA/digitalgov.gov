@@ -8,10 +8,9 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - ux
   - usability
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2015/03/502-x-478-UX-RolesV2.jpg" alt="A Venn diagram based on Dan Saffer’s “Disciplines of User Experience, 2009,” shows the overlapping disciplines in User Experience." >}}

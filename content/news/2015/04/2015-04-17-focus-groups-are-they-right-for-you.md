@@ -8,9 +8,8 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - ux
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." >}}

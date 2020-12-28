@@ -17,13 +17,13 @@ date: 2020-05-27 13:00:00 -0500
 # end date
 end_date: 2020-05-27 14:00:00 -0500
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform: 
 
 # see all topics at https://digital.gov/topics
 topics:
   - metrics
-  - ux
+  - user-experience
   - analytics
   - dap
   - digital-analytics-program
@@ -33,7 +33,7 @@ authors:
   - tlowden
 
 # YouTube ID
-youtube_id:
+youtube_id: KsDJx7gMJms
 
 # Make it better ♥
 

@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/social-media-week-2020.png
+
+# Image shortcode: {{< img src="social-media-week-2020" >}}
+
+date     : 2020-12-04 17:51:28 -0400
+uid      : social-media-week-2020
+width    : 1280
+height   : 720
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Graphic with overlapping, multi-color circles with text that reads digital.gov federal social media week social media community of practice" 

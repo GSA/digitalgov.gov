@@ -12,7 +12,6 @@ USWDS SASS GULPFILE
 */
 
 const autoprefixer = require("autoprefixer");
-const autoprefixerOptions = require("../../node_modules/uswds-gulp/config/browsers");
 const csso = require("postcss-csso");
 const gulp = require("gulp");
 const pkg = require("../../node_modules/uswds/package.json");
@@ -51,7 +50,7 @@ const IMG_DEST = './themes/digital.gov/static/uswds/img';
 const FONTS_DEST = './themes/digital.gov/static/uswds/fonts';
 
 // Javascript destination
-const JS_DEST = './themes/digital.gov/static/uswds/js';
+const JS_DEST = './themes/digital.gov/static/dist';
 
 // Compiled CSS destination
 const CSS_DEST = './themes/digital.gov/static/dist';
@@ -90,7 +89,10 @@ gulp.task('copy-uswds-js', () => {
 gulp.task('build-sass', function(done) {
   var plugins = [
     // Autoprefix
-    autoprefixer(autoprefixerOptions),
+    autoprefixer({
+      cascade: false,
+      grid: true
+    }),
     // Minify
     csso({ forceMediaMerge: true })
   ];

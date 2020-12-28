@@ -1,19 +1,42 @@
 ---
+# View this page at https://digital.gov/event/2019/08/socialgov-talks-tips-for-linkedin-content
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: socialgov-talks-tips-for-linkedin-content-strategy-with-matt-ross
-title: 'SocialGov Talks&#58; Tips for LinkedIn Content Strategy, with Matt Ross'
-summary: 'Matt Ross, of LinkedIn’s Marketing Solutions Government &amp; Advocacy team, will share tips and best practices on how to improve your agency’s use of content to maximize engagement with your core audience&#46; '
-featured_image:
-  uid: socialgov-linkedin-2
-  alt: ''
-event_type:
-  - Zoom
-date: 2019-08-21 14:00:00 -0500
-end_date: 2019-08-21 15:00:00 -0500
-event_organizer: Digitalgov University
-host: Socialgov CoP
+title: "SocialGov Talks: Tips for LinkedIn Content Strategy, with Matt Ross"
+deck: ""
+summary: "Matt Ross, of LinkedIn’s Marketing Solutions Government & Advocacy team, will share tips and best practices on how to improve your agency’s use of content to maximize engagement with your core audience. "
+host: "Socialgov CoP"
+event_organizer: "Digitalgov University"
 registration_url: https://www.eventbrite.com/e/socialgov-talks-tips-for-linkedin-content-strategy-with-matt-ross-registration-66485015471
+captions: 
+
+# start date
+date: 2019-08-21 15:00:00 -0500
+
+# end date
+end_date: 2019-08-21 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - social-media
+  - marketing
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - matt-ross
+
+# YouTube ID
 youtube_id: bSVMF4MzGyc
 
+# Primary Image (for social media)
+primary_image: "socialgov-linkedin-2"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 Does your agency’s LinkedIn content strategy need an update? Have you been successful in gaining followers? Hear some tips and best practices from Matt Ross, of LinkedIn’s Marketing Solutions Government & Advocacy team, on how to improve your agency’s use of content to maximize engagement with your core audience.

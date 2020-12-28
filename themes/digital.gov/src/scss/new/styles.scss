@@ -64,8 +64,9 @@
 @import 'resources';
 
 // Lists of related pages
-@import 'list-collection';
+@import 'collection';
 
+@import 'touchpoints_feedback';
 @import 'page-data';
 @import 'share-tools';
 
@@ -74,6 +75,7 @@
 @import 'guides/guide-page-head';
 @import 'guides/guide-toc';
 @import 'guides/guide-content';
+@import 'guides/guide-prev-next';
 
 // Authors lists
 @import 'authors-list';
@@ -101,6 +103,9 @@
 @import 'related_communities';
 @import 'services';
 @import 'related_services';
+@import 'services-directory';
+@import 'card-service';
+@import 'card-service-contact';
 
 // Topics styles
 @import 'topic-buttons';
@@ -115,8 +120,12 @@
 // Edit Tools
 @import 'edit-this';
 
+@import 'shortcodes/accordion';
 @import 'shortcodes/box';
 @import 'shortcodes/note';
 @import 'shortcodes/highlight';
 @import 'shortcodes/card-policy';
 @import 'shortcodes/card-quote';
+@import 'shortcodes/asset-img';
+@import 'shortcodes/card-prompt';
+@import 'shortcodes/termsofservice-compatible';

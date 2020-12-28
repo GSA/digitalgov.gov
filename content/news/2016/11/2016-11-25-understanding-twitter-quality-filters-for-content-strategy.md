@@ -20,7 +20,7 @@ In recent statement on the change, Twitter promised that the filters would “[i
 Such Twitter filters are not new, but were originally restricted to verified accounts. The move to expand the change came after a year of this limited test. Now that they’re available to all users, Twitter has listed filters in the settings menu under notifications.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     Two simple settings to give you better control over your Twitter experience. <a href="https://t.co/pEJuMUhCYs">https://t.co/pEJuMUhCYs</a> <a href="https://t.co/jmFd0rDoV6">pic.twitter.com/jmFd0rDoV6</a>
   </p>
   

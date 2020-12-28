@@ -12,7 +12,6 @@ topics:
   - our-work
   - strategy
   - policy
-  - ux
   - api
   - Census
   - cx

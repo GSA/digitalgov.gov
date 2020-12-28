@@ -6,7 +6,7 @@ summary: Cross-agency collaboration in the federal government has become a preva
 authors:
   - stephanie-thum
 topics:
-  - ux
+  - user-experience
   - cx
   - customer-experience-community-of-practice
   - cx

@@ -14,31 +14,31 @@ topics:
   - social-media
 ---
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/person-holding-hand-up-in-front-of-camera.jpg">{{< legacy-img src="2013/09/person-holding-hand-up-in-front-of-camera.jpg" alt="person holding hand up in front of camera" >}}</a>As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation.
 </p>
 
-<p dir="ltr">
+<p>
   Do you collect comments and post photos on your agency social media accounts and websites? If so, are you aware that much of that content could possibly be considered personally identifiable information (PII)?
 </p>
 
-<p dir="ltr">
+<p>
   PII is, at times, a clever disguise artist. Although something may not seem like PII on the surface, you need to dig deeper to better understand the nuances.  At GSA’s fourth installment of the “Legal Learning Series,” federal employees learned the different forms that electronic data can take and what their agencies need to do to ensure we can collect important data while still protecting people’s privacy.
 </p>
 
-<p dir="ltr">
+<p>
   Some 80 participants gathered to hear from two distinguished speakers&#8211;Kathy Harman-Stokes, Chief Privacy Officer at the CFTC and Alex Tang, Attorney in the Office of General Counsel at the FTC&#8211;detail the ins and outs of electronic PII acquisition and performing the requisite privacy impact assessments (PIAs). Here are some key takeaways from the presentation:
 </p>
 
-<p dir="ltr">
+<p>
   <strong>PII is nearly ubiquitous in social media and on the web</strong>
 </p>
 
-<p dir="ltr">
+<p>
   The term “PII,” as defined in <a href="http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2007/m07-16.pdf">OMB Memorandum M-07-16</a> refers to information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual. Social media and the web happen to be chock full of PII, but it’s not always immediately evident. It’s important to find any PII collected in electronic data, as well as follow the regulations regarding it.
 </p>
 
-<p dir="ltr">
+<p>
   Examples of information your agency might be collecting that probably has PII include:
 </p>
 
@@ -49,15 +49,15 @@ topics:
   * Mobile app user data
   * Web tracking, user preference and experience cookies, logs (i.e. IP addresses, analytics, etc)
 
-<p dir="ltr">
+<p>
   <strong>My agency is collecting PII, what next?</strong>
 </p>
 
-<p dir="ltr">
+<p>
   Good question. <a href="http://www.whitehouse.gov/omb/memoranda_m03-22#b">Section 208 of the E-Government Act</a> requires that a privacy impact assessment (PIA) be conducted when developing or acquiring electronic IT that will “collect, maintain, or disseminate” PII. Of note, OMB requires PIAs <em><strong>before</strong></em> using third-party sites and applications whenever PII will be made available to your agency. A PIA is a documentation of the analysis of privacy risks and steps taken to mitigate them, and must be <a href="http://www.gsa.gov/portal/content/102237">publicly posted</a> after approval by your agency’s CIO or other official designated by the department/agency head.
 </p>
 
-<p dir="ltr">
+<p>
   Required contents of a PIA (this list is not exhaustive; refer to the <a href="http://www.whitehouse.gov/omb/memoranda_m03-22#b">act</a> for more information) :
 </p>
 
@@ -72,8 +72,8 @@ topics:
   * Security: how will the information be protected, and what are the risks involved? How will the agency address those risks? A breach response plan is required.
   * Retention/Disposal: how will the PII be stored and for how long? What are the methods of disposal?
 
-<p dir="ltr">
+<p>
   For more information contact Kathy Harman-Stokes at <a href="mailto:kharman-stokes@cftc.gov">kharman-stokes@cftc.gov</a> or Alex Tang at <a href="mailto:atang@ftc.gov">atang@ftc.gov</a>.
 </p>
 
-<p dir="ltr">
+<p>

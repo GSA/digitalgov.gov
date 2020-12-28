@@ -11,7 +11,7 @@
   "count" : "{{- $length }}",
   {{ with .Site.Author.name -}}
   "author" : {
-      "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
+      "name" : "{{- . -}}"{{- with $.Site.Author.Params.url -}},
       "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
       "avatar": "{{- . | absURL -}}"{{- end -}}
   },
@@ -41,9 +41,9 @@
         {{- if .Params.location -}}
         "location" : "{{- .Params.location -}}",
         {{- end -}}
-        {{- if .Params.bio -}}
-        "bio" : "{{- .Params.bio -}}",
-        {{- end -}}
+
+        {{- partial "api/bio" . -}}
+        
         {{- if .Params.bio_url -}}
         "bio_url" : "{{- .Params.bio_url -}}",
         {{- end -}}

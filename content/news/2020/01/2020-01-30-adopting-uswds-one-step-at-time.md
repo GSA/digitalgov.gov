@@ -18,11 +18,13 @@ topics:
   - product-management
   - uswds
   - 21st-century-idea
+  - this-weeks-idea
 
 # see all authors at https://digital.gov/authors
 authors:
   - dan-williams
   - jeremyzilar
+  - ammie-farraj-feijoo
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card-wk6"
@@ -31,10 +33,9 @@ primary_image: "this-weeks-idea-card-wk6"
 aliases:
   - /2020/01/29/adopting-uswds-one-step-at-time/
 
-
 # Make it better ♥
----
 
+---
 
 {{< card-quote text="Learning is never cumulative, it is a movement of knowing which has no beginning and no end." cite="Bruce Lee" >}}
 
@@ -92,7 +93,6 @@ Using a design system like USWDS is like following the rules of baseball. No two
 
 Similarly, sites that use the design system follow similar rules to achieve different and unique outcomes.  Each site can adapt to the mission, context and user needs specific to the agency or project, while promoting greater continuity of experience across the federal government.
 
-
 ### Supporting Teams and Users
 
 USWDS empowers teams to work effectively and efficiently, focusing on their mission, and on high-value problems, not on foundational stuff like the border radius of buttons or how to build a responsive navigation.
@@ -121,7 +121,6 @@ The maturity model acts as a guide to help teams incrementally adopt the USWDS a
 — _Martin Fowler on maturity models_
 
 Engaging with the USWDS maturity model at each maturity level is what it means to adopt the design system.
-
 
 ---
 

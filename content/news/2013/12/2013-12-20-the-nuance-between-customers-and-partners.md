@@ -16,11 +16,11 @@ Consider the concept that among the groups you interact with internally, you cou
 
 In our office, we have two organizations that support our programs: a business office and the internal technology support organization. Our business office includes personnel, contracting, budget, space, etc., and works with our agency-wide  functions like the Chief People Office, Chief Financial Office, etc.  Our internal technology support organization provides infrastructure, development, security, etc support for our programs.
 
-<p dir="ltr">
+<p>
   When we began discussing our CX program, both of the internal support organizations were somewhat insulted that we considered ourselves their customers.  They considered themselves partners.  At first I didn’t understand the distinction or why they perceived this label in any certain way.
 </p>
 
-<p dir="ltr">
+<p>
   After both internal discussions and discussions with external experts, I discovered that there are two trains of thought in this area:
 </p>
 
@@ -31,7 +31,7 @@ As you create your Customer Experience (CX) strategy, analyzing your customers a
 
 This is true in both the government and industry.  For example, define how the service and performance of internal organizations impact your ability to serve your external customers. Map the intersections and opportunities where your program and the internal partners connect, or could connect, to support one another in serving your external customers.
 
-<p dir="ltr">
+<p>
   Here are three of the lessons that I learned through this process:
 </p>
 

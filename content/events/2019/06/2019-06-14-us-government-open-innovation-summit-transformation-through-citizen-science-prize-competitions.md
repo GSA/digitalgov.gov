@@ -1,25 +1,64 @@
 ---
+# View this page at https://digital.gov/event/2019/06/us-government-open-innovation-summit
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: us-government-open-innovation-summit-transformation-through-citizen-science-prize-competitions
 title: "U.S. Government Open Innovation Summit"
 deck: "Transformation Through Citizen Science and Prize Competitions"
-summary: 'Presentations that highligh the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government'
-featured_image:
-  uid: open-innovation-summit-lockup
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-06-14 08:30:00 -0500
-end_date: 2019-06-14 16:00:00 -0500
-event_organizer: DigitalGov University
-host: Federal Community of Practice for Crowdsourcing and Citizen Science (FedCCS), Challenges and Prizes Federal Community of Practice
+summary: "Presentations that highligh the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government"
+host: "Federal Community of Practice for Crowdsourcing and Citizen Science (FedCCS), Challenges and Prizes Federal Community of Practice"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/us-government-open-innovation-summit-transformation-through-citizen-science-and-prizes-registration-61872290687
+captions: 
+
+# start date
+date: 2019-06-14 9:30:00 -0500
+
+# end date
+end_date: 2019-06-14 17:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - challenges
+  - citizen-science
+  - innovation
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - alexis-bonnell
+  - dr-kelvin-droegemeier
+  - drew-zachary
+  - ellen-ryan
+  - jarah-meador
+  - jenn-gustetic
+  - jennifer-shieh
+  - jim-reuter
+  - john-mclaughlin
+  - ku-mcmahan
+  - lauren-algee
+  - marc-kuchner
+  - sarahlloyd-stevenson
+  - sophia-b-liu
+  - taylor-gilliland
+
+# YouTube ID
 youtube_id: 5ORul6NslyE
+
+# Primary Image (for social media)
+primary_image: "open-innovation-summit-lockup"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 
 ---
 
-On June 14, the General Services Administration and White House Office of Science and Technology Policy (OSTP) hosted innovators from the public and private sectors to highlight the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government.
+On June 14, the General Services Administration (GSA) and White House Office of Science and Technology Policy (OSTP) hosted innovators from the public and private sectors to highlight the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government.
 
-The inaugural U.S. Open Innovation Summit featured a keynote speech from OSTP Director Dr. Kelvin Droegemeier, who announced the release of a new report on prize competitions and citizen science projects run by the federal government during 2017-2018.
+The inaugural U.S. Open Innovation Summit featured a keynote speech from OSTP Director Dr. Kelvin Droegemeier, who announced the release of a new report on prize competitions and citizen science projects run by the federal government from 2017 to 2018.
 
 {{< img src="open-innovation-summit-lockup" >}}
 
@@ -100,6 +139,6 @@ The event featured a variety of presentations, panel discussions and interactive
 
 ---
 
-_This talk was hosted by Federal Community of Practice for Crowdsourcing and Citizen Science and the Challenges and Prizes Federal Community of Practice, and facilitated by DigitalGov University. Both communities provide mechanisms for members of federal, state, local and tribal agencies to share best practices and identify collaboration opportunities across government._
+_This talk was hosted by Federal Community of Practice for Crowdsourcing and Citizen Science and the Challenges and Prizes Federal Community of Practice, and facilitated by DigitalGov University. Both communities provide mechanisms for members of federal, state, local, and tribal agencies to share best practices and identify collaboration opportunities across government._
 
-Questions about this event or future events? Send them to [team@challenge.gov](mailto:team@challenge.gov).
+Questions about this event or future events? Send them to [team@challenge.gov](mailto:team@challenge.gov). 

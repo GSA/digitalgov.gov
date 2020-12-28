@@ -7,7 +7,6 @@ authors:
   - pooja-sawant
 topics:
   - user-testing-and-research
-  - ux
   - cx
   - digitalgov-user-experience-program
   - personas
@@ -215,7 +214,7 @@ Now that you know what you can do, go out and give it a try! And let us know how
 
 Good luck!
 
-<div dir="ltr" style="color: #222222">
+<div style="color: #222222">
   <p>
     <em><strong>Pooja Sawant</strong> is in her second year at University of Maryland, College Park, earning an MS in Information Management. She is interning with the <a title="DigitalGov User Experience Program" href="{{< ref "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a> at GSA this summer.</em>
   </p>

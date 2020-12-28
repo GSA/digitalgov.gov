@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - ux
   - DOL
   - federal-user-experience-community
   - mobile-apps

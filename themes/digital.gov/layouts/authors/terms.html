@@ -1,5 +1,5 @@
 {{ define "content" }}
-<main role="main" id="author">
+<main role="main" id="main-content">
   <article>
 
     <header>
@@ -26,7 +26,7 @@
               {{- range $i, $author := $authors -}}
                 {{ if .Params.slug }}
                   {{ $link := printf "authors/%s/" .Params.slug }}
-                  <div class="author grid-row" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+                  <div class="author grid-row" data-edit-this="{{- .Path -}}">
                     <div class="grid-col-auto">
                       <div class="photo">
                         {{- if $author.Params.github -}}

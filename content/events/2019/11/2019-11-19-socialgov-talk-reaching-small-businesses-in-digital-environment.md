@@ -1,23 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2019/11/socialgov-talk-reaching-small-businesses-in
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: socialgov-talk-reaching-small-businesses-in-digital-environment
-title: "SocialGov Talk&#58; Reaching Small Businesses in the Digital Environment"
-summary: "In this webinar, the social media experts from the U&#46;S&#46; Small Business Administration discussed how they find and communicate with small businesses on their social media platforms&#46;"
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - zoom
+title: "SocialGov Talk: Reaching Small Businesses in the Digital Environment"
+deck: ""
+summary: "In this webinar, the social media experts from the U.S. Small Business Administration discussed how they find and communicate with small businesses on their social media platforms."
+host: "SocialGov"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
 date: 2019-11-19 14:00:00 -0500
+
+# end date
 end_date: 2019-11-19 15:00:00 -0500
-event_organizer: DigitalGov University
-host: SocialGov
-youtube_id: aR2feIr_1Ds
-topics:
+
+# see all topics at https://digital.gov/topics
+topics: 
   - social-media
   - us-small-business-administration
 
----
+# see all authors at https://digital.gov/authors
+authors: 
+  - gabrielle-perret
+  - natale-goriel
+  - paul-lester
+  - stephen-morris
 
+# YouTube ID
+youtube_id: aR2feIr_1Ds
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
+---
 Join the digital experts at the U.S. Small Business Administration (SBA) to learn how they 
 
 - develop successful campaigns to reach small business in the digital environment, 

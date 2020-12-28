@@ -1,20 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2019/05/mobile-community-practice-spring-meeting
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: mobile-community-practice-spring-meeting
-kicker: Community Meeting
-title: 'Mobile Community of Practice Spring Meeting'
-summary: "Join us to learn about the latest developments in the mobile citizen experience&#46; and discuss recent developments and highlight opportunities"
-featured_image:
-  uid: mobile-devices-testing-app-tilted
-  alt: ''
-event_type:
-  - youtube-live
-date: 2019-05-28 09:30:00 -0500
-end_date: 2019-05-28 10:00:00 -0500
-event_organizer: DigitalGov University
-host: MobileGov
+title: "Mobile Community of Practice Spring Meeting"
+deck: ""
+kicker: "Community Meeting"
+summary: "Join us to learn about the latest developments in the mobile citizen experience. and discuss recent developments and highlight opportunities"
+host: "MobileGov"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/mobilegov-community-of-practice-spring-meeting-registration-62013325526
+captions: 
+
+# start date
+date: 2019-05-28 10:30:00 -0500
+
+# end date
+end_date: 2019-05-28 11:00:00 -0500
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - david-fern
+
+# YouTube ID
 youtube_id: 2Bl5Z6XZFX8
 
+# Primary Image (for social media)
+primary_image: "mobile-devices-testing-app-tilted"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 _[View Live Captioning for this Event](https://www.captionedtext.com/client/event.aspx?EventID=4040414&CustomerID=321)_

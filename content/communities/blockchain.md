@@ -21,10 +21,15 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "listserv@listserv.gsa.gov"
-    subscribe_email_body: "SUB BlockchainPublic"
+    subscribe_email_subject: "Blockchain listserv"
     members: 667
     emails_per_week:
-
+  - platform: "listserv"
+    type: public
+    subscribe_email: listserv@listserv.gsa.gov
+    subscribe_email_body: "SUB BlockchainPublic."
+    members:
+    emails_per_week:
 
 # Make it better ♥
 
@@ -50,8 +55,11 @@ This community serves as a collaborative hub for federal agencies that are inter
 
 **If you are a federal government employee** with a .gov or .mil email address, join our [Federal Blockchain Community](mailto:Blockchain-subscribe-request@listserv.gsa.gov?subject=Blockchain%20listserv).
 
-To join our public listserv for Blockchain, contact [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv) with the message body“SUB BlockchainPublic.”
+To join our **public** listserv for Blockchain, contact [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv&body=SUB%20BlockchainPublic) with the message body “SUB BlockchainPublic.”
 
 ### What We Do
 
 We hosted the first U.S. Federal Blockchain Forum on July 18, 2017, uniting more than 100 federal managers from dozens of unique agencies to discuss use cases, limitations, and solutions. Agency teams submitted their own potential use cases for blockchain technology to our current repository of almost 200 submissions.
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

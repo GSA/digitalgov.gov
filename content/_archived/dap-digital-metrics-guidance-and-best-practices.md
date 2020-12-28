@@ -10,10 +10,10 @@ guide: dap
 
 Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.
 
-  * [Part 1: Common Metrics: Guidance, Best Practices, and Tools](#part-1 "DAP: Digital Metrics Guidance and Best Practices, Part 1")
-  * [Part 2: Reporting Requirements and Common Tools](#part-2 "DAP: Digital Metrics Guidance and Best Practices, Part 2")
-  * [Part 3: Rationale and Framework for Common Metrics and Measures](#part-3 "DAP: Digital Metrics Guidance and Best Practices, Part 3")
-  * [Part 4: Case Studies, Training, and Additional Resources](#part-4 "DAP: Digital Metrics Guidance and Best Practices, Part 4")
+* [Part 1: Common Metrics: Guidance, Best Practices, and Tools](#part-1 "DAP: Digital Metrics Guidance and Best Practices, Part 1")
+* [Part 2: Reporting Requirements and Common Tools](#part-2 "DAP: Digital Metrics Guidance and Best Practices, Part 2")
+* [Part 3: Rationale and Framework for Common Metrics and Measures](#part-3 "DAP: Digital Metrics Guidance and Best Practices, Part 3")
+* [Part 4: Case Studies, Training, and Additional Resources](#part-4 "DAP: Digital Metrics Guidance and Best Practices, Part 4")
 
 <h2 id="part-1" style="padding-top: 50px">
   Part 1: Common Metrics—Guidance, Best Practices, and Tools
@@ -25,12 +25,12 @@ Adopting a common set of baseline measures and tools across all federal executiv
 
 Guidance on common metrics is divided into the following sections, which describe what you should measure, what to do with the data, and common tools to help you collect and analyze your metrics:
 
-  * Web performance
-  * Customer satisfaction
-  * Search
-  * Usability
-  * Mobile
-  * Social media
+* Web performance
+* Customer satisfaction
+* Search
+* Usability
+* Mobile
+* Social media
 
 ## <a name="web-performance-metrics"></a>Web Performance Metrics
 
@@ -43,8 +43,6 @@ Milestone 8.1 of the [Digital Government Strategy](https://obamawhitehouse.archi
 Below are ten minimum common baseline performance metrics that agencies should collect for their .gov websites. They will help you measure different elements of performance, such as how many people are visiting your websites, how much time they&#8217;re spending on your site, how often they return, etc.
 
 **Minimum Common Baseline Performance Metrics**
-
-
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -256,24 +254,24 @@ Below are a set of recommendations to help you collect and analyze the common We
 
 This is the break-down of recommended dimensions and the types of insights each of them would add to your Web metrics reports:
 
-  * **Time** (Day/24 hours, week, month, year)
+* **Time** (Day/24 hours, week, month, year)
 
-  * **Content** (Pages, downloaded files, offsite links, on-site search queries, RSS feeds)
-  * **Marketing** (Referring domains/sites/pages, referring search keywords/phrases)
+* **Content** (Pages, downloaded files, offsite links, on-site search queries, RSS feeds)
+* **Marketing** (Referring domains/sites/pages, referring search keywords/phrases)
 
-  * **Technology** (Browser &#8211; Web/mobile, browser &#8211; version, platform, mobile devices, screen size)
-  * **Demographics** (Network/ISP/organization, country, state/local, city). A major caveat for the Web analytics Demographics dimension is that most Web analytics solutions are limited to the demographic information derived from an IP address of visitors computer and the network they use. Hence, the traditional, commonly associated with demographics visitor information, such as age, gender, Internet preferences etc., are not typically available via those solutions. To address the need for having the more specific customer-centric demographics, the recommended option is to use panel-based or ISP-based third-party solutions that provide website-specific and comparative analysis of websites across Federal Government Internet category (e.g., usa.gov vs. whitehouse.gov) as well as cross Internet category (e.g., irs.gov vs. yahoo.com).
+* **Technology** (Browser &#8211; Web/mobile, browser &#8211; version, platform, mobile devices, screen size)
+* **Demographics** (Network/ISP/organization, country, state/local, city). A major caveat for the Web analytics Demographics dimension is that most Web analytics solutions are limited to the demographic information derived from an IP address of visitors computer and the network they use. Hence, the traditional, commonly associated with demographics visitor information, such as age, gender, Internet preferences etc., are not typically available via those solutions. To address the need for having the more specific customer-centric demographics, the recommended option is to use panel-based or ISP-based third-party solutions that provide website-specific and comparative analysis of websites across Federal Government Internet category (e.g., usa.gov vs. whitehouse.gov) as well as cross Internet category (e.g., irs.gov vs. yahoo.com).
 
 The use of these five Web dimensions will allow for insightful, sophisticated reporting and research to answer such common questions, as:
 
-  * How many of our site visits came from the U.S. vs. internationally?  Via a mobile device using a search engine?
-  * How many visits and page views came from .gov domains vs. commercial sites in the last 12 months?
-  * What are the top X offsite pages that visitors go to after leaving our website?
-  * What are our top on-site search queries? Do they contain any content that our website lacks or is hard to find?
-  * Are our top X pages different for visitors accessing the site from Web browsers (e.g., Internet Explorer, Firefox) vs. mobile browsers?
-  * Where/what U.S. location (state/city) are the most/least frequent visitors coming from?
-  * When (what days or months) does our website have highs and lows in traffic (e.g., visits)? Are those traffic changes driven by content releases or seasonality (e.g., summer, tax preparation time, etc.)?
-  * What are the most popular search terms from our top referring search engines? Are those terms/phrases closely tied to the name of the website or do visitors find our website by searching the types of services or information that the website provides?
+* How many of our site visits came from the U.S. vs. internationally?  Via a mobile device using a search engine?
+* How many visits and page views came from .gov domains vs. commercial sites in the last 12 months?
+* What are the top X offsite pages that visitors go to after leaving our website?
+* What are our top on-site search queries? Do they contain any content that our website lacks or is hard to find?
+* Are our top X pages different for visitors accessing the site from Web browsers (e.g., Internet Explorer, Firefox) vs. mobile browsers?
+* Where/what U.S. location (state/city) are the most/least frequent visitors coming from?
+* When (what days or months) does our website have highs and lows in traffic (e.g., visits)? Are those traffic changes driven by content releases or seasonality (e.g., summer, tax preparation time, etc.)?
+* What are the most popular search terms from our top referring search engines? Are those terms/phrases closely tied to the name of the website or do visitors find our website by searching the types of services or information that the website provides?
 
 **2. Use a variety of data to tell a complete story.** The intent of measuring isn’t to collect a bunch of isolated, raw data. The purpose is to collect a diverse set of data that is analyzed holistically and where someone makes connections to tell a complete story about how people are using and engaging with your website or other digital channel.
 
@@ -403,10 +401,10 @@ Note that the four baseline metrics below are considered &#8220;beta.&#8221; Wor
 
 **Other measures to consider:**
 
-  * Ease of getting information or using your service
-  * Timeliness of getting the information
-  * Does the information meet and/or exceed expectations
-  * Relevancy and usefulness of the information
+* Ease of getting information or using your service
+* Timeliness of getting the information
+* Does the information meet and/or exceed expectations
+* Relevancy and usefulness of the information
 
 ### How to Collect
 
@@ -421,22 +419,22 @@ To help you collect the common customer satisfaction metrics above, the followin
 
 Additionally, these are questions that some agencies have used to gather related insights on customer satisfaction:
 
-  * Was the information easy to understand?
-  * Was the information useful?
-  * Was the experience enjoyable?
-  * Was it easy for you to find what you were looking for?
-  * Is this service being delivered in a reasonable amount of time? [Yes/No]
-  * Did you get useful information beyond what you were looking for?
-  * Did the interaction with this organization meet your needs?
+* Was the information easy to understand?
+* Was the information useful?
+* Was the experience enjoyable?
+* Was it easy for you to find what you were looking for?
+* Is this service being delivered in a reasonable amount of time? [Yes/No]
+* Did you get useful information beyond what you were looking for?
+* Did the interaction with this organization meet your needs?
 
 **Survey Methodology**
 
 To assess the validity of the data and provide context, agencies should also consider collecting data on the survey methodology and response rates:
 
-  * Number of surveys delivered
-  * Number of completed surveys
-  * Completion rate (percentage)
-  * Survey delivery methodology (e.g., completed at the end of the visit, served up after third click)
+* Number of surveys delivered
+* Number of completed surveys
+* Completion rate (percentage)
+* Survey delivery methodology (e.g., completed at the end of the visit, served up after third click)
 
 ### Strategies for Analyzing Customer Satisfaction Data
 
@@ -446,6 +444,7 @@ The [Customer Experience model]({{< link "2013-06-19-5-steps-for-delivering-a-be
   2. **Determine how you’ll collect customer feedback.** Although many agencies will use an online survey to collect customer satisfaction metrics, as described above, there are many ways to collect customer satisfaction data.
 
     Also, while many agencies will collect metrics at the aggregate website-level, some agencies have taken a deeper dive to collect satisfaction data at the page-level or for a specific task or application, which can be highly valuable. Agencies that are already collecting customer satisfaction data at a more granular level, are encouraged to look for ways to **aggregate data** and also report it at the site-wide level so it can be compared with other federal sites.
+
   3. **Take action on your findings.** Baseline and benchmark—agencies can take the data and create a baseline of customer perception and benchmark from year-to-year or month-to-month to show improvements in overall experience or increased ability to complete purpose of the customers visit. Look for trends and create an action plan.
 
 ## <a name="search-metrics"></a>Search Metrics
@@ -634,8 +633,8 @@ To collect search metrics, you&#8217;ll need to pull data from a variety of sour
 
 **1. Register for the commercial search engines’ webmaster tools**
 
-  * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
-  * [Google Webmaster Central](https://www.google.com/webmasters/)
+* [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
+* [Google Webmaster Central](https://www.google.com/webmasters/)
 
 **2. Collect site search analytics.** Many site search tools provide analytics as part of their package. Some tools require additional development to publish the data in a readable format for Web managers. Others provide easy-to-use Web interfaces that provide reports on top search terms, click through rates, etc.
 
@@ -657,8 +656,8 @@ Website User Experience focuses on how visitors think information should be orga
 
 Two common approaches to usability testing are:
 
-  * Large-scale qualitative tests include 20-100 (sometimes more) users. Usually used only by large e-commerce sites and other sizable enterprises to collect performance metrics on a user’s ability to complete tasks. Metrics include [success rate](http://www.useit.com/alertbox/20010218.html), length of time, and error rate for task completion.
-  * Small-scale qualitative tests ideally involve [3-5 users](http://www.useit.com/alertbox/20000319.html) in successive rounds of tests to observe user behavior and collect feedback on ease of use, design, etc. Qualitative user experience can also be measured by surveys or post-test evaluations such as the [System Usability Scale](http://www.google.com/url?q=http%3A%2F%2Fwww.usabilitynet.org%2Ftrump%2Fdocuments%2FSuschapt.doc&sa=D&sntz=1&usg=AFQjCNG5W_TzUptFb-JXdfotsec_ERW_mQ) (MS Word, 54 K, 7 pages, August 2012).
+* Large-scale qualitative tests include 20-100 (sometimes more) users. Usually used only by large e-commerce sites and other sizable enterprises to collect performance metrics on a user’s ability to complete tasks. Metrics include [success rate](http://www.useit.com/alertbox/20010218.html), length of time, and error rate for task completion.
+* Small-scale qualitative tests ideally involve [3-5 users](http://www.useit.com/alertbox/20000319.html) in successive rounds of tests to observe user behavior and collect feedback on ease of use, design, etc. Qualitative user experience can also be measured by surveys or post-test evaluations such as the [System Usability Scale](http://www.google.com/url?q=http%3A%2F%2Fwww.usabilitynet.org%2Ftrump%2Fdocuments%2FSuschapt.doc&sa=D&sntz=1&usg=AFQjCNG5W_TzUptFb-JXdfotsec_ERW_mQ) (MS Word, 54 K, 7 pages, August 2012).
 
 Most user experience tests are small-scale qualitative, because they are cost-effective and provide good, actionable data. GSA offers small-scale testing to agencies through the [DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}}), that lets agency staff observe and get trained on how to conduct simple usability tests.
 
@@ -670,8 +669,8 @@ User Experience metrics are often diagnostic in nature and provide a practical w
 
 There are no pre-defined standard User Experience metrics, because each website has different goals and audiences, and provides different services. Each site should develop its own system for evaluating user experience. What you collect may depend on the resources (staff, time, contractor support) available to you.
 
-  * **If you have limited resources**, you can observe a usability test through [GSA’s DigitalGov User Experience Program]({{< link "digitalgov-user-experience-program-results-and-case-studies.md" >}}), and the team may (depending on availability) be able to train you on how to conduct simple tests yourself. Once you’ve run a test, and observed the problems your users are having, you can focus on fixing the problems. After correcting problems, your Web Analytics should reflect the positive changes (e.g., more completed tasks, or lower bounce rate). You can also hire a [User Experience contractor](http://www.usability.gov/methods/plan/hireexpert.html) to set up a test for you, or create a usability strategy.
-  * **If you have User Experience professionals on staff**, or have the funds to hire contractors on a long-term basis, ask these experts to help you identify the best user experience metrics to collect and follow for YOUR site. You’ll also be able to do repeat, or [iterative Web design and testing](http://www.useit.com/papers/iterative_design/), to evaluate progress over time.
+* **If you have limited resources**, you can observe a usability test through [GSA’s DigitalGov User Experience Program]({{< link "digitalgov-user-experience-program-results-and-case-studies.md" >}}), and the team may (depending on availability) be able to train you on how to conduct simple tests yourself. Once you’ve run a test, and observed the problems your users are having, you can focus on fixing the problems. After correcting problems, your Web Analytics should reflect the positive changes (e.g., more completed tasks, or lower bounce rate). You can also hire a [User Experience contractor](http://www.usability.gov/methods/plan/hireexpert.html) to set up a test for you, or create a usability strategy.
+* **If you have User Experience professionals on staff**, or have the funds to hire contractors on a long-term basis, ask these experts to help you identify the best user experience metrics to collect and follow for YOUR site. You’ll also be able to do repeat, or [iterative Web design and testing](http://www.useit.com/papers/iterative_design/), to evaluate progress over time.
 
 **When to Collect User Experience Metrics**
 
@@ -681,7 +680,7 @@ What differentiates usability testing from other performance metrics is that it 
 
 GSA&#8217;s DigitalGov User Experience Program recommends doing a small-scale test of your website every month, to build confidence and expertise, but this may be too much for some agencies. Keep in mind that, the more often you test, the more you will cultivate a culture supportive of usability testing. Once you have that, you can prioritize and test as often as needed.
 
-**Reporting Usability Metrics **
+**Reporting Usability Metrics**
 
 User experience (usability) testing is extremely valuable but also time-intensive, so make sure you document your findings and metrics. Remember that most people don’t read reports, especially long ones, so catalogue the essential information and summarize the rest. Start off with a summary of the results, next document how you ran the tests and then highlight the data. Here&#8217;s a sample [usability report from DigitalGov User Experience Program](https://docs.google.com/a/gsa.gov/file/d/0B-lTql0gzZu6YkdMRXhUWnprNDQ/edit?pli=1#) and one from [Usability.gov](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Ftemplates%2Fdocs%2Fshort_test_rep.doc&sa=D&sntz=1&usg=AFQjCNEAV66FKREUO6hpgsRIpjKqr81X4g) (MS Word, 215 K, 6 pages, August 2012).
 
@@ -695,25 +694,25 @@ The Mobile Gov Community of Practice is working to define practices in mobile me
 
 **Mobile Web**—If you  have a mobile website, as covered in the &#8220;dimensions&#8221; section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (NLM) has shared an ongoing study of how they’re [measuring effectiveness and quality for their MedlinePlus mobile website]({{< link "2012-06-20-medlineplus-mobile-evaluation.md" >}}). They measure their performance by asking three questions:
 
-  * Who is using MedlinePlus Mobile?
-  * How are they using MedlinePlus Mobile?
-  * Are they satisfied with their visit to MedlinePlus Mobile?
+* Who is using MedlinePlus Mobile?
+* How are they using MedlinePlus Mobile?
+* Are they satisfied with their visit to MedlinePlus Mobile?
 
 **SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program]({{< link "2012-08-21-sms-or-short-message-service.md" >}}), they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
 
-  * How would you rate your overall  satisfaction with CDC&#8217;s text messaging pilot?
-  * How likely are you to use any of the information in the text  messages to improve your health?
-  * How likely are you to recommend CDC&#8217;s text messaging pilot to a friend?
-  * In your opinion, how effective are CDC&#8217;s text messages in meeting your needs?
-  * How often would you like to receive messages?
+* How would you rate your overall  satisfaction with CDC&#8217;s text messaging pilot?
+* How likely are you to use any of the information in the text  messages to improve your health?
+* How likely are you to recommend CDC&#8217;s text messaging pilot to a friend?
+* In your opinion, how effective are CDC&#8217;s text messages in meeting your needs?
+* How often would you like to receive messages?
 
 **Native Mobile Apps**—The newest of the digital services applications, agencies are still grasping with proper native performance measurement, but here are four metrics agencies are looking at to measure effectiveness.
 
-  * How many app downloads do we have this month?
-  * How many &#8220;active downloads&#8221; do we have this month?  (A sign of regular users for your app)
-  * What are my customer reviews on the platform store? (i.e., &#8220;rate your app&#8221; rankings on the app store)
-  * How many users are downloading our app updates?
-  * If you agency app includes a Web page that is accessed once the app is open, what are the number of page views?
+* How many app downloads do we have this month?
+* How many &#8220;active downloads&#8221; do we have this month?  (A sign of regular users for your app)
+* What are my customer reviews on the platform store? (i.e., &#8220;rate your app&#8221; rankings on the app store)
+* How many users are downloading our app updates?
+* If you agency app includes a Web page that is accessed once the app is open, what are the number of page views?
 
 ## <a name="social-media-metrics"></a>Social Media Metrics
 
@@ -735,16 +734,16 @@ The most efficient and consistent way for agencies to collect the common perform
 
 Read OMB&#8217;s guidance to agencies (accessible to federal employees on the OMB MAX wiki):
 
-  * [OMB guidance to agencies for Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/x/2wzrJQ)
-  * [Overall guidance on the Digital Strategy](https://max.omb.gov/community/download/attachments/624531006/Implementing+the+Digital+Government+Strategy_20120723.pdf)
+* [OMB guidance to agencies for Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/x/2wzrJQ)
+* [Overall guidance on the Digital Strategy](https://max.omb.gov/community/download/attachments/624531006/Implementing+the+Digital+Government+Strategy_20120723.pdf)
 
 Below is background and steps agencies can take now to prepare for this implementation.
 
 ### Benefits of Common Page Tagging
 
-  * A common tag will collect the required metrics easily and at minimum cost to agencies, and provide a government-wide view of digital services.
-  * It will allow for data aggregation at the federal level, and provide agencies with robust analytics.
-  * The tag can supplement existing metrics applications, and offers a stand-alone solution for agencies who don’t currently have a metrics application in place.
+* A common tag will collect the required metrics easily and at minimum cost to agencies, and provide a government-wide view of digital services.
+* It will allow for data aggregation at the federal level, and provide agencies with robust analytics.
+* The tag can supplement existing metrics applications, and offers a stand-alone solution for agencies who don’t currently have a metrics application in place.
 
 ## How to Implement
 
@@ -776,11 +775,11 @@ At this time GSA is not providing a central tool for measuring customer satisfac
 
 You can use one of the free customer satisfaction survey tools that has a [federal-friendly terms of service agreement]({{< link "negotiated-terms-of-service-agreements.md" >}}) or an existing contract agreement with federal agencies. These tools include:
 
-  * [iPerceptions](http://www.iperceptions.com/)—An online survey tool to measure customer satisfaction and provide Voice of the Customer data to help you improve your agency&#8217;s online customer experience.
-  * [WebValidator](http://www.iperceptions.com/solutions/webvalidator/)—A website survey tool that answers critical questions, such as who is visiting and why, so you can measure your customers&#8217; experiences.
-  * [American Customer Satisfaction Index (ACSI)-ForeSee](http://www.foresee.com/)—customer satisfaction survey tool used by multiple federal agencies and organizations in the private sector. One advantage of using the ACSI is that you can compare your results to other government agencies and top commercial websites. Agencies using this tool include CDC and SSA.
-  * [Survey Analytics](http://www.surveyanalytics.com/)—survey software that includes a full suite of tools for creating surveys, sending email invitations, and analyzing survey data.
-  * [SurveyMonkey](http://www.surveymonkey.com/)—online survey tool used to create and deliver surveys and analyze data.
+* [iPerceptions](http://www.iperceptions.com/)—An online survey tool to measure customer satisfaction and provide Voice of the Customer data to help you improve your agency&#8217;s online customer experience.
+* [WebValidator](http://www.iperceptions.com/solutions/webvalidator/)—A website survey tool that answers critical questions, such as who is visiting and why, so you can measure your customers&#8217; experiences.
+* [American Customer Satisfaction Index (ACSI)-ForeSee](http://www.foresee.com/)—customer satisfaction survey tool used by multiple federal agencies and organizations in the private sector. One advantage of using the ACSI is that you can compare your results to other government agencies and top commercial websites. Agencies using this tool include CDC and SSA.
+* [Survey Analytics](http://www.surveyanalytics.com/)—survey software that includes a full suite of tools for creating surveys, sending email invitations, and analyzing survey data.
+* [SurveyMonkey](http://www.surveymonkey.com/)—online survey tool used to create and deliver surveys and analyze data.
 
 ### Paperwork Reduction Act Clearance
 
@@ -796,17 +795,17 @@ To improve information and services to the public, agencies must establish stand
 
 Common digital metrics and enterprise-wide performance measures offer:
 
-  * **Cost savings**—Central procurement of common tools will save agencies significant time and money, and ensure they have robust analytics tools to effectively measure performance.
-  * **Adoption of industry standards**—Common methodology, terminology, and tools will improve the accuracy of data across the federal Web space, making it easier to spot gaps and inaccuracies and fix them on a global scale. Adopting industry standards models the best practices of most successful large organizations.
-  * **Better management and accountability**—Publishing real-time, open and transparent data on .gov websites will lead to greater accountability and improved management of public websites, encourage agencies  to consistently evaluate the success and usability of their websites, and more easily address gaps or duplications in services across the federal government.
-  * **Improved collaboration**—Agencies can more easily share best practices, training, strategies, and solutions when using similar tools and measures.
-  * **High-level comparative analysis**—Aggregating data across all federal executive branch websites will deliver precise information on the reach, growth, and impact of digital government services.
+* **Cost savings**—Central procurement of common tools will save agencies significant time and money, and ensure they have robust analytics tools to effectively measure performance.
+* **Adoption of industry standards**—Common methodology, terminology, and tools will improve the accuracy of data across the federal Web space, making it easier to spot gaps and inaccuracies and fix them on a global scale. Adopting industry standards models the best practices of most successful large organizations.
+* **Better management and accountability**—Publishing real-time, open and transparent data on .gov websites will lead to greater accountability and improved management of public websites, encourage agencies  to consistently evaluate the success and usability of their websites, and more easily address gaps or duplications in services across the federal government.
+* **Improved collaboration**—Agencies can more easily share best practices, training, strategies, and solutions when using similar tools and measures.
+* **High-level comparative analysis**—Aggregating data across all federal executive branch websites will deliver precise information on the reach, growth, and impact of digital government services.
 
 <a name="benefits"></a>In addition, having common metrics provides these direct benefits to agencies:
 
-  * Website managers are in a better position to optimize their sites by studying content usage and onsite search behavior. Managers are able to use this data to report on the demand for services and products.
-  * Marketing and communication teams will be able to track and optimize their online campaigns and understand the online behaviors of our visitors.
-  * Executives can use this information to report on channel performance and strategically plan for the future. It will help tie metrics to agency mission achievement.
+* Website managers are in a better position to optimize their sites by studying content usage and onsite search behavior. Managers are able to use this data to report on the demand for services and products.
+* Marketing and communication teams will be able to track and optimize their online campaigns and understand the online behaviors of our visitors.
+* Executives can use this information to report on channel performance and strategically plan for the future. It will help tie metrics to agency mission achievement.
 
 **Measurement Framework**
 
@@ -814,30 +813,30 @@ GSA’s Digital Services Innovation Center developed the Digital Services Perfor
 
 To ensure that services are measured accurately and consistently at the federal level, as well as individually, this framework will address common government–wide:
 
-  * Metrics
-  * Collection methodology and tools
-  * Reporting interface and analysis
+* Metrics
+* Collection methodology and tools
+* Reporting interface and analysis
 
 Key success elements will include:
 
-  * Performance measures
-  * Collection methodology
-  * Web analytics tool
+* Performance measures
+* Collection methodology
+* Web analytics tool
 
 {{< legacy-img src="/2014/01/digital-services-measurement-framework-221x250.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." >}}
 
 The framework is based on the following types of measures:
 
-  * **Breadth**—standard Web analytics that provide high–level information on the breadth of traffic to, and content usage of, a given digital service
-  * **Depth**—high–level, standard Web analytics that measure the extent (time) and depth of a visit
-  * **Loyalty**—standard Web measures of visitor loyalty and site stickiness
-  * **Direct Engagement**—measures the extent to which a site visitor uses the site’s search engine (visitor must provide direct input to retrieve the desired information or action)
-  * **Customer Experience**—standard customer service measures of quality, experience, and loyalty
+* **Breadth**—standard Web analytics that provide high–level information on the breadth of traffic to, and content usage of, a given digital service
+* **Depth**—high–level, standard Web analytics that measure the extent (time) and depth of a visit
+* **Loyalty**—standard Web measures of visitor loyalty and site stickiness
+* **Direct Engagement**—measures the extent to which a site visitor uses the site’s search engine (visitor must provide direct input to retrieve the desired information or action)
+* **Customer Experience**—standard customer service measures of quality, experience, and loyalty
 
 To support this common framework, agencies should collect performance and customer service metrics using the following types of tools:
 
-  * **Performance**—It is now an industry standard to use page tagging to collect real-time performance metrics, so this framework calls for the use of a common tool to collect agency performance metrics.
-  * **Customer Satisfaction**—Until an industry standard becomes apparent for collecting customer satisfaction metrics, we’re asking agencies to collect a set of four common reporting metrics, based on extensive industry research and and a review of existing agency systems.  These are considered in &#8220;beta&#8221; mode while we test their usefulness during implementation.
+* **Performance**—It is now an industry standard to use page tagging to collect real-time performance metrics, so this framework calls for the use of a common tool to collect agency performance metrics.
+* **Customer Satisfaction**—Until an industry standard becomes apparent for collecting customer satisfaction metrics, we’re asking agencies to collect a set of four common reporting metrics, based on extensive industry research and and a review of existing agency systems.  These are considered in &#8220;beta&#8221; mode while we test their usefulness during implementation.
 
 <h2 id="part-4" style="padding-top: 50px">
   Part 4: Case Studies, Resources, and Training
@@ -845,16 +844,16 @@ To support this common framework, agencies should collect performance and custom
 
 ### Case Studies
 
-  * [CDC eHealth Metrics Dashboard](http://www.cdc.gov/metrics/)—model metrics dashboard, summarizes page views, popular topics, and satisfaction scores, including Top Search Keywords, most popular pages, and mobile.
-  * [EPA Site Statistics](http://www2.epa.gov/webguide/site-statistics)—guidance for EPA Web team members on how to gather and report metrics data.
-  * [National Archives Metrics Dashboard](http://www.archives.gov/metrics/)—features selected comments from customer surveys, customer satisfaction scores, most popular search terms, website visitors, and more.
-  * [City of Boston](http://www.cityofboston.gov/doit/metrics/)—Web metrics dashboard provides high-level view of page visits, popular pages, search terms, and more.
+* [CDC eHealth Metrics Dashboard](http://www.cdc.gov/metrics/)—model metrics dashboard, summarizes page views, popular topics, and satisfaction scores, including Top Search Keywords, most popular pages, and mobile.
+* [EPA Site Statistics](http://www2.epa.gov/webguide/site-statistics)—guidance for EPA Web team members on how to gather and report metrics data.
+* [National Archives Metrics Dashboard](http://www.archives.gov/metrics/)—features selected comments from customer surveys, customer satisfaction scores, most popular search terms, website visitors, and more.
+* [City of Boston](http://www.cityofboston.gov/doit/metrics/)—Web metrics dashboard provides high-level view of page visits, popular pages, search terms, and more.
 
 ### **Communities of Practice**
 
-  * [Web and New Media Community]({{< link "web-managers-forum.md" >}})—an ad hoc group of over 3,000 federal, state, local, and tribal U.S. government employees.
-  * Metrics Community of Practice—part of the [Federal Web Managers Council]({{< link "web-managers-forum.md" >}}), an inter-agency group working to improve digital metrics.
-  * [Social Media Performance Metrics working group]({{< link "social-media.md" >}}).
+* [Web and New Media Community]({{< link "web-managers-forum.md" >}})—an ad hoc group of over 3,000 federal, state, local, and tribal U.S. government employees.
+* Metrics Community of Practice—part of the [Federal Web Managers Council]({{< link "web-managers-forum.md" >}}), an inter-agency group working to improve digital metrics.
+* [Social Media Performance Metrics working group]({{< link "social-media.md" >}}).
 
 ### **Training**
 
@@ -866,38 +865,38 @@ Get more information about training from [DigitalGov University]({{< link "/digi
 
 These are federal initiatives and directives related to performance management and customer service that provide additional context and background:
 
-  * [Digital Government Strategy Milestone 8.2](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html): Links to the specific agency requirements for measuring performance and customer satisfaction measuring tools on all federal executive branch .gov websites
-  * [Executive Order 13571](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser)—Streamlining Service Delivery and Improving Customer Service directs agencies to set standards and use customer feedback to improve the customer experience (April 2011)
-  * [OMB M–05–04 Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) and the related [OMB Circular A–130](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) refer to measuring satisfaction and performance
-  * [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) (PDF, 102 KB, 9 pages, June 2010)
-  * [Paperwork Reduction Act (PRA)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) requires federal agencies to have OMB approval before collecting information from the public, such as from online customer satisfaction surveys.
-  * [Fast Track PRA]({{< link "paperwork-reduction-act-fast-track-process.md" >}}) process streamlines PRA approval to 5 business days
-  * [Government Performance and Results Act (GPRA)](https://www.congress.gov/bill/111th-congress/house-bill/2142) requires agencies to establish performance measures to demonstrate mission achievement
+* [Digital Government Strategy Milestone 8.2](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html): Links to the specific agency requirements for measuring performance and customer satisfaction measuring tools on all federal executive branch .gov websites
+* [Executive Order 13571](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser)—Streamlining Service Delivery and Improving Customer Service directs agencies to set standards and use customer feedback to improve the customer experience (April 2011)
+* [OMB M–05–04 Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) and the related [OMB Circular A–130](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) refer to measuring satisfaction and performance
+* [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) (PDF, 102 KB, 9 pages, June 2010)
+* [Paperwork Reduction Act (PRA)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) requires federal agencies to have OMB approval before collecting information from the public, such as from online customer satisfaction surveys.
+* [Fast Track PRA]({{< link "paperwork-reduction-act-fast-track-process.md" >}}) process streamlines PRA approval to 5 business days
+* [Government Performance and Results Act (GPRA)](https://www.congress.gov/bill/111th-congress/house-bill/2142) requires agencies to establish performance measures to demonstrate mission achievement
 
 ## <a name="research-bibliography"></a>Research Bibliography
 
 GSA developed the performance and customer satisfaction guidance with the federal Metrics Community of Practice and based on extensive research, which included the following resources:
 
-  * Reichheld, F.; Markey, R. _The Ultimate Question 2.0: How Net Promoter Companies Thrive in a Customer-Driven World_ (Revised and Expanded Edition) (Harvard Business Review Press; September 20, 2011)
-  * [Forrester](http://www.forrester.com/home), a global research and advisory firm:
-      * Bernoff, J. (June 11, 2011) Competitive Strategy In The Age of the Customer.
-      * Bodine, K.; and Rogowski, R. (January 14, 2011) 2011 Customer Experience Predictions.
-      * Burns, M. (February 17, 2011) The State of Customer Experience, 2011.
-      * Burns, M. (April 18, 2011) How Companies Raised Their Customer Experience Index Scores, 2011.
-      * Burns, M.; Manning, H., Peterson, J., and Catino, S. (December 7, 2010). The Business Impact of Customer Experience, 2010.
-      * Burns, M. (April 29, 2010) Three Secrets of Success for Customer Experience Organizations.
-      * Burns, M. (January 11, 2011) The Customer Experience Index, 2011.
-      * Dorsey, M. (January 28, 2010) The Future of Online Customer Experience.
-      * Drego, V.; Rogowski, R., and Bocal, E. (December 20, 2010) How To Craft Your Customer Research Plan.
-      * Evensen, R. (July 25, 2011) How To Design An Effective Voice of the Customer (VOC) Insights Program.
-      * Hagan, P. (April 29, 2011) Beyond CRM: Manage Customer Experiences.
-      * Leggett, K. (May 26, 2011) Forrester’s Best Practices Framework for Customer Service. Retrieved from [www.forrester.com](http://www.forrester.com/home)
-      * McInnes, A. (May 20, 2011) Voice of the Customer Programs Don’t Deliver Enough Value.
-      * Reitsma, R. (June 30, 2010) A Market Researcher’s Introduction to the Future of Online Customer Experience.
-      * Rogowski, R. (June 15, 2011). Why You Need A Digital Customer Experience Strategy.
-      * Sage, A.; Burns, M., Bocal, E., and Stone, A. (July 20, 2011) What are the Right Web Customer Experience Success Metrics.
-  * [Gartner, Inc.](http://www.gartner.com/technology/home.jsp), an information technology research and advisory company**:**
-      * Alvarez, G. (March 2012) What To Do On Monday. Presented at the Gartner 360 Conference in Orlando, FL.
-      * Davies, J.; Thompson, E. (March 2012) Putting Plans for Customer Experience into Practice. Presented at the Gartner 360 Conference in Orlando, FL.
-      * Thompson, E. (March 2012) The Customer Experience Scenario. Presented at the Gartner 360 Conference in Orlando, FL.
-      * Thompson, E. (November 11, 2011) The Gartner Customer Experience Management Maturity Model.
+* Reichheld, F.; Markey, R. _The Ultimate Question 2.0: How Net Promoter Companies Thrive in a Customer-Driven World_ (Revised and Expanded Edition) (Harvard Business Review Press; September 20, 2011)
+* [Forrester](http://www.forrester.com/home), a global research and advisory firm:
+    * Bernoff, J. (June 11, 2011) Competitive Strategy In The Age of the Customer.
+    * Bodine, K.; and Rogowski, R. (January 14, 2011) 2011 Customer Experience Predictions.
+    * Burns, M. (February 17, 2011) The State of Customer Experience, 2011.
+    * Burns, M. (April 18, 2011) How Companies Raised Their Customer Experience Index Scores, 2011.
+    * Burns, M.; Manning, H., Peterson, J., and Catino, S. (December 7, 2010). The Business Impact of Customer Experience, 2010.
+    * Burns, M. (April 29, 2010) Three Secrets of Success for Customer Experience Organizations.
+    * Burns, M. (January 11, 2011) The Customer Experience Index, 2011.
+    * Dorsey, M. (January 28, 2010) The Future of Online Customer Experience.
+    * Drego, V.; Rogowski, R., and Bocal, E. (December 20, 2010) How To Craft Your Customer Research Plan.
+    * Evensen, R. (July 25, 2011) How To Design An Effective Voice of the Customer (VOC) Insights Program.
+    * Hagan, P. (April 29, 2011) Beyond CRM: Manage Customer Experiences.
+    * Leggett, K. (May 26, 2011) Forrester’s Best Practices Framework for Customer Service. Retrieved from [www.forrester.com](http://www.forrester.com/home)
+    * McInnes, A. (May 20, 2011) Voice of the Customer Programs Don’t Deliver Enough Value.
+    * Reitsma, R. (June 30, 2010) A Market Researcher’s Introduction to the Future of Online Customer Experience.
+    * Rogowski, R. (June 15, 2011). Why You Need A Digital Customer Experience Strategy.
+    * Sage, A.; Burns, M., Bocal, E., and Stone, A. (July 20, 2011) What are the Right Web Customer Experience Success Metrics.
+* [Gartner, Inc.](http://www.gartner.com/technology/home.jsp), an information technology research and advisory company**:**
+    * Alvarez, G. (March 2012) What To Do On Monday. Presented at the Gartner 360 Conference in Orlando, FL.
+    * Davies, J.; Thompson, E. (March 2012) Putting Plans for Customer Experience into Practice. Presented at the Gartner 360 Conference in Orlando, FL.
+    * Thompson, E. (March 2012) The Customer Experience Scenario. Presented at the Gartner 360 Conference in Orlando, FL.
+    * Thompson, E. (November 11, 2011) The Gartner Customer Experience Management Maturity Model.

@@ -1,20 +1,35 @@
 ---
+# View this page at https://digital.gov/event/2018/11/fedramp-updates-3pao-requirements
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramp-updates-3pao-requirements
-title: 'FedRAMP Updates 3PAO Requirements'
-summary: 'Live FedRAMP webinar to discuss changes to R311 - Specific Requirements&#58; FedRAMP'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - youtube-live
-date: 2018-11-14 14:00:00 -0500
-end_date: 2018-11-14 15:00:00 -0500
-event_organizer: DigitalGov University
-host: FedRAMP
+title: "FedRAMP Updates 3PAO Requirements"
+deck: ""
+summary: "Live FedRAMP webinar to discuss changes to R311 - Specific Requirements: FedRAMP"
+host: "FedRAMP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/fedramp-updates-3pao-requirements-registration-52233039427
-youtube_id: Z6LgUEShll0
-topics:
+captions: 
+
+# start date
+date: 2018-11-14 14:00:00 -0500
+
+# end date
+end_date: 2018-11-14 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - fedramp
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - john-hamilton
+  - laurie-southerton
+
+# YouTube ID
+youtube_id: Z6LgUEShll0
+
+# Make it better ♥
+
 ---
 
 {{< img-right src="featued-301-x-212-fedramp-2017-5th-anniversary-logo" >}}

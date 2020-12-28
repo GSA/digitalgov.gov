@@ -6,7 +6,6 @@ summary: Understanding our Veterans and their unique needs and experiences is at
 authors:
   - va-center-for-innovation
 topics:
-  - ux
   - cx
   - customer-service
   - cx

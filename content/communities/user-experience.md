@@ -22,9 +22,11 @@ community_list:
 Join other federal user experience practitioners and learn how to make better user-centered products.
 
 ### Join
+
 Send an email from your official government email to [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20UX%20Community), with “Join UX Community” in the subject line.
 
 ### Community Managers:
+
 Jean Fox (BLS) and Silvia Salazar (NIH)
 
 ### Overview
@@ -50,3 +52,7 @@ Our members include more than 1,100 federal, state, and local U.S. government em
 ### Key Resources
 
 * https://www.usability.gov/
+
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

@@ -10,7 +10,7 @@ host: "U.S. Web Design System"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-june-2020-registration-96967447245
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4340563&CustomerID=321
-
+draft: true
 # start date
 date: 2020-06-18 14:30:00 -0500
 
@@ -28,14 +28,18 @@ topics:
 authors:
   - dan-williams
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform: 
 
 # YouTube ID
 youtube_id:
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /events/
 
 # Make it better ♥
 ---

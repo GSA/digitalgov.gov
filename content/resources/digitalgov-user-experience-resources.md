@@ -18,9 +18,9 @@ We want to help you make better digital products. We believe that a little user 
 
 DigitalGov&#8217;s user experience resources provide tools for federal employees on how to:
 
-  * Make products and services more user-friendly
-  * Save money via user research
-  * Create successful experiences
+* Make products and services more user-friendly
+* Save money via user research
+* Create successful experiences
 
 ## Four User Experience Resources to Help You:
 
@@ -40,5 +40,5 @@ For more than a year the [API Usability Evaluations](https://pages.18f.gov/API-U
 
 See the results of our federal-wide User Experience Survey and learn about government user research trends, interests and challenges.
 
-  * 2014 [Federal User Experience Survey]({{< ref "2014-11-21-results-2014-federal-user-experience-survey.md" >}})
-  * 2013 [Federal User Experience Survey](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/2013-Federal-UX-Survey.pptx)
+* 2014 [Federal User Experience Survey]({{< ref "2014-11-21-results-2014-federal-user-experience-survey.md" >}})
+* 2013 [Federal User Experience Survey](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/2013-Federal-UX-Survey.pptx)

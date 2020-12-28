@@ -18,3 +18,17 @@
 		}
 	}
 }
+
+.box.base-light{
+	@include u-bg('base-light');
+}
+
+.box.base{
+	@include u-bg('base');
+	@include u-text('white');
+}
+
+.box.base-dark{
+	@include u-bg('base-dark');
+	@include u-text('white');
+}

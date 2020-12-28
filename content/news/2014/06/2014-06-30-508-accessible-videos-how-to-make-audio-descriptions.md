@@ -17,25 +17,22 @@ topics:
   - us-department-of-veterans-affairs
   - VA
   - YouTube
----
 
-[{{< legacy-img src="2014/07/600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg" alt="600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/850-x-350-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg)
+---
 
 ## What are Audio Descriptions?
 
-<p dir="ltr">
-  Audio Description, also called descriptive video or video description, is an additional audio track that describes and gives context for essential visual information. Audio Description makes videos and multimedia accessible to people who have &#8220;low vision&#8221; (very poor vision), or who are blind, by capturing what is happening on screen into audible descriptions that are played during natural pauses in the audio track. Here is <a href="http://www.youtube.com/watch?v=BfGYV7dHIbY&list=UURZkbmj75un6xMQo6mjUWyA&index=3&feature=plcp">a video that explains why audio descriptions are important</a> to include.
-</p>
+Audio Description, also called descriptive video or video description, is an additional audio track that describes and gives context for essential visual information. Audio Description makes videos and multimedia accessible to people who have &#8220;low vision&#8221; (very poor vision), or who are blind, by capturing what is happening on screen into audible descriptions that are played during natural pauses in the audio track. Here is <a href="http://www.youtube.com/watch?v=BfGYV7dHIbY&list=UURZkbmj75un6xMQo6mjUWyA&index=3&feature=plcp">a video that explains why audio descriptions are important</a> to include.
+
+{{< legacy-img src="2014/07/600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg" alt="600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated" >}}
 
 You may be familiar with “alternative text&#8221; (or “alt text”), which describes an image on a website. Audio Description takes that equivalent message to another level—detailing the visual content in a film rather than just a static image. Attaching a written transcript or description of your video’s visuals will **NOT** fulfill the Audio Description requirement. Why? Providing a separate file that people need to switch back and forth from isn&#8217;t a comparable experience.
 
 Audio Description is usually delivered as a separate audio track that a person would play alongside the original video (in the same way as a commentary on a DVD). The Audio Description adds additional information during the pauses or periods of silence within the audio track.
 
-Some examples of videos with captions and separate transcripts can be see at the Department of Justice&#8217;s [ADA Video Gallery](http://www.ada.gov//videogallery.htm) and the Department of Veterans Affairs&#8217; [MyCareer@VA Video Gallery](http://www.mycareeratva.va.gov/about/Pages/VideoGallery.aspx).
+Some examples of videos with captions and separate transcripts can be see at the Department of Justice&#8217;s [ADA Video Gallery](http://www.ada.gov/videogallery.htm).
 
-<p dir="ltr">
-  There are three types of audio description:
-</p>
+There are three types of audio description: 
 
   1. **Closed audio description**—These descriptions can be turned on or off by the viewer, since they’re saved inside your video.
   2. **Open audio description**—These play automatically when you click play and can&#8217;t be turned off.

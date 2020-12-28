@@ -15,7 +15,7 @@ summary: "There is a growing number of uses for user experience (UX) design, as 
 topics: 
   - design
   - user-experience
-  - ux
+  
 
 # see all authors at https://digital.gov/authors
 authors: 

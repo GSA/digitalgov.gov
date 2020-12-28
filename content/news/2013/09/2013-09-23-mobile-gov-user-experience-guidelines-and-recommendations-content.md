@@ -6,7 +6,6 @@ summary: 'Content refers to the various types of material in different formats, 
 topics:
   - content
   - mobile
-  - ux
   - mobile-apps
   - mobile-gov
   - user-experience

@@ -15,7 +15,6 @@ topics:
   - user-experience
   - accessibility
   - cx
-  - ux
   - cx
 featured_image: 
   uid: travel-journey-mapping-processes-slide

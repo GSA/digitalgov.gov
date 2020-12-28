@@ -1,6 +1,6 @@
 {{ define "content" }}
 
-<main role="main">
+<main role="main" id="main-content">
 
   <article>
     <div class="grid-container">
@@ -26,10 +26,6 @@
           <div class="content">
             {{ .Content }}
           </div>
-        </div>
-
-        <div class="grid-col-12 tablet-lg:grid-col-4">
-          {{- partial "core/guides/guide-nav" . -}}
         </div>
 
       </div>

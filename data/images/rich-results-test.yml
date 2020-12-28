@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/rich-results-test.png
+
+# Image shortcode: {{< img src="rich-results-test" >}}
+
+date     : 2020-06-09 10:17:52 -0400
+uid      : rich-results-test
+width    : 2880
+height   : 1800
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Screen capture shows the preview of SpecialAnnouncement for the Cases in the U.S. CDC webpage with the accordion closed in Google Rich Results Test." 

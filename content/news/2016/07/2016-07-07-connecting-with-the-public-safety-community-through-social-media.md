@@ -8,10 +8,10 @@ authors:
 topics:
   - mobile
   - social-media
-  - First Responder Network Authority
   - firstnet
   - mobile
   - social-media
+
 ---
 
 Technology is bringing the world closer together – from connecting people across the country instantly by live video chats to tapping into the insights of data analytics. This is the type of power that [FirstNet](http://www.firstnet.gov/) aims to bring to the public safety community through the [nationwide public safety broadband network](http://www.firstnet.gov/network).
@@ -26,6 +26,10 @@ Across public safety disciplines, people come together on Facebook to share stor
 
 Facebook is also a place for camaraderie and a shared sense of mission. It is great seeing the many faces of EMS via the <a href="https://www.facebook.com/EMSWorldFans/photos/?tab=album&album_id=870024156372668" target="_blank">selfie albums</a> on <a href="https://www.facebook.com/EMSWorldFans/" target="_blank">EMS World Magazine’s</a> page! And, of course, we always follow the #PublicSafetyTech posts, like this one on <a href="https://www.facebook.com/policeone/posts/10154305604669740" target="_blank">acoustic sensors to identify gunshots</a> from <a href="https://www.facebook.com/policeone" target="_blank">PoliceOne</a>’s page.
 
-At FirstNet, we are excited to have joined the public safety community on <a href="http://facebook.com/firstnetgov" target="_blank">Facebook</a> and look forward to engaging with response agencies and individuals across the country as we work to plan and deploy the [FirstNet network](http://www.firstnet.gov/network). {{< legacy-img src="2016/07/600-x-425-FirstNetgov-Network-Lines-on-USA-Map-and-Mobile-Devices.jpg" alt="FirstNetgov Network Lines on USA Map and Mobile Devices" caption="" >}} 
+At FirstNet, we are excited to have joined the public safety community on <a href="http://facebook.com/firstnetgov" target="_blank">Facebook</a> and look forward to engaging with response agencies and individuals across the country as we work to plan and deploy the [FirstNet network](http://www.firstnet.gov/network). 
 
-We will also be using Facebook as a forum to highlight the law enforcement officers, firefighters, EMTs, and other public safety personnel who risk their lives to secure and protect our communities. We want to hear from you! Please follow our page and share your thoughts, stories, and pictures at <a href="http://facebook.com/firstnetgov" target="_blank">http://facebook.com/firstnetgov</a>._This post was originally published on the [FirstNet blog](http://www.firstnet.gov/newsroom/blog)._
+{{< legacy-img src="2016/07/600-x-425-FirstNetgov-Network-Lines-on-USA-Map-and-Mobile-Devices.jpg" alt="FirstNetgov Network Lines on USA Map and Mobile Devices" caption="" >}} 
+
+We will also be using Facebook as a forum to highlight the law enforcement officers, firefighters, EMTs, and other public safety personnel who risk their lives to secure and protect our communities. We want to hear from you! Please follow our page and share your thoughts, stories, and pictures at <a href="http://facebook.com/firstnetgov" target="_blank">http://facebook.com/firstnetgov</a>. 
+
+_This post was originally published on the [FirstNet blog](http://www.firstnet.gov/newsroom/blog)._ 

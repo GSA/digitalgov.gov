@@ -32,9 +32,7 @@
     {{- if .Params.location -}}
     "location" : "{{- .Params.location -}}",
     {{- end -}}
-    {{- if .Params.bio -}}
-    "bio" : "{{- .Params.bio -}}",
-    {{- end -}}
+    {{- partial "api/bio" . -}}
     {{- if .Params.bio_url -}}
     "bio_url" : "{{- .Params.bio_url -}}",
     {{- end -}}
@@ -76,7 +74,7 @@
         "deck" : "{{- .Params.deck | markdownify -}}",
         {{- end -}}
         {{- if (isset .Params "summary") -}}
-        "summary" : "{{- .Params.summary -}}",
+        "summary" : "{{- replace .Params.summary "\n" "\\n" -}}",
         {{- end -}}
         "date" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
         {{- if .Lastmod -}}

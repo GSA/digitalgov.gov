@@ -7,11 +7,10 @@ authors:
   - jonathan-rubin
 topics:
   - monthly-theme
-  - ux
   - cx
   - digitalgov-user-experience-program
   - user-experience
-  - ux
+  
 ---
 
 {{< legacy-img src="2014/11/600-x-250-UX-monthly-theme-slider-by-Jessica-Skretch-FTCgov.jpg" alt="Jessica Skretch, FTC" caption="" >}}

@@ -9,7 +9,7 @@ topics:
   - content
   - data
   - metrics
-  - ux
+  - user-experience
   - analytics
   - browsers
   - digital-analytics-program

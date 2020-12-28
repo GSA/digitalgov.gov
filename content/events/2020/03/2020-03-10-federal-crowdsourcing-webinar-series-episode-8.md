@@ -11,41 +11,42 @@ registration_url: https://www.eventbrite.com/e/98255467749
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4375888&CustomerID=321
 
 # start date
-date: 2020-03-10 14:00:00 -0500
+date: 2020-03-10 15:00:00 -0500
 
 # end date
-end_date: 2020-03-10 15:00:00 -0500
+end_date: 2020-03-10 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - challenges
   - crowdsourcing
   - innovation
   - nasa
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
+  - carissa-callini
+  - jeffrey-doi
   - tammy-white
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
-
 # YouTube ID
-youtube_id:
+youtube_id: zQWcKElVEFU
 
 # Primary Image (for social media)
 primary_image: "challenge-card-episode-8"
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
 # Make it better ♥
-
 ---
-
-
-{{< img src="challenge-card-episode-8" >}}
 
 Have you ever been laser-focused on a problem for some time, only to have the solution suddenly come from an unlikely source? The best ideas can come from within our own organizations, perhaps an office or two away -- the hardest part is knowing when and how to open the topic to a larger group for ideas.
 
 {{< img-right src="nasa-work-logo" >}}
+
 The National Aeronautics and Space Administration (NASA) thrives on tapping its internal braintrust to bring inspiring and innovative ideas forward. Through its internal crowdsourcing platform, [NASA@WORK](https://www.nasa.gov/coeci/nasa-at-work), the space agency encourages its staff to post problems in the form of challenges in which the entire NASA community can participate.
 
 Managed by NASA’s [Center of Excellence for Collaborative Innovation](https://www.nasa.gov/offices/COECI/index.html) (CoECI), NASA@WORK specialists work closely with program teams to prepare challenges, accept ideas, and evaluate solutions in as little as 10 weeks. Winning ideas and their authors are recognized widely across the agency.

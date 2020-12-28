@@ -9,7 +9,7 @@ topics:
   - data-gov
 authors:
   - pashlock
-redirectto: https://resources.data.gov/tools/how-to-get-your-open-data-on-datagov/
+redirectto: https://resources.data.gov/resources/data-gov-open-data-howto/
 
 ---
 
@@ -17,14 +17,14 @@ Data.gov is the central clearinghouse for open data from the United States feder
 
 This guide is primarily for the [Open Data Points of Contact](https://project-open-data.cio.gov/points-of-contact/) (POC) at each agency. If you would like to add data to Data.gov and you are not the POC for your agency, please contact your POC. If your agency has no POC listed, please continue reading and [contact Data.gov](https://www.data.gov/contact) for assistance.
 
-  * [**Overview**](#overview "Overview")
-  * [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1-organize-your-open-data-for-the-data-gov-pipeline "Step 1: Organize your open data for the Data.gov Pipeline")
-      * [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
-      * [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
-      * [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
-  * [**Step 2: Coordinate with Data.gov**](#step-2-coordinate-with-data-gov "Step 2: Coordinate with Data.gov")
-  * [**Resources & Tools**](#resources-tools "Resources & Tools")
-  * [**Frequently Asked Questions**](#frequently-asked-questions "Frequently Asked Questions")
+* [**Overview**](#overview "Overview")
+* [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1-organize-your-open-data-for-the-data-gov-pipeline "Step 1: Organize your open data for the Data.gov Pipeline")
+    * [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
+    * [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
+    * [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
+* [**Step 2: Coordinate with Data.gov**](#step-2-coordinate-with-data-gov "Step 2: Coordinate with Data.gov")
+* [**Resources & Tools**](#resources-tools "Resources & Tools")
+* [**Frequently Asked Questions**](#frequently-asked-questions "Frequently Asked Questions")
 
 ## Overview
 
@@ -45,9 +45,9 @@ Additions, updates, and deletions occur through a _Harvest Source_ rather than w
 
 Getting your data source ready for harvesting by the Data.gov catalog depends on your data source type:
 
-1.  **Federal Data with Project Open Data (non-geospatial):** The most common source is the Public Data Listing as required by the Federal Open Data Policy.
-2.  **Federal Geospatial Data:** Federal maps, images, GIS products, and other location-based data resources.
-3.  **Non-federal Data:** Non-federal government sources are not covered by the Federal Open Data Policy, but can be included in the Data.gov catalog voluntarily.
+1. **Federal Data with Project Open Data (non-geospatial):** The most common source is the Public Data Listing as required by the Federal Open Data Policy.
+2. **Federal Geospatial Data:** Federal maps, images, GIS products, and other location-based data resources.
+3. **Non-federal Data:** Non-federal government sources are not covered by the Federal Open Data Policy, but can be included in the Data.gov catalog voluntarily.
 
 The steps for all three types of data sources are described in detail below.
 
@@ -57,17 +57,16 @@ The steps for all three types of data sources are described in detail below.
 
 Project Open Data requires agencies to list and describe all agency data in the Public Data Listing. If a dataset is not public or restricted access, the metadata for that dataset is still included in the Public Data Listing, but any portion of the metadata that cannot be made public is redacted. The full, unredacted version of the metadata is provided in the Enterprise Data Inventory which is submitted to OMB and not made public.
 
-
 Agencies must provide a human readable Public Data Listing at `agency.gov/data` and a machine readable listing, as a standalone JSON file on the agency’s website at `agency.gov/data.json`. This `data.json` file is what gets harvested to the Data.gov catalog.
 
 Federal agencies that do not have a platform to inventory their metadata can make use of a free service hosted by Data.gov called inventory.data.gov (see the separate guide). Contact the Data.gov team via email if you’re interested in using this service.
 
 You can find more information about what is required by the policy in the [Data Catalog Requirements](https://project-open-data.cio.gov/catalog/) for Project Open Data, but the requirements relevant to Data.gov are outlined here:
 
-1.  **Open Data Policy Requirements**
-2.  All CFO-Act agencies must provide an Enterprise Data Inventory and Public Data Listing in accordance with the [Project Open Data metadata schema](https://project-open-data.cio.gov/v1.1/schema/) for the purposes of measuring compliance with OMB’s M-13-13
-3.  **Required:** Enterprise Data Inventory provided to OMB MAX
-4.  **Required:** Public Data Listing at: `https://________.gov/data.json`
+1. **Open Data Policy Requirements**
+2. All CFO-Act agencies must provide an Enterprise Data Inventory and Public Data Listing in accordance with the [Project Open Data metadata schema](https://project-open-data.cio.gov/v1.1/schema/) for the purposes of measuring compliance with OMB’s M-13-13
+3. **Required:** Enterprise Data Inventory provided to OMB MAX
+4. **Required:** Public Data Listing at: `https://________.gov/data.json`
 
 **An update to the Project Open Data Metadata Schema,** [**_Version 1.1_**](https://project-open-data.cio.gov/v1.1/schema/) **was released on November 6, 2014.**
 
@@ -114,13 +113,13 @@ In order to facilitate these requirements, the FGDC and Data.gov have developed 
 
 For agencies that provide geospatial data to GeoPlatform.gov and Data.gov, the following harvest sources must be provided:
 
-1.  **Open Data Policy Requirements**
+1. **Open Data Policy Requirements**
     All CFO-Act agencies must provide an Enterprise Data Inventory in accordance with the Project Open Data metadata schema (see _Federal Data with Project Open Data above_). This includes geospatial **_and_** non-spatial data.
     **Required: Enterprise Data Inventory provided to OMB MAX**
 
-1.  **Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ To be successfully harvested by GeoPlatform.gov and Data.gov, all geospatial data should be provided via one [Catalog Service for the Web (CSW)](https://www.geoplatform.gov/csw-resources) endpoint.Required: A CSW endpoint, e.g.: [_https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities_](https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities)
+1. **Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ To be successfully harvested by GeoPlatform.gov and Data.gov, all geospatial data should be provided via one [Catalog Service for the Web (CSW)](https://www.geoplatform.gov/csw-resources) endpoint.Required: A CSW endpoint, e.g.: [_https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities_](https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities)
 
-1.  **Data without a Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ Lastly, to prevent duplication on Data.gov, all agencies that provide a CSW geospatial harvest source to GeoPlatform.gov and Data.gov should create an additional JSON file (called `/sdata-nonspatial-harvest.json`) to include all datasets that are **not** available via the consolidated Geospatial Harvest Source.**Required:** Datasets without a Geospatial Harvest Source for the Public Data Listing at: `https://________.gov/data-nonspatial-harvest.json`
+1. **Data without a Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ Lastly, to prevent duplication on Data.gov, all agencies that provide a CSW geospatial harvest source to GeoPlatform.gov and Data.gov should create an additional JSON file (called `/sdata-nonspatial-harvest.json`) to include all datasets that are **not** available via the consolidated Geospatial Harvest Source.**Required:** Datasets without a Geospatial Harvest Source for the Public Data Listing at: `https://________.gov/data-nonspatial-harvest.json`
 
 **Datasets Displayed on GeoPlatform.gov**
 
@@ -132,9 +131,9 @@ If an agency has a geospatial dataset in the data-nonspatial-harvest.json that s
 
 Data.gov incorporates data sources from state, local, and tribal governments. Non-federal sources are not covered by the Federal Open Data Policy, but can be included in the Data.gov catalog voluntarily. Depending on your local government open data platform, you may already have a harvest source that is Data.gov-ready, or it could take a little more work. Either way, the Data.gov team is available to answer questions about these requirements. For non-federal data to be connected to Data.gov, the following items are required:
 
-1.  **A Data Harvest Source**
+1. **A Data Harvest Source**
     Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from [Socrata](https://nycopendata.socrata.com/data.json) and [ArcGIS Open Data](http://opendata.dc.gov/data.json)), but it is possible to set up a harvest source with any data management system (see [this CKAN example](https://www.opendataphilly.org/data.json)). The metadata required from non-federal sources does not include the [USG noted fields](https://project-open-data.cio.gov/v1.1/schema/#USG-note) and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the Resources and Tools below. **Required:** A Harvest Source at: `https://_______.gov/data.json`, e.g. `https://data.brla.gov/data.json`
-2.  **A Terms of Use URL**
+2. **A Terms of Use URL**
     A publicly accessible Terms of Use (or Data Policy) URL or similar information in order to make it clear to Data.gov users when they are viewing datasets that are not covered by federal statutory and regulatory requirements.
     **Required:** A Terms of Use URL, _e.g. https://data.brla.gov/terms-of-service_
 
@@ -168,37 +167,37 @@ After you have logged in to OMB MAX, [email us](mailto:datagov@gsa.gov) to let u
 
 Once your Data.gov account is created, and your permissions are in place, you can log in and follow the steps below to create your harvest source:
 
-1.  Navigate to [http://catalog.data.gov](http://catalog.data.gov/)
-2.  Scroll to the bottom of the page and click the “Login” link
-3.  [Log in using OMB MAX](https://catalog.data.gov/user/login).
-4.  Navigate to [http://catalog.data.gov/harvest](http://catalog.data.gov/harvest)
-5.  Click the “Add Harvest Source” button
-6.  Enter information into the fields provided on the page. They include the following fields:
-    *   CKAN
-    *   Data.json
-    *   CSW Server
-    *   Web Accessible Folder (WAF)
-    *   Single spatial metadata document
-    *   Geoportal Server
-    *   Web Accessible Folder (WAF) Homogeneous Collection
-    *   Z39.50
-    *   ArcGIS Rest API
-    *   Autodetect
-    *   ISO 19115 Metadata (ISO 19139 XSD)
-    *   FGDC Minimal Validation
-    *   FGDC CSDGM Version 2.0, 1998 (FGDC-STD-001-1998)
-    *   FGDC CSDGM Biological Data Profile (FGDC-STD-001.1-1999)
-    *   FGDC CSDGM Metadata Profile for Shoreline Data (FGDC-STD-001.2-2001)
-    *   FGDC Extensions for Remote Sensing (FGDC-STD-012-2002)
-    1.  URL – The harvest source URL that contains your data
-    2.  Title – The title for your harvest source. This title is the name that will be displayed as the access link for the harvest source on Catalog.data.gov
-    3.  Description – A summary of the data provided by your harvest source
-    4.  Source Type – The format of the data provided by your harvest source (Note: Some data formats will undergo validation. You will be able to select the validation schema for your data after selecting the Source Type.) Data formats that are supported include:
-    5.  Update Frequency – How often you want your data to be harvested
-    6.  Validation: For Geospatial data below validation formats are available, please choose the validation that is applicable for the metadata you are harvesting.
-    7.  Dataset Visibility – You can display the dataset to the public or have it remain only visible to your organization members
-    8.  Organization – Select your organization in this field to associate your harvest source to it.
-7.  Once you have entered all of your information, click the “Save” button to create your harvest source.
+1. Navigate to [http://catalog.data.gov](http://catalog.data.gov/)
+2. Scroll to the bottom of the page and click the “Login” link
+3. [Log in using OMB MAX](https://catalog.data.gov/user/login).
+4. Navigate to [http://catalog.data.gov/harvest](http://catalog.data.gov/harvest)
+5. Click the “Add Harvest Source” button
+6. Enter information into the fields provided on the page. They include the following fields:
+    * CKAN
+    * Data.json
+    * CSW Server
+    * Web Accessible Folder (WAF)
+    * Single spatial metadata document
+    * Geoportal Server
+    * Web Accessible Folder (WAF) Homogeneous Collection
+    * Z39.50
+    * ArcGIS Rest API
+    * Autodetect
+    * ISO 19115 Metadata (ISO 19139 XSD)
+    * FGDC Minimal Validation
+    * FGDC CSDGM Version 2.0, 1998 (FGDC-STD-001-1998)
+    * FGDC CSDGM Biological Data Profile (FGDC-STD-001.1-1999)
+    * FGDC CSDGM Metadata Profile for Shoreline Data (FGDC-STD-001.2-2001)
+    * FGDC Extensions for Remote Sensing (FGDC-STD-012-2002)
+    1. URL – The harvest source URL that contains your data
+    2. Title – The title for your harvest source. This title is the name that will be displayed as the access link for the harvest source on Catalog.data.gov
+    3. Description – A summary of the data provided by your harvest source
+    4. Source Type – The format of the data provided by your harvest source (Note: Some data formats will undergo validation. You will be able to select the validation schema for your data after selecting the Source Type.) Data formats that are supported include:
+    5. Update Frequency – How often you want your data to be harvested
+    6. Validation: For Geospatial data below validation formats are available, please choose the validation that is applicable for the metadata you are harvesting.
+    7. Dataset Visibility – You can display the dataset to the public or have it remain only visible to your organization members
+    8. Organization – Select your organization in this field to associate your harvest source to it.
+7. Once you have entered all of your information, click the “Save” button to create your harvest source.
 
 Once your harvest source is created, the Harvest Source page will display. To test your new harvest source, click on the “Admin” button, then click on the “Reharvest” button when it displays. The harvesting process should take few minutes to hours based on the number of datasets on the source. Once the harvesting is complete, a job report will be provided that will display any errors that have occurred, if any, during the harvesting process.
 
@@ -216,27 +215,27 @@ Once the harvester has been tested successfully, Data.gov will start automatical
 
 ### Resources
 
-*   Continually updated Federal Open Data Policy guidance and technical standards, commonly referred to as [Project Open Data](http://project-open-data.github.io/)
-*   Federal Open Data Policy Memo, [OMB M-13-13](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf)
-*   [FGDC geospatial metadata information](http://www.fgdc.gov/metadata)
-*   [GeoPlatform.gov initiative](http://www.fgdc.gov/initiatives/geospatial-platform)
-*   [Catalog.Data.gov CKAN Publisher Tutorial to facilitate GeoPlatform Geospatial Data Discovery](http://www.geoplatform.gov/sites/default/files/document_library/catalog_data_gov_publishing_tutorial.pdf)
-*   Metadata Recommendations Supporting Data Discovery and Use in Data.gov and GeoPlatform.gov _(add link when documented is updated at `https://cms.geoplatform.gov/sites/default/files/document_library`)_
+* Continually updated Federal Open Data Policy guidance and technical standards, commonly referred to as [Project Open Data](http://project-open-data.github.io/)
+* Federal Open Data Policy Memo, [OMB M-13-13](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf)
+* [FGDC geospatial metadata information](http://www.fgdc.gov/metadata)
+* [GeoPlatform.gov initiative](http://www.fgdc.gov/initiatives/geospatial-platform)
+* [Catalog.Data.gov CKAN Publisher Tutorial to facilitate GeoPlatform Geospatial Data Discovery](http://www.geoplatform.gov/sites/default/files/document_library/catalog_data_gov_publishing_tutorial.pdf)
+* Metadata Recommendations Supporting Data Discovery and Use in Data.gov and GeoPlatform.gov _(add link when documented is updated at `https://cms.geoplatform.gov/sites/default/files/document_library`)_
 
 ### Testing Tools
 
-*   [Project Op](https://www.data.gov/labs/)[en Data Dashboard](http://labs.data.gov/dashboard/offices): A dashboard to track the progress of agencies implementing Project Open Data on a quarterly basis
-*   [Project Open Data data.json Validator](http://labs.data.gov/dashboard/validate): A validator for v1.0 and v1.1 of the Project Open Data Metadata Schema
-*   Project Open Data Converters: A [converter](http://labs.data.gov/dashboard/datagov/csv_to_json) to transform CSV files into JSON as defined by the Project Open Data Metadata Schema and an [export API](http://labs.data.gov/dashboard/export) to export from the CKAN API and transform the metadata into JSON as defined by the Project Open Data Metadata Schema
-*   [Project Open Data Changeset Preview](http://labs.data.gov/dashboard/changeset) — Agencies can use the Project Open Data Dashboard [changeset tool](http://labs.data.gov/dashboard/changeset) to compare their data.json file to data that currently exists on Data.gov to see what will be replaced, added, or removed.
-*   Agencies can test the process of harvesting their data.json by [requesting access to Data.gov’s test harvester](https://github.com/GSA/data.gov/wiki/Guide-to-creating-an-account-for-and-using-the-test-harvester).
+* [Project Op](https://www.data.gov/labs/)[en Data Dashboard](http://labs.data.gov/dashboard/offices): A dashboard to track the progress of agencies implementing Project Open Data on a quarterly basis
+* [Project Open Data data.json Validator](http://labs.data.gov/dashboard/validate): A validator for v1.0 and v1.1 of the Project Open Data Metadata Schema
+* Project Open Data Converters: A [converter](http://labs.data.gov/dashboard/datagov/csv_to_json) to transform CSV files into JSON as defined by the Project Open Data Metadata Schema and an [export API](http://labs.data.gov/dashboard/export) to export from the CKAN API and transform the metadata into JSON as defined by the Project Open Data Metadata Schema
+* [Project Open Data Changeset Preview](http://labs.data.gov/dashboard/changeset) — Agencies can use the Project Open Data Dashboard [changeset tool](http://labs.data.gov/dashboard/changeset) to compare their data.json file to data that currently exists on Data.gov to see what will be replaced, added, or removed.
+* Agencies can test the process of harvesting their data.json by [requesting access to Data.gov’s test harvester](https://github.com/GSA/data.gov/wiki/Guide-to-creating-an-account-for-and-using-the-test-harvester).
 
 ## Frequently Asked Questions
 
-*   **[General](#faq-general)**
-*   **[Federal Data with Project Open Data](#faq-data)**
-*   **[Federal Geospatial](#faq-geospatial)**
-*   **[Non-federal](#faq-non-federal)**
+* **[General](#faq-general)**
+* **[Federal Data with Project Open Data](#faq-data)**
+* **[Federal Geospatial](#faq-geospatial)**
+* **[Non-federal](#faq-non-federal)**
 
 ### General
 

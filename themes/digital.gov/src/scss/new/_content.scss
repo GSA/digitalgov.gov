@@ -3,7 +3,7 @@
 .content{
   @include u-margin-bottom(5);
 }
-#topic .content *{
+.main-topic .content *{
   @include u-measure(6);
 }
 
@@ -37,10 +37,10 @@
     @include u-margin-bottom(0);
   }
 
+
   h3{
     @include u-text('medium');
   }
-
 
   // HR tags
   hr{
@@ -64,8 +64,9 @@
   code{
     @include u-padding-x('05');
     @include u-padding-y('1px');
-    @include u-bg('base-lightest');
-    @include u-font('mono', '2xs');
+    @include u-bg('gray-cool-3');
+    @include u-font('mono', 'xs');
+    @include u-line-height('mono', 1);
     @include u-color('red-50');
     @include u-border('1px', 'solid', 'base-lighter');
     @include u-radius(sm);
@@ -76,7 +77,7 @@
     @include u-padding-y(2);
     @include u-padding-right(4);
     @include u-padding-bottom('205');
-    @include u-bg('base-lightest');
+    @include u-bg('gray-cool-3');
     @include u-border('1px', 'solid', 'base-lighter');
     @include u-color('indigo-warm-80');
     @include u-radius('md');
@@ -100,36 +101,35 @@
 
   // tables
   table{
-    @include u-margin-y(2);
+    @include u-margin-y(5);
     @include u-font('sans', 'xs');
     @include u-width('full');
     tr{
-      th{
-        @include u-text('left');
-      }
       th,
       td{
         @include u-padding-y(1);
-        @include u-padding-x(1);
+        @include u-padding-x('05');
         vertical-align: top;
-        @include u-border-bottom('1px', 'solid', 'base-lighter');
+        @include u-border-x(0);
+    		@include u-border-y('1px','base-light','solid');
         a{
-          @include u-text('no-underline');
-          &:hover{
-            @include u-text('underline');
-          }
-        }
+    			@include u-text('no-underline');
+    			&:hover{
+    				span{
+    					@include u-text('underline');
+    				}
+    			}
+    		}
         .icon{
           @include u-width('205');
         }
       }
-      th:first-child,
-      td:first-child{
-        @include u-padding-left(0);
-      }
-      th:last-child,
-      td:last-child{
-        @include u-padding-right(0);
+      th{
+        @include u-text('left');
+    		@include u-text('bold');
+        @include u-border(0);
+    		@include u-padding-x('05');
+        @include u-border-top('2px','black','solid');
       }
     }
   }

@@ -1,6 +1,9 @@
 ---
 # View this page at https://digital.gov/event/2020/04/hosting-successful-live-events-by-federal
 # Learn how to edit our pages at https://workflow.digital.gov
+
+draft: true
+
 kicker: Social Media
 slug: hosting-successful-live-events-by-federal
 title: "On Air: How to Host Successful Live Events"
@@ -22,8 +25,8 @@ topics:
   - social-media
   - video
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # YouTube ID
 youtube_id:

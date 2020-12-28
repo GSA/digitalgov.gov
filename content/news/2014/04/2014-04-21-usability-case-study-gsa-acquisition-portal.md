@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - ux
   - digitalgov-user-experience-program
   - gsa
   - usability-case-study
@@ -16,7 +15,7 @@ topics:
   - user-experience
 ---
 
-<p dir="ltr">
+<p>
   Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it’s much better to have completed them before the public sees it.
 </p>
 
@@ -52,19 +51,19 @@ During the test, many people scrolled right past the hot buttons, sometimes not 
 
 Some of the feedback included expanding the Quick Links section to a wider set of activities. Several new links were identified and added. Also, test participants commented that the order of the links was confusing. The order was initially set to follow the acquisition process from solicitation to contract award, but alphabetization is more intuitive.
 
-<p dir="ltr">
+<p>
   Mullins also noted the testing served as a motivator for her team.
 </p>
 
-<p dir="ltr">
+<p>
   “We had a lot of people… provide positive feedback, which was motivation for the team in general,” she added. “After working on the project for four or five months, you start to lose momentum and [the testing] was great to keep us going and assure that we were moving in the right direction.”
 </p>
 
-<p dir="ltr">
+<p>
   For those looking to perform usability testing on their agency projects, Mullins said it’s important to “get buy-in” from others on the team and in management. From there, she offers the following advice:
 </p>
 
-<p dir="ltr">
+<p>
   “Go read a case study and drink the Kool-Aid, then the next thing to focus on is writing a good test plan, and make sure you build enough time into your schedule to make it happen.”
 </p>
 

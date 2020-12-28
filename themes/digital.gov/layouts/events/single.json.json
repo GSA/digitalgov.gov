@@ -18,7 +18,7 @@
     {{- end -}}
     {{- with .Site.Author.name -}}
     "author" : {
-        "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
+        "name" : "{{- . -}}"{{- with $.Site.Author.Params.url -}},
         "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
         "avatar": "{{- . | absURL -}}"{{- end -}}
     },
@@ -36,7 +36,7 @@
       "deck" : "{{- .Params.deck | markdownify -}}",
       {{- end -}}
       {{- if (isset .Params "summary") -}}
-      "summary" : "{{- .Params.summary -}}",
+      "summary" : "{{- replace .Params.summary "\n" "\\n" -}}",
       {{- end -}}
       "date" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
       {{- if .Lastmod -}}

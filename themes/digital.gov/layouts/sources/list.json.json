@@ -19,13 +19,13 @@
         "name" : "{{- .Params.name | markdownify -}}",
         {{- end -}}
         {{- if (isset .Params "summary") -}}
-        "summary" : "{{- .Params.summary -}}",
+        "summary" : "{{- replace .Params.summary "\n" "\\n" -}}",
         {{- end -}}
         {{- if (isset .Params "domain") -}}
         "domain" : "{{- .Params.domain -}}",
         {{- end -}}
         {{- if (isset .Params "icon") -}}
-        "icon" : "{{- .Params.icon -}}",
+        "icon" : "{{- .Params.logo -}}",
         {{- end -}}
         {{- if (isset .Params "weight") -}}
         "weight" : "{{- .Params.weight -}}",

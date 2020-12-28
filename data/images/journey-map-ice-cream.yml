@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/journey-map-ice-cream.png
+
+# Image shortcode: {{< img src="journey-map-ice-cream" >}}
+
+date     : 2020-06-15 12:37:17 -0400
+uid      : journey-map-ice-cream
+width    : 2514
+height   : 1018
+format   : png
+credit   : "" 
+caption  : "A simple spreadsheet version of a journey map for easy remote collaboration " 
+alt      : "A simple spreadsheet version of a journey map for easy remote collaboration " 

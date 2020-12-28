@@ -1,20 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2019/08/devops-community-practice-monthly-meeting
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: devops-community-practice-monthly-meeting
-title: 'DevOps Community of Practice Monthly Meeting'
-summary: 'In this talk, we will review how Recreation&#46;gov is built and operated to achieve its uptime goal for millions of yearly transactions&#46;'
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
-  - Zoom
-date: 2019-08-27 14:00:00 -0500
-end_date: 2019-08-27 14:30:00 -0500
-event_organizer: DigitalGov University
-host: DevOps CoP
-youtube_id: mIr4PijJW-c
+title: "DevOps Community of Practice Monthly Meeting"
+deck: ""
+summary: "In this talk, we will review how Recreation.gov is built and operated to achieve its uptime goal for millions of yearly transactions."
+host: "DevOps CoP"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
+date: 2019-08-27 15:00:00 -0500
+
+# end date
+end_date: 2019-08-27 15:30:00 -0500
+
+# see all topics at https://digital.gov/topics
 topics: 
   - devops
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - brian-fox
+
+# YouTube ID
+youtube_id: mIr4PijJW-c
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 In October of 2018, a redesigned site for supporting the mission of Recreation.gov went into production. This new system was built from the ground up to provide the best user experience (UX) for anyone to safely and sustainably experience some of the United States' most prized national treasures. Reservations for campsites at Yosemite National Park, permits to climb half-dome, and tickets to attend the White House Easter Egg Hunt are just some of the items for sale. Recreation.gov is home to over 3,500 facilities and 100,000 campsites around the country.

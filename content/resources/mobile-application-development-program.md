@@ -17,12 +17,10 @@ authors:
 
 {{< legacy-img src="/2015/02/600-x-418-Mobile-app-description1.jpg" alt="Mobile Application Development Program: Plan, Develop, Test, Launch" >}}
 
-  * **Plan**—Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers.
-  * **Develop—**Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.
-  * **Test—**Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
-  * **Launch—**Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
-
-
+* **Plan**—Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers.
+* **Develop—**Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.
+* **Test—**Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
+* **Launch—**Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
 
 <table width="100%">
   <tr>
@@ -33,7 +31,7 @@ authors:
 
       <ul>
         <li>
-          See what other agencies are doing in the mobile space on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
+          See what other agencies are doing in the mobile space on the <a href="https://www.usa.gov/mobile-apps">Federal Mobile Apps Directory</a>.
         </li>
         <li>
           Learn how agencies created these mobile products with our more than <a href="{{< ref "/topics/mobile-gov-experience" >}}">25 Mobile Gov Case Studies</a>.
@@ -86,7 +84,7 @@ authors:
           Use the federal friendly <a title="Federal-Compatible Terms of Service Agreements" href="{{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}">Terms of Service agreements</a> and get your app in the app stores.
         </li>
         <li>
-          Register your mobile product (app or mobile web site) with the <a title="The Federal Mobile Products Registry" href="{{< ref "service_us-digital-registry.md" >}}">Federal Mobile Products Registry</a> for placement on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
+          Register your mobile product (app or mobile web site) with the <a title="The Federal Mobile Products Registry" href="{{< ref "service_us-digital-registry.md" >}}">Federal Mobile Products Registry</a> for placement on the <a href="https://www.usa.gov/mobile-apps">Federal Mobile Apps Directory</a>.
         </li>
         <li>
           PROMOTE! Use the <a href="http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml">Federal Mobile Product API</a> and create widgets to highlight yours and other agencies’ mobile products.

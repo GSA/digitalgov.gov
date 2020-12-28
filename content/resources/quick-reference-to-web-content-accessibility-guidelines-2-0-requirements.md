@@ -13,9 +13,7 @@ This quick reference guide will help you meet Web Content Accessibility Guidelin
 
 ## Related Resources
 
-  * [Section 508 Standards for Electronic and Information Technology (29 USC § 794d)](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
-  * [Section 508 Laws – Section508.gov](http://www.section508.gov/)
-  * [Web Content Accessibility Guidelines 2.0 (WCAG 2.0) – W3C](http://www.w3.org/WAI/intro/wcag.php)
-  * [OMB M-05-04, Policies for Federal Agency Public Websites](http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
-
-#
+* [Section 508 Standards for Electronic and Information Technology (29 USC § 794d)](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
+* [Section 508 Laws – Section508.gov](http://www.section508.gov/)
+* [Web Content Accessibility Guidelines 2.0 (WCAG 2.0) – W3C](http://www.w3.org/WAI/intro/wcag.php)
+* [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (1.2 MB, 18 pages, November 2016)

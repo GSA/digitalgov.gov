@@ -16,7 +16,7 @@ topics:
   - mobile
   - uswds
   - user-experience
-  - ux
+  
 
 # What source published this?
 source: 'uswds'

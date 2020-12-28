@@ -14,7 +14,6 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - ux
   - content
   - content-strategy
   - cx
@@ -28,7 +27,7 @@ topics:
   - usability-testing
   - user-experience
   - user research
-  - ux
+  
 ---
 
 Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. It’s our job, after all, to nurture the ongoing process of creating, updating, and testing. But, there are those sites or pages that never seem to make it to the high-priority list. For our Web team, this was our Center’s staff Intranet site.

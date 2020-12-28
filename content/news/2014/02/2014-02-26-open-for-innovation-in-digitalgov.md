@@ -12,15 +12,15 @@ topics:
   - innovation
 ---
 
-<p id="docs-internal-guid-2be0b883-1e35-bf9a-aa33-087a71ace423" dir="ltr">
+<p id="docs-internal-guid-2be0b883-1e35-bf9a-aa33-087a71ace423">
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/InnovationChalkboard1.jpg">{{< legacy-img src="2014/02/InnovationChalkboard1.jpg" alt="Innovation written on a chalkboard" >}}</a>There’s tons of great work and innovations happening in federal agencies, and it is happening fast.
 </p>
 
-<p dir="ltr">
-  From <a href="{{< ref "/topics/mobile" >}}">mobile</a>, to <a href="{{< ref "/topics/social-media" >}}">social</a>, to <a href="{{< ref "/topics/ux" >}}">user experience</a>, to <a href="{{< ref "/topics/api" >}}">APIs</a>, to <a href="{{< ref "/topics/code" >}}data1/">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
+<p>
+  From <a href="{{< ref "/topics/mobile" >}}">mobile</a>, to <a href="{{< ref "/topics/social-media" >}}">social</a>, to <a href="{{< ref "/topics/user-experience" >}}">user experience</a>, to <a href="{{< ref "/topics/api" >}}">APIs</a>, to <a href="{{< ref "/topics/data" >}}">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
 </p>
 
-<p dir="ltr">
+<p>
   How do we tap into this agency expertise? Learn from others’ hits and misses? Identify roadmaps, sample documents, tools? Speed up the adoption of digital tools to provide the experience that citizens expect?
 </p>
 

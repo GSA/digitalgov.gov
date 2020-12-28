@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/nist-logo-1200x630.png
+
+# Image shortcode: {{< img src="nist-logo-1200x630" >}}
+
+date     : 2020-10-08 09:54:21 -0400
+uid      : nist-logo-1200x630
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 

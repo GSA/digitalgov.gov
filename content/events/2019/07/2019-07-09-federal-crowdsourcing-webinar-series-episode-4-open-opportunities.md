@@ -1,18 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2019/07/federal-crowdsourcing-webinar-series-episode-4
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: federal-crowdsourcing-webinar-series-episode-4-open-opportunities
-title: 'Federal Crowdsourcing Webinar Series, Episode 4&#58; Open Opportunities'
-summary: 'The Open Opportunities program is a “win-win” for federal employees looking to refresh their skills and U&#46;S&#46; agencies seeking talent, energy, and enthusiasm from across a diverse cross-section of the federal workforce&#46;'
-featured_image:
-  uid: challengegov-card-episode-4
-  alt: ''
-event_type:
-  - online
-date: 2019-07-09 14:00:00 -0500
-end_date: 2019-07-09 15:00:00 -0500
-event_organizer: DigitalGov University
-host: Challenge.gov
+title: "Federal Crowdsourcing Webinar Series, Episode 4: Open Opportunities"
+deck: ""
+summary: "The Open Opportunities program is a “win-win” for federal employees looking to refresh their skills and U.S. agencies seeking talent, energy, and enthusiasm from across a diverse cross-section of the federal workforce."
+host: "Challenge.gov"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
+date: 2019-07-09 15:00:00 -0500
+
+# end date
+end_date: 2019-07-09 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - crowdsourcing
+  - open-opportunities-program
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - lnelson
+  - tammy-white
+
+# YouTube ID
 youtube_id: P2zYuqikgzY
 
+# Primary Image (for social media)
+primary_image: "challengegov-card-episode-4"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 During this episode of the Federal Crowdsourcing Webinar Series, we met Lisa Nelson, engagement manager for the Open Opportunities program. She shared how agencies are crowdsourcing for talent to respond quickly to critical mission needs and changes, and how federal employees benefit from the experiential professional development offered.

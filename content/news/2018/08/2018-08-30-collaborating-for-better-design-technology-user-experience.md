@@ -8,13 +8,12 @@ authors:
 topics:
   - design
   - product-management
-  - ux
   - accessibility
   - innovation
   - usability
   - user-centered-design
   - user-experience
-  - ux
+  
 featured_image:
   uid: accessibility-stock-photo
   alt: 'Photo of two men working on mobile app development and design at a whiteboard&#46;'

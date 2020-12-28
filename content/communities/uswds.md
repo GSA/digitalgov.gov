@@ -33,8 +33,10 @@ community_list:
     subscribe_email: uswds@support.digitalgov.gov
     subscribe_email_subject: "Join USWDS Slack"
     subscribe_form: https://chat.18f.gov/
-    members: 114
+    members: 108
     emails_per_week:
+
+redirectto: https://designsystem.digital.gov/about/community/
 
 # Make it better ♥
 
@@ -55,14 +57,19 @@ Join the `#uswds-public` channel in our Slack at [chat.18f.gov](https://chat.18f
 **Community Manager:** Dan Williams, U.S. General Services Administration (GSA)
 
 ## What we do
+
 We support the U.S. Web Design System’s efforts to make it easier to build accessible, mobile-friendly government websites for the American public.
 
 ### Additional Resources
 
-- [The U.S. Web Design System](https://designsystem.digital.gov/) 
-- [USWDS on GitHub](https://github.com/uswds/uswds/) 
-- [Join the USWDS Slack](https://chat.18f.gov/) 
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [USWDS on GitHub](https://github.com/uswds/uswds/)
+- [Join the USWDS Slack](https://chat.18f.gov/)
 - [Follow @USWDS on Twitter](https://twitter.com/uswds?lang=en)
 - [Email the USWDS team](mailto:uswds@support.digitalgov.gov)
+- [View our training video playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nGqDYCNsCMHCQ9MdD5jfB01)
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

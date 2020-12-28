@@ -17,6 +17,7 @@ topics:
 authors:
   - jay-benforado
   - sophia-b-liu
+  - john-mcLaughlin
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
@@ -32,7 +33,7 @@ aliases:
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "listserv@listserv.gsa.gov"
+    subscribe_email: "FCPCCS-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "subscribe FCPCCS"
     subscribe_email_body: "enter your name + agency you work for"
     members: 427
@@ -53,6 +54,8 @@ Jay Benforado, Deputy Chief Innovation Officer, Office of Research and Developme
 
 Sophia B. Liu, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
 
+John McLaughlin, Education Program Manager, Office of Education, National Oceanic and Atmospheric Administration (NOAA)
+
 ## Overview
 
 The FedCCS seeks to expand and improve the U.S. government’s use of crowdsourcing, citizen science, and similar public participation techniques for the purpose of enhancing agency mission, scientific, and societal outcomes. The CCS seeks to create a nurturing ecosystem for federally supported services, the science, technology, engineering and math (STEM) disciplines, and sciences that draw on public participation and partnership. You can learn more about the activities of this community in this [two-page overview document](https://digital.gov/pdf/FedCCS.pdf).
@@ -67,8 +70,11 @@ The community meets on the last Thursday of every month from 2:30 – 4:30 pm E.
 
 ## Key Resources
 
-*   [The CitizenScience.Gov Website](https://www.citizenscience.gov/)
-*   [The Federal Crowdsourcing and Citizen Science Toolkit](https://www.citizenscience.gov/toolkit/)
-*   [Federal Crowdsourcing and Citizen Science Catalog](https://www.citizenscience.gov/catalog/)
-*   [Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3724&num=0&edition=prelim)
-*   [Implementation of Federal Prize and Citizen Science Authority: Fiscal Years 2017-18 Report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf)
+* [The CitizenScience.Gov Website](https://www.citizenscience.gov/)
+* [The Federal Crowdsourcing and Citizen Science Toolkit](https://www.citizenscience.gov/toolkit/)
+* [Federal Crowdsourcing and Citizen Science Catalog](https://www.citizenscience.gov/catalog/)
+* [Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3724&num=0&edition=prelim)
+* [Implementation of Federal Prize and Citizen Science Authority: Fiscal Years 2017-18 Report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf)
+
+## Community Conduct
+When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).

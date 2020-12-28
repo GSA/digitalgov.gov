@@ -9,7 +9,7 @@ topics:
   - api
   - design
   - user-testing-and-research
-  - ux
+  - user-experience
   - api
   - digitalgov-user-experience-program
   - fda

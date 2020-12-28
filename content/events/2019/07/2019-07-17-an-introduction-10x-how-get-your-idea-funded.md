@@ -1,19 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2019/07/an-introduction-10x-how-get-your
+# Learn how to edit our pages at https://workflow.digital.gov
 slug: an-introduction-10x-how-get-your-idea-funded
-title: 'An Introduction to 10x and How to Get Your Idea Funded'
-summary: 'Learn how you can work with the new investment fund for technology products in the government&#46;'
-featured_image:
-  uid: 10x-funded-cover
-  alt: '10x&#58; Get Your Idea Funded'
-event_type:
-  - youtube-live
-date: 2019-07-17 14:00:00 -0500
-end_date: 2019-07-17 15:00:00 -0500
-event_organizer: DigitalGov University
-host: 10x
+title: "An Introduction to 10x and How to Get Your Idea Funded"
+deck: ""
+summary: "Learn how you can work with the new investment fund for technology products in the government."
+host: "10x"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/an-introduction-to-10x-and-how-to-get-your-idea-funded-registration-65120640589
+captions: 
+
+# start date
+date: 2019-07-17 15:00:00 -0500
+
+# end date
+end_date: 2019-07-17 16:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - 10x
+  - innovation
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - jeremyzilar
+  - nico-papafil
+  - sarah-crane
+  - will-cahoe
+
+# YouTube ID
 youtube_id: EnRVrJz2Ut0
 
+# Primary Image (for social media)
+primary_image: "10x-funded-cover"
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
+
+# Make it better ♥
 ---
 
 Do you work on a product or service in government that has an effect on the public? Do you have an idea for how to transform a product or service to make the government better or more effective?

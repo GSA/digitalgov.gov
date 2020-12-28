@@ -10,7 +10,7 @@ topics:
   - design
   - metrics
   - user-testing-and-research
-  - ux
+  - user-experience
   - customer-satisfaction
   - GobiernoUSAgov
   - responsive-web-design

@@ -12,23 +12,23 @@ topics:
   - YouTube
 ---
 
-<p dir="ltr">
+<p>
   In July 2013, <a href="http://www.fs.fed.us/" target="_blank">U.S. Forest Service</a> fisheries biologist <strong>Pete Schneider</strong> launched a <a href="http://www.youtube.com/live/" target="_blank">YouTube Live</a> video event from the <a href="http://www.alaskageographic.org/static/847/mendenhall-glacier-visitor-center-juneau" target="_blank">Mendenhall Glacier Visitor Center</a> in Alaska.  The goal of the project was to not only deliver a reliable 2-month long, 24/7, live video stream where an international audience could witness spawning Sockeye salmon, hungry <a href="http://www.adfg.alaska.gov/index.cfm?adfg=dollyvarden.main" target="_blank">Dolly Varden</a>, cunning <a href="http://www.adfg.alaska.gov/index.cfm?adfg=cutthroat.main" target="_blank">Cutthroat</a>, and schools of disorientated <a href="http://www.adfg.alaska.gov/index.cfm?adfg=cohosalmon.main" target="_blank">Coho fry</a>, but to also use the platform as way to collaborate and converse with viewers.
 </p>
 
-<p dir="ltr">
+<p>
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/female-sockeye-steep-creek_NEW.jpg">{{< legacy-img src="2013/11/female-sockeye-steep-creek_NEW.jpg" alt="Female Sockeye" >}}</a>
 </p>
 
-<p dir="ltr">
+<p>
   Watchers of the live salmon cam welcomed the opportunity to collaborate, too.  They shared experiences such as recognizing a familiar fish hovering in front of the camera, bear sightings, and their observations during the Sockeye spawning ritual.  Numerous questions were asked on the commenting thread, located adjacent to the live video stream canvas.  Sometimes users would answer another’s question, but Pete would frequently engage and educate the audience as to what was happening; for instance redd building by a Sockeye salmon, or to help someone identify an unfamiliar species of fish.
 </p>
 
-<p dir="ltr">
+<p>
   A few weeks into the project we quickly realized the power of what had been accomplished. We had just delivered a small piece of Alaska, live, to the world over the Internet.
 </p>
 
-<p dir="ltr">
+<p>
   Success wasn’t obtained only because we could stream live video on the Internet, rather the technology enabled and propelled the project to a new level.  The true ingredients for success were:
 </p>
 
@@ -36,7 +36,7 @@ topics:
   2. The content, an ecosystem of teaming fish, occasional river otters and a few hungry bears, provided the hook to captivate a broad audience interested in seeing a small piece of Alaska up close.
   3. A nimble project team of two that left out any unneeded bureaucracy and overhead.  The team possessed the right amount of knowledge and background to work through any technical obstacle.  After a reliable live video stream was established, communications staff helped with messaging through email, the Internet, and social media.  The project team developed a [simple technical diagram](https://docs.google.com/drawings/d/1uYITRf5iJcAw8U-Rx9t5XpkZ-KHTcS516hlUyOSf-BM/edit) for others to enjoy.
 
-<p dir="ltr">
+<p>
   Here are a few lessons learned from our live video experience thus far:
 </p>
 

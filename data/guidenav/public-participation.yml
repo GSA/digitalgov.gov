@@ -1,0 +1,16 @@
+# Navigation YML file for public participation guide
+showNextPrevious: true
+showReadTime: true
+nav:
+- title    : 'Overview'
+  path     : '/guides/public-participation/_index.md'
+- title    : 'Establish goals'
+  path     : '/guides/public-participation/establish-goals.md'
+- title    : 'Understand the Playing Field'
+  path     : '/guides/public-participation/understand.md'
+- title    : 'Design Participation'
+  path     : '/guides/public-participation/design-participation.md'
+- title    : 'Facilitate Participation'
+  path     : '/guides/public-participation/facilitate-participation.md'
+- title    : 'Evaluate and Report'
+  path     : '/guides/public-participation/evaluate-report.md'

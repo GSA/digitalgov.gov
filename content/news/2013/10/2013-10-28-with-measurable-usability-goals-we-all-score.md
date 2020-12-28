@@ -7,7 +7,7 @@ authors:
   - katie-messner
 topics:
   - user-testing-and-research
-  - ux
+  - user-experience
   - HHS
   - top-tasks
   - united-states-department-of-health-and-human-services

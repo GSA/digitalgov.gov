@@ -7,12 +7,11 @@ authors:
   - meghan-lazier
 topics:
   - product-management
-  - ux
   - design
   - communication
   - project-management
   - user-experience
-  - ux
+  
 featured_image:
   uid: old-boxing-gloves-nailed-to-the-textured-wall-viktor-gladkov-istock-thinkstock-506102725
   alt: 'Old boxing gloves nailed to a textured wall.'

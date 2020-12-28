@@ -46,7 +46,7 @@ As we tried to figure out our role, our team walked through the following though
 </li>
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en" dir="ltr">
+  <p lang="en">
     Learn what the science says about <a href="https://twitter.com/hashtag/cupping?src=hash">#cupping</a>, a traditional Chinese medicine practice: <a href="https://t.co/0CZvqaaU4Y">https://t.co/0CZvqaaU4Y</a> <a href="https://t.co/cYvnxOq1f4">pic.twitter.com/cYvnxOq1f4</a>
   </p>
   

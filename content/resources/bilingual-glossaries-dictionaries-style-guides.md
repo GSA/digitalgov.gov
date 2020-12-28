@@ -9,7 +9,7 @@ deck: "Governmentwide resources to make communicating government information to 
 summary: "Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - accessibility
   - content
   - multilingual
@@ -17,7 +17,7 @@ topics:
   - multilingual-community
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - lgodfrey
   - lmartinez
 
@@ -28,7 +28,7 @@ authors:
 weight: 2
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /resources/spanish-language-style-guide-and-glossaries/
 
 
@@ -54,7 +54,22 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 #### Social Security Administration (SSA)
 
-This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html)  offers information ranging from states and days of the weeks to health.
+This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html) offers information ranging from states and days of the weeks to health.
+
+**Social Security Information in Other Languages**
+
+* [American Sign Language - watch on YouTube](https://www.youtube.com/watch?v=H9T8cDmFVEg)
+* [Arabic](https://www.ssa.gov/multilanguage/Arabic/arabic.htm)
+* [Chinese (Traditional; Long Form)](https://www.ssa.gov/multilanguage/Chinese/chinese.htm)
+* [Farsi](https://www.ssa.gov/multilanguage/Farsi/farsi.htm)
+* [French](https://www.ssa.gov/multilanguage/French/french.htm)
+* [Greek](https://www.ssa.gov/multilanguage/Greek/greek.htm)
+* [Italian](https://www.ssa.gov/multilanguage/Italian/italian.htm)
+* [Korean](https://www.ssa.gov/multilanguage/Korean/korean.htm)
+* [Polish](https://www.ssa.gov/multilanguage/Polish/polish.htm)
+* [Portuguese](https://www.ssa.gov/multilanguage/Portuguese/portuguese.htm)
+* [Russian](https://www.ssa.gov/multilanguage/Russian/russian.htm)
+* [Vietnamese](https://www.ssa.gov/multilanguage/Vietname/vietnamese.htm)
 
 ### Financial Terminology
 
@@ -79,18 +94,24 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 * Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages)
 * Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages)
 
+#### Pension Benefit Guaranty Corporation (PBGC)
+
+Financial and retirement terminology:
+
+[Glossary of Terms: English to Spanish](https://www.pbgc.gov/es/recursos/glosario-de-terminos-ingles-espanol)
+
 ### Health and Well-being
 
 #### U.S. Department of Health and Human Services (HHS)
 
 - [Health Resources and Services Administration](https://www.hrsa.gov/) (HRSA): <br />Offers the **Glossary for Organ Donation and Transplantation** on [their English website](https://www.organdonor.gov/about/facts-terms/terms.html), and [their Spanish website](https://donaciondeorganos.gov/sobre/datos-t%C3%A9rminos/1yv2/t%C3%A9rminos.html).
 - [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
-- The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers two PDF files to download:
-   - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
-   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages). 
-- [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish: 
-   - [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a) 
-   - [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a) 
+- The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers a glossary and a style guide:
+    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
+    - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/culture-language/article/style-guide-translations-spanish).
+- [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish:
+    - [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a)
+    - [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a)
 
 ### Environment
 
@@ -108,7 +129,7 @@ Below is a compilation of available resources from different education organizat
 
 - The [English-Spanish Glossary of Student Financial Aid and Postsecondary Education](https://www.nasfaa.org/uploads/documents/ektron/88fdd293-2f4e-4c63-996e-f4bb95192879/0787ae7a3bcd4d0e98888ea6e82a69344.pdf) (513 kb, PDF, 44 pages) is led by TG and the U.S. Department of Education in partnership with many other organizations.
 - The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870).
-- This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition. 
+- This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition.
 
 ## Dictionaries
 
@@ -131,7 +152,7 @@ The [Filipino Translation Style Guide](https://drive.google.com/file/d/0B5nsVoOn
 
 #### National Institutes of Health (NIH)
 
-NIH has a new Spanish Style Guide available in [English](https://digital.gov/pdf/NIH_Spanish_Style_Guide_Eng_ver.pdf) (PDF, 315 kb, 33 pages) and [Spanish](https://digital.gov/pdf/NIH_Spanish_Style_Guide_Spanish_ver.pdf) (PDF, 427 kb, 32 pages). 
+NIH has a new Spanish Style Guide available in [English](https://digital.gov/pdf/NIH_Spanish_Style_Guide_Eng_ver.pdf) (PDF, 315 kb, 33 pages) and [Spanish](https://digital.gov/pdf/NIH_Spanish_Style_Guide_Spanish_ver.pdf) (PDF, 427 kb, 32 pages).
 
 ## Additional Resources
 

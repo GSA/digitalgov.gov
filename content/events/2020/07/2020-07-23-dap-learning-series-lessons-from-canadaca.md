@@ -20,21 +20,22 @@ end_date: 2020-07-23 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - metrics
-  - ux
+  - user-experience
   - analytics
   - dap
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors
 authors:
-  - tlowden
-  - freddie-blicher
+ - nicolas-pjontek
+ - tlowden
+ - freddie-blicher
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # YouTube ID
-youtube_id:
+youtube_id: 3tdj8SktL1Y
 
 # Make it better ♥
 
@@ -44,11 +45,11 @@ It’s always nice to hear from friends in the government analytics world. Join 
 
 ## About the speakers
 
-:canada:**Nicholas Pjontek** is the Acting Manager for [canada.ca](https://www.canada.ca/) analytics, and the principal publisher of [Service Canada](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html) in the Government of Canada.
+:canada: **Nicolas Pjontek** is the Manager of the [Canada.ca](https://www.canada.ca/) Analytics team at Service Canada (Government of Canada).
 
-:us:**Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), at the General Services Administration (GSA).
+:us: **Tim Lowden** manages the federal government's aggregated web analytics initiative, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), at the General Services Administration (GSA).
 
-:us:**Freddie Blicher** supports the Digital Analytics Program as an analyst and teaches courses in analytics across the D.C. area.
+:us: **Freddie Blicher** supports the Digital Analytics Program as an analyst and teaches courses in analytics across the D.C. area.
 
 ---
 

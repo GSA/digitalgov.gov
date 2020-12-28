@@ -1,4 +1,4 @@
- ---
+---
 # View this page at https://digital.gov/event/2019/12/us-web-design-system-december-monthly
 # Learn how to edit our pages at https://workflow.digital.gov
 
@@ -28,15 +28,14 @@ topics:
 authors:
   - dan-williams
 
-# Event platform (zoom, youtube_live, adobe_connect)
-event_platform: zoom
+# Event platform (zoom, youtube_live, adobe_connect, google)
+event_platform:
 
 # YouTube ID
 youtube_id: iTEI1JTHt_Q
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
-
 # Make it better ♥
 ---
 
