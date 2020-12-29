@@ -4,7 +4,7 @@ slug: 'gao'
 name: 'Government Accountability Office'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'An independent, nonpartisan agency, GAO provides Congress and federal agencies with objective, reliable information to help the government save money and work more efficiently.'
+summary: 'As an independent, nonpartisan agency, GAO provides Congress and federal agencies with objective, reliable information to help the government save money and work more efficiently.'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
