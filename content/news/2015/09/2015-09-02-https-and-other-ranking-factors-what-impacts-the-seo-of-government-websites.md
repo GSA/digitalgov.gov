@@ -40,101 +40,60 @@ And just in the past two weeks, two studies of 2015’s significant ranking fact
 
   * [Tip from SEOBook](http://www.seobook.com/archives/001792.shtml): Link building is a long, hard process, and requires tricks very similar to traditional marketing techniques—have good-quality, authoritative content, and get the word out in ways people will want to link to. For instance, people love lists of things—top 10 ways to XYZ, best resources for ABC, etc.
 
-## # and
-
 ## Tags—Yes!
 
-Using
-
-# and
-
-## tags in your page text shows you are thinking about user experience and want your readers to be able to scan the page quickly to orient themselves and find what they’re looking for. While a similar look can be achieved with bold text and increased font size, a search engine spider isn’t able to interpret this decoration consistently.
-
-# and
-
-## tags are a clear signal to the spider what your page is about. Thinking of a Web page as a newspaper article,
-
-# indicates the headline,
-
-## the section heading, and so on, down to
+Using tags in your page text shows you are thinking about user experience and want your readers to be able to scan the page quickly to orient themselves and find what they’re looking for. While a similar look can be achieved with bold text and increased font size, a search engine spider isn’t able to interpret this decoration consistently.and tags are a clear signal to the spider what your page is about. Thinking of a Web page as a newspaper article, indicates the headline,the section heading, and so on, down to
 
 ###### .</p>
 
   * [Tip from Search Engine Journal](http://www.searchenginejournal.com/in-2014-how-important-is-an-h1-tag-for-seo/): While the impact of
-    # on rankings has diminished over time, it’s still an important ranking factor. It’s also an important signal to search engines—and visitors arriving at your site from search engines—about the page’s content.</li>
+    on rankings has diminished over time, it’s still an important ranking factor. It’s also an important signal to search engines—and visitors arriving at your site from search engines—about the page’s content.</li>
 
-      * [Tip from Greenlane](http://www.greenlaneseo.com/blog/2015/02/seo-101-seo-and-multiple-h1-tags/): Conventional wisdom was to have only one
-        # per page, but as long as they work in the context of the page, multiple
+      * [Tip from Greenlane](http://www.greenlaneseo.com/blog/2015/02/seo-101-seo-and-multiple-h1-tags/): Conventional wisdom was to have only one per page, but as long as they work in the context of the page, multiple tags can be used.</li>
 
-        # tags can be used.</li>
+      * [Tip from WebAIM](http://webaim.org/techniques/semanticstructure/): HTML heading tags are important for 508 compliance, so screen readers and other assistive technologies—which largely ignore visual styling—can determine a page’s information structure.</ul>
 
-          * [Tip from WebAIM](http://webaim.org/techniques/semanticstructure/): HTML heading tags are important for 508 compliance, so screen readers and other assistive technologies—which largely ignore visual styling—can determine a page’s information structure.</ul>
+## Title Tags—Yes!
 
-        ## <title>
-          Tags—Yes!</h2>
+  <p>
+    The <a href="{{< ref "2014-03-28-plain-language-page-titles-more-important-than-ever.md" >}}"><code>&lt;Title &gt;</code> tag</a> we’re talking about here is located within the
+    <code>&lt;head &gt;</code> of the page and is important for user experience on a search results page. While it’s basically invisible to the reader, search engines will try to use this tag for the title they display in their search results. Web browsers will display the title as the browser window label or tab label, and many agencies have placed a general agency, division, or site section name here, aiming to best identify the open window/tab as belonging to them. However, if all a site’s title tags are identical, search engines won’t be able to use them, and so will look to other references to your page’s title to assemble something usable for their search results. The outcome of this <a href="https://blogs.bing.com/webmaster/2014/06/23/how-does-bing-choose-the-title-for-my-web-page/">page-title crowdsourcing</a> can be annoying at best, and inappropriate at worst. Your <code>&lt;Title &gt;</code> tag will most likely match your <code>&lt;h1 &gt;</code> tag.</p>
+<p>
+    <ul>
+        <li>
+          <a href="http://searchengineland.com/advanced-seo-learning-experiments-using-googles-title-tag-changes-example-189850">Tip from Search Engine Land</a>: There’s no magic number, but around 55 characters or less is good. Use the <code>&lt;Title &gt;</code> tag to give each page a unique, meaningful, relatively brief title, with relevant keywords towards the beginning.</li> </ul>
+</P>
 
-          <p>
-            The <a href="{{< ref "2014-03-28-plain-language-page-titles-more-important-than-ever.md" >}}">
+## Meta Descriptions—Yes!
+          
 
-            <title>
-              tag</a> we’re talking about here is located within the
-
-              <head>
-                of the page and is important for user experience on a search results page. While it’s basically invisible to the reader, search engines will try to use this tag for the title they display in their search results. Web browsers will display the
-
-                <title>
-                  as the browser window label or tab label, and many agencies have placed a general agency, division, or site section name here, aiming to best identify the open window/tab as belonging to them. However, if all a site’s
-
-                  <title>
-                    tags are identical, search engines won’t be able to use them, and so will look to other references to your page’s title to assemble something usable for their search results. The outcome of this <a href="https://blogs.bing.com/webmaster/2014/06/23/how-does-bing-choose-the-title-for-my-web-page/">page-title crowdsourcing</a> can be annoying at best, and inappropriate at worst. Your
-
-                    <title>
-                      tag will most likely match your
-
-                      <h1>
-                        tag.</p>
-
-                        <ul>
-                          <li>
-                            <a href="http://searchengineland.com/advanced-seo-learning-experiments-using-googles-title-tag-changes-example-189850">Tip from Search Engine Land</a>: There’s no magic number, but around 55 characters or less is good. Use the <title>
-                              tag to give each page a unique, meaningful, relatively brief title, with relevant keywords towards the beginning.</li> </ul>
-
-                              <h2>
-                                Meta Descriptions—Yes!
-                              </h2>
-
-                              <p>
-                                The <a href="https://moz.com/learn/seo/meta-description">meta description</a>, also located in the
-
-                                <head>
-                                  , is search-engines’ first stop when they are indexing your site. After all, it would be easier for them to pull your description than to assemble their own snippet. But if you don’t have this tag, or it doesn’t reflect the content of the page, it may be ignored. You may have heard that
-
-                                  <meta />
-                                  tags are no longer useful in SEO, but it is only
-                                  <a href="https://moz.com/community/q/meta-keywords-should-we-use-them-or-not">meta keywords</a> that are either ignored by search engines, or taken as a spam signal after this tag was abused by Web marketers trying to game the system.</p>
-
-                                  <ul>
-                                    <li>
+  <p>
+      The <a href="https://moz.com/learn/seo/meta-description">meta description</a>, also located in the <code>&lt;head &gt;</code>, is search-engines’ first stop when they are indexing your site. After all, it would be easier for them to pull your description than to assemble their own snippet. But if you don’t have this tag, or it doesn’t reflect the content of the page, it may be ignored. You may have heard that<meta />
+      tags are no longer useful in SEO, but it is only <a href="https://moz.com/community/q/meta-keywords-should-we-use-them-or-not">meta keywords</a> that are either ignored by search engines, or taken as a spam signal after this tag was abused by Web marketers trying to game the system.</p>
+<p>
+      <ul>
+        <li>
                                       <a href="https://yoast.com/meta-descriptions/">Tip from Yoast</a>: Meta descriptions should be about 140 characters, like a tweet, and unique. Use active voice, relevant keywords, and include a call to action.
                                     </li>
                                   </ul>
+</p>
+                                  
+## Quality Content—Yes!!!
+                                  
 
-                                  <h2>
-                                    Quality Content—Yes!!!
-                                  </h2>
-
-                                  <p>
-                                    Google has <a href="http://googlewebmastercentral.blogspot.com/2011/05/more-guidance-on-building-high-quality.html">emphasized for years</a> that the most important ranking factor is the quality of the content. I’m not sure I believe this, given the PageRanks of federal websites are the same as Boing Boing. However, providing quality services and information to the public is the central goal of all government websites, and raising the bar on both the substance and the communication style can only be a benefit. While writing plainly can be a great challenge, effective communication is important for conducting our country’s business, and <a href="http://www.plainlanguage.gov/plLaw/index.cfm">it’s the law</a>. The direct benefits for agencies and the public are only magnified by the indirect benefit of SEO, allowing search engines to better leverage the content of your site, and get people to your information more quickly.
-                                  </p>
-
-                                  <ul>
-                                    <li>
-                                      <a href="http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm">Tip from PlainLanguage.gov</a>: Think about your audience, organize, write your document, write for the Web, and test.
-                                    </li>
-                                    <li>
-                                      Tip from Copyblogger: <a href="http://scribecontent.com/downloads/How-to-Create-Compelling-Content.pdf">How to Create Compelling Content that Ranks Well in Search Engines</a>
-                                    </li>
-                                    <li>
-                                      Tip from Killer Web Content: <a href="http://www.gerrymcgovern.com/first-chapter/28/books/killer-web-content">Do you have the killer instinct?</a>
-                                    </li>
-                                  </ul>
+ <p>
+     Google has <a href="http://googlewebmastercentral.blogspot.com/2011/05/more-guidance-on-building-high-quality.html">emphasized for years</a> that the most important ranking factor is the quality of the content. I’m not sure I believe this, given the PageRanks of federal websites are the same as Boing Boing. However, providing quality services and information to the public is the central goal of all government websites, and raising the bar on both the substance and the communication style can only be a benefit. While writing plainly can be a great challenge, effective communication is important for conducting our country’s business, and <a href="http://www.plainlanguage.gov/plLaw/index.cfm">it’s the law</a>. The direct benefits for agencies and the public are only magnified by the indirect benefit of SEO, allowing search engines to better leverage the content of your site, and get people to your information more quickly.
+   </p>
+   <p>
+    <ul>
+        <li>
+           <a href="http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm">Tip from PlainLanguage.gov</a>: Think about your audience, organize, write your document, write for the Web, and test.
+         </li>
+          <li>
+           Tip from Copyblogger: <a href="http://scribecontent.com/downloads/How-to-Create-Compelling-Content.pdf">How to Create Compelling Content that Ranks Well in Search Engines</a>
+          </li>
+         <li>
+          Tip from Killer Web Content: <a href="http://www.gerrymcgovern.com/first-chapter/28/books/killer-web-content">Do you have the killer instinct?</a>
+          </li>
+        </ul>
+      </P>
