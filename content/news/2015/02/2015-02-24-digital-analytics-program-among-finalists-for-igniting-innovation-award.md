@@ -18,6 +18,7 @@ topics:
   - open-data
   - transportation-security-administration
   - TSA
+
 ---
 
 {{< legacy-img src="2015/02/600-x-450-Podium-with-red-carpet-DenisKot-iStock-Thinkstock-506330511.jpg" alt="Podium with red carpet" caption="" >}}
@@ -40,5 +41,6 @@ The winner was [NYCStreets Permit Management System](http://www.nycstreets.net/p
 
 ACT-IAC has a [full list of the 30 finalists](https://actiac.org/custom-links/13343/68020/67416) that were recognized at the Awards.
 
-_If you are not a current DAP user, you can [learn more about DAP on DigitalGov.gov]({{< ref "/guides/dap/_index.md" >}}). You can also read [articles](({{< ref "/topics/metrics" >}})) and attend [free training on analytics, metrics and other digital government subjects]({{< ref "/events" >}})._
+_If you are not a current DAP user, you can [learn more about DAP on DigitalGov.gov]({{< ref "/guides/dap/_index.md" >}}). You can also read [articles]({{< ref "/topics/metrics" >}}) and attend [free training on analytics, metrics and other digital government subjects]({{< ref "/events" >}})._ 
+
 _The author would like to thank Deborah Ruiz, GSA Communications Specialist, for her assistance with this article._
