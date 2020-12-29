@@ -2,7 +2,7 @@
 slug: https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites
 date: 2015-09-02 10:00:43 -0400
 title: 'HTTPS and Other Ranking Factors: What Impacts the SEO of Government Websites?'
-summary: Following the recent OMB memo that all publicly available federal websites and Web services must implement HTTPS by December 31, 2016, Web content managers across government are considering the SEO (search engine optimization) implications of the transition, among other details. In August 2014, Google confirmed that HTTPS is a ranking signal in their algorithm. But
+summary: Following the recent OMB memo that all publicly available federal websites and Web services must implement HTTPS by December 31, 2016, Web content managers across government are considering the SEO (search engine optimization) implications of the transition, among other details.
 authors:
   - dmccleskey
 topics:
@@ -43,7 +43,7 @@ And just in the past two weeks, two studies of 2015’s significant ranking fact
 
 ## &#60;h1&#62; and &#60;h2&#62; Tags—Yes!
 
-Using <code>&#60;h1&#62;</code> and <code>&#60;h2&#62;</code> tags in your page text shows you are thinking about user experience and want your readers to be able to scan the page quickly to orient themselves and find what they’re looking for. While a similar look can be achieved with bold text and increased font size, a search engine spider isn’t able to interpret this decoration consistently. <code>&#60;h1&#62;</code> and <code>&#60;h2&#62;</code> tags are a clear signal to the spider what your page is about. Thinking of a Web page as a newspaper article, <code>&#60;h1&#62; indicates the headline, <code>&#60;h2&#62;</code> the section heading, and so on, down to &#60;h6&#62;.
+Using <code>&#60;h1&#62;</code> and <code>&#60;h2&#62;</code> tags in your page text shows you are thinking about user experience and want your readers to be able to scan the page quickly to orient themselves and find what they’re looking for. While a similar look can be achieved with bold text and increased font size, a search engine spider isn’t able to interpret this decoration consistently. <code>&#60;h1&#62;</code> and <code>&#60;h2&#62;</code> tags are a clear signal to the spider what your page is about. Thinking of a Web page as a newspaper article, <code>&#60;h1&#62;</code> indicates the headline, <code>&#60;h2&#62;</code> the section heading, and so on, down to &#60;h6&#62;.
 
 * [Tip from Search Engine Journal](http://www.searchenginejournal.com/in-2014-how-important-is-an-h1-tag-for-seo/): While the impact of <code>&#60;h1&#62;</code> on rankings has diminished over time, it’s still an important ranking factor. It’s also an important signal to search engines—and visitors arriving at your site from search engines—about the page’s content.
 * [Tip from Greenlane](http://www.greenlaneseo.com/blog/2015/02/seo-101-seo-and-multiple-h1-tags/): Conventional wisdom was to have only one <code>&#60;h1&#62;</code> per page, but as long as they work in the context of the page, multiple <code>&#60;h1&#62;</code> tags can be used.
