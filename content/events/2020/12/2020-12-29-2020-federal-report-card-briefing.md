@@ -22,6 +22,12 @@ slug: 2020-federal-report-card-briefing
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
+# YouTube ID
+youtube_id: 
+
+# Primary Image (for social media)
+primary_image: "plain-language-report-card-2020"
+
 ---
 
 The annual Federal Report Card is a snapshot of how well the federal government is following the 2010 Plain Writing Act. This year, the Center for Plain Language  is excited to celebrate the 10th anniversary of the Plain Writing Act, including everything federal agencies have done to give the public the clear communication it needs.
