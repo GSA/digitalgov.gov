@@ -31,7 +31,7 @@ Here’s what we&#8217;ve already learned from the data:
 
 This Analytics Dashboard is just a first step. Not every government website is represented in this data. Currently, the Digital Analytics Program collects Web traffic from almost 300 executive branch government domains, including every cabinet department, out of about 1,350 domains total. Over the coming months, we will encourage more sites to join the Digital Analytics Program, and we’ll include more information and insights about traffic to government sites with the same <a href="https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/" target="_blank">open source development process we used to create the Dashboard</a>. If you have ideas for the project, or want to help improve it, let us know by <a href="https://github.com/gsa/analytics.usa.gov" target="_blank">contributing to the project on GitHub</a> or emailing <a href="mailto:digitalgov@gsa.gov" target="_blank">DigitalGov</a>.
 
-Learn more about the Digital Analytics Program at: <{{< ref "/guides/dap/_index.md" >}}>
+Learn more about the Digital Analytics Program at:[Digital Analytics Program] ({{< ref "/guides/dap/_index.md" >}})
 
 Learn more about the U.S. Digital Service at: <http://www.whitehouse.gov/usds>
 
