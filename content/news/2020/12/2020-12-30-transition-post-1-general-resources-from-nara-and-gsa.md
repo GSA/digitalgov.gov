@@ -3,7 +3,7 @@
 source_url: https://records-express.blogs.archives.gov/2020/10/09/transition-post-1-general-resources-from-nara-and-gsa/
 source: gao
 date: 2020-10-09 20:01:00 -0500
-kicker: rec mnh
+kicker: 
 title: "Transition Post 1: General Resources from NARA and GSA"
 deck: "**Transition Post 1: General Resources from NARA and GSA**&mdash;During
   the month of October, GAO will be sharing a series of posts on records
@@ -37,4 +37,5 @@ slug: transition-post-1-general-resources-from-nara-and-gsa
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
