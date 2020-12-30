@@ -16,9 +16,10 @@ topics:
   - mobile-ux-guideline-4
   - recaps
   - united-states-department-of-health-and-human-services
+
 ---
 
-{{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}} 
+{{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="Jrcasas/iStock/Thinkstock" >}} 
 
 Every second counts, even those precious two or three seconds it takes your website to load. When it [comes to mobile]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}}), users won’t wait.
 
@@ -42,4 +43,4 @@ Vanderlan also emphasized that performance testing should become a regular habit
 
 Watch the webinar for other tips and tools that will help improve your website’s speed!
 
-[youtube=http://www.youtube.com/watch?v=sDTgYySlvEI&w=600]
+{{< youtube sDTgYySlvEI >}}
