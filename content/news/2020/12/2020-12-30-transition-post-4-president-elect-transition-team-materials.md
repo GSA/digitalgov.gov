@@ -3,7 +3,7 @@
 source_url: https://records-express.blogs.archives.gov/2020/12/14/transition-post-4-president-elect-transition-team-materials/
 source: gao
 date: 2020-12-14 19:55:00 -0500
-kicker: Records Management
+kicker: 
 title: "Transition Post 4: President-Elect Transition Team Materials"
 deck: "**Transition Post 4: President-Elect Transition Team
   Materials**&mdash;Here is a fourth post in GAO's series on records management
@@ -16,9 +16,12 @@ summary: "**Transition Post 4: President-Elect Transition Team
 # See all topics at https://digital.gov/topics
 topics:
   - records-management
+  - nara
+  - national-archives-and-records-administration
 slug: transition-post-4-president-elect-transition-team-materials
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
