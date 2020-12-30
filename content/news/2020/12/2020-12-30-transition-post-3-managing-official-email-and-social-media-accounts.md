@@ -3,7 +3,7 @@
 source_url: https://records-express.blogs.archives.gov/2020/10/21/transition-post-3-managing-official-email-and-social-media-accounts/
 source: gao
 date: 2020-10-21 19:58:00 -0500
-kicker: rec mangmnt
+kicker: 
 title: "Transition Post 3: Managing Official Email and Social Media Accounts"
 deck: "**Transition Post 3: Managing Official Email and Social Media
   Accounts**&mdash;As part of their federal government transition series, this
@@ -22,9 +22,12 @@ summary: "**Transition Post 3: Managing Official Email and Social Media
 # See all topics at https://digital.gov/topics
 topics:
   - records-management
+  - nara
+  - national-archives-and-records-administration
 slug: transition-post-3-managing-official-email-and-social-media-accounts
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
