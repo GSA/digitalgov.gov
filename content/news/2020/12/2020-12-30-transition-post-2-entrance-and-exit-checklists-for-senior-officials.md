@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://records-express.blogs.archives.gov/2020/10/15/transition-post-2-entrance-and-exit-checklists-for-senior-officials/
-source: gao
+source: nara
 date: 2020-10-15 19:59:00 -0500
 kicker: rec mng
 title: "Transition Post 2: Entrance and Exit Checklists for Senior Officials"
