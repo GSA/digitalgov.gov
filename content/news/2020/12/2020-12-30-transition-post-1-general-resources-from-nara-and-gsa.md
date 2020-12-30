@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://records-express.blogs.archives.gov/2020/10/09/transition-post-1-general-resources-from-nara-and-gsa/
-source: gao
+source: nara
 date: 2020-10-09 20:01:00 -0500
 kicker: 
 title: "Transition Post 1: General Resources from NARA and GSA"
