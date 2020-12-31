@@ -44,7 +44,7 @@ Emerging technology solutions employed by agencies across government, combined w
 
 The online workshop includes both open information and guidance for anyone from TMF experts as well as individual consultation with participating federal agency teams to answer specific questions on ideas and proposals.
 
-For more information, please email [EmergingTech@GSA.gov](EmergingTech@GSA.gov) with “#TMF” in the subject line.
+For more information, please email [EmergingTech@GSA.gov](mailto:EmergingTech@GSA.gov) with “#TMF” in the subject line.
 
 **What is the Technology Modernization Fund?**
 
