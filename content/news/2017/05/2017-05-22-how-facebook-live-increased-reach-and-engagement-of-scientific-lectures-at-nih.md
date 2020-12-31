@@ -88,5 +88,5 @@ Each event, on the heels of the one before it, was an opportunity for promotion�
 
 <section>
 <p id="fn1">
-  <a href="#r1">[1]</a> It’s unclear why the overall reach of this third Facebook Live Q&A was lower, despite higher engagement metrics. Because Facebook regularly changes their algorithm, it’s possible a change could have taken place that affected those reach numbers.<a title="Jump back to footnote 1 in the text." href="#ref1">↩</a>
+  <a href="#ref1">[1]</a> It’s unclear why the overall reach of this third Facebook Live Q&A was lower, despite higher engagement metrics. Because Facebook regularly changes their algorithm, it’s possible a change could have taken place that affected those reach numbers.<a title="Jump back to footnote 1 in the text." href="#ref1">↩</a>
 </p></section>
