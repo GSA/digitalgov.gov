@@ -232,10 +232,10 @@ Once the harvester has been tested successfully, Data.gov will start automatical
 
 ## Frequently Asked Questions
 
-* **[General](#faq-general)**
-* **[Federal Data with Project Open Data](#faq-data)**
-* **[Federal Geospatial](#faq-geospatial)**
-* **[Non-federal](#faq-non-federal)**
+* **[General](#general)**
+* **[Federal Data with Project Open Data](#federal-data-with-project-open-data)**
+* **[Federal Geospatial](#federal-geospatial-data)**
+* **[Non-federal](#non-federal-Data)**
 
 ### General
 
