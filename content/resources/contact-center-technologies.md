@@ -330,7 +330,7 @@ Here are a few more things to consider when adding a web chat service to your we
 
 ### Examples of Federal Web Chat Implementations
 
-* [Answers.USA.gov](www.usa.gov/chat "Answers dot USA dot gov "Chat With Us" page")
+* [Answers.USA.gov](https://www.usa.gov/chat "Answers dot USA dot gov "Chat With Us" page")
 * [U.S. Census Bureau Question & Answer Center](https://ask.census.gov/)
 
 ## Workforce Management Systems {#workforce}
