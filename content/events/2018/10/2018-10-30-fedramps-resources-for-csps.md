@@ -43,4 +43,4 @@ A video walkthrough + Q&A for Cloud Service Providers interested in learning mor
 
 In this talk, we'll review the new pages that've been added to the FedRAMP website and the resources that have been consolidated on each page. Additionally, the FedRAMP PMO will answer any questions you have on the update.
 
-Questions about this event or future FedRAMP events? Send them to [info@fedramp.gov](info@fedramp.gov)
+Questions about this event or future FedRAMP events? Send them to [info@fedramp.gov](mailto:info@fedramp.gov)
