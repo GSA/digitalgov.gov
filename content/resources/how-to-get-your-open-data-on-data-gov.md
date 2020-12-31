@@ -235,7 +235,7 @@ Once the harvester has been tested successfully, Data.gov will start automatical
 * **[General](#general)**
 * **[Federal Data with Project Open Data](#federal-data-with-project-open-data)**
 * **[Federal Geospatial](#federal-geospatial-data)**
-* **[Non-federal](#non-federal-Data)**
+* **[Non-federal](#non-federal-data)**
 
 ### General
 

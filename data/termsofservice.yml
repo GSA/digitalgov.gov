@@ -161,7 +161,7 @@ termsofservice:
     url           : https://github.com/
     description   : "Collaborative software development tool"
     uri           : https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-government-users
-    type          : "Site"
+    type          : 'Website'
     updated       :
     status        :
 
