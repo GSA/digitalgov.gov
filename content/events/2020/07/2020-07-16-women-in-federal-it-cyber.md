@@ -95,7 +95,7 @@ She has an Executive Certificate in Leadership Coaching from Georgetown Universi
 
 **Related Links:**
 
- - [CIOC Website](CIOC%20Website%20%20https://www.cio.gov/)
+ - [CIOC Website](https://www.cio.gov/)
  
  ---
  
