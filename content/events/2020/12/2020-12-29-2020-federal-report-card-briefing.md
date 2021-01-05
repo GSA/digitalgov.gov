@@ -35,7 +35,7 @@ The annual Federal Report Card is a snapshot of how well the federal government 
 David will explain:
 
 * How and why agencies need to redo their COVID pages and focus on what the public needs.
-* Ways agencies can improve their, "Urgent Help", pages.
+* Ways agencies can improve their "Urgent Help" pages.
 * How and why agencies need to refocus on the Plain Writing Act's requirements for compliance.
 
 ## Presenter:
