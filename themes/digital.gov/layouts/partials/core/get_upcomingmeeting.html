@@ -1,5 +1,5 @@
 {{/*======================================
-Get Upcoming Events with current data
+Get Upcoming Events by topics with current date
 ======================================
 */}}
     <div>
@@ -7,16 +7,18 @@ Get Upcoming Events with current data
         {{- $upcoming_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" ">" now.Unix -}}
         {{ $upcoming_events := $upcoming_events | intersect (where $upcoming_events "Date" ">" now)  }}      
         <h2 id="Upcoming-meeting">Upcoming Meeting</h2>
+        <style type="text/css">
+          #Upcoming-meeting{ display:none; }
+       </style> 
         {{$index := 0}}
         <ul>
-          {{ range  where $upcoming_events  ".Params.topics" "intersect" .Params.topics }}
-            {{ $index := add $index 1}}
-            <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ dateFormat "2006-01-02" .Params.date }} {{ .Title | markdownify }}</a></li>
+          {{ range $index, $element := where $upcoming_events  ".Params.topics" "intersect" .Params.topics }}
+          {{if gt $index 0}} 
+            <style type="text/css">
+               #Upcoming-meeting{ display: block; }
+            </style>            
+              <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ dateFormat "2006-01-02" .Params.date }} {{ .Title | markdownify }}</a></li>
           {{ end }} 
-        </ul>
-        {{if eq $index 0}} 
-          <style type="text/css">
-          #Upcoming-meeting{ display:none; }
-          </style>         
-        {{ end}}                     
+          {{ end }}
+          </ul>                     
       </div>
