@@ -16,13 +16,13 @@ redirectto: https://resources.data.gov/resources/inventory-data-gov-guide/
 * [Introduction](#introduction)
 * [Features](#features)
 * [Using inventory.data.gov](#using-inventory-data-gov)
-    * [Creating a User Account](#creating-user-account)
-    * [Using inventory.data.gov to manage datasets](#manage-datasets)
-    * [Adding a Dataset](#add-dataset)
-    * [Exporting Data.json](#export-data-json)
-    * [Automating data.json downloads by agencies](#automating-data-json-downloads)
+    * [Creating a User Account](#creating-a-user-account)
+    * [Using inventory.data.gov to manage datasets](#using-inventory.data.gov-to-manage-datasets)
+    * [Adding a Dataset](#adding-a-dataset)
+    * [Exporting Data.json](#exporting-data.json)
+    * [Automating data.json downloads by agencies](#automating-data.json-downloads-by-agencies)
     * [Dataset Hosting](#dataset-hosting)
-* [Webinar on inventory.data.gov](#webinar)
+* [Webinar on inventory.data.gov](#webinar-on-inventory.data.gov)
 
 ## Introduction
 
