@@ -130,7 +130,10 @@
           <div class="grid-col-12 tablet-lg:grid-col-8">
             <div class="content">
               {{- .Content -}}
+              {{- partial "core/get_upcomingmeeting" . -}}
+              {{- partial "core/get_pastmeeting" . -}}
             </div>
+           
             <div class="Community_conduct">
               <h2 id="community-conduct">Community Conduct</h2>
               {{- partial "core/community_pagefooter" . -}}
