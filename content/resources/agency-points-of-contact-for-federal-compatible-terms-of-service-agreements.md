@@ -23,7 +23,7 @@ topics:
 
 If your agency is part of a larger agency, your contact will be at the larger agency, as these agreements are negotiated and signed for the entire agency.
 
-If your agency isn’t listed below, contact [the Digital.gov team](digitalgov@gsa.gov) and we will add your point of contact to the list.
+If your agency isn’t listed below, contact [the Digital.gov team](mailto:digitalgov@gsa.gov) and we will add your point of contact to the list.
 
 ## Cabinet
 
