@@ -20,7 +20,7 @@ slug: freddie-blicher
 email: ""
 
 # Bio — keep it under 50 words
-bio: "Freddie Blicher is an analyst with the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP). For more information about DAP or to become a DAP participating agency, please [contact DAP via email](dap@support.digitalgov.gov)."
+bio: "Freddie Blicher is an analyst with the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP). For more information about DAP or to become a DAP participating agency, please [contact DAP via email](mailto:dap@support.digitalgov.gov)."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""

@@ -58,7 +58,7 @@ leveraging crowd- and patient-based data insights.
 
 The time for leveraging AI in improving access to novel therapeutics is now. If you are interested in learning more, downloading the ecosystem data, being a data steward, sharing experiences, or learning about the tech sprint’s results, please visit the site at: [tophealth.github.io](https://tophealth.github.io/).
 
-To contact us on the overall TOP Health tech sprint, please email the Presidential Innovation Fellows, [gil.alterovitz@pif.gov](gil.alterovitz@pif.gov) and [justin.koufopoulos@pif.gov](justin.koufopoulos@pif.gov), or the HHS Office of the CTO, [cto@hhs.gov](cto@hhs.gov). Please use subject line: **_TOP Health: inquiry from DigitalGov blog_**.
+To contact us on the overall TOP Health tech sprint, please email the Presidential Innovation Fellows, [gil.alterovitz@pif.gov](mailto:gil.alterovitz@pif.gov) and [justin.koufopoulos@pif.gov](mailto:justin.koufopoulos@pif.gov), or the HHS Office of the CTO, [cto@hhs.gov](mailto:cto@hhs.gov). Please use subject line: **_TOP Health: inquiry from DigitalGov blog_**.
 
 ***
 
