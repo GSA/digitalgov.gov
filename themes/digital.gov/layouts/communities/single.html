@@ -131,6 +131,11 @@
             <div class="content">
               {{- .Content -}}
             </div>
+            <div class="Community_meeting">
+            {{- partial "core/get_upcomingmeeting" . -}}
+            {{- partial "core/get_pastmeeting" . -}}
+            <br>
+          </div>
             <div class="Community_conduct">
               <h2 id="community-conduct">Community Conduct</h2>
               {{- partial "core/community_pagefooter" . -}}
