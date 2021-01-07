@@ -106,7 +106,7 @@
   {{- end }}
 
   {{ "<!-- JSON Feed -->" | safeHTML }}
-  <link href="{{- .Permalink -}}index.json" rel="alternate" type="application/json" title="{{- .Site.Title -}}" />
+  <link href="{{- .Permalink -}}index.json" data-proofer-ignore rel="alternate" type="application/json" title="{{- .Site.Title -}}" />
 
   {{ "<!-- Sitemap-->" | safeHTML }}
   <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />

@@ -11,6 +11,7 @@
     "lint": "hugo && run-p lint:*",
     "local-build": "gulp build-assets && gulp watch",
     "start": "npm-run-all --parallel local-build hugo workflow",
+    "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "pa11y-ci --config .pa11yci",
     "workflow": "npx netlify-cms-proxy-server"
   },
