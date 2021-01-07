@@ -7,7 +7,7 @@
 ========================================
 ========================================
 ----------------------------------------
-USWDS 2.5.0
+USWDS 2.10.0
 ----------------------------------------
 TYPOGRAPHY SETTINGS
 ----------------------------------------
@@ -65,9 +65,9 @@ unclassed elements:
 ----------------------------------------
 */
 
-$theme-global-paragraph-styles: true;
-$theme-global-link-styles: true;
-$theme-global-content-styles: true;
+$theme-global-paragraph-styles: false;
+$theme-global-link-styles: false;
+$theme-global-content-styles: false;
 
 /*
 ----------------------------------------
@@ -124,12 +124,12 @@ names to something more descriptive.
 $theme-typeface-tokens: (
   example-serif-token: (
     display-name: "Example Serif Display Name",
-    cap-height: 364px
+    cap-height: 364px,
   ),
   example-sans-token: (
     display-name: "Example Sans Display Name",
-    cap-height: 364px
-  )
+    cap-height: 364px,
+  ),
 );
 
 /*
