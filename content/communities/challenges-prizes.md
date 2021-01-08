@@ -30,10 +30,10 @@ aliases:
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "team@challenge.gov"
+    subscribe_email: "challenges-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Join Challenges Community"
-    subscribe_email_body: "enter your name + agency you work for"
-    members: 738
+    subscribe_email_body: "your name + agency you work for"
+    members: 794
 
 
 # Make it better ♥
