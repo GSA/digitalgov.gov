@@ -39,7 +39,7 @@
     "pa11y-ci": "^2.3.0",
     "postcss-csso": "^4.0.0",
     "sass": "^1.26.3",
-    "uswds": "^2.8.0",
+    "uswds": "~2.10.0",
     "uswds-gulp": "github:uswds/uswds-gulp"
   },
   "devDependencies": {
