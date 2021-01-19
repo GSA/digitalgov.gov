@@ -23,7 +23,7 @@ After our content team moved to [a more agile method of working](https://blog.us
 
 This metric is a key performance indicator (KPI) that we’re hoping can help guide our content decisions. Content is our most “expensive” product to produce and maintain. It feeds our websites and our contact center’s knowledge base, and we want to make sure we’re being as efficient as possible in how we manage it.
 
-<img src="https://cdn2.hubspot.net/hubfs/532040/USAGov%20Blog/Screen%20Shot%202017-09-11%20at%204.09.38%20PM.png?t=1543344609193" alt="Screenshot of USA.gov and GobiernoUSA.gov unique pageviews/sessions from google analytics.">
+<img src="https://cdn2.hubspot.net/hubfs/532040/USAGov Blog/Screen Shot 2017-09-11 at 4.09.38 PM.png?t=1543344609193" alt="Screenshot of USA.gov and GobiernoUSA.gov unique pageviews/sessions from google analytics.">
 
 The metric takes into account the outcomes of our work in terms of (1) unique pageviews on [USAGov](htps://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_), and (2) how many times a piece of content was used to help answer a contact center query.
 
