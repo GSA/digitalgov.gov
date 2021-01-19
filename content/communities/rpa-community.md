@@ -57,15 +57,15 @@ Gerard Badorrek, General Services Administration
 James Gregory, General Services Administration: [james2.gregory@gsa.gov](mailto:james2.gregory@gsa.gov)
 
 **Management Committee**  
+Anju Anand, National Science Foundation  
 Kyle Brooks, Department of State  
 Christine Gex, National Aeronautics and Space Administration  
-Francis Wood, Defense Logistics Agency  
-Michael Levinson, Army  
-Paul Weekley, Department of the Treasury  
-Russell Kuehn, Social Security Administration  
 Lattrice Goldsby, United States Department of Agriculture  
-Anju Anand, National Science Foundation  
+Russell Kuehn, Social Security Administration  
+Michael Levinson, Army  
 Erica Thomas, Office of the Under Secretary of Defense  
+Paul Weekley, Department of the Treasury  
+Francis Wood, Defense Logistics Agency  
 
 ## Resources
 
