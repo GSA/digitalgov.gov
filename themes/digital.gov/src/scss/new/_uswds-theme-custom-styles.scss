@@ -1,0 +1,110 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+USWDS THEME CUSTOM STYLES
+----------------------------------------
+!! Copy this file to your project's
+   sass root. Don't edit the version
+   in node_modules.
+----------------------------------------
+Custom project SASS goes here.
+
+i.e.
+@include u-padding-right('05');
+----------------------------------------
+*/
+
+$theme-image-path: "../uswds/img";
+$theme-font-path: "../uswds/fonts";
+
+$theme-show-compile-warnings: false;
+$theme-show-notifications: false;
+
+$theme-focus-color: "blue-50v";
+
+// not sure about these ones, should they be desktop now?
+$theme-grid-container-max-width: "widescreen";
+$theme-site-max-width: "widescreen";
+$theme-site-margins-breakpoint: "widescreen";
+
+
+//typography
+$theme-global-paragraph-styles: true;
+$theme-global-link-styles: true;
+$theme-global-content-styles: true;
+$theme-font-type-sans: "public-sans";
+$theme-font-role-heading: "sans";
+$theme-type-scale-lg: 8;
+$theme-type-scale-xl: 11;
+
+$theme-font-weight-thin: 100;
+$theme-font-weight-light: 200;
+$theme-font-weight-medium: 600;
+$theme-font-weight-semibold: 700;
+$theme-font-weight-bold: 800;
+$theme-font-weight-heavy: 900;
+
+$theme-body-font-size: "md";
+$theme-body-line-height: 4;
+
+$theme-style-body-element: true;
+
+$theme-text-measure: 5;
+
+
+//Colors from _uswds_theme-color.scss
+$theme-color-base-lightest: "gray-cool-5";
+$theme-color-primary-light: "blue-30v";
+$theme-color-primary: "blue-warm-50v";
+$theme-color-primary-dark: "blue-warm-70";
+$theme-color-primary-darker: "blue-warm-80";
+$theme-color-primary-darkest: "blue-warm-90";
+$theme-color-primary-lightest: "blue-5";
+$theme-color-accent-warm-lightest: "gold-5v";
+$theme-color-accent-warm-lighter: "orange-10v";
+$theme-link-color: "blue-warm-60v";
+$theme-link-visited-color: "indigo-warm-60v";
+$theme-link-hover-color: "blue-warm-70v";
+
+$theme-color-accent-warm-lightest: "gold-5v";
+$theme-color-accent-warm-lighter:"gold-10v";
+
+$theme-link-color: "blue-warm-60v";
+$theme-link-visited-color: "indigo-warm-60v";
+$theme-link-hover-color: "primary-dark";
+
+$theme-grid-container-max-width: "widescreen";
+
+$theme-header-logo-text-width: 50%;
+$theme-header-max-width: "desktop";
+
+
+//utilities
+
+$output-all-utilities: false;
+$theme-utility-breakpoints: (
+  // 160px:
+  "card": false,
+  // 240px:
+  "card-lg": true,
+  // 320px:
+  "mobile": true,
+  // 480px:
+  "mobile-lg": true,
+  // 640px:
+  "tablet": true,
+  // 800px:
+  "tablet-lg": true,
+  // 1024px:
+  "desktop": true,
+  // 1200px:
+  "desktop-lg": true,
+  // 1400px:
+  "widescreen": true
+);
