@@ -71,7 +71,7 @@ gzip_buffers 16 8k;
 gzip_types text/plain text/html text/css application/x-javascript
 text/xml application/xml application/xml+rss text/javascript;
 
-# Disable for IE < 6 because there are some known problems
+# Disable for IE &lt; 6 because there are some known problems
 gzip_disable "MSIE [1-6].(?!.*SV1)";
 
 # Add a vary header for downstream proxies to avoid sending cached

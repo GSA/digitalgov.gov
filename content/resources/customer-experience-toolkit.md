@@ -19,7 +19,7 @@ How to use this guide:
 * Coordinate internally, to ensure your agency “speaks with one voice” across the entire organization
 * Start small and iterate—focus on changes that will have a positive impact on the largest customer groups first
 
-Topics covered in this toolkit include: [Strategy](#strategy "Strategy"), [Governance](#governance "Governance"), [Culture](#culture "Culture"), [Customer Understanding](#customer-understanding "Customer Understanding"), [Design](#design "Design"), [Measurement](#measurement "Measurement"), [Digital Services](#digital-Services "Digital Services"), and [Collaboration](#collaboration "Collaboration").
+Topics covered in this toolkit include: [Strategy](#strategy "Strategy"), [Governance](#governance "Governance"), [Culture](#culture "Culture"), [Customer Understanding](#customer-understanding "Customer Understanding"), [Design](#design "Design"), [Measurement](#measurement "Measurement"), [Digital Services](#digital-services "Digital Services"), and [Collaboration](#collaboration "Collaboration").
 
 ## Strategy
 
