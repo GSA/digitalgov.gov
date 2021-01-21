@@ -64,7 +64,7 @@ API formats are usually either XML ([Extensible Markup Language](http://en.wikip
 
 New APIs are routinely described as RESTful JSON because they follow the REST architectural style and use JSON as its data representation format.
 
-Learn more about [API technical choices](/2013/03/12/api-basics#common-technical-choices).
+Learn more about [API technical choices](/2013/03/12/api-basics).
 
 ### API Types
 
