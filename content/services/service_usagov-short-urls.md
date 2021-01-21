@@ -7,7 +7,7 @@ title: "Go.USA.gov"
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
 source: 'usagov'
-
+source_url: "https://www.usa.gov/"
 # Keep it short — should be no longer than 10 words.
 summary: "A URL shortener for official government domains."
 
