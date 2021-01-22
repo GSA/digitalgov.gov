@@ -131,6 +131,12 @@
             <div class="content">
               {{- .Content -}}
             </div>
+            {{- if in .Params.topics "community-ux" -}}
+            <div class="community_meeting">
+              {{- partial "core/get-upcomingevents" . -}}
+              {{- partial "core/get-pastevents" . -}}              
+            </div>
+            {{- end -}}
             <div class="Community_conduct">
               <h2 id="community-conduct">Community Conduct</h2>
               {{- partial "core/community_pagefooter" . -}}
