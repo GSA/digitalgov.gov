@@ -35,6 +35,8 @@ Join SocialGov for a week of afternoon sessions on all things federal social med
 
 ## Session One
 
+  - [View the slides](https://digital.gov/pdf/socialgov-week-2020-session-1.pdf) (PDF, 3.58 MB, 20 pages)
+
 ### Monday, December 7, 2:00 pm - 2:45 pm, ET
 
 #### When Is the Best Time To Tweet? 
@@ -45,7 +47,11 @@ In this session you will hear from the following speakers:
 
 * Carolina Landsberger and Andres Quinones Ortiz, USAGov Outreach Team, U.S. General Services Administration (GSA)
 
+{{< youtube GY5uoQt6sZ0 >}}
+
 ## Session Two
+
+  - [View the slides](https://digital.gov/pdf/socialgov-week-2020-session-2.pdf) (PDF, 1.42 MB, 16 pages)
 
 ### Tuesday, December 8, 2:00 pm - 2:45 pm, ET
 
@@ -57,7 +63,11 @@ In this session you will hear from:
 
 * Sara Eckert, Social Media Strategist, Social Media Branch, Strategic Communications and Public Affairs, TSA
 
+{{< youtube ZjoNsDqUTUg >}}
+
 ## Session Three 
+
+  - [View the slides](https://digital.gov/pdf/socialgov-week-2020-session-3.pdf) (PDF, 2.08 MB, 14 pages)
 
 ### Wednesday, December 9, 12:00 pm -12:45 pm, ET
 
@@ -71,6 +81,8 @@ In this session you will hear from the following speakers:
 * Peter Lenentine, Director of User Experience & Usability, GSA
 * Victoria Wales, Strategic Outreach Specialist, GSA
 
+{{< youtube iNGQ0cKw_o4 >}}
+
 ## Session Four
 
 ### Wednesday, December 9, 3:00 pm - 3:45 pm, ET
@@ -83,7 +95,11 @@ In this session you will hear from:
 
 * Tanner Iskra, video producer and host of the VA’s "Borne the Battle" Podcast, VA
 
+{{< youtube PonDDNV8fAw >}}
+
 ## Session Five
+
+  - [View the slides](https://digital.gov/pdf/socialgov-week-2020-session-5.pdf) (PDF, 2.22 MB, 19 pages)
 
 ### Thursday, December 10, 2:00 pm - 2:45 pm, ET
 
@@ -94,6 +110,8 @@ Hear how the U.S. Department of State's TravelGov team has adapted their Instagr
 In this session you will hear from the following speakers: 
 
 * Alyssa Zalenski, Digital Content Manager, Bureau of Consular Affairs
+
+{{< youtube GxZQn1M56eU >}}
 
 ## Session Six
 
@@ -109,6 +127,8 @@ In this session you will hear from:
 
 ## Session Seven
 
+  - [View the slides](https://digital.gov/pdf/socialgov-week-2020-session-7.pdf) (PDF, 850 KB, 6 pages)
+
 ### Friday, December 11, 1:00 pm - 2:00 pm, ET
 
 #### Using Social Media Influencers in the Federal Government
@@ -120,3 +140,5 @@ In this session you will hear from:
 * Kendall B Johnson, Executive Director, 2020 Census Integrated Communications Contract PMO, Communications Directorate, U.S. Census Bureau 
 * Briana D Kaya, Deputy Division Chief, Center for New Media & Promotion, U.S. Census Bureau 
 * Yolanda Byrd, Deputy Chief in the Promotions Branch, Center for New Media & Promotions 
+
+{{< youtube 276o55Ir9AI >}}
