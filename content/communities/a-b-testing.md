@@ -33,8 +33,6 @@ community_list:
     members: 71
     emails_per_week:
 
-# Make it better ♥
-
 ---
 
 We believe A/B testing is the core to a continuous optimization strategy for delivering the best customer experiences by iteratively improving customer interactions. Our goal is to encourage data-driven decisions and foster a community to share best practices, tips, and support.
