@@ -23,6 +23,7 @@ authors:
 slug: uswds-monthly-call-journey-mapping-service-blueprints-jan-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: PjmWA2IQDKY
 
 ---
 
