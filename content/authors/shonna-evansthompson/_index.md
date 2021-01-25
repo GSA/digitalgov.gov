@@ -1,9 +1,9 @@
 ---
-# View this page at https://digital.gov/authors/shonna-evansthompson
+# View this page at https://digital.gov/authors/shonna-evans-thompson
 # Learn how to edit our pages at https://workflow.digital.gov
 
-# slug — the specific user-id for an author.
-slug: shonna-evansthompson
+# slug — the specific user-id for an author
+slug: shonna-evans-thompson
 display_name: "Shonna Evans-Thompson"
 first_name: "Shonna"
 last_name: "Evans-Thompson"
@@ -36,12 +36,6 @@ github: ""
 # See [URL] for a full list of profile photo options
 profile_photo: ""
 
-# [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-instagram: ""
-linkedin: ""
-youtube: ""
-
 # Make it better ♥
+
 ---
