@@ -2,8 +2,13 @@
 # View this page at https://digital.gov/authors/shonna-evansthompson
 # Learn how to edit our pages at https://workflow.digital.gov
 
+<<<<<<< Updated upstream
 # slug — the specific user-id for an author.
 slug: shonna-evansthompson
+=======
+# slug — the specific user-id for an author
+slug: shonna-evans-thompson
+>>>>>>> Stashed changes
 display_name: "Shonna Evans-Thompson"
 first_name: "Shonna"
 last_name: "Evans-Thompson"
