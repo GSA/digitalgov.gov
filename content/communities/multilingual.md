@@ -1,17 +1,30 @@
 ---
+# View this page at https://digital.gov/communities/multilingual
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /government-multilingual-websites-community/
+
 slug: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: "Multilingual "
 summary: 'We are working to expand and improve digital content in languages other than English.'
 deck: 'Working to expand and improve digital content in languages other than English.'
+
+# see all authors at https://digital.gov/authors
+authors:
+  - lgodfrey
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
 
-
+# see all topics at https://digital.gov/topics
 topics:
   - multilingual
   - content
-aliases:
-  - /government-multilingual-websites-community/
 
 community_list:
   - platform: "listserv"
@@ -21,9 +34,6 @@ community_list:
     subscribe_form: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
     members: 385
     emails_per_week: 1.33
-
-authors:
-  - lgodfrey
 
 ---
 

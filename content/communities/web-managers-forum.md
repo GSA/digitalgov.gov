@@ -2,6 +2,11 @@
 # View this page at https://digital.gov/communities/web-content-managers
 # Learn how to edit our pages at https://workflow.digital.gov
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/web-managers-forum/
+  - /communities/web-managers-forum/web-content-managers-listserv/
+
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
 title: "Web Content Managers"
@@ -26,12 +31,6 @@ authors:
 # 1 -- visible
 weight: 1
 
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
-  - /communities/web-managers-forum/
-  - /communities/web-managers-forum/web-content-managers-listserv/
-
-
 community_list:
   - platform: listserv
     type: government_only
@@ -41,8 +40,8 @@ community_list:
     members: 1899
     emails_per_week: 4
 
-
 # Make it better ♥
+
 ---
 
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.

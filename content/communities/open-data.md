@@ -1,16 +1,30 @@
 ---
+# View this page at https://digital.gov/communities/open-data
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/open-data-community-of-practice/
+
 slug: open-data
 date: 2015-07-08 10:30:37 -0400
 title: 'Open Data'
 summary: 'A community listserv and working group that unites 900 open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.'
 
-weight: 1
+# see all authors at https://digital.gov/authors
+authors:
+  - pashlock
+  - hyon-kim
 
+# see all topics at https://digital.gov/topics
 topics:
   - data
   - open-data
-aliases:
-  - /communities/open-data-community-of-practice/
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
 
 community_list:
   - platform: "listserv"
@@ -19,10 +33,6 @@ community_list:
     subscribe_email_body: "Subscribe Open-Data"
     members: 925
     emails_per_week: 1
-
-authors:
-  - pashlock
-  - hyon-kim
 
 ---
 

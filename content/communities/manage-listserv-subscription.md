@@ -1,4 +1,13 @@
 ---
+# View this page at https://digital.gov/communities/manage-your-subscription
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /manage-your-listserv-subscription/
+  - /communities/manage-your-subscription/
+  - /communities/manage-your-listserv-subscription/
+
 slug: manage-your-subscription
 title: 'Community Guidelines'
 type: page
@@ -8,11 +17,6 @@ summary: 'GSA supports many communities of practice by hosting Listservs which p
 # 0 -- hidden
 # 1 -- visible
 weight: 0
-
-aliases:
-  - /manage-your-listserv-subscription/
-  - /communities/manage-your-subscription/
-  - /communities/manage-your-listserv-subscription/
 
 ---
 

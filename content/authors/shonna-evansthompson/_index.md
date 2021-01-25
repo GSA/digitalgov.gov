@@ -1,9 +1,9 @@
 ---
-# View this page at https://digital.gov/authors/shonna-evansthompson
+# View this page at https://digital.gov/authors/shonna-evans-thompson
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author.
-slug: shonna-evansthompson
+slug: shonna-evans-thompson
 display_name: "Shonna Evans-Thompson"
 first_name: "Shonna"
 last_name: "Evans-Thompson"
@@ -12,13 +12,13 @@ last_name: "Evans-Thompson"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
 bio: ""
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "United States Department of Veterans Affairs"
@@ -44,4 +44,5 @@ linkedin: ""
 youtube: ""
 
 # Make it better ♥
+
 ---

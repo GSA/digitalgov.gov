@@ -1,15 +1,26 @@
 ---
+# View this page at https://digital.gov/communities/uswds
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+ - /communities/video-production-pros-community-of-practice/
+ - /communities/digital-audio-video-community-of-practice/
+
 slug: video-production
 date: 2016-07-08 1:19:06 -0400
 title: 'Video Production Pros'
 summary: 'Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government.'
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
+
+# see all topics at https://digital.gov/topics
 topics:
   - video
   - audio
-aliases:
-  - /communities/video-production-pros-community-of-practice/
-  - /communities/digital-audio-video-community-of-practice/
 
 community_list:
   - platform: "listserv"

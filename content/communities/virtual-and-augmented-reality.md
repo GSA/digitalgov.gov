@@ -13,6 +13,7 @@ summary: "A collaborative hub for the research and refinement of VR and AR busin
 # 1 -- visible
 weight: 1
 
+# see all topics at https://digital.gov/topics
 topics:
   - virtual-reality
   - augmented-reality
@@ -23,10 +24,10 @@ community_list:
     subscribe_email: "VR-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AR/VR Listserv"
     members: 165
-    emails_per_week: 
-
+    emails_per_week:
 
 # Make it better ♥
+
 ---
 
 Immersive, enhanced audio and visual experiences through virtual and augmented reality are now available to many U.S. citizens through smartphones and other mobile devices&mdash;opening the door to an incredible diversity of new programs and services.

@@ -1,6 +1,7 @@
 ---
 # View this page at https://digital.gov/communities/open-source
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: open-source
 date: 2020-01-29 15:00:00 -0500
 title: "Open Source"
@@ -15,10 +16,13 @@ topics:
   - open-source
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
  - joseph-castle
  - amin-mehr
 
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
 
 community_list:
@@ -45,7 +49,7 @@ We are developers and open source experts, dedicated to helping you with any que
 
 ## Community managers
 
-Amin Mehr, Washington, DC  
+Amin Mehr, Washington, DC
 Joseph Castle, Washington, DC
 
 ## Related resources

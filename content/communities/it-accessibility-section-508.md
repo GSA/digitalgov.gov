@@ -2,15 +2,15 @@
 # View this page at https://digital.gov/communities/accessibility-section-508
 # Learn how to edit our pages at https://workflow.digital.gov
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/accessibility/
+
 slug: it-accessibility-section-508
 date: 2018-10-05 13:00:00 -0500
 title: "IT Accessibility and Section 508"
 deck: ""
 summary: "We support people who are working to improve accessibility of information technology."
-
-aliases:
-  - /communities/accessibility/
-
 
 # see all topics at https://digital.gov/topics
 topics:

@@ -6,7 +6,7 @@ slug: social-media
 date: 2019-12-12 19:00:00 -0500
 title: "Social Media"
 deck: ""
-summary: "We are dedicated to improving the creation, adoption and evaluation of digital engagement programs and emerging social technologies and strategies for public services."
+summary: "We are dedicated to improving the creation, adoption, and evaluation of digital engagement programs and emerging social technologies and strategies for public services."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -25,7 +25,6 @@ community_list:
     subscribe_email_subject: "Join #SocialGov"
     members: 953
     emails_per_week: 5
-
 
 # Make it better ♥
 

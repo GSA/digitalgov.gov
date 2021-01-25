@@ -1,8 +1,12 @@
 ---
-# View this page at https://digital.gov/communities/ab-testing-community
+# View this page at https://digital.gov/communities/ab-testing
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: a-b-testing-community
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/a-b-testing-community
+
+slug: a-b-testing
 date: 2019-12-12 17:00:00 -0500
 title: "A/B Testing"
 deck: ""
@@ -28,7 +32,6 @@ community_list:
     subscribe_email: "abtest-subscribe-request@listserv.gsa.gov"
     members: 71
     emails_per_week:
-
 
 # Make it better ♥
 

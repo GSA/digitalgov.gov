@@ -1,4 +1,11 @@
 ---
+# View this page at https://digital.gov/user-experience
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /federal-user-experience-community-of-practice/
+
 slug: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: 'User Experience'
@@ -6,9 +13,9 @@ summary: "Join other federal user experience practitioners and learn how to make
 
 topics:
   - user-experience
-aliases:
-  - /federal-user-experience-community-of-practice/
+
 weight: 1
+
 community_list:
   - platform: "listserv"
     type: government

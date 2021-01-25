@@ -1,14 +1,19 @@
 ---
-# View this page at https://digital.gov/communities/cloud-infrastructure-community
+# View this page at https://digital.gov/communities/cloud-infrastructure
 # Learn how to edit our pages at https://workflow.digital.gov
-slug: cloud-infrastructure-community
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/cloud-infrastructure-community
+
+slug: cloud-infrastructure
 date: 2020-04-30 10:00:00 -0500
 title: "Cloud and Infrastructure"
 deck: "We connect data center and cloud colleagues to share insights and knowledge."
 summary: "A community for those who support their agency’s IT modernization efforts, and want to learn about application rationalization, data center optimization, and federal cloud computing."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - cloud
   - infrastructure
 
@@ -16,12 +21,12 @@ topics:
 authors:
   - thomas-santucci
   - guy-cavallo
-  
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-  
+
 community_list:
   - platform: listserv
     type: government
