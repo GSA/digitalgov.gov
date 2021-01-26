@@ -8,11 +8,12 @@
     {{ $upcoming_events := $upcoming_events | intersect (where $upcoming_events "Date" ">" now)  }}
     {{ $total_events := where  $upcoming_events  ".Params.topics" "intersect" .Params.topics }} 
     {{if $total_events}}      
-    <h2 id="Upcoming-meeting">Upcoming Meeting</h2>
+    <h2 id="Upcoming-Events">Upcoming Events</h2>
     <ul>
         {{ range $element := where  $upcoming_events  ".Params.topics" "intersect" .Params.topics }}
-        <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ dateFormat "2006-01-02" .Params.date }} {{ .Title | markdownify }}</a></li>
+        <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }} ({{ dateFormat "01/02/2006" .Params.date }})</a></li>
         {{ end }}                
     </ul>  
-    {{ end }}                    
+    {{ end }}   
+    <br/>                 
 </div>  
