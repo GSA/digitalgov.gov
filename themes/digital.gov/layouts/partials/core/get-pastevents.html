@@ -8,14 +8,12 @@
     {{ $past_events := $past_events | intersect (where $past_events "Date" "<" now)  }} 
     {{ $total_events := where  $past_events  ".Params.topics" "intersect" .Params.topics }} 
     {{if $total_events}}  
-    <div class="Community_events">
     <h2 id="Past-Events">Past Events</h2>               
     <ul>
         {{ range first 5 $total_events }}                                   
         <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }} ({{ dateFormat "01/02/2006" .Params.date }})</a></li>
         {{ end }}
-    </ul>       
-    {{ end }}  
-    <br>
-    </div>       
+    </ul>    
+    <br>     
+    {{ end }}        
 </div>  
