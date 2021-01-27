@@ -2,6 +2,10 @@
 # View this page at https://digital.gov/communities/uswds
 # Learn how to edit our pages at https://workflow.digital.gov
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+ - https://designsystem.digital.gov/about/community/
+
 slug: uswds
 date: 2019-12-12 19:00:00 -0500
 title: "U.S. Web Design System"
@@ -35,10 +39,6 @@ community_list:
     subscribe_form: https://chat.18f.gov/
     members: 108
     emails_per_week:
-
-redirectto: https://designsystem.digital.gov/about/community/
-
-# Make it better ♥
 
 ---
 

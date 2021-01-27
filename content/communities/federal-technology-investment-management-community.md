@@ -1,8 +1,12 @@
 ---
-# View this page at https://digital.gov/communities/federal-technology-investment-management-community
+# View this page at https://digital.gov/communities/federal-technology-investment-management
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: federal-technology-investment-management-community
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/federal-technology-investment-management-community/
+
+slug: federal-technology-investment-management
 date: 2020-04-30 17:00:00 -0500
 title: "Federal Technology Investment Management"
 deck: "Working to achieve greater government efficiency in the management of federal IT resources and assets."
@@ -10,14 +14,14 @@ summary: "We share best practices and lessons learned to improve IT cost transpa
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 
+  -
 
 # see all authors at https://digital.gov/authors
 authors:
   - shonna-evansthompson
   - laura-szakmary
   - kyra-stewart
-  
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -31,9 +35,6 @@ community_list:
     terms: "Open to any Federal employee or contractor with a .gov or .mil email address."
     members: 518
     emails_per_week: .5
-
-
-# Make it better ♥
 
 ---
 

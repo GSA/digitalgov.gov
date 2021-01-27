@@ -6,7 +6,7 @@ slug: social-media
 date: 2019-12-12 19:00:00 -0500
 title: "Social Media"
 deck: ""
-summary: "We are dedicated to improving the creation, adoption and evaluation of digital engagement programs and emerging social technologies and strategies for public services."
+summary: "We are dedicated to improving the creation, adoption, and evaluation of digital engagement programs and emerging social technologies and strategies for public services."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -25,9 +25,6 @@ community_list:
     subscribe_email_subject: "Join #SocialGov"
     members: 953
     emails_per_week: 5
-
-
-# Make it better ♥
 
 ---
 
@@ -53,7 +50,7 @@ We identify opportunities and challenges to improve government use of social dat
 
 Another one of these programs is the [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/), which is the official resource that agencies, citizens, and developers use to confirm the official status of social media and public-facing collaboration accounts, mobile apps and mobile websites. This creates an additional layer of security by helping prevent exploitation from unofficial sources, phishing scams, or malicious entities.
 
-### Tools and Resources
+## Tools and Resources
 
 - U.S. Digital Registry [https://digital.gov/services/u-s-digital-registry/](https://digital.gov/services/u-s-digital-registry/)
 - U.S. Public Participation Playbook [https://participation.usa.gov](https://participation.usa.gov)

@@ -1,12 +1,27 @@
 ---
+# View this page at https://digital.gov/communities/government-contact-center-council
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: government-contact-center-council
 date: 2013-11-21 3:28:02 -0400
 title: 'Government Contact Center Council (G3C)'
 summary: 'We are an inter-agency group of contact center directors and managers with over 200 members across 55 federal, state and local government agencies.'
 
+# Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /government-contact-center-council-g3c/
 
+# see all topics at https://digital.gov/topics
+topics:
+  - contact-centers
+
+# see all authors at https://digital.gov/authors
+authors:
+  - shonna-evans-thompson
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
 
 community_list:

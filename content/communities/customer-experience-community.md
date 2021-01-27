@@ -1,13 +1,28 @@
 ---
-slug: customer-experience-community
+# View this page at https://digital.gov/communities/customer-experience
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/customer-experience-community/
+
+slug: customer-experience
 date: 2015-07-08 10:30:37 -0400
 title: 'Customer Experience'
 summary: 'We are an interagency group of customer experience practitioners.'
 
-weight: 1
-
+# see all topics at https://digital.gov/topics
 topics:
   - cx
+
+# see all authors at https://digital.gov/authors
+authors:
+  -
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
 
 community_list:
   - platform: listserv

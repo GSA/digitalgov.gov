@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/communities/agilelean
+# View this page at https://digital.gov/communities/agile-lean
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: agile-lean
@@ -9,13 +9,13 @@ deck: "Supporting people working with agile/lean methodologies and those who wou
 summary: "Supporting people working with agile/lean methodologies and those who would like to learn more."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - agile
   - product-management
   - kanban
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - bbrantley
   - logan-powell
 
@@ -25,9 +25,8 @@ authors:
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /agile-lean-community-of-practice/
-
 
 community_list:
   - platform: listserv
@@ -37,8 +36,6 @@ community_list:
     subscribe_email_body: "subscribe agile-lean-cop"
     members: 509
     emails_per_week: 1.58
-
-# Make it better ♥
 
 ---
 

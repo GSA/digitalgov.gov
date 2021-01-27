@@ -1,6 +1,7 @@
 ---
 # View this page at https://digital.gov/communities/artificial-intelligence
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: artificial-intelligence
 date: 2019-12-31 19:03:00 -0500
 title: "Artificial Intelligence"
@@ -8,12 +9,12 @@ deck: ""
 summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - data
   - artificial-intelligence
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - krista-kinnard
   - steven-babitch
 
@@ -28,8 +29,6 @@ community_list:
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AI Listserv"
     members: 959
-
-# Make it better ♥
 
 ---
 

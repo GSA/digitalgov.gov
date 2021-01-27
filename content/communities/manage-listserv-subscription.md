@@ -1,18 +1,32 @@
 ---
+# View this page at https://digital.gov/communities/manage-your-subscription
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /manage-your-listserv-subscription/
+  - /communities/manage-your-subscription/
+  - /communities/manage-your-listserv-subscription/
+
 slug: manage-your-subscription
 title: 'Community Guidelines'
 type: page
 summary: 'GSA supports many communities of practice by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.'
+
+# see all topics at https://digital.gov/topics
+topics:
+  -
+
+# see all authors at https://digital.gov/authors
+authors:
+  -
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 0
 
-aliases:
-  - /manage-your-listserv-subscription/
-  - /communities/manage-your-subscription/
-  - /communities/manage-your-listserv-subscription/
+# Make it better ♥
 
 ---
 
@@ -82,63 +96,34 @@ When using these commands, always:
 
 <table>
   <tr>
-    <td style="width: 50%">
-      <strong>Action</strong>
-    </td>
+    <td style="width: 50%"><strong>Action</strong></td>
+    <td><strong>Command Line</strong></td>
+  </tr>
 
-    <td>
-      <strong>Command Line</strong>
+  <tr>
+    <td>Remove yourself from the list</td>
+    <td>signoff <em>TESTLIST</em>
     </td>
   </tr>
 
   <tr>
-    <td>
-      Remove yourself from the list
-    </td>
-
-    <td>
-      signoff <em>TESTLIST</em>
-    </td>
+    <td>Receive a daily digest of plain text posts; recommended for users with plain text email systems</td>
+    <td>set <em>TESTLIST</em> digest</td>
   </tr>
 
   <tr>
-    <td>
-      Receive a daily digest of plain text posts; recommended for users with plain text email systems
-    </td>
-
-    <td>
-      set <em>TESTLIST</em> digest
-    </td>
+    <td>Receive digest in MIME format; recommended for <strong>Lotus Notes</strong> users</td>
+    <td>set <em>TESTLIST</em> digest mime nohtml</td>
   </tr>
 
   <tr>
-    <td>
-      Receive digest in MIME format; recommended for <strong>Lotus Notes</strong> users
-    </td>
-
-    <td>
-      set <em>TESTLIST</em> digest mime nohtml
-    </td>
+    <td>Receive digest in HTML format; recommended for <strong>MS Outlook</strong> users</td>
+    <td>set <em>TESTLIST</em> digest html</td>
   </tr>
 
   <tr>
-    <td>
-      Receive digest in HTML format; recommended for <strong>MS Outlook</strong> users
-    </td>
-
-    <td>
-      set <em>TESTLIST</em> digest html
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Receive messages one-by-one as they are posted; recommended for all users
-    </td>
-
-    <td>
-      set <em>TESTLIST</em> nodigest
-    </td>
+    <td>Receive messages one-by-one as they are posted; recommended for all users</td>
+    <td>set <em>TESTLIST</em> nodigest</td>
   </tr>
 </table>
 
