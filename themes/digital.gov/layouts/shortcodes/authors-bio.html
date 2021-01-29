@@ -1,0 +1,13 @@
+{{/*
+    ======================================
+    AUTHORS Bio .... short
+    ======================================
+  */}}
+    {{- $authors1 := .Get 0 -}}
+    {{- $list := where .Site.Pages "Section" "authors" -}}
+    {{- $list := where $list ".Params.slug" "eq" $authors1 -}} 
+    {{- range $i, $e := uniq $list -}}     
+    <br/>
+       <b>{{ .Params.display_name }} </b> {{ trim .Params.bio .Params.display_name }}           
+    {{- end -}}
+<br/>
