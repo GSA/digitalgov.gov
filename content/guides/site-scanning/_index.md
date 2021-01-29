@@ -26,25 +26,19 @@ aliases:
 - Other best practices
 
 
-## Understanding the data
-
-...
-
 ## Access the data directly
 
-All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/).  
-
-...
-
+All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/) or [downloaded as a CSV or JSON file](https://digital.gov/guides/site-scanning/download-the-data/).   
 
 ## Learn more about the program, the scans, and the underlying data
 
 Each scan and report page is documented in detail in the program's [documentation hub](https://github.com/18F/site-scanning-documentation).  The major sections include: 
 
-- [About the Program](https://github.com/18F/site-scanning-documentation#about)
-- Scan Documentation
-- [Program Management Documentation](https://github.com/18F/site-scanning-documentation/tree/master/project-management)
-
+- [Understanding the Data](https://github.com/18F/site-scanning-documentation#understanding-the-data)
+- [About the Program](https://github.com/18F/site-scanning-documentation/tree/main/about)
+- [Program Management Documentation](https://github.com/18F/site-scanning-documentation/tree/main/about/project-management)
+- [Technical Documentation](https://github.com/18F/site-scanning-documentation#technical) 
+  
 ## Contact the Site Scanning Team
 
 **Questions?** Email the [Site Scanning team](mailto:site-scanning@gsa.gov).
