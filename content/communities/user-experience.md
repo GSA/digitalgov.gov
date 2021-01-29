@@ -45,7 +45,7 @@ Our members include more than 1,100 federal, state, and local U.S. government em
 ### What we do
 
 * Create case studies of why UX works!
-* Training for government Web managers, usability specialists, project managers, etc…
+* Webinars and educational sessions for government Web managers, usability specialists, project managers, etc…
 * User Experience (UX) networking events
 * Connect people to useful UX resources
 
