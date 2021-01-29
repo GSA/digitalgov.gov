@@ -14,7 +14,7 @@ summary: "We share best practices and lessons learned to improve IT cost transpa
 
 # see all topics at https://digital.gov/topics
 topics:
-  -
+
 
 # see all authors at https://digital.gov/authors
 authors:
