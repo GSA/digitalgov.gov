@@ -15,7 +15,7 @@ summary: 'GSA supports many communities of practice by hosting Listservs which p
 
 # see all topics at https://digital.gov/topics
 topics:
-  -
+
 
 # see all authors at https://digital.gov/authors
 authors:
