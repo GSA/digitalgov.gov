@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/pif-george-chewning.png
+
+# Image shortcode: {{< img src="pif-george-chewning" >}}
+
+date     : 2021-01-29 14:29:20 -0400
+uid      : pif-george-chewning
+width    : 1200
+height   : 630
+format   : png
+credit   : ""
+caption  : "" 
+alt      : "George Chewning"
