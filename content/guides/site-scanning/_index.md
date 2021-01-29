@@ -28,7 +28,7 @@ aliases:
 
 ## Access the data directly
 
-All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/) or [downloaded as a CSV or JSON file](https://digital.gov/guides/site-scanning/download-the-data/).   
+All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/) or downloaded as a [CSV or JSON file](https://digital.gov/guides/site-scanning/download-the-data/).   
 
 ## Learn more about the program, the scans, and the underlying data
 
