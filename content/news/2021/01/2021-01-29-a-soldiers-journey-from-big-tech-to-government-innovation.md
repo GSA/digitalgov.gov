@@ -8,15 +8,15 @@ summary: Why I returned to government service, how I brought my tech experience 
 
 # See all topics at https://digital.gov/topics
 topics:
-  - best-practices
-  - va
-  - us-department-of-veterans-affairs
-  - pif
-  - presidential-innovation-fellows
+ - best-practices
+ - va
+ - us-department-of-veterans-affairs
+ - pif
+ - presidential-innovation-fellows
 
 # See all authors at https://digital.gov/authors
 authors:
-  - george-chewning
+ - george-chewning
 
 primary_image: pif-george-chewning
 
