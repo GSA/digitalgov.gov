@@ -2,8 +2,7 @@
 title: "Tag Managers Part 2: Configuration Framework"
 deck: Practical Framework for using GTM
 kicker: "DAP Learning Series: Google Tag Manager Configuration Framework"
-summary: This session will help DAP users configure and use their tag manager,
-  to augment their reporting on more advanced interactions with their websites.
+summary: This session will help DAP users configure and use their tag manager, to augment their reporting on more advanced interactions with their websites.
 host: Data Analytics Program
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/tag-managers-part-2configuration-framework-tickets-139470916265
@@ -21,11 +20,14 @@ authors:
 slug: tag-managers-part-2-configuration-framework
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: ""
+primary_image: 
+
 ---
-During part 2 of the Tag Managers series, we'll talk about how to think about configuring Google Tag Manager to track interactions on your website, to empower your team to report on website goals and key performance indicators (KPIs). The session will address how to think about Datalayer Variables, Triggers and Tags, and best practices on when to configure them. Knowing your website mission, goals and KPIs is recommended, to get the most value out of this session. 
 
-**The session will help attendees consider:**
+During part 2 of the Tag Managers series, we'll talk about how to think about configuring Google Tag Manager to track interactions on your website, to empower your team to report on website goals and key performance indicators (KPIs). To get the most value out of this session, knowing your website mission, goals, and KPIs (key performance indicators) is recommended. 
 
-* Datalayer Variables, Triggers and Tags.
+**The session will help attendees address how to think about:**
+
+* Datalayer variables, 
+* Triggers and tags, and 
 * Best practices framework on when to configure them.
