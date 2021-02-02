@@ -20,16 +20,16 @@ slug: wendy-wagner-smith
 email: "wendy.wagner-smith@treasury.gov"
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "A professional trainer for nearly 20 years, Wendy Wagner-Smith is a career communications professional and expert in plain language and usable design. Currently a senior writer-editor for the Small Business Administration, Wendy has taught plain language to employees in more than 55 agencies and offices of the federal government, as well as state and local governments across the country. From 2012 to 2018, Wendy was the training coordinator for the federal Plain Language Action and Information Network (PLAIN), managing a corps of volunteer instructors and coordinating all of the plain language training requests from across the government."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "U.S. Small Business Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "SBA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
