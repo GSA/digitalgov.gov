@@ -14,7 +14,6 @@ topics:
   - uswds
   - design
   - 21st-century-idea
-  - product-management
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams
