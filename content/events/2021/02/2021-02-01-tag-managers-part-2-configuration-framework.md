@@ -1,7 +1,7 @@
 ---
 title: "Tag Managers Part 2: Configuration Framework"
 deck: Practical Framework for using GTM
-kicker: "DAP Learning Series: Google Tag Manager Configuration Framework"
+kicker: "DAP Learning Series"
 summary: This session will help DAP users configure and use their tag manager, to augment their reporting on more advanced interactions with their websites.
 host: Data Analytics Program
 event_organizer: Digital.gov
