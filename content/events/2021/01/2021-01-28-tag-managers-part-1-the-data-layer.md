@@ -1,8 +1,8 @@
 ---
 title: "Tag Managers Part 1: The Data Layer"
 deck: Learn what the tag manager data layer is and how you can utilize it.
-summary: This session will help the audience expand analysis capabilities by
-  using the tag manager data layer!
+summary: This session will help the audience expand analysis capabilities by using the tag manager data layer!
+kicker: "DAP Learning Series"
 host: Digital Analytics Program (DAP)
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/tag-managers-part-1-the-data-layer-tickets-138693258269
