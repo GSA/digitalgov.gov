@@ -10,7 +10,7 @@ summary: "We encourage public participation in crowdsourcing competitions to fin
 # see all topics at https://digital.gov/topics
 topics: 
   - Challenges & Prizes
-  - Crowdsourcing 
+  - Crowdsourcing
 
 # see all authors at https://digital.gov/authors
 authors: 
