@@ -9,9 +9,8 @@ summary: "We encourage public participation in crowdsourcing competitions to fin
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - challenges
-  - crowdsourcing
-  - challenge-gov
+  - Challenges & Prizes
+  - Crowdsourcing 
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -31,8 +30,6 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "challenges-subscribe-request@listserv.gsa.gov"
-    subscribe_email_subject: "Join Challenges Community"
-    subscribe_email_body: "your name + agency you work for"
     members: 794
 
 
@@ -44,11 +41,7 @@ community_list:
 
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
-If you answered yes to any of these questions, the Challenge and Prize Federal Community of Practice is for you!
-
-## Who we are
-
-Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing. Our community strives to tap into the public braintrust to help government solve complex problems. We are a thriving inter-agency community of more than 740 dedicated and passionate civil servants encouraging innovation in government. Membership and participation are open to federal, tribal, state and local government.
+If you answered yes to any of these questions, the Challenge and Prize Community of Practice is for you!
 
 ## What we do
 
@@ -57,6 +50,10 @@ Our members exchange ideas, review best practices, and provide a sounding board 
 Our community supports and encourages the use of incentivized competition to attract and engage the public to help us meet critical government needs.
 
 Members of the Challenge and Prize COP gather about four times a year to share ideas, review best practices, and discuss policies and procedures. Membership and participation is open to federal, state, and local government. We host a listserv for members to ask questions, announce new challenges and prizes, and more.
+
+## Who we are
+
+Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing. Our community strives to tap into the public braintrust to help government solve complex problems. We are a thriving inter-agency community of more than 790 dedicated and passionate civil servants encouraging innovation in government. Membership and participation are open to federal, tribal, state and local government.
 
 ## Key Resources
 
