@@ -8,12 +8,12 @@ deck: ""
 summary: "We encourage public participation in crowdsourcing competitions to find innovative government solutions."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - Challenges & Prizes
   - Crowdsourcing
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jarah-meador
 
 # Page weight: controls how this page appears across the site
@@ -22,7 +22,7 @@ authors:
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /challenges-prizes-community/
 
 community_list:
