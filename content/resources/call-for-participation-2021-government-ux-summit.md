@@ -61,6 +61,8 @@ We’re looking for presentations in the following formats:
 * 10-minute presentations, where speakers can present short discussions or brief highlights
 * 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
 
+{{< img src="ux-summit-2021" >}}
+
 - - -
 
 The 2021 Government UX Summit is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and Digital.gov.
