@@ -34,9 +34,9 @@ Only U.S. government employees (federal, state, tribal, and local) and contracto
 
 A committee of government employees will review the submissions and select the program based on the relevance, usefulness, and quality of the submission and the qualifications of the presenters. We expect to finalize the program in late March.
 
-{{< img src="ux-summit-2021" >}}
+**Below are the topics and presentation formats that we’re looking for. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Caroline Smith at [Caroline.Smith@cms.hhs.gov](mailto:Caroline.Smith@cms.hhs.gov).**
 
-**Below are the topics and presentation formats we’re looking for. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Caroline Smith at [Caroline.Smith@cms.hhs.gov](mailto:Caroline.Smith@cms.hhs.gov).**
+{{< img src="ux-summit-2021" >}}
 
 ## What We’re Looking For
 
