@@ -1,8 +1,6 @@
 ---
 date: 2020-07-28 09:00:00 -0500
 title: "Access the Data"
-deck: "A set of daily scans of the federal web presence."
-summary: 'The Site Scanning program automates a wide range of scans of public federal websites and generates data about website health and best practices.'
 guide: site-scanning
 aliases:
   - /guide/site-scanning/data/
