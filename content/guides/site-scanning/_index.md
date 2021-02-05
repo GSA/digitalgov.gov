@@ -23,20 +23,21 @@ aliases:
 - Digital Analytics Program participation
 - Use of the US Web Design System
 - Search engine optimization
+- Third party services
 - Other best practices
 
 
 ## Access the data directly
 
-All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/) or downloaded as a [CSV or JSON file](https://digital.gov/guides/site-scanning/download-the-data/).   
+All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/) or downloaded as a [CSV or JSON file](/guides/site-scanning/data/).   
 
 ## Learn more about the program, the scans, and the underlying data
 
 Each scan and report page is documented in detail in the program's [documentation hub](https://github.com/18F/site-scanning-documentation).  The major sections include: 
 
 - [Understanding the Data](https://github.com/18F/site-scanning-documentation#understanding-the-data)
-- [About the Program](https://github.com/18F/site-scanning-documentation/tree/main/about)
-- [Program Management Documentation](https://github.com/18F/site-scanning-documentation/tree/main/about/project-management)
+- [About the Program](https://github.com/18F/site-scanning-documentation#about)
+- [Program Management Documentation](https://github.com/18F/site-scanning-documentation#program-management)
 - [Technical Documentation](https://github.com/18F/site-scanning-documentation#technical) 
   
 ## Contact the Site Scanning Team
