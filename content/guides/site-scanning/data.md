@@ -9,7 +9,7 @@ aliases:
   - /guides/site-scanning/download-the-data/
 ---
 
-There's a complete API available for accessing all of the scan data.  Complete documentation, including API key registration, [can be found on open.gsa.gov](https://open.gsa.gov/api/site-scanning-api/).  
+There's a complete API available for accessing all of the scan data.  Full documentation, including API key registration, [can be found on open.gsa.gov](https://open.gsa.gov/api/site-scanning-api/).  
 
 **Direct Downloads**
 
