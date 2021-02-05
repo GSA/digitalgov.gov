@@ -35,12 +35,6 @@ A committee of government employees will review the submissions and select the p
 
 {{< img src="ux-summit-2021" >}}
 
-[Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScH8C3t9vUHLVcMxvUbYL0M_nwk_6-d9HayLS39iFdCdEQMRA/viewform) by February 26, 2021.
-
-A committee of government employees will review the submissions and select the program based on the relevance, usefulness, and quality of the submission and the qualifications of the presenters. We expect to finalize the program in late March.
-
-Below are the topics and presentation formats we’re looking for. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Caroline Smith at [Caroline.Smith@cms.hhs.gov](mailto:Caroline.Smith@cms.hhs.gov).
-
 ### What We’re Looking For
 
 #### Topics
