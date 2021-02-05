@@ -25,6 +25,8 @@ weight: 1
 ---
 ## Call for Presenters
 
+Join us as presenters for the 2021 Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.  Our fully virtual event will be held June 22-24, 2021.
+
 Only U.S. government employees (federal, state, tribal, and local) and contractors with a U.S. government email address—and with their agency’s approval—are eligible to present. This is to ensure that the event supports government UX work.
 
 [Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScH8C3t9vUHLVcMxvUbYL0M_nwk_6-d9HayLS39iFdCdEQMRA/viewform) by February 26, 2021.
