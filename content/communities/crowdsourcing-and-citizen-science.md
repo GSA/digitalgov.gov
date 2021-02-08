@@ -8,6 +8,11 @@ title: "Crowdsourcing and Citizen Science"
 deck: ""
 summary: "We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives."
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /federal-crowdsourcing-and-citizen-science/
+  - /communities/federal-crowdsourcing-and-citizen-science/
+
 # see all topics at https://digital.gov/topics
 topics:
   - challenges
@@ -24,12 +29,6 @@ authors:
 # 1 -- visible
 weight: 1
 
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
-  - /federal-crowdsourcing-and-citizen-science/
-  - /communities/federal-crowdsourcing-and-citizen-science/
-
-
 community_list:
   - platform: listserv
     type: government
@@ -38,9 +37,6 @@ community_list:
     subscribe_email_body: "enter your name + agency you work for"
     members: 427
     emails_per_week: 4
-
-
-# Make it better ♥
 
 ---
 

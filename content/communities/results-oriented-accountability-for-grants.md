@@ -1,9 +1,17 @@
 ---
+# View this page at https://digital.gov/communities/results-oriented-accountability-for-grants
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: results-oriented-accountability-for-grants
 date: 2018-05-31 12:00:00 -0400
 title: 'Results-Oriented Accountability for Grants'
 summary: "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal."
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
+
 community_list:
   - platform: "listserv"
     type: government
