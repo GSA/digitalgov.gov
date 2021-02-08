@@ -31,8 +31,7 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "challenges-subscribe-request@listserv.gsa.gov"
-    subscribe_email_subject: "Join Challenges Community"
-    subscribe_email_body: "your name + agency you work for"
+    terms: "Anyone with a .gov or .mil email address is eligible to join"
     members: 794
 
 ---
