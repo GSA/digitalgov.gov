@@ -22,6 +22,8 @@ authors:
 # 2 -- highlighted
 weight: 1
 
+primary_image: ux-summit-2021
+
 ---
 
 ## Call for Presenters
