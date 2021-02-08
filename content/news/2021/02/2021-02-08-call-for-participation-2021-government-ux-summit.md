@@ -1,9 +1,5 @@
-date: 2021-02-08 12:43:00 -0500
-slug: call-for-participation-2021-government-ux-summit
-
-title: "Call for Participation: 2021 Government UX Summit"
 ---
-date: 2021-02-05 12:09:00 -0500
+date: 2021-02-08 12:43:00 -0500
 slug: call-for-participation-2021-government-ux-summit
 
 title: "Call for Participation: 2021 Government UX Summit"
