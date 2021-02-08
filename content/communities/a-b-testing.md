@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/communities/ab-testing-community
+# View this page at https://digital.gov/communities/ab-testing
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: a-b-testing-community
@@ -7,6 +7,10 @@ date: 2019-12-12 17:00:00 -0500
 title: "A/B Testing"
 deck: ""
 summary: "We encourage data-driven decisions and continuous optimization through A&#47;B testing."
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/a-b-testing-community
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -28,9 +32,6 @@ community_list:
     subscribe_email: "abtest-subscribe-request@listserv.gsa.gov"
     members: 71
     emails_per_week:
-
-
-# Make it better ♥
 
 ---
 

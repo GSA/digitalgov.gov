@@ -1,14 +1,25 @@
 ---
+# View this page at https://digital.gov/communities/user-experience
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: 'User Experience'
 summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
 
-topics:
-  - user-experience
+# Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /federal-user-experience-community-of-practice/
+
+# see all topics at https://digital.gov/topics
+topics:
+  - user-experience
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
+
 community_list:
   - platform: "listserv"
     type: government

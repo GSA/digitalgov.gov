@@ -8,9 +8,9 @@ title: "IT Accessibility and Section 508"
 deck: ""
 summary: "We support people who are working to improve accessibility of information technology."
 
+# Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/accessibility/
-
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -35,9 +35,6 @@ community_list:
     members: 744
     emails_per_week:
 
-
-# Make it better ♥
-
 ---
 
 The IT Accessibility Community of Practice helps federal agencies buy and build accessible IT, with tools, training and best practices to support universal design, accessible development, and 508-compliant procurement. We work to encourage the adoption of accessible IT across the federal government.
@@ -50,7 +47,7 @@ The IT Accessibility Community consists of governmental professionals working to
 
 We identify and promote best practices for implementing the [Information and Communication Technology (ICT) Accessibility Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines). We share successful practices and information with each other. We use a diverse set of tools, from universal design to accessible development, to increase the accessibility of federal IT.
 
-### Resources
+## Resources
 
 - [Section508.gov](https://www.section508.gov) | [Contact Information](https://www.section508.gov/content/contact-us)
 - [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)

@@ -10,14 +10,14 @@ summary: "We share best practices and lessons learned to improve IT cost transpa
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 
+  - acquisition
 
 # see all authors at https://digital.gov/authors
 authors:
   - shonna-evansthompson
   - laura-szakmary
   - kyra-stewart
-  
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -31,9 +31,6 @@ community_list:
     terms: "Open to any Federal employee or contractor with a .gov or .mil email address."
     members: 518
     emails_per_week: .5
-
-
-# Make it better ♥
 
 ---
 

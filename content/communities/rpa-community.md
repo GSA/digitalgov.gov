@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/communities/robotic-process-automation-rpa
+# View this page at https://digital.gov/communities/rpa
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: rpa
@@ -17,6 +17,11 @@ topics:
 authors:
   - james-geoghegan
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
 community_list:
   - platform: listserv
     type: government_only
@@ -28,13 +33,6 @@ community_list:
     subscribe_email: "PubRPA-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe PubRPA"
     members: 0
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
-
-# Make it better ♥
 
 ---
 
@@ -50,7 +48,7 @@ The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP
 
 The RPA community has built several resources, including an RPA Program [Playbook]({{< ref "rpa-playbook.md" >}}), an [Internal Controls Guide](https://digital.gov/pdf/rpa-playbook-ic-addendum-v1.0.pdf), and the [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}}). Check out our [RPA Guide]({{< ref "guides/rpa" >}}) to learn more!
 
-## Who We Are  
+## Who We Are
 
 The RPA CoP comprises  leaders across the federal government who share a passion for RPA.
 
