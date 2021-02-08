@@ -1,35 +1,33 @@
 ---
 source: digitalgov
 date: 2021-02-08 12:43:00 -0500
-kicker: ""
 title: "Call for Participation: 2021 Government UX Summit"
-deck: We are looking for speakers to share their experiences as UX practitioners
-  in government.
-summary: Join us as virtual presenters for the 2021 Government UX Summit in
-  June! This is a great opportunity to hone your UX skills with the best and
-  brightest user experience researchers and designers from across the
-  government.
+---
+date: 2021-02-05 12:09:00 -0500
+slug: call-for-participation-2021-government-ux-summit
+
+title: "Call for Participation: 2021 Government UX Summit"
+deck: We are looking for speakers to share their experiences as UX practitioners in government.
+summary: Join us as virtual presenters for the 2021 Government UX Summit in June! This is a great opportunity to hone your UX skills with the best and brightest user experience researchers and designers from across the government.
+
 # See all topics at https://digital.gov/topics
 topics:
-  - user-experience-community-of-practice
-  - federal-user-experience-community
   - user-experience
-  - usability-case-study
-  - uswds
-  - agile
+  - community-ux
   - cx
+
 # See all authors at https://digital.gov/authors
 authors:
   - jean-fox
-slug: call-for-participation-2021-government-ux-summit
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
+# 2 -- highlighted
 weight: 1
-# Enter the path of the URL that you want redirected to this page
-aliases:
-  - https://digital.gov/resources/call-for-participation-2021-government-ux-summit/?dg
+
 ---
+
 ## Call for Presenters
 
 Join us as presenters for the 2021 Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.  Our fully virtual event will be held June 22-24, 2021.
@@ -71,4 +69,3 @@ We’re looking for presentations in the following formats:
 The 2021 Government UX Summit is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and Digital.gov.
 
 *[Join the UX CoP](https://digital.gov/communities/user-experience/) — a group of more than 1,400 federal, tribal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide webinars, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join.*
-
