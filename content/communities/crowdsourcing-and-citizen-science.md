@@ -46,11 +46,11 @@ The Federal Community of Practice on Crowdsourcing and Citizen Science (FedCCS) 
 
 The FedCCS Co-Chairs are:
 
-Jay Benforado, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
+**Jay Benforado**, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
 
-Sophia B. Liu, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
+**Sophia B. Liu**, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
 
-John McLaughlin, Education Program Manager, Office of Education, National Oceanic and Atmospheric Administration (NOAA)
+**John McLaughlin**, Education Program Manager, Office of Education, National Oceanic and Atmospheric Administration (NOAA)
 
 ## Overview
 
