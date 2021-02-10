@@ -41,7 +41,7 @@ community_list:
 
 ## Who We Are
 
-The Cloud & Infrastructure Community of Practice (C&I CoP) is chartered under the [Federal CIO Council](https://www.cio.gov/) and governed by an Executive Committee of representatives from both [CFO Act](https://cfo.gov/about/) and small federal agency representatives. GSA’s Data Center and Cloud Optimization Initiative (DCCOI) Program Management Office (PMO) provides logistical support for the CoP in the areas of policy compliance and operational best practices to meet requirements in OMB [M-19-19 (PDF, 2.2 MB, 13 pages](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-19-Data-Centers.pdf) and the federal cloud computing strategy, [Cloud Smart](https://cloud.cio.gov/strategy/).
+The Cloud and Infrastructure Community of Practice (C&I CoP) is chartered under the [Federal CIO Council](https://www.cio.gov/) and governed by an Executive Committee of representatives from both [CFO Act](https://cfo.gov/about/) and small federal agency representatives. GSA’s Data Center and Cloud Optimization Initiative (DCCOI) Program Management Office (PMO) provides logistical support for the CoP in the areas of policy compliance and operational best practices to meet requirements in OMB [M-19-19 (PDF, 2.2 MB, 13 pages](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-19-Data-Centers.pdf) and the federal cloud computing strategy, [Cloud Smart](https://cloud.cio.gov/strategy/).
 
 ## What We Do
 

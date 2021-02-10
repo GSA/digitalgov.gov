@@ -38,7 +38,7 @@ community_list:
 
 ---
 
-The Federal Technology Investment Management (FTIM) Community of Practice (CoP) helps federal agencies implement a standard way to categorize information technology (IT) costs, technologies, resources, applications, and services. We help agencies optimize the value of their IT investments by prioritizing transparency, consumption, and performance. If you’re a **federal employee or contractor with a .gov or .mil email address** and are interested in helping the federal government improve cost management for IT, we welcome you!
+The Federal Technology Investment Management (FTIM) Community of Practice (CoP) helps federal agencies implement a standard way to categorize information technology (IT) costs, technologies, resources, applications, and services. We help agencies optimize the value of their IT investments by prioritizing transparency, consumption, and performance. If you are a **federal employee or contractor with a .gov or .mil email address** and are interested in helping the federal government improve cost management for IT, we welcome you!
 
 ## Who We Are
 
