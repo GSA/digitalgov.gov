@@ -33,4 +33,4 @@ The government Customer Experience (CX) Community of Practice (COP) is an intera
 
 ## Join
 
-Join the CX-COP listserv and community to stay on the cutting edge of government customer experience, including news, training, best practices, and technology. 
+Join the CX-COP listserv and community to stay on the cutting edge of government customer experience, including news, training, best practices, and technology.
