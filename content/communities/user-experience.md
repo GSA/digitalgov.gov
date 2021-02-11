@@ -1,14 +1,25 @@
 ---
+# View this page at https://digital.gov/communities/user-experience
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: 'User Experience'
 summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
 
-topics:
-  - user-experience
+# Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /federal-user-experience-community-of-practice/
+
+# see all topics at https://digital.gov/topics
+topics:
+  - user-experience
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
+
 community_list:
   - platform: "listserv"
     type: government
@@ -21,15 +32,15 @@ community_list:
 
 Join other federal user experience practitioners and learn how to make better user-centered products.
 
-### Join
+## Join
 
 Send an email from your official government email to [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20UX%20Community), with “Join UX Community” in the subject line.
 
-### Community Managers:
+## Community Managers:
 
 Jean Fox (BLS) and Silvia Salazar (NIH)
 
-### Overview
+## Overview
 
 Members of the User Experience Community of Practice can:
 
@@ -38,17 +49,17 @@ Members of the User Experience Community of Practice can:
 - Meet other government usability practitioners!
 - Share your own successes and tips!
 
-### Who we are
+## Who we are
 
 Our members include more than 1,100 federal, state, and local U.S. government employees and contractors with a valid **.gov** or **.mil** email address. We welcome program managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies.
 
-### What we do
+## What we do
 
 * Create case studies of why UX works!
-* Training for government Web managers, usability specialists, project managers, etc…
+* Webinars and educational sessions for government Web managers, usability specialists, project managers, etc…
 * User Experience (UX) networking events
 * Connect people to useful UX resources
 
-### Key Resources
+## Key Resources
 
 * https://www.usability.gov/

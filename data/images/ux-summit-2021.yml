@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/ux-summit-2021.png
+
+# Image shortcode: {{< img src="ux-summit-2021" >}}
+
+date     : 2021-02-03 15:02:07 -0400
+uid      : ux-summit-2021
+width    : 1280
+height   : 720
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Government UX Summit 2021. Join the best and brightest UX researchers and designers from across the government. Hosted by the UX Community of Practice." 

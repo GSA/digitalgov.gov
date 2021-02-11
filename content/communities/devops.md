@@ -36,8 +36,6 @@ community_list:
     members: 67
     emails_per_week:
 
-# Make it better ♥
-
 ---
 
 The DevOps Community of Practice (CoP) provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.

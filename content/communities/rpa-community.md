@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/communities/robotic-process-automation-rpa
+# View this page at https://digital.gov/communities/rpa
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: rpa
@@ -17,6 +17,11 @@ topics:
 authors:
   - james-gregory
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
 community_list:
   - platform: listserv
     type: government_only
@@ -29,13 +34,6 @@ community_list:
     subscribe_email_subject: "Subscribe PubRPA"
     members: 0
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
-
-# Make it better ♥
-
 ---
 
 ## Purpose
@@ -46,7 +44,7 @@ The RPA Community of Practice (CoP) helps individual agencies overcome the techn
 
 The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP helps agencies develop programs that are cost-effective and auditable, avoid common pitfalls, and make a significant impact. The CoP hosts frequent knowledge-sharing events and publishes valuable guidance on best practices.
 
-## Who We Are  
+## Who We Are
 
 The RPA CoP comprises  leaders across the federal government who share a passion for RPA.
 

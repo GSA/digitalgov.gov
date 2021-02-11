@@ -1,13 +1,20 @@
 ---
+# View this page at https://digital.gov/communities/customer-experience-community
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: customer-experience-community
 date: 2015-07-08 10:30:37 -0400
 title: 'Customer Experience'
 summary: 'We are an interagency group of customer experience practitioners.'
 
-weight: 1
-
+# see all topics at https://digital.gov/topics
 topics:
   - cx
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
 
 community_list:
   - platform: listserv

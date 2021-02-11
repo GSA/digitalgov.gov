@@ -1,11 +1,11 @@
 ---
-# View this page at https://digital.gov/communities/mobilegov
+# View this page at https://digital.gov/communities/mobile
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: mobile
 date: 2013-11-21 2:30:00 -0500
 title: "MobileGov"
-deck: "Working  to implement solutions for making mobile technologies better in government"
+deck: "Working to implement solutions for making mobile technologies better in government"
 summary: "We work across agencies to implement government-wide solutions for making mobile technologies better."
 
 # see all topics at https://digital.gov/topics
@@ -30,8 +30,6 @@ community_list:
     subscribe_email_subject: "Subscribe to MobileGov"
     members: 934
     emails_per_week: 2.62
-
-# Make it better ♥
 
 ---
 

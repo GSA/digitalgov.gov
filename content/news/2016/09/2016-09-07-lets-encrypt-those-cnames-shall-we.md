@@ -77,7 +77,7 @@ This process works great in a single-server environment because all HTTP request
 
 The solution to running Certbot in a multi-server environment stems from the fact that all HTTP Domain Validation requests made by the Let&#8217;s Encrypt CA have paths that begin with <tt>/.well-known/acme-challenge/</tt>. We set up a single Certbot EC2 instance with an [Elastic IP address](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html), assigned the domain name <tt>lets-encrypt.infr.search.usa.gov</tt> to that address, and set up Certbot on the instance. As we are using Apache to direct requests to our application, we set up special <tt><Location></tt> blocks in the Apache config files for all our application servers to proxy HTTP Domain Validation requests to our &#8220;Let&#8217;s Encrypt&#8221; instance:
 
-<tt><Location /.well-known/acme-challenge/><br /> ProxyPass http://lets-encrypt.infr.search.usa.gov/.well-known/acme-challenge/<br /> Require all granted<br /></tt>
+<tt><Location> /.well-known/acme-challenge/<br /> ProxyPass http://lets-encrypt.infr.search.usa.gov/.well-known/acme-challenge/<br /> Require all granted<br /></tt>
 
 {{< legacy-img src="2016/08/600-x-523-lets\_encrypt\_and\_customer\_requests.jpg" alt="Let's encrypt and customer requests." >}}
 
