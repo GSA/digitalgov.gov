@@ -148,6 +148,8 @@ When using these commands, always:
   </tr>
 </table>
 
+Note that these instructions reference a sample Listserv called _TESTLIST@listserv.gsa.gov_. Just substitute the name of YOUR Listserv (e.g., _CONTENT-MANAGERS-L_@listserv.gsa.gov) whenever you see _TESTLIST_, to apply these instructions to your Listserv.
+
 ### “Out of Office” Messages
 
 Think of the Listserv when setting “out of office” messages. Create a rule to either avoid sending “out of office” message to Listserv groups, or only send an “out of office” to people who’ve directly sent you a personal email. Ask your IT staff if you need help with this.
