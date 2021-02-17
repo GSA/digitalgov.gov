@@ -25,7 +25,9 @@ authors:
 slug: how-can-chatbots-improve-customer-experience
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
+
 For millions of Americans, access to government information and services isn’t a luxury — it’s critical. And now, more than ever, their experiences using contact centers, websites, and other channels to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food can dramatically affect how they feel about the government.
 
 While there are many things we can do to improve their experience, chatbots are a must-have in our customer experience strategy. 
@@ -34,7 +36,7 @@ Join this event, hosted by the Web Content Managers Community, learn more about 
 
 We’ll kick off the event with a live demo of an agency’s chatbot followed by a panel discussion and Q&A.
 
-### Related Links
+## Related Links
 
 *We recommend including relevant resources, websites, community pages, regulations, external tools, or previous videos, which might help the attendee get more information or prepare for the event:*
 
@@ -45,6 +47,6 @@ We’ll kick off the event with a live demo of an agency’s chatbot followed by
 
 - - -
 
-*This talk is hosted by the [Web Content Managers Community of Practice](https://digital.gov/communities/web-content-managers/) and Digital.gov. The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites. This community is open to employees of a federal, state, or local U.S. government agency, working on government digital content. Community members can share news, findings, results, hurdles and collaborate on issues related to managing government digital content.*
+*This talk is hosted by the [Web Content Managers Forum Community of Practice](https://digital.gov/communities/web-content-managers/) and Digital.gov. The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites. This community is open to employees of a federal, tribal, state, or local U.S. government agency, working on government digital content. Community members can share news, findings, results, hurdles, and collaborate on issues related to managing government digital content.*
 
 - - -
