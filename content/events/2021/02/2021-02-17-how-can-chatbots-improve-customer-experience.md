@@ -32,7 +32,7 @@ For millions of Americans, access to government information and services isn’t
 
 While there are many things we can do to improve their experience, chatbots are a must-have in our customer experience strategy. 
 
-Join this event, hosted by the Web Content Managers Community, learn more about chatbots and hear from a cross-agency panel about how they have used chatbots and other virtual assistants to improve customer experience.
+Join this event, hosted by the Web Content Managers Community, to learn more about chatbots and hear from a cross-agency panel about how they have used chatbots and other virtual assistants to improve customer experience.
 
 We’ll kick off the event with a live demo of an agency’s chatbot followed by a panel discussion and Q&A.
 
