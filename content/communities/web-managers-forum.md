@@ -8,6 +8,11 @@ title: "Web Content Managers"
 deck: ""
 summary: "The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites."
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/web-managers-forum/
+  - /communities/web-managers-forum/web-content-managers-listserv/
+
 # see all topics at https://digital.gov/topics
 topics:
   - metrics
@@ -26,12 +31,6 @@ authors:
 # 1 -- visible
 weight: 1
 
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
-  - /communities/web-managers-forum/
-  - /communities/web-managers-forum/web-content-managers-listserv/
-
-
 community_list:
   - platform: listserv
     type: government_only
@@ -41,8 +40,6 @@ community_list:
     members: 1899
     emails_per_week: 4
 
-
-# Make it better ♥
 ---
 
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.
