@@ -23,7 +23,7 @@ slug: 2020-federal-report-card-briefing
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id: mBtOH7FFxsw 
 
 # Primary Image (for social media)
 primary_image: "plain-language-report-card-2020"
