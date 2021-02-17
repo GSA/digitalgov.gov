@@ -1,5 +1,5 @@
 ---
-title: How Can Chatbots Improve Customer Experience
+title: How Chatbots Can Improve Customer Experience
 deck: Chatbots are a must-have in our customer experience strategy.
 summary: Come see how various agencies have successfully deployed chatbots/AI to
   interact with the public and foster collaboration between teams!
