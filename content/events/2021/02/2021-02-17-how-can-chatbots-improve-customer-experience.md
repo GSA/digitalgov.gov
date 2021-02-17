@@ -42,3 +42,9 @@ We’ll kick off the event with a live demo of an agency’s chatbot followed by
 * <https://blog.usa.gov/breaking-into-artificial-intelligence-meet-sam-the-chatbot>
 * <https://blog.usa.gov/usagovs-chatbot-users-talk-back-find-out-what-theyre-teaching-us>
 * <https://digital.gov/2020/12/07/federal-student-aids-new-virtual-assistant-offers-model-for-improved-customer-service-in-government/>
+
+- - -
+
+*This talk is hosted by the [Web Content Managers Community of Practice](https://digital.gov/communities/web-content-managers/) and Digital.gov. The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites. This community is open to employees of a federal, state, or local U.S. government agency, working on government digital content. Community members can share news, findings, results, hurdles and collaborate on issues related to managing government digital content.*
+
+- - -
