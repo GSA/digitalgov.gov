@@ -15,7 +15,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - james-geoghegan
+  - james-gregory
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -44,16 +44,31 @@ The RPA Community of Practice (CoP) helps individual agencies overcome the techn
 
 The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP helps agencies develop programs that are cost-effective and auditable, avoid common pitfalls, and make a significant impact. The CoP hosts frequent knowledge-sharing events and publishes valuable guidance on best practices.
 
-## Resources
-
-The RPA community has built several resources, including an RPA Program [Playbook]({{< ref "rpa-playbook.md" >}}), an [Internal Controls Guide](https://digital.gov/pdf/rpa-playbook-ic-addendum-v1.0.pdf), and the [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}}). Check out our [RPA Guide]({{< ref "guides/rpa" >}}) to learn more!
-
 ## Who We Are
 
 The RPA CoP comprises  leaders across the federal government who share a passion for RPA.
 
-**Gerard Badorrek** (General Services Administration (GSA)) Chief Financial Officer is the  RPA CoP Chair and executive sponsor.
+**Executive Sponsor**  
+Gerard Badorrek, General Services Administration
 
-Jim Geoghegan (GSA) manages the RPA community: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
+**Community Lead**  
+James Gregory, General Services Administration: [james2.gregory@gsa.gov](mailto:james2.gregory@gsa.gov)
+
+**Management Committee**  
+Anju Anand, National Science Foundation  
+Kyle Brooks, Department of State  
+Christine Gex, National Aeronautics and Space Administration  
+Lattrice Goldsby, United States Department of Agriculture  
+Russell Kuehn, Social Security Administration  
+Michael Levinson, Army  
+Erica Thomas, Office of the Under Secretary of Defense  
+Paul Weekley, Department of the Treasury  
+Francis Wood, Defense Logistics Agency  
+
+## Resources
+
+* [RPA Guide]({{< ref "guides/rpa" >}})
+* [RPA Playbook]({{< ref "rpa-playbook.md" >}})
+* [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}})
 
 _If you wish to unsubscribe, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)_
