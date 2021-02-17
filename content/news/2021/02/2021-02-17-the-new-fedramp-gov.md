@@ -5,13 +5,7 @@ source: fedramp
 date: 2021-02-16 17:48:00 -0500
 kicker: Design
 title: The New FedRAMP.gov
-summary: >-
-  FedRAMP is excited to announce the launch of our revamped website. Thanks to
-  feedback from our partners and stakeholders, the website has an improved user
-  experience that makes FedRAMP information and resources more accessible. 
-
-
-  The website provides more in-depth information about FedRAMP’s authorization process, enabling agencies, Cloud Service Providers (CSPs), and Third-Party Assessment Organizations (3PAOs) to easily access pertinent information related to their role in the FedRAMP Authorization process.
+summary: "FedRAMP is excited to announce the launch of our revamped website. Thanks to feedback from our partners and stakeholders, the website has an improved user experience that makes FedRAMP information and resources more accessible. The website provides more in-depth information about FedRAMP’s authorization process, enabling agencies, Cloud Service Providers (CSPs), and Third-Party Assessment Organizations (3PAOs) to easily access pertinent information related to their role in the FedRAMP Authorization process."
 # See all topics at https://digital.gov/topics
 topics:
   - fedramp
@@ -22,4 +16,5 @@ slug: the-new-fedramp-gov
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
