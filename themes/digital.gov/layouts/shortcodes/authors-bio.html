@@ -8,8 +8,22 @@
     {{- $getauthor := .Get 0 -}}
     {{- $list := where .Site.Pages "Section" "authors" -}}
     {{- $list := where $list ".Params.slug" "eq" $getauthor -}} 
-    {{- range $i, $e := uniq $list -}}     
-    <br/>
-       <b>{{ .Params.display_name }} </b> {{ trim .Params.bio .Params.display_name }}           
-    {{- end -}}
+    {{- range $i, $e := uniq $list -}}   
+      {{ $strbio := (strings.TrimLeft " " .Params.bio)}}
+      {{ $lengDN := (len .Params.display_name)}}
+      {{ $lengFN := (len .Params.first_name)}}
+      {{ $lengLN := (len .Params.last_name)}}
+      {{ $substrDN := (substr $strbio 0 $lengDN)}}
+      {{ $substrFN := (substr $strbio 0 $lengFN)}}
+      {{ $substrLN := (substr $strbio 0 $lengLN)}}        
+      {{- if eq ($substrDN) (.Params.display_name) -}}
+        <b>{{- .Params.display_name -}} </b> {{- slicestr .Params.bio  ($lengDN) -}}    
+      {{- else if eq ($substrFN) (.Params.first_name) -}} 
+         <b>{{- .Params.display_name -}} </b> {{- slicestr .Params.bio  ($lengFN) -}} 
+      {{- else if eq ($substrLN) (.Params.last_name) -}} 
+          <b>{{- .Params.display_name -}} </b> {{- slicestr .Params.bio  ($lengLN) -}} 
+      {{ else }}
+         <b>{{ .Params.display_name }} </b> {{- .Params.bio -}} 
+      {{ end }}      
+      {{- end -}}
 <br/>
