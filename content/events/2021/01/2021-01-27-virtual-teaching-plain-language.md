@@ -25,6 +25,7 @@ authors:
 slug: virtual-teaching-plain-language
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: NBCxGDtYaXw
 primary_image: plain-language
 ---
 This session will focus on techniques of effective virtual presenters and how to keep students engaged and focused during an online class. You’ll learn:
