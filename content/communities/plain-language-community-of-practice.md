@@ -32,7 +32,7 @@ community_list:
   - platform: listserv
     type: public
     subscribe_email: "PL-COP-MAIN-subscribe-request@listserv.gsa.gov"
-    terms: "Anyone is eligible to join"
+    terms: "Anyone is eligible to join."
     members: 1300
     
 ---
