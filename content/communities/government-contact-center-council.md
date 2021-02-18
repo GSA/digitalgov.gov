@@ -22,12 +22,11 @@ The Government Contact Center Council (G3C) Community of Practice (CoP) was foun
 
 ## What We Do
 
-G3C community members join other contact center leaders through our monthly meetings to learn about other agencies’ best practices in contact center operations. The community also hosts webinars, conference calls, v and other networking events. As a member, you have access to other subject matter experts through our LISTSERV where members share ideas, ask questions, and request assistance on their agency’s projects. Our educational forums and discussions help members find innovative methods to improve the customer experience with their agency’s multi-channel contact centers. Membership is open to all federal, tribal, local, and state government employees.
+G3C community members join other contact center leaders through our monthly meetings to learn about other agencies’ best practices in contact center operations. The community also hosts webinars, conference calls, and other networking events. As a member, you have access to other subject matter experts through our LISTSERV where members share ideas, ask questions, and request assistance on their agency’s projects. Our educational forums and discussions help members find innovative methods to improve the customer experience with their agency’s multi-channel contact centers. Membership is open to all federal, tribal, local, and state government employees.
 
 ## Who We Are
 
-The Government Contact Center Council is an interagency group of contact center directors and managers from across government agencies that work together to improve the performance and efficiency of government contact centers. The Council’s membership includes over 350 members from 60 federal, state, and local agencies.
-
+The Government Contact Center Council is an interagency group of contact center directors and managers from across government agencies that work together to improve the performance and efficiency of government contact centers.
 ## Related Resources
 
 * Office of Management and Budget (OMB) [Circular No. A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf) — this December 2020 revision removes Part 6, "The Federal Performance Framework for Improving Program and Service Delivery"
