@@ -37,7 +37,7 @@ community_list:
     type: government_only
     subscribe_email: "CONTENT-MANAGERS-L-subscribe-request@listserv.gsa.gov"
     terms: "Federal employees only are eligible to join."
-    members: 1927  
+    members: 1927
 
 ---
 
@@ -53,7 +53,7 @@ We meet several times a year and maintain an active LISTSERV. We also work with 
 
 ## Who We Are
 
-We held our [first community meeting in October 2000](https://web.archive.org/web/20010609224356/http://www.hud.gov/library/bookshelf15/webcontentmgr.cfm). The web content managers group was started as a way for content managers, not techies, to get together to discuss web content and management issues facing the federal government. We have evolved over the past 20 years to include everyone who has a role in building websites and digital services. 
+We held our [first community meeting in October 2000](https://web.archive.org/web/20010609224356/http://www.hud.gov/library/bookshelf15/webcontentmgr.cfm). The web content managers group was started as a way for content managers, not techies, to get together to discuss web content and management issues facing the federal government. We have evolved over the past 20 years to include everyone who has a role in building websites and digital services.
 
 ## Related Resources
 
