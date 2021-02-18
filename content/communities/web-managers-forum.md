@@ -5,8 +5,7 @@
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
 title: "Web Content Managers"
-deck: ""
-summary: "The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites."
+summary: "We are working to create a trusted, seamless online experience for all."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -25,41 +24,39 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
+  - tori-garten
+  - beth-martin
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
+   
 community_list:
   - platform: listserv
     type: government_only
-    subscribe_email: "digitalgovu@gsa.gov"
-    subscribe_email_subject: "Join Web Content Managers"
-    subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
-    members: 1899
-    emails_per_week: 4
+    subscribe_email: "CONTENT-MANAGERS-L-subscribe-request@listserv.gsa.gov"
+    terms: "Federal employees only are eligible to join."
+    members: 1927  
 
 ---
 
-If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.
+We are a group of federal, state and local government employees who manage government websites and digital services. We are working to create a trusted, seamless online experience for all.
 
-## Overview
+## What We Do
 
-We’ve been working together since late 2000 to improve the content and usability of U.S. government websites. The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.
+Together, everyone achieves more. We recognize the expert in each of us. Our primary purpose is to collaborate and share ideas, challenges, lessons learned, and best practices in managing government websites and digital services.
 
-## Who we are
+We support efforts to implement the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) and other requirements for government websites and digital services.
 
-Join us if you are an employee of a federal, state, or local U.S. government agency, working on government digital content.
+We meet several times a year and maintain an active LISTSERV. We also work with other [communities of practice](https://digital.gov/communities) and the [Federal Web Council](https://digital.gov/resources/federal-web-council/) to publish case studies, blog posts, and other resources on Digital.gov.
 
-## What we do
+## Who We Are
 
-Knowledge Sharing: This listserv provides you with a platform to ask and answer questions of your digital content management peers. You can share news, findings, results, hurdles and collaborate on issues related to manage government digital content.
+We held our [first community meeting in October 2000](https://web.archive.org/web/20010609224356/http://www.hud.gov/library/bookshelf15/webcontentmgr.cfm). The web content managers group was started as a way for content managers, not techies, to get together to discuss web content and management issues facing the federal government. We have evolved over the past 20 years to include everyone who has a role in building websites and digital services. 
 
-## Key Resources
+## Related Resources
 
-- [Checklist of Requirements for Federal Websites and Digital Services](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/)
-- [Digital Project Resources](https://www.digitalgov.gov/resources/)
-- [Paperwork Reduction Act Fast Track Process](https://www.digitalgov.gov/resources/paperwork-reduction-act-fast-track-process/)
-- [Plain Language Guidelines](https://plainlanguage.gov/guidelines/)
-- [U.S Web Design System](https://designsystem.digital.gov/)
+- [Checklist of Requirements for Federal Websites and Digital Services](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/) — The relevant laws, policies, and regulations for federal agencies.
+- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/?dg) — A list of required links that all federal websites need to have.
+- [Website Standards](https://designsystem.digital.gov/website-standards/) — Adopt the U.S. Web Design System incrementally, and prioritize implementation to align with the modernization plans and priorities.
