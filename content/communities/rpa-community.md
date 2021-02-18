@@ -5,7 +5,6 @@
 slug: rpa
 date: 2019-12-12 19:00:00 -0500
 title: "Robotic Process Automation (RPA)"
-deck: "A collaborative body designed to rapidly accelerate the adoption of Robotic Process Automation (RPA) technology across the federal government"
 summary: "A collaborative body designed to rapidly accelerate the adoption of Robotic Process Automation (RPA) technology across the federal government."
 
 # see all topics at https://digital.gov/topics
