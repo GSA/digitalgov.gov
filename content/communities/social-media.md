@@ -43,8 +43,8 @@ SocialGov includes government social media communicators of all specialties and 
 
 ## Related Resources
 
-- [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/](https://digital.gov/services/u-s-digital-registry/)
-- [U.S. Public Participation Playbook](https://participation.usa.gov](https://participation.usa.gov)
-- [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit](https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/](https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/)
-- [Federal Social Media Analytics Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
-- [Federal Social Media Accessibility Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
+- [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)
+- [U.S. Public Participation Playbook](https://participation.usa.gov)
+- [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit](https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/)
+- [Federal Social Media Analytics Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
+- [Federal Social Media Accessibility Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
