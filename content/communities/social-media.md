@@ -7,6 +7,11 @@ date: 2019-12-12 19:00:00 -0500
 title: "Social Media"
 summary: "SocialGov is the government social media community of practice."
 
+# see all authors at https://digital.gov/authors
+authors:
+  - gabrielle-perret
+  - paul-lester
+
 # see all topics at https://digital.gov/topics
 topics:
   - social-media
