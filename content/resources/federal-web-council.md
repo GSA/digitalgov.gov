@@ -73,7 +73,7 @@ You are encouraged to reach out to your agency’s Web Council member if you hav
 - Department of Housing and Urban Development — Helen Savoye-Minor
 - Department of the Interior — DeRon Johnson
 - Department of Justice — Ashley McGowan
-- Department of Labor — Stan Olshefski
+- Department of Labor — Ed McCarthy
 - Department of State — Monica Perry
 - Department of Transportation — Beth Couturier
 - Department of the Treasury — Teri Greene
