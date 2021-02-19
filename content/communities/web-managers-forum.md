@@ -41,7 +41,7 @@ community_list:
 
 ---
 
-We are a group of federal, state and local government employees who manage government websites and digital services. We are working to create a trusted, seamless online experience for all.
+We are a group for federal, tribal, state, and local government employees who manage government websites and digital services. We are working to create a trusted, seamless online experience for all.
 
 ## What We Do
 
