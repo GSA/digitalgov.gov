@@ -20,7 +20,7 @@ authors:
 weight: 1
 slug: federal-communicators
 ---
-Formerly known as the Federal Communicators Network, this community was established in recognition that communication is an essential function for government activities at all organizational levels. Our members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.  
+Formerly known as the Federal Communicators Network, this community was established in recognition that communication is an essential function for government activities at all organizational levels. Our members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
 
 **What We Do**
 
