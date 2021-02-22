@@ -19,6 +19,13 @@ authors:
 # 1 -- visible
 weight: 1
 slug: federal-communicators
+
+community_list:
+  - platform: listserv
+    type: government
+    subscribe_email: "FCN-subscribe-request@listserv.gsa.gov"
+    terms: "Anyone with a .gov or .mil email address is eligible to join."
+    members: 1491
 ---
 Formerly known as the Federal Communicators Network, this community was established in recognition that communication is an essential function for government activities at all organizational levels. Our members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
 
