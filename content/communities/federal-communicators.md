@@ -35,7 +35,7 @@ Federal communicators have relied on this community for best practices, training
 
 ## Who We Are
 
-The Federal Communicators Community of Practice is a network of federal communicators with extensive experience and deep subject knowledge in communications, public affairs, social media and other related areas. We have a leadership team that is elected each year by the community that guides and directs the activities during the year.
+The Federal Communicators Community of Practice (CoP) is a network of federal communicators with extensive experience and deep subject knowledge in communications, public affairs, social media and other related areas. We have a leadership team that is elected each year by the community that guides and directs the activities during the year.
 
 Beginners in the field can ask questions to the LISTSERV on advice, best practices and training. The community also shares job opportunities to help members advance in their careers. The community also works to bring relevant free training to help members develop their communications skills.
 
