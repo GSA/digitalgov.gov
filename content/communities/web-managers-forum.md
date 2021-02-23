@@ -4,7 +4,7 @@
 
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
-title: "Web Content Managers"
+title: "Web Managers"
 summary: "We are working to create a trusted, seamless online experience for all."
 
 # Redirects: enter the path of the URL that you want redirected to this page
