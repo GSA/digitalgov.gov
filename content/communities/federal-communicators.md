@@ -47,3 +47,7 @@ Federal communicators have relied on this community for best practices, training
 The Federal Communicators Network is a community of federal communicators with extensive experience and deep subject knowledge in communications, public affairs, social media, and other related areas. We have a leadership team that is elected each year by the community that guides and directs the activities during the year.
 
 Beginners in the field can ask questions to the LISTSERV on advice, best practices and training. The community also shares job opportunities to help members advance in their careers. The community also works to bring relevant free training to help members develop their communications skills.
+
+## Related Resources
+
+- [Federal Communicators Network Bylaws](https://digital.gov/pdf/accessible_fcn_bylaws.pdf) (PDF, 714 KB, 3 pages)
