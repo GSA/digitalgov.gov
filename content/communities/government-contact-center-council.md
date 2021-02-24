@@ -7,6 +7,10 @@ summary: 'The Government Contact Center Council (G3C) Community of Practice (CoP
 aliases:
   - /government-contact-center-council-g3c/
 
+# see all authors at https://digital.gov/authors
+authors:
+  - tim-cossairt
+
 weight: 1
 
 community_list:
