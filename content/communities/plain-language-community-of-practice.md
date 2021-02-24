@@ -14,6 +14,7 @@ aliases:
 # see all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
+  - katina-stapleton
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -28,20 +29,28 @@ topics:
 weight: 1
 
 community_list:
-  - platform: "listserv"
+  - platform: listserv
     type: public
-    subscribe_form: "https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN"
-    members: 1169
-    emails_per_week: 1.1
-
+    subscribe_email: "PL-COP-MAIN-subscribe-request@listserv.gsa.gov"
+    terms: "Anyone is eligible to join."
+    members: 1300
+    
 ---
 
-Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.
+The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves federal agencies time and money and provides better service to the American public.
 
-And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 125 KB) mandates plain language for certain audiences and tasks.
+## What We Do
 
-## Who we are
+Throughout the year, PLAIN provides free [plain language training](https://www.plainlanguage.gov/training/) to federal staff and hosts plain-language related events such as monthly meetings and our annual summit.  Our community offers support and answers to members’ questions.
 
-The Plain Language Action and Information Network (PLAIN) Community of Practice (PL-COP) is an inter-agency group of plain language practitioners from many different federal government agencies and specialties who support the use of clear communication in government writing.
+To be notified about PLAIN activities and new resources, sign up for the PL-COP.
 
-PL-COP is administered by the [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/about/).
+## Who We Are
+
+We’re a group of  plain language practitioners from federal government agencies and the public, with varying specialties and different levels of expertise.
+
+## Related Resources
+
+- [Plain Writing Act of 2010](https://www.plainlanguage.gov/law/)
+- [Federal Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/)
+- [2020 Plain Language CoP Summit](https://digital.gov/event/2020/10/27/plain-language-summit-2020/)
