@@ -4,7 +4,7 @@
 
 slug: federal-communicators
 date: 2021-02-22 14:36:00 -0500
-title: "Federal Communicators Network"
+title: "Federal Communicators"
 summary: "We help federal communicators achieve excellence by providing training, opportunities for professional networking, sharing resources and ideas, and advancing the profession."
 
 # See all topics at https://digital.gov/topics
@@ -36,7 +36,7 @@ community_list:
 
 ---
 
-This community was established in recognition that communication is an essential function for government activities at all organizational levels. Our members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
+The Federal Communicators Network (FCN) was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
 
 ## What We Do
 
