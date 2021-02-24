@@ -25,7 +25,7 @@ community_list:
   - platform: listserv
     type: government_only
     subscribe_email: "FedRPA-subscribe-request@listserv.gsa.gov"
-    terms: "Federal employees only are eligible to join."
+    terms: "Only federal employees are eligible to join."
     members: 1175  
     
   - platform: listserv
