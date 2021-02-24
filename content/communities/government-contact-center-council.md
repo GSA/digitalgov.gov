@@ -1,8 +1,11 @@
 ---
+# View this page at https://digital.gov/communities/government-contact-center-council
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: government-contact-center-council
 date: 2013-11-21 3:28:02 -0400
-title: Government Contact Center Council (G3C)
-summary: The Government Contact Center Council (G3C) Community of Practice (CoP) consists of contact center leaders from agencies in all levels of government focused on delivering exceptional customer experience.
+title: "Government Contact Center Council &#40;G3C&#41;"
+summary: "The Government Contact Center Council &#40;G3C&#41; Community of Practice &#40;CoP&#41; consists of contact center leaders from agencies in all levels of government focused on delivering exceptional customer experience."
 
 aliases:
   - /government-contact-center-council-g3c/
