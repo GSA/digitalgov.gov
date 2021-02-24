@@ -1,8 +1,8 @@
 ---
 slug: government-contact-center-council
 date: 2013-11-21 3:28:02 -0400
-title: 'Government Contact Center Council (G3C)'
-summary: 'The Government Contact Center Council (G3C) Community of Practice (CoP) consists of contact center leaders from agencies in all levels of government focused on delivering exceptional customer experience.'
+title: Government Contact Center Council (G3C)
+summary: The Government Contact Center Council (G3C) Community of Practice (CoP) consists of contact center leaders from agencies in all levels of government focused on delivering exceptional customer experience.
 
 aliases:
   - /government-contact-center-council-g3c/
@@ -31,6 +31,7 @@ G3C community members join other contact center leaders through our monthly meet
 ## Who We Are
 
 The Government Contact Center Council is an interagency group of contact center directors and managers from across government agencies that work together to improve the performance and efficiency of government contact centers.
+
 ## Related Resources
 
 * Office of Management and Budget (OMB) [Circular No. A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf) — this December 2020 revision removes Part 6, "The Federal Performance Framework for Improving Program and Service Delivery"
