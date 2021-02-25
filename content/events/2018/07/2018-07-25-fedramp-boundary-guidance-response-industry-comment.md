@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramp-boundary-guidance-response-industry-comment
 title: "FedRAMP Boundary Guidance: Response to Industry Comment"
+expirydate: "2021-02-26"
 deck: ""
 summary: "During this 45 minute webinar, we will focus on responding to industry feedback from the May 2018 guidance that FedRAMP released to inform Cloud Service Providers (CSPs) and agencies on the “rules of thumb” to consider when developing the FedRAMP authorization boundary for their cloud service offering(s)."
 host: "FedRAMP"
