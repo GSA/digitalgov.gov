@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramps-resources-for-agencies
 title: "FedRAMP's Resources for Agencies"
+expirydate: "2021-02-26"
 deck: ""
 summary: "Learn about recent website updates and resources available to help you through the FedRAMP authorization process."
 host: "FedRAMP"
