@@ -29,13 +29,13 @@ community_list:
 
 ---
 
-The Government Contact Center Council (G3C) Community of Practice (CoP) was founded for government contact center professionals to collaborate with one another to improve the experience of citizens and customers when they contact federal, tribal, state and local agencies.
+The Government Contact Center Council (G3C) Community of Practice (CoP) was founded for government contact center professionals to collaborate with one another to improve the experience of citizens and customers when they contact federal, tribal, state, and local agencies.
 
 ## What We Do
 
-The Government Contact Center Council discusses methods of service delivery to improve citizen’s experience. The Government Contact Center Council’s mission is to share information and news, identify contact center best in class practices, and evaluate evolving contact center technologies.
+The Government Contact Center Council discusses methods of service delivery to improve citizen’s experience. The Government Contact Center Council's mission is to share information and news, identify contact center best-in-class practices, and evaluate evolving contact center technologies.
 
-G3C community members join other contact center leaders through our monthly meetings to learn about other agencies’ best practices in contact center operations. The community also hosts webinars, conference calls, and other networking events. As a member, you have access to other subject matter experts through our LISTSERV where members share ideas, ask questions, and request assistance on their agency’s projects. Our educational forums and discussions help members find innovative methods to improve the customer experience with their agency’s multi-channel contact centers. Membership is open to all federal, tribal, local, and state government employees.
+G3C community members join other contact center leaders through our monthly meetings to learn about other agencies' best practices in contact center operations. The community also hosts webinars, conference calls, and other networking events. As a member, you have access to other subject matter experts (SME) through our LISTSERV where members share ideas, ask questions, and request assistance on their agency's projects. Our educational forums and discussions help members find innovative methods to improve the customer experience with their agency's multi-channel contact centers. Membership is open to all federal, tribal, local, and state government employees.
 
 ## Who We Are
 
