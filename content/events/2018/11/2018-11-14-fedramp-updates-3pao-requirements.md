@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramp-updates-3pao-requirements
 title: "FedRAMP Updates 3PAO Requirements"
+expirydate: "2021-02-26"
 deck: ""
 summary: "Live FedRAMP webinar to discuss changes to R311 - Specific Requirements: FedRAMP"
 host: "FedRAMP"

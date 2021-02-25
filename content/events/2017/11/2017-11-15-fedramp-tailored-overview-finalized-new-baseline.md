@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramp-tailored-overview-finalized-new-baseline
 title: "FedRAMP Tailored: Overview of the Finalized New Baseline"
+expirydate: "2021-02-26"
 deck: ""
 summary: "This online event will cover the overview of the FedRAMP Tailored Baseline for Cloud Service Providers (CSPs) with Low-Impact Software-as-a-Service (LI-SaaS) Systems."
 host: "FedRAMP"

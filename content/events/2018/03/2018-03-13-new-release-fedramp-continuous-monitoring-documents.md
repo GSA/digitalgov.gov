@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: new-release-fedramp-continuous-monitoring-documents
 title: "New Release of FedRAMP Continuous Monitoring Documents"
+expirydate: "2021-02-26"
 deck: ""
 summary: "The FedRAMP team will walk through the Continuous Monitoring documents that were released January 31, 2018."
 host: "FedRAMP"
