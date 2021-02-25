@@ -18,9 +18,7 @@ topics:
 
 IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.
 
-<p style="text-align: center">
-  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/11/600-x-429-CFPB-Ideabox-screenshot.jpg">{{< legacy-img src="2014/11/600-x-429-CFPB-Ideabox-screenshot-559x400.jpg" alt="600-x-429-CFPB-Ideabox-screenshot" >}}</a>
-</p>
+{{< legacy-img src="2014/11/600-x-429-CFPB-Ideabox-screenshot-559x400.jpg" alt="600-x-429-CFPB-Ideabox-screenshot" >}}
 
 Do you want to build an innovation program at your organization? Learn how you can leverage resources from IdeaBox, the Consumer Financial Protection Bureau’s initiative to generate, incubate, and implement great ideas from employees across the agency by watching the recent <a href="http://www.youtube.com/watch?v=KRQ24645LOE&list=UU5V8jrK77-8gsa9RL_taG9A" target="_blank">DigitalGov University webinar</a>.
 
