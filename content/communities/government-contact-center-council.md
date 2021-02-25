@@ -26,6 +26,7 @@ community_list:
     subscribe_email: G3C-subscribe-request@listserv.gsa.gov
     terms: "Anyone with a .gov or .mil email address is eligible to join."
     members: 340
+    emails_per_week: .69
 
 ---
 
