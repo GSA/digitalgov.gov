@@ -5,7 +5,7 @@
 slug: government-contact-center-council
 date: 2013-11-21 3:28:02 -0400
 title: 'Government Contact Center Council (G3C)'
-summary: 'We are an inter-agency group of contact center directors and managers with over 200 members across 55 federal, state and local government agencies.'
+summary: 'The Government Contact Center Council (G3C) Community of Practice (CoP) consists of contact center leaders from agencies in all levels of government focused on delivering exceptional customer experience.'
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -26,15 +26,16 @@ community_list:
     subscribe_email: G3C-subscribe-request@listserv.gsa.gov
     terms: "Anyone with a .gov or .mil email address is eligible to join."
     members: 340
-    emails_per_week: .69
 
 ---
 
-The Government Contact Center Council (G3C) Community of Practice (CoP) was founded for government contact center professionals to collaborate with one another to improve the experience of citizens and customers when they contact federal, tribal, state and local agencies.
+The Government Contact Center Council (G3C) Community of Practice (CoP) was founded for government contact center professionals to collaborate with one another to improve the experience of citizens and customers when they contact federal, tribal, state, and local agencies.
 
 ## What We Do
 
-G3C community members join other contact center leaders through our monthly meetings to learn about other agencies’ best practices in contact center operations. The community also hosts webinars, conference calls, and other networking events. As a member, you have access to other subject matter experts through our LISTSERV where members share ideas, ask questions, and request assistance on their agency’s projects. Our educational forums and discussions help members find innovative methods to improve the customer experience with their agency’s multi-channel contact centers. Membership is open to all federal, tribal, local, and state government employees.
+The Government Contact Center Council discusses methods of service delivery to improve citizen’s experience. The Government Contact Center Council's mission is to share information and news, identify contact center best-in-class practices, and evaluate evolving contact center technologies.
+
+G3C community members join other contact center leaders through our monthly meetings to learn about other agencies' best practices in contact center operations. The community also hosts webinars, conference calls, and other networking events. As a member, you have access to other subject matter experts (SME) through our LISTSERV where members share ideas, ask questions, and request assistance on their agency's projects. Our educational forums and discussions help members find innovative methods to improve the customer experience with their agency's multi-channel contact centers. Membership is open to all federal, tribal, local, and state government employees.
 
 ## Who We Are
 
