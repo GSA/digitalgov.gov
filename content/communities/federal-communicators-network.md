@@ -1,10 +1,10 @@
 ---
 date: 2021-02-24 18:49:00 -0500
 title: Federal Communicators Network
-deck: Deck
 summary: We help federal communicators achieve excellence by providing training,
   opportunities for professional networking, sharing resources and ideas, and
   advancing the profession.
+
 # See all topics at https://digital.gov/topics
 topics:
   - content
@@ -12,6 +12,7 @@ topics:
   - social-media
   - communication
   - writing
+
 # See all authors at https://digital.gov/authors
 authors:
   - gabrielle-perret
@@ -19,6 +20,14 @@ authors:
   - christine-stevenson
   - jeku-j-r-arce
 slug: federal-communicators-network
+
+community_list:
+  - platform: listserv
+    type: government
+    subscribe_email: "FCN-subscribe-request@listserv.gsa.gov"
+    terms: "Anyone with a .gov or .mil email address is eligible to join."
+    members: 1491
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
