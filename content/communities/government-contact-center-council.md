@@ -20,11 +20,8 @@ community_list:
   - platform: "listserv"
     type: government
     subscribe_email: G3C-subscribe-request@listserv.gsa.gov
-    subscribe_email_subject: "Join G3C"
-    subscribe_email_body: "your name, agency, title, telephone number and email"
-    terms: "Anyone with a .gov or .mil email address is eligible to join"
+    terms: "Anyone with a .gov or .mil email address is eligible to join."
     members: 340
-    emails_per_week: .69
 
 ---
 
