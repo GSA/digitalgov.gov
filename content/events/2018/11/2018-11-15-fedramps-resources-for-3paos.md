@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: fedramps-resources-for-3paos
 title: "FedRAMP's Resources for 3PAOs"
+expirydate: "2021-02-26"
 deck: ""
 summary: "Come and learn more about the recent updates to fedramp.gov and the resources available to help you through the FedRAMP authorization process."
 host: "FedRAMP"
