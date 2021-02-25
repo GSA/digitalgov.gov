@@ -1,5 +1,5 @@
 ---
-title: "AI for Homeland Security: The Development of the DHS AI Strategy"
+title: "Artifical Intelligence for Homeland Security: The Development of the DHS AI Strategy"
 deck: If you are a federal employee, join us as the Department of Homeland
   Security presents their Department-wide AI Strategy!
 summary: The Department of Homeland Security (DHS) will present the work that
@@ -22,20 +22,21 @@ authors:
   - thomas-mcdermot
   - steven-babitch
   - krista-kinnard
-slug: ai-for-homeland-security-the-development-of-the-dhs-ai-strategy
+slug: artifical-intelligence-for-homeland-security-the-development-of-the-dhs-ai-strategy
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
+
 The Department of Homeland Security (DHS) will present the work that led to the creation of the DHS AI Strategy to interagency partners. DHS spent several months partnering with the interagency and the private sector to develop tailored goals and objectives to address the opportunities and risk of AI. They will share their experience to inspire other agencies to adopt a strategic approach to AI and develop partnerships to solve important policy and technical challenges associated with AI. The event will also cover the policy and technical challenges associated with AI that are relevant to all federal departments and agencies.
 
-### Speakers:
+## Speakers:
 
-* **Thomas McDermott**,Deputy Assistant Secretary for Cyber, Infrastructure, Risk and Resilience Policy, Department of Homeland Security – Office of Strategy, Policy, and Plans (PLCY)
+* **Thomas McDermott**, Deputy Assistant Secretary for Cyber, Infrastructure, Risk and Resilience Policy, Department of Homeland Security – Office of Strategy, Policy, and Plans (PLCY)
 * **Nick Reese**, Senior Policy Analyst, Infrastructure, Risk and Resilience Policy, Department of Homeland Security – Office of Strategy, Policy, and Plans (PLCY)
 
-#### Please note that this event is for Federal Government employees only.
+## Please note that this event is for federal government employees only.
 
 - - -
 
 *This talk is hosted by the [AI Community of Practice (CoP)](https://digital.gov/communities/artificial-intelligence/). This community aims to unite federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.*
-- - -
