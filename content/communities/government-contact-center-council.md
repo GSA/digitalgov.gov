@@ -16,38 +16,31 @@ aliases:
   # 1 -- visible
 weight: 1
 
+# See all authors at https://digital.gov/authors
+authors:
+  - tim-cossairt
+
 community_list:
   - platform: "listserv"
     type: government
-    subscribe_email: tim.cossairt@tsa.dhs.gov
-    subscribe_email_subject: "Join G3C"
-    subscribe_email_body: "your name, agency, title, telephone number and email"
-    members: 335
+    subscribe_email: G3C-subscribe-request@listserv.gsa.gov
+    terms: "Anyone with a .gov or .mil email address is eligible to join."
+    members: 340
     emails_per_week: .69
 
 ---
 
-The Government Contact Center Council (G3C) is an organization of contact center leaders from local, state and federal agencies focusing on delivering exceptional customer/citizen experiences.
-
-## Join
-
-Membership is currently free to any federal, local or state agency employee interested in contact centers.
-To join, send an [email to Tim Cossairt](mailto:tim.cossairt@tsa.dhs.gov) with “Join G3C” in subject line and include in the body your name, agency, title, telephone number and email.
-
-**Community Managers**
-
-The G3C leadership is a volunteer board of the following individuals:
-
-- Tim Cossairt (Transportation Security Administration) - Chairperson
-
-## Overview
-
-The G3C is an interagency group of contact center directors, managers and professionals from across federal, state, and local government. Chairperson Tim Cossairt (TSA) leads the executive board creating monthly webinars, conference calls, and networking events. We identify best practices, research, and trend analysis that improve government contact centers.
-
-## Who We Are
-
-The membership consists of more than 275-member contact center managers and directors representing over 60 federal, local and state government agencies and sub-agencies.
+The Government Contact Center Council (G3C) Community of Practice (CoP) was founded for government contact center professionals to collaborate with one another to improve the experience of citizens and customers when they contact federal, tribal, state and local agencies.
 
 ## What We Do
 
-The G3C meets monthly to discuss and share best practices to improve citizens’ contact center experience. Our mission is to identify contact center best practices, provide educational forums, trend improvements, share ideas and be the resource for government contact centers. We discuss everything from technology, performance metrics, team member engagement and training, and channel management, to name a few topics.
+G3C community members join other contact center leaders through our monthly meetings to learn about other agencies’ best practices in contact center operations. The community also hosts webinars, conference calls, and other networking events. As a member, you have access to other subject matter experts through our LISTSERV where members share ideas, ask questions, and request assistance on their agency’s projects. Our educational forums and discussions help members find innovative methods to improve the customer experience with their agency’s multi-channel contact centers. Membership is open to all federal, tribal, local, and state government employees.
+
+## Who We Are
+
+The Government Contact Center Council is an interagency group of contact center directors and managers from across government agencies that work together to improve the performance and efficiency of government contact centers.
+
+## Related Resources
+
+* Office of Management and Budget (OMB) [Circular No. A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf) — this December 2020 revision removes Part 6, "The Federal Performance Framework for Improving Program and Service Delivery"
+* [Transforming Customer Experience (CX)](https://www.performance.gov/cx/)
