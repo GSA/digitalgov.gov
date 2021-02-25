@@ -16,6 +16,10 @@ aliases:
   # 1 -- visible
 weight: 1
 
+# See all authors at https://digital.gov/authors
+authors:
+  - tim-cossairt
+
 community_list:
   - platform: "listserv"
     type: government
