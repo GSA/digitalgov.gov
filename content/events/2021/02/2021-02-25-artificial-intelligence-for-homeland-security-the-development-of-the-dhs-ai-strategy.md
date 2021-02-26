@@ -22,7 +22,7 @@ authors:
   - thomas-mcdermot
   - steven-babitch
   - krista-kinnard
-slug: artifical-intelligence-for-homeland-security-the-development-of-the-dhs-ai-strategy
+slug: artificial-intelligence-for-homeland-security-the-development-of-the-dhs-ai-strategy
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
