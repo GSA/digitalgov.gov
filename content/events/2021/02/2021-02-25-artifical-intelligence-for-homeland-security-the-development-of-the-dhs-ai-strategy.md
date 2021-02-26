@@ -28,7 +28,9 @@ event_platform: zoom
 
 ---
 
-The Department of Homeland Security (DHS) will present the work that led to the creation of the DHS AI Strategy to interagency partners. DHS spent several months partnering with the interagency and the private sector to develop tailored goals and objectives to address the opportunities and risk of AI. They will share their experience to inspire other agencies to adopt a strategic approach to AI and develop partnerships to solve important policy and technical challenges associated with AI. The event will also cover the policy and technical challenges associated with AI that are relevant to all federal departments and agencies.
+The Department of Homeland Security (DHS) will present the work that led to the creation of the DHS AI Strategy. DHS spent several months partnering with federal agencies and the private sector to develop tailored goals and objectives to address the opportunities and risk of AI. 
+
+They will share their experience to inspire other agencies to adopt a strategic approach to AI and develop partnerships to solve important policy and technical challenges associated with AI. The event will also cover the policy and technical challenges associated with AI that are relevant to all federal departments and agencies.
 
 ## Speakers:
 
