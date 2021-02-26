@@ -1,5 +1,5 @@
 ---
-title: "Artifical Intelligence for Homeland Security: The Development of the DHS AI Strategy"
+title: "Artificial Intelligence for Homeland Security: The Development of the DHS AI Strategy"
 deck: If you are a federal employee, join us as the Department of Homeland
   Security presents their Department-wide AI Strategy!
 summary: The Department of Homeland Security (DHS) will present the work that
