@@ -81,7 +81,7 @@ By finding ways to promote user-generated content, you’ll increase engagement 
 
 **Customer feedback** is also critical to ensure we’re sending information that’s most relevant to employees. A few weeks ago, we launched a new feature in our email marketing tool for readers to rate our communications. It tells us how we’re doing, where we can do better, or other topics they want to hear more about. It also links to a form where the reader can provide additional comments, including ideas.
 
-{{< img src="feedback-emoji" alt="ALT_TEXT" >}}
+{{< img src="newsletter-feedback-emojis" alt="ALT_TEXT" >}}
 
 It’s one thing to develop content - but it’s also important to listen to keep your emails relevant. And when you ask for feedback, and readers submit it, it’s important to respond and address the feedback to show customers you’re listening.
 
