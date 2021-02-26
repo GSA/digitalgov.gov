@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/newsletter-feedback-emojis.png
+
+# Image shortcode: {{< img src="newsletter-feedback-emojis" >}}
+
+date     : 2021-02-26 14:17:55 -0400
+uid      : newsletter-feedback-emojis
+width    : 1666
+height   : 514
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A screen capture of the feedback section at the end of the email has three lines. The first two are text which says, Did you like this communication? Send us feedback by clicking on the face that best matches yours at the moment! The third line has 3 face icons for the user to click on, a happy green face, a neutral yellow face, and an angry red face."
