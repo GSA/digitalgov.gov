@@ -26,6 +26,10 @@ slug: artificial-intelligence-for-homeland-security-the-development-of-the-dhs-a
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /artifical-intelligence-for-homeland-security-the-development-of-the-dhs-ai-strategy/
+
 ---
 
 The Department of Homeland Security (DHS) will present the work that led to the creation of the DHS AI Strategy. DHS spent several months partnering with federal agencies and the private sector to develop tailored goals and objectives to address the opportunities and risk of AI. 
