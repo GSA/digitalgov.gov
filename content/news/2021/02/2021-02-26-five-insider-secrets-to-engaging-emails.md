@@ -13,6 +13,7 @@ topics:
   - social-media
   - writing
   - marketing
+  - cx
 # See all authors at https://digital.gov/authors
 authors:
   - victoria-wales
