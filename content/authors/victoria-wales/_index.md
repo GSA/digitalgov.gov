@@ -20,7 +20,7 @@ slug: victoria-wales
 email: "victoria.wales@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Victoria Wales has over 15 years of strategic integrated communications and public affairs experience, eight with the U.S. General Services Administration (GSA). At GSA's Centers of Excellence (CoE), Wales oversees strategic communications and change management at customer agencies. She is currently managing an Organizational Change Management work stream at the Eunice Kennedy Shriver National Institute of Child Health and Human Development."
+bio: "Victoria Wales has over 15 years of strategic integrated communications and public affairs experience, nine with the U.S. General Services Administration (GSA). At GSA’s Centers of Excellence (CoE), Wales oversees strategic communications and change management at customer agencies. She is currently detailed at the Department of Health and Human Services, Office of the Assistant Secretary of Public Affairs as a Digital Campaign Lead working on the COVID-19 and Flu Pandemic Public Education Campaign."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
