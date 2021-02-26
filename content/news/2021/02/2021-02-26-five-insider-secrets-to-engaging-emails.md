@@ -24,7 +24,9 @@ primary_image: anatomy-of-an-email-slide-federal-social-media-week
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Email is quite the powerful communication tool. It's also intimate; a person has given you their email address, and most of the time (and ideally) intentionally. As an email communicator or marketer, every communication should make the reader the focal point of every message. Below we're going to share how empathy drives what we do. First by respecting the reader's time and doing the hard work to align your content strategy accordingly.
 
 We all experience getting too many emails, and it's important not to be discouraged by some low open rates or low click rates. Test, learn, iterate, get feedback, and incorporate it. 
@@ -45,9 +47,9 @@ Every Thursday, the GSA IT team sends agency-wide messages with three to four sh
 
 **The Anatomy of a Good Email**
 
-IMAGE 1
+{{< img src="anatomy-of-an-email-slide-federal-social-media-week" alt="ALT_TEXT" >}}
 
-[Transcript for Anatomy of a Good Email](Anatomy-of-Email-description-accessible.pdf) (PDF, 2 pages, 95 kb)
+*For the left image above, [Transcript for Anatomy of a Good Email](Anatomy-of-Email-description-accessible.pdf) (PDF, 2 pages, 95 kb).*
 
 **Subject Line** - We try to make them fun and catchy, and frequently use emojis to grab the attention of our readers, as research has shown people are more likely to open emails with emojis. 
 Our Brand - We created a new brand for our newsletter, as the prior one had been in use for more than five years. At the same time, we recreated a standard header where employees could go for more self-help resources and to register for training. 
@@ -62,7 +64,7 @@ During COVID-19, we told employees about available tools and how to optimize the
 
 I mean, with all the dog lovers out there, who wouldn’t want to read the article with the teleworking dog, right? We were promoting a new noise-cancellation feature in a virtual meeting tool and we thought it would be fun to have the dog front and center, since dogs are sometimes the ones making the background noise during a team call.
 
-IMAGE 2
+{{< img src="gsa-it-insider-teleworking-tools-email" alt="ALT_TEXT" >}}
 
 ## Tip #2: Create Customer-Centric Content:
 
@@ -78,7 +80,7 @@ By finding ways to promote user-generated content, you’ll increase engagement 
 
 **Customer feedback** is also critical to ensure we’re sending information that’s most relevant to employees. A few weeks ago, we launched a new feature in our email marketing tool for readers to rate our communications. It tells us how we’re doing, where we can do better, or other topics they want to hear more about. It also links to a form where the reader can provide additional comments, including ideas.
 
-IMAGE 3
+{{< img src="feedback-emoji" alt="ALT_TEXT" >}}
 
 It’s one thing to develop content - but it’s also important to listen to keep your emails relevant. And when you ask for feedback, and readers submit it, it’s important to respond and address the feedback to show customers you’re listening.
 
