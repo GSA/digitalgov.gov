@@ -26,9 +26,12 @@ primary_image: ux-summit-2021
 
 ---
 
-## Call for Presenters
+{{< note >}}
+**The February 26th deadline for submissions has passed.** Thank you— we have received a number of submissions on a wide variety of topics related to UX!
 
-The February 26th deadline for submissions has passed. Thank you— we have received a number of submissions on a wide variety of topics related to UX!
+{{< /note >}}
+
+## Call for Presenters
 
 {{< img src="ux-summit-2021" >}}
 
