@@ -26,41 +26,20 @@ primary_image: ux-summit-2021
 
 ---
 
+{{< note >}}
+**The February 26th deadline for submissions has passed.** Thank you— we have received a number of submissions on a wide variety of topics related to UX!
+
+{{< /note >}}
+
 ## Call for Presenters
-
-Join us as presenters for the 2021 Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.  Our fully virtual event will be held June 22-24, 2021.
-
-Only U.S. government employees (federal, state, tribal, and local) and contractors with a U.S. government email address—and with their agency’s approval—are eligible to present. This is to ensure that the event supports government UX work.
-
-[Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScH8C3t9vUHLVcMxvUbYL0M_nwk_6-d9HayLS39iFdCdEQMRA/viewform) by February 26, 2021.
-
-A committee of government employees will review the submissions and select the program based on the relevance, usefulness, and quality of the submission and the qualifications of the presenters. We expect to finalize the program in late March.
-
-**Below are the topics and presentation formats that we’re looking for. For more information on requirements for submitting, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Caroline Smith at [Caroline.Smith@cms.hhs.gov](mailto:Caroline.Smith@cms.hhs.gov).**
 
 {{< img src="ux-summit-2021" >}}
 
-## What We’re Looking For
-
-### Topics
-
-* Case studies of UX projects or programs
-* Conducting UX work in a fully remote environment
-* Using design and evaluation methods
-* Working with the U.S. Web Design System tools
-* Starting, building, or managing a government UX program
-* Government-specific challenges and obstacles
-* UX and Agile
-* Using Human-Centered Design approaches to innovate
+A committee of government employees will review the submissions and select the program based on the relevance, usefulness, and quality of the submission and the qualifications of the presenters. We expect to finalize the program in late March.
 
 See the presentations from the [2019 Government UX Summit](https://digital.gov/event/2019/05/15/2019-government-ux-summit/) and the [2020 Government UX Summit](https://digital.gov/event/2020/07/28/2020-government-ux-summit/).
 
-### Format
-
-We’re looking for presentations in the following formats:
-
-* 10-minute presentations, where speakers can present short discussions or brief highlights
-* 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
+**For more information or questions regarding this year's UX Summit, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Caroline Smith at [Caroline.Smith@cms.hhs.gov](mailto:Caroline.Smith@cms.hhs.gov).**
 
 - - -
 
