@@ -2,6 +2,8 @@
 date: 2021-02-05 12:09:00 -0500
 slug: call-for-participation-2021-government-ux-summit
 
+expirydate: "2021-02-26"
+
 title: "Call for Participation: 2021 Government UX Summit"
 deck: We are looking for speakers to share their experiences as UX practitioners in government.
 summary: Join us as virtual presenters for the 2021 Government UX Summit in June! This is a great opportunity to hone your UX skills with the best and brightest user experience researchers and designers from across the government.
