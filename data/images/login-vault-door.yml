@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/login-vault-door.png
+
+# Image shortcode: {{< img src="login-vault-door" >}}
+
+date     : 2021-03-02 13:59:15 -0400
+uid      : login-vault-door
+width    : 577
+height   : 535
+format   : png
+credit   : ""
+caption  : ""
+alt      : "An illustration of a blue and red vault door has the red and white login.gov logo in the center."
