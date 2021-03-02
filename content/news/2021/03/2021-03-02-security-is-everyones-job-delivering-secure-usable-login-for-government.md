@@ -29,15 +29,16 @@ weight: 1
 ---
 
 Creating easy-to-use online products and services is not something you read much about when referring to the government. In this blog post, I'll share how the cross-functional teams on [login.gov](https://login.gov) designs and delivers human-centered experience to create a modern, secure, and impactful login service for the public.
-{{< img-right src="login-lock-graphic" >}}
 
 ## What is login.gov?
 
+{{< img-right src="login-lock-graphic" >}}
+
 Trusted by government agencies, login.gov is a shared service used by the public. Our program's mission is to simplify secure access to online government services for the public, and reduce costs for agencies and taxpayers. With one login.gov account, the sign-in process is streamlined; the need to remember different passwords for each agency is eliminated.
 
-{{< img-right src="login-vault-door" >}}
-
 ### Security experience
+
+{{< img-right src="login-vault-door" >}}
 
 To create the best product possible, our subject matter experts (SMEs) on the team take our security experience of the product seriously.
 
