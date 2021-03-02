@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/login-lock-graphic.png
+
+# Image shortcode: {{< img src="login-lock-graphic" >}}
+
+date     : 2021-03-02 13:59:15 -0400
+uid      : login-lock-graphic
+width    : 921
+height   : 831
+format   : png
+credit   : ""
+caption  : ""
+alt      : "An illustration of a gold padlock is surrounded by blue privacy and security icons."

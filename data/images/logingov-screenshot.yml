@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/logingov-screenshot.png
+
+# Image shortcode: {{< img src="logingov-screenshot" >}}
+
+date     : 2021-03-02 13:59:15 -0400
+uid      : logingov-screenshot
+width    : 3540
+height   : 2724
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A screenshot of a login.gov verification page reads, We've verified your social security number and state-issued ID. It has a large blue button to continue, and a small text link to cancel." 
