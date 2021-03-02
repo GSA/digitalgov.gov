@@ -25,12 +25,17 @@ primary_image: login-gov-launch
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Creating easy-to-use online products and services is not something you read much about when referring to the government. In this blog post, I'll share how the cross-functional teams on [login.gov](https://login.gov) designs and delivers human-centered experience to create a modern, secure, and impactful login service for the public.
+{{< img-right src="login-lock-graphic" >}}
 
 ## What is login.gov?
 
 Trusted by government agencies, login.gov is a shared service used by the public. Our program's mission is to simplify secure access to online government services for the public, and reduce costs for agencies and taxpayers. With one login.gov account, the sign-in process is streamlined; the need to remember different passwords for each agency is eliminated.
+
+{{< img-right src="login-vault-door" >}}
 
 ### Security experience
 
@@ -85,7 +90,7 @@ After creating these flows, we targeted the image capture portion of the flow an
 
 We also heard from users that certain screens were unhelpful or unuseful in the proofing process. For example, this screen appeared when the user had only made it through two of the steps BUT had not completed the proofing process.
 
-IMAGE
+{{< img src="logingov-screenshot" >}}
 
 ### Increased to 60% proofing success rates in two weeks
 
@@ -93,7 +98,7 @@ We implemented the recommendations that were based off of our usability testing 
 
 Within 30 days of implementation, our average actual success rate increased to 74%, and with a daily high as high as much 84%. These numbers will continue to climb by using continuous discovery and human-centered design techniques. As you can see, not only does this improve the public’s experience of login.gov, but also has serious business impact - making our product more attractive to partners, and reducing our costs to proof users.
 
-_Note: Actual is the percent of successfully proofed users who actually start the proofing process and complete all steps._
+_&#42; Note: Actual is the percent of successfully proofed users who actually start the proofing process and complete all steps._
 
 ## And we’re just getting started
 
