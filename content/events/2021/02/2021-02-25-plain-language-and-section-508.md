@@ -3,7 +3,7 @@ title: Plain Language and Section 508
 deck: "Learn what the plain language and accessibility communities share:
   opportunities to help people get and understand information. Find out what you
   can do to help."
-kicker: "Learn how plain language and accessibility concerns intersect. "
+kicker: "Learn how plain language and accessibility concerns intersect"
 summary: Come join us  as we focus on concerns and opportunities shared by the
   Section 508 and plain language communities in Government!
 host: Plain Language Community of Practice
@@ -24,12 +24,13 @@ topics:
 authors:
   - bethany-letalien
   - katherine-spivey
+  - alex-wilson
 slug: plain-language-and-section-508
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: ""
+
 ---
-- - -
 
 The presentation will focus on concerns and opportunities shared by the Section 508 and plain language communities. Topics will include:
 
@@ -39,9 +40,10 @@ The presentation will focus on concerns and opportunities shared by the Section 
 * Headings, lists, and tables
 * Graphics
 
-#### Presenter:
+## Presenters:
 
-* Bethany Letalien, Section 508 Program Manager, U.S. Office of Personnel Management, Office of Communications
+* **Bethany Letalien**, Section 508 Program Manager, U.S. Office of Personnel Management, Office of Communications
+* **Alex Wilson**, Program Analyst, U.S. General Services Administration, Office of Government-wide Policy
 
 - - -
 
