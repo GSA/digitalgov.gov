@@ -21,6 +21,8 @@ authors:
 slug: tag-managers-part-1-the-data-layer
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: 4syWFTvssSY
+
 ---
 In the past, we’ve covered the very [basics of tag managers](https://www.youtube.com/watch?v=TUJ5tyXOQNg&list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba&index=20) and what they do. To go a little deeper, we’re offering a two-part tag manager series with a more in-depth look at features and capability.
 
