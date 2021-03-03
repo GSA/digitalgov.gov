@@ -24,6 +24,7 @@ topics:
 authors:
   - bethany-letalien
   - katherine-spivey
+  - alex-wilson
 slug: plain-language-and-section-508
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
@@ -42,6 +43,7 @@ The presentation will focus on concerns and opportunities shared by the Section 
 #### Presenter:
 
 * Bethany Letalien, Section 508 Program Manager, U.S. Office of Personnel Management, Office of Communications
+* Alex Wilson, Program Analyst, U.S. General Services Administration, Office of Government-wide Policy
 
 - - -
 
