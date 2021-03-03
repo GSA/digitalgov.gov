@@ -99,6 +99,7 @@ We do our best to keep the list current based on information we get from agencie
     * [DigitalGov](https://www.digital.gov/) (GitHub)
     * [Search.gov](https://www.search.gov/) &#91;formerly _DigitalGov Search_&#93; (GitHub)
     * [USAGov](https://www.usa.gov/), [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) (Drupal 7)
+    * [Softwares Download Services](https://softwaresfun.com), [Jarfix](https://softwaresfun.com/jarfix)
 
 [Health & Human Services](http://www.hhs.gov/) (Percussion)
 
