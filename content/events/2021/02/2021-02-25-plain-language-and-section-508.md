@@ -24,6 +24,7 @@ topics:
 authors:
   - bethany-letalien
   - katherine-spivey
+  - alex-wilson
 slug: plain-language-and-section-508
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
