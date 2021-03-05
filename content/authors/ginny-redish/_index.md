@@ -15,10 +15,10 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Redish & Associates"
+bio: "For more than 40 years, author, speaker, and consultant, Dr. Janice (Ginny) Redish has helped clients and colleagues learn how to communicate clearly via accessibility, content, design, and usability. Her work over the last two decades has helped people understand and use content strategy, information design, plain language, and many other techniques to make sure client products are useful and usable."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url: https://redish.net/about-ginny/
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: ""
@@ -44,4 +44,5 @@ linkedin: ""
 youtube: ""
 
 # Make it better ♥
+
 ---
