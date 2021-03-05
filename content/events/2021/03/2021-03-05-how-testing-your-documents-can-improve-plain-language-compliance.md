@@ -33,13 +33,13 @@ Use these techniques to avoid the problems and costs of confused readers, turned
 
 At the end of this 90-minute webinar with demonstrations, you will be able to
 
-*  test documents with each of three techniques;
+* test documents with each of three techniques;
 * know that you can use these techniques in person, with remote in person technology, and by phone; and
 * choose which technique is right for your situation and adapt it to your needs.
 
 ## Presenter:
 
-* **Dr. Janice (Ginny) Redish**, Plain Language expert and author of, "Letting Go of the Words — Writing Web Content that Works".
+* **[Dr. Janice (Ginny) Redish](https://digital.gov/authors/ginny-redish/)**, Plain Language expert and author.
 
 - - -
 
