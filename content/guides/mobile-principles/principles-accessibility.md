@@ -49,7 +49,6 @@ To test for accessibility compliance, the free [AChecker Web Accessibility Check
 - Akamai Reveals 2 Seconds as The New Threshold of Accessibility for e-Commerce Web Page Response Times | https://www.akamai.com/us/en/about/news/press/2009-press/akamai-reveals-2-seconds-as-the-new-threshold-of-acceptability-for-ecommerce-web-page-responsetimes.jsp
 - Improving Website Accessibility | https://www.section508.gov/content/build/websiteaccessibility-improvement
 - WCAG 2.0 AA Gains Prominence as Website Accessibility Standard | http://www.natlawreview.com/article/wcag-20-aa-gains-prominencewebsite-accessibility-standard
-- Web Accessibility Checker Documentation | https://achecker.ca/documentation/index.php?p=checker/index.php
 - Web Content Accessibility Guidelines (WCAG) 2.0 | https://www.w3.org/TR/WCAG20/
 
 ## Additional Resources
