@@ -160,9 +160,12 @@ A screen reader is a form of assistive technology used by folks who are blind or
 
 However, many people are not familiar with screen readers, nor have they experienced their own products through a screen reader. Learning how to use this tool can be intimidating for people who have never used one before, but luckily free versions are included as part of most operating systems with tutorials available for you to try.
 
-- [How to use VoiceOver screen reader on a Mac (macOS Catalina) »](https://help.apple.com/voiceover/mac/10.15/)
+- [How to use VoiceOver screen reader on a Mac (macOS) »](https://support.apple.com/guide/voiceover/)
+- [How to use VoiceOver screen reader on a Mac (iOS) »](https://support.apple.com/en-ca/guide/iphone/iph3e2e4367/ios)
 - [How to use Narrator screen reader on a PC (Windows 10) »](https://support.microsoft.com/en-us/help/14234/windows-hear-text-read-aloud-with-narrator)
 - [How to use Narrator screen reader on a PC (Windows 7 and 8.1) »](https://support.microsoft.com/en-us/help/14234)
+- [How to use open source NVDA screen reader on a PC »](https://webaim.org/articles/nvda/)
+- [How to use TalkBack screen reader on a Android »](https://support.google.com/accessibility/android/answer/6283677?hl=en)
 
 Note that the most popular screen readers are NVDA and JAWS (with VoiceOver coming in third) according to a [2019 WebAIM survey](https://webaim.org/projects/screenreadersurvey8/), but you’ll get a basic overview of interaction patterns using the programs that come with your computer or mobile phone.
 
