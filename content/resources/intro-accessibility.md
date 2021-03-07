@@ -190,7 +190,7 @@ If you are able to test screen readers with multiple browsers, the following is 
 - [W3C’s Web Accessibility Initiative (WAI) perspective videos](https://www.w3.org/WAI/perspective-videos/) — A variety of short videos that give examples of different kinds of disabilities.
 - [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) — An introduction to how people with disabilities, including people with age-related impairments, use the Web. It describes assistive technology tools and approaches that people with different kinds of disabilities use to browse the Web (and the barriers they encounter due to poor design).
 - [Microsoft’s Inclusive Design Toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf) (PDF, 22 MB, 32 pages) — An approachable introduction to the history and principles of inclusive design ([they also have a full site about Inclusive Design](https://www.microsoft.com/design/inclusive/)).
-- [Web Almanac, Part II, Chapter 9: Accessibility](https://almanac.httparchive.org/en/2019/accessibility) - Covers additional topics, including readability, navigation, and form controls.
+- [Web Almanac, Part II, Chapter 8: Accessibility](https://almanac.httparchive.org/en/2020/accessibility) - Covers additional topics, including readability, navigation, and form controls.
 
 _This introduction to accessibility was based on content created by the Technology Transformation Services (TTS) **Accessibility Guild**. Many thanks to former and current guild co-leads, **Nikki Lee (18F)** and **David Stenger (USAgov)**, and **Jacklynn Pham (18F)** and **Toni Bonitto (TTS Solutions)**, for creating and iterating on this!_
 
