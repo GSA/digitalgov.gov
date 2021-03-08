@@ -1,5 +1,6 @@
----
-slug: checklist-of-requirements-for-federal-digital-services
+-متجرمنصةشليله 
+slug: قائمة التحقق من متطلبات الخدمات الرقمية الفيدرالية![Photo_20210308_090459](https://user-images.githubusercontent.com/59542901/110294814-6acbdd00-8001-11eb-8544-93eeb1a416f6.jpg)
+
 date: 2014-01-09 1:20:11 -0400
 title: "Checklist of Requirements for Federal Websites and Digital Services"
 summary: "Links to relevant laws, policies, and regulations for federal agencies."
