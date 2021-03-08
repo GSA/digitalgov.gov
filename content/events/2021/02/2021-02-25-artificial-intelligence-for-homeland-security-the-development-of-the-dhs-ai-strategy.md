@@ -1,5 +1,5 @@
 ---
-title: "Developing the Department of Homeland Security's Artificial Intellignce Strategy"
+title: "Developing the Department of Homeland Security's Artificial Intelligence Strategy"
 deck: If you are a federal employee, join us as the Department of Homeland
   Security presents their Department-wide AI Strategy.
 kicker: Artificial Intelligence
