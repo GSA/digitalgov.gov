@@ -33,7 +33,9 @@ This event will include:
 * The themes for the new round of ideas.
 * How to submit your idea to the 10x team.
 
-**To read more ahead of time, head to [10x.gsa.gov](https://10x.gsa.gov)!**
+**To read more, head to [10x.gsa.gov](https://10x.gsa.gov)!**
+
+**And to learn how to submit an idea, read the [10x one-pager here](https://digital.gov/pdf/10x-General-Slick-v3.pdf) (PDF, 351 KB, 1 page)!**
 
 - - -
 
