@@ -1,7 +1,7 @@
 ---
 date: 2021-03-02 10:28:00 -0500
 kicker: Privacy
-title: "Security is Everyone's Job: Delivering Secure, Usable Login for Government"
+title: "Security is Everyone's Responsibility: Delivering Secure, Usable Login for Government"
 deck: How login.gov incorporated human centered design and continuous discovery
   into their product development process to improve the user experience.
 summary: How login.gov incorporated human centered design and continuous
