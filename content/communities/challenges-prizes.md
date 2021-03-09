@@ -44,7 +44,7 @@ If you answered yes to any of these questions, the Challenge and Prize Federal C
 
 ## Who we are
 
-Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing. Our community strives to tap into the public braintrust to help government solve complex problems. We are a thriving inter-agency community of more than 740 dedicated and passionate civil servants encouraging innovation in government. Membership and participation are open to federal, tribal, state and local government.
+Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing. Our community strives to tap into the public braintrust to help government solve complex problems. We are a thriving inter-agency community of dedicated and passionate civil servants encouraging innovation in government. Membership and participation are open to federal, tribal, state and local government.
 
 ## What we do
 
@@ -54,7 +54,7 @@ Our community supports and encourages the use of incentivized competition to att
 
 Members of the Challenge and Prize COP gather about four times a year to share ideas, review best practices, and discuss policies and procedures. Membership and participation is open to federal, state, and local government. We host a listserv for members to ask questions, announce new challenges and prizes, and more.
 
-## Key Resources
+## Related Resources
 
 - Official listing of federal prizes and challenges: http://www.challenge.gov
 - Challenge.gov e-Newsletter: https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6
