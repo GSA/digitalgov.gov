@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/communities/customer-experience-community
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: customer-experience-community
+slug: customer-experience
 date: 2015-07-08 10:30:37 -0400
 title: 'Customer Experience'
 summary: 'We are an interagency group of customer experience practitioners.'
@@ -25,7 +25,7 @@ community_list:
 
 ---
 
-The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 800 members across more than 140 federal, state and local U.S. government offices and agencies.
+The government Customer Experience (CX) Community of Practice (COP) is an interagency group of customer experience practitioners, with over 800 members across more than 140 U.S. government offices and agencies.
 
 ## Join
 
