@@ -57,6 +57,7 @@ Members of the Challenge and Prize COP gather about four times a year to share i
 ## Key Resources
 
 - Official listing of federal prizes and challenges: http://www.challenge.gov
+- Challenge.gov e-Newsletter: https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6
 - Toolkit and resources on running challenges: http://www.challenge.gov/toolkit
 - Playlist of challenges and prizes webinars: https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC
 - Facebook: http://www.facebook.com/challengegov
