@@ -31,8 +31,8 @@ weight: 2
 aliases:
   - /resources/spanish-language-style-guide-and-glossaries/
 
-
 # Make it better ♥
+
 ---
 
 The bilingual glossaries, dictionaries, and Spanish language style guides available in this section are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in languages other than English.
@@ -51,6 +51,11 @@ The Multilingual Language Style Guides contain information on grammar and style 
 ## Government Bilingual Glossaries
 
 ### General Terminology
+
+
+#### U.S. Small Business Administration (SBA), Office of Communications and Public Liaison (OCPL)
+
+[SBA bilingual (English and Spanish) Glossary of Terms](https://digital.gov/pdf/SBA-Spanish-Glossary-January-22-2021-508-Final.pdf) (PDF, 177 kb, 14 pages)
 
 #### Social Security Administration (SSA)
 
