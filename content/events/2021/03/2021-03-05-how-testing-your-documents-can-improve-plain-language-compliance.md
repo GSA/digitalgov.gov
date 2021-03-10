@@ -1,8 +1,8 @@
 ---
 title: How Testing Your Documents Can Improve Plain Language Compliance
-deck: Come work with Dr. Ginny Redish and learn 3 techniques for quick, easy ways to test documents' usability.
+deck: Come work with Dr. Ginny Redish and learn three techniques for quick, easy ways to test documents' usability.
 kicker: User Experience
-summary: Usability testing isn’t only for websites. Come work with Dr. Ginny Redish and try out 3 techniques for quick and easy ways to test the usability of your documents.
+summary: Usability testing isn’t only for websites. Come work with Dr. Ginny Redish and try out three techniques for quick and easy ways to test the usability of your documents.
 host: Plain Language Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/how-testing-your-documents-can-improve-plain-language-compliance-tickets-144696072849
