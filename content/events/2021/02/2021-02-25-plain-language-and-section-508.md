@@ -1,9 +1,9 @@
 ---
-title: Plain Language and Section 508
+title: "Plain Language: Accessibility for Content"
 deck: "Learn what the plain language and accessibility communities share:
   opportunities to help people get and understand information. Find out what you
   can do to help."
-kicker: "Learn how plain language and accessibility concerns intersect"
+kicker: "Plain Language"
 summary: Come join us  as we focus on concerns and opportunities shared by the
   Section 508 and plain language communities in Government!
 host: Plain Language Community of Practice
