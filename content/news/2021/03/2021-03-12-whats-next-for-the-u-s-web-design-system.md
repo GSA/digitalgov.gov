@@ -5,8 +5,8 @@ source: uswds
 date: 2021-03-11 14:24:00 -0500
 kicker: USWDS
 title: What's Next for the U.S. Web Design System
-deck: **What's Next for the U.S. Web Design System**&mdash;In 2020, we brought together researchers, designers, engineers, and policymakers to conduct research across dozens of federal agencies to help support emergency response efforts related to the COVID-19 pandemic. Today we released a new and exciting report and strategy that outlines what’s next for the design system and our community.
-summary: **What's Next for the U.S. Web Design System**&mdash;In 2020, we brought together researchers, designers, engineers, and policymakers to conduct research across dozens of federal agencies to help support emergency response efforts related to the COVID-19 pandemic. Today we released a new and exciting report and strategy that outlines what’s next for the design system and our community.
+deck: "**What's Next for the U.S. Web Design System**&mdash;In 2020, we brought together researchers, designers, engineers, and policymakers to conduct research across dozens of federal agencies to help support emergency response efforts related to the COVID-19 pandemic. Today we released a new and exciting report and strategy that outlines what’s next for the design system and our community."
+summary: "**What's Next for the U.S. Web Design System**&mdash;In 2020, we brought together researchers, designers, engineers, and policymakers to conduct research across dozens of federal agencies to help support emergency response efforts related to the COVID-19 pandemic. Today we released a new and exciting report and strategy that outlines what’s next for the design system and our community."
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
