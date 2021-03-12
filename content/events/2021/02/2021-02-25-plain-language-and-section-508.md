@@ -28,9 +28,11 @@ authors:
 slug: plain-language-and-section-508
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: ""
+youtube_id: n_WYcQnVOf4
 
 ---
+
+[View the accessible slides](https://digital.gov/pdf/plain-accessibility-slides-march-2021.pdf) (PDF, 186 KB, 17 pages)
 
 The presentation will focus on concerns and opportunities shared by the Section 508 and plain language communities. Topics will include:
 
