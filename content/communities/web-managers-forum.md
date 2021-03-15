@@ -37,7 +37,7 @@ community_list:
   - platform: listserv
     type: government_only
     subscribe_email: "CONTENT-MANAGERS-L-subscribe-request@listserv.gsa.gov"
-    terms: "Federal employees only are eligible to join."
+    terms: "Government employees only are eligible to join."
     members: 1927
 
 ---
