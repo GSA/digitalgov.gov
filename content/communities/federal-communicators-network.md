@@ -15,10 +15,10 @@ topics:
 
 # See all authors at https://digital.gov/authors
 authors:
-  - gabrielle-perret
+  - jamie-stark
   - tracey-batacan
-  - christine-stevenson
   - jeku-j-r-arce
+  - wendy-wagner-smith
 slug: federal-communicators-network
 
 community_list:
