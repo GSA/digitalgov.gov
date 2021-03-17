@@ -16,13 +16,8 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - jamie-stark
-  - tracey-batacan
-  - jeku-j-r-arce
   - wendy-wagner-smith
   - brett-hollowell
-  - catie-miller
-  - holland-gormley
-  - lisa-novak
 
 slug: federal-communicators-network
 
