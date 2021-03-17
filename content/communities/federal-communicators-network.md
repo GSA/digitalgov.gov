@@ -1,4 +1,5 @@
 ---
+slug: federal-communicators-network
 date: 2021-02-24 18:49:00 -0500
 title: Federal Communicators Network
 summary: We help federal communicators achieve excellence by providing training,
@@ -18,8 +19,11 @@ authors:
   - jamie-stark
   - wendy-wagner-smith
   - brett-hollowell
-
-slug: federal-communicators-network
+  - tracey-batacan
+  - jeku-j-r-arce
+  - holland-gormley
+  - lisa-novak
+  - catie-miller
 
 community_list:
   - platform: listserv
