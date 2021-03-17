@@ -19,6 +19,10 @@ authors:
   - tracey-batacan
   - jeku-j-r-arce
   - wendy-wagner-smith
+  - brett-hollowell
+  - catie-miller
+  - holland-gormley
+  - lisa-novak
 slug: federal-communicators-network
 
 community_list:
