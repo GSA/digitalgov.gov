@@ -39,7 +39,7 @@ On your primary agency site, you would include information about the agency with
 
 - the agency’s strategic plan and annual performance plans
 - the agency’s privacy policy page _([more on this below](#privacy-policy))_
-- the agency’s point of contact, as required by the Small Business Paperwork Relief Act of 2002
+- the agency’s Small Business point of contact, as required by the Small Business Paperwork Relief Act of 2002
 - the agency’s Open Government page
 - the agency’s Plain Writing page
 - information as required under the No Fear Act of 2002 _([more on this below](#equal-employment))_
