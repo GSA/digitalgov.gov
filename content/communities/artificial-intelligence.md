@@ -15,7 +15,6 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - krista-kinnard
   - steven-babitch
 
 # Page weight: controls how this page appears across the site
