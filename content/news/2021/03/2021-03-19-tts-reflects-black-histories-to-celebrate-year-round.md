@@ -1,23 +1,26 @@
 ---
 date: 2021-03-19 18:33:00 -0500
 title: "TTS Reflects: Black Histories to Celebrate Year-Round"
-deck: In this blog, TTS employees share how Black History Month efforts can
-  inspire our work and innovation year-round.
-summary: Black history is American history. In this blog, TTS employees share
-  how Black history makers can inspire our work and innovation year-round.
+deck: "In this blog, TTS employees share how Black History Month efforts can inspire our work and innovation year-round."
+summary: "Black history is American history. In this blog, TTS employees share how Black history makers can inspire our work and innovation year-round."
+
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
   - professional-development
   - communication
   - strategy
+
 # See all authors at https://digital.gov/authors
 authors:
   - jessyka-castillo
   - aileen-mcgraw
   - dahianna-salazar-foreman
+
 slug: tts-reflects-black-histories-to-celebrate-year-round
+
 primary_image: 10x-projects-report-1
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -33,29 +36,28 @@ The TTS Diversity guild and the TTS’ Working While Black (WWB) affinity group 
 
 The TTS Outreach team also created social media campaigns focused on highlighting what Black History Month meant for our  Black colleagues. We reached out to them and gathered content and feedback to create a social media campaign that not only provided our Black employees an opportunity to share their voice, but also showcase their outstanding work and expertise. 
 
-Note: embed tweets; do not us images here
-https://twitter.com/GSA_TTS/status/1359893539526746117 and https://twitter.com/PIFgov/status/1358859533154742275
+{{< tweet 1359893539526746117 >}}
+
+{{< tweet 1358859533154742275 >}}
 
 Below are snapshots of these campaigns in action. Each vignette below has been shared by a member of TTS’Black employee affinity group, Working While Black. We hope you enjoy, and find timeless lessons that inspire more inclusive and equitable workplaces and communities, every month of the year.
 
 BLOCK 1
 
-{{< card-quote text="I used to be a scientist, and I have scientist/engineer parents. I believe in science, and I can’t wait to get vaccinated. As the COVID-19 vaccine continues to roll out throughout our country, the phrase ‘Trust the Science’ has started to pick up. I can’t get down with this phrase, because it rubs me the wrong way. As it pertains to Black communities, ‘Trust the science’ lacks empathy and contextual understanding of the suffering and sacrifice these communities have been put through to enable us to achieve medical advances over centuries, and the vaccine we have now.
+{{< card-quote text="I used to be a scientist, and I have scientist/engineer parents. I believe in science, and I can't wait to get vaccinated. As the COVID-19 vaccine continues to roll out throughout our country, the phrase _Trust the Science_ has started to pick up. I can't get down with this phrase, because it rubs me the wrong way. As it pertains to Black communities, _Trust the science_ lacks empathy and contextual understanding of the suffering and sacrifice these communities have been put through to enable us to achieve medical advances over centuries, and the vaccine we have now.
 
-Here are some medical ‘advances’ at the cost of Black lives: 
+Here are some medical 'advances' at the cost of Black lives: 
 
 * **[Antebellum gynecology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6727302/)**: A group of doctors dedicated four years experimenting on 14 Black enslaved women to develop a treatment for fistulas. To this day, Black women are three times as likely to die giving birth, and are often not believed by medical professionals when they complain of pain. 
-* **[The Tuskegee Study](https://www.cdc.gov/tuskegee/timeline.htm)**: In 1932, the Public Health Service, working with the Tuskegee Institute, began a study to record the natural history of syphilis. The study initially involved 600 black men – 399 with syphilis, 201 who did not have the disease. The study was conducted without the benefit of patients’ informed consent, with some being informed that they were receiving treatment when, in reality, they received no treatment at all.
+* **[The Tuskegee Study](https://www.cdc.gov/tuskegee/timeline.htm)**: In 1932, the Public Health Service, working with the Tuskegee Institute, began a study to record the natural history of syphilis. The study initially involved 600 black men – 399 with syphilis, 201 who did not have the disease. The study was conducted without the benefit of patients' informed consent, with some being informed that they were receiving treatment when, in reality, they received no treatment at all.
 
-Instead of saying, “Trust the science,” maybe we should say, “We’re sorry we’ve broken your trust, and we thank and honor the people above, and all who have given their life to scientific research, be it voluntary or not. We can and we will do better." cite="Uchenna Moka-solana (she/her), Acting Executive Director, 18F" >}}
-
- — 
+Instead of saying, _Trust the science_, maybe we should say: We're sorry we've broken your trust, and we thank and honor the people above, and all who have given their life to scientific research, be it voluntary or not. We can and we will do better." cite="Uchenna Moka-solana (she/her), Acting Executive Director, 18F" >}}
 
 BLOCK 2
 
 {{< card-quote text="Individual commitment to a group effort—that is what makes a team work, a company work, a society work, a civilization work." cite="Vince Lombardi, National Football League (NFL) coach" >}}
 
-“Black History is such a vast field of study, I decided to focus on the acronym STEM (Science, Technology, Engineering and Mathematics) and parallel how the acronym can be used in multiple ways to describe the contributions and experiences of Africans (Black Peoples). First, Black Peoples **S**hake-Up how the world does things, we create and **T**ransform how the world **E**xcogitates and develops elegant solutions that **M**odernize the world. And, I am sure that you already know this, but since we are celebrating, let’s not forget that Black Peoples are **S**piritual, **T**alented, **E**ssential, and **M**ajestic.  Please take a few minutes every day in February to learn something new about Black Peoples during America’s Black History Month Celebration.”
+Black History is such a vast field of study, I decided to focus on the acronym STEM (Science, Technology, Engineering and Mathematics) and parallel how the acronym can be used in multiple ways to describe the contributions and experiences of Africans (Black Peoples). First, Black Peoples **S**hake-Up how the world does things, we create and **T**ransform how the world **E**xcogitates and develops elegant solutions that **M**odernize the world. And, I am sure that you already know this, but since we are celebrating, let’s not forget that Black Peoples are **S**piritual, **T**alented, **E**ssential, and **M**ajestic.  Please take a few minutes every day in February to learn something new about Black Peoples during America’s Black History Month Celebration.
 
  — Pia Scott (she/her), Senior Advisor, TTS Solutions
 
@@ -63,13 +65,13 @@ BLOCK 3
 
 {{< card-quote text="Individual commitment to a group effort—that is what makes a team work, a company work, a society work, a civilization work." cite="Vince Lombardi, National Football League (NFL) coach" >}}
 
-“Let's spotlight three African American playwrights who have shaped American theater and had an enduring legacy on the art form! There are so many incredibly talented Black playwrights, actors/actresses, directors, and producers, past and present, in both the U.S. and worldwide, who have transformed theater into a vehicle for telling empowering, uplifting, and authentic stories about Black people. 
+Let's spotlight three African American playwrights who have shaped American theater and had an enduring legacy on the art form! There are so many incredibly talented Black playwrights, actors/actresses, directors, and producers, past and present, in both the U.S. and worldwide, who have transformed theater into a vehicle for telling empowering, uplifting, and authentic stories about Black people. 
 
 Here's three to know:
 
 * **August Wilson**: This Pulitzer Prize and Tony Award winning playwright wrote 10 plays, collectively known as ‘The Pittsburgh Cycle,’ chronicling the dynamic, complex experiences and heritage of African Americans in the 20th century.
 * **Lorraine Hansberry**: This Chicago native was the first African-American female playwright to have a play performed on Broadway. That play, A Raisin in the Sun, is her best known work and debuted when she was only 29 years old! The play highlights the lives of Black Americans living under racial segregation in Chicago.
-* **Suzan Lori-Parks**: A writer of stage plays, screenplays, teleplays, and a book, Suzan is the first African American woman to win the Pulitzer Prize for drama for her 2001 play Topdog/Underdog.”
+* **Suzan Lori-Parks**: A writer of stage plays, screenplays, teleplays, and a book, Suzan is the first African American woman to win the Pulitzer Prize for drama for her 2001 play Topdog/Underdog.
 
  — Malaika Carpenter (she/her), Content Strategist, 18F
 
@@ -77,7 +79,7 @@ BLOCK 4
 
 {{< card-quote text="Individual commitment to a group effort—that is what makes a team work, a company work, a society work, a civilization work." cite="Vince Lombardi, National Football League (NFL) coach" >}}
 
-“Let us celebrate Black Ingenuity. I’d like to shout out the work of Mobile, Alabama’s Lonnie Johnson. As an engineer with the Air Force and the Jet Propulsion Laboratory, Lonnie Johnson contributed to the development of countless high-profile projects, including the Stealth Bomber and the nuclear power source for NASA’s 1989 Galileo mission to Jupiter. But the most celebrated of Lonnie Johnson’s 120+ patents? The Super Soaker water gun! The Super Soaker was a runway success and became one of the most popular toys of the 1990s. The man is now a billionaire, and yet he continues to innovate. ‘The Super Soaker is good. But I want to do better.’ He continues to work and innovate on solid state batteries and thermoelectric energy conversion.”
+Let us celebrate Black Ingenuity. I’d like to shout out the work of Mobile, Alabama’s Lonnie Johnson. As an engineer with the Air Force and the Jet Propulsion Laboratory, Lonnie Johnson contributed to the development of countless high-profile projects, including the Stealth Bomber and the nuclear power source for NASA’s 1989 Galileo mission to Jupiter. But the most celebrated of Lonnie Johnson’s 120+ patents? The Super Soaker water gun! The Super Soaker was a runway success and became one of the most popular toys of the 1990s. The man is now a billionaire, and yet he continues to innovate. ‘The Super Soaker is good. But I want to do better.’ He continues to work and innovate on solid state batteries and thermoelectric energy conversion.
 
  — Patrick Kigongo (he/him), Product Manager, 18F
 
