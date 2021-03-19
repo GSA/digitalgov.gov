@@ -46,10 +46,6 @@ This community aims to unite federal employees who are active in, or interested 
 
 The AI CoP is being launched in coordination with the Federal Chief Information Officer (CIO).
 
-## How to Join
-
-**If you are a federal government employee** with a .gov or .mil email address, you can join our community by sending an email to [AI-subscribe-request@listserv.gsa.gov](mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv).
-
 ## What We Do
 
 The AI CoP will bring together federal employees to:
