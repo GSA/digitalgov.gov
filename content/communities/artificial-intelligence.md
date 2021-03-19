@@ -35,6 +35,7 @@ community_list:
     subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
     terms: "Anyone is eligible to join."
     members: 301
+
 ---
 
 When the president signed the [Executive Order 13859, Maintaining American Leadership in Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/), on February 11, 2019, it launched the American AI initiative to promote and protect AI technology and innovation in the United States.
