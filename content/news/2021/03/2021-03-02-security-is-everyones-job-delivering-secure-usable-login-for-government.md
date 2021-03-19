@@ -109,6 +109,9 @@ You can learn more about login.gov by visiting our website: <https://www.login.g
 
 Is your agency looking for a login solution for your online products and services? Contact us at [partners@login.gov](mailto:partners@login.gov). 
 
+## _About the Author_
+{{< author-bio "julia-elman" >}}
+
 ---
 
 _Do you have a .gov or .mil email address and are looking to connect with other feds working on digital products and services? Join our [Communities of Practice](https://digital.gov/communities/), such as User Experience, DevOps, Web Content Managers Forum, IT Accessibility and Section 508, MobileGov, and more! Explore Digital.gov’s [Resources](https://digital.gov/resources/) and [Tools and Services](https://digital.gov/services/) for additional information and help._
