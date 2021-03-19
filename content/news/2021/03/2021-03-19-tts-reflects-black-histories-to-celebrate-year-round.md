@@ -15,7 +15,6 @@ topics:
 authors:
   - jessyka-castillo
   - aileen-mcgraw
-  - dahianna-salazar-foreman
 
 slug: tts-reflects-black-histories-to-celebrate-year-round
 
