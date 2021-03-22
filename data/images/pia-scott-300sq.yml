@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/pia-scott-300sq.png
+
+# Image shortcode: {{< img src="pia-scott-300sq" >}}
+
+date     : 2021-03-22 10:09:32 -0400
+uid      : pia-scott-300sq
+width    : 300
+height   : 300
+format   : png
+credit   : ""
+caption  : ""
+alt      : "Close-up photo of Pia Scott. She is smiling."
