@@ -11,6 +11,7 @@ summary: "SocialGov is the government social media community of practice."
 authors:
   - gabrielle-perret
   - paul-lester
+  - joseph-galbo
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -27,7 +28,7 @@ community_list:
     type: government
     subscribe_email: "SM-COP-subscribe-request@listserv.gsa.gov"
     terms: "Anyone with a .gov or .mil email address is eligible to join."
-    members: 1173
+    members: 1187
 
 ---
 
