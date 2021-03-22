@@ -15,7 +15,6 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - krista-kinnard
   - steven-babitch
 
 # Page weight: controls how this page appears across the site
@@ -27,8 +26,15 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
-    subscribe_email_subject: "AI Listserv"
-    members: 959
+    terms: "Only federal employees are eligible to join."
+    members: 1053
+
+community_list:
+  - platform: listserv
+    type: public
+    subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
+    terms: "Anyone is eligible to join."
+    members: 301
 
 ---
 
@@ -39,10 +45,6 @@ When the president signed the [Executive Order 13859, Maintaining American Leade
 This community aims to unite federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.
 
 The AI CoP is being launched in coordination with the Federal Chief Information Officer (CIO).
-
-## How to Join
-
-**If you are a federal government employee** with a .gov or .mil email address, you can join our community by sending an email to [AI-subscribe-request@listserv.gsa.gov](mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv).
 
 ## What We Do
 
