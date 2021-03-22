@@ -28,8 +28,6 @@ community_list:
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     terms: "Only federal employees are eligible to join."
     members: 1053
-
-community_list:
   - platform: listserv
     type: public
     subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
