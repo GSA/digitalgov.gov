@@ -68,7 +68,7 @@ First, Black Peoples **S**hake-Up how the world does things, we create and **T**
 
 Let's spotlight three African American playwrights who have shaped American theater and had an enduring legacy on the art form! There are so many incredibly talented Black playwrights, actors/actresses, directors, and producers, past and present, in both the U.S. and worldwide, who have transformed theater into a vehicle for telling empowering, uplifting, and authentic stories about Black people. 
 
-Here's three to know: 
+Here's three to know: <br />
 
 * **August Wilson**: This Pulitzer Prize and Tony Award winning playwright wrote 10 plays, collectively known as ‘The Pittsburgh Cycle,’ chronicling the dynamic, complex experiences and heritage of African Americans in the 20th century. 
 * **Lorraine Hansberry**: This Chicago native was the first African-American female playwright to have a play performed on Broadway. That play, A Raisin in the Sun, is her best known work and debuted when she was only 29 years old! The play highlights the lives of Black Americans living under racial segregation in Chicago. 
@@ -98,7 +98,7 @@ Collaborating with our staff on this campaign also paved the way for an ongoing 
 
 We at TTS are committed to giving all voices space to be heard. A diverse organization creates a spectrum of solutions and ideas, and helps us challenge status quo thinking. Inside TTS, the work of diversity, equity, and inclusion is a collective effort: every employee makes a difference. 
 
-{{< card-quote text="The TTS Handbook states that we _actively work to eliminate bigotry and subtle forms of disrespect (e.g. microaggressions, microinvalidations, etc.) from our workplace._ It is not enough to simply acknowledge the contributions of Black Americans to our nation, within TTS, and beyond. We need to commit to the active disruption of racism, and to promote racial equity and inclusion." cite="TTS Executive Director Dave Zvenyach" >}}
+{{< card-quote text="The TTS Handbook states that we 'actively work to eliminate bigotry and subtle forms of disrespect (e.g. microaggressions, microinvalidations, etc.) from our workplace.' It is not enough to simply acknowledge the contributions of Black Americans to our nation, within TTS, and beyond. We need to commit to the active disruption of racism, and to promote racial equity and inclusion." cite="TTS Executive Director Dave Zvenyach" >}}
 
 ---
 
