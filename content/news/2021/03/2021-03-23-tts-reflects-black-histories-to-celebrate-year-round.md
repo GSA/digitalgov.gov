@@ -33,7 +33,7 @@ The TTS Outreach team also created social media campaigns focused on highlightin
 
 {{< tweet 1359893539526746117 >}}
 
-<hr width="50%">
+<hr width="75%">
 
 {{< tweet 1358859533154742275 >}}
 
@@ -50,7 +50,7 @@ Here are some medical ‘advances’ at the cost of Black lives:
 
 Instead of saying, &#34;Trust the science,&#34; maybe we should say, &#34;We're sorry we’ve broken your trust, and we thank and honor the people above, and all who have given their life to scientific research, be it voluntary or not. We can and we will do better.&#34;
 
-**Uchenna Moka-Solana** (she/her), Acting Executive Director, 18F{{< /note >}}
+ — **Uchenna Moka-Solana** (she/her), Acting Executive Director, 18F{{< /note >}}
 
 <hr width="75%">
 
@@ -68,7 +68,7 @@ First, Black Peoples **S**hake-Up how the world does things, we create and **T**
 
 Let's spotlight three African American playwrights who have shaped American theater and had an enduring legacy on the art form! There are so many incredibly talented Black playwrights, actors/actresses, directors, and producers, past and present, in both the U.S. and worldwide, who have transformed theater into a vehicle for telling empowering, uplifting, and authentic stories about Black people. 
 
-Here's three to know: <br />
+Here's three to know: <br /><br />
 
 * **August Wilson**: This Pulitzer Prize and Tony Award winning playwright wrote 10 plays, collectively known as ‘The Pittsburgh Cycle,’ chronicling the dynamic, complex experiences and heritage of African Americans in the 20th century. 
 * **Lorraine Hansberry**: This Chicago native was the first African-American female playwright to have a play performed on Broadway. That play, A Raisin in the Sun, is her best known work and debuted when she was only 29 years old! The play highlights the lives of Black Americans living under racial segregation in Chicago. 
