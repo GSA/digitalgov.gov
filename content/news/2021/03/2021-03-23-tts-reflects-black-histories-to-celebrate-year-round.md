@@ -33,6 +33,8 @@ The TTS Outreach team also created social media campaigns focused on highlightin
 
 {{< tweet 1359893539526746117 >}}
 
+<hr width="50%">
+
 {{< tweet 1358859533154742275 >}}
 
 Below are snapshots of these campaigns in action. Each vignette below has been shared by a member of TTS' Black employee affinity group, Working While Black. We hope you enjoy, and find timeless lessons that inspire more inclusive and equitable workplaces and communities, every month of the year. 
@@ -48,17 +50,17 @@ Here are some medical ‘advances’ at the cost of Black lives:
 
 Instead of saying, &#34;Trust the science,&#34; maybe we should say, &#34;We're sorry we’ve broken your trust, and we thank and honor the people above, and all who have given their life to scientific research, be it voluntary or not. We can and we will do better.&#34;
 
-**Uchenna Moka-Solana** (she/her), Acting Executive Director, 18F
-{{< /note >}}
+**Uchenna Moka-Solana** (she/her), Acting Executive Director, 18F{{< /note >}}
 
 <hr width="75%">
 
 {{< note "comment" >}}{{< img-right src="pia-scott-300sq" >}}
 
-Black History is such a vast field of study, I decided to focus on the acronym STEM (Science, Technology, Engineering, and Mathematics) and parallel how the acronym can be used in multiple ways to describe the contributions and experiences of Africans (Black Peoples). First, Black Peoples **S**hake-Up how the world does things, we create and **T**ransform how the world **E**xcogitates and develops elegant solutions that **M**odernize the world. And, I am sure that you already know this, but since we are celebrating, let’s not forget that Black Peoples are **S**piritual, **T**alented, **E**ssential, and **M**ajestic. Please take a few minutes every day in February to learn something new about Black Peoples during America’s Black History Month Celebration. 
+Black History is such a vast field of study, I decided to focus on the acronym STEM (Science, Technology, Engineering, and Mathematics) and parallel how the acronym can be used in multiple ways to describe the contributions and experiences of Africans (Black Peoples). 
 
- — **Pia Scott** (she/her), Senior Advisor, TTS Solutions
-{{< /note >}}
+First, Black Peoples **S**hake-Up how the world does things, we create and **T**ransform how the world **E**xcogitates and develops elegant solutions that **M**odernize the world. And, I am sure that you already know this, but since we are celebrating, let’s not forget that Black Peoples are **S**piritual, **T**alented, **E**ssential, and **M**ajestic. Please take a few minutes every day in February to learn something new about Black Peoples during America’s Black History Month Celebration. 
+
+ — **Pia Scott** (she/her), Senior Advisor, TTS Solutions{{< /note >}}
 
 <hr width="75%">
 
@@ -66,14 +68,13 @@ Black History is such a vast field of study, I decided to focus on the acronym S
 
 Let's spotlight three African American playwrights who have shaped American theater and had an enduring legacy on the art form! There are so many incredibly talented Black playwrights, actors/actresses, directors, and producers, past and present, in both the U.S. and worldwide, who have transformed theater into a vehicle for telling empowering, uplifting, and authentic stories about Black people. 
 
-Here's three to know:
+Here's three to know: 
 
 * **August Wilson**: This Pulitzer Prize and Tony Award winning playwright wrote 10 plays, collectively known as ‘The Pittsburgh Cycle,’ chronicling the dynamic, complex experiences and heritage of African Americans in the 20th century. 
 * **Lorraine Hansberry**: This Chicago native was the first African-American female playwright to have a play performed on Broadway. That play, A Raisin in the Sun, is her best known work and debuted when she was only 29 years old! The play highlights the lives of Black Americans living under racial segregation in Chicago. 
 * **Suzan Lori-Parks**: A writer of stage plays, screenplays, teleplays, and a book, Suzan is the first African American woman to win the Pulitzer Prize for drama for her 2001 play Topdog/Underdog. 
 
- — **Malaika Carpenter** (she/her), Content Strategist, 18F
-{{< /note >}}
+ — **Malaika Carpenter** (she/her), Content Strategist, 18F{{< /note >}}
 
 <hr width="75%">
 
@@ -81,8 +82,7 @@ Here's three to know:
 
 Let us celebrate Black Ingenuity. I’d like to shout out the work of Mobile, Alabama’s Lonnie Johnson. As an engineer with the Air Force and the Jet Propulsion Laboratory, Lonnie Johnson contributed to the development of countless high-profile projects, including the Stealth Bomber and the nuclear power source for NASA’s 1989 Galileo mission to Jupiter. But the most celebrated of Lonnie Johnson’s 120+ patents? The Super Soaker water gun! The Super Soaker was a runway success and became one of the most popular toys of the 1990s. The man is now a billionaire, and yet he continues to innovate. ‘The Super Soaker is good. But I want to do better.’ He continues to work and innovate on solid state batteries and thermoelectric energy conversion. 
 
- — **Patrick Kigongo** (he/him), Product Manager, 18F
-{{< /note >}}
+ — **Patrick Kigongo** (he/him), Product Manager, 18F{{< /note >}}
 
 ## Improving how we share our stories
 
@@ -98,7 +98,7 @@ Collaborating with our staff on this campaign also paved the way for an ongoing 
 
 We at TTS are committed to giving all voices space to be heard. A diverse organization creates a spectrum of solutions and ideas, and helps us challenge status quo thinking. Inside TTS, the work of diversity, equity, and inclusion is a collective effort: every employee makes a difference. 
 
-{{< card-quote text="The TTS Handbook states that we &#34;_actively work to eliminate bigotry and subtle forms of disrespect (e.g. microaggressions, microinvalidations, etc.) from our workplace._&#34; It is not enough to simply acknowledge the contributions of Black Americans to our nation, within TTS, and beyond. We need to commit to the active disruption of racism, and to promote racial equity and inclusion." cite="TTS Executive Director Dave Zvenyach" >}}
+{{< card-quote text="The TTS Handbook states that we _actively work to eliminate bigotry and subtle forms of disrespect (e.g. microaggressions, microinvalidations, etc.) from our workplace._ It is not enough to simply acknowledge the contributions of Black Americans to our nation, within TTS, and beyond. We need to commit to the active disruption of racism, and to promote racial equity and inclusion." cite="TTS Executive Director Dave Zvenyach" >}}
 
 ---
 
