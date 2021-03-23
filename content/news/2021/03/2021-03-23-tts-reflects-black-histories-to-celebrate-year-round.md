@@ -43,7 +43,7 @@ Below are snapshots of these campaigns in action. Each vignette below has been s
 
 I used to be a scientist, and I have scientist/engineer parents. I believe in science, and I can’t wait to get vaccinated. As the COVID-19 vaccine continues to roll out throughout our country, the phrase ‘Trust the Science’ has started to pick up. I can’t get down with this phrase, because it rubs me the wrong way. As it pertains to Black communities, 'Trust the science' lacks empathy and contextual understanding of the suffering and sacrifice these communities have been put through to enable us to achieve medical advances over centuries, and the vaccine we have now. 
 
-Here are some medical ‘advances’ at the cost of Black lives: 
+Here are some medical ‘advances’ at the cost of Black lives: <br /><br />
 
 * **[Antebellum gynecology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6727302/)**: A group of doctors dedicated four years experimenting on 14 Black enslaved women to develop a treatment for fistulas. To this day, Black women are three times as likely to die giving birth, and are often not believed by medical professionals when they complain of pain. 
 * **[The Tuskegee Study](https://www.cdc.gov/tuskegee/timeline.htm)**: In 1932, the Public Health Service, working with the Tuskegee Institute, began a study to record the natural history of syphilis. The study initially involved 600 black men – 399 with syphilis, 201 who did not have the disease. The study was conducted without the benefit of patients’ informed consent, with some being informed that they were receiving treatment when, in reality, they received no treatment at all. 
