@@ -22,7 +22,9 @@ weight: 1
 
 ---
 
-By nature, the [Presidential Innovation Fellows (PIF)](https://presidentialinnovationfellows.gov/) program is a grand experiment in newness. What happens when we take a group of industry professionals and throw them into government? As career private-sector marketing professionals, for us, there was the triple threat of being new to government, being detailed to the Federal Trade Commission (FTC), an agency that had never had Presidential Innovation Fellows before, and navigating the ever-changing digital advertising industry from a public-sector perspective. We found ourselves in uncharted waters. Four months in, we not only gained our sea legs, but also got some pretty significant wins along the way. Here are six principles that guided us through those uncharted waters and turned us into navigators of a shared journey.
+By nature, the [Presidential Innovation Fellows (PIF)](https://presidentialinnovationfellows.gov/) program is a grand experiment in newness. What happens when we take a group of industry professionals and throw them into government? As career private-sector marketing professionals, for us, there was the triple threat of being new to government, being detailed to the Federal Trade Commission (FTC), an agency that had never had Presidential Innovation Fellows before, and navigating the ever-changing digital advertising industry from a public-sector perspective. We found ourselves in uncharted waters. 
+
+Four months in, we not only gained our sea legs, but also got some pretty significant wins along the way. Here are six principles that guided us through those uncharted waters and turned us into navigators of a shared journey.
 
 {{< img src="pifs-raashee-gupta-erry-vivian-lee-zoom-6-tips" >}}
 
