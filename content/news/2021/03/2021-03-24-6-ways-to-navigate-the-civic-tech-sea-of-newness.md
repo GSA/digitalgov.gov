@@ -14,13 +14,19 @@ authors:
   - raashee-gupta-erry
   - vivian-lee
 slug: 6-ways-to-navigate-the-civic-tech-sea-of-newness
-primary_image: 10x-areas-of-focus
+primary_image: pifs-raashee-gupta-erry-vivian-lee-zoom-6-tips
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
-By nature, the [Presidential Innovation Fellows (PIF)](https://presidentialinnovationfellows.gov/) program is a grand experiment in newness. What happens when we take a group of industry professionals and throw them into government? As career private-sector marketing professionals, for us, there was the triple threat of being new to government, being detailed to the Federal Trade Commission (FTC), an agency that had never had Presidential Innovation Fellows before, and navigating the ever-changing digital advertising industry from a public-sector perspective. We found ourselves in uncharted waters. Four months in, we not only gained our sea legs, but also got some pretty significant wins along the way. Here are six principles that guided us through those uncharted waters and turned us into navigators of a shared journey. 
+
+By nature, the [Presidential Innovation Fellows (PIF)](https://presidentialinnovationfellows.gov/) program is a grand experiment in newness. What happens when we take a group of industry professionals and throw them into government? As career private-sector marketing professionals, for us, there was the triple threat of being new to government, being detailed to the Federal Trade Commission (FTC), an agency that had never had Presidential Innovation Fellows before, and navigating the ever-changing digital advertising industry from a public-sector perspective. We found ourselves in uncharted waters. 
+
+Four months in, we not only gained our sea legs, but also got some pretty significant wins along the way. Here are six principles that guided us through those uncharted waters and turned us into navigators of a shared journey.
+
+{{< img src="pifs-raashee-gupta-erry-vivian-lee-zoom-6-tips" >}}
 
 ## 1. Become best friends with your federal partners 
 
@@ -46,6 +52,8 @@ We have been persistent in making progress on our ‘wishlist’ projects and ha
 
 Coming from industry, we knew there would be an adjustment period to acclimate to the lingo, working styles, and habits of the federal government. However, working primarily with lawyers, we ran into a lot of legal terminology. At first, this was a jargon barrier. What we quickly found was that the more lawyers we talked to, the better we understood their motivations, challenges, and ways of thinking. Quickly being able to adapt to our stakeholders’ natural way of communicating and working while balancing that with our own marketing expertise allowed us to build trust more efficiently and drive impact more effectively. The easiest way to do this was to go through the thought exercise of putting ourselves in our stakeholders’ shoes. How are we currently thinking about a given problem as marketers, and how does that outlook change when we consider coming from a legal perspective? This simple mindset shift helped us to frame up our suggestions in a way that was more directly useful for our lawyer colleagues. On a day-to-day basis, we work with lawyers, technologists, economists, and policy advisors. Being intentional about learning the different styles of your stakeholders will pay dividends throughout your government experience. 
 
-Our PIF journey has been unique in many ways - our backgrounds are more business-oriented than technical, our projects don’t always have defined deliverables, the mission of our agency is long term, and the impact is hard to quantify. But our experience may benefit other ‘newbies’ in federal space as government agencies are mission-oriented, complex organizations filled with people who care deeply about their work. We found that these lessons helped us gain bigger wins while also building meaningful relationships with our colleagues. 
+---
+
+Our PIF journey has been unique in many ways - our backgrounds are more business-oriented than technical, our projects don’t always have defined deliverables, the mission of our agency is long term, and the impact is hard to quantify. But our experience may benefit other "newbies" in federal space as government agencies are mission-oriented, complex organizations filled with people who care deeply about their work. We found that these lessons helped us gain bigger wins while also building meaningful relationships with our colleagues. 
 
 *Applications for the next cohort of Presidential Innovation Fellows are open March 5 - May 14, 2021! Learn more and submit your application at [apply.pif.gov](https://apply.pif.gov/).*
