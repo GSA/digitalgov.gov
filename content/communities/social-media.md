@@ -12,6 +12,12 @@ authors:
   - gabrielle-perret
   - paul-lester
   - joseph-galbo
+  - dominique-gebru
+  - tanner-iskra
+  - sara-eckert
+  - laura-larrimore
+  - jessica-hawkins
+  - david-j-taube
 
 # see all topics at https://digital.gov/topics
 topics:
