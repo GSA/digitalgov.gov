@@ -14,7 +14,7 @@ authors:
   - joseph-galbo
   - dominique-gebru
   - tanner-iskra
-  - sara-eckert
+  - sarah-eckert
   - laura-larrimore
   - jessica-hawkins
   - david-j-taube
