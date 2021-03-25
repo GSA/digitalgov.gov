@@ -61,7 +61,7 @@ When you are presenting on streaming video, you are essentially doing the same t
 * Drop “gold nuggets” and mini calls to action throughout. Gold nuggets are small concepts with significant interest or usefulness that you can add in to your narrative.
 * Reinforce important concepts with practice exercise. Ideal—written exercises in a classroom; online, a typed exercise is ok; participatory verbal exercise is best.
 
-###  Perfect the Outro
+### Perfect the Outro
 
 * Cue that the end is near.
 * Sum it up—repeat the most important concepts again.
