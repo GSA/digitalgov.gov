@@ -1,7 +1,5 @@
 ---
 url: /services/mobile-application-testing-program/
-aliases:
-  - /communities/mobile/
 
 expirydate: "2021-03-25"
 
