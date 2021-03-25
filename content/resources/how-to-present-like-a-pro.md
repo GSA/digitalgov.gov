@@ -2,8 +2,7 @@
 date: 2021-03-25 12:09:00 -0500
 title: How to Present Like a Pro
 deck: Presenting and Instructing via Streaming Video Using TV Pros’ Techniques
-summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares
-  her tips and tricks for presenting virtually.
+summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares her tips and tricks for presenting virtually.
 # See all topics at https://digital.gov/topics
 topics:
   - cx
@@ -26,14 +25,14 @@ When you are presenting on streaming video, you are essentially doing the same t
 
 ### Techniques of TV News Anchors
 
-* Master the technology—learn everything you can about whatever platform (Zoom, Microsoft Teams) you are using. Practice as often as possible. 
+* Master the technology—learn everything you can about whatever platform (Zoom, Microsoft Teams) you are using. Practice as often as possible.
 * Smile and never stop. Be on guard against resting ugly face. Keep your facial muscles engaged; hold your eyes open.
 * Lift the camera (raise the laptop) so you must look slightly upward. Use stacks of large books, weighted cardboard boxes, or a folding wire shelf used for school lockers to lift the laptop.
-* Best posture: Keep your chin parallel, shoulders down and relaxed, and SMILE. 
-* Hands should be quiet. Don’t wave or gesture. 
+* Best posture: Keep your chin parallel, shoulders down and relaxed, and SMILE.
+* Hands should be quiet. Don’t wave or gesture.
 * Comfort is key. In virtual training, you’re sitting for an hour or more. Keep water nearby—sips only.
 * Accessories should be simple and not distracting—Don’t wear jingly earrings, attention-grabbing hair accessories, or ostentatious clothes: No plaids, overwhelming patterns, pinstripes.
-* Speak clearly and at a moderate speed (120-130 words per minute). 
+* Speak clearly and at a moderate speed (120-130 words per minute).
 * Enunciate clearly, pronounce correctly.
 * Lighting should be in front of you. Position so you are just behind and underneath ceiling lights. No lights behind your face or from strong angles.
 
@@ -41,7 +40,7 @@ When you are presenting on streaming video, you are essentially doing the same t
 
 * Golden Rule of Virtual Teaching: People have 50-minute bladders.
 * Keep the lines open during breaks to take questions from the eager or confused.
-* Always plan to end just a bit early but have a plan if you run late. Give permission to leave on time, but appeal and ask students to stay if they are able. 
+* Always plan to end just a bit early but have a plan if you run late. Give permission to leave on time, but appeal and ask students to stay if they are able.
 * Mics off for all participants. Explain how to use the spacebar feature to speak without unmuting.
 * Encourage liberal use of the chat feature. \*\*Keep it public and open to everyone unless the class is unresponsive.\*\*But no sidebars\*\*
 * Acknowledge that many people prefer to stay off camera but ask that people stay on camera if possible. Let the class know when you need to see faces; also cue them when it’s ok for them to turn off the camera.
@@ -72,7 +71,7 @@ When you are presenting on streaming video, you are essentially doing the same t
 ### Parting Gifts
 
 * Give students something useful to take with them. Adult learners are more likely to feel incomplete after a class if they do not have HANDOUTS.
-* Develop a checklist tool and give it to students as the parting gift. 
+* Develop a checklist tool and give it to students as the parting gift.
 * Avoid sharing digital files you did not create unless you have a license or rights to distribute.
 
 ### Life Hacks for Virtual Teachers
