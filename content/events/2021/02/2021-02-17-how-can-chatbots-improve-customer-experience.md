@@ -7,8 +7,8 @@ host: Web Content Managers Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/how-can-chatbots-improve-customer-experience-tickets-141976366133
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4707985&CustomerID=321
-date: 2021-02-23 14:30:00 -0500
-end_date: 2021-02-23 15:30:00 -0500
+date: 2021-03-26 14:30:00 -0500
+end_date: 2021-03-26 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - chatbots
