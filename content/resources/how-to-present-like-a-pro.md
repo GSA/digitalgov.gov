@@ -20,10 +20,12 @@ slug: how-to-present-like-a-pro
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 When you are presenting on streaming video, you are essentially doing the same thing as a television news anchor. Try these common methods that television presenters use daily to improve your presentation skills in the “zoom” era:
 
-### Techniques of TV News Anchors
+## Techniques of TV News Anchors
 
 * Master the technology—learn everything you can about whatever platform (Zoom, Microsoft Teams) you are using. Practice as often as possible.
 * Smile and never stop. Be on guard against resting ugly face. Keep your facial muscles engaged; hold your eyes open.
@@ -36,7 +38,7 @@ When you are presenting on streaming video, you are essentially doing the same t
 * Enunciate clearly, pronounce correctly.
 * Lighting should be in front of you. Position so you are just behind and underneath ceiling lights. No lights behind your face or from strong angles.
 
-### Virtual Classroom Management
+## Virtual Classroom Management
 
 * Golden Rule of Virtual Teaching: People have 50-minute bladders.
 * Keep the lines open during breaks to take questions from the eager or confused.
@@ -45,14 +47,14 @@ When you are presenting on streaming video, you are essentially doing the same t
 * Encourage liberal use of the chat feature. \*\*Keep it public and open to everyone unless the class is unresponsive.\*\*But no sidebars\*\*
 * Acknowledge that many people prefer to stay off camera but ask that people stay on camera if possible. Let the class know when you need to see faces; also cue them when it’s ok for them to turn off the camera.
 
-### Planting Seeds & Engaging Students
+## Planting Seeds & Engaging Students
 
 * Engage students’ attention quickly. Virtual training makes it easier for students to decline to actively participate in discussions or exercises. You may have to become the wizard behind the curtain to create the illusion that students are engaged and participating to prompt students to participate.
 * As soon as all the administrative info is out of the way, begin by presenting a question, mystery, problem, or outrageous example.
 * Funny also counts—but use humor with care. Even seemingly innocent jokes can deeply offend or hurt. Stick to “we’re all in this together”-type humor that most people will identify with because they have experienced something similar.
 * Ask students to verbally respond to the question or mystery or give an explanation of why/what makes your example a problem or outrageous.
 
-### How to Deliver Sticky Material
+## How to Deliver Sticky Material
 
 * Research shows all humans need repetition to learn and record a new concept, but adult humans need more repetition than children or teenagers.
 * Some research shows adults must receive a message seven times before it sticks; other research says at least three.
@@ -61,20 +63,20 @@ When you are presenting on streaming video, you are essentially doing the same t
 * Drop “gold nuggets” and mini calls to action throughout. Gold nuggets are small concepts with significant interest or usefulness that you can add in to your narrative.
 * Reinforce important concepts with practice exercise. Ideal—written exercises in a classroom; online, a typed exercise is ok; participatory verbal exercise is best.
 
-### Perfect the Outro
+## Perfect the Outro
 
 * Cue that the end is near.
 * Sum it up—repeat the most important concepts again.
 * Repeat the mini calls to action you’ve made throughout and give the class a significant action to take immediately after the class. Ask them to decide what actions they will take and how.
 * Answer any remaining questions or open forum for questions.
 
-### Parting Gifts
+## Parting Gifts
 
 * Give students something useful to take with them. Adult learners are more likely to feel incomplete after a class if they do not have HANDOUTS.
 * Develop a checklist tool and give it to students as the parting gift.
 * Avoid sharing digital files you did not create unless you have a license or rights to distribute.
 
-### Life Hacks for Virtual Teachers
+## Life Hacks for Virtual Teachers
 
 * Practice out loud at least three times before you teach the class. Your ear or the ears of your helpers will quickly spot problems.
 * Have a bottle of water and a mint or gum handy. No chugging! Small, discreet sips only.
@@ -84,7 +86,7 @@ When you are presenting on streaming video, you are essentially doing the same t
 
 - - -
 
-### Related links/resources
+## Related links/resources
 
 You may have the “zoomies,” the feeling that you will never be able to do this well. Don’t despair…you can become a deft and talented expert using video streaming technologies. Most of them work basically the same way. Real skill comes from learning where additional features are located in different areas of the interface, speed of finding and activating features, etc.— and that happens only with practice.
 
