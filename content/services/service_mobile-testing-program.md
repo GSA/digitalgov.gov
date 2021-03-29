@@ -34,7 +34,6 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - jparcell
-  - david-fern
 
 ---
 
