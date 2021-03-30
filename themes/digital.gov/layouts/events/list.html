@@ -30,20 +30,20 @@
     <div class="grid-container grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-3">
         <div class="grid-col-12">
-          {{ range .Data.Pages.Reverse }}
+          {{ range where .Data.Pages.Reverse ".Date.Unix" ">=" now.Unix }}
           {{ $now := now.Format "2006-01-02" }}
           {{ $start := .Date.Format "2006-01-02"  }}
 
           {{ if .Params.End_date }}
             {{ $end := dateFormat "2006-01-02" .Params.End_date }}
             {{ if or (ge $start $now) (ge $end $now)}}
-              {{ if .Params.registration_url }}
+            {{ if .Params.registration_url }}
                 {{ .Render "card-event"}}
               {{ end }}
             {{ end }}
 
             {{ else if ge $start $now }}
-              {{ if .Params.registration_url }}
+               {{ if .Params.registration_url }}
                 {{ .Render "card-event"}}
               {{ end }}
             {{ end }}

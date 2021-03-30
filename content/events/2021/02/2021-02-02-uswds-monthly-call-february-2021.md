@@ -8,8 +8,8 @@ host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/139508891851
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4706276&CustomerID=321
-date: 2021-02-18 14:30:00 -0500
-end_date: 2021-02-18 15:30:00 -0500
+date: 2021-03-30 14:30:00 -0500
+end_date: 2021-03-30 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
