@@ -46,7 +46,7 @@ Graphics that contain certain types of optical illusions can also have the same 
 
 If you have a media item that contains this type of flashing, strobing, or optical illusions, do not post it. If you find that you're overruled and must post this media, include a warning in your content, and do not automatically play the media or show the graphic when your page loads—allow your users to start and stop the media or click to access the graphic if they want to view it.
 
-For in-depth information on video accessibility, see DigitalGov.gov's article: [Create Section 508-Compliant Videos on Your Government Websites](https://digital.gov/2013/11/21/create-section-508-compliant-videos-on-your-government-websites-2/).
+For in-depth information on video accessibility, see DigitalGov.gov's article: [Create Section 508-Compliant Videos on Your Government Websites](https://digital.gov/2013/11/21/create-section-508-compliant-videos-on-your-government-websites/).
 
 ### Software to play videos, audio, and multimedia:
 
