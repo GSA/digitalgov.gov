@@ -5,12 +5,12 @@ source: 18f
 date: 2021-04-01 16:30:00 -0500
 kicker: Strategy
 title: Building a User-Centered Data Strategy
-deck: "**Building a User-Centered Data Strategy**mdash;Developing a data
+deck: "**Building a User-Centered Data Strategy**&mdash;Developing a data
   strategy is challenging, but 18F can help agencies with the process of
   creating an effective one. Our principles of user-centered design, agile, and
   iterative delivery can increase an agency's chance for success in using data
   more effectively."
-summary: "**Building a User-Centered Data Strategy**mdash;Developing a data
+summary: "**Building a User-Centered Data Strategy**&mdash;Developing a data
   strategy is challenging, but 18F can help agencies with the process of
   creating an effective one. Our principles of user-centered design, agile, and
   iterative delivery can increase an agency's chance for success in using data
