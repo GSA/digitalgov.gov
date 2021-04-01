@@ -20,9 +20,11 @@ authors:
 slug: tag-managers-part-2-configuration-framework
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: 
+youtube_id: GOdPWl0gUqo
 
 ---
+
+[View the accessible slides](https://digital.gov/pdf/dap-tag-managers-part-2-march-2021.pdf) (PDF, 1.37 MB, 59 pages)
 
 During part 2 of the Tag Managers series, we'll talk about how to think about configuring Google Tag Manager to track interactions on your website, to empower your team to report on website goals and key performance indicators (KPIs). 
 
