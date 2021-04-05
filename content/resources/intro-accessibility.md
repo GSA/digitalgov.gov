@@ -186,8 +186,7 @@ If you are able to test screen readers with multiple browsers, the following is 
 - [18F Accessibility Guide](https://accessibility.18f.gov/?=dg) — A resource for developing accessible products.
 - [U.S. Web Design System](https://designsystem.digital.gov/) — Our design system for the federal government was built with accessibility first.
 - [Eight Principles of Mobile-Friendliness: Accessibility](https://digital.gov/resources/mobile/principles/accessibility/) — Created by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to highlight ways we can ensure that our mobile products also meet accessibility standards.
-- [Accessibility Literacy](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) — A DigitalGov playlist on YouTube
-- [Accessibility How-to](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH01BSXgJZv6uoCDJMyVvuT) — A second DigitalGov playlist on YouTube
+- [Accessibility](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) — A DigitalGov playlist on YouTube (accessibility literacy, and how-to videos)
 - [WCAG 2.0](https://www.w3.org/TR/WCAG20/) — This outlines the principles, guidelines, testable success criteria, and techniques needed to optimize content.
 - [W3C’s WCAG quick reference guide](https://www.w3.org/WAI/WCAG21/quickref/) — A compliance checklist; it will help you satisfy your Section 508 obligations. Be sure to review the white “Understanding” button given in each criteria section for more in-depth information. Remember: the success criteria are just the baseline. We are encouraged to surpass the values specified; not see them as a ceiling to build to.
 - [W3C’s Web Accessibility Initiative (WAI) perspective videos](https://www.w3.org/WAI/perspective-videos/) — A variety of short videos that give examples of different kinds of disabilities.
