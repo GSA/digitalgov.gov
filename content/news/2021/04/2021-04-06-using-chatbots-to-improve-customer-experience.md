@@ -85,7 +85,7 @@ Burl shared that one of her lessons learned was that “just because nobody else
 
 Her advice to teams getting started is to define the problem they are trying to solve and make sure they can show a return on investment, however they define that ROI. Staying focused helps navigate the many options and vendors available to design and develop chatbots.
 
-In addition, Jenkins encourages teams to think early about metrics and how they measure success, as well as if they want to launch a chatbot in other languages, making them [multilingual](https://digital.gov/topics/multilingual/). Taking into account whether you have content and resources to create different versions, and the ability to sustain them, is also important. 
+In addition, Jelks encourages teams to think early about metrics and how they measure success, as well as if they want to launch a chatbot in other languages, making them [multilingual](https://digital.gov/topics/multilingual/). Taking into account whether you have content and resources to create different versions, and the ability to sustain them, is also important. 
 
 ## Content is (still) king
 
