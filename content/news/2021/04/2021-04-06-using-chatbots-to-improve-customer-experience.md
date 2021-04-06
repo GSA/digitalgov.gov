@@ -45,7 +45,7 @@ The USA.gov team built the chatbot internally, [using human-centered design and 
 
 In the case of Transportation Security Administration (TSA), the team managing [AskTSA on Twitter](https://twitter.com/asktsa) and [AskTSA on Facebook](https://www.facebook.com/AskTSA) needed a faster way to answer questions from people on their way to board a plane. The team’s goal is to be able to respond to the traveling public with travel-related questions and ease the burden of the checkpoint. 
 
-TSA social media manager Janice Burl said that to prepare for AI use, her team broke down the questions they received to see what was redundant versus what was more complex and needed a person to answer. They noticed that questions about prohibited and permitted items on an airplane were easy and thus prime candidates for automation.
+TSA social media manager Janis Burl said that to prepare for AI use, her team broke down the questions they received to see what was redundant versus what was more complex and needed a person to answer. They noticed that questions about prohibited and permitted items on an airplane were easy and thus prime candidates for automation.
 
 The bot has dramatically reduced answering time and increased customer satisfaction score.
 
