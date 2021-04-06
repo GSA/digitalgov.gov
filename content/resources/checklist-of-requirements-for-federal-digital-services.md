@@ -197,7 +197,7 @@ Implement security and management controls to prevent the inappropriate disclosu
 * [M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) (PDF, 1 MB, 13 pages, May 2019)
 * [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22) (September 2003)
 * [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
-* [Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm)
+* [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
 
 ## Prohibition on Advertising
 
