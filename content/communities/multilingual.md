@@ -30,7 +30,7 @@ community_list:
     type: government
     subscribe_email: "FMWC-subscribe-request@listserv.gsa.gov"
     terms: "Anyone with a .gov or .mil email address is eligible to join."
-    members: 389
+    members: 410
 ---
 
 We work to support [Executive Order 13166](https://digital.gov/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/#:~:text=All%20Resources-,Improving%20Access%20to%20Services%20for,Limited%20English%20Proficiency%20(EO%2013166)&text=The%20Executive%20Order%20also%20requires,their%20LEP%20applicants%20and%20beneficiaries.), “Improving Access to Services for People with Limited English Proficiency” (PDF, 255 KB, 6 pages, August 2000). Our primary purpose is to meet the growing demand for government information and services in other languages and to share ideas, challenges and best practices for managing multilingual content and websites.
