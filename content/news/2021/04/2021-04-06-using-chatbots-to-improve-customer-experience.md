@@ -3,9 +3,8 @@ date: 2021-04-07 20:33:00 -0500
 kicker: Artificial Intelligence
 title: Using Chatbots To Improve Customer Experience
 deck: Lessons learned from three case studies
-summary: Three federal teams showcase their success using chatbots to improve
-  customer satisfaction, increase availability, and empower their users to
-  accomplish tasks faster.
+summary: Three federal teams showcase their success using chatbots to improve customer satisfaction, increase availability, and empower their users to accomplish tasks faster.
+
 # See all topics at https://digital.gov/topics
 topics:
   - chatbots
@@ -14,16 +13,22 @@ topics:
   - social-media
   - cx
   - customer-satisfaction
+
 # See all authors at https://digital.gov/authors
 authors:
   - ruxi-giura
+
 slug: using-chatbots-to-improve-customer-experience
+
 primary_image: chatbot-concept-wutwhanfoto-istock-thinkstock-649188276
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Better customer experience, faster response time, and longer availability are some of the many benefits of leveraging automation and artificial intelligence (AI). As more federal teams consider the use of chatbots to improve access for millions of people needing government services, here are some tips and lessons learned from three different case studies.
 
 ## How to get started
