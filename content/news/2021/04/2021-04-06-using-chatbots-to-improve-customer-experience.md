@@ -55,15 +55,15 @@ The bot has dramatically reduced answering time and increased customer satisfact
 
 Unlike the USA.gov team, the AskTSA team purchased an off-the-shelf chatbot solution. Such an approach can allow a team to get off the ground faster. Some important requirements to consider when deciding on a chatbot solution are if the chatbot collects any personally identifiable information (PII), if it integrates with other federal systems, whether it needs a [FedRAMP authorization](https://www.fedramp.gov/program-basics/) or it might require an Authority to Operate (ATO). Engaging with your agency’s privacy officer and CIO early in the process can help make the decision process smoother. 
 
-When the team at the [Federal Student Aid started designing Aidan](https://digital.gov/2020/12/07/federal-student-aids-new-virtual-assistant-offers-model-for-improved-customer-service-in-government/), their virtual assistant, they decided that providing information about a customer’s account – such as a loan balance – was very important for success. This required integration with their existing customer relationship management (CRM) system, so their chatbot solution had to be compliant with cybersecurity and privacy regulations. 
+When the team at the [Federal Student Aid (FSA) started designing Aidan](https://digital.gov/2020/12/07/federal-student-aids-new-virtual-assistant-offers-model-for-improved-customer-service-in-government/), their virtual assistant, they decided that providing information about a customer's account – such as a loan balance – was very important for success. This required integration with their existing legacy system, so their chatbot solution had to be compliant with FSA’s cybersecurity and privacy regulations. 
 
-Abraham Marinez, director of product design at the Federal Student Aid, said that when they started the project, there were no FedRAMP-authorized chatbot solutions available, so they chose an open-source chatbot. They installed the chatbot in the FedRAMPed environment, built it, and trained it. Aidan is currently available for authenticated users only.
+Abraham Marinez, director of the Product Design Group at FSA, said that when they started the project, there were no FedRAMP-authorized chatbot solutions available. So, the team reviewed their options and chose an open-source conversational AI platform. They installed the platform in the FSA FedRAMPed environment, built it, and trained it. [Aidan](https://www.studentaid.gov/h/aidan) is currently available for authenticated users only, and in the near future, Aidan will be available to all unauthenticated users on [StudentAid.gov](https://www.studentaid.gov/).
 
 ## Test and retest
 
 Conducting user research and usability testing before launching the chatbot has been crucial for the teams’ success. 
 
-You might have all the data in your operational reports, but you can learn a lot from the qualitative data you get by observing somebody using your product, Marinez said. His team conducts usability testing every time they launch a new feature. They conduct testing on both desktop and mobile, and have been able to conduct it while most people are working remotely.
+You might have all the data in your operational reports, but you can learn a lot from the qualitative data you get by observing somebody using your product, Marinez said. His team conducts frequent usability testing on Aidan to learn how to improve the product. They conduct testing on both desktop and mobile, and have been able to conduct it while most people are working remotely.
 
 In addition to usability testing, the teams also recommend listening to your customers to see if they report issues—whether via contact centers, on social media or other channels—to be able to fix any issues in a timely manner.
 
@@ -79,9 +79,9 @@ Getting started with AI may seem daunting at first, but that shouldn’t be a de
 
 Marinez said one of the key things is to dare to experiment.
 
-“There is no such thing as failure. It is working and you're getting data to help improve the customer experience. Be perseverant and have that mindset of experimentation. It is not about failing, it's all about experimentation,” he said.
+"There is no such thing as failure. It is working and getting data to help improve the customer experience. Be perseverant and have that mindset of experimentation. It is not about failing, it’s all about experimentation," he said.
 
-Burl shared that one of her lessons learned was that “just because nobody else has it doesn't mean you can't do it.” 
+Burl shared that one of her lessons learned was that "just because nobody else has it doesn't mean you can't do it."
 
 Her advice to teams getting started is to define the problem they are trying to solve and make sure they can show a return on investment, however they define that ROI. Staying focused helps navigate the many options and vendors available to design and develop chatbots.
 
