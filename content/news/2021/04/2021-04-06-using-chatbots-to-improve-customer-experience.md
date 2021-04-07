@@ -19,7 +19,7 @@ authors:
 
 slug: using-chatbots-to-improve-customer-experience
 
-primary_image: chatbot-concept-wutwhanfoto-istock-thinkstock-649188276
+primary_image: fsa-aidan-virtual-assistant-desktop-mobile-examples
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -42,6 +42,8 @@ Tapping into already available technology can provide an easy way to get started
 
 The USA.gov team built the chatbot internally, [using human-centered design and already available technology](https://resources.data.gov/resources/fdspp-usagov-ai-chatbot/). Marietta Jelks, USA.gov research lead, suggests that one way to start is to ask: “Do you have somebody on your team comfortable with or able to create the logic — if this, then that — on all the different response paths who can understand what the words and language will be to go with that?”
 
+{{< img-right src="tsa-twitter-asktsa-icon" >}}
+
 In the case of Transportation Security Administration (TSA), the team managing [AskTSA on Twitter](https://twitter.com/asktsa) and [AskTSA on Facebook](https://www.facebook.com/AskTSA) needed a faster way to answer questions from people on their way to board a plane. The team’s goal is to be able to respond to the traveling public with travel-related questions and ease the burden of the checkpoint. 
 
 TSA social media manager Janis Burl said that to prepare for AI use, her team broke down the questions they received to see what was redundant versus what was more complex and needed a person to answer. They noticed that questions about prohibited and permitted items on an airplane were easy and thus prime candidates for automation.
@@ -53,6 +55,8 @@ The bot has dramatically reduced answering time and increased customer satisfact
 ## Integration and technology
 
 Unlike the USA.gov team, the AskTSA team purchased an off-the-shelf chatbot solution. Such an approach can allow a team to get off the ground faster. Some important requirements to consider when deciding on a chatbot solution are if the chatbot collects any personally identifiable information (PII), if it integrates with other federal systems, whether it needs a [FedRAMP authorization](https://www.fedramp.gov/program-basics/) or it might require an Authority to Operate (ATO). Engaging with your agency’s privacy officer and CIO early in the process can help make the decision process smoother. 
+
+{{< img-right src="fsa-aidan-owl-icon" >}}
 
 When the team at the [Federal Student Aid (FSA) started designing Aidan](https://digital.gov/2020/12/07/federal-student-aids-new-virtual-assistant-offers-model-for-improved-customer-service-in-government/), their virtual assistant, they decided that providing information about a customer's account – such as a loan balance – was very important for success. This required integration with their existing legacy system, so their chatbot solution had to be compliant with FSA’s cybersecurity and privacy regulations. 
 
