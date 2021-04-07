@@ -2,7 +2,6 @@
 date: 2021-04-07 20:33:00 -0500
 kicker: Artificial Intelligence
 title: Using Chatbots To Improve Customer Experience
-deck: "Lessons learned from three case studies"
 summary: "Three federal teams showcase their success using chatbots to improve customer satisfaction, increase availability, and empower their users to accomplish tasks faster."
 
 # See all topics at https://digital.gov/topics
@@ -35,7 +34,7 @@ Better customer experience, faster response time, and longer availability are so
 
 One of the greatest advantages of AI is that it facilitates decision-making by making the process faster and smarter. Chatbots can perform the same task 24/7 without getting bored or tired, and the outcome is relatively consistent. Therefore, answering basic frequently asked questions about a topic or a service usually can be a good first process to automate.  
 
-{{embed inline video from chatbot event - <https://www.youtube.com/watch?v=U0Rk0euqKWw> }}
+{{< youtube U0Rk0euqKWw >}}
 
 A team in the Technology Transformation Services (TTS) at the U.S. General Services Administration (GSA) was charged with improving the USA.gov content for users who look for information on scams. After talking to the users who engaged with the site through various channels, the team realized that [breaking into AI with a chatbot](https://blog.usa.gov/breaking-into-artificial-intelligence-meet-sam-the-chatbot) by using a question-answer format would be a good solution. This type of approach has a more straight-forward setup than one involving processing free-form text entered by users.
 
