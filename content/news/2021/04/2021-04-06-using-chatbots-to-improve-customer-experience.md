@@ -72,6 +72,8 @@ In addition to usability testing, the teams also recommend listening to your cus
 
 ## Should you name your bot?
 
+{{< img-right src="fsa-aidan-mobile" >}}
+
 The Federal Student Aid team created the Aidan persona after talking with their customers. They had multiple name choices but Aidan resonates with “aid,” and it was also a name that wasn’t trademarked. It is important to trademark the name and icon or other branding you may use to avoid potential future litigation.
 
 Regardless of whether or not you name your chatbot, it is best to be upfront with your users that they are interacting with a bot and not a person; even unnamed bots can have such a friendly personality that they are mistaken as human beings, guiding users through the steps they need to find an answer.
