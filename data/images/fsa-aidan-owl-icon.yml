@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/fsa-aidan-owl-icon.png
+
+# Image shortcode: {{< img src="fsa-aidan-owl-icon" >}}
+
+date     : 2021-04-07 17:18:00 -0400
+uid      : fsa-aidan-owl-icon
+width    : 500
+height   : 500
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
