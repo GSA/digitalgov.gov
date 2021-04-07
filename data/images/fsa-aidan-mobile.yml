@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/fsa-aidan-mobile.png
+
+# Image shortcode: {{< img src="fsa-aidan-mobile" >}}
+
+date     : 2021-04-07 18:38:22 -0400
+uid      : fsa-aidan-mobile
+width    : 628
+height   : 1268
+format   : png
+credit   : ""
+caption  : ""
+alt      : "The AIDAN chatbot interacts with a user through a series of messages on a mobile phone." 
