@@ -499,6 +499,28 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 - (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
 {{< / card-policy >}}
 
+## Security
+Agencies must have a way for the public to report potential security vulnerabilities, and explain how the agency will respond to such reports.
+
+- Ensure your site's Security Contact and Organization are current in the [.gov registrar](https://domains.dotgov.gov/)
+- Publish a vulnerability disclosure policy at [agency].gov/vulnerability-disclosure-policy
+
+Suggested link text:
+
+- Vulnerability Disclosure Policy
+
+Required on:
+
+- Your website policies page
+
+Required by:
+
+- Department of Homeland Security (DHS) Binding Operational Directive 20-01
+
+POLICY
+[DHS Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01/#required-actions)
+
+
 ---
 
 _These requirements apply to executive branch departments and agencies and their public websites. Check the specific law or policy to see if it also applies to the judicial or legislative agencies, or intranets._
