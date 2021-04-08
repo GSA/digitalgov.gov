@@ -3,6 +3,7 @@ date: 2021-04-07 20:33:00 -0500
 kicker: Artificial Intelligence
 title: Using Chatbots To Improve Customer Experience
 summary: "Three federal teams showcase their success using chatbots to improve customer satisfaction, increase availability, and empower their users to accomplish tasks faster."
+deck: "Lessons learned from three case studies"
 
 # See all topics at https://digital.gov/topics
 topics:
