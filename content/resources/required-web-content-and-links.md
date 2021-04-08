@@ -517,8 +517,7 @@ Required by:
 
 - Department of Homeland Security (DHS) Binding Operational Directive 20-01
 
-POLICY
-[DHS Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01/#required-actions)
+POLICY: [DHS Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01/#required-actions)
 
 
 ---
