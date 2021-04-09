@@ -54,7 +54,7 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 #### U.S. Small Business Administration (SBA), Office of Communications and Public Liaison (OCPL)
 
-[Bilingual (English and Spanish) Glossary of Terms](https://digital.gov/pdf/SBA-Spanish-Glossary-January-22-2021-508-Final.pdf) (PDF, 177 kb, 14 pages)
+[Bilingual (English and Spanish) Glossary of Terms](https://www.sba.gov/document/support-sba-spanish-english-glossary)
 
 #### Social Security Administration (SSA)
 
