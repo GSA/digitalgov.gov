@@ -18,6 +18,7 @@ authors:
   - laura-larrimore
   - jessica-hawkins
   - david-j-taube
+  - author-gallow
 
 # see all topics at https://digital.gov/topics
 topics:
