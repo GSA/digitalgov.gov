@@ -5,7 +5,7 @@
 slug: social-media
 date: 2019-12-12 19:00:00 -0500
 title: "Social Media"
-summary: "SocialGov is the government social media community of practice."
+summary: "SocialGov is the government social media and new digital media community of practice."
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -18,6 +18,7 @@ authors:
   - laura-larrimore
   - jessica-hawkins
   - david-j-taube
+  - author-gallow
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -42,7 +43,7 @@ The SocialGov Community of Practice (CoP) was launched in June 2012 to research,
 
 ## What We Do
 
-SocialGov hosts educational and networking events, and provides free resources to government employees with the goal of improving social media outreach efforts at every level of government. Social media managers face many of the same challenges – join SocialGov to connect with others _who get it_.
+SocialGov hosts educational and networking events, and provides free resources to government employees with the goal of improving social media and new digital media outreach efforts at every level of government. Social media managers face many of the same challenges – join SocialGov to connect with others _who get it_.
 
 ## Who We Are
 
