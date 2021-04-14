@@ -107,7 +107,7 @@ Publish customer service standards and train all employees so they understand th
     * Develop a “New Employees” section on your intranet to help new hires easily find critical information
 * Share customer service expectations and stories on your intranet
     * [Sample intranet content](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-USCIS-sample-intranet-content.pptx) (PowerPoint, 688 kb) &#8211; DHS/USCIS
-* Encourage employees to join the [CX Community of Practice]({{< ref "customer-experience-community.md" >}})
+* Encourage employees to join the [CX Community of Practice]({{< ref "customer-experience.md" >}})
 * [Celebrate Customer Service Week]({{< ref "2015-09-11-how-will-you-celebrate-customer-service-week.md" >}})
 * Learn from the private sector
     * [How the Nationals’ Customer Experience Principles Can Be a Home Run for Agencies]({{< ref "2015-07-22-how-the-nationals-customer-experience-principles-can-be-a-home-run-for-agencies.md" >}})
@@ -284,7 +284,7 @@ Collaborate internally, and with other agencies and stakeholders, to improve the
 ### Work together
 
 * Work with your CCO and others across your agency
-* Join the [CX-COP community]({{< ref "customer-experience-community.md" >}})
+* Join the [CX-COP community]({{< ref "customer-experience.md" >}})
 * Consider joining [other communities of practice]({{< ref "/communities" >}})
 * Coordinate service delivery where agency missions intersect
 * [Develop in the open](https://github.com/18f)
