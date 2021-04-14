@@ -1,8 +1,10 @@
 ---
 date: 2021-03-25 12:09:00 -0500
+kicker: Audio / Visual
 title: How to Present Like a Pro
 deck: Presenting and Instructing via Streaming Video Using TV Pros’ Techniques
 summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares her tips and tricks for presenting virtually.
+
 # See all topics at https://digital.gov/topics
 topics:
   - cx
@@ -10,11 +12,14 @@ topics:
   - audio-video
   - professional-development
   - video
+
 # See all authors at https://digital.gov/authors
 authors:
   - wendy-wagner-smith
   - katherine-spivey
+
 slug: how-to-present-like-a-pro
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
