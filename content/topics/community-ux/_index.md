@@ -1,10 +1,19 @@
 ---
-title: community-ux
-summary: User experience community of practice
-# Controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-# 2 -- featured on the Resource page
+# This topic lives at
+# https://digital.gov/topics/community-ux
+
+slug: "community-ux"
+
+# Topic Title
+title: "community-ux"
+
+# description — keep it short and clear
+summary: "User experience community of practice"
+
+
+# Weight
 weight: 0
-slug: community-ux
+
+# For more information on managing topics,
+# see https://github.com/GSA/digitalgov.gov/wiki
 ---
