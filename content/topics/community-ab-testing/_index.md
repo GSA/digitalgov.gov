@@ -1,10 +1,19 @@
 ---
-title: community-ab-testing
-summary: A/B testing community of practice
-# Controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-# 2 -- featured on the Resource page
+# This topic lives at
+# https://digital.gov/topics/community-ab-testing
+
+slug: "community-ab-testing"
+
+# Topic Title
+title: "community-ab-testing"
+
+# description — keep it short and clear
+summary: "A/B testing community of practice"
+
+
+# Weight
 weight: 0
-slug: community-ab-testing
+
+# For more information on managing topics,
+# see https://github.com/GSA/digitalgov.gov/wiki
 ---
