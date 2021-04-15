@@ -31,13 +31,13 @@ Note that these instructions reference a sample Listserv called _TESTLIST@listse
 ## Rules and Guidelines for Online Discussions
 
 - Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies.
-- Understand your agency’s policy about using all government equipment.
+- Understand your agency's policy about using all government equipment.
 - Behave online in such a way that you do not bring your agency into disrepute, even if you are not officially representing your agency.
+- Keep the conversation relevant and abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/). Respect your peers. Any derogatory comments on race, disability, sexuality, and more will not be tolerated. No inappropriate language or personal attacks.
 - Do not participate in commercial communications or endorsements. No commercial communications or endorsements are permitted.
 - Check your current agency policies on managing records. Find more information on the [National Archives Records Management Information Page](https://www.archives.gov/records-mgmt).
 - Abide by U.S. copyright laws when referencing or using others' content in any materials.
 - Follow the [Paperwork Reduction Act (PRA) Guide](https://www.opm.gov/about-us/open-government/digital-government-strategy/fitara/paperwork-reduction-act-guide.pdf) before sending out a survey or other requests for feedback, especially if your community includes members of the public (non-government).
-- Respect your peers: Any derogatory comments on race, disability, sexuality, [and more](https://handbook.tts.gsa.gov/code-of-conduct/) will not be tolerated. No inappropriate language or personal attacks.
 - Use plain language: If you are unfamiliar with plain language, think about [joining the community](https://digital.gov/communities/plain-language/), [attending one of our Plain Language CoP meetings](https://digital.gov/events/), or [check out our resources](https://digital.gov/topics/plain-language/). You can also visit [PlainLanguage.gov](https://www.plainlanguage.gov/) where you can learn about the Plain Writing Act of 2010 requirements. Please use correct spelling and grammar so that all can participate.
 - Grammar and fonts: Please spell-check your messages. Use correct spelling (use the word _you_, not the letter _u_, and the word _are_, not the letter _r_). Please use 12-point, black text in an easy to read font&mdash;such as [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman) or [Helvetica](https://en.wikipedia.org/wiki/Helvetica).
 - Please be patient: Digital.gov CoP members have different experience levels. You may consider some of the conversation threads on a particular topic simple, but they are fundamental for people to learn.
