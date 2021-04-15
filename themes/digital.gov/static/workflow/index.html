@@ -9,13 +9,9 @@
   </head>
   <body>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-    <script src="https://unpkg.com/netlify-cms-widget-async-select@1.3.4"></script>
     <script type="module">
       import editorComponents from "./js/editorComponents/index.js";
       import { slugify } from "./js/helpers.js";
-
-      // Register custom widgets
-      CMS.registerWidget("async-select", window.AsyncSelectControl);
 
       // Register custom Hugo shortcodes
       editorComponents.forEach(component =>
