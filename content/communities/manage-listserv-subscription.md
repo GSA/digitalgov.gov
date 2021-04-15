@@ -33,7 +33,7 @@ Note that these instructions reference a sample Listserv called _TESTLIST@listse
 - Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies.
 - Understand your agency's policy about using all government equipment.
 - Behave online in such a way that you do not bring your agency into disrepute, even if you are not officially representing your agency.
-- Keep the conversation relevant and abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/). Respect your peers. Any derogatory comments on race, disability, sexuality, and more will not be tolerated. No inappropriate language or personal attacks. 
+- Keep the conversation relevant and abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/). Respect your peers. Any derogatory comments on race, disability, sexuality, and more will not be tolerated. No inappropriate language or personal attacks.
 - Do not participate in commercial communications or endorsements. No commercial communications or endorsements are permitted.
 - Check your current agency policies on managing records. Find more information on the [National Archives Records Management Information Page](https://www.archives.gov/records-mgmt).
 - Abide by U.S. copyright laws when referencing or using others' content in any materials.
