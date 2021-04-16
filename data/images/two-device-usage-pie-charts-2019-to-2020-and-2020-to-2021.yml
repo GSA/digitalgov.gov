@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/two-device-usage-pie-charts-2019-to-2020-and-2020-to-2021.png
+
+# Image shortcode: {{< img src="two-device-usage-pie-charts-2019-to-2020-and-2020-to-2021" >}}
+
+date     : 2021-04-16 17:14:45 -0400
+uid      : two-device-usage-pie-charts-2019-to-2020-and-2020-to-2021
+width    : 1050
+height   : 450
+format   : png
+credit   : ""
+caption  : ""
+alt      : "Two pie charts compare visits to DAP sites by types of devices. The left pie chart shows device percentages for the year prior to COVID-19. From March 12, 2019 to March 10, 2020, traffic from desktop users (green) was 48.9%, while mobile users (blue) were only 46.9% (with the remaining 4.2% of traffic, seen in red, was from tablet users. The pie chart on the right covers the year since the pandemic and depicts an increase in mobile share in the more recent year; March 11, 2020 to March 10, 2021. For this time period, mobile traffic (in blue) increased to 54.6% while desktop traffic (green) dropped to 42.8%; the remaining 2.6% was from tablet users (in red)."

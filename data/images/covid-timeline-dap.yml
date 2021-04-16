@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/covid-timeline-dap.png
+
+# Image shortcode: {{< img src="covid-timeline-dap" >}}
+
+date     : 2021-04-16 17:14:45 -0400
+uid      : covid-timeline-dap
+width    : 2244
+height   : 450
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A line chart of overall traffic to DAP-participating websites compares the time period of March 11, 2020 to March 10, 2021 (in blue), and that of March 12, 2019 to March 10, 2020 (in orange). It shows much more traffic in the recent year, and three spikes related to Economic Impact Payments."

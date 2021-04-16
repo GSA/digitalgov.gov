@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/cdc-site-visits.png
+
+# Image shortcode: {{< img src="cdc-site-visits" >}}
+
+date     : 2021-04-16 17:14:45 -0400
+uid      : cdc-site-visits
+width    : 2238
+height   : 462
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A line chart compares visits to CDC websites from March 11, 2020 to March 10, 2021 in blue, to the previous year, March 12, 2019 to March 10, 2020, in orange. The blue line shows much more traffic in the recent year." 

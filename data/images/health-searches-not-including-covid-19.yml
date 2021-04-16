@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/health-searches-not-including-covid-19.png
+
+# Image shortcode: {{< img src="health-searches-not-including-covid-19" >}}
+
+date     : 2021-04-16 17:14:45 -0400
+uid      : health-searches-not-including-covid-19
+width    : 1296
+height   : 500
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A bar chart, titled Health Searches, Not Including COVID-19 Topics. It shows a comparison of search traffic related to health topics on Search.gov-participating websites. The first blue bar shows that during the time period of March 2019 to February 2020, Search.gov received about 5.4 million searches about health. The second blue bar is taller and shows that during March 2020 to February 2021, Search.gov received about 7.3 million searches about health. These searches did not include topics related to COVID-19."
