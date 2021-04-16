@@ -12,7 +12,7 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  use_graphql: true
+  use_graphql: false
   branch: main
   open_authoring: true
   squash_merges: true
@@ -228,11 +228,11 @@ collections:
         hint: "1-sentence description that does not repeat the headline"
       - label: "Topics"
         name: "topics"
-        widget: "async-select"
-        url: "https://digital.gov/topics/v1/json/"
-        valueField: "slug"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
         displayField: "title"
-        dataKey: "items"
+        search_fields: ["slug", "title"]
         multiple: true
         hint: "See all topics at https://digital.gov/topics"
         comment: "See all topics at https://digital.gov/topics"
@@ -412,11 +412,11 @@ collections:
         hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
       - label: "Topics"
         name: "topics"
-        widget: "async-select"
-        url: "https://digital.gov/topics/v1/json/"
-        valueField: "slug"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
         displayField: "title"
-        dataKey: "items"
+        search_fields: ["slug", "title"]
         multiple: true
         hint: "See all topics at https://digital.gov/topics"
         comment: "See all topics at https://digital.gov/topics"
@@ -527,11 +527,11 @@ collections:
         hint: "1-sentence description that does not repeat the headline"
       - label: "Topics"
         name: "topics"
-        widget: "async-select"
-        url: "https://digital.gov/topics/v1/json/"
-        valueField: "slug"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
         displayField: "title"
-        dataKey: "items"
+        search_fields: ["slug", "title"]
         multiple: true
         hint: "See all topics at https://digital.gov/topics"
         comment: "See all topics at https://digital.gov/topics"
@@ -630,11 +630,11 @@ collections:
         hint: "1-sentence description that does not repeat the headline"
       - label: "Topics"
         name: "topics"
-        widget: "async-select"
-        url: "https://digital.gov/topics/v1/json/"
-        valueField: "slug"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
         displayField: "title"
-        dataKey: "items"
+        search_fields: ["slug", "title"]
         multiple: true
         hint: "See all topics at https://digital.gov/topics"
         comment: "See all topics at https://digital.gov/topics"
@@ -731,11 +731,11 @@ collections:
         hint: "Needs to be an email address!"
       - label: "Topics"
         name: "topics"
-        widget: "async-select"
-        url: "https://digital.gov/topics/v1/json/"
-        valueField: "slug"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
         displayField: "title"
-        dataKey: "items"
+        search_fields: ["slug", "title"]
         multiple: true
         hint: "See all topics at https://digital.gov/topics"
         comment: "See all topics at https://digital.gov/topics"
@@ -811,16 +811,15 @@ collections:
         comment: "Images must be uploaded in the /static/logos/ folder before they can be used here."
       - label: "Topics"
         name: "topics"
-        widget: "async-select"
-        url: "https://digital.gov/topics/v1/json/"
-        valueField: "slug"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
         displayField: "title"
-        dataKey: "items"
+        search_fields: ["slug", "title"]
         multiple: true
         hint: "See all topics at https://digital.gov/topics"
         comment: "See all topics at https://digital.gov/topics"
         required: false
-
   # TOPICS =======================
   - <<: *defaults
     name: "topics"
