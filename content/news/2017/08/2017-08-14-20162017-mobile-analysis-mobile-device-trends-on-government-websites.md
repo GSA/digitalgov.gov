@@ -2,7 +2,7 @@
 slug: 20162017-mobile-analysis-mobile-device-trends-on-government-websites
 date: 2017-08-14 12:00:56 -0400
 title: '2016 / 2017 Mobile Analysis: Mobile Device Trends on Government Websites'
-summary: 'We’d like to thank each agency and sub-agency for their partnership and participation in the Digital Analytics Program (DAP). The data below represents a view from over 4,500+ executive branch websites and the analysis we conducted wouldn’t be possible without you. Since the introduction of the iPhone a decade ago, smartphone and tablet usage has'
+summary: 'Now that we have seen the top level shift from desktop to mobile, let us drill deeper into mobile device specific trends.'
 authors:
   - freddie-blicher
 topics:
@@ -14,7 +14,7 @@ topics:
   - mobile
 ---
 
->*We’d like to thank each agency and sub-agency for their partnership and participation in the_ [_Digital Analytics Program_]({{< ref "/guides/dap/_index.md" >}}) _(DAP). The data below represents a view from over 4,500+ executive branch websites and the analysis we conducted wouldn’t be possible without you.*
+>*We’d like to thank each agency and sub-agency for their partnership and participation in the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP). The data below represents a view from over 4,500+ executive branch websites and the analysis we conducted wouldn’t be possible without you.*
 
 Since the introduction of the iPhone a decade ago, smartphone and tablet usage has exploded, with [378 million mobile devices](http://www.ctia.org/industry-data/ctia-annual-wireless-industry-survey) in use in 2015. In fact, [49 percent of U.S. households were mobile device-only](http://www.ctia.org/industry-data/wireless-quick-facts) and used [10 trillion megabytes of data](http://www.ctia.org/industry-data/ctia-annual-wireless-industry-survey) in 2015. This means that our primary way of accessing websites [happens on smartphone and tablet devices]({{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). Even Google reported that “[more Google searches take place on mobile devices than on computers in 10 countries including the U.S. and Japan](https://adwords.googleblog.com/2015/05/building-for-next-moment.html).” It’s also a sign of the times that Google recently announced their plan to create a [mobile-first search results index](http://searchengineland.com/google-divide-index-giving-mobile-users-better-fresher-content-261037) to cater to the market shift toward [Google searches on mobile devices]({{< ref "2016-03-29-google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may.md" >}}).
 
