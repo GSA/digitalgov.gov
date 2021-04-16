@@ -55,18 +55,20 @@ IMAGE
 
 Alt text: Two pie charts compare visits to DAP sites by types of devices. The top pie chart shows device percentages for the year prior to COVID-19. From March 12, 2019 to March 10, 2020, traffic from desktop users (green) was 48.9%, while mobile users (blue) were only 46.9% (with the remaining 4.2% of traffic, seen in red, was from tablet users. The bottom pie chart covers the year since the pandemic and depicts an increase in mobile share in the more recent year; March 11, 2020 to March 10, 2021. For this time period, mobile traffic (in blue) increased to 54.6% while desktop traffic (green) dropped to 42.8%; the remaining 2.6% was from tablet users (in red).
 
-{{< box color="base-light" >}}**Optimize mobile experiences**
+{{< box color="base-light" >}} 
+**Optimize mobile experiences**
 
 In 2020, the U.S. Web Design System team conducted research with federal partners to better understand the challenges agencies face in dealing with emergency response situations like COVID-19, and how the design system can better support them in the future.
 
 They discovered five common agency needs about how the design system can better support emergency response within federal agencies, including the need to optimize mobile experiences.
 
-> “One big surprise we found during the COVID response was that even providers and first responders are using our website more on mobile than on desktop.”
-— From a designer during interviews
+> *“One big surprise we found during the COVID response was that even providers and first responders are using our website more on mobile than on desktop.”*
+&mdash; From a designer during interviews
 
 Mobile devices often become a primary source of connection in an emergency. Agencies need a better way of meeting customer needs by helping them more easily complete actions and digest complex information quickly from a smaller screen.
 
-**_Learn more about the [research findings](https://designsystem.digital.gov/whats-new/updates/2021/03/01/improving-emergency-response/) and [what’s next for the design system](https://designsystem.digital.gov/whats-new/updates/2021/03/11/whats-next-for-uswds/)_**{{< /box >}}
+**_Learn more about the [research findings](https://designsystem.digital.gov/whats-new/updates/2021/03/01/improving-emergency-response/) and [what’s next for the design system](https://designsystem.digital.gov/whats-new/updates/2021/03/11/whats-next-for-uswds/)_**
+{{< /box >}}
 
 ## Regular needs remained consistent
 
