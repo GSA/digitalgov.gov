@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/overall-traffic-to-searchgov.png
+
+# Image shortcode: {{< img src="overall-traffic-to-searchgov" >}}
+
+date     : 2021-04-16 17:14:45 -0400
+uid      : overall-traffic-to-searchgov
+width    : 1315
+height   : 261
+format   : png
+credit   : ""
+caption  : ""
+alt      : "A line chart of visits to Search.gov-participating websites compares the time period from March 11, 2020 to March 10, 2021 (in blue) to the previous year, March 11, 2019 to March 10, 2020 (in orange). The chart shows more traffic in the recent year, and spikes during March 2020 as high as 300% compared to March 2019."
