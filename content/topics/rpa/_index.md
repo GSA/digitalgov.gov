@@ -1,14 +1,19 @@
 ---
-# View this page at https://digital.gov/topics/rpa
-# Learn how to edit our pages at https://workflow.digital.gov
+# This topic lives at
+# https://digital.gov/topics/rpa
 
+slug: "rpa"
+
+# Topic Title
 title: "Robotic Process Automation"
+
+# description — keep it short and clear
 summary: ""
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
+
+# Weight
 weight: 1
 
-# Make it better ♥
+# For more information on managing topics,
+# see https://github.com/GSA/digitalgov.gov/wiki
 ---
