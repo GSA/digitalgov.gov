@@ -2,7 +2,7 @@
 title: Challenge and Prize Spotlight Chat with National Institute of Standards
   and Technology (NIST)
 deck: Building a legal framework for challenges and prize competitions at NIST
-kicker: Spotlight Chat Series
+kicker: Spotlight Chat
 summary: Hear from NIST Innovation and Legal teams on the benefits of engaging
   legal counsel and establishing a legal framework for challenges and prize
   competitions in an agency.
@@ -29,7 +29,7 @@ slug: challenge-and-prize-spotlight-chat-with-national-institute-of-standards-an
 event_platform: zoom
 primary_image: challenge-gov-logo
 ---
-Spotlight Chats are a series of moderated discussions with innovation leaders to highlight success stories and lessons learned. For our first event in this series, we will hear from the National Institute of Standards and Technology (NIST) Innovation and Legal teams as they share how they worked together to establish a legal framework for prizes and challenges at NIST.
+The Spotlight Chat is a moderated discussion with innovation leaders to highlight success stories and lessons learned. In this session, we will hear from the National Institute of Standards and Technology (NIST) Innovation and Legal teams as they share how they worked together to establish a legal framework for prizes and challenges at NIST.
 
 Following the discussion, the panelists will respond to your questions. Please register to submit your questions in advance. 
 
