@@ -26,7 +26,7 @@ We’ve expanded <a href="https://analytics.usa.gov/">analytics.usa.gov</a> to i
 
 Additionally, we’ve moved the downloadable datasets to their own pages, rather than be located on the dashboard pages themselves. The page to download aggregated data for all participating sites is now <a href="https://analytics.usa.gov/data" target="_blank">analytics.usa.gov/data</a>, and each agency-specific page has a <a href="https://analytics.usa.gov/justice/data/" target="_blank">corresponding data page</a>, as well.
 
-{{< legacy-img src="2016/06/600-x-400-Screen-capture-of-Download-the-Data-for-Exciting-Additions-to-Analytics.usa.gov.jpg" alt="Screen capture of Download the Data." >}}
+<img src="https://18f.gsa.gov/assets/blog/dap/analytics-downloads-2016.png" alt="Screen capture of Download the Data.">
 
 We’re excited to offer the public this expanded view of web analytics data, and we hope you find it useful!
 
