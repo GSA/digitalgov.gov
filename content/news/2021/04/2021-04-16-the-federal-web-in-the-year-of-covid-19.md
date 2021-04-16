@@ -68,6 +68,11 @@ Mobile devices often become a primary source of connection in an emergency. Agen
 
 **_Learn more about the [research findings](https://designsystem.digital.gov/whats-new/updates/2021/03/01/improving-emergency-response/) and [what’s next for the design system](https://designsystem.digital.gov/whats-new/updates/2021/03/11/whats-next-for-uswds/)_** {{< /box >}}
 
+{{< box >}} Box with no color {{< /box >}} 
+{{< box color="base" >}} Box with base {{< /box >}} 
+{{< box color="base-light" >}} Box with base-light {{< /box >}} 
+{{< box color="base-dark" >}} Box with base-dark {{< /box >}}
+
 ## Regular needs remained consistent
 
 The pandemic created a surge in visits for information and services for some topics, such as benefits, loans, and medical information. Search.gov supported 500% more queries for loans in the last year compared to the year before. Health-related queries more than doubled in the past year. 
