@@ -77,7 +77,7 @@ This increase in certain needs, however, didn’t reduce traffic for other needs
 
 {{< img src="health-searches-including-covid-19" >}}
 
-On the other hand, the COVID-19 pandemic caused some common topics, like travel, to drop dramatically. For example, the Trusted Traveler Programs got 90% fewer queries in 2020 compared to 2019. 
+On the other hand, the COVID-19 pandemic caused some common topics, like travel, to drop dramatically. For example, the Trusted Traveler Programs got 90% fewer queries in 2020 compared to 2019.
 
 ## In conclusion
 
