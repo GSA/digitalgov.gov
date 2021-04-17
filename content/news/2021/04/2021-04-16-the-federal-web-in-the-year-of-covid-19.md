@@ -69,11 +69,7 @@ The pandemic created a surge in visits for information and services for some top
 
 This increase in certain needs, however, didn’t reduce traffic for other needs. Over the past year, searches for forms were just as frequent as the year prior. Similarly, within the health search data, we can see that about 50% of searches for last year were related to COVID-19, but that general health topics like diabetes, high blood pressure, and mental health saw an increase from 2019 to 2020 as well.
 
-**Health searches, not including COVID-19:**
-
 {{< img src="health-searches-not-including-covid-19" >}}
-
-**Health searches, including COVID-19:**
 
 {{< img src="health-searches-including-covid-19" >}}
 
