@@ -46,7 +46,7 @@ Also of note, the pandemic seems to have caused more people to rely on the U.S. 
 
 ## The dominant way to visit government websites was by mobile
 
-In the year prior to COVID-19 being declared a pandemic, desktop traffic (PC or laptop) slightly edged mobile traffic to federal government websites, about 49% to 47% respectively, and with tablets contributing to 4% of the share of visits. In the year since COVID-19 was declared a pandemic, mobile devices became the dominant technology used to access federal websites, by about a 55% to 43% ratio, and tablets dropped to nearly 3%.
+In the year prior to COVID-19 being declared a pandemic, desktop traffic (PCs and laptops) slightly edged mobile traffic to federal government websites, about 49% to 47% respectively, and with tablets contributing to 4% of the share of visits (left pie chart below). In the year since COVID-19 was declared a pandemic, mobile devices became the dominant technology used to access federal websites, by about a 55% to 43% ratio, and tablets dropped to nearly 3% (right pie chart below).
 
 {{< img src="two-device-usage-pie-charts-2019-to-2020-and-2020-to-2021" >}}
 
