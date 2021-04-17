@@ -9,5 +9,5 @@ width    : 1296
 height   : 802
 format   : png
 credit   : ""
-caption  : ""
-alt      : "A bar chart, titled Health Searches, Including COVID-19. It shows a comparison of search traffic related to all health topics, including COVID-19, on Search.gov-participating websites. During the time period of March 2019 to February 2020, the first blue bar chart shows that Search.gov received about 5.4 million searches about health. The second blue bar for March 2020 to February 2021, is much taller and shows that Search.gov received about 12 million searches about health, including COVID-19 topics."
+caption  : "This second bar chart, Health Searches Including COVID-19, shows a comparison of search traffic related to all health topics, including COVID-19, on Search.gov-participating websites. During the time period of March 2019 to February 2020, the first blue bar shows that Search.gov received about 5.4 million searches about health. The much taller, second blue bar for March 2020 to February 2021, shows that Search.gov received about 12 million searches about health, including COVID-19 topics."
+alt      : "Bar chart, two."
