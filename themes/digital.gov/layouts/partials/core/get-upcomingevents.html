@@ -11,7 +11,7 @@
     <h2 id="Upcoming-Events">Upcoming Events</h2>
     <ul>
         {{ range $element := where  $upcoming_events  ".Params.topics" "intersect" .Params.topics }}
-        <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }} ({{ dateFormat "01/02/2006" .Params.date }})</a></li>
+        <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }} </a>({{ dateFormat "01/02/2006" .Params.date }})</li>
         {{ end }}                
     </ul>  
     <br/>   
