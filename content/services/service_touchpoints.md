@@ -3,7 +3,7 @@
 title: "Touchpoints"
 
 # Keep it short — should be no longer than 10 words.
-summary: "Touchpoints offers a simple, flexible, and convenient way to start collecting customer feedback so you can focus on serving customers rather than managing surveys"
+summary: "Touchpoints offers a simple, flexible, and convenient way to start collecting customer feedback so you can focus on serving customers rather than managing surveys."
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
