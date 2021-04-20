@@ -79,7 +79,7 @@ This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/eng
 
 #### U.S. Election Assistance Commission (EAC)
 
-The Election Assistance Commission offers [glossaries of over 1800 voting terms and phrases commonly used in the US elections](https://www.eac.gov/election-officials/glossaries-of-election-terminology).
+The Election Assistance Commission offers Spanish, English to Spanish, Bengali, Chinese, Hindi, Japanese, Khmer, Korean, Tagalog, and Vietnamese [glossaries with over 1,800 voting terms and phrases commonly used in the U.S. elections](https://www.eac.gov/election-officials/glossaries-of-election-terminology).
 
 ### Financial Terminology
 
