@@ -3,14 +3,10 @@ title: Social Media Spring Session 2021
 deck: Join us for updates in social media topics including advertising
   campaigns, content archiving, and podcasting updates from fellow government
   experts.
-kicker: SocialGov and Federal Communicators Network
-summary: >-
-  On April 28 and 29, 2021, the Socialgov and Federal Communicators Network
-  (FCN) Communities of Practice will bring federal government experts together
-  to provide updates Social Media advertising and best practices.
-
-
-  There will be one session each day. You will need to register for each one to receive the correct Zoom for Government link and conference details. Below is a short description of each session.
+kicker: Social Media
+summary: Join the Socialgov and Federal Communicators Network (FCN) Communities
+  of Practice for the latest updates in Social Media topics including
+  advertising campaigns, content archiving, and podcasting updates.
 host: SocialGov Community of Practice and Federal Communicators Network
   Community of Practice
 event_organizer: Digital.gov
@@ -32,11 +28,14 @@ authors:
   - gabrielle-perret
   - sara-eckert
   - kristen-albrittain
-  - sarah-eckert
 slug: social-media-spring-session-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
+On April 28 and 29, 2021, the Socialgov and Federal Communicators Network (FCN) Communities of Practice will bring federal government experts together to provide updates Social Media advertising and best practices.
+
+There will be one session each day. You will need to register for each one to receive the correct Zoom for Government link and conference details. Below is a short description of each session.
+
 ### Wednesday, April 28
 
 #### First Session (02:00 pm - 03:00 pm, ET)
