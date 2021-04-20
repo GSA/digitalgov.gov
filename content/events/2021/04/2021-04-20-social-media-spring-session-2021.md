@@ -66,3 +66,6 @@ In this session you will hear from the following speakers:
 ##### 2:30 pm - 03:00 pm, ET
 
 **Updates in Government Podcasting.** You’ve spent months planning your content strategy and have a great show in the works – but how do you get people to actually listen? It might seem obvious, but building a loyal audience for your podcast takes time and effort. In this session, Tanner Iskra of VA, and Dominique Gebru of FAA will share what works.
+- - -
+
+*This talk is hosted by the [SocialGov Community of Practice (CoP)](https://digital.gov/communities/social-media/). This community hosts educational and networking events, and provides free resources to government employees with the goal of improving social media and new digital media outreach efforts at every level of government. Social media managers face many of the same challenges – join SocialGov to connect with others who get it.*
