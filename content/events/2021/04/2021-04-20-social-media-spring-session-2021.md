@@ -1,8 +1,5 @@
 ---
 title: Social Media Spring Session 2021
-deck: Join us for updates in social media topics including advertising
-  campaigns, content archiving, and podcasting updates from fellow government
-  experts.
 kicker: Social Media
 summary: Join the Socialgov and Federal Communicators Network (FCN) Communities
   of Practice for the latest updates in Social Media topics including
