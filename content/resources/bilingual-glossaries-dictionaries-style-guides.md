@@ -75,6 +75,12 @@ This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/eng
 * [Russian](https://www.ssa.gov/multilanguage/Russian/russian.htm)
 * [Vietnamese](https://www.ssa.gov/multilanguage/Vietname/vietnamese.htm)
 
+### Election Terminology
+
+#### U.S. Election Assistance Commission (EAC)
+
+The Election Assistance Commission offers [glossaries of over 1800 voting terms and phrases commonly used in the US elections](https://www.eac.gov/election-officials/glossaries-of-election-terminology).
+
 ### Financial Terminology
 
 #### Consumer Financial Protection Bureau (CFPB)
