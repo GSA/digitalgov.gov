@@ -46,4 +46,4 @@ They will share their experience to inspire other agencies to adopt a strategic 
 
 - - -
 
-*This talk is hosted by the [AI Community of Practice (CoP)](https://digital.gov/communities/artificial-intelligence/). This community aims to unite federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.*
+*This talk is hosted by the [SocialGov Community of Practice (CoP)](https://digital.gov/communities/social-media/). This community hosts educational and networking events, and provides free resources to government employees with the goal of improving social media and new digital media outreach efforts at every level of government. Social media managers face many of the same challenges – join SocialGov to connect with others who get it.*
