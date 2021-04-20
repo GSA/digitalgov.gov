@@ -1,0 +1,68 @@
+---
+title: Social Media Spring Session 2021
+deck: Join us for updates in all things Social Media from the SocialGov and
+  Federal Communicators Network Communities of Practice.
+kicker: SocialGov and Federal Communicators Network
+summary: >-
+  On April 28 and 29, 2021, the Socialgov and Federal Communicators Network
+  (FCN) Communities of Practice will bring federal government experts together
+  to provide updates Social Media advertising and best practices.
+
+
+  There will be one session each day. You will need to register for each one to receive the correct Zoom for Government link and conference details. Below is a short description of each session.
+host: SocialGov Community of Practice and Federal Communicators Network
+  Community of Practice
+event_organizer: Digital.gov
+registration_url: https://www.eventbrite.com/e/socialgov-spring-event-2021-tickets-151530260087
+date: 2021-04-28 14:00:00 -0500
+end_date: 2021-04-29 15:00:00 -0500
+# See all topics at https://digital.gov/topics
+topics:
+  - socialgov-community
+  - socialgov
+  - social-media
+  - marketing
+# See all authors at https://digital.gov/authors
+authors:
+  - dominique-gebru
+  - tanner-iskra
+  - bronwyn-emmet
+  - joseph-galbo
+  - gabrielle-perret
+  - sara-eckert
+  - kristen-albrittain
+  - sarah-eckert
+slug: social-media-spring-session-2021
+# zoom, youtube_live, adobe_connect, google
+event_platform: zoom
+---
+### Wednesday, April 28
+
+#### First Session (02:00 pm - 03:00 pm, ET)
+
+In this session you will hear from the following speakers:
+
+* Joseph Galbo, US Consumer Product Safety Commission
+* Bronwyn Emmet, National Veterans Outreach Office, Department of Veterans Affairs
+
+The event on April 28th will showcase how to conduct paid social media advertising campaigns in the federal government. It will detail justifications, contract language, campaign management, and reporting techniques so that civil servants will better understand the advantages of paid social media advertising and how they might be able to conduct paid social media campaigns at their agency.
+
+### Thursday, April 29
+
+#### Second Session (02:00 pm - 03:00 pm, ET)
+
+The event on April 29th will inform social media managers, particularly those who work in emerging digital communication platforms, and other federal employees interested in these topics, on how best to archive content and how best to approach social media campaigns.
+
+In this session you will hear from the following speakers:
+
+* Kristen Albrittain,  U.S. National Archives and Records Administration
+* Tanner Iskra, U.S. Department of Veterans Affairs
+* Dominique Gebru, Federal Aviation Administration
+
+##### 2:00 pm - 02:30 pm, ET
+
+**Understanding Social Media Archiving: Best practices with NARA**. Social media is a public record, and as government agencies we must be prepared to respond to any requests that arise. Archiving helps us do that! Join SocialGov as Kristen Albrittain of the U.S. National Archives and Records Administration talks about practices in social media archiving and see how your agency can improve!
+
+##### 2:30 pm - 03:00 pm, ET
+
+**Updates in Government Podcasting.** You’ve spent months planning your content strategy and have a great show in the works – but how do you get people to actually listen? It might seem obvious, but building a loyal audience for your podcast takes time and effort. In this session, Tanner Iskra of VA, and Dominique Gebru of FAA will share what works.
