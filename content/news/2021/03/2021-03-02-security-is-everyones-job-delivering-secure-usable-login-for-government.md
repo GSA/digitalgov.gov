@@ -78,7 +78,7 @@ Now that you know a bit more about what login.gov is and how we work, I’d like
 
 ### Creating user flows for IAL2
 
-Identity verification, also referred to as [Identity Assurance Level 2 NIST](https://pages.nist.gov/800-63-3/sp800-63-3.html) standard (also known as IAL2), has been a big focus area for the past year. We’ve been actively working on how to better understand when and where to improve our flows so that users are securely verified with as little burden to them as possible. To begin to understand IAL2, [we created a user flow that shows all of the paths the user may take in order to get verified](https://github.com/18F/identity-design-assets/blob/master/Projects/Identity/IAL2%20Flowchart/IAL2_Flowchart.pdf) (GitHub PDF).
+Identity verification, also referred to as [Identity Assurance Level 2 NIST](https://pages.nist.gov/800-63-3/sp800-63-3.html) standard (also known as IAL2), has been a big focus area for the past year. We’ve been actively working on how to better understand when and where to improve our flows so that users are securely verified with as little burden to them as possible. To begin to understand IAL2, [we created a user flow that shows all of the paths the user may take in order to get verified](https://github.com/18F/identity-design-assets/blob/main/Projects/Identity/IAL2%20Flowchart/IAL2_Flowchart.pdf) (GitHub PDF).
 
 ### Performing usability testing on new concepts
 
