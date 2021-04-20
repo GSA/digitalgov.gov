@@ -1,7 +1,8 @@
 ---
 title: Social Media Spring Session 2021
-deck: Join us for updates in all things Social Media from the SocialGov and
-  Federal Communicators Network Communities of Practice.
+deck: Join us for updates in social media topics including advertising
+  campaigns, content archiving, and podcasting updates from fellow government
+  experts.
 kicker: SocialGov and Federal Communicators Network
 summary: >-
   On April 28 and 29, 2021, the Socialgov and Federal Communicators Network
