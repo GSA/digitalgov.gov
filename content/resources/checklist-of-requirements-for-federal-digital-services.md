@@ -42,13 +42,9 @@ These high-level policies cover basic requirements for all websites and digital 
 
 Ensure access for people with disabilities, including motor, auditory, cognitive, seizure/neurological, and visual impairments; ensure content is "perceivable, operable, understandable, and robust." Teach staff how to create accessible products, and conduct accessibility testing before launch, or when making significant changes to, digital products and services.
 
-* [Accessibility for Teams](https://accessibility.digital.gov/) — A guide for embedding accessibility and inclusive design practices into your team’s workflow
-* [18F Accessibility Guide](https://accessibility.18f.gov/)
-* [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)
-* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
-* [WCAG Quick Reference](https://www.w3.org/WAI/WCAG20/quickref/) and [WCAG Web tutorials](https://www.w3.org/WAI/tutorials/)
-* [Technology Accessibility Playbooks](https://section508.gov/tools/playbooks/)
-* [Federal CIO Council Accessibility Best Practices](https://section508.gov/best-practices)
+* [Section 508 of the Rehabilitation Act of 1973 (29 U.S.C § 794 (d))](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm)
+* [Information and Communication Technology (ICT) Accessibility 508 Standards](https://www.access-board.gov/ict/)
+* [Overview of Section 508 and related laws](https://www.section508.gov/content/learn/laws-and-policies)
 * [Governmentwide Section 508 Strategic Plan (2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)
 
 <p class="more"><a href="{{< ref "/topics/accessibility" >}}">More on Accessibility <i class="fas fa-arrow-alt-circle-right"></i></a></p>
