@@ -15,6 +15,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - james-gregory
+  - gabrielle-perret
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
