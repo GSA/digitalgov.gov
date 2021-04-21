@@ -31,9 +31,7 @@ The Folio application automates capital planning and portfolio management proces
 
 ## Folio Agencies
 
-- Defense Health Agency (DHA)
 - Department of Commerce (Commerce)
-- National Aeronautics and Space Administration (NASA)
 - National Archives and Records Administration (NARA)
 - U.S. Agency for International Development (USAID)
 - U.S. Army Corps of Engineers (USACE)
