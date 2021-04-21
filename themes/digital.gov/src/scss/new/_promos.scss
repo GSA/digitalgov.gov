@@ -4,7 +4,6 @@
 .promo {
   @include u-margin-y(1);
   @include u-padding(1);
-  @include u-bg("gray-cool-3");
   @include u-border("1px", "gray-cool-10", "solid");
   @include u-radius("md");
   & > div {
