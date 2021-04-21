@@ -165,6 +165,7 @@ If it’s a list of fragments, do not use punctuation at the end. Capitalize the
 #### i.e., vs. e.g.,
 
 e.g. (_exempli gratia_), which is Latin for “for example, ...” use it to list one or more examples
+
 i.e. (_id est_) is Latin for “in other words, ...”
 
 ## Digital.gov Branding
