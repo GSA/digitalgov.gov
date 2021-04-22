@@ -95,7 +95,7 @@ We also heard from users that certain screens were unhelpful or unuseful in the 
 
 ### Increased to 60% proofing success rates in two weeks
 
-We implemented the recommendations that were based off of our usability testing and saw a our actual* proofing rates increase from 51% to 60% within two weeks. This was a remarkable outcome for us to see after making a few incremental changes to improving our service, based on our teams findings and recommendations. 
+We implemented the recommendations that were based off of our usability testing and saw our actual* proofing rates increase from 51% to 60% within two weeks. This was a remarkable outcome for us to see after making a few incremental changes to improving our service, based on our teams findings and recommendations. 
 
 Within 30 days of implementation, our average actual success rate increased to 74%, and with a daily high as high as much 84%. These numbers will continue to climb by using continuous discovery and human-centered design techniques. As you can see, not only does this improve the public’s experience of login.gov, but also has serious business impact - making our product more attractive to partners, and reducing our costs to proof users.
 
