@@ -3,8 +3,8 @@ date: 2021-03-25 12:09:00 -0500
 source: digitalgov
 title: How to Present Like a Pro
 deck: Presenting and Instructing via Streaming Video Using TV Pros’ Techniques
-summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares
-  her tips and tricks for presenting virtually.
+summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares her tips and tricks for presenting virtually.
+
 # See all topics at https://digital.gov/topics
 topics:
   - cx
@@ -12,16 +12,20 @@ topics:
   - audio-video
   - professional-development
   - video
+
 # See all authors at https://digital.gov/authors
 authors:
   - wendy-wagner-smith
   - katherine-spivey
+
 slug: how-to-present-like-a-pro
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
 
 When you are presenting on streaming video, you are essentially doing the same thing as a television news anchor. Try these common methods that television presenters use daily to improve your presentation skills in the “zoom” era:
@@ -45,7 +49,7 @@ When you are presenting on streaming video, you are essentially doing the same t
 * Keep the lines open during breaks to take questions from the eager or confused.
 * Always plan to end just a bit early but have a plan if you run late. Give permission to leave on time, but appeal and ask students to stay if they are able.
 * Mics off for all participants. Explain how to use the spacebar feature to speak without unmuting.
-* Encourage liberal use of the chat feature. \*\*Keep it public and open to everyone unless the class is unresponsive.\*\*But no sidebars\*\*
+* Encourage liberal use of the chat feature. Keep it public and open to everyone unless the class is unresponsive&mdash;but no sidebars.
 * Acknowledge that many people prefer to stay off camera but ask that people stay on camera if possible. Let the class know when you need to see faces; also cue them when it’s ok for them to turn off the camera.
 
 ## Planting Seeds & Engaging Students
@@ -89,7 +93,7 @@ When you are presenting on streaming video, you are essentially doing the same t
 
 ## Related links/resources
 
-You may have the “zoomies,” the feeling that you will never be able to do this well. Don’t despair…you can become a deft and talented expert using video streaming technologies. Most of them work basically the same way. Real skill comes from learning where additional features are located in different areas of the interface, speed of finding and activating features, etc.— and that happens only with practice.
+You may have the “zoomies,” the feeling that you will never be able to do this well. Don’t despair...you can become a deft and talented expert using video streaming technologies. Most of them work basically the same way. Real skill comes from learning where additional features are located in different areas of the interface, speed of finding and activating features, etc.— and that happens only with practice.
 
 The following training resources are available online and helpful for learning how to appear to be a polished and suave presenter or instructor:
 
