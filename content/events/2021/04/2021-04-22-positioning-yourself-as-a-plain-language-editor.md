@@ -26,6 +26,6 @@ These days, federal job postings for writers, editors, and many other positions 
 
 In this session, Katherine Spivey and Wendy Wagner-Smith will cover: 
 
-* How to establish a personal plain language “brand”
-* How to advance your brand whether you are introverted or extroverted, and let the Internet do most of the work for you
-* How to plan your career for your long-term future as a plain language pro
+* How to establish a personal plain language “brand.”
+* How to advance your brand whether you are introverted or extroverted, and let the Internet do most of the work for you.
+* How to plan your career for your long-term future as a plain language pro.
