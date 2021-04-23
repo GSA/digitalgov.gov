@@ -27,8 +27,10 @@ authors:
 slug: challenge-and-prize-spotlight-chat-with-national-institute-of-standards-and-technology-nist
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: challenge-gov-logo
+youtube_id: afh8DzWI2sQ
+
 ---
+
 The Spotlight Chat is a moderated discussion with innovation leaders to highlight success stories and lessons learned. In this session, we will hear from the National Institute of Standards and Technology (NIST) Innovation and Legal teams as they share how they worked together to establish a legal framework for prizes and challenges at NIST.
 
 Following the discussion, the panelists will respond to your questions. Please register to submit your questions in advance. 
