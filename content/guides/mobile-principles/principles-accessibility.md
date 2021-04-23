@@ -70,6 +70,7 @@ To test for accessibility compliance, the free [AChecker Web Accessibility Check
 - Web Accessibility Initiative (WAI) - https://www.w3.org/WAI/
 - Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone - https://www.w3.org/WAI/perspectives/
 - Web Accessibility Tutorials and Presentations - https://www.w3.org/WAI/train
+- Microsoft's Open Source Accessibility Insights - https://accessibilityinsights.io/
 
 ---
 
