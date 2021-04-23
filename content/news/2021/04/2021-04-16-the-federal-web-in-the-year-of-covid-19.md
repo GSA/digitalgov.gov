@@ -13,8 +13,8 @@ topics:
 authors:
   - dmccleskey
   - tlowden
-slug: coronavirus-dap-search-2021
-primary_image: searchdotgovlogo
+slug: the-federal-web-in-the-year-of-covid-19
+primary_image: coronavirus-dap-search-2021
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
