@@ -20,6 +20,7 @@ authors:
   - david-j-taube
   - author-gallow
   - dominique-ramirez
+  - courtney-rogers
 
 # see all topics at https://digital.gov/topics
 topics:
