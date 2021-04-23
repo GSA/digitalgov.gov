@@ -27,7 +27,11 @@ primary_image: ux-summit-2021
 ---
 
 {{< note >}}
-**The February 26th deadline for submissions has passed.** Thank you— we have received a number of submissions on a wide variety of topics related to UX!
+**The February 26th deadline for submissions has passed.**
+We have received a number of submissions on a wide variety of topics related to UX! 
+
+**Registration for the 2021 UX Summit will be open soon.**
+We will send a notification to the User Experience community once the registration is open. The summit will be held from June 22-24, 2021.
 
 {{< /note >}}
 
