@@ -494,6 +494,7 @@ collections:
         valueField: "slug"
         displayFields: ["name"]
         required: false
+        options_length: 1000
       - label: "Short URL"
         name: "short_url"
         widget: "string"
