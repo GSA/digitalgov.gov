@@ -43,7 +43,7 @@ At the end of the event, you will gain an understanding of how engaging and buil
 
 **Craig Connelly** joined the Public Safety Communications Research (PSCR) Division's Open Innovation team in July 2017 and serves as a prize and challenge specialist. In this role, he manages internal and external R&D, communications, legal, administrative, and procurement resources to design and implement prize competitions and challenges to advance PSCR's mission.
 
-**Jeremy Glenn** is a Presidential Management Fellow serving as a prize and challenge specialist for the Public Safety Communications Research Division (PSCR) at NIST. In this role he designs and manages all aspects of prize competitions to advance PSCR’s mission to further communications technologies for first responders. Mr. Glenn is a licensed attorney and U.S. Marine Corps veteran.
+**Jeremy Glenn** is a Presidential Management Fellow serving as a prize and challenge specialist for the PSCR at NIST. In this role he designs and manages all aspects of prize competitions to advance PSCR’s mission to further communications technologies for first responders. Mr. Glenn is a licensed attorney and U.S. Marine Corps veteran.
 
 **Emily Parkhurst** is a general attorney in the Office of the Chief Counsel (OCC) for the National Institute of Standards and Technology (NIST). She has been an employee of OCC/NIST since 2014. Ms. Parkhurst is the OCC/NIST attorney located at the NIST campus in Boulder, Colorado.
 
