@@ -20,9 +20,7 @@
 		@include u-line-height('sans', 2);
 		@include u-display('block');
 	&:hover{
-			@include u-shadow(2);
-			@include u-text('semibold'
-			);
+			@include u-shadow(3);
 		
 	}
 }

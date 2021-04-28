@@ -87,10 +87,10 @@
     @include u-bg("gray-cool-5");
     h3 a,
     h4 a {
-      @include u-border-bottom("2px", "accent-warm", "solid");
+      @include u-border-bottom("05", "accent-warm", "solid");
     }
     p a {
-      @include u-border-bottom("2px", "accent-warm", "solid");
+      @include u-border-bottom("05", "accent-warm", "solid");
     }
   }
 }
