@@ -503,21 +503,23 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 Agencies must have a way for the public to report potential security vulnerabilities, and explain how the agency will respond to such reports.
 
 - Ensure your site's Security Contact and Organization are current in the [.gov registrar](https://domains.dotgov.gov/)
-- Publish a vulnerability disclosure policy at [agency].gov/vulnerability-disclosure-policy
+- Publish a vulnerability disclosure policy at [agency].gov/vulnerability-disclosure-policy  
 
-Suggested link text:
+{{< box >}}
+##### Suggested link text:
 
-- Vulnerability Disclosure Policy
+`Vulnerability Disclosure Policy`
 
-Required on:
+##### Required on:
 
 - Your website policies page
 
-Required by:
+##### Required by:
 
 - Department of Homeland Security (DHS) Binding Operational Directive 20-01
-
-POLICY: [DHS Binding Operational Directive 20-01](https://cyber.dhs.gov/bod/20-01/#required-actions)
+{{< / box >}}
+{{< card-policy src="https://cyber.dhs.gov/bod/20-01/#required-actions" kicker="Policy" title="DHS Binding Operational Directive 20-01">}}
+{{< / card-policy >}}
 
 
 ---
