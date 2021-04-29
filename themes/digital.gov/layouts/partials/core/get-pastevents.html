@@ -1,0 +1,21 @@
+{{/*======================================
+    Get Past Events by topics with current date
+    ======================================
+*/}}
+<div>
+    {{/* Gets the past events */}}
+    {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+    {{ $past_events := $past_events | intersect (where $past_events "Date" "<" now)  }} 
+    {{ $total_events := where  $past_events  ".Params.topics" "intersect" .Params.topics }} 
+    {{if $total_events}}  
+    <h2 id="Past-Events">Past Events</h2>               
+    <ul>
+        {{ range first 5 $total_events }}                                   
+
+        <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }} </a>({{ dateFormat "01/02/2006" .Params.date }})</li>
+
+        {{ end }}
+    </ul>    
+    <br>     
+    {{ end }}        
+</div>  
