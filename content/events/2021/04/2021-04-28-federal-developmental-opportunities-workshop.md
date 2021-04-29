@@ -29,19 +29,30 @@ Presentations will inform attendees on opportunity options including: coaching, 
 
 ### Morning Session (09:00 am - 12:10 pm, ET)
 
-* \*\*9:00 am - 10:15 am: Developmental Opportunities – What they are, why they’re valuable, and how federal employees can host and receive them
-* \*\*10:15 am - 11:00 am: Cross-Agency Experiential Programs
-* \*\*Break
-* \*\*11:10 am - 12:10 pm: Details and Rotations – How to host and search for these on USAJOBS Open Opportunities
+* **9:00 am - 10:15 am:** Developmental Opportunities – What they are, why they’re valuable, and how federal employees can host and receive them
+  **Speakers:** Kim Wittenberg, AHRQ, HHS; Beth Martin, FDA
+
+* **10:15 am - 11:00 am:** Cross-Agency Experiential Programs
+  **Speakers:** Angela McPherson and Amy Bontrager, GSA; Sandra Ore, Thomas Hendershot, Elizabeth Winters, and Tiana Young, OPM; Kim Wittenberg, HHS
+
+* **Break**
+
+* **11:10 am - 12:10 pm:** Details and Rotations – How to host and search for these on USAJOBS Open Opportunities
+  **Speakers:** Lisa Nelson and Keenan Emmitt, OPM; Tracy Levstik, NOAA; Kim Wittenberg, AHRQ, HHS
 
 - - -
 
 ### Afternoon Session (12:30 pm – 3:00 pm, ET)
 
-* \*\*12:30 pm - 1:20 pm: Coaching and Mentoring – How they differ, why they’re valuable, and successful strategies for each
-* \*\*Break
-* \*\*1:25 pm - 2:55 pm: Mentoring Programs – Successful strategies for starting, sustaining, and evaluating mentoring programs
-* \*\*2:55 pm - 3:00 pm: Wrap up
+* **12:30 pm - 1:20 pm:** Coaching and Mentoring – How they differ, why they’re valuable, and successful strategies for each
+  **Speakers:** Elizabeth Winters, OPM; Laniera Jones, BEA; and Reginald R. Mebane, CDC, HHS
+
+* **Break**
+
+* **1:25 pm - 2:55 pm:** Mentoring Programs – Successful strategies for starting, sustaining, and evaluating mentoring programs
+  **Speakers:** Beth A. Martin, FAA, DOT; Natalie Buda Smith, LOC; Lisa Nelson and Keenan Emmitt, OPM; Brian Twillman, John Reynolds, Will Harnisch, and Lindsey E. Johnson, EPA; Laniera Jones, BEA; Maureen Whitsett, State Department; Kim Wittenberg, AHRQ, HHS
+
+* **2:55 pm - 3:00 pm:** Wrap up
 
 - - -
 
