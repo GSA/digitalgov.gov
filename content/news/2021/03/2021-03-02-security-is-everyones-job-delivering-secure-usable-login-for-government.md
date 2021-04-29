@@ -78,7 +78,7 @@ Now that you know a bit more about what login.gov is and how we work, I’d like
 
 ### Creating user flows for IAL2
 
-Identity verification, also referred to as [Identity Assurance Level 2 NIST](https://pages.nist.gov/800-63-3/sp800-63-3.html) standard (also known as IAL2), has been a big focus area for the past year. We’ve been actively working on how to better understand when and where to improve our flows so that users are securely verified with as little burden to them as possible. To begin to understand IAL2, [we created a user flow that shows all of the paths the user may take in order to get verified](https://github.com/18F/identity-design-assets/blob/master/Projects/Identity/IAL2%20Flowchart/IAL2_Flowchart.pdf) (GitHub PDF).
+Identity verification, also referred to as [Identity Assurance Level 2 NIST](https://pages.nist.gov/800-63-3/sp800-63-3.html) standard (also known as IAL2), has been a big focus area for the past year. We’ve been actively working on how to better understand when and where to improve our flows so that users are securely verified with as little burden to them as possible. To begin to understand IAL2, [we created a user flow that shows all of the paths the user may take in order to get verified](https://github.com/18F/identity-design-assets/blob/main/Projects/Identity/IAL2%20Flowchart/IAL2_Flowchart.pdf) (GitHub PDF).
 
 ### Performing usability testing on new concepts
 
@@ -95,7 +95,7 @@ We also heard from users that certain screens were unhelpful or unuseful in the 
 
 ### Increased to 60% proofing success rates in two weeks
 
-We implemented the recommendations that were based off of our usability testing and saw a our actual* proofing rates increase from 51% to 60% within two weeks. This was a remarkable outcome for us to see after making a few incremental changes to improving our service, based on our teams findings and recommendations. 
+We implemented the recommendations that were based off of our usability testing and saw our actual* proofing rates increase from 51% to 60% within two weeks. This was a remarkable outcome for us to see after making a few incremental changes to improving our service, based on our teams findings and recommendations. 
 
 Within 30 days of implementation, our average actual success rate increased to 74%, and with a daily high as high as much 84%. These numbers will continue to climb by using continuous discovery and human-centered design techniques. As you can see, not only does this improve the public’s experience of login.gov, but also has serious business impact - making our product more attractive to partners, and reducing our costs to proof users.
 

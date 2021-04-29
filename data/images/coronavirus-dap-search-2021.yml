@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/coronavirus-dap-search-2021.png
+
+# Image shortcode: {{< img src="coronavirus-dap-search-2021" >}}
+
+date     : 2021-04-22 12:01:31 -0400
+uid      : coronavirus-dap-search-2021
+width    : 1280
+height   : 720
+format   : png
+credit   : ""
+caption  : ""
+alt      : "Title card using a white text against a very dark gray background. Across the top are two program names with their icons, Search.gov with a blue magnifying glass, and Digital Analytics Program with a colorful wheel chart. The title line, in a large bold font reads, The Federal Web in the Year of COVID-19. The summary, in a smaller font, reads, The first year of the pandemic saw an 8.51 billion increase in visits to government-provided online content and services. Below that on the bottom left is the Digital.gov logo in red, and on the right are small geometric shapes in red, orange, and yellow. The color palette comes from CDC images of the coronavirus." 

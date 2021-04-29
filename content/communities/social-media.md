@@ -19,6 +19,7 @@ authors:
   - jessica-hawkins
   - david-j-taube
   - author-gallow
+  - dominique-ramirez
 
 # see all topics at https://digital.gov/topics
 topics:

@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Dominique Ramirez joined VA in 2013 and has supported a wide array of activities within the Office of Public Affairs. As a web developer, he helps manage pages across the VA.gov domain. He also manages the VAntage Point and VA Insider blogs. "
+bio: "Dominique Ramirez is a Public Affairs Specialist at the Department of Veterans Affairs. Dominique serves as a web developer, social media manager, and manages 300 interns through the Virtual Student Federal Service."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
