@@ -4,7 +4,7 @@ kicker: Accessibility
 summary: This webinar will present and demonstrate tips and tricks to address
   several common accessibility errors and issues that occur during digital
   content creation.
-host: GSA IT Accessibility Team
+host: IT Accessibility and Section 508 Community
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/accessible-digital-content-tips-and-tricks-tickets-152902821455
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4779268&CustomerID=321
@@ -39,3 +39,7 @@ This webinar will cover:
 
 
 **Relevant Link:** https://section508.gov/create
+
+- - -
+
+*This talk is hosted by the [IT Accessibility and Section 508 Community](https://digital.gov/communities/it-accessibility-section-508/). This community helps federal agencies buy and build accessible IT, with tools, training and best practices to support universal design, accessible development, and 508-compliant procurement. They work to encourage the adoption of accessible IT across the federal government.*
