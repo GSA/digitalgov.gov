@@ -44,7 +44,7 @@ Presentations will inform attendees on opportunity options including: coaching, 
 
 ### Afternoon Session (12:30 pm – 3:00 pm, ET)
 
-* **12:30 pm - 1:20 pm:** Coaching and Mentoring – How they differ, why they’re valuable, and successful strategies for each
+* **12:30 pm - 1:20 pm:** Coaching and Mentoring – How they differ, why they’re valuable, and successful strategies for each 
   **Speakers:** Elizabeth Winters, OPM; Laniera Jones, BEA; and Reginald R. Mebane, CDC, HHS
 
 * **Break**
