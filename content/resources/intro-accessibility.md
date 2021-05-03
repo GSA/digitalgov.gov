@@ -5,7 +5,7 @@
 # slug (url path) — changing this requires a redirect
 slug: introduction-accessibility
 date: 2019-12-04 8:00:00 -0500
-title: "Introduction to Accessibility"
+title: "An Introduction to Accessibility"
 deck: ""
 summary: "An introduction to accessibility, and why it matters."
 
