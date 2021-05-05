@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/uswds-monthly-call-cover-image-may.png
+
+# Image shortcode: {{< img src="uswds-monthly-call-cover-image-may" >}}
+
+date     : 2021-05-05 16:05:12 -0400
+uid      : uswds-monthly-call-cover-image-may
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image of a multi-colored USWDS logo with two lines of text on a black background. The first line below the logo has USWDS Monthly Call in white text and the second line has May 2021 in yellow text." 
