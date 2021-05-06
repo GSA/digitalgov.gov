@@ -520,6 +520,8 @@ Agencies must have a way for the public to report potential security vulnerabili
 {{< / box >}}
 {{< card-policy src="https://cyber.dhs.gov/bod/20-01/#required-actions" kicker="Policy" title="DHS Binding Operational Directive 20-01">}}
 {{< / card-policy >}}
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2020/09/M-20-32.pdf" kicker="Policy" title="OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation">}}
+{{< / card-policy >}}
 
 
 ---
