@@ -7,7 +7,7 @@ summary: How does USWDS address accessibility? Join us as we share tips and
   tools for addressing accessibility throughout the lifecycle!
 host: U.S. Web Design System
 event_organizer: Digital.gov
-registration_url: https://www.eventbrite.com/preview?eid=153670680141/
+registration_url: https://www.eventbrite.com/e/uswds-accessibility-creating-more-inclusive-federal-websites-tickets-153670680141
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4791585&CustomerID=321
 date: 2021-05-20 14:00:00 -0500
 end_date: 2021-05-20 15:00:00 -0500
