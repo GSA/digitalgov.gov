@@ -25,10 +25,12 @@ authors:
 slug: social-media-spring-session-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
----
-On April 28th and 29th, 2021, the SocialGov Community of Practice will bring federal government experts together to provide updates on social media advertising and best practices.
 
-There will be one session each day. You will need to register for each one to receive the correct Zoom for Government link and conference details. Below is a short description of each session.
+---
+
+On April 28th and 29th, 2021, the SocialGov Community of Practice brought federal government experts together to provide updates on social media advertising and best practices.
+
+There was one session each day. Below are the videos and a short description for each session.
 
 ### Wednesday, April 28
 
