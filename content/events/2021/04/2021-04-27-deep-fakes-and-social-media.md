@@ -26,6 +26,7 @@ authors:
 slug: deep-fakes-and-social-media
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: deepfakes-and-social-media-title-card
 ---
 Deep fakes are an emerging threat that can disrupt agencies’ communication efforts and federal agencies should be prepared. The term deep fake is typically used to refer to a video that has been edited using an algorithm to replace the person in the original video with someone else (especially a public figure) in a way that makes the video look authentic.
 
