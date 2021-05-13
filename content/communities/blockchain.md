@@ -20,16 +20,15 @@ weight: 1
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "listserv@listserv.gsa.gov"
-    subscribe_email_subject: "Blockchain listserv"
-    members: 667
-    emails_per_week:
+    subscribe_email: "BLOCKCHAIN-subscribe-request@listserv.gsa.gov"
+    terms: "Only federal employees are eligible to join."
+    members: 695
+ 
   - platform: "listserv"
     type: public
-    subscribe_email: listserv@listserv.gsa.gov
-    subscribe_email_body: "SUB BlockchainPublic."
-    members:
-    emails_per_week:
+    subscribe_email: "BLOCKCHAINPUBLIC-subscribe-request@listserv.gsa.gov"
+    terms: "Anyone is eligible to join."
+    members: 688
 
 ---
 
