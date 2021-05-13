@@ -21,6 +21,7 @@ authors:
 slug: positioning-yourself-as-a-plain-language-editor
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: plainlanguage-may-event-title-card
 ---
 These days, federal job postings for writers, editors, and many other positions either request or require plain language experience—skills, former training, or even some level of expertise called “mastery.” You may have been toiling away for years to change wordy or obscure bureaucratese, governmentese, legalese, or similar styles into clear and beautiful plain language. Short of becoming a trainer yourself, how do you position yourself as a plain language pro?  How do you create your own personal plain language brand?
 
