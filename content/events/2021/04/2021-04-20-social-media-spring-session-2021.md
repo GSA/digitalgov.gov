@@ -41,6 +41,8 @@ In this session you will hear from the following speakers:
 
 The event on April 28th will showcase how to conduct paid social media advertising campaigns in the federal government. It will detail justifications, contract language, campaign management, and reporting techniques so that civil servants will better understand the advantages of paid social media advertising and how they might be able to conduct paid social media campaigns at their agency.
 
+{{< youtube Wj5SP_Ap0n8 >}}
+
 ### Thursday, April 29
 
 #### Second Session (02:00 pm - 03:00 pm, ET)
@@ -60,6 +62,9 @@ In this session you will hear from the following speakers:
 ##### 2:30 pm - 03:00 pm, ET
 
 **Updates in Government Podcasting.** You’ve spent months planning your content strategy and have a great show in the works – but how do you get people to actually listen? It might seem obvious, but building a loyal audience for your podcast takes time and effort. In this session, Tanner Iskra of VA, and Dominique Gebru of FAA will share what works.
+
+{{< youtube 1xVZkdNpaow >}}
+
 - - -
 
 *This talk is hosted by the [SocialGov Community of Practice (CoP)](https://digital.gov/communities/social-media/). This community hosts educational and networking events, and provides free resources to government employees with the goal of improving social media and new digital media outreach efforts at every level of government. Social media managers face many of the same challenges – join SocialGov to connect with others who get it.*
