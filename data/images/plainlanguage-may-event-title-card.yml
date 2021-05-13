@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/plainlanguage-may-event-title-card.png
+
+# Image shortcode: {{< img src="plainlanguage-may-event-title-card" >}}
+
+date     : 2021-05-13 14:55:03 -0400
+uid      : plainlanguage-may-event-title-card
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image of multi-colored diagonal shapes with the lines of text on a black background. The first line has Positioning Yourself as a Plain Language Editor in white text. The second line has May 19 2021 in yellow text. The Digitalgov logo in white is below the text."
