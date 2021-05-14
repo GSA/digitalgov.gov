@@ -20,16 +20,15 @@ weight: 1
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "listserv@listserv.gsa.gov"
-    subscribe_email_subject: "Blockchain listserv"
-    members: 667
-    emails_per_week:
+    subscribe_email: "BLOCKCHAIN-subscribe-request@listserv.gsa.gov"
+    terms: "Only federal employees are eligible to join."
+    members: 695
+ 
   - platform: "listserv"
     type: public
-    subscribe_email: listserv@listserv.gsa.gov
-    subscribe_email_body: "SUB BlockchainPublic."
-    members:
-    emails_per_week:
+    subscribe_email: "BLOCKCHAINPUBLIC-subscribe-request@listserv.gsa.gov"
+    terms: "Anyone is eligible to join."
+    members: 688
 
 ---
 
@@ -48,12 +47,6 @@ Federal agencies are eager to better evaluate and adopt distributed ledger techn
 ## Who We Are
 
 This community serves as a collaborative hub for federal agencies that are interested in exploring distributed ledger technology and its implementation within government.
-
-## How to Join
-
-**If you are a federal government employee** with a .gov or .mil email address, join our [Federal Blockchain Community](mailto:Blockchain-subscribe-request@listserv.gsa.gov?subject=Blockchain%20listserv).
-
-To join our **public** listserv for Blockchain, contact [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv&body=SUB%20BlockchainPublic) with the message body “SUB BlockchainPublic.”
 
 ## What We Do
 
