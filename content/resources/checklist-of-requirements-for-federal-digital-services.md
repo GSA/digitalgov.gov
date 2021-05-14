@@ -223,6 +223,7 @@ Ensure your website includes a search function which follows industry standard b
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide adequate security controls to ensure information is resistant to tampering, remains confidential as necessary, and is available as intended by the agency and expected by users. Implement management controls to prevent the inappropriate disclosure of sensitive information. Provide general information to the public about your security protocols. Provide a way for the public to report vulnerabilities.
 
 * [Binding Operational Directive 20-01, Develop and Publish a Vulnerability Disclosure Policy](https://cyber.dhs.gov/bod/20-01/) (September 2, 2020)
+* [OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation](https://www.whitehouse.gov/wp-content/uploads/2020/09/M-20-32.pdf) (PDF, September 2, 2020)
 * [Cybersecurity Executive Order 13800](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal) (May 11, 2017)
 * [OMB M-15-13, Policy to Require Secure Connections across Federal Websites and Web Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2015/m-15-13.pdf) (PDF, 258 KB, 5 pages, June 2015)
 * [Federal Information Security Modernization Act of 2014 (FISMA) (Public Law 113-283)](https://www.gpo.gov/fdsys/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf) (PDF, December 2014)
