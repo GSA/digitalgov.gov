@@ -37,8 +37,6 @@ primary_image: "challengegov-card-episode-3"
 # 1 -- visible
 weight: 0
 
-# Make it better ♥
-
 ---
 
 _[View Live Captioning for this Event ](https://www.captionedtext.com/client/event.aspx?EventID=3998900&CustomerID=321)_
