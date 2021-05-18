@@ -44,6 +44,7 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 
 * [Section 508 of the Rehabilitation Act of 1973 (29 U.S.C § 794 (d))](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm)
 * [Information and Communication Technology (ICT) Accessibility 508 Standards](https://www.access-board.gov/ict/)
+* [Required Link - Accessibility Statement](https://digital.gov/resources/required-web-content-and-links/?dg#accessibility-statement)
 * [Overview of Section 508 and related laws](https://www.section508.gov/content/learn/laws-and-policies)
 * [Governmentwide Section 508 Strategic Plan (2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)
 
@@ -223,7 +224,6 @@ Ensure your website includes a search function which follows industry standard b
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide adequate security controls to ensure information is resistant to tampering, remains confidential as necessary, and is available as intended by the agency and expected by users. Implement management controls to prevent the inappropriate disclosure of sensitive information. Provide general information to the public about your security protocols. Provide a way for the public to report vulnerabilities.
 
 * [Binding Operational Directive 20-01, Develop and Publish a Vulnerability Disclosure Policy](https://cyber.dhs.gov/bod/20-01/) (September 2, 2020)
-* [OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation](https://www.whitehouse.gov/wp-content/uploads/2020/09/M-20-32.pdf) (PDF, September 2, 2020)
 * [Cybersecurity Executive Order 13800](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal) (May 11, 2017)
 * [OMB M-15-13, Policy to Require Secure Connections across Federal Websites and Web Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2015/m-15-13.pdf) (PDF, 258 KB, 5 pages, June 2015)
 * [Federal Information Security Modernization Act of 2014 (FISMA) (Public Law 113-283)](https://www.gpo.gov/fdsys/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf) (PDF, December 2014)
@@ -233,9 +233,10 @@ Implement security and management controls to prevent the inappropriate disclosu
 
 ## Technology Standards
 
-Use the most recent and up-to-date technical standards for your digital services. Provide service through a secure connection.
+Use the most recent and up-to-date technical standards for your digital services. Provide service through a secure connection. Deploy and use IPv6.
 
 * [The HTTPS-Only Standard](https://https.cio.gov/)
+* [OMB M-21-07 Completing the Transition to Internet Protocol Version 6 (1Pv6)](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf) (PDF, November 2020)
 
 ## Third-Party Services/Social Media
 
