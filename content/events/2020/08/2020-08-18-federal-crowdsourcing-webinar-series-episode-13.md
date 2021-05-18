@@ -20,7 +20,6 @@ end_date: 2020-08-18 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - challenges
-  - emerging-tech
   - us-agency-for-international-development
 
 # see all authors at https://digital.gov/authors
