@@ -62,7 +62,7 @@ npm install gulp-cli -g
 ```
 
 To use Gulp, you must have [Node](https://nodejs.org/) and [NPM](https://www.npmjs.com) installed.
-We're currently using Node v10.21.0. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
+We're currently using Node v14. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
 
 NPM is package along with Node. Check your versions of these in your terminal command line by typing:
 
@@ -200,7 +200,7 @@ To test the validity of API JSON files, run `npm run lint:json` in the terminal 
 
 Markdown testing can be performed by running `npm run lint:json`. The rules that are used for the linter can be found in `.markdown-lint.yml`.
 
-HTML linting can be performed by running 'npm run test:htmlproofer'. 
+HTML linting can be performed by running 'npm run test:htmlproofer'.
 To have HTMLproofer ignore certain content see: https://github.com/gjtorikian/html-proofer#ignoring-content
 
 ## Common Regex scripts
