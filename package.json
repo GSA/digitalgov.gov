@@ -56,7 +56,7 @@
     "gulp-hash": "^4.2.2",
     "gulp-rename": "^1.4.0",
     "gulp-replace-name": "^1.0.1",
-    "gulp-responsive": "^2.14.0",
+    "gulp-responsive": "^3.0.1",
     "gulp-s3-upload": "^1.7.3",
     "gulp-size": "^3.0.0",
     "gulp-strip-css-comments": "^2.0.0",
