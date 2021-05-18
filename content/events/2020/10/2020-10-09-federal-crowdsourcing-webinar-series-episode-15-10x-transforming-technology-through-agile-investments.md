@@ -12,7 +12,6 @@ end_date: 2020-10-29 15:00:00 -0500
 topics:
   - 10x
   - crowdsourcing
-  - emerging-tech
   - challenges
 # See all authors at https://digital.gov/authors
 authors:
