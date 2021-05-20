@@ -42,15 +42,11 @@ In January 2017, the [United States Access Board](https://www.access-board.gov/)
 
 Details on the four “POUR” principles can be found here: [https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head)
 
-To test for accessibility compliance, the free [AChecker Web Accessibility Checker](https://achecker.ca/checker/) is available and checks against the [WCAG 2.0’s Level AA Conformance](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=a%2Caaa#top) (see Section508.gov’s [Applicability & Conformance Requirements](https://www.section508.gov/create/applicability-conformance) for more information).
-
 ## References
 
 - Akamai Reveals 2 Seconds as The New Threshold of Accessibility for e-Commerce Web Page Response Times | https://www.akamai.com/us/en/about/news/press/2009-press/akamai-reveals-2-seconds-as-the-new-threshold-of-acceptability-for-ecommerce-web-page-responsetimes.jsp
 - Improving Website Accessibility | https://www.section508.gov/content/build/websiteaccessibility-improvement
 - WCAG 2.0 AA Gains Prominence as Website Accessibility Standard | http://www.natlawreview.com/article/wcag-20-aa-gains-prominencewebsite-accessibility-standard
-- Web Accessibility Checker | http://achecker.ca/checker/
-- Web Accessibility Checker Documentation | https://achecker.ca/documentation/index.php?p=checker/index.php
 - Web Content Accessibility Guidelines (WCAG) 2.0 | https://www.w3.org/TR/WCAG20/
 
 ## Additional Resources
