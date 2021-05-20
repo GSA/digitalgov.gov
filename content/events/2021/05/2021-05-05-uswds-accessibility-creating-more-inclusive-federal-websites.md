@@ -25,7 +25,11 @@ slug: uswds-accessibility-creating-more-inclusive-federal-websites
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: uswds-monthly-call-cover-image-may
+
 ---
+
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-may-2021-distro.pptx) (PPT, 8.3 MB, 39 pages)
+
 For Global Accessibility Awareness Day on May 20, join the U.S. Web Design System (USWDS) team to learn how accessibility plays a role in design systems, including USWDS. We will share what we do and offer insights about what you can do to ensure accessibility remains a top priority in our delivery of federal government services. Join us for this call as we offer tips and tools, checklists, and checkpoints to ensure an inclusive path of success!
 
 The information in this month’s call will be beneficial for both novices and specialized experts, including content managers, designers, and developers who are interested in learning about [accessibility](https://digital.gov/topics/accessibility/) and design systems.
