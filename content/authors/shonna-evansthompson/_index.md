@@ -1,9 +1,9 @@
 ---
-# View this page at https://digital.gov/authors/shonna-evans-thompson
+# View this page at https://digital.gov/authors/shonna-evansthompson
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug — the specific user-id for an author
-slug: shonna-evans-thompson
+slug: shonna-evansthompson
 display_name: "Shonna Evans-Thompson"
 first_name: "Shonna"
 last_name: "Evans-Thompson"
