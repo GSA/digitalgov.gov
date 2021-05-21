@@ -37,10 +37,9 @@ One technique is to spur discussion. Do that by posting a relevant article, with
 {{< box >}}
 Subject: ARTICLE: Using Chatbots To Improve Customer Experience
 
-Body:
-Check out this article on Using Chatbots To Improve Customer Experience. Better customer experience, faster response time, and longer availability are some of the many benefits of leveraging automation and artificial intelligence (AI). As more federal teams consider the use of chatbots to improve access for millions of people needing government services, here are some tips and lessons learned from three different case studies.
+Body: Check out this article on Using Chatbots To Improve Customer Experience. Better customer experience, faster response time, and longer availability are some of the many benefits of leveraging automation and artificial intelligence (AI). As more federal teams consider the use of chatbots to improve access for millions of people needing government services, here are some tips and lessons learned from three different case studies.
 
-Read the article: Using Chatbots To Improve Customer Experience.
+Read the article: [Using Chatbots To Improve Customer Experience](Using Chatbots To Improve Customer Experience).
 {{< /box >}}
 
 People can share the email with their own teams or respond to the list with comments or questions. You can also follow up with related case studies or articles about the topic.
@@ -50,12 +49,9 @@ People can share the email with their own teams or respond to the list with comm
 Another technique is to bring up a problem you’re facing. I add DISCUSS to the subject line.
 
 {{< box >}}
-Subject: ARTICLE: Using Chatbots To Improve Customer Experience
-
-Body:
 Subject: DISCUSS: Does your communications team consider Plain Language enough?
 
-Body:We here at the Plain Language Community of Practice (CoP) believe that using plain language saves federal agencies time and money and provides better service to the American public. Do you feel your communications team considers plain language enough?
+Body: We here at the Plain Language Community of Practice (CoP) believe that using plain language saves federal agencies time and money and provides better service to the American public. Do you feel your communications team considers plain language enough?
 {{< /box >}}
 
 Sometimes people respond to the entire community; sometimes they respond just to me. But it gets people thinking and responding, and sometimes it redirects a conversation.
@@ -71,8 +67,7 @@ A popular technique is to share job openings. In the subject line, I put JOB: na
 {{< box >}}
 Subject: JOB, General Services Administration (GSA), January 20: Plain Language Editor 
 
-Body:\
-GSA is looking for a plain language editor: \[Insert link]
+Body:\GSA is looking for a plain language editor: \[Insert link]
 
 I know nothing more about this position.
 
@@ -89,8 +84,7 @@ Post events, not only for your own CoP, but from other CoPs, including conferenc
 {{< box >}}
 Subject: EVENT, How To Navigate Challenges To Successfully A/B Test Your Emails 
 
-Body:\
-Join members of Digital.gov’s [A/B Testing Community of Practice](https://digital.gov/communities/a-b-testing-community/) on 1/11/2021 to learn how to A/B test your emails. Register below.
+Body:\Join members of Digital.gov’s [A/B Testing Community of Practice](https://digital.gov/communities/a-b-testing-community/) on 1/11/2021 to learn how to A/B test your emails. Register below.
 
 https://digital.gov/event/2021/01/11/how-to-navigate-challenges-to-successfully-a-b-test-your-emails/
 
