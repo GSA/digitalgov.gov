@@ -3,9 +3,7 @@ date: 2021-05-21 09:31:00 -0500
 kicker: Communities
 title: 8 Ways Community of Practice (CoP) Managers Can Improve Member Engagement
   on Listservs
-deck: This may be your first time managing a CoP. Don’t worry; we’re not
-  throwing you into the water. Here’s some ideas to get you started from a
-  veteran community manager.
+deck: 
 summary: Are you a Digital.gov Community of Practice (CoP) lead? Find yourself
   participating in a CoP discussion and wondering what else you can do? We’ve
   got some suggestions.
