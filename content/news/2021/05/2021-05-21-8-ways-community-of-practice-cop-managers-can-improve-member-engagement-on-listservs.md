@@ -35,9 +35,9 @@ My experience as a community of practice manager spans managing the Digital.gov 
 One technique is to spur discussion. Do that by posting a relevant article, with a quote and a link. Title the message so the topic and purpose are clear. I add the word ARTICLE to the subject line.
 
 {{< box >}}
-**Subject:** ARTICLE: Using Chatbots To Improve Customer Experience
+**Subject line:** ARTICLE: Using Chatbots To Improve Customer Experience
 
-**Body:** Check out this article on Using Chatbots To Improve Customer Experience. Better customer experience, faster response time, and longer availability are some of the many benefits of leveraging automation and artificial intelligence (AI). As more federal teams consider the use of chatbots to improve access for millions of people needing government services, here are some tips and lessons learned from three different case studies.
+**Body copy:** Check out this article on Using Chatbots To Improve Customer Experience. Better customer experience, faster response time, and longer availability are some of the many benefits of leveraging automation and artificial intelligence (AI). As more federal teams consider the use of chatbots to improve access for millions of people needing government services, here are some tips and lessons learned from three different case studies.
 
 Read the article: [Using Chatbots To Improve Customer Experience](Using Chatbots To Improve Customer Experience).
 {{< /box >}}
