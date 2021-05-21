@@ -1,6 +1,5 @@
 ---
 display_name: Jonathan Clinton
-slug: jonathan-clinton
 first_name: Jonathan
 last_name: Clinton
 # If you include an email address, it will be displayed on your profile page
@@ -11,5 +10,5 @@ bio: "Jonathan Clinton is GSA’s Acting Deputy Chief Financial Officer and the 
 agency_full_name: U.S. General Services Administration
 # Agency Acronym [e.g., GSA]
 agency: GSA
-
+slug: jonathan-clinton
 ---
