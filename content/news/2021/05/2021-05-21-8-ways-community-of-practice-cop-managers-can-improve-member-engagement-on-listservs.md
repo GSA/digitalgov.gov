@@ -94,7 +94,7 @@ It doesn’t make a difference whether the events are free or not; people make t
 
 **Other subject lines to use**
 
-In closing, here are four additional examples of subject line introductions you can use to share information that your members will be able to easily identify.
+In closing, here are four additional examples of subject line introductions, courtesy of [DC Web Women](https://www.dcwebwomen.org/), you can use to share information that your members will be able to easily identify.
 
 * **ISO (I Seek Only)**: You’re looking for a particular thing or a particular person.
 * **Q or QUESTION**: You have a question about any tech topic related to jobs, software, hardware, a problem you’re having with any of the above, etc.
