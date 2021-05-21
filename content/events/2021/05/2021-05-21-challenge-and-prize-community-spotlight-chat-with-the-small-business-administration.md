@@ -1,8 +1,7 @@
 ---
 title: Challenge and Prize Community Spotlight Chat with the Small Business
   Administration
-deck: Insights from running the Lab-to-Market Inclusive Innovation Ecosystem
-  Prize Competition
+deck: 
 kicker: Spotlight Chat
 summary: A discussion of lessons learned from implementing the Lab-to-Market
   (L2M) Inclusive Innovation Ecosystem prize competition with members of the
@@ -33,7 +32,9 @@ slug: challenge-and-prize-community-spotlight-chat-with-the-small-business-admin
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: ""
+
 ---
+
 Spotlight Chats are a series of moderated discussions with innovation leaders across government highlighting success stories and lessons learned. In this event, members of the planning group for the [Lab-to-Market (L2M) Inclusive Innovation Ecosystem Prize Competition](https://www.sbir.gov/l2m) will describe their journey through design and implementation. They will also share best practices and considerations when organizing similar competitions and selecting prize winners. 
 
 The panelists include planning group members from the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP), the [U.S. Small Business Administration](https://www.sba.gov/) (SBA), and the [Science and Technology Policy Institute](https://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute) (STPI)-- one of three federally funded research and development centers of the [Institute for Defense Analyses](https://www.ida.org/) (IDA), a non-profit corporation that assists the federal government in addressing national security issues.
