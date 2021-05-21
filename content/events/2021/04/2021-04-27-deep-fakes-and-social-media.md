@@ -26,8 +26,10 @@ authors:
 slug: deep-fakes-and-social-media
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: deepfakes-and-social-media-title-card
+youtube_id: 5scPC80llnc
+
 ---
+
 Deep fakes are an emerging threat that can disrupt agencies’ communication efforts and federal agencies should be prepared. The term deep fake is typically used to refer to a video that has been edited using an algorithm to replace the person in the original video with someone else (especially a public figure) in a way that makes the video look authentic.
 
 Join the SocialGov Community of Practice and other federal government employees to hear from **Alex Cohen**, Director of Emerging Technologies for GSA’s Office of Technology Policy. Alex will be discussing the emerging threat of deep fake technology, specifically on social media, and how federal agencies can make a plan to combat a deep fake if they are targeted.
