@@ -67,7 +67,7 @@ A popular technique is to share job openings. In the subject line, I put JOB: na
 {{< box >}}
 Subject: JOB, General Services Administration (GSA), January 20: Plain Language Editor 
 
-Body:\GSA is looking for a plain language editor: \[Insert link]
+Body: GSA is looking for a plain language editor: Insert link
 
 I know nothing more about this position.
 
@@ -84,7 +84,7 @@ Post events, not only for your own CoP, but from other CoPs, including conferenc
 {{< box >}}
 Subject: EVENT, How To Navigate Challenges To Successfully A/B Test Your Emails 
 
-Body:\Join members of Digital.gov’s [A/B Testing Community of Practice](https://digital.gov/communities/a-b-testing-community/) on 1/11/2021 to learn how to A/B test your emails. Register below.
+Body: Join members of Digital.gov’s [A/B Testing Community of Practice](https://digital.gov/communities/a-b-testing-community/) on 1/11/2021 to learn how to A/B test your emails. Register below.
 
 https://digital.gov/event/2021/01/11/how-to-navigate-challenges-to-successfully-a-b-test-your-emails/
 
