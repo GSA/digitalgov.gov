@@ -12,6 +12,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - gabrielle-perret
+  - jonathan-clinton
 slug: 3-things-you-should-know-about-the-federal-rpa-use-case-inventory
 primary_image: rpa-stock-photo-2
 # Controls how this page appears across the site
