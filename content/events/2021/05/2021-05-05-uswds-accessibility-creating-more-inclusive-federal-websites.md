@@ -24,7 +24,7 @@ authors:
 slug: uswds-accessibility-creating-more-inclusive-federal-websites
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: uswds-monthly-call-cover-image-may
+youtube_id: D-CQtJYBZz0
 
 ---
 
