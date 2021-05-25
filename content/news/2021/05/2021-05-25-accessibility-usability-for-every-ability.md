@@ -1,6 +1,6 @@
 ---
 # Originally published at the following URL
-source_url: "https://designsystem.digital.gov/documentation/accessibility/ "
+source_url: "https://designsystem.digital.gov/documentation/accessibility/"
 source: uswds
 date: 2021-05-25 09:26:00 -0500
 kicker: Accessibility
