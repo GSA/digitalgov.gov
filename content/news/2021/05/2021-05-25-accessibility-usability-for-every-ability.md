@@ -5,16 +5,8 @@ source: uswds
 date: 2021-05-25 09:26:00 -0500
 kicker: Accessibility
 title: "Accessibility: Usability for Every Ability"
-deck: "**Accessibility: Usability for Every Ability**&mdash;Incorporate
-  accessibility from the start, design generously, and celebrate accessibility
-  requirements as a set of design constraints that help us build products and
-  services for those who need it most, and better products and services for all
-  users."
-summary: "**Accessibility: Usability for Every Ability**&mdash;Incorporate
-  accessibility from the start, design generously, and celebrate accessibility
-  requirements as a set of design constraints that help us build products and
-  services for those who need it most, and better products and services for all
-  users."
+deck: "**Accessibility: Usability for Every Ability**&mdash;Accessibility enables full participation, and everyone who works on government websites has a role to play in making federal resources accessible and inclusive."
+summary: "**Accessibility: Usability for Every Ability**&mdash;Accessibility enables full participation, and everyone who works on government websites has a role to play in making federal resources accessible and inclusive."
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
