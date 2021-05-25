@@ -187,7 +187,6 @@ Digital Government University (DGU) offers a series of trainings based on these 
 ### Other Web resources
 
 * [a11yTips](http://dboudreau.tumblr.com/)
-* [Accessible Joe](http://accessiblejoe.com/tools/)
 * [WebAIM](http://webaim.org/)
 * [Usability.gov](http://www.usability.gov/)
 * [DANYA T.H.I.S. Social Media Accessibility Google Hangout](https://www.youtube.com/watch?v=DKXXKtFRNlQ)
