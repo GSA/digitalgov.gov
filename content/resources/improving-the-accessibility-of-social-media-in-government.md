@@ -186,13 +186,10 @@ Digital Government University (DGU) offers a series of trainings based on these 
 
 ### Other Web resources
 
-* [a11yTips](http://dboudreau.tumblr.com/)
 * [WebAIM](http://webaim.org/)
 * [Usability.gov](http://www.usability.gov/)
-* [DANYA T.H.I.S. Social Media Accessibility Google Hangout](https://www.youtube.com/watch?v=DKXXKtFRNlQ)
 * [W3 Accessibility Testing](http://www.w3.org/wiki/Accessibility_testing)
 * [WAVE Accessibility Testing](http://wave.webaim.org/)
-* [Ask JAN SNAP Tool](http://askjan.org/bulletins/SNAPTool.htm)
 * [W3 Web Accessibility Initiative](http://www.w3.org/WAI/)
 
 <h2 id="provide" style="padding-top: 50px">
