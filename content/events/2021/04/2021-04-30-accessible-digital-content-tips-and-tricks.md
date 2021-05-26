@@ -23,7 +23,11 @@ authors:
 slug: accessible-digital-content-tips-and-tricks
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
+
+[View the slides](https://digital.gov/pdf/accessibility-tips-tricks-may-2021.pdf) (PDF, 491 KB, 16 pages)
+
 This session is intended to bring attention to some of the common errors and issues that users have when developing accessible content; including presentations, spreadsheets, and documents. 
 
 The hosts will take attendees through a set of common issues and then provide live demonstration on how to resolve the issue or how to create the item in an accessible manner from the start.
