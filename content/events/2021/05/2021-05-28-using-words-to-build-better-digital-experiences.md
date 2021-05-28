@@ -11,8 +11,8 @@ host: lain Language Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/using-words-to-build-better-digital-experiences-tickets-157093068597
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4802545&CustomerID=321
-date: 2021-05-28 10:14:00 -0500
-end_date: 2021-05-28 10:14:00 -0500
+date: 2021-06-09 14:00:00 -0500
+end_date: 2021-06-09 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
@@ -24,6 +24,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
+  - Andy-welfie
 slug: using-words-to-build-better-digital-experiences
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
