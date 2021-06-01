@@ -7,14 +7,13 @@ summary: "How to contact the Digital.gov team."
 
 **Digital.gov** is made up of a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
 
-**Digital.gov:** Sara Cope, Toni Bonitto <br/>
+**Digital.gov:** Toni Bonitto <br/>
 **Communities:**  Alexandar Schulte <br/>
-**Video and Events:** Gabrielle Fratanduono, Mara Goldberg <br/>
-**U.S. Web Design System:** Dan Williams <br/>
+**Events:** Gabrielle Fratanduono, Mara Goldberg <br/>
 
 For a wider list of contacts, see our [**Directory of services, tools, and teams**]({{< ref "/services/directory.md" >}}) »
 
-:envelope: Questions or feedback? send an email to Sara Cope or Toni Bonitto at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
+:envelope: Questions or feedback? send an email to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 
 :video_camera: For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
