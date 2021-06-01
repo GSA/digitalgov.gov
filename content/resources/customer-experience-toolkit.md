@@ -44,7 +44,7 @@ Make the customer experience a strategic priority for your entire organization.
 ### Share high-level priorities and goals
 
 * Publicly share goals and priorities to increase accountability
-    * [Agency Strategic Goals](http://www.performance.gov/clear_goals?page=1&stra_goal=1&prio_goal=0&fed_goal=0&goal_type=ASG) &#8211; Performance.gov
+    * [Agency Strategic Goals](https://obamaadministration.archives.performance.gov/clear_goals.1.html) &#8211; Performance.gov
     * See agency Customer Service Plans on their [Open Government pages](https://obamawhitehouse.archives.gov/open/about/working-group)
 * See what other agencies are doing
     * [Strategic Plan FY2014-2018](https://www.opm.gov/about-us/budget-performance/strategic-plans/2014-2018-strategic-plan.pdf) and [Mission, Goals and Priorities](https://www.opm.gov/about-us/budget-performance/goals-priorities) &#8211; Office of Personnel Management (OPM)
