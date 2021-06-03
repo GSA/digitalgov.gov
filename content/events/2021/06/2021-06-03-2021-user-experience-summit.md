@@ -30,11 +30,10 @@ Please find descriptions and agendas for the summit sessions below:
 
 {{< accordion kicker="Day 1" title="Tuesday, June 22, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
 
-## Tuesday, June 22, 2021 11:00 AM – 4:00 PM ET
 
 ### Keynote: The Future of Design Must Be Trauma-Informed (11:00 am - 12:00 pm, ET)
 
-####* After more than a year of living through a pandemic, we are all experiencing new normals, new ways of being, and new traumas. Rachael Dietkus will talk about her journey from an [AmeriCorps](https://americorps.gov/) member in 1998, to her time as a federal employee from 2010 - 2016, and her current work as a social worker and design researcher focused on trauma in design.
+After more than a year of living through a pandemic, we are all experiencing new normals, new ways of being, and new traumas. Rachael Dietkus will talk about her journey from an [AmeriCorps](https://americorps.gov/) member in 1998, to her time as a federal employee from 2010 - 2016, and her current work as a social worker and design researcher focused on trauma in design.
 
 In this session you will hear from the following speaker:
 
@@ -82,8 +81,6 @@ In this session you will hear from the following speakers:
 ---
 
 {{< accordion kicker="Day 2" title="Wednesday, June 23, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
- 
-## Wednesday, June 23, 2021 11:00 AM – 4:00 PM ET
 
 ### Equity-Centered Design: Challenges in Government (11:00 am - 12:00 pm, ET)
 
@@ -155,8 +152,6 @@ In this session you will hear from the following speakers:
 
 {{< accordion kicker="Day 3" title="Thursday, June 24, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
 
-## Thursday, June 24, 2021 11:00 AM – 4:00 PM ET
-
 ### Conscious Uncoupling:  Innovative Ways to Separate User Habits From User Needs (11:00 am - 12:00 pm, ET)
 
 We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way? When behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
@@ -208,9 +203,9 @@ State-level digital service teams are still a relatively new entity in the civic
 
 In this session you will hear from the following speakers:
 
-* Randy Hart - 18F/General Services Administration (GSA)
-* Stephanie Cain - Colorado Digital Service
-* Karyn Lu - Colorado Digital Service
+* **Randy Hart** - 18F/General Services Administration (GSA)
+* **Stephanie Cain** - Colorado Digital Service
+* **Karyn Lu** - Colorado Digital Service
 
 - - -
 
@@ -220,9 +215,9 @@ Human-centered design is critical to the success of building modern services. Es
 
 In this session you will hear from the following speakers:
 
-* Nicole Pham, Centers for Medicare & Medicaid Services (CMS)
-* Alberto Colon Viera, Centers for Medicare & Medicaid Services (CMS)
-* Sarah Tully, Centers for Medicare & Medicaid Services (CMS)
+* **Nicole Pham** - Centers for Medicare & Medicaid Services (CMS)
+* **Alberto Colon Viera** - Centers for Medicare & Medicaid Services (CMS)
+* **Sarah Tully** - Centers for Medicare & Medicaid Services (CMS)
 
 {{< /accordion >}}
 
