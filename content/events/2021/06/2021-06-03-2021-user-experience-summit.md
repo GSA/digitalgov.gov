@@ -28,6 +28,8 @@ Each session will begin at 11:00 a.m., ET, and conclude at 4:00 p.m., ET each da
 
 Please find descriptions and agendas for the summit sessions below:
 
+{{< accordion kicker="Day 1" title="Tuesday, June 22, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
+
 ## Tuesday, June 22, 2021 11:00 AM – 4:00 PM ET
 
 ### Keynote: The Future of Design Must Be Trauma-Informed (11:00 am - 12:00 pm, ET) 
@@ -75,18 +77,23 @@ In this session you will hear from the following speakers:
 * Marc Hebert — City and County of San Francisco, Human Services Agency
 * Darnell Sessoms — NYC Mayor’s Office for Economic Opportunity 
 
-\---- 
+{{< /accordion >}}
 
+---
+
+{{< accordion kicker="Day 2" title="Wednesday, June 23, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
+ 
 ## Wednesday, June 23, 2021 11:00 AM – 4:00 PM ET
 
-### Equity-Centered Design: Challenges in Government (11:00 am - 12:00 pm, ET) 
+### Equity-Centered Design: Challenges in Government (11:00 am - 12:00 pm, ET)
 
-#### 18F’s research practice is evolving from user-centered design toward equity-centered design , an approach that addresses power imbalances between researchers and participants. Equity-centered design seeks to provide value back to participants. It provides mechanisms to identify potential hazards and harms in the services and products we create. Prioritizing equity can result in safer, more equitable access to government services for everyone, including those in marginalized groups. In this session we’ll share our vision of a more equitable 18F research practice, how we’re overcoming government-specific hurdles to engage in better collaboration with research participants and communities, and tips you can incorporate into your practice.
+18F’s research practice is evolving from user-centered design toward equity-centered design, an approach that addresses power imbalances between researchers and participants. Equity-centered design seeks to provide value back to participants. It provides mechanisms to identify potential hazards and harms in the services and products we create. Prioritizing equity can result in safer, more equitable access to government services for everyone, including those in marginalized groups. In this session we’ll share our vision of a more equitable 18F research practice, how we’re overcoming government-specific hurdles to engage in better collaboration with research participants and communities, and tips you can incorporate into your practice.
+
 
 In this session you will hear from the following speakers:
 
-*  Ben Peterson, 18F, GSA
-* Julie Strothman, 18F, GSA
+* Ben Peterson* — 18F, GSA
+* Julie Strothman — 18F, GSA
 
 - - -
 
@@ -96,10 +103,8 @@ Remote design research presents a myriad of challenges, and one of the more abst
 
 In this session you will hear from the following speakers:
 
-* Alexander Hoover, U.S. Department of Homeland Security (DHS)
-* Elyse Voegeli, New York City Mayor's Office of the Chief Technology Officer
-
-
+* Alexander Hoover — U.S. Department of Homeland Security (DHS)
+* Elyse Voegeli — New York City Mayor's Office of the Chief Technology Officer
 
 - - -
 
@@ -109,7 +114,7 @@ When user research and usability face tightening deadlines, deadlines usually wi
 
 In this session you will hear from the following speaker:
 
-* Tait Chamberlain, U.S. Department of Education (ED)
+* Tait Chamberlain — U.S. Department of Education (ED)
 
 - - -
 
@@ -119,8 +124,8 @@ Why invest in discovery research to design APIs for government services? What me
 
 In this session you will hear from the following speakers:
 
-* Andrew Fichter, U.S. Department of Veterans Affairs (VA)
-* Maria Vidart-Delgado, Contractor, U.S. Department of Veterans Affairs (VA)
+* Andrew Fichter — U.S. Department of Veterans Affairs (VA)
+* Maria Vidart-Delgado — Contractor, U.S. Department of Veterans Affairs (VA)
 
 - - -
 
@@ -130,7 +135,7 @@ Have you ever wanted to conduct a card sort or tree test, but didn’t have the 
 
 In this session you will hear from the following speaker:
 
-* Shannon McHarg, Office of Natural Resources Revenue (ONRR)
+* Shannon McHarg — Office of Natural Resources Revenue (ONRR)
 
 - - -
 
@@ -140,13 +145,13 @@ Learn how [journey mapping](https://en.wikipedia.org/wiki/User_journey) can help
 
 In this session you will hear from the following speakers:
 
-* Crystal Sprage, Wyandotte County, KS
-* Brandelyn Nichols-Brajkovic, City of Kansas City, KS
-* Irina Tikhonova, UX Designer
+* Crystal Sprage — Wyandotte County, KS
+* Brandelyn Nichols-Brajkovic — City of Kansas City, KS
+* Irina Tikhonova — UX Designer
 
 {{< /accordion >}}
 
-\------- 
+------- 
 
 {{< accordion kicker="Day 3" title="Thursday, June 24, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
 
@@ -158,9 +163,9 @@ We all do things out of habit, whether it’s thawing chicken in the microwave o
 
 In this session you will hear from the following speakers:
 
-* Jessica Marine, U.S. Tax Court
-* Natalie Kurz, Contractor, U.S. Tax Court
-* Kristen Lohman, Contractor, U.S. Tax Court
+* Jessica Marine - U.S. Tax Court
+* Natalie Kurz - Contractor, U.S. Tax Court
+* Kristen Lohman - Contractor, U.S. Tax Court
 
 - - -
 
@@ -180,7 +185,7 @@ Designers across government must build rapport with subject matter experts (SMEs
 
 In this session you will hear from the following speaker:
 
-* Alexis Schilf, Consumer Financial Protection Bureau (CFPB)
+* Alexis Schilf - Consumer Financial Protection Bureau (CFPB)
 
 - - -
 
@@ -190,10 +195,10 @@ In order to improve customer experience at the Nuclear Regulatory Commission (NR
 
 In this session you will hear from the following speakers:
 
-* Scott Flanders, Nuclear Regulatory Commission (NRC)
-* Basia Sall, Nuclear Regulatory Commission (NRC) 
-* Gwen Hayden, Nuclear Regulatory Commission (NRC)
-* Sara Bever, Contractor
+* Scott Flanders - Nuclear Regulatory Commission (NRC)
+* Basia Sall - Nuclear Regulatory Commission (NRC) 
+* Gwen Hayden - Nuclear Regulatory Commission (NRC)
+* Sara Bever - Contractor
 
 - - -
 
@@ -203,11 +208,11 @@ State-level digital service teams are still a relatively new entity in the civic
 
 In this session you will hear from the following speakers:
 
-* Randy Hart, 18F/General Services Administration (GSA)
-* Stephanie Cain, Colorado Digital Service
-* Karyn Lu, Colorado Digital Service
+* Randy Hart - 18F/General Services Administration (GSA)
+* Stephanie Cain - Colorado Digital Service
+* Karyn Lu - Colorado Digital Service
 
-- - -
+---
 
 ### You’re a Human-Centered Designer! Trust Me! (3:00 pm - 4:00 pm, ET)
 
@@ -221,8 +226,5 @@ In this session you will hear from the following speakers:
 
 {{< /accordion >}}
 
-- - -
-
-The 2021 Government UX Summit is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and DigitalGov.
-
-**[The UX CoP](https://digital.gov/communities/user-experience/) is a group of more than 1,450 U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide training, networking, and support for government UX practitioners. Anyone with an interest in UX and a US government email address is encouraged to join**
+---
+_The 2021 Government UX Summit is sponsored by the [User Experience (UX) Community of Practice (CoP)](https://digital.gov/communities/user-experience/) and Digital.gov._
