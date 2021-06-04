@@ -16,7 +16,8 @@ topics:
   - user-experience
   - user-research
 # See all authors at https://digital.gov/authors
-authors: []
+authors:
+  - jean-fox
 slug: 2021-user-experience-summit
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
