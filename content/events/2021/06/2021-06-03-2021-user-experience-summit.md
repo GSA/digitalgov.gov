@@ -47,9 +47,9 @@ When it comes to accessibility more needs to be done to understand how we can be
 
 In this session you will hear from the following speakers:
 
-* **Robert Jolly** — 18F, GSA TTS
-* **Pia Zaragoza** — GSA
-* **Ben Peterson** — GSA
+* **Robert Jolly**, 18F, GSA TTS
+* **Pia Zaragoza**, GSA
+* **Ben Peterson**, GSA
 
 - - -
 
@@ -59,9 +59,9 @@ Improving the customer experience (CX) starts with improving the employee experi
 
 In this session you will hear from the following speakers:
 
-* **Airis Gill** — U.S. Department of Veterans Affairs (VA)
-* **Janet Shimabukuro** — Washington State Department of Revenue
-* **Morgan Montes** — Washington State Department of Revenue
+* **Airis Gill**, U.S. Department of Veterans Affairs (VA)
+* **Janet Shimabukuro**, Washington State Department of Revenue
+* **Morgan Montes**, Washington State Department of Revenue
 
 - - -
 
@@ -71,10 +71,10 @@ UX practitioners value data and evidence. But who determines 1) what data matter
 
 In this session you will hear from the following speakers:
 
-* **Tim Lowden** — Digital Analytics Program (DAP), GSA TTS
-* **Felipe Flores** — Office of Personnel Management (OPM)
-* **Marc Hebert** — City and County of San Francisco, Human Services Agency
-* **Darnell Sessoms** — NYC Mayor’s Office for Economic Opportunity
+* **Tim Lowden**, Digital Analytics Program (DAP), GSA TTS
+* **Felipe Flores**, Office of Personnel Management (OPM)
+* **Marc Hebert**, City and County of San Francisco, Human Services Agency
+* **Darnell Sessoms**, NYC Mayor’s Office for Economic Opportunity
 
 {{< /accordion >}}
 
@@ -89,8 +89,8 @@ In this session you will hear from the following speakers:
 
 In this session you will hear from the following speakers:
 
-* **Ben Peterson** — 18F, GSA
-* **Julie Strothman** — 18F, GSA
+* **Ben Peterson**, 18F, GSA
+* **Julie Strothman**, 18F, GSA
 
 - - -
 
@@ -100,8 +100,8 @@ Remote design research presents a myriad of challenges, and one of the more abst
 
 In this session you will hear from the following speakers:
 
-* **Alexander Hoover** — U.S. Department of Homeland Security (DHS)
-* **Elyse Voegeli** — New York City Mayor's Office of the Chief Technology Officer
+* **Alexander Hoover**, U.S. Department of Homeland Security (DHS)
+* **Elyse Voegeli**, New York City Mayor's Office of the Chief Technology Officer
 
 - - -
 
@@ -111,7 +111,7 @@ When user research and usability face tightening deadlines, deadlines usually wi
 
 In this session you will hear from the following speaker:
 
-* **Tait Chamberlain** — U.S. Department of Education (ED)
+* **Tait Chamberlain**, U.S. Department of Education (ED)
 
 - - -
 
@@ -121,8 +121,8 @@ Why invest in discovery research to design APIs for government services? What me
 
 In this session you will hear from the following speakers:
 
-* **Andrew Fichter** — U.S. Department of Veterans Affairs (VA)
-* **Maria Vidart-Delgado** — Contractor, U.S. Department of Veterans Affairs (VA)
+* **Andrew Fichter**, U.S. Department of Veterans Affairs (VA)
+* **Maria Vidart-Delgado**, Contractor, U.S. Department of Veterans Affairs (VA)
 
 - - -
 
@@ -132,19 +132,19 @@ Have you ever wanted to conduct a card sort or tree test, but didn’t have the 
 
 In this session you will hear from the following speaker:
 
-* **Shannon McHarg** — Office of Natural Resources Revenue (ONRR)
+* **Shannon McHarg**, Office of Natural Resources Revenue (ONRR)
 
 - - -
 
 ### Journey Mapping Access to Justice (3:00 pm - 4:00 pm, ET)
 
-Learn how [journey mapping](https://en.wikipedia.org/wiki/User_journey) can help pinpoint both user needs and process improvement opportunities -- and how, when improved through a user-centered lens you can create policy changes that result in more equitable access to resident services.
+Learn how [journey mapping](https://en.wikipedia.org/wiki/User_journey) can help pinpoint both user needs and process improvement opportunities -- and how, when improved through a user-centered lens, you can create policy changes that result in more equitable access to resident services.
 
 In this session you will hear from the following speakers:
 
-* **Crystal Sprage** — Wyandotte County, KS
-* **Brandelyn Nichols-Brajkovic** — City of Kansas City, KS
-* **Irina Tikhonova** — UX Designer
+* **Crystal Sprage**, Wyandotte County, KS
+* **Brandelyn Nichols-Brajkovic**, City of Kansas City, KS
+* **Irina Tikhonova**, UX Designer
 
 {{< /accordion >}}
 
@@ -154,46 +154,46 @@ In this session you will hear from the following speakers:
 
 ### Conscious Uncoupling:  Innovative Ways to Separate User Habits From User Needs (11:00 am - 12:00 pm, ET)
 
-We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way? When behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
+We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
 
 In this session you will hear from the following speakers:
 
-* **Jessica Marine** - U.S. Tax Court
-* **Natalie Kurz** - Contractor, U.S. Tax Court
-* **Kristen Lohman** - Contractor, U.S. Tax Court
+* **Jessica Marine**, U.S. Tax Court
+* **Natalie Kurz**, Contractor, U.S. Tax Court
+* **Kristen Lohman**, Contractor, U.S. Tax Court
 
 - - -
 
 ### Patient-Powered Innovations: Framing Problems Into Opportunities With Health+ (12:30 pm - 12:50 pm, ET)
 
-As designers and technologists in government, how can we put the American people first, listening and learning from them every step of the way? In this talk, you'll hear about how the [Health+](https://www.hhs.gov/cto/initiatives/digital-services/health-plus/index.html) methodology at the Department of Health and Human Services facilitates patient-centered innovations as part of the [LymeX](https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html) public-private partnership.. You'll learn about the playbook we've created to frame problems effectively, starting first and foremost with your stakeholders that are experts in their lived experiences. You'll also learn about how to apply these human-centered design methods in your own projects.
+As designers and technologists in government, how can we put the American people first, listening and learning from them every step of the way? In this talk, you'll hear about how the [Health+](https://www.hhs.gov/cto/initiatives/digital-services/health-plus/index.html) methodology at the Department of Health and Human Services (HHS) facilitates patient-centered innovations as part of the [LymeX](https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html) public-private partnership. You'll learn about the playbook we've created to frame problems effectively, starting first and foremost with your stakeholders that are experts in their lived experiences. You'll also learn about how to apply these human-centered design methods in your own projects.
 
 In this session you will hear from the following speaker:
 
-* **Alex Wilson** - Health and Human Services (HHS)
+* **Alex Wilson**, HHS
 
 - - -
 
 ### Overturning Precedent, Applying Human-Centered Design to Legal Matters (12:50 pm - 1:10 pm, ET)
 
-Designers across government must build rapport with subject matter experts (SMEs) in economics, policy, and other fields who often bring an analytical approach in tension with the creative methods of design. How do we build bridges across disciplines? This case study will share insights on the application of a human-centered design approach to the [Equal Employment Opportunity process at the Consumer Financial Protection Bureau](https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/) (CFPB). Learn about ways to develop frameworks for co-creation with SMEs, navigating differences between legalese, service design, and plain language, as well as how to move from procedural actions to intentional interactions.
+Designers across government must build rapport with subject matter experts (SMEs) in economics, policy, and other fields who often bring an analytical approach that clashes with the creative methods of design. How do we build bridges across disciplines? This case study will share insights on the application of a human-centered design approach to the [Equal Employment Opportunity process at the Consumer Financial Protection Bureau](https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/) (CFPB). Learn about ways to develop frameworks for co-creation with SMEs, navigating differences between legalese, service design, and plain language, as well as how to move from procedural actions to intentional interactions.
 
 In this session you will hear from the following speaker:
 
-* **Alexis Schilf** - Consumer Financial Protection Bureau (CFPB)
+* **Alexis Schilf**, Consumer Financial Protection Bureau (CFPB)
 
 - - -
 
 ### Establishing a Customer-Centric Culture at NRC (1:10 pm - 1:30 pm , ET)
 
-In order to improve customer experience at the Nuclear Regulatory Commission (NRC), Office of the Chief Information Officer (OCIO) has established a customer experience capability to drive a customer-centric culture and improve IT service delivery. Since inception, OCIO has designed the strategy for implementing CX, built a CX team, gathered data on customer satisfaction rates for IT services, conducted journey mapping exercises, and built several channels for customer feedback to understand the customer perspective.
+In order to improve customer experience at the Nuclear Regulatory Commission (NRC), Office of the Chief Information Officer (OCIO) has established a customer experience (CX) capability to drive a customer-centric culture and improve IT service delivery. Since inception, OCIO has designed the strategy for implementing CX, built a CX team, gathered data on customer satisfaction rates for IT services, conducted journey mapping exercises, and built several channels for customer feedback to understand the customer perspective.
 
 In this session you will hear from the following speakers:
 
-* **Scott Flanders** - Nuclear Regulatory Commission (NRC)
-* **Basia Sall** - Nuclear Regulatory Commission (NRC)
-* **Gwen Hayden** - Nuclear Regulatory Commission (NRC)
-* **Sara Bever** - Contractor
+* **Scott Flanders**, NRC
+* **Basia Sall**, NRC
+* **Gwen Hayden**, NRC
+* **Sara Bever**, Contractor
 
 - - -
 
@@ -203,21 +203,21 @@ State-level digital service teams are still a relatively new entity in the civic
 
 In this session you will hear from the following speakers:
 
-* **Randy Hart** - 18F/General Services Administration (GSA)
-* **Stephanie Cain** - Colorado Digital Service
-* **Karyn Lu** - Colorado Digital Service
+* **Randy Hart**, 18F GSA TTS
+* **Stephanie Cain**, Colorado Digital Service
+* **Karyn Lu**, Colorado Digital Service
 
 - - -
 
 ### You’re a Human-Centered Designer! Trust Me! (3:00 pm - 4:00 pm, ET)
 
-Human-centered design is critical to the success of building modern services. Especially in  government, we should build services for people but also with the people. But how do you build human-centered products that meet people’s needs without the resources for a dedicated human-centered design person?  In this presentation we’ll demonstrate that folks with UX in their title don’t have a monopoly on human centered design  methods. Learn about  our experience as a team of federal staff who use human centered design methods at the Centers for Medicare & Medicaid Services (CMS) to improve healthcare delivery and care coordination for medicare beneficiaries.
+Human-centered design is critical to the success of building modern services. Especially in government, we should build services for people but also with the people - but also _with_ the people. But how do you build human-centered products that meet people’s needs without the resources for a dedicated human centered design person? In this presentation, we’ll demonstrate that folks with UX in their title don’t have a monopoly on human centered design methods. Learn about our experience as a team of federal staff who use human centered design methods at the Centers for Medicare & Medicaid Services (CMS) to improve healthcare delivery and care coordination for medicare beneficiaries.
 
 In this session you will hear from the following speakers:
 
-* **Nicole Pham** - Centers for Medicare & Medicaid Services (CMS)
-* **Alberto Colon Viera** - Centers for Medicare & Medicaid Services (CMS)
-* **Sarah Tully** - Centers for Medicare & Medicaid Services (CMS)
+* **Nicole Pham**, CMS
+* **Alberto Colon Viera**, CMS
+* **Sarah Tully**, CMS
 
 {{< /accordion >}}
 
