@@ -1,7 +1,4 @@
 ---
-# Originally published at the following URL
-source_url: https://digital.gov/event/2021/05/18/deep-fakes-and-social-media/
-source: digitalgov
 date: 2021-06-08 11:21:00 -0500
 kicker: Social Media
 title: "Deep Fakes and Social Media: A Q&A With Alex Cohen"
