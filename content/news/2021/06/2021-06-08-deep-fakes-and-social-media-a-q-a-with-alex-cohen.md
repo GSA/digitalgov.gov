@@ -22,8 +22,10 @@ slug: deep-fakes-and-social-media-a-qa-with-alex-cohen
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
-*The questions below were curated from attendees of the [Deep Fakes and Social Media Webinar](https://digital.gov/event/2021/05/18/deep-fakes-and-social-media/), hosted by SocialGov Community of Practice and Digital.gov on May 18, 2021. Questions were moderated by SocialGov Community of Practice Board Chairwoman Gabrielle Perret, of the U.S. General Services Administration (GSA), and answered by Director of Emerging Technologies for GSA’s Office of Technology Policy, Alex Cohen.*
+
+*The questions below were curated from attendees of the [Deep Fakes and Social Media Webinar](https://digital.gov/event/2021/05/18/deep-fakes-and-social-media/), hosted by the SocialGov Community of Practice and Digital.gov on May 18, 2021. Questions were moderated by SocialGov Community of Practice Board Chairwoman Gabrielle Perret, of the U.S. General Services Administration (GSA), and answered by Director of Emerging Technologies for GSA’s Office of Technology Policy, Alex Cohen.*
 
 **Q:** What are some surprising things you have learned about deepfakes?
 
