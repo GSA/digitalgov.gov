@@ -26,7 +26,9 @@ primary_image: ux-summit-2021
 
 On **June 22, June 23, and June 24, 2021**, the [User Experience (UX) Community of Practice (CoP)](https://digital.gov/communities/user-experience/) will bring together experts to share their experiences as UX practitioners in the federal government.
 
-Each session will begin at 11:00 a.m., ET, and conclude at 4:00 p.m., ET each day of the summit. There will be a 15 minute break after each presentation. When registering, please select the days you would like to attend directly on the registration page to receive the correct Zoom for Government links and conference details.
+Each session will begin at 11:00 am, ET, and conclude at 4:00 pm, ET each day of the summit. There will be a 15-minute break after each presentation.
+
+When registering, please select the days you would like to attend directly on the registration page to receive the correct Zoom for Government links and conference details.
 
 Please find descriptions and agendas for the summit sessions below:
 
