@@ -14,11 +14,14 @@ topics:
 authors:
   - wanmei-ou
 slug: innovating-across-highly-regulated-industries-and-the-federal-government
+primary_image: wanmei-ou-ife-event
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 When I joined the federal government as a [Presidential Innovation Fellow](https://pif.gov) (PIF), I expected to be working somewhere drastically different than industry. As a [data science and software leader with experience spanning the full healthcare continuum](https://presidentialinnovationfellows.gov/fellows/wanmei-ou/), I was excited to be bringing my skills into a role of public service, where I would be working across health innovation teams in the U.S. Department of Veterans Affairs (VA). Now 18 months in, I’ve found more similarities than differences between high-regulated companies and the federal government. In this blog, I share some of the parallels I’ve experienced, and lessons healthcare innovators can use to improve their work in any sector.
 
 Government and large, highly-regulated companies share two important qualities. For each, I’ve used a data-driven and entrepreneurial mindset to co-create progress alongside fellow colleagues and public servants.
@@ -32,7 +35,5 @@ I’ve found that working in the federal government is also different in two imp
 * With mission in mind, understand that you don’t have to understand everything. For example, I joined government from corporate America, and business operations are unique in the federal government and are something I’m still learning about. One example is what budgets can be used, and why. One of my first projects at VA was a collaboration between the Veterans Health Administration (VHA) and the Department of Energy (DoE). I was scheduled for a work trip to DoE's Oak Ridge National Laboratory to finalize project deliverables between November 21-22, 2019. However, the seven-week continuous resolution signed by the president only covered up to 11:59 p.m. on November 20, 2019 (continuous resolutions can prevent a government shutdown between budget approvals year over year). While a government shutdown was looming, my VA Office of Information and Technology (OIT) colleagues and I were not allowed to book travel on or after November 21. At the very last minute, on the morning of November 20, my VHA collaborator offered to sponsor my trip using a separate funding stream that was related to the collaboration but not subjected to the November 20 resolution deadline. I cannot claim I fully understand the accounting details behind this, and the surprises continue, but that’s okay. The most important thing I remind myself is: Focus on the mission and build a business case. Armed with strong data, customer insights, and roadmaps, my colleagues and I stay aligned on what’s most important, and get work done no matter what.
 
 Drawing parallels between the federal government and highly-regulated companies helped me quickly figure out the lay of land while on-boarding to the PIF program. However, there are also unique aspects of the federal government, and one has to respect, adapt and leverage the differences in order to make a sustainable innovation legacy during the PIF tenure.
-
-\---
 
 *Are you passionate about technology as a tool to improve lives? Interested in using your expertise for public good? That’s what Presidential Innovation Fellows (PIF) is all about. Learn more about PIF on [our website](https://pif.gov), and follow us on [Twitter](https://twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our Fellows.*
