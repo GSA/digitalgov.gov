@@ -24,13 +24,13 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
-  - andy-welfie
+  - andy-welfle
 slug: plain-language-webinar-using-words-to-build-better-digital-experiences
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: plain-language
 ---
-Writing is part of the design process, and writers are designers. Content design is a new way of thinking about writing, how it works, and why it works. In this session, Andy Welfie will explain how words make digital experiences human-centered. As federal agencies strive to use human-centered design, this webinar will reinforce to the audience that words and design work together.
+Writing is part of the design process, and writers are designers. Content design is a new way of thinking about writing, how it works, and why it works. In this session, Andy Welfle will explain how words make digital experiences human-centered. As federal agencies strive to use human-centered design, this webinar will reinforce to the audience that words and design work together.
 
 Without words, apps would be an unusable jumble of shapes and icons—and voice interfaces and chatbots wouldn’t even exist. Words make digital experiences human-centered, and require just as much thought as the branding and code. See how interfaces rely on language, and how your writing can make or break an experience. Learn principles for UX writing that anyone who works on digital products can apply to their own work. 
 
@@ -42,7 +42,7 @@ During the session, Andy will discuss how to:
 
 ### Speaker:
 
-* **[Andy Welfie](https://digital.gov/authors/andy-welfie/),** author, Plain Language and design expert.
+* **[Andy Welfle](https://digital.gov/authors/andy-welfle/),** author, Plain Language and design expert.
 
 **Following the curated discussion, there will be an opportunity for Q & A. Please submit questions in advance by emailing [info@plainlanguage.gov](mailto:info@plainlanguage.gov). We will answer as many questions as time allows.**
 
