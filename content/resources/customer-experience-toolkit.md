@@ -7,6 +7,7 @@ topics:
   - cx
 authors:
   - rflagg
+
 ---
 
 Customer Experience (CX) is defined as the sum of all experiences a customer has with your organization. Since government is often a sole-source service provider (e.g., there’s only one place to pay taxes, or get a driver’s license), CX is even more important in the public sector than in other organizations. If that’s not enough to convince you, view this [webinar on why federal agencies must improve CX](https://www.youtube.com/watch?v=JFJg-8KwR9I).
@@ -164,7 +165,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
     * [Using Customer Feedback to Improve Healthcare.gov](https://digital.gov/2015/09/17/using-customer-feedback-to-improve-healthcare-gov/)
 * Review website and search data to identify the most-viewed/popular content
     * [DAP/Google Analytics](https://digital.gov/guides/dap/) - web analytics
-    * [Search.gov](http://www.search.gov/) - website search 
+    * [Search.gov](http://www.search.gov/) - website search
 
 ### Identify common questions
 
@@ -187,6 +188,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
 * [Connecting with the Social and Behavioral Sciences Team](https://digital.gov/2015/12/09/connecting-with-the-social-and-behavioral-sciences-team/)
 
 ### Be accessible
+
 * [Accessibility Guides and Resources](https://digital.gov/resources/#accessibility)
 
 ### Be agile
