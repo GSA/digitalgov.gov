@@ -41,7 +41,7 @@ After more than a year of living through a pandemic, we are all experiencing new
 
 In this session you will hear from the following speaker:
 
-* **Rachel Dietkus**
+* **Rachael Dietkus**
 
 - - -
 
@@ -52,8 +52,8 @@ When it comes to accessibility more needs to be done to understand how we can be
 In this session you will hear from the following speakers:
 
 * **Robert Jolly** &mdash; 18F, GSA TTS
-* **Pia Zaragoza** &mdash; GSA
 * **Ben Peterson** &mdash; GSA
+* **Pia Zaragoza** &mdash; Presidential Innovation Fellow (PIF), TTS
 
 - - -
 
@@ -64,8 +64,8 @@ Improving the customer experience (CX) starts with improving the employee experi
 In this session you will hear from the following speakers:
 
 * **Airis Gill** &mdash; U.S. Department of Veterans Affairs (VA)
-* **Janet Shimabukuro**, Washington State Department of Revenue
 * **Morgan Montes**, Washington State Department of Revenue
+* **Janet Shimabukuro**, Washington State Department of Revenue
 
 - - -
 
@@ -75,9 +75,9 @@ UX practitioners value data and evidence. But who determines 1) what data matter
 
 In this session you will hear from the following speakers:
 
-* **Tim Lowden** &mdash; Digital Analytics Program (DAP), GSA TTS
 * **Felipe Flores** &mdash; Office of Personnel Management (OPM)
 * **Marc Hebert** &mdash; City and County of San Francisco, Human Services Agency
+* **Tim Lowden** &mdash; Digital Analytics Program (DAP), GSA TTS
 * **Darnell Sessoms** &mdash; NYC Mayor’s Office for Economic Opportunity
 
 {{< /accordion >}}
@@ -146,8 +146,8 @@ Learn how [journey mapping](https://en.wikipedia.org/wiki/User_journey) can help
 
 In this session you will hear from the following speakers:
 
-* **Crystal Sprage** &mdash; Wyandotte County, KS
 * **Brandelyn Nichols-Brajkovic** &mdash; City of Kansas City, KS
+* **Crystal Sprage** &mdash; Wyandotte County, KS
 * **Irina Tikhonova** &mdash; UX Designer
 
 {{< /accordion >}}
@@ -162,9 +162,9 @@ We all do things out of habit, whether it’s thawing chicken in the microwave o
 
 In this session you will hear from the following speakers:
 
-* **Jessica Marine** &mdash; U.S. Tax Court
 * **Natalie Kurz** &mdash; Contractor, U.S. Tax Court
 * **Kristen Lohman** &mdash; Contractor, U.S. Tax Court
+* **Jessica Marine** &mdash; U.S. Tax Court
 
 - - -
 
@@ -194,10 +194,10 @@ In order to improve customer experience at the Nuclear Regulatory Commission (NR
 
 In this session you will hear from the following speakers:
 
-* **Scott Flanders** &mdash; NRC
-* **Basia Sall** &mdash; NRC
-* **Gwen Hayden** &mdash; NRC
 * **Sara Bever** &mdash; Contractor
+* **Scott Flanders** &mdash; NRC
+* **Gwen Hayden** &mdash; NRC
+* **Basia Sall** &mdash; NRC
 
 - - -
 
@@ -207,8 +207,8 @@ State-level digital service teams are still a relatively new entity in the civic
 
 In this session you will hear from the following speakers:
 
-* **Randy Hart** &mdash; 18F, GSA TTS
 * **Stephanie Cain** &mdash; Colorado Digital Service
+* **Randy Hart** &mdash; 18F, GSA TTS
 * **Karyn Lu** &mdash; Colorado Digital Service
 
 - - -
@@ -219,8 +219,8 @@ Human-centered design is critical to the success of building modern services. Es
 
 In this session you will hear from the following speakers:
 
-* **Nicole Pham** &mdash; CMS
 * **Alberto Colon Viera** &mdash; CMS
+* **Nicole Pham** &mdash; CMS
 * **Sarah Tully** &mdash; CMS
 
 {{< /accordion >}}
