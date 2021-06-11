@@ -225,7 +225,7 @@ United States Courts (Sitefinity [Intranet])
 
 [Voice of America](http://www.voanews.com/) (Pangea)
 
-[White House](http://www.whitehouse.gov/) (Drupal)
+[White House](http://www.whitehouse.gov/) (Wordpress)
 
 ## State Government
 
