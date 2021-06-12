@@ -14,7 +14,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - babatunde-oguntade
-  - paul-shute
+  - toni-bonitto
 slug: developing-a-data-driven-roadmap
 primary_image: pif-ai-open-data
 # Controls how this page appears across the site
