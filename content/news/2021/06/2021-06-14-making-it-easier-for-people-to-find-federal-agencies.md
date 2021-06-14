@@ -5,12 +5,12 @@ source: usagov
 date: 2021-06-08 19:14:00 -0500
 kicker: Search
 title: Making It Easier for People to Find Federal Agencies
-deck: deck text
-summary: "**Making It Easier for People to Find Federal Agencies**&mdash;Finding
+deck: "**Making It Easier for People to Find Federal Agencies**&mdash;Finding
   contact information for a federal department or agency is a top task at
   USA.gov and USAGov en Español. Our A-Z Index of U.S. Government Departments
   and Agencies directory is a popular feature and the result of many years of
   user testing and website user metrics."
+summary: 
 # See all topics at https://digital.gov/topics
 topics:
   - content
