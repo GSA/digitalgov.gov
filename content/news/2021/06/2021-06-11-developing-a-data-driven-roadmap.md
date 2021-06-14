@@ -1,10 +1,9 @@
 ---
-date: 2021-06-14 17:59:00 -0500
+date: 2021-06-14 17:00:00 -0500
 kicker: Data
 title: Developing a Data-Driven Roadmap
-deck: test deck.
-summary: Presidential Innovation Fellows and the U.S. Department of Veterans
-  Affairs share how complex organizations can create data-driven roadmaps.
+deck: 
+summary: Presidential Innovation Fellows and the U.S. Department of Veterans Affairs share how complex organizations can create data-driven roadmaps.
 # See all topics at https://digital.gov/topics
 topics:
   - data
@@ -14,7 +13,6 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - babatunde-oguntade
-  - toni-bonitto
 slug: developing-a-data-driven-roadmap
 primary_image: pif-ai-open-data
 # Controls how this page appears across the site
