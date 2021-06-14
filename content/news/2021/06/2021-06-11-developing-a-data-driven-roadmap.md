@@ -255,6 +255,8 @@ Table 1.0 below lists the insights gleaned from the analysis in order of decreas
 
 The results show that improving the current efficiencies of the contentions and flash processes would yield marginal-to-no improvements because the two efficiencies are currently around eighty percent. The time required to gather evidence, implicitly captured here as, <img src="https://latex.codecogs.com/svg.image?t_{flashes}" title="t_{flashes}" />, is a measure of the time it takes for Veterans to meet the administrative burden of compliance placed on them by VA. The naïve way to meet this burden at the time of claim establishment is to not ask for any evidence. In reality, this would be irresponsible and potentially illegal. We explore possible solutions to the problem in the next section.
 
+**_Table 1.0: Potential Savings in days._**
+
 _Process Action_                                                     |*Potential Decrease in Processing Time(days)*
 :--------------------------------------------------------------------|:----------------------------------------------------------------------:
 <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{flashes,manual}" title="Decrease \ t_{flashes,manual}" />                                    | *32*
@@ -266,7 +268,6 @@ _Process Action_                                                     |*Potential
   <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{adjudicators&space;\&space;manual}&space;" title="Decrease \ n_{adjudicators \ manual} " />                            | *2*
 <img src="https://latex.codecogs.com/svg.image?Increase&space;\&space;\eta_{contentions&space;\&space;manual}" title="Increase \ \eta_{contentions \ manual}" />                             | *1*
 <img src="https://latex.codecogs.com/svg.image?Increase\&space;\eta_{flashes&space;\&space;manual}" title="Increase\ \eta_{flashes \ manual}" />                                 | *0*
-**_Table 1.0: Potential Savings in days._**
  
 ***
 
@@ -284,4 +285,4 @@ We're grateful to work with VA CTO colleagues to center Veterans in all we do. A
 
 ***
 
-_Are you passionate about technology as a tool to improve lives? Interested in using your expertise for public good? That’s what Presidential Innovation Fellows (PIF) is all about. Learn more about PIF at our website, and follow us on Twitter and LinkedIn to find the latest work from our Fellows_. 
+_Are you passionate about technology as a tool to improve lives? Interested in using your expertise for public good? That’s what Presidential Innovation Fellows (PIF) is all about. Learn more about PIF at [our website](https://www.presidentialinnovationfellows.gov/), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our Fellows_. 
