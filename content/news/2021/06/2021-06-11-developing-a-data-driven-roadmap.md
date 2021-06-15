@@ -61,7 +61,9 @@ Even though we do not currently measure the revolving activities around VBMS, we
  
 The first measure known as the efficiency of a process is defined as:
 
-<p align="right"><img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(1)}\end{align*}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered}, \qquad\qquad\qquad\qquad {(1)}\end{align*}" /></p>
+<p align="right"> 
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(1)}\end{align*}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered}, \qquad\qquad\qquad\qquad {(1)}\end{align*}" />
+ </p>
 
 where <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> is contentions, flashes or special issues and measures the accuracy of each process. The second measure <img src="https://latex.codecogs.com/svg.image?\inline&space;t_{i}" title="\inline t_{i}" /> captures the agility of the data entry process. Again, <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> assumes value of contentions, flashes and special issues depending on the process being described. <img src="https://latex.codecogs.com/svg.image?t_{i}" title="t_{i}" /> measures the time from initial establishment until the last element of a process is entered or removed from VBMS.
 
@@ -81,11 +83,11 @@ As mentioned earlier, the claims establishment time <img src="https://latex.code
  measures the time between when a claim is received and entered into VBMS. It is a proxy for the effectiveness of the claim’s intake process. The establishment times measured are:
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,ai}\&space;=&space;3.59&space;\pm&space;13.40\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,ai}\&space;=&space;3.59&space;\pm&space;13.40\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,manual}&space;=&space;3.77&space;\pm&space;12.22\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(3)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,manual} = 3.77 \pm 12.22\ days\qquad\qquad\qquad{(3)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,manual}&space;=&space;3.77&space;\pm&space;12.22\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(3)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,manual} = 3.77 \pm 12.22\ days\qquad\qquad\qquad{(3)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -97,31 +99,31 @@ Equations 2 and 3 are the establishment times for the CAAPIv1.0/BCAPI establishm
 Next, we present the results of the contentions, flashes and special issues efficiencies as defined by Equation 1. The measures penalize the removal of previously entered data and have a range of 0 to 1. The results of the efficiency process are presented below:
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}\quad\overline{\eta}_{contentions,ai}&space;=&space;0.83&space;\pm&space;0.31&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(4)}&space;\end{align*}" title="\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\ = \quad\0.84 \pm 0.31\quad\quad {(4)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\quad\overline{\eta}_{contentions,ai}&space;=&space;0.83&space;\pm&space;0.31&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(4)}&space;\end{align*}" title="\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\ = \quad\0.84 \pm 0.31\quad\quad {(4)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}\overline{\eta}_{contentions,manual}&space;=&space;0.81&space;\pm&space;0.41&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(5)}&space;\end{align*}" title="\begin{align*}\overline{\eta}_{contentions,manual} = 0.84 \pm 0.41 \quad {(5)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\overline{\eta}_{contentions,manual}&space;=&space;0.81&space;\pm&space;0.41&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(5)}&space;\end{align*}" title="\begin{align*}\overline{\eta}_{contentions,manual} = 0.84 \pm 0.41 \quad {(5)} \end{align*}" />
 </p>
 
 The contentions efficiencies of both the AI process (Equation 4) and manual method (Equation 5) are similar, with the manual method efficiency slightly being more variable. The efficiencies of the flash process are also similar for the AI and manual establishment methods as shown below:
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}&space;=&space;0.81&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}&space;=&space;0.81&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.80&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.80&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
 </p>
 
 The special issues efficiency of the AI established claims is noticeably higher than that of manually established claims as shown below:
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,ai}&space;=&space;0.42&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(8)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{special \ issues,ai}\quad\ = 0.42 \pm 0.20\qquad\ {(8)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,ai}&space;=&space;0.42&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(8)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{special \ issues,ai}\quad\ = 0.42 \pm 0.20\qquad\ {(8)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,manual}&space;=&space;0.33&space;\pm&space;0.23&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(9)}&space;\end{align*}&space;" title="\begin{align*} \overline{\eta}_{special \ issues,manual} = 0.33 \pm 0.23 \qquad {(9)} \end{align*} " />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,manual}&space;=&space;0.33&space;\pm&space;0.23&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(9)}&space;\end{align*}&space;" title="\begin{align*} \overline{\eta}_{special \ issues,manual} = 0.33 \pm 0.23 \qquad {(9)} \end{align*} " />
 </p>
 
 ### Claim Establishment Agility 
@@ -129,27 +131,29 @@ The special issues efficiency of the AI established claims is noticeably higher 
 While the process efficiencies of the AI established claims are slightly better than those established through manual techniques, their processing times are noticeably slower as shown below:
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}&space;\overline{t}_{contentions,ai}&space;=&space;62&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(10)}&space;\end{align*}" title="\inline \begin{align*} \overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days \qquad{(10)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}&space;\overline{t}_{contentions,ai}&space;=&space;62&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(10)}&space;\end{align*}" title="\inline \begin{align*} \overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days \qquad{(10)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{contentions,manual}&space;=&space;55&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(11)}\end{align*}" title="\inline \begin{align*}\overline{t}_{contentions,manual} = 55 \pm 68\ days\qquad{(11)}\end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{contentions,manual}&space;=&space;55&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(11)}\end{align*}" title="\inline \begin{align*}\overline{t}_{contentions,manual} = 55 \pm 68\ days\qquad{(11)}\end{align*}" />
+</p>
+
+***
+<p align="right">
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,ai}&space;=&space;82&space;\pm&space;70\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(12)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,ai}\quad\ = 82 \pm 70\ days\qquad\qquad {(12)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,ai}&space;=&space;82&space;\pm&space;70\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(12)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,ai}\quad\ = 82 \pm 70\ days\qquad\qquad {(12)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,manual}&space;=&space;77&space;\pm&space;69\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(13)}\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,manual} = 77 \pm 69\ days\qquad\qquad {(13)}\end{align*}" />
+</p>
+
+***
+<p align="right">
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,ai}&space;=&space;59&space;\pm&space;67\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(14)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\qquad\qquad{(14)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,manual}&space;=&space;77&space;\pm&space;69\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(13)}\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,manual} = 77 \pm 69\ days\qquad\qquad {(13)}\end{align*}" />
-</p>
-
-<p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,ai}&space;=&space;59&space;\pm&space;67\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(14)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\qquad\qquad{(14)} \end{align*}" />
-</p>
-
-<p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,manual}&space;=&space;53&space;\pm&space;66\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(15)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\qquad\qquad {(15)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,manual}&space;=&space;53&space;\pm&space;66\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(15)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\qquad\qquad {(15)} \end{align*}" />
 </p>
 
 It took 5 – 7 days longer for AI established claims to be completed in comparison to claims established through the manual method.
@@ -159,21 +163,21 @@ It took 5 – 7 days longer for AI established claims to be completed in compari
 Our analysis revealed that an average of 3 VSRs work on every claim regardless of the establishment method as shown below:
  
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(16)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(16)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(16)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(16)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,manual}&space;=&space;3&space;\pm&space;2&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(17)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,manual} = 3 \pm 2\ \qquad\qquad {(17)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,manual}&space;=&space;3&space;\pm&space;2&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(17)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,manual} = 3 \pm 2\ \qquad\qquad {(17)} \end{align*}" />
 </p>
 
 AI established claims were also processed at an average of 3 locations as opposed to 2 locations for claims established through the manual method:
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(18)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(18)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ \qquad\qquad {(19)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ \qquad\qquad {(19)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -181,22 +185,22 @@ Finally, AI established claims contain fewer claimant contentions at submission:
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,ai}\&space;=&space;9&space;\pm&space;8&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(20)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,ai}\ = 9 \pm 8\ \qquad\qquad {(20)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,ai}\&space;=&space;9&space;\pm&space;8&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(20)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,ai}\ = 9 \pm 8\ \qquad\qquad {(20)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,manual}&space;=&space;11&space;\pm&space;13&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(21)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,manual} = 11 \pm 13\ \qquad\qquad {(21)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,manual}&space;=&space;11&space;\pm&space;13&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(21)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,manual} = 11 \pm 13\ \qquad\qquad {(21)} \end{align*}" />
 </p>
 
 We also estimated the time it took to close a claim once a ratings decision has been reached, <img src="https://latex.codecogs.com/svg.image?t_{ratings}" title="t_{ratings}" />. No noticeable difference was observed between AI established claims and claims established through the manual route as shown below:
  
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,ai}&space;=&space;0.57&space;\pm&space;3.02\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(22)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,ai}\quad\ = 0.57 \pm 3.02\ \qquad\qquad {(22)} \end{align*}" />
- </p>
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,ai}&space;=&space;0.57&space;\pm&space;3.02\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(22)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,ai}\quad\ = 0.57 \pm 3.02\ \qquad\qquad {(22)} \end{align*}" />
+</p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,manual}&space;=&space;0.57&space;\pm&space;3.30\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(23)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,manual} = 0.57 \pm 3.30\ \qquad\qquad{(23)} \end{align*}" />
- </p>
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,manual}&space;=&space;0.57&space;\pm&space;3.30\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(23)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,manual} = 0.57 \pm 3.30\ \qquad\qquad{(23)} \end{align*}" />
+</p>
 
 ## A Claims Phenomenological Model
 
@@ -204,7 +208,7 @@ Having described these performance measures, phenomenological models relating th
  
 <p align="center">
 <img src="https://latex.codecogs.com/svg.image?t_{processing,manual}=&space;0.42*t_{flashes}&plus;0.24*t_{contentions}&plus;0.51*t_{special&space;\&space;issues}&plus;0.70*t_{establisment}&plus;0.09*t_{ratings}&plus;5.85*n_{locations}-1.22*n^{2}_{locations}&plus;&space;2.10*n_{adjudicators}&plus;0.24*n_{contentions}-&space;24.0*\eta_{special\&space;issues}&plus;44.0*\eta^{2}_{special&space;\&space;issues}&plus;20.2*\eta^{2}_{flashes}-5.62*\eta_{contentions}" title="t_{processing \ manual}= 0.42*t_{flashes}+0.24*t_{contentions}+0.51*t_{special \ issues}+0.70*t_{establisment}+0.09*t_{ratings}+5.85*n_{locations}-1.22*n^{2}_{locations}+ 2.10*n_{adjudicators}+0.24*n_{contentions}- 24.0*\eta_{special\ issues}+44.0*\eta^{2}_{special \ issues}+20.2*\eta^{2}_{flashes}-5.62*\eta_{contentions}" />
- </p>
+</p>
 
 ### Actionable Insights from the Claims Phenomenological Model
 
