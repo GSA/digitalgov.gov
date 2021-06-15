@@ -34,26 +34,22 @@ Great healthcare happens through everyday innovation. That’s why <a href = "ht
 Together, we are working with VA Office of the Chief Technology Officer (CTO) to deliver Veterans’ benefits faster and use deep learning and health insights to optimize benefits dollars and care for Veterans more holistically. Like many federal agencies, VA is a data-rich organization. With massive data comes massive responsibility. Tech for tech’s sake won’t achieve our mission; we need to ensure we’re building the right products and services for the right reasons. To do so, we knew we needed to develop data-driven roadmaps. In this blog, we walk through a data-driven roadmap case study: claims processing with the CTO Benefits Team. We hope it serves as both a strategic and technical example that any data-rich organization can use.
 
 VA offers tax-free monthly payments to Veterans who get injured during service or whose existing condition deteriorated as a result of service. Veterans must submit an application to receive these benefits, but the wait period to get a decision from VA is on average greater than 100 days. There are conflicting reasons for the long wait time, making it difficult to determine what areas of the process constitute the greatest bottlenecks and require immediate attention.
- 
-<p align="justify"> 
+
 This blog presents the results of a big data analysis on the trajectory of a claim from “inception to the completion”, using disability claims data from January 2020 through January 2021. The data from this period contained about 100 million unique records and over 30 unique fields. Our analysis includes: 
 
-+ Developing a simple linear phenomenological model that explained over 92% of variance in the observed processing time,<img src="https://latex.codecogs.com/svg.image?t_{processing}" title="t_{processing}" /> , thus enabling us to determine the contributions of the different process elements; 
+- Developing a simple linear phenomenological model that explained over 92% of variance in the observed processing time,<img src="https://latex.codecogs.com/svg.image?t_{processing}" title="t_{processing}" /> , thus enabling us to determine the contributions of the different process elements; 
 
-+ Ranking the different process elements by importance to determine what would lead to the greatest decrease in processing time; 
+- Ranking the different process elements by importance to determine what would lead to the greatest decrease in processing time; 
 and
-+ Proposing solutions to address the problems. 
- </p>
+- Proposing solutions to address the problems.
 
 ## The Disability Claims Process and Performance Measures
 
-<p align="justify"> 
-When VA receives a disability claim, an end product is created directly in the <b><em>Veteran Benefits Management System (VBMS)</em></b> for manual establishment, or through the <b><em>Corporate Database</em></b> and read by VBMS otherwise. <b><em>The end product (EP) system</em></b> is the primary workload monitoring attribute for Veterans Service Centers. The end product creation involves three major steps, which we describe as the <b><em>Contention, Flash and Special Issues</em></b> processes:
+When VA receives a disability claim, an end product is created directly in the <b><em>Veteran Benefits Management System (VBMS)</em></b> for manual establishment, or through the <b><em>Corporate Database</em></b> and read by VBMS otherwise. <b><em>The end product (EP) system</em></b> is the primary workload monitoring attribute for Veterans Service Centers. The end product creation involves three major steps, which we describe as the <b><em>Contention, Flash, and Special Issues</em></b> processes:
 
-+ **Contention**: The contention process involves translating the conditions or issues raised by the Veteran into VA parlance. Example: A Veteran may have “ringing in the ear” as a contention, which must be translated to “tinnitus” during the contention process.
-+ **Flash**: The flash process is initially a tagging step that allows claimant-specific details to be added to a claim to ensure proper routing.  Subsequently, evidence-based details are added as flash as more information is gathered on the claim. Example: A common initial flash used in the routing of claims is “Homelessness.” Veterans who indicate they are homeless on their application are prioritized in claims processing.
-+ **Special Issues**: The special issues process is similar to the flash process but the tag involved here is claim-specific. Example: Agent Orange-Vietnam is associated with claims where Veterans contend they were exposed to Agent Orange during their service in Vietnam. 
- </p> 
+- **Contention**: The contention process involves translating the conditions or issues raised by the Veteran into VA parlance. Example: A Veteran may have “ringing in the ear” as a contention, which must be translated to “tinnitus” during the contention process.
+- **Flash**: The flash process is initially a tagging step that allows claimant-specific details to be added to a claim to ensure proper routing.  Subsequently, evidence-based details are added as flash as more information is gathered on the claim. Example: A common initial flash used in the routing of claims is “Homelessness.” Veterans who indicate they are homeless on their application are prioritized in claims processing.
+- **Special Issues**: The special issues process is similar to the flash process but the tag involved here is claim-specific. Example: Agent Orange-Vietnam is associated with claims where Veterans contend they were exposed to Agent Orange during their service in Vietnam. 
  
 End product creation in VBMS is referred to as the “establishment” of a claim. The difference between when a claim is received and established in VBMS is depicted as <img src="https://latex.codecogs.com/svg.image?t_{establishment}" title="t_{establishment}" /> and is a measure of the effectiveness of the claim’s intake method.
  
