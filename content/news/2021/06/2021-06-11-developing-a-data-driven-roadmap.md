@@ -61,9 +61,7 @@ Even though we do not currently measure the revolving activities around VBMS, we
  
 The first measure known as the efficiency of a process is defined as:
 
-<p align="right"> 
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(1)}\end{align*}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered}, \qquad\qquad\qquad\qquad {(1)}\end{align*}" />
- </p>
+<p align="right"><img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(1)}\end{align*}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered}, \qquad\qquad\qquad\qquad {(1)}\end{align*}" /></p>
 
 where <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> is contentions, flashes or special issues and measures the accuracy of each process. The second measure <img src="https://latex.codecogs.com/svg.image?\inline&space;t_{i}" title="\inline t_{i}" /> captures the agility of the data entry process. Again, <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> assumes value of contentions, flashes and special issues depending on the process being described. <img src="https://latex.codecogs.com/svg.image?t_{i}" title="t_{i}" /> measures the time from initial establishment until the last element of a process is entered or removed from VBMS.
 
