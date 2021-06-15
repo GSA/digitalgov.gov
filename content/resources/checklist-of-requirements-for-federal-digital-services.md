@@ -176,7 +176,7 @@ Information you collect from the public should minimize burden and maximize publ
 
 Regularly evaluate all digital products for performance and cost effectiveness by collecting and acting on metrics and customer feedback, conducting usability testing, and measuring return on investment. Establish performance measures to demonstrate mission achievement; Make your annual performance plans readily available to the public.
 
-* [Government Performance Results Act of 1993 (GPRA)](http://obamawhitehouse.archives.gov/omb/mgmt-gpra/index-gpra)
+* [Government Performance and Results (GPRA) Modernization Act of 2010](https://www.performance.gov/cx/assets/files/PLAW-111publ352.pdf)
 
 ## Plain Writing
 
