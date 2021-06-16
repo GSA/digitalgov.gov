@@ -20,9 +20,7 @@ primary_image: multilingual-huddle-cfpb-homepage-vietnamese
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
-
 ---
-
 Designing for translation is a way of working that goes beyond translating words. When we think of translation, we usually think we need to only translate text. But what if that isn't enough?
 
 We live in a world where information is everywhere. We need to capture people where they are, and we only have a few seconds to do that. To accommodate everyone, it’s important to communicate concepts in several languages without unnecessary burdens or expenses. Part of that practice is making a plan at the onset of all content creation.
