@@ -14,7 +14,7 @@ last_name: "Bitzer-Wales"
 pronoun: "she/ella"
 
 # slug — the specific user-id for an author.
-slug: victoria-bitzer-wales
+slug: victoria-wales
 
 # if you include an email address, it will be displayed on your profile page
 email: "victoria.bitzer-wales@nih.gov"
