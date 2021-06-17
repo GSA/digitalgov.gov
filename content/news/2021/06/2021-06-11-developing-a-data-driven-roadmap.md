@@ -282,4 +282,4 @@ We're grateful to work with VA CTO colleagues to center Veterans in all we do. A
 
 ***
 
-_Are you passionate about technology as a tool to improve lives? Interested in using your expertise for public good? That’s what Presidential Innovation Fellows (PIF) is all about. Learn more about PIF at [our website](https://www.presidentialinnovationfellows.gov/), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our Fellows_. 
+_Are you passionate about technology as a tool to improve lives? Interested in using your expertise for public good? That’s what Presidential Innovation Fellows (PIF) is all about. Learn more about PIF at [our website](https://www.presidentialinnovationfellows.gov/), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our Fellows_.
