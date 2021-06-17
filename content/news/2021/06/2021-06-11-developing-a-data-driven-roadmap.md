@@ -261,12 +261,12 @@ _Process Action_                                                     |*Potential
 <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{flashes,manual}" title="Decrease \ t_{flashes,manual}" />                                    | *32*
 <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{special\&space;issues,manual}" title="Decrease\ t_{special\ issues,manual}" />                           | *27*
 <img src="https://latex.codecogs.com/svg.image?Increase\&space;\eta_{special\&space;issues,manual}" title="Increase\ \eta_{special\ issues,manual}" />                         | *16*
-<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{contention\&space;manual}&space;" title="Decrease \ t_{contention\ manual} " />                                | *13*
-<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{locations\&space;manual}&space;" title="Decrease \ n_{locations\ manual} " />                                  | *5*
-<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{established&space;\&space;manual}" title="t_{established \ manual}" />                                | *3*
-<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{adjudicators&space;\&space;manual}&space;" title="Decrease \ n_{adjudicators \ manual} " />                            | *2*
-<img src="https://latex.codecogs.com/svg.image?Increase&space;\&space;\eta_{contentions&space;\&space;manual}" title="Increase \ \eta_{contentions \ manual}" />                             | *1*
-<img src="https://latex.codecogs.com/svg.image?Increase\&space;\eta_{flashes&space;\&space;manual}" title="Increase\ \eta_{flashes \ manual}" />                                 | *0*
+<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{contentions,manual}&space;" title="Decrease \ t_{contention,manual} " />                                | *13*
+<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{locations,manual}&space;" title="Decrease \ n_{locations,manual} " />                                  | *5*
+<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{establishment,manual}" title="t_{establishment,manual}" />                                | *3*
+<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{adjudicators,manual}&space;" title="Decrease \ n_{adjudicators,manual} " />                            | *2*
+<img src="https://latex.codecogs.com/svg.image?Increase&space;\&space;\eta_{contentions,manual}" title="Increase \ \eta_{contentions,manual}" />                             | *1*
+<img src="https://latex.codecogs.com/svg.image?Increase\&space;\eta_{flashes,manual}" title="Increase\ \eta_{flashes,manual}" />                                 | *0*
 
 ## Conclusions and Recommendations
 
@@ -282,4 +282,4 @@ We're grateful to work with VA CTO colleagues to center Veterans in all we do. A
 
 ***
 
-_Are you passionate about technology as a tool to improve lives? Interested in using your expertise for public good? That’s what Presidential Innovation Fellows (PIF) is all about. Learn more about PIF at [our website](https://www.presidentialinnovationfellows.gov/), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our Fellows_. 
+_Are you passionate about technology as a tool to improve lives? Interested in using your expertise for public good? That’s what Presidential Innovation Fellows (PIF) is all about. Learn more about PIF at [our website](https://www.presidentialinnovationfellows.gov/), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our Fellows_.
