@@ -207,7 +207,7 @@ We also estimated the time it took to close a claim once a ratings decision has 
 Having described these performance measures, phenomenological models relating them to processing times, <img src="https://latex.codecogs.com/svg.image?t_{processing}" title="t_{processing}" />, for both AI and manually established claims were developed. The processing time, <img src="https://latex.codecogs.com/svg.image?t_{processing}" title="t_{processing}" />, is defined strictly as the difference between when a claim was received at VA and closed after a disability rating decision was reached. The average processing time of AI established claims, <img src="https://latex.codecogs.com/svg.image?\overline{t}_{processing,ai}" title="\overline{t}_{processing,ai}" /> was 88.2 days with a spread of 72.4 days while that of manually established claims, <img src="https://latex.codecogs.com/svg.image?\overline{t}_{processing,manual}" title="\overline{t}_{processing,manual}" /> was 83 days with a spread of 72.4 days. The model presented here for the processing time of manually established claims, <img src="https://latex.codecogs.com/svg.image?{t}_{processing,manual}" title="\overline{t}_{processing,manual}" />, did not take into account other details on the claims form including medical service records, demography information, and additional evidence relevant to determining validity or otherwise of a claim. Our model was able to describe over ninety two percent of variability in the processing time which is more than sufficient for its intended purpose of determining the contribution of each measure to the dependent variable.
  
 <p align="center">
-<img src="https://latex.codecogs.com/svg.image?t_{processing,manual}=&space;0.42*t_{flashes}&plus;0.24*t_{contentions}&plus;0.51*t_{special&space;\&space;issues}&plus;0.70*t_{establisment}&plus;0.09*t_{ratings}&plus;5.85*n_{locations}-1.22*n^{2}_{locations}&plus;&space;2.10*n_{adjudicators}&plus;0.24*n_{contentions}-&space;24.0*\eta_{special\&space;issues}&plus;44.0*\eta^{2}_{special&space;\&space;issues}&plus;20.2*\eta^{2}_{flashes}-5.62*\eta_{contentions}" title="t_{processing \ manual}= 0.42*t_{flashes}+0.24*t_{contentions}+0.51*t_{special \ issues}+0.70*t_{establisment}+0.09*t_{ratings}+5.85*n_{locations}-1.22*n^{2}_{locations}+ 2.10*n_{adjudicators}+0.24*n_{contentions}- 24.0*\eta_{special\ issues}+44.0*\eta^{2}_{special \ issues}+20.2*\eta^{2}_{flashes}-5.62*\eta_{contentions}" />
+<img src="https://latex.codecogs.com/svg.image?t_{processing,manual}=&space;0.42*t_{flashes,manual}&plus;0.24*t_{contentions,manual}&plus;0.51*t_{special&space;\&space;issues,manual}&plus;0.70*t_{establisment,manual}&plus;0.09*t_{ratings,manual}&plus;5.85*n_{locations,manual}-1.22*n^{2}_{locations,manual}&plus;&space;2.10*n_{adjudicators,manual}&plus;0.24*n_{contentions,manual}-&space;24.0*\eta_{special\&space;issues,manual}&plus;44.0*\eta^{2}_{special&space;\&space;issues,manual}&plus;20.2*\eta^{2}_{flashes,manual}-5.62*\eta_{contentions,manual}" title="t_{processing \ manual}= 0.42*t_{flashes}+0.24*t_{contentions}+0.51*t_{special \ issues}+0.70*t_{establisment}+0.09*t_{ratings}+5.85*n_{locations}-1.22*n^{2}_{locations}+ 2.10*n_{adjudicators}+0.24*n_{contentions}- 24.0*\eta_{special\ issues}+44.0*\eta^{2}_{special \ issues}+20.2*\eta^{2}_{flashes}-5.62*\eta_{contentions}" />
 </p>
 
 ### Actionable Insights from the Claims Phenomenological Model
@@ -216,7 +216,7 @@ Here we discuss the deductions made using the average measures for the manual pr
  
 #### _Intake Process_
 
-Decreasing the number of days until a claim is established  <img src="https://latex.codecogs.com/svg.image?t_{established,manual}" title="t_{established,manual}" />, by 1 day and keeping all the other variables constant decreases the overall processing time by 0.70 days. It currently takes about 3.8 days to establish a claim according to Equation 3 which implies the total amount of time savings we can get from instantaneously establishing claims is 2.6 days.
+Decreasing the number of days until a claim is established  <img src="https://latex.codecogs.com/svg.image?t_{establishment,manual}" title="t_{establishment,manual}" />, by 1 day and keeping all the other variables constant decreases the overall processing time by 0.70 days. It currently takes about 3.8 days to establish a claim according to Equation 3 which implies the total amount of time savings we can get from instantaneously establishing claims is 2.6 days.
  
 #### _Contentions_
 
@@ -238,15 +238,15 @@ Increasing the efficiency of special issues, <img src="https://latex.codecogs.co
  
 #### _Time to Close Claim after Ratings Decision_
 
-Decreasing the number of days from ratings to closure <img src="https://latex.codecogs.com/svg.image?t_{ratings\&space;manual}" title="t_{ratings\ manual}" />, by 1 day reduces the overall processing time by 0.09 day while keeping all other variables constant. The total uplift possible according to Equation 23 is 0.05 days.
+Decreasing the number of days from ratings to closure <img src="https://latex.codecogs.com/svg.image?t_{ratings,manual}" title="t_{ratings,manual}" />, by 1 day reduces the overall processing time by 0.09 day while keeping all other variables constant. The total uplift possible according to Equation 23 is 0.05 days.
 
 #### _Number of Locations_
 
-Decreasing the number of processing locations, <img src="https://latex.codecogs.com/svg.image?n_{locations\&space;manual}" title="n_{locations\ manual}" />, by 1 reduces the overall processing time by 4.63 days.
+Decreasing the number of processing locations, <img src="https://latex.codecogs.com/svg.image?n_{locations,manual}" title="n_{locations,manual}" />, by 1 reduces the overall processing time by 4.63 days.
 
 #### _Number of Adjudicators_
 
-Decreasing the number of adjusters, <img src="https://latex.codecogs.com/svg.image?n_{adjudicators\&space;manual}" title="n_{adjudicators\ manual}" />, by 1 reduces the overall processing time by 2.10 days.
+Decreasing the number of adjusters, <img src="https://latex.codecogs.com/svg.image?n_{adjudicators,manual}" title="n_{adjudicators,manual}" />, by 1 reduces the overall processing time by 2.10 days.
 
 ### Insights - Summary
 
