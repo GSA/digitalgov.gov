@@ -90,6 +90,7 @@ In this session you will hear from the following speakers:
 
 18F’s research practice is evolving from user-centered design toward equity-centered design, an approach that addresses power imbalances between researchers and participants. Equity-centered design seeks to provide value back to participants. It provides mechanisms to identify potential hazards and harms in the services and products we create. Prioritizing equity can result in safer, more equitable access to government services for everyone, including those in marginalized groups. In this session we’ll share our vision of a more equitable 18F research practice, how we’re overcoming government-specific hurdles to engage in better collaboration with research participants and communities, and tips you can incorporate into your practice.
 
+[View the slides](https://digital.gov/files/equity-centered-design-julieben.pptx) (PPT, 2.61 MB, 44 pages)
 
 In this session you will hear from the following speakers:
 
@@ -122,6 +123,8 @@ In this session you will hear from the following speaker:
 ## Discovery Research for Government Application Programming Interfaces (APIs): Why and How (1:10 pm - 1:30 pm, ET)
 
 Why invest in discovery research to design APIs for government services? What methods to use and what questions to ask? This presentation will share learnings from the U.S. Department of Veterans Affairs (VA) API platform, [VA Lighthouse APIs](https://developer.va.gov/). We conduct discovery research to design API functionality that enables Veterans to apply for and appeal benefits. In line with a human-centered design approach to APIs, we use an ethnography framework to approach problems from the perspective of the people who use and manage these benefits, and make sure we’re designing APIs that answer Veterans’ questions and address their needs.
+
+[View the slides](https://digital.gov/files/va-oit-gov-ux-summit.pptx) (PPT, 1.21 MB, 36 pages)
 
 In this session you will hear from the following speakers:
 
@@ -160,6 +163,8 @@ In this session you will hear from the following speakers:
 
 We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
 
+[View the slides](https://digital.gov/files/conscious-uncoupling-uxsummit.pptx) (PPT, 5.97 MB, 39 pages)
+
 In this session you will hear from the following speakers:
 
 * **Natalie Kurz** &mdash; Contractor, U.S. Tax Court
@@ -181,6 +186,8 @@ In this session you will hear from the following speaker:
 ## Overturning Precedent, Applying Human-Centered Design to Legal Matters (12:50 pm - 1:10 pm, ET)
 
 Designers across government must build rapport with subject matter experts (SMEs) in economics, policy, and other fields who often bring an analytical approach that clashes with the creative methods of design. How do we build bridges across disciplines? This case study will share insights on the application of a human-centered design approach to the [Equal Employment Opportunity process at the Consumer Financial Protection Bureau](https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/) (CFPB). Learn about ways to develop frameworks for co-creation with SMEs, navigating differences between legalese, service design, and plain language, as well as how to move from procedural actions to intentional interactions.
+
+[View the slides](https://digital.gov/files/overturning-precedent-uxsummit-schilf.pptx) (PPT, 207 KB, 10 pages)
 
 In this session you will hear from the following speaker:
 
