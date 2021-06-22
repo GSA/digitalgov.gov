@@ -61,6 +61,8 @@ In this session you will hear from the following speakers:
 
 Improving the customer experience (CX) starts with improving the employee experience. Leaders that actively empower and engage their employees know that they alone can’t holistically improve their customers’ experiences. They understand that it’s critical for their employees to feel valued and engaged in order for them to want to provide outstanding service and create positive customer experiences. Learn how one government agency discovered the vital behaviors that lead to engaged employees and replicate it at your agency.
 
+[View the slides](https://digital.gov/files/engaging-employees-cx.pptx) (PPT, 3.06 MB, 27 pages)
+
 In this session you will hear from the following speakers:
 
 * **Airis Gill** &mdash; U.S. Department of Veterans Affairs (VA)
@@ -200,6 +202,9 @@ In this session you will hear from the following speaker:
 ## Establishing a Customer-Centric Culture at NRC (1:10 pm - 1:30 pm , ET)
 
 In order to improve customer experience at the Nuclear Regulatory Commission (NRC), Office of the Chief Information Officer (OCIO) has established a customer experience (CX) capability to drive a customer-centric culture and improve IT service delivery. Since inception, OCIO has designed the strategy for implementing CX, built a CX team, gathered data on customer satisfaction rates for IT services, conducted journey mapping exercises, and built several channels for customer feedback to understand the customer perspective.
+
+[View the slides, part 1](https://digital.gov/files/nrc-cxslides-first.pptx) (PPT, 17.4 MB, 5 pages)
+[View the slides, part 2](https://digital.gov/files/nrc-cxslides-second.pptx) (PPT, 12.1 MB, 5 pages)
 
 In this session you will hear from the following speakers:
 
