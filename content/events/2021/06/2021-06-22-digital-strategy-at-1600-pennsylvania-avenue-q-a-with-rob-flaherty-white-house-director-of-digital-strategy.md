@@ -1,10 +1,7 @@
 ---
-title: "Digital Strategy at 1600 Pennsylvania Avenue: Q&A with Rob Flaherty,
-  White House Director of Digital Strategy"
-deck: An inside look at how the White House is thinking about digital strategy
-  in the new normal.
-summary: Join us for a conversation with Robert Flaherty, a digital native
-  leading digital strategy at the White House.
+title: "Digital Strategy at 1600 Pennsylvania Avenue: Q&A with Rob Flaherty, White House Director of Digital Strategy"
+deck: An inside look at how the White House is thinking about digital strategy in the new normal.
+summary: Join us for a conversation with Robert Flaherty, a digital native leading digital strategy at the White House.
 host: SocialGov Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/digital-strategy-at-1600-pennsylvania-avenue-qa-with-rob-flaherty-tickets-160639297463
@@ -27,7 +24,9 @@ primary_image: socialgov-june-event-title-card
 
 ---
 
-Hear how the White House digital team of 20 works together to effectively use digital tools to share the priorities and activities of the president with citizens. From running some of the most-well known government social media accounts, to safely shooting video of the president and White House staff during a pandemic, to developing and measuring integrated cross-channel campaigns for large initiatives, get an inside look at how one high-profile agency is thinking about digital strategy in the new normal.
+Hear how the White House digital team works together to effectively use digital tools to share the priorities and activities of the president with citizens.
+
+From running some of the most-well known government social media accounts, to safely shooting video of the president and White House staff during a pandemic, to developing and measuring integrated cross-channel campaigns for large initiatives&mdash;get an inside look at how one high-profile agency is thinking about digital strategy in the new normal.
 
 ## Speakers
 
