@@ -220,6 +220,8 @@ In this session you will hear from the following speakers:
 
 State-level digital service teams are still a relatively new entity in the civic tech space. As our Colorado Digital Service team passed our one year anniversary, we wanted to understand: What value did we bring to our agency partners? How did our self-perceived value differ from how our partners saw us? How can we iterate upon our team to help build a more equitable state government for all Coloradans? We conducted a self-retro by interviewing 40+ state government employees who had interacted with us over the past year, and compared that input against our own team’s value statements. The results were illuminating. Learn about what we did well and what we could have done better.
 
+[View the slides](https://digital.gov/files/iterating-on-a-state-level-colorado.pptx) (PPT, 1.30 MB, 22 pages)
+
 In this session you will hear from the following speakers:
 
 * **Stephanie Cain** &mdash; Colorado Digital Service
