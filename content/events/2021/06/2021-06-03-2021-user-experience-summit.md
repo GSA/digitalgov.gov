@@ -103,6 +103,8 @@ In this session you will hear from the following speakers:
 
 Remote design research presents a myriad of challenges, and one of the more abstract challenges is how to create empathy with participants. Through the lens of a COVID-19 response tablet distribution program that provided internet access, we explored the creative ways we tried to build empathy with our research participants, and create a shared headspace as a team. Despite only speaking with participants over the phone, we were able to imagine the ways they incorporated their tablets into their daily lives through their stories which left us listening to brand new music and exploring new-to-us android games.
 
+[View the slides](https://digital.gov/files/building-empathy-remotely.pptx) (PPT, 24.3 MB, 20 pages)
+
 In this session you will hear from the following speakers:
 
 * **Alexander Hoover** &mdash; U.S. Department of Homeland Security (DHS)
