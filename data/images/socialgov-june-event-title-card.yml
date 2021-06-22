@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/socialgov-june-event-title-card.png
+
+# Image shortcode: {{< img src="socialgov-june-event-title-card" >}}
+
+date     : 2021-06-21 21:46:37 -0400
+uid      : socialgov-june-event-title-card
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image of multi-colored diagonal shapes with the lines of text on a black background. The first line has Digital Strategy at 1600 Pennsylvania Avenue: Q&A with Rob Flaherty, White House Director of Digital Strategy in white text. The second line has June 29 2021 in yellow text. The Digitalgov logo in white is below the text" 
