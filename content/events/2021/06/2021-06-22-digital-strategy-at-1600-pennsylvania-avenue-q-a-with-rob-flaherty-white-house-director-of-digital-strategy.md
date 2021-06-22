@@ -24,14 +24,20 @@ slug: digital-strategy-at-1600-pennsylvania-avenue-qa-with-rob-flaherty-white-ho
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: socialgov-june-event-title-card
+
 ---
+
 Hear how the White House digital team of 20 works together to effectively use digital tools to share the priorities and activities of the president with citizens. From running some of the most-well known government social media accounts, to safely shooting video of the president and White House staff during a pandemic, to developing and measuring integrated cross-channel campaigns for large initiatives, get an inside look at how one high-profile agency is thinking about digital strategy in the new normal.
 
-### Speakers
+## Speakers
 
-**Robert Flaherty** coordinates effective, compelling communications across multiple channels at the White House where he manages a team of 20 who handle social media and digital strategy for the president and vice president.
+**Robert Flaherty** — Director of Digital Strategy, White House
 
-**Laura Larrimore** Digital and Creative Services Branch Chief, Office of the Chief Communications Officer, United States Patent and Trademark Office (USPTO)
+Robert coordinates effective, compelling communications across multiple channels at the White House where he manages a team of 20 who handle social media and digital strategy for the president and vice president.
+
+**Laura Larrimore** — Digital and Creative Services Branch Chief, Office of the Chief Communications Officer, United States Patent and Trademark Office (USPTO)
+
+Laura supervises the team that runs the agency’s website and social media accounts. As the agency’s first digital strategist, she advises agency leaders on the strategic use and development of digital communications tools, and explores new technologies for their potential to help the agency meet its communication goals at lower cost with less staff time.
 
 - - -
 
