@@ -204,6 +204,7 @@ In this session you will hear from the following speaker:
 In order to improve customer experience at the Nuclear Regulatory Commission (NRC), Office of the Chief Information Officer (OCIO) has established a customer experience (CX) capability to drive a customer-centric culture and improve IT service delivery. Since inception, OCIO has designed the strategy for implementing CX, built a CX team, gathered data on customer satisfaction rates for IT services, conducted journey mapping exercises, and built several channels for customer feedback to understand the customer perspective.
 
 [View the slides, part 1](https://digital.gov/files/nrc-cxslides-first.pptx) (PPT, 17.4 MB, 5 pages)
+
 [View the slides, part 2](https://digital.gov/files/nrc-cxslides-second.pptx) (PPT, 12.1 MB, 5 pages)
 
 In this session you will hear from the following speakers:
