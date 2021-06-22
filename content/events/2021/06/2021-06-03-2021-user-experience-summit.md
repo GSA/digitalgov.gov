@@ -61,6 +61,8 @@ In this session you will hear from the following speakers:
 
 Improving the customer experience (CX) starts with improving the employee experience. Leaders that actively empower and engage their employees know that they alone can’t holistically improve their customers’ experiences. They understand that it’s critical for their employees to feel valued and engaged in order for them to want to provide outstanding service and create positive customer experiences. Learn how one government agency discovered the vital behaviors that lead to engaged employees and replicate it at your agency.
 
+[View the slides](https://digital.gov/files/engaging-employees-cx.pptx) (PPT, 3.06 MB, 27 pages)
+
 In this session you will hear from the following speakers:
 
 * **Airis Gill** &mdash; U.S. Department of Veterans Affairs (VA)
@@ -90,6 +92,7 @@ In this session you will hear from the following speakers:
 
 18F’s research practice is evolving from user-centered design toward equity-centered design, an approach that addresses power imbalances between researchers and participants. Equity-centered design seeks to provide value back to participants. It provides mechanisms to identify potential hazards and harms in the services and products we create. Prioritizing equity can result in safer, more equitable access to government services for everyone, including those in marginalized groups. In this session we’ll share our vision of a more equitable 18F research practice, how we’re overcoming government-specific hurdles to engage in better collaboration with research participants and communities, and tips you can incorporate into your practice.
 
+[View the slides](https://digital.gov/files/equity-centered-design-julieben.pptx) (PPT, 2.61 MB, 44 pages)
 
 In this session you will hear from the following speakers:
 
@@ -101,6 +104,8 @@ In this session you will hear from the following speakers:
 ## Building Empathy Remotely (12:30 pm - 12:50 pm, ET)
 
 Remote design research presents a myriad of challenges, and one of the more abstract challenges is how to create empathy with participants. Through the lens of a COVID-19 response tablet distribution program that provided internet access, we explored the creative ways we tried to build empathy with our research participants, and create a shared headspace as a team. Despite only speaking with participants over the phone, we were able to imagine the ways they incorporated their tablets into their daily lives through their stories which left us listening to brand new music and exploring new-to-us android games.
+
+[View the slides](https://digital.gov/files/building-empathy-remotely.pptx) (PPT, 24.3 MB, 20 pages)
 
 In this session you will hear from the following speakers:
 
@@ -122,6 +127,8 @@ In this session you will hear from the following speaker:
 ## Discovery Research for Government Application Programming Interfaces (APIs): Why and How (1:10 pm - 1:30 pm, ET)
 
 Why invest in discovery research to design APIs for government services? What methods to use and what questions to ask? This presentation will share learnings from the U.S. Department of Veterans Affairs (VA) API platform, [VA Lighthouse APIs](https://developer.va.gov/). We conduct discovery research to design API functionality that enables Veterans to apply for and appeal benefits. In line with a human-centered design approach to APIs, we use an ethnography framework to approach problems from the perspective of the people who use and manage these benefits, and make sure we’re designing APIs that answer Veterans’ questions and address their needs.
+
+[View the slides](https://digital.gov/files/va-oit-gov-ux-summit.pptx) (PPT, 1.21 MB, 36 pages)
 
 In this session you will hear from the following speakers:
 
@@ -160,6 +167,8 @@ In this session you will hear from the following speakers:
 
 We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
 
+[View the slides](https://digital.gov/files/conscious-uncoupling-uxsummit.pptx) (PPT, 5.97 MB, 39 pages)
+
 In this session you will hear from the following speakers:
 
 * **Natalie Kurz** &mdash; Contractor, U.S. Tax Court
@@ -182,6 +191,8 @@ In this session you will hear from the following speaker:
 
 Designers across government must build rapport with subject matter experts (SMEs) in economics, policy, and other fields who often bring an analytical approach that clashes with the creative methods of design. How do we build bridges across disciplines? This case study will share insights on the application of a human-centered design approach to the [Equal Employment Opportunity process at the Consumer Financial Protection Bureau](https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/) (CFPB). Learn about ways to develop frameworks for co-creation with SMEs, navigating differences between legalese, service design, and plain language, as well as how to move from procedural actions to intentional interactions.
 
+[View the slides](https://digital.gov/files/overturning-precedent-uxsummit-schilf.pptx) (PPT, 207 KB, 10 pages)
+
 In this session you will hear from the following speaker:
 
 * **Alexis Schilf** &mdash; CFPB
@@ -191,6 +202,10 @@ In this session you will hear from the following speaker:
 ## Establishing a Customer-Centric Culture at NRC (1:10 pm - 1:30 pm , ET)
 
 In order to improve customer experience at the Nuclear Regulatory Commission (NRC), Office of the Chief Information Officer (OCIO) has established a customer experience (CX) capability to drive a customer-centric culture and improve IT service delivery. Since inception, OCIO has designed the strategy for implementing CX, built a CX team, gathered data on customer satisfaction rates for IT services, conducted journey mapping exercises, and built several channels for customer feedback to understand the customer perspective.
+
+[View the slides, part 1](https://digital.gov/files/nrc-cxslides-first.pptx) (PPT, 17.4 MB, 5 pages)
+
+[View the slides, part 2](https://digital.gov/files/nrc-cxslides-second.pptx) (PPT, 12.1 MB, 5 pages)
 
 In this session you will hear from the following speakers:
 
@@ -204,6 +219,8 @@ In this session you will hear from the following speakers:
 ## Iterating on a State-Level Digital Service Team: Colorado's Year One Self-Retro (1:45 pm - 2:45 pm, ET)
 
 State-level digital service teams are still a relatively new entity in the civic tech space. As our Colorado Digital Service team passed our one year anniversary, we wanted to understand: What value did we bring to our agency partners? How did our self-perceived value differ from how our partners saw us? How can we iterate upon our team to help build a more equitable state government for all Coloradans? We conducted a self-retro by interviewing 40+ state government employees who had interacted with us over the past year, and compared that input against our own team’s value statements. The results were illuminating. Learn about what we did well and what we could have done better.
+
+[View the slides](https://digital.gov/files/iterating-on-a-state-level-colorado.pptx) (PPT, 1.30 MB, 22 pages)
 
 In this session you will hear from the following speakers:
 
