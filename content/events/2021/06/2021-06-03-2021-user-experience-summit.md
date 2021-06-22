@@ -141,6 +141,8 @@ In this session you will hear from the following speakers:
 
 Have you ever wanted to conduct a card sort or tree test, but didn’t have the tools? Learn how we conducted a card sort using GitHub and a tree test using a clickable prototype.
 
+[View the slides](https://digital.gov/files/open-source-information-architecture-rev.pptx) (PPT, 24.1 MB, 60 pages)
+
 In this session you will hear from the following speaker:
 
 * **Shannon McHarg** &mdash; Office of Natural Resources Revenue (ONRR)
