@@ -157,9 +157,8 @@ Learn how [journey mapping](https://en.wikipedia.org/wiki/User_journey) can help
 
 In this session you will hear from the following speakers:
 
-* **Brandelyn Nichols-Brajkovic** &mdash; City of Kansas City, KS
 * **Crystal Sprage** &mdash; Wyandotte County, KS
-* **Irina Tikhonova** &mdash; UX Designer
+* **Daniel Yi** &mdash; U.S. Department of Justice (DOJ)
 
 {{< /accordion >}}
 
