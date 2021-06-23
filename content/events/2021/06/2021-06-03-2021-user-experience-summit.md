@@ -92,7 +92,7 @@ In this session you will hear from the following speakers:
 
 18F’s research practice is evolving from user-centered design toward equity-centered design, an approach that addresses power imbalances between researchers and participants. Equity-centered design seeks to provide value back to participants. It provides mechanisms to identify potential hazards and harms in the services and products we create. Prioritizing equity can result in safer, more equitable access to government services for everyone, including those in marginalized groups. In this session we’ll share our vision of a more equitable 18F research practice, how we’re overcoming government-specific hurdles to engage in better collaboration with research participants and communities, and tips you can incorporate into your practice.
 
-[View the slides](https://digital.gov/files/equity-centered-design-julieben.pptx) (PPT, 2.61 MB, 44 pages)
+[View the slides](https://digital.gov/files/equity-centered-design-revised.pptx) (PPT, 3.54 MB, 44 pages)
 
 In this session you will hear from the following speakers:
 
@@ -105,7 +105,7 @@ In this session you will hear from the following speakers:
 
 Remote design research presents a myriad of challenges, and one of the more abstract challenges is how to create empathy with participants. Through the lens of a COVID-19 response tablet distribution program that provided internet access, we explored the creative ways we tried to build empathy with our research participants, and create a shared headspace as a team. Despite only speaking with participants over the phone, we were able to imagine the ways they incorporated their tablets into their daily lives through their stories which left us listening to brand new music and exploring new-to-us android games.
 
-[View the slides](https://digital.gov/files/building-empathy-remotely.pptx) (PPT, 24.3 MB, 20 pages)
+[View the slides](https://digital.gov/files/remote-empathy-revised.pptx) (PPT, 24.3 MB, 20 pages)
 
 In this session you will hear from the following speakers:
 
@@ -153,6 +153,8 @@ In this session you will hear from the following speaker:
 
 Learn how [journey mapping](https://en.wikipedia.org/wiki/User_journey) can help pinpoint both user needs and process improvement opportunities -- and how, when improved through a user-centered lens, you can create policy changes that result in more equitable access to resident services.
 
+[View the slides](https://digital.gov/files/journey-mapping-access-to-justice.pptx) (PPT, 2.64 MB, 13 pages)
+
 In this session you will hear from the following speakers:
 
 * **Brandelyn Nichols-Brajkovic** &mdash; City of Kansas City, KS
@@ -169,7 +171,7 @@ In this session you will hear from the following speakers:
 
 We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
 
-[View the slides](https://digital.gov/files/conscious-uncoupling-uxsummit.pptx) (PPT, 5.97 MB, 39 pages)
+[View the slides](https://digital.gov/files/conscious-uncoupling-uxsummit-revised.pptx) (PPT, 5.72 MB, 39 pages)
 
 In this session you will hear from the following speakers:
 
