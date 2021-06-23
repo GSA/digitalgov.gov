@@ -118,6 +118,8 @@ In this session you will hear from the following speakers:
 
 When user research and usability face tightening deadlines, deadlines usually win and testing is the first thing to be dropped from the schedule. The result is often something that meets requirements and the launch date, but not user needs. In this lightning talk, we’ll use the example of the [Annual Student Loan Acknowledgement](https://www.studentaid.gov/asla/) to discuss how to keep user research and usability testing central in even the tightest development cycles. Rather than fighting deadlines, use testing to prioritize, divide across releases, and ensure your minimum viable product (MVP) is not just viable, but valuable.
 
+[View the slides](https://digital.gov/files/pivot-on-a-deadline-final-rev.pptx) (PPT, 2.96 MB, 24 pages)
+
 In this session you will hear from the following speaker:
 
 * **Tait Chamberlain** &mdash; U.S. Department of Education (ED)
@@ -236,6 +238,8 @@ In this session you will hear from the following speakers:
 ## You’re a Human-Centered Designer! Trust Me! (3:00 pm - 4:00 pm, ET)
 
 Human-centered design is critical to the success of building modern services. Especially in government, we should build services for people but also with the people - but also _with_ the people. But how do you build human-centered products that meet people’s needs without the resources for a dedicated human centered design person? In this presentation, we’ll demonstrate that folks with UX in their title don’t have a monopoly on human centered design methods. Learn about our experience as a team of federal staff who use human centered design methods at the Centers for Medicare & Medicaid Services (CMS) to improve healthcare delivery and care coordination for medicare beneficiaries.
+
+[View the slides](https://digital.gov/files/you-human-centered-designer-ux-summit.pptx) (PPT, 12.8 MB, 38 pages)
 
 In this session you will hear from the following speakers:
 
