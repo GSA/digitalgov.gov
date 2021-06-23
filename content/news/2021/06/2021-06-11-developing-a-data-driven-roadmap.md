@@ -3,7 +3,7 @@ date: 2021-06-14 17:00:00 -0500
 kicker: Data
 title: Developing a Data-Driven Roadmap
 deck: 
-summary: Presidential Innovation Fellows and the U.S. Department of Veterans Affairs share how complex organizations can create data-driven roadmaps.
+summary: A Presidential Innovation Fellow working with the U.S. Department of Veterans Affairs shares how complex organizations can create data-driven roadmaps.
 # See all topics at https://digital.gov/topics
 topics:
   - data
