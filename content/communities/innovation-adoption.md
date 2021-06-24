@@ -13,6 +13,9 @@ topics:
 authors:
   - bethany-blakey
   - brooke-dine
+  - vanessa-watters
+  - tina-chen
+  - julia-begley
 slug: innovation-adoption
 # Controls how this page appears across the site
 # 0 -- hidden
