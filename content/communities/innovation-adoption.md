@@ -26,23 +26,24 @@ community_list:
   - platform: listserv
     subscribe_email: INNOVATION-ADOPTION-subscribe-request@listserv.gsa.gov
     type: government
-    terms: Federal employees with a .gov or .mil
-      email address are eligible to join.
+    terms: Federal employees with a .gov or .mil email address are eligible to join.
+
 ---
+
 We are a community of Federal government employees who support each other as we learn, share, and adopt innovative approaches and new ways of working within our organizations.
 
 ## What We Do
 
-We inspire, support, and teach each other how to apply modern principles and practices to be the change we want to see. Our community is here for you to: 
+We inspire, support, and teach each other how to apply modern principles and practices to be the change we want to see. Our community is here for you to:
 
-* Collaborate with each other to   create real change by sharing questions, stories, and advice.
-* Connect with new, practicing, and expert intrapreneurs in government. 
+* Collaborate with each other to create real change by sharing questions, stories, and advice.
+* Connect with new, practicing, and expert intrapreneurs in government.
 * Shift your mindset around failure, how we work, and what’s possible.
 * Learn to leverage available tools and technologies, including shared solutions.
 
 ## Who We Are
 
-We are any federal employee who has ever struggled to bring about big or small changes to improve government programs and services. Our diverse community welcomes people from any job series, grade level, or location across the government. 
+We are any federal employee who has ever struggled to bring about big or small changes to improve government programs and services. Our diverse community welcomes people from any job series, grade level, or location across the government.
 
 ## Related Resources
 
