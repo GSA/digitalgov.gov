@@ -196,7 +196,7 @@ In this session you will hear from the following speaker:
 
 Designers across government must build rapport with subject matter experts (SMEs) in economics, policy, and other fields who often bring an analytical approach that clashes with the creative methods of design. How do we build bridges across disciplines? This case study will share insights on the application of a human-centered design approach to the [Equal Employment Opportunity process at the Consumer Financial Protection Bureau](https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/) (CFPB). Learn about ways to develop frameworks for co-creation with SMEs, navigating differences between legalese, service design, and plain language, as well as how to move from procedural actions to intentional interactions.
 
-[View the slides](https://digital.gov/files/overturning-precedent-alexis-finalrev.pptx (PPT, 412 KB, 10 pages)
+[View the slides](https://digital.gov/files/overturning-precedent-alexis-finalrev.pptx) (PPT, 412 KB, 10 pages)
 
 In this session you will hear from the following speaker:
 
