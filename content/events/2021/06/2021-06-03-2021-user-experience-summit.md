@@ -214,9 +214,10 @@ In order to improve customer experience at the Nuclear Regulatory Commission (NR
 
 In this session you will hear from the following speakers:
 
-* **Sara Bever** &mdash; Contractor
+* **Sarah Bever** &mdash; Contractor
 * **Scott Flanders** &mdash; NRC
 * **Gwen Hayden** &mdash; NRC
+* **Amy Roundtree** &mdash; NRC
 * **Basia Sall** &mdash; NRC
 
 - - -
