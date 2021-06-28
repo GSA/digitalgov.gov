@@ -22,7 +22,7 @@ weight: 1
 
 ---
 
-When I joined the federal government as a [Presidential Innovation Fellow](https://pif.gov) (PIF), I expected to be working somewhere drastically different than industry. As a [data science and software leader with experience spanning the full healthcare continuum](https://presidentialinnovationfellows.gov/fellows/wanmei-ou/), I was excited to be bringing my skills into a role of public service, where I would be working across health innovation teams in the U.S. Department of Veterans Affairs (VA). Now 18 months in, I’ve found more similarities than differences between high-regulated companies and the federal government. In this blog, I share some of the parallels I’ve experienced, and lessons healthcare innovators can use to improve their work in any sector.
+When I joined the federal government as a [Presidential Innovation Fellow](https://pif.gov) (PIF), I expected to be working somewhere drastically different than industry. As a [data science and software leader with experience spanning the full healthcare continuum](https://presidentialinnovationfellows.gov/fellows/wanmei-ou/), I was excited to be bringing my skills into a role of public service, where I would be working across health innovation teams in the U.S. Department of Veterans Affairs (VA). Now 18 months in, I’ve found more similarities than differences between highly-regulated companies and the federal government. In this blog, I share some of the parallels I’ve experienced, and lessons healthcare innovators can use to improve their work in any sector.
 
 {{< img src="wanmei-ou-ife-event" >}}
 
