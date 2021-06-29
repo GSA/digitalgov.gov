@@ -11,7 +11,7 @@ deck: "**Your Experience Matters**&mdash;The National Archives and Records
   students, veterans, information technologists, federal agencies and more.
   Archivist of the United States (AOTUS) David Ferriero has hired the agency's
   first Chief Customer Experience Officer, Stephanie Bogan, to help focus as an
-  agency on the public's experience. The agency’s Management Team has also been
+  agency on the public's experience. The agency’s management team has also been
   deputized to become their Customer Experience Executive Council in order to
   make customer-focused decisions for the agency and move it forward."
 summary: summary
