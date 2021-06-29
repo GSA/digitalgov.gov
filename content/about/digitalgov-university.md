@@ -18,6 +18,8 @@ We provide a range of free online and in-person trainings and events for people 
 **Interested in hosting an online or in-person training or event?**<br/>
 [**Send Us an email**](mailto:digitalgovu@gsa.gov?subject=Training%20Idea) from your federal .gov or .mil email account that describes your idea, the type of training or event you think would best convey that idea, and who the intended audience would be.
 
+## Use of Digital.gov Materials
+
 Unless a copyright is indicated, material presented by DigitalGov is free of copyright and may be copied and distributed without permission. Citation of Digital.gov as the source is appreciated. However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
 
 If a copyright is indicated on a photo, graphic, or other material, you must get permission from the original source to use or to copy this material.
