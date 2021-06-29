@@ -2,11 +2,17 @@
 slug: customer-experience-toolkit
 date: 2016-01-07 5:52:31 -0400
 title: Customer Experience Toolkit
-summary: 'Customer Experience (CX) is defined as the sum of all experiences a customer has with your organization. Since government is often a sole-source service provider (e.g., there&rsquo;s only one place to pay taxes, or get a driver&rsquo;s license), CX is even more important in the public sector than in other organizations. If that&rsquo;s not enough'
+summary: 'This Toolkit is intended to help government agencies improve how we deliver services and information to the public.'
 topics:
   - cx
 authors:
   - rflagg
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+weight: 3
 
 ---
 
