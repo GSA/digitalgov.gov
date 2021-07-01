@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/wcm-july-title-card.png
+
+# Image shortcode: {{< img src="wcm-july-title-card" >}}
+
+date     : 2021-07-01 18:04:31 -0400
+uid      : wcm-july-title-card
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
