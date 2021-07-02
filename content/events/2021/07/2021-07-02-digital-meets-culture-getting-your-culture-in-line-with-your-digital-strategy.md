@@ -55,6 +55,6 @@ Marisa Levine serves as the director of events and community partnerships for P
 
 - - -
 
-*This talk is hosted by the [Web Content Managers Forum Community of Practice and Digital.gov](*https://digital.gov/communities/web-content-managers*). The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites. This community is open to employees of a federal, tribal, state, or local U.S. government agency, working on government digital content. Community members can share news, findings, results, hurdles, and collaborate on issues related to managing government digital content.*
+*This talk is hosted by the [Web Content Managers Forum Community of Practice](https://digital.gov/communities/web-content-managers) and Digital.gov. The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites. This community is open to employees of a federal, tribal, state, or local U.S. government agency, working on government digital content. Community members can share news, findings, results, hurdles, and collaborate on issues related to managing government digital content.*
 
 - - -
