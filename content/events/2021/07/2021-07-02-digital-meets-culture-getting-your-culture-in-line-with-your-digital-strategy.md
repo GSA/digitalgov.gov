@@ -51,7 +51,9 @@ Join this event to learn more about digital services and transformation and hear
 
 Marisa Levine serves as the director of events and community partnerships for Presidential Innovation Fellows at Technology Transformation Services. Previously at Code for America and other non-profits with a brief stint in startups, her background is in events, fundraising, culture, and communications and her passion lies in connecting people and causes.
 
-**Patricia Beirne**  — Office of Personnel Management (OPM)
+**Patricia Beirne**  — Principal Designer, The Lab at Office of Personnel Management (OPM)
+
+Patty’s practice of design leadership leverages human-centered and systems-oriented methods to build more empathic services and organizations. As Principal Designer at the Lab at OPM, Patty shapes the creative strategy of the Lab’s portfolio, identifying opportunities to test and refine best practices in civic design at the federal level in a variety of agency contexts. Patty has 20 years experience as a design leader, strategist and educator applying systems thinking to the human-centered design process. She has built programs and teams poised to address complex challenges in spaces such as education and healthcare.
 
 - - -
 
