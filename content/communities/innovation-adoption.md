@@ -24,7 +24,7 @@ community_list:
   - platform: listserv
     subscribe_email: INNOVATION-ADOPTION-subscribe-request@listserv.gsa.gov
     type: government
-    terms: U.S. government employees only are eligible to join.
+    terms: Federal government employees only are eligible to join.
 
 ---
 
