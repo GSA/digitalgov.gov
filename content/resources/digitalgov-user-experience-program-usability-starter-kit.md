@@ -36,7 +36,6 @@ Here are some tools and templates to help you create better user experiences. If
    * [Expert Evaluation v2](https://docs.google.com/a/gsa.gov/forms/d/1QYKxyOQHNYrRAg1hqKiadERob-rRhQ-_ze5GB34PcyM/viewform) (via Google Forms)
 
 5. **Personas** (Audience Research):
-   * Veteran&#8217;s Affairs &#8211; [Voices of Veterans research](http://www.innovation.va.gov/hcd.asp)
    * [USDA Personas and Use Cases](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Marsh-Personas.pdf) (PDF, 1.7 MG, Dec. 2014)
    * [GSA Open Opportunity Personas](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/OPENOPPS-personas-final.pptx.pptx) (PPT, 94K, Dec. 2014) and [article about creating them](https://www.digitalgov.gov/2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities)
    * [Persona Template](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/Persona-Template.pptx) (PPT, 254 KB, 4 slides, May 2014)
