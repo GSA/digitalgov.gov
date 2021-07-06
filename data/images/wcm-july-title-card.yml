@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/wcm-july-title-card.png
+
+# Image shortcode: {{< img src="wcm-july-title-card" >}}
+
+date     : 2021-07-01 18:04:31 -0400
+uid      : wcm-july-title-card
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image of a multi-colored rhombus shapes with the lines of text on a gray background. The first line has Digital Meets Culture: Getting Your Culture in Line with Your Digital Strategy in blue text. The second line has July 15th, 2021 in black text. The third line has Hosted by the Web Managers Community of Practice. The Digitalgov logo in black is below the text." 
