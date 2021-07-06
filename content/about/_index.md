@@ -55,9 +55,8 @@ Learn more about [what our readers need »]({{< ref "/about/contribute.md#what-o
 
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
 
-**Digital.gov:** Sara Cope, Toni Bonitto <br/>
-**Communities:** Jacob Parcell <br/>
-**Video and Events:** Alexandar Schulte, Gabrielle Fratanduono <br/>
-**U.S. Web Design System:** Dan Williams <br/>
+**Digital.gov:** Toni Bonitto<br/>
+**Communities:** Alexandar Schulte<br/>
+**Video and Events:** Gabrielle Fratanduono, Mata Goldberg<br/>
 
 {{< button href="/about/contact/" text="Contact Us" >}}
