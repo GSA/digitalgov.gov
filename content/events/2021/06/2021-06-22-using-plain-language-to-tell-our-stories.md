@@ -1,6 +1,6 @@
 ---
 title: Using Plain Language To Tell Our Stories
-deck: Use templates to craft simple stories with purpose
+deck: Use templates to craft simple stories with purpose.
 kicker: Storytelling
 summary: >
   Learn how to tell a story and figure out what role plain language plays in
