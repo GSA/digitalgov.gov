@@ -102,4 +102,4 @@ We at TTS are committed to giving all voices space to be heard. A diverse organi
 
 ---
 
-*Reference to a corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the General Services Administration.*
+*Reference to a corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the U.S. General Services Administration.*
