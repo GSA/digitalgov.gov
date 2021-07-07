@@ -18,6 +18,12 @@ topics:
   - cx
   - user-centered-design
   - user-experience
+# See all authors at https://digital.gov/authors
+authors:
+- ammie-farraj-feijoo
+- ruxi-giura
+- lakshmi-grama
+- patty-beirne
 slug: digital-meets-culture-getting-your-culture-in-line-with-your-digital-strategy
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4826360&CustomerID=321
 date: 2021-07-15 14:00:00 -0500
