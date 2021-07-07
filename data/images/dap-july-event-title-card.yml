@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/dap-july-event-title-card.png
+
+# Image shortcode: {{< img src="dap-july-event-title-card" >}}
+
+date     : 2021-07-07 17:19:34 -0400
+uid      : dap-july-event-title-card
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
