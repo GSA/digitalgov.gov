@@ -32,7 +32,7 @@ community_list:
     type: government
     subscribe_email: "challenges-subscribe-request@listserv.gsa.gov"
     terms: "Anyone with a .gov or .mil email address is eligible to join"
-    members: 794
+    members: 800+
 
 ---
 
@@ -40,11 +40,11 @@ community_list:
 
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
-If you answered yes to any of these questions, the Challenge and Prize Federal Community of Practice is for you!
+If you answered yes to any of these questions, the Challenge and Prize Community of Practice (CoP) is for you!
 
 ## Who we are
 
-Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing. Our community strives to tap into the public braintrust to help government solve complex problems. We are a thriving inter-agency community of dedicated and passionate civil servants encouraging innovation in government. Membership and participation are open to federal, tribal, state and local government.
+Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing. Our community strives to tap into the public braintrust to help government solve complex problems. We are a thriving inter-agency community of over 800 dedicated and passionate civil servants encouraging innovation in government. Membership and participation are open to federal, tribal, state and local government.
 
 ## What we do
 
@@ -52,7 +52,7 @@ Our members exchange ideas, review best practices, and provide a sounding board 
 
 Our community supports and encourages the use of incentivized competition to attract and engage the public to help us meet critical government needs.
 
-Members of the Challenge and Prize COP gather about four times a year to share ideas, review best practices, and discuss policies and procedures. Membership and participation is open to federal, state, and local government. We host a listserv for members to ask questions, announce new challenges and prizes, and more.
+Members of the Challenge and Prize CoP gather regularly to share ideas, review best practices, and discuss policies and procedures. These convenings are designed to thoughtfully serve the needs of our diverse community members. A few examples are office hours, spotlight chats, deep dives, and thematic forums. We also host a listserv for members to ask questions, announce new challenges and prizes, and more. 
 
 ## Related Resources
 
