@@ -1,55 +1,35 @@
 ---
-
-# Your author profile page lives at:
-# https://digital.gov/authors/lakshmi-grama
-
-display_name: "Lakshmi Grama"
-first_name: "Lakshmi"
-last_name: "Grama"
-
-# Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
-# List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
-# See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
-# Examples: they/them, she/her, or he/him
+# e.g. U.S. General Services Administration
+agency_full_name: National Cancer Institute, National Institutes of Health
+YouTube: ""
+display_name: Lakshmi Grama
+first_name: Lakshmi
+last_name: Grama
+# List your pronoun(s) if you want them displayed alongside your name.
+# If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
-
-# slug — the specific user-id for an author.
-slug: lakshmi-grama
-
-# if you include an email address, it will be displayed on your profile page
-email: "lgrama@mail.nih.gov"
-
-# Bio — keep it under 50 words
-bio: ""
-
-# Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
+# If you include an email address, it will be displayed on your profile page
+email: lgrama@mail.nih.gov
+# Keep it under 50 words and only one paragraph
+bio: As Associate Director for Dissemination and Digital Communications at the National Cancer Institute (NCI) within the National Institutes of Health (NIH), Lakshmi strives to bring these various disciplines to bear to communicate the results of cancer research to people touched by cancer, their caregivers, and researchers. Her current focus is to make sure NCI’s digital strategy is future-ready given the rapid pace of transformation. Lakshmi’s three graduate degrees in Information Science, Applied Linguistics, and English Literature are the foundation for her work in cancer communications.
+# Where can people learn more about your work?
+# Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "National Institutes of Health"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
-
+agency: NIH
+# [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
+# Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
+# Learn more about getting a Github account at [URL]
+github: ""
+facebook: ""
+slug: lakshmi-grama
+profile_source: ""
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
-
-# Your GitHub username [e.g. 'jeremyzilar']
-# See [URL] Having a GitHub account will allow you to edit pages on DigitalGov. The image used in your GitHub account can also be used to populate your digital.gov profile photo.
-github: ""
-
-# Profile Photo
-# See [URL] for a full list of profile photo options
-# github-photo — requires a github ID
-profile_source: ""
-
-# Professional Social Media [e.g., Digital_Gov]
 twitter: ""
-facebook: ""
 linkedin: ""
-YouTube: ""
-
-# For more information on managing your author page,
-# see https://workflow.digital.gov/authors
-
 ---
