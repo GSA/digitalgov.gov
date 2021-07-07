@@ -29,6 +29,7 @@ captions: https://www.captionedtext.com/client/event.aspx?EventID=4826360&Custom
 date: 2021-07-15 14:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: wcm-july-title-card
 ---
 In today’s environment, federal teams are continually improving and transforming digital services. Teams and organizations are becoming more agile over time, learning new processes, techniques, and skills that allow them to implement digital services faster and more iteratively. Adapting to calls for a better customer experience, increased accessibility for all, and a more agile approach requires change — technical change, culture change, and more. 
 
