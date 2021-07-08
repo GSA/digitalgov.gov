@@ -48,7 +48,7 @@ So, a cadre of participants from different agencies developed a unique collectio
   2. Improving Government Services Delivery
   3. Solving Complex Problems
   4. Working with Innovators
-* We designed four innovation archetypes to understand the behaviors and needs of innovators in government.
+* We designed four innovation archetypes to understand the behaviors and needs of innovators in government:
   * Doers
   * Dreamers
   * Champions
