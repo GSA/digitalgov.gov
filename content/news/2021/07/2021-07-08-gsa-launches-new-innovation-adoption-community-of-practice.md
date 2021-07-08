@@ -20,6 +20,7 @@ authors:
   - brooke-dine
   - julia-begley
 slug: gsa-launches-new-innovation-adoption-community-of-practice
+primary_image: innovation-adoption-cop-blog-post
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
