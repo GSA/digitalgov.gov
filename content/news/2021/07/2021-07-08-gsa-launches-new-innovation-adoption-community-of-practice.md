@@ -47,10 +47,10 @@ So, a cadre of participants from different agencies developed a unique collectio
   * Play 5: Let data inform your decision making
   * Play 6: Innovation is not a one-size-fits-all approach
 * We created a toolkit to explore four meaningful categories:
-  1. 21st Century Culture and Workflow
-  2. Improving Government Services Delivery
-  3. Solving Complex Problems
-  4. Working with Innovators
+  * Category 1: 21st Century Culture and Workflow
+  * Category 2: Improving Government Services Delivery
+  * Category 3: Solving Complex Problems
+  * Category 4: Working with Innovators
 * We designed four innovation archetypes to understand the behaviors and needs of innovators in government:
   * Doers
   * Dreamers
