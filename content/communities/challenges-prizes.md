@@ -32,7 +32,7 @@ community_list:
     type: government
     subscribe_email: "challenges-subscribe-request@listserv.gsa.gov"
     terms: "Anyone with a .gov or .mil email address is eligible to join"
-    members: 800+
+    members: 800
 
 ---
 
