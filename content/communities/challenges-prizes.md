@@ -52,7 +52,7 @@ Our members exchange ideas, review best practices, and provide a sounding board 
 
 Our community supports and encourages the use of incentivized competition to attract and engage the public to help us meet critical government needs.
 
-Members of the Challenge and Prize CoP gather regularly to share ideas, review best practices, and discuss policies and procedures. These convenings are designed to thoughtfully serve the needs of our diverse community members. A few examples are office hours, spotlight chats, deep dives, and thematic forums. We also host a listserv for members to ask questions, announce new challenges and prizes, and more. 
+Members of the Challenge and Prize CoP gather regularly to share ideas, review best practices, and discuss policies and procedures. These convenings are designed to thoughtfully serve the needs of our diverse community members. A few examples are office hours, spotlight chats, deep dives, and thematic forums. We also host a listserv for members to ask questions, announce new challenges and prizes, and more.
 
 ## Related Resources
 
