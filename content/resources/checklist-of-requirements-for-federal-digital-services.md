@@ -194,9 +194,8 @@ Implement security and management controls to prevent the inappropriate disclosu
 * [OMB M-17-12, Preparing for and Responding to a Breach of Personally Identifiable Information](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-12_0.pdf) (PDF, 26,964 KB, 47 pages, January 2017)
 * [OMB M-17-09, Management of Federal High Value Assets](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-09.pdf) (PDF, 9.14 MB, 16 pages, December 2016)
 * [OMB M-11-11, Continued Implementation of Homeland Security Presidential Directive (HSPD) 12–Policy for a Common Identification Standard for Federal Employees and Contractors](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf) (PDF, 205 KB, 6 pages, February 2011)
-* [OMB M-07-16, Safeguarding Against and Responding to the Breach of Personally Identifiable Information](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2007/m07-16.pdf) (PDF, 228 KB, 22 pages, May 2007)
-* [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22) (September 2003)
-* [Relevant 800 series NIST Special Publications](https://www.nist.gov/itl/publications-0/nist-special-publication-800-series-general-information); 
+* [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://www.whitehouse.gov/wp-content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-Government-Act-of-2002-1.pdf) (September 2003)
+* [800 series NIST Special Publications](https://www.nist.gov/itl/publications-0/nist-special-publication-800-series-general-information); 
 * [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
 
