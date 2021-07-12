@@ -13,20 +13,19 @@ summary: "Addressing web and digital communications related to COVID-19"
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 4
+weight: 1
 
 # topics:
-#   - web-content-managers-forum
-#   - design
-#   - content
-#   - social media
-#   - content strategy
-#   - strategy
-#   - customer service
+  - web-content-managers-forum
+  - design
+  - content
+  - social media
+  - content strategy
+  - strategy
+  - customer service
 
 aliases:
   - /coronavirus/
-
 
 # Primary Image (for social media)
 primary_image: "card-covid-19-guidance"
