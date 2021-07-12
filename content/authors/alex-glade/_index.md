@@ -5,7 +5,13 @@ last_name: Glade
 # If you include an email address, it will be displayed on your profile page
 email: alex.glade@gsa.gov
 # Keep it under 50 words and only one paragraph
-bio: "Alex Glade is a Presidential Innovation Fellow with the National Geospatial-Intelligence Agency. Alex is motivated by opportunities to help people, and believes an empathetic heart should be at the core of how we serve. She is an education enthusiast who is passionate about diversity, equity, and inclusion, and advocates that quality early-childhood education and care should be accessible and affordable for all families."
+bio: Alex Glade is a Presidential Innovation Fellow detailed to the National
+  Geospatial Intelligence Agency and serves as an advisor for the Agency's
+  leadership on Culture and Leadership Development.  She began her professional
+  career as an Army Engineer and led various teams in the U.S. and Asia. Prior
+  to PIF, Alex helped launch several companies and nonprofits.  She is a parent
+  of two and passionate about the growing national dialogue on early childhood
+  education and development accessibility.
 # Where can people learn more about your work?
 # Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: https://presidentialinnovationfellows.gov/fellows/alex-glade/
