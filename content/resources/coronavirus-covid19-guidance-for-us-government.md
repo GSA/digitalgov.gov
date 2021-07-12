@@ -13,8 +13,9 @@ summary: "Addressing web and digital communications related to COVID-19"
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 1
-# topics:
+weight: 2
+
+topics:
   - web-content-managers-forum
   - design
   - content
@@ -29,7 +30,6 @@ aliases:
 # Primary Image (for social media)
 primary_image: "card-covid-19-guidance"
 
-# Make it better ♥
 ---
 
 In response to Coronavirus Disease 2019 (COVID-19), and in conjunction with the White House, the US Department of Health and Human Services (HHS), and the [Federal Web Council](https://digital.gov/resources/federal-web-council/), the US Department of Homeland Security (DHS) is issuing guidance for the coordination of Federal web and social media communications related to this incident.
