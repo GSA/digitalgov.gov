@@ -14,7 +14,6 @@ summary: "Addressing web and digital communications related to COVID-19"
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
-
 # topics:
   - web-content-managers-forum
   - design
