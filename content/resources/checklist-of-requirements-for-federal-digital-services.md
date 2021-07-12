@@ -117,11 +117,11 @@ Include all required FOIA content and links.
 * [Proactive Disclosure of Non-Exempt Agency Information: Making Information Available Without the Need to File a FOIA Request](https://www.justice.gov/oip/oip-guidance/proactive_disclosure_of_non-exempt_information)
 
 Records that must be posted under FOIA:
-* - Methods for making requests or obtaining information or decisions;
-* - Final opinions, including concurring and dissenting opinions, as well as orders made adjudicating cases;
-* - Statements of policy and interpretations adopted by the agency but not published in the Federal Register;
-* - Administrative manuals and staff instructions that affect the public; and
-* - Records that have been released under FOIA, are likely to be requested or have been requested three or more times (the “Rule of Three.”).
+* Methods for making requests or obtaining information or decisions;
+* Final opinions, including concurring and dissenting opinions, as well as orders made adjudicating cases;
+* Statements of policy and interpretations adopted by the agency but not published in the Federal Register;
+* Administrative manuals and staff instructions that affect the public; and
+* Records that have been released under FOIA, are likely to be requested or have been requested three or more times (the “Rule of Three.”).
 
 [Categories of records](https://www.archives.gov/files/final-report-and-recommendations-of-2016-2018-foia-advisory-committee.pdf) to prioritize for posting:
 * Records frequently requested under FOIA
@@ -140,9 +140,9 @@ Records that must be posted under FOIA:
 
 Establish a digital governance structure to provide accountability and enforce policies and standards. Manage and fund your digital presence as an integral part of your overall business, communications, and customer experience strategies. Leverage existing infrastructure, shared tools, best practices, and communities of practice, and coordinate within and across agencies to create efficiency and reduce duplication. When missions overlap, collaborate with other agencies to develop cross-agency websites (portals); coordinate across government to disseminate emergency response info.
 
-- [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
-- [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
-- [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012) (requirement 4.2)
+* [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
+* [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
+* [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012) (requirement 4.2)
 
 <p class="more"><a href="{{< ref "/topics/governance" >}}">More on Governance <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -150,7 +150,7 @@ Establish a digital governance structure to provide accountability and enforce p
 
 Create content that's accurate, relevant, easy-to-use, and conveyed in plain language. Maximize the quality, objectivity, utility, and integrity of information and services provided to the public, and make information and services available on a timely and equitable basis.
 
-- [Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515)](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information) (PDF, 161 KB, 10 pages, February 2002)
+* [Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515)](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information) (PDF, 161 KB, 10 pages, February 2002)
 
 ## Mandatory Content
 
