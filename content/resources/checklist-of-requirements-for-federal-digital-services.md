@@ -27,8 +27,7 @@ You should regularly review your agency's websites and other digital products an
 
 These high-level policies cover basic requirements for all websites and digital services.
 
-* [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
-* [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
+* [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 * [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
@@ -191,8 +190,12 @@ Federal executive branch agencies are required to write all new or significantly
 
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide service through a secure connection. Provide a link to your privacy policy on every page, or in your overall site policies. Conduct a privacy impact assessment of your website. Post a "Privacy Act Statement" that explains your legal authority for collecting personal data and how the data will be used.
 
-* [M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) (PDF, 1 MB, 13 pages, May 2019)
-* [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22) (September 2003)
+* [OBM M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) (PDF, 1 MB, 13 pages, May 2019)
+* [OMB M-17-12, Preparing for and Responding to a Breach of Personally Identifiable Information](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-12_0.pdf) (PDF, 26,964 KB, 47 pages, January 2017)
+* [OMB M-17-09, Management of Federal High Value Assets](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-09.pdf) (PDF, 9.14 MB, 16 pages, December 2016)
+* [OMB M-11-11, Continued Implementation of Homeland Security Presidential Directive (HSPD) 12–Policy for a Common Identification Standard for Federal Employees and Contractors](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf) (PDF, 205 KB, 6 pages, February 2011)
+* [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://www.whitehouse.gov/wp-content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-Government-Act-of-2002-1.pdf) (September 2003)
+* [800 series NIST Special Publications](https://www.nist.gov/itl/publications-0/nist-special-publication-800-series-general-information)
 * [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
 
@@ -229,7 +232,6 @@ Implement security and management controls to prevent the inappropriate disclosu
 * [Federal Information Security Modernization Act of 2014 (FISMA) (Public Law 113-283)](https://www.gpo.gov/fdsys/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf) (PDF, December 2014)
 * [NIST Guidelines on Securing Public Web Servers](http://csrc.nist.gov/publications/nistpubs/800-44-ver2/SP800-44v2.pdf) (PDF, 960 KB, 142 pages, September 2007)
 * [OMB M-04-15 Reporting Instructions for the Federal Information Security Management Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m-04-15.pdf) (PDF, 269 KB, 28 pages, August 2004)
-* [Federal Information Security Management Act of 2002: FISMA Presentation to 2003 FISSEA Conference](http://csrc.nist.gov/organizations/fissea/2003-conference/presentations/fissea-FISMA-030603.pdf) (PDF, 62.5 KB, 17 pages, April 2003)
 
 ## Technology Standards
 
