@@ -20,7 +20,9 @@ topics:
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:
+- alex-glade
 - ammie-farraj-feijoo
+- ann-marie-regan
 - ruxi-giura
 - lakshmi-grama
 - patty-beirne
@@ -44,17 +46,23 @@ Join this event to learn more about digital services and transformation and hear
 * What is the biggest challenge in building high-performing digital teams?
 * How do you engage with stakeholders throughout the process?
 
-**We’ll kick off the event with a panel discussion moderated by Marisa Levine, a presidential innovation fellow at GSA, followed by Q&A.**
+**We’ll kick off the event with a panel discussion moderated by Marisa Levine, Director of Events and Community Partnerships, Presidential Innovation Fellows, Technology Transformation Services, followed by Q&A.**
 
 ## Speakers
 
-**Alex Glade** — General Services Administration (GSA) *invited pending approval*
+**Alex Glade** — General Services Administration (GSA)
+
+Alex Glade is a Presidential Innovation Fellow with the National Geospatial-Intelligence Agency. Alex is motivated by opportunities to help people, and believes an empathetic heart should be at the core of how we serve. She is an education enthusiast who is passionate about diversity, equity, and inclusion, and advocates that quality early-childhood education and care should be accessible and affordable for all families.
 
 **Ann-Marie Regan** —  National Naval Medical Center (NNMC)
 
+Ann-Marie C. Regan, MSOD, is the Special Assistant for Organizational Development at the Walter Reed National Military Medical Center, Bethesda, MD. She plans and designs strategy development and implementation, leads change management and process improvement efforts, coaches executives and teams, and organizes engaging retreats. She supports senior military healthcare leaders in the National Capital Region in complex systems change and through transitions.
+
 **Lakshmi Grama** — National Institutes of Health (NIH)
 
-**Marisa Levine** — General Services Administration (GSA) *invited pending approval*
+Lakshmi is an Associate Director for Dissemination and Digital Communications at the National Cancer Institute (NCI) within the National Institutes of Health (NIH), who strives to bring these various disciplines to bear to communicate the results of cancer research to people touched by cancer, their caregivers, and researchers. Her current focus is to make sure NCI’s digital strategy is future-ready given the rapid pace of transformation. Lakshmi’s three graduate degrees in Information Science, Applied Linguistics, and English Literature are the foundation for her work in cancer communications.
+
+**Marisa Levine** — General Services Administration (GSA)
 
 Marisa Levine serves as the director of events and community partnerships for Presidential Innovation Fellows at Technology Transformation Services. Previously at Code for America and other non-profits with a brief stint in startups, her background is in events, fundraising, culture, and communications and her passion lies in connecting people and causes.
 
