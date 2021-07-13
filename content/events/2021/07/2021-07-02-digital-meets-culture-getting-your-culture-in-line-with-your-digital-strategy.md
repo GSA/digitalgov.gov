@@ -52,7 +52,7 @@ Join this event to learn more about digital services and transformation and hear
 
 ## Speakers
 
-**Alex Glade** — General Services Administration (GSA)
+**Alex Glade** — Presidential Innovation Fellows (PIF)
 
 Alex Glade is a Presidential Innovation Fellow (PIF) detailed to the National Geospatial Intelligence Agency and serves as an advisor for the agency's leadership on Culture and Leadership Development. She began her professional career as an Army Engineer and led various teams in the U.S. and Asia. Prior to PIF, Alex helped launch several companies and nonprofits. She is a parent of two and passionate about the growing national dialogue on early childhood education and development accessibility.
 
@@ -64,7 +64,7 @@ Ann-Marie C. Regan, MSOD, is the special assistant for organizational developmen
 
 Lakshmi is an associate director for dissemination and digital communications at the National Cancer Institute (NCI) within the National Institutes of Health (NIH). She strives to bring these various disciplines to bear to communicate the results of cancer research to people touched by cancer, their caregivers, and researchers. Her current focus is to make sure NCI’s digital strategy is future-ready given the rapid pace of transformation. Lakshmi’s three graduate degrees in Information Science, Applied Linguistics, and English Literature are the foundation for her work in cancer communications.
 
-**Marisa Levine** — General Services Administration (GSA)
+**Marisa Levine** — Presidential Innovation Fellows (PIF)
 
 Marisa Levine serves as the director of events and community partnerships for Presidential Innovation Fellows within the Technology Transformation Services (TTS). Previously at Code for America and other non-profits with a brief stint in startups, her background is in events, fundraising, culture, and communications. Her passion lies in connecting people and causes.
 
