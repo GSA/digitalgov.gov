@@ -117,6 +117,7 @@ Include all required FOIA content and links.
 * [Proactive Disclosure of Non-Exempt Agency Information: Making Information Available Without the Need to File a FOIA Request](https://www.justice.gov/oip/oip-guidance/proactive_disclosure_of_non-exempt_information)
 
 Records that must be posted under FOIA:
+
 * Methods for making requests or obtaining information or decisions;
 * Final opinions, including concurring and dissenting opinions, as well as orders made adjudicating cases;
 * Statements of policy and interpretations adopted by the agency but not published in the Federal Register;
@@ -124,6 +125,7 @@ Records that must be posted under FOIA:
 * Records that have been released under FOIA, are likely to be requested or have been requested three or more times (the “Rule of Three.”).
 
 [Categories of records](https://www.archives.gov/files/final-report-and-recommendations-of-2016-2018-foia-advisory-committee.pdf) to prioritize for posting:
+
 * Records frequently requested under FOIA
 * Agency FOIA logs
 * Materials that are related to the operation and establishment of federal advisory committees
