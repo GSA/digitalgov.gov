@@ -48,15 +48,15 @@ Join this event to learn more about digital services and transformation and hear
 * What is the biggest challenge in building high-performing digital teams?
 * How do you engage with stakeholders throughout the process?
 
-**We’ll kick off the event with a panel discussion moderated by Marisa Levine, Presidential Innovation Fellows director of events and community partnerships, followed by a Q&A session.**
+**We’ll kick off the event with a panel discussion moderated by Marisa Levine, Presidential Innovation Fellows director of events and community partnerships, followed by Q&A.**
 
 ## Speakers
 
-**Alex Glade** — General Services Administration (GSA)
+**Alex Glade** — Presidential Innovation Fellows (PIF)
 
-Alex Glade is a Presidential Innovation Fellow (PIF) detailed to the National Geospatial Intelligence Agency and serves as an advisor for the agency's leadership on Culture and Leadership Development. She began her professional career as an Army Engineer and led various teams in the U.S. and Asia. Prior to PIF, Alex helped launch several companies and nonprofits. She is a parent of two and passionate about the growing national dialogue on early childhood education and development accessibility.
+Alex Glade is a Presidential Innovation Fellow detailed to the National Geospatial Intelligence Agency and serves as an advisor for the agency's leadership on Culture and Leadership Development. She began her professional career as an Army Engineer and led various teams in the U.S. and Asia. Prior to PIF, Alex helped launch several companies and nonprofits. She is a parent of two and passionate about the growing national dialogue on early childhood education and development accessibility.
 
-**Ann-Marie Regan** —  National Naval Medical Center (NNMC)
+**Ann-Marie Regan** — National Naval Medical Center (NNMC)
 
 Ann-Marie C. Regan, MSOD, is the special assistant for organizational development at the Walter Reed National Military Medical Center, Bethesda, MD. She plans and designs strategy development and implementation, leads change management and process improvement efforts, coaches executives and teams, and organizes engaging retreats. She supports senior military healthcare leaders in the National Capital Region in complex systems change and through transitions.
 
@@ -64,9 +64,9 @@ Ann-Marie C. Regan, MSOD, is the special assistant for organizational developmen
 
 Lakshmi is an associate director for dissemination and digital communications at the National Cancer Institute (NCI) within the National Institutes of Health (NIH). She strives to bring these various disciplines to bear to communicate the results of cancer research to people touched by cancer, their caregivers, and researchers. Her current focus is to make sure NCI’s digital strategy is future-ready given the rapid pace of transformation. Lakshmi’s three graduate degrees in Information Science, Applied Linguistics, and English Literature are the foundation for her work in cancer communications.
 
-**Marisa Levine** — General Services Administration (GSA)
+**Marisa Levine** — Presidential Innovation Fellows (PIF)
 
-Marisa Levine serves as the director of events and community partnerships for Presidential Innovation Fellows within the Technology Transformation Services (TTS). Previously at Code for America and other non-profits with a brief stint in startups, her background is in events, fundraising, culture, and communications. Her passion lies in connecting people and causes.
+Marisa Levine serves as the director of events and community partnerships for Presidential Innovation Fellows within the Technology Transformation Services (TTS) at the U.S. General Services Administration (GSA). Previously in civic tech, startups, and non-profits, her background is in events, fundraising, culture, and communications. Her passion lies in connecting people and causes.
 
 **Patricia Beirne**  — The Lab at Office of Personnel Management (OPM)
 
