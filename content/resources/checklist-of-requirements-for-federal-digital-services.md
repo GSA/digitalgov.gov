@@ -93,7 +93,7 @@ following user experience guidance, and using USWDS code.
 
 Follow current government design standards when creating new websites or making significant changes to existing websites.
 
-- [Website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
+* [Website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
 
 <p class="more"><a href="{{< ref "/topics/design" >}}">More on Design <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -105,13 +105,46 @@ Federal executive branch agency websites must use only .gov or .mil domains unle
 * [Final Rule – 41 CFR Part 102-173](https://www.dotgov.gov/portal/web/dotgov/policy) authorizes GSA to manage the .gov registration process
 * [Policies for DotGov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 KB, 2 pages, January 2015)
 
+## Freedom of Information Act (FOIA)
+
+Include all required FOIA content and links.
+
+* [Freedom of Information Act (FOIA)](https://www.justice.gov/oip/freedom-information-act-5-usc-552)
+* [Memo to Agency Heads with updated guidance on implementing the Freedom of Information Act (March 19, 2009)](http://www.justice.gov/sites/default/files/ag/legacy/2009/06/24/foia-memo-march2009.pdf) (PDF, 1 MB, 3 pages, March 2009) - In 2016 FOIA was amended to note that, in situations in which release is discretionary, disclosure is the default unless the agency can show that an interest protected by one or more of FOIA’s nine exemptions would be harmed by disclosure
+* [Agency FOIA Websites 2.0](https://www.justice.gov/oip/oip-guidance/OIP%20Guidance%3A%20%20Agency%20FOIA%20Websites%202.0) - Department of Justice
+* [FOIA Frequently Asked Questions](http://www.foia.gov/faq.html) – FOIA.gov
+* [Methods Agencies Use to Prepare Documents for Posting on Agency FOIA Websites](https://www.archives.gov/ogis/foia-compliance-program/targeted-assessments/posting-docs-assessment-2020-dec-16)
+* [Proactive Disclosure of Non-Exempt Agency Information: Making Information Available Without the Need to File a FOIA Request](https://www.justice.gov/oip/oip-guidance/proactive_disclosure_of_non-exempt_information)
+
+Records that must be posted under FOIA:
+
+* Methods for making requests or obtaining information or decisions;
+* Final opinions, including concurring and dissenting opinions, as well as orders made adjudicating cases;
+* Statements of policy and interpretations adopted by the agency but not published in the Federal Register;
+* Administrative manuals and staff instructions that affect the public; and
+* Records that have been released under FOIA, are likely to be requested or have been requested three or more times (the “Rule of Three.”).
+
+[Categories of records](https://www.archives.gov/files/final-report-and-recommendations-of-2016-2018-foia-advisory-committee.pdf) to prioritize for posting:
+
+* Records frequently requested under FOIA
+* Agency FOIA logs
+* Materials that are related to the operation and establishment of federal advisory committees
+* Unclassified agency reports and testimony submitted to Congress
+* An agency organizational chart and a directory listing contact information for all offices
+* Proposed agency records schedules
+* Statements of administration policy and enrolled bill memoranda submitted to the Office of Management and Budget
+* Records pertaining to lobbying such as Form SF-LLL, Disclosure of Lobbying Activities
+* Calendars of top officials (e.g., Secretary, Deputy Secretary, Assistant Secretary, and other agency heads) within one month, subject to privacy and security redactions
+* The agency’s top 10 contracts, task orders, and grants, as measured by dollar value, and all contracts, task orders, and grants that are valued at more than $100 million
+* Material that has been declassified, to the greatest extent possible
+
 ## Governance
 
 Establish a digital governance structure to provide accountability and enforce policies and standards. Manage and fund your digital presence as an integral part of your overall business, communications, and customer experience strategies. Leverage existing infrastructure, shared tools, best practices, and communities of practice, and coordinate within and across agencies to create efficiency and reduce duplication. When missions overlap, collaborate with other agencies to develop cross-agency websites (portals); coordinate across government to disseminate emergency response info.
 
-- [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
-- [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
-- [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012) (requirement 4.2)
+* [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
+* [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
+* [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012) (requirement 4.2)
 
 <p class="more"><a href="{{< ref "/topics/governance" >}}">More on Governance <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -119,17 +152,15 @@ Establish a digital governance structure to provide accountability and enforce p
 
 Create content that's accurate, relevant, easy-to-use, and conveyed in plain language. Maximize the quality, objectivity, utility, and integrity of information and services provided to the public, and make information and services available on a timely and equitable basis.
 
-- [Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515)](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information) (PDF, 161 KB, 10 pages, February 2002)
+* [Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515)](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information) (PDF, 161 KB, 10 pages, February 2002)
 
-## Mandatory Content (incl. FOIA)
+## Mandatory Content
 
-Include all [required content and links]({{< ref "/resources/required-web-content-and-links.md" >}}), including FOIA info. Include a text link back to your homepage on every page of your website (typically in site header.) (If you use a graphical link, it must have appropriate alt text).
+Include all required content and links. Implement the [U.S. Web Design System](https://designsystem.digital.gov/), particularly the [banner](https://designsystem.digital.gov/components/banner/) and [identifier](https://designsystem.digital.gov/components/identifier/) components, to enable more consistency around common content elements across federal websites.
 
-* [Freedom of Information Act (FOIA)](http://www.justice.gov/jmd/freedom-information-act-pl-89-487) (PDF, 109 KB, 13 pages, April 2007)
-* [Memo to Agency Heads with updated guidance on implementing the Freedom of Information Act (March 19, 2009)](http://www.justice.gov/sites/default/files/ag/legacy/2009/06/24/foia-memo-march2009.pdf) (PDF, 1 MB, 3 pages, March 2009)
-* [FOIA Frequently Asked Questions](http://www.foia.gov/faq.html) – FOIA.gov
-* [Proper Consideration of Small Entities in Agency Rulemaking](https://www.federalregister.gov/documents/2002/08/16/02-21056/proper-consideration-of-small-entities-in-agency-rulemaking) (August 2002)
-* [Government Performance Results Act of 1993](https://www.congress.gov/bill/103rd-congress/senate-bill/20) (GPRA)
+* [Required content and links]({{< ref "/resources/required-web-content-and-links.md" >}})
+* [U.S. Web Design System](https://designsystem.digital.gov/)
+* [Government Performance and Results (GPRA) Modernization Act of 2010](https://www.congress.gov/bill/111th-congress/house-bill/2142)
 
 ## Mobile
 
