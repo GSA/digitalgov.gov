@@ -14,7 +14,7 @@ aliases:
 
 ---
 {{< box >}}
-**Have a questions for the DAP team?** Send an email to [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) and we’ll get back to you.
+**Have a question for the DAP team?** Send an email to [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) and we’ll get back to you.
 {{< /box >}}
 
 **The Digital Analytics Program (DAP)** offers a web analytics tool, training, and support to federal agencies. The program is a shared service provided by the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov) (GSA).
