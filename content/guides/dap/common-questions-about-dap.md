@@ -11,7 +11,7 @@ aliases:
 ---
 
 {{< box >}}
-**Have a questions for the DAP team?** Send an email to [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) and we’ll get back to you.
+**Have a question for the DAP team?** Send an email to [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) and we’ll get back to you.
 {{< /box >}}
 
 {{< guide-toc >}}
