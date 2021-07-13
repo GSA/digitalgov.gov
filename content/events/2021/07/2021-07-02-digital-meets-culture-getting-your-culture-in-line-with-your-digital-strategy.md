@@ -54,7 +54,7 @@ Join this event to learn more about digital services and transformation and hear
 
 **Alex Glade** — Presidential Innovation Fellows (PIF)
 
-Alex Glade is a Presidential Innovation Fellow (PIF) detailed to the National Geospatial Intelligence Agency and serves as an advisor for the agency's leadership on Culture and Leadership Development. She began her professional career as an Army Engineer and led various teams in the U.S. and Asia. Prior to PIF, Alex helped launch several companies and nonprofits. She is a parent of two and passionate about the growing national dialogue on early childhood education and development accessibility.
+Alex Glade is a Presidential Innovation Fellow detailed to the National Geospatial Intelligence Agency and serves as an advisor for the Agency's leadership on Culture and Leadership Development.  She began her professional career as an Army Engineer and led various teams in the U.S. and Asia. Prior to PIF, Alex helped launch several companies and nonprofits.  She is a parent of two and passionate about the growing national dialogue on early childhood education and development accessibility.
 
 **Ann-Marie Regan** —  National Naval Medical Center (NNMC)
 
@@ -66,7 +66,7 @@ Lakshmi is an associate director for dissemination and digital communications at
 
 **Marisa Levine** — Presidential Innovation Fellows (PIF)
 
-Marisa Levine serves as the director of events and community partnerships for Presidential Innovation Fellows within the Technology Transformation Services (TTS). Previously at Code for America and other non-profits with a brief stint in startups, her background is in events, fundraising, culture, and communications. Her passion lies in connecting people and causes.
+Marisa Levine serves as the director of events and community partnerships for Presidential Innovation Fellows within the Technology Transformation Services (TTS). Previously in civic tech, startups, and non-profits, her background is in events, fundraising, culture, and communications. Her passion lies in connecting people and causes.
 
 **Patricia Beirne**  — The Lab at Office of Personnel Management (OPM)
 
