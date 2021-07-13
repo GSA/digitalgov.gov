@@ -93,7 +93,7 @@ following user experience guidance, and using USWDS code.
 
 Follow current government design standards when creating new websites or making significant changes to existing websites.
 
-- [Website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
+* [Website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
 
 <p class="more"><a href="{{< ref "/topics/design" >}}">More on Design <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -159,7 +159,7 @@ Create content that's accurate, relevant, easy-to-use, and conveyed in plain lan
 Include all required content and links. Implement the [U.S. Web Design System](https://designsystem.digital.gov/), particularly the [banner](https://designsystem.digital.gov/components/banner/) and [identifier](https://designsystem.digital.gov/components/identifier/) components, to enable more consistency around common content elements across federal websites.
 
 * [Required content and links]({{< ref "/resources/required-web-content-and-links.md" >}})
-* [U.S. Web Design System](https://designsystem.digital.gov/) 
+* [U.S. Web Design System](https://designsystem.digital.gov/)
 * [Government Performance and Results (GPRA) Modernization Act of 2010](https://www.congress.gov/bill/111th-congress/house-bill/2142)
 
 ## Mobile
