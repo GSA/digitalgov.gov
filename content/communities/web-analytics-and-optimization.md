@@ -51,4 +51,3 @@ We’re federal website analysts, developers, content strategists, user experien
 * [Search.gov](https://search.gov/)
 * [U.S. Web Design System](https://designsystem.digital.gov/)
 * [Web Analytics Playbook](https://digital.gov/guides/web-analytics-playbook/)
-* 
