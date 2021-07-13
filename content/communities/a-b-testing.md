@@ -11,6 +11,7 @@ summary: "We encourage data-driven decisions and continuous optimization through
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/web-analytics-and-optimization/
+  - /communities/a-b-testing-community
 
 # see all topics at https://digital.gov/topics
 topics:
