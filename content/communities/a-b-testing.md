@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/communities/ab-testing
+# View this page at https://digital.gov/communities/a-b-testing-community
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: a-b-testing-community
