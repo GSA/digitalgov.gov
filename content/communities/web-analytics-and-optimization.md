@@ -1,9 +1,7 @@
 ---
 date: 2021-07-07 09:13:00 -0500
 title: Web Analytics and Optimization
-summary: We discuss strategies, methods, and tools related to analytics, A/B
-  testing, search engine optimization (SEO), and other topics to help the
-  federal government improve web experiences for users.
+summary: We discuss strategies, methods, and tools related to analytics, A/B testing, search engine optimization (SEO), and other topics to help the federal government improve web experiences for users.
 # See all topics at https://digital.gov/topics
 topics:
   - a-b-testing
@@ -12,6 +10,12 @@ topics:
   - user-experience
   - usability
   - search-engine-optimization
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /communities/a-b-testing-community
+  - /communities/a-b-testing
+
 # See all authors at https://digital.gov/authors
 authors:
   - kelley-holden
@@ -28,7 +32,9 @@ community_list:
     type: government
     subscribe_email: ANALYZE-OPTIMIZE-subscribe-request@LISTSERV.GSA.GOV
     terms: Government employees and contractors only.
+
 ---
+
 In government, those with analytics as part of their duties are faced with a fast-paced, ever-changing environment. Technologies, strategies, and tools change regularly. This community aims to uncover best practices, case studies, tips, and tools for web analytics and optimization.
 
 ## What We Do
@@ -45,5 +51,3 @@ We’re federal website analysts, developers, content strategists, user experien
 * [Search.gov](https://search.gov/)
 * [U.S. Web Design System](https://designsystem.digital.gov/)
 * [Web Analytics Playbook](https://digital.gov/guides/web-analytics-playbook/)
-
-
