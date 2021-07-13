@@ -111,7 +111,7 @@ Include all required FOIA content and links.
 
 * [Freedom of Information Act (FOIA)](https://www.justice.gov/oip/freedom-information-act-5-usc-552)
 * [Memo to Agency Heads with updated guidance on implementing the Freedom of Information Act (March 19, 2009)](http://www.justice.gov/sites/default/files/ag/legacy/2009/06/24/foia-memo-march2009.pdf) (PDF, 1 MB, 3 pages, March 2009) - In 2016 FOIA was amended to note that, in situations in which release is discretionary, disclosure is the default unless the agency can show that an interest protected by one or more of FOIA’s nine exemptions would be harmed by disclosure
-* [Agency FOIA Websites 2.0](https://www.justice.gov/oip/oip-guidance/OIP%20Guidance%3A%20%20Agency%20FOIA%20Websites%202.0) - Department of Justice 
+* [Agency FOIA Websites 2.0](https://www.justice.gov/oip/oip-guidance/OIP%20Guidance%3A%20%20Agency%20FOIA%20Websites%202.0) - Department of Justice
 * [FOIA Frequently Asked Questions](http://www.foia.gov/faq.html) – FOIA.gov
 * [Methods Agencies Use to Prepare Documents for Posting on Agency FOIA Websites](https://www.archives.gov/ogis/foia-compliance-program/targeted-assessments/posting-docs-assessment-2020-dec-16)
 * [Proactive Disclosure of Non-Exempt Agency Information: Making Information Available Without the Need to File a FOIA Request](https://www.justice.gov/oip/oip-guidance/proactive_disclosure_of_non-exempt_information)
@@ -161,7 +161,6 @@ Include all required content and links. Implement the [U.S. Web Design System](h
 * [Required content and links]({{< ref "/resources/required-web-content-and-links.md" >}})
 * [U.S. Web Design System](https://designsystem.digital.gov/) 
 * [Government Performance and Results (GPRA) Modernization Act of 2010](https://www.congress.gov/bill/111th-congress/house-bill/2142)
-
 
 ## Mobile
 
