@@ -48,7 +48,7 @@ Join this event to learn more about digital services and transformation and hear
 * What is the biggest challenge in building high-performing digital teams?
 * How do you engage with stakeholders throughout the process?
 
-**We’ll kick off the event with a panel discussion moderated by Marisa Levine, Presidential Innovation Fellows director of events and community partnerships, followed by a Q&A session.**
+**We’ll kick off the event with a panel discussion moderated by Marisa Levine, Director of Events and Community Partnerships at Presidential Innovation Fellows, followed by Q&A.**
 
 ## Speakers
 
