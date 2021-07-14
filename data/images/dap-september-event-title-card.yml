@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/dap-september-event-title-card.png
+
+# Image shortcode: {{< img src="dap-september-event-title-card" >}}
+
+date     : 2021-07-14 18:02:02 -0400
+uid      : dap-september-event-title-card
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
