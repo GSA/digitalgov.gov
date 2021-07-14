@@ -28,7 +28,6 @@ authors:
 slug: plain-language-webinar-using-words-to-build-better-digital-experiences
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-youtube_id: gDWi3B7Fv5k
 
 ---
 
