@@ -62,4 +62,4 @@ By the end of this webinar, you’ll have a good understanding of the starting b
 
 ---
 
-*This talk is hosted by the A/B Community of Practice and Digital.gov.*
+*This talk is hosted by the [A/B Testing Community of Practice](https://digital.gov/communities/a-b-testing-community/) and Digital.gov.*
