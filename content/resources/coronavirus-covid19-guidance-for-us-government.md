@@ -9,6 +9,12 @@ title: "Coronavirus (COVID-19) Guidance for U.S. Government Websites and Social 
 deck: "Addressing web and digital communications related to COVID-19"
 summary: "Addressing web and digital communications related to COVID-19"
 
+aliases:
+  - /coronavirus/
+
+# Archive - see Trello board
+expirydate: "2020-07-16"
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -23,9 +29,6 @@ topics:
   - content strategy
   - strategy
   - customer service
-
-aliases:
-  - /coronavirus/
 
 # Primary Image (for social media)
 primary_image: "card-covid-19-guidance"
