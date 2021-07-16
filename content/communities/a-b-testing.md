@@ -12,6 +12,9 @@ summary: "We encourage data-driven decisions and continuous optimization through
 aliases:
   - /communities/a-b-testing-community
 
+# Archive - CoP merged with web-analytics-and-optimization CoP
+expirydate: "2020-07-16"
+
 # see all topics at https://digital.gov/topics
 topics:
   - a-b-testing
