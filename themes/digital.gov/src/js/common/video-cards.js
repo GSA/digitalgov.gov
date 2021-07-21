@@ -26,7 +26,7 @@ function youtube_card(id) {
 }
 
 function labnolThumb(id) {
-	var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" class="an image from the video">',
+	var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="an image from the video" class="an image from the video">',
 			play = '<div class="play"></div>';
 	return thumb.replace("ID", id) + play;
 }
