@@ -2,7 +2,7 @@
 # Originally published at the following URL
 source_url: https://www.gsa.gov/blog/2021/07/07/gsa-future-focus-web-scraping
 source: gsa
-date: 2021-07-22 17:17:00 -0500
+date: 2021-07-07 17:17:00 -0500
 kicker: Emerging Tech
 title: "GSA Future Focus: Web Scraping"
 deck: "**GSA Future Focus: Web Scraping**&mdash;Web scraping, often referred to
