@@ -17,7 +17,7 @@ pronoun: ""
 email: "james2.gregory@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Robotic Process Automation Program Director"
+bio: "James Gregory is director of the Robotic Process Automation (RPA) Program at GSA."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
