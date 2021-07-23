@@ -517,6 +517,7 @@ Agencies must have a way for the public to report potential security vulnerabili
 ##### Required by:
 
 - Department of Homeland Security (DHS) Binding Operational Directive 20-01
+- OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation
 {{< / box >}}
 {{< card-policy src="https://cyber.dhs.gov/bod/20-01/#required-actions" kicker="Policy" title="DHS Binding Operational Directive 20-01">}}
 {{< / card-policy >}}
