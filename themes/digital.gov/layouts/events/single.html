@@ -58,7 +58,7 @@
         <div class="grid-col-12">
           <div class="actions">
             {{/* Register */}}
-            <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+            <a aria-label="Register the event" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
 
             <span class="addtocalendar">
               <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
@@ -157,7 +157,7 @@
               {{- if eq $future_event true -}}
               <div class="actions actions-stacked">
                 {{/* Register */}}
-                <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+                <a aria-label="Register events with youtube live" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
 
                 <span class="addtocalendar">
                   <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>

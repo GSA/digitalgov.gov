@@ -19,7 +19,7 @@
       <div class="host">Hosted by {{ .Params.host | markdownify }}</div>
       {{- end -}}
 
-      <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+      <a aria-label="REGISTER" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
     </div>
 
     <div class="grid-col-3 tablet-lg:grid-col-2 order-first">
@@ -27,7 +27,7 @@
       <div class="date">
         <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
         <span class="date-day">{{- dateFormat "02" .Date -}}</span>
-        <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+        <a aria-label="Register with date" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
       </div>
 
     </div>
