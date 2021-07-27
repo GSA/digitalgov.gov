@@ -38,6 +38,13 @@ In this two-part Analytics Case Study, we'll speak with the U.S. General Service
 
 We'll show how your strategy serves as the linchpin and foundation of your website reporting and provide some helpful guidance and tips on assessing your strategy. We will be joined by members of the FedRAMP team to hear their thoughts on their analytics strategy.
 
+## Speakers
+
+**Tim Lowden**  — Program Manager, Digital Analytics Program (DAP)
+**Betsy Steele** — FedRAMP Education and Outreach
+**Freddie Blicher** — Program Analyst, Digital Analytics Program (DAP)
+**Matt Silber**  — Program Support, FedRAMP PMO (Contractor)
+
 ---
 
 **The Digital Analytics Program (DAP) offers a web analytics tool, training, and support to federal agencies. The program is a shared service provided by the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA). Have a question for the DAP team? Send an email to dap@support.digitalgov.gov.**
