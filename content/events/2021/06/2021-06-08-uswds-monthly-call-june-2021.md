@@ -24,6 +24,7 @@ authors:
 slug: uswds-monthly-call-june-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: W5689h4z6Jo
 
 ---
 
