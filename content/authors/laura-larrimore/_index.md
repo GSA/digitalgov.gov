@@ -15,13 +15,13 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Laura Larrimore coordinates the digital operations at the U.S. Patent and Trademark Office (USPTO), including the agency’s website and social media accounts. As Senior Digital Strategist, she advises agency leaders on the strategic use and development of digital communications tools and explores new technologies for their potential to help the agency meet its communication goals at lower cost with less staff time."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "United States Patent and Trademark Office"
+agency_full_name: "U.S. Patent and Trademark Office"
 
 # Agency Acronym [e.g., GSA]
 agency: "USPTO"
