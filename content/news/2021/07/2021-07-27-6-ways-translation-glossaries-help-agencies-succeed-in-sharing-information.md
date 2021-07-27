@@ -14,12 +14,14 @@ topics:
 authors:
   - fedora-braverman
 slug: 6-ways-translation-glossaries-help-agencies-succeed-in-sharing-information
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 A translation glossary is an alphabetical list of terms and their approved translations that targets a specific audience. Such resources are among the many tools used to improve the way we communicate with the public in languages other than English.
 
 By creating and using a glossary, agencies can eliminate uncertainty in the translation process and establish consistency in their translated materials. Many agencies across the federal government, including the Internal Revenue Service (IRS), Environmental Protection Agency (EPA), and Social Security Administration (SSA), have seen the value of having [their own glossaries](https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides/#government-bilingual-glossaries) to use as their reference tool during the translation process.
