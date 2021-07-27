@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function youtube_card(id) {
-	var thumb = '<img src="https://i.ytimg.com/vi/'+id+'/hqdefault.jpg" aria-label="an image from the video">';
+	var thumb = '<img src="https://i.ytimg.com/vi/'+id+'/hqdefault.jpg" alt="an image from the video">';
 	return thumb;
 }
 
