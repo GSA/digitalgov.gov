@@ -3,7 +3,7 @@
 
     {{- if .Params.youtube_id -}}
     <div class="grid-col-12 tablet:grid-col-4 tablet:order-last">
-      <div aria-label="an image from the video" class="media-featured youtube-player" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
+      <div aria-role="img" class="media-featured youtube-player" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
     </div>
     {{- end -}}
 
