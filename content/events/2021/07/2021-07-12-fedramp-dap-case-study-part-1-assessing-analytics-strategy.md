@@ -24,6 +24,7 @@ topics:
 authors:
   - tlowden
   - freddie-blicher
+  - bsteele
 slug: fedramp-dap-case-study-part-1-assessing-analytics-strategy
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
@@ -35,7 +36,7 @@ As many [Digital AnalyticsProgram](https://digital.gov/guides/dap/) (DAP) users 
 
 Google Analytics tells you the "Who," the "How," and the "What" — but it doesn't tell you the "Why."
 
-In this two-part Analytics Case Study, we'll speak with the U.S. General Services Administration (GSA) [Federal Risk and Authorization Management Program](https://www.fedramp.gov/) (FedRAMP) team about their analytics strategy using both DAP and their own tools. The purpose of the webinar is to illustrate how you can connect the dots between your organization's website strategy and your analytics data to help you think about the "Why."
+In this two-part Analytics Case Study, we'll speak with the U.S. General Services Administration (GSA) [Federal Risk and Authorization Management Program](https://www.fedramp.gov/) (FedRAMP) Program Management Office (PMO) team about their analytics strategy using both DAP and their own tools. The purpose of the webinar is to illustrate how you can connect the dots between your organization's website strategy and your analytics data to help you think about the "Why."
 
 We'll show how your strategy serves as the linchpin and foundation of your website reporting and provide some helpful guidance and tips on assessing your strategy. We will be joined by members of the FedRAMP team to hear their thoughts on their analytics strategy.
 
