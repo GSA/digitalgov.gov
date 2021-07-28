@@ -40,6 +40,8 @@ In this two-part Analytics Case Study, we'll speak with the U.S. General Service
 
 We'll show how your strategy serves as the linchpin and foundation of your website reporting and provide some helpful guidance and tips on assessing your strategy. We will be joined by members of the FedRAMP team to hear their thoughts on their analytics strategy.
 
+[View the slides](https://digital.gov/files/fedramp-dap-casestudy-one.pptx)
+
 ## Speakers
 
  - **Tim Lowden** — Program Manager, Digital Analytics Program (DAP)
