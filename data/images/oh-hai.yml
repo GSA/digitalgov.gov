@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/oh-hai.png
+
+# Image shortcode: {{< img src="oh-hai" >}}
+
+date     : 2021-07-29 18:06:51 -0400
+uid      : oh-hai
+width    : 600
+height   : 250
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
