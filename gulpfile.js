@@ -1,32 +1,26 @@
-var gulp = require("gulp");
+// Import Gulp 4
+const { parallel, series, src, watch } = require("gulp");
 
-require('./config/gulp/scripts');
-require('./config/gulp/uswds');
+// Import task functions
+const fa = require("./config/gulp/fontawesome"),
+  img = {
+    prep: require("./config/gulp/img-prep"),
+    process: require("./config/gulp/img-process"),
+    upload: require("./config/gulp/img-upload"),
+  },
+  scripts = require("./config/gulp/scripts"),
+  styles = require("./config/gulp/styles");
 
-const node_env = process.env.NODE_ENV ? process.env.NODE_ENV : 'development';
-console.log("env: " + node_env);
-if (process.env.NODE_ENV !== 'production') {
-  require('./config/gulp/img-prep');
-  require('./config/gulp/img-process');
-  require('./config/gulp/img-upload');
-
-  // Image Process tasks
-  gulp.task("img-prep", gulp.series('mkdir'));
-  gulp.task("img-process", gulp.series(gulp.parallel('img-variants', 'img-proxy')));
-  gulp.task("img-upload", gulp.series('cleanup'));
-
-  gulp.task("img", gulp.series('img-upload'));
+function gulpWatch() {
+  const THEME_DIR = "./themes/digital.gov/src";
+  watch(`${THEME_DIR}/scss/uswds/**/*.scss`, styles.buildSass);
+  watch(`${THEME_DIR}/scss/new/**/*.scss`, styles.buildSass);
+  watch(`${THEME_DIR}/js/**/*.js`, scripts.compile);
+  watch("./content/images/_inbox/*.*", img);
 }
-// Watch Tasks
-gulp.task('watch', function () {
-  gulp.watch('./themes/digital.gov/src/scss/uswds/**/*.scss', gulp.series('build-sass'));
-  gulp.watch('./themes/digital.gov/src/scss/new/**/*.scss', gulp.series('build-sass'));
-  gulp.watch('./themes/digital.gov/src/js/**/*.js', gulp.series('compile', 'compile-common'));
-  gulp.watch('./content/images/_inbox/*.*', gulp.series('img'));
-});
 
-// gulp build-assets — build without watching
-gulp.task('build-assets', gulp.series('build-sass', 'compile', 'compile-common'));
-
-// gulp — build + watch
-gulp.task('default', gulp.series('build-assets','watch'));
+// Define public tasks
+exports.buildAssets = parallel(styles.buildSass, scripts.compile);
+exports.img = series(img.prep.do, img.process.do, img.upload.do);
+exports.watch = gulpWatch;
+exports.default = series(styles.buildSass, gulpWatch);
