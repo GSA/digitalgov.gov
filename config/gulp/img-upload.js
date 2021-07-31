@@ -1,4 +1,4 @@
-const { series, parallel, watch, src } = require("gulp"),
+const { series, src, dest } = require("gulp"),
   vinylPaths = require("vinyl-paths"),
   del = require("del"),
   s3config = {
