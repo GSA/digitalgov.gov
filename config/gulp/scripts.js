@@ -1,51 +1,37 @@
-var gulp          = require("gulp"),
-    uglify        = require('gulp-uglify'),
-    concat        = require("gulp-concat"),
-    jshint        = require("gulp-jshint")
+const { src, dest, series } = require("gulp"),
+  uglify = require("gulp-uglify"),
+  concat = require("gulp-concat"),
+  jshint = require("gulp-jshint");
 
+// Directories
+const USWDS = "node_modules/uswds/dist";
+const JQUERY_PATH = "node_modules/jquery/dist/jquery.min.js";
+const PROJECT_JS_SRC = "./themes/digital.gov/src/js";
+const JS_DEST = "./themes/digital.gov/static/dist";
 
-// Javascript destinations
-const uswds = require("../../node_modules/uswds-gulp/config/uswds");
-const JQUERY_PATH = 'node_modules/jquery/dist/jquery.min.js';
+function copyUswdsJs() {
+  return src(`${USWDS}/js/**/**`).pipe(dest(JS_DEST));
+}
 
-// Project JS source directory
-const PROJECT_JS_SRC = './themes/digital.gov/src/js';
+function copyJquery() {
+  return src(JQUERY_PATH).pipe(dest(JS_DEST));
+}
 
-// Javascript destination
-const JS_DEST = './themes/digital.gov/static/dist';
+function compileCommon() {
+  return src([`${PROJECT_JS_SRC}/common/**/*.js`])
+    .pipe(jshint())
+    .pipe(jshint.reporter()) // Dump results
+    .pipe(uglify())
+    .pipe(concat("common.js"))
+    .pipe(dest(JS_DEST));
+}
 
+function compile() {
+  return src([`${PROJECT_JS_SRC}/*.js`])
+    .pipe(jshint())
+    .pipe(jshint.reporter()) // Dump results
+    .pipe(uglify())
+    .pipe(dest(JS_DEST));
+}
 
-gulp.task('copy-uswds-js', () => {
-  return gulp.src(`${uswds}/js/**/**`)
-  .pipe(gulp.dest(`${JS_DEST}`));
-});
-
-// Copy jQuery
-gulp.task("copy-jquery", gulp.series('copy-uswds-js', function(done){
-  return gulp.src(`${JQUERY_PATH}`)
-  .pipe(gulp.dest(`${JS_DEST}`));
-}));
-
-// Compile the common JS
-gulp.task("compile-common", gulp.series('copy-jquery', function(done){
-  return gulp.src([
-    `${PROJECT_JS_SRC}/common/**/*.js`
-  ])
-  .pipe(jshint())
-  .pipe(jshint.reporter()) // Dump results
-  .pipe(uglify())
-  .pipe(concat('common.js'))
-  .pipe(gulp.dest(`${JS_DEST}`));
-}));
-
-
-// Copy all the JS files that are not common
-gulp.task("compile", gulp.series('compile-common', function(done){
-  return gulp.src([
-    `${PROJECT_JS_SRC}/*.js`
-  ])
-  .pipe(jshint())
-  .pipe(jshint.reporter()) // Dump results
-  .pipe(uglify())
-  .pipe(gulp.dest('./themes/digital.gov/static/dist'));
-}));
+exports.compile = series(copyUswdsJs, copyJquery, compileCommon, compile);
