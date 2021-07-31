@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/test.png
+
+# Image shortcode: {{< img src="test" >}}
+
+date     : 2021-07-31 02:01:32 -0400
+uid      : test
+width    : 600
+height   : 250
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
