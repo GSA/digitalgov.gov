@@ -14,7 +14,7 @@ topics:
 authors:
   - fedora-braverman
 slug: 6-ways-translation-glossaries-help-agencies-succeed-in-sharing-information
-primary_image: 
+primary_image: laptop-translation-jirsak-istock-gettyimagesplus-1226941220
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
