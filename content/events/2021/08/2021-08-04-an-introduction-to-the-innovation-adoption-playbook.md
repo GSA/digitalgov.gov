@@ -28,7 +28,7 @@ slug: an-introduction-to-the-innovation-adoption-playbook
 event_platform: zoom
 primary_image: innovation-adoption-title-card
 ---
-This webinar is to introduce the [Innovation Adoption Community of Practice](https://digital.gov/communities/innovation-adoption/) (CoP), its upcoming Innovation Adoption Playbook, and the shared vision for this community. Learn how the playbook’s six plays and can help you adopt and practice innovative approaches within your agency. 
+This webinar is to introduce the [Innovation Adoption Community of Practice](https://digital.gov/communities/innovation-adoption/) (CoP), its upcoming Innovation Adoption Playbook, and the shared vision for this community. Learn how the playbook’s six plays can help you adopt and practice innovative approaches within your agency. 
 
 * Play 1: Everyone can build a better government
 * Play 2: Keep your user at the center of your design
