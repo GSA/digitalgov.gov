@@ -27,8 +27,10 @@ slug: an-introduction-to-the-innovation-adoption-playbook
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: innovation-adoption-title-card
+
 ---
-This webinar is to introduce the [Innovation Adoption Community of Practice](https://digital.gov/communities/innovation-adoption/) (CoP), its upcoming Innovation Adoption Playbook, and the shared vision for this community. Learn how the playbook’s six plays can help you adopt and practice innovative approaches within your agency. 
+
+This webinar is to introduce the [Innovation Adoption Community of Practice](https://digital.gov/communities/innovation-adoption/) (CoP), its upcoming Innovation Adoption Playbook, and the shared vision for this community. Learn how the playbook’s six plays can help you adopt and practice innovative approaches within your agency.
 
 * Play 1: Everyone can build a better government
 * Play 2: Keep your user at the center of your design
@@ -39,17 +41,17 @@ This webinar is to introduce the [Innovation Adoption Community of Practice](htt
 
 [Join](https://digital.gov/communities/innovation-adoption/) and help build this community of federal innovators as we explore these topics and more.
 
-**Speakers** 
+## Speakers
 
 The Innovation Adoption CoP’s five community managers:
 
 * Bethany Blakey—U.S. General Services Administration (GSA)
-* Brooke Dine—U.S. Department of Health and Human Services(HHS)
+* Brooke Dine—U.S. Department of Health and Human Services (HHS)
 * Julia Begley—Consumer Financial Protection Bureau (CFPB)
 * Tina Chen—Environmental Protection Agency (EPA)
 * Vanessa Watters—U.S. Food and Drug Administration (FDA)
 
-**Related Links**
+## Related Links
 
 * [GSA Launches New Innovation Adoption Community of Practice](https://digital.gov/2021/07/08/gsa-launches-new-innovation-adoption-community-of-practice/)
-* [CoE announcing Innovation Adoption Practice](https://www.gsa.gov/blog/2021/07/08/coe-announcing-innovation-adoption-practice)
+* [CoE Announcing Innovation Adoption Practice](https://www.gsa.gov/blog/2021/07/08/coe-announcing-innovation-adoption-practice)
