@@ -62,27 +62,27 @@ The Web Council is led by two co-chairs; one from the U.S. General Services Admi
 
 You are encouraged to reach out to your agency’s Web Council member if you have any questions regarding the initiatives listed above, including 21st Century IDEA.
 
-- Agency for International Development — Gregg Your
-- Department of Agriculture — Peter Rhee
+- Agency for International Development (USAID) — Gregg Your
+- Department of Agriculture (USDA) — Peter Rhee
 - Department of Commerce — Alicia Sowah
-- Department of Defense — Amanda Villwock
-- Department of Education — Sally Harris
-- Department of Energy — Tom O'Neill
-- Department of Health and Human Services — Stacey Palosky
-- Department of Homeland Security — Matt Harmon
-- Department of Housing and Urban Development — Helen Savoye-Minor
-- Department of the Interior — DeRon Johnson
-- Department of Justice — Ashley McGowan
+- Department of Defense — (DoD) Amanda Villwock
+- Department of Education — (Ed) Sally Harris
+- Department of Energy — (DOE) Tom O'Neill
+- Department of Health and Human Services (HHS) — Stacey Palosky
+- Department of Homeland Security (DHS) — Matt Harmon
+- Department of Housing and Urban Development (HUD) — Helen Savoye-Minor
+- Department of the Interior — (DOI) DeRon Johnson
+- Department of Justice (DOJ) — Ashley McGowan
 - Department of Labor — Ed McCarthy
 - Department of State — Monica Perry
-- Department of Transportation — Beth Couturier
+- Department of Transportation (DOT) — Beth Couturier
 - Department of the Treasury — Teri Greene
-- Department of Veterans Affairs — Joshua Tuscher
-- Environmental Protection Agency — Lin Darlington
-- General Services Administration — Sarah Bryant
-- National Aeronautics and Space Administration — Brian Dunbar
-- National Science Foundation — Bridgette White
-- Nuclear Regulatory Commission — _VACANT_
-- Office of Personnel Management — Heather Stern
-- Small Business Administration — Nagesh Rao
-- Social Security Administration — Wayne Whitten
+- Department of Veterans Affairs (VA) — Joshua Tuscher
+- Environmental Protection Agency (EPA) — Lin Darlington
+- General Services Administration (GSA) — Sarah Bryant
+- National Aeronautics and Space Administration (NASA) — Brian Dunbar
+- National Science Foundation (NSF) — Bridgette White
+- Nuclear Regulatory Commission (NRC) — _VACANT_
+- Office of Personnel Management (OPM) — Heather Stern
+- Small Business Administration (SBA) — Kirk McElwain
+- Social Security Administration (SSA) — Wayne Whitten
