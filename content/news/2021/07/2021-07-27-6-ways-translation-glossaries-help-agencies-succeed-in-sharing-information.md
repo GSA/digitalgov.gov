@@ -2,9 +2,7 @@
 date: 2021-07-27 17:43:00 -0500
 kicker: Multilingual
 title: 6 Ways Translation Glossaries Help Agencies Succeed In Sharing Information
-summary: Learn how multilingual glossaries set your content translations up for
-  success by maintaining consistency​ and lightening the workload for future
-  translations.
+summary: Learn how multilingual glossaries set your content translations up for success by maintaining consistency​ and lightening the workload for future translations.
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
