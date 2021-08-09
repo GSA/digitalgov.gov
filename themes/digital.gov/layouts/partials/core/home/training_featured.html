@@ -21,7 +21,7 @@
         {{ range $training }}
           {{ if .Params.youtube_id }}
             <div class="grid-col-12 tablet-lg:grid-col-3">
-              <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
+              <div aria-label="an image from the video" class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
               <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
               {{ $topics := .Params.topics }}
               {{- partial "core/list-topics" . -}}

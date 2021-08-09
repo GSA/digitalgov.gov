@@ -21,12 +21,12 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function youtube_card(id) {
-	var thumb = '<img src="https://i.ytimg.com/vi/'+id+'/hqdefault.jpg">';
+	var thumb = '<img src="https://i.ytimg.com/vi/'+id+'/hqdefault.jpg" alt="an image from the video">';
 	return thumb;
 }
 
 function labnolThumb(id) {
-	var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" class="an image from the video">',
+	var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="an image from the video" class="an image from the video">',
 			play = '<div class="play"></div>';
 	return thumb.replace("ID", id) + play;
 }
