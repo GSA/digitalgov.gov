@@ -4,6 +4,9 @@ title: "Web Analytics Playbook"
 deck: "Use web analytics to reach your strategic website goals"
 summary: "Use web analytics to reach your strategic website goals."
 guide: web-analytics-playbook
+# See all topics at https://digital.gov/topics
+topics:
+  - metrics
 aliases:
 
 ---
