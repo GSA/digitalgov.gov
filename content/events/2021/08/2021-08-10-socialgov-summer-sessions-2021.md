@@ -2,8 +2,7 @@
 title: SocialGov Summer Sessions 2021
 deck: ""
 kicker: Social Media
-summary: If you're a Federal employee, join us to learn about both intellectual
-  property (8/25) and rules of conduct (8/26) in your agency’s social media.
+summary: If you're a federal employee, join us to learn about both intellectual property (8&#47;25) and rules of conduct (8&#47;26) in your agency’s social media.
 host: SocialGov Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/socialgov-summer-sessions-2021-tickets-166334395655
@@ -29,15 +28,13 @@ event_platform: zoom
 ---
 On **August 25 and 26,** the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) will bring together experts to share their insights on intellectual property (8&#47;25) and rules of conduct (8&#47;26) in social media.
 
-Both sessions will begin at 2:00pm ET and conclude at 3:00pm ET on their respective days. 
+Both sessions will begin at 2:00 pm, Eastern, and run for an hour on their respective days. 
 
 When registering, please select the session(s) that you would like to attend directly on the registration page to receive the correct Zoom for Government links and conference details.
 
-**Please note that this event is for Federal employees only.**
+**Please note that this event is for federal employees only.**
 
-
-
-## Session 1: Wednesday, August 25, from 2:00pm to 3:00pm ET
+## Session 1: Wednesday, August 25, from 2:00 pm to 3:00 pm, ET
 
 ### Intellectual Property and Social Media
 
@@ -48,9 +45,7 @@ In this session you will hear from the following speakers:
 * **Becky Oakes**, United States Patent and Trademark Office
 * **Whitney Levandusky**, U.S. Copyright Office
 
-
-
-## Session 2: Thursday, August 26, from 2:00pm to 3:00pm ET
+## Session 2: Thursday, August 26, from 2:00 pm to 3:00 pm, ET
 
 ### Rules of Conduct for Social Media
 
@@ -62,16 +57,14 @@ In this session you will hear from the following speakers:
 * **Jackie Yarbro**, U.S. Office of Special Counsel
 * **David J. Taube**, U.S. Office of Government Ethics
 
-
-
 ## Relevant Links:
 
-For Intellectual Property Session:
+**For the Intellectual Property session on August 25th**
 
 * <https://www.uspto.gov/>
 * <https://www.copyright.gov/>
 
-For Rules of Conduct Session:
+**For the Rules of Conduct session on August 26th**
 
 * [www.oge.gov](http://www.oge.gov)
 * [www.osc.gov](http://www.osc.gov) 
