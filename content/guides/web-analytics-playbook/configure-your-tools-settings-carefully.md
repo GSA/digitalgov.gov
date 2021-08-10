@@ -10,7 +10,7 @@ You’ve probably seen the acronym: GIGO, or Garbage In, Garbage Out. If your da
 
  Reports are only as good as the data collection behind them. Configuring your analytics tool is a crucial but often overlooked part of an analytics program’s overall success. Be cautious when you configure your tool to maximize insights and minimize garbage.
 
-Checklist:
+**Checklist:**
 
 - Learn what all the configuration options do (e.g., don’t accidentally click boxes to share data with third parties)
 - Discover how others have done it; there are plenty of examples online
@@ -19,7 +19,7 @@ Checklist:
 - Keep a view with no filters as a “raw data” backup
 - Preserve (or enhance) data privacy with your choices
 
-Key Questions:
+**Key Questions:**
 
 - Should we enable IP address anonymization?
 - Have we configured our site search parameter to correctly record search terms?
