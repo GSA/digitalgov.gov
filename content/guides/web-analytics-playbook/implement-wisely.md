@@ -10,7 +10,7 @@ In the early days of web analytics, almost all analytics tools had to be deploye
 
 Whether you deploy from HTML or use a tag manager, the key word is flexibility. Don’t get locked into not being able to adjust an event tag because you can’t do anything about the once-per-month release cycle.
 
-Checklist:
+**Checklist:**
 
 - Study all the possible tools and their options and features
 -   Choose one
@@ -19,7 +19,7 @@ Checklist:
 - If you decide to use a tag manager, consider access permissions and workflows
 - Map out communications in case you need an emergency adjustment
  
-Key Questions:
+**Key Questions:**
 
 - Who should be able to change the implementation?
 - How can we ensure that alterations can be made on-the-fly, when needed?
