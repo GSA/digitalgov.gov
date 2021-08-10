@@ -27,7 +27,7 @@ slug: socialgov-summer-sessions-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
-On **August 25 and 26,** the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) will bring together experts to share their insights on intellectual property (8/25) and rules of conduct (8/26) in social media.
+On **August 25 and 26,** the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) will bring together experts to share their insights on intellectual property (8&#47;25) and rules of conduct (8&#47;26) in social media.
 
 Both sessions will begin at 2:00pm ET and conclude at 3:00pm ET on their respective days. 
 
