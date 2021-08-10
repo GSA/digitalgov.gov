@@ -11,7 +11,7 @@ Once you have your strategy, set forth processes to improve your website based o
 **Checklist:**
 
 - Talk with senior leadership about basing action plans on data
-- Test and measure improvements ([A/B testing](https://digital.gov/communities/a-b-testing-community/))
+- Test and measure improvements ([A/B testing](https://digital.gov/guides/web-analytics-playbook/))
 - Practice storytelling to translate data for leadership (visualization tools)
 
 **Key Questions:**
