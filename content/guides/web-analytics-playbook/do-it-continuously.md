@@ -5,17 +5,19 @@ deck: ""
 summary: ""
 guide: web-analytics-playbook
 aliases:
+
 ---
+
 The analytics cycle never stops. You will always have to assess objectives, targets, and KPIs to make sure you reliably improve. After your team completes a session of measurement, testing, measurement, implementing change, and measurement again, it’s time to start anew. You’ll have new content to analyze, new priorities to shift towards, and new ways to improve the user experience. Welcome!
 
-Checklist:
+**Checklist:**
 
 - Review recent analysis and testing
 - Assess areas for improvement
 - Consider changes in priorities, policy, or environment
 - Launch the next round of measurements, tests, and UX improvement
 
-Key Questions:
+**Key Questions:**
 
 - What have we learned from our recent analysis and testing?
 - How can we improve on that process?
