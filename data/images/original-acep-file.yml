@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/original-acep-file.png
+
+# Image shortcode: {{< img src="original-acep-file" >}}
+
+date     : 2021-08-11 20:27:49 -0400
+uid      : original-acep-file
+width    : 612
+height   : 792
+format   : png
+credit   : "" 
+caption  : "Original PDF of ACEP COVID-19 patient management guidelines." 
+alt      : "A screenshot of a PDF. In thick black text, a title reads, Emergency Department COVID-19 Severity Classification. Small black text guides clinicians through appropriate evaluation and disposition for adult patients with suspected or confirmed COVID-19. There are 7 columns, each a different color, with many text boxes and directions. The columns ascend in severity, from mild-low risk to critical." 
