@@ -1,12 +1,9 @@
 ---
 date: 2021-08-12 17:40:00 -0500
-kicker: kick
-title: Involving End Users—at All Stages—To Create Actionable Science Products
-  for Complex, Real-World Issues
-deck: How co-production methods increase the usefulness of scientific results,
-  products, and tools
-summary: How co-production methods increase the usefulness of scientific
-  results, products, and tools.
+kicker: 
+title: Involving End Users—at All Stages—To Create Actionable Science Products for Complex, Real-World Issues
+deck: How co-production methods increase the usefulness of scientific results, products, and tools
+summary: How co-production methods increase the usefulness of scientific results, products, and tools.
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
@@ -23,7 +20,9 @@ primary_image: 10x-areas-of-focus
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 We live in a world where complex environmental problems are prevalent and significantly impact the way we, as humans, live and function. Now more than ever, unbiased, relevant, and timely scientific research is needed to inform decisions that could shape our future. So, how do we ensure that our science investments are producing results and products that are usable and useful for decision-makers, policymakers, community leaders and others?
 
 ## More than a Final Product
@@ -42,7 +41,7 @@ Much like in UX design, knowledge co-production involves end users at the beginn
 
 In one recent example, researchers supported by the U.S. Geological Survey’s Pacific Islands Climate Adaptation Science Center (CASC) [teamed up](https://www.usgs.gov/center-news/pacific-islands-casc-supports-drought-community-practice-hawai-i) with the National Park Service and natural resource agencies (including Hawai‘i Volcanoes National Park, the Pu'u Wa'awa'a Forest Reserve, and others) to develop the Pacific Drought Knowledge Exchange, a formal community of practice, to provide a way for scientists and decision-makers to share information on drought in the Pacific Islands. One outcome from this collaboration has been the development of science “portfolios” that summarize drought and climate data for a partner’s particular land area. These tailored products can feed into management, adaptation, and communication strategies to help stakeholders address unique problems facing ecosystems, watersheds, and communities across the Islands.
 
-As with UX design, which involves a toolkit of techniques, co-production involves a spectrum of methods for producing useful, actionable science that is centered around real-world and realistic decisions. In cases when a problem is already well-understood and well-defined, a “consultation” approach might be appropriate, and scientists might periodically touch base with end users. When users face decisions with more uncertainties and unknowns, a full co-production approach would embed stakeholders in the project. Scientists must also factor in constraints such as time and funding when determining the most feasible type of engagement for a project. 
+As with UX design, which involves a toolkit of techniques, co-production involves a spectrum of methods for producing useful, actionable science that is centered around real-world and realistic decisions. In cases when a problem is already well-understood and well-defined, a “consultation” approach might be appropriate, and scientists might periodically touch base with end users. When users face decisions with more uncertainties and unknowns, a full co-production approach would embed stakeholders in the project. Scientists must also factor in constraints such as time and funding when determining the most feasible type of engagement for a project.
 
 ## The Shared Vision
 
@@ -56,7 +55,7 @@ Interested in ensuring the science behind your science-based digital products is
 * [Pacific Islands CASC Supports Drought Community of Practice in Hawai’i](https://www.usgs.gov/center-news/pacific-islands-casc-supports-drought-community-practice-hawai-i)
 * [Southeast CASC Project Contributes to Successful Barrier Island Restoration](https://www.usgs.gov/center-news/project-spotlight-southeast-casc-project-contributes-successful-barrier-island)
 
-Line
+---
 
 *Holly Chandler works for the U.S. Geological Survey’s Climate Adaptation Science Center (CASC) network, a partnership-driven program that teams scientific researchers with natural and cultural resource managers and local communities to help fish, wildlife, waters, and lands across the country adapt to changing conditions. Learn more: [www.usgs.gov/casc](http://www.usgs.gov/casc)*
 
