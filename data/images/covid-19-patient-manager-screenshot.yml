@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/covid-19-patient-manager-screenshot.png
+
+# Image shortcode: {{< img src="covid-19-patient-manager-screenshot" >}}
+
+date     : 2021-08-11 18:49:03 -0400
+uid      : covid-19-patient-manager-screenshot
+width    : 1920
+height   : 968
+format   : png
+credit   : "" 
+caption  : "A screenshot of the VA COVID-19 Patient Manager, with imaginary patient data." 
+alt      : "A screenshot of the COVID-19 Patient Manager application. Compared to the PDF screenshot, this image is much simpler. There are clear white text box areas to input patient info. An orange in-app message guides clinicians and reads, All fields are optional, but completing the empty fields will improve the quality of recommendations. Below this message guide, a summary of recommendations appears, along with guidance on whether to admit the patient. All of this information is included neatly in one screen, with a clean and clear grey, white, and black color scheme, with key info highlighted in orange, and calls to action in blue." 
