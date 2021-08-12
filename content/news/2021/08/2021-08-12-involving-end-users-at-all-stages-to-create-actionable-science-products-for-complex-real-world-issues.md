@@ -1,7 +1,7 @@
 ---
 date: 2021-08-12 17:40:00 -0500
 kicker: 
-title: Involving End Users—at All Stages—To Create Actionable Science Products for Complex, Real-World Issues
+title: Involving End Users&emdash;at All Stages&emdash;To Create Actionable Science Products for Complex, Real-World Issues
 deck: How co-production methods increase the usefulness of scientific results, products, and tools
 summary: How co-production methods increase the usefulness of scientific results, products, and tools.
 # See all topics at https://digital.gov/topics
@@ -14,7 +14,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - holly-chandler
-slug: involving-end-usersat-all-stagesto-create-actionable-science-products-for-complex-real-world-issues
+slug: involving-end-users-at-all-stages-to-create-actionable-science-products-for-complex-real-world-issues
 primary_image: 10x-areas-of-focus
 # Controls how this page appears across the site
 # 0 -- hidden
