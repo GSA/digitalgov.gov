@@ -46,7 +46,7 @@ To address this challenge, we developed the **COVID-19 Patient Manager**, a clin
 
 We identified three best practices throughout product development:
 
-## Work closely with end users at every stage
+## 1. Work closely with end users at every stage
 
 People often develop health information technologies without sufficient input from clinician end-users. This presents problems like:
 
@@ -58,7 +58,7 @@ To avoid these potential pitfalls, we recruited a group of highly-engaged VA eme
 
 These clinical leads also served as fantastic champions for the project within the VA. Their project involvement helped us obtain essential buy-in from agency leadership. By working closely with our end users at every stage of product development, we guaranteed useful features, valuable feedback, and long-term advocates.
 
-## Work closely with the broader medical community, too
+## 2. Work closely with the broader medical community, too
 
 Clinician trust indicates success for many clinical decision support tools, including ours. Clinicians often look to professional medical organizations for trustworthy, up-to-date, and evidence-based guidelines. Our development team built trust by:
 
@@ -71,7 +71,7 @@ As our clinical leads practiced these COVID-19 guidelines, they shared feedback 
 
 A tight collaboration between the COVID-19 Patient Manager team and ACEP benefitted both groups. This ultimately benefits veterans and patients as well, since physicians gain better access to tools that support their clinical decision-making.
 
-## Start small and iterate
+## 3. Start small and iterate
 
 {{< img-right src="original-acep-file" >}}
 
