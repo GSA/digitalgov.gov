@@ -1,6 +1,6 @@
 ---
 date: 2021-08-13 10:15:00 -0500
-kicker: kick
+kicker: Research
 title: Involving End Users at All Stages To Create Actionable Science Products for Complex, Real-World Issues
 deck: How co-production methods increase the usefulness of scientific results, products, and tools
 summary: How co-production methods increase the usefulness of scientific results, products, and tools
