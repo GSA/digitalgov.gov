@@ -2,9 +2,7 @@
 title: SocialGov Summer Sessions 2021
 deck: ""
 kicker: Social Media
-summary: If you're a federal employee, join us to learn about both intellectual
-  property (8&#47;25) and rules of conduct (8&#47;26) in your agency’s social
-  media.
+summary: If you're a federal employee, join us to learn about both intellectual property (8&#47;25) and rules of conduct (8&#47;26) in your agency’s social media.
 host: SocialGov Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/socialgov-summer-sessions-2021-tickets-166334395655
@@ -28,7 +26,9 @@ authors:
 slug: socialgov-summer-sessions-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
+
 On **August 25 and 26,** the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) will bring together experts to share their insights on intellectual property (8&#47;25) and rules of conduct (8&#47;26) in social media.
 
 Both sessions will begin at 2:00 pm, Eastern, and run for an hour on their respective days. 
