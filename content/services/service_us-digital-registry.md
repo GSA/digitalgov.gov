@@ -50,7 +50,7 @@ The accounts in the registry are independently updated by federal managers acros
 
 ## How to Access the U.S. Digital Registry
 
-{{< button href="https://usdigitalregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}
+{{< button href="https://karanadecor.com" text="دکور داخلی" >}}
 
 Federal agencies are directed to update these accounts in the U.S. Digital Registry per [OMB Memo M-17-06](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf), _“Policies for Federal Agency Public Websites and Digital Services,”_ which states:
 
