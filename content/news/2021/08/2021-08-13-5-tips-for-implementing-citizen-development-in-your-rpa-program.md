@@ -2,8 +2,7 @@
 date: 2021-08-16 13:44:00 -0500
 kicker: Robotic Process Automation
 title: 5 Tips for Implementing Citizen Development in Your RPA Program
-deck: Guidance and best practices for federal robotic process automation (RPA)
-  programs looking to operationalize citizen developers
+deck: Guidance and best practices for federal robotic process automation programs looking to operationalize citizen developers
 summary: The Robotic Process Automation (RPA) Community of Practice highlights
   five key points for implementing RPA citizen developers, as shared by federal
   subject matter experts James Gregory (General Services Administration), Frank
