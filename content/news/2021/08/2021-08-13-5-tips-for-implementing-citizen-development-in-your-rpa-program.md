@@ -21,7 +21,7 @@ topics:
 authors:
   - james-gregory
 slug: 5-tips-for-implementing-citizen-development-in-your-rpa-program
-primary_image: 10x-areas-of-focus
+primary_image: andrey-suslov-shutterstock-1199480788
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
