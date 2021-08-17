@@ -11,6 +11,13 @@ event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/an-introduction-to-the-innovation-adoption-playbook-tickets-165260192685
 date: 2021-08-17 14:00:00 -0500
 end_date: 2021-08-17 15:00:00 -0500
+
+aliases:
+  - /events/
+
+# Archive 
+expirydate: "2021-07-16"
+
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
