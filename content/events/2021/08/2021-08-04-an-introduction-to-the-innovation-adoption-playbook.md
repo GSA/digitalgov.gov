@@ -16,7 +16,7 @@ aliases:
   - /events/
 
 # Archive 
-expirydate: "2021-07-16"
+expirydate: "2021-07-18"
 
 # See all topics at https://digital.gov/topics
 topics:
