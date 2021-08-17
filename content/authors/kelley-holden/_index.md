@@ -11,10 +11,10 @@ pronoun: ""
 # If you include an email address, it will be displayed on your profile page
 email: Kelley.Holden@cfpb.gov
 # Keep it under 50 words and only one paragraph
-bio: " Kelley Holden has been working on the Digital Analytics Team over at the
+bio: Kelley Holden has been working on the Digital Analytics Team over at the
   Consumer Financial Protection Bureau since March 2014. She and her team are
   passionate about web analysis and data, and want to share their knowledge with
-  others who are looking for a simple and easy tool for their analytics needs."
+  others who are looking for a simple and easy tool for their analytics needs.
 # Where can people learn more about your work?
 # Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
