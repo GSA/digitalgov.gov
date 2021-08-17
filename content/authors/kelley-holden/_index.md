@@ -20,16 +20,16 @@ slug: kelley-holden
 email: "Kelley.Holden@cfpb.gov"
 
 # Bio — keep it under 50 words
-bio: " Kelley Holden has been working on the Digital Analytics Team over at the Consumer Financial Protection Bureau since March 2014. She and her team are passionate about web analysis and data, and want to share their knowledge with others who are looking for a simple and easy tool for their analytics needs."
+bio: "Kelley Holden has been working on the Digital Analytics Team over at the Consumer Financial Protection Bureau since March 2014. She and her team are passionate about web analysis and data, and want to share their knowledge with others who are looking for a simple and easy tool for their analytics needs."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "Consumer Financial Protection Bureau"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "CFPB"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
