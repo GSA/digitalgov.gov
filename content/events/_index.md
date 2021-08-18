@@ -10,6 +10,6 @@ end_date: 2020-09-09 08:44:00 -0500
 
 # Enter the path of the URL that you want redirected to this page
 aliases:
-  - /2021/08/17/https://digital.gov/event/2021/08/17/an-introduction-to-the-innovation-adoption-playbook/
+  - /2021/08/17/an-introduction-to-the-innovation-adoption-playbook/
 
 ---
