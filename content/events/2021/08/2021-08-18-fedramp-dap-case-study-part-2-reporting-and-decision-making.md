@@ -31,9 +31,9 @@ slug: fedramp-dap-case-study-part-2-reporting-and-decision-making
 event_platform: zoom
 primary_image: dap-september-event-title-card
 ---
-In the second part of our Analytics Case Study series, we'll address how to report and conduct analysis through the lens of your analytics strategy. We'll be using both the [Digital Analytics Program (DAP)](<>) analytics account as well as FedRAMP's team-managed analytics account to illustrate essential concepts. It’s preferable to have attended [Part 1 of this series](<>).
+In the second part of our Analytics Case Study series, we'll address how to report and conduct analysis through the lens of your analytics strategy. We'll be using both the [Digital AnalyticsProgram](https://digital.gov/guides/dap/) (DAP) analytics account as well as FedRAMP's team-managed analytics account to illustrate essential concepts. It’s preferable to have attended [Part 1 of this series](https://digital.gov/event/2021/07/28/fedramp-dap-case-study-part-1-assessing-analytics-strategy/).
 
-The goal of this webinar is to empower you with a real-world example about how to tie your metrics to your website mission, goals, and key performance indicators (KPIs). We will be joined by members of the [FedRAMP](<>) team to hear their thoughts on their analytics strategy, pulling reporting, and how they plan to use the data to make future decisions about their site, fedramp.gov.
+The goal of this webinar is to empower you with a real-world example about how to tie your metrics to your website mission, goals, and key performance indicators (KPIs). We will be joined by members of the [Federal Risk and Authorization Management Program](https://www.fedramp.gov/) (FedRAMP) team to hear their thoughts on their analytics strategy, pulling reporting, and how they plan to use the data to make future decisions about their site, fedramp.gov.
 
 ## Speakers
 
