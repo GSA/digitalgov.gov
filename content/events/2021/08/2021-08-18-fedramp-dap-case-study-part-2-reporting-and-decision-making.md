@@ -1,12 +1,8 @@
 ---
 title: "FedRAMP & DAP Case Study Part 2: Reporting and Decision-Making"
-deck: See how the FedRAMP team assessed their analytics objectives and key
-  performance indicators (KPIs) prior to the launch of their redesigned site,
-  fedramp.gov.
+deck: See how the FedRAMP team assessed their analytics objectives and key performance indicators (KPIs) prior to the launch of their redesigned site, fedramp.gov.
 kicker: ANALYTICS
-summary: In this second part of our analytics case study series, we'll address
-  how to pull reporting and conduct analysis through the lens of your analytics
-  strategy.
+summary: In this second part of our analytics case study series, we'll address how to pull reporting and conduct analysis through the lens of your analytics strategy.
 host: Digital Analytics Program (DAP)
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/fedramp-dap-case-study-part-2-reporting-and-decision-making-tickets-167491769391
@@ -30,7 +26,9 @@ slug: fedramp-dap-case-study-part-2-reporting-and-decision-making
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: dap-september-event-title-card
+
 ---
+
 In the second part of our Analytics Case Study series, we'll address how to report and conduct analysis through the lens of your analytics strategy. We'll be using both the [Digital AnalyticsProgram](https://digital.gov/guides/dap/) (DAP) analytics account as well as FedRAMP's team-managed analytics account to illustrate essential concepts. It’s preferable to have attended [Part 1 of this series](https://digital.gov/event/2021/07/28/fedramp-dap-case-study-part-1-assessing-analytics-strategy/).
 
 The goal of this webinar is to empower you with a real-world example about how to tie your metrics to your website mission, goals, and key performance indicators (KPIs). We will be joined by members of the [Federal Risk and Authorization Management Program](https://www.fedramp.gov/) (FedRAMP) team to hear their thoughts on their analytics strategy, pulling reporting, and how they plan to use the data to make future decisions about their site, fedramp.gov.
