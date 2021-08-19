@@ -1,6 +1,8 @@
 ---
 aliases:
   - /events/
+# Archive 
+expirydate: "2021-07-17"
 
 title: An Introduction to the Innovation Adoption Playbook
 deck: Learn how to use the 6 plays to innovate at your agency.
