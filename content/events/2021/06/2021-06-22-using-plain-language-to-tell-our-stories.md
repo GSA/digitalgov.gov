@@ -32,6 +32,8 @@ Being able to tell a story is a great talent. People who can tell stories can  
 
 Some of us don’t do it naturally; we have to learn it. In this session, Bethany Blakey will provide some templates and approaches for crafting simple stories to suit our purpose.
 
+[View the slides](https://digital.gov/files/storytelling-for-storytellers-plain-event.pptx)
+
 ### Speaker
 
 * **[Bethany Blakey](https://digital.gov/authors/bethany-blakey/)**, Chief Modernization Strategist & Director of Innovation Adoption for the General Services Administration (GSA), Technology Transformation Service (TTS)
