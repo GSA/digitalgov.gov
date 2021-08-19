@@ -27,12 +27,16 @@ slug: using-plain-language-to-tell-our-stories
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: plainlanguage-july-event-title-card
+
 ---
+
 Being able to tell a story is a great talent. People who can tell stories can  motivate people to act, help organizations transform, and highlight our government mission successes.
 
 Some of us don’t do it naturally; we have to learn it. In this session, Bethany Blakey will provide some templates and approaches for crafting simple stories to suit our purpose.
 
-### Speaker
+[View the slides](https://digital.gov/files/storytelling-for-storytellers-plain-event.pptx)
+
+## Speaker
 
 * **[Bethany Blakey](https://digital.gov/authors/bethany-blakey/)**, Chief Modernization Strategist & Director of Innovation Adoption for the General Services Administration (GSA), Technology Transformation Service (TTS)
 
@@ -41,4 +45,3 @@ Some of us don’t do it naturally; we have to learn it. In this session, Bethan
 - - -
 
 *The [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Community of Practice](https://digital.gov/communities/plain-language/).*
-
