@@ -6,7 +6,6 @@ summary: "A list of required links that all federal websites need to have"
 authors:
   - ndavidson
   - rflagg
-  - jeremyzilar
   - toni-bonitto
 
 topics:
@@ -26,6 +25,8 @@ If you manage a public website in the federal government's executive branch, you
 - which law or policy requires those links
 
 Use the guidance below to implement these required links in a clear, user-friendly way.
+
+One easy way to address these requirements is to implement the [banner](https://designsystem.digital.gov/components/banner/), [header](https://designsystem.digital.gov/components/header/), and [footer](https://designsystem.digital.gov/components/footer/) components of the [U.S. Web Design System](https://designsystem.digital.gov/) on your website.
 
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
