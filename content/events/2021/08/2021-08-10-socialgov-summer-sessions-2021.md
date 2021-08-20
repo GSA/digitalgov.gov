@@ -49,6 +49,7 @@ In this session you will hear from the following speakers:
 * **Whitney Levandusky**, U.S. Copyright Office
 
 [View the slides from USPTO](https://digital.gov/files/socialgov-summer-2021-uspto-becky.pptx) (PPT, 5.1 MB, 26 pages)
+
 [View the slides from U.S. Copyright Office](https://digital.gov/files/socialgov-summer-2021-copyright-whitney.pptx) (PPT, 5.18 MB, 23 pages)
 
 
