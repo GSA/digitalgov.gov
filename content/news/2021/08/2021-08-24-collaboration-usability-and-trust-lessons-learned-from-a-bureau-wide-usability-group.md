@@ -19,9 +19,6 @@ primary_image: usgs-science-for-a-changing-world-logo-green
 # 1 -- visible
 weight: 1
 
-aliases:
-  - /topics/usability/
-
 # Archive 
 expirydate: "2021-08-24"
 
