@@ -22,6 +22,9 @@ weight: 1
 aliases:
   - /topics/usability/
 
+# Archive 
+expirydate: "2021-08-24"
+
 ---
 
 Usability is an investment that can build trust in government, according to Chung Yi “Sophie” Hou, a data and usability analyst contractor with the U.S. Geological Survey (USGS).
