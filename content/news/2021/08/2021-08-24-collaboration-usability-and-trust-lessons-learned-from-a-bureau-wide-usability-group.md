@@ -1,10 +1,8 @@
 ---
-date: 2021-08-24 21:36:00 -0500
+date: 2021-08-24 10:00:00 -0500
 kicker: Usability
-title: "Collaboration, Usability, and Trust: Lessons Learned from a Bureau-Wide
-  Usability Group"
-summary: Learn about the U.S. Geological Survey’s Usability Collaboration Area
-  and how the group is helping to increase trust in government products.
+title: "Collaboration, Usability, and Trust: Lessons Learned from a Bureau-Wide Usability Group"
+summary: Learn about the U.S. Geological Survey’s Usability Collaboration Area and how the group is helping to increase trust in government products.
 # See all topics at https://digital.gov/topics
 topics:
   - usability
@@ -20,7 +18,9 @@ primary_image: usgs-science-for-a-changing-world-logo-green
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Usability is an investment that can build trust in government, according to Chung Yi “Sophie” Hou, a data and usability analyst contractor with the U.S. Geological Survey (USGS).
 
 “I think it’s important to remember that trust in the government is earned and needs to be actively maintained,” said Sophie. “Usability gives us a process to help increase that trust throughout every stage of developing government products and services, and facilitate the growth of trust over time.”
@@ -61,6 +61,6 @@ As a program analyst for the USGS National Climate Adaptation Science Center, I 
 
 **Sophie**: Now more than ever, I think it’s important for us to show people that the government has their backs; that they, as individuals, are a part of this government, and that the government is thinking of them. Also, I think it’s important to remember that trust in the government is earned and needs to be actively maintained. Usability gives us a process to help increase that trust throughout every stage of developing government products and services, and facilitate the growth of trust over time. It’s crucial, too, to include different perspectives. If we don’t ask and we don’t try to listen, how will we know what other people need?
 
-\---
+---
 
 *To learn more about the USGS Usability Collaboration Group, please visit: <https://my.usgs.gov/confluence/display/cdi/Usability+Collaboration+Area>.*
