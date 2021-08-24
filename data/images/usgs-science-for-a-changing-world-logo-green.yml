@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/usgs-science-for-a-changing-world-logo-green.png
+
+# Image shortcode: {{< img src="usgs-science-for-a-changing-world-logo-green" >}}
+
+date     : 2021-08-23 23:25:03 -0400
+uid      : usgs-science-for-a-changing-world-logo-green
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "The United States Geological Survey logo is in green on a white background. The first line has a green square with three wavy lines in white on the left, and the acronym USGS on the right. Below that is the tagline in lowercase lettering, science for a changing world." 
