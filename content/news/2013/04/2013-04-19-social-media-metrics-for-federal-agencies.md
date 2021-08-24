@@ -11,9 +11,12 @@ topics:
   - socialgov
 aliases:
   - /resources/federal-social-media-analytics-toolkit-hackpad/
+
 ---
 
-[{{< legacy-img src="2013/12/key-metrics-250x118.jpg" alt="Image of visualized performance metrics. " >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/key-metrics.jpg)Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis—using the vast amount of real-time data from these social platforms to predict emerging trends and respond to them quickly (referred to as “social data”).
+Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis—using the vast amount of real-time data from these social platforms to predict emerging trends and respond to them quickly (referred to as “social data”).
+
+<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/key-metrics.jpg" alt="Image of visualized performance metrics.">
 
 Analysis of this social data is critical not just for agency communication offices—but also for program managers at every level of your organization. Social media in government requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.
 
