@@ -41,7 +41,7 @@ community_list:
 
 ---
 
-The SocialGov Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists at federal, tribal, state, and local agencies as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.
+The SocialGov Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists at federal agencies as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.
 
 ## What We Do
 
