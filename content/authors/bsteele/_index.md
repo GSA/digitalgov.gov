@@ -11,7 +11,7 @@ last_name: "Steele"
 # List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
 # See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
 # Examples: they/them, she/her, or he/him
-pronoun: ""
+pronoun: "she/her"
 
 # slug — the specific user-id for an author.
 slug: bsteele
@@ -26,13 +26,13 @@ bio: ""
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "U.S. General Services Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: ""
+location: "Washington, DC"
 
 # Your GitHub username [e.g. 'jeremyzilar']
 # See [URL] Having a GitHub account will allow you to edit pages on DigitalGov. The image used in your GitHub account can also be used to populate your digital.gov profile photo.
