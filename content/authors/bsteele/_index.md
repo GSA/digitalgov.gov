@@ -20,7 +20,7 @@ slug: bsteele
 email: "betsy.steele@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Betsy Steele leads the FedRAMP Program Office’s outreach and training initiatives. In her role, she develops and implements training for agencies, cloud service providers, and third-party assessment organizations to increase the rate of cloud adoption and the security of cloud computing solutions used across government. Prior to joining FedRAMP, Betsy managed GSA’s government-wide Terms of Service Program, negotiating more than 70 federal compatible terms of service amendments for social media tools and applications."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
