@@ -23,6 +23,9 @@ primary_image: usgs-science-for-a-changing-world-logo-green
 # 1 -- visible
 weight: 1
 
+aliases:
+  - /2021/08/24/collaboration-usability-and-trust-lessons-learned-from-a-bureau-wide-usability-group/
+
 ---
 
 Excited to demonstrate the benefits and techniques of usability to USGS employees, Chung Yi “Sophie” Hou, a data and usability analyst contractor with the U.S. Geological Survey (USGS), formed the USGS Community for Data Integration (CDI) Usability Collaboration Area in December of 2019. This group is focused on “helping USGS tools and services be useful and their users be successful” and is one of nineteen areas within the CDI, a dynamic community of practice aimed at growing USGS knowledge and capacity in scientific data and information management integration.
