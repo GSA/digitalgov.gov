@@ -19,7 +19,6 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - avis-ryan
-  - john-sullivan
   - yvette-gibson
 
 # Weight: controls how this page appears across the site
