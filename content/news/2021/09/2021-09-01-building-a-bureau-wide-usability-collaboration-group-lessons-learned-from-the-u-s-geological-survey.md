@@ -3,7 +3,7 @@ date: 2021-09-01 19:05:00 -0500
 kicker: User Experience
 title: "Building a Bureau-Wide Usability Collaboration Group: Lessons Learned
   from the U.S. Geological Survey"
-deck: deck is.
+deck: 
 summary: Learn about the U.S. Geological Survey’s Usability Collaboration Area
   in this short interview with the group's organizer.
 # See all topics at https://digital.gov/topics
@@ -22,7 +22,9 @@ primary_image: usgs-science-for-a-changing-world-logo-green
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Excited to demonstrate the benefits and techniques of usability to USGS employees, Chung Yi “Sophie” Hou, a data and usability analyst contractor with the U.S. Geological Survey (USGS), formed the USGS Community for Data Integration (CDI) Usability Collaboration Area in December of 2019. This group is focused on “helping USGS tools and services be useful and their users be successful” and is one of nineteen areas within the CDI, a dynamic community of practice aimed at growing USGS knowledge and capacity in scientific data and information management integration.
 
 “Usability gives us a process to help increase trust throughout every stage of developing government products and services, and facilitate the growth of trust over time,” says Sophie.
@@ -72,5 +74,7 @@ There’s a convergence that can happen that allows us to produce technical, unb
 **Holly**: **Similarly, how do usability and user experience fit into the federal government as a whole?**
 
 **Sophie**: Usability gives us a process to help increase trust throughout every stage of developing government products and services and facilitate the growth of trust over time. It’s crucial that we include different perspectives in our work. If we don’t ask and we don’t try to listen, how will we know what other people need?
+
+***
 
 *To learn more about the USGS Usability Collaboration Area, please visit: <https://my.usgs.gov/confluence/display/cdi/Usability+Collaboration+Area>.*
