@@ -99,6 +99,8 @@ In this session you will hear from the following speakers:
 * **Ben Peterson** &mdash; 18F, GSA
 * **Julie Strothman** &mdash; 18F, GSA
 
+{{< youtube j1ZJO8maV7s >}}
+
 - - -
 
 ## Building Empathy Remotely (12:30 pm - 12:50 pm, ET)
