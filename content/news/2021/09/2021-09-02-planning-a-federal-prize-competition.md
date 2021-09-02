@@ -1,11 +1,9 @@
 ---
 date: 2021-09-02 13:49:00 -0500
 kicker: Challenge.gov
-title: " Planning a Federal Prize Competition"
-deck: A Spotlight Chat with members of the Lab to Market Inclusive Innovation
-  Ecosystem Prize Competition.
-summary: Leaders of the Lab-to-Market (L2M) Inclusive Innovation Ecosystem Prize
-  Competition share their experience running a federal prize competition.
+title: "Planning a Federal Prize Competition"
+deck: A Spotlight Chat with members of the Lab to Market Inclusive Innovation Ecosystem Prize Competition.
+summary: Leaders of the Lab-to-Market (L2M) Inclusive Innovation Ecosystem Prize Competition share their experience running a federal prize competition.
 # See all topics at https://digital.gov/topics
 topics:
   - challenges-and-prize-competitions
@@ -14,14 +12,16 @@ topics:
   - crowdsourcing
 # See all authors at https://digital.gov/authors
 authors:
-  - jarah-meador
+  - quinn-slayton
 slug: planning-a-federal-prize-competition
 primary_image: challenge-spotlight-chat-sba-titlecard
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 On June 8, 2021 the [Challenge and Prize Community of Practice](https://digital.gov/communities/challenges-prizes/) held a Spotlight Chat with leaders of the [Lab-to-Market (L2M) Inclusive Innovation Ecosystem Prize Competition](https://www.challenge.gov/challenge/l2m-prize-competition/). Spotlight Chats are moderated discussions with government innovation leaders. Panelists shared their experience of designing and implementing a federal prize competition, and documented the lessons learned.
 
 The panelists included members from the White House Office of Science and Technology Policy (OSTP), the U.S. Small Business Administration (SBA), and the Science and Technology Policy Institute (STPI)—one of three federally-funded research and development centers of the Institute for Defense Analyses (IDA), a non-profit corporation that assists the federal government in addressing national security issues.
