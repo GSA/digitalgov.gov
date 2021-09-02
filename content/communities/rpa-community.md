@@ -69,3 +69,4 @@ Francis Wood, Defense Logistics Agency
 * [RPA Guide]({{< ref "guides/rpa" >}})
 * [RPA Playbook]({{< ref "rpa-playbook.md" >}})
 * [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}})
+* [Rapid Process Transformation (RPT) Handbook](https://digital.gov/pdf/rpt-rapid-process-transformation-handbook-final-08-12-2021.pdf) (PDF, 3.7 MB, 36 pages)
