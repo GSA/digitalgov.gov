@@ -12,7 +12,7 @@ topics:
   - crowdsourcing
 # See all authors at https://digital.gov/authors
 authors:
-  - toni-bonitto
+  - quinn-slayton
 slug: planning-a-federal-prize-competition
 primary_image: challenge-spotlight-chat-sba-titlecard
 # Controls how this page appears across the site
