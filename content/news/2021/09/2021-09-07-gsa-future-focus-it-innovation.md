@@ -8,8 +8,8 @@ title: "GSA Future Focus: IT Innovation"
 deck: **Updates from General Service Administration’s (GSA) Emerging Technology
   office**. Learn more about creating a successful IT innovation program for your
   agency.
-summary: **Updates from General Service Administration’s (GSA) Emerging Technology
-  office**. Learn more about creating a successful IT innovation program for your
+summary: Updates from General Service Administration’s (GSA) Emerging Technology
+  office. Learn more about creating a successful IT innovation program for your
   agency.
 slug: gsa-future-focus-it-innovation
 # Controls how this page appears across the site
