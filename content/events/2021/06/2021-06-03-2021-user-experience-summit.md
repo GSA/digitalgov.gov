@@ -164,6 +164,8 @@ In this session you will hear from the following speakers:
 * **Crystal Sprage** &mdash; Wyandotte County, KS
 * **Daniel Yi** &mdash; U.S. Department of Justice (DOJ)
 
+{{< youtube yvuCZughTHk >}}
+
 {{< /accordion >}}
 
 ---
