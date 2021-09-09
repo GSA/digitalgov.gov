@@ -126,6 +126,8 @@ In this session you will hear from the following speaker:
 
 * **Tait Chamberlain** &mdash; U.S. Department of Education (ED)
 
+{{< youtube 5LEZ2LspjQQ >}}
+
 - - -
 
 ## Discovery Research for Government Application Programming Interfaces (APIs): Why and How (1:10 pm - 1:30 pm, ET)
