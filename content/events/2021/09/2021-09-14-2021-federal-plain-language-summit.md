@@ -1,5 +1,8 @@
 ---
 title: 2021 Federal Plain Language Summit
+deck: "This summit will showcase Plain Language Community of Practice members’
+  experiences and successes in plain language: their projects, their efforts,
+  their edits."
 kicker: Plain Language
 summary: On 9/21/21, PLAIN's Fourth Federal PL Summit showcases federal
   employees’ plain language projects. Topics include COVID-19 agency responses,
