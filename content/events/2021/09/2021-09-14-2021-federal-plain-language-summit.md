@@ -75,6 +75,8 @@ In this session you will hear from the following speaker:
 
 ### Plain Language: Accessibility and Environmental Justice for All (12:00 pm - 12:30 pm, ET)
 
+In this session, Angie Fuoco will introduce the concepts of accessibility and environmental justice.  She will then give broad ideas and specific tips for plain language writers and speakers to be more accessible to our audiences with access needs and respectful of people who have experienced community injustice.
+
 In this session you will hear from the following speaker:
 
 * **Angie Fuoco** — Environmental Protection Agency (EPA)
