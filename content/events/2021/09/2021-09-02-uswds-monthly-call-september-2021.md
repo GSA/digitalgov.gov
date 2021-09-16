@@ -20,6 +20,9 @@ slug: uswds-monthly-call-september-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
+
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-september-2021-distro.pptx) (PPT, 5.19 MB, 58 pages)
+
 Where does the design system go from USWDS 2.0? What did we learn from that release? What challenges can the design system better address as we move forward? How can the design system be ready to grow and evolve alongside the teams that use it? 
 
 Join Dan Williams for the next USWDS Monthly Call, Thursday, September 16 from 2-3pm ET, to hear what the design system team is thinking, as we peer into the crystal ball and look into the future.
