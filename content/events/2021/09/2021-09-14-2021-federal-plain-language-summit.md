@@ -120,6 +120,8 @@ In this session you will hear from the following speakers:
 * **Eden Savino** — Government Accountability Office (GAO)
 * **Melanie Fallow** — Government Accountability Office (GAO)
 
+[View the slides](https://digital.gov/files/getting-gao-message-across-final.pptx)
+
 - - -
 
 ### The Part-Timer (3:00 pm - 3:30 pm, ET)
@@ -129,6 +131,8 @@ In this session, Joanne Short will talk about her experience as a federal employ
 In this session you will hear from the following speaker:
 
 * **Joanne Short** — United States Postal Service (USPS)
+
+[View the slides](https://digital.gov/files/pl-summit-volunteerism-joanne.pptx)
 
 - - -
 
