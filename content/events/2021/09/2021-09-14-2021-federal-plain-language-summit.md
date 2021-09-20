@@ -36,7 +36,7 @@ slug: 2021-federal-plain-language-summit
 event_platform: zoom
 primary_image: plain-language-september-event-title-card
 ---
-On **September 21, 2021**, the [Plain Language Community of Practice (CoP)](https://digital.gov/communities/plain-language/) will bring together federal employees from such agencies as the Internal Revenue Service (IRS),  Environmental Protection Agency (EPA), National Oceanic and Atmospheric Administration (NOAA), Government Accountability Office (GAO), and the General Services Administration (GSA).  Listen as they highlight plain language successes. Learn how they used plain language in COVID-19 agency responses, and how they combined plain language, accessibility, and user experience.
+On **September 21, 2021**, the [Plain Language Community of Practice (CoP)](https://digital.gov/communities/plain-language/) will bring together federal employees from such agencies as the Internal Revenue Service (IRS), National Oceanic and Atmospheric Administration (NOAA), Government Accountability Office (GAO), and the General Services Administration (GSA).  Listen as they highlight plain language successes. Learn how they used plain language in COVID-19 agency responses, and how they combined plain language, accessibility, and user experience.
 
 The Summit will begin at 10:00 am, ET, and conclude at 3:45 pm, ET. There will be two 15-minute breaks and one 30-minute break for lunch.
 
@@ -79,7 +79,7 @@ In this session, Angie Fuoco will introduce the concepts of accessibility and en
 
 In this session you will hear from the following speaker:
 
-* **Angie Fuoco** — Environmental Protection Agency (EPA)
+* **Angie Fuoco**
 
 - - -
 
