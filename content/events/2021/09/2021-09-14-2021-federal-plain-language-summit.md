@@ -49,6 +49,8 @@ In this session you will hear from the following speakers:
 * **Katherine Spivey** — U.S. General Services Administration (GSA)
 * **Katina Stapleton** — U.S. Department of Education (ED)
 
+[View the slides](https://digital.gov/files/plain-language-summit-info-slide.pptx)
+
 - - -
 
 ###  Keynote: Would More Plain Language Have Saved Us from the Worst of the Pandemic? (10:30 am - 11:15 am, ET)
@@ -56,6 +58,8 @@ In this session you will hear from the following speakers:
 In this session you will hear from the following speaker:
 
 * **Cynthia Baur, Ph.D**. — Endowed Chair and Director, Horowitz Center for Health Literacy, University of Maryland
+
+[View the slides](https://digital.gov/files/plain-language-summit-keynote.pptx)
 
 - - -
 
