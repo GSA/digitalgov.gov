@@ -85,6 +85,8 @@ In this session you will hear from the following speaker:
 
 * **Angie Fuoco**
 
+[View the slides](https://digital.gov/files/plain-language-summit-accessibility-environmental-justice-final.pptx)
+
 - - -
 
 ### LUNCH
@@ -99,6 +101,8 @@ In this session you will hear from the following speaker:
 
 * **Alison Kohler** — General Services Administration (GSA)
 
+[View the slides](https://digital.gov/files/plain-language-summit-online-glossaries.pptx)
+
 - - -
 
 ### Hazard Simplification: The Transition to Plain Language (1:30 pm - 2:00 pm, ET)
@@ -108,6 +112,8 @@ This presentation will focus on one of the key outcomes of the National Weather 
 In this session you will hear from the following speakers:
 
 * **Danielle Nagele** — National Oceanic and Atmospheric Administration (NOAA)
+
+[View the slides](https://digital.gov/files/plain-language-summit-nws-noaa-final.pptx)
 
 - - -
 
