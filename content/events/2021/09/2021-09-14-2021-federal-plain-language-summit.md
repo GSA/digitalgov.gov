@@ -75,6 +75,8 @@ In this session you will hear from the following speaker:
 
 * **Jose Vejarano** — Internal Revenue Service (IRS)
 
+[View the slides](https://digital.gov/files/plain-language-summit-irs-final.pptx)
+
 - - -
 
 ### Plain Language: Accessibility and Environmental Justice for All (12:00 pm - 12:30 pm, ET)
