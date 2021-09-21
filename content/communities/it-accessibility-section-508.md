@@ -31,7 +31,8 @@ community_list:
     type: government
     subscribe_email: "section.508@gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
-    members: 744
+    terms: "U.S. government employees and U.S. educational institution employees are eligible to join."
+    members: 939
     emails_per_week:
 
 ---
