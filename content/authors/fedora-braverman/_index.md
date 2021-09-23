@@ -5,6 +5,7 @@ YouTube: ""
 display_name: Fedora Braverman
 first_name: Fedora
 last_name: Braverman
+primary_image: "fedora-photo-at-nci"
 # List your pronoun(s) if you want them displayed alongside your name.
 # If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
