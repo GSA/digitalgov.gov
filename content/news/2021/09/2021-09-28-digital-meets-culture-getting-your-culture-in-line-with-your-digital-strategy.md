@@ -19,7 +19,7 @@ topics:
 authors:
   - ruxi-giura
 slug: digital-meets-culture-getting-your-culture-in-line-with-your-digital-strategy
-primary_image: wcm-july-title-card
+primary_image: digital-meets-culture-recap
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
