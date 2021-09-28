@@ -19,12 +19,14 @@ topics:
 authors:
   - ruxi-giura
 slug: digital-meets-culture-getting-your-culture-in-line-with-your-digital-strategy
-primary_image: usa-gov-digital-strategy
+primary_image: wcm-july-title-card
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Federal teams are continuously improving digital services to enhance customer experience and improve accessibility for all. These advancements require teams to be agile; they must innovate and manage the cultural transition required to undergo transformation. And change is hard — often because those involved might not fully understand what is changing, or how they can become part of it and harness its power.
 
 The [Web Managers Community](https://digital.gov/communities/web-content-managers/) recently hosted [a panel](https://digital.gov/event/2021/07/15/digital-meets-culture-getting-your-culture-in-line-with-your-digital-strategy/) featuring federal leaders who discussed ways to help teams navigate organizational culture change.
