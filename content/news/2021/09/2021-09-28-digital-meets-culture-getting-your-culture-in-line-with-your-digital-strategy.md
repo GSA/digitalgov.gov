@@ -17,7 +17,7 @@ topics:
   - cx
 # See all authors at https://digital.gov/authors
 authors:
-  - aaron-snow
+  - ruxi-giura
 slug: digital-meets-culture-getting-your-culture-in-line-with-your-digital-strategy
 primary_image: usa-gov-digital-strategy
 # Controls how this page appears across the site
