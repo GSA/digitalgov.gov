@@ -5,10 +5,7 @@ last_name: Salazar Foreman
 # If you include an email address, it will be displayed on your profile page
 email: dahianna.salazarforeman@gsa.gov
 # Keep it under 50 words and only one paragraph
-bio: Dahianna Salazar Foreman serves as the 18F liaison and the Digital
-  Marketing Lead for the Technology Transformation Services (TTS) Outreach team.
-  Prior to working at TTS, she led outreach efforts for after-school programming
-  at elementary schools within the District of Columbia Public Schools.
+bio: Dahianna Salazar Foreman lives in Alexandria, VA and serves as the U.S. Digital Corps Communications Lead and oversees Digital Marketing for the Technology Transformation Services (TTS) Outreach team. Prior to working at TTS she led outreach efforts for afterschool programming at elementary schools within the District of Columbia Public Schools
 # e.g. U.S. General Services Administration
 agency_full_name: U.S. General Services Administration
 # Agency Acronym [e.g., GSA]
@@ -23,4 +20,5 @@ slug: dahianna-salazar-foreman
 # See [URL] for a full list of profile photo options
 profile_photo: github
 linkedin: dahiannasalazar
+
 ---
