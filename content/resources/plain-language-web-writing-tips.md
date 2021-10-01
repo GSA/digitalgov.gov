@@ -2,15 +2,16 @@
 slug: plain-language-web-writing-tips
 date: 2015-03-06 2:58:29 -0400
 title: Plain Language Web Writing Tips
-summary: 'On the Web, people are in a hurry. They skim and scan, looking for fast answers to their questions, so it&rsquo;s important to get to the point&mdash;quickly! Help your readers complete their tasks with these Plain Language writing tips: Audience Write for your reader. Don&#8217;t write for the experts, the lawyers, or your management, unless'
+summary: 'On the web, people are in a hurry. They skim and scan, looking for fast answers to their questions, so it&rsquo;s important to get to the point&mdash;quickly! Help your readers complete their tasks with these Plain Language writing tips: Audience Write for your reader. Don&#8217;t write for the experts, the lawyers, or your management, unless'
 topics:
   - plain-language
   - writing
 authors:
+  - rachelf
   - awichman
 ---
 
-On the Web, people are in a hurry. They skim and scan, looking for fast answers to their questions, so it’s important to get to the point—quickly!
+On the web, people are in a hurry. They skim and scan, looking for fast answers to their questions, so it’s important to get to the point—quickly!
 
 Help your readers complete their tasks with these Plain Language writing tips:
 
