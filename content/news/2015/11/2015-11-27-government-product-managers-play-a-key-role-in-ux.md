@@ -21,7 +21,7 @@ topics:
 
 Government product managers sit at the intersection of three circles—business, design and technology. We play a key role in [user experience (UX)]({{< ref "communities/user-experience.md" >}}), because we are tasked with understanding users to build a product that is desirable and viable. This product could be a paper or online form, a website or a mobile app. {{< legacy-img src="2015/11/600-x-400-Three-gear-to-place-concepts-with-clipping-path-NUMAX3D-iStock-Thinkstock-187787658.jpg" alt="Three intersecting gears." caption="" >}} 
 
-**Product** management is different from **project** management. Product managers are the defenders and voice of the product&#8217;s customers, while a project manager is more concerned with balancing costs, scope and schedule issues.
+Product management is different from project management. Product managers are the defenders and voice of the product&#8217;s customers, while a project manager is more concerned with balancing costs, scope and schedule issues.
 
 I recently completed a Product Development and Management class. Here are half a dozen things I learned and you need to know if you are a beginner to product management and its role in [UX]({{< ref "/topics/user-experience" >}}):
 
