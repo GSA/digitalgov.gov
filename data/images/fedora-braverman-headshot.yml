@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/fedora-braverman-headshot.jpg
+
+# Image shortcode: {{< img src="fedora-braverman-headshot" >}}
+
+date     : 2021-10-04 16:29:56 -0400
+uid      : fedora-braverman-headshot
+width    : 4125
+height   : 4125
+format   : jpg
+credit   : "" 
+caption  : "" 
+alt      : "Fedora Braverman smiles against a blurred background in shades of blue. She is wearing gold post earrings, a thin gold chain and pendant, and a plum-colored v-neck knit top." 
