@@ -67,7 +67,7 @@ In this session you will hear from the following speaker:
 
 - - -
 
-### How Feedback and Partnerships Helped IRS Respond to COVID-19 (11:30 am - 12:00 pm, ET)
+### How Feedback and Plain Language Helped the IRS Respond to COVID-19 (11:30 am - 12:00 pm, ET)
 
 José Vejarano explains how listening to feedback and embracing plain language best practices helped the Internal Revenue Service respond to COVID-19.
 
