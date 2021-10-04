@@ -1,8 +1,7 @@
 ---
-title: How to Best Connect with your Spanish-Speaking Audience during an Emergency
-kicker: Hispanic Heritage Month / Social Media
-summary: Hear some successful social media  strategies that you can use to
-  connect with your Spanish-speaking audience during emergencies.
+title: How To Best Connect With Your Spanish-speaking Audience During an Emergency
+kicker: Hispanic Heritage Month & Social Media
+summary: The Multilingual Community of Practice is hosting a panel to share some successful social media strategies that you can use to connect with your Spanish-speaking audience during emergencies.
 host: Multilingual Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/how-to-best-connect-with-your-spanish-speaking-audience-during-an-emergency-tickets-182824201107
@@ -25,11 +24,13 @@ authors:
 slug: how-to-best-connect-with-your-spanish-speaking-audience-during-an-emergency
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: ""
----
-Join us for an exciting virtual event to celebrate Hispanic Heritage Month! [The Multilingual Community of Practice](https://digital.gov/communities/multilingual/) is trying out a new format this time: A panel discussion with experts from different agencies who will share how they've used social media to reach Hispanic/Latinx audiences during emergencies and COVID-19. You’ll have a chance to be a part of the conversation by asking questions to the panelists. We hope to see you there!
+primary_image: "multilingual-october-event-title-card"
 
-### Speakers and Panelists
+---
+
+Join us for an exciting virtual event as we celebrate Hispanic Heritage Month! The [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) is trying out a new format this time: A panel discussion with experts from different agencies who will share how they've used social media to reach Hispanic/Latinx audiences during emergencies and COVID-19. You’ll have a chance to be a part of the conversation by asking questions to the panelists. We hope to see you there!
+
+## Speakers and Panelists
 
 * **Fedora Braverman**,National Institutes of Health (NIH)
 * **Javier Chavez**, U.S. National Library of Medicine (NLM)
