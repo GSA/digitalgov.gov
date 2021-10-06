@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/usagov-en-espanol-logo.png
+
+# Image shortcode: {{< img src="usagov-en-espanol-logo" >}}
+
+date     : 2021-10-06 12:38:42 -0400
+uid      : usagov-en-espanol-logo
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "The USAGov en Español logo on a white background." 
