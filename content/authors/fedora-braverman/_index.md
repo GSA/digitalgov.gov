@@ -22,7 +22,9 @@ email: "fedora.braverman@nih.gov"
 # Bio — keep it under 50 words
 bio: "Fedora is the Digital Information Specialist at the National Cancer Institute/NIH (NCI) where she works with UX designers and information architects to develop [cancer.gov](https://www.cancer.gov/) and [cancer.gov/español](https://www.cancer.gov/espanol). She is passionate about making NCI’s website usable, enjoyable and useful for its users.
 
+
 She is the co-manager of the [Multilingual Community](https://digital.gov/communities/multilingual/) that works together to solve common issues on communication in languages other than English.
+
 
 Prior to working for NCI, she worked and developed [MedlinePlus](https://medlineplus.gov/), the website for consumer health information from the National Library of Medicine. She was the lead of the [MedlinePlus en español](https://medlineplus.gov/spanish/), the [NIH MedlinePlus magazine](https://magazine.medlineplus.gov/) and the [NIH MedlinePlus revista](https://magazine.medlineplus.gov/es/) teams where her main goal was to present high quality health information to consumers in both English and Spanish."
 
