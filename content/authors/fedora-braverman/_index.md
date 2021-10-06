@@ -20,7 +20,7 @@ slug: fedora-braverman
 email: "fedora.braverman@nih.gov"
 
 # Bio — keep it under 50 words
-bio: "Fedora is the Digital Information Specialist at the National Cancer Institute/NIH. Prior to working for NCI, she worked and developed MedlinePlus, the website for consumer health information from the National Library of Medicine. She was the lead of the MedlinePlus en español and the NIH MedlinePlus magazine teams."
+bio: "As a digital information specialist at the National Cancer Institute (NCI) of the National Institutes of Health (NIH), Fedora works with user experience (UX) designers and information architects to develop [cancer.gov](https://www.cancer.gov/) and [cancer.gov/español](https://www.cancer.gov/espanol). She is passionate about making NCI websites usable, enjoyable, and useful for its users. She is the co-manager of the [Multilingual Community](https://digital.gov/communities/multilingual/). The community works together to solve common issues on communication in other languages other than English. Prior to working for NCI, she worked and developed [MedlinePlus](https://medlineplus.gov/), the website for consumer health information from the National Library of Medicine. She was the lead of the [MedlinePlus en español](https://medlineplus.gov/spanish/), the [NIH MedlinePlus magazine](https://magazine.medlineplus.gov/) and the [NIH MedlinePlus revista](https://magazine.medlineplus.gov/es/) teams where her main goal was to present high quality health information to consumers in both English and Spanish."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
@@ -41,7 +41,7 @@ github: ""
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
-profile_source: ""
+profile_source: "fedora-braverman-headshot"
 
 # Professional Social Media [e.g., Digital_Gov]
 twitter: ""
