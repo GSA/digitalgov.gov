@@ -21,12 +21,18 @@ slug: usagov-en-espanol-celebrates-hispanic-heritage-month
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
+primary_image: usagov-en-espanol-logo
+
 ---
+
 Every year, from September 15 to October 15, Hispanic Heritage Month highlights the culture, contributions and experience of the Hispanic/Latino community in the United States.
 
 Since 2003, one program in the Technology Transformation Services (TTS) at the U.S. General Services Administration (GSA) has been leading the way in which the government serves the Spanish-speaking community in the U.S. That program is [USAGov en Español](http://usa.gov/espanol), the official guide to government information and services in Spanish and a part of the [USAGov](http://usa.gov/explore) program in TTS’ Office of Solutions.
 
 During Hispanic Heritage Month, USAGov en Español is highlighting federal agencies that provide authoritative information about programs and services in Spanish and support the Spanish-speaking community during a multi-channel public engagement campaign.
+
+{{< img src="hispanic-heritage-month-2021-usagov-en-espanol" >}}
 
 The goal with this initiative is to connect people to government resources in Spanish, raise awareness among the public that the U.S. government offers information to the Spanish-speaking community, and establish USAGov en Español as the official guide of government information.
 
