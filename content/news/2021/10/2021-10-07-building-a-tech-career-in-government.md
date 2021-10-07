@@ -130,4 +130,6 @@ I knew nothing about GSA at the time. But looking back now, I am so happy things
 
 I feel like there is so much genuine passion for the work among the civic tech crowd. People really feel there is purpose to what we do, and despite the hurdles we face, the people who work in gov tech persevere to improve the lives of the public that depends on the services and information. There aren’t a lot of jobs out there that can offer such a sense of fulfillment.
 
+## Join Us
+
 *Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications open this fall!). For more mid-senior technologists, visit [Join TTS](https://join.tts.gsa.gov/).*
