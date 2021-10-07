@@ -33,9 +33,9 @@ Join us for an exciting virtual event as we celebrate Hispanic Heritage Month! 
 ## Speakers and Panelists
 
 * **Fedora Braverman**,National Institutes of Health (NIH)
-* **Javier Chavez**, U.S. National Library of Medicine (NLM)
+* **Javier Chavez**,U.S. National Library of Medicine (NLM)
+* **Georgeta Dragoiu**,U.S. Department of Health and Human Services
 * **Laura Godfrey**,U.S. General Services Administration (GSA)
-* **Felipe Lagos**, U.S. National Library of Medicine (NLM)
 * **Claire Loxsom**,U.S. General Services Administration (GSA)
 
 - - -
