@@ -14,14 +14,16 @@ topics:
   - dap
 # See all authors at https://digital.gov/authors
 authors:
-  - aaron-snow
+  - dahianna-salazar-foreman
 slug: building-a-tech-career-in-government
-primary_image: 10x-logo
+primary_image: gsa-logo-blue-bg-1200-x-630
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 When thinking about a career in government, not many people envision themselves working in tech, but you’ll be surprised at how many opportunities are available for technologists to make an impact in public service. We talked to colleagues at the [General Services Administration](https://www.gsa.gov/) (GSA) about their experience building tech careers within government.
 
 ## Qituwra Anderson, UX Designer, 18F
@@ -29,6 +31,8 @@ When thinking about a career in government, not many people envision themselves 
 **What were you doing before applying to GSA?**
 
 I started as a [U.S. Peace Corps](https://www.peacecorps.gov/) volunteer in Colombia and worked in the sectors of education and youth development. I also did grant writing work to fund a sports and activities camp for underserved youth.
+
+{{< img-right src="qituwra-anderson-500" >}}
 
 **What was your first position in GSA and what was the path to your current position?**
 
@@ -52,6 +56,8 @@ Problem-solving and the potential impact of the products we help create which to
 
 I was serving as a Peace Corps volunteer in Botswana, working in rural health clinics and regional public health departments.
 
+{{< img-right src="sheev-dave-500" >}}
+
 **What was your first position in GSA and what was the path to your current position?**
 
 I was a contracting specialist within the Public Buildings Service working on construction projects around the Midwest. One day walking through the Kansas City office, I saw a door with a sign labeled “human design workshop” and it piqued my curiosity. I remember reading about human-centered design as part of my Peace Corps service. I was happy to learn that the government was implementing it and wanted to learn more about it.
@@ -67,6 +73,8 @@ It is the notion that you can build/design something and immediately see the eff
 **What were you doing before applying to GSA?**
 
 I was a Peace Corps volunteer in Costa Rica doing community and youth development work.
+
+{{< img-right src="shawnique-morrison-480" >}}
 
 **What was your first position in GSA and what was the path to your current position?**
 
@@ -85,6 +93,8 @@ The mission. We’re trying to remove barriers for people who rely on the govern
 **What were you doing before applying to GSA?**
 
 I was a Peace Corps volunteer in Cambodia.
+
+{{< img-right src="kelley-confer" >}}
 
 **What was your first position in GSA and what was the path to your current position?**
 
@@ -105,6 +115,8 @@ I don’t think I can choose one favorite thing about working in gov tech! First
 **What were you doing before applying to GSA?**
 
 I worked for a government contractor for the [Department of Homeland Security](https://www.dhs.gov/) prior to GSA. Before that, I was working part-time for the International Labor Organization while going to grad school.
+
+{{< img-right src="tim-lowden-500" >}}
 
 **What was your first position in GSA and what was the path to your current position?**
 
