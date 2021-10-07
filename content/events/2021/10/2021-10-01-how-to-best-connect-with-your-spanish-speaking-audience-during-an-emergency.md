@@ -24,7 +24,7 @@ authors:
 slug: how-to-best-connect-with-your-spanish-speaking-audience-during-an-emergency
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: "multilingual-october-event-title-card"
+primary_image: "multilingual-october-2021-event-title-card"
 
 ---
 
