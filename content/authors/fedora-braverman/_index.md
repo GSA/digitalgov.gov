@@ -35,7 +35,7 @@ bio_url: ""
 agency_full_name: "National Institutes of Health"
 
 # Agency Acronym [e.g., GSA]
-agency: "NIH"
+agency: "NCI"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
