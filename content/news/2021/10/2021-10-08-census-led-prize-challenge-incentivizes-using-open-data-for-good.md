@@ -19,12 +19,14 @@ topics:
 authors:
   - haley-ashcom
 slug: census-led-prize-challenge-incentivizes-using-open-data-for-good
-primary_image: 10x-funded-cover
+primary_image: census-top-open-data-for-good-2021-prize-challenge-logo
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The [Open Data for Good Grand Challenge](http://go.usa.gov/x6fXF) is now welcoming submissions from technologists and collaborators focused on deploying products with federal open data, as well as recruiting for qualified judges to score the submissions and help select winners!
 
 The $310,000 challenge was launched this summer by the U.S. Census Bureau through [The Opportunity Project](https://go.usa.gov/x7m4Y) (TOP), in collaboration with The Department of Health and Human Services (HHS), the National Oceanic and Atmospheric Administration (NOAA), and the Environmental Protection Agency (EPA).
