@@ -27,7 +27,7 @@ weight: 1
 
 ---
 
-The [Open Data for Good Grand Challenge](http://go.usa.gov/x6fXF) is now welcoming submissions from technologists and collaborators focused on deploying products with federal open data, as well as recruiting for qualified judges to score the submissions and help select winners!
+The [Open Data for Good Grand Challenge](http://go.usa.gov/x6fXF) is welcoming submissions until October 24, 2021 from technologists and collaborators focused on deploying products with federal open data, as well as recruiting for qualified judges to score the submissions and help select winners!
 
 The $310,000 challenge was launched this summer by the U.S. Census Bureau through [The Opportunity Project](https://go.usa.gov/x7m4Y) (TOP), in collaboration with The Department of Health and Human Services (HHS), the National Oceanic and Atmospheric Administration (NOAA), and the Environmental Protection Agency (EPA).
 
