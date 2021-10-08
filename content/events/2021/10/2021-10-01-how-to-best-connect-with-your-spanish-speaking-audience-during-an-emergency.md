@@ -32,11 +32,11 @@ Join us for an exciting virtual event as we celebrate Hispanic Heritage Month! 
 
 ## Speakers and Panelists
 
-* **Fedora Braverman**,National Institutes of Health (NIH)
-* **Javier Chavez**,U.S. National Library of Medicine (NLM)
-* **Georgeta Dragoiu**,U.S. Department of Health and Human Services
-* **Laura Godfrey**,U.S. General Services Administration (GSA)
-* **Claire Loxsom**,U.S. General Services Administration (GSA)
+* **Fedora Braverman**, National Institutes of Health (NIH)
+* **Javier Chavez**, U.S. National Library of Medicine (NLM)
+* **Georgeta Dragoiu**, U.S. Department of Health and Human Services (HHS)
+* **Laura Godfrey**, U.S. General Services Administration (GSA)
+* **Claire Loxsom**, U.S. General Services Administration (GSA)
 
 - - -
 *This talk is hosted by the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and Digital.gov. The Multilingual CoP is a group of federal, state, and local government digital professionals working to expand and improve digital content in languages other than English.*
