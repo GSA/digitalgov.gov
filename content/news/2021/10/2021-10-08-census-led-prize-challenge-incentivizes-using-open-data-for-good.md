@@ -42,7 +42,6 @@ The U.S. Census Bureau is seeking experts to judge the submissions and help us s
 **Below are the requirements for judges:**
 
 * Must have knowledge or experience in one or more of the following challenge categories:
-
   * Climate, Resilience, and the Natural Environment
   * Society, Economy, and the Built Environment
   * Health and COVID-19
@@ -59,7 +58,7 @@ The U.S. Census Bureau is seeking experts to judge the submissions and help us s
 
 ## Stay in Touch!
 
-* Visit Our [Website](https://go.usa.gov/x7m4Y)
+* Visit our [website](https://go.usa.gov/x7m4Y)
 * [Subscribe](https://bit.ly/emailsubscribeTOP) to our email list
 * [Contact Us](https://go.usa.gov/x7m3H)
 * [Check out TOP in the news!](https://federalnewsnetwork.com/big-data/2021/06/census-bureau-training-5-agencies-to-run-do-it-yourself-data-sprints/)
