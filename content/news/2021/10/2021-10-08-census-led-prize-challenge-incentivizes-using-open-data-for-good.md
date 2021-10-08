@@ -33,13 +33,11 @@ The $310,000 challenge was launched this summer by the U.S. Census Bureau throu
 
 In order to advance some of the most promising technology solutions built with open data, the Census Bureau and its collaborators have launched the Open Data for Good Grand Challenge, to help teams deploy their technology solutions, ensure they reach end users, and drive impact on the critical problems they were built to solve. These solutions address problems ranging from COVID-19 to reducing oceans plastics, to helping minority-businesses access capital.
 
-Please view the [full challenge rules on Challenge.gov](https://go.usa.gov/x6sG8) for eligibility, and submission requirements and deadlines. We encourage your active involvement of entering the challenge, sharing this opportunity within your networks, or [serving as a judge](https://opendataforgoodgrandchallengej.splashthat.com).
+Please view the [full challenge rules on Challenge.gov](https://go.usa.gov/x6sG8) for eligibility, and submission requirements and deadlines. We encourage your active involvement of entering the challenge, sharing this opportunity within your networks, or serving as a judge.
 
 ## Apply to be a Judge!
 
-The U.S. Census Bureau is seeking experts to judge the submissions and help us select the winners! We are specifically seeking experts in certain subject matter areas listed below, as well as technical product quality, open data, product implementation, and social impact. The process will take no more than 8-9 hours of your time during October and November.
-
-[Sign up to be a judge](https://opendataforgoodgrandchallengej.splashthat.com)
+The U.S. Census Bureau is seeking experts to judge the submissions and help us select the winners! We are specifically seeking experts in certain subject matter areas listed below, as well as technical product quality, open data, product implementation, and social impact. The process will take no more than 8-9 hours of your time during October and November. [Sign up to be a judge](https://opendataforgoodgrandchallengej.splashthat.com).
 
 **Below are the requirements for judges:**
 
