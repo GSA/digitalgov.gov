@@ -45,7 +45,7 @@ github: "FedoraBraverman"
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
-profile_source: "digit-dark"
+profile_source: "github"
 
 # Professional Social Media [e.g., Digital_Gov]
 twitter: ""
