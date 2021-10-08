@@ -34,7 +34,7 @@ Join us for an exciting virtual event as we celebrate Hispanic Heritage Month! 
 
 * **Fedora Braverman**,National Institutes of Health (NIH)
 * **Javier Chavez**,U.S. National Library of Medicine (NLM)
-* **Georgeta Dragoiu**,U.S. Department of Health and Human Services
+* **Georgeta Dragoiu**,U.S. Department of Health and Human Services (HHS)
 * **Laura Godfrey**,U.S. General Services Administration (GSA)
 * **Claire Loxsom**,U.S. General Services Administration (GSA)
 
