@@ -21,6 +21,7 @@ authors:
   - lgodfrey
   - fedora-braverman
   - javier-chavez
+  - georgeta-dragoiu
 slug: how-to-best-connect-with-your-spanish-speaking-audience-during-an-emergency
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
