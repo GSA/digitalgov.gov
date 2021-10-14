@@ -27,7 +27,7 @@ event_platform: zoom
 <details>
   <summary>Click to view the full Script!</summary>
 
-  ## Monthly Call Script broken out by corresponding Slide
+  ## Monthly Call Script with Corresponding Slide Number
   
   1. Slide 1: Hi there and welcome to the U.S. Web Design System monthly call for September 2021. It's been a couple of months since we've seen some of you — and depending on where you live you may be seeing a bit of fall color already, just like the oranges and browns in our logo.
   
@@ -45,10 +45,10 @@ event_platform: zoom
   6. Slide 6: But while it was a great starting point, it had a few issues. It was very opinionated and had a lot of greedy styles. Thus, it was hard to add to an existing site without a lot of unexpected effects, and made incremental adoption quite challenging. And it lacked an explicit design language that connected its components. Once you started customizing it, it was hard to tell just what made a USWDS site at all. You either used its default styles or you went off on your own. The design system didn't have any way to guide teams when they made these necessary customizations.
   
   7. Slide 7: We designed USWDS 2.0 to address these concerns. We wanted a design system that was easy to add incrementally, and one that's built to adapt to project needs, while still speaking a common design language.
-    * This is why we rebuilt the way we wrote our stylesheets and markup.
-    * This is why we introduced a broad range of expressive design tokens and utility classes.
-    * This is why we developed customizable project settings.
-    * And this is why we expanded our guidance and documentation.
+  * This is why we rebuilt the way we wrote our stylesheets and markup.
+  * This is why we introduced a broad range of expressive design tokens and utility classes.
+  * This is why we developed customizable project settings.
+  * And this is why we expanded our guidance and documentation.
   
   8. Slide 8: As we said at the time, USWDS 2.0 was “built to grow.”
   
@@ -106,9 +106,9 @@ If you need IE11 support, you need to stay behind a certain obvious version. If 
   33. Slide 33: Increment the MAJOR version when you do something that may require downstream effort. That is, when you change the conventions and old conventions may not work as expected. Typically, in this case, the downstream user may have to do or change something in their code. You've changed the interface in a way that is not — as we say — backwards compatible. This is also called "making incompatible API changes" where API is the "Application Programming Interface", or how users interact with your code.
   
   34. Slide 34: Now, every version you release is categorized as only one of these types. You don't ever release a single version that increments, for instance, both MINOR and PATCH versions because you both fixed bugs and added functionality. Lesser — scare quotes — versions kinda “go along for the ride” when combined with a more impactful version.
-    * If we have a version with minor changes and patch changes, we increment the minor version.
-    * If we have a version with major changes and minor changes, we increment the major version.
-    * If we have a version with major changes and patch changes, we increment the major version.
+  * If we have a version with minor changes and patch changes, we increment the minor version.
+  * If we have a version with major changes and minor changes, we increment the major version.
+  * If we have a version with major changes and patch changes, we increment the major version.
   
   35. Slide 35: Now here's where it gets kinda funky for a project like USWDS: If a major version is "making incompatible API changes," what the heck is the API for USWDS? Is it a major version change when we update a class name? When we change the markup of a component? When we change its interaction, style, or display? When we change its interaction, style, or display "a lot"? What does that even mean? Is USWDS guidance subject to semantic versioning as well? These are good questions!
   
@@ -142,16 +142,16 @@ This doesn't work in the service of incremental development. The battleship not 
   49. Slide 49: So, there's a new major version of USWDS  coming soon, and moving to this major version is going to be a whole lot easier than the move from 1.0 to 2.0.
   
   50. Slide 50: This new version is going to do four very specific things:
-    * Signal the end of IE11 support
-    * Update to modern Sass Module Syntax
-    * Allow requiring JavaScript
-    * Publish versioned component packages
+  * Signal the end of IE11 support
+  * Update to modern Sass Module Syntax
+  * Allow requiring JavaScript
+  * Publish versioned component packages
   
   51. Slide 51: And we don't want it to do much else! Here's what this release will not do:
-    * Move straight to cutting-edge CSS
-    * Change markup or look-and-feel
-    * Radically change our JavaScript
-    * Remove the familiar uswds omnibus package
+  * Move straight to cutting-edge CSS
+  * Change markup or look-and-feel
+  * Radically change our JavaScript
+  * Remove the familiar uswds omnibus package
   
   It's important to say that while this release will signal the end of IE11 support, it doesn't mean that we'll launch with a new grid-based layout grid or a bunch of CSS custom properties. We won't change our CSS much at all. Similarly, removing the “Must work without JavaScript” requirement doesn't mean that we're going to launch with a new Web Components version of USWDS. We won't change the JavaScript much at all. But as we'll discuss over the next few months, the four changes together suggest and support a number of potential improvements moving forward.
   
