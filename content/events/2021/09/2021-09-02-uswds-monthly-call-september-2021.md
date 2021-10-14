@@ -27,7 +27,7 @@ event_platform: zoom
 <details>
   <summary>Click to view the full Script!</summary>
 
-  ## Monthly Call Script with Corresponding Slide Number
+  ## Monthly Call Script - Slide by Slide
   
   1. Slide 1: Hi there and welcome to the U.S. Web Design System monthly call for September 2021. It's been a couple of months since we've seen some of you — and depending on where you live you may be seeing a bit of fall color already, just like the oranges and browns in our logo.
   
