@@ -25,9 +25,9 @@ event_platform: zoom
 
 # USWDS Monthly Call Script for September 2021
 <details>
-  <summary>Click to view!</summary>
+  <summary>Click to view the full Script!</summary>
 
-  ## USWDS Monthly Call Script
+  ## Monthly Call Script broken out by corresponding Slide
   
   1. Slide 1: Hi there and welcome to the U.S. Web Design System monthly call for September 2021. It's been a couple of months since we've seen some of you — and depending on where you live you may be seeing a bit of fall color already, just like the oranges and browns in our logo.
   
@@ -35,8 +35,8 @@ event_platform: zoom
   We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call. So thanks! And, with that, let's get started!
   
   3. Slide 3: So what's our agenda for today?
-    * Well we're trying to keep today's call lean and mean, so there's just one topic on the table, but it's a good one: Where do we go from 2.0?
-    * We'll spend all our time on that topic, and save all the rest of the time for Q&A. So ask questions in the chat as we go, or hold on to your Qs to the end.
+  * Well we're trying to keep today's call lean and mean, so there's just one topic on the table, but it's a good one: Where do we go from 2.0?
+  * We'll spend all our time on that topic, and save all the rest of the time for Q&A. So ask questions in the chat as we go, or hold on to your Qs to the end.
 
   4. Slide 4: Today I'm going to talk about where we go from 2.0. Now, I know we're on 2.12.1, but this does rhyme, and it gets to the main point I'd like to discuss today: When and why do we release a new major version of the design system. What does a new major version even mean?
   
