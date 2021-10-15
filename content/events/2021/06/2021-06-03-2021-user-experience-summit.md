@@ -49,6 +49,8 @@ In this session you will hear from the following speaker:
 
 When it comes to accessibility more needs to be done to understand how we can best design with people of all abilities. At the [U.S. General Services Administration (GSA)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services), teams such as [18F](https://18f.gsa.gov/), the Technology Transformation Services (TTS) Research Guild, and the TTS Accessibility Guild have been spearheading work to help define best practices. This presentation will highlight approaches to incorporate accessibility in your design practice.
 
+[View the slides](https://digital.gov/files/2021-ux-summit-designing-with-people-of-all-abilities.pptx) (PPT, 14.9 MB, 61 pages)
+
 In this session you will hear from the following speakers:
 
 * **Robert Jolly** &mdash; 18F, GSA TTS
