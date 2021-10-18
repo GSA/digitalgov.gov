@@ -77,6 +77,8 @@ In this session you will hear from the following speakers:
 
 UX practitioners value data and evidence. But who determines 1) what data matters, 2) whether decisions should be co-created and shared with frontline teams and the public, and 3) how data practices perpetuate, or don’t perpetuate, structural inequalities? Join us for lessons learned from projects that tried to answer these questions.
 
+[View the slides](https://digital.gov/files/ux-summit-humanizing-data-and-success-metrics-accessible.pptx) (PPT, 7.4 MB, 35 pages)
+
 In this session you will hear from the following speakers:
 
 * **Felipe Flores** &mdash; Office of Personnel Management (OPM)
