@@ -57,6 +57,8 @@ In this session you will hear from the following speakers:
 * **Ben Peterson** &mdash; GSA
 * **Pia Zaragoza** &mdash; Presidential Innovation Fellow (PIF), TTS
 
+{{< youtube _QjXiQOa33Y >}}
+
 - - -
 
 ## Engaging Employees: A Critical Step To Improving the Customer Experience (CX) (1:45 pm - 2: 45 pm, ET)
