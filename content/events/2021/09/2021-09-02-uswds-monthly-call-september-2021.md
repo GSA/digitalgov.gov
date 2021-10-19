@@ -25,9 +25,9 @@ event_platform: zoom
 
 # USWDS Monthly Call Script for September 2021
 <details>
-  <summary>Click to view the full Script!</summary>
-  <pre>
-  
+  <summary>Click to view the full Script!</summary><p>
+
+
   1. Slide 1: Hi there and welcome to the U.S. Web Design System monthly call for September 2021. It's been a couple of months since we've seen some of you — and depending on where you live you may be seeing a bit of fall color already, just like the oranges and browns in our logo.
   
   2. Slide 2: My name is Dan Williams, and I'm the USWDS product lead and this is my avatar, which may look a bit like me. Thanks for being here! First, I'd like to mention that we're recording this monthly call, so please refrain from turning on your camera. We will manually turn off any cameras to ensure the recording doesn't show us on camera. I’d also like to remind you that all attendees must abide by the TTS Code of Conduct, which is online at handbook.tts.gsa.gov/code-of-conduct. We’ve posted the link to the code of conduct in the chat.
@@ -167,9 +167,8 @@ This doesn't work in the service of incremental development. The battleship not 
   57. Slide 57: So now we’re going to stop the recording and answer your questions!
   
   58. Slide 58: Thanks for joining today's USWDS monthly call. Next month, we'll be talking about connection, contribution, and community. As always, I encourage you to join our community in the #uswds-public Slack channel so you can follow our progress, get answers, and contribute to the discussion. Follow us on Github at github.com/uswds, check out our website, and visit designsystem.digital.gov/about/community to join us and your colleagues across government who are using USWDS. And next month we'll be talking about how we might do this community thing a little better! Thank you, and see you in October.
-  </pre>
-  
-</details>
+
+</p></details>
 
 Where does the design system go from USWDS 2.0? What did we learn from that release? What challenges can the design system better address as we move forward? How can the design system be ready to grow and evolve alongside the teams that use it? 
 
