@@ -26,8 +26,7 @@ event_platform: zoom
 # USWDS Monthly Call Script for September 2021
 <details>
   <summary>Click to view the full Script!</summary>
-
-  ## Monthly Call Script - Slide by Slide
+  <pre>
   
   1. Slide 1: Hi there and welcome to the U.S. Web Design System monthly call for September 2021. It's been a couple of months since we've seen some of you — and depending on where you live you may be seeing a bit of fall color already, just like the oranges and browns in our logo.
   
@@ -168,6 +167,8 @@ This doesn't work in the service of incremental development. The battleship not 
   57. Slide 57: So now we’re going to stop the recording and answer your questions!
   
   58. Slide 58: Thanks for joining today's USWDS monthly call. Next month, we'll be talking about connection, contribution, and community. As always, I encourage you to join our community in the #uswds-public Slack channel so you can follow our progress, get answers, and contribute to the discussion. Follow us on Github at github.com/uswds, check out our website, and visit designsystem.digital.gov/about/community to join us and your colleagues across government who are using USWDS. And next month we'll be talking about how we might do this community thing a little better! Thank you, and see you in October.
+  </pre>
+  
 </details>
 
 Where does the design system go from USWDS 2.0? What did we learn from that release? What challenges can the design system better address as we move forward? How can the design system be ready to grow and evolve alongside the teams that use it? 
