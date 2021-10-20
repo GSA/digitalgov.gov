@@ -246,6 +246,8 @@ In this session you will hear from the following speakers:
 * **Randy Hart** &mdash; 18F, GSA TTS
 * **Karyn Lu** &mdash; Colorado Digital Service
 
+{{< youtube _zu5htrW8QA >}}
+
 - - -
 
 ## You’re a Human-Centered Designer! Trust Me! (3:00 pm - 4:00 pm, ET)
