@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/u-s-digital-corps-logo.png
+
+# Image shortcode: {{< img src="u-s-digital-corps-logo" >}}
+
+date     : 2021-10-22 15:50:29 -0400
+uid      : u-s-digital-corps-logo
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "The red-white-and-blue themed logo for the U.S. Digital Corps." 
