@@ -79,7 +79,7 @@ Inform the public about your policies on digital rights, copyrights, trademarks,
 
 Understand the needs of your customers, collect and address customer feedback, and use data and feedback to continuously improve your programs. Ensure that information collected from the public minimizes burden and maximizes public utility. Use social media and other third-party platforms to listen to and serve customers. Secure OMB approval before collecting information from the public (surveys, forms, etc.), and include the OMB control number on the collection. Enable digital interactions with the public and deliver services via your customers' channel of choice.
 
-* [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery](https://www.performance.gov/cx/a11-280.pdf) (2019) (7 pages, 608 kb)
+* [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf) (2021) (PDF, 11 pages, 410 kb)
 * [Executive Order 13571 – Streamlining Service Delivery and Improving Customer Service](https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom) (April 2011)
 * See all [Government Customer Service Policies and Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
 * [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (4 pages, 196 kb)
