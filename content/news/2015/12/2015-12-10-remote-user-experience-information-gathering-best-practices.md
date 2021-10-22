@@ -15,7 +15,7 @@ topics:
 
 Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. 
 
-{{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
+{{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="Gajus/iStock/Thinkstock" >}} 
 
 One of the most difficult problems is that you don’t have physical access to your users. In some cases, this is just the way it is—it’s basically impossible to try and observe **everyone** doing **everything**. So, how can you use technology to leverage what access you need? Work smarter, not harder, and be prepared by planning as much as you can before you begin.
 
@@ -31,7 +31,7 @@ You can also use this type of remote information gathering as an opportunity for
 
 One thing that is very important to work into your approach is that anyone using assistive technology needs to be able to access or use whatever tool you are using–make sure any technology you use is 508 compliant.
 
-Keep your questions simple at first, and then build complexity—you don’t want to scare users off. Knowing who your users are will help you to come up with specific questions relevant to **them**—this can be helpful, especially with language questions. Remember: one size will NOT fit all—finding a local or regional contact is really helpful in terms of prep, as well as helping to fine-tune wording. Remember to stay flexible.
+Keep your questions simple at first, and then build complexity—you don’t want to scare users off. Knowing who your users are will help you to come up with specific questions relevant to **them**&mdash;this can be helpful, especially with language questions. Remember: one size will NOT fit all—finding a local or regional contact is really helpful in terms of prep, as well as helping to fine-tune wording. Remember to stay flexible.
 
 Keep wording very basic and unambiguous, both for the people you are trying to contact and your clients. Every question asked should have a goal. If you are dealing with multiple languages, [automatic translations are often poor]({{< ref "2012-10-01-automated-translation-good-solution-or-not.md" >}}) at best, offensive at worst–know who you are trying to reach.
 
