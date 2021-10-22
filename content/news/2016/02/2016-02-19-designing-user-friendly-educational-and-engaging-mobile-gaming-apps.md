@@ -32,11 +32,17 @@ To educate the public in engaging ways, the CDC has taken an innovative approach
 
 ## Health IQ Smartphone Application
 
-The [_Health IQ_ app](http://www.cdc.gov/mobile/applications/healthiq/) is a fun way for kids and adults alike to learn interesting health facts while racing against the clock to earn _Health IQ_ points! The _Health IQ_ application includes more than 290 trivia questions stated in plain language, dealing with public health topics, including hand washing, flu, smoking, motor vehicle safety, nutrition, physical activity and more.
+The [Health IQ app](http://www.cdc.gov/mobile/applications/healthiq/) is a fun way for kids and adults alike to learn interesting health facts while racing against the clock to earn _Health IQ_ points! The _Health IQ_ application includes more than 290 trivia questions stated in plain language, dealing with public health topics, including hand washing, flu, smoking, motor vehicle safety, nutrition, physical activity and more.
 
 The goal of the _Health IQ_ application is to help audiences learn about health and science in an interactive way that rewards players for answering questions correctly and provides brief explanations about each topic to help players learn while having fun.
 
-{{< legacy-img src="2016/02/150-x-266-CDC\_Health\_IQ_1.jpg" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="2016/02/150-x-266-CDC\_Health\_IQ_4.jpg" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="2016/02/150-x-266-CDC\_Health\_IQ_2.jpg" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="2016/02/150-x-266-CDC\_Health\_IQ_3.jpg" alt="Screen capture of the Health IQ app" >}}
+{{< legacy-img src="2016/02/150-x-266-CDC_Health_IQ_1.jpg" alt="Screen capture of the Health IQ app" >}} 
+
+{{< legacy-img src="2016/02/150-x-266-CDC_Health_IQ_4.jpg" alt="Screen capture of the Health IQ app" >}}
+
+{{< legacy-img src="2016/02/150-x-266-CDC_Health_IQ_2.jpg" alt="Screen capture of the Health IQ app" >}}
+
+{{< legacy-img src="2016/02/150-x-266-CDC_Health_IQ_3.jpg" alt="Screen capture of the Health IQ app" >}}
 
 ## Solve the Outbreak Tablet Application
 
@@ -67,4 +73,6 @@ Download the apps and try them for yourself!
 
 **Solve the Outbreak**
 
-[{{< legacy-img src="2016/02/googleplay_100px.png" alt="Google Play button; click to download." >}}](https://play.google.com/store/apps/details?id=gov.cdc.sto) [{{< legacy-img src="2016/02/appstore_100px.jpg" alt="Apple App Store button; click to download." >}}](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8)_**Alex Casanova** is the Innovations Team Lead, Digital Media Branch, in the Division of Public Affairs, Office of the Associate Director for Communications at the Centers for Disease Control and Prevention (CDC)._
+[{{< legacy-img src="2016/02/googleplay_100px.png" alt="Google Play button; click to download." >}}](https://play.google.com/store/apps/details?id=gov.cdc.sto) [{{< legacy-img src="2016/02/appstore_100px.jpg" alt="Apple App Store button; click to download." >}}](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8)_
+
+**Alex Casanova** is the Innovations Team Lead, Digital Media Branch, in the Division of Public Affairs, Office of the Associate Director for Communications at the Centers for Disease Control and Prevention (CDC)._
