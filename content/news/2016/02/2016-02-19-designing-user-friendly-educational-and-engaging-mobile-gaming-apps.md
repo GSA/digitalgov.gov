@@ -36,10 +36,7 @@ The [Health IQ app](http://www.cdc.gov/mobile/applications/healthiq/) is a fun w
 
 The goal of the _Health IQ_ application is to help audiences learn about health and science in an interactive way that rewards players for answering questions correctly and provides brief explanations about each topic to help players learn while having fun.
 
-<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/150-x-266-CDC_Health_IQ_1.jpg" border="0" alt="Screen capture of the Health IQ app home screen."><img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/150-x-266-CDC_Health_IQ_2.jpg" border="0" alt="The Your Health IQ screen."><br />
-<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/150-x-266-CDC_Health_IQ_3.jpg" border="0" alt="A question asks when does flu season end in the United States. Four buttons, each with a name of a month, are possible answers."><img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/150-x-266-CDC_Health_IQ_4.jpg" border="0" alt="A word puzzle with seven tiles and empty slots asks what do you call a funnel-shaped cloud that can cause a lot of damage. A tornado.">
-
-{{< legacy-img src="2016/02/" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="2016/02/" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="2016/02/" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="2016/02/" alt="Screen capture of the Health IQ app" >}}
+<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/150-x-266-CDC_Health_IQ_1.jpg" border="0" alt="Screen capture of the Health IQ app home screen."> <img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/150-x-266-CDC_Health_IQ_2.jpg" border="0" alt="The Your Health IQ screen."> <img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/150-x-266-CDC_Health_IQ_3.jpg" border="0" alt="A question asks when does flu season end in the United States. Four buttons, each with a name of a month, are possible answers."> <img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/150-x-266-CDC_Health_IQ_4.jpg" border="0" alt="A word puzzle with seven tiles and empty slots asks what do you call a funnel-shaped cloud that can cause a lot of damage. A tornado.">
 
 ## Solve the Outbreak Tablet Application
 
