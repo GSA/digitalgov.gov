@@ -27,6 +27,13 @@ If you manage a public website in the federal government's executive branch, you
 
 Use the guidance below to implement these required links in a clear, user-friendly way.
 
+One easy way to address these requirements is to implement the following three components of the [U.S. Web Design System](https://designsystem.digital.gov/) on your website:
+
+- [banner](https://designsystem.digital.gov/components/banner/)
+- [header](https://designsystem.digital.gov/components/header/)
+- [footer](https://designsystem.digital.gov/components/footer/)
+
+
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
 ---
