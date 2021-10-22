@@ -30,7 +30,7 @@ Use the guidance below to implement these required links in a clear, user-friend
 One easy way to address these requirements is to implement the following three components of the [U.S. Web Design System](https://designsystem.digital.gov/) on your website:
 
 - [banner](https://designsystem.digital.gov/components/banner/)
-- [header](https://designsystem.digital.gov/components/header/) 
+- [header](https://designsystem.digital.gov/components/header/)
 - [footer](https://designsystem.digital.gov/components/footer/)
 
 
