@@ -2,7 +2,7 @@
 date: 2021-10-22 14:06:00 -0500
 kicker: Data
 title: Improving COVID-19 Data at the Centers for Medicare and Medicaid Services
-deck: cdcdc
+deck: 
 summary: Avena Cheng, a data scientist at the Centers for Medicare and Medicaid
   Services (CMS), shares her journey in government tech and her work at CMS.
 # See all topics at https://digital.gov/topics
@@ -13,12 +13,14 @@ topics:
 authors:
   - dahianna-salazar-foreman
 slug: improving-covid-19-data-at-the-centers-for-medicare-and-medicaid-services
-primary_image: 10x-funded-cover
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 When thinking about a career in government, not many people envision themselves working in tech, but you’ll be surprised at how many opportunities are available for technologists to make an impact in public service. We talked to Avena Cheng, a data scientist at the [Centers for Medicare and Medicaid Services (CMS)](https://www.cms.gov/), about her journey in government tech and her impactful work at CMS. She works in the [Office of Enterprise Data and Analytics](https://www.cms.gov/About-CMS/Agency-Information/CMSLeadership/Office-OEDA), and specifically the Information Products and Analytics Group.
 
 ## What was your path to a career in government tech? What made you consider public service in the first place?
