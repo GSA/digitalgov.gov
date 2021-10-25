@@ -1,11 +1,9 @@
 ---
-date: 2021-10-25 16:00:00 -0500
+date: 2021-10-25 11:00:00 -0500
 kicker: Innovation
 title: Prioritizing Equity in Government-Led Innovation Programs
-deck: deck
-summary: For the second year, college and university students are leveraging
-  Census’ TOP model to build hands-on skills and address some of our nation’s
-  most pressing challenges.
+deck: 
+summary: "For the second year, college and university students are leveraging Census&#39 TOP model to build hands-on skills and address some of our nation&#39s most pressing challenges."
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
@@ -16,12 +14,14 @@ topics:
 authors:
   - haley-ashcom
 slug: prioritizing-equity-in-government-led-innovation-programs
-primary_image: 10x-funded-cover
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The [Census Open Innovation Labs](http://go.usa.gov/xFRhY) (COIL) team is supporting the next generation of technologists and visual designers, as they build hands-on skills and address some of our nation’s most pressing challenges through [The Opportunity Project](https://go.usa.gov/x7m4Y) (TOP). This is the second consecutive year that COIL is collaborating with college and university students in a [10-week technology development sprint](https://opportunity.census.gov/sprints/2020-census-data/#2020-data). Now, art and design students have joined this effort as well.
 
 These artists, designers, and technologists will offer a new voice and perspective to [2020 Census data](https://opportunity.census.gov/sprints/2020-census-data/#2020-data) by developing new and creative ways to engage and support representation of the hardest-to-count communities in the U.S such as non-English speakers, Native Americans, college and university students, children under five, and racial and ethnic minorities. As a refresher, the decennial Census is constitutionally mandated to count every person residing in the United States every ten years-- those that the U.S. Census Bureau considers hard-to-count (HTC) are populations of residents that either willingly or unwillingly do not fill out the decennial census.
