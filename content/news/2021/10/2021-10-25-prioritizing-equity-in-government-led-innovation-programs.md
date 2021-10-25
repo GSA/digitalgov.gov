@@ -14,7 +14,7 @@ topics:
 authors:
   - haley-ashcom
 slug: prioritizing-equity-in-government-led-innovation-programs
-primary_image: 
+primary_image: census-logo
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
