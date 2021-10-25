@@ -1,5 +1,5 @@
 ---
-date: 2021-10-25 13:33:00 -0500
+date: 2021-10-25 10:33:00 -0500
 kicker: Careers
 title: "From Silicon Valley to GovTech: How a Data Scientist Turned Their Passion for Helping People Into a Career in Public Service"
 deck: 
