@@ -1,13 +1,9 @@
 ---
 date: 2021-10-25 13:33:00 -0500
 kicker: Careers
-title: "From Silicon Valley to GovTech: How a Data Scientist Turned Their
-  Passion for Helping People Into a Career in Public Service"
-deck: deck
-summary: Many opportunities are available for technologists to make an impact in
-  public service. See how Avena Cheng, a data scientist at the Centers for
-  Medicare and Medicaid Services (CMS), turned a passion for improving people's
-  lives into a govtech career.
+title: "From Silicon Valley to GovTech: How a Data Scientist Turned Their Passion for Helping People Into a Career in Public Service"
+deck: 
+summary: "Many opportunities are available for technologists to make an impact in public service. See how Avena Cheng, a data scientist at the Centers for Medicare and Medicaid Services (CMS), turned a passion for improving people&#39s lives into a govtech career."
 # See all topics at https://digital.gov/topics
 topics:
   - centers-for-medicare-and-medicaid-services
@@ -22,7 +18,9 @@ primary_image:
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 When thinking about a career in government, not many people envision themselves working in tech, but you’ll be surprised at how many opportunities are available for technologists to make an impact in public service. I talked to Avena Cheng, a data scientist at the [Centers for Medicare and Medicaid Services (CMS)](https://www.cms.gov/), about her journey in government tech and her impactful work at CMS. She works in the [Office of Enterprise Data and Analytics](https://www.cms.gov/About-CMS/Agency-Information/CMSLeadership/Office-OEDA), and specifically the Information Products and Analytics Group.
 
 ## What was your path to a career in government tech? What made you consider public service in the first place?
@@ -56,5 +54,7 @@ They’re very open-minded people who are accepting of change and are eager to l
 I also really appreciate the work-life balance that comes with working in government. It really is a 9-to-5 job, and no one expects you to be up really late at night. I know people in the private sector who work 60-80 hours a week and don’t get paid overtime, and it’s really sad that they get off work and feel exhausted afterwards. We may not have all the perks that private companies have, but we also get to enjoy our life outside of work without repercussions, which is something I care a lot about.
 
 Finally, I really like that our administration has set an agenda to focus more on addressing healthcare disparities. I’m really glad that I came into an agency that cares about expanding access to care and creating equitable healthcare outcomes. I’ve always valued these personally, and it feels great to work at a place that values the same thing.
+
+---
 
 *Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications open soon!). For more mid-senior technologists, visit [Join TTS](https://join.tts.gsa.gov/).*
