@@ -13,6 +13,9 @@ topics:
   - centers-for-medicare-and-medicaid-services
   - data
   - professional-development
+# See all authors at https://digital.gov/authors
+authors:
+  - dahianna-salazar-foreman
 slug: from-silicon-valley-to-govtech-how-a-data-scientist-turned-their-passion-for-helping-people-into-a-career-in-public-service
 primary_image: 10x-areas-of-focus
 # Controls how this page appears across the site
