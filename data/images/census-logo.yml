@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/census-logo.png
+
+# Image shortcode: {{< img src="census-logo" >}}
+
+date     : 2021-10-25 20:58:44 -0400
+uid      : census-logo
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "The U.S. Census Bureau logo has white text on a dark blue background." 
