@@ -8,13 +8,7 @@ pronoun: He | Him
 # If you include an email address, it will be displayed on your profile page
 email: dcl@georgetown.edu
 # Keep it under 50 words and only one paragraph
-bio: David Lipscomb is the Director of the Writing Center and Associate Teaching
-  Professor at Georgetown University. As Vice Chair of the Center for Plain
-  Language, David leads the Center’s Federal Report Card program. At Georgetown,
-  David incorporates plain writing principles into his courses and has designed
-  assignments in which students complete plain writing challenges for a number
-  of government agencies.  Currently, he is exploring the ways new research in
-  cognitive psychology lends support to traditional writing advice.
+bio: David Lipscomb is the Director of the Writing Center and Associate Teaching Professor at Georgetown University. As Vice Chair of the Center for Plain Language, David leads the Center’s Federal Report Card program. At Georgetown, David incorporates plain writing principles into his courses and has designed assignments in which students complete plain writing challenges for a number of government agencies. Currently, he is exploring the ways new research in cognitive psychology lends support to traditional writing advice.
 # Where can people learn more about your work?
 # Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: null
