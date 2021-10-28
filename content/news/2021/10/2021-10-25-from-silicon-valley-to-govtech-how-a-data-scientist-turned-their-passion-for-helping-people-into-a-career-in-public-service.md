@@ -21,9 +21,9 @@ weight: 1
 
 ---
 
-When thinking about a career in government, not many people envision themselves working in tech, but you’ll be surprised at how many opportunities are available for technologists to make an impact in public service. I talked to Avena Cheng, a data scientist at the [Centers for Medicare and Medicaid Services (CMS)](https://www.cms.gov/), about her journey in government tech and her impactful work at CMS. She works in the [Office of Enterprise Data and Analytics](https://www.cms.gov/About-CMS/Agency-Information/CMSLeadership/Office-OEDA), and specifically the Information Products and Analytics Group.
-
 {{< img-right src="avena-cheng-600" >}}
+
+When thinking about a career in government, not many people envision themselves working in tech, but you’ll be surprised at how many opportunities are available for technologists to make an impact in public service. I talked to Avena Cheng, a data scientist at the [Centers for Medicare and Medicaid Services (CMS)](https://www.cms.gov/), about her journey in government tech and her impactful work at CMS. She works in the [Office of Enterprise Data and Analytics](https://www.cms.gov/About-CMS/Agency-Information/CMSLeadership/Office-OEDA), and specifically the Information Products and Analytics Group.
 
 ## What was your path to a career in government tech? What made you consider public service in the first place?
 
