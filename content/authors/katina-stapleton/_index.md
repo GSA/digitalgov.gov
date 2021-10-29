@@ -29,7 +29,7 @@ bio_url: ""
 agency_full_name: "U.S. Department of Education"
 
 # Agency Acronym [e.g., GSA]
-agency: "IES"
+agency: "Education"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: "Washington, DC"
