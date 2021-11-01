@@ -26,8 +26,8 @@ topics:
   - technology-transformation-services
   - the-united-states-social-security-administration
   - tts
-  - US Citizenship and Immigration Service
-  - US Customs and Border Protection
+  - us-citizenship-and-immigration-service
+  - us-customs-and-border-protection
   - us-department-of-labor
   - us-department-of-state
   - us-digital-service
