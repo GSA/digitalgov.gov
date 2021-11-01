@@ -2,7 +2,7 @@
 date: 2021-11-01 10:33:00 -0500
 kicker: Professional Development
 title: Start Your Tech Career in Government as a U.S. Digital Corps Fellow
-deck: deck
+deck: 
 summary: Applications for the first cohort of U.S. Digital Corps Fellows will
   open on Monday, November 8th.
 # See all topics at https://digital.gov/topics
@@ -21,7 +21,9 @@ primary_image: u-s-digital-corps-logo
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 I am thrilled to announce that, on **Monday, November 8**, GSA’s Technology Transformation Services is opening applications for the inaugural cohort of the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) (USDC). The Digital Corps is a great opportunity for early-career technologists to come and join us in creating a more effective, equitable government.
 
 I came into the federal government as a student engineering intern for the Department of Energy at the Oak Ridge National Labs, working for the Spallation Neutron Source. As someone who always felt a pull towards high-impact work, I was thrilled to be contributing to projects that could drive big change. However, without a clear, direct path to full-time employment, I pivoted into private industry after my undergraduate studies to continue my career as a technologist. It was only after many years of experience and a slew of different roles that I came back into the federal government as a [White House Presidential Innovation Fellow (PIF)](https://presidentialinnovationfellows.gov/).
