@@ -2,7 +2,7 @@
 slug: under-the-hood-building-a-new-college-scorecard-with-students
 date: 2015-09-18 11:00:10 -0400
 title: 'Under the Hood: Building a New College Scorecard with Students'
-summary: 'Summary: How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool. My niece is a smart kid. I’m biased, but I swear she is. And just as I started working on the College Scorecard project as the U.S. Digital Service’s new'
+summary: 'How the U.S. Digital Service worked with students, families, schools, developers, and teams across the federal government to rebuild the new College Scorecard tool.'
 authors:
   - lisa-gelobter
 topics:
@@ -17,9 +17,9 @@ topics:
   - us-department-of-education
   - us-digital-service
   - user-experience
----
+  - usds
 
-> Summary: How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool.
+---
 
 My niece is a smart kid. I’m biased, but I swear she is. And just as I started working on the College Scorecard project as the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service)’s new Chief Digital Service Officer at the Department of Education, I got a call from her—she was trying to decide where to go to school. As we were building this tool, wading through this data, and working with all the top college choice tools already in the market, I was also helping her navigate her college choice process. Where should she go? What was the best value? What is value when it comes to schools? This may be the single most important investment of her life, and even she was struggling to find clear, reliable data on critical questions.
 
@@ -33,11 +33,11 @@ This work was truly collaborative team effort, with teams from the Departments o
 
 ## Here’s how we did it:
 
-### _Build with, not for, users._
+### Build with, not for, users.
 
 We knew what we needed to do—make people’s lives better by providing them the tools and information to make more informed choices and get the best bang for buck college choice. And we thought—exactly how do people make choices when deciding on college?
 
-#### _**So we went out and asked them.**_
+#### So we went out and asked them.
 
 Following our practice of [focusing on user needs](https://playbook.cio.gov/#play1), the College Scorecard team first spent time engaging directly with users at every single step in the project. Some of our favorite conversations were when we talked to high school students in Washington, D.C.’s Anacostia neighborhood and their excellent guidance counselor who told us how he “hacks” the process to make sure every one of his students gets an acceptance letter from a college, and feels that rush of possibility.
 
@@ -45,7 +45,7 @@ We met with 4-H kids from across the country who were frustrated by inaccurate d
 
 We build on the hard work of the Department of Education; previously, they met with thousands of stakeholders from the higher education community to learn about their concerns and ideas and hopes for how we could help students and families make a more informed decision.
 
-### _Be agile._
+### Be agile.
 
 Based on this research, we made the cheapest, fastest prototype of the College Scorecard possible, based on what we heard. We knew it needed to be mobile-first, simple, and easy to customize. That prototype ended up being a homemade, cardboard iPhone with slips of paper with wireframes of what the tool could look like. It probably cost less than a cup of coffee to produce.
 
@@ -57,7 +57,7 @@ We also went to work with the federal government’s data from over 7,000 school
 
 We worked with a group of software developers and data scientists to be beta users of the data—to make sure it worked well and was clear. In addition to the groups I mentioned above, whose work is live today, we’re also excited to see the tools and enhancements that [Niche](https://niche.com/), [College Greenlight](https://www.collegegreenlight.com/), [Noodle](https://www.noodle.com/), [Tractus Insight (HelloCollege)](https://tractusinsight.com/) and [I’m First!](http://www.imfirst.org/) are working on—and are looking forward to what many others will be able to do with the data that’s now open and available.
 
-### _What’s in the data?_
+### What’s in the data?
 
 With nearly 2,000 data points for over 7,000 schools going back 18 years, there’s a lot of information in the College Scorecard dataset. The dataset includes information from the Department of the Treasury on student loan repayment rates, and the IRS on post-college income. When we can combine new data from Departments of Education and of the Treasury with data that colleges already report on graduation rates, cost, and other descriptions about their school, the College Scorecard allows the public to distinguish colleges based on the outcomes of their students.
 
@@ -70,7 +70,7 @@ The demographic data includes things you might expect, like ethnicity or gender,
 
 And this is just the beginning. By giving developers access to an API, even more customized tools will be created, providing students more options than ever before to find the right school for them.
 
-### _What this means for the marketplace_
+### What this means for the marketplace
 
 As the President said in his [weekly address](https://www.whitehouse.gov/the-press-office/2015/09/12/weekly-address-new-college-scorecard),
 
@@ -78,4 +78,6 @@ As the President said in his [weekly address](https://www.whitehouse.gov/the-pre
 
 When consumers have more access to information, it means they can make better financial decisions for themselves and their families. This is a huge win for students, families, and the marketplace—open data like this ensures that both colleges and students are operating in a more fair, competitive, and transparent environment.
 
-A college degree is the best investment students can make in their future, and the public now has more data than ever to make one of the most important decisions students face in their lifetimes._This post was originally published on the [White House blog](https://www.whitehouse.gov/blog) by Lisa Gelobter, the Chief U.S. Digital Service Officer at the U.S. Department of Education._
+A college degree is the best investment students can make in their future, and the public now has more data than ever to make one of the most important decisions students face in their lifetimes.
+
+_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog) by Lisa Gelobter, the Chief U.S. Digital Service Officer at the U.S. Department of Education._
