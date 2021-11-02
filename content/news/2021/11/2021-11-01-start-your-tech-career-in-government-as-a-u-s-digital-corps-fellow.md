@@ -15,7 +15,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - masha-danilova
-slug: start-your-tech-career-in-government-as-a-u-s-digital-corps-fellow
+slug: u-s-digital-corps-logo
 primary_image: u-s-digital-corps-logo
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -26,13 +26,15 @@ weight: 1
 
 I am thrilled to announce that, on **Monday, November 8**, GSA’s Technology Transformation Services is opening applications for the inaugural cohort of the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) (USDC). The Digital Corps is a great opportunity for early-career technologists to come and join us in creating a more effective, equitable government.
 
+{{< img src="build-a-brighter-future-u-s-digital-corps-800" >}}
+
 I came into the federal government as a student engineering intern for the Department of Energy at the Oak Ridge National Labs, working for the Spallation Neutron Source. As someone who always felt a pull towards high-impact work, I was thrilled to be contributing to projects that could drive big change. However, without a clear, direct path to full-time employment, I pivoted into private industry after my undergraduate studies to continue my career as a technologist. It was only after many years of experience and a slew of different roles that I came back into the federal government as a [White House Presidential Innovation Fellow (PIF)](https://presidentialinnovationfellows.gov/).
 
 My career trajectory is a common one, as there has long been a gap in early-career tech hiring in government. Until now. The U.S. Digital Corps believes that the most effective government reflects the experiences and backgrounds of the very people that we serve. This is why we are recruiting diverse cohorts of mission-driven, early-career technologists and providing unprecedented access to high-impact public work—work that will be directly aligned to the administration’s priorities of coronavirus response, economic recovery, racial equity, and streamlining government services.
 
 So, before you apply, you may be asking, “What is it like to work in the federal government?”
 
-The U.S. Digital Corps program is modeled after sister programs, including PIF, [18F](https://18f.gsa.gov/),  and the [U.S. Digital Service](https://usds.gov/), and my personal experience as a PIF serves as a roadmap of what a U.S. Digital Corps fellowship may look like for you.
+The U.S. Digital Corps program is modeled after sister programs, including PIF, [18F](https://18f.gsa.gov/), and the [U.S. Digital Service](https://usds.gov/), and my personal experience as a PIF serves as a roadmap of what a U.S. Digital Corps fellowship may look like for you.
 
 In my first year as a White House Presidential Innovation Fellow, I was detailed to GSA’s [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS). Two things stood out during my tenure:
 
@@ -55,6 +57,8 @@ As a U.S. Digital Corps Fellow, you will similarly be a part of a diverse cohort
 
 I have extended my PIF term to continue building the Digital Corps program—a program I would have loved when I was starting out my career—and I hope that you consider joining us as a Fellow!
 
-Applications for the U.S. Digital Corps will open on Monday, November 8 and close on Monday, November 15th. We encourage you to apply on the day applications open, as they may close before the deadline.
+Applications for the U.S. Digital Corps will **open on Monday, November 8** and **close on Monday, November 15th**. We encourage you to apply on the day applications open, as they may close before the deadline.
 
 *Visit our website to learn more about the [opportunity](https://digitalcorps.gsa.gov/opportunity/) and the [application process](https://digitalcorps.gsa.gov/process/#preparing), and if you have any questions, reach out to us at [usdc-application@gsa.gov](mailto:usdc-application@gsa.gov).*
+
+{{< img src="apply-now-u-s-digital-corps-1200" >}}
