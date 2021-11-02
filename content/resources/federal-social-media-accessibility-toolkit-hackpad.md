@@ -54,41 +54,52 @@ Below is a set of recommended, baseline strategies to improve the accessibility 
   1. **Make your contact information available on your social media account page**.
 
     List a primary phone number and email address where a user can reach your agency with questions, or provide a link to your agency website that lists the appropriate contact information.
+    
 
   2. **Make your social media content available through more than one channel**.
 
     Provide easy points of entry for more information. Some of the most common ways are to post threads on your website, provide options to sign up for daily email digests of social media posts or to add a social media widget to your agency website.
+    
 
-  3. **Provide links or contact information to official social media support and accessibility teams.
+  3. **Provide links or contact information to official social media support and accessibility teams.**
 
-**Often, social media tools have their own accessibility tips and support help desks. Educate yourself about them and provide links to your constituents.
-4.**Keep it simple.
+    Often, social media tools have their own accessibility tips and support help desks. Educate yourself about them and provide links to your constituents.
+    
 
-**Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)), and limit your use of hashtags, abbreviations and acronyms. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read, including for those using a screen reader.
-5.**Learn the accessibility requirements and periodically test your content for accessibility.
+  4. **Keep it simple.**
 
-** Read the [Section 508 Standards](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) and the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) and other key resources that discuss them. Then test your social media content with a screen reader or other type of assistive technology.
+    Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)), and limit your use of hashtags, abbreviations, acronyms, and emoji icons. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read for everyone, no matter the status of their vision.
+    
+    
+  5. **Learn the accessibility requirements and periodically test your content for accessibility.
+
+    Read the [Section 508 Standards](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) and the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) and other key resources that discuss them. Then test your social media content with a screen reader or other type of assistive technology.
+    
 
 ### Guidelines for Writing in Plain Language
 
   1. Writing in plain language is a way to ensure that people can understand and use the information provided by a social media post. All federal agencies must write using plain language in accordance with [The Plain Writing Act of 2010](http://www.plainlanguage.gov/plLaw/law/index.cfm), which means all that publicly distributed content should be written in a “clear, concise, well-organized” manner. Key best practices for writing in plain language include:
-      1. Choose words that are common and easy to understand.
-      2. Avoid run-on sentences. Use clear, short sentences and paragraphs.
-      3. Write in the active voice instead of the passive voice.
+       • Choose words that are common and easy to understand.
+       • Avoid run-on sentences. Use clear, short sentences and paragraphs.
+       • Write in the active voice instead of the passive voice.
 
-        Passive Voice: Applications for the job were submitted by 100 people.
-
-        Active Voice: 100 people submitted applications for the job.
+            - Passive Voice: Applications for the job were submitted by 100 people.
+            - Active Voice: 100 people submitted applications for the job.
+        
   2. Use this [Document Checklist for Plain Language on the Web](http://www.plainlanguage.gov/howto/quickreference/weblist.cfm) from [PlainLanguage.gov](http://www.plainlanguage.gov/index.cfm) when writing social media posts.
   3. Follow this [5-step checklist provided by the Center for Plain Language](http://centerforplainlanguage.org/5-steps-to-plain-language/) to ensure that your social media posts communicate your message effectively.
   4. For before and after examples of plain language, visit [PlainLanguage.gov’s list of Before-and-After Comparisons](http://www.plainlanguage.gov/examples/before_after/index.cfm).
 
-### Tips for Making Facebook Updates Accessible
+### Tips for Making Facebook Posts Accessible
 
   1. The federal government is full of acronyms. Don’t assume your audience is knowledgeable about all acronyms. Take advantage of the space Facebook provides and always spell out the first instance of the acronym and add the acronym, in parentheses after (e.g., Social Media Emergency Management (SMEM)). This is especially helpful for those using screen readers, because after the name is heard and the acronym is spelled out, the user will be better able to associate the sound of the acronym with the full name.
-  2. Add captions to photos to ensure that individuals will understand what is going on in the picture. The captions do not need to be very long, but they should describe what the scene is, and how elements of the image appear and provide context for the image.
-  3. Videos posted directly to Facebook should be closed captioned. This can be done by adding a SubRip file to the video after it is posted. For step-by-step instruction on captioning Facebook videos, please visit <http://www.reelseo.com/how-to-add-closed-captions-facebook-videos/>.
-  4. As an alternative to directly uploading videos to Facebook, upload videos to YouTube and post the link to the video in a status update. Since YouTube automatic captioning can be inaccurate, prepare an accurate transcript and upload it whenever possible. This will ensure that visitors will be taken to an accessible video with captioning.
+  2. Write custom alt text for any photos you upload to your page or group. Alt text can be added to an image by clicking the Edit button in the upper left of an image in the post composition window and then writing in the custom alt text field. You should never rely on Facebook's auto-generated alt text because it's often inaccurate and not descriptive enough to be considered accessible. For more information on adding alt text to Facebook images, visit the [Facebook Help Center](https://www.facebook.com/help/214124458607871).
+  3. Avoid posting JPEG, PNG, or GIF files that have embedded text on them. This text is no longer readable and will not be picked up by a screen reader. If embedded text on an image file is unavoidable, make sure to include the embedded text in the alt text of the image.
+  4. Add captions to photos to ensure that individuals will understand what is going on in the picture. The captions do not need to be very long, but they should describe what the scene is, and how elements of the image appear and provide context for the image.
+  5. Videos posted directly to Facebook should be closed captions. This can be done by adding a SubRip (SRT) file to the video before it is posted. For step-by-step instructions on captioning Facebook videos, please visit the [Facebook Help Center](https://www.facebook.com/help/509746615868430).
+  6. As an alternative to directly uploading videos to Facebook, upload videos to YouTube and post the link to the video in a status update. Since YouTube automatic captioning can be inaccurate, prepare an accurate transcript and upload it whenever possible. This will ensure that visitors will be taken to an accessible video with captioning.
+  7. Do not use alternative characters or ["fancy fonts"](https://therealalexa.com/alternative-characters) from external websites to make your copy appear in different weights, styles, or fonts. These characters are not accessible for all assistive devices and should be avoided. You should only use the fonts and formatting options readily available on the platform.
+  8. Do not use [ASCII art](https://therealalexa.com/ascii-art) in your posts as it is not accessible for screen readers. Assistive technology is programmed to read ASCII characters separately and cannot discern when characters have been used to create a larger picture.
 
 Facebook has an Accessibility Team that is dedicated to issues specific to accessibility and assistive technology. They can be reached through Facebook and Twitter.
 
@@ -103,10 +114,15 @@ Facebook has an Accessibility Team that is dedicated to issues specific to acces
   4. If your tweet links to photo, video or audio content, make your tweet act as a descriptive caption so it provides context for the item, and then link back to a website page that hosts a tagged photo, captioned video or audio with full caption. Or, send a follow-up tweet with a description.
   5. Ensure that you link to accessible content, i.e., a tagged photo, captioned video or audio with written transcript.
       * A tagged photo simply has alternative text associated with it that describes the image. For more details on alternative text, please visit [http://webaim.org/articles/gonewild/](http://webaim.org/articles/gonewild/#alttext)[#alttext](https://hackpad.com/ep/search/?q=%23alttext&via=xWKKBxzGubh).
-  6. Enable the setting on Twitter to use the “image description” feature, which will allow you to to add a descriptive caption to any photo that you directly include in a tweet. For step-by-step instructions on enabling the image description feature on the web and on iOS and Android mobile apps, please visit <https://support.twitter.com/articles/20174660>.
-  7. If you are linking to content that your agency has not created and/or you do not know whether that content is accessible or not, make sure your audience is aware of these limitations. Simply provide a note briefly explaining the limitation, such as that: the photo is untagged; the video will auto start; the video does not include captioning; or the audio file is not accompanied by a written transcript. Also provide contact information should the individual require some kind of alternative method to access the content.
-  8. Try to use camel case for multiple words within a hashtag; that is, capitalize the first letters of compound words. It makes it easier visually and for screen readers to pronounce the individual words more clearly (e.g., use [#DigitalGov](https://hackpad.com/ep/search/?q=%23DigitalGov&via=xWKKBxzGubh) instead of [#digitalgov](https://hackpad.com/ep/search/?q=%23digitalgov&via=xWKKBxzGubh)).
-  9. Provide recaps of Twitter Chats. For example, the U.S. Department of Labor provided a detailed recap of its Twitter [#VetsJobChat](https://hackpad.com/ep/search/?q=%23VetsJobChat&via=xWKKBxzGubh) through a post on its [(Work in Progress) blog](http://social.dol.gov/blog/a-recap-of-the-vetsjobschat-round-2/). [Storify.com](https://storify.com/) is a popular web platform that allows users to compile tweets on a particular topic or hashtag.
+  6. Write alt text for any photos you attach to your tweet. Alt text can be added to an image by clicking Add Description below your uploaded image. For more information on adding alt text to Twitter images, visit the [Twitter Help Center](https://help.twitter.com/en/using-twitter/picture-descriptions).
+  7. Avoid tweeting JPEG, PNG, or GIF files that have embedded text on them. This text is no longer readable and will not be picked up by a screen reader. If embedded text on an image file is unavoidable, make sure to include the embedded text in the alt text of the image.
+  8. If you are linking to content that your agency has not created and/or you do not know whether that content is accessible or not, make sure your audience is aware of these limitations. Simply provide a note briefly explaining the limitation, such as that: the photo is untagged; the video will auto start; the video does not include captioning; or the audio file is not accompanied by a written transcript. Also provide contact information should the individual require some kind of alternative method to access the content.
+  9. Try to use camel case for multiple words within a hashtag; that is, capitalize the first letters of compound words. It makes it easier visually and for screen readers to pronounce the individual words more clearly (e.g., use [#DigitalGov](https://hackpad.com/ep/search/?q=%23DigitalGov&via=xWKKBxzGubh) instead of [#digitalgov](https://hackpad.com/ep/search/?q=%23digitalgov&via=xWKKBxzGubh)).
+  10. Provide recaps of Twitter Chats. For example, the U.S. Department of Labor provided a detailed recap of its Twitter [#VetsJobChat](https://hackpad.com/ep/search/?q=%23VetsJobChat&via=xWKKBxzGubh) through a post on its [(Work in Progress) blog](http://social.dol.gov/blog/a-recap-of-the-vetsjobschat-round-2/). [Storify.com](https://storify.com/) is a popular web platform that allows users to compile tweets on a particular topic or hashtag.
+  11. Do not use alternative characters or ["fancy fonts"](https://therealalexa.com/alternative-characters) from external websites to make your copy appear in different weights, styles, or fonts. These characters are not accessible for all assistive devices and should be avoided. You should only use the fonts and formatting options readily available on the platform.
+  12. Do not use [ASCII art](https://therealalexa.com/ascii-art) in your tweets as it is not accessible for screen readers. Assistive technology is programmed to read ASCII characters separately and cannot discern when characters have been used to create a larger picture.
+
+Twitter has an Accessibility Team that is dedicated to issues specific to accessibility and assistive technology. They can be reached through the Twitter handle [@TwitterA11y](https://twitter.com/TwitterA11y).
 
 ### Tips for Making Snapchat More Accessible
 
@@ -123,7 +139,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
   1. Play the video, pause, speak what you hear, and repeat.
   2. Be careful only to include high-quality audio. People who are hard of hearing may have difficulty with the soundtrack of videos that contain music or other effects, or which have not been produced to high audio quality.
-  3. Ensure all videos have closed captions and audio description (or a link to a version that has audio descriptions). In addition, a full transcript (of captions and audio description) is useful for people who have both hearing and visual impairments including those who are deaf-blind. YouTube has a feature that will automatically caption videos. To increase accuracy of the YouTube automatic captions, videos should have very clear-spoken words and little background noise. However, since YouTube automatic captioning can be very inaccurate, prepare your own accurate transcript and upload it whenever possible. For step-by-step instructions, please visit: <http://ncdae.org/resources/cheatsheets/youtube.php>.
+  3. Ensure all videos have closed captions and an audio description (or a link to a version that has audio descriptions). In addition, a full transcript (of captions and audio description) is useful for people who have both hearing and visual impairments including those who are deaf-blind. YouTube has a feature that will automatically caption videos. To increase accuracy of the YouTube automatic captions, videos should have very clear-spoken words and little background noise. However, since YouTube automatic captioning can be very inaccurate, prepare your own accurate transcript and upload it whenever possible. For step-by-step instructions, please visit: <http://ncdae.org/resources/cheatsheets/youtube.php>.
   4. Descriptive language needs to be used in video captioning to denote audio and visual elements to users who may have visual or hearing disabilities. Make sure to use easy-to-understand language in your descriptions.
   5. To ensure accurate captioning, create a transcript of the video. To create a transcript use one of the following tools:
       * On a Mac (El Capitan): System Preferences > Dictation & Speech > Dictation (On). Then open up any typing program (TextEdit, Word, Notes, Stickies, etc.) and:
@@ -141,16 +157,14 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
 ### Tips for Making Instagram Posts Accessible
 
-  1. Instagram does not allow images to have alternative text, so users should provide a detailed caption describing the image they are posting.
-  2. Instagram does not allow users to add closed captions to videos, so users should provide a detailed caption that describes what is happening in the video and includes a transcript of what is being said in the video.
-  3. Use camel case for multiple words within a hashtag if you include any in the caption.
-  4. Avoid using acronyms in captions when possible, and always explain what the acronyms mean if you do use them.
-
-### Tips for Making Vine Posts Accessible
-
-  1. Upon uploading a video clip, add a transcript to cover spoken and visual action to Vine&#8217;s “description” field.
-  2. Remember that in addition to including captioning for individuals who are deaf or hard of hearing, information that is conveyed visually needs to include descriptive text readable by screen readers for individuals who are blind or who have low or limited vision.
-  3. Alternatively, Vine videos can be embedded in a website where they can be captioned and described.**** Closed-caption can be embedded Vine video on your website using a tool like the [JW Player](https://support.jwplayer.com/).
+  1. Write alt text for all photos you post. Tap Advanced Settings when you get to the final screen before posting your image, scroll to Accessibility, click Write Alt Text, and then write your alt text in the open slot. For more information on adding alt text to Instagram images, visit the [Instagram Help Center](https://help.instagram.com/503708446705527).
+  2. Avoid posting JPEG, PNG, or GIF files that have embedded text on them. This text is no longer readable and will not be picked up by a screen reader. If embedded text on an image file is unavoidable, make sure to include the embedded text in the alt text of the image.
+  3. Instagram does not allow users to add closed captions to all videos at this time, so users should make sure that open captions are added to videos when closed captioning is not available.
+  4. Use the captions sticker for Instagram stories that feature audio. For more information on using stickers in Instagram stories, visit the [Instagram Help Center](https://help.instagram.com/151273688993748/?helpref=search&query=captions&search_session_id=fccfeb73ce2ebc62425f1902f8fcc7ad&sr=5#:~:text=for%20that%20hashtag.-,Captions%20sticker%3A,-Automatically%20transcribes%20your).
+  5. Use camel case for compound hashtags if you include any in the caption.
+  6. If you're going to use a block of multiple hashtags on your post, place them in the first comment instead of the caption area.
+  7. Avoid using acronyms in captions when possible, and always explain what the acronyms mean if you do use them.
+  8. Do not use alternative characters or ["fancy fonts"](https://therealalexa.com/alternative-characters) from external websites to make your copy appear in different weights, styles, or fonts. These characters are not accessible for all assistive devices and should be avoided. You should only use the fonts and formatting options readily available on the platform.
 
 ### Tips for Making Blogs Accessible
 
@@ -168,9 +182,12 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
 * Depending on your social media strategy, you may want to use other platforms such as [LinkedIn](https://www.linkedin.com/) or [Pinterest](http://www.pinterest.com/) to connect with constituents.
 * LinkedIn focuses on professional contacts and also allows users to collaborate and share articles and ideas through its group message boards. Your LinkedIn profile should have a clear image to accompany your name so users can distinguish you from other potential contacts with a similar name or brand.
+* Write alt text for any images you upload to LinkedIn. Step-by-step instructions for adding alt text to LinkedIn images can be found in the [LinkedIn Help Center](https://www.linkedin.com/help/linkedin/answer/109799).
 * LinkedIn Online Support <https://www.linkedin.com/help/linkedin>
 * Pinterest is a visual discovery tool where users create online “bulletin boards” of images, ideas and videos. All Pinterest content is “pinned” to boards from outside sources. Include a description of the item you are pinning and alert users if it is a picture, video, audio file or GIF (e.g. [PIC], [VIDEO], [AUDIO], [GIF]). If you are pinning content that you did not create or is not accessible, make sure your audience is aware of these limitations by including a brief note in the description of the pin.
-* As with Vine videos, Instagram videos should have captions and a transcript. For more information on video accessibility, read the Tips for Making YouTube Videos Accessible and Tips for Making Vine Posts Accessible.
+* Write alt text for any images you upload directly to Pinterest as a new pin. Step-by-step instructions for adding alt text to Pinterest images can be found in the [Pinterest Help Center](https://help.pinterest.com/en/article/add-alternative-text-to-your-pins).
+* Do not use alternative characters or ["fancy fonts"](https://therealalexa.com/alternative-characters) from external websites to make your copy appear in different weights, styles, or fonts. These characters are not accessible for all assistive devices and should be avoided. You should only use the fonts and formatting options readily available on the platform.
+* Do not use [ASCII art](https://therealalexa.com/ascii-art) in your posts as it is not accessible for screen readers. Assistive technology is programmed to read ASCII characters separately and cannot discern when characters have been used to create a larger picture.
 
 ## Additional Resources
 
@@ -227,6 +244,8 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 * [Ask JAN SNAP Tool](http://askjan.org/bulletins/SNAPTool.htm)
 
 * [W3 Web Accessibility Initiative](http://www.w3.org/WAI/)
+
+* [Accessible Social](https://therealalexa.com/accessible-social)
 
 ## How To Provide Feedback Or Contribute Content To This Toolkit
 
