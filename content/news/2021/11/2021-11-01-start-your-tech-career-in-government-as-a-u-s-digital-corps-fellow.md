@@ -15,7 +15,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - masha-danilova
-slug: u-s-digital-corps-logo
+slug: start-your-tech-career-in-government-as-a-u-s-digital-corps-fellow
 primary_image: u-s-digital-corps-logo
 # Controls how this page appears across the site
 # 0 -- hidden
