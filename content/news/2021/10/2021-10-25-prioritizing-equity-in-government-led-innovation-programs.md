@@ -3,7 +3,7 @@ date: 2021-10-25 11:00:00 -0500
 kicker: Innovation
 title: Prioritizing Equity in Government-Led Innovation Programs
 deck: 
-summary: "For the second year, college and university students are leveraging Census&#39; TOP model to build hands-on skills and address some of our nation&#39; most pressing challenges."
+summary: "For the second year, college and university students are leveraging the TOP model from Census to build hands-on skills and address some of our nation's most pressing challenges."
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
