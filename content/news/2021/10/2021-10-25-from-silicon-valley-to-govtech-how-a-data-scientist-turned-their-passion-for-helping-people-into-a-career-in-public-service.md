@@ -3,7 +3,7 @@ date: 2021-10-25 10:33:00 -0500
 kicker: Careers
 title: "From Silicon Valley to GovTech: How a Data Scientist Turned Their Passion for Helping People Into a Career in Public Service"
 deck: 
-summary: "Many opportunities are available for technologists to make an impact in public service. See how Avena Cheng, a data scientist at the Centers for Medicare and Medicaid Services (CMS), turned a passion for improving people&#39s lives into a govtech career."
+summary: "Many opportunities are available for technologists to make an impact in public service. See how Avena Cheng, a data scientist at the Centers for Medicare and Medicaid Services (CMS), turned a passion for improving people's lives into a govtech career."
 # See all topics at https://digital.gov/topics
 topics:
   - centers-for-medicare-and-medicaid-services
