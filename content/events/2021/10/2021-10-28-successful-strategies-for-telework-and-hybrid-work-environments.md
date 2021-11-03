@@ -52,8 +52,10 @@ Experts from The National Institutes of Health (NIH), Office of Personnel Manage
 * **Lauren Giacalone** — Performance Management Consultant, OPM
 * **Alex Harrington** — Operations Manager & Senior Advisor, DHS
 * **Joellen Jarrett** — Chief Learning Officer, Division Chief, Organizational Effectiveness, SBA
+* **Alexander Koudry** — Program Manager - Center for Information Technology Access (CITA), GSA
 * **Jonathan Lappin** — Chief, Strategic Workforce Analytics and Engagement Branch, NIH, HHS
 * **Catie Miller** — Manager of Strategic Communications, GSA
+* **Andrew Nielson** — Director of the Government-wide IT Accessibility Program, Office of Government-wide Policy, GSA
 * **Rizwan Shah** — Organizational Culture Advisor, DOE
 * **Kim Wittenberg** — Health Scientist Administrator, AHRQ, HHS
 
