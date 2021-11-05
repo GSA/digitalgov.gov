@@ -17,7 +17,7 @@ slug: webinar-recap-u-s-web-design-system-september-2021-monthly-call
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-primary_image: "uswds-logo"
+primary_image: "uswds-2-illio-feature-image"
 
 ---
 
