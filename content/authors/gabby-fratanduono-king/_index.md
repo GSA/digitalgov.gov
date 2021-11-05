@@ -4,14 +4,11 @@ first_name: Gabrielle
 last_name: Fratanduono
 # List your pronoun(s) if you want them displayed alongside your name.
 # If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: She | Her
+pronoun: she, her
 # If you include an email address, it will be displayed on your profile page
 email: gabrielle.fratanduono@gsa.gov
 # Keep it under 50 words and only one paragraph
-bio: Gabby is a consultant who works with GSA’s Technology Transformation
-  Services (TTS). As part of the Digital.gov team, Gabby manages events,
-  supports Communities of Practice, and writes content for the Digital.gov
-  website.
+bio: Gabby is a consultant who works with GSA’s Technology Transformation Services (TTS). As part of the Digital.gov team, Gabby manages events, supports Communities of Practice, and writes content for the Digital.gov website.
 # e.g. U.S. General Services Administration
 agency_full_name: Gab Fratanduono
 # Agency Acronym [e.g., GSA]
@@ -24,4 +21,5 @@ location: Columbia, MD
 github: Gabr1elleKING
 slug: gabby-fratanduono-king
 linkedin: gabrielle-fratanduono-598389a0
+
 ---
