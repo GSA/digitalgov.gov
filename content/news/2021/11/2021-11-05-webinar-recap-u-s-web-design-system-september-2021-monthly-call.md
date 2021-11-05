@@ -3,10 +3,7 @@ date: 2021-11-05 13:34:00 -0500
 kicker: USWDS
 title: "Webinar Recap: U.S. Web Design System September 2021 Monthly Call"
 deck: Where Do We Go from USWDS 2.0?
-summary: "For our September call, we focused on the future of the U.S. Web
-  Design System (USWDS): Where does the design system go from USWDS 2.0? What
-  did we learn from our 1.0 and 2.0 releases? Read key points and takeaways from
-  this month’s presentation."
+summary: "For our September call, we focused on the future of the U.S. Web Design System (USWDS): Where does the design system go from USWDS 2.0? What did we learn from our 1.0 and 2.0 releases? Read key points and takeaways from this month’s presentation."
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
@@ -20,10 +17,13 @@ slug: webinar-recap-u-s-web-design-system-september-2021-monthly-call
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+primary_image: uswds-logo
+
 ---
+
 The [presentation deck and script](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-september-2021-distro.pptx) from the U.S. Web Design System (USWDS) [September Monthly Call](https://digital.gov/event/2021/09/16/uswds-monthly-call-september-2021/) are now available. Remember to tune in for the U.S. Web Design System monthly calls every third Thursday of the month.
 
-### **We have a new major version coming in January 2022: USWDS 3.0**
+## We have a new major version coming in January 2022: USWDS 3.0
 
 For our September call, we focused on the future of USWDS. Where does the design system go from USWDS 2.0? What did we learn from our 1.0 and 2.0 releases? What challenges can the design system better address as we move forward? How can the design system be ready to grow and evolve alongside the teams that use it? 
 
@@ -31,21 +31,19 @@ There were three key points from this month’s presentation. 
 
 1. The USWDS 3.0 beta program will begin in October 2021.
 2. This new version will do four things:
-
    * Signal the end of IE11 support.
    * Update to modern Sass Module Syntax.
    * Allow requiring JavaScript for some functionality.
    * Publish versioned component packages.
 3. Here’s what the next release will not do:
-
    * Move straight to cutting-edge CSS.
    * Change markup or look-and-feel.
    * Radically change our JavaScript.
    * Remove the familiar USWDS omnibus package.
 
-### **We want to support informed incremental design**
+## We want to support informed incremental design
 
-Starting with USWDS 3.0, we’ll be publishing individual component packages, in addition to the familiar **USWDS** omnibus package. Unbundling the design system will allow components to evolve at their own speed and enable projects to tailor their implementation to their unique needs.
+Starting with USWDS 3.0, we’ll be publishing individual component packages, in addition to the familiar USWDS omnibus package. Unbundling the design system will allow components to evolve at their own speed and enable projects to tailor their implementation to their unique needs.
 
 * We want to make it easier to stay up-to-date with the design system.
 * We want to prevent major changes to some components from blocking teams from updating to critical changes in other components.
@@ -53,7 +51,7 @@ Starting with USWDS 3.0, we’ll be publishing individual component packages, in
 * We want you to know how the design system is changing and how these specific changes will impact your project.
 * We’re going to be more strict about semantic versioning to better communicate the impact of the changes we make from version to version.
 
-### **We’ll be making it as easy as possible to upgrade and migrate to USWDS 3.0**
+## We’ll be making it as easy as possible to upgrade and migrate to USWDS 3.0
 
 We aim to make an upgrade from the latest version to USWDS 3.0 take minutes, not hours, days, or weeks. Our overall focus is on ease of use over time for designers, developers, and program managers. We learned an important lesson with USWDS 2.0: that migration pain makes any change that much harder.
 
@@ -61,7 +59,7 @@ The biggest migration update, from a developer’s perspective, will probably be
 
 Following along with the USWDS 3.0 [beta program](https://github.com/uswds/uswds/discussions/4365) will not only help teams better understand what will be changing, but will help the design system make the upgrade process as seamless and painless as possible for everyone.
 
-### **Resources**
+## Resources
 
 * Learn more about the [USWDS release history and versions](https://github.com/uswds/uswds/releases).
 * See the progress we are making on our [product roadmap](https://designsystem.digital.gov/about/product-roadmap/).
@@ -69,7 +67,7 @@ Following along with the USWDS 3.0 [beta program](https://github.com/uswds/uswds
 * Join the [USWDS Community](https://designsystem.digital.gov/about/community/).
 * Follow us on [GitHub](https://github.com/uswds).
 
-### **Q&A follow-up**
+## Q&A follow-up
 
 Here is a snapshot overview of our lively question and answer session for your reference.
 
