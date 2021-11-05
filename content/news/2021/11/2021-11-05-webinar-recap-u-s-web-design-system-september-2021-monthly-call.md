@@ -2,7 +2,7 @@
 date: 2021-11-05 13:34:00 -0500
 kicker: USWDS
 title: "Webinar Recap: U.S. Web Design System September 2021 Monthly Call"
-deck: Where Do We Go from USWDS 2.0?
+deck: Where do we go from USWDS 2.0?
 summary: "For our September call, we focused on the future of the U.S. Web Design System (USWDS): Where does the design system go from USWDS 2.0? What did we learn from our 1.0 and 2.0 releases? Read key points and takeaways from this month’s presentation."
 # See all topics at https://digital.gov/topics
 topics:
