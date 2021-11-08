@@ -24,7 +24,7 @@ event_platform: zoom
 
 [View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-september-2021-distro.pptx) (PowerPoint, 5.19 MB, 58 pages)
 
-[View the recap](https://digital.gov/2021/11/05/webinar-recap-u-s-web-design-system-september-2021-monthly-call/)
+[View the Webinar Recap](https://digital.gov/2021/11/05/webinar-recap-u-s-web-design-system-september-2021-monthly-call/)
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for September 2021" icon="fas fa-copy" >}}
 
