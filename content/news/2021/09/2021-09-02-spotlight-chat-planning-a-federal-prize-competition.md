@@ -10,6 +10,7 @@ topics:
   - challenge-gov
   - strategy
   - crowdsourcing
+  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - quinn-slayton
