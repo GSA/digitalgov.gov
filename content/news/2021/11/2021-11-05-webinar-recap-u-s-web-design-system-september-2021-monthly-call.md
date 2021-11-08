@@ -4,20 +4,25 @@ kicker: USWDS
 title: "Webinar Recap: U.S. Web Design System September 2021 Monthly Call"
 deck: Where do we go from USWDS 2.0?
 summary: "For our September call, we focused on the future of the U.S. Web Design System (USWDS): Where does the design system go from USWDS 2.0? What did we learn from our 1.0 and 2.0 releases? Read key points and takeaways from this month’s presentation."
+
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
   - user-research
   - usability
   - recaps
+
 # See all authors at https://digital.gov/authors
 authors:
   - kathryn-mullan
+
 slug: webinar-recap-u-s-web-design-system-september-2021-monthly-call
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 primary_image: "uswds-2-illio-feature-image"
 
 ---
@@ -102,7 +107,7 @@ A: Yes, hydration is a good model here. We’re committed to developing with per
 
 **Q: Is there any file showing the current version of USWDS, so I can be sure that I’m on it?**  
 
-A: Consult [GitHub](https://github.com/uswds/uswds/releases) for our current releases. Check your \`package.json\` file if you’ve downloaded the USWDS package from NPM. Look for a line like **“uswds”: “^2.8.0”**— in this case, the active USWDS version is 2.8.0.
+A: Consult [GitHub](https://github.com/uswds/uswds/releases) for our current releases. Check your \`package.json\` file if you’ve downloaded the USWDS package from NPM. Look for a line like `“uswds”: “^2.8.0”`&mdash;in this case, the active USWDS version is 2.8.0.
 
 **Q: How does Layout Paragraphs play with USWDS?**
 
