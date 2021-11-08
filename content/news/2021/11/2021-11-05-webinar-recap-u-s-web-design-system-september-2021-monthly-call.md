@@ -9,6 +9,7 @@ topics:
   - uswds
   - user-research
   - usability
+  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - kathryn-mullan
