@@ -241,7 +241,7 @@ Comply with existing laws that prohibit federal public websites from being used 
 Work with your agency Records Officer and follow NARA guidance to establish and maintain inventories, priorities, and records schedules, and regularly delete or archive content that is obsolete and is not required by law or regulation. Create content inventories which identify categories of information (e.g., press releases or publications), not specific documents. Post inventories, priorities, and schedules for posting additional content on the website for comment.
 
 * [Code of Federal Regulations (CFR), Parts 1220-1238](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=194bdc93344a881d5119af1e8f66a2a9&rgn=div5&view=text&node=36:3.0.10.2.10&idno=36)
-* [NARA guidance for implementing Section 207(e) of the E-Gov Act](http://www.archives.gov/records-mgmt/bulletins/2006/2006-02.html)
+* [NARA guidance for implementing Section 207(e) of the E-Gov Act](https://www.archives.gov/records-mgmt/bulletins/2010/2010-02.html)
 * [NARA guidance on managing Web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
 * [NARA guidance on managing social media records](https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html)
 * [NARA Bulletin 2014-02 Guidance on managing social media records](http://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html) (October 2013)
