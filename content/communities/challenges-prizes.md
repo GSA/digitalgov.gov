@@ -36,7 +36,7 @@ community_list:
 
 ---
 
-{{< img-right src="challenge-gov-logo" >}}
+{{< img-right src="https://user-images.githubusercontent.com/90331251/141006443-ece299bf-c117-45ce-ade7-897e502cac0c.jpgo" >}}
 
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
@@ -62,3 +62,4 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 - Playlist of challenges and prizes webinars: https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC
 - Facebook: https://www.facebook.com/challengegov
 - Twitter: https://www.twitter.com/challengegov
+![challenge-gov-new-logo](https://user-images.githubusercontent.com/90331251/141006443-ece299bf-c117-45ce-ade7-897e502cac0c.jpg)
