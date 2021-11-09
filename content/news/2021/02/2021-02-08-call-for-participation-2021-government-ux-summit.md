@@ -9,7 +9,7 @@ summary: Join us as virtual presenters for the 2021 Government UX Summit in June
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - community-ux
+  - user-experience-community-of-practice
   - cx
 
 # See all authors at https://digital.gov/authors
