@@ -1,7 +1,7 @@
 ---
 date: 2021-11-10 14:45:00 -0500
 kicker: Veterans Day
-title: TTS Reflects on Why Do I Continue To Serve?
+title: TTS Reflects: Why Do I Continue To Serve?
 summary: For Veterans Day 2021, we asked members of TTS’s Veterans affinity
   group to write one or two paragraphs in response to the question, "Why do I
   continue to serve?"
@@ -12,13 +12,15 @@ topics:
 authors:
   - patrick-kigongo
   - jon-roberts
-slug: tts-reflects-on-why-do-i-continue-to-serve
+slug: tts-reflects-why-do-i-continue-to-serve
 primary_image: adrianna-valenti-plane-veterans-day-2021-1200
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 As diversity guild co-leads in the Technology Transformation Services (TTS), one of our responsibilities is to serve as a megaphone for our colleagues across TTS who are part of our affinity groups. Our affinity groups are spaces where employees of similar identities come together in community. Affinity groups hold regular meetings for members, but also often host community programming to connect with employees across TTS. TTS [affinity groups](https://handbook.tts.gsa.gov/getting-started/classes/#classes) foster inclusion at work by organizing grassroots diversity campaigns that celebrate the lived experiences of our colleagues and build on TTS’ commitment to increasing inclusivity throughout the year.
 
 To commemorate Veterans Day this year, we asked veterans currently working across TTS if they’d like to reflect on their previous and current service. Volunteers from our veterans affinity group organized a week-long Slack takeover and shared their responses to the question “Why do I continue to serve?” We’re pleased to share their responses below:
