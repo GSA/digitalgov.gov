@@ -2,9 +2,7 @@
 date: 2021-11-10 14:45:00 -0500
 kicker: Veterans Day
 title: TTS Reflects: Why Do I Continue To Serve?
-summary: For Veterans Day 2021, we asked members of TTS’s Veterans affinity
-  group to write one or two paragraphs in response to the question, "Why do I
-  continue to serve?"
+summary: For Veterans Day 2021, we asked members of TTS’s Veterans affinity group to write one or two paragraphs in response to the question, Why do I continue to serve?
 # See all topics at https://digital.gov/topics
 topics:
   - tts
