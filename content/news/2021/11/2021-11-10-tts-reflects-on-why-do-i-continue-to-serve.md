@@ -10,7 +10,7 @@ topics:
 authors:
   - patrick-kigongo
   - jon-roberts
-slug: tts-reflects-why-do-i-continue-to-serve
+slug: tts-reflects-on-why-do-i-continue-to-serve
 primary_image: adrianna-valenti-plane-veterans-day-2021-1200
 # Controls how this page appears across the site
 # 0 -- hidden
