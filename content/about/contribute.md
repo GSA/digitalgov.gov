@@ -12,9 +12,9 @@ aliases:
 
 ---
 
-While our primary mission is helping agencies implement new technologies or innovations to increase public experience, Digital.gov has several channels to reach both federal and non-federal stakeholders. We send out a newsletter to a broad range of people in government, host informational blog posts, resources, and videos on our site, as well as offer various learning opportunities.
+While our primary mission is helping agencies implement new technologies or innovations to increase public experience, Digital.gov has several channels to reach our stakeholders. We send out a newsletter, host informational blog posts, resources, and videos on our site, as well as offer various learning opportunities.
 
-We regularly accept content for this site from various federal agencies and are open to other suggestions. [Learn more about what our readers need »](#what-our-readers-need)
+We regularly accept content for this site from various federal agencies. [Learn more about what our readers need »](#what-our-readers-need)
 
 - **News, Updates, and Blog Posts** — Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices. We are looking for posts that show what your team is working on, what challenges you’re facing, or how you’re working to make digital better for the public.
 - **Case Studies** — We are looking for examples of what agencies are doing, case studies, or collections of validated federal-wide news that has an impact on digital in one spot.
