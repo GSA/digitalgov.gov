@@ -36,7 +36,7 @@ community_list:
 
 ---
 
-{{< img-right src="https://user-images.githubusercontent.com/90331251/141006443-ece299bf-c117-45ce-ade7-897e502cac0c.jpgo" >}}
+{{< img-right src="challenge-gov-2021-logo-600" >}}
 
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
