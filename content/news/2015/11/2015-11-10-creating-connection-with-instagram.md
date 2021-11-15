@@ -84,7 +84,7 @@ The Instagram help center is pretty robust, but here are some links to get you s
 
   * Visit GSA’s [Improving the Accessibility of Social Media Toolkit]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}})
   * Mashable: [The Beginner’s Guide to Instagram](http://mashable.com/2012/05/29/instagram-for-beginners/#0C1I2YQQ18qL)
-  * The [Instagram for Business](http://blog.business.instagram.com/) blog: By Instagram, for business professionals
+  * The [Instagram for Business](https://business.instagram.com/) site: By Instagram, for business professionals
   * [Instagram Brand Resources](https://www.instagram-brand.com/): How to feature Instagram in your marketing
   * Instagram’s how to [Host a Photo Campaign](https://help.instagram.com/464700830247492/)
   * For those of you who use Hootsuite: [How to Schedule and Publish Posts to Instagram via Hootsuite](https://hootsuite.com/resources/hoot-tip/how-to-add-instagram-to-your-hootsuite-dashboard)
