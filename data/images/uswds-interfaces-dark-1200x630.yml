@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/uswds-interfaces-dark-1200x630.png
+
+# Image shortcode: {{< img src="uswds-interfaces-dark-1200x630" >}}
+
+date     : 2021-11-15 22:38:37 -0400
+uid      : uswds-interfaces-dark-1200x630
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A variety of colorful U.S. Web Design System interfaces and icons on a black background." 
