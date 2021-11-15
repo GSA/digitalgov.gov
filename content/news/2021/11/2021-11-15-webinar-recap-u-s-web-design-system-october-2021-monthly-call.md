@@ -23,14 +23,14 @@ slug: webinar-recap-u-s-web-design-system-october-2021-monthly-call
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 *The [presentation deck and script](https://digital.gov/event/2021/10/21/uswds-monthly-call-october-2021/) from the U.S. Web Design System (USWDS) [October Monthly Call](https://digital.gov/event/2021/10/21/uswds-monthly-call-october-2021/) are now available. Remember to tune in for the U.S. Web Design System monthly calls every third Thursday of the month.*
 
 For the October 2021 call, we focused on how our community can better solve problems together, as we prepare for a new major USWDS release next year. We looked at tools and channels that we will be using to better connect as a design system community, as well as ways everyone can contribute.
 
-
-
-### **Design system projects are collaborative projects, but they can become fragmented without a core community and communication.**
+## Design system projects are collaborative projects, but they can become fragmented without a core community and communication
 
 We want to help teams spend less time on problems others have already solved. 
 
@@ -38,15 +38,11 @@ Collaborative work can be complicated, but also exciting, since the design syste
 
 This asset — seeing problems from a lot of angles — can’t be fully realized unless we’re able to share the solutions we’ve discovered. This requires good communication among all teams and common channels to find the information we need.
 
-
-
-### **We can’t do it alone.**
+## We can’t do it alone
 
 The design system provides a rare opportunity for increased connectedness between the many individuals, organizations, and teams working on pieces of this enormous problem — the problem of an effective digital government. We can do a lot as the Core team, but for many kinds of topics, especially those that relate to implementations and teams, the community members (not the Core team) are the experts.
 
-
-
-### **We’ll be rolling out USWDS 3.0 Beta in GitHub Discussions.**
+## We’ll be rolling out USWDS 3.0 Beta in GitHub Discussions
 
 We’re experimenting with a new channel: [GitHub Discussions](https://github.com/uswds/uswds/discussions). These Discussions are an open, public forum that doesn’t require a GitHub account to follow (though, you will need a GitHub account to contribute).
 
@@ -56,9 +52,7 @@ We’re experimenting with a new channel: [GitHub Discussions](https://github.co
 * [We have a USWDS 3.0 Beta discussion](https://github.com/uswds/uswds/discussions/4365). We’re interested in finding participants right now. 
 * See these [best practices](https://docs.github.com/en/discussions/guides/best-practices-for-community-conversations-on-github?utm_source=slack-uswds&utm_medium=social&utm_campaign=octmc) for community conversations on GitHub.
 
-
-
-### **We have a new monthly newsletter: Wave.**
+## We have a new monthly newsletter: Wave
 
 We recently launched a newsletter!
 
@@ -67,7 +61,7 @@ We recently launched a newsletter!
 * Sign up [here](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_107) or share this link with anyone who’d be interested!
 * We also added a newsletter to the social footer on our website.
 
-### **Q&A Overview**
+## Q&A Overview
 
 **Q: How do we know when to start a GitHub discussion versus an issue?**
 
@@ -89,9 +83,7 @@ A: There are some Drupal themes and modules available on [our Implementations pa
 
 A: Good idea. Our team is looking into this now! Stay tuned.
 
-
-
-### **USWDS Resources**
+## **USWDS Resources**
 
 * Join the USWDS [Slack channel](https://designsystem.digital.gov/about/community/). 
 * Join the [USWDS Community](https://designsystem.digital.gov/about/community/).
