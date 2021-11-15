@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/challenge-gov-2021-logo-600.png
+
+# Image shortcode: {{< img src="challenge-gov-2021-logo-600" >}}
+
+date     : 2021-11-15 17:45:27 -0400
+uid      : challenge-gov-2021-logo-600
+width    : 600
+height   : 600
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "The Challenge.gov logo for 2021 as a square. It has the URL in capital letters on a dark blue background. The word challenge and period are in bold white text, and the gov part of the domain appears in thin orange text. On the right third of the background is a field of small, light blue-ish gray circles." 
