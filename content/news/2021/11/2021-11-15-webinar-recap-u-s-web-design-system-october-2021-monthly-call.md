@@ -19,6 +19,7 @@ authors:
   - dan-williams
   - kathryn-mullan
 slug: webinar-recap-u-s-web-design-system-october-2021-monthly-call
+primary_image: uswds-interfaces-dark-1200x630
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
