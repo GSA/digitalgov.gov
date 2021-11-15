@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/challenge-gov-2021-logo-600.png
+
+# Image shortcode: {{< img src="challenge-gov-2021-logo-600" >}}
+
+date     : 2021-11-15 17:45:27 -0400
+uid      : challenge-gov-2021-logo-600
+width    : 600
+height   : 600
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
