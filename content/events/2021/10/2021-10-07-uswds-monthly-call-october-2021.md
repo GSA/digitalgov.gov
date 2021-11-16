@@ -30,6 +30,8 @@ event_platform: zoom
 
 [View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-october-2021-distro.pptx) (PowerPoint, 3.6 MB, 41 pages)
 
+[View the Webinar Recap](https://digital.gov/2021/11/15/webinar-recap-u-s-web-design-system-october-2021-monthly-call/)
+
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for October 2021" icon="fas fa-copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System Monthly Call for October 2021. And for October, the USWDS logo has spooky Halloween colors.
