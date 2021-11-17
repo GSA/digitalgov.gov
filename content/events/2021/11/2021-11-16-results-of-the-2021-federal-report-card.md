@@ -7,7 +7,7 @@ summary: David Lipscomb from the Center for PL will review the results of this
   year’s Federal Plain Language Report Card and answer questions.
 host: Plain Language Community of Practice
 event_organizer: Digital.gov
-registration_url: "https://www.eventbrite.com/preview?eid=211733910827/ "
+registration_url: "https://www.eventbrite.com/e/results-of-the-2021-federal-report-card-tickets-211733910827 "
 captions: "https://www.captionedtext.com/client/event.aspx?EventID=4955132&Cust\
   omerID=321 "
 date: 2021-12-08 14:00:00 -0500
