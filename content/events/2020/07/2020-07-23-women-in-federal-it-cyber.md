@@ -20,17 +20,13 @@ end_date: 2020-07-23 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - professional-development
+  - cio-council
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom
 
 # YouTube ID
 youtube_id: 
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 0
 
 # Make it better ♥
 
