@@ -20,6 +20,7 @@ end_date: 2020-07-16 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - professional-development
+  - cio-council
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -33,11 +34,6 @@ event_platform: adobe_connect
 
 # YouTube ID
 youtube_id: 
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 0
 
 # Make it better ♥
 
@@ -95,7 +91,7 @@ She has an Executive Certificate in Leadership Coaching from Georgetown Universi
 
 **Related Links:**
 
- - [CIOC Website](https://www.cio.gov/)
+ - [CIO Website](https://www.cio.gov/)
  
  ---
  
