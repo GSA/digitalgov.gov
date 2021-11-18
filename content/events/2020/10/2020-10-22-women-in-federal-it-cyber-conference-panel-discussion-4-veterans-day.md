@@ -12,6 +12,7 @@ end_date: 2020-11-10 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - professional-development
+  - cio-council
 # See all authors at https://digital.gov/authors
 authors:
   - renata-spinks
