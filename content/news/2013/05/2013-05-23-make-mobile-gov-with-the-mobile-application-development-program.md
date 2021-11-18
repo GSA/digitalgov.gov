@@ -7,17 +7,19 @@ authors:
   - jparcell
 topics:
   - code
+  - cio-council
   - mobile
   - our-work
   - accessibility
   - api
-  - mobile
   - mobile-app-development-program
   - mobile-gov
-  - mobile-gov
+
 ---
 
-[{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg)Anytime, Anywhere, Any Device.
+Anytime, Anywhere, Any Device.
+
+{{< legacy-img src="2015/02/600-x-418-Mobile-app-description1.jpg" alt="Mobile Application Development Program" caption="" >}}
 
 The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the [federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Today, GSA’s [Digital Services Innovation Center]({{< ref "contribute.md" >}} "Join DigitalGov") and the [Federal CIO Council](http://cio.gov/) launch the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
 
@@ -25,11 +27,11 @@ The program&#8211;developed with and by 25 agencies across government&#8211;will
 
   * **Plan** &#8211;Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers.
 
-  *  **Develop** &#8211;Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.
+  * **Develop** &#8211;Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.
 
-  *  **Test** &#8211;Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
+  * **Test** &#8211;Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
 
-  *  **Launch** &#8211;Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
+  * **Launch** &#8211;Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
 
 ## What’s In It?
 
