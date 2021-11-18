@@ -7,6 +7,7 @@ authors:
   - awichman
 topics:
   - our-work
+  - cio-council
   - DOT
   - epa
   - open-opportunities-program
@@ -16,11 +17,12 @@ topics:
   - us-environmental-protection-agency
   - united-states-department-of-transportation
   - USDA
+
 ---
 
-{{< legacy-img src="2015/10/600-x-450-Opportunities-Just-Ahead-on-Green-Billboard-Tashatuvango-iStock-Thinkstock-464846821.jpg" alt="The words, Opportunities Just Ahead, are on a green billboard with the sunrise behind it." caption="" >}} 
-
 Providing professional development for over 100,000 employees is no easy task. To build on the existing skills of their workforce, the U.S. Department of Agriculture (USDA) has piloted AgOpportunity, a program that matches USDA employees with projects that need their skills and interest.
+
+{{< legacy-img src="2015/10/600-x-450-Opportunities-Just-Ahead-on-Green-Billboard-Tashatuvango-iStock-Thinkstock-464846821.jpg" alt="The words, Opportunities Just Ahead, are on a green billboard with the sunrise behind it." caption="" >}}
 
 The idea for AgOpportunity came from the Partnership for Public Service’s [Excellence in Government (EIG) Fellowship program](http://ourpublicservice.org/issues/develop-leaders/excellence-in-government-fellows.php). As part of the year-long program, fellows were split into teams and charged with creating a results-orientated program that could effect real change in government.
 
@@ -34,7 +36,7 @@ Nadine Pembleton, EIG Fellow and Director of Building Management Services for TS
 
 “We had a very short period of time, and all of our attention was [initially] focused on the idea of coming up with a vehicle to match employees with projects, which would have taken all the time allocated,” Pembleton said. “One of my teammates had heard about Open Opportunities, and it was fortuitous in the timing.”
 
-## Aligning AgOpporunity with Strategic Priorities
+## Aligning AgOpportunity with Strategic Priorities
 
 The Fellows met with the 17 USDA agency heads and chief information officers to propose the idea. They gained buy-in to pilot the program with the 4,000 IT specialists within USDA. The program was tied to USDA’s brand with the name “AgOpportunity.”
 
