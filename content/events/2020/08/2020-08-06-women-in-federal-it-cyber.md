@@ -20,6 +20,7 @@ end_date: 2020-08-06 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - professional-development
+  - cio-council
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -30,11 +31,6 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: 
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 0
 
 # Make it better ♥
 
