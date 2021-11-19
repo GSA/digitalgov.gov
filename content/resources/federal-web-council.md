@@ -17,7 +17,6 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
-  - jeremyzilar
   - rflagg
 
 # Make it better ♥
@@ -36,15 +35,15 @@ The purpose of the Federal Web Council is to:
 
 ## Membership
 
-Participating agencies include the 24 [Chief Financial Officers (CFO) Act](https://cfo.gov/about/) agencies, and other select federal agencies that provide high-impact services to the public and federal agencies. Membership is invitation-only, and is comprised of senior level federal agency web or digital directors that are appointed by their agencies.
+Participating agencies include the 24 [Chief Financial Officers (CFO) Act](https://cfo.gov/about/) agencies, and other select federal agencies that provide high-impact services to the public and federal agencies. Membership is invitation-only, and is comprised of senior level federal agency Directors of Web/Digital who are appointed by their agencies.
 
-All federal employees working on web and digital services are encouraged to join and participate in the [Web Content Managers Forum](https://digital.gov/communities/web-content-managers/) or any of the other [Digital.gov communities of practice](https://digital.gov/communities/).
+All federal employees working on web and digital services are encouraged to join and participate in the [Web Managers Community](https://digital.gov/communities/web-content-managers/) or any of the other [Digital.gov communities of practice](https://digital.gov/communities/).
 
 ## Leadership
 
-The Web Council is led by two co-chairs; one from the U.S. General Services Administration (GSA) as the sponsoring agency, and the other from one of the member agencies.
+The Web Council is led by two co-chairs, one from the U.S. General Services Administration (GSA), and the other from the Department of Homeland Security (DHS). GSA sponsors the Council, and DHS coordinates governmentwide digital communications for large-scale emergency response efforts.
 
-- [**Rachel Flagg**](mailto:rachel.flagg@gsa.gov) — Content Strategist at GSA’s Office of Government-wide Policy (OGP)
+- [**Marina Fox**](mailto:marina.fox@gsa.gov) — Sr. Digital Government Advisor in the Digital Strategy Division at GSA’s Office of Government-wide Policy (OGP)
 - [**Matthew Harmon**](mailto:matthew.harmon@hq.dhs.gov) — Director of Web Communications at the U.S. Department of Homeland Security (DHS), Office of Public Affairs
 
 ---
@@ -60,22 +59,22 @@ The Web Council is led by two co-chairs; one from the U.S. General Services Admi
 
 ## Current Council Members
 
-You are encouraged to reach out to your agency’s Web Council member if you have any questions regarding the initiatives listed above, including 21st Century IDEA.
+Please reach out to your agency’s Web Council member (or the co-chairs, if your agency is not listed below) with questions.
 
 - Agency for International Development (USAID) — Gregg Your
 - Department of Agriculture (USDA) — Peter Rhee
 - Department of Commerce — Alicia Sowah
-- Department of Defense — (DoD) Amanda Villwock
-- Department of Education — (Ed) Sally Harris
-- Department of Energy — (DOE) Tom O'Neill
-- Department of Health and Human Services (HHS) — Stacey Palosky
+- Department of Defense (DoD) — Ed Zick
+- Department of Education (Ed) — Sally Harris
+- Department of Energy (DOE) — Tom O'Neill
+- Department of Health and Human Services (HHS) — Dan Kuhns
 - Department of Homeland Security (DHS) — Matt Harmon
 - Department of Housing and Urban Development (HUD) — Helen Savoye-Minor
-- Department of the Interior — (DOI) DeRon Johnson
+- Department of the Interior (DOI) — DeRon Johnson
 - Department of Justice (DOJ) — Ashley McGowan
 - Department of Labor — Ed McCarthy
 - Department of State — Monica Perry
-- Department of Transportation (DOT) — Beth Couturier
+- Department of Transportation (DOT) — Jee Kim
 - Department of the Treasury — Teri Greene
 - Department of Veterans Affairs (VA) — Joshua Tuscher
 - Environmental Protection Agency (EPA) — Lin Darlington
