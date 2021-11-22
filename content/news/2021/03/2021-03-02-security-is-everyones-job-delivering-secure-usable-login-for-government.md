@@ -105,9 +105,9 @@ _&#42; Note: Actual is the percent of successfully proofed users who actually st
 
 In fiscal year 2021, we are expanding upon our work and continuing to build the best security user experience for the public. By taking a human-centered approach to our metrics, product iterations, and service design, we will continue to build an even better login.gov for everyone.
 
-You can learn more about login.gov by visiting our website: <https://www.login.gov>. 
+You can learn more by visiting our [login.gov website](https://www.login.gov).
 
-Is your agency looking for a login solution for your online products and services? Visit [partners.login.gov](mailto:https://partners.login.gov). 
+Is your agency looking for a login solution for your online products and services? Visit [partners.login.gov](https://partners.login.gov).
 
 ## _About the Author_
 {{< author-bio "julia-elman" >}}
