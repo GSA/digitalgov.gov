@@ -107,7 +107,7 @@ In fiscal year 2021, we are expanding upon our work and continuing to build the 
 
 You can learn more about login.gov by visiting our website: <https://www.login.gov>. 
 
-Is your agency looking for a login solution for your online products and services? Contact us at [partners@login.gov](mailto:partners@login.gov). 
+Is your agency looking for a login solution for your online products and services? Visit [partners.login.gov](mailto:https://partners.login.gov). 
 
 ## _About the Author_
 {{< author-bio "julia-elman" >}}
