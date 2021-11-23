@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://www.cio.gov/cio-handbook/
-source: 10x
+source: 
 date: 2021-11-23 14:59:00 -0500
 title: CIO Handbook
 deck: "**CIO Handbook**&mdash;The CIO Council released the CIO Handbook to aide
@@ -18,4 +18,5 @@ slug: cio-handbook
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
