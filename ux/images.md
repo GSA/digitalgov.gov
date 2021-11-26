@@ -12,7 +12,7 @@ personas:
 ---
 
 ### Steps to take
-- Images that are purely decorative shouldn’t be announced by the screenreader, work with your front end designer to make sure they’re coded correctly.
+- Images that are purely decorative shouldn’t be announced by the screenreader, work with your front-end developer to make sure they’re coded correctly.
 - Images that have meaning should include alt text and possibly a longer description, work with the content designer on your team to create these.
 - Making sure any text in images of text is at least 14 points and has good contrast.
 
