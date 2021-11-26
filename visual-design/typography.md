@@ -22,7 +22,7 @@ personas:
     - Individual letterforms are distinct in shape and can’t they be confused with others. For example: I, l, and 1 are distinct. 0 and O are distinct.
     - The typeface supports all of the characters and font styles that are needed.
   - Some designers recommend sans-serif faces for UIs and serif faces for longform reading, but these are not hard-and-fast rules.
-  - For an easy place to get started, the [U.S. Web Design Standards](https://standards.usa.gov/components/typography/) includes a set of open source typeface recommendations that emphasize legibility.
+  - For an easy place to get started, the [U.S. Web Design Standards](https://designsystem.digital.gov/) (USWDS) [Typography page](https://designsystem.digital.gov/components/typography/) includes a set of [open source typeface recommendations](https://designsystem.digital.gov/components/typography/#included-typefaces) that emphasize legibility.
 - **Use headings to communicate hierarchy.** Ensure heading styles differ from paragraph text by some combination of size, weight, face, or color. This ensures they’re distinct from paragraph text but are related to each other with some consistency, which helps with scanning.
 - **Use your type size and line width to determine a line height that people can comfortably read.** The larger the type size and line width, the larger the line height should be. For running/body text, that’s usually around 1.4-1.65, headings at around 1-1.3, and captions or short lines at around 1.3. Lines that are leaded too tightly or loosely can diminish readability by making it harder for the eye to know where to return to when the line breaks.
 
