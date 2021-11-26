@@ -17,7 +17,9 @@ personas:
 - Minimize the number of responses overall and that are displayed on a single page, but provide context clues throughout for people who might easily lose their place.
 
 #### Resources
-[GDS’s guidance on form structure](https://www.gov.uk/service-manual/design/form-structure)
+- [USWDS - Form component](https://designsystem.digital.gov/components/form/)
+- [USWDS - Form templates](https://designsystem.digital.gov/templates/form-templates/)
+- [GDS’s guidance on form structure](https://www.gov.uk/service-manual/design/form-structure)
 
 #### WCAG 2.0 references
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all)
