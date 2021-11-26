@@ -18,7 +18,8 @@ personas:
 - **Provide highly visible and specific error states.** Use multiple cues like color, icons, bold font weight, heavy border or outline, and helpful text to make sure users don’t overlook this critical information.
 
 #### Resources
-- [GOV.UK elements: Form elements](http://govuk-elements.herokuapp.com/form-elements)
+- [USWDS - Form component](https://designsystem.digital.gov/components/form/)
+- [USWDS - Form templates](https://designsystem.digital.gov/templates/form-templates/)
 - [Nielsen Norman Group: Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)
 
 #### WCAG 2.0 references
