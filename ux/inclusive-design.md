@@ -20,7 +20,8 @@ sidebar: ux
 - When conducting user research, make sure the diversity of your participants reflects the diverse abilities, circumstances, and backgrounds of your actual users.
 
 #### Resources
-- [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/en-us/design/inclusive)
+- [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/design/inclusive/)
+- [Microsoft’s Inclusive Design Toolkit (PDF, 22 MB, 32 pages)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
 - [Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
 
 #### WCAG 2.0 references
