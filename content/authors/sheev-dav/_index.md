@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Design Strategist"
+bio: "Sheev Davé serves as the Customer Experience Specialist in GSA’s Office of Customer Experience. He leads GSA's CX Community of Practice, co-leads the agency’s design research work, and co-curates the CX Symposium series with Ana Monroe. His work focuses on design futures such as exploring the future of the federal workplace."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
