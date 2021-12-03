@@ -25,7 +25,7 @@ You should regularly review your agency's websites and other digital products an
 
 ## Overarching Policies
 
-These high-level policies cover basic requirements for all websites and digital services.
+These high-level policies cover basic requirements for all websites and digital services. Use this handy [Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs)](https://digital.gov/files/10-2021-checklist-for-federal-websites-and-digital-services.xlsx) to ensure you've addressed all critical requirements.
 
 * [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
@@ -33,7 +33,7 @@ These high-level policies cover basic requirements for all websites and digital 
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 * See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
-* See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
+* See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist)
 
 <p class="more"><a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -110,9 +110,9 @@ Federal executive branch agency websites must use only .gov or .mil domains unle
 Include all required FOIA content and links.
 
 * [Freedom of Information Act (FOIA)](https://www.justice.gov/oip/freedom-information-act-5-usc-552)
-* [Memo to Agency Heads with updated guidance on implementing the Freedom of Information Act (March 19, 2009)](http://www.justice.gov/sites/default/files/ag/legacy/2009/06/24/foia-memo-march2009.pdf) (PDF, 1 MB, 3 pages, March 2009) - In 2016 FOIA was amended to note that, in situations in which release is discretionary, disclosure is the default unless the agency can show that an interest protected by one or more of FOIA’s nine exemptions would be harmed by disclosure
-* [Agency FOIA Websites 2.0](https://www.justice.gov/oip/oip-guidance/OIP%20Guidance%3A%20%20Agency%20FOIA%20Websites%202.0) - Department of Justice
-* [FOIA Frequently Asked Questions](http://www.foia.gov/faq.html) – FOIA.gov
+* [Memo to Agency Heads with updated guidance on implementing the Freedom of Information Act (March 19, 2009)](http://www.justice.gov/sites/default/files/ag/legacy/2009/06/24/foia-memo-march2009.pdf) (PDF, 1 MB, 3 pages, March 2009) - If release is discretionary, disclosure is the default unless the agency can show that a protected interest would be harmed
+* [Agency FOIA Websites 2.0](https://www.justice.gov/oip/oip-guidance/OIP%20Guidance%3A%20%20Agency%20FOIA%20Websites%202.0)
+* [FOIA.gov Frequently Asked Questions](http://www.foia.gov/faq.html)
 * [Methods Agencies Use to Prepare Documents for Posting on Agency FOIA Websites](https://www.archives.gov/ogis/foia-compliance-program/targeted-assessments/posting-docs-assessment-2020-dec-16)
 * [Proactive Disclosure of Non-Exempt Agency Information: Making Information Available Without the Need to File a FOIA Request](https://www.justice.gov/oip/oip-guidance/proactive_disclosure_of_non-exempt_information)
 
@@ -122,21 +122,21 @@ Records that must be posted under FOIA:
 * Final opinions, including concurring and dissenting opinions, as well as orders made adjudicating cases;
 * Statements of policy and interpretations adopted by the agency but not published in the Federal Register;
 * Administrative manuals and staff instructions that affect the public; and
-* Records that have been released under FOIA, are likely to be requested or have been requested three or more times (the “Rule of Three.”).
+* Records that have been released under FOIA, are likely to be requested or have been requested three or more times (the “Rule of Three”).
 
 [Categories of records](https://www.archives.gov/files/final-report-and-recommendations-of-2016-2018-foia-advisory-committee.pdf) to prioritize for posting:
 
-* Records frequently requested under FOIA
-* Agency FOIA logs
-* Materials that are related to the operation and establishment of federal advisory committees
-* Unclassified agency reports and testimony submitted to Congress
-* An agency organizational chart and a directory listing contact information for all offices
-* Proposed agency records schedules
-* Statements of administration policy and enrolled bill memoranda submitted to the Office of Management and Budget
-* Records pertaining to lobbying such as Form SF-LLL, Disclosure of Lobbying Activities
-* Calendars of top officials (e.g., Secretary, Deputy Secretary, Assistant Secretary, and other agency heads) within one month, subject to privacy and security redactions
-* The agency’s top 10 contracts, task orders, and grants, as measured by dollar value, and all contracts, task orders, and grants that are valued at more than $100 million
-* Material that has been declassified, to the greatest extent possible
+* Records frequently requested under FOIA;
+* Agency FOIA logs;
+* Materials that are related to the operation and establishment of federal advisory committees;
+* Unclassified agency reports and testimony submitted to Congress;
+* An agency organizational chart and a directory listing contact information for all offices;
+* Proposed agency records schedules;
+* Statements of administration policy and enrolled bill memoranda submitted to the Office of Management and Budget;
+* Records pertaining to lobbying such as Form SF-LLL, Disclosure of Lobbying Activities;
+* Calendars of top officials (e.g., Secretary, Deputy Secretary, Assistant Secretary, and other agency heads) within one month, subject to privacy and security redactions;
+* The agency’s top 10 contracts, task orders, and grants, as measured by dollar value, and all contracts, task orders, and grants that are valued at more than $100 million; and
+* Material that has been declassified, to the greatest extent possible.
 
 ## Governance
 
@@ -156,7 +156,7 @@ Create content that's accurate, relevant, easy-to-use, and conveyed in plain lan
 
 ## Mandatory Content
 
-Include all required content and links. Implement the [U.S. Web Design System](https://designsystem.digital.gov/), particularly the [banner](https://designsystem.digital.gov/components/banner/) and [identifier](https://designsystem.digital.gov/components/identifier/) components, to enable more consistency around common content elements across federal websites.
+Include all required content and links. Implement the [U.S. Web Design System](https://designsystem.digital.gov/), particularly the [banner](https://designsystem.digital.gov/components/banner/) and [identifier](https://designsystem.digital.gov/components/identifier/) components, to enable more consistency across federal websites around common content elements.
 
 * [Required content and links]({{< ref "/resources/required-web-content-and-links.md" >}})
 * [U.S. Web Design System](https://designsystem.digital.gov/)
