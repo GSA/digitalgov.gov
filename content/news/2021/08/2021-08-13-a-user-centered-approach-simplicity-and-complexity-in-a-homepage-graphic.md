@@ -8,12 +8,15 @@ title: "A User-Centered Approach: Simplicity and Complexity in a Homepage Graphi
 deck: "**A User-Centered Approach: Simplicity and Complexity in a Homepage
   Graphic**&emdash;UX interns go through the redesign and testing process of a
   homepage graphic to communicate the scope the site."
-summary: "A User-Centered Approach: Simplicity and Complexity in a Homepage
-  Graphic&emdash;UX interns go through the redesign and testing process of a
-  homepage graphic to communicate the scope the site."
+summary: ""
+# See all topics at https://digital.gov/topics
+topics:
+  - user-experience
+  - design
 slug: a-user-centered-approach-simplicity-and-complexity-in-a-homepage-graphic
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
