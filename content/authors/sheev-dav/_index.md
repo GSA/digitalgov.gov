@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Sheev Davé serves as the Customer Experience Specialist in GSA’s Office of Customer Experience. He leads GSA's CX Community of Practice, co-leads the agency’s design research work, and co-curates the CX Symposium series with Ana Monroe. His work focuses on design futures such as exploring the future of the federal workplace."
+bio: "Sheev Davé serves as the Customer Experience (CX) Specialist in GSA’s Office of Customer Experience. He leads GSA's CX Community of Practice, co-leads the agency’s design research work, and co-curates the CX Symposium series with Ana Monroe. His work focuses on design futures such as exploring the future of the federal workplace."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
@@ -27,14 +27,14 @@ agency_full_name: "U.S. General Services Administration"
 agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: ""
+location: "San Diego, CA"
 
 # A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
 github: "sheevdave"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: ""
+profile_photo: "github"
 
 # [e.g., Digital_Gov]
 twitter: ""
