@@ -4,13 +4,7 @@ source_url: https://blog.usa.gov/three-ways-usagov-outreach-can-help-with-your-a
 source: usagov
 date: 2021-11-17 16:56:00 -0500
 title: Three Ways USAGov Outreach Can Help with Your Agency's Next Campaign
-deck: "**Three Ways USAGov Outreach Can Help with Your Agency's Next
-  Campaign**&mdash;Does your agency have an idea for a new marketing strategy?
-  USAGov’s Outreach team can support your agency in all stages of your campaign.
-  We can brainstorm with your team, discuss best practices, and try new
-  marketing approaches to grow together in serving people. Learn how to begin
-  partnering with us."
-summary: summ
+deck: "**Three Ways USAGov Outreach Can Help with Your Agency's Next Campaign**&mdash;Does your agency have an idea for a new marketing strategy? USAGov’s Outreach team can support your agency in all stages of your campaign. We can brainstorm with your team, discuss best practices, and try new marketing approaches to grow together in serving people. Learn how to begin partnering with us."
 # See all topics at https://digital.gov/topics
 topics:
   - usa-gov
@@ -27,4 +21,5 @@ slug: three-ways-usagov-outreach-can-help-with-your-agencys-next-campaign
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
