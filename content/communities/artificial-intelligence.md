@@ -27,26 +27,35 @@ community_list:
     type: government
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     terms: "Only federal employees are eligible to join."
-    members: 1053
+    members: 1118
   - platform: listserv
     type: public
     subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
     terms: "Anyone is eligible to join."
-    members: 301
+    members: 357
 
 ---
 
-When the president signed the [Executive Order 13859, Maintaining American Leadership in Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/), on February 11, 2019, it launched the American AI initiative to promote and protect AI technology and innovation in the United States.
-
 ## Who We are
 
-This community aims to unite federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.
+The Artificial Intelligence (AI) Community of Practice (CoP) unites federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.
 
 The AI CoP is being launched in coordination with the Federal Chief Information Officer (CIO).
 
 ## What We Do
 
-The AI CoP will bring together federal employees to:
+Our mission is to support the practical implementation of responsible AI in the federal government. The AI CoP brings federal employees together to:
 
 - facilitate the sharing of best practices, use cases, and lessons learned, and
 - advance and share tools, playbooks success stories with a community of interested professionals.
+
+**Events and Huddles**
+
+The AI CoP regularly organizes and runs events and series on high-priority AI topics for a federal-wide audience to promote key stakeholder AI efforts and case studies through presentations. Examples of these events include:
+
+- AI + Acquisition Event Series
+- AI + Privacy Event Series
+- Inclusive AI Event
+- Chatbots Event
+
+Additionally, the AI CoP hosts monthly huddles to connect AI leaders, practitioners, and researchers with one another through an open forum. Materials for all previous events and huddle can be found by visiting our [Artificial Intelligence Community of Practice MAX.gov page](https://community.max.gov/pages/viewpage.action?pageId=2172176006).
