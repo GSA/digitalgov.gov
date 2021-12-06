@@ -32,11 +32,9 @@ community_list:
     type: public
     subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
     terms: "Anyone is eligible to join."
-    members: 301
+    members: 357
 
 ---
-
-When the president signed the [Executive Order 13859, Maintaining American Leadership in Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/), on February 11, 2019, it launched the American AI initiative to promote and protect AI technology and innovation in the United States.
 
 ## Who We are
 
@@ -51,11 +49,12 @@ Our mission is to support the practical implementation of responsible AI in the 
 - facilitate the sharing of best practices, use cases, and lessons learned, and
 - advance and share tools, playbooks success stories with a community of interested professionals.
 
-### Events and Huddles
+**Events and Huddles**
+
 The AI CoP regularly organizes and runs events and series on high priority AI topics for a federal-wide audience to promote key stakeholder AI efforts and case studies through presentations. Examples of these events include:
 
-- AI + Acquisition Event Series 
-- AI + Privacy Event Series 
+- AI + Acquisition Event Series
+- AI + Privacy Event Series
 - Inclusive AI Event
 - Chatbots Event
 
