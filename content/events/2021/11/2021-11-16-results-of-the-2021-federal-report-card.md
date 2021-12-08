@@ -47,6 +47,8 @@ This year, the judges focused on the main Freedom of Information Act (FOIA) requ
 * **Katherine Spivey** — U.S. General Services Administration (GSA)
 * **Katina Stapleton** — U.S. Department of Education (ED)
 
+[View the slides](https://digital.gov/files/results-of-the-fplrc.pptx) (PowerPoint, 1.4 MB, 9 pages)
+
 ### Related Resources
 
 * [2021 Federal Plain Language Report Card](https://centerforplainlanguage.org/2021-federal-plain-language-report-card/) 
