@@ -8,7 +8,8 @@ title: "Blockchain"
 deck: ""
 summary: "We're interested in exploring distributed ledger technology and its implementation within government."
 # set date archived. page will not publish if after date
-expirydate: "2021-12-09"
+layout: archived
+archive_date: 2021-12-09
 
 # see all topics at https://digital.gov/topics
 topics:

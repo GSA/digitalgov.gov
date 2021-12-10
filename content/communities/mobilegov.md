@@ -7,8 +7,8 @@ date: 2013-11-21 2:30:00 -0500
 title: "Mobile"
 deck: "Working to implement solutions for making mobile technologies better in government"
 summary: "We work across agencies to implement government-wide solutions for making mobile technologies better."
-# set date archived. page will not publish if after date
-expirydate: "2021-12-09"
+layout: archived
+archive_date: 2021-12-09
 
 # see all topics at https://digital.gov/topics
 topics:
