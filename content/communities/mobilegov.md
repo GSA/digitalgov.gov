@@ -8,7 +8,7 @@ title: "Mobile"
 deck: "Working to implement solutions for making mobile technologies better in government"
 summary: "This community is no longer active."
 layout: archived
-archive_date: 2021-12-09
+archive_date: 2021-12-10
 
 # see all topics at https://digital.gov/topics
 topics:
