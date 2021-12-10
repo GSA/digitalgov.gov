@@ -6,7 +6,7 @@ slug: virtual-augmented-reality
 date: 2019-12-13 18:00:00 -0500
 title: "Virtual and Augmented Reality"
 deck: ""
-summary: "A collaborative hub for the research and refinement of VR and AR business cases and pilot programs across government."
+summary: "This community is no longer active."
 # set date archived. page will not publish if after date
 layout: archived
 archive_date: 2021-12-09

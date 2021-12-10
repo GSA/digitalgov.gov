@@ -6,7 +6,7 @@ slug: blockchain
 date: 2019-12-12 19:00:00 -0500
 title: "Blockchain"
 deck: ""
-summary: "We're interested in exploring distributed ledger technology and its implementation within government."
+summary: "This community is no longer active."
 # set date archived. page will not publish if after date
 layout: archived
 archive_date: 2021-12-09
