@@ -7,6 +7,8 @@ date: 2019-12-12 19:00:00 -0500
 title: "Blockchain"
 deck: ""
 summary: "We're interested in exploring distributed ledger technology and its implementation within government."
+# set date archived. page will not publish if after date
+expirydate: "2021-12-09"
 
 # see all topics at https://digital.gov/topics
 topics:
