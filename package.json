@@ -27,6 +27,7 @@
     "autoprefixer": "^10.4.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
+    "gulp-dart-scss": "^1.1.0",
     "gulp-jshint": "^2.1.0",
     "gulp-postcss": "^9.0.1",
     "gulp-replace": "^1.0.0",
@@ -40,7 +41,7 @@
     "pa11y-ci": "^2.3.0",
     "postcss-csso": "^5.0.1",
     "sass": "^1.44.0",
-    "uswds": "~2.10.0",
+    "uswds": "^2.12.2",
     "uswds-gulp": "github:uswds/uswds-gulp"
   },
   "devDependencies": {
