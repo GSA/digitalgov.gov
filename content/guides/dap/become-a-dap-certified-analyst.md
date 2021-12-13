@@ -17,8 +17,6 @@ The [Digital Analytics Program](https://digital.gov/services/dap/) (DAP) now off
 
 The exam is not intended to be easy, nor is it targeted at novice DAP or Google Analytics users. The DAP team hopes that the exam can be used by prospective analysts in annual goals or individual development plans to demonstrate to supervisors that they maintain high-level of understanding of the program and Google Analytics. 
 
-DAP Certified Analysts will also be added to the Certified-DAP-Analysts Listserv designed for intermediate and advanced discussion of web analytics topics—including, but not limited to implementation, advanced features, and custom configurations. Any new DAP Certified Analyst will also have the ability to opt-out of the Listserv, if desired. 
-
 ## The Exam
 
 To request the link to take the exam, email us at [dap@support.digitalgov.gov](http://dap@support.digitalgov.gov?subject=DAP%20Certification%20Exam%20Request) with the subject: “DAP Certification Exam Request.” 
