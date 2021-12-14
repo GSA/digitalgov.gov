@@ -17,7 +17,7 @@ const csso = require("postcss-csso");
 const pkg = require("../../node_modules/uswds/package.json");
 const postcss = require("gulp-postcss");
 const replace = require("gulp-replace");
-const sass = require("gulp-sass");
+const sass = require("gulp-dart-scss");
 const sourcemaps = require("gulp-sourcemaps");
 const svgSprite = require("gulp-svg-sprite");
 const rename = require("gulp-rename");
@@ -118,7 +118,7 @@ function buildSass() {
     src([`${PROJECT_SASS_SRC}/**/*.scss`])
       .pipe(sourcemaps.init({ largeFile: true }))
       .pipe(
-        sass.sync({
+        sass({
           includePaths: [
             PROJECT_SASS_SRC,
             `${USWDS}/scss`,

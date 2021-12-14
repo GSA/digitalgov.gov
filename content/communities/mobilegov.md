@@ -6,7 +6,9 @@ slug: mobile
 date: 2013-11-21 2:30:00 -0500
 title: "Mobile"
 deck: "Working to implement solutions for making mobile technologies better in government"
-summary: "We work across agencies to implement government-wide solutions for making mobile technologies better."
+summary: "This community is no longer active."
+layout: archived
+archive_date: 2021-12-10
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -20,7 +22,7 @@ authors:
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 0
 
 community_list:
   - platform: listserv

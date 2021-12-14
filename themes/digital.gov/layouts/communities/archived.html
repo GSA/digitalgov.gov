@@ -1,0 +1,42 @@
+{{ define "content" }}
+
+<main role="main" id="main-content" class="page">
+  <article>
+
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12" data-edit-this="{{- .Path -}}">
+
+            <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></p>
+            {{/* Page Title */}}
+            <h1>{{ .Title | markdownify }} Community <span class="text-red text-normal">(No longer active)</span></h1>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row tablet-lg:grid-gap-4">
+          <div class="grid-col-12 tablet-lg:grid-col-8">
+            <div class="content text-red">
+              This community was archived on {{ dateFormat "January 2, 2006" .Params.archive_date}} and is no longer active.
+            </div>
+              <div class="community_events">
+              {{- partial "core/get-upcomingevents" . -}}
+              {{- partial "core/get-pastevents" . -}}              
+            </div>
+            <div>
+              <br/>
+              {{- partial "core/page-data" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
+             </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+  </article>
+</main>
+
+{{ end }} {{/* end 'content' block */}}
