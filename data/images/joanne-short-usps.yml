@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/joanne-short-usps.png
+
+# Image shortcode: {{< img src="joanne-short-usps" >}}
+
+date     : 2021-12-14 16:29:58 -0400
+uid      : joanne-short-usps
+width    : 450
+height   : 490
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Joanne Short speaks into a handheld microphone." 
