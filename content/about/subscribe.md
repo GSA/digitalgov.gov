@@ -12,7 +12,7 @@ aliases:
   - /newsletter
 ---
 
-**The Digital.gov Newsletter** is a round-up of innovative work, news and ideas from people and teams across government. It also includes a list of the upcoming community events and training aimed at elevating your digital expertise. Our newsletter is sent out every other Tuesday morning _(with the exception of holiday weeks)_.
+**The Digital.gov Newsletter** is a round-up of innovative work, news and ideas from people and teams across government. It also includes a list of the upcoming community events and training aimed at elevating your digital expertise. Our newsletter is sent out every other Wednesday morning _(with the exception of holiday weeks)_.
 
 Our strategy is to provide you with just the right amount of information to help you and your team make something better. We’re not interested in flooding your inbox with emails you don’t need.
 
