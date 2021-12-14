@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/usps-logo-1200x630.png
+
+# Image shortcode: {{< img src="usps-logo-1200x630" >}}
+
+date     : 2021-12-14 16:29:04 -0400
+uid      : usps-logo-1200x630
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "U.S. Postal Service logo in white on a blue background." 
