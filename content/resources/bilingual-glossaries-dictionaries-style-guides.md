@@ -79,7 +79,7 @@ This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/eng
 
 #### U.S. Election Assistance Commission (EAC)
 
-The U.S. Election Assistance Commission offers translations of Glossary of Election Terminology in Amharic, Arabic, Apache, Bengali, Chinese, French, Haitian Creole, Hindi, Japanese, Khmer, Korean, Navajo, Polish, Portuguese, Russian, Somali, Spanish, Tagalog, and Vietnamese [with about 1,300 voting terms, phrases commonly used in the administration of U.S. elections.](https://www.eac.gov/election-officials/glossaries-of-election-terminology).
+The U.S. Election Assistance Commission offers translations of Glossary of Election Terminology in Amharic, Arabic, Apache, Bengali, Chinese, French, Haitian Creole, Hindi, Japanese, Khmer, Korean, Navajo, Polish, Portuguese, Russian, Somali, Spanish, Tagalog, Vietnamese, and Yup'ik [with about 1,300 voting terms, phrases commonly used in the administration of U.S. elections.](https://www.eac.gov/election-officials/glossaries-of-election-terminology).
 
 ### Financial Terminology
 
