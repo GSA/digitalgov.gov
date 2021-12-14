@@ -1,41 +1,39 @@
 ---
-# View this page at https://digital.gov/communities/devops
-# Learn how to edit our pages at https://workflow.digital.gov
-
-slug: devops
 date: 2019-12-12 19:00:00 -0500
-title: "DevOps"
-deck: "Operating rapidly changing resilient systems at scale"
-summary: "The practice of operations and development staff participating in the entire service lifecycle to operate rapidly changing resilient systems at scale."
-
-# see all topics at https://digital.gov/topics
+title: DevOps
+deck: Operating rapidly changing resilient systems at scale
+summary: The practice of operations and development staff participating in the
+  entire service lifecycle to operate rapidly changing resilient systems at
+  scale.
+# See all topics at https://digital.gov/topics
 topics:
   - devops
-
-# see all authors at https://digital.gov/authors
+# See all authors at https://digital.gov/authors
 authors:
   - brian-fox
   - peter-burkholder
-
-# Page weight: controls how this page appears across the site
+slug: devops
+# Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
+# Enter the path of the URL that you want redirected to this page
+aliases:
+  - https://github.com/18F/DevOps-Community-of-Practice/wiki/DevOps-Community-of-Practice
+# Enter the path of the URL that you want redirected to this page
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "devops-today-subscribe-request@listserv.gsa.gov"
-    subscribe_email_subject: "Subscribe to DevOps"
+    subscribe_email: devops-today-subscribe-request@listserv.gsa.gov
+    subscribe_email_subject: Subscribe to DevOps
     members: 297
-    emails_per_week:
+    emails_per_week: null
   - platform: listserv
     type: public
     subscribe_email: devops-public-subscribe-request@listserv.gsa.gov
-    subscribe_email_subject: "Subscribe Public DevOps"
+    subscribe_email_subject: Subscribe Public DevOps
     members: 67
-    emails_per_week:
-
+    emails_per_week: null
 ---
 
 The DevOps Community of Practice (CoP) provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.
