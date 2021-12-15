@@ -1,12 +1,12 @@
 ---
 date: 2021-12-15 09:51:00 -0500
 kicker: Professional Development
-title: "Plain Language Summit Recap: The Part-Timer"
+title: "Webinar Recap: The Part-Timer"
 deck: Learn how Joanne Short of the United States Postal Service (USPS) opened
   professional doors by going beyond her job description.
 summary: Learn how Joanne Short of the United States Postal Service (USPS)
   opened professional doors by going beyond her job description in her Plain
-  Language Summit session, “The Part-Timer.”
+  Language Summit session, The Part-Timer.
 # See all topics at https://digital.gov/topics
 topics:
   - communication
