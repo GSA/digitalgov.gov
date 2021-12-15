@@ -21,7 +21,9 @@ primary_image: usps-logo-1200x630
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 “Raising your hand can be a catalyst for everything that happens from that point on,” says Joanne Short. The USPS employee recently shared how she steered her career in a positive and upward direction by taking on increasing responsibilities outside her job description.
 
 {{< img-right src="joanne-short-usps" alt="Joanne Short speaks into a handheld microphone." >}}
@@ -44,4 +46,4 @@ After learning about an inspiring mail carrier named Oscar Osorio, Short told hi
 
 Short encourages everyone to take advantage of everyday opportunities to advance, learn, and grow, even those that seem too big or too much of a stretch. "Every day is your opportunity. Every interaction is your interview. When you’re asked to raise your hand, just do it."
 
-*Joanne Short is a federal employee with the United States Postal Service (USPS), where she helps the USPS executive leadership team to inform and engage employees, coach and mentor team members, and improve the employee experience.*
+_Joanne Short is a federal employee with the United States Postal Service (USPS), where she helps the USPS executive leadership team to inform and engage employees, coach and mentor team members, and improve the employee experience._
