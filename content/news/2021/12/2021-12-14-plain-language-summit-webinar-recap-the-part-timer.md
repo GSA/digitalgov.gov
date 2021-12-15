@@ -1,5 +1,5 @@
 ---
-date: 2021-12-15 13:43:00 -0500
+date: 2021-12-15 10:00:00 -0500
 kicker: Professional Development
 title: "Plain Language Summit Webinar Recap: The Part-Timer"
 deck: Learn how Joanne Short of the United States Postal Service opened
@@ -14,14 +14,16 @@ topics:
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:
-  - toni-bonitto
+  - jacquelyn-dolezal-morales
 slug: plain-language-summit-webinar-recap-the-part-timer
 primary_image: usps-logo-1200x630
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 “Raising your hand can be a catalyst for everything that happens from that point on,” says Joanne Short. The USPS employee recently shared how she steered her career in a positive and upward direction by taking on increasing responsibilities outside her job description.
 
 {{< img-right src="joanne-short-usps" alt="Joanne Short speaks into a handheld microphone." >}}
