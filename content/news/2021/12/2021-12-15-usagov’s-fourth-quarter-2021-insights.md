@@ -5,7 +5,7 @@ source: usagov
 date: 2021-12-15 12:52:00 -0500
 kicker: ""
 title: USAGov’s Fourth Quarter 2021 Insights
-deck: People were concerned about COVID-19-related housing and international
+deck: **USAGov’s Fourth Quarter 2021 Insights**&mdash;People were concerned about COVID-19-related housing and international
   travel as they searched USA.gov from July to September 2021. Get more user
   insights from our 4th quarter infographic.
 summary: People were concerned about COVID-19-related housing and international
