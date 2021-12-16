@@ -24,6 +24,8 @@ event_platform: zoom
 
 ---
 
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-december-2021-distro.pptx.zip) (PowerPoint, 1.3 MB, 27 pages)
+
 How can designers and developers work together to design in code? How can prototypes help answer critical design questions? How can USWDS help you build faster than you might have thought possible? 
 
 Join the USWDS team for our December call, as we look at rapid prototyping with USWDS.
