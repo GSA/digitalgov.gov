@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/innovation-adoption-snapshot-example.png
+
+# Image shortcode: {{< img src="innovation-adoption-snapshot-example" >}}
+
+date     : 2021-12-16 16:53:39 -0400
+uid      : innovation-adoption-snapshot-example
+width    : 1550
+height   : 340
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "On the left is the title and a user quote in black text on a white background. The title is, Crowdsourcing Issues. The quote says, Reducing the burden for minor issues on our team means we have more time to solve complex and critical problems! To the right of the quote, the value statement is given in white text on a blue background. It reads, By setting up accessible channels for issues, teams streamlined the ticketing process since folks across the organization can see issues posted and share the solutions they found— allowing for a more interactive, transparent, and personalized support experience for users." 
