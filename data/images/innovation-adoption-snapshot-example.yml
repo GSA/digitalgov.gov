@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/innovation-adoption-snapshot-example.png
+
+# Image shortcode: {{< img src="innovation-adoption-snapshot-example" >}}
+
+date     : 2021-12-16 16:53:39 -0400
+uid      : innovation-adoption-snapshot-example
+width    : 1550
+height   : 340
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
