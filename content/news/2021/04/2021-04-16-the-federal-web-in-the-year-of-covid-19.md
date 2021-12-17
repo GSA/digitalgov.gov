@@ -1,7 +1,7 @@
 ---
 date: 2021-04-16 13:55:00 -0500
 kicker: Search Metrics
-title: The Federal Web in the Year of Covid-19
+title: The Federal Web in the Year of COVID-19
 summary: The past year was like no other. We take a look at how it affected federal website traffic and search data.
 # See all topics at https://digital.gov/topics
 topics:
