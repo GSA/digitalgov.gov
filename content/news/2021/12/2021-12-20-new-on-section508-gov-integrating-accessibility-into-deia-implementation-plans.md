@@ -6,8 +6,7 @@ date: 2021-12-20 13:55:00 -0500
 kicker: Accessibility
 title: "New on Section508.gov: Integrating Accessibility into DEIA
   Implementation Plans"
-deck: >-
-  Accessibility, the “A” in DEIA, is a foundation on which the federal workforce
+deck: **New on Section508.gov: Integrating Accessibility into DEIA Implementation Plans**&mdash;Accessibility, the “A” in DEIA, is a foundation on which the federal workforce
   must build diversity, equity and inclusion for people with disabilities.
   Without accessibility, we cannot truly achieve the others.
 
