@@ -6,7 +6,7 @@ date: 2021-12-20 13:02:00 -0500
 kicker: Accessibility
 title: "New on Section508.gov: Integrating Accessibility into DEIA
   Implementation Plans"
-deck: **Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity and inclusion for people with disabilities. Without accessibility, we cannot truly achieve the others.**&mdash;The GSA Government-wide IT Accessibility Program has published "[Integrating
+deck: **Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity and inclusion for people with disabilities. Without accessibility, we cannot truly achieve the others.** The GSA Government-wide IT Accessibility Program has published "[Integrating
   Accessibility into Agency Diversity, Equity, Inclusion and Accessibility
   (DEIA) Implementation Plans](https://www.section508.gov/manage/deia-guidance/)," a guide designed to support the Accessibility
   roadmap outlined in the [Government-wide Strategic Plan to Advance Diversity,
