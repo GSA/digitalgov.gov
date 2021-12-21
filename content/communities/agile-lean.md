@@ -5,8 +5,11 @@
 slug: agile-lean
 date: 2017-09-04 15:45:00 -0500
 title: "Agile/Lean"
-deck: "Supporting people working with agile/lean methodologies and those who would like to learn more."
-summary: "Supporting people working with agile/lean methodologies and those who would like to learn more."
+
+# set date archived. page will not publish if after date
+summary: "This community is no longer active."
+layout: archived
+archive_date: 2021-12-21
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -26,7 +29,7 @@ authors:
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 0
 
 community_list:
   - platform: listserv
