@@ -16,7 +16,7 @@ bio_url: ""
 # e.g. U.S. General Services Administration
 agency_full_name: National Library of Medicine
 # Agency Acronym [e.g., GSA]
-agency: NML
+agency: NLM
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
 # [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
