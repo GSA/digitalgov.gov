@@ -30,7 +30,7 @@ primary_image: january-wao-ux-event-title-card
 ---
 The National Library of Medicine (NLM) collects customer experience information from a variety of its digital products, including the MedlinePlus consumer health product and its digital collections platform drawn from its status as one of the world’s leading biomedical libraries. NLM staff use this information to understand how customer experience varies according to role, task, and the nature of the visit.
 
-Join Dan Wendling and Adam Korengold of the National Institute of Health (NIH) National Library of Medicine (NLM) and learn how to overcome resistance to data analytics and visualization, ask the right questions, and improve customer experience.
+Join Dan Wendling and Adam Korengold of the National Institutes of Health (NIH) National Library of Medicine (NLM) and learn how to overcome resistance to data analytics and visualization, ask the right questions, and improve customer experience.
 
 ### Speakers and Panelists
 
