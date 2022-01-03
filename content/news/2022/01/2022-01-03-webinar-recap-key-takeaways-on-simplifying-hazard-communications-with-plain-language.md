@@ -20,7 +20,7 @@ topics:
   - cx
 # See all authors at https://digital.gov/authors
 authors:
-  - lnelson
+  - rebecca-nelson
 slug: webinar-recap-key-takeaways-on-simplifying-hazard-communications-with-plain-language
 primary_image: nws-hazard-simplification-project
 # Controls how this page appears across the site
