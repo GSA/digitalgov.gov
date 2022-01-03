@@ -27,20 +27,22 @@ primary_image: nws-hazard-simplification-project
 # 0 -- hidden
 # 1 -- visible
 weight: 1
----
-If a snowstorm or tornado is headed your way, should you wait for more information or immediately evacuate the area? The National Weather Service (NWS) alerts the public to weather- and water-based hazards. 
 
-To reduce the impact of storms, floods, and other hazards, NWS has been investigating how to communicate better with people about how they should behave during an environmental crisis. The NWS has used a “Watch, Warning, and Advisory” (WWA) system for decades to tell people how seriously they should take a hazard. 
+---
+
+If a snowstorm or tornado is headed your way, should you wait for more information or immediately evacuate the area? The National Weather Service (NWS) alerts the public to weather- and water-based hazards.
+
+To reduce the impact of storms, floods, and other hazards, NWS has been investigating how to communicate better with people about how they should behave during an environmental crisis. The NWS has used a “Watch, Warning, and Advisory” (WWA) system for decades to tell people how seriously they should take a hazard.
 
 However, NWS gathered feedback indicating that people find these terms confusing and cannot interpret them properly.
 
 Through its [Hazard Simplification Project](https://www.weather.gov/hazardsimplification/), NWS used focus groups and surveyed the general public and key NWS stakeholders to understand what people find confusing about the current system.
 
-This research showed that people do not understand the word “advisory.” People wonder whether an “advisory” is more or less serious than a “watch.” They also find it hard to distinguish among the large variety of terms used. For example, what is the difference between a Wind Chill Advisory, a Wind Advisory, and a Brisk Wind Advisory? 
+This research showed that people do not understand the word “advisory.” People wonder whether an “advisory” is more or less serious than a “watch.” They also find it hard to distinguish among the large variety of terms used. For example, what is the difference between a Wind Chill Advisory, a Wind Advisory, and a Brisk Wind Advisory?
 
 In surveys, both the audience for these alerts and the people who send them agreed that they would appreciate plain language alerts. The public preferred messages that did not require interpretation. Emergency managers preferred messages they could quickly copy and paste, without having to translate the weather description into official alert language.
 
-Based on this research, NWS is reducing the number of different hazard types it uses. This should make it easier for people to understand what the agency is describing. NWS is also simplifying its formats. The NWS plans to remove the term “advisory” from weather alerts by 2024, as part of a planned overhaul of its system. 
+Based on this research, NWS is reducing the number of different hazard types it uses. This should make it easier for people to understand what the agency is describing. NWS is also simplifying its formats. The NWS plans to remove the term “advisory” from weather alerts by 2024, as part of a planned overhaul of its system.
 
 NWS is exploring three standard formats to present hazards in plain language:
 
