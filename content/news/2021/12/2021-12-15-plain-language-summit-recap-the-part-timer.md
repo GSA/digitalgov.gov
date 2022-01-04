@@ -12,6 +12,7 @@ topics:
   - communication
   - professional-development
   - plain-language
+  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - jacquelyn-dolezal-morales
