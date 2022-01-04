@@ -3,7 +3,6 @@ date: 2022-01-04 16:35:00 -0500
 kicker: Plain Language
 title: "Webinar Recap: Key Takeaways on Simplifying Hazard Communications With Plain Language"
 summary: "An overview of the presentation by Danielle Nagele of NOAA at the 2021 Plain Language Summit. Learn how she and her team used feedback to decrease confusion and increase impact."
-deck: "Presentation by Danielle Nagele — National Oceanic and Atmospheric Administration (NOAA)"
 # See all topics at https://digital.gov/topics
 topics:
   - cx
