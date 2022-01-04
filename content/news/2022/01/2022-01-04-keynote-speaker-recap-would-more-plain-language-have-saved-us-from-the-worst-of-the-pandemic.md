@@ -16,7 +16,7 @@ authors:
   - mara-goldberg
   - gabby-fratanduono-king
 slug: keynote-speaker-recap-would-more-plain-language-have-saved-us-from-the-worst-of-the-pandemic
-primary_image: plain-language
+primary_image: covid-coronavirus-lawkeeper-istock-getty-images-plus-1214014551
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
