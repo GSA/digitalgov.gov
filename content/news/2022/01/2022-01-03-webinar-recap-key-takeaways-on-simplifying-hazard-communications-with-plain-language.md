@@ -34,7 +34,7 @@ However, NWS gathered feedback indicating that people find these terms confusing
 
 Through its [Hazard Simplification Project](https://www.weather.gov/hazardsimplification/), NWS used focus groups and surveyed the general public and key NWS stakeholders to understand what people find confusing about the current system.
 
-This research showed that people do not understand the word “advisory.” People wonder whether an “advisory” is more or less serious than a “watch.” They also find it hard to distinguish among the large variety of terms used. For example, what is the difference between a Wind Chill Advisory, a Wind Advisory, and a Brisk Wind Advisory?
+This research showed that the majority of people misunderstand the word “advisory.” They wonder whether an “advisory” is more or less serious than a “watch.” They also find it hard to distinguish among the large variety of terms used. For example, what is the difference between: a Wind Chill Advisory, a Wind Advisory, and a Brisk Wind Advisory?
 
 In surveys, both the audience for these alerts and the people who send them agreed that they would appreciate [plain language](https://digital.gov/topics/plain-language/) alerts. The public preferred messages that did not require interpretation. Emergency managers preferred messages they could quickly copy and paste, without having to translate the weather description into official alert language.
 
@@ -45,6 +45,10 @@ NWS is exploring three standard formats to present hazards in plain language:
 1. **Lead with the hazard**, followed by a description (Snow: Light accumulations today” or “Snow: Slippery roads today”)
 2. **Lead with “caution,”** followed by a hazard ("Caution: Light snow accumulations today" or "Caution: Snow with slippery roads today")
 3. **Describe the hazard** ("Light snow accumulations today" or "Snow with slippery roads today")
+
+[View the slides (PowerPoint, 5.4 MB, 60 slides)](https://digital.gov/files/plain-language-summit-nws-noaa-final.pptx) from September's [2021 Federal Plain Language Summit](https://digital.gov/event/2021/09/21/2021-federal-plain-language-summit/) presentation by Danielle Nagele of the National Oceanic and Atmospheric Administration (NOAA).
+
+***
 
 *The National Weather Service’s Hazard Simplification Project is a case study in investigating how audiences understand messages and applying [plain language principles](https://www.plainlanguage.gov/guidelines/) to lower property damage, reduce injuries, and save lives. [Visit their website](https://www.weather.gov/hazardsimplification/) to learn more.* 
 
