@@ -13,6 +13,7 @@ topics:
   - plain-language
   - user-research
   - user-experience
+  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - rebecca-nelson
