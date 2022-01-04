@@ -1,8 +1,7 @@
 ---
 date: 2022-01-04 13:02:00 -0500
 kicker: Plain Language
-title: "Keynote Speaker Recap: Would More Plain Language Have Saved Us From the
-  Worst of the Pandemic?"
+title: "Keynote Speaker Recap: Would More Plain Language Have Saved Us From the Worst of the Pandemic?"
 summary: A summary of Cynthia Baur’s keynote at the 2021 Plain Language Summit.
 # See all topics at https://digital.gov/topics
 topics:
@@ -22,7 +21,9 @@ primary_image: plain-language
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 *Speaker: Cynthia Baur, Ph.D. — Endowed Chair and Director, Horowitz Center for Health Literacy, University of Maryland*
 
 Health literacy includes more than reading and speaking about health. It also includes how people find information and use that information. Cynthia Baur explains the COVID-19 response through a plain language lens.
@@ -70,7 +71,7 @@ Additional information and resources include:
 * [Plainlanguage.gov](https://www.plainlanguage.gov/)
 * [Plain Language Community of Practice](https://digital.gov/communities/plain-language/)
 * [2021 Federal Plain Language Summit](https://digital.gov/event/2021/09/21/2021-federal-plain-language-summit/)
-* [Plain Language Writing Act](https://www.govinfo.gov/content/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf)
+* [Plain Language Writing Act (PDF, 125 kb, 3 pages)](https://www.govinfo.gov/content/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf)
 * [CDC COVID-19 Home Page](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 * [The CDC Clear Communication Index](https://www.cdc.gov/ccindex/index.html)
-* [Clear Communication Index User Guide](https://www.cdc.gov/ccindex/pdf/ClearCommUserGuide.pdf)
+* [Clear Communication Index User Guide (PDF, 1.1 MB, 36 pages)](https://www.cdc.gov/ccindex/pdf/ClearCommUserGuide.pdf)
