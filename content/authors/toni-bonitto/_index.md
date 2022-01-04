@@ -46,7 +46,7 @@ profile_source: "github"
 # Professional Social Media [e.g., Digital_Gov]
 twitter: "Digital_Gov"
 facebook: "DigitalGov"
-linkedin: "bonitto"
+linkedin: ""
 YouTube: "digitalgov"
 
 # For more information on managing your author page,
