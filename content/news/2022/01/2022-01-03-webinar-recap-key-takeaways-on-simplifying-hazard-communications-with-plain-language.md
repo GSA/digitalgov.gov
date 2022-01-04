@@ -1,13 +1,9 @@
 ---
 date: 2022-01-04 16:35:00 -0500
 kicker: Plain Language
-title: "Webinar Recap: Key Takeaways on Simplifying Hazard Communications With
-  Plain Language"
-deck: Presentation by Danielle Nagele — National Oceanic and Atmospheric
-  Administration (NOAA)
-summary: An overview of the presentation by Danielle Nagele of NOAA at the 2021
-  Plain Language Summit. Learn how she and her team used feedback to decrease
-  confusion and increase impact.
+title: "Webinar Recap: Key Takeaways on Simplifying Hazard Communications With Plain Language"
+summary: "An overview of the presentation by Danielle Nagele of NOAA at the 2021 Plain Language Summit. Learn how she and her team used feedback to decrease confusion and increase impact."
+deck: "Presentation by Danielle Nagele — National Oceanic and Atmospheric Administration (NOAA)"
 # See all topics at https://digital.gov/topics
 topics:
   - cx
@@ -27,7 +23,9 @@ primary_image: nws-hazard-simplification-project
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 If a snowstorm or tornado is headed your way, should you wait for more information or immediately evacuate the area? The National Weather Service (NWS) alerts the public to weather- and water-based hazards.
 
 To reduce the impact of storms, floods, and other hazards, NWS has been investigating how to communicate better with people about how they should behave during an environmental crisis. The NWS has used a “Watch, Warning, and Advisory” (WWA) system for decades to tell people how seriously they should take a hazard.
