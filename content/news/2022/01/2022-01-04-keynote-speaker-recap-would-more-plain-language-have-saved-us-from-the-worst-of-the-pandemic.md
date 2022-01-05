@@ -75,3 +75,7 @@ Additional information and resources include:
 * [CDC COVID-19 Home Page](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 * [The CDC Clear Communication Index](https://www.cdc.gov/ccindex/index.html)
 * [Clear Communication Index User Guide (PDF, 1.1 MB, 36 pages)](https://www.cdc.gov/ccindex/pdf/ClearCommUserGuide.pdf)
+
+***
+
+_Connect with other federal employees working with plain language to improve content, customer experience, and user experience by joining our [Communities of Practice](https://digital.gov/communities/)._
