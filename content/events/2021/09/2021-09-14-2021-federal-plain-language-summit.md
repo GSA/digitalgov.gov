@@ -61,6 +61,8 @@ In this session you will hear from the following speaker:
 
 [View the slides](https://digital.gov/files/plain-language-summit-keynote.pptx)
 
+[Read the Keynote Speaker Recap](https://digital.gov/2022/01/04/keynote-speaker-recap-would-more-plain-language-have-saved-us-from-the-worst-of-the-pandemic/)
+
 - - -
 
 ### BREAK
@@ -117,6 +119,8 @@ In this session you will hear from the following speakers:
 
 [View the slides](https://digital.gov/files/plain-language-summit-nws-noaa-final.pptx)
 
+[Read the Webinar Recap](https://digital.gov/2022/01/04/webinar-recap-key-takeaways-on-simplifying-hazard-communications-with-plain-language/)
+
 - - -
 
 ### BREAK
@@ -145,6 +149,8 @@ In this session you will hear from the following speaker:
 * **Joanne Short** — United States Postal Service (USPS)
 
 [View the slides](https://digital.gov/files/pl-summit-volunteerism-joanne.pptx)
+
+[Read the Webinar Recap](https://digital.gov/2021/12/15/plain-language-summit-recap-the-part-timer/)
 
 - - -
 
