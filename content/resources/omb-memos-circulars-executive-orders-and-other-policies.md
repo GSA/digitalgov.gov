@@ -55,11 +55,13 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 ## Executive Orders
 
-[Executive Order—13571: Streamlining Service Delivery and Improving Customer Service](https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom)
+[Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/), December 13, 2021
 
-[Executive Order—Making Open and Machine Readable the New Default for Government Information](https://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+[Presidential Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/), May 11, 2017
 
-[Presidential Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal)
+[Executive Order—Making Open and Machine Readable the New Default for Government Information](https://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-), May 9, 2013
+
+[Executive Order—13571: Streamlining Service Delivery and Improving Customer Service](https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom), April 27, 2011
 
 ## Miscellaneous
 
