@@ -9,7 +9,7 @@ deck: "Guidance on how to measure customer experience, including questions on sa
 summary: "Guidance on how to measure customer experience, including questions on satisfaction and confidence and trust in section 280.7"
 
 # originally published at the following URL
-source_url: "https://www.performance.gov/cx/a11-280.pdf" https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf
+source_url: "https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
