@@ -19,7 +19,7 @@ authors:
   - maroya-faied
   - lindsay-goldstein
 slug: open-source-information-architecture-design-using-the-tools-you-have-to-conduct-card-sorting-and-tree-testing
-primary_image: 10x-funded-cover
+primary_image: onrr-organized-cards-2021-ux-summit
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
