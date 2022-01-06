@@ -59,11 +59,11 @@ We created a new GitHub project for each participant. They started out with a li
 
 We figured out in the process of interacting with participants that we could allow them to add subcategories and new cards, and put cards in multiple places using the Add Note function to create cards on the fly.
 
-{{< img src="onrr-foia-note-2021-ux-summit" >}}
+{{< img-right src="onrr-foia-note-2021-ux-summit" >}}
 
 The image below shows how participants used the note function to add new cards. “References” is a card the participant thought was missing and “54” is to indicate that the card numbered 54 should go in this category in addition to the other category it was placed in.
 
-{{< img src="onrr-added-notes-cards-2021-ux-summit" >}}
+{{< img-right src="onrr-added-notes-cards-2021-ux-summit" >}}
 
 As participants sorted, we had them think out loud and explain how they were organizing the content and ask questions if they didn’t understand what a card was. We also had them tell us if cards were missing for things they use the site for and would like to add to a category. We also instructed them to leave any cards that they don’t understand in the Uncategorized category.
 
