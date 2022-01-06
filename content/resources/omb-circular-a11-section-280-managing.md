@@ -5,11 +5,11 @@
 slug: omb-circular-a11-section-280-managing
 date: 2020-01-08 1:00:00 -0500
 title: "OMB Circular A-11 Section 280: Managing Customer Experience and Improving Service Delivery"
-deck: "Guidance on how to measure customer experience, including questions on satisfaction and confidence/trust in section 280.7"
-summary: "Guidance on how to measure customer experience, including questions on satisfaction and confidence/trust in section 280.7"
+deck: "Guidance on how to measure customer experience, including questions on satisfaction and confidence and trust in section 280.7"
+summary: "Guidance on how to measure customer experience, including questions on satisfaction and confidence and trust in section 280.7"
 
 # originally published at the following URL
-source_url: "https://www.performance.gov/cx/a11-280.pdf"
+source_url: "https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
