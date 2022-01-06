@@ -1,5 +1,5 @@
 ---
-date: 2022-01-06 15:07:00 -0500
+date: 2022-01-06 11:30:00 -0500
 kicker: User Experience
 title: "Open-source Information Architecture Design: Using the Tools You Have To
   Conduct Card Sorting and Tree Testing"
