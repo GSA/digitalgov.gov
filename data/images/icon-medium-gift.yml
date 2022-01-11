@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-gift.png
+
+# Image shortcode: {{< img src="icon-medium-gift" >}}
+
+date     : 2022-01-11 18:49:08 -0400
+uid      : icon-medium-gift
+width    : 194
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of a gift box with a bow icon in medium blue." 
