@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-users.png
+
+# Image shortcode: {{< img src="icon-medium-users" >}}
+
+date     : 2022-01-11 18:41:37 -0400
+uid      : icon-medium-users
+width    : 224
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of an icon in medium blue has two figures overlapping each other." 
