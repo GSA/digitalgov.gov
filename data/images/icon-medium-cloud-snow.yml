@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-cloud-snow.png
+
+# Image shortcode: {{< img src="icon-medium-cloud-snow" >}}
+
+date     : 2022-01-11 18:44:03 -0400
+uid      : icon-medium-cloud-snow
+width    : 206
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of a cloud icon in medium blue. It has six dots coming down from the cloud to indicate snowflakes." 
