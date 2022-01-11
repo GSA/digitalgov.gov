@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-moon.png
+
+# Image shortcode: {{< img src="icon-medium-moon" >}}
+
+date     : 2022-01-11 18:40:29 -0400
+uid      : icon-medium-moon
+width    : 194
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of a waning crescent moon icon in medium blue." 
