@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-wind.png
+
+# Image shortcode: {{< img src="icon-medium-wind" >}}
+
+date     : 2022-01-11 18:42:31 -0400
+uid      : icon-medium-wind
+width    : 234
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of a wind icon in medium blue has three lines of varying length that go from left to right, ending with curls. The first two lines curl up, the third curls down." 
