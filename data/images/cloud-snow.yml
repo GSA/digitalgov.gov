@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/cloud-snow.png
+
+# Image shortcode: {{< img src="cloud-snow" >}}
+
+date     : 2022-01-11 18:09:04 -0400
+uid      : cloud-snow
+width    : 206
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
