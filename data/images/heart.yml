@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/heart.png
+
+# Image shortcode: {{< img src="heart" >}}
+
+date     : 2022-01-11 18:12:46 -0400
+uid      : heart
+width    : 219
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
