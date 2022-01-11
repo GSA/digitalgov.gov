@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/cloud-rain.png
+
+# Image shortcode: {{< img src="cloud-rain" >}}
+
+date     : 2022-01-11 18:11:23 -0400
+uid      : cloud-rain
+width    : 180
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
