@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-sun.png
+
+# Image shortcode: {{< img src="icon-medium-sun" >}}
+
+date     : 2022-01-11 18:40:02 -0400
+uid      : icon-medium-sun
+width    : 195
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of a sun icon in medium blue." 
