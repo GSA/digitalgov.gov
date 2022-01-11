@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/moon.png
+
+# Image shortcode: {{< img src="moon" >}}
+
+date     : 2022-01-11 18:13:56 -0400
+uid      : moon
+width    : 194
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
