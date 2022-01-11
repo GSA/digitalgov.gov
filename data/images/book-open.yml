@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/book-open.png
+
+# Image shortcode: {{< img src="book-open" >}}
+
+date     : 2022-01-11 18:08:10 -0400
+uid      : book-open
+width    : 213
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
