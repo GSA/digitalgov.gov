@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-book.png
+
+# Image shortcode: {{< img src="icon-medium-book" >}}
+
+date     : 2022-01-11 18:44:26 -0400
+uid      : icon-medium-book
+width    : 155
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of a closed book icon in medium blue." 
