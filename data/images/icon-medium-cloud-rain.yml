@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-cloud-rain.png
+
+# Image shortcode: {{< img src="icon-medium-cloud-rain" >}}
+
+date     : 2022-01-11 18:43:54 -0400
+uid      : icon-medium-cloud-rain
+width    : 180
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of a cloud icon in medium blue. It has three lines coming down from the cloud to indicate rain." 
