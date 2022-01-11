@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/sun.png
+
+# Image shortcode: {{< img src="sun" >}}
+
+date     : 2022-01-11 18:15:01 -0400
+uid      : sun
+width    : 195
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
