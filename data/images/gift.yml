@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/gift.png
+
+# Image shortcode: {{< img src="gift" >}}
+
+date     : 2022-01-11 18:12:48 -0400
+uid      : gift
+width    : 194
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
