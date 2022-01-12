@@ -15,7 +15,7 @@ pronoun: ""
 email: gabrielle.perret@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Gabby is the Senior Media Advisor, in the Office of Strategic Communication (OSC) at GSA."
+bio: "Gabrielle Perret is the Director of the Federal Robotic Process Automation (RPA) Community of Practice (CoP), a community consisting of 1200+ members from over 65 federal agencies working to accelerate the adoption of RPA in the federal government. Ms. Perret leads the CoP in pursuing its mission to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. Ms. Perret achieves this mission by connecting and engaging with community members across multiple communication channels including knowledge-sharing events and webinars, white paper reports and publications, and one-on-one mentoring sessions."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
