@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/icon-medium-blank-calendar.png
+
+# Image shortcode: {{< img src="icon-medium-blank-calendar" >}}
+
+date     : 2022-01-12 03:59:01 -0400
+uid      : icon-medium-blank-calendar
+width    : 182
+height   : 200
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A line drawing of a blank calendar icon in medium blue." 
