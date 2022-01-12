@@ -11,7 +11,7 @@ authors:
   - toni-bonitto
   - ammie-farraj-feijoo
 slug: celebrating-digital-gov-communities-2021-in-review
-primary_image: 10x-funded-cover
+primary_image: mastersergeant-istock-gettyimagesplus-1345799632-1200
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -25,23 +25,21 @@ Despite the real challenges we as a nation faced in 2021, [Digital.gov’s commu
 
 We would like to thank our community leads and members for partnering with us throughout the year to provide engaging events, content, and discussion forums to those interested in digital transformation.
 
-
 {{< box >}}
-Find your niche. [Browse our communities and become a member](https://digital.gov/communities/)
+**Find your niche.** [Browse our communities and become a member](https://digital.gov/communities/)
 
-Stay informed. [Subscribe to our biweekly newsletter](https://digital.gov/about/subscribe/)
+**Stay informed.** [Subscribe to our semimonthly newsletter](https://digital.gov/about/subscribe/)
 {{< /box >}}
 
 Digital.gov’s mission is to transform how the federal government learns, builds, delivers, and measures digital services to the public. We have been organizing communities for more than 20 years, starting with the first in-person meeting of the Web Managers community on October 31, 2000. Fast forward to 2021, and all Digital.gov community events were held virtually for the first year ever.
 
-We hosted 65 events with a total of 16,157 attendees. We held events and published articles in celebration of National Hispanic Heritage Month, Global Accessibility Awareness Day, and International Plain Language Day. Digital.gov events averaged 249 attendees per event with satisfaction scores averaging 4.5 out of 5. We also held dozens of other community meetings, like huddles — where we engaged with smaller groups on topics like organizational change and communication techniques.
+We hosted **65 events** with a total of **16,157 attendees**. We held events and published articles in celebration of National Hispanic Heritage Month, Global Accessibility Awareness Day, and International Plain Language Day. Digital.gov events averaged **249 attendees** per event with satisfaction scores averaging 4.5 out of 5. We also held dozens of other community meetings, like huddles — where we engaged with smaller groups on topics like organizational change and communication techniques.
 
 The pandemic showed us how important communities are for people to be able to connect with like-minded peers in a virtual environment when the office space and in-person gatherings as we know it were stripped away. So, we quickly learned how to best collaborate through a computer monitor, bringing together experts, newbies, and those in between, to learn more about digital transformation. We blogged, tweeted, and posted our ideas, best practices, and success stories. We used our networks to crowdsource solutions to digital challenges.
 
 We helped each other, and we made it through another year together. Here are some of the highlights from 2021.
 
-<blockquote>
-<img src="https://s3.amazonaws.com/digitalgov/icon-medium-cloud-snow.png" alt="A line drawing of a cloud icon in medium blue. It has six dots coming down from the cloud to indicate snowflakes." width="50" style="vertical-align:top; margin:0px 5px 0px 0px; border:0px solid black; float: left;"> <strong>January</strong><br /><br />
+<blockquote><img src="https://s3.amazonaws.com/digitalgov/icon-medium-cloud-snow.png" alt="A line drawing of a cloud icon in medium blue. It has six dots coming down from the cloud to indicate snowflakes." width="50" style="vertical-align:top; margin:0px 5px 0px 0px; border:0px solid black; float: left;"> <strong>January</strong><br /><br />
 The Plain Language Community kicked off the year with an event detailing the results of the <a href="https://digital.gov/event/2021/01/13/2020-federal-report-card-briefing/">2020 Federal Plain Language Report Card</a>. The U.S. Web Design System (USWDS) Community hosted their monthly meeting on <a href="https://digital.gov/event/2021/01/21/uswds-monthly-call-journey-mapping-service-blueprints-jan-2021/">journey mapping and service blueprints</a>. Did you know, the design system is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices?<br /><br />
 
 <img src="https://s3.amazonaws.com/digitalgov/icon-medium-heart.png" alt="A line drawing of a heart icon in medium blue." width="50" style="vertical-align:top; margin:0px 5px 0px 0px; border:0px solid black; float: left;"> <strong>February</strong><br /><br />
@@ -92,9 +90,8 @@ The Federal Leadership and Professional Development Community hosted an engaging
 
 <img src="https://s3.amazonaws.com/digitalgov/icon-medium-gift.png" alt="A line drawing of a gift box with a bow icon in medium blue." width="50" style="vertical-align:top; margin:0px 5px 0px 0px; border:0px solid black; float: left;"> <strong>December</strong><br /><br />
 
-December brought a lively discussion on the <a href="https://digital.gov/event/2021/12/08/results-of-the-2021-federal-report-card/">2021 Federal Plain Language Report Card</a>, and a live demo on <a href="https://digital.gov/event/2021/12/16/uswds-monthly-call-december-2021/">USWDS template creation and rapid prototyping</a>.<br /><br />
-</blockquote>
+December brought a lively discussion on the <a href="https://digital.gov/event/2021/12/08/results-of-the-2021-federal-report-card/">2021 Federal Plain Language Report Card</a>, and a live demo on <a href="https://digital.gov/event/2021/12/16/uswds-monthly-call-december-2021/">USWDS template creation and rapid prototyping</a>.</blockquote>
 
-Also, stay informed by subscribing to the biweekly [Digital.gov newsletter](https://digital.gov/about/subscribe/) and following us on [Twitter](https://twitter.com/digital_gov), [Facebook](https://www.facebook.com/digitalgov), and [YouTube](https://www.youtube.com/user/howtogov).
+Also, stay informed by subscribing to the [Digital.gov newsletter](https://digital.gov/about/subscribe/) and following us on [Twitter](https://twitter.com/digital_gov), [Facebook](https://www.facebook.com/digitalgov), and [YouTube](https://www.youtube.com/digitalgov).
 
 We look forward to connecting with you!
