@@ -24,6 +24,8 @@ A translation glossary is an alphabetical list of terms and their approved trans
 
 By creating and using a glossary, agencies can eliminate uncertainty in the translation process and establish consistency in their translated materials. Many agencies across the federal government, including the Internal Revenue Service (IRS), Environmental Protection Agency (EPA), and Social Security Administration (SSA), have seen the value of having [their own glossaries](https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides/#government-bilingual-glossaries) to use as their reference tool during the translation process.
 
+{{< img src="laptop-translation-jirsak-istock-gettyimagesplus-1226941220" >}}
+
 Choosing the right term is a deliberate decision. If a word has multiple meanings, translation can be extremely complex, time-consuming, and frustrating. This might result in rework, which delays the delivery of information and materials to your target audience. A glossary becomes even more important when translating many languages or when using different translation sources.
 
 Having a glossary sets your translations up for success, making sure that everyone is using the same term for the same concept. It ensures that a specific term will be used correctly and consistently each time—which lightens the workload for future translations.
