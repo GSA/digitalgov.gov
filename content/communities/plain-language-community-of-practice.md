@@ -15,6 +15,7 @@ aliases:
 authors:
   - katherine-spivey
   - katina-stapleton
+  - jamie-stark
 
 # see all topics at https://digital.gov/topics
 topics:
