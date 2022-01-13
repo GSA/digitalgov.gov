@@ -2,9 +2,7 @@
 date: 2022-01-13 17:16:00 -0500
 kicker: Policy
 title: Go-Live Checklist for Federal Websites
-summary: The downloadable checklist organizes policy requirements into nine
-  broad categories, covering the breadth of federal web policy. It explains what
-  your agency needs to do to meet each requirement.
+summary: Covering the breadth of federal web policy, the new downloadable checklist organizes policy requirements into nine categories and explains what your agency needs to do to meet each requirement.
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
