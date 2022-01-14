@@ -32,7 +32,7 @@ The National Library of Medicine (NLM) collects customer experience information 
 
 Join Dan Wendling and Adam Korengold of the National Institutes of Health (NIH) National Library of Medicine (NLM) and learn how to overcome resistance to data analytics and visualization, ask the right questions, and improve customer experience.
 
-[View the slides](https://digital.gov/files/overcoming-your-fear-of-data-presentation.pptx) (PowerPoint, 2.8 MB, 24 pages)
+[View the slides](https://digital.gov/files/overcoming-your-fear-of-data-updated-presentation.pptx) (PowerPoint, 2.5 MB, 23 pages)
 
 ### Speakers and Panelists
 
