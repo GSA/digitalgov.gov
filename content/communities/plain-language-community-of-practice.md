@@ -16,6 +16,7 @@ authors:
   - katherine-spivey
   - katina-stapleton
   - jamie-stark
+  - miriam-vincent
 
 # see all topics at https://digital.gov/topics
 topics:
