@@ -24,6 +24,8 @@ primary_image: socialgov-june-event-title-card
 
 ---
 
+[Read the Event Recap](https://digital.gov/2021/08/18/key-insights-from-the-white-house-director-of-digital-strategy-robert-flaherty/)
+
 Hear how the White House digital team works together to effectively use digital tools to share the priorities and activities of the president with citizens.
 
 From running some of the most-well known government social media accounts, to safely shooting video of the president and White House staff during a pandemic, to developing and measuring integrated cross-channel campaigns for large initiatives&mdash;get an inside look at how one high-profile agency is thinking about digital strategy in the new normal.
