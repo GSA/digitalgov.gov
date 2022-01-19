@@ -25,7 +25,7 @@ primary_image: uswds-january-title-card
 
 ---
 
-[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-january-2022-distro.pptx.zip) (PowerPoint, 1.5 MB, 30 pages)
+[View the slides (PowerPoint, 1.5 MB, 30 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-january-2022-distro.pptx.zip)
 
 For our first monthly call of 2022, we'll take a look at a new tutorial focused on getting started with the design system. Our team will also demo a new getting started guide for developers, with improved guidance for how to install, compile, and begin to customize the design system.
 
