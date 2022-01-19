@@ -64,13 +64,8 @@ Establishes standards for federal agencies to collect customer feedback.
 
 Managing for Results: OMB Improved Implementation of Cross-Agency Priority Goals, But Could Be More Transparent About Measuring Progress. See &#8220;Full Report&#8221; PDF to read the findings.
 
-<del><strong>March 30, 2016 — OMB Memo M-16-08 Establishment of the Core Federal Services Council</strong></del>
-
-<ul style="padding-left: 0px;padding-top: 0px">
-  <li style="list-style-type: none">
-    <em><strong>6/15/2017</strong>: Eliminated by M-17-26, <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf">Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208KB, 12 pages, June 2017)</a></em>
-  </li>
-</ul>
+<p style="text-decoration: line-through">March 2016 — OMB Memo M-16-08 Establishment of the Core Federal Services Council</p>
+<blockquote><em>6/15/2017: Eliminated by M-17-26, <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf">Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208KB, 12 pages, June 2017)</a></em></blockquote>
 
 **October 2014 — [GAO Report GAO-15-84](http://www.gao.gov/products/GAO-15-84)**
 
