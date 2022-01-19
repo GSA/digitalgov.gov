@@ -23,8 +23,12 @@ primary_image: ux-summmit-title-card-twenty-twenty-two-title-card
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
-{{< box color="base-light" >}}    Note: The 2022 UX summit will be held June 7-8, 2022. Registration for the summit will open in the coming months. We will update this page and notify the community when the registration opens.    {{< /box >}}
+
+{{< note >}}
+Note: The 2022 UX summit will be held June 7-8, 2022. Registration for the summit will open in the coming months. We will update this page and notify the community when the registration opens.
+{{< /note >}}
 
 ## Call for Presenters
 
@@ -43,55 +47,63 @@ See example presentations from the [2019 Government UX Summit](https://digital.g
 5. Presenters must submit the final version of their presentation at least one week before the summit. Presentation materials used during the summit will be posted to the Digital.gov event page before the summit begins.
 6. Videos of the sessions will not be posted. Instead, accepted presenters will be invited to share a 5-minute talk giving the highlights of their presentation at a follow-up, one-hour event on June 15.
 
-### Submission of materials
+## Submission of materials
 
 *All submissions should have a focus on UX work in the U.S. federal government, or tie in to federal UX work.*
 
-{{< img href="https://feedback.gsa.gov/jfe/form/SV_eE86j94KMtvA6MK" text="Participate as a presenter! Use this form to submit a topic —>" >}}
+{{< box >}}
+**Participate as a presenter!** [Use this form to submit a topic —>](https://feedback.gsa.gov/jfe/form/SV_eE86j94KMtvA6MK)
+{{< /box >}}
 
 *For defined submission requirements see the section below.*
 
-{{< accordion kicker="" title="Requirements for Submissions" icon="fas fa-copy" >}} You will need the following information for your submission:
+{{< accordion kicker="2022 Government UX Summit" title="Requirements for Submissions" icon="fas fa-copy" >}} You will need the following information for your submission:
 
-Title of presentation (title should clearly describe what you will cover)
-Name, government email, position, and organization of all speakers. 
-For submissions that will have multiple speakers or panelists, identify the primary point of contact. (The primary speaker must be a federal employee.)
-Preferred presentation length—including time for live questions and answers:
-15 minutes
-60 minutes
-Presentation topic (topic area examples are below)\
-Accessibility
-Career Development
-Design
-Research
-UX Methods
-UX Management
-Other related topics
-Target audience (novice, intermediate, advanced, or everyone)
-Abstract to be included in the virtual program (max 100 words); further instructions are provided in the submission form
-Presentation proposal; a description of the session for the review (max 500 words) 
-Submitter qualifications (why you and any other presenters are qualified to present on this topic.
- {{< /accordion >}}
+1) Title of presentation (title should clearly describe what you will cover)
 
-### Accessibility Guidelines
+2) Name, government email, position, and organization of all speakers. 
+   a. For submissions that will have multiple speakers or panelists, identify the primary point of contact. (The primary speaker must be a federal employee.)
 
-*If the submission is selected for the 2022 UX Summit, Digital.gov will provide guidance on creating accessible slides and presentations. The submitter agrees to meet federal accessibility requirements for written materials and presentations. Read our [tips for accessible events](https://github.com/GSA/digitalgov.gov/wiki/Accessible-Event-Tips) for more information.*
+3) Preferred presentation length—including time for live questions and answers:
+   a. 15 minutes
+   b. 60 minutes
 
-### Evaluation Process 
+4) Presentation topic (topic area examples are below)\
+   a. Accessibility
+   b. Career Development
+   c. Design
+   d. Research
+   e. UX Methods
+   f. UX Management
+   g. Other related topics
 
-*By submitting a presentation for review, the submitter and panelists agree to the UX Summit review process. A committee composed of government employee volunteers will review all submissions.*
+5) Target audience (novice, intermediate, advanced, or everyone)
 
- 
+6) Abstract to be included in the virtual program (max 100 words); further instructions are provided in the submission form
+
+7) Presentation proposal; a description of the session for the review (max 500 words) 
+
+8) Submitter qualifications (why you and any other presenters are qualified to present on this topic.
+{{< /accordion >}}
+
+## Accessibility Guidelines
+
+_If the submission is selected for the 2022 UX Summit, Digital.gov will provide guidance on creating accessible slides and presentations. The submitter agrees to meet federal accessibility requirements for written materials and presentations. Read our [tips for accessible events](https://github.com/GSA/digitalgov.gov/wiki/Accessible-Event-Tips) for more information._
+
+## Evaluation Process 
+
+_By submitting a presentation for review, the submitter and panelists agree to the UX Summit review process. A committee composed of government employee volunteers will review all submissions._
 
 {{< accordion kicker="" title="Evaluation Considerations" icon="fas fa-copy" >}} To make the final selections, the reviewers will consider the following for each submission:
 
-Relevance to the UX Community of Practice
-Usefulness of the presentation
-Quality of the submission
-Qualifications of the speakers and submitters
-Appropriateness of the content for the proposed session length (we may suggest changes)
+1. Relevance to the UX Community of Practice
+2. Usefulness of the presentation
+3. Quality of the submission
+4. Qualifications of the speakers and submitters
+5. Appropriateness of the content for the proposed session length (we may suggest changes)
 
-**NOTE:** In addition to considering these criteria, the reviewers will strive to achieve a diverse, balanced, and equitable program for the Summit. {{< /accordion >}}
+**NOTE:** In addition to considering these criteria, the reviewers will strive to achieve a diverse, balanced, and equitable program for the Summit.
+{{< /accordion >}}
 
 - - -
 
