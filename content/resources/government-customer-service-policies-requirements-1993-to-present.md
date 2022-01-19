@@ -2,19 +2,20 @@
 slug: government-customer-service-policies-requirements-1993-to-present
 date: 2016-01-07 5:41:53 -0400
 title: 'Government Customer Service Policies & Requirements: 1993 to Present'
-summary: 'May 2016&mdash;GAO Report GAO-16-509 March 2016&mdash;OMB Memo M-16-08 Establishment of the Core Federal Services Council 6/15/2017: Eliminated by M-17-26, Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208KB, 12 pages, June 2017) October 2014&mdash;GAO Report GAO-15-84 August 2014&mdash;U.S. Digital Services Playbook March 2014&mdash;Cross-Agency Priority (CAP) Goal &#8211; Customer Service May 2012&mdash;Digital Government'
+summary: 'A list of government customer service policies and requirements.'
 topics:
   - policy
   - customer-service
 authors:
   - rflagg
+
 ---
 
-December 2021—[Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
+December 2021 — [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
 
-August 2021—[OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)
+August 2021 — [OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)
 
-May 2016—<a href="https://www.gao.gov/products/GAO-16-509" target="_blank" rel="noopener noreferrer">GAO Report GAO-16-509</a>
+May 2016 — <a href="https://www.gao.gov/products/GAO-16-509" target="_blank" rel="noopener noreferrer">GAO Report GAO-16-509</a>
 
 <div>
   <p>
@@ -23,70 +24,68 @@ May 2016—<a href="https://www.gao.gov/products/GAO-16-509" target="_blank" rel
   
   <ul style="padding-left: 0px;padding-top: 0px">
     <li style="list-style-type: none">
-      <em><strong>6/15/2017</strong>: Eliminated by M-17-26, <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf">Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda</a> (PDF, 208KB, 12 pages, June 2017)</em>
+      <em><strong>6/15/2017</strong>: Eliminated by M-17-26, <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf">Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208KB, 12 pages, June 2017)</a></em>
     </li>
   </ul>
 </div>
 
-October 2014—[GAO Report GAO-15-84](http://www.gao.gov/products/GAO-15-84)
+October 2014 — [GAO Report GAO-15-84](http://www.gao.gov/products/GAO-15-84)
 
-August 2014—[U.S. Digital Services Playbook](https://playbook.cio.gov/)
+August 2014 — [U.S. Digital Services Playbook](https://playbook.cio.gov/)
 
-March 2014—[Cross-Agency Priority (CAP) Goal &#8211; Customer Service](http://www.performance.gov/node/3400?view=public#apg)
+March 2014 — [Cross-Agency Priority (CAP) Goal &#8211; Customer Service](http://www.performance.gov/node/3400?view=public#apg)
 
-May 2012—[Digital Government Strategy &#8211; Building a 21st Century Platform to Better Serve the American People](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
+May 2012 — [Digital Government Strategy &#8211; Building a 21st Century Platform to Better Serve the American People](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
 
-June 2011—[OMB M-11-26 &#8211; Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (PDF, 200 KB, 4 pages, June 2011)
+June 2011 — [OMB M-11-26 &#8211; Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act (PDF, 200 KB, 4 pages, June 2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf)
 
-June 2011—[OMB Memo M-11-24 &#8211; Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf) (PDF, 2.5 MB, 6 pages, June 2011)
+June 2011 — [OMB Memo M-11-24 &#8211; Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service (PDF, 2.5 MB, 6 pages, June 2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf)
 
-April 2011—[Executive Order 13571 &#8211; Streamlining Service Delivery and Improving Customer Service](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser)
+April 2011 — [Executive Order 13571 &#8211; Streamlining Service Delivery and Improving Customer Service](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser)
 
-January 2011—[GPRA Modernization Act of 2010 (GPRAMA)](http://www.gpo.gov/fdsys/pkg/PLAW-111publ352/pdf/PLAW-111publ352.pdf) (PDF, 172 KB, 20 pages, January 2011)
+January 2011 — [GPRA Modernization Act of 2010 (GPRAMA) (PDF, 172 KB, 20 pages, January 2011)](http://www.gpo.gov/fdsys/pkg/PLAW-111publ352/pdf/PLAW-111publ352.pdf)
 
-April 2010—[Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 85 KB, 7 pages, April 2010)
+April 2010 — [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (PDF, 85 KB, 7 pages, April 2010)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)
 
-December 2009—[Open Government Directive](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf) (PDF, 82 KB, 11 pages, December 2009)
+December 2009 — [Open Government Directive (PDF, 82 KB, 11 pages, December 2009)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf)
 
-December 2002—[E-Government Act of 2002](https://www.archives.gov/about/laws/egov-act-section-207.html)
+December 2002 — [E-Government Act of 2002](https://www.archives.gov/about/laws/egov-act-section-207.html)
 
-March 1998—[Memorandum on Conducting ‘‘Conversations With America’’ To Further Improve Customer Service](http://www.gpo.gov/fdsys/pkg/WCPD-1998-03-09/pdf/WCPD-1998-03-09-Pg368.pdf) (PDF, 110 KB, March 1998, 2 pages)
+March 1998 — [Memorandum on Conducting "Conversations With America" To Further Improve Customer Service (PDF, 110 KB, March 1998, 2 pages)](http://www.gpo.gov/fdsys/pkg/WCPD-1998-03-09/pdf/WCPD-1998-03-09-Pg368.pdf)
 
-March 1995—[Presidential Memo on Improving Customer Service](http://www.gpo.gov/fdsys/pkg/WCPD-1995-03-27/pdf/WCPD-1995-03-27-Pg456.pdf) (PDF, 110 KB, 2 pages, March 1995)
+March 1995 — [Presidential Memo on Improving Customer Service (PDF, 110 KB, 2 pages, March 1995)](http://www.gpo.gov/fdsys/pkg/WCPD-1995-03-27/pdf/WCPD-1995-03-27-Pg456.pdf)
 
-September 1993—[Executive Order 12862 &#8211; Setting Customer Service Standards](http://www.archives.gov/federal-register/executive-orders/pdf/12862.pdf) (PDF, 12 KB, 2 pages, September 1993)
+September 1993 — [Executive Order 12862 &#8211; Setting Customer Service Standards (PDF, 12 KB, 2 pages, September 1993)](http://www.archives.gov/federal-register/executive-orders/pdf/12862.pdf)
 
-January 1993—[Government Performance and Results Act (GPRA)](https://obamawhitehouse.archives.gov/omb/mgmt-gpra/gplaw2m)
+January 1993 — [Government Performance and Results Act (GPRA)](https://obamawhitehouse.archives.gov/omb/mgmt-gpra/gplaw2m)
 
 ## Detailed List
 
-**December 2021**—[Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
+**December 2021** — [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
 
 Expands the list of High Impact Service Providers (HISPs) and builds a framework for federal agencies to collaborate around delivering services related to certain significant "life events" such as retiring, or filing taxes.
 
-**August 2021**—[OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf) 
+**August 2021 — [OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)**
 
 Establishes standards for federal agencies to collect customer feedback.
 
-**May 20, 2016**—**<a href="https://www.gao.gov/products/GAO-16-509" target="_blank" rel="noopener noreferrer">GAO-16-509</a>**
+**May 20, 2016 — <a href="https://www.gao.gov/products/GAO-16-509" target="_blank" rel="noopener noreferrer">GAO-16-509</a>**
 
 Managing for Results: OMB Improved Implementation of Cross-Agency Priority Goals, But Could Be More Transparent About Measuring Progress. See &#8220;Full Report&#8221; PDF to read the findings.
 
-**<del>March 30, 2016<b>—</b>OMB Memo M-16-08 Establishment of the Core Federal Services Council</del>
-  
-**
+<del><strong>March 30, 2016 — OMB Memo M-16-08 Establishment of the Core Federal Services Council</strong></del>
 
 <ul style="padding-left: 0px;padding-top: 0px">
   <li style="list-style-type: none">
-    <em><strong>6/15/2017</strong>: Eliminated by M-17-26, <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf">Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda</a> (PDF, 208KB, 12 pages, June 2017)</em>
+    <em><strong>6/15/2017</strong>: Eliminated by M-17-26, <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf">Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208KB, 12 pages, June 2017)</a></em>
   </li>
 </ul>
 
-**October 2014****—**[**GAO Report GAO-15-84**](http://www.gao.gov/products/GAO-15-84)
+**October 2014 — [GAO Report GAO-15-84](http://www.gao.gov/products/GAO-15-84)**
 
 MANAGING FOR RESULTS: Selected Agencies Need to Take Additional Efforts to Improve Customer Service
 
-**August 11, 2014—**[**U.S. Digital Services Playbook**](https://playbook.cio.gov/)
+**August 11, 2014 — [U.S. Digital Services Playbook](https://playbook.cio.gov/)**
 
 Build digital services that meet the needs and expectations of the American people.
 
@@ -106,7 +105,7 @@ Digital Service Plays:
 * Use data to drive decisions
 * Default to open
 
-**March 2014—**[**Cross-Agency Priority (CAP) Goal &#8211; Customer Service**](http://www.performance.gov/node/3400?view=public#apg)
+**March 2014 — [Cross-Agency Priority (CAP) Goal &#8211; Customer Service](http://www.performance.gov/node/3400?view=public#apg)**
 
 Created the new set of CAP goals – including customer service.
 
@@ -116,7 +115,7 @@ GOAL STATEMENT: Deliver world-class customer services to citizens by making it f
 * Develop standards for high impact services.
 * Utilize technology to improve the customer experience.
 
-**May 2012—****[Digital Government &#8211; Building a 21st Century Platform to Better Serve the American People](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html)**
+**May 2012 — [Digital Government &#8211; Building a 21st Century Platform to Better Serve the American People](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html)**
 
 Design and deliver digital services with customer service first in mind and reflect the technologies used by today’s customers. Agencies must respond to customers’ needs and make it easy to find and share information and accomplish important tasks _&#8220;anytime, anywhere, any device.&#8221;_
 
@@ -126,11 +125,11 @@ Use customer-centric design principles; focus efforts where they’ll have the m
 * Improve Priority Customer-Facing Services for Mobile Use
 * Measure Performance and Customer Satisfaction to Improve Service Delivery
 
-**June 15, 2011—****[OMB M-11-26 &#8211; Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf)** (PDF, 200 KB, 4 pages, June 2011)
+**June 15, 2011 — [OMB M-11-26 &#8211; Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act (PDF, 200 KB, 4 pages, June 2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf)**
 
 Established the Fast-Track PRA review, reducing the time required for agencies to get clearance to conduct customer surveys from several months to several weeks.
 
-**June 2011—****[OMB Memo M-11-24 &#8211; Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf)** (PDF, 2.5 MB, 6 pages, June 2011)
+**June 2011 — [OMB Memo M-11-24 &#8211; Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service (PDF, 2.5 MB, 6 pages, June 2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf)**
 
 Requires that agencies develop customer service standards that are &#8220;understandable to the public, easily accessible at the point of service and on the Internet, and measurable (where appropriate); where possible, standards should include targets for speed, quality/accuracy, and satisfaction.&#8221;
 
@@ -146,7 +145,7 @@ Requires that agencies develop customer service standards that are &#8220;unders
     * Update .Gov Domain Policy and Guidelines
     * Eliminate Duplicative and Outdated Websites
 
-**April 27, 2011—**[**Executive Order 13571 &#8211; Streamlining Service Delivery and Improving Customer Service**](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser)
+**April 27, 2011 — [Executive Order 13571 &#8211; Streamlining Service Delivery and Improving Customer Service](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser)**
 
 Requires agencies to develop, in consultation with the Office of Management and Budget (OMB), a Customer Service Plan to address how the agency will streamline service delivery and improve customer experience.
 
@@ -161,17 +160,17 @@ Requirements include:
 
 Requires agencies to post customer service metrics and best practices online.
 
-**January 4, 2011—****[GPRA Modernization Act of 2010 (GPRAMA)](http://www.gpo.gov/fdsys/pkg/PLAW-111publ352/pdf/PLAW-111publ352.pdf)** (PDF, 172 KB, 20 pages, January 2011)
+**January 4, 2011 — [GPRA Modernization Act of 2010 (GPRAMA) (PDF, 172 KB, 20 pages, January 2011)](http://www.gpo.gov/fdsys/pkg/PLAW-111publ352/pdf/PLAW-111publ352.pdf)**
 
 Enhanced requirements of GPRA requiring agencies to develop annual performance plans that must describe how performance goals are to be achieved, including establishing performance indicators to measure, as appropriate, customer service, efficiency, output, and outcome indicators. Measures should be quantifiable and measurable to define the level of performance to be achieved for program activities each year. Requires each agency performance plan should “establish a balanced set of performance indicators to be used in measuring or assessing progress toward each performance goal, including, as appropriate, customer service, efficiency, output and outcome indicators.
 
 Established a Performance Improvement Council to consider performance improvement experiences of customers (e.g., corporations, nonprofit organizations, foreign, state and local governments) of government services.
 
-**April 7, 2010—****[Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)** (PDF, 85 KB, 7 pages, April 2010)
+**April 7, 2010 — [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (PDF, 85 KB, 7 pages, April 2010)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)**
 
 Clarifies that the Paperwork Reduction Act of 1995 (the PRA) does not apply to many uses of social media and similar technologies, clearing the way for agencies to use social media and web-based interactive technologies to serve and engage with the public online.
 
-**December 8, 2009—****[Open Government Directive](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf)** (PDF, 82 KB, 11 pages, December 2009)
+**December 8, 2009 — [Open Government Directive (PDF, 82 KB, 11 pages, December 2009)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf)**
 
 Laid the groundwork for a transparent, participatory and collaborative government by: Publishing Government Information Online; Improving the Quality of Government Information; Creating and Institutionalizing a Culture of Open Government; Creating an Enabling Policy Framework for Open Government.
 
@@ -181,19 +180,19 @@ Open Government Plan:
 * **Participation**: promote opportunities for the public to participate throughout the decision-making process.
 * **Collaboration**: further cooperation with other Federal and non-Federal governmental agencies, the public, and nonprofit and private entities in fulfilling the agency’s core mission activities
 
-**December 2002—**[**E-Government Act of 2002**](https://www.archives.gov/about/laws/egov-act-section-207.html)
+**December 2002 — [E-Government Act of 2002](https://www.archives.gov/about/laws/egov-act-section-207.html)**
 
 Use information technology (IT) to transform agency business into a more citizen oriented and user friendly process.
 
-**March 3, 1998—****[Memorandum on Conducting &#8220;Conversations With America&#8221; To Further Improve Customer Service](http://www.gpo.gov/fdsys/pkg/WCPD-1998-03-09/pdf/WCPD-1998-03-09-Pg368.pdf)** (PDF, 110 KB, March 1998, 2 pages)
+**March 3, 1998 — [Memorandum on Conducting &#8220;Conversations With America&#8221; To Further Improve Customer Service (PDF, 110 KB, March 1998, 2 pages)](http://www.gpo.gov/fdsys/pkg/WCPD-1998-03-09/pdf/WCPD-1998-03-09-Pg368.pdf)**
 
 Called for agencies to engage customers in conversations about how to improve Government services.
 
-**March 22, 1995—****[Presidential Memo on Improving Customer Service](http://www.gpo.gov/fdsys/pkg/WCPD-1995-03-27/pdf/WCPD-1995-03-27-Pg456.pdf)** (PDF, 110 KB, 2 pages, March 1995)
+**March 22, 1995 — [Presidential Memo on Improving Customer Service (PDF, 110 KB, 2 pages, March 1995)](http://www.gpo.gov/fdsys/pkg/WCPD-1995-03-27/pdf/WCPD-1995-03-27-Pg456.pdf)**
 
 Extends Executive Order 12862, which requires agencies to establish and implement customer service standards; survey customers and employees; benchmark; and publish customer service standards. For the first time, the Federal Government’s customers have been told what they have a right to expect when they ask for service.
 
-Further stated that the government is customer-driven and customer-focused, and clarified expectations regarding agency actions, standards, and measurements, including measuring  customer satisfaction as a standard benchmark. Recognized that &#8220;without satisfied employees, we cannot have satisfied customers.&#8221;
+Further stated that the government is customer-driven and customer-focused, and clarified expectations regarding agency actions, standards, and measurements, including measuring customer satisfaction as a standard benchmark. Recognized that &#8220;without satisfied employees, we cannot have satisfied customers.&#8221;
 
 Agencies shall “on an ongoing basis measure results achieved against the customer service standards and should also include customer satisfaction as a measure.
 
@@ -204,7 +203,7 @@ Agencies shall “on an ongoing basis measure results achieved against the custo
 
 Customer service standards should relate to legislative activities, including strategic planning and performance measurement under the Government Performance and Results Act of 1993, reporting on financial and program performance under the Chief Financial Officers Act of 1990, and the Government Management and Reform Act of 1994.
 
-**September 11, 1993—****[Executive Order 12862 &#8211; Setting Customer Service Standards](http://www.archives.gov/federal-register/executive-orders/pdf/12862.pdf)** (PDF, 12 KB, 2 pages, September 1993)
+**September 11, 1993 — [Executive Order 12862 &#8211; Setting Customer Service Standards (PDF, 12 KB, 2 pages, September 1993)](http://www.archives.gov/federal-register/executive-orders/pdf/12862.pdf)**
 
 Requires agencies to establish and implement customer service standards; survey customers and employees; benchmark customer service performance against the best in business (e.g., highest quality of service delivered to customers by private sector organizations providing a comparable or analogous service); publish customer service standards and plans; and publicly report on customer service surveys.
 
@@ -219,7 +218,7 @@ Agencies shall take the following actions:
 * make information, services, and complaint systems easily accessible; and
 * provide means to address customer complaints.
 
-**January 5, 1993—**[**Government Performance and Results Act (GPRA)**](https://www.congress.gov/bill/103rd-congress/senate-bill/00020)
+**January 5, 1993 — [Government Performance and Results Act (GPRA)](https://www.congress.gov/bill/103rd-congress/senate-bill/00020)**
 
 Set performance goals, measure results, publicly report progress. New focus on results, service quality and customer satisfaction. The purposes of this Act are to:
 
