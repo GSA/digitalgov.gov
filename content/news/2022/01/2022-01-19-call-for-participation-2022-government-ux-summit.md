@@ -57,18 +57,21 @@ See example presentations from the [2019 Government UX Summit](https://digital.g
 
 *For defined submission requirements see the section below.*
 
-{{< accordion kicker="2022 Government UX Summit" title="Requirements for Submissions" icon="fas fa-copy" >}} You will need the following information for your submission:
+{{< accordion kicker="2022 Government UX Summit" title="Requirements for Submissions" icon="" >}} You will need the following information for your submission:
 
 1) Title of presentation (title should clearly describe what you will cover)
 
-2) Name, government email, position, and organization of all speakers. 
+2) Name, government email, position, and organization of all speakers.
+
    a. For submissions that will have multiple speakers or panelists, identify the primary point of contact. (The primary speaker must be a federal employee.)
 
 3) Preferred presentation length—including time for live questions and answers:
+
    a. 15 minutes
    b. 60 minutes
 
-4) Presentation topic (topic area examples are below)\
+4) Presentation topic (topic area examples are below)
+
    a. Accessibility
    b. Career Development
    c. Design
@@ -94,7 +97,7 @@ _If the submission is selected for the 2022 UX Summit, Digital.gov will provide 
 
 _By submitting a presentation for review, the submitter and panelists agree to the UX Summit review process. A committee composed of government employee volunteers will review all submissions._
 
-{{< accordion kicker="" title="Evaluation Considerations" icon="fas fa-copy" >}} To make the final selections, the reviewers will consider the following for each submission:
+{{< accordion kicker="2022 Government UX Summit" title="Evaluation Considerations" icon="" >}} To make the final selections, the reviewers will consider the following for each submission:
 
 1. Relevance to the UX Community of Practice
 2. Usefulness of the presentation
