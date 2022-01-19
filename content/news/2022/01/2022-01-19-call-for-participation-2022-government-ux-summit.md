@@ -52,7 +52,7 @@ See example presentations from the [2019 Government UX Summit](https://digital.g
 *All submissions should have a focus on UX work in the U.S. federal government, or tie in to federal UX work.*
 
 {{< box >}}
-**Participate as a presenter!** [Use this form to submit a topic —>](https://feedback.gsa.gov/jfe/form/SV_eE86j94KMtvA6MK)
+**Participate as a presenter!** [Use this form to submit a topic](https://feedback.gsa.gov/jfe/form/SV_eE86j94KMtvA6MK)
 {{< /box >}}
 
 *For defined submission requirements see the section below.*
