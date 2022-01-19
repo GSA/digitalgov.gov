@@ -10,6 +10,10 @@ authors:
   - rflagg
 ---
 
+December 2021—[Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
+
+August 2021—[OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)
+
 May 2016—<a href="https://www.gao.gov/products/GAO-16-509" target="_blank" rel="noopener noreferrer">GAO Report GAO-16-509</a>
 
 <div>
@@ -55,6 +59,14 @@ September 1993—[Executive Order 12862 &#8211; Setting Customer Service Standar
 January 1993—[Government Performance and Results Act (GPRA)](https://obamawhitehouse.archives.gov/omb/mgmt-gpra/gplaw2m)
 
 ## Detailed List
+
+**December 2021**—[Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
+
+Expands the list of High Impact Service Providers (HISPs) and builds a framework for federal agencies to collaborate around delivering services related to certain significant "life events" such as retiring, or filing taxes.
+
+**August 2021**—[OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf) 
+
+Establishes standards for federal agencies to collect customer feedback.
 
 **May 20, 2016**—**<a href="https://www.gao.gov/products/GAO-16-509" target="_blank" rel="noopener noreferrer">GAO-16-509</a>**
 
