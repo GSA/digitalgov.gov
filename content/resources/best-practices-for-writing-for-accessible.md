@@ -79,7 +79,7 @@ When developing accessible content, authors need to think about how users will a
 
 *DON'T*
 
-1. Use gifs or parralyx features to avoid visual strain.
+1. Use gifs or parallax features to avoid visual strain.
   
 ## Color Contrast
 
