@@ -2,10 +2,9 @@
 date: 2022-01-19 15:47:00 -0500
 kicker: User Experience
 title: "Call for Participation: 2022 Government UX Summit"
-deck: We are looking for Federal speakers to share their experiences as UX
-  practitioners in government.
-summary: Learn more about the UX Summit submission process, and submit your
-  presentations for consideration!
+deck: "We are looking for federal speakers to share their experiences as UX practitioners in government."
+summary: "Learn more about the UX Summit submission process, and submit your presentations for consideration!"
+
 # See all topics at https://digital.gov/topics
 topics:
   - community-ux
@@ -52,25 +51,25 @@ See example presentations from the [2019 Government UX Summit](https://digital.g
 *All submissions should have a focus on UX work in the U.S. federal government, or tie in to federal UX work.*
 
 {{< box >}}
-**Participate as a presenter!** [Use this form to submit a topic](https://feedback.gsa.gov/jfe/form/SV_eE86j94KMtvA6MK)
+**Participate as a presenter!** [Use this form to submit a topic](https://feedback.gsa.gov/jfe/form/SV_eE86j94KMtvA6MK).
 {{< /box >}}
 
 *For defined submission requirements see the section below.*
 
 {{< accordion kicker="2022 Government UX Summit" title="Requirements for Submissions" icon="" >}} You will need the following information for your submission:
 
-1) Title of presentation (title should clearly describe what you will cover)
+1. Title of presentation (title should clearly describe what you will cover)
 
-2) Name, government email, position, and organization of all speakers.
+2. Name, government email, position, and organization of all speakers.
 
-   a. For submissions that will have multiple speakers or panelists, identify the primary point of contact. (The primary speaker must be a federal employee.)
+   a. For submissions that will have multiple speakers or panelists, identify the primary point of contact. (The primary speaker **must be a federal employee**.)
 
-3) Preferred presentation length—including time for live questions and answers:
+3. Preferred presentation length—including time for live questions and answers:
 
    a. 15 minutes
    b. 60 minutes
 
-4) Presentation topic (topic area examples are below)
+4. Presentation topic (topic area examples are below)
 
    a. Accessibility
    b. Career Development
@@ -80,13 +79,13 @@ See example presentations from the [2019 Government UX Summit](https://digital.g
    f. UX Management
    g. Other related topics
 
-5) Target audience (novice, intermediate, advanced, or everyone)
+5. Target audience (novice, intermediate, advanced, or everyone)
 
-6) Abstract to be included in the virtual program (max 100 words); further instructions are provided in the submission form
+6. Abstract to be included in the virtual program (max 100 words); further instructions are provided in the submission form
 
-7) Presentation proposal; a description of the session for the review (max 500 words) 
+7. Presentation proposal; a description of the session for the review (max 500 words) 
 
-8) Submitter qualifications (why you and any other presenters are qualified to present on this topic.
+8. Submitter qualifications (why you and any other presenters are qualified to present on this topic.
 {{< /accordion >}}
 
 ## Accessibility Guidelines
