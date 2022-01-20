@@ -2,7 +2,6 @@
 date: 2022-01-19 15:47:00 -0500
 kicker: User Experience
 title: "Call for Participation: 2022 Government UX Summit"
-deck: "We are looking for federal speakers to share their experiences as UX practitioners in government."
 summary: "Learn more about the UX Summit submission process, and submit your presentations for consideration!"
 
 # See all topics at https://digital.gov/topics
@@ -24,6 +23,8 @@ primary_image: ux-summmit-title-card-twenty-twenty-two-title-card
 weight: 1
 
 ---
+
+We are looking for federal speakers to share their experiences as UX practitioners in government.
 
 {{< note >}}
 Note: The 2022 UX summit will be held June 7-8, 2022. Registration for the summit will open in the coming months. We will update this page and notify the community when the registration opens.
@@ -58,43 +59,44 @@ See example presentations from the [2019 Government UX Summit](https://digital.g
 
 {{< accordion kicker="2022 Government UX Summit" title="Requirements for Submissions" icon="" >}} You will need the following information for your submission:
 
-1. Title of presentation (title should clearly describe what you will cover)
-
-2. Name, government email, position, and organization of all speakers.
-
-   a. For submissions that will have multiple speakers or panelists, identify the primary point of contact. (The primary speaker **must be a federal employee**.)
-
-3. Preferred presentation length—including time for live questions and answers:
-
-   a. 15 minutes
-   b. 60 minutes
-
-4. Presentation topic (topic area examples are below)
-
-   a. Accessibility
-   b. Career Development
-   c. Design
-   d. Research
-   e. UX Methods
-   f. UX Management
-   g. Other related topics
-
-5. Target audience (novice, intermediate, advanced, or everyone)
-
-6. Abstract to be included in the virtual program (max 100 words); further instructions are provided in the submission form
-
-7. Presentation proposal; a description of the session for the review (max 500 words) 
-
-8. Submitter qualifications (why you and any other presenters are qualified to present on this topic.
+<ol type='1'>
+<li>Title of presentation (title should clearly describe what you will cover)</li>
+<li>Name, government email, position, and organization of all speakers.
+<ol type='a'>
+<li>For submissions that will have multiple speakers or panelists, identify the primary point of contact. (The primary speaker <strong>must be a federal employee</strong>.)</li>
+</ol>
+</li>
+<li>Preferred presentation length—including time for live questions and answers:
+<ol type='a'>
+<li>15 minutes</li>
+<li>60 minutes</li>
+</ol>
+</li>
+<li>Presentation topic (topic area examples are below)
+<ol type='a'>
+<li>Accessibility</li>
+<li>Career Development</li>
+<li>Design</li>
+<li>Research</li>
+<li>UX Methods</li>
+<li>UX Management</li>
+<li>Other related topics</li>
+</ol>
+</li>
+<li>Target audience (novice, intermediate, advanced, or everyone)</li>
+<li>Abstract to be included in the virtual program (max 100 words); further instructions are provided in the submission form</li>
+<li>Presentation proposal; a description of the session for the review (max 500 words)</li>
+<li>Submitter qualifications (why you and any other presenters are qualified to present on this topic)</li>
+</ol>
 {{< /accordion >}}
 
 ## Accessibility Guidelines
 
-_If the submission is selected for the 2022 UX Summit, Digital.gov will provide guidance on creating accessible slides and presentations. The submitter agrees to meet federal accessibility requirements for written materials and presentations. Read our [tips for accessible events](https://github.com/GSA/digitalgov.gov/wiki/Accessible-Event-Tips) for more information._
+If the submission is selected for the 2022 UX Summit, Digital.gov will provide guidance on creating accessible slides and presentations. The submitter agrees to meet federal accessibility requirements for written materials and presentations. Read our [tips for accessible events](https://github.com/GSA/digitalgov.gov/wiki/Accessible-Event-Tips) for more information.
 
 ## Evaluation Process 
 
-_By submitting a presentation for review, the submitter and panelists agree to the UX Summit review process. A committee composed of government employee volunteers will review all submissions._
+By submitting a presentation for review, the submitter and panelists agree to the UX Summit review process. A committee composed of government employee volunteers will review all submissions.
 
 {{< accordion kicker="2022 Government UX Summit" title="Evaluation Considerations" icon="" >}} To make the final selections, the reviewers will consider the following for each submission:
 
@@ -109,10 +111,10 @@ _By submitting a presentation for review, the submitter and panelists agree to t
 
 - - -
 
-For more information or questions regarding this year’s UX Summit, please contact the UX Summit leads, Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Beth A. Martin at [beth.martin@faa.gov](mailto:Beth.martin@faa.gov).
+_For more information or questions regarding this year’s UX Summit, please contact the UX Summit leads, Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Beth A. Martin at [beth.martin@faa.gov](mailto:Beth.martin@faa.gov)._
 
-The 2022 Government UX Summit is hosted by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and [Digital.gov](https://digital.gov/about/).
+_The 2022 Government UX Summit is hosted by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and [Digital.gov](https://digital.gov/about/)._
 
-**[Join the UX CoP](https://digital.gov/communities/user-experience/)** *— a group of more than 1,400 U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide webinars, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join.*
+_[**Join the UX CoP**](https://digital.gov/communities/user-experience/) — a group of more than 1,400 U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide webinars, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join._
 
 - - -
