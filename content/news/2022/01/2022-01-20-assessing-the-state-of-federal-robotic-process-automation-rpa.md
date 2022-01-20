@@ -1,7 +1,4 @@
 ---
-# Originally published at the following URL
-source_url: ""
-source: digitalgov
 date: 2022-01-20 12:55:00 -0500
 kicker: RPA
 title: Assessing the State of Federal Robotic Process Automation (RPA)
