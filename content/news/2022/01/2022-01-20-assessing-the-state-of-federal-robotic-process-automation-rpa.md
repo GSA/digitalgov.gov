@@ -3,6 +3,7 @@
 source_url: ""
 source: digitalgov
 date: 2022-01-20 12:55:00 -0500
+kicker: RPA
 title: Assessing the State of Federal Robotic Process Automation (RPA)
 deck: 8 key takeaways on RPA maturity across the federal government
 summary: The 2021 State of Federal Robotic Process Automation (RPA) Report
