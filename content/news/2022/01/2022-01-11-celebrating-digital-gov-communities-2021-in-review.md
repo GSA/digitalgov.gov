@@ -1,7 +1,7 @@
 ---
 date: 2022-01-11 17:50:00 -0500
 title: "Celebrating Digital.gov Communities: 2021 in Review"
-deck: Happenings, milestones, and data points from the past year
+deck: Happenings, milestones, and data points from the past year.
 summary: Happenings, milestones, and data points from the past year.
 # See all topics at https://digital.gov/topics
 topics:
