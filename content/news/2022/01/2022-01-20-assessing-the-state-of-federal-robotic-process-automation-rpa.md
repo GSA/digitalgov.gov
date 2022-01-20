@@ -20,8 +20,8 @@ slug: assessing-the-state-of-federal-robotic-process-automation-rpa
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
-<!--StartFragment-->
 
 Robotic Process Automation (RPA) was introduced to the federal government several years ago and is now recognized as a powerful processing and automation tool. RPA technologies emulate human actions and dramatically reduce an organization’s low-value workload, freeing up employee time for higher-value work.
 
@@ -32,5 +32,3 @@ The State of Federal RPA Report shows growth in automations and the capacity tha
 Federal agencies are using RPA to speed up and connect financial systems, process HR requests faster, and perform thousands of acquisition functions with the click of a button. For the federal workforce, RPA means being able to focus on decision making and to do more for our federal employees and citizens.
 
 To learn more about RPA and join the conversation, interested federal employees can visit the [RPA CoP community page](https://digital.gov/communities/rpa/) to subscribe to the listserv where they will be notified of future events and publications. Please direct any questions about the community or RPA to RPA_COP@gsa.gov. We look forward to hearing from you!
-
-<!--EndFragment-->
