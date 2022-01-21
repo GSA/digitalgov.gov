@@ -17,7 +17,6 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
 
-
 community_list:
   - platform: listserv
     type: government
