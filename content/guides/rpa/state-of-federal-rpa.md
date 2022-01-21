@@ -22,4 +22,4 @@ Specifically, the report:
 4. Identifies incremental and obtainable steps to mature Federal RPA Programs
 5. Acknowledges barriers to RPA adoption
 
-{{< button href="https://digital.gov/pdf/state-of-federal-rpa.pdf" text="2020 State of Federal RPA Report" >}}
+{{< button href="https://digital.gov/pdf/state-of-federal-rpa.pdf" text="State of Federal RPA Report - November 1, 2020" >}}
