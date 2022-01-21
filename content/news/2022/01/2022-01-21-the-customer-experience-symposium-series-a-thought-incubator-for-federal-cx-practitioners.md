@@ -1,12 +1,8 @@
 ---
 date: 2022-01-21 11:21:00 -0500
 kicker: Customer Experience
-title: "The Customer Experience Symposium Series: A Thought Incubator for
-  Federal CX Practitioners"
-deck: Dialogues on CX.
-summary: What is the past, present, and future of public sector customer
-  experience practice? The CX Symposium series gathers practitioners to map our
-  way.
+title: "The Customer Experience (CX) Symposium Series: A Thought Incubator for Federal CX Practitioners"
+summary: What is the past, present, and future of public sector customer experience practice? The CX Symposium series gathers practitioners to map our way.
 # See all topics at https://digital.gov/topics
 topics:
   - cx
@@ -19,12 +15,14 @@ authors:
   - sheev-dav
   - ana-monroe
 slug: the-customer-experience-symposium-series-a-thought-incubator-for-federal-cx-practitioners
-primary_image: 10x-areas-of-focus
+primary_image: tutti-frutti-istock-getty-images-plus-1279167776-1200
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The Customer Experience (CX) Symposiums from the U.S. General Services Administration (GSA) Office of Customer Experience (OCE) act as both connector and thought incubator for CX practitioners across the federal space. Different from the [CX Community of Practice](https://digital.gov/communities/customer-experience/) or large conferences, the CX Symposium series convenes a small group with the explicit purpose of CX exploration, thought experimentation, and curiosity-led extrapolation.
 
 The [symposium format was originally piloted around 385 b.c.e.](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=10033831&searchType=1&permalink=y), meaning that it’s been through quite a bit of user testing as a platform for engagement. It requires that each member of a small group speaks from their own perspectives on a large-scale question. Through this conversational process, the group coalesces not around a solution to the question, but around a set of shared truths regarding that question, including contradictions, limitations, and affordances inherent to the question itself. Solutions, if any emerge, are happy outputs, but the primary outcome is engagement, generated knowledge around the question, and collaborative, conversational practice. These, then, are the rules of the CX Symposium games:
