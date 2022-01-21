@@ -16,14 +16,7 @@ topics:
 
 # See all authors at https://digital.gov/authors
 authors:
-  - jamie-stark
-  - wendy-wagner-smith
-  - brett-hollowell
-  - tracey-batacan
-  - jeku-j-r-arce
-  - holland-gormley
-  - lisa-novak
-  - catie-miller
+
 
 community_list:
   - platform: listserv
