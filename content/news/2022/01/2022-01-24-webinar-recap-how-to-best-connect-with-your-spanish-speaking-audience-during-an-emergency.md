@@ -17,15 +17,20 @@ topics:
   - social-media
 # See all authors at https://digital.gov/authors
 authors:
-  - toni-bonitto
+  - mara-goldberg
+  - gabby-fratanduono-king
 slug: webinar-recap-how-to-best-connect-with-your-spanish-speaking-audience-during-an-emergency
-primary_image: 10x-projects-report-1
+primary_image: multilingual-panel-connect-in-emergency
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 During a captivating [Digital.gov event](https://digital.gov/event/2021/10/14/how-to-best-connect-with-your-spanish-speaking-audience-during-an-emergency/) hosted by the Multilingual Community of Practice, participants heard from experts at three federal agencies. Panelists shared how they’ve used social media to reach Hispanic audiences during emergencies and the COVID-19 pandemic. Fedora Braverman, National Institutes of Health (NIH), and Laura Godfrey, U.S. General Services Administration (GSA), moderated the discussion. This article highlights the main insights provided by the panelists: Javier Chavez, U.S. National Library of Medicine (NLM), Georgeta Dragoiu, U.S. Department of Health and Human Services (HHS), and Claire Loxsom, GSA.
+
+{{< img src="multilingual-panel-connect-in-emergency" >}}
 
 ***Which social media platforms have you found the most useful during the COVID-19 pandemic for Hispanic audiences?***
 
