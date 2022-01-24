@@ -14,17 +14,6 @@ topics:
   - communication
   - writing
 
-# See all authors at https://digital.gov/authors
-authors:
-  - jamie-stark
-  - wendy-wagner-smith
-  - brett-hollowell
-  - tracey-batacan
-  - jeku-j-r-arce
-  - holland-gormley
-  - lisa-novak
-  - catie-miller
-
 community_list:
   - platform: listserv
     type: government
@@ -36,7 +25,9 @@ community_list:
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The Federal Communicators Network (FCN) was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
 
 ## What We Do
