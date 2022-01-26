@@ -23,3 +23,4 @@ Specifically, the report:
 5. Acknowledges barriers to RPA adoption
 
 {{< button href="https://digital.gov/pdf/state-of-federal-rpa.pdf" text="State of Federal RPA Report - November 1, 2020" >}}
+{{< button href="https://digital.gov/pdf/state-of-federal-rpa-12-2021.pdf" text="State of Federal RPA Report - December 29, 2021" >}}
