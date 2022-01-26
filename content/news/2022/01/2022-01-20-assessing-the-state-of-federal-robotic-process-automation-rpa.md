@@ -15,6 +15,7 @@ topics:
 authors:
   - gabrielle-perret
 slug: assessing-the-state-of-federal-robotic-process-automation-rpa
+primary_image: primary_image: rpa-state-update
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
