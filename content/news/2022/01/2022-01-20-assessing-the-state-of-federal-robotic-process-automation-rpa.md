@@ -1,5 +1,5 @@
 ---
-date: 2022-01-20 12:55:00 -0500
+date: 2022-01-26 15:55:00 -0500
 kicker: RPA
 title: Assessing the State of Federal Robotic Process Automation (RPA)
 summary: The 2021 State of Federal Robotic Process Automation (RPA) Report
