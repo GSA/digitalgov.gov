@@ -2,9 +2,7 @@
 date: 2022-01-26 15:55:00 -0500
 kicker: RPA
 title: Assessing the State of Federal Robotic Process Automation (RPA)
-summary: The 2021 State of Federal Robotic Process Automation (RPA) Report
-  describes the growth and maturity of Federal RPA Programs to convey agency
-  progress in digital transformation and automation.
+summary: The 2021 State of Federal Robotic Process Automation (RPA) Report describes the growth and maturity of federal RPA programs to convey agency progress in digital transformation and automation.
 # See all topics at https://digital.gov/topics
 topics:
   - artificial-intelligence
