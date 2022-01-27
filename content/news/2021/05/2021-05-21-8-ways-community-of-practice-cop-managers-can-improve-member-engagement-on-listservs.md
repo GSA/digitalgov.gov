@@ -94,7 +94,7 @@ It doesn’t make a difference whether the events are free or not; people make t
 
 In closing, here are four additional examples of subject line introductions, courtesy of [DC Web Women](https://www.dcwebwomen.org/), you can use to share information that your members will be able to easily identify.
 
-* **ISO (I Seek Only)**: You’re looking for a particular thing or a particular person.
+* **ISO (In Search Of)**: You’re looking for a particular thing or a particular person.
 * **Q or QUESTION**: You have a question about any tech topic related to jobs, software, hardware, a problem you’re having with any of the above, etc.
 * **SITESEEING**: A play on the word, sightseeing, use this to pass along an interesting, cool, or useful website — but not your own!
 * **SUMMARY**: Be a good neighbor and post answers to questions you’ve asked – others may also be looking for the same thing.  Always remove the responders’ names and contact information from the summary – post only the information that was sent to you.
