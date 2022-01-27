@@ -19,7 +19,7 @@ weight: 1
 
 ---
 
-<div class="deck"><p>The State of Federal RPA report describes the growth and maturity of Federal RPA Programs to convey agency progress in digital transformation and automation.</p></div>
+_The State of Federal RPA report describes the growth and maturity of Federal RPA Programs to convey agency progress in digital transformation and automation._
 
 Robotic Process Automation (RPA) was introduced to the federal government several years ago and is now recognized as a powerful processing and automation tool. RPA technologies emulate human actions and dramatically reduce an organization’s low value workload, freeing up employee time for higher-value work.
 
