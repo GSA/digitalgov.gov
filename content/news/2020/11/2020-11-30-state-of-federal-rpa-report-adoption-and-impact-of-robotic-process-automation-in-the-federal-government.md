@@ -1,11 +1,8 @@
 ---
 date: 2020-11-30 09:48:00 -0500
 kicker: Robotic Process Automation
-title: "State of Federal RPA Report: Adoption and Impact of Robotic Process
-  Automation in the Federal Government"
-deck: "The State of Federal RPA report describes the growth and maturity of Federal RPA Programs to convey agency progress in digital transformation and automation."
-summary: The report describes the maturity and growth of RPA programs to convey
-  agency progress in digital transformation and automation.
+title: "State of Federal RPA Report: Adoption and Impact of Robotic Process Automation in the Federal Government"
+summary: "The report describes the maturity and growth of RPA programs to convey agency progress in digital transformation and automation."
 # See all topics at https://digital.gov/topics
 topics:
   - rpa
@@ -19,11 +16,12 @@ primary_image: rpa-state-update
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
 
+_The State of Federal RPA report describes the growth and maturity of Federal RPA Programs to convey agency progress in digital transformation and automation._
+
 Robotic Process Automation (RPA) was introduced to the federal government several years ago and is now recognized as a powerful processing and automation tool. RPA technologies emulate human actions and dramatically reduce an organization’s low value workload, freeing up employee time for higher-value work.
-
-
 
 To summarize and measure the progress of Federal RPA programs over the last two years, the RPA Community of Practice is proud to announce the publication of the [State of Federal RPA Report](https://digital.gov/guides/rpa/state-of-federal-rpa/). This report:  
 
