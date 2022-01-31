@@ -33,12 +33,12 @@ All scan data can be accessed through the [Site Scanning API](https://open.gsa.g
 
 ## Learn more about the program, the scans, and the underlying data
 
-Each scan and report page is documented in detail in the program's [documentation hub](https://github.com/18F/site-scanning-documentation).  The major sections include: 
+Much deeper program detail can be found in the program's [documentation hub](https://github.com/gsa/site-scanning-documentation).  The major sections include: 
 
-- [Understanding the Data](https://github.com/18F/site-scanning-documentation#understanding-the-data)
-- [About the Program](https://github.com/18F/site-scanning-documentation#about)
-- [Program Management Documentation](https://github.com/18F/site-scanning-documentation#program-management)
-- [Technical Documentation](https://github.com/18F/site-scanning-documentation#technical) 
+- [Understanding the Data](https://github.com/gsa/site-scanning-documentation#understanding-the-data)
+- [About the Program](https://github.com/gsa/site-scanning-documentation#about)
+- [Program Management Documentation](https://github.com/gsa/site-scanning-documentation#program-management)
+- [Technical Documentation](https://github.com/gsa/site-scanning-documentation#technical) 
   
 ## Contact the Site Scanning Team
 
