@@ -44,4 +44,4 @@ The creation of the underlying website index is explained in the separate [Feder
 
 ## Contact the Site Scanning Team
 
-**Questions?** Email the [Site Scanning team](mailto:site-scanning@gsa.gov).
+**Questions?** Email the Site Scanning team at [site-scanning@gsa.gov](mailto:site-scanning@gsa.gov).
