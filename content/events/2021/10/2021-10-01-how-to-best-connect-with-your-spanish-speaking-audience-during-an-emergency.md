@@ -29,7 +29,7 @@ primary_image: "multilingual-october-2021-event-title-card"
 
 ---
 
-[Read the Event Recap](https://digital.gov/2022/01/24/webinar-recap-how-to-best-connect-with-your-spanish-speaking-audience-during-an-emergency/)
+[Read the Event Recap](https://digital.gov/2022/01/24/webinar-recap-how-to-best-connect-with-your-spanish-speaking-audience-during-an-emergency/).
 
 Join us for an exciting virtual event as we celebrate Hispanic Heritage Month! The [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) is trying out a new format this time: A panel discussion with experts from different agencies who will share how they've used social media to reach Hispanic/Latinx audiences during emergencies and COVID-19. You’ll have a chance to be a part of the conversation by asking questions to the panelists. We hope to see you there!
 
