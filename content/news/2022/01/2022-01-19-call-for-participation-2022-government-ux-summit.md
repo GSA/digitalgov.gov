@@ -54,7 +54,7 @@ See example presentations from the [2019 Government UX Summit](https://digital.g
 {{< box >}}
 **Participate as a presenter!** [Use this form to submit a topic](https://feedback.gsa.gov/jfe/form/SV_eE86j94KMtvA6MK).
 
-**Proposals are due Friday, February 4, 2022.**
+**Proposals are due Tuesday, February 8, 2022.**
 {{< /box >}}
 
 *For defined submission requirements see the section below.*
