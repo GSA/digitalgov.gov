@@ -9,11 +9,11 @@ aliases:
   - /guide/site-scanning/understanding-the-data/
 ---
 
-The Site Scanning engine runs against the full list of federal goverment websites and analyzes various aspects of them.  
+The Site Scanning engine runs against the [full list of federal goverment websites](https://github.com/GSA/federal-website-index) and analyzes various aspects of them.  
 
 The scans operate without authentication over the public internet. Using a headless browser (a browser without a graphical interface), they load each Target URL and inspect what would normally be returned to a user who is visiting that page with a web browser.  The results of these inspections form the data that Site Scanning makes available. 
 
-The scans currently collect the following data about each target URL.  A complete data dictionary with much more detail can be found [in the documentation repository](https://github.com/18F/site-scanning-documentation/blob/main/data/Site_Scanning_Data_Dictionary.csv).
+The scans currently collect the following data about each target URL.  A complete data dictionary with much more detail can be found [in the documentation repository](https://github.com/GSA/site-scanning-documentation/blob/main/data/Site_Scanning_Data_Dictionary.csv).
 
 
 | General  |  USWDS | DAP  | SEO  | Third Party Services  |
@@ -26,4 +26,4 @@ The scans currently collect the following data about each target URL.  A complet
 |  404 Configuration |   |   |   |   |
 
   
-_Have ideas for what else we should be scanning for? Please [file an issue](https://github.com/18F/site-scanning/issues) or add your idea [to the list of proposed future scans](https://github.com/18F/site-scanning-documentation/blob/main/about/roadmap.md)!_
+_Have ideas for what else we should be scanning for? Please [file an issue](https://github.com/gsa/site-scanning/issues) or add your idea [to the list of proposed future scans](https://github.com/GSA/site-scanning-documentation/blob/main/pages/candidate-scans.md)!_
