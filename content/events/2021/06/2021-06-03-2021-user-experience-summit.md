@@ -147,7 +147,7 @@ In this session you will hear from the following speakers:
 * **Andrew Fichter** &mdash; U.S. Department of Veterans Affairs (VA)
 * **Maria Vidart-Delgado** &mdash; Contractor, U.S. Department of Veterans Affairs (VA)
 
-{{< youtube _JjiOp1iz1gE >}}
+{{< youtube JjiOp1iz1gE >}}
 
 - - -
 
