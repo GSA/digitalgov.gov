@@ -8,7 +8,7 @@ weight: 1
 
 ---
 
-<div class="deck"><p>The GSA Office of Government-wide Policy is proud to announce the successful launch of its newest IT Portfolio management tool, Folio. Folio, designed by the Federal eCPIC Steering Committee (FESCOM), is the successor to the eCPIC application, which served as the premier government-wide shared service for over 15 years! This modern application provides federal agencies with new benefits through Folio’s improved user interface, flexible data collection capabilities, and modern technology stack.</p></div>
+<div class="deck"><p>The GSA Office of Government-wide Policy is proud to announce the successful launch of its newest IT Portfolio management tool, Folio. Folio, designed by the Federal eCPIC Steering Committee (FESCOM), is the successor to the Electronic Capital Planning and Investment Control (eCPIC) application, which served as the premier government-wide shared service for over 15 years! This modern application provides federal agencies with new benefits through Folio’s improved user interface, flexible data collection capabilities, and modern technology stack.</p></div>
 
 If you are interested in learning more about the Folio tool, please [email the project management office](mailto:folio.pmo@gsa.gov) for additional information and to schedule a demonstration.
 
