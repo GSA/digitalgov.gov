@@ -19,7 +19,6 @@ topics:
   - united-states-department-of-energy
   - USDS
   - user-experience
-  
 
 ---
 
@@ -33,7 +32,7 @@ This is a fact that cannot be overstated, regardless of platform (blog, social m
 
 2. <strong>Be genuine</strong>: You [your agency] are who you are. What’s the value in jumping onto every trending hashtag, just for a few potential views? (An honest question each agency should ask themselves, I realize there could—and should—be two sides to this). Content these days <a href="http://www.copyblogger.com/content-marketing-glossary/#content-marketing">takes the form of many shapes</a>. As government communicators, the type of content you share is closely related to what you are offering as an agency—the types of services you provide. In other words, you educate people so that they know, like, and trust you enough to hear your message and take action.
 
-3. <strong>Be a risk taker</strong>: With the above in mind, we still want to be spontaneous. The Internet can often just sound like <a href="http://giphy.com/gifs/anchorman-loud-whqlS9qH34xwc">LOUD NOISES</a> … with everyone mindlessly scrolling through their social feeds. Don’t be afraid to say the message you wanted to say a different way. The National Weather Service (NWS) <a href="https://twitter.com/nws/status/719623142461857792">did a great job of this</a> (with pun intended) as did the Department of Energy (DOE). To spur greater public dialogue about the future of solar energy, DOE “<a href="{{< ref "2016-04-06-remixing-content-shining-sunlight-on-the-sunshot-initiatives-solar-energy-rd-project-map.md" >}}">remixed their content</a>,” displaying their projects on an interactive map as part of the SunShot Initiative. {{< tweet 719623142461857792 >}}
+3. <strong>Be a risk taker</strong>: With the above in mind, we still want to be spontaneous. The Internet can often just sound like <a href="http://giphy.com/gifs/anchorman-loud-whqlS9qH34xwc">LOUD NOISES</a> … with everyone mindlessly scrolling through their social feeds. Don’t be afraid to say the message you wanted to say a different way. The National Weather Service (NWS) <a href="https://twitter.com/nws/status/719623142461857792">did a great job of this</a> (with pun intended) as did the Department of Energy (DOE). To spur greater public dialogue about the future of solar energy, DOE “<a href="{{< ref "2016-04-06-remixing-content-shining-sunlight-on-the-sunshot-initiatives-solar-energy-rd-project-map.md" >}}">remixed their content</a>,” displaying their projects on an interactive map as part of the SunShot Initiative. {{< tweet user="NWS" id="719623142461857792" >}}
 
 4. <strong>Have a short memory</strong>: Getting stuck on the first mistake can deter future successes. Keep looking ahead, and remember to stick to the plan you’ve laid out for connecting with your audience (with tweaks here and there based on your results). (Football reference below, at the risk of turning off many readers—good NFL cornerbacks are <a href="http://www.nfl.com/news/story/0ap3000000639931/article/hargreaves-leads-safest-picks-among-cbs-in-2016-nfl-draft">said to have short memories</a> so they can move on after a bad play—<a href="http://kryptonianroe.tumblr.com/post/101556575022">like this guy</a>).
 
