@@ -18,6 +18,7 @@ topics:
   - the-content-corner
   - United States Patent and Trademark Office
   - USPTO
+
 ---
 
 As effective marketers and communicators, we are constantly seeking new and improved ways to reach our audience or customer base. These days, our “online lives” intersect with every activity we are involved in, so timeliness is essential. With fresh ideas and engaging, perhaps interactive, content, we can literally make a difference in the lives of our audience. {{< legacy-img src="2016/08/600-x-404-Hands-of-gymnast-alexemanuel-iStock-Thinkstock-465458826-1.jpg" alt="Hands of gymnast." caption="" >}} 
@@ -44,9 +45,9 @@ The [U.S. Patent and Trademark Office](https://www.uspto.gov/) (USPTO) reviewed 
 
 Said Mike, “You can AND SHOULD review the specific guidelines covering use for editorial purposes, by community organizations, and for educational purposes [available here](http://www.teamusa.org/brand-usage-guidelines).”
 
-{{< tweet 431481829195931648 >}}
+{{< tweet user="uspto" id="431481829195931648" >}}
 
-{{< tweet 433981593019879424 >}}
+{{< tweet user="uspto" id="433981593019879424" >}}
 
 So how can you tap Into the Olympic Games convo without annoying the USOC? Generally speaking, avoid making direct reference to the Olympics and using their hashtags, and instead, consider inserting your brand into the surrounding discussion.
 
