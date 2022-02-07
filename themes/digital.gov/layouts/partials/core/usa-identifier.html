@@ -8,7 +8,7 @@
     <div class="usa-identifier__container">
       <div class="usa-identifier__logos">
         <a href="{{ .parent_agency.url }}" class="usa-identifier__logo">
-          <img class="usa-identifier__logo-img" src="{{ .parent_agency.logo }}" alt="{{ .parent_agency.acronym }} logo" role="img">
+          <img class="usa-identifier__logo-img" src="{{ .parent_agency.logo | relURL }}" alt="{{ .parent_agency.acronym }} logo" role="img">
         </a>
       </div>
       <div class="usa-identifier__identity" aria-label="Agency description">
