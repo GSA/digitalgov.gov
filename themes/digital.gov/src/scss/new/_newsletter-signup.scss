@@ -117,6 +117,18 @@
       }
 
     }
+    .hbspt-form{
+      div{
+        @include u-margin-top('105');
+        @include u-font('sans', 'lg');
+        @include u-text('light');
+        @include u-text('white');
+        @include u-line-height('sans', 3);
+        strong{
+          @include u-text('bold');
+        }
+      }
+    }
   }
 }
 //
