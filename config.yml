@@ -98,6 +98,12 @@ related:
 
 pluralizelisttitles     : false
 
+security:
+  funcs:
+    getenv:
+      - ^SITE_
+      - ^BRANCH
+
 menu:
   primary:
     - Name            : "News"
