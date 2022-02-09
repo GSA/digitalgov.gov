@@ -26,27 +26,20 @@ primary_image: plain-language
 
 
 {{< note >}}
-Note: If you missed this event, [read the recap blog](https://www.digital.gov).
-{{< /note >}}
-
-
-{{< card-quote text="If you missed this event, [read the recap blog](https://www.digital.gov)." cite="" >}}
-
+If you missed this event, [read the recap blog](https://www.digital.gov).
 
 [View the slides (PowerPoint, 1.5 MB, 30 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-january-2022-distro.pptx.zip)
+{{< /note >}}
 
+At this event, lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
-
-
-
-Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-## Resources
+Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+## Resources
+
+Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
 
 - One
 - Two
