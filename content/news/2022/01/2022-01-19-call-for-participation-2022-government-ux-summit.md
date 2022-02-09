@@ -1,8 +1,8 @@
 ---
 date: 2022-01-19 15:47:00 -0500
 kicker: User Experience
-title: Call for Participation: 2022 Government UX Summit
-summary: Learn more about the User Experience Summit submission process, and submit your presentations for consideration!
+title: "Call for Participation: 2022 Government UX Summit"
+summary: "Learn more about the User Experience Summit submission process, and submit your presentations for consideration!"
 
 # See all topics at https://digital.gov/topics
 topics:
