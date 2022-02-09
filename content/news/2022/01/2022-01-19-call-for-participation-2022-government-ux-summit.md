@@ -1,8 +1,9 @@
 ---
 date: 2022-01-19 15:47:00 -0500
 kicker: User Experience
-title: "Call for Participation: 2022 Government UX Summit"
-summary: "Learn more about the User Experience Summit submission process, and submit your presentations for consideration!"
+title: Call for Participation: 2022 Government UX Summit
+summary: Learn more about the User Experience Summit submission process, and submit your presentations for consideration!
+deck: We are looking for federal speakers to share their experiences as UX practitioners in government.
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -24,25 +25,23 @@ weight: 1
 
 ---
 
-We are looking for federal speakers to share their experiences as UX practitioners in government.
-
----
-
 {{< note >}}
 **The February 8th deadline for submissions has passed.**
-We have received a number of submissions on a wide variety of topics related to UX! 
+We have received a number of submissions on a wide variety of topics related to UX!
 
 **Registration for the 2022 UX Summit will be open soon.**
 We will send a notification to the User Experience community once the registration is open. The summit will be held from June 07-08, 2022.
-
 {{< /note >}}
 
 ## Call for Presenters
 
 A committee of government employees will review the submissions and select the presentations for the program based on the relevance, usefulness, and quality of the submission and qualifications of the presenters. We expect to finalize the program in May.
 
-See example presentations from the [2019 Government UX Summit](https://digital.gov/event/2019/05/15/2019-government-ux-summit/), [2020 Government UX Summit](https://digital.gov/event/2020/07/28/2020-government-ux-summit/), and [2021 Government UX Summit](https://digital.gov/event/2021/06/22/2021-user-experience-summit/).
+See example presentations from prior summits:
 
+* [2019 Government UX Summit](https://digital.gov/event/2019/05/15/2019-government-ux-summit/)
+* [2020 Government UX Summit](https://digital.gov/event/2020/07/28/2020-government-ux-summit/)
+* [2021 Government UX Summit](https://digital.gov/event/2021/06/22/2021-user-experience-summit/)
 
 **For more information or questions regarding this year's UX Summit, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Beth Martin at [beth.martin@faa.gov](mailto:Beth.martin@faa.gov).**
 
