@@ -26,71 +26,27 @@ weight: 1
 
 We are looking for federal speakers to share their experiences as UX practitioners in government.
 
+---
+
 {{< note >}}
-Note: The 2022 UX summit will be held June 7-8, 2022. Registration for the summit will open in the coming months. We will update this page and notify the community when the registration opens.
+**The February 8th deadline for submissions has passed.**
+We have received a number of submissions on a wide variety of topics related to UX! 
+
+**Registration for the 2022 UX Summit will be open soon.**
+We will send a notification to the User Experience community once the registration is open. The summit will be held from June 07-08, 2022.
+
 {{< /note >}}
 
 ## Call for Presenters
-
-The User Experience (UX) Community of Practice is seeking submissions for presentations at the 2022 Government UX Summit, to be held June 7-8, 2022. Submissions should be on topics of interest to the federal UX community and general public. Instructions and additional information are below.
 
 A committee of government employees will review the submissions and select the presentations for the program based on the relevance, usefulness, and quality of the submission and qualifications of the presenters. We expect to finalize the program in May.
 
 See example presentations from the [2019 Government UX Summit](https://digital.gov/event/2019/05/15/2019-government-ux-summit/), [2020 Government UX Summit](https://digital.gov/event/2020/07/28/2020-government-ux-summit/), and [2021 Government UX Summit](https://digital.gov/event/2021/06/22/2021-user-experience-summit/).
 
-### Considerations for Submitters
 
-1. Presentations must be focused on U.S. federal government work (such as a federal government UX case study, a federal agency UX initiative, etc.). Federal employees must be included and identified as the lead speaker.
-2. Presentation materials must be accessible, following the [Revised Section 508 Standards](https://www.section508.gov/create/). Those needing assistance to make their materials accessible should [contact their agency’s 508 Program Manager](https://www.section508.gov/tools/coordinator-listing/).
-3. During the event, presenters must follow [Digital.gov’s Accessible Event Tips](https://github.com/GSA/digitalgov.gov/wiki/Accessible-Event-Tips), providing audio descriptions for images, reciting names for speaker changes, identifying slide numbers for audience members, etc.
-4. Presentation materials must follow all [Digital.gov Community Guidelines](https://digital.gov/communities/manage-your-subscription/), including not endorsing private companies, brands, programs, or tools, and they must not contain any copyrighted images or materials.
-5. Presenters must submit the final version of their presentation at least one week before the summit. Presentation materials used during the summit will be posted to the Digital.gov event page before the summit begins.
-6. Videos of the sessions will not be posted. Instead, accepted presenters will be invited to share a 5-minute talk giving the highlights of their presentation at a follow-up, one-hour event on June 15.
+**For more information or questions regarding this year's UX Summit, please contact Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Beth Martin at [beth.martin@faa.gov](mailto:Beth.martin@faa.gov).**
 
-## Submission of materials
-
-*All submissions should have a focus on UX work in the U.S. federal government, or tie in to federal UX work.*
-
-{{< box >}}
-**Participate as a presenter!** [Use this form to submit a topic](https://feedback.gsa.gov/jfe/form/SV_eE86j94KMtvA6MK).
-
-**Proposals are due Tuesday, February 8, 2022.**
-{{< /box >}}
-
-*For defined submission requirements see the section below.*
-
-{{< accordion kicker="2022 Government UX Summit" title="Requirements for Submissions" icon="" >}} You will need the following information for your submission:
-
-<ol type='1'>
-<li>Title of presentation (title should clearly describe what you will cover)</li>
-<li>Name, government email, position, and organization of all speakers.
-<ol type='a'>
-<li>For submissions that will have multiple speakers or panelists, identify the primary point of contact. (The primary speaker <strong>must be a federal employee</strong>.)</li>
-</ol>
-</li>
-<li>Preferred presentation length—including time for live questions and answers:
-<ol type='a'>
-<li>15 minutes</li>
-<li>60 minutes</li>
-</ol>
-</li>
-<li>Presentation topic (topic area examples are below)
-<ol type='a'>
-<li>Accessibility</li>
-<li>Career Development</li>
-<li>Design</li>
-<li>Research</li>
-<li>UX Methods</li>
-<li>UX Management</li>
-<li>Other related topics</li>
-</ol>
-</li>
-<li>Target audience (novice, intermediate, advanced, or everyone)</li>
-<li>Abstract to be included in the virtual program (max 100 words); further instructions are provided in the submission form</li>
-<li>Presentation proposal; a description of the session for the review (max 500 words)</li>
-<li>Submitter qualifications (why you and any other presenters are qualified to present on this topic)</li>
-</ol>
-{{< /accordion >}}
+- - -
 
 ## Accessibility Guidelines
 
@@ -112,8 +68,6 @@ By submitting a presentation for review, the submitter and panelists agree to th
 {{< /accordion >}}
 
 - - -
-
-_For more information or questions regarding this year’s UX Summit, please contact the UX Summit leads, Jean Fox at [Fox.Jean@bls.gov](mailto:Fox.Jean@bls.gov) or Beth A. Martin at [beth.martin@faa.gov](mailto:Beth.martin@faa.gov)._
 
 _The 2022 Government UX Summit is hosted by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and [Digital.gov](https://digital.gov/about/)._
 
