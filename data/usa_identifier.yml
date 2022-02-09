@@ -1,0 +1,34 @@
+# USWDS Identifier component data
+# See usa-identifier.html for the template
+identifier_data:
+  aria_label: Agency identifier
+  domain: Digital.gov
+  site_url: https://digital.gov/
+  parent_agency:
+    name: U.S. General Services Administration
+    acronym: GSA
+    logo: /img/gsa-logo-w100.png
+    url: https://www.gsa.gov
+  required_links:
+    label: Important links
+    links:
+      - label: About GSA
+        url: https://www.gsa.gov/about-us
+      - label: Accessibility support
+        url: https://www.gsa.gov/website-information/accessibility-aids
+      - label: FOIA requests
+        url: https://www.gsa.gov/reference/freedom-of-information-act-foia
+      - label: No FEAR Act data
+        url: https://www.gsa.gov/about-us/organization/office-of-civil-rights/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002
+      - label: Office of the Inspector General
+        url: https://www.gsaig.gov/
+      - label: Performance reports
+        url: https://www.gsa.gov/reference/reports/budget-performance
+      - label: Privacy policy
+        url: https://www.gsa.gov/website-information/website-policies
+  usagov:
+    label: U.S. government information and services
+    description: Looking for U.S. government information and services?
+    link:
+      label: Visit USA.gov
+      url: https://www.usa.gov/
