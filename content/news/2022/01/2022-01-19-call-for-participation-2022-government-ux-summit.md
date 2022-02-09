@@ -3,7 +3,6 @@ date: 2022-01-19 15:47:00 -0500
 kicker: User Experience
 title: Call for Participation: 2022 Government UX Summit
 summary: Learn more about the User Experience Summit submission process, and submit your presentations for consideration!
-deck: "We are looking for federal speakers to share their experiences as UX practitioners in government."
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -24,8 +23,6 @@ primary_image: ux-summmit-title-card-twenty-twenty-two-title-card
 weight: 1
 
 ---
-
-
 
 {{< note >}}
 **The February 8th deadline for submissions has passed.**
@@ -55,7 +52,7 @@ If the submission is selected for the 2022 UX Summit, Digital.gov will provide g
 
 ## Evaluation Process 
 
-By submitting a presentation for review, the submitter and panelists agree to the UX Summit review process. A committee composed of government employee volunteers will review all submissions.
+By submitting a presentation for review, the submitter, and panelists agree to the UX Summit review process. A committee composed of government employee volunteers will review all submissions.
 
 {{< accordion kicker="2022 Government UX Summit" title="Evaluation Considerations" icon="" >}} To make the final selections, the reviewers will consider the following for each submission:
 
