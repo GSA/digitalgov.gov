@@ -29,7 +29,7 @@ The USWDS team will discuss how an API might help us work all together more effe
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
 
-**About the USWDS**
+## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
