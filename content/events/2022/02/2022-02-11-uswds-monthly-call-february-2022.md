@@ -1,6 +1,6 @@
 ---
 title: "USWDS Monthly Call - February 2022"
-kicker: USWDS
+kicker: Moving Toward a USWDS API
 summary: In this event, we will explore possibilities for a component API for the U.S. Web Design System.
 
 host: U.S. Web Design System
@@ -22,8 +22,6 @@ slug: uswds-monthly-call-february-2022
 event_platform: zoom
 
 ---
-
-<div class="deck"><p>Moving Toward a USWDS API.</p></div>
 
 What would it look like to implement and customize our design system via a component API? 
 
