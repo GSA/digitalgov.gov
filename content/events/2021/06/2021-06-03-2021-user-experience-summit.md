@@ -147,6 +147,8 @@ In this session you will hear from the following speakers:
 * **Andrew Fichter** &mdash; U.S. Department of Veterans Affairs (VA)
 * **Maria Vidart-Delgado** &mdash; Contractor, U.S. Department of Veterans Affairs (VA)
 
+{{< youtube JjiOp1iz1gE >}}
+
 - - -
 
 ## Open Source Information Architecture Design: Using the Tools You Have To Conduct Card Sorting and Tree Testing (1:45 pm - 2:45 pm, ET)

@@ -14,6 +14,12 @@ topics:
   - communication
   - writing
 
+# See all authors at https://digital.gov/authors
+authors:
+  - deanna-mccray-james
+  - josie-anderson
+  - raashee-gupta-erry
+
 community_list:
   - platform: listserv
     type: government

@@ -17,6 +17,7 @@ topics:
   - ecpic
   - fedramp
   - tos
+
 ---
 
 Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to [design a system]({{< ref "2013-07-18-how-to-create-a-customer-experience-index.md" >}}) to consistently measure customer satisfaction across our office. We were inspired by the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), which tasks agencies to adopt a customer-centric approach to service delivery.
@@ -35,7 +36,7 @@ Finally, we shared the survey data with the entire staff, and we instituted an a
 
 ## Easy and Relevant
 
-This year, we added a new core question, asking how easy it is for you to use our programs. We learned that we have some work to do in this area, particularly with more technical programs such as [FedRAMP (cloud computing)](https://www.fedramp.gov/), [Electronic Capital Planning and Investment Control (eCPIC)]({{< ref "electronic-capital-planning-and-investment-control-ecpic.md" >}}), and [Digital Analytics Program (DAP)]({{< ref "/guides/dap/_index.md" >}}). In response, these programs now offer more frequent training, agency consultations and/or “office hours” for customers to call in and get one-on-one assistance.
+This year, we added a new core question, asking how easy it is for you to use our programs. We learned that we have some work to do in this area, particularly with more technical programs such as [FedRAMP (cloud computing)](https://www.fedramp.gov/), [Electronic Capital Planning and Investment Control (eCPIC)](https://digital.gov/services/electronic-capital-planning-and-investment-control-ecpic/), and [Digital Analytics Program (DAP)]({{< ref "/guides/dap/_index.md" >}}). In response, these programs now offer more frequent training, agency consultations and/or “office hours” for customers to call in and get one-on-one assistance.
 
 In the fast-moving tech world, it’s important to be proactive, so when a listserv conversation highlights a knowledge gap, we build a [training class]({{< ref "/about/digitalgov-university.md" >}}). When an agency wants to try a new social tool, we partner with them to implement a [federal-friendly terms of service agreement]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}). We’re streamlining our training library with [event recap articles]({{< ref "/topics/recaps" >}}), to help you quickly review the highlights if you don’t have time to watch an entire event. Finally, we’re curating [topical playlists of video content](https://www.youtube.com/digitalgov/playlists) to make it easier to find past events.
 

@@ -5,9 +5,13 @@ contact: folio.pmo@gsa.gov
 source: "digitalgov"
 logo: 'digitalgov'
 weight: 1
+
+aliases:
+  - /services/electronic-capital-planning-and-investment-control-ecpic/
+
 ---
 
-<div class="deck"><p>The GSA Office of Government-wide Policy is proud to announce the successful launch of its newest IT Portfolio management tool, Folio. Folio, designed by the Federal eCPIC Steering Committee (FESCOM), is the successor to the eCPIC application, which served as the premier government-wide shared service for over 15 years! This modern application provides federal agencies with new benefits through Folio’s improved user interface, flexible data collection capabilities, and modern technology stack.</p></div>
+<div class="deck"><p>The GSA Office of Government-wide Policy is proud to announce the successful launch of its newest IT Portfolio management tool, Folio. Folio, designed by the Federal eCPIC Steering Committee (FESCOM), is the successor to the Electronic Capital Planning and Investment Control (eCPIC) application, which served as the premier government-wide shared service for over 15 years! This modern application provides federal agencies with new benefits through Folio’s improved user interface, flexible data collection capabilities, and modern technology stack.</p></div>
 
 If you are interested in learning more about the Folio tool, please [email the project management office](mailto:folio.pmo@gsa.gov) for additional information and to schedule a demonstration.
 
@@ -19,15 +23,13 @@ If you are interested in learning more about the Folio tool, please [email the p
 
 The Folio application automates capital planning and portfolio management processes for government agencies to effectively mature their investment management strategies and achieve agency mission goals and objectives.
 
-## Our Goals:
+## Our Goals
 
-* Happy Federal Partners
+* Happy federal partners
 * Mature the level of IT Capital Planning and IT Investment Management controls and processes across federal agencies
-* Assist OMB in creating effective guidance and providing value added oversight by being their IT capital planning and IT investment management subject matter expert
-* Increase Agency adoption of the Folio tool
+* Assist the Office of Management and Budget (OMB) in creating effective guidance and providing value added oversight by being their IT capital planning and IT investment management subject matter expert
+* Increase agency adoption of the Folio tool
 * Utilize the FESCOM to modernize the Folio application to improve current capability, take advantage of modern technologies, and ensure the future security of the Folio tool
-
----
 
 ## Folio Agencies
 
@@ -49,12 +51,9 @@ The Folio application automates capital planning and portfolio management proces
 - U.S. Small Business Administration (SBA)
 - U.S. Social Security Administration (SSA)
 
-
----
-
 ## Frequently Asked Questions
 
-Below lists Frequently Asked Questions (FAQs) asked during demonstrations of the Folio software.
+Below are frequently asked questions (FAQs) that come up during demonstrations of the Folio software.
 
 **Why did you modernize to Folio?**
 
@@ -62,9 +61,10 @@ Modernizing to Folio eliminated the pains of maintaining a legacy eCPIC applicat
 
 **How was Folio created?**
 
-Folio was created in three phases: **Vision**, **Design**, and **Develop**. The Folio lifecycle incorporated key modernization goals in each phase, a user-centered design approach, and continuous iteration and development.
+Folio was created in three phases: vision, design, and develop. The Folio lifecycle incorporated key modernization goals in each phase, a user-centered design approach, and continuous iteration and development.
+
 1. **Vision**: GSA worked with agencies to select key goals and prioritize functionality.
-2. **Design**: We relied on usability testing and Tiger Teams to gather and incorporate frequent user feedback.
+2. **Design**: We relied on usability testing and tiger teams to gather and incorporate frequent user feedback.
 3. **Develop**: We developed (and will continue to develop) in agile iterations to test, adjust, and release Folio functionality on a regular basis.
 
 **Does Folio integrate with other tools?**
