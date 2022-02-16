@@ -123,46 +123,13 @@ As always, I encourage you to join our community in the #uswds-public Slack chan
 Follow us on Github at github.com/uswds, check out our website, and [visit this site] (https://designsystem.digital.gov/about/community/) to join us and your colleagues across government who are using USWDS.
 
 Thank you, and see you next month!
-
 {{< /accordion >}}
 
-For the USWDS December Monthly Call, we looked at USWDS 2.13.0 and then dug into rapid web prototyping with USWDS. 
+---
 
-## USWDS 2.13.0
+How can designers and developers work together to design in code? How can prototypes help answer critical design questions? How can USWDS help you build faster than you might have thought possible? 
 
-The latest USWDS release focuses on accessibility. Note that it has a required markup change in the small search button and in the footer social buttons. See the [complete release notes] (https://github.com/uswds/uswds/releases/tag/v2.13.0?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc) for more on how to implement USWDS 2.13.0. Here are some key features in this release:
-
-* File upload confirms files to screen readers.
-* Background is now completely inert when mobile nav is active.
-* Improved ARIA labeling in date picker component.
-* Resolved deprecation warnings.
-* Improved resilience of icon-only buttons.
-* Required manual markup changes: search button and footer social buttons.
-
-This is most likely the last minor release before USWDS 3.0.0, which we will be releasing in the new year!
-
-## Rapid web prototyping with USWDS is useful to almost any project
-
-Why do it? Rapid prototyping accelerates learning, reduces risk, and improves outcomes.
-
-* Testing small interactive prototypes generates meaningful feedback early in the process.
-* Using USWDS tokens and utility classes aligns design and development around a common design language.
-* Prototyping can involve the whole team and create a shared understanding of what you’re building.
-
-## You can prototype with USWDS faster than you might expect
-
-Here are some quick ways to get started with web prototyping:
-
-* Don't bother compiling. Use compiled CSS and JS with [CDNJS] (https://cdnjs.com/libraries/uswds?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc).
-* Use a tool like [CodePen] (https://codepen.io/?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc) to code in the browser with instant rendering.
-* Cut and paste component code from [the USWDS website] (https://designsystem.digital.gov/components/overview/?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc) right into your CodePen.
-* Customize the look and feel with [utility classes] (https://designsystem.digital.gov/utilities/?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc).
-
-We provided a few templates in CodePen: a [blank slate] (https://codepen.io/pglevy/pen/gOxNXGY?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc), [page boilerplate] (https://codepen.io/pglevy/pen/abBgJbe?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc), and a simple [USWDS user flow] (https://codepen.io/pglevy/pen/mdMZXOX?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc). 
-
-Once you've graduated from CodePen, [uswds-sandbox] (https://github.com/uswds/uswds-sandbox?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc) can be an effective starting point for more complex Jekyll-based prototypes.
-
-For more information, see the [handout] (https://federalist-d5e7c07c-6ffa-4b8e-935f-49a7df24a505.app.cloud.gov/preview/uswds/uswds-sandbox/rwp-with-uswds/?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc) from the monthly call.
+Join the USWDS team for our December call, as we look at rapid prototyping with USWDS.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events.*
 
