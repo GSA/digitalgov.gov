@@ -23,6 +23,8 @@ event_platform: zoom
 
 ---
 
+[View the slides (PowerPoint, 13.4 MB, 75 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-february-2022-distro.pptx.zip)
+
 What would it look like to implement and customize our design system via a component API? 
 
 Join us for a discussion of what might be next for USWDS after the release of USWDS 3.0 this spring.
