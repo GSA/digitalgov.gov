@@ -38,8 +38,10 @@ youtube_id: TQ2CXlEY3qw
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 
   - /event/online-dap-learning-series-visualizing-analytics-data-part-2/
+  - /event/dap-learning-series-visualizing-analytics-data-in-excel/
 
 # Make it better ♥
+
 ---
 
 ## About the training
@@ -53,6 +55,13 @@ There are both paid and free tools where you can create dashboards with logos, c
 - How to create a KPI dashboard
 - How to style and size charts, editing font, color, placement, etc
 - How to embed a dashboard you created into a web page
+
+### Related Resources
+
+* [Guide to the Digital Analytics Program](https://digital.gov/guides/dap/)
+* [DAP Learning Series Recording – Visualizing Analytics Data Part 1](https://www.youtube.com/watch?v=HSJq7OTaF0Q) 
+* [DAP Learning Series Recording – Visualizing Analytics Data Part 2](https://www.youtube.com/watch?v=TQ2CXlEY3qw) 
+* [DAP Playlist - YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba)
 
 ## Presenters
 
