@@ -54,6 +54,15 @@ There are both paid and free tools where you can create dashboards with logos, c
 - How to style and size charts, editing font, color, placement, etc
 - How to embed a dashboard you created into a web page
 
+---
+
+### Related Resources
+
+* [Guide to the Digital Analytics Program](https://digital.gov/guides/dap/)
+* [DAP Learning Series Recording – Visualizing Analytics Data Part 1](https://www.youtube.com/watch?v=HSJq7OTaF0Q) 
+* [DAP Learning Series Recording – Visualizing Analytics Data Part 2](https://www.youtube.com/watch?v=TQ2CXlEY3qw) 
+* [DAP Playlist - Youtube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba)
+
 ## Presenters
 
 **Freddie Blicher** is a Program Analyst on the DAP team. He has 10 years experience managing and implementing web analytics tools on websites and mobile apps for Hilton, Audi, Macy’s, Marriott International and Ritz-Carlton. He specializes in implementation, reporting and analysis using Google Analytics, Adobe, IBM Coremetrics and Webtrends analytics tools.
