@@ -4,7 +4,7 @@
 
 # slug — the specific user-id for an author.
 slug: michael-mule
-display_name: "Michael Mul&#233;"
+display_name: "Michael Mul&eacute;"
 first_name: "Michael"
 last_name: "Mul&eacute;"
 
