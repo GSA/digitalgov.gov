@@ -26,6 +26,8 @@ event_platform: zoom
 
 ---
 
+[View the slides](https://digital.gov/files/feb-2022-multilingual-event-lep.pptx) (PPT, 2.97 MB, 20 pages)
+
 This webinar will include ideas, resources, and examples of how you can improve access to your websites and digital services for people who are limited English proficient (LEP).
 
 The presentation will be based on the new guide, “[Improving Access to Public Websites and Digital Services for Limited English Proficient (LEP) Persons (PDF, 2.5 MB, 17 pages)](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf),” created by the [LEP subcommittee](https://www.lep.gov/) of Title VI of the Civil Rights Act of 1964 interagency working group.
