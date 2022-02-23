@@ -22,6 +22,7 @@ authors:
   - dominique-ramirez
   - elizabeth-molina
   - courtney-rogers
+  - victoria-bitzer-wales
 
 # see all topics at https://digital.gov/topics
 topics:
