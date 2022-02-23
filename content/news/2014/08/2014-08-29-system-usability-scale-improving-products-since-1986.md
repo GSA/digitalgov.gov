@@ -49,7 +49,9 @@ Here&#8217;s what an SUS looks like:
 
 ### Customizable Questions
 
-By alternating negative and positive statements, the SUS questions make people think hard about the experience; it prevents them from just saying &#8220;Yeah, it was great&#8221; the whole way down. Another great thing: You can tweak the wording or order to meet your needs without worrying about affecting the results. Even when the exact wording of the original survey is not used, the [results are still very reliable](http://www.upassoc.org/upa_publications/jus/2013february/JUS_Brooke_February_2013.pdf). {{< legacy-img src="2014/08/478-x-214-System-Usability-Scale-SUS-for-many-applications-Font-Awesome-by-Dave-Gandy-CC-BY-3.jpg" alt="System Usability Scale graphic fonts" caption="" >}} 
+By alternating negative and positive statements, the SUS questions make people think hard about the experience; it prevents them from just saying &#8220;Yeah, it was great&#8221; the whole way down. Another great thing: You can tweak the wording or order to meet your needs without worrying about affecting the results. Even when the exact wording of the original survey is not used, the results are still very reliable.
+
+{{< legacy-img src="2014/08/478-x-214-System-Usability-Scale-SUS-for-many-applications-Font-Awesome-by-Dave-Gandy-CC-BY-3.jpg" alt="System Usability Scale graphic fonts" caption="" >}} 
 
 Maybe you want to know if people think the smartphone app you created to help fill out taxes is easy to use. After testers finish trying to use the app, you can tack on a SUS survey at the end and substitute the original questionnaire wording &#8220;system” for “mobile app.” Voila! You have created a System Usability Scale survey for your specific product.
 
