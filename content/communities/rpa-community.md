@@ -14,7 +14,6 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - james-gregory
   - gabrielle-perret
 
 # Page weight: controls how this page appears across the site
@@ -45,24 +44,7 @@ The CoP helps agencies convert RPA enthusiasm into action. Specifically, the CoP
 
 ## Who We Are
 
-The RPA CoP comprises leaders across the federal government who share a passion for RPA.
-
-**Executive Sponsor**  
-Gerard Badorrek, General Services Administration
-
-**Community Lead**  
-James Gregory, General Services Administration: [james2.gregory@gsa.gov](mailto:james2.gregory@gsa.gov)
-
-**Management Committee**  
-Anju Anand, National Science Foundation  
-Kyle Brooks, Department of State  
-Christine Gex, National Aeronautics and Space Administration  
-Lattrice Goldsby, United States Department of Agriculture  
-Russell Kuehn, Social Security Administration  
-Michael Levinson, Army  
-Erica Thomas, Office of the Under Secretary of Defense  
-Paul Weekley, Department of the Treasury  
-Francis Wood, Defense Logistics Agency  
+The RPA CoP comprises leaders across the federal government who share a passion for RPA.  
 
 ## Resources
 
