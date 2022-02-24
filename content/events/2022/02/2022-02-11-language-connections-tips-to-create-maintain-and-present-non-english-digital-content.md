@@ -21,6 +21,7 @@ authors:
   - lgodfrey
   - ammie-farraj-feijoo
 slug: language-connections-tips-to-create-maintain-and-present-non-english-digital-content
+primary_image: feb-2022-multilingual-language-connections-title-card
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
