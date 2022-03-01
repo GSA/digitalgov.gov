@@ -1,6 +1,5 @@
 ---
-title: "Language Connections: Tips to Create, Maintain, and Present Non-English
-  Digital Content"
+title: "Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content"
 kicker: Multilingual & Web Content
 summary: Tips to help you improve access to your non-English digital content.
 host: Multilingual Community of Practice & Web Managers Community of Practice
@@ -21,6 +20,7 @@ authors:
   - lgodfrey
   - ammie-farraj-feijoo
 slug: language-connections-tips-to-create-maintain-and-present-non-english-digital-content
+primary_image: feb-2022-multilingual-language-connections-title-card
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
@@ -28,7 +28,7 @@ event_platform: zoom
 
 This webinar will include ideas, resources, and examples of how you can improve access to your websites and digital services for people who are limited English proficient (LEP).
 
-The presentation will be based on the new guide, “[Improving Access to Public Websites and Digital Services for Limited English Proficient (LEP) Persons (PDF, 2.5 MB, 17 pages)](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf),” created by the [LEP subcommittee](https://www.lep.gov/) of Title VI of the Civil Rights Act of 1964 interagency working group.
+The presentation will be based on the new guide, [Improving Access to Public Websites and Digital Services for Limited English Proficient (LEP) Persons (PDF, 2.5 MB, 17 pages)](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf), created by the [LEP subcommittee](https://www.lep.gov/) of Title VI of the Civil Rights Act of 1964 interagency working group.
 
 *This talk is co-hosted by Digital.gov, the Multilingual Community of Practice, and the Web Managers Community of Practice.*
 

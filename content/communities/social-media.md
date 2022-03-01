@@ -12,12 +12,12 @@ authors:
   - gabrielle-perret
   - paul-lester
   - joseph-galbo
-  - dominique-gebru
+  - victoria-wales
   - tanner-iskra
   - sara-eckert
   - laura-larrimore
   - jessica-hawkins
-  - david-j-taube
+  - christie-chung
   - author-gallow
   - dominique-ramirez
   - elizabeth-molina

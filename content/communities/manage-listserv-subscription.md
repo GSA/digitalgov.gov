@@ -164,4 +164,4 @@ Once you have your password, you can [login to the archive](https://listserv.gsa
 
 ## Questions?
 
-Please email your Listserv or community manager with general questions, or [Mark Kaprow](mailto:mark.kaprow@gsa.gov) with technical questions.
+Please email your Listserv or community manager with general questions, or [Listserv Support](mailto:listserv-request@listserv.gsa.gov) with technical questions.
