@@ -17,7 +17,7 @@ pronoun: ""
 slug: deb-lebel
 
 # if you include an email address, it will be displayed on your profile page
-email: "debbie_lebel@jsi.com"
+email: 
 
 # Bio — keep it under 50 words
 bio: "Deb LeBel is a partnership specialist at AIDS.gov."

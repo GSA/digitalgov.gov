@@ -17,7 +17,7 @@ pronoun: ""
 slug: kin-lane
 
 # if you include an email address, it will be displayed on your profile page
-email: "kinlane@gmail.com"
+email: 
 
 # Bio — keep it under 50 words
 bio: "Kin Lane is a former Presidential Innovation Fellow and an API Evangelist who recently helped review federal APIs at an API Usability Evaluation at GSA."

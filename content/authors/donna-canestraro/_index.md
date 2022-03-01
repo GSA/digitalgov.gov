@@ -17,7 +17,7 @@ pronoun: ""
 slug: donna-canestraro
 
 # if you include an email address, it will be displayed on your profile page
-email: "dcanestr@ctg.albany.edu"
+email: 
 
 # Bio — keep it under 50 words
 bio: ""

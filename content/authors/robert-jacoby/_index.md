@@ -17,7 +17,7 @@ pronoun: ""
 slug: robert-jacoby
 
 # if you include an email address, it will be displayed on your profile page
-email: "robert.jacoby@aquilent.com"
+email: 
 
 # Bio — keep it under 50 words
 bio: "Robert Jacoby, MIM, is a Lead Content Consultant at Aquilent. He works as a content team lead and project management support for Project Evolve on SAMHSA.gov."

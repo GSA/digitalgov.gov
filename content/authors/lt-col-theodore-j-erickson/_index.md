@@ -12,7 +12,7 @@ last_name: "Erickson"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: theodore.erickson@us.af.mil
+email:
 
 # Bio — keep it under 50 words
 bio: "Lt. Col. Theodore J. Erickson is currently the Materiel Leader for the Enterprise Information Technology as a Service Program, Air Force Life Cycle Management Center, Cyber, Command, Control, Infrastructure & Networks Directorate. "
