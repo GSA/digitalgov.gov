@@ -17,7 +17,7 @@ pronoun: ""
 slug: peter-mcnally
 
 # if you include an email address, it will be displayed on your profile page
-email: "PMcNally@bentley.edu"
+email: 
 
 # Bio — keep it under 50 words
 bio: "Peter McNally is a Senior Usability Consultant at the User Experience Center at Bentley College."

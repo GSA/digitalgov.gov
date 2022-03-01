@@ -17,7 +17,7 @@ pronoun: ""
 slug: joel-virothaisakun
 
 # if you include an email address, it will be displayed on your profile page
-email: "joel.virothaisakun@gmail.com"
+email: 
 
 # Bio — keep it under 50 words
 bio: "Joël Virothaisakun is a graduate student in the Interaction Design and Information Architecture program at the University of Baltimore. He is interning with the DigitalGov User Experience Program at GSA this fall, and has published several games."

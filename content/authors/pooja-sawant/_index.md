@@ -17,7 +17,7 @@ pronoun: ""
 slug: pooja-sawant
 
 # if you include an email address, it will be displayed on your profile page
-email: "pooja.sawant0110@gmail.com"
+email: 
 
 # Bio — keep it under 50 words
 bio: ""

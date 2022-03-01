@@ -17,7 +17,7 @@ pronoun: ""
 slug: alberto-navas
 
 # if you include an email address, it will be displayed on your profile page
-email: "alberto@capturagroup.com"
+email: 
 
 # Bio — keep it under 50 words
 bio: "Alberto Navas is a content strategy consultant who used to work with [USAGov en Espa&amp;#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_)."
