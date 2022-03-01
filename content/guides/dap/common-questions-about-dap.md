@@ -11,7 +11,7 @@ aliases:
 ---
 
 {{< box >}}
-**Have a question for the DAP team?** Send an email to [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) and we’ll get back to you.
+**Have a question for the DAP team?** Send an email to [dap@sgsa.gov](mailto:dap@gsa.gov) and we’ll get back to you.
 {{< /box >}}
 
 {{< guide-toc >}}
@@ -44,7 +44,7 @@ A. Yes. The DAP account script tag does not interfere with your existing analyti
 
 **Q. Why doesn’t DAP data exactly match our free, independently managed Google Analytics account?**
 
-A. Different analytics tools often do not exactly match because of minor or major configuration differences. It is unlikely that any Google Analytics implementation will match the DAP account exactly. If the difference is significant, email the team at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) and we’ll try to help troubleshoot.
+A. Different analytics tools often do not exactly match because of minor or major configuration differences. It is unlikely that any Google Analytics implementation will match the DAP account exactly. If the difference is significant, email the team at [dap@gsa.gov](mailto:dap@gsa.gov) and we’ll try to help troubleshoot.
 
 **Q. Can the Digital Analytics Code track websites and webpages using HTTPS?**
 
@@ -106,7 +106,7 @@ A. IP anonymization/masking takes place as soon as data is received by Google An
 
 **Q. Does my agency need a TOS with Google to use the services provided under GSA’s Digital Analytics Program?**
 
-GSA has negotiated a federal terms of service for Google Analytics 360. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics 360, it can use the DAP TOS as a starting point, but will need to sign a separate agreement. Please contact [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) to request a copy of the terms.
+GSA has negotiated a federal terms of service for Google Analytics 360. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics 360, it can use the DAP TOS as a starting point, but will need to sign a separate agreement. Please contact [dap@gsa.gov](mailto:dap@gsa.gov) to request a copy of the terms.
 
 **Q. Is a new privacy notice needed on my agency website if we add Google Analytics 360?**
 
