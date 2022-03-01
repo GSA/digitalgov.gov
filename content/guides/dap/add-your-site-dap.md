@@ -27,7 +27,7 @@ Any federal agency can sign up to use the Digital Analytics Program web analytic
 - Agencies define a DAP point of contact.
 - The U.S. General Services Administration (GSA) will send the agency point of contact (POC) a short registration form to register their agency, and work with them to implement the common page tag code.
 - GSA will provide implementation support, access to training, and other resources to the agency POC.
-- If you don’t have an identified point of contact, [send us an email](mailto:dap@support.digitalgov.gov).
+- If you don’t have an identified point of contact, [send us an email](mailto:dap@gsa.gov).
 
 ## Appropriate Placement of the DAP Script Tag
 
@@ -48,4 +48,4 @@ In addition, those implementing should read capabilities of the code in the [ver
 
 With either option (centrally or locally hosted), the Government-Wide Digital Analytics Program website traffic data flows into its own separate Google Analytics account, and should cause no change in your independent Google Analytics account metrics. 
 
-If you have any questions, please email us at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov). We’d be happy to assist.
+If you have any questions, please email us at [dap@gsa.gov](mailto:dap@gsa.gov). We’d be happy to assist.
