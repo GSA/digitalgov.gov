@@ -19,11 +19,11 @@ The exam is not intended to be easy, nor is it targeted at novice DAP or Google 
 
 ## The Exam
 
-To request the link to take the exam, email us at [dap@support.digitalgov.gov](http://dap@support.digitalgov.gov?subject=DAP%20Certification%20Exam%20Request) with the subject: “DAP Certification Exam Request.” 
+To request the link to take the exam, email us at [dap@gsa.gov](mailto:dap@gsa.gov) with the subject: “DAP Certification Exam Request.” 
 
 In order to become a DAP Certified Analyst, you must be a current DAP user. DAP users are limited to federal employees, and federal contractors with written approval from their federal supervisor. In order to receive the link for the exam, you will first be verified by the DAP team.
 
-The exam is offered via Google Forms. The DAP team understands that some agencies block Google Forms. If your agency blocks Google Forms, you can download and take the exam via a PDF version (which will be included in your email package from the team). The DAP team will accept either electronically- or manually-filled PDF exams by email only, at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov). 
+The exam is offered via Google Forms. The DAP team understands that some agencies block Google Forms. If your agency blocks Google Forms, you can download and take the exam via a PDF version (which will be included in your email package from the team). The DAP team will accept either electronically- or manually-filled PDF exams by email only, at [dap@gsa.gov](mailto:dap@gsa.gov). 
 
 In order to prevent the distribution of correct answers, the DAP team has opted not to send exam participants a question-by-question review. After taking the exam, the prospective analyst will receive only a score. If the score passes the exam, the analyst will be sent a certificate (via email) from the DAP team verifying the completion and passing grade. If the prospective analyst does not pass the exam, they will not be sent their correct or incorrect exam answers. 
 
