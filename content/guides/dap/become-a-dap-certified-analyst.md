@@ -19,7 +19,7 @@ The exam is not intended to be easy, nor is it targeted at novice DAP or Google 
 
 ## The Exam
 
-To request the link to take the exam, email us at [dap@gsa.gov](http://dap@gsa.gov) with the subject: “DAP Certification Exam Request.” 
+To request the link to take the exam, email us at [dap@gsa.gov](mailto:dap@gsa.gov) with the subject: “DAP Certification Exam Request.” 
 
 In order to become a DAP Certified Analyst, you must be a current DAP user. DAP users are limited to federal employees, and federal contractors with written approval from their federal supervisor. In order to receive the link for the exam, you will first be verified by the DAP team.
 
