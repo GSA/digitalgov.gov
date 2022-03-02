@@ -22,9 +22,6 @@ topics:
 weight: 1
 
 community_list:
-  - platform: "google-group"
-    type: public
-    subscribe_form: "https://groups.google.com/forum/#!forum/us-open-government"
   - platform: "listserv"
     type: government
     subscribe_email: opengov-subscribe-request@listserv.gsa.gov
@@ -40,7 +37,6 @@ The Interagency Open Government Community of Practice is where we talk about tra
 
 We host two listservs. One is open to the public/civil society for the purposes of collaboration and discussion as well as coordination the quarterly government & civil society gatherings. The other is a government-only listserv and is primarily to disseminate government specific information on timelines and deadlines for the NAP and offer support as agencies work to achieve their commitments.
 
-- Public: (please subscribe if you are interested in collaboration with federal and civil society OpenGov partners) Join here: https://groups.google.com/forum/#!forum/us-open-government
 - Government only: For those working on NAP commitments or involved in OpenGov initiatives for your agency. Join by [emailing the OpenGov listserv](mailto:opengov-subscribe-request@listserv.gsa.gov).
 
 ## Overview
