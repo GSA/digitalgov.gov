@@ -22,9 +22,6 @@ topics:
 weight: 1
 
 community_list:
-  - platform: "google-group"
-    type: public
-    subscribe_form: "https://groups.google.com/forum/#!forum/us-open-government"
   - platform: "listserv"
     type: government
     subscribe_email: opengov-subscribe-request@listserv.gsa.gov
