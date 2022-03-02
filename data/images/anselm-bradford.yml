@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/anselm-bradford.png
+
+# Image shortcode: {{< img src="anselm-bradford" >}}
+
+date     : 2022-03-02 20:24:14 -0400
+uid      : anselm-bradford
+width    : 1200
+height   : 1500
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Portrait headshot of Anselm Bradford, who is wearing wire glasses and a dark gray collared shirt." 
