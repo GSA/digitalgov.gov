@@ -82,6 +82,7 @@ Behind the scenes, we're moving to a new email ticketing system, and while in th
 **Slide 21:** Why do we even use design systems? Why are they powerful?
 
 **Slide 22:** 
+
 * Speak the same design language
 * Start building faster
 * Share solutions
