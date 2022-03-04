@@ -1,8 +1,7 @@
 ---
 title: Plain Language + Compassion Help People in Crisis
 kicker: Plain Language
-summary: Meet the content strategists who worked to transform findtreatment.gov
-  to connect people in crisis with the help that they needed.
+summary: Meet the content strategists who worked to transform FindTreatment.gov to connect people in crisis with the help that they need.
 host: Plain Language Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/plain-language-compassion-help-people-in-crisis-tickets-288749566727
@@ -56,7 +55,7 @@ During this session, you’ll learn how to:
 ## Related Resources
 
 * [FindTreatment.gov](https://findtreatment.gov/) 
-* [Plain Language.gov](https://www.plainlanguage.gov/) 
+* [PlainLanguage.gov](https://www.plainlanguage.gov/) 
 * [SAMHSA](https://www.samhsa.gov/)
 
 - - -
