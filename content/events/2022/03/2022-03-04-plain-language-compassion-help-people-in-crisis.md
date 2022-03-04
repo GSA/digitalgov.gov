@@ -1,6 +1,5 @@
 ---
 title: Plain Language + Compassion Help People in Crisis
-deck: Crises require plain language and compassion
 kicker: Plain Language
 summary: Meet the content strategists who worked to transform findtreatment.gov
   to connect people in crisis with the help that they needed.
@@ -31,7 +30,9 @@ slug: plain-language-compassion-help-people-in-crisis
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: march-plain-language-content-teams-title-card
+
 ---
+
 In the ecosystem of federal response to the opioid crisis, 18F knew [findtreatment.gov](http://findtreatment.gov/) needed to complement, not compete with, other resources. Cordelia Yu and Amanda Costello are content strategists in 18F, part of GSA's Technology Transformation Services (TTS). They worked with teams at the Substance Abuse and Mental Health Services Administration (SAMHSA) in 2019 to help transform and focus [findtreatment.gov](http://findtreatment.gov/) to connect people looking for substance use disorder treatment with facilities that could help.
 
 Through broad research, compassionate content, and sharply-defined scope, they helped launch a nationwide resource that answered questions and bridged a critical gap for people seeking help with substance use disorder. By writing in plain language, they clarified what services and help were available to match people’s needs.
@@ -42,17 +43,17 @@ During this session, you’ll learn how to:
 * Define scope and success by mapping the wider user experience and blockers beyond the project at hand.
 * Learn how to approach high-stakes political situations with confidence in your expertise.
 
-### Speakers
+## Speakers
 
 *   **Amanda Costello** — Content Strategist, 18F, General Services Administration (GSA)
 *   **Cordelia Yu** — Content Strategist, 18F, General Services Administration (GSA)
 
-### Moderators
+## Moderators
 
 * **Katherine Spivey** — U.S. General Services Administration (GSA)
 * **Katina Stapleton** — U.S. Department of Education (ED)
 
-### Related Resources
+## Related Resources
 
 * [FindTreatment.gov](https://findtreatment.gov/) 
 * [Plain Language.gov](https://www.plainlanguage.gov/) 
