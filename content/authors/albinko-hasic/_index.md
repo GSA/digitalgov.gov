@@ -12,7 +12,7 @@ last_name: "Hasic"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email: Albinko.Hasic@usace.army.mil
 
 # Bio — keep it under 50 words
 bio: "Albinko is the Social Media and Web Manager for the U.S. Army Corps of Engineers' New England District."

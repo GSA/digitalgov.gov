@@ -17,7 +17,7 @@ pronoun: ""
 slug: courtney-greenley
 
 # if you include an email address, it will be displayed on your profile page
-email: 
+email: "Courtney.L.Greenley@usace.army.mil"
 
 # Bio — keep it under 50 words
 bio: "Courtney Greenley, an ORISE/ORAU fellow at the Institute for Water Resources of U.S. Army Corps of Engineers researches collaboration, innovative technologies, and public engagement in water resources management."

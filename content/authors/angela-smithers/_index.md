@@ -12,7 +12,7 @@ last_name: "Smithers"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email: smithersa@si.edu
 
 # Bio — keep it under 50 words
 bio: "Angela is a “Jill of all trades.”  She has a background in user experience (UX), and in her current position as a product designer at the Smithsonian's National Museum of African American History and Culture (NMAAHC), Angela has worked on graphic design, front-end web design, user interface design, accessibility for web and digital media, and user research."

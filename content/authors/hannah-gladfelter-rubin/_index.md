@@ -17,7 +17,7 @@ pronoun: ""
 slug: hannah-gladfelter-rubin
 
 # if you include an email address, it will be displayed on your profile page
-email: "hrubin@crs.gov.gov"
+email: 
 
 # Bio — keep it under 50 words
 bio: "Hannah Gladfelter Rubin is an Information Research Specialist with the Congressional Research Service at the Library of Congress."

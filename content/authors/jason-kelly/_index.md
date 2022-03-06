@@ -17,7 +17,7 @@ pronoun: ""
 slug: jason-kelly
 
 # if you include an email address, it will be displayed on your profile page
-email: 
+email:"jason.s.kelly@navy.mil"
 
 # Bio — keep it under 50 words
 bio: ""
