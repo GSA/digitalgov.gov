@@ -32,6 +32,8 @@ weight: 1
 
 When thinking about a technology career, not many people envision themselves working in government, but you’ll be surprised by how many opportunities are available for technologists to make an impact in public service. The [U.S. Digital Corps](https://digitalcorps.gsa.gov/) is a new two-year fellowship for recent graduates and other early-career technologists to serve in the federal government with skills ranging from software engineering and cybersecurity, to product management, design, and data science & analytics.
 
+{{< img-right src="anselm-bradford" >}}
+
 In continuing our [series of profiles](https://digital.gov/topics/tts/) of public interest technologists in government, I talked to Ans Bradford, a front-end web developer at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) (CFPB), about his journey in civic tech and his impactful work at CFPB.
 
 CFPB is a federal agency that provides resources for consumers to make informed financial choices when choosing mortgages, student loans, credit cards, and other products, and it also protects consumers from unlawful predatory financial practices within those and related financial markets. We are excited to partner with CFPB in our upcoming inaugural cohort of U.S. Digital Corps Fellows.
