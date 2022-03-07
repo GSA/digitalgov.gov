@@ -21,7 +21,9 @@ topics:
 authors:
   - chris-kuang
 slug: from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech
+
 primary_image: usdc-cfpb-civic-tech-title-card
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -75,9 +77,9 @@ I like being part of the mission to bring excellent government services to the p
 
 *Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities and visit [Join TTS](https://join.tts.gsa.gov/) for mid-career and senior-level opportunities.*
 
-_**Editor’s note**: Learn more about the requirements for modernizing your agency’s public-facing federal websites._
+**Editor’s note**: Learn more about the requirements for modernizing your agency’s public-facing federal websites.
 
-* [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) — Public-facing federal websites and digital services should use the U.S. Web Design System and meet eight specific requirements. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites. 
+* [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) — Public-facing federal websites and digital services should use the U.S. Web Design System and meet eight specific requirements. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
 * [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/) — Current relevant laws, policies, and regulations for federal agencies; includes a downloadable checklist.
 * [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/) — Federal Web Managers Council list of required links that all federal websites need to have.
 
