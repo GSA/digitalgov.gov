@@ -1,5 +1,5 @@
 ---
-date: 2022-03-07 10:37:00 -0500
+date: 2022-03-07 11:15:00 -0500
 title: "From Fellowship To Full-time: How a CFPB Software Engineer Helped
   Protect Consumers and Built a Career in Civic Tech"
 summary: Anselm Bradford, a front-end engineer at the Consumer Financial
@@ -19,14 +19,16 @@ topics:
   - communities
 # See all authors at https://digital.gov/authors
 authors:
-  - aaron-snow
+  - chris-kuang
 slug: from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech
-primary_image: 10x-funded-cover
+primary_image: usdc-cfpb-civic-tech-title-card
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 When thinking about a technology career, not many people envision themselves working in government, but you’ll be surprised by how many opportunities are available for technologists to make an impact in public service. The [U.S. Digital Corps](https://digitalcorps.gsa.gov/) is a new two-year fellowship for recent graduates and other early-career technologists to serve in the federal government with skills ranging from software engineering and cybersecurity, to product management, design, and data science & analytics.  
 
 In continuing our [series of profiles](https://digital.gov/topics/tts/) of public interest technologists in government, I talked to Ans Bradford, a front-end web developer at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) (CFPB), about his journey in civic tech and his impactful work at CFPB.
@@ -55,7 +57,7 @@ This type of system is common in private sector tech companies. Design systems a
 
 Having a design system gives our department a single source of truth, which helps create uniform appearances and interactive experiences for our users across all our websites and components. This is important because it allows us to address things like accessibility and performance in a central place, and consistent designs make our sites more trustworthy and easier to interact with for users.
 
-*Note: See additional information below on the requirements for modernizing public-facing federal websites.*
+{{< note >}} See additional information below on the requirements for modernizing public-facing federal websites. {{< /note >}}
 
 ## What’s the work culture at CFPB?
 
@@ -73,7 +75,7 @@ I like being part of the mission to bring excellent government services to the p
 
 *Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities and visit [Join TTS](https://join.tts.gsa.gov/) for mid-career and senior-level opportunities.*
 
-***Editor’s note**: Learn more about the requirements for modernizing your agency’s public-facing federal websites.*
+_**Editor’s note**: Learn more about the requirements for modernizing your agency’s public-facing federal websites._
 
 * [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) — Public-facing federal websites and digital services should use the U.S. Web Design System and meet eight specific requirements. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites. 
 * [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/) — Current relevant laws, policies, and regulations for federal agencies; includes a downloadable checklist.
