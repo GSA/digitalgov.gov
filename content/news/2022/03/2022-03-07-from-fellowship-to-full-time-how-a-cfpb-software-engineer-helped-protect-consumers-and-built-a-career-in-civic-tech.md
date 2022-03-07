@@ -15,7 +15,13 @@ topics:
   - design
   - communities
 
+# See all authors at https://digital.gov/authors
+authors:
+  - chris-kuang
+
 slug: from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech
+
+primary_image: usdc-cfpb-civic-tech-title-card
 
 # Controls how this page appears across the site
 # 0 -- hidden
