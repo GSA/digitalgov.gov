@@ -17,7 +17,7 @@ pronoun: ""
 slug: amando-e-gavino-jr
 
 # if you include an email address, it will be displayed on your profile page
-email: ""
+email: 
 
 # Bio — keep it under 50 words
 bio: "Director, Office of Network Services, ITS/FAS/GSA. Amando is responsible for a portfolio of telecommunication acquisition solutions that provide government agencies the ability to meet their diverse set of telecommunication requirements. Acquisition solutions include Networx, Enterprise Infrastructure Solutions – EIS (the future replacement for Networx), SATCOM, Enterprise Mobility, Connections II, Federal Strategic Sourcing Initiative – Wireless (FSSI-W), and the Federal Relay Service."

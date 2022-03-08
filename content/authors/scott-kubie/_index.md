@@ -3,7 +3,7 @@ display_name: Scott Kubie
 first_name: Scott
 last_name: Kubie
 # If you include an email address, it will be displayed on your profile page
-email: scott@kubie.co
+email: 
 # Keep it under 50 words and only one paragraph
 bio: Scott Kubie is an independent UX consultant, author, designer, and
   professional speaker. He most recently served as Lead Content Strategist at

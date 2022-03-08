@@ -17,7 +17,7 @@ pronoun: ""
 slug: stacey-sarris
 
 # if you include an email address, it will be displayed on your profile page
-email: "s@sosarris.com"
+email:
 
 # Bio — keep it under 50 words
 bio: "Stacey Sarris is a UX consultant and adjunct professor at Pace University, doctoral candidate at University of Baltimore&#39;s Information and Interaction Design program, and currently a UX intern at GSA."

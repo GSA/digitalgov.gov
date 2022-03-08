@@ -17,7 +17,7 @@ pronoun: ""
 slug: david-a-kennedy
 
 # if you include an email address, it will be displayed on your profile page
-email: "me@davidakennedy.com"
+email: 
 
 # Bio — keep it under 50 words
 bio: ""
