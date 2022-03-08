@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/uswds-monthly-call-march-title-card.png
+
+# Image shortcode: {{< img src="uswds-monthly-call-march-title-card" >}}
+
+date     : 2022-03-07 21:17:48 -0400
+uid      : uswds-monthly-call-march-title-card
+width    : 1200
+height   : 628
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image of USWDS logo, a multi-colored pentagon shape consists of five triangles and is centered on a black background. In white text, the first line says, USWDS Monthly Call. Below that in yellow text, the second line has the date of the event, March 17, 2022."
