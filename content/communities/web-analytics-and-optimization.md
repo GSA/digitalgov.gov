@@ -18,7 +18,6 @@ aliases:
 
 # See all authors at https://digital.gov/authors
 authors:
-  - kelley-holden
   - tlowden
 slug: web-analytics-and-optimization
 # Controls how this page appears across the site
