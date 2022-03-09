@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/fedramp-2017-logo.png
+
+# Image shortcode: {{< img src="fedramp-2017-logo" >}}
+
+date     : 2022-03-09 16:33:44 -0400
+uid      : fedramp-2017-logo
+width    : 209
+height   : 270
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "FedRAMP's 2017 logo. It has a whte background and is a rectangle in portrait orientation; taller than wide. At the top is a square in a gradient of blues with the letters F and R in white capital letters. Below that is the name FedRAMP in red letters." 
