@@ -13,7 +13,7 @@ topics:
 
 This week we’re excited to celebrate FedRAMP’s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue meeting our partners’ evolving needs.
 
-{{< legacy-img src="2017/06/600-x-229-FedRAMP-Happy-5th-Bithday-19.jpg" alt="Banner graphic with new logo and cupcake for FedRAMP's 5th birthday." >}}
+{{< img src="fedramp-5th-birthday" >}}
 
 FedRAMP achieved initial operational capability in 2012. We launched FedRAMP.gov that year as our primary communication and outreach channel. Since then, we have continued to iterate based on the voice of the customer and have expanded our outreach to include such activities as training, weekly tips, a user-centered marketplace and dashboard, and the Focus on FedRAMP blog.
 
@@ -75,8 +75,10 @@ We are grateful for the responsive community with whom we work. You have continu
 
 As we reach this milestone in our program’s history, we wanted to update our logo and branding as we move into our sixth year:
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/06/Screen-Shot-2017-06-07-at-9.13.52-AM.png" alt="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/06/Screen-Shot-2017-06-07-at-9.13.52-AM.png)
+{{< img-right src="fedramp-2017-logo" >}}
 
-We worked with our stakeholders to develop a simpler and more flexible logo. As of **June 6**, this is the official FedRAMP logo, including all reference to and use on fedramp.gov and other federal sources of information. We have updated our [branding guidance](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/06/FedRAMP-Branding-Guidance_June-2017.pdf) (PDF, 887 kb) for use of the new logo as well.
+We worked with our stakeholders to develop a simpler and more flexible logo. As of **June 6, 2017**, this is the official FedRAMP logo, including all reference to and use on fedramp.gov and other federal sources of information. We have updated our branding guidance for use of the new logo as well.
 
-We thank you for your continued partnership with FedRAMP._This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/67092-2/)._
+We thank you for your continued partnership with FedRAMP.
+
+_This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/blog/)._
