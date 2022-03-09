@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/fedramp-5th-birthday.png
+
+# Image shortcode: {{< img src="fedramp-5th-birthday" >}}
+
+date     : 2022-03-09 16:35:17 -0400
+uid      : fedramp-5th-birthday
+width    : 600
+height   : 229
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
