@@ -9,6 +9,7 @@ topics:
   - product-management
   - cloud
   - fedramp
+
 ---
 
 This week we’re excited to celebrate FedRAMP’s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue meeting our partners’ evolving needs.
@@ -77,7 +78,7 @@ As we reach this milestone in our program’s history, we wanted to update our l
 
 {{< img-right src="fedramp-2017-logo" >}}
 
-We worked with our stakeholders to develop a simpler and more flexible logo. As of **June 6, 2017**, this is the official FedRAMP logo, including all reference to and use on fedramp.gov and other federal sources of information. We have updated our branding guidance for use of the new logo as well.
+We worked with our stakeholders to develop a simpler and more flexible logo. As of **June 6**, this is the official FedRAMP logo, including all reference to and use on fedramp.gov and other federal sources of information. We have updated our [branding guidance (PDF, 887 kb, 15 pages)](https://digital.gov/pdf/FedRAMP-Branding-Guidance_June-2017.pdf) for use of the new logo as well.
 
 We thank you for your continued partnership with FedRAMP.
 
