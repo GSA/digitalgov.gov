@@ -31,6 +31,7 @@ event_platform: zoom
 primary_image: march-plain-language-content-teams-title-card
 
 ---
+[View the slides (PowerPoint, 3.3 MB, 15 pages)](https://digital.gov/files/plain-language-and-compassion-march-event-slides.pptx)
 
 In the ecosystem of federal response to the opioid crisis, 18F knew [findtreatment.gov](http://findtreatment.gov/) needed to complement, not compete with, other resources. Cordelia Yu and Amanda Costello are content strategists in 18F, part of GSA's Technology Transformation Services (TTS). They worked with teams at the Substance Abuse and Mental Health Services Administration (SAMHSA) in 2019 to help transform and focus [findtreatment.gov](http://findtreatment.gov/) to connect people looking for substance use disorder treatment with facilities that could help.
 
