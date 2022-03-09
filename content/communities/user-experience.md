@@ -28,6 +28,9 @@ community_list:
     members: 1247
     emails_per_week: 9.55
 
+# see all authors at https://digital.gov/authors
+authors:
+  - jean-fox
 ---
 
 Join other federal user experience practitioners and learn how to make better user-centered products.
