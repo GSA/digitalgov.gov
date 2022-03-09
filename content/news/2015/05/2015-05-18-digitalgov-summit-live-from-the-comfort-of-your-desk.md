@@ -29,7 +29,7 @@ The DigitalGov platform helps federal agencies meet 21st century digital expecta
 
 ## Attending Virtually
 
-{{< img src="woman-with-headphones-working-at-computer-fuse-thinkstock-78812233" >}}
+{{< img-right src="woman-with-headphones-working-at-computer-fuse-thinkstock-78812233" >}}
 
 For our Summit this Thursday, we have an amazing line up of speakers and [YOU can still sign-up to attend](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401). Over the years, we’ve received lots of feedback about hosting more virtual-live events so that we can include those who aren’t in DC. This year’s livestream will allow digital practitioners from around the country to join the Summit.
 
