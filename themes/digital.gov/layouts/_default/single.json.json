@@ -87,9 +87,9 @@
         },
       {{- end -}}
 
-      {{- partial "api/primary_image" . -}}
+      {{- partial "api/primary_image.html" . -}}
 
-      {{- partial "api/featured_image" . -}}
+      {{- partial "api/featured_image.html" . -}}
 
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
@@ -103,7 +103,7 @@
       "source_url" : "{{- .Params.source_url -}}",
       {{- end -}}
 
-      {{- partial "api/slug" . -}}
+      {{- partial "api/slug.html" . -}}
       
       "url" : "{{- .Permalink -}}",
       {{- if .Params.aliases -}}

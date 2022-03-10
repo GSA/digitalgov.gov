@@ -30,17 +30,17 @@
               {{- .Content -}}
             </div>
 
-            {{- partial "core/page-data" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 
           <div class="grid-col-12 tablet:grid-col-3">
 
             {{/* Table of contents */}}
-            {{- partial "core/toc" . -}}
+            {{- partial "core/toc.html" . -}}
 
             {{/* Last updated */}}
-            {{/* {{- partial "last-updated" . -}}  */}}
+            {{/* {{- partial "last-updated.html" . -}}  */}}
 
           </div>
 

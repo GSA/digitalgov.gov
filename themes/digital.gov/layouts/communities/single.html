@@ -77,22 +77,22 @@
                     */}}
                     {{/* Listserv Platforms without form sign-up option */}}
                     {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
-                      {{- partial "core/community-join-without-form" (dict "context" . "e" $e) -}}
+                      {{- partial "core/community-join-without-form.html" (dict "context" . "e" $e) -}}
                     {{- end -}}
 
                     {{/* Listserv Platforms with form as sign-up option */}}
                     {{- if and (eq $e.platform "listserv") ( $e.subscribe_form ) -}}
-                      {{- partial "core/community-join-with-form" (dict "context" . "e" $e) -}}
+                      {{- partial "core/community-join-with-form.html" (dict "context" . "e" $e) -}}
                     {{- end -}}
 
                     {{/* Google Group platforms */}}
                     {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
-                      {{- partial "core/community-join-google-group" (dict "context" . "e" $e) -}}
+                      {{- partial "core/community-join-google-group.html" (dict "context" . "e" $e) -}}
                     {{- end -}}
 
                     {{/* Slack platforms */}}
                     {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
-                      {{- partial "core/community-join-slack" (dict "context" . "e" $e) -}}
+                      {{- partial "core/community-join-slack.html" (dict "context" . "e" $e) -}}
                     {{- end -}}
 
 
@@ -114,7 +114,7 @@
               {{- if .Params.authors -}}
               <div class="community_managers">
                 <h3>Community Managers</h3>
-                {{- partial "core/get_authors" . -}}
+                {{- partial "core/get_authors.html" . -}}
               </div>
               {{- end -}}
 
@@ -132,17 +132,17 @@
               {{- .Content -}}
             </div>
               <div class="community_events">
-              {{- partial "core/get-upcomingevents" . -}}         
+              {{- partial "core/get-upcomingevents.html" . -}}         
             </div>
             
             <div class="Community_conduct">
               <h2 id="community-conduct">Community Conduct</h2>
-              {{- partial "core/community_pagefooter" . -}}
+              {{- partial "core/community_pagefooter.html" . -}}
               <br>
             </div>
             <div>
               <br/>
-              {{- partial "core/page-data" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
+              {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
              </div>
           </div>
 

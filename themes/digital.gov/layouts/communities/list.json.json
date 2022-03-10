@@ -93,11 +93,11 @@
         },
       {{- end -}}
 
-      {{- partial "api/community_lists" . -}}
+      {{- partial "api/community_lists.html" . -}}
 
-      {{- partial "api/primary_image" . -}}
+      {{- partial "api/primary_image.html" . -}}
 
-      {{- partial "api/featured_image" . -}}
+      {{- partial "api/featured_image.html" . -}}
 
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
@@ -131,7 +131,7 @@
       },
       {{- end -}}
 
-      {{- partial "api/slug" . -}}
+      {{- partial "api/slug.html" . -}}
       
       "url" : "{{- .Permalink -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}

@@ -4,23 +4,23 @@
 
   <article>
 
-    {{- partial "core/breadcrumbs" . -}}
+    {{- partial "core/breadcrumbs.html" . -}}
 
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-4">
 
         <div class="grid-col-12 tablet-lg:grid-col-2">
-          {{- partial "core/guides/guide-nav" . -}}
+          {{- partial "core/guides/guide-nav.html" . -}}
         </div>
 
         <div class="grid-col-12 tablet-lg:grid-col-8">
           <div class="usa-layout-docs__main usa-prose">
 
-            {{- partial "core/guides/guide-page-head" . -}}
+            {{- partial "core/guides/guide-page-head.html" . -}}
 
             {{- .Content -}}
 
-            {{- partial "core/guides/guide-prev-next" . -}}
+            {{- partial "core/guides/guide-prev-next.html" . -}}
           </div>
 
         </div>

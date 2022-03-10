@@ -33,7 +33,7 @@
         "pronoun" : "{{- .Params.pronoun -}}",
         {{- end -}}
 
-        {{- partial "api/slug" . -}}
+        {{- partial "api/slug.html" . -}}
 
         {{- if .Params.email -}}
         "email" : "{{- .Params.email -}}",
@@ -42,7 +42,7 @@
         "location" : "{{- .Params.location -}}",
         {{- end -}}
 
-        {{- partial "api/bio" . -}}
+        {{- partial "api/bio.html" . -}}
         
         {{- if .Params.bio_url -}}
         "bio_url" : "{{- .Params.bio_url -}}",

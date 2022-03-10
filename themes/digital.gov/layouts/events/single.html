@@ -141,7 +141,7 @@
               {{- .Content -}}
             </div>
 
-            {{- partial "core/page-data" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "prompt" "Have questions about this event or future events?" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/page-data.html" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "prompt" "Have questions about this event or future events?" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 
@@ -150,7 +150,7 @@
             {{/* Authors */}}
             {{- if .Params.authors -}}
             <h4>In this talk</h4>
-            {{- partial "core/get_authors" . -}}
+            {{- partial "core/get_authors.html" . -}}
             {{- end -}}
 
             {{- if eq .Params.event_platform "youtube_live" -}}
@@ -178,13 +178,13 @@
             {{- end -}}
 
             {{/* Related Communities and Services */}}
-            {{- partial "core/get_related" . -}}
+            {{- partial "core/get_related.html" . -}}
 
             {{/* Topics */}}
-            {{- partial "core/list-topics" . -}}
+            {{- partial "core/list-topics.html" . -}}
 
             {{/* Share Tools */}}
-            {{- partial "core/get_sharetools" . -}}
+            {{- partial "core/get_sharetools.html" . -}}
           </div>
         </div>
 

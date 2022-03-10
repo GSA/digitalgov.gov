@@ -34,7 +34,7 @@
     <p>{{- .Params.summary | markdownify -}}</p>
 
     {{- if .Params.topics -}}
-      {{- partial "core/list-topics" . -}}
+      {{- partial "core/list-topics.html" . -}}
     {{- end -}}
 
   </div>
