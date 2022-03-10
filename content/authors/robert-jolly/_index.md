@@ -6,10 +6,7 @@ last_name: Jolly
 # If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: he/him
 # Keep it under 50 words and only one paragraph
-bio: Robert Jolly is an accessibility-focused product manager working on GSA’s
-  10x Delivery Team. Robert has previously been co-lead for the TTS
-  Accessibility Guild and was a member of the W3C’s Web Accessibility Initiative
-  Education and Outreach Working Group.
+bio: Robert Jolly is an accessibility-focused product manager working on GSA’s 10x Delivery Team. Robert has previously been co-lead for the TTS Accessibility Guild, and was a member of the W3C’s Web Accessibility Initiative (WAI) Education and Outreach Working Group.
 # e.g. U.S. General Services Administration
 agency_full_name: U.S. General Services Administration
 # Agency Acronym [e.g., GSA]
@@ -21,4 +18,5 @@ location: Fort Collins, CO
 # Learn more about getting a Github account at [URL]
 github: iamjolly
 slug: robert-jolly
+
 ---
