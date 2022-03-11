@@ -24,12 +24,12 @@
               This community was archived on {{ dateFormat "January 2, 2006" .Params.archive_date}} and is no longer active.
             </div>
               <div class="community_events">
-              {{- partial "core/get-upcomingevents" . -}}
-              {{- partial "core/get-pastevents" . -}}              
+              {{- partial "core/get-upcomingevents.html" . -}}
+              {{- partial "core/get-pastevents.html" . -}}              
             </div>
             <div>
               <br/>
-              {{- partial "core/page-data" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
+              {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
              </div>
           </div>
 

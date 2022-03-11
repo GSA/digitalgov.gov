@@ -28,7 +28,7 @@
           {{/* Sort all of the resources by weight */}}
           {{- $resourcesfeatured := (sort $resourcesfeatured "Weight" "desc" ) -}}
 
-          {{- partialCached "core/collection" (dict "list" $resourcesfeatured "heading" "Popular Guides and Resources") -}}
+          {{- partialCached "core/collection.html" (dict "list" $resourcesfeatured "heading" "Popular Guides and Resources") -}}
 
           <footer>
             <div class="grid-row tablet-lg:grid-gap-2">
@@ -46,7 +46,7 @@
 
 
   {{/* News */}}
-  {{- partialCached "core/home/news_featured" . -}}
+  {{- partialCached "core/home/news_featured.html" . -}}
 
 </main>
 

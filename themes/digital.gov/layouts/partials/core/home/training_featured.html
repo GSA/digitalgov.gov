@@ -24,7 +24,7 @@
               <div aria-label="an image from the video" class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
               <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
               {{ $topics := .Params.topics }}
-              {{- partial "core/list-topics" . -}}
+              {{- partial "core/list-topics.html" . -}}
             </div>
           {{ end }}
         {{ end }}

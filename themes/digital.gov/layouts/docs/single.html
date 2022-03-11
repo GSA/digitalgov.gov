@@ -15,7 +15,7 @@
             {{- if .Params.deck -}}
             <div>{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
-            {{/* {{ partial "last-updated" . }} */}}
+            {{/* {{ partial "last-updated.html" . }} */}}
           </header>
         </div>
       </div>
@@ -32,7 +32,7 @@
 
       <div class="grid-row tablet-lg:grid-gap-6">
         <div class="grid-col-12">
-          {{ partial "core/page-data" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
+          {{ partial "core/page-data.html" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
         </div>
       </div>
 
@@ -40,6 +40,6 @@
   </article>
 </main>
 
-  {{ partial "core/overlay" . }}
+  {{ partial "core/overlay.html" . }}
 
 {{ end }} {{/* end 'content' block */}}
