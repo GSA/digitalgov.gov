@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://digital.gov/resources/lessons-from-the-2021-federal-plain-language-report-card/
-source: digitalgov
+source: 
 date: 2022-03-11 21:17:00 -0500
 title: Lessons from the 2021 Federal Plain Language Report Card
 deck: "**Lessons from the 2021 Federal Plain Language Report Card**&mdash;During
