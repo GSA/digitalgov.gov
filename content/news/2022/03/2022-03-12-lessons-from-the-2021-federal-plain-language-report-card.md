@@ -10,6 +10,12 @@ deck: "**Lessons from the 2021 Federal Plain Language Report Card**&mdash;During
   received both high and low scores in the 2021 Plain Language Report Card.
   Here’s what we learned."
 summary: 
+
+# See all authors at https://digital.gov/authors
+authors:
+  - mara-goldberg
+  - gabby-fratanduono-king
+
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language-community-of-practice
