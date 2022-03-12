@@ -9,7 +9,7 @@ deck: "**Lessons from the 2021 Federal Plain Language Report Card**&mdash;During
   Federal Report Card, speaker David Lipscomb gave examples of web content that
   received both high and low scores in the 2021 Plain Language Report Card.
   Here’s what we learned."
-summary: summ
+summary: 
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language-community-of-practice
@@ -21,9 +21,12 @@ topics:
   - content
   - accessibility
 slug: lessons-from-the-2021-federal-plain-language-report-card
+
 primary_image: title-card-2021-plain-language-report-card-slide-7-dhs-foia
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
