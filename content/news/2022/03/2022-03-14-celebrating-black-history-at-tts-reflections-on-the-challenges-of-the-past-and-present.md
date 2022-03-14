@@ -24,9 +24,7 @@ weight: 1
 
 During this past month, Technology Transformation Services (TTS) continued our tradition of honoring Black History Month through our internal campaign of highlighting black people’s achievements and societal contributions that impact our digital technologists. Members of TTS’ *Working While Black* affinity group shared their thoughts with the organization to celebrate the contributions of Black Americans to every facet of American life.
 
-{{< card-quote text="{{< img-right src="dr-maya-angelou-york-college-feb-4-2013-square" alt="ALT_TEXT" >}}
-
-Celebrated poet and civil rights activist Maya Angelou was an American Treasure. In addition to being a best-selling author, Angelou was also a dancer, actress, film-maker, and singer who won three Grammy awards, spoke six languages, and worked as a journalist in Egypt and Ghana. She was the second poet in history to recite a poem at a U.S. presidential inauguration, and was nominated for a Tony award. In 2000, she was presented with the Presidential Medal of Arts by former President Bill Clinton, and in 2011 she was presented with the Presidential Medal of Freedom by former President Barack Obama.
+{{< card-quote text="Celebrated poet and civil rights activist Maya Angelou was an American Treasure. In addition to being a best-selling author, Angelou was also a dancer, actress, film-maker, and singer who won three Grammy awards, spoke six languages, and worked as a journalist in Egypt and Ghana. She was the second poet in history to recite a poem at a U.S. presidential inauguration, and was nominated for a Tony award. In 2000, she was presented with the Presidential Medal of Arts by former President Bill Clinton, and in 2011 she was presented with the Presidential Medal of Freedom by former President Barack Obama.
 
 Angelou’s writings have altered society for the better, bringing greater diversity into the theater and literature. Her autobiographical works provide powerful insights into the evolution of Black women in the 20th century, and she continues to make history today as she is the first African American woman to be printed on the U.S. quarters." cite="Shawnique Morrison" >}}
 
