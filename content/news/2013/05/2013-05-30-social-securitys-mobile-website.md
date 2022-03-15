@@ -2,8 +2,9 @@
 slug: social-securitys-mobile-website
 date: 2013-05-30 5:06:51 -0400
 redirectto: https://www.ssa.gov
+expirydate: "2020-05-16"
 title: 'Social Security&#8217;s Mobile Website'
-summary: The Social Security Administration recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user friendly tabular icon driven navigation, which makes it very easy to find information anytime, anywhere.
+summary: The Social Security Administration recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user-friendly, tabular, icon-driven navigation, which makes it very easy to find information anytime, anywhere.
 authors:
   - kanika-tolver
 topics:
@@ -16,7 +17,7 @@ topics:
 
 ---
 
-The [Social Security Administration](http://www.ssa.gov) recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user friendly tabular icon driven navigation, which makes it very easy to find information anytime, anywhere.
+The [Social Security Administration](http://www.ssa.gov) recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user-friendly, tabular, icon-driven navigation, which makes it very easy to find information anytime, anywhere.
 
 {{< legacy-img src="2013/05/SSA.govmobilewebsite_.png" alt="Social Security Administration Mobile Website" >}}
 
