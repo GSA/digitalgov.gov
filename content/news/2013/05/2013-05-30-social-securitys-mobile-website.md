@@ -13,7 +13,6 @@ topics:
   - SSA
   - the-united-states-social-security-administration
   - thursday-mobile-products
-redirectto: https://www.ssa.gov/
 
 ---
 
