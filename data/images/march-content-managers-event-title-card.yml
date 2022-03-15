@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/march-content-managers-event-title-card.png
+
+# Image shortcode: {{< img src="march-content-managers-event-title-card" >}}
+
+date     : 2022-03-15 17:37:16 -0400
+uid      : march-content-managers-event-title-card
+width    : 1200
+height   : 628
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image has small, multi-colored disc shapes along the right edge. One the left are three lines of text and a logo. The first line has Web Managers Community of Practice in white text. The second line has Change the Way Digital Work Gets Done in bold white text. The third line has the date, March 31, 2022. in orange text. The red Digital.gov logo is below the text."
