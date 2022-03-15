@@ -16,7 +16,7 @@ slug: will-cahoe
 email: william.cahoe@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Will Cahoe is the Project Coordinator and the Contracting Officer's Representative (COR) for the 10x program."
+bio: "&quot;10x Evangelist" Will Cahoe is the communications and outreach lead for the 10x program. He previously served in the role of project coordinator."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: https://10x.gsa.gov/
