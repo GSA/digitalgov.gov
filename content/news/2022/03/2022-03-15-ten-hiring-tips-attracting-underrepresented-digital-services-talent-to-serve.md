@@ -20,7 +20,9 @@ primary_image: interview-halfpoint-istock-getty-images-plus-1337585069
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The hiring process in the federal government is known to be challenging, for both applicants and for hiring managers. These challenges, coupled without dedicated outreach efforts, can add a layer of difficulty when trying to establish a diverse and inclusive digital team.
 
 Research has shown that the most successful and innovative teams are diverse, but attracting digital services talent from underrepresented groups requires a thoughtful and intentional approach. Below are a few things we heard from our colleagues at various federal government agencies and from groups who represent tech talent:
@@ -85,8 +87,8 @@ Given our own experience and various others we spoke to, we compiled a top ten l
    * Will your interview panel be interdisciplinary, cross-functional, and diverse?
 10. **Are you leveraging the government brain trust?**
 
-* If you are struggling to attract or retain employees from underrepresented groups, really take the time to understand why. Chances are you are not alone and others can help you rethink your approach.
-* Learn from your colleagues in government who are successful. There is always something that can spark an idea, gain momentum, and be a catalyst for change at your organization. Connect 1:1 and approach some strategies with an open mind.
+   * If you are struggling to attract or retain employees from underrepresented groups, really take the time to understand why. Chances are you are not alone and others can help you rethink your approach.
+   * Learn from your colleagues in government who are successful. There is always something that can spark an idea, gain momentum, and be a catalyst for change at your organization. Connect 1:1 and approach some strategies with an open mind.
 
 Finally, examine your own attitudes and beliefs, and accept that as a supervisor and/or hiring manager—and human being—you also have biases. Take the time to learn. Take training, do the work on your own where possible, and be mindful; do not [tokenize](https://en.wikipedia.org/wiki/Tokenism#:~:text=Tokenism%20is%20the%20practice%20of,a%20workplace%20or%20educational%20context.), or burden people of the communities that you’re seeking to engage with and understand to help you. Do have thoughtful conversations and engage others, but with intention to learn and the patience to step back when necessary.
 
