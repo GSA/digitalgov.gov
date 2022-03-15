@@ -20,7 +20,7 @@ weight: 1
 
 ---
 
-During this past month, Technology Transformation Services (TTS) continued our tradition of honoring Black History Month through our internal campaign of highlighting black people’s achievements and societal contributions that impact our digital technologists. Members of TTS’ _Working While Black_ affinity group shared their thoughts with the organization to celebrate the contributions of Black Americans to every facet of American life.
+During this past month, Technology Transformation Services (TTS) continued our tradition of honoring Black History Month through our internal campaign of highlighting Black people’s achievements and societal contributions that impact our digital technologists. Members of TTS’ _Working While Black_ affinity group shared their thoughts with the organization to celebrate the contributions of Black Americans to every facet of American life.
 
 {{< note "comment" >}}{{< img-right src="dr-maya-angelou-york-college-feb-4-2013-square" >}}
 
@@ -32,7 +32,7 @@ Angelou’s writings have altered society for the better, bringing greater diver
 
 Led by our *Working While Black* and *TTS Diversity Guild* colleagues, these conversations illuminate how the inclusion—or exclusion—of these talents has also shaped our nation’s history.
 
-{{< note "comment" >}}Black American artists have traditionally been isolated from art history. Historical work by Black artists is often under-examined and underrepresented in private and public collections. These reasons, and many more, led Black artist and curator David C. Driskell to curate _Two Centuries of Black American Art_ at the Los Angeles County Museum of Art (LACMA - which is right down the street for me) in 1976. The exhibition was curated with the purpose of staking [a claim for the profound and indelible contributions of black and African American art makers](https://www.artnews.com/art-news/retrospective/david-c-driskell-shaped-black-art-pamela-newkirk-archives-1202683191/) between 1750 and 1950.
+{{< note "comment" >}}Black American artists have traditionally been isolated from art history. Historical work by Black artists is often under-examined and underrepresented in private and public collections. These reasons, and many more, led Black artist and curator David C. Driskell to curate _Two Centuries of Black American Art_ at the Los Angeles County Museum of Art (LACMA - which is right down the street for me) in 1976. The exhibition was curated with the purpose of staking "[a claim for the profound and indelible contributions of black and African American art makers](https://www.artnews.com/art-news/retrospective/david-c-driskell-shaped-black-art-pamela-newkirk-archives-1202683191/)" between 1750 and 1950.
 
  — **Patrick Kigongo**{{< /note >}}
 
