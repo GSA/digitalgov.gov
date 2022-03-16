@@ -39,12 +39,12 @@ This session will cover a range of key concepts such as:
 
 ## Speakers
 
-* **Jesrael Lopez** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)
-* **Bernadette Goodwin*** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)
+* **Jesrael Lopez** — Program Manager, Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)
+* **Bernadette Goodwin** — Acting Executive Architect, Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)
 
 ## Moderators
 
-* **Beth Martin** — User Experience Lead at the Federal Aviation Administration and co-lead of the Web Managers Community of Practice
+* **Beth Martin** — User Experience Lead at the Federal Aviation Administration (FAA) and co-lead of the Web Managers Community of Practice
 
 ## About the Web Managers Community of Practice
 
