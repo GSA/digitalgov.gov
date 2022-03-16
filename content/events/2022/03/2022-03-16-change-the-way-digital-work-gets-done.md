@@ -20,6 +20,8 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - beth-martin
+  - jesrael-lopez
+  - bernadette-goodwin
 slug: change-the-way-digital-work-gets-done
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
@@ -38,8 +40,8 @@ This session will cover a range of key concepts such as:
 
 ## Speakers
 
-*   **Jesrael Lopez** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
-*   **Bernadette Goodwin** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
+* **Jesrael Lopez** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
+* **Bernadette Goodwin*** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
 
 ## Moderators
 
