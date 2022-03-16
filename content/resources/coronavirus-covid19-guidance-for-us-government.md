@@ -71,9 +71,9 @@ GSA, in collaboration with OPM, will maintain a comprehensive list of the operat
 
 Here’s what you should do:
 
-- Also include up-to date facility status information on your site where customers would look for such information (e.g., Contact Us or About Us pages)  
-- Make the facility status information easy to link to, so when someone follows the link, they'll see the info right away  
-- Include markup so search engines can more easily find and disseminate the information  
+- Also include up-to date facility status information on your site where customers would look for such information (e.g., Contact Us or About Us pages)
+- Make the facility status information easy to link to, so when someone follows the link, they'll see the info right away
+- Include markup so search engines can more easily find and disseminate the information
     - Bing tips on marking up [organizations](https://www.bing.com/webmaster/help/markup-businesses-and-organizations-cc507c09) and [special announcements](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249)
     - Google tips on marking up [organizations](https://developers.google.com/search/docs/data-types/local-business) and [special announcements](https://developers.google.com/search/docs/data-types/special-announcements)
     - Learn how [USA.gov applies SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find in search results
@@ -100,27 +100,27 @@ Please contact your [Federal Web Council representative](https://digital.gov/res
 
 {{< accordion kicker="Previous update" title="**April 1, 2020**:" >}}
 
-- [**Updated: Coronavirus Guidelines for America**](https://www.whitehouse.gov/briefings-statements/coronavirus-guidelines-america/) — The White House Coronavirus Task Force has issued an updated version of this document.  
-- [**Frequently Asked Questions**](https://faq.coronavirus.gov) — An interagency website, organized by the White House Coronavirus Task Force, for definitive information on the public’s most frequently asked questions. The site currently features content from the Department of Health and Human Services, Department of Homeland Security, Federal Emergency Management Agency (FEMA), Department of the Treasury, and Small Business Administration.  
-- [**Small Business Resources**](https://www.coronavirus.gov/smallbusiness/) — The White House Coronavirus Task Force has provided this information on various assistance programs available to small businesses.  
-- [**FEMA Rumor Control**](https://www.fema.gov/Coronavirus-Rumor-Control) — Helping the public distinguish between rumors and facts regarding the coronavirus (COVID-19) pandemic. A great resource for social media – if you see a rumor, reply back with the correct answer and link to the FEMA Rumor Control page.  
-- [**FEMA How You Can Help**](https://www.fema.gov/coronavirus/how-to-help) — Learn the best way to donate, volunteer, or provide critical supplies to fight the COVID-19 pandemic.  
+- [**Updated: Coronavirus Guidelines for America**](https://www.whitehouse.gov/briefings-statements/coronavirus-guidelines-america/) — The White House Coronavirus Task Force has issued an updated version of this document.
+- [**Frequently Asked Questions**](https://faq.coronavirus.gov) — An interagency website, organized by the White House Coronavirus Task Force, for definitive information on the public’s most frequently asked questions. The site currently features content from the Department of Health and Human Services, Department of Homeland Security, Federal Emergency Management Agency (FEMA), Department of the Treasury, and Small Business Administration.
+- [**Small Business Resources**](https://www.coronavirus.gov/smallbusiness/) — The White House Coronavirus Task Force has provided this information on various assistance programs available to small businesses.
+- [**FEMA Rumor Control**](https://www.fema.gov/Coronavirus-Rumor-Control) — Helping the public distinguish between rumors and facts regarding the coronavirus (COVID-19) pandemic. A great resource for social media – if you see a rumor, reply back with the correct answer and link to the FEMA Rumor Control page.
+- [**FEMA How You Can Help**](https://www.fema.gov/coronavirus/how-to-help) — Learn the best way to donate, volunteer, or provide critical supplies to fight the COVID-19 pandemic.
 
 {{< /accordion >}}
 
 ## Web Guidance
 
-First, when standing up a page on your website specific to COVID-19, please __FOLLOW THE REQUESTED URL STRUCTURE__ to the best of your ability: `https://www.agency.gov/coronavirus`
+First, when standing up a page on your website specific to COVID-19, please **FOLLOW THE REQUESTED URL STRUCTURE** to the best of your ability: `https://www.agency.gov/coronavirus`
 
-Second, __STAY IN YOUR LANE__. Only post information directly related to your agency on your agency’s Coronavirus page.
+Second, **STAY IN YOUR LANE**. Only post information directly related to your agency on your agency’s Coronavirus page.
 
-- Once your agency’s page is live, please __FORWARD THE LINK__ to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov) for inclusion on the “What the U.S. Government is Doing” lane on USA.gov.
+- Once your agency’s page is live, please **FORWARD THE LINK** to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov) for inclusion on the “What the U.S. Government is Doing” lane on USA.gov.
 
-- If you add a significant news release or update to the public, please __FORWARD THE URL OF THE ARTICLE__ to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov)  for inclusion as well.
+- If you add a significant news release or update to the public, please **FORWARD THE URL OF THE ARTICLE** to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov)  for inclusion as well.
 
-Third, __LINK TO THE <a href="#lanes-of-communication">PRIMARY LANES OF COMMUNICATION__</a> for the disease.
+Third, **LINK TO THE <a href="#lanes-of-communication">PRIMARY LANES OF COMMUNICATION**</a> for the disease.
 
-- Link to all three lanes <a href="#lanes-of-communication">__(see below)__</a> from all publicly-released materials related to COVID-19.
+- Link to all three lanes <a href="#lanes-of-communication">**(see below)**</a> from all publicly-released materials related to COVID-19.
 
 - Link to all three lanes prominently on your agency’s Coronavirus page.
 
@@ -130,7 +130,7 @@ Third, __LINK TO THE <a href="#lanes-of-communication">PRIMARY LANES OF COMMUNIC
 
 - If your agency does not have agency-specific coronavirus information to present, include a link to [coronavirus.gov](https://www.coronavirus.gov/) on the homepage of your agency website. Prominence of display and additional locations to place the link is at agency discretion and should be based on user analytics (focus on where your users would be looking for this kind of information).
 
-Fourth, at this point, please __DO NOT CREATE A LOGO__ or any other distinct visual treatment for COVID-19. To provide for some level of consistency of presentation, a high-resolution copy of the image that CDC has been using can be found at [https://phil.cdc.gov/Details.aspx?pid=2871](https://phil.cdc.gov/Details.aspx?pid=2871).
+Fourth, at this point, please **DO NOT CREATE A LOGO** or any other distinct visual treatment for COVID-19. To provide for some level of consistency of presentation, a high-resolution copy of the image that CDC has been using can be found at [https://phil.cdc.gov/Details.aspx?pid=2871](https://phil.cdc.gov/Details.aspx?pid=2871).
 
 Fifth, learn more about how to update your web pages with Schema.org’s newly released tags in the post on WhiteHouse.gov, [Connecting Americans to Coronavirus Information Online](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/).
 
