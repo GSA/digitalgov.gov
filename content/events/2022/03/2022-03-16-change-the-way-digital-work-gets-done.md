@@ -29,7 +29,7 @@ primary_image: march-content-managers-event-title-card
 
 Government agencies are continually being expected to digitally transform their businesses to better meet the needs of their customers, while also keeping costs low. Balancing these priorities can be overwhelming, making it difficult to know where to start.
 
-Learn about a Digital End-to-End Efficiency (DEEE) Framework at the U.S. Department of the Treasury's [Bureau of the Fiscal Service Office of Financial Innovation and Transformation](https://fiscal.treasury.gov/fit), and discover how you can get started digitizing and automating your processes.
+Learn about a Digital End-to-End Efficiency (DEEE) Framework at the U.S. Department of the Treasury's [Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)](https://fiscal.treasury.gov/fit), and discover how you can get started digitizing and automating your processes.
 
 This session will cover a range of key concepts such as:
 
@@ -39,12 +39,16 @@ This session will cover a range of key concepts such as:
 
 ## Speakers
 
-* **Jesrael Lopez** — Program Manager, Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)
-* **Bernadette Goodwin** — Acting Executive Architect, Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)
+Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
+
+* **Jesrael Lopez** — Program Manager
+* **Bernadette Goodwin** — Acting Executive Architect
 
 ## Moderators
 
-* **Beth Martin** — User Experience Lead at the Federal Aviation Administration (FAA) and co-lead of the Web Managers Community of Practice
+Federal Aviation Administration (FAA)
+
+* **Beth Martin** — User Experience Lead, and co-lead of the Web Managers Community of Practice
 
 ## About the Web Managers Community of Practice
 
