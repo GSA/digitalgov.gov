@@ -26,10 +26,10 @@ bio: "Beth Martin is User Experience Lead at the Federal Aviation Administration
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "Federal Aviation Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "FAA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
