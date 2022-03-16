@@ -20,16 +20,16 @@ slug: beth-martin
 email: "Beth.Martin@faa.gov"
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Beth Martin is User Experience Lead at the Federal Aviation Administration and co-lead of the Web Managers Community of Practice."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "Federal Aviation Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "FAA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
