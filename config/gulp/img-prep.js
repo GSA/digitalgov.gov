@@ -1,5 +1,4 @@
 const { src, series } = require("gulp");
-const changeCase = require("change-case");
 const del = require("del");
 const tap = require("gulp-tap");
 const sizeOf = require("image-size");
