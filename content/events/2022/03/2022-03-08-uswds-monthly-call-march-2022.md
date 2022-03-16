@@ -1,7 +1,7 @@
 ---
 title: USWDS Monthly Call - March 2022
-kicker: USWDS
-summary: "During this event, the USWDS core team will preview what to expect in the new USWDS 3.0. "
+kicker: New Release
+summary: "During this event, the USWDS core team will preview what to expect in the new USWDS 3.0."
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-whats-new-in-uswds-30-mar-2022-tickets-293339555507
