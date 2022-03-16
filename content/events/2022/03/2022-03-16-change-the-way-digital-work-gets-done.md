@@ -20,6 +20,8 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - beth-martin
+  - jesrael-lopez
+  - bernadette-goodwin
 slug: change-the-way-digital-work-gets-done
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
