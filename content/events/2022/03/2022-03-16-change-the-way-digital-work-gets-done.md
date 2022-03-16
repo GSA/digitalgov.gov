@@ -1,6 +1,6 @@
 ---
 title: Change the Way Digital Work Gets Done
-kicker: DIGITAL TRANSFORMATION
+kicker: Digital Transformation
 summary: Learn about what a Digital End-to-End Efficiency (DEEE) Framework is and how you can get started digitizing and automating your digital processes.
 host: Web Managers Community of Practice
 event_organizer: Digital.gov
@@ -29,7 +29,7 @@ primary_image: march-content-managers-event-title-card
 
 Government agencies are continually being expected to digitally transform their businesses to better meet the needs of their customers, while also keeping costs low. Balancing these priorities can be overwhelming, making it difficult to know where to start.
 
-Learn about a Digital End-to-End Efficiency (DEEE) Framework at the U.S. Department of the Treasury's Bureau of the Fiscal Service, and discover how you can get started digitizing and automating your processes.
+Learn about a Digital End-to-End Efficiency (DEEE) Framework at the U.S. Department of the Treasury's [Bureau of the Fiscal Service Office of Financial Innovation and Transformation](https://fiscal.treasury.gov/fit), and discover how you can get started digitizing and automating your processes.
 
 This session will cover a range of key concepts such as:
 
@@ -39,8 +39,8 @@ This session will cover a range of key concepts such as:
 
 ## Speakers
 
-* **Jesrael Lopez** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
-* **Bernadette Goodwin*** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
+* **Jesrael Lopez** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)
+* **Bernadette Goodwin*** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation (FIT)
 
 ## Moderators
 
