@@ -8,7 +8,7 @@ pronoun: She/her
 # Keep it under 50 words and only one paragraph
 bio: Bernadette Goodwin is the Acting Executive Architect in the Office of
   Financial Innovation and Transformation within Treasury’s Bureau of the Fiscal
-  Service. In this role, she leads innovation efforts to transform Federal
+  Service. In this role, she leads innovation efforts to transform federal
   financial management.
 # e.g. U.S. General Services Administration
 agency_full_name: Department of the Treasury; Bureau of the Fiscal Service,
@@ -16,4 +16,5 @@ agency_full_name: Department of the Treasury; Bureau of the Fiscal Service,
 # Agency Acronym [e.g., GSA]
 agency: USDT
 slug: bernadette-goodwin
+
 ---
