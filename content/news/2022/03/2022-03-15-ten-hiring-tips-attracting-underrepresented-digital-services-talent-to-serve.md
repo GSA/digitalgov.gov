@@ -77,7 +77,7 @@ Given our own experience and various others we spoke to, we compiled a top ten l
 
    * How is your commitment to accessibility and 508 compliance communicated and is it an explicit value your organization espouses?
    * Will you be ready to answer how you’re bringing in diverse talent? Including the accessibility tools that some employees might need?
-9. **Once a candidate makes the cert and is interviewed, what will you share and what will their experience look like?**
+9. **Once a candidate "makes the cert" (is listed on the "Certificate of Eligibles" list provided to the selecting official) and is interviewed, what will you share and what will their experience look like?**
 
    * What are the perks of working at your agency? What is the value proposition?
    * What is the telework, remote work policy?
