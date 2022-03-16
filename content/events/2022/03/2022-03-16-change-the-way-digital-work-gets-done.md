@@ -40,8 +40,8 @@ This session will cover a range of key concepts such as:
 
 ## Speakers
 
-*   **Jesrael Lopez** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
-*   **Bernadette Goodwin** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
+* **Jesrael Lopez** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
+* **Bernadette Goodwin*** — Department of the Treasury; Bureau of the Fiscal Service, Office of Financial Innovation and Transformation
 
 ## Moderators
 
