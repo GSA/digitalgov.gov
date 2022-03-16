@@ -43,7 +43,7 @@ This session will cover a range of key concepts such as:
 
 ## Moderators
 
-* **Beth Martin** — User Experience Lead at the Federal Aviation Administration and co-lead of the Web Managers Community of Practice.
+* **Beth Martin** — User Experience Lead at the Federal Aviation Administration and co-lead of the Web Managers Community of Practice
 
 ## About the Web Managers Community of Practice
 
