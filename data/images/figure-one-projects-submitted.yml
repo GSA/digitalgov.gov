@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/figure-one-projects-submitted.png
+
+# Image shortcode: {{< img src="figure-one-projects-submitted" >}}
+
+date     : 2022-03-16 17:55:19 -0400
+uid      : figure-one-projects-submitted
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
