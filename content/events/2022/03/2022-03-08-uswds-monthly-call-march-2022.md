@@ -22,7 +22,11 @@ slug: uswds-monthly-call-march-2022
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: uswds-monthly-call-march-title-card
+
 ---
+
+[View the slides (PowerPoint, 3.33 MB, 30 pages)](https://digital.gov/files/uswds-monthly-call-march-2022.pptx)
+
 During this event, the USWDS core team will preview USWDS 3.0. We’ll talk about improvements to day-to-day maintainability, component packages, and the new component library.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
