@@ -1,9 +1,7 @@
 ---
 title: Change the Way Digital Work Gets Done
-deck: Enabling an End-to-End Digital Transformation
 kicker: DIGITAL TRANSFORMATION
-summary: Learn about what a Digital End-to-End Efficiency Framework is and how
-  you can get started digitizing and automating your digital processes.
+summary: Learn about what a Digital End-to-End Efficiency Framework is and how you can get started digitizing and automating your digital processes.
 host: Web Managers Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/change-the-way-digital-work-gets-done-tickets-298325949947
@@ -26,7 +24,9 @@ slug: change-the-way-digital-work-gets-done
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: march-content-managers-event-title-card
+
 ---
+
 Government agencies are continually being expected to digitally transform their businesses to better meet the needs of their customers, while also keeping costs low. Balancing these priorities can be overwhelming, making it difficult to know where to start.
 
 Learn about a Digital End-to-End Efficiency Framework at the Bureau of the Fiscal Service, U.S. Department of the Treasury, and discover how you can get started digitizing and automating your processes.
