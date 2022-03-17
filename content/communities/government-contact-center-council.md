@@ -19,6 +19,7 @@ weight: 1
 # See all authors at https://digital.gov/authors
 authors:
   - tim-cossairt
+  - meghan-daly
 
 community_list:
   - platform: "listserv"
