@@ -28,7 +28,7 @@ You should regularly review your agency's websites and other digital products an
 These high-level policies cover basic requirements for all websites and digital services. Use this handy [Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs)](https://digital.gov/files/10-2021-checklist-for-federal-websites-and-digital-services.xlsx) to ensure you've addressed all critical requirements.
 
 * [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
-* [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
+* [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 * [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
