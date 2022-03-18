@@ -4,7 +4,7 @@ short_url:
 kicker: "Innovation"
 date: 2015-10-21 9:47:15 -0400
 title: The White House, Back To The Future Day, and the Road to Innovation
-summary: ' Well, it&#8217;s here: October 21, 2015. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the Back to the Future trilogy, we, on the other hand, are not quite there&mdash;yet! As the White House'
+summary: 'The White House is marking Back to the Future Day with a series of conversations with innovators across the country. Follow along here.'
 authors:
   - toni-bonitto
 topics:
@@ -14,6 +14,7 @@ topics:
   - Twitter
   - white-house
   - white-house-office-of-science-and-technology-policy
+primary_image: digital-gov-card-2-1200x628
 
 ---
 
@@ -27,17 +28,13 @@ Although Marty and Doc don&#8217;t officially arrive until 7:28 pm, the White Ho
 
 * <strong>9:30 A.M. ET</strong>: A Google+ Hangout Conversation on Time Travel<br />
 <em>Featuring: OSTP Deputy Director for Technology and Innovation Tom Kalil, Professor Tim Ralph of the University of Queensland in Brisbane, Australia, and Mr. Martin Ringbauer, a PhD student at the University of Queensland.<br />
-</em><strong style="line-height: 1.5">What you can do:</strong> <a style="line-height: 1.5" href="https://www.whitehouse.gov/blog/2015/10/20/back-to-the-future-day">Watch live right here</a><span style="line-height: 1.5">!</span>
-
-{{< youtube qEkdtD3gI6E >}}
+</em><strong style="line-height: 1.5">What you can do:</strong> <a style="line-height: 1.5" href="https://obamawhitehouse.archives.gov/blog/2015/10/20/back-to-the-future-day">Watch live right here</a><span style="line-height: 1.5">!</span>
 
 * <strong>10:30 A.M. ET</strong>: A Twitter Conversation on Autonomous Vehicles<br /> <em>Featuring: Deputy Chief Technology Officer Ed Felten and OSTP Deputy Director for Technology and Innovation Tom Kalil.<br /> </em><strong style="line-height: 1.5">What you can do:</strong><span style="line-height: 1.5"> Follow </span><a style="line-height: 1.5" href="https://twitter.com/EdFelten44">@EdFelten44</a><span style="line-height: 1.5"> and </span><a style="line-height: 1.5" href="https://twitter.com/whitehouseostp">@WhiteHouseOSTP</a><span style="line-height: 1.5"> &#8212; and weigh in on the conversation on Twitter using </span><a style="line-height: 1.5" href="https://twitter.com/search?q=%23BackToTheFutureDay">#BackToTheFutureDay</a><span style="line-height: 1.5">.</span>
 
 * <strong>11:30 A.M. ET</strong>: A Twitter Q+A on the Future of Women in STEM<br /> <em>Featuring: Chief Technology Officer Megan Smith, NASA Chief Scientist Dr. Ellen Stofan, OSTP Principal Assistant Director for Environment and Energy Tammy Dickinson, and </em><em>L&#8217;Or</em>é<em>al&#8217;s</em><em> <a href="http://www.lorealusa.com/Foundation/FWIS2.aspx?topcode=Foundation_AccessibleScience_WE_2015_US_Fellows">2015 U.S. Women in Science fellows</a>.<br /> </em><strong style="line-height: 1.5">What you can do:</strong><span style="line-height: 1.5"> Follow </span><a style="line-height: 1.5" href="https://twitter.com/USCTO">@USCTO</a><span style="line-height: 1.5"> and </span><a style="line-height: 1.5" href="https://twitter.com/LOrealUSA">@LOrealUSA</a><span style="line-height: 1.5"> on Twitter, and weigh in on what you&#8217;d like to see women doing in STEM fields in 2045 using hashtag </span><a style="line-height: 1.5" href="https://twitter.com/search?q=%23WomenInScience">#WomenInScience</a><span style="line-height: 1.5">.</span>
 
-* <strong>1:00 P.M. ET</strong>: A Google+ Hangout on Understanding the Human Brain<br /> <em>Featuring: OSTP Assistant Director for Neuroscience and Mental Health Monica Basco; OSTP Senior Policy Advisor Knatokie Ford; OSTP Assistant Director for Defense Programs (and neuroscientist) Chris Fall; Karl Deisseroth M.D., Ph.D., the D.H. Professor of Bioengineering and of Psychiatry and Behavioral Sciences at Stanford University; Kevin Pearce, Snowboarder and BRAIN initiative activist; and Dr. Julie Brefczynksi-Lewis, Research Assistant Professor at the West Virginia University School of Medicine.<br /> </em><strong style="line-height: 1.5">What you can do: </strong><a style="line-height: 1.5" href="https://www.whitehouse.gov/blog/2015/10/20/back-to-the-future-day">Watch live right here</a><span style="line-height: 1.5">.</span>
-
-{{< youtube XrV2pQ7z2JE >}}
+* <strong>1:00 P.M. ET</strong>: A Google+ Hangout on Understanding the Human Brain<br /> <em>Featuring: OSTP Assistant Director for Neuroscience and Mental Health Monica Basco; OSTP Senior Policy Advisor Knatokie Ford; OSTP Assistant Director for Defense Programs (and neuroscientist) Chris Fall; Karl Deisseroth M.D., Ph.D., the D.H. Professor of Bioengineering and of Psychiatry and Behavioral Sciences at Stanford University; Kevin Pearce, Snowboarder and BRAIN initiative activist; and Dr. Julie Brefczynksi-Lewis, Research Assistant Professor at the West Virginia University School of Medicine.<br /> </em><strong style="line-height: 1.5">What you can do: </strong><a style="line-height: 1.5" href="https://obamawhitehouse.archives.gov/blog/2015/10/20/back-to-the-future-day">Watch live right here</a><span style="line-height: 1.5">.</span>
 
 Some recent articles about innovation in technology and government that we&#8217;ve posted here on DigitalGov include:
 
