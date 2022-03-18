@@ -14,17 +14,19 @@ topics:
   - dap
   - nasa
   - social-media-metrics
+primary_image: sept-2015-peak-full-eclipse-visits-analytics-usa-gov
+
 ---
 
-[{{< legacy-img src="2015/09/600-x-313_1019-pm-274-629-PEAK-full-eclipse1.jpg" alt="A screen capture from Analytics.USA.gov shows that 274,629 people visited U.S. governnment websites at 10:19 pm on September 27, 2015 during the Super Blood Moon lunar eclipse." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/1080-x-1285_1019-pm-274-629-PEAK-full-eclipse.jpg)
-
 NASA&#8217;s reach over the last 24 hours eclipsed that of the regulars typically seen in [government digital metrics](https://analytics.USA.gov). But, all agencies can drive the conversation and accomplish a similar feat with a good [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
+
+{{< legacy-img src="2015/09/600-x-313_1019-pm-274-629-PEAK-full-eclipse1.jpg" alt="A screen capture from Analytics.USA.gov shows that 274,629 people visited U.S. governnment websites at 10:19 pm on September 27, 2015 during the Super Blood Moon lunar eclipse." >}}
 
 [NASA defines a supermoon](http://nasa.tumblr.com/post/129807068979/what-is-a-supermoon-lunar-eclipse), which appears approximately 14 percent larger in diameter due to its proximity to the Earth, as _a full or new moon that falls closest to the fall equinox, and is at its closest approach to the Earth_.
 
 Sunday’s supermoon eclipse, visible to North and South America, Europe, Africa, and parts of Asia and the eastern Pacific, lasted an hour and 12 minutes. It is the first time since 1982 that both a supermoon and a total lunar eclipse have made an appearance together.
 
-If you weren&#8217;t able to make one of the eclipse parties happening in many cities, or were experiencing heavy cloud cover, [NASA Television](http://www.nasa.gov/multimedia/nasatv/) live-streamed the event from their [Marshall Space Flight Center](https://www.nasa.gov/centers/marshall/home) in Huntsville, Alabama. Hosts conducted many live and pre-recorded interviews about last night&#8217;s supermoon, lunar and solar eclipses, and interesting facts about Earth and the moon. They referred to the [#AskNASA](https://twitter.com/search?q=%23AskNASA) hashtag to answer questions from the public across various social media channels, from 8 pm until midnight. ICYMI, [watch the broadcast](http://www.ustream.tv/recorded/74312628) on NASA&#8217;s Ustream channel.
+If you weren&#8217;t able to make one of the eclipse parties happening in many cities, or were experiencing heavy cloud cover, [NASA Television](http://www.nasa.gov/multimedia/nasatv/) live-streamed the event from their [Marshall Space Flight Center](https://www.nasa.gov/centers/marshall/home) in Huntsville, Alabama. Hosts conducted many live and pre-recorded interviews about last night&#8217;s supermoon, lunar and solar eclipses, and interesting facts about Earth and the moon. They referred to the hashtag [#AskNASA](https://twitter.com/search?q=%23AskNASA) to answer questions from the public across various social media channels, from 8 pm until midnight. ICYMI, [watch the broadcast](http://www.ustream.tv/recorded/74312628) on NASA&#8217;s Ustream channel.
 
 While the next supermoon will be October 27, 2015, the next supermoon eclipse won&#8217;t happen until the year 2033 (this rarity has only happened five times since 1900!).
 
@@ -82,4 +84,4 @@ Also known as _America&#8217;s Eclipse_ and the _Great American Eclipse_ because
 
 ***
 
-_Want to read more great content like this? Sign up for our <a href="https://public.govdelivery.com/accounts/USHOWTO/subscriber/new" target="_blank">daily or weekly DigitalGov newsletter</a>!_
+*Want to read more great content like this? Sign up for our <a href="https://digital.gov/about/subscribe/">DigitalGov newsletter</a>!*
