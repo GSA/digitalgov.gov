@@ -20,7 +20,6 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - gsa-blog-team
-  - toni-bonitto
 
 slug: sunshine-week-how-gsa-supports-open-government-principles
 
