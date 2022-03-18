@@ -80,7 +80,7 @@ As this rare celestial event began to come to a close at 11:23 pm with the start
 
 During the broadcast of last night&#8217;s supermoon eclipse on NASA TV, solar scientist Mitzi Adams of NASA&#8217;s Marshall Space Flight Center shared her interview with a Scientist Emeritus of NASA&#8217;s [Goddard Space Flight Center](https://www.nasa.gov/centers/goddard/home) that had been pre-recorded for the event on Friday. Astrophysicist, author, and eclipse expert, Dr. Fred Espenak, spoke about one of the upcoming eclipse events, the [2017 total solar eclipse](http://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2017Aug21Tgoogle.html).
 
-Also known as _America&#8217;s Eclipse_ and the _Great American Eclipse_ because it runs exclusively through the United States, this too is a rare eclipse and has been predicted to take place on August 21, 2017. Those lucky enough to be in the [Path of Totality](http://www.eclipse2017.org/2017/in_the_path.htm) (the path that the moon&#8217;s shadow takes as it crosses the United states), from Oregon in the northwest to the Carolinas in the southeast, will be able to see all phases of this kind of eclipse which hasn&#8217;t happened since 1979.
+Also known as _America&#8217;s Eclipse_ and the _Great American Eclipse_ because it runs exclusively through the United States, this too is a rare eclipse and has been predicted to take place on August 21, 2017. Those lucky enough to be in the [Path of Totality](http://www.eclipse2017.org/2017/in_the_path.htm) (the path that the moon&#8217;s shadow takes as it crosses the United States), from Oregon in the northwest to the Carolinas in the southeast, will be able to see all phases of this kind of eclipse which hasn&#8217;t happened since 1979.
 
 ***
 
