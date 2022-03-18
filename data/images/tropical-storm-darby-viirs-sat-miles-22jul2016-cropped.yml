@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/tropical-storm-darby-viirs-sat-miles-22jul2016-cropped.png
+
+# Image shortcode: {{< img src="tropical-storm-darby-viirs-sat-miles-22jul2016-cropped" >}}
+
+date     : 2022-03-18 18:55:53 -0400
+uid      : tropical-storm-darby-viirs-sat-miles-22jul2016-cropped
+width    : 1200
+height   : 628
+format   : png
+credit   : "" 
+caption  : "Eastern North Pacific Ocean on July 22, 2016. At the time, four tropical storms were spinning, with one (tropical storm Darby) about to make landfall in Hawaii. NASA/NOAA Suomi-NPP VIIRS satellite image from NASA Worldview, https://worldview.earthdata.nasa.gov/." 
+alt      : "A satellite image of four tropical storms - Darby, Estelle, Gorgette, and Frank - spinning in the eastern Pacfic Ocean between Hawaii and Mexico, with one, tropical storm Darby, about to make landfall in Hawaii." 
