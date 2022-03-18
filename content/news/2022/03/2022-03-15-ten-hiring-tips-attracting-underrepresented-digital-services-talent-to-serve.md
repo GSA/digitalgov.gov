@@ -2,9 +2,7 @@
 date: 2022-03-16 18:42:00 -0500
 title: "10 Hiring Tips for Attracting Underrepresented Digital Services Talent to Serve"
 deck: ""
-summary: As we focus on Diversity, Equity, Inclusion, and Accessibility (DEIA)
-  as a priority across the federal government, what are some ideas we can keep
-  in mind as we build our digital teams?
+summary: As we focus on Diversity, Equity, Inclusion, and Accessibility (DEIA) as a priority across the federal government, what are some ideas we can keep in mind as we build our digital teams?
 # See all topics at https://digital.gov/topics
 topics:
   - professional-development
