@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://www.gsa.gov/blog/2022/03/17/sunshine-week-how-gsa-supports-open-government-principles
-source: gsa
+source: 
 date: 2022-03-17 18:49:00 -0500
 kicker: Transparency, Participation, and Collaboration
 title: "Sunshine Week: How GSA Supports Open Government Principles"
