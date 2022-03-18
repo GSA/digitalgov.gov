@@ -14,7 +14,7 @@ topics:
   - Twitter
   - white-house
   - white-house-office-of-science-and-technology-policy
-primary_image: digital-gov-card-2-1200x628
+primary_image: white-house-back-to-the-future-day-2015-social-graphic-cropped
 
 ---
 
