@@ -6,8 +6,8 @@ slug: join-us-web-design-system-community
 date: 2019-10-08 13:00:00 -0500
 kicker: "USWDS"
 title: "Join the U.S. Web Design System Community"
-deck: "**Are you and your team working with the U.S. Web Design System on your site, or have plans to start using it?** The USWDS team has a public Slack channel where you can meet other government engineers, content specialists, and designers who are working with the USWDS to build accessible, mobile-friendly websites. "
-summary: "Are you and your team working with the U.S. Web Design System on your site, or have plans to start using it? The USWDS team has a public Slack channel where you can meet other government engineers, content specialists, and designers who are working with the USWDS to build accessible, mobile-friendly websites. "
+deck: "**Join the U.S. Web Design System Community**&mdash;Are you and your team working with the U.S. Web Design System on your site, or have plans to start using it? The USWDS team has a public Slack channel where you can meet other government engineers, content specialists, and designers who are working with the USWDS to build accessible, mobile-friendly websites."
+summary: "Are you and your team working with the U.S. Web Design System on your site, or have plans to start using it? The USWDS team has a public Slack channel where you can meet other government engineers, content specialists, and designers who are working with the USWDS to build accessible, mobile-friendly websites."
 
 # originally published at the following URL
 source_url: "https://digital.gov/communities/uswds/"
@@ -30,4 +30,5 @@ authors:
   - toni-bonitto
 
 # Make it better ♥
+
 ---
