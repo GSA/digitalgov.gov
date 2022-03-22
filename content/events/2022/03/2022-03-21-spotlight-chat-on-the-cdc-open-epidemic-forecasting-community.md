@@ -2,7 +2,7 @@
 title: Spotlight Chat on the CDC Open Epidemic Forecasting Community
 kicker: Citizen Science
 summary: "A discussion with members of the CDC’s Epidemic Prediction Initiative on best practices and considerations when organizing crowdsourcing initiatives."
-deck: Crowd-forecasting Pandemics
+deck: "Crowd-forecasting Pandemics"
 host: Federal Crowdsourcing and Citizen Science Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/spotlight-chat-on-the-cdc-open-epidemic-forecasting-community-tickets-302946780977
