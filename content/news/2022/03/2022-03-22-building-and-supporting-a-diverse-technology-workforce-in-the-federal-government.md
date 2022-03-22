@@ -23,13 +23,13 @@ weight: 1
 
 ---
 
-{{< box >}} Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity.<br /><br />Most recently, Brian served as Director of Design and Development at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) and he now serves as the acting Chief Innovation Officer at the [Federal Deposit Insurance Corporation](https://www.fdic.gov/).<br /><br />Given Brian’s experience across the federal government at all levels, the U.S. Digital Corps team asked him to share some thoughts about diversity and representation in civic tech as we prepare to onboard our first cohort of Fellows.<br /><br />[Dahianna Salazar Foreman](https://digital.gov/authors/dahianna-salazar-foreman/), Communications Lead, U.S. Digital Corps{{< /box >}}
+{{< box >}}Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity.
 
-{{< card-quote text="Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity. 
+Most recently, Brian served as Director of Design and Development at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) and he now serves as the acting Chief Innovation Officer at the [Federal Deposit Insurance Corporation](https://www.fdic.gov/).
 
-Most recently, Brian served as Director of Design and Development at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) and he now serves as the acting Chief Innovation Officer at the [Federal Deposit Insurance Corporation](https://www.fdic.gov/). 
+Given Brian’s experience across the federal government at all levels, the U.S. Digital Corps team asked him to share some thoughts about diversity and representation in civic tech as we prepare to onboard our first cohort of Fellows.
 
-Given Brian’s experience across the federal government at all levels, the U.S. Digital Corps team asked him to share some thoughts about diversity and representation in civic tech as we prepare to onboard our first cohort of Fellows." cite="Dahianna Salazar Foreman, Communications Lead, U.S. Digital Corps" >}}
+&mdash;[Dahianna Salazar Foreman](https://digital.gov/authors/dahianna-salazar-foreman/), Communications Lead, U.S. Digital Corps{{< /box >}}
 
 ## Why Civic Tech and Government Leaders Should Care About Diversity and Representation
 
