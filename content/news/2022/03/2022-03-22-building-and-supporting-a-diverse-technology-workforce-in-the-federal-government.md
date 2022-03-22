@@ -15,21 +15,21 @@ topics:
 authors:
   - brian-whittaker
 slug: building-and-supporting-a-diverse-technology-workforce-in-the-federal-government
-primary_image: 10x-areas-of-focus
+primary_image: brian-whittaker-fdic-us-digital-corps-title-card
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
-{{< note >}}Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity.
+
+{{< card-quote text="Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity.
 
 Most recently, Brian served as Director of Design and Development at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) and he now serves as the acting Chief Innovation Officer at the [Federal Deposit Insurance Corporation](https://www.fdic.gov/).
 
-Given Brian’s experience across the federal government at all levels, the U.S. Digital Corps team asked him to share some thoughts about diversity and representation in civic tech as we prepare to onboard our first cohort of Fellows.
+Given Brian’s experience across the federal government at all levels, the U.S. Digital Corps team asked him to share some thoughts about diversity and representation in civic tech as we prepare to onboard our first cohort of Fellows." cite="Dahianna Salazar Foreman, Communications Lead, U.S. Digital Corps" >}}
 
-— Dahianna Salazar Foreman, Communications Lead, U.S. Digital Corps{{< /note >}}
-
-## Why Civic Tech and Government Leaders Should Care About Diversity and Representation 
+## Why Civic Tech and Government Leaders Should Care About Diversity and Representation
 
 Diversity and representation is critical in civic tech and government, especially now that digital service delivery is becoming essential for government services to reach the American public. These products and services need to account for the diverse perspectives, backgrounds, and ability of the people using the service; otherwise, it will not have the greatest reach and inequity is bound to occur.
 
@@ -37,7 +37,7 @@ One way to prevent this is to hire diverse talent and, when possible, hire from 
 
 Not only is diversity and representation through all levels and parts of an organization key to creating and delivering equitable and accessible products and services, but it is also critical to recruiting and retaining talent. A lack of diversity in leadership and management can be seen as a sign that minorities are not seen as leaders and/or are not valued, which could send your diverse talent out the door.
 
-I’ve experienced this personally. Early in my career, I worked at a company in multiple locations and had the opportunity to see leadership and diversity in each region. I was fortunate because, after taking note of the lack of diversity in one region, I moved to another region where I saw diversity not only at the individual contributor level but at all levels of the organization. 
+I’ve experienced this personally. Early in my career, I worked at a company in multiple locations and had the opportunity to see leadership and diversity in each region. I was fortunate because, after taking note of the lack of diversity in one region, I moved to another region where I saw diversity not only at the individual contributor level but at all levels of the organization.
 
 ## Supporting Early-career Technologists in Government
 
