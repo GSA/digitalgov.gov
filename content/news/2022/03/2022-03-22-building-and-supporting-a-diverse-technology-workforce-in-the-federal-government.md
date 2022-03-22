@@ -23,13 +23,15 @@ weight: 1
 
 ---
 
-{{< box >}}Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity.
+{{< box >}} {{< img-right src="brian-whittaker-fdic" >}}
 
-Most recently, Brian served as Director of Design and Development at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) and he now serves as the acting Chief Innovation Officer at the [Federal Deposit Insurance Corporation](https://www.fdic.gov/).
+_Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity._
 
-Given Brian’s experience across the federal government at all levels, the U.S. Digital Corps team asked him to share some thoughts about diversity and representation in civic tech as we prepare to onboard our first cohort of Fellows.
+_Most recently, Brian served as Director of Design and Development at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) and he now serves as the acting Chief Innovation Officer at the [Federal Deposit Insurance Corporation](https://www.fdic.gov/)._
 
-&mdash;[Dahianna Salazar Foreman](https://digital.gov/authors/dahianna-salazar-foreman/), Communications Lead, U.S. Digital Corps{{< /box >}}
+_Given Brian’s experience across the federal government at all levels, the U.S. Digital Corps team asked him to share some thoughts about diversity and representation in civic tech as we prepare to onboard our first cohort of Fellows._
+
+&mdash;[Dahianna Salazar Foreman](https://digital.gov/authors/dahianna-salazar-foreman/), Communications Lead, U.S. Digital Corps {{< /box >}}
 
 ## Why Civic Tech and Government Leaders Should Care About Diversity and Representation
 
