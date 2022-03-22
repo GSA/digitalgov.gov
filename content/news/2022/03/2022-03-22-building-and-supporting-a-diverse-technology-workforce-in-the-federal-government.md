@@ -23,9 +23,7 @@ weight: 1
 
 ---
 
-{{< box >}} {{< img-right src="brian-whittaker-fdic" >}}
-
-_Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity._
+{{< box >}}_Brian Whittaker has long been a champion for representation in government, first as the Deputy Executive Director at the [Centers of Excellence](https://coe.gsa.gov/), where he managed the recruitment and selection of technologists, and then as Acting Director for [18F](https://18f.gsa.gov/), where he managed a diverse workforce and worked on improving equity._
 
 _Most recently, Brian served as Director of Design and Development at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) and he now serves as the acting Chief Innovation Officer at the [Federal Deposit Insurance Corporation](https://www.fdic.gov/)._
 
@@ -34,6 +32,8 @@ _Given Brian’s experience across the federal government at all levels, the U.S
 &mdash;[Dahianna Salazar Foreman](https://digital.gov/authors/dahianna-salazar-foreman/), Communications Lead, U.S. Digital Corps {{< /box >}}
 
 ## Why Civic Tech and Government Leaders Should Care About Diversity and Representation
+
+{{< img-right src="brian-whittaker-fdic" >}}
 
 Diversity and representation is critical in civic tech and government, especially now that digital service delivery is becoming essential for government services to reach the American public. These products and services need to account for the diverse perspectives, backgrounds, and ability of the people using the service; otherwise, it will not have the greatest reach and inequity is bound to occur.
 
