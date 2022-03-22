@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/uswds-monthly-call-may-title-card.png
+
+# Image shortcode: {{< img src="uswds-monthly-call-may-title-card" >}}
+
+date     : 2022-03-21 18:45:44 -0400
+uid      : uswds-monthly-call-may-title-card
+width    : 1200
+height   : 628
+format   : png
+credit   : ""
+caption  : ""
+alt      : "Title card image of USWDS logo, a multi-colored triangle shapes pentagon with the lines of text on a black background. The first test line has USWDS Monthly Call in white text. The second line has May 19, 2022 in yellow text."
