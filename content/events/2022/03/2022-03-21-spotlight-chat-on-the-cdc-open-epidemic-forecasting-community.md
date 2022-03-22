@@ -2,7 +2,6 @@
 title: Spotlight Chat on the CDC Open Epidemic Forecasting Community
 kicker: Citizen Science
 summary: "A discussion with members of the CDC’s Epidemic Prediction Initiative on best practices and considerations when organizing crowdsourcing initiatives."
-deck: "Crowd-forecasting Pandemics"
 host: Federal Crowdsourcing and Citizen Science Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/spotlight-chat-on-the-cdc-open-epidemic-forecasting-community-tickets-302946780977
@@ -35,7 +34,9 @@ primary_image: citizen-science-spotlight-chat-cdc-event-title-card
 
 ---
 
-Spotlight Chats are a series of moderated discussions with innovation leaders across government highlighting success stories and lessons learned. 
+_Spotlight Chats are a series of moderated discussions with innovation leaders across government highlighting success stories and lessons learned._
+
+## Crowd-forecasting Pandemics
 
 In this event, members of the Centers for Disease Control and Prevention (CDC) Epidemic Prediction Initiative (EPI) will share their experience in developing an open forecasting community. The EPI aims to improve the science and usability of epidemic forecasts by facilitating open forecasting projects with specific public health objectives. They will also share best practices and considerations when organizing similar crowdsourcing initiatives.
 
