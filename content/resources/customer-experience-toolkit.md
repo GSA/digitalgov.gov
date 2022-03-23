@@ -159,7 +159,6 @@ Systematically collect and analyze customer behavior and feedback to understand 
 ### Map the entire customer journey
 
 * [Journey Mapping the Customer Experience: A USA.gov Case Study](https://digital.gov/2015/08/12/journey-mapping-the-customer-experience-a-usa-gov-case-study/)
-* [The Customer Experience Journey Mapping Toolkit](http://designingcx.com/cx-journey-mapping-toolkit/) &#8211; Designing CX
 * Make it easy to complete common tasks
     * [List of Top Customer Tasks](http://www2.ed.gov/about/top-tasks.html) &#8211; Department of Education (ED)
     * [Frequently Requested Forms](http://www.dhs.gov/frequently-requested-forms) &#8211; DHS
