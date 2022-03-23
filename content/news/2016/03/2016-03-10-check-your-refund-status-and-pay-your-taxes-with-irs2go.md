@@ -13,6 +13,7 @@ topics:
   - thursday-mobile-products
   - us-digital-registry
   - usa-gov-federal-mobile-apps-directory
+primary_image: irs2go-google-play-logo-1200
 
 ---
 
@@ -26,7 +27,7 @@ IRS2Go offered for [Amazon](http://www.amazon.com/Internal-Revenue-Service-IRS2G
 
 These additions have helped IRS2Go hit the #1 spot in the Finance category in both the App Store and Google Play at one point in February. Usage of the app during the first two months of the year has also increased by more than 30% (3.7 million users in 2016 vs. 2.8 million in 2015) than the same time last year.
 
-IRS2Go users are still able check the status of their returns, access free tax preparation assistance (for those who qualify) and stay connected to the IRS through various social media streams.
+IRS2Go users are still able check the status of their returns, access free tax preparation assistance (for those who qualify), and stay connected to the IRS through various social media streams.
 
 {{< legacy-img src="2016/03/600-x-323-IRS2Go-app-screenshots-Amazon-Kindle.jpg" alt="Three screens from the IRS to Go app on an Amazon Kindle tablet.." >}}
 
