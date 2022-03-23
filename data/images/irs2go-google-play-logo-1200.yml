@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/irs2go-google-play-logo-1200.png
+
+# Image shortcode: {{< img src="irs2go-google-play-logo-1200" >}}
+
+date     : 2022-03-23 22:05:09 -0400
+uid      : irs2go-google-play-logo-1200
+width    : 1200
+height   : 628
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "The blue and white IRS 2 Go app logo, from Google Play." 
