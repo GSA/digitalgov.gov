@@ -61,13 +61,9 @@ Lee recommended using a simple formula to create user point-of-view statements:
 
 When you prepare to run the challenge, make sure the potential solvers know the problem itself (which you painstakingly identified previously) before asking them to do something; it’ll help both you and the potential solvers stay focused and produce more pointed solutions.
 
-For example, instead of opening your competition description with:
+For example, instead of opening your competition description with, "We want ideas for new methods to harvest honey," state the problem behind it, and then ask for ideas:
 
-“We want ideas for new methods to harvest honey,”
-
-state the problem behind it, and then ask for ideas:
-
-“Recent weather conditions have caused this year’s crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey.&#8221;
+"Recent weather conditions have caused this year's crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey."
 
 With this method, the potential solver has a much better idea of what he/she is trying to accomplish.
 
