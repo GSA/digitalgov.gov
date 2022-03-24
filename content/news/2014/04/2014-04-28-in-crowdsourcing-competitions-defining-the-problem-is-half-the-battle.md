@@ -63,7 +63,7 @@ When you prepare to run the challenge, make sure the potential solvers know the 
 
 For example, instead of opening your competition description with, "We want ideas for new methods to harvest honey," state the problem behind it, and then ask for ideas:
 
-"Recent weather conditions have caused this year's crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey."
+_"Recent weather conditions have caused this year's crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey."_
 
 With this method, the potential solver has a much better idea of what he/she is trying to accomplish.
 
