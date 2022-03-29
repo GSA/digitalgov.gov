@@ -108,7 +108,7 @@ Below we have added specific resources to each guideline.
 * [Mobile paper prototype]({{< ref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}})
 * [Mobile Product Testing Guidelines and Resources]({{< ref "2013-08-22-mobile-product-testing-guidelines.md" >}})
 * [The Emulator Dilemma: Can Mobile Device Testing Be Completed With Devices?]({{< ref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}})
-* [Federal Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) and Lessons Learned
+* [Federal Crowdsource Mobile Testing Program]({{< ref "_index.md" >}}) and Lessons Learned
 * [AIDS.Gov Performance Testing Lessons Learned]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}})
 
 ### Non-Government Examples and Resources:

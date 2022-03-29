@@ -38,7 +38,7 @@ Mobile compatibility testing is checking or validating that your application beh
 
 We spend a lot of time planning and developing our application, and we want all of our customers to have the same expected user experience.
 
-Test cycles conducted through the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) have uncovered [many types of compatibility related issues]({{< ref "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}}) that have an effect on user experience, including:
+Test cycles conducted through the [Federal CrowdSource Mobile Testing Program]({{< ref "_index.md" >}}) have uncovered [many types of compatibility related issues]({{< ref "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}}) that have an effect on user experience, including:
 
   * Content—A full website usually does not fit on a small mobile device
   * Navigation—Mobile navigation may require different navigation methods than the full size website
@@ -61,7 +61,7 @@ Additionally, there are many tools available, such as [emulators and simulators]
 
 ## How Do You Ensure Your Mobile Application Is Compatible with All of Your Customers’ Devices? {{< legacy-img src="2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="" >}} 
 
-The [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) is ready to assist you in determining if your application is compatible with the mobile devices your customers are using.
+The [Federal CrowdSource Mobile Testing Program]({{< ref "_index.md" >}}) is ready to assist you in determining if your application is compatible with the mobile devices your customers are using.
 
 This program gathers federal employees and conducts a test cycle that will perform scripted and exploratory testing on your application. These individual results will be consolidated into an actionable results report that your agency can use to improve your application. This process also provides a forum for the tester to collaborate and share knowledge with others.
 

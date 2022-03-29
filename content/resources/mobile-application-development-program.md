@@ -53,7 +53,7 @@ authors:
           Speed up your acquisition of testing services with ready-made sample <a title="Mobile SOW and Developer Qualifications" href="{{< ref "mobile-sow-and-developer-qualifications.md" >}}">SOW language</a> with mobile developer qualifications.
         </li>
         <li>
-          Leverage a crowd-sourced pool of federal volunteers to test your mobile web app/site on a wide range of mobile devices with the <a title="Federal CrowdSource Mobile Testing Program" href="{{< ref "service_mobile-testing-program.md" >}}">Federal Crowdsource Mobile Testing Program</a>.
+          Leverage a crowd-sourced pool of federal volunteers to test your mobile web app/site on a wide range of mobile devices with the <a title="Federal CrowdSource Mobile Testing Program" href="{{< ref "_index.md" >}}">Federal Crowdsource Mobile Testing Program</a>.
         </li>
       </ul>
     </td>

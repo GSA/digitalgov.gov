@@ -31,7 +31,7 @@ Herrmann heavily supports the act of writing everything down. Even at the beginn
 
 Herrmann suggests developing a clear design model before coding starts. ABMC used wireframes before consulting developers. Coming from a small agency, Herrmann knew she would have to get creative with testing and retrieving feedback.
 
-Before the app’s release, ABMC asked the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) to help organize mobile testing because there was a concern over having too much content for a mobile app. They created a small test-case, based around a representation of future users, which had really positive results.
+Before the app’s release, ABMC asked the [Federal CrowdSource Mobile Testing Program]({{< ref "_index.md" >}}) to help organize mobile testing because there was a concern over having too much content for a mobile app. They created a small test-case, based around a representation of future users, which had really positive results.
 
 “Please, please, please think about your audience,” Herrmann explained in the webinar. The user&#8217;s end goal should always be in mind, and working with these user experience guidelines will help.
 

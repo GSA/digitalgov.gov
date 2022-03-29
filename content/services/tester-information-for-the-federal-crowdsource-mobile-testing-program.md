@@ -6,7 +6,7 @@ summary: "Armed with only a mobile device, Federal volunteer mobile product test
 weight: 0
 ---
 
-[{{< legacy-img src="/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the [Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program"). Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into GitHub.
+[{{< legacy-img src="/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the [Crowdsource Mobile Testing Program]({{< ref "_index.md" >}} "Federal CrowdSource Mobile Testing Program"). Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into GitHub.
 
 In return, testers
 
