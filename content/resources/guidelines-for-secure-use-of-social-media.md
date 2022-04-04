@@ -13,7 +13,7 @@ authors:
 
 The use of social media for federal services and interactions is growing tremendously, supported by initiatives from the administration, directives from government leaders, and demands from the public. This situation presents both opportunity and risk. Guidelines and recommendations for using social media technologies in a manner that minimizes the risk are analyzed and presented in this document.
 
-[**View Guidelines for Secure Use of Social Media**](https://cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf)
+[**View Guidelines for Secure Use of Social Media**](https://www.cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf)
 
 ## Related Links
 
