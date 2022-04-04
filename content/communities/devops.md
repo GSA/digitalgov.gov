@@ -6,8 +6,7 @@ slug: devops
 date: 2019-12-12 19:00:00 -0500
 title: "DevOps"
 deck: "Operating rapidly changing resilient systems at scale"
-summary: "The practice of operations and development staff participating in the entire service lifecycle to operate rapidly changing resilient systems at scale."
-redirectto: https://github.com/18F/DevOps-Community-of-Practice/wiki/DevOps-Community-of-Practice
+summary: "To join our federal government employee only Listserv, send an email from your official government email to: devops-today-subscribe-request@listserv.gsa.gov."
 
 # see all topics at https://digital.gov/topics
 topics:
