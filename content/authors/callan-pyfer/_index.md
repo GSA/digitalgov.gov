@@ -6,7 +6,7 @@ last_name: Pyfer
 # If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: He/Him/His
 # Keep it under 50 words and only one paragraph
-bio: Callan is a Web Analytics Specialist at the Consumer Financial Protection
+bio: Callan is a Web Analytics Specialist and contractor at the Consumer Financial Protection
   Bureau. Callan has been in this role since 2021 and has extensive experience
   optimizing organic campaigns to achieve maximum organic visibility on search
   engines. Prior to working for the Bureau, Callan served as SEO Account Manager
