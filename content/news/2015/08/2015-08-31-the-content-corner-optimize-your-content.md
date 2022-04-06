@@ -14,13 +14,15 @@ topics:
   - the-content-corner
 ---
 
-{{< legacy-img src="2015/08/600-x-400-OPTIMIZATION-annatodica-iStock-Thinkstock-482812846.jpg" alt="A word cloud for optimization and related website terms." caption="" >}} 
+{{< legacy-img src="2015/08/600-x-400-OPTIMIZATION-annatodica-iStock-Thinkstock-482812846.jpg" alt="A word cloud for optimization and related website terms." caption="annatodica/iStock/Thinkstock" >}} 
 
 For the past several weeks, I have been writing about fairly cerebral and more technical aspects of content generation and language in general. This week, I felt it was time to get back to a more basic content concept: content optimization.
 
 Frequently when content optimization is discussed it is heavily focused on [search engine optimization (SEO)]({{< ref "2013-05-02-why-government-websites-need-seo.md" >}}) and the development of keywords. Doing everything you can to help people find the information you have created is important, but it goes far beyond chasing a search engine’s ever-changing algorithm. As content creation and SEO have evolved, the importance of [well-written, concise content]({{< ref "plain-language-web-writing-tips.md" >}}) as part of your optimization strategy cannot be discounted.
 
-## Keywords Still Matter {{< legacy-img src="2015/08/600-x-400-Keyword-compass-phototake-iStock-Thinkstock-463488879.jpg" alt="A compass and various letters surround a search box." caption="" >}} 
+## Keywords Still Matter
+
+{{< legacy-img src="2015/08/600-x-400-Keyword-compass-phototake-iStock-Thinkstock-463488879.jpg" alt="A compass and various letters surround a search box." caption="phototake/iStock/Thinkstock" >}} 
 
 In the early days of SEO, the quest for perfect [keywords]({{< ref "2013-05-29-government-websites-and-keyword-search-strategy.md" >}}) drove content creators or content strategists to start cramming their content with words that would boost their search engine ranking. And while at times this was successful and you were likely to find this content easily, reading it was a chore. The keyword and the quest for higher and higher search engine rankings was having too great an influence on the content itself, and in the end, if you deliver subpar content, a customer will remember that experience and be very hesitant to click on a link associated with your agency again.
 
@@ -42,7 +44,9 @@ Research has found the length of your content is also extremely important (I alw
 
 Within these 1,600 or so words, make sure you are creating short paragraphs (40-55 words) with clear breaks and frequent headings to assure optimum scannability. Bullets and images can also help a user move through a piece of content.
 
-## All About the Content {{< legacy-img src="2015/08/600-x-400-Content-SEO-annatodica-iStock-Thinkstock-476009654.jpg" alt="The word Content and acronym SEO (search engine optimization) intersect at the common letter e." caption="" >}} 
+## All About the Content
+
+{{< legacy-img src="2015/08/600-x-400-Content-SEO-annatodica-iStock-Thinkstock-476009654.jpg" alt="The word Content and acronym SEO (search engine optimization) intersect at the common letter e." caption="annatodica/iStock/Thinkstock" >}} 
 
 At times I have to fight the urge to discount all SEO methods in favor of a “best content wins” methodology. We live and create in an environment controlled by algorithms, and anyone who ignores the rules on which search engines operate is taking a risk. But in the end, a great deal of success depends on the quality of the content we are creating from the technical SEO and customer satisfaction aspects as well.
 
