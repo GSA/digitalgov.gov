@@ -25,7 +25,7 @@ primary_image: uswds-monthly-call-march-title-card
 
 [View the slides (PowerPoint, 3.33 MB, 30 pages)](https://digital.gov/files/uswds-monthly-call-march-2022.pptx)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for March 2022" icon="fas fa-copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for March 2022" icon="fas fa-copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for March 2022 — in fact, St Patrick's Day, 2022. And, for March we've got an emerald-hued logo. 
 
@@ -108,7 +108,7 @@ And it's fast. We've updated to the newest [sass-embedded] (https://www.npmjs.co
 
 As always, I encourage you to join our community in the #uswds-public Slack channel so you can follow our progress, get answers, and contribute to the discussion.
 
-Follow us on Github at github.com/uswds, check out our website, and visit designsystem.digital.gov/about/community to join us and your colleagues across government who are using USWDS.
+Follow us on Github at https://github.com/uswds, check out our website, and visit https://designsystem.digital.gov/about/community/ to join us and your colleagues across government who are using USWDS.
 
 Thank you, and see you next month!
 
