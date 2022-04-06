@@ -15,11 +15,12 @@ topics:
   - the-content-corner
   - usability
   - user-experience
+
 ---
 
-{{< legacy-img src="2015/03/600-x-300-Audit-and-compliance-in-word-cloud-rafal_olechowski-iStock-Thinkstock-506935581.jpg" alt="Audit and compliance in word cloud" caption="" >}}
-
 Audit. It&#8217;s a word that generally has no positive connotations whatsoever. We hear the word audit and we think of tax audits or timesheet audits, etc. The word normally strikes fear or dread in the hearts of most mortals. But it is also a task that all websites will need to perform from time to time, and hopefully after reading today&#8217;s column you can view content audits as positive opportunities and not as dreadful chores.
+
+{{< legacy-img src="2015/03/600-x-300-Audit-and-compliance-in-word-cloud-rafal_olechowski-iStock-Thinkstock-506935581.jpg" alt="Audit and compliance in word cloud" caption="Rafal Olechowski / iStock / Thinkstock" >}}
 
 ## Trust the Numbers
 
@@ -46,4 +47,6 @@ Even for content that will definitely remain, it makes sense during this houseke
 
 The items in this list also remind us that when dealing with existing content, we may find items that were created before current strategies or style guidelines existed. Not that any of us have ever done this, but maybe some of the content was rushed online and is missing metadata or tags? Maybe it misses the mark on headline or headings or bullets? Perhaps it was created before the light came on about things like [UX]({{< ref "/topics/user-experience" >}}) or content usability? Now is the time to rehabilitate, if you will, this wayward content.
 
-By looking at content audits as a chance to improve your site and the user’s experience, it takes on a much different feel as compared to just cleaning up old content on your site. It is a great opportunity to make sure that the content you are providing is optimized for your overall content strategy, which also means it is helping your users/customers as efficiently and effectively as possible. And that’s what its all about, right?_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+By looking at content audits as a chance to improve your site and the user’s experience, it takes on a much different feel as compared to just cleaning up old content on your site. It is a great opportunity to make sure that the content you are providing is optimized for your overall content strategy, which also means it is helping your users/customers as efficiently and effectively as possible. And that’s what its all about, right?
+
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
