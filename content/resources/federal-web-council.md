@@ -20,6 +20,7 @@ authors:
   - rflagg
 
 # Make it better ♥
+
 ---
 
 The Federal Web Council was launched in January 2004 as an interagency group of federal web managers working together to improve the delivery of U.S. government information and services online. It provides a forum for high-level cross-agency collaboration, and recommends policies and guidelines for all public-facing U.S. federal websites.
@@ -31,7 +32,7 @@ The purpose of the Federal Web Council is to:
 - Provide a venue for agency web and digital leaders to share, discuss, and collaborate on digital best practices for the federal government
 - Provide a means for coordinating web and digital communication across all federal agencies during incidents of national significance under Emergency Support Function (ESF) 15 of the National Response Framework
 - Serve as the point of contact and a source of expertise for the White House, the Office of Management and Budget (OMB), Congress, and other key stakeholders on policy related to federal digital services
-- Facilitate implementation of laws and policies impacting federal digital services, including the [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) (21st Century IDEA), the [Connected Government Act](https://www.congress.gov/bill/115th-congress/house-bill/2331), and [M-17-06 Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
+- Facilitate implementation of laws and policies impacting federal digital services, including the [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) (21st Century IDEA), the [Connected Government Act](https://www.congress.gov/bill/115th-congress/house-bill/2331), and [M-17-06 Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 
 ## Membership
 
