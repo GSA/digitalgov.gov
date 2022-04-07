@@ -16,6 +16,7 @@ topics:
   - product-management
   - policy
   - governance
+primary_image: "checklist-topics"
 
 ---
 
