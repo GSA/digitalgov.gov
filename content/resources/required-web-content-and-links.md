@@ -2,7 +2,7 @@
 date: 2011-12-05 12:37:26 -0400
 title: "Required Web Content and Links"
 deck: "A list of required links that all federal websites need to have"
-summary: "A list of required links that all federal websites need to have"
+summary: "If you manage a public website in the federal government's executive branch, various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website."
 authors:
   - ndavidson
   - rflagg
@@ -11,13 +11,18 @@ authors:
 
 topics:
   - policy
+  - governance
+  - content
+  - content-strategy
+  - cx
+  - user-experience
 
 weight: 3
 primary_image: "website-wireframes-ademay-istock-getty-images-plus-1235556451"
 
 ---
 
-If you manage a public website in the federal government's executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
+If you manage a public website in the federal government's executive branch, various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
 
 **This page makes it clear:**
 
@@ -33,7 +38,6 @@ One easy way to address these requirements is to implement the following three c
 - [banner](https://designsystem.digital.gov/components/banner/)
 - [header](https://designsystem.digital.gov/components/header/)
 - [footer](https://designsystem.digital.gov/components/footer/)
-
 
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
