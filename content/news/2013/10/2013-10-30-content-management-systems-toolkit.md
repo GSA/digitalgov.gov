@@ -366,7 +366,7 @@ Once you have tested your migration process and everything works well, it&#8217;
 
 ### Create Redirects as Needed
 
-No matter how thorough you are, you’ll be cleaning up and deleting old content and moving your entire website to a new platform, so your visitors may experience some broken links after the migration. If you&#8217;ve changed a lot of URLs during your migration, you may need to [create redirects](http://googlewebmastercentral.blogspot.com/2012/04/how-to-move-your-content-to-new.html) to help search engines re-index your site, and help your visitors find your content. Use [301 redirects](https://support.google.com/webmasters/answer/93633?hl=en) to update links that have permanently moved to a new URL, and 302 redirects for temporary moves. Also follow these [best practices for 404 (page not found) errors](http://www.bing.com/webmaster/help/404-pages-best-practices-1c9f53b3).
+No matter how thorough you are, you’ll be cleaning up and deleting old content and moving your entire website to a new platform, so your visitors may experience some broken links after the migration. If you&#8217;ve changed a lot of URLs during your migration, you may need to [create redirects](https://developers.google.com/search/blog/2012/04/how-to-move-your-content-to-new) to help search engines re-index your site, and help your visitors find your content. Use [301 redirects](https://support.google.com/webmasters/answer/93633?hl=en) to update links that have permanently moved to a new URL, and 302 redirects for temporary moves. Also follow these [best practices for 404 (page not found) errors](http://www.bing.com/webmaster/help/404-pages-best-practices-1c9f53b3).
 
 ### Test Everything Once It’s Moved
 
