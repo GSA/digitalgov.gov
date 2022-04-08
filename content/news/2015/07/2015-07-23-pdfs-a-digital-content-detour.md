@@ -10,6 +10,8 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
 
+primary_image: "uploading-documents-laptop-model-la-istock-getty-images-plus-177522468-1200x628"
+
 ---
 
 The Portable Document Format, or “PDF” file, is one of the staple productions of many communications professionals. It’s compact, prints exactly as formatted, and allows for clean, multi-platform distribution. However, it’s the old “U.S. Route” on the Digital Interstate.
