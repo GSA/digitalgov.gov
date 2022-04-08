@@ -8,7 +8,7 @@ aliases:
 
 ---
 
-The [Connected Government Act](https://digital.gov/resources/connected-government-act/), which was signed into law in January 2018, requires new, and redesigned, agency websites to be mobile-friendly. The Connected Government Act also codifies the [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (1.2 MB PDF, 18 pages), (M-17-06) which required agencies to create mobile-friendly websites, back in 2016.
+The [Connected Government Act](https://digital.gov/resources/connected-government-act/), which was signed into law in January 2018, requires new, and redesigned, agency websites to be mobile-friendly. The Connected Government Act also codifies the [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) which required agencies to create mobile-friendly websites, back in 2016.
 
 In order to help you comply, we decided it’s time to start reviewing good mobile web development practices. Over the next couple of months, we will share eight principles of mobile-friendliness (one each week)&mdash;and how adhering to these principles can greatly improve your site.
 
