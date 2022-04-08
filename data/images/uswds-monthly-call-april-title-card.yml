@@ -3,11 +3,11 @@
 
 # Image shortcode: {{< img src="uswds-monthly-call-april-title-card" >}}
 
-date     : 2022-03-21 18:37:31 -0400
+date     : 2022-04-08 13:09:34 -0400
 uid      : uswds-monthly-call-april-title-card
-width    : 1200
-height   : 628
+width    : 960
+height   : 540
 format   : png
-credit   : ""
-caption  : ""
-alt      : "Title card image of USWDS logo, a multi-colored triangle shapes pentagon with the lines of text on a black background. The first test line has USWDS Monthly Call in white text. The second line has April 21, 2022 in yellow text."
+credit   : "" 
+caption  : "" 
+alt      : "" 
