@@ -1,9 +1,7 @@
 ---
 title: USWDS Monthly Call - April 2022
-deck: USWDS 3.0 in the Real World
 kicker: USWDS
-summary: Our friends at Digital.gov will join us to talk through their
-  experience migrating to USWDS 3.0.
+summary: Our friends at Digital.gov will join us to talk through their experience migrating to USWDS 3.0.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-uswds-30-in-the-real-world-apr-2022-tickets-317681512957
@@ -27,12 +25,12 @@ slug: uswds-monthly-call-april-2022
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: uswds-monthly-call-april-title-card
+
 ---
+
 What does USWDS 3.0 look like in the real world? Our friends at Digital.gov will join us to talk through their experience migrating to USWDS 3.0. We’ll talk about what you’ll need to upgrade, what to look out for, and any pain points you may come up against.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
-
-
 
 ## About the USWDS
 
