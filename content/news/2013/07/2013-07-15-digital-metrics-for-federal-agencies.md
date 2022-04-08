@@ -12,6 +12,7 @@ topics:
   - mobile
   - social-media
   - usability
+
 ---
 
 Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.
@@ -790,7 +791,7 @@ If you’re collecting feedback from more than nine people (via an online survey
 
 ## <a name="part-3"></a>Part 3: Rationale and Framework for Common Metrics
 
-Over the years, agencies have adopted many different tools, methodologies, and success metrics to measure website performance, resulting in a lack of consistent data around .gov website performance. At the end of 2011, only 10% of the major federal agencies used the same performance metrics to consistently evaluate websites agency-wide, as outlined in the [State of the Federal Web Report](http://www.usa.gov/webreform/state-of-the-web.pdf) (PDF, 1.68 MB, 70 pages, January 2012).
+Over the years, agencies have adopted many different tools, methodologies, and success metrics to measure website performance, resulting in a lack of consistent data around .gov website performance. At the end of 2011, only 10% of the major federal agencies used the same performance metrics to consistently evaluate websites agency-wide, as outlined in the 2011 State of the Federal Web Report.
 
 To improve information and services to the public, agencies must establish standard ways to measure the success of .gov websites.
 
