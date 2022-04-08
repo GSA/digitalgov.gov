@@ -14,7 +14,7 @@ topics:
 
 The [**Connected Government Act**](https://www.congress.gov/bill/115th-congress/house-bill/2331) (H.R.2331) was signed into law on January 10, 2018, and requires new and redesigned federal agency public websites to be mobile-friendly. The [General Services Administration](https://www.gsa.gov/) (GSA) and [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) will submit a report to Congress in 2019 that describes how agencies can implement the law and assess their compliance.
 
-The new law codifies OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
+The new law codifies OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
 
 The sections below were curated by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to help you make sure that your websites comply with the law.
 
@@ -179,7 +179,7 @@ When you are building an app or creating a mobile-friendly site, there are certa
 #### Policies
 
 - [Connected Government Act](https://www.congress.gov/bill/115th-congress/house-bill/2331/text), December 2017
-- [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (M-17-06), November 2016 (PDF, 1.2 MB, 18 pages)
+- [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (M-17-06), November 2016 (PDF, 1.2 MB, 18 pages)
 - [Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf) (M-13-13), May 2013 (PDF, 5.83 MB, 12 pages)
 
 #### Security
