@@ -17,7 +17,7 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 [**M-17-26:** Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf) (PDF, 208KB, 12 pages, June 2017)
 
-[**M-17-06:** Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2MB, 18 pages, Nov 2016)
+[**M-17-06:** Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2MB, 18 pages, Nov 2016)
 
 [**M-15-13:** Policy to Require Secure Connections across Federal Websites and Web Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2015/m-15-13.pdf) (PDF, 258KB, 5 pages, June 2015)
 
