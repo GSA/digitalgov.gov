@@ -17,10 +17,10 @@ topics:
 
 Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.
 
-  * Part 1: Common Metrics: Guidance, Best Practices, and Tools
-  * Part 2: Reporting Requirements and Common Tools
-  * Part 3: Rationale and Framework for Common Metrics and Measures
-  * Part 4: Case Studies, Training, and Additional Resources
+  * {{< ref "2013-07-15-digital-metrics-for-federal-agencies.md#part-1" >}}
+  * {{< ref "2013-07-15-digital-metrics-for-federal-agencies.md#part-2" >}}
+  * {{< ref "2013-07-15-digital-metrics-for-federal-agencies.md#part-3" >}}
+  * {{< ref "2013-07-15-digital-metrics-for-federal-agencies.md#part-4" >}}
 
 ## <a name="part-1"></a>Part 1: Common Metrics—Guidance, Best Practices, and Tools
 
