@@ -2,15 +2,17 @@
 slug: which-devices-should-i-test-with
 date: 2013-10-29 11:14:52 -0400
 title: Which Devices Should I Test With?
-summary: 'Like a kid in a candy store&#8230; Every time we go to the mall, the kids pull us to the candy store with the floor-to-ceiling tubes of colored candy. The kids quickly grab their bags and scavenge from each of the bins until'
-topics:
-  - mobile
-  - user-testing-and-research
-  - mobile
+summary: 'Developing a test device selection plan that is updated on a regular basis will help your organization whittle down the list of devices to a manageable number.'
 
 # See all authors at https://digital.gov/authors
 authors:
   - mobilegov-team
+
+# Topics that best describe this product or service
+topics:
+  - mobile
+  - user-testing-and-research
+  - mobile
 
 ---
 
@@ -92,4 +94,6 @@ What is your strategy for selecting devices to test? Give us your comments on th
   * [The Crowd May Have Answers, but Agencies Must Define The Problem](http://www.nextgov.com/emerging-tech/2013/08/crowd-may-have-answers-agencies-must-define-problem/69017/?oref=nextgov_today_nl)
   * [Using Crowdsourcing in Government](http://www.businessofgovernment.org/report/using-crowdsourcing-government)
 
-_The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our [Federal Crowdsource Mobile Testing Program]({{< ref "service&#95;mobile-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
+***
+
+The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our [Federal Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0).
