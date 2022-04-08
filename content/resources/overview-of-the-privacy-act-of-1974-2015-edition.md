@@ -22,7 +22,7 @@ This overview provides reference to and legal analysis of court decisions interp
 * [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002 (September 2003)](https://www.whitehouse.gov/wp-content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-Government-Act-of-2002-1.pdf)
 * [OMB Circular A–130, Appendix 1](https://obamawhitehouse.archives.gov/omb/circulars_a130_a130appendix_i)
 * [Children’s Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
-* [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html) 
+* [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 
 * * *
 
