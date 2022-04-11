@@ -38,6 +38,12 @@ The easiest way to implement these required links in a clear, user-friendly way 
 
 Together, these two components are the most recognizable and standardized design elements of federal websites. Use the banner to identify your site as an official federal government site. Use the identifier to communicate the site’s parent agency and display the links required by federal laws and policies.
 
+
+{{< note "alert" >}} 
+**Sub-agency sites** are sites managed by or focused on a branch or division of a Department-level agency, such as nih.gov, which is a sub-agency of HHS. The content is focused on the work of the agency.
+
+**Secondary sites** are sites (including microsites) managed by a federal agency on a certain topic, such as https://studentaid.gov/, which is managed by the Department of Education. The content is focused on a program/topic, rather than the agency that runs the program.{{< /note >}}
+
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
 ---
