@@ -6,6 +6,8 @@ summary: 'Configure bots to execute repetitive tasks to save users from performi
 guide: rpa
 aliases:
 
+primary_image: "robotics-symbols-cover-the-state-of-federal-rpa"
+
 ---
 {{< box >}}
 **Interested in joining the RPA community?** Click here to [learn more](https://digital.gov/communities/rpa/).
