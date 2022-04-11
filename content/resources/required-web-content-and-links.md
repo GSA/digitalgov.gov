@@ -31,13 +31,12 @@ If you manage a public website in the federal government's executive branch, var
 - where the link should be located on your site
 - which law or policy requires those links
 
-Use the guidance below to implement these required links in a clear, user-friendly way.
-
-One easy way to address these requirements is to implement the following three components of the [U.S. Web Design System](https://designsystem.digital.gov/) on your website:
+The easiest way to implement these required links in a clear, user-friendly way is by using the two core [U.S. Web Design System](https://designsystem.digital.gov/) components:
 
 - [banner](https://designsystem.digital.gov/components/banner/)
-- [header](https://designsystem.digital.gov/components/header/)
-- [footer](https://designsystem.digital.gov/components/footer/)
+- [identifier](https://designsystem.digital.gov/components/identifier/)
+
+Together, these two components are the most recognizable and standardized design elements of federal websites. Use the banner to identify your site as an official federal government site. Use the identifier to communicate the site’s parent agency and display the links required by federal laws and policies.
 
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
