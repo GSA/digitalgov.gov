@@ -1,5 +1,6 @@
-// Newsletter
+@use "uswds-core" as *;
 
+// Newsletter
 #newsletter-signup{
   @include u-padding-y('105');
   @include at-media('tablet'){

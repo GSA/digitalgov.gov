@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 #resources_featured{
   @include u-bg('white');
   @include u-padding-y(2);

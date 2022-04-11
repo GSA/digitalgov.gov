@@ -1,4 +1,6 @@
 // Styles for the list of authors generally found on in cards in the news stream
+@use "uswds-core" as *;
+
 .authors-list-short{
 	@include u-margin-top('105');
 	@include u-margin-bottom(1);

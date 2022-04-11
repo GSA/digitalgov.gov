@@ -1,7 +1,6 @@
+@use "uswds-core" as *;
+
 // communities
-
-
-
 .communities-list{
   ul{
     @include add-list-reset;

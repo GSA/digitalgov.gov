@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .card {
   @include u-margin-bottom("205");
   @include u-bg("white");

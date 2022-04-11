@@ -11,58 +11,58 @@
 // -------------------------------------
 // Import individual theme settings
 
-@import "uswds-theme-general";
-@import "uswds-theme-typography";
-@import "uswds-theme-spacing";
-@import "uswds-theme-color";
-@import "uswds-theme-utilities";
+@use "uswds-theme-general";
+@use "uswds-theme-typography";
+@use "uswds-theme-spacing";
+@use "uswds-theme-color";
+@use "uswds-theme-utilities";
 
 // components import needs to be last
-@import "uswds-theme-components";
+@use "uswds-theme-components";
 
 // -------------------------------------
 // Import individual USWDS packages...
 // See https://designsystem.digital.gov/components/
 
 // First import required and global packages...
-// @import 'packages/required';
-// @import 'packages/global';
+// @use 'packages/required';
+// @use 'packages/global';
 
 // Then import individual component packages...
-// @import 'packages/form-controls';
-// @import 'packages/form-templates';
-// @import 'packages/layout-grid';
-// @import 'packages/typography';
-// @import 'packages/validation';
-// @import 'packages/usa-accordion';
-// @import 'packages/usa-alert';
-// @import 'packages/usa-banner';
-// @import 'packages/usa-button';
-// @import 'packages/usa-checklist';
-// @import 'packages/usa-footer';
-// @import 'packages/usa-header';
-// @import 'packages/usa-hero';
-// @import 'packages/usa-media-block';
-// @import 'packages/usa-megamenu';
-// @import 'packages/usa-nav-container';
-// @import 'packages/usa-nav';
-// @import 'packages/usa-navbar';
-// @import 'packages/usa-search';
-// @import 'packages/usa-sidenav';
-// @import 'packages/usa-skipnav';
-// @import 'packages/usa-table';
-// @import 'packages/usa-tag';
+// @use 'packages/form-controls';
+// @use 'packages/form-templates';
+// @use 'packages/layout-grid';
+// @use 'packages/typography';
+// @use 'packages/validation';
+// @use 'packages/usa-accordion';
+// @use 'packages/usa-alert';
+// @use 'packages/usa-banner';
+// @use 'packages/usa-button';
+// @use 'packages/usa-checklist';
+// @use 'packages/usa-footer';
+// @use 'packages/usa-header';
+// @use 'packages/usa-hero';
+// @use 'packages/usa-media-block';
+// @use 'packages/usa-megamenu';
+// @use 'packages/usa-nav-container';
+// @use 'packages/usa-nav';
+// @use 'packages/usa-navbar';
+// @use 'packages/usa-search';
+// @use 'packages/usa-sidenav';
+// @use 'packages/usa-skipnav';
+// @use 'packages/usa-table';
+// @use 'packages/usa-tag';
 
 // or package sets...
-// @import 'packages/uswds-components';
-// @import 'packages/uswds-utilities';
+// @use 'packages/uswds-components';
+// @use 'packages/uswds-utilities';
 
 // -------------------------------------
 // ...or import the complete USWDS kit
 
-@import "uswds";
+@use "uswds";
 
 // -------------------------------------
 // Import theme custom styles
 
-@import "uswds-theme-custom-styles";
+@use "uswds-theme-custom-styles";

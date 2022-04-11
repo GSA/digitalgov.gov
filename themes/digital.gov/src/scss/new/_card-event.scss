@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .card-event-promo{
 	@include u-border-top('2px', 'primary-darker', 'solid');
 

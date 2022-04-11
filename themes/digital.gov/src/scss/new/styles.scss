@@ -11,120 +11,119 @@
 // -------------------------------------
 // Import individual theme settings
 
-@import '../uswds/uswds-theme-general';
-@import '../uswds/uswds-theme-typography';
-@import '../uswds/uswds-theme-spacing';
-@import '../uswds/uswds-theme-color';
-@import '../uswds/uswds-theme-utilities';
-@import '../uswds/uswds-theme-components';
+@forward 'uswds-theme';
+
+// @forward '../uswds/uswds-theme-general';
+// @forward '../uswds/uswds-theme-typography';
+// @forward '../uswds/uswds-theme-spacing';
+// @forward '../uswds/uswds-theme-color';
+// @forward '../uswds/uswds-theme-utilities';
+// @forward '../uswds/uswds-theme-components';
 
 // -------------------------------------
 // Import individual USWDS modules...
 
-// @import 'uswds-fonts';
-// @import 'uswds-layout-grid';
-// @import 'uswds-components';
-// @import 'uswds-utilities';
+// @forward 'uswds-fonts';
+// @forward 'uswds-layout-grid';
+// @forward 'uswds-components';
+// @forward 'uswds-utilities';
 
 // -------------------------------------
 // ...or import all USWDS modules
-@import 'uswds-theme-custom-styles';
-@import 'uswds';
-
+//@forward 'uswds-theme-custom-styles';
+@forward 'uswds';
 
 // -------------------------------------
 // Import theme custom styles
 
-@import 'layout';
-@import 'gov-banner';
-@import 'paper';
+@forward 'layout';
+@forward 'gov-banner';
+@forward 'paper';
 
-@import 'header';
+@forward 'header';
 
-@import 'newsletter-signup';
-@import 'footer';
+@forward 'newsletter-signup';
+@forward 'footer';
 
-@import 'promos';
-@import 'stream';
+@forward 'promos';
+@forward 'stream';
 
 // Cards
-@import 'card';
-@import 'card-article';
-@import 'card-elsewhere';
-@import 'card-event';
+@forward 'card';
+@forward 'card-article';
+@forward 'card-elsewhere';
+@forward 'card-event';
 
-@import 'article';
-@import 'page-head';
+@forward 'article';
+@forward 'page-head';
 
-@import 'news';
-@import 'events';
-@import 'table-of-contents';
-@import 'content';
-@import 'images';
-@import 'resources';
+@forward 'news';
+@forward 'events';
+@forward 'table-of-contents';
+@forward 'content';
+@forward 'images';
+@forward 'resources';
 
 // Lists of related pages
-@import 'collection';
+@forward 'collection';
 
-@import 'touchpoints_feedback';
-@import 'page-data';
-@import 'share-tools';
+@forward 'touchpoints_feedback';
+@forward 'page-data';
+@forward 'share-tools';
 
-@import 'guides/guide-header';
-@import 'guides/guide-nav';
-@import 'guides/guide-page-head';
-@import 'guides/guide-toc';
-@import 'guides/guide-content';
-@import 'guides/guide-prev-next';
+@forward 'guides/guide-header';
+@forward 'guides/guide-nav';
+@forward 'guides/guide-page-head';
+@forward 'guides/guide-toc';
+@forward 'guides/guide-content';
+@forward 'guides/guide-prev-next';
 
 // Authors lists
-@import 'authors-list';
-@import 'authors-list-short';
+@forward 'authors-list';
+@forward 'authors-list-short';
 
 // Authors profile
-@import 'author-profile';
+@forward 'author-profile';
 
-@import 'notice-bar';
-@import 'search-bar';
+@forward 'notice-bar';
+@forward 'search-bar';
 
-@import 'related_promos';
-@import 'video';
+@forward 'related_promos';
+@forward 'video';
 
 // Homepage Styles
-@import 'home/home';
-@import 'home/events';
-@import 'home/topics_featured';
-@import 'resources_featured';
-@import 'home/communities';
+@forward 'home/home';
+@forward 'home/events';
+@forward 'home/topics_featured';
+@forward 'resources_featured';
+@forward 'home/communities';
 
+@forward 'community-info';
 
-@import 'community-info';
-
-@import 'related_communities';
-@import 'services';
-@import 'related_services';
-@import 'services-directory';
-@import 'card-service';
-@import 'card-service-contact';
+@forward 'related_communities';
+@forward 'services';
+@forward 'related_services';
+@forward 'services-directory';
+@forward 'card-service';
+@forward 'card-service-contact';
 
 // Topics styles
-@import 'topic-buttons';
-@import 'list-topics';
+@forward 'topic-buttons';
+@forward 'list-topics';
 
-
-@import 'breadcrumbs';
-@import 'clicks';
-@import 'buttons';
+@forward 'breadcrumbs';
+@forward 'clicks';
+@forward 'buttons';
 
 // Edit Tools
-@import 'edit-this';
+@forward 'edit-this';
 
-@import 'shortcodes/accordion';
-@import 'shortcodes/box';
-@import 'shortcodes/note';
-@import 'shortcodes/highlight';
-@import 'shortcodes/card-policy';
-@import 'shortcodes/card-quote';
-@import 'shortcodes/asset-img';
-@import 'shortcodes/card-prompt';
-@import 'shortcodes/termsofservice-compatible';
+@forward 'shortcodes/accordion';
+@forward 'shortcodes/box';
+@forward 'shortcodes/note';
+@forward 'shortcodes/highlight';
+@forward 'shortcodes/card-policy';
+@forward 'shortcodes/card-quote';
+@forward 'shortcodes/asset-img';
+@forward 'shortcodes/card-prompt';
+@forward 'shortcodes/termsofservice-compatible';

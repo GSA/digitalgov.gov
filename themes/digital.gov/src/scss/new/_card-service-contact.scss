@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .card.card-service-contact{
   @include u-margin-bottom(0);
   @include u-padding-y('105');

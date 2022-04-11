@@ -1,5 +1,6 @@
-// Table of Contents
+@use "uswds-core" as *;
 
+// Table of Contents
 
 // Hiding the bullets on the TOC except for the guide pages
 .toc:not(.guide-toc) {

@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 table.tos-list{
 	.favicon{
 		@include u-position('relative');

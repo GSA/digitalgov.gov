@@ -1,5 +1,6 @@
-// Layout
+@use "uswds-core" as *;
 
+// Layout
 body{
   @include u-bg('indigo-warm-60v');
 }

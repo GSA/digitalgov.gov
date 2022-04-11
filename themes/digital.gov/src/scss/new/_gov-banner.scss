@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .gov-banner{
   @include u-bg('primary-darkest');
   .usa-banner__header-text{

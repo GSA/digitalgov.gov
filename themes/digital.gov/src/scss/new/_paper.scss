@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .paper{
   @include u-bg('white');
   -webkit-transition: margin .2s;
