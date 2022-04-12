@@ -22,6 +22,28 @@ featured_image:
 
 {{< card-quote text="We need to make every single thing accessible to every single person with a disability." cite="Stevie Wonder" >}}
 
+Note — 
+
+{{< note >}} text goes here... {{< /note >}}
+
+A note can also include a button: 
+
+{{< note button-text="submit">}} text goes here... {{< /note >}}
+
+Activity — 
+
+{{< note "activity" >}} Activity text goes here... {{< /note >}}
+
+Alert — 
+
+{{< note "alert" >}} Alert text goes here... {{< /note >}}
+
+Comment — 
+
+{{< note "comment" >}} > Comment goes here as a blockquote
+
+additional text goes here... {{< /note >}}
+
 We all know that building accessible products and services is fundamental toward building trust and serving the broadest possible definition of the public.
 
 However, keeping accessibility central in the work we do, and the digital products we design and build is a constant challenge for most teams (our team included).
