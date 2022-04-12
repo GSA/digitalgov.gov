@@ -36,7 +36,7 @@ The easiest way to implement these required links in a clear, user-friendly way 
 - [banner](https://designsystem.digital.gov/components/banner/)
 - [identifier](https://designsystem.digital.gov/components/identifier/)
 
-Together, these two components are the most recognizable and standardized design elements of federal websites. Use the banner to identify your site as an official federal government site. Use the identifier to communicate the site’s parent agency and display the links required by federal laws and policies.
+Together, these two components are the most recognizable and standardized design elements of federal websites. Use the banner at the top to identify your site as an official federal government site. Use the identifier at the bottom to communicate the site’s parent agency and display the links required by federal laws and policies.
 
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
