@@ -24,6 +24,10 @@ primary_image: "website-wireframes-ademay-istock-getty-images-plus-1235556451"
 
 If you manage a public website in the federal government's executive branch, various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
 
+{{< note >}}**Sub-agency sites** are sites managed by or focused on a branch or division of a Department-level agency, such as the National Institutes of Health (NIH) website, [www.nih.gov](https://www.nih.gov), which is a sub-agency of the U.S. Department of Health and Human Services (HHS). The content is focused on the work of the agency.
+
+**Secondary sites** are sites (including microsites) managed by a federal agency on a certain topic, such as the Federal Student Aid website, [www.studentaid.gov](https://www.studentaid.gov/), which is managed by the U.S. Department of Education. The content is focused on a program or topic, rather than the agency that runs the program.{{< /note >}}
+
 **This page makes it clear:**
 
 - what links are required and the purpose they serve
@@ -37,10 +41,6 @@ The easiest way to implement these required links in a clear, user-friendly way 
 - [identifier](https://designsystem.digital.gov/components/identifier/)
 
 Together, these two components are the most recognizable and standardized design elements of federal websites. Use the banner to identify your site as an official federal government site. Use the identifier to communicate the site’s parent agency and display the links required by federal laws and policies.
-
-{{< note >}}**Sub-agency sites** are sites managed by or focused on a branch or division of a Department-level agency, such as the National Institutes of Health (NIH) website, [www.nih.gov](https://www.nih.gov), which is a sub-agency of the U.S. Department of Health and Human Services (HHS). The content is focused on the work of the agency.
-
-**Secondary sites** are sites (including microsites) managed by a federal agency on a certain topic, such as the Federal Student Aid website, [www.studentaid.gov](https://www.studentaid.gov/), which is managed by the Department of Education. The content is focused on a program or topic, rather than the agency that runs the program.{{< /note >}}
 
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
