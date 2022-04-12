@@ -40,6 +40,10 @@ Together, these two components are the most recognizable and standardized design
 
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
+{{< note >}}**Sub-agency sites** are sites managed by or focused on a branch or division of a Department-level agency, such as the National Institutes of Health (NIH) website, [www.nih.gov](https://www.nih.gov), which is a sub-agency of the U.S. Department of Health and Human Services (HHS). The content is focused on the work of the agency.
+
+**Secondary sites** are sites (including microsites) managed by a federal agency on a certain topic, such as the Federal Student Aid website, [www.studentaid.gov](https://www.studentaid.gov/), which is managed by the U.S. Department of Education. The content is focused on a program or topic, rather than the agency that runs the program.{{< /note >}}
+
 ---
 
 ## About Page
