@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .community-info{
   @include u-margin-bottom(3);
   // @include u-bg('gray-warm-4');

@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 header.page-head{
   @include u-padding-bottom(2);
   @include u-text('indigo-warm-80');

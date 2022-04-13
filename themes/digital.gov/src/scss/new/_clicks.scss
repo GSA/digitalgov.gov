@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .clicks{
 	@include u-margin-top(0);
 	@include u-font('sans', '3xs');

@@ -1,6 +1,8 @@
 // `.card-prompt` inherits styles from `.note.comment` to better align it's styles with the `.comment` note card.
 // See `_card-prompt.scss` and _note.scss for styles
 
+@use "uswds-core" as *;
+
 .note.comment.card-prompt{
 	.intro{
 		@include u-display('flex');

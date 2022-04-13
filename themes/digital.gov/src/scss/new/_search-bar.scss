@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .search-bar{
   @include u-padding-top(4);
   // @include u-bg('gray-warm-5');

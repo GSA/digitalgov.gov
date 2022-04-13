@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .more{
 	a{
 		@include u-text('no-underline');

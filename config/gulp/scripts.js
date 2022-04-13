@@ -4,7 +4,7 @@ const { src, dest, series } = require("gulp"),
   jshint = require("gulp-jshint");
 
 // Directories
-const USWDS = "node_modules/uswds/dist";
+const USWDS = "node_modules/@uswds/uswds/dist";
 const JQUERY_PATH = "node_modules/jquery/dist/jquery.min.js";
 const PROJECT_JS_SRC = "./themes/digital.gov/src/js";
 const JS_DEST = "./themes/digital.gov/static/dist";

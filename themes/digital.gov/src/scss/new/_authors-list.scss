@@ -1,5 +1,6 @@
 // Styles for the list of authors generally found on blog posts and event pages
 // NOTE: The authors-list is included twice on the page. Once for desktop, the other for mobile.
+@use "uswds-core" as *;
 
 .authors-list{
 	@include u-margin-top(0);

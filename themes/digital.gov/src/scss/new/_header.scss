@@ -1,5 +1,6 @@
-// Header
+@use "uswds-core" as *;
 
+// Header
 .usa-header {
 	@include u-bg('white');
 	.usa-navbar{

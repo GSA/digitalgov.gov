@@ -14,7 +14,7 @@ USWDS SASS GULPFILE
 const { src, dest, series } = require("gulp");
 const autoprefixer = require("autoprefixer");
 const csso = require("postcss-csso");
-const pkg = require("../../node_modules/uswds/package.json");
+const pkg = require("../../node_modules/@uswds/uswds/package.json");
 const postcss = require("gulp-postcss");
 const replace = require("gulp-replace");
 const sass = require("gulp-dart-scss");
@@ -35,7 +35,7 @@ PATHS
 ----------------------------------------
 */
 
-const USWDS = "node_modules/uswds/dist";
+const USWDS = "./node_modules/@uswds/";
 
 // USWDS source directory
 const USWDS_SRC = "./themes/digital.gov/src/scss/uswds";
@@ -121,8 +121,8 @@ function buildSass() {
         sass({
           includePaths: [
             PROJECT_SASS_SRC,
-            `${USWDS}/scss`,
-            `${USWDS}/scss/packages`,
+            `${USWDS}`,
+            `${USWDS}/uswds/packages`,
           ],
         })
       )

@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 // Images
 .image{
   @include u-margin-top(2);

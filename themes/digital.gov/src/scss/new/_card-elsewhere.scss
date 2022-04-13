@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .card-elsewhere {
   & > div {
     @include u-display("flex");

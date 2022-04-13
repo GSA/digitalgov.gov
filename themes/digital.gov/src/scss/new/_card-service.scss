@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .card-service{
   @include u-margin-y(1);
   @include u-padding-y('205');
