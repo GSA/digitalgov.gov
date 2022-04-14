@@ -26,4 +26,27 @@ slug: the-basics-of-buying-accessible-products-and-services
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
-To be added
+Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities. 
+
+Learn the basics of buying accessible information and communications technology (ICT), and discover how you can help ensure that electronic information is accessible to everyone. 
+
+During our discussion, panelists will discuss key concepts such as:
+
+* Adding Section 508 requirements in solicitations
+* Product Accessibility Conformance Reports (ACR) 
+* Quality Assurance Surveillance Plan (QASP)
+
+## Moderator
+
+* Michael Horton – Senior ICT Accessibility Specialist, GSA
+
+## Panelists
+
+* Andrew Nielson – Government-wide IT Accessibility Director, GSA
+* Bruce Bailey – ICT Accessibility Specialist, USAB
+* Megan Reed – Acquisitions Branch Chief, GSA
+* Robert Jolly – Product Manager, GSA
+
+## About the Section 508/IT Accessibility Community of Practice
+
+The [Section 508/IT Accessibility Community of Practice](https://www.section508.gov/manage/join-the-508-community/) is a group of government employees who manage agency Section 508 programs or create electronic content. They work to create accessible online experiences for federal employees and members of the public.
