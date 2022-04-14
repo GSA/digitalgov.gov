@@ -15,7 +15,7 @@ pronoun: ""
 email: michael.horton@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Accessible Design & Development Advisor, Office of Government-wide Policy"
+bio: "Michael Horton is a Senior ICT Accessibility Specialist in the General Services Administration's Office of Government-wide Policy, which has a mandate to provide technical assistance to agencies in implementing the requirements of Section 508 of the Rehabilitation Act."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
