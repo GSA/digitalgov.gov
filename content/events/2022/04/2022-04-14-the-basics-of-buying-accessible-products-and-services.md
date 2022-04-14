@@ -19,6 +19,8 @@ topics:
   - best-practices
 # See all authors at https://digital.gov/authors
 authors:
+  - bruce-bailey
+  - megan-reed
   - robert-jolly
   - michael-horton
   - andrew-nielson
