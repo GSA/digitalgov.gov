@@ -27,7 +27,9 @@ authors:
 slug: the-basics-of-buying-accessible-products-and-services
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
+
 Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities. 
 
 Learn the basics of buying accessible information and communications technology (ICT), and discover how you can help ensure that electronic information is accessible to everyone. 
