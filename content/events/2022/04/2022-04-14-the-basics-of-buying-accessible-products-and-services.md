@@ -1,9 +1,7 @@
 ---
 title: The Basics of Buying Accessible Products and Services
 kicker: Inclusive Acquisitions
-summary: A discussion with members of the U.S. General Services Administration
-  (GSA) and U.S. Access Board (USAB) on best practices for buying information
-  and communications technology and services that can be used by anyone.
+summary: "A discussion with members of the U.S. General Services Administration (GSA) and U.S. Access Board (USAB) on best practices for buying information and communications technology and services that can be used by anyone."
 host: GSA Government-wide IT Accessibility Program
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/the-basics-of-buying-accessible-products-and-services-tickets-321499663147
@@ -24,20 +22,24 @@ authors:
   - robert-jolly
   - michael-horton
   - andrew-nielson
+
 slug: the-basics-of-buying-accessible-products-and-services
+
+primary_image: 
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
 ---
 
-Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities. 
+Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities.
 
-Learn the basics of buying accessible information and communications technology (ICT), and discover how you can help ensure that electronic information is accessible to everyone. 
+Learn the basics of buying accessible information and communications technology (ICT), and discover how you can help ensure that electronic information is accessible to everyone.
 
 During our discussion, panelists will discuss key concepts such as:
 
 * Adding Section 508 requirements in solicitations
-* Product Accessibility Conformance Reports (ACR) 
+* Product Accessibility Conformance Reports (ACR)
 * Quality Assurance Surveillance Plan (QASP)
 
 ## Moderator
