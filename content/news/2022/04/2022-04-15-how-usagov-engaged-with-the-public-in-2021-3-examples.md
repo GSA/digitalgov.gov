@@ -5,7 +5,7 @@ source: usagov
 date: 2022-04-15 09:59:00 -0500
 kicker: Customer Experience
 title: "How USAGov Engaged With the Public in 2021: 3 Examples"
-deck: "**How USAGov Engaged With the Public in 2021: 3 Examples.**&mdash;USAGov is the
+deck: "**How USAGov Engaged With the Public in 2021: 3 Examples**&mdash;USAGov is the
   official guide to government services and information for the public. Its
   outreach team connects people to that information through USA.gov and USAGov
   en Español social media, email, and other delivery channels. 2021 was a busy
