@@ -41,7 +41,7 @@ primary_image:
 
 ---
 
-[Accessibility](https://digital.gov/topics/accessibility/), the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities.
+Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities.
 
 Learn the basics of buying accessible information and communications technology (ICT), and discover how you can help ensure that electronic information is accessible to everyone.
 
@@ -61,6 +61,13 @@ During our discussion, panelists from the U.S. General Services Administration (
 * Bruce Bailey – ICT Accessibility Specialist, USAB
 * Megan Reed – Acquisitions Branch Chief, GSA
 * Robert Jolly – Product Manager, GSA
+
+## Related Resources
+
+* [Section508.gov](https://www.section508.gov/)
+* [Access-Board.gov/ict](https://www.access-board.gov/ict/)
+* [Digital.gov Accessibility Resources](https://digital.gov/topics/accessibility/)
+* [PlainLanguage.gov](https://www.plainlanguage.gov/)
 
 ## About the IT Accessibility and Section 508 Community of Practice (CoP)
 
