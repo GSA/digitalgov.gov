@@ -17,12 +17,10 @@ const csso = require("postcss-csso");
 const pkg = require("../../node_modules/@uswds/uswds/package.json");
 const postcss = require("gulp-postcss");
 const replace = require("gulp-replace");
-const sass = require("gulp-dart-scss");
+const sass = require("gulp-sass")(require("sass-embedded"));
 const sourcemaps = require("gulp-sourcemaps");
 const svgSprite = require("gulp-svg-sprite");
 const rename = require("gulp-rename");
-
-sass.compiler = require("sass");
 
 /*
 ----------------------------------------

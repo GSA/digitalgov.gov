@@ -13,6 +13,53 @@
 
 @forward 'uswds-theme';
 
+// @forward "uswds-global";
+// @forward "uswds-utilities";
+
+// component class names
+// @forward 'usa-accordion';
+// @forward 'usa-banner';
+// @forward 'usa-button';
+// @forward 'usa-footer';
+// @forward 'usa-header';
+// @forward 'usa-icon';
+// @forward 'usa-identifier';
+// @forward 'usa-input';
+// @forward 'usa-intro';
+// @forward 'usa-layout-docs';
+// @forward 'usa-link';
+// @forward 'usa-list';
+// @forward 'usa-nav';
+// @forward 'usa-prose';
+// @forward 'usa-search';
+// @forward 'usa-section';
+// @forward 'usa-sidenav';
+// @forward 'usa-skipnav';
+
+@forward "usa-accordion/src/styles";
+@forward "usa-banner/src/styles";
+@forward "usa-button/src/styles";
+@forward "usa-footer/src/styles";
+@forward "usa-header/src/styles";
+@forward "usa-icon/src/styles";
+@forward "usa-identifier/src/styles";
+@forward 'usa-input/src/styles';
+@forward "usa-intro/src/styles";
+@forward 'usa-layout-docs/src/styles';
+@forward "usa-layout-grid/src/styles";
+@forward "usa-link/src/styles";
+@forward "usa-list/src/styles";
+@forward "usa-prose/src/styles";
+@forward "usa-media-block/src/styles";
+@forward "usa-nav/src/styles";
+@forward "usa-search/src/styles";
+@forward "usa-section/src/styles";
+@forward "usa-sidenav/src/styles";
+@forward "usa-skipnav/src/styles";
+@forward "uswds-global";
+@forward "uswds-utilities";
+@forward "uswds-fonts";
+
 // @forward '../uswds/uswds-theme-general';
 // @forward '../uswds/uswds-theme-typography';
 // @forward '../uswds/uswds-theme-spacing';
@@ -31,7 +78,7 @@
 // -------------------------------------
 // ...or import all USWDS modules
 //@forward 'uswds-theme-custom-styles';
-@forward 'uswds';
+//@forward 'uswds';
 
 // -------------------------------------
 // Import theme custom styles
@@ -127,3 +174,5 @@
 @forward 'shortcodes/asset-img';
 @forward 'shortcodes/card-prompt';
 @forward 'shortcodes/termsofservice-compatible';
+
+
