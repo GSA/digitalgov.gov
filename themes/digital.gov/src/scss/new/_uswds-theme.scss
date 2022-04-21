@@ -83,27 +83,53 @@ $theme-header-max-width: "desktop",
 
 //utilities
 
-$output-all-utilities: false,
+// $output-all-utilities: false,
+// $theme-utility-breakpoints: (
+//   // 160px:
+//   "card": false,
+//   // 240px:
+//   "card-lg": true,
+//   // 320px:
+//   "mobile": true,
+//   // 480px:
+//   "mobile-lg": true,
+//   // 640px:
+//   "tablet": true,
+//   // 800px:
+//   "tablet-lg": true,
+//   // 1024px:
+//   "desktop": true,
+//   // 1200px:
+//   "desktop-lg": true,
+//   // 1400px:
+//   "widescreen": true
+// ),
+
 $theme-utility-breakpoints: (
-  // 160px:
   "card": false,
-  // 240px:
-  "card-lg": true,
-  // 320px:
-  "mobile": true,
-  // 480px:
+  "card-lg": false,
+  "mobile": false,
   "mobile-lg": true,
-  // 640px:
   "tablet": true,
-  // 800px:
   "tablet-lg": true,
-  // 1024px:
-  "desktop": true,
-  // 1200px:
-  "desktop-lg": true,
-  // 1400px:
-  "widescreen": true
+  "desktop": false,
+  "desktop-lg": false,
+  "widescreen": false
 ),
 
+$output-these-utilities: (
+    "add-list-reset",
+    "align-items",
+    "align-self",
+    "border",
+    "border-style",
+    "border-width",
+    "color",
+    "display",
+    "font",
+    "font-weight",
+    "order",
+    "text-decoration"
+    ),
 
 );
