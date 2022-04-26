@@ -37,7 +37,7 @@ event_platform: zoom
 
 youtube_id: 
 
-primary_image: 
+primary_image: may-itbuyers-event-title-card
 
 ---
 
