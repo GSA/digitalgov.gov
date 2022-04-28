@@ -20,6 +20,5 @@ location: Baltimore, MD
 # [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
 # Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
 # Learn more about getting a Github account at [URL]
-github: callanpyfer
 slug: callan-pyfer
 ---
