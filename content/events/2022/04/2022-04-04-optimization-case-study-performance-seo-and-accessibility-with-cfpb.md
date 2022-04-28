@@ -25,6 +25,9 @@ slug: optimization-case-study-performance-seo-and-accessibility-with-cfpb
 event_platform: zoom
 primary_image: april-wao-event-cfpb
 ---
+
+[View the slides (PowerPoint, 8.28 MB, 51 pages)](https://digital.gov/files/wao-cop-web-accessibility-seo-cfpb.pptx)
+
 The Consumer Financial Protection Bureau (CFPB) maintains a large public-facing website at [https://www.consumerfinance.gov](https://www.consumerfinance.gov/). The scale and diversity of the site makes it a challenge to ensure that content is fully discoverable and accessible to all. 
 
 This talk will review some of the approaches that CFPB designers, developers, and analytics specialists use to build SEO and accessibility testing into their design and development practices.
