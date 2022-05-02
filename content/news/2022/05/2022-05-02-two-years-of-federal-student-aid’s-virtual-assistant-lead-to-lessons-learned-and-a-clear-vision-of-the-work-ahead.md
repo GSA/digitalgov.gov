@@ -1,10 +1,7 @@
 ---
 date: 2022-05-03 16:56:00 -0500
-title: Two Years of Federal Student Aid’s Virtual Assistant Lead to Lessons
-  Learned and a Clear Vision of the Work Ahead
-summary: Education’s team behind Aidan® shares what they’ve learned over the
-  past two years to help drive improvements and expand the product to a wider
-  range of users.
+title: Two Years of Federal Student Aid’s Virtual Assistant Lead to Lessons Learned and a Clear Vision of the Work Ahead
+summary: Education’s team behind Aidan® shares what they’ve learned over the past two years to help drive improvements and expand the product to a wider range of users.
 # See all topics at https://digital.gov/topics
 topics:
   - chatbots
@@ -23,7 +20,9 @@ primary_image: fafsa-ask-aidan-owl-logo-in-chat-bubble
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 ## What is Aidan?!
 
 {{< img-right src="fafsa-ask-aidan-illustration-with-chat-screen" >}}
