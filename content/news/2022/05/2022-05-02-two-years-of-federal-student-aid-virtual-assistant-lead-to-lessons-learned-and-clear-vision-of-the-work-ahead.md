@@ -2,6 +2,7 @@
 date: 2022-05-03 10:00:00 -0500
 title: "Two Years of Federal Student Aid’s Virtual Assistant Lead to Lessons Learned and a Clear Vision of the Work Ahead"
 summary: "Education’s team behind Aidan® shares what they’ve learned over the past two years to help drive improvements and expand the product to a wider range of users."
+
 # See all topics at https://digital.gov/topics
 topics:
   - chatbots
@@ -10,11 +11,13 @@ topics:
   - design
   - user-experience
   - security
+
 # See all authors at https://digital.gov/authors
 authors:
   - christine-wilkes
   - laura-nadel
-slug: two-years-of-federal-student-aid-virtual-assistant-lead-to-lessons-learned-and-a-clear-vision-of-the-work-ahead
+
+slug: two-years-of-federal-student-aid-virtual-assistant-lead-to-lessons-learned-and-clear-vision-of-the-work-ahead
 
 primary_image: fafsa-ask-aidan-owl-logo-in-chat-bubble
 
@@ -79,17 +82,17 @@ We are constantly analyzing what users are asking and refining our answers to be
 
 In just over two years, Aidan has interacted with over 2.6 million unique customers, resulting in more than 11 million user messages. Here are just a few examples of the feedback we have received to date:
 
-{{< box >}}“The ease and relevance of the answer were quite impressive. [Aidan was] very informative and helpful.”
+{{< box >}}_The ease and relevance of the answer were quite impressive. [Aidan was] very informative and helpful._
 
-“It was easy to understand how student loans work and…the repayment process.”
+_It was easy to understand how student loans work and…the repayment process._
 
-“[Aidan was] very helpful in leading me to the loan simulator that I didn’t know was there. Thank you.”
+_[Aidan was] very helpful in leading me to the loan simulator that I didn’t know was there. Thank you._
 
-“Thank you! Quick, helpful information. I appreciate it.”{{< /box >}}
+_Thank you! Quick, helpful information. I appreciate it._ {{< /box >}}
 
 Improvement is a never-ending process, and our team is continually seeking ways to enhance our virtual assistant. If you have questions or suggestions, feel free to reach out to Christine Wilkes at [Christine.Wilkes@ed.gov](mailto:Christine.Wilkes@ed.gov).
 
----
+***
 
 ## Related Information
 
