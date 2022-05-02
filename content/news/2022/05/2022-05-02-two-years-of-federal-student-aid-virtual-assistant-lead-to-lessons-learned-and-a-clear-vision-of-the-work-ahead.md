@@ -53,7 +53,7 @@ Additionally, in response to the single largest question we receive, we built ou
 
 We have started tracking the website pages that users are on when they ask Aidan questions. This information is critical for understanding how users interact with StudentAid.gov, which then drives improvements to the site and helps us anticipate user questions within Aidan. For other organizations seeking to build virtual assistants, this information is an imperative—it’s as close as we can get to having conversations with our customers in real time as they interact with the website!
 
-{{< img-right src="ask-aidan-chat-feedback" >}}
+{{< img src="ask-aidan-chat-feedback" >}}
 
 In order to collect more meaningful and actionable user feedback, we developed a new design pattern, which indeed made it easier for users to provide feedback. We have noticed not only a 25-point increase in participation from users, but also significantly more helpful and actionable feedback. Users responded to the new design pattern by providing a lot more feedback to us. Now it’s our job to glean insights and drive our improvements based on that feedback. 
 
@@ -89,6 +89,6 @@ Improvement is a never-ending process, and our team is continually seeking ways 
 
 ***
 
-## Related Information
+**Related Information**
 
 [Using Chatbots To Improve Customer Experience](https://digital.gov/2021/04/07/using-chatbots-to-improve-customer-experience/): A cross-agency panel hosted by the [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) shares how they have used chatbots and other virtual assistants to improve customer experience. [Abraham Marinez](https://digital.gov/authors/abraham-marinez/) of FSA covers Aidan.
