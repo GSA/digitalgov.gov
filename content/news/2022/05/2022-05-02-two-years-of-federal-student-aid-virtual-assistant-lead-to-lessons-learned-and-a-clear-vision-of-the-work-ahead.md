@@ -1,7 +1,7 @@
 ---
-date: 2022-05-03 16:56:00 -0500
-title: Two Years of Federal Student Aid’s Virtual Assistant Lead to Lessons Learned and a Clear Vision of the Work Ahead
-summary: Education’s team behind Aidan® shares what they’ve learned over the past two years to help drive improvements and expand the product to a wider range of users.
+date: 2022-05-03 10:00:00 -0500
+title: "Two Years of Federal Student Aid’s Virtual Assistant Lead to Lessons Learned and a Clear Vision of the Work Ahead"
+summary: "Education’s team behind Aidan® shares what they’ve learned over the past two years to help drive improvements and expand the product to a wider range of users."
 # See all topics at https://digital.gov/topics
 topics:
   - chatbots
@@ -14,8 +14,10 @@ topics:
 authors:
   - christine-wilkes
   - laura-nadel
-slug: two-years-of-federal-student-aids-virtual-assistant-lead-to-lessons-learned-and-a-clear-vision-of-the-work-ahead
+slug: two-years-of-federal-student-aid-virtual-assistant-lead-to-lessons-learned-and-a-clear-vision-of-the-work-ahead
+
 primary_image: fafsa-ask-aidan-owl-logo-in-chat-bubble
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -87,7 +89,7 @@ In just over two years, Aidan has interacted with over 2.6 million unique custom
 
 Improvement is a never-ending process, and our team is continually seeking ways to enhance our virtual assistant. If you have questions or suggestions, feel free to reach out to Christine Wilkes at [Christine.Wilkes@ed.gov](mailto:Christine.Wilkes@ed.gov).
 
-***
+---
 
 ## Related Information
 
