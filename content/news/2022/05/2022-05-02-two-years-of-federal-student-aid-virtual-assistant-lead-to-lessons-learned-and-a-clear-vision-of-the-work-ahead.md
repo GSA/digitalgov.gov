@@ -51,9 +51,9 @@ Additionally, in response to the single largest question we receive, we built ou
 
 ### Gathering Feedback and Data
 
-We have started tracking the website pages that users are on when they ask Aidan questions. This information is critical for understanding how users interact with StudentAid.gov, which then drives improvements to the site and helps us anticipate user questions within Aidan. For other organizations seeking to build virtual assistants, this information is an imperative—it’s as close as we can get to having conversations with our customers in real time as they interact with the website!
+{{< img-right src="ask-aidan-chat-feedback" >}}
 
-{{< img src="ask-aidan-chat-feedback" >}}
+We have started tracking the website pages that users are on when they ask Aidan questions. This information is critical for understanding how users interact with StudentAid.gov, which then drives improvements to the site and helps us anticipate user questions within Aidan. For other organizations seeking to build virtual assistants, this information is an imperative—it’s as close as we can get to having conversations with our customers in real time as they interact with the website!
 
 In order to collect more meaningful and actionable user feedback, we developed a new design pattern, which indeed made it easier for users to provide feedback. We have noticed not only a 25-point increase in participation from users, but also significantly more helpful and actionable feedback. Users responded to the new design pattern by providing a lot more feedback to us. Now it’s our job to glean insights and drive our improvements based on that feedback. 
 
