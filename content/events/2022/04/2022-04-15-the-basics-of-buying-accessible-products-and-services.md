@@ -41,7 +41,7 @@ primary_image: may-itbuyers-event-title-card
 
 ---
 
-Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities.
+Accessibility, the “A” in DEIA (Diversity, Equity, Inclusion, and Accessibility), is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities.
 
 Learn the basics of buying accessible information and communications technology (ICT), and discover how you can help ensure that electronic information is accessible to everyone.
 
@@ -66,6 +66,8 @@ During our discussion, panelists from the U.S. General Services Administration (
 
 * [Section508.gov](https://www.section508.gov/)
 * [Access-Board.gov/ict](https://www.access-board.gov/ict/)
+* [Integrating Accessibility into Agency Diversity, Equity, Inclusion and Accessibility (DEIA) Implementation Plans](https://www.section508.gov/manage/deia-guidance/)
+* [Executive Order 14035](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)&mdash;Advance Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce
 * [Digital.gov Accessibility Resources](https://digital.gov/topics/accessibility/)
 * [PlainLanguage.gov](https://www.plainlanguage.gov/)
 
