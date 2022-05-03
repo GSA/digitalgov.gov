@@ -1,5 +1,5 @@
 ---
-date: 2022-05-02 18:26:00 -0500
+date: 2022-05-02 16:00:00 -0500
 title: Two Years of Federal Student Aid's Virtual Assistant Lead to Lessons Learned and a Clear Vision of the Work Ahead
 summary: Education's FSA team behind Aidan® shares what they’ve learned over the past two years to help drive improvements and expand the product to a wider range of users.
 # See all topics at https://digital.gov/topics
@@ -27,7 +27,7 @@ weight: 1
 
 Aidan®, Federal Student Aid’s (FSA) virtual assistant, has been providing customers with responses to common questions about financial aid, loan balances, repayment plans, loan servicers, and more since December 2019. Read about our initial product development and implementation journey in our [prior article](https://digital.gov/2020/12/07/federal-student-aids-new-virtual-assistant-offers-model-for-improved-customer-service-in-government/).
 
-{{< img src="fafsa-ask-aidan-illustration-with-chat-screen" >}}
+{{< img src="fafsa-ask-aidan-illustration-with-chat-screen-600" >}}
 
 We have learned a lot over the past two years, and it has helped us to drive improvements and expand the product to a wider range of users. We thought this would be a good time to provide an update about our takeaways from the process and what we see in Aidan’s future.
 
@@ -51,7 +51,7 @@ Additionally, in response to the single largest question we receive, we built ou
 
 ### Gathering Feedback and Data
 
-{{< img-right src="ask-aidan-chat-feedback" >}}
+{{< img-right src="ask-aidan-chat-feedback-600" >}}
 
 We have started tracking the website pages that users are on when they ask Aidan questions. This information is critical for understanding how users interact with StudentAid.gov, which then drives improvements to the site and helps us anticipate user questions within Aidan. For other organizations seeking to build virtual assistants, this information is an imperative—it’s as close as we can get to having conversations with our customers in real time as they interact with the website!
 
