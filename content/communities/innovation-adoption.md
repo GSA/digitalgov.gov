@@ -15,6 +15,7 @@ authors:
   - tina-chen
   - julia-begley
 slug: innovation-adoption
+redirectto: https://coe.gsa.gov/communities/innovation-adoption.html
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
