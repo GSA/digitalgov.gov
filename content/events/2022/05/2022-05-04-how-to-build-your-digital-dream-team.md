@@ -37,7 +37,7 @@ Our panel will offer perspectives on topics such as:
 
 ## Speakers
 
-* **Vicki McFadden**, Product Manager with GSA Service Delivery — U.S. General Services Administration (GSA), 
+* **Vicki McFadden**, Product Manager with GSA Service Delivery — U.S. General Services Administration (GSA) 
 * **Tori Garten**, Web Managers Community Co-lead — National Institutes of Health (NIH) 
 * **Laura Larrimore**, Digital and Creative Services Branch Chief — U.S. Patent and Trademark Office (USPTO)
 
