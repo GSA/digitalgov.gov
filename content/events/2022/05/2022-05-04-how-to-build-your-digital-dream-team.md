@@ -41,7 +41,7 @@ Our panel will offer perspectives on topics such as:
 * **Tori Garten**, Web Managers Community Co-lead — National Institutes of Health (NIH) 
 * **Laura Larrimore**, Digital and Creative Services Branch Chief — U.S. Patent and Trademark Office (USPTO)
 
-# Moderator
+## Moderator
 
 * **Ruxi Giura**, Web Managers Community Co-lead — Federal Emergency Management Agency (FEMA)
 
