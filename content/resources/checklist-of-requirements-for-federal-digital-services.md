@@ -55,7 +55,7 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 Understand customer needs, set performance standards, collect and address customer feedback, and use data to continuously improve your programs.
 
 * [Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/download/attachments/636161243/8_2_DGS_Implementation_Instructions_v_final.docx?version=1&modificationDate=1350935840136)</a> (OMB guidance accessible to federal employees on the OMB MAX wiki)
-* [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 KB, 9 pages, June 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf)
+* [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf)
 * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
     * See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
 
@@ -73,10 +73,10 @@ Inform the public about your policies on digital rights, copyrights, trademarks,
 
 * [Copyright Law](http://www.copyright.gov/)
 * [U.S. Trademark Law](http://www.uspto.gov/trademarks/law/tmlaw.pdf) (PDF, 1.5 MB, 260 pages, March 2010)
-* [Digital Millennium Copyright Act](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=105_cong_public_laws&docid=f:publ304.105.pdf) (PDF, 277 KB, 60 pages, January 1999)
+* [Digital Millennium Copyright Act](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=105_cong_public_laws&docid=f:publ304.105.pdf) (PDF, 277 kb, 60 pages, January 1999)
 * [U.S. Patent Law, U.S. Code 35, Chapter 26](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+35USC261)
 * [Copyright.gov](http://www.copyright.gov/)
-* [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/United-States-government-works-and-copyright.docx) (MS Word, 16 KB, 2 pages, June 2011)
+* [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/United-States-government-works-and-copyright.docx) (MS Word, 16 kb, 2 pages, June 2011)
 
 ## Customer Experience
 
@@ -84,9 +84,9 @@ Understand the needs of your customers, collect and address customer feedback, a
 
 * [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)
 * [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
-* [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf) (2021) (PDF, 11 pages, 410 kb)
+* [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf) (2021) (PDF, 410 kb, 11 pages)
 * See all [Government Customer Service Policies and Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
-* [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (4 pages, 196 kb)
+* [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
 
 <p class="more"><a href="{{< ref "/topics/cx" >}}">More on Customer Experience <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
@@ -107,7 +107,7 @@ Federal executive branch agency websites must use only .gov or .mil domains unle
 
 * [GOV Domain Name Registration Service](https://www.dotgov.gov/) &#8211; request a new .gov domain
 * [Final Rule – 41 CFR Part 102-173](https://www.dotgov.gov/portal/web/dotgov/policy) authorizes GSA to manage the .gov registration process
-* [Policies for DotGov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 KB, 2 pages, January 2015)
+* [Policies for DotGov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 kb, 2 pages, January 2015)
 
 ## Freedom of Information Act (FOIA)
 
@@ -156,7 +156,7 @@ Establish a digital governance structure to provide accountability and enforce p
 
 Create content that's accurate, relevant, easy-to-use, and conveyed in plain language. Maximize the quality, objectivity, utility, and integrity of information and services provided to the public, and make information and services available on a timely and equitable basis.
 
-* [Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515)](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information) (PDF, 161 KB, 10 pages, February 2002)
+* [Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515)](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information) (PDF, 161 kb, 10 pages, February 2002)
 
 ## Mandatory Content
 
@@ -201,10 +201,10 @@ Information you collect from the public should minimize burden and maximize publ
 
 * [Paperwork Reduction Act (44 U.S.C. 3501 et seq.)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm)
 * [Federal Collection of Information](https://obamawhitehouse.archives.gov/omb/inforeg_infocoll/)
-* [OMB M-11-26, Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (PDF, 196 KB, 4 pages, June 2011)
-* [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act](http://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 KB, 7 pages, April 2010)
+* [OMB M-11-26, Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (PDF, 196 kb, 4 pages, June 2011)
+* [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act](http://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 kb, 7 pages, April 2010)
 * [Government Paperwork Elimination Act (GPEA)](http://obamawhitehouse.archives.gov/omb/fedreg_gpea2/) (1998)
-* [Small Business Paperwork Relief Act of 2002](https://www.gpo.gov/fdsys/pkg/STATUTE-116/pdf/STATUTE-116-Pg729.pdf) (PDF, 49 KB, 5 pages, June 2002)
+* [Small Business Paperwork Relief Act of 2002](https://www.gpo.gov/fdsys/pkg/STATUTE-116/pdf/STATUTE-116-Pg729.pdf) (PDF, 49 kb, 5 pages, June 2002)
 
 ## Performance Measurement and Reporting
 
@@ -216,19 +216,19 @@ Regularly evaluate all digital products for performance and cost effectiveness b
 
 Federal executive branch agencies are required to write all new or significantly revised publications, forms and publicly distributed documents in a "clear, concise, well-organized" manner.
 
-* [OMB Memo on Testing and Simplifying Federal Forms](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/memos/testing-and-simplifying-federal-forms.pdf) (PDF, 94 KB, 2 pages, August 2012)
-* [Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) (PDF, 153 KB, 3 pages, January 2010)
+* [OMB Memo on Testing and Simplifying Federal Forms](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/memos/testing-and-simplifying-federal-forms.pdf) (PDF, 94 kb, 2 pages, August 2012)
+* [Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) (PDF, 153 kb, 3 pages, January 2010)
 * [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
-* [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 KB, 6 pages, April 2011)
+* [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 kb, 6 pages, April 2011)
 
 ## Privacy and Identity Management
 
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide service through a secure connection. Provide a link to your privacy policy on every page, or in your overall site policies. Conduct a privacy impact assessment of your website. Post a "Privacy Act Statement" that explains your legal authority for collecting personal data and how the data will be used.
 
 * [OBM M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) (PDF, 1 MB, 13 pages, May 2019)
-* [OMB M-17-12, Preparing for and Responding to a Breach of Personally Identifiable Information](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-12_0.pdf) (PDF, 26,964 KB, 47 pages, January 2017)
+* [OMB M-17-12, Preparing for and Responding to a Breach of Personally Identifiable Information](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-12_0.pdf) (PDF, 26.96 MB, 47 pages, January 2017)
 * [OMB M-17-09, Management of Federal High Value Assets](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-09.pdf) (PDF, 9.14 MB, 16 pages, December 2016)
-* [OMB M-11-11, Continued Implementation of Homeland Security Presidential Directive (HSPD) 12–Policy for a Common Identification Standard for Federal Employees and Contractors](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-11.pdf) (PDF, 205 KB, 6 pages, February 2011)
+* [OMB M-11-11, Continued Implementation of Homeland Security Presidential Directive (HSPD) 12–Policy for a Common Identification Standard for Federal Employees and Contractors](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-11.pdf) (PDF, 205 kb, 6 pages, February 2011)
 * [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://www.whitehouse.gov/wp-content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-Government-Act-of-2002-1.pdf) (September 2003)
 * [800 series NIST Special Publications](https://www.nist.gov/itl/publications-0/nist-special-publication-800-series-general-information)
 * [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
@@ -263,22 +263,22 @@ Implement security and management controls to prevent the inappropriate disclosu
 
 * [Binding Operational Directive 20-01, Develop and Publish a Vulnerability Disclosure Policy](https://cyber.dhs.gov/bod/20-01/) (September 2, 2020)
 * [Cybersecurity Executive Order 13800](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/) (May 11, 2017)
-* [OMB M-15-13, Policy to Require Secure Connections across Federal Websites and Web Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf) (PDF, 258 KB, 5 pages, June 2015)
+* [OMB M-15-13, Policy to Require Secure Connections across Federal Websites and Web Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf) (PDF, 258 kb, 5 pages, June 2015)
 * [Federal Information Security Modernization Act of 2014 (FISMA) (Public Law 113-283)](https://www.gpo.gov/fdsys/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf) (PDF, December 2014)
-* [NIST Guidelines on Securing Public Web Servers](http://csrc.nist.gov/publications/nistpubs/800-44-ver2/SP800-44v2.pdf) (PDF, 960 KB, 142 pages, September 2007)
-* [OMB M-04-15 Reporting Instructions for the Federal Information Security Management Act](https://georgewbush-whitehouse.archives.gov/omb/memoranda/fy04/m-04-15.pdf) (PDF, 121 KB, 14 pages, August 2004)
+* [NIST Guidelines on Securing Public Web Servers](http://csrc.nist.gov/publications/nistpubs/800-44-ver2/SP800-44v2.pdf) (PDF, 960 kb, 142 pages, September 2007)
+* [OMB M-04-15 Reporting Instructions for the Federal Information Security Management Act](https://georgewbush-whitehouse.archives.gov/omb/memoranda/fy04/m-04-15.pdf) (PDF, 121 kb, 14 pages, August 2004)
 
 ## Technology Standards
 
 Use the most recent and up-to-date technical standards for your digital services. Provide service through a secure connection. Deploy and use IPv6.
 
 * [The HTTPS-Only Standard](https://https.cio.gov/)
-* [OMB M-21-07 Completing the Transition to Internet Protocol Version 6 (IPv6)](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf) (PDF, November 2020)
+* [OMB M-21-07 Completing the Transition to Internet Protocol Version 6 (IPv6)](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf) (PDF, 5.9 MB, 7 pages, November 2020)
 
 ## Third-Party Services/Social Media
 
 Use social tools to interact with customers and improve the customer experience.
 
 * [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
-* [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 KB, 7 pages, April 2010)
-* [Guidelines for Secure Use of Social Media by Federal Departments and Agencies](https://cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf) (PDF, 233 KB, 19 pages, September 2009)
+* [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 kb, 7 pages, April 2010)
+* [Guidelines for Secure Use of Social Media by Federal Departments and Agencies](https://cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf) (PDF, 233 kb, 19 pages, September 2009)
