@@ -3,7 +3,7 @@ slug: checklist-of-requirements-for-federal-digital-services
 date: 2014-01-09 1:20:11 -0400
 title: "Checklist of Requirements for Federal Websites and Digital Services"
 summary: "Links to relevant laws, policies, and regulations for federal agencies."
-deck: 'The relevant laws, policies, and regulations for federal agencies.'
+deck: "The relevant laws, policies, and regulations for federal agencies."
 authors:
   - rflagg
   - ammie-farraj-feijoo
@@ -226,9 +226,9 @@ Federal executive branch agencies are required to write all new or significantly
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide service through a secure connection. Provide a link to your privacy policy on every page, or in your overall site policies. Conduct a privacy impact assessment of your website. Post a "Privacy Act Statement" that explains your legal authority for collecting personal data and how the data will be used.
 
 * [OBM M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) (PDF, 1 MB, 13 pages, May 2019)
-* [OMB M-17-12, Preparing for and Responding to a Breach of Personally Identifiable Information](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-12_0.pdf) (PDF, 26,964 KB, 47 pages, January 2017)
-* [OMB M-17-09, Management of Federal High Value Assets](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-09.pdf) (PDF, 9.14 MB, 16 pages, December 2016)
-* [OMB M-11-11, Continued Implementation of Homeland Security Presidential Directive (HSPD) 12–Policy for a Common Identification Standard for Federal Employees and Contractors](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf) (PDF, 205 KB, 6 pages, February 2011)
+* [OMB M-17-12, Preparing for and Responding to a Breach of Personally Identifiable Information](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-12_0.pdf) (PDF, 26,964 KB, 47 pages, January 2017)
+* [OMB M-17-09, Management of Federal High Value Assets](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-09.pdf) (PDF, 9.14 MB, 16 pages, December 2016)
+* [OMB M-11-11, Continued Implementation of Homeland Security Presidential Directive (HSPD) 12–Policy for a Common Identification Standard for Federal Employees and Contractors](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-11.pdf) (PDF, 205 KB, 6 pages, February 2011)
 * [OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002](https://www.whitehouse.gov/wp-content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-Government-Act-of-2002-1.pdf) (September 2003)
 * [800 series NIST Special Publications](https://www.nist.gov/itl/publications-0/nist-special-publication-800-series-general-information)
 * [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
@@ -262,23 +262,23 @@ Ensure your website includes a search function which follows industry standard b
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide adequate security controls to ensure information is resistant to tampering, remains confidential as necessary, and is available as intended by the agency and expected by users. Implement management controls to prevent the inappropriate disclosure of sensitive information. Provide general information to the public about your security protocols. Provide a way for the public to report vulnerabilities.
 
 * [Binding Operational Directive 20-01, Develop and Publish a Vulnerability Disclosure Policy](https://cyber.dhs.gov/bod/20-01/) (September 2, 2020)
-* [Cybersecurity Executive Order 13800](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal) (May 11, 2017)
-* [OMB M-15-13, Policy to Require Secure Connections across Federal Websites and Web Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2015/m-15-13.pdf) (PDF, 258 KB, 5 pages, June 2015)
+* [Cybersecurity Executive Order 13800](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/) (May 11, 2017)
+* [OMB M-15-13, Policy to Require Secure Connections across Federal Websites and Web Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf) (PDF, 258 KB, 5 pages, June 2015)
 * [Federal Information Security Modernization Act of 2014 (FISMA) (Public Law 113-283)](https://www.gpo.gov/fdsys/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf) (PDF, December 2014)
 * [NIST Guidelines on Securing Public Web Servers](http://csrc.nist.gov/publications/nistpubs/800-44-ver2/SP800-44v2.pdf) (PDF, 960 KB, 142 pages, September 2007)
-* [OMB M-04-15 Reporting Instructions for the Federal Information Security Management Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m-04-15.pdf) (PDF, 269 KB, 28 pages, August 2004)
+* [OMB M-04-15 Reporting Instructions for the Federal Information Security Management Act](https://georgewbush-whitehouse.archives.gov/omb/memoranda/fy04/m-04-15.pdf) (PDF, 121 KB, 14 pages, August 2004)
 
 ## Technology Standards
 
 Use the most recent and up-to-date technical standards for your digital services. Provide service through a secure connection. Deploy and use IPv6.
 
 * [The HTTPS-Only Standard](https://https.cio.gov/)
-* [OMB M-21-07 Completing the Transition to Internet Protocol Version 6 (1Pv6)](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf) (PDF, November 2020)
+* [OMB M-21-07 Completing the Transition to Internet Protocol Version 6 (IPv6)](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf) (PDF, November 2020)
 
 ## Third-Party Services/Social Media
 
 Use social tools to interact with customers and improve the customer experience.
 
-* [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
+* [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
 * [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 KB, 7 pages, April 2010)
 * [Guidelines for Secure Use of Social Media by Federal Departments and Agencies](https://cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf) (PDF, 233 KB, 19 pages, September 2009)
