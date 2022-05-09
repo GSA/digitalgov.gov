@@ -21,6 +21,8 @@ authors:
 slug: uswds-monthly-call-may-2022
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: uswds-monthly-call-may-title-card
+
 ---
 Now that USWDS 3.0 is out in the world, let’s look at how we can optimize it to improve performance. We’ll dive into tips and techniques you can use to reduce CSS size and chip away at your build time.
 
