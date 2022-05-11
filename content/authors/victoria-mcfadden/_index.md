@@ -20,7 +20,7 @@ slug: victoria-mcfadden
 email: "victoria.mcfadden@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Victoria McFadden is the Deputy Chief Customer Officer in the Office of Customer Experience at GSA."
+bio: "Victoria McFadden is a Product Manager with the GSA Service Delivery team. The GSA Service Delivery team pairs with GSA programs to help deliver digital services that are easy to use and maintain."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
