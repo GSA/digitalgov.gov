@@ -23,35 +23,58 @@
   </div>
 
 
-  <section class="communities-list usa-section">
+  <section class="usa-section">
     <div class="grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-2">
+          <div class="grid-col-12">
 
-        {{/* Gets all communities pages */}}
-        {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
+            <ul class="usa-card-group">
+              {{/* Gets all communities pages */}}
+              {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
 
-        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-        {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
+              <!-- {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+              {{ $communities := (where $communities ".Params.weight" "ge" 1) }} -->
 
-        {{ range $i, $e := $communities }}
-          <div class="grid-col-12 tablet:grid-col-6">
+              {{/* Gather only the pages with a dg-emphasis key */}}
+              {{ $communities := (where $communities ".Params.dg-highlight" "eq" true) }}
 
-            <article class="promo promo-card" data-edit-this="{{- .Path -}}">
-              <div class="grid-row tablet-lg:grid-gap-4">
-                <div class="grid-col-12">
-                  <h4><a href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">{{- $e.Title | markdownify -}}</a></h4>
-                  <p>{{- $e.Params.summary | markdownify -}}</p>
+              {{ range $i, $e := $communities }}
+              <li class="usa-card tablet:grid-col-6">
+                <div class="usa-card__container">
+                  <div class="usa-card__header">
+                    <h2 class="usa-card__heading">{{- $e.Title | markdownify -}}</h2>
+                  </div>
+                  <div class="usa-card__body">
+                    <p>{{- $e.Params.summary | markdownify -}}</p>
+                  </div>
+                  <div class="usa-card__footer">
+                    <a href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">
+                      <button class="usa-button">Visit Florida Keys</button>
+                    </a>
+                  </div>
                 </div>
-              </div>
-              <a href="{{- $e.Permalink -}}" title="{{- .Params.head -}}"><span></span></a>
-            </article>
+              </li>
 
+              {{ end }}
           </div>
-        {{ end }}
+
 
       </div>
     </div>
   </section>
+
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row tablet-lg:grid-gap-4">
+      <div class="grid-col-12">
+        <header class="page-head page-head-{{- .Type -}}">
+
+          {{/* Page Title */}}
+          <h1>Other Communities of Practice</h1>
+
+        </header>
+      </div>
+    </div>
+  </div>
 
 </main>
 

@@ -24,6 +24,7 @@ slug: web-analytics-and-optimization
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+dg-highlight: true
 # Enter the path of the URL that you want redirected to this page
 community_list:
   - platform: listserv

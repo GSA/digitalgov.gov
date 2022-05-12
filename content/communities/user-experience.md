@@ -19,6 +19,7 @@ topics:
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+dg-highlight: true
 
 community_list:
   - platform: "listserv"
