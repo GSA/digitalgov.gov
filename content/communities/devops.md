@@ -12,6 +12,11 @@ summary: "The practice of operations and development staff participating in the 
 topics:
   - devops
 
+# see all authors at https://digital.gov/authors
+authors:
+  - ken-kato
+  - angeli-hawkins
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
