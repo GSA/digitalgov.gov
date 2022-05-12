@@ -4,7 +4,7 @@
 
 slug: social-media
 date: 2019-12-12 19:00:00 -0500
-title: "Social Media"
+title: "SocialGov"
 summary: "SocialGov is the government social media and new digital media community of practice."
 
 # see all authors at https://digital.gov/authors
