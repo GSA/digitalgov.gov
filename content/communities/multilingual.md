@@ -25,7 +25,10 @@ topics:
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
+# Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg-highlight: true
+dg_image: img/dg-card-image-2.png
 
 community_list:
   - platform: listserv
