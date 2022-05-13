@@ -34,7 +34,7 @@ weight: 1
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg-highlight: true
-dg_image: img/dg-card-image-1.png
+dg_image: img/dg-card-image-8_w400.png
 
 ---
 
