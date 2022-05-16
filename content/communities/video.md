@@ -32,8 +32,8 @@ community_list:
 ---
 ## Who We Are
 
-Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government. We will share leading trends, best practices, latest projects, feedback, techniques, and strategies to help our respective agencies connect with people through the power of video.
+Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government. We share leading trends, best practices, latest projects, feedback, techniques, and strategies to help our respective agencies connect with people through the power of video.
 
 ## What We Do
 
-**Knowledge Sharing**: Our listserv will provide news about emerging video production gear, software and more. We cover everything from pre-production to post. We strive to make our videos more successful on social platforms, through analytics, using mobile tools, targeted distribution and more. Members will be able to ask questions, network and share their knowledge.
+Our community provides news about emerging video production gear, software and more. We cover everything from pre-production to post. We strive to make our videos more successful on social platforms, through analytics, using mobile tools, targeted distribution and more. We encourage members can ask questions, network, and share their knowledge.
