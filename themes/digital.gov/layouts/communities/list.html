@@ -35,7 +35,7 @@
               {{ $dg_communities := (where $dg_communities ".Params.weight" "ge" 1) }}
 
               {{/* Gather only the pages with a dg-emphasis key */}}
-              {{ $dg_communities := (where $dg_communities ".Params.dg-highlight" "eq" true) }}
+              {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
 
               {{ range $i, $e := $dg_communities }}
 
@@ -58,7 +58,7 @@
                     </p>
                   </div>
                   <div class="usa-card__footer">
-                    <a href="{{- $e.Permalink -}}" title="{{- $e.Title -}}">
+                    <a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Title -}}">
                       Join&nbsp;{{- $e.Title -}}
                     </a>
                   </div>
