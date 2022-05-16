@@ -24,6 +24,11 @@ slug: web-analytics-and-optimization
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
+# Spotlight Digital.gov Communities of Practice (COP) at top of /communities
+dg-highlight: true
+dg_image: img/dg-card-image-6.png
+
 # Enter the path of the URL that you want redirected to this page
 community_list:
   - platform: listserv

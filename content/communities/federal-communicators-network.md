@@ -32,6 +32,10 @@ community_list:
 # 1 -- visible
 weight: 1
 
+# Spotlight Digital.gov Communities of Practice (COP) at top of /communities
+dg-highlight: true
+dg_image: img/dg-card-image-8_w400.png
+
 ---
 
 The Federal Communicators Network (FCN) was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
