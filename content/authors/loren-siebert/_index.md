@@ -17,7 +17,7 @@ pronoun: ""
 slug: loren-siebert
 
 # if you include an email address, it will be displayed on your profile page
-email: "loren@siebert.org"
+email:
 
 # Bio — keep it under 50 words
 bio: "Loren Siebert is the Technical Lead for the DigitalGov Search program, where he focuses on search and analytics."

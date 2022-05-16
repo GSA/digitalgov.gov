@@ -17,7 +17,7 @@ pronoun: ""
 slug: cliff-tyllick
 
 # if you include an email address, it will be displayed on your profile page
-email: "cliff.tyllick@tceq.texas.gov"
+email:
 
 # Bio — keep it under 50 words
 bio: "Cliff Tyllick has worked on clear communication, usability, and Web development since the new authoring tools were HyperCard and Owl Guide—in other words, long before there was a World Wide Web. He is now the accessibility coordinator of the Texas Department of Aging and Disability Services."
