@@ -24,10 +24,11 @@ weight: 1
 
 community_list:
   - platform: listserv
-    type: government_only
+    type: government
     subscribe_email: "VIDEO-PRODUCTION-subscribe-request@listserv.gsa.gov"
-    terms: "U.S. government employees only are eligible to join."
-    members: 510
+    terms: "Anyone with a .gov or .mil email address is eligible to join."
+    members: 510   
+    
 
 ---
 ## Who We Are
