@@ -52,13 +52,17 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 ### General Terminology
 
+#### U.S. Department of Labor (DOL)
+
+[DOL's English-Spanish glossary](https://www.dol.gov/sites/dolgov/files/general/Spanish-English-Glossary.pdf) (PDF, 5 MB, 73 pages) includes terms related to job-seeking, employment, retirement and other areas related to the Department of Labor’s work.
+
 #### U.S. Small Business Administration (SBA), Office of Communications and Public Liaison (OCPL)
 
 [Bilingual (English and Spanish) Glossary of Terms](https://www.sba.gov/document/support-sba-spanish-english-glossary)
 
 #### Social Security Administration (SSA)
 
-This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html) offers information ranging from states and days of the weeks to health.
+[SSA's English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html) offers information ranging from states and days of the weeks to health.
 
 **Social Security Information in Other Languages**
 
