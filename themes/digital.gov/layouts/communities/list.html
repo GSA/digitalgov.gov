@@ -26,46 +26,46 @@
   <section class="usa-section">
     <div class="grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-2">
-          <div class="grid-col-12">
-            <ul class="usa-card-group">
-              {{/* Gets all communities pages */}}
-              {{ $dg_communities := (where .Site.Pages "Section" "communities").ByTitle }}
+        <div class="grid-col-12">
+          <ul class="usa-card-group">
+            {{/* Gets all communities pages */}}
+            {{ $dg_communities := (where .Site.Pages "Section" "communities").ByTitle }}
 
-              {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-              {{ $dg_communities := (where $dg_communities ".Params.weight" "ge" 1) }}
+            {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+            {{ $dg_communities := (where $dg_communities ".Params.weight" "ge" 1) }}
 
-              {{/* Gather only the pages with a dg-emphasis key */}}
-              {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
+            {{/* Gather only the pages with a dg-emphasis key */}}
+            {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
 
-              {{ range $i, $e := $dg_communities }}
+            {{ range $i, $e := $dg_communities }}
 
-              <li class="usa-card tablet:grid-col-4">
-                <div class="usa-card__container">
-                  <div class="usa-card__header">
-                    <h2 class="usa-card__heading">{{- $e.Title | markdownify -}}</h2>
-                  </div>
-                  <div class="usa-card__media">
-                    <div class="usa-card__img">
-                      <img
-                        src="{{- $e.Params.dg_image | absURL -}}"
-                        alt="{{- $e.Title }}"
-                      />
-                    </div>
-                  </div>
-                  <div class="usa-card__body">
-                    <p>
-                      {{- $e.Params.summary | markdownify -}}
-                    </p>
-                  </div>
-                  <div class="usa-card__footer">
-                    <a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Title -}}">
-                      Join&nbsp;{{- $e.Title -}}
-                    </a>
+            <li class="usa-card tablet:grid-col-4">
+              <div class="usa-card__container">
+                <div class="usa-card__header">
+                  <h2 class="usa-card__heading">{{- $e.Title | markdownify -}}</h2>
+                </div>
+                <div class="usa-card__media">
+                  <div class="usa-card__img">
+                    <img
+                      src="{{- $e.Params.dg_image | absURL -}}"
+                      alt=""
+                      aria-hidden="true"
+                    />
                   </div>
                 </div>
-              </li>
-              {{ end }}
-          </div>
+                <div class="usa-card__body">
+                  <p>{{- $e.Params.summary | markdownify -}}</p>
+                </div>
+                <div class="usa-card__footer">
+                  <a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Title -}}">
+                    Join&nbsp;{{- $e.Title -}}
+                  </a>
+                </div>
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
       </div>
     </div>
   </section>
@@ -85,36 +85,33 @@
 
   <section class="usa-section">
     <div class="grid-container-desktop">
-          <ul class="usa-collection grid-row">
-            <div class="grid-row tablet:grid-gap-4">
-            {{/* Gets all communities pages */}}
-            {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
+      <ul class="usa-collection grid-row tablet:grid-gap-6">
 
-            {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-            {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
+        {{/* Gets all communities pages */}}
+        {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
 
-            {{/* Gather only the pages with a dg-emphasis key */}}
-            {{ $communities := (where $communities ".Params.dg-highlight" "!=" true) }}
+        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+        {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
 
-            {{ range $i, $e := $communities }}
-            <div class="tablet:grid-col-6">
-              <li class="usa-collection__item">
-                <div class="usa-collection__body">
-                  <h3 class="usa-collection__heading">
-                    <a class="usa-link usa-link--external" href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">
-                      {{- $e.Title | markdownify -}}
-                    </a>
-                  </h3>
-                  <p class="usa-collection__description">
-                    {{- $e.Params.summary | markdownify -}}
-                  </p>
-                </div>
-              </li>
-            </div>
-            {{ end }}
-            </div>
-          </ul>
+        {{/* Gather only the pages with a dg-emphasis key */}}
+        {{ $communities := (where $communities ".Params.dg-highlight" "!=" true) }}
 
+        {{ range $i, $e := $communities }}
+
+        <li class="usa-collection__item tablet:grid-col-6">
+          <div class="usa-collection__body">
+            <h2 class="usa-collection__heading">
+              <a class="usa-link usa-link--external" href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">
+                {{- $e.Title | markdownify -}}
+              </a>
+            </h2>
+            <p class="usa-collection__description">
+              {{- $e.Params.summary | markdownify -}}
+            </p>
+          </div>
+        </li>
+        {{ end }}
+      </ul>
     </div>
   </section>
 
