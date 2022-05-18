@@ -11,11 +11,6 @@ Here are values that are passed in through the partial:
 */}}
 
 {{- $email_copy := (print "We value your feedback and open questions. Thank you for helping to make our pages better.") -}}
-{{- $email_subject := (print "?subject=Feedback%3A%20") -}}
-{{- $email_body := (print "&amp;body=%0D%0A---enter%20your%20feedback%2Fquestions%20here---%0D%0A%0D%0A%0D%0A-%20-%20-%20-%20-%20%0D%0APage%3A%20") -}}
-{{- $email_url_1 := (print "%0D%0AURL%3A%20https%3A%2F%2Fwww.digital.gov") -}}
-{{- $email_url_2 := (print "%0D%0A-%20-%20-%20-%20-%0D%0A%0D%0A%0D%0A") -}}
-{{- $email_url_3 := (print "%0D%0A%0D%0Ahttps%3A%2F%2Fwww.digital.gov%0D%0A%40digital_gov%20on%20Twitter") -}}
 
 <div id="page-data" class="branch-{{- .branch -}}" name="page-data">
   <p class="feedback-copy">
@@ -24,11 +19,13 @@ Here are values that are passed in through the partial:
       Have feedback or questions?
     {{- end }}
     <a target="new" href="mailto:{{- if .email -}}{{- .email -}}{{- else -}}digitalgov@gsa.gov{{- end -}}
-        {{- $email_subject -}}{{- htmlUnescape .page.Title | safeHTML -}}{{- $email_body -}}
-        {{- htmlUnescape .page.Title | safeHTML -}}{{- $email_url_1 -}}{{- .page.Permalink | markdownify -}}
-        {{- $email_url_2 -}}{{- $email_copy -}}{{- $email_url_3 -}}
-        {{- if .cc -}}&amp;cc={{- .cc -}}
-        {{- end -}}">
+        ?subject=Feedback%3A%20{{- htmlUnescape .page.Title | safeHTML -}}
+        &amp;body=%0D%0A---enter%20your%20feedback%2Fquestions%20here---%0D%0A%0D%0A%0D%0A-%20-%20-%20-%20-%20%0D%0APage%3A%20
+        {{- htmlUnescape .page.Title | safeHTML -}}%0D%0AURL%3A%20https%3A%2F%2Fwww.digital.gov{{- .page.Permalink | markdownify -}}
+        %0D%0A-%20-%20-%20-%20-%0D%0A%0D%0A%0D%0A
+        {{- $email_copy -}}
+        %0D%0A%0D%0Ahttps%3A%2F%2Fwww.digital.gov%0D%0A%40digital_gov%20on%20Twitter
+        {{- if .cc -}}&amp;cc={{- .cc -}}{{- end -}}">
         Send us an email at digitalgov@gsa.gov
     </a>
     </p>
