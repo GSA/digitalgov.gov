@@ -25,7 +25,7 @@ For many applications, organizations want to collaborate to gain insights from t
 
 Today, to analyze their collective data, organizations must share their data – either with each other or with a third party – and trust those other parties with their sensitive data. Traditionally, collaboration on sensitive data incurs significant security and privacy risks, or does not take place at all. Ideally, organizations could obtain the results and benefits of data sharing without actually sharing their private data.
 
-The need for technology to address these problems has been recognized at the national level. For example, in [2017 the Report of the U.S. Commission on Evidence-Based Policymaking](https://www.cep.gov/cep-final-report.html) recommended improving how the government uses and protects data by adopting privacy-preserving technologies, such as secure multi-party computation.
+The need for technology to address these problems has been recognized at the national level. For example, in [2017 the Report of the U.S. Commission on Evidence-Based Policymaking](https://digital.library.unt.edu/ark:/67531/metadc1282027/) recommended improving how the government uses and protects data by adopting privacy-preserving technologies, such as secure multi-party computation.
 
 ## Secure Multi-Party Computation (MPC)
 
