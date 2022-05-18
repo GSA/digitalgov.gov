@@ -85,7 +85,7 @@
 
   <section class="usa-section">
     <div class="grid-container-desktop">
-      <ul class="usa-collection grid-row tablet:grid-gap-6">
+      <ul class="comms-of-practice--list usa-collection">
 
         {{/* Gets all communities pages */}}
         {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
@@ -97,8 +97,7 @@
         {{ $communities := (where $communities ".Params.dg-highlight" "!=" true) }}
 
         {{ range $i, $e := $communities }}
-
-        <li class="usa-collection__item tablet:grid-col-6">
+        <li class="usa-collection__item">
           <div class="usa-collection__body">
             <h2 class="usa-collection__heading">
               <a class="usa-link usa-link--external" href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">
@@ -110,6 +109,7 @@
             </p>
           </div>
         </li>
+
         {{ end }}
       </ul>
     </div>

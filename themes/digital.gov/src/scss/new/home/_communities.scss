@@ -1,5 +1,14 @@
 @use "uswds-core" as *;
 
+
+.comms-of-practice--list {
+  @include at-media("tablet") {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 2rem;
+  }
+}
+
 // communities
 .communities-list{
   ul{
