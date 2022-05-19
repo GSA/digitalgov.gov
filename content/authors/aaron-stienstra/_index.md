@@ -15,7 +15,7 @@ pronoun: ""
 email: 
 
 # Bio — keep it under 50 words
-bio: "Design Strategist"
+bio: "Aaron Stienstra is a Senior Design Strategist with the Office of Customer Experience at GSA. He is currently on an extended assignment with the Office of Management and Budget (OMB), where he’s a design lead with the federal customer experience team, and he supports the Equity Learning Community to implement the Biden Administration’s Equity Executive Order. Before joining GSA, Aaron was a Human Innovation Fellow and Designer with the Lab at the Office of Personnel Management (OPM), where he did extensive human-centered design work with the U.S. Department of Veterans Affairs."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 
