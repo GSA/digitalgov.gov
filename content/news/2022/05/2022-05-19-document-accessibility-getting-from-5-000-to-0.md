@@ -4,10 +4,8 @@ source_url: https://blog-nrrd.doi.gov/accessibility/
 source: doi-revenuedata
 date: 2021-09-03 11:48:00 -0500
 title: "Document accessibility: getting from 5,000 to 0"
-deck: "Document accessibility: getting from 5,000 to 0. Our approach to making
+deck: "**Document accessibility: getting from 5,000 to 0**&mdash;Our approach to making
   5,000 documents on onrr.gov accessible."
-summary: "Document accessibility: getting from 5,000 to 0. Our approach to
-  making 5,000 documents on onrr.gov accessible."
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
