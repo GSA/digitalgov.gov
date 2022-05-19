@@ -20,7 +20,7 @@ Gone are the days when you have to drive miles on a hot and humid afternoon or a
 
 Categorized under business, the **USPS Mobile®** app services customers’ postal needs. You can download this app for [iOS (iPhones & iPad)](https://itunes.apple.com/us/app/usps-mobile/id339597578?mt=8) and [Androids](https://play.google.com/store/apps/details?id=com.usps&hl=en). The app is user friendly and the intuitive home screen directs customers to available services with eye-catching icons.
 
-{{< legacy-img src="2015/11/600-x-518-USPS-Mobile-iPhone-app-home-menu-and-tracking-screens.jpg" alt="USPS Mobile iPhone app home menu and tracking screens" >}}
+{{< legacy-img-right src="2015/11/600-x-518-USPS-Mobile-iPhone-app-home-menu-and-tracking-screens.jpg" alt="USPS Mobile iPhone app home menu and tracking screens" >}}
 
 So what can this app do for you?
 
