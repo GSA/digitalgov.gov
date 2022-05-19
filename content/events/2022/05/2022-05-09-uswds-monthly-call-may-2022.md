@@ -25,7 +25,7 @@ primary_image: uswds-monthly-call-may-title-card
 
 ---
 
-[View the slides (PowerPoint, 8.08 MB, 63 pages)](https://digital.gov/files/uswds-monthly-call-may-2022.pptx)
+[View the slides (PowerPoint, 7.6 MB, 64 pages)](https://digital.gov/files/uswds-monthly-call-may-2022.pptx)
 
 Now that USWDS 3.0 is out in the world, let’s look at how we can optimize it to improve performance. We’ll dive into tips and techniques you can use to reduce CSS size and chip away at your build time.
 
