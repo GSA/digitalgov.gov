@@ -94,13 +94,13 @@
         {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
 
         {{/* Gather only the pages with a dg-emphasis key */}}
-        {{ $communities := (where $communities ".Params.dg-highlight" "!=" true) }}
+        {{ $communities := (where $communities ".Params.dg_highlight" "!=" true) }}
 
         {{ range $i, $e := $communities }}
         <li class="usa-collection__item">
           <div class="usa-collection__body">
             <h2 class="usa-collection__heading">
-              <a class="usa-link usa-link--external" href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">
+              <a class="usa-link {{ if $e.Params.redirectto }}usa-link--external{{end}}" href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">
                 {{- $e.Title | markdownify -}}
               </a>
             </h2>
