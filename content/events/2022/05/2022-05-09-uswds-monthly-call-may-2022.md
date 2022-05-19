@@ -24,6 +24,9 @@ event_platform: zoom
 primary_image: uswds-monthly-call-may-title-card
 
 ---
+
+[View the slides (PowerPoint, 8.08 MB, 63 pages)](https://digital.gov/files/uswds-monthly-call-may-2022.pptx)
+
 Now that USWDS 3.0 is out in the world, let’s look at how we can optimize it to improve performance. We’ll dive into tips and techniques you can use to reduce CSS size and chip away at your build time.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
