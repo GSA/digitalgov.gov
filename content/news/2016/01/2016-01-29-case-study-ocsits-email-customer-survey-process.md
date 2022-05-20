@@ -9,7 +9,7 @@ topics:
   - our-work
   - user-testing-and-research
   - cx
-  - cx
+
 ---
 
 At GSA’s Office of Citizen Services and Innovative Technologies (OCSIT), we offer technology services and tools to make government work better. To help us gauge the effectiveness of the programs we offer to other government agencies, in 2013 we launched our first Government Customer Experience Index (GCXi) survey. This annual email survey consistently measures customer satisfaction, loyalty and ease of use for various OCSIT programs. {{< legacy-img src="2016/01/600-x-400-Online-Survey-devke-iStock-Thinkstock-469618252.jpg" alt="The word survey in giant red lettering, with a computer mouse plugged into the letter R." caption="" >}}
@@ -108,7 +108,7 @@ As background, here are some of the resources that inspired us as we developed t
   * [Digital Metrics Guidance and Best Practices]({{< ref "/guides/dap/_index.md" >}})
   * [Forrester’s Customer Experience Index](https://www.forrester.com/CX-Index/-/E-MPL191)
   * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf)—ClickTools (PDF)
-  * [Likert-Type Scale Response Anchors](http://www.clemson.edu/centers-institutes/tourism/documents/sample-scales.pdf)—recommended wording and rating scales for a variety of survey questions
+  * [Likert-Type Scale Response Anchors (PDF, 57 kb, 2 pages)](https://media.clemson.edu/cbshs/prtm/research/resources-for-research-page-2/Vagias-Likert-Type-Scale-Response-Anchors.pdf)—recommended wording and rating scales for a variety of survey questions
 
 While this post focused on our email surveys, it’s worth noting that we follow a similar process for most of our website surveys, asking the same core questions, as well as asking about task completion (but that’s a topic for another post!).
 
