@@ -15,7 +15,7 @@ pronoun: ""
 email:
 
 # Bio — keep it under 50 words
-bio: "Attorney Advisor"
+bio: "Michael Mulé is an Attorney-Advisor in the Federal Coordination and Compliance Section of the Civil Rights Division at the U.S. Department of Justice. He conducts language access investigations, provides language access training and technical assistance, and administers LEP.gov."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url:
