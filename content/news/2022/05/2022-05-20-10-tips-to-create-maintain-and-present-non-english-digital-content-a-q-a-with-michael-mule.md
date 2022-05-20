@@ -40,7 +40,7 @@ Third, create a reasonable schedule that describes when each item in your vital 
 
 Once you have a schedule, contact a translation provider. Make sure your provider uses [translation memory](https://en.wikipedia.org/wiki/Translation_memory) software so you do not have to pay to have the same word or phrase translated each time. Translation memory also ensures that words and phrases are translated consistently. If possible, [create a glossary of commonly used terms](https://digital.gov/2021/07/27/6-ways-translation-glossaries-help-agencies-succeed-in-sharing-information/).
 
-**Resources**:
+### Resources:
 
 * GSA, PlainLanguage.gov, [Checklist for Plain Language on the Web](https://www.plainlanguage.gov/resources/checklists/web-checklist/)
 * GSA, [Foreign Language Services Ordering Guide](https://www.gsa.gov/cdnstatic/Foreign_Language_Services_%281%29.pdf)
@@ -53,7 +53,7 @@ If you are a state or local government agency or organization, when you are appl
 
 No matter which option you have available, make sure that the translation provider uses translation memory software and other tools that reduce translation costs and delays. Translation memory is so you do not repay for the translation of the same word or phrase in a later translation. For website content, translation providers also have software and applications that can track any new English content that is added to your website. If they see new English content added, they can contact you to ask if you want that new content translated into non-English languages and where you would like the translations to be posted.
 
-**Resources**:
+### Resources:
 
 * LEP.gov, [Translation and Interpretation Procurement Series (TIPS)](https://www.lep.gov/language-access-planning#toc-translation-and-interpretation-procurement-series-tips-)
 * DOJ, VOCA (Victims of Crime Act of 1984) Victim Assistance Program, Allowable costs, [28 C.F.R. § 94.120(d)](https://www.ecfr.gov/current/title-28/chapter-I/part-94/subpart-B/subject-group-ECFR617572e154b392d/section-94.120#p-94.120(d))
@@ -64,19 +64,19 @@ No matter which option you have available, make sure that the translation provid
 
 In very limited emergency situations, after work hours or during an emergency, you may not be able to immediately access a competent translator. Only in those emergency situations, if no other translation options are available and you need to know immediately what the non-English text says, that is when you might decide to use an automatic or machine translation service to get the gist, or basic understanding, of what is communicated. Once you have that basic understanding, you will still need to send the original non-English text to a competent translator to have that non-English text properly translated as soon as possible.
 
-**Resource**:
+### Resource:
 
 * LEP.gov, [Improving Access to Public Websites and Digital Services for LEP Persons, page 4](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf#page=4).
 
 ## Question 4: When providing information in multiple languages, should I release all languages at the same time?
 
-{{< img-right src="laptop-translation-jirsak-istock-gettyimagesplus-1226941220" >}}
+{{< img src="laptop-translation-jirsak-istock-gettyimagesplus-1226941220" >}}
 
 **Answer**: You will likely need to release information in as many non-English languages as possible if it is vital information, time sensitive, or will have negative consequences on individuals who do not receive the information. For example, if your office issues a notice on Thursday that a new benefits application must be filed by the next Monday and applications submitted after Monday will be denied, that notice will need to be issued in English and the non-English languages of the service area at the same time.
 
 Timing is important. Think of your language communities when drafting the English context—not after you have the final text and are about to release it to the public. If the draft English text is dense or lengthy, consider how you can make a plain language version or if you can convert it to a shorter frequently asked questions or similar format that provides the same key information. The turnaround time to translate a short plain language document is much quicker than a more complicated or longer document. You may also first post the short version of the document with the key information in non-English languages and later, on that same page or location, add the full document in those same non-English languages. Whether the information is vital or not, make it accessible to LEP persons by posting content that is in the same non-English language in the same location or your website or social media account.
 
-**Resources**:
+### Resources:
 
 * GSA, PlainLanguage.gov, [Checklist for Plain Language on the Web](https://www.plainlanguage.gov/resources/checklists/web-checklist/)
 * DOJ, [Title VI LEP Guidance, Written Translation Services](https://www.federalregister.gov/d/02-15207/p-96), 67 Fed. Reg. 41455, 41463 (June 12, 2002)
@@ -87,7 +87,7 @@ Timing is important. Think of your language communities when drafting the Englis
 
 A competent translator will understand the expected reading level of the audience, know the necessary vocabulary and phraseology needed, and consistently use the correct terms of art or other technical concepts in English and the non-English language. Someone who has had their translation skills assessed using a verified test may demonstrate their competence with a certification or accreditation, but a certification may not always be possible or necessary.
 
-**Resources**:
+### Resources:
 
 * DOJ, [Title VI LEP Guidance, Competence of Translators](https://www.federalregister.gov/d/02-15207/p-118), 67 Fed. Reg. 41455, 41464 (June 12, 2002)
 * LEP.gov, [What Does it Mean to be a Certified Linguist?](https://www.lep.gov/sites/lep/files/media/document/2020-03/TIPS_Trust_Me_Im_Certified.pdf)
@@ -97,7 +97,7 @@ A competent translator will understand the expected reading level of the audienc
 
 **Answer**: A late or poor translation not only costs you money, it can also cost you credibility with the specific language communities in your service area that you are trying to reach. When you develop a contract with a translation provider, that contract needs to address what happens when the provider misses a deadline or gives you a translation that has errors. Some translation contracts state that if the translation is delivered after the deadline the translation provider agreed to, you do not pay. You may also have a term in the contract that states the translation provider must do a quality check of all translations before they are sent to you and that if you find errors you will not be required to pay the full price for the translation. If you are developing or renewing a contract with a translation provider, think about including [quality control](https://en.wikipedia.org/wiki/Quality_control) provisions to ensure that you have timely and competent translations.
 
-**Resources**:
+### Resources:
 
 * GSA, [Foreign Language Services Ordering Guide](https://www.gsa.gov/cdnstatic/Foreign_Language_Services_%281%29.pdf#page=16), Monitoring Performance
 * DOJ, [On Choosing a Language Access Provider](https://www.justice.gov/crt/fcs/leptatool)
@@ -106,7 +106,7 @@ A competent translator will understand the expected reading level of the audienc
 
 **Answer**: If you create the PDF in Adobe Acrobat Pro, select the “File” menu and choose “Properties.” When in Properties, select the “Advanced” tab. In “Reading Options,” select the “Language” drop-down list and choose the language. If you need to specify a language that is not in that Language drop-down list, such as Farsi, you must type the ISO 639 code for the language, not the name of the language. You also need to go to the Properties, and select the “Description” tab, and include the Title, Author, Subject, and Keyword information in that same non-English language. Including this identifying information in the non-English language in the Description tab for the PDF will ensure that the document can be found by limited English proficient (LEP) users when they are using a search engine in their language.
 
-**Resources**:
+### Resources:
 
 * Library of Congress, [ISO 639-2 Codes for the Representation of Names of Languages](https://www.loc.gov/standards/iso639-2/php/English_list.php)
 * World Wide Web Consortium (W3C), [Specifying the language for a passage or phrase with the Lang entry in PDF documents](https://www.w3.org/TR/WCAG20-TECHS/PDF19.html#PDF19-examples).
@@ -119,7 +119,7 @@ A competent translator will understand the expected reading level of the audienc
 
 **Answer**: One way to make sure LEP individuals can access your voicemail systems is by having audio menu prompts in non-English languages. If an LEP person has left you a voicemail message in a non-English language, and you have access to a telephone interpreter service, you can play that voicemail message for the telephone interpreter. The telephone interpreter can first help you identify the language. Once they identify the language, they can connect you with an interpreter in that language. That interpreter can then tell you the contents of the voicemail message in English.
 
-**Resource**:
+### Resource:
 
 * LEP.gov, [Working with Telephone Interpreters](https://www.lep.gov/sites/lep/files/media/document/2020-03/TIPS_Telephone_Interpreters_0.pdf)
 
@@ -129,7 +129,7 @@ A competent translator will understand the expected reading level of the audienc
 
 Another way to communicate information is to create audio or video messages with a competent interpreter who speaks that non-English language. These videos can be presented to specific language communities as part of your community outreach efforts, shared directly with individuals by email or text message, and posted on the main page of your website.
 
-**Resources**:
+### Resources:
 
 * CDC, [COVID-19 Public Service Announcements in Multiple Languages](https://www.cdc.gov/coronavirus/2019-ncov/communication/public-service-announcements.html).
 * U.S. Department of State, [Passport Application Instructional Videos in Spanish](https://travel.state.gov/content/travel/es/pasaportes/requisitos-para-tramitar-el-pasaporte/formularios.html)
