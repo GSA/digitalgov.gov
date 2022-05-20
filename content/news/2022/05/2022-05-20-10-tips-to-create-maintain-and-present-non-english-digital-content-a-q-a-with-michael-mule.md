@@ -26,11 +26,11 @@ weight: 1
 
 The 10 questions below were curated from attendees of the webinar, [Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content](https://digital.gov/event/2022/02/24/language-connections-tips-to-create-maintain-and-present-non-english-digital-content/). This event was hosted by the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and Digital.gov on February 24, 2021. Questions were moderated by the Multilingual Community co-lead, Laura Godfrey, of the U.S. General Services Administration (GSA), and answered by Michael Mulé, Attorney Advisor, of the Department of Justice (DOJ).
 
-{{< img src="laptop-translation-jirsak-istock-gettyimagesplus-1226941220" >}}
-
 ## Question 1: We avoid using automatic translation services, but our translation team is small and contracting with translation providers gets expensive. What process should we use to translate website content?
 
 **Answer**: To make sure your process is manageable, develop a plan for identifying vital English content and a reasonable schedule to translate that content into the non-English languages in your service area.
+
+{{< img-right src="plain-language" >}}
 
 First, make a list of the vital English content on your website. Vital content addresses the key services you provide to the public including how to apply, sign up, or access your services, how to contact your office, and how to request language assistance services. These are just some examples of vital content. You may have others. Make sure that your vital content is written in [plain language](https://www.plainlanguage.gov/) in English, which will make the translation process easier and cheaper and the translated text more accessible to a wider audience.
 
@@ -69,6 +69,8 @@ In very limited emergency situations, after work hours or during an emergency, y
 * LEP.gov, [Improving Access to Public Websites and Digital Services for LEP Persons, page 4](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf#page=4).
 
 ## Question 4: When providing information in multiple languages, should I release all languages at the same time?
+
+{{< img-right src="laptop-translation-jirsak-istock-gettyimagesplus-1226941220" >}}
 
 **Answer**: You will likely need to release information in as many non-English languages as possible if it is vital information, time sensitive, or will have negative consequences on individuals who do not receive the information. For example, if your office issues a notice on Thursday that a new benefits application must be filed by the next Monday and applications submitted after Monday will be denied, that notice will need to be issued in English and the non-English languages of the service area at the same time.
 
