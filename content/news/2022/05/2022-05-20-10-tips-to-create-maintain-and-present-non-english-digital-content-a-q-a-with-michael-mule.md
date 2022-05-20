@@ -1,12 +1,9 @@
 ---
 date: 2022-05-20 18:17:00 -0500
 kicker: Multilingual
-title: "10 Tips to Create, Maintain, and Present Non-English Digital Content: A
-  Q&A with Michael Mulé"
+title: "10 Tips to Create, Maintain, and Present Non-English Digital Content: A Q&A with Michael Mulé"
 deck: ""
-summary: "This question and answer session for our webinar, Language
-  Connections: Tips to Create, Maintain, and Present Non-English Digital
-  Content, can help you improve access to your non-English digital content."
+summary: "This question and answer session for our webinar, Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content, can help you improve access to your non-English digital content."
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
@@ -19,13 +16,17 @@ topics:
 authors:
   - michael-mule
 slug: 10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule
-primary_image: 10x-areas-of-focus
+primary_image: "laptop-translation-jirsak-istock-gettyimagesplus-1226941220"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The 10 questions below were curated from attendees of the webinar, [Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content](https://digital.gov/event/2022/02/24/language-connections-tips-to-create-maintain-and-present-non-english-digital-content/). This event was hosted by the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and Digital.gov on February 24, 2021. Questions were moderated by the Multilingual Community co-lead, Laura Godfrey, of the U.S. General Services Administration (GSA), and answered by Michael Mulé, Attorney Advisor, of the Department of Justice (DOJ).
+
+{{< img src="laptop-translation-jirsak-istock-gettyimagesplus-1226941220" >}}
 
 ## Question 1: We avoid using automatic translation services, but our translation team is small and contracting with translation providers gets expensive. What process should we use to translate website content?
 
