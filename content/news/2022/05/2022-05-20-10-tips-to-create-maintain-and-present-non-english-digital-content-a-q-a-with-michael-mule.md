@@ -70,9 +70,9 @@ In very limited emergency situations, after work hours or during an emergency, y
 
 ## Question 4: When providing information in multiple languages, should I release all languages at the same time?
 
-{{< img src="laptop-translation-jirsak-istock-gettyimagesplus-1226941220" >}}
-
 **Answer**: You will likely need to release information in as many non-English languages as possible if it is vital information, time sensitive, or will have negative consequences on individuals who do not receive the information. For example, if your office issues a notice on Thursday that a new benefits application must be filed by the next Monday and applications submitted after Monday will be denied, that notice will need to be issued in English and the non-English languages of the service area at the same time.
+
+{{< img src="laptop-translation-jirsak-istock-gettyimagesplus-1226941220" >}}
 
 Timing is important. Think of your language communities when drafting the English context—not after you have the final text and are about to release it to the public. If the draft English text is dense or lengthy, consider how you can make a plain language version or if you can convert it to a shorter frequently asked questions or similar format that provides the same key information. The turnaround time to translate a short plain language document is much quicker than a more complicated or longer document. You may also first post the short version of the document with the key information in non-English languages and later, on that same page or location, add the full document in those same non-English languages. Whether the information is vital or not, make it accessible to LEP persons by posting content that is in the same non-English language in the same location or your website or social media account.
 
