@@ -23,7 +23,7 @@ weight: 1
 
 ---
 
-The 10 questions below were curated from attendees of the webinar, [Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content](https://digital.gov/event/2022/02/24/language-connections-tips-to-create-maintain-and-present-non-english-digital-content/). This event was hosted by the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and Digital.gov on February 24, 2021. Questions were moderated by the Multilingual Community co-lead, Laura Godfrey, of the U.S. General Services Administration (GSA), and answered by Michael Mulé, Attorney Advisor, of the Department of Justice (DOJ).
+The 10 questions below were curated from attendees of the webinar, [Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content](https://digital.gov/event/2022/02/24/language-connections-tips-to-create-maintain-and-present-non-english-digital-content/). This event was hosted by Digital.gov's [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) on February 24, 2021. Questions were moderated by the Multilingual Community co-lead, Laura Godfrey, of the U.S. General Services Administration (GSA), and answered by Michael Mulé, Attorney Advisor, of the Department of Justice (DOJ).
 
 ## Question 1: We avoid using automatic translation services, but our translation team is small and contracting with translation providers gets expensive. What process should we use to translate website content?
 
