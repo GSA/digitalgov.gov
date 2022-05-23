@@ -42,7 +42,7 @@ _Figure 1: Language included in Executive Order 13985: On Advancing Racial Equit
 
 ## CX and Equity
 
-Fundamentally, improving customer experience requires (1) understanding the people you are trying to serve (“customers”) and (2) using that understanding to build and improve products, services, and service delivery ***with*** customers to ensure they are able to achieve intended goals. As we discussed earlier, in the public sector, where all members of the public are our customers, our customer experience can only be improved if we consider the design needs of all people to ensure they are able to find, understand, and access public services. ***Essentially, you can’t have good customer experience in the public sector without equity***.
+Fundamentally, improving customer experience requires (1) understanding the people you are trying to serve (“customers”) and (2) using that understanding to build and improve products, services, and service delivery _**with**_ customers to ensure they are able to achieve intended goals. As we discussed earlier, in the public sector, where all members of the public are our customers, our customer experience can only be improved if we consider the design needs of all people to ensure they are able to find, understand, and access public services. _**Essentially, you can’t have good customer experience in the public sector without equity**_.
 
 Take, for instance, the set of images depicting three people looking over a fence to see a baseball game (see Figure 2), which we’ve all come to recognize as an illustration of equity. Each individual has the same goal—to be able to watch the game—and those images exemplify the differences between support and equity. That illustration also translates to design. By providing everyone with the same solution, “Traditional CX” solutions likely mean that some individuals will be left out. Tailoring solutions based on need (“OK CX”), however, means that all people will be able to accomplish their goal because the design circumvents various problems, rather than eliminating the problem altogether. But removing barriers (“Good CX”) benefits people equally, in a more sustainable manner. Only by understanding all user experiences and barriers can we truly make decisions that provide a “Good CX” solution.
 
@@ -106,7 +106,7 @@ As GSA Administrator has conveyed “Federal websites need to be built to work i
 
 _Figure 4: Customer experience and equity create better, more equitable experiences._
 
-HCD and customer experience are about learning directly from people to improve their experience. The federal government has been providing customer experience long before the equity EO—just as we have in our respective roles. The equity EO transformed how we think about government CX. Customer experience misses the mark if some individuals are left out or excluded, either intentionally or unintentionally. Civic design will help to bring equity and CX together. And, as civic designers, we’re in a privileged position to help. With that privilege comes power; however, we believe that people with privilege can use it to ***empower*** the people and voices of those that we serve.
+HCD and customer experience are about learning directly from people to improve their experience. The federal government has been providing customer experience long before the equity EO—just as we have in our respective roles. The equity EO transformed how we think about government CX. Customer experience misses the mark if some individuals are left out or excluded, either intentionally or unintentionally. Civic design will help to bring equity and CX together. And, as civic designers, we’re in a privileged position to help. With that privilege comes power; however, we believe that people with privilege can use it to _**empower**_ the people and voices of those that we serve.
 
 We hope that soon, it becomes standard practice to meaningfully incorporate the voices of the people we serve into all actions the federal government takes, rebalancing power to correct historic inequities, building a future of prosperity and opportunity that serves all Americans.
 
@@ -126,10 +126,10 @@ United States, Executive Office of the President. “Executive Order 14058: Tran
 
 ## Bios:
 
-## *About the Author*
+## About the Author
 
 {{< author-bio "lashanda-hodge" >}}
 
-## *About the Author*
+## About the Author
 
 {{< author-bio "aaron-stienstra" >}}
