@@ -30,11 +30,11 @@ agency: "GSA"
 location: "Washington, DC"
 
 # A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
-github: ""
+github: "amstienstra"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-profile_photo: ""
+profile_photo: "github"
 
 # [e.g., Digital_Gov]
 twitter: ""
