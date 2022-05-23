@@ -1,8 +1,8 @@
 ---
 date: 2022-05-23 10:22:00 -0500
 title: Embedding Equity in Civic Design to Transform Customer Experience
-deck: deck
-summary: summ
+deck: 
+summary: 
 # See all topics at https://digital.gov/topics
 topics:
   - cx
@@ -13,13 +13,15 @@ authors:
   - lashanda-hodge
   - aaron-stienstra
 slug: embedding-equity-in-civic-design-to-transform-customer-experience
-primary_image: 10x-gold-x-logo
+primary_image: "barriers-illustration-interaction-institute-for-social-change-by-angus-maguire"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 This article isn’t about a single product or digital solution to improve customer experience (CX), but instead how we as designers in the federal government are leveraging design methods to help build a foundation for improved customer experiences for all people. Equity and customer experience are inextricably linked; and in government, there is no single “target customer.”
 
 The U.S. government is arguably one of the largest, most complex service delivery organizations in the world, responsible for a wide range of services. Each day, 2 million people pass through airport security checkpoints. One in four Americans is covered by Medicaid. Nearly one in eight Americans is managing student loans. More than 25 million people a year experience a natural disaster. Nine out of ten people age 65 and older count on Social Security benefits. More than 65 million Americans are covered by Medicare. And irrespective of whether a person is young or old, rural or urban, tech novice or digitally savvy, has a disability, where they went to school, or their level of English proficiency, we must design for them. Every interaction between the government and the American public is an opportunity to deliver the services our people expect and deserve. And when we don’t, that’s a cost to our nation—Veterans don’t get benefits they have earned, small business owners can’t grow their businesses, new mothers and infants lack medical care they need, and disaster survivors face mountains of paperwork to rebuild their home.
@@ -34,7 +36,9 @@ In both the private and public sectors, designers have often focused on creating
 
 On his first day in office, President Biden issued [Executive Order (13985) On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) (“Equity Executive Order”). The Equity Executive Order contains powerful language – it states that “Equal opportunity is the bedrock of American democracy” (see Figure 1). It goes further by stating that “disparities in our laws and public policies, and in our public and private institutions, have been denied equal opportunity to individuals and communities.” It calls for a whole-of-government transformation, requiring all agencies to develop equity action plans to match the scale of the challenges that we face as a nation, including recovering from a global pandemic, promoting prosperity and economic growth, and tackling the climate crisis. In each of these areas, the federal government is particularly charged with understanding how our efforts advance outcomes for all people, including people of color and others who have been historically underserved, marginalized, and adversely affected by persistent poverty and inequality. As civic designers, this has been a foundational moment for us to re-center our approaches, from how we form teams, plan customer research, build bias checks into our processes, validate with and involve customers in our work.
 
-Figure 1: Language included in Executive Order 13985: On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government
+{{< img src="executive-order-13985-text-bubbles" >}}
+
+_Figure 1: Language included in Executive Order 13985: On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government._
 
 ## CX and Equity
 
@@ -42,9 +46,11 @@ Fundamentally, improving customer experience requires (1) understanding the peop
 
 Take, for instance, the set of images depicting three people looking over a fence to see a baseball game (see Figure 2), which we’ve all come to recognize as an illustration of equity. Each individual has the same goal—to be able to watch the game—and those images exemplify the differences between support and equity. That illustration also translates to design. By providing everyone with the same solution, “Traditional CX” solutions likely mean that some individuals will be left out. Tailoring solutions based on need (“OK CX”), however, means that all people will be able to accomplish their goal because the design circumvents various problems, rather than eliminating the problem altogether. But removing barriers (“Good CX”) benefits people equally, in a more sustainable manner. Only by understanding all user experiences and barriers can we truly make decisions that provide a “Good CX” solution.
 
-Figure 2: Equality, equity, and justice as they apply to achieving good customer experience.
+{{< img src="barriers-illustration-interaction-institute-for-social-change-by-angus-maguire" >}}
 
-## Implementing government-wide
+_Figure 2: Equality, equity, and justice as they apply to achieving good customer experience._
+
+## Implementing Government-wide
 
 Throughout the past year, Aaron has been dedicated to OMB’s Customer Experience team, which also helped to support agencies across the government meet the ambitious mandates of this Executive Order. This team’s role has included consulting with agencies on assessments and plans, fostering a learning community among agencies, and conducting a study of equity assessment approaches and tools.
 
@@ -52,7 +58,7 @@ Importantly, the effort has utilized a few civic-design-oriented strategies. **S
 
 Grounding this work in civic design practices enabled us to listen and learn from our stakeholders; facilitate knowledge sharing across agencies; orient new parts of federal agencies to a  service and customer experience-oriented mindset; and demonstrate agility when testing and evolving engagement models.
 
-## Implementing on the ground
+## Implementing on the Ground
 
 Prior to the signing of the Equity Executive Order, Lashanda was working with an agency to further build their design and customer experience capacity through a partnership with GSA’s Centers of Excellence (COE). As a “customer” of federal CX guidance, the COE provides critical feedback to the OMB CX team, and we regularly collaborate to aggregate and share resources to aid in CX practices adoption across government.
 
@@ -64,13 +70,15 @@ As the partner agency quickly assembled their equity team to meet fast-moving de
 
 Working this way was different. The initial gut reaction to go right to the agency’s program structure as a place to start took some deliberate effort by the agency equity team to overcome, and we’re proud to have worked with them to facilitate this. Next time, they’ll have the muscle memory to start first with their customer, dive in to building the agency’s understanding of priorities and barriers through their customers’ eyes, and design with the communities their programs are meant to serve to create experiences that work better, drive equitable outcomes, and rebuild trust.
 
-## Working together towards better outcomes
+## Working Together Towards Better Outcomes
 
 Connecting these two ends of the spectrum—government-wide transformation and agency-level service implementation—is necessary to drive effective change. Creating a mandate from the top, continually informed by learnings from on the ground, iterating and improving guidance, support, resourcing, and approaches, can improve our whole-of-government strategy to improving equity. This collaboration illustrates how government-wide and agency-level work can inform and reinforce each other.
 
-Figure 3: Working together at two different but complementary levels to achieve better outcomes
+{{< img src="2021-chart-customer-experience" >}}
 
-## Recent Actions to Improve Equity and Experience
+_Figure 3: Working together at two different but complementary levels to achieve better outcomes._
+
+## Recent Actions To Improve Equity and Experience
 
 More recent mandates have helped designers and public servants make even more progress in connecting equity to customer experience, but we also need strong partnerships and collaboration within and across agencies, levels of government, and even sectors. We must change agency culture to effectively embed these practices.
 
@@ -90,29 +98,31 @@ Finally, we have to actively embrace Diversity, Equity, Inclusion and Accessibil
 
 Some of these actions are encouraged in the CX EO but are not required. We hypothesize that as HISPs continue to do this work and prove that this approach is valuable for the agency, its customers, and its employees, the momentum from these actions will be hard to reverse—and that’s a good thing.
 
-## Where do we go from here?
+## Where Do We Go From Here?
 
 As GSA Administrator has conveyed “Federal websites need to be built to work intuitively and equitably for the millions of Americans we serve in every community. Increasingly, this is how we deliver government effectively to taxpayers." the agency is partnering with OMB. OMB Acting Director Shalanda Young said in her letter to the president: “It is a difficult realization that federal agencies have not fully delivered value to all of their constituents. It is disheartening when a data scan reveals results that are at odds with organizational intentions and core national values. And yet, it is only through this ethic of learning and a commitment to evidence that governments become truly able to serve their people.” By leveraging a civic design approach to customer experience that embeds equity we can create a ripple effect (see Figure 4) that influences the culture of how Federal employees think about equity, shifting our collective culture. That can then influence how we do business, improving our ability to redesign the service experience for all the people we serve.
 
-Figure 4: Customer experience and equity create better, more equitable experiences
+{{< img src="equity-cx-trust-water-ripples" >}}
+
+_Figure 4: Customer experience and equity create better, more equitable experiences._
 
 HCD and customer experience are about learning directly from people to improve their experience. The federal government has been providing customer experience long before the equity EO—just as we have in our respective roles. The equity EO transformed how we think about government CX. Customer experience misses the mark if some individuals are left out or excluded, either intentionally or unintentionally. Civic design will help to bring equity and CX together. And, as civic designers, we’re in a privileged position to help. With that privilege comes power; however, we believe that people with privilege can use it to ***empower*** the people and voices of those that we serve.
 
 We hope that soon, it becomes standard practice to meaningfully incorporate the voices of the people we serve into all actions the federal government takes, rebalancing power to correct historic inequities, building a future of prosperity and opportunity that serves all Americans.
 
-## Works Cited
+{{< accordion kicker="" title="Works Cited" icon="fas fa-copy" >}}
+“The Biden-Harris Management Agenda Vision.” _The Biden-Harris Management Agenda Vision_, 2021, https://www.performance.gov/pma/vision/. Accessed 16 February 2022.
 
-“The Biden-Harris Management Agenda Vision.” The Biden-Harris Management Agenda Vision, 2021, https://www.performance.gov/pma/vision/. Accessed 16 February 2022.
+Office of Management and Budget. “Study to Identify Methods to Assess Equity: Report to the President.” _Study to Identify Methods to Assess Equity: Report to the President_, July 2021, https://www.whitehouse.gov/wp-content/uploads/2021/08/OMB-Report-on-E013985-Implementation_508-Compliant-Secure-v1.1.pdf. Accessed 15 February 2022.
 
-Office of Management and Budget. “Study to Identify Methods to Assess Equity: Report to the President.” Study to Identify Methods to Assess Equity: Report to the President, July 2021, https://www.whitehouse.gov/wp-content/uploads/2021/08/OMB-Report-on-E013985-Implementation_508-Compliant-Secure-v1.1.pdf. Accessed 15 February 2022.
+Office of Management and Budget, Executive Office of the President. “Methods and Leading Practices for Advancing Equity and Support for Underserved Communities Through Government.” _Federal Register_, 05 May 2021, https://www.federalregister.gov/documents/2021/05/05/2021-09109/methods-and-leading-practices-for-advancing-equity-and-support-for-underserved-communities-through. Accessed 05 March 2022.
 
-Office of Management and Budget, Executive Office of the President. “Methods and Leading Practices for Advancing Equity and Support for Underserved Communities Through Government.” Federal Register, 05 May 2021, https://www.federalregister.gov/documents/2021/05/05/2021-09109/methods-and-leading-practices-for-advancing-equity-and-support-for-underserved-communities-through. Accessed 05 March 2022.
+United States, Executive Office of the President. “Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.” _The Federal Register_, 20 January 2021, https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government. Accessed 15 February 2022.
 
-United States, Executive Office of the President. “Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.” The Federal Register, 20 January 2021, https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government. Accessed 15 February 2022.
+United States, Executive Office of the President. “Executive Order 14035: Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce.” _The Federal Register_, 30 June 2021, https://www.federalregister.gov/documents/2021/06/30/2021-14127/diversity-equity-inclusion-and-accessibility-in-the-federal-workforce. Accessed 04 March 2022.
 
-United States, Executive Office of the President. “Executive Order 14035: Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce.” The Federal Register, 30 June 2021, https://www.federalregister.gov/documents/2021/06/30/2021-14127/diversity-equity-inclusion-and-accessibility-in-the-federal-workforce. Accessed 04 March 2022.
-
-United States, Executive Office of the President. “Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government.” Federal Register, 16 December 2021, https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government. Accessed 16 February 2022.
+United States, Executive Office of the President. “Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government.” _Federal Register_, 16 December 2021, https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government. Accessed 16 February 2022.
+{{< /accordion >}}
 
 ## Bios:
 
