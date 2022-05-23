@@ -13,7 +13,7 @@ authors:
   - lashanda-hodge
   - aaron-stienstra
 slug: embedding-equity-in-civic-design-to-transform-customer-experience
-primary_image: "barriers-illustration-interaction-institute-for-social-change-by-angus-maguire"
+primary_image: "barriers-illustration-interaction-institute-for-social-change-by-angus-maguire-lg"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -111,17 +111,17 @@ HCD and customer experience are about learning directly from people to improve t
 We hope that soon, it becomes standard practice to meaningfully incorporate the voices of the people we serve into all actions the federal government takes, rebalancing power to correct historic inequities, building a future of prosperity and opportunity that serves all Americans.
 
 {{< accordion kicker="" title="Works Cited" icon="fas fa-copy" >}}
-“The Biden-Harris Management Agenda Vision.” _The Biden-Harris Management Agenda Vision_, 2021, https://www.performance.gov/pma/vision/. Accessed 16 February 2022.
+1. “The Biden-Harris Management Agenda Vision.” _The Biden-Harris Management Agenda Vision_, 2021, https://www.performance.gov/pma/vision/. Accessed 16 February 2022.
 
-Office of Management and Budget. “Study to Identify Methods to Assess Equity: Report to the President.” _Study to Identify Methods to Assess Equity: Report to the President_, July 2021, https://www.whitehouse.gov/wp-content/uploads/2021/08/OMB-Report-on-E013985-Implementation_508-Compliant-Secure-v1.1.pdf. Accessed 15 February 2022.
+2. Office of Management and Budget. “Study to Identify Methods to Assess Equity: Report to the President.” _Study to Identify Methods to Assess Equity: Report to the President_, July 2021, https://www.whitehouse.gov/wp-content/uploads/2021/08/OMB-Report-on-E013985-Implementation_508-Compliant-Secure-v1.1.pdf. Accessed 15 February 2022.
 
-Office of Management and Budget, Executive Office of the President. “Methods and Leading Practices for Advancing Equity and Support for Underserved Communities Through Government.” _Federal Register_, 05 May 2021, https://www.federalregister.gov/documents/2021/05/05/2021-09109/methods-and-leading-practices-for-advancing-equity-and-support-for-underserved-communities-through. Accessed 05 March 2022.
+3. Office of Management and Budget, Executive Office of the President. “Methods and Leading Practices for Advancing Equity and Support for Underserved Communities Through Government.” _Federal Register_, 05 May 2021, https://www.federalregister.gov/documents/2021/05/05/2021-09109/methods-and-leading-practices-for-advancing-equity-and-support-for-underserved-communities-through. Accessed 05 March 2022.
 
-United States, Executive Office of the President. “Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.” _The Federal Register_, 20 January 2021, https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government. Accessed 15 February 2022.
+4. United States, Executive Office of the President. “Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.” _The Federal Register_, 20 January 2021, https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government. Accessed 15 February 2022.
 
-United States, Executive Office of the President. “Executive Order 14035: Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce.” _The Federal Register_, 30 June 2021, https://www.federalregister.gov/documents/2021/06/30/2021-14127/diversity-equity-inclusion-and-accessibility-in-the-federal-workforce. Accessed 04 March 2022.
+5. United States, Executive Office of the President. “Executive Order 14035: Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce.” _The Federal Register_, 30 June 2021, https://www.federalregister.gov/documents/2021/06/30/2021-14127/diversity-equity-inclusion-and-accessibility-in-the-federal-workforce. Accessed 04 March 2022.
 
-United States, Executive Office of the President. “Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government.” _Federal Register_, 16 December 2021, https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government. Accessed 16 February 2022.
+6. United States, Executive Office of the President. “Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government.” _Federal Register_, 16 December 2021, https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government. Accessed 16 February 2022.
 {{< /accordion >}}
 
 ## Bios:
