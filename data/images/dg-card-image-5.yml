@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/dg-card-image-5.png
+
+# Image shortcode: {{< img src="dg-card-image-5" >}}
+
+date     : 2022-05-13 14:24:46 -0400
+uid      : dg-card-image-5
+width    : 1280
+height   : 720
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 

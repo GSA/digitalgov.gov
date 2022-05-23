@@ -4,7 +4,7 @@
 
 slug: social-media
 date: 2019-12-12 19:00:00 -0500
-title: "Social Media"
+title: "SocialGov"
 summary: "SocialGov is the government social media and new digital media community of practice."
 
 # see all authors at https://digital.gov/authors
@@ -32,6 +32,10 @@ topics:
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
+# Spotlight Digital.gov Communities of Practice (COP) at top of /communities
+dg_highlight: true
+dg_image: img/dg-card-4.png
 
 community_list:
   - platform: listserv
