@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/customer-experience-chart.png
+
+# Image shortcode: {{< img src="customer-experience-chart" >}}
+
+date     : 2022-05-23 13:55:35 -0400
+uid      : customer-experience-chart
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
