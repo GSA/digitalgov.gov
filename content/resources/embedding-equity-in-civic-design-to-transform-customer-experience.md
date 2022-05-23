@@ -126,10 +126,8 @@ We hope that soon, it becomes standard practice to meaningfully incorporate the 
 
 ## Bios:
 
-## About the Author
+## About the Authors
 
 {{< author-bio "lashanda-hodge" >}}
-
-## About the Author
 
 {{< author-bio "aaron-stienstra" >}}
