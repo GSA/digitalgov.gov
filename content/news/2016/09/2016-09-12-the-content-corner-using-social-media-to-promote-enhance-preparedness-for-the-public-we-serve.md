@@ -36,19 +36,19 @@ These days, you probably use social media to update your audience on what you ar
 
 Government agencies—federal, tribal, state, and local—are using social media in many ways to keep the public informed and hopefully safer.
 
-When a natural disaster such as a tornado, wildfire, or hurricane hits, the National Weather Service (NWS), Federal Emergency Management Agency (FEMA), and the National Guard are among many agencies who are communicating key info to the public on social media platforms. Just check out the hashtags #SMEM, #LESM, etc., and you’ll see some of the chatter. (_Do you have any others to share? – send me a tweet [@SSgtKRich](https://twitter.com/SSgtKRich)_) 
+When a natural disaster such as a tornado, wildfire, or hurricane hits, the National Weather Service (NWS), Federal Emergency Management Agency (FEMA), and the National Guard are among many agencies who are communicating key info to the public on social media platforms. Just check out the hashtags #SMEM, #LESM, etc., and you’ll see some of the chatter. (_Do you have any others to share? – send me a tweet [@SSgtKRich](https://twitter.com/SSgtKRich)_)
 
-{{< tweet 773627409509777408 >}}
+{{< tweet user="SchaumburgNebl" id="773627409509777408" >}}
 
-As the #ReyFire wildfires continue to affect parts of Southern California, the California National Guard is pushing out key information on Twitter such as fire locations, including video and photos. 
+As the #ReyFire wildfires continue to affect parts of Southern California, the California National Guard is pushing out key information on Twitter such as fire locations, including video and photos.
 
-{{< tweet 768290839390851078 >}}
+{{< tweet user="146AirliftWing" id="768290839390851078" >}}
 
-Sonny Saghera, who&#8217;s a firefighter and Public Information Officer for Heartland Fire and Rescue, uses social media increasingly to get messages out. Sonny talks about his agency’s use of live video like Periscope to share exactly what&#8217;s going on with the public. 
+Sonny Saghera, who&#8217;s a firefighter and Public Information Officer for Heartland Fire and Rescue, uses social media increasingly to get messages out. Sonny talks about his agency’s use of live video like Periscope to share exactly what&#8217;s going on with the public.
 
 {{< youtube Q1zgLgA6dPI >}}
 
-As data use continues to skyrocket for the general public and first responders alike, [FirstNet](http://www.firstnet.gov/), a relatively new federal agency, is tasked with the mission of ensuring the building, operation, and maintenance of a nationwide public safety broadband network. When so much is at stake, public safety shouldn&#8217;t have to compete with the general public for bandwidth. 
+As data use continues to skyrocket for the general public and first responders alike, [FirstNet](http://www.firstnet.gov/), a relatively new federal agency, is tasked with the mission of ensuring the building, operation, and maintenance of a nationwide public safety broadband network. When so much is at stake, public safety shouldn&#8217;t have to compete with the general public for bandwidth.
 
 Chrissie Coon, FirstNet Public Safety Liaison and former Public Information Officer at North Las Vegas Police Department, shares her perspective on the continued reliance on social media by public safety agencies. “It is vital to an effective response to have a presence on social media as more and more people are turning to social media during crisis to get firsthand, credible information from public safety agencies,” said Chrissie. “Official Twitter, Facebook, and YouTube accounts have become vital channels for first responders to communicate with the community during emergency response for everything from evacuation information to incident status updates.”
 
