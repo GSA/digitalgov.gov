@@ -1,11 +1,16 @@
 const component = {
   id: "tweet",
   label: "Tweet",
-  hint: "example: {{< tweet 877500564405444608 >}}",
+  hint: "example: {{< tweet user='username' id='10100101010101' >}}",
   fields: [
     {
       name: "id",
       label: "Tweet id",
+      widget: "string"
+    },
+    {
+      name: "user",
+      label: "User name",
       widget: "string"
     }
   ],
@@ -16,10 +21,10 @@ const component = {
     };
   },
   toBlock: function(obj) {
-    return `{{< tweet ${obj.id} >}}`;
+    return `{{< tweet user='${obj.user}' id='${obj.id}' >}}`;
   },
   toPreview: function(obj) {
-    return `{{< tweet ${obj.id} >}}`;
+    return `{{< tweet user='${obj.user}' id='${obj.id}' >}}`;
   }
 };
 
