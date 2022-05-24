@@ -20,13 +20,13 @@ slug: jean-fox
 email: "fox.jean@bls.gov"
 
 # Bio — keep it under 50 words
-bio: "Jean Fox is a Research Psychologist at the Bureau of Labor Statistics."
+bio: "Jean Fox is a research psychologist in the Bureau of Labor Statistics (BLS) at the U.S. Department of Labor."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "Bureau of Labor Statistics"
+agency_full_name: "U.S. Department of Labor"
 
 # Agency Acronym [e.g., GSA]
 agency: "BLS"
