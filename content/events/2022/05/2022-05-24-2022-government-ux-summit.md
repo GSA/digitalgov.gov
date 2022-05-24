@@ -108,7 +108,7 @@ What does it mean for user research to be inclusive? How does it impact your mis
 
 In this session you will hear from the following speakers:
 
-* **Alcora Walden** &mdash; Supervisory Digital Services Manager, Internal Revenue Service
+* **Alcora Walden** &mdash; Assistant Director, Product Management & User Experience and Design, Internal Revenue Service
 * **Brandon Szabo** &mdash; Chief, User Experience and Design, Internal Revenue Service
 * **Ronna ten Brink** &mdash; Contractor, Senior Human Factors Engineer, Internal Revenue Service
 {{< /accordion >}}
@@ -161,7 +161,7 @@ In this session you will hear from the following speaker:
 
 ## 3:00 pm - 4:00 pm, ET<br />You Are the User: Recognizing Systemic Challenges for the Design Team of One
 
-Many designers are often alone on projects. Even in large organizations, they may feel isolated as they work with their product team. When things don't go smoothly, designers may shoulder the blame when things don't work out. In this talk, listeners will come away with a design framework to recognize when they need to focus on the systemic challenges as a design team of one.
+Many designers are often alone on projects. Even in large organizations, they may feel isolated as they work with their product team. When things don’t go smoothly, designers may shoulder the blame. In this talk, listeners will come away with a design framework to recognize when they need to focus on the system they're in, instead of their performance.
 
 In this session you will hear from the following speaker:
 
