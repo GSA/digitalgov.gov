@@ -26,10 +26,10 @@ bio: "Jean Fox is a Research Psychologist at the Bureau of Labor Statistics."
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "Bureau of Labor Statistics"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "BLS"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
