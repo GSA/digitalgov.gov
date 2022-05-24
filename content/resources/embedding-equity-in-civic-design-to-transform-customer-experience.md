@@ -112,7 +112,7 @@ We hope that soon, it becomes standard practice to meaningfully incorporate the 
 
 ## Works Cited
 
-{{< accordion kicker="" title="Display Source List" icon="fas fa-copy" >}}
+{{< accordion kicker="" title="Source List" icon="fas fa-copy" >}}
 1. “The Biden-Harris Management Agenda Vision.” _The Biden-Harris Management Agenda Vision_, 2021, https://www.performance.gov/pma/vision/. Accessed 16 February 2022.
 
 2. Office of Management and Budget. “Study to Identify Methods to Assess Equity: Report to the President.” _Study to Identify Methods to Assess Equity: Report to the President_, July 2021, https://www.whitehouse.gov/wp-content/uploads/2021/08/OMB-Report-on-E013985-Implementation_508-Compliant-Secure-v1.1.pdf. Accessed 15 February 2022.
