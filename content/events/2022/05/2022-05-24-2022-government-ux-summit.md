@@ -32,7 +32,7 @@ primary_image: ux-summmit-title-card-twenty-twenty-two-title-card
 
 On **June 7 and June 8, 2022**, we will bring together user experience (UX) practitioners in the federal government to discuss case studies and share best practices. Hear from, and ask questions of, our speakers about their experiences and lessons learned as they applied a variety of UX methods to federal projects.
 
-The summit is virtual. Presentations will begin at 11:00 am, ET, and conclude at 4:00 pm, ET each day of the summit. There will be a short break after each session.
+The summit is virtual and all times are Eastern. Presentations will begin at 11:00 am and conclude at 4:00 pm each day of the summit. There will be a short break after each session.
 
 Please find the agenda and descriptions of each session below.
 
