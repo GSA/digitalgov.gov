@@ -2,7 +2,7 @@
 date: 2022-05-23 08:30:00 -0500
 kicker: Multilingual
 title: "10 Tips to Create, Maintain, and Present Non-English Digital Content: A Q&A with Michael Mulé"
-summary: "This question and answer session for our webinar, Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content, can help you improve access to your non-English digital content."
+summary: "This question and answer session for our webinar, Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content, can help you improve access to your multilingual digital content."
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
