@@ -3,6 +3,7 @@
     <h6>File name</h6>
     {{- with .File -}}<p>{{- .LogicalName -}}</p>{{- end -}}
     <h6>File path</h6>
+    <!-- Test before updating syntax -->
     {{- with .File -}}<p>{{- .Path }}</p>{{- end -}}
     <h6>Link Shortcode</h6>
     {{- with .File -}}<p>&#x0007B;&#x0007B;&#x0003C; link "{{- .Path }}<p>" &#x0003E;&#x0007D;&#x0007D;</p>{{- end -}}

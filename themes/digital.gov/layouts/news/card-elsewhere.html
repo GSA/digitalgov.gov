@@ -1,4 +1,5 @@
-<div class="card card-elsewhere card-linked" data-edit-this="{{- .Path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
+{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+<div class="card card-elsewhere card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
   <div>
     <div class="icon">
       {{/* Favicon

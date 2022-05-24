@@ -5,7 +5,8 @@
 
 <main role="main" id="main-content" class="main-topic">
   <div class="grid-container grid-container-desktop">
-    <div class="grid-row tablet-lg:grid-gap-4" data-edit-this="{{- .Path -}}">
+    {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+    <div class="grid-row tablet-lg:grid-gap-4" data-edit-this="{{- $path -}}">
       <div class="grid-col-12">
         <header class="page-header">
           <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>
