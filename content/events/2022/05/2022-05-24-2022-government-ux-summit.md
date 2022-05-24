@@ -107,6 +107,10 @@ In this session you will hear from the following speakers:
 * **Brandon Szabo** &mdash; Chief, User Experience and Design, Internal Revenue Service
 * **Ronna ten Brink** &mdash; Contractor, Senior Human Factors Engineer, Internal Revenue Service
 
+{{< /accordion >}}
+
+---
+
 {{< accordion kicker="Day 2" title="Wednesday, June 8, 2022 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
 
 ## The Business Case for Innovation (11:00 am - 12:00 pm, ET)
@@ -162,7 +166,7 @@ In this session you will hear from the following speaker:
 
 {{< /accordion >}}
 
-
+---
 
 ## About the UX Community of Practice
 
