@@ -43,7 +43,7 @@
         {{- end -}}
 
         {{- partial "api/bio.html" . -}}
-        
+
         {{- if .Params.bio_url -}}
         "bio_url" : "{{- .Params.bio_url -}}",
         {{- end -}}
@@ -75,9 +75,10 @@
         {{- with .File -}}
           "filename" : {{- .LogicalName | jsonify -}},
         {{- end -}}
-        "filepath" : {{ with .File -}}{{- .Path | jsonify -}}{{- end -}},
-        "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
-        "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+        "filepath" : {{ with .File -}}{{- $path | jsonify -}}{{- end -}},
+        "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
+        "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
         {{- if .Params.aliases -}}
         "aliases" : {
           {{- $aliaslen := .Params.aliases | len -}}
