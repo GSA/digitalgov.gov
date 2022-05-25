@@ -5,6 +5,7 @@ summary: The Identity, Credential, and Access Management (ICAMSC) is the
   principal interagency forum for identity management, secure access,
   authentication, authorization, credentials, privileges, and access lifecycle
   management.
+redirectto: https://www.idmanagement.gov/governance/ficam/#identity-credential-and-access-management-subcommittee
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
