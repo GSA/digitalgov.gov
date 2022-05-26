@@ -68,14 +68,12 @@ In this session you will hear from the following speakers:
 
 ## 1:10 pm - 1:30 pm, ET<br />You May Already Know More Than You Think: Leverage User Data You Already Have To Get Started
 
-User research professionals are often stumped about what data might be easily available to inform their exploration of possible areas of website improvement. During this presentation, we will discuss the following seven data streams that may already exist at agencies: 
+User research professionals are often stumped about what data might be easily available to inform their exploration of possible areas of website improvement. During this presentation, we will discuss the following five data streams that may already exist at agencies: 
 
 * Notes from listening sessions with users and/or stakeholders; 
 * Comparative analyses; 
 * Industry best practices; 
-* Past usability tests; 
-* Past A/B tests; 
-* Web metrics; and 
+* Past usability tests; and 
 * Reviews of data or information requests. 
 
 Taken together, this qualitative and quantitative data may help agencies focus their attention on impactful changes to websites.
@@ -92,7 +90,8 @@ The Department of Homeland Security has been at work for two years researching t
 * Asking the right questions in very case specific situations; 
 * Needing to access country-specific information quickly; 
 * Addressing duplicative data from the case file to the interview and downstream processes; 
-* Adapting to procedural changes to interviews or procedures for unfamiliar case types; reducing physical contact to conduct safe interviews during the pandemic; and
+* Adapting to procedural changes to interviews or procedures for unfamiliar case types; 
+* Reducing physical contact to conduct safe interviews during the pandemic; and
 * Working with intermittent internet connectivity in remote locations. 
 
 We have conducted pilots in several asylum offices across the United States and refugee pilots in Uganda and Egypt. Our team used human-centered design to iterate and respond to business and user needs while overcoming challenges such as COVID-19 and changing priorities. This presentation will highlight some of those unexpected challenges and the solutions, and how they apply to our work on federal websites and digital services.
@@ -157,7 +156,7 @@ The art of designing and creating content to support people with cognitive disab
 
 In this session you will hear from the following speaker:
 
-* **Rachael Bradley Montgomery** &mdash; Accessibility Specialist, Library of Congress 
+* **Rachael Bradley Montgomery** &mdash; Digital Accessibility Architect, Library of Congress 
 
 ## 3:00 pm - 4:00 pm, ET<br />You Are the User: Recognizing Systemic Challenges for the Design Team of One
 
