@@ -89,9 +89,13 @@ The U.S. Election Assistance Commission offers translations of Glossary of Elect
 
 #### Consumer Financial Protection Bureau (CFPB)
 
-The Bureau updated the [Glossary of English-Spanish Financial Terms](https://s3.amazonaws.com/files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf) (505 kb, PDF, 76 pages) with additional terminology compiled from other agencies and entities.
+The Bureau has more than 1,200 words and terms in five languages:
 
-[Glossary of English-Chinese Financial Terms](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf) (PDF, 1.5 MB, 71 pages)
+[Glossary of English-Chinese Financial Terms (PDF, 999 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf)
+[Glossary of English-Spanish Financial Terms (PDF, 705 kb, 78 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf)
+[Glossary of English-Vietnamese Financial Terms (PDF, 875 kb, 73 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_vietnamese-style-guide-glossary.pdf)
+[Glossary of English-Korean Financial Terms (PDF, 947 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_korean-style-guide-glossary.pdf)
+[Glossary of English-Tagalog Financial Terms (PDF, 674 kb, 82 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_tagalog-style-guide-glossary.pdf)
 
 #### Federal Housing Finance Agency (FHFA)
 
