@@ -2,8 +2,8 @@
 title: 2022 Government UX Summit
 kicker: User Experience
 summary: A 2-day summit with experts who will share their experiences as UX practitioners in the federal government.
-host: User Experience Community of Practice
-event_organizer: Digital.gov
+host: Digital.gov and the User Experience Community of Practice
+event_organizer: 
 registration_url: "https://www.eventbrite.com/e/2022-government-ux-summit-tickets-344389978697"
 date: 2022-06-07 11:00:00 -0500
 end_date: 2022-06-08 16:00:00 -0500
