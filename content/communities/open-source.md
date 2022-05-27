@@ -18,7 +18,6 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
  - joseph-castle
- - amin-mehr
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
@@ -47,7 +46,6 @@ We are developers and open source experts, dedicated to helping you with any que
 
 ## Community managers
 
-Amin Mehr, Washington, DC
 Joseph Castle, Washington, DC
 
 ## Related resources
