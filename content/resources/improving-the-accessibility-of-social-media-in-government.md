@@ -8,6 +8,7 @@ topics:
   - social-media
 authors:
   - jherman
+
 ---
 
 Government agencies are increasingly using social media to engage with citizens, share information and deliver services more quickly and effectively than ever before. But as social content, data and platforms become more diverse, agencies have a responsibility to ensure these digital services are accessible to all citizens, including people with disabilities.
@@ -117,7 +118,6 @@ Below are a set of recommended, baseline strategies to improve the accessibility
     * Note that there are certain companies that can perform this task for a modest fee.
 * To create captions for video from scratch, or to edit your existing YouTube captions, there are a number of free tools that can help:
     * [Overstream](http://www.overstream.net/): a popular Web-based captioning tool, with a [related YouTube tutorial](http://www.youtube.com/watch?v=gRmsZ25W3SE).
-    * [CaptionTube](http://captiontube.appspot.com/): a Web-based captioning tool designed specifically for YouTube.
     * [MAGpie](http://ncam.wgbh.org/invent_build/web_multimedia/tools-guidelines/magpie): a free Windows application from the National Center for Accessible Media.
 * A tutorial for creating captions [can be found on YouTube](http://www.youtube.com/watch?v=rvYKIxA7WwY). Other tutorials on using [Overstream](http://www.overstream.net/) and [CaptionTube](http://captiontube.appspot.com/) can be found at their respective websites. Resources for MAGpie are available at [WebAIM.org](http://webaim.org/).
 * Note that good captions are not just a transcript of what is said in the video. It is also important to describe sounds, particularly sounds for which there is no visual equivalent (e.g., if someone in a video is giving a talk, and the viewer can&#8217;t see that the audience is laughing, the captions should say that people are laughing). Tone of voice is also important to note, particularly if not obvious from a person&#8217;s facial expression (or if the person&#8217;s face can&#8217;t be seen). A lot of meaning and information can get lost by certain viewers with hearing or cognitive impairments if they are not made aware of sounds, tone of voice, etc.; the way the meaning of spoken content is interpreted can completely change based on this information. Knowing that the background music is cheery, for example, helps signal that the producers mean for the scene to be viewed in a light way and can help shape viewers’ expectations for the kinds of things that will follow. Someone saying &#8220;I&#8217;m doing great&#8221; in a sarcastic tone clearly means something very different from someone saying it in a casual or light tone.
