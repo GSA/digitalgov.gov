@@ -1,9 +1,10 @@
 {{- define "content" -}}
 {{- with site.GetPage "/404" -}}
+{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+
 <main role="main" id="main-content">
   <article>
     <header>
-      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
       <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
         <div class="grid-row">
           <div class="grid-col-12">
@@ -21,7 +22,6 @@
     </header>
 
     <section>
-      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
       <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
         <div class="grid-row tablet-lg:grid-gap-6">
 

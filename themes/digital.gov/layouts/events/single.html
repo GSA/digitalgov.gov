@@ -9,14 +9,13 @@
 {{- $event_desc := $.Params.summary | default $.Site.Params.description | markdownify -}}
 {{- $event_description := (print $event_desc $event_url) -}}
 {{- $event_location := .Params.venue.venue_name -}}
+{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
 <main role="main" id="main-content" class="event">
   <article>
-
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
             <p class="breadcrumb"><a href="{{- "events/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></p>
             {{- if .Params.kicker -}}
@@ -60,7 +59,6 @@
           <div class="actions">
             {{/* Register */}}
             <a [attr.aria-label]="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
-
             <span class="addtocalendar">
               <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
               <var class="atc_event">
@@ -108,7 +106,6 @@
 
 
     <section>
-      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
       <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
         <div class="grid-row tablet-lg:grid-gap-4">
           <div class="grid-col-12 tablet:grid-col-9">

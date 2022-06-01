@@ -1,6 +1,6 @@
 {{- partial "core/set-env.html" . -}}
 {{- $list := where .Site.Pages "Section" "authors" -}}
-{{- $list := where $list ".Path" "ne" "authors/_index.md" -}}
+{{- $list := where $list "with .File.Path" "ne" "authors/_index.md" -}}
 {{- $length := len $list -}}
 {
   "version" : "https://jsonfeed.org/version/1",

@@ -1,11 +1,10 @@
 {{- define "content" -}}
-
+{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 <main role="main" id="main-content">
   <article>
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
             <p class="breadcrumb"><a href="{{- "/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Home</span> </a></p>
             {{- if .Params.kicker -}}
@@ -26,7 +25,6 @@
     <section>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
 
             {{/* Content */}}
