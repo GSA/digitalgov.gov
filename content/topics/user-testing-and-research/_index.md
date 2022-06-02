@@ -5,7 +5,7 @@
 slug: "user-testing-and-research"
 
 # Topic Title
-title: "User Testing &amp; Research"
+title: "User Testing and Research"
 
 # description — keep it short and clear
 summary: ""

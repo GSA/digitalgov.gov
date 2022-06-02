@@ -240,7 +240,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
     * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15) &#8211; video
     * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf) (PDF) &#8211; ClickTools
     * [Sample CX Question Database](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-CX-question-database.xlsx) (Excel, 87 kb)
-    * [Likert-Type Scale Response Anchors](https://www.uc.edu/content/dam/uc/sas/docs/Assessment/likert-type%20response%20anchors.pdf) &#8211; recommended wording and rating scales for a variety of survey questions
+    * [Likert-Type Scale Response Anchors (PDF, 57 kb, 2 pages)](https://media.clemson.edu/cbshs/prtm/research/resources-for-research-page-2/Vagias-Likert-Type-Scale-Response-Anchors.pdf) &#8211; recommended wording and rating scales for a variety of survey questions
 * Sample surveys
     * [BusinessUSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-BusinessUSA.docx) (Word, 29 kb) &#8211; Department of Commerce
     * [Passports](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-Passports.docx) (Word 75 kb) &#8211; State Department

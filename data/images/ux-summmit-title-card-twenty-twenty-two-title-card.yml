@@ -3,11 +3,11 @@
 
 # Image shortcode: {{< img src="ux-summmit-title-card-twenty-twenty-two-title-card" >}}
 
-date     : 2022-01-19 17:58:27 -0400
+date     : 2022-05-23 18:28:06 -0400
 uid      : ux-summmit-title-card-twenty-twenty-two-title-card
-width    : 960
-height   : 540
+width    : 1200
+height   : 628
 format   : png
 credit   : "" 
 caption  : "" 
-alt      : "Title card image of multi-colored diagonal shapes with the lines of text on a black background. The first line has UX Community of Practice in white text. The second line has Government UX Summit 2022 in whilte bold text. The third line has Join the best and brightest UX practitioners from across the government in white text. The Digital Gov logo in white is below the text."
+alt      : "Title card image of multi-colored diagonal shapes with the lines of text on a black background. The first line has User Experience Community of Practice in white bold text. The second line has 2022 Government UX Summit in whilte bold text. The third line has the date, June 7-8, 2022, in white bold text. The Digitalgov logo in white is below the text." 

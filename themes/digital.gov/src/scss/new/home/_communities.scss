@@ -1,71 +1,11 @@
 @use "uswds-core" as *;
 
+
 // communities
-.communities-list{
-  ul{
-    @include add-list-reset;
-    padding-left: 20px;
-    @include u-margin-bottom(2);
-    li{
-      @include u-margin-bottom('105');
-      text-indent: -9px;
-      i{
-        @include u-margin-right('2px');
-      }
-      a{
-        @include u-text('no-underline');
-        @include u-text('bold');
-        @include u-font('sans', 'sm');
-      }
-    }
-  }
-  article{
-    height:90%;
-    @include u-margin-bottom(2);
-    @include u-padding(2);
-    @include u-radius('sm');
-    .emails{
-      @include u-margin(0);
-      @include u-padding-y('05');
-      @include u-text('orange-warm-50v');
-      @include u-font('sans', '3xs');
-      @include u-text('light');
-    }
-    h4{
-      @include u-margin(0);
-      @include u-margin-bottom(1);
-      @include u-font('sans', 'sm');
-      @include u-line-height('sans', 1);
-      z-index: 1;
-      a{
-        @include u-text('no-underline');
-        @include u-text('indigo-80');
-        &:hover{
-          border-bottom: 3px #fc906d solid; // $indigo-40
-        }
-      }
-    }
-    p{
-      @include u-margin-top('05');
-      @include u-font('sans', 'sm');
-      @include u-text('indigo-80');
-      @include u-line-height('sans', 2);
-    }
-
-  }
-}
-
-.community-guidelines{
-  @include u-bg('gold-10v');
-  @include u-padding(3);
-  h2{
-    @include u-margin(0);
-    @include u-margin-bottom(3);
-    @include u-font('sans', 'xl');
-    @include u-text('heavy');
-    @include u-line-height('sans', 1);
-  }
-  p{
-
+.communities-of-practice--list {
+  @include at-media("tablet") {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 2rem;
   }
 }

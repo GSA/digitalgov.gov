@@ -12,6 +12,11 @@ aliases:
   - /communities/video-production-pros-community-of-practice/
   - /communities/digital-audio-video-community-of-practice/
 
+# see all authors at https://digital.gov/authors
+authors:
+  - bryan-drenning
+  - todd-folts
+
 # see all topics at https://digital.gov/topics
 topics:
   - video

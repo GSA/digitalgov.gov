@@ -56,6 +56,12 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 [DOL's English-Spanish glossary](https://www.dol.gov/sites/dolgov/files/general/Spanish-English-Glossary.pdf) (PDF, 5 MB, 73 pages) includes terms related to job-seeking, employment, retirement and other areas related to the Department of Labor’s work.
 
+#### Federal Aviation Administration (FAA)
+
+Unmanned Aircraft Systems (UAS), UAS en Espanol:
+
+* [UAS LEP (limited English proficient) Initiative Spanish Glossary](https://www.faa.gov/uas/espanol/glosario/)
+
 #### U.S. Small Business Administration (SBA), Office of Communications and Public Liaison (OCPL)
 
 [Bilingual (English and Spanish) Glossary of Terms](https://www.sba.gov/document/support-sba-spanish-english-glossary)
@@ -64,7 +70,7 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 [SSA's English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html) offers information ranging from states and days of the weeks to health.
 
-**Social Security Information in Other Languages**
+Social Security Information in Other Languages:
 
 * [American Sign Language - watch on YouTube](https://www.youtube.com/watch?v=H9T8cDmFVEg)
 * [Arabic](https://www.ssa.gov/multilanguage/Arabic/arabic.htm)
@@ -89,9 +95,13 @@ The U.S. Election Assistance Commission offers translations of Glossary of Elect
 
 #### Consumer Financial Protection Bureau (CFPB)
 
-The Bureau updated the [Glossary of English-Spanish Financial Terms](https://s3.amazonaws.com/files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf) (505 kb, PDF, 76 pages) with additional terminology compiled from other agencies and entities.
+The Bureau has more than 1,200 words and terms in five languages:
 
-[Glossary of English-Chinese Financial Terms](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf) (PDF, 1.5 MB, 71 pages)
+* [Glossary of English-Chinese Financial Terms (PDF, 999 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf)
+* [Glossary of English-Spanish Financial Terms (PDF, 705 kb, 78 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf)
+* [Glossary of English-Vietnamese Financial Terms (PDF, 875 kb, 73 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_vietnamese-style-guide-glossary.pdf)
+* [Glossary of English-Korean Financial Terms (PDF, 947 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_korean-style-guide-glossary.pdf)
+* [Glossary of English-Tagalog Financial Terms (PDF, 674 kb, 82 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_tagalog-style-guide-glossary.pdf)
 
 #### Federal Housing Finance Agency (FHFA)
 

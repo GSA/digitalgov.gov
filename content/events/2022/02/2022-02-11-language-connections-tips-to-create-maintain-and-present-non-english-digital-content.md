@@ -34,6 +34,8 @@ This webinar will include ideas, resources, and examples of how you can improve 
 
 The presentation will be based on the new guide, [Improving Access to Public Websites and Digital Services for Limited English Proficient (LEP) Persons (PDF, 2.5 MB, 17 pages)](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf), created by the [LEP subcommittee](https://www.lep.gov/) of Title VI of the Civil Rights Act of 1964 interagency working group.
 
+[Read the Q&A recap](https://digital.gov/2022/05/23/10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule/).
+
 *This talk is co-hosted by Digital.gov, the Multilingual Community of Practice, and the Web Managers Community of Practice.*
 
 *[The Multilingual CoP](https://digital.gov/communities/multilingual/) is a group of federal, state, and local government digital professionals working to expand and improve digital content in languages other than English.*

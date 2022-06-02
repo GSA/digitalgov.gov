@@ -30,13 +30,17 @@ topics:
 # 1 -- visible
 weight: 1
 
+# Spotlight Digital.gov Communities of Practice (COP) at top of /communities
+dg_highlight: true
+dg_image: img/dg-card-3.png
+
 community_list:
   - platform: listserv
     type: public
     subscribe_email: "PL-COP-MAIN-subscribe-request@listserv.gsa.gov"
     terms: "Anyone is eligible to join."
     members: 1300
-    
+
 ---
 
 The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves federal agencies time and money and provides better service to the American public.
