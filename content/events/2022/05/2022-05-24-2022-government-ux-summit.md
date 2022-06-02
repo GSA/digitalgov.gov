@@ -122,7 +122,6 @@ Misalignment of the customer-driven recommendations of human-centered design (HC
 In this session you will hear from the following speakers:
 
 * **Mike Catania** &mdash; Innovation Specialist, Department of Veterans Affairs
-* **Nadia Hansen** &mdash; Former county government CIO
 
 ## 12:30 pm - 12:50 pm, ET<br />Designing Digital Products for Adults With Low Literacy
 
