@@ -34,16 +34,13 @@
           List all of the blog posts tagged with this topic */}}
 
           {{/* Gets the past events */}}
-          {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-          {{/* Gets the past events that have youtube_id set  */}}
-          {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+          {{- $events := where .Site.RegularPages.ByDate.Reverse "Section" "events" -}}
 
           {{/* Gets the recent blog posts */}}
           {{- $posts := where .Pages "Section" "news" -}}
 
           {{/* Merges the past events and the recent blog posts */}}
-          {{ $stream := union $posts $past_events }}
+          {{ $stream := union $posts $events }}
 
           {{/* If there are any items at all... */}}
           {{- if $stream -}}
@@ -53,7 +50,11 @@
             {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
 
               {{- if eq .Type "events" -}}
-                {{- .Render "card-event-past" -}}
+                {{- if ge .Date now.Unix }}
+                  {{- .Render "card-event" -}}
+                {{- else -}}
+                  {{- .Render "card-event-past" -}}
+                {{- end -}}
               {{- end -}}
 
               {{- if eq .Type "news" -}}
