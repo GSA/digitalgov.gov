@@ -80,7 +80,7 @@ Below is a set of recommended, baseline strategies to improve the accessibility 
 
         Active Voice: 100 people submitted applications for the job.
   2. Use this [Document Checklist for Plain Language on the Web](http://www.plainlanguage.gov/howto/quickreference/weblist.cfm) from [PlainLanguage.gov](http://www.plainlanguage.gov/index.cfm) when writing social media posts.
-  3. Follow this [5-step checklist provided by the Center for Plain Language](http://centerforplainlanguage.org/5-steps-to-plain-language/) to ensure that your social media posts communicate your message effectively.
+  3. Follow this [5-step checklist provided by the Center for Plain Language](https://hubsadda.com/write-better/) to ensure that your social media posts communicate your message effectively.
   4. For before and after examples of plain language, visit [PlainLanguage.gov’s list of Before-and-After Comparisons](http://www.plainlanguage.gov/examples/before_after/index.cfm).
 
 ### Tips for Making Facebook Updates Accessible
