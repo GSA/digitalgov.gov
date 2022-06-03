@@ -108,6 +108,8 @@ In this session you will hear from the following speakers:
 * **Taylor S Gandolfi Santos** &mdash; Product Design Lead, U.S. Citizenship and Immigration Services
 * **Maggie Larkin** &mdash; Product Manager, U.S. Citizenship and Immigration Services
 
+[View the slides (PowerPoint, 5.53 MB, 47 pages)](https://digital.gov/files/designing-the-refugee-and-asylum-interview-experience-ux-summit-22.pptx)
+
 ## 3:00 pm - 4:00 pm, ET<br />Building an Inclusive User Research Practice: A Case Study in Progress
 
 What does it mean for user research to be inclusive? How does it impact your mission? How do you actually do it? The IRS’s Office of Online Services is exploring these questions to build an inclusive research capability. We’ll share how we’re planning and growing this capability, with early focus on research with participants with disabilities and limited English proficiency (LEP). We’ll also share actionable tips about managing process change and conducting user research with these communities. Discussion welcome!  
