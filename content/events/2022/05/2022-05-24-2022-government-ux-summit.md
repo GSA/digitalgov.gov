@@ -121,6 +121,8 @@ In this session you will hear from the following speakers:
 * **Alcora Walden** &mdash; Assistant Director, Product Management & User Experience and Design, Internal Revenue Service
 * **Brandon Szabo** &mdash; Chief, User Experience and Design, Internal Revenue Service
 * **Ronna ten Brink** &mdash; Contractor, Senior Human Factors Engineer, Internal Revenue Service
+
+[View the slides (PowerPoint, 13.8 MB, 34 pages)](https://digital.gov/files/building-an-inclusive-user-research-practice-ux-summit-22.pptx)
 {{< /accordion >}}
 
 ---
@@ -172,7 +174,9 @@ The art of designing and creating content to support people with cognitive disab
 
 In this session you will hear from the following speaker:
 
-* **Rachael Bradley Montgomery** &mdash; Digital Accessibility Architect, Library of Congress 
+* **Rachael Bradley Montgomery** &mdash; Digital Accessibility Architect, Library of Congress
+
+[View the slides (PowerPoint, 16.3 MB, 41 pages)](https://digital.gov/files/designing-for-people-with-cognitive-disabilities-ux-summit-22.pptx)
 
 ## 3:00 pm - 4:00 pm, ET<br />You Are the User: Recognizing Systemic Challenges for the Design Team of One
 
@@ -181,6 +185,8 @@ Many designers are often alone on projects. Even in large organizations, they ma
 In this session you will hear from the following speaker:
 
 * **Amanda Damewood** &mdash; Acting Director of User Experience, Department of Homeland Security
+
+[View the slides (PowerPoint, 534 KB, 44 pages)](https://digital.gov/files/you-are-the-user-ux-summit-22.pptx)
 {{< /accordion >}}
 
 ---
