@@ -48,6 +48,8 @@ In this session you will hear from the following speakers:
 * **Samuel Chapman** &mdash; Digital User Experience Analyst, Internal Revenue Service
 * **Kira Prin** &mdash; Product Development Specialist, Internal Revenue Service
 
+[View the slides (PowerPoint, 7.4 MB, 34 pages)](https://digital.gov/files/how-to-redesign-a-legacy-application-ux-summit-22.pptx)
+
 ## 12:30 pm - 12:50 pm, ET<br />Drowning in Data? How To Use Customer Experience Data To Drive User Experience Research
 
 Some teams may find themselves drowning in customer data and unsure how to make sense of it. What do you prioritize? What story does the data tell? It can be tempting to make product changes solely based on customer experience metrics and surveys. However, this is only one part of the story. In this talk, we’ll touch on how we use a framework that marries traditional qualitative user experience research methods with customer experience data—which results in a holistic view of audiences’ needs in a way that the data alone can’t do. 
@@ -66,6 +68,8 @@ In this session you will hear from the following speakers:
 * **Colin Murphy** &mdash; 18F Product Manager, General Services Administration
 * **Allison Press** &mdash; 18F User Experience Designer, General Services Administration
 
+[View the slides (PowerPoint, 2.18 MB, 28 pages)](https://digital.gov/files/reframing-the-role-of-senior-leaders-in-design–ux-summit-22.pptx)
+
 ## 1:10 pm - 1:30 pm, ET<br />You May Already Know More Than You Think: Leverage User Data You Already Have To Get Started
 
 User research professionals are often stumped about what data might be easily available to inform their exploration of possible areas of website improvement. During this presentation, we will discuss the following five data streams that may already exist at agencies: 
@@ -82,6 +86,9 @@ In this session you will hear from the following speakers:
 
 * **Kathy Piscopo** &mdash; Senior Science Officer, Substance Abuse and Mental Health Services Administration
 * **Dara Pressley** &mdash; Contractor, Substance Abuse and Mental Health Services Administration
+
+[View the slides part 1 (PowerPoint, 20.4 MB, 10 pages)](https://digital.gov/files/you-may-already-know-more-than-you-think-part-one-ux-summit-22.pptx)
+[View the slides part 2 (PowerPoint, 6.53 MB, 11 pages)](https://digital.gov/files/you-may-already-know-more-than-you-think-part-two-ux-summit-22.pptx)
 
 ## 1:45 pm - 2:45 pm, ET<br />Designing the Refugee and Asylum Interview Experience
 
@@ -100,6 +107,8 @@ In this session you will hear from the following speakers:
 
 * **Taylor S Gandolfi Santos** &mdash; Product Design Lead, U.S. Citizenship and Immigration Services
 * **Maggie Larkin** &mdash; Product Manager, U.S. Citizenship and Immigration Services
+
+[View the slides (PowerPoint, 5.53 MB, 47 pages)](https://digital.gov/files/designing-the-refugee-and-asylum-interview-experience-ux-summit-22.pptx)
 
 ## 3:00 pm - 4:00 pm, ET<br />Building an Inclusive User Research Practice: A Case Study in Progress
 
