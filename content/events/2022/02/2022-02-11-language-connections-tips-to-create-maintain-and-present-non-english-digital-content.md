@@ -29,12 +29,13 @@ youtube_id: goZjeCXIx_Q
 ---
 
 [View the slides (PowerPoint, 3.1 MB, 20 pages)](https://digital.gov/files/feb-2022-multilingual-event-lep.pptx)
+[Read the Q&A recap](https://digital.gov/2022/05/23/10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule/).
 
 This webinar will include ideas, resources, and examples of how you can improve access to your websites and digital services for people who are limited English proficient (LEP).
 
 The presentation will be based on the new guide, [Improving Access to Public Websites and Digital Services for Limited English Proficient (LEP) Persons (PDF, 2.5 MB, 17 pages)](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf), created by the [LEP subcommittee](https://www.lep.gov/) of Title VI of the Civil Rights Act of 1964 interagency working group.
 
-[Read the Q&A recap](https://digital.gov/2022/05/23/10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule/).
+---
 
 *This talk is co-hosted by Digital.gov, the Multilingual Community of Practice, and the Web Managers Community of Practice.*
 
