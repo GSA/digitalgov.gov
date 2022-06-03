@@ -65,7 +65,8 @@
   {{- $href := .href -}}
   {{- $src := .src -}}
   {{- with .item -}}
-  <li data-edit-this="{{- .Path -}}">
+  {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+  <li data-edit-this="{{- $path -}}">
 
     {{- template "collection-icon" dict "item" . "src" $src "href" $href -}}
 

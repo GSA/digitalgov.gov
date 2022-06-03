@@ -1,6 +1,7 @@
 {{/* All Tags */}}
 {{/* lists out the tags for the site */}}
 {{- define "content" -}}
+{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
 <main role="main" id="main-content">
 
@@ -24,7 +25,7 @@
           {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
             {{- if eq .Params.weight 2 -}}
               <div class="grid-col-12 tablet:grid-col-4">
-                <div class="topic" data-edit-this="{{- .Path -}}">
+                <div class="topic" data-edit-this="{{- $path -}}">
                   <h3>
                     <a href="{{- .Permalink | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
                   </h3>
@@ -75,7 +76,7 @@
           {{/*
           Output the topic HTML
           */}}
-          <div class="topic" data-edit-this="{{- .Path -}}">
+          <div class="topic" data-edit-this="{{- $path -}}">
             <p>
               <a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a> <span class="count">{{- $taxonomy.Count -}}</span>
             </p>

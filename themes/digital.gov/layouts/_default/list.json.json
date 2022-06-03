@@ -100,9 +100,10 @@
 
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
-      "filepath" : {{- with .File -}}{{- .Path | jsonify -}}{{- end -}},
-      "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
-      "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+      "filepath" : {{- with .File -}}{{- $path | jsonify -}}{{- end -}},
+      "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
+      "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
       {{- if .Params.source -}}
       "source" : "{{- .Params.source -}}",
       {{- end -}}
@@ -131,7 +132,7 @@
       {{- end -}}
 
       {{- partial "api/slug.html" . -}}
-      
+
       "url" : "{{- .Permalink -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}

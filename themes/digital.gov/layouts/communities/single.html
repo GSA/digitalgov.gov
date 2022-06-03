@@ -6,7 +6,8 @@
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="{{- .Path -}}">
+          {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+          <div class="grid-col-12" data-edit-this="{{- $path -}}">
 
             <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></p>
             {{/* Page Title */}}
@@ -132,9 +133,9 @@
               {{- .Content -}}
             </div>
               <div class="community_events">
-              {{- partial "core/get-upcomingevents.html" . -}}         
+              {{- partial "core/get-upcomingevents.html" . -}}
             </div>
-            
+
             <div class="Community_conduct">
               <h2 id="community-conduct">Community Conduct</h2>
               {{- partial "core/community_pagefooter.html" . -}}

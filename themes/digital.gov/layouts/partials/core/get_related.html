@@ -106,7 +106,8 @@
   {{- $href := .href -}}
   {{- $src := .src -}}
   {{- with .item -}}
-    <div class="promo" data-edit-this="{{- .Path -}}">
+    {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+    <div class="promo" data-edit-this="{{- $path -}}">
       <div>
         <h4>
           <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a>

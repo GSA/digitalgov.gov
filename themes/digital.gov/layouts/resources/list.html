@@ -1,11 +1,12 @@
 {{- define "content" -}}
+{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
 <main role="main" id="main-content" class="main-resources">
   <article>
     <header class="page-head page-head-{{- .Type -}}">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="{{- .Path -}}">
+          <div class="grid-col-12" data-edit-this="{{- $path -}}">
 
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
@@ -156,7 +157,7 @@
             {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
               {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
                 <div class="grid-col-12 tablet:grid-col-4">
-                  <div class="topic" data-edit-this="{{- .Path -}}">
+                  <div class="topic" data-edit-this="{{- $path -}}">
                     <h3>
                       <a href="{{- .Permalink | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
                     </h3>

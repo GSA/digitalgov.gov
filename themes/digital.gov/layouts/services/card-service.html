@@ -1,4 +1,5 @@
-<div class="card-service" data-edit-this="{{- .Path -}}">
+{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+<div class="card-service" data-edit-this="{{- $path -}}">
 
   {{/* set the href as a variable */}}
   {{- $href := "" -}}

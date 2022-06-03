@@ -26,7 +26,8 @@
               {{- range $i, $author := $authors -}}
                 {{ if .Params.slug }}
                   {{ $link := printf "authors/%s/" .Params.slug }}
-                  <div class="author grid-row" data-edit-this="{{- .Path -}}">
+                  {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+                  <div class="author grid-row" data-edit-this="{{- $path -}}">
                     <div class="grid-col-auto">
                       <div class="photo">
                         {{- if $author.Params.github -}}
