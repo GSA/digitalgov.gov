@@ -144,6 +144,8 @@ In this session you will hear from the following speaker:
 
 * **Sheila Walsh** &mdash; Public Affairs Specialist, Department of Health and Human Services
 
+[View the slides (PowerPoint, 3.05 MB, 15 pages)](https://digital.gov/files/designing-digital-products-for-adults-with-low-literacy-ux-summit-22.pptx)
+
 ## 12:50 pm - 1:10 pm, ET<br />Automating a “Mega” User Journey: Relieving the Pain of In-and-Out Processing
 
 Every organization has a few "mega” user journeys that consume inordinate time and resources. For example, the Department of Defense could streamline in-and-out processing to increase morale and productivity across every location and produce billions of dollars of cost savings. But past attempts to automate this mega user journey have only addressed small pieces of the problem, with minimal benefit.
