@@ -148,8 +148,6 @@ In this session you will hear from the following speaker:
 
 * **Captain Nicholas Forrest** &mdash; Artificial Intelligence Solutions Architect, U.S. Air Force
 
-[View the slides (PowerPoint, 4.04 MB, 12 pages)](https://digital.gov/files/automating-a-mega-journey-ux-summit-22.pptx)
-
 ## 1:10 pm - 1:30 pm, ET<br />How Do You Teach What Data Is in More Than 120 Censuses and Surveys? You Don’t!
 
 How do you create a simple visual or presentation to teach all the data topics, geographies, and frequencies of our eight pages of surveys on census.gov? You don't! We realized that no one should have to memorize this amount of information. The solution was to think bigger and to create a reference tool. Thus, the Survey Explorer was born. This product was designed and user experience-tested in just a few months with the right mix of people, attitude, and agile problem-solving.
