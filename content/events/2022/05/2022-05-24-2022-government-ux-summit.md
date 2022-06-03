@@ -68,6 +68,8 @@ In this session you will hear from the following speakers:
 * **Colin Murphy** &mdash; 18F Product Manager, General Services Administration
 * **Allison Press** &mdash; 18F User Experience Designer, General Services Administration
 
+[View the slides (PowerPoint, 2.18 MB, 28 pages)](https://digital.gov/files/reframing-the-role-of-senior-leaders-in-design–ux-summit-22.pptx)
+
 ## 1:10 pm - 1:30 pm, ET<br />You May Already Know More Than You Think: Leverage User Data You Already Have To Get Started
 
 User research professionals are often stumped about what data might be easily available to inform their exploration of possible areas of website improvement. During this presentation, we will discuss the following five data streams that may already exist at agencies: 
