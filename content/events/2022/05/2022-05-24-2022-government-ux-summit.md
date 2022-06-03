@@ -85,6 +85,9 @@ In this session you will hear from the following speakers:
 * **Kathy Piscopo** &mdash; Senior Science Officer, Substance Abuse and Mental Health Services Administration
 * **Dara Pressley** &mdash; Contractor, Substance Abuse and Mental Health Services Administration
 
+[View the slides part 1 (PowerPoint, 20.4 MB, 10 pages)](https://digital.gov/files/you-may-already-know-more-than-you-think-part-one-ux-summit-22.pptx)
+[View the slides part 2 (PowerPoint, 6.53 MB, 11 pages)](https://digital.gov/files/you-may-already-know-more-than-you-think-part-two-ux-summit-22.pptx)
+
 ## 1:45 pm - 2:45 pm, ET<br />Designing the Refugee and Asylum Interview Experience
 
 The Department of Homeland Security has been at work for two years researching the biggest problems that arise during the interview portion of refugee and asylum cases. Those problems include: 
