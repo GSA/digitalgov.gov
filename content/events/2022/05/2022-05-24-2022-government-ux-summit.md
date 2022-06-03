@@ -128,7 +128,7 @@ In this session you will hear from the following speakers:
 
 [View the slides (PowerPoint, 13.8 MB, 34 pages)](https://digital.gov/files/building-an-inclusive-user-research-practice-ux-summit-22.pptx)
 
-What does it mean for user research to be inclusive? How does it impact your mission? How do you actually do it? The IRS’s Office of Online Services is exploring these questions to build an inclusive research capability. We’ll share how we’re planning and growing this capability, with early focus on research with participants with disabilities and limited English proficiency (LEP). We’ll also share actionable tips about managing process change and conducting user research with these communities. Discussion welcome!  
+What does it mean for user research to be inclusive? How does it impact your mission? How do you actually do it? The IRS’s Office of Online Services is exploring these questions to build an inclusive research capability. We’ll share how we’re planning and growing this capability, with early focus on research with participants with disabilities and limited English proficiency (LEP). We’ll also share actionable tips about managing process change and conducting user research with these communities. Discussion welcome!
 
 In this session you will hear from the following speakers:
 
