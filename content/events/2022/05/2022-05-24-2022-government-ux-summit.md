@@ -59,6 +59,8 @@ In this session you will hear from the following speakers:
 * **Sean Cassidy** &mdash; UX Design Lead, Department of Education
 * **Jay Blumenthal** &mdash; Contractor, UX, Department of Education
 
+[View the slides (PowerPoint, 10.1 MB, 12 pages)](https://digital.gov/files/drowning-in-data-how-to-use-customer-experience-data-ux-summit-22.pptx)
+
 ## 12:50 pm - 1:10 pm, ET<br />Reframing the Role of Senior Leaders in Modern Software Design
 
 Managing modern software development in government can sometimes leave senior leaders wondering, “how is this supposed to work?” Without clear answers, well-intentioned leaders bring existing strategies to new initiatives and risk undermining its success. In this session, we’ll discuss how to reset expectations with senior leaders to uphold modern software design practices and support your team. 
