@@ -48,6 +48,8 @@ In this session you will hear from the following speakers:
 * **Samuel Chapman** &mdash; Digital User Experience Analyst, Internal Revenue Service
 * **Kira Prin** &mdash; Product Development Specialist, Internal Revenue Service
 
+[View the slides (PowerPoint, 7.4 MB, 34 pages)](https://digital.gov/files/how-to-redesign-a-legacy-application-ux-summit-22.pptx)
+
 ## 12:30 pm - 12:50 pm, ET<br />Drowning in Data? How To Use Customer Experience Data To Drive User Experience Research
 
 Some teams may find themselves drowning in customer data and unsure how to make sense of it. What do you prioritize? What story does the data tell? It can be tempting to make product changes solely based on customer experience metrics and surveys. However, this is only one part of the story. In this talk, we’ll touch on how we use a framework that marries traditional qualitative user experience research methods with customer experience data—which results in a holistic view of audiences’ needs in a way that the data alone can’t do. 
