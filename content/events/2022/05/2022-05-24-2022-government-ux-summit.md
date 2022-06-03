@@ -134,6 +134,8 @@ In this session you will hear from the following speakers:
 
 * **Mike Catania** &mdash; Innovation Specialist, Department of Veterans Affairs
 
+[View the slides (PowerPoint, 3.27 MB, 26 pages)](https://digital.gov/files/business-case-for-innovation-ux-summit-22.pptx)
+
 ## 12:30 pm - 12:50 pm, ET<br />Designing Digital Products for Adults With Low Literacy
 
 Over 50% of U.S. adults score below an international benchmark for literacy, with roughly 20% scoring at the very lowest levels. These adults span all demographics and are a part of your audience. What can we do as user experience professionals to support digital inclusion of adults with low reading literacy levels? This session provides a high-level overview of best practices in design standards, plain language, content strategy, and usability testing. 
@@ -141,6 +143,8 @@ Over 50% of U.S. adults score below an international benchmark for literacy, wit
 In this session you will hear from the following speaker:
 
 * **Sheila Walsh** &mdash; Public Affairs Specialist, Department of Health and Human Services
+
+[View the slides (PowerPoint, 3.05 MB, 15 pages)](https://digital.gov/files/designing-digital-products-for-adults-with-low-literacy-ux-summit-22.pptx)
 
 ## 12:50 pm - 1:10 pm, ET<br />Automating a “Mega” User Journey: Relieving the Pain of In-and-Out Processing
 
