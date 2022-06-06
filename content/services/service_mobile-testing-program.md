@@ -1,6 +1,11 @@
 ---
 url: /services/mobile-application-testing-program/
 
+aliases:
+  - /topics/mobile/
+
+expirydate: "2020-09-15"
+
 # What is the name of the product or service?
 title: "Federal Crowdsource Mobile Testing Program"
 
