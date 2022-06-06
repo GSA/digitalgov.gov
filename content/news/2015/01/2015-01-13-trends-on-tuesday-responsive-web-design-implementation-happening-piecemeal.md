@@ -14,9 +14,10 @@ topics:
   - NCI
   - responsive-web-design
   - trends-on-tuesday
+
 ---
 
-{{< legacy-img src="2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="" >}}
+{{< legacy-img src="2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="monicaodo, iStock, Thinkstock" >}}
 
 Approximately 18% of websites have implemented [Responsive Web Design]({{< ref "2012-07-11-aids-gov-responsive-design.md" >}} "AIDS.gov Responsive Design"), according to the audit of websites [Guy Podjarny completed](http://www.guypo.com/rwd-2014/) in November. That&#8217;s more than [7% growth since his previous audit]({{< ref "2014-09-09-trends-on-tuesday-are-only-11-of-websites-responsive.md" >}}) in January 2014.
 
@@ -28,4 +29,4 @@ Government agencies are no different and agencies told us last year there are nu
 
 There is also a risk in doing it quickly. Podjarny finds that some of the the responsive pages are having performance load time issues and the &#8220;one size fits all&#8221; mobile websites, which accounted for 21% of websites in his analysis, actually load faster than many responsively-designed websites. Jeremy Vanderlan from AIDS.gov recently conducted a webinar that talks about tools you can use to [make sure your site loads quickly]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}}).
 
-In addition, agencies need to test compatibility of their sites across different devices. That&#8217;s why we created the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program") to help agencies get access to other devices they can test on and help other agency colleagues learn about responsive Web design. [Join us as we conduct a test cycle for the National Cancer Institute](https://midas.18f.us/tasks/21) next week.
+In addition, agencies need to test compatibility of their sites across different devices. That&#8217;s why we created the Federal CrowdSource Mobile Testing Program to help agencies get access to other devices they can test on and help other agency colleagues learn about responsive Web design. [Join us as we conduct a test cycle for the National Cancer Institute](https://midas.18f.us/tasks/21) next week.
