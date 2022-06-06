@@ -63,7 +63,7 @@ Agencies with native apps that allow users to [conduct transactions]({{< ref "20
 
 ## My Code Is Your Code
 
-{{< legacy-img-right src="2015/01/250-x-250-Blue-responsive-webdesign-izabell-iStock-Thinkstock-470226415.jpg" alt="Blue responsive webdesign" caption="" >}}
+{{< legacy-img-right src="2015/01/250-x-250-Blue-responsive-webdesign-izabell-iStock-Thinkstock-470226415.jpg" alt="Blue responsive webdesign" caption="izabell, iStock, Thinkstock" >}}
 
 Composition is a method developers use to leverage pre-existing code to create base app functionality in a project so they do not have to “reinvent the wheel.” Forrester not too subtly noted recently that the 2015 mobile market will rely on “[Composition, Composition, Composition](http://blogs.forrester.com/michael_facemire/14-11-03-mobile_development_the_2015_crystal_ball)” to speed up mobile project delivery time. Government is not actually far behind here.
 
