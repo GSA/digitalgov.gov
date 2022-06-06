@@ -40,7 +40,7 @@ The [API Usability Testing Program](http://18f.github.io/API-Usability-Testing/)
 
 Another method is to create a list of criteria for people to evaluate your site on, and then share this link with either a list of targeted users, or with as many people as you can get. This list can include critical user tasks on your site, or specific areas you want feedback on like a Contact Us page, accessibility, or readability of content. Our program has been beta-testing a few Expert Evaluation sheets, created in Google docs, that we share online and ask people to fill in true crowdsourced fashion. You can find our Expert Evaluation Worksheet in our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) (scroll down).
 
-The [Mobile Application Testing Program]({{< ref "service_mobile-testing-program.md" >}}) at GSA uses federal crowdsourcing to discover bugs and compatibility issues on mobile systems as well.
+The Mobile Application Testing Program at GSA uses federal crowdsourcing to discover bugs and compatibility issues on mobile systems as well.
 
 ## Design workshops and events
 
