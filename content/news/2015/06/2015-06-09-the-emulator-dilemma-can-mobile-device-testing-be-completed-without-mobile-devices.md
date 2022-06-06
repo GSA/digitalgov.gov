@@ -52,7 +52,7 @@ The following chart, from a [research study sponsored by Sauce Labs](http://sauc
 
 {{< legacy-img src="2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" alt="Graphic for a pie chart titled, How do you test on a mobile platform? Its three slices show that 29 percent use simulators or emulators only, 37 percent use real devices only, and 34 percent use a combination of real devices and simulators. The breakdown of that is: 12 percent mostly use real devices, 9 percent mostly use simulators or emulators, and 13 percent use emulators and real devices equally." >}}
 
-Is this surprising to you?  Which category do you fit into?
+Is this surprising to you? Which category do you fit into?
 
 ## Should I Use Emulators and Simulators?
 
