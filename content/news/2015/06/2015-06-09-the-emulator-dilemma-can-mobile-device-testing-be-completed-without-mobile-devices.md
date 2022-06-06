@@ -38,19 +38,21 @@ There are many types of tools that provide alternatives to building your own lab
 
 The most popular emulators are [Xcode for Apple iOS](https://developer.apple.com/xcode/downloads) (below, left image) and the [Android SDK for Android devices](http://developer.android.com/sdk/index.html) (below, right image). Both of these tools were built by their respective operating system vendors and are free, relatively reliable, and easy to use, but they can take a bit of time to get setup and properly configured. Keep in mind that you need to have enough physical resources on your computer to run these tools.
 
-{{< legacy-img src="2015/06/262-x-210-Figure-2-Xcode-iOS-Emulator.jpg" alt="Figure 1: Xcode iOS Emulator" >}} {{< legacy-img src="2015/06/299-x-210-Figure-1-Android-SDK-Emulator.jpg" alt="Figure 2: Android SDK Emulator" >}}
+{{< legacy-img src="2015/06/262-x-210-Figure-2-Xcode-iOS-Emulator.jpg" alt="Illustration of a computer monitor with an emulator on the screen." caption="Figure 1: Xcode iOS Emulator." >}}
 
-Another option is the light weight Chrome Device Mode and Mobile Emulation tool (below) that is built into Chrome version 32 and later. This allows you to see what your responsive design application looks like on a variety of different device screen sizes and resolutions.
+{{< legacy-img src="2015/06/299-x-210-Figure-1-Android-SDK-Emulator.jpg" alt="An emulator with a screen on the left and a keyboard on the right." caption="Figure 2: Android SDK Emulator." >}}
 
-{{< legacy-img src="2015/06/450-x-292-Figure-3-Chrome-Device-Mode-Mobile-Emulation-tool.jpg" alt="Figure 3 - Chrome Device Mode & Mobile Emulation tool" >}}
+Another option is the lightweight Chrome Device Mode and Mobile Emulation tool (below) that is built into Chrome version 32 and later. This allows you to see what your responsive design application looks like on a variety of different device screen sizes and resolutions.
+
+{{< legacy-img src="2015/06/450-x-292-Figure-3-Chrome-Device-Mode-Mobile-Emulation-tool.jpg" alt="An emulator with a preview on the left and a code panel on the right." caption="Figure 3 - Chrome Device Mode and Mobile Emulation tool" >}}
 
 ## Who is Using Emulators and Simulators and to What Extent?
 
 The following chart, from a [research study sponsored by Sauce Labs](http://saucelabs.com/resources/sauce_labs_testing_trends_2015.pdf) [PDF], shows the percentage of people using simulators and emulators and to what extent:
 
-{{< legacy-img src="2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" alt="Graphic for a pie chart titled, How do you test on a mobile platform? Its three slices show that 29 percent use simulators or emulators only, 37 percent use real devices only, and 34 percent use a combination of real devices and simulators (the breakdown of that is: 12 percent mostly use real devices, 9 percent mostly use simulators or emulators, and 13 percent use emulators and real devices equally)." >}}
+{{< legacy-img src="2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" alt="Graphic for a pie chart titled, How do you test on a mobile platform? Its three slices show that 29 percent use simulators or emulators only, 37 percent use real devices only, and 34 percent use a combination of real devices and simulators. The breakdown of that is: 12 percent mostly use real devices, 9 percent mostly use simulators or emulators, and 13 percent use emulators and real devices equally." >}}
 
-Is this surprising to you?  Which category do you fit into?
+Is this surprising to you? Which category do you fit into?
 
 ## Should I Use Emulators and Simulators?
 
@@ -98,7 +100,8 @@ Native applications are far more unpredictable and require much more physical de
 
 While emulators and simulators are great tools for the tester’s and developer’s toolbox, testing on physical mobile devices will always be a required part of the development and testing process. Keep in mind: the public will not be accessing your agency&#8217;s mobile product via an emulator!
 
-This is why we have been testing agency websites and native apps on mobile devices in the [Federal Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}), and we have learned a few things that you would not learn on an emulator. If you want to help out a fellow agency you can sign up to [help us virtually test the beta site of USA.gov](https://openopps.digitalgov.gov/tasks/94) at your leisure, June 15-22, 2015.
+This is why we have been testing agency websites and native apps on mobile devices in the Federal Crowdsource Mobile Testing Program, and we have learned a few things that you would not learn on an emulator. If you want to help out a fellow agency you can sign up to [help us virtually test the beta site of USA.gov](https://openopps.digitalgov.gov/tasks/94) at your leisure, June 15-22, 2015.
 
-The goal of testing is to reduce the risk of releasing software that does not function properly for your customers. Testing your application using emulators is better than not testing at all, but testing on the physical devices that your customers use is always the best choice._You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) page provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{< ref "/topics/mobile" >}})._
+The goal of testing is to reduce the risk of releasing software that does not function properly for your customers. Testing your application using emulators is better than not testing at all, but testing on the physical devices that your customers use is always the best choice._You can also submit your mobile Web application for a future test cycle. The Federal Crowdsource Mobile Testing Program page provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{< ref "/topics/mobile" >}})._
+
 _David Fern is an IT Specialist and Technical Leader at the Social Security Administration’s Division of Quality, Testing and Validation._
