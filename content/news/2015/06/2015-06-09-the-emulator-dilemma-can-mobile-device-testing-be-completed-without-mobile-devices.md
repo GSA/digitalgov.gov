@@ -38,13 +38,13 @@ There are many types of tools that provide alternatives to building your own lab
 
 The most popular emulators are [Xcode for Apple iOS](https://developer.apple.com/xcode/downloads) (below, left image) and the [Android SDK for Android devices](http://developer.android.com/sdk/index.html) (below, right image). Both of these tools were built by their respective operating system vendors and are free, relatively reliable, and easy to use, but they can take a bit of time to get setup and properly configured. Keep in mind that you need to have enough physical resources on your computer to run these tools.
 
-{{< legacy-img src="2015/06/262-x-210-Figure-2-Xcode-iOS-Emulator.jpg" alt="Illustration of a computer monitor with an emulator on the screen" caption="Figure 1: Xcode iOS Emulator" >}}
+{{< legacy-img src="2015/06/262-x-210-Figure-2-Xcode-iOS-Emulator.jpg" alt="Illustration of a computer monitor with an emulator on the screen." caption="Figure 1: Xcode iOS Emulator." >}}
 
-{{< legacy-img src="2015/06/299-x-210-Figure-1-Android-SDK-Emulator.jpg" alt="Screencaspture of an emulator with a screen on the left and a keyboard on the right." caption="Figure 2: Android SDK Emulator" >}}
+{{< legacy-img src="2015/06/299-x-210-Figure-1-Android-SDK-Emulator.jpg" alt="An emulator with a screen on the left and a keyboard on the right." caption="Figure 2: Android SDK Emulator." >}}
 
 Another option is the lightweight Chrome Device Mode and Mobile Emulation tool (below) that is built into Chrome version 32 and later. This allows you to see what your responsive design application looks like on a variety of different device screen sizes and resolutions.
 
-{{< legacy-img src="2015/06/450-x-292-Figure-3-Chrome-Device-Mode-Mobile-Emulation-tool.jpg" alt="Screencapture shows an emulator with a preview on the left and a code panel on the right." caption="Figure 3 - Chrome Device Mode and Mobile Emulation tool"" >}}
+{{< legacy-img src="2015/06/450-x-292-Figure-3-Chrome-Device-Mode-Mobile-Emulation-tool.jpg" alt="An emulator with a preview on the left and a code panel on the right." caption="Figure 3 - Chrome Device Mode and Mobile Emulation tool" >}}
 
 ## Who is Using Emulators and Simulators and to What Extent?
 
