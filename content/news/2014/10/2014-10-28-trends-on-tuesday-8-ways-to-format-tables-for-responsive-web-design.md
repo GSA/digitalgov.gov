@@ -14,9 +14,10 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - responsive-web-design
+
 ---
 
-Making tables, charts and graphs mobile friendly is like squeezing 10 pounds of sugar into a 5 pound bag. Mobile Gov Community of Practice member Debra Fiorrito from the Defense Accounting and Financing Service recently highlighted this challenge in her responsive [Web design implementation]({{< ref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}} "Responsive Web Design Challenges Webinar Recap"). The challenge also came up during a call with the [Federal Mobile Crowdsource Testing Program]({{< ref "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program") when discussing [photo carousels]({{< ref "2014-08-13-photo-carousels-on-mobile-websites-use-with-caution.md" >}} "Photo Carousels on Mobile Websites: Use With Caution!"). **David Fern**, from the **Social Security Administration**, **Clair Koroma**, from the **Department of Health and Human Services**, and **Beth Martin**, from the **Federal Aviation Administration**, researched the topic to see what current approaches there are and found eight ways organizations are making charts and graphs mobile friendly.
+Making tables, charts and graphs mobile friendly is like squeezing 10 pounds of sugar into a 5 pound bag. Mobile Gov Community of Practice member Debra Fiorrito from the Defense Accounting and Financing Service recently highlighted this challenge in her responsive [Web design implementation]({{< ref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}} "Responsive Web Design Challenges Webinar Recap"). The challenge also came up during a call with the Federal Mobile Crowdsource Testing Program when discussing [photo carousels]({{< ref "2014-08-13-photo-carousels-on-mobile-websites-use-with-caution.md" >}} "Photo Carousels on Mobile Websites: Use With Caution!"). David Fern, from the Social Security Administration (SSA), Clair Koroma, from the Department of Health and Human Services (HHS), and Beth Martin, from the Federal Aviation Administration (FAA), researched the topic to see what current approaches there are and found eight ways organizations are making charts and graphs mobile friendly.
 
 ## What&#8217;s the Issue?
 
@@ -24,7 +25,7 @@ A table or chart is like a picture, worth 1,000 words. It packs a lot of informa
 
 We regularly access charts and tables on our desktop computer to glean valuable information from a pile of data. But, how can you display a full-size, desktop sized chart on a 4&#8243; smart phone screen, and make it remain useful?
 
-[{{< legacy-img src="2014/10/570-x-665-doublesuck-301x212.jpg" alt="Two smartphones displaying a table, one with just a few cells visible, the other has an entire table but too small to read on a phone." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/570-x-665-doublesuck.jpg)
+{{< legacy-img src="2014/10/570-x-665-doublesuck.jpg" alt="Two smartphones displaying a table, one with just a few cells visible, the other has an entire table but too small to read on a phone. Above both is a line of black text that reads, Both Equally Suck." >}}
 
 Without properly leveraging responsive design techniques and principles, the user of a small device, like a smart phone, has two choices:
 
@@ -47,13 +48,15 @@ We freeze rows of columns all the time in Excel sheets so that we can keep track
 
 ### 2. Make each row its own table
 
-[{{< legacy-img src="2014/10/600-x-300-orig-301x212.jpg" alt="Regular table view in background with an overlay showing one row of the table as its own table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/600-x-300-orig.jpg)On smaller screens the formatting can be changed so that all information on a single value can be displayed together instead of spread across a row in the chart.
+{{< legacy-img src="2014/10/600-x-300-orig.jpg" alt="Regular table view in background with an overlay showing one row of the table as its own table." >}}
+
+On smaller screens the formatting can be changed so that all information on a single value can be displayed together instead of spread across a row in the chart.
 
 ### 3. Convert the table to a chart
 
 On smaller screens a chart of percentage values could be converted to a pie chart for easy interpretation.
 
-[{{< legacy-img src="2014/10/600-x-369-responsivetabletochart-301x212.jpg" alt="Table in background with a pie chart overlay" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/600-x-369-responsivetabletochart.jpg)
+{{< legacy-img src="2014/10/600-x-369-responsivetabletochart.jpg" alt="Table in background with a pie chart overlay" >}}
 
 ### 4. Hide the Table
 
@@ -61,7 +64,9 @@ The table could be hidden by default on the page, but easily accessible by tappi
 
 ### 5. Hide the Least Important Columns
 
-[{{< legacy-img src="2014/10/600-x-438-stu-301x212.jpg" alt="Regular table in background with smartphone in foreground showing table with fewer columns." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/600-x-438-stu.jpg)In Excel we regularly hide rows that we do not want others to see or deem less important.
+{{< legacy-img src="2014/10/600-x-438-stu.jpg" alt="Regular table in background with smartphone in foreground showing table with fewer columns." >}}
+
+In Excel we regularly hide rows that we do not want others to see or deem less important.
 
 ### 6. Select only the columns they want to see
 
@@ -81,8 +86,7 @@ You can find more about these approaches in the resources below.
   * [Responsive Data Tables](http://css-tricks.com/responsive-data-tables/)
   * [Responsive Data Grid](http://www.informed-design.com/responsive/)
   * [Responsive Tables](http://zurb.com/playground/responsive-tables)
-  * [UX User experience &#8211; How Should Large Table Columns be Handled on a Responsive Design?](http://ux.stackexchange.com/questions/15463/how-should-large-table-columns-be-handled-on-a-responsive-design)[A Responsive Design Approach for Complex, Multi-Column Data Tables](http://filamentgroup.com/lab/responsive-design-approach-for-complex-multicolumn-data-tables.html)
-
- 
+  * [UX User experience &#8211; How Should Large Table Columns be Handled on a Responsive Design?](http://ux.stackexchange.com/questions/15463/how-should-large-table-columns-be-handled-on-a-responsive-design)
+  * [A Responsive Design Approach for Complex, Multi-Column Data Tables](http://filamentgroup.com/lab/responsive-design-approach-for-complex-multicolumn-data-tables.html)
 
 _**David Fern** is an IT Specialist and Technical Leader at the Social Security Administration’s Division of Quality, Testing and Validation. **Clair Koroma** is a Public Affairs Specialist in the Digital Communications Division of the Department of Health and Human Services. **Beth Martin** is a Usability Specialist at the Federal Aviation Administration._
