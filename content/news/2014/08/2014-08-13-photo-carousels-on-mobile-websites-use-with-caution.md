@@ -15,9 +15,12 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - web-content-managers-forum
+
 ---
 
-{{< legacy-img src="2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="250 x 244 GSA Mobile Site Slider" >}}You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them.
+{{< legacy-img-right src="2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="Screencapture of a GSA mobile site photo carousel." >}}
+
+You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them.
 
 In a recent email exchange on the [Web Content Managers listserv]({{< ref "web-managers-forum.md" >}} "Web Content Managers Listserv"), the consensus was carousels met the internal, official need to share information. However, most agreed carousels were a necessary evil, but in general preference, were an annoyance.
 
@@ -35,7 +38,7 @@ Since the “hero images” are the first things they’ll see and the first ima
 
 Limit the number of items in your carousel. Three is ideal and no more than five. Make sure you have evergreen content and enough activity to keep your editorial calendar hopping and your carousel filled. There’s a level of effort that goes in to finding images that are meaningful, relevant, and appropriate to your audience. If you have a specialized audience, they’ll see that stock photo and wonder.
 
-_This post originally appeared in the Mobile Tester Newsletter which is sent bi-monthly to the volunteer testers in our [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. The program will be testing an app for the National Oceanic and Atmospheric Administration (NOAA) this month. Federal Employees can sign up to [test the NOAA CrowdMag App today](http://gsablogs.gsa.gov/dsic/2014/08/07/seeking-android-users-to-test-a-noaa-native-app-or-be-a-mobile-tester/)!
+_This post originally appeared in the Mobile Tester Newsletter which is sent bi-monthly to the volunteer testers in our Federal CrowdSource Mobile Testing Program. Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. The program will be testing an app for the National Oceanic and Atmospheric Administration (NOAA) this month. Federal Employees can sign up to [test the NOAA CrowdMag App today](http://gsablogs.gsa.gov/dsic/2014/08/07/seeking-android-users-to-test-a-noaa-native-app-or-be-a-mobile-tester/)!
   _ 
 
-_This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s editorial theme on our [DigitalGov Services](https://digital.gov/services/)._
