@@ -22,13 +22,14 @@ topics:
   - responsive-web-design
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
----
 
-{{< legacy-img src="2014/08/435-x-322-MobileGov-Wikithon-2013-06-17.jpg" alt="MobileGov Wikithon, June 17, 2013" >}}
+---
 
 What’s your mobile itch?
 
 A long time ago at a workshop not so far away&#8230;we asked the 40 federal government innovators who had released native apps this question. We wanted to know their biggest barriers, challenges, frustrations to building anytime, anywhere government.
+
+{{< legacy-img src="2014/08/435-x-322-MobileGov-Wikithon-2013-06-17.jpg" alt="MobileGov Wikithon, June 17, 2013" >}}
 
 Their generosity in telling us those pain points informed 2011’s [Making Mobile Gov Project]({{< ref "2011-06-21-making-mobile-gov-project.md" >}} "Making Mobile Gov Project"), which identified 10 challenges to implementing mobile apps and responsive websites for public audiences in the federal government. The [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") has worked to address these challenges ever since.
 
@@ -36,7 +37,9 @@ While our work is not done, we’ve come a long way and are evolving with the te
 
 Take the challenge of creating mobile products for multiple user platforms like mobile Web and various device operating systems (iOS, Android, etc.). Back in 2011, agencies were building either static mobile Web pages or native apps; the responsive Web design approach was in its infancy.
 
-{{< legacy-img src="2014/09/250-x-400-CDC-Prevent-Group-B-Strep-GBS-App-for-Obstetric-and-Neonatal-Providers-Android-menu.jpg" alt="CDC Prevent Group B Strep GBS App for Obstetric and Neonatal Providers Android menu" >}}Now instead of the either/or approach, agencies like the [Centers for Disease Control (CDC)](http://www.cdc.gov/) are [implementing]({{< ref "2014-06-05-cdcs-digital-front-door-goes-responsive.md" >}}) or planning responsive Web design and [building native apps]({{< ref "2014-09-18-cdc-app-aids-in-prevention-of-neonatal-disease.md" >}}). However, the platform challenges have become more sophisticated. While responsive Web design has become popular in the federal government, there are still challenges around mobilizing information like tables and charts.
+{{< legacy-img-right src="2014/09/250-x-400-CDC-Prevent-Group-B-Strep-GBS-App-for-Obstetric-and-Neonatal-Providers-Android-menu.jpg" alt="CDC Prevent Group B Strep GBS App for Obstetric and Neonatal Providers Android menu" >}}
+
+Now instead of the either/or approach, agencies like the [Centers for Disease Control (CDC)](http://www.cdc.gov/) are [implementing]({{< ref "2014-06-05-cdcs-digital-front-door-goes-responsive.md" >}}) or planning responsive Web design and [building native apps]({{< ref "2014-09-18-cdc-app-aids-in-prevention-of-neonatal-disease.md" >}}). However, the platform challenges have become more sophisticated. While responsive Web design has become popular in the federal government, there are still challenges around mobilizing information like tables and charts.
 
 To counter these new challenges, more agencies are focusing on what we called the “data and infrastructure” challenge three years ago. Instead of thinking about the presentation layer (apps and mobile Web), agencies are looking at the mobilization of their information and at ways they can [share mobile code]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}} "Federal Mobile Code Sharing Catalog Is Here") with other agencies. They’re looking at adaptive content approaches and participating in projects like our [open and structured data content modeling project]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!").
 
