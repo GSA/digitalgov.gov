@@ -8,11 +8,14 @@ topics:
   - user-testing-and-research
   - Federal CrowdSource Mobile Testing Program
   - mobile-testing
+
 ---
 
-{{< legacy-img src="2013/12/250-x-281-Mobile-Tester-Newsletter.jpg" alt="Mobile testing on a laptop" >}}**What if Thomas Edison Didn’t Use Test Cases?**
+**What if Thomas Edison Didn’t Use Test Cases?**
 
-> “I have not failed. I&#8217;ve just found 10,000 ways that won&#8217;t work.” ~Thomas A. Edison
+{{< card-quote text="I have not failed. I've just found 10,000 ways that won't work." cite="Thomas A. Edison" >}}
+
+{{< legacy-img-right src="2013/12/250-x-281-Mobile-Tester-Newsletter.jpg" alt="Mobile testing on a laptop" >}}
 
 Software testing is like a science experiment. The Tester must plan: methods, steps, and paths through the Application Under Test (AUT) to completely exercise the application and uncover undesirable issues before its release.
 
@@ -72,6 +75,6 @@ As an inventor and scientist, Thomas Edison knew the value of writing and using 
   * <a class="wiki_link_ext" href="http://file:http://help.utest.com/testers/crash-courses/functional/test-case-writing-creation-101" rel="nofollow">Test Case Writing (Creation) 101</a>
   * <a class="wiki_link_ext" href="http://www.qualitytesting.info/profiles/blogs/how-to-write-a-good-test-case" rel="nofollow">How to Write a Good Test Case</a>
   * <a class="wiki_link_ext" href="http://www.softwaretestingclass.com/tips-guidelines-for-writing-test-cases/" rel="nofollow">Tips/Guidelines for Writing Test Cases</a>
-  * <a class="wiki_link_ext" href="http://www.stickyminds.com/sitewide.asp?Function=edetail&ObjectType=ART&ObjectId=8965" rel="nofollow">The Test Case as a Scientific Experiment</a>_The Mobile Tester Newsletter is sent bi-monthly to the volunteer Testers in our [Federal Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a Tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
+  * <a class="wiki_link_ext" href="http://www.stickyminds.com/sitewide.asp?Function=edetail&ObjectType=ART&ObjectId=8965" rel="nofollow">The Test Case as a Scientific Experiment</a>
 
- 
+_The Mobile Tester Newsletter was sent bi-monthly to the volunteer Testers in our Federal Crowdsource Mobile Testing Program. Each newsletter contained a feature article, and interesting trends and statistics from the world of mobile testing._
