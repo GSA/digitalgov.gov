@@ -24,7 +24,7 @@ topics:
   
 ---
 
-With 14 test cycles under our belt, the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) has heard one recurring theme from our testers—&#8221;there&#8217;s too much information!&#8221;
+With 14 test cycles under our belt, the Federal CrowdSource Mobile Testing Program has heard one recurring theme from our testers—"there's too much information!"
 
 While both desktop monitor and smartphone screen sizes are growing, there is still no comparison. At our desks, many of us are using a 24 inch (or even bigger) monitor.
 
@@ -34,7 +34,7 @@ The user will have a radically different experience on a desktop, and they are u
 
 The graphic below really shows the issue—all of the devices below display a responsively designed application. But, look at how much of the application is hidden, rolled up or linked to on the small smartphones as opposed to the desktop.
 
-[{{< legacy-img src="2015/08/600-x-600-mobile-responsive-web-design-image-izabell-470226415.jpg" alt="A graphic showing the differences in how web pages display on desktops, tablets, and mobile phones" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/600-x-600-mobile-responsive-web-design-image-izabell-470226415.jpg) 
+{{< legacy-img src="2015/08/600-x-600-mobile-responsive-web-design-image-izabell-470226415.jpg" alt="A graphic showing the differences in how web pages display on desktops, tablets, and mobile phones" caption="-izabell-, iStock, Thinkstock" >}}
 
 If the same amount of information is available in all renderings using responsive design, how deep will the small device user need to dig to get the information that desktop users have on their front page?
 
@@ -54,7 +54,7 @@ The deeper your users dig into a mobile application, the more likely they will b
 
 Customers that only want one simple piece of information or to perform a single task will not want to keep clicking links and waiting for long pages to load. If they get lost or lose confidence, they will leave. We know that the average person will only wait three seconds for a Web page to load [before they move on]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}}). With mobile connectivity, page loading may take even longer.
 
-[{{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg) 
+{{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="Jrcasas, iStock, Thinkstock" >}} 
 
 ## How Are Agencies Trying to Pack Extra Information into Mobile Devices?
 
