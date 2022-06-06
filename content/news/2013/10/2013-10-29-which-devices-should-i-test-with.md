@@ -96,4 +96,4 @@ What is your strategy for selecting devices to test? Give us your comments on th
 
 ***
 
-The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our [Federal Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0).
+The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our Federal Crowdsource Mobile Testing Program. Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, sign up to become a tester.
