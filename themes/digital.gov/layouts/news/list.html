@@ -36,11 +36,15 @@
           {{/* Gets the past events */}}
           {{- $events := where .Site.RegularPages.ByDate.Reverse "Section" "events" -}}
 
+          {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+
+          {{ $all_events := union $past_events $events }}
+
           {{/* Gets the recent blog posts */}}
           {{- $posts := where .Pages "Section" "news" -}}
 
           {{/* Merges the past events and the recent blog posts */}}
-          {{ $stream := union $posts $events }}
+          {{ $stream := union $all_events $posts }}
 
           {{/* If there are any items at all... */}}
           {{- if $stream -}}

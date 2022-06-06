@@ -24,7 +24,7 @@
           <section class="stream">
 
             {{/* Future Events ===========================  */}}
-            {{- $events := where .Site.RegularPages.Reverse  "Section" "events" -}}
+            {{- $events := where .Site.RegularPages.Reverse "Section" "events" -}}
 
             {{/* gets the # of news items to display from the config.yml */}}
             {{- $events_count := .Site.Params.events_count -}}
@@ -32,11 +32,7 @@
             {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}}
 
             {{/* Past Events =========================== */}}
-            {{/* only the ones with videos */}}
             {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-            {{/* Gets the past events that have youtube_id set  */}}
-            {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
             {{/* News Posts =========================== */}}
             {{/* Gets the recent blog posts */}}
@@ -48,7 +44,7 @@
 
             {{/* Sorting all the items by date and reverse chron */}}
             {{ $stream := $stream.ByDate.Reverse }}
-            {{ $stream := $stream.ByWeight }}
+            {{/* $stream := $stream.ByWeight */}}
 
             {{/* gets the # of news items to display from the config.yml */}}
             {{ $stream_count := .Site.Params.stream_count }}
@@ -56,7 +52,6 @@
             {{/* Gets the first X items for the news stream */}}
             {{/* The # is defined in the config.yml file */}}
             {{- range $i, $el := first $stream_count $stream -}}
-
 
               {{- with $events -}}
                 {{- if eq $i 2 -}}
@@ -71,7 +66,6 @@
                   {{- end -}}
                 {{- end -}}
               {{- end -}}
-
 
               {{- if eq .Type "events" -}}
                 {{- if .Date.Before now -}}
