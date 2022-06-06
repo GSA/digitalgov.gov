@@ -7,6 +7,7 @@ topics:
   - mobile
   - Federal CrowdSource Mobile Testing Program
   - usability
+
 ---
 
 <span style="line-height: 1.5em;">Over the last 18 months, the intrepid Mobile Gov team has worked with you to prioritize a set of </span><a style="line-height: 1.5em;" title="Mobile User Experience Guidelines and Recommendations" href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}" target="_blank">guidelines and recommendations for good mobile user experience</a><span style="line-height: 1.5em;">; categories are ranked by priority and tagged by user experience concepts such as information architecture, content, functionality, design, trustworthiness, and user context.</span>
@@ -33,4 +34,6 @@ While dated by both time and changes in OS look and feel, <a href="http://www.nn
 
 <b style="line-height: 1.5em; color: #333333;">Fun Fact</b>
 
-[65% of all email gets opened first on a mobile device](http://venturebeat.com/2014/01/22/65-of-all-email-gets-opened-first-on-a-mobile-device-and-thats-great-news-for-marketers/) — and that’s great news for marketers_The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our [Federal Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
+[65% of all email gets opened first on a mobile device](http://venturebeat.com/2014/01/22/65-of-all-email-gets-opened-first-on-a-mobile-device-and-thats-great-news-for-marketers/) — and that’s great news for marketers.
+
+_The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our Federal Crowdsource Mobile Testing Program. Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, sign up to become a tester._
