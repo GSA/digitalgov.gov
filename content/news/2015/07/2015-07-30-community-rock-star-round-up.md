@@ -29,6 +29,7 @@ topics:
   - united-states-census-bureau
   - USDA
   - user-experience
+
 ---
 
 Around this month&#8217;s [Communities Theme]({{< ref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board.
@@ -41,7 +42,7 @@ For the [2015 DigitalGov Summit](https://summit.digitalgov.gov) we pulled togeth
 
 Some standout leaders from the [MobileGov community]({{< ref "mobilegov.md" >}}) represent the Social Security Administration, Army Corps of Engineers, and the Congressional Research Service.
 
-**David Fern**, from the Social Security Administration, led the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) for more than 2 years and started publishing articles about mobile testing best practices. Check out [The Emulator Dilemma: Can Mobile Device Testing be Completed without Mobile Devices?]({{< ref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}) or [Trends on Tuesday: Native App Lessons from the Crowdsourced Mobile Testing Program.]({{< ref "2015-06-16-trends-on-tuesday-native-app-lessons-from-the-crowdsource-mobile-testing-program.md" >}})
+**David Fern**, from the Social Security Administration, led the Federal CrowdSource Mobile Testing Program for more than 2 years and started publishing articles about mobile testing best practices. Check out [The Emulator Dilemma: Can Mobile Device Testing be Completed without Mobile Devices?]({{< ref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}) or [Trends on Tuesday: Native App Lessons from the Crowdsourced Mobile Testing Program.]({{< ref "2015-06-16-trends-on-tuesday-native-app-lessons-from-the-crowdsource-mobile-testing-program.md" >}})
 
 The Army Corps of Engineers’ **Courtney Greenley** is surfacing lost apps federal agencies have not put in the [Federal Mobile Apps Registry]({{< ref "service_us-digital-registry.md" >}}) with the [Mobile Product Hunt]({{< ref "2015-07-09-day-50-the-great-federal-mobile-product-hunt.md" >}}). By leading this effort Courtney helped uncover 27 new apps to date.
 
