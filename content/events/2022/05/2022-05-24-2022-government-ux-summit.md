@@ -43,7 +43,7 @@ Please find the agenda and descriptions of each session below.
 
 ## 11:10 am - 12:00 pm, ET<br />How to Redesign a 19-Year-old Legacy Application Using Agile and User Experience Methodologies
 
-[View the slides (PowerPoint, 7.4 MB, 34 pages)](https://digital.gov/files/how-to-redesign-a-legacy-application-ux-summit-22.pptx)
+[View the slides (PowerPoint, 7.4 MB, 39 pages)](https://digital.gov/files/redesign-old-legacy-application-ux-summit-22.pptx)
 
 Imagine an application used by millions of users per year not being updated in 19 years. Then imagine getting money to fully redesign the look and feel, logic and content of this application, making it seem like a brand new user experience. Finally, imagine launching this application to the public and continuing to improve it during the pandemic — remotely and using agile and user experience methodologies. You won't need your imagination, because we will tell you how we did it at the Internal Revenue Service.
 
