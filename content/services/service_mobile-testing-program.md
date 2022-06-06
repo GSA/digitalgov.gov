@@ -1,6 +1,9 @@
 ---
 url: /services/mobile-application-testing-program/
 
+aliases:
+  - /topics/mobile/
+
 # What is the name of the product or service?
 title: "Federal Crowdsource Mobile Testing Program"
 
