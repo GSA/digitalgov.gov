@@ -17,9 +17,10 @@ topics:
   - native-app
   - native-apps
   - user-experience
+
 ---
 
-In the sea of apps, users get choosey with which apps can take up space on their phone. With one uninstall click the user can decide to breakup with the app if they have a bad experience. To keep your app from being all alone, the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}) put together [six Mobile User Experience Guidelines]({{< ref "2015-07-31-help-us-add-resources-to-the-updated-mobile-user-experience-guidelines.md" >}}) to help keep mobile users in love. DigitalGov University hosted a webinar in which the American Battle Monuments Commission (ABMC) highlighted two of these guidelines. {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 
+In the sea of apps, users get choosey with which apps can take up space on their phone. With one uninstall click the user can decide to breakup with the app if they have a bad experience. To keep your app from being all alone, the MobileGov Community of Practice put together [six Mobile User Experience Guidelines]({{< ref "2015-07-31-help-us-add-resources-to-the-updated-mobile-user-experience-guidelines.md" >}}) to help keep mobile users in love. DigitalGov University hosted a webinar in which the American Battle Monuments Commission (ABMC) highlighted two of these guidelines. {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 
 
 When ABMC was deciding how to pursue app development, their work consisted of User Experience Guidelines 2 and 4: follow user interface guidelines and government regulations from the beginning of development and test at multiple points in the process.
 
@@ -31,10 +32,10 @@ Herrmann heavily supports the act of writing everything down. Even at the beginn
 
 Herrmann suggests developing a clear design model before coding starts. ABMC used wireframes before consulting developers. Coming from a small agency, Herrmann knew she would have to get creative with testing and retrieving feedback.
 
-Before the app’s release, ABMC asked the [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) to help organize mobile testing because there was a concern over having too much content for a mobile app. They created a small test-case, based around a representation of future users, which had really positive results.
+Before the app’s release, ABMC asked the Federal CrowdSource Mobile Testing Program to help organize mobile testing because there was a concern over having too much content for a mobile app. They created a small test-case, based around a representation of future users, which had really positive results.
 
-“Please, please, please think about your audience,” Herrmann explained in the webinar. The user&#8217;s end goal should always be in mind, and working with these user experience guidelines will help.
+“Please, please, please think about your audience,” Herrmann explained in the webinar. The user's end goal should always be in mind, and working with these user experience guidelines will help.
 
 You can also view the webinar in its entirety.
 
-[youtube=http://www.youtube.com/watch?v=SKpu3iIkeGk&w=600]
+{{< youtube SKpu3iIkeGk >}}
