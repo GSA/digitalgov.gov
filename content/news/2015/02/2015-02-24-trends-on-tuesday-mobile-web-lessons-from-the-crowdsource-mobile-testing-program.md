@@ -19,7 +19,7 @@ topics:
   - united-states-department-of-energy
 ---
 
-{{< legacy-img src="2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="" >}}
+{{< legacy-img src="2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="Wavebreakmedia, Ltd., Wavebreak Media, Thinkstock" >}}
 
 Practice makes perfect. But in the mobile world, it’s testing that makes products better.
 
