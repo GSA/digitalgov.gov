@@ -61,7 +61,7 @@ Additionally, there are many tools available, such as [emulators and simulators]
 
 ## How Do You Ensure Your Mobile Application Is Compatible with All of Your Customers’ Devices?
 
-{{< legacy-img src="2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="macromediam, iStock, Thinkstock" >}} 
 
 The Federal Crowdsource Mobile Testing Program is ready to assist you in determining if your application is compatible with the mobile devices your customers are using.
 
