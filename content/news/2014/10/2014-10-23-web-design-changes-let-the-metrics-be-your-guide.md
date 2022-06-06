@@ -24,7 +24,7 @@ topics:
   - USDA
 ---
 
-{{< legacy-img src="2014/10/600-x-311-Report-as-concept-Violka08-iStock-Thinkstock-463805923.jpg" alt="Metrics report as concept" caption="" >}} 
+{{< legacy-img src="2014/10/600-x-311-Report-as-concept-Violka08-iStock-Thinkstock-463805923.jpg" alt="Metrics report as concept" caption="Violka08, iStock, Thinkstock" >}} 
 
 On September 6, 2013 at 11:27 p.m., EDT., viewers tuned in through the Internet to watch NASA launch its Lunar Atmosphere and Dust Environment Explorer (LADEE) spacecraft. As viewers logged onto the website, something unusual happened. For the first time, metrics indicated that NASA.gov’s mobile users outpaced their desktop users. 93 percent of their viewers were watching the launch from a mobile device. At the time, NASA Web managers were already considering changing their website. Metrics from this event only proved that they were making the right decision.
 
@@ -66,7 +66,7 @@ It seems more of a priority to get the most popular pages among mobile/tablet us
 
 Understanding what your audience wants from your website is essential to developing a plan for migration to a responsive design. One of the most important things to establish before you make the jump is how you will migrate content and what content you will move to the new site.
 
-Ilene France, Supervisory Digital Information Specialist for the National Institutes of Health (NIAID) considers this one of the challenges to going responsive. “Just formatting content so that all that stuff is on a mobile device doesn’t help users,” she said. “If you haven’t really thought through your content strategy, you’re just going to transfer your problems to a different platform.” [To help agencies avoid this problem, a cross-agency working group created [two shared content models]({{< ref "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}} "Top 5 Reasons to Use Government-wide Open and Structured Content Models") for “articles” and “events” to help government agencies easily publish content in multiple forms and on multiple platforms.]
+Ilene France, Supervisory Digital Information Specialist for the National Institutes of Health (NIAID) considers this one of the challenges to going responsive. “Just formatting content so that all that stuff is on a mobile device doesn’t help users,” she said. “If you haven’t really thought through your content strategy, you’re just going to transfer your problems to a different platform.” To help agencies avoid this problem, a cross-agency working group created [two shared content models]({{< ref "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}} "Top 5 Reasons to Use Government-wide Open and Structured Content Models") for “articles” and “events” to help government agencies easily publish content in multiple forms and on multiple platforms.
 
 One of the challenges with responsive design is improving content—especially if you have more links and pages than you need. To tackle this, use metrics to see what pages are being used frequently. Set goal events for certain pages. This will give you an idea of what content should be included in the redesign.
 
@@ -86,4 +86,4 @@ After you have the ‘okay’ to move forward, it is time to really get the ball
 
 Fioritto made her presentation to management about responsive design in March 2013. Later that month, she was given a budget of $80,000. Then she wrote a Statement of Work (SOW) that included job requirements. It took her about a month and a half to complete the SOW. She requested bids in May. Someone responded in July. The contractor began working in August. By September 30, 2013, the contractor completed the responsive design templates and gave them to DFAS’s in-house developer. The developer for DFAS, who works part-time, coded the templates into the agency’s content management system. Their developer completed the task in May 2014, and the site went live that same month.
 
-While the site is live, Fioritto said they are still making changes. “We’ve been doing trouble shooting,” she said. “[[The Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program")] did some mobile testing for use, and we got a lot of feedback on some changes we will be implementing later this year.”
+While the site is live, Fioritto said they are still making changes. “We’ve been doing trouble shooting,” she said. “[The Crowdsource Mobile Testing Program] did some mobile testing for use, and we got a lot of feedback on some changes we will be implementing later this year.”
