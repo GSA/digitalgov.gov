@@ -179,6 +179,10 @@ In this session you will hear from the following speaker:
 
 ## 1:10 pm - 1:30 pm, ET<br />How Do You Teach What Data Is in More Than 120 Censuses and Surveys? You Don’t!
 
+[View the slides part 1 (PowerPoint, 13.3 MB, 9 pages)](https://digital.gov/files/how-do-you-teach-ux-part-1-ux-summit-22.pptx)
+<br />
+[View the slides part 2 (PowerPoint, 18.3 MB, 9 pages)](https://digital.gov/files/how-do-you-teach-ux-part-2-ux-summit-22.pptx)
+
 How do you create a simple visual or presentation to teach all the data topics, geographies, and frequencies of our eight pages of surveys on census.gov? You don't! We realized that no one should have to memorize this amount of information. The solution was to think bigger and to create a reference tool. Thus, the Survey Explorer was born. This product was designed and user experience-tested in just a few months with the right mix of people, attitude, and agile problem-solving.
 
 In this session you will hear from the following speakers:
