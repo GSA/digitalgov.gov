@@ -42,11 +42,7 @@ Here’s a breakdown of where our ideas came from. Our goal is to spread the opp
 
 {{< img src="10x-ideas-evaluated" >}}
 
-**Figure 1**: Ideas We Evaluated. A round donut chart shows the percentages for submitted ideas. GSA employees, shown in lavender, accounted for 18.8 percent of submissions; the remaining 81.2 percent, shown in purple, were submissions from federal employees outside of GSA.
-
 {{< img src="10x-ideas-approved" >}}
-
-**Figure 2:** Projects We Approved. A round donut chart shows the percentages for selected ideas. Non-GSA employees, shown in purple, accounted for 69.2 percent of the selected ideas; the remaining 30.8 percent, shown in lavender, were from GSA employees.
 
 Distribution of GSA & Outside Agencies: In the two graphs above, Figure 1 shows that 81.2% of submitted ideas were from GSA, while 18.8% were from outside agencies. Figure 2 shows that 30.8% of selected ideas were from GSA, while 69.2% were from outside agencies.
 
