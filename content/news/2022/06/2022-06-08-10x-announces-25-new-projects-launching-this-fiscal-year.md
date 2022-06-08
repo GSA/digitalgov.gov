@@ -25,7 +25,7 @@ The [10x program](https://10x.gsa.gov/) at the U.S. General Services Administrat
 
 ## The Evaluation Process
 
-We make it a top priority to ensure that projects are scored and evaluated fairly. During evaluations, the names and agency affiliations are excluded from the proposals to guarantee projects are evaluated purely based on merit. 
+We make it a top priority to ensure that projects are scored and evaluated fairly. During evaluations, the names and agency affiliations are excluded from the proposals to guarantee projects are evaluated purely based on merit.
 
 In addition, we continued the practice of placing an advocate for diversity, equity, inclusion, and accessibility (DEIA) on our evaluation panel. This panel member's job was to examine our proposals through a specific DEIA lens and ask challenging questions during the evaluation deliberations: does this idea take into account the needs of underserved populations? Could this project do harm if done without thought and intention? We believe that government technology projects need to reflect the needs and lived experiences of the American public, and our DEIA advocate was critical in raising concerns and opportunities we may otherwise have missed.
 
@@ -48,15 +48,15 @@ Here’s a breakdown of where our ideas came from. Our goal is to spread the opp
 
 **Figure 2:** Projects We Approved. A round donut chart shows the percentages for selected ideas. Non-GSA employees, shown in purple, accounted for 69.2 percent of the selected ideas; the remaining 30.8 percent, shown in lavender, were from GSA employees.
 
-Distribution of GSA & Outside Agencies: In the two graphs above, Figure 1 shows that 81.2% of submitted ideas were from GSA, while 18.8% were from outside agencies. Figure 2 shows that 30.8% of selected ideas were from GSA, while 69.2% were from outside agencies. 
+Distribution of GSA & Outside Agencies: In the two graphs above, Figure 1 shows that 81.2% of submitted ideas were from GSA, while 18.8% were from outside agencies. Figure 2 shows that 30.8% of selected ideas were from GSA, while 69.2% were from outside agencies.
 
-## The 10x Take 
+## The 10x Take
 
 Here are a few trends from this round of idea evaluations we’d like to highlight:
 
-1. **Doubling Down**. Folks who have followed 10x projects over the years may have noticed that some of our new projects sound a lot like some previous projects we’ve funded. This is intentional. There are a few areas within govtech \[government tech] that are so big, so important, and so exciting that we feel it’s worth having multiple bets on the table. We see value in having different teams explore similar problem spaces with different approaches. Good examples include our new projects on transparency in AI algorithms and secure data storage for benefits applicants.
-2. **Shoot for the moon**. When we evaluate ideas, we aim for a mix of projects in terms of complexity, feasibility, riskiness, and reward. We take on some projects because we believe we can execute them fully—other projects really give us pause. They make us nervous. We don’t know how far we’ll be able to take them. But these projects tend to be the ones that we feel could truly deliver massive, transformative impact for the government and the public, so we accept that risk. These are projects we call moonshot ideas; dream big, or go home. This year’s moonshot ideas tackle behemoth subjects in government technology, from Privacy-preserving record linkage (PPRL)-as-a-Service to visualizing the code of federal regulations.     
-3. **Justice and Tech**. We had three investment themes this round that we were targeting: *digital responses to climate challenges, reimagining public engagement, and equity in delivery*. Each of these themes have something in common: delivering justice for the public. [Take a look at the list of projects](https://10x.gsa.gov/posts/2022-selected-projects/), we hope you’ll see–and be inspired by–the connection between technology innovation and justice. 
+1. **Doubling Down**. Folks who have followed 10x projects over the years may have noticed that some of our new projects sound a lot like some previous projects we’ve funded. This is intentional. There are a few areas within govtech &#91;government tech&#93; that are so big, so important, and so exciting that we feel it’s worth having multiple bets on the table. We see value in having different teams explore similar problem spaces with different approaches. Good examples include our new projects on transparency in AI algorithms and secure data storage for benefits applicants.
+2. **Shoot for the moon**. When we evaluate ideas, we aim for a mix of projects in terms of complexity, feasibility, riskiness, and reward. We take on some projects because we believe we can execute them fully—other projects really give us pause. They make us nervous. We don’t know how far we’ll be able to take them. But these projects tend to be the ones that we feel could truly deliver massive, transformative impact for the government and the public, so we accept that risk. These are projects we call moonshot ideas; dream big, or go home. This year’s moonshot ideas tackle behemoth subjects in government technology, from Privacy-preserving record linkage (PPRL)-as-a-Service to visualizing the code of federal regulations.
+3. **Justice and Tech**. We had three investment themes this round that we were targeting: *digital responses to climate challenges, reimagining public engagement, and equity in delivery*. Each of these themes have something in common: delivering justice for the public. [Take a look at the list of projects](https://10x.gsa.gov/posts/2022-selected-projects/), we hope you’ll see–and be inspired by–the connection between technology innovation and justice.
 
 ## What’s Next?
 
