@@ -6,9 +6,18 @@
     <div class="grid-col-12 tablet:grid-col-4 tablet:order-last">
       <div aria-role="img" class="media-featured youtube-player" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
     </div>
+    {{- else -}}
+    <div class="grid-col-12 tablet:grid-col-4 tablet:order-last">
+      <div aria-role="img" class="media-featured" data-link="{{ .Permalink }}">
+        <!-- <svg class="usa-icon usa-icon--size-9" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="{{- "/uswds/img/sprite.svg#event" | relURL -}}"></use>
+        </svg> -->
+        <img class="" src="{{- "img/past-event-icon_w200.png" | relURL -}}" alt="{{- .Params.Title -}} Event" />
+      </div>
+    </div>
     {{- end -}}
 
-    <div class="grid-col-12 {{ if .Params.youtube_id -}}tablet:grid-col-8{{- end -}}">
+    <div class="grid-col-12 tablet:grid-col-8">
 
       {{- if .Params.kicker -}}
       <div class="kicker">{{- .Params.kicker -}}</div>
