@@ -1,9 +1,10 @@
 ---
 date: 2022-06-09 08:58:00 -0500
 title: 10x Announces 25 New Projects Launching This Fiscal Year
-summary: Starting with a pool of nearly 200 ideas, 10x is excited to announce
-  new projects to be funded at the Phase One Investigation level for FY22.
-  Here’s how we got there, some observations made, and next steps.
+summary: Starting with a pool of nearly 200 ideas, 10x is excited to announce new projects to be funded at the Phase One Investigation level for FY22. Here’s how we got there, some observations made, and next steps.
+# See all authors at https://digital.gov/authors
+authors:
+  - will-cahoe
 # See all topics at https://digital.gov/topics
 topics:
   - data
@@ -17,7 +18,9 @@ primary_image: 10x-new-logo-fy22-1200-x-628b
 # 1 -- visible
 weight: 1
 slug: 10x-announces-25-new-projects-launching-this-fiscal-year
+
 ---
+
 The [10x program](https://10x.gsa.gov/) at the U.S. General Services Administration (GSA) is excited to announce 25 brand new projects we’ll be funding at the Phase One Investigation level this year. We started with a pool of nearly 200 ideas and whittled them down to the handful of projects we feel have the greatest potential to deliver transformative impact for the public. Here’s how we got there, some observations we made, and next steps.
 
 ## The Evaluation Process
@@ -37,11 +40,11 @@ Proposals were evaluated against four criteria:
 
 Here’s a breakdown of where our ideas came from. Our goal is to spread the opportunity to submit ideas to 10x to as wide an audience of civil servants as possible. This round, we were thrilled to see that the portion of ideas we received and funded from outside agencies was the highest yet.
 
-IMAGE
+{{< img src="10x-ideas-evaluated" >}}
 
 **Figure 1**: Ideas We Evaluated. A round donut chart shows the percentages for submitted ideas. GSA employees, shown in lavender, accounted for 18.8 percent of submissions; the remaining 81.2 percent, shown in purple, were submissions from federal employees outside of GSA.
 
-IMAGE
+{{< img src="10x-ideas-approved" >}}
 
 **Figure 2:** Projects We Approved. A round donut chart shows the percentages for selected ideas. Non-GSA employees, shown in purple, accounted for 69.2 percent of the selected ideas; the remaining 30.8 percent, shown in lavender, were from GSA employees.
 
@@ -69,7 +72,7 @@ Questions to Consider:
 
 Suggested Template:
 
-We have observed \[problem or opportunity]. We believe that if we \[do this that it will result in this benefit] for \[this group of people].
+We have observed &#91;problem or opportunity&#93;. We believe that if we &#91;do this that it will result in this benefit&#93; for &#91;this group of people&#93;.
 
 ## Learn More
 
