@@ -17,6 +17,7 @@ authors:
 slug: uswds-monthly-call-june-2022
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: ""
 ---
 Have a great idea for the Design System but not sure how to share it? We’ll talk through how to contribute ideas, code, bug fixes, and more—covering questions like:
 
