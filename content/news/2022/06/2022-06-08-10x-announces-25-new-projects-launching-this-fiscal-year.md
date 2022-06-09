@@ -40,11 +40,11 @@ Proposals were evaluated against four criteria:
 
 Here’s a breakdown of where our ideas came from. Our goal is to spread the opportunity to submit ideas to 10x to as wide an audience of civil servants as possible. This round, we were thrilled to see that the portion of ideas we received and funded from outside agencies was the highest yet.
 
+**Distribution of GSA & Outside Agencies**:
+
 {{< img src="10x-ideas-evaluated" >}}
 
 {{< img src="10x-ideas-approved" >}}
-
-Distribution of GSA & Outside Agencies: In the two graphs above, Figure 1 shows that 81.2% of submitted ideas were from GSA, while 18.8% were from outside agencies. Figure 2 shows that 30.8% of selected ideas were from GSA, while 69.2% were from outside agencies.
 
 ## The 10x Take
 
