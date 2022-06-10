@@ -2,7 +2,7 @@
 # Originally published at the following URL
 source_url: https://coe.gsa.gov/2022/05/20/coe-update-4.html
 source: coe
-date: 2022-05-20 16:25:00 -0500
+date: 2022-06-08 16:25:00 -0500
 title: Announcing Data Governance Charter Templates
 deck: "**Announcing Data Governance Charter Templates**&mdash;As a part of our
   Resources and Advisory Support collection, the Data and Analytics (DA) team in
