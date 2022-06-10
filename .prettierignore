@@ -1,0 +1,11 @@
+*.woff*
+*.svg
+*.ttf
+*.png
+*.ico
+*.gif
+*.md
+*.yml
+*.scss
+*.css
+*.js
