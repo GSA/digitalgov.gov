@@ -10,7 +10,7 @@
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint": "hugo && run-p lint:*",
     "local-build": "gulp buildAssets && gulp watch",
-    "prettier:html": "npx prettier --write './public'",
+    "prettier:html": "npx prettier --write './dist'",
     "start": "npm-run-all --parallel local-build hugo workflow",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "pa11y-ci --config .pa11yci",
