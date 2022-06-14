@@ -42,7 +42,11 @@
               </span>
             </p>
 
-            <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer }}</p>
+              {{- if .Params.community_name -}}
+                <p class="host">Hosted by Digital.gov's {{ .Params.community_name }} Community</p>
+                {{- else -}}
+                <p class="host">Hosted by Digital.gov and the {{ .Params.host }} Community</p>
+              {{- end -}}
             {{- end -}}
           </div>
         </div>
@@ -50,7 +54,7 @@
     </header>
 
 
-    {{/* EVENT Actions — REGISTER and Add to Calendar */}}
+    {{/* EVENT Actions — REGISTER and Add to Calendar */}}
     {{/* If is a Future Event */}}
     {{- if eq $future_event true -}}
     <div class="grid-container grid-container-desktop">
