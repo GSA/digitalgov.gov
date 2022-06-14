@@ -2,7 +2,7 @@
 slug: mobile-application-development-program
 date: 2013-05-23 3:45:28 -0400
 title: Mobile Application Development Program
-summary: 'Helping agencies plan, develop, test and launch anytime, anywhere, any device mobile products and services for the public. Plan&mdash;Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers. Develop&mdash;Create great mobile apps and sites'
+summary: 'Helping agencies plan, develop, test and launch anytime, anywhere, any device mobile products and services for the public.'
 topics:
   - mobile
 authors:
@@ -19,9 +19,9 @@ authors:
 {{< legacy-img src="/2015/02/600-x-418-Mobile-app-description1.jpg" alt="Mobile Application Development Program: Plan, Develop, Test, Launch" >}}
 
 * **Plan**—Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers.
-* **Develop—**Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.
-* **Test—**Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
-* **Launch—**Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
+* **Develop**-Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.
+* **Test**-Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
+* **Launch**-Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
 
 <table width="100%">
   <tr>
