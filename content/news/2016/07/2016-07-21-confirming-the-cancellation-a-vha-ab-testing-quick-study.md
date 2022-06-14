@@ -20,21 +20,19 @@ topics:
   - VHA
 ---
 
-> **Summary**: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, [Veterans Health Administration](http://www.va.gov/health/) (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear button labeling that might easily confuse or slow down clinicians who encountered it, and created inconsistent messaging across the application. HFE performed a Quick Study, drawing from the suggestions of clinicians and the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}}) (UX-COP, an email listserv) to develop six mockups for an A/B comparison. The assessment concluded that clinicians preferred and performed best with button labels that clearly referred to the requested function and used verbs with opposing values to illustrate their options.
+{{< box >}}**Summary**: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, [Veterans Health Administration](http://www.va.gov/health/) (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear button labeling that might easily confuse or slow down clinicians who encountered it, and created inconsistent messaging across the application. HFE performed a Quick Study, drawing from the suggestions of clinicians and the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}}) (UX-COP, an email listserv) to develop six mockups for an A/B comparison. The assessment concluded that clinicians preferred and performed best with button labels that clearly referred to the requested function and used verbs with opposing values to illustrate their options.{{< /box >}}
 
 ## Introduction
 
-Clinicians work in stressful, often chaotic environments with shifting needs and varying demands. A large part of their responsibilities require them to work within an EHR system for both viewing and adding information (such as notes) or requests (such as orders) for their patients. EHR developers refer to this action-oriented portion of their work as write-back. Write-back is crucial for patient care but also introduces multiple opportunities for inefficiencies as well as cognitive load and patient-safety issues. A specific area of concern has been effectively supporting the cancellation of a started action. {{< legacy-img src="2016/07/600-x-425-AB-testing-A\_B-split-comparison-web-conversion-test-bakhtiar\_zein-iStock-Thinkstock-469994020.jpg" alt="AB testing A/B split comparison web conversion test" caption="" >}} 
+Clinicians work in stressful, often chaotic environments with shifting needs and varying demands. A large part of their responsibilities require them to work within an EHR system for both viewing and adding information (such as notes) or requests (such as orders) for their patients. EHR developers refer to this action-oriented portion of their work as write-back. Write-back is crucial for patient care but also introduces multiple opportunities for inefficiencies as well as cognitive load and patient-safety issues. A specific area of concern has been effectively supporting the cancellation of a started action.
+
+{{< legacy-img src="2016/07/600-x-425-AB-testing-A_B-split-comparison-web-conversion-test-bakhtiar_zein-iStock-Thinkstock-469994020.jpg" alt="AB testing A/B split comparison web conversion test" caption="zein, iStock, Thinkstock" >}} 
 
 ## The Issue
 
 Clinicians often start “write” functions such as ordering a laboratory test, requesting a consult, or filling in a problem and then find that they don’t need to complete that function for various reasons. In these scenarios, the clinicians select “cancel” at the bottom of the started form. To help ensure that data (and time) is not inadvertently lost, the EHR platform checks that the clinician intended to select the cancellation button with a confirmation dialog (Figure 1).
 
-{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure1.jpg" alt="Figure 1: Original Wireframe mockup- Cancel/Cancel Function." >}}
-
-<p style="text-align: center">
-  <i>Figure 1: Original Wireframe mockup: Cancel/Cancel Function</i>
-</p>
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure1.jpg" alt="Screen capture." caption="Figure 1: Original Wireframe mockup: Cancel/Cancel Function" >}}
 
 The developers reviewed this confirmation dialog with a consulting clinical informaticist. The informaticist expressed concern about the use of “Cancel” and “Cancel Order” as button labels. This led the developers to approach HFE with the question of whether the repetition of the word “Cancel” would cause confusion, hesitation, or unintentional cancellation. HFE offers “Quick Studies” to our VHA customers, and we decided to run one on this question. Quick Studies consist of a brief formative usability assessment, in sync with the developer Agile sprint cycle, to answer focused questions that can feed directly back into development.
 
@@ -56,13 +54,9 @@ Listserv respondents reiterated both the “Yes/No” option and the “undo act
 
 Multiple people and articles called for cancelling the function immediately, and then allowing the clinician to “undo” that cancellation, instead of the proposed concept of confirming the cancellation. The “undo” option is clearly strong as it empowers users while allowing them a way out if they’ve acted in error. However, this trust in the user’s wishes could backfire in the cases where a user, such as a clinician or a pilot, is doing something in which mistakes could be fatal. These types of users are also frequently dealing with tremendous cognitive load that can lead to feeling overwhelmed. “Overwhelmed users are likely to overlook the ’undo’ message,” (Rumi P., 2015). The accidental deletion of information could reinforce that overwhelmed feeling. In these cases, the deletion confirmation ensures the message is not overlooked and reinforces trust in the system. One discussion board poster illustrated this concept, and its potential downside, nicely:
 
-{{< legacy-img src="2016/07/450-x-225-AB-Quick-Study-Figure2.jpg" alt="Figure 2 a: Undo" >}}
+{{< legacy-img src="2016/07/450-x-225-AB-Quick-Study-Figure2.jpg" alt="" caption="Figure 2 a, top" >}}
 
-{{< legacy-img src="2016/07/450-x-255-AB-Quick-Study-Figure2b.jpg" alt="Figure 2 b: Confirmation." >}}
-
-<p style="text-align: center">
-  <i>Figure 2: Undo [top] vs. Confirmation [bottom]  (Monkey, 2015).<br /> An extreme case and just what we don’t want to do at the VA!</i>
-</p>
+{{< legacy-img src="2016/07/450-x-255-AB-Quick-Study-Figure2b.jpg" alt="" caption="Figure 2 b, bottom." caption="Figure 2: Undo [top] vs. Confirmation [bottom] (Monkey, 2015). An extreme case and just what we don’t want to do at the VA!" >}}
 
 As a final outreach activity before the study sessions, HFE showed a potential mockup of an undo dialog to two clinical informaticists consulting on the Quick Study. They quickly pointed out that there are potential patient-safety risks to using this format in an EHR, where the question of what data must be written to the patient record may confuse clinicians. They also requested the addition of mockups using the word “Back” for the button returning the clinician to their partly-completed function.
 
@@ -70,35 +64,15 @@ As a final outreach activity before the study sessions, HFE showed a potential m
 
 Based on the references, research, and input from the UX-COP, HFE created four additional mockup confirmation dialogs to compare to the proposed dialog in a quick usability assessment. Mid-assessment, the developers communicated that they had changed their proposed button language to “Close” and “Cancel Function.” As a result, three of the five sessions presented five options and two sessions had six options. Having a new option didn’t change the results significantly. While the button-order language will be universal for all function-cancellation confirmations, HFE created placeholder functions such as “order” and “consult request” in the mockups to provide verisimilitude to the presented scenarios.
 
-{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure3.jpg" alt="Figure 3: Mockup #2 - Return to Function/Cancel Function" >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure3.jpg" alt="Screen capture." caption="Figure 3: Mockup #2 &#8211; Return to Function/Cancel Function." >}}
 
-<p style="text-align: center">
-  <i>Figure 3: Mockup #2 &#8211; Return to Function/Cancel Function.</i>
-</p>
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure4.jpg" alt="Screen capture." caption="Figure 4: Mockup #3 &#8211; Back/Delete New Function." >}}
 
-{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure4.jpg" alt="Figure 4: Mockup #3 - Back/Delete New Function." >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure5.jpg" alt="Screen capture." caption="Figure 5: Mockup #4 &#8211; Cancel/Discontinue Function." >}}
 
-<p style="text-align: center">
-  <i>Figure 4: Mockup #3 &#8211; Back/Delete New Function.</i>
-</p>
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure6.jpg" alt="Screen capture." caption="Figure 6: Mockup #5 &#8211; Back/Proceed with Cancellation.">}}
 
-{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure5.jpg" alt="Figure 5: Mockup #4 - Cancel/Discontinue Function." >}}
-
-<p style="text-align: center">
-  <i>Figure 5: Mockup #4 &#8211; Cancel/Discontinue Function.</i>
-</p>
-
-{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure6.jpg" alt="Figure 6: Mockup #5 - Back/Proceed with Cancellation." >}}
-
-<p style="text-align: center">
-  <i>Figure 6: Mockup #5 &#8211; Back/Proceed with Cancellation.</i>
-</p>
-
-{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-FIgure7.jpg" alt="Figure 7: Mockup #6 - Close/Cancel Order (late developer addition)." >}}
-
-<p style="text-align: center">
-  <i>Figure 7: Mockup #6 &#8211; Close/Cancel Order (late developer addition).</i>
-</p>
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-FIgure7.jpg" alt="Screen capture." caption="Figure 7: Mockup #6 &#8211; Close/Cancel Order (late developer addition)." >}}
 
 HFE used Optimal Sort’s Chalkmark™ software to display the screenshots in randomized order to each of the five participants and asked them to perform very short tasks. The tasks described various scenarios in which clinicians started a function such as a lab order, consult request, or entry of a new allergy, but realized midway through the form that they needed to cancel it using the “cancel&#8221; button at the bottom of the form. We then asked participants to select the button on the dialog mockup that would ensure that the partially entered data was NOT added to the patient’s record. The HFE facilitator asked the participants to simply click, without too much thought or thinking aloud. Chalkmark recorded which buttons the participants selected and how long it took them to make each click.
 
@@ -116,19 +90,11 @@ Following the six tasks, participants viewed all of the screenshots again and ra
 
 First, the numbers. In all the charts below the placeholder words like “Order,” “Request,” and “Allergy” have been replaced with “Function,” to show the universal design pattern that they are intended to represent. The time on task, while remaining within the short range expected for a one-click scenario, pointed to less participant hesitation with Mockup #2, “Return to Function/Cancel Function” and Mockup #5 “Back/Proceed with Cancellation.” The other findings in the study supported this time-on-task differentiation.
 
-{{< legacy-img src="2016/07/600-x-432-AB-Quick-Study-FIgure8.jpg" alt="Figure 8: Average Seconds to Select Correct Button. Notes: \*Task 4 data excludes one incorrect selection, \** Task 6 was only performed by two participants." >}}
-
-<p style="text-align: center">
-  <i>Figure 8: Average Seconds to Select Correct Button.<br /> </i><i>*Task 4 data excludes one incorrect selection, </i><i>** Task 6 was only performed by two participants</i>
-</p>
+{{< legacy-img src="2016/07/600-x-432-AB-Quick-Study-FIgure8.jpg" alt="Bar chart." caption="Figure 8: Average Seconds to Select Correct Button. Task 4 data excludes one incorrect selection, Task 6 was only performed by two participants." >}}
 
 After the tasks, the participants re-examined all six of the mockups and ordered them from easiest (1) to hardest (6).
 
-{{< legacy-img src="2016/07/600-x-444-AB-Quick-Study-FIgure9.jpg" alt="Figure 9: Average Ranking out of 6 (one being the easiest, and 6 being the most difficult)." >}}
-
-<p style="text-align: center">
-  <i>Figure 9: Average Ranking out of 6<br /> </i><i>(one being the easiest, and six being the most difficult)</i>
-</p>
+{{< legacy-img src="2016/07/600-x-444-AB-Quick-Study-FIgure9.jpg" alt="Bar chart." caption="Figure 9: Average Ranking out of 6 (one being the easiest, and six being the most difficult)." >}}
 
 On average, Mockup #3: Back/Delete New Function and Mockup #2: Return to Function/Cancel Function were ranked easiest, with scores of 2.00 and 2.25 respectively. Mockups #1 and #6, Cancel/Cancel Function and Close/Cancel Function were rated the most difficult, with score of 4.00 and 4.50 respectively.
 
@@ -139,8 +105,10 @@ Finally we observed the participants as they attempted to click the correct butt
   * Felt unsure what the “Back” button meant (Moderate); and
   * Disliked the use of negative verbs in both button options (Moderate).
 
-{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure10.jpg" alt="Figure 10: Mock #2 - Return to Function/Cancel Function, the winning dialog." >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure10.jpg" alt="Screen capture." caption="Figure 10: Mock #2 - Return to Function/Cancel Function, the winning dialog." >}}
 
 ## Conclusion
 
-Mockup # 2, Return to Request/Cancel Request, performed the best in the comparison testing. As one participant put it, “I think that ‘Cancel Request‘ is very clear—you can’t confuse the two options there.” This option avoids both the duplication of words that instigated the study and the use of negative words in both buttons (cancel/discontinue) that participants stated caused confusion. In addition, it aligns with the results of the web-based research and crowd-sourced input. While the words in the button labels “Return to Request (or any Function)” and “Cancel Request (or any Function)” are longer than other options, the clarity they provide is worth the space they take._Abigail Noonan, Sr. Human Factors Engineer, is a contractor from ArcSource Group Inc., working closely with Jennifer Herout, Ph.D., Human Factors Engineer (who collected information for the study via the UX-COP), in the Office of Health Informatics, Office of Informatics and Analytics (10P2) at the Veterans Health Administration._
+Mockup # 2, Return to Request/Cancel Request, performed the best in the comparison testing. As one participant put it, “I think that ‘Cancel Request‘ is very clear—you can’t confuse the two options there.” This option avoids both the duplication of words that instigated the study and the use of negative words in both buttons (cancel/discontinue) that participants stated caused confusion. In addition, it aligns with the results of the web-based research and crowd-sourced input. While the words in the button labels “Return to Request (or any Function)” and “Cancel Request (or any Function)” are longer than other options, the clarity they provide is worth the space they take.
+
+_Abigail Noonan, Senior Human Factors Engineer, is a contractor from ArcSource Group Inc., working closely with Jennifer Herout, Ph.D., Human Factors Engineer (who collected information for the study via the UX-COP), in the Office of Health Informatics, Office of Informatics and Analytics (10P2) at the Veterans Health Administration._
