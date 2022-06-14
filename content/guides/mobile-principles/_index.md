@@ -5,6 +5,7 @@ summary: 'In order to help agencies comply with mobile website requirements, we 
 guide: mobile-principles
 aliases:
   - /resources/mobile/principles/
+  - /services/mobile-application-testing-program/
 
 ---
 
@@ -20,6 +21,6 @@ In 2017, the [MobileGov Community of Practice](https://digital.gov/communities/m
 
 Building on last year’s results, we are back at it again—but this time we examined the automated testing tools themselves. During this review, we found there are eight principles of mobile-friendliness. And if you follow them, they will make your site more usable and user-friendly.
 
-<!-- As a reminder, **check back each week for another principle** that we distilled from Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), and the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). We will provide a description of the issue, a method to detect the issue, and solutions to eliminate or prevent the issue from appearing your site to help make it more mobile-friendly. -->
+<!-- As a reminder, **check back each week for another principle** that we distilled from Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), and the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). We will provide a description of the issue, a method to detect the issue, and solutions to eliminate or prevent the issue from appearing on your site to help make it more mobile-friendly. -->
 
 Let’s get started!
