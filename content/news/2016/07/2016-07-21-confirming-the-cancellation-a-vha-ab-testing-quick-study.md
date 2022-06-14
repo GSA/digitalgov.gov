@@ -2,7 +2,7 @@
 slug: confirming-the-cancellation-a-vha-ab-testing-quick-study
 date: 2016-07-21 10:00:48 -0400
 title: 'Confirming the Cancellation: A VHA A/B Testing Quick Study'
-summary: 'Summary: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, Veterans Health Administration (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear'
+summary: 'Human Factors Engineering at the Veterans Health Administration performed a Quick Study, drawing from the suggestions of clinicians and the User Experience Community of Practice to develop six mockups for an A/B comparison.'
 authors:
   - abigail-noonan
 topics:
@@ -18,6 +18,7 @@ topics:
   - user-experience-community-of-practice
   - veterans-health-administration
   - VHA
+
 ---
 
 {{< box >}}**Summary**: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, [Veterans Health Administration](http://www.va.gov/health/) (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear button labeling that might easily confuse or slow down clinicians who encountered it, and created inconsistent messaging across the application. HFE performed a Quick Study, drawing from the suggestions of clinicians and the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}}) (UX-COP, an email listserv) to develop six mockups for an A/B comparison. The assessment concluded that clinicians preferred and performed best with button labels that clearly referred to the requested function and used verbs with opposing values to illustrate their options.{{< /box >}}
@@ -50,7 +51,7 @@ The two-week Quick Study allows for three-four days of planning, two days of tes
   * “an icon/button with the word ’Cancel‘ surrounded by a red circle with a line through”
   * “[…] provide a way for the user to undo the action”
 
-Listserv respondents reiterated both the “Yes/No” option and the “undo action” options while others sent links to discussion boards and the Nielsen/Norman group **** (Laubheimer, 2015). The Nielsen/Norman references, among others, supported providing an “undo” action as well, and underlined HFE’s initial concern about the “cancel/cancel order” language **** (JohnGB, André, & Lothar_K, 2013)**.** 
+Listserv respondents reiterated both the “Yes/No” option and the “undo action” options while others sent links to discussion boards and the Nielsen/Norman group (Laubheimer, 2015). The Nielsen/Norman references, among others, supported providing an “undo” action as well, and underlined HFE’s initial concern about the “cancel/cancel order” language (JohnGB, André, & Lothar_K, 2013).
 
 Multiple people and articles called for cancelling the function immediately, and then allowing the clinician to “undo” that cancellation, instead of the proposed concept of confirming the cancellation. The “undo” option is clearly strong as it empowers users while allowing them a way out if they’ve acted in error. However, this trust in the user’s wishes could backfire in the cases where a user, such as a clinician or a pilot, is doing something in which mistakes could be fatal. These types of users are also frequently dealing with tremendous cognitive load that can lead to feeling overwhelmed. “Overwhelmed users are likely to overlook the ’undo’ message,” (Rumi P., 2015). The accidental deletion of information could reinforce that overwhelmed feeling. In these cases, the deletion confirmation ensures the message is not overlooked and reinforces trust in the system. One discussion board poster illustrated this concept, and its potential downside, nicely:
 
