@@ -27,7 +27,7 @@ topics:
 
 Clinicians work in stressful, often chaotic environments with shifting needs and varying demands. A large part of their responsibilities require them to work within an EHR system for both viewing and adding information (such as notes) or requests (such as orders) for their patients. EHR developers refer to this action-oriented portion of their work as write-back. Write-back is crucial for patient care but also introduces multiple opportunities for inefficiencies as well as cognitive load and patient-safety issues. A specific area of concern has been effectively supporting the cancellation of a started action.
 
-{{< legacy-img src="2016/07/600-x-425-AB-testing-A_B-split-comparison-web-conversion-test-bakhtiar_zein-iStock-Thinkstock-469994020.jpg" alt="AB testing A/B split comparison web conversion test" caption="zein, iStock, Thinkstock" >}} 
+{{< legacy-img src="2016/07/600-x-425-AB-testing-A_B-split-comparison-web-conversion-test-bakhtiar_zein-iStock-Thinkstock-469994020.jpg" alt="AB testing A/B split comparison web conversion test" caption="bakhtiar zein, iStock, Thinkstock" >}} 
 
 ## The Issue
 
