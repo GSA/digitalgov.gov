@@ -42,11 +42,12 @@
               </span>
             </p>
 
-              {{- if .Params.community_name -}}
-                <p class="host">Hosted by Digital.gov's {{ .Params.community_name }} Community</p>
-                {{- else -}}
-                <p class="host">Hosted by Digital.gov and the {{ .Params.host }} Community</p>
-              {{- end -}}
+            {{- if .Params.community_name -}}
+            <p class="host">Hosted by Digital.gov's {{ .Params.community_name }} Community</p>
+            {{- else -}}
+            <p class="host">Hosted by Digital.gov and the {{ .Params.host }} Community</p>
+            {{- end -}}
+
             {{- end -}}
           </div>
         </div>

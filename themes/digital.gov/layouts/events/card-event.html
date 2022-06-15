@@ -16,9 +16,9 @@
       {{- end -}}
 
       {{- if .Params.community_name -}}
-        <p class="host">Hosted by Digital.gov's {{ .Params.community_name }} Community</p>
-        {{- else -}}
-        <p class="host">Hosted by Digital.gov and the {{ .Params.host }} Community</p>
+      <p class="host">Hosted by Digital.gov's {{ .Params.community_name }} Community</p>
+      {{- else -}}
+      <p class="host">Hosted by Digital.gov and the {{ .Params.host }} Community</p>
       {{- end -}}
 
       <a [attr.aria-label]="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
