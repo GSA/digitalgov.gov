@@ -23,6 +23,7 @@ authors:
 slug: optimization-case-study-performance-seo-and-accessibility-with-cfpb
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: WV6wCoUNUZI
 primary_image: april-wao-event-cfpb
 ---
 
