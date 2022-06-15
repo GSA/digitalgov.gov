@@ -21,9 +21,9 @@ authors:
   - andy-chosak
   - callan-pyfer
 slug: optimization-case-study-performance-seo-and-accessibility-with-cfpb
+primary_image: april-wao-event-cfpb
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: april-wao-event-cfpb
 youtube_id: WV6wCoUNUZI
 
 ---
