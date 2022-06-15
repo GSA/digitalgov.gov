@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/uswds-june-2022-monthly-call-title-card.png
+
+# Image shortcode: {{< img src="uswds-june-2022-monthly-call-title-card" >}}
+
+date     : 2022-06-15 16:52:51 -0400
+uid      : uswds-june-2022-monthly-call-title-card
+width    : 1200
+height   : 628
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image of USWDS logo, a multi-colored triangle shapes pentagon with the lines of text on a black background. The first test line has USWDS Monthly Call in white text. The second line has June 16, 2022 in yellow text." 
