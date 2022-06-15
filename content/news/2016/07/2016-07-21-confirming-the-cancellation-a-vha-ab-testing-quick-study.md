@@ -19,6 +19,8 @@ topics:
   - veterans-health-administration
   - VHA
 
+primary_image: "a-b-testing-split-comparison-web-conversion-test-to-compare-interface-web-design-measure-bakhtiar-zein-royalty-free-getty-images-469994022"
+
 ---
 
 {{< box >}}**Summary**: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, [Veterans Health Administration](http://www.va.gov/health/) (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear button labeling that might easily confuse or slow down clinicians who encountered it, and created inconsistent messaging across the application. HFE performed a Quick Study, drawing from the suggestions of clinicians and the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}}) (UX-COP, an email listserv) to develop six mockups for an A/B comparison. The assessment concluded that clinicians preferred and performed best with button labels that clearly referred to the requested function and used verbs with opposing values to illustrate their options.{{< /box >}}
@@ -27,7 +29,7 @@ topics:
 
 Clinicians work in stressful, often chaotic environments with shifting needs and varying demands. A large part of their responsibilities require them to work within an EHR system for both viewing and adding information (such as notes) or requests (such as orders) for their patients. EHR developers refer to this action-oriented portion of their work as write-back. Write-back is crucial for patient care but also introduces multiple opportunities for inefficiencies as well as cognitive load and patient-safety issues. A specific area of concern has been effectively supporting the cancellation of a started action.
 
-{{< legacy-img src="2016/07/600-x-425-AB-testing-A_B-split-comparison-web-conversion-test-bakhtiar_zein-iStock-Thinkstock-469994020.jpg" alt="AB testing A/B split comparison web conversion test" caption="bakhtiar zein, iStock, Thinkstock" >}} 
+{{< img src="a-b-testing-split-comparison-web-conversion-test-bakhtiar-zein-royalty-free-getty-images-469994020" >}}
 
 ## The Issue
 
