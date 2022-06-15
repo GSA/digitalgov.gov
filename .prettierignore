@@ -4,8 +4,9 @@
 *.png
 *.ico
 *.gif
-*.md
+*.html
 *.yml
 *.scss
 *.css
 *.js
+*.json
