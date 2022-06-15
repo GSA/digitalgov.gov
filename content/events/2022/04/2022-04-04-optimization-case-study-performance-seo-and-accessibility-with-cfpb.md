@@ -23,7 +23,9 @@ authors:
 slug: optimization-case-study-performance-seo-and-accessibility-with-cfpb
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: WV6wCoUNUZI
 primary_image: april-wao-event-cfpb
+
 ---
 
 [View the slides (PowerPoint, 8.28 MB, 51 pages)](https://digital.gov/files/wao-cop-web-accessibility-seo-cfpb.pptx)
