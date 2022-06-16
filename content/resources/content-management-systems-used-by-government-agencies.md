@@ -51,9 +51,13 @@ We do our best to keep the list current based on information we get from agencie
 
 [Consumer Product Safety Commission](http://www.cpsc.gov/) (EpiServer)
 
-[Defense](http://www.defense.gov/) (DotNetNuke)
+[Department of Defense](http://www.defense.gov/) (DotNetNuke)
 
 * [Air Force](http://www.airforce.com/) (Broadvision (Portal))
+* [Army](https://home.army.mil/imcom/index.php) (Concrete CMS)
+* [Army MWR](https://armymwr.com/) (Concrete CMS)
+* [Army WCAP](https://www.armywcap.com/) (Concrete CMS)
+* [Army Brand Central](https://www.mwrbrandcentral.com/)(Concrete CMS)
 * [Defense Commissary Agency](http://www.commissaries.com/) (Home-grown)
 * [Defense Finance & Accounting Service](http://www.dfas.mil/) (Documentum/Plumtree/BizFlow)
 * [Defense Information Systems Agency](http://www.disa.mil/) (Sitecore)
@@ -238,6 +242,7 @@ United States Courts (Sitefinity [Intranet])
 * [California Department of Education](https://www.cde.ca.gov/) (Adobe Contribute integrated with in-house system)
 * [Caltrans: California Department of Transportation](https://dot.ca.gov/) (Sitecore)
 * [Department of Fish & Game](http://www.dfg.ca.gov/) (DotNetNuke)
+* [California Secretary of State](https://www.sos.ca.gov/) (Concrete CMS)
 
 [Georgia Department of Human Services](http://dhs.georgia.gov/) (Vignette)
 
@@ -255,7 +260,9 @@ United States Courts (Sitefinity [Intranet])
 
 [Nevada](http://nv.gov/) (Ektron CMS 400 8.6)
 
-[New York Department of Environmental Conservation](http://www.dec.ny.gov/) (RedDot)
+New York
+* [New York Department of Environmental Conservation](http://www.dec.ny.gov/) (RedDot)
+* [New York State Of Oppourtunity](https://statejobs.ny.gov/) (Concrete CMS)
 
 Texas
 
