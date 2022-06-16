@@ -105,6 +105,7 @@ jQuery(document).ready(function($) {
 		var minutes = date.getUTCMinutes().toString();
 		minutes = minutes.length > 1 ? minutes : '0' + minutes;
 		var seconds = date.getUTCSeconds().toString();
+		console.log(globalhours)
 		if (globalhours > 12 ) {
 			var ampm = 'pm';
 		} else {
