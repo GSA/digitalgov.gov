@@ -96,8 +96,10 @@ jQuery(document).ready(function($) {
 	  month = monthNames[month];
 	  var day = date.getUTCDate().toString();
 	  day = day.length > 1 ? day : '0' + day;
-		var globalhours = date.getUTCHours().toString();
-		if (globalhours > 12 ) {
+		var globalhours = parseInt(date.getUTCHours().toString());
+		if (globalhours === 0) {
+			var hours = 12;
+		} else if (globalhours > 12 ) {
 			var hours = globalhours - 12;
 		} else {
 			var hours = globalhours;
@@ -105,7 +107,6 @@ jQuery(document).ready(function($) {
 		var minutes = date.getUTCMinutes().toString();
 		minutes = minutes.length > 1 ? minutes : '0' + minutes;
 		var seconds = date.getUTCSeconds().toString();
-		console.log(globalhours)
 		if (globalhours > 12 ) {
 			var ampm = 'pm';
 		} else {
@@ -114,6 +115,4 @@ jQuery(document).ready(function($) {
 		var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ' ' + ampm + ' ET';
 	  return date_string;
 	}
-
-
 });
