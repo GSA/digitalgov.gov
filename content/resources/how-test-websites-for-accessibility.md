@@ -10,14 +10,14 @@ deck: "Use both manual and automated testing methods to create accessible websit
 summary: "Use both manual and automated testing methods to create accessible websites."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - 21st-century-idea
   - accessibility
   - 508
   - section-508
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - michael-horton
 
 # Page weight: controls how this page appears across the site
@@ -28,9 +28,7 @@ weight: 1
 
 # primary Image (for social media)
 primary_image: "gettyimages-1073019390"
-
 # Make it better ♥
-
 ---
 
 {{< youtube o7l5d6XVDuM >}}
@@ -62,7 +60,7 @@ There are several [testing methods](https://www.section508.gov/test/testing-over
 - **Manual** &mdash; Manual testing uses a documented, consistent, repeatable process;
 - **Hybrid** &mdash; A combination of automated and manual testing.
 
-You should use the hybrid approach—both manual testing by Trusted Testers and automated testing tools—to create accessible websites and digital services.  
+You should use the hybrid approach—both manual testing by Trusted Testers and automated testing tools—to create accessible websites and digital services.
 
 {{< box >}}
 **Become a Trusted Tester**

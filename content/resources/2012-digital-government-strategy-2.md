@@ -2,7 +2,7 @@
 slug: 2012-digital-government-strategy-2
 date: 2015-12-03 12:21:21 -0400
 title: 2012 Digital Government Strategy
-summary: 'The Digital Government Strategy complements several initiatives aimed at building a 21st century government that works better for the American people. These include Executive Order 13571 (Streamlining Service Delivery and Improving Customer Service), Executive Order 13576 (Delivering an Efficient, Effective, and Accountable Government), the Presidential Memorandum on Transparency and Open Government, OMB Memorandum M-10-06 (Open Government Directive), the National'
+summary: "The Digital Government Strategy complements several initiatives aimed at building a 21st century government that works better for the American people. These include Executive Order 13571 (Streamlining Service Delivery and Improving Customer Service), Executive Order 13576 (Delivering an Efficient, Effective, and Accountable Government), the Presidential Memorandum on Transparency and Open Government, OMB Memorandum M-10-06 (Open Government Directive), the National"
 topics:
   - policy
 authors:
@@ -17,14 +17,14 @@ The Digital Government Strategy incorporates a broad range of input from governm
 
 ## Related Resources
 
-* [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
-* [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
-* [OMB M-13-13 Open Data Policy—Managing Information as an Asset](http://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
-* [OMB M-10-06, Open Government Directive](http://obamawhitehouse.archives.gov/open/documents/open-government-directive) (December 2009)
-* [Guidance on the Use of Challenges and Prizes to Promote Open Government](http://obamawhitehouse.archives.gov/omb/assets/memoranda_2010/m10-11.pdf)
-* [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
+- [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
+- [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
+- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](http://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
+- [OMB M-10-06, Open Government Directive](http://obamawhitehouse.archives.gov/open/documents/open-government-directive) (December 2009)
+- [Guidance on the Use of Challenges and Prizes to Promote Open Government](http://obamawhitehouse.archives.gov/omb/assets/memoranda_2010/m10-11.pdf)
+- [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
 
-* * *
+---
 
 See more </span><span style="font-weight: 400">DigitalGov Resources</a></p>
 

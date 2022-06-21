@@ -32,7 +32,6 @@ topics:
 
 # Primary Image (for social media)
 primary_image: "card-covid-19-guidance"
-
 ---
 
 In response to Coronavirus Disease 2019 (COVID-19), and in conjunction with the White House, the US Department of Health and Human Services (HHS), and the [Federal Web Council](https://digital.gov/resources/federal-web-council/), the US Department of Homeland Security (DHS) is issuing guidance for the coordination of Federal web and social media communications related to this incident.
@@ -63,7 +62,7 @@ The White House, in collaboration with DHS and HHS, encourages agencies to featu
 
 ### Last updated June 12, 2020:
 
-**Publishing Operating Status of Federal Public Facilities**:  [OMB M-20-23 - Aligning Federal Agency Operations with the National Guidelines for Opening Up America Again](https://www.whitehouse.gov/wp-content/uploads/2020/04/M-20-23.pdf) (section II, page 9) requires federal agencies to publish the operating status of their public facilities on their website.
+**Publishing Operating Status of Federal Public Facilities**: [OMB M-20-23 - Aligning Federal Agency Operations with the National Guidelines for Opening Up America Again](https://www.whitehouse.gov/wp-content/uploads/2020/04/M-20-23.pdf) (section II, page 9) requires federal agencies to publish the operating status of their public facilities on their website.
 
 As your agency begins to reopen public-facing facilities, please publish this information on your `agency.gov/coronavirus` page to help people easily determine which federal facilities are currently open to the public.
 
@@ -83,7 +82,7 @@ Please contact your [Federal Web Council representative](https://digital.gov/res
 {{< accordion kicker="Previous update" title="**April 28, 2020**:" >}}
 
 - **Guidelines for Opening Up America Again**: On April 27, President Trump announced the [Guidelines for Opening Up America Again](https://www.whitehouse.gov/openingamerica/), a three-phased approach based on the advice of public health experts (related [image assets](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/css/microsites/opening-america-logo-2x.png)).
-{{< /accordion >}}
+  {{< /accordion >}}
 
 {{< accordion kicker="Previous update" title="**April 16, 2020**:" >}}
 
@@ -93,10 +92,8 @@ Please contact your [Federal Web Council representative](https://digital.gov/res
 
 - **Coronavirus Tax Relief**: The Internal Revenue Service (IRS) is offering [Coronavirus Tax Relief](http://www.irs.gov/coronavirus) for individuals, businesses, tax-exempt organizations and others affected by coronavirus (COVID-19). This includes information on Economic Impact Payments going to millions of people.
 
-- **OPM Open Opportunities**: The OPM COVID-19 Response Program is using [Open Opportunities](https://openopps.usajobs.gov/) as a central location for federal agencies to post details and temporary assignments related to coronavirus (COVID-19). Open Opportunities is a governmentwide platform offering professional development opportunities to current federal employees. If your agency is interested in participating:
-    - Email [workforce@opm.gov](mailto:workforce@opm.gov) so OPM can invite you to a virtual information session.
-    - Post details and temporary assignments to [Open Opportunities](https://openopps.usajobs.gov/).
-{{< /accordion >}}
+- **OPM Open Opportunities**: The OPM COVID-19 Response Program is using [Open Opportunities](https://openopps.usajobs.gov/) as a central location for federal agencies to post details and temporary assignments related to coronavirus (COVID-19). Open Opportunities is a governmentwide platform offering professional development opportunities to current federal employees. If your agency is interested in participating: - Email [workforce@opm.gov](mailto:workforce@opm.gov) so OPM can invite you to a virtual information session. - Post details and temporary assignments to [Open Opportunities](https://openopps.usajobs.gov/).
+  {{< /accordion >}}
 
 {{< accordion kicker="Previous update" title="**April 1, 2020**:" >}}
 
@@ -116,7 +113,7 @@ Second, **STAY IN YOUR LANE**. Only post information directly related to your ag
 
 - Once your agency’s page is live, please **FORWARD THE LINK** to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov) for inclusion on the “What the U.S. Government is Doing” lane on USA.gov.
 
-- If you add a significant news release or update to the public, please **FORWARD THE URL OF THE ARTICLE** to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov)  for inclusion as well.
+- If you add a significant news release or update to the public, please **FORWARD THE URL OF THE ARTICLE** to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov) for inclusion as well.
 
 Third, **LINK TO THE <a href="#lanes-of-communication">PRIMARY LANES OF COMMUNICATION**</a> for the disease.
 

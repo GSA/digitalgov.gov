@@ -1,14 +1,14 @@
 ---
 # What is the name of the product or service?
-title: 'Accessibility for Teams'
+title: "Accessibility for Teams"
 
 # Keep it short — should be no longer than 10 words.
-deck: 'A guide to making products more accessible for everyone.'
-summary: 'A guide to making products more accessible for everyone.'
+deck: "A guide to making products more accessible for everyone."
+summary: "A guide to making products more accessible for everyone."
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-source_url: 'https://accessibility.digital.gov/'
+source_url: "https://accessibility.digital.gov/"
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
@@ -27,5 +27,4 @@ topics:
   - accessibility
   - design
   - user-experience
-
 ---

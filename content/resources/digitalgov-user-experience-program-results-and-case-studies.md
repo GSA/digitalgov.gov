@@ -1,7 +1,7 @@
 ---
 slug: digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies
 date: 2014-01-16 11:01:12 -0400
-title: 'Fueleconomy.gov &#8211; Extended Case Study'
+title: "Fueleconomy.gov &#8211; Extended Case Study"
 summary: "Like any valid business decision, User Experience work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our Usability Case Studies. Or see a more complete case study below. Case Study: Fueleconomy.gov Mobile Site In December of 2012"
 topics:
   - user-experience
@@ -17,7 +17,7 @@ Like any valid business decision, [User Experience](http://www.usability.gov/wha
 
 [{{< legacy-img src="/2014/01/fueleconomy.gov_-2.jpg" alt="Screenshot of Fueleconomy.gov's mobile site" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/fueleconomy.gov_-2.jpg)In December of 2012 the U.S. Department of Energy contacted us for help with their fueleconomy.gov [mobile site](http://fueleconomy.gov/m/). They wanted to conduct some user research to understand their customer&#8217;s needs, and then run a user test (also called a usability test) to see how people actually interacted with the site.
 
-After reviewing metrics, business goals and [top tasks](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html) for fueleconomy.gov, we worked with their team to develop interview questions for their customers. We selected and called six users and potential users about the site and their habits online. Using those [user interview results](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/summary-interviews-fueleconomy-mobile-site.doc)**** (MS Word, 36 KB, 5 pages, November 2013), we developed a [usability test script](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/usability-testing-script-fueleconomy.doc) (MS Word, 232 KB, 13 pages, November 2013). We spent about a month preparing for the test, and scheduled it in February of 2013.
+After reviewing metrics, business goals and [top tasks](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html) for fueleconomy.gov, we worked with their team to develop interview questions for their customers. We selected and called six users and potential users about the site and their habits online. Using those [user interview results](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/summary-interviews-fueleconomy-mobile-site.doc)\*\*\*\* (MS Word, 36 KB, 5 pages, November 2013), we developed a [usability test script](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/usability-testing-script-fueleconomy.doc) (MS Word, 232 KB, 13 pages, November 2013). We spent about a month preparing for the test, and scheduled it in February of 2013.
 
 We invited the fueleconomy.gov team to observe the test so they could learn about usability and how a test works. We also invited other agencies to the test as well. We tested three people, and focused on what people said were things they were most interested in, or were confused by. The customers gave real, unbiased feedback about things they liked and didn&#8217;t like.
 

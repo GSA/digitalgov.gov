@@ -30,9 +30,7 @@ weight: 2
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /resources/spanish-language-style-guide-and-glossaries/
-
 # Make it better ♥
-
 ---
 
 The bilingual glossaries, dictionaries, and Spanish language style guides available in this section are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in languages other than English.
@@ -46,7 +44,7 @@ The Bilingual Dictionary from the National Cancer Institute is a collection of o
 **Multilingual Language Style Guides**
 The Multilingual Language Style Guides contain information on grammar and style issues to standardize the use of languages across government. Also includes style guides from other government entities.
 
-**_Note_**: This is a living page, please help us update it, improve it and make it more comprehensive.  Send updates to existing resources, new resources and comments to [Laura Godfrey](mailto:laura.godfrey@gsa.gov), Lead, [Multilingual Community of Practice](https://digital.gov/communities/multilingual/).
+**_Note_**: This is a living page, please help us update it, improve it and make it more comprehensive. Send updates to existing resources, new resources and comments to [Laura Godfrey](mailto:laura.godfrey@gsa.gov), Lead, [Multilingual Community of Practice](https://digital.gov/communities/multilingual/).
 
 ## Government Bilingual Glossaries
 
@@ -60,7 +58,7 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 Unmanned Aircraft Systems (UAS), UAS en Espanol:
 
-* [UAS LEP (limited English proficient) Initiative Spanish Glossary](https://www.faa.gov/uas/espanol/glosario/)
+- [UAS LEP (limited English proficient) Initiative Spanish Glossary](https://www.faa.gov/uas/espanol/glosario/)
 
 #### U.S. Small Business Administration (SBA), Office of Communications and Public Liaison (OCPL)
 
@@ -72,18 +70,18 @@ Unmanned Aircraft Systems (UAS), UAS en Espanol:
 
 Social Security Information in Other Languages:
 
-* [American Sign Language - watch on YouTube](https://www.youtube.com/watch?v=H9T8cDmFVEg)
-* [Arabic](https://www.ssa.gov/multilanguage/Arabic/arabic.htm)
-* [Chinese (Traditional; Long Form)](https://www.ssa.gov/multilanguage/Chinese/chinese.htm)
-* [Farsi](https://www.ssa.gov/multilanguage/Farsi/farsi.htm)
-* [French](https://www.ssa.gov/multilanguage/French/french.htm)
-* [Greek](https://www.ssa.gov/multilanguage/Greek/greek.htm)
-* [Italian](https://www.ssa.gov/multilanguage/Italian/italian.htm)
-* [Korean](https://www.ssa.gov/multilanguage/Korean/korean.htm)
-* [Polish](https://www.ssa.gov/multilanguage/Polish/polish.htm)
-* [Portuguese](https://www.ssa.gov/multilanguage/Portuguese/portuguese.htm)
-* [Russian](https://www.ssa.gov/multilanguage/Russian/russian.htm)
-* [Vietnamese](https://www.ssa.gov/multilanguage/Vietname/vietnamese.htm)
+- [American Sign Language - watch on YouTube](https://www.youtube.com/watch?v=H9T8cDmFVEg)
+- [Arabic](https://www.ssa.gov/multilanguage/Arabic/arabic.htm)
+- [Chinese (Traditional; Long Form)](https://www.ssa.gov/multilanguage/Chinese/chinese.htm)
+- [Farsi](https://www.ssa.gov/multilanguage/Farsi/farsi.htm)
+- [French](https://www.ssa.gov/multilanguage/French/french.htm)
+- [Greek](https://www.ssa.gov/multilanguage/Greek/greek.htm)
+- [Italian](https://www.ssa.gov/multilanguage/Italian/italian.htm)
+- [Korean](https://www.ssa.gov/multilanguage/Korean/korean.htm)
+- [Polish](https://www.ssa.gov/multilanguage/Polish/polish.htm)
+- [Portuguese](https://www.ssa.gov/multilanguage/Portuguese/portuguese.htm)
+- [Russian](https://www.ssa.gov/multilanguage/Russian/russian.htm)
+- [Vietnamese](https://www.ssa.gov/multilanguage/Vietname/vietnamese.htm)
 
 ### Election Terminology
 
@@ -97,11 +95,11 @@ The U.S. Election Assistance Commission offers translations of Glossary of Elect
 
 The Bureau has more than 1,200 words and terms in five languages:
 
-* [Glossary of English-Chinese Financial Terms (PDF, 999 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf)
-* [Glossary of English-Spanish Financial Terms (PDF, 705 kb, 78 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf)
-* [Glossary of English-Vietnamese Financial Terms (PDF, 875 kb, 73 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_vietnamese-style-guide-glossary.pdf)
-* [Glossary of English-Korean Financial Terms (PDF, 947 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_korean-style-guide-glossary.pdf)
-* [Glossary of English-Tagalog Financial Terms (PDF, 674 kb, 82 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_tagalog-style-guide-glossary.pdf)
+- [Glossary of English-Chinese Financial Terms (PDF, 999 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf)
+- [Glossary of English-Spanish Financial Terms (PDF, 705 kb, 78 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf)
+- [Glossary of English-Vietnamese Financial Terms (PDF, 875 kb, 73 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_vietnamese-style-guide-glossary.pdf)
+- [Glossary of English-Korean Financial Terms (PDF, 947 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_korean-style-guide-glossary.pdf)
+- [Glossary of English-Tagalog Financial Terms (PDF, 674 kb, 82 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_tagalog-style-guide-glossary.pdf)
 
 #### Federal Housing Finance Agency (FHFA)
 
@@ -111,12 +109,12 @@ FHFA (along with partner agencies) has created a searchable [English-Spanish Glo
 
 The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS** is currently available for download in six languages (all were last revised in August, 2018):
 
-* Publication 850 (EN-CN-S): [English-Chinese [Simplified]](https://www.irs.gov/pub/irs-pdf/p850encs.pdf) (1.5 MB PDF, 18 pages)
-* Publication 850 (EN-CN-T): [English-Chinese [Traditional]](https://www.irs.gov/pub/irs-pdf/p850enct.pdf) (1.5 MB PDF, 18 pages)
-* Publication 850 (EN-KR): [English-Korean](https://www.irs.gov/pub/irs-pdf/p850enkr.pdf) (1.4 MB PDF, 20 pages)
-* Publication 850 (EN-RU): [English-Russian](https://www.irs.gov/pub/irs-pdf/p850enru.pdf) (1.4 MB PDF, 25 pages)
-* Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages)
-* Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages)
+- Publication 850 (EN-CN-S): [English-Chinese [Simplified]](https://www.irs.gov/pub/irs-pdf/p850encs.pdf) (1.5 MB PDF, 18 pages)
+- Publication 850 (EN-CN-T): [English-Chinese [Traditional]](https://www.irs.gov/pub/irs-pdf/p850enct.pdf) (1.5 MB PDF, 18 pages)
+- Publication 850 (EN-KR): [English-Korean](https://www.irs.gov/pub/irs-pdf/p850enkr.pdf) (1.4 MB PDF, 20 pages)
+- Publication 850 (EN-RU): [English-Russian](https://www.irs.gov/pub/irs-pdf/p850enru.pdf) (1.4 MB PDF, 25 pages)
+- Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages)
+- Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages)
 
 #### Pension Benefit Guaranty Corporation (PBGC)
 
@@ -161,8 +159,8 @@ Below is a compilation of available resources from different education organizat
 
 The National Cancer Institute has a dictionary of cancer terms in English and Spanish.
 
-* English: https://www.cancer.gov/publications/dictionaries/cancer-terms
-* Spanish: https://www.cancer.gov/espanol/publicaciones/diccionario
+- English: https://www.cancer.gov/publications/dictionaries/cancer-terms
+- Spanish: https://www.cancer.gov/espanol/publicaciones/diccionario
 
 ## Multilingual Language Style Guides
 

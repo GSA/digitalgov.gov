@@ -1,14 +1,13 @@
 ---
 slug: government-customer-service-policies-requirements-1993-to-present
 date: 2016-01-07 5:41:53 -0400
-title: 'Government Customer Service Policies & Requirements: 1993 to Present'
-summary: 'A list of government customer service policies and requirements.'
+title: "Government Customer Service Policies & Requirements: 1993 to Present"
+summary: "A list of government customer service policies and requirements."
 topics:
   - policy
   - customer-service
 authors:
   - rflagg
-
 ---
 
 December 2021 — [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
@@ -77,19 +76,19 @@ Build digital services that meet the needs and expectations of the American peop
 
 Digital Service Plays:
 
-* Understand what people need
-* Address the whole experience, from start to finish
-* Make it simple and intuitive
-* Build the service using agile and iterative practices
-* Structure budgets and contracts to support delivery
-* Assign one leader and hold that person accountable
-* Bring in experienced teams
-* Choose a modern technology stack
-* Deploy in a flexible hosting environment
-* Automate testing and deployments
-* Manage security and privacy through reusable processes
-* Use data to drive decisions
-* Default to open
+- Understand what people need
+- Address the whole experience, from start to finish
+- Make it simple and intuitive
+- Build the service using agile and iterative practices
+- Structure budgets and contracts to support delivery
+- Assign one leader and hold that person accountable
+- Bring in experienced teams
+- Choose a modern technology stack
+- Deploy in a flexible hosting environment
+- Automate testing and deployments
+- Manage security and privacy through reusable processes
+- Use data to drive decisions
+- Default to open
 
 **March 2014 — [Cross-Agency Priority (CAP) Goal &#8211; Customer Service](http://www.performance.gov/node/3400?view=public#apg)**
 
@@ -97,9 +96,9 @@ Created the new set of CAP goals – including customer service.
 
 GOAL STATEMENT: Deliver world-class customer services to citizens by making it faster and easier for individuals and businesses to complete transactions and have a positive experience with government.
 
-* Streamline transactions.
-* Develop standards for high impact services.
-* Utilize technology to improve the customer experience.
+- Streamline transactions.
+- Develop standards for high impact services.
+- Utilize technology to improve the customer experience.
 
 **May 2012 — [Digital Government &#8211; Building a 21st Century Platform to Better Serve the American People](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html)**
 
@@ -107,9 +106,9 @@ Design and deliver digital services with customer service first in mind and refl
 
 Use customer-centric design principles; focus efforts where they’ll have the most impact and value; institutionalize performance measurement, and continuously improve services in response to those measurements.
 
-* Deliver Better Digital Services Using Modern Tools and Technologies
-* Improve Priority Customer-Facing Services for Mobile Use
-* Measure Performance and Customer Satisfaction to Improve Service Delivery
+- Deliver Better Digital Services Using Modern Tools and Technologies
+- Improve Priority Customer-Facing Services for Mobile Use
+- Measure Performance and Customer Satisfaction to Improve Service Delivery
 
 **June 15, 2011 — [OMB M-11-26 &#8211; Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act (PDF, 200 kb, 4 pages, June 2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf)**
 
@@ -119,17 +118,17 @@ Established the Fast-Track PRA review, reducing the time required for agencies t
 
 Requires that agencies develop customer service standards that are &#8220;understandable to the public, easily accessible at the point of service and on the Internet, and measurable (where appropriate); where possible, standards should include targets for speed, quality/accuracy, and satisfaction.&#8221;
 
-* Improve Customer Service Delivery
-    * Publish Customer Service Plans
-    * OMB Establish a Customer Service Task Force
-* Advance Customer Service through Innovative Technology
-    * Each agency establish one &#8220;signature initiative&#8221; that uses technology to improve the customer experience
-* Solicit Timely Customer Feedback
-    * Office of Information and Regulatory Affairs (OIRA) create a Paperwork Reduction Act &#8220;Fast Track&#8221; review process and Provide Guidance on Customer Feedback Options
-* Improve Online Services
-    * Freeze Establishment of New Federal Executive Branch Domains
-    * Update .Gov Domain Policy and Guidelines
-    * Eliminate Duplicative and Outdated Websites
+- Improve Customer Service Delivery
+    - Publish Customer Service Plans
+    - OMB Establish a Customer Service Task Force
+- Advance Customer Service through Innovative Technology
+    - Each agency establish one &#8220;signature initiative&#8221; that uses technology to improve the customer experience
+- Solicit Timely Customer Feedback
+    - Office of Information and Regulatory Affairs (OIRA) create a Paperwork Reduction Act &#8220;Fast Track&#8221; review process and Provide Guidance on Customer Feedback Options
+- Improve Online Services
+    - Freeze Establishment of New Federal Executive Branch Domains
+    - Update .Gov Domain Policy and Guidelines
+    - Eliminate Duplicative and Outdated Websites
 
 **April 27, 2011 — [Executive Order 13571 &#8211; Streamlining Service Delivery and Improving Customer Service](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser)**
 
@@ -137,12 +136,12 @@ Requires agencies to develop, in consultation with the Office of Management and 
 
 Requirements include:
 
-* Establishing one major initiative (signature initiative) that will use technology to improve the customer experience;
-* Establishing mechanisms to solicit customer feedback on Government services and using such feedback regularly to make service improvements;
-* Setting clear customer service standards and expectations, including, where appropriate, performance goals for customer service required by the GPRA (Government Performance and Results) Modernization Act of 2010 (Public Law 111-352);
-* Improving the customer experience by adopting proven customer service best practices and coordinating across service channels (such as online, phone, in-person, and mail services);
-* Streamlining agency processes to reduce costs and accelerate delivery, while reducing the need for customer calls and inquiries; and
-* Identifying ways to use innovative technologies to accomplish the customer service activities above, thereby lowering costs, decreasing service delivery times, and improving the customer experience.
+- Establishing one major initiative (signature initiative) that will use technology to improve the customer experience;
+- Establishing mechanisms to solicit customer feedback on Government services and using such feedback regularly to make service improvements;
+- Setting clear customer service standards and expectations, including, where appropriate, performance goals for customer service required by the GPRA (Government Performance and Results) Modernization Act of 2010 (Public Law 111-352);
+- Improving the customer experience by adopting proven customer service best practices and coordinating across service channels (such as online, phone, in-person, and mail services);
+- Streamlining agency processes to reduce costs and accelerate delivery, while reducing the need for customer calls and inquiries; and
+- Identifying ways to use innovative technologies to accomplish the customer service activities above, thereby lowering costs, decreasing service delivery times, and improving the customer experience.
 
 Requires agencies to post customer service metrics and best practices online.
 
@@ -162,9 +161,9 @@ Laid the groundwork for a transparent, participatory and collaborative governmen
 
 Open Government Plan:
 
-* **Transparency**: describe steps the agency will take to conduct its work more openly and publish its information online
-* **Participation**: promote opportunities for the public to participate throughout the decision-making process.
-* **Collaboration**: further cooperation with other federal and non-federal governmental agencies, the public, and nonprofit and private entities in fulfilling the agency’s core mission activities
+- **Transparency**: describe steps the agency will take to conduct its work more openly and publish its information online
+- **Participation**: promote opportunities for the public to participate throughout the decision-making process.
+- **Collaboration**: further cooperation with other federal and non-federal governmental agencies, the public, and nonprofit and private entities in fulfilling the agency’s core mission activities
 
 **December 2002 — [E-Government Act of 2002](https://www.archives.gov/about/laws/egov-act-section-207.html)**
 
@@ -182,10 +181,10 @@ Further stated that the government is customer-driven and customer-focused, and 
 
 Agencies shall “on an ongoing basis measure results achieved against the customer service standards and should also include customer satisfaction as a measure.
 
-* Measure results achieved against the customer service standards and report those results to customers at least annually;
-* Integrate development and tracking of customer service measures, standards, and performance with other performance initiatives
-* Survey employees on ideas to improve customer service, motivate and recognize employees for meeting or exceeding customer service standards.
-* Initiate and support actions that cut across agency lines to serve shared customers
+- Measure results achieved against the customer service standards and report those results to customers at least annually;
+- Integrate development and tracking of customer service measures, standards, and performance with other performance initiatives
+- Survey employees on ideas to improve customer service, motivate and recognize employees for meeting or exceeding customer service standards.
+- Initiate and support actions that cut across agency lines to serve shared customers
 
 Customer service standards should relate to legislative activities, including strategic planning and performance measurement under the Government Performance and Results Act of 1993, reporting on financial and program performance under the Chief Financial Officers Act of 1990, and the Government Management and Reform Act of 1994.
 
@@ -195,22 +194,22 @@ Requires agencies to establish and implement customer service standards; survey 
 
 Agencies shall take the following actions:
 
-* identify the customers who are, or should be, served by the agency;
-* survey customers to determine the kind and quality of services they want and their level of satisfaction with existing services;
-* post service standards and measure results against them;
-* benchmark customer service performance against the best in business;
-* survey front-line employees on barriers to, and ideas for, matching the best in business;
-* provide customers with choices in both the sources of service and the means of delivery;
-* make information, services, and complaint systems easily accessible; and
-* provide means to address customer complaints.
+- identify the customers who are, or should be, served by the agency;
+- survey customers to determine the kind and quality of services they want and their level of satisfaction with existing services;
+- post service standards and measure results against them;
+- benchmark customer service performance against the best in business;
+- survey front-line employees on barriers to, and ideas for, matching the best in business;
+- provide customers with choices in both the sources of service and the means of delivery;
+- make information, services, and complaint systems easily accessible; and
+- provide means to address customer complaints.
 
 **January 5, 1993 — [Government Performance and Results Act (GPRA)](https://www.congress.gov/bill/103rd-congress/senate-bill/00020)**
 
 Set performance goals, measure results, publicly report progress. New focus on results, service quality and customer satisfaction. The purposes of this Act are to:
 
-* Improve the confidence of the American people in the capability of the federal government, by systematically holding federal agencies accountable for achieving program results;
-* Initiate program performance reform with a series of pilot projects in setting program goals, measuring program performance against those goals, and reporting publicly on their progress;
-* Improve federal program effectiveness and public accountability by promoting a new focus on results, service quality, and customer satisfaction;
-* Help federal managers improve service delivery, by requiring that they plan for meeting program objectives and by providing them with information about program results and service quality;
-* Improve congressional decision-making by providing more objective information on achieving statutory objectives, and on the relative effectiveness and efficiency of federal programs and spending; and
-* Improve internal management of the federal government.
+- Improve the confidence of the American people in the capability of the federal government, by systematically holding federal agencies accountable for achieving program results;
+- Initiate program performance reform with a series of pilot projects in setting program goals, measuring program performance against those goals, and reporting publicly on their progress;
+- Improve federal program effectiveness and public accountability by promoting a new focus on results, service quality, and customer satisfaction;
+- Help federal managers improve service delivery, by requiring that they plan for meeting program objectives and by providing them with information about program results and service quality;
+- Improve congressional decision-making by providing more objective information on achieving statutory objectives, and on the relative effectiveness and efficiency of federal programs and spending; and
+- Improve internal management of the federal government.

@@ -14,5 +14,4 @@ topics:
 # 2 -- highlighted
 weight: 2
 slug: chief-information-officer-cio-handbook
-
 ---

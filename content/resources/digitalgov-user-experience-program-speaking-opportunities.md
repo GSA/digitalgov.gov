@@ -1,8 +1,8 @@
 ---
 slug: digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities
 date: 2014-01-16 11:12:13 -0400
-title: 'DigitalGov User Experience Program: Speaking Opportunities'
-summary: 'The DigitalGov User Experience Program presents to federal audiences by phone, webinar and in person. We cover a variety of topics, including: User Centered Design and Usability Best (and Worst) Practices on Government Websites How to Improve Federal Digital Services and more Potential audiences include: CIOs'
+title: "DigitalGov User Experience Program: Speaking Opportunities"
+summary: "The DigitalGov User Experience Program presents to federal audiences by phone, webinar and in person. We cover a variety of topics, including: User Centered Design and Usability Best (and Worst) Practices on Government Websites How to Improve Federal Digital Services and more Potential audiences include: CIOs"
 topics:
   - user-experience
 authors:
@@ -11,10 +11,10 @@ authors:
 
 The DigitalGov User Experience Program presents to federal audiences by phone, webinar and in person. We cover a variety of topics, including:
 
-* User Centered Design and Usability
-* Best (and Worst) Practices on Government Websites
-* How to Improve Federal Digital Services
-* and more
+- User Centered Design and Usability
+- Best (and Worst) Practices on Government Websites
+- How to Improve Federal Digital Services
+- and more
 
 <p style="text-align: center">
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/speaking-opportunities-2.png">{{< legacy-img src="/2014/01/speaking-opportunities-2.png" alt="A person presenting before a crowd." >}}</a>
@@ -22,11 +22,11 @@ The DigitalGov User Experience Program presents to federal audiences by phone, w
 
 Potential audiences include:
 
-* CIOs and management
-* Program managers
-* Content teams
-* Developers
-* User Experience staff
+- CIOs and management
+- Program managers
+- Content teams
+- Developers
+- User Experience staff
 
 <a href="mailto:govux@gsa.gov">Email the DigitalGov User Experience Program team</a> to invite them to speak at your agency.
 
@@ -36,7 +36,7 @@ Potential audiences include:
 
 {{< youtube GwBBtTkUAcA >}}
 
-**Usability Testing and Debriefing Best Practices** (March  2012)
+**Usability Testing and Debriefing Best Practices** (March 2012)
 
 {{< youtube n8d8AHQ-lwE >}}
 

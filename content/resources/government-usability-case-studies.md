@@ -36,6 +36,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Developed personas about Spanish-speaking users
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -60,6 +61,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Discovering which links are really valuable
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -84,6 +86,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Clarify Terms and Provide Consistent Formatting
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -111,6 +114,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Make error message helpful
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -135,6 +139,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Quick links for vital, high-frequency content
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -159,6 +164,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Repeat every 18-24 months
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -183,6 +189,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Retire old and unpopular content
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -207,6 +214,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         It’s not a sprint, so think long-term
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -229,6 +237,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Did iterative (repeat) testing for maximum results
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -251,6 +260,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Removed unnecessary and confusing elements
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -273,6 +283,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Did iterative (repeat) testing for maximum results
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -295,6 +306,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Created an ongoing system of collecting usability feedback
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -317,6 +329,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Added a &#8220;Learn More&#8221; button at bottom of the page
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -339,6 +352,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Increased font size to 10 points for better readability
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -361,6 +375,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Included &#8220;trackability&#8221; functionality in online forms
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -383,6 +398,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Made text fonts and styles consistent throughout site
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -405,6 +421,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Added more information about &#8220;Comments Received&#8221; function
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -427,6 +444,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Improved navigation by creating clearer icons
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -449,6 +467,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Defined purpose and scope of search box
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -471,6 +490,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Made Twitter icon more prominent
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -490,6 +510,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Added &#8220;Quick Links&#8221; so users can find popular information quicker
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -512,6 +533,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Significantly reduced text on homepage for cleaner interface
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -534,6 +556,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Replaced confusing acronyms with plain language
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -556,6 +579,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Eliminated distracting animation
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -578,6 +602,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Placed new information in more prominent place on homepage
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -594,6 +619,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Used clear labeling to indicate reports with most recent data
       </li>
     </ul>
+
   </div>
 </blockquote>
 
@@ -616,5 +642,6 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
         Added graphics to highlight timely, relevant information
       </li>
     </ul>
+
   </div>
 </blockquote>

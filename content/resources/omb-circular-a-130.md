@@ -1,10 +1,10 @@
 ---
 # What is the name of the product or service?
-title: 'OMB Circular A-130'
+title: "OMB Circular A-130"
 
 # Keep it short — should be no longer than 10 words.
-deck: 'Managing Information as a Strategic Resource'
-summary: 'Managing Information as a Strategic Resource'
+deck: "Managing Information as a Strategic Resource"
+summary: "Managing Information as a Strategic Resource"
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
@@ -25,5 +25,4 @@ topics:
   - security
   - governance
   - product-management
-
 ---

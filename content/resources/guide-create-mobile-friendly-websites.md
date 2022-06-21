@@ -1,15 +1,14 @@
 ---
 slug: guide-create-mobile-friendly-websites
 date: 2018-09-29 12:30:00 -0500
-title: 'A Guide to Creating Mobile-Friendly Websites'
-summary: 'Based on a recent six-month study, this guide outlines the top five practices needed to improve the mobile-friendliness of federal websites&#58; the optimization of JavaScript, CSS, and images, caching, and pop-ups&#46;'
+title: "A Guide to Creating Mobile-Friendly Websites"
+summary: "Based on a recent six-month study, this guide outlines the top five practices needed to improve the mobile-friendliness of federal websites&#58; the optimization of JavaScript, CSS, and images, caching, and pop-ups&#46;"
 featured_image:
   uid: army-mobile
 topics:
   - mobile
   - strategy
 deck: Five tactics for improving the performance of your website
-
 ---
 
 > This guide was created by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration
@@ -215,7 +214,7 @@ Reducing the number of times your application requests and processes resources w
 
 **Issue** - Fetching resources over the network is both slow and expensive and the download may require multiple round-trips between the client and server, which delays processing and may block rendering of page content. This can also incur data costs for the visitor. All server responses should specify a caching policy to help the client determine if and when they can reuse a previously fetched response.
 
-**Solution** - Leverage browser caching by changing the request headers of your resources to use caching. You can either  add some code to the `.htaccess` configuration file on the web host/server or use the basic `Cache-Control` HTTP header (see below).
+**Solution** - Leverage browser caching by changing the request headers of your resources to use caching. You can either add some code to the `.htaccess` configuration file on the web host/server or use the basic `Cache-Control` HTTP header (see below).
 
 ```
 Cache-Control: max-age=2592000, public

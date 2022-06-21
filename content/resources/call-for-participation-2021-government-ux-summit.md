@@ -23,12 +23,11 @@ authors:
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
-
 ---
 
 ## Call for Presenters
 
-Join us as presenters for the 2021 Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.  Our fully virtual event will be held June 22-24, 2021.
+Join us as presenters for the 2021 Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government. Our fully virtual event will be held June 22-24, 2021.
 
 Only U.S. government employees (federal, state, tribal, and local) and contractors with a U.S. government email address—and with their agency’s approval—are eligible to present. This is to ensure that the event supports government UX work.
 
@@ -44,14 +43,14 @@ A committee of government employees will review the submissions and select the p
 
 ### Topics
 
-* Case studies of UX projects or programs
-* Conducting UX work in a fully remote environment
-* Using design and evaluation methods
-* Working with the U.S. Web Design System tools
-* Starting, building, or managing a government UX program
-* Government-specific challenges and obstacles
-* UX and Agile
-* Using Human-Centered Design approaches to innovate
+- Case studies of UX projects or programs
+- Conducting UX work in a fully remote environment
+- Using design and evaluation methods
+- Working with the U.S. Web Design System tools
+- Starting, building, or managing a government UX program
+- Government-specific challenges and obstacles
+- UX and Agile
+- Using Human-Centered Design approaches to innovate
 
 See the presentations from the [2019 Government UX Summit](https://digital.gov/event/2019/05/15/2019-government-ux-summit/) and the [2020 Government UX Summit](https://digital.gov/event/2020/07/28/2020-government-ux-summit/).
 
@@ -59,11 +58,11 @@ See the presentations from the [2019 Government UX Summit](https://digital.gov/
 
 We’re looking for presentations in the following formats:
 
-* 10-minute presentations, where speakers can present short discussions or brief highlights
-* 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
+- 10-minute presentations, where speakers can present short discussions or brief highlights
+- 45-minute presentations, where speakers can discuss case studies or share lessons learned with a project or method
 
-- - -
+---
 
 The 2021 Government UX Summit is sponsored by the [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) and Digital.gov.
 
-*[Join the UX CoP](https://digital.gov/communities/user-experience/) — a group of more than 1,400 federal, tribal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide webinars, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join.*
+_[Join the UX CoP](https://digital.gov/communities/user-experience/) — a group of more than 1,400 federal, tribal, state, and local U.S. government employees and contractors who are interested in applying UX methods to create efficient, effective, and useful products and systems. We provide webinars, networking, and support for government UX practitioners. Anyone with an interest in UX and a U.S. government email address is encouraged to join._

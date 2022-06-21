@@ -1,9 +1,9 @@
 ---
 slug: connected-government-act
 date: 2018-06-25 9:00:00 -0400
-title: 'Connected Government Act'
-summary: 'Resources to help your agency comply with the Connected Government Act.'
-deck: 'As of July of 2018, all new and redesigned agency websites are required to be mobile friendly.'
+title: "Connected Government Act"
+summary: "Resources to help your agency comply with the Connected Government Act."
+deck: "As of July of 2018, all new and redesigned agency websites are required to be mobile friendly."
 featured_image:
   uid: hr2331-connected-govt-act
 topics:
@@ -36,10 +36,8 @@ This Act may be cited as the "Connected Government Act".
 
 - "(a) (NOTE: Time period.) In General.--{{< highlight >}}If, on or after the date that is 180 days after the date of the enactment of this section, an agency creates a website that is intended for use by the public or conducts a redesign of an existing legacy website that is intended for use by the public, the agency shall ensure to the greatest extent practicable that the website is mobile friendly.{{< /highlight >}}
 
-- "(b) Definitions.--In this section:
-    - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5.
-    - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< /highlight >}}".
-{{< /card-policy >}}
+- "(b) Definitions.--In this section: - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5. - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< /highlight >}}".
+  {{< /card-policy >}}
 
 ## What Is Mobile-Friendly?
 
@@ -126,7 +124,7 @@ If your mobile product breaks a user’s phone, you are not creating a good expe
 - **A Guide to Creating Mobile-Friendly Websites** <br />https://digital.gov/resources/guide-improve-mobile-friendly-websites/
 - **Speed Matters When Measuring Responsive Web Design Performance Load Times** <br />During the MobileGov Around the Horn Call, the AIDS.gov team laid out why performance testing is important for government, how they approach the testing and some tools agencies use for testing. <br />https://www.digitalgov.gov/2014/11/18/trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times/
 - **Performance Guidelines** <br />The U.S. Web Design System team embarked on a 3-month research effort to better understand what performance means to U.S. government web teams of all shapes and sizes, and we’re excited to share the results with you. <br />https://designsystem.digital.gov/performance/
-- **New ITIF Report Inspires a Closer Look at Website Performance and Security—Here Is Where to Begin** <br />The Information Technology & Innovation Foundation (ITIF) published a report  that looked at the page load speed, mobile-friendliness, security and accessibility of the top 297 government websites. And based on the four benchmark areas, we’ve pulled together a number of resources and tools to help your agency’s website provide better access to services and information. <br />https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
+- **New ITIF Report Inspires a Closer Look at Website Performance and Security—Here Is Where to Begin** <br />The Information Technology & Innovation Foundation (ITIF) published a report that looked at the page load speed, mobile-friendliness, security and accessibility of the top 297 government websites. And based on the four benchmark areas, we’ve pulled together a number of resources and tools to help your agency’s website provide better access to services and information. <br />https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
 
 ## Case Studies and Good Examples
 

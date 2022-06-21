@@ -1,17 +1,17 @@
 ---
 # What is the name of the product or service?
-title: '18F Accessibility Guide'
+title: "18F Accessibility Guide"
 
 # Keep it short — should be no longer than 10 words.
-deck: 'A resource for developing accessible products.'
-summary: 'A resource for developing accessible products.'
+deck: "A resource for developing accessible products."
+summary: "A resource for developing accessible products."
 
 # What source published this?
-source: '18f'
+source: "18f"
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-source_url: 'https://accessibility.18f.gov/'
+source_url: "https://accessibility.18f.gov/"
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
@@ -30,5 +30,4 @@ topics:
   - accessibility
   - design
   - user-experience
-
 ---

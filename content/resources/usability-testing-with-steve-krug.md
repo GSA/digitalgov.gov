@@ -31,6 +31,5 @@ authors:
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
-
 # Make it better ♥
 ---
