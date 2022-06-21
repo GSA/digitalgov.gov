@@ -107,12 +107,12 @@ jQuery(document).ready(function($) {
 		var minutes = date.getUTCMinutes().toString();
 		minutes = minutes.length > 1 ? minutes : '0' + minutes;
 		var seconds = date.getUTCSeconds().toString();
-		if (globalhours > 12 ) {
+		if (globalhours > 11) {
 			var ampm = 'pm';
 		} else {
 			var ampm = 'am';
 		}
-		var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ' ' + ampm + ' ET';
+		var date_string = `${month} ${day}, ${year} at ${hours}:${minutes} ${ampm} ET`;
 	  return date_string;
 	}
 });
