@@ -88,9 +88,10 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 
 **Slide 17:** OK, now we're going to talk about contributing to USWDS and the USWDS contribution model: How we solicit, prioritize, and integrate contributions, bug reports, and feature requests from the community.
 
-**Slide 18:** DAN: And to talk about contribution, I'd like to introduce my colleague Elisa Chen— Elisa, take it away!
+**Slide 18:** 
+**DAN:** And to talk about contribution, I'd like to introduce my colleague Elisa Chen— Elisa, take it away!
 
-ELISA: Thanks Dan. Hi everyone! My name is Elisa Chen and I’m a Design Strategist with [18F] (https://18f.gsa.gov/) and am currently detailing with USWDS. I have black, chin length hair. I’m wearing a red shirt.  Today, I’ll be discussing more about contributing to the Design System. So, why talk about this now? As the Design System grows and evolves, contributions will continue to play a critical role. After all, as an open source project, the Design System is the result of your contributions both large and small. Today’s conversation is just a start on how we’re improving the contribution model. 
+**ELISA:** Thanks Dan. Hi everyone! My name is Elisa Chen and I’m a Design Strategist with [18F] (https://18f.gsa.gov/) and am currently detailing with USWDS. I have black, chin length hair. I’m wearing a red shirt.  Today, I’ll be discussing more about contributing to the Design System. So, why talk about this now? As the Design System grows and evolves, contributions will continue to play a critical role. After all, as an open source project, the Design System is the result of your contributions both large and small. Today’s conversation is just a start on how we’re improving the contribution model. 
 
 **Slide 19:** More specifically, today we’ll share what we’ve learned from research we’ve recently done and some new ideas we’re trying based on that research. And at the end, we’ll walk through how you can contribute to the Design System.
 
@@ -238,9 +239,9 @@ Alright, I think that’s a wrap for our demo!
 
 **Slide 39:** Again, we’re just started the process of improving our contribution model. We’re still working on a few other ideas. We want to continue to improve and refine our contribution guidance.  As you explore those on the website, reach out if you have ideas on how we can do that. We’re also looking into how to propose content changes directly on our website. We know there are other types of contributions our community might want to share, like research findings. We’re exploring how we can receive and share those back out with our community. We’re refining and documenting the process of managing contributions. For example, what’s the schedule or timeline for processing pull requests contributions? And last, we want to know if what we’re doing is making a difference in our contribution model. So we’re looking at tracking key metrics to learn, iterate, and improve on our model. 
 
-**Slide 40:**We hope this conversation about contribution doesn’t end with this presentation today. We’d love to continue this thread and hear more about what would make contributing to the Design System easier for you? Join us in our Slack channel at uswds-public where we’ll have a Slack thread with this prompt. Over to you, Dan. 
+**Slide 40:** We hope this conversation about contribution doesn’t end with this presentation today. We’d love to continue this thread and hear more about what would make contributing to the Design System easier for you? Join us in our Slack channel at uswds-public where we’ll have a Slack thread with this prompt. Over to you, Dan. 
 
-**Slide 41:**Thanks Elisa! And now let's do some Q&A!
+**Slide 41:** Thanks Elisa! And now let's do some Q&A!
 
 **[Q&A]**
 
