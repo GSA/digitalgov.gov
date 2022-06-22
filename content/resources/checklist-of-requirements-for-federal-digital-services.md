@@ -103,11 +103,12 @@ Follow current government design standards when creating new websites or making 
 
 ## Domains
 
-Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function. The 2011 freeze on creation of new .gov domains has been lifted; coordinate with agency CIO and GSA to request a new .gov domain. Clearly display the name of your agency on every page on the website.
+Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function (this is rare). Coordinate with your agency CIO to request a new .gov domain. Clearly display the name of your agency on every page on the website.
 
-* [GOV Domain Name Registration Service](https://www.dotgov.gov/) &#8211; request a new .gov domain
-* [Final Rule – 41 CFR Part 102-173](https://www.dotgov.gov/portal/web/dotgov/policy) authorizes GSA to manage the .gov registration process
-* [Policies for DotGov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 kb, 2 pages, January 2015)
+* [GOV Domain Name Registration Service](https://home.dotgov.gov/registration/) - request a new .gov domain
+* [Domain Requirements](https://home.dotgov.gov/registration/requirements/) - requirements for new .gov domains
+* [DOTGOV Act of 2020](https://uscode.house.gov/statviewer.htm?volume=134&page=2298#)
+* [6 U.S.C. § 665(c)(4)](https://uscode.house.gov/view.xhtml?req=(title:6%20section:665%20edition:prelim)%20OR%20(granuleid:USC-prelim-title6-section665)&f=treesort&edition=prelim&num=0&jumpTo=true)
 
 ## Freedom of Information Act (FOIA)
 
