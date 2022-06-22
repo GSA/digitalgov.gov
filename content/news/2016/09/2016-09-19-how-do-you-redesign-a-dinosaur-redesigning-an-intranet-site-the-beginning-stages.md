@@ -27,7 +27,8 @@ topics:
   - usability-testing
   - user-experience
   - user research
-  
+primary_image: "archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372"
+
 ---
 
 Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. It’s our job, after all, to nurture the ongoing process of creating, updating, and testing. But, there are those sites or pages that never seem to make it to the high-priority list. For our Web team, this was our Center’s staff Intranet site.
@@ -38,7 +39,7 @@ Our Web team recognized that the Intranet was in need of attention. It’d been 
 
 I’d been an enthusiastic proponent of an Intranet redesign over the years, but when finally receiving the go-ahead, I suddenly felt a bit terrified. I felt like an archaeologist, gazing upon an excavation site, ancient bones either scattered about, or peeking out from deep within the ground. I was excited to finally dig, brush off, clean, and ponder handling such a delicate assembly. Scattered in the Intranet 'dust' were dozens and dozens of internal links, external links, Word documents and PDFs, databases, and applications. Where would I even begin? 
 
-{{< legacy-img src="2016/09/600-x-400-Archaeologist-and-student-excavating-Mypurgatoryyears-iStock-Thinkstock-176511372.jpg" alt="Archaeologist and student excavating." caption="" >}} 
+{{< img src="archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372" >}}
 
 ## Listen to the Experts: Your Users
 
@@ -62,7 +63,7 @@ The survey clarified staff wants and needs. And, it provided us with an overall 
 
 We decided to go forward with a card sorting exercise and chose an online tool called UsabiliTEST. Participants included members of our Web team, as well as a management analyst from our Executive Office. In this app, users can create headings, drag ‘n drop content and links, and are able to think through correct placement of information and resources to make sure items are ‘dropped’ in all the right buckets.
 
-{{< legacy-img src="2016/09/600-x-363-23658662-buckets-in-a-row-Hemera-Technologies-PhotoObjects.net-Thinkstock-87611438.jpg" alt="Five metal buckets in a row." caption="" >}} 
+{{< legacy-img src="2016/09/600-x-363-23658662-buckets-in-a-row-Hemera-Technologies-PhotoObjects.net-Thinkstock-87611438.jpg" alt="Five metal buckets in a row." caption="Hemera Technologies/PhotoObjects.net/Thinkstock" >}} 
 
 I expected to see some scattered results since we had multiple participants, all with their own thoughts and ideas about how the site should look. Instead, what I saw was common ground and understanding of how our content should be organized. This was one of the most rewarding moments in the process so far &#8211; I could see the structure of a new site coming together! We were now ready to assemble.
 
@@ -73,4 +74,5 @@ After compiling the results and reviewing the top-level headings from this exerc
 We will now work on fine-tuning wireframes design elements, and  usability testing. I hope to update folks interested in this process in an upcoming blog post! 
 
 ---
+
 _Karla Blaine has been a Web and Intranet Content Manager for the past 10 years at the NIH National Center for Complementary and Integrative Health._
