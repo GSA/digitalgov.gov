@@ -4,7 +4,7 @@
 *.png
 *.ico
 *.gif
-*.html
+*.md
 *.yml
 *.scss
 *.css
