@@ -54,7 +54,7 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 
 Understand customer needs, set performance standards, collect and address customer feedback, and use data to continuously improve your programs.
 
-* [Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/download/attachments/636161243/8_2_DGS_Implementation_Instructions_v_final.docx?version=1&modificationDate=1350935840136)</a> (OMB guidance accessible to federal employees on the OMB MAX wiki)
+* [Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/download/attachments/636161243/8_2_DGS_Implementation_Instructions_v_final.docx?version=1&modificationDate=1350935840136) (OMB guidance accessible to federal employees on the OMB MAX wiki)
 * [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf)
 * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
     * See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
@@ -103,11 +103,12 @@ Follow current government design standards when creating new websites or making 
 
 ## Domains
 
-Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function. The 2011 freeze on creation of new .gov domains has been lifted; coordinate with agency CIO and GSA to request a new .gov domain. Clearly display the name of your agency on every page on the website.
+Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function (this is rare). Coordinate with your agency CIO to request a new .gov domain. Clearly display the name of your agency on every page on the website.
 
-* [GOV Domain Name Registration Service](https://www.dotgov.gov/) &#8211; request a new .gov domain
-* [Final Rule – 41 CFR Part 102-173](https://www.dotgov.gov/portal/web/dotgov/policy) authorizes GSA to manage the .gov registration process
-* [Policies for DotGov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 kb, 2 pages, January 2015)
+* [GOV Domain Name Registration Service](https://home.dotgov.gov/registration/) - request a new .gov domain
+* [Domain Requirements](https://home.dotgov.gov/registration/requirements/) - requirements for new .gov domains
+* [DOTGOV Act of 2020](https://uscode.house.gov/statviewer.htm?volume=134&page=2298#)
+* [6 U.S.C. § 665(c)(4)](https://uscode.house.gov/view.xhtml?req=(title:6%20section:665%20edition:prelim)%20OR%20(granuleid:USC-prelim-title6-section665)&f=treesort&edition=prelim&num=0&jumpTo=true)
 
 ## Freedom of Information Act (FOIA)
 
