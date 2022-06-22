@@ -38,7 +38,7 @@ Our Web team recognized that the Intranet was in need of attention. It’d been 
 
 I’d been an enthusiastic proponent of an Intranet redesign over the years, but when finally receiving the go-ahead, I suddenly felt a bit terrified. I felt like an archaeologist, gazing upon an excavation site, ancient bones either scattered about, or peeking out from deep within the ground. I was excited to finally dig, brush off, clean, and ponder handling such a delicate assembly. Scattered in the Intranet 'dust' were dozens and dozens of internal links, external links, Word documents and PDFs, databases, and applications. Where would I even begin? 
 
-{{< legacy-img src="2016/09/600-x-400-Archaeologist-and-student-excavating-Mypurgatoryyears-iStock-Thinkstock-176511372.jpg" alt="Archaeologist and student excavating." caption="" >}} 
+{{< legacy-img src="2016/09/600-x-400-Archaeologist-and-student-excavating-Mypurgatoryyears-iStock-Thinkstock-176511372.jpg" alt="Archaeologist and student excavating." caption="Mypurgatoryyears/iStock/Thinkstock" >}} 
 
 ## Listen to the Experts: Your Users
 
@@ -62,7 +62,7 @@ The survey clarified staff wants and needs. And, it provided us with an overall 
 
 We decided to go forward with a card sorting exercise and chose an online tool called UsabiliTEST. Participants included members of our Web team, as well as a management analyst from our Executive Office. In this app, users can create headings, drag ‘n drop content and links, and are able to think through correct placement of information and resources to make sure items are ‘dropped’ in all the right buckets.
 
-{{< legacy-img src="2016/09/600-x-363-23658662-buckets-in-a-row-Hemera-Technologies-PhotoObjects.net-Thinkstock-87611438.jpg" alt="Five metal buckets in a row." caption="" >}} 
+{{< legacy-img src="2016/09/600-x-363-23658662-buckets-in-a-row-Hemera-Technologies-PhotoObjects.net-Thinkstock-87611438.jpg" alt="Five metal buckets in a row." caption="Hemera Technologies/PhotoObjects.net/Thinkstock" >}} 
 
 I expected to see some scattered results since we had multiple participants, all with their own thoughts and ideas about how the site should look. Instead, what I saw was common ground and understanding of how our content should be organized. This was one of the most rewarding moments in the process so far &#8211; I could see the structure of a new site coming together! We were now ready to assemble.
 
