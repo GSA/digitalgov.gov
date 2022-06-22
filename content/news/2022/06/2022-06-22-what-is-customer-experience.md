@@ -6,7 +6,7 @@ date: 2022-06-21 13:18:00 -0500
 title: What is Customer Experience?
 deck: "**What is Customer Experience?**&mdash;With the new Executive Order on Transforming Federal Customer Experience
   and Service Delivery to Rebuild Trust in Government (Executive Order 14058),
-  Customer Experience (CX) has become a buzzword in the federal government.
+  customer experience (CX) has become a buzzword in the federal government.
   Let’s take a look at what it is."
 # See all topics at https://digital.gov/topics
 topics:
