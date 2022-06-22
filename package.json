@@ -8,9 +8,8 @@
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
-    "lint:markdown-fix": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --fix --ignore './content/apis/*.md'",
+    "lint:markdown:format": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "local-build": "gulp buildAssets && gulp watch",
-    "prettier:go": "npx prettier --debug-check './themes/digital.gov/layouts'",
     "start": "npm-run-all --parallel local-build hugo workflow",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "pa11y-ci --config .pa11yci",
@@ -60,7 +59,6 @@
     "markdownlint-cli": "^0.31.1",
     "postcss": "^8.4.12",
     "prettier": "2.6.2",
-    "prettier-plugin-go-template": "0.0.13",
     "vinyl-paths": "^3.0.1"
   }
 }

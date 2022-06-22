@@ -51,6 +51,9 @@ jobs:
       - run:
           name: Lint Markdown
           command: npm run lint:markdown
+      - run:
+          name: Format Markdown
+          command: npm run lint:markdown:format
   process:
     <<: *defaults
     steps:
