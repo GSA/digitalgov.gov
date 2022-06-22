@@ -134,9 +134,8 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 **Slide 38:** Alright, now let’s take a look at how you can contribute in real life. 
 
 **DEMO**
-Let’s say we’re using the date picker component on a project when all of a sudden (oh no!) the dates are showing up as emojis instead of numbers.  
-This clearly isn’t working as expected, and users can’t select a date so we need to figure out how to report a bug report.  
-So let’s navigate to the Design System homepage to figure out how. In the About tab, we see there’s a new Contribute page in the left hand navigation. 
+
+Let’s say we’re using the date picker component on a project when all of a sudden (oh no!) the dates are showing up as emojis instead of numbers. This clearly isn’t working as expected, and users can’t select a date so we need to figure out how to report a bug report. So let’s navigate to the Design System homepage to figure out how. In the About tab, we see there’s a new Contribute page in the left hand navigation. 
 
 Here we find a guide showing how we can contribute to the Design System. 
 We’ll go to the “report bugs and issues” section. And see that we’ll need to first check the issues backlog to make sure we’re not creating a duplicate bug report. 
@@ -197,16 +196,10 @@ We see there’s several feature requests open for voting given the label “Sta
 In short, this simple upvote emoji allows the team to hear directly from you. 
 The Design System team will review the number of upvotes when it conducts roadmapping every 4 months to help them prioritize which feature requests to work on next. 
 
-Alright, now let’s say I have another feature request.  I’m still working with the date picker and I need to customize my date picker icons because of my agency’s branding guidelines.
-And unfortunately, it looks like I can’t do that with the current date picker component.
-I want to submit this as a feature request. So let’s double check if it’s been submitted in the Feature Request backlog already. 
-We’ll search using the word “date picker”. 
+Alright, now let’s say I have another feature request.  I’m still working with the date picker and I need to customize my date picker icons because of my agency’s branding guidelines. And unfortunately, it looks like I can’t do that with the current date picker component. I want to submit this as a feature request. So let’s double check if it’s been submitted in the Feature Request backlog already. We’ll search using the word “date picker”. 
 
-We’ve got a few results but none seem to be the feature request I’m thinking about, so let’s create a new issue. 
+We’ve got a few results but none seem to be the feature request I’m thinking about, so let’s create a new issue. We’ll title our feature request. And continue with a brief description of what problem we’re trying to solve with this idea. 
 
-We’ll title our feature request.
-
-And continue with a brief description of what problem we’re trying to solve with this idea. 
 Remember, when submitting a feature request, we’re making a pitch on why this idea is something we want to see in the Design System.
 We want to make our best effort to convey why this is important so the Design System team understands (as well as other community members who might upvote it)
 
@@ -218,15 +211,15 @@ We don’t have any additional context to add.
 So we’ll confirm that we agree to the Code of Conduct and that we’ve checked for duplicate issues and submit it. 
 
 And just like that, we’ve proposed our feature request!
+
 But wait, let’s say we have more ideas and want to know if they align with the Design System’s priorities OR maybe we might want to check if our feature request has been accepted and will be worked on soon.   
+
 Let’s check the roadmap on the USWDS website.
 
-The roadmap is a tool to communicate what the Design System team is doing or planning to do in the next 4-8 months. 
-You’ll see we’ve moved our roadmap into GitHub so we can keep more up-to-date.
+The roadmap is a tool to communicate what the Design System team is doing or planning to do in the next 4-8 months. You’ll see we’ve moved our roadmap into GitHub so we can keep more up-to-date.
 
 Our roadmap is open to the public and shows what we’ve recently done and what we’re working on now. 
-We can also see the status for each roadmap activity to see if it's been completed, accepted (meaning we plan to do the work), or active (meaning we’re currently working on it)
-You  can click into the issue to understand what it's about, what the intended outcome is, and when it's considered done, with links to specific issues. 
+We can also see the status for each roadmap activity to see if it's been completed, accepted (meaning we plan to do the work), or active (meaning we’re currently working on it) You  can click into the issue to understand what it's about, what the intended outcome is, and when it's considered done, with links to specific issues. 
 
 You’ll see that our work is in service of our epics or priorities identified during roadmapping.
 We’ll update this roadmap every 4 months, which is when the Design Team plans for its upcoming work. 
