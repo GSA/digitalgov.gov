@@ -17,19 +17,19 @@ pronoun: "she/her"
 slug: ruxi-giura
 
 # if you include an email address, it will be displayed on your profile page
-email: "ruxandra.giura@fema.dhs.gov"
+email: ""
 
 # Bio — keep it under 50 words
-bio: "Ruxi Giura is a co-lead of the [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/). She works as a digital insurance specialist for the National Flood Insurance Program at FEMA."
+bio: "Ruxi Giura is a co-lead of the [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/). She works as a web content specialist in the Consumer and Governmental Affairs Bureau at the FCC."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. Department of Homeland Security"
+agency_full_name: "Federal Communications Commission"
 
 # Agency Acronym [e.g., GSA]
-agency: "FEMA"
+agency: "FCC"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: "Washington, DC"
