@@ -2,7 +2,8 @@
 title: "Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content"
 kicker: Multilingual & Web Content
 summary: Tips to help you improve access to your non-English digital content.
-host: Multilingual Community of Practice, and the Web Managers Community of Practice
+host: Digital.gov
+communities: Multilingual Community of Practice, and the Web Managers Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/language-connections-tips-to-create-maintain-present-non-english-content-tickets-266324191827
 date: 2022-02-24 14:00:00 -0500
