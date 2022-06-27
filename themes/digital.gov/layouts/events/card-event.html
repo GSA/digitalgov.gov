@@ -15,15 +15,7 @@
       <div class="summary">{{ .Params.summary | markdownify }}</div>
       {{- end -}}
 
-      {{- if .Params.communities -}}
-      {{- $communities := split .Params.communities ", " -}}
-      {{- $length := len $communities -}}
-        {{- if gt $length 1 -}}
-          <p class="host">Hosted by Digital.gov, the {{ .Params.communities }}</p>
-          {{- else if gt $length 0 -}}
-          <p class="host">Hosted by Digital.gov and the {{ .Params.communities }}</p>
-        {{- end -}}
-      {{- else -}}
+      {{- if .Params.host -}}
       <p class="host">Hosted by Digital.gov and the {{ .Params.host }}</p>
       {{- end -}}
 
