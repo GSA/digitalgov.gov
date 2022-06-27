@@ -18,7 +18,7 @@ authors:
 slug: uswds-monthly-call-june-2022
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: ""
+primary_image: "uswds-june-2022-monthly-call-title-card"
 
 ---
 
