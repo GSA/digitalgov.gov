@@ -11,11 +11,19 @@ registration_url: https://www.eventbrite.com/e/use-plain-language-to-make-an-imp
 captions: https://www.streamtext.net/player?event=BIS-GSA-GF
 date: 2022-07-13 14:00:00 -0500
 end_date: 2022-07-13 15:00:00 -0500
+# See all topics at https://digital.gov/topics
+topics:
+  - content
+  - cx
+  - plain-language
+  - plain-language-community-of-practice
+  - usability
+  - writing
 # See all authors at https://digital.gov/authors
-authors: []
-slug: increase-your-impact-with-plain-language
-# zoom, youtube_live, adobe_connect, google
-event_platform: zoom
+authors:
+  - daniel-yi
+  - katherine-spivey
+  - katina-stapleton
 primary_image: increase-your-impact-with-plain-language-title-card
 ---
 ##### ***This event is limited to federal employees and contractors with government email addresses.***
