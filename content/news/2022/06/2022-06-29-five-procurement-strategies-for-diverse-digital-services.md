@@ -34,16 +34,17 @@ Here are considerations for your next digital services-related procurement to at
 
 Instead of requiring key personnel, use plain language to show contractors what's important to you.
 
-{{< card-quote text="&#91;Your federal agency&#93; understands contractors may not have all of the essential skills to begin this requirement, however, &#91;federal agency&#93; expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. **&#91;Federal agency&#93; is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.**" cite="" >}}
+{{< card-quote text="[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. **[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.**" cite="" >}}
 
 To further support this language, instead of asking and evaluating “key personnel,” ask and evaluate the following:
 
 The contractor shall provide a brief explanation within the following four areas:
 
-{{< box >}}1. **Practice Area Leads**
+{{< box >}}
+1. **Practice Area Leads**
 
-* Provide a resume for each of the Practice Area Leads in the following areas: product development, research, design, and engineering.
-* Note: It's understood that the Practice Lead(s) may not be directly assigned to this requirement, however, their résumé will provide \[federal agency] an understanding of whether they have the technical knowledge to recruit and assign a diverse and high-performing team, at various stages of their careers, to the requirement.
+   * Provide a resume for each of the Practice Area Leads in the following areas: product development, research, design, and engineering.
+   * Note: It's understood that the Practice Lead(s) may not be directly assigned to this requirement, however, their résumé will provide \[federal agency] an understanding of whether they have the technical knowledge to recruit and assign a diverse and high-performing team, at various stages of their careers, to the requirement.
 
 2. **Recruiting and Retaining Talent**
 
@@ -52,11 +53,13 @@ The contractor shall provide a brief explanation within the following four areas
    * How have you historically and how will you continue to support entry-level hires to achieve success both on this requirement and in their future?
    * What continuous education do you offer to improve employee skills to ultimately improve outcomes of this requirement?
    * Explain your approach to recruitment and retention and specific efforts to incorporate Diversity, Equity, Inclusion, and Accessibility (DEIA) in your hiring, recruitment, retention, and business practices.
+
 3. **Promoting Productive Outcomes**
 
    * How do your Practice Area Leads promote high standards of performance?
    * How do your Practice Area Leads address and correct low performance?
    * What training mechanisms do you have in place and how do you encourage training within your team?
+
 4. **Personnel Turnover**
 
    * Describe specific situations in which you would remove a high performer(s) from this requirement (besides situations outside of your control; e.g., sickness, personal or family emergencies that have long-term effects, the person taking a job with another company, etc.).{{< /box >}}
@@ -74,7 +77,7 @@ You're destined to only get these roles proposed back to you. Be clear about wha
 
 Keep in mind, [FAR (Federal Acquisition Regulation) 39.104, Information technology services](https://www.acquisition.gov/far/39.104) states that when acquiring information technology services, solicitations must not describe any minimum experience or educational requirement for proposed contractor personnel.
 
-{{< card-policy src="https://www.acquisition.gov/far/39.104" kicker="Policy" title="**Federal Acquisition Regulation) 39.104**: Information technology services." >}}When acquiring information technology services, solicitations must not describe any minimum experience or educational requirement for proposed contractor personnel unless the contracting officer determines that the needs of the agency-
+{{< card-policy src="https://www.acquisition.gov/far/39.104" kicker="Policy" title="**Federal Acquisition Regulation (FAR) 39.104**: Information technology services." >}}When acquiring information technology services, solicitations must not describe any minimum experience or educational requirement for proposed contractor personnel unless the contracting officer determines that the needs of the agency-
 
 (a) Cannot be met without that requirement; or
 (b) Require the use of other than a performance-based acquisition (see [subpart 37.6](https://www.acquisition.gov/far/subpart-37.6#FAR_Subpart_37_6)).
@@ -85,7 +88,7 @@ Parent topic: [Subpart 39.1 - General](https://www.acquisition.gov/far/subpart-3
 
 Many solicitations still require some or all contractor employees to report to federal buildings. Even if a solicitation doesn’t require it, it often omits how the agency will react to a contractor proposing to leverage remote employees. However, in 2018, [FAR 7.108 Additional requirements for telecommuting](https://www.acquisition.gov/far/7.108) was updated to allow an agency to generally not discourage a contractor from allowing its employees to telecommute in the performance of government contracts.
 
-{{< card-policy src="https://www.acquisition.gov/far/7.108" kicker="Policy" title="**Federal Acquisition Regulation) 7.108**: Additional requirements for telecommuting." >}}In accordance with [41 U.S.C. 3306(f)](https://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3), an agency shall generally not discourage a contractor from allowing its employees to telecommute in the performance of Government contracts. Therefore, agencies shall not-
+{{< card-policy src="https://www.acquisition.gov/far/7.108" kicker="Policy" title="**Federal Acquisition Regulation (FAR) 7.108**: Additional requirements for telecommuting." >}}In accordance with [41 U.S.C. 3306(f)](https://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3), an agency shall generally not discourage a contractor from allowing its employees to telecommute in the performance of Government contracts. Therefore, agencies shall not-
 
 (a) Include in a solicitation a requirement that prohibits an offeror from permitting its employees to telecommute unless the contracting officer first determines that the requirements of the agency, including security requirements, cannot be met if telecommuting is permitted. The contracting officer shall document the basis for the determination in writing and specify the prohibition in the solicitation; or
 (b) When telecommuting is not prohibited, unfavorably evaluate an offer because it includes telecommuting, unless the contracting officer first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is permitted. The contracting officer shall document the basis for the determination in writing and address the evaluation procedures in the solicitation.
