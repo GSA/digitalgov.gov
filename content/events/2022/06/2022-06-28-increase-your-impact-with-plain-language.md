@@ -1,6 +1,6 @@
 ---
 title: Increase Your Impact With Plain Language
-deck: Use Plain Language to Make an Impact
+deck: 
 kicker: Plain Language
 summary: Get tips and lessons learned from the U.S. Department of Justice Civil Rights Division on using plain language to increase their impact and influence.
 host: Plain Language Community of Practice
