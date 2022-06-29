@@ -2,10 +2,7 @@
 date: 2022-06-30 12:22:00 -0500
 title: Five Procurement Strategies for Diverse Digital Services
 deck: Building and sustaining a successful partnership with contractors.
-summary: Modern digital services require a close connection between federal
-  agencies and contractors as well as customers and other stakeholders. Use
-  these five practical tips to attract and empower contractors who value
-  diversity, equity, inclusion, and accessibility.
+summary: Modern digital services require a close connection between federal agencies and contractors as well as customers and other stakeholders. Use these five practical tips to attract and empower contractors who value diversity, equity, inclusion, and accessibility.
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
@@ -15,12 +12,14 @@ topics:
 authors:
   - stephen-carroll
 slug: five-procurement-strategies-for-diverse-digital-services
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The [Biden-Harris President’s Management Agenda](https://www.performance.gov/pma/) defines and outlines government-wide management priorities for all federal agencies to improve how the government operates and performs. Priority 1, [Strengthening and Empowering the Federal Workforce](https://www.performance.gov/pma/workforce/), focuses on the opportunity for attracting, hiring, developing, and empowering talented individuals who are well suited and well prepared for the challenges the government faces, both in the near and long term.
 
 As federal agencies support this priority internally, it’s also important to consider how federal agencies can support this vision through the “power of procurement.” With strategic planning, federal agencies can use procurement to engage talented contractor personnel to support our missions.
