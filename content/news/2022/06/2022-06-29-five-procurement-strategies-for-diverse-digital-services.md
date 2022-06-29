@@ -1,7 +1,7 @@
 ---
 date: 2022-06-30 12:22:00 -0500
 title: Five Procurement Strategies for Diverse Digital Services
-deck: 
+deck: Building and sustaining a successful partnership with contractors
 summary: Modern digital services require a close connection between federal agencies and contractors as well as customers and other stakeholders. Use these five practical tips to attract and empower contractors who value diversity, equity, inclusion, and accessibility.
 # See all topics at https://digital.gov/topics
 topics:
@@ -20,8 +20,6 @@ weight: 1
 
 ---
 
-## _Building and sustaining a successful partnership with contractors._
-
 The [Biden-Harris President’s Management Agenda](https://www.performance.gov/pma/) defines and outlines government-wide management priorities for all federal agencies to improve how the government operates and performs. Priority 1, [Strengthening and Empowering the Federal Workforce](https://www.performance.gov/pma/workforce/), focuses on the opportunity for attracting, hiring, developing, and empowering talented individuals who are well suited and well prepared for the challenges the government faces, both in the near and long term.
 
 As federal agencies support this priority internally, it’s also important to consider how federal agencies can support this vision through the “power of procurement.” With strategic planning, federal agencies can use procurement to engage talented contractor personnel to support our missions.
@@ -34,7 +32,7 @@ Here are considerations for your next digital services-related procurement to at
 
 Instead of requiring key personnel, use plain language to show contractors what's important to you.
 
-{{< card-quote text="[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. **[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.**" cite="" >}}
+{{< card-quote text="[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. <strong>[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.</strong>" cite="" >}}
 
 To further support this language, instead of asking and evaluating “key personnel,” ask and evaluate the following:
 
@@ -62,9 +60,9 @@ The contractor shall provide a brief explanation within the following four areas
 
 4. **Personnel Turnover**
 
-   * Describe specific situations in which you would remove a high performer(s) from this requirement (besides situations outside of your control; e.g., sickness, personal or family emergencies that have long-term effects, the person taking a job with another company, etc.).{{< /box >}}
-
-***Note***: Feel free to mix and match the bullets above. If using all the bullets adds value, use them all. If you prefer only a few, remove the ones you don’t need for your specific requirement.
+   * Describe specific situations in which you would remove a high performer(s) from this requirement (besides situations outside of your control; e.g., sickness, personal or family emergencies that have long-term effects, the person taking a job with another company, etc.).
+   
+***Note***: Feel free to mix and match the bullets above. If using all the bullets adds value, use them all. If you prefer only a few, remove the ones you don’t need for your specific requirement.{{< /box >}}
 
 ### Don’t pre-establish a staffing plan
 
@@ -79,8 +77,8 @@ Keep in mind, [FAR (Federal Acquisition Regulation) 39.104, Information technolo
 
 {{< card-policy src="https://www.acquisition.gov/far/39.104" kicker="Policy" title="**Federal Acquisition Regulation (FAR) 39.104**: Information technology services." >}}When acquiring information technology services, solicitations must not describe any minimum experience or educational requirement for proposed contractor personnel unless the contracting officer determines that the needs of the agency-
 
-(a) Cannot be met without that requirement; or
-(b) Require the use of other than a performance-based acquisition (see [subpart 37.6](https://www.acquisition.gov/far/subpart-37.6#FAR_Subpart_37_6)).
+ - (a) Cannot be met without that requirement; or
+ - (b) Require the use of other than a performance-based acquisition (see [subpart 37.6](https://www.acquisition.gov/far/subpart-37.6#FAR_Subpart_37_6)).
 
 Parent topic: [Subpart 39.1 - General](https://www.acquisition.gov/far/subpart-39.1){{< /card-policy >}}
 
@@ -90,8 +88,8 @@ Many solicitations still require some or all contractor employees to report to f
 
 {{< card-policy src="https://www.acquisition.gov/far/7.108" kicker="Policy" title="**Federal Acquisition Regulation (FAR) 7.108**: Additional requirements for telecommuting." >}}In accordance with [41 U.S.C. 3306(f)](https://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3), an agency shall generally not discourage a contractor from allowing its employees to telecommute in the performance of Government contracts. Therefore, agencies shall not-
 
-(a) Include in a solicitation a requirement that prohibits an offeror from permitting its employees to telecommute unless the contracting officer first determines that the requirements of the agency, including security requirements, cannot be met if telecommuting is permitted. The contracting officer shall document the basis for the determination in writing and specify the prohibition in the solicitation; or
-(b) When telecommuting is not prohibited, unfavorably evaluate an offer because it includes telecommuting, unless the contracting officer first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is permitted. The contracting officer shall document the basis for the determination in writing and address the evaluation procedures in the solicitation.
+ - (a) Include in a solicitation a requirement that prohibits an offeror from permitting its employees to telecommute unless the contracting officer first determines that the requirements of the agency, including security requirements, cannot be met if telecommuting is permitted. The contracting officer shall document the basis for the determination in writing and specify the prohibition in the solicitation; or
+ - (b) When telecommuting is not prohibited, unfavorably evaluate an offer because it includes telecommuting, unless the contracting officer first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is permitted. The contracting officer shall document the basis for the determination in writing and address the evaluation procedures in the solicitation.
 
 Parent topic: [Subpart 7.1 - Acquisition Plans](https://www.acquisition.gov/far/subpart-7.1){{< /card-policy >}}
 
