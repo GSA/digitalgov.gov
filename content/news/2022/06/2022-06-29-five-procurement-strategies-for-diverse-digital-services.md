@@ -1,7 +1,7 @@
 ---
 date: 2022-06-30 12:22:00 -0500
 title: Five Procurement Strategies for Diverse Digital Services
-summary: Modern digital services require a close connection between federal agencies and contractors as well as customers and other stakeholders. Use these five practical tips to attract and empower contractors who value diversity, equity, inclusion, and accessibility.
+summary: Modern digital services require a close connection between federal agencies and contractors, as well as customers and other stakeholders. Use these five practical tips to attract and empower contractors who value diversity, equity, inclusion, and accessibility.
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
@@ -25,7 +25,7 @@ As federal agencies support this priority internally, it’s also important to c
 
 Here are considerations for your next digital services-related procurement to attract and empower your contractors to employ a more diverse, inclusive, equitable, and accessible workforce to support your agency mission.
 
-## 1) Be Intentional About Contracting for Entry-Level, Diverse Talent
+## 1) Be Intentional About Contracting for Entry-level, Diverse Talent
 
 ### Sharing what’s important to you
 
@@ -81,7 +81,7 @@ Keep in mind, [FAR (Federal Acquisition Regulation) 39.104, Information technolo
 
 Parent topic: [Subpart 39.1 - General](https://www.acquisition.gov/far/subpart-39.1){{< /card-policy >}}
 
-## 2) Allow Telecommuting to Support Diversity and Inclusion
+## 2) Allow Telecommuting To Support Diversity and Inclusion
 
 Many solicitations still require some or all contractor employees to report to federal buildings. Even if a solicitation doesn’t require it, it often omits how the agency will react to a contractor proposing to leverage remote employees. However, in 2018, [FAR 7.108 Additional requirements for telecommuting](https://www.acquisition.gov/far/7.108) was updated to allow an agency to generally not discourage a contractor from allowing its employees to telecommute in the performance of government contracts.
 
@@ -100,13 +100,13 @@ Acquisition teams can even consider this an opportunity to evaluate the processe
 
 When evaluating a contractor’s experience, don’t simply use the size of past contracts or the length of a contract as measures for how a contractor may perform on your requirement without understanding what you might lose out on. Asking these questions, and hoping for contractors to respond with large-dollar contracts with long periods of performance will remove the opportunity for non-traditional contractors, or government start-ups, to compete and participate. Instead, try asking this:
 
-{{< box >}}### Human Impact
+{{< box >}}**Human Impact**
 
 Describe your experience providing similar services to this requirement. Tell us the problem statement you were solving for, the impact of the project on the users, lessons learned, and obstacles overcome. 
 
 In plain language, connect why the experience gained on that project is meaningful to this requirement. Additionally, describe why this requirement is important to you and why you want to partner with us.
 
-### Technology Impact
+**Technology Impact**
 
 From a research, product development, design, and/or engineering perspective, connect how your experience will lead to successful outcomes based on the objectives, constraints, and other modern technology considerations reflected in this performance work statement.
 
@@ -124,7 +124,7 @@ When you have your kickoff meeting after the award, add these questions to the a
 * What does that look like? How do you ensure that success? 
 * What have you implemented on other projects to enhance a partnership?
 
-## 5) Listen to the answers and work hard to be a true partner
+## 5) Listen to the Answers and Work Hard To Be a True Partner
 
 After all, if you selected them for an award, based in part on one or all of the above ideas, they’ve already proven to you that they can be successful. You can be confident that they already know how to build and sustain a successful partnership.
 
