@@ -25,7 +25,7 @@ As federal agencies support this priority internally, it’s also important to c
 
 Here are considerations for your next digital services-related procurement to attract and empower your contractors to employ a more diverse, inclusive, equitable, and accessible workforce to support your agency mission.
 
-## Be Intentional About Contracting for Entry-Level, Diverse Talent
+## 1) Be Intentional About Contracting for Entry-Level, Diverse Talent
 
 ### Sharing what’s important to you
 
@@ -81,7 +81,7 @@ Keep in mind, [FAR (Federal Acquisition Regulation) 39.104, Information technolo
 
 Parent topic: [Subpart 39.1 - General](https://www.acquisition.gov/far/subpart-39.1){{< /card-policy >}}
 
-## Allow Telecommuting to Support Diversity and Inclusion
+## 2) Allow Telecommuting to Support Diversity and Inclusion
 
 Many solicitations still require some or all contractor employees to report to federal buildings. Even if a solicitation doesn’t require it, it often omits how the agency will react to a contractor proposing to leverage remote employees. However, in 2018, [FAR 7.108 Additional requirements for telecommuting](https://www.acquisition.gov/far/7.108) was updated to allow an agency to generally not discourage a contractor from allowing its employees to telecommute in the performance of government contracts.
 
@@ -96,7 +96,7 @@ Solicitations should be clear about the requirements support for the contractor 
 
 Acquisition teams can even consider this an opportunity to evaluate the processes and tools that a contractor may use to work inclusively. For example, the government can ask contractors to explain the processes and toolsets for providing live captions, recordings, and transcriptions for their employees, as well as ensuring employees have access to the latest versions of assistive technology.
 
-## Look Beyond Contract Dollars Equating to Experience
+## 3) Look Beyond Contract Dollars Equating to Experience
 
 When evaluating a contractor’s experience, don’t simply use the size of past contracts or the length of a contract as measures for how a contractor may perform on your requirement without understanding what you might lose out on. Asking these questions, and hoping for contractors to respond with large-dollar contracts with long periods of performance will remove the opportunity for non-traditional contractors, or government start-ups, to compete and participate. Instead, try asking this:
 
@@ -112,7 +112,7 @@ From a research, product development, design, and/or engineering perspective, co
 
 Submit at least one, but no more than three projects that contain both a Human Impact and Technology Impact element.{{< /box >}}
 
-## Be Intentional About Building a Partnership Between Your Federal Agency and the Contractor
+## 4) Be Intentional About Building a Partnership Between Your Federal Agency and the Contractor
 
 If you utilize one or or all of the ideas above, hopefully it results in a contractor taking advantage of a diverse cohort of employees that reflect all types of roles—like entry-level talent that grow into future all-stars supporting our requirements. And as some contractors take a leap of faith to do this, it’s important the government makes it clear that we plan to be partners with them.
 
@@ -124,8 +124,10 @@ When you have your kickoff meeting after the award, add these questions to the a
 * What does that look like? How do you ensure that success? 
 * What have you implemented on other projects to enhance a partnership?
 
-## Listen to the answers and work hard to be a true partner
+## 5) Listen to the answers and work hard to be a true partner
 
 After all, if you selected them for an award, based in part on one or all of the above ideas, they’ve already proven to you that they can be successful. You can be confident that they already know how to build and sustain a successful partnership.
+
+---
 
 *Special thanks to the following colleagues who generously gave their time to provide ideas, edits, and suggestions to this post: Brian Whittaker, Federal Deposit Insurance Corporation (FDIC), Victoria Bitzer-Wales, National Institute of Neurological Disorders and Stroke (NINDS), and Michelle Petryszyn, U.S. General Services Administration (GSA).*
