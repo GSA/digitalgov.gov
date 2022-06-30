@@ -11,7 +11,7 @@ topics:
 authors:
   - stephen-carroll
 slug: five-procurement-strategies-for-diverse-digital-services
-primary_image: 
+primary_image: person-reviews-multiple-job-candidates-at-laptop-galeanu-mihai-istock-getty-images-1352834402
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
