@@ -16,7 +16,6 @@ primary_image:
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-deck: Building and sustaining a successful partnership with contractors
 
 ---
 
