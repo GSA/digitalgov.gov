@@ -86,7 +86,7 @@ Parent topic: [Subpart 39.1 - General](https://www.acquisition.gov/far/subpart-3
 
 ## 2) Allow Telecommuting To Support Diversity and Inclusion
 
-Many solicitations still require some or all contractor employees to report to federal buildings. Even if a solicitation doesn’t require it, it often omits how the agency will react to a contractor proposing to leverage remote employees. However, in 2018, [FAR 7.108 Additional requirements for telecommuting](https://www.acquisition.gov/far/7.108) was updated to allow an agency to generally not discourage a contractor from allowing its employees to telecommute in the performance of government contracts.
+Many solicitations still require some or all contractor employees to report to federal buildings. Even if a solicitation doesn’t require it, it often omits how the agency will react to a contractor proposing to leverage remote employees. However, in 2018, [FAR 7.108, Additional requirements for telecommuting](https://www.acquisition.gov/far/7.108) was updated to allow an agency to generally not discourage a contractor from allowing its employees to telecommute in the performance of government contracts.
 
 {{< card-policy src="https://www.acquisition.gov/far/7.108" kicker="Policy" title="**Federal Acquisition Regulation (FAR) 7.108**: Additional requirements for telecommuting." >}}In accordance with [41 U.S.C. 3306(f)](https://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3), an agency shall generally not discourage a contractor from allowing its employees to telecommute in the performance of Government contracts. Therefore, agencies shall not-
 
