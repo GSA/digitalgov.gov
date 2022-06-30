@@ -2,6 +2,7 @@
 date: 2022-06-30 12:22:00 -0500
 title: Five Procurement Strategies for Diverse Digital Services
 summary: Modern digital services require a close connection between federal agencies and contractors, as well as customers and other stakeholders. Use these five practical tips to attract and empower contractors who value diversity, equity, inclusion, and accessibility.
+deck: 
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
@@ -33,7 +34,7 @@ Instead of requiring key personnel, use plain language to show contractors what'
 
 {{< box >}}[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. **[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.**{{< /box >}}
 
-To further support this language, instead of asking and evaluating “key personnel,” ask and evaluate the following:
+To further support this language, instead of asking and evaluating "key personnel," ask and evaluate the following:
 
 The contractor shall provide a brief explanation within the following four areas:
 
@@ -41,7 +42,7 @@ The contractor shall provide a brief explanation within the following four areas
 1. **Practice Area Leads**
 
    * Provide a resume for each of the Practice Area Leads in the following areas: product development, research, design, and engineering.
-   * Note: It's understood that the Practice Lead(s) may not be directly assigned to this requirement, however, their résumé will provide \[federal agency] an understanding of whether they have the technical knowledge to recruit and assign a diverse and high-performing team, at various stages of their careers, to the requirement.
+   * Note: It's understood that the Practice Lead(s) may not be directly assigned to this requirement, however, their résumé will provide &#91;federal agency&#93; an understanding of whether they have the technical knowledge to recruit and assign a diverse and high-performing team, at various stages of their careers, to the requirement.
 
 2. **Recruiting and Retaining Talent**
 
