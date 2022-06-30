@@ -32,7 +32,7 @@ Here are considerations for your next digital services-related procurement to at
 
 Instead of requiring key personnel, use plain language to show contractors what's important to you.
 
-{{< box >}}[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. **[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.**{{< /box >}}
+{{< box >}}_[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. **[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.**_{{< /box >}}
 
 To further support this language, instead of asking and evaluating key personnel, ask about and evaluate the following requirements.
 
