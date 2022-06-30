@@ -34,15 +34,15 @@ Instead of requiring key personnel, use plain language to show contractors what'
 
 {{< box >}}[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. **[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.**{{< /box >}}
 
-To further support this language, instead of asking and evaluating "key personnel," ask and evaluate the following:
+To further support this language, instead of asking and evaluating key personnel, ask about and evaluate the following requirements.
 
-The contractor shall provide a brief explanation within the following four areas:
+{{< box >}}The contractor shall provide a brief explanation within the following four areas:
 
-{{< box >}}
 1. **Practice Area Leads**
 
-   * Provide a resume for each of the Practice Area Leads in the following areas: product development, research, design, and engineering.
+   * Provide a résumé for each of the Practice Area Leads in the following areas: product development, research, design, and engineering.
    * Note: It's understood that the Practice Lead(s) may not be directly assigned to this requirement, however, their résumé will provide &#91;federal agency&#93; an understanding of whether they have the technical knowledge to recruit and assign a diverse and high-performing team, at various stages of their careers, to the requirement.
+
 
 2. **Recruiting and Retaining Talent**
 
@@ -52,17 +52,19 @@ The contractor shall provide a brief explanation within the following four areas
    * What continuous education do you offer to improve employee skills to ultimately improve outcomes of this requirement?
    * Explain your approach to recruitment and retention and specific efforts to incorporate Diversity, Equity, Inclusion, and Accessibility (DEIA) in your hiring, recruitment, retention, and business practices.
 
+
 3. **Promoting Productive Outcomes**
 
    * How do your Practice Area Leads promote high standards of performance?
    * How do your Practice Area Leads address and correct low performance?
    * What training mechanisms do you have in place and how do you encourage training within your team?
 
+
 4. **Personnel Turnover**
 
-   * Describe specific situations in which you would remove a high performer(s) from this requirement (besides situations outside of your control; e.g., sickness, personal or family emergencies that have long-term effects, the person taking a job with another company, etc.).
-   
-***Note***: Feel free to mix and match the bullets above. If using all the bullets adds value, use them all. If you prefer only a few, remove the ones you don’t need for your specific requirement.{{< /box >}}
+   * Describe specific situations in which you would remove a high performer(s) from this requirement (besides situations outside of your control; e.g., sickness, personal or family emergencies that have long-term effects, the person taking a job with another company, etc.).{{< /box >}}
+
+***Note***: Feel free to mix and match the bullets above. If using all the bullets adds value, use them all. If you prefer only a few, remove the ones you don’t need for your specific requirement.
 
 ### Don’t pre-establish a staffing plan
 
