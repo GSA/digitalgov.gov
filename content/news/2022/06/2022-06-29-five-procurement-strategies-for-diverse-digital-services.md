@@ -68,12 +68,7 @@ To further support this language, instead of asking and evaluating key personnel
 
 ### Don’t pre-establish a staffing plan
 
-Resist the tendency of always issuing a “Staffing Plan” Excel spreadsheet with your solicitation that, more or less, pre-defines the roles (and role-levels) you think you want or expect, especially with senior level positions. If you pre-populate the sheet with rows listed with labor categories like:
-
-* Senior Developer III
-* Master Design SME II
-
-You're destined to only get these roles proposed back to you. Be clear about what’s important to you (see above), and let contractors compete for meeting your objectives.
+Resist the tendency of always issuing a “Staffing Plan” Excel spreadsheet with your solicitation that, more or less, pre-defines the roles (and role-levels) you think you want or expect, especially with senior level positions. If you pre-populate the sheet with rows listed with labor categories, like Senior Developer III or Master Design SME II, you're destined to only get these roles proposed back to you. Be clear about what’s important to you (see above), and let contractors compete for meeting your objectives.
 
 Keep in mind, [FAR (Federal Acquisition Regulation) 39.104, Information technology services](https://www.acquisition.gov/far/39.104) states that when acquiring information technology services, solicitations must not describe any minimum experience or educational requirement for proposed contractor personnel.
 
