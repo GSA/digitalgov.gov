@@ -1,7 +1,6 @@
 ---
 date: 2022-06-30 12:22:00 -0500
 title: Five Procurement Strategies for Diverse Digital Services
-deck: Building and sustaining a successful partnership with contractors
 summary: Modern digital services require a close connection between federal agencies and contractors as well as customers and other stakeholders. Use these five practical tips to attract and empower contractors who value diversity, equity, inclusion, and accessibility.
 # See all topics at https://digital.gov/topics
 topics:
@@ -17,6 +16,7 @@ primary_image:
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+deck: Building and sustaining a successful partnership with contractors
 
 ---
 
@@ -32,7 +32,7 @@ Here are considerations for your next digital services-related procurement to at
 
 Instead of requiring key personnel, use plain language to show contractors what's important to you.
 
-{{< card-quote text="[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. <strong>[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.</strong>" cite="" >}}
+{{< box >}}[Your federal agency] understands contractors may not have all of the essential skills to begin this requirement, however, [federal agency] expects the awardee to quickly accelerate hiring, to hire a high-performing team, and sustain a high-performing team for the life of the requirement. **[Federal agency] is interested in the contractor hiring and leveraging entry-level roles (along with other more senior positions when applicable) and diverse talent to help us achieve our mission and desired outcomes.**{{< /box >}}
 
 To further support this language, instead of asking and evaluating “key personnel,” ask and evaluate the following:
 
