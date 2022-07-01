@@ -5,7 +5,7 @@
 slug: "national-aeronautics-and-space-administration"
 
 # Topic Title
-title: "National Aeronautics And Space Administration"
+title: "National Aeronautics and Space Administration"
 
 # description — keep it short and clear
 summary: ""
