@@ -5,7 +5,7 @@
 slug: "animal-and-plant-health-inspection-service"
 
 # Topic Title
-title: "Animal And Plant Health Inspection Service"
+title: "Animal and Plant Health Inspection Service"
 
 # description — keep it short and clear
 summary: ""
