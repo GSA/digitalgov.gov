@@ -5,7 +5,7 @@
 slug: "modernization-and-migration-management-framework"
 
 # Topic Title
-title: "Modernization And Migration Management Framework"
+title: "Modernization and Migration Management Framework"
 
 # description — keep it short and clear
 summary: ""
