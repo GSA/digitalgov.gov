@@ -3,7 +3,7 @@ title: Event Test of Different Hosted by Line
 deck: ""
 kicker: kicker
 summary: summary text
-host: "Challenge & Prize Community of Practice. This event is co-hosted by the Open Innovation Program within the Technology Transformation Services (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House Office of Science and Technology Policy (OSTP), in partnership with Digital.gov."
+host: "Challenge & Prize Community of Practice."
 event_organizer: Digital.gov
 registration_url: " https://www.eventbrite.com"
 date: 2022-07-15 08:00:00 -0500
@@ -20,6 +20,12 @@ event_platform: zoom
 primary_image: 10x-areas-of-focus
 
 ---
+
+_This event is co-hosted by the Open Innovation Program within the Technology Transformation Services (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House Office of Science and Technology Policy (OSTP), in partnership with Digital.gov._
+
+{{< box >}}_This event is co-hosted by the Open Innovation Program within the Technology Transformation Services (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House Office of Science and Technology Policy (OSTP), in partnership with Digital.gov._{{< /box >}}
+
+{{< box color="base-light" >}}_This event is co-hosted by the Open Innovation Program within the Technology Transformation Services (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House Office of Science and Technology Policy (OSTP), in partnership with Digital.gov._{{< /box >}}
 
 Test copy.
 
