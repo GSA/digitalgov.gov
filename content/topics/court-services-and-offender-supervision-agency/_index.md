@@ -5,7 +5,7 @@
 slug: "court-services-and-offender-supervision-agency"
 
 # Topic Title
-title: "Court Services And Offender Supervision Agency"
+title: "Court Services and Offender Supervision Agency"
 
 # description — keep it short and clear
 summary: ""
