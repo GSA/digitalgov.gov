@@ -61,7 +61,9 @@ At this event we will:
   * United States Agency for International Development (USAID) - [RISE Challenge (begins on page 542 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=542&zoom=100,92,750);
   * Centers for Disease Control and Prevention (CDC) [COVID-19 Forecasting Hub (Epidemic Prediction Initiative) (begins on page 676 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=676&zoom=100,92,710);
   * National Institute of Environmental Health Sciences (NIEHS) [Partnerships for Environmental Public Health (begins on page 837 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=837&zoom=100,92,800)
+
 - - -
+
 ## Join a Community of Practice (CoP)
 
 Collaborate and share resources with other communities across government who are focused on building better digital experiences. Open to federal employees and contractors with a government-issued email address.
