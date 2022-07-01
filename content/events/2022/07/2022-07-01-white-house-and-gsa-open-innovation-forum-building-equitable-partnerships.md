@@ -28,6 +28,7 @@ topics:
 authors:
   - jarah-meador
   - administrator-robin-carnahan
+  - v-david-zvenyach
   - dr-alondra-nelson
   - dr-jedidah-isler
   - christina-wilkes
@@ -58,7 +59,6 @@ At this event we will:
 
   * Department of Transportation (DOT) - [Inclusive Design Challenge (begins on page 208 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=208&zoom=100,92,234);
   * United States Agency for International Development (USAID) - [RISE Challenge (begins on page 542 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=542&zoom=100,92,750);
-  * National Oceanic and Atmospheric Administration (NOAA) - [Urban Heat Island Mapping Campaign (begins on page 608 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=608&zoom=100,92,494);
   * Centers for Disease Control and Prevention (CDC) [COVID-19 Forecasting Hub (Epidemic Prediction Initiative) (begins on page 676 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=676&zoom=100,92,710);
   * National Institute of Environmental Health Sciences (NIEHS) [Partnerships for Environmental Public Health (begins on page 837 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=837&zoom=100,92,800)
 - - -
