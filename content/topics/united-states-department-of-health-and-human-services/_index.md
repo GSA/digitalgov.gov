@@ -5,7 +5,7 @@
 slug: "united-states-department-of-health-and-human-services"
 
 # Topic Title
-title: "United States Department Of Health And Human Services"
+title: "United States Department of Health and Human Services"
 
 # description — keep it short and clear
 summary: ""
