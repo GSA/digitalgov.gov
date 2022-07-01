@@ -25,6 +25,7 @@ slug: 2022-government-ux-summit
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: cl6sVFjzZG4
 
 primary_image: ux-summmit-title-card-twenty-twenty-two-title-card
 
