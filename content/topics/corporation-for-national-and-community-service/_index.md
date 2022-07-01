@@ -5,7 +5,7 @@
 slug: "corporation-for-national-and-community-service"
 
 # Topic Title
-title: "Corporation For National And Community Service"
+title: "Corporation for National and Community Service"
 
 # description — keep it short and clear
 summary: ""
