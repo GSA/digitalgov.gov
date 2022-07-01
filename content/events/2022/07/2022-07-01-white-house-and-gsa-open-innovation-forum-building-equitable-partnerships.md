@@ -1,10 +1,8 @@
 ---
 title: "White House and GSA Open Innovation Forum: Building Equitable Partnerships"
-deck: deck
+deck: 
 kicker: Open Innovation
-summary: Celebrating OSTP’s biennial report to Congress on Implementation of
-  Federal Prizes and Citizen Science Authority, Fiscal Years 2019 - 2020, and
-  the role of community partnerships in the federal open innovation landscape.
+summary: Celebrating OSTP’s biennial report to Congress on Implementation of Federal Prizes and Citizen Science Authority, Fiscal Years 2019 - 2020, and the role of community partnerships in the federal open innovation landscape.
 host: Challenge & Prize Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com
@@ -33,7 +31,9 @@ slug: white-house-and-gsa-open-innovation-forum-building-equitable-partnerships
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: white-house-gsa-open-innovation-forum-title-card
+
 ---
+
 *This event is co-hosted by the Open Innovation Program within the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions) (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP), in partnership with Digital.gov.*
 
 Join General Services Administration Administrator Robin Carnahan, Head of White House Office of Science and Technology Policy Dr. Alondra Nelson, and federal citizen science and prize competition and challenge practitioners to celebrate public engagement, the role of community-led partnerships, and equitable forms of participation in innovation and scientific discovery.
@@ -57,3 +57,11 @@ At this event we will:
   * National Oceanic and Atmospheric Administration (NOAA) - [Urban Heat Island Mapping Campaign (begins on page 608 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=608&zoom=100,92,494);
   * Centers for Disease Control and Prevention (CDC) [COVID-19 Forecasting Hub (Epidemic Prediction Initiative) (begins on page 676 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=676&zoom=100,92,710);
   * National Institute of Environmental Health Sciences (NIEHS) [Partnerships for Environmental Public Health (begins on page 837 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=837&zoom=100,92,800)
+
+## Join a Community of Practice (CoP)
+
+Collaborate and share resources with other communities across government who are focused on building better digital experiences. Open to federal employees and contractors with a government-issued email address.
+
+* [Challenge & Prize Community of Practice](https://digital.gov/communities/challenges-prizes/)
+* [Federal Crowdsourcing and Citizen Science Community of Practice](https://digital.gov/communities/crowdsourcing-citizen-science/)
+* [All communities on Digital.gov](https://digital.gov/communities/)
