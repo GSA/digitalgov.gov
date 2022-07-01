@@ -5,7 +5,7 @@
 slug: "prizes-and-competitions"
 
 # Topic Title
-title: "Prizes And Competitions"
+title: "Prizes and Competitions"
 
 # description — keep it short and clear
 summary: ""
