@@ -5,8 +5,8 @@ kicker: Open Innovation
 summary: Celebrating OSTP’s biennial report to Congress on Implementation of Federal Prizes and Citizen Science Authority, Fiscal Years 2019 - 2020, and the role of community partnerships in the federal open innovation landscape.
 host: Challenge & Prize Community of Practice
 event_organizer: Digital.gov
-registration_url: https://www.eventbrite.com
-captions: https://www.captionedtext.com
+registration_url: https://www.eventbrite.com/e/white-house-gsa-open-innovation-forum-building-equitable-partnerships-tickets-377345840567
+captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2022-07-20 14:00:00 -0500
 end_date: 2022-07-20 16:00:00 -0500
 # See all topics at https://digital.gov/topics
