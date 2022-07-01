@@ -5,7 +5,7 @@
 slug: "national-center-for-complementary-and-integrative-health"
 
 # Topic Title
-title: "National Center For Complementary And Integrative Health"
+title: "National Center for Complementary and Integrative Health"
 
 # description — keep it short and clear
 summary: ""
