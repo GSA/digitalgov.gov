@@ -35,7 +35,7 @@ On **June 7 and June 8, 2022**, we will bring together user experience (UX) prac
 
 The summit is virtual and all times are Eastern. Presentations will begin at 11:00 am and conclude at 4:00 pm each day of the summit. There will be a short break after each session.
 
-Please find the agenda and descriptions of each session below. 
+Please find the agenda and descriptions of each session below. We will begin adding some of the video clips in July.
 
 {{< accordion kicker="Day 1" title="Tuesday, June 7, 2022 | 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
 ## 11:00 am - 11:10 am, ET<br />Opening Remarks: Chief Innovation Officer, Chike Aguh, Department of Labor
