@@ -16,7 +16,9 @@ primary_image: 10x-gold-x-logo
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Box shortcode:
 
 
@@ -49,7 +51,7 @@ Notes
 
 A note can also include a button: 
 
-{{< note butoon-text="submit">}} text goes here... {{< /note >}}
+{{< note button-text="submit">}} text goes here... {{< /note >}}
 
 Activity — 
 
@@ -61,7 +63,7 @@ Alert —
 
 Comment — 
 
-{{< note "alert" >}} > Comment goes here as a blockquote
+{{< note "comment" >}} > Comment goes here as a blockquote
 
 additional text goes here... {{< /note >}}
 
@@ -71,6 +73,10 @@ Button
 
 {{< button href="https://usdigitalregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}
 
+
+---
+
+{{< footnote >}} Some footnote text {{< /footnote >}}
 
 ---
 
