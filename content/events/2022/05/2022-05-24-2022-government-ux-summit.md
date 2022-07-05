@@ -25,7 +25,7 @@ slug: 2022-government-ux-summit
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-youtube_id: cl6sVFjzZG4
+youtube_id: 
 
 primary_image: ux-summmit-title-card-twenty-twenty-two-title-card
 
@@ -35,7 +35,7 @@ On **June 7 and June 8, 2022**, we will bring together user experience (UX) prac
 
 The summit is virtual and all times are Eastern. Presentations will begin at 11:00 am and conclude at 4:00 pm each day of the summit. There will be a short break after each session.
 
-Please find the agenda and descriptions of each session below.
+Please find the agenda and descriptions of each session below. 
 
 {{< accordion kicker="Day 1" title="Tuesday, June 7, 2022 | 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
 ## 11:00 am - 11:10 am, ET<br />Opening Remarks: Chief Innovation Officer, Chike Aguh, Department of Labor
@@ -52,6 +52,8 @@ In this session you will hear from the following speakers:
 
 * **Samuel Chapman** &mdash; Digital User Experience Analyst, Internal Revenue Service
 * **Kira Prin** &mdash; Product Development Specialist, Internal Revenue Service
+
+{{< youtube cl6sVFjzZG4 >}}
 
 ---
 
