@@ -38,10 +38,9 @@ Box shortcode:
 
 Footnotes
 
-
 {{< footnote >}} Some footnote text {{< /footnote >}}
 
-
+No change from other text; needs formatting
 
 ---
 
@@ -73,10 +72,6 @@ Button
 
 {{< button href="https://usdigitalregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}
 
-
 ---
 
-{{< footnote >}} Some footnote text {{< /footnote >}}
-
----
-
+END of examples
