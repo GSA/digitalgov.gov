@@ -28,10 +28,10 @@ weight: 1
 
 ---
 
-Box shortcode:
+## Box
 
 
-{{< box >}} Box with no color {{< /box >}}
+{{< box >}} Box with no color set {{< /box >}}
 
 
 {{< box color="base" >}} Box with base {{< /box >}}
@@ -45,15 +45,13 @@ Box shortcode:
 
 ---
 
-Footnotes
+## Button
 
-{{< footnote >}} Some footnote text {{< /footnote >}}
-
-No change from other text; needs formatting
+{{< button href="https://usdigitalregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}
 
 ---
 
-Notes
+## Note
 
 {{< note >}} text goes here... {{< /note >}}
 
@@ -61,15 +59,15 @@ A note can also include a button:
 
 {{< note button-text="submit">}} text goes here... {{< /note >}}
 
-Activity — 
+Activity Note — 
 
 {{< note "activity" >}} Activity text goes here... {{< /note >}}
 
-Alert — 
+Alert note — 
 
 {{< note "alert" >}} Alert text goes here... {{< /note >}}
 
-Comment — 
+Comment note — 
 
 {{< note "comment" >}} > Comment goes here as a blockquote
 
@@ -77,9 +75,12 @@ additional text goes here... {{< /note >}}
 
 ---
 
-Button
+## Footnotes
 
-{{< button href="https://usdigitalregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}
+{{< footnote >}} Some footnote text {{< /footnote >}}
+
+No change from other text; needs formatting
+
 
 ---
 
