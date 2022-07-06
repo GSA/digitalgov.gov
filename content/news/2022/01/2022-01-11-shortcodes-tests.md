@@ -86,7 +86,9 @@ additional text goes here... {{< /note >}}
 
 ---
 
-## Card - comment with button
+## Cards
+
+### Comment with button
 
 {{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button-text="Submit your answers" button-url="https://www.URL.here">}}
 
@@ -96,6 +98,18 @@ additional text goes here... {{< /note >}}
 {{< /card-prompt >}}
 
 Live example: https://digital.gov/2019/11/18/building-elements-that-earn-trust/ 
+
+### Policies
+
+{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
+
+Transparency of Federal programs, performance, and spending facilitates increases in accountability and citizen engagement. To support increased transparency, the Accessibility Committee has expanded on information available to agencies by creating a best practices library. The library may be found at [https://cio.gov/2011/05/](https://cio.gov/2011/05/) and contains examples of best practices in policy and procedures that can increase transparency. Feedback from the listening sessions and the national dialogue indicates several areas that would benefit from more transparency. Specific areas include opportunities for public engagement, inter-agency collaboration, and standardizing agency approaches to Section 508 implementation.
+
+Transparency of agency Section 508 practices and application will be improved through two key actions: (1) providing the public with a standard feedback mechanism and statement available on agency websites, and (2) making [www.section508.gov](https://www.section508.gov) the one-stop information resource for agencies with respect to successful Section 508 management and implementation. Specifically, within 180 days of the release of this strategic plan:
+
+1. the General Services Administration (GSA) will share with OMB the action plan for transforming www.section508.gov into the one-stop source of information and communication for successfully managing Section 508 implementation throughout the acquisition lifecycle.
+2. {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov).
+{{< /card-policy >}}
 
 ---
 
@@ -144,19 +158,6 @@ Note: Footnotes should display in a slightly smaller text size; not the default.
 6. United States, Executive Office of the President. “Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government.” _Federal Register_, 16 December 2021, https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government. Accessed 16 February 2022.
 {{< /accordion >}}
 
-### Policies (Card code; not accordion code)
-
-{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
-
-Transparency of Federal programs, performance, and spending facilitates increases in accountability and citizen engagement. To support increased transparency, the Accessibility Committee has expanded on information available to agencies by creating a best practices library. The library may be found at [https://cio.gov/2011/05/](https://cio.gov/2011/05/) and contains examples of best practices in policy and procedures that can increase transparency. Feedback from the listening sessions and the national dialogue indicates several areas that would benefit from more transparency. Specific areas include opportunities for public engagement, inter-agency collaboration, and standardizing agency approaches to Section 508 implementation.
-
-Transparency of agency Section 508 practices and application will be improved through two key actions: (1) providing the public with a standard feedback mechanism and statement available on agency websites, and (2) making [www.section508.gov](https://www.section508.gov) the one-stop information resource for agencies with respect to successful Section 508 management and implementation. Specifically, within 180 days of the release of this strategic plan:
-
-1. the General Services Administration (GSA) will share with OMB the action plan for transforming www.section508.gov into the one-stop source of information and communication for successfully managing Section 508 implementation throughout the acquisition lifecycle.
-2. {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov).
-{{< /card-policy >}}
-
-
 ### Event transcript
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for June 2022" icon="fas fa-copy" >}}
@@ -196,13 +197,13 @@ Thank you, and see you in August!
 1) On a regular resource page, where the H2 headers create a sidebar menu, you can link to those to other sections within the copy. See the About Page section on [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/).
 
 
-`On your primary agency site, you would include information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:`
+>On your primary agency site, you would include information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:`
 
-`- the agency’s privacy policy page _([more on this below](#privacy-policy))_`
+> - the agency’s privacy policy page _([more on this below](#privacy-policy))_
 
 links to https://digital.gov/resources/required-web-content-and-links/#privacy-policy
 
-`- information as required under the No Fear Act of 2002 _([more on this below](#equal-employment))_`
+> - information as required under the No Fear Act of 2002 _([more on this below](#equal-employment))_
 
 links to https://digital.gov/resources/required-web-content-and-links/#equal-employment 
 
@@ -210,6 +211,45 @@ links to https://digital.gov/resources/required-web-content-and-links/#equal-emp
 2) Footnotes should link back to previous place in copy. (looking for that code...)
 Width can be altered with Measure in uswds; https://designsystem.digital.gov/components/typography/. 
 
+---
+
+## Code
+
+### Markdown
+
+`#slider ul {position:relative; margin:0; padding:0; height:200px; list-style:none;} #slider ul li {position:relative; display:block; float:left; margin:0; padding:0; width:500px; height:300px; background:#ccc; text-align:center; line-height:300px;}`
+
+
+### HTML
+
+The following is the CSS file text that has not been minimized:
+
+<pre>
+&#47;&#42; Slider Comment 1 &#42;&#47;
+
+&#35;slider ul &#123;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  list-style: none;
+&#125;
+
+&#47;&#42; Slider Comment 2 &#42;&#47;
+
+#slider ul li &#123;
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 500px;
+  height: 300px;
+  background: #ccc;
+  text-align: center;
+  line-height: 300px;
+&#125;
+</pre>
 
 ---
 
