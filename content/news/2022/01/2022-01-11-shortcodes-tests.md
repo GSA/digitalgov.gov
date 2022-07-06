@@ -19,6 +19,15 @@ weight: 1
 
 ---
 
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#info"></use>
+</svg> Join the web managers community today! The community is a safe, collaborative space for federal employees to:  
+
+* Recruit for positions on federal digital teams;
+* Learn about job openings at other agencies; and
+* Share our successes and challenges to get the right skills, talent, and support in place to build a digital team.
+
+---
+
 Box shortcode:
 
 
