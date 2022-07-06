@@ -101,11 +101,13 @@ Live example: https://digital.gov/2019/11/18/building-elements-that-earn-trust/
 
 ## Footnotes
 
-1) Superscript within the copy; see code: 
+1) Superscript within the copy: 
 
-**C.** {{< highlight >}}Agencies must develop accessibility statements for their website{{< /highlight >}} and appoint a Section 508 Coordinator {{< highlight >}}as required by OMB Memorandum, <em>Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</em>{{< /highlight >}}. <sup>[32](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
+**C.** Agencies must develop accessibility statements for their website and appoint a Section 508 Coordinator as required by OMB Memorandum, <em>Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</em>. <sup>[32](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
 
 2) Footnotes, after a horizontal rule (3 dashes or asterisks); see code:
+
+-line-
 
 {{< footnote >}}
 
@@ -118,6 +120,8 @@ Live example: https://digital.gov/2019/11/18/building-elements-that-earn-trust/
 {{< /footnote >}}
 
 live examples: https://digital.gov/resources/required-web-content-and-links/ 
+
+Note: Footnotes should display in a slightly smaller text size; not the default.
 
 ---
 
@@ -189,7 +193,23 @@ Thank you, and see you in August!
 
 ## Anchor links
 
-coming soon ...
+1) On a regular resource page, where the H2 headers create a sidebar menu, you can link to those to other sections within the copy. See the About Page section on [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/).
+
+
+`On your primary agency site, you would include information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:`
+
+`- the agency’s privacy policy page _([more on this below](#privacy-policy))_`
+
+links to https://digital.gov/resources/required-web-content-and-links/#privacy-policy
+
+`- information as required under the No Fear Act of 2002 _([more on this below](#equal-employment))_`
+
+links to https://digital.gov/resources/required-web-content-and-links/#equal-employment 
+
+
+2) Footnotes should link back to previous place in copy. (looking for that code...)
+Width can be altered with Measure in uswds; https://designsystem.digital.gov/components/typography/. 
+
 
 ---
 
