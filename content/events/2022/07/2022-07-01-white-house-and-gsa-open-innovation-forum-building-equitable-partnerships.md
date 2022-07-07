@@ -31,7 +31,6 @@ authors:
   - v-david-zvenyach
   - dr-alondra-nelson
   - dr-jedidah-isler
-  - christina-wilkes
 slug: white-house-and-gsa-open-innovation-forum-building-equitable-partnerships
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
