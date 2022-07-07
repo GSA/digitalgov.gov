@@ -26,6 +26,8 @@ primary_image: increase-your-impact-with-plain-language-title-card
 
 ---
 
+[View the slides (PowerPoint, 8.4 MB, 33 pages)](https://digital.gov/files/increase-your-impact-with-plain-language-slides.pptx)
+
 **This event is limited to federal employees and contractors with government email addresses.**
 
 Listen as Daniel Yi of the U.S. Department of Justice's Civil Rights Division explains the challenges of implementing plain language in the DOJ, and how his team approaches outreach, education, and information.
