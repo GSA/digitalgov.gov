@@ -1,0 +1,14 @@
+@use "uswds-core" as *;
+
+.touchpoints-form-container {
+  position: fixed;
+  bottom: 35px;
+  right: 10%;
+  left: 10%;
+  z-index: 500;
+
+  @include at-media('tablet') {
+    right: 100px;
+    left: auto;
+  }
+}
