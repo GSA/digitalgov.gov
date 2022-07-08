@@ -44,7 +44,7 @@
             {{- if .Params.host -}}
             <p class="host">Hosted by Digital.gov and the {{ .Params.host }}</p>
             {{- end -}}
-            
+
           </div>
         </div>
       </div>
@@ -185,6 +185,9 @@
 
             {{/* Share Tools */}}
             {{- partial "core/get_sharetools.html" . -}}
+
+            {{/* Touchpoints Form */}}
+            {{- partial "core/touchpoints-form.html" . -}}
           </div>
         </div>
 
