@@ -115,11 +115,27 @@ Transparency of agency Section 508 practices and application will be improved th
 
 ## Footnotes
 
-1) Superscript within the copy: 
+1) Within own copy:
 
-**C.** Agencies must develop accessibility statements for their website and appoint a Section 508 Coordinator as required by OMB Memorandum, <em>Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</em>. <sup>[32](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
+For example, a 2016 analysis published in Nature <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> reported that 81% of participants in genome-wide association studies (GWAS) were of European descent, a worrying sign of populations being neglected on “the road to precision medicine.” To date, it has enrolled approximately [350,000 people from across all 50 states](https://www.joinallofus.org/coronavirus). Of those who’ve completed all the initial steps of the program, 80% come from communities historically underrepresented in research. <sup><a aria-describedby="footnote-label" href="#fn2" id="footnotes-ref2">[2]</a></sup>
 
-2) Footnotes, after a horizontal rule (3 dashes or asterisks); see code:
+Engaging communities is no small task. While enrolling and retaining participants is a challenge for many longitudinal studies, _All of Us_' commitment to previously underrepresented populations requires even more innovative approaches.
+
+
+---
+<footer>
+<h2 id="footnote-label">Footnotes</h2>
+<ol>
+<li id="fn1">Popejoy, Alice B., and Stephanie M. Fullerton. “Genomics Is Failing on Diversity.” Nature News, Nature Publishing Group, 12 Oct. 2016, [www.nature.com/news/genomics-is-failing-on-diversity-1.20759](http://www.nature.com/news/genomics-is-failing-on-diversity-1.20759). <a href="#footnotes-ref1" aria-label="Back to content">↵</a></li>
+<li id="fn2">"The ‘_All of Us_’ Research Program." New England Journal of Medicine, Massachusetts Medical Society, 15 Aug. 2019, [www.nejm.org/doi/full/10.1056/NEJMsr1809937](http://www.nejm.org/doi/full/10.1056/NEJMsr1809937). <a href="#footnotes-ref2" aria-label="Back to content">↵</a></li>
+</ol>
+<footer>
+
+
+live example: https://digital.gov/2020/08/21/2-lessons-tech-leaders-can-learn/ 
+
+
+2) Footnotes, quoted from elsewhere:
 
 -line-
 
