@@ -1,11 +1,39 @@
 @use "uswds-core" as *;
 
-
 // communities
 .communities-of-practice--list {
   @include at-media("tablet") {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 2rem;
+  }
+}
+
+.usa-card__cop-bar {
+  width: 84%;
+	margin: 0 auto;
+  border-radius: 0px;
+  height: 10px;
+  margin-top: 1rem;
+}
+
+
+// assign CoP card colors
+$cop-colors: (
+  yellow: #FA9441,
+  red: #D73A33,
+  darkBlue: #06648D,
+  pink: #F2938C,
+  lighBlue: #73B2E7,
+  brown: #775540,
+  purple: #4A50C4
+);
+
+@each $name, $color in $cop-colors {
+  $i: index(($cop-colors), ($name, $color));
+  li.usa-card:nth-child(#{$i}) {
+    .usa-card__cop-bar, a.usa-button {
+      background-color: $color;
+    }
   }
 }
