@@ -18,22 +18,14 @@
 }
 
 
-// assign CoP card colors
-$cop-colors: (
-  yellow: #FA9441,
-  red: #D73A33,
-  darkBlue: #06648D,
-  pink: #F2938C,
-  lighBlue: #73B2E7,
-  brown: #775540,
-  purple: #4A50C4
-);
+// CoP card colors in order
+$cop-colors: #FA9441, #D73A33, #06648D, #F2938C, #73B2E7, #775540, #4A50C4;
 
-@each $name, $color in $cop-colors {
-  $i: index(($cop-colors), ($name, $color));
+@each $current-color in $cop-colors {
+  $i: index($cop-colors, $current-color);
   li.usa-card:nth-child(#{$i}) {
     .usa-card__cop-bar, a.usa-button {
-      background-color: $color;
+      background-color: $current-color;
     }
   }
 }
