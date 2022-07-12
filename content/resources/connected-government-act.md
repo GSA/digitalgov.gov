@@ -41,7 +41,7 @@ This Act may be cited as the "Connected Government Act".
 - "(b) Definitions.--In this section:
     - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5.
     - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< /highlight >}}".
-  {{< /card-policy >}}
+{{< /card-policy >}}
 
 ## What Is Mobile-Friendly?
 
