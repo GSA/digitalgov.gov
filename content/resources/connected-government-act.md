@@ -36,7 +36,11 @@ This Act may be cited as the "Connected Government Act".
 
 - "(a) (NOTE: Time period.) In General.--{{< highlight >}}If, on or after the date that is 180 days after the date of the enactment of this section, an agency creates a website that is intended for use by the public or conducts a redesign of an existing legacy website that is intended for use by the public, the agency shall ensure to the greatest extent practicable that the website is mobile friendly.{{< /highlight >}}
 
-- "(b) Definitions.--In this section: - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5. - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< /highlight >}}".
+
+
+- "(b) Definitions.--In this section:
+    - "(1) Agency.--The term 'agency' has the meaning given that term in section 551 of title 5.
+    - "{{< highlight >}}(2) Mobile friendly.--The term 'mobile friendly' means, with respect to a website, that the website is configured in such a way that the website may be navigated, viewed, and accessed on a smartphone, tablet computer, or similar mobile device.{{< /highlight >}}".
   {{< /card-policy >}}
 
 ## What Is Mobile-Friendly?

@@ -19,7 +19,7 @@ topics:
 - [Federal-Compatible Terms of Service Agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
 - [Negotiated Terms of Service Agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
 - [Agency Points of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
-  {{< /box >}}
+{{< /box >}}
 
 If your agency is part of a larger agency, your contact will be at the larger agency, as these agreements are negotiated and signed for the entire agency.
 
