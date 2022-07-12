@@ -17,22 +17,20 @@
   margin-top: 1rem;
 }
 
-// CoP card colors in order
-$cop-colors: (
-  yellow: #FA9441,
-  red: #D73A33,
-  darkBlue: #06648D,
-  pink: #F2938C,
-  lighBlue: #73B2E7,
-  brown: #775540,
-  purple: #4A50C4
+$communities-of-practice: (
+  'federal-communicators-network': #FA9441,
+  'multilingual': #D73A33,
+  'plain-language': #06648D,
+  'social-media': #F2938C,
+  'user-experience': #73B2E7,
+  'web-analytics-and-optimization': #775540,
+  'web-content-managers': #4A50C4
 );
 
-@each $name, $color in $cop-colors {
-  $i: index(($cop-colors), ($name $color));
-  li.usa-card:nth-child(#{$i}) {
-    .usa-card__cop-bar, a.usa-button {
-      background-color: $color;
+@each $community, $color in $communities-of-practice {
+  .usa-card.cop--#{$community} {
+    .usa-card__container {
+      border-top: 5px solid $color;
     }
   }
 }

@@ -39,9 +39,8 @@
 
             {{ range $i, $e := $dg_communities }}
 
-            <li class="usa-card tablet:grid-col-4">
+            <li class="usa-card tablet:grid-col-4 {{ if $e.Slug }}cop--{{ $e.Slug }}{{ end }}">
 							<div class="usa-card__container">
-								<div class="usa-card__cop-bar"></div>
                 <div class="usa-card__header">
                   <h2 class="usa-card__heading">{{- $e.Title | markdownify -}}</h2>
                 </div>
