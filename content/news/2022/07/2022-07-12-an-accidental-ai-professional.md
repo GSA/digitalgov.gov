@@ -11,9 +11,6 @@ topics:
   - ai
   - emerging-tech
   - pif
-# See all authors at https://digital.gov/authors
-authors:
-  - 
 slug: an-accidental-ai-professional
 primary_image: 
 # Controls how this page appears across the site
