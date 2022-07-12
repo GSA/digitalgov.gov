@@ -39,8 +39,6 @@
               {{- .Content -}}
             </div>
 
-            {{- partial "core/touchpoints_feedback.html" . -}}
-
             {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>

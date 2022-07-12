@@ -5,7 +5,7 @@
 slug: "national-air-and-space-museum"
 
 # Topic Title
-title: "National Air And Space Museum"
+title: "National Air and Space Museum"
 
 # description — keep it short and clear
 summary: ""

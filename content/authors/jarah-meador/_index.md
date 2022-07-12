@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 
-display_name: "Jarah Meador"
+display_name: "Dr. Jarah Meador"
 first_name: "Jarah"
 last_name: "Meador"
 
@@ -17,7 +17,7 @@ slug: "jarah-meador"
 email: jarah.meador@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Director, Open Innovation Programs (CitizenScience.gov and Challenge.gov)"
+bio: "Director, Open Innovation Programs (CitizenScience.gov and Challenge.gov)."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url:

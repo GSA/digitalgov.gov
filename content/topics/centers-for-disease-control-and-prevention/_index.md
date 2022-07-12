@@ -5,7 +5,7 @@
 slug: "centers-for-disease-control-and-prevention"
 
 # Topic Title
-title: "Centers For Disease Control And Prevention"
+title: "Centers for Disease Control and Prevention"
 
 # description — keep it short and clear
 summary: ""
