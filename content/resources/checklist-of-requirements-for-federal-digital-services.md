@@ -58,6 +58,7 @@ Understand customer needs, set performance standards, collect and address custom
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
     - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
 
+
 <p class="more"><a href="{{< ref "/topics/metrics" >}}">More on Metrics <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
 ## Coordination During Incidents of National Significance
@@ -102,7 +103,8 @@ Follow current government design standards when creating new websites or making 
 
 ## Domains
 
-Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function. The 2011 freeze on creation of new .gov domains has been lifted; coordinate with agency CIO and GSA to request a new .gov domain. Clearly display the name of your agency on every page on the website.
+Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function (this is rare). Coordinate with your agency CIO to request a new .gov domain. Clearly display the name of your agency on every page on the website.
+
 
 - [GOV Domain Name Registration Service](https://www.dotgov.gov/) &#8211; request a new .gov domain
 - [Final Rule – 41 CFR Part 102-173](https://www.dotgov.gov/portal/web/dotgov/policy) authorizes GSA to manage the .gov registration process

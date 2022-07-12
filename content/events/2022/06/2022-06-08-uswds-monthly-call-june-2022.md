@@ -22,6 +22,8 @@ primary_image: ""
 
 ---
 
+[View the slides (PowerPoint, 4.8 MB, 42 pages)](https://digital.gov/files/uswds-monthly-call-june-2022.pptx)
+
 Have a great idea for the Design System but not sure how to share it? We’ll talk through how to contribute ideas, code, bug fixes, and more&mdash;covering questions like:
 
 * What requirements should you be aware of?
