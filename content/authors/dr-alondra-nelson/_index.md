@@ -43,7 +43,7 @@ github: ""
 profile_source: "digit-dark"
 
 # Professional Social Media [e.g., Digital_Gov]
-twitter: ""
+twitter: "AlondraNelson46"
 facebook: ""
 linkedin: ""
 YouTube: ""
