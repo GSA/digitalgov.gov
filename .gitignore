@@ -5,6 +5,9 @@ dist/
 content/images/_working/
 content/images/uploaded/
 themes/digital.gov/static/uswds/fonts/source-sans-pro/
+themes/digital.gov/static/uswds/img/material-icons/
+themes/digital.gov/static/uswds/img/material-icons-deprecated/
+themes/digital.gov/static/uswds/img/uswds-icons/
 .sass-cache/
 .jekyll-metadata
 node_modules/
