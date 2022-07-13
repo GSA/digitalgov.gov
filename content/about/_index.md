@@ -57,6 +57,6 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 
 **Digital.gov:** Toni Bonitto<br/>
 **Communities:** Alexander Schulte<br/>
-**Video and Events:** Gabrielle Fratanduono, Mara Goldberg<br/>
+**Video and Events:** Gabrielle Fratanduono, Jeannie Yoon<br/>
 
 {{< button href="/about/contact/" text="Contact Us" >}}

@@ -5,7 +5,7 @@
 slug: "smithsonian-center-for-learning-and-digital-access"
 
 # Topic Title
-title: "Smithsonian Center For Learning And Digital Access"
+title: "Smithsonian Center for Learning and Digital Access"
 
 # description — keep it short and clear
 summary: ""

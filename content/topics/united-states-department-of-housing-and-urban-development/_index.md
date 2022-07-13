@@ -5,7 +5,7 @@
 slug: "united-states-department-of-housing-and-urban-development"
 
 # Topic Title
-title: "United States Department Of Housing And Urban Development"
+title: "United States Department of Housing and Urban Development"
 
 # description — keep it short and clear
 summary: ""

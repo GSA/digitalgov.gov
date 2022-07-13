@@ -17,7 +17,7 @@ pronoun: ""
 slug: jeremyzilar
 
 # if you include an email address, it will be displayed on your profile page
-email: "jeremy.zilar@gsa.gov"
+email: ""
 
 # Bio — keep it under 50 words
 bio: "As part of his four-year term with [18F](https://www.18f.gov), Jeremy served in GSA's Technology Transformation Service as Digital.gov's director from 2017 to 2020."

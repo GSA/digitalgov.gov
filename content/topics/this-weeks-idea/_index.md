@@ -5,7 +5,7 @@
 slug: "this-weeks-idea"
 
 # Topic Title
-title: "This Week&#39;s IDEA"
+title: "This Week's IDEA"
 
 # description — keep it short and clear
 summary: "A new column to cover topics related to the 21st Century Integrated Digital Experience Act (21st Century IDEA)."

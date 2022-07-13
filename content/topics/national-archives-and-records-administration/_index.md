@@ -5,7 +5,7 @@
 slug: "national-archives-and-records-administration"
 
 # Topic Title
-title: "National Archives And Records Administration"
+title: "National Archives and Records Administration"
 
 # description — keep it short and clear
 summary: ""

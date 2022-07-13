@@ -5,7 +5,7 @@
 slug: "challenges-and-prizes-community-of-practice"
 
 # Topic Title
-title: "Challenges And Prizes Community Of Practice"
+title: "Challenges and Prizes Community of Practice"
 
 # description — keep it short and clear
 summary: ""

@@ -5,7 +5,7 @@
 slug: "national-center-for-telehealth-and-technology"
 
 # Topic Title
-title: "National Center For Telehealth And Technology"
+title: "National Center for Telehealth and Technology"
 
 # description — keep it short and clear
 summary: ""

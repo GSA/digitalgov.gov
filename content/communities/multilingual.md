@@ -42,7 +42,7 @@ We work to support [Executive Order 13166](https://digital.gov/resources/improvi
 
 ## What We Do
 
-The Multilingual Community works together to solve common issues, to offer translation best practices, to define terminology and to be a resource to each other. The community also offers guidance on developing strategies, getting buy in, incorporating other languages in the overall marketing strategy, and more.
+The Multilingual Community of Practice, formerly known as the Federal Multilingual Websites Committee, works together to solve common issues, to offer translation best practices, to define terminology and to be a resource to each other. The community also offers guidance on developing strategies, getting buy in, incorporating other languages in the overall marketing strategy, and more.
 
 ## Who We Are
 

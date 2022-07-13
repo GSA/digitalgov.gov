@@ -16,7 +16,7 @@
       {{- end -}}
 
       {{- if .Params.host -}}
-      <div class="host">Hosted by {{ .Params.host | markdownify }}</div>
+      <p class="host">Hosted by Digital.gov and the {{ .Params.host }}</p>
       {{- end -}}
 
       <a [attr.aria-label]="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>

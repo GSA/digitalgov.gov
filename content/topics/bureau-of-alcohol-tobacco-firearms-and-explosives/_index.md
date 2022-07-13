@@ -5,7 +5,7 @@
 slug: "bureau-of-alcohol-tobacco-firearms-and-explosives"
 
 # Topic Title
-title: "Bureau Of Alcohol Tobacco Firearms And Explosives"
+title: "Bureau Of Alcohol Tobacco Firearms and Explosives"
 
 # description — keep it short and clear
 summary: ""
