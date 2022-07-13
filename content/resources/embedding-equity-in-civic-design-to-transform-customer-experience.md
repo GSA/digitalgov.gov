@@ -124,7 +124,7 @@ We hope that soon, it becomes standard practice to meaningfully incorporate the 
 5. United States, Executive Office of the President. “Executive Order 14035: Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce.” _The Federal Register_, 30 June 2021, https://www.federalregister.gov/documents/2021/06/30/2021-14127/diversity-equity-inclusion-and-accessibility-in-the-federal-workforce. Accessed 04 March 2022.
 
 6. United States, Executive Office of the President. “Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government.” _Federal Register_, 16 December 2021, https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government. Accessed 16 February 2022.
-   {{< /accordion >}}
+{{< /accordion >}}
 
 ## About the Authors
 
