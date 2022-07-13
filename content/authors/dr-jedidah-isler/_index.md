@@ -43,7 +43,7 @@ github: ""
 profile_source: "digit-light"
 
 # Professional Social Media [e.g., Digital_Gov]
-twitter: "JedidahIslerPhD"
+twitter: "JedidahIsler46"
 facebook: ""
 linkedin: ""
 YouTube: ""
