@@ -77,7 +77,7 @@
     @include u-padding-x(2);
     @include u-padding-y(3);
     @include at-media('tablet-lg') {
-      @include u-radius-top("lg");
+      @include u-radius-top('lg');
     }
   }
 }

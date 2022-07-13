@@ -101,7 +101,7 @@
 @include at-media($theme-header-min-width) {
 	// odd specificity to overrride USWDS
 	.usa-header nav.usa-nav .usa-nav__primary > .usa-nav__primary-item {
-		@include u-font-size("ui", "lg");
+		@include u-font-size('ui', 'lg');
 		a {
 			@include u-font-weight(300);
 		}
