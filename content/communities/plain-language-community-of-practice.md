@@ -5,7 +5,7 @@
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
 title: "Plain Language"
-summary: "Our goal is to promote the use of plain language for all government communications."
+summary: "Brings together everyone to promote use of plain language, saving agencies time and money and providing better service to the public."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -32,6 +32,8 @@ weight: 1
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
+dg_shortname: Plain Language
+dg_acronym: Plain Language
 
 community_list:
   - platform: listserv

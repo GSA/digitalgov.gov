@@ -5,7 +5,7 @@
 slug: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: "Multilingual "
-summary: 'We are a group of federal, state and local government multilingual content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.'
+summary: "Brings together government multilingual content managers to expand and improve digital content in languages other than English."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -28,7 +28,8 @@ weight: 1
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
-
+dg_shortname: Multilingual
+dg_acronym: Multilingual
 community_list:
   - platform: listserv
     type: government

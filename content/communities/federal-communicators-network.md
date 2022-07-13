@@ -2,9 +2,8 @@
 slug: federal-communicators-network
 date: 2021-02-24 18:49:00 -0500
 title: Federal Communicators Network
-summary: We help federal communicators achieve excellence by providing training,
-  opportunities for professional networking, sharing resources and ideas, and
-  advancing the profession.
+summary: "Brings together government communicators to improve communication and make government more effective."
+
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -34,6 +33,8 @@ weight: 1
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
+dg_shortname: Communicators
+dg_acronym: FCN
 ---
 
 The Federal Communicators Network (FCN) was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.

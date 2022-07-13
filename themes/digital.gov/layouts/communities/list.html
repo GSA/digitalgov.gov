@@ -42,14 +42,14 @@
             <li class="usa-card tablet:grid-col-4 {{ if $e.Slug }}cop--{{ $e.Slug }}{{ end }}">
 							<div class="usa-card__container">
                 <div class="usa-card__header">
-                  <h2 class="usa-card__heading">{{- $e.Title | markdownify -}}</h2>
+                  <h2 class="usa-card__heading">{{- $e.Params.dg_shortname | markdownify -}}</h2>
                 </div>
                 <div class="usa-card__body">
                   <p>{{- $e.Params.summary | markdownify -}}</p>
                 </div>
                 <div class="usa-card__footer">
-									<a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Title -}}">
-                    Join&nbsp;{{- $e.Title -}}
+									<a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Params.dg_shortname -}}">
+                    Join&nbsp;{{- $e.Params.dg_shortname -}}
                   </a>
                 </div>
               </div>
