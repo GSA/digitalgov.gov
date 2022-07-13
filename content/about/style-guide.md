@@ -183,6 +183,10 @@ The overarching name of the site is Digital.gov. You may see references to “Di
 {{< asset-img path="/img/digitalgov-logo-white.svg" alt="" width="220" bg="dark" >}}
 {{< asset-img path="/img/digitalgov-logo-small-white.png" alt="" width="100" bg="dark" >}}
 {{< asset-img path="/img/digitalgov-logo-small-white.svg" alt="" width="100" bg="dark" >}}
+{{< asset-img path="/img/digit-small-black.png" alt="" width="32" >}}
+{{< asset-img path="/img/digit-small-black.svg" alt="" width="32" >}}
+{{< asset-img path="/img/digit-small-white.png" alt="" width="32" bg="dark" >}}
+{{< asset-img path="/img/digit-small-white.svg" alt="" width="32" bg="dark" >}}
 {{< asset-img path="/img/digit-150.png" alt="" width="150"  >}}
 {{< asset-img path="/img/digit-100.png" alt="" width="100"  >}}
 {{< asset-img path="/img/digit-50.png" alt="" width="50"  >}}
