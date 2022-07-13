@@ -107,3 +107,7 @@
 		}
 	} 
 }
+
+.usa-search [type=submit] {
+	@include u-padding-x(1.5);
+}
