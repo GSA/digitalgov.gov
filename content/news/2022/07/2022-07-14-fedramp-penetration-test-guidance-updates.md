@@ -11,7 +11,7 @@ deck: "**Penetration Test Guidance Updates**&mdash;These updates were made to
   so they’re in alignment with current best practices. Learn about the four
   initiatives included in the revision process, and download the new June 2022
   PDF."
-summary: nn
+summary: 
 # See all topics at https://digital.gov/topics
 topics:
   - security
@@ -21,4 +21,5 @@ slug: fedramp-penetration-test-guidance-updates
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
