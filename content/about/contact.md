@@ -9,7 +9,7 @@ summary: "How to contact the Digital.gov team."
 
 - **Digital.gov:** Toni Bonitto
 - **Communities:**  Alexander Schulte
-- **Events:** Gabrielle Fratanduono, Mara Goldberg
+- **Events:** Gabrielle Fratanduono, Jeannie Yoon
 
 For a wider list of contacts, see our [**Directory of services, tools, and teams**]({{< ref "/services/directory.md" >}}) »
 
