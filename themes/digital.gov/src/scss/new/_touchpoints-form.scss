@@ -1,18 +1,5 @@
 @use "uswds-core" as *;
 
 .touchpoints-form-container {
-  position: sticky;
-  bottom: 35px;
-  right: 10%;
-  left: 10%;
-  z-index: 500;
-  padding: .5rem 0 .5rem 0;
-
-  @include at-media('tablet') {
-    right: 0;
-  }
-}
-
-#touchpoints-modal-button {
-  @include u-bg('white');
+  padding: 2rem 0 2rem 0;
 }
