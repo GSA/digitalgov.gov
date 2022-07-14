@@ -21,7 +21,7 @@ authors:
 slug: how-effective-is-your-communication
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: white-house-gsa-open-innovation-forum-title-card
+primary_image: 
 
 ---
 
