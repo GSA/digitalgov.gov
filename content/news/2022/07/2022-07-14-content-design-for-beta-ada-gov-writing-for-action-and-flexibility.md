@@ -8,7 +8,7 @@ title: "Content design for beta.ada.gov: writing for action and flexibility"
 deck: 18F worked with a team at the Department of Justice to redesign ADA.gov.
   They helped them launch beta.ada.gov, and designed new content for some of the
   most sought-after ADA topics.
-summary: asdf
+summary:
 # See all topics at https://digital.gov/topics
 topics:
   - 18f
