@@ -160,7 +160,7 @@ Note: Footnotes should display in a slightly smaller text size; not the default.
 
 ### Works Cited
 
-{{< accordion kicker="" title="Source List" icon="fas fa-copy" >}}
+{{< accordion icon="fas fa-copy" kicker="" title="Source List" >}}
 1. “The Biden-Harris Management Agenda Vision.” _The Biden-Harris Management Agenda Vision_, 2021, https://www.performance.gov/pma/vision/. Accessed 16 February 2022.
 
 2. Office of Management and Budget. “Study to Identify Methods to Assess Equity: Report to the President.” _Study to Identify Methods to Assess Equity: Report to the President_, July 2021, https://www.whitehouse.gov/wp-content/uploads/2021/08/OMB-Report-on-E013985-Implementation_508-Compliant-Secure-v1.1.pdf. Accessed 15 February 2022.
@@ -176,7 +176,7 @@ Note: Footnotes should display in a slightly smaller text size; not the default.
 
 ### Event transcript
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for June 2022" icon="fas fa-copy" >}}
+{{< accordion icon="fas fa-copy" kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for June 2022" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 
@@ -208,7 +208,7 @@ Thank you, and see you in August!
 
 ### Images
 
-{{< accordion title="Expand for digital.gov logo images" icon="fas fa-paint-brush" >}}
+{{< accordion icon="fas fa-paint-brush" title="Expand for Digital.gov logo images" >}}
 {{< asset-img path="/img/digitalgov-logo.png" alt="" width="220" >}}
 {{< asset-img path="/img/digitalgov-logo.svg" alt="" width="220" >}}
 {{< asset-img path="/img/digitalgov-logo-small.png" alt="" width="100" >}}
