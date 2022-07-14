@@ -9,7 +9,7 @@ deck: "People in the U.S. spend over 10 billion hours each year completing
   government forms. We are working to reduce this burden and make digital forms
   easier and more accessible. You can help by filling out a short typical form.
   It will take less than five minutes! "
-summary: asdf
+summary:
 # See all topics at https://digital.gov/topics
 topics:
   - gsa
