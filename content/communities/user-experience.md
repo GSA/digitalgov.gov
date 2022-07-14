@@ -23,7 +23,7 @@ weight: 1
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
 dg_shortname: User Experience
-dg_acronym: User Experience
+dg_acronym: UX
 
 community_list:
   - platform: "listserv"

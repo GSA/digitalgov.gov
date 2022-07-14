@@ -36,7 +36,7 @@ weight: 1
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
 dg_shortname: Web Managers
-dg_acronym: Web Managers
+dg_acronym: WCM
 
 community_list:
   - platform: listserv

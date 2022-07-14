@@ -2,7 +2,7 @@
 slug: web-analytics-and-optimization
 date: 2021-07-07 09:13:00 -0500
 title: Web Analytics and Optimization
-summary: "Brings together government analytics practitioners to make better decisions using web analytics and other optimization strategies." 
+summary: "Brings together government analytics practitioners to make better decisions using web analytics and other optimization strategies."
 # See all topics at https://digital.gov/topics
 topics:
   - a-b-testing
@@ -28,7 +28,7 @@ weight: 1
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
 dg_shortname: Web Analytics
-dg_acronym: Web Analytics
+dg_acronym: WAO
 
 # Enter the path of the URL that you want redirected to this page
 community_list:

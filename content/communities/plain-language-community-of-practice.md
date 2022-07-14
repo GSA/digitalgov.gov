@@ -33,7 +33,7 @@ weight: 1
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
 dg_shortname: Plain Language
-dg_acronym: Plain Language
+dg_acronym: PL
 
 community_list:
   - platform: listserv

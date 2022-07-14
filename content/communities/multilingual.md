@@ -29,7 +29,8 @@ weight: 1
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
 dg_shortname: Multilingual
-dg_acronym: Multilingual
+dg_acronym: ML
+
 community_list:
   - platform: listserv
     type: government

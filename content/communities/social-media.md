@@ -36,7 +36,7 @@ weight: 1
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
 dg_shortname: Social Media
-dg_acronym: Social Media
+dg_acronym: SM
 
 community_list:
   - platform: listserv
