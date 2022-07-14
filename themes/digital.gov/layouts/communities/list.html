@@ -39,25 +39,16 @@
 
             {{ range $i, $e := $dg_communities }}
 
-            <li class="usa-card tablet:grid-col-4">
-              <div class="usa-card__container">
+            <li class="usa-card tablet:grid-col-4 {{ if $e.Slug }}cop--{{ $e.Slug }}{{ end }}">
+							<div class="usa-card__container">
                 <div class="usa-card__header">
                   <h2 class="usa-card__heading">{{- $e.Title | markdownify -}}</h2>
-                </div>
-                <div class="usa-card__media">
-                  <div class="usa-card__img">
-                    <img
-                      src="{{- $e.Params.dg_image | absURL -}}"
-                      alt=""
-                      aria-hidden="true"
-                    />
-                  </div>
                 </div>
                 <div class="usa-card__body">
                   <p>{{- $e.Params.summary | markdownify -}}</p>
                 </div>
                 <div class="usa-card__footer">
-                  <a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Title -}}">
+									<a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Title -}}">
                     Join&nbsp;{{- $e.Title -}}
                   </a>
                 </div>

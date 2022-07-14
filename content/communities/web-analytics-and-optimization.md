@@ -1,4 +1,5 @@
 ---
+slug: web-analytics-and-optimization
 date: 2021-07-07 09:13:00 -0500
 title: Web Analytics and Optimization
 summary: We discuss strategies, methods, and tools related to analytics, A/B testing, search engine optimization (SEO), and other topics to help the federal government improve web experiences for users.
@@ -19,7 +20,6 @@ aliases:
 # See all authors at https://digital.gov/authors
 authors:
   - tlowden
-slug: web-analytics-and-optimization
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -27,7 +27,6 @@ weight: 1
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
-dg_image: img/dg-card-6.png
 
 # Enter the path of the URL that you want redirected to this page
 community_list:
