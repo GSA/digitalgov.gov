@@ -89,19 +89,19 @@ TASKS
 */
 
 function copyUswdsSetup() {
-  return src(`${USWDS}/scss/theme/**/**`).pipe(dest(`${USWDS_SRC}`));
+  return src(`${USWDS}/uswds/dist/scss/theme/**/**`).pipe(dest(`${USWDS_SRC}`));
 }
 
 function copyUswdsFonts() {
-  return src(`${USWDS}/fonts/**/**`).pipe(dest(`${FONTS_DEST}`));
+  return src(`${USWDS}/uswds/dist/fonts/**/**`).pipe(dest(`${FONTS_DEST}`));
 }
 
 function copyUswdsImages() {
-  return src(`${USWDS}/img/**/**`).pipe(dest(`${IMG_DEST}`));
+  return src(`${USWDS}/uswds/dist/img/**/**`).pipe(dest(`${IMG_DEST}`));
 }
 
 function copyUswdsJs() {
-  return src(`${USWDS}/js/**/**`).pipe(dest(`${JS_DEST}`));
+  return src(`${USWDS}/uswds/dist/js/**/**`).pipe(dest(`${JS_DEST}`));
 }
 
 function buildSass() {
@@ -163,5 +163,9 @@ exports.init = series(
   copyUswdsJs,
   buildSass
 );
+
+exports.copyUswdsFonts = copyUswdsFonts;
+exports.copyUswdsImages = copyUswdsImages;
+exports.copyUswdsJs = copyUswdsJs;
 
 exports.buildSass = buildSass;
