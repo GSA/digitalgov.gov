@@ -10,7 +10,7 @@ deck: "If you’re one of the many federal employees carrying out your mission
   contractor is doing a good job? Even if you don’t have a strong technical
   background, there are steps you can take to build your confidence in the
   project’s maintainability and sustainability."
-summary: asdf
+summary:
 # See all topics at https://digital.gov/topics
 topics:
   - 18f
