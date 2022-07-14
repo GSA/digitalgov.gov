@@ -38,4 +38,6 @@ This site may include useful hypertext links or pointers to information created 
 
 Most material on DigitalGov is free of copyright and may be copied and distributed without permission. We are flattered that you want to share. Citation of DigitalGov and a link back is much appreciated.
 
-We sometimes use photos or graphics that we licensed or that are restricted. Check to see if there is a copyright or photo credit. **You need to request permission from the original source to use this material.** [More about copyright and other rights pertaining to U.S. Government works](http://www.usa.gov/copyright.shtml).
+We sometimes use photos or graphics that we licensed or that are restricted. Check to see if there is a copyright or photo credit. **You need to request permission from the original source to use this material.** 
+
+[More about copyright and other rights pertaining to U.S. Government works](http://www.usa.gov/copyright.shtml).
