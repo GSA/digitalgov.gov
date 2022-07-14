@@ -36,12 +36,12 @@ In this session, you will gain insight into how these agencies:
 
 **Speakers**
 
-* Alexis Lennon, Foreign Affairs Officer, Office of Science and Technology Cooperation, Department of State
-* Amy Thompson, Director of the Office of Communications, FDIC
+* **Alexis Lennon** — Foreign Affairs Officer, Office of Science and Technology Cooperation, Department of State
+* **Amy Thompson** — Director of the Office of Communications, FDIC
 
 **Moderator**
 
-* Raashee Erry, White House Presidential Innovation Fellow (PIF), General Services Administration (GSA)
+* **Raashee Erry** — White House Presidential Innovation Fellow (PIF), General Services Administration (GSA)
 
 ---
 
