@@ -39,7 +39,7 @@
 
             {{ range $i, $e := $dg_communities }}
 
-            <li class="usa-card tablet:grid-col-4 {{ if $e.Slug }}cop--{{ $e.Slug }}{{ end }}">
+            <li class="usa-card tablet:grid-col-4 {{ if $e.Params.dg_acronym }}cop-card--{{ $e.Params.dg_acronym }}{{ end }}">
 							<div class="usa-card__container">
                 <div class="usa-card__header">
                   <h2 class="usa-card__heading">{{- $e.Params.dg_shortname | markdownify -}}</h2>

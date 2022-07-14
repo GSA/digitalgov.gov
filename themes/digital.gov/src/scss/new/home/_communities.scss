@@ -18,17 +18,17 @@
 }
 
 $communities-of-practice: (
-  'federal-communicators-network': #FA9441,
-  'multilingual': #D73A33,
-  'plain-language': #06648D,
-  'social-media': #F2938C,
-  'user-experience': #73B2E7,
-  'web-analytics-and-optimization': #775540,
-  'web-content-managers': #4A50C4
+  'FCN': #FA9441,
+  'ML': #D73A33,
+  'PL': #06648D,
+  'SM': #F2938C,
+  'UX': #73B2E7,
+  'WAO': #775540,
+  'WCM': #4A50C4
 );
 
 @each $community, $color in $communities-of-practice {
-  .usa-card.cop--#{$community} {
+  .cop-card--#{$community} {
     .usa-card__container {
       border-top: 5px solid $color;
     }
