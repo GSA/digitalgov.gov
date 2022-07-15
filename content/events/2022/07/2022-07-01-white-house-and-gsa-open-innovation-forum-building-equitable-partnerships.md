@@ -1,6 +1,5 @@
 ---
 title: "White House and GSA Open Innovation Forum: Building Equitable Partnerships"
-deck: 
 kicker: Open Innovation
 summary: Celebrating OSTP’s biennial report to Congress on Implementation of Federal Prizes and Citizen Science Authority, Fiscal Years 2019 - 2020, and the role of community partnerships in the federal open innovation landscape.
 host: Challenge & Prize Community of Practice
@@ -63,7 +62,7 @@ At this event we will:
   * Centers for Disease Control and Prevention (CDC) [COVID-19 Forecasting Hub (Epidemic Prediction Initiative) (begins on page 676 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=676&zoom=100,92,710);
   * National Institute of Environmental Health Sciences (NIEHS) [Partnerships for Environmental Public Health (begins on page 837 of the PDF)](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf#page=837&zoom=100,92,800)
 
-- - -
+---
 
 ## Join a Community of Practice (CoP)
 
