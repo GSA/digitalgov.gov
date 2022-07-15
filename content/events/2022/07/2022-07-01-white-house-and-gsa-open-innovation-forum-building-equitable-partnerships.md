@@ -40,6 +40,8 @@ primary_image: white-house-gsa-open-innovation-forum-title-card
 
 *This event is co-hosted by the Open Innovation Program within the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions) (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP), in partnership with Digital.gov.*
 
+[View the slides (PowerPoint, 11.01 MB, 18 pages)](https://digital.gov/files/ostp-gsa-open-innovation-forum.pptx)
+
 Join General Services Administration Administrator Robin Carnahan, Head of White House Office of Science and Technology Policy Dr. Alondra Nelson, and federal citizen science and prize competition and challenge practitioners to celebrate public engagement, the role of community-led partnerships, and equitable forms of participation in innovation and scientific discovery.
 
 Every other year, the White House Office of Science and Technology Policy delivers a biennial report to Congress: Implementation of Federal Prizes and Citizen Science Authority. During the FY19-20 reporting period, there were **172 prize competitions and challenges** and **97 crowdsourcing and citizen science activities** — the most activities during any reporting period. From climate change, to COVID-19, to creating new technologies and innovative products, the report demonstrates the breadth of issues addressed through open innovation activities.
