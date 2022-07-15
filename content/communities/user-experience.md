@@ -5,7 +5,7 @@
 slug: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: 'User Experience'
-summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
+summary: "Brings together government user experience practitioners to create better user-centered products for the public."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -22,6 +22,8 @@ weight: 1
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
+dg_shortname: User Experience
+dg_acronym: UX
 
 community_list:
   - platform: "listserv"
