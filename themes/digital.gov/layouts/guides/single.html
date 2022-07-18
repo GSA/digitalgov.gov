@@ -30,6 +30,10 @@
             {{ .Content }}
 
             {{- partial "core/guides/guide-prev-next.html" . -}}
+
+            {{/* Touchpoints Form */}}
+            {{- partial "core/touchpoints-form.html" . -}}
+
           </div>
 
         </div>
@@ -39,4 +43,5 @@
   </article>
 
 </main>
+
 {{- end -}} {{/* end 'content' block */}}
