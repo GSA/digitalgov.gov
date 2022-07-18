@@ -49,6 +49,9 @@ jobs:
           name: Lint JSON
           command: npm run lint:json
       - run:
+          name: Format Markdown
+          command: npm run lint:markdown:format
+      - run:
           name: Lint Markdown
           command: npm run lint:markdown
   process:

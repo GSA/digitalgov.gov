@@ -16,11 +16,11 @@ In the January 2009 Memo on Transparency and Open Government, President Obama em
 
 ## Related Resources
 
-* OMB Memo on Testing and Simplifying Federal Forms (PDF, 94 KB, 2 pages, August 2012)
-* [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 KB, 3 pages, January 2010)
-* [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
-* [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 KB, 6 pages, April 2011)
+- OMB Memo on Testing and Simplifying Federal Forms (PDF, 94 KB, 2 pages, August 2012)
+- [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 KB, 3 pages, January 2010)
+- [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
+- [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 KB, 6 pages, April 2011)
 
-* * *
+---
 
 See more [DigitalGov Resources]({{< ref "/resources" >}})

@@ -2,10 +2,10 @@
 url: /resources/negotiated-terms-of-service-agreements/
 date: 2014-01-13 10:50:02 -0400
 uid: negotiated-terms-of-service-agreements
-title: 'Negotiated Terms of Service Agreements'
+title: "Negotiated Terms of Service Agreements"
 guide: terms-of-service
-summary: 'The list of free tools that have federal-compatible terms of service agreements.'
-deck: 'A list of free tools that have federal-compatible terms of service agreements.'
+summary: "The list of free tools that have federal-compatible terms of service agreements."
+deck: "A list of free tools that have federal-compatible terms of service agreements."
 topics:
   - terms-of-service
 aliases:
@@ -35,7 +35,6 @@ aliases:
   - /resources/twitter-federal-terms-of-service/
   - /resources/uservoice-federal-terms-of-service/
   - /resources/vine-federal-terms-of-service/
-
 ---
 
 {{< note "alert" >}}
@@ -48,7 +47,7 @@ aliases:
 - [Federal-Compatible Terms of Service Agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
 - [Negotiated Terms of Service Agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
 - [Agency Points of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
-{{< /box >}}
+  {{< /box >}}
 
 **:warning:** Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency.
 

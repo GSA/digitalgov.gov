@@ -18,9 +18,7 @@ topics:
 authors:
   - ammie-farraj-feijoo
   - rflagg
-
 # Make it better ♥
-
 ---
 
 The Federal Web Council was launched in January 2004 as an interagency group of federal web managers working together to improve the delivery of U.S. government information and services online. It provides a forum for high-level cross-agency collaboration, and recommends policies and guidelines for all public-facing U.S. federal websites.

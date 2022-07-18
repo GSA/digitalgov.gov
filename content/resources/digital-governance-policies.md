@@ -2,7 +2,7 @@
 slug: digital-governance-policies
 date: 2017-05-31 6:27:04 -0400
 title: Digital Governance Policy Outline
-summary: 'A template for digital governance policies.'
+summary: "A template for digital governance policies."
 authors:
   - jeremyzilar
 ---
@@ -15,7 +15,7 @@ This document is a collaboration between federal agencies around what should typ
 
 Start by using this document to map out a governance plan for your agency. Let us know what needs to be changed.
 
-  1. Start a discussion on the **Digital Council listserv** about what you would like to see changed.
-  2. Edit the page on Github or leave a comment in an Issue: <https://github.com/GSA/digital-governance-outline/>
+1. Start a discussion on the **Digital Council listserv** about what you would like to see changed.
+2. Edit the page on Github or leave a comment in an Issue: <https://github.com/GSA/digital-governance-outline/>
 
 You can download version 1.1 of the [Digital Governance Policy Outline as a PDF »](https://s3.amazonaws.com/digitalgov/_legacy-img/2017/05/OutlineDigitalGovernancePolicy.pdf)

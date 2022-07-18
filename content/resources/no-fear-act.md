@@ -13,6 +13,6 @@ The No FEAR Act requires a Federal agency to post on its public Web site summary
 
 <a class="button" style="color: #000000" href="http://www.gpo.gov/fdsys/pkg/FR-2006-08-02/html/E6-12432.htm">View NO FEAR Act</a>
 
-* * *
+---
 
 See more [DigitalGov Resources]({{< ref "/resources" >}})

@@ -24,7 +24,6 @@ primary_image: title-card-2021-plain-language-report-card-slide-7-dhs-foia
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
-
 ---
 
 Since 2011, the [Center for Plain Language](https://centerforplainlanguage.org/) has issued a yearly report card to show how well federal agencies follow the [Plain Writing Act](https://www.plainlanguage.gov/law/). The report card evaluates these agencies on organizational compliance and writing quality.
@@ -35,12 +34,12 @@ For the 2021 Federal Plain Language Report Card, the judges focused on the main 
 
 During this event, speaker David Lipscomb provided some useful tips to make web content meet plain language standards:
 
-* Include introductory text that explains what users should expect and how they will use the page.
-* Write any action steps in the correct and logical order.
-* Chunk content into manageable, short sections.
-* Use large, visible headings that start with clear action verbs.
-* Put the less actionable information at the bottom.
-* Keep language brief and to the point; don’t include extra information that will slow down users.
+- Include introductory text that explains what users should expect and how they will use the page.
+- Write any action steps in the correct and logical order.
+- Chunk content into manageable, short sections.
+- Use large, visible headings that start with clear action verbs.
+- Put the less actionable information at the bottom.
+- Keep language brief and to the point; don’t include extra information that will slow down users.
 
 {{< img src="2021-plain-language-report-card-slide-6-sba-covid" >}}
 
@@ -54,11 +53,11 @@ The [Department of Homeland Security (DHS) FOIA request page](https://www.dhs.go
 
 David Lipscomb also shared examples of some mistakes to avoid when producing web content:
 
-* Avoid graphics that don’t convey much information and that visually dominate the page.
-* Don’t include information that doesn’t clearly explain what a user can do with it.
-* Don’t write information reflecting the agency; focus on the user and what they can do.
-* Don’t write long, complex sentences that use legalistic, formal language.
-* Avoid long lists of hyperlinked resources that can overwhelm the user.
+- Avoid graphics that don’t convey much information and that visually dominate the page.
+- Don’t include information that doesn’t clearly explain what a user can do with it.
+- Don’t write information reflecting the agency; focus on the user and what they can do.
+- Don’t write long, complex sentences that use legalistic, formal language.
+- Avoid long lists of hyperlinked resources that can overwhelm the user.
 
 {{< img src="2021-plain-language-report-card-slide-8-dod-foia" >}}
 
@@ -66,8 +65,8 @@ We can continuously use the results of the Plain Language Report Card to guide f
 
 ## Additional Resources
 
-* [PlainLanguage.gov](https://www.plainlanguage.gov/)
-* [Center for Plain Language](https://centerforplainlanguage.org/)
-* [2021 Plain Language Report Card](https://centerforplainlanguage.org/2021-federal-plain-language-report-card/)
-* [2020 Federal Report Card Briefing](https://digital.gov/event/2021/01/13/2020-federal-report-card-briefing/)
-* [Federal Report Card Update](https://digital.gov/event/2020/07/15/federal-report-card-update/)
+- [PlainLanguage.gov](https://www.plainlanguage.gov/)
+- [Center for Plain Language](https://centerforplainlanguage.org/)
+- [2021 Plain Language Report Card](https://centerforplainlanguage.org/2021-federal-plain-language-report-card/)
+- [2020 Federal Report Card Briefing](https://digital.gov/event/2021/01/13/2020-federal-report-card-briefing/)
+- [Federal Report Card Update](https://digital.gov/event/2020/07/15/federal-report-card-update/)

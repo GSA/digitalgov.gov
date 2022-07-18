@@ -1,8 +1,8 @@
 ---
 slug: spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms
 date: 2014-06-11 9:57:38 -0400
-title: 'Spanish Language Style Guide and Glossaries: Frequently Mistranslated English Terms'
-summary: 'A collection of frequently mistranslated English terms and their equivalent in Spanish.'
+title: "Spanish Language Style Guide and Glossaries: Frequently Mistranslated English Terms"
+summary: "A collection of frequently mistranslated English terms and their equivalent in Spanish."
 topics:
   - multilingual
 authors:
@@ -58,7 +58,7 @@ _Hoja de datos, planilla de datos_
 **Federal government** &#91;n&#93;:<br />
 _Gobierno federal, estatal, y/o local (Gobierno in Spanish should be capitalized, but not federal, estatal, o local). See the [Diccionario Panhispánico de Dudas][62cd705e] online. Write the term **gobierno** in the search box for capitalization rules of this word._
 
-  [62cd705e]: http://www.rae.es/recursos/diccionarios/dpd "Pan-Hispanic Dictionary of Doubts"
+[62cd705e]: http://www.rae.es/recursos/diccionarios/dpd "Pan-Hispanic Dictionary of Doubts"
 
 **File** &#91;v&#93; (as in: to file taxes, file a story, etc.):<br />
 _Declarar, presentar. The word file has many meanings; depending on use, the example only pertains to the use described._
@@ -81,7 +81,7 @@ _Estar capacitado, calificado para…. Reunir los requisitos para un programa, o
 **Raise awareness** &#91;exp.&#93;:<br />
 _[Concientizar al público][534a96e9] (widely used)_
 
-  [534a96e9]: https://www.google.com/search?num=100&hl=en&lr=&ie=UTF-8&q=concientizar+del+cancer "Google search results"
+[534a96e9]: https://www.google.com/search?num=100&hl=en&lr=&ie=UTF-8&q=concientizar+del+cancer "Google search results"
 
 **Require** &#91;v&#93;:<br />
 _Pedir, exigir; necesitar_

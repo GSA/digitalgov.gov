@@ -25,7 +25,6 @@ primary_image: "accessibility-101-card"
 
 aliases:
   - /resources/intro-accessibility
-
 # Make it better ♥
 ---
 

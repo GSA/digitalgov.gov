@@ -27,6 +27,5 @@ authors:
   - ammie-farraj-feijoo
   - jparcell
   - jeremyzilar
-
 # Make it better ♥
 ---

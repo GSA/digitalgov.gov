@@ -24,6 +24,5 @@ topics:
   - 18f
   - research
   - user-research
-
 # Make it better ♥
 ---

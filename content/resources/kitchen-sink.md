@@ -69,15 +69,15 @@ _Italic text — Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed 
 ---
 
 - List
-    - nested list item
-    - nested list item
-    - nested list item
+  - nested list item
+  - nested list item
+  - nested list item
 - list item
 
 1. list item
 1. longer list item
 1. nested item
-2. nested item
+1. nested item
 1. end list item
 
 ---

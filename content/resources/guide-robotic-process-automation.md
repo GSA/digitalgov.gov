@@ -24,5 +24,4 @@ authors:
 
 weight: 3
 # Make it better ♥
-
 ---

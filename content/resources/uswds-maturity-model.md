@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/resources/uswds-maturity-model
 # Learn how to edit our pages at https://workflow.digital.gov
 
-
 # Originally published at the following URL:
 source_url: "https://designsystem.digital.gov/maturity-model/"
 
@@ -34,6 +33,5 @@ authors:
 # 1 -- visible
 # 2 -- highlighted
 weight: 3
-
 # Make it better ♥
 ---

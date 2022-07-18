@@ -1,8 +1,8 @@
 ---
 slug: spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms
 date: 2014-06-11 9:58:19 -0400
-title: 'Spanish Language Style Guide and Glossaries: Information Technology Terms'
-summary: 'A list of common English information technology terms, and their Spanish translations.'
+title: "Spanish Language Style Guide and Glossaries: Information Technology Terms"
+summary: "A list of common English information technology terms, and their Spanish translations."
 topics:
   - multilingual
 authors:
@@ -113,4 +113,4 @@ _Portal, sitio Web (sitio is a direct translation from English and used in the U
 
 ## Sources
 
-* Compiled using articles from <a href="http://www.apuntesonline.org/">ApuntesOnline</a> and various sources.
+- Compiled using articles from <a href="http://www.apuntesonline.org/">ApuntesOnline</a> and various sources.
