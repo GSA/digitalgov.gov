@@ -15,7 +15,7 @@ deck: "**Announcing the CX Maturity Model**&mdash;A recent executive order on
   constitute official guidance, it can help you take your organization’s CX
   Maturity to the next level. Tailor the model to meet your agency’s specific
   needs."
-summary: sum
+summary: 
 # See all topics at https://digital.gov/topics
 topics:
   - cx
