@@ -2,7 +2,7 @@
 slug: gov-url-shorteners-and-how-to-use-them
 date: 2013-12-20 9:55:30 -0400
 title: Gov URL Shorteners and How to Use Them
-summary: 'USA.gov offers two different types of URL shorteners &ndash; 1.USA.gov and Go.USA.gov. No matter which URL shortener you use, there are some usability, accessibility, and SEO issues you should keep in mind. 1.USA.gov 1.USA.gov is powered by bitly.com and open to everyone. If you go to bitly.com and shorten a'
+summary: 'USA.gov offers two different types of URL shorteners &ndash; 1.USA.gov and Go.USA.gov. No matter which URL shortener you use, there are some usability, accessibility, and SEO issues you should keep in mind.'
 authors:
   - michelle-chronister
 topics:
@@ -41,7 +41,7 @@ Go.USA.gov is open source, built using Drupal, and is maintained by GSA.
 Most short URLs do not provide clues about their destination. That’s why we created USA.gov short URLs. We wanted users to click with confidence and know they will reach official government information.
 
 When creating Go.USA.gov, we assumed most users would be clicking short URLs, not typing them into a web browser. We’ve found that using short URLs in printed materials (posters, flyers, brochures, etc.) creates a poor user experience. <a href="http://go.usa.gov/node/14">Read more about this and suggestions for fixing it</a>.
-  
+
 ## Accessibility of Short URLs
 
 Short URLs can actually be beneficial for people using assistive technologies because it shortens the reading time and the cognitive load that longer URLs can create. Imagine listening to<a href="http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml">http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml</a> being read aloud versus<a href="http://go.usa.gov/WhzY">http://go.usa.gov/WhzY</a>.
@@ -49,7 +49,7 @@ Short URLs can actually be beneficial for people using assistive technologies be
 With that in mind, you should avoid using the short URL as the link title, such as “<a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" >}}">Click here</a>” (It’s never a good idea to use “click here,” but that’s a story for another day.) It’s ok to use a short URL as the link when you use actual words as the link title, such as “Learn more about <a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" >}}">short URLs</a>.”
 
 You can’t follow this rule when writing messages for social media because there isn’t the option to use a link title. Instead, give a good description first so users can decide if they want to click the link, such as “You can learn more about how to create short .gov URLs at <a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" >}}">http://go.usa.gov/Whtm</a>.” <a title="5 Myths About Social Media Accessibility" href="{{< ref "2013-06-26-5-myths-about-social-media-accessibility-2.md" >}}">Learn more about making social media accessible</a>.
-  
+
 ## Search Engine Optimization (SEO) of Short URLs
 
 URL shorteners that use 301 “permanent” redirects do not have negative effects on SEO. Both Go.USA.gov and bitly.com (the service that powers 1.USA.gov) use this type of redirect.
