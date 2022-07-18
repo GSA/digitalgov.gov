@@ -18,7 +18,7 @@ deck: "**C-SCRM Acquisition Community of Practice (ACoP) Interact
   expertise needed to implement C-SCRM requirements. Working together as a
   community and sharing information will help us improve our cybersecurity
   posture across all levels of government."
-summary: sum
+summary: 
 # See all topics at https://digital.gov/topics
 topics:
   - security
