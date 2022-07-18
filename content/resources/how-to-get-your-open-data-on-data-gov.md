@@ -19,9 +19,9 @@ This guide is primarily for the [Open Data Points of Contact](https://project-op
 
 * [**Overview**](#overview "Overview")
 * [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1-organize-your-open-data-for-the-data-gov-pipeline "Step 1: Organize your open data for the Data.gov Pipeline")
-    * [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
-    * [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
-    * [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
+  * [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
+  * [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
+  * [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
 * [**Step 2: Coordinate with Data.gov**](#step-2-coordinate-with-data-gov "Step 2: Coordinate with Data.gov")
 * [**Resources & Tools**](#resources-tools "Resources & Tools")
 * [**Frequently Asked Questions**](#frequently-asked-questions "Frequently Asked Questions")
@@ -99,7 +99,7 @@ In the past, geospatial metadata records were maintained and discoverable via se
 
 Metadata for geospatial datasets in [catalog.data.gov](http://catalog.data.gov/dataset) is also made available in [GeoPlatform.gov](http://www.geoplatform.gov/). GeoPlatform.gov provides access and management of geospatial resources through common geospatial data, services, and applications contributed and administered by trusted sources and hosted on shared infrastructure for use by federal agencies, agency partners, and the public. Geospatial metadata is made available to GeoPlatform.gov from the metadata harvested by catalog.data.gov and is displayed on GeoPlatform.gov via an application programming interface (API) on catalog.data.gov. In other words, the datasets discoverable on GeoPlatform.gov are from the geospatial metadata collected by the catalog using the following API call:
 
-http://catalog.data.gov/api/3/action/package_search?q=metadata_type:geospatial
+<http://catalog.data.gov/api/3/action/package_search?q=metadata_type:geospatial>
 
 The majority of open government datasets have some relationship to spatial data (e.g. jurisdiction, address). For the purposes of this document and learning how data gets published in Data.gov, “geospatial data” here specifically refers to spatial data that has historically been included as part of the Federal Geographic Data Committee and GeoPlatform.gov and utilizes robust geospatial metadata standards such as the the suite of ISO standards or the FGDC’s Content Standard for Digital Geospatial Metadata ([CSDGM](http://www.fgdc.gov/metadata/csdgm)).These geospatial metadata standards are needed to properly display data and utilize the spatial functionality on GeoPlatform.gov.
 
@@ -135,7 +135,7 @@ Data.gov incorporates data sources from state, local, and tribal governments. No
     Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from [Socrata](https://nycopendata.socrata.com/data.json) and [ArcGIS Open Data](http://opendata.dc.gov/data.json)), but it is possible to set up a harvest source with any data management system (see [this CKAN example](https://www.opendataphilly.org/data.json)). The metadata required from non-federal sources does not include the [USG noted fields](https://project-open-data.cio.gov/v1.1/schema/#USG-note) and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the Resources and Tools below. **Required:** A Harvest Source at: `https://_______.gov/data.json`, e.g. `https://data.brla.gov/data.json`
 2. **A Terms of Use URL**
     A publicly accessible Terms of Use (or Data Policy) URL or similar information in order to make it clear to Data.gov users when they are viewing datasets that are not covered by federal statutory and regulatory requirements.
-    **Required:** A Terms of Use URL, _e.g. https://data.brla.gov/terms-of-service_
+    **Required:** A Terms of Use URL, _e.g. <https://data.brla.gov/terms-of-service>_
 
 Once you have coordinated with Data.gov on these two items, automated nightly updates to Data.gov can be set up very quickly. Non-federal organizations can provide the necessary information through [the form](http://www.data.gov/local/add).
 
@@ -269,7 +269,7 @@ For the open data policy and harvesting on to Data.gov, it needs to be a JSON fo
 
 The Project Open Data dashboard at labs.data.gov/dashboard provides more detailed information on the agency datasets on Data.gov. For instance, if a dataset is no longer maintained and becomes a broken link, that will be noted on the dashboard. As a result, required updates will be more easily identified and addressed.
 
-**I saw two admirable example data.json files: http://www.gsa.gov/data.json and http://www.nist.gov/data.json. Are there more to survey?**
+**I saw two admirable example data.json files: <http://www.gsa.gov/data.json> and <http://www.nist.gov/data.json>. Are there more to survey?**
 
 Check out the [Project Open Data Dashboard](http://labs.data.gov/dashboard/offices) or your favorite agency’s website /data.json
 

@@ -39,7 +39,7 @@ Below we have added specific resources to each guideline.
   Guideline 1: Make sure your content is structured and chunked appropriately for multiple devices
 </h2>
 
-### Government Examples and Resources:
+### Government Examples and Resources
 
 * [DigitalGov Resources to Make your Content Mobile-Friendly]({{< ref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}})  &#8211; An overview of DigitalGov resources about making agency content mobile   friendly. Find case studies, tools and code to help you mobilize content.
 * [Why NCI Moved to a Structured]({{< ref "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}}) Content Model (a case study)
@@ -64,7 +64,7 @@ Below we have added specific resources to each guideline.
   Guideline 2: Follow industry user interface guidelines and government regulations (like 508) in the development of your mobile product
 </h2>
 
-### Government Regulations and Resources:
+### Government Regulations and Resources
 
 * [Section 508 Rules refresh](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/proposed-rule/ii-executive-summary) &#8211; includes guidance for smartphones and other new devices.
 * [Status of Worldwide Efforts to Update Accessibility Guidance]({{< ref "2015-06-23-trends-on-tuesday-global-efforts-underway-to-update-mobile-accessibility-guidelines.md" >}})
@@ -72,7 +72,7 @@ Below we have added specific resources to each guideline.
 * [Mobile Statement of Work and Developer Qualifications]({{< ref "mobile-sow-and-developer-qualifications.md" >}})
 * Developed by agencies with mobile contracts, includes current iOS, Google Play, etc. SDK requirements).
 
-### Non-Government Examples and Resources:
+### Non-Government Examples and Resources
 
 * [Android Accessibility Guidelines](http://developer.android.com/guide/topics/ui/accessibility/checklist.html) and [iOS Accessibility Guidelines](https://www.apple.com/accessibility/ios/)
 * [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/) &#8211; Provides informative guidance on how the WCAG 2.0 guidelines map to mobile devices.
@@ -87,13 +87,13 @@ Below we have added specific resources to each guideline.
   Guideline 3: Leverage the device’s features for usability and accessibility
 </h2>
 
-### Government Examples and Resources:
+### Government Examples and Resources
 
 * [How Six Agencies are CrowdSourcing with Native Apps]({{< ref "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" >}})
-    * [NOAA CrowdMag: Citizen Science on the Go]({{< ref "2015-06-18-noaas-crowdmag-app-citizen-science-on-the-go.md" >}})
+  * [NOAA CrowdMag: Citizen Science on the Go]({{< ref "2015-06-18-noaas-crowdmag-app-citizen-science-on-the-go.md" >}})
 * [American Battle Monuments Commission Native Apps]({{< ref "2015-03-05-explore-iconic-overseas-world-war-ii-sites-with-abmc-apps.md" >}})
 
-### Non-Government Examples and Resources:
+### Non-Government Examples and Resources
 
 * [Mobile User Experience: Limitations and Strengths](http://www.nngroup.com/articles/mobile-ux/)
 * [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)
@@ -103,7 +103,7 @@ Below we have added specific resources to each guideline.
   Guideline 4: Test at multiple points in the design/development process
 </h2>
 
-### Government Examples and Resources:
+### Government Examples and Resources
 
 * [Design Sketching: The Easiest Prototype Method Ever]({{< ref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}}) &#8211; Discusses how paper sketching can quickly capture the essence of a mobile app/website.
 * [Mobile paper prototype]({{< ref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}})
@@ -111,7 +111,7 @@ Below we have added specific resources to each guideline.
 * [The Emulator Dilemma: Can Mobile Device Testing Be Completed With Devices?]({{< ref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}})
 * [AIDS.Gov Performance Testing Lessons Learned]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}})
 
-### Non-Government Examples and Resources:
+### Non-Government Examples and Resources
 
 * [Android Testing Guidance](http://developer.android.com/distribute/essentials/quality/core.html)
 * [iOS Testing Guidance](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/TestingYouriOSApp/TestingYouriOSApp.html)
@@ -124,7 +124,7 @@ Below we have added specific resources to each guideline.
   Guideline 5: Collect and use data (quantitative and qualitative) to determine what content your users want and where
 </h2>
 
-### Government Examples & Resources:
+### Government Examples & Resources
 
 * [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})
 * [SaferBus Mobile Usability Case Study]({{< ref "2013-03-21-saferbus-mobile-usability-case-study.md" >}})
@@ -132,7 +132,7 @@ Below we have added specific resources to each guideline.
 * [CDC&#8217;s Digital Front Door Goes Responsive]({{< ref "2014-06-05-cdcs-digital-front-door-goes-responsive.md" >}})
 * [Responsive Web Design Challenges Webinar Recap]({{< ref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}})
 
-### Non-Government Examples  & Resources:
+### Non-Government Examples  & Resources
 
 * [Google Mobile Analytics](https://analyticsacademy.withgoogle.com/course04)
 * [Flurry Mobile Analytics](https://developer.yahoo.com/flurry/docs/analytics/)
@@ -144,13 +144,13 @@ Below we have added specific resources to each guideline.
   Guideline 6: Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems
 </h2>
 
-### Government Examples & Resources:
+### Government Examples & Resources
 
 * [Mobile Technology Tiger Team](https://cio.gov/mobile-technology-tiger-team-sets-federal-mobile-applications-security-standards/)
 * [Mobile Privacy Disclosures: Building Trust Through Transparency: A Federal Trade Commission Staff Report](https://www.ftc.gov/reports/mobile-privacy-disclosures-building-trust-through-transparency-federal-trade-commission), Feb 2013
 * [Mobile App Developers: Start with Security](https://www.ftc.gov/tips-advice/business-center/guidance/mobile-app-developers-start-security), FTC
 
-### Non-Government Examples & Resources:
+### Non-Government Examples & Resources
 
 * [Security and Privacy Changes in iOS 9](https://nabla-c0d3.github.io/blog/2015/06/16/ios9-security-privacy/) &#8211; iOS 9 to enforce HTTPS by default
 * [TOSDR.org](https://tosdr.org/) &#8211; Write better Terms of Service by using plain language

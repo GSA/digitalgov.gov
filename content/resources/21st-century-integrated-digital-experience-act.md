@@ -183,5 +183,5 @@ Refer to [Public Law 115–336](https://www.congress.gov/115/plaws/publ336/PLAW-
 - Visit our topic page for [21st Century IDEA-related resources, news, and training events](https://digital.gov/topics/21st-century-idea/).
 - Learn about the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
 - Resource pages:
-    - [Checklist of Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)&mdash;The relevant laws, policies, and regulations for federal agencies.
-    - [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/)&mdash;A list of required links that all federal websites need to have.
+  - [Checklist of Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)&mdash;The relevant laws, policies, and regulations for federal agencies.
+  - [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/)&mdash;A list of required links that all federal websites need to have.

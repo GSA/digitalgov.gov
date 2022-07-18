@@ -74,24 +74,24 @@ Use and customize these sample position descriptions to hire your own digital go
 Job posting examples of User Centered Design and research.
 
 * **Cognitive Research / Psychology**
-    * [Research Psychologist &#8211; Army](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ResearchPsychologist-Army.docx) (MS Word, Feb. 2015)
-    * [Research Psychologist &#8211; U.S. Census](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ResearchPsychologist-U.S.Census.docx) (MS Word, Feb. 2015)
-    * [Computer Scientist &#8211; NIST](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ComputerScientist-NationalInstituteofStandardsandTechnology.docx) (MS Word, Feb. 2015)
+  * [Research Psychologist &#8211; Army](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ResearchPsychologist-Army.docx) (MS Word, Feb. 2015)
+  * [Research Psychologist &#8211; U.S. Census](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ResearchPsychologist-U.S.Census.docx) (MS Word, Feb. 2015)
+  * [Computer Scientist &#8211; NIST](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ComputerScientist-NationalInstituteofStandardsandTechnology.docx) (MS Word, Feb. 2015)
 
 * **Customer Experience**
-    * [Customer Experience Officer &#8211; Dept. of Education](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/Customer-Experience-Officer-Dept.-Education.pdf) (PDF, Feb. 2015)
+  * [Customer Experience Officer &#8211; Dept. of Education](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/Customer-Experience-Officer-Dept.-Education.pdf) (PDF, Feb. 2015)
 * **Information Architecture**
-    * [Information Architect &#8211; Library of Congress](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/InformationArchitect-LibraryofCongress.docx) (MS Word, Feb. 2015)
+  * [Information Architect &#8211; Library of Congress](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/InformationArchitect-LibraryofCongress.docx) (MS Word, Feb. 2015)
 * **User Experience Design**
-    * [User Interface Designer &#8211; Veterans Affairs](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-VeteransAffairs2.docx) (MS Word, Feb. 2015)
-    * [User Experience Designer &#8211; CFPB](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UXDesigner-CFPB.docx) (MS Word, Feb. 2015)
-    * [User Experience Designer &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UXDesigner-PatentandTrademarkOffice1.docx) (MS Word, Feb. 2015)
+  * [User Interface Designer &#8211; Veterans Affairs](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-VeteransAffairs2.docx) (MS Word, Feb. 2015)
+  * [User Experience Designer &#8211; CFPB](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UXDesigner-CFPB.docx) (MS Word, Feb. 2015)
+  * [User Experience Designer &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UXDesigner-PatentandTrademarkOffice1.docx) (MS Word, Feb. 2015)
 * **User Experience Research**
-    * [Senior Usability Specialist &#8211; Federal Aviation Administration](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/SeniorUsabilitySpecialist-FederalAviationAdministration.docx) (MS Word, Feb. 2015)
-    * [Program Analyst, Usability &#8211; GSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ProgramAnalystUsability-GSA1.docx) (MS Word, Feb. 2015)
-    * [Usability Specialist &#8211; HHS](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-HHS.docx) (MS Word, Feb. 2015)
-    * [Usability Specialist &#8211; Veterans Affairs](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-VeteransAffairs2.docx) (MS Word, Feb. 2015)
-    * [Engineering Psychologist &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/EngineeringPsychologistUserExperienceUsabilitySr-U.S.PatentTrademarkOffice.docx) (MS Word, Feb. 2015)
+  * [Senior Usability Specialist &#8211; Federal Aviation Administration](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/SeniorUsabilitySpecialist-FederalAviationAdministration.docx) (MS Word, Feb. 2015)
+  * [Program Analyst, Usability &#8211; GSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ProgramAnalystUsability-GSA1.docx) (MS Word, Feb. 2015)
+  * [Usability Specialist &#8211; HHS](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-HHS.docx) (MS Word, Feb. 2015)
+  * [Usability Specialist &#8211; Veterans Affairs](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-VeteransAffairs2.docx) (MS Word, Feb. 2015)
+  * [Engineering Psychologist &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/EngineeringPsychologistUserExperienceUsabilitySr-U.S.PatentTrademarkOffice.docx) (MS Word, Feb. 2015)
 
 [Find additional position templates on Usability.gov](http://www.Usability.gov)
 
@@ -100,7 +100,7 @@ Job posting examples of User Centered Design and research.
 * [Introduction to the Position Classification Standards (OPM)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-opm-position-classification-standards-September-2009.pdf) (PDF, 438.81, 73 pages, September 2009)
 * [OPM Hiring Reform](http://www.opm.gov/policy-data-oversight/human-capital-management/hiring-reform/)
 * Create a job announcement:
-    * [Position Description](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-position-description-process-improvement-specialist-metrics-September-2011.pdf) (PDF, 555 KB, 8 pages, September 2011)
-    * [Job Analysis](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-job-analysis-metrics-officer-September-2011.pdf) (PDF, 88 KB, 2 pages, September 2011)
-    * [Factor Questions](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-factor-questions-metrics-officer-September-2011.docx) (MS Word, 15 KB, 3 pages, September 2011)
-    * [Job Announcement](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-job-announcement-metrics-officer-September-2011.docx) (MS Word, 35 KB, 12 pages, September 2011)
+  * [Position Description](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-position-description-process-improvement-specialist-metrics-September-2011.pdf) (PDF, 555 KB, 8 pages, September 2011)
+  * [Job Analysis](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-job-analysis-metrics-officer-September-2011.pdf) (PDF, 88 KB, 2 pages, September 2011)
+  * [Factor Questions](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-factor-questions-metrics-officer-September-2011.docx) (MS Word, 15 KB, 3 pages, September 2011)
+  * [Job Announcement](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-job-announcement-metrics-officer-September-2011.docx) (MS Word, 35 KB, 12 pages, September 2011)

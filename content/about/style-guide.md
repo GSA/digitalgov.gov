@@ -24,7 +24,7 @@ Additionally, where possible:
 * Avoid using gendered pronouns; instead, use they or their.
 * Avoid age-related descriptions of people unless absolutely necessary for the content; in those cases, try using older people or older person—instead of elderly or senior.
 
-See the **18F Content Guide** for more on inclusive language: https://content-guide.18f.gov/inclusive-language/
+See the **18F Content Guide** for more on inclusive language: <https://content-guide.18f.gov/inclusive-language/>
 
 ## Grammar and Spelling
 
@@ -66,8 +66,8 @@ Do not use H3 or below to attempt to make the text appear bold; just apply bold 
 
 #### Numbers
 
-- Write out all nine numbers under 10, except for percentages
-- Use the word percent; not the percent sign (use twenty-three percent, not 23%)
+* Write out all nine numbers under 10, except for percentages
+* Use the word percent; not the percent sign (use twenty-three percent, not 23%)
 
 #### Symbols
 
@@ -75,25 +75,25 @@ Unless the symbol is part of a name or branding, use the word (e.g., use the wor
 
 #### Dates
 
-- Use the expanded form of Month Day, Year (e.g., February 16, 2018) to avoid confusion that may arise by using the numeric format—for users in some other countries, 01/11/2018 would mean November 1st; not January 11th.
-    - For specific dates, use the full, four-digit year
-- Can abbreviate for informal dates (the ‘90s)
-- Include ordinal indicators (st, nd, rd, th) on dates (e.g., use November 23rd instead of November 23)
+* Use the expanded form of Month Day, Year (e.g., February 16, 2018) to avoid confusion that may arise by using the numeric format—for users in some other countries, 01/11/2018 would mean November 1st; not January 11th.
+  * For specific dates, use the full, four-digit year
+* Can abbreviate for informal dates (the ‘90s)
+* Include ordinal indicators (st, nd, rd, th) on dates (e.g., use November 23rd instead of November 23)
 
 #### Time
 
-- Time descriptors “ante meridiem” (before noon) and “post meridiem” (after noon) should be abbreviated with lowercase letters as am and pm, respectively.
-- Use the 12-hour clock (8:00 am, 4:00 pm)
-- Avoid redundancies, such as, "10 am this morning"
-- Seasons (winter, spring, summer, fall, autumn) are not capitalized
+* Time descriptors “ante meridiem” (before noon) and “post meridiem” (after noon) should be abbreviated with lowercase letters as am and pm, respectively.
+* Use the 12-hour clock (8:00 am, 4:00 pm)
+* Avoid redundancies, such as, "10 am this morning"
+* Seasons (winter, spring, summer, fall, autumn) are not capitalized
 
 #### Places
 
-- When referring to a number of states, the word “state” should be lowercase (e.g., All 50 states responded.)
-- Locations
-    - District of Columbia: abbreviate as D.C. in copy, but use the official postal code, DC (without periods), for an address
-    - United States: abbreviate as U.S.
-    - In copy, spell out state names, such as California. This will help keep naming conventions consistent (while the 2-character abbreviation without periods is the current postal standard for addresses in U.S. states and territories, older versions are still used by some people), and it can help avoid confusion; people often mix up the abbreviation for Louisiana (LA) with the one for Los Angeles (L.A.)
+* When referring to a number of states, the word “state” should be lowercase (e.g., All 50 states responded.)
+* Locations
+  * District of Columbia: abbreviate as D.C. in copy, but use the official postal code, DC (without periods), for an address
+  * United States: abbreviate as U.S.
+  * In copy, spell out state names, such as California. This will help keep naming conventions consistent (while the 2-character abbreviation without periods is the current postal standard for addresses in U.S. states and territories, older versions are still used by some people), and it can help avoid confusion; people often mix up the abbreviation for Louisiana (LA) with the one for Los Angeles (L.A.)
 
 ### Agency Abbreviations
 
@@ -129,8 +129,8 @@ In writing, oral pauses are indicated by commas. They are also used to order thi
 
 It can be confusing (or potentially [costly](https://www.washingtonpost.com/news/morning-mix/wp/2017/03/16/the-ruling-in-this-maine-labor-dispute-hinged-on-the-omission-of-an-oxford-comma/) in [unexpected](https://www.instagram.com/p/BSTmAS2lZ_6/) ways) to omit the Oxford comma, so, we’d like to err on the side of caution. As noted by [AP Stylebook in their Twitter Chat on September 12, 2017](https://twitter.com/APStylebook/status/907673471865507841):
 
-- “We don't ban Oxford commas! We say: If omitting a comma could lead to confusion or misinterpretation, then use the comma.”
-- “But: If a comma doesn't help make clear what is being said, don't use it. "The flag is red, white and blue" is clear.”
+* “We don't ban Oxford commas! We say: If omitting a comma could lead to confusion or misinterpretation, then use the comma.”
+* “But: If a comma doesn't help make clear what is being said, don't use it. "The flag is red, white and blue" is clear.”
 
 So, use your best judgement. If anything is unclear, we’ll help you clarify.
 
@@ -142,10 +142,10 @@ After a colon, capitalize the next word if it starts a complete sentence (i.e., 
 
 Use an apostrophe to indicate:
 
-- Possession—”Agile also improves the development team’s ability to commit to work.”
-- Missing letters or numbers
-    - Contractions: ”For example, with a bilingual English/Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text).”
-    - Date abbreviations: ”the ‘90s” (the apostrophe replaces the _19_ in _1990s_)
+* Possession—”Agile also improves the development team’s ability to commit to work.”
+* Missing letters or numbers
+  * Contractions: ”For example, with a bilingual English/Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text).”
+  * Date abbreviations: ”the ‘90s” (the apostrophe replaces the _19_ in _1990s_)
 
 Do not use an apostrophe to make words plural.
 Ever.
@@ -162,7 +162,7 @@ If it’s a complete sentence, use punctuation (usually a period) at the end of 
 
 If it’s a list of fragments, do not use punctuation at the end. Capitalize the first word in each bullet point.
 
-#### i.e., vs. e.g.,
+#### i.e., vs. e.g
 
 e.g. (_exempli gratia_), which is Latin for “for example, ...” use it to list one or more examples
 
@@ -198,15 +198,15 @@ The overarching name of the site is Digital.gov. You may see references to “Di
 {{< asset-img path="/img/digit-usa.png" alt="" width="100"  >}}
 {{< /accordion >}}
 
-### Branded names and initialisms or acronyms for related services and programs:
+### Branded names and initialisms or acronyms for related services and programs
 
-- **[Digital Analytics Program](https://www.digital.gov/dap/)** (DAP)
-    - dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
-- **DigitalGov Search** was renamed: **[Search.gov](https://www.digital.gov/services/search/)**
-- **[Digital.gov University](https://www.digital.gov/digitalgov-university/)** (DGU)
-- **[Federal CrowdSource Mobile Testing Program](https://www.digital.gov/services/mobile-application-testing-program/)** (no acronym)
-- **[U.S. Digital Registry](https://www.digital.gov/services/u-s-digital-registry/)** (no acronym; replaced the Federal Social Media Registry and the Federal Mobile Products Registry)
-- **U.S. Web Design Standards** was renamed: **[U.S. Web Design System](https://designsystem.digital.gov/)** (USWDS)
+* **[Digital Analytics Program](https://www.digital.gov/dap/)** (DAP)
+  * dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
+* **DigitalGov Search** was renamed: **[Search.gov](https://www.digital.gov/services/search/)**
+* **[Digital.gov University](https://www.digital.gov/digitalgov-university/)** (DGU)
+* **[Federal CrowdSource Mobile Testing Program](https://www.digital.gov/services/mobile-application-testing-program/)** (no acronym)
+* **[U.S. Digital Registry](https://www.digital.gov/services/u-s-digital-registry/)** (no acronym; replaced the Federal Social Media Registry and the Federal Mobile Products Registry)
+* **U.S. Web Design Standards** was renamed: **[U.S. Web Design System](https://designsystem.digital.gov/)** (USWDS)
 
 Additionally, we often abbreviate Community of Practice as CoP, and we have [over 20 communities](https://digital.gov/communities/) listed on Digital.gov. However, they are run by federal employees at agencies across the federal government, so they don’t always follow the same naming conventions. If writing about them or topics covered in their listservs, you can get the full, proper name (and any alternates) from their individual Community pages on Digital.gov.
 
@@ -216,9 +216,9 @@ Name examples include: MobileGov, SocialGov, OpenGov, Open Data, PLAIN, Governme
 
 **Image File Types:**
 
-- .jpg
-- .png
-- .gif (only if animated)
+* .jpg
+* .png
+* .gif (only if animated)
 
 **Image Dimensions:**
 
@@ -251,7 +251,7 @@ _Best Practices for Attribution_ (with examples):
 3. **flickr** photos ([Digital.gov example](https://digital.gov/2014/06/30/social-media-accessibility-issues-and-solutions/))
 
 Give attribution to photographers with CC license
-https://help.yahoo.com/kb/flickr/SLN7674.html
+<https://help.yahoo.com/kb/flickr/SLN7674.html>
 
 > Definitions and general guidelines are available on Creative Commons website. We also provide guidelines for attributing Creative Commons content. However, specifics about how to attribute All Rights Reserved content are not provided. When in doubt, contact the photographer. See our forum thread about what is considered adequate attribution.
 
@@ -265,13 +265,13 @@ _caption_: Available search filters on flickr.com.
 
 Below are some free image and media resources. Take care to read and supply any attribution requirements for images used from these sources
 
-- [The National Archives](https://www.archives.gov/research/catalog)
-- [Library of Congress](http://loc.gov/pictures/)
-- [Defense Visual Information Distribution Service (DVIDS)](https://www.dvidshub.net/)
-- [USA.gov](https://search.usa.gov/search/images?utf8=%E2%9C%93&affiliate=usagov)
-- [National Science Foundation Multimedia Gallery](https://www.nsf.gov/news/mmg/)
-- [Creative Commons](https://creativecommons.org/use-remix/)
-- [NOAA Photo Library](http://www.photolib.noaa.gov/)
-- [NASA Earth Observatory](https://earthobservatory.nasa.gov/)
+* [The National Archives](https://www.archives.gov/research/catalog)
+* [Library of Congress](http://loc.gov/pictures/)
+* [Defense Visual Information Distribution Service (DVIDS)](https://www.dvidshub.net/)
+* [USA.gov](https://search.usa.gov/search/images?utf8=%E2%9C%93&affiliate=usagov)
+* [National Science Foundation Multimedia Gallery](https://www.nsf.gov/news/mmg/)
+* [Creative Commons](https://creativecommons.org/use-remix/)
+* [NOAA Photo Library](http://www.photolib.noaa.gov/)
+* [NASA Earth Observatory](https://earthobservatory.nasa.gov/)
 
 **_Note_**: Digital.gov does have access to Getty’s [ThinkStock.com](http://www.ThinkStock.com) website (not free). If you wish to use an image from there, just include the URL for each image with your draft; we’ll log in, review, and download them for your posts.

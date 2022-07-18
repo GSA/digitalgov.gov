@@ -11,7 +11,7 @@ authors:
 
 This document is a collaboration between federal agencies around what should types of information should be in our digital governance policies. It was originally published on DigitalGov.gov back in 2014 and has since been revived as a starting point for this collaboration. Members of the Digital Council are leading this effort. [**View the outline »**](https://github.com/GSA/digital-governance-outline/blob/master/outline.md)
 
-#### How to contribute:
+#### How to contribute
 
 Start by using this document to map out a governance plan for your agency. Let us know what needs to be changed.
 

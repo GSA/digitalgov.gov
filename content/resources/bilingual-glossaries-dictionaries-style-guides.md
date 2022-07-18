@@ -128,14 +128,14 @@ Financial and retirement terminology:
 
 #### U.S. Department of Health and Human Services (HHS)
 
-- [Health Resources and Services Administration](https://www.hrsa.gov/) (HRSA): <br />Offers the **Glossary for Organ Donation and Transplantation** on [their English website](https://www.organdonor.gov/about/facts-terms/terms.html), and [their Spanish website](https://donaciondeorganos.gov/sobre/datos-t%C3%A9rminos/1yv2/t%C3%A9rminos.html).
-- [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
-- The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers a glossary and a style guide:
-    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
-    - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/culture-language/article/style-guide-translations-spanish).
-- [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish:
-    - [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a)
-    - [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a)
+* [Health Resources and Services Administration](https://www.hrsa.gov/) (HRSA): <br />Offers the **Glossary for Organ Donation and Transplantation** on [their English website](https://www.organdonor.gov/about/facts-terms/terms.html), and [their Spanish website](https://donaciondeorganos.gov/sobre/datos-t%C3%A9rminos/1yv2/t%C3%A9rminos.html).
+* [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
+* The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers a glossary and a style guide:
+  * the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
+  * [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/culture-language/article/style-guide-translations-spanish).
+* [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish:
+  * [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a)
+  * [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a)
 
 ### Environment
 
@@ -151,9 +151,9 @@ The [Translation Glossary page](https://sfenvironment.org/download/translation-g
 
 Below is a compilation of available resources from different education organizations.
 
-- The [English-Spanish Glossary of Student Financial Aid and Postsecondary Education](https://www.nasfaa.org/uploads/documents/ektron/88fdd293-2f4e-4c63-996e-f4bb95192879/0787ae7a3bcd4d0e98888ea6e82a69344.pdf) (513 kb, PDF, 44 pages) is led by TG and the U.S. Department of Education in partnership with many other organizations.
-- The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870).
-- This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition.
+* The [English-Spanish Glossary of Student Financial Aid and Postsecondary Education](https://www.nasfaa.org/uploads/documents/ektron/88fdd293-2f4e-4c63-996e-f4bb95192879/0787ae7a3bcd4d0e98888ea6e82a69344.pdf) (513 kb, PDF, 44 pages) is led by TG and the U.S. Department of Education in partnership with many other organizations.
+* The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870).
+* This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition.
 
 ## Dictionaries
 
@@ -161,8 +161,8 @@ Below is a compilation of available resources from different education organizat
 
 The National Cancer Institute has a dictionary of cancer terms in English and Spanish.
 
-* English: https://www.cancer.gov/publications/dictionaries/cancer-terms
-* Spanish: https://www.cancer.gov/espanol/publicaciones/diccionario
+* English: <https://www.cancer.gov/publications/dictionaries/cancer-terms>
+* Spanish: <https://www.cancer.gov/espanol/publicaciones/diccionario>
 
 ## Multilingual Language Style Guides
 
@@ -180,9 +180,9 @@ NIH has a new Spanish Style Guide available in [English](https://digital.gov/pdf
 
 ## Additional Resources
 
-- [Spanish Grammar](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/) <br />This page was peer reviewed by Leticia Molinero, Maria Cornelio and Jack Segura, members of the North American Academy of the Spanish Language (ANLE).
-- [Frequently Mistranslated English Terms](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/) <br />This page was peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE).
-- [Information Technology Terms](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/)
-- [Internet Resources English/Spanish Internet Terminology Glossaries](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/)
-- [Spanish Health Care Terms in the United States](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/) <br />This page was peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE).
-- [Glosario Técnico de Computación, Electrónica y Telecomunicaciones](https://www.certifiedchinesetranslation.com/Spanish/glosario.html) (computing, electronics and telecommunications glossary) <br />The glossary’s landing page is in Spanish. Click on the letter of the English term you need to translate and you’ll be directed to the Spanish equivalent term. Also included in the glossary are definitions (shown in italics when applicable) and the abbreviation of the country (listed in brackets) where a translation is used. If a country code is not shown, it is assumed that the translation is valid in all countries where Spanish is spoken.
+* [Spanish Grammar](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/) <br />This page was peer reviewed by Leticia Molinero, Maria Cornelio and Jack Segura, members of the North American Academy of the Spanish Language (ANLE).
+* [Frequently Mistranslated English Terms](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/) <br />This page was peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE).
+* [Information Technology Terms](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/)
+* [Internet Resources English/Spanish Internet Terminology Glossaries](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/)
+* [Spanish Health Care Terms in the United States](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/) <br />This page was peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE).
+* [Glosario Técnico de Computación, Electrónica y Telecomunicaciones](https://www.certifiedchinesetranslation.com/Spanish/glosario.html) (computing, electronics and telecommunications glossary) <br />The glossary’s landing page is in Spanish. Click on the letter of the English term you need to translate and you’ll be directed to the Spanish equivalent term. Also included in the glossary are definitions (shown in italics when applicable) and the abbreviation of the country (listed in brackets) where a translation is used. If a country code is not shown, it is assumed that the translation is valid in all countries where Spanish is spoken.

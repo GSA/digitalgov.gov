@@ -22,7 +22,7 @@ The easiest way to do this is to:
 
 Send them your new spreadsheet and have them mark which domains and sub-domains are auto-renewing.
 
-### 3. Figure out who is responsible for purchasing security (SSL) certificates in your organization.
+### 3. Figure out who is responsible for purchasing security (SSL) certificates in your organization
 
 You are going to need to reach out to the person/people who usually buys your certificates _(someone with purchasing authority)_. They are usually different from the people who upload your certificates _(usually someone in IT)_.
 

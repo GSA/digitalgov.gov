@@ -22,7 +22,7 @@ DigitalGov&#8217;s user experience resources provide tools for federal employees
 * Save money via user research
 * Create successful experiences
 
-## Four User Experience Resources to Help You:
+## Four User Experience Resources to Help You
 
 **1. Usability Starter Kit**
 

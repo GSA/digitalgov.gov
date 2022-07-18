@@ -31,6 +31,6 @@ Well, I&#8217;m married and have two kids (a boy and a girl) so there&#8217;s al
 
 I graduated from George Mason University in Fairfax, VA and received my undergraduate in Communications. At one point, I had strongly considered a degree in Communications and Psychology because I wanted to be a marriage counselor. However, I got sucked into learning how to use something called HTML, and once I figured out how to display an animated GIF of a running dog on a website&#8230;well, that&#8217;s all she wrote. However, my degree has served me very well in my career and has definitely proven worthy.
 
-### Tell us something that most people don&#8217;t know about you.
+### Tell us something that most people don&#8217;t know about you
 
 Two things actually&#8230;I love doing karaoke, and I do a pretty good Donald Duck impression. Not that either one of those things contributes highly to my career or personal life, but you asked! I&#8217;m always up for some karaoke and tend to lean toward 80s and 90s rap music.

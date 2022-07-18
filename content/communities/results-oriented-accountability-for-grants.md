@@ -60,7 +60,7 @@ As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA)
 
 ## Key resources
 
-* [Results-Oriented Accountability for Grants Action Plan](https://www.performance.gov/CAP/CAP_goal_8.html)
-* [Performance.gov Twitter](https://twitter.com/PerformanceGov)
-* [Performance.gov LinkedIn](https://www.linkedin.com/company/performance-gov/)
-* [CFO Council Grants](https://www.cfo.gov/grants/)
+- [Results-Oriented Accountability for Grants Action Plan](https://www.performance.gov/CAP/CAP_goal_8.html)
+- [Performance.gov Twitter](https://twitter.com/PerformanceGov)
+- [Performance.gov LinkedIn](https://www.linkedin.com/company/performance-gov/)
+- [CFO Council Grants](https://www.cfo.gov/grants/)

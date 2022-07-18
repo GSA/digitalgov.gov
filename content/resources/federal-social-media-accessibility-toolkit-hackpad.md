@@ -196,7 +196,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
 * [AccDC Technical Style Guide for Standalone and jQuery](https://github.com/accdc/tsg) (on GitHub)
 
-### Digital Government University (DGU) offers a series of trainings based on these recommendations and expanded guidance. On-demand accessibility classes from DGU include:
+### Digital Government University (DGU) offers a series of trainings based on these recommendations and expanded guidance. On-demand accessibility classes from DGU include
 
 * [Social Media: You Still Need Plain Language](https://www.youtube.com/watch?v=W756zIegQBs&index=23&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Qhttp://www.howto.gov/training/classes/social-media-and-plain-language) (January 2013)
 

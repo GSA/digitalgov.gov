@@ -22,7 +22,7 @@ The objective of the Open Government Program is to make government more transpar
 * **Mobile Apps** &#8211; Developing mobile applications for departments to meet the anticipated demands from residents to access government information and services on their mobile devices
 * **Statewide Intranet** – Providing a collaborative area for users within the State’s organization to communicate, find information, and deploy applications to support business operations.
 
-### Please tell us about a recent success you&#8217;ve had.
+### Please tell us about a recent success you&#8217;ve had
 
 Hawaii.gov was re-launched in 2013 as a comprehensive update to the state’s main web portal. It was released in conjunction with upgrades to webpages across all state departments and agencies, with enhanced mobile, touch and speech capability, increased consistency, and improved accessibility. The update was part of the OIMT’s award-winning Business & Information Technology/Information Resource Management (IT/IRM) Transformation Plan unveiled in 2012. The newly designed Hawaii.gov was developed via a collaborative effort with Hawaii Information Consortium, LLC (HIC), Hawaii&#8217;s state Internet Portal Manager, and the OIMT.
 

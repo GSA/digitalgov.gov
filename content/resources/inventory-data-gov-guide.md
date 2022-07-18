@@ -16,12 +16,12 @@ redirectto: https://resources.data.gov/resources/inventory-data-gov-guide/
 * [Introduction](#introduction)
 * [Features](#features)
 * [Using inventory.data.gov](#using-inventory-data-gov)
-    * [Creating a User Account](#creating-a-user-account)
-    * [Using inventory.data.gov to manage datasets](#using-inventory-data-gov-to-manage-datasets)
-    * [Adding a Dataset](#adding-a-dataset)
-    * [Exporting Data.json](#exporting-data-json)
-    * [Automating data.json downloads by agencies](#automating-data-json-downloads-by-agencies)
-    * [Dataset Hosting](#dataset-hosting)
+  * [Creating a User Account](#creating-a-user-account)
+  * [Using inventory.data.gov to manage datasets](#using-inventory-data-gov-to-manage-datasets)
+  * [Adding a Dataset](#adding-a-dataset)
+  * [Exporting Data.json](#exporting-data-json)
+  * [Automating data.json downloads by agencies](#automating-data-json-downloads-by-agencies)
+  * [Dataset Hosting](#dataset-hosting)
 * [Webinar on inventory.data.gov](#webinar-on-inventory-data-gov)
 
 ## Introduction
@@ -324,7 +324,7 @@ For importing existing data.json, please contact the Data.gov team and we will w
 
 1. How do we know our agency POC?
 
-For Data.gov/Open Data Policy purposes, if you don’t know your agency’s POC, contact the Data.gov team and we will connect you. You can also find your agency POC at https://project-open-data.cio.gov/points-of-contact/
+For Data.gov/Open Data Policy purposes, if you don’t know your agency’s POC, contact the Data.gov team and we will connect you. You can also find your agency POC at <https://project-open-data.cio.gov/points-of-contact/>
 
 1. How does this work with Data.gov?
 

@@ -1,22 +1,33 @@
 ---
 ###########################
 ###########################
+
 ## Markdown Linter rules ##
+
 ###########################
 ###########################
 
-# Linter rules doc:
-# - https://github.com/DavidAnson/markdownlint
+# Linter rules doc
+
+# - <https://github.com/DavidAnson/markdownlint>
+
 #
-# Note:
-# To comment out a single error:
+
+# Note
+
+# To comment out a single error
+
 #   <!-- markdownlint-disable -->
 #   any violations you want
-#   <!-- markdownlint-restore -->
+
+# <!-- markdownlint-restore -->
+
 #
 
 ###############
+
 # Rules by id #
+
 ###############
 MD001: false # Header levels should only increment by one level at a time
 MD004: false # Unordered list style
@@ -34,6 +45,8 @@ MD036: false # Emphasis used instead of a heading
 MD040: false # Fenced code blocks should have a language specified
 
 #################
+
 # Rules by tags #
+
 #################
 blank_lines: false # Error on blank lines

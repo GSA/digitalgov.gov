@@ -7,7 +7,7 @@
     "federalist": "export NODE_ENV=production && gulp buildAssets",
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
-    "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
+    "lint:markdown": "markdownlint --fix ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint": "hugo && run-p lint:*",
     "local-build": "gulp buildAssets && gulp watch",
     "start": "npm-run-all --parallel local-build hugo workflow",

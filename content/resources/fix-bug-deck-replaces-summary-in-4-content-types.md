@@ -73,7 +73,7 @@ Added a Remove Circle icon to the default set.
 
 **Slide 13:** So lots to come in USWDS 3.0.2, and we'll release it tomorrow.
 
-**Slide 14:** Next, [USWDS Compile Beta 3] (https://github.com/uswds/uswds-compile/releases/tag/v1.0.0-beta.3) — What I hope is the last Compile Beta before we release Compile 1.0.
+**Slide 14:** Next, [USWDS Compile Beta 3] (<https://github.com/uswds/uswds-compile/releases/tag/v1.0.0-beta.3>) — What I hope is the last Compile Beta before we release Compile 1.0.
 
 **Slide 15:** Improved icon sprite workflow. Now it’s easy to customize the sprite and keep it up-to-date with USWDS.
 Fixed compatibility with M1 Macs and ARM-based silicon
@@ -85,7 +85,7 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 **Slide 18:**
 **DAN:** And to talk about contribution, I'd like to introduce my colleague Elisa Chen— Elisa, take it away!
 
-**ELISA:** Thanks Dan. Hi everyone! My name is Elisa Chen and I’m a Design Strategist with [18F] (https://18f.gsa.gov/) and am currently detailing with USWDS. I have black, chin length hair. I’m wearing a red shirt.  Today, I’ll be discussing more about contributing to the Design System. So, why talk about this now? As the Design System grows and evolves, contributions will continue to play a critical role. After all, as an open source project, the Design System is the result of your contributions both large and small. Today’s conversation is just a start on how we’re improving the contribution model.
+**ELISA:** Thanks Dan. Hi everyone! My name is Elisa Chen and I’m a Design Strategist with [18F] (<https://18f.gsa.gov/>) and am currently detailing with USWDS. I have black, chin length hair. I’m wearing a red shirt.  Today, I’ll be discussing more about contributing to the Design System. So, why talk about this now? As the Design System grows and evolves, contributions will continue to play a critical role. After all, as an open source project, the Design System is the result of your contributions both large and small. Today’s conversation is just a start on how we’re improving the contribution model.
 
 **Slide 19:** More specifically, today we’ll share what we’ve learned from research we’ve recently done and some new ideas we’re trying based on that research. And at the end, we’ll walk through how you can contribute to the Design System.
 
@@ -107,7 +107,7 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 
 **Slide 28:** We also heard some pain points along the way that led contributors to drop off during the process. For example, some were hesitant to contribute because they were unsure if their contributions were going to be helpful or useful.  It wasn’t clear if ideas were needed or if their ideas aligned with how the Design System wants to grow. Contributors wondered “is my idea pertinent for the Design System? What are its goals and priorities and for when?” Additionally, it can feel intimidating when contributing to an open source project-- “will l look silly submitting this idea where everybody can see?”
 
-**Slide 29:** It was unclear how best they could contribute.  Some contributors asked “where do I start? Where can I find guidance? What do I need to do to propose my feature request?”   
+**Slide 29:** It was unclear how best they could contribute.  Some contributors asked “where do I start? Where can I find guidance? What do I need to do to propose my feature request?”
 
 **Slide 30:** Upon submitting a contribution, many didn’t know what to expect afterwards -- what’s the status of my contribution? Is it accepted? If so, when would I see it released? And from the Design System team perspective, it wasn’t clear which ideas or feature requests were most needed across our community--how could we prioritize better and with input from our members?
 
@@ -121,7 +121,7 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 
 **Slide 35:** If you want to propose a code fix, you can submit a pull request in GitHub. Again, check the open issues backlog to make sure no one’s already submitted the same fix. If your proposed solution exists, comment on the issue letting us know any additional context. If it doesn’t already exist, create a new issue for your proposal. And if you’re proposing bug fix, go ahead and submit your pull request tying it to that issue. If the pull request is accepted, we’ll schedule the issue and merge the pull request for you.
 
-**Slide 36:** If you’d like to contribute something else, we’d still love to hear about it. Just [create an issue] (https://github.com/uswds/uswds/issues) or a [discussion] (https://github.com/uswds/uswds/discussions) in GitHub, and we’ll start the conversation from there.  
+**Slide 36:** If you’d like to contribute something else, we’d still love to hear about it. Just [create an issue] (<https://github.com/uswds/uswds/issues>) or a [discussion] (<https://github.com/uswds/uswds/discussions>) in GitHub, and we’ll start the conversation from there.  
 
 **Slide 37:** Once you submit your contribution, the Design System team reviews and triages submissions based on three major considerations. Size -  meaning can the team accomplish this in a sprint (or 2 weeks) or will it take longer? Severity - meaning what type of functionality does this impact? Is it major or minor? And is there a workaround? Priority - meaning does this submission align with the Design System’s overall vision and roadmap goals?
 
@@ -137,7 +137,7 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 
 **Slide 42:** Thanks for joining today’s USWDS monthly call. Next month, we'll be taking a break. We'll be back with a new monthly call in August. Have a great summer!
 
-As always, I encourage you to join our community in the [#uswds-public] (https://chat.18f.gov/) Slack channel so you can follow our progress, get answers, and contribute to the discussion.
+As always, I encourage you to join our community in the [#uswds-public] (<https://chat.18f.gov/>) Slack channel so you can follow our progress, get answers, and contribute to the discussion.
 
 Thank you, and see you in August!
 

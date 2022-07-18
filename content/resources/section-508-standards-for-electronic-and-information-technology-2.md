@@ -19,7 +19,7 @@ authors:
 
 <a class="button" style="color: #000000" href="http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards">View 508 Standards for Electronic and IT</a>
 
-## Related Resources:
+## Related Resources
 
 * Read more [Accessibility related articles]({{< ref "/topics/accessibility" >}}) on DigitalGov
 * [Using Section 508 to Improve the Accessibility of Government Services]({{< ref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})

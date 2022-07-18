@@ -25,11 +25,11 @@ The Folio application automates capital planning and portfolio management proces
 
 ## Our Goals
 
-* Happy federal partners
-* Mature the level of IT Capital Planning and IT Investment Management controls and processes across federal agencies
-* Assist the Office of Management and Budget (OMB) in creating effective guidance and providing value added oversight by being their IT capital planning and IT investment management subject matter expert
-* Increase agency adoption of the Folio tool
-* Utilize the FESCOM to modernize the Folio application to improve current capability, take advantage of modern technologies, and ensure the future security of the Folio tool
+- Happy federal partners
+- Mature the level of IT Capital Planning and IT Investment Management controls and processes across federal agencies
+- Assist the Office of Management and Budget (OMB) in creating effective guidance and providing value added oversight by being their IT capital planning and IT investment management subject matter expert
+- Increase agency adoption of the Folio tool
+- Utilize the FESCOM to modernize the Folio application to improve current capability, take advantage of modern technologies, and ensure the future security of the Folio tool
 
 ## Folio Agencies
 

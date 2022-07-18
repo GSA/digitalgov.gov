@@ -42,7 +42,7 @@ Join other federal user experience practitioners and learn how to make better us
 
 Send an email from your official government email to [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20UX%20Community), with “Join UX Community” in the subject line.
 
-## Community Managers:
+## Community Managers
 
 Jean Fox (BLS) and Silvia Salazar (NIH)
 
@@ -61,11 +61,11 @@ Our members include more than 1,100 federal, state, and local U.S. government em
 
 ## What we do
 
-* Create case studies of why UX works!
-* Webinars and educational sessions for government Web managers, usability specialists, project managers, etc…
-* User Experience (UX) networking events
-* Connect people to useful UX resources
+- Create case studies of why UX works!
+- Webinars and educational sessions for government Web managers, usability specialists, project managers, etc…
+- User Experience (UX) networking events
+- Connect people to useful UX resources
 
 ## Key Resources
 
-* https://www.usability.gov/
+- <https://www.usability.gov/>

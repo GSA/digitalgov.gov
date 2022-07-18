@@ -151,13 +151,13 @@ Incorrect use in USA: $1.276,59
 
 ### Ordinal numbers
 
-#### Commonly used:
+#### Commonly used
 
 Abbreviated ordinal numbers: 1ro. or 1º, 2do. or 2º, 3ro. or 3º…
 
 Feminine gender case: 1ra. or 1ª, 2da. o 2ª, 3ra o 3ª …
 
-#### Academic Spanish:
+#### Academic Spanish
 
 Abbreviated ordinal numbers: 1.º, 2.º, 3.º… 25.º… 100.º
 

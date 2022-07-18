@@ -879,24 +879,24 @@ GSA developed the performance and customer satisfaction guidance with the federa
 
 * Reichheld, F.; Markey, R. _The Ultimate Question 2.0: How Net Promoter Companies Thrive in a Customer-Driven World_ (Revised and Expanded Edition) (Harvard Business Review Press; September 20, 2011)
 * [Forrester](http://www.forrester.com/home), a global research and advisory firm:
-    * Bernoff, J. (June 11, 2011) Competitive Strategy In The Age of the Customer.
-    * Bodine, K.; and Rogowski, R. (January 14, 2011) 2011 Customer Experience Predictions.
-    * Burns, M. (February 17, 2011) The State of Customer Experience, 2011.
-    * Burns, M. (April 18, 2011) How Companies Raised Their Customer Experience Index Scores, 2011.
-    * Burns, M.; Manning, H., Peterson, J., and Catino, S. (December 7, 2010). The Business Impact of Customer Experience, 2010.
-    * Burns, M. (April 29, 2010) Three Secrets of Success for Customer Experience Organizations.
-    * Burns, M. (January 11, 2011) The Customer Experience Index, 2011.
-    * Dorsey, M. (January 28, 2010) The Future of Online Customer Experience.
-    * Drego, V.; Rogowski, R., and Bocal, E. (December 20, 2010) How To Craft Your Customer Research Plan.
-    * Evensen, R. (July 25, 2011) How To Design An Effective Voice of the Customer (VOC) Insights Program.
-    * Hagan, P. (April 29, 2011) Beyond CRM: Manage Customer Experiences.
-    * Leggett, K. (May 26, 2011) Forrester’s Best Practices Framework for Customer Service. Retrieved from [www.forrester.com](http://www.forrester.com/home)
-    * McInnes, A. (May 20, 2011) Voice of the Customer Programs Don’t Deliver Enough Value.
-    * Reitsma, R. (June 30, 2010) A Market Researcher’s Introduction to the Future of Online Customer Experience.
-    * Rogowski, R. (June 15, 2011). Why You Need A Digital Customer Experience Strategy.
-    * Sage, A.; Burns, M., Bocal, E., and Stone, A. (July 20, 2011) What are the Right Web Customer Experience Success Metrics.
+  * Bernoff, J. (June 11, 2011) Competitive Strategy In The Age of the Customer.
+  * Bodine, K.; and Rogowski, R. (January 14, 2011) 2011 Customer Experience Predictions.
+  * Burns, M. (February 17, 2011) The State of Customer Experience, 2011.
+  * Burns, M. (April 18, 2011) How Companies Raised Their Customer Experience Index Scores, 2011.
+  * Burns, M.; Manning, H., Peterson, J., and Catino, S. (December 7, 2010). The Business Impact of Customer Experience, 2010.
+  * Burns, M. (April 29, 2010) Three Secrets of Success for Customer Experience Organizations.
+  * Burns, M. (January 11, 2011) The Customer Experience Index, 2011.
+  * Dorsey, M. (January 28, 2010) The Future of Online Customer Experience.
+  * Drego, V.; Rogowski, R., and Bocal, E. (December 20, 2010) How To Craft Your Customer Research Plan.
+  * Evensen, R. (July 25, 2011) How To Design An Effective Voice of the Customer (VOC) Insights Program.
+  * Hagan, P. (April 29, 2011) Beyond CRM: Manage Customer Experiences.
+  * Leggett, K. (May 26, 2011) Forrester’s Best Practices Framework for Customer Service. Retrieved from [www.forrester.com](http://www.forrester.com/home)
+  * McInnes, A. (May 20, 2011) Voice of the Customer Programs Don’t Deliver Enough Value.
+  * Reitsma, R. (June 30, 2010) A Market Researcher’s Introduction to the Future of Online Customer Experience.
+  * Rogowski, R. (June 15, 2011). Why You Need A Digital Customer Experience Strategy.
+  * Sage, A.; Burns, M., Bocal, E., and Stone, A. (July 20, 2011) What are the Right Web Customer Experience Success Metrics.
 * [Gartner, Inc.](http://www.gartner.com/technology/home.jsp), an information technology research and advisory company**:**
-    * Alvarez, G. (March 2012) What To Do On Monday. Presented at the Gartner 360 Conference in Orlando, FL.
-    * Davies, J.; Thompson, E. (March 2012) Putting Plans for Customer Experience into Practice. Presented at the Gartner 360 Conference in Orlando, FL.
-    * Thompson, E. (March 2012) The Customer Experience Scenario. Presented at the Gartner 360 Conference in Orlando, FL.
-    * Thompson, E. (November 11, 2011) The Gartner Customer Experience Management Maturity Model.
+  * Alvarez, G. (March 2012) What To Do On Monday. Presented at the Gartner 360 Conference in Orlando, FL.
+  * Davies, J.; Thompson, E. (March 2012) Putting Plans for Customer Experience into Practice. Presented at the Gartner 360 Conference in Orlando, FL.
+  * Thompson, E. (March 2012) The Customer Experience Scenario. Presented at the Gartner 360 Conference in Orlando, FL.
+  * Thompson, E. (November 11, 2011) The Gartner Customer Experience Management Maturity Model.

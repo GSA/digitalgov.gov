@@ -61,7 +61,7 @@ Link to authoritative information from other government agencies related to your
 
 The White House, in collaboration with DHS and HHS, encourages agencies to feature the following content on both their agency homepages and coronavirus pages as appropriate.
 
-### Last updated June 12, 2020:
+### Last updated June 12, 2020
 
 **Publishing Operating Status of Federal Public Facilities**:  [OMB M-20-23 - Aligning Federal Agency Operations with the National Guidelines for Opening Up America Again](https://www.whitehouse.gov/wp-content/uploads/2020/04/M-20-23.pdf) (section II, page 9) requires federal agencies to publish the operating status of their public facilities on their website.
 
@@ -74,9 +74,9 @@ Here’s what you should do:
 - Also include up-to date facility status information on your site where customers would look for such information (e.g., Contact Us or About Us pages)
 - Make the facility status information easy to link to, so when someone follows the link, they'll see the info right away
 - Include markup so search engines can more easily find and disseminate the information
-    - Bing tips on marking up [organizations](https://www.bing.com/webmaster/help/markup-businesses-and-organizations-cc507c09) and [special announcements](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249)
-    - Google tips on marking up [organizations](https://developers.google.com/search/docs/data-types/local-business) and [special announcements](https://developers.google.com/search/docs/data-types/special-announcements)
-    - Learn how [USA.gov applies SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find in search results
+  - Bing tips on marking up [organizations](https://www.bing.com/webmaster/help/markup-businesses-and-organizations-cc507c09) and [special announcements](https://www.bing.com/webmaster/help/special-announcement-specifications-5cbd6249)
+  - Google tips on marking up [organizations](https://developers.google.com/search/docs/data-types/local-business) and [special announcements](https://developers.google.com/search/docs/data-types/special-announcements)
+  - Learn how [USA.gov applies SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find in search results
 
 Please contact your [Federal Web Council representative](https://digital.gov/resources/federal-web-council/) if you have questions.
 
@@ -94,8 +94,8 @@ Please contact your [Federal Web Council representative](https://digital.gov/res
 - **Coronavirus Tax Relief**: The Internal Revenue Service (IRS) is offering [Coronavirus Tax Relief](http://www.irs.gov/coronavirus) for individuals, businesses, tax-exempt organizations and others affected by coronavirus (COVID-19). This includes information on Economic Impact Payments going to millions of people.
 
 - **OPM Open Opportunities**: The OPM COVID-19 Response Program is using [Open Opportunities](https://openopps.usajobs.gov/) as a central location for federal agencies to post details and temporary assignments related to coronavirus (COVID-19). Open Opportunities is a governmentwide platform offering professional development opportunities to current federal employees. If your agency is interested in participating:
-    - Email [workforce@opm.gov](mailto:workforce@opm.gov) so OPM can invite you to a virtual information session.
-    - Post details and temporary assignments to [Open Opportunities](https://openopps.usajobs.gov/).
+  - Email [workforce@opm.gov](mailto:workforce@opm.gov) so OPM can invite you to a virtual information session.
+  - Post details and temporary assignments to [Open Opportunities](https://openopps.usajobs.gov/).
 {{< /accordion >}}
 
 {{< accordion kicker="Previous update" title="**April 1, 2020**:" >}}
@@ -154,7 +154,7 @@ This is a primary lane of information for the public regarding Coronavirus (COVI
 
 ### Coronavirus Disease 2019 (COVID-19)
 
-https://www.cdc.gov/coronavirus
+<https://www.cdc.gov/coronavirus>
 
 Coronavirus Disease 2019 (COVID-19) landing page on CDC.gov is the latest public health and safety information from CDC and for the overarching medical and health provider community on COVID-19. The site contains consumer and medical information on how the virus spreads, symptoms, prevention and treatment, stigma, cases and what to do if you are sick, along with frequently asked questions.
 

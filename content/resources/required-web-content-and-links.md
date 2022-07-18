@@ -68,17 +68,17 @@ Secondary agency sites also need an "About" page that describes your site and li
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
  `About` or `About Us`
 
-##### Required on:
+##### Required on
 
 - Your principal website
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-##### Required by:
+##### Required by
 
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
@@ -93,6 +93,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 - **B.** the website’s privacy policy;
 - **C.** the agency’s Freedom of Information Act webpage;
 - {{< highlight >}}**D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:{{< /highlight >}}
+
  1. the agency’s strategic plan and annual performance plans;
  2. the agency’s Privacy Program Page;
  3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
@@ -122,15 +123,15 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
 `Accessibility`
 
-##### Required on:
+##### Required on
 
 - All agency websites, internal and external. Secondary sites can link to the accessibility statement on the domain website.
 
-##### Required by:
+##### Required by
 
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 - [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013){{< / box >}}
@@ -176,15 +177,15 @@ Agencies are required to have a page on their website that has the following inf
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
 `Budget and Performance`
 
-##### Required on:
+##### Required on
 
 - The homepage of your agency's principal website
 
-##### Required by:
+##### Required by
 
 - [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf), Part 6{{< / box >}}
 
@@ -194,7 +195,7 @@ Agencies are required to have a page on their website that has the following inf
 
 **210.6 How are agency-specific plans and reports made available to the public on the agency’s website?**
 
-To enhance transparency of performance data, all Federal {{< highlight >}}agencies should make information, including prior plans and reports, as easy as possible to locate from the agency’s individual website{{< /highlight >}} (e.g., [www.usda.gov](https://www.usda.gov)). Federal Agencies must also provide a hyperlink on Performance.gov to the agency’s public website (e.g., https://www.usda.gov/our-agency/about-usda/performance) where the agency has published current and past performance plans and reports. In adherence to OMB Memorandum M-17-06, agencies must create a prominent link directly to their performance plans and reports from their “About Agency” or “About Us” page, which is directly off of the agency’s homepage.
+To enhance transparency of performance data, all Federal {{< highlight >}}agencies should make information, including prior plans and reports, as easy as possible to locate from the agency’s individual website{{< /highlight >}} (e.g., [www.usda.gov](https://www.usda.gov)). Federal Agencies must also provide a hyperlink on Performance.gov to the agency’s public website (e.g., <https://www.usda.gov/our-agency/about-usda/performance>) where the agency has published current and past performance plans and reports. In adherence to OMB Memorandum M-17-06, agencies must create a prominent link directly to their performance plans and reports from their “About Agency” or “About Us” page, which is directly off of the agency’s homepage.
 
 Agencies may also want to create links from this page to other planning and performance reporting documents, such as the human capital operating plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.
 
@@ -208,15 +209,15 @@ All federal public websites must comply with the existing No Fear Act Notificati
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
 `No FEAR Act Data`
 
-##### Required on:
+##### Required on
 
 - The homepage of your agency's principal website
 
-##### Required by:
+##### Required by
 
 - [Final rule issued by the Equal Employment Opportunity Commission](https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm){{< / box >}}
 
@@ -246,17 +247,17 @@ Any link that is not a federal `.gov` or `.mil` website is considered an externa
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
 Agencies should choose the best approach to identify external links to users in a way that minimizes the impact on the usability of their websites and digital services
 
-##### Required on:
+##### Required on
 
 - Your principal website
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-##### Required by:
+##### Required by
 
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
@@ -285,17 +286,17 @@ Organizations should review the FOIA and implementation guidance to ensure that 
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
 `FOIA` or `Freedom of Information Act`
 
-##### Required on:
+##### Required on
 
 - Your principal website
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-##### Required by:
+##### Required by
 
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
@@ -310,6 +311,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 - **B.** the website’s privacy policy;
 - {{< highlight >}}**C.** the agency’s Freedom of Information Act webpage{{< / highlight >}};
 - **D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
+
  1. the agency’s strategic plan and annual performance plans;
  2. the agency’s Privacy Program Page;
  3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
@@ -332,7 +334,7 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
 `Have a question about government services? Contact USA.gov`
 
@@ -340,13 +342,13 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 <a href="https://www.usa.gov/" title="Contact USA.gov">Contact USA.gov</a>
 ```
 
-##### Required on:
+##### Required on
 
 - Your principal website
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-##### Required by:
+##### Required by
 
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
@@ -361,6 +363,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 - **B.** the website’s privacy policy;
 - **C.** the agency’s Freedom of Information Act webpage;
 - **D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
+
  1. the agency’s strategic plan and annual performance plans;
  2. the agency’s Privacy Program Page;
  3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
@@ -382,18 +385,18 @@ All federal public websites must comply with existing laws and directives that a
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
 `Privacy Policy`
 
-##### Required on:
+##### Required on
 
 - Your principal website
 - Any known sub-agency site
 - Any known major entry points to your sites
 - Any web page that collects substantial information in identifiable form
 
-##### Required by:
+##### Required by
 
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 - [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_{{< / box >}}
@@ -409,6 +412,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 - {{< highlight >}}**B.** the website’s privacy policy{{< /highlight >}};
 - **C.** the agency’s Freedom of Information Act webpage;
 - **D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
+
  1. the agency’s strategic plan and annual performance plans;
  2. the agency’s Privacy Program Page;
  3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
@@ -495,15 +499,15 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 
 {{< box >}}
 
-##### Suggested link text:
+##### Suggested link text
 
 `Office of the Inspector General`
 
-##### Required on:
+##### Required on
 
 - Homepage of each executive department, agency, and commission
 
-##### Required by:
+##### Required by
 
 - [Consolidated Appropriations Act](https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm) for FY 2008, Division D, Title VI, Section 534{{< / box >}}
 
@@ -515,21 +519,23 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 {{< / card-policy >}}
 
 ## Security
+
 Agencies must have a way for the public to report potential security vulnerabilities, and explain how the agency will respond to such reports.
 
 - Ensure your site's Security Contact and Organization are current in the [.gov registrar](https://domains.dotgov.gov/)
 - Publish a vulnerability disclosure policy at [agency].gov/vulnerability-disclosure-policy  
 
 {{< box >}}
-##### Suggested link text:
+
+##### Suggested link text
 
 `Vulnerability Disclosure Policy`
 
-##### Required on:
+##### Required on
 
 - Your website policies page
 
-##### Required by:
+##### Required by
 
 - Department of Homeland Security (DHS) Binding Operational Directive 20-01
 - OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation
@@ -538,7 +544,6 @@ Agencies must have a way for the public to report potential security vulnerabili
 {{< / card-policy >}}
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2020/09/M-20-32.pdf" kicker="Policy" title="OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation">}}
 {{< / card-policy >}}
-
 
 ---
 

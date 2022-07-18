@@ -25,7 +25,6 @@ weight: 1
 
 {{< note >}} In this training, Ron Bronson, who leads the product design teams for GSA/TTS 18F team, discusses what we all can do to assure that deceptive design patterns stay out of the sites we build. The article below provides an overview of the presentation. {{< /note >}}
 
-
 We all rely on design to facilitate our user experiences. So, shouldn’t design reflect good intentions and honesty? Unfortunately, this is not always the case. Businesses often employ sneaky techniques to persuade users into buying their product or subscribing to their brand. These techniques are called “dark patterns” or “hostile design.” They are user interface tricks that are designed to influence people into doing things they otherwise might not do.
 
 These tricks come in several forms, such as a popup window that demands a new subscription, or a spot designed to look like dirt on your phone screen, so you try to wipe it off and end up clicking a link instead. Even in the non-digital world, we can identify certain deceptive behaviors as “hostile design,” such as sleight of hand or trick questions. Designers, intentionally or unintentionally, can use psychology to mislead and trap users.

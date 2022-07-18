@@ -98,7 +98,7 @@ Scripts with the `defer` attribute are executed in order (i.e., first script one
 
 **Resources**:
 
-- JavaScript: Advantages and Disadvantages http://www.jscripters.com/javascript-advantages-and-disadvantages/
+- JavaScript: Advantages and Disadvantages <http://www.jscripters.com/javascript-advantages-and-disadvantages/>
 
 ## 2. Optimize CSS
 
@@ -204,8 +204,8 @@ If no dimensions are specified in the containing document, or if the dimensions 
 
 #### References
 
-- Fixit – Specify Image Sizes | https://mobiforge.com/design-development/fixit-specify-image-sizes
-- Specify Image Dimensions | https://gtmetrix.com/specify-image-dimensions.html
+- Fixit – Specify Image Sizes | <https://mobiforge.com/design-development/fixit-specify-image-sizes>
+- Specify Image Dimensions | <https://gtmetrix.com/specify-image-dimensions.html>
 
 ## 4. Utilize Caching
 
@@ -270,7 +270,7 @@ We used the following steps to conduct this study:
    - Mobile Moxie | [https://www.mobilemoxie.com/tools/site_analysis/](https://www.mobilemoxie.com/tools/site_analysis/)
    - Mobi Ready | [http://ready.mobi/](http://ready.mobi/)
    - Page Insights | [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
-   - W3C MobileOK Checker | https://validator.w3.org/mobile/
+   - W3C MobileOK Checker | <https://validator.w3.org/mobile/>
    - Varvy SEO tool | [https://varvy.com/](https://varvy.com/)
    - Gtmetrix - [https://gtmetrix.com/](https://gtmetrix.com/)
 3. After looking at the failed criteria reported by each tool, we compiled the results into a single Microsoft Excel spreadsheet.

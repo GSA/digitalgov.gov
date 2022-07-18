@@ -46,6 +46,7 @@ Note that these instructions reference a sample Listserv called _TESTLIST@listse
 - Be brief: Try to be direct and stay on point as much as possible.
 
 ## Freedom of Information Act (FOIA)
+
 The Communities of Practice are hosted by digital.gov, a service of the Technology Transformation Services (TTS) within the General Services Administration (GSA). GSA is a federal agency subject to the [Freedom of Information Act](https://www.foia.gov/) and must comply with requests for records made under FOIA. As a result, all communications made on this Communities of Practice LISTSERV are subject to release under FOIA.
 
 ## Listserv Information
@@ -66,13 +67,13 @@ Some lists distribute your message immediately, while others are configured to a
 
 To verify a message for distribution:
 
-* Click the link in the confirmation email you receive from the Listserv. The link will look similar to this: “To APPROVE the message: https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=_TESTLIST_“
+- Click the link in the confirmation email you receive from the Listserv. The link will look similar to this: “To APPROVE the message: <https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L>=_TESTLIST_“
 
 **OR**
 
-* REPLY to the confirmation email message
-* Type the word “OK”—without the quotes—in the body of the message
-* Erase all other text in the body of the message, including signature blocks, then send
+- REPLY to the confirmation email message
+- Type the word “OK”—without the quotes—in the body of the message
+- Erase all other text in the body of the message, including signature blocks, then send
 
 Note, some email systems have trouble processing the link, so try the “OK” method described above if the “click” option doesn’t work for you.
 
@@ -82,9 +83,9 @@ Following are some of the common commands available to you as a Listserv subscri
 
 When using these commands, always:
 
-* Send the command in an email message addressed to: **listserv@listserv.gsa.gov**
-* Type the command in the body of the message, on one line (not in the subject line—the subject line should be left blank)
-* Remove any other text from the body of your message, including signature blocks
+- Send the command in an email message addressed to: **listserv@listserv.gsa.gov**
+- Type the command in the body of the message, on one line (not in the subject line—the subject line should be left blank)
+- Remove any other text from the body of your message, including signature blocks
 
 <table>
   <tr>

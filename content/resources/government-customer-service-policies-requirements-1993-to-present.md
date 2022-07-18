@@ -120,16 +120,16 @@ Established the Fast-Track PRA review, reducing the time required for agencies t
 Requires that agencies develop customer service standards that are &#8220;understandable to the public, easily accessible at the point of service and on the Internet, and measurable (where appropriate); where possible, standards should include targets for speed, quality/accuracy, and satisfaction.&#8221;
 
 * Improve Customer Service Delivery
-    * Publish Customer Service Plans
-    * OMB Establish a Customer Service Task Force
+  * Publish Customer Service Plans
+  * OMB Establish a Customer Service Task Force
 * Advance Customer Service through Innovative Technology
-    * Each agency establish one &#8220;signature initiative&#8221; that uses technology to improve the customer experience
+  * Each agency establish one &#8220;signature initiative&#8221; that uses technology to improve the customer experience
 * Solicit Timely Customer Feedback
-    * Office of Information and Regulatory Affairs (OIRA) create a Paperwork Reduction Act &#8220;Fast Track&#8221; review process and Provide Guidance on Customer Feedback Options
+  * Office of Information and Regulatory Affairs (OIRA) create a Paperwork Reduction Act &#8220;Fast Track&#8221; review process and Provide Guidance on Customer Feedback Options
 * Improve Online Services
-    * Freeze Establishment of New Federal Executive Branch Domains
-    * Update .Gov Domain Policy and Guidelines
-    * Eliminate Duplicative and Outdated Websites
+  * Freeze Establishment of New Federal Executive Branch Domains
+  * Update .Gov Domain Policy and Guidelines
+  * Eliminate Duplicative and Outdated Websites
 
 **April 27, 2011 — [Executive Order 13571 &#8211; Streamlining Service Delivery and Improving Customer Service](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser)**
 

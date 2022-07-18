@@ -40,7 +40,7 @@ Federal friendly Terms of Service for distribution agreements have been negotiat
 
 ## How to Implement
 
-If you’re a federal employee, follow these steps (or [download our easy step-by-step flowchart]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf " see our easy step by step flowchart"" >}}) [PDF, 1 page, 361 KB, February 2015 ]) before setting up an account to use a free digital media tool:
+If you’re a federal employee, follow these steps (or [download our easy step-by-step flowchart]({{< link "<https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf> " see our easy step by step flowchart"" >}}) [PDF, 1 page, 361 KB, February 2015 ]) before setting up an account to use a free digital media tool:
 
   1. **Review existing policy**: Review your agency’s social media policy and guidance to be sure you understand requirements to use specific tools, branding, etc.
 
@@ -71,9 +71,9 @@ The National Association of State Chief Information Officers (NASCIO) and the Na
 
 They negotiated revised terms with Facebook, YouTube, and Twitter:
 
-* Facebook made changes to their [standard terms that apply to state and local governments](http://www.facebook.com/terms_pages_gov.php).
-* Twitter [incorporated revisions in Section 12B](http://twitter.com/tos) of their most recent general TOS update.
-* The [YouTube terms are available to state government agencies that](http://www.nascio.org/newsroom/pressRelease.cfm?id=119) request them through their State CIOs.
+- Facebook made changes to their [standard terms that apply to state and local governments](http://www.facebook.com/terms_pages_gov.php).
+- Twitter [incorporated revisions in Section 12B](http://twitter.com/tos) of their most recent general TOS update.
+- The [YouTube terms are available to state government agencies that](http://www.nascio.org/newsroom/pressRelease.cfm?id=119) request them through their State CIOs.
 
 Negotiations with other providers are ongoing.
 
@@ -87,7 +87,7 @@ Tool and service providers interested in engaging in Terms of Service discussion
 
 ## Additional Resources
 
-* Find your agency&#8217;s [Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
-* View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
-* Use the [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011)
-* Guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements
+- Find your agency&#8217;s [Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
+- View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
+- Use the [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011)
+- Guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements

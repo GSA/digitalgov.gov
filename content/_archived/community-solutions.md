@@ -21,7 +21,7 @@ We are experts who help federal, state, local, and regional leaders enhance thei
 
 The Community Solutions Community of Practice is made up of over 950 federal employees from across the country and 36 agencies and sub-agencies who are dedicated to improving service delivery to the American public.
 
-https://communitysolutions.sites.usa.gov
+<https://communitysolutions.sites.usa.gov>
 
 ### What We Do
 

@@ -26,7 +26,7 @@ We do our best to keep the list current based on information we get from agencie
 * [Farm Service Agency](http://www.fsa.usda.gov/FSA/webapp?area=home&subject=landing&topic=landing) (Oracle UCM)
 * [Farmers.gov](https://www.farmers.gov/) (Drupal 8)
 * [Food and Nutrition Service](https://www.fns.usda.gov/) (Drupal 7, moving to Drupal 8 in 2018)
-    * [WIC Works Resource System](https://wicworks.fns.usda.gov/) (Drupal 8)
+  * [WIC Works Resource System](https://wicworks.fns.usda.gov/) (Drupal 8)
 * [Forest Service](http://www.fs.fed.us/) (Front end: IBM Websphere Portal; back end: Stellent [now Oracle UCM]. Transitioning to Drupal using a Forest Service curated Drupal distribution)
 * [Office of the Chief Information Officer](https://www.ocio.usda.gov/) (Drupal 7)
 * [Office of the Assistant Secretary for Civil Rights](https://www.ascr.usda.gov/) (Drupal 7)
@@ -96,9 +96,9 @@ We do our best to keep the list current based on information we get from agencie
 
 * GSA Intranet site (Drupal 7)
 * [Technology Transformation Services](https://www.gsa.gov/tts) (TTS), [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs)
-    * [DigitalGov](https://www.digital.gov/) (GitHub)
-    * [Search.gov](https://www.search.gov/) &#91;formerly _DigitalGov Search_&#93; (GitHub)
-    * [USAGov](https://www.usa.gov/), [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) (Drupal 7)
+  * [DigitalGov](https://www.digital.gov/) (GitHub)
+  * [Search.gov](https://www.search.gov/) &#91;formerly _DigitalGov Search_&#93; (GitHub)
+  * [USAGov](https://www.usa.gov/), [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) (Drupal 7)
 
 [Health & Human Services](http://www.hhs.gov/) (Percussion)
 

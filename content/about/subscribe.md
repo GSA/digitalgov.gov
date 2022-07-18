@@ -18,9 +18,7 @@ Our strategy is to provide you with just the right amount of information to help
 
 _Interested in contributing to Digital.gov? [Check out our contribution page »]({{< ref "/about/contribute.md" >}})_ <br /><br />
 
-
 {{< hs-form-subscribe >}}
-
 
 <br /><br />:envelope: Have additional questions? Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
