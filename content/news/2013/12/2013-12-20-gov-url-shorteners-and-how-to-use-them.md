@@ -13,7 +13,7 @@ topics:
 ---
 
 {{< note "alert" >}}
-GSA will sunset the Go.USA.gov service on September 18, 2022. See [Sunsetting Go.USA.gov: Frequently Asked Questions](https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions) for more information. If you have questions for their team, email: go.usa.gov@gsa.gov.
+**GSA will sunset the Go.USA.gov URL Shortener service on September 18, 2022.** See [Sunsetting Go.USA.gov: Frequently Asked Questions](https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions) for more information and their email address.
 {{< /note >}}
 
 {{< legacy-img-right src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}
