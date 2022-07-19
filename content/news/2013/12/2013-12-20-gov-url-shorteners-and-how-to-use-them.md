@@ -56,4 +56,4 @@ URL shorteners that use 301 “permanent” redirects do not have negative effec
 
 Commercial search engines treat short URLs with 301 redirects just like any other link. The short URL’s destination page will receive the social promotion bump and other SEO data (such as anchor text and position on the page) will be passed on too.
 
-This video explains <a href="http://www.youtube.com/watch?v=QMkltd6dZzU">how Google treats short URLs</a>. For more on 301 redirects, read these tips from <a href="http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2011/10/06/managing-redirects-301s-302s-and-canonicals.aspx">Bing</a> and <a href="https://support.google.com/webmasters/answer/93633">Google</a>.
+This video explains <a href="http://www.youtube.com/watch?v=QMkltd6dZzU">how Google treats short URLs</a>. For more on 301 redirects, read these tips from <a href="http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2011/10/06/managing-redirects-301s-302s-and-canonicals.aspx">Bing</a> and from <a href="https://support.google.com/webmasters/answer/93633">Google</a>.
