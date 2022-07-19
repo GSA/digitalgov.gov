@@ -11,13 +11,7 @@ pronoun: He/Him
 # If you include an email address, it will be displayed on your profile page
 email: ""
 # Keep it under 50 words and only one paragraph
-bio: V. David Zvenyach (“Dave Z”, he/him) is the Deputy Commissioner of the U.S.
-  General Services Administration’s (GSA) Federal Acquisition Service (FAS) and
-  the Director of the Technology Transformation Services (TTS). The Technology
-  Transformation Services applies modern methodologies and technologies to
-  improve the public’s experience with government. TTS helps federal agencies
-  build, buy and share technology to achieve their digital transformation and
-  modernization goals.
+bio: V. David Zvenyach (&#34;Dave Z&#34;, he/him) is the Deputy Commissioner of the U.S. General Services Administration’s (GSA) Federal Acquisition Service (FAS) and the Director of the Technology Transformation Services (TTS). The Technology Transformation Services applies modern methodologies and technologies to improve the public’s experience with government. TTS helps federal agencies build, buy and share technology to achieve their digital transformation and modernization goals.
 # Where can people learn more about your work?
 # Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
