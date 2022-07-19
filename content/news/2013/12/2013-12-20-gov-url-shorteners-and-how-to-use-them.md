@@ -13,7 +13,7 @@ topics:
 ---
 
 {{< note "alert" >}}
-**GSA will sunset the Go.USA.gov URL Shortener service on September 18, 2022.** See [Sunsetting Go.USA.gov: Frequently Asked Questions](https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions) for more information and their email address.
+The 1.USA.gov URL shortener was decommissioned in 2016. GSA will sunset the Go.USA.gov URL Shortener service on **September 18, 2022**; this page will then be archived. See [Sunsetting Go.USA.gov: Frequently Asked Questions](https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions) for more information and their email address.
 {{< /note >}}
 
 {{< legacy-img-right src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}
