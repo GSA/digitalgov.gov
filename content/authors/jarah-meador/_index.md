@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/jarah-meador
 # Learn how to edit our pages at https://workflow.digital.gov
 
-
 display_name: "Dr. Jarah Meador"
 first_name: "Jarah"
 last_name: "Meador"
@@ -17,7 +16,7 @@ slug: "jarah-meador"
 email: jarah.meador@gsa.gov
 
 # Bio — keep it under 50 words
-bio: "Director, Open Innovation Programs (CitizenScience.gov and Challenge.gov)."
+bio: "Jarah leads the crowdsourcing, citizen science and prize competition open innovation portfolio at GSA that includes the Challenge.Gov and CitizenScience.gov. Previously, she led the innovation sourcing program at the Department of Veterans Affairs Center for Innovation and this portfolio included prize competitions, broad agency announcements, and pay for success/social impact financing. The AAAS Science and Policy Technology Fellowship brought her to the federal government at the US Agency for International Development 10 years ago where she led a large-scale desalination technology development prize competition. Jarah earned her PhD in Cancer Biology at the University of Texas Graduate School of Biomedical Sciences and is an Air Force Veteran."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url:
