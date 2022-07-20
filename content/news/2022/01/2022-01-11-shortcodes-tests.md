@@ -15,7 +15,7 @@ primary_image: 10x-gold-x-logo
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 0
 
 ---
 
