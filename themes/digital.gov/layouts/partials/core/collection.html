@@ -75,7 +75,7 @@
         <a href="{{- $href -}}" title="{{- .Title | markdownify -}}">
           <span>{{- .Title | markdownify -}}</span>
         </a>
-        {{- if .Params.deck -}} — {{- .Params.deck | markdownify -}}{{- else -}} — {{- .Params.summary | markdownify | truncate 140 -}}{{- end -}}
+        {{- if .Params.summary -}} — {{- .Params.summary | markdownify | truncate 140 -}}{{- else -}} — {{- .Params.deck | markdownify -}}{{- end -}}
       </p>
     </div>
 
