@@ -72,7 +72,6 @@ permalink: /
 
 We focus on the issues most likely to impact government sites. These guidelines do not provide a comprehensive list of all possible issues. Your team will need additional resources and work to conduct manual audits to conform to the standards of [Section 508](https://www.section508.gov/) (which aligns with the [W3C Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG20/quickref/)), a law that ensures all web content is accessible to anybody with a disability.
 
-Questions or comments? Please reach out to us in the project's [GitHub issues](https://github.com/18F/accessibility-playbook/issues/) or email [g-accessibility@gsa.gov](mailto:g-accessibility@gsa.gov).
 {% endcapture %}
 
 <div class="grid-container usa-prose home-section-about">
