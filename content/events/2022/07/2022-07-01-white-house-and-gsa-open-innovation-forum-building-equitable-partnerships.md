@@ -27,6 +27,11 @@ topics:
 authors:
   - jarah-meador
   - administrator-robin-carnahan
+  - ariel-gold
+  - chaitra-shenoy
+  - hunter-jones
+  - matthew-biggerstaff
+  - liam-r-ofallon
   - v-david-zvenyach
   - dr-alondra-nelson
   - dr-jedidah-isler
