@@ -57,6 +57,16 @@ At this event we will:
 3. Highlight partnerships and equitable forms of participation exemplified through prize competitions and citizen science projects.
 4. Explore the future of the federal government’s role in engaging with communities to create and lead innovation and scientific discovery activities.
 
+## Agenda
+
+* Welcome and Introductions
+* Opening Remarks
+* Moderated Discussion With Dr. Alondra Nelson and Administrator Robin Carnahan
+* Break
+* Biennial Report Overview
+* Practitioner's Panel
+* Closing Remarks
+
 ## Related Resources
 
 * Press release&mdash;[White House Office of Science & Technology Policy Releases Fiscal Year 2019-20 Federal Prize and Citizen Science Authority Report](https://www.whitehouse.gov/ostp/news-updates/2022/05/04/white-house-office-of-science-technology-policy-releasesfiscal-year-2019-20-federal-prize-and-citizen-science-authority-report/)
