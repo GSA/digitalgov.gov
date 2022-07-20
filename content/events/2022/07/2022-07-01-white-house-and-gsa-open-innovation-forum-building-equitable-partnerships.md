@@ -62,7 +62,7 @@ At this event we will:
 * Welcome and Introductions
 * Opening Remarks
 * Moderated Discussion With Dr. Alondra Nelson and Administrator Robin Carnahan
-* Break
+* Break (3:00 pm, 3 minutes)
 * Biennial Report Overview
 * Practitioner's Panel
 * Closing Remarks
