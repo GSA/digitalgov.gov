@@ -22,7 +22,7 @@ email:
 bio: "Dr. Jedidah Isler is Principal Assistant Director for Science and Society in the White House Office of Science & Technology Policy."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: ""
+bio_url: "https://jedidahislerphd.com/about/"
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "White House Office of Science & Technology Policy"
