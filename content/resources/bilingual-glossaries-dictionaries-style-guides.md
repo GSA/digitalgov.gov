@@ -6,7 +6,7 @@ slug: bilingual-glossaries-dictionaries-style-guides
 date: 2014-06-11 9:55:00 -0500
 title: "Bilingual Glossaries, Dictionaries, and Style Guides"
 deck: "Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent."
-summary: "Multilingual resources on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government."
+summary: "Multilingual resources to standardize the use of various languages across government."
 
 # see all topics at https://digital.gov/topics
 topics:
