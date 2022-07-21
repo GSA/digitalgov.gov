@@ -2,7 +2,7 @@
 slug: plain-writing-act-of-2010
 date: 2015-11-05 2:13:05 -0400
 title: Plain Writing Act of 2010
-summary: "The Plain Writing Act of 2010 was enacted to enhance citizen access to government information and services by establishing that government documents issued to the public must be written clearly."
+summary: "The law requires that federal agencies provide clear communication about government information and services for the public."
 topics:
   - plain-language
   - policy
