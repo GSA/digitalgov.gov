@@ -4,7 +4,7 @@ title: "PlainLanguage.gov"
 
 # Keep it short — should be no longer than 10 words.
 deck: "A guide to making copy clear and easy to understand."
-summary: "A guide to making copy clear and easy to understand."
+summary: "A resource to help federal employees write in plain language and comply with the Plain Writing Act of 2010."
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
