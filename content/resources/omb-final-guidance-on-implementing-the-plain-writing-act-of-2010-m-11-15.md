@@ -2,7 +2,7 @@
 slug: omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15
 date: 2015-12-03 1:34:16 -0400
 title: OMB Final Guidance on Implementing the Plain Writing Act of 2010 (M 11-15)
-summary: "This Memo on Transparency and Open Government memorandum provides final guidance on implementing the Plain Writing Act of 2010 and is designed to promote the goals of the President’s Open Government Initiative."
+summary: "This Memo on Transparency and Open Government provides final guidance on implementing the Plain Writing Act of 2010 and is designed to promote the goals of the president’s Open Government Initiative."
 topics:
   - plain-language
   - policy
