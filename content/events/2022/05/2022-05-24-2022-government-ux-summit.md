@@ -166,6 +166,8 @@ In this session you will hear from the following speaker:
 
 * **Sheila Walsh** &mdash; Public Affairs Specialist, Department of Health and Human Services
 
+{{< youtube d1MDLbZoEwQ >}}
+
 ---
 
 ## 12:50 pm - 1:10 pm, ET<br />Automating a “Mega” User Journey: Relieving the Pain of In-and-Out Processing
