@@ -4,14 +4,14 @@ source_url: https://www.samhsa.gov/find-help/988/partner-toolkit
 source: ""
 date: 2022-07-22 14:00:00 -0500
 title: 988 Suicide & Crisis Lifeline Partner Toolkit
-deck: 988 Suicide & Crisis Lifeline Partner Toolkit. Substance Abuse and Mental
+deck: **988 Suicide & Crisis Lifeline Partner Toolkit**&mdash;Substance Abuse and Mental
   Health Services Administration (SAMHSA) recognizes the need for governments,
   states, territories, tribes, crisis centers, and partners to speak with one
   voice to ensure there is a clear understanding about what 988 is and how it
   will work. We encourage you to use these communication outreach materials and
   build upon them with your community coalitions to meet the needs of your
   specific audiences.
-summary: asdf
+summary:
 # See all topics at https://digital.gov/topics
 topics:
   - contact-centers
