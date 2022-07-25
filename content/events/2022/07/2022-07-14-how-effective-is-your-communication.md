@@ -21,7 +21,7 @@ authors:
 slug: how-effective-is-your-communication
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: 
+primary_image: "fcn-07-26-2022-effective-communication"
 
 ---
 
