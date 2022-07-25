@@ -16,15 +16,15 @@ The Digital Government Strategy complements several initiatives aimed at buildin
 
 The Digital Government Strategy incorporates a broad range of input from government practitioners, the public, and private-sector experts. Two cross-governmental working groups – the Mobility Strategy and Web Reform Task Forces – provided guidance and recommendations for building a digital government.
 
-<a class="button" style="color: #000000" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html">View 2012 Digital Government Strategy</a><a><br /> </a>
+<a class="button" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html">View 2012 Digital Government Strategy</a><br />
 
 ## Related Links
 
 - [Digital Government Strategy Milestones Report]({{< ref "2012-08-29-digital-government-strategy-milestones-report.md" >}})
-- [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
-- [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
-- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](http://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
-- [OMB M-10-06, Open Government Directive](http://obamawhitehouse.archives.gov/open/documents/open-government-directive) (December 2009)
+- [A Strategy for American Innovation (PDF, 1.22 MB, 120 pages, October 2015)](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf)
+- [Executive Order—Making Open and Machine Readable the New Default for Government Information (May 2013)](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+- [OMB M-13-13 Open Data Policy—Managing Information as an Asset (PDF, 5.83 MB, 12 pages, May 2013)](http://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
+- [OMB M-10-06, Open Government Directive (December 2009)](http://obamawhitehouse.archives.gov/open/documents/open-government-directive)
 - [Guidance on the Use of Challenges and Prizes to Promote Open Government](http://obamawhitehouse.archives.gov/omb/assets/memoranda_2010/m10-11.pdf)
 - [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
 
