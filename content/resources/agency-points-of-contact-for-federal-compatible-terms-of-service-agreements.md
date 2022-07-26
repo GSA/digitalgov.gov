@@ -10,7 +10,7 @@ topics:
 ---
 
 {{< note "alert" >}}
-**The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is no longer active. It applied to no-cost tools only. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.
+**The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is no longer active. However, see the note below on how to submit a new point of contact update.
 {{< /note >}}
 
 {{< box >}}
@@ -21,9 +21,11 @@ topics:
 - [Agency Points of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
 {{< /box >}}
 
+{{< note >}}
 If your agency is part of a larger agency, your contact will be at the larger agency, as these agreements are negotiated and signed for the entire agency.
 
-If your agency isn’t listed below, contact [the Digital.gov team](mailto:digitalgov@gsa.gov) and we will add your point of contact to the list.
+If your agency isn’t listed or you'd like to submit an update for a point of contact below, [email the Digital.gov team](mailto:digitalgov@gsa.gov) and we will update the list.
+{{< /note >}}
 
 ## Cabinet
 
