@@ -18,7 +18,6 @@ topics:
 
 - [Federal-Compatible Terms of Service Agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
 - [Negotiated Terms of Service Agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
-- [Agency Points of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
 {{< /box >}}
 
 {{< note >}}
