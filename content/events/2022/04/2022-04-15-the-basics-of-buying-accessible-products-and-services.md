@@ -70,7 +70,7 @@ During our discussion, panelists from the U.S. General Services Administration (
 * [Digital.gov Accessibility Resources](https://digital.gov/topics/accessibility/)
 * [PlainLanguage.gov](https://www.plainlanguage.gov/)
 
-### Contact Information
+## Contact Information
 
 **U.S. Access Board**
 
