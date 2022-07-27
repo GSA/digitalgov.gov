@@ -25,7 +25,7 @@ primary_image: "21st-century-idea-resource-card"
 # Make it better ♥
 ---
 
-The [21st Century Integrated Digital Experience Act](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
+The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
 
 ## Why Is It Important?
 
