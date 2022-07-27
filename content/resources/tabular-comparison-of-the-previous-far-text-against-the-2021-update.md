@@ -3,7 +3,7 @@ date: 2022-07-27 12:20:00 -0500
 # Originally published at the following URL
 source_url: https://www.section508.gov/manage/laws-and-policies/far-update-comparison/
 title: Tabular Comparison of the Previous FAR Text Against the 2021 Update
-summary: apple
+summary: 
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
