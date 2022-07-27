@@ -1,7 +1,7 @@
 ---
 slug: section-508-standards-for-electronic-and-information-technology-2
 date: 2015-11-05 2:24:28 -0400
-title: "The Section 508 Standards"
+title: "U.S. Access Board Section 508 Standards"
 summary: "The Section 508 Standard for Electronic and Information Technology requires that when a federal agency shares information digitally, individuals with disabilities seeking information or services from a federal agency, must have access to and be able to use the information and data, unless an undue burden would be imposed on the agency."
 
 source_url: "https://www.access-board.gov/ict/"
