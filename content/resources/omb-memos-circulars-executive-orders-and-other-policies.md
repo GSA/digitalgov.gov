@@ -54,6 +54,8 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 ## Executive Orders
 
+[Executive Order on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/), June 25, 2021
+
 [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/), December 13, 2021
 
 [Presidential Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/), May 11, 2017
