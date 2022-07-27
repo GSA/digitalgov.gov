@@ -1,7 +1,7 @@
 ---
 date: 2022-07-27 11:40:00 -0500
 # Originally published at the following URL
-source_url: https://www.acquisition.gov/far/part-39#FAR_39_203
+source_url: https://www.acquisition.gov/far/subpart-39.2
 title: Federal Acquisition Regulation Subpart 39.2 - Information and
   Communication Technology
 summary: This subpart implements section 508 of the Rehabilitation Act of 1973
