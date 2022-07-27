@@ -64,12 +64,23 @@ During our discussion, panelists from the U.S. General Services Administration (
 
 ## Related Resources
 
-* [Section508.gov](https://www.section508.gov/)
-* [Access-Board.gov/ict](https://www.access-board.gov/ict/)
+* [Executive Order (14035) on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+* [Information and Communication Technology (ICT) Revised 508 Standards and 255 Guidelines](https://www.access-board.gov/ict/)
 * [Integrating Accessibility into Agency Diversity, Equity, Inclusion and Accessibility (DEIA) Implementation Plans](https://www.section508.gov/manage/deia-guidance/)
-* [Executive Order 14035](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)&mdash;Advance Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce
 * [Digital.gov Accessibility Resources](https://digital.gov/topics/accessibility/)
 * [PlainLanguage.gov](https://www.plainlanguage.gov/)
+
+## Contact Information
+
+**U.S. Access Board**
+
+* Website: http://www.access-board.gov
+* Email: 508@access-board.gov
+
+**Government-wide IT Accessibility Program Management Office (PMO)**
+
+* Website: https://www.section508.gov
+* Email: Section.508@gsa.gov
 
 ## About the IT Accessibility and Section 508 Community of Practice (CoP)
 
