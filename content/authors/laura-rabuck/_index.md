@@ -15,5 +15,11 @@ agency_full_name: Cooperative Studies Program within the Office of Research and
   Development of the Department of Veterans Affairs
 # Agency Acronym [e.g., GSA]
 agency: VA
+# [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
+# Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
+# Learn more about getting a Github account at [URL]
+github: lgrabuck
 slug: laura-rabuck
+# See [URL] for a full list of profile photo options
+profile_photo: github
 ---
