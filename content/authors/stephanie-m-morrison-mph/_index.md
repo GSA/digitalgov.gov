@@ -10,4 +10,10 @@ agency_full_name: National Institute on Aging at the National Institutes of Heal
 # Agency Acronym [e.g., GSA]
 agency: NIA/NIH
 slug: stephanie-m-morrison-mph
+# Keep it under 50 words and only one paragraph
+bio: Ms. Morrison is a Writer and Editor with the National Institute on Aging
+  (NIA) at the National Institutes of Health (NIH). She has 20 years of
+  experience in developing, reviewing, and managing health information for a
+  variety of audiences, including patients, health care professionals, and the
+  general public.
 ---
