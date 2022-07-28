@@ -60,6 +60,13 @@ With yellow highlight
 
 {{< button href="https://usdigitalregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}
 
+
+---
+
+## Quotes
+
+{{< card-quote text="Dispose of anything that does not fall into one of three categories: currently in use, needed for a limited period of time, or must be kept indefinitely." cite="Marie Kondo" >}}
+
 ---
 
 ## Note
