@@ -17,7 +17,7 @@ pronoun: "she/her"
 slug: toni-bonitto
 
 # if you include an email address, it will be displayed on your profile page
-email: "toni.bonitto@gsa.gov"
+email: ""
 
 # Bio — keep it under 50 words
 bio: "A native New Yorker, Toni spent most of her tech career in the private and non-profit sectors. Serving as an Innovation Specialist in GSA's [Technology Transformation Services](https://tts.gsa.gov) (TTS), her main role is as Digital.gov's content and platform lead where she edits and writes content, recruits and manages rotations of volunteer writers via the [Open Opportunities](https://openopps.usajobs.gov/) program and [Communities of Practice](https://digital.gov/communities/), and provides front- and back-end development. She also manages the social media, marketing, and customer service for the program. Additionally, Toni is a member of the TTS Digital Council and its Review Team, is a Level I Contracting Officer's Representative (COR), has certifications in email marketing and social media, and served a year-plus term as the co-lead for the TTS Accessibility Guild, which included contributing to the development of and teaching an _Accessibility 101_ course as part of onboarding requirements for new TTS hires."
