@@ -79,4 +79,4 @@ On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://dig
 
 - - -
 
-The [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Community of Practice](https://digital.gov/communities/plain-language/).
+_The [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Community of Practice](https://digital.gov/communities/plain-language/)._
