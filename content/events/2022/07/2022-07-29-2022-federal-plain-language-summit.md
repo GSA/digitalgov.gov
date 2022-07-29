@@ -1,10 +1,8 @@
 ---
 title: 2022 Federal Plain Language Summit
-deck: This year’s summit showcases plain language successes in the federal
-  government!
+deck: This year’s summit showcases plain language successes in the federal government!
 kicker: Plain Language
-summary: Join the best and brightest plain language practitioners from across
-  the federal government.
+summary: Join the best and brightest plain language practitioners from across the federal government.
 host: Plain Language Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/2022-federal-plain-language-summit-tickets-393171224717
@@ -37,20 +35,27 @@ authors:
 slug: 2022-federal-plain-language-summit
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: 
+
 ---
+
 On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://digital.gov/communities/plain-language/) will bring together federal employees to highlight plain language successes in many federal agencies at all stages of the communications journey. Speakers address debunking myths, meeting varying audience’s needs, managing the review process and stakeholders, and supporting plain language editors.
 
 ***The Summit will begin at 10:30 am, ET, and conclude at 3:45 pm, ET. There will be one 15-minute break and one 10-minute break.***
 
-## **2022 Plain Language Agenda**
+## 2022 Plain Language Agenda
 
-{{< accordion kicker="10:30 a.m. - 12:15 p.m. ET" title="Morning Sessions" icon="fas fa-copy" >}} Insert Info {{< /accordion >}}
+{{< accordion kicker="10:30 am - 12:15 pm, ET" title="Morning Sessions" icon="fas fa-copy" >}}
+Insert Info
+{{< /accordion >}}
 
-### 15 minute break (12:15 - 12:30 p.m., ET)
+### 15 minute break (12:15 - 12:30 pm, ET)
 
-{{< accordion kicker="12:30 - 3:45 p.m. ET" title="Afternoon Sessions" icon="fas fa-copy" >}}     inner text of what you want to collapse     {{< /accordion >}}
+{{< accordion kicker="12:30 - 3:45 pm, ET" title="Afternoon Sessions" icon="fas fa-copy" >}}
+inner text of what you want to collapse
+{{< /accordion >}}
 
-### Speakers
+## Speakers
 
 * **Shuly Babitz** — Health Resources and Services Administration (HRSA)
 * **Katy Karnell** — Health Resources and Services Administration (HRSA)
@@ -63,12 +68,12 @@ On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://dig
 * **Rachel Bradley Montgomery** — Library of Congress (LoC)
 * **Amanda Damewood** — United States Citizenship and Immigration Services (USCIS)
 
-### Moderators
+## Moderators
 
 * **Katherine Spivey** — U.S. General Services Administration (GSA)
 * **Katina Stapleton** — U.S. Department of Education (ED)
 
-### Related Resources
+## Related Resources
 
 * [Visit PlainLanguage.gov](https://www.plainlanguage.gov/)
 * [Plain Language Summit 2020](https://digital.gov/event/2020/10/27/plain-language-summit-2020/)
@@ -77,6 +82,6 @@ On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://dig
 * [Follow @GovPlainLang on Twitter](https://twitter.com/govplainlang)
 * [Find additional plain language resources on Digital.gov](https://digital.gov/topics/plain-language/)
 
-- - -
+---
 
 _The [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Community of Practice](https://digital.gov/communities/plain-language/)._
