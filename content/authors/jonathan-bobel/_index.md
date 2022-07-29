@@ -6,7 +6,7 @@ last_name: Bobel
 # If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: He/Him
 # Keep it under 50 words and only one paragraph
-bio: Jonathan Bobel is a Front End Developer and UX Designer on the 10x Team within the Technology Transformation Services (TTS) Office of Solutions.
+bio: Jonathan Bobel is a Front End Developer and UX Designer on the 10x Team within the Technology Transformation Services (TTS) Office of Solutions at the U.S. General Services Administration.
 # e.g. U.S. General Services Administration
 agency_full_name: 10x, U.S. General Services Administration
 # Agency Acronym [e.g., GSA]
