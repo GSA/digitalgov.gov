@@ -64,6 +64,26 @@ In this session you will hear from the following speakers:
 
 ---
 
+## 11:15 am - 11:45 am, ET<br />Session 2: A Happy Compromise: Applying People-First Standards with Plain Language in Mind
+
+People-first language (PFL) is more commonly known as person-first language and is widely used in the medical community. Under this framework, people are asked not to use words that define a person by their disability or medical condition—and instead, use words that describe them as a person first, and then by their disability or condition second. For example, we would refer to them as “a person with diabetes” instead of “a diabetic.”
+ 
+The presentation will show how my agency has been able to marry people-first language and plain language principles to develop more sensitive, humane communications that are respectful of the people directly affected by these words in various ways. 
+
+In this session you will hear from the following speaker:
+
+* **Donna Ledbetter** &mdash; Writer/Editor
+ 
+---
+
+## 11:45 am - 12:15 pm, ET<br />Designing Digital Products for Adults With Low Literacy
+
+Over 50% of U.S. adults score below an international benchmark for literacy, with roughly 20% scoring at the very lowest levels. These adults span all demographics and are a part of your audience. What can we do as user experience professionals to support digital inclusion of adults with low reading literacy levels? This session provides a high-level overview of best practices in design standards, plain language, content strategy, and usability testing. 
+
+In this session you will hear from the following speaker:
+
+* **Sheila Walsh** &mdash; Public Affairs Specialist
+
 {{< /accordion >}}
 
 ### 15 minute break (12:15 - 12:30 pm, ET)
