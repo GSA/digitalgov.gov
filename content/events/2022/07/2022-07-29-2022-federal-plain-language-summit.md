@@ -59,12 +59,12 @@ There are no easy answers, and there is plenty of resistance. But there are ways
 
 In this session you will hear from the following speakers:
 
-* **Shuly Babitz** &mdash; Health Communications Strategist, Health Resources and Services Administration
-* **Katy Karnell** &mdash; Communications Team Lead, Health Resources and Services Administration
+* **Shuly Babitz** &mdash; Health Communications Strategist, Health Resources and Services Administration (HRSA)
+* **Katy Karnell** &mdash; Communications Team Lead, Health Resources and Services Administration (HRSA)
 
 ---
 
-## 11:15 am - 11:45 am, ET<br />Session 2: A Happy Compromise: Applying People-First Standards with Plain Language in Mind
+## 11:15 am - 11:45 am, ET<br />A Happy Compromise: Applying People-First Standards with Plain Language in Mind
 
 People-first language (PFL) is more commonly known as person-first language and is widely used in the medical community. Under this framework, people are asked not to use words that define a person by their disability or medical condition—and instead, use words that describe them as a person first, and then by their disability or condition second. For example, we would refer to them as “a person with diabetes” instead of “a diabetic.”
  
@@ -72,7 +72,7 @@ The presentation will show how my agency has been able to marry people-first lan
 
 In this session you will hear from the following speaker:
 
-* **Donna Ledbetter** &mdash; Writer/Editor
+* **Donna Ledbetter** &mdash; Writer/Editor, Federal Bureau of Prisons (BOP)
  
 ---
 
@@ -82,14 +82,64 @@ Over 50% of U.S. adults score below an international benchmark for literacy, wit
 
 In this session you will hear from the following speaker:
 
-* **Sheila Walsh** &mdash; Public Affairs Specialist
+* **Sheila Walsh** &mdash; Public Affairs Specialist, Department of Health and Human Services (HHS)
 
 {{< /accordion >}}
 
 ### 15 minute break (12:15 - 12:30 pm, ET)
 
 {{< accordion kicker="12:30 - 3:45 pm, ET" title="Afternoon Sessions" icon="fas fa-copy" >}}
-inner text of what you want to collapse
+## 12:30 pm - 1:00 pm, ET<br />Help Them See the Light: Strategies for Training Feds to Use Plain Writing
+
+The presentation highlights how we use awful examples of our agency's own internal memos, emails, and other communication pieces as a powerful plain writing training strategy. Showing lots of “before-and-after” examples of the kinds of pieces we see every day around the agency helps federal employees understand that plain writing isn’t about oversimplifying for a low-literacy public – it’s a research-based science that helps EVERYONE get better results.
+ 
+Participants will learn how we use real examples of communication pieces from around our agency to help federal employees see why plain writing is relevant to their work, even if they don’t ever write for the public. We’ll share how we rewrite and redesign these pieces in a non-threatening, relatable way that helps feds recognize how their current communication approaches (“the way we’ve always done it”) might be sabotaging their results.
+ 
+In this session you will hear from the following speaker:
+
+* **Heather K. Holland ** &mdash; Communications & Usability Specialist, Department of Health and Human Services (HHS) Centers for Medicare & Medicaid Services (CMS)
+
+---
+
+## 1:00 pm - 1:30 pm, ET<br />Jargon Madness: A Plain Language Exercise
+ 
+This session will walk through how to create and run a Jargon Madness event as a plain language exercise. Jargon Madness is a tournament-style bracket modeled after the annual college basketball event except in this version, jargon battles for the title of "Most confusing" based on votes.
+ 
+Attendees will learn about:
+ 
+* Different ways to run tournament brackets;
+* How to build education into tournament brackets;
+* How to manage situations where colleagues (or a boss!) responds defensively; and
+* Challenges that we've experienced.
+
+An activity like this complements formal plain language training programs. It can be a way to get a wider audience to think about their jargon usage—and, therefore, thinking about plain language throughout their work. It's also pretty fun. Our champions from the last two years are "bleeding edge" and "boil the ocean."
+
+In this session you will hear from the following speaker:
+
+* **Laura Rabuck ** &mdash; Research Health Science Specialist / Lead Content Strategist, United States Department of Veterans Affairs (VA)
+
+---
+
+## 1:30 pm - 2:00 pm, ET<br />Instruction on Setting up Context for Technical Details: Addition to an Agency’s PL Training
+
+A major point of contention that can occur between writers and editors presenting technical information for general readership is what can be seen as oversimplifying language. If we replace technical phrasing with commonly understood phrasing, we risk losing nuance; if we retain technical, specialized phrasing, we risk losing readers.
+   
+In plain writing training I have developed for my agency, a federal science agency, I provide a third alternative by adding instruction on creating introductory frameworks in which readers can place technical details and thereby understand technical phrasing. Providing frameworks can enable writers and editors to retain technical language and make it understandable for readers.
+   
+The instruction on building frameworks introduces two principles. The first is for the writer to indicate in introductory sections the significance of the subject for the reader.
+   
+Typical expressions of exigence include a change in a situation, the discovery of new data, a new way of looking at existing data, conflicting interpretations of data. When readers know why the subject is significant and what the text is intended to accomplish, they can absorb technical details and language more easily.
+ 
+The second concept underpinning the training on framing is the “known-new contract.” Known-new prescribes placing known information before new information and general information before details—the idea sounds obvious, but it is shocking how often writers fail to write this way. “Known” can refer to already familiar information or to information introduced in a text on which newer information builds. The principle is usually applied to structuring individual sentences, but I apply it more broadly to the overall structure of a text.
+ 
+In my presentation, I will discuss the training and provide before-and-after examples of writing that lacked frames, and the edited versions in which frames were set up. Participants will be introduced to the ideas of exigence and the known-new contract, and how to apply these ideas in writing and training.
+
+In this session you will hear from the following speaker:
+
+* **Stanley Dambroski** &mdash; Writer/Editor, National Science Foundation (NSF)
+
+---
+
 {{< /accordion >}}
 
 ## Speakers
