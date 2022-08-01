@@ -97,7 +97,7 @@ Participants will learn how we use real examples of communication pieces from ar
  
 In this session you will hear from the following speaker:
 
-* **Heather K. Holland ** &mdash; Communications & Usability Specialist, Department of Health and Human Services (HHS) Centers for Medicare & Medicaid Services (CMS)
+* **Heather K. Holland** &mdash; Communications & Usability Specialist, Department of Health and Human Services (HHS) Centers for Medicare & Medicaid Services (CMS)
 
 ---
 
@@ -116,7 +116,7 @@ An activity like this complements formal plain language training programs. It ca
 
 In this session you will hear from the following speaker:
 
-* **Laura Rabuck ** &mdash; Research Health Science Specialist / Lead Content Strategist, United States Department of Veterans Affairs (VA)
+* **Laura Rabuck** &mdash; Research Health Science Specialist / Lead Content Strategist, United States Department of Veterans Affairs (VA)
 
 ---
 
