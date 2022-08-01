@@ -46,7 +46,24 @@ On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://dig
 ## 2022 Plain Language Agenda
 
 {{< accordion kicker="10:30 am - 12:15 pm, ET" title="Morning Sessions" icon="fas fa-copy" >}}
-Insert Info
+## 10:30 am - 10:40 am, ET<br />Opening Remarks: Plain Language CoP Co-Chairs Katherine Spivey and Katina Stapleton
+
+---
+
+## 10:40 am - 11:15 am, ET<br />Debunking the Oversimplification Myth: Making the Case for Plain Language in Health Communications
+
+This session will help participants make the case for using plain language to agency leadership. So often, we work with subject matter experts and others in government who cling to using insider jargon, awkward constructions, and just too many words. There’s a fear that plain language principles will oversimplify the content and minimize the importance of the work.
+How can public affairs professionals in the government change this attitude? How can we convince colleagues and leaders that products written in plain language are more effective, more meaningful, and more accessible to a wide range of audiences?
+
+There are no easy answers, and there is plenty of resistance. But there are ways to make progress. The presenters will debunk the plain language myths and offer approaches that have worked for us. We will use evidence, examples, and personal experience from our work as a Public Affairs Team. The first part of the session will focus on implementing plain language in written material including press releases and email blasts. The next part of the session will focus on plain language in writing for the web, and how to build credibility with your leadership and subject matter experts so that you can transform website navigation and content toward users’ needs.
+
+In this session you will hear from the following speakers:
+
+* **Shuly Babitz** &mdash; Health Communications Strategist, Health Resources and Services Administration
+* **Katy Karnell** &mdash; Communications Team Lead, Health Resources and Services Administration
+
+---
+
 {{< /accordion >}}
 
 ### 15 minute break (12:15 - 12:30 pm, ET)
