@@ -13,7 +13,8 @@ topics:
 authors:
   - gabby-fratanduono-king
 slug: webinar-recap-how-to-build-your-digital-dream-team
-primary_image: 
+primary_image: "ajijchan-istock-getty-images-1357830750"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
