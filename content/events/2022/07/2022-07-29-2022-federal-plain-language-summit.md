@@ -1,6 +1,6 @@
 ---
 title: 2022 Federal Plain Language Summit
-deck: This year’s summit showcases plain language successes in the federal government!
+deck: 
 kicker: Plain Language
 summary: Join the best and brightest plain language practitioners from across the federal government.
 host: Plain Language Community of Practice
@@ -35,7 +35,7 @@ authors:
 slug: 2022-federal-plain-language-summit
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: 
+primary_image: "2022-federal-plain-language-summit-title-card"
 
 ---
 
