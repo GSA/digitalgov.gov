@@ -2,7 +2,7 @@
 date: 2022-08-01 13:55:00 -0500
 kicker: ""
 title: "Webinar Recap: How to Build Your Digital Dream Team"
-deck: Getting the right skills, talent, and support in place to build a team
+deck: 
 summary: Highlights from the Web Managers Community of Practice panel that shared how to get the right team in place to create a trusted, seamless online experience for all your customers.
 # See all topics at https://digital.gov/topics
 topics:
