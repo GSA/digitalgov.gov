@@ -3,9 +3,7 @@ date: 2022-08-01 13:55:00 -0500
 kicker: ""
 title: "Webinar Recap: How to Build Your Digital Dream Team"
 deck: Getting the right skills, talent, and support in place to build a team
-summary: Highlights from the Web Managers Community of Practice panel that
-  shared how to get the right team in place to create a trusted, seamless online
-  experience for all your customers.
+summary: Highlights from the Web Managers Community of Practice panel that shared how to get the right team in place to create a trusted, seamless online experience for all your customers.
 # See all topics at https://digital.gov/topics
 topics:
   - governance
@@ -15,12 +13,14 @@ topics:
 authors:
   - gabby-fratanduono-king
 slug: webinar-recap-how-to-build-your-digital-dream-team
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Digital.gov’s [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) held an event in May 2022 with a panel of federal web managers on how to get the right skills, talent, and support in place to build a digital dream team.
 
 Speakers included [Laura Larrimore](https://digital.gov/authors/laura-larrimore/) from the the United States Patent and Trademark Office (USPTO), [Tori Garten](https://digital.gov/authors/tori-garten/) from the National Institutes of Allergy and Infectious Diseases Health (NIAID), and [Vicki McFadden](https://digital.gov/authors/victoria-mcfadden/) from the General Services Administration (GSA). The event was moderated by [Ruxi Giura](https://digital.gov/authors/ruxi-giura/), co-lead of the Web Managers community.
