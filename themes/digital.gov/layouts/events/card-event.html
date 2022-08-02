@@ -9,10 +9,11 @@
       <h3>
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
       </h3>
-      {{- if .Params.deck -}}
-      <div class="deck">{{ .Params.deck | markdownify }}</div>
-      {{- else -}}
+
+      {{- if .Params.summary -}}
       <div class="summary">{{ .Params.summary | markdownify }}</div>
+      {{- else -}}
+      <div class="deck">{{ .Params.deck | markdownify }}</div>
       {{- end -}}
 
       {{- if .Params.host -}}
