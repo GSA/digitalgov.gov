@@ -41,7 +41,7 @@ primary_image: "2022-federal-plain-language-summit-title-card"
 
 On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://digital.gov/communities/plain-language/) will bring together federal employees to highlight plain language successes in many federal agencies at all stages of the communications journey. Speakers address debunking myths, meeting varying audience’s needs, managing the review process and stakeholders, and supporting plain language editors.
 
-***The Summit will begin at 10:30 am, ET, and conclude at 3:45 pm, ET. There will be one 15-minute break at 12:15 pm, ET and one 10-minute break at 2:00 pm, ET.***
+***The Summit will begin at 10:30 am, ET, and conclude at 3:45 pm, ET. There will be one 15-minute break at 12:15 pm, ET, and one 10-minute break at 2:00 pm, ET.***
 
 ## 2022 Plain Language Agenda
 
@@ -151,7 +151,7 @@ In this presentation, participants will learn:
 * Why it’s important to set expectations early regarding the editorial process and deadlines;
 * What to do if a reviewer suggests edits that are complex or full of jargon, and how to handle it if you disagree with a particular edit;
 * Suggestions for keeping feedback from multiple reviewers straight; and
-* How to be a good reviewer yourself
+* How to be a good reviewer yourself.
 
 By the end of the talk, participants will have a toolbox of practical suggestions for approaching stakeholders and managing their feedback. The talk will also include examples from the presenter’s personal experience working with hundreds of reviewers on plain language materials. The presentation will be followed by Q&As from the audience.
 
@@ -160,6 +160,28 @@ In this session you will hear from the following speaker:
 * **Stephanie M. Morrison, MPH** &mdash; Health and science writer/editor, Department of Health and Human Services (HHS)
 
 ---
+
+## 2:30 pm - 3:00 pm , ET<br />Designing for People with Cognitive Disabilities (and Everyone Else)
+
+The art of designing and creating content to support people with cognitive disabilities lives in the space between usability and accessibility. This presentation will discuss design patterns and approaches to support people with disabilities relating to attention, executive function, language, learning, and memory. These recommendations are not accessibility standards; they are recommended best practices that improve the user experience for everyone.
+
+In this session you will hear from the following speaker:
+
+* **Dr. Rachael Bradley Montgomery** &mdash; Digital Accessibility Architect, Library of Congress (LOC)
+
+---
+
+## 3:00 pm - 3:30 pm , ET<br />Recognizing Systemic Challenges for the Design Team of One
+
+Many designers are often alone on projects. Even in large organizations, they may feel isolated as they work with their product team. When things don’t go smoothly, designers may shoulder the blame. In this talk, listeners will come away with a design framework to recognize when they need to focus on the system they’re in, instead of their performance.
+
+In this session you will hear from the following speaker:
+
+* **Amanda Damewood** &mdash; Acting Director of User Experience, Department of Homeland Security (DHS)
+
+---
+
+## 3:30 pm - 3:45 pm, ET<br />Closing Remarks
 
 {{< /accordion >}}
 
