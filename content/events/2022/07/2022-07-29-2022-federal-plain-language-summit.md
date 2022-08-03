@@ -27,6 +27,7 @@ authors:
   - donna-ledbetter
   - sheila-walsh
   - stanley-dambroski
+  - rachael-bradley-montgomery
   - heather-holland
   - laura-rabuck
   - amanda-damewood
