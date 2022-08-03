@@ -41,7 +41,7 @@ primary_image: "2022-federal-plain-language-summit-title-card"
 
 On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://digital.gov/communities/plain-language/) will bring together federal employees to highlight plain language successes in many federal agencies at all stages of the communications journey. Speakers address debunking myths, meeting varying audience’s needs, managing the review process and stakeholders, and supporting plain language editors.
 
-***The Summit will begin at 10:30 am, ET, and conclude at 3:45 pm, ET. There will be one 15-minute break and one 10-minute break.***
+***The Summit will begin at 10:30 am, ET, and conclude at 3:45 pm, ET. There will be one 15-minute break at 12:15 pm, ET and one 10-minute break at 2:00 pm, ET.***
 
 ## 2022 Plain Language Agenda
 
@@ -85,8 +85,6 @@ In this session you will hear from the following speaker:
 * **Sheila Walsh** &mdash; Public Affairs Specialist, Department of Health and Human Services (HHS)
 
 {{< /accordion >}}
-
-### 15 minute break (12:15 - 12:30 pm, ET)
 
 {{< accordion kicker="12:30 - 3:45 pm, ET" title="Afternoon Sessions" icon="fas fa-copy" >}}
 ## 12:30 pm - 1:00 pm, ET<br />Help Them See the Light: Strategies for Training Feds to Use Plain Writing
@@ -137,6 +135,29 @@ In my presentation, I will discuss the training and provide before-and-after exa
 In this session you will hear from the following speaker:
 
 * **Stanley Dambroski** &mdash; Writer/Editor, National Science Foundation (NSF)
+
+---
+
+## 2:10 pm - 2:30 pm, ET<br />Managing Stakeholder Feedback: Lessons from Experience
+
+Do you know how to request and receive feedback on your plain language materials? Getting input from stakeholders can lead to a clearer, more accurate product. In this presentation, you’ll learn the types of stakeholders you might ask to review your materials, what to include in your request, and why it’s critical to set expectations early. You’ll also find out how to juggle suggestions from multiple reviewers and what to do if their edits are complex or full of jargon. These tips will set you up for success when working with stakeholders from inside and outside your agency.
+
+Getting feedback on your professional writing has many benefits: It validates the accuracy of the information, it can improve the clarity and focus of the text, and it gives your materials more credibility. But asking stakeholders to review and make suggestions on a document can be tricky. If you aren’t clear about your needs and expectations up front, you may not get the kind of feedback you’re looking for. And not everyone is an expert in plain language — so even if a reviewer’s edits are useful, you may have to “translate” them for the information to be understandable to your audience.
+
+In this presentation, participants will learn:
+
+* The two main types of stakeholders you might ask to review your materials, and how to approach each type;
+* The elements to include in your request to get helpful and actionable suggestions;
+* Why it’s important to set expectations early regarding the editorial process and deadlines;
+* What to do if a reviewer suggests edits that are complex or full of jargon, and how to handle it if you disagree with a particular edit;
+* Suggestions for keeping feedback from multiple reviewers straight; and
+* How to be a good reviewer yourself
+
+By the end of the talk, participants will have a toolbox of practical suggestions for approaching stakeholders and managing their feedback. The talk will also include examples from the presenter’s personal experience working with hundreds of reviewers on plain language materials. The presentation will be followed by Q&As from the audience.
+
+In this session you will hear from the following speaker:
+
+* **Stephanie M. Morrison, MPH** &mdash; Health and science writer/editor, Department of Health and Human Services (HHS)
 
 ---
 
