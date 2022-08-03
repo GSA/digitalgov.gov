@@ -195,7 +195,7 @@ In this session you will hear from the following speaker:
 * **Laura Rabuck** — Office of Research and Development of the Department of Veterans Affairs (VA)
 * **Stanley Dambroski** — U.S. National Science Foundation (NSF)
 * **Stephanie M. Morrison, MPH** — National Institute on Aging (NIA) at the National Institutes of Health (NIH)
-* **Rachel Bradley Montgomery** — Library of Congress (LoC)
+* **Rachael Bradley Montgomery** — Library of Congress (LoC)
 * **Amanda Damewood** — United States Citizenship and Immigration Services (USCIS)
 
 ## Moderators
