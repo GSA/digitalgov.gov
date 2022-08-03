@@ -11,5 +11,5 @@ bio: "Dr. Rachael Bradley Montgomery has been working in accessibility and usabi
 agency_full_name: Library of Congress
 # Agency Acronym [e.g., GSA]
 agency: LoC
-slug: dr-rachel-bradley-montgomery
+slug: dr-rachael-bradley-montgomery
 ---
