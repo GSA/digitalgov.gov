@@ -29,7 +29,7 @@ authors:
   - stanley-dambroski
   - heather-holland
   - laura-rabuck
-  - dr-rachel-bradley-montgomery
+  - dr-rachael-bradley-montgomery
   - amanda-damewood
   - stephanie-m-morrison-mph
 slug: 2022-federal-plain-language-summit
