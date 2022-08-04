@@ -1,6 +1,6 @@
 ---
-display_name: " Dr. Rachel Bradley Montgomery"
-first_name: Rachel
+display_name: " Dr. Rachael Bradley Montgomery"
+first_name: Rachael
 last_name: Bradley Montgomery
 # List your pronoun(s) if you want them displayed alongside your name.
 # If blank, we'll use just your name. Learn more http://mypronouns.org
@@ -11,5 +11,5 @@ bio: "Dr. Rachael Bradley Montgomery has been working in accessibility and usabi
 agency_full_name: Library of Congress
 # Agency Acronym [e.g., GSA]
 agency: LoC
-slug: dr-rachel-bradley-montgomery
+slug: dr-rachael-bradley-montgomery
 ---

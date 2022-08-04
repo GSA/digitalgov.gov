@@ -11,7 +11,8 @@ topics:
 ---
 
 {{< note "alert" >}}
-**The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is no longer active. It applied to no-cost tools only. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.
+**The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is no longer active. It applied to no-cost tools only. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.<br /><br />
+To ask about using these or similar tools and services, please reach out to your Agency Point of Contact; see the link below, under Related Pages.
 {{< /note >}}
 
 {{< box >}}
