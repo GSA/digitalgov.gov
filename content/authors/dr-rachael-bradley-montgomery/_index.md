@@ -1,5 +1,5 @@
 ---
-display_name: " Dr. Rachael Bradley Montgomery"
+display_name: "Dr. Rachael Bradley Montgomery"
 first_name: Rachael
 last_name: Bradley Montgomery
 # List your pronoun(s) if you want them displayed alongside your name.
