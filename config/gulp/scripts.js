@@ -27,7 +27,9 @@ function compileCommon() {
 }
 
 function compile() {
-  return src([`${PROJECT_JS_SRC}/*.js`])
+  // TODO: Move USWDS init to a vendor directory.
+  // That way we can ignore vendor instead of individual files.
+  return src([`${PROJECT_JS_SRC}/*.js`, `!${PROJECT_JS_SRC}/uswds-init.min.js`])
     .pipe(jshint())
     .pipe(jshint.reporter()) // Dump results
     .pipe(uglify())
