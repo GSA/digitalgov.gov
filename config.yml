@@ -47,9 +47,12 @@ outputs:
   term: ["HTML","RSS", "JSON"]
 
 # Goldmark is from Hugo 0.60 the default library used for Markdown.
-# https://gohugo.io/getting-started/configuration-markup/#goldmark
+# Deprecated blackfriday was removed in https://github.com/GSA/digitalgov.gov/issues/5089
 markup:
-  defaultMarkdownHandler: blackfriday
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
 
 
 
