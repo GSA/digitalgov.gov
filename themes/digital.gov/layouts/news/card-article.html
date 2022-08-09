@@ -13,10 +13,10 @@
         <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
       </h3>
 
-      {{- if .Params.deck -}}
-      <div class="deck">{{ .Params.deck | markdownify }}</div>
+      {{- if .Params.summary -}}
+      <div class="deck">{{ .Params.summary | markdownify }}</div>
       {{- else -}}
-      <div class="summary">{{ .Params.summary | markdownify }}</div>
+      <div class="summary">{{ .Params.deck | markdownify }}</div>
       {{- end -}}
 
       {{- partial "core/get_authors_short.html" . -}}
