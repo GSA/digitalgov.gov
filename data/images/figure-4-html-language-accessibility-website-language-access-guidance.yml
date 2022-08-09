@@ -9,5 +9,5 @@ width    : 1200
 height   : 630
 format   : png
 credit   : "" 
-caption  : "" 
-alt      : "A web page shows a split screen. Along the top is a menu of multiple languages. The bottom half shows the HTML code used to indicate the language of text for accessibility. Red boxes around the examples and red arrows connect the text links to the corresponding HTML code for Spanish (e s) and Chinese (z h)." 
+caption  : "Language attributes examples." 
+alt      : "A web page shows a split screen. Along the top is a menu of multiple languages. The bottom half shows the HTML language attributes used to indicate the language of text for accessibility. Red boxes around the examples and red arrows connect the text links to the corresponding HTML code for Spanish (e s) and Chinese (z h)." 
