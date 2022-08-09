@@ -19,7 +19,7 @@ authors:
 
 slug: community-research-explores-ways-to-improve-access-to-multilingual-content
 
-primary_image: 
+primary_image: "dept-edu-language-menu-closeup"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -61,6 +61,8 @@ So far, the group from the Multilingual Community has proposed guidance for thre
 2. Websites with three or more languages, with all content available in all languages
 3. Websites with three or more languages, with selected content offered in other languages
 
+{{< img src="figure-3-alphabetical-order-website-language-access-guidance" >}}
+
 In their solutions, the group identified the following areas that could be made more consistent when displaying content in languages other than English:
 
 * **Format** style (use a button-like link or dropdown list, instead of plain text links)
@@ -69,6 +71,8 @@ In their solutions, the group identified the following areas that could be made 
 * **Accessibility and usability** for developers (proper color contrast, visual element, language attributes, etc.)
 * **Treatment** (use of words instead of graphics or icons in the button)
 * **Language display** (capitalization, order of languages, etc.)
+
+{{< img src="figure-4-html-language-accessibility-website-language-access-guidance" >}}
 
 The Multilingual Community plans to work with the [U.S. Web Design System](https://designsystem.digital.gov/) team to publish the final guidance that can be implemented across government websites.
 
