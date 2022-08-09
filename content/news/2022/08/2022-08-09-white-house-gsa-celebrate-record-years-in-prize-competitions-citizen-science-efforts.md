@@ -4,8 +4,8 @@ source_url: https://www.gsa.gov/blog/2022/08/03/white-house-gsa-celebrate-record
 source: gsa
 date: 2022-08-03 15:20:00 -0500
 kicker: Partnerships
-title: White House & GSA Celebrate Record Years in Prize Competitions, Citizen Science Efforts
-deck: **White House & GSA Celebrate Record Years in Prize Competitions, Citizen Science Efforts**&mdash;On July 20, GSA’s Open Innovation Program and the White House Office of Science and Technology Policy (OSTP) co-hosted the Open Innovation Forum in partnership with Digital.gov. The event was themed around building equitable partnerships and it celebrated OSTP’s biennial report to Congress that covers the federal government’s prize competitions, crowdsourcing and citizen science initiatives in fiscal years 2019 and 2020.
+title: "White House & GSA Celebrate Record Years in Prize Competitions, Citizen Science Efforts"
+deck: "**White House & GSA Celebrate Record Years in Prize Competitions, Citizen Science Efforts**&mdash;On July 20, GSA’s Open Innovation Program and the White House Office of Science and Technology Policy (OSTP) co-hosted the Open Innovation Forum in partnership with Digital.gov. The event was themed around building equitable partnerships and it celebrated OSTP’s biennial report to Congress that covers the federal government’s prize competitions, crowdsourcing and citizen science initiatives in fiscal years 2019 and 2020."
 summary: 
 # See all topics at https://digital.gov/topics
 topics:
