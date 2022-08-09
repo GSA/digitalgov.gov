@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/figure-4-html-language-accessibility-website-language-access-guidance.png
+
+# Image shortcode: {{< img src="figure-4-html-language-accessibility-website-language-access-guidance" >}}
+
+date     : 2022-08-09 19:35:22 -0400
+uid      : figure-4-html-language-accessibility-website-language-access-guidance
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A web page shows a split screen. Along the top is a menu of multiple languages. The bottom half shows the HTML code used to indicate the language of text for accessibility. Red boxes around the examples and red arrows connect the text links to the corresponding HTML code for Spanish (e s) and Chinese (z h)." 
