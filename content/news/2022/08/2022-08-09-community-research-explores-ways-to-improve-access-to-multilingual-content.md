@@ -2,10 +2,9 @@
 date: 2022-08-09 11:31:00 -0500
 kicker: kicker
 title: Community Research Explores Ways To Improve Access To Multilingual Content
-deck: deck
-summary: A group from the Multilingual Community noticed inconsistencies in
-  access to languages other than English across government websites, and have
-  started working on a solution.
+deck: 
+summary: A group from the Multilingual Community noticed inconsistencies in access to languages other than English across government websites, and have started working on a solution.
+
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
@@ -13,13 +12,22 @@ topics:
   - accessibility
   - multilingual-community
   - uswds
+
+# See all authors at https://digital.gov/authors
+authors:
+  - mara-goldberg
+
 slug: community-research-explores-ways-to-improve-access-to-multilingual-content
-primary_image: 10x-areas-of-focus
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Government websites must be accessible to all, which includes those who speak languages other than English. There has been a lot of progress in this area, and government websites typically provide access to content that helps users find information in their own language.
 
 ## Current State
@@ -34,12 +42,14 @@ In response, a group of members from the [Multilingual Community](https://digita
 
 HIGHLIGHT BOX
 
+{{< box color="base-light" >}}
 Thank you to the six community members representing four agencies who led this effort!
 
 * National Cancer Institute at the National Institutes of Health - Fedora Braverman
 * U.S. Census Bureau - Mikelyn Meyers and Yazmin Garcia Trejo
 * U.S. Department of Justice - Mike Mulé
 * General Services Administration - Laura Godfrey and Maria Marrer
+{{< /box >}}
 
 ## Approach
 
@@ -55,15 +65,15 @@ So far, the group from the Multilingual Community has proposed guidance for thre
 
 In their solutions, the group identified the following areas that could be made more consistent when displaying content in languages other than English:
 
-* Format style (use a button-like link or dropdown list, instead of plain text links)
-* Placement on the page
-* Implementation of functionality (how the button works)
-* Accessibility and usability for developers (proper color contrast, visual element, language attributes, etc.)
-* Treatment (use of words instead of graphics or icons in the button)
-* Language display (capitalization, order of languages, etc.)
+* **Format** style (use a button-like link or dropdown list, instead of plain text links)
+* **Placement** on the page
+* **Implementation** of functionality (how the button works)
+* **Accessibility and usability** for developers (proper color contrast, visual element, language attributes, etc.)
+* **Treatment** (use of words instead of graphics or icons in the button)
+* **Language display** (capitalization, order of languages, etc.)
 
-HIGHLIGHT BOX
-
+{{< box >}}
 The Multilingual Community plans to work with the [U.S. Web Design System](https://designsystem.digital.gov/) team to publish the final guidance that can be implemented across government websites.
 
-Everyone can contribute to the design system. Do you have ideas on what should be included in the final guidance? Contribute to discussion on the [language selector component](https://github.com/uswds/uswds/issues/3938).
+**Everyone can contribute to the design system. Do you have ideas on what should be included in the final guidance? Contribute to discussion on the [language selector component](https://github.com/uswds/uswds/issues/3938)** →
+{{< /box >}}
