@@ -43,10 +43,12 @@ In response, a group of members from the [Multilingual Community](https://digita
 {{< box >}}
 Thank you to the six community members representing four agencies who led this effort!
 
-* National Cancer Institute at the National Institutes of Health - Fedora Braverman
-* U.S. Census Bureau - Mikelyn Meyers and Yazmin Garcia Trejo
-* U.S. Department of Justice - Mike Mulé
-* U.S. General Services Administration - Laura Godfrey and Maria Marrer
+* **Fedora Braverman**&mdash;National Cancer Institute at the National Institutes of Health
+* **Mikelyn Meyers**&mdash;U.S. Census Bureau
+* **Yazmin Garcia Trejo**&mdash;U.S. Census Bureau
+* **Mike Mulé**&mdash;U.S. Department of Justice
+* **Laura Godfrey**&mdash;U.S. General Services Administration
+* **Maria Marrer**&mdash;U.S. General Services Administration
 {{< /box >}}
 
 ## Approach
