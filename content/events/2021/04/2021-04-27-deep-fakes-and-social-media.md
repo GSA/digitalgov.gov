@@ -30,7 +30,7 @@ youtube_id: 5scPC80llnc
 
 ---
 
-[Read the Event Recap](https://digital.gov/2021/06/08/deep-fakes-and-social-media-a-qa-with-alex-cohen/)
+[Read the Q&A transcript](https://digital.gov/2021/06/08/deep-fakes-and-social-media-a-qa-with-alex-cohen/)
 
 Deep fakes are an emerging threat that can disrupt agencies’ communication efforts and federal agencies should be prepared. The term deep fake is typically used to refer to a video that has been edited using an algorithm to replace the person in the original video with someone else (especially a public figure) in a way that makes the video look authentic.
 
