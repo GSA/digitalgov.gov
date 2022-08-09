@@ -40,15 +40,13 @@ It has become clear that there is a need for consistent guidance for government 
 
 In response, a group of members from the [Multilingual Community](https://digital.gov/communities/multilingual/) conducted research, discussed their findings, and drafted solutions based on the number of languages and content being offered.
 
-HIGHLIGHT BOX
-
-{{< box color="base-light" >}}
+{{< box >}}
 Thank you to the six community members representing four agencies who led this effort!
 
 * National Cancer Institute at the National Institutes of Health - Fedora Braverman
 * U.S. Census Bureau - Mikelyn Meyers and Yazmin Garcia Trejo
 * U.S. Department of Justice - Mike Mulé
-* General Services Administration - Laura Godfrey and Maria Marrer
+* U.S. General Services Administration - Laura Godfrey and Maria Marrer
 {{< /box >}}
 
 ## Approach
@@ -75,5 +73,5 @@ In their solutions, the group identified the following areas that could be made 
 {{< box >}}
 The Multilingual Community plans to work with the [U.S. Web Design System](https://designsystem.digital.gov/) team to publish the final guidance that can be implemented across government websites.
 
-**Everyone can contribute to the design system. Do you have ideas on what should be included in the final guidance? Contribute to discussion on the [language selector component](https://github.com/uswds/uswds/issues/3938)** →
+**Everyone can contribute to the design system. Do you have ideas on what should be included in the final guidance? Contribute to discussion on the [language selector component](https://github.com/uswds/uswds/issues/3938)**
 {{< /box >}}
