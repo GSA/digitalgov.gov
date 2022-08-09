@@ -23,6 +23,9 @@ slug: how-to-build-your-digital-dream-team
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
+
+[Read the Event Recap](https://digital.gov/2022/08/01/webinar-recap-how-to-build-your-digital-dream-team/)
+
 When building a digital team at your agency, you will likely encounter many challenges. With increased competition for digital talent, staffing is tough —and quite a balancing act when you add in optimizing your digital tools and services for customers, and staying on budget.
 
 In this session, you’ll hear from a panel of federal web managers on how to get the right skills, talent, and support in place to build your digital dream team. If you’re not yet building teams, don’t fear — this session will help you figure out where you can best fit in on a digital team. 
