@@ -1,6 +1,6 @@
 ---
 date: 2022-08-09 11:31:00 -0500
-kicker: kicker
+kicker: 
 title: Community Research Explores Ways To Improve Access To Multilingual Content
 deck: 
 summary: A group from the Multilingual Community noticed inconsistencies in access to languages other than English across government websites, and have started working on a solution.
@@ -81,5 +81,5 @@ The Multilingual Community plans to work with the [U.S. Web Design System](https
 {{< note >}}
 Everyone can contribute to the design system. Do you have ideas on what should be included in the final guidance?
 
-**Contribute to discussion on the [language selector component](https://github.com/uswds/uswds/issues/3938)**
+**Contribute to discussion on the [language selector component](https://github.com/uswds/uswds/issues/3938)**.
 {{< /note >}}
