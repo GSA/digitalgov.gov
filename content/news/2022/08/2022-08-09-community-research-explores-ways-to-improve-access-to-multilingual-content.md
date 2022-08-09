@@ -70,8 +70,10 @@ In their solutions, the group identified the following areas that could be made 
 * **Treatment** (use of words instead of graphics or icons in the button)
 * **Language display** (capitalization, order of languages, etc.)
 
-{{< box >}}
 The Multilingual Community plans to work with the [U.S. Web Design System](https://designsystem.digital.gov/) team to publish the final guidance that can be implemented across government websites.
 
-**Everyone can contribute to the design system. Do you have ideas on what should be included in the final guidance? Contribute to discussion on the [language selector component](https://github.com/uswds/uswds/issues/3938)**
-{{< /box >}}
+{{< note >}}
+Everyone can contribute to the design system. Do you have ideas on what should be included in the final guidance?
+
+**Contribute to discussion on the [language selector component](https://github.com/uswds/uswds/issues/3938)**
+{{< /note >}}
