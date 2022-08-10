@@ -76,9 +76,7 @@ A position description, or PD, is defined by the Office of Personnel Management 
 
 Throughout the event, attendees asked panelists to share sample job descriptions. Below are some recent past openings at GSA that promote telework and job flexibility and are written in [plain language](https://digital.gov/topics/plain-language/).
 
-GSA’s Technology Transformation Services lists positions they’ve hired for in the past. You can use this page as a resource for people and teams across government to use when writing position descriptions in your agencies.
-
-* [Past positions at GSA’s Technology Transformation Services](https://join.tts.gsa.gov/past-positions/)
+GSA’s Technology Transformation Services lists [positions they’ve hired for in the past](https://join.tts.gsa.gov/past-positions/). You can use this page as a resource for people and teams across government to use when writing position descriptions in your agencies.
 
 Also, GSA’s Service Delivery team held an [information session (PDF, 2.1 MB, 27 pages)](https://github.com/GSA/service-delivery/blob/main/team/GSA_Service_Delivery_Info_Session.pdf) and hired three GS-15 career federal roles in 2022:
 
