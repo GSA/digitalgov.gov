@@ -48,7 +48,7 @@ Thank you to the six community members representing four agencies who led this e
 * **Yazmin Garcia Trejo**&mdash;U.S. Census Bureau
 * **Mike Mulé**&mdash;U.S. Department of Justice
 * **Laura Godfrey**&mdash;U.S. General Services Administration
-* **Maria Marrer**&mdash;U.S. General Services Administration
+* **Maria Marrero**&mdash;U.S. General Services Administration
 {{< /box >}}
 
 ## Approach
