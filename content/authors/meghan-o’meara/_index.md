@@ -6,7 +6,7 @@ last_name: O’Meara
 # If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: She/Her
 # Keep it under 50 words and only one paragraph
-bio: Meghan O'Meara is a digital and content strategist for the [10x](https://10x.gsa.gov/) team within the Technology Transformation Services (TTS) Office of Solutions at at the U.S. General Services Administration (GSA).
+bio: Meghan O'Meara is a contractor working as a digital and content strategist for the [10x](https://10x.gsa.gov/) team within the Technology Transformation Services (TTS) Office of Solutions at at the U.S. General Services Administration (GSA).
 # e.g. U.S. General Services Administration
 agency_full_name: U.S. General Services Administration
 # Agency Acronym [e.g., GSA]
