@@ -207,7 +207,7 @@ In this session you will hear from the following speaker:
 
 * [Visit PlainLanguage.gov](https://www.plainlanguage.gov/)
 * [Plain Language Summit 2020](https://digital.gov/event/2020/10/27/plain-language-summit-2020/)
-* [2021 Federal Plain Language Summit](https://digital.gov/event/2021/09/21/2021-federal-plain-language-summit/) 
+* [Plain Language Summit 2021](https://digital.gov/event/2021/09/21/2021-federal-plain-language-summit/) 
 * [Join the Community of Practice](https://digital.gov/communities/plain-language/)
 * [Follow @GovPlainLang on Twitter](https://twitter.com/govplainlang)
 * [Find additional plain language resources on Digital.gov](https://digital.gov/topics/plain-language/)
