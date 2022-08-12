@@ -90,10 +90,13 @@ Comment note —
 
 additional text goes here... {{< /note >}}
 
+2
+
 {{< note "comment" >}} Comment goes here
 
 additional text goes here... {{< /note >}}
 
+3
 
 {{< note "comment" >}} Another comment goes here
 
