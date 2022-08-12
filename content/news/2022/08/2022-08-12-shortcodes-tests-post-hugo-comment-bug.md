@@ -90,6 +90,16 @@ Comment note —
 
 additional text goes here... {{< /note >}}
 
+{{< note "comment" >}} Comment goes here
+
+additional text goes here... {{< /note >}}
+
+
+{{< note "comment" >}} Another comment goes here
+
+additional text goes here... {{< /note >}}
+
+
 ---
 
 ## Cards
