@@ -4,6 +4,12 @@ kicker: kicker
 title: shortcodes tests - post hugo comment bug
 deck: deck
 summary: summary
+# See all topics at https://digital.gov/topics
+topics:
+  - 21st-century-idea
+# See all authors at https://digital.gov/authors
+authors:
+  - toni-bonitto
 slug: shortcodes-tests-post-hugo-comment-bug
 primary_image: 10x-gold-x-logo
 # Controls how this page appears across the site
