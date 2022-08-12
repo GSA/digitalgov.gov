@@ -17,15 +17,13 @@
             <div>
               {{/* Name */}}
               <h1>{{- .Params.display_name | markdownify -}}</h1>
-
-
-						
+				
               {{/* Bio */}}
               <div class="bio">
 
-								{{- if .Params.pronoun -}}
-								<p class="pronouns">{{ .Params.pronoun }}</p>
-								{{- end -}}
+		{{- if .Params.pronoun -}}
+		<p class="pronouns">{{ .Params.pronoun }}</p>
+		{{- end -}}
 
                 {{- if or .Params.location .Params.agency -}}
                 <p>
