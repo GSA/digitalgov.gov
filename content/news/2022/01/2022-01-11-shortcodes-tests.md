@@ -91,6 +91,10 @@ Comment note —
 
 additional text goes here... {{< /note >}}
 
+{{< note >}} > Comment goes here as a blockquote
+
+additional text goes here... {{< /note >}}
+
 ---
 
 ## Cards
