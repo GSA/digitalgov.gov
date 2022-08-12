@@ -86,17 +86,19 @@ Alert note —
 
 Comment note — 
 
+1st one 
+
 {{< note "comment" >}} > Comment goes here as a blockquote
 
 additional text goes here... {{< /note >}}
 
-2
+2nd one
 
 {{< note "comment" >}} Comment goes here
 
 additional text goes here... {{< /note >}}
 
-3
+3rd one
 
 {{< note "comment" >}} Another comment goes here
 
