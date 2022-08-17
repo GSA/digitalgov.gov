@@ -189,7 +189,7 @@ In this session you will hear from the following speaker:
 
 * **Shuly Babitz** — Health Resources and Services Administration (HRSA)
 * **Katy Karnell** — Health Resources and Services Administration (HRSA)
-* **Donna Ledbetter** — Federal Bureau of Prisons (BOP)
+* **Donna Ledbetter** — National Institute of Corrections (NIC)
 * **Sheila Walsh** — Department of Health and Human Services (HHS)
 * **Heather K. Holland** — Centers for Medicare & Medicaid Services, U.S. Department of Health and Human Services (CMS/HHS)
 * **Laura Rabuck** — Office of Research and Development of the Department of Veterans Affairs (VA)
