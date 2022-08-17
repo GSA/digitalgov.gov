@@ -72,7 +72,7 @@ The presentation will show how my agency has been able to marry people-first lan
 
 In this session you will hear from the following speaker:
 
-* **Donna Ledbetter** &mdash; Writer/Editor, Federal Bureau of Prisons (BOP)
+* **Donna Ledbetter** &mdash; Writer/Editor, National Institute of Corrections (NIC)
  
 ---
 
