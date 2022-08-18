@@ -5,8 +5,8 @@ source: 18f
 date: 2022-08-18 13:57:00 -0500
 kicker: Agile
 title: "Senior executives part 4: Initiate more direct interaction to build rapport"
-deck: "Senior executives part 4: Initiate more direct interaction to build
-  rapport. It’s critical that senior executives and product teams make small
+deck: "**Senior executives part 4: Initiate more direct interaction to build
+  rapport**&mdash;It’s critical that senior executives and product teams make small
   decisions over time about important technology initiatives to be able to
   adjust plans as things change. How does that work? What works well?"
 summary: It’s critical that senior executives and product teams make small
