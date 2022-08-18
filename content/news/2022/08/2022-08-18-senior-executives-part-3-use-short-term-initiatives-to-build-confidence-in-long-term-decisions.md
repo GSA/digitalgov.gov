@@ -6,8 +6,8 @@ date: 2022-08-11 13:54:00 -0500
 kicker: Agile
 title: "Senior executives part 3: Use short-term initiatives to build confidence
   in long-term decisions"
-deck: "Senior executives part 3: Use short-term initiatives to build confidence
-  in long-term decisions. Deadlines often force executives to make long-term
+deck: "**Senior executives part 3: Use short-term initiatives to build confidence
+  in long-term decisions**&mdash;Deadlines often force executives to make long-term
   decisions about technology without certainty it’ll be successful. Modern
   software development strategies help reduce this risk by leveraging a product
   team to incrementally test software upfront."
