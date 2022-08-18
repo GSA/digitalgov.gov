@@ -4,8 +4,8 @@ source_url: https://www.defense.gov/News/News-Stories/Article/Article/3121412/do
 source: ""
 date: 2022-08-15 11:20:00 -0500
 title: U.S. Department of Defense Releases First Departmentwide Social Media Policy 
-deck: "**U.S. Department of Defense (DOD) Releases First Departmentwide Social Media Policy**&mdash;The DOD released a policy that for the first time spells out, from the highest levels of the defense community, how DOD military and civilian personnel should use official social media accounts to best advance the mission of the U.S. military and further instill trust in the credibility of the DOD."
-summary: "**U.S. Department of Defense (DOD) Releases First Departmentwide Social Media Policy**&mdash;The DOD released a policy that for the first time spells out, from the highest levels of the defense community, how DOD military and civilian personnel should use official social media accounts to best advance the mission of the U.S. military and further instill trust in the credibility of the DOD."
+deck: "The DOD released a policy that for the first time spells out, from the highest levels of the defense community, how DOD military and civilian personnel should use official social media accounts to best advance the mission of the U.S. military and further instill trust in the credibility of the DOD."
+summary: "The DOD released a policy that for the first time spells out, from the highest levels of the defense community, how DOD military and civilian personnel should use official social media accounts to best advance the mission of the U.S. military and further instill trust in the credibility of the DOD."
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
