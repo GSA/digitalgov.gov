@@ -32,6 +32,8 @@ primary_image: december-plain-language-report-card-title-card
 
 ---
 
+[Read the Event Recap](https://digital.gov/resources/lessons-from-the-2021-federal-plain-language-report-card/?dg)
+
 ## Event Details
 
 For a decade, the Center for Plain Language has issued a yearly Report Card evaluating how well agencies follow the [Plain Writing Act.](https://www.plainlanguage.gov/law/) These agencies were judged on organizational compliance and writing quality.
