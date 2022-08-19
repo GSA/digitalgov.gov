@@ -1,10 +1,8 @@
 ---
 title: Results of the 2021 Federal Report Card
-deck: This month, we get the inside story on the Center for Plain Language’s
-  Federal Report Card.
+deck: This month, we get the inside story on the Center for Plain Language’s Federal Report Card.
 kicker: Plain Language
-summary: David Lipscomb from the Center for PL will review the results of this
-  year’s Federal Plain Language Report Card and answer questions.
+summary: David Lipscomb from the Center for PL will review the results of this year’s Federal Plain Language Report Card and answer questions.
 host: Plain Language Community of Practice
 event_organizer: Digital.gov
 registration_url: "https://www.eventbrite.com/e/results-of-the-2021-federal-report-card-tickets-211733910827"
@@ -49,9 +47,9 @@ This year, the judges focused on the main Freedom of Information Act (FOIA) requ
 * **Katherine Spivey** — U.S. General Services Administration (GSA)
 * **Katina Stapleton** — U.S. Department of Education (ED)
 
-[View the slides](https://digital.gov/files/results-of-the-fplrc.pptx) (PowerPoint, 1.4 MB, 9 pages)
+[View the slides (PowerPoint, 1.4 MB, 9 pages)](https://digital.gov/files/results-of-the-fplrc.pptx)
 
-### Related Resources
+## Related Resources
 
 * [2021 Federal Plain Language Report Card](https://centerforplainlanguage.org/2021-federal-plain-language-report-card/) 
 * [PlainLanguage.gov](https://www.plainlanguage.gov/) 
