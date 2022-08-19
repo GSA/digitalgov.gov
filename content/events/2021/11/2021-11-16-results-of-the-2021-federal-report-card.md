@@ -30,11 +30,13 @@ primary_image: december-plain-language-report-card-title-card
 
 ---
 
-[Read the Event Recap](https://digital.gov/resources/lessons-from-the-2021-federal-plain-language-report-card/?dg)
+[View the slides (PowerPoint, 1.4 MB, 9 pages)](https://digital.gov/files/results-of-the-fplrc.pptx)
+
+[Read the Lessons Learned](https://digital.gov/resources/lessons-from-the-2021-federal-plain-language-report-card/)
 
 ## Event Details
 
-For a decade, the Center for Plain Language has issued a yearly Report Card evaluating how well agencies follow the [Plain Writing Act.](https://www.plainlanguage.gov/law/) These agencies were judged on organizational compliance and writing quality.
+For a decade, the Center for Plain Language has issued a yearly Report Card evaluating how well agencies follow the [Plain Writing Act](https://www.plainlanguage.gov/law/). These agencies were judged on organizational compliance and writing quality.
 
 This year, the judges focused on the main Freedom of Information Act (FOIA) request page and the main Coronavirus page of 21 executive branch agencies, including all 15 cabinet-level departments.
 
@@ -46,8 +48,6 @@ This year, the judges focused on the main Freedom of Information Act (FOIA) requ
 
 * **Katherine Spivey** — U.S. General Services Administration (GSA)
 * **Katina Stapleton** — U.S. Department of Education (ED)
-
-[View the slides (PowerPoint, 1.4 MB, 9 pages)](https://digital.gov/files/results-of-the-fplrc.pptx)
 
 ## Related Resources
 
