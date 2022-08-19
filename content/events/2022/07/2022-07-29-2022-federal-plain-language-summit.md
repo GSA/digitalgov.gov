@@ -89,7 +89,7 @@ In this session you will hear from the following speaker:
 {{< accordion kicker="12:30 - 3:45 pm, ET" title="Afternoon Sessions" icon="fas fa-copy" >}}
 ## 12:30 pm - 1:00 pm, ET<br />Help Them See the Light: Strategies for Training Feds to Use Plain Writing
 
-The presentation highlights how we use awful examples of our agency's own internal memos, emails, and other communication pieces as a powerful plain writing training strategy. Showing lots of “before-and-after” examples of the kinds of pieces we see every day around the agency helps federal employees understand that plain writing isn’t about oversimplifying for a low-literacy public – it’s a research-based science that helps EVERYONE get better results.
+The presentation highlights how we use examples of our agency's own internal memos, emails, and other communication pieces as a powerful plain writing training strategy. Showing lots of “before-and-after” examples of the kinds of pieces we see every day around the agency helps federal employees understand that plain writing isn’t about oversimplifying for a low-literacy public – it’s a research-based science that helps EVERYONE get better results.
  
 Participants will learn how we use real examples of communication pieces from around our agency to help federal employees see why plain writing is relevant to their work, even if they don’t ever write for the public. We’ll share how we rewrite and redesign these pieces in a non-threatening, relatable way that helps feds recognize how their current communication approaches (“the way we’ve always done it”) might be sabotaging their results.
  
