@@ -175,6 +175,8 @@ In this session you will hear from the following speaker:
 
 ## 2:30 pm - 3:00 pm , ET<br />Designing for People with Cognitive Disabilities (and Everyone Else)
 
+[View the slides (PowerPoint, 16.1 MB, 37 pages)](https://digital.gov/files/plain-language-summit-designing-for-people-with-cognitive-disabilities-and-everyone.pptx)
+
 The art of designing and creating content to support people with cognitive disabilities lives in the space between usability and accessibility. This presentation will discuss design patterns and approaches to support people with disabilities relating to attention, executive function, language, learning, and memory. These recommendations are not accessibility standards; they are recommended best practices that improve the user experience for everyone.
 
 In this session you will hear from the following speaker:
