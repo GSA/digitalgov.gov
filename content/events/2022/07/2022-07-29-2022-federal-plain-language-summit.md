@@ -52,7 +52,7 @@ On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://dig
 
 ## 10:40 am - 11:15 am, ET<br />Debunking the Oversimplification Myth: Making the Case for Plain Language in Health Communications
 
-[View the slides (PowerPoint, 2.18 MB, 19 pages)(https://digital.gov/files/plain-language-summit-debunking-the-oversimplification-myth.pptx)
+[View the slides (PowerPoint, 2.18 MB, 19 pages)](https://digital.gov/files/plain-language-summit-debunking-the-oversimplification-myth.pptx)
 
 This session will help participants make the case for using plain language to agency leadership. So often, we work with subject matter experts and others in government who cling to using insider jargon, awkward constructions, and just too many words. There’s a fear that plain language principles will oversimplify the content and minimize the importance of the work.
 How can public affairs professionals in the government change this attitude? How can we convince colleagues and leaders that products written in plain language are more effective, more meaningful, and more accessible to a wide range of audiences?
