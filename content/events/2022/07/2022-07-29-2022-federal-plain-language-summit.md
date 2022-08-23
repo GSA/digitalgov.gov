@@ -52,6 +52,8 @@ On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://dig
 
 ## 10:40 am - 11:15 am, ET<br />Debunking the Oversimplification Myth: Making the Case for Plain Language in Health Communications
 
+[View the slides (PowerPoint, 2.18 MB, 19 pages)(https://digital.gov/files/plain-language-summit-debunking-the-oversimplification-myth.pptx)
+
 This session will help participants make the case for using plain language to agency leadership. So often, we work with subject matter experts and others in government who cling to using insider jargon, awkward constructions, and just too many words. There’s a fear that plain language principles will oversimplify the content and minimize the importance of the work.
 How can public affairs professionals in the government change this attitude? How can we convince colleagues and leaders that products written in plain language are more effective, more meaningful, and more accessible to a wide range of audiences?
 
@@ -66,6 +68,8 @@ In this session you will hear from the following speakers:
 
 ## 11:15 am - 11:45 am, ET<br />A Happy Compromise: Applying People-First Standards with Plain Language in Mind
 
+[View the slides (PowerPoint, 23.3 MB, 24 pages)](https://digital.gov/files/plain-language-summit-plain-language-and-people-first-a-pioneering-union.pptx)
+
 People-first language (PFL) is more commonly known as person-first language and is widely used in the medical community. Under this framework, people are asked not to use words that define a person by their disability or medical condition—and instead, use words that describe them as a person first, and then by their disability or condition second. For example, we would refer to them as “a person with diabetes” instead of “a diabetic.”
  
 The presentation will show how my agency has been able to marry people-first language and plain language principles to develop more sensitive, humane communications that are respectful of the people directly affected by these words in various ways. 
@@ -78,6 +82,8 @@ In this session you will hear from the following speaker:
 
 ## 11:45 am - 12:15 pm, ET<br />Designing Digital Products for Adults With Low Literacy
 
+[View the slides (PowerPoint, 3.72 MB, 16 pages)](https://digital.gov/files/plain-language-summit-designing-digital-products-for-adults-with-low-literacy.pptx)
+
 Over 50% of U.S. adults score below an international benchmark for literacy, with roughly 20% scoring at the very lowest levels. These adults span all demographics and are a part of your audience. What can we do as user experience professionals to support digital inclusion of adults with low reading literacy levels? This session provides a high-level overview of best practices in design standards, plain language, content strategy, and usability testing. 
 
 In this session you will hear from the following speaker:
@@ -88,6 +94,8 @@ In this session you will hear from the following speaker:
 
 {{< accordion kicker="12:30 - 3:45 pm, ET" title="Afternoon Sessions" icon="fas fa-copy" >}}
 ## 12:30 pm - 1:00 pm, ET<br />Help Them See the Light: Strategies for Training Feds to Use Plain Writing
+
+[View the slides (PowerPoint, 2.5 MB, 24 pages)](https://digital.gov/files/plain-language-summit-help-them-see-the-light-strategies-for-training-feds.pptx)
 
 The presentation highlights how we use examples of our agency's own internal memos, emails, and other communication pieces as a powerful plain writing training strategy. Showing lots of “before-and-after” examples of the kinds of pieces we see every day around the agency helps federal employees understand that plain writing isn’t about oversimplifying for a low-literacy public – it’s a research-based science that helps EVERYONE get better results.
  
@@ -120,6 +128,8 @@ In this session you will hear from the following speaker:
 
 ## 1:30 pm - 2:00 pm, ET<br />Instruction on Setting up Context for Technical Details: Addition to an Agency’s PL Training
 
+[View the slides (PowerPoint, 1.42 MB, 5 pages)](https://digital.gov/files/plain-language-summit-setting-up-context-for-technical-details.pptx)
+
 A major point of contention that can occur between writers and editors presenting technical information for general readership is what can be seen as oversimplifying language. If we replace technical phrasing with commonly understood phrasing, we risk losing nuance; if we retain technical, specialized phrasing, we risk losing readers.
    
 In plain writing training I have developed for my agency, a federal science agency, I provide a third alternative by adding instruction on creating introductory frameworks in which readers can place technical details and thereby understand technical phrasing. Providing frameworks can enable writers and editors to retain technical language and make it understandable for readers.
@@ -139,6 +149,8 @@ In this session you will hear from the following speaker:
 ---
 
 ## 2:10 pm - 2:30 pm, ET<br />Managing Stakeholder Feedback: Lessons from Experience
+
+[View the slides (PowerPoint, 16.7 MB, 19 pages)](https://digital.gov/files/plain-language-summit-managing-stakeholder-feedback-lessons-from-experience.pptx)
 
 Do you know how to request and receive feedback on your plain language materials? Getting input from stakeholders can lead to a clearer, more accurate product. In this presentation, you’ll learn the types of stakeholders you might ask to review your materials, what to include in your request, and why it’s critical to set expectations early. You’ll also find out how to juggle suggestions from multiple reviewers and what to do if their edits are complex or full of jargon. These tips will set you up for success when working with stakeholders from inside and outside your agency.
 
