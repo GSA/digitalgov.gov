@@ -25,6 +25,7 @@ To commemorate Veterans Day this year, we asked veterans currently working acros
 
 {{< note "comment" >}}{{< img-right src="tom-black-veterans-day-2021-600" >}}
 
+
 "I learned a great deal about the importance of service and what it meant to me while in the U.S. Navy. But after my military service ended, I thought that was also the end of my career in public service. I still wanted to find ways to strengthen our country, and use my technology and entrepreneurial skills to do so, but I didn't know how exactly.
 
 Fortunately, I learned about the Presidential Innovation Fellows and was selected for their second class in 2013. Initially a year-long fellowship, I decided to stay on to build and grow 18F, then Login.gov, and now develop strategic partnerships for our parent organization, the Technology Transformation Services (TTS) at GSA. In each of these roles, I've had the opportunity to collaborate with so many civil servants across as many agencies, each with their own stories of service. At the start, I only really knew *public service* through the lens of military service, but there are so many ways to serve the public. Some of the most impactful are here at TTS, especially now as we're rethinking how the public accesses government services online to get the support they need."
