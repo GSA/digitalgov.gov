@@ -108,7 +108,9 @@ In this session you will hear from the following speaker:
 ---
 
 ## 1:00 pm - 1:30 pm, ET<br />Jargon Madness: A Plain Language Exercise
- 
+
+[View the slides (PowerPoint, 1.54 MB, 34 pages)](https://digital.gov/files/plain-language-summit-jargon-madness-a-plain-language-exercise.pptx)
+
 This session will walk through how to create and run a Jargon Madness event as a plain language exercise. Jargon Madness is a tournament-style bracket modeled after the annual college basketball event except in this version, jargon battles for the title of "Most confusing" based on votes.
  
 Attendees will learn about:
