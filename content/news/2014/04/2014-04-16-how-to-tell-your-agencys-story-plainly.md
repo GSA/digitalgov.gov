@@ -2,7 +2,7 @@
 slug: how-to-tell-your-agencys-story-plainly
 date: 2014-04-16 10:00:23 -0400
 title: How to Tell Your Agency’s Story—Plainly
-summary: 'You’ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You’ve got the facts. You’ve got the talking points. All you have to do is put it together, right? Wait. What you want to tell people is not necessarily what they need to know. I know it’s hard to organize material'
+summary: 'You’ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You’ve got the facts. You’ve got the talking points. All you have to do is put it together, right?'
 authors:
   - katherine-spivey
 topics:
@@ -13,7 +13,7 @@ topics:
   - social-media
 ---
 
-{{< legacy-img src="2014/04/250-x-167-plain-language-chris2766-iStock-Thinkstock-477440077.jpg" alt="Dictionary definition of the word language, highlighted in pink" caption="" >}} 
+{{< legacy-img-right src="2014/04/250-x-167-plain-language-chris2766-iStock-Thinkstock-477440077.jpg" alt="Dictionary definition of the word language, highlighted in pink" caption="" >}} 
 
 You’ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You’ve got the facts. You’ve got the talking points. All you have to do is put it together, right?
 
@@ -38,14 +38,10 @@ Here are two webinars on plain language Katherine Spivey, Plain Language Launche
 
 Write for a government website? You’ll need the top Web writing skills from the plain language set:
 
-[youtube=http://www.youtube.com/watch?v=j9FCji6-UJE&w=600]
-
- 
+{{< youtube j9FCji6-UJE >}}
 
 Write for an agency’s blog, Facebook, or Twitter account? You need to do social media and plain language at the same time:
 
-[youtube=http://www.youtube.com/watch?v=W756zIegQBs&w=600]
-
- 
+{{< youtube W756zIegQBs >}}
 
 _**Katherine Spivey** is the General Services Administration (GSA)&#8217;s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)._
