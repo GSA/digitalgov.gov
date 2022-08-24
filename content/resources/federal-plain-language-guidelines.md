@@ -19,6 +19,7 @@ The Plain Language Action and Information Network (PLAIN) put together federal g
 - [Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf)
 - [Plain Writing Basics]({{< ref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}})
 - [Plain Language Web Writing Tips]({{< ref "plain-language-web-writing-tips.md" >}})
+- [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)&mdash; accessible and user-centered customer experience.
 
 ---
 
