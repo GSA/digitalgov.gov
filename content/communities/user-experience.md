@@ -36,6 +36,9 @@ community_list:
 # see all authors at https://digital.gov/authors
 authors:
   - jean-fox
+
+primary_image: "white-bg-digital-gov-card-community"
+
 ---
 
 Join other federal user experience practitioners and learn how to make better user-centered products.
