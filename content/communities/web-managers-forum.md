@@ -45,6 +45,8 @@ community_list:
     terms: "U.S. government employees only are eligible to join."
     members: 1927
 
+primary_image: "white-bg-digital-gov-card-community"
+
 ---
 
 We are a group for federal, tribal, state, and local government employees who manage government websites and digital services. We are working to create a trusted, seamless online experience for all.
