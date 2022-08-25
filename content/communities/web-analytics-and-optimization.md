@@ -37,6 +37,8 @@ community_list:
     subscribe_email: ANALYZE-OPTIMIZE-subscribe-request@LISTSERV.GSA.GOV
     terms: Government employees and contractors only.
 
+primary_image: "white-bg-digital-gov-card-community"
+
 ---
 
 In government, those with analytics as part of their duties are faced with a fast-paced, ever-changing environment. Technologies, strategies, and tools change regularly. This community aims to uncover best practices, case studies, tips, and tools for web analytics and optimization.
