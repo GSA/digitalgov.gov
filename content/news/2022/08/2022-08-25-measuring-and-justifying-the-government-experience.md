@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://blog-nrrd.doi.gov/metrics/
-source: 18f
+source: doi-revenuedata
 date: 2022-08-19 15:21:00 -0500
 kicker: Policy
 title: Measuring and Justifying the Government Experience
@@ -41,4 +41,5 @@ slug: measuring-and-justifying-the-government-experience
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
