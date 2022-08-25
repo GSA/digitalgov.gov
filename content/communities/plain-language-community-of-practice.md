@@ -42,6 +42,8 @@ community_list:
     terms: "Anyone is eligible to join."
     members: 1300
 
+primary_image: "white-bg-digital-gov-card-community"
+
 ---
 
 The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves federal agencies time and money and provides better service to the American public.
