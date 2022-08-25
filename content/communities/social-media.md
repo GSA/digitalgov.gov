@@ -45,6 +45,8 @@ community_list:
     terms: "Federal employees and federal contractor employees with a .gov or .mil email address are eligible to join."
     members: 1187
 
+primary_image: "white-bg-digital-gov-card-community"
+
 ---
 
 The SocialGov Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists at federal agencies as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.
