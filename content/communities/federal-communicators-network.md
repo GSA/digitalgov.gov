@@ -35,6 +35,9 @@ weight: 1
 dg_highlight: true
 dg_shortname: Communicators
 dg_acronym: FCN
+
+primary_image: "white-bg-digital-gov-card-community"
+
 ---
 
 The Federal Communicators Network (FCN) was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
