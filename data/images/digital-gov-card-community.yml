@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/digital-gov-card-community.png
+
+# Image shortcode: {{< img src="digital-gov-card-community" >}}
+
+date     : 2022-08-26 16:44:42 -0400
+uid      : digital-gov-card-community
+width    : 1280
+height   : 720
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A title card with a yellow background shows the blue and black Digital.gov logo above the words, Community of Practice, which is in a thin-weight black font. A thin, black horizontal line is between them." 
