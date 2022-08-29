@@ -1,14 +1,16 @@
+require('dotenv').config();
 const { series, src, dest } = require("gulp"),
   vinylPaths = require("vinyl-paths"),
   del = require("del"),
   s3config = {
-    accessKeyId: process.env.AWS_ACCESSKEY,
-    secretAccessKey: process.env.AWS_SECRET,
+    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
   },
   s3 = require("gulp-s3-upload")(s3config);
 
 function upload() {
   console.log("starting upload");
+  console.log(process.env);
   return src("content/images/_working/processed/**/*")
     .pipe(
       s3(
