@@ -10,7 +10,6 @@ const { series, src, dest } = require("gulp"),
 
 function upload() {
   console.log("starting upload");
-  console.log(process.env);
   return src("content/images/_working/processed/**/*")
     .pipe(
       s3(
