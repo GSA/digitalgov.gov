@@ -42,7 +42,7 @@ community_list:
     terms: "Anyone is eligible to join."
     members: 1300
 
-primary_image: "white-bg-digital-gov-card-community"
+primary_image: "digital-gov-card-community"
 
 ---
 
