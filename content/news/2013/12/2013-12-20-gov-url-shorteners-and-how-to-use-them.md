@@ -32,7 +32,7 @@ Anyone can see metrics for a short 1.USA.gov URL by adding a + to the end of it,
 
 Go.USA.gov will turn .gov, .mil, .si.edu, .fed.us, .state.xx.us, and a few other government domains into short Go.USA.gov URLs. It’s a free service that’s only open to verifiable federal, state, and local government employees and you must register for an account.
 
-All registered users can see metrics for short Go.USA.gov URLs. You can find them by using the details link in your history or this short cut: https://go.usa.gov/shorturl/link/xxx. For example, the details for <a href="https://www.usa.gov/unclaimed-money">http://go.usa.gov/WhzY</a> are available at <a href="https://www.usa.gov/unclaimed-money">https://go.usa.gov/shorturl/link/WhzY</a>.
+All registered users can see metrics for short Go.USA.gov URLs. You can find them by using the details link in your history or this short cut: https://go.usa.gov/shorturl/link/xxx. For example, the details for <a href="http://go.usa.gov/WhzY">http://go.usa.gov/WhzY</a> are available at <a href="http://go.usa.gov/WhzY">https://go.usa.gov/shorturl/link/WhzY</a>.
 
 Go.USA.gov is open source, built using Drupal, and is maintained by GSA.
 
