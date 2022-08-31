@@ -3,8 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: transform-federal-business-operations-join-rpa
 
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xfg2B
+
 date: 2020-07-10 16:00:00 -0500
 title: "Transform Federal Business Operations: Join the RPA Community of Practice"
 deck: "We share solutions to help individual agencies overcome the challenges that arise in designing and deploying an effective robotic process automation (RPA) program."

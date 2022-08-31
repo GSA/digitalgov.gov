@@ -1,6 +1,5 @@
 ---
 slug: building-elements-that-earn-trust
-short_url: https://go.usa.gov/xdTEE
 date: 2019-11-18 08:34:00 -0500
 kicker: "This Week's IDEA"
 title: 'Building the Elements That Earn Trust'

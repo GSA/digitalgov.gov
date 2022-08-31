@@ -2,9 +2,6 @@
 # View this page at https://digital.gov/2020/01/28/improving-experience-federal-grant-reporting
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: improving-experience-federal-grant-reporting
-
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xdbax
 date: 2020-01-28 15:00:00 -0500
 title: "Improving the Experience of Federal Grant Reporting"
 deck: "A 10x project to investigate opportunities to make the grant reporting process more efficient."

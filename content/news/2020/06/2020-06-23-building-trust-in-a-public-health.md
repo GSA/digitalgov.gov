@@ -10,8 +10,6 @@ source_url: "https://18f.gsa.gov/2020/06/23/building-trust-in-a-public-health-cr
 source: 18f
 slug: building-trust-in-a-public-health
 
-# Short URL — https://go.usa.gov/
-short_url: 
 date: 2020-06-23 18:00:00 -0500
 kicker: "Content Design"
 title: "Building Trust in a Public Health Crisis"

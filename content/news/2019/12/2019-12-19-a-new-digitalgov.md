@@ -3,7 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: a-new-digitalgov
-short_url: https://go.usa.gov/xp7DY
 kicker: ""
 date: 2019-12-19 11:00:00 -0500
 title: "Welcome to the NEW Digital.gov"

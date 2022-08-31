@@ -3,8 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: bringing-our-humanity-work-5-ingredients
 
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xwtku
 date: 2020-06-30 10:00:00 -0500
 title: "Bringing Our Human(ity) to Work: 5 Ingredients for a Delightful Town Hall"
 deck: "In this Bringing Our Human(ity) to Work series, we’re going to share what we believe are the best “meeting ingredients” for a variety of meeting experiences: large groups, teams, and small groups."

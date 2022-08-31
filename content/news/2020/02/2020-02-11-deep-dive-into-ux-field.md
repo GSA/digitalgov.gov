@@ -2,9 +2,6 @@
 # View this page at https://digital.gov/2020/02/11/deep-dive-into-ux-field
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: deep-dive-into-ux-field
-
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xdXzg
 date: 2020-02-11 12:00:00 -0500
 kicker: "UX"
 title: "Deep Dive into the UX Field"

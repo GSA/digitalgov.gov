@@ -3,8 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: us-data-federation-graduates-10x-program
 
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xwSUR
+
 date: 2020-07-02 13:40:00 -0500
 kicker: "10x"
 title: "The U.S. Data Federation graduates the 10x Program, Launches New Repository"

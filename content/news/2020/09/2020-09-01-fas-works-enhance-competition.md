@@ -10,8 +10,7 @@ source_url: "https://www.gsa.gov/blog/2020/09/01/fas-works-to-enhance-competitio
 source: gsa
 slug: fas-works-enhance-competition
 
-# Short URL — https://go.usa.gov/
-short_url: 
+ 
 date: 2020-09-01 14:00:00 -0500
 kicker: "Acquisition"
 title: "FAS Works to Enhance Competition"

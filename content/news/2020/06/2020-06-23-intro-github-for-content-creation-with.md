@@ -10,8 +10,6 @@ source_url: "https://digital.gov/resources/an-introduction-github/?dg"
 source: digitalgov
 slug: intro-github-for-content-creation-with
 
-# Short URL — https://go.usa.gov/
-short_url: 
 date: 2020-06-23 11:00:00 -0500
 kicker: "Version Control"
 title: "Intro to GitHub for Content Creation with Malaika Carpenter"

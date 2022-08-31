@@ -10,8 +10,7 @@ source_url: "https://medium.com/codedotgov/federal-source-code-study-series-part
 source: codegov
 slug: federal-source-code-study-series
 
-# Short URL — https://go.usa.gov/
-short_url: 
+
 date: 2020-05-27 11:00:00 -0500
 kicker: "Open Source Code"
 title: "Federal Source Code Study Series"

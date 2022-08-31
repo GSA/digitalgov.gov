@@ -10,8 +10,6 @@ source_url: "https://www.whitehouse.gov/articles/connecting-americans-coronaviru
 source: whitehouse
 slug: connecting-americans-coronavirus-information-online
 
-# Short URL — https://go.usa.gov/
-short_url: http://go.usa.gov/xvRxJ
 date: 2020-04-24 10:00:00 -0500
 kicker: "Findability"
 title: "Connecting Americans to Coronavirus Information Online"

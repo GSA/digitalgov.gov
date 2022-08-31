@@ -10,8 +10,6 @@ source_url: "https://medium.com/codedotgov/spotlight-story-pioneering-open-sourc
 source: codegov
 slug: spotlight-story-pioneering-open-source-at
 
-# Short URL — https://go.usa.gov/
-short_url: 
 date: 2020-07-23 13:00:00 -0500
 kicker: "Code"
 title: "Spotlight Story: Pioneering Open Source at the CFPB"
