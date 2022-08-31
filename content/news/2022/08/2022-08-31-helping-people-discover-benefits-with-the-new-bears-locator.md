@@ -2,7 +2,7 @@
 # Originally published at the following URL
 source_url: https://blog.usa.gov/helping-people-discover-benefits-with-the-new-bears-locator
 source: usagov
-date: 2022-08-31 14:16:00 -0500
+date: 2022-08-30 12:16:00 -0500
 title: Helping People Discover Benefits With the New BEARS Locator
 deck: "**Helping People Discover Benefits With the New BEARS
   Locator**&mdash;Back in March, we shared about the work we were doing to
