@@ -25,4 +25,5 @@ slug: helping-people-discover-benefits-with-the-new-bears-locator
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
