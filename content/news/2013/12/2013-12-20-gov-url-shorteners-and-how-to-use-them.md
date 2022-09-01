@@ -36,7 +36,7 @@ All registered users can see metrics for short Go.USA.gov URLs. You can find the
 
 Go.USA.gov is open source, built using Drupal, and is maintained by GSA.
 
-[Learn more about the differences between Go.USA.gov and 1.USA.gov short URLs]({{< ref "service_usagov-short-urls.md" >}} "USA.gov Short URLs").
+[Learn more about the differences between Go.USA.gov and 1.USA.gov short URLs](https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions "USA.gov Short URLs").
 
 ## Usability of Short URLs
 
@@ -46,11 +46,11 @@ When creating Go.USA.gov, we assumed most users would be clicking short URLs, no
 
 ## Accessibility of Short URLs
 
-Short URLs can actually be beneficial for people using assistive technologies because it shortens the reading time and the cognitive load that longer URLs can create. Imagine listening to<a href="http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml">http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml</a> being read aloud versus<a href="http://go.usa.gov/WhzY">http://go.usa.gov/WhzY</a>.
+Short URLs can actually be beneficial for people using assistive technologies because it shortens the reading time and the cognitive load that longer URLs can create. Imagine listening to <a href="http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml">http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml</a> being read aloud versus <a href="http://go.usa.gov/WhzY">http://go.usa.gov/WhzY</a>.
 
-With that in mind, you should avoid using the short URL as the link title, such as “<a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" >}}">Click here</a>” (It’s never a good idea to use “click here,” but that’s a story for another day.) It’s ok to use a short URL as the link when you use actual words as the link title, such as “Learn more about <a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" >}}">short URLs</a>.”
+With that in mind, you should avoid using the short URL as the link title, such as “<a title="USA.gov Short URLs" href="https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions">Click here</a>” (It’s never a good idea to use “click here,” but that’s a story for another day.) It’s ok to use a short URL as the link when you use actual words as the link title, such as “Learn more about <a title="USA.gov Short URLs" href="https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions">short URLs</a>.”
 
-You can’t follow this rule when writing messages for social media because there isn’t the option to use a link title. Instead, give a good description first so users can decide if they want to click the link, such as “You can learn more about how to create short .gov URLs at <a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" >}}">http://go.usa.gov/Whtm</a>.” <a title="5 Myths About Social Media Accessibility" href="{{< ref "2013-06-26-5-myths-about-social-media-accessibility-2.md" >}}">Learn more about making social media accessible</a>.
+You can’t follow this rule when writing messages for social media because there isn’t the option to use a link title. Instead, give a good description first so users can decide if they want to click the link, such as “You can learn more about how to create short .gov URLs at <a title="USA.gov Short URLs" href="https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions">http://go.usa.gov/Whtm</a>.” <a title="5 Myths About Social Media Accessibility" href="{{< ref "2013-06-26-5-myths-about-social-media-accessibility-2.md" >}}">Learn more about making social media accessible</a>.
 
 ## Search Engine Optimization (SEO) of Short URLs
 
