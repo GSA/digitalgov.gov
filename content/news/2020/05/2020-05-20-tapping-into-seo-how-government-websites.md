@@ -3,7 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: tapping-into-seo-how-government-websites
 
-
 date: 2020-05-20 15:00:00 -0500
 kicker: "SEO"
 title: "Tapping Into SEO: How Government Websites Can Improve Content Reach"

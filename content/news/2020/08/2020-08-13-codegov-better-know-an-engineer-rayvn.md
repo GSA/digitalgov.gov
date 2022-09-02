@@ -10,7 +10,6 @@ source_url: "https://medium.com/codedotgov/code-gov-better-know-an-engineer-rayv
 source: codegov
 slug: codegov-better-know-an-engineer-rayvn
 
-
 date: 2020-08-13 12:00:00 -0500
 title: "Code.gov Better Know an Engineer: Rayvn Manuel"
 deck: "**Code.gov Better Know an Engineer: Rayvn Manuel**&mdash;We’re back with another installment of Better Know an Engineer. We are pleased to feature a friend of Code.gov and all-around amazing person, Rayvn Manuel; senior application developer and DevOps engineer at the Smithsonian Insitute&#39;s National Museum of African American History and Culture (NMAAHC)."

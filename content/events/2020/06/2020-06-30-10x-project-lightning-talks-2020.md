@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/06/10x-project-lightning-talks-2020
+# View this page at https://digital.gov/event/2020/06/30/10x-project-lightning-talks-2020/
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: 10x-project-lightning-talks-2020
 title: "10x Project Lightning Talks: 2020"

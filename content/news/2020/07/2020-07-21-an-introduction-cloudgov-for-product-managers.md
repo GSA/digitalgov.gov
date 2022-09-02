@@ -3,7 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: an-introduction-cloudgov-for-product-managers
 
-
 date: 2020-07-21 12:00:00 -0500
 title: "An Introduction to cloud.gov for Product Managers"
 deck: ""

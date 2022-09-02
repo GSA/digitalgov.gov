@@ -10,7 +10,6 @@ source_url: "https://digital.gov/resources/how-test-websites-for-accessibility/"
 source: digitalgov
 slug: how-test-websites-for-accessibility
 
-
 date: 2020-07-15 17:00:00 -0500
 kicker: "Accessibility"
 title: "How to Test Websites for Accessibility"

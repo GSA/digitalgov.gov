@@ -2,8 +2,6 @@
 # View this page at https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: experimenting-with-micropurchase-threshold
-
-
 date: 2020-04-24 09:30:00 -0500
 kicker: "Acquisition"
 title: "Experimenting with the Micro-Purchase Threshold"

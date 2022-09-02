@@ -10,7 +10,6 @@ source_url: "https://blog.usa.gov/giving-users-the-information-they-crave-data-a
 source: usagov
 slug: giving-users-information-they-crave-data
 
-
 date: 2020-07-08 9:00:00 -0500
 title: "Giving Users the Information They Crave: Data and Analytics Tips From USAGov en Espa&ntilde;ol"
 deck: "**Giving Users the Information They Crave: Data and Analytics Tips From USAGov en Espa&ntilde;ol**&mdash;User data guides what we do at USAGov. Without it, we wouldn’t know what government questions people are searching for. And we wouldn’t know how to design our content to make it easier for people to find and understand the answers."
