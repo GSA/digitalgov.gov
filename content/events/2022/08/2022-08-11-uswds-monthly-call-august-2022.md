@@ -29,7 +29,6 @@ primary_image: uswds-august-2022-monthly-call-title-card
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for August 2022" icon="fas fa-copy" >}}
 
-
 **Slide 1:**	Hi there and welcome to the U.S. Web Design System monthly call. For August 2022 — the dog days of summer — which we'll celebrate with some classic dog colors of browns and whites in the USWDS logo. I've been away from home recently, and I miss my dog. 
 
 **Slide 2:**	My name is Dan Williams, he/him, and I'm the USWDS product lead and this is my avatar, dark hair, casual office wear. Keen observers will notice that real me got a haircut, and a bit of sun over the last few weeks. How ’bout that? Thanks for being here!
@@ -59,7 +58,7 @@ All non-form buttons now include **type="button"** to prevent unintended and und
 
 We've also made a number of good non-breaking changes as well.
 
-Elements that use **aria-disabled** are now styled as **disabled**. aria-disabled can be a good option anytime you want to have a disabled element, but make it visible to screen readers (and perhaps provide a tooltip explaining why it's disabled…)
+Elements that use **aria-disabled** are now styled as **disabled**. aria-disabled can be a good option anytime you want to have a disabled element, but make it visible to screen readers (and perhaps provide a tooltip explaining why it's disabled).
 
 We've also fixed mobile menu appearance for layouts using flex or CSS grid.
 
