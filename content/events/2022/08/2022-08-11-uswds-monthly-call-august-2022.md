@@ -43,9 +43,9 @@ So thanks! And, with that, let's get started!
 
 **Slide 4:**	With site launches
 
-**Slide 5:**	Today we've got a new one from the Census Bureau, [bias.xd.gov] (https://bias.xd.gov), a toolkit to help teams in government understand and mitigate bias in their data and algorithms. The homepage shows shows a large field of blue, with text reading "Introducing the Bias Toolkit"
+**Slide 5:**	Today we've got a new one from the Census Bureau, [bias.xd.gov](https://bias.xd.gov), a toolkit to help teams in government understand and mitigate bias in their data and algorithms. The homepage shows shows a large field of blue, with text reading "Introducing the Bias Toolkit"
 
-**Slide 6:**	And we've also got [goodjobs.gov] (https://goodjobs.gov), from the Department of Labor — The Good Jobs Initiative, is focused on providing critical information to workers, employers, and government as they work to improve job quality and create access to good jobs free from discrimination and harassment for all working people. The goodjobs.gov homepage shows three images. Labor Secretary Marty Walsh talks with a member of the AFSCME union, and in front of a carpenters union. And two baristas look over a cash register. Text reads "The Good Jobs Initiative."
+**Slide 6:**	And we've also got [goodjobs.gov](https://goodjobs.gov), from the Department of Labor — The Good Jobs Initiative, is focused on providing critical information to workers, employers, and government as they work to improve job quality and create access to good jobs free from discrimination and harassment for all working people. The goodjobs.gov homepage shows three images. Labor Secretary Marty Walsh talks with a member of the AFSCME union, and in front of a carpenters union. And two baristas look over a cash register. Text reads "The Good Jobs Initiative."
 
 **Slide 7:**	Congratulations, and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
@@ -61,14 +61,14 @@ We've also made a number of good non-breaking changes as well.
 
 Elements that use **aria-disabled** are now styled as **disabled**. aria-disabled can be a good option anytime you want to have a disabled element, but make it visible to screen readers (and perhaps provide a tooltip explaining why it's disabled…)
 
-We've also fixed mobile menu appearance for layouts using flex or CSS grid
+We've also fixed mobile menu appearance for layouts using flex or CSS grid.
 
 **Slide 11:**	Unstyled buttons in a button group now have proper baseline alignment.
 We've added a LinkedIn icon.
 We've also updated our social media icons to remove custom circle outlines. So if you use USWDS social media icons, expect them to change a little bit. This change helps format our icons exactly as they're provided from social media companies.
 And lastly, this isn't a breaking change since we have backward compatible styling, but we've updated the markup of the usa-password component to use a **<button>** for the "Show password" functionality instead of an anchor.
 
-**Slide 12:**	And that's USWDS 3.1.0 — it's out now, and if you want more information about what's inside we're posting the [link to the full release notes] (https://github.com/uswds/uswds/releases/tag/v3.1.0) in the chat.
+**Slide 12:**	And that's USWDS 3.1.0 — it's out now, and if you want more information about what's inside we're posting the [link to the full release notes](https://github.com/uswds/uswds/releases/tag/v3.1.0) in the chat.
 
 **Slide 13:**	And now let's move on to introducing inclusive patterns. We've been working hard over the last few months to bring patterns and pattern guidance to the design system. And if you don't know what a pattern is, or what we're talking about when we talk about patterns, you're not alone and you've come to the right place, I hope.
 
@@ -83,7 +83,7 @@ Mitch: Hi, I'm Mitch Moccia, and I'm the front-end developer and engineer on the
 **Slide 16:**	Thanks Mitch! We'll hear a bit more from Meghan and Mitch a little later, but I'd like to start with an overview of what we'll discuss today.
 
 1. First, what are patterns and why are we including them in USWDS?
-2. Then we'll talk about how we developed our pattern guidance
+2. Then we'll talk about how we developed our pattern guidance.
 3. Then we'll talk about a few new or improved components we've developed to support these patterns.
 4. And finally, we'll talk a bit about what this means and what's next.
 This is only our first monthly call focussed on Patterns. This month we'll introduce the concept of patterns and what we did to build out this new content. Next month we'll look at the new patterns we've documented in depth.
@@ -94,7 +94,7 @@ This is only our first monthly call focussed on Patterns. This month we'll intro
 
 **Components** — the functional units of a website, things like buttons, form fields, alerts, and cards.
 
-And **Usability and Accessibility Guidance** — Advice on how to use these components in ways that users expect, and make site functionality easy to use on any device, or by users of any ability
+And **Usability and Accessibility Guidance** — Advice on how to use these components in ways that users expect, and make site functionality easy to use on any device, or by users of any ability.
 
 **Slide 18:**	In order to understand what a pattern is and how it fits into the design system. We might use a food metaphor and think not of the building blocks of a website, but the building blocks of a meal.
 
@@ -156,15 +156,11 @@ Successful patterns have a responsibility to be fair, equitable, respectful, and
 
 **Slide 45:**	Meghan: Dan, one example of using pattern guidance to reduce barriers to participation through every interaction is that of Puerto Rican addresses. Not too long ago the federal government made free home COVID tests available to the American public. There was never an intent to exclude Puerto Rico… But when the site was launched, the mailing address omitted the urbanization field, which is required for residents of Puerto Rico to receive mail. There simply wasn’t awareness of this need. The form was quickly fixed to include the Urbanization field, but including Urbanization as an optional field in an address pattern is just the kind of guidance and learning that can help other teams start from what their colleagues have learned, and make a real difference for the people that use our services.
 
-**Slide 46:**	Inclusive design patterns can help teams address a number of Executive Orders related to customer experience, access, and equity. There's not only the recent
-[Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government] (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and the 
-[Executive Order on Delivering Excellent, Equitable, and Secure Federal Services and Customer Experiences] (https://www.performance.gov/pma/cx/), and the 
-[Executive Order on Advancing Racial Equity and Support for Underserved Communities Through the Federal Government] (https://www.lep.gov/executive-order-13166), but also an older but still very relevant 
-[Executive Order on Improving Access to Services for Persons with Limited English Proficiency] (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
+**Slide 46:**	Inclusive design patterns can help teams address a number of Executive Orders related to customer experience, access, and equity. There's not only the recent [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government] (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and the [Executive Order on Delivering Excellent, Equitable, and Secure Federal Services and Customer Experiences](https://www.performance.gov/pma/cx/), and the [Executive Order on Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.lep.gov/executive-order-13166), but also an older but still very relevant [Executive Order on Improving Access to Services for Persons with Limited English Proficiency](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
 
 Delivering fair, equitable, respectful, and inclusive experiences isn't just the right thing to do, but works directly in service of these executive orders.
 
-**Slide 47:**	What we’ve learned through this project — and by being a part of the USWDS community — is that teams are interested in sharing what they know and learning what they can do better. And by sharing our expertise we can provide a better, more consistent customer experience  —  and help government teams spend less time on solved problems and more time on their mission and their specific audiences.
+**Slide 47:**	What we’ve learned through this project — and by being a part of the USWDS community — is that teams are interested in sharing what they know and learning what they can do better. And by sharing our expertise we can provide a better, more consistent customer experience — and help government teams spend less time on solved problems and more time on their mission and their specific audiences.
 
 **Slide 48:**	Dan: Thanks Meghan. So in adding pattern guidance to USWDS, we had the following six goals:
 
@@ -204,7 +200,7 @@ As a result of our research, discovery, and analysis, we were able to gain a mor
 
 **Slide 60:**	We interviewed more than 35 people from more than 20 agencies and programs, including;
 
-**Slide 61:**	Teams at 16 high impact service providers. We wanted to hear from HISPs, because they are generally the most high-touch agencies and programs for the public, and because that "touch" generally involves interactions.  We wanted to understand common interactions so our patterns could focus on inclusive experiences for those transactions.
+**Slide 61:**	Teams at 16 high impact service providers. We wanted to hear from HISPs, because they are generally the most high-touch agencies and programs for the public, and because that "touch" generally involves interactions. We wanted to understand common interactions so our patterns could focus on inclusive experiences for those transactions.
 
 **Slide 62:**	We spoke to people at Veterans Affairs, SSA, HHS, FEMA, the Department of the Interior, and the IRS, among others, and sometimes more than one group at a specific agency. And we focused on questions such as what patterns they've identified in their sites and services? How do they think about and incorporate equity and inclusion into their design decisions? We asked them about challenges and pain points, what patterns they would like USWDS to look into, and more.
 
@@ -240,7 +236,7 @@ Once we had all the quotes and insights for an interview on the board, we analyz
 
 **Slide 74:**	Later, when we had completed all the interviews, we created a crosswalk, where we integrated all the cards from all the interviews, and identified themes across all the interviews.  This is when the color coding is helpful, because you can easily see if there are particular areas of interest just to SMEs, or just to digital teams. From there it was pretty easy to pick out the overall themes, including areas of interest, pain points, and priority transactions for pattern development.
 
-Whew. So that gets us through interviews and synthesis, but throughout the pattern development process we were also doing a deep dive into the research around inclusive design -- first in a general sense of how it was being incorporated into digital design, and then on a pattern level. In many cases we were lucky to have existing federal government models, but in other cases we had to look to those who are still in the process of doing the work and advocating for inclusive perspectives. Regardless, we looked at all best practices around creating effective designs, including those that are just emerging, so we could incorporate them into the patterns.
+So that gets us through interviews and synthesis, but throughout the pattern development process we were also doing a deep dive into the research around inclusive design -- first in a general sense of how it was being incorporated into digital design, and then on a pattern level. In many cases we were lucky to have existing federal government models, but in other cases we had to look to those who are still in the process of doing the work and advocating for inclusive perspectives. Regardless, we looked at all best practices around creating effective designs, including those that are just emerging, so we could incorporate them into the patterns.
 
 After we used all this research to draft the patterns, we reached out again to stakeholders across the federal space to get the feedback on the patterns.
 
@@ -249,7 +245,7 @@ After we used all this research to draft the patterns, we reached out again to s
 - Complex forms
 - Language selection
 
-**Slide 76:**	And these are the patterns we're completing
+**Slide 76:**	And these are the patterns we're completing:
 - Provide a name
 - Provide a date of birth
 - Provide an address
@@ -291,7 +287,7 @@ For example, with the language selector component, I was able to draw from exper
 
 **Slide 83:**	Thanks for joining today’s USWDS monthly call. Next month, we'll be looking at Inclusive Patterns in depth. Please look out for an event feedback survey from Digitalgov. You'll get this in your email, and there's also a link in the chat. Your feedback makes a difference to us, so we'd appreciate the extra time it takes you to provide it.
 
-Thank you, and see you in September… or lose you to a summer love! Bye!
+Thank you, and see you in September or lose you to a summer love! Bye!
 
 {{< /accordion >}}
 
