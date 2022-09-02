@@ -254,21 +254,21 @@ After we used all this research to draft the patterns, we reached out again to s
 
 **Slide 76:** And these are the patterns we're completing:
 
-- Provide a name
-- Provide a date of birth
-- Provide an address
-- Provide an email address
-- Provide a phone number
-- Provide a biological sex or gender
-- Provide pronouns
-- Provide their race or ethnicity
-- Provide a social security number
-- Provide contact preferences
-- Understand expectations and build trust in complex forms
-- Help a user progress smoothly through complex forms
-- Keep a record of submitted information
-- Select a language for a site or service
-- Indicate a preferred spoken and/or written language for a site or service
+- Provide a name.
+- Provide a date of birth.
+- Provide an address.
+- Provide an email address.
+- Provide a phone number.
+- Provide a biological sex or gender.
+- Provide pronouns.
+- Provide their race or ethnicity.
+- Provide a social security number.
+- Provide contact preferences.
+- Understand expectations and build trust in complex forms.
+- Help a user progress smoothly through complex forms.
+- Keep a record of submitted information.
+- Select a language for a site or service.
+- Indicate a preferred spoken and/or written language for a site or service.
 
 **Slide 77:** Mitch: In support of these patterns, we decided to build some new components and features for the design system as well.
 
