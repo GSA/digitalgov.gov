@@ -162,7 +162,7 @@ Successful patterns have a responsibility to be fair, equitable, respectful, and
 
 **Slide 44:** Patterns have a responsibility to reduce barriers to participation through every interaction. And to help give more detail to what I'm talking about, I'd like to cede the floor to Meghan for a moment.
 
-**Slide 45:** Meghan: Dan, one example of using pattern guidance to reduce barriers to participation through every interaction is that of Puerto Rican addresses. Not too long ago the federal government made free home COVID tests available to the American public. There was never an intent to exclude Puerto Rico… But when the site was launched, the mailing address omitted the urbanization field, which is required for residents of Puerto Rico to receive mail. There simply wasn’t awareness of this need. The form was quickly fixed to include the Urbanization field, but including Urbanization as an optional field in an address pattern is just the kind of guidance and learning that can help other teams start from what their colleagues have learned, and make a real difference for the people that use our services.
+**Slide 45:** Meghan: Dan, one example of using pattern guidance to reduce barriers to participation through every interaction is that of Puerto Rican addresses. Not too long ago the federal government made free home COVID tests available to the American public. There was never an intent to exclude Puerto Rico, but when the site was launched, the mailing address omitted the urbanization field, which is required for residents of Puerto Rico to receive mail. There simply wasn’t awareness of this need. The form was quickly fixed to include the Urbanization field, but including Urbanization as an optional field in an address pattern is just the kind of guidance and learning that can help other teams start from what their colleagues have learned, and make a real difference for the people that use our services.
 
 **Slide 46:** Inclusive design patterns can help teams address a number of Executive Orders related to customer experience, access, and equity. There's not only the recent [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government] (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and the [Executive Order on Delivering Excellent, Equitable, and Secure Federal Services and Customer Experiences](https://www.performance.gov/pma/cx/), and the [Executive Order on Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.lep.gov/executive-order-13166), but also an older but still very relevant [Executive Order on Improving Access to Services for Persons with Limited English Proficiency](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
 
@@ -172,17 +172,17 @@ Delivering fair, equitable, respectful, and inclusive experiences isn't just the
 
 **Slide 48:** Dan: Thanks Meghan. So in adding pattern guidance to USWDS, we had the following six goals:
 
-**Slide 49:** 1. To identify common patterns shared by government sites and services
+**Slide 49:** 1. To identify common patterns shared by government sites and services.
 
-**Slide 50:** 2. To identify patterns that government design teams want to better understand
+**Slide 50:** 2. To identify patterns that government design teams want to better understand.
 
-**Slide 51:** 3. To identify subject matter experts effectively addressing these patterns
+**Slide 51:** 3. To identify subject matter experts effectively addressing these patterns.
 
-**Slide 52:** 4. To identify guidance specific to these patterns
+**Slide 52:** 4. To identify guidance specific to these patterns.
 
-**Slide 53:** 5. To ensure that any pattern guidance addresses diversity, equity, inclusion, and accessibility considerations specific to these patterns
+**Slide 53:** 5. To ensure that any pattern guidance addresses diversity, equity, inclusion, and accessibility considerations specific to these patterns.
 
-**Slide 54:** and 6. To identify new components and improvements to components that can support these patterns
+**Slide 54:** and 6. To identify new components and improvements to components that can support these patterns.
 
 **Slide 55:** So how did we do this? What did we do?
 
@@ -192,7 +192,7 @@ Delivering fair, equitable, respectful, and inclusive experiences isn't just the
 
 We wanted to identify which design systems included patterns at all, and how they approached them. What information did they include on a pattern guidance page?
 
-How were these organizations talking about patterns? What were their problem statements? Their Do’s and Don’ts?
+How were these organizations talking about patterns? What were their problem statements? Their Do's and Don'ts?
 
 We analyzed how these design systems described their patterns — their approach to guidance and their approach to addressing the problem statement of a pattern. How well did they describe how and why they recommend one solution over another?
 
@@ -250,9 +250,9 @@ After we used all this research to draft the patterns, we reached out again to s
 
 **Slide 75:** This process resulted in identifying the following pattern focus areas:
 
-- User profiles
-- Complex forms
-- Language selection
+- User profiles.
+- Complex forms.
+- Language selection.
 
 **Slide 76:** And these are the patterns we're completing:
 
@@ -274,12 +274,13 @@ After we used all this research to draft the patterns, we reached out again to s
 
 **Slide 77:** Mitch: In support of these patterns, we decided to build some new components and features for the design system as well.
 
-**Slide 78:**	In deciding what components we were going to develop, we looked at the existing guidance we had... We thought about what we were doing... And we looked for gaps, and asked ourselves, what are the opportunities for components to develop?
+**Slide 78:**	In deciding what components we were going to develop, we looked at the existing guidance we had. We thought about what we were doing. And we looked for gaps, and asked ourselves, what are the opportunities for components to develop?
+
 In the end, we ended up building:
 
 - An **In-page navigation7** component
 - **Input Masking** functionality for form inputs, and
-- a **Language Selector** component
+- a **Language Selector** component.
 
 What was great about this process was that we were able to develop new components and new functionality, based on real user needs we'd either documented in our pattern guidance, or discovered in the process of building out the pattern section of the USWDS website.
 
@@ -300,7 +301,6 @@ For example, with the language selector component, I was able to draw from exper
 **Slide 83:** Thanks for joining today’s USWDS monthly call. Next month, we'll be looking at Inclusive Patterns in depth. Please look out for an event feedback survey from Digitalgov. You'll get this in your email, and there's also a link in the chat. Your feedback makes a difference to us, so we'd appreciate the extra time it takes you to provide it.
 
 Thank you, and see you in September or lose you to a summer love! Bye!
-
 {{< /accordion >}}
 
 What are design patterns and how do they fit into the design system? Join us to learn more about USWDS Inclusive Design Patterns — upcoming guidance that will help connect components to common service interactions. We’ll preview this upcoming guidance and discuss the process we used to develop it.
