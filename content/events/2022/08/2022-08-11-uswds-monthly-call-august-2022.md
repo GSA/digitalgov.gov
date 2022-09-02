@@ -34,8 +34,8 @@ primary_image: uswds-august-2022-monthly-call-title-card
 
 **Slide 2:**	My name is Dan Williams, he/him, and I'm the USWDS product lead and this is my avatar, dark hair, casual office wear. Keen observers will notice that real me got a haircut, and a bit of sun over the last few weeks. How ’bout that? Thanks for being here!
 First, I'd like to mention that we're recording this monthly call, so please refrain from turning on your camera. We will manually turn off any cameras to ensure the recording doesn't show us on camera. Unfortunately, while we are recording this call, we currently aren't able to share the video publicly.
-I’d also like to remind you that all attendees must abide by the [TTS Code of Conduct] (https://handbook.tts.gsa.gov/code-of-conduct), which is available at handbook.tts.gsa.gov/code-of-conduct. We’ve posted the link to the code of conduct in the chat. 
-We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
+I’d also like to remind you that all attendees must abide by the [TTS Code of Conduct] (https://handbook.tts.gsa.gov/code-of-conduct), which is available at handbook.tts.gsa.gov/code-of-conduct. We’ve posted the link to the code of conduct in the chat.
+We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 So thanks! And, with that, let's get started!
 
@@ -43,7 +43,7 @@ So thanks! And, with that, let's get started!
 
 **Slide 4:**	With site launches
 
-**Slide 5:**	Today we've got a new one from the Census Bureau, [bias.xd.gov] (https://bias.xd.gov), a toolkit to help teams in government understand and mitigate bias in their data and algorithms. The homepage shows shows a large field of blue, with text reading "Introducing the Bias Toolkit" 
+**Slide 5:**	Today we've got a new one from the Census Bureau, [bias.xd.gov] (https://bias.xd.gov), a toolkit to help teams in government understand and mitigate bias in their data and algorithms. The homepage shows shows a large field of blue, with text reading "Introducing the Bias Toolkit"
 
 **Slide 6:**	And we've also got [goodjobs.gov] (https://goodjobs.gov), from the Department of Labor — The Good Jobs Initiative, is focused on providing critical information to workers, employers, and government as they work to improve job quality and create access to good jobs free from discrimination and harassment for all working people. The goodjobs.gov homepage shows three images. Labor Secretary Marty Walsh talks with a member of the AFSCME union, and in front of a carpenters union. And two baristas look over a cash register. Text reads "The Good Jobs Initiative."
 
@@ -55,7 +55,7 @@ So thanks! And, with that, let's get started!
 
 **Slide 10:**	So what’s new in USWDS 3.1.0?
 
-All non-form buttons now include **type="button"** to prevent unintended and undesired behavior. We've been preventing the default button behavior (which is **"submit"**) with JavaScript, but we feel it's more reliable to explicitly declare **type="button"** on all non-submit buttons. So when you bring in USWDS 3.1.0, look for any buttons that do not declare a type, and give them **type="button"**. 
+All non-form buttons now include **type="button"** to prevent unintended and undesired behavior. We've been preventing the default button behavior (which is **"submit"**) with JavaScript, but we feel it's more reliable to explicitly declare **type="button"** on all non-submit buttons. So when you bring in USWDS 3.1.0, look for any buttons that do not declare a type, and give them **type="button"**.
 
 We've also made a number of good non-breaking changes as well.
 
@@ -66,7 +66,7 @@ We've also fixed mobile menu appearance for layouts using flex or CSS grid
 **Slide 11:**	Unstyled buttons in a button group now have proper baseline alignment.
 We've added a LinkedIn icon.
 We've also updated our social media icons to remove custom circle outlines. So if you use USWDS social media icons, expect them to change a little bit. This change helps format our icons exactly as they're provided from social media companies.
-And lastly, this isn't a breaking change since we have backward compatible styling, but we've updated the markup of the usa-password component to use a **<button>** for the "Show password" functionality instead of an anchor. 
+And lastly, this isn't a breaking change since we have backward compatible styling, but we've updated the markup of the usa-password component to use a **<button>** for the "Show password" functionality instead of an anchor.
 
 **Slide 12:**	And that's USWDS 3.1.0 — it's out now, and if you want more information about what's inside we're posting the [link to the full release notes] (https://github.com/uswds/uswds/releases/tag/v3.1.0) in the chat.
 
@@ -80,15 +80,15 @@ Meghan: Hi, I'm Meghan O'Meara, and I'm the content strategist on the inclusive 
 
 Mitch: Hi, I'm Mitch Moccia, and I'm the front-end developer and engineer on the inclusive design patterns project. My pronouns are he and him and I wear dark glasses and have short brown hair and brown eyes!
 
-**Slide 16:**	Thanks Mitch! We'll hear a bit more from Meghan and Mitch a little later, but I'd like to start with an overview of what we'll discuss today. 
+**Slide 16:**	Thanks Mitch! We'll hear a bit more from Meghan and Mitch a little later, but I'd like to start with an overview of what we'll discuss today.
 
 1. First, what are patterns and why are we including them in USWDS?
 2. Then we'll talk about how we developed our pattern guidance
-3. Then we'll talk about a few new or improved components we've developed to support these patterns…
+3. Then we'll talk about a few new or improved components we've developed to support these patterns.
 4. And finally, we'll talk a bit about what this means and what's next.
 This is only our first monthly call focussed on Patterns. This month we'll introduce the concept of patterns and what we did to build out this new content. Next month we'll look at the new patterns we've documented in depth.
 
-**Slide 17:**	So let's get going, and talk about what USWDS provides today: What we might call the building blocks of websites. 
+**Slide 17:**	So let's get going, and talk about what USWDS provides today: What we might call the building blocks of websites.
 
 **Design tokens** — elements of style like color, typography, and spacing.
 
@@ -104,7 +104,7 @@ And **Usability and Accessibility Guidance** — Advice on how to use these comp
 
 **Slide 21:**	Usability and accessibility guidance are like techniques: how do you use a specific ingredient. This illustration shows an onion, and different ways to cut it up. Techniques might also include safe ways to use a knife, how to cut an onion without irritating your eyes, and any potential allergies related to onions. Usability and accessibility guidance affects how you work with specific ingredients.
 
-**Slide 22:**	But you might notice that in the preparation of a meal, the items we've just discussed are missing something important. They're teaching us about flavors, helping us collect ingredients, and guiding us through working with our ingredients, but you don't always make a meal just by going to the grocery store. And a design system is more than a store, it's the story of how we do design work. And just like a website or service is more than generic buttons and form fields, meals are not typically just a collection of chopped up vegetables, and a pile of raw ingredients. 
+**Slide 22:**	But you might notice that in the preparation of a meal, the items we've just discussed are missing something important. They're teaching us about flavors, helping us collect ingredients, and guiding us through working with our ingredients, but you don't always make a meal just by going to the grocery store. And a design system is more than a store, it's the story of how we do design work. And just like a website or service is more than generic buttons and form fields, meals are not typically just a collection of chopped up vegetables, and a pile of raw ingredients.
 
 **Slide 23:**	They need Recipes. You don't always get repipes at the grocery store, but you do often need them to make a meal. And if you don't need them now, you surely used them — by book or by experience — as you learned how to cook.
 
@@ -136,7 +136,7 @@ And **Usability and Accessibility Guidance** — Advice on how to use these comp
 
 **Slide 37:**	So tokens build components. Components are built from tokens.
 
-**Slide 38:**	But components alone don't build websites and services…
+**Slide 38:**	But components alone don't build websites and services.
 
 **Slide 39:**	Components and content are what address a pattern.
 
@@ -146,7 +146,7 @@ And **Usability and Accessibility Guidance** — Advice on how to use these comp
 
 **Slide 42:**	Patterns and pattern guidance have the opportunity to describe important user needs, and to give any designer a head start to understanding their own specific audience and how to solve for that user need. Cos this is what it's all about for us: The USWDS vision: Government teams sharing solutions and practicing effective human-centered design. USWDS has never been intended to replace designers or developers, but to give them the tools to do their job more effectively, to provide important context, and provide well-researched solutions (often shared by other government designers and developers!) that help any government designer and developer start their process further down the path.
 
-**Slide 43:**	Patterns help us push vision and the USWDS mission of making it easier to build accessible, mobile-friendly government websites even further. It can be easier to talk about the accessibility of a form field than about whether a form field is fair and equitable. And that's because a form field — on its own, in the abstract — is not much of an experience. It's only in the context of a pattern.… when a user is trying to actually do something.… that a form field has the responsibility to be part of a fair and equitable experience. 
+**Slide 43:**	Patterns help us push vision and the USWDS mission of making it easier to build accessible, mobile-friendly government websites even further. It can be easier to talk about the accessibility of a form field than about whether a form field is fair and equitable. And that's because a form field — on its own, in the abstract — is not much of an experience. It's only in the context of a pattern.… when a user is trying to actually do something.… that a form field has the responsibility to be part of a fair and equitable experience.
 
 When we talk about patterns we have that responsibility to consider what it means to be fair and equitable.
 
@@ -156,8 +156,7 @@ Successful patterns have a responsibility to be fair, equitable, respectful, and
 
 **Slide 45:**	Meghan: Dan, one example of using pattern guidance to reduce barriers to participation through every interaction is that of Puerto Rican addresses. Not too long ago the federal government made free home COVID tests available to the American public. There was never an intent to exclude Puerto Rico… But when the site was launched, the mailing address omitted the urbanization field, which is required for residents of Puerto Rico to receive mail. There simply wasn’t awareness of this need. The form was quickly fixed to include the Urbanization field, but including Urbanization as an optional field in an address pattern is just the kind of guidance and learning that can help other teams start from what their colleagues have learned, and make a real difference for the people that use our services.
 
-**Slide 46:**	Inclusive design patterns can help teams address a number of Executive Orders related to customer experience, access, and equity. There's not only the recent 
-
+**Slide 46:**	Inclusive design patterns can help teams address a number of Executive Orders related to customer experience, access, and equity. There's not only the recent
 [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government] (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and the 
 [Executive Order on Delivering Excellent, Equitable, and Secure Federal Services and Customer Experiences] (https://www.performance.gov/pma/cx/), and the 
 [Executive Order on Advancing Racial Equity and Support for Underserved Communities Through the Federal Government] (https://www.lep.gov/executive-order-13166), but also an older but still very relevant 
@@ -183,7 +182,7 @@ Delivering fair, equitable, respectful, and inclusive experiences isn't just the
 
 **Slide 55:**	So how did we do this? What did we do?
 
-**Slide 56:**	Mitch: We started with benchmarking and landscape analysis. In our benchmarking and landscape analysis we spent a lot of time looking at design system sites and sites that were about design systems. 
+**Slide 56:**	Mitch: We started with benchmarking and landscape analysis. In our benchmarking and landscape analysis we spent a lot of time looking at design system sites and sites that were about design systems.
 
 **Slide 57:**	We looked at US government design systems, international government design systems, and private sector design systems. And we worked to make sense of the commonalities we found.
 
@@ -203,7 +202,7 @@ As a result of our research, discovery, and analysis, we were able to gain a mor
 
 **Slide 59:**	Initially we thought we were going to hold a couple of huge meet-ups with experts across the federal government, but we quickly realized that we wouldn't be able to dive in as deeply as we needed to with any specific team or on any topic, so we switched to interviews. We reached out across the federal government to identify people and teams that had the expertise we needed, and conducted interviews with individuals and teams.
 
-**Slide 60:**	We interviewed more than 35 people from more than 20 agencies and programs, including…
+**Slide 60:**	We interviewed more than 35 people from more than 20 agencies and programs, including;
 
 **Slide 61:**	Teams at 16 high impact service providers. We wanted to hear from HISPs, because they are generally the most high-touch agencies and programs for the public, and because that "touch" generally involves interactions.  We wanted to understand common interactions so our patterns could focus on inclusive experiences for those transactions.
 
@@ -225,19 +224,19 @@ As a result of our research, discovery, and analysis, we were able to gain a mor
 
 **Slide 70:**	One design team member said: “People are reluctant to give information because of the lack of trust and any number of concerns. [We need help] building trust into the design process.”
 
-**Slide 71:**	We heard that many programs are wrestling with making their content available in multiple languages. 
+**Slide 71:**	We heard that many programs are wrestling with making their content available in multiple languages.
 
 **Slide 72:**	A design team member said “[We’re] struggling with multilingual [content] and accommodating the proper presentation.”
 
-**Slide 73:**	So, let me take a minute to talk about the synthesis and pattern identification process. 
+**Slide 73:**	So, let me take a minute to talk about the synthesis and pattern identification process.
 
-All the interviews were pseudonymized; we do this so that each interviewee can feel comfortable to speak candidly. 
+All the interviews were pseudonymized; we do this so that each interviewee can feel comfortable to speak candidly.
 
-We had note takers and they prepared detailed notes for each interview. We took the notes from each interview, and pulled out quotes and insights, and created cards for them on a Mural board. 
+We had note takers and they prepared detailed notes for each interview. We took the notes from each interview, and pulled out quotes and insights, and created cards for them on a Mural board.
 
 Cards were color coded by role.
 
-Once we had all the quotes and insights for an interview on the board, we analyzed each interview for its major themes. 
+Once we had all the quotes and insights for an interview on the board, we analyzed each interview for its major themes.
 
 **Slide 74:**	Later, when we had completed all the interviews, we created a crosswalk, where we integrated all the cards from all the interviews, and identified themes across all the interviews.  This is when the color coding is helpful, because you can easily see if there are particular areas of interest just to SMEs, or just to digital teams. From there it was pretty easy to pick out the overall themes, including areas of interest, pain points, and priority transactions for pattern development.
 
@@ -282,9 +281,9 @@ And as we built these components, we were able to draw not only from the deep ex
 And this part is what I was most excited about — getting into some actual coding — but really coding with accessibility and inclusivity in mind, and thinking to myself what's going to make my next line of code produce a better, more effective, more inclusive experience? How is each decision really serving a critical user need?
 For example, with the language selector component, I was able to draw from expertly-written pattern guidance for direction which, as a developer, really accelerated my efforts while informing my design and development decisions with an inclusive lens.
 
-**Slide 79:**	We’ve covered a lot of ground in this presentation. But there's just one more important thing to say. As Mitch mentioned, patterns help drive development on a few key components. And we think that this is just the beginning. In fact, we see patterns as driving component development moving forward. Patterns are the horse, and components are the cart. We develop components to support interactions. And I think this is an important human-centered shift to how we'll approach development, how we'll choose components, and how we'll approach modularity and interaction between components. 
+**Slide 79:**	We’ve covered a lot of ground in this presentation. But there's just one more important thing to say. As Mitch mentioned, patterns help drive development on a few key components. And we think that this is just the beginning. In fact, we see patterns as driving component development moving forward. Patterns are the horse, and components are the cart. We develop components to support interactions. And I think this is an important human-centered shift to how we'll approach development, how we'll choose components, and how we'll approach modularity and interaction between components.
 
-**Slide 80:**	So next month we'll continue the theme, and go in-depth into our new patterns section.  
+**Slide 80:**	So next month we'll continue the theme, and go in-depth into our new patterns section.
 
 **Slide 81:**	Meghan: I really want to thank the people who were so generous with their time and expertise and shared with us how they were thinking about inclusivity and design, provided us with patterns or guidance as a starting point, provided thoughtful feedback, and challenged us to think critically about what we were doing. This couldn't have happened without you, and we are so grateful for your contribution.
 
