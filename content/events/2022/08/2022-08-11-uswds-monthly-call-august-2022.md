@@ -44,9 +44,9 @@ So thanks! And, with that, let's get started!
 
 **Slide 4:** With site launches
 
-**Slide 5:** Today we've got a new one from the Census Bureau, [bias.xd.gov](https://bias.xd.gov), a toolkit to help teams in government understand and mitigate bias in their data and algorithms. The homepage shows shows a large field of blue, with text reading &#34;Introducing the Bias Toolkit.&#34;
+**Slide 5:** Today we've got a new one from the Census Bureau, [bias.xd.gov](https://bias.xd.gov), a toolkit to help teams in government understand and mitigate bias in their data and algorithms. The homepage shows shows a large field of blue, with text reading "Introducing the Bias Toolkit."
 
-**Slide 6:** And we've also got [goodjobs.gov](https://goodjobs.gov), from the Department of Labor — The Good Jobs Initiative, is focused on providing critical information to workers, employers, and government as they work to improve job quality and create access to good jobs free from discrimination and harassment for all working people. The goodjobs.gov homepage shows three images. Labor Secretary Marty Walsh talks with a member of the AFSCME union, and in front of a carpenters union. And two baristas look over a cash register. Text reads &#34;The Good Jobs Initiative.&#34;
+**Slide 6:** And we've also got [goodjobs.gov](https://goodjobs.gov), from the Department of Labor — The Good Jobs Initiative, is focused on providing critical information to workers, employers, and government as they work to improve job quality and create access to good jobs free from discrimination and harassment for all working people. The goodjobs.gov homepage shows three images. Labor Secretary Marty Walsh talks with a member of the AFSCME union, and in front of a carpenters union. And two baristas look over a cash register. Text reads "The Good Jobs Initiative."
 
 **Slide 7:** Congratulations, and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
@@ -56,11 +56,11 @@ So thanks! And, with that, let's get started!
 
 **Slide 10:**	So what’s new in USWDS 3.1.0?
 
-All non-form buttons now include `type=&#34;buttonv` to prevent unintended and undesired behavior. We've been preventing the default button behavior (which is `&#34;submit&#34;`) with JavaScript, but we feel it's more reliable to explicitly declare `type=&#34;button&#34;` on all non-submit buttons. So when you bring in USWDS 3.1.0, look for any buttons that do not declare a type, and give them `type=&#34;button&#34;`.
+All non-form buttons now include `type="button"` to prevent unintended and undesired behavior. We've been preventing the default button behavior (which is `"submit"`) with JavaScript, but we feel it's more reliable to explicitly declare `type="button"` on all non-submit buttons. So when you bring in USWDS 3.1.0, look for any buttons that do not declare a type, and give them `type="button"`.
 
 We've also made a number of good non-breaking changes as well.
 
-Elements that use `aria-disabled` are now styled as `disabled`. aria-disabled can be a good option anytime you want to have a disabled element, but make it visible to screen readers (and perhaps provide a tooltip explaining why it's disabled).
+Elements that use `aria-disabled` are now styled as `disabled`. `aria-disabled` can be a good option anytime you want to have a disabled element, but make it visible to screen readers (and perhaps provide a tooltip explaining why it's disabled).
 
 We've also fixed mobile menu appearance for layouts using flex or CSS grid.
 
@@ -70,7 +70,7 @@ We've added a LinkedIn icon.
 
 We've also updated our social media icons to remove custom circle outlines. So if you use USWDS social media icons, expect them to change a little bit. This change helps format our icons exactly as they're provided from social media companies.
 
-And lastly, this isn't a breaking change since we have backward compatible styling, but we've updated the markup of the usa-password component to use a `&#60;button&#62;` for the &#34;Show password&#34; functionality instead of an anchor.
+And lastly, this isn't a breaking change since we have backward compatible styling, but we've updated the markup of the usa-password component to use a `<button>` for the "Show password" functionality instead of an anchor.
 
 **Slide 12:** And that's USWDS 3.1.0 — it's out now, and if you want more information about what's inside we're posting the [link to the full release notes](https://github.com/uswds/uswds/releases/tag/v3.1.0) in the chat.
 
@@ -115,11 +115,11 @@ And **Usability and Accessibility Guidance** — Advice on how to use these comp
 
 **Slide 24:** In our metaphor recipes are patterns. It's a little bit of a weird word, particularly if you aren't familiar with how it's used in the context of experience design. But pattern is a word coined by an architect named Christopher Alexander back in the 1970s to describe people's patterns of behavior when they live in their homes. What are the kinds of things that people do again and again in their homes (or expect again and again from their homes) and how might homes be built to support these needs — needs that often go beyond the prosaic needs of shelter and sanitation, but emotional needs: what can a home do to make you feel at home. In an important way, Alexander reintroduced human-centered design into the design practice of architecture, and the concepts he developed are just as relevant and practical to any designed experience.
 
-**Slide 25:** At USWDS, we think of patterns as &#34;things users do again and again on our sites and services.&#34;
+**Slide 25:** At USWDS, we think of patterns as "things users do again and again on our sites and services."
 
 **Slide 26:** A good way to think about a pattern is as a common interaction. When we say pattern, a reasonable synonym is interaction.
 
-**Slide 27:** But this can seem a little abstract, so we've chosen a specific rubric for how to think of a pattern. A pattern completes the sentence, &#34;Help a user to (blank).&#34; And if you're thinking that this sounds a lot like a user story, it sure does. Patterns and user stories have significant conceptual overlap. Let me give some examples of how we're thinking of patterns.
+**Slide 27:** But this can seem a little abstract, so we've chosen a specific rubric for how to think of a pattern. A pattern completes the sentence, "Help a user to (blank)." And if you're thinking that this sounds a lot like a user story, it sure does. Patterns and user stories have significant conceptual overlap. Let me give some examples of how we're thinking of patterns.
 
 **Slide 28:** Help a user to enter their name.
 
@@ -147,7 +147,7 @@ And **Usability and Accessibility Guidance** — Advice on how to use these comp
 
 **Slide 40:** And patterns are what our websites and services are really built from. Websites and services are made of patterns large and small. So we should begin to address them.
 
-**Slide 41:** You might be asking yourself, &#34;Where do templates fit into all of this?&#34; Templates and patterns are very similar. But a pattern is a description of a user need, and a set of constraints and conditions that describe how it can be addressed. A template is a specific solution to a pattern. The pattern describes the problem and the conditions for its effective solution. A template is a single solution to a pattern. USWDS will continue to build and develop templates in service of patterns.
+**Slide 41:** You might be asking yourself, "Where do templates fit into all of this?" Templates and patterns are very similar. But a pattern is a description of a user need, and a set of constraints and conditions that describe how it can be addressed. A template is a specific solution to a pattern. The pattern describes the problem and the conditions for its effective solution. A template is a single solution to a pattern. USWDS will continue to build and develop templates in service of patterns.
 
 **Slide 42:** Patterns and pattern guidance have the opportunity to describe important user needs, and to give any designer a head start to understanding their own specific audience and how to solve for that user need. Cos this is what it's all about for us: The USWDS vision: Government teams sharing solutions and practicing effective human-centered design. USWDS has never been intended to replace designers or developers, but to give them the tools to do their job more effectively, to provide important context, and provide well-researched solutions (often shared by other government designers and developers!) that help any government designer and developer start their process further down the path.
 
@@ -205,7 +205,7 @@ As a result of our research, discovery, and analysis, we were able to gain a mor
 
 **Slide 60:** We interviewed more than 35 people from more than 20 agencies and programs, including;
 
-**Slide 61:** Teams at 16 high impact service providers. We wanted to hear from HISPs, because they are generally the most high-touch agencies and programs for the public, and because that &#34;touch&#34; generally involves interactions. We wanted to understand common interactions so our patterns could focus on inclusive experiences for those transactions.
+**Slide 61:** Teams at 16 high impact service providers. We wanted to hear from HISPs, because they are generally the most high-touch agencies and programs for the public, and because that "touch" generally involves interactions. We wanted to understand common interactions so our patterns could focus on inclusive experiences for those transactions.
 
 **Slide 62:** We spoke to people at Veterans Affairs, SSA, HHS, FEMA, the Department of the Interior, and the IRS, among others, and sometimes more than one group at a specific agency. And we focused on questions such as what patterns they've identified in their sites and services? How do they think about and incorporate equity and inclusion into their design decisions? We asked them about challenges and pain points, what patterns they would like USWDS to look into, and more.
 
@@ -223,7 +223,7 @@ As a result of our research, discovery, and analysis, we were able to gain a mor
 
 **Slide 69:** We heard from HISPs that complex forms are a real challenge for users. They can be frustrating and alienating, especially during times of stress, such as when someone’s been in a disaster, or when they have to file a report about something that’s happened to them. Interviewees asked for guidance around how we can help the public -- especially those in trauma -- to have a better experience with forms.
 
-**Slide 70:** One design team member said: &#34;People are reluctant to give information because of the lack of trust and any number of concerns. &#91;We need help&#93; building trust into the design process.&#34;
+**Slide 70:** One design team member said: "People are reluctant to give information because of the lack of trust and any number of concerns. &#91;We need help&#93; building trust into the design process."
 
 **Slide 71:** We heard that many programs are wrestling with making their content available in multiple languages.
 
