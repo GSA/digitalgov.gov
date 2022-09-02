@@ -3,8 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: whos-on-your-digital-dream-team
 
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xwYuQ
 date: 2020-05-27 23:00:00 -0500
 kicker: "This Week’s IDEA"
 title: "Who's on Your Digital Dream Team?"

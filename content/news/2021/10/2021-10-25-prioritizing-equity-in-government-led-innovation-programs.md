@@ -22,7 +22,7 @@ weight: 1
 
 ---
 
-The [Census Open Innovation Labs](http://go.usa.gov/xFRhY) (COIL) team is supporting the next generation of technologists and visual designers, as they build hands-on skills and address some of our nation’s most pressing challenges through [The Opportunity Project](https://go.usa.gov/x7m4Y) (TOP). This is the second consecutive year that COIL is collaborating with college and university students in a [10-week technology development sprint](https://opportunity.census.gov/sprints/2020-census-data/#2020-data). Now, art and design students have joined this effort as well.
+The [Census Open Innovation Labs](https://coil.census.gov/) (COIL) team is supporting the next generation of technologists and visual designers, as they build hands-on skills and address some of our nation’s most pressing challenges through [The Opportunity Project](https://opportunity.census.gov/) (TOP). This is the second consecutive year that COIL is collaborating with college and university students in a [10-week technology development sprint](https://opportunity.census.gov/sprints/2020-census-data/#2020-data). Now, art and design students have joined this effort as well.
 
 These artists, designers, and technologists will offer a new voice and perspective to [2020 Census data](https://opportunity.census.gov/sprints/2020-census-data/#2020-data) by developing new and creative ways to engage and support representation of the hardest-to-count communities in the U.S such as non-English speakers, Native Americans, college and university students, children under five, and racial and ethnic minorities. As a refresher, the decennial Census is constitutionally mandated to count every person residing in the United States every ten years-- those that the U.S. Census Bureau considers hard-to-count (HTC) are populations of residents that either willingly or unwillingly do not fill out the decennial census.
 
@@ -34,7 +34,7 @@ The  sprint aligns with the recent [Executive Order 13985, Advancing Racial Equ
 2. Assisting Businesses, Community Leaders, and State and Local Governments to Make Critical Decisions Using Decennial Census Data
 3. Improving Data Literacy Using Decennial Census Data
 
-Learn more about the [problem statements](http://go.usa.gov/xF5gU).
+Learn more about the [problem statements](https://opportunity.census.gov/sprints/2020-census-data/#2020-data).
 
 ## Why Include Artists?
 
@@ -42,7 +42,7 @@ This is the first time artists and designers are joining The Opportunity Project
 
 However, this is not the first time the U.S. Census Bureau has engaged art to  promote inclusion and accessibility. To increase participation in the 2020 Census, the [Census Accelerate Program](https://accelerate.census.gov/), through it’s [Creatives for the Count initiative](https://creativesforthecount.org/), activated designers and artists across the nation from 2018 to 2020 to engage hard-to-count communities in producing compelling and shareable digital [content](https://accelerate.census.gov/showcase/). With the inclusion of art as a medium, these teams have the power to engage individuals and families from any community in the nation, not just those with tech access and high literacy.
 
-At its core, the [TOP model](http://go.usa.gov/xHfBQ) was designed with inclusion in mind. TOP uses free, federal data that is accessible to everyone, requires diverse voices to be heard during the design process, and focuses product development. TOP exists to help every American use, and benefit from, public data.
+At its core, the [TOP model](https://opportunity.census.gov/our-process/#top) was designed with inclusion in mind. TOP uses free, federal data that is accessible to everyone, requires diverse voices to be heard during the design process, and focuses product development. TOP exists to help every American use, and benefit from, public data.
 
 ## Ensuring Minority-Serving Institutions Have a Seat at the Table
 
@@ -54,4 +54,4 @@ With all the voices at the table producing more diverse content with census data
 
 ## Get Involved
 
-This work will be showcased in an end-of year event, so [sign up for emails](https://public.govdelivery.com/accounts/USCENSUS/signup/16610) to stay in the loop and get updates about [The Opportunity Project](https://go.usa.gov/x7m4Y).
+This work will be showcased in an end-of year event, so [sign up for emails](https://public.govdelivery.com/accounts/USCENSUS/signup/16610) to stay in the loop and get updates about [The Opportunity Project](https://opportunity.census.gov/).

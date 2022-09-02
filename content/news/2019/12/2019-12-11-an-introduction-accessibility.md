@@ -1,6 +1,5 @@
 ---
 slug: an-introduction-accessibility
-short_url: https://go.usa.gov/xpvCj
 date: 2019-12-11 09:11:00 -0500
 kicker: "This Week's IDEA"
 title: "An Introduction to Accessibility"

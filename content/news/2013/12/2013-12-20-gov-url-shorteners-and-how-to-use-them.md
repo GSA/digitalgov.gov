@@ -46,7 +46,7 @@ When creating Go.USA.gov, we assumed most users would be clicking short URLs, no
 
 ## Accessibility of Short URLs
 
-Short URLs can actually be beneficial for people using assistive technologies because it shortens the reading time and the cognitive load that longer URLs can create. Imagine listening to<a href="http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml">http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml</a> being read aloud versus<a href="http://go.usa.gov/WhzY">http://go.usa.gov/WhzY</a>.
+Short URLs can actually be beneficial for people using assistive technologies because it shortens the reading time and the cognitive load that longer URLs can create. Imagine listening to <a href="http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml">http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml</a> being read aloud versus <a href="http://go.usa.gov/WhzY">http://go.usa.gov/WhzY</a>.
 
 With that in mind, you should avoid using the short URL as the link title, such as “<a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" >}}">Click here</a>” (It’s never a good idea to use “click here,” but that’s a story for another day.) It’s ok to use a short URL as the link when you use actual words as the link title, such as “Learn more about <a title="USA.gov Short URLs" href="{{< ref "service_usagov-short-urls.md" >}}">short URLs</a>.”
 
@@ -58,4 +58,4 @@ URL shorteners that use 301 “permanent” redirects do not have negative effec
 
 Commercial search engines treat short URLs with 301 redirects just like any other link. The short URL’s destination page will receive the social promotion bump and other SEO data (such as anchor text and position on the page) will be passed on too.
 
-This video explains <a href="http://www.youtube.com/watch?v=QMkltd6dZzU">how Google treats short URLs</a>. For more on 301 redirects, read these tips from <a href="http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2011/10/06/managing-redirects-301s-302s-and-canonicals.aspx">Bing</a> and from <a href="https://support.google.com/webmasters/answer/93633">Google</a>.
+This video explains <a href="http://www.youtube.com/watch?v=QMkltd6dZzU">how Google treats short URLs</a>. For more on 301 redirects, read these tips from <a href="https://blogs.bing.com/webmaster/2011/10/06/managing-redirects-301s-302s-and-canonicals/">Bing</a> and from <a href="https://support.google.com/webmasters/answer/93633">Google</a>.

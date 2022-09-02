@@ -2,9 +2,6 @@
 # View this page at https://digital.gov/2020/01/30/adopting-uswds-one-step-at-time
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: adopting-uswds-one-step-at-time
-
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xdjTe
 date: 2020-01-30 19:00:00 -0500
 kicker: "This Week's IDEA"
 title: "Adopting the USWDS, One Step at a Time"

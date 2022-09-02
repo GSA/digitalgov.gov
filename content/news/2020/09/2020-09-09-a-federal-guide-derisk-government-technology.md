@@ -10,8 +10,6 @@ source_url: "https://18f.gsa.gov/2020/09/09/a-federal-guide-to-de-risk-governmen
 source: 18f
 slug: a-federal-guide-derisk-government-technology
 
-# Short URL — https://go.usa.gov/
-short_url: 
 date: 2020-09-09 9:00:00 -0500
 kicker: "Best Practices"
 title: "A Federal Guide to De-risk Government Technology Projects"

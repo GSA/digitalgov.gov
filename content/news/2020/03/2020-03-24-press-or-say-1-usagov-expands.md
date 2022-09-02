@@ -10,8 +10,6 @@ source_url: "https://blog.usa.gov/press-or-say-1-usagov-expands-its-use-of-inter
 source: usagov
 slug: press-or-say-1-usagov-expands
 
-# Short URL — https://go.usa.gov/
-short_url:
 date: 2020-03-24 18:00:00 -0500
 kicker: "Contact Centers"
 title: "Press or Say 1: USAGov Expands Its Use of Interactive Voice Response"

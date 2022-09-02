@@ -10,8 +10,6 @@ source_url: "https://18f.gsa.gov/2020/04/09/18f-help-during-critical-times/"
 source: 18f
 slug: 18f-here-help-during-critical-times
 
-# Short URL — https://go.usa.gov/
-short_url:
 date: 2020-04-09 19:00:00 -0500
 kicker: "18F"
 title: "18F Is Here to Help During Critical Times"

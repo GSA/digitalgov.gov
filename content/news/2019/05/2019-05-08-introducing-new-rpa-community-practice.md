@@ -1,6 +1,5 @@
 ---
 slug: introducing-new-rpa-community-practice
-short_url: https://go.usa.gov/xmvGk
 kicker: New Community
 date: 2019-05-08 17:48:00 -0500
 title: 'Introducing the New Robotic Process Automation Community of Practice'

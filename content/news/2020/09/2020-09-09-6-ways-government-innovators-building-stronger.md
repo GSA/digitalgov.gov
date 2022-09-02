@@ -3,8 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: 6-ways-government-innovators-building-stronger
 
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xGBaz
 date: 2020-09-09 10:00:00 -0500
 kicker: "Customer Experience"
 title: "6 Ways Government Innovators Are Building Stronger Public Services"

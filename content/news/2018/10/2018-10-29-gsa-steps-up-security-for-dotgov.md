@@ -1,6 +1,5 @@
 ---
 slug: gsa-steps-up-security-for-dotgov
-short_url: https://go.usa.gov/xPfzD
 date: 2018-10-29 15:00:00 -0500
 title: 'GSA Steps Up Security for .gov'
 summary: 'Read how GSA’s DotGov Program is modernizing the security of &#46;gov to make government websites and systems more secure&#46;'

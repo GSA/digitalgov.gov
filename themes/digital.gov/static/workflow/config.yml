@@ -495,11 +495,6 @@ collections:
         displayFields: ["name"]
         required: false
         options_length: 1000
-      - label: "Short URL"
-        name: "short_url"
-        widget: "string"
-        hint: "Create a short URL: https://go.usa.gov/."
-        required: false
       - label: "Date"
         name: "date"
         widget: "datetime"
