@@ -16,8 +16,7 @@ topics:
   - policy
 
 featured_image:
-  uid: pra-guide-launch
-  alt: ''
+primary_image: "pra-guide-launch"
 
 ---
 
@@ -57,5 +56,5 @@ The PRA Guide is the result of [Phase 3](https://10x.gsa.gov/the-10x-process/) o
 
 Work doesn’t stop now that the PRA Guide is released. OIRA and Digital.gov are committed to addressing the challenges [uncovered by the user research](https://github.com/GSA/digitalgov-pra/wiki/Summary) so far, and continuing this research.
 
-What we need most from you right now, though, is feedback! Does the PRA Guide answer your questions? Is something missing or still unclear? You can give feedback in [our open code repository on GitHub](https://github.com/GSA/digitalgov-pra), or send directly to [PRA@OMB.EOP.GOV](mailto:%70%72%61@%6F%6D%62.%65%6F%70.%67%6F%76
-?subject=PRA%20Website:%20Site%20Feedback&body=Please%20fill%20out%20the%20information%20below%0A%0A%0AWhat%20were%20you%20trying%20to%20do?%0A%0A%0AGeneral%20Comments).
+What we need most from you right now, though, is feedback! Does the PRA Guide answer your questions? Is something missing or still unclear? You can give feedback in [our open code repository on GitHub](https://github.com/GSA/digitalgov-pra), or send directly to <a href="mailto:%70%72%61@%6F%6D%62.%65%6F%70.%67%6F%76
+?subject=PRA%20Website:%20Site%20Feedback&body=Please%20fill%20out%20the%20information%20below%0A%0A%0AWhat%20were%20you%20trying%20to%20do?%0A%0A%0AGeneral%20Comments">PRA@OMB.EOP.GOV</a>.
