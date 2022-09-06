@@ -1,8 +1,8 @@
 ---
 slug: digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available
 date: 2015-06-12 13:30:22 -0400
-title: DigitalGov Citizen Services Summit: Reflections from Our Livestream Host, and Full Recording Now Available!
-summary: The second annual DigitalGov Citizen Services Summit was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country.
+title: "DigitalGov Citizen Services Summit: Reflections from Our Livestream Host, and Full Recording Now Available!"
+summary: "The second annual DigitalGov Citizen Services Summit was held at GSA headquarters in Washington, DC on May 21, 2015."
 authors:
   - bernetta-reese
 topics:
