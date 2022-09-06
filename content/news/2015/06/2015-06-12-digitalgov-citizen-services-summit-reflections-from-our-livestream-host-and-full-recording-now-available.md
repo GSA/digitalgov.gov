@@ -89,4 +89,4 @@ The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalG
 
 {{< tweet user="Frank&#95;Konkel" id="601384159307821056" >}}
 
-_This post was [originally published](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html) on Bernetta Reese&#8217;s personal website._
+This post was originally published on [Bernetta Reese&#8217;s personal website](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html).
