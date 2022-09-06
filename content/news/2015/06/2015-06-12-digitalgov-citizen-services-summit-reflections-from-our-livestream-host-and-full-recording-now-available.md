@@ -1,8 +1,8 @@
 ---
 slug: digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available
 date: 2015-06-12 13:30:22 -0400
-title: 'DigitalGov Citizen Services Summit: Reflections from Our Livestream Host, and Full Recording Now Available!'
-summary: 'The second annual DigitalGov Citizen Services Summit was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country.'
+title: DigitalGov Citizen Services Summit: Reflections from Our Livestream Host, and Full Recording Now Available!
+summary: The second annual DigitalGov Citizen Services Summit was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country.
 authors:
   - bernetta-reese
 topics:
@@ -77,16 +77,16 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 {{< tweet user="FedRAMP" id="601370769533308928" >}}
 
-The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make #DigitalGov15 such a success!
+The Summit's hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make #DigitalGov15 such a success!
 
 {{< tweet user="BernettaReese" id="601102824252936193" >}}
 
-{{< tweet user="TTMobile&#95;us" id="601379895038607361" >}}
+{{< tweet user="TTMobile_us" id="601379895038607361" >}}
 
 {{< tweet user="BernettaReese" id="601385199994327040" >}}
 
 {{< tweet user="WhoTrendedIT" id="601382714542022657" >}}
 
-{{< tweet user="Frank&#95;Konkel" id="601384159307821056" >}}
+{{< tweet user="Frank_Konkel" id="601384159307821056" >}}
 
 This post was originally published on [Bernetta Reese&#8217;s personal website](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html).
