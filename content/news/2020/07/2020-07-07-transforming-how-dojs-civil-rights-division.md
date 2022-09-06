@@ -10,8 +10,7 @@ source_url: "https://18f.gsa.gov/2020/07/07/transforming-how-dojs-civil-rights-d
 source: 18f
 slug: transforming-how-dojs-civil-rights-division
 
-# Short URL — https://go.usa.gov/
-short_url: 
+
 date: 2020-07-07 18:00:00 -0500
 kicker: "Product Launch"
 title: "Transforming How DOJ's Civil Rights Division Engages With the Public"

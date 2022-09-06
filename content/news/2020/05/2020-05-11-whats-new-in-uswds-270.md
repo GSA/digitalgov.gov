@@ -9,9 +9,7 @@ source_url: "https://designsystem.digital.gov/about/releases/#version-270"
 # Learn about sources at https://workflow.digital.gov/sources
 source: uswds
 slug: whats-new-in-uswds-270
-
-# Short URL — https://go.usa.gov/
-short_url: 
+ 
 date: 2020-05-11 14:00:00 -0500
 kicker: "USWDS"
 title: "What’s new in USWDS 2.7.0"

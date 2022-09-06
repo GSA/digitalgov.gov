@@ -1,6 +1,5 @@
 ---
 slug: another-example
-short_url: https://go.usa.gov/xPGgv
 date: 2018-10-18 12:01:00 -0400
 title: "Shared infrastructure as code again"
 deck: "18F has reduced the ATO process **down to a mere 30 days**, from 6 months. Learn more how they're doing it."

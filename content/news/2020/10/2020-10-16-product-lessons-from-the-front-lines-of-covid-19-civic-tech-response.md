@@ -1,5 +1,4 @@
 ---
-short_url: https://go.usa.gov/x7cb8
 date: 2020-10-16 00:00:00 -0500
 title: Product lessons from the front lines of COVID-19 civic tech response
 summary: Two Presidential Innovation Fellows share how we can build digital

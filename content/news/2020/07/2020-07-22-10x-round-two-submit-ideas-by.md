@@ -3,8 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: 10x-round-two-submit-ideas-by
 
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xf83a
 date: 2020-07-22 8:00:00 -0500
 kicker: "Innovation"
 title: "10x Round Two: Submit Ideas by August 5"

@@ -1,6 +1,5 @@
 ---
 slug: the-white-house-back-to-the-future-day-and-the-road-to-innovation
-short_url: 
 kicker: "Innovation"
 date: 2015-10-21 9:47:15 -0400
 title: The White House, Back To The Future Day, and the Road to Innovation

@@ -4,7 +4,6 @@
 
 slug: a-look-at-new-gsagov
 date: 2020-01-08 18:00:00 -0500
-short_url: https://go.usa.gov/xpuHx
 kicker: "USWDS"
 title: "A Look at the New GSA.gov"
 deck: "How the GSA incorporated the U.S. Web Design System into their flagship site."

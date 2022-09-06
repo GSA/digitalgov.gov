@@ -41,7 +41,6 @@ Do you create content for a website or digital product? Do you contribute docume
 
 We all communicate with each other and the public in the course of our duties. And yet, accessibility is often viewed through the lens of software development or visual design. This presentation focuses on what we can all do to design content that is accessible to everyone.
 
-
 ## Our speaker
 
 **Ryan Johnson** is a content strategist at [18F](https://18f.gsa.gov/). He has worked at the intersection of communications and technology for over a decade. Before joining 18F earlier this year, Ryan worked for nonprofits, academia, local government, and the Department of the Interior. Ryan specializes in content strategy, content design, accessibility, and information architecture. He lives in Portland, OR.

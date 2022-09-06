@@ -1,6 +1,5 @@
 ---
 slug: why-our-country-needs-more-civic-tech-leaders
-short_url: https://go.usa.gov/xEpFq
 date: 2019-02-26 09:00:00 -0500
 title: 'Why Our Country Needs More Civic Tech Leaders'
 summary: 'Government is a great place to work for technologists, data scientists, designers and entrepreneurs who want to serve and solve problems for the American people.'

@@ -10,8 +10,6 @@ source_url: "https://18f.gsa.gov/2020/06/04/making-critical-government-informati
 source: 18f
 slug: making-critical-government-information-more-resilient
 
-# Short URL — https://go.usa.gov/
-short_url: 
 date: 2020-06-04 11:00:00 -0500
 kicker: "Tools"
 title: "Making Critical Government Information More Resilient"

@@ -1,6 +1,5 @@
 ---
 slug: healthgovs-move-your-way-activity-planner-a-case-study
-short_url: https://go.usa.gov/xppNd
 date: 2019-12-03 10:00:00 -0500
 title: 'Health&#46;gov’s Move Your Way Activity Planner&#58; A Case Study'
 summary: 'How an HHS team developed a bilingual online tool using audience research and iterative feedback to help adults increase their recommended aerobic activity and strength training.'

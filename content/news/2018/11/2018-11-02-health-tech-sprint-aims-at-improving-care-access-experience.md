@@ -1,6 +1,5 @@
 ---
 slug: health-tech-sprint-aims-at-improving-care-access-experience
-short_url: https://go.usa.gov/xPGgy
 date: 2018-11-02 10:40:00 -0500
 title: 'Health Tech Sprint Aims at Improving Care Access and Experience'
 summary: 'This sprint is designed to improve care by assisting in access to novel therapeutics and improving clinical trials&#46;'

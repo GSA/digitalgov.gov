@@ -2,9 +2,6 @@
 # View this page at https://digital.gov/2020/03/17/updates-on-21st-century-idea-key
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: updates-on-21st-century-idea-key
-
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xdt5h
 date: 2020-03-17 12:00:00 -0500
 kicker: "21st Century IDEA"
 title: "Updates on 21st Century IDEA: Key Insights & Lessons Learned"

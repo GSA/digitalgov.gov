@@ -10,8 +10,7 @@ source_url: "https://home.dotgov.gov/management/preloading/dotgovhttps/"
 source: dotgov
 slug: making-gov-more-secure-by-default
 
-# Short URL — https://go.usa.gov/
-short_url: https://home.dotgov.gov/management/preloading/dotgovhttps/
+
 date: 2020-06-22 15:00:00 -0500
 kicker: "Building trust"
 title: "Making .gov More Secure by Default"

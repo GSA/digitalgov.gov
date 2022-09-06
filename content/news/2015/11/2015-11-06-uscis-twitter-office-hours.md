@@ -39,7 +39,7 @@ For the first USCIS Twitter Office Hours event, we wanted to ensure we weren’t
 
 Here are some sample posts:
 
-  * **Twitter**: No time to call our 1-800 number? Ask us a question using [#AskUSCIS](https://twitter.com/hashtag/AskUSCIS?src=hash) from 3 &#8211; 4 (EST) today. <http://go.usa.gov/3Fqhh>, <http://ow.ly/i/cIkrD>
+  * **Twitter**: No time to call our 1-800 number? Ask us a question using [#AskUSCIS](https://twitter.com/hashtag/AskUSCIS?src=hash) from 3 &#8211; 4 (EST) today. <https://www.uscis.gov/>, <http://ow.ly/i/cIkrD>
   * **Facebook**: Have customer service questions that aren&#8217;t specific to your case? Use Twitter to #‎AskUSCIS‬‬‬‬‬‬‬‬‬‬‬, then join us today at 3 p.m. (EST) for a customer service chat. We will respond to as many questions as we can. Be sure to protect yourself when asking questions: DON’T include anything specific to you or your case, such as your receipt # or A-file #. [See our blog post](http://blog.uscis.gov/2015/08/askuscis-during-our-first-twitter.html) for more information.
 
 As we started the event, we weren’t sure what to expect and wondered if we would receive enough questions to keep us busy for an hour because only a handful of people sent us questions in response to our promotional messages. We were quickly proved wrong. One of the biggest takeaways from our first hour on Twitter was that our customers are definitely willing to ask us immigration questions via Twitter.

@@ -3,8 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: a-guide-for-agencies-building-cx
 
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xvQ7Y
 date: 2020-04-24 10:00:00 -0500
 kicker: "Customer Experience"
 title: "A Guide For Agencies Building CX Capacity"

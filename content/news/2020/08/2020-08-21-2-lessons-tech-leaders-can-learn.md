@@ -3,8 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: 2-lessons-tech-leaders-can-learn
 
-# Short URL — https://go.usa.gov/
-short_url: https://go.usa.gov/xGqHA
 date: 2020-08-21 18:00:00 -0500
 kicker: "Presidential Innovation Fellows"
 title: "2 Lessons Tech Leaders Can Learn From Unprecedented Health Research"

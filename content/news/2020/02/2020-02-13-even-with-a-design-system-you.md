@@ -9,9 +9,6 @@ source_url: "https://18f.gsa.gov/2020/02/06/even-with-a-design-system-you-still-
 # Learn about sources at https://workflow.digital.gov/sources
 source: 18f
 slug: even-with-a-design-system-you
-
-# Short URL — https://go.usa.gov/
-short_url:
 date: 2020-02-13 16:00:00 -0500
 title: "Even with a design system, you still need a designer"
 deck: "The U.S. Web Design System gives flexibility to teams to build the right solution for users, but there are still plenty of design decisions that teams need to make to be successful. **In short, you'll still need a designer.**"

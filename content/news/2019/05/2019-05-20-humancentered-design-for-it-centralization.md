@@ -1,9 +1,7 @@
 ---
 # View this page at https://digital.gov/2019/05/humancentered-design-for-it-centralization
 # Learn how to edit our pages at https://workflow.digital.gov
-
 slug: humancentered-design-for-it-centralization
-short_url: https://go.usa.gov/xmv7x
 date: 2019-05-20 13:00:00
 title: "Human-centered design for IT centralization"
 deck: "Are you working on an IT centralization project? Here is why taking the time to prioritize users is important and will result in services that work better for the people you serve."

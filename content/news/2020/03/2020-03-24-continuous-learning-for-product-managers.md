@@ -10,8 +10,6 @@ source_url: "https://18f.gsa.gov/2020/03/24/continuous-learning-for-product-mana
 source: 18f
 slug: continuous-learning-for-product-managers
 
-# Short URL — https://go.usa.gov/
-short_url:
 date: 2020-03-24 13:00:00 -0500
 kicker: "18F"
 title: "Continuous Learning for Product Managers"
