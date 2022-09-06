@@ -39,7 +39,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
 
 Megan Smith, U.S. Chief Technology Officer in the Office of Science and Technology Policy at the White House, gave the keynote opening and challenged agencies to “unlock federal talent.” She noted that agencies should “not just work on products and services,” but that they must unlock the talent of federal employees and make sure techies are brought to the table where the decisions are being made.
 
-{{< tweet user="USDS" id="601405291863920641" >}}	
+{{< tweet user="USDS" id="601405291863920641" >}}
 
 {{< tweet user="jakegab" id="601375064408367105" >}}
 
@@ -69,11 +69,11 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 {{< tweet user="ePolicyWorks" id="601374497288146944" >}}
 
-{{< tweet user="CorinaDuBois" id="601388501872091137" >}}	
+{{< tweet user="CorinaDuBois" id="601388501872091137" >}}
 
-{{< tweet user="jakegab" id="601206392905674752" >}}	
+{{< tweet user="jakegab" id="601206392905674752" >}}
 
-{{< tweet user="lauraandotis" id="601432623186051072" >}}	
+{{< tweet user="lauraandotis" id="601432623186051072" >}}
 
 {{< tweet user="FedRAMP" id="601370769533308928" >}}
 
@@ -89,4 +89,4 @@ The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalG
 
 {{< tweet user="Frank_Konkel" id="601384159307821056" >}}
 
-_This post was [originally published on Bernetta Reese&#8217;s personal website](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html)._
+_This post was originally published on [Bernetta Reese&#8217;s personal website](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html)._
