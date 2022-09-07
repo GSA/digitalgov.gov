@@ -33,7 +33,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
 
 {{< tweet user="OpenGov" id="601358263167377409" >}}
 
-“Open” was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
+**Open** was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
 
 {{< youtube nvB1udoMKfM >}}
 
@@ -59,13 +59,9 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 {{< tweet user="usgsa" id="601395959889801216" >}}
 
-{{< tweet user="marnyburke" id="601394854069866498" >}}
-
 {{< tweet user="NoVaDaddy" id="601372338316247040" >}}
 
 {{< tweet user="AgileAshok" id="601396003384774656" >}}
-
-{{< tweet user="gwynnek" id="601396994586877952" >}}
 
 {{< tweet user="ePolicyWorks" id="601374497288146944" >}}
 
@@ -77,16 +73,14 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 {{< tweet user="FedRAMP" id="601370769533308928" >}}
 
-The Summit's hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make #DigitalGov15 such a success!
+The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make &#35;DigitalGov15 such a success!
 
 {{< tweet user="BernettaReese" id="601102824252936193" >}}
-
-{{< tweet user="TTMobile_us" id="601379895038607361" >}}
 
 {{< tweet user="BernettaReese" id="601385199994327040" >}}
 
 {{< tweet user="WhoTrendedIT" id="601382714542022657" >}}
 
-{{< tweet user="Frank_Konkel" id="601384159307821056" >}}
+---
 
-This post was originally published on [Bernetta Reese&#8217;s personal website](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html).
+*This post was originally published on [Bernetta Reese's personal website](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html).*
