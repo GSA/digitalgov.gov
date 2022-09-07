@@ -19,7 +19,8 @@ topics:
   - user-research
   - usability-testing
 # See all authors at https://digital.gov/authors
-authors: []
+authors:
+  - dana-chisnell
 slug: dhs-usability-testing-kit-so-easy-anyone-can-do-it
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
