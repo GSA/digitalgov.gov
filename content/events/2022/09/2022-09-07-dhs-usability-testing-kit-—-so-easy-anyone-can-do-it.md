@@ -24,13 +24,14 @@ authors:
 slug: dhs-usability-testing-kit-so-easy-anyone-can-do-it
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
-Usability testing is a way to learn how easy or difficult it is for people to use something by observing them actually using it. 
+
+Usability testing is a way to learn how easy or difficult it is for people to use something by observing them actually using it.
 
 In this session with the Department of Homeland Security (DHS), you'll learn how to use the kit’s guidelines and templates to test the usability of your services and solutions. We’ll dive into the details for four common approaches to usability testing — from quick tests with colleagues in the office, to structured, remote testing with real users.
 
 The resources provided in the [DHS Usability Kit](https://www.dhs.gov/cx/dhs-usability-testing-kit) can help you systematize the testing process, produce reliable findings, and expand your ability to test your websites, forms, and mobile apps with real users — before you launch them out into the world.
-
 
 ## Speaker
 
