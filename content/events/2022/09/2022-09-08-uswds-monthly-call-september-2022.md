@@ -1,7 +1,7 @@
 ---
 title: USWDS Monthly Call - September 2022
 kicker: USWDS LANGUAGE SELECTION PATTERNS
-summary: How do we help users find content in their preferred language?
+summary: How do we help users find content in their preferred language? Join us as we take a closer look at the language selection patterns we're developing for USWDS.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-language-selection-patterns-sep-2022-tickets-415626809977
@@ -23,8 +23,10 @@ slug: uswds-monthly-call-september-2022
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: uswds-monthly-call-sep-title-card
+
 ---
-How do we help users find content in their preferred language? Join us as we take a closer look at the language selection patterns we're developing for USWDS. We'll talk about how this work evolved out of the Multilingual Community of Practice, then we'll discuss our general approach to pattern guidance while looking at this specific guidance and the new components that support it.
+
+How do we help users find content in their preferred language? Join us as we take a closer look at the language selection patterns we're developing for USWDS. We'll talk about how this work evolved out of the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/), then we'll discuss our general approach to pattern guidance while looking at this specific guidance and the new components that support it.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
 
