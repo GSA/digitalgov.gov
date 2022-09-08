@@ -1,8 +1,7 @@
 ---
-title: DHS Usability Testing Kit — So Easy Anyone Can Do It
+title: DHS Usability Testing Kit &mdash; So Easy, Anyone Can Do It
 kicker: User Experience
-summary: Join us for an overview of the Department of Homeland Security’s new
-  Usability Testing Kit, including its four approaches to usability testing.
+summary: Join us for an overview of the Department of Homeland Security's new Usability Testing Kit, including its four approaches to usability testing.
 host: Web Managers Community of Practice and User Experience Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/dhs-usability-testing-kit-so-easy-anyone-can-do-it-tickets-411967785737
