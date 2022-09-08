@@ -1,10 +1,8 @@
 ---
-title: DHS Usability Testing Kit So Easy, Anyone Can Do It
+title: DHS Usability Testing Kit &mdash; So Easy, Anyone Can Do It
 kicker: User Experience
-summary: Join us for an overview of the Department of Homeland Security's new
-  Usability Testing Kit, including its four approaches to usability testing.
-host: Web Managers Community of Practice and User Experience (UX) Community of
-  Practice
+summary: Join us for an overview of the Department of Homeland Security's new Usability Testing Kit, including its four approaches to usability testing.
+host: Web Managers Community of Practice and User Experience (UX) Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/dhs-usability-testing-kit-so-easy-anyone-can-do-it-tickets-411967785737
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
@@ -26,7 +24,9 @@ slug: dhs-usability-testing-kit-so-easy-anyone-can-do-it
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: dhs-usability-testing-kit-event-title-card
+
 ---
+
 Usability testing is a way to learn how easy or difficult it is for people to use something by observing them actually using it.
 
 In this session with the Department of Homeland Security (DHS), you'll learn how to use the kit’s guidelines and templates to test the usability of your services and solutions. We’ll dive into the details for four common approaches to usability testing — from quick tests with colleagues in the office, to structured, remote testing with real users.
