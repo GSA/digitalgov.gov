@@ -1,5 +1,5 @@
 ---
-title: DHS Usability Testing Kit &mdash; So Easy, Anyone Can Do It
+title: DHS Usability Testing Kit So Easy, Anyone Can Do It
 kicker: User Experience
 summary: Join us for an overview of the Department of Homeland Security's new Usability Testing Kit, including its four approaches to usability testing.
 host: Web Managers Community of Practice and User Experience Community of Practice
@@ -34,7 +34,7 @@ The resources provided in the [DHS Usability Kit](https://www.dhs.gov/cx/dhs-usa
 
 ## Speaker
 
-* **Dana Chisnell**, Deputy Director for Customer Experience (CX) - U.S. Department of Homeland Security (DHS)
+* **Dana Chisnell**, Deputy Director for Customer Experience (CX) - U.S. Department of Homeland Security
 
 ---
 
