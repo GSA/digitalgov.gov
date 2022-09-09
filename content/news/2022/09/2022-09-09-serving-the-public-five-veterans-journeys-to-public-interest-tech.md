@@ -1,7 +1,7 @@
 ---
 date: 2022-09-09 13:56:00 -0500
 kicker: 
-title: Serving the Public: Five Veterans' Journeys to Public Interest Tech
+title: "Serving the Public: Five Veteran&#39; Journeys to Public Interest Tech"
 deck: 
 summary: U.S. Digital Corps Fellows share their public service journeys from military service to public interest tech.
 # See all topics at https://digital.gov/topics
