@@ -147,6 +147,6 @@ For sure--being flexible and leaning on the skill of adaptability. Since things 
 
 You are not alone! Let me explain, there are moments where it feels like you are just wandering around, trying to find your fit in the organization or program, but remember there is a network of people here willing to help. I have learned that a lot of people are open to provide information or direct you to someone who may have the answers you need if you are just willing to ask.
 
-- - -
+---
 
 Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications open soon!). For more mid-senior technologists, visit [Join TTS](https://join.tts.gsa.gov/).
