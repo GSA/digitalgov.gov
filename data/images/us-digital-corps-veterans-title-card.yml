@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/us-digital-corps-veterans-title-card.png
+
+# Image shortcode: {{< img src="us-digital-corps-veterans-title-card" >}}
+
+date     : 2022-09-09 13:55:11 -0400
+uid      : us-digital-corps-veterans-title-card
+width    : 1200
+height   : 630
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A blue and white title card featuring the images of the veterans who were interviewed, and the title; Serving the Public: Five Veterans’ Journeys to Public Interest Tech." 
