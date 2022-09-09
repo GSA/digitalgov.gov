@@ -1,26 +1,35 @@
 ---
 date: 2022-09-09 12:34:00 -0500
-kicker: kicker
-title: "Serving the Public: Five Veterans’ Journeys to Public Interest Tech"
-deck: deck
-summary: Five U.S. Digital Corps Fellows share their public service journeys
-  from military service to public interest tech.
+kicker: 
+title: "Serving the Public: Five Veterans' Journeys to Public Interest Tech"
+deck: 
+summary: Five U.S. Digital Corps Fellows share their public service journeys from military service to public interest tech.
+
+# See all authors at https://digital.gov/authors
+authors:
+  - dahianna-salazar-foreman
+
 # See all topics at https://digital.gov/topics
 topics:
   - tts
   - professional-development
+
 slug: serving-the-public-five-veterans-journeys-to-public-interest-tech
+
 primary_image: us-digital-corps-veterans-title-card
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 There are many paths to a career in government technology, including transitioning from within public service. Five U.S. Digital Corps Fellows share their public service journey from military to [public interest tech](https://en.wikipedia.org/wiki/Public_Interest_Technology_University_Network#Public_Interest_Technology) as technologists in the federal government.
 
 ## Joe Lindsey
 
-{{< img-right src="us-digital-corps-veterans-joe-lindsey" >}
+{{< img-right src="us-digital-corps-veterans-joe-lindsey" >}}
 
 **What was your military branch and position?**
 
