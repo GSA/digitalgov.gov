@@ -20,7 +20,7 @@ How do we choose color in digital design? In print, we have the Pantone fan and 
 
 {{< legacy-img src="2017/04/600-x-461-Boutet_1708_color_circles.jpg" alt="Claude Boutet’s 7-color and 12-color color wheels." caption="By C. B. (probably Claude Boutet or it's editor, Christophe Ballard[1]) [Public domain], via Wikimedia Commons" >}}
 
-Remember the colors of the box of your favorite cereal? Of course you do, even if it’s from when you were a kid. If the color changed next week, you wouldn’t recognize it; you would have trouble finding it in the cereal aisle and might even ask someone in the store for assistance. Well, website and online apps work much the same way. So, choosing colors that will last is highly important.
+Remember the colors of the box of your favorite cereal? Of course you do, even if it’s from when you were a kid. If the color changed next week, you wouldn’t recognize it; you would have trouble finding it in the cereal aisle and might even ask someone in the store for assistance. [USA News Web Design Jobs](https://janpravas.com/) Well, website and online apps work much the same way. So, choosing colors that will last is highly important.
 
 In my experience, many of the Ivy League colleges (and hidden Ivies) have excellent style guides with sample do’s and don’ts for both digital and print. They make wonderful templates!
 
