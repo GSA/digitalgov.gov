@@ -116,7 +116,7 @@ The values of teamwork and effective communication were some of the important sk
 
 **What’s one thing that you’ve learned or taken away so far as a Fellow?**
 
-I am very proud and happy to be part of this fellowship program. The Digital Corps founders and managers have been great mentors, providing resources for all the fellows to succeed in their careers. I am really impressed with their effective communications and management skills.
+I am very proud and happy to be part of this fellowship program. The Digital Corps founders and managers have been great mentors, providing resources for all of us to succeed in our careers. I am really impressed with their effective communications and management skills.
 
 ## Anthony Barbara
 
@@ -128,11 +128,11 @@ My last position on active duty in the Army was as an Airborne Sapper (12B Comba
 
 **What were you doing before you joined the U.S. Digital Corps?**
 
-I was working for a managed security service provider (MSSP) as a junior security analyst. We had over 20 different clients. I would triage cases, perform investigation to determine if the incident was a true or false positive, and provide recommendations for remediation.
+I was working for a managed security service provider (MSSP) as a junior security analyst. We had over 20 different clients. I would triage cases, perform investigations to determine if incidents were true or false positives, and provide recommendations for remediation.
 
 **What made you want to apply to the U.S. Digital Corps?**
 
-I had always felt the desire to return to public service after leaving the military. I was exhausted by the demand to only drive towards working for the sheer purpose of growing the company for profits. I wanted to help our government meet the tempo of the continuous challenge with integrating technology securely into its infrastructure.
+I had always felt the desire to return to public service after leaving the military. I was exhausted by the demand to only drive towards the sheer goal of growing a company’s profits. I wanted to help our government meet the tempo of the continuous challenge of integrating technology securely into its infrastructure.
 
 **Are there lessons or skills from your time in the military that you are using now as a Fellow?**
 
