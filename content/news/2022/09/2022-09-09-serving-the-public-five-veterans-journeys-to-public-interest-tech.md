@@ -44,7 +44,7 @@ The first two skills that come to mind are: being able to have a lot of patience
 
 **What’s one thing that you’ve learned or taken away so far as a Fellow?**
 
-One thing that I have learned so far as a fellow is that you are never alone. It does not matter where you are located, what agency you’re placed at, or skill track you’re on. There is also someone there to support you no matter what it is that you may need.
+One thing that I have learned so far as a fellow is that you are never alone. It does not matter where you are located, what agency you’re placed at, or skill track you’re on. There always someone there to support you no matter what it is that you may need.
 
 ## Jenny Wang
 
@@ -68,7 +68,7 @@ Definitely. As a military paralegal and a soldier, I needed to be flexible, resi
 
 **What’s one thing that you’ve learned or taken away so far as a Fellow?**
 
-Everyone is willing to help; you just have to ask questionsIt’s easy to get overwhelmed by what you don’t know and understand. I learned that I should push even harder to figure things out instead of feeling bad and thinking about why I don’t know that yet. Being vulnerable and asking hard questions is very important.
+Everyone is willing to help; you just have to ask questionsIt’s easy to get overwhelmed by what you don’t know and understand. I learned that I should push even harder to figure things out instead of feeling bad and thinking, "why don't I know that yet?" Being vulnerable and asking hard questions is very important.
 
 ## Thomas Sittmann
 
@@ -80,7 +80,7 @@ When I was on active duty, I was a 35P, a Cryptologic Linguist in the Army. I ha
 
 **What were you doing before you joined the U.S. Digital Corps?**
 
-I was working as a cyber security engineer for the Army National Guard as a member of their incident response team. We supported all 50 states and four territories regarding incident response needs.
+I was working as a cybersecurity engineer for the Army National Guard as a member of their incident response team. We supported all 50 states and four territories regarding incident response needs.
 
 **What made you want to apply to the U.S. Digital Corps?**
 
@@ -92,7 +92,7 @@ There were a few skills and lessons that I was able to take from the military an
 
 **What’s one thing that you’ve learned or taken away so far as a Fellow?**
 
-What I have learned so far is everyone brings something unique to the team. It has actually been a blessing. I found that any question I have, someone out there has the answer or the same question. If they do not, they are willing to help. The cohort model has also made the transition very smooth and it is great to have 39 other Fellows to lean on for support.
+What I have learned so far is everyone brings something unique to the team. It has actually been a blessing. I found that any question I have, someone out there has the answer or the same question. If they do not, they are willing to help. The cohort model has also made the transition very smooth and it is great to have 37 other Fellows to lean on for support.
 
 ## Dhan Gurung
 
@@ -104,19 +104,19 @@ I served in the U.S. Navy and my last position was an Aviation Administrationman
 
 **What were you doing before you joined the U.S. Digital Corps?**
 
-Before joining the U.S. Digital Corps, I was working as IT Specialist providing desktop support for users at Cooper Hewitt, Smithsonian Design Museum in New York City.
+Before joining the U.S. Digital Corps, I was working as an IT Specialist providing desktop support for users at Cooper Hewitt, Smithsonian Design Museum in New York City.
 
 **What made you want to apply to the U.S. Digital Corps?**
 
-After serving in the military and working in the federal government, I was looking for new challenges.. When I finished my master’s degree in Cyber Security, U.S. Digital Corps fellowship was the perfect opportunity and program for me to advance my career in the cyber field while continuing to serve the general public.
+After serving in the military and working in the federal government, I was looking for new challenges. When I finished my master’s degree in Cybersecurity, the U.S. Digital Corps fellowship was the perfect opportunity and program for me to advance my career in the cyber field while continuing to serve the general public.
 
 **Are there lessons or skills from your time in the military that you are using now as a Fellow?**
 
-The values of teamwork, and effective communication were some of the important skills I was able to gain during my time in the military. I am currently working on a project that requires me to collaborate with a large number of stakeholders, and working in a huge team and maintaining an effective channel of communication will be key towards the outcome of our project.
+The values of teamwork and effective communication were some of the important skills I was able to gain during my time in the military. I am currently working on a project that requires me to collaborate with a large number of stakeholders, and working in a huge team and maintaining an effective channel of communication will be key towards the outcome of our project.
 
 **What’s one thing that you’ve learned or taken away so far as a Fellow?**
 
-I am very proud and happy to be part of this fellowship program. The Digital Corps founders and managers have been great mentors, providing resources for all the fellows to succeed in their careers. I am really impressed with their effective communications and management skills.
+I am very proud and happy to be part of this fellowship program. The Digital Corps founders and managers have been great mentors, providing resources for all of us to succeed in our careers. I am really impressed with their effective communications and management skills.
 
 ## Anthony Barbara
 
@@ -128,11 +128,11 @@ My last position on active duty in the Army was as an Airborne Sapper (12B Comba
 
 **What were you doing before you joined the U.S. Digital Corps?**
 
-I was working for a managed security service provider (MSSP) as a junior security analyst. We had over 20 different clients. I would triage cases, perform investigation to determine if the incident was a true or false positive, and provide recommendations for remediation.
+I was working for a managed security service provider (MSSP) as a junior security analyst. We had over 20 different clients. I would triage cases, perform investigations to determine if incidents were true or false positives, and provide recommendations for remediation.
 
 **What made you want to apply to the U.S. Digital Corps?**
 
-I had always felt the desire to return to public service after leaving the military. I was exhausted by the demand to only drive towards working for the sheer purpose of growing the company for profits. I wanted to help our government meet the tempo of the continuous challenge with integrating technology securely into its infrastructure.
+I had always felt the desire to return to public service after leaving the military. I was exhausted by the demand to only drive towards the sheer goal of growing a company’s profits. I wanted to help our government meet the tempo of the continuous challenge of integrating technology securely into its infrastructure.
 
 **Are there lessons or skills from your time in the military that you are using now as a Fellow?**
 
