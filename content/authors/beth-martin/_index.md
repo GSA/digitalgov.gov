@@ -20,7 +20,7 @@ slug: beth-martin
 email: "Beth.Martin@opm.gov"
 
 # Bio — keep it under 50 words
-bio: "Beth Martin is User Experience Lead at the Office of Personnel Management and co-lead of the Web Managers Community of Practice."
+bio: "Beth Martin is a Digital Services Expert (UX Designer) at the Office of Personnel Management (OPM). She  previously worked at the FAA as a UX Lead. Beth is also an adjunct professor in UX Design."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
