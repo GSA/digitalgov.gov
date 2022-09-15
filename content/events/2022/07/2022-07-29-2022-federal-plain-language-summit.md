@@ -183,6 +183,8 @@ In this session you will hear from the following speaker:
 
 * **Dr. Rachael Bradley Montgomery** &mdash; Digital Accessibility Architect, Library of Congress (LOC)
 
+{{< youtube 9Ae8bUlSSXU >}}
+
 ---
 
 ## 3:00 pm - 3:30 pm , ET<br />Recognizing Systemic Challenges for the Design Team of One
