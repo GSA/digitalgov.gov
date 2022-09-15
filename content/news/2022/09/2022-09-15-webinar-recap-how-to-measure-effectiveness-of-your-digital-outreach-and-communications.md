@@ -13,7 +13,7 @@ topics:
 authors:
   - raashee-gupta-erry
 slug: webinar-recap-how-to-measure-effectiveness-of-your-digital-outreach-and-communications
-primary_image: 
+primary_image: parradee-kietsirikul-istock-getty-images-1417870473
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
