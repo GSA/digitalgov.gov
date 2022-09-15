@@ -1,7 +1,6 @@
 ---
 date: 2022-09-15 10:52:00 -0500
-title: "Webinar Recap: How to Measure Effectiveness of Your Digital Outreach and
-  Communications"
+title: "Webinar Recap: How to Measure Effectiveness of Your Digital Outreach and Communications"
 summary: Four key tips for measuring effectiveness.
 # See all topics at https://digital.gov/topics
 topics:
@@ -13,15 +12,17 @@ topics:
 authors:
   - raashee-gupta-erry
 slug: webinar-recap-how-to-measure-effectiveness-of-your-digital-outreach-and-communications
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Digital.gov’s [Federal Communicators Network](https://digital.gov/communities/federal-communicators-network/) (FCN) held an event in July 2022 with a panel of federal communications and marketing leaders on best practices and guidance on measurement effectiveness of digital marketing, outreach, and communication efforts.
 
-Speakers included Alexis Lennon from the Department of State and Amy Thompson from the Federal Deposit Insurance Corporation (FDIC). The event was moderated by Raashee Gupta Erry, White House Presidential Innovation Fellow and Chair of FCN.   
+Speakers included Alexis Lennon from the Department of State and Amy Thompson from the Federal Deposit Insurance Corporation (FDIC). The event was moderated by Raashee Gupta Erry, White House Presidential Innovation Fellow and Chair of FCN. 
 
 Panelists shared their experiences, lessons learned, and best practices for what works in the federal government agencies that have robust programs reaching diverse American public. Key themes covered were:
 
