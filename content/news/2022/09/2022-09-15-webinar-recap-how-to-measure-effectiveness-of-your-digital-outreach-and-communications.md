@@ -8,6 +8,7 @@ topics:
   - metrics
   - training
   - data
+  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - raashee-gupta-erry
@@ -43,11 +44,11 @@ Panelists provided four tips for measuring effectiveness:
 
 4. Work with your IT department to supplement existing approved tools with free tools, and/or solutions that your contractors may have access to. A sample toolbox could contain:
 
-* Website measurement: Google Analytics and [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP).
-* Social media growth: native analytics built within social media platforms.
-* Audience engagement: social media management and monitoring tools.
-* Email marketing measurement: reporting tools to streamline and analyze external outreach.
-* Plug-ins or extensions for internal email programs: to create mobile-friendly, responsive design emails and measure engagement.
-* Paid advertising: contractor-provided access or information.
+  * Website measurement: Google Analytics and [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP).
+  * Social media growth: native analytics built within social media platforms.
+  * Audience engagement: social media management and monitoring tools.
+  * Email marketing measurement: reporting tools to streamline and analyze external outreach.
+  * Plug-ins or extensions for internal email programs: to create mobile-friendly, responsive design emails and measure engagement.
+  * Paid advertising: contractor-provided access or information.
 
 Establishing KPIs, sharing data driven insights, instituting a test and learn approach, and leveraging relevant tools are best practices to effectively measure communications and outreach programs. All of these suggestions can be applicable to any and all programs, agnostic to the size and goals. Based on your organizational culture and process, you can start small and iterate over time.
