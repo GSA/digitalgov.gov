@@ -26,6 +26,8 @@ primary_image: uswds-monthly-call-sep-title-card
 
 ---
 
+[View the slides (PowerPoint, 10.5 MB, 46 pages)](https://digital.gov/files/uswds-monthly-call-september-2022.pptx)
+
 How do we help users find content in their preferred language? Join us as we take a closer look at the language selection patterns we're developing for USWDS.
 
 We'll talk about how this work evolved out of the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/), then we'll discuss our general approach to pattern guidance, while looking at this specific guidance and the new components that support it.
