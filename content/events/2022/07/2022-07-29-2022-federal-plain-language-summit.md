@@ -45,6 +45,8 @@ On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://dig
 
 ## 2022 Plain Language Agenda
 
+Expand each section to download presentation slides and view available videos.
+
 {{< accordion kicker="10:30 am - 12:15 pm, ET" title="Morning Sessions" icon="fas fa-copy" >}}
 ## 10:30 am - 10:40 am, ET<br />Opening Remarks: Plain Language CoP Co-Chairs Katherine Spivey and Katina Stapleton
 
