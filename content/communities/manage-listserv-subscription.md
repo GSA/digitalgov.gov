@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/communities/manage-your-subscription
+# View this page at https://digital.gov/communities/community-guidelines
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: community-guidelines
@@ -7,11 +7,12 @@ title: 'Digital.gov Community Guidelines'
 type: page
 summary: 'GSA supports many communities of practice by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.'
 
-# Redirects: enter the path of the URL that you want redirected to this page
+# Redirects: enter the path of the URL that you want redirected to this page. The 4th one is temporary until we can build 2nd page
 aliases:
   - /manage-your-listserv-subscription/
   - /communities/manage-your-subscription/
   - /communities/manage-your-listserv-subscription/
+  - /manage-your-subscription
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
@@ -22,9 +23,9 @@ weight: 0
 
 ---
 
-Digital.gov, a service of the General Services Administration (GSA), manages several [Communities of Practice](https://digital.gov/communities/). GSA provides listservs and other channels to facilitate conversations among community members. By voluntarily participating in these communities, you are agreeing to abide by these Community Guidelines and the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
+Digital.gov, a service of the U.S. General Services Administration (GSA), manages several [Communities of Practice](https://digital.gov/communities/). GSA provides Listservs and other channels to facilitate conversations among community members. By voluntarily participating in these communities, you are agreeing to abide by these Community Guidelines and the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
 
-We strive to maintain inclusive, professional communities that engage in on-topic discussions. Severe or repeated violations of the guidelines and code of conduct may result in temporary or permanent removal from the Communities of Practice. If you do not agree to abide by the guidelines and code of conduct, email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we will unsubscribe you from the listservs.
+We strive to maintain inclusive, professional communities that engage in on-topic discussions. Severe or repeated violations of the guidelines and code of conduct may result in temporary or permanent removal from the Communities of Practice. If you do not agree to abide by the guidelines and code of conduct, email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we will unsubscribe you from the Listservs.
 
 ## Rules and Guidelines for Discussions
 
