@@ -21,7 +21,7 @@ authors:
   - toni-bonitto
 
 # primary Image (for social media)
-primary_image: "accessibility-101-card"
+primary_image: "accessibility-inclusive-design"
 
 aliases:
   - /resources/intro-accessibility
