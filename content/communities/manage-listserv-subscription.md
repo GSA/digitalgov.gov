@@ -24,9 +24,9 @@ weight: 0
 
 Digital.gov, a service of the General Services Administration (GSA), manages several [Communities of Practice](https://digital.gov/communities/). GSA provides listservs and other channels to facilitate conversations among community members. By voluntarily participating in these communities, you are agreeing to abide by these Community Guidelines and the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
 
-We strive to maintain inclusive, professional communities that engage in on-topic discussions. Severe or repeated violations of the guidelines and code of conduct may result in temporary or permanent removal from the Communities of Practice. If you do not agree to abide by the guidelines and code of conduct, email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) and we will unsubscribe from the listservs.
+We strive to maintain inclusive, professional communities that engage in on-topic discussions. Severe or repeated violations of the guidelines and code of conduct may result in temporary or permanent removal from the Communities of Practice. If you do not agree to abide by the guidelines and code of conduct, email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we will unsubscribe you from the listservs.
 
-## Rules and Guidelines for Online Discussions
+## Rules and Guidelines for Discussions
 
 - Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies.
 - Understand your agency's policy about using all government equipment.
