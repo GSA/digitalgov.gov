@@ -2,8 +2,8 @@
 # View this page at https://digital.gov/communities/manage-your-subscription
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: manage-your-subscription
-title: 'Community Guidelines'
+slug: community-guidelines
+title: 'Digital.gov Community Guidelines'
 type: page
 summary: 'GSA supports many communities of practice by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.'
 
@@ -22,11 +22,9 @@ weight: 0
 
 ---
 
-GSA supports many [communities of practice]({{< ref "/communities/_index.md" >}}) (CoP) by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.
+Digital.gov, a service of the General Services Administration (GSA), manages several [Communities of Practice](https://digital.gov/communities/). GSA provides listservs and other channels to facilitate conversations among community members. By voluntarily participating in these communities, you are agreeing to abide by these Community Guidelines and the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
 
-The handy tips that follow will help you manage your GSA Listserv subscription. Confirm that your community’s list is hosted by GSA by checking that the email address ends in “@listserv.gsa.gov”. If you still have questions after reading this page, contact your community or listserv manager.
-
-Note that these instructions reference a sample Listserv called _TESTLIST@listserv.gsa.gov_. Just substitute the name of YOUR Listserv (e.g., _CONTENT-MANAGERS-L_@listserv.gsa.gov) whenever you see _TESTLIST_, to apply these instructions to your Listserv.
+We strive to maintain inclusive, professional communities that engage in on-topic discussions. Severe or repeated violations of the guidelines and code of conduct may result in temporary or permanent removal from the Communities of Practice. If you do not agree to abide by the guidelines and code of conduct, email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) and we will unsubscribe from the listservs.
 
 ## Rules and Guidelines for Online Discussions
 
