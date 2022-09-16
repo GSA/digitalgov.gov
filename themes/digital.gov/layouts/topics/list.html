@@ -9,9 +9,14 @@
     <div class="grid-row tablet-lg:grid-gap-4" data-edit-this="{{- $path -}}">
       <div class="grid-col-12">
         <header class="page-header">
-          <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>
-          <h1>{{- .Title -}}</h1>
-
+          <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}">
+            <!-- <img class="usa-icon" src="{{ "/uswds/img/sprite.svg#arrow_back" }}" alt=""> -->
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+              <use xlink:href="/uswds/img/sprite.svg#arrow_back"></use>
+            </svg>
+            <span>All Resources</span>
+          </a></p>
+          <h1>{{- .Title -}}</h1>          
           {{- $allpages := (where .Pages "Section" "news") -}}
 
           <p class="deck">{{- .Params.summary -}}</p>

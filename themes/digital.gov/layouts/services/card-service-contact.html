@@ -86,7 +86,13 @@
 
         <div class="copy copy-contacts">
           {{ if .Params.contact }}
-            <a class="contact" href="mailto:{{- .Params.contact -}}" title="Contact"><span><i class="fas fa-envelope"></i>&nbsp;Contact</span></a>
+            <a class="contact" href="mailto:{{- .Params.contact -}}" title="Contact">
+              <span>
+                <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="/uswds/img/sprite.svg#mail"></use>
+                </svg>
+                &nbsp;Contact</span>
+            </a>
           {{- end -}}
 
           {{- partial "core/get_authors_short.html" . -}}
