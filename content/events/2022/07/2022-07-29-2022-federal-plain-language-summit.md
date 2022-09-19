@@ -66,6 +66,8 @@ In this session you will hear from the following speakers:
 * **Shuly Babitz** &mdash; Health Communications Strategist, Health Resources and Services Administration (HRSA)
 * **Katy Karnell** &mdash; Communications Team Lead, Health Resources and Services Administration (HRSA)
 
+{{< youtube 9U2wzbWpCso >}}
+
 ---
 
 ## 11:15 am - 11:45 am, ET<br />A Happy Compromise: Applying People-First Standards with Plain Language in Mind
