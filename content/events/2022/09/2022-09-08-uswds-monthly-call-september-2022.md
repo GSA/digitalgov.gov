@@ -56,13 +56,13 @@ And if all goes well, we'll have some time left at the end of Q&A. So let's get 
 
 **Slide 4:** with site launches
 
-**Slide 5:** First up: [CHIPS.gov](https://www.nist.gov/chips) from the Department of Commerce. CHIPS.gov supports the CHIPS and Science Act of 2022 and serves as a public portal for implementation priorities related to that legislation. The CHIPS.gov homepage features a logo of a semiconductor chip with an american flag printed on it, and a video of Commerce Secretary Gina Raimondo titled "A message from the Secretary of Commerce".
+**Slide 5:** First up: [CHIPS.gov](https://www.nist.gov/chips) from the Department of Commerce. CHIPS.gov supports the CHIPS and Science Act of 2022 and serves as a public portal for implementation priorities related to that legislation. The CHIPS.gov homepage features a logo of a semiconductor chip with an american flag printed on it, and a video of Commerce Secretary Gina Raimondo titled, "A message from the Secretary of Commerce."
 
-**Slide 6:** Next is a new tool in [Beta from USAGov](https://benefits-tool-beta.usa.gov/death-of-a-loved-one/?) — meant to help the public understand what benefits they qualify for, based on the details of their situation and circumstance.The USAGov benefits tool shows a header reading "Government Assistance After Losing a Loved One" followed by a USWDS process list.
+**Slide 6:** Next is a new tool in [Beta from USAGov](https://benefits-tool-beta.usa.gov/death-of-a-loved-one/?) — meant to help the public understand what benefits they qualify for, based on the details of their situation and circumstance.The USAGov benefits tool shows a header reading, "Government Assistance After Losing a Loved One" followed by a USWDS process list.
 
-**Slide 7:** Next is an update to [USGS WaterAlert](https://accounts.waterdata.usgs.gov/wateralert/) from the US Geological Survey. WaterAlert provides notifications to an email or text phone number when a monitoring location exceeds the trigger levels set by the user. This interface allows users to create and manage their alert subscriptions and also uses login.gov as its identity provider. The USGS WaterAlert page shows an image of a mobile phone displaying multiple notification configuration options. A header reads "Welcome to WaterAlert".
+**Slide 7:** Next is an update to [USGS WaterAlert](https://accounts.waterdata.usgs.gov/wateralert/) from the US Geological Survey. WaterAlert provides notifications to an email or text phone number when a monitoring location exceeds the trigger levels set by the user. This interface allows users to create and manage their alert subscriptions and also uses login.gov as its identity provider. The USGS WaterAlert page shows an image of a mobile phone displaying multiple notification configuration options. A header reads, "Welcome to WaterAlert."
 
-**Slide 8:** Finally, [veterans.gov](https://www.dol.gov/agencies/vets?utm_source=veterans_gov&utm_medium=redirect&utm_campaign=veterans_gov_redirect) from the Department of Labor — home of the Veterans Employment and Training Service, or VETS. The VETS program prepares America's veterans, transitioning service members, and military spouses for meaningful careers, provides them with employment resources and expertise, protects their employment rights, and promotes their employment opportunities. The veterans.gov homepage shows a large hero image of a retired Air Force lieutenant colonel holding a black and white photograph of herself in uniform receiving her new rank during a promotion ceremony. Text reads "Welcome to VETS".
+**Slide 8:** Finally, [veterans.gov](https://www.dol.gov/agencies/vets?utm_source=veterans_gov&utm_medium=redirect&utm_campaign=veterans_gov_redirect) from the Department of Labor — home of the Veterans Employment and Training Service, or VETS. The VETS program prepares America's veterans, transitioning service members, and military spouses for meaningful careers, provides them with employment resources and expertise, protects their employment rights, and promotes their employment opportunities. The veterans.gov homepage shows a large hero image of a retired Air Force lieutenant colonel holding a black and white photograph of herself in uniform receiving her new rank during a promotion ceremony. Text reads, "Welcome to VETS."
 
 **Slide 9:** Congratulations, and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
@@ -74,7 +74,7 @@ And if all goes well, we'll have some time left at the end of Q&A. So let's get 
 
 **Slide 13:** And now let's move on to language selection patterns. We've been working hard over the last few months to bring patterns and pattern guidance to the design system. This work is in the last phase of review and we hope to launch the new guidance next month.
 
-Last month we introduced you to the concept of design patterns, why they're important for the design system, and the research and development approach we used to arrive at them. Today we’re going to go into a bit more detail about  what makes up USWDS pattern guidance as we focus on language selection… with the help of a few guest speakers.
+Last month we introduced you to the concept of design patterns, why they're important for the design system, and the research and development approach we used to arrive at them. Today we’re going to go into a bit more detail about what makes up USWDS pattern guidance as we focus on language selection… with the help of a few guest speakers.
 
 **Slide 14:** I'd like to introduce a couple members of the inclusive patterns team. First Meghan O'Meara, a Content Strategist and a contractor on our team. Meghan, can you say a bit about yourself and give a quick description of your appearance for anyone audio-only?
 
@@ -86,7 +86,7 @@ Mitch: Hi, I'm Mitch Moccia, and I'm a front-end developer and engineer on the I
 
 **Slide 16:** Thanks Mitch! Finally, I’d like to introduce you all to Laura Godfrey, a colleague of mine in GSA, working with [Vote.gov](https://vote.gov/), and a community manager for the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/). Laura, can you introduce yourself and give a quick description of your appearance for anyone audio-only?
 
-Laura: Hi, I’m Laura Godfrey, my pronouns are she, her and ella, I live in the Washington, DC Metro Area.  I wear glasses, have brown shoulder-length hair and am wearing a shirt with different shades of blue, white and a bit of green.
+Laura: Hi, I’m Laura Godfrey, my pronouns are she, her and ella, I live in the Washington, DC Metro Area. I wear glasses, have brown shoulder-length hair and am wearing a shirt with different shades of blue, white and a bit of green.
 
 **Slide 17:** We'll hear a bit more from Meghan, Mitch, and Laura in a bit, but I'd like to start with an overview of what we'll discuss today.
 
@@ -109,18 +109,24 @@ So what were we missing with our flavors, textures, ingredients, and techniques?
 
 **Slide 23:** Well, it was recipes. How are we using all these things together? What are we trying to accomplish with our ingredients and techniques? In the context of a design system, recipes are something we call patterns.
 
-**Slide 24:** We can think of patterns as "things users do again and again on our sites and services." A good way to think about a pattern is as a common interaction. When we say pattern, a reasonable synonym is interaction.
+**Slide 24:** We can think of patterns as "things users do again and again on our sites and services." A good way to think about a pattern is as a common interaction. When we say pattern, a reasonable synonym is: interaction.
 
 **Slide 25:** But this can seem a little abstract, so we've chosen a specific rubric for how to think of a pattern. A pattern completes the sentence, "Help a user to [blank]." And if you're thinking that this construction sounds a lot like a user story, it sure does. Patterns and user stories have significant conceptual overlap.
 
 **Slide 26:** Such as,
 
 Help a user to **enter their name**.
+
 Help a user to **review a complex form**.
+
 Help a user to **refine search results**.
+
 Help a user to **recover from an error**.
+
 Help a user to **make an appointment**.
+
 Help a user to **upload a document**.
+
 Help a user to **provide their race or ethnicity**.
 
 And, of course, what we'll see in just a moment: help a user to **select their preferred language**.
@@ -139,15 +145,15 @@ Successful patterns have a responsibility to be fair, equitable, respectful, and
 
 **Slide 30:** Meghan: As we discussed at the last monthly meeting, we did a lot of research to learn from our colleagues around the federal space, and hear from them what types of interactions they are wrestling with and would like USWDS to focus on. One that kept coming up was language selection. As more and more sites add languages other than English, and as specified in [Executive Order 13166](https://www.justice.gov/crt/executive-order-13166) Improving Access to Services for Persons with Limited English Proficiency, digital teams wanted effective solutions for helping users find their language of choice. Luckily, our colleagues in the Multilingual Community of Practice had already taken up this issue. In fact, they’d already drafted a pattern! Laura, can you tell us a little about what you did?
 
-**Slide 31:** Laura: Several of us from the Multilingual Community of Practice decided that this was an interaction that was a challenge for both individual sites and across the federal space. We formed a small team of people who’d been working in this space for a long time, and did a deep dive into the research associated with providing access to multiple languages.  The idea was to have a team that was small (so we could make timely decisions) but that included folks from different agencies that had different skillsets. That worked really well.
+**Slide 31:** Laura: Several of us from the Multilingual Community of Practice decided that this was an interaction that was a challenge for both individual sites and across the federal space. We formed a small team of people who’d been working in this space for a long time, and did a deep dive into the research associated with providing access to multiple languages. The idea was to have a team that was small (so we could make timely decisions) but that included folks from different agencies that had different skillsets. That worked really well.
 
-**Slide 32:** After doing a lot of individual research, we came together to share our findings and begin a debate.  And debate we did.  We all had strong opinions about our research and what we wanted to offer. And after a few rounds of discussions and visualizations we developed pattern guidance around presenting content in multiple languages. There were three main use cases: sites that have two languages (English and Spanish); sites that have three or more languages; and sites that have full content in two or three languages and some — selected — content in languages other than English. Our pattern addressed each of these scenarios.
+**Slide 32:** After doing a lot of individual research, we came together to share our findings and begin a debate. And debate we did. We all had strong opinions about our research and what we wanted to offer. And after a few rounds of discussions and visualizations we developed pattern guidance around presenting content in multiple languages. There were three main use cases: sites that have two languages (English and Spanish); sites that have three or more languages; and sites that have full content in two or three languages and some — selected — content in languages other than English. Our pattern addressed each of these scenarios.
 
 This slide shows a visual of these three scenarios. **Two languages** is shown with two similar web pages in two different colors. **Three or more languages** is shown with three similar web pages in three different colors. And **Selected content** is shown with a single page with four sections in four different colors.
 
 We think this language selection guidance is critical both because it solves a significant design challenge, and also because if everyone in the federal space solves it on their own, it will be inconsistent and confusing for the users. They won’t know how to find content in languages other than English, or even know where to look for this option.
 
-I often think of how we adapted to the menu on mobile devices.  One day we saw three little lines and didn’t have any idea what that meant.  But soon, we figured out that those 3 lines indicated the menu of that site where we could choose what we needed to do.  The same will happen with a consistent way to access content in languages other than English. Our goal is to point folks to this content by having a consistent way of doing this across the government. USWDS will help us get here.
+I often think of how we adapted to the menu on mobile devices. One day we saw three little lines and didn’t have any idea what that meant. But soon, we figured out that those 3 lines indicated the menu of that site where we could choose what we needed to do. The same will happen with a consistent way to access content in languages other than English. Our goal is to point folks to this content by having a consistent way of doing this across the government. USWDS will help us get here.
 
 Meghan?
 
@@ -162,7 +168,7 @@ Meghan?
 
 **Slide 35:** Let’s take a quick look at the “select from three or more languages” pattern — which is representative of what you can expect from each pattern. Each pattern has a guidance page, just like components. On the following slides, we’ll walk through a typical pattern guidance page and you’ll see different elements of the pattern highlighted on the next few pages.
 
-**Slide 36:** At the top of each pattern guidance page, you’ll see a description of the pattern. Each pattern includes a heading, along with a short lede, and a  summary of what the pattern is about, so you can decide if this is what you’re looking for. In this case the heading is “Three or more languages” and the lede is “Help a user choose from multiple available languages.” The summary expands on that, but references that this pattern is serving people with limited English proficiency when they are visiting a website available in three or more languages, like English, Spanish, and Arabic.
+**Slide 36:** At the top of each pattern guidance page, you’ll see a description of the pattern. Each pattern includes a heading, along with a short lede, and a summary of what the pattern is about, so you can decide if this is what you’re looking for. In this case the heading is “Three or more languages” and the lede is “Help a user choose from multiple available languages.” The summary expands on that, but references that this pattern is serving people with limited English proficiency when they are visiting a website available in three or more languages, like English, Spanish, and Arabic.
 
 **Slide 37:** Then each pattern will have some key information to make sure this pattern is appropriate for your use.
 
@@ -175,7 +181,7 @@ Meghan?
 - First, under “What to do,” we recommend placing the language menu button in the upper corner of the screen for consistency. If possible, flip the arrangement of the header for right-to-left languages. The language button should be positioned at the top right of the page for left-to-right languages and on the top left for right-to-left languages. There was lots of debate on this one. Generally, users of RTL languages expect the heading to be flipped from what we expect in English, and look for their utilities, including language selection, at the far end of their reading line, which is in the upper left. And that is where we landed in the recommendations, but are looking forward to more user testing to validate this.
 - We recommend making the language access buttons a single, independent element.
 - If you have a sticky or fixed header, include the language dropdown in the header so it remains visible and in the same position as the user scrolls.
-- Make sure you are taking the users to an equivalent page  —  if the entire site isn’t available in languages other than English, there’s another pattern to help you with that.
+- Make sure you are taking the users to an equivalent page — if the entire site isn’t available in languages other than English, there’s another pattern to help you with that.
 - Use the label “Languages” for the dropdown.
 - Capitalize the name of each language and use the common, native language name, such as Espanol or Francais. Use the native alphabet, too.
 - We’re not recommending including the English-language version of the language name in addition to the native language name, but if you have a specific use case, and have validated it with user testing, please do. For example, if you have a user group where a lot of the users will be helped by someone who doesn’t speak their language, you may need to include the English language version of the name next to the native name. Let user testing be your guide.
@@ -187,7 +193,7 @@ Now, for the don’ts:
 - Avoid auto-redirecting language based on detecting location or browser settings. This can be confusing and disorienting.
 - Finally, don’t combine this element with other navigation items.
 
-**Slide 39:** Then on each pattern, you’ll see a series of considerations  —  things to think about as you implement the pattern. For example,
+**Slide 39:** Then on each pattern, you’ll see a series of considerations — things to think about as you implement the pattern. For example,
 
 - Ensure there is adequate color contrast between all elements of the button.
 - If the text will be visually presented as a button but coded as a link, add the ARIA role=”button” so screen readers announce it as a button. You’ll also need JavaScript so that keyboard users can activate both the Enter and Spacebar keys. We’ve provided a link to the WCAG success criteria for more information.
