@@ -1,6 +1,4 @@
 ## A few parts of this project are not in the public domain
-[Font Awesome](http://fontawesome.io/) is by Dave Gandy. View the [Font Awesome Free license](https://github.com/FortAwesome/Font-Awesome/blob/master/LICENSE.txt).
-
 This project is built on dozens of dependencies, all with varying licenses. For a detailed overview of each of these licenses and their dependencies, you can review the packages in the package.json file in the root directory of this project.
 
 ## The rest of this project is in the public domain

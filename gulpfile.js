@@ -2,8 +2,7 @@
 const { parallel, series, src, watch } = require("gulp");
 
 // Import task functions
-const fa = require("./config/gulp/fontawesome"),
-  img = {
+const img = {
     prep: require("./config/gulp/img-prep"),
     process: require("./config/gulp/img-process"),
     upload: require("./config/gulp/img-upload"),
