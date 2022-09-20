@@ -2,12 +2,13 @@
 slug: improving-the-accessibility-of-social-media-in-government
 date: 2014-07-16 2:50:38 -0400
 title: Improving the Accessibility of Social Media in Government
-summary: "Government agencies are increasingly using social media to engage with citizens, share information and deliver services more quickly and effectively than ever before. But as social content, data and platforms become more diverse, agencies have a responsibility to ensure these digital services are accessible to all citizens, including people with disabilities."
+summary: "As social content, data and platforms become more diverse, agencies have a responsibility to ensure these digital services are accessible to all citizens, including people with disabilities."
 topics:
   - accessibility
   - social-media
 authors:
   - jherman
+
 ---
 
 Government agencies are increasingly using social media to engage with citizens, share information and deliver services more quickly and effectively than ever before. But as social content, data and platforms become more diverse, agencies have a responsibility to ensure these digital services are accessible to all citizens, including people with disabilities.
@@ -40,17 +41,13 @@ This same logic applies to social media. More and more organizations are using s
 
 So put simply, the accessibility of social media—or any product or IT offering—is everyone&#8217;s responsibility. And it is vital that the federal government promote accessibility in all of its technology efforts. After all, an effective and responsive government depends on citizen engagement as well as a diverse, well-prepared workforce. And both of these require access to information and technology.
 
-<h2 id="find" style="padding-top: 50px">
-  What You Will And Won&#8217;t Find in this Toolkit
-</h2>
+## What You Will And Won't Find in this Toolkit
 
 Below are tips on how to increase the accessibility of social media. These tips are meant to help social media content managers and other communication specialists ensure that their messages are reaching the largest audience, including those with disabilities. Social media is constantly changing and every day new products and applications are introduced. Although social media content managers may not be able to control the technology behind these tools, they need to stay abreast of accessibility and usability issues and continually test their content to ensure its accessibility. As social media changes, this document will continue to evolve to provide new tips and help address some of those issues.
 
 In addition, there are many ways users access and participate in social media. Though this toolkit is not meant to address the needs of social media users, we encourage users to be part of the conversation in order to provide guidance to those who are trying to effectively reach them.
 
-<h2 id="general" style="padding-top: 50px">
-  General Social Media Accessibility Tips
-</h2>
+## General Social Media Accessibility Tips
 
 Below are a set of recommended, baseline strategies to improve the accessibility of government social media.
 
@@ -62,9 +59,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
 4. Keep it simple. Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in #SocialGov), and limit your use of hashtags, abbreviations and acronyms. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read, including for those using a screen reader.
 5. Learn the accessibility requirements and periodically test your content for accessibility. Read the [Section 508 Standards](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) and the [Web Content Accessibility Guidelines (WCAG)](http://www.w3.org/TR/WCAG20/) 2.0 and other key resources that discuss them. Then test your social media content with a screen reader or other type of assistive technology.
 
-<h2 id="specific" style="padding-top: 50px">
-  Platform-Specific Social Media Accessibility Tips
-</h2>
+## Platform-Specific Social Media Accessibility Tips
 
 - [Tips for Making Facebook Updates Accessible](#facebook)
 - [Tips for Making Tweets Accessible](#tweets)
@@ -73,9 +68,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
 - [Tips for Making Blogs Accessible](#blogs)
 - [Tips for Making Other Social Media Platforms Accessible](#platforms)
 
-<h3 id="facebook" style="padding-top: 50px">
-  Tips for Making Facebook Updates Accessible
-</h3>
+### Tips for Making Facebook Updates Accessible
 
 - The federal government is full of acronyms. Don’t assume your audience is knowledgeable about all acronyms. Take advantage of the space Facebook provides and always spell out the first instance of the acronym and add the acronym, in parentheses after (e.g., Social Media Emergency Management (SMEM)). This is especially helpful for those using screen readers, because after the name is heard and the acronym is spelled out, the user will be better able to associate the sound of the acronym with the full name.
 - Add captions to photos to ensure that individuals will understand what is going on in the picture. The captions do not need to be very long, but they should describe what the scene is, and how elements of the image appear and provide context for the image.
@@ -84,9 +77,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
     - Facebook’s Accessibility Team’s Facebook Page &#8211; <http://www.facebook.com/help/141636465971794>
     - Facebook’s Accessibility Team’s Twitter Account &#8211; <https://twitter.com/fbaccess>
 
-<h3 id="tweets" style="padding-top: 50px">
-  Tips for Making Tweets Accessible
-</h3>
+### Tips for Making Tweets Accessible
 
 - If your tweet links to photo, video or audio content, make your tweet act as a descriptive caption so it provides context for the item, and then link back to a website page that hosts a tagged photo, captioned video or audio with full caption.
 - Consider proving an indication that a link in a tweet is a photo, video or audio file (e.g. [PIC], [VIDEO], [AUDIO]). This allows people using screen readers to know what to expect before opening any link. Use uppercase formats for further clarity to sighted users.
@@ -102,9 +93,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
 > Did you know #a11y is short for accessibility? “a11y” is a numeronym (number-based abbreviation) for “accessibility.” The 11 is a stand-in for the 11 characters that would normally be seen between the “a” and the “y”. For those of you with computer-science/IT backgrounds, you might recognize other numeronyms such as “i18n” for “internationalization” or “l10n” for “localization.” Source: http://www.a11ylab.com/what-exactly-does-a11y-stand-for/
 > Remember that infographics are, by their very nature, pictures. If you decide to link to an infographic, make sure that you adequately describe all of the content with text. Just remember to use plain language and be concise in your descriptions. Also make sure that the infographic itself is easy for readers, including those with cognitive disabilities, to interpret. In other words, make sure that the infographic is not overly complicated to understand and navigate. Avoid: complex layout and flow that require the reader to follow too many lines or arrows connecting one piece of content to another; excessive images and text; and wide variation and insufficient contrast in the color scheme.
 
-<h3 id="youtube" style="padding-top: 50px">
-  Tips for Making YouTube Videos Accessible
-</h3>
+### Tips for Making YouTube Videos Accessible
 
 - Ensure all videos have closed captions and audio description (or a link to a version that has audio descriptions). In addition, a full transcript (of captions and audio description) is useful for people who have both hearing and visual impairments including those who are deaf-blind. YouTube has a feature that will automatically caption videos less than 10 minutes in length. To increase accuracy of the YouTube machine translation, have very clear-spoken words and little background noise. However, since YouTube automatic captioning is still in Beta and can be very inaccurate, prepare your own accurate transcript and upload it whenever possible.
 - Descriptive language needs to be used in video captioning to denote audio and visual elements to users who may have visual or hearing disabilities. Make sure to use easy-to-understand language in your descriptions.
@@ -122,17 +111,13 @@ Below are a set of recommended, baseline strategies to improve the accessibility
 - Note that good captions are not just a transcript of what is said in the video. It is also important to describe sounds, particularly sounds for which there is no visual equivalent (e.g., if someone in a video is giving a talk, and the viewer can&#8217;t see that the audience is laughing, the captions should say that people are laughing). Tone of voice is also important to note, particularly if not obvious from a person&#8217;s facial expression (or if the person&#8217;s face can&#8217;t be seen). A lot of meaning and information can get lost by certain viewers with hearing or cognitive impairments if they are not made aware of sounds, tone of voice, etc.; the way the meaning of spoken content is interpreted can completely change based on this information. Knowing that the background music is cheery, for example, helps signal that the producers mean for the scene to be viewed in a light way and can help shape viewers’ expectations for the kinds of things that will follow. Someone saying &#8220;I&#8217;m doing great&#8221; in a sarcastic tone clearly means something very different from someone saying it in a casual or light tone.
 - The YouTube player on the YouTube site is not fully keyboard accessible (e.g., it can be impossible or very difficult for a user with a motor disability to turn on captions without a mouse). Therefore, if possible, it is beneficial to also embed any YouTube videos on a site that uses an accessible YouTube player wrapper and have captions enabled by default.
 
-<h3 id="vine" style="padding-top: 50px">
-  Tips for Making Vine Posts Accessible
-</h3>
+### Tips for Making Vine Posts Accessible
 
 - Remember that in addition to including captioning for individuals who are deaf or hard of hearing, information that is conveyed visually needs to include descriptive text readable by screen readers for individuals who are blind or who have low or limited vision.
 - Upon uploading a video clip, add a transcript to cover spoken and visual action to Vine&#8217;s “description” field.
 - Alternatively, Vine videos can be embedded in a website where they can be captioned and described. Closed-caption can be embedded Vine video on your website using a tool like the [JW Player](http://www.longtailvideo.com/support/forums/jw-player/feature-suggestions/32592/support-for-vine-videos#comment-182152).
 
-<h3 id="blogs" style="padding-top: 50px">
-  Tips for Making Blogs Accessible
-</h3>
+### Tips for Making Blogs Accessible
 
 - Set up your blog on an appropriate blogging platform. [WordPress](https://wordpress.com/) and [Blogger](https://www.blogger.com/) are two of the most popular options for bloggers because they are easy to customize. WordPress offers many free plugins and allows you to host a page on your own server, giving you more freedom to customize the software for accessibility.
     - For more information on WordPress’ accessibility, visit the Codex – <http://codex.wordpress.org/Accessibility>
@@ -145,9 +130,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
 - Keep your writing simple. Use plain language and write in the active voice. Break up long paragraphs into smaller chunks of text.
 - Although [Tumblr](http://tumblr.com/) is considered a popular micro-blogging and social media tool, many users with disabilities find it difficult to navigate, but there are some ways to help make this easier. Tumblr is image-heavy, so as with all Web content, alternative text should be used. Many users suggest posting images using the text post option, rather than the image post option. In the image option, any text entered as a caption is read twice by screen readers. The use of GIFs on the site can also be difficult for individuals with sensitivities to flashes. Either limit their use or make sure than any visual element that blinks or flashes at a rate more than three flashes per second is small enough to only cover a quarter of an individual’s field of vision.
 
-<h3 id="platforms" style="padding-top: 50px">
-  Tips for Making Other Social Media Platforms Accessible
-</h3>
+### Tips for Making Other Social Media Platforms Accessible
 
 - Depending on your social media strategy, you may want to use other platforms such as [LinkedIn](https://www.linkedin.com/), [Pinterest](http://www.pinterest.com/) or [Instagram](http://instagram.com/) to connect with constituents.
 - LinkedIn focuses on professional contacts and also allows users to collaborate and share articles and ideas through its group message boards. Your LinkedIn profile should have a clear image to accompany your name so users can distinguish you from other potential contacts with a similar name or brand.
@@ -156,9 +139,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
 - Instagram is a mobile photo- and video-sharing service where users take images or videos, apply digital filters and have the ability to share them on the application itself and on a wide variety of social networking services. Although Instagram does not allow images and videos to have alternative text, users should provide a detailed caption explaining the image. Use Camel Case for multiple words within a hashtag.
 - As with Vine videos, Instagram videos should have captions and a transcript. For more information on video accessibility, read the Tips for Making YouTube Videos Accessible and Tips for Making Vine Posts Accessible.
 
-<h3 id="additional" style="padding-top: 50px">
-  Additional Resources
-</h3>
+### Additional Resources
 
 **Resources recommended by the Community of Practice:**
 
@@ -191,17 +172,12 @@ Digital Government University (DGU) offers a series of trainings based on these 
 - [WAVE Accessibility Testing](http://wave.webaim.org/)
 - [W3 Web Accessibility Initiative](http://www.w3.org/WAI/)
 
-<h2 id="provide" style="padding-top: 50px">
-  How To Provide Feedback Or Contribute Content To This Toolkit
-</h2>
+## How To Provide Feedback Or Contribute Content To This Toolkit
 
 The recommendations in this Toolkit are presented in a “living, open document” designed to progressively evolve based on continuous feedback from all areas of social enterprise, as new methods and tools become available. Agencies, organizations and citizens are encouraged to expand this content by adding recommendations and new tools and tips. They are the beginning of a shared inter-agency approach to this emerging field—one that will allow agencies to collectively advance toward better accessibility to public services through social programs for citizens.
 
 Please provide your ideas for evolving these guidelines and continuing the dialogue so government can further improve the accessibility of social media and deliver better and more cost-efficient services.
 
-Ways to provide feedback and engage on this topic:
+Ways to engage on this topic:
 
-- Use the commenting tool at the bottom of this page to share your comments and suggest additional content, examples or case studies.
-- Subscribe to [email updates about this Toolkit](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_39)
 - Join the [Federal Social Media Community of Practice]({{< ref "communities/social-media.md" >}} "Social Media")
-- [email us](mailto:justin.herman@gsa.gov)
