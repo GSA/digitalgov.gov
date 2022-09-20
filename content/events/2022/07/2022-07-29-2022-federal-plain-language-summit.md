@@ -45,7 +45,7 @@ On August 24, 2022, the [Plain Language Community of Practice (CoP)](https://dig
 
 ## 2022 Plain Language Agenda
 
-{{< accordion kicker="10:30 am - 12:15 pm, ET" title="Morning Sessions" icon="fas fa-copy" >}}
+{{< accordion kicker="10:30 am - 12:15 pm, ET" title="Morning Sessions" icon="content_copy" >}}
 ## 10:30 am - 10:40 am, ET<br />Opening Remarks: Plain Language CoP Co-Chairs Katherine Spivey and Katina Stapleton
 
 ---
@@ -92,7 +92,7 @@ In this session you will hear from the following speaker:
 
 {{< /accordion >}}
 
-{{< accordion kicker="12:30 - 3:45 pm, ET" title="Afternoon Sessions" icon="fas fa-copy" >}}
+{{< accordion kicker="12:30 - 3:45 pm, ET" title="Afternoon Sessions" icon="content_copy" >}}
 ## 12:30 pm - 1:00 pm, ET<br />Help Them See the Light: Strategies for Training Feds to Use Plain Writing
 
 The presentation highlights how we use examples of our agency's own internal memos, emails, and other communication pieces as a powerful plain writing training strategy. Showing lots of “before-and-after” examples of the kinds of pieces we see every day around the agency helps federal employees understand that plain writing isn’t about oversimplifying for a low-literacy public – it’s a research-based science that helps EVERYONE get better results.

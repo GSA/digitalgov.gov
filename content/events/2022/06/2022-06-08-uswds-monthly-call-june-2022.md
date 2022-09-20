@@ -24,7 +24,7 @@ primary_image: "uswds-june-2022-monthly-call-title-card"
 
 [View the slides (PowerPoint, 4.8 MB, 42 pages)](https://digital.gov/files/uswds-monthly-call-june-2022.pptx)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for June 2022" icon="fas fa-copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for June 2022" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 

@@ -174,7 +174,7 @@ The overarching name of the site is Digital.gov. You may see references to “Di
 
 ## Logos
 
-{{< accordion title="Expand for digital.gov logo images" icon="fas fa-paint-brush" >}}
+{{< accordion title="Expand for digital.gov logo images" icon="edit" >}}
 {{< asset-img path="/img/digitalgov-logo.png" alt="" width="220" >}}
 {{< asset-img path="/img/digitalgov-logo.svg" alt="" width="220" >}}
 {{< asset-img path="/img/digitalgov-logo-small.png" alt="" width="100" >}}

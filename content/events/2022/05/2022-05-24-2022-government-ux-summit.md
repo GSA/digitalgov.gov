@@ -37,7 +37,7 @@ The summit is virtual and all times are Eastern. Presentations will begin at 11:
 
 Please find the agenda and descriptions of each session below. We will begin adding some of the video clips in July.
 
-{{< accordion kicker="Day 1" title="Tuesday, June 7, 2022 | 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 1" title="Tuesday, June 7, 2022 | 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
 ## 11:00 am - 11:10 am, ET<br />Opening Remarks: Chief Innovation Officer, Chike Aguh, Department of Labor
 
 ---
@@ -143,7 +143,7 @@ In this session you will hear from the following speakers:
 
 ---
 
-{{< accordion kicker="Day 2" title="Wednesday, June 8, 2022 | 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 2" title="Wednesday, June 8, 2022 | 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
 ## 11:00 am - 12:00 pm, ET<br />The Business Case for Innovation
 
 [View the slides (PowerPoint, 3.27 MB, 26 pages)](https://digital.gov/files/business-case-for-innovation-ux-summit-22.pptx)

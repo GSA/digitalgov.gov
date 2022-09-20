@@ -7,7 +7,11 @@
       title="View {{ .Get "name" | plainify -}}"
       aria-expanded="false"
       aria-controls="card-policy-{{- .Page.Scratch.Get "count" -}}">
-      <span class="scroll"><i class="fas fa-scroll"></i></span>
+      <span class="scroll">
+        <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+          <path d="M16 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V8l-5-5zM7 7h5v2H7V7zm10 10H7v-2h10v2zm0-4H7v-2h10v2zm-2-4V5l4 4h-4z"/>
+        </svg>
+      </span>
       <span class="src">
         {{ if (.Get "kicker") -}}<strong class="kicker">{{- .Get "kicker" -}}</strong>{{- end -}}
         {{- .Get "title" | markdownify }}
@@ -19,7 +23,12 @@
   <div id="card-policy-{{- .Page.Scratch.Get "count" -}}" class="card-policy-body usa-accordion__content usa-prose">
     {{- .Inner | markdownify -}}
 
-    <a class="src" href="{{- .Get "src" }}" title="View {{ .Get "name" | plainify -}}">View the full legislation <i class="fas fa-arrow-right"></i></a>
+    <a class="src" href="{{- .Get "src" }}" title="View {{ .Get "name" | plainify -}}">
+      View the full legislation 
+      <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use>
+      </svg>
+    </a>
   </div>
   {{- end -}}
 

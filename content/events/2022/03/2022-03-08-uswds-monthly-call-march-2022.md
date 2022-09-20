@@ -25,7 +25,7 @@ primary_image: uswds-monthly-call-march-title-card
 
 [View the slides (PowerPoint, 3.33 MB, 30 pages)](https://digital.gov/files/uswds-monthly-call-march-2022.pptx)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for March 2022" icon="fas fa-copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for March 2022" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for March 2022 — in fact, St Patrick's Day, 2022. And, for March we've got an emerald-hued logo. 
 

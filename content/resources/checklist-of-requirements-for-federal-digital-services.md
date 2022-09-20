@@ -35,7 +35,13 @@ These high-level policies cover basic requirements for all websites and digital 
 - See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
 - See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist)
 
-<p class="more"><a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more">
+  <a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA 
+    <svg class="dg-icon dg-icon__margin-bottom-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
+    </svg>
+  </a>
+</p>
 
 ## Accessibility / Section 508
 
@@ -47,7 +53,13 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 - [Overview of Section 508 and related laws](https://www.section508.gov/content/learn/laws-and-policies)
 - [Governmentwide Section 508 Strategic Plan (2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)
 
-<p class="more"><a href="{{< ref "/topics/accessibility" >}}">More on Accessibility <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more">
+  <a href="{{< ref "/topics/accessibility" >}}">More on Accessibility
+    <svg class="dg-icon dg-icon__margin-bottom-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
+    </svg>
+  </a>
+</p>
 
 ## Analytics
 
@@ -59,7 +71,13 @@ Understand customer needs, set performance standards, collect and address custom
     - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
 
 
-<p class="more"><a href="{{< ref "/topics/metrics" >}}">More on Metrics <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more">
+  <a href="{{< ref "/topics/metrics" >}}">More on Metrics 
+    <svg class="dg-icon dg-icon__margin-bottom-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
+    </svg>
+  </a>
+</p>
 
 ## Coordination During Incidents of National Significance
 
@@ -88,7 +106,13 @@ Understand the needs of your customers, collect and address customer feedback, a
 - See all [Government Customer Service Policies and Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
 - [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
 
-<p class="more"><a href="{{< ref "/topics/cx" >}}">More on Customer Experience <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more">
+  <a href="{{< ref "/topics/cx" >}}">More on Customer Experience
+    <svg class="dg-icon dg-icon__margin-bottom-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
+    </svg>
+  </a>
+  </p>
 
 ## Design
 
@@ -99,7 +123,13 @@ Follow current government design standards when creating new websites or making 
 
 - [Website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
 
-<p class="more"><a href="{{< ref "/topics/design" >}}">More on Design <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more">
+  <a href="{{< ref "/topics/design" >}}">More on Design 
+    <svg class="dg-icon dg-icon__margin-bottom-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
+    </svg>
+  </a>
+</p>
 
 ## Domains
 
@@ -151,7 +181,13 @@ Establish a digital governance structure to provide accountability and enforce p
 - [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
 - [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012) (requirement 4.2)
 
-<p class="more"><a href="{{< ref "/topics/governance" >}}">More on Governance <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more">
+  <a href="{{< ref "/topics/governance" >}}">More on Governance
+    <svg class="dg-icon dg-icon__margin-bottom-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
+    </svg>
+  </a>
+</p>
 
 ## Information Quality
 
@@ -173,7 +209,14 @@ Improve priority customer facing services for mobile use. Shift to an enterprise
 
 - [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 
-<p class="more"><a href="{{< ref "/topics/mobile" >}}">More on Mobile <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more">
+  <a href="{{< ref "/topics/mobile" >}}">
+    More on Mobile
+    <svg class="dg-icon dg-icon__margin-bottom-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
+    </svg>
+  </a>
+</p>
 
 ## Multilingual Websites
 
@@ -183,7 +226,14 @@ Comply with the requirements of Executive Order 13166, based on Title VI of the 
 - [Dept. of Justice Memo Reaffirming the Mandates of EO 13166]({{< ref "/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166.md" >}})
 - [Federal Agency LEP Guidance](http://www.justice.gov/crt/lep/guidance/guidance_index.html) (Dept. of Justice)
 
-<p class="more"><a href="{{< ref "/topics/multilingual" >}}">More on Multilingual <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more">
+  <a href="{{< ref "/topics/multilingual" >}}">
+    More on Multilingual 
+    <svg class="dg-icon dg-icon__margin-bottom-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
+    </svg>
+  </a>
+</p>
 
 ## Open Government/Data/Content
 

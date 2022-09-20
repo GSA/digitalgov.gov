@@ -28,13 +28,29 @@ additional text goes here...
 
 <div class="note {{ if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
-    <h4><i class="fas fa-cubes"></i> Activity</h4>
+    <h4>
+      <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/uswds/img/sprite.svg#assessment"></use>
+      </svg> Activity
+    </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
-    <h4><i class="fas fa-exclamation-circle"></i> Alert</h4>
+    <h4>
+      <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/>
+      </svg> Alert
+    </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
-    <h4><i class="fas fa-comment-alt fa-flip-horizontal"></i> Comment</h4>
+    <h4>
+      <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use>
+      </svg> Comment
+    </h4>
   {{- else -}}
-    <h4><i class="far fa-bell"></i> Note</h4>
+    <h4>
+      <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/uswds/img/sprite.svg#notifications"></use>
+      </svg> Note
+    </h4>
   {{- end -}}
 
   {{- .Inner | markdownify -}}

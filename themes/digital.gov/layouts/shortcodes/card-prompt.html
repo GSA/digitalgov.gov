@@ -46,7 +46,9 @@ If not, it will not render the shortcode.
   {{- if (.Get "intro") -}}
     <div class="intro">
       <div class="icon">
-        <i class="fas fa-comment-alt fa-flip-horizontal"></i>
+        <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="/uswds/img/sprite.svg#comment"></use>
+        </svg>
       </div>
       {{/* output the intro with markdownify */}}
       <p>{{ .Get "intro" | markdownify -}}</p>

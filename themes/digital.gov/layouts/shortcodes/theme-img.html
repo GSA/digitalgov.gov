@@ -6,7 +6,14 @@
 
 <div class="theme-img {{ if .Get "bg" -}}{{- .Get "bg" -}}{{- end -}}">
   <img src="{{- $path | relURL -}}" alt="{{- .Get "alt" -}}" {{ if .Get "width" -}}width="{{- .Get "width" -}}"{{- end -}}>
-  <p><strong class="ext">{{- path.Ext $path }}</strong> {{- path.Base $path }} <a class="download" href="{{- path.Base $path | relURL -}}"><i class="fas fa-file-download"></i> <span>download</span></a>
+  <p>
+    <strong class="ext">{{- path.Ext $path }}</strong> {{- path.Base $path }} 
+    <a class="download" href="{{- path.Base $path | relURL -}}">
+      <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/uswds/img/sprite.svg#file_download"></use>
+      </svg>
+      <span>download</span>
+    </a>
   </p>
 </div>
 

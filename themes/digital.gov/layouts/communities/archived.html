@@ -9,7 +9,14 @@
           {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
 
-            <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></p>
+            <p class="breadcrumb">
+              <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">
+                <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="/uswds/img/sprite.svg#arrow_back"></use>
+                </svg>
+                <span>{{ .Parent.Title }}</span>
+              </a>
+            </p>
             {{/* Page Title */}}
             <h1>{{ .Title | markdownify }} Community <span class="text-red text-normal">(No longer active)</span></h1>
           </div>
