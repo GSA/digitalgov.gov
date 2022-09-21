@@ -82,6 +82,6 @@ During our discussion, panelists from the U.S. General Services Administration (
 * Website: https://www.section508.gov
 * Email: Section.508@gsa.gov
 
-## About the IT Accessibility and Section 508 Community of Practice (CoP)
+---
 
-The [IT Accessibility and Section 508 CoP](https://digital.gov/communities/it-accessibility-section-508/) is a group of federal employees who manage agency Section 508 programs or create electronic content. They work to create accessible online experiences for federal employees and members of the public.
+*The [IT Accessibility and Section 508 CoP](https://digital.gov/communities/it-accessibility-section-508/) is a group of federal employees who manage agency Section 508 programs or create electronic content. They work to create accessible online experiences for federal employees and members of the public.*
