@@ -62,4 +62,6 @@ We’re a group of  plain language practitioners from federal government agencie
 
 - [Plain Writing Act of 2010](https://www.plainlanguage.gov/law/)
 - [Federal Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/)
-- [2020 Plain Language CoP Summit](https://digital.gov/event/2020/10/27/plain-language-summit-2020/)
+- [2022 Federal Plain Language Summit](https://digital.gov/event/2022/08/24/2022-federal-plain-language-summit/)
+- [2021 Federal Plain Language Summit](https://digital.gov/event/2021/09/21/2021-federal-plain-language-summit/)
+- [2020 Federal Plain Language Summit](https://digital.gov/event/2020/10/27/plain-language-summit-2020/)
