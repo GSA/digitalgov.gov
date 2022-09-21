@@ -21,11 +21,12 @@ authors:
   - toni-bonitto
 
 # primary Image (for social media)
-primary_image: "accessibility-101-card"
+primary_image: "accessibility-101-title-card"
 
 aliases:
   - /resources/intro-accessibility
 # Make it better ♥
+
 ---
 
 This is the start of a conversation that we hope continues throughout your time in government.
