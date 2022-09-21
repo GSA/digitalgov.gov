@@ -34,7 +34,7 @@ Panelists shared their experiences, lessons learned, and best practices for what
 
 ## 4 Takeaways for Measuring Effectiveness
 
-Panelists provided four tips for measuring the effectiveness of your campaings and outreach:
+Panelists provided four tips for measuring the effectiveness of your campaigns and outreach:
 
 1. Measuring effectiveness requires setting KPIs (key performance indicators) early on, and reviewing them often in conjunction with the program and the action that is expected from the audience. These KPIs should be channel-specific, i.e., social media engagement, which is good to measure a tactic. But measurement of program success needs to have holistic KPIs as well i.e., audience reached or net new reach, or actions on the website to truly measure the impact on the American public.
 
