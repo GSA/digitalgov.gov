@@ -14,7 +14,7 @@ December 2021 — [Executive Order on Transforming Federal Customer Experience a
 
 August 2021 — [OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)
 
-December 2018 - [21st Century Integrated Digital Experience Act (21st Century IDEA)]([url](https://digital.gov/resources/21st-century-integrated-digital-experience-act/))
+December 2018 - [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)
 
 May 2016 — <a href="https://www.gao.gov/products/GAO-16-509" target="_blank" rel="noopener noreferrer">GAO Report GAO-16-509</a>
 
