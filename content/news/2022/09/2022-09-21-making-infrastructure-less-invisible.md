@@ -4,11 +4,11 @@ source_url: https://home.dotgov.gov/updates/2022/9/14/making-infrastructure-less
 source: ""
 date: 2022-09-14 15:09:00 -0500
 title: Making infrastructure less invisible
-deck: Making infrastructure less invisible. Over the last year, there’s been a
+deck: **Making infrastructure less invisible**&mdash;Over the last year, there’s been a
   constant stream of activity at the .gov registry, but most of it hasn’t been
   on display. This post highlights some of the work to make .gov the most
   boringly secure, conventionally unconventional domain for governments.
-summary: Making infrastructure less invisible. Over the last year, there’s been
+summary: **Making infrastructure less invisible**&mdash;Over the last year, there’s been
   a constant stream of activity at the .gov registry, but most of it hasn’t been
   on display. This post highlights some of the work to make .gov the most
   boringly secure, conventionally unconventional domain for governments.
