@@ -4,11 +4,11 @@ source_url: https://18f.gsa.gov/2022/09/12/creating-a-culture-of-innovation/
 source: 18f
 date: 2022-09-12 10:10:00 -0500
 title: Creating a culture of innovation at your agency
-deck: Creating a culture of innovation at your agency. When we talk about
+deck: **Creating a culture of innovation at your agency**&mdash;When we talk about
   “innovation” in government tech, what do we mean? During a recent project, 18F
   partnered with a government innovation lab to help them understand the impact
   innovation can have at their organization.
-summary: Creating a culture of innovation at your agency. When we talk about
+summary: **Creating a culture of innovation at your agency**&mdash;When we talk about
   “innovation” in government tech, what do we mean? During a recent project, 18F
   partnered with a government innovation lab to help them understand the impact
   innovation can have at their organization.
