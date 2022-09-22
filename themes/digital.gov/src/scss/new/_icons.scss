@@ -1,3 +1,5 @@
+
+// overrides usa-icon with different width and height
 .dg-icon {
   display: inline-block;
   fill: currentColor;
@@ -7,15 +9,8 @@
   vertical-align: middle;
 }
 
-.dg-icon__margin-bottom-4 {
-  margin-bottom: 4px;
-}
-
-.dg-icon__margin-bottom-2 {
-  margin-bottom: 2px;
-}
-
-.dg-icon__large {
+// replace __ with -- and use rems
+.dg-icon--large {
   display: inline-block;
   fill: currentColor;
   height: 26px;
@@ -24,11 +19,11 @@
   vertical-align: middle;
 }
 
-.dg-icon__extra-large {
-    display: inline-block;
-    fill: currentColor;
-    height: 30px;
-    position: relative;
-    width: 30px;
-    vertical-align: middle;
-  }
+.dg-icon--extra-large {
+  display: inline-block;
+  fill: currentColor;
+  height: 30px;
+  position: relative;
+  width: 30px;
+  vertical-align: middle;
+}

@@ -28,6 +28,7 @@ exports.copyUswdsJs = styles.copyUswdsJs;
 exports.copyUswdsFonts = styles.copyUswdsFonts;
 exports.copyUswdsAssets = parallel(styles.copyUswdsImages, styles.copyUswdsJs, styles.copyUswdsFonts);
 exports.buildAssets = parallel(styles.buildSass, scripts.compile);
+exports.buildSass = styles.buildSass;
 exports.img = series(img.prep.do, img.process.do, img.upload.do);
 exports.watch = gulpWatch;
 exports.default = series(styles.buildSass, gulpWatch);

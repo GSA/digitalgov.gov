@@ -1,7 +1,7 @@
 <section class="stage stage-zoom">
   <div class="icon">
     <p>
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
         <path d="M20 18c1.1 0 1.99-.9 1.99-2L22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2H0v2h24v-2h-4zM4 6h16v10H4V6z"/>
       </svg>
     </p>
@@ -12,8 +12,8 @@
     {{- if .Params.captions -}}
     <p>
       <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{ .Title -}}"><strong>
-        <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="/uswds/img/sprite.svg#closed_caption"></use>
+        <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#closed_caption"></use>
         </svg>
         <span>View captions</span></strong>
       </a>

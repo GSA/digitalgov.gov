@@ -18,8 +18,8 @@
         <div class="grid-row">
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
             <p class="breadcrumb"><a href="{{- "events/" | absURL -}}">
-              <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="/uswds/img/sprite.svg#arrow_back"></use>
+              <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#arrow_back"></use>
               </svg>
               <span>All Events</span> </a>
             </p>
@@ -33,8 +33,8 @@
             {{- end -}}
 
             <p class="datetime">
-              <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="/uswds/img/sprite.svg#calendar_today"></use>
+              <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#calendar_today"></use>
               </svg>
               {{ with .Date }}
               {{ . | dateFormat "Monday, January 02, 2006" }}
@@ -70,8 +70,8 @@
             <a [attr.aria-label]="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
             <span class="addtocalendar">
               <a class="atcb-link" title="Add to calendar">
-                <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                  <use xlink:href="/uswds/img/sprite.svg#event"></use>
+                <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#event"></use>
                 </svg> Add to Cal
               </a>
               <var class="atc_event">
@@ -173,8 +173,8 @@
 
                 <span class="addtocalendar">
                   <a class="atcb-link" title="Add to calendar">
-                    <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                      <use xlink:href="/uswds/img/sprite.svg#event"></use>
+                    <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                      <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#event"></use>
                     </svg> Add to Cal
                   </a>
                   <var class="atc_event">

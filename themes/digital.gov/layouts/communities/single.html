@@ -11,8 +11,8 @@
 
             <p class="breadcrumb">
               <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">
-                <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                  <use xlink:href="/uswds/img/sprite.svg#arrow_back"></use>
+                <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                  <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#arrow_back"></use>
                 </svg>
                <span>{{ .Parent.Title }}</span>
               </a>
@@ -110,14 +110,14 @@
                     */}}
                     {{- if $e.members -}}
                       <p class="members">
-                        <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                          <use xlink:href="/uswds/img/sprite.svg#person"></use>
+                        <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                          <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#person"></use>
                         </svg>
                         {{ $e.members }} members
                       {{- if $e.emails_per_week }}
                        <br/>
-                       <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                        <use xlink:href="/uswds/img/sprite.svg#envelope"></use>
+                       <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#envelope"></use>
                       </svg>
                        Avg. {{ $e.emails_per_week }} emails per week{{- end -}}
                       </p>

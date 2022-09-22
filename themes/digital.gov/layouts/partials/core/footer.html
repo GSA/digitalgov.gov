@@ -3,9 +3,7 @@
     <div class="grid-row">
       <div role="navigation" class="grid-col-auto">
         <a href="#"><span>Return to top</span>
-          <svg class="dg-icon" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-            <path d="M12 20c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8m0 2c5.52 0 10-4.48 10-10S17.52 2 12 2 2 6.48 2 12s4.48 10 10 10zm-1-10v4h2v-4h3l-4-4-4 4h3z"/>
-          </svg>
+          <img src="{{- .Site.BaseURL -}}/uswds/img/material-icons/arrow_circle_up.svg" alt="" class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
         </a>
       </div>
     </div>
@@ -53,32 +51,33 @@
               <h4 class="usa-footer__primary-link">Social</h4>
               <ul class="usa-list usa-list--unstyled social-links">
                 <li class="usa-footer__secondary-link">
-                  <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                    <use xlink:href="/uswds/img/sprite.svg#twitter"></use>
+                  <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#twitter"></use>
                   </svg>
                   <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://twitter.com/digital_gov">Twitter</a>
                 </li>
                 <li class="usa-footer__secondary-link">
-                  <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                    <use xlink:href="/uswds/img/sprite.svg#facebook"></use>
+                  <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#facebook"></use>
                   </svg>
                   <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://www.facebook.com/digitalgov/">Facebook</a>
                 </li>
                 <li class="usa-footer__secondary-link">
-                  <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                    <use xlink:href="/uswds/img/sprite.svg#youtube"></use>
+                  <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#youtube"></use>
                   </svg>
                   <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://youtube.com/digitalgov">YouTube</a>
                 </li>
                 <li class="usa-footer__secondary-link">
-                  <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-                    <use xlink:href="/uswds/img/sprite.svg#rss_feed"></use>
+                  <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#rss_feed"></use>
                   </svg>
                   <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="{{- "/" | relURL -}}index.xml">RSS</a>
                 </li>
                 <li class="usa-footer__secondary-link">
-                  <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                    <path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0-8 4.99L4 6h16zm0 12H4V8l8 5 8-5v10z"/>
+                  <!-- <img src="{{- .Site.BaseURL -}}/uswds/img/material-icons/mail_outline.svg" alt="" class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img"> -->
+                  <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#mail_outline"></use>
                   </svg>
                   <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="mailto:digitalgov@gsa.gov">Email us</a>
                 </li>

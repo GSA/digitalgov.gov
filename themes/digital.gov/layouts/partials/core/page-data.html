@@ -14,8 +14,8 @@ Here are values that are passed in through the partial:
 
 <div id="page-data" class="branch-{{- .branch -}}" name="page-data">
   <p class="feedback-copy">
-    <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-      <use xlink:href="/uswds/img/sprite.svg#help"></use>
+    <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#help"></use>
     </svg>
     {{ if .prompt -}}{{- .prompt -}}{{- else -}}
       Have feedback or questions?

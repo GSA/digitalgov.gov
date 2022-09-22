@@ -20,7 +20,7 @@
           <a class="youtube" href="https://www.youtube.com/watch?v={{- .Params.youtube_id -}}" title="Watch on YouTube">
             <strong>
               <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="/uswds/img/sprite.svg#youtube"></use>
+                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#youtube"></use>
               </svg>
               <span>Watch on YouTube</span>
             </strong>
@@ -30,7 +30,7 @@
           <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{ .Title -}}">
             <strong>
               <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="/uswds/img/sprite.svg#closed_caption"></use>
+                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#closed_caption"></use>
               </svg>
               <span>View captions</span>
             </strong>
@@ -41,8 +41,8 @@
       <div class="grid-col-12 tablet:grid-col-3">
         <div class="event-tools">
           <p class="notice">
-            <svg class="dg-icon dg-icon__margin-bottom-4" aria-hidden="true" focusable="false" role="img">
-              <use xlink:href="/uswds/img/sprite.svg#flag"></use>
+            <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+              <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#flag"></use>
             </svg>
             You'll need to sign in to Google to chat. All chats will be archived alongside the video.
           </p>
