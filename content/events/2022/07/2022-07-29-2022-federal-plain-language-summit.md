@@ -128,6 +128,8 @@ In this session you will hear from the following speaker:
 
 * **Laura Rabuck** &mdash; Research Health Science Specialist / Lead Content Strategist, United States Department of Veterans Affairs (VA)
 
+{{< youtube tfjKAYKLnvg >}}
+
 ---
 
 ## 1:30 pm - 2:00 pm, ET<br />Instruction on Setting up Context for Technical Details: Addition to an Agency’s PL Training
