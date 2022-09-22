@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/accessibility-101-title-card.png
+
+# Image shortcode: {{< img src="accessibility-101-title-card" >}}
+
+date     : 2022-09-16 15:43:08 -0400
+uid      : accessibility-101-title-card
+width    : 960
+height   : 540
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A title card, with a dark blue background and small circles in various colors along the right edge, has three lines of text on the left. At the top, in small, bold white text, it says, Technology Transformation Services (TTS) Accessibility Guild. The title line, Introduction to Accessibility, is in large yellow text. A short summary in white text says, Be it permanent, temporary, or situational, everyone experiences some form of disability—and the work of correcting our environments to be more accessible, benefits everyone. The white Digital.gov logo appears below the text." 
