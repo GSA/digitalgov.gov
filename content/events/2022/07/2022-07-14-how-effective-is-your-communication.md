@@ -25,6 +25,8 @@ primary_image: "fcn-07-26-2022-effective-communication"
 
 ---
 
+[Read the Event Recap](https://digital.gov/2022/09/15/webinar-recap-how-to-measure-effectiveness-of-your-digital-outreach-and-communications/)
+
 Join us for a panel discussion on measuring your communications and outreach programs and efforts. Panelists include federal employees from the Federal Deposit Insurance Corporation (FDIC) and the Department of State.
 
 In this session, you will gain insight into how these agencies:
