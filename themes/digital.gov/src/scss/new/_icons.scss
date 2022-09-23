@@ -4,38 +4,36 @@ $standard: 1.25rem;
 $large: 1.625rem;
 $extra-large: 1.875rem;
 
-.dg-icon--small {
+@mixin base-icon {
   display: inline-block;
   fill: currentColor;
-  height: $small;
   position: relative;
-  width: $small;
   vertical-align: middle;
 }
 
 .dg-icon {
-  display: inline-block;
-  fill: currentColor;
-  height: $standard;
-  position: relative;
-  width: $standard;
-  vertical-align: middle;
-}
 
-.dg-icon--large {
-  display: inline-block;
-  fill: currentColor;
-  height: $large;
-  position: relative;
-  width: $large;
-  vertical-align: middle;
-}
+  &--small {
+    @include base-icon;
+    height: $small;
+    width: $small;
+  }
 
-.dg-icon--extra-large {
-  display: inline-block;
-  fill: currentColor;
-  height: $extra-large;
-  position: relative;
-  width: $extra-large;
-  vertical-align: middle;
+  &--standard {
+    @include base-icon;
+    height: $standard;
+    width: $standard;
+  }
+
+  &--large {
+    @include base-icon;
+    height: $large;
+    width: $large;
+  }
+
+  &--extra-large {
+    @include base-icon;
+    height: $extra-large;
+    width: $extra-large;
+  }
 }

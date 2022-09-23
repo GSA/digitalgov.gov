@@ -37,7 +37,7 @@ These high-level policies cover basic requirements for all websites and digital 
 
 <p class="more">
   <a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA
-    <svg class="dg-icon margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
   </a>
@@ -55,7 +55,7 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 
 <p class="more">
   <a href="{{< ref "/topics/accessibility" >}}">More on Accessibility
-    <svg class="dg-icon margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
   </a>
@@ -73,7 +73,7 @@ Understand customer needs, set performance standards, collect and address custom
 
 <p class="more">
   <a href="{{< ref "/topics/metrics" >}}">More on Metrics 
-    <svg class="dg-icon margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
   </a>
@@ -108,7 +108,7 @@ Understand the needs of your customers, collect and address customer feedback, a
 
 <p class="more">
   <a href="{{< ref "/topics/cx" >}}">More on Customer Experience
-    <svg class="dg-icon margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
   </a>
@@ -125,7 +125,7 @@ Follow current government design standards when creating new websites or making 
 
 <p class="more">
   <a href="{{< ref "/topics/design" >}}">More on Design 
-    <svg class="dg-icon margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
   </a>
@@ -183,7 +183,7 @@ Establish a digital governance structure to provide accountability and enforce p
 
 <p class="more">
   <a href="{{< ref "/topics/governance" >}}">More on Governance
-    <svg class="dg-icon margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
   </a>
@@ -212,7 +212,7 @@ Improve priority customer facing services for mobile use. Shift to an enterprise
 <p class="more">
   <a href="{{< ref "/topics/mobile" >}}">
     More on Mobile
-    <svg class="dg-icon margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
   </a>
@@ -229,7 +229,7 @@ Comply with the requirements of Executive Order 13166, based on Title VI of the 
 <p class="more">
   <a href="{{< ref "/topics/multilingual" >}}">
     More on Multilingual 
-    <svg class="dg-icon margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
   </a>
