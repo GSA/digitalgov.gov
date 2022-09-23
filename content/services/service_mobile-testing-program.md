@@ -10,6 +10,8 @@ summary: "Compatibility testing service that agencies can use to test the mobile
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 # source_url: ''
+# redirectto: https://digital.gov/topics/mobile/
+redirectto: /topics/mobile/
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
