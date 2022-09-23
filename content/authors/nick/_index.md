@@ -10,7 +10,7 @@ bio: lorem ipsem
 # Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: https://designsystem.digital.gov/components/icon/
 # e.g. U.S. General Services Administration
-agency_full_name: GSA
+agency_full_name: General Services Administration
 # Agency Acronym [e.g., GSA]
 agency: GSA
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
@@ -21,7 +21,7 @@ location: New York
 github: nick-mon1
 twitter: nickname
 facebook: nickname
-instagram: nickname
+instagram: nickname-twitter
 linkedin: nickname
 youtube: nickname
 slug: nick
