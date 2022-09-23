@@ -111,13 +111,13 @@
                     {{- if $e.members -}}
                       <p class="members">
                         <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#person"></use>
+                          <use xlink:href="{{- $.Site.BaseURL -}}/uswds/img/sprite.svg#person"></use>
                         </svg>
                         {{ $e.members }} members
                       {{- if $e.emails_per_week }}
                        <br/>
                        <svg class="dg-icon margin-bottom-05" aria-hidden="true" focusable="false">
-                        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#envelope"></use>
+                        <use xlink:href="{{- $.Site.BaseURL -}}/uswds/img/sprite.svg#mail_outline"></use>
                       </svg>
                        Avg. {{ $e.emails_per_week }} emails per week{{- end -}}
                       </p>
