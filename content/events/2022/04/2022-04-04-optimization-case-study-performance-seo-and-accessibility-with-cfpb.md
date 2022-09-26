@@ -34,8 +34,6 @@ The Consumer Financial Protection Bureau (CFPB) maintains a large public-facing 
 
 This talk will review some of the approaches that CFPB designers, developers, and analytics specialists use to build SEO and accessibility testing into their design and development practices.
 
+---
 
-
-## About the Web Analytics and Optimization (WAO) Community
-
-This community aims to uncover best practices, case studies, tips, and tools for web analytics and optimization. We’re federal website analysts, developers, content strategists, user experience (UX) designers, communications professionals, or any and everyone else who use data to improve the public’s interaction with federal sites. Join the WAO Community here: https://digital.gov/communities/web-analytics-and-optimization/
+_The [Web Analytics and Optimization (WAO) Community](https://digital.gov/communities/web-analytics-and-optimization/) aims to uncover best practices, case studies, tips, and tools for web analytics and optimization. We are federal website analysts, developers, content strategists, user experience (UX) designers, communications professionals, or any and everyone else who use data to improve the public’s interaction with federal sites._
