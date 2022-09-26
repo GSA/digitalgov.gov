@@ -6,6 +6,7 @@ slug: "mobile"
 
 aliases:
   - /services/mobile-application-testing-program/
+  - /services/service_mobile-testing-program/
 
 # Topic Title
 title: "Mobile"
