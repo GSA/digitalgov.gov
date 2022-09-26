@@ -5,7 +5,6 @@ summary: 'In order to help agencies comply with mobile website requirements, we 
 guide: mobile-principles
 aliases:
   - /resources/mobile/principles/
-  - /services/mobile-application-testing-program/
 
 ---
 
