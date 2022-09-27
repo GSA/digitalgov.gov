@@ -37,6 +37,6 @@ The presentation will be based on the new guide, [Improving Access to Public Web
 
 ---
 
-_The [Multilingual CoP](https://digital.gov/communities/multilingual/) is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Community of Practice (https://digital.gov/communities/multilingual/).
+_The [Multilingual CoP](https://digital.gov/communities/multilingual/) is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Community of Practice (https://digital.gov/communities/multilingual/)._
 
 _The [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Community of Practice](https://digital.gov/communities/web-content-managers/)._
