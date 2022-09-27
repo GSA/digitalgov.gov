@@ -26,6 +26,7 @@ topics:
   - us-department-of-justice
   - united-states-census-bureau
   - united-states-department-of-housing-and-urban-development
+
 ---
 
 {{< legacy-img src="2016/02/600-x-400-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Global internet communication, online messaging and translation concept" caption="" >}}
@@ -48,7 +49,9 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
 ## Tools to Make it Happen
 
- * {{< legacy-img src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} [Top 10 Best Practices for Multilingual Websites]({{< ref "top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
+{{< legacy-img-right src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}}
+
+ * [Top 10 Best Practices for Multilingual Websites]({{< ref "top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
  * [Official Directory of Federal Agency Names in Spanish](http://www.usa.gov/gobiernousa/directorios/federal/index.shtml)
  * [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}} "Spanish Language Style Guide and Glossaries")—Browse the Guide and learn about Spanish language use of capitalization, abbreviations, punctuation, diacritics and much more. Consult glossaries on health, technology, government terminology and more!
  * [Lost in Translation]({{< ref "2012-10-01-automated-translation-good-solution-or-not.md" >}} "Automated Translation—Good Solution or Not?")
@@ -58,7 +61,7 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 * [Sample Video Editorial and Accessible Guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012)—[USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) and [USA.gov](https://www.usa.gov/) developed these guidelines as a roadmap for producing and submitting videos. These guidelines agree with the principles and best practices that guide our YouTube channels.
 * [Multilingual Community of Practice]({{< ref "communities/multilingual.md" >}} "Multilingual Community of Practice")—Join this group to share ideas, challenges, and government in Spanish, provides a list of agency names in Spanish and links to each agency&#8217;s Spanish Web pages and contact information.
 * [Lep.gov](http://www.lep.gov/)—Sponsored by the Federal Interagency Working Group on Limited English Proficiency, this website helps agencies meet requirements of Executive Order 13166 regarding language access.
-* [Language Data by Region](http://arcgis.mla.org/mla/)—The Modern Language Association has created a language map that shows where speakers of 33 languages live in the United States.
+* [Language Data by Region](https://lang-map.mla.org/)—The Modern Language Association has created a language map that shows where speakers of 33 languages live in the United States.
 * [Pew Hispanic Center](http://www.pewhispanic.org/)—Nonpartisan research organization that conducts research about the Latino population in the U.S. and its growing impact in society.
 
 ## Examples
