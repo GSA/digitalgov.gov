@@ -51,6 +51,6 @@ Federal Aviation Administration (FAA)
 
 * **Beth Martin** — User Experience Lead, and co-lead of the Web Managers Community of Practice
 
-## About the Web Managers Community of Practice
+---
 
-[The Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all.
+_The [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Community of Practice](https://digital.gov/communities/web-content-managers/)._
