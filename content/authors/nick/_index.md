@@ -5,7 +5,7 @@ last_name: name
 # If you include an email address, it will be displayed on your profile page
 email: nickname@nick.com
 # Keep it under 50 words and only one paragraph
-bio: lorem ipsem
+bio: lorem ipsem Keep it under 50 words and only one paragraph Keep it under 50 words and only one paragraph Keep it under 50 words and only one paragraph Keep it under 50 words and only one paragraphKeep it under 50 words and only one paragraph Keep it under 50 words and only one paragraph
 # Where can people learn more about your work?
 # Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: https://designsystem.digital.gov/components/icon/
