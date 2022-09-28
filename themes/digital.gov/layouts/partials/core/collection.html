@@ -90,9 +90,7 @@
   {{- $src := .src -}}
   {{- with .item -}}
     <div class="icon">
-      <a href="{{- $href -}}" title="{{- .Title | markdownify -}}" aria-hidden="true">
-        <img src="{{ $src | relURL }}" alt="{{- .Params.name }} icon"/>
-      </a>
+      <img src="{{ $src | relURL }}" alt="{{- .Params.name }} icon" aria-hidden="true"/>
     </div>
   {{- end -}}
 {{- end -}}
