@@ -17,6 +17,11 @@ Alert —
 Alert text goes here...
 {{< /note >}}
 
+Action —
+{{< note "action" >}}
+Action text goes here...
+{{< /note >}}
+
 Comment —
 {{< note "alert" >}}
 > Comment goes here as a blockquote
@@ -33,6 +38,8 @@ additional text goes here...
     <h4><i class="fas fa-exclamation-circle"></i> Alert</h4>
   {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
     <h4><i class="fas fa-comment-alt fa-flip-horizontal"></i> Comment</h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "action") -}}
+    <h4><i class="fas fa-bullhorn"></i> Action</h4> 
   {{- else -}}
     <h4><i class="far fa-bell"></i> Note</h4>
   {{- end -}}
