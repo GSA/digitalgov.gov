@@ -36,7 +36,7 @@ primary_image: "card-hurricane-ian-guidance"
 
 In response to Hurricane Ian, the U.S. Department of Homeland Security (DHS) is issuing guidance for the coordination of Federal web and social media communications related to this incident.
 
-This authority for this action comes from [Emergency Support Function 15](https://www.fema.gov/media-library/assets/documents/34369) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/media-library/assets/documents/117791) where, during incidents of national significance, DHS has the authority to coordinate all US government communications.
+This authority for this action comes from [Emergency Support Function 15](https://www.fema.gov/media-library/assets/documents/34369) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/media-library/assets/documents/117791) where, during incidents of national significance, DHS has the authority to coordinate all U.S. government communications.
 
 On September 28, 2022, in conjunction with the [Federal Web Council](https://digital.gov/resources/federal-web-council/), DHS activated ESF-15 for Federal web and social communications to support the national response to Hurricane Ian.
 
@@ -46,7 +46,7 @@ On September 28, 2022, in conjunction with the [Federal Web Council](https://dig
 
 Federal agencies with a role in the response effort should stand up an `agency.gov/hurricane-ian` or `agency.gov/ian` page. That page should link to the two primary lanes of communication:
 
-1. What DHS and FEMA Are Doing
+1. What DHS and Federal Emergency Management Agency (FEMA) Are Doing
 2. What the U.S. Government Is Doing
 
 
@@ -77,7 +77,7 @@ FEMA has established a landing page on FEMA.gov with the latest information from
 GSA has created a landing page on USA.gov for government-wide information related to Hurricane Ian activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email usagovemergency@gsa.gov and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/hurricane-ian](https://www.usa.gov/hurricane-ian), and the Spanish page is at [https://www.usa.gov/espanol/huracan-ian](https://www.usa.gov/espanol/huracan-ian).
 
 {{< note "action" >}}
-Send the title and URL for any Hurricane Ian related materials posted on your agency website to [usagovemergency@gsa.gov](usagovemergency@gsa.gov)
+Send the title and URL for any Hurricane Ian related materials posted on your agency website to usagovemergency@gsa.gov. 
 {{< /note >}}
 
 ## Social Media Guidance
@@ -96,5 +96,5 @@ Follow and retweet the above accounts from your agency social media accounts as 
 {{< /note >}}
 
 {{< note "action" >}}
-If you have content that you would like FEMA to amplify, please forward the link to [FEMA-ESF15-Coordination@fema.dhs.gov](FEMA-ESF15-Coordination@fema.dhs.gov)
+If you have content that you would like FEMA to amplify, please forward the link to FEMA-ESF15-Coordination@fema.dhs.gov. 
 {{< /note >}}
