@@ -40,6 +40,9 @@ These high-level policies cover basic requirements for all websites and digital 
     <svg class="dg-icon--standard margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
+    <svg class="dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+      <use xlink:href="{{- $.Site.BaseURL -}}/uswds/img/sprite.svg#arrow_forward"></use>
+    </svg>
   </a>
 </p>
 
