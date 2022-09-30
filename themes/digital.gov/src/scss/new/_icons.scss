@@ -1,9 +1,6 @@
-// overrides usa-icon with different width and height
-$small: 1rem;
-$standard: 1.25rem;
-$large: 1.625rem;
-$extra-large: 1.875rem;
+@use "uswds-core" as *;
 
+// overrides usa-icon with different width and height
 @mixin base-icon {
   display: inline-block;
   fill: currentColor;
@@ -11,29 +8,21 @@ $extra-large: 1.875rem;
   vertical-align: middle;
 }
 
+// uses uswds tokens, sizes in pixels: 16px, 20px, 24px, 32px
+$icon-sizes: (
+  small: units(2),
+  standard: units(2.5),
+  large: units(3),
+  extra-large: units(4)
+);
+
 .dg-icon {
+  @include base-icon;
+}
 
-  &--small {
-    @include base-icon;
-    height: $small;
-    width: $small;
-  }
-
-  &--standard {
-    @include base-icon;
-    height: $standard;
-    width: $standard;
-  }
-
-  &--large {
-    @include base-icon;
-    height: $large;
-    width: $large;
-  }
-
-  &--extra-large {
-    @include base-icon;
-    height: $extra-large;
-    width: $extra-large;
+@each $name, $size in $icon-sizes {
+  .dg-icon--#{$name} {
+    height: $size;
+    width: $size;
   }
 }

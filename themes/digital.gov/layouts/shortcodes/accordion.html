@@ -9,13 +9,13 @@
       aria-controls="accordion-{{- .Page.Scratch.Get "count" -}}">
         {{ if (.Get "icon") -}}
           <span class="icon">
-            <svg class="dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+            <svg class="dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
               <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#{{- .Get "icon" -}}"></use>
             </svg>
           </span>
         {{- else -}}
           <span class="icon">
-            <svg class="dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+            <svg class="dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
               <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#unfold_more"></use>
             </svg>
           </span>
