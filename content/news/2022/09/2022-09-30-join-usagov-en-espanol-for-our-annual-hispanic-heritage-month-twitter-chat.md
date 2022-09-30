@@ -2,7 +2,7 @@
 # Originally published at the following URL
 source_url: https://blog.usa.gov/join-usagov-en-espa%C3%B1ol-for-our-annual-hispanic-heritage-month-twitter-chat
 source: usagov
-date: 2022-09-28 10:57:00 -0500
+date: 2022-09-28 16:00:00 -0500
 title: Join USAGov en Español for Our Annual Hispanic Heritage Month Twitter Chat
 deck: "**Join USAGov en Español for Our Annual Hispanic Heritage Month Twitter
   Chat**&mdash;For the last few years during Hispanic Heritage Month, USAGov en Español
