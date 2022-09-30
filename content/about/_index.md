@@ -51,12 +51,8 @@ We do all of our work in the open and strive to organize our work in ways that a
 
 Learn more about [what our readers need »]({{< ref "/about/contribute.md#what-our-readers-need">}})
 
-## Our Team
+## Contact Us
 
-We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
-
-**Digital.gov:** Toni Bonitto<br/>
-**Communities:** Alexander Schulte<br/>
-**Video and Events:** Gabrielle Fratanduono, Jeannie Yoon<br/>
+Visit the Contact Us page to learn how connect with us across different channels.
 
 {{< button href="/about/contact/" text="Contact Us" >}}
