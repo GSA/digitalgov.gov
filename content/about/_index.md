@@ -53,6 +53,4 @@ Learn more about [what our readers need »]({{< ref "/about/contribute.md#what-o
 
 ## Contact Us
 
-Visit the Contact Us page to learn how connect with us across different channels.
-
-{{< button href="/about/contact/" text="Contact Us" >}}
+Visit [Contact Us](https://digital.gov/about/contact/) to learn how connect with us across different channels.
