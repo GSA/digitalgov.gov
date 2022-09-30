@@ -39,9 +39,7 @@ Join Dan Wendling and Adam Korengold of the National Institutes of Health (NIH) 
 * **Dan Wendling**  — Agency Systems Librarian, NIH National Library of Medicine
 * **Adam Korengold**  — Contractor, NIH National Library of Medicine
 
-- - -
-
-*This event is co-hosted by the Web Analytics & Optimization and User Experience communities of practice.*
+---
 
 *[The User Experience (UX) Community](https://digital.gov/communities/user-experience/) is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies. [Join the Community of Practice](https://digital.gov/communities/user-experience/).*
 
