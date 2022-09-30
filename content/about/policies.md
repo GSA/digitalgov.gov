@@ -38,6 +38,15 @@ This site may include useful hypertext links or pointers to information created 
 
 Most material on DigitalGov is free of copyright and may be copied and distributed without permission. We are flattered that you want to share. Citation of DigitalGov and a link back is much appreciated.
 
+Citation examples:
+
+Resource page
+
+<div style="background: rgb(254, 241, 196); margin-bottom: 10px; padding: 20px;">
+  <p style="font-family: Calibri; font-size: 18px; margin: 0px 0px 0px 0.5in; text-indent: -0.5in; line-height: 1.5em;">Last Name, First Name. 2019. Review of <i>21st Century Integrated Digital Experience Act</i>. Edited by Digital.gov. Digital.gov. U.S. General Services Administration. November 1, 2019. `https://digital.gov/resources/21st-century-integrated-digital-experience-act/`.</p>
+</div>
+
+
 We sometimes use photos or graphics that we licensed or that are restricted. Check to see if there is a copyright or photo credit. **You need to request permission from the original source to use this material.** 
 
 [More about copyright and other rights pertaining to U.S. Government works](http://www.usa.gov/copyright.shtml).
