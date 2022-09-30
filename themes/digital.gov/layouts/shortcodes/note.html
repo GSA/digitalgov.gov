@@ -17,6 +17,11 @@ Alert —
 Alert text goes here...
 {{< /note >}}
 
+Action —
+{{< note "action" >}}
+Action text goes here...
+{{< /note >}}
+
 Comment —
 {{< note "alert" >}}
 > Comment goes here as a blockquote
@@ -33,10 +38,16 @@ additional text goes here...
         <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#assessment"></use>
       </svg> Activity
     </h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "action") -}}
+    <h4>
+      <svg class="dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#campaign"></use>
+      </svg> Action
+    </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
     <h4>
       <svg class="dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#priority_high"></use>
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#report"></use>
       </svg> Alert
     </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
