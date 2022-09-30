@@ -7,10 +7,6 @@ summary: "How to contact the Digital.gov team."
 
 **Digital.gov** is made up of a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
 
-- **Digital.gov:** Toni Bonitto
-- **Communities:**  Alexander Schulte
-- **Events:** Gabrielle Fratanduono, Jeannie Yoon
-
 For a wider list of contacts, see our [**Directory of services, tools, and teams**]({{< ref "/services/directory.md" >}}) »
 
 :envelope: Questions or feedback? send an email to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
