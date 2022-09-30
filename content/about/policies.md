@@ -51,19 +51,19 @@ Below are four examples of how to cite Digital.gov.
 **One author**
 
 <div style="background: rgb(254, 241, 196); margin-bottom: 10px; padding: 20px;">
-  <p style="font-family: Calibri; font-size: 18px; margin: 0px 0px 0px 0.5in; text-indent: -0.5in; line-height: 1.5em;">Salazar Foreman, Dahianna. 2022. Review of <i>Serving the Public: Five Veterans’ Journeys to Public Interest Tech</i>. Digital.gov. U.S. General Services Administration. September 9, 2022. https://digital.gov/2022/09/09/serving-the-public-five-veterans-journeys-to-public-interest-tech/.</p>
+  <p style="font-family: Calibri; font-size: 18px; margin: 0px 0px 0px 0.5in; text-indent: -0.5in; line-height: 1.5em;">Salazar Foreman, Dahianna. 2022. Review of <i>Serving the Public: Five Veterans’ Journeys to Public Interest Tech</i>. Digital.gov. September 9, 2022. https://digital.gov/2022/09/09/serving-the-public-five-veterans-journeys-to-public-interest-tech/.</p>
 </div>
 
 **Two authors**
 
 <div style="background: rgb(254, 241, 196); margin-bottom: 10px; padding: 20px;">
-  <p style="font-family: Calibri; font-size: 18px; margin: 0px 0px 0px 0.5in; text-indent: -0.5in; line-height: 1.5em;">Hodge, Lashanda, and Aaron Stienstra. 2022. Review of <i>Equity, a Core Principle of Customer Experience</i>. Digital.gov. U.S. General Services Administration. May 23, 2022. https://digital.gov/2022/05/23/equity-a-core-principle-of-customer-experience/.</p>
+  <p style="font-family: Calibri; font-size: 18px; margin: 0px 0px 0px 0.5in; text-indent: -0.5in; line-height: 1.5em;">Hodge, Lashanda, and Aaron Stienstra. 2022. Review of <i>Equity, a Core Principle of Customer Experience</i>. Digital.gov. May 23, 2022. https://digital.gov/2022/05/23/equity-a-core-principle-of-customer-experience/.</p>
 </div>
 
 **Three or more authors**
 
 <div style="background: rgb(254, 241, 196); margin-bottom: 10px; padding: 20px;">
-  <p style="font-family: Calibri; font-size: 18px; margin: 0px 0px 0px 0.5in; text-indent: -0.5in; line-height: 1.5em;">Goldstein, Lindsay, Maroya Faied, and Shannon McHarg. 2022. Review of <i>Open-Source Information Architecture Design: Using the Tools You Have to Conduct Card Sorting and Tree Testing</i>. Digital.gov. U.S. General Services Administration. January 6, 2022. https://digital.gov/2022/01/06/open-source-information-architecture-design-using-the-tools-you-have-to-conduct-card-sorting-and-tree-testing/.</p>
+  <p style="font-family: Calibri; font-size: 18px; margin: 0px 0px 0px 0.5in; text-indent: -0.5in; line-height: 1.5em;">Goldstein, Lindsay, Maroya Faied, and Shannon McHarg. 2022. Review of <i>Open-Source Information Architecture Design: Using the Tools You Have to Conduct Card Sorting and Tree Testing</i>. Digital.gov. January 6, 2022. https://digital.gov/2022/01/06/open-source-information-architecture-design-using-the-tools-you-have-to-conduct-card-sorting-and-tree-testing/.</p>
 </div>
 
 ### Resource page
