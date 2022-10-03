@@ -1,6 +1,4 @@
 ---
-url: /services/mobile-application-testing-program/
-
 # What is the name of the product or service?
 title: "Federal Crowdsource Mobile Testing Program"
 
@@ -24,12 +22,6 @@ contact: digitalgov@gsa.gov
 # 1 == will appear on the tools and services page, and all related topic pages
 # 0 == hides this service from all pages, but URL is still public
 weight: 0
-
-# Topics that best describe this product or service
-topics:
-  - mobile
-  - user-testing-and-research
-  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:

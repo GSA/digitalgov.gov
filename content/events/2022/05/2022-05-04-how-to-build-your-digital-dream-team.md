@@ -48,6 +48,6 @@ Our panel will offer perspectives on topics such as:
 
 * **Ruxi Giura**, Web Managers Community Co-lead — Federal Emergency Management Agency (FEMA)
 
-## About the Web Managers Community of Practice
+---
 
-The [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all.
+*The [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all.*

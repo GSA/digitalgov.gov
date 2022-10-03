@@ -1,5 +1,5 @@
 ---
-title: Plain Language Summit 2020
+title: 2020 Federal Plain Language Summit
 kicker: Plain Language
 summary: Join us for discussion from government and private-sector leaders on
   how to advance plain language in government communications. Hear lessons

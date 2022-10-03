@@ -223,6 +223,4 @@ In this session you will hear from the following speaker:
 
 ---
 
-## About the UX Community of Practice
-
-The [UX Community of Practice](https://digital.gov/communities/user-experience/) is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies.
+*The [UX Community of Practice](https://digital.gov/communities/user-experience/) is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies.*

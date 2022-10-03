@@ -1,0 +1,14 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/card-hurricane-ian-guidance.png
+
+# Image shortcode: {{< img src="card-hurricane-ian-guidance" >}}
+
+
+date     : 2022-09-29 13:35:03 -0400
+uid      : card-hurricane-ian-guidance
+width    : 1200
+height   : 628
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "A title card with a black background and white text. Guidance for U.S. Government Websites and Social Media, addressing web and digital communications related to Hurricane Ian." 
