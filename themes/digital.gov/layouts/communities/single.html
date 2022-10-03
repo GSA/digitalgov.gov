@@ -11,7 +11,7 @@
 
             <p class="breadcrumb">
               <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">
-                <svg class="dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
                   <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#arrow_back"></use>
                 </svg>
                 <span>{{ .Parent.Title }}</span>
@@ -110,12 +110,12 @@
                     */}}
                     {{- if $e.members -}}
                       <p class="members">
-                        <svg class="dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
                           <use xlink:href="{{- $.Site.BaseURL -}}/uswds/img/sprite.svg#person"></use>
                         </svg>
                         {{ $e.members }} members
                         {{- if $e.emails_per_week }}
-                        <svg class="dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
                           <use xlink:href="{{- $.Site.BaseURL -}}/uswds/img/sprite.svg#mail"></use>
                         </svg>
                         Avg. {{ $e.emails_per_week }} emails per week{{- end -}}
