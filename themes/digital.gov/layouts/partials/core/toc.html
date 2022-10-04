@@ -1,4 +1,7 @@
-{{- if .TableOfContents -}}
+// prevents displaying an empty table of contents aka "In this page"
+// See https://discourse.gohugo.io/t/check-for-empty-tableofcontents/29737/2
+{{- if eq .TableOfContents "<nav id=\"TableOfContents\"></nav>" -}}
+{{- else -}}
 <div class="toc">
   <h4>In this page</h4>
   {{- .TableOfContents -}}
