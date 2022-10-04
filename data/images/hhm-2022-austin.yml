@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/hhm-2022-austin.png
+
+# Image shortcode: {{< img src="hhm-2022-austin" >}}
+
+date     : 2022-10-04 16:29:02 -0400
+uid      : hhm-2022-austin
+width    : 425
+height   : 320
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "" 
