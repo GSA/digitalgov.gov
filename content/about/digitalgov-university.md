@@ -20,7 +20,7 @@ We provide a range of free online and in-person trainings and events for people 
 
 ## Use of Digital.gov Materials
 
-Unless a copyright is indicated, material presented by Digital.gov is free of copyright and may be copied and distributed without permission. Citation of Digital.gov as the source is appreciated. However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
+Unless a copyright is indicated, material presented by Digital.gov is free of copyright and may be copied and distributed without permission. Citation of Digital.gov as the source is appreciated (see our [Site Policies](https://digital.gov/policies/) for more information). However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
 
 If a copyright is indicated on a photo, graphic, or other material, you must get permission from the original source to use or to copy this material.
 
