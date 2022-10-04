@@ -13,8 +13,6 @@ For a wider list of contacts, see our [**Directory of services, tools, and teams
 
 :video_camera: For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
----
-
 **On social media**
 
 - Follow [@digital_gov on Twitter](https://twitter.com/digital_gov/)
