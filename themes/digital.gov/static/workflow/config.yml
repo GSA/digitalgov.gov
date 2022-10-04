@@ -9,7 +9,7 @@ backend:
   # Federalist
   name: github
   repo: GSA/digitalgov.gov
-  base_url: https://federalistapp.18f.gov
+  base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
   use_graphql: true
