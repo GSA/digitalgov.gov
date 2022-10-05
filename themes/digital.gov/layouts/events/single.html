@@ -19,7 +19,7 @@
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
             <p class="breadcrumb"><a href="{{- "events/" | absURL -}}">
               <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#arrow_back"></use>
+                <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#arrow_back"></use>
               </svg>
               <span>All Events</span> </a>
             </p>
@@ -34,7 +34,7 @@
 
             <p class="datetime">
               <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#calendar_today"></use>
+                <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#calendar_today"></use>
               </svg>
               {{ with .Date }}
               {{ . | dateFormat "Monday, January 02, 2006" }}
@@ -71,7 +71,7 @@
             <span class="addtocalendar">
               <a class="atcb-link" title="Add to calendar">
                 <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                  <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#event"></use>
+                  <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#event"></use>
                 </svg> Add to Cal
               </a>
               <var class="atc_event">
@@ -174,7 +174,7 @@
                 <span class="addtocalendar">
                   <a class="atcb-link" title="Add to calendar">
                     <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                      <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#event"></use>
+                      <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#event"></use>
                     </svg> Add to Cal
                   </a>
                   <var class="atc_event">
