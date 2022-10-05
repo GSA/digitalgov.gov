@@ -28,7 +28,7 @@ primary_image: uswds-monthly-call-sep-title-card
 
 [View the slides (PowerPoint, 10.5 MB, 46 pages)](https://digital.gov/files/uswds-monthly-call-september-2022.pptx)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for September 2022" icon="fas fa-copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for September 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 
 For September 2022 — National Hispanic Heritage Month begins today, and coincidentally but fortuitously this month’s call dives into language selection for multilingual digital content. And here we see the USWDS logo in a festive teal, magenta, yellow, orange and blue.
 

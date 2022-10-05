@@ -58,7 +58,7 @@ weight: 0
 
 ---
 
-{{< accordion kicker="Day 1" title="UX Methods - July 28" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 1" title="UX Methods - July 28" icon="content_copy" >}}
 
 - [Read the transcript](https://digital.gov/pdf/2020-07-28-UX-Summit-Captioning-Tues-AM.pdf ) (PDF, 125 KB, 13 pages)
 
@@ -102,7 +102,7 @@ Designing and developing digital products that are accessible to all doesn’t j
 
 ---
 
-{{< accordion kicker="Day 2" title="Service Design - July 29" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 2" title="Service Design - July 29" icon="content_copy" >}}
 
 ## First Session –  11:30 AM – 12:30 PM ET
 
@@ -133,7 +133,7 @@ For residents, forms are often front doors to access city services. They are als
 
 ---
 
-{{< accordion kicker="Day 3" title="Managing UX - July 30" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 3" title="Managing UX - July 30" icon="content_copy" >}}
 
 ## First Session –  11:30 AM – 12:30 PM ET
 

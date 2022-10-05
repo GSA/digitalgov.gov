@@ -33,15 +33,35 @@ additional text goes here...
 
 <div class="note {{ if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
-    <h4><i class="fas fa-cubes"></i> Activity</h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
-    <h4><i class="fas fa-exclamation-circle"></i> Alert</h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
-    <h4><i class="fas fa-comment-alt fa-flip-horizontal"></i> Comment</h4>
+    <h4>
+      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#assessment"></use>
+      </svg> Activity
+    </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "action") -}}
-    <h4><i class="fas fa-bullhorn"></i> Action</h4> 
+    <h4>
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#campaign"></use>
+      </svg> Action
+    </h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
+    <h4>
+      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#report"></use>
+      </svg> Alert
+    </h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
+    <h4>
+      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#comment"></use>
+      </svg> Comment
+    </h4>
   {{- else -}}
-    <h4><i class="far fa-bell"></i> Note</h4>
+    <h4>
+      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#notifications"></use>
+      </svg> Note
+    </h4>
   {{- end -}}
 
   {{- .Inner | markdownify -}}

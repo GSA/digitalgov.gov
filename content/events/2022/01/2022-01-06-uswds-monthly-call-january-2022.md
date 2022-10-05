@@ -27,7 +27,7 @@ primary_image: uswds-january-title-card
 
 [View the slides (PowerPoint, 1.5 MB, 30 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-january-2022-distro.pptx.zip)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for January 2022" icon="fas fa-copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for January 2022" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call. For the first monthly call of the new year: January 2022. And, for January it's some frosty blues for the USWDS logo.
 

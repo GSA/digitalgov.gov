@@ -9,7 +9,14 @@
           {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
 
-            <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></p>
+            <p class="breadcrumb">
+              <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">
+                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                  <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#arrow_back"></use>
+                </svg>
+                <span>{{ .Parent.Title }}</span>
+              </a>
+            </p>
             {{/* Page Title */}}
             <h1>{{ .Title | markdownify }} Community</h1>
 
@@ -102,9 +109,17 @@
                       - These are updated manually in the front matter by going to the backend of the listserv platform and entering in the values one by one.
                     */}}
                     {{- if $e.members -}}
-                      <p class="members"><i class="far fa-user"></i> {{ $e.members }} members
-                      {{- if $e.emails_per_week }}
-                       <br/> <i class="far fa-envelope"></i> Avg. {{ $e.emails_per_week }} emails per week{{- end -}}</p>
+                      <p class="members">
+                        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                          <use xlink:href="{{- $.Site.BaseURL -}}/uswds/img/sprite.svg#person"></use>
+                        </svg>
+                        {{ $e.members }} members
+                        {{- if $e.emails_per_week }}
+                        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                          <use xlink:href="{{- $.Site.BaseURL -}}/uswds/img/sprite.svg#mail"></use>
+                        </svg>
+                        Avg. {{ $e.emails_per_week }} emails per week{{- end -}}
+                      </p>
                     {{- end -}}
 
 

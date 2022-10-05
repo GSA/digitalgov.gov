@@ -10,6 +10,11 @@
   {{- if .e.subscribe_email_body -}}
     ?body={{- .e.subscribe_email_body -}}
   {{- end -}}
-{{- end -}}" class="join type-{{- .e.platform -}}"><i class="fas fa-envelope"></i> Join by email</a>
+{{- end -}}" class="join type-{{- .e.platform -}}">
+  <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+    <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#mail"></use>
+  </svg>
+  Join by email
+</a>
 
 <p>To join, email <strong>{{ .e.subscribe_email }}</strong> with {{ if .e.subscribe_email_subject }} <code>{{ .e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if .e.subscribe_email_body }} and <code>{{ .e.subscribe_email_body }}</code> in the body{{- end -}}.</p>

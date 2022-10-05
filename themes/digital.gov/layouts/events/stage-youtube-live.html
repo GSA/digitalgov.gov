@@ -17,16 +17,35 @@
     <div class="grid-row tablet-lg:grid-gap-2">
       <div class="grid-col-12 tablet:grid-col-9">
         <div class="event-tools">
-          <a class="youtube" href="https://www.youtube.com/watch?v={{- .Params.youtube_id -}}" title="Watch on YouTube"><strong><i class="fab fa-youtube"></i> <span>Watch on YouTube</span></strong></a>
+          <a class="youtube" href="https://www.youtube.com/watch?v={{- .Params.youtube_id -}}" title="Watch on YouTube">
+            <strong>
+              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#youtube"></use>
+              </svg>
+              <span>Watch on YouTube</span>
+            </strong>
+          </a>
 
           {{- if (isset .Params "captions") -}}
-          <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{ .Title -}}"><strong><i class="far fa-closed-captioning"></i> <span>View captions</span></strong></a>
+          <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{ .Title -}}">
+            <strong>
+              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#closed_caption"></use>
+              </svg>
+              <span>View captions</span>
+            </strong>
+          </a>
           {{- end -}}
         </div>
       </div>
       <div class="grid-col-12 tablet:grid-col-3">
         <div class="event-tools">
-          <p class="notice"><i class="far fa-flag"></i> You'll need to sign in to Google to chat. All chats will be archived alongside the video.</p>
+          <p class="notice">
+            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+              <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#flag"></use>
+            </svg>
+            You'll need to sign in to Google to chat. All chats will be archived alongside the video.
+          </p>
         </div>
       </div>
     </div>
