@@ -24,6 +24,9 @@ event_platform: zoom
 youtube_id: 4syWFTvssSY
 
 ---
+
 In the past, we’ve covered the very [basics of tag managers](https://www.youtube.com/watch?v=TUJ5tyXOQNg&list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba&index=20) and what they do. To go a little deeper, we’re offering a two-part tag manager series with a more in-depth look at features and capability.
 
 For Part 1, we’ll be tackling the data layer, which can be a confusing piece of the puzzle. Understanding and utilizing the data layer will help you maximize your reporting and analysis capabilities, and offers one of the largest value-adds to the use of a tag manager!
+
+Watch [Tag Managers Part 2: Configuration Framework](https://digital.gov/event/2021/03/24/tag-managers-part-2-configuration-framework/)
