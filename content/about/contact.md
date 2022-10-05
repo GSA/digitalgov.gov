@@ -9,7 +9,7 @@ summary: "How to contact the Digital.gov team."
 
 For a wider list of contacts, see our [**Directory of services, tools, and teams**]({{< ref "/services/directory.md" >}}) »
 
-:envelope: Questions or feedback? send an email to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
+:envelope: **Questions or feedback?** send an email to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 
 :video_camera: For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
