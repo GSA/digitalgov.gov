@@ -35,31 +35,31 @@ additional text goes here...
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
     <h4>
       <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#assessment"></use>
+        <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#assessment"></use>
       </svg> Activity
     </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "action") -}}
     <h4>
       <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#campaign"></use>
+        <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#campaign"></use>
       </svg> Action
     </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
     <h4>
       <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#report"></use>
+        <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#report"></use>
       </svg> Alert
     </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
     <h4>
       <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#comment"></use>
+        <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#comment"></use>
       </svg> Comment
     </h4>
   {{- else -}}
     <h4>
       <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#notifications"></use>
+        <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#notifications"></use>
       </svg> Note
     </h4>
   {{- end -}}
