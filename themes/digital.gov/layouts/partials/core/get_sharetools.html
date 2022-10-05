@@ -6,21 +6,21 @@
 <section class="share_tools">
   <div class="grid-row">
     <div class="grid-col-4">
-      <a class="twitter" href="http://twitter.com/share?url=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&amp;text={{ .Title }}">
+      <a class="twitter" alt="Twitter share link" href="http://twitter.com/share?url=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&amp;text={{ .Title }}">
         <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
           <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#twitter"></use>
         </svg>
       </a>
     </div>
     <div class="grid-col-4">
-      <a class="facebook" href="http://www.facebook.com/sharer.php?u=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&t={{ .Title | urlize }}">
+      <a class="facebook" alt="Facebook share link" href="http://www.facebook.com/sharer.php?u=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&t={{ .Title | urlize }}">
         <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
           <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#facebook"></use>
         </svg>
       </a>
     </div>
     <div class="grid-col-4">
-      <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&title={{ .Title | urlize }}&summary={{ .Params.summary | urlize }}&source={{ "Digital.gov" | urlize }}">
+      <a class="linkedin" alt="Linked In share link" href="https://www.linkedin.com/shareArticle?mini=true&url=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&title={{ .Title | urlize }}&summary={{ .Params.summary | urlize }}&source={{ "Digital.gov" | urlize }}">
         <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
           <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#linkedin"></use>
         </svg>
