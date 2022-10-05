@@ -7,7 +7,11 @@
       title="View {{ .Get "name" | plainify -}}"
       aria-expanded="false"
       aria-controls="card-policy-{{- .Page.Scratch.Get "count" -}}">
-      <span class="scroll"><i class="fas fa-scroll"></i></span>
+      <span class="scroll">
+        <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
+          <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#unfold_more"></use>
+        </svg>
+      </span>
       <span class="src">
         {{ if (.Get "kicker") -}}<strong class="kicker">{{- .Get "kicker" -}}</strong>{{- end -}}
         {{- .Get "title" | markdownify }}
@@ -19,7 +23,12 @@
   <div id="card-policy-{{- .Page.Scratch.Get "count" -}}" class="card-policy-body usa-accordion__content usa-prose">
     {{- .Inner | markdownify -}}
 
-    <a class="src" href="{{- .Get "src" }}" title="View {{ .Get "name" | plainify -}}">View the full legislation <i class="fas fa-arrow-right"></i></a>
+    <a class="src" href="{{- .Get "src" }}" title="View {{ .Get "name" | plainify -}}">
+      View the full legislation 
+      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#arrow_forward"></use>
+      </svg>
+    </a>
   </div>
   {{- end -}}
 

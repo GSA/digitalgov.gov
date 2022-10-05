@@ -2,7 +2,7 @@ const component = {
   id: "note",
   label: "Note",
   hint:
-    'example: {{< note kicker="Last update" title="April 1, 2020" icon="fas fa-copy" >}} inner text of what you want to collapse {{< /accordion >}}',
+    'example: {{< note kicker="Last update" title="April 1, 2020" icon="content_copy" >}} inner text of what you want to collapse {{< /accordion >}}',
   fields: [
     {
       name: "type",

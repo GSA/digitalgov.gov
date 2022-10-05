@@ -28,7 +28,14 @@
     <footer>
       <div class="grid-row">
         <div class="grid-col-12">
-          <p class="more"><a href="{{- $topic.Permalink -}}"><span>More on {{ $topic.Title -}}</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+          <p class="more">
+            <a href="{{- $topic.Permalink -}}">
+              <span>More on {{ $topic.Title -}}</span>
+              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#arrow_forward"></use>
+              </svg>
+            </a>
+          </p>
         </div>
       </div>
     </footer>

@@ -12,6 +12,7 @@
 // Import individual theme settings
 
 @forward 'uswds-theme';
+@forward "usa-site-alert";
 
 // @forward "uswds-global";
 // @forward "uswds-utilities";
@@ -98,6 +99,7 @@
 @forward 'stream';
 
 @forward 'touchpoints-form';
+@forward 'icons';
 
 // Cards
 @forward 'card';

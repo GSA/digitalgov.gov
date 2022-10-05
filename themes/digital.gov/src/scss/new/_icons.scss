@@ -1,0 +1,28 @@
+@use "uswds-core" as *;
+
+// overrides usa-icon with different width and height
+@mixin base-icon {
+  display: inline-block;
+  fill: currentColor;
+  position: relative;
+  vertical-align: middle;
+}
+
+// uses uswds tokens, sizes in pixels: 16px, 20px, 24px, 32px
+$icon-sizes: (
+  small: units(2),
+  standard: units(2.5),
+  large: units(3),
+  extra-large: units(4)
+);
+
+.dg-icon {
+  @include base-icon;
+}
+
+@each $name, $size in $icon-sizes {
+  .dg-icon--#{$name} {
+    height: $size;
+    width: $size;
+  }
+}

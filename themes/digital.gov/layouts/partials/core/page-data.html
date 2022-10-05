@@ -14,7 +14,9 @@ Here are values that are passed in through the partial:
 
 <div id="page-data" class="branch-{{- .branch -}}" name="page-data">
   <p class="feedback-copy">
-    <i class="fas fa-question-circle"></i>
+    <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+      <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#help_outline"></use>
+    </svg>
     {{ if .prompt -}}{{- .prompt -}}{{- else -}}
       Have feedback or questions?
     {{- end }}

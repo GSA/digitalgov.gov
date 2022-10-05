@@ -19,6 +19,9 @@
 
     <div class="summary">
       <p>
+        <h3>
+          <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
+        </h3>
         {{- if .Params.deck -}}{{- .Params.deck | markdownify | emojify -}}{{- end -}}
         {{- if $source -}}
           {{ $url := urls.Parse .Params.source_url }}

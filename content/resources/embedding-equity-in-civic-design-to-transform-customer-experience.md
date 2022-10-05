@@ -111,7 +111,7 @@ We hope that soon, it becomes standard practice to meaningfully incorporate the 
 
 ## Works Cited
 
-{{< accordion kicker="" title="Source List" icon="fas fa-copy" >}}
+{{< accordion kicker="" title="Source List" icon="content_copy" >}}
 
 1. “The Biden-Harris Management Agenda Vision.” _The Biden-Harris Management Agenda Vision_, 2021, https://www.performance.gov/pma/vision/. Accessed 16 February 2022.
 

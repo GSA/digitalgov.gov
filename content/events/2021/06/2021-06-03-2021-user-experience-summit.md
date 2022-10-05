@@ -32,7 +32,7 @@ When registering, please select the days you would like to attend directly on th
 
 Please find descriptions and agendas for the summit sessions below:
 
-{{< accordion kicker="Day 1" title="Tuesday, June 22, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 1" title="Tuesday, June 22, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
 
 
 ## Keynote: The Future of Design Must Be Trauma-Informed (11:00 am - 12:00 pm, ET)
@@ -92,7 +92,7 @@ In this session you will hear from the following speakers:
 
 ---
 
-{{< accordion kicker="Day 2" title="Wednesday, June 23, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 2" title="Wednesday, June 23, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
 
 ## Equity-Centered Design: Challenges in Government (11:00 am - 12:00 pm, ET)
 
@@ -180,7 +180,7 @@ In this session you will hear from the following speakers:
 
 ---
 
-{{< accordion kicker="Day 3" title="Thursday, June 24, 2021 11:00 AM – 4:00 PM ET" icon="fas fa-copy" >}}
+{{< accordion kicker="Day 3" title="Thursday, June 24, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
 
 ## Conscious Uncoupling: Innovative Ways To Separate User Habits From User Needs (11:00 am - 12:00 pm, ET)
 

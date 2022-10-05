@@ -20,6 +20,7 @@
 
     {{- partialCached "core/notice-bar.html" . -}}
     {{- partialCached "core/usa-banner.html" . -}}
+    {{- partialCached "core/sitewide-alert.html" . -}}
     {{- partialCached "core/header.html" . -}}
 
 
@@ -37,8 +38,17 @@
   <div id="clicks_iframe" class="display-none"></div>
 
   <div class="edit_tools">
-    <button class="edit edit-open" aria-label="edit" type="button"><i class="far fa-edit"></i><span class="usa-sr-only">Toggle Edit this page</span></span></button>
-    <a class="edit edit-issue" role="button" target="_blank" href="https://github.com/GSA/digitalgov.gov/issues/new?body=%0D%0A%2A%2A{{- .Title -}}%2A%2A%0D%0Ahttps%3A%2F%2Fdigital.gov%2F{{- .Permalink -}}%0D%0A%0D%0A---%0D%0A%0D%0A%2A%2APlease+describe+the+issue+clearly.+Include+a+screenshot+if+needed%2A%2A%0D%0A"><i class="fas fa-bug"></i><span class="usa-sr-only">Report an issue</span></a>
+    <button class="edit edit-open" aria-label="edit" type="button">
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#edit"></use>
+      </svg>
+    </button>
+    <a class="edit edit-issue" role="button" target="_blank" href="https://github.com/GSA/digitalgov.gov/issues/new?body=%0D%0A%2A%2A{{- .Title -}}%2A%2A%0D%0Ahttps%3A%2F%2Fdigital.gov%2F{{- .Permalink -}}%0D%0A%0D%0A---%0D%0A%0D%0A%2A%2APlease+describe+the+issue+clearly.+Include+a+screenshot+if+needed%2A%2A%0D%0A">
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{- .Site.BaseURL -}}/uswds/img/sprite.svg#bug_report"></use>
+      </svg>
+      <span class="usa-sr-only">Report an issue</span>
+    </a>
   </div>
 
 </body>
