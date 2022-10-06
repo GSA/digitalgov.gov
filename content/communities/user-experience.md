@@ -30,8 +30,7 @@ community_list:
     type: government
     subscribe_email: ux-cop-request@listserv.gsa.gov
     subscribe_email_subject: "Join UX Community"
-    members: 1247
-    emails_per_week: 9.55
+    members: 1714
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -73,4 +72,4 @@ Our members include more than 1,100 federal, state, and local U.S. government em
 
 ## Key Resources
 
-* https://www.usability.gov/
+* https://www.usability.gov
