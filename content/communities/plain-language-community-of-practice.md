@@ -40,7 +40,7 @@ community_list:
     type: public
     subscribe_email: "PL-COP-MAIN-subscribe-request@listserv.gsa.gov"
     terms: "Anyone is eligible to join."
-    members: 1300
+    members: 1940
 
 primary_image: "digital-gov-card-community"
 
