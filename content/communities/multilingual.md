@@ -36,7 +36,7 @@ community_list:
     type: government
     subscribe_email: "FMWC-subscribe-request@listserv.gsa.gov"
     terms: "Anyone with a .gov or .mil email address is eligible to join."
-    members: 470
+    members: 504
 
 primary_image: "white-bg-digital-gov-card-community"
 
