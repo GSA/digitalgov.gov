@@ -43,7 +43,7 @@ community_list:
     type: government_only
     subscribe_email: "CONTENT-MANAGERS-L-subscribe-request@listserv.gsa.gov"
     terms: "U.S. government employees only are eligible to join."
-    members: 1927
+    members: 1791
 
 primary_image: "white-bg-digital-gov-card-community"
 
