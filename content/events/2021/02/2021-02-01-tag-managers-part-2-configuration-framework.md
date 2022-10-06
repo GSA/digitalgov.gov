@@ -28,4 +28,6 @@ youtube_id: GOdPWl0gUqo
 
 During part 2 of the Tag Managers series, we'll talk about how to think about configuring Google Tag Manager to track interactions on your website, to empower your team to report on website goals and key performance indicators (KPIs). 
 
-The session will address how to think about Datalayer Variables, Triggers and Tags, and best practices on when to configure them. To get the most value out of this session, knowing your website mission, goals, and KPIs is recommended. 
+The session will address how to think about Datalayer Variables, Triggers and Tags, and best practices on when to configure them. To get the most value out of this session, knowing your website mission, goals, and KPIs is recommended.
+
+Watch [Tag Managers Part 1: The Data Layer](https://digital.gov/event/2021/02/24/tag-managers-part-1-the-data-layer/)

@@ -26,7 +26,7 @@ event_platform: zoom
 
 [View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-december-2021-distro.pptx.zip) (PowerPoint, 1.3 MB, 27 pages)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for December 2021" icon="fas fa-copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for December 2021" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for December 2021. And, for December it's a good old fashioned red and green to match the wreaths and bows you may be seeing on doors and windows around your neighborhood, too. 
 

@@ -14,9 +14,6 @@ For a wider list of contacts, see our [**Directory of services, tools, and teams
 
 :envelope: **Questions or feedback?** send an email to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 
-:envelope: **For questions or feedback about a specific page**: At the end of any page, please use the email link that says, `Have feedback or questions? Send us an email at digitalgov@gsa.gov`. The link is coded to automatically include the URL of that specific page in your email message to us&mdash;so that we can find it quickly.
-
-
 :video_camera: For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
 ---

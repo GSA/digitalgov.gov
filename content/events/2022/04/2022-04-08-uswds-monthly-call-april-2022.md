@@ -30,7 +30,7 @@ primary_image: uswds-monthly-call-april-title-card
 
 [View the slides (PowerPoint, 2.66 MB, 16 pages)](https://digital.gov/files/uswds-monthly-call-april-2022.pptx)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2022" icon="fas fa-copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2022" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for April 2022 — an interesting month and year where we've seen Passover, Ramadan, and Easter occurring at the same time, accompanied by this spring-colored USWDS logo. As well as Earth Day this week, and a blue marble USWDS logo to go with it.
 

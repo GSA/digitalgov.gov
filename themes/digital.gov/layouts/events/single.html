@@ -17,7 +17,12 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
-            <p class="breadcrumb"><a href="{{- "events/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></p>
+            <p class="breadcrumb"><a href="{{- "events/" | absURL -}}">
+              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#arrow_back"></use>
+              </svg>
+              <span>All Events</span> </a>
+            </p>
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
             {{- end -}}
@@ -27,7 +32,10 @@
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
 
-            <p class="datetime"><i class="far fa-calendar"></i>
+            <p class="datetime">
+              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#calendar_today"></use>
+              </svg>
               {{ with .Date }}
               {{ . | dateFormat "Monday, January 02, 2006" }}
               {{ end }}
@@ -61,7 +69,11 @@
             {{/* Register */}}
             <a [attr.aria-label]="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
             <span class="addtocalendar">
-              <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
+              <a class="atcb-link" title="Add to calendar">
+                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                  <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#event"></use>
+                </svg> Add to Cal
+              </a>
               <var class="atc_event">
                 <var class="atc_date_start">{{- $event_startDate -}}</var>
                 <var class="atc_date_end">{{- $event_endDate -}}</var>
@@ -160,7 +172,11 @@
                 <a [attr.aria-label]="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
 
                 <span class="addtocalendar">
-                  <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
+                  <a class="atcb-link" title="Add to calendar">
+                    <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                      <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#event"></use>
+                    </svg> Add to Cal
+                  </a>
                   <var class="atc_event">
                     <var class="atc_date_start">{{- $event_startDate -}}</var>
                     <var class="atc_date_end">{{- $event_endDate -}}</var>

@@ -43,6 +43,7 @@ We’ve teamed up with our friends at CFPB to bring you a two-part series on A/B
 - How CFPB runs tests on their pages
 - How to use information from your tests to make positive UX changes
 
+Parts 1 and 2 are available on our [YouTube Analytics Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba).
 
 _The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA._
 

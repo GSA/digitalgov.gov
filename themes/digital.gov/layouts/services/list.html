@@ -47,7 +47,12 @@
       <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
           <footer>
-            <a class="btn" href="{{- "services/directory" | absURL -}}" title=""><span>See the full directory</span> <i class="fas fa-arrow-circle-right"></i></a>
+            <a class="btn" href="{{- "services/directory" | absURL -}}" title="">
+              <span>See the full directory</span>
+              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+                <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#arrow_forward"></use>
+              </svg>
+            </a>
           </footer>
         </div>
       </div>
@@ -57,3 +62,7 @@
 </main>
 
 {{- end -}} {{/* end 'content' block */}}
+
+
+
+

@@ -9,6 +9,7 @@ topics:
   - metrics
   - a-b-testing
   - peace-corps
+
 ---
 
 What exactly does being “data-driven” mean for digital marketing and communications practitioners in the federal government? It is easy to be awed by the new shiny platforms and services that promise to change how things are done in government. Fundamentally, though, it is thinking about analytics not just from a descriptive mindset but one of experimentation, optimization and measurement. It is about culture change so it is not as glamorous, not as easy, but necessary if you really want to be data-driven.
@@ -19,12 +20,12 @@ To that end, I want to share a sliver of how [Peace Corps](http://www.peacecorps
 
 ## The Experiment
 
-  * We had two research questions:
+We had two research questions:
 
   1. Will the type of messaging frames included on the landing page affect the conversion rate everything else being equal?
   2. Will inclusion of iconography on the landing page affect the conversion rate everything else being equal?
 
-  * We ran an A/B/n test that included eight variations, testing four messaging frames with and without iconography. The experiment was set at a 95% confidence interval, 100% of traffic from the paid media was directed to the test and it ran until a winner was selected.
+We ran an A/B/n test that included eight variations, testing four messaging frames with and without iconography. The experiment was set at a 95% confidence interval, 100% of traffic from the paid media was directed to the test and it ran until a winner was selected.
 
 {{< legacy-img src="2015/07/600-x-520-Peace-Corps-marketing-winning-vartiation.jpg" alt="A screenshot of a winning digital marketing campaign for the Peace Corps." >}}
 
