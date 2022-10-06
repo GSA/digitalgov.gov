@@ -35,6 +35,7 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: ANALYZE-OPTIMIZE-subscribe-request@LISTSERV.GSA.GOV
+    members: 707
     terms: Government employees and contractors only.
 
 primary_image: "white-bg-digital-gov-card-community"
