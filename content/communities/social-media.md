@@ -43,7 +43,7 @@ community_list:
     type: government
     subscribe_email: "SM-COP-subscribe-request@listserv.gsa.gov"
     terms: "Federal employees and federal contractor employees with a .gov or .mil email address are eligible to join."
-    members: 1187
+    members: 1166
 
 primary_image: "white-bg-digital-gov-card-community"
 
