@@ -73,4 +73,4 @@ Our members include more than 1,100 federal, state, and local U.S. government em
 
 ## Key Resources
 
-* https://www.usability.gov/
+* https://www.usability.gov
