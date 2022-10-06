@@ -41,15 +41,19 @@ With yellow highlight
 
 ## Box
 
+1
 
 {{< box >}} Box with no color set {{< /box >}}
 
+2
 
 {{< box color="base" >}} Box with base {{< /box >}}
 
+3
 
 {{< box color="base-light" >}} Box with base-light {{< /box >}}
 
+4
 
 {{< box color="base-dark" >}} Box with base-dark {{< /box >}}
 
@@ -158,7 +162,7 @@ live example: https://digital.gov/2020/08/21/2-lessons-tech-leaders-can-learn/
 
 live examples: https://digital.gov/resources/required-web-content-and-links/ 
 
-Note: Footnotes should display in a slightly smaller text size; not the default.
+_Note_: Footnotes should display in a slightly smaller text size; not the default.
 
 ---
 
