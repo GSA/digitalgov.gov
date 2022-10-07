@@ -124,7 +124,7 @@
         <h4>
           <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a>
         </h4>
-        <img src="{{- $src | relURL -}}" alt="{{- .Params.name -}} logo"/>
+        <img src="{{- $src | relURL -}}" alt="" aria-hidden="true"/>
       </div>
     </div>
   {{- end -}}
