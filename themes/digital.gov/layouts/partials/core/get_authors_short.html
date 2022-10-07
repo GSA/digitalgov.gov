@@ -26,10 +26,10 @@
       {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
       {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $uid) -}}
 
-      <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- .Params.display_name | default $uid -}} " rel="author">
+      <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}}" rel="author">
 
         {{- partial "core/get_author_image.html" (dict "author" . ) -}}
-
+        <span class="usa-sr-only">Posts by</span>
         <span>{{- .Params.display_name | default $uid | markdownify -}}</span>
       </a>{{ if lt (add $i 1) $length }}<!--,--> {{ end }}
 
