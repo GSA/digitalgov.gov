@@ -1,10 +1,10 @@
 ---
 date: 2022-10-07 09:06:00 -0500
-kicker: kicker
+kicker: 
 title: Taking a Design-led Approach to Digital Modernization
 deck: Building GSA’s Enterprise Digital Experience team
-summary: Learn how GSA uses collaboration, empathy, and existing expertise to
-  modernize their digital portfolio and improve customer experience.
+summary: Learn how GSA uses collaboration, empathy, and existing expertise to modernize their digital portfolio and improve customer experience.
+
 # See all topics at https://digital.gov/topics
 topics:
   - design
@@ -12,16 +12,21 @@ topics:
   - performance
   - cx
   - 21st-century-idea
+
 # See all authors at https://digital.gov/authors
 authors:
   - ana-monroe
+
 slug: taking-a-design-led-approach-to-digital-modernization
-primary_image: 10x-ideas-approved
+primary_image: "gsa-logo-blue-bg-1200-x-630"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 How does an 11,000-person organization with a large portfolio of websites and dozens of lines of business manage its digital footprint?
 
 Digital modernization in decades-old federal agencies can be daunting. It can be a struggle to get modern workflows to take root, particularly when teams are challenged with antiquated tools and slow contract cycles.
@@ -53,7 +58,7 @@ That’s why we created brief (approximately 200-word) [plain language](https://
 
 {{< card-quote text="Thank you so much for sharing the report. I am excited to review and bring this back to my team so we can improve our site. I appreciate the work the Enterprise Digital Experience team is doing! I'll be sure to update your team as we make progress towards your recommendations to meet agency goals." cite="GSA web manager" >}}
 
-Building an interdisciplinary team and building on what you have is tough. Working on modernization efforts in the federal conte xt is even tougher. But it’s possible with an empathetic and collaborative approach. We call it design-led, and we know it’s possible in every agency.                                                                                                                                                                                                                                                                      
+Building an interdisciplinary team and building on what you have is tough. Working on modernization efforts in the federal conte xt is even tougher. But it’s possible with an empathetic and collaborative approach. We call it design-led, and we know it’s possible in every agency.
 
 If you’re at a federal agency and want to learn more, contact GSA’s Enterprise Digital Experience team at [CustomerExperience@gsa.gov](mailto:customerexperience@gsa.gov).
 
