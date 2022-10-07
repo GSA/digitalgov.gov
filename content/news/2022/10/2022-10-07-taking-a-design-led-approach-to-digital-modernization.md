@@ -50,7 +50,7 @@ The results are encouraging. After less than one year, and with a relatively sma
 
 In our first year, we evaluated over one-third of GSA’s inventory, sharing the insights about 50 unique data points with each website team. We held conversations with the teams to help them see how their site performs for customers, and against federal and agency requirements.
 
-{{< note >}}CTA icon Use Digital.gov’s handy Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs) to ensure you’ve addressed all critical requirements for your website.{{< /note >}}
+{{< note >}} Use Digital.gov’s handy Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs) to ensure you’ve addressed all critical requirements for your website. {{< /note >}}
 
 That may sound easy; data is everywhere, especially in an agency with such a broad, government-wide mission such as GSA. But taking a design-led approach means that we cannot just push data and recommendations to teams; we must be empathetic to the challenges teams face in how to really understand and act on that data.
 
@@ -62,6 +62,4 @@ Building an interdisciplinary team and building on what you have is tough. Worki
 
 If you’re at a federal agency and want to learn more, contact GSA’s Enterprise Digital Experience team at [CustomerExperience@gsa.gov](mailto:customerexperience@gsa.gov).
 
-{{< note "activity">}}Join Digital.gov’s [Web Managers Community](https://digital.gov/communities/web-content-managers/) to collaborate with web content managers across the government who are working to create a better online experience for the public.{{< /note >}}
-
-{{< note "alert">}}Learn more about the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) and its requirements for government websites and digital services.{{< /note >}}
+{{< note "activity">}} Join Digital.gov’s [Web Managers Community](https://digital.gov/communities/web-content-managers/) to collaborate with web content managers across the government who are working to create a better online experience for the public.<br /><br />Learn more about the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) and its requirements for government websites and digital services. {{< /note >}}
