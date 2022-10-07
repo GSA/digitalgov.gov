@@ -50,7 +50,7 @@ The results are encouraging. After less than one year, and with a relatively sma
 
 In our first year, we evaluated over one-third of GSA’s inventory, sharing the insights about 50 unique data points with each website team. We held conversations with the teams to help them see how their site performs for customers, and against federal and agency requirements.
 
-{{< note >}} Use Digital.gov’s handy Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs) to ensure you’ve addressed all critical requirements for your website. {{< /note >}}
+{{< note >}} Use Digital.gov’s handy [Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs)](https://digital.gov/files/10-2021-checklist-for-federal-websites-and-digital-services.xlsx) to ensure you’ve addressed all critical requirements for your website. {{< /note >}}
 
 That may sound easy; data is everywhere, especially in an agency with such a broad, government-wide mission such as GSA. But taking a design-led approach means that we cannot just push data and recommendations to teams; we must be empathetic to the challenges teams face in how to really understand and act on that data.
 
