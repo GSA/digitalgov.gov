@@ -39,6 +39,12 @@ I identify as a woman from Argentina, who has incorporated a lot of elements fro
 
 I personally don't use the word Latinx; it's mainly used in this country, and very few people outside of this country use that term. This is a very diverse community, with different cultures within the Latinx diáspora. The Spanish language unites us, but even though we speak the same language, our vocabulary changes from country to country and our accents are very different. If I have to pick one thing that makes us one, it is the value we place on our family and cultural heritage.
 
+{{< img src="hhm-2022-laura" >}}
+
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
+
+My family is my connection to our culture. This photo with my two daughters and my granddaughter at the beach is a favorite.
+
 **How do you show up as Latinx? Why is that important to you?**
 
 I have an accent that people notice immediately and it's part of who I am. I don't hide my identity from anyone. I try to help and lift other Latinx/Hispanics—we are a group of hard-working, very capable individuals that sometimes don't get great opportunities.
@@ -53,11 +59,7 @@ Many moments have made me feel good about my career with the government. But if 
 
 **What were some hesitancies you had before considering a role in the federal government?**
 
-I thought it would be too bureaucratic and a little boring. I was very wrong! I was lucky to land in this organization where everyone is passionate about serving the public. I couldn't be more proud of being here.
-
-A picture is worth a thousand words, what photograph or image best represents your cultural connection?
-
-My family is my connection to our culture. This photo with my two daughters and my granddaughter at the beach is a favorite.{{< /note >}}
+I thought it would be too bureaucratic and a little boring. I was very wrong! I was lucky to land in this organization where everyone is passionate about serving the public. I couldn't be more proud of being here.{{< /note >}}
 
 <hr width="75%">
 
@@ -70,6 +72,12 @@ It depends on who’s asking. Generally, I select boxes for Latinx, but familial
 **What is something you find yourself constantly explaining about Latinx identity?**
 
 We don’t all speak Spanish, or the same dialect of Spanish. That doesn’t make you more or less Latinx.
+
+{{< img-right src="hhm-2022-austin" >}}
+
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
+
+This is a photo of me as a baby with my grandpa in 1987. We are both smiling as he plays the guitarrón and I try to dance. In addition to serving in the U.S. Army Reserve and working in civil service until retirement, my grandpa was a mariachi. He played a number of string instruments and sang in mariachi bands at large formal events, religious services, and tourist attractions well into his 80s until he passed away from COVID-19 complications in 2020.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -85,13 +93,7 @@ I really liked being the lead product designer on [FindTreatment.gov](https://fi
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-I was brought up understanding and experiencing a fear of discrimination—either as being seen as “less than” and/or being unlawfully deported or persecuted. I was unsure about what background checks would bring up on extended family, and I would be denied employment. Now, I challenge myself to make these fears a strength of my unique experience.
-
-{{< img-right src="hhm-2022-austin" >}}
-
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
-
-This is a photo of me as a baby with my grandpa in 1987. We are both smiling as he plays the guitarrón and I try to dance. In addition to serving in the U.S. Army Reserve and working in civil service until retirement, my grandpa was a mariachi. He played a number of string instruments and sang in mariachi bands at large formal events, religious services, and tourist attractions well into his 80s until he passed away from COVID-19 complications in 2020.{{< /note >}}
+I was brought up understanding and experiencing a fear of discrimination—either as being seen as “less than” and/or being unlawfully deported or persecuted. I was unsure about what background checks would bring up on extended family, and I would be denied employment. Now, I challenge myself to make these fears a strength of my unique experience.{{< /note >}}
 
 <hr width="75%">
 
@@ -104,6 +106,12 @@ Boricua, Puertorriqueño, or Puerto Rican, and in broader audiences, as Hispanic
 **What is something you find yourself constantly explaining about Latinx identity?**
 
 Are Puerto Rico’s residents included there? I ask this question a lot. Puerto Rico’s current status makes it difficult to understand if Puerto Rico’s residents should be included when designing and building digital services. My answer is that the default should be yes, they should be included. Most federal programs that provide direct assistance to the public are available in the U.S. territories.
+
+{{< img-right src="hhm-2022-edwin" >}}
+
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
+
+With my family, celebrating Christmas after Hurricane Maria, wearing the iconic Puerto Rican jíbaro fashion.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -119,13 +127,7 @@ I co-authored a [10X idea to improve digital services for the U.S. territories](
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-Are there more Latinx people? How is their experience? Since I joined, I’ve been trying to help other Latinx people to learn more about the civil service.
-
-{{< img-right src="hhm-2022-edwin" >}}
-
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
-
-With my family, celebrating Christmas after Hurricane Maria, wearing the iconic Puerto Rican jíbaro fashion.{{< /note >}}
+Are there more Latinx people? How is their experience? Since I joined, I’ve been trying to help other Latinx people to learn more about the civil service.{{< /note >}}
 
 <hr width="75%">
 
@@ -138,6 +140,12 @@ As a Latina from Costa Rica.
 **What is something you find yourself constantly explaining about Latinx identity?**
 
 The diversity of the Latin American diaspora. We’re all races and religions, with unique cultures and cuisines. Even our accents and vocabularies differ from country to country.
+
+{{< img-right src="hhm-2022-dahianna" >}}
+
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+
+In Costa Rica, making traditional tamales with my aunt.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -153,13 +161,7 @@ Using my communications and marketing skills to ensure underrepresented communit
 
 **What were some hesitancies you had before considering a role in the federal government?**
 
-In the beginning I wondered if my accent and background would be seen as a weakness. But now I know they are two of my biggest strengths in representing a diverse workforce that seeks to improve government services for all Americans.
-
-{{< img-right src="hhm-2022-dahianna" >}}
-
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
-
-In Costa Rica, making traditional tamales with my aunt.{{< /note >}}
+In the beginning I wondered if my accent and background would be seen as a weakness. But now I know they are two of my biggest strengths in representing a diverse workforce that seeks to improve government services for all Americans.{{< /note >}}
 
 <hr width="75%">
 
@@ -172,6 +174,12 @@ New American, Mexican and American, Latina, Hispanic...
 **What is something you find yourself constantly explaining about Latinx identity?**
 
 The two last names! As well as the many differences in language, race, and culture within the latinidad.
+
+{{< img-right src="hhm-2022-rebeca" >}}
+
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+
+My family is what represents my cultural connection. This is my dad who always picks me up from the airport and welcomes me home to Monterrey, Mexico.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -187,13 +195,7 @@ To be here! My career in government just started earlier in 2022 and I feel very
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen so I was used to the paperwork, but there is something truly nerve wracking about the background check process. I remember calling my dad asking him if I should be worried about it or if it was just a worry in my mind…he reminded me how proud he was of me and he couldn't believe I could become a federal employee through my work and determination.
-
-{{< img-right src="hhm-2022-rebeca" >}}
-
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
-
-My family is what represents my cultural connection. This is my dad who always picks me up from the airport and welcomes me home to Monterrey, Mexico.{{< /note >}}
+I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen so I was used to the paperwork, but there is something truly nerve wracking about the background check process. I remember calling my dad asking him if I should be worried about it or if it was just a worry in my mind…he reminded me how proud he was of me and he couldn't believe I could become a federal employee through my work and determination.{{< /note >}}
 
 <hr width="75%">
 
@@ -206,6 +208,12 @@ All four of my grandparents have mixed heritages, but my maternal grandfather's 
 **What is something you find yourself constantly explaining about Latinx identity?**
 
 I was born and raised in New York City. Besides the famous nickname, "the Big Apple," New York City is also known as "the melting pot of the world." Having come from both an ethnically-diverse heritage and geographical location, it surprises me how often — outside of New York — I have to explain just how diverse Latinx people are, from skin tone and hair texture, to religion, music, dance, and even language. For example, not only are there different dialects of Spanish, but if one's family is like mine and has been in the U.S. a few generations, it may be less likely that you are fully bilingual and fluent in Spanish (and that that's okay).
+
+{{< img-right src="hhm-2022-u-s-army-ww2" >}}
+
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+
+My grandfather was the first in his family born in the United States. He served overseas in the U.S. Army during World War II as a sergeant but this photo of him in uniform was taken shortly after he enlisted. He and my grandmother met at a United Service Organizations (USO) event after the war, and the rest, as they say, is history.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -225,13 +233,7 @@ When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to piv
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch Digital.gov in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.
-
-{{< img-right src="hhm-2022-u-s-army-ww2" >}}
-
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
-
-My grandfather was the first in his family born in the United States. He served overseas in the U.S. Army during World War II as a sergeant but this photo of him in uniform was taken shortly after he enlisted. He and my grandmother met at a United Service Organizations (USO) event after the war, and the rest, as they say, is history.{{< /note >}}
+There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch Digital.gov in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.{{< /note >}}
 
 <hr width="75%">
 
