@@ -39,6 +39,7 @@ preserveTaxonomyNames   : true
 taxonomies:
   topic                 : "topics"
   author                : "authors"
+  event                 : "events"
 
 outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]

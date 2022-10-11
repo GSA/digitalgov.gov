@@ -19,6 +19,9 @@ authors:
   - josie-anderson
   - raashee-gupta-erry
 
+events:
+  - federal-communicators
+
 community_list:
   - platform: listserv
     type: government

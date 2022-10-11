@@ -16,6 +16,9 @@ authors:
   - lgodfrey
   - fedora-braverman
 
+events:
+  - multilingual
+
 # see all topics at https://digital.gov/topics
 topics:
   - multilingual
