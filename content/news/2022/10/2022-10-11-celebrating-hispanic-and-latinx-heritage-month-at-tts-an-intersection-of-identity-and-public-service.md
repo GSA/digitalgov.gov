@@ -39,11 +39,11 @@ I identify as a woman from Argentina, who has incorporated a lot of elements fro
 
 I personally don't use the word Latinx; it's mainly used in this country, and very few people outside of this country use that term. This is a very diverse community, with different cultures within the Latinx diáspora. The Spanish language unites us, but even though we speak the same language, our vocabulary changes from country to country and our accents are very different. If I have to pick one thing that makes us one, it is the value we place on our family and cultural heritage.
 
-{{< img src="hhm-2022-laura" >}}
-
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
-My family is my connection to our culture. This photo with my two daughters and my granddaughter at the beach is a favorite.
+{{< img src="hhm-2022-laura" >}}
+
+My family is my connection to our culture. In this photo where I am at the beach with my two daughters and my granddaughter is a favorite.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -73,9 +73,9 @@ It depends on who’s asking. Generally, I select boxes for Latinx, but familial
 
 We don’t all speak Spanish, or the same dialect of Spanish. That doesn’t make you more or less Latinx.
 
-{{< img-right src="hhm-2022-austin" >}}
-
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
+
+{{< img-right src="hhm-2022-austin" >}}
 
 This is a photo of me as a baby with my grandpa in 1987. We are both smiling as he plays the guitarrón and I try to dance. In addition to serving in the U.S. Army Reserve and working in civil service until retirement, my grandpa was a mariachi. He played a number of string instruments and sang in mariachi bands at large formal events, religious services, and tourist attractions well into his 80s until he passed away from COVID-19 complications in 2020.
 
@@ -107,9 +107,9 @@ Boricua, Puertorriqueño, or Puerto Rican, and in broader audiences, as Hispanic
 
 Are Puerto Rico’s residents included there? I ask this question a lot. Puerto Rico’s current status makes it difficult to understand if Puerto Rico’s residents should be included when designing and building digital services. My answer is that the default should be yes, they should be included. Most federal programs that provide direct assistance to the public are available in the U.S. territories.
 
-{{< img-right src="hhm-2022-edwin" >}}
-
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
+
+{{< img-right src="hhm-2022-edwin" >}}
 
 With my family, celebrating Christmas after Hurricane Maria, wearing the iconic Puerto Rican jíbaro fashion.
 
@@ -141,11 +141,11 @@ As a Latina from Costa Rica.
 
 The diversity of the Latin American diaspora. We’re all races and religions, with unique cultures and cuisines. Even our accents and vocabularies differ from country to country.
 
-{{< img-right src="hhm-2022-dahianna" >}}
-
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
 
-In Costa Rica, making traditional tamales with my aunt.
+{{< img-right src="hhm-2022-dahianna" >}}
+
+Making traditional tamales with my aunt in Costa Rica.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -175,9 +175,9 @@ New American, Mexican and American, Latina, Hispanic...
 
 The two last names! As well as the many differences in language, race, and culture within the latinidad.
 
-{{< img-right src="hhm-2022-rebeca" >}}
-
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+
+{{< img-right src="hhm-2022-rebeca" >}}
 
 My family is what represents my cultural connection. This is my dad who always picks me up from the airport and welcomes me home to Monterrey, Mexico.
 
@@ -209,9 +209,9 @@ All four of my grandparents have mixed heritages, but my maternal grandfather's 
 
 I was born and raised in New York City. Besides the famous nickname, "the Big Apple," New York City is also known as "the melting pot of the world." Having come from both an ethnically-diverse heritage and geographical location, it surprises me how often — outside of New York — I have to explain just how diverse Latinx people are, from skin tone and hair texture, to religion, music, dance, and even language. For example, not only are there different dialects of Spanish, but if one's family is like mine and has been in the U.S. a few generations, it may be less likely that you are fully bilingual and fluent in Spanish (and that that's okay).
 
-{{< img-right src="hhm-2022-u-s-army-ww2" >}}
-
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+
+{{< img-right src="hhm-2022-u-s-army-ww2" >}}
 
 My grandfather was the first in his family born in the United States. He served overseas in the U.S. Army during World War II as a sergeant but this photo of him in uniform was taken shortly after he enlisted. He and my grandmother met at a United Service Organizations (USO) event after the war, and the rest, as they say, is history.
 
