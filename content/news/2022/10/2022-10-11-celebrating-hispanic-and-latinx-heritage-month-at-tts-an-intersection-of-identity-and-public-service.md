@@ -18,7 +18,9 @@ primary_image: 10x-areas-of-focus
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 At the U.S. General Services Administration (GSA), the Technology Transformation Services (TTS) mission is to design and deliver a digital government by, with, and for the public. TTS has several grassroots-led employee resource groups that create space to share things with one another outside of day-to-day project work, including one for Latinx employees.
 
 We recently asked members of the TTS Latinx employee resource group to talk about identity and why they choose public service.
@@ -85,6 +87,8 @@ I really liked being the lead product designer on [FindTreatment.gov](https://fi
 
 I was brought up understanding and experiencing a fear of discrimination—either as being seen as “less than” and/or being unlawfully deported or persecuted. I was unsure about what background checks would bring up on extended family, and I would be denied employment. Now, I challenge myself to make these fears a strength of my unique experience.
 
+{{< img-right src="hhm-2022-austin" >}}
+
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
 This is a photo of me as a baby with my grandpa in 1987. We are both smiling as he plays the guitarrón and I try to dance. In addition to serving in the U.S. Army Reserve and working in civil service until retirement, my grandpa was a mariachi. He played a number of string instruments and sang in mariachi bands at large formal events, religious services, and tourist attractions well into his 80s until he passed away from COVID-19 complications in 2020.{{< /note >}}
@@ -116,6 +120,8 @@ I co-authored a [10X idea to improve digital services for the U.S. territories](
 **What were some hesitancies you had before considering a role in the federal government?** 
 
 Are there more Latinx people? How is their experience? Since I joined, I’ve been trying to help other Latinx people to learn more about the civil service.
+
+{{< img-right src="hhm-2022-edwin" >}}
 
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
@@ -149,6 +155,8 @@ Using my communications and marketing skills to ensure underrepresented communit
 
 In the beginning I wondered if my accent and background would be seen as a weakness. But now I know they are two of my biggest strengths in representing a diverse workforce that seeks to improve government services for all Americans.
 
+{{< img-right src="hhm-2022-dahianna" >}}
+
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
 
 In Costa Rica, making traditional tamales with my aunt.{{< /note >}}
@@ -180,6 +188,8 @@ To be here! My career in government just started earlier in 2022 and I feel very
 **What were some hesitancies you had before considering a role in the federal government?** 
 
 I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen so I was used to the paperwork, but there is something truly nerve wracking about the background check process. I remember calling my dad asking him if I should be worried about it or if it was just a worry in my mind…he reminded me how proud he was of me and he couldn't believe I could become a federal employee through my work and determination.
+
+{{< img-right src="hhm-2022-rebeca" >}}
 
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
 
@@ -216,6 +226,8 @@ When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to piv
 **What were some hesitancies you had before considering a role in the federal government?** 
 
 There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch Digital.gov in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.
+
+{{< img-right src="hhm-2022-u-s-army-ww2" >}}
 
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
 
