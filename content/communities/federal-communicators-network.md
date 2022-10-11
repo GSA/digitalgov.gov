@@ -20,7 +20,7 @@ authors:
   - raashee-gupta-erry
 
 events:
-  - federal-communicators
+  - communicators
 
 community_list:
   - platform: listserv
