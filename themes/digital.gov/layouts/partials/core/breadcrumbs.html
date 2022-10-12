@@ -3,7 +3,7 @@
     <div class="grid-row">
       <div class="grid-col-auto">
         <p>
-          <a href="/">Home</a>
+          <a href="/" aria-label="Back to Home">Home</a>
           {{- template "breadcrumb" dict "current" . "id" .File.UniqueID -}}
         </p>
       </div>
@@ -23,7 +23,7 @@
     {{- if eq .id .current.File.UniqueID }}
     <span class="arrow-right"></span> {{ .current.Title -}}
     {{ else }}
-    <span class="arrow-right"></span> <a href="{{- .current.Permalink -}}">{{- .current.Title -}}</a>
+    <span class="arrow-right"></span> <a href="{{- .current.Permalink -}}" aria-label="Back to {{- .current.Title -}}">{{- .current.Title -}}</a>
     {{- end -}}
 
   {{- end -}}
