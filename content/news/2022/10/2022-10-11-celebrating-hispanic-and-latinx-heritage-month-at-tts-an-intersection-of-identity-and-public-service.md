@@ -75,9 +75,9 @@ I was born and raised in New York City. Besides the famous nickname, "the Big Ap
 
 {{< img-right src="hhm-2022-u-s-army-ww2" >}}
 
-My grandfather was the first in his family born in the United States. He served overseas in the U.S. Army during World War II as a sergeant, but this photo of him in uniform was taken shortly after he enlisted. He and my grandmother met at a [United Service Organizations](https://www.uso.org/) (USO) event after the war, and the rest, as they say, is history.
+My grandfather was the first in his family born in the United States. He served overseas in the U.S. Army during World War II as a sergeant, but this photo of him in uniform was taken shortly after he enlisted. He and my grandmother met at a United Service Organizations (USO) event after the war, and the rest, as they say, is history.
 
-Special shout-out to the National Archives and Records Administration (NARA)&mdash; thanks to the ongoing digitization of their _vast_ array of records, I was able to find copies of his dad's (my great-grandfather's) 1918 Declaration of Intention (to become a citizen), 1921 Petition for Naturalization, and 1922 Oath of Allegiance.
+Special shout-out to the U.S. National Archives and Records Administration (NARA)&mdash; thanks to the ongoing digitization of their _vast_ array of records, I was able to find copies of his dad's (my great-grandfather's) 1918 Declaration of Intention &#91;to become a citizen&#93;, 1921 Petition for Naturalization, and 1922 Oath of Allegiance.
 
 **How do you show up as Latinx? Why is that important to you?**
 
