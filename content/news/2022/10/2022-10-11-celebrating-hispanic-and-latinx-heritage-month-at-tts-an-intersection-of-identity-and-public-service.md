@@ -2,10 +2,8 @@
 date: 2022-10-11 12:10:00 -0500
 title: "Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection
   of Identity and Public Service"
-deck: Members of the Latinx Employee Resource Group share their stories of
-  public service.
-summary: In this blog, six TTS employees share some stories of identity and
-  their paths into public service.
+deck: Members of the Latinx Employee Resource Group share their stories of public service.
+summary: In this blog, six Technology Transformation Services (TTS) employees share stories of identity and their paths into public service.
 # See all topics at https://digital.gov/topics
 topics:
   - tts
