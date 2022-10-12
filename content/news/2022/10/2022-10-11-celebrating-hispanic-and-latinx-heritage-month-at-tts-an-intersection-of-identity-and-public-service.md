@@ -93,11 +93,11 @@ There was no hesitation; both sides of my family have served in the U.S. militar
 
 **What is your proudest achievement in your professional career within the government?**
 
-Since it launched on February 14, 2014, the growth and impact of Digital.gov across the federal space has been a point of pride.
+Since it launched on February 14, 2014, the growth and impact of [Digital.gov](https://Digital.gov) across the federal space has been a point of pride.
 
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century. Our very small but mighty team manages multiple communities of practice, and produces news articles, evergreen resources, and live video events (including monthly calls with the [U.S. Web Design System](https://designsystem.digital.gov/) and annual full- and multi-day summits) on a variety of technology, content, design, policy, and professional development topics so that our fellow feds can expand their skills and improve their products and programs to better serve the public.
 
-When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to pivot from in-person and hybrid events to fully virtual ones to continue to serve our customers; federal employees. In 2021, we hosted 65 events with a total of 16,157 attendees; event satisfaction scores averaged 4.5 out of 5. Our email marketing and social media outreach helped grow Digital.gov communities to more than 25,000 members and Twitter followers to nearly 56,000. In 2020, our website pageviews doubled to over 1.1 million and has been consistently in that range for the last three years.{{< /note >}}
+When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to pivot from in-person and hybrid events to fully virtual ones to continue to serve our customers; federal employees. In 2021, we hosted 65 events with a total of 16,157 attendees; event satisfaction scores averaged 4.5 out of 5. Our email marketing and social media outreach helped grow Digital.gov's [Communities of Practice](https://digital.gov/communities/) to more than 25,000 members and [Twitter followers](https://twitter.com/Digital_Gov/) to nearly 56,000. In 2020, our website pageviews doubled to over 1.1 million and has been consistently in that range for the last three years.{{< /note >}}
 
 <hr width="75%">
 
