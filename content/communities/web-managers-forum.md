@@ -28,7 +28,7 @@ authors:
   - beth-martin
   - ruxi-giura
 
-events:
+event_cop:
   - web-managers
 
 # Page weight: controls how this page appears across the site

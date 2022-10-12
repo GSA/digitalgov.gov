@@ -19,7 +19,7 @@ authors:
   - josie-anderson
   - raashee-gupta-erry
 
-events:
+event_cop:
   - communicators
 
 community_list:

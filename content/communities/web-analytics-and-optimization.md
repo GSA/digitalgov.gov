@@ -21,7 +21,7 @@ aliases:
 authors:
   - tlowden
 
-events:
+event_cop:
   - web-analytics
 
 
