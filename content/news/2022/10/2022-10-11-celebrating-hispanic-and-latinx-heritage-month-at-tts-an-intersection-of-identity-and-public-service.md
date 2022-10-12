@@ -43,7 +43,7 @@ I personally don't use the word Latinx; it's mainly used in this country, and ve
 
 {{< img-right src="hhm-2022-laura" >}}
 
-My family is my connection to our culture. In this photo where I am at the beach with my two daughters and my granddaughter is a favorite.
+My family is my connection to our culture. This photo, where I am at the beach with my two daughters and my granddaughter, is a favorite.
 
 **How do you show up as Latinx? Why is that important to you?**
 
