@@ -41,7 +41,7 @@ I personally don't use the word Latinx; it's mainly used in this country, and ve
 
 {{< img-right src="hhm-2022-laura" >}}
 
-My family is my connection to our culture. This photo, where I am at the beach with my two daughters and my granddaughter, is a favorite.
+My family is my connection to our culture. This photo, where I am at a beach with my two daughters and my granddaughter, is a favorite.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -89,15 +89,15 @@ Most of my tech career has been in the private and non-profit sectors. I especia
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch Digital.gov in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.
+There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch [Digital.gov](https://Digital.gov) in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.
 
 **What is your proudest achievement in your professional career within the government?**
 
 Since it launched on February 14, 2014, the growth and impact of [Digital.gov](https://Digital.gov) across the federal space has been a point of pride.
 
-Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century. Our very small but mighty team manages multiple communities of practice, and produces news articles, evergreen resources, and live video events (including monthly calls with the [U.S. Web Design System](https://designsystem.digital.gov/) and annual full- and multi-day summits) on a variety of technology, content, design, policy, and professional development topics so that our fellow feds can expand their skills and improve their products and programs to better serve the public.
+Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century. Our very small but mighty team manages multiple [Communities of Practice](https://digital.gov/communities/), and produces [news](https://digital.gov/news/) articles, evergreen [guides and resources](https://digital.gov/resources/), and live video [events](https://digital.gov/events/) (including monthly calls with the [U.S. Web Design System](https://designsystem.digital.gov/) and annual full- and multi-day summits) on a variety of technology, content, design, policy, and professional development topics so that our fellow feds can expand their skills and improve their products and programs to better serve the public.
 
-When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to pivot from in-person and hybrid events to fully virtual ones to continue to serve our customers; federal employees. In 2021, we hosted 65 events with a total of 16,157 attendees; event satisfaction scores averaged 4.5 out of 5. Our email marketing and social media outreach helped grow Digital.gov's [Communities of Practice](https://digital.gov/communities/) to more than 25,000 members and [Twitter followers](https://twitter.com/Digital_Gov/) to nearly 56,000. In 2020, our website pageviews doubled to over 1.1 million and has been consistently in that range for the last three years.{{< /note >}}
+When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to pivot from in-person and hybrid events to fully virtual ones to continue to serve our customers; federal employees. In 2021, we hosted 65 events with a total of 16,157 attendees; event satisfaction scores averaged 4.5 out of 5. Our email marketing and social media outreach helped grow Digital.gov's communities to more than 25,000 members and [Twitter followers](https://twitter.com/Digital_Gov/) to nearly 56,000. In 2020, our website pageviews doubled to over 1.1 million and has been consistently in that range for the last three years.{{< /note >}}
 
 <hr width="75%">
 
@@ -115,7 +115,7 @@ We don’t all speak Spanish, or the same dialect of Spanish. That doesn’t mak
 
 {{< img-right src="hhm-2022-austin" >}}
 
-This is a photo of me as a baby with my grandpa in 1987. We are both smiling as he plays the guitarrón and I try to dance. In addition to serving in the U.S. Army Reserve and working in civil service until retirement, my grandpa was a mariachi. He played a number of string instruments and sang in mariachi bands at large formal events, religious services, and tourist attractions well into his 80s until he passed away from COVID-19 complications in 2020.
+This is a photo of me as a baby with my grandpa in 1987. We are both smiling as he plays the _guitarrón_ and I try to dance. In addition to serving in the U.S. Army Reserve and working in civil service until retirement, my grandpa was a mariachi. He played a number of string instruments and sang in mariachi bands at large formal events, religious services, and tourist attractions well into his 80s until he passed away from COVID-19 complications in 2020.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -143,13 +143,13 @@ Boricua, Puertorriqueño, or Puerto Rican, and in broader audiences, Hispanic.
 
 **What is something you find yourself constantly explaining about Latinx identity?**
 
-Are Puerto Rico’s residents included there? I ask this question a lot. Puerto Rico’s current status makes it difficult to understand if Puerto Rico’s residents should be included when designing and building digital services. My answer is that the default should be yes, they should be included. Most federal programs that provide direct assistance to the public are available in the U.S. territories.
+"Are Puerto Rico’s residents included there?" I ask this question a lot. Puerto Rico’s current status makes it difficult to understand if Puerto Rico’s residents should be included when designing and building digital services. My answer is that the default should be yes; they should be included. Most federal programs that provide direct assistance to the public are available in the U.S. territories.
 
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
 {{< img-right src="hhm-2022-edwin" >}}
 
-With my family, celebrating Christmas after Hurricane Maria, wearing the iconic Puerto Rican jíbaro fashion.
+This is my family, celebrating Christmas after Hurricane Maria and wearing the iconic Puerto Rican _jíbaro_ fashion.
 
 **How do you show up as Latinx? Why is that important to you?**
 
@@ -187,7 +187,7 @@ My family is what represents my cultural connection. This is my dad who always p
 
 **How do you show up as Latinx? Why is that important to you?**
 
-Born and raised in Mexico and now serving in government and recognizing that there aren't many like me, makes me realize the immense opportunity and responsibility I have in representing my Latinx identity and showing up as my full self&mdash;even though that may feel heavy at times. Owning that I come from a complex and rich heritage, and that being multilingual, having an accent and a different lived experience is a super power and a perspective that matters. Encouraging and leveraging diversity of thought and backgrounds is something that creates values and ignites innovation.
+Having been born and raised in Mexico, and now serving in government and recognizing that there aren't many like me, makes me realize the immense opportunity and responsibility I have in representing my Latinx identity and showing up as my full self&mdash;even though that may feel heavy at times. Owning that I come from a complex and rich heritage, and that being multilingual, having an accent and a different lived experience is a super power and a perspective that matters. Encouraging and leveraging diversity of thought and backgrounds is something that creates values and ignites innovation.
 
 **Why do you serve?**
 
