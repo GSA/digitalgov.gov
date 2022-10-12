@@ -71,7 +71,7 @@ All four of my grandparents have mixed heritages, but my maternal grandfather's 
 
 I was born and raised in New York City. Besides the famous nickname, "the Big Apple," New York City is also known as "the melting pot of the world." Having come from both a heritage and geographical location that is ethnically diverse, it surprises me how often — outside of New York — I have to explain just how diverse Latinx people are, from skin tone and hair texture, to religion, music, dance, and even language. For example, not only are there different dialects of Spanish, but if one's family is like mine and has been in the U.S. a few generations, it may be less likely that you are fully bilingual and fluent in Spanish (and that that's okay). 
 
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
 {{< img-right src="hhm-2022-u-s-army-ww2" >}}
 
@@ -179,7 +179,7 @@ New American, Mexican and American, Latina, Hispanic ...
 
 The two last names! As well as the many differences in language, race, and culture within the latinidad.
 
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
 {{< img-right src="hhm-2022-rebeca" >}}
 
@@ -213,7 +213,7 @@ As a Latina from Costa Rica.
 
 The diversity of the Latin American diaspora. We’re all races and religions, with unique cultures and cuisines. Even our accents and vocabularies differ from country to country.
 
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
 {{< img-right src="hhm-2022-dahianna" >}}
 
