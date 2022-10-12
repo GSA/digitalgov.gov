@@ -13,7 +13,7 @@ topics:
 authors:
   - austin-hernandez
 slug: celebrating-hispanic-and-latinx-heritage-month-at-tts-an-intersection-of-identity-and-public-service
-primary_image: 10x-areas-of-focus
+primary_image: "tts-hhm-yulia-novik-istock-getty-images-1402997939-copy"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -29,7 +29,7 @@ To advance and increase the understanding of Latinx identity in design, tech, an
 
 <hr width="75%">
 
-{{< note "comment" >}}## Laura Godfrey, Vote.gov — Public Experience Portfolio, TTS Solution
+{{< note "comment" >}}## Laura Godfrey, Vote.gov — Public Experience Portfolio, TTS Solutions
 
 **How do you identify?**
 
@@ -63,11 +63,49 @@ I thought it would be too bureaucratic and a little boring. I was very wrong! I 
 
 <hr width="75%">
 
+{{< note "comment" >}}## Toni Bonitto, Innovation Specialist, Digital.gov – Innovation Portfolio, TTS Solutions
+
+**How do you identify?**
+
+All four of my grandparents have mixed heritages, but my maternal grandfather's family left Spain for the Americas as Sephardic Jews. I identify as Black Hispanic (or Afro-Latina), as those are the two main cultures of my childhood.
+
+**What is something you find yourself constantly explaining about Latinx identity?**
+
+I was born and raised in New York City. Besides the famous nickname, "the Big Apple," New York City is also known as "the melting pot of the world." Having come from both a heritage and geographical location that is ethnically-diverse, it surprises me how often — outside of New York — I have to explain just how diverse Latinx people are, from skin tone and hair texture, to religion, music, dance, and even language. For example, not only are there different dialects of Spanish, but if one's family is like mine and has been in the U.S. a few generations, it may be less likely that you are fully bilingual and fluent in Spanish (and that that's okay). 
+
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+
+{{< img-right src="hhm-2022-u-s-army-ww2" >}}
+
+My grandfather was the first in his family born in the United States. He served overseas in the U.S. Army during World War II as a sergeant but this photo of him in uniform was taken shortly after he enlisted. He and my grandmother met at a United Service Organizations (USO) event after the war, and the rest, as they say, is history.
+
+**How do you show up as Latinx? Why is that important to you?**
+
+Having such a diverse background allows me to share perspectives that don't seem to have been common in government. As individuals, I see how we are helping to improve digital products and services for the public, but as a cultural group, we are also helping to ensure that our government, as a whole, becomes more diverse, inclusive, equitable, and accessible. Over the last eight years, I have been happy to be part of a work culture that is increasingly intentional in how it can better serve the public, actively working to improve not only user and customer experience, but representation in our national workforce&mdash;which I think will be an important factor in improving the public's trust in government.
+
+**Why do you serve?**
+
+Most of my tech career has been in the private and non-profit sectors. I especially loved the non-profit nature conservation organizations that I worked for, but I always wanted to serve the public, too, in some capacity.
+
+**What is your proudest achievement in your professional career within the government?**
+
+Since it launched on February 14, 2014, the growth and impact of Digital.gov across the federal space has been a point of pride.
+
+Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century. Our very small but mighty team manages multiple communities of practice, and produces news articles, evergreen resources, and live video events (including monthly calls with the [U.S. Web Design System](https://designsystem.digital.gov/) and various annual full- and multi-day summits) on a variety of technology, content, design, policy, and professional development topics so that our fellow feds can expand their skills and improve their products and programs to better serve the public.
+
+When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to pivot from in-person and hybrid events to fully virtual ones to continue to serve our customers; federal employees. In 2021, we hosted 65 events with a total of 16,157 attendees; event satisfaction scores averaged 4.5 out of 5. Our email marketing and social media outreach helped grow Digital.gov communities to more than 25,000 members and Twitter followers to nearly 56,000. In 2020, our website pageviews doubled to over 1.1 million and has been consistently in that range for the last three years.
+
+**What were some hesitancies you had before considering a role in the federal government?** 
+
+There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch Digital.gov in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.{{< /note >}}
+
+<hr width="75%">
+
 {{< note "comment" >}}## Austin Hernandez, Product Design — 18F
 
 **How do you identify?**
 
-It depends on who’s asking. Generally, I select boxes for Latinx, but familially and culturally I am 100% Tejano. If people want to talk about racial identity, I’m [mestizo](https://www.pewresearch.org/fact-tank/2015/07/10/mestizo-and-mulatto-mixed-race-identities-unique-to-hispanics/), which is someone that is mixed-race through Spanish colonization and genetically mostly Native American and Iberian.
+It depends on who’s asking. Generally, I select boxes for Latinx, but familially and culturally I am 100% Tejano. If people want to talk about racial identity, I’m [mestizo](https://www.pewresearch.org/fact-tank/2015/07/10/mestizo-and-mulatto-mixed-race-identities-unique-to-hispanics/), which is someone who is mixed-race through Spanish colonization and is genetically mostly Native American and Iberian.
 
 **What is something you find yourself constantly explaining about Latinx identity?**
 
@@ -81,7 +119,7 @@ This is a photo of me as a baby with my grandpa in 1987. We are both smiling as 
 
 **How do you show up as Latinx? Why is that important to you?**
 
-In our employee resource group, we talk a lot about how our appearance, name, and accents have all been used to call into question our Latinx identity. It used to be something I tried to “prove” until I realized the problem wasn’t me. It’s a lack of understanding about the diversity of Latinx identity and perceptions are based on stereotypes and oversimplifications. It’s important for me to be living proof of all the intersecting identities to change the narrative.
+In our employee resource group, we talk a lot about how our appearance, name, and accents have all been used to call into question our Latinx identity. It used to be something I tried to “prove” until I realized the problem wasn’t me. It’s a lack of understanding about the diversity of Latinx identity and perceptions that are based on stereotypes and oversimplifications. It’s important for me to be living proof of all the intersecting identities to change the narrative.
 
 **Why do you serve?**
 
@@ -101,7 +139,7 @@ I was brought up understanding and experiencing a fear of discrimination—eithe
 
 **How do you identify?**
 
-Boricua, Puertorriqueño, or Puerto Rican, and in broader audiences, as Hispanic.
+Boricua, Puertorriqueño, or Puerto Rican, and in broader audiences, Hispanic.
 
 **What is something you find yourself constantly explaining about Latinx identity?**
 
@@ -157,19 +195,19 @@ As an immigrant and the first in my family to go to college, I sought to work in
 
 **What is your proudest achievement in your professional career within the government?**
 
-Using my communications and marketing skills to ensure underrepresented communities in government and tech learn about the [U.S. Digital Corps](https://digitalcorps.gsa.gov/). I am proud of the work we did to recruit and hire the first cohort of Fellows from 19 states and territories, 83% of whom are first-time federal employees. I am also proud of the recruitment work we are currently doing for the 2023 cohort by having a presence at events focusing on diversity in tech and government like the [League of United Latin American Citizens](https://lulac.org/convention22/), [Tapia](https://tapiaconference.cmd-it.org/), and [Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2022/).
+Using my communications and marketing skills to ensure underrepresented communities in government and tech learn about the [U.S. Digital Corps](https://digitalcorps.gsa.gov/). I am proud of the work we did to recruit and hire the first cohort of Fellows from 19 states and territories&mdash;83% of whom are first-time federal employees. I am also proud of the recruitment work we are currently doing for the 2023 cohort by having a presence at events focusing on diversity in tech and government, like the [League of United Latin American Citizens](https://lulac.org/convention22/), [Tapia](https://tapiaconference.cmd-it.org/), and [Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2022/).
 
 **What were some hesitancies you had before considering a role in the federal government?**
 
-In the beginning I wondered if my accent and background would be seen as a weakness. But now I know they are two of my biggest strengths in representing a diverse workforce that seeks to improve government services for all Americans.{{< /note >}}
+In the beginning, I wondered if my accent and background would be seen as a weakness. Now I know that they are two of my biggest strengths in representing a diverse workforce that seeks to improve government services for all Americans.{{< /note >}}
 
 <hr width="75%">
 
-{{< note "comment" >}}## Rebeca Lamadrid Villarreal, PIF, Executive Director — Presidential Innovation Fellows
+{{< note "comment" >}}## Rebeca Lamadrid Villarreal, PIF Executive Director — Presidential Innovation Fellows
 
 **How do you identify?**
 
-New American, Mexican and American, Latina, Hispanic...
+New American, Mexican and American, Latina, Hispanic ...
 
 **What is something you find yourself constantly explaining about Latinx identity?**
 
@@ -183,7 +221,7 @@ My family is what represents my cultural connection. This is my dad who always p
 
 **How do you show up as Latinx? Why is that important to you?**
 
-Born and raised in Mexico and now serving in government and recognizing that there aren't many like me, makes me realize the immense opportunity and responsibility I have in representing my Latinx identity and showing up as my full self —even though that may feel heavy at times. Owning that I come from a complex and rich heritage, and that being multilingual, having an accent and a different lived experience is a super power and a perspective that matters. Encouraging and leveraging diversity of thought and backgrounds is something that creates values and ignites innovation.
+Born and raised in Mexico and now serving in government and recognizing that there aren't many like me, makes me realize the immense opportunity and responsibility I have in representing my Latinx identity and showing up as my full self&mdash;even though that may feel heavy at times. Owning that I come from a complex and rich heritage, and that being multilingual, having an accent and a different lived experience is a super power and a perspective that matters. Encouraging and leveraging diversity of thought and backgrounds is something that creates values and ignites innovation.
 
 **Why do you serve?**
 
@@ -195,45 +233,7 @@ To be here! My career in government just started earlier in 2022 and I feel very
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen so I was used to the paperwork, but there is something truly nerve wracking about the background check process. I remember calling my dad asking him if I should be worried about it or if it was just a worry in my mind…he reminded me how proud he was of me and he couldn't believe I could become a federal employee through my work and determination.{{< /note >}}
-
-<hr width="75%">
-
-{{< note "comment" >}}## Toni Bonitto, Innovation Specialist, Digital.gov – Innovation Portfolio, TTS Solutions
-
-**How do you identify?**
-
-All four of my grandparents have mixed heritages, but my maternal grandfather's family left Spain for the Americas as Sephardic Jews. I identify as Black Hispanic (or Afro-Latina), as those are the two main cultures of my childhood.
-
-**What is something you find yourself constantly explaining about Latinx identity?**
-
-I was born and raised in New York City. Besides the famous nickname, "the Big Apple," New York City is also known as "the melting pot of the world." Having come from both an ethnically-diverse heritage and geographical location, it surprises me how often — outside of New York — I have to explain just how diverse Latinx people are, from skin tone and hair texture, to religion, music, dance, and even language. For example, not only are there different dialects of Spanish, but if one's family is like mine and has been in the U.S. a few generations, it may be less likely that you are fully bilingual and fluent in Spanish (and that that's okay).
-
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
-
-{{< img-right src="hhm-2022-u-s-army-ww2" >}}
-
-My grandfather was the first in his family born in the United States. He served overseas in the U.S. Army during World War II as a sergeant but this photo of him in uniform was taken shortly after he enlisted. He and my grandmother met at a United Service Organizations (USO) event after the war, and the rest, as they say, is history.
-
-**How do you show up as Latinx? Why is that important to you?**
-
-Having such a diverse background allows me to share perspectives that don't seem to have been common in government. As individuals, I see how we are helping to improve digital products and services for the public, but as a cultural group, we are also helping to ensure that our government, as a whole, becomes more diverse, inclusive, equitable, and accessible. Over the last eight years, I have been happy to be part of a work culture that is increasingly intentional in how it can better serve the public, actively working to improve not only user and customer experience, but representation in our workforce—which I think will be an important factor in improving the public's trust in government.
-
-**Why do you serve?**
-
-Most of my tech career has been in the private and non-profit sectors. I especially loved the non-profit nature conservation organizations that I worked for, but I always wanted to serve the public, too, in some capacity.
-
-**What is your proudest achievement in your professional career within the government?**
-
-Since it launched on February 14, 2014, the growth and impact of Digital.gov across the federal space has been a point of pride.
-
-Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century. Our very small but mighty team manages multiple communities of practice, and produces news articles, evergreen resources, and live video events (including monthly calls with the [U.S. Web Design System](https://designsystem.digital.gov/) and various annual full- and multi-day summits) on a variety of technology, content, design, policy, and professional development topics so that our fellow feds can expand their skills and improve their products and programs to better serve the public.
-
-When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to pivot from in-person and hybrid events to fully virtual ones to continue to serve our customers; federal employees. In 2021, we hosted 65 events with a total of 16,157 attendees; event satisfaction scores averaged 4.5 out of 5. Our email marketing and social media outreach helped grow Digital.gov communities to more than 25,000 members and Twitter followers to nearly 56,000. In 2020, our website pageviews doubled to over 1.1 million and has been consistently in that range for the last three years.
-
-**What were some hesitancies you had before considering a role in the federal government?** 
-
-There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch Digital.gov in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.{{< /note >}}
+I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen, so I was used to the paperwork, but there is something truly nerve-wracking about the background check process. I remember calling my dad asking him if I should be worried about it or if it was just a worry in my mind... he reminded me how proud he was of me and he believed I could become a federal employee through my work and determination.{{< /note >}}
 
 <hr width="75%">
 
