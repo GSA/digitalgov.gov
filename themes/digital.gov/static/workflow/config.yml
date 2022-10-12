@@ -393,6 +393,7 @@ collections:
         options: ["communicators", "multilingual", "plain-language", "web-managers", "web-analytics", "social-media", "user-experience"]
         collection: "events"
         default: ""
+        multiple: true
         required: false
         hint: "Associate any Community of Practices with the event"
       - label: "Registration URL"
@@ -824,6 +825,7 @@ collections:
         hint: "See all topics at https://digital.gov/topics"
         comment: "See all topics at https://digital.gov/topics"
         required: false
+
   # TOPICS =======================
   - <<: *defaults
     name: "topics"
