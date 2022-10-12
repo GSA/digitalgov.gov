@@ -17,10 +17,10 @@ pronoun: ""
 slug: lgodfrey
 
 # if you include an email address, it will be displayed on your profile page
-email: "laura.godfrey@gsa.gov"
+email: ""
 
 # Bio — keep it under 50 words
-bio: "Laura Godfrey is the Agency Partnerships and [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) lead in [USAGov](https://www.usa.gov/), part of the [Technology Transformation Services](https://www.gsa.gov/tts) here at [GSA](https://www.gsa.gov/) with close to 20 years of experience in the digital space. Prior to working for the U.S. government, she worked for the private and international sectors. Laura has a B.A. in communications from the University of Maryland, advanced classical music studies at the Conservatorio de M&amp;#218;sica Gilardo Gilardi in Buenos Aires, Argentina, and is a member of the North American Academy of the Spanish Language."
+bio: "With close to 20 years of experience in the digital space, Laura Godfrey is the Agency Partnerships and [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) lead in [USAGov](https://www.usa.gov/), which is part of the [Technology Transformation Services](https://www.gsa.gov/tts) here at [GSA](https://www.gsa.gov/). Prior to working for the U.S. government, she worked in the private and international sectors. Laura has a B.A. in Communications from the University of Maryland, advanced classical music studies at the Conservatorio de Música Gilardo Gilardi in Buenos Aires, Argentina, and is a member of the North American Academy of the Spanish Language."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: "https://www.usa.gov/"
