@@ -387,12 +387,14 @@ collections:
         name: "event_organizer"
         widget: "string"
         default: "Digital.gov"
-      - label: "Event CoP"
+      - label: "Event Related CoP"
         name: "cop_events"
-        widget: "relations"
+        widget: "select"
+        options: ["communicators", "multilingual", "plain-language", "web-managers", "web-analytics", "social-media", "user-experience"]
         collection: "events"
         default: ""
-        hint: "Use the following for the CoP to be included: federal-communicators, multilingual, plain-language, web-managers, web-analytics, social-media, user-experience"
+        required: false
+        hint: "Associate any Community of Practices with the event"
       - label: "Registration URL"
         name: "registration_url"
         widget: "string"
