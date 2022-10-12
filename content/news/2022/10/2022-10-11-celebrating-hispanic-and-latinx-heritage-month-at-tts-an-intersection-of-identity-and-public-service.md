@@ -53,13 +53,13 @@ I have an accent that people notice immediately and it's part of who I am. I don
 
 I'm passionate about serving the public and very lucky to have the opportunity to serve. When I worked for an international health organization and traveled all over Latin America documenting programs aimed at improving the health of people in Latin America, I learned a lot about the diversity of our culture. Working for the government takes on a different dimension. I try to make government information and services accessible to all Hispanics in the United States in Spanish. I also lead Digital.gov’s [Multilingual Community of Practice](https://digital.gov/communities/multilingual/). In this additional role, I get to help colleagues across the government improve the Spanish information they make available online so everyone can access it and understand it—regardless of country or education level.
 
-**What is your proudest achievement in your professional career within the government?**
-
-Many moments have made me feel good about my career with the government. But if I had to pick one, I think it's the time I helped someone who was suffering from domestic abuse to connect with the information and services she needed. This was at a conference where [USAGov en Español](https://www.usa.gov/espanol/) was an exhibitor. This person stopped by the booth and told us what was happening to her and we helped her right then and there. I will never forget that experience.
-
 **What were some hesitancies you had before considering a role in the federal government?**
 
-I thought it would be too bureaucratic and a little boring. I was very wrong! I was lucky to land in this organization where everyone is passionate about serving the public. I couldn't be more proud of being here.{{< /note >}}
+I thought it would be too bureaucratic and a little boring. I was very wrong! I was lucky to land in this organization where everyone is passionate about serving the public. I couldn't be more proud of being here.
+
+**What is your proudest achievement in your professional career within the government?**
+
+Many moments have made me feel good about my career with the government. But if I had to pick one, I think it's the time I helped someone who was suffering from domestic abuse to connect with the information and services she needed. This was at a conference where [USAGov en Español](https://www.usa.gov/espanol/) was an exhibitor. This person stopped by the booth and told us what was happening to her and we helped her right then and there. I will never forget that experience.{{< /note >}}
 
 <hr width="75%">
 
@@ -87,17 +87,17 @@ Having such a diverse background allows me to share perspectives that don't seem
 
 Most of my tech career has been in the private and non-profit sectors. I especially loved the non-profit nature conservation organizations that I worked for, but I always wanted to serve the public, too, in some capacity.
 
+**What were some hesitancies you had before considering a role in the federal government?** 
+
+There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch Digital.gov in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.
+
 **What is your proudest achievement in your professional career within the government?**
 
 Since it launched on February 14, 2014, the growth and impact of Digital.gov across the federal space has been a point of pride.
 
-Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century. Our very small but mighty team manages multiple communities of practice, and produces news articles, evergreen resources, and live video events (including monthly calls with the [U.S. Web Design System](https://designsystem.digital.gov/) and various annual full- and multi-day summits) on a variety of technology, content, design, policy, and professional development topics so that our fellow feds can expand their skills and improve their products and programs to better serve the public.
+Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century. Our very small but mighty team manages multiple communities of practice, and produces news articles, evergreen resources, and live video events (including monthly calls with the [U.S. Web Design System](https://designsystem.digital.gov/) and annual full- and multi-day summits) on a variety of technology, content, design, policy, and professional development topics so that our fellow feds can expand their skills and improve their products and programs to better serve the public.
 
-When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to pivot from in-person and hybrid events to fully virtual ones to continue to serve our customers; federal employees. In 2021, we hosted 65 events with a total of 16,157 attendees; event satisfaction scores averaged 4.5 out of 5. Our email marketing and social media outreach helped grow Digital.gov communities to more than 25,000 members and Twitter followers to nearly 56,000. In 2020, our website pageviews doubled to over 1.1 million and has been consistently in that range for the last three years.
-
-**What were some hesitancies you had before considering a role in the federal government?** 
-
-There was no hesitation; both sides of my family have served in the U.S. military or government for many generations. I started as a contractor to launch Digital.gov in early 2014, and accepted the offer that came at the end of that year to transition to an FTE (full-time employee) in early 2015. As one who is a descendant of enslaved Africans, Indigenous peoples native to this hemisphere, and European and Caribbean immigrants, my hope is that through our work, I can help make a difference for all who call, or wish to call, the United States their home.{{< /note >}}
+When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to pivot from in-person and hybrid events to fully virtual ones to continue to serve our customers; federal employees. In 2021, we hosted 65 events with a total of 16,157 attendees; event satisfaction scores averaged 4.5 out of 5. Our email marketing and social media outreach helped grow Digital.gov communities to more than 25,000 members and Twitter followers to nearly 56,000. In 2020, our website pageviews doubled to over 1.1 million and has been consistently in that range for the last three years.{{< /note >}}
 
 <hr width="75%">
 
@@ -125,13 +125,13 @@ In our employee resource group, we talk a lot about how our appearance, name, an
 
 I feel like I have more say in government than I did in the private sector. The product decisions I make are also often seen by more people and have more societal impactful. Distributing the power of design to the people who will be using products and services is how we build useful things.
 
-**What is your proudest achievement in your professional career within the government?**
-
-I really liked being the lead product designer on [FindTreatment.gov](https://findtreatment.gov/), which connects people to state-licenced providers who specialize in treating substance use disorders, addiction, and mental illness. It serves two purposes, both of which are very personal to me. First, making it easier to find treatment facilities and quickly determine their services, costs, and availability. Second, humanizing and destigmatizing the need for mental health care and substance abuse treatments. I was responsible for visual design direction as well as interaction design. I developed several design directions, then helped a user experience researcher run visual preference testing, interviews, and usability tests. I ran workshops and meetings with stakeholders at the Substance Abuse and Mental Health Services Administration to talk through different concepts, mood boards, and prototypes. The team was able to overcome a ton of technical challenges and deadlines that I am very proud of.
-
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-I was brought up understanding and experiencing a fear of discrimination—either as being seen as “less than” and/or being unlawfully deported or persecuted. I was unsure about what background checks would bring up on extended family, and I would be denied employment. Now, I challenge myself to make these fears a strength of my unique experience.{{< /note >}}
+I was brought up understanding and experiencing a fear of discrimination&mdash;either as being seen as “less than” and/or being unlawfully deported or persecuted. I was unsure about what background checks would bring up on extended family, and I would be denied employment. Now, I challenge myself to make these fears a strength of my unique experience.
+
+**What is your proudest achievement in your professional career within the government?**
+
+I really liked being the lead product designer on [FindTreatment.gov](https://findtreatment.gov/), which connects people to state-licenced providers who specialize in treating substance use disorders, addiction, and mental illness. It serves two purposes, both of which are very personal to me. First, making it easier to find treatment facilities and quickly determine their services, costs, and availability. Second, humanizing and destigmatizing the need for mental health care and substance abuse treatments. I was responsible for visual design direction as well as interaction design. I developed several design directions, then helped a user experience researcher run visual preference testing, interviews, and usability tests. I ran workshops and meetings with stakeholders at the Substance Abuse and Mental Health Services Administration to talk through different concepts, mood boards, and prototypes. The team was able to overcome a ton of technical challenges and deadlines that I am very proud of.{{< /note >}}
 
 <hr width="75%">
 
@@ -159,47 +159,13 @@ I love to learn from other Latinx people and their experiences. With remote work
 
 Improving digital services for U.S. territories is a goal that matters a lot to me.
 
-**What is your proudest achievement in your professional career within the government?**
-
-I co-authored a [10X idea to improve digital services for the U.S. territories](https://10x.gsa.gov/posts/2022-selected-projects/#:~:text=Improving%20Government%20Digital,Acquisition%20Service%20(FAS)).
-
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-Are there more Latinx people? How is their experience? Since I joined, I’ve been trying to help other Latinx people to learn more about the civil service.{{< /note >}}
-
-<hr width="75%">
-
-{{< note "comment" >}}## Dahianna Salazar Foreman, Communications and Marketing — U.S. Digital Corps, TTS Outreach
-
-**How do you identify?**
-
-As a Latina from Costa Rica.
-
-**What is something you find yourself constantly explaining about Latinx identity?**
-
-The diversity of the Latin American diaspora. We’re all races and religions, with unique cultures and cuisines. Even our accents and vocabularies differ from country to country.
-
-**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
-
-{{< img-right src="hhm-2022-dahianna" >}}
-
-Making traditional tamales with my aunt in Costa Rica.
-
-**How do you show up as Latinx? Why is that important to you?**
-
-There are not many Costa Ricans in the United States, so I like to use those opportunities to teach people about my country and the diversity of Latin America. I’ve also enjoyed learning about the similarities and differences between the different Latinx cultures and nationalities that reside in the United States.
-
-**Why do you serve?** 
-
-As an immigrant and the first in my family to go to college, I sought to work in a field where I could help people in similar positions find the resources they need so they can easily succeed. As federal employees, our work impacts the public firsthand, and we're always striving to make sure we can make a positive difference in their lives.
+Are there more Latinx people? How is their experience? Since I joined, I’ve been trying to help other Latinx people to learn more about the civil service.
 
 **What is your proudest achievement in your professional career within the government?**
 
-Using my communications and marketing skills to ensure underrepresented communities in government and tech learn about the [U.S. Digital Corps](https://digitalcorps.gsa.gov/). I am proud of the work we did to recruit and hire the first cohort of Fellows from 19 states and territories&mdash;83% of whom are first-time federal employees. I am also proud of the recruitment work we are currently doing for the 2023 cohort by having a presence at events focusing on diversity in tech and government, like the [League of United Latin American Citizens](https://lulac.org/convention22/), [Tapia](https://tapiaconference.cmd-it.org/), and [Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2022/).
-
-**What were some hesitancies you had before considering a role in the federal government?**
-
-In the beginning, I wondered if my accent and background would be seen as a weakness. Now I know that they are two of my biggest strengths in representing a diverse workforce that seeks to improve government services for all Americans.{{< /note >}}
+I co-authored a [10X idea to improve digital services for the U.S. territories](https://10x.gsa.gov/posts/2022-selected-projects/#:~:text=Improving%20Government%20Digital,Acquisition%20Service%20(FAS)).{{< /note >}}
 
 <hr width="75%">
 
@@ -227,13 +193,47 @@ Born and raised in Mexico and now serving in government and recognizing that the
 
 There is no other career that can promise more impact than public service. In particular, It's a great feeling to be at the center of building a modern government for the public. In 2019, I became an American citizen with a deep desire to exercise my right to vote, and now I'm serving as a political appointee. It is an honor to be part of the U.S. government and serve the public. Today, I'm the proud mom of two young Mexican Americans and I want them to be able to love and feel pride in their heritage, their culture and where their family comes from, as well as love the country that is their home.
 
-**What is your proudest achievement in your professional career within the government?**
-
-To be here! My career in government just started earlier in 2022 and I feel very proud to serve the Administration and lead the [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/), a program that pairs the brightest minds in the country with government leaders to tackle national priorities through technology, innovation and entrepreneurship.
-
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen, so I was used to the paperwork, but there is something truly nerve-wracking about the background check process. I remember calling my dad asking him if I should be worried about it or if it was just a worry in my mind... he reminded me how proud he was of me and he believed I could become a federal employee through my work and determination.{{< /note >}}
+I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen, so I was used to the paperwork, but there is something truly nerve-wracking about the background check process.
+
+**What is your proudest achievement in your professional career within the government?**
+
+To be here! My career in government just started earlier in 2022 and I feel very proud to serve the Administration and lead the [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/), a program that pairs the brightest minds in the country with government leaders to tackle national priorities through technology, innovation and entrepreneurship.{{< /note >}}
+
+<hr width="75%">
+
+{{< note "comment" >}}## Dahianna Salazar Foreman, Communications and Marketing — U.S. Digital Corps, TTS Outreach
+
+**How do you identify?**
+
+As a Latina from Costa Rica.
+
+**What is something you find yourself constantly explaining about Latinx identity?**
+
+The diversity of the Latin American diaspora. We’re all races and religions, with unique cultures and cuisines. Even our accents and vocabularies differ from country to country.
+
+**A picture is worth a thousand words, what photograph or image best represents your cultural connection.**
+
+{{< img-right src="hhm-2022-dahianna" >}}
+
+Making traditional tamales with my aunt in Costa Rica.
+
+**How do you show up as Latinx? Why is that important to you?**
+
+There are not many Costa Ricans in the United States, so I like to use those opportunities to teach people about my country and the diversity of Latin America. I’ve also enjoyed learning about the similarities and differences between the different Latinx cultures and nationalities that reside in the United States.
+
+**Why do you serve?** 
+
+As an immigrant and the first in my family to go to college, I sought to work in a field where I could help people in similar positions find the resources they need so they can easily succeed. As federal employees, our work impacts the public firsthand, and we're always striving to make sure we can make a positive difference in their lives.
+
+**What were some hesitancies you had before considering a role in the federal government?**
+
+In the beginning, I wondered if my accent and background would be seen as a weakness. Now I know that they are two of my biggest strengths in representing a diverse workforce that seeks to improve government services for all Americans.
+
+**What is your proudest achievement in your professional career within the government?**
+
+Using my communications and marketing skills to ensure underrepresented communities in government and tech learn about the [U.S. Digital Corps](https://digitalcorps.gsa.gov/). I am proud of the work we did to recruit and hire the first cohort of Fellows from 19 states and territories&mdash;83% of whom are first-time federal employees. I am also proud of the recruitment work we are currently doing for the 2023 cohort by having a presence at events focusing on diversity in tech and government, like the [League of United Latin American Citizens](https://lulac.org/convention22/), the [Tapia](https://tapiaconference.cmd-it.org/) conference, and [Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2022/).{{< /note >}}
 
 <hr width="75%">
 
