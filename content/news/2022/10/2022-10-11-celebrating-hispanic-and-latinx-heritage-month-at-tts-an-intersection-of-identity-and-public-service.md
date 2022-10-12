@@ -41,7 +41,7 @@ I personally don't use the word Latinx; it's mainly used in this country, and ve
 
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
-{{< img src="hhm-2022-laura" >}}
+{{< img-right src="hhm-2022-laura" >}}
 
 My family is my connection to our culture. In this photo where I am at the beach with my two daughters and my granddaughter is a favorite.
 
