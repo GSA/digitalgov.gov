@@ -195,7 +195,7 @@ There is no other career that can promise more impact than public service. In pa
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen, so I was used to the paperwork, but there is something truly nerve-wracking about the background check process.
+I knew the government from the grant side as I was in the leadership of an organization that runs different programs and fellowships for the government. That said, joining the government felt very different from a recruiting and acceptance standpoint. In particular, I remember the background check process being a bit overwhelming. I've had many visas before becoming a permanent resident and then an American citizen, so I was used to the paperwork, but there is something truly nerve-wracking about the background check process. I remember calling my dad, asking him if I should be worried about it or if it was just a worry in my mind... he reminded me how proud he was of me and he believed I would become a federal employee through my work and determination.
 
 **What is your proudest achievement in your professional career within the government?**
 
