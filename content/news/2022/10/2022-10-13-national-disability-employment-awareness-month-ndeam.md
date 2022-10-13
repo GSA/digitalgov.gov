@@ -4,12 +4,12 @@ source_url: https://www.dol.gov/agencies/odep/initiatives/ndeam
 source: ""
 date: 2022-10-13 10:07:00 -0500
 title: National Disability Employment Awareness Month (NDEAM)
-deck: "**National Disability Employment Awareness Month (NDEAM)**&mdash;Observed annually in October, NDEAM celebrates the contributions of
+deck: "Observed annually in October, NDEAM celebrates the contributions of
   America’s workers with disabilities past and present and showcases supportive,
   inclusive employment policies and practices. In recognition of the important
   role people with disabilities play in a diverse and inclusive American
   workforce, the theme for NDEAM 2022 “Disability: Part of the Equity Equation.”
-summary: "**National Disability Employment Awareness Month (NDEAM)**&mdash;Observed annually in October, NDEAM celebrates the contributions of
+summary: "Observed annually in October, NDEAM celebrates the contributions of
   America’s workers with disabilities past and present and showcases supportive,
   inclusive employment policies and practices. In recognition of the important
   role people with disabilities play in a diverse and inclusive American
