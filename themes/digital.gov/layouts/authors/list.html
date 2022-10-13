@@ -46,7 +46,7 @@
                     <li>
                       <a class="facebook" rel="external" title="{{- .Params.display_name }} on Facebook" href="http://www.facebook.com/{{- .Params.facebook -}}/">
                         <svg class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#facebook"></use>
+                          <use xlink:href="{{ "uswds/img/sprite.svg#facebook" | relURL }}"></use>
                         </svg>
                       </a>
                     </li>
@@ -55,7 +55,7 @@
                     <li>
                       <a class="twitter" rel="external" title="{{- .Params.display_name -}} on Twitter" href="http://www.twitter.com/{{- .Params.twitter -}}/">
                         <svg class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#twitter"></use>
+                          <use xlink:href="{{ "uswds/img/sprite.svg#twitter" | relURL }}"></use>
                         </svg>
                       </a>
                     </li>
@@ -64,7 +64,7 @@
                     <li>
                       <a class="linkedin" rel="external" title="{{- .Params.display_name -}} on LinkedIn" href="http://www.linkedin.com/in/{{- .Params.linkedin -}}/">
                         <svg class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#linkedin"></use>
+                          <use xlink:href="{{ "uswds/img/sprite.svg#linkedin" | relURL }}"></use>
                         </svg>
                       </a>
                     </li>
@@ -73,7 +73,7 @@
                     <li>
                       <a class="youtube" rel="external" title="{{- .Params.display_name -}} on YouTube" href="http://www.youtube.com/user/{{- .Params.youtube -}}">
                         <svg class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#youtube"></use>
+                          <use xlink:href="{{ "uswds/img/sprite.svg#youtube" | relURL }}"></use>
                         </svg>
                       </a>
                     </li>
@@ -82,7 +82,7 @@
                     <li>
                       <a class="github" rel="external" title="{{- .Params.display_name }} on GitHub" href="http://www.github.com/{{- .Params.github -}}">
                         <svg class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#github"></use>
+                          <use xlink:href="{{ "uswds/img/sprite.svg#github" | relURL }}"></use>
                         </svg>
                       </a>
                     </li>
@@ -91,7 +91,7 @@
                   <li>
                     <a class="rss" title="RSS Feed for {{ .Params.display_name -}}" href="{{- .RelPermalink -}}">
                       <svg class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
-                        <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#rss_feed"></use>
+                        <use xlink:href="{{ "uswds/img/sprite.svg#rss_feed" | relURL }}"></use>
                       </svg>
                     </a>
                   </li>
@@ -99,7 +99,7 @@
                   <li>
                     <a class="json" title="API for {{ .Params.display_name -}}" href="{{- .Permalink -}}index.json">
                       <svg class="usa-icon dg-icon dg-icon--extra-large" aria-hidden="true" focusable="false">
-                        <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#code"></use>
+                        <use xlink:href="{{ "uswds/img/sprite.svg#code" | relURL }}"></use>
                       </svg>
                     </a>
                   </li>
@@ -180,7 +180,7 @@
             <a class="btn" href="{{ "news" | absURL }}" title="">
               <span>See all News</span>
               <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#arrow_forward"></use>
+                <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
               </svg>
             </a>
             <p>Have a case study to share? Did your team recently launch something?<br/><a href="mailto:digitalgov@gsa.gov" title=""><strong>Send us an email</strong></a></p>
