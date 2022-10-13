@@ -41,7 +41,7 @@ While this series of posts will discuss the requirements above separately, the b
 
 If you have questions or would like to discuss particulars, [we would love to hear from you](mailto:search@support.digitalgov.gov).
 
-<h3 id="series" style="padding-top: 50px">
+<h3 id="series">
   <em>This is the first post in a five part series. Stay tuned for the following posts:</em>
 </h3>
 

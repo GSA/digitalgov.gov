@@ -103,7 +103,7 @@ This allows us to use the following Certbot command no matter how many customer 
 
 Our HTTP Domain Validation request proxy design ensures we can quickly and easily generate a new SAN SSL certificate that is valid for all of our customers’ domains. It currently takes us only a few minutes to respond to customer requests for HTTPS support as long as they have their DNS set up properly. This combined with the free cost of the Let&#8217;s Encrypt service makes it a great solution for us.
 
-<h3 id="series" style="padding-top: 50px">
+<h3 id="series">
   <em>Read more of this 5-part series:</em>
 </h3>
 

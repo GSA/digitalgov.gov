@@ -102,7 +102,7 @@ We worked with GSA security personnel to modify the Assessment & Accreditation p
 
 By applying some very commonly-understood modern operations practices — role-based deployment, server redundancy and pooling — to our application, we were able to achieve substantial cost savings while making the <tt>search.usa.gov</tt> service more resilient to failure. While some government security practices are still evolving to incorporate dynamic server environments, the success of our migration bodes well for the future of cost-effective and reliable cloud computing in government applications.
 
-<h3 id="series" style="padding-top: 50px">
+<h3 id="series">
   <em>Read more of this 5-part series:</em>
 </h3>
 

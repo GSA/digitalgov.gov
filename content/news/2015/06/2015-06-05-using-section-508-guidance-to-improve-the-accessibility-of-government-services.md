@@ -119,7 +119,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   </tr>
 </table>
 
-<h2 id="Resources" style="padding-top: 50px">
+<h2 id="Resources">
   Accessibility Glossaries, FAQs and Resource Portals
 </h2>
 
@@ -132,7 +132,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Computers" style="padding-top: 50px">
+<h2 id="Computers">
   Desktop and Portable Computers
 </h2>
 
@@ -142,7 +142,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Criteria" style="padding-top: 50px">
+<h2 id="Criteria">
   Functional Performance Criteria
 </h2>
 
@@ -152,7 +152,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Support" style="padding-top: 50px">
+<h2 id="Support">
   Information, Documentation, and Support
 </h2>
 
@@ -209,7 +209,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Etiquette" style="padding-top: 50px">
+<h2 id="Etiquette">
   Meetings, Conferences, and General Etiquette
 </h2>
 
@@ -222,7 +222,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Procurement" style="padding-top: 50px">
+<h2 id="Procurement">
   Procurement
 </h2>
 
@@ -235,7 +235,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Prototyping" style="padding-top: 50px">
+<h2 id="Prototyping">
   Prototyping
 </h2>
 
@@ -245,7 +245,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="ClosedProducts" style="padding-top: 50px">
+<h2 id="ClosedProducts">
   Self-Contained, Closed Products
 </h2>
 
@@ -255,7 +255,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="SocialMedia" style="padding-top: 50px">
+<h2 id="SocialMedia">
   Social Media
 </h2>
 
@@ -267,7 +267,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="AppsOS" style="padding-top: 50px">
+<h2 id="AppsOS">
   <b>Software Applications and Operating Systems</b>
 </h2>
 
@@ -281,7 +281,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Planning" style="padding-top: 50px">
+<h2 id="Planning">
   Strategic Planning, Reporting, and Policy
 </h2>
 
@@ -295,7 +295,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Telecommunications" style="padding-top: 50px">
+<h2 id="Telecommunications">
   Telecommunications Products
 </h2>
 
@@ -305,7 +305,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Multimedia" style="padding-top: 50px">
+<h2 id="Multimedia">
   Video and Multimedia Products
 </h2>
 
@@ -322,7 +322,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   <a title="Back to top" href="#toc">Top ↑</a>
 </p>
 
-<h2 id="Web" style="padding-top: 50px">
+<h2 id="Web">
   Web-based Internet Information and Applications
 </h2>
 
@@ -339,7 +339,7 @@ This resource list presents a compilation of links to accessibility guidance, or
 
 <hr style="color: white;border-style: none" />
 
-<em id="abbreviations" style="padding-top: 50px">Agency abbreviations are defined as follows:</em>
+<em id="abbreviations">Agency abbreviations are defined as follows:</em>
 
   * CDC = Centers for Disease Control and Prevention
   * CMS = Centers for Medicare and Medicaid Services

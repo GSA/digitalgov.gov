@@ -21,7 +21,7 @@ Below are the questions we hear most often about the [Digital Analytics Program 
 * [Reporting](#part-5) "Common Questions about DAP (FAQ): Reporting"
 * [Customer Satisfaction Tool Implementation](#part-6) "Common Questions about DAP (FAQ): Customer Satisfaction Tool Implementation"
 
-<h2 id="part-7" style="padding-top: 50px">
+<h2 id="part-7">
   User Agreement
 </h2>
 
@@ -36,7 +36,7 @@ By logging in and accessing data within the tools of the Digital Analytics Progr
 * For questions regarding these and other scenarios on the use of the DAP data, agencies should contact the Office of Management and Budget by emailing <eGov@omb.eop.gov>.
 * The Google Analytics code is designed to collect data in a consistent way across all .gov websites. Any modifications to the code without DAP authorization is prohibited. DAP requires oversight of the code in order to ensure the data is reported accurately for agency sites. Agencies can continue to run their own metrics tools in addition to DAP.
 
-<h2 id="part-1" style="padding-top: 50px">
+<h2 id="part-1">
   Implementation
 </h2>
 
@@ -99,7 +99,7 @@ DAP staff is responsible for creating all agency profiles, as well as maintainin
 
 To zoom into the specific website’s traffic, each DAP user can create up to 100 advanced custom segments and/or custom reports. Each user also can create up to 25 dashboards for high-level, executive-type reporting. All of the user-based reports, segments, and dashboards can be shared with other GA DAP users, if requested. Additionally, a user can create various alerts to monitor their website performance and traffic, as well as campaigns and campaign-related reports. Watch the <a href="https://www.youtube.com/watch?v=CKMTK77PrJE&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P&index=4" target="_blank">DAP 101 recorded training</a> (Youtube), to learn more about profiles, segments and dashboards.
 
-<h2 id="part-2" style="padding-top: 50px">
+<h2 id="part-2">
   <a name="customization-access"></a>Customization and Access
 </h2>
 
@@ -119,7 +119,7 @@ A Google account is required, but a Gmail email address is not—any email addre
 
 No. The gov-wide Google Analytics code is designed to collect data in a consistent way across all .gov websites. Any modifications to the code without DAP authorization is prohibited. DAP requires oversight of the code in order to ensure the data is reported accurately for agency sites. Agencies can continue to run their own metrics in addition to DAP.
 
-<h2 id="part-3" style="padding-top: 50px">
+<h2 id="part-3">
   Google Universal Analytics
 </h2>
 
@@ -135,7 +135,7 @@ Compared to the classic GA (ga.js), UA gives GA users more control over tracking
 
 If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< link "analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
 
-<h2 id="part-4" style="padding-top: 50px">
+<h2 id="part-4">
   <a name="data-access-retention-privacy"></a>Data Access, Retention and Privacy
 </h2>
 
@@ -191,7 +191,7 @@ We recommend adding the following language:
 
 See [this notice]({{< link "policies.md" >}}) on our Site Policies page.
 
-<h2 id="part-5" style="padding-top: 50px">
+<h2 id="part-5">
   <a name="reporting"></a>Reporting
 </h2>
 
@@ -231,7 +231,7 @@ Most common Bounce Rate scenarios:
 
 Bounce rate is the % of visits that only had one page view. A click is tied to a specific action, like a new page, search box, an offsite/outbound/external link, a sign-up form etc., so, it is considered to be interaction/engagement with that page, and hence, would not be considered a bounce.
 
-<h2 id="part-6" style="padding-top: 50px">
+<h2 id="part-6">
   <a name="customer-satisfaction-tool-implementation"></a>Customer Satisfaction Tool Implementation
 </h2>
 

@@ -103,7 +103,7 @@ So, thanks to some tricky multi-tier design, our solution now works as follows:
 
 For DigitalGov Search agency customers with DNSSEC-signed zones of their own, this setup allows them to select their own customer-specific CNAME, delegate it to <tt>search.usa.gov</tt>, and operate with confidence that the entire chain of DNS resolution is signed with DNSSEC and safe from cache poisoning or man-in-the-middle attacks.
 
-<h3 id="series" style="padding-top: 50px">
+<h3 id="series">
   <em>Read more of this 5 part series:</em>
 </h3>
 
