@@ -20,6 +20,11 @@ aliases:
 # See all authors at https://digital.gov/authors
 authors:
   - tlowden
+
+event_cop:
+  - web-analytics
+
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

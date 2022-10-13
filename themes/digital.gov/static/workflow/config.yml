@@ -387,6 +387,15 @@ collections:
         name: "event_organizer"
         widget: "string"
         default: "Digital.gov"
+      - label: "Event Related CoP"
+        name: "cop_events"
+        widget: "select"
+        options: ["communicators", "multilingual", "plain-language", "web-managers", "web-analytics", "social-media", "user-experience"]
+        collection: "events"
+        default: ""
+        multiple: true
+        required: false
+        hint: "Associate any Community of Practices with the event"
       - label: "Registration URL"
         name: "registration_url"
         widget: "string"
@@ -816,6 +825,7 @@ collections:
         hint: "See all topics at https://digital.gov/topics"
         comment: "See all topics at https://digital.gov/topics"
         required: false
+
   # TOPICS =======================
   - <<: *defaults
     name: "topics"

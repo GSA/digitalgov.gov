@@ -25,6 +25,9 @@ topics:
   - plain-language
   - writing
 
+event_cop:
+  - plain-language
+
 # Weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

@@ -28,6 +28,9 @@ topics:
   - social-media
   - social-media-metrics
 
+event_cop:
+  - social-media
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

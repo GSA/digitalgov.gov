@@ -15,6 +15,9 @@ aliases:
 topics:
   - user-experience
 
+event_cop:
+  - user-experience
+
 # Weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
