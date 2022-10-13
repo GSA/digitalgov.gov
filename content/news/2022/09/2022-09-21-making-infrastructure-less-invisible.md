@@ -5,15 +5,8 @@ source: dotgov
 date: 2022-09-21 16:51:00 -0500
 kicker: ""
 title: Making Infrastructure Less Invisible
-deck: "**Making Infrastructure Less Invisible**&mdash;Over the last year, there
-  has been a constant stream of activity at the .gov registry, but most of it
-  hasn't been on display. This post highlights some of the work to make .gov the
-  most boringly secure, conventionally unconventional domain for governments."
-summary: "**Making Infrastructure Less Invisible**&mdash;Over the last year,
-  there has been a constant stream of activity at the .gov registry, but most of
-  it hasn't been on display. This post highlights some of the work to make .gov
-  the most boringly secure, conventionally unconventional domain for
-  governments."
+deck: "Over the last year, there has been a constant stream of activity at the .gov registry, but most of it hasn't been on display. This post highlights some of the work to make .gov the most boringly secure, conventionally unconventional domain for governments."
+summary: "Over the last year, there has been a constant stream of activity at the .gov registry, but most of it hasn't been on display. This post highlights some of the work to make .gov the most boringly secure, conventionally unconventional domain for governments."
 # See all topics at https://digital.gov/topics
 topics:
   - infrastructure
@@ -25,4 +18,5 @@ slug: making-infrastructure-less-invisible
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
