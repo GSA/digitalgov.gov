@@ -44,27 +44,26 @@ Below are tips on how to increase the accessibility of social media. These tips 
 
 In addition, there are many ways users access and participate in social media. Though this toolkit is not meant to address the needs of social media users, we encourage users to be part of the conversation in order to provide guidance to those who are trying to effectively reach them.
 
-## General Social Media Accessibility Tips\_\_
+## General Social Media Accessibility Tips
 
 Below is a set of recommended, baseline strategies to improve the accessibility of government social media.
 
 ### 5 Things Every Social Media Content Manager Needs to Know
 
 1. **Make your contact information available on your social media account page**.
-
    List a primary phone number and email address where a user can reach your agency with questions, or provide a link to your agency website that lists the appropriate contact information.
 
 2. **Make your social media content available through more than one channel**.
-
    Provide easy points of entry for more information. Some of the most common ways are to post threads on your website, provide options to sign up for daily email digests of social media posts or to add a social media widget to your agency website.
 
-3. \*\*Provide links or contact information to official social media support and accessibility teams.
+3. **Provide links or contact information to official social media support and accessibility teams.**
+   Often, social media tools have their own accessibility tips and support help desks. Educate yourself about them and provide links to your constituents.
 
-**Often, social media tools have their own accessibility tips and support help desks. Educate yourself about them and provide links to your constituents. 4.**Keep it simple.
-
-**Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)), and limit your use of hashtags, abbreviations and acronyms. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read, including for those using a screen reader. 5.**Learn the accessibility requirements and periodically test your content for accessibility.
-
-\*\* Read the [Section 508 Standards](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) and the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) and other key resources that discuss them. Then test your social media content with a screen reader or other type of assistive technology.
+4. **Keep it simple**.
+   Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)), and limit your use of hashtags, abbreviations and acronyms. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read, including for those using a screen reader.
+   
+5. **Learn the accessibility requirements and periodically test your content for accessibility.**
+   Read the [Section 508 Standards](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) and the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) and other key resources that discuss them. Then test your social media content with a screen reader or other type of assistive technology.
 
 ### Guidelines for Writing in Plain Language
 
@@ -149,7 +148,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
 1. Upon uploading a video clip, add a transcript to cover spoken and visual action to Vine&#8217;s “description” field.
 2. Remember that in addition to including captioning for individuals who are deaf or hard of hearing, information that is conveyed visually needs to include descriptive text readable by screen readers for individuals who are blind or who have low or limited vision.
-3. Alternatively, Vine videos can be embedded in a website where they can be captioned and described.\*\*\*\* Closed-caption can be embedded Vine video on your website using a tool like the [JW Player](https://support.jwplayer.com/).
+3. Alternatively, Vine videos can be embedded in a website where they can be captioned and described. Closed-caption can be embedded Vine video on your website using a tool like the [JW Player](https://support.jwplayer.com/).
 
 ### Tips for Making Blogs Accessible
 
@@ -173,7 +172,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
 ## Additional Resources
 
-### Resources recommended by the Community of Practice:\*\*\*\*
+### Resources recommended by the Community of Practice:
 
 - [Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media) (Australia)
 
