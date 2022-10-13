@@ -2,15 +2,15 @@
 slug: federal-social-media-accessibility-toolkit-hackpad
 date: 2014-06-30 9:18:30 -0400
 title: Federal Social Media Accessibility Toolkit Hackpad
-summary: "Improving the Accessibility of Social Media for Public Service The following contains the shared document for the development of the Social Media Policy Toolkit, a shared service of the Federal Social Media Community of Practice lead by teams including The Department of Labor&rsquo;s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the"
+deck: Improving the accessibility of social media for public service
+summary: "The following contains the shared document for the development of the Social Media Policy Toolkit, a shared service of the Federal Social Media Community of Practice lead by teams including The Department of Labor&rsquo;s Office of Disability Employment Policy."
 topics:
   - accessibility
   - social-media
 authors:
   - jherman
----
 
-## Improving the Accessibility of Social Media for Public Service
+---
 
 The following contains the shared document for the development of the Social Media Policy Toolkit, [a shared service of the Federal Social Media Community of Practice]({{< ref "communities/social-media.md" >}}) lead by teams including The Department of Labor’s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the accessibility of their social media programs for persons with disabilities, identify areas that need improving, and share their own ideas and recommendations for helping ensuring our modernization programs are easily accessed by all who need them.
 
