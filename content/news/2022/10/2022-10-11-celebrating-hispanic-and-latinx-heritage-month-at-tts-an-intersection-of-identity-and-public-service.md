@@ -127,7 +127,7 @@ In our employee resource group, we talk a lot about how our appearance, name, an
 
 **Why do you serve?**
 
-I feel like I have more say in government than I did in the private sector. The product decisions I make are also often seen by more people and have more societal impactful. Distributing the power of design to the people who will be using products and services is how we build useful things.
+I feel like I have more say in government than I did in the private sector. The product decisions I make are also often seen by more people and have more societal impact. Distributing the power of design to the people who will be using products and services is how we build useful things.
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
