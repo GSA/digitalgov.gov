@@ -2,7 +2,7 @@
 # Originally published at the following URL
 source_url: https://www.edi.nih.gov/people/sep/pwd/disability-awareness-2022
 source: ""
-date: 2022-10-13 10:11:00 -0500
+date: 2022-10-04 10:11:00 -0500
 title: "Closing the Disability Divide "
 deck: >
   Over 67 million people in the United States have a disability, constituting
