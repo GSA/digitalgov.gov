@@ -165,7 +165,7 @@ Improving digital services for U.S. territories is a goal that matters a lot to 
 
 **What were some hesitancies you had before considering a role in the federal government?** 
 
-Are there more Latinx people? How is their experience? Since I joined, I’ve been trying to help other Latinx people to learn more about the civil service.
+I wondered, "Are there more Latinx people? How is their experience?" Since I joined, I’ve been trying to help other Latinx people to learn more about the civil service.
 
 **What is your proudest achievement in your professional career within the government?**
 
@@ -181,7 +181,7 @@ New American, Mexican and American, Latina, Hispanic ...
 
 **What is something you find yourself constantly explaining about Latinx identity?**
 
-The two last names! As well as the many differences in language, race, and culture within the latinidad.
+The two last names! As well as the many differences in language, race, and culture within the _latinidad_.
 
 **A picture is worth a thousand words, what photograph or image best represents your cultural connection?**
 
@@ -203,7 +203,7 @@ I knew the government from the grant side as I was in the leadership of an organ
 
 **What is your proudest achievement in your professional career within the government?**
 
-To be here! My career in government just started earlier in 2022 and I feel very proud to serve the Administration and lead the [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/), a program that pairs the brightest minds in the country with government leaders to tackle national priorities through technology, innovation and entrepreneurship.{{< /note >}}
+To be here! My career in government just started earlier in 2022 and I feel very proud to serve the administration and lead the [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/), a program that pairs the brightest minds in the country with government leaders to tackle national priorities through technology, innovation and entrepreneurship.{{< /note >}}
 
 <hr width="75%">
 
@@ -237,7 +237,7 @@ In the beginning, I wondered if my accent and background would be seen as a weak
 
 **What is your proudest achievement in your professional career within the government?**
 
-Using my communications and marketing skills to ensure underrepresented communities in government and tech learn about the [U.S. Digital Corps](https://digitalcorps.gsa.gov/). I am proud of the work we did to recruit and hire the first cohort of Fellows from 19 states and territories&mdash;83% of whom are first-time federal employees. I am also proud of the recruitment work we are currently doing for the 2023 cohort by having a presence at events focusing on diversity in tech and government, like the [League of United Latin American Citizens](https://lulac.org/convention22/), the [Tapia](https://tapiaconference.cmd-it.org/) conference, and [Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2022/).{{< /note >}}
+Using my communications and marketing skills to ensure underrepresented communities in government and tech learn about the [U.S. Digital Corps](https://digitalcorps.gsa.gov/). I am proud of the work we did to recruit and hire the first cohort of fellows from 19 states and territories&mdash;83% of whom are first-time federal employees. I am also proud of the recruitment work we are currently doing for the 2023 cohort by having a presence at events focusing on diversity in tech and government, like the [League of United Latin American Citizens](https://lulac.org/convention22/), the [Tapia](https://tapiaconference.cmd-it.org/) conference, and [Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2022/).{{< /note >}}
 
 <hr width="75%">
 
