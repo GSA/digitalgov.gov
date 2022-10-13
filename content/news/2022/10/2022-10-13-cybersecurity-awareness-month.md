@@ -4,33 +4,22 @@ source_url: https://github.com/USAJOBS/openopps-help/blob/66d7ce7e928372cd7f0f99
 source: open-opps
 date: 2022-10-13 11:33:00 -0500
 title: Cybersecurity Awareness Month
-deck: >
-  This year, the Federal Cyber Workforce Management and Coordinating Working
-  Group, in partnership with OPM, is hosting an interagency contest to promote
-  and expand awareness of the Cyber Professionals Community on Open
-  Opportunities. This community serves as a central hub to post and participate
-  in cyber career development opportunities.
+deck: This year, the Federal Cyber Workforce Management and Coordinating Working Group, in partnership with OPM, is hosting an interagency contest to promote and expand awareness of the Cyber Professionals Community on Open Opportunities. This community serves as a central hub to post and participate in cyber career development opportunities. Download their Toolkit (1.29 MB, 21 pages) to learn more about the interagency contest that runs October 3rd to December 2nd.
+summary: This year, the Federal Cyber Workforce Management and Coordinating Working Group, in partnership with OPM, is hosting an interagency contest to promote and expand awareness of the Cyber Professionals Community on Open Opportunities. This community serves as a central hub to post and participate in cyber career development opportunities. Download their Toolkit (1.29 MB, 21 pages) to learn more about the interagency contest that runs October 3rd to December 2nd.
 
-
-  Download their Toolkit (1.29 MB, 21 pages) to learn more about the interagency contest that runs October 3rd to December 2nd →
-summary: >
-  This year, the Federal Cyber Workforce Management and Coordinating Working
-  Group, in partnership with OPM, is hosting an interagency contest to promote
-  and expand awareness of the Cyber Professionals Community on Open
-  Opportunities. This community serves as a central hub to post and participate
-  in cyber career development opportunities.
-
-
-  Download their Toolkit (1.29 MB, 21 pages) to learn more about the interagency contest that runs October 3rd to December 2nd →
 # See all topics at https://digital.gov/topics
 topics:
   - national-cyber-security-awareness-month
+
 # See all authors at https://digital.gov/authors
 authors:
   - lnelson
+
 slug: cybersecurity-awareness-month
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
