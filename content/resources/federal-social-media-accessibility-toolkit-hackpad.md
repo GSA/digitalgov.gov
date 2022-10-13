@@ -69,13 +69,9 @@ Below is a set of recommended, baseline strategies to improve the accessibility 
 
 1. Writing in plain language is a way to ensure that people can understand and use the information provided by a social media post. All federal agencies must write using plain language in accordance with [The Plain Writing Act of 2010](http://www.plainlanguage.gov/plLaw/law/index.cfm), which means all that publicly distributed content should be written in a “clear, concise, well-organized” manner. Key best practices for writing in plain language include:
 
-   1. Choose words that are common and easy to understand.
-   2. Avoid run-on sentences. Use clear, short sentences and paragraphs.
-   3. Write in the active voice instead of the passive voice.
-
-   Passive Voice: Applications for the job were submitted by 100 people.
-
-   Active Voice: 100 people submitted applications for the job.
+   * Choose words that are common and easy to understand.
+   * Avoid run-on sentences. Use clear, short sentences and paragraphs.
+   * Write in the active voice instead of the passive voice.<br />**Passive Voice**: Applications for the job were submitted by 100 people.<br />**Active Voice**: 100 people submitted applications for the job.
 
 2. Use this [Document Checklist for Plain Language on the Web](http://www.plainlanguage.gov/howto/quickreference/weblist.cfm) from [PlainLanguage.gov](http://www.plainlanguage.gov/index.cfm) when writing social media posts.
 3. Follow this [5-step checklist provided by the Center for Plain Language](https://www.centerforplainlanguage.org/learning-training/five-steps-plain-language/) to ensure that your social media posts communicate your message effectively.
@@ -88,10 +84,7 @@ Below is a set of recommended, baseline strategies to improve the accessibility 
 3. Videos posted directly to Facebook should be closed captioned. This can be done by adding a SubRip file to the video after it is posted. For step-by-step instruction on captioning Facebook videos, please visit <http://www.reelseo.com/how-to-add-closed-captions-facebook-videos/>.
 4. As an alternative to directly uploading videos to Facebook, upload videos to YouTube and post the link to the video in a status update. Since YouTube automatic captioning can be inaccurate, prepare an accurate transcript and upload it whenever possible. This will ensure that visitors will be taken to an accessible video with captioning.
 
-Facebook has an Accessibility Team that is dedicated to issues specific to accessibility and assistive technology. They can be reached through Facebook and Twitter.
-
-1. [Facebook’s Accessibility Team’s Facebook Page](http://www.facebook.com/help/141636465971794)
-2. [Facebook’s Accessibility Team’s Twitter Account](https://twitter.com/fbaccess)
+Facebook has an Accessibility Team that is dedicated to issues specific to accessibility and assistive technology. They can be reached through their [Facebook page](http://www.facebook.com/help/141636465971794) and their [Twitter account](https://twitter.com/fbaccess).
 
 ### Tips for Making Tweets Accessible
 
