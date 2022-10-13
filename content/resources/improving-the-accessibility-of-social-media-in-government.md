@@ -17,10 +17,12 @@ This Toolkit is your guide to **_Improving the Accessibility of Social Media in 
 To begin exploring the Toolkit, simply select from this table of contents:
 
 - [Who Developed This Toolkit?](#who-developed-this-toolkit)
-- [Why Is The Accessibility of Social Media So Important?](#why-is-the-accessibility-of-social-media-so-important)
-  - [5 Things Every Social Media Content Manager Needs to Know](#5-things-every-social-media-content-manager-needs-to-know)
-  - [Trainings](#trainings)
-  - [Other Web resources](#other-web-resources)
+- [Why Is The Accessibility Of Social Media So Important?](#why-is-the-accessibility-of-social-media-so-important)
+- [What You Will And Won&#8217;t Find In This Toolkit](#find)
+- [General Social Media Accessibility Tips](#general)
+- [Platform-Specific Social Media Accessibility Tips – e.g., Facebook, Twitter, YouTube, Vine, Blogs, etc.](#specific)
+- [Additional Resources](#additional)
+- [How To Provide Feedback or Contribute Content To This Toolkit](#provide)
 
 ## Who Developed This Toolkit?
 
