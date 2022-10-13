@@ -34,7 +34,7 @@ As more agencies develop mobile apps and websites, they need quick guidance on m
 
 Below we have added specific resources to each guideline.
 
-<h2 id="guideline1" style="padding-top: 50px">
+<h2 id="guideline1">
   Guideline 1: Make sure your content is structured and chunked appropriately for multiple devices
 </h2>
 
@@ -59,7 +59,7 @@ Below we have added specific resources to each guideline.
 - Guidelines to [making Mobile Websites]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}) mobile search friendly &#8211; A how-to guide written by the Search.gov _(formerly DigitalGov Search)_ team
 - [How to Use Open Source CMS to Implement Responsive Web Design]({{< ref "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}})
 
-<h2 id="guideline2" style="padding-top: 50px">
+<h2 id="guideline2">
   Guideline 2: Follow industry user interface guidelines and government regulations (like 508) in the development of your mobile product
 </h2>
 
@@ -82,7 +82,7 @@ Below we have added specific resources to each guideline.
 - [Google Mobile Friendly PDF](http://services.google.com/fh/files/misc/mobile-friendly-starter-guide.pdf) &#8211; Basic one sheeter for webmasters.
 - [Google Principles of Mobile Site Design](http://static.googleusercontent.com/media/www.google.com/en//intl/ALL_ALL/think/multiscreen/pdf/multi-screen-moblie-whitepaper_research-studies.pdf) &#8211; Tips for delighting mobile users and increasing mobile conversions.
 
-<h2 id="guideline3" style="padding-top: 50px">
+<h2 id="guideline3">
   Guideline 3: Leverage the device’s features for usability and accessibility
 </h2>
 
@@ -98,7 +98,7 @@ Below we have added specific resources to each guideline.
 - [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)
 - [Accordions on Mobile](http://www.nngroup.com/articles/mobile-accordions/)
 
-<h2 id="guideline4" style="padding-top: 50px">
+<h2 id="guideline4">
   Guideline 4: Test at multiple points in the design/development process
 </h2>
 
@@ -119,7 +119,7 @@ Below we have added specific resources to each guideline.
 - [W3C Mobile OK Checker](https://validator.w3.org/mobile/)
 - [Why Mobile Testing is Tough](http://www.softwaretestinghelp.com/why-mobile-testing-is-tough/)
 
-<h2 id="guideline5" style="padding-top: 50px">
+<h2 id="guideline5">
   Guideline 5: Collect and use data (quantitative and qualitative) to determine what content your users want and where
 </h2>
 
@@ -139,7 +139,7 @@ Below we have added specific resources to each guideline.
 - [Multi-armed Bandit Approach to Testing](http://stevehanov.ca/blog/index.php?id=132)
 - [The Ultimate Guide to A/B Testing](http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/)
 
-<h2 id="guideline6" style="padding-top: 50px">
+<h2 id="guideline6">
   Guideline 6: Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems
 </h2>
 

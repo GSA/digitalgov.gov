@@ -55,7 +55,7 @@ It has also opened new possibilities for the government. With open and available
 
 These are technological tools created by the people, for the people. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}}
 
-<h3 id="spotlight-crowdsourcing" style="padding-top: 50px;padding-left: 30px">
+<h3 id="spotlight-crowdsourcing">
   Spotlight: Citizens Innovate Technology for Food Resilience in a Changing Climate
 </h3>
 
@@ -63,7 +63,7 @@ One way that federal agencies have asked citizens to innovate solutions is throu
 
 This innovation challenge spurred competitors to create more than 30 free apps and tools for farmers and policy makers. The grand prize winner released [FarmPlenty Local Crop Trends](http://farmplenty.com/croptrends/), an interactive website that helps farmers to identify the best crops by browsing nearby crops, trends and prices.
 
-<h3 id="spotlight-earth-day" style="padding-top: 50px;padding-left: 30px">
+<h3 id="spotlight-earth-day">
   Spotlight: Tech Savvy Americans Hack New Tools for Earth Day
 </h3>
 
@@ -71,7 +71,7 @@ Federal agencies also harness the creativity and technical ability of American c
 
 The winning team developed an ultraviolet (UV) radiation widget for weather apps. By integrating open data from the Environmental Protection Agency into existing mobile apps, beach-goers are alerted when they are exposed to high amounts of ultraviolet (UV) radiation, a major risk factor for most skin cancers.
 
-<h3 id="spotlight-collaborations" style="padding-top: 50px;padding-left: 30px">
+<h3 id="spotlight-collaborations">
   Spotlight: New Collaborations Reveal Trends in Big Datasets
 </h3>
 

@@ -50,7 +50,7 @@ To mark the end of the year, we reached out to everyone at 18F and asked them to
   * [Process and Documentation](#Process-Documentation "Process and Documentation")
   * [Growing our Team](#Growing-Our-Team "Growing our Team")
 
-<h2 id="Accessibility" style="padding-top: 50px">
+<h2 id="Accessibility">
   Accessibility
 </h2>
 
@@ -62,7 +62,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 
 {{< legacy-img src="2015/12/600-x-205-allytweet2.jpg" alt="A tweet by Rebecca Williams using the a-1-1-y hack hashtag" >}}
 
-<h2 id="Blog" style="padding-top: 50px">
+<h2 id="Blog">
   Blog
 </h2>_We published over 130 posts this year on our [blog](https://18f.gsa.gov/blog) and featured 70 team members and 10 guests as authors._
 
@@ -70,7 +70,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 >
 > “I’m very proud of all the work that went into the blog this year including the wide range of posts we’ve published, the improved editing process, and all the new authors and voices we were able to represent.”—**Andre Francisco**
 
-<h2 id="HTTPS" style="padding-top: 50px">
+<h2 id="HTTPS">
   HTTPS
 </h2>_18F worked with government teams to help submit a number of government domains to be hardcoded as HTTPS-only. Eric Mill wrote blog posts [explaining that effort](https://18f.gsa.gov/2015/02/09/the-first-gov-domains-hardcoded-into-your-browser-as-all-https/) and the [importance of HTTPS](https://18f.gsa.gov/2014/11/13/why-we-use-https-in-every-gov-website-we-make/). Unsurprisingly, he chose the HTTPS work as the most enjoyable project he worked on this year._
 
@@ -78,7 +78,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 
 {{< legacy-img src="2015/12/600-x-123-hsts-preload-list.jpg" alt="Code" >}}
 
-<h2 id="Diversity-Working-Group" style="padding-top: 50px">
+<h2 id="Diversity-Working-Group">
   Diversity Working Group
 </h2>_18F is home to many [working groups](https://pages.18f.gov/grouplet-playbook/working-groups/) that spin up to collectively address an issue or solve a problem. Several of our colleagues cited their work with the Diversity Working Group as their most meaningful project this year. The Diversity Working Group helps make 18F a great place to work for people of all backgrounds, and is working to address inequalities that exist in the tech sector._
 
@@ -88,7 +88,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 >
 > “I’ve really enjoyed being part of the Diversity Working Group this year. I’ve mainly learned a lot more detail about how big the problem is of diversity in tech. I’m very hopeful that we will do all that we can here to address it.”—**Jacob Harris**
 
-<h2 id="Products-Shipped" style="padding-top: 50px">
+<h2 id="Products-Shipped">
   Products We Shipped
 </h2>
 
@@ -190,7 +190,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 
 {{< legacy-img src="2015/12/600-x-450-screen-shot-of-the-my-dot-U-S-C-I-S-dot-gov-mobile-website-on-an-Android-smart-phone.jpg" alt="A screenshot of the my dot U S C I S dot gov mobile website on an Android smartphone." >}}
 
-<h2 id="Guides-Resources-Tools" style="padding-top: 50px">
+<h2 id="Guides-Resources-Tools">
   Guides, Resources, and Tools
 </h2>
 
@@ -230,7 +230,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 
 {{< legacy-img src="2015/12/600-x-281-sba-execs-legos-2.jpg" alt="Small Business Administration executives collaborate with using LEGOs during a meeting." >}}
 
-<h2 id="Process-Documentation" style="padding-top: 50px">
+<h2 id="Process-Documentation">
   Process and Documentation
 </h2>_It’s not something that often gets public attention, but we worked really hard to improve 18F’s internal processes and documentation this year. Ensuring that our daily standups run smoothly and our documentation is complete will ensure that we have the capacity to continue to learn and grow._
 
@@ -248,7 +248,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 
 {{< legacy-img src="2015/12/600-x-182-API-Team-onboarding-bot-Dolores.jpg" alt="Screencapture of interaction with Mrs Dolores Landingham, an onboarding bot developed by the A P I team." >}}
 
-<h2 id="Growing-Our-Team" style="padding-top: 50px">
+<h2 id="Growing-Our-Team">
   Growing Our Team
 </h2>_This year, our Talent team streamlined their processes and almost doubled our workforce. They started working in agile cycles and [launched a new website about applying to 18F](https://pages.18f.gov/joining-18f/). Several people from across 18F reflected on the work the Talent team has completed._
 

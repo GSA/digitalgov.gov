@@ -15,7 +15,7 @@ Digital metrics are critical for measuring, analyzing, and reporting on the effe
 * [Part 3: Rationale and Framework for Common Metrics and Measures](#part-3 "DAP: Digital Metrics Guidance and Best Practices, Part 3")
 * [Part 4: Case Studies, Training, and Additional Resources](#part-4 "DAP: Digital Metrics Guidance and Best Practices, Part 4")
 
-<h2 id="part-1" style="padding-top: 50px">
+<h2 id="part-1">
   Part 1: Common Metrics—Guidance, Best Practices, and Tools
 </h2>
 
@@ -722,7 +722,7 @@ Analysis of this social data is critical not just for agency communication offic
 
 Here are a set of [recommended, baseline social media metrics]({{< link "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}), developed and maintained by an interagency working group of the [Federal Social Media Community of Practice]({{< link "social-media.md" >}}). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
 
-<h2 id="part-2" style="padding-top: 50px">
+<h2 id="part-2">
   Part 2: Reporting Requirements and Common Tools
 </h2>
 
@@ -785,7 +785,7 @@ You can use one of the free customer satisfaction survey tools that has a [feder
 
 If you’re collecting feedback from more than nine people (via an online survey, focus group, form, or another method), you must get prior OMB approval, per the [Paperwork Reduction Act](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) (PRA). The [Fast Track PRA]({{< link "paperwork-reduction-act-fast-track-process.md" >}}) process can significantly speed up the approval process. Some tools, such as ACSI, have current PRA clearance, and your agency may have existing approval for other tools.
 
-<h2 id="part-3" style="padding-top: 50px">
+<h2 id="part-3">
   Part 3: Rationale and Framework for Common Metrics
 </h2>
 
@@ -838,7 +838,7 @@ To support this common framework, agencies should collect performance and custom
 * **Performance**—It is now an industry standard to use page tagging to collect real-time performance metrics, so this framework calls for the use of a common tool to collect agency performance metrics.
 * **Customer Satisfaction**—Until an industry standard becomes apparent for collecting customer satisfaction metrics, we’re asking agencies to collect a set of four common reporting metrics, based on extensive industry research and and a review of existing agency systems.  These are considered in &#8220;beta&#8221; mode while we test their usefulness during implementation.
 
-<h2 id="part-4" style="padding-top: 50px">
+<h2 id="part-4">
   Part 4: Case Studies, Resources, and Training
 </h2>
 

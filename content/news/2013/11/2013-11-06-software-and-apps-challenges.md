@@ -18,7 +18,7 @@ Here you’ll find tips on running a software/apps challenge, resources, example
 
 A software/apps challenge is when an organization asks the public to create software that may use a particular data set or have a set of functionalities outlined by the seeker, in order to solve an existing problem or draw attention to open and available datasets.
 
-<h2 id="tips-for-running-a-software-apps-challenge" style="padding-top: 50px;">
+<h2 id="tips-for-running-a-software-apps-challenge">
   Tips for Running a Software/Apps Challenge
 </h2>
 
@@ -32,7 +32,7 @@ A software/apps challenge is when an organization asks the public to create soft
   * Determine from the beginning and state in the challenge rules details about technology ownership, parameters for submissions, who qualifies to enter, how the entries will be judged and how the prizes will be awarded.
   * Please see the multiple resources listed below. There are so many ways to run apps challenges, that experts have created pages of plans and details that will further your understanding and goals. Choose what is best for your agency needs and goals.
 
-<h2 id="resources" style="padding-top: 50px;">
+<h2 id="resources">
   Resources
 </h2>
 
@@ -48,7 +48,7 @@ A software/apps challenge is when an organization asks the public to create soft
 
 [ChallengePost: App Contest Best Practices](http://post.challengepost.com/app_contest_resources)
 
-<h2 id="examples" style="padding-top: 50px;">
+<h2 id="examples">
   Examples
 </h2>
 
@@ -76,7 +76,7 @@ The FCC challenged the developers to use hyper-local government and public data 
 
 Challenge.gov contains [more examples](https://challenge.gov/) of software/apps challenges.
 
-<h2 id="criteria-for-choosing-a-platform" style="padding-top: 50px;">
+<h2 id="criteria-for-choosing-a-platform">
   Criteria for Choosing a Platform
 </h2>
 
@@ -112,7 +112,7 @@ Federal agencies can:
   * Have a public voting component
   * Offer a prize at the end for best app and publicize
 
-<h2 id="online-platforms-and-tools" style="padding-top: 50px;">
+<h2 id="online-platforms-and-tools">
   Online Platforms and Tools
 </h2>
 

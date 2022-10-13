@@ -48,7 +48,7 @@ The snippet above is a bit of a simplification, however. We used [wildcard DNS r
 
 At any step in this process, we were always able to go back to our zone file and add a customer-specific CNAME to direct traffic as needed for that customer, but eventually the DNS migration came to an end and we were left with just the single wildcard record <tt>*.sites.infr.search.usa.gov</tt> pointing to our AWS infrastructure.
 
-<h3 id="series" style="padding-top: 50px">
+<h3 id="series">
   <em>Read more of this 5-part series:</em>
 </h3>
 

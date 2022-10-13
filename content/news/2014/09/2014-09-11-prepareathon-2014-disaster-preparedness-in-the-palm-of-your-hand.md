@@ -29,7 +29,7 @@ What better way to show your patriotism this Patriot Day than to commit to be pr
   4. &#8220;Put help in your hand&#8221; by downloading [apps from the American Red Cross](http://www.redcross.org/prepare/mobile-apps) for instant access to a range of topics including [first aid tips for you](http://www.redcross.org/mobile-apps/first-aid-app) and [your furry friends,](http://www.redcross.org/mobile-apps/pet-first-aid-app) a handy locator for [emergency shelters](http://www.redcross.org/mobile-apps/shelter-finder-app) and [a shiny new app for blood donations](http://www.redcross.org/mobile-apps/blood-app).
   5. [School yourself in preparedness tips and lists](http://www.ready.gov/prepare) and then spread the word to your social network! To keep up with breaking weather-related updates, bookmark [mobile.weather.gov](http://mobile.weather.gov) and [hurricanes.gov/mobile](http://www.hurricanes.gov/mobile) on your smartphone and tablets and make use of that Twitter app!
 
-<p style="padding-left: 60px;">
+<p>
   Follow accounts like:
 </p>
 
@@ -41,6 +41,6 @@ What better way to show your patriotism this Patriot Day than to commit to be pr
   * [@NHC_Pacific](https://twitter.com/NHC_pacific)
   * [@RedCross](https://twitter.com/RedCross)
 
-<p style="padding-left: 60px;">
+<p>
   And don&#8217;t forget to follow <a href="https://twitter.com/NWS/lists/noaa-nws-offices/members">your local NOAA National Weather Service Forecast Office</a>, community emergency management authorities and local media outlets on on your mobile device, too.
 </p>_So:_ _Be smart. Take part. Prepare today. And don&#8217;t forget: You can download more helpful government mobile apps from the [USA.gov Apps Gallery](http://www.usa.gov/mobileapps.shtml)._
