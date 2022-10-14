@@ -1,11 +1,8 @@
 ---
 date: 2022-10-14 11:16:00 -0500
 title: Latinx Identity in Design, Tech, and Government
-deck: The TTS Latinx employee resource group shares definitions, data, and the
-  importance of representation in civic tech.
-summary: TTS highlights Latinx employees in civic tech by outlining how
-  ethnicity is defined, reported, and its importance in designing better
-  products and services.
+deck: The TTS Latinx employee resource group shares definitions, data, and the importance of representation in civic tech.
+summary: TTS highlights Latinx employees in civic tech by outlining how ethnicity is defined, reported, and its importance in designing better products and services.
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
@@ -20,7 +17,9 @@ primary_image: 10x-areas-of-focus
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 *As you read this article, we hope that you come away with a few takeaways: a better understanding of the current terms used in the U.S. for Hispanic and Latino people; why diverse and inclusive representation in government is key to serving the public; and some of the high-profile civic tech products and programs that Hispanic and Latinx federal employees are working on at GSA. Be sure to also check out the <sup><a aria-describedby="jobs-label" href="#ttsjobs" id="hiring">We're Hiring section</a></sup> on open and upcoming positions in TTS.*
 
 At the U.S. General Services Administration (GSA), the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS) mission is to design and deliver a digital government by, with, and for the public. We are made up of multiple business units, including [18F](https://18f.gsa.gov/), [Centers of Excellence](https://coe.gsa.gov/) (CoE), [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) (PIF), [TTS Solutions](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions), and [U.S. Digital Corps](https://digitalcorps.gsa.gov/), where we have a shared mission with slightly different team structures and approaches. TTS is based in Washington, DC, but many of us work in home offices across U.S. states and territories. Remote work helps nurture a diverse workforce because it allows us to choose to stay in our communities while doing work that has an impact across the world. It also helps maintain the unique perspectives that are born out of the multitudes of communities in this country.
@@ -41,7 +40,7 @@ There are challenges with these terms as they are often used interchangeably and
 * Not everyone who is Latino is Hispanic, but everyone who is Hispanic is Latino — except for people from Spain. The combination “Hispanic/Latino” technically includes people from Spain, but sometimes it’s explicitly written as “Hispanic/Latino/Spanish.”
 * “Spanish” is a language, and also what you call a person from Spain. Although many Hispanic people speak Spanish and may have ancestry from Spain, that doesn’t mean that Spanish is their nationality (where one is born and/or has citizenship).
 
-Latino and Hispanic are U.S.-centric terms. People in Latin American countries don’t usually identify themselves as Latino, but will use their nationality (such as Honduran, Dominican, or Peruvian) in identifying themselves. People who are first- and second-generation Americans might identify as \`nationality\`-American (such as Mexican-American). Terms like *Nuyorican* (a Puerto Rican New Yorker), *Chicanx/a/e/o* (an American of Mexican descent), and *Tejanx/a/e/o* (a Texan of Mexican descent, particularly those whose families lived there when the region now known as Texas was still part of Mexico) also try to capture identities that are uniquely “American-born” with a different connection to their family’s country of origin.
+Latino and Hispanic are U.S.-centric terms. People in Latin American countries don’t usually identify themselves as Latino, but will use their nationality (such as Honduran, Dominican, or Peruvian) in identifying themselves. People who are first- and second-generation Americans might identify as `nationality`-American (such as Mexican-American). Terms like *Nuyorican* (a Puerto Rican New Yorker), *Chicanx/a/e/o* (an American of Mexican descent), and *Tejanx/a/e/o* (a Texan of Mexican descent, particularly those whose families lived there when the region now known as Texas was still part of Mexico) also try to capture identities that are uniquely “American-born” with a different connection to their family’s country of origin.
 
 ## What Does Latinx Look Like?
 
@@ -110,7 +109,7 @@ We hope more join us in this journey. Currently TTS is hiring a [TTS Deputy Dire
 
 Check out open positions or register for an info session to ask questions and learn more [on the Join TTS page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/). <a href="#ttsjobs" aria-label="Back to content">↩</a> {{< /note >}}
 
--﻿--
+---
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
