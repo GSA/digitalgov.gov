@@ -30,7 +30,7 @@
 
             <div class="meta">
               <div class="date">
-                <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}}</a>
+                <span title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}}</span>
               </div>
             </div>
 
@@ -63,7 +63,7 @@
 
               {{/* Date */}}
               <div class="date">
-                <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}} </a>
+                <span title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}} </span>
               </div>
 
 
