@@ -1,10 +1,9 @@
 ---
 date: 2022-10-14 08:30:00 -0500
 title: "Sunrise to Sunset: Building a Customer-centric Digital Ecosystem"
-deck: Four Moments in a Website’s Life
-summary: GSA has developed the Digital Lifecycle Program, with tools and
-  guidance to help teams manage a compliant, customer-centric digital property
-  from ideation through sunsetting.
+deck: Four Moments in a Website's Life
+summary: GSA has developed the Digital Lifecycle Program, with tools and guidance to help teams manage a compliant, customer-centric digital property from ideation through sunsetting.
+
 # See all topics at https://digital.gov/topics
 topics:
   - 21st-century-idea
@@ -16,12 +15,15 @@ topics:
 authors:
   - ana-monroe
 slug: sunrise-to-sunset-building-a-customer-centric-digital-ecosystem
-primary_image: 10x-areas-of-focus
+primary_image: "gsa-logo-blue-bg-1200-x-630"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Launching a new website, unveiling a new program, building a new team; these are exciting, career-defining, moments that deserve celebration.
 
 However, when building new things, we rarely think about how they will one day outlive their usefulness. But that end-of-life moment is as important as the launch, and thinking about our products and services in terms of their full lifecycle will help us build things in a more sustainable, reusable way. As public servants, we must manage our government assets from sunrise to sunset. This requires us to be a responsible steward of federal dollars as well as an empathetic and strategic colleague. Without an off-ramp, products and services can become outdated and stale, neither serving their intended purpose nor ever fully going away.
