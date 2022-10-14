@@ -20,7 +20,7 @@ weight: 1
 
 ---
 
-*As you read this article, we hope that you come away with a few takeaways: a better understanding of the current terms used in the U.S. for Hispanic and Latino people; why diverse and inclusive representation in government is key to serving the public; and some of the high-profile civic tech products and programs that Hispanic and Latinx federal employees are working on at GSA. Be sure to also check out the <sup><a aria-describedby="jobs-label" href="#ttsjobs" id="hiring">We're Hiring section</a></sup> on open and upcoming positions in TTS.*
+*As you read this article, we hope that you come away with a few takeaways: a better understanding of the current terms used in the U.S. for Hispanic and Latino people; why diverse and inclusive representation in government is key to serving the public; and some of the high-profile civic tech products and programs that Hispanic and Latinx federal employees are working on at GSA. Be sure to also check out the <a aria-describedby="jobs-label" href="#ttsjobs" id="hiring">We're Hiring section</a> on open and upcoming positions in TTS.*
 
 At the U.S. General Services Administration (GSA), the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS) mission is to design and deliver a digital government by, with, and for the public. We are made up of multiple business units, including [18F](https://18f.gsa.gov/), [Centers of Excellence](https://coe.gsa.gov/) (CoE), [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) (PIF), [TTS Solutions](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions), and [U.S. Digital Corps](https://digitalcorps.gsa.gov/), where we have a shared mission with slightly different team structures and approaches. TTS is based in Washington, DC, but many of us work in home offices across U.S. states and territories. Remote work helps nurture a diverse workforce because it allows us to choose to stay in our communities while doing work that has an impact across the world. It also helps maintain the unique perspectives that are born out of the multitudes of communities in this country.
 
@@ -52,7 +52,7 @@ Racial breakdowns of Latinx people are sometimes removed when reporting racial a
 
 In tech, Latinx people are often the least-represented ethnic group, especially when compared to the national population. According to Census.gov, 65.8 million people identify as Hispanic or Latino — [62.6 million in the U.S.](https://www.census.gov/newsroom/facts-for-features/2022/hispanic-heritage-month.html#titlecore-6550757585), with an additional [3.2 million in Puerto Rico](https://www.census.gov/library/visualizations/interactive/race-and-ethnicity-in-the-united-state-2010-and-2020-census.html).
 
-Publicly available diversity reports from two major private sector tech companies in 2020 showed that in one, “Latinx+” employees (those who are Latinx and one or more races) made up 5.9% of their overall workforce<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">\[1]</a>, with 4.8% in tech roles specifically. In the other report, “Hispanic/Latinx” employees made up 6.6% of the core business, with 5.3% specifically in tech roles<sup><a aria-describedby="footnote-label" href="#fn2" id="footnotes-ref2">\[2]</a></sup>.
+Publicly available diversity reports from two major private sector tech companies in 2020 showed that in one, “Latinx+” employees (those who are Latinx and one or more races) made up 5.9% of their overall workforce<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>, with 4.8% in tech roles specifically. In the other report, “Hispanic/Latinx” employees made up 6.6% of the core business, with 5.3% specifically in tech roles<sup><a aria-describedby="footnote-label" href="#fn2" id="footnotes-ref2">[2]</a></sup>.
 
 ### Latinx Representation at TTS
 
@@ -103,11 +103,11 @@ Another example is the USAGov program and websites in TTS' Public Experience Por
 
 Driving cultural change starts with people with different experiences making decisions that impact a broader audience. Communities that have been historically marginalized, by both lawful and unlawful discrimination, are voices we need in government.
 
-{{< note >}}<span id="hiring">**We’re Hiring**</span>
+{{< note >}}<span id="ttsjobs">**We’re Hiring**
 
-We hope more join us in this journey. Currently TTS is hiring a [TTS Deputy Director](https://join.tts.gsa.gov/join/tts-deputy-director/), a number of positions for [Designers—UX, Service, Content Strategy, and/or Product](https://join.tts.gsa.gov/join/tts-designer/), and the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) will be [opening applications in October](https://digitalcorps.gsa.gov/apply/). We are also opening a role specifically for [bilingual (Spanish & English) UX Designers and Content Strategists](https://join.tts.gsa.gov/join/tts-bilingualdesigner/) to help improve services for the Spanish-speaking public.
+We hope more join us in this journey. Currently, TTS is hiring a [TTS Deputy Director](https://join.tts.gsa.gov/join/tts-deputy-director/), a number of positions for [Designers—UX, Service, Content Strategy, and/or Product](https://join.tts.gsa.gov/join/tts-designer/), and the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) will be [opening applications in October](https://digitalcorps.gsa.gov/apply/). We are also opening a role specifically for [bilingual (Spanish & English) UX Designers and Content Strategists](https://join.tts.gsa.gov/join/tts-bilingualdesigner/) to help improve services for the Spanish-speaking public.
 
-Check out open positions or register for an info session to ask questions and learn more [on the Join TTS page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/). <a href="#ttsjobs" aria-label="Back to content">↩</a> {{< /note >}}
+Check out open positions or register for an info session to ask questions and learn more [on the Join TTS page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/). <a href="#hiring" aria-label="Back to content">↩</a></span> {{< /note >}}
 
 ---
 
