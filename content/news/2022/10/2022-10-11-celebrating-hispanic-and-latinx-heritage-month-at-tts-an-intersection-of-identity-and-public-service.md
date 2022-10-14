@@ -1,7 +1,7 @@
 ---
 date: 2022-10-11 12:10:00 -0500
 title: "Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection of Identity and Public Service"
-deck: Members of the Latinx Employee Resource Group share their stories of public service.
+deck: Members of the Latinx employee resource group share their stories of public service.
 summary: In this blog, six Technology Transformation Services (TTS) employees share stories of identity and their paths into public service.
 
 # See all topics at https://digital.gov/topics
@@ -25,9 +25,7 @@ weight: 1
 
 At the U.S. General Services Administration (GSA), the Technology Transformation Services (TTS) mission is to design and deliver a digital government by, with, and for the public. TTS has several grassroots-led employee resource groups that create space to share things with one another outside of day-to-day project work, including one for Latinx employees.
 
-We recently asked members of the TTS Latinx employee resource group to talk about identity and why they choose public service.
-
-To advance and increase the understanding of Latinx identity in design, tech, and government as an inseparable part of American identity, we interviewed colleagues across TTS. Keep reading to hear what they have to say.
+To advance and increase the understanding of [Latinx identity in design, tech, and government](https://digital.gov/2022/10/14/latinx-identity-in-design-tech-and-government/) as an inseparable part of American identity, we interviewed colleagues across TTS. We recently asked members of the TTS Latinx employee resource group to talk about identity and why they choose public service. Keep reading to hear what they have to say.
 
 <hr width="75%">
 
