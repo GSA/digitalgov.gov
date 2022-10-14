@@ -12,7 +12,7 @@ topics:
 authors:
   - austin-hernandez
 slug: latinx-identity-in-design-tech-and-government
-primary_image: hhm-latinx-identity-design-tech-government-yulia-novik-istock-getty-images-1403954524-2
+primary_image: "hispanic-heritage-month-yulia-novik-istock-getty-images-1403954524-2"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
