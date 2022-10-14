@@ -12,7 +12,7 @@ topics:
 authors:
   - austin-hernandez
 slug: latinx-identity-in-design-tech-and-government
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -114,7 +114,7 @@ Check out open positions or register for an info session to ask questions and le
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">"Google Diversity Annual Report 2020." Diversity Reports list in footer, Google Belonging. <https://about.google/belonging/>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
-<li id="fn2">"Microsoft’s 2020 Diversity & Inclusion report: A commitment to accelerate progress amidst global change." The Official Microsoft Blog, Oct 21, 2020. <https://blogs.microsoft.com/blog/2020/10/21/microsofts-2020-diversity-inclusion-report-a-commitment-to-accelerate-progress-amidst-global-change/>. <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
+<li id="fn1">"Google Diversity Annual Report 2020." Diversity Reports list in footer, <https://about.google/belonging/>Google Belonging</a>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn2">"Microsoft’s 2020 Diversity & Inclusion report: A commitment to accelerate progress amidst global change." <https://blogs.microsoft.com/blog/2020/10/21/microsofts-2020-diversity-inclusion-report-a-commitment-to-accelerate-progress-amidst-global-change/>The Official Microsoft Blog, Oct 21, 2020</a>. <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
 </ol>
 <footer>
