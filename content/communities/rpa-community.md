@@ -26,14 +26,7 @@ community_list:
     type: government_only
     subscribe_email: "FedRPA-subscribe-request@listserv.gsa.gov"
     terms: "Only federal employees are eligible to join."
-    members: 1175  
-    
-  - platform: listserv
-    type: public
-    subscribe_email: "PubRPA-subscribe-request@listserv.gsa.gov"
-    terms: "Anyone is eligible to join."
-    members: 233
-
+    members: 1175
 ---
 
 The Robotic Process Automation (RPA) Community of Practice (CoP) helps individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This includes important initiatives like designing common federal standards for credentialing, ensuring privacy and security, and designing common management metrics to gauge RPA’s government-wide impact.
