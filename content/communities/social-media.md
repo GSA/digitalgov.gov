@@ -4,24 +4,13 @@
 
 slug: social-media
 date: 2019-12-12 19:00:00 -0500
-title: "SocialGov"
+title: "Social Media"
 summary: "Brings together government social media communicators to improve social media outreach efforts."
 
 # see all authors at https://digital.gov/authors
 authors:
-  - gabrielle-perret
-  - paul-lester
-  - joseph-galbo
-  - victoria-wales
-  - tanner-iskra
-  - sara-eckert
   - laura-larrimore
-  - jessica-hawkins
-  - christie-chung
-  - author-gallow
-  - dominique-ramirez
-  - elizabeth-molina
-  - courtney-rogers
+  - catie-miller
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -52,15 +41,15 @@ primary_image: "white-bg-digital-gov-card-community"
 
 ---
 
-The SocialGov Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists at federal agencies as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.
+The Social Media Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists at federal agencies as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.
 
 ## What We Do
 
-SocialGov hosts educational and networking events, and provides free resources to government employees with the goal of improving social media and new digital media outreach efforts at every level of government. Social media managers face many of the same challenges – join SocialGov to connect with others _who get it_.
+The CoP hosts educational and networking events, and provides resources to government employees with the goal of improving social media and new digital media outreach efforts. Social media managers face many of the same challenges – join the community to connect with others.
 
 ## Who We Are
 
-SocialGov includes government social media communicators of all specialties and experience levels. If you work in government social media, this community is for you.
+The CoP includes government social media communicators of all specialties and experience levels. If you work in government social media, this community is for you.
 
 ## Related Resources
 
