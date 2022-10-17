@@ -783,7 +783,7 @@ collections:
     name: "short link"
     label: "Short Link"
     label_singular: "Short Link Post"
-    description: "This page will help create a new short link post on Digital.gov"
+    description: "A short link post is a shorter blog post that links to external orgs."
     folder: "content/news"
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
@@ -860,8 +860,8 @@ collections:
         hint: "Controls how this page appears across the site (0 -- hidden, 1 -- visible)"
         comment: |-
           Controls how this page appears across the site
-           0 -- hidden
-           1 -- visible
+          0 -- hidden
+          1 -- visible
 
   # SOURCES =======================
   - <<: *defaults
