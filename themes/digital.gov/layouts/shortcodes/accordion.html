@@ -10,13 +10,13 @@
         {{ if (.Get "icon") -}}
           <span class="icon">
             <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-              <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#{{- .Get "icon" -}}"></use>
+              <use xlink:href="{{ "uswds/img/sprite.svg#{{- .Get 'icon' -}}" | relURL }}"></use>
             </svg>
           </span>
         {{- else -}}
           <span class="icon">
             <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-              <use xlink:href="{{- .Site.BaseURL -}}uswds/img/sprite.svg#unfold_more"></use>
+              <use xlink:href="{{ "uswds/img/sprite.svg#unfold_more" | relURL }}"></use>
             </svg>
           </span>
         {{- end -}}
