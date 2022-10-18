@@ -82,7 +82,7 @@ Digital advertising can be an effective tool in your outreach efforts. When sett
 
 Consider digital advertising as a distribution channel. You’ve probably built a great communications plan, a slick website, and eye-catching visuals and videos. To make all this work worth it, you also need to reach your audience, distribute the message to them, and invite them over to take relevant action. Digital advertising is key to success!
 
-{{< note "action">}} **Join Related Communities of Practice:**<br />
+{{< note "action">}} **Join Related Communities of Practice:**<br /><br />
 
  - [SocialGov](https://digital.gov/communities/social-media/)
  - [Web Analytics and Optimization](https://digital.gov/communities/web-analytics-and-optimization/) 
