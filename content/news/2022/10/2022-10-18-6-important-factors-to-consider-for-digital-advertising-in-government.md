@@ -18,7 +18,9 @@ primary_image: digital-marketing-concept-anyaberkut-istock-getty-images-12845499
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Digital.gov’s [Federal Communicators Network](https://digital.gov/communities/federal-communicators-network/) (FCN) held an event in April 2022 with a panel of federal communications and marketing leaders to discuss key benefits and potential pitfalls of digital advertising and paid media.
 
 Speakers included Necola Staples, Director, Strategic Outreach at the Food and Drug Administration (FDA) and Bronwyn Emmet, Digital Outreach Program Manager at Veterans Affairs (VA). The event was moderated by Raashee Gupta Erry, White House Presidential Innovation Fellow (PIF) at GSA and FCN’s community managers.
@@ -27,7 +29,7 @@ Panelists shared their experiences, lessons learned, and best practices for what
 
 ## 6 Considerations
 
-1. **What role does advertising play in your outreach efforts?**
+1&#41; **What role does advertising play in your outreach efforts?**
 
 Digital advertising allows for real-time user testing and feedback. This is a unique aspect of digital advertising compared to traditional offline advertising like TV, print, etc. A multi-channel mix of tactics—search, display ads, email marketing, paid social media, partnerships, and partner-integrated social media—may be a good way to explore what works before dedicating resources to a particular channel.
 
@@ -42,21 +44,19 @@ The tactics differ if you are trying to reach a large, mass audience versus a lo
 
 Along with advertising channels, also focus on the landing page where the audience is being driven. Set up landing page metrics to accurately measure and demonstrate the impact of the advertising efforts.
 
-{{< note "activity" >}}Watch:
+{{< note "activity" >}}**Watch**: [Social Media Spring Session 2021](https://digital.gov/event/2021/04/28/social-media-spring-session-2021/) on social media advertising and best practices.{{< /note >}}
 
-[Social Media Spring Session 2021](https://digital.gov/event/2021/04/28/social-media-spring-session-2021/) on social media advertising and best practices.{{< /note >}}
-
-2. **It is unclear if government agencies are allowed to do paid ads. How can folks learn more about rules that cover paid advertising?**
+2&#41; **It is unclear if government agencies are allowed to do paid ads. How can folks learn more about rules that cover paid advertising?**
 
 Generally speaking, federal agencies can advertise, but we need to adhere to all federal- and agency-level policies and requirements. Each agency likely has their own set of rules and policies, so check with your agency’s offices of General Counsel, Public Affairs, and Public Education, among other offices, before you begin.
 
-3. **How is information and messaging that is disseminated broadly edited for consistency and accuracy?**
+3&#41; **How is information and messaging that is disseminated broadly edited for consistency and accuracy?**
 
 Leave plenty of time in your schedule for the clearance process; it may be extensive. This process is typically applied to all of the information that is going to be used within a concentrated communications plan and ad campaign messaging. Ongoing monitoring should be done for consistency. Even though you may use pieces of the communications plan at different times, the messaging should be approved and vetted for consistency up front.
 
 It is important to figure out the approval and clearance process within your agency. It is critical to work with your communications and legal teams from the beginning to set up this process. Having it in place from the start will ensure you don't run into last-minute delays.
 
-4. **How do you test to see if your ads are reaching the intended audience?**
+4&#41; **How do you test to see if your ads are reaching the intended audience?**
 
 Have a clear understanding of what metrics you’re going to measure; it will help you to tell stories to get internal buy-in, demonstrate impact, and prove success. For example, use landing page or website analytics provide insight into user demographics, pageviews, mobile or desktop devices and operating systems used. Best practices include:
 
@@ -68,11 +68,11 @@ Have a clear understanding of what metrics you’re going to measure; it will he
 
 [Digital.gov Analytics YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba) (tag management, A/B testing, and more){{< /note >}}
 
-5. **How do you measure the benefits?**
+5&#41; **How do you measure the benefits?**
 
 Having KPIs and their associated calls-to-action are important for cost-benefit analysis. Some agencies measure the return on investment (ROI) based on the ad dollars it takes for someone to click on an ad, go to the site, start an application, complete an application, or other tasks. Also, there will be different metrics for different platforms and tactics; some will be direct contributors to the ROI, while others may be indirect (such as seeing a display ad before clicking on search or a social video before visiting the website).
 
-6. **What are some of the ‘must do’ or critical steps to take before getting started?**
+6&#41; **What are some of the ‘must do’ or critical steps to take before getting started?**
 
 * Connect with internal partners: Use a framework method like [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) (which stands for: Responsible, Accountable, Consulted, and Informed) to help figure out who will be your internal liaison and associates.
 * Take a systematic approach: Have a well-organized project plan with key milestones. Don't skip steps or rush to the finish line.
