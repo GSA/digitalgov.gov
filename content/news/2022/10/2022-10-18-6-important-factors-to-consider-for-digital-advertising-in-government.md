@@ -84,8 +84,7 @@ Consider digital advertising as a distribution channel. You’ve probably built 
 
 {{< note "action">}} **Join Related Communities of Practice:**
 
-
- * [SocialGov](https://digital.gov/communities/social-media/)
- * [Web Analytics and Optimization](https://digital.gov/communities/web-analytics-and-optimization/) 
+* [SocialGov](https://digital.gov/communities/social-media/)<br />
+* [Web Analytics and Optimization](https://digital.gov/communities/web-analytics-and-optimization/) 
 
 {{< /note >}}
