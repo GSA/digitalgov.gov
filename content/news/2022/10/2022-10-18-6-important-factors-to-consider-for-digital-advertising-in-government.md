@@ -44,7 +44,7 @@ The tactics differ if you are trying to reach a large, mass audience versus a lo
 
 Along with advertising channels, also focus on the landing page where the audience is being driven. Set up landing page metrics to accurately measure and demonstrate the impact of the advertising efforts.
 
-{{< note "activity" >}}**Watch**: [Social Media Spring Session 2021](https://digital.gov/event/2021/04/28/social-media-spring-session-2021/) on social media advertising and best practices.{{< /note >}}
+{{< note "activity" >}} **Watch**: [Social Media Spring Session 2021](https://digital.gov/event/2021/04/28/social-media-spring-session-2021/) on social media advertising and best practices. {{< /note >}}
 
 2&#41; **It is unclear if government agencies are allowed to do paid ads. How can folks learn more about rules that cover paid advertising?**
 
@@ -64,9 +64,7 @@ Have a clear understanding of what metrics you’re going to measure; it will he
 * Use tag managers to collect valuable data about visits to your website; set ad tags to confirm delivery and measurement tags to provide performance data.
 * Review audience data from platforms and vendors during the campaign so you can adjust, if necessary.
 
-{{< note "activity" >}}Watch:
-
-[Digital.gov Analytics YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba) (tag management, A/B testing, and more){{< /note >}}
+{{< note "activity" >}} **Watch**: [Digital.gov Analytics YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba) (tag management, A/B testing, and more) {{< /note >}}
 
 5&#41; **How do you measure the benefits?**
 
@@ -84,7 +82,9 @@ Digital advertising can be an effective tool in your outreach efforts. When sett
 
 Consider digital advertising as a distribution channel. You’ve probably built a great communications plan, a slick website, and eye-catching visuals and videos. To make all this work worth it, you also need to reach your audience, distribute the message to them, and invite them over to take relevant action. Digital advertising is key to success!
 
-{{< note "action">}}**Join Related Communities of Practice**
+{{< note "action">}} **Join Related Communities of Practice:**
 
-* [SocialGov](https://digital.gov/communities/social-media/)
-* [Web Analytics and Optimization](https://digital.gov/communities/web-analytics-and-optimization/){{< /note >}}
+ * [SocialGov](https://digital.gov/communities/social-media/)
+ * [Web Analytics and Optimization](https://digital.gov/communities/web-analytics-and-optimization/) 
+
+{{< /note >}}
