@@ -91,7 +91,9 @@
         {{/* get the Favicon via Google Favicon service */}}
         {{- $src := (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) -}}
         {{/* Pass these vars into the list item template (botton of page) */}}
-        {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+        <ul class="usa-list usa-list--unstyled">
+          {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+        </ul>
       {{- end -}}
 
     {{/* If an internal link... */}}
@@ -99,7 +101,9 @@
 
       {{/* Use the digital.gov logo */}}
       {{/* Pass these vars into the list item template (botton of page) */}}
-      {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" (print "/img/digit-50.png") -}}
+      <ul class="usa-list usa-list--unstyled">
+        {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" (print "/img/digit-50.png") -}}
+      </ul>
 
     {{- end -}}
 
