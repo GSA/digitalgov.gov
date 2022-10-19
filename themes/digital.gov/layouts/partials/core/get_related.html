@@ -22,24 +22,25 @@
   <header>
     <h3>Join a Community</h3>
   </header>
-  {{- range $communities -}}
 
-    <div class="promo">
+  <ul class="usa-list usa-list--unstyled">
+    {{- range $communities -}}
+    <li class="promo">
       <div>
-        <h4><a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a></h4>
+        <a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a>
         {{- if .Params.members -}}
         <p class="members">{{- .Params.members -}}+</p>
         {{- end -}}
       </div>
-    </div>
-
-  {{- end -}}
+    </li>
+    {{- end -}}
+  </ul>
 
   <footer>
     <p class="more">
       <a href="{{ "/communities/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "communities") }} communities</span>
         <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{- $.Site.BaseURL -}}uswds/img/sprite.svg#arrow_forward"></use>
+          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
         </svg>
       </a>
     </p>
@@ -76,10 +77,13 @@
         {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
         {{/* If there is a logo defined in the source */}}
         {{- if $source.Params.logo -}}
-          {{/* get the path for the icon — e.g. 18f-icon.png */}}
+          {{/* get the path for the icon — e.g. 18f-icon.png */}}
           {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
           {{/* Pass these vars into the list item template (botton of page) */}}
-          {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+          
+          <ul class="usa-list usa-list--unstyled">
+            {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+          </ul>
 
         {{- end -}}
       {{/* No source? let's attempt to get the favicon for the URL */}}
@@ -105,7 +109,7 @@
     <p class="more">
       <a href="{{ "/services/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "services") }} services</span>
         <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{- $.Site.BaseURL -}}uswds/img/sprite.svg#arrow_forward"></use>
+          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
         </svg>
       </a>
     </p>
@@ -119,13 +123,11 @@
   {{- $src := .src -}}
   {{- with .item -}}
     {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-    <div class="promo" data-edit-this="{{- $path -}}">
+    <li class="promo" data-edit-this="{{- $path -}}">
       <div>
-        <h4>
-          <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a>
-        </h4>
-        <img src="{{- $src | relURL -}}" alt="" aria-hidden="true"/>
+        <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a>
       </div>
-    </div>
+      <img src="{{- $src | relURL -}}" alt="" aria-hidden="true"/>
+    </li> 
   {{- end -}}
 {{- end -}}
