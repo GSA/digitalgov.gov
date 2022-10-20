@@ -786,6 +786,92 @@ collections:
         required: false
         <<: *editorComponents
 
+
+  # SHORT LINK =======================
+  - <<: *defaults
+    name: "short link"
+    label: "Short Link"
+    label_singular: "Short Link Post"
+    description: "A short link post is a shorter blog post that links to external orgs."
+    folder: "content/news"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{title}}"
+    preview_path_date_field: "date"
+    fields:
+      - label: "Source Url"
+        name: "source_url"
+        widget: "string"
+        hint: "e.g. https://18f.gsa.gov/2019/04/01/ ..."
+        comment: "Originally published at the following URL"
+        required: false
+      - label: "Source"
+        name: "source"
+        widget: "relation"
+        collection: "sources"
+        searchFields: ["name"]
+        valueField: "slug"
+        displayFields: ["name"]
+        required: false
+        options_length: 1000
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: false # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+      - label: "Title / Headline"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+      - label: "Deck / Sub-head"
+        name: "deck"
+        widget: "text"
+        hint: |-
+          Think of this as the sentence you'd most like to tweet.
+          Do not repeat the headline. You need to be able to read it outloud in a single breath.
+        required: false
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Topics"
+        name: "topics"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
+        displayField: "title"
+        search_fields: ["slug", "title"]
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["first_name", "last_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Page Weight"
+        name: "weight"
+        widget: "number"
+        default: 1
+        valueType: "int"
+        min: 0
+        max: 1
+        step: 1
+        hint: "Controls how this page appears across the site (0 -- hidden, 1 -- visible)"
+        comment: |-
+          Controls how this page appears across the site
+          0 -- hidden
+          1 -- visible
+
   # SOURCES =======================
   - <<: *defaults
     name: "sources"
