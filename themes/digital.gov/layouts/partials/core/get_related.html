@@ -26,8 +26,8 @@
   <ul class="usa-list usa-list--unstyled">
     {{- range $communities -}}
     <li class="promo">
-      <div>
-        <a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a>
+      <div class="promo__link-wrapper">
+        <a href="{{ .Permalink }}?promo" title="Visit {{ .Title }} community page">{{ .Title }}</a>
         {{- if .Params.members -}}
         <p class="members">{{- .Params.members -}}+</p>
         {{- end -}}
@@ -128,8 +128,8 @@
   {{- with .item -}}
     {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
     <li class="promo" data-edit-this="{{- $path -}}">
-      <div>
-        <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a>
+      <div class="promo__link-wrapper">
+        <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="Visit {{ .Title | markdownify -}} services page"><span>{{- .Title | markdownify -}}</span></a>
       </div>
       <img src="{{- $src | relURL -}}" alt="" aria-hidden="true"/>
     </li> 
