@@ -27,6 +27,8 @@ primary_image: uswds-monthly-call-october-title-card
 
 ---
 
+[View the slides (PowerPoint, 7.2 MB, 67 pages)](https://digital.gov/files/uswds-monthly-call-october-2022.pptx)
+
 Many of the digital solutions we create rely on collecting personal information (like name, address, and phone number), allowing programs and services to connect with people who need assistance. Some of these people may be impacted by housing insecurity, homelessness, or displacement due to disaster.
 
 When what we ask for doesn’t allow users to confidently and accurately communicate their answers — or allow them to update this information as their circumstances change — we may have created a poor user experience and eroded trust from the start. We’ll discuss our approach to developing User Profile design patterns, look at some specific guidance, and talk about why it’s so important.
