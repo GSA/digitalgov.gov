@@ -1,22 +1,24 @@
 @use "uswds-core" as *;
 
 // GovDelivery Newsletter
-#newsletter-signup{
+#newsletter-signup {
   @include u-padding-y('105');
+  @include u-bg('indigo-80');
+
   @include at-media('tablet'){
     @include u-padding-y(3);
   }
-  @include u-bg('indigo-80');
-  .usa-sign-up{
+
+  .usa-sign-up {
     @include u-padding-y(0);
   }
-  .blurb{
+  .blurb {
     @include u-margin-top('105');
     @include u-font('sans', 'lg');
     @include u-text('light');
     @include u-text('white');
     @include u-line-height('sans', 3);
-    strong{
+    strong {
       @include u-text('bold');
     }
   }
