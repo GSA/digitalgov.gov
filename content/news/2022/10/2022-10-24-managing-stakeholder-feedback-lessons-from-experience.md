@@ -1,10 +1,9 @@
 ---
 date: 2022-10-24 07:59:00 -0500
 kicker: User Research
-title: Managing Stakeholder Feedback Lessons from Experience
-summary: During the 2022 Plain Language Summit, Stephanie Morrison from the
-  Department of Health and Human Services provided five tips for managing
-  reviewers when asking for feedback.
+title: Managing Stakeholder Feedback: Lessons from Experience
+summary: During the 2022 Plain Language Summit, Stephanie Morrison from the Department of Health and Human Services provided five tips for managing reviewers when asking for feedback.
+
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
@@ -13,13 +12,21 @@ topics:
   - usability
   - writing
   - training
+
+# See all authors at https://digital.gov/authors
+authors:
+  - alexander-wilson
+  
 slug: managing-stakeholder-feedback-lessons-from-experience
-primary_image: 10x-areas-of-focus
+primary_image: "pl-summit-venn-managing-stakeholder-feedback"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Getting feedback on professional writing has many benefits; it validates the accuracy of the information, it can improve the clarity and focus of the text, and it gives materials more credibility. It does, however, take time and preparation to ask for and manage feedback. At the [2022 Federal Plain Language Summit](https://digital.gov/event/2022/08/24/2022-federal-plain-language-summit/), Stephanie M. Morrison, MPH, health and science writer and editor at the Department of Health and Human Services (HHS), presented five tips for managing reviewers when asking for feedback. [View the slides (PowerPoint, 16.7 MB, 19 pages)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fdigital.gov%2Ffiles%2Fplain-language-summit-managing-stakeholder-feedback-lessons-from-experience.pptx&wdOrigin=BROWSELINK) from her presentation.
 
 ***Each tip applies to various contexts and is adjustable to each writer's style.***
@@ -32,6 +39,8 @@ Two types of reviewers can require different approaches. 
 
 * Gatekeepers, such as your supervisor, agency leader, or office of communications, may know the task and won't need much context for a request.
 * Subject-matter experts, such as analysts, researchers, scientists, and lawyers, may not understand the background of the task yet.
+
+{{< img src="pl-summit-venn-managing-stakeholder-feedback" >}}
 
 So, when asking subject matter experts to provide feedback, help them to agree by making sure your request is brief and scannable, with essential information upfront. 
 
@@ -57,4 +66,4 @@ At times you will disagree with suggestions or feedback. It's normal to feel def
 
 While asking stakeholders to review and make suggestions on a document can be tricky, these tips will set you up for success when working with reviews within, as well as outside of, your agency.
 
-*To connect with others, [join the Plain Language Community of Practice](https://digital.gov/communities/plain-language/). Visit the PlainLanuage.gov website to review its [guidelines](https://www.plainlanguage.gov/guidelines/), and explore [resources](https://www.plainlanguage.gov/resources/) and [examples](https://www.plainlanguage.gov/examples/) across a variety of content types.*
+{{< note "action" >}}To connect with others, [join the Plain Language Community of Practice](https://digital.gov/communities/plain-language/). Visit the PlainLanuage.gov website to review its [guidelines](https://www.plainlanguage.gov/guidelines/), and explore [resources](https://www.plainlanguage.gov/resources/) and [examples](https://www.plainlanguage.gov/examples/) across a variety of content types.{{< /note >}}
