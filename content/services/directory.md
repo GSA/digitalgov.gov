@@ -2,6 +2,7 @@
 # What is the name of the product or service?
 title: "Directory of services, tools, and teams"
 deck: "Shared services and tools offered by the GSA and other agencies."
+source_url: /services
 
 # Keep it short — should be no longer than 10 words.
 summary: "Free and low-cost shared services and tools offered by the GSA and other agencies."

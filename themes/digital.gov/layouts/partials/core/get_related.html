@@ -66,6 +66,8 @@
     <h3>Get Started Building</h3>
   </header>
 
+  <ul class="usa-list usa-list--unstyled">
+
   {{- range $services -}}
 
     {{/* If an external link  */}}
@@ -81,9 +83,9 @@
           {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
           {{/* Pass these vars into the list item template (botton of page) */}}
           
-          <ul class="usa-list usa-list--unstyled">
-            {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
-          </ul>
+          
+          {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+          
 
         {{- end -}}
       {{/* No source? let's attempt to get the favicon for the URL */}}
@@ -91,9 +93,8 @@
         {{/* get the Favicon via Google Favicon service */}}
         {{- $src := (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) -}}
         {{/* Pass these vars into the list item template (botton of page) */}}
-        <ul class="usa-list usa-list--unstyled">
-          {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
-        </ul>
+        {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+        
       {{- end -}}
 
     {{/* If an internal link... */}}
@@ -101,13 +102,13 @@
 
       {{/* Use the digital.gov logo */}}
       {{/* Pass these vars into the list item template (botton of page) */}}
-      <ul class="usa-list usa-list--unstyled">
-        {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" (print "/img/digit-50.png") -}}
-      </ul>
+      {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" (print "/img/digit-50.png") -}}
 
     {{- end -}}
 
   {{- end -}}
+
+  </ul>
 
   <footer>
     <p class="more">
