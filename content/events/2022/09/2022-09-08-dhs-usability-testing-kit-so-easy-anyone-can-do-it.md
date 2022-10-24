@@ -23,9 +23,11 @@ authors:
 slug: dhs-usability-testing-kit-so-easy-anyone-can-do-it
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-youtube_id: G0Eij3E7RLQ
-youtube_id: inTKUSKpHjQ
+youtube_id:
 primary_image: dhs-usability-testing-kit-event-title-card
+
+{{< youtube G0Eij3E7RLQ >}}
+{{< youtube inTKUSKpHjQ >}}
 
 ---
 
