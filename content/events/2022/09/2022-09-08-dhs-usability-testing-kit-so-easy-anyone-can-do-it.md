@@ -26,9 +26,6 @@ event_platform: zoom
 youtube_id:
 primary_image: dhs-usability-testing-kit-event-title-card
 
-{{< youtube G0Eij3E7RLQ >}}
-{{< youtube inTKUSKpHjQ >}}
-
 ---
 
 Usability testing is a way to learn how easy or difficult it is for people to use something by observing them actually using it.
@@ -40,6 +37,10 @@ The resources provided in the [DHS Usability Kit](https://www.dhs.gov/cx/dhs-usa
 ## Speaker
 
 * **Dana Chisnell**, Deputy Director for Customer Experience (CX) - U.S. Department of Homeland Security
+
+{{< youtube G0Eij3E7RLQ >}}
+
+{{< youtube inTKUSKpHjQ >}}
 
 ---
 
