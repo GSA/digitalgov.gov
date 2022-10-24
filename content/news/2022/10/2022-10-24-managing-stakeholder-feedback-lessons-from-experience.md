@@ -18,7 +18,7 @@ authors:
   - alexander-wilson
   
 slug: managing-stakeholder-feedback-lessons-from-experience
-primary_image: "pl-summit-venn-managing-stakeholder-feedback"
+primary_image: pl-summit-venn-managing-stakeholder-feedback
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -52,7 +52,7 @@ Gatekeepers ensure tone appropriateness and consistency with agency style and po
 
 With each group, clarify the review and the feedback process. For example, give clear instructions in an email:
 
-Please flag any errors, unclear text, or missing information. It may be easiest to use the "track changes" feature to mark up the attached document and send it back via email. After your review, our division lead and agency director will also have an opportunity to weigh in."
+> _Please flag any errors, unclear text, or missing information. It may be easiest to use the "track changes" feature to mark up the attached document and send it back via email. After your review, our division lead and agency director will also have an opportunity to weigh in._
 
 **Tip 3. Have a reasonable timeline.** Make sure everyone knows what it is. Follow up when you say you will.
 
