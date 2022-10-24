@@ -23,6 +23,7 @@ authors:
 slug: dhs-usability-testing-kit-so-easy-anyone-can-do-it
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id:
 primary_image: dhs-usability-testing-kit-event-title-card
 
 ---
@@ -35,7 +36,17 @@ The resources provided in the [DHS Usability Kit](https://www.dhs.gov/cx/dhs-usa
 
 ## Speaker
 
-* **Dana Chisnell**, Deputy Director for Customer Experience (CX) - U.S. Department of Homeland Security
+**Dana Chisnell**, Deputy Director for Customer Experience (CX) - U.S. Department of Homeland Security
+
+## Video Clips
+
+1. An overview of the DHS Usability Testing Kit (time length: 13:01)
+
+{{< youtube G0Eij3E7RLQ >}}
+
+2. Example templates from the DHS Usability Testing Kit (time length: 6:56)
+
+{{< youtube inTKUSKpHjQ >}}
 
 ---
 
