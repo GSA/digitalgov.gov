@@ -1,7 +1,7 @@
 ---
 date: 2022-10-24 07:59:00 -0500
 kicker: User Research
-title: Managing Stakeholder Feedback: Lessons from Experience
+title: "Managing Stakeholder Feedback: Lessons from Experience"
 summary: During the 2022 Plain Language Summit, Stephanie Morrison from the Department of Health and Human Services provided five tips for managing reviewers when asking for feedback.
 
 # See all topics at https://digital.gov/topics
