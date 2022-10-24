@@ -36,7 +36,7 @@ The resources provided in the [DHS Usability Kit](https://www.dhs.gov/cx/dhs-usa
 
 ## Speaker
 
-* **Dana Chisnell**, Deputy Director for Customer Experience (CX) - U.S. Department of Homeland Security
+**Dana Chisnell**, Deputy Director for Customer Experience (CX) - U.S. Department of Homeland Security
 
 ## Video Clips
 
