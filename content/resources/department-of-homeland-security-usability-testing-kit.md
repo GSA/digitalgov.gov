@@ -3,7 +3,7 @@ date: 2022-09-27 11:25:00 -0500
 # Originally published at the following URL
 source_url: https://www.dhs.gov/cx/dhs-usability-testing-kit
 title: "Department of Homeland Security: Usability Testing Kit"
-summary: A resource to help federal employees perform usability testing.
+summary: A resource with four approaches to help federal employees perform usability testing.
 # See all topics at https://digital.gov/topics
 topics:
   - usability-testing
