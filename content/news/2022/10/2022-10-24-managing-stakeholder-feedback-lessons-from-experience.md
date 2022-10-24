@@ -12,9 +12,11 @@ topics:
   - usability
   - writing
   - training
-  
+# See all authors at https://digital.gov/authors
+authors:
+  - alexander-wilson
 slug: managing-stakeholder-feedback-lessons-from-experience
-
+primary_image: "pl-summit-venn-managing-stakeholder-feedback"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -34,6 +36,8 @@ Two types of reviewers can require different approaches. 
 
 * Gatekeepers, such as your supervisor, agency leader, or office of communications, may know the task and won't need much context for a request.
 * Subject-matter experts, such as analysts, researchers, scientists, and lawyers, may not understand the background of the task yet.
+
+{{< img src="pl-summit-venn-managing-stakeholder-feedback" >}}
 
 So, when asking subject matter experts to provide feedback, help them to agree by making sure your request is brief and scannable, with essential information upfront. 
 
