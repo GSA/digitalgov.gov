@@ -2,7 +2,9 @@
 
 // GovDelivery Newsletter
 #newsletter-signup{
-  height: 22.6875rem;
+  @include at-media('desktop'){
+    height: 22.6875rem;
+  }
   @include u-padding-y('105');
   @include u-bg('indigo-80');
 
