@@ -130,7 +130,11 @@
     {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
     <li class="promo" data-edit-this="{{- $path -}}">
       <div class="promo__link-wrapper">
-        <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="Visit {{ .Title | markdownify -}} services page"><span>{{- .Title | markdownify -}}</span></a>
+        {{- if isset .Params "source_url"}}
+          <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="Visit {{ .Title | markdownify -}} services page"><span>{{- .Title | markdownify -}}</span></a>
+        {{- else -}}
+          <a class="external-link" href="{{- .Permalink -}}?=dg" title="Visit {{ .Title | markdownify -}} services page"><span>{{- .Title | markdownify -}}</span></a>
+        {{- end -}}
       </div>
       <img src="{{- $src | relURL -}}" alt="" aria-hidden="true"/>
     </li> 
