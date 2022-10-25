@@ -136,16 +136,16 @@ What does this mean when it comes to name, address, and contact information? Wha
 
 **Slide 27:** We’ve developed ten patterns to help users:
 
-- Provide their name
-- Enter their address
-- Provide their email address
-- Enter their phone number
-- Indicate their contact preferences
-- Enter their Social Security Number
-- Enter their date of birth
-- Provide their race and ethnicity
-- Provide their biological sex or gender
-- and Share their pronouns
+1. Provide their name
+2. Enter their address
+3. Provide their email address
+4. Enter their phone number
+5. Indicate their contact preferences
+6. Enter their Social Security Number
+7. Enter their date of birth
+8. Provide their race and ethnicity
+9. Provide their biological sex or gender
+10. and Share their pronouns
 
 Some of these patterns are pretty straightforward and some of these are really complicated  —  and some of these are only just emerging in a rapidly changing environment.
 
