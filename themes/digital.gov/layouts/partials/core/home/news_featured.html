@@ -11,7 +11,7 @@
             <p>Innovative work, news, and ideas from people and teams in government</p>
 
             <div class="join-buttons">
-              <a href="{{- "/join" | absURL -}}">Write for us</a>
+              <a href="{{- "/join" | relURL -}}">Write for us</a>
             </div>
 
           </header>
@@ -90,14 +90,14 @@
         {{- end -}}
 
         <footer>
-            <a class="btn" href="{{- "news" | absURL -}}" title="View news and updates page">
-              <span>See all News</span>
-              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-              </svg>
-            </a>
-            <p>Have a case study to share? Did your team recently launch something?<br/><a href="{{- "contribute" | absURL -}}" title="Contribute to Digital.gov"><strong>Learn how you can contribute</strong></a></p>
-          </footer>
+          <a class="btn" href="{{- "news" | relURL -}}" title="View news and updates page">
+            <span>See all News</span>
+            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+              <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
+            </svg>
+          </a>
+          <p>Have a case study to share? Did your team recently launch something?<br/><a href="{{- "contribute" | relURL -}}" title="Contribute to Digital.gov"><strong>Learn how you can contribute</strong></a></p>
+        </footer>
       </section>
     </div>
   </div>
