@@ -2,7 +2,9 @@
 <article class="card card-event-promo card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
   <div class="grid-row tablet:grid-gap-4">
 
-    <div class="grid-col-9 tablet-lg:grid-col-10">
+
+<article class="card card-event card-event-promo card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
+  <div class="card__content">
       {{- if .Params.kicker -}}
       <div class="kicker">{{- .Params.kicker -}}</div>
       {{- end -}}
@@ -20,18 +22,26 @@
       <p class="host">Hosted by Digital.gov and the {{ .Params.host }}</p>
       {{- end -}}
 
-      <a [attr.aria-label]="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+    <a
+      aria-label="Register for {{- .Params.title -}}"
+      class="btn btn-register"
+      href="{{- .Params.registration_url -}}"
+      onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
+        Register
+    </a>
     </div>
 
-    <div class="grid-col-3 tablet-lg:grid-col-2 order-first">
-
+  <div class="card__media">
       <div class="date">
         <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
         <span class="date-day">{{- dateFormat "02" .Date -}}</span>
-        <a [attr.aria-label]="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
-      </div>
-
+      <a
+        aria-label="Register for {{- .Params.title -}}"
+        class="btn btn-register"
+        href="{{- .Params.registration_url -}}"
+        onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
+          Register
+      </a>
     </div>
   </div>
-
 </article>

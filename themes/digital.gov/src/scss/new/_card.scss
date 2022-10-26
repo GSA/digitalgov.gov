@@ -7,11 +7,43 @@
   @include u-padding("105");
   @include u-padding-bottom(2);
   @include u-bg("white");
+  display: grid;
   transition: background-color 0.2s;
+  gap: units("105"); // Vertical spacing on mobile and horizontal on desktop
+
   @include at-media("tablet") {
     @include u-margin-bottom(1);
     @include u-padding("205");
+    grid-template-areas:
+      "c-content c-media"
+      "c-meta c-meta";
+    grid-template-columns: 2fr 1fr;
   }
+
+  &__content {
+    @include at-media("tablet") {
+      grid-area: c-content;
+    }
+  }
+
+  &__media {
+    order: -1;
+
+    @include at-media("tablet") {
+      grid-area: c-media;
+    }
+    @include at-media("tablet-lg") {
+      order: unset;
+    }
+  }
+
+  &__meta {
+    @include at-media("tablet") {
+      grid-area: c-meta;
+    }
+  }
+
+
   .kicker {
     @include u-margin(0);
     @include u-margin-bottom("05");
@@ -45,7 +77,7 @@
     @include u-text("normal");
   }
 
-  .meta {
+  .card__meta {
     @include u-margin-top("105");
     @include u-display("flex");
     @include at-media("tablet-lg") {
