@@ -56,7 +56,7 @@
         }
       }
     }
-    .summary{
+    .card__summary{
       @include u-margin-y('105');
       @include u-font('sans', 'xs');
       @include at-media('tablet') {

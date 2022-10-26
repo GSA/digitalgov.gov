@@ -37,7 +37,7 @@
       }
     }
   }
-  .summary,
+  .card__summary,
   .deck {
     @include u-margin-top(1);
     @include u-line-height("sans", 3);
