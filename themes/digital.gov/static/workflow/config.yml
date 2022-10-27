@@ -982,13 +982,20 @@ collections:
         search_fields: ["slug", "title"]
         multiple: false
         required: true
-      - label: "Event Date"
-        name: "event date"
+      - label: "Start Date/Time"
+        name: "date"
         widget: "datetime"
         dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
         timeFormat: "HH:mm" # e.g. 21:00
         format: "YYYY-MM-DD HH:mm:00 -0500"
         hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
       - label: "Topics"
         name: "topics"
         widget: "relation"
