@@ -1,6 +1,6 @@
 @use "uswds-core" as *;
 
-.card-elsewhere {
+.card.card-elsewhere {
   grid-template-areas:
     "c-media c-content"
     "c-meta c-meta";
