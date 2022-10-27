@@ -1,13 +1,10 @@
 @use "uswds-core" as *;
 
 .card-elsewhere {
-
-  @include at-media("tablet") {
-    grid-template-areas:
-      "c-media c-content"
-      "c-meta c-meta";
-    grid-template-columns: #{units(7)} 1fr;
-  }
+  grid-template-areas:
+    "c-media c-content"
+    "c-meta c-meta";
+  grid-template-columns: #{units(7)} 1fr;
 
   .card__summary {
     @include u-margin-top(0);
@@ -19,6 +16,7 @@
       @include u-text("normal");
     }
   }
+
   .card__source {
     @include u-margin-top("05");
     @include u-display("block");
@@ -48,5 +46,9 @@
         @include u-circle(7);
       }
     }
+  }
+
+  .card__meta {
+    grid-area: c-meta;
   }
 }
