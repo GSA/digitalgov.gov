@@ -141,11 +141,11 @@ What does this mean when it comes to name, address, and contact information? Wha
 3. Provide their email address
 4. Enter their phone number
 5. Indicate their contact preferences
-6. Enter their Social Security Number
+6. Enter their social security number
 7. Enter their date of birth
 8. Provide their race and ethnicity
-9. Provide their biological sex or gender
-10. and Share their pronouns
+9. Provide their biological sex or gender, and
+10. Share their pronouns
 
 Some of these patterns are pretty straightforward and some of these are really complicated  —  and some of these are only just emerging in a rapidly changing environment.
 
