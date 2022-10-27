@@ -19,18 +19,18 @@
     </div>
   </div>
   <div class="card__media">
-      {{/* Favicon
-      If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
-      {{- if $source -}}
-        {{- if $source.Params.logo -}}
-          {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
+    {{/* Favicon
+    If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
+    {{- if $source -}}
+      {{- if $source.Params.logo -}}
+        {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
         <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} logo">
-        {{- end -}}
+      {{- end -}}
 
-      {{/* Otherwise, use the Favicon that Google stores for the site. */}}
-      {{- else -}}
+    {{/* Otherwise, use the Favicon that Google stores for the site. */}}
+    {{- else -}}
       <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source }} logo">
-      {{ end }}
+    {{ end }}
   </div>
   <div class="card__meta">
     <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
