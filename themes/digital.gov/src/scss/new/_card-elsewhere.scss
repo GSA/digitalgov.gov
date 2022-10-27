@@ -10,10 +10,10 @@
     @include u-margin-top(0);
 
     p {
-      @include u-measure(5);
       @include u-line-height("sans", 3);
       @include u-font("sans", "md");
       @include u-text("normal");
+      max-width: none;
     }
   }
 
