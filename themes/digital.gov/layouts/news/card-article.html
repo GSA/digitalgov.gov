@@ -1,25 +1,26 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+
 <article class="card card-article card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
   <div class="card__content">
-      {{- if .Params.kicker -}}
-      <div class="kicker">{{- .Params.kicker -}}</div>
-      {{- end -}}
-      <h3>
-        <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
-      </h3>
+    {{- if .Params.kicker -}}
+    <div class="kicker">{{- .Params.kicker -}}</div>
+    {{- end -}}
+    <h3>
+      <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
+    </h3>
 
-      {{- if .Params.summary -}}
+    {{- if .Params.summary -}}
     <div class="summary">{{ .Params.summary | markdownify }}</div>
-      {{- else -}}
+    {{- else -}}
     <div class="deck">{{ .Params.deck | markdownify }}</div>
-      {{- end -}}
+    {{- end -}}
 
-      {{- partial "core/get_authors_short.html" . -}}
-      </div>
+    {{- partial "core/get_authors_short.html" . -}}
+  </div>
 
   <div class="card__media">
     {{- partial "core/img-featured.html" . -}}
-    </div>
+  </div>
 
   <div class="card__meta">
     <div class="date">{{ dateFormat "Jan 02, 2006" .Date }}</div>
