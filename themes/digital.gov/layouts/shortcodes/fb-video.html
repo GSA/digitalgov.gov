@@ -6,4 +6,14 @@
 {{ $url := replace $url ":" "%3A" }}
 {{ $url := printf "%s%s%s" $fbprepend $url $fbappend }}
 
-<iframe src="{{- $url | safeHTML -}}" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<iframe
+  src="{{- $url | safeHTML -}}"
+  width="500"
+  height="281"
+  style="border:none;overflow:hidden"
+  scrolling="no"
+  frameborder="0"
+  allowTransparency="true"
+  allowfullscreen="true"
+></iframe>

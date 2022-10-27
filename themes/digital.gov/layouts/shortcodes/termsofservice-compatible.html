@@ -6,29 +6,46 @@
     <th class="tos-file">Agreement</th>
   </tr>
   {{ range where .Site.Data.termsofservice.termsofservice "status" "!=" (slice "closed" "not-compatible") }}
-  <tr>
-    <td><a href="{{ .url }}" title="{{ .name }}"><img class="favicon" src="https://www.google.com/s2/favicons?domain={{ .url }}" alt="{{ .name }}"> <strong><span>{{ .name }}</span></strong></a> {{ if .description }} — {{ .description -}}{{- end -}}</td>
+    <tr>
+      <td>
+        <a href="{{ .url }}" title="{{ .name }}"
+          ><img
+            class="favicon"
+            src="https://www.google.com/s2/favicons?domain={{ .url }}"
+            alt="{{ .name }}"
+          />
+          <strong><span>{{ .name }}</span></strong></a
+        >
+        {{ if .description }}— {{ .description -}}{{- end -}}
+      </td>
 
-    {{ $.Scratch.Set "filepath" (printf "%s" "null") }}
-    {{ if eq .type "PDF" }}
-      {{ $.Scratch.Set "iconfile" "file-pdf" }}
-      {{ $.Scratch.Set "filepath" (printf "%s/%s/%s" $cdnurl $legacyPath .uri) }}
-    {{ else if eq .type "Word Doc" }}
-      {{ $.Scratch.Set "iconfile" "file-word" }}
-      {{ $.Scratch.Set "filepath" (printf "%s/%s/%s" $cdnurl $legacyPath .uri) }}
-    {{ else if eq .type "Google Doc" }}
-      {{ $.Scratch.Set "iconfile" "file-alt" }}
-      {{ $.Scratch.Set "filepath" (printf "%s" .uri) }}
-    {{ else if eq .type "Website" }}
-      {{ $.Scratch.Set "iconfile" "globe" }}
-      {{ $.Scratch.Set "filepath" .uri }}
-    {{ end }}
-    {{ $iconsrc := $.Scratch.Get "iconfile" }}
+      {{ $.Scratch.Set "filepath" (printf "%s" "null") }}
+      {{ if eq .type "PDF" }}
+        {{ $.Scratch.Set "iconfile" "file-pdf" }}
+        {{ $.Scratch.Set "filepath" (printf "%s/%s/%s" $cdnurl $legacyPath .uri) }}
+      {{ else if eq .type "Word Doc" }}
+        {{ $.Scratch.Set "iconfile" "file-word" }}
+        {{ $.Scratch.Set "filepath" (printf "%s/%s/%s" $cdnurl $legacyPath .uri) }}
+      {{ else if eq .type "Google Doc" }}
+        {{ $.Scratch.Set "iconfile" "file-alt" }}
+        {{ $.Scratch.Set "filepath" (printf "%s" .uri) }}
+      {{ else if eq .type "Website" }}
+        {{ $.Scratch.Set "iconfile" "globe" }}
+        {{ $.Scratch.Set "filepath" .uri }}
+      {{ end }}
+      {{ $iconsrc := $.Scratch.Get "iconfile" }}
 
-    <td class="tos-file">
-      <a href="{{- $.Scratch.Get "filepath" -}}" title="{{- .name -}}"><i class='fas fa-{{- $iconsrc -}}'></i> {{ if .type -}}<span>{{ .type -}}</span>{{- end -}}</a>
-      {{- if .updated -}}<p class="updated">Updated: {{ .updated -}}</p>{{- end -}}
-    </td>
-  </tr>
+
+      <td class="tos-file">
+        <a href="{{- $.Scratch.Get "filepath" -}}" title="{{- .name -}}"
+          ><i class="fas fa-{{- $iconsrc -}}"></i> {{ if .type -}}
+            <span>{{ .type -}}</span>
+          {{- end -}}</a
+        >
+        {{- if .updated -}}
+          <p class="updated">Updated: {{ .updated -}}</p>
+        {{- end -}}
+      </td>
+    </tr>
   {{ end }}
 </table>

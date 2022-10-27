@@ -9,7 +9,20 @@
 
 
 <div class="image image-right image-right-legacy">
-  <img src="{{- if ne $prefix $imgPath -}}{{- $imgPath -}}{{- else -}}{{- $imgCDN -}}{{- end -}}" {{ if or (.Get "alt") $imgCaption -}}alt="{{- with .Get "alt" -}}{{- . -}}{{- else -}}{{- $imgCaption -}}{{- end -}}"{{- end -}} />
+  <img
+    src="{{- if ne $prefix $imgPath -}}
+      {{- $imgPath -}}
+    {{- else -}}
+      {{- $imgCDN -}}
+    {{- end -}}"
+    {{ if or (.Get "alt") $imgCaption -}}
+      alt="{{- with .Get "alt" -}}
+        {{- . -}}
+      {{- else -}}
+        {{- $imgCaption -}}
+      {{- end -}}"
+    {{- end -}}
+  />
   {{- if $imgCaption -}}
     <p>{{- $imgCaption | markdownify -}}</p>
   {{- end -}}

@@ -1,21 +1,24 @@
-{{/*======================================
-    Get Upcoming Events by events with current date
-    ======================================
+{{/* ======================================
+  Get Upcoming Events by events with current date
+  ======================================
 */}}
 <div>
-    {{/* Gets the upcoming events */}}
-    {{- $upcoming_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" ">" now.Unix -}}
-    {{ $upcoming_events := $upcoming_events | intersect (where $upcoming_events "Date" ">" now)  }}
-    {{ $total_events := where  $upcoming_events  ".Params.event_cop" "intersect" .Params.event_cop }} 
-    {{if $total_events}}      
+  {{/* Gets the upcoming events */}}
+  {{- $upcoming_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" ">" now.Unix -}}
+  {{ $upcoming_events := $upcoming_events | intersect (where $upcoming_events "Date" ">" now) }}
+  {{ $total_events := where  $upcoming_events  ".Params.event_cop" "intersect" .Params.event_cop }}
+  {{ if $total_events }}
     <h2 id="Upcoming-Events">Upcoming Events</h2>
     <ul>
-        {{ range $element := where  $upcoming_events  ".Params.event_cop" "intersect" .Params.event_cop }}
+      {{ range $element := where  $upcoming_events  ".Params.event_cop" "intersect" .Params.event_cop }}
 
-        <li><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }} </a>({{ dateFormat "01/02/2006" .Params.date }})</li>
-
-        {{ end }}                
-    </ul>  
-    <br/>   
-    {{ end }}                     
-</div>  
+        <li>
+          <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"
+            >{{ .Title | markdownify }} </a
+          >({{ dateFormat "01/02/2006" .Params.date }})
+        </li>
+      {{ end }}
+    </ul>
+    <br />
+  {{ end }}
+</div>

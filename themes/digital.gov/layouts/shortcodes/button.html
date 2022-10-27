@@ -8,8 +8,11 @@
 {{- else if eq $suffix ".md" -}}
   {{- $.Scratch.Set "thisHref" (relref $.Page $thisHref) -}}
 {{- else -}}
-    {{- $.Scratch.Set "thisHref" ($thisHref | absURL) -}}
+  {{- $.Scratch.Set "thisHref" ($thisHref | absURL) -}}
 {{- end -}}
 {{- $thisHref := $.Scratch.Get "thisHref" -}}
 
-<a class="usa-button usa-button--outline" href="{{- $thisHref -}}">{{- .Get "text" -}}</a>
+
+<a class="usa-button usa-button--outline" href="{{- $thisHref -}}"
+  >{{- .Get "text" -}}</a
+>
