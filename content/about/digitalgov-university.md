@@ -20,8 +20,6 @@ We want to learn more about your ideas. Start a conversation with us, either wit
 
 [**Submit your event**](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm) The event submission form will give you an opportunity to tell us more about your event, including who would be presenting. You must be a federal employee to make a submission.
 
-[Submit an event »](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm)
-
 [**Send us an email**](mailto:digitalgovu@gsa.gov?subject=Training%20Idea) from your federal .gov or .mil email account that describes your idea, the type of training or event you think would best convey that idea, and who the intended audience would be.
 
 ## Use of Digital.gov Materials
