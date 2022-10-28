@@ -1,11 +1,18 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
-<article class="card card-event card-event-promo card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
+{{ $ }}
+
+<article
+  class="card card-event card-event-promo card-linked"
+  data-edit-this="{{- $path -}}"
+  {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
+  aria-labelledby="{{ .Title | urlize }}"
+>
   <div class="card__content">
     {{- if .Params.kicker -}}
     <div class="kicker">{{- .Params.kicker -}}</div>
     {{- end -}}
-    <h3>
+    <h3 id="{{ .Title | urlize }}">
       <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
     </h3>
 

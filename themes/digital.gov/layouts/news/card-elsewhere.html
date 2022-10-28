@@ -1,10 +1,18 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
 
-<article class="card card-elsewhere card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
+{{/*  Unique ID to link article to its title in screen readers  */}}
+{{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
+
+<article
+  class="card card-elsewhere card-linked"
+  data-edit-this="{{- $path -}}"
+  {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
+  aria-labelledby="{{ $titleID }}"
+>
   <div class="card__content">
     <div class="card__summary">
-      <h3>
+      <h3 id="{{ $titleID }}">
         <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
       </h3>
       <p>
