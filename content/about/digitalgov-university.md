@@ -16,13 +16,11 @@ We provide a range of free online and in-person trainings and events for people 
 ## Work With Us
 
 **Interested in hosting an online or in-person training or event?**<br />
-We want to learn more about your ideas! Federal employees can start a conversation with us about hosting an event&mdash;use our event submission form, or send us an email.
+We want to learn more about your ideas! Federal employees can start a conversation with us about hosting an event&mdash;either use our event submission form, or send us an email; instructions are below.
 
-**Submit your event**<br />
-The event submission form will give you an opportunity to tell us more about your event, including who would be presenting. You must be a federal employee to make a submission. [Submit an event »](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm)
+**Submit by online form:** The event submission form will give you an opportunity to tell us more about your event, including who would be presenting. You must be a federal employee to make a submission. [Submit an event »](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm)
 
-**Send us an email**<br />
-Use your .gov or .mil federal government email account to contact us. Describe your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. [Send us an email](mailto:digitalgovu@gsa.gov?subject=Event%20Training%20Idea).
+**Submit by email:** Contact us to describe your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. As a federal employee, you must use your federal agency-issued email address (usally ends in .gov or .mil) for work-related messages. [Email us your event idea](mailto:digitalgovu@gsa.gov?subject=Event%20Training%20Idea).
 
 ## Use of Digital.gov Materials
 
