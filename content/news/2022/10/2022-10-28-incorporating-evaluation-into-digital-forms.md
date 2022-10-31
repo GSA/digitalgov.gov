@@ -2,7 +2,7 @@
 # Originally published at the following URL
 source_url: https://oes.gsa.gov/projects/digital-forms/
 source: gsa
-date: 2022-10-28 13:59:00 -0500
+date: 2022-10-24 13:59:00 -0500
 title: Incorporating Evaluation into Digital Forms
 deck: The American public spends approximately 11.5 billion hours per year
   filling out federal government forms. Form complexity can result in lack of
