@@ -1,8 +1,14 @@
-// scroll form into view when on /subscribe page
-const subscribeButton = document.querySelector(".subscribe-button");
-const signupForm = document.querySelector("#newsletter-signup");
+/**
+ * Scroll form into view when on the `/subscribe` page.
+ */
 
-subscribeButton.addEventListener("click", function() {
-  signupForm.scrollIntoView({behavior: "smooth", block: "start"})
-  signupForm.focus();
-})
+const subscribeButton = document.querySelector(".subscribe-button");
+
+if (subscribeButton) {
+  const signupForm = document.querySelector("#newsletter-signup");
+
+  subscribeButton.addEventListener("click", function() {
+    signupForm.scrollIntoView({behavior: "smooth", block: "start"})
+    signupForm.focus();
+  });
+}
