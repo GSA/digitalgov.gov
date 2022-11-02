@@ -10,6 +10,7 @@
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint:markdown:format": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "local-build": "gulp buildAssets && gulp watch",
+    "prettier:template": "prettier 'themes/digital.gov/layouts/**/*.html' --write",
     "start": "npm-run-all --parallel local-build hugo workflow",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "npx pa11y-ci --config .pa11yci",
@@ -56,6 +57,8 @@
     "jsonlint": "^1.6.3",
     "markdownlint-cli": "^0.31.1",
     "postcss": "^8.4.12",
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13",
     "vinyl-paths": "^3.0.1"
   }
 }

@@ -54,6 +54,9 @@ jobs:
       - run:
           name: Lint Markdown
           command: npm run lint:markdown
+      - run:
+          name: Format Template Files
+          command: npm run prettier:template
   process:
     <<: *defaults
     steps:
