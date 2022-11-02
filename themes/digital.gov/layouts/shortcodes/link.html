@@ -8,41 +8,28 @@
 {{- $.Scratch.Set "thisHref" $thisHref -}}
 
 <!-- finds and replaces (not sure whats happening here) -->
-{{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisHref -}}
-{{- $suffix := replaceRE "^.+(.{3,3})$" "$1" $thisHref -}}
-{{- $anchorlink := replaceRE "^.+\\.md(#).+$" "$1" $thisHref -}}
+{{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisHref -}} {{- $suffix :=
+replaceRE "^.+(.{3,3})$" "$1" $thisHref -}} {{- $anchorlink := replaceRE
+"^.+\\.md(#).+$" "$1" $thisHref -}}
 
 <!-- if $prefix is NOT equal to $thisHref -->
-{{- if ne $prefix $thisHref -}}
-
-  {{/* Process the link as is */}}
+{{- if ne $prefix $thisHref -}} {{/* Process the link as is */}}
 
 <!-- if $suffix is equal to '.md' OR if $anchorlink is equal to '#' -->
 {{- else if or (eq $suffix ".md") (eq $anchorlink "#") -}}
 
-  <!-- If in DEVMODE: -->
-  <!-- I think this is a fix to links that are pointing back to old content that is not included in the DEV build -->
-  {{- if .Site.Params.devmode -}}
+<!-- If in DEVMODE: -->
+<!-- I think this is a fix to links that are pointing back to old content that is not included in the DEV build -->
+{{- if .Site.Params.devmode -}} {{- $year := replaceRE "^([0-9]{4,4}).+$" "$1"
+$thisHref -}} {{- if ne 4 (len $year) -}} {{- $.Scratch.Set "thisHref" (relref
+$.Page $thisHref) -}} {{- else -}} {{- if ge (int $year) 2017 -}} {{-
+$.Scratch.Set "thisHref" (relref $.Page $thisHref) -}} {{- else -}} {{-
+$.Scratch.Set "thisHref" "#0" -}} {{- end -}} {{- end -}}
 
-    {{- $year := replaceRE "^([0-9]{4,4}).+$" "$1" $thisHref -}}
-    {{- if ne 4 (len $year) -}}
-      {{- $.Scratch.Set "thisHref" (relref $.Page $thisHref) -}}
-    {{- else -}}
-      {{- if ge (int $year) 2017 -}}
-        {{- $.Scratch.Set "thisHref" (relref $.Page $thisHref) -}}
-      {{- else -}}
-        {{- $.Scratch.Set "thisHref" "#0" -}}
-      {{- end -}}
-    {{- end -}}
-
-  <!-- If NOT in DEVMODE, set thisHref to the   -->
-  {{- else -}}
-    {{- $.Scratch.Set "thisHref" (relref $.Page $thisHref) -}}
-  {{- end -}}
-
-{{- else -}}
-    {{- $.Scratch.Set "thisHref" ($thisHref | absURL) -}}
-{{- end -}}
+<!-- If NOT in DEVMODE, set thisHref to the   -->
+{{- else -}} {{- $.Scratch.Set "thisHref" (relref $.Page $thisHref) -}} {{- end
+-}} {{- else -}} {{- $.Scratch.Set "thisHref" ($thisHref | absURL) -}} {{- end
+-}}
 
 <!-- Sets $thisHref from Scratch -->
 {{- $thisHref := $.Scratch.Get "thisHref" -}}

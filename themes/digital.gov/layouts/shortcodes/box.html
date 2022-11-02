@@ -1,10 +1,4 @@
-{{- $color := "" -}}
-{{- if .Get "color" -}}
-  {{- $color = .Get "color" -}}
-{{- else -}}
-  {{- $color = "" -}}
-{{- end -}}
+{{- $color := "" -}} {{- if .Get "color" -}} {{- $color = .Get "color" -}} {{-
+else -}} {{- $color = "" -}} {{- end -}}
 
-<div class="box {{ $color -}}">
-  {{ .Inner | markdownify }}
-</div>
+<div class="box {{ $color -}}">{{ .Inner | markdownify }}</div>

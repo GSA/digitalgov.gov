@@ -4,14 +4,13 @@
   <header class="page-head page-head-{{- .Type -}}">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row">
-        {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+        {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path =
+        .Path }}{{ end }}
         <div class="grid-col-12" data-edit-this="{{- $path -}}">
-
           {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}} </h1>
+          <h1>{{- .Title | markdownify -}}</h1>
 
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
+          {{/* Deck */}} {{- if .Params.deck -}}
           <div class="deck">{{- .Params.deck | markdownify -}}</div>
           {{- end -}}
 
@@ -19,8 +18,6 @@
             <a href="https://www.youtube.com/digitalgov">Video library</a>
             <a href="#events-past">Past events</a>
           </div>
-
-
         </div>
       </div>
     </div>
@@ -30,29 +27,17 @@
     <div class="grid-container grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-3">
         <div class="grid-col-12">
-          {{ range .Data.Pages.Reverse }}
-          {{ $now := now.Format "2006-01-02" }}
-          {{ $start := .Date.Format "2006-01-02"  }}
-
-          {{ if .Params.End_date }}
-            {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-            {{ if or (ge $start $now) (ge $end $now)}}
-              {{ if .Params.registration_url }}
-                {{ .Render "card-event"}}
-              {{ end }}
-            {{ end }}
-
-            {{ else if ge $start $now }}
-              {{ if .Params.registration_url }}
-                {{ .Render "card-event"}}
-              {{ end }}
-            {{ end }}
-          {{ end }}
+          {{ range .Data.Pages.Reverse }} {{ $now := now.Format "2006-01-02" }}
+          {{ $start := .Date.Format "2006-01-02" }} {{ if .Params.End_date }} {{
+          $end := dateFormat "2006-01-02" .Params.End_date }} {{ if or (ge
+          $start $now) (ge $end $now)}} {{ if .Params.registration_url }} {{
+          .Render "card-event"}} {{ end }} {{ end }} {{ else if ge $start $now
+          }} {{ if .Params.registration_url }} {{ .Render "card-event"}} {{ end
+          }} {{ end }} {{ end }}
         </div>
       </div>
     </div>
   </section>
-
 
   {{/* Past events */}}
   <section id="events-past">
@@ -70,16 +55,13 @@
         <div class="grid-row tablet-lg:grid-gap-3">
           <div class="grid-col-12">
             {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-            {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-              {{ .Render "card-event-past"}}
-            {{ end }}
+            {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }} {{
+            .Render "card-event-past"}} {{ end }}
           </div>
         </div>
       </div>
     </div>
   </section>
-
 </main>
-
 
 {{ end }}

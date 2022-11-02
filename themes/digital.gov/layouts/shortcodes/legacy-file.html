@@ -1,6 +1,3 @@
-{{- $cdnurl := .Site.Params.cdnurl -}}
-{{- $legacyPath := "_legacy-img" -}}
-{{- $filePath := (.Get 0) -}}
-{{- $filePath := replaceRE "^/" "" $filePath -}}
-{{- $fileCDN := printf "%s/%s/%s" $cdnurl $legacyPath $filePath -}}
-{{ $fileCDN }}
+{{- $cdnurl := .Site.Params.cdnurl -}} {{- $legacyPath := "_legacy-img" -}} {{-
+$filePath := (.Get 0) -}} {{- $filePath := replaceRE "^/" "" $filePath -}} {{-
+$fileCDN := printf "%s/%s/%s" $cdnurl $legacyPath $filePath -}} {{ $fileCDN }}
