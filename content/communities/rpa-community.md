@@ -16,6 +16,8 @@ topics:
 authors:
   - gabrielle-perret
 
+redirectto: https://www.gsa.gov/technology/government-it-initiatives/federal-robotic-process-automation-community-of-practice
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
