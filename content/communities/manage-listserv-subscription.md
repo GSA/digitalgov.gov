@@ -93,7 +93,9 @@ When using these commands, always:
 4. **Action**: Receive digest in HTML format; recommended for **MS Outlook** users.<br />**Command Line**: set _TESTLIST_ digest html
 5. **Action**: Receive messages one-by-one as they are posted; recommended for all users.<br />**Command Line**: set _TESTLIST_ nodigest
 
-{{< note >}}These instructions reference a sample Listserv called _TESTLIST@listserv.gsa.gov_. Just replace _TESTLIST_ in the command line examples above with the name of YOUR Listserv to apply them to your Listserv. For example, use the command line `set CONTENT-MANAGERS-L digest` to receive a daily digest of plain text posts from the Web Managers Listserv.{{< /note >}}
+{{< note >}}These instructions reference a sample Listserv called _TESTLIST@listserv.gsa.gov_. Just replace _TESTLIST_ in the command line examples above with the name of YOUR Listserv to apply them to your Listserv. 
+
+For example, use the command line `set CONTENT-MANAGERS-L digest` to receive a daily digest of plain text posts from the Web Managers Listserv.{{< /note >}}
 
 ### “Out of Office” Messages
 
