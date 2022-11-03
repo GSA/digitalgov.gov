@@ -11,105 +11,94 @@
             <p>Innovative work, news, and ideas from people and teams in government</p>
 
             <div class="join-buttons">
-              <a href="{{- "/join" | absURL -}}">Write for us</a>
+              <a href="{{- "/join" | relURL -}}">Write for us</a>
             </div>
 
           </header>
         </div>
       </div>
 
-      <div class="grid-row">
-        <div class="grid-col-12">
+      <section class="stream" aria-label="Featured news and events">
 
-          <section class="stream">
+        {{/* Future Events ===========================  */}}
+        {{- $events := where .Site.RegularPages.Reverse "Section" "events" -}}
 
-            {{/* Future Events ===========================  */}}
-            {{- $events := where .Site.RegularPages.Reverse "Section" "events" -}}
+        {{/* gets the # of news items to display from the config.yml */}}
+        {{- $events_count := .Site.Params.events_count -}}
 
-            {{/* gets the # of news items to display from the config.yml */}}
-            {{- $events_count := .Site.Params.events_count -}}
+        {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}}
 
-            {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}}
+        {{/* Past Events =========================== */}}
+        {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
-            {{/* Past Events =========================== */}}
-            {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+        {{/* News Posts =========================== */}}
+        {{/* Gets the recent blog posts */}}
+        {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "news" -}}
 
-            {{/* News Posts =========================== */}}
-            {{/* Gets the recent blog posts */}}
-            {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "news" -}}
+        {{/* Merges the past events and the recent blog posts */}}
+        {{ $stream := union $posts $past_events }}
+        {{/* {{ $stream := union $posts $events }} */}}
 
-            {{/* Merges the past events and the recent blog posts */}}
-            {{ $stream := union $posts $past_events }}
-            {{/* {{ $stream := union $posts $events }} */}}
+        {{/* Sorting all the items by date and reverse chron */}}
+        {{ $stream := $stream.ByDate.Reverse }}
+        {{/* $stream := $stream.ByWeight */}}
 
-            {{/* Sorting all the items by date and reverse chron */}}
-            {{ $stream := $stream.ByDate.Reverse }}
-            {{/* $stream := $stream.ByWeight */}}
+        {{/* gets the # of news items to display from the config.yml */}}
+        {{ $stream_count := .Site.Params.stream_count }}
 
-            {{/* gets the # of news items to display from the config.yml */}}
-            {{ $stream_count := .Site.Params.stream_count }}
+        {{/* Gets the first X items for the news stream */}}
+        {{/* The # is defined in the config.yml file */}}
+        {{- range $i, $el := first $stream_count $stream -}}
 
-            {{/* Gets the first X items for the news stream */}}
-            {{/* The # is defined in the config.yml file */}}
-            {{- range $i, $el := first $stream_count $stream -}}
-
-              {{- with $events -}}
-                {{- if eq $i 2 -}}
-                  {{- range first 1 $events -}}
-                    {{- .Render "card-event" -}}
-                  {{- end -}}
-                {{- end -}}
-
-                {{- if eq $i 8 -}}
-                  {{- range first 1 (after 1 $events) -}}
-                    {{- .Render "card-event" -}}
-                  {{- end -}}
-                {{- end -}}
+          {{- with $events -}}
+            {{- if eq $i 2 -}}
+              {{- range first 1 $events -}}
+                {{- .Render "card-event" -}}
               {{- end -}}
-
-              {{- if eq .Type "events" -}}
-                {{- if .Date.Before now -}}
-                  {{- .Render "card-event-past" -}}
-                {{- end -}}
-              {{- end -}}
-
-              {{- if eq .Type "news" -}}
-                {{/* External links */}}
-                {{- if .Params.source -}}
-                  {{/* see /layouts/news/ for card templates */}}
-                  {{ .Render "card-elsewhere"}}
-                {{ else }}
-                  {{/* Blog Posts — Internal links */}}
-                  {{- if .Params.deck }}
-                    {{/* see /layouts/news/ for card templates */}}
-                    {{ .Render "card-article"}}
-                  {{ else }}
-                    {{/* see /layouts/news/ for card templates */}}
-                    {{ .Render "card-article"}}
-                  {{ end }}
-                {{ end }}
-              {{- end -}}
-
             {{- end -}}
-          </section>
 
-        </div>
-      </div>
+            {{- if eq $i 8 -}}
+              {{- range first 1 (after 1 $events) -}}
+                {{- .Render "card-event" -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
 
-      <div class="grid-row">
-        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
-          <footer>
-            <a class="btn" href="{{- "news" | absURL -}}" title="">
-              <span>See all News</span>
-              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-              </svg>
-            </a>
-            <p>Have a case study to share? Did your team recently launch something?<br/><a href="{{- "contribute" | absURL -}}" title="Learn how you can contribute"><strong>Learn how you can contribute</strong></a></p>
-          </footer>
-        </div>
-      </div>
+          {{- if eq .Type "events" -}}
+            {{- if .Date.Before now -}}
+              {{- .Render "card-event-past" -}}
+            {{- end -}}
+          {{- end -}}
 
+          {{- if eq .Type "news" -}}
+            {{/* External links */}}
+            {{- if .Params.source -}}
+              {{/* see /layouts/news/ for card templates */}}
+              {{ .Render "card-elsewhere"}}
+            {{ else }}
+              {{/* Blog Posts — Internal links */}}
+              {{- if .Params.deck }}
+                {{/* see /layouts/news/ for card templates */}}
+                {{ .Render "card-article"}}
+              {{ else }}
+                {{/* see /layouts/news/ for card templates */}}
+                {{ .Render "card-article"}}
+              {{ end }}
+            {{ end }}
+          {{- end -}}
+
+        {{- end -}}
+
+        <footer>
+          <a class="btn" href="{{- "news" | relURL -}}" title="View news and updates page">
+            <span>See all News</span>
+            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+              <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
+            </svg>
+          </a>
+          <p>Have a case study to share? Did your team recently launch something?<br/><a href="{{- "contribute" | relURL -}}" title="Contribute to Digital.gov"><strong>Learn how you can contribute</strong></a></p>
+        </footer>
+      </section>
     </div>
   </div>
 </section>
