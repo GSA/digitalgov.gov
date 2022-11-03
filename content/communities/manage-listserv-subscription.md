@@ -112,7 +112,7 @@ When using these commands, always:
   </tr>
 </table>
 
-{{< note >}}Note that these instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `{{< highlight >}}CONTENT-MANAGERS-L{{< /highlight >}}@listserv.gsa.gov`) whenever you see `TESTLIST`, to apply these instructions to your Listserv.{{< /note >}}
+{{< note >}}These instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `{{< highlight >}}CONTENT-MANAGERS-L{{< /highlight >}}@listserv.gsa.gov`) whenever you see `TESTLIST`, to apply these instructions to your Listserv.{{< /note >}}
 
 ### “Out of Office” Messages
 
