@@ -65,13 +65,15 @@ Some lists distribute your message immediately, while others are configured to a
 
 To verify a message for distribution:
 
-* Click the link in the confirmation email you receive from the Listserv. The link will look similar to this: `To APPROVE the message: https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=_TESTLIST_`
+* Click the link in the confirmation email you receive from the Listserv. The link will look similar to this:
+
+_`To APPROVE the message: https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=TESTLIST`_
 
 **OR**
 
-* REPLY to the confirmation email message
-* Type the word “OK”—without the quotes—in the body of the message
-* Erase all other text in the body of the message, including signature blocks, then send
+* REPLY to the confirmation email message.
+* Type the word “OK” —without the quotes— in the body of the message.
+* Erase all other text in the body of the message, including signature blocks, then send.
 
 Note, some email systems have trouble processing the link, so try the “OK” method described above if the “click” option doesn’t work for you.
 
@@ -88,12 +90,12 @@ When using these commands, always:
 #### Five Common Commands
 
 1. **Action**: Remove yourself from the list.<br />**Command Line**: signoff _TESTLIST_
-2. **Action**: Receive a daily digest of plain text posts; recommended for users with plain text email systems.<br />**Command Line**: set <em>TESTLIST</em> digest
+2. **Action**: Receive a daily digest of plain text posts; recommended for users with plain text email systems.<br />**Command Line**: set _TESTLIST_ digest
 3. **Action**: Receive digest in MIME format; recommended for **Lotus Notes** users.<br />**Command Line**: set _TESTLIST_ digest mime nohtml
 4. **Action**: Receive digest in HTML format; recommended for **MS Outlook** users.<br />**Command Line**: set _TESTLIST_ digest html
 5. **Action**: Receive messages one-by-one as they are posted; recommended for all users.<br />**Command Line**: set _TESTLIST_ nodigest
 
-{{< note >}}These instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `{{< highlight >}}CONTENT-MANAGERS-L{{< /highlight >}}@listserv.gsa.gov`) whenever you see `TESTLIST`, to apply these instructions to your Listserv.{{< /note >}}
+{{< note >}} These instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `CONTENT-MANAGERS-L@listserv.gsa.gov`) whenever you see `TESTLIST`, to apply these instructions to your Listserv. {{< /note >}}
 
 ### “Out of Office” Messages
 
