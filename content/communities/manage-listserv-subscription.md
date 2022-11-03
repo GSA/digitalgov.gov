@@ -65,9 +65,7 @@ Some lists distribute your message immediately, while others are configured to a
 
 To verify a message for distribution:
 
-* Click the link in the confirmation email you receive from the Listserv. The link will look similar to this:
-
-_`To APPROVE the message: https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=TESTLIST`_
+* Click the link in the confirmation email you receive from the Listserv. The link will look similar to this: `To APPROVE the message: https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=TESTLIST`.
 
 **OR**
 
