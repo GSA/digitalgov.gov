@@ -95,7 +95,7 @@ When using these commands, always:
 4. **Action**: Receive digest in HTML format; recommended for **MS Outlook** users.<br />**Command Line**: set _TESTLIST_ digest html
 5. **Action**: Receive messages one-by-one as they are posted; recommended for all users.<br />**Command Line**: set _TESTLIST_ nodigest
 
-{{< box color="base-light" >}} **Note**: These instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `CONTENT-MANAGERS-L`@listserv.gsa.gov) whenever you see `TESTLIST`, to apply these instructions to your Listserv. {{< /box >}}
+{{< note >}} These instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `CONTENT-MANAGERS-L`@listserv.gsa.gov) whenever you see `TESTLIST`, to apply these instructions to your Listserv. {{< /note >}}
 
 ### “Out of Office” Messages
 
