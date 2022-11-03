@@ -83,7 +83,7 @@ Following are some of the common commands available to you as a Listserv subscri
 
 When using these commands, always:
 
-* Send the command in an email message addressed to: **listserv@listserv.gsa.gov**.
+* Send the command in an email message addressed to: _listserv@listserv.gsa.gov_.
 * Type the command in the body of the message, on one line (not in the subject line; the subject line should be left blank).
 * Remove any other text from the body of your message, including signature blocks.
 
@@ -95,7 +95,7 @@ When using these commands, always:
 4. **Action**: Receive digest in HTML format; recommended for **MS Outlook** users.<br />**Command Line**: set _TESTLIST_ digest html
 5. **Action**: Receive messages one-by-one as they are posted; recommended for all users.<br />**Command Line**: set _TESTLIST_ nodigest
 
-{{< note >}} These instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `CONTENT-MANAGERS-L@listserv.gsa.gov`) whenever you see `TESTLIST`, to apply these instructions to your Listserv. {{< /note >}}
+{{< box color="base" >}} **Note**: These instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `CONTENT-MANAGERS-L`@listserv.gsa.gov) whenever you see `TESTLIST`, to apply these instructions to your Listserv. {{< /box >}}
 
 ### “Out of Office” Messages
 
