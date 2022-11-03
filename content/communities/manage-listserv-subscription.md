@@ -59,13 +59,13 @@ Government employees (with a .gov or .mil email address) are encouraged to join 
 
 Any Listserv member can send a message to the group by using this email address:
 
-**_[Name of YOUR Listserv]_@listserv.gsa.gov**, (e.g., _CONTENT-MANAGERS-L_@listserv.gsa.gov).
+**_[Name of YOUR Listserv]_@listserv.gsa.gov**, (e.g., `CONTENT-MANAGERS-L`@listserv.gsa.gov).
 
 Some lists distribute your message immediately, while others are configured to ask you to verify your message before it’s distributed to the list. This is to reduce viruses and spam on the Listserv.
 
 To verify a message for distribution:
 
-* Click the link in the confirmation email you receive from the Listserv. The link will look similar to this: “To APPROVE the message: https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=_TESTLIST_“
+* Click the link in the confirmation email you receive from the Listserv. The link will look similar to this: `To APPROVE the message: https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=_TESTLIST_`
 
 **OR**
 
@@ -81,36 +81,17 @@ Following are some of the common commands available to you as a Listserv subscri
 
 When using these commands, always:
 
-* Send the command in an email message addressed to: **listserv@listserv.gsa.gov**
-* Type the command in the body of the message, on one line (not in the subject line—the subject line should be left blank)
-* Remove any other text from the body of your message, including signature blocks
+* Send the command in an email message addressed to: **listserv@listserv.gsa.gov**.
+* Type the command in the body of the message, on one line (not in the subject line; the subject line should be left blank).
+* Remove any other text from the body of your message, including signature blocks.
 
-<table>
-  <tr>
-    <td style="width: 50%"><strong>Action</strong></td>
-    <td><strong>Command Line</strong></td>
-  </tr>
-  <tr>
-    <td>Remove yourself from the list</td>
-    <td>signoff <em>TESTLIST</em></td>
-  </tr>
-  <tr>
-    <td>Receive a daily digest of plain text posts; recommended for users with plain text email systems</td>
-    <td>set <em>TESTLIST</em> digest</td>
-  </tr>
-  <tr>
-    <td>Receive digest in MIME format; recommended for <strong>Lotus Notes</strong> users</td>
-    <td>set <em>TESTLIST</em> digest mime nohtml</td>
-  </tr>
-  <tr>
-    <td>Receive digest in HTML format; recommended for <strong>MS Outlook</strong> users</td>
-    <td>set `<em>TESTLIST</em>` digest html</td>
-  </tr>
-  <tr>
-    <td>Receive messages one-by-one as they are posted; recommended for all users</td>
-    <td>set <em>TESTLIST</em> nodigest</td>
-  </tr>
-</table>
+#### Five Common Commands
+
+1. **Action**: Remove yourself from the list.<br />**Command Line**: signoff _TESTLIST_
+2. **Action**: Receive a daily digest of plain text posts; recommended for users with plain text email systems.<br />**Command Line**: set <em>TESTLIST</em> digest
+3. **Action**: Receive digest in MIME format; recommended for **Lotus Notes** users.<br />**Command Line**: set _TESTLIST_ digest mime nohtml
+4. **Action**: Receive digest in HTML format; recommended for **MS Outlook** users.<br />**Command Line**: set _TESTLIST_ digest html
+5. **Action**: Receive messages one-by-one as they are posted; recommended for all users.<br />**Command Line**: set _TESTLIST_ nodigest
 
 {{< note >}}These instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `{{< highlight >}}CONTENT-MANAGERS-L{{< /highlight >}}@listserv.gsa.gov`) whenever you see `TESTLIST`, to apply these instructions to your Listserv.{{< /note >}}
 
