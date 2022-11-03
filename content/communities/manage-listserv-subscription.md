@@ -85,85 +85,34 @@ When using these commands, always:
 * Type the command in the body of the message, on one line (not in the subject line—the subject line should be left blank)
 * Remove any other text from the body of your message, including signature blocks
 
-New BOX shortcode:
-
-{{< box >}}**Five actions and their command lines**:
-
-**Action**: Remove yourself from the list<br />
-**Command Line**: signoff _TESTLIST_
-
-**Action**: Receive a daily digest of plain text posts; recommended for users with plain text email systems<br />
-**Command Line**: set _TESTLIST_ digest
-
-**Action**: Receive digest in MIME format; recommended for **Lotus Notes** users<br />
-**Command Line**: set _TESTLIST_ digest mime nohtml
-
-**Action**: Receive digest in HTML format; recommended for **MS Outlook** users<br />
-**Command Line**: set _TESTLIST_ digest html
-
-**Action**: Receive messages one-by-one as they are posted; recommended for all users<br />
-**Command Line**: set _TESTLIST_ nodigest{{< /box >}}
-
-
-ORIGINAL:
-
 <table>
   <tr>
-    <td style="width: 50%">
-      <strong>Action</strong>
-    </td>
-    <td>
-      <strong>Command Line</strong>
-    </td>
+    <td style="width: 50%"><strong>Action</strong></td>
+    <td><strong>Command Line</strong></td>
   </tr>
-
   <tr>
-    <td>
-      Remove yourself from the list
-    </td>
-    <td>
-      signoff <em>TESTLIST</em>
-    </td>
+    <td>Remove yourself from the list</td>
+    <td>signoff <em>TESTLIST</em></td>
   </tr>
-
   <tr>
-    <td>
-      Receive a daily digest of plain text posts; recommended for users with plain text email systems
-    </td>
-    <td>
-      set <em>TESTLIST</em> digest
-    </td>
+    <td>Receive a daily digest of plain text posts; recommended for users with plain text email systems</td>
+    <td>set <em>TESTLIST</em> digest</td>
   </tr>
-
   <tr>
-    <td>
-      Receive digest in MIME format; recommended for <strong>Lotus Notes</strong> users
-    </td>
-    <td>
-      set <em>TESTLIST</em> digest mime nohtml
-    </td>
+    <td>Receive digest in MIME format; recommended for <strong>Lotus Notes</strong> users</td>
+    <td>set <em>TESTLIST</em> digest mime nohtml</td>
   </tr>
-
   <tr>
-    <td>
-      Receive digest in HTML format; recommended for <strong>MS Outlook</strong> users
-    </td>
-    <td>
-      set <em>TESTLIST</em> digest html
-    </td>
+    <td>Receive digest in HTML format; recommended for <strong>MS Outlook</strong> users</td>
+    <td>set `<em>TESTLIST</em>` digest html</td>
   </tr>
-
   <tr>
-    <td>
-      Receive messages one-by-one as they are posted; recommended for all users
-    </td>
-    <td>
-      set <em>TESTLIST</em> nodigest
-    </td>
+    <td>Receive messages one-by-one as they are posted; recommended for all users</td>
+    <td>set <em>TESTLIST</em> nodigest</td>
   </tr>
 </table>
 
-{{< note >}}Note that these instructions reference a sample Listserv called _TESTLIST@listserv.gsa.gov_. Just substitute the name of YOUR Listserv (e.g., _CONTENT-MANAGERS-L_@listserv.gsa.gov) whenever you see _TESTLIST_, to apply these instructions to your Listserv.{{< /note >}}
+{{< note >}}Note that these instructions reference a sample Listserv called `TESTLIST@listserv.gsa.gov`. Just substitute the name of YOUR Listserv (e.g., `{{< highlight >}}CONTENT-MANAGERS-L{{< /highlight >}}@listserv.gsa.gov`) whenever you see `TESTLIST`, to apply these instructions to your Listserv.{{< /note >}}
 
 ### “Out of Office” Messages
 
