@@ -1,17 +1,39 @@
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path
-}}{{ end }}
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
 <div class="card-service" data-edit-this="{{- $path -}}">
-  {{/* set the href as a variable */}} {{- $href := "" -}} {{- if
-  .Params.source_url -}} {{- $href = (print .Params.source_url "?dg") -}} {{-
-  else -}} {{- $href = (print .Permalink "?dg") -}} {{- end -}} {{/* Logos Get
-  the "source" in the file and looks up the icon that is used there. */}} {{-
-  $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}} {{- if
-  $source -}} {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png")
-  -}} {{- template "logo" dict "src" $src "alt" $source.Params.name "href" $href
-  -}} {{- else if .Params.logo -}} {{- $src := (printf "/logos/%s%s"
-  .Params.logo "-logo.png") -}} {{- template "logo" dict "src" $src "alt"
-  .Params.name "href" $href -}} {{- else -}} {{- template "logo" dict "src"
-  "/logos/digit-gold.png" "alt" .Params.source "href" $href -}} {{- end -}}
+  {{/* set the href as a variable */}} {{- $href := "" -}}
+  {{- if
+    .Params.source_url
+  -}}
+    {{- $href = (print .Params.source_url "?dg") -}}
+  {{- else -}}
+    {{- $href = (print .Permalink "?dg") -}}
+  {{- end -}}
+  {{/* Logos Get
+    the "source" in the file and looks up the icon that is used there.
+  */}}
+  {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+  {{- if
+    $source
+  -}}
+    {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
+    {{- template "logo" dict "src" $src "alt" $source.Params.name "href" $href -}}
+  {{- else if .Params.logo -}}
+    {{- $src := (printf "/logos/%s%s"
+      .Params.logo "-logo.png")
+    -}}
+    {{- template "logo" dict "src" $src "alt"
+      .Params.name "href" $href
+    -}}
+  {{- else -}}
+    {{- template "logo" dict "src"
+      "/logos/digit-gold.png" "alt" .Params.source "href" $href
+    -}}
+  {{- end -}}
+
 
   <div class="copy">
     <h3>
@@ -22,15 +44,16 @@
 
     <p>{{- .Params.summary | markdownify -}}</p>
 
-    {{- if .Params.topics -}} {{- partial "core/list-topics.html" . -}} {{- end
-    -}}
+    {{- if .Params.topics -}}
+      {{- partial "core/list-topics.html" . -}}
+    {{- end -}}
   </div>
 </div>
 
 {{- define "logo" -}}
-<div class="logo">
-  <a href="{{- .href -}}" title="{{- .alt -}}"
-    ><img src="{{ .src | relURL }}" alt="{{- .alt }} logo"
-  /></a>
-</div>
+  <div class="logo">
+    <a href="{{- .href -}}" title="{{- .alt -}}"
+      ><img src="{{ .src | relURL }}" alt="{{- .alt }} logo"
+    /></a>
+  </div>
 {{- end -}}

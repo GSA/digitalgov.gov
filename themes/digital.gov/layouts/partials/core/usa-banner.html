@@ -8,9 +8,13 @@
     <header class="usa-banner__header">
       <div class="usa-banner__inner">
         <div class="grid-col-auto">
-          {{- $uswds_asset := "us_flag_small.png" -}} {{- $path := printf
-          "%s/%s" $uswds_img_path $uswds_asset -}} {{- $path := (replace $path
-          "//" "/") | relURL -}}
+          {{- $uswds_asset := "us_flag_small.png" -}}
+          {{- $path := printf
+            "%s/%s" $uswds_img_path $uswds_asset
+          -}}
+          {{- $path := (replace $path
+            "//" "/") | relURL
+          -}}
           <img
             aria-hidden="true"
             class="usa-banner__header-flag"
@@ -40,9 +44,13 @@
     >
       <div class="grid-row grid-gap-lg">
         <div class="usa-banner__guidance tablet:grid-col-6">
-          {{- $uswds_asset := "icon-dot-gov.svg" -}} {{- $path := printf "%s/%s"
-          $uswds_img_path $uswds_asset -}} {{- $path := (replace $path "//" "/")
-          | relURL -}}
+          {{- $uswds_asset := "icon-dot-gov.svg" -}}
+          {{- $path := printf "%s/%s"
+            $uswds_img_path $uswds_asset
+          -}}
+          {{- $path := (replace $path "//" "/")
+            | relURL
+          -}}
           <img
             class="usa-banner__icon usa-media-block__img"
             src="{{- $path -}}"
@@ -60,9 +68,13 @@
           </div>
         </div>
         <div class="usa-banner__guidance tablet:grid-col-6">
-          {{- $uswds_asset := "icon-https.svg" -}} {{- $path := printf "%s/%s"
-          $uswds_img_path $uswds_asset -}} {{- $path := (replace $path "//" "/")
-          | relURL -}}
+          {{- $uswds_asset := "icon-https.svg" -}}
+          {{- $path := printf "%s/%s"
+            $uswds_img_path $uswds_asset
+          -}}
+          {{- $path := (replace $path "//" "/")
+            | relURL
+          -}}
           <img
             class="usa-banner__icon usa-media-block__img"
             src="{{- $path -}}"

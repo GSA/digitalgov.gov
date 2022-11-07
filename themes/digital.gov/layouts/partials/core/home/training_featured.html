@@ -16,23 +16,30 @@
       <div class="grid-row tablet-lg:grid-gap-3">
         {{ $training := where .Site.RegularPages.ByWeight "Section" "events" }}
         {{ $training := $training | intersect (where $training "Date" "<" now) |
-        first 4 }} {{/* {{ $events := where .Site.RegularPages.ByDate "Section"
-        "events" }} */}} {{ range $training }} {{ if .Params.youtube_id }}
-        <div class="grid-col-12 tablet-lg:grid-col-3">
-          <div
-            aria-label="an image from the video"
-            class="youtube-player"
-            data-id="{{ .Params.youtube_id }}"
-          ></div>
-          <h3>
-            <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"
-              >{{ .Title | markdownify }}</a
-            >
-          </h3>
-          {{ $topics := .Params.topics }} {{- partial "core/list-topics.html" .
-          -}}
-        </div>
-        {{ end }} {{ end }}
+          first 4
+        }}
+        {{/* {{ $events := where .Site.RegularPages.ByDate "Section"
+          "events"
+        }}
+        */}}
+        {{ range $training }}
+          {{ if .Params.youtube_id }}
+            <div class="grid-col-12 tablet-lg:grid-col-3">
+              <div
+                aria-label="an image from the video"
+                class="youtube-player"
+                data-id="{{ .Params.youtube_id }}"
+              ></div>
+              <h3>
+                <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"
+                  >{{ .Title | markdownify }}</a
+                >
+              </h3>
+              {{ $topics := .Params.topics }}
+              {{- partial "core/list-topics.html" . -}}
+            </div>
+          {{ end }}
+        {{ end }}
       </div>
     </section>
   </div>
