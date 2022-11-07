@@ -6,9 +6,10 @@ event date: 2022-08-24 10:30:00 -0500
 topics:
   - plain-language
 # See all authors at https://digital.gov/authors
-authors: []
+authors:
+  - shuly-babitz
 youtube_id: 9U2wzbWpCso
-slug: ""
+slug: "debunking-the-oversimplification-myth:-making-the-case-for-plain-language"
 ---
 I'm Shuly Babitz, and I am so excited to see so many of you joining us today, because if you're here, we share a common passion: the pursuit of good writing.
 
