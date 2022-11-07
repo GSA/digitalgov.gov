@@ -1,7 +1,8 @@
 ---
-video title: "Debunking the Oversimplification Myth: Making the Case for Plain Language"
-event name: 2022-federal-plain-language-summit
-event date: 2022-08-24 10:30:00 -0500
+video_title: "Debunking the Oversimplification Myth: Making the Case for Plain Language"
+event_name: 2022-federal-plain-language-summit
+date: 2022-08-24 10:30:00 -0500
+end_date: 2022-08-24 11:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
