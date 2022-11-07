@@ -28,7 +28,7 @@ This means the site will work (to some degree) on that shiny new web-enabled giz
 
 By first creating an experience that prioritizes a worst-case mobile scenario, you ensure that your users will be able to accomplish their goals despite a lot of factors working against them. In short, if you can support the mobile web, you can support anything.
 
-[youtube=http://www.youtube.com/watch?v=lTYZTwWKaNI&w=600]
+{{< youtube lTYZTwWKaNI >}}
   
 According to <a href="http://www.lukew.com/resources/mobile_first.asp" rel="nofollow">Luke Wroblewski</a>, a leading proponent of mobile first design, going mobile first:
 
