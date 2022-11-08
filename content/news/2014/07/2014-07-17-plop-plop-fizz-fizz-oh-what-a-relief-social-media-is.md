@@ -11,9 +11,10 @@ topics:
   - GAO
   - open-source
   - us-government-accountability-office
+
 ---
 
-{{< legacy-img src="2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" caption="" >}} 
+{{< legacy-img-right src="2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" caption="" >}} 
 
 We often think of social media as a way to expand our audience, but some public health departments are using it as a new tool for tracking outbreaks of salmonella, e. coli, and other foodborne illnesses.
 
@@ -35,4 +36,6 @@ However, this may take some finesse. Some Chicago tweeters were “caught off gu
 
 In addition, agencies already short-staffed may find these efforts labor intensive. Chicago’s algorithm had to be tweaked since it at first flagged things like people wanting to throw-up if they heard [Kelis’ Milkshake](http://www.youtube.com/watch?v=pGL2rytTraA&feature=kp) one more time. But where there’s a will, there’s a way; the city made the code [open source](https://github.com/smartchicago/foodborne) to get some help.
 
-All this is to say that this is an intriguing use of social media—not to reach your audience, but to make your audience reach you._**Eden Savino** is a Senior Analyst in the Health Care team at the U.S. Government Accountability Office (GAO)._
+All this is to say that this is an intriguing use of social media&mdash;not to reach your audience, but to make your audience reach you.
+
+_**Eden Savino** is a Senior Analyst in the Health Care team at the U.S. Government Accountability Office (GAO)._
