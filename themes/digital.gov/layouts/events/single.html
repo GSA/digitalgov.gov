@@ -72,7 +72,8 @@
 
               {{- if .Params.host -}}
                 <p class="host">
-                  Hosted by Digital.gov and the {{ .Params.host }}
+                  Hosted by Digital.gov and the
+                  {{ .Params.host }}
                 </p>
               {{- end -}}
 
@@ -147,7 +148,6 @@
       {{/* If is NOT a Future Event (Past event) */}}
       {{- if eq $future_event false -}}
         {{- .Render "stage-youtube" -}}
-
       {{- end -}}
 
 

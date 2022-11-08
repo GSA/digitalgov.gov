@@ -2,7 +2,8 @@
 {{- if and
   $guide_data $guide_data.showNextPrevious
 -}}
-  {{- $current_page := . -}} {{- $current_url := $current_page.Permalink -}}
+  {{- $current_page := . -}}
+  {{- $current_url := $current_page.Permalink -}}
   {{- $guide_files := (where
     .Site.Pages ".Params.guide" .Params.guide)
   -}}
@@ -14,7 +15,8 @@
     {{- if $guide_data.nav -}}
       {{- range $guide_data.nav -}}
         {{- $item := . -}}
-        {{- $prev_item = $point_item -}} {{- $point_item = $item -}}
+        {{- $prev_item = $point_item -}}
+        {{- $point_item = $item -}}
         {{- if not (eq
           $prev_item 0)
         -}}
@@ -43,7 +45,8 @@
         {{- end -}}
         {{- if $item.subnav -}}
           {{- range $item.subnav -}}
-            {{- $sub_item := . -}} {{- $prev_item = $point_item -}}
+            {{- $sub_item := . -}}
+            {{- $prev_item = $point_item -}}
             {{- $point_item =
               $sub_item
             -}}
@@ -75,7 +78,8 @@
             {{- end -}}
             {{- if $sub_item.subnav -}}
               {{- range $sub_item.subnav -}}
-                {{- $subsub_item := . -}} {{- $prev_item = $point_item -}}
+                {{- $subsub_item := . -}}
+                {{- $prev_item = $point_item -}}
                 {{- $point_item
                   = $subsub_item
                 -}}

@@ -3,7 +3,8 @@
 >}}
 eg -
 {{< authors-bio "kelley-holden" >}}
-====================================== */}} {{- $getauthor := .Get 0 -}}
+====================================== */}}
+{{- $getauthor := .Get 0 -}}
 {{- $list := where .Site.Pages "Section" "authors" -}}
 {{- $list := where $list
   ".Params.slug" "eq" $getauthor
@@ -16,7 +17,8 @@ eg -
     <h3>
       {{ .Params.display_name }}
       {{- if .Params.agency_full_name }}
-        &nbsp;|&nbsp; {{- .Params.agency_full_name }}
+        &nbsp;|&nbsp;
+        {{- .Params.agency_full_name }}
       {{- end -}}
     </h3>
     <p>{{ .Params.bio }}</p>

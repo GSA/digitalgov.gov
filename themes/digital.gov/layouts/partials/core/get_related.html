@@ -93,7 +93,6 @@
               {{/* Pass these vars into the list item template (botton of page) */}}
 
               {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
-
             {{- end -}}
             {{/* No source? let's attempt to get the favicon for the URL */}}
           {{- else -}}
@@ -120,7 +119,8 @@
       <p class="more">
         <a href="{{ "/services/" | absURL }}"
           ><span
-            >See all {{ len (where $.Site.RegularPages "Section" "services") }}
+            >See all
+            {{ len (where $.Site.RegularPages "Section" "services") }}
             services</span
           >
           <svg

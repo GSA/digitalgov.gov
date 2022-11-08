@@ -74,7 +74,8 @@
   </div>
 {{- end -}}
 {{- define "collection-list-item" -}}
-  {{- $href := .href -}} {{- $src := .src -}}
+  {{- $href := .href -}}
+  {{- $src := .src -}}
   {{- with .item -}}
     {{ $path := "" }}{{ with .File }}
       {{ $path =
@@ -98,7 +99,8 @@
               140
             -}}
           {{- else -}}
-            — {{- .Params.deck | markdownify -}}
+            —
+            {{- .Params.deck | markdownify -}}
           {{- end -}}
         </p>
       </div>

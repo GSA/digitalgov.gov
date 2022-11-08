@@ -23,7 +23,8 @@
     "title" : "{{- .Title -}}", "summary" :
     "{{- replace .Params.summary "\n" "\\n" -}}",
     {{- if .Params.aliases -}}
-      "aliases" : { {{- $aliaslen := .Params.aliases | len -}}
+      "aliases" : {
+      {{- $aliaslen := .Params.aliases | len -}}
       {{- $.Scratch.Set
         "aliascount" 1
       -}}
@@ -58,7 +59,8 @@
       -}}
     {{- end -}},
     "length" : {{- $length -}}, "iterator" : "{{- $.Scratch.Get "i" -}}" }
-    {{- $.Scratch.Add "i" 1 -}} {{- $iterator := $.Scratch.Get "i" -}}
+    {{- $.Scratch.Add "i" 1 -}}
+    {{- $iterator := $.Scratch.Get "i" -}}
     {{- if not (eq
       $length $iterator)
     -}}
