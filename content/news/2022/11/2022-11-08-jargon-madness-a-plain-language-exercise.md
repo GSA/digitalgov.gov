@@ -1,6 +1,6 @@
 ---
 date: 2022-11-07 19:14:00 -0500
-title: Jargon Madness A Plain Language Exercise
+title: Jargon Madness: A Plain Language Exercise
 deck: Gamifying Plain Language
 summary: During the 2022 Plain Language Summit, Laura Rabuck of the Veterans Health Administration demonstrated how to promote plain language practices by focusing on jargon, a common enemy of all plain writers.
 # See all topics at https://digital.gov/topics
