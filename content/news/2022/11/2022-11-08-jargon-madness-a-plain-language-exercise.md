@@ -26,7 +26,7 @@ One agency developed an entertaining exercise to promote plain language practice
 
 Laura Rabuck, a research health science specialist and lead content strategist at the Veterans Health Administration, created a "Jargon Madness" tournament-style bracket. It’s modeled after a similar annual college basketball-themed bracket. In this version, jargon battles for the title of “Most confusing” based on votes.
 
-{{< img src="va-jargon-madness-screenshot" >}}
+{{< img src="va-jargon-madness-screenshot-2" >}}
 
 {{< box >}}
 [View the Jargon Madness slides (PowerPoint, 1.54 MB, 34 pages)](https://digital.gov/files/plain-language-summit-jargon-madness-a-plain-language-exercise.pptx) from Laura Rabuck’s [2022 Federal Plain Language Summit](https://digital.gov/event/2022/08/24/2022-federal-plain-language-summit/) presentation. You can also [watch the 28-minute, 13-second video on YouTube](https://www.youtube.com/watch?v=tfjKAYKLnvg).
