@@ -30,6 +30,8 @@ Laura Rabuck, a research health science specialist and lead content strategist a
 [View the Jargon Madness slides (PowerPoint, 1.54 MB, 34 pages)](https://digital.gov/files/plain-language-summit-jargon-madness-a-plain-language-exercise.pptx) from Laura Rabuck’s presentation or the 2022 Federal Plain Language Summit.
 {{< /box >}}
 
+{{< img src="va-jargon-madness-screenshot" >}}
+
 Jargon Madness is a plain language conversation starter that cuts across the organizational chart. It offers engagement and education. Unlike a meeting or a scheduled training, it’s a fun, asynchronous activity that staff can participate in when they have time.
 
 If you want to host a Jargon Madness event at your agency, consider the following: 
