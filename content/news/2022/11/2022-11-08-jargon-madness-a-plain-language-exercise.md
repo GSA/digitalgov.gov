@@ -49,6 +49,4 @@ If you want to host a Jargon Madness event at your agency, consider the followin
 
 Start now! Next March will arrive quickly.
 
-{{< box >}}
-The [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Community of Practice](https://digital.gov/communities/plain-language/).
-{{< /box >}}
+{{< box >}}The [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Community of Practice](https://digital.gov/communities/plain-language/).{{< /box >}}
