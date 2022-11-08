@@ -3,10 +3,9 @@
 
 <!DOCTYPE html>
 
-{{ "<!--[if lt IE 9]><html class='lt-ie9'><!
-[endif]-->" | safeHTML }} {{ "
+<!--[if lt IE 9]><html class='lt-ie9'><! [endif]-->
 <!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
-  " | safeHTML }} {{- partial "core/head.html" . -}}
+{{- partial "core/head.html" . -}}
 
   <body class="{{- .Type }} {{ .Kind -}}">
     {{- "<!-- Google Tag Manager (noscript) -->" | safeHTML -}}
