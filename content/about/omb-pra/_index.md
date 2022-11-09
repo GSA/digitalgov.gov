@@ -1,12 +1,12 @@
 ---
 date: 2022-11-08 14:00:00 -0500
-title: "Paperwork Reduction Act Statement"
-deck: 'OMB PRA Notices'
-summary: 'List of Paperwork Reduction Act Statements'
+title: "Paperwork Reduction Act (PRA) Statements"
+deck: 
+summary: "Paperwork Reduction Act Statements for Digital.gov Feedback Surveys"
 
 ---
 
-A list of Digital.gov Paperwork Reduction Act (PRA) statements.
+A list of Digital.gov PRA statements.
 
 ## Digital.gov Event, Newsletter, and Community Feedback Surveys
 
