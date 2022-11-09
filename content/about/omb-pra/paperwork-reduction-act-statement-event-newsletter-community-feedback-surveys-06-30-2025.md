@@ -1,5 +1,5 @@
 ---
-date: 2022-11-08 12:11:00 -0500
+date: 2022-11-08 14:00:00 -0500
 title: "Paperwork Reduction Act Statement: Digital.gov Event, Newsletter, and Community Feedback Surveys"
 deck: "Statement for approved form OMB No: 3090-0297, with expiration date of 6/30/2025."
 summary: "Statement for approved form OMB No: 3090-0297, with expiration date of 6/30/2025."
@@ -9,6 +9,7 @@ summary: "Statement for approved form OMB No: 3090-0297, with expiration date of
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 slug: paperwork-reduction-act-statement-event-newsletter-community-feedback-surveys-06-30-2025
 
 ---
