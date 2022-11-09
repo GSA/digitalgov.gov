@@ -1,6 +1,6 @@
 ---
 date: 2022-11-07 19:14:00 -0500
-title: Jargon Madness: A Plain Language Exercise
+title: "Jargon Madness: A Plain Language Exercise"
 deck: Gamifying Plain Language
 summary: During the 2022 Plain Language Summit, Laura Rabuck of the Veterans Health Administration demonstrated how to promote plain language practices by focusing on jargon, a common enemy of all plain writers.
 # See all topics at https://digital.gov/topics
@@ -49,6 +49,4 @@ If you want to host a Jargon Madness event at your agency, consider the followin
 
 Start now! Next March will arrive quickly.
 
-{{< box >}}
-The [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Community of Practice](https://digital.gov/communities/plain-language/).
-{{< /box >}}
+{{< box >}}The [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Community of Practice](https://digital.gov/communities/plain-language/).{{< /box >}}
