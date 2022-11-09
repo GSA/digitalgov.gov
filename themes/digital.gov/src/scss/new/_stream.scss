@@ -25,12 +25,17 @@
   @include u-margin-top(3);
   @include u-margin-bottom(5);
   @include u-padding(0);
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  column-gap: units("2px");
+
   li {
     @include add-list-reset();
     @include u-display("inline-block");
     @include u-text("center");
     a {
-      @include u-text("blue-50v");
+      @include u-text("blue-60v");
       @include u-text("no-underline");
       @include u-circle(5);
       @include u-display("flex");
@@ -44,6 +49,6 @@
   }
   li.active a {
     @include u-text("white");
-    @include u-bg("blue-50v");
+    @include u-bg("blue-60v");
   }
 }
