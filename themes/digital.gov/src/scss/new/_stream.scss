@@ -26,7 +26,7 @@
   @include u-margin-bottom(5);
   @include u-padding(0);
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
   align-items: center;
   column-gap: units("2px");
 
