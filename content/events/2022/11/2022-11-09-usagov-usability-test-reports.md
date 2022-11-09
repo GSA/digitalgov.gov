@@ -26,6 +26,7 @@ authors:
 slug: usagov-usability-test-reports
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: usagov-ux-test-reports-title-card
 ---
 Join us as Joanne McGovern shares reports from usability tests on the next English and Spanish  versions of USA.gov — beta.USA.gov and beta.usa.gov/es.
 
