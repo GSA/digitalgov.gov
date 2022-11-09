@@ -4,10 +4,6 @@
 
 slug: customer-experience
 
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
-  - /communities/customer-experience-community/
-
 redirectto: https://coe.gsa.gov/communities/cx.html
 
 date: 2015-07-08 10:30:37 -0400
