@@ -987,47 +987,60 @@ collections:
         timeFormat: "HH:mm" # e.g. 21:00
         format: "YYYY-MM-DD HH:mm:00 -0500"
         hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
-      - label: "Topics"
-        name: "topics"
-        widget: "relation"
-        collection: "topics"
-        value_field: "slug"
-        displayField: "title"
-        search_fields: ["slug", "title"]
-        multiple: true
-        hint: "See all topics at https://digital.gov/topics"
-        comment: "See all topics at https://digital.gov/topics"
-        required: false
-      - label: "Presenters (authors)"
-        name: "authors"
-        widget: "relation"
-        collection: "authors"
-        searchFields: ["first_name", "last_name"]
-        valueField: "slug"
-        displayFields: ["display_name"]
-        multiple: true
-        hint: "See all authors at https://digital.gov/authors"
-        comment: "See all authors at https://digital.gov/authors"
-        required: false
-      - label: "Event platform"
-        name: "event_platform"
-        widget: "select"
-        options: ["zoom", "youtube_live", "adobe_connect", "google"]
-        comment: "zoom, youtube_live, adobe_connect, google"
-        required: false
-      - label: "YouTube ID"
-        name: "youtube_id"
-        widget: "string"
-        hint: "e.g. 3FKyVeipMss"
-        required: false
-      - label: "Primary Image (for social media)"
-        name: "primary_image"
-        widget: "relation"
-        collection: "image-metadata"
-        searchFields: ["uid"]
-        valueField: "uid"
-        displayFields: ["uid"]
-        required: false
+      # - label: "Topics"
+      #   name: "topics"
+      #   widget: "relation"
+      #   collection: "topics"
+      #   value_field: "slug"
+      #   displayField: "title"
+      #   search_fields: ["slug", "title"]
+      #   multiple: true
+      #   hint: "See all topics at https://digital.gov/topics"
+      #   comment: "See all topics at https://digital.gov/topics"
+      #   required: false
+      # - label: "Presenters (authors)"
+      #   name: "authors"
+      #   widget: "relation"
+      #   collection: "authors"
+      #   searchFields: ["first_name", "last_name"]
+      #   valueField: "slug"
+      #   displayFields: ["display_name"]
+      #   multiple: true
+      #   hint: "See all authors at https://digital.gov/authors"
+      #   comment: "See all authors at https://digital.gov/authors"
+      #   required: false
+      # - label: "Event platform"
+      #   name: "event_platform"
+      #   widget: "select"
+      #   options: ["zoom", "youtube_live", "adobe_connect", "google"]
+      #   comment: "zoom, youtube_live, adobe_connect, google"
+      #   required: false
+      # - label: "YouTube ID"
+      #   name: "youtube_id"
+      #   widget: "string"
+      #   hint: "e.g. 3FKyVeipMss"
+      #   required: false
+      # - label: "Primary Image (for social media)"
+      #   name: "primary_image"
+      #   widget: "relation"
+      #   collection: "image-metadata"
+      #   searchFields: ["uid"]
+      #   valueField: "uid"
+      #   displayFields: ["uid"]
+      #   required: false
+      - label: "Page Weight"
+        name: "weight"
+        widget: "number"
+        default: 1
+        valueType: "int"
+        min: 0
+        max: 1
+        step: 1
+        hint: "Controls how this page appears across the site (0 -- hidden, 1 -- visible)"
+        comment: |-
+          Controls how this page appears across the site
+           0 -- hidden
+           1 -- visible
       - label: "Content"
         name: "body"
         widget: "markdown"
