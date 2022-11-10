@@ -1043,6 +1043,44 @@ collections:
         required: false
         <<: *editorComponents
 
+
+  # TRANSCRIPT TEST =======================
+  - <<: *defaults
+    name: "transcript test"
+    label: "Transcript Test"
+    label_singular: "transcript page"
+    description: "This page will create a transcript only page for reading"
+    folder: "content/events"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
+    preview_path_date_field: "date"
+    fields:
+      - label: "Video Title"
+        name: "title"
+        widget: "string"
+        hint: "Title for the video"
+      - label: "Start Date/Time"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        required: false
+        <<: *editorComponents
+
   # IMAGE UPLOAD =======================
   - <<: *defaults
     name: "image-upload"
