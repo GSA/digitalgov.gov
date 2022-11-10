@@ -35,7 +35,7 @@
     @include u-display("inline-block");
     @include u-text("center");
     a {
-      @include u-text("blue-60v");
+      @include u-text("blue-warm-70v");
       @include u-text("no-underline");
       @include u-circle(5);
       @include u-display("flex");
@@ -49,6 +49,6 @@
   }
   li.active a {
     @include u-text("white");
-    @include u-bg("blue-60v");
+    @include u-bg("blue-warm-70v");
   }
 }
