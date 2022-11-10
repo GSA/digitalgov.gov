@@ -19,6 +19,7 @@ topics:
 
 weight: 3
 primary_image: "website-wireframes-ademay-istock-getty-images-plus-1235556451"
+
 ---
 
 If you manage a public website in the federal government's executive branch, various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
@@ -79,9 +80,9 @@ Secondary agency sites also need an "About" page that describes your site and li
 
 ##### Required by:
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
-{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -132,15 +133,15 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 
 ##### Required by:
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013){{< / box >}}
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
+- [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013){{< / box >}}
 
-{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **12. Ensure Accessibility for Individuals with Disabilities**
 
 Section 508 of the Rehabilitation Act was enacted to eliminate barriers in information technology, open new opportunities for people with disabilities, and encourage the development of technologies that will help achieve these goals. <sup>28</sup> The law applies to all Federal departments and agencies when they develop, procure, maintain, or use electronic and information technology. <sup>29</sup> Under Section 508, departments and agencies must ensure that employees and members of the public with disabilities have access to information and data that is comparable to access available to others unless an undue burden would be imposed on the department or agency.
 
-**A.** Agencies must comply with Section 508 and with the Electronic and Information Technology (EIT) Accessibility Standards. <sup>30</sup> Additionally, agencies must also adhere to their own Section 508 regulations and policies. Section 508 does not limit rights, remedies, or procedures otherwise available under other Federal laws, including Sections 501, 503, and 504 of the Rehabilitation Act and the Americans with Disabilities Act. <sup>31</sup>; <br />**B.** Section 508 technical and EIT Accessibility requirements must be included in the requirements document for the procurement of EIT products and services and planned for and built into the development, operations and management lifecycle of a Federal website or digital service. Any new functionality must be regularly tested to ensure it meets the EIT Accessibility Standards and is accessible for persons with disabilities.; <br />**C.** {{< highlight >}}Agencies must develop accessibility statements for their website{{< /highlight >}} and appoint a Section 508 Coordinator {{< highlight >}}as required by OMB Memorandum, <em>Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</em>{{< /highlight >}}. <sup>[32](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
+**A.** Agencies must comply with Section 508 and with the Electronic and Information Technology (EIT) Accessibility Standards. <sup>30</sup> Additionally, agencies must also adhere to their own Section 508 regulations and policies. Section 508 does not limit rights, remedies, or procedures otherwise available under other Federal laws, including Sections 501, 503, and 504 of the Rehabilitation Act and the Americans with Disabilities Act. <sup>31</sup>; <br />**B.** Section 508 technical and EIT Accessibility requirements must be included in the requirements document for the procurement of EIT products and services and planned for and built into the development, operations and management lifecycle of a Federal website or digital service. Any new functionality must be regularly tested to ensure it meets the EIT Accessibility Standards and is accessible for persons with disabilities.; <br />**C.** {{< highlight >}}Agencies must develop accessibility statements for their website{{< /highlight >}} and appoint a Section 508 Coordinator {{< highlight >}}as required by OMB Memorandum, <em>Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</em>{{< /highlight >}}. <sup>[32](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
 
 ---
 
@@ -149,12 +150,12 @@ Section 508 of the Rehabilitation Act was enacted to eliminate barriers in infor
 <sup>29</sup> Section 508 does not apply to national security systems, as that term is defined in section 11103(a) of title 40. 29 U.S.C. &sect; 794d(a)(5). <br />
 <sup>30</sup> 36 CFR Part 1194 <br />
 <sup>31</sup> 29 U.S.C. &sect; 794d(g) <br />
-<sup>32</sup> [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013)
+<sup>32</sup> [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013)
 {{< /footnote >}}
 
 {{< /card-policy >}}
 
-{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
 
 Transparency of Federal programs, performance, and spending facilitates increases in accountability and citizen engagement. To support increased transparency, the Accessibility Committee has expanded on information available to agencies by creating a best practices library. The library may be found at [https://cio.gov/2011/05/](https://cio.gov/2011/05/) and contains examples of best practices in policy and procedures that can increase transparency. Feedback from the listening sessions and the national dialogue indicates several areas that would benefit from more transparency. Specific areas include opportunities for public engagement, inter-agency collaboration, and standardizing agency approaches to Section 508 implementation.
 
@@ -198,7 +199,7 @@ To enhance transparency of performance data, all Federal {{< highlight >}}agenci
 
 Agencies may also want to create links from this page to other planning and performance reporting documents, such as the human capital operating plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.
 
-When developing performance information for publication, agencies should be open, transparent, and accountable for results of progress against stated performance goals and objectives, publishing information online consistent with the Federal Records Act, privacy and security restrictions, and other applicable law and policy including [OMB Circular A-130](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf), Managing Information as a Strategic Resource. It is important that agencies communicate relevant, reliable, and timely performance information within and outside their organizations to improve performance outcomes and operational efficiency.
+When developing performance information for publication, agencies should be open, transparent, and accountable for results of progress against stated performance goals and objectives, publishing information online consistent with the Federal Records Act, privacy and security restrictions, and other applicable law and policy including [OMB Circular A-130](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf), Managing Information as a Strategic Resource. It is important that agencies communicate relevant, reliable, and timely performance information within and outside their organizations to improve performance outcomes and operational efficiency.
 
 **Machine-readable**. Consistent with the GPRA Modernization Act of 2010, information published through Performance.gov will be made available to the public in a machine-readable format. See section 240 for additional information on an initiative to make agency performance plans and reports ‘machine readable’ with the 2021 Budget and Performance Planning / Reporting cycle.{{< / card-policy >}}
 
@@ -258,9 +259,9 @@ Agencies should choose the best approach to identify external links to users in 
 
 ##### Required by:
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
-{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **11. Ensure Information Quality and Accuracy**
 
 The Internet enables agencies to communicate information quickly and easily to a wide audience, which, while of great benefit to society, also increases the potential harm that can result from disseminating incorrect information. Taking this into account, information disseminated from Federal Government websites and digital services, or from third-party services on behalf of the Government, is expected to be authoritative and reliable.
@@ -297,9 +298,9 @@ Organizations should review the FOIA and implementation guidance to ensure that 
 
 ##### Required by:
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
-{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -349,9 +350,9 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 
 ##### Required by:
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
-{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -397,10 +398,10 @@ All federal public websites must comply with existing laws and directives that a
 
 ##### Required by:
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 - [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_{{< / box >}}
 
-{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -436,7 +437,7 @@ For other required links, Federal agencies should determine the best location on
 
 1. _Content of Privacy Policies_.
 
-   1. Agency Privacy Policies must comply with guidance issued in OMB [Memorandum 99-18](https://obamawhitehouse.archives.gov/omb/memoranda_m99-18/) and must now also include the following two new content areas:
+   1. Agency Privacy Policies must comply with guidance issued in OMB [Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf) and must now also include the following two new content areas:
 
       1. _Consent to collection and sharing_ <sup>[15](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#15)</sup>. Agencies must now ensure that privacy policies:
 
@@ -451,7 +452,7 @@ For other required links, Federal agencies should determine the best location on
 
    2. Agency Privacy Policies must continue to address the following, modified, requirements:
 
-      1. Nature, purpose, use and sharing of information collected . Agencies should follow existing policies (issued in [OMB Memorandum 99-18](https://obamawhitehouse.archives.gov/omb/memoranda_m99-18/)) concerning notice of the nature, purpose, use and sharing of information collected via the Internet, as modified below:
+      1. Nature, purpose, use and sharing of information collected. Agencies should follow existing policies (issued in [OMB Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf)) concerning notice of the nature, purpose, use and sharing of information collected via the Internet, as modified below:
 
          1. _Privacy Act information_. When agencies collect information subject to the Privacy Act, agencies are directed to explain what portion of the information is maintained and retrieved by name or personal identifier in a Privacy Act system of records and provide a Privacy Act Statement either:
 
@@ -461,7 +462,7 @@ For other required links, Federal agencies should determine the best location on
          2. _"Privacy Act Statements"_. Privacy Act Statements must notify users of the authority for and purpose and use of the collection of information subject to the Privacy Act, whether providing the information is mandatory or voluntary, and the effects of not providing all or any part of the requested information.
          3. _Automatically Collected Information (site management data)_. Agency Privacy Policies must specify what information the agency collects automatically (i.e., user’s IP address, location, and time of visit) and identify the use for which it is collected (i.e., site management or security purposes).
          4. _Interaction with children_: Agencies that provide content to children under 13 and that collect personally identifiable information from these visitors should incorporate the requirements of the Children’s Online Privacy Protection Act ("COPPA") into their Privacy Policies (see Attachment C) <sup>[19](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#19)</sup>.
-         5. _Tracking and customization activities_. Agencies are directed to adhere to the following modifications to [OMB Memorandum 00-13](https://obamawhitehouse.archives.gov/omb/memoranda_m00-13/) and the OMB follow-up guidance letter dated [September 5, 2000](https://obamawhitehouse.archives.gov/omb/inforeg_cookies_letter90500/):
+         5. _Tracking and customization activities_. Agencies are directed to adhere to the following modifications to [OMB Memorandum 00-13](https://www.whitehouse.gov/wp-content/uploads/2017/11/2000-M-00-13-Privacy-Policies-and-Data-Collection-on-Federal-Web-Sites.pdf) and the OMB follow-up guidance letter dated [September 5, 2000](https://obamawhitehouse.archives.gov/omb/inforeg_cookies_letter90500/):
 
             1. _Tracking technology prohibitions_:
 
@@ -493,13 +494,13 @@ For other required links, Federal agencies should determine the best location on
          1. in clear language, information about management, operational and technical controls ensuring the security and confidentiality of personally identifiable records (e.g., access controls, data storage procedures, periodic testing of safeguards, etc.), and
          2. in general terms, information about any additional safeguards used to identify and prevent unauthorized attempts to access or cause harm to information and systems. (The statement should be at a level to inform the public that their information is being protected while not compromising security.)
 
-1. _Placement of notices_. Agencies should continue to follow the policy identified in [OMB Memorandum 99-18](https://obamawhitehouse.archives.gov/omb/memoranda_m99-18/) regarding the posting of privacy policies on their websites. Specifically, {{< highlight >}}agencies must post (or link to) privacy policies at:{{< /highlight >}}
+1. _Placement of notices_. Agencies should continue to follow the policy identified in [OMB Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf) regarding the posting of privacy policies on their websites. Specifically, {{< highlight >}}agencies must post (or link to) privacy policies at:{{< /highlight >}}
 
    1. {{< highlight >}}their principal web site;{{< /highlight >}}
    2. {{< highlight >}}any known, major entry points to their sites;{{< /highlight >}}
    3. {{< highlight >}}any web page that collects substantial information in identifiable form.{{< /highlight >}}
 
-1. **_Clarity of notices_**. Consistent with [OMB Memorandum 99-18](https://obamawhitehouse.archives.gov/omb/memoranda_m99-18/), privacy policies must be:
+1. **_Clarity of notices_**. Consistent with [OMB Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf), privacy policies must be:
    1. clearly labeled and easily accessed;
    2. written in plain language; and
    3. made clear and easy to understand, whether by integrating all information and statements into a single posting, by layering a short "highlights" notice linked to full explanation, or by other means the agency determines is effective.{{< /card-policy >}}
