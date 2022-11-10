@@ -1044,12 +1044,12 @@ collections:
         <<: *editorComponents
 
 
-  # TRANSCRIPT TEST =======================
+  # EVENTS TEST =======================
   - <<: *defaults
-    name: "transcript test"
-    label: "Transcript Test"
-    label_singular: "transcript page"
-    description: "This page will create a transcript only page for reading"
+    name: "events test"
+    label: "Events Test"
+    label_singular: "Event Test"
+    description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
@@ -1057,10 +1057,55 @@ collections:
     preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
     preview_path_date_field: "date"
     fields:
-      - label: "Video Title"
+      - label: "Event Title"
         name: "title"
         widget: "string"
-        hint: "Title for the video"
+        hint: "Short, topical, no acronyms."
+      - label: "Deck / Sub-head"
+        name: "deck"
+        widget: "text"
+        hint: |-
+          Think of this as the sentence you'd most like to tweet.
+          Do not repeat the headline. You need to be able to read it outloud in a single breath.
+        required: false
+      - label: "Kicker"
+        name: "kicker"
+        widget: "string"
+        hint: |-
+          Highlight the relevant topic. This displays above the event title on the /events/ page.
+          Should always be included. Use only one or two words.
+        required: false
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        hint: "1-sentence description that does not repeat the headline"
+      - label: "Host"
+        name: "host"
+        widget: "string"
+        hint: "e.g. Plain Language Community of Practice"
+        required: false
+      - label: "Event Organizer"
+        name: "event_organizer"
+        widget: "string"
+        default: "Digital.gov"
+      - label: "Event Related CoP"
+        name: "cop_events"
+        widget: "select"
+        options: ["communicators", "multilingual", "plain-language", "web-managers", "web-analytics", "social-media", "user-experience"]
+        collection: "events"
+        default: ""
+        multiple: true
+        required: false
+        hint: "Associate any Community of Practices with the event"
+      - label: "Registration URL"
+        name: "registration_url"
+        widget: "string"
+        hint: "e.g. https://www.eventbrite.com/..."
+      - label: "Captions URL"
+        name: "captions"
+        widget: "string"
+        hint: "e.g. https://www.captionedtext.com..."
+        required: false
       - label: "Start Date/Time"
         name: "date"
         widget: "datetime"
@@ -1075,11 +1120,64 @@ collections:
         timeFormat: "HH:mm" # e.g. 21:00
         format: "YYYY-MM-DD HH:mm:00 -0500"
         hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
+      - label: "Topics"
+        name: "topics"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
+        displayField: "title"
+        search_fields: ["slug", "title"]
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Presenters (authors)"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["first_name", "last_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Event platform"
+        name: "event_platform"
+        widget: "select"
+        options: ["zoom", "youtube_live", "adobe_connect", "google"]
+        comment: "zoom, youtube_live, adobe_connect, google"
+        required: false
+      - label: "YouTube ID"
+        name: "youtube_id"
+        widget: "string"
+        hint: "e.g. 3FKyVeipMss"
+        required: false
+      - label: "Primary Image (for social media)"
+        name: "primary_image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
+        required: false
+      - label: "Redirects"
+        label_singular: Redirect
+        name: "aliases"
+        widget: "list"
+        hint: |-
+          Enter the path of the URL that you want redirected to this page
+          [e.g. /path/to/new/page]
+        comment: "Enter the path of the URL that you want redirected to this page"
+        field: { label: Redirect, name: redirect, widget: string }
+        required: false
       - label: "Content"
         name: "body"
         widget: "markdown"
         required: false
         <<: *editorComponents
+
+
 
   # IMAGE UPLOAD =======================
   - <<: *defaults
