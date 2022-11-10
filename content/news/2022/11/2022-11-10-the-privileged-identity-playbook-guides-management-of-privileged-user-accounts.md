@@ -2,7 +2,7 @@
 date: 2022-11-10 10:28:00 -0500
 kicker: Identity, Credential, and Access Management
 title: The Privileged Identity Playbook Guides Management of Privileged User Accounts
-deck: Steps to Secure and Protect Federal Information Systems
+deck: Securing and Protecting Federal Information Systems
 summary: The Privileged Identity Playbook is a practical guide to help federal agencies implement and manage a privileged user management function as part of an overall agency ICAM program.
 
 # See all topics at https://digital.gov/topics
@@ -42,7 +42,7 @@ You should manage privileged users as distinct and separate identities to decrea
 * Jeopardize sensitive information or infrastructure, knowingly or unknowingly.
 * Compromise the three core elements of information security: availability, confidentiality, and integrity.
 
-Your agency can use the [Privileged Identity Playbook](https://playbooks.idmanagement.gov/playbooks/pam/) to manage privileged users following governmentwide best practices. The playbook [includes a four-step process aligned with the Federal Identity, Credential, and Access Management Architecture (FICAM), designed for insider threat, identity management,](https://playbooks.idmanagement.gov/arch/) and risk management professionals interested in mitigating privileged user risk. For risk management professionals, the playbook also includes a [NIST 800-53 revision 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) privileged user control overlay. We also encourage agencies and other IT program participants, such as cybersecurity program managers, to tailor this playbook to fit their unique organizational structure, mission, and technical requirements.
+Your agency can use the [Privileged Identity Playbook](https://playbooks.idmanagement.gov/playbooks/pam/) to manage privileged users following governmentwide best practices. The playbook includes a four-step process aligned with the [Federal Identity, Credential, and Access Management Architecture](https://playbooks.idmanagement.gov/arch/) (FICAM), designed for insider threat, identity management, and risk management professionals interested in mitigating privileged user risk. For risk management professionals, the playbook also includes a [NIST 800-53 revision 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) privileged user control overlay. We also encourage agencies and other IT program participants, such as cybersecurity program managers, to tailor this playbook to fit their unique organizational structure, mission, and technical requirements.
 
 The Privileged Identity Playbook supplements existing federal IT policies and builds on the Office of Management and Budget Memorandum (OMB) [Memo 19-17 - Enabling Mission Delivery through Improved Identity, Credential, and Access Management (PDF, 1 MB, 13 pages)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) and OMB [Memo 22-09 - Federal Zero Trust Strategy](https://zerotrust.cyber.gov/federal-zero-trust-strategy/), as well as existing federal identity guidance and playbooks.
 
