@@ -1,25 +1,30 @@
 ---
 date: 2022-11-10 10:28:00 -0500
-kicker: Cyber
+kicker: Identity, Credential, and Access Management
 title: The Privileged Identity Playbook Guides Management of Privileged User Accounts
-deck: deck
-summary: The Privileged Identity Playbook is a practical guide to help federal
-  agencies implement and manage a privileged user management function as part of
-  an overall agency ICAM program.
+deck: Steps to Secure and Protect Federal Information Systems
+summary: The Privileged Identity Playbook is a practical guide to help federal agencies implement and manage a privileged user management function as part of an overall agency ICAM program.
+
 # See all topics at https://digital.gov/topics
 topics:
   - security
   - privacy
+  - data
+
 # See all authors at https://digital.gov/authors
 authors:
-  - 18f-team
+  - kenneth-myers
+
 slug: the-privileged-identity-playbook-guides-management-of-privileged-user-accounts
-primary_image: 10x-areas-of-focus
+primary_image: "cyber-security-and-privacy-golden-sikorka-istock-getty-images-1358866874"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Information systems are the backbone of federal websites and digital services. Our customers expect our services to be secure and trustworthy, and we need to manage this infrastructure to meet their expectations. A key part of this work is managing privileged users’ accounts.
 
 Privileged users perform various security-related duties that make them targets for cybercriminals or malicious insiders. The misuse or compromise of privileged user accounts has resulted in the most high-profile federal and private security breaches. Therefore, it is critical for federal agencies to identify privileged users and protect their access to high-value assets.
@@ -41,4 +46,4 @@ Your agency can use the [Privileged Identity Playbook](https://playbooks.idmanag
 
 The Privileged Identity Playbook supplements existing federal IT policies and builds on the Office of Management and Budget Memorandum (OMB) [Memo 19-17 - Enabling Mission Delivery through Improved Identity, Credential, and Access Management (PDF, 1 MB, 13 pages)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf) and OMB [Memo 22-09 - Federal Zero Trust Strategy](https://zerotrust.cyber.gov/federal-zero-trust-strategy/), as well as existing federal identity guidance and playbooks.
 
-{{< note >}}To connect with others in our field, join the Federal CIO Council’s [Identity, Credential, and Access Management Subcommittee](https://www.idmanagement.gov/governance/ficam/). Visit the [IDManagement.gov](https://www.idmanagement.gov/) website to explore its resources for vendors, acquisition professionals, and vendors.  {{< /note >}}
+{{< note >}}To connect with others in our field, join the Federal CIO Council’s [Identity, Credential, and Access Management Subcommittee](https://www.idmanagement.gov/governance/ficam/). Visit the [IDManagement.gov](https://www.idmanagement.gov/) website to explore its resources for vendors, acquisition professionals, and vendors.{{< /note >}}
