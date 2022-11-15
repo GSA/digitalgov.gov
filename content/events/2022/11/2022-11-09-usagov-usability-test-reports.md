@@ -30,6 +30,8 @@ primary_image: usagov-ux-test-reports-title-card
 
 ---
 
+[View the slides (PowerPoint, 5.7 MB, 26 pages)](https://digital.gov/files/usagov-usability-test-reports.pptx)
+
 Join us as Joanne McGovern shares reports from usability tests on the next English and Spanish  versions of USA.gov — beta.USA.gov and beta.usa.gov/es.
 
 In this session, you'll learn about the parameters of USA.gov’s usability test and the importance of providing multilingual content in our digital services and solutions.
