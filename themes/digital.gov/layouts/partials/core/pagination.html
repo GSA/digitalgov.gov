@@ -21,12 +21,13 @@
 {{ if gt $paginator.TotalPages 1 }}
 
   <ul class="pagination">
-
     <!-- First page. -->
     {{ if ne $paginator.PageNumber 1 }}
     <li class="pagination-first">
-      <a href="{{ $paginator.First.URL }}">
-        &#8676;
+      <a href="{{ $paginator.First.URL }}" aria-label="First page">
+        <svg class="usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="{{ "uswds/img/sprite.svg#first_page" | relURL }}"></use>
+        </svg>
       </a>
     </li>
     {{ end }}
@@ -34,8 +35,10 @@
     <!-- Previous page. -->
     {{ if $paginator.HasPrev }}
     <li class="pagination-previous">
-      <a href="{{ $paginator.Prev.URL }}">
-        &#8592;
+      <a href="{{ $paginator.Prev.URL }}" aria-label="Previous page">
+        <svg class="usa-icon dg-icon dg-icon--standard" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
+        </svg>
       </a>
     </li>
     {{ end }}
@@ -96,8 +99,10 @@
     <!-- Next page. -->
     {{ if $paginator.HasNext }}
     <li class="pagination-next">
-      <a href="{{ $paginator.Next.URL }}">
-        &#8594;
+      <a href="{{ $paginator.Next.URL }}" aria-label="Next page">
+        <svg class="usa-icon dg-icon dg-icon--standard" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
+        </svg>
       </a>
     </li>
     {{ end }}
@@ -105,8 +110,10 @@
     <!-- Last page. -->
     {{ if ne $paginator.PageNumber $paginator.TotalPages }}
     <li class="pagination-last">
-      <a href="{{ $paginator.Last.URL }}">
-        &#8677;
+      <a href="{{ $paginator.Last.URL }}" aria-label="Last page">
+        <svg class="usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="{{ "uswds/img/sprite.svg#last_page" | relURL }}"></use>
+        </svg>
       </a>
     </li>
     {{ end }}
