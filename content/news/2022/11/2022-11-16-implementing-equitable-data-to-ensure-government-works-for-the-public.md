@@ -1,22 +1,31 @@
 ---
 date: 2022-11-16 09:02:00 -0500
 kicker: Interview
-title: Implementing Equitable Data To Ensure Government Works for the Public
-deck: U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to
-  civic tech and her impactful work supporting the White House Office of Science
-  and Technology Policy
-summary: U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to
-  civic tech and her impactful work supporting the White House Office of Science
-  and Technology Policy.
+title: "Implementing Equitable Data To Ensure Government Works for the Public"
+deck: "U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to civic tech and her impactful work supporting the White House Office of Science and Technology Policy"
+summary: "U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to civic tech and her impactful work supporting the White House Office of Science and Technology Policy."
+
+# See all topics at https://digital.gov/topics
+topics:
+  - data
+  - ostp
+  - infrastructure
+
 # See all authors at https://digital.gov/authors
-authors: []
+authors:
+  - chris-kuang
+
 slug: implementing-equitable-data-to-ensure-government-works-for-the-public
-primary_image: 10x-areas-of-focus
+
+primary_image: "us-digital-corps-accelerating-infrastructure-team-2022"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Data science and analytics has frequently been named one of the hottest jobs in recent years, with its own set of popular buzzwords, including [artificial intelligence](https://coe.gsa.gov/coe/artificial-intelligence.html), big data, and machine learning. The U.S. government has long been a [leading source of data](https://data.gov/) on the country’s people and economy, but what does working in data science in government actually look like?
 
 Meredith Brown is a [U.S. Digital Corps Fellow](https://digitalcorps.gsa.gov/) at the General Services Administration (GSA) on a team supporting the White House Office of Science and Technology Policy (OSTP) on a host of data science projects. In this blog post, she reflects on her journey to civic tech and shares her impactful work at OSTP.
@@ -31,13 +40,13 @@ Further, the track and cohort models of the program drew me in. Joining the work
 
 ## Can you tell us a bit about the project you are currently working on?
 
-Through the Digital Corps, I’m placed at GSA and collaborating closely with the White House Office of Science and Technology Policy (OSTP). Here, I support the Equitable Federal Funding Interagency Working Group, working closely with the Office of the Chief Data Scientist of the United States. The purpose of the [Chief Data Scientist](https://twitter.com/DeniceRoss46) and her team is to responsibly unlock the power of data to benefit all Americans.
+Through the Digital Corps, I’m placed at GSA and collaborating closely with the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP). Here, I support the Equitable Federal Funding Interagency Working Group, working closely with the Office of the Chief Data Scientist of the United States. The purpose of the [Chief Data Scientist](https://twitter.com/DeniceRoss46) and her team is to responsibly unlock the power of data to benefit all Americans.
 
 To that end, I’m currently applying data science to the equitable implementation of the [Bipartisan Infrastructure Law](https://www.congress.gov/bill/117th-congress/house-bill/3684/text), the [Inflation Reduction Act](https://www.congress.gov/bill/117th-congress/house-bill/5376/text), and other federal programs.
 
 Every month, I coordinate data efforts between the White House Infrastructure Implementation Team, federal agencies, state leaders, and other stakeholders to establish transparency into infrastructure spending and to promote access to federal funding for historically under-resourced communities. This involves overseeing reporting calls with agencies, producing internal dashboards, and constructing data products for public use.
 
-I﻿MAGE
+{{< img src="us-digital-corps-accelerating-infrastructure-team-2022" >}}
 
 Likewise, our office partners with agencies to build capacity for and perform equity assessments. By analyzing outreach efforts, technical assistance, and application data, our team provides policy recommendations to agencies on concrete actions that can be taken to improve outcomes for underserved communities. We also develop tools and lessons learned from these assessments to scale our impact across the federal government.
 
