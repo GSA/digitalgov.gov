@@ -1,6 +1,6 @@
 ---
 date: 2022-11-16 09:02:00 -0500
-kicker: Interview
+kicker: 
 title: "Implementing Equitable Data To Ensure Government Works for the Public"
 deck: "U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to civic tech and her impactful work supporting the White House Office of Science and Technology Policy"
 summary: "U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to civic tech and her impactful work supporting the White House Office of Science and Technology Policy."
@@ -14,6 +14,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - chris-kuang
+  - meredith-brown
 
 slug: implementing-equitable-data-to-ensure-government-works-for-the-public
 
@@ -54,7 +55,7 @@ Likewise, our office partners with agencies to build capacity for and perform eq
 
 [Equitable data](https://www.performance.gov/equity/) isn’t a product of policy, but rather an essential input into policy formation. The same communities that have experienced the compounding effects of inequality and racism are now further impacted by the COVID-19 pandemic and the climate crisis. In order to address these issues, we need data to speak to the complex nature of inequity in these communities.
 
-Equitable data is disaggregated data: data broken down by race, gender identity, sexual orientation, rural/urban geography, disability status, veteran status, and other characteristics that tell a fuller picture of a community. This data, aggregated over time, allows for assessment of where policy has failed and where programs could have the most impact.
+Equitable data is disaggregated data: data broken down by race, gender identity, sexual orientation, rural and urban geography, disability status, veteran status, and other characteristics that tell a fuller picture of a community. This data, aggregated over time, allows for assessment of where policy has failed and where programs could have the most impact.
 
 To me, equitable data also speaks to the individuals working to create data. To pursue equitable data necessitates recruiting diverse talent to work on equitable data throughout the government. This makes me especially thankful for initiatives like the U.S. Digital Corps for bringing in a new generation of diverse technologists to energize our agencies to pursue data and policy that helps the public.
 
@@ -72,6 +73,6 @@ I’ve found that everyone is eager to support me, whether it be talking about c
 
 I was nervous about the complexities of the bureaucracy and being able to get things done. This is definitely a challenge and something I’ve faced often over the past few months. However, I’ve found that this complexity isn’t heavy but rather energizing. I get out of bed every morning thrilled to get to work on the big issues facing everyone in our country.
 
-{{< note >}}**Join Us**
+{{< note "action" >}}**Join Us**
 
 Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications open this fall!). For more mid-senior technologists, visit [Join GSA’s Technology Transformation Services](https://join.tts.gsa.gov/).{{< /note >}}
