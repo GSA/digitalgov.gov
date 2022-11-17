@@ -114,12 +114,9 @@ In this session you will hear from the following speakers:
 
 Remote design research presents a myriad of challenges, and one of the more abstract challenges is how to create empathy with participants. Through the lens of a COVID-19 response tablet distribution program that provided internet access, we explored the creative ways we tried to build empathy with our research participants, and create a shared headspace as a team. Despite only speaking with participants over the phone, we were able to imagine the ways they incorporated their tablets into their daily lives through their stories which left us listening to brand new music and exploring new-to-us android games.
 
-[View the slides](remote-empathy-revised.pptx) (PPT, 24.3 MB, 20 pages)
+{{< asset-static file="remote-empathy-revised.pptx" label="View the slides (PPT, 24.3 MB, 20 pages)" >}}
 
-
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
-In this session yo
-u will hear from the following speakers:
+In this session you will hear from the following speakers:
 
 * **Alexander Hoover** &mdash; U.S. Department of Homeland Security (DHS)
 * **Elyse Voegeli** &mdash; New York City Mayor's Office of the Chief Technology Officer
@@ -147,12 +144,9 @@ u will hear from the following speaker:
 
 Why invest in discovery research to design APIs for government services? What methods to use and what questions to ask? This presentation will share learnings from the U.S. Department of Veterans Affairs (VA) API platform, [VA Lighthouse APIs](https://developer.va.gov/). We conduct discovery research to design API functionality that enables Veterans to apply for and appeal benefits. In line with a human-centered design approach to APIs, we use an ethnography framework to approach problems from the perspective of the people who use and manage these benefits, and make sure we’re designing APIs that answer Veterans’ questions and address their needs.
 
-[View the slides](va-oit-gov-ux-summit.pptx) (PPT, 1.21 MB, 36 pages)
+{{< asset-static file="va-oit-gov-ux-summit.pptx" label="View the slides (PPT, 1.21 MB, 36 pages)" >}}
 
-
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
-In this session yo
-u will hear from the following speakers:
+In this session you will hear from the following speakers:
 
 * **Andrew Fichter** &mdash; U.S. Department of Veterans Affairs (VA)
 * **Maria Vidart-Delgado** &mdash; Contractor, U.S. Department of Veterans Affairs (VA)
@@ -165,9 +159,7 @@ u will hear from the following speakers:
 
 Have you ever wanted to conduct a card sort or tree test, but didn’t have the tools? Learn how we conducted a card sort using GitHub and a tree test using a clickable prototype.
 
-[View the slides](open-source-information-architecture-rev.pptx) (PPT, 24.1 MB, 60 pages)
-
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
+{{< asset-static file="open-source-information-architecture-rev.pptx" label="View the slides (PPT, 24.1 MB, 60 pages)" >}}
 
 
 In this session you will hear from the following speaker:
@@ -180,9 +172,7 @@ In this session you will hear from the following speaker:
 
 Learn how [journey mapping](https://en.wikipedia.org/wiki/User_journey) can help pinpoint both user needs and process improvement opportunities -- and how, when improved through a user-centered lens, you can create policy changes that result in more equitable access to resident services.
 
-[View the slides](journey-mapping-access-to-justice.pptx) (PPT, 2.64 MB, 13 pages)
-
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
+{{< asset-static file="journey-mapping-access-to-justice.pptx" label="View the slides (PPT, 2.64 MB, 13 pages)" >}}
 
 
 In this session you will hear from the following speakers:
@@ -202,10 +192,7 @@ In this session you will hear from the following speakers:
 
 We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
 
-[View the slides](conscious-uncoupling-uxsummit-revised.pptx) (PPT, 5.72 MB, 39 pages)
-
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
-
+{{< asset-static file="conscious-uncoupling-uxsummit-revised.pptx" label="View the slides (PPT, 5.72 MB, 39 pages)" >}}
 
 In this session you will hear from the following speakers:
 
@@ -231,7 +218,6 @@ Designers across government must build rapport with subject matter experts (SMEs
 
 [View the slides](overturning-precedent-alexis-finalrev.pptx) (PPT, 412 KB, 10 pages)
 
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
 
 
 In this session you will hear from the following speaker:
@@ -244,17 +230,11 @@ In this session you will hear from the following speaker:
 
 In order to improve customer experience at the Nuclear Regulatory Commission (NRC), Office of the Chief Information Officer (OCIO) has established a customer experience (CX) capability to drive a customer-centric culture and improve IT service delivery. Since inception, OCIO has designed the strategy for implementing CX, built a CX team, gathered data on customer satisfaction rates for IT services, conducted journey mapping exercises, and built several channels for customer feedback to understand the customer perspective.
 
-[View the slides, part 1](nrc-cxslides-first.pptx) (PPT, 17.4 MB, 5 pages)
+{{< asset-static file="nrc-cxslides-first.pptx" label="View the slides, part 1 (PPT, 17.4 MB, 5 pages)" >}}
 
-[V
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
-iew the slides, part 2](
-  nrc-cxslides-second.pptx) (PPT, 12.1 MB, 5 pages)
+{{< asset-static file="nrc-cxslides-second.pptx" label="View the slides, part 2 (PPT, 12.1 MB, 5 pages)" >}}
 
-
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
-In this session you will h
-ear from the following speakers:
+In this session you will hear from the following speakers:
 
 * **Sarah Bever** &mdash; Contractor
 * **Scott Flanders** &mdash; NRC
@@ -268,10 +248,7 @@ ear from the following speakers:
 
 State-level digital service teams are still a relatively new entity in the civic tech space. As our Colorado Digital Service team passed our one year anniversary, we wanted to understand: What value did we bring to our agency partners? How did our self-perceived value differ from how our partners saw us? How can we iterate upon our team to help build a more equitable state government for all Coloradans? We conducted a self-retro by interviewing 40+ state government employees who had interacted with us over the past year, and compared that input against our own team’s value statements. The results were illuminating. Learn about what we did well and what we could have done better.
 
-[View the slides](iterating-on-a-state-level-colorado.pptx) (PPT, 1.30 MB, 22 pages)
-
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
-
+{{< asset-static file="iterating-on-a-state-level-colorado.pptx" label="View the slides (PPT, 1.30 MB, 22 pages)" >}}
 
 In this session you will hear from the following speakers:
 
@@ -287,10 +264,7 @@ In this session you will hear from the following speakers:
 
 Human-centered design is critical to the success of building modern services. Especially in government, we should build services for people but also with the people - but also _with_ the people. But how do you build human-centered products that meet people’s needs without the resources for a dedicated human centered design person? In this presentation, we’ll demonstrate that folks with UX in their title don’t have a monopoly on human centered design methods. Learn about our experience as a team of federal staff who use human centered design methods at the Centers for Medicare & Medicaid Services (CMS) to improve healthcare delivery and care coordination for medicare beneficiaries.
 
-[View the slides](you-human-centered-designer-ux-summit.pptx) (PPT, 12.8 MB, 38 pages)
-
-{{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
-
+{{< asset-static file="you-human-centered-designer-ux-summit.pptx" label="View the slides (PPT, 12.8 MB, 38 pages)" >}}
 
 In this session you will hear from the following speakers:
 
