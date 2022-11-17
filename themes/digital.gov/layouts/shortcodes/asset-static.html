@@ -1,0 +1,17 @@
+{{/* For rendering static files that are stored in S3. */}}
+{{/*
+  Example:
+  {{< asset-static file="assets/slides/2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint, 5.7 MB, 26 pages)" >}}
+*/}}
+
+
+{{- $cdnurl := .Site.Params.cdnurl -}}
+
+{{- if .Get "file" -}}
+  {{- $file := .Get "file" -}}
+  {{- $label := .Get "label" -}}
+
+  {{- $fileBaseCDN := printf "%s/static/%s" $cdnurl $file -}}
+
+  <a href="{{ $fileBaseCDN }}">{{ $label }}</a>
+{{ end }}
