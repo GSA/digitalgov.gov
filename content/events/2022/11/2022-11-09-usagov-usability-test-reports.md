@@ -30,7 +30,7 @@ primary_image: usagov-ux-test-reports-title-card
 
 ---
 
-[View the slides (PowerPoint, 5.7 MB, 26 pages)](https://digital.gov/files/usagov-usability-test-reports.pptx)
+{{< asset-static file="2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint, 5.7 MB, 26 pages)" >}}
 
 Join us as Joanne McGovern shares reports from usability tests on the next English and Spanish  versions of USA.gov — beta.USA.gov and beta.usa.gov/es.
 

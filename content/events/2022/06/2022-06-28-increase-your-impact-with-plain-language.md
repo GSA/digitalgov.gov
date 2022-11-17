@@ -1,6 +1,6 @@
 ---
 title: Increase Your Impact With Plain Language
-deck: 
+deck:
 kicker: Plain Language
 summary: Get tips and lessons learned from the U.S. Department of Justice Civil Rights Division on using plain language to increase their impact and influence.
 host: Plain Language Community of Practice
@@ -26,7 +26,7 @@ primary_image: increase-your-impact-with-plain-language-title-card
 
 ---
 
-[View the slides (PowerPoint, 8.4 MB, 33 pages)](https://digital.gov/files/increase-your-impact-with-plain-language-slides.pptx)
+{{< asset-static file="increase-your-impact-with-plain-language-slides.pptx" label="View the slides (PowerPoint, 8.4 MB, 33 pages)" >}}
 
 **This event is limited to federal employees and contractors with government email addresses.**
 

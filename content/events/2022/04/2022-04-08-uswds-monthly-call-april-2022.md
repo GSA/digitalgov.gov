@@ -28,7 +28,7 @@ primary_image: uswds-monthly-call-april-title-card
 
 ---
 
-[View the slides (PowerPoint, 2.66 MB, 16 pages)](https://digital.gov/files/uswds-monthly-call-april-2022.pptx)
+{{< asset-static file="uswds-monthly-call-april-2022.pptx" label="View the slides (PowerPoint, 2.66 MB, 16 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2022" icon="content_copy" >}}
 
@@ -38,15 +38,15 @@ primary_image: uswds-monthly-call-april-title-card
 
 First, I'd like to mention that we're recording this monthly call, so please refrain from turning on your camera. We will manually turn off any cameras to ensure the recording doesn't show us on camera. Unfortunately, while we are recording this call, we currently aren't able to share the video publicly.
 
-I’d also like to remind you that all attendees must abide by the TTS Code of Conduct, which is available at [handbook.tts.gsa.gov/code-of-conduct] (https://handbook.tts.gsa.gov/about-us/code-of-conduct/). We’ve posted the link to the code of conduct in the chat. 
+I’d also like to remind you that all attendees must abide by the TTS Code of Conduct, which is available at [handbook.tts.gsa.gov/code-of-conduct] (https://handbook.tts.gsa.gov/about-us/code-of-conduct/). We’ve posted the link to the code of conduct in the chat.
 
-We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
+We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 
 So thanks! And, with that, let's get started!
 
-**Slide 3:** So what's our agenda for today? 
+**Slide 3:** So what's our agenda for today?
 First we'll show off a couple new site launches.
 Then I've got a couple quick product updates.
 And then we'll talk with Matthew Bogdan from Digital.gov to talk about his experience with USWDS 3.0 and migration in the real world.
