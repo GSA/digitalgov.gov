@@ -65,8 +65,6 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 {{< tweet user="ePolicyWorks" id="601374497288146944" >}}
 
-<!-- {{< tweet user="CorinaDuBois" id="601388501872091137" >}} -->
-
 {{< tweet user="jakegab" id="601206392905674752" >}}
 
 {{< tweet user="lauraandotis" id="601432623186051072" >}}
