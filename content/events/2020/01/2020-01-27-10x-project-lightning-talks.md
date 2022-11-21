@@ -48,8 +48,8 @@ In a set of 5-minute presentations, the 10x project teams will outline:
  - Current project status
  - How to get in touch with projects and the 10x team
 
-[View the slides](https://digitalgov.gov/pdf/10x-Project-Lightning-Talks.pdf) (PDF, 13 MB, 56 pages)
 
+{{< asset-static file="10x-Project-Lightning-Talks.pdf" label="View the slides (PDF, 13 MB, 56 pages)" >}} 
  ---
 
 ## Related Links
