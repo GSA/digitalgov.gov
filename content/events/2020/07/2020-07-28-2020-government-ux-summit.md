@@ -60,7 +60,7 @@ weight: 0
 
 {{< accordion kicker="Day 1" title="UX Methods - July 28" icon="content_copy" >}}
 
-- [Read the transcript](https://digital.gov/pdf/2020-07-28-UX-Summit-Captioning-Tues-AM.pdf ) (PDF, 125 KB, 13 pages)
+{{< asset-static file="2020-07-28-UX-Summit-Captioning-Tues-AM.pdf" label="Read the transcript (PDF, 125 KB, 13 pages)" >}}
 
 ## First Session – 10-minute presentations 11:30 AM – 12:30 PM ET
 

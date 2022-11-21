@@ -49,7 +49,8 @@ In a set of 5-minute presentations, the 10x project teams will outline:
  - How to get in touch with projects and the 10x team
 
 
-{{< asset-static file="10x-Project-Lightning-Talks.pdf" label="View the slides (PDF, 13 MB, 56 pages)" >}} 
+{{< asset-static file="10x-Project-Lightning-Talks.pdf" label="View the slides (PDF, 13 MB, 56 pages)" >}}
+
  ---
 
 ## Related Links
