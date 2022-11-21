@@ -41,7 +41,7 @@ Join us for an exciting virtual event as we celebrate Hispanic Heritage Month! 
 * **Laura Godfrey**, U.S. General Services Administration (GSA)
 * **Claire Loxsom**, U.S. General Services Administration (GSA)
 
-[View the slides](https://digital.gov/files/multilingual-event-hispanic-heritage-month.pptx)
+{{< asset-static file="multilingual-event-hispanic-heritage-month.pptx" label="View the slides" >}}
 
 - - -
 *This talk is hosted by the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and Digital.gov. The Multilingual CoP is a group of federal, state, and local government digital professionals working to expand and improve digital content in languages other than English.*

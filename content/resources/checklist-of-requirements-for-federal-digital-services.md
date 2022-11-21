@@ -25,7 +25,7 @@ You should regularly review your agency's websites and other digital products an
 
 ## Overarching Policies
 
-These high-level policies cover basic requirements for all websites and digital services. Use this handy [Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs)](https://digital.gov/files/10-2021-checklist-for-federal-websites-and-digital-services.xlsx) to ensure you've addressed all critical requirements.
+These high-level policies cover basic requirements for all websites and digital services. Use this handy {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs)" >}} to ensure you've addressed all critical requirements.
 
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
@@ -72,7 +72,7 @@ Understand customer needs, set performance standards, collect and address custom
 
 
 <p class="more">
-  <a href="{{< ref "/topics/metrics" >}}">More on Metrics 
+  <a href="{{< ref "/topics/metrics" >}}">More on Metrics
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
@@ -124,7 +124,7 @@ Follow current government design standards when creating new websites or making 
 - [Website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
 
 <p class="more">
-  <a href="{{< ref "/topics/design" >}}">More on Design 
+  <a href="{{< ref "/topics/design" >}}">More on Design
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
@@ -228,7 +228,7 @@ Comply with the requirements of Executive Order 13166, based on Title VI of the 
 
 <p class="more">
   <a href="{{< ref "/topics/multilingual" >}}">
-    More on Multilingual 
+    More on Multilingual
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
