@@ -13,7 +13,7 @@ topics:
 
 ---
 
-> This guide was created by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration
+_This guide was created by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration._
 
 JavaScript usage, CSS usage, image and resource sizing, caching/network usage, and pop-ups. These are the top practices that the most visited government websites should focus on in order to be more mobile-friendly. But how can you work on each of these areas to help ensure your website keeps mobile users delighted and coming back?
 
@@ -51,7 +51,7 @@ The information here outlines the top five practices we found across these sites
 
 Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code.
 
-{{< img src="army-mobile" >}}
+{{< img src="army-mobile" alt="A closeup on the hands of a person wearing Army camouflage, holding a cell phone with the Army website homepage on the screen." >}}
 
 ## 1. Optimize JavaScript
 
