@@ -37,7 +37,7 @@ youtube_id: uVvP6qeaZPY
 # Make it better ♥
 
 ---
-_[View the slides from this presentation](https://digital.gov/pdf/sessions-unique-page-views.pdf)._
+_{{< asset-static file="sessions-unique-page-views.pdf" label="View the slides from this presentation." >}}_
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3946624&CustomerID=321)._
 

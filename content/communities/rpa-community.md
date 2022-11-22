@@ -46,4 +46,4 @@ The RPA CoP comprises leaders across the federal government who share a passion 
 * [RPA Guide]({{< ref "guides/rpa" >}})
 * [RPA Playbook]({{< ref "rpa-playbook.md" >}})
 * [Federal Use Case Inventory]({{< ref "rpa-use-case-inventory.md" >}})
-* [Rapid Process Transformation (RPT) Handbook](https://digital.gov/pdf/rpt-rapid-process-transformation-handbook-final-08-12-2021.pdf) (PDF, 3.7 MB, 36 pages)
+* {{< asset-static file="rpt-rapid-process-transformation-handbook-final-08-12-2021.pdf" label="Rapid Process Transformation (RPT) Handbook" >}} (PDF, 3.7 MB, 36 pages)

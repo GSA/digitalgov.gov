@@ -25,9 +25,9 @@ Specifically, the report:
 {{< box >}}
 **Read the current State of Federal RPA Report**
 
-* [December 29, 2021 (PDF, 3.2 MB, 30 pages)](https://digital.gov/pdf/state-of-federal-rpa-report-12-2021.pdf)
+* {{< asset-static file="state-of-federal-rpa-report-12-2021.pdf" label="December 29, 2021 (PDF, 3.2 MB, 30 pages)" >}}
 
 Read last year's Report: 
 
-* [November 1, 2020 (PDF, 1.6 MB, 21 pages)](https://digital.gov/pdf/state-of-federal-rpa.pdf)
+* {{< asset-static file="state-of-federal-rpa.pdf" label="November 1, 2020 (PDF, 1.6 MB, 21 pages)" >}}
 {{< /box >}}
