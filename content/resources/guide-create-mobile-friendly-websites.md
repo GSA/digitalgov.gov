@@ -2,13 +2,15 @@
 slug: guide-create-mobile-friendly-websites
 date: 2018-09-29 12:30:00 -0500
 title: "A Guide to Creating Mobile-Friendly Websites"
+deck: Five tactics for improving the performance of your website
 summary: "Based on a recent six-month study, this guide outlines the top five practices needed to improve the mobile-friendliness of federal websites&#58; the optimization of JavaScript, CSS, and images, caching, and pop-ups&#46;"
 featured_image:
   uid: army-mobile
 topics:
   - mobile
   - strategy
-deck: Five tactics for improving the performance of your website
+  - mobile-gov-community-of-practice
+
 ---
 
 > This guide was created by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration
