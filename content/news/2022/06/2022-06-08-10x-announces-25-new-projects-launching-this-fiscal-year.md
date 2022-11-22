@@ -10,6 +10,8 @@ topics:
   - data
   - emerging-tech
   - multilingual
+  - multilingual-community
+  - 10x
   - cx
   - user-research
 primary_image: 10x-new-logo-fy22-1200-x-628b
