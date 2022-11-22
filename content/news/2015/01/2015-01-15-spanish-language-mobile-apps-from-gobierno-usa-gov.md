@@ -29,11 +29,11 @@ topics:
 
 In mobile app development, if you aren&#8217;t making it multilingual, you miss providing anytime, anywhere information and services to important mobile-only audiences.
 
-{{< legacy-img src="2015/01/600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage.jpg" alt="600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage" >}}
+{{< legacy-img src="2015/01/600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage.jpg" alt="Screen capture of the homepage for the Social Security Administration's Spanish website, Seguro Social." >}}
 
 Regular DigitalGov readers know that we&#8217;ve touched on [Hispanic mobile trends]({{< ref "2014-09-30-trends-on-tuesday-meet-the-mobile-power-users.md" >}}) before, including the [high rates of mobile usage among Hispanic millennials]({{< ref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}).
 
-{{< legacy-img-right src="2015/01/250-x-444-Marti-Noticias-app-on-Android-phone.jpg" alt="250-x-444-Marti-Noticias-app-on-Android-phone" >}}
+{{< legacy-img-right src="2015/01/250-x-444-Marti-Noticias-app-on-Android-phone.jpg" alt="Screen capture of the Marti Noticias app on an Android phone." >}}
 
 Today, we’re highlighting five Spanish language apps from the Spanish Version of the USA.gov Federal Mobile Apps Directory hosted by Gobierno.USA.gov, [Aplicaciones Móviles](http://www.usa.gov/gobiernousa/conectese-gobierno/apps.moviles.shtml). Multilingual app development is one way federal agencies meet the diverse needs of the U.S. population, and the listing below reflects the breadth of agencies involved in multilingual outreach.
 
