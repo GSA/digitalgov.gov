@@ -218,9 +218,9 @@ While the definition used for the “X” choice is a little muddy, blurring the
 
 So research is ongoing and there are a lot of smart folks trying to figure out how we can ask about sex and gender in a way that 
 
-Supports programs’ abilities to serve people
-Captures information needed for identity validation and reporting requirements
-Is respectful and inclusive
+- Supports programs’ abilities to serve people
+- Captures information needed for identity validation and reporting requirements
+- Is respectful and inclusive
 
 So what does this mean for the USWDS pattern guidance?
 
