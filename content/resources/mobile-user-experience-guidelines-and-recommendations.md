@@ -10,8 +10,11 @@ authors:
 topics:
   - mobile
   - user-experience
+  - mobile-gov
+  - mobile-gov-community-of-practice
 aliases:
   - /resources/mobile-user-experience-guidelines-and-recommendations/
+
 ---
 
 If your app doesn&#8217;t have a good user experience, it goes to the [app graveyard]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
