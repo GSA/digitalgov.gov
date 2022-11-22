@@ -27,7 +27,7 @@ youtube_id: CL6lOwJEMGQ
 
 ---
 
-[View the slides](https://digital.gov/pdf/accessibility-tips-tricks-may-2021.pdf) (PDF, 491 KB, 16 pages)
+{{< asset-static file="accessibility-tips-tricks-may-2021.pdf" label="View the slides" >}} (PDF, 491 KB, 16 pages)
 
 This session is intended to bring attention to some of the common errors and issues that users have when developing accessible content; including presentations, spreadsheets, and documents. 
 

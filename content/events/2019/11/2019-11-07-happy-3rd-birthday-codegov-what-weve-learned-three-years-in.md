@@ -32,7 +32,7 @@ weight: 0
 # Make it better ♥
 ---
 
-_[View the slides](http://digitalgov.gov/pdf/Happy3rdBDayCode.gov.pdf)_ (PDF, 372 KB, 22 pages)
+_{{< asset-static file="Happy3rdBDayCode.gov.pdf" label="View the slides" >}}_ (PDF, 372 KB, 22 pages)
 
 It’s [Code.gov](https://code.gov/)’s 3rd birthday! As we celebrate our 3rd trip around the sun, we wanted to share where we’ve been, where we are going, and the implementation of the federal source code policy.
 

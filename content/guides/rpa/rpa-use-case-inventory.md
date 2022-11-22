@@ -10,8 +10,7 @@ guide: rpa
 
 The Federal RPA CoP developed the “RPA Use Case Inventory (UCI)”, which provides detailed information on over 300 RPA Use Cases across the federal government. For each automation, the inventory includes descriptive data such as agency name, business function, a high-level description of the use case, and an estimate of the annualized capacity provided.
 
-{{< button href="https://digital.gov/pdf/federal-rpa-use-case-inventory-compliant.pdf" text="Download the RPA Use Case Inventory" >}}  (PDF, 271.08 KB, 13 pages)
-
+{{< asset-static file="federal-rpa-use-case-inventory-compliant.pdf" label="Download the RPA Use Case Inventory" >}}  (PDF, 271.08 KB, 13 pages)
 ### Purpose of the RPA Use Case Inventory
 
 By collecting and sharing solutions across the federal government, RPA CoP is pursuing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.

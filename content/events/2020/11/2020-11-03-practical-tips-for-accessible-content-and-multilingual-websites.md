@@ -28,8 +28,7 @@ youtube_id: MCaMRyl6svQ
 
 ---
 
-[View the accessible slides](https://digital.gov/pdf/2020-12-03-practical-tips-for-accessible-content-and-multilingual-websites.pdf) (PDF, 2.71 MB, 37 pages)
-
+{{< asset-static file="2020-12-03-practical-tips-for-accessible-content-and-multilingual-websites.pdf" label="View the accessible slides" >}} (PDF, 2.71 MB, 37 pages)
 Integrating accessibility into your everyday practice ensures access for people with disabilities. 
 
 In this talk, we’ll go over the central principles of digital accessibility and how these principles remove access barriers and improve user experience for everyone. We’ll cover key ways you can create content that is usable and understandable. Lastly, we’ll touch on the accessibility considerations needed when creating and working with multilingual platforms and content.
