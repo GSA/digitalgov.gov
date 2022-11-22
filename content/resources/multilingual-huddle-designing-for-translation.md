@@ -6,6 +6,7 @@ summary: " In this webinar, Laura Godfrey and Fedora Braverman share tips for
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
+  - multilingual-community
   - design
   - content
   - plain-language
@@ -20,6 +21,7 @@ primary_image: multilingual-huddle-cfpb-homepage-vietnamese
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
 
 Designing for translation is a way of working that goes beyond translating words. When we think of translation, we usually think we need to only translate text. But what if that isn't enough?
