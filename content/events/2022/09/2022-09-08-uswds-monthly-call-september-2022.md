@@ -13,6 +13,7 @@ topics:
   - uswds
   - user-experience
   - multilingual
+  - multilingual-community
   - content
   - design
 # See all authors at https://digital.gov/authors
