@@ -7,7 +7,10 @@ deck:
 topics:
   - mobile
   - strategy
+  - mobile-gov-community-of-practice
+  - mobile-gov
 aliases:
+
 ---
 
 _This guide was developed by the [MobileGov](https://digital.gov/communities/mobile/) Communtiy of Practice._
