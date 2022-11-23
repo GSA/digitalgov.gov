@@ -2,6 +2,9 @@
 {{/*
   Example:
   {{< asset-static file="2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint, 5.7 MB, 26 pages)" >}}
+
+  If link is a button link, use button="true":
+  {{< asset-static button="true" file="2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint, 5.7 MB, 26 pages)" >}}
 */}}
 
 
@@ -13,5 +16,5 @@
 
   {{- $fileBaseCDN := printf "%s/static/%s" $cdnurl $file -}}
 
-  <a href="{{ $fileBaseCDN }}">{{ $label }}</a>
+  <a href="{{ $fileBaseCDN }}" {{- if .Get "button" -}}class="usa-button usa-button--outline"{{- end -}}>{{ $label }}</a>
 {{ end }}

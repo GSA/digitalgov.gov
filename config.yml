@@ -58,8 +58,6 @@ markup:
     ordered: false
     startLevel: 1
 
-enableInlineShortcodes: true
-
 params:
   description: "Guidance on building better digital services in government"
   agency_refer: "U.S. General Services Administration"
