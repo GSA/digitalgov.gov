@@ -56,7 +56,7 @@ In this session you will hear from the following speakers:
 
 * **10:00 am - 10:30 am: Welcome & Annual Report**&mdash;Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN) and Katina Stapleton, co-chair of PLAIN
 * **10:35 am - 11:15 am: Putting Plain Language to the Test**&mdash;Nicole Fenton, Senior Content Strategist
-  - [View the slides](https://digital.gov/pdf/pl-summit-2020-nicole-fenton.pdf) (PDF, 18.7 MB, 43 pages)
+  - {{< asset-static file="pl-summit-2020-nicole-fenton.pdf" label="View the slides" >}} (PDF, 18.7 MB, 43 pages)
 * **11:15 am - 12:15 pm: Keynote**&mdash;Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
 
 {{< youtube EsJh0GuGYDA >}}
@@ -66,10 +66,10 @@ In this session you will hear from the following speakers:
 In this session you will hear from the following speakers:
 
 * **2:00 pm - 3:00 pm: Government CX: Intersection of CX and PL**&mdash;Martha Dorris, Independent Consultant
-  - [View the slides](https://digital.gov/pdf/pl-summit-2020-martha-dorris.pdf) (PDF, 4.68 MB, 20 pages)
+  - {{< asset-static file="pl-summit-2020-martha-dorris.pdf" label="View the slides" >}} (PDF, 4.68 MB, 20 pages)
 * **3:00 pm - 3:30 pm: How We Got the Plain Writing Act Passed**&mdash;Annetta Cheek, Chair, Standards Committee, International Federation for Plain Language
 * **3:30 pm - 4:15 pm: Flimsy Claims for Legalese and False Criticisms of Plain Language: A 30-Year Collection**&mdash;Joe Kimble, Professor Emeritus, Western Michigan University
-  - [View the slides](https://digital.gov/pdf/pl-summit-2020-joseph-kimble.pdf) (PDF, 112 KB, 14 pages)
+  - {{< asset-static file="pl-summit-2020-joseph-kimble.pdf" label="View the slides" >}} (PDF, 112 KB, 14 pages)
 
 
 {{< youtube -pP0JEJ3FHo >}}
@@ -81,11 +81,11 @@ In this session you will hear from the following speakers:
 In this session you will hear from the following speakers:
 
 * **9:30 am - 10:00 am: Use Plain Language to Influence, Motivate & Mobilize for Change**&mdash;Bethany Blakey, Chief Modernization Strategist, CoE, TTS
-  - [View the slides](https://digital.gov/pdf/pl-summit-2020-bethany-blakey.pdf) (PDF, 1020 KB, 16 pages)
+  - {{< asset-static file="pl-summit-2020-bethany-blakey.pdf" label="View the slides" >}} (PDF, 1020 KB, 16 pages)
 * **10:00 am - 11:00 am: Content Strategy**&mdash;Ginny Redish
-  - [View the slides](https://digital.gov/pdf/pl-summit-2020-ginny-redish.pdf) (PDF, 9.15 MB, 40 pages)
+  - {{< asset-static file="pl-summit-2020-ginny-redish.pdf" label="View the slides" >}} (PDF, 9.15 MB, 40 pages)
 * **11:00 am - 12:00 pm: Sense making lessons from the Private Sector**&mdash;Abby Covert, Information Architect & Author
-  - [View the slides](https://digital.gov/pdf/pl-summit-2020-abby-covert.pdf) (PDF, 11.2 MB, 53 pages)
+  - {{< asset-static file="pl-summit-2020-abby-covert.pdf" label="View the slides" >}} (PDF, 11.2 MB, 53 pages)
 
 {{< youtube iXxy9b9NHRg >}}
 
@@ -94,7 +94,7 @@ In this session you will hear from the following speakers:
 In this session you will hear from the following speakers:
 
 * **2:00 pm - 3:00 pm: How Smart Teams Create and Train Writers**&mdash;Scott Kubie, Independent Consultant
-  - [View the slides](https://digital.gov/pdf/pl-summit-2020-scott-kubie.pdf) (PDF, 9.26 MB, 23 pages)
+  - {{< asset-static file="pl-summit-2020-scott-kubie.pdf" label="View the slides" >}} (PDF, 9.26 MB, 23 pages)
 * **3:00 pm - 4:00 pm: Plain Language**&mdash;Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)
 
 {{< youtube OllB0f5fNc0 >}}

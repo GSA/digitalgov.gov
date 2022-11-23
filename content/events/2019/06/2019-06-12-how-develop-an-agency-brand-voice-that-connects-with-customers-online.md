@@ -39,7 +39,7 @@ weight: 0
 # Make it better ♥
 ---
 
-[Read the event transcript](https://digital.gov/pdf/PLAIN-06122019-Transcript.pdf) (PDF, 84 KB, 12 pages) 
+{{< asset-static file="PLAIN-06122019-Transcript.pdf" label="Read the event transcript" >}} (PDF, 84 KB, 12 pages) 
 
 Is your agency using a tone of voice that connects with customers online, or is it using a stale, bureaucratic voice that repels them and breeds distrust or confusion? 
  
