@@ -174,5 +174,7 @@ In terms of the application process, the U.S. Digital Corps has one of the most 
 
 {{< box >}} **Join Us**
 
-Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications are open until **November 30, 2022**). For more mid- and senior-level technologists, [Join GSA’s Technology Transformation Services](https://join.tts.gsa.gov/).
+Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities. Applications are open until **November 30, 2022**.
+
+For more mid- and senior-level technologists, [join GSA’s Technology Transformation Services](https://join.tts.gsa.gov/).
 {{< /box >}}
