@@ -1,4 +1,33 @@
-console.log("empty img-process.js");
+console.log("img-process.js");
+const sharp = require("sharp");
+const fs = require("fs")
+
+const source = 'content/images/_working/to-process/buffalo-bison.jpg';
+
+// const directoryPath = path.join(__dirname, source);
+
+const destination = 'content/images/_working/processed/';
+
+sharp(source)
+  .rotate()
+  .resize(200)
+  .jpeg({ mozjpeg: true })
+  .metadata()
+  .then(function(metadata) {
+    console.log(metadata);
+  })
+//   .toBuffer()
+//   .then( data => {
+//     console.log(data)
+//     fs.writeFile(`${destination}./test-image.jpg`, data, () => {
+//       console.log(data.metadata.format);
+//     })
+//    })
+  .catch( err => { 
+    console.log(err)
+   });
+
+
 // const { src, dest, parallel } = require("gulp");
 // const responsive = require("gulp-responsive");
 
