@@ -19,7 +19,7 @@
   {{- $fileBaseCDN := printf "%s/static/%s" $cdnurl $file -}}
 
   <a href="{{ $fileBaseCDN }}"
-    {{- if .Get "button" -}}class="usa-button {{ if .Get "button-variant" }}usa-button--{{ .Get "button-variant" }}{{ end }}" {{- end -}}>
+    {{- if .Get "button" -}}class="usa-button{{ if .Get "button-variant" }} usa-button--{{ .Get "button-variant" }}{{ end }}" {{- end -}}>
     {{ $label }}
   </a>
   
