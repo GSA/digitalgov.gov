@@ -28,7 +28,7 @@ youtube_id: fYJUdp83f_M
 
 ---
 
-{{< asset-static file="usability-testing-for-documents-apr-2021.pdf" label="View the slides" >}} (PDF, 13.9 MB, 51 pages)
+{{< asset-static file="usability-testing-for-documents-apr-2021.pdf" label="View the slides (PDF, 13.9 MB, 51 pages)" >}}
 
 Have you ever wondered whether people will be able to understand and use your letters, notices, fact sheets, or other documents? Usability testing isn't only for websites. Come work with Dr. Ginny Redish and learn three techniques for quick and easy ways to test documents' usability: paraphrase, plus/minus, and task-based.
 

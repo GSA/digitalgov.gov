@@ -35,7 +35,7 @@ Join SocialGov for a week of afternoon sessions on all things federal social med
 
 ## Session One
 
-  - {{< asset-static file="socialgov-week-2020-session-1.pdf" label="View the slides" >}} (PDF, 3.58 MB, 20 pages)
+  - {{< asset-static file="socialgov-week-2020-session-1.pdf" label="View the slides (PDF, 3.58 MB, 20 pages)" >}}
 
 ### Monday, December 7, 2:00 pm - 2:45 pm, ET
 
@@ -51,7 +51,7 @@ In this session you will hear from the following speakers:
 
 ## Session Two
 
-  - {{< asset-static file="socialgov-week-2020-session-2.pdf" label="View the slides" >}} (PDF, 1.42 MB, 16 pages)
+  - {{< asset-static file="socialgov-week-2020-session-2.pdf" label="View the slides (PDF, 1.42 MB, 16 pages)" >}}
 
 ### Tuesday, December 8, 2:00 pm - 2:45 pm, ET
 
@@ -68,7 +68,7 @@ In this session you will hear from:
 
 ## Session Three 
 
-  - {{< asset-static file="socialgov-week-2020-session-3.pdf" label="View the slides" >}} (PDF, 2.08 MB, 14 pages)
+  - {{< asset-static file="socialgov-week-2020-session-3.pdf" label="View the slides (PDF, 2.08 MB, 14 pages)" >}}
 
 ### Wednesday, December 9, 12:00 pm -12:45 pm, ET
 
@@ -100,7 +100,7 @@ In this session you will hear from:
 
 ## Session Five
 
-  - {{< asset-static file="socialgov-week-2020-session-5.pdf" label="View the slides" >}} (PDF, 2.22 MB, 19 pages)
+  - {{< asset-static file="socialgov-week-2020-session-5.pdf" label="View the slides (PDF, 2.22 MB, 19 pages)" >}}
 
 ### Thursday, December 10, 2:00 pm - 2:45 pm, ET
 
@@ -128,7 +128,7 @@ In this session you will hear from:
 
 ## Session Seven
 
-  - {{< asset-static file="socialgov-week-2020-session-7.pdf" label="View the slides" >}} (PDF, 850 KB, 6 pages)
+  - {{< asset-static file="socialgov-week-2020-session-7.pdf" label="View the slides (PDF, 850 KB, 6 pages)" >}}
 
 ### Friday, December 11, 1:00 pm - 2:00 pm, ET
 

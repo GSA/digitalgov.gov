@@ -35,7 +35,7 @@ youtube_id: hbx8Yrj3zS0
 # Make it better ♥
 ---
 
-{{< asset-static file="Deep-Dive-Into-Behavior-Reports.pdf" label="View the slides" >}} (PDF, 6.56 MB, 21 pages)
+{{< asset-static file="Deep-Dive-Into-Behavior-Reports.pdf" label="View the slides (PDF, 6.56 MB, 21 pages)" >}} 
 
 Google divides the user website journey across different sections of Google Analytics Standard Reports.
 

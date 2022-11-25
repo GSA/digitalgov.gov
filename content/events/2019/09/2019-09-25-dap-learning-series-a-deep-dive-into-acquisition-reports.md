@@ -40,7 +40,7 @@ weight: 0
 
 ---
 
-_{{< asset-static file="Deep-Dive-Into-Acquisition-Reports.pdf" label="View slides for this event." >}} (PDF, 4.52 MB, 19 pages)_
+_{{< asset-static file="Deep-Dive-Into-Acquisition-Reports.pdf" label="View slides for this event (PDF, 4.52 MB, 19 pages)." >}}_
 
 The acquisition reporting section contains some of the most valuable data in Google Analytics, but if you don’t track your acquisition traffic properly, you might not be using it to its full potential. In this training, attendees will learn:
 

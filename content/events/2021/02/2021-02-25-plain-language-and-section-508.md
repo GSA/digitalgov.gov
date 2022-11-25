@@ -32,7 +32,7 @@ youtube_id: n_WYcQnVOf4
 
 ---
 
-{{< asset-static file="plain-accessibility-slides-march-2021.pdf" label="View the accessible slides" >}} (PDF, 186 KB, 17 pages)
+{{< asset-static file="plain-accessibility-slides-march-2021.pdf" label="View the accessible slides (PDF, 186 KB, 17 pages)" >}}
 
 The presentation will focus on concerns and opportunities shared by the Section 508 and plain language communities. Topics will include:
 

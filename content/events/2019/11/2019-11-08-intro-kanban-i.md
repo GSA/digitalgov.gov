@@ -41,7 +41,7 @@ primary_image: "agile-kanban-part-1"
 # Make it better ♥
 ---
 
-_{{< asset-static file="IntroToKanbanPartI.pdf" label="View the slides" >}}_ (PDF, 24.7 MB, 34 pages)
+_{{< asset-static file="IntroToKanbanPartI.pdf" label="View the slides (PDF, 24.7 MB, 34 pages)" >}}_
 
 ## About this session — Kanban, Part I
 

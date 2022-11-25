@@ -35,7 +35,7 @@ This event will include:
 
 **To read more, head to [10x.gsa.gov](https://10x.gsa.gov)!**
 
-**And to learn how to submit an idea, read the {{< asset-static file="10x-General-Slick-v3.pdf" label="10x one-pager here" >}} (PDF, 351 KB, 1 page)!**
+**And to learn how to submit an idea, read the {{< asset-static file="10x-General-Slick-v3.pdf" label="10x one-pager here (PDF, 351 KB, 1 page)" >}}!**
 
 
 - - -

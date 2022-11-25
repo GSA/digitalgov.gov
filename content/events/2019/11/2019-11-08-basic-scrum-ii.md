@@ -41,7 +41,7 @@ primary_image: "agile-scrum-part-2"
 # Make it better ♥
 ---
 
-{{< asset-static file="BasicScrumPtII.pdf" label="View the slides" >}} (PDF, 991 KB, 27 pages)
+{{< asset-static file="BasicScrumPtII.pdf" label="View the slides (PDF, 991 KB, 27 pages)" >}}
 ## About this session — Basics of Scrum, Part II
 
 The second session on Scrum will go into more detail about what is happening during each of the Scrum ceremonies. Topics will include Sprint Planning, During the Sprint, Sprint Review, Sprint Retrospective, and Benefits of Scrum. We’ve tried to keep the prepared material a bit shorter to leave time for more questions and discussion.

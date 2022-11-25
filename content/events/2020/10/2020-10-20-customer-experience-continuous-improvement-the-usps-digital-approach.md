@@ -31,7 +31,7 @@ youtube_id: I3wywGJ4KHA
 
 ---
 
-{{< asset-static file="2020-11-12-usps-cx-slides.pdf" label="View the accessible slides" >}} (PDF, 17.7 MB, 48 pages)
+{{< asset-static file="2020-11-12-usps-cx-slides.pdf" label="View the accessible slides (PDF, 17.7 MB, 48 pages)" >}}
 
 USPS.com is an anomaly among U.S. federal government websites. An eCommerce platform that generates over $1 billion in annual revenue, it collaborates with international postal services while partnering and competing with private-sector partners (FedEx, UPS, Stamps.com, etc.) and eCommerce websites of all sizes. As a result, USPS.com exists in two worlds: that of a highly regulated government website, and that of for-profit private business.
 

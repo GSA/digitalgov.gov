@@ -117,7 +117,7 @@ That’s where Service Design comes in.
 Learn about the similarities and differences between Product Design and Service Design, how they co-exist, and more importantly, when to use them!
 
 - [Watch the video](https://www.youtube.com/watch?v=Ff8VCuKxNd0&t=186s)
-- [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-29-UX-Summit-Captioning-Wed-AM.pdf) (PDF, 130 KB, 13 pages)
+- {{< asset-static file="2020-07-29-UX-Summit-Captioning-Wed-AM.pdf" label="Read the transcript (PDF, 130 KB, 13 pages)" >}}
 
 
 

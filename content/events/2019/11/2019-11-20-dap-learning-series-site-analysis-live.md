@@ -39,7 +39,7 @@ weight: 0
 # Make it better ♥
 ---
 
-{{< asset-static file="DAPLearningSeries.pdf" label="View the slides" >}} (PDF, 922KB, 25 pages) (PDF, 5.4 MB, 27 pages)
+{{< asset-static file="DAPLearningSeries.pdf" label="View the slides (PDF, 5.4 MB, 27 pages)" >}}
 
 DAP users often ask – _“How should I analyze my site?”_
 
