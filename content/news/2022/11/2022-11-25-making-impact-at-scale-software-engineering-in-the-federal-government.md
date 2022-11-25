@@ -2,12 +2,16 @@
 date: 2022-11-25 12:19:00 -0500
 kicker: U.S. Digital Corps
 title: "Making Impact at Scale: Software Engineering in the Federal Government"
-deck: Engineering fellows with the U.S. Digital Corps share their paths to
-  becoming software engineers and why they decide to use their skills to improve
-  government services.
-summary: Engineering fellows with the U.S. Digital Corps share their paths to
-  becoming software engineers and why they decide to use their skills to improve
-  government services.
+deck: Engineering fellows with the U.S. Digital Corps share their paths to becoming software engineers and why they decide to use their skills to improve government services.
+summary: Engineering fellows with the U.S. Digital Corps share their paths to becoming software engineers and why they decide to use their skills to improve government services.
+
+# see all authors at https://digital.gov/authors
+authors:
+  - meenu-bhooshanan
+  - isabel-laurenceau
+  - samira-sadat
+  - anastasia-gradova
+
 # See all topics at https://digital.gov/topics
 topics:
   - our-work
@@ -21,7 +25,9 @@ primary_image: usdc-making-impact-at-scale
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Launched in August 2021, the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) is the newest technology fellowship in the federal government. The Digital Corps has a specific focus on recruiting, hiring, and supporting early-career technologists across various skill tracks—software engineering, data science and analytics, product management, design, and cybersecurity.
 
 The four of us—Anastasia Gradova, Isabel Laurenceau, Meenu Bhooshanan, and Samira Sadat—joined the Digital Corps as part of the [inaugural June 2022 cohort](http://digitalcorps.gsa.gov/fellows/) and are all new to working in the federal government. When we were considering applying and before we started, one of our biggest questions was, “what does a day in the life of a software engineer look like?” In this blog, we hope to answer this question and also share about our personal motivations in applying to the Digital Corps.
