@@ -172,8 +172,7 @@ One thing I love about this work is that I get to be exposed to areas of interes
 
 In terms of the application process, the U.S. Digital Corps has one of the most respectful, transparent, and well-thought-out processes I have ever been through as an applicant. Though applying for a government job can be a longer process than applying to a private sector company, I stuck with it because I could tell that the folks building the program truly believed in its values and vision.
 
-{{< note >}}
-**Join Us**
+{{< box >}} **Join Us**
 
 Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications are open until **November 30, 2022**). For more mid- and senior-level technologists, [Join GSA’s Technology Transformation Services](https://join.tts.gsa.gov/).
-{{< /note >}}
+{{< /box >}}
