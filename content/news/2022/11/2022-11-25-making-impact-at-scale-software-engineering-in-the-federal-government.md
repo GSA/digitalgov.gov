@@ -92,7 +92,7 @@ I believe in a democracy where every voice is heard. My hope is that Vote.gov wi
 
 ## What does a typical day look like for you on your team? What languages, tools, practices do you use?
 
-***Editor’s note**: U.S. Digital Corps fellows are able to work entirely remotely from across the United States, or hybrid (part-time remote) or in-person with their agency teams, many of which are based in Washington, D.C. Remote fellows have the flexibility to decide their “core hours” in partnership with their teams.*
+***Editor’s note**: U.S. Digital Corps fellows are able to work entirely remotely from across the United States, or hybrid (part-time remote) or in-person with their agency teams, many of which are based in Washington, D.C. Remote fellows have the flexibility to decide their “core hours” in partnership with their teams.
 
 **Anastasia**:
 
@@ -172,8 +172,8 @@ One thing I love about this work is that I get to be exposed to areas of interes
 
 In terms of the application process, the U.S. Digital Corps has one of the most respectful, transparent, and well-thought-out processes I have ever been through as an applicant. Though applying for a government job can be a longer process than applying to a private sector company, I stuck with it because I could tell that the folks building the program truly believed in its values and vision.
 
-{{< note "activity" >}}
+{{< note >}}
 **Join Us**
 
-Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications are open until November 30, 2022). For more mid- and senior-level technologists, [Join GSA’s Technology Transformation Services](https://join.tts.gsa.gov/).
+Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications are open until **November 30, 2022**). For more mid- and senior-level technologists, [Join GSA’s Technology Transformation Services](https://join.tts.gsa.gov/).
 {{< /note >}}
