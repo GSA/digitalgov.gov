@@ -4,8 +4,8 @@ source_url: https://designsystem.digital.gov/together/
 source: uswds
 date: 2022-11-16 16:28:00 -0500
 title: Inclusive Design Patterns Research Report
-deck: The U.S. Web Design System (USWDS) is excited to provide a new library of guidance and examples focused on key digital interactions — what we call design patterns — that foster effective, inclusive, and equitable digital experiences. This online report has four pages; Summary, Findings, What's Next, and Get Involved, and links to the new Patterns section.
-summary: The U.S. Web Design System (USWDS) is excited to provide a new library of guidance and examples focused on key digital interactions — what we call design patterns — that foster effective, inclusive, and equitable digital experiences. This online report has four pages; Summary, Findings, What's Next, and Get Involved, and links to the new Patterns section.
+deck: The U.S. Web Design System (USWDS) is excited to provide a new library of guidance and examples focused on key digital interactions — what we call design patterns — that foster effective, inclusive, and equitable digital experiences. This online report has four pages&mdash;Summary, Findings, What's Next, and Get Involved&mdash;and links to the new Patterns section.
+summary: The U.S. Web Design System (USWDS) is excited to provide a new library of guidance and examples focused on key digital interactions — what we call design patterns — that foster effective, inclusive, and equitable digital experiences. This online report has four pages&mdash;Summary, Findings, What's Next, and Get Involved&mdash;and links to the new Patterns section.
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
