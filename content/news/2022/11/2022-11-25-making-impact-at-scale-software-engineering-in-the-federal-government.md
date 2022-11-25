@@ -92,7 +92,7 @@ I believe in a democracy where every voice is heard. My hope is that Vote.gov wi
 
 ## What does a typical day look like for you on your team? What languages, tools, practices do you use?
 
-***Editor’s note**: U.S. Digital Corps fellows are able to work entirely remotely from across the United States, or hybrid (part-time remote) or in-person with their agency teams, many of which are based in Washington, D.C. Remote fellows have the flexibility to decide their “core hours” in partnership with their teams.
+_**Editor’s note**: U.S. Digital Corps fellows are able to work entirely remotely from across the United States, or hybrid (part-time remote) or in-person with their agency teams, many of which are based in Washington, D.C. Remote fellows have the flexibility to decide their “core hours” in partnership with their teams._
 
 **Anastasia**:
 
