@@ -2,7 +2,7 @@ const component = {
   id: "button",
   label: "Button",
   hint:
-    'example: {{< button href="https://usdigitalregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}',
+    'example: {{< button href="https://touchpoints.digital.gov/" text="Register and Manage Accounts" >}}',
   fields: [
     {
       name: "href",

@@ -12,11 +12,11 @@ authors:
 
 ## For U.S. Government
 
-{{< button href="https://socialmobileregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}
+{{< button href="https://touchpoints.digital.gov/" text="Register and Manage Accounts" >}}
 
 ## For Developers: Using and Improving the API
 
-Access the [U.S. Digital Registry API](https://socialmobileregistry.digitalgov.gov/) or its [GitHub repo](https://github.com/ctacdev/social-media-registry) to test, evaluate, improve and use it.
+Access the [U.S. Digital Registry API](https://touchpoints.app.cloud.gov/registry/) or its [GitHub repo](https://github.com/GSA/touchpoints/wiki/API) to test, explore, and use the data.
 
 ## What is the U.S. Digital Registry?
 
