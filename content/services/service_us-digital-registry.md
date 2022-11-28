@@ -57,14 +57,12 @@ Federal agencies are directed to update these accounts in the U.S. Digital Regis
 {{< note >}}To help confirm the validity of official U.S. Government digital platforms, within 60 days of the publication date of this Memorandum, agencies must register their public-facing digital services such as social media, collaboration accounts, mobile apps and mobile websites, with the U.S. Digital Registry at: [http://www.digitalgov.gov/services/u-s-digital-registry/](http://www.digitalgov.gov/services/u-s-digital-registry/).
 {{< /note >}}
 
-**To register and manage accounts on the U.S. Digital Registry** you must have a [Login.gov](http://login.gov/) account, which is available to federal government employees and contractors with a valid .gov, .mil, or .[fed.us](http://fed.us/) email address.
+**To register and manage accounts on the U.S. Digital Registry** you must have a [Login.gov](https://login.gov/) account, which is available to federal government employees and contractors with a valid .gov, .mil, or .[fed.us](http://fed.us/) email address.
 
-1. Go to the [U.S. Digital Registry](https://touchpoints.digital.gov/)
-2. In the top navigation bar, far right, access the "`LOG IN`" link. You'll be brought to the [Login.gov](http://login.gov/) log-in page for the U.S. Digital Registry.
+1. Go to the U.S. Digital Registry in [Touchpoints](https://touchpoints.digital.gov/)
+2. In the top navigation bar, far right, access the "`Sign in with Login.gov`" link. You'll be brought to the [Login.gov](https://login.gov/) log-in page for the Touchpoints.
 
-If you already have a [Login.gov](http://login.gov/) account with your government email address, you won't have to do anything else. Just use that account information to register or to access accounts on U.S. Digital Registry.
-
-If you don't already have a [Login.gov](http://login.gov/) account with your government email address, follow the instructions to create an account.
+If you don't already have a [Login.gov](https://login.gov/) account with your government email address, follow the instructions to create an account.
 
 _For assistance with your accounts, [email usdigitalregistry@gsa.gov](mailto:usdigitalregistry@gsa.gov)_
 
