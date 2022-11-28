@@ -21,9 +21,10 @@ The scans currently collect the following data about each target URL.  A complet
 | Server Response Code  | Presence of USWDS components  | Presence of DAP snippet | Meta Description Tags  | Presence of Third Party Services  |
 | Redirects  |  USWDS Version | Customizations of the Snippet  | Presence of Robots.txt  | Number of Third Party Services   |
 | Domain  |  Degree of Implementation |   |  Elements of the Robots.txt |   |
-|  Agency Bureau |   |   | Presence of Sitemap.xml  |   |
+|  Agency  |   |   | Presence of Sitemap.xml  |   |
 | Bureau  |   |   | Elements of Sitemap.xml  |   |
 |  404 Configuration |   |   |   |   |
+|  IPv6 Compliance |   |   |   |   |
 
   
 _Have ideas for what else we should be scanning for? Please [file an issue](https://github.com/gsa/site-scanning/issues) or add your idea [to the list of proposed future scans](https://github.com/GSA/site-scanning-documentation/blob/main/pages/candidate-scans.md)!_
