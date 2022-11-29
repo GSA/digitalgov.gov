@@ -50,6 +50,7 @@ jQuery(document).ready(function($) {
 		var branch_link = get_branch_link(branch);
  		var commit_data = $.isArray(data) ? data[0] : data;
 		var commit_date = commit_data.commit.committer.date;
+		console.log("commit_date:", commit_date);
 		var commit_author = (commit_data.author || {}).login;
 		var commit_author_url = 'https://github.com/' + commit_author;
 		var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/'+branch+'/content/' + filepath;
@@ -116,3 +117,20 @@ jQuery(document).ready(function($) {
 	  return date_string;
 	}
 });
+
+
+function todayNow() {
+	// Nov 25, 2022 at 3:57 pm ET
+	const today_date = new Date();
+
+	const dateOptions = {
+		day: "numeric",
+		weekday: "long",
+		month: "long",
+		year: "numeric"
+	}
+
+	console.log("date-testing:", today_date.toLocaleDateString(undefined, dateOptions)) // 11/29/2022
+}
+
+todayNow();
