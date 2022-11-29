@@ -43,3 +43,7 @@
   @include u-float('left');
   @include u-width('card-lg');
 }
+
+.usa-identifier img[alt] {
+  @include u-text('white');
+}
