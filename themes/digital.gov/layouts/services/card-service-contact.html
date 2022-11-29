@@ -58,7 +58,7 @@
   {{- $src := .src -}}
   {{- with .item -}}
   {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-  <div class="card card-service-contact" data-edit-this="{{- $path -}}">
+  <div class="card-service-contact" data-edit-this="{{- $path -}}">
 
     <div class="grid-row grid-gap-2">
       <div class="grid-col-12 tablet:grid-col-3">

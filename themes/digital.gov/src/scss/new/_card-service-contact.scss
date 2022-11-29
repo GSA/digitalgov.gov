@@ -1,23 +1,21 @@
 @use "uswds-core" as *;
 
 // remove .card class and move relevant styles to .card-service-contact
-.card.card-service-contact {
+.card-service-contact {
   @include u-margin-bottom(0);
   @include u-padding-y("105");
+  @include u-padding-x("105");
   @include u-font("sans", "2xs");
   @include u-line-height("sans", 3);
 
-  padding: 1.25rem;
-  @include u-margin-bottom("205");
+  // padding: 1.25rem;
+  // @include u-padding();
   @include u-bg("white");
   @include u-border-bottom("1px", "gray-cool-10", "solid");
-  @include u-padding("105");
-  @include u-padding-bottom(2);
   @include u-bg("white");
 
   @include at-media("tablet") {
-    @include u-margin-bottom(1);
-    @include u-padding("205");
+  // @include u-padding("205");
   }
 
   .copy {
@@ -46,14 +44,16 @@
     }
 
     h3 {
+      @include u-margin(0);
       @include u-font("sans", "sm");
       @include u-line-height("sans", 3);
       a {
         @include u-text("no-underline", !important);
         @include u-text("medium");
+        @include u-color("blue-warm-80");
         &:hover {
           span {
-            @include u-border-bottom("1px", "blue-warm-70v", "solid");
+            @include u-border-bottom("1px", "blue-warm-80", "solid");
           }
         }
       }

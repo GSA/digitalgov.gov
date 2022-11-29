@@ -8,6 +8,7 @@
 }
 .card-service-contact-heading{
   @include u-display('none');
+  @include u-padding-y(0);
   @include at-media('tablet') {
     @include u-display('block');
   }
