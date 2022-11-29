@@ -1,10 +1,25 @@
 @use "uswds-core" as *;
 
+// remove .card class and move relevant styles to .card-service-contact
 .card.card-service-contact {
   @include u-margin-bottom(0);
   @include u-padding-y("105");
   @include u-font("sans", "2xs");
   @include u-line-height("sans", 3);
+
+  padding: 1.25rem;
+  @include u-margin-bottom("205");
+  @include u-bg("white");
+  @include u-border-bottom("1px", "gray-cool-10", "solid");
+  @include u-padding("105");
+  @include u-padding-bottom(2);
+  @include u-bg("white");
+
+  @include at-media("tablet") {
+    @include u-margin-bottom(1);
+    @include u-padding("205");
+  }
+
   .copy {
     @include u-display("flex");
     @include u-flex("align-start");
