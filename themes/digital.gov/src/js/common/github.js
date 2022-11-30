@@ -50,7 +50,6 @@ jQuery(document).ready(function($) {
 		var branch_link = get_branch_link(branch);
  		var commit_data = $.isArray(data) ? data[0] : data;
 		var commit_date = commit_data.commit.committer.date;
-		console.log("commit_date:", commit_date);
 		var commit_author = (commit_data.author || {}).login;
 		var commit_author_url = 'https://github.com/' + commit_author;
 		var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/'+branch+'/content/' + filepath;
@@ -120,8 +119,6 @@ jQuery(document).ready(function($) {
 
 
 function formatDate(timezone_date) {
-	// console.log("Ouput: Nov 25, 2022 at 3:57 pm ET |||| ", `Input: ${timezone_date}`);
-	// Nov 25, 2022 at 3:57 pm ET
 	const input_date = new Date(timezone_date);
 
 	const dateOptions = {
@@ -133,7 +130,7 @@ function formatDate(timezone_date) {
 	const timeOptions = {
 		hour: "2-digit",
 		minute: "2-digit",
-		timeZoneName: "shortGeneric" // shortOffset, short, long, longGeneric
+		timeZoneName: "shortGeneric"
 	}
 
 	const ouput_date = input_date.toLocaleDateString(undefined, dateOptions);
