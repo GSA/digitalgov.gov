@@ -12,6 +12,7 @@
 // Import individual theme settings
 
 @forward 'uswds-theme';
+@forward 'uswds-overrides';
 @forward "usa-site-alert";
 
 // @forward "uswds-global";
