@@ -47,4 +47,7 @@ footer.usa-footer{
 		}
 	}
 
+	img[alt] {
+	  @include u-text('white');
+	}
 }
