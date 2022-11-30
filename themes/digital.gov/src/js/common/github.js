@@ -61,14 +61,14 @@ jQuery(document).ready(function($) {
 				"<span class='commit-author'>"+commit_author+"</span>",
 			"</a> on ",
 			"<a href="+commit_history_url+">",
-				"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
+				"<span class='commit-date'>"+formatDate(commit_date)+"</span>",
 			"</a></p>",
 			""
 		] : [
 			branch_link,
 			"<p>Last updated on",
 			"<a href="+commit_history_url+">",
-				"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
+				"<span class='commit-date'>"+formatDate(commit_date)+"</span>",
 			"</a></p>",
 			""
 		];
@@ -119,18 +119,25 @@ jQuery(document).ready(function($) {
 });
 
 
-function todayNow() {
+function formatDate(timezone_date) {
+	// console.log("Ouput: Nov 25, 2022 at 3:57 pm ET |||| ", `Input: ${timezone_date}`);
 	// Nov 25, 2022 at 3:57 pm ET
-	const today_date = new Date();
+	const input_date = new Date(timezone_date);
 
 	const dateOptions = {
 		day: "numeric",
-		weekday: "long",
-		month: "long",
+		month: "short",
 		year: "numeric"
 	}
 
-	console.log("date-testing:", today_date.toLocaleDateString(undefined, dateOptions)) // 11/29/2022
-}
+	const timeOptions = {
+		hour: "2-digit",
+		minute: "2-digit",
+		timeZoneName: "shortGeneric" // shortOffset, short, long, longGeneric
+	}
 
-todayNow();
+	const ouput_date = input_date.toLocaleDateString(undefined, dateOptions);
+	const output_time = input_date.toLocaleTimeString("en-US", timeOptions);
+
+	return `${ouput_date} at ${output_time}`;
+}
