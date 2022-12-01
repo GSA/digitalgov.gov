@@ -58,10 +58,10 @@
   {{- $src := .src -}}
   {{- with .item -}}
   {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-  <div class="card-service-contact" data-edit-this="{{- $path -}}">
+  <div class="card card-service-contact" data-edit-this="{{- $path -}}">
 
-    <div class="grid-row grid-gap-2">
-      <div class="grid-col-12 tablet:grid-col-3">
+    <!-- <div class="grid-row grid-gap-2"> -->
+      <div class="">
 
         <div class="copy">
           {{- template "icon-resource" dict "item" . "src" $src "href" $href -}}
@@ -74,7 +74,7 @@
         </div>
 
       </div>
-      <div class="grid-col-12 tablet:grid-col-5">
+      <div class="">
 
         <div class="copy">
           {{- if .Params.deck -}}<p class="summary">{{- .Params.deck | markdownify -}}</p>{{- else -}}<p class="summary">{{- .Params.summary | markdownify | truncate 140 -}}</p>{{- end -}}
@@ -82,7 +82,7 @@
 
       </div>
 
-      <div class="grid-col-12 tablet:grid-col-4">
+      <div class="">
 
         <div class="copy copy-contacts">
           {{ if .Params.contact }}
@@ -99,7 +99,7 @@
         </div>
 
       </div>
-    </div>
+    <!-- </div> -->
   </div>
   {{- end -}}
 {{- end -}}
