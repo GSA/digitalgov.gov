@@ -62,7 +62,7 @@ Federal agencies are directed to update these accounts in the U.S. Digital Regis
 1. Go to the [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry)
 2. In the top navigation bar, far right, access the "`LOG IN`" link. You'll be brought to the [Login.gov](http://login.gov/) log-in page for the U.S. Digital Registry.
 
-If you already have a [Login.gov](http://login.gov/) account with your government email address, you won't have to do anything else. Just use that account information to register or to access accounts on U.S. Digital Registry.
+If you already have a [Login.gov](http://login.gov/) account with your government email address, you won't have to do anything else. Just use that account information to access accounts on U.S. Digital Registry.
 
 If you don't already have a [Login.gov](http://login.gov/) account with your government email address, follow the instructions to create an account.
 
