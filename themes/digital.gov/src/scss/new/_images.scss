@@ -43,3 +43,7 @@
   @include u-float('left');
   @include u-width('card-lg');
 }
+
+p img[alt] {
+  font-style: italic;
+}
