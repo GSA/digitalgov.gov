@@ -36,21 +36,23 @@
         {{/* Gather all the service pages */}}
         {{- with $services -}}
 
-          <div class="card card-service-contact card-service-contact-heading">
-            <div class="grid-col-12">
-              <strong>Name</strong>
-            </div>
-            <div class="grid-col-12">
-              <strong>Description</strong>
-            </div>
-            <div class="grid-col-12">
-              <strong>Contact</strong>
+          <div class="service-contact service-contact-heading">
+            <div class="grid-row grid-gap-2">
+              <div class="grid-col-12 tablet:grid-col-3">
+                <strong>Name</strong>
+              </div>
+              <div class="grid-col-12 tablet:grid-col-5">
+                <strong>Description</strong>
+              </div>
+              <div class="grid-col-12 tablet:grid-col-4">
+                <strong>Contact</strong>
+              </div>
             </div>
           </div>
 
           {{- range sort . "Title" -}}
 
-            {{- .Render "card-service-contact" -}}
+            {{- .Render "service-contact" -}}
 
           {{- end -}}
 

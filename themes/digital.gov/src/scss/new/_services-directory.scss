@@ -6,7 +6,7 @@
     @include u-margin-bottom(5);
   }
 }
-.card-service-contact-heading{
+.service-contact-heading{
   @include u-display('none');
   @include at-media('tablet') {
     @include u-display('block');
