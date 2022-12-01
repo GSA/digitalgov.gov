@@ -81,7 +81,7 @@ In a moderated panel, the leadership team shared their insights about the future
 
 
 
-In a series of lightning talks, GSA&#8217;s Technology Industry highlighted the efforts of Agile BPA, <a title="" href="http://cloud.gov/" target="_blank" rel="nofollow">Cloud.gov</a>, 18F Acquisition Products Act, DATA ACT and <a title="" href="http://login.gov/" target="_blank" rel="nofollow">Login.gov</a>. Breakout sessions provided a more intimate discussion between government and industry on technology topics such as **Acquisitions in Tech**, **TTS as a Proving Ground** and **TTS for the Future**. Presenters highlighted how the [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) and the [Federal Acquisition Services](http://www.gsa.gov/portal/content/105080) (FAS) are working together with industry to transform technology in the federal space.
+In a series of lightning talks, GSA&#8217;s Technology Industry highlighted the efforts of Agile BPA, <a href="https://cloud.gov/" target="_blank" rel="nofollow">Cloud.gov</a>, 18F Acquisition Products Act, DATA ACT and <a href="https://login.gov/" target="_blank" rel="nofollow">Login.gov</a>. Breakout sessions provided a more intimate discussion between government and industry on technology topics such as **Acquisitions in Tech**, **TTS as a Proving Ground** and **TTS for the Future**. Presenters highlighted how the [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) and the [Federal Acquisition Services](http://www.gsa.gov/portal/content/105080) (FAS) are working together with industry to transform technology in the federal space.
 
 Vendors also had the opportunity to view demos of current projects.
 
