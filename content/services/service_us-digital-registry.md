@@ -42,8 +42,6 @@ aliases:
 
 ---
 
-{{< note "alert" >}} Alert text goes here... {{< /note >}}
-
 To help prevent exploitation from unofficial sources, phishing scams, or malicious entities, the [**U.S. Digital Registry**](https://touchpoints.app.cloud.gov/registry) serves as a resource for agencies, citizens, and developers to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites.
 
 The accounts in the registry are independently updated by federal managers across the government who maintain individual agency accounts.
