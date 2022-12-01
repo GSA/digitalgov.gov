@@ -60,14 +60,14 @@ jQuery(document).ready(function($) {
 				"<span class='commit-author'>"+commit_author+"</span>",
 			"</a> on ",
 			"<a href="+commit_history_url+">",
-				"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
+				"<span class='commit-date'>"+formatDate(commit_date)+"</span>",
 			"</a></p>",
 			""
 		] : [
 			branch_link,
 			"<p>Last updated on",
 			"<a href="+commit_history_url+">",
-				"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
+				"<span class='commit-date'>"+formatDate(commit_date)+"</span>",
 			"</a></p>",
 			""
 		];
@@ -116,3 +116,25 @@ jQuery(document).ready(function($) {
 	  return date_string;
 	}
 });
+
+
+function formatDate(timezone_date) {
+	const input_date = new Date(timezone_date);
+
+	const dateOptions = {
+		day: "numeric",
+		month: "short",
+		year: "numeric"
+	}
+
+	const timeOptions = {
+		hour: "2-digit",
+		minute: "2-digit",
+		timeZoneName: "shortGeneric"
+	}
+
+	const ouput_date = input_date.toLocaleDateString(undefined, dateOptions);
+	const output_time = input_date.toLocaleTimeString("en-US", timeOptions);
+
+	return `${ouput_date} at ${output_time}`;
+}
