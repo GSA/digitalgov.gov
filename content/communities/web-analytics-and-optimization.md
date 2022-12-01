@@ -39,7 +39,8 @@ dg_acronym: WAO
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: ANALYZE-OPTIMIZE-subscribe-request@LISTSERV.GSA.GOV
+    subscribe_email: analyze-optimize-request@listserv.gsa.gov
+    subscribe_email_subject: "Join the Web Analytics Community"
     members: 707
     terms: Government employees and contractors only.
 

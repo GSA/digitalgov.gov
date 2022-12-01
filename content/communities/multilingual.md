@@ -38,6 +38,7 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "FMWC-subscribe-request@listserv.gsa.gov"
+    subscribe_email_subject: "Join the Multilingual Community"
     terms: "Anyone with a .gov or .mil email address is eligible to join."
     members: 504
 

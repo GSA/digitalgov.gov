@@ -17,4 +17,4 @@
   Join by email
 </a>
 
-<p>To join, email <strong>{{ .e.subscribe_email }}</strong> with {{ if .e.subscribe_email_subject }} <code>{{ .e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if .e.subscribe_email_body }} and <code>{{ .e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
+<p>Email <strong>{{ .e.subscribe_email }}</strong> to join. Include {{ if .e.subscribe_email_subject }} <code>{{ .e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject line{{- if .e.subscribe_email_body }} and <code>{{ .e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
