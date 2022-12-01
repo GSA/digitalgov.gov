@@ -48,8 +48,7 @@ The accounts in the registry are independently updated by federal managers acros
 
 Federal agencies are directed to update these accounts in the U.S. Digital Registry per [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf), which states:
 
-{{< note >}}To help confirm the validity of official U.S. Government digital platforms, within 60 days of the publication date of this Memorandum, agencies must register their public-facing digital services such as social media, collaboration accounts, mobile apps and mobile websites, with the U.S. Digital Registry.
-{{< /note >}}
+{{< card-quote text="To help confirm the validity of official U.S. Government digital platforms, within 60 days of the publication date of this Memorandum, agencies must register their public-facing digital services such as social media, collaboration accounts, mobile apps and mobile websites, with the U.S. Digital Registry." cite="OMB M-17-06, Section 10, Part B" >}}
 
 ---
 
