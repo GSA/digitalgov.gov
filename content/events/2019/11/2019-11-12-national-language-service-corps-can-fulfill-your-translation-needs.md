@@ -39,7 +39,7 @@ weight: 0
 
 ---
 
-[View the slides (PDF, 17.3 MB, 12 pages)](https://digital.gov/pdf/NLSC-DigitalGov-Language-Community-Capability.pdf)
+_{{< asset-static file="NLSC-DigitalGov-Language-Community-Capability.pdf" label="View the slides (PDF, 17.3 MB, 12 pages)" >}}_
 
 Using external translation vendors can often be costly, rigid, and time-consuming. The [National Language Service Corps](https://www.nlscorps.org) (NLSC), a program of the [Defense Language National Security Education Office](https://dlnseo.org/) (DLNSEO) in the [Office of the Under Secretary of Defense for Personnel and Readiness](https://prhome.defense.gov/) at the [Department of Defense](https://www.defense.gov) (DoD), can help fulfill your language needs offering regional and cultural expertise at a fraction of the cost.
 

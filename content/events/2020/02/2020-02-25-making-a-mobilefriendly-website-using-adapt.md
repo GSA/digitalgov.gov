@@ -53,7 +53,7 @@ David Fern, co-lead of the MobileGov Community and the Federal Crowdsource Mobil
 
 He'll walk you through this approach, give you some resources for testing your site or content, and answer any questions that you have about mobile-friendliness.
 
-Presentation deck: [Using the ADAPT Model to Become Mobile-Friendly (PDF, 763 KB, 16 pages)](https://digital.gov/pdf/MobileGov-Making-a-Mobile-Friendly-Website-Using-the-ADAPT-Model_a11y.pdf) 
+Presentation deck: {{< asset-static file="MobileGov-Making-a-Mobile-Friendly-Website-Using-the-ADAPT-Model_a11y.pdf" label="Using the ADAPT Model to Become Mobile-Friendly (PDF, 763 KB, 16 pages)" >}} 
 
 ---
 
