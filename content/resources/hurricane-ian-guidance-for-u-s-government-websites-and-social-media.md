@@ -10,7 +10,6 @@ deck: "Addressing web and digital communications related to Hurricane Ian"
 summary: "Addressing web and digital communications related to Hurricane Ian"
 
 aliases:
-  - /resources/
   - /hurricane-ian/
 
 # Archive - see Trello board
@@ -35,6 +34,8 @@ topics:
 primary_image: "card-hurricane-ian-guidance"
 
 ---
+
+{{< note "alert" >}} Atlantic hurricane season ended 11/30/2022. This page has been archived. {{< /note >}}
 
 In response to Hurricane Ian, the U.S. Department of Homeland Security (DHS) is issuing guidance for the coordination of Federal web and social media communications related to this incident.
 
