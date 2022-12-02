@@ -10,10 +10,11 @@ deck: "Addressing web and digital communications related to Hurricane Ian"
 summary: "Addressing web and digital communications related to Hurricane Ian"
 
 aliases:
+  - /resources/
   - /hurricane-ian/
 
 # Archive - see Trello board
-# expirydate: "YYYY-MM-DD"
+expirydate: "2022-12-02"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -32,6 +33,7 @@ topics:
 
 # Primary Image (for social media)
 primary_image: "card-hurricane-ian-guidance"
+
 ---
 
 In response to Hurricane Ian, the U.S. Department of Homeland Security (DHS) is issuing guidance for the coordination of Federal web and social media communications related to this incident.
