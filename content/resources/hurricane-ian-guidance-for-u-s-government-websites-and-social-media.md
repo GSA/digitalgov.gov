@@ -13,7 +13,7 @@ aliases:
   - /hurricane-ian/
 
 # Archive - see Trello board
-expirydate: "2022-12-02"
+expirydate: "2022-12-01"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
