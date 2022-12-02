@@ -11,6 +11,7 @@ summary: "Addressing web and digital communications related to Hurricane Ian"
 
 aliases:
   - /resources/
+  - /hurricane-ian/
 
 # Archive - see Trello board
 expirydate: "2022-12-02"
