@@ -124,12 +124,15 @@ function formatDate(timezone_date) {
 	const dateOptions = {
 		day: "numeric",
 		month: "short",
-		year: "numeric"
+		year: "numeric",
+		timeZone: "America/New_York",
+		timeZoneName: "shortGeneric"
 	}
 
 	const timeOptions = {
 		hour: "2-digit",
 		minute: "2-digit",
+		timeZone: "America/New_York",
 		timeZoneName: "shortGeneric"
 	}
 
