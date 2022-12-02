@@ -10,7 +10,6 @@ deck: "Addressing web and digital communications related to Hurricane Ian"
 summary: "Addressing web and digital communications related to Hurricane Ian"
 
 aliases:
-  - /resources/
   - /hurricane-ian/
 
 # Archive - see Trello board
