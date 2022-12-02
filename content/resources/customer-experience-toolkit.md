@@ -110,7 +110,7 @@ Designate a single person to be responsible for the customer experience agency-w
 
 Publish customer service standards and train all employees so they understand their role, responsibilities, expectations and behavioral norms in the customer experience ecosystem.
 
-**Train your employees**
+### Train your employees
 
 - Ensure all employees understand the importance of good customer service
     - [CX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) &#8211; Digital.gov YouTube playlist
@@ -121,7 +121,7 @@ Publish customer service standards and train all employees so they understand th
 - Provide additional customer service training to front-line staff
     - Share FAQs and boilerplate language, to ensure customers receive the same correct answer from everyone across the organization
 
-**Build a customer-centric culture**
+### Build a customer-centric culture
 
 - Learn how to [Create a Culture of Engagement](https://www.youtube.com/watch?v=THvdtQQURZ0) – YouTube video; Digital.gov Event
 - Improve the onboarding process for new employees
@@ -133,17 +133,17 @@ Publish customer service standards and train all employees so they understand th
 - Learn from the private sector
     - [How the Nationals’ Customer Experience Principles Can Be a Home Run for Agencies](https://digital.gov/2015/07/22/how-the-nationals-customer-experience-principles-can-be-a-home-run-for-agencies/)
 
-**Hold employees accountable**
+### Hold employees accountable
 
 - Include customer service in performance rating criteria
     - [Sample performance rating elements](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/GSA-Sample-Critical-Elements.xlsx) (Excel, 23 kb) &#8211; GSA
 
-**Respond to employee concerns**
+### Respond to employee concerns
 
 - Regularly ask for, listen to, and take action on feedback
     - [Federal Employee Viewpoint Survey (EVS)](http://www.fedview.opm.gov/)
 
-**Reward success**
+### Reward success
 
 - Acknowledge employees who provide great service
     - Doesn’t have to be monetary—a simple “thank you” can go a long way
