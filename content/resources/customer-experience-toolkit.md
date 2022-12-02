@@ -326,7 +326,9 @@ Develop a Digital Business Strategy that embraces an improved customer experienc
 
 ### Adopt shared services
 
-- Use [shared services](https://digital.gov/services/) to streamline and save money.
+- Use [shared services](https://digital.gov/services/) to streamline and save money
+- [Customer Experience Center of Excellence](https://coe.gsa.gov/coe/customer-experience.html)
+- [Customer Experience Services Evaluation and Buying Guide (PDF, 823 KB, 2020)](https://www.performance.gov/cx/assets/files/CX-Evaluation-and-Buying-Guide.pdf) - guidance on purchasing Human-Centered Design (HCD) services
 
 ## Collaboration
 
