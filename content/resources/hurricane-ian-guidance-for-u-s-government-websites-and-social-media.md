@@ -36,6 +36,8 @@ primary_image: "card-hurricane-ian-guidance"
 
 ---
 
+{{< note "alert" >}} Atlantic hurricane season ended 11/30/2022. This page has been archived. {{< /note >}}
+
 In response to Hurricane Ian, the U.S. Department of Homeland Security (DHS) is issuing guidance for the coordination of Federal web and social media communications related to this incident.
 
 This authority for this action comes from [Emergency Support Function 15](https://www.fema.gov/media-library/assets/documents/34369) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/media-library/assets/documents/117791) where, during incidents of national significance, DHS has the authority to coordinate all U.S. government communications.
