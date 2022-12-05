@@ -31,8 +31,9 @@ dg_acronym: UX
 community_list:
   - platform: "listserv"
     type: government
-    subscribe_email: ux-cop-request@listserv.gsa.gov
-    subscribe_email_subject: "Join UX Community"
+    subscribe_email: "ux-cop-request@listserv.gsa.gov"
+    subscribe_email_subject: "Join the User Experience Community"
+    terms: "Government employees and contractors with an official .gov/.mil email are eligible to join."
     members: 1714
 
 # see all authors at https://digital.gov/authors
@@ -48,10 +49,6 @@ Join other federal user experience practitioners and learn how to make better us
 ## Join
 
 Send an email from your official government email to [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20UX%20Community), with “Join UX Community” in the subject line.
-
-## Community Managers:
-
-Jean Fox (BLS) and Silvia Salazar (NIH)
 
 ## Overview
 
