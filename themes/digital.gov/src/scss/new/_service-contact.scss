@@ -1,10 +1,19 @@
 @use "uswds-core" as *;
 
-.card.card-service-contact {
+.service-contact {
   @include u-margin-bottom(0);
-  @include u-padding-y("105");
+  @include u-padding("105");
   @include u-font("sans", "2xs");
   @include u-line-height("sans", 3);
+  @include u-bg("white");
+  @include u-border-bottom("1px", "gray-cool-10", "solid");
+  @include u-bg("white");
+
+  @include at-media("tablet") {
+    @include u-padding-y("105");
+    @include u-padding-x("205");
+  }
+
   .copy {
     @include u-display("flex");
     @include u-flex("align-start");
@@ -31,14 +40,16 @@
     }
 
     h3 {
+      @include u-margin(0);
       @include u-font("sans", "sm");
       @include u-line-height("sans", 3);
       a {
         @include u-text("no-underline", !important);
         @include u-text("medium");
+        @include u-color("blue-warm-80");
         &:hover {
           span {
-            @include u-border-bottom("1px", "blue-warm-70v", "solid");
+            @include u-border-bottom("1px", "blue-warm-80", "solid");
           }
         }
       }
