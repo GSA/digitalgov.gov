@@ -12,7 +12,7 @@ summary: "A two-year fellowship for early-career technologists to start careers 
 # source_url: 'https://digital.gov/services/u-s-digital-corps/'
 
 # What source published this?
-source: 'usdc'
+source: ''
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
