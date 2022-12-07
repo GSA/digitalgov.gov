@@ -16,8 +16,8 @@ source_url: "https://analytics.usa.gov/"
 logo: 'analytics-usa-gov'
 
 # see all authors at https://digital.gov/authors
-authors:
-  - 
+# authors:
+#   - 
 
 contact: dap@gsa.gov
 
