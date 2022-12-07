@@ -12,7 +12,7 @@ summary: "A two-year fellowship for early-career technologists to start careers 
 # source_url: 'https://digital.gov/services/u-s-digital-corps/'
 
 # What source published this?
-source: ''
+source: 'usdc'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
@@ -22,7 +22,7 @@ source_url: "https://digitalcorps.gsa.gov/"
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-logo: ''
+logo: 'usdc'
 
 contact: usdigitalcorps@gsa.gov
 
