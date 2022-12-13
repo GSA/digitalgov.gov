@@ -48,10 +48,9 @@ In this session you will hear from the following speakers:
 * **Becky Oakes**, United States Patent and Trademark Office (USPTO)
 * **Whitney Levandusky**, U.S. Copyright Office
 
-[View the slides from USPTO](https://digital.gov/files/socialgov-summer-2021-uspto-becky.pptx) (PPT, 5.1 MB, 26 pages)
+{{< asset-static file="socialgov-summer-2021-uspto-becky.pptx" label="View the slides from USPTO (Powerpoint, 5.1 MB, 26 pages)" >}}
 
-[View the slides from U.S. Copyright Office](https://digital.gov/files/socialgov-summer-2021-copyright-whitney.pptx) (PPT, 5.18 MB, 23 pages)
-
+{{< asset-static file="socialgov-summer-2021-copyright-whitney.pptx" label="View the slides from U.S. Copyright Office (Powerpoint, 5.18 MB, 23 pages)" >}}
 
 ## Session 2: Thursday, August 26, from 2:00 pm to 3:00 pm, ET
 
@@ -65,7 +64,7 @@ In this session you will hear from the following speakers:
 * **Jackie Yarbro**, U.S. Office of Special Counsel
 * **David J. Taube**, U.S. Office of Government Ethics
 
-[View the Rules of Conduct session slides](https://digital.gov/files/socialgov-summer-2021-rules-of-conduct-david.pptx) (PPT, 107 KB, 18 pages)
+{{< asset-static file="socialgov-summer-2021-rules-of-conduct-david.pptx" label="View the Rules of Conduct session slides (Powerpoint, 107 KB, 18 pages)" >}}
 
 ## Relevant Links:
 

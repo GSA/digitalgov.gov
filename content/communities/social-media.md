@@ -33,8 +33,9 @@ dg_acronym: SM
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "SM-COP-subscribe-request@listserv.gsa.gov"
-    terms: "Federal employees and federal contractor employees with a .gov or .mil email address are eligible to join."
+    subscribe_email: "sm-cop-request@listserv.gsa.gov"
+    subscribe_email_subject: "Join the Social Media Community"
+    terms: "Federal government employees and contractors with an official .gov/.mil email are eligible to join."
     members: 1166
 
 primary_image: "white-bg-digital-gov-card-community"

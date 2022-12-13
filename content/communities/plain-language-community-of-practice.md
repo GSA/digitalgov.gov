@@ -41,7 +41,7 @@ dg_acronym: PL
 community_list:
   - platform: listserv
     type: public
-    subscribe_email: "PL-COP-MAIN-subscribe-request@listserv.gsa.gov"
+    subscribe_email: "pl-cop-main-subscribe-request@listserv.gsa.gov"
     terms: "Anyone is eligible to join."
     members: 1940
 

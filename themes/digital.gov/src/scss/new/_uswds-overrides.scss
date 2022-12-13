@@ -1,0 +1,5 @@
+@use "uswds-core" as *;
+
+.usa-identifier img[alt] {
+  @include u-text('white');
+}

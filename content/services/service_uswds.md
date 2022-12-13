@@ -12,7 +12,7 @@ source: 'uswds'
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 source_url: "https://designsystem.digital.gov/"
 
-contact: uswds@support.digitalgov.gov
+contact: uswds@gsa.gov
 
 # Weight — controls how services appear across the site
 # 2 == will appear as related service (ADs) on blog posts and event pages
@@ -35,5 +35,5 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - dan-williams
-  - ammie-farraj-feijoo
+
 ---

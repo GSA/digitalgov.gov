@@ -24,8 +24,9 @@ event_cop:
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "FCN-subscribe-request@listserv.gsa.gov"
-    terms: "Anyone with a .gov or .mil email address is eligible to join."
+    subscribe_email: "fcn-request@listserv.gsa.gov"
+    subscribe_email_subject: "Join the Communicators Community" 
+    terms: "Government employees and contractors with an official .gov/.mil email are eligible to join."
     members: 1954
 
 # Controls how this page appears across the site

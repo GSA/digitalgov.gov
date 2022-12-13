@@ -17,10 +17,9 @@ logo: "dap"
 
 # see all authors at https://digital.gov/authors
 authors:
-  - tlowden
   - freddie-blicher
 
-contact: dap@support.digitalgov.gov
+contact: dap@gsa.gov
 
 # Weight — controls how services appear across the site
 # 2 == will appear as related service (ADs) on blog posts and event pages

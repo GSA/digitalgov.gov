@@ -60,7 +60,7 @@ weight: 0
 
 {{< accordion kicker="Day 1" title="UX Methods - July 28" icon="content_copy" >}}
 
-- [Read the transcript](https://digital.gov/pdf/2020-07-28-UX-Summit-Captioning-Tues-AM.pdf ) (PDF, 125 KB, 13 pages)
+{{< asset-static file="2020-07-28-UX-Summit-Captioning-Tues-AM.pdf" label="Read the transcript (PDF, 125 KB, 13 pages)" >}}
 
 ## First Session – 10-minute presentations 11:30 AM – 12:30 PM ET
 
@@ -95,7 +95,7 @@ This presentation proposes a useful method to track standards and UX requirement
 Designing and developing digital products that are accessible to all doesn’t just make good business sense — it’s also the law. Yet it’s often an overlooked part of the product development lifecycle. The best and most cost-effective way to ensure your product is accessible is to start with accessibility. In this session, participants will learn how to incorporate accessibility and inclusive design at each stage of the product lifecycle. From product requirements through user research, content strategy and copywriting, design, front-end development, and QA, consider accessibility using these effective guidelines. 
    
 - [Watch the video](https://www.youtube.com/watch?v=ZFdLZlAD5q0)
-- [Read the transcript](https://digital.gov/pdf/2020-07-28-UX-Summit-Captioning-Tues-PM.pdf) (PDF, 119 KB, 13 pages) 
+- [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-28-UX-Summit-Captioning-Tues-PM.pdf) (PDF, 119 KB, 13 pages)
 
 {{< /accordion >}}
 
@@ -117,7 +117,9 @@ That’s where Service Design comes in.
 Learn about the similarities and differences between Product Design and Service Design, how they co-exist, and more importantly, when to use them!
 
 - [Watch the video](https://www.youtube.com/watch?v=Ff8VCuKxNd0&t=186s)
-- [Read the transcript](https://digital.gov/pdf/2020-07-29-UX-Summit-Captioning-Wed-AM.pdf) (PDF, 130 KB, 13 pages)
+- {{< asset-static file="2020-07-29-UX-Summit-Captioning-Wed-AM.pdf" label="Read the transcript (PDF, 130 KB, 13 pages)" >}}
+
+
 
 ## Second Session 1:30 – 2:30 PM ET
 
@@ -126,7 +128,8 @@ Learn about the similarities and differences between Product Design and Service 
 For residents, forms are often front doors to access city services. They are also critical entry points not just to redesign content, but to transform the end-to-end experience of city services that better serve residents. This talk will discuss lessons learned from the City of Austin’s experiments in how service designers collaborate with content strategists to achieve this goal. We will focus on two case studies that offer different insights on how service designers and content strategists can collaborate. 
 
 - [Watch the video](https://www.youtube.com/watch?v=Afb4fIaCN48&t=223s)
-- [Read the transcript](https://digital.gov/pdf/2020-07-29-UX-Summit-Captioning-Wed-PM.pdf) (PDF, 137 KB, 13 pages) 
+- [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-29-UX-Summit-Captioning-Wed-PM.pdf) (PDF, 137 KB, 13 pages)
+
 
 {{< /accordion >}}
 
@@ -142,8 +145,7 @@ For residents, forms are often front doors to access city services. They are als
 Modernization means change—and change can sometimes be hard. When creating new user experiences, it’s also important to understand and design how people will transition to an experience that is different from what they know. This case study features lessons learned from an on-going, multi-phase federal modernization impacting millions of federal and non-federal users. You will see our dramatically different old and new users’ experiences, and walk step-by-step through different approaches we are using to soften the landing for our customers.
 
 - [Watch the video](https://www.youtube.com/watch?v=UVWKQHs0YqA&t=193s)
-- [Read the transcript](https://digital.gov/pdf/2020-07-30-UX-Summit-Captioning-Thurs-AM.pdf) (PDF, 139 KB, 10 pages) 
-
+- [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-30-UX-Summit-Captioning-Thurs-AM.pdf) (PDF, 139 KB, 10 pages)
 ## Second Session 1:30 – 2:30 PM ET
 
 **Discovering #PartofSomethingBigger for HHS Careers Website** - Brooke Dine HHS/Assistant Secretary for Public Affairs (ASPA), and Katie Kline
@@ -151,7 +153,10 @@ Modernization means change—and change can sometimes be hard. When creating new
 A comprehensive, empirical discovery process sets the stage for a streamlined roadmap and agile project approach. Drawing on discovery insights for a new Careers site for HHS.gov, the speakers will recount quantifiable tactics that led to an evidence-based decision matrix which guided the design, development, content and communications efforts for the project. Participants will hear use cases for activities that can be used to ensure any pivoting supports the overarching digital strategy. Additionally, regular check-ins with stakeholders will run smoothly when the vision for the site is captured in the beginning with benchmarks for success clearly identified. 
 
 - [Watch the video](https://www.youtube.com/watch?v=oFu2AeThfx4&t=200s)
-- [Read the transcript](https://digital.gov/pdf/2020-07-30-UX-Summit-Captioning-Thurs-PM.pdf) (PDF, 163 KB, 12 pages) 
+- [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-30-UX-Summit-Captioning-Thurs-PM.pdf) (PDF, 163 KB, 12 pages) 
+
+
+
 
 {{< /accordion >}}
 

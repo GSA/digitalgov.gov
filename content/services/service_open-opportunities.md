@@ -11,7 +11,7 @@ source: 'open-opps'
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-source_url: "https://openopps.usajobs.gov/"
+source_url: "https://OpenOpps.usajobs.gov/"
 
 
 contact: OpenOpps@usajobs.gov

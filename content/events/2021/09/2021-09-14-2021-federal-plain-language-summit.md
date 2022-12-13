@@ -49,7 +49,8 @@ In this session you will hear from the following speakers:
 * **Katherine Spivey** — U.S. General Services Administration (GSA)
 * **Katina Stapleton** — U.S. Department of Education (ED)
 
-[View the slides](https://digital.gov/files/plain-language-summit-info-slide.pptx)
+{{< asset-static file="plain-language-summit-info-slide.pptx" label="View the slides" >}}
+
 
 - - -
 
@@ -59,7 +60,8 @@ In this session you will hear from the following speaker:
 
 * **Cynthia Baur, Ph.D**. — Endowed Chair and Director, Horowitz Center for Health Literacy, University of Maryland
 
-[View the slides](https://digital.gov/files/plain-language-summit-keynote.pptx)
+{{< asset-static file="plain-language-summit-keynote.pptx" label="View the slides" >}}
+
 
 [Read the Keynote Speaker Recap](https://digital.gov/2022/01/04/keynote-speaker-recap-would-more-plain-language-have-saved-us-from-the-worst-of-the-pandemic/)
 
@@ -77,7 +79,8 @@ In this session you will hear from the following speaker:
 
 * **Jose Vejarano** — Internal Revenue Service (IRS)
 
-[View the slides](https://digital.gov/files/plain-language-summit-irs-final.pptx)
+{{< asset-static file="plain-language-summit-irs-final.pptx" label="View the slides" >}}
+
 
 - - -
 
@@ -89,7 +92,8 @@ In this session you will hear from the following speaker:
 
 * **Angie Fuoco**
 
-[View the slides](https://digital.gov/files/plain-language-summit-accessibility-environmental-justice-final.pptx)
+{{< asset-static file="plain-language-summit-accessibility-environmental-justice-final.pptx" label="View the slides" >}}
+
 
 - - -
 
@@ -105,7 +109,8 @@ In this session you will hear from the following speaker:
 
 * **Alison Kohler** — General Services Administration (GSA)
 
-[View the slides](https://digital.gov/files/plain-language-summit-online-glossaries.pptx)
+{{< asset-static file="plain-language-summit-online-glossaries.pptx" label="View the slides" >}}
+
 
 - - -
 
@@ -117,7 +122,8 @@ In this session you will hear from the following speakers:
 
 * **Danielle Nagele** — National Oceanic and Atmospheric Administration (NOAA)
 
-[View the slides](https://digital.gov/files/plain-language-summit-nws-noaa-final.pptx)
+{{< asset-static file="plain-language-summit-nws-noaa-final.pptx" label="View the slides" >}}
+
 
 [Read the Webinar Recap](https://digital.gov/2022/01/04/webinar-recap-key-takeaways-on-simplifying-hazard-communications-with-plain-language/)
 
@@ -136,7 +142,8 @@ In this session you will hear from the following speakers:
 * **Eden Savino** — Government Accountability Office (GAO)
 * **Melanie Fallow** — Government Accountability Office (GAO)
 
-[View the slides](https://digital.gov/files/getting-gao-message-across-final.pptx)
+{{< asset-static file="getting-gao-message-across-final.pptx" label="View the slides" >}}
+
 
 - - -
 
@@ -148,7 +155,8 @@ In this session you will hear from the following speaker:
 
 * **Joanne Short** — United States Postal Service (USPS)
 
-[View the slides](https://digital.gov/files/pl-summit-volunteerism-joanne.pptx)
+{{< asset-static file="pl-summit-volunteerism-joanne.pptx" label="View the slides" >}}
+
 
 [Read the Webinar Recap](https://digital.gov/2021/12/15/plain-language-summit-recap-the-part-timer/)
 

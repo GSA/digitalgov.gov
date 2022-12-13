@@ -209,7 +209,7 @@ Whether you choose an open-source or commercial content management system depend
 
 ### Open Source CMS in Government
 
-Many federal agencies already use open-source content management systems, and if you’re considering it for your agency, GSA offers a secure and compliant self-service content management platform, [sites.USA.gov](https://sites.usa.gov/), built on WordPress and available for all federal agencies as a shared service. This is a great, cost-effective solution to help your agency move to open-source.
+Many federal agencies already use open-source content management systems, and if you’re considering it for your agency, GSA offers a secure and compliant self-service content management platform, [Federalist/cloud.gov Pages](https://cloud.gov/pages/), available for all federal agencies as a shared service. This is a great, cost-effective solution to help your agency move to open-source.
 
 ### Include Both Technical and Content Needs
 

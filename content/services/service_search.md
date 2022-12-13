@@ -12,7 +12,7 @@ source: 'searchgov'
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-source_url: "https://search.gov/"
+source_url: "https://www.search.gov/"
 
 
 contact: search@support.digitalgov.gov

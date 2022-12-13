@@ -61,7 +61,7 @@ We'll cover the following:
     
 We’ll use plenty of before-and-after examples.
 
-[View the slides](https://digital.gov/pdf/PLbasicsDGU81120-508-checked.pdf) (PDF, 19.1 MB, 68 pages)
+{{< asset-static file="PLbasicsDGU81120-508-checked.pdf" label="View the slides (PDF, 19.1 MB, 68 pages)" >}}
 
 ## Presenter:
 

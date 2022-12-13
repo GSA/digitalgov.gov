@@ -44,8 +44,9 @@ dg_acronym: WCM
 community_list:
   - platform: listserv
     type: government_only
-    subscribe_email: "CONTENT-MANAGERS-L-subscribe-request@listserv.gsa.gov"
-    terms: "U.S. government employees only are eligible to join."
+    subscribe_email: "content-managers-l-request@listserv.gsa.gov"
+    subscribe_email_subject: "Join the Web Managers Community"
+    terms: "Government employees with an official .gov/.mil email are eligible to join."
     members: 1791
 
 primary_image: "white-bg-digital-gov-card-community"

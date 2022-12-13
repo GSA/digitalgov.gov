@@ -1,0 +1,103 @@
+@use "uswds-core" as *;
+
+.service-contact {
+  @include u-margin-bottom(0);
+  @include u-padding("105");
+  @include u-font("sans", "2xs");
+  @include u-line-height("sans", 3);
+  @include u-bg("white");
+  @include u-border-bottom("1px", "gray-cool-10", "solid");
+  @include u-bg("white");
+
+  @include at-media("tablet") {
+    @include u-padding-y("105");
+    @include u-padding-x("205");
+  }
+
+  .copy {
+    @include u-display("flex");
+    @include u-flex("align-start");
+
+    p {
+      @include u-margin-top(0);
+      @include u-margin-left(3);
+      @include at-media("tablet") {
+        @include u-margin-left(0);
+      }
+    }
+
+    div {
+      flex: 1;
+    }
+    .icon {
+      flex: none;
+      img {
+        @include u-margin-right(1);
+        @include u-width(2);
+        @include u-position("relative");
+        @include u-top("2px");
+      }
+    }
+
+    h3 {
+      @include u-margin(0);
+      @include u-font("sans", "sm");
+      @include u-line-height("sans", 3);
+      a {
+        @include u-text("no-underline", !important);
+        @include u-text("medium");
+        @include u-color("blue-warm-80");
+        &:hover {
+          span {
+            @include u-border-bottom("1px", "blue-warm-80", "solid");
+          }
+        }
+      }
+    }
+    .source_url {
+      @include u-margin-top("2px");
+      @include u-margin-left(0);
+      @include u-font("sans", "3xs");
+      @include u-line-height("sans", 2);
+      a {
+        @include u-text("base-dark");
+        @include u-text("no-underline");
+        &:hover {
+          @include u-text("underline");
+        }
+      }
+    }
+    .summary {
+      @include u-margin-y("105");
+      @include u-font("sans", "xs");
+      @include at-media("tablet") {
+        @include u-margin-y(0);
+      }
+    }
+    .authors-list-short {
+      @include u-margin(0);
+    }
+  }
+  .copy-contacts {
+    @include u-margin-left(3);
+    @include at-media("tablet") {
+      @include u-margin-left(0);
+    }
+    @include u-display("flex");
+    @include u-flex("align-start");
+    .contact {
+      @include u-margin-top(1);
+      @include u-margin-right("105");
+      @include at-media("tablet") {
+        @include u-margin-right(2);
+      }
+      @include u-text("black");
+      @include u-text("no-underline");
+      &:hover {
+        span {
+          @include u-border-bottom("1px", "black", "solid");
+        }
+      }
+    }
+  }
+}

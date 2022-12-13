@@ -27,7 +27,7 @@ primary_image: uswds-monthly-call-october-title-card
 
 ---
 
-[View the slides (PowerPoint, 7.2 MB, 67 pages)](https://digital.gov/files/uswds-monthly-call-october-2022.pptx)
+{{< asset-static file="uswds-monthly-call-october-2022.pptx" label="View the slides (PowerPoint, 7.2 MB, 67 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for October 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for October 2022. Fall is here. It's pumpkin and decorative gourd season. And here we see the USWDS logo in a pumpkin-colored orange and green.
 
@@ -112,7 +112,7 @@ Hi, I'm Jonathan Bobel, and I'm a UX Engineer on the Inclusive Patterns team. I�
 
 **Slide 22:** But this can seem a little abstract, so we've chosen a specific rubric for how to think of a pattern. A pattern completes the sentence, "Help a user to [blank]."
 
-**Slide 23:** Such as, 
+**Slide 23:** Such as,
 
 Help a user to **review a complex form**.
 Help a user to **refine search results**.
@@ -185,19 +185,19 @@ As we discussed, the challenge is that names can vary a lot, and it can be reall
 
 This pattern is designed to be used when you need to ask for a user’s name as might appear on government documentation like a Social Security card. We recommend only asking for a name if you really need it and then, be specific about what you’re asking for. For example, “Enter your name as it appears on your passport.”
 
-Here we see a name pattern composed of three fields and some supporting information. We see **First or given name** (for example: Jose, Darren, or Mai), **Middle name**, and **Last or family name** (for example: Martinez Gonzalez, Gu, or Smith). 
+Here we see a name pattern composed of three fields and some supporting information. We see **First or given name** (for example: Jose, Darren, or Mai), **Middle name**, and **Last or family name** (for example: Martinez Gonzalez, Gu, or Smith).
 
-The pattern guidance recommends providing multiple text entry fields, with direction on what to do if the name doesn’t fit into the provided format. 
+The pattern guidance recommends providing multiple text entry fields, with direction on what to do if the name doesn’t fit into the provided format.
 
 Our pattern guidance also suggests
 
 - Supporting long text fields  —  and short names
 - Supporting a rich array of special characters
 - Allowing users to enter more than one name in each field
-- Allowing both upper and lowercase letters in each field, along with hyphens, apostrophes and blank spaces 
+- Allowing both upper and lowercase letters in each field, along with hyphens, apostrophes and blank spaces
 - And we address asking for a maiden name  —  we recommend against this practice.  But if you do need a previous name, ask for it.
 
-**Slide 44:** At this time we are recommending that you consider incorporating “given” and “family” name into your name field labels. This slide highlights the **First or given name** and **Last or Family name** labels in the name pattern. This seems to be an emerging best practice and also addresses some of the challenges with non-Western European names. 
+**Slide 44:** At this time we are recommending that you consider incorporating “given” and “family” name into your name field labels. This slide highlights the **First or given name** and **Last or Family name** labels in the name pattern. This seems to be an emerging best practice and also addresses some of the challenges with non-Western European names.
 
 **Slide 45:** As I mentioned, if you don’t need to parse apart the pieces of a name  —  if you don’t need to validate the name, for instance  —  just ask for the full name in one field.
 
@@ -209,11 +209,11 @@ Our pattern guidance also suggests
 
 **Slide 49:** Many rural areas, including on Tribal lands, don’t follow the usual conventions of number and street.
 
-**Slide 50:** There are all sorts of different complexities of context and situation that impact addresses and need to be considered: 
+**Slide 50:** There are all sorts of different complexities of context and situation that impact addresses and need to be considered:
 
-Some people may be unhoused, and not have a permanent physical address, but may be able to receive mail at a shelter. 
+Some people may be unhoused, and not have a permanent physical address, but may be able to receive mail at a shelter.
 
-People may be temporarily unhoused due to a disaster, and need to communicate their physical address for disaster assistance, but a temporary mailing address while living elsewhere. 
+People may be temporarily unhoused due to a disaster, and need to communicate their physical address for disaster assistance, but a temporary mailing address while living elsewhere.
 
 Multi-family dwellings, group homes, and more can add to the complexity. There’s a lot to think through to make sure everyone can effectively communicate their address.
 
@@ -245,9 +245,9 @@ If you need both physical address and mailing address, provide a checkbox for �
 
 The Google Plus Code does not apply to mailing address
 
-A street address is required for a mailing address, but it may not be required for a physical address 
+A street address is required for a mailing address, but it may not be required for a physical address
 
-**Slide 54:** While we were working on the address pattern, we did make an unwelcome discovery. Users of assistive technology, especially screen readers, had a consistently difficult time navigating the Combobox used for the State dropdown. 
+**Slide 54:** While we were working on the address pattern, we did make an unwelcome discovery. Users of assistive technology, especially screen readers, had a consistently difficult time navigating the Combobox used for the State dropdown.
 
 When the address pattern is published, you'll notice a change in how we're approaching the treatment of some elements because of these challenges.  We’ve replaced the Combobox with the Select component. This change will be making its way through related component guidance and templates within the design system, so stay tuned for more information.
 
@@ -263,8 +263,8 @@ When the address pattern is published, you'll notice a change in how we're appro
 
 - Make sure to accommodate up to 256 characters
 - Allow people to paste their email address and consider enabling autocomplete to enter the address if they’ve entered it before.
-- Also, consider the safety implications associated with people who share email addresses. You may need to ask for permission to leave potentially sensitive information. 
-- It is great if you can check for common misspellings of popular email providers  —  but don’t autocorrect them! Warn people if you detect a likely misspelling, but allow them to continue, since it might be a genuine email address. 
+- Also, consider the safety implications associated with people who share email addresses. You may need to ask for permission to leave potentially sensitive information.
+- It is great if you can check for common misspellings of popular email providers  —  but don’t autocorrect them! Warn people if you detect a likely misspelling, but allow them to continue, since it might be a genuine email address.
 - Don’t restrict top-level domains, unless you have a very specific audience, such as only people with .gov or .mil addresses.
 
 This slide shows an email address field with a section below asking if sensitive information should be sent via email.
@@ -290,13 +290,13 @@ Let’s take a look at the Input Mask.
 - Depending on the mask, when you’re finished typing the end product will visually show up with the mask applied. For example: the phone number renders with dashes, making it easier to scan and read as a phone number.
 - The input mask component can be extended, it isn’t limited to just these three examples. You just have to make sure to include a viable placeholder and pattern attribute as well as an aria-describedby hint.
 
-In fields with a specific expected format like Social Security Number or ZIP code, an input mask allows you to constrain and shape the information being entered into that format, without impairing the user’s ability to copy/paste or correct mistyping. It’s an accessible component that will help the user enter valid information. 
+In fields with a specific expected format like Social Security Number or ZIP code, an input mask allows you to constrain and shape the information being entered into that format, without impairing the user’s ability to copy/paste or correct mistyping. It’s an accessible component that will help the user enter valid information.
 
 Dan?
 
 **Slide 64:** This is Dan. What you’ve seen here is an overview of user profile patterns and how we arrived at pattern recommendations…and a brief demo of the input mask component. Next month, we’ll take a look at some of the other patterns we’ve developed, with a focus around helping users provide personal information and completing complex forms.
 
-**Slide 65:** And while these patterns and components are designed based on extensive research, we expect them to evolve as the equity and inclusivity landscape evolves and as we learn more from you. We invite you to share your input in #USWDS-public slack, GitHub issues, or by emailing the USWDS team.  
+**Slide 65:** And while these patterns and components are designed based on extensive research, we expect them to evolve as the equity and inclusivity landscape evolves and as we learn more from you. We invite you to share your input in #USWDS-public slack, GitHub issues, or by emailing the USWDS team.
 
 **Slide 66:** Now some Q&A. You must have some questions.
 

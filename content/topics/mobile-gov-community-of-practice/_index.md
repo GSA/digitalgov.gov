@@ -5,7 +5,7 @@
 slug: "mobile-gov-community-of-practice"
 
 # Topic Title
-title: "Mobile Gov Community Of Practice"
+title: "MobileGov Community of Practice"
 
 # description — keep it short and clear
 summary: ""
