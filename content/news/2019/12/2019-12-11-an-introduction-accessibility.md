@@ -43,4 +43,4 @@ We hope you’ll use resource this to onboard someone to the topic of accessibil
 
 Huge shout-out to **Robert Jolly, a Product Manager at 18F** who recently took on the task of updating the [18F Accessibility Guide](https://accessibility.18f.gov/) to USWDS 2.0 from USWDS 1.0. Along the way, Robert stated, “I’m not an engineer by trade/title!” yet found his way through the guidance and made it happen.
 
-_“thanks for all the great work y’all are doing—it’s extremely helpful and sorely needed in the federal government.”_ — **Steven “Shep” Shepherd who works in the Policy and Legislative Initiatives Division at HUD** and is working with to revise their existing web forms using USWDS 2.0. 
+_“Thanks for all the great work y’all are doing&mdash;it’s extremely helpful and sorely needed in the federal government.”_ — **Steven “Shep” Shepherd**, who works in the Policy and Legislative Initiatives Division at the U.S. Department of Housing and Urban Development (HUD) and is working with to revise their existing web forms using [USWDS](https://designsystem.digital.gov/) 2.0. 
