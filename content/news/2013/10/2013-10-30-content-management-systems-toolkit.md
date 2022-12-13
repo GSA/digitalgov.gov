@@ -180,7 +180,7 @@ Business needs should be the [primary driver]({{< ref "2013-12-12-9-reasons-your
 
 Use these tools to document how well different products match your requirements. This will help you to identify the one that will work best for you.
 
-  * [CMS Solution Evaluation Tool]({{< legacy-file "2014/07/sample-cms-solution-evaluation-tool.xlsx" >}})  (MS Excel, 36 KB, 1 sheet, November 2012)—a sample spreadsheet used to compare, rate, and rank different CMS tools side-by-side, based on features and functionality
+  * [CMS Solution Evaluation Tool]({{< legacy-file "2014/07/sample-cms-solution-evaluation-tool.xlsx" >}})  (Excel spreadsheet, 36 KB, 1 sheet, November 2012)—a sample spreadsheet used to compare, rate, and rank different CMS tools side-by-side, based on features and functionality
   * [CMSmatrix.org](http://www.cmsmatrix.org/)—this online tool lets you compare features of many different CMS products side-by-side
 
 Use this [sample Web CMS Requirements doc]({{< legacy-file "2014/07/cms-requirements-for-sow.docx" >}}) (MS Word, 90 KB, 27 pages, December 2012) as a model to document everything that your CMS should do.
@@ -362,7 +362,7 @@ Some agencies have launched an early version their new site in “beta,” runni
 
 Once you have tested your migration process and everything works well, it&#8217;s time to move your content into the new CMS. You&#8217;ll need to validate that each piece of content was correctly migrated. Use the checklist below to verify each page as you move it.
 
-[Content Migration Validation Checklist]({{< legacy-file "2014/07/content-migration-validation-checklist.xlsx" >}}) (MS Excel, 41 KB, 1 sheet, December 2012)
+[Content Migration Validation Checklist]({{< legacy-file "2014/07/content-migration-validation-checklist.xlsx" >}}) (Excel spreadsheet, 41 KB, 1 sheet, December 2012)
 
 ### Create Redirects as Needed
 
