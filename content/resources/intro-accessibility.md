@@ -199,8 +199,8 @@ If you are able to test screen readers with multiple browsers, the following is 
 
 _This introduction to accessibility was based on content created by the [Technology Transformation Services](https://join.tts.gsa.gov/tts-offices/) (TTS) **Accessibility Guild**. Many thanks to former guild co-leads, **Toni Bonitto (TTS Solutions)**, **Jacklynn Pham (18F)**, **Nikki Lee (18F)**, and **David Stenger (USAgov)** for creating and iterating on this!_
 
-{{< note "activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)—a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
+{{< note "activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)&mdash;a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
 
-[**Join** our Communities of Practice](https://digital.gov/communities/) to share resources and collaborate with others focused on building better digital experiences in government. {{< /note >}}
+[**Join** our Communities of Practice](https://digital.gov/communities/)&mdash;share resources and collaborate with others focused on building better digital experiences in government. {{< /note >}}
 
 _(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
