@@ -17,7 +17,7 @@ authors:
 
 slug: to-build-trust-aim-for-easy
 
-primary_image: 
+primary_image: "title-card-to-build-trust-aim-for-easy"
 
 # Controls how this page appears across the site
 # 0 -- hidden
