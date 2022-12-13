@@ -18,7 +18,7 @@ The Paperwork Reduction Act (PRA) of 1995 requires that agencies obtain Office o
 
 - [Introducing: A Guide to the Paperwork Reduction Act](https://digital.gov/2019/06/18/introducing-a-guide-paperwork-reduction-act/) (June 2019)
 - [Federal Collection of Information](https://www.whitehouse.gov/omb/information-regulatory-affairs/federal-collection-information/)
-  - [Improving Implementation of the Paperwork Reduction Act](https://www.whitehouse.gov/omb/information-regulatory-affairs/federal-collection-information/#IIPR)
+    - [Improving Implementation of the Paperwork Reduction Act](https://www.whitehouse.gov/omb/information-regulatory-affairs/federal-collection-information/#IIPR)
 - [OMB M-11-26, Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://digital.gov/resources/m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act/)
 - [Executive Order 13571 – Streamlining Service Delivery and Improving Customer Service (April 2011)](https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom)
 - [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (PDF, 83 KB, 7 pages, April 2010)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)
