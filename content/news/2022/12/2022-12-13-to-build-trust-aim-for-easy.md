@@ -1,10 +1,8 @@
 ---
 date: 2022-12-13 10:12:00 -0500
-title: To Build Trust, Aim for Easy
-deck: ""
-summary: Trust is earned through consistency and commitment. Build sites that
-  build trust by considering user needs, respecting people’s time, and avoiding
-  CX pitfalls.
+title: "To Build Trust, Aim for Easy"
+summary: "Trust is earned through consistency and commitment. Build sites that build trust by considering user needs, respecting people’s time, and avoiding customer experience pitfalls."
+
 # See all topics at https://digital.gov/topics
 topics:
   - 21st-century-idea
@@ -12,15 +10,22 @@ topics:
   - cx
   - usability
   - accessibility
-# See all authors at https://digital.gov/authors
-authors: []
+
+# see all authors at https://digital.gov/authors
+authors:
+  - amanda-dean
+
 slug: to-build-trust-aim-for-easy
-primary_image: 10x-areas-of-focus
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 What do you like about your favorite restaurant? It may be the service, the quality, the consistency — but what’s that thing that brings you back?
 
 **Trust**.
@@ -102,13 +107,11 @@ Maintaining less information in fewer places means faster reviews and posting ti
 * Strategically promote your content and comms channels so people know where to go.
 * Use the same language when talking about the same thing across pages and platforms.
 
-**Join the UX Community**
-
+{{< note "activity" >}}**Join the UX Community**<br />
 The [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) brings together government user experience practitioners to create better user-centered products for the public.
 
-**Join the CX Community**
-
-The [Customer Experience Community of Practice](https://coe.gsa.gov/communities/cx.html) (CX CoP) unites federal employees to improve the experience that the public has with government services, organizations, and agencies.
+**Join the CX Community**<br />
+The [Customer Experience Community of Practice](https://coe.gsa.gov/communities/cx.html) (CX CoP) unites federal employees to improve the experience that the public has with government services, organizations, and agencies.{{< /note >}}
 
 ## Resources
 
@@ -119,8 +122,7 @@ The [Customer Experience Community of Practice](https://coe.gsa.gov/communities/
 * [PlainLanguage.gov](https://www.plainlanguage.gov)
 * [Guide to the Paperwork Reduction Act](https://pra.digital.gov)
 * [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)
-
-  * [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/).
+   * [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/).
 * [President’s Management Agenda (PMA) Priority 2: Delivering Excellent, Equitable, and Secure Federal Services and Customer Experience](https://www.performance.gov/pma/cx/)
 * [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/)
 * [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
