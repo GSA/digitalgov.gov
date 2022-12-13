@@ -132,7 +132,7 @@ Kristin—Focus on their future vision, looking a decade ahead to imagine what t
   * Actively show people you are listening and taking action on their feedback &#8211; particularly if the changes may not be immediately visible to employees.
   * We’re all in this together!
 
-You can [view the presentation slides](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/03/Employee-Engagement-FINAL-FINAL-2_25_16.pptx) (PPT, 3.4 MB, 20 slides) or watch the webinar in its entirety to learn more about this topic.
+You can [view the presentation slides](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/03/Employee-Engagement-FINAL-FINAL-2_25_16.pptx) (PowerPoint, 3.4 MB, 20 slides) or watch the webinar in its entirety to learn more about this topic.
 
 [youtube=http://www.youtube.com/watch?v=THvdtQQURZ0&w=600]
 

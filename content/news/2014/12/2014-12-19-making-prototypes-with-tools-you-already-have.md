@@ -36,7 +36,7 @@ This testing provided valuable information that we used to update the website re
 
 I have since used Office Developer Tools and VBA programming to build more prototypes. I have also used these tools to develop Access databases, perform simple data coding in Excel, and design fillable forms in Word. With each project, the time needed to build the prototypes gets shorter and the range of functions gets larger. It’s a learning process and one that I think is well worth the effort.
   
-Finally, if you’d like to see the Prototypes themselves, you can download the [Powerpoint File](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/Developer-Tool-Examples.pptm) (PPT, 141 KB, Dec. 2014).
+Finally, if you’d like to see the Prototypes themselves, you can download the [Powerpoint File](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/Developer-Tool-Examples.pptm) (PowerPoint, 141 KB, Dec. 2014).
 
 _**Brandon Kopp** is Research Psychologist at the Bureau of Labor Statistics (BLS)._
 _Editor’s Note: You can check out our previous articles on the importance of Prototyping, including how to make a [mobile paper prototype]({{< ref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}}) and how to do [design sketches]({{< ref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}})._

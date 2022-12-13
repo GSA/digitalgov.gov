@@ -16,15 +16,15 @@ Some agencies are turning to responsive design to support device-agnostic conten
 
 Agency experts covered responsive design technical approaches and strategy and you can listen to the whole webinar below. One topic interesting to listeners was why agencies decided to implement [responsive design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). Below we have highlighted each presenter&#8217;s reasoning for pursing responsive design.
 
-[AIDS.gov noted](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/aids.gov-responsive-design.ppt) (_PPT, 6.5 MB, 18 pages_) that data collected on their website pointed to a need for a mobile strategy like responsive design. Specifically:
+[AIDS.gov noted](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/aids.gov-responsive-design.ppt) (_PowerPoint, 6.5 MB, 18 pages_) that data collected on their website pointed to a need for a mobile strategy like responsive design. Specifically:
 
   * The ensuing demand for mobile data related towards diseases (in particular top health related searches in 2011 included Chlamydia, bipolar disorder, depression, herpes, and smoking/quitting smoking).
   * Their audience base seemed to factor into their responsive design choices, in that some communities are proportionality more at-risk for HIV and they use mobile more frequently to access online resources.
   * Another reason was the exponential growth of mobile traffic. In June 2010, AIDS.gov mobile traffic hovered around 2.5%. In June 2012 in grew exponentially to 25%.
 
-Similarly, the [USA.gov Apps Gallery moved to responsive design](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/USA.gov_responsive-design-pilot.ppt) (_PPT, 999 KB, 20 pages_) to“provide the public with access to government-related mobile solutions and simpler access to services and information, and provide new ways for citizen engagement.”
+Similarly, the [USA.gov Apps Gallery moved to responsive design](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/USA.gov_responsive-design-pilot.ppt) (_PowerPoint, 999 KB, 20 pages_) to“provide the public with access to government-related mobile solutions and simpler access to services and information, and provide new ways for citizen engagement.”
 
-Finally, [GSA OCFO/BD found reasons for responsive design as well](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/GSA-CFO_responsive-design-case-study.ppt) (_PPT, 803 KB, 14 pages_). Their reasons included:
+Finally, [GSA OCFO/BD found reasons for responsive design as well](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/GSA-CFO_responsive-design-case-study.ppt) (_PowerPoint, 803 KB, 14 pages_). Their reasons included:
 
   * An increase in overall mobile use
   * Rollout of mobile device in-house at GSA (i.e. iOS and Android)

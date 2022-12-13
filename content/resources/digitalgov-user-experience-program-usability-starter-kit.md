@@ -14,7 +14,7 @@ Here are some tools and templates to help you create better user experiences. If
 
 1. **Usability and User Experience Presentations**:
 
-   - [User-Centered Design Presentation](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/UCD-Webinar-short-done-1-2.pptx) (PPT, 5.4 MG, 40 slides, Nov 2013) and [Recorded Video](http://www.youtube.com/watch?v=GwBBtTkUAcA&index=18&list=PLd9b-GuOJ3nGAp5rEv5-9qfkCMlgohUMr)
+   - [User-Centered Design Presentation](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/UCD-Webinar-short-done-1-2.pptx) (PowerPoint, 5.4 MG, 40 slides, Nov 2013) and [Recorded Video](http://www.youtube.com/watch?v=GwBBtTkUAcA&index=18&list=PLd9b-GuOJ3nGAp5rEv5-9qfkCMlgohUMr)
    - [Introduction to Hallway Usability Testing](http://www.youtube.com/watch?v=HzBXQsJT4tg&index=9&list=PLd9b-GuOJ3nGAp5rEv5-9qfkCMlgohUMr) (Video)
 
 2. **Usability Test**:
@@ -22,7 +22,7 @@ Here are some tools and templates to help you create better user experiences. If
    - [Usability Testing Script](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/usability-testing-script.doc) (DOC, 81 KB, 6 pages, November 2013) (and [Spanish Version](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/usability-testing-script-spanish1.doc)) (MS Word, 39.5 KB, 2 pages, November 2013)
    - [Recording Consent Form](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/recording-consent-form1.doc) (DOC, 23 KB, 1 page, November 2013)
    - [Instructions for usability test observers](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/instructions-for-usability-test-observers.doc) (DOC, 26.5 KB, 2 pages, November 2013)
-   - [Usability Report Template](http://www.slideshare.net/DigitalGov/usability-testing-report-template "Usability Test Report Template") 1 (PPT, 373 KB, 8 slides, May 2014)
+   - [Usability Report Template](http://www.slideshare.net/DigitalGov/usability-testing-report-template "Usability Test Report Template") 1 (PowerPoint, 373 KB, 8 slides, May 2014)
    - [Usability Report Template 2](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/EmployeeExpressfinalreport-2.docx) (DOC, 20 KB, 6 pages, May 2014)
    - [System Usability Scale / Post-Test Questions](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/SUS-Universal.docx) (DOC, 500k, 1 page, Dec. 2014)
    - [Usability Test Plan Template](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Fhow-to-and-tools%2Fresources%2Ftemplates%2Fusability-test-plan-template.html&sa=D&sntz=1&usg=AFQjCNGDQT0Ec_nhB2NuiWv4HdPLPsMUwA) (from usability.gov)
@@ -31,7 +31,7 @@ Here are some tools and templates to help you create better user experiences. If
 3. **Focus Group**:
 
    - [Video Focus Group Script and Facilitator Guidelines &#8211; Sample](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/FocusGroupDiscussionGuide-generic.docx) (DOC, 21 KB, December 2014)
-   - [Igniting User-Centered Design Thinking at Dept. of Energy](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/UXPA-DC-2014-Wendy-Littman.pptx) (PPT, 5.4 MG, 14 slides, December 2014)
+   - [Igniting User-Centered Design Thinking at Dept. of Energy](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/UXPA-DC-2014-Wendy-Littman.pptx) (PowerPoint, 5.4 MG, 14 slides, December 2014)
 
 4. **Usability Expert Evaluation** (in beta):
 
@@ -43,8 +43,8 @@ Here are some tools and templates to help you create better user experiences. If
 
    - Veteran&#8217;s Affairs &#8211; [Voices of Veterans research](http://www.innovation.va.gov/hcd.asp)
    - [USDA Personas and Use Cases](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Marsh-Personas.pdf) (PDF, 1.7 MG, Dec. 2014)
-   - [GSA Open Opportunity Personas](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/OPENOPPS-personas-final.pptx.pptx) (PPT, 94K, Dec. 2014) and [article about creating them](https://www.digitalgov.gov/2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities)
-   - [Persona Template](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/Persona-Template.pptx) (PPT, 254 KB, 4 slides, May 2014)
+   - [GSA Open Opportunity Personas](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/OPENOPPS-personas-final.pptx.pptx) (PowerPoint, 94K, Dec. 2014) and [article about creating them](https://www.digitalgov.gov/2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities)
+   - [Persona Template](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/Persona-Template.pptx) (PowerPoint, 254 KB, 4 slides, May 2014)
 
 6. **Accessibility** (general information):
 
@@ -61,7 +61,7 @@ Here are some tools and templates to help you create better user experiences. If
 
 8. **Paperwork Reduction Act** (PRA):
 
-   - User Research and The Paperwork Reduction Act: How to Get it Done &#8211; [Webinar](https://www.youtube.com/watch?v=_cqE4a8oAHU) and [PRA Slides](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/PRA-for-UX_Fox_2015-3.pptx) (PPT, 811K, 40 slides, Jan 2015)
+   - User Research and The Paperwork Reduction Act: How to Get it Done &#8211; [Webinar](https://www.youtube.com/watch?v=_cqE4a8oAHU) and [PRA Slides](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/PRA-for-UX_Fox_2015-3.pptx) (PowerPoint, 811K, 40 slides, Jan 2015)
    - [PRA Fastrack Request Example](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/fast-track-PRA-submission-short-form-2.doc), via USAJOBS (DOC, 61K, 4 pages, Oct. 2014)
    - [PRA Primer &#8211; OMB Guidance](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/PRAPrimer_04072010-2.pdf) (PDF, 98k, 8 pages, April 2010)
    - [PRA Fast Track FAQ](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/PRA_Fast_Track_FAQs-1.pdf) (PDF, 143k, 8 pages, Dec. 2014)

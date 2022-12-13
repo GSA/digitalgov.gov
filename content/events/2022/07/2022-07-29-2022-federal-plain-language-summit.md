@@ -195,7 +195,7 @@ In this session you will hear from the following speaker:
 
 ## 3:00 pm - 3:30 pm , ET<br />Recognizing Systemic Challenges for the Design Team of One
 
-{{< asset-static file="plain-language-summit-you-are-the-user-recognizing-systemic-challenges.pptx" label="View the slides (PowerPoint, 547KB, 48 pages)" >}}
+{{< asset-static file="plain-language-summit-you-are-the-user-recognizing-systemic-challenges.pptx" label="View the slides (PowerPoint, 547 KB, 48 pages)" >}}
 
 Many designers are often alone on projects. Even in large organizations, they may feel isolated as they work with their product team. When things don’t go smoothly, designers may shoulder the blame. In this talk, listeners will come away with a design framework to recognize when they need to focus on the system they’re in, instead of their performance.
 
