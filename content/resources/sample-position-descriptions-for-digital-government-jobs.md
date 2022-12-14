@@ -20,7 +20,7 @@ Use and customize these sample position descriptions to hire your own digital go
 ## Content Management / Strategy
 
 - [Content Strategist (IT Specialist) GS-12](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/GS-2210-12-IT-Specialist.pdf) (PDF, 75 KB, 7 pages, July 2014)
-- [Health Systems Specialist (DigitalGov) GS-14](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Health-System-Specialist-DigitalGov-GS-14.docx) (MS Word, 21KB, 4 pages, July 2014)
+- [Health Systems Specialist (DigitalGov) GS-14](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Health-System-Specialist-DigitalGov-GS-14.docx) (MS Word, 21 KB, 4 pages, July 2014)
 - [Content Coordinator, General](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/content-coordinators-general-September-2012.doc) (MS Word, 19 KB, 1 page, September 2012)
 - [National Web Content Manager](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/national-web-content-manager-September-2012.doc) (MS Word, 18 KB, 1 page, September 2012)
 - [Content Strategist (IT Specialist), GS-12](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/IT-specialist.doc) (MS Word, 33.5 KB, 1 page, September 2012)
@@ -58,11 +58,11 @@ Use and customize these sample position descriptions to hire your own digital go
 
 ## Social Media
 
-- [Public Affairs Specialist (Social Media), GS-11](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Public-Affairs-Specialist-Social-Media-GS-11.docx) (MS Word, 21KB, 5 pages, July 2014)
+- [Public Affairs Specialist (Social Media), GS-11](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Public-Affairs-Specialist-Social-Media-GS-11.docx) (MS Word, 21 KB, 5 pages, July 2014)
 - [New Media Associate, GS-11/12](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/new-media-associate-GS-11-12-September-2012.doc) (MS Word, 34.5 KB, 1 page, September 2012)
 - [New Media Specialist, GS-11](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/new-media-specialist-GS-11-September-2012.doc) (MS Word, 20 KB, 1 page, September 2012)
 - [New Media Technician, GS-13](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/new-media-technician-GS-13-September-2012.doc) (MS Word, 58.5 KB, 1 page, September 2012)
-- [Social Media Manager, GS-14](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/social-media-manager-Technical-Information-Specialist-Social-Media-2013.doc) (MS Word, 41.0 KB, 3 pages, September 2013)
+- [Social Media Manager, GS-14](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/social-media-manager-Technical-Information-Specialist-Social-Media-2013.doc) (MS Word, 41 KB, 3 pages, September 2013)
 - [Social Media Manager, GS-14](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/social-media-manager-GS-14-September-2012.doc) (MS Word, 34.5 KB, 1 page, September 2012)
 
 ## Search
@@ -75,30 +75,30 @@ Job posting examples of User Centered Design and research.
 
 - **Cognitive Research / Psychology**
 
-    - [Research Psychologist &#8211; Army](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ResearchPsychologist-Army.docx) (MS Word, Feb. 2015)
-    - [Research Psychologist &#8211; U.S. Census](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ResearchPsychologist-U.S.Census.docx) (MS Word, Feb. 2015)
-    - [Computer Scientist &#8211; NIST](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ComputerScientist-NationalInstituteofStandardsandTechnology.docx) (MS Word, Feb. 2015)
+    - [Research Psychologist &#8211; Army](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ResearchPsychologist-Army.docx) (MS Word, 13 KB, 2 pages, Feb. 2015)
+    - [Research Psychologist &#8211; U.S. Census](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ResearchPsychologist-U.S.Census.docx) (MS Word, 8 KB, 2 pages, Feb. 2015)
+    - [Computer Scientist &#8211; NIST](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ComputerScientist-NationalInstituteofStandardsandTechnology.docx) (MS Word, 12 KB, 2 pages, Feb. 2015)
 
 - **Customer Experience**
-    - [Customer Experience Officer &#8211; Dept. of Education](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/Customer-Experience-Officer-Dept.-Education.pdf) (PDF, Feb. 2015)
+    - [Customer Experience Officer &#8211; Dept. of Education](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/Customer-Experience-Officer-Dept.-Education.pdf) (PDF, 12 KB, 3 pages, Feb. 2015)
 - **Information Architecture**
-    - [Information Architect &#8211; Library of Congress](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/InformationArchitect-LibraryofCongress.docx) (MS Word, Feb. 2015)
+    - [Information Architect &#8211; Library of Congress](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/InformationArchitect-LibraryofCongress.docx) (MS Word, 6 KB, 2 pages, Feb. 2015)
 - **User Experience Design**
-    - [User Interface Designer &#8211; Veterans Affairs](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-VeteransAffairs2.docx) (MS Word, Feb. 2015)
-    - [User Experience Designer &#8211; CFPB](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UXDesigner-CFPB.docx) (MS Word, Feb. 2015)
-    - [User Experience Designer &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UXDesigner-PatentandTrademarkOffice1.docx) (MS Word, Feb. 2015)
+    - [User Interface Designer &#8211; Veterans Affairs](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-VeteransAffairs2.docx) (MS Word, 7 KB, 3 pages, Feb. 2015)
+    - [User Experience Designer &#8211; CFPB](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UXDesigner-CFPB.docx) (MS Word, 7 KB, 2 pages, Feb. 2015)
+    - [User Experience Designer &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UXDesigner-PatentandTrademarkOffice1.docx) (MS Word, 7 KB, 2 pages, Feb. 2015)
 - **User Experience Research**
-    - [Senior Usability Specialist &#8211; Federal Aviation Administration](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/SeniorUsabilitySpecialist-FederalAviationAdministration.docx) (MS Word, Feb. 2015)
-    - [Program Analyst, Usability &#8211; GSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ProgramAnalystUsability-GSA1.docx) (MS Word, Feb. 2015)
-    - [Usability Specialist &#8211; HHS](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-HHS.docx) (MS Word, Feb. 2015)
-    - [Usability Specialist &#8211; Veterans Affairs](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-VeteransAffairs2.docx) (MS Word, Feb. 2015)
-    - [Engineering Psychologist &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/EngineeringPsychologistUserExperienceUsabilitySr-U.S.PatentTrademarkOffice.docx) (MS Word, Feb. 2015)
+    - [Senior Usability Specialist &#8211; Federal Aviation Administration](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/SeniorUsabilitySpecialist-FederalAviationAdministration.docx) (MS Word, 6 KB, 2 pages, Feb. 2015)
+    - [Program Analyst, Usability &#8211; GSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/ProgramAnalystUsability-GSA1.docx) (MS Word, 5 KB, 1 page, Feb. 2015)
+    - [Usability Specialist &#8211; HHS](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-HHS.docx) (MS Word, 8 KB, 3 pages, Feb. 2015)
+    - [Usability Specialist &#8211; Veterans Affairs](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/UsabilitySpecialist-VeteransAffairs2.docx) (MS Word, 7 KB, 3 pages, Feb. 2015)
+    - [Engineering Psychologist &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/EngineeringPsychologistUserExperienceUsabilitySr-U.S.PatentTrademarkOffice.docx) (MS Word, 8 KB, 3 pages, Feb. 2015)
 
 [Find additional position templates on Usability.gov](http://www.Usability.gov)
 
 ## Additional Resources
 
-- [Introduction to the Position Classification Standards (OPM)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-opm-position-classification-standards-September-2009.pdf) (PDF, 438.81, 73 pages, September 2009)
+- [Introduction to the Position Classification Standards (OPM)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-opm-position-classification-standards-September-2009.pdf) (PDF, 449 KB, 73 pages, September 2009)
 - [OPM Hiring Reform](http://www.opm.gov/policy-data-oversight/human-capital-management/hiring-reform/)
 - Create a job announcement:
     - [Position Description](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/resources-position-description-process-improvement-specialist-metrics-September-2011.pdf) (PDF, 555 KB, 8 pages, September 2011)

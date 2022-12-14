@@ -38,7 +38,7 @@ Federal friendly Terms of Service for distribution agreements have been negotiat
 
 ## How to Implement
 
-If you’re a federal employee, follow these steps (or [download our easy step-by-step flowchart]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf " see our easy step by step flowchart"" >}}) [PDF, 1 page, 361 KB, February 2015 ]) before setting up an account to use a free digital media tool:
+If you’re a federal employee, follow these steps (or [download our easy step-by-step flowchart]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf " see our easy step by step flowchart"" >}}) [PDF, 361 KB, 1 page, February 2015 ]) before setting up an account to use a free digital media tool:
 
 1. **Review existing policy**: Review your agency’s social media policy and guidance to be sure you understand requirements to use specific tools, branding, etc.
 
