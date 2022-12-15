@@ -24,7 +24,7 @@ To help agencies better understand APIs, DigitalGov University hosted a webinar,
   
 Attendees have already said the most useful part was hearing these case studies:
 
-**Jim Wilson** of NASA talked about [how pulling APIs into NASA.gov](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/api-webinar-series-apis-for-dummies.pdf) (PDF, 1.5 MB, 7 pages)has helped them <a href="http://www.nasa.gov/" target="_blank">release content and data</a> to the public more quickly and easily. It&#8217;s also made their internal publishing processes more efficient. Before they began using APIs, the process of adding new content&#8211;especially video content&#8211;was cumbersome and labor intensive. It required them to:
+**Jim Wilson** of NASA talked about [how pulling APIs into NASA.gov](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/api-webinar-series-apis-for-dummies.pdf) (PDF, 1.5 MB, 7 pages) has helped them <a href="http://www.nasa.gov/" target="_blank">release content and data</a> to the public more quickly and easily. It&#8217;s also made their internal publishing processes more efficient. Before they began using APIs, the process of adding new content&#8211;especially video content&#8211;was cumbersome and labor intensive. It required them to:
 
   * Generate linking files
   * Cut and paste photos and other multimedia
