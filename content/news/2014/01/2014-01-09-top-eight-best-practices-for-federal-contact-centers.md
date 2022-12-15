@@ -27,7 +27,7 @@ topics:
 ## 2. Use Performance Metrics to Influence Business Rules and Drive Improvements
 
   * Develop [Key Performance Indicators/Metrics]({{< ref "getting-started-with-your-contact-center.md" >}} "Getting Started with your Contact Center") (see Performance Goals).
-  * [CSLIC](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/citizen-service-levels-interagency-committee-final-report1.docx) could be used as a start.
+  * [CSLIC](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/citizen-service-levels-interagency-committee-final-report1.docx) (MS Word, 82 KB, 36 pages) could be used as a start.
 
 ## 3. Develop and Use a Comprehensive Quality Assurance Program
 
@@ -37,7 +37,7 @@ topics:
 
 ## 4. Implement a Content Strategy
 
-  * Develop content guidelines ([plain language](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/plain-writing-checklist.pdf), accessibility, etc.)
+  * Develop content guidelines ([plain language](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/plain-writing-checklist.pdf) (PDF, 186 KB, 1 page), accessibility, etc.)
   * Institute a content review process (including a schedule and checklist for quality and functionality).
   * Use FAQs or a [knowledgebase]({{< ref "contact-center-technologies.md" >}} "Contact Center Technologies").
   * Develop pre-formatted responses (canned/scripted answers) for email, chat, social media, etc.

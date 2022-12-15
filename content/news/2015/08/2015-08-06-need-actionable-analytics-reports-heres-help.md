@@ -20,7 +20,7 @@ As part of its on-going effort to educate and empower DAP users with Web analyti
 
 The DAP Custom Reporting Catalog offers over 20 report templates to facilitate website/agency Web traffic analysis and help make the best of the data collected within specific agencies or government-wide views. So, whether users want data on the top performing blog content, or the most downloaded PDF, or the top trending on-site search terms, custom reporting templates can help you access your data with fewer clicks. Traffic sources and acquisition, top downloads, sessions with on-site search and mobile performance are just some examples of the templates provided in the catalog.
 
-[Download the Solutions Catalog](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/DAPReportingSolutionsCatalog082015.pdf) (1 MB PDF, 24 pages)
+[Download the Solutions Catalog](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/DAPReportingSolutionsCatalog082015.pdf) (PDF, 1 MB, 24 pages)
 
 Here are two examples.
 

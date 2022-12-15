@@ -30,5 +30,5 @@ topics:
 </p>
 
 <p>
-  Watch the webinar or view the slide presentation, <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/amplify-your-message-with-thunderclap-slides.pdf">Amplify Your Message with Thunderclap</a>, to find out more about using the tool.
+  Watch the webinar or view the slide presentation, <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/amplify-your-message-with-thunderclap-slides.pdf">Amplify Your Message with Thunderclap</a> (PDF, 7.7 MB, 81 pages), to find out more about using the tool.
 </p>

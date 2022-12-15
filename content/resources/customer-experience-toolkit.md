@@ -83,7 +83,7 @@ Designate a single person to be responsible for the customer experience agency-w
 ### Stand up a Customer Team
 
 - Performance Plans
-    - [Sample CX Consultant performance plan](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/CX-Consultant-Performance-Plan.xlsx) (Excel spreadsheet, 82 KB, 2 pages) &#8211; GSA
+    - [Sample CX Consultant performance plan](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/CX-Consultant-Performance-Plan.xlsx) (Excel spreadsheet, 82 KB, 2 tabs) &#8211; GSA
 - Position Descriptions (PDs)
     - [Sample PDs for Digital Government jobs](https://digital.gov/resources/sample-position-descriptions-for-digital-government-jobs/) - incl. usability, design, analytics
 - Agency examples
