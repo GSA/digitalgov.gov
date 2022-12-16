@@ -131,8 +131,7 @@ When user research and usability face tightening deadlines, deadlines usually wi
 
 
 {{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint, 3.06 MB, 27 pages)" >}}
-In this session yo
-u will hear from the following speaker:
+In this session you will hear from the following speaker:
 
 * **Tait Chamberlain** &mdash; U.S. Department of Education (ED)
 
