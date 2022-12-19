@@ -963,6 +963,7 @@ collections:
     label: "File upload"
     description: "Upload PDF, Excel, PowerPoint or Word doc"
     folder: "static/file/proxy"
+    default: "static/file/proxy"
     identifier_field: file
     publish: true
     fields:
@@ -971,7 +972,6 @@ collections:
         widget: "file"
         pattern: ['.*\.(pdf|ppt|doc|xls?x|)$', "Allowed files are .pdf, .xls/x, .doc, .ppt"]
         media_library:
-          media_folder: "static/file/proxy"
           config:
             multiple: true
 
