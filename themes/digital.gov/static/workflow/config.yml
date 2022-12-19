@@ -962,15 +962,16 @@ collections:
     name: "file-upload"
     label: "File upload"
     description: "Upload PDF, Excel, PowerPoint or Word doc"
-    folder: "content/files/_inbox"
+    folder: "static/file/proxy"
     identifier_field: file
     publish: true
     fields:
       - label: "File"
         name: "file"
         widget: "file"
-        pattern: ['.*\.(pdf|ppt|doc|xls?x|)$', "Invalid file type, allowed types are .pdf, .xls/x, doc, ppt"]
+        pattern: ['.*\.(pdf|ppt|doc|xls?x|)$', "Allowed files are .pdf, .xls/x, .doc, .ppt"]
         media_library:
+          media_folder: "static/file/proxy"
           config:
             multiple: true
 
