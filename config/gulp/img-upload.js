@@ -27,6 +27,25 @@ function upload() {
     .pipe(dest("content/images/_working/uploaded/"));
 }
 
+function uploadStaticFile() {
+  console.log("starting static file upload");
+  return src("content/images/_working/to-process/*")
+    .pipe(
+      s3(
+        {
+          Bucket: "digitalgov/static", //  Required
+          ACL: "public-read", //  Needs to be user-defined
+        },
+        {
+          // S3 Constructor Options, ie:
+          maxRetries: 5,
+        }
+      )
+    )
+    .pipe(vinylPaths(del))
+    .pipe(dest("content/images/_working/uploaded/"));
+}
+
 function done() {
   return src("content/images/_working/originals/*").pipe(
     dest("content/images/uploaded/")
@@ -37,4 +56,9 @@ function cleanup() {
   return del(["content/images/_working/**"]);
 }
 
-exports.do = series(upload, done, cleanup);
+exports.do = series(
+  // upload, 
+  uploadStaticFile, 
+  done, 
+  cleanup
+);
