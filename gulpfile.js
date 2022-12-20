@@ -7,6 +7,10 @@ const img = {
     process: require("./config/gulp/img-process"),
     upload: require("./config/gulp/img-upload"),
   },
+  file = {
+    prep: require("./config/gulp/file-prep"),
+    upload: require("./config/gulp/file-upload")
+  }
   scripts = require("./config/gulp/scripts"),
   styles = require("./config/gulp/styles");
 
@@ -31,5 +35,6 @@ exports.buildAssets = parallel(styles.buildSass, scripts.compile);
 exports.buildSass = styles.buildSass;
 // exports.img = series(img.prep.do, img.process.do, img.upload.do);
 exports.img = series(img.prep.do, img.upload.do);
+exports.file = series(file.prep.do, file.upload.do);
 exports.watch = gulpWatch;
 exports.default = series(styles.buildSass, gulpWatch);

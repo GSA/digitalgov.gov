@@ -66,6 +66,9 @@ jobs:
       - run:
           name: Image Process
           command: gulp img
+      - run:
+          name: File Process
+          command: gulp file
       - add_ssh_keys:
           fingerprints:
             - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
@@ -74,7 +77,7 @@ jobs:
           command: |
             git config user.email "digitalgov@gsa.gov"
             git config user.name "CircleCI"
-            git add content/images/_inbox data/images static/img/proxy
+            git add content/images/_inbox data/images static/img/proxy content/files/_inbox data/files
             git commit -m "Images processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
 
 workflows:
