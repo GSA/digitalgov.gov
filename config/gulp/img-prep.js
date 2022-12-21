@@ -19,9 +19,8 @@ function fileTidy(done) {
   // const toProcessDirectory = "./content/images/_working/to-process";
   // const extAllowed = [".jpg", ".png", ".jpeg"];
   var newfileName = "";
-  paths = imgPaths;
 
-  fs.readdir(paths.working, (err, files) => {
+  fs.readdir(imgPaths.working, (err, files) => {
     //process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
       //if file includes the allowed extensions(.jpg,.png,.jpeh), process the file
@@ -32,8 +31,8 @@ function fileTidy(done) {
         createDir(orig, 3);
         createDir(toProcess, 3);
         fs.renameSync(
-          paths.workingDirectory + "/" + file,
-          paths.orig + "/" + newfileName
+          imgPaths.workingDirectory + "/" + file,
+          imgPaths.orig + "/" + newfileName
         );
         fs.copyFileSync(
           orig + "/" + newfileName,
