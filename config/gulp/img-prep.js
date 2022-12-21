@@ -5,14 +5,30 @@ const sizeOf = require("image-size");
 const fs = require("fs");
 const path = require("path");
 
+// const imageDir = {
+//   working: "./content/images/_inbox/",
+//   original: "./content/images/_working/originals",
+//   toProcess: "./content/images/_working/to-process"
+// }
+
+
+
+
 function fileTidy(done) {
-  const workingDirectory = "./content/images/_inbox/";
-  const origDirectory = "./content/images/_working/originals";
-  const toProcessDirectory = "./content/images/_working/to-process";
+  // const { working, original, toProcess} = imageDir;
+  // const workingDirectory = "./content/images/_inbox/";
+  // const origDirectory = "./content/images/_working/originals";
+  // const toProcessDirectory = "./content/images/_working/to-process";
+  // const extAllowed = [".jpg", ".png", ".jpeg"];
+  const imageDir = imageDir();
+  console.log(imageDir);
+
+  
   const extAllowed = [".jpg", ".png", ".jpeg"];
+  console.log(imageDir);
   var newfileName = "";
 
-  fs.readdir(workingDirectory, (err, files) => {
+  fs.readdir(imageDir.working, (err, files) => {
     //process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
       //if file includes the allowed extensions(.jpg,.png,.jpeh), process the file
@@ -20,15 +36,15 @@ function fileTidy(done) {
         //clean up the filename before processing
         newfileName = cleanFileName(file);
         //create working directories if they do not exist
-        createDir(origDirectory, 3);
-        createDir(toProcessDirectory, 3);
+        createDir(original, 3);
+        createDir(toProcess, 3);
         fs.renameSync(
-          workingDirectory + "/" + file,
-          origDirectory + "/" + newfileName
+          working + "/" + file,
+          original + "/" + newfileName
         );
         fs.copyFileSync(
-          origDirectory + "/" + newfileName,
-          toProcessDirectory + "/" + newfileName
+          original + "/" + newfileName,
+          toProcess + "/" + newfileName
         );
       }
     }
@@ -39,8 +55,24 @@ function fileTidy(done) {
       );
     }
   });
-  done();
+  // done();
 }
+
+function imageDir() {
+  return {
+    working: "./content/images/_inbox/",
+    original: "./content/images/_working/originals",
+    toProcess: "./content/images/_working/to-process"
+  }
+}
+
+// function imageTidy(imageDir, extAllowed, done) {
+//   fileTidy(imageDir, extAllowed, done);
+//   console.log(imageDir);
+//   return imageDir;
+//   done();
+// }
+
 
 function fileStaticTidy(done) {
   const workingDirectory = "./content/images/_inbox/";
@@ -256,8 +288,8 @@ function mkdirStaticFile() {
 
 
 exports.do = series(
-  // fileTidy,
-  fileStaticTidy, 
+  fileTidy,
+  // fileStaticTidy, 
   cleanInbox, 
   // writeDataFile, 
   writeDataStaticFile, 

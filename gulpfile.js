@@ -14,6 +14,12 @@ const img = {
   scripts = require("./config/gulp/scripts"),
   styles = require("./config/gulp/styles");
 
+// const imageDir = {
+//   working: "./content/images/_inbox/",
+//   original: "./content/images/_working/originals",
+//   toProcess: "./content/images/_working/to-process"
+// }
+
 function watchImages() {
   return series(img.prep.do, img.process.do, img.upload.do);
 }
@@ -33,8 +39,7 @@ exports.copyUswdsFonts = styles.copyUswdsFonts;
 exports.copyUswdsAssets = parallel(styles.copyUswdsImages, styles.copyUswdsJs, styles.copyUswdsFonts);
 exports.buildAssets = parallel(styles.buildSass, scripts.compile);
 exports.buildSass = styles.buildSass;
-// exports.img = series(img.prep.do, img.process.do, img.upload.do);
-exports.img = series(img.prep.do, img.upload.do);
+exports.img = series(img.prep.do);
 exports.file = series(file.prep.do, file.upload.do);
 exports.watch = gulpWatch;
 exports.default = series(styles.buildSass, gulpWatch);

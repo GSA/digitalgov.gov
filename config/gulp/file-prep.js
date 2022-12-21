@@ -12,7 +12,7 @@ function fileStaticTidy(done) {
   var newfileName = "";
 
   fs.readdir(workingDirectory, (err, files) => {
-    //process.stdout.write(files.length.toString() + "\n");
+    // process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
       if (extAllowed.includes(path.extname(file))) {
         //clean up the filename before processing
