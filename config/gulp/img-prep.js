@@ -5,14 +5,23 @@ const sizeOf = require("image-size");
 const fs = require("fs");
 const path = require("path");
 
-function fileTidy(done) {
-  const workingDirectory = "./content/images/_inbox/";
-  const origDirectory = "./content/images/_working/originals";
-  const toProcessDirectory = "./content/images/_working/to-process";
-  const extAllowed = [".jpg", ".png", ".jpeg"];
-  var newfileName = "";
+const imgPaths = {
+  working: "./content/images/_inbox/",
+  orig: "./content/images/_working/originals",
+  toProcess: "./content/images/_working/to-process",
+}
 
-  fs.readdir(workingDirectory, (err, files) => {
+const extAllowed = [".jpg", ".png", ".jpeg"];
+
+function fileTidy(done) {
+  // const workingDirectory = "./content/images/_inbox/";
+  // const origDirectory = "./content/images/_working/originals";
+  // const toProcessDirectory = "./content/images/_working/to-process";
+  // const extAllowed = [".jpg", ".png", ".jpeg"];
+  var newfileName = "";
+  paths = imgPaths;
+
+  fs.readdir(paths.working, (err, files) => {
     //process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
       //if file includes the allowed extensions(.jpg,.png,.jpeh), process the file
@@ -20,15 +29,15 @@ function fileTidy(done) {
         //clean up the filename before processing
         newfileName = cleanFileName(file);
         //create working directories if they do not exist
-        createDir(origDirectory, 3);
-        createDir(toProcessDirectory, 3);
+        createDir(orig, 3);
+        createDir(toProcess, 3);
         fs.renameSync(
-          workingDirectory + "/" + file,
-          origDirectory + "/" + newfileName
+          paths.workingDirectory + "/" + file,
+          paths.orig + "/" + newfileName
         );
         fs.copyFileSync(
-          origDirectory + "/" + newfileName,
-          toProcessDirectory + "/" + newfileName
+          orig + "/" + newfileName,
+          toProcess + "/" + newfileName
         );
       }
     }
@@ -256,11 +265,11 @@ function mkdirStaticFile() {
 
 
 exports.do = series(
-  // fileTidy,
-  fileStaticTidy, 
-  cleanInbox, 
-  // writeDataFile, 
-  writeDataStaticFile, 
-  // mkdir, 
+  fileTidy,
+  // fileStaticTidy,
+  cleanInbox,
+  // writeDataFile,
+  writeDataStaticFile,
+  // mkdir,
   mkdirStaticFile
 );
