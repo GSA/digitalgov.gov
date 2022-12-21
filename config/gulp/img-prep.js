@@ -5,30 +5,24 @@ const sizeOf = require("image-size");
 const fs = require("fs");
 const path = require("path");
 
-// const imageDir = {
-//   working: "./content/images/_inbox/",
-//   original: "./content/images/_working/originals",
-//   toProcess: "./content/images/_working/to-process"
-// }
 
+const imgPaths = {
+  working: "./content/images/_inbox/",
+  orig: "./content/images/_working/originals",
+  toProcess: "./content/images/_working/to-process",
+}
 
-
+const extAllowed = [".jpg", ".png", ".jpeg"];
 
 function fileTidy(done) {
-  // const { working, original, toProcess} = imageDir;
   // const workingDirectory = "./content/images/_inbox/";
   // const origDirectory = "./content/images/_working/originals";
   // const toProcessDirectory = "./content/images/_working/to-process";
   // const extAllowed = [".jpg", ".png", ".jpeg"];
-  const imageDir = imageDir();
-  console.log(imageDir);
 
-  
-  const extAllowed = [".jpg", ".png", ".jpeg"];
-  console.log(imageDir);
   var newfileName = "";
 
-  fs.readdir(imageDir.working, (err, files) => {
+  fs.readdir(imgPaths.working, (err, files) => {
     //process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
       //if file includes the allowed extensions(.jpg,.png,.jpeh), process the file
@@ -36,15 +30,16 @@ function fileTidy(done) {
         //clean up the filename before processing
         newfileName = cleanFileName(file);
         //create working directories if they do not exist
-        createDir(original, 3);
+
+        createDir(orig, 3);
         createDir(toProcess, 3);
         fs.renameSync(
-          working + "/" + file,
-          original + "/" + newfileName
+          imgPaths.workingDirectory + "/" + file,
+          imgPaths.orig + "/" + newfileName
         );
         fs.copyFileSync(
-          original + "/" + newfileName,
-          toProcess + "/" + newfileName
+          imgPaths.orig + "/" + newfileName,
+          imgPaths.toProcess + "/" + newfileName
         );
       }
     }
@@ -289,10 +284,10 @@ function mkdirStaticFile() {
 
 exports.do = series(
   fileTidy,
-  // fileStaticTidy, 
-  cleanInbox, 
-  // writeDataFile, 
-  writeDataStaticFile, 
-  // mkdir, 
+  // fileStaticTidy,
+  cleanInbox,
+  // writeDataFile,
+  writeDataStaticFile,
+  // mkdir,
   mkdirStaticFile
 );
