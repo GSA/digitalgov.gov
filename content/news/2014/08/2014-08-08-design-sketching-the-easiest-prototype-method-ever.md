@@ -9,13 +9,13 @@ topics:
   - design
   - mobile
   - DOL
-  - federal-user-experience-community
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - prototype
   - usability
   - user-experience
+  - user-experience-community-of-practice
 
 ---
 

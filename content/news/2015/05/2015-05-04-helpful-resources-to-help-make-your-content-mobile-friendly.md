@@ -18,11 +18,12 @@ topics:
   - sites
   - sitesusagov
   - usability-case-study
+
 ---
 
-{{< legacy-img src="2015/05/450-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="" >}}
-
 Smartphones make up 75% of the mobile market—which makes [mobile-friendliness a must]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}) for government agencies. With the recent update to Google’s search algorithm, or what some are calling [Mobilegeddon]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}), the case for building a mobile-friendly site becomes even stronger.
+
+{{< legacy-img src="2015/05/450-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="monicaodo/iStock/Thinkstock" >}}
 
 For many government organizations, responsive Web design (RWD) has been the answer to their mobile question. While [RWD is by no means a panacea](http://www.smashingmagazine.com/2014/07/22/responsive-web-design-should-not-be-your-only-mobile-strategy/), it can provide agencies with a way to reach their customers on many devices with one site.
 
@@ -32,7 +33,7 @@ Over the past year, we have published several [articles on RWD]({{< ref "/topics
 
 Here are a few resources to help in your agency&#8217;s quest to become responsive/mobile-friendly.
 
-## **Specific Mobile Web Techniques and Tools**
+## Specific Mobile Web Techniques and Tools
 
 [Open Source Content Management Systems and Responsive Web Design Webinar Recap]({{< ref "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}})
 
@@ -50,15 +51,17 @@ The Digital Analytics Program&#8217;s customized Web analytics solution provides
 
 The Department of Health and Human Services [developed and shared Bootstrap code]({{< ref "2014-10-30-hhs-conquers-tables-in-a-responsive-design.md" >}}) to make tables and charts responsive. The Defense Finance and Accounting Services (DFAS) [leveraged this code for their site]({{< ref "2014-12-11-defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables.md" >}}).
 
-## **Challenges of RWD**
+## Challenges of RWD
 
 [Responsive Web Design Challenges Webinar Recap]({{< ref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}})
 
 Agencies discuss the challenges faced when implementing RWD, including making a case for why your agency should adopt RWD, scheduling/project management concerns, and dealing with specific things such as PDFs and tables on the redesigned site.
 
-## **Responsive Web Design Case Studies**
+## Responsive Web Design Case Studies
 
-{{< legacy-img src="2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" >}}From building the case for RWD to working through procurement cycles, we have a number of case studies showing how agencies implemented RWD.
+{{< legacy-img-right src="2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" >}}
+
+From building the case for RWD to working through procurement cycles, we have a number of case studies showing how agencies implemented RWD.
 
   * DFAS made a case for switching to RWD when [they saw their mobile usage rates increasing at the same time the site’s bounce rate was also increasing]({{< ref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}}), signifying that more people were coming from mobile devices and leaving quickly when they had trouble finding the information they were looking for. DFAS then [utilized the responsive template code developed by HHS to make mobile-friendly data tables]({{< ref "2014-12-11-defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables.md" >}}).
 

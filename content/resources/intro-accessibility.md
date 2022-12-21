@@ -182,6 +182,7 @@ If you are able to test screen readers with multiple browsers, the following is 
 ## Additional Resources
 
 - [Section508.gov](https://www.section508.gov/) — Provides guidance to federal agency staff who play a role in IT accessibility. Key topics include program management, procurement, tools & training, and policy compliance.
+    - [Find Your 508 Program Manager](https://www.section508.gov/tools/coordinator-listing/)
 - [Accessibility for Teams](https://accessibility.digital.gov/) — A guide to incorporating accessibility into product development teams.
 - [18F Accessibility Guide](https://accessibility.18f.gov/?=dg) — A resource for developing accessible products.
 - [U.S. Web Design System](https://designsystem.digital.gov/) — Our design system for the federal government was built with accessibility first.
@@ -194,8 +195,12 @@ If you are able to test screen readers with multiple browsers, the following is 
 - [Microsoft’s Inclusive Design Toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf) (PDF, 22 MB, 32 pages) — An approachable introduction to the history and principles of inclusive design ([they also have a full site about Inclusive Design](https://www.microsoft.com/design/inclusive/)).
 - [Web Almanac, Part II, Chapter 8: Accessibility](https://almanac.httparchive.org/en/2020/accessibility) - Covers additional topics, including readability, navigation, and form controls.
 
-_This introduction to accessibility was based on content created by the [Technology Transformation Services](https://join.tts.gsa.gov/tts-offices/) (TTS) **Accessibility Guild**. Many thanks to former and current guild co-leads, **Nikki Lee (18F)** and **David Stenger (USAgov)**, and **Jacklynn Pham (18F)** and **Toni Bonitto (TTS Solutions)**, for creating and iterating on this!_
+---
 
-[Subscribe to our weekly newsletter](https://digital.gov/about/subscribe/)—a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise. Join DigitalGov's [Communities of Practice](https://digital.gov/communities/) to connect with over 13,000 people across 27 focus areas who learn, share, and collaborate to build solutions to common problems and challenges in government.
+_This introduction to accessibility was based on content created by the [Technology Transformation Services](https://join.tts.gsa.gov/tts-offices/) (TTS) **Accessibility Guild**. Many thanks to former guild co-leads, **Toni Bonitto (TTS Solutions)**, **Jacklynn Pham (18F)**, **Nikki Lee (18F)**, and **David Stenger (USAgov)** for creating and iterating on this!_
+
+{{< note "activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)&mdash;a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
+
+[**Join** our Communities of Practice](https://digital.gov/communities/)&mdash;share resources and collaborate with others focused on building better digital experiences in government. {{< /note >}}
 
 _(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_

@@ -18,7 +18,6 @@ source_url: "https://18f.gsa.gov/"
 authors:
   - hannah-kane
   - sarah-eckert
-  - kdaniel
 
 contact: inquiries18F@gsa.gov
 

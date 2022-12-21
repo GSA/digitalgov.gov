@@ -2,7 +2,7 @@
 slug: because-its-hard
 date: 2014-05-07 10:00:35 -0400
 title: 'Because It&#8217;s Hard'
-summary: Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The Federal Digital Strategy served up a heaping set of deliverables on a tight timeline. Agencies opened data sets,
+summary: 'Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The Federal Digital Strategy served up a heaping set of deliverables on a tight timeline.'
 authors:
   - gwynne-kostin
 topics:
@@ -22,9 +22,12 @@ topics:
   - responsive-web-design
   - us-department-of-labor
   - user-experience
+
 ---
 
-[{{< legacy-img src="2014/05/250-x-333-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429\_12fe814c84\_z.jpg-250x300.jpg" alt="The photo is the door to President Kennedy’s Cold War bunker on Nantucket Island, Massachusetts." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/480-x-640-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429_12fe814c84_z.jpg)Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.
+Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.
+
+{{< legacy-img src="2014/05/250-x-333-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429_12fe814c84_z.jpg-250x300.jpg" alt="The photo is the door to President Kennedy’s Cold War bunker on Nantucket Island, Massachusetts." caption="Creative Commons credit below." >}}
 
 Agencies opened data sets, built mobile apps and websites, published APIs, created and updated digital governance structures, and joined with other agencies in measuring digital services performance.
 
@@ -45,11 +48,14 @@ And there&#8217;s more.
 
 During this <a href="http://publicservicerecognitionweek.org/" target="_blank">Public Service Recognition Week</a>, let&#8217;s let President Kennedy remind us why we are doing this.
 
-[youtube=http://www.youtube.com/watch?v=6z1DidldxUo&w=600]
+{{< youtube 6z1DidldxUo >}}
 
 > We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.
 
 Finished? Nope. Just getting started.
 
-What&#8217;s on your path? What do you need help with? Let us know in the comments._This article is part of this month&#8217;s editorial theme on the Digital Government Strategy. Check out our recently published article on [Structured Content Models]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}), and check back for more articles related to this theme in May._
-_Photo Credit: &#8220;Rusted door to JFK&#8217;s nuclear bunker.&#8221; by Gwynne Kostin CC (BY-NC-ND)_
+What&#8217;s on your path? What do you need help with? Let us know in the comments.
+
+_This article is part of this month&#8217;s editorial theme on the Digital Government Strategy. Check out our recently published article on [Structured Content Models]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}), and check back for more articles related to this theme in May._
+
+_Photo Credit: Gwynne Kostin, August 7, 2009. "[Rusted door to JFK's nuclear bunker](https://www.flickr.com/photos/gwynnek/3797768429/)." This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License (CC BY-NC-ND 2.0)](https://creativecommons.org/licenses/by-nc-nd/2.0/)._

@@ -13,13 +13,13 @@ aliases:
   - /hurricane-ian/
 
 # Archive - see Trello board
-# expirydate: "YYYY-MM-DD"
+expirydate: "2022-12-01"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 2
+weight: 4
 
 topics:
   - web-content-managers-forum
@@ -32,7 +32,10 @@ topics:
 
 # Primary Image (for social media)
 primary_image: "card-hurricane-ian-guidance"
+
 ---
+
+{{< note "alert" >}} Atlantic hurricane season ended 11/30/2022. This page has been archived. {{< /note >}}
 
 In response to Hurricane Ian, the U.S. Department of Homeland Security (DHS) is issuing guidance for the coordination of Federal web and social media communications related to this incident.
 
@@ -77,7 +80,7 @@ FEMA has established a landing page on FEMA.gov with the latest information from
 GSA has created a landing page on USA.gov for government-wide information related to Hurricane Ian activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email usagovemergency@gsa.gov and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/hurricane-ian](https://www.usa.gov/hurricane-ian), and the Spanish page is at [https://www.usa.gov/espanol/huracan-ian](https://www.usa.gov/espanol/huracan-ian).
 
 {{< note "action" >}}
-Send the title and URL for any Hurricane Ian related materials posted on your agency website to usagovemergency@gsa.gov. 
+Send the title and URL for any Hurricane Ian related materials posted on your agency website to usagovemergency@gsa.gov.
 {{< /note >}}
 
 ## Social Media Guidance
@@ -96,5 +99,5 @@ Follow and retweet the above accounts from your agency social media accounts as 
 {{< /note >}}
 
 {{< note "action" >}}
-If you have content that you would like FEMA to amplify, please forward the link to FEMA-ESF15-Coordination@fema.dhs.gov. 
+If you have content that you would like FEMA to amplify, please forward the link to FEMA-ESF15-Coordination@fema.dhs.gov.
 {{< /note >}}

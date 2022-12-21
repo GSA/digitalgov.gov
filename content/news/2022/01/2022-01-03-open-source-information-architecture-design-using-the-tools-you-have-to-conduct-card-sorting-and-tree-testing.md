@@ -134,7 +134,7 @@ To better illustrate the changes to the main and subcategories that we are propo
   <ol type='A'>
 <li>New Reporter Checklist</li>
 <li>System Access</li>
-</ol>  
+</ol>
 </li>
 
 <li><strong>Reporting</strong>
@@ -144,7 +144,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Royalty</li>
 <li>Solid Minerals</li>
 <li>Geothermal</li>
-</ol>  
+</ol>
 </li>
 
 <li><strong>Reporting Resources</strong>
@@ -159,7 +159,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Reporter Letters</li>
 <li>Regulations</li>
 <li>Training Videos</li>
-  </ol>  
+  </ol>
 </li>
 
 <li><strong>Paying</strong>
@@ -169,9 +169,9 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Royalty Payments</li>
 <li>Late Payment Interest</li>
 <li>Treasury Referrals</li>
-</ol>  
+</ol>
 </li>
-  
+
 <li><strong>Enforcement & Appeals</strong>
 
   <ol type='A'>
@@ -179,9 +179,9 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Appeals</li>
 <li>Bankruptcies</li>
 <li>Civil Penalties</li>
-</ol>  
+</ol>
 </li>
-  
+
 <li><strong>Indian Resources</strong>
 
   <ol type='A'>
@@ -191,9 +191,9 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Indian Energy Service Center</li>
 <li>Tribal Assistance</li>
 <li>Tribal Consultation</li>
-</ol>  
+</ol>
 </li>
-  
+
 <li><strong>About ONRR</strong>
 
   <ol type='a'>
@@ -259,7 +259,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 </li>
 </ol>
 </li>
-  
+
 <li><strong>Guidance & References</strong>
     <ol type='A'>
 <li>Valuation & Pricing</li>
@@ -269,7 +269,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Forms</li>
 <li>Reporter Letters</li>
 <li>Rules & Regulations</li>
-</ol>  
+</ol>
 </li>
 
 
@@ -280,7 +280,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Late Payment Interest</li>
 <li>Unpaid Debt</li>
 <li>Contacts</li>
-</ol>  
+</ol>
 </li>
 
 
@@ -291,7 +291,7 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Bankruptcies</li>
 <li>Civil Penalties</li>
 <li>Cooperative Agreements</li>
-</ol>  
+</ol>
 </li>
 
 <li><strong>Indian Resources</strong>
@@ -300,8 +300,8 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Cooperative Agreements</li>
 <li>Indian Guidance & References</li>
 <li>Indian Payments</li>
-</ol>  
-</li>  
+</ol>
+</li>
 
 <li><strong>About ONRR</strong>
   <ol type='A'>
@@ -314,8 +314,8 @@ To better illustrate the changes to the main and subcategories that we are propo
 <li>Freedom of Information Act (FOIA)</li>
 <li>Anti-Harassment Program</li>
 <li>Contact Us</li>
-</ol>  
-</li>  
+</ol>
+</li>
 </ol>
 
 ### Lessons learned
@@ -328,4 +328,4 @@ We also learned how to simplify some of our main categories in our site organiza
 
 Our next step is to use the content audit to place everything into the new categories, and refine the current subcategories to match the website content. We are also wireframing at the same time to make sure that we have content where we want it and a home for every piece of content. Finally, we will run another round of user interviews after we finish refining the subcategories to confirm that we’ve properly organized the content.
 
-*You can also [view the slides (PPT, 24.1 MB, 60 pages)](https://digital.gov/files/open-source-information-architecture-rev.pptx) from our presentation at the [2021 User Experience Summit](https://digital.gov/event/2021/06/22/2021-user-experience-summit/), which was hosted by the [UX Community of Practice](https://digital.gov/communities/user-experience/) and Digital.gov.*
+*You can also {{< asset-static file="open-source-information-architecture-rev.pptx" label="view the slides (PPT, 24.1 MB, 60 pages)" >}} from our presentation at the [2021 User Experience Summit](https://digital.gov/event/2021/06/22/2021-user-experience-summit/), which was hosted by the [UX Community of Practice](https://digital.gov/communities/user-experience/) and Digital.gov.*

@@ -61,7 +61,7 @@ Below is a set of recommended, baseline strategies to improve the accessibility 
 
 4. **Keep it simple**.
    Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)), and limit your use of hashtags, abbreviations and acronyms. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read, including for those using a screen reader.
-   
+
 5. **Learn the accessibility requirements and periodically test your content for accessibility.**
    Read the [Section 508 Standards](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) and the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) and other key resources that discuss them. Then test your social media content with a screen reader or other type of assistive technology.
 

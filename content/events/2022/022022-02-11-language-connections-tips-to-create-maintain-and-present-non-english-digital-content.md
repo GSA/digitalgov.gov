@@ -10,6 +10,7 @@ end_date: 2022-02-24 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
+  - multilingual-community
   - lep
   - content
   - accessibility
@@ -28,7 +29,8 @@ youtube_id: goZjeCXIx_Q
 
 ---
 
-[View the slides (PowerPoint, 3.1 MB, 20 pages)](https://digital.gov/files/feb-2022-multilingual-event-lep.pptx) <br />
+{{< asset-static file="feb-2022-multilingual-event-lep.pptx" label="View the slides (PowerPoint, 3.1 MB, 20 pages)" >}}
+<br />
 [Read the Q&A recap](https://digital.gov/2022/05/23/10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule/)
 
 This webinar will include ideas, resources, and examples of how you can improve access to your websites and digital services for people who are limited English proficient (LEP).

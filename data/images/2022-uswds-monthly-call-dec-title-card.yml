@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/2022-uswds-monthly-call-dec-title-card.png
+
+# Image shortcode: {{< img src="2022-uswds-monthly-call-dec-title-card" >}}
+
+date     : 2022-11-29 21:46:46 -0400
+uid      : 2022-uswds-monthly-call-dec-title-card
+width    : 1200
+height   : 628
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image of USWDS logo, a multi-colored pentagon shape consisting of five triangles, centered on a black background. In white text, the first line says, USWDS Monthly Call. Below that in yellow text, the second line has the date of the event, December 15, 2022."

@@ -1,42 +1,46 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-<div class="card card-elsewhere card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}>
-  <div>
-    <div class="icon">
-      {{/* Favicon
-      If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
-      {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
-      {{- if $source -}}
-        {{- if $source.Params.logo -}}
-          {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
-          <img src="{{ $src | relURL }}" alt="{{- $source.Params.name -}} logo">
-        {{- end -}}
+{{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
 
-      {{/* Otherwise, use the Favicon that Google stores for the site. */}}
-      {{- else -}}
-        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo">
-      {{ end }}
-    </div>
+{{/*  Unique ID to link article to its title in screen readers  */}}
+{{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
 
-    <div class="summary">
+<article
+  class="card card-elsewhere card-linked"
+  data-edit-this="{{- $path -}}"
+  {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
+  aria-labelledby="{{ $titleID }}"
+>
+  <div class="card__content">
+    <div class="card__summary">
+      <h3 id="{{ $titleID }}">
+        <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
+      </h3>
       <p>
-        <h3>
-          <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
-        </h3>
-        {{- if .Params.deck -}}{{- .Params.deck | markdownify | emojify -}}{{- end -}}
+        {{- if .Params.deck -}}
+          {{- .Params.deck | markdownify | emojify -}}
+        {{- end -}}
         {{- if $source -}}
           {{ $url := urls.Parse .Params.source_url }}
-          <em class="source">— via <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{- else -}}{{- .Params.source_url -}}{{- end -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
+          <em class="card__source source">— via <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{- else -}}{{- .Params.source_url -}}{{- end -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
         {{ end }}
       </p>
-      {{- if $source -}}
-        {{ $url := urls.Parse .Params.source_url }}
-        <p class="domain"></p>
-      {{ end }}
-
     </div>
-
   </div>
-  <div class="meta">
+  <div class="card__media">
+    {{/* Favicon
+    If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
+    {{- if $source -}}
+      {{- if $source.Params.logo -}}
+        {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
+        <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} logo">
+      {{- end -}}
+
+    {{/* Otherwise, use the Favicon that Google stores for the site. */}}
+    {{- else -}}
+      <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source }} logo">
+    {{ end }}
+  </div>
+  <div class="card__meta">
     <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
   </div>
-</div>
+</article>

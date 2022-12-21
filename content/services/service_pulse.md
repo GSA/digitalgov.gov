@@ -5,7 +5,7 @@ summary: Measures how U.S. government domains are following best practices for
 # Images must be uploaded in the /static/logos/ folder before they can be used here.
 logo: gsa
 # Originally published at the following URL
-source_url: https://digitaldashboard.gov/
+source_url: https://www.DigitalDashboard.gov/
 contact: dotgovdashboard@gsa.gov
 # See all topics at https://digital.gov/topics
 topics:

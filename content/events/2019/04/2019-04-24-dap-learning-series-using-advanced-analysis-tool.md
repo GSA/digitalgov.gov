@@ -47,7 +47,7 @@ In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), program man
 - Potential use cases
 - Pros and cons of the tool
 
-_[View the slides for this presentation](https://digital.gov/pdf/using-advanced-analysis-tool.pdf)._
+_{{< asset-static file="using-advanced-analysis-tool.pdf" label="View the slides from this presentation." >}}_
 
 ---
 

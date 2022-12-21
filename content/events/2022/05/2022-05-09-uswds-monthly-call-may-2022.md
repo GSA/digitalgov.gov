@@ -25,7 +25,7 @@ primary_image: uswds-monthly-call-may-title-card
 
 ---
 
-[View the slides (PowerPoint, 7.6 MB, 64 pages)](https://digital.gov/files/uswds-monthly-call-may-2022.pptx)
+{{< asset-static file="uswds-monthly-call-may-2022.pptx" label="View the slides (PowerPoint, 7.6 MB, 64 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for May 2022" icon="content_copy" >}}
 
@@ -36,17 +36,17 @@ primary_image: uswds-monthly-call-may-title-card
 
 First, I'd like to mention that we're recording this monthly call, so please refrain from turning on your camera. We will manually turn off any cameras to ensure the recording doesn't show us on camera. Unfortunately, while we are recording this call, we currently aren't able to share the video publicly.
 
-I’d also like to remind you that all attendees must abide by the TTS Code of Conduct, which is available at [handbook.tts.gsa.gov/code-of-conduct] (handbook.tts.gsa.gov/code-of-conduct). We’ve posted the link to the code of conduct in the chat. 
+I’d also like to remind you that all attendees must abide by the TTS Code of Conduct, which is available at [handbook.tts.gsa.gov/code-of-conduct] (handbook.tts.gsa.gov/code-of-conduct). We’ve posted the link to the code of conduct in the chat.
 
-We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
+We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 
 So thanks! And, with that, let's get started!
 
-**Slide 3:** So what's our agenda for today? 
+**Slide 3:** So what's our agenda for today?
 
-First we'll show off a nice new site launch. 
+First we'll show off a nice new site launch.
 
 Then I've got just a little product update.
 
@@ -54,7 +54,7 @@ And then we'll talk about packages and performance in USWDS 3.0.
 
 **Slide 4:** So let's get into it with site launches.
 
-**Slide 5:** Just one this month: [pandemicoversight.gov] (https://www.pandemicoversight.gov/), the home of the Pandemic Response Accountability Committee, overseeing more than $5 trillion dollars in pandemic related programs and spending. The pandemic oversight home page has a blue gov banner at the top of the page, a closeup of George Washington's dollar bill portrait peering up from a hero section, and a red button that says "report fraud, waste, and abuse" up the the top-right corner. 
+**Slide 5:** Just one this month: [pandemicoversight.gov] (https://www.pandemicoversight.gov/), the home of the Pandemic Response Accountability Committee, overseeing more than $5 trillion dollars in pandemic related programs and spending. The pandemic oversight home page has a blue gov banner at the top of the page, a closeup of George Washington's dollar bill portrait peering up from a hero section, and a red button that says "report fraud, waste, and abuse" up the the top-right corner.
 
 
 **Slide 6:** Congratulations, and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
@@ -73,11 +73,11 @@ If you're thinking about migrating — and you should — check out the [migrati
 
 **Slide 12:** USWDS 2.0 was built to grow, and grow it did. USWDS 2.0 launched with a new design language and a comprehensive suite of utility classes to support it. These utilities added some real weight to the compiled CSS size, however, and the default USWDS package grew to 271 KB of compiled CSS.
 
-**Slide 13:** Over the course of USWDS 2, we doubled the number of components in the design system, bringing it up to 40 components and utilities. But again, each new component brings new classes and new CSS. By the time we get to USWDS 2.13.2, the USWDS package included 417 KB of compiled CSS. There's a trend here, and the growth of the design system is always accompanied by a growth in the size of the compiled CSS. 
+**Slide 13:** Over the course of USWDS 2, we doubled the number of components in the design system, bringing it up to 40 components and utilities. But again, each new component brings new classes and new CSS. By the time we get to USWDS 2.13.2, the USWDS package included 417 KB of compiled CSS. There's a trend here, and the growth of the design system is always accompanied by a growth in the size of the compiled CSS.
 
 **Slide 14:** So here we are at the launch of USWDS 3.0. This new version doesn't add any new components, or any new utilities, but there is always more to come. And you could see this as something of a problem. Design systems and component libraries grow and grow, but the needs of existing websites grow more slowly, if at all. Teams should want to have the newest and best design system component code, but they don't necessarily want to take a lot of bloated overhead along with that code.
 
-**Slide 15:** With USWDS 3.0, USWDS can keep growing without bloating your project CSS. Its most significant change is an architectural one: Unbundling the design system into individual modular packages that teams can add a la carte instead of adding everything together, even the bits you don't use. 
+**Slide 15:** With USWDS 3.0, USWDS can keep growing without bloating your project CSS. Its most significant change is an architectural one: Unbundling the design system into individual modular packages that teams can add a la carte instead of adding everything together, even the bits you don't use.
 
 **Slide 16:** So what is a package? In USWDS, a package is an independently installable feature, component, or bundle of features or components. If you think about the design system as a collection of components and features, a package is the building block: an individual component, or utility classes, or the design language itself, the definitions of the tokens, mixins, and functions. Each of these bits of functionality is a package. USWDS itself is a package — a package whose dependencies are every other package in the design system. In USWDS 3, it's packages all the way down.
 
@@ -97,13 +97,13 @@ uswds-prefixed classes are everything else. **uswds-utilities** is one of the bi
 
 **Slide 23:** Many other projects may have more of a medium footprint, using only a few components — or just a few USWDS components in addition to custom components of their own.
 
-**Slide 24:** Even the most complex projects — those with a large footprint — probably won't use every component. 
+**Slide 24:** Even the most complex projects — those with a large footprint — probably won't use every component.
 
 **Slide 25:** And there are even some projects that may use **uswds-core** only. **uswds-core** is a key package that allows projects to use the design language without adding CSS. For instance, an existing project could add the **uswds-core** package to their codebase and experiment with translating their existing components and variables into USWDS design tokens. They could start working with USWDS mixins, functions, and tokens without adding anything to the size of their existing CSS.
 
-**Slide 26:** **uswds-core** is a special package that powers every other package. It's the engine of the design system. It doesn’t emit CSS, but contains the complete USWDS design language. Its Sass defines the tokens, functions, mixins, settings, and variables that all other USWDS Sass is built from. 
+**Slide 26:** **uswds-core** is a special package that powers every other package. It's the engine of the design system. It doesn’t emit CSS, but contains the complete USWDS design language. Its Sass defines the tokens, functions, mixins, settings, and variables that all other USWDS Sass is built from.
 
-**Slide 27:** uswds-core powers project settings: We define our project settings with a statement like **@use "uswds-core" with custom settings**. 
+**Slide 27:** uswds-core powers project settings: We define our project settings with a statement like **@use "uswds-core" with custom settings**.
 
 **Slide 28:** uswds-core powers project Sass: Every Sass file that uses USWDS needs to begin with the statement **@use "uswds-core" as asterisk**.
 
@@ -111,13 +111,13 @@ uswds-prefixed classes are everything else. **uswds-utilities** is one of the bi
 
 **Slide 30:** And again, every component is a package. Components have different needs, but each component is an individual package.
 
-**Slide 31:** And since components have different needs, it makes sense that they're actually all different sizes. 
+**Slide 31:** And since components have different needs, it makes sense that they're actually all different sizes.
 
 **Slide 32:** All together, these packages bundle up to a **uswds** package that includes 417 KB of compiled CSS by default. Consumed as a single bundle, the USWDS package is quite large. And depending on your project settings, your project's CSS could be even larger.
 
 **Slide 33:** If you're just using the banner and the footer, you don't need all this overhead. The **usa-banner** package is 32 KB. The **usa-footer** package is 43 KB. That 75 KB in total, or 11 KB gzipped. If you use only a couple components Using packages can save you over 80% versus the bundled version.
 
-**Slide 34:** Where's that 32 KB in **usa-banner** coming from? Some of it is usa-banner styles, but a complex component like banner might also include other components inside it. And banner **uses usa-layout-grid** (18 KB), **usa-media-block** (0.1 KB), and the **uswds fonts** (6 KB) to render properly, in addition to the 7.9 KB of CSS directly related to banner classes. All these dependent packages are automatically included as when you use the **usa-banner** package in your project. 
+**Slide 34:** Where's that 32 KB in **usa-banner** coming from? Some of it is usa-banner styles, but a complex component like banner might also include other components inside it. And banner **uses usa-layout-grid** (18 KB), **usa-media-block** (0.1 KB), and the **uswds fonts** (6 KB) to render properly, in addition to the 7.9 KB of CSS directly related to banner classes. All these dependent packages are automatically included as when you use the **usa-banner** package in your project.
 
 **Slide 35:** The footer has dependencies as well — even more than banner. Every package has its own dependencies.  This is part of why it was difficult to use packages effectively in USWDS 2. The compiler wasn;t smart enough to know when multiple packages used the same dependencies to only include those redundant dependencies once. It was hard to manage dependencies and prevent duplicate code.
 
@@ -129,7 +129,7 @@ One of those packages is the layout grid. We can imagine the CSS of the layout g
 
 **Slide 38:** The layout grid package includes responsive classes based on the responsive breakpoints set in your project. Adding responsive breakpoints to the **$theme-utility-breakpoints** setting adds new CSS rules. Adding a breakpoint adds new rules, like the five new dots next to **mobile**.
 
-**Slide 39:** The more breakpoints you add, the more CSS you get. Adding **mobile-lg** adds another line of dots. 
+**Slide 39:** The more breakpoints you add, the more CSS you get. Adding **mobile-lg** adds another line of dots.
 
 **Slide 40:** Including many breakpoints can have a big effect because responsive breakpoints can serve as a CSS multiplier. Where we started with five dots across the top of the screen, we now have 40.
 
@@ -143,7 +143,7 @@ One of those packages is the layout grid. We can imagine the CSS of the layout g
 
 **Slide 45:** And visited classes, like this blue dot…
 
-**Slide 46:** Now these are multiplied by the responsive breakpoints. It's important to think of each new utility variant as a multiplier. The single dot is now 25. 
+**Slide 46:** Now these are multiplied by the responsive breakpoints. It's important to think of each new utility variant as a multiplier. The single dot is now 25.
 
 **Slide 47:** The more output utilities, the more output CSS. Even a few new variants, spread over multiple utilities can have a big effect. Now the single dot is 100 dots.
 
@@ -153,7 +153,7 @@ One of those packages is the layout grid. We can imagine the CSS of the layout g
 
 **Slide 50:** So let's take a look inside the utilities package. Like the expanding hexagon package on this page, the utilities package is flexible. The utilities package has more output options than any other package.
 
-**Slide 51:** The utilities package is made up of over 60 individual utilities. In this case, they aren't packages since they aren't independent of the utilities package, so we call each of these utilities a module. 
+**Slide 51:** The utilities package is made up of over 60 individual utilities. In this case, they aren't packages since they aren't independent of the utilities package, so we call each of these utilities a module.
 
 **Slide 52:** But just as with components packages, no project is going to use all utility modules. You want utilities modules tailored to your project. In fact, as we will see in a couple minutes, most production websites should probably use only a few utility modules.
 
@@ -175,9 +175,9 @@ We also see **$width-settings** setting the **width** utility module to output w
 
 **Slide 58:** You can also find component package information at the bottom of any component page, like this one for Banner. It shows how to use the package in your Sass entry point and also what packages are dependencies of the component package. You can find the banner component docs at designsystem.digital.gov/components/banner.
 
-**Slide 59:** When you're done using packages in your code, your Sass entry point will look a bit like this. Instead of forwarding "uswds," we're instead forwarding "usa-banner," "usa-footer," and "uswds-utilities." 
+**Slide 59:** When you're done using packages in your code, your Sass entry point will look a bit like this. Instead of forwarding "uswds," we're instead forwarding "usa-banner," "usa-footer," and "uswds-utilities."
 
-**Slide 60:** Your Sass entry point and your theme settings file will then become a practical project profile: a snapshot of what makes your project your project, at least from the USWDS perspective. You can always refer back to these files when you need to know what components your implementation uses and what utility modules. This may come in handy when a version of USWDS releases and you want to know how it'll affect your project. 
+**Slide 60:** Your Sass entry point and your theme settings file will then become a practical project profile: a snapshot of what makes your project your project, at least from the USWDS perspective. You can always refer back to these files when you need to know what components your implementation uses and what utility modules. This may come in handy when a version of USWDS releases and you want to know how it'll affect your project.
 
 **Slide 61:** Now I'd like to bring on James Mejia, a developer and a contractor on the USWDS Core team. James is going to help me show how we've used packages and settings optimization on our Public Sans website to dramatically reduce the amount of compiled CSS we're shipping. Hi there James!
 

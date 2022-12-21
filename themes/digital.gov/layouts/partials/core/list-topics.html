@@ -11,6 +11,9 @@
 {{/* Checks if there are topics applied to this page */}}
 {{- if .Params.topics -}}
 <div class="list-topics">
+  <header>
+    <h3>Related Topics</h3>
+  </header>
   {{/* Sets the taxonomy we're pulling here */}}
   {{- $taxonomy := "topics" -}}
   {{- $topics := .Param $taxonomy -}}

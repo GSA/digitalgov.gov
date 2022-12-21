@@ -26,7 +26,8 @@ event_platform: zoom
 primary_image: march-content-managers-event-title-card
 
 ---
-[View the slides (PowerPoint, 1.80 MB, 16 pages)](https://digital.gov/files/change-the-way-digital-work-gets-done.pptx)
+
+{{< asset-static file="change-the-way-digital-work-gets-done.pptx" label="View the slides (PowerPoint, 1.80 MB, 16 pages)" >}}
 
 Government agencies are continually being expected to digitally transform their businesses to better meet the needs of their customers, while also keeping costs low. Balancing these priorities can be overwhelming, making it difficult to know where to start.
 

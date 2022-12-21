@@ -12,6 +12,7 @@
 // Import individual theme settings
 
 @forward 'uswds-theme';
+@forward 'uswds-overrides';
 @forward "usa-site-alert";
 
 // @forward "uswds-global";
@@ -157,7 +158,7 @@
 @forward 'related_services';
 @forward 'services-directory';
 @forward 'card-service';
-@forward 'card-service-contact';
+@forward 'service-contact';
 
 // Topics styles
 @forward 'topic-buttons';

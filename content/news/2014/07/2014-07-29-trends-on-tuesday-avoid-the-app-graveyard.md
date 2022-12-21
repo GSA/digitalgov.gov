@@ -8,8 +8,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - federal-user-experience-community
-  - mobile
   - user-experience-community-of-practice
   - mobile-apps
   - mobile-gov-community-of-practice

@@ -1,0 +1,26 @@
+{{/* For rendering static files that are stored in S3. */}}
+{{/*
+  Example:
+  {{< asset-static file="2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint, 5.7 MB, 26 pages)" >}}
+
+  If you need a button link, use the class names from https://designsystem.digital.gov/components/button/ to pass into the button-variant:
+  {{< asset-static button="true" button-variant="outline" file="2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint, 5.7 MB, 26 pages)" >}}
+  {{< asset-static button="true" button-variant="inverse" file="2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint, 5.7 MB, 26 pages)" >}}
+  {{< asset-static button="true" button-variant="accent-cool" file="2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint, 5.7 MB, 26 pages)" >}}
+*/}}
+
+
+{{- $cdnurl := .Site.Params.cdnurl -}}
+
+{{- if .Get "file" -}}
+  {{- $file := .Get "file" -}}
+  {{- $label := .Get "label" -}}
+
+  {{- $fileBaseCDN := printf "%s/static/%s" $cdnurl $file -}}
+
+  <a href="{{ $fileBaseCDN }}"
+    {{- if .Get "button" -}}class="usa-button{{ if .Get "button-variant" }} usa-button--{{ .Get "button-variant" }}{{ end }}" {{- end -}}>
+    {{ $label }}
+  </a>
+  
+{{ end }}

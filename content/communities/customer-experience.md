@@ -5,12 +5,10 @@
 slug: customer-experience
 
 date: 2015-07-08 10:30:37 -0400
-title: 'Customer Experience'
-summary: 'We are an interagency group of customer experience practitioners.'
+title: "Customer Experience"
+summary: We are an interagency group of customer experience practitioners.
 
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
-  - /communities/customer-experience-community/
+redirectto: https://coe.gsa.gov/communities/cx.html
 
 # see all topics at https://digital.gov/topics
 topics:

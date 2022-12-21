@@ -39,7 +39,7 @@ weight: 0
 # Make it better ♥
 ---
 
-[_View the slides_](https://digital.gov/pdf/DAPLearningSeries.pdf) (PDF, 5.4 MB, 27 pages)
+{{< asset-static file="DAPLearningSeries.pdf" label="View the slides (PDF, 5.4 MB, 27 pages)" >}}
 
 DAP users often ask – _“How should I analyze my site?”_
 

@@ -1,12 +1,10 @@
 ---
 date: 2021-05-21 09:31:00 -0500
 kicker: Communities
-title: 8 Ways Community of Practice (CoP) Managers Can Improve Member Engagement
-  on Listservs
+title: 8 Ways Community of Practice (CoP) Managers Can Improve Member Engagement on Listservs
 deck: 
-summary: Are you a Digital.gov Community of Practice (CoP) lead? Find yourself
-  participating in a CoP discussion and wondering what else you can do? We’ve
-  got some suggestions.
+summary: Are you a Digital.gov Community of Practice (CoP) lead? Find yourself participating in a CoP discussion and wondering what else you can do? We’ve got some suggestions.
+
 # See all topics at https://digital.gov/topics
 topics:
   - content
@@ -19,6 +17,9 @@ topics:
 authors:
   - katherine-spivey
 slug: 8-ways-community-of-practice-cop-managers-can-improve-member-engagement-on-listservs
+
+primary_image: "email-concept-sergey-shulgin-istock-getty-images-1297112490-1200-x-630"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

@@ -1,0 +1,115 @@
+{{/* set the href as a variable */}}
+{{- $href := "" -}}
+{{- if .Params.source_url -}}
+  {{- $href = (print .Params.source_url "?dg") -}}
+{{- else -}}
+  {{- $href = (print .Permalink "?dg") -}}
+{{- end -}}
+
+{{/* If an external link  */}}
+{{- if .Params.source_url -}}
+
+  {{/* If there is a defined source for this page */}}
+  {{- if .Params.source -}}
+    {{/* Get the source data */}}
+    {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
+    {{/* If there is a logo defined in the source */}}
+    {{- if $source.Params.logo -}}
+      {{/* get the path for the icon — e.g. 18f-icon.png */}}
+      {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
+      {{/* Pass these vars into the list item template (botton of page) */}}
+      {{- template "service-contact" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+    {{- end -}}
+
+  {{- else if .Params.logo -}}
+    {{/* get the path for the icon — e.g. 18f-icon.png */}}
+    {{- $src := (printf "/logos/%s%s" .Params.logo "-icon.png") -}}
+    {{/* Pass these vars into the list item template (botton of page) */}}
+    {{- template "service-contact" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+
+  {{/* No source? let's attempt to get the favicon for the URL */}}
+  {{- else -}}
+    {{/* get the Favicon via Google Favicon service */}}
+    {{- $src := (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) -}}
+    {{/* Pass these vars into the list item template (botton of page) */}}
+    {{- template "service-contact" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+  {{- end -}}
+
+{{/* If an internal link... */}}
+{{/* meaning there is no .source_url */}}
+{{- else -}}
+  {{- if .Params.logo -}}
+    {{/* get the path for the icon — e.g. 18f-icon.png */}}
+    {{- $src := (print "/logos/" .Params.logo "-icon.png") -}}
+    {{/* Pass these vars into the list item template (botton of page) */}}
+    {{- template "service-contact" dict "item" . "href" (print .Permalink "?dg") "src" $src -}}
+  {{- else -}}
+    {{/* Use the digital.gov logo */}}
+    {{/* Pass these vars into the list item template (botton of page) */}}
+    {{- $src := (print "/logos/" "digitalgov-icon.png") -}}
+    {{- template "service-contact" dict "item" . "href" (print .Permalink "?dg") "src" $src -}}
+  {{- end -}}
+
+{{- end -}}
+
+
+{{- define "service-contact" -}}
+  {{- $href := .href -}}
+  {{- $src := .src -}}
+  {{- with .item -}}
+  {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+  <div class="service-contact" data-edit-this="{{- $path -}}">
+
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12 tablet:grid-col-3">
+
+        <div class="copy">
+          {{- template "icon-resource" dict "item" . "src" $src "href" $href -}}
+          <div>
+            <h3>
+              <a href="{{- $href -}}" title="{{- .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a>
+            </h3>
+            <p class="source_url"><a href="{{- $href -}}" title="{{- .Title | markdownify -}}">{{- .Params.source_url -}}</a></p>
+          </div>
+        </div>
+
+      </div>
+      <div class="grid-col-12 tablet:grid-col-5">
+
+        <div class="copy">
+          {{- if .Params.deck -}}<p class="summary">{{- .Params.deck | markdownify -}}</p>{{- else -}}<p class="summary">{{- .Params.summary | markdownify | truncate 140 -}}</p>{{- end -}}
+        </div>
+
+      </div>
+
+      <div class="grid-col-12 tablet:grid-col-4">
+
+        <div class="copy copy-contacts">
+          {{ if .Params.contact }}
+            <a class="contact" href="mailto:{{- .Params.contact -}}" title="Contact">
+              <span>
+                <svg class="usa-icon dg-icon dg-icon--small margin-bottom-05" aria-hidden="true" focusable="false">
+                  <use xlink:href="{{ "uswds/img/sprite.svg#mail" | relURL }}"></use>
+                </svg>
+                Contact</span>
+            </a>
+          {{- end -}}
+
+          {{- partial "core/get_authors_short.html" . -}}
+        </div>
+
+      </div>
+    </div>
+  </div>
+  {{- end -}}
+{{- end -}}
+
+{{- define "icon-resource" -}}
+  {{- $src := .src -}}
+  {{- $href := .href -}}
+  {{- with .item -}}
+  <div class="icon">
+    <a href="{{- $href -}}" title="{{- .Title | markdownify -}}"><img src="{{ $src | relURL }}" alt="{{- .Params.name }} icon"/></a>
+  </div>
+  {{- end -}}
+{{- end -}}
