@@ -39,16 +39,6 @@ Do not capitalize words like _federal_, _government_, or _agency_ unless it is:
 * The first word in a sentence
 * An official title for or name of something (e.g., Federal Bureau of Investigation, U.S. Agency for International Development (USAID))
 
-### Publication titles
-
-Blogs, magazines, books, etc. are in normal text (i.e., no italics or underlining). Ideally, the titles will be linked to the work that is being referenced.
-
-### Courtesy and professional titles
-
-On first reference, introduce people by their first and last names without a courtesy title (e.g., Mr., Mrs., Miss, Ms., Sir, Madam, Dr.).
-
-If a person's gender isn't clear from their first name (e.g., Chris, Pat, Lesley, Jean), make this clear by referring to them by the appropriate pronoun after the first reference.
-
 ### Content titles and headers
 
 #### Format
@@ -59,7 +49,7 @@ Headlines are key to a story. They have to stand on their own in conveying the s
 
 Think carefully about keywords, search engine optimization (SEO), and social media optimization. Which terms are users likely to be searching for? What will be easily recognizable and compelling in your headline? Include keywords that are central to the story’s content, and consider what keywords relevant to the story are trending in search engines and social media.
 
-Use numerals; do not spell out numbers except in casual uses or formal names: use _hundreds_ instead of _100s_; _Big Ten_; or _one of the first_. Use numerals for ordinals, such as: _2nd_, _9th_, etc.
+Use numerals; do not spell out numbers except in casual uses or formal names: use _hundreds_ instead of _100s_; _Big Ten_; or _one of the first_. Also use numerals for ordinals, such as: _2nd_, _9th_, etc.
 
 Capitalize only the first word and proper nouns in headlines. If the title contains a colon, the first word after a colon is always uppercase in headlines.
 
@@ -76,14 +66,23 @@ Title case: `How Effective Is Your Communication?`<br />
 Title case: `User Experience (UX) vs Customer Experience (CX): What’s the Dif?`<br />
 **New sentence case**: `User experience (UX) vs customer experience (CX): What’s the dif?`
 
-
-If you’re unsure, many free, web-based title case tools use filters to get AP Style (Examples: [titlecase.com](http://www.titlecase.com) and [capitalizemytitle.com](http://www.capitalizemytitle.com)). 
+If you’re unsure, many free, web-based title case tools use filters to set AP Style and title case (Examples: [capitalizemytitle.com](http://www.capitalizemytitle.com) and [titlecase.com](http://www.titlecase.com)). 
 
 #### Size
 
 Article titles should be set to H1, with any subsequent headers set as H2, H3, and so forth, in hierarchical order.
 
 Do not use H3 or below to attempt to make the text appear bold; just apply bold formatting to the text with the Formatting Toolbar in Google Docs or Microsoft Word.
+
+### Publication titles
+
+Blogs, magazines, books, etc. are in normal text (i.e., no italics or underlining). Ideally, the titles will be linked to the work that is being referenced.
+
+### Courtesy and professional titles
+
+On first reference, introduce people by their first and last names without a courtesy title (e.g., Mr., Mrs., Miss, Ms., Sir, Madam, Dr.).
+
+If a person's gender isn't clear from their first name (e.g., Chris, Pat, Lesley, Jean), make this clear by referring to them by the appropriate pronoun after the first reference.
 
 ### Numbers, symbols, dates, time, and places
 
@@ -130,34 +129,34 @@ To avoid confusion, always provide the full name of an agency or program the fir
 
 **Initialism examples; pronounce each letter**:
 
-- OMG; Oh, my God (or gosh)
-- LOL; laughing out loud
-- BIA; Bureau of Indian Affairs
-- GSA; U.S. General Services Administration
-- TTS; Technology Transformation Services
-- FBI; Federal Bureau of Investigation
-- CDC; Centers for Disease Control and Prevention
-- OPM; U.S. Office of Personnel Management
-- SEO; search engine optimization
-- CMS; content management system, call management system, or Centers for Medicare & Medicaid Services (an agency within the U.S. Department of Health and Human Services (HHS))
-- HTML; HyperText Markup Language
-- CSS; Cascading Style Sheets
+- OMG &mdash; Oh, my God (or gosh)
+- LOL &mdash; laughing out loud
+- BIA &mdash; Bureau of Indian Affairs
+- GSA &mdash; U.S. General Services Administration
+- TTS &mdash; Technology Transformation Services
+- FBI &mdash; Federal Bureau of Investigation
+- CDC &mdash; Centers for Disease Control and Prevention
+- OPM &mdash; U.S. Office of Personnel Management
+- SEO &mdash; search engine optimization
+- CMS &mdash; content management system, call management system, or Centers for Medicare & Medicaid Services (an agency within the U.S. Department of Health and Human Services (HHS))
+- HTML &mdash; HyperText Markup Language
+- CSS &mdash; Cascading Style Sheets
 
 **Acronym (an initialism that is used as a word) examples**:
 
-- scuba (pronounced: scoo-bah) Self-Contained Underwater Breathing Apparatus
-- laser Light Amplification by Stimulated Emission of Radiation
-- radar RAdio Detection And Ranging or RAdio Direction And Ranging
-- WYSIWYG (pronounced: Whizzy-wig) What You See Is What You Get
-- WCAG (pronounced: way-cag or wuh-cag) Web Content Accessibility Guidelines
-- NIOSH (pronouned: ny-osh) National Institute for Occupational Safety and Health
-- NASA (National Aeronautics and Space Administration)
-- OPEC (pronounced: oh-peck; Organization of the Petroleum Exporting Countries)
-- NARA, National Archives and Records Administration
-- DARPA, Defense Advanced Research Projects Agency
-- NATO, (pronounced: nay-toe) North Atlantic Treaty Organization
-- FEMA, Federal Emergency Management Agency
-- SWAT special weapons and tactics
+- scuba &mdash; Self-Contained Underwater Breathing Apparatus
+- laser &mdash; Light Amplification by Stimulated Emission of Radiation
+- radar &mdash; RAdio Detection And Ranging or RAdio Direction And Ranging
+- WYSIWYG (pronounced: Whizzy-wig) &mdash; What You See Is What You Get
+- WCAG (pronounced: way-cag or wuh-cag) &mdash; Web Content Accessibility Guidelines
+- NIOSH (pronouned: nigh-osh) &mdash; National Institute for Occupational Safety and Health
+- NASA &mdash; National Aeronautics and Space Administration
+- OPEC (pronounced: oh-peck) &mdash; Organization of the Petroleum Exporting Countries
+- NARA &mdash; National Archives and Records Administration
+- DARPA &mdash; olDefense Advanced Research Projects Agency
+- NATO (pronounced: nay-toe) &mdash; North Atlantic Treaty Organization
+- FEMA &mdash; Federal Emergency Management Agency
+- SWAT &mdash; special weapons and tactics
 
 **_Note_**: Avoid redundancies, such as, “ATM machine” (automated teller machine machine) and “PIN number” (personal identification number number).
 
@@ -165,7 +164,7 @@ To avoid confusion, always provide the full name of an agency or program the fir
 
 There is no need to add an _s_ to the end of an initialism or acronym if a word in the original name is already plural.
 
-For example, we use **CoE** for _Centers of Excellence_. Adding an _s_ on the end &mdash; CoEs &mdash; would actually mean, _Centers of Excellences_.
+For example, we use **CoE** for _Center of Excellence_ and _Centers of Excellence_. Adding an _s_ on the end &mdash; CoEs &mdash; would be, _Centers of Excellences_.
 
 ### Punctuation
 
@@ -210,9 +209,30 @@ If it’s a list of fragments, do not use punctuation at the end. Capitalize the
 
 #### i.e., vs. e.g.,
 
-e.g. (_exempli gratia_), which is Latin for “for example, ...” use it to list one or more examples
+These two terms are not interchangeable; each has its own meaning and usage. 
 
-i.e. (_id est_) is Latin for “in other words, ...”
+The abbreviation “i.e.” stands for the Latin phrase, _id est_, which means “that is” or “in other words.”
+
+> Since 1977, Star Wars, which belongs to a sub-genre of science fiction (i.e., the _space opera_ or _science fantasy_), has released nine main live-action films in the Skywalker Saga, and three spin-off films; two live-action, and one computer-animated film.
+
+The abbreviation “e.g.” stands for the Latin phrase _exempli gratia_, which means “for example” &mdash; use it to list one or more examples.
+
+> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the altenrate "Kelvin" timeline. 
+
+
+#### versus
+
+Spell the word out in regular writing: 
+
+> The proposal to revamp Medicare versus proposals to reform Medicare and Medicaid at the same time ... 
+
+In short expressions, however, use of the abbreviation _vs._ is permitted: 
+
+> The comparison of Star Trek vs. Star Wars has long been an issue with fans of the sci-fi genre.
+
+For court cases, use _v._: 
+
+> Haaland v. Brackeen
 
 ## Digital.gov branding
 
