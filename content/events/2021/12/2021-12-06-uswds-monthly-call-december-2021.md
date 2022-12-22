@@ -24,11 +24,11 @@ event_platform: zoom
 
 ---
 
-[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-december-2021-distro.pptx.zip) (PowerPoint, 1.3 MB, 27 pages)
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-december-2021-distro.pptx.zip) (PowerPoint presentation, 1.3 MB, 27 pages)
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for December 2021" icon="content_copy" >}}
 
-**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for December 2021. And, for December it's a good old fashioned red and green to match the wreaths and bows you may be seeing on doors and windows around your neighborhood, too. 
+**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for December 2021. And, for December it's a good old fashioned red and green to match the wreaths and bows you may be seeing on doors and windows around your neighborhood, too.
 
 **Slide 2:** My name is Dan Williams, and I'm the USWDS product lead and this is my avatar, which maybe looks a little like a younger version of an imagined me. Others say, not so much. Thanks for being here!
 
@@ -74,7 +74,7 @@ And then the main event: Rapid web prototyping with USWDS — where we'll take 
 
 **Slide 15:** And finally, we improved the resilience of icon-only buttons. Well, what's an icon-only button and where do we have them? We don't have many, but this is something like the small Search button that has only a magnifying glass, or the social buttons in the footer that include only a social media icon. These examples both used to be built with background images — and while the background image solution is accessible and supports screen readers, it could be a problem for sighted users if, for some reason, the image path was broken and did not load. In that case it would just be a blank button with no obvious functionality.
 
-Now, to fix this we needed to make a breaking change. Here's the breaking change you asked for. 
+Now, to fix this we needed to make a breaking change. Here's the breaking change you asked for.
 
 **Slide 16:** So, if you use the small search button or the footer social buttons on your site, you'll need to update your makeup when you upgrade to USWDS 2.13.0. It's a small change, but each of these components now requires an inline image. We've outlined the necessary changes in the [USWDS 2.12.0 release notes] (https://github.com/uswds/uswds/releases/tag/v2.13.0)  — and we're linking to the release notes here in the chat as well.
 
@@ -110,15 +110,15 @@ But for now, when you update to USWDS 2.13.0, be aware that there'll be some mod
 
 * We then walked through a few templates in CodePen: a [blank slate] (https://codepen.io/pglevy/pen/gOxNXGY?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc), [page boilerplate] (https://codepen.io/pglevy/pen/abBgJbe?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc), and a simple [USWDS user flow] (https://codepen.io/pglevy/pen/mdMZXOX?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc). Once you’re comfortable with CodePen and want to move to the next level, [uswds-sandbox] (https://github.com/uswds/uswds-sandbox?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc) can be an effective starting point for more complex Jekyll-based prototypes.
 
-* For more information, see the [handout] (https://federalist-d5e7c07c-6ffa-4b8e-935f-49a7df24a505.app.cloud.gov/preview/uswds/uswds-sandbox/rwp-with-uswds/?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc) provided during the monthly call. 
+* For more information, see the [handout] (https://federalist-d5e7c07c-6ffa-4b8e-935f-49a7df24a505.app.cloud.gov/preview/uswds/uswds-sandbox/rwp-with-uswds/?utm_source=slack-uswds&utm_medium=social&utm_campaign=decmc) provided during the monthly call.
 
 **Slide 26:** Thank you so much for that, Philip. So, let's move on to Q&A.
 
 [Q&A]
 
-**Slide 27:** Thanks for joining today’s USWDS monthly call. Next month, the monthly call will be on January 20, 2022, the third Thursday, and we’ll be starting off the new year by discussing “Getting started for developers” and some big improvements to USWDS Gulp. 
+**Slide 27:** Thanks for joining today’s USWDS monthly call. Next month, the monthly call will be on January 20, 2022, the third Thursday, and we’ll be starting off the new year by discussing “Getting started for developers” and some big improvements to USWDS Gulp.
 
-As always, I encourage you to join our community in the #uswds-public Slack channel so you can follow our progress, get answers, and contribute to the discussion. 
+As always, I encourage you to join our community in the #uswds-public Slack channel so you can follow our progress, get answers, and contribute to the discussion.
 
 Follow us on Github at github.com/uswds, check out our website, and [visit this site] (https://designsystem.digital.gov/about/community/) to join us and your colleagues across government who are using USWDS.
 
@@ -127,7 +127,7 @@ Thank you, and see you next month!
 
 ---
 
-How can designers and developers work together to design in code? How can prototypes help answer critical design questions? How can USWDS help you build faster than you might have thought possible? 
+How can designers and developers work together to design in code? How can prototypes help answer critical design questions? How can USWDS help you build faster than you might have thought possible?
 
 Join the USWDS team for our December call, as we look at rapid prototyping with USWDS.
 

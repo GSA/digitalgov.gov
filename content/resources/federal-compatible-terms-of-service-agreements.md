@@ -38,7 +38,7 @@ Federal friendly Terms of Service for distribution agreements have been negotiat
 
 ## How to Implement
 
-If you’re a federal employee, follow these steps (or [download our easy step-by-step flowchart]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf " see our easy step by step flowchart"" >}}) [PDF, 1 page, 361 KB, February 2015 ]) before setting up an account to use a free digital media tool:
+If you’re a federal employee, follow these steps (or [download our easy step-by-step flowchart]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf " see our easy step by step flowchart"" >}}) [PDF, 361 KB, 1 page, February 2015 ]) before setting up an account to use a free digital media tool:
 
 1. **Review existing policy**: Review your agency’s social media policy and guidance to be sure you understand requirements to use specific tools, branding, etc.
 
@@ -77,7 +77,7 @@ Negotiations with other providers are ongoing.
 
 ## For Tool and Service Providers
 
-GSA welcomes expressions of interest from providers who want to offer, for the federal government&#8217;s consideration, products that are free of charge. GSA developed a [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011) listing the points, issues, and concerns that typically arise in standard Terms of Service and are problematic for federal agencies. This model agreement suggests replacements that would be acceptable to most federal agencies.
+GSA welcomes expressions of interest from providers who want to offer, for the federal government&#8217;s consideration, products that are free of charge. GSA developed a [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (Word document, 55 KB, 5 pages, October 2011) listing the points, issues, and concerns that typically arise in standard Terms of Service and are problematic for federal agencies. This model agreement suggests replacements that would be acceptable to most federal agencies.
 
 If you are such a provider, see the guidance about how to express interest in offering an amended TOS or updating a current one.
 
@@ -87,5 +87,5 @@ Tool and service providers interested in engaging in Terms of Service discussion
 
 - Find your agency&#8217;s [Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
 - View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
-- Use the [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011)
+- Use the [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (Word document, 55 KB, 5 pages, October 2011)
 - Guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements

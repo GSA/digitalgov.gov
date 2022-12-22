@@ -9,7 +9,7 @@ authors:
   - lnelson
 ---
 
-[{{< legacy-img src="/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Open-Opportunities-Task-Creator-Process1.pdf)Click the image to download your own copy of this chart for reference.
+[{{< legacy-img src="/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Open-Opportunities-Task-Creator-Process1.pdf) (PDF, 391 KB, 1 page) Click the image to download your own copy of this chart for reference.
 
 ## Preparation
 
@@ -28,14 +28,14 @@ authors:
 {{< legacy-img src="/2015/04/215-x-215-open-opps-email-share-button.jpg" alt="215-x-215-open-opps-email-share-button" >}}
 
 1. **Market Your Task**
-   - Advertise to relevant communities of practice using our [marketing template](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx) (1 page, 14 kb, MS Word, .docx).
+   - Advertise to relevant communities of practice using our [marketing template](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx) (Word document, 1 page, 14 KB).
    - Use the "share" button on the right of the task page to send a form email.
 2. **_Note:_** <br />
    You will receive an automatic email notification when participants indicate that they want to do your task.
 3. **Review Participants** <br />
    Task Creators need to respond to interested participants within **24 hours**. (You don't need to assign the task that quickly, but some acknowledgement should occur within that time frame.)
 4. **Remove Extra Participants** <br />
-   Remove any extra participants from the task. **It is your responsibility to email extra participants prior to assigning the task.** Please review our [template](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Open-Opps-Opportunity-Assigned-to-Someone-Else-Email-Template.docx) (1 page, 15 kb, MS Word .docx) for a suggested message.
+   Remove any extra participants from the task. **It is your responsibility to email extra participants prior to assigning the task.** Please review our [template](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Open-Opps-Opportunity-Assigned-to-Someone-Else-Email-Template.docx) (1 page, 15 KB, Word document) for a suggested message.
 
 ## Wrapping Up
 
@@ -54,4 +54,4 @@ authors:
 5. **Closing Tasks** <br />
    If your task has been completed, change the opportunity state to "completed."
 
-[Click here](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Open-Opportunities-Task-Creator-Process1.pdf "View the Open Opportunities Task Creator Process") to download a copy (1 page, 391 kb, PDF). Thank you for being a task creator!!
+[Click here](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Open-Opportunities-Task-Creator-Process1.pdf "View the Open Opportunities Task Creator Process") to download a copy (PDF, 391 KB, 1 page). Thank you for being a task creator!!

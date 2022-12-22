@@ -51,7 +51,7 @@ In this webinar, attendees will be introduced to the analytics.usa.gov API and h
 
 Of note, this training is not a training specifically on APIs in general. The team will briefly cover what an API is and how they work, but it will not be an an-depth look at APIs themselves.
 
-_{{< asset-static file="dap-using-analytics-usa-gov-api.pdf" label="View the slides from this presentation (PDF, 372KB, 14 pages)." >}}_
+_{{< asset-static file="dap-using-analytics-usa-gov-api.pdf" label="View the slides from this presentation (PDF, 372 KB, 14 pages)." >}}_
 
 
 ---

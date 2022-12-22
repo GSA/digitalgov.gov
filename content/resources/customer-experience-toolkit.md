@@ -75,19 +75,19 @@ Designate a single person to be responsible for the customer experience agency-w
 ### Hire a Chief Customer Officer (CCO)
 
 - Focus on collaboration and teamwork
-    - [Sample Chief Customer Officer position description](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Position-Description-for-Chief-Customer-Officer_Dec-2015.docx) (Word, 23 kb) &#8211; General Services Administration (GSA)
-    - [Sample CCO performance evaluation criteria](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/CCO-EvaluationTemplate.pdf) (PDF, 82 kb) &#8211; GSA
+    - [Sample Chief Customer Officer position description](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Position-Description-for-Chief-Customer-Officer_Dec-2015.docx) (Word document, 23 KB, 4 pages) &#8211; General Services Administration (GSA)
+    - [Sample CCO performance evaluation criteria](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/CCO-EvaluationTemplate.pdf) (PDF, 83 KB, 2 pages) &#8211; GSA
 - Empower the CCO to influence change across the entire organization
     - [Federal Student Aid Customer Experience Journey: A Recap](https://digital.gov/2015/08/14/federal-student-aid-customer-experience-journey-a-recap/)
 
 ### Stand up a Customer Team
 
 - Performance Plans
-    - [Sample CX Consultant performance plan](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/CX-Consultant-Performance-Plan.xlsx) (Excel, 80 kb) &#8211; GSA
+    - [Sample CX Consultant performance plan](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/CX-Consultant-Performance-Plan.xlsx) (Excel spreadsheet, 82 KB, 2 tabs) &#8211; GSA
 - Position Descriptions (PDs)
     - [Sample PDs for Digital Government jobs](https://digital.gov/resources/sample-position-descriptions-for-digital-government-jobs/) - incl. usability, design, analytics
 - Agency examples
-    - [Customer Service and Public Engagement Directorate (CSPED) overview](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-Customer-Service-and-Public-Engagement-Directorate-Overview.pptx) (PowerPoint, 2MB) and [Functional Profile](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-CSPED-Functional-Profile.docx) (Word, 85 kb) &#8211; DHS/USCIS
+    - [Customer Service and Public Engagement Directorate (CSPED) overview](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-Customer-Service-and-Public-Engagement-Directorate-Overview.pptx) (PowerPoint presentation, 2 MB, 13 slides) and [Functional Profile](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-CSPED-Functional-Profile.docx) (Word document, 87 KB, 5 pages) &#8211; DHS/USCIS
 
 ### Coordinate delivery of content and services
 
@@ -127,7 +127,7 @@ Publish customer service standards and train all employees so they understand th
 - Improve the onboarding process for new employees
     - Develop a “New Employees” section on your intranet to help new hires easily find critical information
 - Share customer service expectations and stories on your intranet
-    - [Sample intranet content (PowerPoint, 705 kb, 4 slides)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-USCIS-sample-intranet-content.pptx) &#8211; DHS/USCIS
+    - [Sample intranet content (PowerPoint presentation, 705 KB, 4 slides)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-USCIS-sample-intranet-content.pptx) &#8211; DHS/USCIS
 - Encourage employees to join the [CX Community of Practice](https://digital.gov/communities/customer-experience/)
 - [Celebrate Customer Experience Day](https://www.performance.gov/cxday/)
 - Learn from the private sector
@@ -136,7 +136,7 @@ Publish customer service standards and train all employees so they understand th
 ### Hold employees accountable
 
 - Include customer service in performance rating criteria
-    - [Sample performance rating elements](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/GSA-Sample-Critical-Elements.xlsx) (Excel, 23 kb) &#8211; GSA
+    - [Sample performance rating elements](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/GSA-Sample-Critical-Elements.xlsx) (Excel spreadsheet, 23 KB, 5 tabs) &#8211; GSA
 
 ### Respond to employee concerns
 
@@ -154,7 +154,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
 
 ### Clearly identify who you’re serving
 
-- [Guide to Understanding Your Customer](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/Understanding-Your-Customer.pdf) (PDF, 10 MB)
+- [Guide to Understanding Your Customer](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/Understanding-Your-Customer.pdf) (PDF, 10 MB, 13 pages)
 - [Getting to Know Your Users: Tips and Tricks from Veterans Affairs](https://digital.gov/2015/05/29/getting-to-know-your-users-tips-and-tricks-from-veterans-affairs/)
 - Spend time in your customers’ shoes
     - Be a “secret shopper” and interact with your agency from the outside in
@@ -166,7 +166,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
 - Sample personas.
     - [Voices of Veterans: Introducing Personas to Better Understand Our Customers](https://digital.gov/2016/09/29/voices-of-veterans-introducing-personas-to-better-understand-our-customers/)
     - [FY 2021, Improving Customer Experiences, (PDF, 3.7 MB, 17 pages, 2021)](https://www.va.gov/ve/docs/cx/customer-experience-improvements-2021.pdf) &mdash; Veterans Experience Office (VEO), U.S. Dept of Veterans Affairs (VA)
-    - [USDA Personas and Use Cases (PDF, 581 kb, 7 pages)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Marsh-Personas.pdf)
+    - [USDA Personas and Use Cases (PDF, 581 KB, 7 pages)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Marsh-Personas.pdf)
 
 ### Map the entire customer journey
 
@@ -264,7 +264,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 
 ### Determine service levels for top tasks
 
-- [Report of the Citizen Service Levels Interagency Committee](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (Word, 233 kb, 2005) - CSLIC
+- [Report of the Citizen Service Levels Interagency Committee](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (Word document, 238 KB, 16 pages, 2005) - CSLIC
 
 ### Standardize processes
 
@@ -274,12 +274,12 @@ Define a framework for collecting common customer metrics, measures and outcomes
 - Adopt survey best practices
     - [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15) &#8211; video
     - [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf) (PDF) &#8211; ClickTools
-    - [Sample CX Question Database](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-CX-question-database.xlsx) (Excel, 87 kb)
+    - [Sample CX Question Database](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-CX-question-database.xlsx) (Excel spreadsheet, 87 KB, 1 tab)
     - [Likert-Type Scale Response Anchors (PDF, 57 kb, 2 pages)](https://media.clemson.edu/cbshs/prtm/research/resources-for-research-page-2/Vagias-Likert-Type-Scale-Response-Anchors.pdf) &#8211; recommended wording and rating scales for a variety of survey questions
 - Sample surveys
-    - [BusinessUSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-BusinessUSA.docx) (Word, 29 kb) &#8211; Department of Commerce
-    - [Passports](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-Passports.docx) (Word 75 kb) &#8211; State Department
-    - [USAJOBS](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-USAJOBS.xlsx) (Excel, 76 kb) &#8211; OPM
+    - [BusinessUSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-BusinessUSA.docx) (Word document, 29 KB, 2 pages) &#8211; Department of Commerce
+    - [Passports](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-Passports.docx) (Word document, 75 KB, 2 pages) &#8211; State Department
+    - [USAJOBS](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-USAJOBS.xlsx) (Excel spreadsheet, 77 KB, 2 tabs) &#8211; OPM
 
 ### Use shared services
 

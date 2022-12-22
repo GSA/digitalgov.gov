@@ -39,5 +39,5 @@ authors:
 
    - The DigitalGov usability team requested help with [writing usability case studies](https://openopps.usajobs.gov/tasks/18). They clearly stated that using WordPress was part of the task, but they would accept a participant who was willing to learn WordPress basics.
 
-10. **Market your Open Opp**. Are there communities of practice (CoP) that might be interested in your task? Use our [Open Opps Marketing Email Template for CoPs](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx) (1 page, 14 kb, MS Word .docx) to craft a message.
+10. **Market your Open Opp**. Are there communities of practice (CoP) that might be interested in your task? Use our [Open Opps Marketing Email Template for CoPs](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx) (Word document, 14 KB, 1 page) to craft a message.
     - Want to target an individual (or six?) Each task has a "share" button that produces a pre-populated email template.

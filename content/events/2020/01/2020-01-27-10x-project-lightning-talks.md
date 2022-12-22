@@ -17,7 +17,7 @@ date: 2020-01-27 14:00:00 -0500
 end_date: 2020-01-27 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - agile
   - data
   - artificial-intelligence
@@ -25,7 +25,7 @@ topics:
   - cloud
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - nico-papafil
   - sarah-crane
   - will-cahoe
@@ -55,10 +55,10 @@ In a set of 5-minute presentations, the 10x project teams will outline:
 
 ## Related Links
 
- - [The 10x website](https://10x.gsa.gov/) 
- - [Tips for 10x submissions](https://10x.gsa.gov/send-us-an-idea/) 
- - [Submit an idea to 10x](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP) 
- - [Learn more about 10x projects](https://10x.gsa.gov/projects/) 
+ - [The 10x website](https://10x.gsa.gov/)
+ - [Tips for 10x submissions](https://10x.gsa.gov/send-us-an-idea/)
+ - [Submit an idea to 10x](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP)
+ - [Learn more about 10x projects](https://10x.gsa.gov/projects/)
 
  ---
 

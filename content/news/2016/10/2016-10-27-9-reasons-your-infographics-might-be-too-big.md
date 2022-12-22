@@ -87,7 +87,7 @@ Trying to get users to sign up for a service, download resources, change behavio
   </li>
 </ol>
 
-Create once, publish everywhere. Developing and approving an infographic for use can be a long process. You want to make that infographic work for you as much as possible. But if it’s a long piece that can’t be [broken down into smaller pieces](https://nccih.nih.gov/news/multimedia/infographics/yoga), you limit your ability to repurpose the infographic for other purposes, such as in PowerPoint presentations, social media, email and print distribution, marketing materials, and more.
+Create once, publish everywhere. Developing and approving an infographic for use can be a long process. You want to make that infographic work for you as much as possible. But if it’s a long piece that can’t be [broken down into smaller pieces](https://nccih.nih.gov/news/multimedia/infographics/yoga), you limit your ability to repurpose the infographic for other purposes, such as in PowerPoint presentation presentations, social media, email and print distribution, marketing materials, and more.
 
 <ol start="8">
   <li>

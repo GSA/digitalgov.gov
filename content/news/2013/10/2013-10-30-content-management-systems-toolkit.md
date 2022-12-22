@@ -180,10 +180,10 @@ Business needs should be the [primary driver]({{< ref "2013-12-12-9-reasons-your
 
 Use these tools to document how well different products match your requirements. This will help you to identify the one that will work best for you.
 
-  * [CMS Solution Evaluation Tool]({{< legacy-file "2014/07/sample-cms-solution-evaluation-tool.xlsx" >}})  (MS Excel, 36 KB, 1 sheet, November 2012)—a sample spreadsheet used to compare, rate, and rank different CMS tools side-by-side, based on features and functionality
+  * [CMS Solution Evaluation Tool]({{< legacy-file "2014/07/sample-cms-solution-evaluation-tool.xlsx" >}})  (Excel spreadsheet, 36 KB, 1 sheet, November 2012)—a sample spreadsheet used to compare, rate, and rank different CMS tools side-by-side, based on features and functionality
   * [CMSmatrix.org](http://www.cmsmatrix.org/)—this online tool lets you compare features of many different CMS products side-by-side
 
-Use this [sample Web CMS Requirements doc]({{< legacy-file "2014/07/cms-requirements-for-sow.docx" >}}) (MS Word, 90 KB, 27 pages, December 2012) as a model to document everything that your CMS should do.
+Use this [sample Web CMS Requirements doc]({{< legacy-file "2014/07/cms-requirements-for-sow.docx" >}}) (Word document, 90 KB, 27 pages, December 2012) as a model to document everything that your CMS should do.
 
 ### Is One CMS Enough?
 
@@ -215,7 +215,7 @@ Many federal agencies already use open-source content management systems, and if
 
 As you work through your requirements list, a few systems will begin to stand out as possible candidates. Once you’ve narrowed down the top 3-6 CMS, it’s time to take a test-drive. Involve both content and tech teams in the process. Identify user types and common tasks. Have content contributors give the tool a test-drive, and try completing basic content management tasks, to see how easy it is to use the system.
 
-Use this [Use this sample CMS User Roles and Needs]({{< legacy-file "2014/07/cms-user-roles-and-needs.docx" >}}) (MS Word, 13 KB, 1 page, December 2012) to document different types of CMS users and the common tasks each will need to perform.
+Use this [Use this sample CMS User Roles and Needs]({{< legacy-file "2014/07/cms-user-roles-and-needs.docx" >}}) (Word document, 13 KB, 1 page, December 2012) to document different types of CMS users and the common tasks each will need to perform.
 
 ### Learn from the Community
 
@@ -240,7 +240,7 @@ A content migration is more than just an IT project; it should be managed as any
 
 Here are some examples of both a very basic project outline, and a detailed project plan:
 
-  * [Sample Task List for Website Redesign]({{< legacy-file "2014/07/task-list-for-website-redesign.docx" >}}) (MS Word, 13 KB, 2 pages, December 2012) shows a high-level project outline
+  * [Sample Task List for Website Redesign]({{< legacy-file "2014/07/task-list-for-website-redesign.docx" >}}) (Word document, 13 KB, 2 pages, December 2012) shows a high-level project outline
   * [Sample Website Redesign Schedule]({{< legacy-file "2014/07/website-redesign-final-schedule.pdf" >}}) (PDF, 249 KB, 10 pages, December 2012) shows a detailed website migration project plan
 
 ### Identify Resource Requirements
@@ -264,8 +264,8 @@ Many agencies contract for developer support with a migration, because it’s a 
 A Statement of Work/Objectives (SOW/SOO) will help you retain the services of a 3rd-party contractor to assist with installing and configuring your new CMS, and migrating your content. Work with your Contracting Office to execute an SOO/SOW.
 
   * [Sample Technology Statements of Work (SOWs) from GSA](http://www.gsa.gov/portal/content/133795)
-  * [Sample Statement of Objectives—Website CMS migration, development and support]({{< legacy-file "2014/07/sample-statement-of-objectives-website-migration.docx" >}}) (MS Word, 53 KB, 14 pages, November 2012)—GSA
-  * [Sample Statement of Objectives—Website CMS consolidation]({{< legacy-file "2014/07/sample-statement-of-objectives-website-consolidation.docx" >}}) (MS Word, 53 KB, 12 pages, November 2012)—GSA
+  * [Sample Statement of Objectives—Website CMS migration, development and support]({{< legacy-file "2014/07/sample-statement-of-objectives-website-migration.docx" >}}) (Word document, 53 KB, 14 pages, November 2012)—GSA
+  * [Sample Statement of Objectives—Website CMS consolidation]({{< legacy-file "2014/07/sample-statement-of-objectives-website-consolidation.docx" >}}) (Word document, 53 KB, 12 pages, November 2012)—GSA
 
 Once they’re on board, make sure the contractors are in the loop on all the prep work you’ve done up to this point.
 
@@ -362,7 +362,7 @@ Some agencies have launched an early version their new site in “beta,” runni
 
 Once you have tested your migration process and everything works well, it&#8217;s time to move your content into the new CMS. You&#8217;ll need to validate that each piece of content was correctly migrated. Use the checklist below to verify each page as you move it.
 
-[Content Migration Validation Checklist]({{< legacy-file "2014/07/content-migration-validation-checklist.xlsx" >}}) (MS Excel, 41 KB, 1 sheet, December 2012)
+[Content Migration Validation Checklist]({{< legacy-file "2014/07/content-migration-validation-checklist.xlsx" >}}) (Excel spreadsheet, 41 KB, 1 sheet, December 2012)
 
 ### Create Redirects as Needed
 

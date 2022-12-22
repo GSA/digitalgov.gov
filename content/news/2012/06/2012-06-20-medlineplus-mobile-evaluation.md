@@ -63,7 +63,7 @@ We presented some preliminary observations from the first few months of our eval
 
 ## What We Learned
 
-See [MedlinePlus Mobile Evaluation Preliminary Report June 2012](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/06/MedlinePlus-Mobile-Evaluation-Preliminary-Report-June-2012.pdf) _(PDF, 27 pgs &#8211; 2.8 MB)_.
+See [MedlinePlus Mobile Evaluation Preliminary Report June 2012](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/06/MedlinePlus-Mobile-Evaluation-Preliminary-Report-June-2012.pdf) _(PDF, 2.8 MB, 27 pages)_.
 
 In addition:
 

@@ -67,7 +67,7 @@ The event featured a variety of presentations, panel discussions and interactive
 - Download: [Federal Citizen Science and Prize Authority Fiscal Yeas 2017 -2018 report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf)
   - Raw data on prizes and challenges, [appendices A and B] (https://www.challenge.gov/toolkit/resources/)
   - Raw data on crowdsourcing and citizen science, [appendices C and D] (https://www.citizenscience.gov/about/#)
-  - {{< asset-static file="Open-Innovation-Summit-June-2019.pdf" label="Review speaker presentations with project-specific details (PDF, 32MB, 142 pages)" >}}
+  - {{< asset-static file="Open-Innovation-Summit-June-2019.pdf" label="Review speaker presentations with project-specific details (PDF, 32 MB, 142 pages)" >}}
 
 ---
 

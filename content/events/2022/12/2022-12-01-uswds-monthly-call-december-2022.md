@@ -24,7 +24,7 @@ event_platform: zoom
 primary_image: 2022-uswds-monthly-call-dec-title-card
 ---
 
-{{< asset-static file="uswds-monthly-call-december-2022.pptx" label="View the slides (PowerPoint, 9.7 MB, 75 pages)" >}}
+{{< asset-static file="uswds-monthly-call-december-2022.pptx" label="View the slides (PowerPoint presentation, 9.7 MB, 75 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for December 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 

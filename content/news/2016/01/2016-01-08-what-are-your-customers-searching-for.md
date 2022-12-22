@@ -20,7 +20,7 @@ Dawn Pointer McCleskey, acting program manager for DigitalGov Search, discussed 
 
 Data itself isn’t enough: once you have the information, it’s time for action. During the webinar, Michelle Chronister, user experience team lead for USAGov, showed how her team uses search data to plan out content and measure success.
 
-Chronister shared an [Excel spreadsheet](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/01/Sample_FY15_Monthly_Search-Reports-USA.gov_.xlsx) (MS Excel, 513KB) that she uses for analysis and that can be modified for other agencies. Her [slide deck](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/01/Mastering_Your_Search_Data-December_2015.pptx) (MS PPT, 651KB, 30 slides) is also available.
+Chronister shared an [Excel spreadsheet](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/01/Sample_FY15_Monthly_Search-Reports-USA.gov_.xlsx) (Excel spreadsheet, 513 KB, 14 tabs) that she uses for analysis and that can be modified for other agencies. Her [slide deck](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/01/Mastering_Your_Search_Data-December_2015.pptx) (PowerPoint presentation, 651 KB, 30 slides) is also available.
 
 ## By the Numbers: A Look at What People are Searching for on USA.gov
 

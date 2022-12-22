@@ -28,7 +28,7 @@ Here are a few things we found out:
 
 ### 1. More agencies are focusing on UX
 
-In our [2013 survey](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/2013-Federal-UX-Survey.pptx) our respondents said that, on average, they have two full-time and two part-time people focused on User Experience. This year, we asked if the User Experience resources at their agency was growing, shrinking, or stayed the same.
+In our [2013 survey](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/2013-Federal-UX-Survey.pptx) (PowerPoint presentation, 282 KB, 22 slides) our respondents said that, on average, they have two full-time and two part-time people focused on User Experience. This year, we asked if the User Experience resources at their agency was growing, shrinking, or stayed the same.
 
 {{< legacy-img src="2014/11/600-x-438-ux-survey-growing.jpg" alt="600-x-438-ux-survey\---growing" >}}
 
@@ -62,7 +62,7 @@ You can count on seeing some [DigitalGov University training]({{< ref "/about/di
 
 ### 4. Download the full survey summary
 
-There&#8217;s lots more, of course. Here&#8217;s the entire [2014 Federal UX Survey Summary Results](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/11/Federal-UX-survey-results-2014-external.pptx).
+There&#8217;s lots more, of course. Here&#8217;s the entire [2014 Federal UX Survey Summary Results](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/11/Federal-UX-survey-results-2014-external.pptx) (PowerPoint presentation, 469 KB, 21 slides).
 
 In terms of methodology, the survey was:
 

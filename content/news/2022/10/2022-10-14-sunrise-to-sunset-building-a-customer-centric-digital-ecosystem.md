@@ -34,7 +34,7 @@ The lifecycle of a digital product is often harder to manage than a physical pro
 
 To fill this need, [GSA’s Enterprise Digital Experience team](https://digital.gov/2022/10/07/taking-a-design-led-approach-to-digital-modernization/), an internal team working to improve customer experience across GSA’s web portfolio, built a Digital Lifecycle Program, which provides a roadmap and tools to help GSA web teams manage a website throughout its entire lifecycle.
 
-{{< note >}}The Digital Lifecycle Program is based on the {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs)" >}}which was developed by GSA in collaboration with the [Federal Web Council](https://digital.gov/resources/federal-web-council/).
+{{< note >}}The Digital Lifecycle Program is based on the {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 KB, 14 tabs)" >}}which was developed by GSA in collaboration with the [Federal Web Council](https://digital.gov/resources/federal-web-council/).
 
 The Go-Live Checklist is part of the [Checklist of Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/).{{< /note >}}
 
