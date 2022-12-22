@@ -1,5 +1,4 @@
-jQuery(document).ready(function($) {
-
+jQuery(function ($) {
 	var topListItem = $(".usa-current").parents("li").last();
 	$( topListItem).addClass('current');
 

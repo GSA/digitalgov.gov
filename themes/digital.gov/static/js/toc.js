@@ -1,4 +1,4 @@
-jQuery(document).ready(function($) {
+jQuery(function ($) {
 
 	// Cleans up the #TableOfContents from HUGO
 	$('#TableOfContents > ul:first').contents().unwrap();

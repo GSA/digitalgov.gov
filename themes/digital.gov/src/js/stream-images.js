@@ -1,6 +1,4 @@
-jQuery(document).ready(function($) {
-
-
+jQuery(function ($) {
   // Gets all the image sizes as paths
   function get_all_image_sizes(uid, format, width, height){
     var sizes = ['200', '400', '600', '800', '1200', '2400']; // all image sizes

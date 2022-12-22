@@ -1,5 +1,4 @@
-jQuery(document).ready(function($) {
-
+jQuery(function ($) {
 	// Builds the Edit link on posts/pages/events to point to the GitHub file
 	function build_edit_file_link(){
 		// editpathURL is set the <head>
