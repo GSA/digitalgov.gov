@@ -28,7 +28,7 @@ primary_image: april-wao-event-cfpb
 
 ---
 
-{{< asset-static file="wao-cop-web-accessibility-seo-cfpb.pptx" label="View the slides (PowerPoint, 8.28 MB, 51 pages)" >}}
+{{< asset-static file="wao-cop-web-accessibility-seo-cfpb.pptx" label="View the slides (PowerPoint presentation, 8.28 MB, 51 pages)" >}}
 
 The Consumer Financial Protection Bureau (CFPB) maintains a large public-facing website at [https://www.consumerfinance.gov](https://www.consumerfinance.gov/). The scale and diversity of the site makes it a challenge to ensure that content is fully discoverable and accessible to all. 
 

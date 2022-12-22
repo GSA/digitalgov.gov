@@ -55,7 +55,7 @@ aliases:
 - [Customer Experience Toolkit]({{< ref "customer-experience-toolkit.md" >}})
 - [Government Customer Service Policies & Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
 - [Paperwork Reduction Act Fast Track Process]({{< ref "paperwork-reduction-act-fast-track-process.md" >}})
-- [Report of the Citizen Service Levels Interagency Committee CSLIC](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (MS Word, 233 KB, 36 pages, 2005)
+- [Report of the Citizen Service Levels Interagency Committee CSLIC](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (Word document, 233 KB, 36 pages, 2005)
 
 ## Design
 

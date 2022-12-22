@@ -25,7 +25,7 @@ Over the past five years, EIA had placed greater emphasis than ever before on mo
 
   * **Grammar, Punctuation, and Usage—**how grammar is different from style, how to use easily confused words, how to punctuate sentences and bullets.
   * **How to Write in Plain Language—**who EIA’s readers are, how to gauge readers’ appetite for detail, how to tailor your message using a layered approach, how to anticipate and answer readers’ questions.
-  * **How to Edit and Proofread Your Own Writing—**how editing and proofreading differ, strategies for seeing our own writing with fresh eyes, how to use MS Word tools for editing
+  * **How to Edit and Proofread Your Own Writing—**how editing and proofreading differ, strategies for seeing our own writing with fresh eyes, how to use Word document tools for editing
   * **How to Improve Your Writing Process—**how and why to budget time for planning, how to use a document planner to structure your writing, how to develop document flow from one section to another, how to use tools other than outlining to structure your writing.
   * **Policy-Neutral Writing at EIA—**why EIA writing must be policy neutral, which situations pose the most risk for policy-neutral writers, which words and phrases to avoid
   * **For Managers: How to Edit and Proofread Someone Else’s Work—**tips and tricks for editing others’ work, how to use proofreading marks, when you should focus on building the writer’s skills and when you must correct the document yourself, how to incorporate writing competencies into performance goals.

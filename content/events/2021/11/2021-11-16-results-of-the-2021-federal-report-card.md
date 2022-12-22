@@ -30,7 +30,7 @@ primary_image: december-plain-language-report-card-title-card
 
 ---
 
-{{< asset-static file="results-of-the-fplrc.pptx" label="View the slides (PowerPoint, 1.4 MB, 9 pages)" >}}
+{{< asset-static file="results-of-the-fplrc.pptx" label="View the slides (PowerPoint presentation, 1.4 MB, 9 pages)" >}}
 
 [Read the Lessons Learned](https://digital.gov/resources/lessons-from-the-2021-federal-plain-language-report-card/)
 

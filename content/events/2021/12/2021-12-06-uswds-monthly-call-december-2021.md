@@ -24,7 +24,7 @@ event_platform: zoom
 
 ---
 
-[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-december-2021-distro.pptx.zip) (PowerPoint, 1.3 MB, 27 pages)
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-december-2021-distro.pptx.zip) (PowerPoint presentation, 1.3 MB, 27 pages)
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for December 2021" icon="content_copy" >}}
 

@@ -26,7 +26,7 @@ primary_image: increase-your-impact-with-plain-language-title-card
 
 ---
 
-{{< asset-static file="increase-your-impact-with-plain-language-slides.pptx" label="View the slides (PowerPoint, 8.4 MB, 33 pages)" >}}
+{{< asset-static file="increase-your-impact-with-plain-language-slides.pptx" label="View the slides (PowerPoint presentation, 8.4 MB, 33 pages)" >}}
 
 **This event is limited to federal employees and contractors with government email addresses.**
 

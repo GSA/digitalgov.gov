@@ -36,7 +36,7 @@ Our guide has three different sections:
 
 * **Design Elements**: This section describes stylistic choices our team is committed to, including typography, color palette, logos and icons.
 * **Patterns and Interactions**: This section contains best practices for solving coming design problems and tensions, from alerts to error messages and tags to tables. Design elements can typically be applied to the content in this section.
-* **Assets**: This section contains other downloadable design resources we’ve created, like PowerPoint templates and SharePoint layouts, that don’t fit into other sections of the guide.
+* **Assets**: This section contains other downloadable design resources we’ve created, like PowerPoint presentation templates and SharePoint layouts, that don’t fit into other sections of the guide.
 
 Within every section of our style guide, we answer the following questions about each topic:
 

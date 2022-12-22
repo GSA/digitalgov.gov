@@ -115,7 +115,7 @@ topics:
         <strong>Endorsements—</strong>You can’t use a USGW in a way that implies endorsement by a federal government agency, official, or employee. For example, you cannot use a photo of a government official wearing your product in an advertisement.
       </li>
       <li>
-        <strong>Release forms for individuals—</strong>If you need to film someone and show their likeness in your government video, you may need to use a <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/video-release-form.doc">video release form</a> (MS Word, 24.5 KB, 1 page, April 2012). This protects you and the government from lawsuits or takedown requests.
+        <strong>Release forms for individuals—</strong>If you need to film someone and show their likeness in your government video, you may need to use a <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/video-release-form.doc">video release form</a> (Word document, 24.5 KB, 1 page, April 2012). This protects you and the government from lawsuits or takedown requests.
       </li>
     </ul>
     
@@ -137,7 +137,7 @@ topics:
     
     <ul>
       <li>
-        Contact the owner and have them send you permission, by letter or email, to use your work. You can find the owner by looking for credits and contacting the webmaster or owner of the page; or, if it’s a social media video, through their social media account. You can use our <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/video-release-form.doc">video release form</a> (MS Word, 24.5 KB, 1 page, April 2012) for web content as well.
+        Contact the owner and have them send you permission, by letter or email, to use your work. You can find the owner by looking for credits and contacting the webmaster or owner of the page; or, if it’s a social media video, through their social media account. You can use our <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/video-release-form.doc">video release form</a> (Word document, 24.5 KB, 1 page, April 2012) for web content as well.
       </li>
       <li>
         Find work labeled public domain (generally freely usable in the country it was created). Check if the author has included a <a href="http://creativecommons.org/">Creative Commons</a> or another attribution license indicating the item is free to use. A variety of websites collect large groups of these images, which you can find examples of in our next section,<a title="Find Free Video Stock Footage" href="{{< ref "2012-05-07-find-free-video-stock-footage.md" >}}"> finding legal footage and music</a>.

@@ -29,7 +29,7 @@ primary_image: fed-leadership-november-event-title-card
 
 ---
 
-{{< asset-static file="successful-strategies-telework-hybrid-work-environments.pptx" label="View the slides (PowerPoint, 2.7 MB, 161 pages)" >}}
+{{< asset-static file="successful-strategies-telework-hybrid-work-environments.pptx" label="View the slides (PowerPoint presentation, 2.7 MB, 161 pages)" >}}
 
 Experts from The National Institutes of Health (NIH), Office of Personnel Management (OPM), United States Department of Agriculture (USDA), Small Business Administration (SBA), Department of Homeland Security (DHS), General Services Administration (GSA), and Department of Energy (DOE) will share strategies for succeeding at working, managing, supervising, hiring, collaborating, communicating, and more! 
 

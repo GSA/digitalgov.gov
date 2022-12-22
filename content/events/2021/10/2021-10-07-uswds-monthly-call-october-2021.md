@@ -28,7 +28,7 @@ event_platform: zoom
 
 ---
 
-[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-october-2021-distro.pptx) (PowerPoint, 3.6 MB, 41 pages)
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-october-2021-distro.pptx) (PowerPoint presentation, 3.6 MB, 41 pages)
 
 [Read the Webinar Recap](https://digital.gov/2021/11/15/webinar-recap-u-s-web-design-system-october-2021-monthly-call/)
 

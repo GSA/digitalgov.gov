@@ -24,7 +24,7 @@ event_platform: zoom
 primary_image: 2022-uswds-monthly-call-dec-title-card
 ---
 
-{{< asset-static file="uswds-monthly-call-december-2022.pptx" label="View the slides (PowerPoint, 9.7 MB, 75 pages)" >}}
+{{< asset-static file="uswds-monthly-call-december-2022.pptx" label="View the slides (PowerPoint presentation, 9.7 MB, 75 pages)" >}}
 
 What things — small and large — made 2022 a great year for the Design System? This month, we’ll hear members of the Core Team share their favorite Design System updates from 2022. Join us as we look back at the year — you never know what you might have missed!
 

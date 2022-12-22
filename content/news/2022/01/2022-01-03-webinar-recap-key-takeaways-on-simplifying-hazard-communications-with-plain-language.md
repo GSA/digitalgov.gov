@@ -46,7 +46,7 @@ NWS is exploring three standard formats to present hazards in plain language:
 2. **Lead with “caution,”** followed by a hazard ("Caution: Light snow accumulations today" or "Caution: Snow with slippery roads today")
 3. **Describe the hazard** ("Light snow accumulations today" or "Snow with slippery roads today")
 
-{{< asset-static file="plain-language-summit-nws-noaa-final.pptx" label="View the slides (PowerPoint, 5.4 MB, 60 slides)" >}} from September's [2021 Federal Plain Language Summit](https://digital.gov/event/2021/09/21/2021-federal-plain-language-summit/) presentation by Danielle Nagele of the National Oceanic and Atmospheric Administration (NOAA).
+{{< asset-static file="plain-language-summit-nws-noaa-final.pptx" label="View the slides (PowerPoint presentation, 5.4 MB, 60 slides)" >}} from September's [2021 Federal Plain Language Summit](https://digital.gov/event/2021/09/21/2021-federal-plain-language-summit/) presentation by Danielle Nagele of the National Oceanic and Atmospheric Administration (NOAA).
 
 ***
 

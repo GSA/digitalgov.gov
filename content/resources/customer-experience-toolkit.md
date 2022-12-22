@@ -75,7 +75,7 @@ Designate a single person to be responsible for the customer experience agency-w
 ### Hire a Chief Customer Officer (CCO)
 
 - Focus on collaboration and teamwork
-    - [Sample Chief Customer Officer position description](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Position-Description-for-Chief-Customer-Officer_Dec-2015.docx) (MS Word, 23 KB, 4 pages) &#8211; General Services Administration (GSA)
+    - [Sample Chief Customer Officer position description](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Position-Description-for-Chief-Customer-Officer_Dec-2015.docx) (Word document, 23 KB, 4 pages) &#8211; General Services Administration (GSA)
     - [Sample CCO performance evaluation criteria](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/CCO-EvaluationTemplate.pdf) (PDF, 83 KB, 2 pages) &#8211; GSA
 - Empower the CCO to influence change across the entire organization
     - [Federal Student Aid Customer Experience Journey: A Recap](https://digital.gov/2015/08/14/federal-student-aid-customer-experience-journey-a-recap/)
@@ -87,7 +87,7 @@ Designate a single person to be responsible for the customer experience agency-w
 - Position Descriptions (PDs)
     - [Sample PDs for Digital Government jobs](https://digital.gov/resources/sample-position-descriptions-for-digital-government-jobs/) - incl. usability, design, analytics
 - Agency examples
-    - [Customer Service and Public Engagement Directorate (CSPED) overview](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-Customer-Service-and-Public-Engagement-Directorate-Overview.pptx) (PowerPoint, 2 MB, 13 slides) and [Functional Profile](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-CSPED-Functional-Profile.docx) (MS Word, 87 KB, 5 pages) &#8211; DHS/USCIS
+    - [Customer Service and Public Engagement Directorate (CSPED) overview](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-Customer-Service-and-Public-Engagement-Directorate-Overview.pptx) (PowerPoint presentation, 2 MB, 13 slides) and [Functional Profile](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-CSPED-Functional-Profile.docx) (Word document, 87 KB, 5 pages) &#8211; DHS/USCIS
 
 ### Coordinate delivery of content and services
 
@@ -127,7 +127,7 @@ Publish customer service standards and train all employees so they understand th
 - Improve the onboarding process for new employees
     - Develop a “New Employees” section on your intranet to help new hires easily find critical information
 - Share customer service expectations and stories on your intranet
-    - [Sample intranet content (PowerPoint, 705 KB, 4 slides)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-USCIS-sample-intranet-content.pptx) &#8211; DHS/USCIS
+    - [Sample intranet content (PowerPoint presentation, 705 KB, 4 slides)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/DHS-USCIS-sample-intranet-content.pptx) &#8211; DHS/USCIS
 - Encourage employees to join the [CX Community of Practice](https://digital.gov/communities/customer-experience/)
 - [Celebrate Customer Experience Day](https://www.performance.gov/cxday/)
 - Learn from the private sector
@@ -264,7 +264,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 
 ### Determine service levels for top tasks
 
-- [Report of the Citizen Service Levels Interagency Committee](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (MS Word, 238 KB, 16 pages, 2005) - CSLIC
+- [Report of the Citizen Service Levels Interagency Committee](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (Word document, 238 KB, 16 pages, 2005) - CSLIC
 
 ### Standardize processes
 
@@ -277,8 +277,8 @@ Define a framework for collecting common customer metrics, measures and outcomes
     - [Sample CX Question Database](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-CX-question-database.xlsx) (Excel spreadsheet, 87 KB, 1 tab)
     - [Likert-Type Scale Response Anchors (PDF, 57 kb, 2 pages)](https://media.clemson.edu/cbshs/prtm/research/resources-for-research-page-2/Vagias-Likert-Type-Scale-Response-Anchors.pdf) &#8211; recommended wording and rating scales for a variety of survey questions
 - Sample surveys
-    - [BusinessUSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-BusinessUSA.docx) (MS Word, 29 KB, 2 pages) &#8211; Department of Commerce
-    - [Passports](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-Passports.docx) (MS Word, 75 KB, 2 pages) &#8211; State Department
+    - [BusinessUSA](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-BusinessUSA.docx) (Word document, 29 KB, 2 pages) &#8211; Department of Commerce
+    - [Passports](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-Passports.docx) (Word document, 75 KB, 2 pages) &#8211; State Department
     - [USAJOBS](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/sample-survey-USAJOBS.xlsx) (Excel spreadsheet, 77 KB, 2 tabs) &#8211; OPM
 
 ### Use shared services
