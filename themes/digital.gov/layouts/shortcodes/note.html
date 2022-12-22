@@ -22,6 +22,11 @@ Action —
 Action text goes here...
 {{< /note >}}
 
+Video —
+{{< note "video" >}}
+Video text goes here...
+{{< /note >}}
+
 Comment —
 {{< note "alert" >}}
 > Comment goes here as a blockquote
@@ -34,7 +39,7 @@ additional text goes here...
 <div class="note {{ if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
     <h4>
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
         <use xlink:href="{{ "uswds/img/sprite.svg#assessment" | relURL }}"></use>
       </svg> Activity
     </h4>
@@ -46,19 +51,25 @@ additional text goes here...
     </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
     <h4>
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
         <use xlink:href="{{ "uswds/img/sprite.svg#report" | relURL }}"></use>
       </svg> Alert
     </h4>
   {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
     <h4>
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
         <use xlink:href="{{ "uswds/img/sprite.svg#comment" | relURL }}"></use>
       </svg> Comment
     </h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "video") -}}
+    <h4>
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{ "uswds/img/sprite.svg#fast_forward" | relURL }}"></use>
+      </svg> Video
+    </h4>
   {{- else -}}
     <h4>
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
         <use xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}"></use>
       </svg> Note
     </h4>
