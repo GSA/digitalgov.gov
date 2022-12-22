@@ -33,6 +33,7 @@ community_list:
     subscribe_email: "VIDEO-PRODUCTION-subscribe-request@listserv.gsa.gov"
     terms: "Anyone with a .gov or .mil email address is eligible to join."
     members: 510   
+    blurb: "Video Producers"
     
 
 ---

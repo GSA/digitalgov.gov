@@ -44,6 +44,7 @@ community_list:
     terms: "Federal government employees and contractors with an official .gov/.mil email are eligible to join."
     members: 707
     terms: Government employees and contractors only.
+    blurb: "Web Analytic Members"
 
 primary_image: "white-bg-digital-gov-card-community"
 

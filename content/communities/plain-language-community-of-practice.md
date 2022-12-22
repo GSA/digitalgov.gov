@@ -44,6 +44,7 @@ community_list:
     subscribe_email: "pl-cop-main-subscribe-request@listserv.gsa.gov"
     terms: "Anyone is eligible to join."
     members: 1940
+    blurb: "Plain Languagists"
 
 primary_image: "digital-gov-card-community"
 

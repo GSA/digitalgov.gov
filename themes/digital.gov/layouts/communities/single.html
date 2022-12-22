@@ -33,10 +33,23 @@
     <section>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-4">
-          <div class="grid-col-12 tablet-lg:grid-col-4">
+
+          <div class="grid-col-12 tablet-lg:grid-col-8">
+
+            {{/* Summary */}}
+            {{- if .Params.summary -}}
+            <div class="content">
+              <p>{{- .Params.summary | markdownify -}}</p>
+            </div>
+            {{- end -}}
 
             {{- if .Params.community_list -}}
-            <section class="community-info {{ .Params.community_type -}}">
+            <section class="join-form {{ .Params.community_type -}}">
+              <h4>
+                <svg class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
+                  <use xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"></use>
+                </svg> Join
+              </h4>
 
               {{- range $i, $e := .Params.community_list -}}
                 <div class="join-box">
@@ -103,47 +116,12 @@
                       {{- partial "core/community-join-slack.html" (dict "context" . "e" $e) -}}
                     {{- end -}}
 
-
-                    {{/*
-                      Community Members
-                      - These are updated manually in the front matter by going to the backend of the listserv platform and entering in the values one by one.
-                    */}}
-                    {{- if $e.members -}}
-                      <p class="members">
-                        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{ "uswds/img/sprite.svg#person" | relURL }}"></use>
-                        </svg>
-                        {{ $e.members }} members
-                        {{- if $e.emails_per_week }}
-                        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{ "uswds/img/sprite.svg#mail" | relURL }}"></use>
-                        </svg>
-                        Avg. {{ $e.emails_per_week }} emails per week{{- end -}}
-                      </p>
-                    {{- end -}}
-
-
                   </div>
                 </div>
               {{- end -}}
 
-              {{- if .Params.authors -}}
-              <div class="community_managers">
-                <h3>Community Managers</h3>
-                {{- partial "core/get_authors.html" . -}}
-              </div>
-              {{- end -}}
-
-              <div class="community_admin">
-                <p><a href="{{- "/communities/manage-your-subscription" | relURL -}}" title="Manage your Listserv subscription">Manage your Listserv subscription</a></p>
-                <p><a href="{{- "/communities/manage-your-subscription/#access-the-listserv-archive" | relURL -}}" title="Access the Listserv archive">Access the Listserv archive</a></p>
-              </div>
-
             </section>
             {{- end -}}
-          </div>
-
-          <div class="grid-col-12 tablet-lg:grid-col-8">
             <div class="content">
               {{- .Content -}}
             </div>
@@ -160,6 +138,10 @@
               <br/>
               {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
              </div>
+          </div>
+
+          <div class="grid-col-12 tablet-lg:grid-col-4">
+            <b>In This Page goes here....</b>
           </div>
 
         </div>
