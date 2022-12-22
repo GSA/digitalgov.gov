@@ -4,7 +4,9 @@ const tap = require("gulp-tap");
 const sizeOf = require("image-size");
 const fs = require("fs");
 const path = require("path");
+const fileTidy = require("./utils.js");
 
+// exports.do = series(fileTidy, cleanInbox, writeDataFile, mkdir);
 
 const imgPaths = {
   working: "./content/images/_inbox/",
@@ -13,61 +15,6 @@ const imgPaths = {
 }
 
 const extAllowed = [".jpg", ".png", ".jpeg"];
-
-function fileTidy(done) {
-  // const workingDirectory = "./content/images/_inbox/";
-  // const origDirectory = "./content/images/_working/originals";
-  // const toProcessDirectory = "./content/images/_working/to-process";
-  // const extAllowed = [".jpg", ".png", ".jpeg"];
-
-  var newfileName = "";
-
-  fs.readdir(imgPaths.working, (err, files) => {
-    //process.stdout.write(files.length.toString() + "\n");
-    for (var file of files) {
-      //if file includes the allowed extensions(.jpg,.png,.jpeh), process the file
-      if (extAllowed.includes(path.extname(file))) {
-        //clean up the filename before processing
-        newfileName = cleanFileName(file);
-        //create working directories if they do not exist
-
-        createDir(orig, 3);
-        createDir(toProcess, 3);
-        fs.renameSync(
-          imgPaths.workingDirectory + "/" + file,
-          imgPaths.orig + "/" + newfileName
-        );
-        fs.copyFileSync(
-          imgPaths.orig + "/" + newfileName,
-          imgPaths.toProcess + "/" + newfileName
-        );
-      }
-    }
-    if (err) {
-      process.output.write(
-        "Error cleaning and copying file [" + file + "]\n",
-        "Error message: " + err.message
-      );
-    }
-  });
-  // done();
-}
-
-function imageDir() {
-  return {
-    working: "./content/images/_inbox/",
-    original: "./content/images/_working/originals",
-    toProcess: "./content/images/_working/to-process"
-  }
-}
-
-// function imageTidy(imageDir, extAllowed, done) {
-//   fileTidy(imageDir, extAllowed, done);
-//   console.log(imageDir);
-//   return imageDir;
-//   done();
-// }
-
 
 function fileStaticTidy(done) {
   const workingDirectory = "./content/images/_inbox/";
@@ -283,7 +230,7 @@ function mkdirStaticFile() {
 
 
 exports.do = series(
-  fileTidy,
+  fileTidy(imgPaths, extAllowed),
   // fileStaticTidy,
   cleanInbox,
   // writeDataFile,
