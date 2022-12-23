@@ -34,3 +34,12 @@ $communities-of-practice: (
     }
   }
 }
+
+.usa-card__footer {
+  a.usa-button {
+    @include u-display('flex');
+    @include u-flex('align-center');
+    @include u-minh(8);
+    @include u-margin-right(0);
+  }
+}

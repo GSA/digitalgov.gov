@@ -32,6 +32,7 @@ community_list:
     subscribe_email_subject: "Join: OpenGov"
     members: 232
     emails_per_week:
+    blurb: "Open Gov Members"
 
 ---
 

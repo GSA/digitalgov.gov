@@ -2,25 +2,6 @@
 
 <p>Email <strong>{{ .e.subscribe_email }}</strong> to join. Include {{ if .e.subscribe_email_subject }} <strong>{{ .e.subscribe_email_subject }}</strong>{{ else }} nothing {{ end }} in the subject line{{- if .e.subscribe_email_body }} and <strong>{{ .e.subscribe_email_body }}</strong> in the body{{- end -}}.</p>
 
-<!-- <button class="usa-button">
-  <a href="mailto:{{- .e.subscribe_email -}}
-  {{- if .e.subscribe_email_subject -}}
-    ?subject={{- .e.subscribe_email_subject -}}
-    {{- if .e.subscribe_email_body -}}
-      &body={{- .e.subscribe_email_body -}}
-    {{- end -}}
-  {{- else -}}
-    {{- if .e.subscribe_email_body -}}
-      ?body={{- .e.subscribe_email_body -}}
-    {{- end -}}
-  {{- end -}}" class="join type-{{- .e.platform -}}">
-    <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-      <use xlink:href="{{ "uswds/img/sprite.svg#mail" | relURL }}"></use>
-    </svg>
-    Join {{ .e.members }} {{ .e.blurb }}
-  </a>
-</button> -->
-
 <div class="join-button">
   <a class="join" href="mailto:{{- .e.subscribe_email -}}
   {{- if .e.subscribe_email_subject -}}
@@ -36,7 +17,7 @@
     <!-- <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
       <use xlink:href="{{ "uswds/img/sprite.svg#mail" | relURL }}"></use>
     </svg> -->
-    Join {{ .e.members }} {{ .e.blurb }}
+    Join {{ if .e.subscribe_email_subject }}{{ .e.members }}{{ end }} {{ .e.blurb }}
   </a>
 </div>
 
