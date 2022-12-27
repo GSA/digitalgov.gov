@@ -43,7 +43,7 @@ Want to be featured here? Just
     </ul>
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-08-12-heat-mapping-case-study-epa-gov-homepage.md" >}}">{{< legacy-img src="/2014/09/300-x-143-EPA-homepage-heatmap.jpg" alt="Heat Mapping Case Study: Epa.gov Homepage" >}}</a>
@@ -67,7 +67,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-08-22-api-usability-case-study-openfda.md" >}}">{{< legacy-img src="/2014/09/300-x-240-openFDA.jpg" alt="API Usability Case Study: openFDA" >}}</a>
@@ -90,7 +90,7 @@ Want to be featured here? Just
     </ul>
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-06-06-consumer-action-handbook-usability-case-study.md" >}}">{{< legacy-img src="/2014/09/300-x-204-Consumer-Action-Handbook.jpg" alt="Consumer Action Handbook – Usability Case Study" >}}</a>
@@ -114,7 +114,7 @@ Want to be featured here? Just
     </ul>
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-08-19-redesigning-with-customer-feedback-child-support-enforcement-usability-case-study.md" >}}">{{< legacy-img src="/2014/09/300-x-190-OCSE_1a.jpg" alt="Child Support Enforcement – Usability Case Study" >}}</a>
@@ -138,7 +138,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-07-02-using-top-tasks-to-be-top-notch-federal-reserve-board-usability-case-study.md" >}}">{{< legacy-img src="/2014/09/300-x-197-Top-Tasks.jpg" alt="Using Top Tasks to be Top-Notch – Usability Case Study" >}}</a>
@@ -162,7 +162,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-07-18-improving-content-increasing-participation-a-nara-usability-case-study.md" >}}">{{< legacy-img src="/2014/09/300-x-190-vote-for-NARA-homepage-NARA1.jpg" alt="Improving Content, Increasing Participation – Usability Case Study" >}}</a>
@@ -186,7 +186,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-07-01-using-analytics-to-create-change-usa-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/09/300-x-194-USA_gov-heat-map.jpg" alt="Using Analytics to Create Change – USA.gov Usability Case Study" >}}</a>
@@ -209,7 +209,7 @@ Want to be featured here? Just
     </ul>
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-04-14-noaa-national-ocean-service-usability-case-study.md" >}}">{{< legacy-img src="/2014/01/NOAA-nos-homepage-before-300-x-225.jpg" alt="NOAA-nos-homepage-before-300-x-225" >}}</a>
@@ -232,7 +232,7 @@ Want to be featured here? Just
     </ul>
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-04-09-usability-case-study-fda-consumer-graphics.md" >}}">{{< legacy-img src="/2014/04/300-x-165-FDA-version-2-of-Two-Wart-Removal-Warning-Flammable-graphics.jpg" alt="300-x-165-FDA-version-2-of-Two-Wart-Removal-Warning-Flammable-graphics" >}}</a>
@@ -255,7 +255,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-04-02-kids-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-170-Kids.jpg" alt="300-x-170-Kids" >}}</a>
@@ -278,7 +278,7 @@ Want to be featured here? Just
     </ul>
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2014-03-18-data-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-225-Data.jpg" alt="300-x-225-Data" >}}</a>
@@ -301,7 +301,7 @@ Want to be featured here? Just
     </ul>
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2013-07-02-fueleconomy-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-225-fueleconomy.jpg" alt="300-x-225-fueleconomy" >}}</a>
@@ -325,7 +325,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2013-04-29-atf-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-200-atfgov-after.jpg" alt="300-x-200-atfgov-after" >}}</a>
@@ -349,7 +349,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2013-02-19-contractor-vehicle-navigator-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-205-contractor-vehicle-navigator-after1.jpg" alt="300-x-205-contractor-vehicle-navigator-after1" >}}</a>
@@ -373,7 +373,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2013-01-23-commerce-departmental-library-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-210-commerce-departmental-library-after1.jpg" alt="300-x-210-commerce-departmental-library-after1" >}}</a>
@@ -397,7 +397,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2013-03-22-regulations-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-165-regulationsgov-before.jpg" alt="300-x-165-regulationsgov-before" >}}</a>
@@ -421,7 +421,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2013-03-21-saferbus-mobile-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-220-saferbus-before-after-1.jpg" alt="300-x-220-saferbus-before-after-1" >}}</a>
@@ -444,7 +444,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2012-12-17-sam-gov-usability-test-study.md" >}}">{{< legacy-img src="/2014/01/sam_gov-before-300-x-230.jpg" alt="sam_gov-before-300-x-230" >}}</a>
@@ -468,7 +468,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2013-07-02-business-usa-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-305-Businessusa-before1.jpg" alt="300-x-305-Businessusa-before1" >}}</a>
@@ -492,7 +492,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2013-06-19-army-mil-usability-case-study.md" >}}">{{< legacy-img src="/2014/01/army_mil-before-300x208.jpg" alt="army_mil-before-300x208" >}}</a>
@@ -513,7 +513,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2012-10-15-gsa-fedramp-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-277-fedramp-after.jpg" alt="300-x-277-fedramp-after" >}}</a>
@@ -537,7 +537,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2012-12-14-irs-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-305-IRS-after-new.jpg" alt="300-x-305-IRS-after-new" >}}</a>
@@ -561,7 +561,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2012-10-15-gsa-intranet-insite-usability-case-study.md" >}}">{{< legacy-img src="/2014/01/gsa-insite-before-2-300-x-230.jpg" alt="gsa-insite-before-2-300-x-230" >}}</a>
@@ -585,7 +585,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2012-10-15-office-of-natural-resources-revenue-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-175-onrr-after.jpg" alt="300-x-175-onrr-after" >}}</a>
@@ -609,7 +609,7 @@ Want to be featured here? Just
 
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2012-11-05-nsf-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/04/300-x-225-NSF-before-2012_1.jpg" alt="300-x-225-NSF-before-2012_1" >}}</a>
@@ -626,7 +626,7 @@ Want to be featured here? Just
     </ul>
   </div>
 </div>
-
+<hr />
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
     <a href="{{< ref "2012-12-06-weather-gov-usability-case-study.md" >}}">{{< legacy-img src="/2014/01/weather_gov-before_0-300-x-315.jpg" alt="weather_gov-before_0-300-x-315" >}}</a>
