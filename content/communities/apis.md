@@ -33,6 +33,10 @@ community_list:
 
 This Community of Practice (CoP) is for anyone who is interested in government APIs and developer outreach, with a focus on the federal government. APIs are as important to digital government as they are are esoteric and sometimes difficult to understand. This forum exists to help federal agencies share news, ask for help, and expand the use of APIs in government.
 
+## Join
+
+To join, fill out our form at [https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis).
+
 ## Who we are
 
 The community mailing list is open to everyone, though some events will be limited to those with a federal **.gov** or **.mil** email address.
