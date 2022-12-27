@@ -17,7 +17,7 @@ topics:
   - us-bureau-of-labor-statistics
   - usability
   - user-experience
-  
+
 ---
 
 The cream of the crop of the top of the mountain of ALL of the surveys I run has to be the Federal User Experience (UX) Survey. It&#8217;s the second time I&#8217;ve had the privilege of running it with **Jean Fox**, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning what all of my UX colleagues are doing, and designing solutions for them based on real data, I start clasping my fingers together like Mr. Burns.
@@ -58,7 +58,7 @@ Government services used to be in person, phone-based and on paper. Then came th
 
 {{< legacy-img src="2014/11/600-x-332-ux-survey-training-needs.jpg" alt="600-x-332-ux-survey\---training-needs" >}}
 
-You can count on seeing some [DigitalGov University training]({{< ref "/about/digitalgov-university.md" >}}) on these subjects very soon. If you want to help teach a class, please [let us know](mailto:govux@gsa.gov).
+You can count on seeing some [DigitalGov University training]({{< ref "/about/digitalgov-university.md" >}}) on these subjects very soon. If you want to help teach a class, please [let us know](mailto:digitalgov@gsa.gov).
 
 ### 4. Download the full survey summary
 
@@ -71,4 +71,4 @@ In terms of methodology, the survey was:
   * Non-scientific due to small sample size, but still uncovered valuable information and real trends
   * Conducted August-September 2014
 
-If you have a .gov or .mil email address and you&#8217;d like to sign up for our Federal User Experience Listserv and be part of our next survey, [please email us](mailto:govux@gsa.gov). Now let&#8217;s roll up our sleeves and start to act on all of this!
+If you have a .gov or .mil email address and you&#8217;d like to sign up for our Federal User Experience Listserv and be part of our next survey, [please email us](mailto:digitalgov@gsa.gov). Now let&#8217;s roll up our sleeves and start to act on all of this!

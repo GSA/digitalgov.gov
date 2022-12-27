@@ -15,7 +15,7 @@ It’s always best to test a product BEFORE you release it. So the best time to 
 
 But even if you’ve gone past that point (or even if your site is live) you can still find points of user frustration and fix them through a usability test or evaluation.
 
-If you are considering running a usability test or other user experience service &#8211; great! We&#8217;d be happy to offer some pointers, point you towards some templates to save you time, or take a look at your script or test plan. Our goal is for agencies to do as much user research as they can, so [email us for test support](mailto:govux@gsa.gov) when you&#8217;re ready. Or check out our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}} "DigitalGov User Experience Program: Usability Starter Kit").
+If you are considering running a usability test or other user experience service &#8211; great! We&#8217;d be happy to offer some pointers, point you towards some templates to save you time, or take a look at your script or test plan. Our goal is for agencies to do as much user research as they can, so [email us for test support](mailto:digitalgov@gsa.gov) when you&#8217;re ready. Or check out our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}} "DigitalGov User Experience Program: Usability Starter Kit").
 
 From time to time we will conduct a demonstrate test, evaluation or other service for educational purposes. On rare occasions we will select a high-impact site for testing purposes. We will post notices of our tests through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}).
 

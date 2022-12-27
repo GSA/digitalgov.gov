@@ -20,7 +20,7 @@ mobile apps and other products become more effective, more coherent and more
 usable by focusing on the User Experience of their customers.
 
 Want to be featured here? Just
-[email us](mailto:govux@gsa.gov "Click here to email govux@gsa.gov").
+[email us](mailto:digitalgov@gsa.gov "Click here to email digitalgov@gsa.gov").
 
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-5 first">
