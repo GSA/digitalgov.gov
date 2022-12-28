@@ -78,124 +78,124 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
 
 **Structured and Open Content Models Working Group Members:**
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Administrative Office of the U.S. Courts</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Allison Alexander
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Census Bureau</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Logan Powell
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Centers for Disease Control and Prevention</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Fred Smith
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Consumer Financial Protection Bureau</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Daniel Munz
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Department of Education</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Jill James
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Department of Labor</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Edward McCarthy
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Economic Research Service, Department of Agriculture</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Mary Maher
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Food and Drug Administration</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Gong Chen
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>General Services Administration</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Russell O&#8217;Neill<br /> Jacob Parcell<br /> Phil Ashlock<br /> Laura Gray
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>National Institutes of Health</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Lakshmi Grama<br /> Holly Irving
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Securities and Exchange Commission</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Robert Rand
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row">
+  <div class="tablet:grid-col-6 first">
     <strong>Social Security Administration</strong>
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-6">
     Wayne Whitten
   </div>
-</blockquote>
+</div>
 
 _We&#8217;ve created an editorial theme calendar to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._

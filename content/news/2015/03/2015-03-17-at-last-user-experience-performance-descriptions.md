@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - usability
   - user-experience
-  
+
 ---
 
 {{< legacy-img src="2015/03/502-x-478-UX-RolesV2.jpg" alt="A Venn diagram based on Dan Saffer’s “Disciplines of User Experience, 2009,” shows the overlapping disciplines in User Experience." >}}
@@ -19,7 +19,7 @@ To improve your digital systems with user experience (UX), you need people. And 
 
 I am indebted to the helpful heroes at **USAJOBS** for scouring through their vast job database to find these examples. And much thanks to our UX interns Stacey Sarris and Joel Virothaisakun for the heavy lifting.
 
-One final thing: this is meant as a starting point to this very wide and varied field. If you have examples to share or comments to improve this resource, [email us](mailto:govux@gsa.gov).
+One final thing: this is meant as a starting point to this very wide and varied field. If you have examples to share or comments to improve this resource, [email us](mailto:digitalgov@gsa.gov).
 
 **1. Cognitive Research / Psychology**
 

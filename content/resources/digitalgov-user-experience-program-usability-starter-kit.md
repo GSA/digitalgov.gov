@@ -10,7 +10,7 @@ authors:
   - andreanocesigritz
 ---
 
-Here are some tools and templates to help you create better user experiences. If you have resources to add, please [email us](mailto:govux@gsa.gov).
+Here are some tools and templates to help you create better user experiences. If you have resources to add, please [email us](mailto:digitalgov@gsa.gov).
 
 1. **Usability and User Experience Presentations**:
 

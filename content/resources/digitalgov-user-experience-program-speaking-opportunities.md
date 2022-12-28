@@ -28,7 +28,7 @@ Potential audiences include:
 - Developers
 - User Experience staff
 
-<a href="mailto:govux@gsa.gov">Email the DigitalGov User Experience Program team</a> to invite them to speak at your agency.
+<a href="mailto:digitalgov@gsa.gov">Email the DigitalGov User Experience Program team</a> to invite them to speak at your agency.
 
 ## Our Recorded Webinars
 

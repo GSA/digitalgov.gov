@@ -54,4 +54,4 @@ topics:
 
 {{< legacy-img src="2014/04/600-x-350-FDA-version-3-of-Two-Wart-Removal-Warning-Flammable-graphics.jpg" alt="Two pictures of a wart removal medicine with annotations about the improved design." >}}
 
-Want to see your Federal Usability Case Study featured here? Just [email us](mailto:govux@gsa.gov "Click here to email govux@gsa.gov").
+Want to see your Federal Usability Case Study featured here? Just [email us](mailto:digitalgov@gsa.gov "Click here to email digitalgov@gsa.gov").
