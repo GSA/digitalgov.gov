@@ -43,6 +43,6 @@ _Brian Fox is the Systems Development Branch Chief at the U.S. Geological Survey
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
 
-Check out some of DigitalGov’s articles on [the agile methodology](https://digital.gov/tag/agile/) and [innovation](https://digital.gov/tag/innovation/). For some on-the-job training with [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU), register for upcoming [events and webinars](https://digital.gov/events/) (review those you may have missed on [our YouTube Channel](https://www.youtube.com/digitalgov)).
+Check out some of DigitalGov’s articles on [the agile methodology](https://digital.gov/tag/agile/) and [innovation](https://digital.gov/tag/innovation/). For some on-the-job training with [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU), register for upcoming [events and webinars](https://digital.gov/events/) (review those you may have missed on [our YouTube Channel](https://www.youtube.com/@DigitalGov)).
 
 Have a **.gov** or **.mil** email address? Join our [Communities of Practice](https://www.digitalgov.gov/communities/) to connect with others at federal agencies working on innovative projects in emerging technologies (artificial intelligence, blockchain, virtual/augmented reality), agile/lean methodologies, mobile, user experience (UX), customer experience, open data, and much more.

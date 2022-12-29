@@ -92,6 +92,6 @@ The Federal Leadership and Professional Development Community hosted an engaging
 
 December brought a lively discussion on the <a href="https://digital.gov/event/2021/12/08/results-of-the-2021-federal-report-card/">2021 Federal Plain Language Report Card</a>, and a live demo on <a href="https://digital.gov/event/2021/12/16/uswds-monthly-call-december-2021/">USWDS template creation and rapid prototyping</a>.</blockquote>
 
-In addition to joining our [communities of practice](https://digital.gov/communities/) and signing up for our twice-monthly [newsletter](https://digital.gov/about/subscribe/), stay informed by following us on [Twitter](https://twitter.com/digital_gov), [Facebook](https://www.facebook.com/digitalgov), and [YouTube](https://www.youtube.com/digitalgov).
+In addition to joining our [communities of practice](https://digital.gov/communities/) and signing up for our twice-monthly [newsletter](https://digital.gov/about/subscribe/), stay informed by following us on [Twitter](https://twitter.com/digital_gov), [Facebook](https://www.facebook.com/digitalgov), and [YouTube](https://www.youtube.com/@DigitalGov).
 
 We look forward to connecting with you!
