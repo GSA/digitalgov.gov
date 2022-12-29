@@ -32,7 +32,7 @@ Today I am highlighting a few of the Federal resources related to enhancing soci
 
 **Toolkit**: The Federal Social Media Community of Practice (COP) brings together more than 500 Federal social media managers in a community dedicated to identifying and solving shared challenges. Working together, COP members from the Social Media Accessibility Working Group, the U.S. Department of Labor’s [Office of Disability Employment Policy](http://www.dol.gov/odep/), and the General Services Administration’s [Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729) have produced a toolkit on [Improving the Accessibility of Social Media]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}}). The kit includes general accessibility tips, platform-specific tips, and additional resources.
 
-**Training**: Digital Government University offers a series of [on-demand video trainings](https://www.youtube.com/digitalgov) that address accessibility and social media challenges.
+**Training**: Digital Government University offers a series of [on-demand video trainings](https://www.youtube.com/@DigitalGov) that address accessibility and social media challenges.
 
 **Blog**: The [DigitalGov Blog posts about accessibility issues]({{< ref "/topics/accessibility" >}}). Check out this post on [making accessible videos]({{< ref "2014-06-30-508-accessible-videos-why-and-how-to-make-them.md" >}}). Or learn about the [ADA and Section 508]({{< ref "2014-08-07-celebrate-the-americans-with-disabilities-act-and-section-508.md" >}}) of the Rehabilitation Act. (You can also check out the resources available on [Section508.gov](http://www.section508.gov/) and [ADA.gov](http://www.ada.gov/index.html)).
 

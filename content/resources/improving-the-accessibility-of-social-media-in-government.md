@@ -180,7 +180,7 @@ Digital Government University (DGU) offers a series of trainings based on these 
 - [Social Media: You Still Need Plain Language](https://www.youtube.com/watch?v=W756zIegQBs&index=23&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Qhttp://www.howto.gov/training/classes/social-media-and-plain-language) (January 2013)
 - [Making Social Media More Accessible: What You Can Do Today](https://www.youtube.com/watch?v=aMlFWIu6rpY&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Q&index=25) (December 2012)
 - [Role-Based Accessibility in Government: Everyone&#8217;s Responsibility](https://www.youtube.com/watch?v=2wRl-JM3I-M) (November 2012)
-- [DigitialGov YouTube Channel](https://www.youtube.com/digitalgov)
+- [DigitialGov YouTube Channel](https://www.youtube.com/@DigitalGov)
 - [DigitalGov University On-Demand Training]({{< ref "/about/digitalgov-university.md" >}})
 
 ### Other Web resources
