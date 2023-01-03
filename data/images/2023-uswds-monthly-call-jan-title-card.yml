@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/2023-uswds-monthly-call-jan-title-card.png
+
+# Image shortcode: {{< img src="2023-uswds-monthly-call-jan-title-card" >}}
+
+date     : 2023-01-03 15:31:56 -0400
+uid      : 2023-uswds-monthly-call-jan-title-card
+width    : 1200
+height   : 628
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Title card image of USWDS logo, a multi-colored pentagon shape consisting of five triangles, centered on a black background. In white text, the first line says, USWDS Monthly Call. Below that in yellow text, the second line has the date of the event, January 19, 2023." 
