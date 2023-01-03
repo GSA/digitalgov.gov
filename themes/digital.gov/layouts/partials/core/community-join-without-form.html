@@ -1,6 +1,6 @@
 {{/* Listserv Platforms without form sign-up option */}}
 
-<p>Email <strong>{{ .e.subscribe_email }}</strong> to join. Include {{ if .e.subscribe_email_subject }} <strong>{{ .e.subscribe_email_subject }}</strong>{{ else }} nothing {{ end }} in the subject line{{- if .e.subscribe_email_body }} and <strong>{{ .e.subscribe_email_body }}</strong> in the body{{- end -}}.</p>
+<p>Email <strong>{{ .e.subscribe_email }}</strong> to join. {{ if .e.subscribe_email_subject }} Include <strong>{{ .e.subscribe_email_subject }}</strong> in the subject line{{ else }} Leave the subject line empty{{ end }}{{- if .e.subscribe_email_body }} and <strong>{{ .e.subscribe_email_body }}</strong> in the body{{- end -}}.</p>
 
 <div class="join-button">
   <a class="join" href="mailto:{{- .e.subscribe_email -}}
