@@ -21,6 +21,7 @@ captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2023-01-25 13:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: 2023-jan-irs-event-title-card
 ---
 Join user experience gurus from the Internal Revenue Service as they share how they collect user feedback and use web analytics to improve Free File, one of the IRS’s most widely used applications.
 
@@ -32,23 +33,20 @@ In this session, you’ll learn how to:
 * Turn actionable data into insights and make enhancements to your website and digital services
 * Ensure your team has the key skills in place to do this type of work
 
-This event is best suited for: All levels of experience, from beginners to experts
+**This event is best suited for:** All levels of experience, from beginners to experts
 
 ## Speakers
 
-* **Samuel Chapman** — Digital User Experience Analyst, Internal Revenue Service
-* **Kira Prin** — Product Development Specialist, Internal Revenue Service
+* **Samuel Chapman —** Digital User Experience Analyst, Internal Revenue Service
+* **Kira Prin —** Product Development Specialist, Internal Revenue Service
 
 ## Related Resources
 
-**How to Redesign a 19-Year-old Legacy Application Using Agile and User Experience Methodologies**
-
+* How to Redesign a 19-Year-old Legacy Application Using Agile and User Experience Methodologies
 
 {{< asset-static file="redesign-old-legacy-application-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 7.4 MB, 39 pages)" >}}
 
-
 {{< youtube cl6sVFjzZG4 >}}
-
 
 - - -
 
