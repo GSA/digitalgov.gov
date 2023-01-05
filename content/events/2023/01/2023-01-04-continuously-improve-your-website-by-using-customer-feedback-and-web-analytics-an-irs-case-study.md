@@ -43,9 +43,12 @@ This event is best suited for: All levels of experience, from beginners to exper
 
 **How to Redesign a 19-Year-old Legacy Application Using Agile and User Experience Methodologies**
 
+
 {{< asset-static file="redesign-old-legacy-application-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 7.4 MB, 39 pages)" >}}
 
+
 {{< youtube cl6sVFjzZG4 >}}
+
 
 - - -
 
