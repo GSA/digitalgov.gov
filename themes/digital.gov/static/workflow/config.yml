@@ -789,7 +789,7 @@ collections:
 
   # SHORT LINK =======================
   - <<: *defaults
-    name: "short link"
+    name: "shortlink"
     label: "Short Link"
     label_singular: "Short Link Post"
     description: "A short link post is a shorter blog post that links to external orgs."
