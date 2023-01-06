@@ -39,6 +39,7 @@ $communities-of-practice: (
   a.usa-button {
     @include u-display('flex');
     @include u-flex('align-center');
+    @include u-flex('justify-center');
     @include u-minh(8);
     @include u-margin-right(0);
   }

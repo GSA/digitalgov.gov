@@ -73,13 +73,14 @@ li .join-community-form{
 
 // Note — color settings
 .join-community-form{
-	@include u-bg('blue-warm-50v');
-	@include u-text('gray-1');
+	// @include u-bg('blue-warm-50v');
+	@include u-bg('blue-5');
+	@include u-text('gray-90');
 	@include u-border-left('05', 'solid', 'blue-20');
 	a{
-		@include u-text('blue-70');
+		@include u-text('gray-warm-1');
 		&:hover{
-			@include u-text('blue-80');
+			@include u-text('gray-warm-1');
 		}
 	}
 	.highlight{
@@ -98,6 +99,7 @@ li .join-community-form{
 
     .join-button {
         @include u-padding-top(1);
+		
     }
 
     .join{
@@ -105,7 +107,7 @@ li .join-community-form{
         @include u-padding-y('105');
         @include u-padding-x(3);
         @include u-text('left');
-        @include u-text('blue-warm-50v');
+        @include u-text('gray-warm-1');
         @include u-text('no-underline');
         @include u-font('sans', 'md');
         @include u-bg('gray-1');

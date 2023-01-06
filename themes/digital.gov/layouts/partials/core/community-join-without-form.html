@@ -3,7 +3,7 @@
 <p>Email <strong>{{ .e.subscribe_email }}</strong> to join. {{ if .e.subscribe_email_subject }} Include <strong>{{ .e.subscribe_email_subject }}</strong> in the subject line{{ else }} Leave the subject line empty{{ end }}{{- if .e.subscribe_email_body }} and <strong>{{ .e.subscribe_email_body }}</strong> in the body{{- end -}}.</p>
 
 <div class="join-button">
-  <a class="join" href="mailto:{{- .e.subscribe_email -}}
+  <a class="usa-button" href="mailto:{{- .e.subscribe_email -}}
   {{- if .e.subscribe_email_subject -}}
     ?subject={{- .e.subscribe_email_subject -}}
     {{- if .e.subscribe_email_body -}}
@@ -14,9 +14,6 @@
       ?body={{- .e.subscribe_email_body -}}
     {{- end -}}
   {{- end -}}" class="join type-{{- .e.platform -}}">
-    <!-- <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-      <use xlink:href="{{ "uswds/img/sprite.svg#mail" | relURL }}"></use>
-    </svg> -->
     Join {{ if .e.subscribe_email_subject }}{{ .e.members }}{{ end }} {{ .e.blurb }}
   </a>
 </div>

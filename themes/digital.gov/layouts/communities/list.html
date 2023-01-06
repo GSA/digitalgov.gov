@@ -48,7 +48,9 @@
                   <p>{{- $e.Params.summary | markdownify -}}</p>
                 </div>
                 <div class="usa-card__footer">
-		              <a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Params.dg_shortname -}}">Connect with {{ $e.Params.dg_shortname }}</a>
+		              <a class="usa-button" href="{{- $e.Permalink -}}" title="{{- $e.Params.dg_shortname -}}">
+                    Connect with <br>{{ $e.Params.dg_shortname }}
+                  </a>
                 </div>
               </div>
             </li>
