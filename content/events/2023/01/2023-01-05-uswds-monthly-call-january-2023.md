@@ -39,5 +39,5 @@ In this session, we’ll answer questions like:
 * **Dan Williams -** Product Lead, USWDS
 * **James Mejia -** Engineer, USWDS Contractor
 * **Amy Leadem -** Front-End Developer, USWDS Contractor
-* **Bonnie Cameron -** Title, USWDS Contractor
-* **Jacline Contrino -** Title, USWDS Contractor
+* **Bonnie Cameron -**  Content Strategist, USWDS Contractor
+* **Jacline Contrino -** User Experience Researcher, USWDS Contractor
