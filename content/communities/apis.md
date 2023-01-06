@@ -18,6 +18,8 @@ topics:
 authors:
   - gray-brooks
 
+redirectto: https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
