@@ -17,6 +17,8 @@ authors:
   - ken-kato
   - angeli-hawkins
 
+redirectto: https://github.com/18F/DevOps-Community-of-Practice/wiki/DevOps-Community-of-Practice
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
