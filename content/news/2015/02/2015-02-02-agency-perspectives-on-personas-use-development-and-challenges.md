@@ -25,7 +25,7 @@ weight: 1
 ---
 Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs.
 
-Let's delve a bit deeper into \[personas]({{< ref "2015-01-09-personas-101.md" >}}) and review two examples from the federal community. The Department of Human and Health Services (HHS) and the United States Department of Agriculture (USDA).
+Let's delve a bit deeper into [personas]({{< ref "2015-01-09-personas-101.md" >}}) and review two examples from the federal community. The Department of Human and Health Services (HHS) and the United States Department of Agriculture (USDA).
 
 ## United States Department of Agriculture (USDA)
 
