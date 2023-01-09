@@ -11,6 +11,7 @@ summary: "This community is no longer active."
 # set date archived. page will not publish if after date
 layout: archived
 archive_date: 2022-12-16
+redirectto: /communities
 
 # see all topics at https://digital.gov/topics
 topics:

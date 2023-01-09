@@ -9,6 +9,7 @@ deck: "Working to implement solutions for making mobile technologies better in g
 summary: "This community is no longer active."
 layout: archived
 archive_date: 2021-12-10
+redirectto: /communities
 
 # see all topics at https://digital.gov/topics
 topics:

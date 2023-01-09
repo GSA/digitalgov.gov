@@ -10,6 +10,7 @@ summary: "This community is no longer active."
 # set date archived. page will not publish if after date
 layout: archived
 archive_date: 2021-12-10
+redirectto: /communities
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -26,7 +27,7 @@ community_list:
     subscribe_email: "BLOCKCHAIN-subscribe-request@listserv.gsa.gov"
     terms: "Only federal employees are eligible to join."
     members: 695
- 
+
   - platform: "listserv"
     type: public
     subscribe_email: "BLOCKCHAINPUBLIC-subscribe-request@listserv.gsa.gov"
