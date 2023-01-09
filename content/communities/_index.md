@@ -7,6 +7,8 @@ aliases:
   - /communities/community-solutions/
   - /communities/data-cabinet/
   - /communities/mobile/
+  - /agile-lean-community-of-practice/
+  - /agile-lean/
   - /communities/virtual-augmented-reality/
   - /communities/web-managers-forum/member-spotlight-karen-higa-state-of-hawaii/
   - /communities/web-managers-forum/member-spotlight-scott-horvath-usgs/
