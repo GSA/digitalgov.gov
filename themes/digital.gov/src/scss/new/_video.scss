@@ -73,3 +73,14 @@
 .youtube-player img{
   cursor: pointer;
 }
+
+// Embedded video shortcode:
+// themes/digital.gov/layouts/shortcodes/youtube.html
+.video {
+  @include u-margin-y(2);
+}
+
+// Remove margin-top when video is first item in content
+.content .video:is(:first-child) {
+  margin-top: 0;
+}
