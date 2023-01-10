@@ -68,24 +68,6 @@
           <div class="actions">
             {{/* Register */}}
             <a aria-label="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
-            <span class="addtocalendar">
-              <a class="atcb-link" title="Add to calendar">
-                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                  <use xlink:href="{{ "uswds/img/sprite.svg#event" | relURL }}"></use>
-                </svg> Add to Cal
-              </a>
-              <var class="atc_event">
-                <var class="atc_date_start">{{- $event_startDate -}}</var>
-                <var class="atc_date_end">{{- $event_endDate -}}</var>
-                <var class="atc_timezone">America/New_York</var>
-                <var class="atc_title">{{- $event_title -}}</var>
-                <var class="atc_description">{{- htmlUnescape $event_description | safeHTML -}}</var>
-                <var class="atc_location">{{- $event_location -}}</var>
-                <var class="atc_organizer">Digital.gov</var>
-                <var class="atc_organizer_email">digitalgov@gsa.gov</var>
-              </var>
-            </span>
-
           </div>
         </div>
       </div>
@@ -170,24 +152,6 @@
               <div class="actions actions-stacked">
                 {{/* Register */}}
                 <a aria-label="Register for {{- .Params.title -}}" class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
-
-                <span class="addtocalendar">
-                  <a class="atcb-link" title="Add to calendar">
-                    <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                      <use xlink:href="{{ "uswds/img/sprite.svg#event" | relURL }}"></use>
-                    </svg> Add to Cal
-                  </a>
-                  <var class="atc_event">
-                    <var class="atc_date_start">{{- $event_startDate -}}</var>
-                    <var class="atc_date_end">{{- $event_endDate -}}</var>
-                    <var class="atc_timezone">America/New_York</var>
-                    <var class="atc_title">{{- $event_title -}}</var>
-                    <var class="atc_description">{{- htmlUnescape $event_description | safeHTML -}}</var>
-                    <var class="atc_location">{{- $event_location -}}</var>
-                    <var class="atc_organizer">Digital.gov</var>
-                    <var class="atc_organizer_email">digitalgov@gsa.gov</var>
-                  </var>
-                </span>
 
               </div>
               {{- end -}}

@@ -180,12 +180,6 @@
     <!-- {{ getenv "BRANCH" }} | {{ $.Scratch.Get "branch" }} -->
   </script>
 
-  {{/* Add to Calendar CSS */}}
-  {{- if eq .Section "events" -}}
-  {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
-  <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
-  {{- end -}}
-
   <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0007/9651.js" async="async" ></script>
 
 </head>
