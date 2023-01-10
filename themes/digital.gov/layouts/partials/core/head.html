@@ -123,16 +123,20 @@
   {{ end }}
 
 
-  {{ getenv "BRANCH" }}
-  {{ getenv "SITE_PREFIX" }}
-  {{- $.Scratch.Get "env" -}}
-  {{- $.Scratch.Get "branch" -}}
 
   {{- if $.Params.redirectto -}}
+    {{- $.Scratch.Set "redirectUrl" $.Params.redirectto -}}
+
+  {% if hasPrefix $url "/" %}
+    {{- $.Scratch.Set "redirectUrl" ($.Params.redirectto | relURL) -}}
+  {% else %}
+    {{- $.Scratch.Set "redirectUrl" $.Params.redirectto -}}
+  {% endif %}
+
   {{- "<!-- Redirect =============== -->" | safeHTML -}}
-  <meta http-equiv="refresh" content="0; url={{- $.Params.redirectto -}}">
+  <meta http-equiv="refresh" content='0; url={{- $.Scratch.Get "redirectUrl" -}}'>
   <script type="text/javascript">
-    window.location.href = "{{- $.Params.redirectto -}}"
+    window.location.href = '{{- $.Scratch.Get "redirectUrl" -}}'
   </script>
   {{- end -}}
 
