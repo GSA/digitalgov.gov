@@ -127,7 +127,7 @@
   {{- if $.Params.redirectto -}}
     {{- $.Scratch.Set "redirectUrl" $.Params.redirectto -}}
 
-  {% if hasPrefix $url "/" %}
+  {% if hasPrefix $.Params.redirectto "/" %}
     {{- $.Scratch.Set "redirectUrl" ($.Params.redirectto | relURL) -}}
   {% else %}
     {{- $.Scratch.Set "redirectUrl" $.Params.redirectto -}}
