@@ -66,6 +66,9 @@ jobs:
       - run:
           name: Image Process
           command: gulp img
+      - run:
+          name: File Process
+          command: gulp file      
       - add_ssh_keys:
           fingerprints:
             - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
