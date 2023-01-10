@@ -10,7 +10,7 @@ const { series, src, dest } = require("gulp"),
 
 function uploadStaticFile() {
   console.log("starting static file upload");
-  return src("content/files/_working/to-process/*")
+  return src("content/images/_working/to-process/*")
     .pipe(
       s3(
         {
@@ -24,11 +24,11 @@ function uploadStaticFile() {
       )
     )
     .pipe(vinylPaths(del))
-    .pipe(dest("content/files/_working/uploaded/"));
+    .pipe(dest("content/images/_working/uploaded/"));
 }
 
 function cleanup() {
-  return del(["content/files/_working/**", "content/files/_inbox/*",]);
+  return del(["content/images/_working/**"]);
 }
 
 exports.do = series(

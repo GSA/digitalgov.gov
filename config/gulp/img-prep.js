@@ -4,41 +4,31 @@ const tap = require("gulp-tap");
 const sizeOf = require("image-size");
 const fs = require("fs");
 const path = require("path");
-const fileTidy = require("./utils.js");
 
-// exports.do = series(fileTidy, cleanInbox, writeDataFile, mkdir);
-
-const imgPaths = {
-  working: "./content/images/_inbox/",
-  orig: "./content/images/_working/originals",
-  toProcess: "./content/images/_working/to-process",
-}
-
-const extAllowed = [".jpg", ".png", ".jpeg"];
-
-function fileStaticTidy(done) {
+function fileTidy(done) {
   const workingDirectory = "./content/images/_inbox/";
   const origDirectory = "./content/images/_working/originals";
   const toProcessDirectory = "./content/images/_working/to-process";
-  const extAllowed = [".pdf", ".doc", ".docx", ".ppt", ".pptm", ".pptx", ".xls", ".xlsx"];
+  const extAllowed = [".jpg", ".png", ".jpeg"];
   var newfileName = "";
 
   fs.readdir(workingDirectory, (err, files) => {
     //process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
+      //if file includes the allowed extensions(.jpg,.png,.jpeh), process the file
       if (extAllowed.includes(path.extname(file))) {
         //clean up the filename before processing
-        //newfileName = cleanFileName(file);
+        newfileName = cleanFileName(file);
         //create working directories if they do not exist
         createDir(origDirectory, 3);
         createDir(toProcessDirectory, 3);
         fs.renameSync(
           workingDirectory + "/" + file,
-          origDirectory + "/" + file
+          origDirectory + "/" + newfileName
         );
         fs.copyFileSync(
-          origDirectory + "/" + file,
-          toProcessDirectory + "/" + file
+          origDirectory + "/" + newfileName,
+          toProcessDirectory + "/" + newfileName
         );
       }
     }
@@ -165,37 +155,6 @@ function writeDataFile() {
   );
 }
 
-function writeDataStaticFile() {
-  return (
-    src("content/images/_working/to-process/*.{pdf,doc,docx,ppt,pptx,pptm,xls,xlsx}")
-      // write the .yml file for this image
-      .pipe(
-        tap(function foo(file) {
-          var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
-          var format = file.path.split(".").pop();
-          var file_data = [
-            "# This image is available at:",
-            "# https://s3.amazonaws.com/digitalgov/static/" +
-              uid +
-              "." +
-              format +
-              "\n",
-            '# File shortcode: {{< asset-static file="' + uid + format + '" label="View the slides (PDF, 5.95 MB, 52 pages)" >}}\n',
-            "date     : " + get_curr_date(),
-            "uid      : " + uid,
-            "format   : " + format,
-            'credit   : "" ',
-            'caption  : "" ',
-            'alt      : "" ',
-          ].join("\n");
-          fs.writeFile("data/images/" + uid + ".yml", file_data, function () {
-            console.log("static file written");
-          });
-        })
-      )
-  );
-}
-
 function mkdir() {
   return (
     src("content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}")
@@ -211,30 +170,9 @@ function mkdir() {
   );
 }
 
-function mkdirStaticFile() {
-  return (
-    src("content/images/_working/to-process/*.{pdf,doc,docx,ppt,pptx,pptm,xls,xlsx}")
-      // Create the processed folder
-      .pipe(
-        tap(function (file) {
-          var dir = "content/images/_working/processed";
-          if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir), console.log("folder written");
-          }
-        })
-      )
-  );
-}
-
-
-
-
 exports.do = series(
-  fileTidy(imgPaths, extAllowed),
-  // fileStaticTidy,
+  fileTidy,
   cleanInbox,
-  // writeDataFile,
-  writeDataStaticFile,
-  // mkdir,
-  mkdirStaticFile
+  writeDataFile,
+  mkdir
 );
