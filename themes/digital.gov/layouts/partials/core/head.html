@@ -134,10 +134,11 @@
   {% endif %}
 
   {{- "<!-- Redirect =============== -->" | safeHTML -}}
-  <meta http-equiv="refresh" content='0; url={{- $.Scratch.Get "redirectUrl" -}}'>
+  {{ $.Scratch.Get "redirectUrl" }}
+  {# <meta http-equiv="refresh" content="0; url={{- $.Params.redirectto -}}">
   <script type="text/javascript">
-    window.location.href = '{{- $.Scratch.Get "redirectUrl" -}}'
-  </script>
+    window.location.href = "{{- $.Params.redirectto -}}"
+  </script> #}
   {{- end -}}
 
   {{- if $.Params.source_url -}}
