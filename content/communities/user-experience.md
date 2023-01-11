@@ -35,7 +35,7 @@ community_list:
     subscribe_email_subject: "Join the User Experience Community"
     terms: "Government employees and contractors with an official .gov/.mil email are eligible to join."
     members: 1,714
-    blurb: "User Experience members"
+    blurb: "User Experience community members"
 
 # see all authors at https://digital.gov/authors
 authors:

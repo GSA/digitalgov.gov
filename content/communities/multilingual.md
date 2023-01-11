@@ -41,7 +41,7 @@ community_list:
     subscribe_email_subject: "Join the Multilingual Community"
     terms: "Government employees and contractors with an official .gov/.mil email are eligible to join."
     members: 504
-    blurb: "Multilingual members"
+    blurb: "Multilingual community members"
 
 primary_image: "white-bg-digital-gov-card-community"
 

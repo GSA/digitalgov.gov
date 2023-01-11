@@ -48,7 +48,7 @@ community_list:
     subscribe_email_subject: "Join the Web Managers Community"
     terms: "Government employees with an official .gov/.mil email are eligible to join."
     members: 1,791
-    blurb: "Web Manager members"
+    blurb: "Web Manager community members"
 
 primary_image: "white-bg-digital-gov-card-community"
 

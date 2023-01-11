@@ -45,7 +45,7 @@ community_list:
     subscribe_email_subject: "Join the Plain Language Community"
     terms: "Anyone is eligible to join."
     members: 1,940
-    blurb: "Plain Language members"
+    blurb: "Plain Language community members"
 
 primary_image: "digital-gov-card-community"
 
