@@ -260,6 +260,8 @@ function variants() {
   );
 }
 
+
+// remove function, creates bw that is most likely not used
 function proxy() {
   return src("content/images/_working/originals/*.{png,jpg}")
     .pipe(

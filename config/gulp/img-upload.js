@@ -1,3 +1,5 @@
+const { file } = require('../../gulpfile');
+
 require('dotenv').config();
 const { series, src, dest } = require("gulp"),
   vinylPaths = require("vinyl-paths"),
@@ -8,8 +10,21 @@ const { series, src, dest } = require("gulp"),
   },
   s3 = require("gulp-s3-upload")(s3config);
 
+
+  // function fileType(filetype) {
+  //   const imageRegex = /(png|jpg|jpeg)/;
+  //   const fileRegex = /(pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/;
+  //   if (imageRegex.test(filetype)) return "image";
+  //   if (fileRegex.test(filetype)) return "file";
+  // }
+  // check `content/images/_working/to-process/` for file
+  // check `content/images/_working/processed/` for images
+
 function upload() {
   console.log("starting upload");
+
+  //check if image or file?
+
   return src("content/images/_working/processed/**/*")
     .pipe(
       s3(

@@ -139,9 +139,6 @@ function writeDataStaticFile() {
             '# File shortcode: {{< asset-static file="' + uid + '.' + format + '" label="View the slides (PDF, 5.95 MB, 52 pages)" >}}\n',
             "date     : " + get_curr_date(),
             "uid      : " + uid,
-            'credit   : "" ',
-            'caption  : "" ',
-            'alt      : "" ',
           ].join("\n");
           fs.writeFile("data/images/" + uid + ".yml", file_data, function () {
             console.log("static file written");
