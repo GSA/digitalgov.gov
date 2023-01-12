@@ -7,18 +7,8 @@ const img = {
     process: require("./config/gulp/img-process"),
     upload: require("./config/gulp/img-upload"),
   },
-  file = {
-    prep: require("./config/gulp/file-prep"),
-    upload: require("./config/gulp/file-upload")
-  }
   scripts = require("./config/gulp/scripts"),
   styles = require("./config/gulp/styles");
-
-// const imageDir = {
-//   working: "./content/images/_inbox/",
-//   original: "./content/images/_working/originals",
-//   toProcess: "./content/images/_working/to-process"
-// }
 
 function watchImages() {
   return series(img.prep.do, img.process.do, img.upload.do);
@@ -40,7 +30,5 @@ exports.copyUswdsAssets = parallel(styles.copyUswdsImages, styles.copyUswdsJs, s
 exports.buildAssets = parallel(styles.buildSass, scripts.compile);
 exports.buildSass = styles.buildSass;
 exports.img = series(img.prep.do, img.process.do, img.upload.do);
-// exports.img = series(img.prep.do);
-exports.file = series(file.prep.do, file.upload.do);
 exports.watch = gulpWatch;
 exports.default = series(styles.buildSass, gulpWatch);

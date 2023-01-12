@@ -11,29 +11,36 @@ const { series, src, dest } = require("gulp"),
   s3 = require("gulp-s3-upload")(s3config);
 
 
-  // function fileType(filetype) {
-  //   const imageRegex = /(png|jpg|jpeg)/;
-  //   const fileRegex = /(pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/;
-  //   if (imageRegex.test(filetype)) return "image";
-  //   if (fileRegex.test(filetype)) return "file";
-  // }
-  // check `content/images/_working/to-process/` for file
-  // check `content/images/_working/processed/` for images
-
-function upload() {
-  console.log("starting upload");
-
-  //check if image or file?
+function uploadImage() {
+  console.log("starting image upload");
 
   return src("content/images/_working/processed/**/*")
     .pipe(
       s3(
         {
-          Bucket: "digitalgov", //  Required
-          ACL: "public-read", //  Needs to be user-defined
+          Bucket: "digitalgov",
+          ACL: "public-read",
         },
         {
-          // S3 Constructor Options, ie:
+          maxRetries: 5,
+        }
+      )
+    )
+    .pipe(vinylPaths(del))
+    .pipe(dest("content/images/_working/uploaded/"));
+}
+
+function uploadFile() {
+  console.log("starting file upload");
+
+  return src("./content/images/_working/to-process/*")
+    .pipe(
+      s3(
+        {
+          Bucket: "digitalgov/static",
+          ACL: "public-read",
+        },
+        {
           maxRetries: 5,
         }
       )
@@ -53,7 +60,8 @@ function cleanup() {
 }
 
 exports.do = series(
-  upload, 
+  uploadImage,
+  uploadFile, 
   done, 
   cleanup
 );

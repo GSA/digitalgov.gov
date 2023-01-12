@@ -1,4 +1,5 @@
 const { src, dest, parallel } = require("gulp");
+const del = require("del");
 const responsive = require("gulp-responsive");
 
 function variants() {
@@ -260,36 +261,9 @@ function variants() {
   );
 }
 
-
-// remove function, creates bw that is most likely not used
-function proxy() {
-  return src("content/images/_working/originals/*.{png,jpg}")
-    .pipe(
-      responsive(
-        {
-          "*": {
-            rename: {
-              suffix: "",
-              extname: ".jpg",
-            },
-            grayscale: true,
-            quality: 1,
-            flatten: true,
-            blur: true,
-          },
-        },
-        {
-          // Global configuration for all images
-          progressive: true,
-          withMetadata: false,
-          errorOnUnusedConfig: false,
-          skipOnEnlargement: true,
-          errorOnEnlargement: false,
-          silent: true,
-        }
-      )
-    )
-    .pipe(dest("static/img/proxy/"));
+function removeProcessedImage() {
+  console.log("Removing processed images");
+  return del(["content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}"]);
 }
 
-exports.do = parallel(variants, proxy);
+exports.do = parallel(variants, removeProcessedImage);

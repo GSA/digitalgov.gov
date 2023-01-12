@@ -4,8 +4,6 @@ const tap = require("gulp-tap");
 const sizeOf = require("image-size");
 const fs = require("fs");
 const path = require("path");
-const utilities = require("./utils");
-
 
 const filepaths = {
   working: "./content/images/_inbox/",
@@ -19,28 +17,15 @@ const allExtensions = [...imageExtensions, ...fileExtensions];
 
 const directoryExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG,pdf,PDF,doc,DOC,docx,DOCX,ppt,PPT,pptm,PPTM,pptx,PPTX,xls,XLS,xlsx,XLSX}`;
 
-function fileType(filetype) {
-  const imageRegex = /(png|jpg|jpeg)/;
-  const fileRegex = /(pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/;
-  if (imageRegex.test(filetype)) return "image";
-  if (fileRegex.test(filetype)) return "file";
-}
-
 function fileTidy(done) {
   var newfileName = "";
   paths = filepaths;
-  let type;
 
   fs.readdir(paths.working, (err, files) => {
-    //process.stdout.write(files.length.toString() + "\n");
+    // process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
-      //if file includes the allowed extensions(.jpg,.png,.jpeg), process the file
-      // is image or file? if (fileType === "image") {} else {}
-      type = fileType(path.extname(file));
       if (allExtensions.includes(path.extname(file))) {
-        //clean up the filename before processing
         newfileName = cleanFileName(file);
-        //create working directories if they do not exist
         createDir(paths.original, 3);
         createDir(paths.toProcess, 3);
         fs.renameSync(
@@ -92,6 +77,14 @@ function createDir(directoryPath, foldersDeep) {
       }
     }
   }
+}
+
+// check 
+function fileType(filetype) {
+  const imageRegex = /(png|jpg|jpeg)/;
+  const fileRegex = /(pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/;
+  if (imageRegex.test(filetype)) return "image";
+  if (fileRegex.test(filetype)) return "file";
 }
 
 // Clean up the filename
@@ -151,7 +144,7 @@ function writeDataFile() {
           var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
           var format = file.path.split(".").pop();
           var dimensions = sizeOf(file.path);
-          var data = metadata(format, uid, dimensions);
+          var data = metadata(file, format, uid, dimensions);
           // var data = [
           //   "# This image is available at:",
           //   "# https://s3.amazonaws.com/digitalgov/" +
@@ -177,31 +170,39 @@ function writeDataFile() {
   );
 }
 
-function metadata(file) {
-  console.log("metadata: ", file);
+function metadata(file, format, uid, dimensions) {
   let type = fileType(file);
 
   if (type === "image") {
-    return `# This image is available at: `;
-  } else if (type === "file") {
-    return `# This file is available at:`;
-  }
-
-}
-
-const imageData = `
+    return `
     # This image is available at:
     # https://s3.amazonaws.com/digitalgov/${uid}.${format}
     # Image shortcode: {{< img src=${uid} >}}'
-    date     :  ${get_curr_date()},
-    uid      :  ${uid},
+    date     :  ${get_curr_date()}
+    uid      :  ${uid}
     width    :  ${dimensions.width}
     height   :  ${dimensions.height}
     format   :  ${format}
     credit   :  
     caption  :  
     alt      :  
-`
+    `;
+  } else if (type === "file") {
+    return `    # This image is available at:
+    # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
+    # Image shortcode: {{< asset-static file=${uid}.${format} >}}
+    date     :  ${get_curr_date()}
+    uid      :  ${uid}
+    width    :  ${dimensions.width}
+    height   :  ${dimensions.height}
+    format   :  ${format}
+    credit   :  
+    caption  :  
+    alt      :  
+    `;
+  }
+
+}
 
 function mkdir() {
   return (
