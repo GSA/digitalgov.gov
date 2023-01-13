@@ -1,6 +1,6 @@
-const { file } = require('../../gulpfile');
+const { file } = require("../../gulpfile");
 
-require('dotenv').config();
+require("dotenv").config();
 const { series, src, dest } = require("gulp"),
   vinylPaths = require("vinyl-paths"),
   del = require("del"),
@@ -9,7 +9,6 @@ const { series, src, dest } = require("gulp"),
     secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
   },
   s3 = require("gulp-s3-upload")(s3config);
-
 
 function uploadImage() {
   console.log("starting image upload");
@@ -59,9 +58,4 @@ function cleanup() {
   return del(["content/images/_working/**"]);
 }
 
-exports.do = series(
-  uploadImage,
-  uploadFile, 
-  done, 
-  cleanup
-);
+exports.do = series(uploadImage, uploadFile, done, cleanup);

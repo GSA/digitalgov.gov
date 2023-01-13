@@ -9,10 +9,19 @@ const filepaths = {
   working: "./content/images/_inbox/",
   original: "./content/images/_working/originals",
   toProcess: "./content/images/_working/to-process",
-}
+};
 
 const imageExtensions = [".jpg", ".png", ".jpeg"];
-const fileExtensions = [".pdf", ".doc", ".docx", ".ppt", ".pptm", ".pptx", ".xls", ".xlsx"];
+const fileExtensions = [
+  ".pdf",
+  ".doc",
+  ".docx",
+  ".ppt",
+  ".pptm",
+  ".pptx",
+  ".xls",
+  ".xlsx",
+];
 const allExtensions = [...imageExtensions, ...fileExtensions];
 const directoryExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG,pdf,PDF,doc,DOC,docx,DOCX,ppt,PPT,pptm,PPTM,pptx,PPTX,xls,XLS,xlsx,XLSX}`;
 
@@ -73,7 +82,7 @@ function createDir(directoryPath, foldersDeep) {
         else {
           fs.mkdirSync(dp, (err) => {
             "Error creating subdirectory [" + subdir[i] + "]\n",
-            "Error message: " + err.message;
+              "Error message: " + err.message;
           });
         }
       }
@@ -132,25 +141,24 @@ function get_curr_date() {
 
 // write the yml file
 function writeDataFile() {
-  return (
-    src(`content/images/_working/to-process/*.${directoryExtensions}`)
-      .pipe(
-        tap(function foo(file) {
-          console.log("filepath:137", file.path);
-          var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
-          var format = file.path.split(".").pop();
-          var type = fileType(format);
-          if (type === "image") {
-            var dimensions = sizeOf(file.path);
-            var data = imageData(format, uid, dimensions);
-          } else {
-            var data = fileData(format, uid);
-          }
-          fs.writeFile("data/images/" + uid + ".yml", data, function () {
-            console.log("file is written");
-          });
-        })
-      )
+  return src(
+    `content/images/_working/to-process/*.${directoryExtensions}`
+  ).pipe(
+    tap(function foo(file) {
+      console.log("filepath:137", file.path);
+      var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
+      var format = file.path.split(".").pop();
+      var type = fileType(format);
+      if (type === "image") {
+        var dimensions = sizeOf(file.path);
+        var data = imageData(format, uid, dimensions);
+      } else {
+        var data = fileData(format, uid);
+      }
+      fs.writeFile("data/images/" + uid + ".yml", data, function () {
+        console.log("file is written");
+      });
+    })
   );
 }
 
@@ -203,9 +211,4 @@ function mkdir() {
   );
 }
 
-exports.do = series(
-  fileTidy,
-  cleanInbox,
-  writeDataFile,
-  mkdir
-);
+exports.do = series(fileTidy, cleanInbox, writeDataFile, mkdir);

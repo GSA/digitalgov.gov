@@ -1,7 +1,7 @@
 const { src, dest, parallel } = require("gulp");
 const del = require("del");
 const responsive = require("gulp-responsive");
-const imageExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG}`'
+const imageExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG}`;
 
 function variants() {
   return (
