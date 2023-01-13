@@ -14,8 +14,10 @@ const filepaths = {
 const imageExtensions = [".jpg", ".png", ".jpeg"];
 const fileExtensions = [".pdf", ".doc", ".docx", ".ppt", ".pptm", ".pptx", ".xls", ".xlsx"];
 const allExtensions = [...imageExtensions, ...fileExtensions];
-
 const directoryExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG,pdf,PDF,doc,DOC,docx,DOCX,ppt,PPT,pptm,PPTM,pptx,PPTX,xls,XLS,xlsx,XLSX}`;
+
+const imageRegex = /(png|jpg|jpeg)/;
+const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
 
 function fileTidy(done) {
   var newfileName = "";
@@ -71,20 +73,12 @@ function createDir(directoryPath, foldersDeep) {
         else {
           fs.mkdirSync(dp, (err) => {
             "Error creating subdirectory [" + subdir[i] + "]\n",
-              "Error message: " + err.message;
+            "Error message: " + err.message;
           });
         }
       }
     }
   }
-}
-
-// check 
-function fileType(filetype) {
-  const imageRegex = /(png|jpg|jpeg)/;
-  const fileRegex = /(pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/;
-  if (imageRegex.test(filetype)) return "image";
-  if (fileRegex.test(filetype)) return "file";
 }
 
 // Clean up the filename
@@ -93,7 +87,7 @@ function cleanFileName(origfilename) {
     .toLowerCase()
     .replace(/[ &$_#!?.]/g, "-")
     .replace(/-+/g, "-") // multiple dashes to a single dash
-    .replace(/-(png|jpg|jpeg)/g, ".$1") // remove trailing dashes
+    .replace(/-(png|jpg|jpeg|pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/g, ".$1") // remove trailing dashes
     .replace(/\.jpeg$/g, ".jpg") // .jpeg to .jpg
     .replace(/-\d{2,4}x\d{2,4}(?=\.jpg)/g, "") // strip trailing dimensions
     .replace(/^\d{2,4}-*x-*\d{2,4}-*/g, "") // strip leading dimensions
@@ -102,6 +96,7 @@ function cleanFileName(origfilename) {
     .toLowerCase();
 }
 
+// removes files in content/images/_inbox directories
 function cleanInbox() {
   return del([
     "content/images/_inbox/**",
@@ -135,75 +130,64 @@ function get_curr_date() {
   return output;
 }
 
+// write the yml file
 function writeDataFile() {
   return (
     src(`content/images/_working/to-process/*.${directoryExtensions}`)
-      // write the .yml file for this image
       .pipe(
         tap(function foo(file) {
+          console.log("filepath:137", file.path);
           var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
           var format = file.path.split(".").pop();
-          var dimensions = sizeOf(file.path);
-          var data = metadata(file, format, uid, dimensions);
-          // var data = [
-          //   "# This image is available at:",
-          //   "# https://s3.amazonaws.com/digitalgov/" +
-          //     uid +
-          //     "." +
-          //     format +
-          //     "\n",
-          //   '# Image shortcode: {{< img src="' + uid + '" >}}\n',
-          //   "date     : " + get_curr_date(),
-          //   "uid      : " + uid,
-          //   "width    : " + dimensions.width,
-          //   "height   : " + dimensions.height,
-          //   "format   : " + format,
-          //   'credit   : "" ',
-          //   'caption  : "" ',
-          //   'alt      : "" ',
-          // ].join("\n");
+          var type = fileType(format);
+          if (type === "image") {
+            var dimensions = sizeOf(file.path);
+            var data = imageData(format, uid, dimensions);
+          } else {
+            var data = fileData(format, uid);
+          }
           fs.writeFile("data/images/" + uid + ".yml", data, function () {
-            console.log("image file written");
+            console.log("file is written");
           });
         })
       )
   );
 }
 
-function metadata(file, format, uid, dimensions) {
-  let type = fileType(file);
-
-  if (type === "image") {
-    return `
-    # This image is available at:
-    # https://s3.amazonaws.com/digitalgov/${uid}.${format}
-    # Image shortcode: {{< img src=${uid} >}}'
-    date     :  ${get_curr_date()}
-    uid      :  ${uid}
-    width    :  ${dimensions.width}
-    height   :  ${dimensions.height}
-    format   :  ${format}
-    credit   :  
-    caption  :  
-    alt      :  
-    `;
-  } else if (type === "file") {
-    return `    # This image is available at:
-    # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
-    # Image shortcode: {{< asset-static file=${uid}.${format} >}}
-    date     :  ${get_curr_date()}
-    uid      :  ${uid}
-    width    :  ${dimensions.width}
-    height   :  ${dimensions.height}
-    format   :  ${format}
-    credit   :  
-    caption  :  
-    alt      :  
-    `;
-  }
-
+function fileData(format, uid) {
+  return `
+  # This image is available at:
+  # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
+  # Image shortcode: {{< asset-static file="${uid}.${format}" >}}
+  date     :  ${get_curr_date()}
+  uid      :  ${uid}
+  format   :  ${format}
+  `;
 }
 
+function imageData(format, uid, dimensions) {
+  return `
+  # This image is available at:
+  # https://s3.amazonaws.com/digitalgov/${uid}.${format}
+  # Image shortcode: {{< img src=${uid} >}}'
+  date     :  ${get_curr_date()}
+  uid      :  ${uid}
+  width    :  ${dimensions.width}
+  height   :  ${dimensions.height}
+  format   :  ${format}
+  credit   :  
+  caption  :  
+  alt      :
+  `;
+}
+
+// check file type
+function fileType(extension) {
+  if (fileRegex.test(extension)) return "file";
+  if (imageRegex.test(extension)) return "image";
+}
+
+// create directories for processed images
 function mkdir() {
   return (
     src(`content/images/_working/to-process/*.${directoryExtensions}`)

@@ -33,7 +33,7 @@ function uploadImage() {
 function uploadFile() {
   console.log("starting file upload");
 
-  return src("./content/images/_working/to-process/*")
+  return src("content/images/_working/to-process/*")
     .pipe(
       s3(
         {

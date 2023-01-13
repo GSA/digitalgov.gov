@@ -1,10 +1,11 @@
 const { src, dest, parallel } = require("gulp");
 const del = require("del");
 const responsive = require("gulp-responsive");
+const imageExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG}`'
 
 function variants() {
   return (
-    src("content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}")
+    src(`content/images/_working/to-process/*.${imageExtensions}`)
       // Create responsive variants
       .pipe(
         responsive(
@@ -263,7 +264,7 @@ function variants() {
 
 function removeProcessedImage() {
   console.log("Removing processed images");
-  return del(["content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}"]);
+  return del([`content/images/_working/to-process/*.${imageExtensions}`]);
 }
 
 exports.do = parallel(variants, removeProcessedImage);
