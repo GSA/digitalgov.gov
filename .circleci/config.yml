@@ -65,7 +65,7 @@ jobs:
           command: sudo npm install gulp-cli -g
       - run:
           name: Image Process
-          command: gulp img
+          command: gulp upload
       - add_ssh_keys:
           fingerprints:
             - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
