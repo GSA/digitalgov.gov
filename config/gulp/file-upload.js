@@ -13,7 +13,7 @@ const { series, src, dest } = require("gulp"),
 function uploadImage() {
   console.log("starting image upload");
 
-  return src("content/images/_working/processed/**/*")
+  return src("content/uploads/_working-images/processed/*")
     .pipe(
       s3(
         {
@@ -26,13 +26,13 @@ function uploadImage() {
       )
     )
     .pipe(vinylPaths(del))
-    .pipe(dest("content/images/_working/uploaded/"));
+    .pipe(dest("content/images/_working/uploaded/")); // probably can remove
 }
 
 function uploadFile() {
   console.log("starting file upload");
 
-  return src("content/images/_working/to-process/*")
+  return src("content/uploads/_working-files/to-process/*")
     .pipe(
       s3(
         {
@@ -45,17 +45,14 @@ function uploadFile() {
       )
     )
     .pipe(vinylPaths(del))
-    .pipe(dest("content/images/_working/uploaded/"));
-}
-
-function done() {
-  return src("content/images/_working/originals/*").pipe(
-    dest("content/images/uploaded/")
-  );
+    .pipe(dest("content/images/_working/uploaded/")); // delete?
 }
 
 function cleanup() {
-  return del(["content/images/_working/**"]);
+  return del([
+    "content/uploads/_working-images/**",
+    "content/uploads/_working-files/**",
+  ]);
 }
 
-exports.do = series(uploadImage, uploadFile, done, cleanup);
+exports.do = series(uploadImage, uploadFile, cleanup);

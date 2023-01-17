@@ -5,7 +5,7 @@ const imageExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG}`;
 
 function variants() {
   return (
-    src(`content/images/_working/to-process/*.${imageExtensions}`)
+    src(`content/uploads/_working-images/to-process/*.${imageExtensions}`)
       // Create responsive variants
       .pipe(
         responsive(
@@ -258,13 +258,15 @@ function variants() {
         )
       )
       // .pipe(vinylPaths(del))
-      .pipe(dest("content/images/_working/processed/"))
+      .pipe(dest("content/uploads/_working-images/processed/"))
   );
 }
 
 function removeProcessedImage() {
   console.log("Removing processed images");
-  return del([`content/images/_working/to-process/*.${imageExtensions}`]);
+  return del([
+    `content/uploads/_working-images/to-process/*.${imageExtensions}`,
+  ]);
 }
 
 exports.do = parallel(variants, removeProcessedImage);

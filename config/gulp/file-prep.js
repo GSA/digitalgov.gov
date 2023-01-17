@@ -28,24 +28,41 @@ const directoryExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG,pdf,PDF,doc,DOC,docx,DOC
 const imageRegex = /(png|jpg|jpeg)/;
 const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
 
+const filePaths = {
+  base: "content/uploads/",
+  uploads: "./content/uploads/_inbox", // ./content/images/_inbox
+  image: {
+    original: "./content/uploads/_working-images/originals",
+    working: "./content/uploads/_working-images/working",
+    toProcess: "./content/uploads/_working-images/to-process",
+    processed: "./content/uploads/_working-images/processed",
+  },
+  file: {
+    original: "./content/uploads/_working-files/originals",
+    toProcess: "./content/uploads/_working-files/to-process",
+  },
+};
+
 function fileTidy(done) {
   var newfileName = "";
-  paths = filepaths;
+  var filetype = "";
+  var paths = filePaths;
 
-  fs.readdir(paths.working, (err, files) => {
+  fs.readdir(paths.uploads, (err, files) => {
     // process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
       if (allExtensions.includes(path.extname(file))) {
         newfileName = cleanFileName(file);
-        createDir(paths.original, 3);
-        createDir(paths.toProcess, 3);
+        filetype = fileType(file);
+        createDir(paths[filetype].original, 3);
+        createDir(paths[filetype].toProcess, 3);
         fs.renameSync(
-          paths.working + "/" + file,
-          paths.original + "/" + newfileName
+          paths.uploads + "/" + file,
+          paths[filetype].original + "/" + newfileName
         );
         fs.copyFileSync(
-          paths.original + "/" + newfileName,
-          paths.toProcess + "/" + newfileName
+          paths[filetype].original + "/" + newfileName,
+          paths[filetype].toProcess + "/" + newfileName
         );
       }
     }
@@ -63,7 +80,7 @@ function fileTidy(done) {
 //./content/images/_working/originals";
 //./content/images/_working/to-process";
 function createDir(directoryPath, foldersDeep) {
-  var dp = "content/images/";
+  var dp = filePaths.base;
 
   //if this directory does not exist, create it
   if (!fs.existsSync(directoryPath)) {
@@ -106,11 +123,12 @@ function cleanFileName(origfilename) {
 }
 
 // removes files in content/images/_inbox directories
+// move paths into filepaths object
 function cleanInbox() {
   return del([
-    "content/images/_inbox/**",
-    "!content/images/_inbox",
-    "!content/images/_inbox/__add jpg and png files to this folder__",
+    "content/uploads/_inbox/**",
+    "!content/uploads/_inbox",
+    "!content/uploads/_inbox/__add jpg and png files to this folder__",
   ]);
 }
 
@@ -141,11 +159,8 @@ function get_curr_date() {
 
 // write the yml file
 function writeDataFile() {
-  return src(
-    `content/images/_working/to-process/*.${directoryExtensions}`
-  ).pipe(
+  return src(`content/uploads/**/to-process/*.${directoryExtensions}`).pipe(
     tap(function foo(file) {
-      console.log("filepath:137", file.path);
       var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
       var format = file.path.split(".").pop();
       var type = fileType(format);
@@ -166,7 +181,7 @@ function fileData(format, uid) {
   return `
   # This image is available at:
   # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
-  # Image shortcode: {{< asset-static file="${uid}.${format}" >}}
+  # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)">}}
   date     :  ${get_curr_date()}
   uid      :  ${uid}
   format   :  ${format}
@@ -198,11 +213,13 @@ function fileType(extension) {
 // create directories for processed images
 function mkdir() {
   return (
-    src(`content/images/_working/to-process/*.${directoryExtensions}`)
+    src(
+      `content/uploads/_working-images/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}`
+    )
       // Create the processed folder
       .pipe(
         tap(function (file) {
-          var dir = "content/images/_working/processed";
+          var dir = "content/uploads/_working-images/processed";
           if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir), console.log("folder written");
           }
