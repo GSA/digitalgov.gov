@@ -45,7 +45,8 @@
                 <h4 class="join-community-form__header">
                   <svg class="join-community-form__header-svg usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
                     <use xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"></use>
-                  </svg> Connect with us
+                  </svg>
+                  Connect with us
                 </h4>
 
                 {{- range $i, $e := .Params.community_list -}}
@@ -114,10 +115,11 @@
 
               </section>
               {{- end -}}
-              <div class="usa-prose">
+              <div>
                 {{- .Content -}}
               </div>
-                <div class="community_events">
+              
+              <div class="community_events">
                 {{- partial "core/get-upcomingevents.html" . -}}
               </div>
 
