@@ -17,7 +17,7 @@ captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2023-02-07 13:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: ""
+primary_image: "increasing-public-participation-in-user-research"
 ---
 Join GSA's 10x team as they discuss using creative incentives to increase public participation in user research. 
 
