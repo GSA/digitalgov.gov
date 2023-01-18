@@ -5,12 +5,6 @@ const sizeOf = require("image-size");
 const fs = require("fs");
 const path = require("path");
 
-const filepaths = {
-  working: "./content/images/_inbox/",
-  original: "./content/images/_working/originals",
-  toProcess: "./content/images/_working/to-process",
-};
-
 const imageExtensions = [".jpg", ".png", ".jpeg"];
 const fileExtensions = [
   ".pdf",
@@ -22,18 +16,25 @@ const fileExtensions = [
   ".xls",
   ".xlsx",
 ];
+
 const allExtensions = [...imageExtensions, ...fileExtensions];
 const directoryExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG,pdf,PDF,doc,DOC,docx,DOCX,ppt,PPT,pptm,PPTM,pptx,PPTX,xls,XLS,xlsx,XLSX}`;
 
 const imageRegex = /(png|jpg|jpeg)/;
 const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
 
+
+/**
+ * 
+ * original stores the new normalized name file
+ * to-process copies from original for responsive image resizing, files are uploaded to s3 from this folder
+ * processed contains responsive variants that are are uploaded to s3
+ */
 const filePaths = {
   base: "content/uploads/",
-  uploads: "./content/uploads/_inbox", // ./content/images/_inbox
+  uploads: "./content/uploads/_inbox",
   image: {
     original: "./content/uploads/_working-images/originals",
-    working: "./content/uploads/_working-images/working",
     toProcess: "./content/uploads/_working-images/to-process",
     processed: "./content/uploads/_working-images/processed",
   },
@@ -43,6 +44,11 @@ const filePaths = {
   },
 };
 
+/**
+ * Creates directories for each step of the file uploading process
+ * These directories are removed when a file has been uploaded
+ * @param {callback} done 
+ */
 function fileTidy(done) {
   var newfileName = "";
   var filetype = "";
@@ -76,9 +82,16 @@ function fileTidy(done) {
   done();
 }
 
-//create working directories if they do not exist
-//./content/images/_working/originals";
-//./content/images/_working/to-process";
+
+
+/**
+ * creates the originals and to-process directories for both files and images
+ * ./content/uploads/_working-images/originals";
+ * ./content/uploads/_working-images/to-process";
+ * @param {string} directoryPath 
+ * @param {number} foldersDeep 
+ */
+
 function createDir(directoryPath, foldersDeep) {
   var dp = filePaths.base;
 
@@ -108,6 +121,13 @@ function createDir(directoryPath, foldersDeep) {
 }
 
 // Clean up the filename
+/**
+ * Normalizes filename to read file-name.pdf
+ * @example 
+ * File Name.pdf  
+ * // returns file-name.pdf
+ * @param {string} origfilename 
+ */
 function cleanFileName(origfilename) {
   return origfilename
     .toLowerCase()
@@ -122,8 +142,10 @@ function cleanFileName(origfilename) {
     .toLowerCase();
 }
 
-// removes files in content/images/_inbox directories
-// move paths into filepaths object
+/**
+ * removes files in content/images/_inbox directories
+ * 
+ */
 function cleanInbox() {
   return del([
     "content/uploads/_inbox/**",
@@ -132,6 +154,11 @@ function cleanInbox() {
   ]);
 }
 
+
+/**
+ * 
+ * @returns date in string format 2023-01-18 14:05:46 -0400
+ */
 function get_curr_date() {
   var d = new Date();
   var month = d.getMonth() + 1;
@@ -157,7 +184,10 @@ function get_curr_date() {
   return output;
 }
 
-// write the yml file
+/**
+ * Writes a yml data file with meta information about the file and how to use in a shortcode
+ * Creates two versions, one for images and one for files
+ */
 function writeDataFile() {
   return src(`content/uploads/**/to-process/*.${directoryExtensions}`).pipe(
     tap(function foo(file) {
@@ -177,6 +207,12 @@ function writeDataFile() {
   );
 }
 
+/**
+ * Returns a stringified yaml file contents for a file
+ * Takes the format (.pdf, .xls, etc...) and uid which is the name of the file
+ * @param {String} format 
+ * @param {String} uid 
+ */
 function fileData(format, uid) {
   return `
   # This image is available at:
@@ -188,6 +224,14 @@ function fileData(format, uid) {
   `;
 }
 
+
+/**
+ * Returns a stringified yaml file contents for a file
+ * Takes the format (.png, .jpg) and uid which is the name of the file
+ * @param {String} format 
+ * @param {String} uid 
+ * @param {Number} dimensions 
+ */
 function imageData(format, uid, dimensions) {
   return `
   # This image is available at:
@@ -204,27 +248,32 @@ function imageData(format, uid, dimensions) {
   `;
 }
 
-// check file type
+/**
+ * Checks the file extension and returns a string value of file or image
+ * @param {String} extension 
+ * @returns a string value of image or file
+ */
 function fileType(extension) {
   if (fileRegex.test(extension)) return "file";
   if (imageRegex.test(extension)) return "image";
 }
 
-// create directories for processed images
+/**
+ * Creates the processed folder to store responsive image variants
+ */
 function mkdir() {
   return (
     src(
       `content/uploads/_working-images/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}`
     )
-      // Create the processed folder
-      .pipe(
-        tap(function (file) {
-          var dir = "content/uploads/_working-images/processed";
-          if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir), console.log("folder written");
-          }
-        })
-      )
+    .pipe(
+      tap(function (file) {
+        var dir = "content/uploads/_working-images/processed";
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir), console.log("folder written");
+        }
+      })
+    )
   );
 }
 

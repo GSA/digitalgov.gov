@@ -3,6 +3,10 @@ const del = require("del");
 const responsive = require("gulp-responsive");
 const imageExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG}`;
 
+/**
+ * Gets /to-process images, creates responsive variants and saves to /processed
+ * @returns nothing
+ */
 function variants() {
   return (
     src(`content/uploads/_working-images/to-process/*.${imageExtensions}`)
@@ -262,6 +266,10 @@ function variants() {
   );
 }
 
+/**
+ * Removes the /to-process temporary working folder
+ * @returns nothing
+ */
 function removeProcessedImage() {
   console.log("Removing processed images");
   return del([

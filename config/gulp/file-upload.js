@@ -10,6 +10,13 @@ const { series, src, dest } = require("gulp"),
   },
   s3 = require("gulp-s3-upload")(s3config);
 
+
+/**
+ * Uploads images in /processed folder to s3 buckets
+ * @returns nothing
+ * TODO: Refactor both functions into one
+ */
+
 function uploadImage() {
   console.log("starting image upload");
 
@@ -26,8 +33,13 @@ function uploadImage() {
       )
     )
     .pipe(vinylPaths(del))
-    .pipe(dest("content/images/_working/uploaded/")); // probably can remove
 }
+
+/**
+ * Uploads files in /to-process folder to s3 static file bucket
+ * @returns nothing
+ * TODO: Refactor both functions into one
+ */
 
 function uploadFile() {
   console.log("starting file upload");
@@ -45,7 +57,6 @@ function uploadFile() {
       )
     )
     .pipe(vinylPaths(del))
-    .pipe(dest("content/images/_working/uploaded/")); // delete?
 }
 
 function cleanup() {
