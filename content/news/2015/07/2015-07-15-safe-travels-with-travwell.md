@@ -12,9 +12,12 @@ topics:
   - mobile-apps
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
+
 ---
 
-{{< legacy-img src="2015/07/250-x-445-CDC-TravWell-app-main-screen-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's main screen" >}}Ahhh… Summer is here at last! It’s time for relaxing vacation!
+Ahhh... Summer is here at last! It’s time for relaxing vacation!
+
+{{< legacy-img-right src="2015/07/250-x-445-CDC-TravWell-app-main-screen-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's main screen" >}}
 
 Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris—it is time for a travel app.
 
