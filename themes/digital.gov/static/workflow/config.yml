@@ -960,8 +960,8 @@ collections:
   - <<: *defaults
     name: "transcript"
     label: "Transcript"
-    label_singular: "transcript page"
-    description: "This page will create a transcript only page for reading"
+    label_singular: "Transcript"
+    description: "This page will create an event transcript"
     folder: "content/events"
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     path: "{{year}}/{{month}}/{{slug}}"
@@ -969,19 +969,10 @@ collections:
     preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
     preview_path_date_field: "date"
     fields:
-      - label: "Video Title"
-        name: "video title"
+      - label: "Transcript Title"
+        name: "title"
         widget: "string"
-        hint: "Title for the video"
-      - label: "Event Name"
-        name: "event name"
-        widget: "relation"
-        collection: "events"
-        value_field: "slug"
-        displayField: "title"
-        search_fields: ["slug", "title"]
-        multiple: false
-        required: true
+        hint: "USWDS Monthly Call - October 2022 Transcript"
       - label: "Start Date/Time"
         name: "date"
         widget: "datetime"
@@ -1040,7 +1031,9 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
-        required: false
+        hint: 'Link to the original event with the link shortcode: [Link to Event]({{< link "/event/2019/11/04/foundations-agile-i/" >}})'
+        required: true
+        
         <<: *editorComponents
 
   # IMAGE UPLOAD =======================
