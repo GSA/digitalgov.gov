@@ -12,9 +12,9 @@ const { series, src, dest } = require("gulp"),
 
 
 /**
- * Uploads images in /processed folder to s3 buckets
- * @returns nothing
+ * Uploads images in /processed folder to digitalgov s3 bucket
  * TODO: Refactor both functions into one
+ * https://github.com/uswds/uswds-compile/blob/223fe67c335135c55cf1be9dead44e6d363e219d/gulpfile.js#L204-L232
  */
 
 function uploadImage() {
@@ -37,7 +37,6 @@ function uploadImage() {
 
 /**
  * Uploads files in /to-process folder to s3 static file bucket
- * @returns nothing
  * TODO: Refactor both functions into one
  */
 
@@ -59,6 +58,11 @@ function uploadFile() {
     .pipe(vinylPaths(del))
 }
 
+
+/**
+ * Deletes working directories after uploading is complete
+ * @returns nothing
+ */
 function cleanup() {
   return del([
     "content/uploads/_working-images/**",

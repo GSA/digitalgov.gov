@@ -4,8 +4,11 @@ const responsive = require("gulp-responsive");
 const imageExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG}`;
 
 /**
- * Gets /to-process images, creates responsive variants and saves to /processed
- * @returns nothing
+ * Retreives images from /to-process and creates responsive variants saved to /processed
+ * Creates 33 image variants of png/jpg and webp
+ * Sizes: 200, 400, 600, 800, 1200, 1600, 2400
+ * Creates black and white versions which are not needed
+ * TODO: Needs to refactor this to create smaller set of variants and options
  */
 function variants() {
   return (
@@ -267,8 +270,7 @@ function variants() {
 }
 
 /**
- * Removes the /to-process temporary working folder
- * @returns nothing
+ * Removes the /to-process temporary working folder after variants are created
  */
 function removeProcessedImage() {
   console.log("Removing processed images");

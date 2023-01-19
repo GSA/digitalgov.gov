@@ -25,21 +25,18 @@ const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
 
 
 /**
- * 
- * original stores the new normalized name file
- * to-process copies from original for responsive image resizing, files are uploaded to s3 from this folder
+ * Object containing working folder paths used for lifecycle steps of uploading
+ * to-process contains the normalized filename, static files are upload to s3 from here
  * processed contains responsive variants that are are uploaded to s3
  */
 const filePaths = {
   base: "content/uploads/",
   uploads: "./content/uploads/_inbox",
   image: {
-    original: "./content/uploads/_working-images/originals",
     toProcess: "./content/uploads/_working-images/to-process",
     processed: "./content/uploads/_working-images/processed",
   },
   file: {
-    original: "./content/uploads/_working-files/originals",
     toProcess: "./content/uploads/_working-files/to-process",
   },
 };
@@ -47,7 +44,7 @@ const filePaths = {
 /**
  * Creates directories for each step of the file uploading process
  * These directories are removed when a file has been uploaded
- * @param {callback} done 
+ * @param {callback} done - gulp call function that is called to end the task
  */
 function fileTidy(done) {
   var newfileName = "";
@@ -58,16 +55,15 @@ function fileTidy(done) {
     // process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
       if (allExtensions.includes(path.extname(file))) {
+        // creates new normalized file name
         newfileName = cleanFileName(file);
         filetype = fileType(file);
-        createDir(paths[filetype].original, 3);
+        // create working directories if they do not exist
         createDir(paths[filetype].toProcess, 3);
+        if (filetype === "image") createDir(paths[filetype].processed, 3);
+        // copies uploaded file to /to-process with new normalized name
         fs.renameSync(
           paths.uploads + "/" + file,
-          paths[filetype].original + "/" + newfileName
-        );
-        fs.copyFileSync(
-          paths[filetype].original + "/" + newfileName,
           paths[filetype].toProcess + "/" + newfileName
         );
       }
@@ -86,12 +82,11 @@ function fileTidy(done) {
 
 /**
  * creates the originals and to-process directories for both files and images
- * ./content/uploads/_working-images/originals";
  * ./content/uploads/_working-images/to-process";
- * @param {string} directoryPath 
- * @param {number} foldersDeep 
+ * ./content/uploads/_working-images/processed";
+ * @param {string} directoryPath - path of directory to create
+ * @param {number} foldersDeep - depth of directory relative to base project 
  */
-
 function createDir(directoryPath, foldersDeep) {
   var dp = filePaths.base;
 
@@ -120,13 +115,22 @@ function createDir(directoryPath, foldersDeep) {
   }
 }
 
-// Clean up the filename
 /**
- * Normalizes filename to read file-name.pdf
+ * Checks the file extension and returns a string value of file or image
+ * @param {String} extension - file name extension (.pdf, .png, etc...)
+ * @returns a string value of image or file
+ */
+function fileType(extension) {
+  if (fileRegex.test(extension)) return "file";
+  if (imageRegex.test(extension)) return "image";
+}
+
+/**
+ * Normalizes filename by removing unnecessary characters
+ * @param {string} origfilename - filename of original uploaded file
  * @example 
- * File Name.pdf  
- * // returns file-name.pdf
- * @param {string} origfilename 
+ * File Name.pdf returns file-name.pdf
+ * @returns filename in string format
  */
 function cleanFileName(origfilename) {
   return origfilename
@@ -144,7 +148,7 @@ function cleanFileName(origfilename) {
 
 /**
  * removes files in content/images/_inbox directories
- * 
+ * keeps _inbox/__add jpg and png files to this folder__
  */
 function cleanInbox() {
   return del([
@@ -156,7 +160,7 @@ function cleanInbox() {
 
 
 /**
- * 
+ * Creates a timestamp for the yml file
  * @returns date in string format 2023-01-18 14:05:46 -0400
  */
 function get_curr_date() {
@@ -186,7 +190,7 @@ function get_curr_date() {
 
 /**
  * Writes a yml data file with meta information about the file and how to use in a shortcode
- * Creates two versions, one for images and one for files
+ * Creates two versions: one for images or files
  */
 function writeDataFile() {
   return src(`content/uploads/**/to-process/*.${directoryExtensions}`).pipe(
@@ -210,8 +214,8 @@ function writeDataFile() {
 /**
  * Returns a stringified yaml file contents for a file
  * Takes the format (.pdf, .xls, etc...) and uid which is the name of the file
- * @param {String} format 
- * @param {String} uid 
+ * @param {String} format - extension filetype
+ * @param {String} uid - the filename 
  */
 function fileData(format, uid) {
   return `
@@ -228,9 +232,9 @@ function fileData(format, uid) {
 /**
  * Returns a stringified yaml file contents for a file
  * Takes the format (.png, .jpg) and uid which is the name of the file
- * @param {String} format 
- * @param {String} uid 
- * @param {Number} dimensions 
+ * @param {String} format - extension filetype
+ * @param {String} uid - the filename 
+ * @param {Number} dimensions - dimensions of the image
  */
 function imageData(format, uid, dimensions) {
   return `
@@ -248,33 +252,4 @@ function imageData(format, uid, dimensions) {
   `;
 }
 
-/**
- * Checks the file extension and returns a string value of file or image
- * @param {String} extension 
- * @returns a string value of image or file
- */
-function fileType(extension) {
-  if (fileRegex.test(extension)) return "file";
-  if (imageRegex.test(extension)) return "image";
-}
-
-/**
- * Creates the processed folder to store responsive image variants
- */
-function mkdir() {
-  return (
-    src(
-      `content/uploads/_working-images/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}`
-    )
-    .pipe(
-      tap(function (file) {
-        var dir = "content/uploads/_working-images/processed";
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir), console.log("folder written");
-        }
-      })
-    )
-  );
-}
-
-exports.do = series(fileTidy, cleanInbox, writeDataFile, mkdir);
+exports.do = series(fileTidy, cleanInbox, writeDataFile);
