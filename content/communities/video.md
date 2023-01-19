@@ -22,6 +22,8 @@ topics:
   - video
   - audio
 
+redirectto: https://community.max.gov/pages/viewpage.action?pageId=2352827404
+
 # Weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
