@@ -23,7 +23,7 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 
 | Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GSA/**digitalgov.gov**](https://github.com/GSA/digitalgov.gov)                               | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [Cloud.gov](https://cloud.gov/).|
+| [GSA/**digitalgov.gov**](https://github.com/GSA/digitalgov.gov)                               | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [cloud.pages.gov](https://cloud.gov/).|
 | [18F/**dns**](https://github.com/18F/dns)                              | DNS configuration for digital.gov domains managed by GSA TTS.|
 | [uswds/**uswds**](https://github.com/uswds/uswds)                              | This site is developed using the U.S. Web Design System v2, managed by GSA TTS.|
 
