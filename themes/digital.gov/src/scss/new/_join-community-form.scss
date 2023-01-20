@@ -2,8 +2,8 @@
 
 // Styles for inline form on the DG7 community pages
 .join-community-form {
-  @include u-border-left("05", "solid", "blue-20");
-  @include u-bg("blue-5");
+  @include u-border-left("05", "solid", "gray-warm-20");
+  @include u-bg("gray-warm-10");
   @include u-margin-bottom(5);
   @include u-padding-top(2.5);
   @include u-padding-bottom(4);
@@ -19,18 +19,19 @@
     @include u-text("normal");
   }
   &__header-svg {
-    @include u-margin-right("05");
+    @include u-margin-right(2);
   }
   &__body {
-    padding-left: 2.625rem;
     @include u-padding-top(2);
   }
   &__body-eligibility {
     @include u-padding-bottom(2);
   }
   &__body-form-button {
+    @include u-bg("cyan-50v");
     @include u-text("gray-warm-1");
     &:hover {
+      @include u-bg("cyan-60v");
       @include u-text("gray-warm-1");
     }
   }
