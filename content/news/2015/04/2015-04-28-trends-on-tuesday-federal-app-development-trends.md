@@ -43,7 +43,7 @@ An [InformIT article](http://www.informit.com/blogs/blog.aspx?uk=The-Fight-for-T
 
 Fragmentation is an issue cited in both the Quartz and InformIT articles. In January 2014, 78% of iOS users were running the latest version of the iOS operating system, compared with a little more than 50% of Android users, according to InformIT. This poses a problem for app developers, who have to choose an Android OS to design for, which may leave older Android operating systems in the lurch.
 
-## Security concerns {{< legacy-img src="2015/04/250-x-462-Smart-phone-with-closed-lock-rvlsoft-iStock-Thinkstock-187451206.jpg" alt="Smart phone with closed lock" caption="" >}} 
+## Security concerns {{< legacy-img src="2015/04/250-x-462-Smart-phone-with-closed-lock-rvlsoft-iStock-Thinkstock-187451206.jpg" alt="Smart phone with closed lock" caption="" >}}
 
 “This is a mixed bag, depending on who you ask or your specific security concerns, but Apple was early to tie securely into things like enterprise email systems and to support things like remote wipes,” said Sullivan. “Android lagged in this area, and it hurt them among enterprise business clients, but they have been making big strides to catch up. I think there is still a perception of uncertainty around it.”
 
@@ -51,4 +51,4 @@ A July 2014 [Forbes article](http://www.forbes.com/sites/symantec/2014/07/24/and
 
 ## Federal developer resources
 
-As more native apps are created by federal agencies, developers need to consider how their audience engages in the mobile world. DigitalGov’s [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}) is full of helpful resources and case studies about mobile apps in the federal space, and the [Mobile Community of Practice]({{< ref "mobilegov.md" >}}) is where agencies tackle mobile technology issues together.
+As more native apps are created by federal agencies, developers need to consider how their audience engages in the mobile world. DigitalGov’s [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}) is full of helpful resources and case studies about mobile apps in the federal space, and the [Mobile Community of Practice]({{< ref "/communities" >}}) is where agencies tackle mobile technology issues together.

@@ -20,7 +20,7 @@ topics:
   - trends-on-tuesday
 ---
 
-{{< legacy-img src="2014/12/600-x-226-Online-privacy-tupungato-iStock-Thinkstock-482992487.jpg" alt="Word cloud about online privacy" caption="" >}} 
+{{< legacy-img src="2014/12/600-x-226-Online-privacy-tupungato-iStock-Thinkstock-482992487.jpg" alt="Word cloud about online privacy" caption="" >}}
 
 Federal agencies are required by law [see the list of applicable ones here](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services#privacy-and-identity-management) to use privacy policies on their digital properties that explain how they use the data they collect about users and visitors. This ensures that these users and visitors know what the government is doing with their data.
 
@@ -38,8 +38,6 @@ In the article, researcher Joseph Turow states there are several issues contribu
 
 **Cheryl Hackley** from the Federal Trade Commission (FTC) wrote about the confusion around Privacy Impact Assessment policies in her role as social media lead there and [noted that making these policies as clear is possible]({{< ref "2013-09-20-privacy-policies-terms-of-service-and-pias-oh-my.md" >}}) is a helpful thing government agencies can do.
 
-A concern the Pew article raises is that with the influx of more mobile devices and Internet of Things technologies that rely on data, organizations will be using even more information about users, which have bigger implications for privacy. Recently, Jordan Higgins, from the Defense Intelligence Agency (DIA), wrote a [must-read on the impacts of security and privacy]({{< ref "2014-10-30-cyber-house-of-horrors.md" >}} "Beware the Cyber Security House of Horrors!") when it comes to the Internet of Things. The [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") also noted privacy and identify management as a significant challenge for mobile implementation during the [Making MobileGov Project]({{< ref "2011-06-21-making-mobile-gov-project.md" >}} "Making Mobile Gov Project") four years ago.
+A concern the Pew article raises is that with the influx of more mobile devices and Internet of Things technologies that rely on data, organizations will be using even more information about users, which have bigger implications for privacy. Recently, Jordan Higgins, from the Defense Intelligence Agency (DIA), wrote a [must-read on the impacts of security and privacy]({{< ref "2014-10-30-cyber-house-of-horrors.md" >}} "Beware the Cyber Security House of Horrors!") when it comes to the Internet of Things. The [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile") also noted privacy and identify management as a significant challenge for mobile implementation during the [Making MobileGov Project]({{< ref "2011-06-21-making-mobile-gov-project.md" >}} "Making Mobile Gov Project") four years ago.
 
 How should government handle digital privacy issues moving forward? This would be a great topic to recommend for our crowdsourced [2015 DigitalGov Citizen Services Summit]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}} "Crowdsourced Digital Citizen Services Summit") programming!
-
- 

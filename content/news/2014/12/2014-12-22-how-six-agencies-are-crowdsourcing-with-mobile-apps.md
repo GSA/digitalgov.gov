@@ -19,13 +19,13 @@ topics:
   - TSA
 ---
 
-Mobile devices allow the public to interact with government in new and game-changing ways and users [expect those interactions]({{< ref "2014-06-24-trends-on-tuesday-are-mobile-devices-the-center-of-social-universe.md" >}}). As a result, many agencies are taking advantage of native apps for crowdsourcing projects. 
+Mobile devices allow the public to interact with government in new and game-changing ways and users [expect those interactions]({{< ref "2014-06-24-trends-on-tuesday-are-mobile-devices-the-center-of-social-universe.md" >}}). As a result, many agencies are taking advantage of native apps for crowdsourcing projects.
 
 {{< legacy-img src="2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}
 
 The [White House Open Government Initiative](http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government) recently defined crowdsourcing “as a process in which individuals or organizations submit an open call for voluntary contributions from a large group of unknown individuals (“the crowd”)&#8230;” In addition, they highlighted some native applications like the [Federal Communications Commission Speed Test App]({{< ref "2014-01-02-fccs-speed-test-app.md" >}}) and [National Oceanic and Atmospheric Administration’s mPing](http://mping.nssl.noaa.gov/) as good practices in mobile crowdsourcing.
 
-As part of our [Crowdsourcing theme this month on DigitalGov]({{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}}), the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}) reviewed [USA.gov&#8217;s Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) for other examples of agencies using mobile for crowdsourcing.
+As part of our [Crowdsourcing theme this month on DigitalGov]({{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}}), the [MobileGov Community of Practice]({{< ref "/communities" >}}) reviewed [USA.gov&#8217;s Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) for other examples of agencies using mobile for crowdsourcing.
 
 The National Oceanic and Atmospheric Administration (NOAA) gets the gold star in this area. Besides mPing, they have three other native applications that are crowdsourcing data from the public:
 

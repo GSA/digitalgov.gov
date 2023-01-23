@@ -46,7 +46,7 @@ Listed below are resources available that further describe and conduct functiona
 **Relevant Communities:**
 
   * <a href="http://ixdadc.ning.com/" rel="nofollow">Interaction Design Association &#8211; DC Chapter</a> local community focused DC group within the larger Interaction Design Association
-  * [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile Gov Community Events") &#8211; cross-gov, multidisciplinary community dedicated to building a anytime, anywhere gov for the public
+  * [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile Gov Community Events") &#8211; cross-gov, multidisciplinary community dedicated to building a anytime, anywhere gov for the public
   * <a href="http://www.w3.org/" rel="nofollow">World Wide Web Consortium</a> &#8211; international community that develops Web standards
 
 **Testing Services**

@@ -16,7 +16,7 @@ topics:
   - united-states-department-of-energy
 ---
 
-{{< legacy-img src="2015/09/600-x-400-Contract-signing-Florin1605-iStock-Thinkstock-452421227.jpg" alt="A pen rests on an agreement needing signatures." caption="" >}} 
+{{< legacy-img src="2015/09/600-x-400-Contract-signing-Florin1605-iStock-Thinkstock-452421227.jpg" alt="A pen rests on an agreement needing signatures." caption="" >}}
 
 In our personal lives, most of us barely pay attention to Terms of Service (TOS) agreements. But in our professional lives, as federal employees, mindlessly clicking through a TOS is not an option.
 
@@ -52,7 +52,7 @@ It took around five months to negotiate the three TOS agreements for Lantern Liv
 
 ## Community Collaboration
 
-The [Mobile Community of Practice]({{< ref "mobilegov.md" >}}) offers a collaborative space for federal employees engaged in mobile app development. Soll found the community to be an excellent resource.
+The [Mobile Community of Practice]({{< ref "/communities" >}}) offers a collaborative space for federal employees engaged in mobile app development. Soll found the community to be an excellent resource.
 
 “We got a lot of support from other agencies, in terms of coming up to speed on these agreements,” Soll said. “We spoke to attorneys at three or four agencies who have either worked in this realm or negotiated these agreements. I cannot stress enough: reach out and really use this community as a resource.”
 

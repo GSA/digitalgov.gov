@@ -22,7 +22,7 @@ topics:
 
 The [National Center for Telehealth and Technology](http://t2health.dcoe.mil/) (T2), part of the Department of Defense, offers multiple [apps that address health care for service members](http://t2health.dcoe.mil/products/mobile-apps) in a variety of ways.
 
-At a talk with the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}) earlier this year, Dr. David Cooper, a psychologist for T2, said the apps are a way to provide services and make appointments more effective and efficient for patients.
+At a talk with the [MobileGov Community of Practice]({{< ref "/communities" >}}) earlier this year, Dr. David Cooper, a psychologist for T2, said the apps are a way to provide services and make appointments more effective and efficient for patients.
 
 “Mobile intervention is helpful because I can give [an app] to someone before they even come to my office, and someone can try it out and get more instant relief,” Cooper said. “For example, diaphragmatic breathing is something I would teach every patient; with the [Breathe2Relax app](http://t2health.dcoe.mil/apps/breathe2relax) [on [Android](https://play.google.com/store/apps/details?id=org.t2health.breathe2relax&hl=en) and [Apple](https://itunes.apple.com/us/app/breathe2relax/id425720246?mt=8)], they can now learn these techniques at home. Then, they can come in and talk about how it went.”
 

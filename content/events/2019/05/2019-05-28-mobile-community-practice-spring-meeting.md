@@ -9,7 +9,7 @@ summary: "Join us to learn about the latest developments in the mobile citizen e
 host: "MobileGov"
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/mobilegov-community-of-practice-spring-meeting-registration-62013325526
-captions: 
+captions:
 
 # start date
 date: 2019-05-28 10:30:00 -0500
@@ -18,7 +18,7 @@ date: 2019-05-28 10:30:00 -0500
 end_date: 2019-05-28 11:00:00 -0500
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - david-fern
 
 # YouTube ID
@@ -43,16 +43,16 @@ What does it mean for federal agencies when most web traffic is coming from mobi
 
 **David Fern**, the Mobile Community of Practice Manager, will host **Jacob Parcell**, Innovation Portfolio Director for the General Services Administration’s Technology Transformation Service, to discuss recent developments in mobile customer experience and highlight the opportunities for federal mobile practitioners in the months ahead.   
 
-In addition, we will provide updates on the [Mobile Community of Practice]({{< ref "/communities/mobilegov.md" >}}), highlight current policy issues including the [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) (IDEA), and provide participants the opportunity to ask any questions that they might have.
+In addition, we will provide updates on the [Mobile Community of Practice]({{< ref "/communities" >}}), highlight current policy issues including the [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) (IDEA), and provide participants the opportunity to ask any questions that they might have.
 
-This talk is hosted by the [Mobile Community of Practice]({{< ref "/communities/mobilegov.md" >}}) and [Digital.gov](https://digital.gov)
+This talk is hosted by the [Mobile Community of Practice]({{< ref "/communities" >}}) and [Digital.gov](https://digital.gov)
 
 _Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).  _
 
 
 ## Related
 
-- [Join the Mobile Community of Practice]({{< ref "/communities/mobilegov.md" >}})
+- [Join the Mobile Community of Practice]({{< ref "/communities" >}})
 - [Eight Principles of Mobile-Friendliness]({{< ref "/guides/mobile-principles/_index.md" >}})
 - [H.R.5759 — 21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) (IDEA)
 - [Connected Government Act Overview]({{< ref "/resources/connected-government-act.md" >}})
