@@ -279,5 +279,15 @@ In this session, we’ll answer questions like:
 * **Dan Williams -** Product Lead, USWDS
 * **James Mejia -** Engineer, USWDS Contractor
 * **Amy Leadem -** Front-End Developer, USWDS Contractor
-* **Bonnie Cameron -**  Content Strategist, USWDS Contractor
-* **Jacline Contrino -** User Experience Researcher, USWDS Contractor
+
+*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+
+## About the USWDS
+
+[The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
+
+* [The U.S. Web Design System](https://designsystem.digital.gov/)
+* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+* [Email Us](mailto:uswds@support.digitalgov.gov)
+* [Join our community](https://digital.gov/communities/uswds/)
+* [Follow @uswds on Twitter](https://twitter.com/uswds)
