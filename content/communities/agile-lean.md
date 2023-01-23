@@ -8,9 +8,7 @@ title: "Agile/Lean"
 
 # set date archived. page will not publish if after date
 summary: "This community is no longer active."
-layout: archived
-archive_date: 2021-12-21
-redirectto: /communities
+expirydate: 2021-12-21
 
 # Redirects: enter the path of the URL that you want redirected to this page
 
