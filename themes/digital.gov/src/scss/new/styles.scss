@@ -15,6 +15,7 @@
 @forward 'uswds-overrides';
 @forward "usa-site-alert";
 
+
 // @forward "uswds-global";
 // @forward "uswds-utilities";
 
@@ -152,6 +153,7 @@
 @forward 'home/communities';
 
 @forward 'community-info';
+@forward 'join-community-form';
 
 @forward 'related_communities';
 @forward 'services';

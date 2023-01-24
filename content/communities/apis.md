@@ -6,7 +6,7 @@ slug: apis
 date: 2018-03-29 3:30:00 -0500
 title: "Application Programming Interfaces (APIs)"
 deck: "Working to advance the cause of APIs in the federal government"
-summary: "Working to advance the cause of APIs in the federal government"
+summary: "Working to advance the cause of APIs in the federal government."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -24,12 +24,6 @@ redirectto: https://groups.google.com/forum/?nomobile=true#!forum/us-government-
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
-community_list:
-  - platform: google-group
-    type: public
-    subscribe_form: https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis
-    members: 1351
 
 ---
 
