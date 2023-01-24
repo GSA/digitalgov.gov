@@ -13,7 +13,7 @@ topics:
   - trends-on-tuesday
 ---
 
-{{< legacy-img src="2015/01/250-x-425-Smartphone-two-sizes-milindri-iStock-Thinkstock-517420153.jpg" alt="Smartphone in two sizes" caption="" >}} 
+{{< legacy-img src="2015/01/250-x-425-Smartphone-two-sizes-milindri-iStock-Thinkstock-517420153.jpg" alt="Smartphone in two sizes" caption="" >}}
 
 Phablets, the popular term for smartphones with screen sizes from 5.5 to less than 7 inches, increased in popularity this holiday season. According to Flurry, [13% of new device activations in December were phablets](http://www.flurry.com/blog/flurry-insights/apple-and-apps-dominated-christmas-2014#.VKry2WTF_oi), jumping from 4% in 2013.
 
@@ -21,6 +21,4 @@ Back in October, the International Data Corporation (IDC) predicted that [“pha
 
 The trend to larger screen sizes should be noted by developers as people are [spending more time watching video on mobile devices]({{< ref "2014-12-02-trends-on-tuesday-americas-new-first-screen.md" >}}).
 
-What’s an agency to do with the influx of screen sizes? A [mobile first strategy](https://www.youtube.com/watch?v=lTYZTwWKaNI&feature=youtube_gdata) will go a long way towards connecting agencies with smartphone and phablet users. Check out our content from [DigitalGov Mobile Gov month]({{< ref "2014-10-20-welcome-to-mobilegov-month-on-digitalgov.md" >}}) and join the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}) so your agency can be on top of all screens sizes—especially phablets!
-
- 
+What’s an agency to do with the influx of screen sizes? A [mobile first strategy](https://www.youtube.com/watch?v=lTYZTwWKaNI&feature=youtube_gdata) will go a long way towards connecting agencies with smartphone and phablet users. Check out our content from [DigitalGov Mobile Gov month]({{< ref "2014-10-20-welcome-to-mobilegov-month-on-digitalgov.md" >}}) and join the [MobileGov Community of Practice]({{< ref "/communities" >}}) so your agency can be on top of all screens sizes—especially phablets!

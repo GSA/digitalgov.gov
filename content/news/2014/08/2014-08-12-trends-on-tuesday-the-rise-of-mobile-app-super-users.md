@@ -13,7 +13,7 @@ topics:
   - trends-on-tuesday
 ---
 
-{{< legacy-img src="2014/08/250-x-193-Shopping-cart-with-icons-on-Tablet-PC-urfinguss-iStock-Thinkstock-451689875.jpg" alt="Shopping cart filled with app icons on a mobile tablet." caption="" >}} 
+{{< legacy-img src="2014/08/250-x-193-Shopping-cart-with-icons-on-Tablet-PC-urfinguss-iStock-Thinkstock-451689875.jpg" alt="Shopping cart filled with app icons on a mobile tablet." caption="" >}}
 
 A recent [Trends on Tuesday post]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}) cautioned against becoming another statistic in the treacherous, desolate wasteland known as the App Graveyard. Thankfully, there is some research that shows the likelihood of your app being banished to its grave is receding. Trends indicate that not only are app retention rates rising, user engagement is increasing. According to data collected by [_Flurry_](http://www.flurry.com/blog/flurry-insights/rise-mobile-addict#.U-TPsoBdVUM), the number of times apps are launched per day have increased significantly.
 
@@ -23,4 +23,4 @@ In addition, _Yankee Group_, predicts mobile app downloads should continue to gr
 
 A word of caution though because there is some research providing evidence to counter this trend. This [article](http://www.mobileworldlive.com/app-burnout-growing-loyal-users-decline-localytics), by Tim Ferguson, states there has been some drop in the number of regular or loyal users. The only way to prevent this from happening is to make sure that developers understand “user behavior, as well as the strengths and weaknesses of apps, so they can [tweak their products]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}) to improve engagement.”
 
-Federal agencies starting out with their mobile products should use the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}) and learn from other agency practices by joining the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}).
+Federal agencies starting out with their mobile products should use the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}) and learn from other agency practices by joining the [MobileGov Community of Practice]({{< ref "/communities" >}}).

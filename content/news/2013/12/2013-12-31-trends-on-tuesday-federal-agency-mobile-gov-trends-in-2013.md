@@ -28,7 +28,7 @@ topics:
   - united-states-department-of-energy
   - united-states-department-of-housing-and-urban-development
   - user-experience
-  
+
 ---
 
 [{{< legacy-img src="2014/01/Gov-Apps.png" alt="Gov Apps" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Gov-Apps.png)Today we want to tell you about the federal agency trends we saw this year in the development of public facing mobile products.
@@ -55,7 +55,7 @@ topics:
   </li>
 </ul>
 
-**Cross Agency Sharing Multiplied.** There was an influx of cross agency sharing of mobile development practices, tools and solutions. In conjunction with the Federal CIO Council, we developed the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program"). To help us create the program, agencies in the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") shared
+**Cross Agency Sharing Multiplied.** There was an influx of cross agency sharing of mobile development practices, tools and solutions. In conjunction with the Federal CIO Council, we developed the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program"). To help us create the program, agencies in the [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile") shared
 
 <ul class="how_to_mobile_list">
   <li>
