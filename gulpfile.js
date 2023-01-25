@@ -2,6 +2,7 @@
 const { parallel, series, src, watch } = require("gulp");
 
 // Import task functions
+// file tasks upload both images (png,jpg,jpeg) and static files (pdf, xls,...) to their respective s3 buckets
 const file = {
     prep: require("./config/gulp/file-prep"),
     process: require("./config/gulp/file-process"),

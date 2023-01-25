@@ -1,7 +1,5 @@
-const { file } = require("../../gulpfile");
-
 require("dotenv").config();
-const { series, src, dest } = require("gulp"),
+const { series, src } = require("gulp"),
   vinylPaths = require("vinyl-paths"),
   del = require("del"),
   s3config = {
@@ -9,7 +7,6 @@ const { series, src, dest } = require("gulp"),
     secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
   },
   s3 = require("gulp-s3-upload")(s3config);
-
 
 /**
  * Uploads images in /processed folder to digitalgov s3 bucket
@@ -32,7 +29,7 @@ function uploadImage() {
         }
       )
     )
-    .pipe(vinylPaths(del))
+    .pipe(vinylPaths(del));
 }
 
 /**
@@ -55,9 +52,8 @@ function uploadFile() {
         }
       )
     )
-    .pipe(vinylPaths(del))
+    .pipe(vinylPaths(del));
 }
-
 
 /**
  * Deletes working directories after uploading is complete

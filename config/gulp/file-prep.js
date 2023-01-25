@@ -18,11 +18,14 @@ const fileExtensions = [
 ];
 
 const allExtensions = [...imageExtensions, ...fileExtensions];
-const directoryExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG,pdf,PDF,doc,DOC,docx,DOCX,ppt,PPT,pptm,PPTM,pptx,PPTX,xls,XLS,xlsx,XLSX}`;
+// removes . separator to read jpg,png,jpeg...
+const extensionsString = allExtensions
+  .map((extension) => extension.replace(".", ""))
+  .join(","); 
+const extensionsStringWrap = `{${extensionsString}}`;
 
 const imageRegex = /(png|jpg|jpeg)/;
 const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
-
 
 /**
  * Object containing working folder paths used for lifecycle steps of uploading
@@ -54,6 +57,7 @@ function fileTidy(done) {
   fs.readdir(paths.uploads, (err, files) => {
     // process.stdout.write(files.length.toString() + "\n");
     for (var file of files) {
+      // checks for .pdf, .png
       if (allExtensions.includes(path.extname(file))) {
         // creates new normalized file name
         newfileName = cleanFileName(file);
@@ -63,32 +67,30 @@ function fileTidy(done) {
         if (filetype === "image") createDir(paths[filetype].processed, 3);
         // copies uploaded file to /to-process with new normalized name
         fs.renameSync(
-          paths.uploads + "/" + file,
-          paths[filetype].toProcess + "/" + newfileName
+          `${paths.uploads}/${file}`,
+          `${paths[filetype].toProcess}/${newfileName}`
         );
       }
     }
     if (err) {
       process.output.write(
-        "Error cleaning and copying file [" + file + "]\n",
-        "Error message: " + err.message
+        `Error cleaning and copying file [${file}]
+         Error message: ${err.message}`
       );
     }
   });
   done();
 }
 
-
-
 /**
  * creates the originals and to-process directories for both files and images
  * ./content/uploads/_working-images/to-process";
  * ./content/uploads/_working-images/processed";
  * @param {string} directoryPath - path of directory to create
- * @param {number} foldersDeep - depth of directory relative to base project 
+ * @param {number} foldersDeep - depth of directory relative to base project
  */
 function createDir(directoryPath, foldersDeep) {
-  var dp = filePaths.base;
+  var uploadsDirectory = filePaths.base;
 
   //if this directory does not exist, create it
   if (!fs.existsSync(directoryPath)) {
@@ -97,15 +99,14 @@ function createDir(directoryPath, foldersDeep) {
     //create parent directories first
     for (let i = 0; i < subdir.length; i++) {
       for (let j = i; j <= i; j++) {
-        dp = dp + subdir[j] + "/";
-        console.log("i: " + i + " , j: " + j + "\n" + dp);
+        uploadsDirectory = uploadsDirectory + subdir[j] + "/";
         //check if subfolder exists
-        if (fs.existsSync(dp)) {
+        if (fs.existsSync(uploadsDirectory)) {
           continue;
         }
         // create folder
         else {
-          fs.mkdirSync(dp, (err) => {
+          fs.mkdirSync(uploadsDirectory, (err) => {
             "Error creating subdirectory [" + subdir[i] + "]\n",
               "Error message: " + err.message;
           });
@@ -128,7 +129,7 @@ function fileType(extension) {
 /**
  * Normalizes filename by removing unnecessary characters
  * @param {string} origfilename - filename of original uploaded file
- * @example 
+ * @example
  * File Name.pdf returns file-name.pdf
  * @returns filename in string format
  */
@@ -154,47 +155,25 @@ function cleanInbox() {
   return del([
     "content/uploads/_inbox/**",
     "!content/uploads/_inbox",
-    "!content/uploads/_inbox/__add jpg and png files to this folder__",
+    "!content/uploads/_inbox/__add image or static files to this folder__",
   ]);
 }
-
 
 /**
  * Creates a timestamp for the yml file
  * @returns date in string format 2023-01-18 14:05:46 -0400
  */
-function get_curr_date() {
-  var d = new Date();
-  var month = d.getMonth() + 1;
-  var day = d.getDate();
-  var output =
-    d.getFullYear() +
-    "-" +
-    (month < 10 ? "0" : "") +
-    month +
-    "-" +
-    (day < 10 ? "0" : "") +
-    day +
-    " " +
-    (d.getHours() < 10 ? "0" : "") +
-    d.getHours() +
-    ":" +
-    (d.getMinutes() < 10 ? "0" : "") +
-    d.getMinutes() +
-    ":" +
-    (d.getSeconds() < 10 ? "0" : "") +
-    d.getSeconds() +
-    " -0400";
-  return output;
+function getCurrentDate() {
+  return new Date().toISOString();
 }
 
 /**
- * Writes a yml data file with meta information about the file and how to use in a shortcode
+ * Writes a YML file with meta information and how to use in a shortcode.
  * Creates two versions: one for images or files
  */
 function writeDataFile() {
-  return src(`content/uploads/**/to-process/*.${directoryExtensions}`).pipe(
-    tap(function foo(file) {
+  return src(`content/uploads/**/to-process/*.${extensionsStringWrap}`).pipe(
+    tap(function writeYMLFile(file) {
       var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
       var format = file.path.split(".").pop();
       var type = fileType(format);
@@ -204,7 +183,7 @@ function writeDataFile() {
       } else {
         var data = fileData(format, uid);
       }
-      fs.writeFile("data/images/" + uid + ".yml", data, function () {
+      fs.writeFile(`data/images/${uid}.yml`, data, function () {
         console.log("file is written");
       });
     })
@@ -215,25 +194,24 @@ function writeDataFile() {
  * Returns a stringified yaml file contents for a file
  * Takes the format (.pdf, .xls, etc...) and uid which is the name of the file
  * @param {String} format - extension filetype
- * @param {String} uid - the filename 
+ * @param {String} uid - the filename
  */
 function fileData(format, uid) {
   return `
   # This image is available at:
   # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
   # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)">}}
-  date     :  ${get_curr_date()}
+  date     :  ${getCurrentDate()}
   uid      :  ${uid}
   format   :  ${format}
   `;
 }
 
-
 /**
  * Returns a stringified yaml file contents for a file
  * Takes the format (.png, .jpg) and uid which is the name of the file
  * @param {String} format - extension filetype
- * @param {String} uid - the filename 
+ * @param {String} uid - the filename
  * @param {Number} dimensions - dimensions of the image
  */
 function imageData(format, uid, dimensions) {
@@ -241,7 +219,7 @@ function imageData(format, uid, dimensions) {
   # This image is available at:
   # https://s3.amazonaws.com/digitalgov/${uid}.${format}
   # Image shortcode: {{< img src=${uid} >}}'
-  date     :  ${get_curr_date()}
+  date     :  ${getCurrentDate()}
   uid      :  ${uid}
   width    :  ${dimensions.width}
   height   :  ${dimensions.height}

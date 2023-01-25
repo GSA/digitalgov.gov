@@ -1,10 +1,9 @@
 const { src, dest, parallel } = require("gulp");
 const del = require("del");
 const responsive = require("gulp-responsive");
-const imageExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG}`;
 
 /**
- * Retreives images from /to-process and creates responsive variants saved to /processed
+ * Retrieves images from /to-process and creates responsive variants saved to /processed
  * Creates 33 image variants of png/jpg and webp
  * Sizes: 200, 400, 600, 800, 1200, 1600, 2400
  * Creates black and white versions which are not needed
@@ -12,7 +11,7 @@ const imageExtensions = `{png,jpg,jpeg,JPG,JPEG,PNG}`;
  */
 function variants() {
   return (
-    src(`content/uploads/_working-images/to-process/*.${imageExtensions}`)
+    src(`content/uploads/_working-images/to-process/*`)
       // Create responsive variants
       .pipe(
         responsive(
@@ -264,7 +263,6 @@ function variants() {
           }
         )
       )
-      // .pipe(vinylPaths(del))
       .pipe(dest("content/uploads/_working-images/processed/"))
   );
 }
@@ -275,7 +273,7 @@ function variants() {
 function removeProcessedImage() {
   console.log("Removing processed images");
   return del([
-    `content/uploads/_working-images/to-process/*.${imageExtensions}`,
+    `content/uploads/_working-images/to-process/*}`,
   ]);
 }
 
