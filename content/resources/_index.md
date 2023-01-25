@@ -83,7 +83,7 @@ aliases:
     - [Mobile Code Sharing Catalog]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}})
 - [Mobile Development Strategies](https://digital.gov/resources/mobile-development-strategies/)
 - [Mobile User Experience Guidelines and Recommendations]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}})
-- [MobileGov Community of Practice]({{< ref "mobilegov.md" >}})
+- [MobileGov Community of Practice]({{< ref "/communities" >}})
 - [Sample Mobile SOW and Developer Qualifications]({{< ref "mobile-sow-and-developer-qualifications.md" >}})
 
 ## Multilingual

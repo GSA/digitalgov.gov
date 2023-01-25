@@ -25,7 +25,7 @@ topics:
   <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/featured-web-future-166678934-301-x-212.jpg">{{< legacy-img src="2014/03/featured-web-future-166678934-301-x-212.jpg" alt="featured web future 166678934 301 x 212" >}}</a>In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted.
 </p>
 
-That’s the theme from the responses we got from our [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") members when we asked them to predict the effect mobile would have on the Web over the next 25 years.
+That’s the theme from the responses we got from our [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile") members when we asked them to predict the effect mobile would have on the Web over the next 25 years.
 
 While no one claimed to have the exact answer, most members described a future state where the Web was pervasive, not just tied to your computer or smartphone, but interacting with anything and everything.
 
@@ -49,8 +49,6 @@ There are already efforts in the federal government to start thinking about cont
 
 But this is just a start. Government’s thinking needs not only to be mobile first, but also needs to move “up the stack” and consider how content and data can be structured and available for anytime, anywhere, anything interaction. <a style="line-height: 1.5em" href="{{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}">Content syndication</a> efforts and the government-wide <a style="line-height: 1.5em" href="{{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}">open content modeling working group</a> are examples of early shifts toward this thinking.
 
-There is a LOT more thinking and doing to be done. Help build toward this anytime, anywhere, anything future by getting involved with the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") or one of [our other communities]({{< ref "/communities" >}} "Communities").
+There is a LOT more thinking and doing to be done. Help build toward this anytime, anywhere, anything future by getting involved with the [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile") or one of [our other communities]({{< ref "/communities" >}} "Communities").
 
 See our post on the 25th anniversary of the Web: [In the Beginning…of Web in Federal Government]({{< ref "2014-03-12-in-the-beginning-of-web-in-federal-government.md" >}} "In the Beginning…of Web in Federal Government").
-
- 

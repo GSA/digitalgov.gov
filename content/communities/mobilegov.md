@@ -7,8 +7,7 @@ date: 2013-11-21 2:30:00 -0500
 title: "Mobile"
 deck: "Working to implement solutions for making mobile technologies better in government"
 summary: "This community is no longer active."
-layout: archived
-archive_date: 2021-12-10
+expirydate: 2021-12-10
 
 # see all topics at https://digital.gov/topics
 topics:

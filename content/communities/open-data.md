@@ -33,6 +33,7 @@ community_list:
     subscribe_email_body: "Subscribe Open-Data"
     members: 925
     emails_per_week: 1
+    blurb: "Open Data community members"
 
 ---
 

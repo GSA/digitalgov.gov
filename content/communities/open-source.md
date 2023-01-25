@@ -9,8 +9,7 @@ deck: "A federal government community interested in source code and open source 
 
 summary: "This community is no longer active."
 # set date archived. page will not publish if after date
-layout: archived
-archive_date: 2022-12-16
+expirydate: 2022-12-16
 
 # see all topics at https://digital.gov/topics
 topics:
