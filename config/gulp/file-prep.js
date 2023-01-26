@@ -22,7 +22,6 @@ const allExtensions = [...imageExtensions, ...fileExtensions];
 const extensionsString = allExtensions
   .map((extension) => extension.replace(".", ""))
   .join(","); 
-const extensionsStringWrap = `{${extensionsString}}`;
 
 const imageRegex = /(png|jpg|jpeg)/;
 const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
@@ -30,7 +29,7 @@ const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
 /**
  * Object containing working folder paths used for lifecycle steps of uploading
  * to-process contains the normalized filename, static files are upload to s3 from here
- * processed contains responsive variants that are are uploaded to s3
+ * processed contains responsive letiants that are are uploaded to s3
  */
 const filePaths = {
   base: "content/uploads/",
@@ -50,13 +49,13 @@ const filePaths = {
  * @param {callback} done - gulp call function that is called to end the task
  */
 function fileTidy(done) {
-  var newfileName = "";
-  var filetype = "";
-  var paths = filePaths;
+  let newfileName = "";
+  let filetype = "";
+  let paths = filePaths;
 
   fs.readdir(paths.uploads, (err, files) => {
     // process.stdout.write(files.length.toString() + "\n");
-    for (var file of files) {
+    for (let file of files) {
       // checks for .pdf, .png
       if (allExtensions.includes(path.extname(file))) {
         // creates new normalized file name
@@ -90,12 +89,12 @@ function fileTidy(done) {
  * @param {number} foldersDeep - depth of directory relative to base project
  */
 function createDir(directoryPath, foldersDeep) {
-  var uploadsDirectory = filePaths.base;
+  let uploadsDirectory = filePaths.base;
 
   //if this directory does not exist, create it
   if (!fs.existsSync(directoryPath)) {
     //split directory folders
-    var subdir = directoryPath.split("/").slice(foldersDeep);
+    let subdir = directoryPath.split("/").slice(foldersDeep);
     //create parent directories first
     for (let i = 0; i < subdir.length; i++) {
       for (let j = i; j <= i; j++) {
@@ -162,9 +161,32 @@ function cleanInbox() {
 /**
  * Creates a timestamp for the yml file
  * @returns date in string format 2023-01-18 14:05:46 -0400
+ * Date is displayed on https://digital.gov/images/
+ * TODO: Refactor into more human readable format (Dec 22, 2022, ET at 04:26 PM ET)
  */
 function getCurrentDate() {
-  return new Date().toISOString();
+  let d = new Date();
+  let month = d.getMonth() + 1;
+  let day = d.getDate();
+  let output =
+    d.getFullYear() +
+    "-" +
+    (month < 10 ? "0" : "") +
+    month +
+    "-" +
+    (day < 10 ? "0" : "") +
+    day +
+    " " +
+    (d.getHours() < 10 ? "0" : "") +
+    d.getHours() +
+    ":" +
+    (d.getMinutes() < 10 ? "0" : "") +
+    d.getMinutes() +
+    ":" +
+    (d.getSeconds() < 10 ? "0" : "") +
+    d.getSeconds() +
+    " -0400";
+  return output;
 }
 
 /**
@@ -172,16 +194,16 @@ function getCurrentDate() {
  * Creates two versions: one for images or files
  */
 function writeDataFile() {
-  return src(`content/uploads/**/to-process/*.${extensionsStringWrap}`).pipe(
+  return src(`content/uploads/**/to-process/*.{${extensionsString}}`).pipe(
     tap(function writeYMLFile(file) {
-      var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
-      var format = file.path.split(".").pop();
-      var type = fileType(format);
+      let uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
+      let format = file.path.split(".").pop();
+      let type = fileType(format);
       if (type === "image") {
-        var dimensions = sizeOf(file.path);
-        var data = imageData(format, uid, dimensions);
+        let dimensions = sizeOf(file.path);
+        let data = imageData(format, uid, dimensions);
       } else {
-        var data = fileData(format, uid);
+        let data = fileData(format, uid);
       }
       fs.writeFile(`data/images/${uid}.yml`, data, function () {
         console.log("file is written");
@@ -198,7 +220,6 @@ function writeDataFile() {
  */
 function fileData(format, uid) {
   return `
-  # This image is available at:
   # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
   # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)">}}
   date     :  ${getCurrentDate()}
@@ -216,7 +237,6 @@ function fileData(format, uid) {
  */
 function imageData(format, uid, dimensions) {
   return `
-  # This image is available at:
   # https://s3.amazonaws.com/digitalgov/${uid}.${format}
   # Image shortcode: {{< img src=${uid} >}}'
   date     :  ${getCurrentDate()}
