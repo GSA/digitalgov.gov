@@ -148,7 +148,7 @@ function cleanFileName(origfilename) {
 
 /**
  * removes files in content/images/_inbox directories
- * keeps _inbox/__add jpg and png files to this folder__
+ * keeps _inbox/__add image or static files to this folder__
  */
 function cleanInbox() {
   return del([
