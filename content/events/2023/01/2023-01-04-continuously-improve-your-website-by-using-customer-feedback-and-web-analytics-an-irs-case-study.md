@@ -23,6 +23,9 @@ date: 2023-01-25 13:00:00 -0500
 event_platform: zoom
 primary_image: 2023-jan-irs-event-title-card
 ---
+
+{{< asset-static file="2023-jan-irs-free-file-presentation.pptx" label="View the slides (PowerPoint presentation, 4.1 MB, 31 pages)" >}}
+
 Join user experience gurus from the Internal Revenue Service as they share how they collect user feedback and use web analytics to improve Free File, one of the IRS’s most widely used applications.
 
 In this session, you’ll learn how to:
