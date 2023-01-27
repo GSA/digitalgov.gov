@@ -1,5 +1,6 @@
 ---
 title: "Topics"
-summary: "Click on a topic below to view related blogs and resources."
+deck: "Click on a topic below to view related blogs and resources."
+summary: "List of topics on Digital.gov."
 
 ---
