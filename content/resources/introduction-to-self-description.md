@@ -9,11 +9,6 @@ topics:
   - best-practices
   - presentations
 
-# See all authors at https://digital.gov/authors
-authors:
-  - jia-gu
-  - justen-proctor
-
 slug: introduction-to-self-description
 
 primary_image: video-conference-call-kateryna-onyshchuk-istock-getty-images-1314080931
