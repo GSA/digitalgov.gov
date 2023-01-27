@@ -71,10 +71,12 @@ jobs:
             - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
       - run:
           name: Commit to GitHub
+          # add yml files in data/ for both images and files
+          # TODO: refactor to data/uploads/images|files
           command: |
             git config user.email "digitalgov@gsa.gov"
             git config user.name "CircleCI"
-            git add content/uploads/_inbox data static/img/proxy
+            git add content/uploads/_inbox data/images data/files static/img/proxy
             git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
 
 workflows:
