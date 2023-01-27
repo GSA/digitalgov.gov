@@ -129,8 +129,6 @@ function formatDate(timezone_date) {
     day: "numeric",
     month: "short",
     year: "numeric",
-    timeZone: "America/New_York",
-    timeZoneName: "shortGeneric",
   };
 
   const timeOptions = {
