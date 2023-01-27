@@ -192,20 +192,22 @@ function getCurrentDate() {
 /**
  * Writes a YML file with meta information and how to use in a shortcode.
  * Creates two versions: one for images or files
+ * Saves YML files to data/image or data/files
  */
 function writeDataFile() {
   return src(`content/uploads/**/to-process/*.{${extensionsString}}`).pipe(
     tap(function writeYMLFile(file) {
+      let data;
       let uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
       let format = file.path.split(".").pop();
       let type = fileType(format);
       if (type === "image") {
         let dimensions = sizeOf(file.path);
-        let data = imageData(format, uid, dimensions);
+        data = imageData(format, uid, dimensions);
       } else {
-        let data = fileData(format, uid);
+        data = fileData(format, uid);
       }
-      fs.writeFile(`data/images/${uid}.yml`, data, function () {
+      fs.writeFile(`data/${type}s/${uid}.yml`, data, function () {
         console.log("file is written");
       });
     })
