@@ -132,7 +132,7 @@ function formatDate(timezone_date) {
   };
 
   const timeOptions = {
-    hour: "2-digit",
+    hour: "numeric",
     minute: "2-digit",
     timeZone: "America/New_York",
     timeZoneName: "shortGeneric",
