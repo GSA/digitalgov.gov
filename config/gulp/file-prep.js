@@ -1,0 +1,255 @@
+const { src, series } = require("gulp");
+const del = require("del");
+const tap = require("gulp-tap");
+const sizeOf = require("image-size");
+const fs = require("fs");
+const path = require("path");
+
+const imageExtensions = [".jpg", ".png", ".jpeg"];
+const fileExtensions = [
+  ".pdf",
+  ".doc",
+  ".docx",
+  ".ppt",
+  ".pptm",
+  ".pptx",
+  ".xls",
+  ".xlsx",
+];
+
+const allExtensions = [...imageExtensions, ...fileExtensions];
+// removes . separator to read jpg,png,jpeg...
+const extensionsString = allExtensions
+  .map((extension) => extension.replace(".", ""))
+  .join(","); 
+
+const imageRegex = /(png|jpg|jpeg)/;
+const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
+
+/**
+ * Object containing working folder paths used for lifecycle steps of uploading
+ * to-process contains the normalized filename, static files are upload to s3 from here
+ * processed contains responsive letiants that are are uploaded to s3
+ */
+const filePaths = {
+  base: "content/uploads/",
+  uploads: "./content/uploads/_inbox",
+  image: {
+    toProcess: "./content/uploads/_working-images/to-process",
+    processed: "./content/uploads/_working-images/processed",
+  },
+  file: {
+    toProcess: "./content/uploads/_working-files/to-process",
+  },
+};
+
+/**
+ * Creates directories for each step of the file uploading process
+ * These directories are removed when a file has been uploaded
+ * @param {callback} done - gulp call function that is called to end the task
+ */
+function fileTidy(done) {
+  let newfileName = "";
+  let filetype = "";
+  let paths = filePaths;
+
+  fs.readdir(paths.uploads, (err, files) => {
+    // process.stdout.write(files.length.toString() + "\n");
+    for (let file of files) {
+      // checks for .pdf, .png
+      if (allExtensions.includes(path.extname(file))) {
+        // creates new normalized file name
+        newfileName = cleanFileName(file);
+        filetype = fileType(file);
+        // create working directories if they do not exist
+        createDir(paths[filetype].toProcess, 3);
+        if (filetype === "image") createDir(paths[filetype].processed, 3);
+        // copies uploaded file to /to-process with new normalized name
+        fs.renameSync(
+          `${paths.uploads}/${file}`,
+          `${paths[filetype].toProcess}/${newfileName}`
+        );
+      }
+    }
+    if (err) {
+      process.output.write(
+        `Error cleaning and copying file [${file}]
+         Error message: ${err.message}`
+      );
+    }
+  });
+  done();
+}
+
+/**
+ * creates the originals and to-process directories for both files and images
+ * ./content/uploads/_working-images/to-process";
+ * ./content/uploads/_working-images/processed";
+ * @param {string} directoryPath - path of directory to create
+ * @param {number} foldersDeep - depth of directory relative to base project
+ */
+function createDir(directoryPath, foldersDeep) {
+  let uploadsDirectory = filePaths.base;
+
+  //if this directory does not exist, create it
+  if (!fs.existsSync(directoryPath)) {
+    //split directory folders
+    let subdir = directoryPath.split("/").slice(foldersDeep);
+    //create parent directories first
+    for (let i = 0; i < subdir.length; i++) {
+      for (let j = i; j <= i; j++) {
+        uploadsDirectory = uploadsDirectory + subdir[j] + "/";
+        //check if subfolder exists
+        if (fs.existsSync(uploadsDirectory)) {
+          continue;
+        }
+        // create folder
+        else {
+          fs.mkdirSync(uploadsDirectory, (err) => {
+            "Error creating subdirectory [" + subdir[i] + "]\n",
+              "Error message: " + err.message;
+          });
+        }
+      }
+    }
+  }
+}
+
+/**
+ * Checks the file extension and returns a string value of file or image
+ * @param {String} extension - file name extension (.pdf, .png, etc...)
+ * @returns a string value of image or file
+ */
+function fileType(extension) {
+  if (fileRegex.test(extension)) return "file";
+  if (imageRegex.test(extension)) return "image";
+}
+
+/**
+ * Normalizes filename by removing unnecessary characters
+ * @param {string} origfilename - filename of original uploaded file
+ * @example
+ * File Name.pdf returns file-name.pdf
+ * @returns filename in string format
+ */
+function cleanFileName(origfilename) {
+  return origfilename
+    .toLowerCase()
+    .replace(/[ &$_#!?.]/g, "-")
+    .replace(/-+/g, "-") // multiple dashes to a single dash
+    .replace(/-(png|jpg|jpeg|pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/g, ".$1") // remove trailing dashes
+    .replace(/\.jpeg$/g, ".jpg") // .jpeg to .jpg
+    .replace(/-\d{2,4}x\d{2,4}(?=\.jpg)/g, "") // strip trailing dimensions
+    .replace(/^\d{2,4}-*x-*\d{2,4}-*/g, "") // strip leading dimensions
+    .replace(/-\./g, ".") // remove leading dashes
+    .replace(/^-/g, "") // removes dashes from start of filename
+    .toLowerCase();
+}
+
+/**
+ * removes files in content/images/_inbox directories
+ * keeps _inbox/__add image or static files to this folder__
+ */
+function cleanInbox() {
+  return del([
+    "content/uploads/_inbox/**",
+    "!content/uploads/_inbox",
+    "!content/uploads/_inbox/__add image or static files to this folder__",
+  ]);
+}
+
+/**
+ * Creates a timestamp for the yml file
+ * @returns date in string format 2023-01-18 14:05:46 -0400
+ * Date is displayed on https://digital.gov/images/
+ * TODO: Refactor into more human readable format (Dec 22, 2022, ET at 04:26 PM ET)
+ */
+function getCurrentDate() {
+  let d = new Date();
+  let month = d.getMonth() + 1;
+  let day = d.getDate();
+  let output =
+    d.getFullYear() +
+    "-" +
+    (month < 10 ? "0" : "") +
+    month +
+    "-" +
+    (day < 10 ? "0" : "") +
+    day +
+    " " +
+    (d.getHours() < 10 ? "0" : "") +
+    d.getHours() +
+    ":" +
+    (d.getMinutes() < 10 ? "0" : "") +
+    d.getMinutes() +
+    ":" +
+    (d.getSeconds() < 10 ? "0" : "") +
+    d.getSeconds() +
+    " -0400";
+  return output;
+}
+
+/**
+ * Writes a YML file with meta information and how to use in a shortcode.
+ * Creates two versions: one for images or files
+ * Saves YML files to data/image or data/files
+ */
+function writeDataFile() {
+  return src(`content/uploads/**/to-process/*.{${extensionsString}}`).pipe(
+    tap(function writeYMLFile(file) {
+      let data;
+      let uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
+      let format = file.path.split(".").pop();
+      let type = fileType(format);
+      if (type === "image") {
+        let dimensions = sizeOf(file.path);
+        data = imageData(format, uid, dimensions);
+      } else {
+        data = fileData(format, uid);
+      }
+      fs.writeFile(`data/${type}s/${uid}.yml`, data, function () {
+        console.log("file is written");
+      });
+    })
+  );
+}
+
+/**
+ * Returns a stringified yaml file contents for a file
+ * Takes the format (.pdf, .xls, etc...) and uid which is the name of the file
+ * @param {String} format - extension filetype
+ * @param {String} uid - the filename
+ */
+function fileData(format, uid) {
+  return `
+  # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
+  # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)">}}
+  date     :  ${getCurrentDate()}
+  uid      :  ${uid}
+  format   :  ${format}
+  `;
+}
+
+/**
+ * Returns a stringified yaml file contents for a file
+ * Takes the format (.png, .jpg) and uid which is the name of the file
+ * @param {String} format - extension filetype
+ * @param {String} uid - the filename
+ * @param {Number} dimensions - dimensions of the image
+ */
+function imageData(format, uid, dimensions) {
+  return `
+  # https://s3.amazonaws.com/digitalgov/${uid}.${format}
+  # Image shortcode: {{< img src=${uid} >}}'
+  date     :  ${getCurrentDate()}
+  uid      :  ${uid}
+  width    :  ${dimensions.width}
+  height   :  ${dimensions.height}
+  format   :  ${format}
+  credit   :  
+  caption  :  
+  alt      :
+  `;
+}
+
+exports.do = series(fileTidy, cleanInbox, writeDataFile);

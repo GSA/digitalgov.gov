@@ -24,8 +24,8 @@ publish_mode: editorial_workflow
 local_backend:
   url: http://localhost:8081/api/v1
 
-# Media / Images
-media_folder: "/content/images/_inbox"
+# Media / Images and Static files
+media_folder: "/content/uploads/_inbox"
 
 # Misc
 slug:
@@ -955,6 +955,24 @@ collections:
           [e.g. /path/to/new/page]
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
+
+
+  # FILE UPLOAD =======================
+  - <<: *defaults
+    name: "file-upload"
+    label: "File upload"
+    description: "Upload PDF, Excel, PowerPoint or Word doc"
+    folder: "content/images/_inbox"
+    identifier_field: file
+    publish: true
+    fields:
+      - label: "File"
+        name: "file"
+        widget: "file"
+        pattern: ['.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$', "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m"]
+        media_library:
+          config:
+            multiple: true
 
   # IMAGE UPLOAD =======================
   - <<: *defaults

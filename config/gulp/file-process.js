@@ -1,9 +1,17 @@
 const { src, dest, parallel } = require("gulp");
+const del = require("del");
 const responsive = require("gulp-responsive");
 
+/**
+ * Retrieves images from /to-process and creates responsive variants saved to /processed
+ * Creates 33 image variants of png/jpg and webp
+ * Sizes: 200, 400, 600, 800, 1200, 1600, 2400
+ * Creates black and white versions which are not needed
+ * TODO: Needs to refactor this to create smaller set of variants and options
+ */
 function variants() {
   return (
-    src("content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}")
+    src(`content/uploads/_working-images/to-process/*`)
       // Create responsive variants
       .pipe(
         responsive(
@@ -255,39 +263,18 @@ function variants() {
           }
         )
       )
-      // .pipe(vinylPaths(del))
-      .pipe(dest("content/images/_working/processed/"))
+      .pipe(dest("content/uploads/_working-images/processed/"))
   );
 }
 
-function proxy() {
-  return src("content/images/_working/originals/*.{png,jpg}")
-    .pipe(
-      responsive(
-        {
-          "*": {
-            rename: {
-              suffix: "",
-              extname: ".jpg",
-            },
-            grayscale: true,
-            quality: 1,
-            flatten: true,
-            blur: true,
-          },
-        },
-        {
-          // Global configuration for all images
-          progressive: true,
-          withMetadata: false,
-          errorOnUnusedConfig: false,
-          skipOnEnlargement: true,
-          errorOnEnlargement: false,
-          silent: true,
-        }
-      )
-    )
-    .pipe(dest("static/img/proxy/"));
+/**
+ * Removes the /to-process temporary working folder after variants are created
+ */
+function removeProcessedImage() {
+  console.log("Removing processed images");
+  return del([
+    `content/uploads/_working-images/to-process/*}`,
+  ]);
 }
 
-exports.do = parallel(variants, proxy);
+exports.do = parallel(variants, removeProcessedImage);
