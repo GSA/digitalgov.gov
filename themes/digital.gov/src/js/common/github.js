@@ -138,8 +138,7 @@ function formatDate(timezone_date) {
     timeZoneName: "shortGeneric",
   };
 
-  const ouput_date = input_date.toLocaleDateString(undefined, dateOptions);
-  const output_time = input_date.toLocaleTimeString("en-US", timeOptions);
-
-  return `${ouput_date} at ${output_time}`;
+  const output_date = input_date.toLocaleDateString(undefined, dateOptions);
+  const output_time = input_date.toLocaleTimeString("en-US", timeOptions).replace('AM', 'a.m.,').replace('PM', 'p.m.,');
+  return `${output_date} at ${output_time}`;
 }
