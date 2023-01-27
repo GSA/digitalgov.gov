@@ -22,22 +22,23 @@ topics:
   - digital-accountability-and-transparency-act
   - event
   - FAS
-  - Federal Acquisition Service
+  - federal-acquisition-service
   - fedramp
   - gsa
   - HHS
   - innovation
   - OCSIT
-  - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
+  - office-of-citizen-services-and-innovative-technology
+  - office-of-products-and-programs
   - OPP
   - summit
-  - Technology Industry Day
+  - technology-industry-day
   - technology-transformation-services
   - tts
   - us-department-of-the-treasury
   - us-general-services-administration
   - united-states-department-of-health-and-human-services
+
 ---
 
 The [General Services Administration](http://www.gsa.gov/) (GSA) is known for managing federal real estate and leveraging the government’s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government. The [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) builds, buys and shares tech to help federal agencies achieve their mission. They create better services for citizens everyday. TTS works closely with the [Federal Acquisition Service](http://www.gsa.gov/portal/content/105080) (FAS) and the GSA CIO to be first movers in and apply agile technology in a meaningful way. {{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}} 
