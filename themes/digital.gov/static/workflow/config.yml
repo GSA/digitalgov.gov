@@ -24,8 +24,8 @@ publish_mode: editorial_workflow
 local_backend:
   url: http://localhost:8081/api/v1
 
-# Media / Images
-media_folder: "/content/images/_inbox"
+# Media / Images and Static files
+media_folder: "/content/uploads/_inbox"
 
 # Misc
 slug:

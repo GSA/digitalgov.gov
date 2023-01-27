@@ -19,7 +19,7 @@ topics:
   - us-national-park-service
 ---
 
-{{< legacy-img src="2014/09/600-x-418-Mobile-phone-and-gears-Application-development-concept-alex-mit-iStock-Thinkstock-453629635.jpg" alt="Mobile phone and gears; application development concept" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-418-Mobile-phone-and-gears-Application-development-concept-alex-mit-iStock-Thinkstock-453629635.jpg" alt="Mobile phone and gears; application development concept" caption="" >}}
 
 Imagine open source code, publicly available to share, that jump starts your agency’s mobile development efforts.
 
@@ -27,7 +27,7 @@ Pretty neat idea, huh? Well last year it [became a reality]({{< ref "2013-05-13-
 
 This idea was the brainchild of Mike Pulsifer, who, as the Technical Manager for the Division of Enterprise Communications, Office of Public Affairs, at the U.S. Department of Labor (DOL), is responsible for developing and publishing the DOL website and mobile applications.
 
-Mike got involved with the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") and responded to a request for ideas to create a government-wide mobile application development program.
+Mike got involved with the [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile") and responded to a request for ideas to create a government-wide mobile application development program.
 
 He championed, and ultimately volunteered, to lead the development of a [catalog of open source mobile app code]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}} "Federal Mobile Code Sharing Catalog Is Here") for government developers through the auspices of the [Open Opportunities](https://openopps.digitalgov.gov/) program, a task-based network that leverages government innovators to help agencies deliver government information and services.
 

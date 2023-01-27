@@ -129,19 +129,16 @@ function formatDate(timezone_date) {
     day: "numeric",
     month: "short",
     year: "numeric",
-    timeZone: "America/New_York",
-    timeZoneName: "shortGeneric",
   };
 
   const timeOptions = {
-    hour: "2-digit",
+    hour: "numeric",
     minute: "2-digit",
     timeZone: "America/New_York",
     timeZoneName: "shortGeneric",
   };
 
-  const ouput_date = input_date.toLocaleDateString(undefined, dateOptions);
-  const output_time = input_date.toLocaleTimeString("en-US", timeOptions);
-
-  return `${ouput_date} at ${output_time}`;
+  const output_date = input_date.toLocaleDateString(undefined, dateOptions);
+  const output_time = input_date.toLocaleTimeString("en-US", timeOptions).replace('AM', 'a.m.,').replace('PM', 'p.m.,');
+  return `${output_date} at ${output_time}`;
 }

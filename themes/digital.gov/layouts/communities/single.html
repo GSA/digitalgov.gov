@@ -1,8 +1,7 @@
 {{ define "content" }}
 
-<main role="main" id="main-content" class="page">
+<main role="main" id="main-content" class="page main-content usa-prose">
   <article>
-
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
@@ -33,133 +32,116 @@
     <section>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-4">
-          <div class="grid-col-12 tablet-lg:grid-col-4">
 
-            {{- if .Params.community_list -}}
-            <section class="community-info {{ .Params.community_type -}}">
+          <div class="grid-col-12 tablet-lg:grid-col-9">
 
-              {{- range $i, $e := .Params.community_list -}}
-                <div class="join-box">
+            {{/* Summary */}}
+            {{- if .Params.summary -}}
+            <div class="content">
+              <p>{{- .Params.summary | markdownify -}}</p>
 
-                  <div class="type">
-                    {{/*
-                      Checks to see if the community is public or govt only and sets the "terms" of the community, with an option to override the terms for each community by setting it in the front matter
-                    */}}
+              {{- if .Params.community_list -}}
+              <section class="join-community-form">
+                <h4 class="join-community-form__header">
+                  <svg class="join-community-form__header-svg usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
+                    <use xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"></use>
+                  </svg>
+                  Connect with us
+                </h4>
 
-                    {{/* PUBLIC */}}
-                    {{- if eq $e.type "public" -}}
-                      {{/* Checking to see if community terms are defined */}}
-                      {{- if $e.terms -}}
-                      <p class="terms">{{- $e.terms | markdownify -}}</p>
-                      {{- else -}}
-                      <p class="terms">Open to the public.</p>
+                {{- range $i, $e := .Params.community_list -}}
+                  <div class="join-community-form__body">
+
+                    <div class="join-community-form__body-eligibility">
+                      {{/*
+                        Checks to see if the community is public or govt only and sets the "terms" of the community, with an option to override the terms for each community by setting it in the front matter
+                      */}}
+
+                      {{/* PUBLIC */}}
+                      {{- if eq $e.type "public" -}}
+                        {{/* Checking to see if community terms are defined */}}
+                        {{- if $e.terms -}}
+                        <p>{{- $e.terms | markdownify -}}</p>
+                        {{- else -}}
+                        <p>Open to the public.</p>
+                        {{- end -}}
                       {{- end -}}
-                    {{- end -}}
 
-                    {{/* GOVT */}}
-                    {{- if eq $e.type "government" -}}
-                      {{- if $e.terms -}}
-                      <p class="terms">{{- $e.terms | markdownify -}}</p>
-                      {{- else -}}
-                      <p class="terms">Open to anyone with a .gov or .mil email address.</p>
+                      {{/* GOVT */}}
+                      {{- if eq $e.type "government" -}}
+                        {{- if $e.terms -}}
+                        <p>{{- $e.terms | markdownify -}}</p>
+                        {{- else -}}
+                        <p>Open to anyone with a .gov or .mil email address.</p>
+                        {{- end -}}
                       {{- end -}}
-                    {{- end -}}
 
-                    {{/* GOVT_ONLY */}}
-                    {{- if eq $e.type "government_only" -}}
-                      {{- if $e.terms -}}
-                      <p class="terms">{{- $e.terms | markdownify -}}</p>
-                      {{- else -}}
-                      <p class="terms">Open to any government employee.</p>
+                      {{/* GOVT_ONLY */}}
+                      {{- if eq $e.type "government_only" -}}
+                        {{- if $e.terms -}}
+                        <p>{{- $e.terms | markdownify -}}</p>
+                        {{- else -}}
+                        <p>Open to any government employee.</p>
+                        {{- end -}}
                       {{- end -}}
-                    {{- end -}}
+                    </div>
+
+                    <div class="join-community-form__body-email">
+                      {{/*
+                        Community JOIN types ---
+                        - Listerv via an email (most common)
+                        - Listerv via a form
+                        - Google Group
+                        - Slack
+                      */}}
+                      {{/* Listserv Platforms without form sign-up option */}}
+                      {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
+                        {{- partial "core/community-join-without-form.html" (dict "context" . "e" $e) -}}
+                      {{- end -}}
+
+                      {{/* Google Group platforms */}}
+                      {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
+                        {{- partial "core/community-join-google-group.html" (dict "context" . "e" $e) -}}
+                      {{- end -}}
+
+                      {{/* Slack platforms */}}
+                      {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
+                        {{- partial "core/community-join-slack.html" (dict "context" . "e" $e) -}}
+                      {{- end -}}
+
+                    </div>
                   </div>
+                {{- end -}}
 
-                  <div class="join-box-wrapper">
-                    {{/*
-                      Community JOIN types ---
-                      - Listerv via an email (most common)
-                      - Listerv via a form
-                      - Google Group
-                      - Slack
-                    */}}
-                    {{/* Listserv Platforms without form sign-up option */}}
-                    {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
-                      {{- partial "core/community-join-without-form.html" (dict "context" . "e" $e) -}}
-                    {{- end -}}
-
-                    {{/* Listserv Platforms with form as sign-up option */}}
-                    {{- if and (eq $e.platform "listserv") ( $e.subscribe_form ) -}}
-                      {{- partial "core/community-join-with-form.html" (dict "context" . "e" $e) -}}
-                    {{- end -}}
-
-                    {{/* Google Group platforms */}}
-                    {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
-                      {{- partial "core/community-join-google-group.html" (dict "context" . "e" $e) -}}
-                    {{- end -}}
-
-                    {{/* Slack platforms */}}
-                    {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
-                      {{- partial "core/community-join-slack.html" (dict "context" . "e" $e) -}}
-                    {{- end -}}
-
-
-                    {{/*
-                      Community Members
-                      - These are updated manually in the front matter by going to the backend of the listserv platform and entering in the values one by one.
-                    */}}
-                    {{- if $e.members -}}
-                      <p class="members">
-                        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{ "uswds/img/sprite.svg#person" | relURL }}"></use>
-                        </svg>
-                        {{ $e.members }} members
-                        {{- if $e.emails_per_week }}
-                        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                          <use xlink:href="{{ "uswds/img/sprite.svg#mail" | relURL }}"></use>
-                        </svg>
-                        Avg. {{ $e.emails_per_week }} emails per week{{- end -}}
-                      </p>
-                    {{- end -}}
-
-
-                  </div>
-                </div>
+              </section>
               {{- end -}}
-
-              {{- if .Params.authors -}}
-              <div class="community_managers">
-                <h3>Community Managers</h3>
-                {{- partial "core/get_authors.html" . -}}
+              <div>
+                {{- .Content -}}
               </div>
-              {{- end -}}
-
-              <div class="community_admin">
-                <p><a href="{{- "/communities/manage-your-subscription" | relURL -}}" title="Manage your Listserv subscription">Manage your Listserv subscription</a></p>
-                <p><a href="{{- "/communities/manage-your-subscription/#access-the-listserv-archive" | relURL -}}" title="Access the Listserv archive">Access the Listserv archive</a></p>
+              
+              <div class="community_events">
+                {{- partial "core/get-upcomingevents.html" . -}}
               </div>
 
-            </section>
+              <div class="Community_conduct">
+                <h2 id="community-conduct">Community Conduct</h2>
+                {{- partial "core/community_pagefooter.html" . -}}
+                <br>
+              </div>
+              <div>
+                <br/>
+                {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
+              </div>
+
+
+            </div>
             {{- end -}}
+
           </div>
 
-          <div class="grid-col-12 tablet-lg:grid-col-8">
-            <div class="content">
-              {{- .Content -}}
-            </div>
-              <div class="community_events">
-              {{- partial "core/get-upcomingevents.html" . -}}
-            </div>
-
-            <div class="Community_conduct">
-              <h2 id="community-conduct">Community Conduct</h2>
-              {{- partial "core/community_pagefooter.html" . -}}
-              <br>
-            </div>
-            <div>
-              <br/>
-              {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
-             </div>
+          <div class="grid-col-12 tablet-lg:grid-col-3">
+            {{/* Table of contents */}}
+            {{- partial "core/toc.html" . -}}
           </div>
 
         </div>
@@ -167,5 +149,4 @@
     </section>
   </article>
 </main>
-
 {{ end }} {{/* end 'content' block */}}

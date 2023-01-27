@@ -2,16 +2,17 @@
 const { parallel, series, src, watch } = require("gulp");
 
 // Import task functions
-const img = {
-    prep: require("./config/gulp/img-prep"),
-    process: require("./config/gulp/img-process"),
-    upload: require("./config/gulp/img-upload"),
+// file tasks upload both images (png,jpg,jpeg) and static files (pdf, xls,...) to their respective s3 buckets
+const file = {
+    prep: require("./config/gulp/file-prep"),
+    process: require("./config/gulp/file-process"),
+    upload: require("./config/gulp/file-upload"),
   },
   scripts = require("./config/gulp/scripts"),
   styles = require("./config/gulp/styles");
 
-function watchImages() {
-  return series(img.prep.do, img.process.do, img.upload.do);
+function watchUploads() {
+  return series(file.prep.do, file.process.do, file.upload.do);
 }
 
 function gulpWatch() {
@@ -19,7 +20,7 @@ function gulpWatch() {
   watch(`${THEME_DIR}/scss/uswds/**/*.scss`, styles.buildSass);
   watch(`${THEME_DIR}/scss/new/**/*.scss`, styles.buildSass);
   watch(`${THEME_DIR}/js/**/*.js`, scripts.compile);
-  watch("./content/images/_inbox/*.*", watchImages());
+  watch("./content/uploads/_inbox/*.*", watchUploads());
 }
 
 // Define public tasks
@@ -29,6 +30,6 @@ exports.copyUswdsFonts = styles.copyUswdsFonts;
 exports.copyUswdsAssets = parallel(styles.copyUswdsImages, styles.copyUswdsJs, styles.copyUswdsFonts);
 exports.buildAssets = parallel(styles.buildSass, scripts.compile);
 exports.buildSass = styles.buildSass;
-exports.img = series(img.prep.do, img.process.do, img.upload.do);
+exports.upload = series(file.prep.do, file.process.do, file.upload.do);
 exports.watch = gulpWatch;
 exports.default = series(styles.buildSass, gulpWatch);

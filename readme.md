@@ -23,7 +23,7 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 
 | Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GSA/**digitalgov.gov**](https://github.com/GSA/digitalgov.gov)                               | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).|
+| [GSA/**digitalgov.gov**](https://github.com/GSA/digitalgov.gov)                               | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [cloud.pages.gov](https://cloud.gov/).|
 | [18F/**dns**](https://github.com/18F/dns)                              | DNS configuration for digital.gov domains managed by GSA TTS.|
 | [uswds/**uswds**](https://github.com/uswds/uswds)                              | This site is developed using the U.S. Web Design System v2, managed by GSA TTS.|
 
@@ -35,7 +35,7 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 | Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GSA/**digital.gov-design**](https://github.com/GSA/digital.gov-design)      | A collection of design assets used for the digital.gov platform.                                                          |
-| [GSA/**digitalgov-workflow**](https://github.com/GSA/digitalgov-workflow)                           | A tool for managing the digital.gov editorial workflow on GitHub.                                                                                                                                                                            |
+| [GSA/**digitalgov-workflow**](https://github.com/GSA/digitalgov-workflow)                           | A tool for managing the digital.gov editorial workflow on GitHub (**archived**).                                                                                                                                                                            |
 | [GSA/**redir**](https://github.com/GSA/redir)                   | A basic [Jekyll](https://jekyllrb.com/) template to use for temporary redirects.
 
 </details>
@@ -48,7 +48,7 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 
 - [Hugo](https://gohugo.io/documentation/) - The primary site engine that builds digital.gov code and content.
 - [Front Matter](https://gohugo.io/content-management/front-matter#readout) - The top of each page/post includes keywords within `---` tags. This is meta data that helps Hugo build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) - the design system used in digital.gov.
+- [U.S. Web Design System v3.0](https://designsystem.digital.gov) - the design system used in digital.gov.
 - [Gulp](https://gulpjs.com/) - the asset pipeline.
 
 ### Installation
@@ -112,7 +112,7 @@ NPM will run the following scripts:
 
 - `gulp env` — sets the environment variable to development (local builds only, not in Federalist)
 - `gulp` — builds and compresses all of the SCSS and JS files, and copies jquery and uswds js from `node_modules` and puts them in the `/dist/` folder.
-- `gulp Watch` — starts a watch task to look for changes in the SCSS and JS files
+- `gulp watch` — starts a watch task to look for changes in the SCSS and JS files
 - `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
 
 When Hugo is done building, you should see a success message like:
@@ -124,7 +124,7 @@ Press Ctrl+C to stop
 
 You may then view your local site in the browser at `http://localhost:1313/`.
 
-Local development is powered by BrowserSync, to allow rapid development through:
+Local development is powered by Gulp tasks to allow rapid development through:
 
 - A local development server at `http://localhost:1313/`.
 - Automatic CSS & JS updates without reloading the page
