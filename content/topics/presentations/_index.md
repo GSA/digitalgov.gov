@@ -15,7 +15,7 @@ summary: "Resources and guidance on how to create presentations for Digital.gov 
 # 0 -- hidden
 # 1 -- visible
 # 2 -- featured on the Resource page
-weight: 1
+weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
