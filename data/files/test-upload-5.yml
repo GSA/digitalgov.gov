@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/test-upload-5.pptm
+  # File shortcode: {{< asset-static file="test-upload-5.pptm" label="test-upload-5 (PDF, 4 pages, 2MB)">}}
+  date     :  2023-01-30 18:38:50 -0400
+  uid      :  test-upload-5
+  format   :  pptm
+  
