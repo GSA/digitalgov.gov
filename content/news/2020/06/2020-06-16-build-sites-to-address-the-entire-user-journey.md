@@ -118,7 +118,7 @@ At the beginning of each session, tell people how and when they can contribute, 
 
 ### Introduce mapping and prep for collaboration
 
-1.  Provide a simple example to introduce your participants to the concept and structure of a journey map. For example, describing the [process of going out for ice cream](https://digitalgov.s3.amazonaws.com/journey-map-getting-ice-cream.xlsx) (MS Excel, 5 KB, 1 sheet).  
+1.  Provide a simple example to introduce your participants to the concept and structure of a journey map. For example, describing the [process of going out for ice cream](https://digitalgov.s3.amazonaws.com/journey-map-getting-ice-cream.xlsx) (Excel spreadsheet, 5 KB, 1 sheet).  
     a.  Consider where the journey begins and ends. Break down the journey into phases and steps, being as high level as possible and include only the detail necessary for the journey to be understood.  
     
 

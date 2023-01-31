@@ -33,7 +33,7 @@ In the second part of our Analytics Case Study series, we'll address how to repo
 
 The goal of this webinar is to empower you with a real-world example about how to tie your metrics to your website mission, goals, and key performance indicators (KPIs). We will be joined by members of the [Federal Risk and Authorization Management Program](https://www.fedramp.gov/) (FedRAMP) team to hear their thoughts on their analytics strategy, pulling reporting, and how they plan to use the data to make future decisions about their site, fedramp.gov.
 
-{{< asset-static file="fedramp-analytics-part-two-final.pptx" label="View the slides (PowerPoint, 1.08 MB, 41 slides)" >}}
+{{< asset-static file="fedramp-analytics-part-two-final.pptx" label="View the slides (PowerPoint presentation, 1.08 MB, 41 slides)" >}}
 
 ## Speakers
 

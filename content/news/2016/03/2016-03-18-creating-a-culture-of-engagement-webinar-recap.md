@@ -22,7 +22,7 @@ topics:
 
 Employee engagement, evidenced by displays of dedication, persistence, effort and overall attachment to organization and mission, is a key factor in business success, but it can be a struggle for government organizations. Organizational leaders seeking to cultivate a culture of engagement need tangible examples of how to successfully move the needle in a positive direction. The annual Employee Viewpoint Survey (EVS) can provide agencies with a tangible way to measure employee engagement.
 
-{{< legacy-img src="2016/03/600-x-338-Creating-the-Employee-Experience-Big-Benefits.jpg" alt="The Creating the Employee Experience slide from the Cultivating a Culture of Engagement PowerPoint presentation. It gives 10 examples of things that make employees stay, such as feeling empowered, valued, and trusted, and when they are challenged, paid well, and receive mentoring." >}}
+{{< legacy-img src="2016/03/600-x-338-Creating-the-Employee-Experience-Big-Benefits.jpg" alt="The Creating the Employee Experience slide from the Cultivating a Culture of Engagement PowerPoint presentation presentation. It gives 10 examples of things that make employees stay, such as feeling empowered, valued, and trusted, and when they are challenged, paid well, and receive mentoring." >}}
 
 This webinar provides a deeper look at workforce engagement in the Government. Led by DOL thought leader Mika Johanna Cross, a panel of experts from OPM, HUD, DOL, and BEP take us through how organizations can change their culture one small step at a time. Justin Johnson of OPM identifies challenges and success factors, such as understanding engagement as a product, and the need to make it a personal interaction. Towanda Brooks shares HUD’s success through leadership strategy with the “Department of Opportunity “and the importance of building trust. BEP strategist Kristin McNally reviews their six-step information sharing strategy for successfully engaging a highly diverse workforce. Finally, Sydney Rose describes the DOL “Cinderella story” of Secretary Perez’ efforts to personally listen to the Department’s widely distributed workforce, taking DOL from 2nd-to-last to the top 10 best places to work in the federal government.
 
@@ -132,7 +132,7 @@ Kristin—Focus on their future vision, looking a decade ahead to imagine what t
   * Actively show people you are listening and taking action on their feedback &#8211; particularly if the changes may not be immediately visible to employees.
   * We’re all in this together!
 
-You can [view the presentation slides](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/03/Employee-Engagement-FINAL-FINAL-2_25_16.pptx) (PPT, 3.4 MB, 20 slides) or watch the webinar in its entirety to learn more about this topic.
+You can [view the presentation slides](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/03/Employee-Engagement-FINAL-FINAL-2_25_16.pptx) (PowerPoint presentation, 3.4 MB, 20 slides) or watch the webinar in its entirety to learn more about this topic.
 
 [youtube=http://www.youtube.com/watch?v=THvdtQQURZ0&w=600]
 

@@ -1,4 +1,4 @@
-jQuery(document).ready(function($) {
+jQuery(function ($) {
   function enable_edit_this(){
     $('*[data-edit-this]').each(function(){
       var filepath = $(this).data('edit-this');

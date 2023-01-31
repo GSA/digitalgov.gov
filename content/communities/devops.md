@@ -17,6 +17,8 @@ authors:
   - ken-kato
   - angeli-hawkins
 
+redirectto: https://github.com/18F/DevOps-Community-of-Practice/wiki/DevOps-Community-of-Practice
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -27,6 +29,7 @@ community_list:
     type: government
     subscribe_email: "devops-today-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe to DevOps"
+    blurb: "DevOps community members"
 ---
 
 The DevOps Community of Practice (CoP) provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.

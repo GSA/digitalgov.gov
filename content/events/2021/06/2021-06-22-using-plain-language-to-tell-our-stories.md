@@ -34,7 +34,7 @@ Being able to tell a story is a great talent. People who can tell stories can  
 
 Some of us don’t do it naturally; we have to learn it. In this session, Bethany Blakey will provide some templates and approaches for crafting simple stories to suit our purpose.
 
-{{< asset-static file="storytelling-for-storytellers-plain-event.pptx" label="View the slides (PowerPoint, 17.6 MB, 34 pages)" >}}
+{{< asset-static file="storytelling-for-storytellers-plain-event.pptx" label="View the slides (PowerPoint presentation, 17.6 MB, 34 pages)" >}}
 
 ## Speaker
 

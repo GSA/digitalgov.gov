@@ -24,7 +24,7 @@ primary_image: "10x-areas-of-focus"
 # Make it better ♥
 ---
 
-The 10x program is excited to announce that we selected {{< asset-static file="10x-FY20-Round-1-Selected-Projects.pdf" label="the next round of projects (PDF, 119 kb, 8 pages)" >}} to start at the Phase One Investigation level.
+The 10x program is excited to announce that we selected {{< asset-static file="10x-FY20-Round-1-Selected-Projects.pdf" label="the next round of projects (PDF, 119 KB, 8 pages)" >}} to start at the Phase One Investigation level.
 
 This round, we were absolutely blown away by the caliber and quantity of ideas submitted. This submission pool was by far the largest we’ve ever had - with over 300 ideas submitted! We received 220 new ideas, while 114 ideas were considered from prior rounds.
 

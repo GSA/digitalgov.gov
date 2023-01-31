@@ -81,4 +81,4 @@ Other potential options you can enable or change with querystring parameters in 
   * Adding search parameters (for internal search queries)
   * Embedded Youtube video metrics tracking
 
-You don’t need to be a code junkie to enable tracking of these additional features. You can take a look at the [implementation guide](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/QuickGuide-Sept-2015.pdf) for other parameters that you might want to add. If you’re interested in implementing DAP for your website, the guide provides instructions as well. For more information or if you have questions while implementing, [contact us](mailto:dap@support.digitalgov.gov)!
+You don’t need to be a code junkie to enable tracking of these additional features. You can take a look at the [implementation guide](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/QuickGuide-Sept-2015.pdf) (PDF, 239 KB, 7 pages) for other parameters that you might want to add. If you’re interested in implementing DAP for your website, the guide provides instructions as well. For more information or if you have questions while implementing, [contact us](mailto:dap@support.digitalgov.gov)!

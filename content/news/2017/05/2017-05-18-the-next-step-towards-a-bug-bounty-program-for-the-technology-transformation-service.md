@@ -17,6 +17,8 @@ topics:
   - technology-transformation-services
   - tts
   - united-states-department-of-defense
+  - our-work
+
 ---
 
 On May 9, we took a big step toward creating a bug bounty program for our agency by issuing an award to HackerOne for a Software-as-a-Service bug-reporting platform. The TTS Bug Bounty will be a security initiative to pay people for identifying bugs and security holes in software operated by the General Service Administration’s Technology Transformation Service (TTS), which includes 18F. This will be the first public bug bounty program run by a civilian agency, and follows in the footsteps of the [Hack the Pentagon](https://www.defense.gov/News/News-Releases/News-Release-View/Article/802929/defense-secretary-ash-carter-releases-hack-the-pentagon-results) and [Hack the Army](https://www.army.mil/article/178473/army_secretary_issues_challenge_with_hack_the_army_program) bug bounty programs run by the Department of Defense.
@@ -44,4 +46,6 @@ Security bug bounties provide many benefits to organizations that offer them:
   * Bring a broader base of expertise into play by opening up research to experts outside the organization
   * Complement traditional security reviews and penetration tests by making security review an ongoing, iterative process
 
-With bug bounties becoming an established industry-wide best practice, it’s important for us to establish our own. With the results we receive from the TTS Bug Bounty, we look forward to establishing a permanent program that involves most — if not all — TTS-owned websites and web applications._This post was originally published on the [18F blog](https://18f.gsa.gov/2017/05/11/the-next-steps-towards-bug-bounty-program-for-technology-transformation-service/)._
+With bug bounties becoming an established industry-wide best practice, it’s important for us to establish our own. With the results we receive from the TTS Bug Bounty, we look forward to establishing a permanent program that involves most — if not all — TTS-owned websites and web applications.
+
+_This post was originally published on the [18F blog](https://18f.gsa.gov/2017/05/11/the-next-steps-towards-bug-bounty-program-for-technology-transformation-service/)._

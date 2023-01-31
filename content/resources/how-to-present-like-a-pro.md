@@ -91,7 +91,7 @@ You may have the “zoomies,” the feeling that you will never be able to do th
 
 The following training resources are available online and helpful for learning how to appear to be a polished and suave presenter or instructor:
 
-1. [Options for Presenting PowerPoint Slides in Zoom](https://www.thinkoutsidetheslide.com/4-options-for-how-to-present-a-powerpoint-slide-show-in-a-zoom-meeting/)
+1. [Options for Presenting PowerPoint presentation Slides in Zoom](https://www.thinkoutsidetheslide.com/4-options-for-how-to-present-a-powerpoint-slide-show-in-a-zoom-meeting/)
 2. [Simple Tips for Happier, More Productive Meetings](https://blog.zoom.us/mindful-meeting-tips/) (see their Mindful Meetings Checklist)
 3. [10 Secret Zoom Tips for Masterful and Stress-Free Online Presenting](https://leapica.com/blog-zoom-tips-online-presenting/)
 4. [Zoom Meeting: How to Use (with Breakout Group examples](https://www.youtube.com/watch?v=6i-NA563Ojk) - George Kau Training Video

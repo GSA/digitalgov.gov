@@ -123,10 +123,10 @@ Once you have completed your focus group, validate and explore results with user
 
 If you have decided that conducting a focus group is a good idea for your project, the following resources will make you a focus group ninja:
 
-  * [Focus Group Manual](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/ManualFocusGroupHowtoGetStarted.pdf) [PDF]: A step-by-step guide to conducting a focus group.
-  * [Screener](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/ScreenerTemplate.pdf) [PDF]: A template designed to aid you through the recruitment process.
-  * [CheckList](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/FocusGroupCheckList.pdf) [PDF]: A printable Word document to use on the day of your focus group, to make sure you don’t forget anything.
-  * [Quiz](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/QuizTestYourKnowledge.pdf) [PDF]: A fun way to test your knowledge.
+  * [Focus Group Manual](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/ManualFocusGroupHowtoGetStarted.pdf) (PDF, 4.8 MB, 35 pages): A step-by-step guide to conducting a focus group.
+  * [Screener](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/ScreenerTemplate.pdf) (PDF, 64.6 KB, 2 pages): A template designed to aid you through the recruitment process.
+  * [CheckList](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/FocusGroupCheckList.pdf) (PDF, 149.2 KB, 1 page): A printable Word document to use on the day of your focus group, to make sure you don’t forget anything.
+  * [Quiz](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/QuizTestYourKnowledge.pdf) (PDF, 150.2 KB, 3 pages): A fun way to test your knowledge.
 
 Finally, in our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}), you can find a script to use for your focus group and a presentation on focus groups.
 

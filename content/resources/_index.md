@@ -55,7 +55,7 @@ aliases:
 - [Customer Experience Toolkit]({{< ref "customer-experience-toolkit.md" >}})
 - [Government Customer Service Policies & Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
 - [Paperwork Reduction Act Fast Track Process]({{< ref "paperwork-reduction-act-fast-track-process.md" >}})
-- [Report of the Citizen Service Levels Interagency Committee CSLIC](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (MS Word, 233 kb, 36 pages, 2005)
+- [Report of the Citizen Service Levels Interagency Committee CSLIC](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (Word document, 233 KB, 36 pages, 2005)
 
 ## Design
 
@@ -67,7 +67,7 @@ aliases:
 - [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
     - [Agency Digital Strategy Pages]({{< ref "2012-08-22-agency-digital-strategy-pages.md" >}})
     - [Guidelines for Improving Digital Services]({{< ref "guidelines-for-improving-digital-services.md" >}})
-- [Putting Citizens First: Transforming Online Government](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Federal-Web-Managers-White-Paper.pdf) (PDF, 47 kb, 4 pages, November 2008)
+- [Putting Citizens First: Transforming Online Government](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Federal-Web-Managers-White-Paper.pdf) (PDF, 47 KB, 4 pages, November 2008)
 
 ## Measurement
 
@@ -83,7 +83,7 @@ aliases:
     - [Mobile Code Sharing Catalog]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}})
 - [Mobile Development Strategies](https://digital.gov/resources/mobile-development-strategies/)
 - [Mobile User Experience Guidelines and Recommendations]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}})
-- [MobileGov Community of Practice]({{< ref "mobilegov.md" >}})
+- [MobileGov Community of Practice]({{< ref "/communities" >}})
 - [Sample Mobile SOW and Developer Qualifications]({{< ref "mobile-sow-and-developer-qualifications.md" >}})
 
 ## Multilingual
@@ -132,7 +132,7 @@ aliases:
 - [Social Media Metrics for Federal Agencies]({{< ref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}})
 - [Style Guides by Government Agencies]({{< ref "style-guides-by-government-agencies.md" >}})
 - [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit]({{< ref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}})
-- [Barriers and Solutions to Implementing Social Media in Government](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf) (PDF, 55 kb, 4 pages, December 2008)
+- [Barriers and Solutions to Implementing Social Media in Government](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf) (PDF, 55 KB, 4 pages, December 2008)
 
 ## Terms of Service Agreements
 
@@ -154,8 +154,8 @@ aliases:
 - [Content Management Systems Toolkit]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}})
     - [Content Management Systems Used by Government Agencies]({{< ref "content-management-systems-used-by-government-agencies.md" >}})
 - [Search.gov]({{< ref "search.md" >}}) (formerly DigitalGov Search)
-- [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf" >}}) (PDF, 607 kb, 92 pages, June 2004)
-    - [ICGI Report Attachments]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 184 kb, 7 pages, June 2004)
-    - [ICGI Summary and Background]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 176 kb, 6 pages, June 2004)
+- [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf" >}}) (PDF, 607 KB, 92 pages, June 2004)
+    - [ICGI Report Attachments]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 184 KB, 7 pages, June 2004)
+    - [ICGI Summary and Background]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 176 KB, 6 pages, June 2004)
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 - [Style Guides by Government Agencies]({{< ref "style-guides-by-government-agencies.md" >}})

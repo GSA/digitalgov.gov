@@ -47,7 +47,8 @@ community_list:
     subscribe_email: "content-managers-l-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Web Managers Community"
     terms: "Government employees with an official .gov/.mil email are eligible to join."
-    members: 1791
+    members: 1,796
+    blurb: "Web Manager community members"
 
 primary_image: "white-bg-digital-gov-card-community"
 

@@ -44,7 +44,7 @@ Please find the agenda and descriptions of each session below. We will begin add
 
 ## 11:10 am - 12:00 pm, ET<br />How to Redesign a 19-Year-old Legacy Application Using Agile and User Experience Methodologies
 
-{{< asset-static file="redesign-old-legacy-application-ux-summit-22.pptx" label="View the slides (PowerPoint, 7.4 MB, 39 pages)" >}}
+{{< asset-static file="redesign-old-legacy-application-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 7.4 MB, 39 pages)" >}}
 
 
 Imagine an application used by millions of users per year not being updated in 19 years. Then imagine getting money to fully redesign the look and feel, logic and content of this application, making it seem like a brand new user experience. Finally, imagine launching this application to the public and continuing to improve it during the pandemic — remotely and using agile and user experience methodologies. You won't need your imagination, because we will tell you how we did it at the Internal Revenue Service.
@@ -60,7 +60,7 @@ In this session you will hear from the following speakers:
 
 ## 12:30 pm - 12:50 pm, ET<br />Drowning in Data? How To Use Customer Experience Data To Drive User Experience Research
 
-{{< asset-static file="drowning-in-data-how-to-use-customer-experience-data-ux-summit-22.pptx" label="View the slides (PowerPoint, 10.1 MB, 12 pages)" >}}
+{{< asset-static file="drowning-in-data-how-to-use-customer-experience-data-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 10.1 MB, 12 pages)" >}}
 
 
 Some teams may find themselves drowning in customer data and unsure how to make sense of it. What do you prioritize? What story does the data tell? It can be tempting to make product changes solely based on customer experience metrics and surveys. However, this is only one part of the story. In this talk, we’ll touch on how we use a framework that marries traditional qualitative user experience research methods with customer experience data—which results in a holistic view of audiences’ needs in a way that the data alone can’t do.
@@ -74,7 +74,7 @@ In this session you will hear from the following speakers:
 
 ## 12:50 pm - 1:10 pm, ET<br />Reframing the Role of Senior Leaders in Modern Software Design
 
-{{< asset-static file="reframing-the-role-of-senior-leaders-in-design–ux-summit-22.pptx" label="View the slides (PowerPoint, 2.18 MB, 28 pages)" >}}
+{{< asset-static file="reframing-the-role-of-senior-leaders-in-design–ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 2.18 MB, 28 pages)" >}}
 
 
 Managing modern software development in government can sometimes leave senior leaders wondering, “how is this supposed to work?” Without clear answers, well-intentioned leaders bring existing strategies to new initiatives and risk undermining its success. In this session, we’ll discuss how to reset expectations with senior leaders to uphold modern software design practices and support your team.
@@ -88,9 +88,9 @@ In this session you will hear from the following speakers:
 
 ## 1:10 pm - 1:30 pm, ET<br />You May Already Know More Than You Think: Leverage User Data You Already Have To Get Started
 
-{{< asset-static file="you-may-already-know-more-than-you-think-part-one-ux-summit-22.pptx" label="View the slides part 1 (PowerPoint, 20.4 MB, 10 pages)" >}}
+{{< asset-static file="you-may-already-know-more-than-you-think-part-one-ux-summit-22.pptx" label="View the slides part 1 (PowerPoint presentation, 20.4 MB, 10 pages)" >}}
 
-{{< asset-static file="you-may-already-know-more-than-you-think-part-two-ux-summit-22.pptx" label="View the slides (PowerPoint, 6.53 MB, 11 pages)" >}}
+{{< asset-static file="you-may-already-know-more-than-you-think-part-two-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 6.53 MB, 11 pages)" >}}
 
 User research professionals are often stumped about what data might be easily available to inform their exploration of possible areas of website improvement. During this presentation, we will discuss the following five data streams that may already exist at agencies:
 
@@ -111,7 +111,7 @@ In this session you will hear from the following speakers:
 
 ## 1:45 pm - 2:45 pm, ET<br />Designing the Refugee and Asylum Interview Experience
 
-{{< asset-static file="designing-the-refugee-and-asylum-interview-experience-ux-summit-22.pptx" label="View the slides (PowerPoint, 5.53 MB, 47 pages)" >}}
+{{< asset-static file="designing-the-refugee-and-asylum-interview-experience-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 5.53 MB, 47 pages)" >}}
 
 
 The Department of Homeland Security has been at work for two years researching the biggest problems that arise during the interview portion of refugee and asylum cases. Those problems include:
@@ -134,7 +134,7 @@ In this session you will hear from the following speakers:
 
 ## 3:00 pm - 4:00 pm, ET<br />Building an Inclusive User Research Practice: A Case Study in Progress
 
-{{< asset-static file="building-an-inclusive-user-research-practice-ux-summit-22.pptx" label="View the slides (PowerPoint, 13.8 MB, 34 pages)" >}}
+{{< asset-static file="building-an-inclusive-user-research-practice-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 13.8 MB, 34 pages)" >}}
 
 
 What does it mean for user research to be inclusive? How does it impact your mission? How do you actually do it? The IRS’s Office of Online Services is exploring these questions to build an inclusive research capability. We’ll share how we’re planning and growing this capability, with early focus on research with participants with disabilities and limited English proficiency (LEP). We’ll also share actionable tips about managing process change and conducting user research with these communities. Discussion welcome!
@@ -153,7 +153,7 @@ In this session you will hear from the following speakers:
 
 ## 11:00 am - 12:00 pm, ET<br />The Business Case for Innovation
 
-{{< asset-static file="business-case-for-innovation-ux-summit-22.pptx" label="View the slides (PowerPoint, 3.27 MB, 26 pages)" >}}
+{{< asset-static file="business-case-for-innovation-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 3.27 MB, 26 pages)" >}}
 
 Misalignment of the customer-driven recommendations of human-centered design (HCD) and the investment-driven priorities of executive leadership can result in under-resourced products that neither satisfy customers nor return acceptable value to stakeholders. This session lays out a framework for translating output like customer journeys and HCD research efforts into quantifiable, actionable data that resonates with executive leadership. This framework will reinforce the business case for innovation through HCD across federal agencies as part of broader digital transformation initiatives.
 
@@ -165,7 +165,7 @@ In this session you will hear from the following speakers:
 
 ## 12:30 pm - 12:50 pm, ET<br />Designing Digital Products for Adults With Low Literacy
 
-{{< asset-static file="designing-digital-products-for-adults-with-low-literacy-ux-summit-22.pptx" label="View the slides (PowerPoint, 3.05 MB, 15 pages)" >}}
+{{< asset-static file="designing-digital-products-for-adults-with-low-literacy-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 3.05 MB, 15 pages)" >}}
 
 Over 50% of U.S. adults score below an international benchmark for literacy, with roughly 20% scoring at the very lowest levels. These adults span all demographics and are a part of your audience. What can we do as user experience professionals to support digital inclusion of adults with low reading literacy levels? This session provides a high-level overview of best practices in design standards, plain language, content strategy, and usability testing.
 
@@ -179,7 +179,7 @@ In this session you will hear from the following speaker:
 
 ## 12:50 pm - 1:10 pm, ET<br />Automating a “Mega” User Journey: Relieving the Pain of In-and-Out Processing
 
-{{< asset-static file="automating-a-mega-journey-ux-summit-22.pptx" label="View the slides (PowerPoint, 4.04 MB, 12 pages)" >}}
+{{< asset-static file="automating-a-mega-journey-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 4.04 MB, 12 pages)" >}}
 
 
 Every organization has a few "mega” user journeys that consume inordinate time and resources. For example, the Department of Defense could streamline in-and-out processing to increase morale and productivity across every location and produce billions of dollars of cost savings. But past attempts to automate this mega user journey have only addressed small pieces of the problem, with minimal benefit.
@@ -192,11 +192,11 @@ In this session you will hear from the following speaker:
 
 ## 1:10 pm - 1:30 pm, ET<br />How Do You Teach What Data Is in More Than 120 Censuses and Surveys? You Don’t!
 
-{{< asset-static file="how-do-you-teach-ux-part-1-ux-summit-22.pptx" label="View the slides part 1 (PowerPoint, 13.3 MB, 9 pages)" >}}
+{{< asset-static file="how-do-you-teach-ux-part-1-ux-summit-22.pptx" label="View the slides part 1 (PowerPoint presentation, 13.3 MB, 9 pages)" >}}
 
 <br />
 
-{{< asset-static file="how-do-you-teach-ux-part-2-ux-summit-22.pptx" label="View the slides part 2 (PowerPoint, 18.3 MB, 9 pages)" >}}
+{{< asset-static file="how-do-you-teach-ux-part-2-ux-summit-22.pptx" label="View the slides part 2 (PowerPoint presentation, 18.3 MB, 9 pages)" >}}
 
 How do you create a simple visual or presentation to teach all the data topics, geographies, and frequencies of our eight pages of surveys on census.gov? You don't! We realized that no one should have to memorize this amount of information. The solution was to think bigger and to create a reference tool. Thus, the Survey Explorer was born. This product was designed and user experience-tested in just a few months with the right mix of people, attitude, and agile problem-solving.
 
@@ -210,7 +210,7 @@ In this session you will hear from the following speakers:
 
 ## 1:45 pm - 2:45 pm, ET<br />Designing for People With Cognitive Disabilities (And Everyone Else)
 
-{{< asset-static file="designing-for-people-with-cognitive-disabilities-ux-summit-22.pptx" label="View the slides (PowerPoint, 16.3 MB, 41 pages)" >}}
+{{< asset-static file="designing-for-people-with-cognitive-disabilities-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 16.3 MB, 41 pages)" >}}
 
 
 The art of designing and creating content to support people with cognitive disabilities lives in the space between usability and accessibility. This presentation will discuss design patterns and approaches to support people with disabilities relating to attention, executive function, language, learning, and memory. These recommendations are not accessibility standards; they are recommended best practices that improve the user experience for everyone.
@@ -223,7 +223,7 @@ In this session you will hear from the following speaker:
 
 ## 3:00 pm - 4:00 pm, ET<br />You Are the User: Recognizing Systemic Challenges for the Design Team of One
 
-{{< asset-static file="you-are-the-user-ux-summit-22.pptx" label="View the slides (PowerPoint, 534 KB, 44 pages)" >}}
+{{< asset-static file="you-are-the-user-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 534 KB, 44 pages)" >}}
 
 Many designers are often alone on projects. Even in large organizations, they may feel isolated as they work with their product team. When things don’t go smoothly, designers may shoulder the blame. In this talk, listeners will come away with a design framework to recognize when they need to focus on the system they're in, instead of their performance.
 

@@ -13,7 +13,7 @@ topics:
 
 The Mobile Platform Development Series was developed to help government agencies learn how to deliver government content&#8211;information, data and services&#8211;anytime, anywhere and on any device. One way to deliver content to citizens is via applications on mobile devices or native mobile apps. Government agencies need technical expertise on developing apps on the various platforms. Today we bring you a recap of the Blackberry webinar from this series.
 
-The Blackberry webinar featured Richard Balsewich who provides application development guidance and technical architecture expertise for RIM/Blackberry. Here [are the basics Richard gave for developing applications on Blackberry/RIM devices](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/05/mobile-platform-blackberry-slides.pdf) _(PDF, 29 pages &#8211; 3.6 MB)_.
+The Blackberry webinar featured Richard Balsewich who provides application development guidance and technical architecture expertise for RIM/Blackberry. Here [are the basics Richard gave for developing applications on Blackberry/RIM devices](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/05/mobile-platform-blackberry-slides.pdf) _(PDF, 3.6 MB, 29 pages)_.
 
 <p style="text-align: left">
   <strong>How do I start to develop RIM/Blackberry Apps? </strong>
@@ -37,6 +37,6 @@ Yes, Richard demonstrates development in Blackberry WebWorks at 26 and 36 minute
 
   * Tips and tricks for open source development on Blackberry like leveraging Blackberry GitHub Social Coding (35 minutes).
   * [Do It Yourself Blackberry App Development](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/ Enterprise-Small-applications-that-can-have-major-impact/ta-p/1189179) for non-developers.
-  * [Un-official Blackberry Developers Handy Guide & Other Handouts](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/05/mobile-platform-blackberry-devloper-guide.pdf) (_PDF, 35 pgs &#8211; 3.5 MB_)
+  * [Un-official Blackberry Developers Handy Guide & Other Handouts](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/05/mobile-platform-blackberry-devloper-guide.pdf) (_PDF, 3.5 MB, 35 pages_)
 
 [youtube https://www.youtube.com/watch?v=6muKykwvYOI]

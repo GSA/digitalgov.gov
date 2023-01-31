@@ -174,7 +174,7 @@ The [Filipino Translation Style Guide](https://drive.google.com/file/d/0B5nsVoOn
 
 #### National Institutes of Health (NIH)
 
-NIH has a new Spanish Style Guide available in {{< asset-static file="NIH_Spanish_Style_Guide_Eng_ver.pdf" label="English (PDF, 315 kb, 33 pages)" >}} and {{< asset-static file="NIH_Spanish_Style_Guide_Spanish_ver.pdf" label="Spanish (PDF, 427 kb, 32 pages)" >}}.
+NIH has a new Spanish Style Guide available in {{< asset-static file="NIH_Spanish_Style_Guide_Eng_ver.pdf" label="English (PDF, 315 KB, 33 pages)" >}} and {{< asset-static file="NIH_Spanish_Style_Guide_Spanish_ver.pdf" label="Spanish (PDF, 427 KB, 32 pages)" >}}.
 
 ## Additional Resources
 

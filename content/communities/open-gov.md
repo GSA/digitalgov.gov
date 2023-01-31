@@ -16,22 +16,12 @@ aliases:
 topics:
   - open-source
 
+redirectto: https://open.usa.gov/mailing-list/
+
 # Weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
-community_list:
-  - platform: "google-group"
-    type: public
-    subscribe_form: https://groups.google.com/forum/#!forum/us-open-government
-
-  - platform: "listserv"
-    type: government
-    subscribe_email: opengov-subscribe-request@listserv.gsa.gov
-    subscribe_email_subject: "Join: OpenGov"
-    members: 232
-    emails_per_week:
 
 ---
 

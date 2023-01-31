@@ -22,7 +22,7 @@ In January 2010, we began to respond to questions and comments on our [Facebook]
 
   * Keep a cheat sheet of the most frequent questions and the answers. This will ensure continuity among the team and save time.
   * Know when to ask for help. Ask the team if you’ve spent more than 5 minutes looking for an answer. More heads are always better than one.
-  * Keep your social media guidelines up-to-date and train your team. Our [editorial guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/socmed_editorial_guidelines_010411.pdf) (PDF) discuss important points like voice and tone to keep answers consistent.
+  * Keep your social media guidelines up-to-date and train your team. Our [editorial guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/socmed_editorial_guidelines_010411.pdf) (PDF, 128 KB, 8 pages) discuss important points like voice and tone to keep answers consistent.
   * Adjust based on metrics. Collect metrics that can help you improve.
 
 Do you engage with the public on social media? If so, what have you learned?

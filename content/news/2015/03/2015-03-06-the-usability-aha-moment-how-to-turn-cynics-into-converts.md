@@ -38,7 +38,7 @@ Use care in selecting the jargon used when describing a usability plan. Refrain 
 
 #### 3. Seeing is Believing!
 
-Encourage all of your stakeholders—developers, project leaders, members of management—to observe at least one test session during your usability study. There is no greater eye-opener than watching actual users struggle with an application. It may be difficult for developers to watch, but seeing for themselves is valuable beyond measure. When presenting results of a study, a simple summary presentation in PowerPoint with video clips of specific problem areas drives your point home better than a lengthy, written report.
+Encourage all of your stakeholders—developers, project leaders, members of management—to observe at least one test session during your usability study. There is no greater eye-opener than watching actual users struggle with an application. It may be difficult for developers to watch, but seeing for themselves is valuable beyond measure. When presenting results of a study, a simple summary presentation in PowerPoint presentation with video clips of specific problem areas drives your point home better than a lengthy, written report.
 
 #### 4. Don’t Make It Personal
 

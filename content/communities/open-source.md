@@ -6,7 +6,10 @@ slug: open-source
 date: 2020-01-29 15:00:00 -0500
 title: "Open Source"
 deck: "A federal government community interested in source code and open source software (OSS)."
-summary: "A federal government community interested in source code and open source software (OSS)."
+
+summary: "This community is no longer active."
+# set date archived. page will not publish if after date
+expirydate: 2022-12-16
 
 # see all topics at https://digital.gov/topics
 topics:

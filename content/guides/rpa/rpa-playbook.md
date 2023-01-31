@@ -9,7 +9,7 @@ guide: rpa
 
 Written by the RPA CoP, the RPA playbook provides detailed, accessible guidance for federal agencies starting a new RPA program or evolving an existing program.
 
-{{< asset-static file="rpa-playbook.pdf" label="Download the RPA Playbook (v1.1) (PDF, 1.6MB, 70 pages)" button="true" button-variant="outline" >}}
+{{< asset-static file="rpa-playbook.pdf" label="Download the RPA Playbook (v1.1) (PDF, 1.6 MB, 70 pages)" button="true" button-variant="outline" >}}
 
 ## At a Glance  
 To serve as a guiding reference tool for federal agencies, the playbook covers both program management and technology management strategies for RPA programs at all levels.  Readers can expect to find guidance for:

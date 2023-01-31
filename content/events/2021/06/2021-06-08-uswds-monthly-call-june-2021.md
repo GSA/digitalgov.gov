@@ -28,7 +28,7 @@ youtube_id: W5689h4z6Jo
 
 ---
 
-[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-june-2021-distro.pptx) (PPT, 4.82 MB, 37 pages)
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-june-2021-distro.pptx) (PowerPoint presentation, 4.82 MB, 37 pages)
 
 Join Dan Williams and the design system team for a close look at a new component: pagination. We invite you to learn more about what pagination is, why and how we built it, what problems it solves, and why it’s important. 
 

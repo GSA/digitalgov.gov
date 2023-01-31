@@ -141,9 +141,7 @@ We recommend using the first two forms in the United States to avoid confusion w
 
 ### Numbers
 
-[The North American Academy of Spanish Language (www.anle.us)](http://www.anle.us/), acting under the [GSA-ANLE Agreement][908df092] (PDF, 214 kb, 4 pages), recommends that the notation for decimals and fractions in Spanish texts published in the United States follow the American model. Nine Latin American countries also follow this model. The decision was based on the nomenclature used in the United States by banks, financial documents, commerce and the media.
-
-[908df092]: https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2014-ANLE-Agreement.pdf "The 2014 GSA/ANLE Agreement"
+[The North American Academy of Spanish Language (www.anle.us)](http://www.anle.us/), acting under the [GSA-ANLE Agreement](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2014-ANLE-Agreement.pdf) (PDF, 214 KB, 4 pages), recommends that the notation for decimals and fractions in Spanish texts published in the United States follow the American model. Nine Latin American countries also follow this model. The decision was based on the nomenclature used in the United States by banks, financial documents, commerce and the media.
 
 Correct use in USA: $1,276.50
 
@@ -221,26 +219,21 @@ Each character and its code is listed below:
   <tr>
     <th scope="col">
     </th>
-
     <th scope="col" align="center">
       Number
     </th>
-
     <th scope="col" align="center">
       Entity
     </th>
-
   </tr>
 
   <tr>
     <td align="center">
       á
     </td>
-
     <td>
       &amp;#225;
     </td>
-
     <td>
       &amp;aacute;
     </td>
@@ -251,11 +244,9 @@ Each character and its code is listed below:
     <td align="center">
       é
     </td>
-
     <td>
       &amp;#233;
     </td>
-
     <td>
       &amp;eacute;
     </td>
@@ -266,11 +257,9 @@ Each character and its code is listed below:
     <td align="center">
       í
     </td>
-
     <td>
       &amp;#237;
     </td>
-
     <td>
       &amp;iacute;
     </td>
@@ -281,11 +270,9 @@ Each character and its code is listed below:
     <td align="center">
       ó
     </td>
-
     <td>
       &amp;#243;
     </td>
-
     <td>
       &amp;oacute;
     </td>
@@ -296,11 +283,9 @@ Each character and its code is listed below:
     <td align="center">
       ñ
     </td>
-
     <td>
       &amp;#241;
     </td>
-
     <td>
       &amp;ntilde;
     </td>
@@ -311,11 +296,9 @@ Each character and its code is listed below:
     <td align="center">
       ú
     </td>
-
     <td>
       &amp;#250;
     </td>
-
     <td>
       &amp;uacute;
     </td>
@@ -326,11 +309,9 @@ Each character and its code is listed below:
     <td align="center">
       ü
     </td>
-
     <td>
       &amp;#252;
     </td>
-
     <td>
       &amp;uuml;
     </td>
@@ -341,11 +322,9 @@ Each character and its code is listed below:
     <td align="center">
       Á
     </td>
-
     <td>
       &amp;#193;
     </td>
-
     <td>
       &amp;Aacute;
     </td>
@@ -356,11 +335,9 @@ Each character and its code is listed below:
     <td align="center">
       É
     </td>
-
     <td>
       &amp;#201;
     </td>
-
     <td>
       &amp;Eacute;
     </td>
@@ -371,11 +348,9 @@ Each character and its code is listed below:
     <td align="center">
       Í
     </td>
-
     <td>
       &amp;#205;
     </td>
-
     <td>
       &amp;Iacute;
     </td>
@@ -386,11 +361,9 @@ Each character and its code is listed below:
     <td align="center">
       Ó
     </td>
-
     <td>
       &amp;#211;
     </td>
-
     <td>
       &amp;Oacute;
     </td>
@@ -401,11 +374,9 @@ Each character and its code is listed below:
     <td align="center">
       Ú
     </td>
-
     <td>
       &amp;#218;
     </td>
-
     <td>
       &amp;Uacute;
     </td>
@@ -416,11 +387,9 @@ Each character and its code is listed below:
     <td align="center">
       Ü
     </td>
-
     <td>
       &amp;#220;
     </td>
-
     <td>
       &amp;Uuml;
     </td>
@@ -431,11 +400,9 @@ Each character and its code is listed below:
     <td align="center">
       Ñ
     </td>
-
     <td>
       &amp;#209;
     </td>
-
     <td>
       &amp;Ntilde;
     </td>
@@ -446,11 +413,9 @@ Each character and its code is listed below:
     <td align="center">
        ª
     </td>
-
     <td>
       &amp;#170;
     </td>
-
     <td>
       &amp;ordf;
     </td>
@@ -461,11 +426,9 @@ Each character and its code is listed below:
     <td align="center">
        º
     </td>
-
     <td>
       &amp;#186;
     </td>
-
     <td>
       &amp;ordm;
     </td>
@@ -478,16 +441,13 @@ Each character and its code is listed below:
 <table border="1" summary="Listing of Punctuation Marks and Their Character Codes">
   <tr>
     <td align="center" width="18%"><strong>Symbol</strong></td>
-
     <td width="82%"><strong>HTML Entity</strong></td>
-
   </tr>
 
   <tr>
     <td align="center">
       –
     </td>
-
     <td>
       &amp;ndash;
     </td>
@@ -498,7 +458,6 @@ Each character and its code is listed below:
     <td align="center">
       —
     </td>
-
     <td>
       &amp;mdash;
     </td>
@@ -509,7 +468,6 @@ Each character and its code is listed below:
     <td align="center">
       ¿
     </td>
-
     <td>
       &amp;iquest;
     </td>
@@ -520,7 +478,6 @@ Each character and its code is listed below:
     <td align="center">
       ¡
     </td>
-
     <td>
       &amp;iexcl;
     </td>
@@ -531,7 +488,6 @@ Each character and its code is listed below:
     <td align="center">
       «
     </td>
-
     <td>
       &amp;laquo;
     </td>
@@ -542,7 +498,6 @@ Each character and its code is listed below:
     <td align="center">
       »
     </td>
-
     <td>
       &amp;raquo;
     </td>
@@ -553,7 +508,6 @@ Each character and its code is listed below:
     <td align="center">
       "
     </td>
-
     <td>
       &amp;#quot; (to open and close)
     </td>

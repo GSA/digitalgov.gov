@@ -59,7 +59,7 @@ Engagement begins with the individual. No matter where you sit in an organizatio
 
 {{< img src="learning-culture-journal" >}}
 
-9) **Learning Labs**: As mentioned in the previous list for [team engagement tactics](https://digital.gov/2019/11/20/it-modernization-apprenticeship-experience-breaking-down-workforce-innovation-barriers-at-usda/), exploring new ways of working begins with learning new ideas. You are an expert in many things, what can you teach your team? Learning Labs can also be a place where you can introduce your colleagues to each other — {{< asset-static file="GSA-TTS_Personal-README-template.pdf" label="try using the README activity (PDF, 102 kb, 5 pages)" >}}! This is low cost and low effort. In as little as 45 minutes, you could introduce a whole new world to your federal community.
+9) **Learning Labs**: As mentioned in the previous list for [team engagement tactics](https://digital.gov/2019/11/20/it-modernization-apprenticeship-experience-breaking-down-workforce-innovation-barriers-at-usda/), exploring new ways of working begins with learning new ideas. You are an expert in many things, what can you teach your team? Learning Labs can also be a place where you can introduce your colleagues to each other — {{< asset-static file="GSA-TTS_Personal-README-template.pdf" label="try using the README activity (PDF, 102 KB, 5 pages)" >}}! This is low cost and low effort. In as little as 45 minutes, you could introduce a whole new world to your federal community.
 
 {{< img src="learning-culture-learning-labs" >}}
 

@@ -254,7 +254,7 @@ Registered participants at the eight GSA locations nationwide will be evaluated 
 
 ### Presentations
 
-Each team will present to a judging panel their solution for up to three minutes. In Round 1, each pool of competitors will only present and be judged against the same problem set. The judges will be evaluating each solution as if they are the application user. The round will be judged based on the following criteria with each judge independently scoring the solution on a scale of 1 to 5; for more information, please see the {{< asset-static file="round-1-GSA-Judging-Form.pdf" label="Round 1 Judging Form" >}}.
+Each team will present to a judging panel their solution for up to three minutes. In Round 1, each pool of competitors will only present and be judged against the same problem set. The judges will be evaluating each solution as if they are the application user. The round will be judged based on the following criteria with each judge independently scoring the solution on a scale of 1 to 5; for more information, please see the {{< asset-static file="round-1-GSA-Judging-Form.pdf" label="Round 1 Judging Form (PDF, 46.8 KB, 2 pages)" >}}.
 
 ---
 
@@ -289,7 +289,7 @@ All instructions and text are in plain language and written in terms that all cu
 
 The four application winners will then move onto Round 2 judging. Round 2 judging will consist of 3 federal employee judges and will be conducted virtually using GSA-provided videoconferencing software and in-person at 1800 F St NW, Washington, DC 20405. Registered participants at all eight GSA locations nationwide will be treated equitably and there will be no advantage given to participants who are in-person at 1800 F St NW, Washington, DC 20405. Each team will be presenting their solution to a judging panel for up to five minutes.
 
-In Round 2 judging, the pool of competition will be the four application-specific winners from Round 1 judging. The judges will be evaluating each solution as if they are the application user. The round will be judged based on the following criteria with each judge independently scoring the solution on a scale of 1 to 5; for more information, please see the {{< asset-static file="round-2-GSA-Judging-Form.pdf" label="Round 2 Judging Form" >}}. These scores will then calculated into a weighted percentage as detailed below. The winner will be determined by averaging all federal employee judges scores and calculating the highest scoring solution:
+In Round 2 judging, the pool of competition will be the four application-specific winners from Round 1 judging. The judges will be evaluating each solution as if they are the application user. The round will be judged based on the following criteria with each judge independently scoring the solution on a scale of 1 to 5; for more information, please see the {{< asset-static file="round-2-GSA-Judging-Form.pdf" label="Round 2 Judging Form (PDF, 46.2 KB, 2 pages)" >}}. These scores will then calculated into a weighted percentage as detailed below. The winner will be determined by averaging all federal employee judges scores and calculating the highest scoring solution:
 
 Use of design best practices to improve usability and emotional response — weighted at 50 percent of overall score
 

@@ -99,7 +99,7 @@ Once you have people excited about UCD, it’s time to build an infrastructure t
   * Analysis and design tools
   * Testing facilities
 
-For some additional information on introducing UCD to your organization, here is a presentation I gave at the 2014 DC User Focus conference—[ Igniting User-Centered Design Thinking at the Department of Energy](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/UXPA-DC-2014-Wendy-Littman.pptx). 
+For some additional information on introducing UCD to your organization, here is a presentation I gave at the 2014 DC User Focus conference—[ Igniting User-Centered Design Thinking at the Department of Energy](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/UXPA-DC-2014-Wendy-Littman.pptx) (PowerPoint presentation, 5.7 MB, 14 slides). 
 
 ---
 
