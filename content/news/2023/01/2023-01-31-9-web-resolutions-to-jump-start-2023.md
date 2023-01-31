@@ -15,12 +15,14 @@ topics:
 authors:
   - tori-garten
 slug: 9-web-resolutions-to-jump-start-2023
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 It’s that time of the year where many of us take stock of last year and start planning for the new year. While many say that resolutions don’t work, I find for myself that writing down changes I want to make or activities I want to focus on helps me move the needle a little further. I find the same approach can help with my efforts for work as well. So here’s where my brain will be focusing for the next year, including some questions I’m asking myself, and you should consider reflecting on, too.
 
 Here’s to jumping into 2023 with nine web resolutions for you and your team to consider.
