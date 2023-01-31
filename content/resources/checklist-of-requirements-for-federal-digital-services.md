@@ -25,7 +25,7 @@ You should regularly review your agency's websites and other digital products an
 
 ## Overarching Policies
 
-These high-level policies cover basic requirements for all websites and digital services. Use this handy {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 kb, 14 tabs)" >}} to ensure you've addressed all critical requirements.
+These high-level policies cover basic requirements for all websites and digital services. Use this handy {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 KB, 14 tabs)" >}} to ensure you've addressed all critical requirements.
 
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
@@ -94,7 +94,7 @@ Inform the public about your policies on digital rights, copyrights, trademarks,
 - [Digital Millennium Copyright Act](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=105_cong_public_laws&docid=f:publ304.105.pdf) (PDF, 277 kb, 60 pages, January 1999)
 - [U.S. Patent Law, U.S. Code 35, Chapter 26](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+35USC261)
 - [Copyright.gov](http://www.copyright.gov/)
-- [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/United-States-government-works-and-copyright.docx) (MS Word, 16 kb, 2 pages, June 2011)
+- [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/United-States-government-works-and-copyright.docx) (Word document, 16 kb, 2 pages, June 2011)
 
 ## Customer Experience
 

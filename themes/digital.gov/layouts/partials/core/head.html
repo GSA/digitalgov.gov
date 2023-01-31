@@ -3,8 +3,8 @@
 
   {{/* Sets a variable for $primary_image */}}
   {{- $primary_image := "" -}}
-  {{/* Checks if $primary_image exists
-       if not, it will use the featured_image.
+  {{/*
+    Checks if $primary_image exists if not, it will use the featured_image
   */}}
   {{- if .Params.primary_image -}}
     {{- $primary_image = .Params.primary_image -}}
@@ -23,10 +23,10 @@
   {{- $featImgHeight := $featImg.height -}}
   {{- $.Scratch.Set "featImgSuffix" "" -}}
   {{- if gt $featImgWidth 1200 -}}
-   {{- $.Scratch.Set "featImgSuffix" "_w1200" -}}
+    {{- $.Scratch.Set "featImgSuffix" "_w1200" -}}
   {{- end -}}
   {{- if gt $featImgWidth 800 -}}
-   {{- $.Scratch.Set "featImgTwitterSuffix" "_w800" -}}
+    {{- $.Scratch.Set "featImgTwitterSuffix" "_w800" -}}
   {{- end -}}
   {{- $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt -}}
 {{/* End featured_image call */}}
@@ -179,12 +179,6 @@
     editpathURL      = {{ with .File -}}{{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}{{- end }};
     <!-- {{ getenv "BRANCH" }} | {{ $.Scratch.Get "branch" }} -->
   </script>
-
-  {{/* Add to Calendar CSS */}}
-  {{- if eq .Section "events" -}}
-  {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
-  <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
-  {{- end -}}
 
   <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0007/9651.js" async="async" ></script>
 

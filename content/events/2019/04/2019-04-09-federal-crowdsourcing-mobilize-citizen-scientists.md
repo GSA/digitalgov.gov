@@ -38,7 +38,7 @@ primary_image: "challengegov-card-episode-1"
 
 ---
 
-_{{< asset-static file="ep1-challengegov.pdf" label="View the slides from this presentation (PDF 10.5MB)." >}}_
+_{{< asset-static file="ep1-challengegov.pdf" label="View the slides from this presentation (PDF, 10 MB, 32 pages)." >}}_
 
 This is the first installment in GSA’s Federal Crowdsourcing Webinar Series. You will hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 

@@ -789,7 +789,7 @@ collections:
 
   # SHORT LINK =======================
   - <<: *defaults
-    name: "short link"
+    name: "shortlink"
     label: "Short Link"
     label_singular: "Short Link Post"
     description: "A short link post is a shorter blog post that links to external orgs."
@@ -956,23 +956,84 @@ collections:
         comment: "Enter the path of the URL that you want redirected to this page"
         field: { label: Redirect, name: redirect, widget: string }
 
-
-  # FILE UPLOAD =======================
+  # TRANSCRIPT =======================
   - <<: *defaults
-    name: "file-upload"
-    label: "File upload"
-    description: "Upload PDF, Excel, PowerPoint or Word doc"
-    folder: "content/uploads/_inbox"
-    identifier_field: file
-    publish: true
+    name: "transcript"
+    label: "Transcript"
+    label_singular: "Transcript"
+    description: "This page will create an event transcript"
+    folder: "content/events"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{year}}/{{month}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
+    preview_path_date_field: "date"
     fields:
-      - label: "File"
-        name: "file"
-        widget: "file"
-        pattern: ['.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$', "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m"]
-        media_library:
-          config:
-            multiple: true
+      - label: "Transcript Title"
+        name: "title"
+        widget: "string"
+        hint: "USWDS Monthly Call - October 2022 Transcript"
+      - label: "Start Date/Time"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
+      - label: "Topics"
+        name: "topics"
+        widget: "relation"
+        collection: "topics"
+        value_field: "slug"
+        displayField: "title"
+        search_fields: ["slug", "title"]
+        multiple: true
+        hint: "See all topics at https://digital.gov/topics"
+        comment: "See all topics at https://digital.gov/topics"
+        required: false
+      - label: "Presenters (authors)"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        searchFields: ["first_name", "last_name"]
+        valueField: "slug"
+        displayFields: ["display_name"]
+        multiple: true
+        hint: "See all authors at https://digital.gov/authors"
+        comment: "See all authors at https://digital.gov/authors"
+        required: false
+      - label: "Event platform"
+        name: "event_platform"
+        widget: "select"
+        options: ["zoom", "youtube_live", "adobe_connect", "google"]
+        comment: "zoom, youtube_live, adobe_connect, google"
+        required: false
+      - label: "YouTube ID"
+        name: "youtube_id"
+        widget: "string"
+        hint: "e.g. 3FKyVeipMss"
+        required: false
+      - label: "Primary Image (for social media)"
+        name: "primary_image"
+        widget: "relation"
+        collection: "image-metadata"
+        searchFields: ["uid"]
+        valueField: "uid"
+        displayFields: ["uid"]
+        required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        hint: 'Link to the original event with the link shortcode: [Link to Event]({{< link "/event/year/month/day/event-name/" >}})'
+        required: true
+        <<: *editorComponents
 
   # IMAGE UPLOAD =======================
   - <<: *defaults

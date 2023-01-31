@@ -50,7 +50,7 @@ Every Thursday, the GSA IT team sends agency-wide messages with three to four sh
 
 {{< img src="anatomy-of-an-email-slide-federal-social-media-week" alt="ALT_TEXT" >}}
 
-*For the left image above, {{< asset-static file="Anatomy-of-Email-description-accessible.pdf" label="Transcript for Anatomy of a Good Email  (PDF, 2 pages, 95 kb)" >}}.*
+*For the left image above, {{< asset-static file="Anatomy-of-Email-description-accessible.pdf" label="Transcript for Anatomy of a Good Email  (PDF, 95 KB, 2 pages)" >}}.*
 
 **Subject Line** - We try to make them fun and catchy, and frequently use emojis to grab the attention of our readers, as research has shown people are more likely to open emails with emojis. 
 Our Brand - We created a new brand for our newsletter, as the prior one had been in use for more than five years. At the same time, we recreated a standard header where employees could go for more self-help resources and to register for training. 

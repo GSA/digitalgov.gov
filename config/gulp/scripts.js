@@ -17,6 +17,7 @@ function copyJquery() {
   return src(JQUERY_PATH).pipe(dest(JS_DEST));
 }
 
+// Check .jshintrc for lint rules
 function compileCommon() {
   return src([`${PROJECT_JS_SRC}/common/**/*.js`])
     .pipe(jshint())

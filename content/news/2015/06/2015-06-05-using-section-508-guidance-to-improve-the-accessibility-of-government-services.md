@@ -179,15 +179,15 @@ This resource list presents a compilation of links to accessibility guidance, or
       * [HHS Making Files Accessible](http://www.hhs.gov/web/508/accessiblefiles/index.html)
       * [SSA Guide to Producing Accessible Word and PDF Documents](http://www.section508.gov/sites/default/files/documents/The_Social_Security_Administration_Accessible_Document_Authoring_Guide_2.1.2.pdf) (PDF)
       * [VA Creating Accessible PDF Tutorials](http://www.section508.va.gov/support/tutorials/pdf/index.asp)
-  * ### PowerPoint Format
+  * ### PowerPoint presentation Format
     
-      * [CMS Section 508 Quick Reference Guide to Microsoft PowerPoint 2010](http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/Tip-sheet-for-Powerpoint.pdf) (PDF)
+      * [CMS Section 508 Quick Reference Guide to Microsoft PowerPoint presentation 2010](http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/Tip-sheet-for-Powerpoint.pdf) (PDF)
       * [ED Checklist for Making Accessible Power Point 2010 Documents](http://www2.ed.gov/web-guidance/accessibility/powerpoint-2010-checklist.doc) (doc)
-      * [ED Requirements for Making Accessible PowerPoint 2010 Documents](http://www2.ed.gov/web-guidance/accessibility/powerpoint-2010.doc) (doc)
-      * [FDA PowerPoint Document Checklist](http://www.fda.gov/downloads/AboutFDA/AboutThisWebsite/Accessibility/UCM262691.doc) (doc)
-      * [HHS PowerPoint Document 508 Checklist](http://www.hhs.gov/web/508/accessiblefiles/checklistppt.html)
-      * [SSA PowerPoint 2010 Document Checklist](http://www.ssa.gov/accessibility/files/PowerPoint2010_Checklist.pdf) (PDF)
-      * [VA Creating Accessible Documents with Microsoft PowerPoint 2010 Tutorials](http://www.section508.va.gov/support/tutorials/powerpoint/index.asp)
+      * [ED Requirements for Making Accessible PowerPoint presentation 2010 Documents](http://www2.ed.gov/web-guidance/accessibility/powerpoint-2010.doc) (doc)
+      * [FDA PowerPoint presentation Document Checklist](http://www.fda.gov/downloads/AboutFDA/AboutThisWebsite/Accessibility/UCM262691.doc) (doc)
+      * [HHS PowerPoint presentation Document 508 Checklist](http://www.hhs.gov/web/508/accessiblefiles/checklistppt.html)
+      * [SSA PowerPoint presentation 2010 Document Checklist](http://www.ssa.gov/accessibility/files/PowerPoint2010_Checklist.pdf) (PDF)
+      * [VA Creating Accessible Documents with Microsoft PowerPoint presentation 2010 Tutorials](http://www.section508.va.gov/support/tutorials/powerpoint/index.asp)
   * ### Word Format
     
       * [CMS How to Make Your Word 2010 Documents 508-Compliant](http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/508-How-To-Guide-for-Microsoft-WORD.pdf) (PDF)

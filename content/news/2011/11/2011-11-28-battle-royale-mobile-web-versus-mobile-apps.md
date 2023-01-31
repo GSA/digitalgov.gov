@@ -35,7 +35,7 @@ Two champions debated this hot topic:
   * Neil Bonner, from the Transportation Security Administration, is a proponent of [mobile websites](http://apps.tsa.dhs.gov/mytsa/).
   * Mike Pulsifer, Department of Labor, is a firm believer in the value of [mobile apps](http://www.dol.gov/dol/apps/).
 
-[View the debate](https://s3.amazonaws.com/digitalgov/_legacy-img/2011/11/mobile-apps-vs-mobile-web-slides.pdf) and come away with the RIGHT answer for your agency.
+[View the debate](https://s3.amazonaws.com/digitalgov/_legacy-img/2011/11/mobile-apps-vs-mobile-web-slides.pdf) (PDF, 5.4 MB, 32 pages) and come away with the RIGHT answer for your agency.
 
   * Learn the pros and cons of mobile apps and mobile websites
   * Identify which is better to meet your needs

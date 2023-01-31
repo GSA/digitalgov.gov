@@ -6,7 +6,7 @@ slug: apis
 date: 2018-03-29 3:30:00 -0500
 title: "Application Programming Interfaces (APIs)"
 deck: "Working to advance the cause of APIs in the federal government"
-summary: "Working to advance the cause of APIs in the federal government"
+summary: "Working to advance the cause of APIs in the federal government."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -18,20 +18,20 @@ topics:
 authors:
   - gray-brooks
 
+redirectto: https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis
+
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
 
-community_list:
-  - platform: google-group
-    type: public
-    subscribe_form: https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis
-    members: 1351
-
 ---
 
 This Community of Practice (CoP) is for anyone who is interested in government APIs and developer outreach, with a focus on the federal government. APIs are as important to digital government as they are are esoteric and sometimes difficult to understand. This forum exists to help federal agencies share news, ask for help, and expand the use of APIs in government.
+
+## Join
+
+To join, fill out our form at [https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis).
 
 ## Who we are
 

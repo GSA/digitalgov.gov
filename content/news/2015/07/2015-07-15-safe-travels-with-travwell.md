@@ -1,8 +1,9 @@
 ---
 slug: safe-travels-with-travwell
 date: 2015-07-15 11:02:14 -0400
+redirectto: https://www.cdc.gov/digital-social-media-tools/mobile/mobileapp.html
 title: Safe Travels with TravWell
-summary: 'Ahhh&hellip; Summer is here at last! It’s time for relaxing vacation! Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris&mdash;it is time for a travel app.'
+summary: 'Ahhh ... Summer is here at last! It’s time for relaxing vacation! Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris&mdash;it is time for a travel app.'
 authors:
   - nirmala-ramprasad
 topics:
@@ -12,9 +13,12 @@ topics:
   - mobile-apps
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
+
 ---
 
-{{< legacy-img src="2015/07/250-x-445-CDC-TravWell-app-main-screen-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's main screen" >}}Ahhh… Summer is here at last! It’s time for relaxing vacation!
+Ahhh ... Summer is here at last! It’s time for relaxing vacation!
+
+{{< legacy-img-right src="2015/07/250-x-445-CDC-TravWell-app-main-screen-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's main screen" >}}
 
 Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris—it is time for a travel app.
 

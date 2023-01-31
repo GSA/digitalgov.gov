@@ -23,7 +23,7 @@ event_platform: zoom
 
 ---
 
-[View the slides (PowerPoint, 13.4 MB, 75 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-february-2022-distro.pptx.zip)
+[View the slides (PowerPoint presentation, 13.4 MB, 75 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-february-2022-distro.pptx.zip)
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for February 2022" icon="content_copy" >}}
 

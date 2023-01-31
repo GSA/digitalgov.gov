@@ -56,6 +56,6 @@ How does the CX team prioritize its energy with only 106 employees? ROI drives t
 
 Finally, let’s end with how it began. In late 2010, when CX became an entity rather than disparate functions, Wensil’s group did one thing to orient their group. They listened. And they continue to listen, with an emphasis on simplifying the StudentAid.gov website and building a centralized complaint intake process system.
 
-You can watch the recording, [view the slides from the FSA presentation](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/DigitalGov-Webinar-FSA-Customer-Experience-Journey-7-28-15.pptx), or [join the CX Community of Practice](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform).
+You can watch the recording, [view the slides from the FSA presentation (PowerPoint presentation, 8.2 MB, 33 slides)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/DigitalGov-Webinar-FSA-Customer-Experience-Journey-7-28-15.pptx), or [join the CX Community of Practice](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform).
 
 [youtube=http://www.youtube.com/watch?v=iPHECSa4HQo&w=600]_Zachary Lerner is the Content Manager for the Professional Services Hallway on the Acquisition Gateway at the U.S. General Services Administration._

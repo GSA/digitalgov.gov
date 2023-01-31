@@ -24,7 +24,7 @@ event_platform: zoom
 youtube_id: V9l4MvXcrSc
 
 ---
-[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-april-2021-distro.pptx) (PPT, 3.99 MB, 74 pages)
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-april-2021-distro.pptx) (PowerPoint presentation, 3.99 MB, 74 pages)
 
 Join Dan Williams and the U.S. Web Design System (USWDS) team to learn more about the high-level system benefits of design systems, including USWDS. They will take a look at the design system’s core value and benefits, and answer these questions: 
 

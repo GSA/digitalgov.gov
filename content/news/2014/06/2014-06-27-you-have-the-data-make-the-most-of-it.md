@@ -14,7 +14,7 @@ topics:
 
 {{< legacy-img src="2014/06/250-x-176-Web-Analytics-FY2014-Q3-report-April-to-June-template-icon1.jpg" alt="250-x-176-Web-Analytics-FY2014-Q3-report-April-to-June-template-icon1" >}}With Web analytics tools you have the data to see what citizens really want on your website and how well you are delivering. You have an opportunity to make informed decisions on improvements to your site to reflect the voice of the customer and get constituents what they need.
 
-Here are three key steps to help you get started making the most of your data. You can also download and use my [new quarterly report metrics template](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/GAOHQ-6967177-v1-QUARTERLY_METRICS_REPORT_TEMPLATE.pptx), check out other [reporting templates]({{< ref "2014-03-04-creating-awesome-web-analytics-reports-and-presentations.md" >}}), and read up on [Google Analytics for government]({{< ref "2014-05-15-new-google-analytics-for-government-training-manual.md" >}}).
+Here are three key steps to help you get started making the most of your data. You can also download and use my [new quarterly report metrics template](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/GAOHQ-6967177-v1-QUARTERLY_METRICS_REPORT_TEMPLATE.pptx) (PowerPoint presentation, 7.9 MB, 2 slides), check out other [reporting templates]({{< ref "2014-03-04-creating-awesome-web-analytics-reports-and-presentations.md" >}}), and read up on [Google Analytics for government]({{< ref "2014-05-15-new-google-analytics-for-government-training-manual.md" >}}).
 
 ## Step 1: Measure
 
@@ -46,4 +46,4 @@ In thinking about where to start when it comes to making site improvements, keep
 ## How to Tell a Story with Your Metrics
 
   * **Think about where you see room for improvement.** Your ideas for site enhancements can help bring meaning to your metrics in your writing.
-  * **Present your data in style.** If you would be bored reading your report, chances are so will others, and they may just miss the message (the same rule applies to presentations).**** Don’t be afraid to try something new, and make sure to use meaningful graphics to break up text. Download the [newest quarterly report template](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/GAOHQ-6967177-v1-QUARTERLY_METRICS_REPORT_TEMPLATE.pptx) today!
+  * **Present your data in style.** If you would be bored reading your report, chances are so will others, and they may just miss the message (the same rule applies to presentations).**** Don’t be afraid to try something new, and make sure to use meaningful graphics to break up text. Download the [newest quarterly report template](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/GAOHQ-6967177-v1-QUARTERLY_METRICS_REPORT_TEMPLATE.pptx) (PowerPoint presentation, 7.9 MB, 2 slides) today!

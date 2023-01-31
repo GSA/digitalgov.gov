@@ -29,7 +29,7 @@ youtube_id: goZjeCXIx_Q
 
 ---
 
-{{< asset-static file="feb-2022-multilingual-event-lep.pptx" label="View the slides (PowerPoint, 3.1 MB, 20 pages)" >}}
+{{< asset-static file="feb-2022-multilingual-event-lep.pptx" label="View the slides (PowerPoint presentation, 3.1 MB, 20 pages)" >}}
 <br />
 [Read the Q&A recap](https://digital.gov/2022/05/23/10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule/)
 

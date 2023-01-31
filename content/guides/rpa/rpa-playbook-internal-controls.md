@@ -16,5 +16,5 @@ The addendum addresses topics such as:
 -   Audit Readiness
 -   Controls Objectives and Suggested Artifacts
 
-{{< asset-static file="rpa-playbook-ic-addendum-v1.0.pdf" label="IC Addendum" button="true" button-variant="outline" >}}
+{{< asset-static file="rpa-playbook-ic-addendum-v1.0.pdf" label="IC Addendum (PDF, 1.0 MB, 19 pages)" button="true" button-variant="outline" >}}
 

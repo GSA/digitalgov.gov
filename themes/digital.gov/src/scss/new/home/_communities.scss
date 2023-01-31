@@ -1,6 +1,6 @@
 @use "uswds-core" as *;
 
-// communities
+// https://digital.gov/communities/
 .communities-of-practice--list {
   @include at-media("tablet") {
     display: grid;
@@ -11,20 +11,20 @@
 
 .usa-card__cop-bar {
   width: 84%;
-	margin: 0 auto;
+  margin: 0 auto;
   border-radius: 0px;
   height: 10px;
   margin-top: 1rem;
 }
 
 $communities-of-practice: (
-  'FCN': #c84281,
-  'ML': #D73A33,
-  'PL': #06648D,
-  'SM': #2672de,
-  'UX': #40807e,
-  'WAO': #775540,
-  'WCM': #4A50C4
+  "FCN": #c84281,
+  "ML": #d73a33,
+  "PL": #06648d,
+  "SM": #2672de,
+  "UX": #40807e,
+  "WAO": #775540,
+  "WCM": #4a50c4,
 );
 
 @each $community, $color in $communities-of-practice {
@@ -32,5 +32,14 @@ $communities-of-practice: (
     .usa-card__container {
       border-top: 5px solid $color;
     }
+  }
+}
+
+.usa-card__footer {
+  a.usa-button {
+    @include u-display("flex");
+    @include u-flex("align-center");
+    @include u-flex("justify-center");
+    @include u-minh(8);
   }
 }

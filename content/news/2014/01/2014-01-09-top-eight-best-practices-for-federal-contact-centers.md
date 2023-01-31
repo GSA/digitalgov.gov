@@ -27,7 +27,7 @@ topics:
 ## 2. Use Performance Metrics to Influence Business Rules and Drive Improvements
 
   * Develop [Key Performance Indicators/Metrics]({{< ref "getting-started-with-your-contact-center.md" >}} "Getting Started with your Contact Center") (see Performance Goals).
-  * [CSLIC](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/citizen-service-levels-interagency-committee-final-report1.docx) could be used as a start.
+  * [CSLIC](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/citizen-service-levels-interagency-committee-final-report1.docx) (Word document, 82 KB, 36 pages) could be used as a start.
 
 ## 3. Develop and Use a Comprehensive Quality Assurance Program
 
@@ -37,7 +37,7 @@ topics:
 
 ## 4. Implement a Content Strategy
 
-  * Develop content guidelines ([plain language](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/plain-writing-checklist.pdf), accessibility, etc.)
+  * Develop content guidelines ([plain language](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/plain-writing-checklist.pdf) (PDF, 186 KB, 1 page), accessibility, etc.)
   * Institute a content review process (including a schedule and checklist for quality and functionality).
   * Use FAQs or a [knowledgebase]({{< ref "contact-center-technologies.md" >}} "Contact Center Technologies").
   * Develop pre-formatted responses (canned/scripted answers) for email, chat, social media, etc.
@@ -76,6 +76,6 @@ topics:
   * Attend training through courses, workshops, webcasts, and [webinars]({{< ref "/communities/government-contact-center-council.md" >}} "Government Contact Center Council - G3C") to gain knowledge about latest information, methods, policies, and best practices.
   * Review industry reports:
       * [2011 Federal Contact Center Survey Final Report](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/2011-federal-contact-center-survey-final-report.pdf)  (PDF, 1.49 MB, 54 pages, September 2011)
-      *  [An Analysis of the Feasibility of Employing Home-Based Agents in Economically Depressed Rural Areas to Staff Federal Contact Centers](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/G3C-Analysis-of-Employing-Home-Based-Agents.doc) (MS Word, 115 KB, 20 pages, October 2009)
-      * [Removing Barriers to Citizen Engagement](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Removing-Barriers-to-Citizen-Engagement.doc)  (MS Word, 64 KB, 8 pages, March 2009)
-      *  [Report of the Citizen Service Levels Interagency Committee (CSLIC)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/citizen-service-levels-interagency-committee-final-report.docx) (MS Word, 232 KB, 36 pages, 2005)
+      *  [An Analysis of the Feasibility of Employing Home-Based Agents in Economically Depressed Rural Areas to Staff Federal Contact Centers](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/G3C-Analysis-of-Employing-Home-Based-Agents.doc) (Word document, 115 KB, 20 pages, October 2009)
+      * [Removing Barriers to Citizen Engagement](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Removing-Barriers-to-Citizen-Engagement.doc)  (Word document, 64 KB, 8 pages, March 2009)
+      *  [Report of the Citizen Service Levels Interagency Committee (CSLIC)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/citizen-service-levels-interagency-committee-final-report.docx) (Word document, 232 KB, 36 pages, 2005)

@@ -28,7 +28,7 @@ youtube_id: D-CQtJYBZz0
 
 ---
 
-[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-may-2021-distro.pptx) (PPT, 8.3 MB, 39 pages)
+[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-may-2021-distro.pptx) (PowerPoint presentation, 8.3 MB, 39 pages)
 
 For Global Accessibility Awareness Day on May 20, join the U.S. Web Design System (USWDS) team to learn how accessibility plays a role in design systems, including USWDS. We will share what we do and offer insights about what you can do to ensure accessibility remains a top priority in our delivery of federal government services. Join us for this call as we offer tips and tools, checklists, and checkpoints to ensure an inclusive path of success!
 

@@ -42,7 +42,7 @@ weight: 0
 
 ---
 
-_{{< asset-static file="ep2-challengegov.pdf" label="View the slides from this presentation (PDF 4.4 MB)." >}}_
+_{{< asset-static file="ep2-challengegov.pdf" label="View the slides from this presentation (PDF, 4.4 MB, 39 pages)." >}}_
 
 The Federal Crowdsourcing Webinar Series explores how federal agencies are engaging the crowd to multiply the ideas and perspectives they bring to certain issues. In this second episode, you’ll learn about the benefits of prize competitions and the resources available to federal agencies through GSA’s Challenge.gov program.
 

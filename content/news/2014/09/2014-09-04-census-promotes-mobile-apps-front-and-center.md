@@ -23,7 +23,7 @@ Those cutting edge folks over at Census have raised the bar again! Not only do t
 
 Overlay advertising is just one way to promote your mobile products. Your public affairs office is key to ensure you promote to social media and other channels that will alert your users and relevant communities. Don’t forget to add your mobile product to the [Federal Mobile Apps Registry](http://apps.usa.gov/register) which gets them on the [USA.gov Apps Gallery](http://www.usa.gov/mobileapps.shtml) (and then featured as our &#8220;[Thursday Mobile Products]({{< ref "/topics/thursday-mobile-products" >}}) on DigitalGov.gov").
 
-Some other things you can do that we&#8217;ve seen from agencies participating the [Mobile Gov Community of Practice:]({{< ref "mobilegov.md" >}} "Mobile")
+Some other things you can do that we&#8217;ve seen from agencies participating the [Mobile Gov Community of Practice:]({{< ref "/communities" >}} "Mobile")
 
   * Integrate your product into related outreach and public affairs messages.
   * Develop a strategy for continual marketing to keep promoting your mobile products after the initial launch.

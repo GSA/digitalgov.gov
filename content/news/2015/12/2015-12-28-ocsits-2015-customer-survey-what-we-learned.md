@@ -38,7 +38,7 @@ Finally, we shared the survey data with the entire staff, and we instituted an a
 
 This year, we added a new core question, asking how easy it is for you to use our programs. We learned that we have some work to do in this area, particularly with more technical programs such as [FedRAMP (cloud computing)](https://www.fedramp.gov/), [Electronic Capital Planning and Investment Control (eCPIC)](https://digital.gov/services/electronic-capital-planning-and-investment-control-ecpic/), and [Digital Analytics Program (DAP)]({{< ref "/guides/dap/_index.md" >}}). In response, these programs now offer more frequent training, agency consultations and/or “office hours” for customers to call in and get one-on-one assistance.
 
-In the fast-moving tech world, it’s important to be proactive, so when a listserv conversation highlights a knowledge gap, we build a [training class]({{< ref "/about/digitalgov-university.md" >}}). When an agency wants to try a new social tool, we partner with them to implement a [federal-friendly terms of service agreement]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}). We’re streamlining our training library with [event recap articles]({{< ref "/topics/recaps" >}}), to help you quickly review the highlights if you don’t have time to watch an entire event. Finally, we’re curating [topical playlists of video content](https://www.youtube.com/digitalgov/playlists) to make it easier to find past events.
+In the fast-moving tech world, it’s important to be proactive, so when a listserv conversation highlights a knowledge gap, we build a [training class]({{< ref "/about/digitalgov-university.md" >}}). When an agency wants to try a new social tool, we partner with them to implement a [federal-friendly terms of service agreement]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}). We’re streamlining our training library with [event recap articles]({{< ref "/topics/recaps" >}}), to help you quickly review the highlights if you don’t have time to watch an entire event. Finally, we’re curating [topical playlists of video content](https://www.youtube.com/@DigitalGov/playlists) to make it easier to find past events.
 
 ## What’s Working Well
 
@@ -71,7 +71,7 @@ We also received a ton of constructive feedback that’s helping us to improve h
 
 > &#8220;It would be nice if there was more information outreach and something that really simplified (walked-users through) what each of these components are and how to use them.&#8221;
 
-  * Many programs now have “101” courses that cover the basics. Browse the playlists on the [DigitalGov YouTube channel](https://www.youtube.com/digitalgov/playlists) to see all the on-demand training available.
+  * Many programs now have “101” courses that cover the basics. Browse the playlists on the [DigitalGov YouTube channel](https://www.youtube.com/@DigitalGov/playlists) to see all the on-demand training available.
 
 ## What’s Next
 

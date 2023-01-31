@@ -95,7 +95,7 @@ Examples of our user stories:
 
 {{< legacy-img src="2015/09/600-x-291-group-2.jpg" alt="Day 2 of the team working out of the 18F common space. Developers on the left. Investigators (users) and product owners talking about needs on the right. Taped to the windows are the progress boards (Backlog, Current, Done)." >}}
 
-Tom, the product owner had already used optical character recognition (OCR) software to convert 100s of PDFs into MS Word documents. Microsoft styles and headings were applied to the content to begin to structure the data. (Aside: this is a perfect example of using the tools you know best to move a project forward!) With that in hand, our developer validated the technical feasibility of converting those Word documents to HTML pages that could be searched using Elasticsearch.
+Tom, the product owner had already used optical character recognition (OCR) software to convert 100s of PDFs into Word document documents. Microsoft styles and headings were applied to the content to begin to structure the data. (Aside: this is a perfect example of using the tools you know best to move a project forward!) With that in hand, our developer validated the technical feasibility of converting those Word documents to HTML pages that could be searched using Elasticsearch.
 
 By the end of Tuesday we had:
 

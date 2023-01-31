@@ -54,7 +54,7 @@ Expand each section to download presentation slides and view available videos.
 
 ## 10:40 am - 11:15 am, ET<br />Debunking the Oversimplification Myth: Making the Case for Plain Language in Health Communications
 
-{{< asset-static file="plain-language-summit-debunking-the-oversimplification-myth.pptx" label="View the slides (PowerPoint, 2.18 MB, 19 pages)" >}}
+{{< asset-static file="plain-language-summit-debunking-the-oversimplification-myth.pptx" label="View the slides (PowerPoint presentation, 2.18 MB, 19 pages)" >}}
 
 This session will help participants make the case for using plain language to agency leadership. So often, we work with subject matter experts and others in government who cling to using insider jargon, awkward constructions, and just too many words. There’s a fear that plain language principles will oversimplify the content and minimize the importance of the work.
 How can public affairs professionals in the government change this attitude? How can we convince colleagues and leaders that products written in plain language are more effective, more meaningful, and more accessible to a wide range of audiences?
@@ -72,7 +72,7 @@ In this session you will hear from the following speakers:
 
 ## 11:15 am - 11:45 am, ET<br />A Happy Compromise: Applying People-First Standards with Plain Language in Mind
 
-{{< asset-static file="plain-language-summit-plain-language-and-people-first-a-pioneering-union.pptx" label="View the slides (PowerPoint, 23.3 MB, 24 pages)" >}}
+{{< asset-static file="plain-language-summit-plain-language-and-people-first-a-pioneering-union.pptx" label="View the slides (PowerPoint presentation, 23.3 MB, 24 pages)" >}}
 
 People-first language (PFL) is more commonly known as person-first language and is widely used in the medical community. Under this framework, people are asked not to use words that define a person by their disability or medical condition—and instead, use words that describe them as a person first, and then by their disability or condition second. For example, we would refer to them as “a person with diabetes” instead of “a diabetic.”
 
@@ -86,7 +86,7 @@ In this session you will hear from the following speaker:
 
 ## 11:45 am - 12:15 pm, ET<br />Designing Digital Products for Adults With Low Literacy
 
-{{< asset-static file="plain-language-summit-designing-digital-products-for-adults-with-low-literacy.pptx" label="View the slides (PowerPoint, 3.72 MB, 16 pages)" >}}
+{{< asset-static file="plain-language-summit-designing-digital-products-for-adults-with-low-literacy.pptx" label="View the slides (PowerPoint presentation, 3.72 MB, 16 pages)" >}}
 
 Over 50% of U.S. adults score below an international benchmark for literacy, with roughly 20% scoring at the very lowest levels. These adults span all demographics and are a part of your audience. What can we do as user experience professionals to support digital inclusion of adults with low reading literacy levels? This session provides a high-level overview of best practices in design standards, plain language, content strategy, and usability testing.
 
@@ -111,7 +111,7 @@ In this session you will hear from the following speaker:
 
 ## 1:00 pm - 1:30 pm, ET<br />Jargon Madness: A Plain Language Exercise
 
-{{< asset-static file="plain-language-summit-jargon-madness-a-plain-language-exercise.pptx" label="View the slides (PowerPoint, 1.54 MB, 34 pages)" >}}
+{{< asset-static file="plain-language-summit-jargon-madness-a-plain-language-exercise.pptx" label="View the slides (PowerPoint presentation, 1.54 MB, 34 pages)" >}}
 
 This session will walk through how to create and run a Jargon Madness event as a plain language exercise. Jargon Madness is a tournament-style bracket modeled after the annual college basketball event except in this version, jargon battles for the title of "Most confusing" based on votes.
 
@@ -134,7 +134,7 @@ In this session you will hear from the following speaker:
 
 ## 1:30 pm - 2:00 pm, ET<br />Instruction on Setting up Context for Technical Details: Addition to an Agency’s PL Training
 
-{{< asset-static file="plain-language-summit-setting-up-context-for-technical-details.pptx" label="View the slides (PowerPoint, 1.42 MB, 5 pages)" >}}
+{{< asset-static file="plain-language-summit-setting-up-context-for-technical-details.pptx" label="View the slides (PowerPoint presentation, 1.42 MB, 5 pages)" >}}
 
 A major point of contention that can occur between writers and editors presenting technical information for general readership is what can be seen as oversimplifying language. If we replace technical phrasing with commonly understood phrasing, we risk losing nuance; if we retain technical, specialized phrasing, we risk losing readers.
 
@@ -156,7 +156,7 @@ In this session you will hear from the following speaker:
 
 ## 2:10 pm - 2:30 pm, ET<br />Managing Stakeholder Feedback: Lessons from Experience
 
-{{< asset-static file="plain-language-summit-managing-stakeholder-feedback-lessons-from-experience.pptx" label="View the slides (PowerPoint, 16.7 MB, 19 pages)" >}}
+{{< asset-static file="plain-language-summit-managing-stakeholder-feedback-lessons-from-experience.pptx" label="View the slides (PowerPoint presentation, 16.7 MB, 19 pages)" >}}
 
 Do you know how to request and receive feedback on your plain language materials? Getting input from stakeholders can lead to a clearer, more accurate product. In this presentation, you’ll learn the types of stakeholders you might ask to review your materials, what to include in your request, and why it’s critical to set expectations early. You’ll also find out how to juggle suggestions from multiple reviewers and what to do if their edits are complex or full of jargon. These tips will set you up for success when working with stakeholders from inside and outside your agency.
 
@@ -181,7 +181,7 @@ In this session you will hear from the following speaker:
 
 ## 2:30 pm - 3:00 pm , ET<br />Designing for People with Cognitive Disabilities (and Everyone Else)
 
-{{< asset-static file="plain-language-summit-designing-for-people-with-cognitive-disabilities-and-everyone.pptx" label="View the slides (PowerPoint, 16.1 MB, 37 pages)" >}}
+{{< asset-static file="plain-language-summit-designing-for-people-with-cognitive-disabilities-and-everyone.pptx" label="View the slides (PowerPoint presentation, 16.1 MB, 37 pages)" >}}
 
 The art of designing and creating content to support people with cognitive disabilities lives in the space between usability and accessibility. This presentation will discuss design patterns and approaches to support people with disabilities relating to attention, executive function, language, learning, and memory. These recommendations are not accessibility standards; they are recommended best practices that improve the user experience for everyone.
 
@@ -195,7 +195,7 @@ In this session you will hear from the following speaker:
 
 ## 3:00 pm - 3:30 pm , ET<br />Recognizing Systemic Challenges for the Design Team of One
 
-{{< asset-static file="plain-language-summit-you-are-the-user-recognizing-systemic-challenges.pptx" label="View the slides (PowerPoint, 547KB, 48 pages)" >}}
+{{< asset-static file="plain-language-summit-you-are-the-user-recognizing-systemic-challenges.pptx" label="View the slides (PowerPoint presentation, 547 KB, 48 pages)" >}}
 
 Many designers are often alone on projects. Even in large organizations, they may feel isolated as they work with their product team. When things don’t go smoothly, designers may shoulder the blame. In this talk, listeners will come away with a design framework to recognize when they need to focus on the system they’re in, instead of their performance.
 

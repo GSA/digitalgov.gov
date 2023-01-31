@@ -40,7 +40,7 @@ In this two-part Analytics Case Study, we'll speak with the U.S. General Service
 
 We'll show how your strategy serves as the linchpin and foundation of your website reporting and provide some helpful guidance and tips on assessing your strategy. We will be joined by members of the FedRAMP team to hear their thoughts on their analytics strategy.
 
-{{< asset-static file="fedramp-dap-casestudy-one.pptx" label="View the slides (PowerPoint, 396 kb, 33 slides)" >}}
+{{< asset-static file="fedramp-dap-casestudy-one.pptx" label="View the slides (PowerPoint presentation, 396 KB, 33 slides)" >}}
 
 ## Speakers
 

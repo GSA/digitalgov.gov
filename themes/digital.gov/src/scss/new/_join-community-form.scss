@@ -1,0 +1,56 @@
+@use "uswds-core" as *;
+
+// Styles for inline form on the DG7 community pages
+.join-community-form {
+  @include u-border-left("05", "solid", "gray-warm-20");
+  @include u-bg("gray-warm-10");
+  @include u-margin-bottom(5);
+  @include u-padding-top(2.5);
+  @include u-padding-bottom(4);
+  @include u-padding-x(3);
+  @include u-radius("sm");
+  @include u-text("light");
+  @include u-text("gray-90");
+  
+  &__header {
+    @include u-font("sans", "lg");
+    @include u-margin-bottom("105");
+    @include u-margin-top(0);
+    @include u-text("normal");
+  }
+  &__header-svg {
+    @include u-margin-right(2);
+  }
+  &__body {
+    @include u-padding-top(2);
+  }
+  &__body-eligibility {
+    @include u-padding-bottom(2);
+  }
+  &__body-form-button {
+    @include u-bg("cyan-50v");
+    @include u-text("gray-warm-1");
+    &:hover {
+      @include u-bg("cyan-60v");
+      @include u-text("gray-warm-1");
+    }
+  }
+  strong {
+    @include u-text("medium");
+  }
+  p:last-child {
+    @include u-margin-bottom(0);
+  }
+  blockquote {
+    @include u-border(0);
+    @include u-padding-left(0);
+  }
+  ol,
+  ul {
+    @include u-margin-y(0);
+    @include u-padding-left("205");
+    li {
+      @include u-margin-bottom(2);
+    }
+  }
+}

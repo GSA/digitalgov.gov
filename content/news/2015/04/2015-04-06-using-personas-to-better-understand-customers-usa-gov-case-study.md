@@ -24,7 +24,7 @@ topics:
 
 Personas aren’t new to [USA.gov](http://www.usa.gov/). We developed personas several years ago because we recognized the importance of understanding our customers, their behaviors and information needs. As we’re evolving USA.gov and our contact center platforms, updated personas are important.
 
-We created [new personas](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/USA.gov-Personas-March-2015.pdf) [PDF] of the customers who currently use USA.gov and 1-844-USA-GOV1 based on the themes and insights observed from several different data sets. We reviewed the following 2014 data:
+We created [new personas](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/USA.gov-Personas-March-2015.pdf) (PDF, 1.9 MB, 5 pages) of the customers who currently use USA.gov and 1-844-USA-GOV1 based on the themes and insights observed from several different data sets. We reviewed the following 2014 data:
 
   * USA.gov Web analytics (via the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})), including demographics, devices, common paths, popular pages, and outbound links
   * Onsite search data from [DigitalGov Search]({{< ref "service_search.md" >}})
@@ -87,6 +87,6 @@ While the personas are composite representations, the quotes associated with the
 
 We’re sharing the personas across our organization and creating journey maps based on these personas and the common questions/scenarios they experience. The personas may evolve as we journey map, and we plan to revisit them annually to make sure we’re in step with customer motivations, emotions, goals, needs and behaviors. In the future, we plan to conduct first-person research with current and potential customers of USA.gov to inform our customer understanding and their associated journeys.
 
-We will continue our persona development process to include [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) and future customers. This will ensure that we understand and meet ever changing needs. The [complete list of our four personas is available](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/USA.gov-Personas-March-2015.pdf) [PDF].
+We will continue our persona development process to include [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) and future customers. This will ensure that we understand and meet ever changing needs. The [complete list of our four personas is available](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/USA.gov-Personas-March-2015.pdf) (PDF, 1.9 MB, 5 pages).
 
 In a future post, we will share examples of the customer journey maps associated with our personas.

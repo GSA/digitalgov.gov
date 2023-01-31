@@ -10,19 +10,19 @@ deck: ""
 summary: "Being customer-focused means doing the gumshoe work of research and rounds of analysis to find gold by understanding user goals. For the task-based innovation network, Open Opportunities for DigitalGov, that meant developing personas in order to overcome our own biases and learn about the different motivations of our participants. In this article, we’ll talk about"
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - content
   - open-opportunities-program
   - our-work
   - personas
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - awichman
   - lnelson
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities.md
 
 # Make it better ♥
@@ -42,45 +42,45 @@ Early iterations of persona categories featured creative “food focused” meta
 
 As we honed in on the user experience of Open Opportunities participants, we were able to condense the 6 personas we started with into four key audience segments. These four groups don’t represent all our audience needs, but embody the needs of the most active user groups.
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col-4 first">
     <strong>EXPLORERS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Smiling-mature-businessman-with-laptop-and-coffee-cup-Wavebreakmedia-Ltd-Lightwavemedia-Thinkstock-479684299.jpg" alt="A smiling, mature businessman with laptop and coffee cup." caption="" >}}
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-8 tablet:margin-top-5">
     <strong>&#8220;This sounds interesting and I want to explore new things.&#8221;</strong> They have joined the network. Some may still be thinking about participating, some may have completed a task or two. Many explorers join in here, get their feet wet and never leave the group. They know about the program and may become evangelists. You will also find honey bees, careerists and activists in the explorer group waiting to be found.
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col-4 first">
     <strong>HONEY BEES</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Cute-Young-Woman-Using-Laptop-Oko_SwanOmurphy-iStock-Thinkstock-494712461.jpg" alt="A young woman uses a laptop computer." caption="" >}}
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-8 tablet:margin-top-5">
     <strong>&#8220;Whenever I have time, I like to work on something outside of my day-to-day job that can be completed quickly. It keeps me energized.&#8221;</strong> Honey bees buzz in and out. They may not have the time or interest to immerse themselves in something outside their regular job, or they may not have agency approval to work on long term tasks but they take an opportunity whenever they can.
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col-4 first">
     <strong>CAREERISTS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Positive-man-on-computer-VladimirFLoyd-iStock-Thinkstock-483133993.jpg" alt="A young man looks pleased using a laptop computer." caption="" >}}
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-8 tablet:margin-top-5">
     <strong>&#8220;I want to learn new skills, connect with others doing innovative things and build my resume.&#8221;</strong> They are looking for professional development opportunities and networking to advance or change the direction of their career.
   </div>
-</blockquote>
+</div>
 
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col-4 first">
     <strong>ACTIVISTS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Yes-Nenad-Aksic-iStock-Thinkstock-168513466.jpg" alt="A very happy woman using a laptop computer." caption="" >}}
   </div>
 
-  <div class="one-half">
+  <div class="tablet:grid-col-8 tablet:margin-top-5">
     <strong>&#8220;I want to change the way government works.&#8221;</strong> They want to build a culture of collaboration, innovation and knowledge sharing. These feds are passionate about the work they are doing and believe they can make government better.
   </div>
-</blockquote>
+</div>
 
 Although people primarily fit into one persona or another, there is some overlap. For example, some people start as Explorers or Honeybees, try a few tasks, and settle in as Careerists or Activists.
 
