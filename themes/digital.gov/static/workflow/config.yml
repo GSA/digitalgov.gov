@@ -962,7 +962,7 @@ collections:
     name: "file-upload"
     label: "File upload"
     description: "Upload PDF, Excel, PowerPoint or Word doc"
-    folder: "content/images/_inbox"
+    folder: "content/uploads/_inbox"
     identifier_field: file
     publish: true
     fields:
@@ -979,7 +979,7 @@ collections:
     name: "image-upload"
     label: "Image upload"
     description: "This page will help upload a new image to Digital.gov"
-    folder: "content/images/_inbox"
+    folder: "content/uploads/_inbox"
     identifier_field: image
     publish: true
     fields:
