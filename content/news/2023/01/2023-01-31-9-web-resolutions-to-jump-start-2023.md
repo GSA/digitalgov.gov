@@ -2,8 +2,7 @@
 date: 2023-01-31 17:26:00 -0500
 title: 9 web resolutions to jump-start 2023
 deck: Try one, try all
-summary: Nine areas to focus on in the coming year to take your digital sites
-  and services to the next level.
+summary: Nine areas to focus on in the coming year to take your digital sites and services to the next level.
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
@@ -14,8 +13,10 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - tori-garten
+
 slug: 9-web-resolutions-to-jump-start-2023
-primary_image: 
+primary_image: "start-2023-road-sakorn-sukkasemsakorn-istock-getty-images-1446850843-copy"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
