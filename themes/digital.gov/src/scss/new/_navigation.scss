@@ -1,0 +1,12 @@
+@use "uswds-core" as *;
+
+.usa-nav__secondary-links {
+  .usa-nav__secondary-item {
+    & + .usa-nav__secondary-item::before {
+      @include at-media("desktop") {
+        padding-right: units(0.5);
+        content: "\007C"; // Code for "|" character
+      }
+    }
+  }
+}
