@@ -19,7 +19,8 @@ topics:
   - design
 slug: uswds-monthly-call-february-2023
 # zoom, youtube_live, adobe_connect, google
-event_platform: zoom
+event_platform: zoom\
+primary_image: 2023-uswds-monthly-call-feb-title-card
 ---
 Join us as we take a deep dive into USWDS design tokens. What are they? How are they used? How can they be adapted to agencies’ branding needs?
 
