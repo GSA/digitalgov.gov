@@ -2,8 +2,7 @@
 date: 2023-02-02 09:13:00 -0500
 title: How to manage a federal website
 deck: 5 steps to building a successful government website
-summary: Building a successful government website is a targeted exercise — from
-  knowing your audience to complying with federal rules and regulations.
+summary: Managing government websites is a targeted exercise. Here are 5 steps to help you build and maintain a successful one.
 # See all topics at https://digital.gov/topics
 topics:
   - design
@@ -24,7 +23,7 @@ weight: 1
 
 ---
 
-Managing a successful government website is a targeted exercise. This article will provide you with five steps to help you build and maintain a successful government website.
+Managing a government website is a targeted exercise &mdash; from knowing your audience to complying with federal rules and regulations. This article provides you with five ways to build and maintain a successful one.
 
 ## Step 1: Know your audience to define your goals and determine success.
 
