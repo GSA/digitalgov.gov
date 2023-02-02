@@ -17,10 +17,10 @@ topics:
 
 Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.
 
-* Part 1: Common Metrics: Guidance, Best Practices, and Tools
-* Part 2: Reporting Requirements and Common Tools
-* Part 3: Rationale and Framework for Common Metrics and Measures
-* Part 4: Case Studies, Training, and Additional Resources
+* Part 1: [Common Metrics: Guidance, Best Practices, and Tools](#part-1)
+* Part 2: [Reporting Requirements and Common Tools](part-2)
+* Part 3: [Rationale and Framework for Common Metrics and Measures](part-3)
+* Part 4: [Case Studies, Training, and Additional Resources](part-4)
 
 ## <a name="part-1"></a>Part 1: Common Metrics—Guidance, Best Practices, and Tools
 
@@ -43,215 +43,100 @@ Web performance metrics tell you how well your website and other digital service
 
 ### What to Collect
 
-Milestone 8.1 of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s Center for Digital Services Innovation Center to develop guidance on common performance metrics. The following guidance was derived from extensive research of common practices in industry and government and recommendations from the Federal Web Metrics Community of Practice.
+Milestone 8.1 of the [Digital Government Strategy](http://www.obamawhitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s Center for Digital Services Innovation Center to develop guidance on common performance metrics. The following guidance was derived from extensive research of common practices in industry and government and recommendations from the Federal Web Metrics Community of Practice.
 
 Below are ten minimum common baseline performance metrics that agencies should collect for their .gov websites. They will help you measure different elements of performance, such as how many people are visiting your websites, how much time they&#8217;re spending on your site, how often they return, etc.
 
 **Minimum Common Baseline Performance Metrics**
 
-
-
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
-    <th scope="col" width="15%">
-      Metric
-    </th>
-
-    <th scope="col" width="20%">
-      Definition
-    </th>
-
-    <th scope="col" width="20%">
-      How to Use It
-    </th>
-
-    <th scope="col" width="45%">
-      Benefits and Considerations
-    </th>
+    <th scope="col" width="15%">Metric</th>
+    <th scope="col" width="20%">Definition</th>
+    <th scope="col" width="20%">How to Use It</th>
+    <th scope="col" width="45%">Benefits and Considerations</th>
   </tr>
-
   <tr>
-    <td>
-      Total Visits
-    </td>
-
-    <td>
-      <em>Visit</em> is an interaction by an individual viewing one or more pages on your website
-    </td>
-
-    <td>
-      Provides high-level information on the breadth of traffic to a given digital service
-    </td>
-
-    <td>
-      Most universal, fundamental, and accurate way to measure volume of traffic. Also most popular and widely reported metric for cross-comparing traffic from various websites. Most common question about your website traffic is, &#8220;How many visits does your website get a day or month?&#8221; Tracked over time, total visits create a historical trend of your website traffic and a baseline that can be used to compare against future traffic patterns and changes. Caveat is that total visits is sometimes confused with number of unique individuals who use your site (data that can only be measured by unique visitors).
-    </td>
+    <td>Total Visits</td>
+    <td><em>Visit</em> is an interaction by an individual viewing one or more pages on your website</td>
+    <td>Provides high-level information on the breadth of traffic to a given digital service</td>
+    <td>Most universal, fundamental, and accurate way to measure volume of traffic. Also most popular and widely reported metric for cross-comparing traffic from various websites. Most common question about your website traffic is, &#8220;How many visits does your website get a day or month?&#8221; Tracked over time, total visits create a historical trend of your website traffic and a baseline that can be used to compare against future traffic patterns and changes. Caveat is that total visits is sometimes confused with number of unique individuals who use your site (data that can only be measured by unique visitors).</td>
   </tr>
-
   <tr>
-    <td>
-      Total Page Views
-    </td>
-
-    <td>
-      <em>Page view</em> is number of times a page was viewed during the designated time period (e.g., monthly)
-    </td>
-
-    <td>
-      Provides high-level information on the breadth of content usage of a given digital service
-    </td>
-
-    <td>
-      Invaluable for measuring overall volume and how much content people use on your website. Can give you a number of<br /> &#8220;eye balls&#8221; for your content at a high-level. This metric is also universal and cross-comparable with other websites.
-    </td>
+    <td>Total Page Views</td>
+    <td><em>Page view</em> is number of times a page was viewed during the designated time period (e.g., monthly)</td>
+    <td>Provides high-level information on the breadth of content usage of a given digital service</td>
+    <td>Invaluable for measuring overall volume and how much content people use on your website. Can give you a number of<br /> &#8220;eye balls&#8221; for your content at a high-level. This metric is also universal and cross-comparable with other websites.</td>
   </tr>
-
   <tr>
-    <td>
-      Unique Visitors
-    </td>
-
-    <td>
-      <em>Unique visit</em> is one person (or a computer/IP address) who visits your website at least once during a designated time period (e.g., monthly)
-    </td>
-
-    <td>
-      Provides high-level information on the breadth of traffic to and content usage of a given digital service
-    </td>
-
-    <td>
-      Powerful, invaluable metric because it’s the only measure that accurately calculates how many individual people (or physical computers) actually visited your website in a given time. Combined with total visits, it can tell a comprehensive story about your customers and their visit patterns. Gives you unique &#8220;universe&#8221; or population of visitors vs. aggregate totals.Agencies need to follow <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf">OMB guidance on using persistent cookies</a> with online performance and customer satisfaction tools.
-    </td>
+    <td>Unique Visitors</td>
+    <td><em>Unique visit</em> is one person (or a computer/IP address) who visits your website at least once during a designated time period (e.g., monthly)</td>
+    <td>Provides high-level information on the breadth of traffic to and content usage of a given digital service</td>
+    <td>Powerful, invaluable metric because it’s the only measure that accurately calculates how many individual people (or physical computers) actually visited your website in a given time. Combined with total visits, it can tell a comprehensive story about your customers and their visit patterns. Gives you unique &#8220;universe&#8221; or population of visitors vs. aggregate totals.Agencies need to follow <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf">OMB guidance on using persistent cookies</a> with online performance and customer satisfaction tools.</td>
   </tr>
-
   <tr>
-    <td>
-      Page Views per Visit
-    </td>
-
-    <td>
-      Number of page views in a reporting period divided by number of visits in the same reporting period
-    </td>
-
-    <td>
-      Measures depth of a visit and level of engagement
-    </td>
-
-    <td>
-      Very important for understanding engagement level of a visit. However, because there are different types of websites (e.g., transactional, navigational, directional, etc.), this metric should be used and interpreted within the context of each website’s goals. For example, a directional website’s goal may be to send its visitor from point A to point B, and point B happens to be a different website. In that case, you may only have one page per visit as your desired average. In other cases, a website’s goal may be to provide a high volume of content (multiple page views) within the same website. In any of these cases, this metric will help determine if the website is doing its job by providing the desired number of pages per visit.
-    </td>
+    <td>Page Views per Visit</td>
+    <td>Number of page views in a reporting period divided by number of visits in the same reporting period</td>
+    <td>Measures depth of a visit and level of engagement</td>
+    <td>Very important for understanding engagement level of a visit. However, because there are different types of websites (e.g., transactional, navigational, directional, etc.), this metric should be used and interpreted within the context of each website’s goals. For example, a directional website’s goal may be to send its visitor from point A to point B, and point B happens to be a different website. In that case, you may only have one page per visit as your desired average. In other cases, a website’s goal may be to provide a high volume of content (multiple page views) within the same website. In any of these cases, this metric will help determine if the website is doing its job by providing the desired number of pages per visit.</td>
   </tr>
-
   <tr>
-    <td>
-      Average Visit Duration
-    </td>
-
-    <td>
-      Length of time in a session (activity on a website during a specified time period)
-    </td>
-
-    <td>
-      Measures extent of a visit
-    </td>
-
-    <td>
-      Tells you how long your visitors stay on your website. Should be interpreted based on each website’s goals. For example, is your website’s goal to get your customers the information they need in the least amount of time? Or send them to a different website? Or, are you trying to engage them with your website content so that they stay on the website as long as possible? This metric will help you determine if your website is meeting those goals.
-    </td>
+    <td>Average Visit Duration</td>
+    <td>Length of time in a session (activity on a website during a specified time period)</td>
+    <td>Measures extent of a visit</td>
+    <td>Tells you how long your visitors stay on your website. Should be interpreted based on each website’s goals. For example, is your website’s goal to get your customers the information they need in the least amount of time? Or send them to a different website? Or, are you trying to engage them with your website content so that they stay on the website as long as possible? This metric will help you determine if your website is meeting those goals.</td>
   </tr>
-
   <tr>
-    <td>
-      Time on Page
-    </td>
-
-    <td>
-      Time visitors spend on individual pages
-    </td>
-
-    <td>
-      Measures extent of a visit
-    </td>
-
-    <td>
-      Critical for measuring effectiveness of specific pages (e.g., content campaigns, transactional pages, etc.) that carry a specific purpose. For example, your website is launching an awareness campaign by placing key content on your website’s home page. Because visitors can view multiple pages within the same visit (e.g., home page and others), you’ll need to know how much time was devoted to each visited page to measure each page’s effectiveness.
-    </td>
+    <td>Time on Page</td>
+    <td>Time visitors spend on individual pages</td>
+    <td>Measures extent of a visit</td>
+    <td>Critical for measuring effectiveness of specific pages (e.g., content campaigns, transactional pages, etc.) that carry a specific purpose. For example, your website is launching an awareness campaign by placing key content on your website’s home page. Because visitors can view multiple pages within the same visit (e.g., home page and others), you’ll need to know how much time was devoted to each visited page to measure each page’s effectiveness.</td>
   </tr>
-
   <tr>
-    <td>
-      Bounce Rate
-    </td>
-
-    <td>
-      Percentage of visitors who looked at only one page and immediately left the site
-    </td>
-
-    <td>
-      Measures depth and quality of a visit
-    </td>
-
-    <td>
-      Measures percentage of people who come to your website and leave instantly. Invaluable metric to determine if your website is doing a great job (e.g., for directional sites, you may be looking for a high bounce rate because you want to direct visitors off to an external site), or a poor job (e.g., for content-heavy sites, if the bounce rate is high, the website may not be appealing, interesting or have other issues that make visitors leave without trying another page).
-    </td>
+    <td>Bounce Rate</td>
+    <td>Percentage of visitors who looked at only one page and immediately left the site</td>
+    <td>Measures depth and quality of a visit</td>
+    <td>Measures percentage of people who come to your website and leave instantly. Invaluable metric to determine if your website is doing a great job (e.g., for directional sites, you may be looking for a high bounce rate because you want to direct visitors off to an external site), or a poor job (e.g., for content-heavy sites, if the bounce rate is high, the website may not be appealing, interesting or have other issues that make visitors leave without trying another page).</td>
   </tr>
-
   <tr>
-    <td>
-      New vs. Returned Visitor
-    </td>
-
-    <td>
-      Ratio between first-ever site visitors to returning visitors, a User that Visited the site prior to the reporting period.
-    </td>
-
-    <td>
-      Measures visitor loyalty and site stickiness
-    </td>
-
-    <td>
-      Derived from &#8220;unique visitors&#8221; and used within a set time frame to compare new visitors vs. returned. Depending on your website’s goals, you always want to measure and differentiate between those two types of visitors. Will help you understand if your website is attracting the same audience on a consistent basis, driving new visitors to the site, or a balance of both. Especially valuable when trying to expand reach to different types of audiences with varied interests from various locations. Note: Requires tracking unique visitors, as described above.
-    </td>
+    <td>New vs. Returned Visitor</td>
+    <td>Ratio between first-ever site visitors to returning visitors, a User that Visited the site prior to the reporting period.</td>
+    <td>Measures visitor loyalty and site stickiness</td>
+    <td>Derived from &#8220;unique visitors&#8221; and used within a set time frame to compare new visitors vs. returned. Depending on your website’s goals, you always want to measure and differentiate between those two types of visitors. Will help you understand if your website is attracting the same audience on a consistent basis, driving new visitors to the site, or a balance of both. Especially valuable when trying to expand reach to different types of audiences with varied interests from various locations. Note: Requires tracking unique visitors, as described above.</td>
   </tr>
-
   <tr>
-    <td>
-      <a name="visits-per-visitor"></a>Visits per Visitor for a given time frame
-    </td>
-
-    <td>
-      Number of times a Visitor visited your website during the designated time period (e.g., monthly)
-    </td>
-
-    <td>
-      Measures visitor loyalty and site stickiness
-    </td>
-
-    <td>
-      Derived metric that uses &#8220;Unique Visitors&#8221; and &#8220;Total Visits.&#8221; Important for determining how &#8220;<a href="http://en.wikipedia.org/wiki/Sticky_content">sticky</a>&#8221; your website is and whether your content is compelling enough. Regardless of your website goals, you probably want visitors to come to your website more than once. Allows you to track and trend average visits per visitor against a set time frame, identifying the time(s) when your visitors tend to come back more or less often. Can be used to track content releases and campaigns to determine what factors contribute to more frequent visits per visitor.
-    </td>
+    <td><a name="visits-per-visitor"></a>Visits per Visitor for a given time frame</td>
+    <td>Number of times a Visitor visited your website during the designated time period (e.g., monthly)</td>
+    <td>Measures visitor loyalty and site stickiness</td>
+    <td>Derived metric that uses &#8220;Unique Visitors&#8221; and &#8220;Total Visits.&#8221; Important for determining how &#8220;<a href="http://en.wikipedia.org/wiki/Sticky_content">sticky</a>&#8221; your website is and whether your content is compelling enough. Regardless of your website goals, you probably want visitors to come to your website more than once. Allows you to track and trend average visits per visitor against a set time frame, identifying the time(s) when your visitors tend to come back more or less often. Can be used to track content releases and campaigns to determine what factors contribute to more frequent visits per visitor.</td>
   </tr>
-
   <tr>
-    <td>
-      Total Number of On–Site Search Queries
-    </td>
-
-    <td>
-      Total number of times site search was used
-    </td>
-
-    <td>
-      Extent to which a visitor uses the site’s search engine
-    </td>
-
-    <td>
-      Good indicator of visitor behavior patterns and ease of finding content. Heavy use of an on-site search engine could mean visitors are unable to quickly find content they expected to find when they first landed on your site. Or, could mean visitors don’t want to read through content and would rather skip to search box to find specific information. In contrast, low number of search queries may mean content is readily available and complete. This metric will help determine if any of those scenarios apply to your website.
-    </td>
+    <td>Total Number of On–Site Search Queries</td>
+    <td>Total number of times site search was used</td>
+    <td>Extent to which a visitor uses the site’s search engine</td>
+    <td>Good indicator of visitor behavior patterns and ease of finding content. Heavy use of an on-site search engine could mean visitors are unable to quickly find content they expected to find when they first landed on your site. Or, could mean visitors don’t want to read through content and would rather skip to search box to find specific information. In contrast, low number of search queries may mean content is readily available and complete. This metric will help determine if any of those scenarios apply to your website.</td>
   </tr>
 </table>
 
-Definitions above are derived from the [Web Analytics Association’s Definitions of Common Metrics Terms](http://www.webanalyticsassociation.org/resource/resmgr/PDF_standards/WebAnalyticsDefinitionsVol1.pdf) (PDF, 111 KB, 34 pages, January 2008)
+---
+
+| **Metric**                                | **Definition**                                                                                                                              | **How to Use It**                                                                                         | **Benefits and Considerations**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Total Visits                              | Visit is an interaction by an individual viewing one or more pages on your website                                                          | Provides high-level information on the breadth of traffic to a given digital service                      | Most universal, fundamental, and accurate way to measure volume of traffic. Also most popular and widely reported metric for cross-comparing traffic from various websites. Most common question about your website traffic is, &#8220;How many visits does your website get a day or month?&#8221; Tracked over time, total visits create a historical trend of your website traffic and a baseline that can be used to compare against future traffic patterns and changes. Caveat is that total visits is sometimes confused with number of unique individuals who use your site (data that can only be measured by unique visitors).                                                                                                                           |
+| Total Page Views                          | Page view is number of times a page was viewed during the designated time period (e.g., monthly)                                            | Provides high-level information on the breadth of content usage of a given digital service                | Invaluable for measuring overall volume and how much content people use on your website. Can give you a number of &#8220;eye balls&#8221; for your content at a high-level. This metric is also universal and cross-comparable with other websites.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Unique Visitors                           | Unique visit is one person (or a computer/IP address) who visits your website at least once during a designated time period (e.g., monthly) | Provides high-level information on the breadth of traffic to and content usage of a given digital service | Powerful, invaluable metric because it’s the only measure that accurately calculates how many individual people (or physical computers) actually visited your website in a given time. Combined with total visits, it can tell a comprehensive story about your customers and their visit patterns. Gives you unique &#8220;universe&#8221; or population of visitors vs. aggregate totals.Agencies need to follow OMB guidance on using persistent cookies with online performance and customer satisfaction tools.                                                                                                                                                                                                                                               |
+| Page Views per Visit                      | Number of page views in a reporting period divided by number of visits in the same reporting period                                         | Measures depth of a visit and level of engagement                                                         | Very important for understanding engagement level of a visit. However, because there are different types of websites (e.g., transactional, navigational, directional, etc.), this metric should be used and interpreted within the context of each website’s goals. For example, a directional website’s goal may be to send its visitor from point A to point B, and point B happens to be a different website. In that case, you may only have one page per visit as your desired average. In other cases, a website’s goal may be to provide a high volume of content (multiple page views) within the same website. In any of these cases, this metric will help determine if the website is doing its job by providing the desired number of pages per visit. |
+| Average Visit Duration                    | Length of time in a session (activity on a website during a specified time period)                                                          | Measures extent of a visit                                                                                | Tells you how long your visitors stay on your website. Should be interpreted based on each website’s goals. For example, is your website’s goal to get your customers the information they need in the least amount of time? Or send them to a different website? Or, are you trying to engage them with your website content so that they stay on the website as long as possible? This metric will help you determine if your website is meeting those goals.                                                                                                                                                                                                                                                                                                    |
+| Time on Page                              | Time visitors spend on individual pages                                                                                                     | Measures extent of a visit                                                                                | Critical for measuring effectiveness of specific pages (e.g., content campaigns, transactional pages, etc.) that carry a specific purpose. For example, your website is launching an awareness campaign by placing key content on your website’s home page. Because visitors can view multiple pages within the same visit (e.g., home page and others), you’ll need to know how much time was devoted to each visited page to measure each page’s effectiveness.                                                                                                                                                                                                                                                                                                  |
+| Bounce Rate                               | Percentage of visitors who looked at only one page and immediately left the site                                                            | Measures depth and quality of a visit                                                                     | Measures percentage of people who come to your website and leave instantly. Invaluable metric to determine if your website is doing a great job (e.g., for directional sites, you may be looking for a high bounce rate because you want to direct visitors off to an external site), or a poor job (e.g., for content-heavy sites, if the bounce rate is high, the website may not be appealing, interesting or have other issues that make visitors leave without trying another page).                                                                                                                                                                                                                                                                          |
+| New vs. Returned Visitor                  | Ratio between first-ever site visitors to returning visitors, a User that Visited the site prior to the reporting period.                   | Measures visitor loyalty and site stickiness                                                              | Derived from &#8220;unique visitors&#8221; and used within a set time frame to compare new visitors vs. returned. Depending on your website’s goals, you always want to measure and differentiate between those two types of visitors. Will help you understand if your website is attracting the same audience on a consistent basis, driving new visitors to the site, or a balance of both. Especially valuable when trying to expand reach to different types of audiences with varied interests from various locations. Note: Requires tracking unique visitors, as described above.                                                                                                                                                                          |
+| Visits per Visitor for a given time frame | Number of times a Visitor visited your website during the designated time period (e.g., monthly)                                            | Measures visitor loyalty and site stickiness                                                              | Derived metric that uses &#8220;Unique Visitors&#8221; and &#8220;Total Visits.&#8221; Important for determining how &#8220;sticky&#8221; your website is and whether your content is compelling enough. Regardless of your website goals, you probably want visitors to come to your website more than once. Allows you to track and trend average visits per visitor against a set time frame, identifying the time(s) when your visitors tend to come back more or less often. Can be used to track content releases and campaigns to determine what factors contribute to more frequent visits per visitor.                                                                                                                                                    |
+| Total Number of On–Site Search Queries    | Total number of times site search was used                                                                                                  | Extent to which a visitor uses the site’s search engine                                                   | Good indicator of visitor behavior patterns and ease of finding content. Heavy use of an on-site search engine could mean visitors are unable to quickly find content they expected to find when they first landed on your site. Or, could mean visitors don’t want to read through content and would rather skip to search box to find specific information. In contrast, low number of search queries may mean content is readily available and complete. This metric will help determine if any of those scenarios apply to your website.                                                                                                                                                                                                                       |
+
+
+---
+
+Definitions above are derived from the [Web Analytics Association’s Definitions of Common Metrics Terms (PDF, 111 KB, 34 pages, January 2008)](https://www.smartz.com/blog/wp-content/uploads/2009/04/waa-standards-analytics-definitions-volume-i-20070816.pdf)
 
 ### How to Collect and Analyze the Data
 
@@ -271,7 +156,7 @@ This is the break-down of recommended dimensions and the types of insights each 
 
 The use of these five Web dimensions will allow for insightful, sophisticated reporting and research to answer such common questions, as:
 
-  * How many of our site visits came from the U.S. vs. internationally?  Via a mobile device using a search engine?
+  * How many of our site visits came from the U.S. vs. internationally? Via a mobile device using a search engine?
   * How many visits and page views came from .gov domains vs. commercial sites in the last 12 months?
   * What are the top X offsite pages that visitors go to after leaving our website?
   * What are our top on-site search queries? Do they contain any content that our website lacks or is hard to find?
@@ -282,15 +167,15 @@ The use of these five Web dimensions will allow for insightful, sophisticated re
 
 **2. Use a variety of data to tell a complete story.** The intent of measuring isn’t to collect a bunch of isolated, raw data. The purpose is to collect a diverse set of data that is analyzed holistically and where someone makes connections to tell a complete story about how people are using and engaging with your website or other digital channel.
 
-**3.  Focus on making continuous improvements.** The ultimate goal is to drive a [continual improvement of the online experience](http://www.kaushik.net/avinash/best-web-analytics-tools-quantitative-qualitative/) for your customers. Experts call these &#8220;actionable metrics,&#8221; as described in this [Web Analytics presentation](http://www.slideshare.net/emagination/actionable-web-analytics-for-e-governmentedit) and [web analytics blog](http://www.seomoz.org/blog/11-analytics-metrics-that-are-actionable). Use the metrics you gather to make targeted, data-driven improvements to your site, and track changes you’ve made to measure levels of success. In essence, you’re listening to your customers, and you’re making improvements based on what you hear.
+**3. Focus on making continuous improvements.** The ultimate goal is to drive a [continual improvement of the online experience](http://www.kaushik.net/avinash/best-web-analytics-tools-quantitative-qualitative/) for your customers. Experts call these &#8220;actionable metrics,&#8221; as described in this [Web Analytics presentation](http://www.slideshare.net/emagination/actionable-web-analytics-for-e-governmentedit) and [web analytics blog](https://moz.com/blog/11-analytics-metrics-that-are-actionable). Use the metrics you gather to make targeted, data-driven improvements to your site, and track changes you’ve made to measure levels of success. In essence, you’re listening to your customers, and you’re making improvements based on what you hear.
 
-**4.  Use the data to prioritize resource needs and improvements.** In addition to measuring performance and satisfaction, metrics such as total page views will help you identify which content is most heavily used by your customers. This can be used to identify your customers’ top tasks so you can prioritize making improvements to that content first. In many cases, websites follow a &#8220;[long tail](http://en.wikipedia.org/wiki/Long_Tail)&#8221; pattern, where a few of the most popular webpages garner the most website traffic. If this is the case with your website, you can make improvements to that content first, which may give you the biggest return on investment and impact on overall customer experience.
+**4. Use the data to prioritize resource needs and improvements.** In addition to measuring performance and satisfaction, metrics such as total page views will help you identify which content is most heavily used by your customers. This can be used to identify your customers’ top tasks so you can prioritize making improvements to that content first. In many cases, websites follow a &#8220;[long tail](http://en.wikipedia.org/wiki/Long_Tail)&#8221; pattern, where a few of the most popular webpages garner the most website traffic. If this is the case with your website, you can make improvements to that content first, which may give you the biggest return on investment and impact on overall customer experience.
 
 **5. Be careful not to misinterpret the data.** Always be prepared to do a deeper dive and ask critical questions so you don’t inadvertently misinterpret your data. For example, you may think that having a longer average time on site is good because it means people are spending more time on your site and are more engaged. But the flip side could actually be true—people may be spending longer because they can’t find what they need. In this case, you may want to identify your most visited pages to see what is a reasonable amount of time people should spend on those pages and see if that aligns with the actual data. You may also need to look at customer satisfaction data for that content, bounce rates, etc. This is why it’s important to look at a variety of metrics.
 
-**6.  Provide context.** To minimize the chance for misinterpretation of this data, you’re encouraged to &#8220;tell your digital metrics story&#8221; on your /digitalstrategy page. Provide background or supporting information to help your readers understand what this data means for your agency, beyond just numbers. For example, key measures for a Web portal may be different from an informational site, so take the opportunity to explain how.
+**6. Provide context.** To minimize the chance for misinterpretation of this data, you’re encouraged to &#8220;tell your digital metrics story&#8221; on your /digitalstrategy page. Provide background or supporting information to help your readers understand what this data means for your agency, beyond just numbers. For example, key measures for a Web portal may be different from an informational site, so take the opportunity to explain how.
 
-**7.  Set performance targets and make sure they align with agency and business goals.** Setting performance targets will give you defined goals that align with your agency mission and particular business objectives. You can identify targets based on prevailing practices from government or industry, or you can set goals to improve a particular metric over time. For example, you could set a goal to achieve a particular bounce rate, knowing that the average bounce rate for websites is 50%, according to Inc.com. Given this information, there might be cause for concern if you have a higher than [average bounce rate](http://www.inc.com/guides/2011/01/how-to-reduce-your-website-bounce-rate.html) or if your bounce rate continues to increase (unless of course, you determine that a high bounce rate is good, as may be the case with a link portal site). In this scenario, you’d want to look at other metrics to get a complete picture and identify ways to improve the content and better engage your customers.
+**7. Set performance targets and make sure they align with agency and business goals.** Setting performance targets will give you defined goals that align with your agency mission and particular business objectives. You can identify targets based on prevailing practices from government or industry, or you can set goals to improve a particular metric over time. For example, you could set a goal to achieve a particular bounce rate, knowing that the average bounce rate for websites is 50%, according to Inc.com. Given this information, there might be cause for concern if you have a higher than [average bounce rate](http://www.inc.com/guides/2011/01/how-to-reduce-your-website-bounce-rate.html) or if your bounce rate continues to increase (unless of course, you determine that a high bounce rate is good, as may be the case with a link portal site). In this scenario, you’d want to look at other metrics to get a complete picture and identify ways to improve the content and better engage your customers.
 
 **8. Measure what matters to your customers.** Keep in mind that people may use government websites specifically (when filing tax returns, to get a form), periodically (travel advisories abroad), or continuously (weather site). Depending on your site’s purpose and goals, some measures may be more important and better indicators of success. For example, when looking at average visits per visitor, the expectations of what is good or bad may vary widely by business model, as explained by Web Analytics Demystified.  If you have a customer support type website, having a low average visits per visitor may be good since it could suggest that people don’t need to have multiple visits because they’re quickly satisfied with your service or they’re able to quickly resolve problems via other customer service channels (i.e., phone, in-person). But having a high visit per visitor may be good for a website whose primary purpose is a marketing campaign where you’re looking for many people to return often to your site and engage regularly.
 
@@ -316,95 +201,49 @@ Note that the four baseline metrics below are considered &#8220;beta.&#8221; Wor
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
-    <th scope="col" width="25%">
-      Metric
-    </th>
-
-    <th scope="col" width="25%">
-      Definition
-    </th>
-
-    <th scope="col" width="25%">
-      Ways to Use This Metric
-    </th>
-
-    <th scope="col" width="25%">
-      Benefits
-    </th>
+    <th scope="col" width="25%">Metric</th>
+    <th scope="col" width="25%">Definition</th>
+    <th scope="col" width="25%">Ways to Use This Metric</th>
+    <th scope="col" width="25%">Benefits</th>
   </tr>
-
   <tr>
-    <td>
-      Overall customer experience
-    </td>
-
-    <td>
-      Customer’s perception of the experience of their visit.
-    </td>
-
-    <td>
-      Used to baseline and benchmark scores from month-to-month or year-to-year. Some tools allow for comparisons across agencies.
-    </td>
-
-    <td>
-      Very useful as overall benchmark. However, overall experience can be influenced (negatively or positively) by how someone feels overall about your organization.
-    </td>
+    <td>Overall customer experience</td>
+    <td>Customer’s perception of the experience of their visit.</td>
+    <td>Used to baseline and benchmark scores from month-to-month or year-to-year. Some tools allow for comparisons across agencies.</td>
+    <td>Very useful as overall benchmark. However, overall experience can be influenced (negatively or positively) by how someone feels overall about your organization.</td>
   </tr>
-
   <tr>
-    <td>
-      Completion rate of intended task
-    </td>
-
-    <td>
-      The customer’s perceived ability to get the information or service they came to accomplish.
-    </td>
-
-    <td>
-      Very actionable data that gives accurate picture of whether people could successfully complete their task. Determines needs of the customer, and gaps and deficiencies in services and information.
-    </td>
-
-    <td>
-      Useful to compare with actual performance data. Some tools allow for integration between performance and customer satisfaction metrics.
-    </td>
+    <td>Completion rate of intended task</td>
+    <td>The customer’s perceived ability to get the information or service they came to accomplish.</td>
+    <td>Very actionable data that gives accurate picture of whether people could successfully complete their task. Determines needs of the customer, and gaps and deficiencies in services and information.</td>
+    <td>Useful to compare with actual performance data. Some tools allow for integration between performance and customer satisfaction metrics.</td>
   </tr>
-
   <tr>
-    <td>
-      % of visitors likely to return
-    </td>
-
-    <td>
-      A customer’s perceived willingness to choose your service for the same or similar task in the future.
-    </td>
-
-    <td>
-      Gauges adoption & loyalty.
-    </td>
-
-    <td>
-      Important to pair this &#8220;intention&#8221; with actual returning visitor data to make better predictions about your customers.
-    </td>
+    <td>Percent of visitors likely to return</td>
+    <td>A customer’s perceived willingness to choose your service for the same or similar task in the future.</td>
+    <td>Gauges adoption & loyalty.</td>
+    <td>Important to pair this &#8220;intention&#8221; with actual returning visitor data to make better predictions about your customers.</td>
   </tr>
-
   <tr>
-    <td>
-      % of visitors likely to recommend
-    </td>
-
-    <td>
-      A customer’s perceived willingness to recommend your product or service
-    </td>
-
-    <td>
-      Gauges adoption & loyalty.
-    </td>
-
-    <td>
-      Important to pair this &#8220;intention&#8221; with increase in new visitor data to make better predictions about your customers.
-    </td>
+    <td>Percent of visitors likely to recommend</td>
+    <td>A customer’s perceived willingness to recommend your product or service</td>
+    <td>Gauges adoption & loyalty.</td>
+    <td>Important to pair this &#8220;intention&#8221; with increase in new visitor data to make better predictions about your customers.</td>
   </tr>
 </table>
+
+
+---
+
+| **Metric**                              | **Definition**                                                                                        | **Ways to Use This Metric**                                                                                                                                                                         | **Benefits**                                                                                                                                                     |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Overall customer experience             | Customer’s perception of the experience of their visit.                                               | Used to baseline and benchmark scores from month-to-month or year-to-year. Some tools allow for comparisons across agencies.                                                                        | Very useful as overall benchmark. However, overall experience can be influenced (negatively or positively) by how someone feels overall about your organization. |
+| Completion rate of intended task        | The customer’s perceived ability to get the information or service they came to accomplish.           | Very actionable data that gives accurate picture of whether people could successfully complete their task. Determines needs of the customer, and gaps and deficiencies in services and information. | Useful to compare with actual performance data. Some tools allow for integration between performance and customer satisfaction metrics.                          |
+| Percent of visitors likely to return    | A customer’s perceived willingness to choose your service for the same or similar task in the future. | Gauges adoption & loyalty.                                                                                                                                                                          | Important to pair this &#8220;intention&#8221; with actual returning visitor data to make better predictions about your customers.                               |
+| Percent of visitors likely to recommend | A customer’s perceived willingness to recommend your product or service                               | Gauges adoption & loyalty.                                                                                                                                                                          | Important to pair this &#8220;intention&#8221; with increase in new visitor data to make better predictions about your customers.                                |
+
+
+---
 
 **Other measures to consider:**
 
@@ -420,9 +259,9 @@ Note that the four baseline metrics below are considered &#8220;beta.&#8221; Wor
 To help you collect the common customer satisfaction metrics above, the following are recommended questions to ask via online customer satisfaction surveys. These questions are based on extensive research from Forrester, Gartner, other industry practices, and a review of what agencies are already doing to measure customer satisfaction.
 
   1. How would you rate your overall experience today? [Scale of 1-5 or 1-10]
-  2. Were you able to complete the purpose of your visit? [Yes/No—if not, why not?]
-  3. Would you still return to this website if you could get this information or service from another source? [Yes/No]
-  4. Will you recommend this website to a friend or colleague? [Yes/No]
+  2. Were you able to complete the purpose of your visit? [Yes or No — if not, why not?]
+  3. Would you still return to this website if you could get this information or service from another source? [Yes or No]
+  4. Will you recommend this website to a friend or colleague? [Yes or No]
 
 Additionally, these are questions that some agencies have used to gather related insights on customer satisfaction:
 
@@ -461,181 +300,74 @@ Search is the largest driver of traffic to government content, so it’s critica
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
-    <th scope="col" width="25%">
-      Measure
-    </th>
-
-    <th scope="col" width="25%">
-      Definition
-    </th>
-
-    <th scope="col" width="50%">
-      How to Use It
-    </th>
+    <th scope="col" width="25%">Measure</th>
+    <th scope="col" width="25%">Definition</th>
+    <th scope="col" width="50%">How to Use It</th>
   </tr>
-
   <tr>
-    <td colspan="3">
-      <strong>External Search</strong>
-    </td>
+    <td colspan="3"><strong>External Search</strong></td>
   </tr>
-
   <tr>
-    <td>
-      Top referring commercial search engines
-    </td>
-
-    <td>
-      The search engines (e.g., Google, Bing, Yahoo) that send the most traffic to your site
-    </td>
-
-    <td>
-      Use their webmaster tools to optimize your site for these search engines, to make your content easier to find.
-    </td>
+    <td>Top referring commercial search engines</td>
+    <td>The search engines (e.g., Google, Bing, Yahoo) that send the most traffic to your site</td>
+    <td>Use their webmaster tools to optimize your site for these search engines, to make your content easier to find.</td>
   </tr>
-
   <tr>
-    <td>
-      Top referring search terms
-    </td>
-
-    <td>
-      The most-used words and phrases people type into commercial search engines to find your content
-    </td>
-
-    <td>
-      Verify that you’re using the words of your customers (not bureaucratic, organizational jargon). Use their terminology in page titles, page content, keywords, and metadata to help your readers and improve SEO.
-    </td>
+    <td>Top referring search terms</td>
+    <td>The most-used words and phrases people type into commercial search engines to find your content</td>
+    <td>Verify that you’re using the words of your customers (not bureaucratic, organizational jargon). Use their terminology in page titles, page content, keywords, and metadata to help your readers and improve SEO.</td>
   </tr>
-
   <tr>
-    <td>
-      Top referring search terms with low Click Through Rates (CTR)
-    </td>
-
-    <td>
-      The most common links followed for specific search terms that don&#8217;t lead to clicks on your website
-    </td>
-
-    <td>
-      Review and update any content related to these search terms to make content more compelling and useful.
-    </td>
+    <td>Top referring search terms with low Click Through Rates (CTR)</td>
+    <td>The most common links followed for specific search terms that don&#8217;t lead to clicks on your website</td>
+    <td>Review and update any content related to these search terms to make content more compelling and useful.</td>
   </tr>
-
   <tr>
-    <td colspan="3">
-      <strong>Internal/Site Search</strong>
-    </td>
+    <td colspan="3"><strong>Internal/Site Search</strong></td>
   </tr>
-
   <tr>
-    <td>
-      Top search terms/phrases
-    </td>
-
-    <td>
-      The most-used words and phrases people type into your site’s search box
-    </td>
-
-    <td>
-      Create new content or update existing content to incorporate the &#8220;words of your customers&#8221; in your metadata and content so searchers can find the right information
-    </td>
+    <td>Top search terms/phrases</td>
+    <td>The most-used words and phrases people type into your site’s search box</td>
+    <td>Create new content or update existing content to incorporate the &#8220;words of your customers&#8221; in your metadata and content so searchers can find the right information</td>
   </tr>
-
   <tr>
-    <td>
-      Top &#8220;no results&#8221; queries
-    </td>
-
-    <td>
-      Most popular, valid searches that don&#8217;t return any results on your site&#8217;s search results page (e.g., because you don&#8217;t have the content on your site, or the content isn&#8217;t findable by the person&#8217;s search term)
-    </td>
-
-    <td>
-      Review your content to see if you need to add new content, or update existing content to include the words your readers search for
-    </td>
+    <td>Top &#8220;no results&#8221; queries</td>
+    <td>Most popular, valid searches that don&#8217;t return any results on your site&#8217;s search results page (e.g., because you don&#8217;t have the content on your site, or the content isn&#8217;t findable by the person&#8217;s search term)</td>
+    <td>Review your content to see if you need to add new content, or update existing content to include the words your readers search for</td>
   </tr>
-
   <tr>
-    <td>
-      Top searches with low Click Through Rates (CTR)
-    </td>
-
-    <td>
-      Most popular search terms that people generally don’t act (click) on
-    </td>
-
-    <td>
-      Incorporate language from these popular search terms into page titles or descriptions, to encourage searchers to click on your relevant page
-    </td>
+    <td>Top searches with low Click Through Rates (CTR)</td>
+    <td>Most popular search terms that people generally don’t act (click) on</td>
+    <td>Incorporate language from these popular search terms into page titles or descriptions, to encourage searchers to click on your relevant page</td>
   </tr>
-
   <tr>
-    <td>
-      Top changing search terms (movement up/down)
-    </td>
-
-    <td>
-      Shows trending topics, what’s hot or not
-    </td>
-
-    <td>
-      Investigate why people might be losing interest in once-popular content and consider archiving if it’s no longer needed. For newly popular terms, create new content or update existing content to ensure it’s current, accurate, and complete
-    </td>
+    <td>Top changing search terms (movement up/down)</td>
+    <td>Shows trending topics, what’s hot or not</td>
+    <td>Investigate why people might be losing interest in once-popular content and consider archiving if it’s no longer needed. For newly popular terms, create new content or update existing content to ensure it’s current, accurate, and complete</td>
   </tr>
-
   <tr>
-    <td>
-      Percentage of visitors using site search
-    </td>
-
-    <td>
-      Percentage of people who visited your site and used the search box on your site
-    </td>
-
-    <td>
-      Focus on both search and navigation to help visitors find information, improve your information architecture, and make popular content more visible from entry pages
-    </td>
+    <td>Percentage of visitors using site search</td>
+    <td>Percentage of people who visited your site and used the search box on your site</td>
+    <td>Focus on both search and navigation to help visitors find information, improve your information architecture, and make popular content more visible from entry pages</td>
   </tr>
-
   <tr>
-    <td>
-      Top clicked URLs for specific queries
-    </td>
-
-    <td>
-      Most common results that searchers found most relevant or appealing, for specific search terms
-    </td>
-
-    <td>
-      Review these popular pages and other customer top tasks to make sure they are current, accurate, complete and compelling
-    </td>
+    <td>Top clicked URLs for specific queries</td>
+    <td>Most common results that searchers found most relevant or appealing, for specific search terms</td>
+    <td>Review these popular pages and other customer top tasks to make sure they are current, accurate, complete and compelling</td>
   </tr>
-
   <tr>
-    <td colspan="3">
-      <strong>Speed</strong>
-    </td>
+    <td colspan="3"><strong>Speed</strong></td>
   </tr>
-
   <tr>
-    <td>
-      Page load time
-    </td>
-
-    <td>
-      How quickly pages (including your search results page) load on your site
-    </td>
-
-    <td>
-      Speed is even more important than relevance in terms of whether people engage or abandon search. If pages take a long time to load, search engines won’t crawl them, and users will abandon your site. Make sure your site is optimized to load pages as fast as possible.
-    </td>
+    <td>Page load time</td>
+    <td>How quickly pages (including your search results page) load on your site</td>
+    <td>Speed is even more important than relevance in terms of whether people engage or abandon search. If pages take a long time to load, search engines won’t crawl them, and users will abandon your site. Make sure your site is optimized to load pages as fast as possible.</td>
   </tr>
 </table>
 
 ### How to Collect
 
-To collect search metrics, you&#8217;ll need to pull data from a variety of sources:
+To collect search metrics, you'll need to pull data from a variety of sources:
 
 **1. Register for the commercial search engines’ webmaster tools**
 
@@ -656,7 +388,7 @@ Usability—now more commonly referred to as User Experience—is how a person f
 
 Website User Experience focuses on how visitors think information should be organized on a website, what they expect to see when they click on a link, or their ability to find something. It’s important because online services (whether a tax form, an app for finding a bus route, or a phone number for complaints) should be easy to find and use.
 
-### **Usability Testing**
+### Usability Testing
 
 [Usability testing]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") provides an opportunity to watch real people using your product. It can give you important metrics such as how long it takes someone to complete a task, or how many clicks it takes to find something. It also gives you general feedback about design and functionality, offering invaluable insights into what you need to improve. If people can’t use your site, all the work you put into writing, coding and designing your site will be wasted, and you will fail in your mission. Usability testing routinely achieves a [high return on investment](http://www.useit.com/alertbox/government-nonprofit.html) by saving agencies thousands to millions of dollars on development costs.
 
@@ -686,19 +418,19 @@ What differentiates usability testing from other performance metrics is that it 
 
 GSA&#8217;s DigitalGov User Experience Program recommends doing a small-scale test of your website every month, to build confidence and expertise, but this may be too much for some agencies. Keep in mind that, the more often you test, the more you will cultivate a culture supportive of usability testing. Once you have that, you can prioritize and test as often as needed.
 
-**Reporting Usability Metrics **
+**Reporting Usability Metrics**
 
 User experience (usability) testing is extremely valuable but also time-intensive, so make sure you document your findings and metrics. Remember that most people don’t read reports, especially long ones, so catalogue the essential information and summarize the rest. Start off with a summary of the results, next document how you ran the tests and then highlight the data. Here&#8217;s a sample [usability report from DigitalGov User Experience Program](https://docs.google.com/a/gsa.gov/file/d/0B-lTql0gzZu6YkdMRXhUWnprNDQ/edit?pli=1#) and one from [Usability.gov](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Ftemplates%2Fdocs%2Fshort_test_rep.doc&sa=D&sntz=1&usg=AFQjCNEAV66FKREUO6hpgsRIpjKqr81X4g) (Word document, 215 K, 6 pages, August 2012).
 
 ## <a name="mobile-metrics"></a>Mobile Metrics
 
-A centerpiece of the Digital Government Strategy, is a &#8220;mobile first&#8221; approach, where new Web products and applications are designed for mobile devices first, instead of the traditional desktop design.
+A centerpiece of the Digital Government Strategy, is a "mobile first" approach, where new Web products and applications are designed for mobile devices first, instead of the traditional desktop design.
 
 Measuring mobile performance, which is a new channel for most agencies, is generally concerned with mobile websites, mobile apps, SMS, or even QR codes. The good news is that measuring for these channels is not markedly different from measuring performance for other digital services listed  in the other sections of the Metrics toolkit.
 
 The Mobile Gov Community of Practice is working to define practices in mobile measurement and they have created some mobile measurement and analytics practices on the Mobile Gov Wiki. Below we have listed some general approaches taken by agencies when measuring mobile product performance.
 
-**Mobile Web**—If you  have a mobile website, as covered in the &#8220;dimensions&#8221; section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (NLM) has shared an ongoing study of how they’re [measuring effectiveness and quality for their MedlinePlus mobile website]({{< ref "2012-06-20-medlineplus-mobile-evaluation.md" >}}). They measure their performance by asking three questions:
+**Mobile Web**—If you have a mobile website, as covered in the "dimensions" section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (NLM) has shared an ongoing study of how they’re [measuring effectiveness and quality for their MedlinePlus mobile website]({{< ref "2012-06-20-medlineplus-mobile-evaluation.md" >}}). They measure their performance by asking three questions:
 
   * Who is using MedlinePlus Mobile?
   * How are they using MedlinePlus Mobile?
@@ -706,8 +438,8 @@ The Mobile Gov Community of Practice is working to define practices in mobile me
 
 **SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program]({{< ref "2012-08-21-sms-or-short-message-service.md" >}}), they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
 
-  * How would you rate your overall  satisfaction with CDC&#8217;s text messaging pilot?
-  * How likely are you to use any of the information in the text  messages to improve your health?
+  * How would you rate your overall satisfaction with CDC&#8217;s text messaging pilot?
+  * How likely are you to use any of the information in the text messages to improve your health?
   * How likely are you to recommend CDC&#8217;s text messaging pilot to a friend?
   * In your opinion, how effective are CDC&#8217;s text messages in meeting your needs?
   * How often would you like to receive messages?
@@ -715,7 +447,7 @@ The Mobile Gov Community of Practice is working to define practices in mobile me
 **Native Mobile Apps**—The newest of the digital services applications, agencies are still grasping with proper native performance measurement, but here are four metrics agencies are looking at to measure effectiveness.
 
   * How many app downloads do we have this month?
-  * How many &#8220;active downloads&#8221; do we have this month?  (A sign of regular users for your app)
+  * How many &#8220;active downloads&#8221; do we have this month? (A sign of regular users for your app)
   * What are my customer reviews on the platform store? (i.e., &#8220;rate your app&#8221; rankings on the app store)
   * How many users are downloading our app updates?
   * If you agency app includes a Web page that is accessed once the app is open, what are the number of page views?
@@ -799,7 +531,7 @@ Common digital metrics and enterprise-wide performance measures offer:
 
   * **Cost savings**—Central procurement of common tools will save agencies significant time and money, and ensure they have robust analytics tools to effectively measure performance.
   * **Adoption of industry standards**—Common methodology, terminology, and tools will improve the accuracy of data across the federal Web space, making it easier to spot gaps and inaccuracies and fix them on a global scale. Adopting industry standards models the best practices of most successful large organizations.
-  * **Better management and accountability**—Publishing real-time, open and transparent data on .gov websites will lead to greater accountability and improved management of public websites, encourage agencies  to consistently evaluate the success and usability of their websites, and more easily address gaps or duplications in services across the federal government.
+  * **Better management and accountability**—Publishing real-time, open and transparent data on .gov websites will lead to greater accountability and improved management of public websites, encourage agencies to consistently evaluate the success and usability of their websites, and more easily address gaps or duplications in services across the federal government.
   * **Improved collaboration**—Agencies can more easily share best practices, training, strategies, and solutions when using similar tools and measures.
   * **High-level comparative analysis**—Aggregating data across all federal executive branch websites will deliver precise information on the reach, growth, and impact of digital government services.
 
@@ -825,7 +557,7 @@ Key success elements will include:
   * Collection methodology
   * Web analytics tool
 
-[{{< legacy-img src="2014/01/digital-services-measurement-framework-221x250.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/digital-services-measurement-framework.jpg)
+{{< img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/digital-services-measurement-framework.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." >}}
 
 The framework is based on the following types of measures:
 
@@ -838,7 +570,7 @@ The framework is based on the following types of measures:
 To support this common framework, agencies should collect performance and customer service metrics using the following types of tools:
 
   * **Performance**—It is now an industry standard to use page tagging to collect real-time performance metrics, so this framework calls for the use of a common tool to collect agency performance metrics.
-  * **Customer Satisfaction**—Until an industry standard becomes apparent for collecting customer satisfaction metrics, we’re asking agencies to collect a set of four common reporting metrics, based on extensive industry research and and a review of existing agency systems.  These are considered in &#8220;beta&#8221; mode while we test their usefulness during implementation.
+  * **Customer Satisfaction**—Until an industry standard becomes apparent for collecting customer satisfaction metrics, we’re asking agencies to collect a set of four common reporting metrics, based on extensive industry research and and a review of existing agency systems. These are considered in &#8220;beta&#8221; mode while we test their usefulness during implementation.
 
 ## <a name="part-4"></a>Part 4: Case Studies, Resources, and Training
 
@@ -850,19 +582,19 @@ To support this common framework, agencies should collect performance and custom
   * [USDA Page-Tagging Metrics Strategy](http://blog.howto.gov/2012/10/10/demystifying-digitalgov-metrics-with-page-tags/)—enterprise-wide implementation of a common web analytics program across all USDA agency and office websites.
   * [City of Boston](http://www.cityofboston.gov/doit/metrics/)—Web metrics dashboard provides high-level view of page visits, popular pages, search terms, and more.
 
-### **Communities of Practice**
+### Communities of Practice
 
   * [Web and New Media Community]({{< ref "web-managers-forum.md" >}})—an ad hoc group of over 3,000 federal, state, local, and tribal U.S. government employees.
   * Metrics Community of Practice—part of the [Federal Web Managers Council]({{< ref "web-managers-forum.md" >}}), an inter-agency group working to improve digital metrics.
   * [Social Media Performance Metrics working group]({{< ref "communities/social-media.md" >}}).
 
-### **Training**
+### Training
 
 Get more information about training from [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}), and subscribe to get [email updates on new and upcoming events](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45).
 
 ## References
 
-### **Policy and Other Directives**
+### Policy and Other Directives
 
 These are federal initiatives and directives related to performance management and customer service that provide additional context and background:
 
