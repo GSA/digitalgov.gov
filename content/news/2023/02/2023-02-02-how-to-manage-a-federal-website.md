@@ -15,7 +15,8 @@ topics:
 authors:
   - frances-carden
 slug: how-to-manage-a-federal-website
-primary_image: 
+primary_image: "virtual-diagram-web-icons-law-standards-checklist-everythingpossible-istock-getty-images-1370928101"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
