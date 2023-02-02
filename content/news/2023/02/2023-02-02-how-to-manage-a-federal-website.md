@@ -11,13 +11,18 @@ topics:
   - accessibility
   - content-strategy
   - plain-language
+# See all authors at https://digital.gov/authors
+authors:
+  - frances-carden
 slug: how-to-manage-a-federal-website
-primary_image: 10x-funded-cover
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Managing a successful government website is a targeted exercise. This article will provide you with five steps to help you build and maintain a successful government website.
 
 ## Step 1: Know your audience to define your goals and determine success.
@@ -67,7 +72,7 @@ Use [plain language](https://www.plainlanguage.gov/about/definitions/)! It’s [
 * Avoid jargon.
 * Minimize use of abbreviations, such as acronyms that your readers may not know.
 
-*The **Plain Language Community of Practice** is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. **[Join the Plain Language community](https://digital.gov/communities/plain-language/)** today.*
+{{< note >}}*The **Plain Language Community of Practice** is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. **[Join the Plain Language community](https://digital.gov/communities/plain-language/)** today.*{{< /note >}}
 
 Keep reading level in mind. Websites meant for the general public should not require a reading level more advanced than 8th grade. You can read more about assessing the text reading level in the [Web Content Accessibility Guidelines](https://www.w3.org/TR/2016/NOTE-UNDERSTANDING-WCAG20-20161007/meaning-supplements.html). Multiple online tools are available to help you determine the reading level of your content and make it more accessible.
 
@@ -99,7 +104,7 @@ The purpose of Section 508 is to ensure that federal agency technology (includin
 * [Section 508 accessibility checklists](https://www.hhs.gov/web/section-508/accessibility-checklists/index.html) — HHS.gov
 * [How to test websites for accessibility](https://digital.gov/resources/how-test-websites-for-accessibility/) — Digital.gov
 
-*The **IT Accessibility and Section 508 Community of Practice** is a group of federal employees who manage agency Section 508 programs or create electronic content. They work to create accessible online experiences for federal employees and members of the public. [Join the IT Accessibility and Section 508 community](https://digital.gov/communities/it-accessibility-section-508/) today.*
+{{< note >}}*The **IT Accessibility and Section 508 Community of Practice** is a group of federal employees who manage agency Section 508 programs or create electronic content. They work to create accessible online experiences for federal employees and members of the public. [Join the IT Accessibility and Section 508 community](https://digital.gov/communities/it-accessibility-section-508/) today.*{{< /note >}}
 
 ## Step 3: Ensure your website complies with rules and regulations
 
@@ -112,7 +117,7 @@ Make sure that your website complies with all federal rules and regulations. Che
 * [Meet your Federal Web Council](https://digital.gov/2019/11/12/meet-your-federal-web-council/) — Digital.gov
 * [Customer experience toolkit](https://digital.gov/resources/customer-experience-toolkit/) — Digital.gov
 
-*The **Web Managers Community of Practice** is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers community](https://digital.gov/communities/web-content-managers/) today.*
+{{< note >}}*The **Web Managers Community of Practice** is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers community](https://digital.gov/communities/web-content-managers/) today.*{{< /note >}}
 
 ## Step 4: Understand your metrics and how they work
 
@@ -149,4 +154,4 @@ Use metrics and feedback to make your website better. Metrics are simply numbers
 * [Web analytics playbook](https://digital.gov/guides/web-analytics-playbook/?dg) — Digital.gov
 * [Analytics playlist](https://www.youtube.com/watch?v=H0YMQe4rZug&list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba&index=5) — Digital.gov videos
 
-*The **Web Analytics Community of Practice** aims to uncover best practices, case studies, tips, and tools for web analytics and optimization. We are federal website analysts, developers, content strategists, user experience (UX) designers, communications professionals, or any and everyone else who use data to improve the public’s interaction with federal sites. [Join the Web Analytics and Optimization community](https://digital.gov/communities/web-analytics-and-optimization/) today.*
+{{< note >}}*The **Web Analytics Community of Practice** aims to uncover best practices, case studies, tips, and tools for web analytics and optimization. We are federal website analysts, developers, content strategists, user experience (UX) designers, communications professionals, or any and everyone else who use data to improve the public’s interaction with federal sites. [Join the Web Analytics and Optimization community](https://digital.gov/communities/web-analytics-and-optimization/) today.*{{< /note >}}
