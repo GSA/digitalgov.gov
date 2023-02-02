@@ -2,10 +2,13 @@
 
 .usa-nav__secondary-links {
   .usa-nav__secondary-item {
+    padding-left: 0; // removed .25rem value, moved to margin-left below for Safari
     & + .usa-nav__secondary-item::before {
       @include at-media("desktop") {
-        padding-right: units(0.5);
-        content: "\007C"; // Code for "|" character
+        padding-right: 6px;
+        content: "";
+        border-left: 1.5px solid color("base-lighter");
+        margin-left: .25rem;
       }
     }
   }
