@@ -46,7 +46,7 @@ community_list:
     type: government_only
     subscribe_email: "content-managers-l-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Web Managers Community"
-    terms: "Government employees with an official .gov/.mil email are eligible to join."
+    terms: "Government employees with an official .gov or .mil email are eligible to join."
     members: 1,796
     blurb: "Web Manager community members"
 

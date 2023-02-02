@@ -25,8 +25,8 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "fcn-request@listserv.gsa.gov"
-    subscribe_email_subject: "Join the Communicators Community" 
-    terms: "Government employees and contractors with an official .gov/.mil email are eligible to join."
+    subscribe_email_subject: "Join the Communicators Community"
+    terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
     members: 1,999
     blurb: "Communicator community members"
 
