@@ -43,7 +43,7 @@ Web performance metrics tell you how well your website and other digital service
 
 ### What to Collect
 
-Milestone 8.1 of the [Digital Government Strategy](http://www.obamawhitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s Center for Digital Services Innovation Center to develop guidance on common performance metrics. The following guidance was derived from extensive research of common practices in industry and government and recommendations from the Federal Web Metrics Community of Practice.
+[Milestone 8.1](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance) of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s Center for Digital Services Innovation Center to develop guidance on common performance metrics. The following guidance was derived from extensive research of common practices in industry and government and recommendations from the Federal Web Metrics Community of Practice.
 
 Below are ten minimum common baseline performance metrics that agencies should collect for their .gov websites. They will help you measure different elements of performance, such as how many people are visiting your websites, how much time they&#8217;re spending on your site, how often they return, etc.
 
