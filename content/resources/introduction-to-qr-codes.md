@@ -4,6 +4,9 @@ title: Introduction to QR codes
 deck: How and why to use QR codes to bridge the online and offline worlds
 summary: What is a QR code and how can you create one? What are some alternatives to using QR codes? This introductory resource will help you explore your options.
 
+aliases:
+  - /2013/02/14/qr-codes/
+
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
@@ -15,8 +18,6 @@ authors:
   - bonnie-cameron
 
 slug: introduction-to-qr-codes
-aliases:
-  - /2013/02/14/qr-codes/
 
 primary_image: "3-d-quick-response-q-r-code-ktsimage-istock-getty-images-893155274"
 
