@@ -2,13 +2,17 @@
 
 .usa-nav__secondary-links {
   .usa-nav__secondary-item {
-    padding-left: 0; // removed .25rem value, moved to margin-left below for Safari
-    & + .usa-nav__secondary-item::before {
-      @include at-media("desktop") {
-        padding-right: 6px;
+    @include at-media("desktop") {
+      padding-left: units(0.5);
+      & + .usa-nav__secondary-item::before {
+        background-color: color("base-lighter");
+        display: inline-block;
+        width: units("1px");
+        height: units(2);
         content: "";
-        border-left: 1.5px solid color("base-lighter");
-        margin-left: .25rem;
+        margin-right: units(0.5);
+        vertical-align: middle;
+        padding-right: 0;
       }
     }
   }
