@@ -46,6 +46,8 @@ Although a QR code is a flexible tool for bridging the online and offline worlds
 * URL shortener. If using a QR Code to point to a web page, keep in mind the size of the QR code is directly proportional to the length of the URL it points to. This can become an issue if the generated QR code image becomes too large for use in printed materials. In that case, consider using a URL shortener.
 * Click tracker. Creating a QR code allows you to track how many people have used it. But if you are going to use it solely for that purpose, it may not be the tool you need. Instead, consider using an analytics tool. Want to learn how? Take a look at [DAP Learning Series: Creating Your Own Campaign URL Builder](https://digital.gov/event/2018/04/18/dap-learning-series-creating-your-own-campaign-url-builder/).
 
+{{< img-right src="q-r-code-digital-gov" >}}
+
 ## QR code generators
 
 If you’ve determined that a QR code is the best tool to meet your needs, here are a few options for how to create one.
