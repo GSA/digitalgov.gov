@@ -12,7 +12,7 @@ authors:
 
 [The 2012 Digital Government Strategy](https://obamawhitehouse.archives.gov/digitalgov/about) mission drives agencies, and the need to deliver better services to customers at a lower cost—whether an agency is supporting the warfighter overseas, a teacher seeking classroom resources, or a family figuring out how to pay for college is pushing every level of government to look for new solutions.
 
-The Digital Government Strategy complements several initiatives aimed at building a 21st century government that works better for the American people. These include:
+The Digital Government Strategy complements several initiatives aimed at building a 21st-century government that works better for the American people. These include:
 
 - [Executive Order 13571, Streamlining Service Delivery and Improving Customer Service](https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom)
 - [Executive Order 13576, Delivering an Efficient, Effective, and Accountable Government](https://obamawhitehouse.archives.gov/the-press-office/2011/06/13/executive-order-13576-delivering-efficient-effective-and-accountable-gov)
