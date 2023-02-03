@@ -15,6 +15,9 @@ authors:
   - bonnie-cameron
 
 slug: introduction-to-qr-codes
+aliases:
+  - /2013/02/14/qr-codes/
+
 primary_image: "3-d-quick-response-q-r-code-ktsimage-istock-getty-images-893155274"
 
 # Controls how this page appears across the site
