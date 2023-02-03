@@ -2,28 +2,32 @@
 date: 2023-02-02 18:56:00 -0500
 title: Introduction to QR codes
 deck: How and why to use QR codes to bridge the online and offline worlds
-summary: What's a QR code and when should you use one? What are the alternatives
-  to QR codes? Get answers in this Digital.gov resource on how and why to use
-  them.
+summary: What is a QR code and how can you create one? What are some alternatives to using QR codes? This introductory resource will help you explore your options.
+
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
   - social-media
   - mobile
+
 # See all authors at https://digital.gov/authors
 authors:
   - toni-bonitto
+
 slug: introduction-to-qr-codes
-primary_image: 10x-areas-of-focus
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 ## What are QR codes?
 
-QR codes (or Quick Response codes) are two-dimensional codes that you can scan with a smartphone.  The code contains information, usually a site address, and once you scan it, the code connects you with a resource on the web.
+QR codes (or Quick Response codes) are two-dimensional codes that you can scan with a smartphone. The code contains information, usually a site address, and once you scan it, the code connects you with a resource on the web.
 
 ## Why use QR codes?
 
