@@ -12,10 +12,10 @@ topics:
 
 # See all authors at https://digital.gov/authors
 authors:
-  - toni-bonitto
+  - bonnie-cameron
 
 slug: introduction-to-qr-codes
-primary_image: 
+primary_image: "3-d-quick-response-q-r-code-ktsimage-istock-getty-images-893155274"
 
 # Controls how this page appears across the site
 # 0 -- hidden
