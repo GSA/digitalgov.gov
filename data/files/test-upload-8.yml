@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/test-upload-8.doc
+  # File shortcode: {{< asset-static file="test-upload-8.doc" label="test-upload-8 (PDF, 4 pages, 2MB)">}}
+  date     :  2023-02-03 21:18:58 -0400
+  uid      :  test-upload-8
+  format   :  doc
+  
