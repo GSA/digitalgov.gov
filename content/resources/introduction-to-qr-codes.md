@@ -48,6 +48,8 @@ Although a QR code is a flexible tool for bridging the online and offline worlds
 
 ## QR code generators
 
+{{< img-right src="q-r-code-digital-gov" >}}
+
 If you’ve determined that a QR code is the best tool to meet your needs, here are a few options for how to create one.
 
 * Right-click on the web page and select “Create QR code for this page.” It’s that easy!
