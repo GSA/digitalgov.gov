@@ -1035,12 +1035,29 @@ collections:
         required: true
         <<: *editorComponents
 
+  # FILE UPLOAD =======================
+  - <<: *defaults
+    name: "file-upload"
+    label: "File upload"
+    description: "Upload PDF, Excel, PowerPoint or Word doc"
+    folder: "content/uploads/_inbox"
+    identifier_field: file
+    publish: true
+    fields:
+      - label: "File"
+        name: "file"
+        widget: "file"
+        pattern: ['.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$', "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m"]
+        media_library:
+          config:
+            multiple: true
+            
   # IMAGE UPLOAD =======================
   - <<: *defaults
     name: "image-upload"
     label: "Image upload"
     description: "This page will help upload a new image to Digital.gov"
-    folder: "content/images/_inbox"
+    folder: "content/uploads/_inbox"
     identifier_field: image
     publish: true
     fields:
