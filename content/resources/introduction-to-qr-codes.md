@@ -48,6 +48,8 @@ Although a QR code is a flexible tool for bridging the online and offline worlds
 
 ## QR code generators
 
+{{< img-right src="q-r-code-digital-gov" >}}
+
 If you’ve determined that a QR code is the best tool to meet your needs, here are a few options for how to create one.
 
 * Right-click on the web page and select “Create QR code for this page.” It’s that easy!
@@ -56,5 +58,3 @@ If you’ve determined that a QR code is the best tool to meet your needs, here 
 ## Connect with others interested in QR codes
 
 Want to learn more about QR codes? Join Digital.gov’s [Web Analytics and Optimization Community](https://digital.gov/communities/web-analytics-and-optimization/), which brings together federal practitioners to make better decisions using web analytics and other optimization strategies.
-
-{{< img src="q-r-code-digital-gov" >}}
