@@ -66,7 +66,7 @@ If you’d like to learn more or have feedback to share, we’re eager to hear f
 * Pilot Notify: We’re looking for benefits agency partners to co-design a pilot program to try out U.S. Notify as early as spring 2023. Email us and let us know if you think this might be the tool for you.
 * Attend a collaborative working session: Alongside the above activities, we are also convening cross-functional stakeholders in a series of workshops to connect people across contexts to learn from each other and provide input on what support the Studio could provide to government agencies interested in using notifications. Email us for more information.
 
-{{< box color="" >}}[Email us](<mailto:tts-benefits-studio@gsa.gov?subject=Learn more about U.S. Notify>) to request an introductory call, set up an individual feedback session, pilot the tool, or receive more information.{{< /box >}}
+{{< note >}}[Email us](<mailto:tts-benefits-studio@gsa.gov?subject=Learn more about U.S. Notify>) to request an introductory call, set up an individual feedback session, pilot the tool, or receive more information.{{< /note >}}
 
 ### About the TTS Public Benefits Studio
 
