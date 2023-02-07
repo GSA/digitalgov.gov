@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/2023-10x-event-slides.pptx
+  # File shortcode: {{< asset-static file="2023-10x-event-slides.pptx" label="2023-10x-event-slides (PDF, 4 pages, 2MB)">}}
+  date     :  2023-02-07 14:52:34 -0400
+  uid      :  2023-10x-event-slides
+  format   :  pptx
+  
