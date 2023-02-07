@@ -19,6 +19,9 @@ date: 2023-02-07 13:00:00 -0500
 event_platform: zoom
 primary_image: "increasing-public-participation-in-user-research"
 ---
+
+{{< asset-static file="2023-10x-event-slides.pptx" label="View the slides (PowerPoint presentation, 7.5 MB, 37 pages)" >}}
+
 Join GSA's 10x team as they discuss using creative incentives to increase public participation in user research. 
 
 In this session, we'll cover:
