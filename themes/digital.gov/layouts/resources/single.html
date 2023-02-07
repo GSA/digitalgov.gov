@@ -2,7 +2,8 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 <div class="grid-container grid-container-desktop">
   <div class="usa-in-page-nav-container">
-    <aside class="usa-in-page-nav"
+    <aside
+    class="usa-in-page-nav"
     data-title-heading-level="h2"
     >
     </aside>
@@ -54,13 +55,13 @@
               <!-- <div class="grid-col-12 tablet:grid-col-3">
     
                 {{/* Table of contents */}}
-                <!-- {{- partial "core/toc.html" . -}} -->
+                {{- partial "core/toc.html" . -}}
     
                 {{/* Last updated */}}
                 {{/* {{- partial "last-updated.html" . -}}  */}}
     
                 {{/* Related Communities and Services */}}
-                <!-- {{- partial "core/get_related.html" . -}} -->
+                {{- partial "core/get_related.html" . -}}
     
                 {{/* Topics */}}
                 {{/* {{- partial "core/list-topics.html" . -}} */}}
