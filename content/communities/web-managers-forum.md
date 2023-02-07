@@ -23,7 +23,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - ammie-farraj-feijoo
+  - toni-bonitto
   - tori-garten
   - beth-martin
   - ruxi-giura
@@ -54,15 +54,17 @@ primary_image: "white-bg-digital-gov-card-community"
 
 ---
 
-We are a group for federal, tribal, state, and local government employees who manage government websites and digital services. We are working to create a trusted, seamless online experience for all.
+We are a group for federal, tribal, territory, state, and local government employees who create, manage, and contribute to government websites and digital services. We are working to create a trusted, seamless online experience for all. You do not need to be a “manager” to be a part of this community; we are all managing different aspects of the digital experience and all have something to contribute — and something to learn — from one another.
 
 ## What We Do
 
-Together, everyone achieves more. We recognize the expert in each of us. Our primary purpose is to collaborate and share ideas, challenges, lessons learned, and best practices in managing government websites and digital services.
+Together, everyone achieves more. We recognize the expert in each of us. Our primary purpose is to collaborate and share ideas, challenges, lessons learned, and best practices in managing government websites and digital services—from all levels of skills and knowledge.
 
 We support efforts to implement the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) and other requirements for government websites and digital services.
 
 We meet several times a year and maintain an active LISTSERV. We also work with other [communities of practice](https://digital.gov/communities) and the [Federal Web Council](https://digital.gov/resources/federal-web-council/) to publish case studies, blog posts, and other resources on Digital.gov.
+
+We want to help our community find the answers to questions, to consider questions they perhaps haven’t thought to ask, and to learn from this diverse community.
 
 ## Who We Are
 
