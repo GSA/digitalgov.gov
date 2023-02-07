@@ -76,7 +76,7 @@ jobs:
           command: |
             git config user.email "digitalgov@gsa.gov"
             git config user.name "CircleCI"
-            git add content/uploads/_inbox data/images data/files static/img/proxy
+            git add content/uploads/_inbox data/images data/files
             git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
 
 workflows:
