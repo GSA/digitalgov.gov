@@ -36,7 +36,7 @@ community_list:
 weight: 1
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
-dg_highlight: true
+
 dg_shortname: Communicators
 dg_acronym: FCN
 
