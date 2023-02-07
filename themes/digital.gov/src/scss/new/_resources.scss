@@ -1,5 +1,17 @@
 @use "uswds-core" as *;
 
+
+// Overide uswds styles for integrating in-page navigation on right column
+
+
+.grid-container, .grid-container-desktop {
+  @include at-media('widescreen') {
+    // padding-left: 0;
+    // padding-right: 0;
+  }
+}
+
+
 // Styles for the main resources page
 
 // .paper sets the background-color for the page

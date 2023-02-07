@@ -14,7 +14,7 @@
 @forward 'uswds-theme';
 @forward 'uswds-overrides';
 @forward "usa-site-alert";
-
+@forward "usa-in-page-navigation";
 
 // @forward "uswds-global";
 // @forward "uswds-utilities";
@@ -48,6 +48,7 @@
 @forward "usa-header/src/styles";
 @forward "usa-icon/src/styles";
 @forward "usa-identifier/src/styles";
+// @forward "usa-in-page-navigation/src/styles";
 @forward 'usa-input/src/styles';
 @forward "usa-intro/src/styles";
 @forward 'usa-layout-docs/src/styles';
