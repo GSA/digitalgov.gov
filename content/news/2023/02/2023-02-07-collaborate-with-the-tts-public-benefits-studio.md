@@ -1,9 +1,7 @@
 ---
 date: 2023-02-07 12:52:00 -0500
 title: Collaborate with the TTS Public Benefits Studio
-summary: The Benefits Studio is seeking feedback and collaboration as it
-  explores texting as a tool to improve the public experience of benefits
-  programs.
+summary: The Benefits Studio is seeking feedback and collaboration as it explores texting as a tool to improve the public experience of benefits programs.
 # See all topics at https://digital.gov/topics
 topics:
   - sms
@@ -13,13 +11,18 @@ topics:
 authors:
   - amy-ashida
   - emily-herrick
+  - alex-pandel
+
 slug: collaborate-with-the-tts-public-benefits-studio
 primary_image: public-benefits-studio-u-s-notify-screencapture
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 *Amy Ashida is the Studio Lead, Alex Pandel is the Deputy Lead, and Emily Herrick is a Service Designer on the Public Benefits Studio team at the General Services Administration (GSA).*
 
 For a person experiencing challenging life circumstances, a confusing or overly complicated government experience can prevent access to vitally important services like healthcare, food assistance, and unemployment insurance. To directly address this challenge, the federal government has made a huge push over the past year to improve the public’s experience of critical government services, as outlined in the [President’s Management Agenda](https://www.performance.gov/pma/vision/#section-8) and [Customer Experience Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/).
@@ -63,7 +66,7 @@ If you’d like to learn more or have feedback to share, we’re eager to hear f
 * Pilot Notify: We’re looking for benefits agency partners to co-design a pilot program to try out U.S. Notify as early as spring 2023. Email us and let us know if you think this might be the tool for you.
 * Attend a collaborative working session: Alongside the above activities, we are also convening cross-functional stakeholders in a series of workshops to connect people across contexts to learn from each other and provide input on what support the Studio could provide to government agencies interested in using notifications. Email us for more information.
 
-{{< box color="" >}}   [Email us](<mailto:tts-benefits-studio@gsa.gov?subject=Learn more about U.S. Notify>) to request an introductory call, set up an individual feedback session, pilot the tool, or receive more information.   {{< /box >}}
+{{< box color="" >}}[Email us](<mailto:tts-benefits-studio@gsa.gov?subject=Learn more about U.S. Notify>) to request an introductory call, set up an individual feedback session, pilot the tool, or receive more information.{{< /box >}}
 
 ### About the TTS Public Benefits Studio
 
