@@ -68,13 +68,17 @@ If you’d like to learn more or have feedback to share, we’re eager to hear f
 
 {{< note >}}[Email us](<mailto:tts-benefits-studio@gsa.gov?subject=Learn more about U.S. Notify>) to request an introductory call, set up an individual feedback session, pilot the tool, or receive more information.{{< /note >}}
 
-### About the TTS Public Benefits Studio
+---
+
+## About the TTS Public Benefits Studio
 
 The TTS Public Benefits Studio is a newly-established, cross-functional team of technologists within GSA’s Technology Transformation Services with specialized experience supporting public benefits programs like Medicaid, the Supplemental Nutrition Assistance Program (SNAP), and unemployment insurance that serve low-income families and underserved communities. The Benefits Studio is focused on collaborating with benefits agencies to develop shared technology tools and best practices that support a more coordinated public experience across programs.
 
 Stay tuned for more opportunities to participate in research and influence scope and features as we build out additional shared resources and services. We look forward to collaborating!
 
-*Links to non-government sources are for informational purposes only. They do not represent an endorsement of the organizations cited.* 
+*Links to non-government sources are for informational purposes only. They do not represent an endorsement of the organizations cited.*
+
+---
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
