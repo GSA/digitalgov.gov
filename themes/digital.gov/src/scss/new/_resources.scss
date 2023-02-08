@@ -3,13 +3,15 @@
 
 // Overide uswds styles for integrating in-page navigation on right column
 
-
-.grid-container, .grid-container-desktop {
-  @include at-media('widescreen') {
-    // padding-left: 0;
-    // padding-right: 0;
-  }
+.grid-container.grid-container-desktop:has(div.usa-in-page-nav-container) {
+  border-top: 1px solid #dfe1e2;
 }
+
+// sets in-page column to be even with content 
+.usa-in-page-nav {
+  margin-top: 2.25rem;
+}
+
 
 
 // Styles for the main resources page
