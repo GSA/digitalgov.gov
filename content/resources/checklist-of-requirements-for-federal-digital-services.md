@@ -133,12 +133,11 @@ Follow current government design standards when creating new websites or making 
 
 ## Domains
 
-Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function (this is rare). Coordinate with your agency CIO to request a new .gov domain. Clearly display the name of your agency on every page on the website.
+Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function (this is rare). Coordinate with your agency CIO to request a new .gov domain. Clearly display the name of your agency on every page of the website.
 
-
+- [OMB M-23-10, The Registration and Use of .gov Domains in the Federal Government](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf) (PDF, 96 kb, 3 pages, February 2023); guidance to Federal agencies on the acceptable use and registration of Internet domain names
 - [GOV Domain Name Registration Service](https://www.dotgov.gov/) &#8211; request a new .gov domain
-- [Final Rule – 41 CFR Part 102-173](https://www.dotgov.gov/portal/web/dotgov/policy) authorizes GSA to manage the .gov registration process
-- [Policies for DotGov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 kb, 2 pages, January 2015)
+- [DOTGOV Online Trust in Government Act of 2020](https://www.congress.gov/bill/116th-congress/house-bill/133/text/enr#:~:text=dotgov) authorizes CISA to manage the .gov registration process
 
 ## Freedom of Information Act (FOIA)
 
@@ -330,7 +329,7 @@ Use the most recent and up-to-date technical standards for your digital services
 
 Use social tools to interact with customers and improve the customer experience.
 
+- [OGE LA-23-03: The Standards of Conduct and 18 U.S.C. § 208 as Applied to Official Social Media Use](https://www.oge.gov/Web/oge.nsf/Legal%20Docs/EAE37A7DA3C38BF38525894700775339/$FILE/LA-23-03%20The%20Standards%20of%20Conduct%20and%2018%20U.S.C.%20%C2%A7%20208%20as%20Applied%20to%20Official%20Social%20Media%20Use.pdf?open) (PDF, 8 pages, January 2023) 
 - [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
 - [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 kb, 7 pages, April 2010)
 - [Guidelines for Secure Use of Social Media by Federal Departments and Agencies](https://cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf) (PDF, 233 kb, 19 pages, September 2009)
-- [OGE LA-23-03: The Standards of Conduct and 18 U.S.C. § 208 as Applied to Official Social Media Use](https://www.oge.gov/Web/oge.nsf/Legal%20Docs/EAE37A7DA3C38BF38525894700775339/$FILE/LA-23-03%20The%20Standards%20of%20Conduct%20and%2018%20U.S.C.%20%C2%A7%20208%20as%20Applied%20to%20Official%20Social%20Media%20Use.pdf?open) (PDF, 8 pages, January 2023) 
