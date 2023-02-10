@@ -1,5 +1,6 @@
 jQuery(function ($) {
 
+	console.log("TOC.js");
 	// Cleans up the #TableOfContents from HUGO
 	$('#TableOfContents > ul:first').contents().unwrap();
 	$('#TableOfContents > li:first').contents().unwrap();
@@ -16,6 +17,7 @@ jQuery(function ($) {
 
 	function format_toc(hash){
 
+		console.log("format-toc.js:20");
 
 		// checks if it is a mobile browser
 		if (mobile_check() == true) {

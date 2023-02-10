@@ -16,7 +16,6 @@
     @include u-font("sans", "xs");
     @include u-line-height("sans", 2);
     @include u-text("semibold");
-    @include u-margin-bottom(2.5);
   }
   a {
     @include u-margin-top(0);
