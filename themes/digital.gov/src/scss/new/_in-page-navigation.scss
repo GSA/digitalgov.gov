@@ -1,0 +1,16 @@
+@use "uswds-core" as *;
+
+//overrides for in-page nav component on /resources
+.usa-in-page-nav {
+  // sets in-page column to be even with content
+  margin-top: 2.25rem;
+
+  &__nav {
+    padding-left: 0;
+    margin-bottom: units(4);
+  }
+
+  &__item--sub-item {
+    display: none;
+  }
+}
