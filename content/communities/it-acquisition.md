@@ -3,7 +3,7 @@ date: 2022-11-16 17:21:00 -0500
 title: TechAcq
 summary: IT acquisitions are at the heart of federal IT modernization efforts. They support agencies in delivering modern, digital services to the public more effectively and efficiently.
 
-redirectto: https://coe.gsa.gov/communities/it-acq.html
+redirectto: https://coe.gsa.gov/communities/techacq.html
 
 # See all topics at https://digital.gov/topics
 topics:
