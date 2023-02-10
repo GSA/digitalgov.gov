@@ -1,6 +1,6 @@
 ---
 date: 2022-11-16 17:21:00 -0500
-title: IT Acquisition
+title: TechAcq
 summary: IT acquisitions are at the heart of federal IT modernization efforts. They support agencies in delivering modern, digital services to the public more effectively and efficiently.
 
 redirectto: https://coe.gsa.gov/communities/it-acq.html
@@ -8,18 +8,23 @@ redirectto: https://coe.gsa.gov/communities/it-acq.html
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 # Enter the path of the URL that you want redirected to this page
+
 community_list:
   - platform: listserv
     subscribe_email: IT-ACQ-COP-subscribe-request@LISTSERV.GSA.GOV
     type: government_only
     terms: Federal government employees only are eligible to join.
 slug: it-acquisition
+
 ---
+
 Any federal employee in the acquisition field is welcome to become a member of the IT Acquisition Community of Practice (IT Acq CoP).
 
 ## What We Do
