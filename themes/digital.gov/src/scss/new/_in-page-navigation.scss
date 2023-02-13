@@ -3,10 +3,11 @@
 //overrides for in-page nav component on /resources
 .usa-in-page-nav {
   // sets in-page column to be even with content
-  margin-top: 2.25rem;
+  margin-top: 0;
 
   &__nav {
     padding-left: 0;
+    padding-top: units('05');
     margin-bottom: units(4);
   }
 
