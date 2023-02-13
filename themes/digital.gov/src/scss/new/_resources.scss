@@ -4,12 +4,17 @@
 // Overide uswds styles for integrating in-page navigation on right column
 
 .grid-container.grid-container-desktop:has(div.usa-in-page-nav-container) {
-  border-top: 1px solid #dfe1e2;
+  // border-top: 1px solid #dfe1e2;
 }
 
-
+// nav.usa-nav {
+//   border-bottom: 1px solid #dfe1e2;
+// }
 // Styles for the main resources page
 
+.resources__container {
+  border-top: 1px solid #dfe1e2;
+}
 // .paper sets the background-color for the page
 .resources.section {
   .paper{

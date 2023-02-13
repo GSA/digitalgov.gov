@@ -1,39 +1,26 @@
 {{- define "content" -}}
   {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-  <div class="grid-container grid-container-desktop">
-    <div class="usa-in-page-nav-container">
-      <aside
-      class="usa-in-page-nav"
-      data-title-heading-level="h2"
-      >
+  <article class="resources__container">
+    <div class="grid-container grid-container-desktop">
+      <div class="usa-in-page-nav-container">
+        <aside
+        class="usa-in-page-nav"
+        data-title-heading-level="h2"
+        >
 
-        <div class="content__related-items">
+          <div class="content__related-items">
 
-          {{/* Table of contents */}}
-          <!-- {{- partial "core/toc.html" . -}} -->
+            {{/* Table of contents */}}
+            {{- partial "core/get_related.html" . -}}
 
-          {{/* Last updated */}}
-          {{/* {{- partial "last-updated.html" . -}}  */}}
-
-          {{/* Related Communities and Services */}}
-          {{- partial "core/get_related.html" . -}}
-
-          {{/* Topics */}}
-          {{/* {{- partial "core/list-topics.html" . -}} */}}
-
-          {{/* Share Tools */}}
-          {{/* {{- partial "core/get_sharetools.html" . -}} */}}
-
-        </div>
-
-      </aside>
-      
-      <main role="main" id="main-content">
-        <article>
-          <header>
-            <div class="">
-              <div class="grid-row">
-                <div class="grid-col-12" data-edit-this="{{- $path -}}">
+          </div>
+        </aside>
+        
+        <main role="main" id="main-content">
+          <article>
+            <header>
+              <div>
+                <div data-edit-this="{{- $path -}}">
                   <p class="breadcrumb">
                     <a href="{{- "resources/" | absURL -}}" aria-label="Back to Resources landing page">
                       <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
@@ -54,30 +41,24 @@
                   {{- end -}}
                 </div>
               </div>
-            </div>
-          </header>
-      
-          <section>
-            <div class="">
-              <div class="grid-row tablet-lg:grid-gap-6">
-      
-                <div class="grid-col-12 tablet:grid-col-12" data-edit-this="{{- $path -}}">
-      
-                  {{/* Content */}}
-                  <div class="content usa-prose">
-                    {{- .Content -}}
-                  </div>
-      
-                  {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-      
+            </header>
+        
+            <section>
+              <div data-edit-this="{{- $path -}}">
+    
+                {{/* Content */}}
+                <div class="content usa-prose">
+                  {{- .Content -}}
                 </div>
-      
+    
+                {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+    
               </div>
-            </div>
-          </section>
-      
-        </article>
-      </main>
+            </section> 
+          </article>
+        </main>
+      </div>
     </div>
-  </div>
+
+  </article>
   {{- end -}}
