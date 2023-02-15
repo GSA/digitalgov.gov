@@ -1,7 +1,5 @@
 ---
 date: 2023-02-10 14:30:00 -0500
-# Originally published at the following URL
-source_url: https://digital.gov/resources/intro-to-design-systems
 title: Introduction to design systems
 deck: Learn how and why to use design systems
 summary: >+
