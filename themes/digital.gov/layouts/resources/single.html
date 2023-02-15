@@ -34,19 +34,15 @@
 
           </div>
         </aside>
-        <article>
-          <section>
-            <div data-edit-this="{{- $path -}}">
+        <div data-edit-this="{{- $path -}}">
 
-              {{/* Content */}}
-              <div class="content usa-prose">
-                {{- .Content -}}
-              </div>
+          {{/* Content */}}
+          <div class="content usa-prose">
+            {{- .Content -}}
+          </div>
 
-              {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-            </div>
-          </section>
-        </article>
+          {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+        </div>
       </div>
     </article>
   </main>

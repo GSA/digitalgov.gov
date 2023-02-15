@@ -3,3 +3,7 @@
 .usa-identifier img[alt] {
   @include u-text('white');
 }
+
+.usa-in-page-nav__item--sub-item {
+  @include u-display('none')
+}
