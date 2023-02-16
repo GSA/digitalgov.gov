@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://www.consumerfinance.gov/about-us/blog/strengthening-information-accessibility-for-consumers-limited-english-proficiency/
-source: 
+source: cfpb
 date: 2023-02-14 14:44:00 -0500
 kicker: 
 title: Strengthening information accessibility for consumers with limited English proficiency
