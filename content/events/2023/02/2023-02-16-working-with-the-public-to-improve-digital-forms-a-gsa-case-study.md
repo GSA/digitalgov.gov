@@ -18,18 +18,20 @@ date: 2023-03-02 13:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2023-march-oes-event-title-card
+
 ---
+
 The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) requires federal agencies to undertake a number of activities to build and use evidence. 
 
 Join GSA’s Office of Evaluation Sciences (OES) as they present their digital forms evaluation project and share how five GSA offices and the public worked together to improve federal forms.
 
-In this session, we’ll discuss:
+**In this session, we’ll discuss:**
 
 * How to build and use evidence in the federal government
 * How to evaluate the impact of form changes
 * Key takeaways and next steps in form evaluation
 
-We’ll also share two case studies:
+**We’ll also share two case studies:**
 
 * Proof-of-concept evaluation with a model form
 * Evaluation of a form change in the field
@@ -38,9 +40,9 @@ This event is best suited for web managers, forms managers, and evaluators of al
 
 ## Speakers
 
-* **Mary Clair Turner -** Behavioral Scientist, Office of Evaluation Sciences, GSA
-* **Stephanie Permut -** Associate Fellow, Office of Evaluation Sciences, GSA
-* **Blair Read -** Associate Fellow, Office of Evaluation Sciences, GSA
+* **Mary Clair Turner** - Behavioral Scientist, Office of Evaluation Sciences, GSA
+* **Stephanie Permut** - Associate Fellow, Office of Evaluation Sciences, GSA
+* **Blair Read** - Associate Fellow, Office of Evaluation Sciences, GSA
 
 You may also be interested in learning more about the [digital forms project](https://oes.gsa.gov/projects/digital-forms/) and [Evidence Act](https://oes.gsa.gov/toolkits/).
 
