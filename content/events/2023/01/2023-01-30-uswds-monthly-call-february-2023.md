@@ -22,6 +22,9 @@ slug: uswds-monthly-call-february-2023
 event_platform: zoom\
 primary_image: 2023-uswds-monthly-call-feb-title-card
 ---
+
+{{< asset-static file="uswds-monthly-call-february-2023.pptx" label="View the slides (PowerPoint presentation, 1.4 MB, 67 pages)" >}}
+
 Join us as we take a deep dive into USWDS design tokens. What are they? How are they used? How can they be adapted to agencies’ branding needs?
 
 In this session, you’ll learn how to: 
