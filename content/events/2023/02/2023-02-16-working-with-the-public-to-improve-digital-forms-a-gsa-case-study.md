@@ -17,6 +17,7 @@ captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2023-03-02 13:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: 2023-march-oes-event-title-card
 ---
 The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) requires federal agencies to undertake a number of activities to build and use evidence. 
 
