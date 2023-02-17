@@ -322,6 +322,7 @@ Develop a Digital Business Strategy that embraces an improved customer experienc
 ### Communicate clearly
 
 - [Plain Language and Writing for the Web](https://www.youtube.com/watch?v=j9FCji6-UJE) &#8211; video
+- [DHS CX Glossary]([url](https://www.dhs.gov/cx/glossary))
 - [Join the Federal Communicators Network](https://digital.gov/communities/federal-communicators-network/)
 
 ### Adopt shared services
