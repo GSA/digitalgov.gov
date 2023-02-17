@@ -156,3 +156,6 @@ Below we have added specific resources to each guideline.
 
 - [Security and Privacy Changes in iOS 9](https://nabla-c0d3.github.io/blog/2015/06/16/ios9-security-privacy/) &#8211; iOS 9 to enforce HTTPS by default
 - [TOSDR.org](https://tosdr.org/) &#8211; Write better Terms of Service by using plain language
+- [OWASP MASVS](https://github.com/OWASP/owasp-masvs) &#8211; mobile application security verification standard for mobile developers and security engineers to be used as a guidance and security metric.
+- [Privacy & Security, Apple Developer guidelines](https://developer.apple.com/videos/privacy-security) &#8211; Apple privacy & security guidelines for app developers.
+- [React Native App Security](https://www.cossacklabs.com/blog/react-native-app-security/) &#8211; Cossack Labs' guide on security of react native applications.
