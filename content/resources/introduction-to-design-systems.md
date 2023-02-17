@@ -52,4 +52,4 @@ Making these important decisions and communicating ahead of adopting a design sy
 
 ## Connect with others interested in design systems
 
-Want to learn more? [Join Digital.gov’s User Experience Community](https://digital.gov/communities/user-experience/), or [sign up to receive the U.S. Web Design System’s newsletter](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=GSA_TTS). You can also [join the USWDS community](https://designsystem.digital.gov/about/community/).
+Want to learn more? [Join Digital.gov’s User Experience Community](https://digital.gov/communities/user-experience/), or sign up to [receive the U.S. Web Design System’s newsletter](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=GSA_TTS). You can also [join the USWDS community](https://designsystem.digital.gov/about/community/).
