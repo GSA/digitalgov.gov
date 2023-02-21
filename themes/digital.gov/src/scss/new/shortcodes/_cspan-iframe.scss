@@ -1,0 +1,14 @@
+.cspan-embed {
+  iframe {
+    aspect-ratio: 4/3;
+    height: 100%;
+    width: 100%;
+  }
+
+  // iframe classes to override to create perfectly fit video player
+  body.video.standalone section {
+    background-color: none;
+    margin-top: 0;
+    padding: 0; 
+  }
+}
