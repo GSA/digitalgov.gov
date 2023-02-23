@@ -235,7 +235,7 @@ Comply with the requirements of Executive Order 13166, based on Title VI of the 
   </a>
 </p>
 
-## Open Government/Data/Content
+## Open Government / Data / Content
 
 Publish information in ways that make it easy to find, access, share, distribute, and re-purpose; Structure content and tag with standard metadata. Make open data, content, and application programming interfaces (APIs) the new default, and make existing high-value data and content available through APIs. Use challenges and prizes to promote open government, innovation, and other national priorities.
 
