@@ -50,7 +50,7 @@ GSA’s Executive Board provides high-level direction and oversight, and our Dig
 
 Our Digital Council was established in early 2019 to oversee implementation of the 21st Century Integrated Digital Experience Act ([21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)), which requires federal agencies to modernize their websites and improve customer experience.
 
-{{< card-quote text="GSA&'s Digital Council is "empowered to make recommendations and decisions to improve GSA's digital presence, and advocate on behalf of GSA customers."" cite="GSA Digital Council Charter" >}}
+{{< card-quote text="GSA&'s Digital Council is empowered to make recommendations and decisions to improve GSA's digital presence, and advocate on behalf of GSA customers." cite="GSA Digital Council Charter" >}}
 
 The Council is co-chaired by the Offices of Customer Experience, Strategic Communications, and Information Technology. These offices are the “three-legged stool” of GSA’s digital governance, collaborating across business lines to improve our customer’s experiences with GSA websites and digital services.
 
