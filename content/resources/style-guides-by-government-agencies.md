@@ -9,11 +9,11 @@ topics:
   - content
 ---
 
-Style guides are used to set the tone and guidelines for how an agency communicates with the public.
+Style guides are used to set the tone and guidelines for how an agency communicates with the public. This page is a collection of style guides created by government agencies. 
 
-This page is a collection of style guides created by government agencies. You can add your agency&#8217;s guide by [emailing DigitalGov]({{< ref "/about/_index.md" >}}) or sharing in the [Plain Language Community of Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}).
+{{< note >}}You can add your agency&#8217;s guide here by [emailing DigitalGov]({{< ref "/about/_index.md" >}}). You can also share it with the [Plain Language Community of Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}).{{< /note >}}
 
----
+## Federal style guides
 
 **18F**
 
@@ -49,7 +49,7 @@ This page is a collection of style guides created by government agencies. You ca
 
 **Plain Language**
 
-- [PlainLanguage.gov](https://plainlanguage.gov/)
+- [PlainLanguage.gov](https://www.plainlanguage.gov/)
 
 **U.S. Department of Health and Human Services (HHS)**
 
@@ -86,9 +86,7 @@ This page is a collection of style guides created by government agencies. You ca
 
 - [Program Operational Manual for Notice Standards](https://secure.ssa.gov/apps10/poms.nsf/lnx/0900610000)
 
----
-
-## Other Writing Resources
+## Other writing resources
 
 Here&#8217;s a collection of guides created by digital communities of practice and other groups.
 
