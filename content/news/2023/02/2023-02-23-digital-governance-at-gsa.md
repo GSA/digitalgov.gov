@@ -20,7 +20,9 @@ primary_image: virtual-diagram-web-icons-law-standards-checklist-everythingpossi
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 When people need information or services from their government, they typically start their journey online. If you’re a government organization with a sprawling digital presence, how can you help those you serve to easily navigate your websites and find what they need?
 
 Many federal agencies have broad missions and often organize their websites around internal business lines—instead of customer tasks. A single agency may have dozens or even hundreds of websites, making it challenging for customers to understand all of the services offered, or easily complete tasks online.
@@ -48,7 +50,7 @@ GSA’s Executive Board provides high-level direction and oversight, and our Dig
 
 Our Digital Council was established in early 2019 to oversee implementation of the 21st Century Integrated Digital Experience Act ([21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)), which requires federal agencies to modernize their websites and improve customer experience.
 
-{{< card-quote text="GSA&#39;s Digital Council is &#34;empowered to make recommendations and decisions to improve GSA&#39;s digital presence, and advocate on behalf of GSA customers.&#34;" cite="GSA Digital Council Charter" >}}
+{{< card-quote text="GSA&'s Digital Council is "empowered to make recommendations and decisions to improve GSA's digital presence, and advocate on behalf of GSA customers."" cite="GSA Digital Council Charter" >}}
 
 The Council is co-chaired by the Offices of Customer Experience, Strategic Communications, and Information Technology. These offices are the “three-legged stool” of GSA’s digital governance, collaborating across business lines to improve our customer’s experiences with GSA websites and digital services.
 
@@ -80,12 +82,13 @@ OHRM reviewed the PDs of all our web managers, making “pen and ink” changes 
 
 None of this work would be possible without open communication and support from senior leadership. In her [confirmation hearing in June 2021](https://www.hsgac.senate.gov/hearings/nominations-of-robin-carnahan-to-be-administrator-general-services-administration-jen-easterly-to-be-director-cybersecurity-and-infrastructure-security-agency-dhs-and-chris-inglis-to-be-national-cyber-director/) (starting at 01:36:46 in the video), GSA Administrator Carnahan stressed how critical it is for the federal government to “make the damn websites work.”
 
+{{< cspan-iframe src="https://www.c-span.org/video/standalone/?512480-1/confirmation-hearing-gsa-administration-intelligence-agencies-nominees" title="Confirmation Hearing for GSA Administration and Intelligence Agencies Nominees" >}}
+
 GSA’s Deputy Administrator chairs our Executive Board, and our Digital Council meets with the Board several times a year to update them on progress and gain buy-in for new digital initiatives.
 
 We also included new language in the performance plans of all senior leaders who oversee a GSA website. Documenting performance criteria for website management, top-to-bottom throughout the organization, has brought increased attention to the importance of digital governance.
 
-{{< box color="base" >}}**Language in the senior executives’ performance plans**
-
+{{< box >}}**Language in the senior executives’ performance plans**<br />
 ”GSA must ensure that its workforce has the skills to deliver and maintain accessible, secure, compliant public-facing websites and digital services that promote a good customer experience, and increase public trust. Website managers and their associated teams must implement the business and technical requirements of website management, collaborate to serve GSA’s customers, and achieve and maintain compliance with the 21st Century IDEA and the GSA Digital Lifecycle Program (DLP).”{{< /box >}}
 
 ## Impact
