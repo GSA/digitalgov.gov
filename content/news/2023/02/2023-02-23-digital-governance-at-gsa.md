@@ -80,7 +80,7 @@ OHRM reviewed the PDs of all our web managers, making “pen and ink” changes 
 
 ## Support from senior leaders
 
-None of this work would be possible without open communication and support from senior leadership. In her [confirmation hearing in June 2021](https://www.hsgac.senate.gov/hearings/nominations-of-robin-carnahan-to-be-administrator-general-services-administration-jen-easterly-to-be-director-cybersecurity-and-infrastructure-security-agency-dhs-and-chris-inglis-to-be-national-cyber-director/) (starting at 01:36:46 in the video), GSA Administrator Carnahan stressed how critical it is for the federal government to “make the damn websites work.”
+None of this work would be possible without open communication and support from senior leadership. In her confirmation hearing in June 2021 (embedded video is below), GSA Administrator Carnahan stressed how critical it is for the federal government to "make the damn websites work."
 
 {{< cspan-iframe src="https://www.c-span.org/video/standalone/?512480-1/confirmation-hearing-gsa-administration-intelligence-agencies-nominees" title="Confirmation Hearing for GSA Administration and Intelligence Agencies Nominees" >}}
 
