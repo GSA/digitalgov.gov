@@ -37,27 +37,18 @@ The potential to transform government and impact the lives of Americans is treme
 
 {{< tweet user="Nextgov" id="803970089179578368" >}}
 
-> <div class="s-element-container lf-rich-block lf-block">
->   <div class="s-link s-element-content">
->     <p>
->       {{< legacy-img src="https://i2.cdn.turner.com/money/dam/assets/161116100834-obama-white-house-innovation-780x439.jpg" alt="Thumbnail for Obama was an innovation junkie. Will Trump follow in his footsteps?" >}}<a class="s-link-a emojify" href="http://money.cnn.com/2016/11/16/technology/trump-innovation-white-house/index.html" target="_blank" rel="nofollow">Obama was an innovation junkie. Will Trump follow in his footsteps?</a>
->     </p>
->     
->     <div class="s-link-desc emojify">
->       <font size="-1">Obama built a tech &#8216;SWAT team&#8217; to improve government. Will Trump take the baton?</font>
->     </div>
->     
->     <div class="s-attribution">
->       <div class="s-source s-CNNMoney">
->         <a href="http://cnn.com/" target="_blank" rel="nofollow"><img src="https://www.google.com/s2/favicons?domain=http://cnn.com" border="0" /></a>
->       </div>
->       
->       <div class="s-author">
->         <a class="s-author-name" href="http://cnn.com/" target="_blank" rel="nofollow"><font size="-1">MATT MCFARLAND</font></a>
->       </div>
->     </div>
->   </div>
-> </div>
+<blockquote>
+<div class="s-element-container lf-rich-block lf-block">
+<div class="s-link s-element-content">
+<p><img class="s-link-thumbnail" src="https://web.archive.org/web/20170731173447im_/https://i2.cdn.turner.com/money/dam/assets/161116100834-obama-white-house-innovation-780x439.jpg" alt="Thumbnail for Obama was an innovation junkie. Will Trump follow in his footsteps?"/><a href="https://web.archive.org/web/20170731173447/http://money.cnn.com/2016/11/16/technology/trump-innovation-white-house/index.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://web.archive.org/web/20170731173447/http://money.cnn.com/2016/11/16/technology/trump-innovation-white-house/index.html', 'Obama was an innovation junkie. Will Trump follow in his footsteps?');" class="s-link-a emojify" target="_blank" rel="nofollow">Obama was an innovation junkie. Will Trump follow in his footsteps?</a></p>
+<div class="s-link-desc emojify"><font size="-1">Obama built a tech &#8216;SWAT team&#8217; to improve government. Will Trump take the baton?</font></div>
+<div class="s-attribution">
+<div class="s-source s-CNNMoney"><a href="https://web.archive.org/web/20170731173447/http://cnn.com/" target="_blank" rel="nofollow"><img src="https://web.archive.org/web/20170731173447im_/https://www.google.com/s2/favicons?domain=http://cnn.com" border="0"/></a></div>
+<div class="s-author"><a href="https://web.archive.org/web/20170731173447/http://cnn.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://web.archive.org/web/20170731173447/http://cnn.com/', 'MATT MCFARLAND');" class="s-author-name" target="_blank" rel="nofollow"><font size="-1">MATT MCFARLAND</font></a></div>
+</div>
+</div>
+</div>
+</blockquote>
 
 ## DELIVERING BETTER DIGITAL AND IT SERVICES
 
@@ -145,4 +136,4 @@ _**The American people aren’t going anywhere and neither is the need for bette
 
 ---
 
-_Learn more about GSA’s Technology Transformation Service [here](http://www.gsa.gov/portal/category/25729). This post was originally published on GSA’s [Storify](https://storify.com/GSA) and [blog](http://www.gsa.gov/blog)._
+_Learn more about GSA’s Technology Transformation Service [here](http://www.gsa.gov/portal/category/25729). This post was originally published on GSA’s [Storify](https://web.archive.org/web/20161215030755/https://storify.com/GSA/futureofgsatech) and [blog](https://web.archive.org/web/20161207232843/https://gsablogs.gsa.gov/gsablog/2016/12/01/the-future-of-technology-at-gsa/)._
