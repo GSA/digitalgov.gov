@@ -10,10 +10,10 @@ summary: 'The Census Bureau's mission is to serve as the nation’s leading prov
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 domain: 'https://www.census.gov/'
 
-# Images need to be 200x200px with a transparent background
+# Logo images need to be 250 x 250 px with a transparent background; icon logos are 50 x 50
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/main/static/source/
-# The filename should reflect the name of the source or team (e.g., usds-logo.png)
+# The filename should reflect the name of the source or team (e.g., usds-logo.png, usds-icon.png)
 logo: " census"
 
 # Weight: control how services appear across the site
