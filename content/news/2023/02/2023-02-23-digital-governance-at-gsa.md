@@ -2,8 +2,8 @@
 date: 2023-02-23 17:31:00 -0500
 title: Digital governance at GSA
 deck: A framework for improving federal digital service delivery
-summary: A peek into GSA’s internal processes for managing their websites and
-  improving digital experience.
+summary: A peek into GSA’s internal processes for managing their websites and improving digital experience.
+
 # See all topics at https://digital.gov/topics
 topics:
   - governance
@@ -11,11 +11,14 @@ topics:
   - 21st-century-idea
   - strategy
   - cx
+
 # See all authors at https://digital.gov/authors
 authors:
   - rflagg
+
 slug: digital-governance-at-gsa
 primary_image: virtual-diagram-web-icons-law-standards-checklist-everythingpossible-istock-getty-images-1370928101
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
