@@ -80,7 +80,7 @@ OHRM reviewed the PDs of all our web managers, making “pen and ink” changes 
 
 ## Support from senior leaders
 
-None of this work would be possible without open communication and support from senior leadership. In her confirmation hearing in June 2021 (embedded video is below), GSA Administrator Carnahan stressed how critical it is for the federal government to "make the damn websites work."
+None of this work would be possible without open communication and support from senior leadership. In her confirmation hearing in June 2021, GSA Administrator Carnahan stressed how critical it is for the federal government to "make the damn websites work" (starting at 01:20:48 in the embedded confirmation hearing video below).
 
 {{< cspan-iframe src="https://www.c-span.org/video/standalone/?512480-1/confirmation-hearing-gsa-administration-intelligence-agencies-nominees" title="Confirmation Hearing for GSA Administration and Intelligence Agencies Nominees" >}}
 
