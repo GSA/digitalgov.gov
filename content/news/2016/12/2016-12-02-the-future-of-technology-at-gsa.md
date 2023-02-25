@@ -56,31 +56,19 @@ Established earlier this year, TTS seeks to improve the technology of the federa
 
 {{< tweet user="USGSA" id="784487209046900736" >}}
 
-> <div class="s-element-container lf-rich-block lf-block">
->
-> </div>
-> 
-> <div class="s-element-container lf-rich-block lf-block">
->   <div class="s-link s-element-content">
->     <p>
->       {{< legacy-img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-11/23/18/campaign_images/buzzfeed-prod-fastlane03/18f-techies-in-washington-plan-to-deal-with-trump-2-16530-1479942824-13_dblbig.jpg" alt="Thumbnail for How Techies In Washington Plan To Deal With Trump’s Presidency" >}}<a class="s-link-a emojify" href="https://www.buzzfeed.com/hamzashaban/18f-techies-in-washington-plan-to-deal-with-trump" target="_blank" rel="nofollow">How Techies In Washington Plan To Deal With Trump’s Presidency</a>
->     </p>
->     
->     <div class="s-link-desc emojify">
->       <font size="-1">Obama’s work to build a talent pipeline from Silicon Valley to Washington will be tested under a new president whose campaign promises contradict many technologists’ values.</font>
->     </div>
->     
->     <div class="s-attribution">
->       <div class="s-source s-BuzzFeed">
->         <a href="http://buzzfeed.com/" target="_blank" rel="nofollow"><img src="https://www.google.com/s2/favicons?domain=http://buzzfeed.com" border="0" /></a>
->       </div>
->       
->       <div class="s-author">
->         <a class="s-author-name" href="http://buzzfeed.com/" target="_blank" rel="nofollow"><font size="-1">HAMZA SHABAN</font></a>
->       </div>
->     </div>
->   </div>
-> </div>
+<blockquote>
+<div class="s-element-container lf-rich-block lf-block"></div>
+<div class="s-element-container lf-rich-block lf-block">
+<div class="s-link s-element-content">
+<p><img class="s-link-thumbnail" src="https://web.archive.org/web/20170731173447im_/https://img.buzzfeed.com/buzzfeed-static/static/2016-11/23/18/campaign_images/buzzfeed-prod-fastlane03/18f-techies-in-washington-plan-to-deal-with-trump-2-16530-1479942824-13_dblbig.jpg" alt="Thumbnail for How Techies In Washington Plan To Deal With Trump’s Presidency"/><a href="https://web.archive.org/web/20170731173447/https://www.buzzfeed.com/hamzashaban/18f-techies-in-washington-plan-to-deal-with-trump" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://web.archive.org/web/20170731173447/https://www.buzzfeed.com/hamzashaban/18f-techies-in-washington-plan-to-deal-with-trump', 'How Techies In Washington Plan To Deal With Trump’s Presidency');" class="s-link-a emojify" target="_blank" rel="nofollow">How Techies In Washington Plan To Deal With Trump’s Presidency</a></p>
+<div class="s-link-desc emojify"><font size="-1">Obama’s work to build a talent pipeline from Silicon Valley to Washington will be tested under a new president whose campaign promises contradict many technologists’ values.</font></div>
+<div class="s-attribution">
+<div class="s-source s-BuzzFeed"><a href="https://web.archive.org/web/20170731173447/http://buzzfeed.com/" target="_blank" rel="nofollow"><img src="https://web.archive.org/web/20170731173447im_/https://www.google.com/s2/favicons?domain=http://buzzfeed.com" border="0"/></a></div>
+<div class="s-author"><a href="https://web.archive.org/web/20170731173447/http://buzzfeed.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://web.archive.org/web/20170731173447/http://buzzfeed.com/', 'HAMZA SHABAN');" class="s-author-name" target="_blank" rel="nofollow"><font size="-1">HAMZA SHABAN</font></a></div>
+</div>
+</div>
+</div>
+</blockquote>
 
 {{< tweet user="Nextgov" id="804049712399552512" >}}
 
@@ -106,27 +94,18 @@ We are driven by the mission of giving the government the tools to more effectiv
 
 {{< tweet user="USGSA" id="793486514537783296" >}}
 
-> <div class="s-element-container lf-rich-block lf-block">
->   <a id="undefined" class="fycon-action-view"></a>{{< legacy-img src="https://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&url=http%3A%2F%2Fstatic.politico.com%2F99%2F0b%2F9bb158554137af581c1e1061a409%2F161123-trump-obama-gty-1160.jpg" alt="Thumbnail for Obama-era techies weigh staying under Trump" >}}<a class="s-link-a emojify" href="http://politi.co/2fsBJ4u" target="_blank" rel="nofollow">Obama-era techies weigh staying under Trump</a>
-> </div>
-> 
-> <div class="s-element-container lf-rich-block lf-block">
->   <div class="s-link s-element-content">
->     <div class="s-link-desc emojify">
->       <font size="-1">An impassioned debate is raging among software engineers, designers and other techies as to whether they want to stay in Washington under Donald Trump.</font>
->     </div>
->     
->     <div class="s-attribution">
->       <div class="s-source s-POLITICO">
->         <a href="http://politi.co/" target="_blank" rel="nofollow"><img src="https://www.google.com/s2/favicons?domain=http://politi.co" border="0" /></a>
->       </div>
->       
->       <div class="s-author">
->         <a class="s-author-name" href="http://politi.co/" target="_blank" rel="nofollow">POLITICO</a>
->       </div>
->     </div>
->   </div>
-> </div>
+<blockquote>
+<div class="s-element-container lf-rich-block lf-block"><a id="undefined" class="fycon-action-view"></a><img class="s-link-thumbnail" src="https://web.archive.org/web/20170731173447im_/https://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&amp;url=http%3A%2F%2Fstatic.politico.com%2F99%2F0b%2F9bb158554137af581c1e1061a409%2F161123-trump-obama-gty-1160.jpg" alt="Thumbnail for Obama-era techies weigh staying under Trump"/><a href="https://web.archive.org/web/20170731173447/http://politi.co/2fsBJ4u" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://web.archive.org/web/20170731173447/http://politi.co/2fsBJ4u', 'Obama-era techies weigh staying under Trump');" class="s-link-a emojify" target="_blank" rel="nofollow">Obama-era techies weigh staying under Trump</a></div>
+<div class="s-element-container lf-rich-block lf-block">
+<div class="s-link s-element-content">
+<div class="s-link-desc emojify"><font size="-1">An impassioned debate is raging among software engineers, designers and other techies as to whether they want to stay in Washington under Donald Trump.</font></div>
+<div class="s-attribution">
+<div class="s-source s-POLITICO"><a href="https://web.archive.org/web/20170731173447/http://politi.co/" target="_blank" rel="nofollow"><img src="https://web.archive.org/web/20170731173447im_/https://www.google.com/s2/favicons?domain=http://politi.co" border="0"/></a></div>
+<div class="s-author"><a href="https://web.archive.org/web/20170731173447/http://politi.co/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://web.archive.org/web/20170731173447/http://politi.co/', 'POLITICO');" class="s-author-name" target="_blank" rel="nofollow">POLITICO</a></div>
+</div>
+</div>
+</div>
+</blockquote>
 
 > “Ultimately, though, in TTS, the U.S. Digital Services and other digital services teams, I think enough good has been shown that this thing will maintain itself for the foreseeable future and I’m super excited about that,” said GSA CIO David Shive in a [recent interview](http://federalnewsradio.com/digital-government/2016/11/shive-brought-gsas-18f-much-needed-parental-guidance/) with Federal News Radio.
 
