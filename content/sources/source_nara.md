@@ -14,7 +14,7 @@ domain: "https://www.archives.gov"
 
 # Images need to be 200x200 px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/source/
+# https://github.com/GSA/digitalgov.gov/tree/main/static/source/
 # The name of your organization should be clearly reflected in the filename (e.g., usds-logo.png or 18f-logo.png)
 logo: "nara"
 
