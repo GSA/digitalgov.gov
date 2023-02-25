@@ -27,13 +27,13 @@ The potential to transform government and impact the lives of Americans is treme
 
 ## TECHNOLOGY IS NOT PARTISAN
 
-> “If it’s important, it’s important for all administrations,” said GSA Technology Transformation Service Commissioner Rob Cook.
+{{< box >}} “If it’s important, it’s important for all administrations,” said GSA Technology Transformation Service Commissioner Rob Cook. {{< /box >}}
 
 {{< tweet user="USGSA" id="773887504776826880" >}}
 
 {{< tweet user="GOPLeader" id="796823547343736837" >}}
 
-> “We have people from different political stripes on the team,” said Rob Cook. “We don’t think technology is partisan.”
+{{< box >}} “We have people from different political stripes on the team,” said Rob Cook. “We don’t think technology is partisan.” {{< /box >}}
 
 {{< tweet user="Nextgov" id="803970089179578368" >}}
 
@@ -72,7 +72,7 @@ Established earlier this year, TTS seeks to improve the technology of the federa
 
 {{< tweet user="Nextgov" id="804049712399552512" >}}
 
-> “Our job is making the government serve the American people better quality services and more efficiently. It’s an important job for us to do,” said Cook.
+{{< box >}} “Our job is making the government serve the American people better quality services and more efficiently. It’s an important job for us to do,” said Cook. {{< /box >}}
 
 ## PARTNERING WITH INDUSTRY
 
@@ -82,11 +82,9 @@ GSA finds ways to help the government get the best industry has to offer, while 
 
 {{< tweet user="USGSA" id="798636697101578240" >}}
 
-> “TTS will continue,” said Cook, “to help government improve the way it buys technology and partners with industry to provide solutions and services to help federal agencies better tell their stories and provide services to the public.”
+{{< box >}} “TTS will continue,” said Cook, “to help government improve the way it buys technology and partners with industry to provide solutions and services to help federal agencies better tell their stories and provide services to the public.” {{< /box >}}
 
 {{< tweet user="nancyscola" id="800745484579172353" >}}
-
-<hr class="section-divider" />
 
 ## INNOVATION IS HERE TO STAY
 
@@ -107,7 +105,7 @@ We are driven by the mission of giving the government the tools to more effectiv
 </div>
 </blockquote>
 
-> “Ultimately, though, in TTS, the U.S. Digital Services and other digital services teams, I think enough good has been shown that this thing will maintain itself for the foreseeable future and I’m super excited about that,” said GSA CIO David Shive in a [recent interview](http://federalnewsradio.com/digital-government/2016/11/shive-brought-gsas-18f-much-needed-parental-guidance/) with Federal News Radio.
+{{< box >}} “Ultimately, though, in TTS, the U.S. Digital Services and other digital services teams, I think enough good has been shown that this thing will maintain itself for the foreseeable future and I’m super excited about that,” said GSA CIO David Shive in a [recent interview](http://federalnewsradio.com/digital-government/2016/11/shive-brought-gsas-18f-much-needed-parental-guidance/) with Federal News Radio. {{< /box >}}
 
 {{< tweet user="USCTO44" id="803354235106656256" >}}
 
