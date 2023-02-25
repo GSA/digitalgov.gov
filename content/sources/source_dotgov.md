@@ -10,9 +10,9 @@ summary: 'We make it easy to register and manage a .gov domain for US-based gove
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 domain: 'https://home.dotgov.gov/'
 
-# Images need to be 200x200px with a transparent background
+# Images need to be 200x200 px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/source/
+# https://github.com/GSA/digitalgov.gov/tree/main/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
 logo: "dotgov"
 

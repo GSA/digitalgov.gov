@@ -10,7 +10,7 @@ summary: 'The Consumer Financial Protection Bureau is a 21st-century agency that
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 domain: 'https://www.consumerfinance.gov/'
 
-# Images need to be 200x200px with a transparent background
+# Images need to be 200x200 px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/main/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)

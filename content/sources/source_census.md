@@ -1,20 +1,20 @@
 ---
 # What is the headline of this promo?
-slug: 'pra-guide'
-name: 'The Guide to the Paperwork Reduction Act'
+slug: 'census'
+name: 'Census'
 
 # Keep it short — should be no longer than 10 words.
-summary: "A guide to navigating Paperwork Reduction Act"
+summary: 'The Census Bureau's mission is to serve as the nation's leading provider of quality data about its people and economy.'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-domain: "https://pra.digital.gov"
+domain: 'https://www.census.gov/'
 
 # Images need to be 200x200 px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/source/
+# https://github.com/GSA/digitalgov.gov/tree/main/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
-logo: 'pra-guide'
+logo: 'census'
 
 
 # Weight: control how services appear across the site
@@ -25,6 +25,6 @@ logo: 'pra-guide'
 # weight: 3
 
 # topics:
-#   - pra
-
+#   - accessibility
+#   - design
 ---

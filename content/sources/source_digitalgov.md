@@ -6,9 +6,9 @@ name: 'Digital.gov'
 # Keep it short — should be no longer than 10 words.
 summary: 'Guidance on building better digital services in government'
 
-# Images need to be 200x200px with a transparent background
+# Images need to be 200x200 px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/source/
+# https://github.com/GSA/digitalgov.gov/tree/main/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
 domain: 'https://digital.gov'
 
