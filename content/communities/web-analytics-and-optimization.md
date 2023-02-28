@@ -24,7 +24,6 @@ authors:
 event_cop:
   - web-analytics
 
-
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -46,7 +45,7 @@ community_list:
     terms: Government employees and contractors only.
     blurb: "Web Analytic community members"
 
-primary_image: "white-bg-digital-gov-card-community"
+primary_image: "digital-gov-card-community"
 
 ---
 
