@@ -1,11 +1,22 @@
 ---
+# This topic lives at
+# https://digital.gov/topics/diversity-equity-inclusion-accessibility-deia
+
+slug: "diversity-equity-inclusion-accessibility-deia"
+
+# Topic Title
 title: Diversity, Equity, Inclusion, Accessibility DEIA
-summary: Relating to Diversity, Equity, Inclusion, and Accessibility (DEIA) in
-  the federal workplace.
+
+# description — keep it short and clear
+summary: "Information relating to Diversity, Equity, Inclusion, and Accessibility (DEIA) in the federal workplace."
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- featured on the Resource page
-weight: 1
-slug: diversity-equity-inclusion-accessibility-deia
+weight: 2
+
+# For more information on managing topics,
+# see https://github.com/GSA/digitalgov.gov/wiki
+
 ---
