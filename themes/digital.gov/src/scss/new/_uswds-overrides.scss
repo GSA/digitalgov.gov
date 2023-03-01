@@ -1,5 +1,25 @@
 @use "uswds-core" as *;
 
 .usa-identifier img[alt] {
-  @include u-text('white');
+  @include u-text("white");
+}
+
+//overrides for in-page nav component on /resources
+.usa-in-page-nav {
+  // sets in-page column to be even with content
+  margin-top: 0;
+
+  &__nav {
+    padding-left: 0;
+    padding-top: units("05");
+    margin-bottom: units(4);
+  }
+
+  &__heading {
+    @include u-font('sans', 'sm');
+  }
+
+  &__item--sub-item {
+    @include u-display("none");
+  }
 }

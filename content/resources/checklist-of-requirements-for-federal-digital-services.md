@@ -43,7 +43,7 @@ These high-level policies cover basic requirements for all websites and digital 
   </a>
 </p>
 
-## Accessibility / Section 508
+## Accessibility and Section 508
 
 Ensure access for people with disabilities, including motor, auditory, cognitive, seizure/neurological, and visual impairments; ensure content is "perceivable, operable, understandable, and robust." Teach staff how to create accessible products, and conduct accessibility testing before launch, or when making significant changes to, digital products and services.
 
@@ -234,7 +234,7 @@ Comply with the requirements of Executive Order 13166, based on Title VI of the 
   </a>
 </p>
 
-## Open Government/Data/Content
+## Open Government, Data, and Content
 
 Publish information in ways that make it easy to find, access, share, distribute, and re-purpose; Structure content and tag with standard metadata. Make open data, content, and application programming interfaces (APIs) the new default, and make existing high-value data and content available through APIs. Use challenges and prizes to promote open government, innovation, and other national priorities.
 
@@ -325,7 +325,7 @@ Use the most recent and up-to-date technical standards for your digital services
 - [The HTTPS-Only Standard](https://https.cio.gov/)
 - [OMB M-21-07 Completing the Transition to Internet Protocol Version 6 (IPv6)](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf) (PDF, 5.9 MB, 7 pages, November 2020)
 
-## Third-Party Services/Social Media
+## Third-Party Services and Social Media
 
 Use social tools to interact with customers and improve the customer experience.
 

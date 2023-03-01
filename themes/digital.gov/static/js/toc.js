@@ -16,7 +16,6 @@ jQuery(function ($) {
 
 	function format_toc(hash){
 
-
 		// checks if it is a mobile browser
 		if (mobile_check() == true) {
 			var num = $('nav#TableOfContents ul:first-child > li').size();

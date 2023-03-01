@@ -12,9 +12,9 @@
 // Import individual theme settings
 
 @forward 'uswds-theme';
-@forward 'uswds-overrides';
-@forward "usa-site-alert";
 
+@forward "usa-site-alert";
+@forward "usa-in-page-navigation";
 
 // @forward "uswds-global";
 // @forward "uswds-utilities";
@@ -181,3 +181,5 @@
 @forward 'shortcodes/asset-img';
 @forward 'shortcodes/card-prompt';
 @forward 'shortcodes/termsofservice-compatible';
+
+@forward 'uswds-overrides';
