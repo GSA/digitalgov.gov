@@ -8,7 +8,7 @@ slug: "diversity-equity-inclusion-accessibility-deia"
 title: Diversity, Equity, Inclusion, Accessibility
 
 # description — keep it short and clear
-summary: "Resources and articles on diversity, equity, inclusion, and accessibility (DEIA) in the federal workplace."
+summary: "Resources, articles, and events relating to diversity, equity, inclusion, and accessibility (DEIA) in the federal workplace."
 
 # Controls how this page appears across the site
 # 0 -- hidden
