@@ -50,7 +50,7 @@ community_list:
     members: 1,796
     blurb: "Web Manager community members"
 
-primary_image: "white-bg-digital-gov-card-community"
+primary_image: "white-on-gsa-blue-digital-gov-card-community"
 
 ---
 
