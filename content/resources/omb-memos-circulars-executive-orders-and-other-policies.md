@@ -6,6 +6,7 @@ summary: Tech- and digital-related policies, memos, circulars and executive orde
 topics:
   - policy
 weight: 2
+
 ---
 
 This is a select list of Office of Management and Budget (OMB) Memos and Circulars, Executive Orders, and other policies that are related to digital media and innovation. For a complete list, see [OMB Circulars](https://www.whitehouse.gov/omb/information-for-agencies/circulars/) and [OMB Memoranda](https://www.whitehouse.gov/omb/information-for-agencies/memoranda/).
@@ -13,6 +14,10 @@ This is a select list of Office of Management and Budget (OMB) Memos and Circula
 _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 ## Memos
+
+[M-23-10 The Registration and Use of .gov Domains in the Federal Government](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf) (February 8, 2023) (3 Pages, 96 KB)
+
+[M-23-07 Update to Transition to Electronic Records](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) (December 23, 2022) (3 Pages, 325 KB)
 
 [**M-17-26:** Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf) (PDF, 208KB, 12 pages, June 2017)
 
@@ -33,8 +38,6 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 [**M-11-15:** Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 276 KB, 6 pages, April 2011)
 
 [**M-10-22:** Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) (PDF, 102 KB, 9 pages, June 2010)
-
-[**Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act**](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 85 KB, 7 pages, April 2010)
 
 [**M-10-11:** Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf) (PDF, 94 KB, 12 pages, March 2010)
 
@@ -87,3 +90,5 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, Oct 2015)
 
 [Testing and Simplifying Federal Forms](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/memos/testing-and-simplifying-federal-forms.pdf) (PDF, 94 KB, 2 pages, Aug 2012)
+
+[Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 85 KB, 7 pages, April 2010)
