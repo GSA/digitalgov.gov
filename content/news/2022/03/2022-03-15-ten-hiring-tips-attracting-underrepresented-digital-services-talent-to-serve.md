@@ -8,6 +8,7 @@ topics:
   - professional-development
   - strategy
   - training
+  - diversity-equity-inclusion-accessibility-deia
 # See all authors at https://digital.gov/authors
 authors:
   - victoria-wales
