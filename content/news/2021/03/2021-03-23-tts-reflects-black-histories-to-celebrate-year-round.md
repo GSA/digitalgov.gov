@@ -10,6 +10,7 @@ topics:
   - professional-development
   - strategy
   - innovation
+  - diversity-equity-inclusion-accessibility-deia
 # See all authors at https://digital.gov/authors
 authors:
   - jessyka-castillo
