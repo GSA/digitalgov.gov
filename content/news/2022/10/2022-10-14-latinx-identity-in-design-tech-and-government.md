@@ -8,6 +8,7 @@ topics:
   - multilingual
   - data
   - design
+  - diversity-equity-inclusion-accessibility-deia
 # See all authors at https://digital.gov/authors
 authors:
   - austin-hernandez
