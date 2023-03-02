@@ -1,14 +1,14 @@
 ---
 # What is the headline of this promo?
-slug: 'census'
-name: 'Census'
+slug: "census"
+name: "Census"
 
 # Keep it short — should be no longer than 10 words.
-summary: 'The Census Bureau's mission is to serve as the nation's leading provider of quality data about its people and economy.'
+summary: "The Census Bureau's mission is to serve as the nation's leading provider of quality data about its people and economy."
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-domain: 'https://www.census.gov/'
+domain: "https://www.census.gov/"
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
@@ -26,4 +26,5 @@ logo: "census"
 # topics:
 #   - accessibility
 #   - design
+
 ---
