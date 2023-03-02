@@ -8,6 +8,7 @@ topics:
   - acquisition
   - accessibility
   - policy
+  - diversity-equity-inclusion-accessibility-deia
 # See all authors at https://digital.gov/authors
 authors:
   - stephen-carroll
