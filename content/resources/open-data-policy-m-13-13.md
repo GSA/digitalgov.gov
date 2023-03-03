@@ -1,8 +1,11 @@
 ---
 slug: open-data-policy-m-13-13
 date: 2015-12-01 12:50:58 -0400
-title: Open Data Policy (M 13-13)
+title: Open Data Policy (M-13-13)
 summary: "This Memorandum establishes a framework to help institutionalize the principles of effective information management at each stage of the information's life cycle to promote interoperability and openness."
+
+aliases:
+  - /open-data-policy-m-13-13/
 
 topics:
   - innovation
