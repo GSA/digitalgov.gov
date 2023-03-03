@@ -294,6 +294,8 @@ Comply with existing laws that prohibit federal public websites from being used 
 
 Work with your agency Records Officer and follow NARA guidance to establish and maintain inventories, priorities, and records schedules, and regularly delete or archive content that is obsolete and is not required by law or regulation. Create content inventories which identify categories of information (e.g., press releases or publications), not specific documents. Post inventories, priorities, and schedules for posting additional content on the website for comment.
 
+- [OMB M-23-07: Update to Transition to Electronic Records (PDF, 325 KB, 3 pages)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) (December 23, 2022)
+   - [OMB M-19-21: Transition of Electronic Records (PDF, 239 KB, 4 pages)](https://www.whitehouse.gov/wp-content/uploads/2019/08/M-19-21-new-2.pdf) (June 28, 2019)
 - [Code of Federal Regulations (CFR), Parts 1220-1238](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=194bdc93344a881d5119af1e8f66a2a9&rgn=div5&view=text&node=36:3.0.10.2.10&idno=36)
 - [NARA guidance for implementing Section 207(e) of the E-Gov Act](https://www.archives.gov/records-mgmt/bulletins/2010/2010-02.html)
 - [NARA guidance on managing Web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
