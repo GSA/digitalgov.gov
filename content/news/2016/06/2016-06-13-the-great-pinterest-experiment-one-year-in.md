@@ -9,10 +9,8 @@ authors:
 topics:
   - content
   - product-management
-  - social-media
   - strategy
   - policy
-  - content
   - content-strategy
   - kids-gov
   - social-media
