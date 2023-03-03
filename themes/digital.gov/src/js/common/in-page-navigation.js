@@ -1,10 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
   const relatedItems = document.querySelector(".content__related-items");
   const inPageNav = document.querySelector(".usa-in-page-nav__nav");
-  const inPageNavHeader = inPageNav.querySelector(".usa-in-page-nav__heading");
+  const inPageNavHeader = document.querySelector(".usa-in-page-nav__heading");
   const navItems = document.querySelectorAll("li.usa-in-page-nav__item:not(.usa-in-page-nav__item--sub-item)");
-
-
 
   if (!relatedItems) {
     return;
