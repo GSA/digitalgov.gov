@@ -15,10 +15,10 @@ topics:
   - content
   - content-strategy
   - kids-gov
-  - Pinterest
   - social-media
   - social-media-metrics
   - usa-gov
+
 ---
 
 Last summer, Kids.Gov [revamped](https://blog.usa.gov/how-kids-gov-pins-down-their-audiences) its presence on [Pinterest](https://www.pinterest.com/kidsgov/) in an attempt to find new ways to connect with its followers.
