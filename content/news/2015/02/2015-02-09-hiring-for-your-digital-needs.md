@@ -10,17 +10,18 @@ topics:
   - strategy
   - policy
   - national-oceanic-and-atmospheric-administration
-  - NOAA
+  - noaa
   - professional-development
-  - US Citizenship and Immigration Service
-  - USCIS
----
+  - us-citizenship-and-immigration-service
+  - iscis
 
-{{< legacy-img src="2015/01/600-x-400-Help-wanted-against-server-hallway-in-the-blue-sky-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-497351763.jpg" alt="Help wanted! against server hallway in the blue sky" caption="" >}}
+---
 
 The increasing presence of big data and all things digital will require the federal government to hire more techies. The skills brought by techies will help the federal government, but we also must consider that success in the federal government will require more than the skills they bring. The techies may be from the private sector and not completely understand the nuances of working in a federal agency.
 
 For example, let’s talk about social media. Social media is something that is used by a large part of the population. Millenials, who grew up with social media, are probably the most capable group at using this technology. Does this mean that the federal government should be hiring millennials for all their social media needs? No, not necessarily. There are many other things that are necessary for the success of a social media program. You could possibly avoid these issues by hiring someone with experience. With these options in mind, for your digital hiring needs, is it better to hire someone that is a junior (entry-level) or should you higher a more seasoned person?
+
+{{< legacy-img src="2015/01/600-x-400-Help-wanted-against-server-hallway-in-the-blue-sky-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-497351763.jpg" alt="Help wanted! against server hallway in the blue sky" caption="" >}}
 
 ## The Case For Hiring Entry Level
 
