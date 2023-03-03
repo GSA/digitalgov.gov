@@ -15,12 +15,14 @@ topics:
 authors:
   - ana-monroe
 slug: understanding-design-in-10-questions
-primary_image: 10x-gold-x-logo
+primary_image: "u-x-designers-wear-face-masks-collaborating-in-the-office-yakobchuk-olena-istock-getty-images-1297220263"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Design can seem confusing or even mysterious, but it doesn’t have to be that way. In GSA’s Office of Customer Experience, we get lots of questions about design, so we’re going to answer some of the questions we hear most often. Here we go.
 
 ## Question 1. What is design?
@@ -31,7 +33,7 @@ According to [American designer Charles Eames](https://www.loc.gov/exhibits/eame
 
 ## Question 2. What kinds of problems can design solve?
 
-In the 1960s, design theorist Horst Rittel<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> coined the term \`wicked problems\` to describe the issues design can address. He describes wicked problems as “...problems which are ill-formulated, where the information is confusing, where there are many clients and decision makers with conflicting values, and where the ramifications in the whole system are thoroughly confusing.”
+In the 1960s, design theorist Horst Rittel<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> coined the term `wicked problems` to describe the issues design can address. He describes wicked problems as “...problems which are ill-formulated, where the information is confusing, where there are many clients and decision makers with conflicting values, and where the ramifications in the whole system are thoroughly confusing.”
 
 In other words, design takes on complex problems that resist simple and singular answers, because those problems do not have simple or singular roots or origins. Using this definition, it’s easy to understand how design could be useful in complex spaces like the federal government. 
 
@@ -93,10 +95,10 @@ Read [Bringing design in-house](https://digital.gov/2023/01/27/bringing-design-i
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
 <li id="fn1">Dilemmas in a general theory of planning. Rittel, H.W.J., Webber, M.M. Policy Sci 4, 155–169 (1973). <https://doi.org/10.1007/BF01405730><a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
-<li id="fn2">﻿Wicked Problems in Design Thinking. Buchanan, Richard. Design. The M.I.T. Press. Issues, Vol. 8, No. 2, (Spring, 1992), pp. 9-10. <http://www.jstor.org/stable/1511637><a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
+<li id="fn2">Wicked Problems in Design Thinking. Buchanan, Richard. Design. The M.I.T. Press. Issues, Vol. 8, No. 2, (Spring, 1992), pp. 9-10. <http://www.jstor.org/stable/1511637><a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
 <li id="fn3">https://www.linkedin.com/in/sara-schnadt-2735134<a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
 <li id="fn4">Designing the Invisible: An Introduction to Service Design. Author: Lara Penin. Publisher: Bloomsbury. 2018.<a href="#footnotes-ref4" aria-label="Back to content">↩</a></li>
 <li id="fn5">Good to Great: Why Some Companies Make the Leap...and Others Don't. Collins, Jim. Harper Business. 2001.<a href="#footnotes-ref5" aria-label="Back to content">↩</a></li>
-<li id="fn6">﻿High Resolution Podcast. Episode 7. 27 March 2017. <https://www.youtube.com/watch?v=TeE6Tx_nO94> (1 hour, 8 minutes)<a href="#footnotes-ref6" aria-label="Back to content">↩</a></li>
+<li id="fn6">High Resolution Podcast. Episode 7. 27 March 2017. <https://www.youtube.com/watch?v=TeE6Tx_nO94> (1 hour, 8 minutes)<a href="#footnotes-ref6" aria-label="Back to content">↩</a></li>
 </ol>
 <footer>
