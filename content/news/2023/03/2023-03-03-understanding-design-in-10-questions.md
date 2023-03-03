@@ -16,7 +16,6 @@ topics:
 authors:
   - ana-monroe
 slug: understanding-design-in-10-questions
-primary_image: "abstract-background-question-marks-talangart-istock-getty-images-1280616526-edit"
 
 # Controls how this page appears across the site
 # 0 -- hidden
