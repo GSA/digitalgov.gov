@@ -20,7 +20,8 @@ slug: the-plain-language-tie-to-translating-digital-content
 captions: https://www.streamtext.net/player/?event=BIS-GSA-1589
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: 2023-the-plain-language-tie-title-card
+primary_image: 
+
 ---
 
 The Plain Language and Multilingual communities share a goal of achieving more effective communication. They’re coming together to discuss the plain language and cultural components of effectively translating digital content into multiple languages.
