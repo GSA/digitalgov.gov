@@ -1,8 +1,8 @@
 ---
 slug: hiring-for-your-digital-needs
 date: 2015-02-09 10:00:07 -0400
-title: Hiring For Your Digital Needs
-summary: The increasing presence of big data and all things digital will require the federal government to hire more techies. The skills brought by techies will help the federal government, but we also must consider that success in the federal government will require more than the skills they bring. The techies may be from the private
+title: "Hiring For Your Digital Needs"
+summary: "The increasing presence of big data and all things digital will require the federal government to hire more techies. The skills brought by techies will help the federal government, but we also must consider that success in the federal government will require more than the skills they bring."
 authors:
   - kdaniel
 topics:
@@ -13,7 +13,7 @@ topics:
   - noaa
   - professional-development
   - us-citizenship-and-immigration-service
-  - iscis
+  - uscis
 
 ---
 
@@ -29,7 +29,7 @@ If you hire someone entry level, specifically in a laddered position, they will 
 
 Rebecca Ferro, Acting Deputy Director at the National Oceanic and Atmospheric Administration (NOAA), in the Office of  Communications, believes that  hiring an entry level person is the right choice, especially, if mentoring is present.
 
-&#8220;The advantage I see to hiring someone more junior [entry level] is that it can be easier to train someone who isn&#8217;t set on doing things the way it&#8217;s been done for years,” Ferro said. “Sometimes it&#8217;s worth investing in fresh, creative junior staff if you are willing to be a mentor and guide through the tricky parts. I guess you just have to weigh what skill is most crucial to the position and how much time you have to mentor.&#8221;
+"The advantage I see to hiring someone more junior [entry level] is that it can be easier to train someone who isn't set on doing things the way it's been done for years," Ferro said. "Sometimes it's worth investing in fresh, creative junior staff if you are willing to be a mentor and guide through the tricky parts. I guess you just have to weigh what skill is most crucial to the position and how much time you have to mentor."
 
 ## The Case for Hiring More Seasoned
 
@@ -37,7 +37,7 @@ If you hire someone that has the experience, they more than likely can hit the g
 
 Jeffrey Levy, Chief of E-Communications at the U.S. Citizenship and Immigration Services, believes that hiring a more experienced person is a great option, especially considering the nuances of working in the federal government.
 
-&#8220;By all means, someone at the entry level can contribute, but you wouldn&#8217;t put them in charge of a major effort right off the bat. Similarly, knowing how to use social media sites is a basic skill,&#8221; said Levy. &#8220;But knowing the legal and policy issues surrounding government use of social media takes experience (I could rattle off a dozen without blinking), as does developing situational awareness of the issues facing an agency, how things have been twisted around in the past, the agency&#8217;s culture and risk tolerance, etc.&#8221;
+"By all means, someone at the entry level can contribute, but you wouldn't put them in charge of a major effort right off the bat. Similarly, knowing how to use social media sites is a basic skill," said Levy. "But knowing the legal and policy issues surrounding government use of social media takes experience (I could rattle off a dozen without blinking), as does developing situational awareness of the issues facing an agency, how things have been twisted around in the past, the agency&#8217;s culture and risk tolerance, etc."
 
 As we can see from the information provided by Rebecca and Jeffrey, a case can be made for both of the options. There are many things to consider in deciding who to hire. The correct answer of whom to hire in your agency is a question that you can best answer.
 
