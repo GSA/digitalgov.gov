@@ -10,10 +10,13 @@
 {{- $related_pages := .Site.Pages.Related  . -}}
 
 {{/* gets only the related community pages */}}
-{{- $communities := where $related_pages "Section" "communities" -}}
+{{- $.Scratch.Set "communities" (where $related_pages "Section" "communities") -}}
 
-{{/* Now shuffle the community pages and pick the first 5 */}}
-{{- $communities := first 5 $communities | shuffle -}}
+{{/* Now conditionally shuffle the community pages and pick the first 5 */}}
+{{ if (gt (len ($.Scratch.Get "communities")) 5) }}
+  {{- $.Scratch.Set "communities" (first 5 ($.Scratch.Get "communities") | shuffle) -}}
+{{ end }}
+{{ $communities := ($.Scratch.Get "communities")}}
 
 {{/* If there are community pages... */}}
 {{- with $communities -}}
@@ -55,8 +58,13 @@
 {{/* gets only the related service pages */}}
 {{- $services := where $related_pages "Section" "services" -}}
 
-{{/* Now shuffle the service pages and pick the first 5 */}}
-{{- $services := first 5 $services | shuffle -}}
+{{- $.Scratch.Set "services" (where $related_pages "Section" "services") -}}
+
+{{/* Now conditionally shuffle the service pages and pick the first 5 */}}
+{{ if (gt (len ($.Scratch.Get "services")) 5) }}
+  {{- $.Scratch.Set "services" (first 5 ($.Scratch.Get "services") | shuffle) -}}
+{{ end }}
+{{ $services := ($.Scratch.Get "services")}}
 
 {{/* If there are services... */}}
 {{- with $services -}}
