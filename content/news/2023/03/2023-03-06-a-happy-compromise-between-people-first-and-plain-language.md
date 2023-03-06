@@ -1,5 +1,5 @@
 ---
-date: 2023-03-07 17:35:00 -0500
+date: 2023-03-07 12:35:00 -0500
 kicker: kicker
 title: A happy compromise between people-first and plain language
 deck: Applying people-first standards with plain language in mind
@@ -40,10 +40,10 @@ People-first language is about word choice and being thoughtful about how you ch
 
 “We want to think about the person before we think about the other defining characteristics of that person,” Ledbetter said.
 
-Here are some <a href="https://www.cdc.gov/healthcommunication/Preferred_Terms.html">examples of people-first language from the CDC](https://www.cdc.gov/healthcommunication/Preferred_Terms.html).
+Here are some [examples of people-first language from the CDC](https://www.cdc.gov/healthcommunication/Preferred_Terms.html).
 
 <table class="usa-table usa-table--borderless">
-  <caption>Here are some [examples of people-first language from the CDC</a>.</caption>
+  <caption>Here are some <a href="https://www.cdc.gov/healthcommunication/Preferred_Terms.html">examples of people-first language from the CDC</a>.</caption>
   <thead>
     <tr>
       <th scope="col">Instead of:</th>
