@@ -3,9 +3,7 @@ date: 2023-03-07 17:35:00 -0500
 kicker: kicker
 title: A happy compromise between people-first and plain language
 deck: Applying people-first standards with plain language in mind
-summary: Find out how the National Institute of Corrections is using
-  people-first plain language in its communications. See what words and phrases
-  they’re changing.
+summary: Find out how the National Institute of Corrections is using people-first plain language in its communications. See what words and phrases they’re changing.
 # See all topics at https://digital.gov/topics
 topics:
   - content
@@ -23,14 +21,16 @@ primary_image: people-first-plain-language-compromise
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 It’s not impossible to use people-first and plain language at the same time. And before you ask, they’re not contradictory, either.
 
 It’s fairly simple. Identify someone as a person first, and then put the descriptor you need to mention afterward.
 
 During her presentation at the [2022 Federal Plain Language Summit](https://digital.gov/event/2022/08/24/2022-federal-plain-language-summit/), Donna Ledbetter, a technical writer and editor with the National Institute of Corrections of the Department of Justice’s Federal Bureau of Prisons, said that plain language and people-first language are “not opposing concepts, but rather, it’s a union; a partnership.”
 
-[View the slides (PowerPoint presentation, 23.3 MB, 24 pages)](https://s3.amazonaws.com/digitalgov/static/plain-language-summit-plain-language-and-people-first-a-pioneering-union.pptx)
+{{< box >}}[View the slides (PowerPoint presentation, 23.3 MB, 24 pages)](https://s3.amazonaws.com/digitalgov/static/plain-language-summit-plain-language-and-people-first-a-pioneering-union.pptx){{< /box >}}
 
 Plain language requires us to omit needless words. If you need four words to describe a person, that’s OK. People-first language is still plain when the words are all necessary and people know what they mean.
 
@@ -40,15 +40,16 @@ People-first language is about word choice and being thoughtful about how you ch
 
 “We want to think about the person before we think about the other defining characteristics of that person,” Ledbetter said.
 
+Here are some <a href="https://www.cdc.gov/healthcommunication/Preferred_Terms.html">examples of people-first language from the CDC](https://www.cdc.gov/healthcommunication/Preferred_Terms.html).
+
 <table class="usa-table usa-table--borderless">
-  <caption>**Here are some [examples of people-first language from the CDC](https://www.cdc.gov/healthcommunication/Preferred_Terms.html).**</caption>
+  <caption>Here are some [examples of people-first language from the CDC</a>.</caption>
   <thead>
     <tr>
       <th scope="col">Instead of:</th>
       <th scope="col">Use:</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <th scope="row">Inmate, offender, convict</th>
