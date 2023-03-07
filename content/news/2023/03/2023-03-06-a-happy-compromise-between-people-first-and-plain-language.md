@@ -86,13 +86,12 @@ Here are some [examples of people-first language from the CDC](https://www.cdc.g
 
 People-first language is a way to show in your communication that you are respectful of the people who are directly affected by your words. 
 
-[ ] 1
+- [ ] 1
+- [ ] two
 
-[ ] two
+- [ ] 3
 
-[ ] 3
-
-[ ] four
+- [ ] four
 
 
 It: 
