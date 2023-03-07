@@ -24,6 +24,8 @@ primary_image:
 
 ---
 
+{{< asset-static file="2023-march-tie-to-plain-event.pptx" label="View the slides (PowerPoint presentation, 3.6 MB, 10 pages)" >}}
+
 The Plain Language and Multilingual communities share a goal of achieving more effective communication. They’re coming together to discuss the plain language and cultural components of effectively translating digital content into multiple languages.
 
 In November 2022, Attorney General Merrick Garland [called upon all federal agencies to strengthen our commitment to language access](https://www.justice.gov/opa/pr/attorney-general-merrick-garland-issues-memorandum-improve-access-services-people-limited). He underscored, “All people in this country, regardless of the language they speak, deserve meaningful access to programs and activities that are conducted or supported by federal agencies.” There is a clear need to enhance access to multilingual information, including in digital content.
