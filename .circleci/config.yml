@@ -2,12 +2,12 @@ version: 2.1
 
 orbs:
   hugo: circleci/hugo@0.5.2
-  node: circleci/node@5.1.0
+  node: cimg/node@18.14.2
 
 defaults: &defaults
   executor:
     name: node/default
-    tag: "18.15.0"
+    tag: "18"
 
 jobs:
   build:
