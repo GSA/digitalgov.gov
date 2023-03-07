@@ -1,6 +1,6 @@
 ---
 date: 2023-03-07 12:31:00 -0500
-kicker: kicker
+kicker: 
 title: A happy compromise between people-first and plain language
 deck: Applying people-first standards with plain language in mind
 summary: Find out how the National Institute of Corrections is using people-first plain language in its communications. See what words and phrases they’re changing.
