@@ -1,5 +1,5 @@
 ---
-date: 2023-03-07 12:35:00 -0500
+date: 2023-03-07 12:31:00 -0500
 kicker: kicker
 title: A happy compromise between people-first and plain language
 deck: Applying people-first standards with plain language in mind
@@ -50,31 +50,31 @@ People-first language is about word choice and being thoughtful about how you ch
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Inmate, offender, convict</th>
+      <td>Inmate, offender, convict</th>
       <td>Justice-involved individual, person in custody, person in prison, person who was formerly incarcerated</td>
     </tr>
     <tr>
-      <th scope="row">The disabled</th>
+      <td>The disabled</th>
       <td>People with disabilities</td>
     </tr>
     <tr>
-      <th scope="row">Mentally ill</th>
+      <td>Mentally ill</th>
       <td>People with a mental illness</td>
     </tr>
     <tr>
-      <th scope="row">The homeless</th>
+      <td>The homeless</th>
       <td>People experiencing homelessness</td>
     </tr>
     <tr>
-      <th scope="row">Drug user, addict</th>
+      <td>Drug user, addict</th>
       <td>Person with a substance abuse disorder</td>
     </tr>
     <tr>
-      <th scope="row">Diabetic</th>
+      <td>Diabetic</th>
       <td>Person with diabetes</td>
     </tr>
     <tr>
-      <th scope="row">Poor people</th>
+      <td>Poor people</th>
       <td>People with lower incomes</td>
     </tr>
   </tbody>
