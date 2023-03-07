@@ -42,7 +42,7 @@ People-first language is about word choice and being thoughtful about how you ch
 
 Here are some [examples of people-first language from the CDC](https://www.cdc.gov/healthcommunication/Preferred_Terms.html).
 
-<table class="usa-table usa-table--borderless">
+<table class="usa-table usa-table--border">
   <caption>Here are some <a href="https://www.cdc.gov/healthcommunication/Preferred_Terms.html">examples of people-first language from the CDC</a>.</caption>
   <thead>
     <tr>
