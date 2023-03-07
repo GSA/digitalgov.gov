@@ -98,7 +98,7 @@ Ledbetter points out that the shift in language at the National Institute of Cor
 
 "Be the change you want to see," Ledbetter said.
 
-### 7 concrete actions you can take:
+**7 concrete actions you can take:**
 
 1. Make it part of the agency’s culture by ensuring everyone in the organization is responsible for incorporating people-first language, whether it’s in the name of a program or a technical document that’s hundreds of pages.
 2. Make it part of your style guide.
