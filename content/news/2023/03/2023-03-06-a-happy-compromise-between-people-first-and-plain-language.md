@@ -84,15 +84,7 @@ Here are some [examples of people-first language from the CDC](https://www.cdc.g
 
 ## Why should I use people-first language?
 
-People-first language is a way to show in your communication that you are respectful of the people who are directly affected by your words. 
-
-- [ ] 1
-- [ ] two
-
-- [ ] 3
-
-- [ ] four
-
+People-first language is a way to show in your communication that you are respectful of the people who are directly affected by your words.
 
 It: 
 
