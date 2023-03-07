@@ -62,7 +62,7 @@ npm install gulp-cli -g
 ```
 
 To use Gulp, you must have [Node](https://nodejs.org/) and [NPM](https://www.npmjs.com) installed.
-We're currently using Node v14. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
+We're currently using Node v18. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
 
 NPM is package along with Node. Check your versions of these in your terminal command line by typing:
 
