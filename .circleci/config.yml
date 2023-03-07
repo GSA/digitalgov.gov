@@ -7,7 +7,7 @@ orbs:
 defaults: &defaults
   executor:
     name: node/default
-    tag: "18"
+    tag: "18.15.0"
 
 jobs:
   build:
