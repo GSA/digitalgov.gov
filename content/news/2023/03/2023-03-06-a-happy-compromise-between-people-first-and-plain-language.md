@@ -43,11 +43,12 @@ People-first language is about word choice and being thoughtful about how you ch
 Here are some [examples of people-first language from the CDC](https://www.cdc.gov/healthcommunication/Preferred_Terms.html).
 
 <table class="usa-table usa-table--borderless">
-  <caption> </caption>
+  <caption>Caption</caption>
   <thead>
     <tr>
       <th scope="col">Instead of:</th>
       <th scope="col">Use:</th>
+      <th scope="col">3rd</th>
     </tr>
   </thead>
   <tbody>
