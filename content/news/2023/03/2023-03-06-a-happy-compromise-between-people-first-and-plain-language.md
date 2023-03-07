@@ -43,50 +43,42 @@ People-first language is about word choice and being thoughtful about how you ch
 Here are some [examples of people-first language from the CDC](https://www.cdc.gov/healthcommunication/Preferred_Terms.html).
 
 <table class="usa-table usa-table--borderless">
-  <caption>Caption</caption>
+  <caption>Here are some <a href="https://www.cdc.gov/healthcommunication/Preferred_Terms.html">examples of people-first language from the CDC</a>.</caption>
   <thead>
     <tr>
       <th scope="col">Instead of:</th>
       <th scope="col">Use:</th>
-      <th scope="col">3rd</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">Inmate, offender, convict</th>
       <td>Justice-involved individual, person in custody, person in prison, person who was formerly incarcerated</td>
-      <td>3rd col<td>
     </tr>
     <tr>
       <th scope="row">The disabled</th>
       <td>People with disabilities</td>
-      <td>3rd col<td>
-</tr>
+    </tr>
     <tr>
       <th scope="row">Mentally ill</th>
       <td>People with a mental illness</td>
-      <td>3rd col<td>
-</tr>
+    </tr>
     <tr>
       <th scope="row">The homeless</th>
       <td>People experiencing homelessness</td>
-      <td>3rd col<td>
-</tr>
+    </tr>
     <tr>
       <th scope="row">Drug user, addict</th>
       <td>Person with a substance abuse disorder</td>
-      <td>3rd col<td>
-</tr>
+    </tr>
     <tr>
       <th scope="row">Diabetic</th>
       <td>Person with diabetes</td>
-      <td>3rd col<td>
     </tr>
     <tr>
       <th scope="row">Poor people</th>
       <td>People with lower incomes</td>
-      <td>3rd col<td>
-</tr>
+    </tr>
   </tbody>
 </table>
 
