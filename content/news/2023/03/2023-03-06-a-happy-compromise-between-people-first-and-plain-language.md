@@ -67,7 +67,7 @@ People-first language is about word choice and being thoughtful about how you ch
     </tr>
     <tr>
       <td>Drug user, addict</th>
-      <td>Person with a substance abuse disorder</td>
+      <td>Person with a substance use disorder</td>
     </tr>
     <tr>
       <td>Diabetic</th>
