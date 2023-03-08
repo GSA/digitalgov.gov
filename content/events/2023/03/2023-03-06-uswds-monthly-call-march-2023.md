@@ -12,7 +12,7 @@ topics:
   - usability
   - uswds
 slug: uswds-monthly-call-march-2023
-captions: https://www.streamtext.net/player?event=BISI-GSA-JY
+captions: https://www.streamtext.net/player/?event=BIS-GSA-1731
 date: 2023-03-16 14:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
