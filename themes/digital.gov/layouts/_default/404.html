@@ -2,6 +2,7 @@
 {{- with site.GetPage "/404" -}}
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
+
 <main role="main" id="main-content">
   <article>
     <header>
@@ -34,9 +35,6 @@
 
             {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
-          </div>
-
-          <div class="grid-col-12 tablet:grid-col-3">
           </div>
 
         </div>
