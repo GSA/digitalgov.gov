@@ -1,8 +1,7 @@
 ---
 date: 2023-03-09 07:46:00 -0500
-title: Call for participation: Government UX summit 2023
-summary: The UX Summit will be a one day virtual event on June 14, 2023. New and
-  experienced UX practitioners are encouraged to participate.
+title: "Call for participation: Government UX summit 2023"
+summary: "The UX Summit will be a one day virtual event on June 14, 2023. New and experienced UX practitioners are encouraged to participate."
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
@@ -11,9 +10,9 @@ topics:
   - design
 # See all authors at https://digital.gov/authors
 authors:
-  - 
+  - toni-bonitto
 slug: call-for-participation-government-ux-summit-2023
-primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
