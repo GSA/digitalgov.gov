@@ -57,6 +57,10 @@ Presentation materials must follow all [Community Guidelines](https://digital.go
 
 Selected and confirmed presenters must submit their presentation slides in PowerPoint at least two weeks before the summit. Presentation materials used during the summit will be posted to the Digital.gov event page before the summit begins. 
 
+{{< note "action" >}}**Submissions are due by March 23, 2023**
+
+To send us your proposed topic and abstract, please complete the [submission form](https://feedback.gsa.gov/jfe/form/SV_20h59USaqXlMBfg).{{< /note >}}
+
 ## Accessibility guidelines
 
 If your submission is selected for the 2023 UX summit, we will provide guidance on creating accessible slides and presentations. Presenters agree to meet federal accessibility requirements for written materials and presentations. Read our [tips for accessible events](https://github.com/GSA/digitalgov.gov/wiki/Accessible-Event-Tips) for more information.
@@ -68,14 +72,6 @@ During the event, presenters must follow [Digital.gov’s accessible event tips]
 ## Evaluation process 
 
 A committee of five government employee volunteers will review all submissions and make selections to achieve a diverse and equitable program for the Summit.
-
-Review panel:
-
-* Ammie Farraj Feijoo, Digital.gov program manager
-* Jaime Kern, UX community co-lead
-* Natalie Buda Smith, UX community co-lead
-* TBD
-* TBD
 
 ## Timeline of events
 
