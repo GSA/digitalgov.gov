@@ -7,7 +7,7 @@ date: 2018-10-05 13:00:00 -0500
 title: "IT Accessibility and Section 508"
 deck: ""
 summary: "We support people who are working to improve accessibility of information technology."
-redirectto: https://www.section508.gov/manage/join-the-508-community
+redirectto: https://www.section508.gov/manage/join-the-508-community/
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/accessibility/
