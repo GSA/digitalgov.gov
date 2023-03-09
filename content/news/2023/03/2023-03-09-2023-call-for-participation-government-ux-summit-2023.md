@@ -11,7 +11,9 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - jeannie-yoon
+
 slug: call-for-participation-government-ux-summit-2023
+primary_image: "call-for-participation-2023-government-ux-summit"
 
 # Controls how this page appears across the site
 # 0 -- hidden
