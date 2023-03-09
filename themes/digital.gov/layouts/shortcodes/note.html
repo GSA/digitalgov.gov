@@ -27,6 +27,11 @@ Video —
 Video text goes here...
 {{< /note >}}
 
+Group —
+{{< note "group" "Join here today" >}}
+Group text goes here...
+{{< /note >}}
+
 Comment —
 {{< note "alert" >}}
 > Comment goes here as a blockquote
@@ -67,7 +72,13 @@ additional text goes here...
         <use xlink:href="{{ "uswds/img/sprite.svg#fast_forward" | relURL }}"></use>
       </svg> Video
     </h4>
-  {{- else -}}
+    {{- else if and (.Get 0) (eq (.Get 0) "group") -}}
+    <h4>
+      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"></use>
+      </svg>  {{- .Get 1 -}}
+    </h4>
+    {{- else -}}
     <h4>
       <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
         <use xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}"></use>
