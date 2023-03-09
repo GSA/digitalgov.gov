@@ -2,7 +2,7 @@ version: 2.1
 
 orbs:
   hugo: circleci/hugo@0.5.2
-  node: circleci/node@18.14.2
+  node: circleci/node@5.1.0
 
 defaults: &defaults
   executor:
