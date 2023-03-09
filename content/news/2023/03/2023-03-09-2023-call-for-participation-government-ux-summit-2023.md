@@ -10,7 +10,7 @@ topics:
   - design
 # See all authors at https://digital.gov/authors
 authors:
-  - toni-bonitto
+  - jeannie-yoon
 slug: call-for-participation-government-ux-summit-2023
 
 # Controls how this page appears across the site
