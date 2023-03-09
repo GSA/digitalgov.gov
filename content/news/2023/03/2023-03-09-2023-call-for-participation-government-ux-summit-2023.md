@@ -109,4 +109,4 @@ The 2023 UX summit will be held virtually on June 14, 2023 from 10 am to 4 pm ET
 
 **2023 UX Summit**: June 14, 2023
 
-For more information or questions regarding the 2023 UX summit, please contact the Digital.gov team at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
+{{< note >}}For more information or questions regarding the 2023 UX summit, please contact the Digital.gov team at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).{{< /note >}}
