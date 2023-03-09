@@ -11,14 +11,16 @@ topics:
   - design
 # See all authors at https://digital.gov/authors
 authors:
-  - toni-bonitto
+  - 
 slug: 2023-ux-summit-call-for-participation
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Digital.gov’s User Experience (UX) community of practice is excited to announce that we are seeking submissions for presentations at the 2023 UX Summit. The summit will be held virtually on June 14, 2023.
 
 Based on the feedback we received after last year’s summit, we are trying a new, streamlined submission and review process.
