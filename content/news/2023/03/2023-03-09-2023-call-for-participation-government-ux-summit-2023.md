@@ -89,7 +89,7 @@ The 2023 UX summit will be held virtually on June 14, 2023 from 10 am to 4 pm ET
 
 **11 am** - Session 2
 
-**12 pm** - Break and tech check for sessions 3,4,5
+**12 pm** - Break and tech check for sessions 3, 4, and 5
 
 **1 pm** - Session 3
 
