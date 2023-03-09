@@ -12,7 +12,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - 
-slug: 2023-ux-summit-call-for-participation
+slug: call-for-participation-government-ux-summit-2023
 primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
