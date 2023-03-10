@@ -36,10 +36,9 @@ All scan data can be downloaded directly as a [CSV or JSON file](data/) or acces
 
 Much deeper program detail can be found in the program's [documentation hub](https://github.com/gsa/site-scanning-documentation). The major sections include:
 
-- [Understanding the Data](https://github.com/gsa/site-scanning-documentation#understanding-the-data)
 - [About the Program](https://github.com/gsa/site-scanning-documentation#about)
+- [Understanding the Data](https://github.com/gsa/site-scanning-documentation#understanding-the-data)
 - [Program Management Documentation](https://github.com/gsa/site-scanning-documentation#program-management)
-- [Technical Documentation](https://github.com/gsa/site-scanning-documentation#technical)
 
 The creation of the underlying website index is explained in the separate [Federal Website Index repository](https://github.com/GSA/federal-website-index). It includes links to the original datasets, as well as descriptions of how they are assembled and filtered in order to create the list of URLs that are then scanned.
 
