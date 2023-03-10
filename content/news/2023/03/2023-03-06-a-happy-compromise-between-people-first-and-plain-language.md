@@ -1,6 +1,6 @@
 ---
-date: 2023-03-07 12:35:00 -0500
-kicker: kicker
+date: 2023-03-07 12:31:00 -0500
+kicker: 
 title: A happy compromise between people-first and plain language
 deck: Applying people-first standards with plain language in mind
 summary: Find out how the National Institute of Corrections is using people-first plain language in its communications. See what words and phrases they’re changing.
@@ -50,31 +50,31 @@ People-first language is about word choice and being thoughtful about how you ch
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Inmate, offender, convict</th>
+      <td>Inmate, offender, convict</th>
       <td>Justice-involved individual, person in custody, person in prison, person who was formerly incarcerated</td>
     </tr>
     <tr>
-      <th scope="row">The disabled</th>
+      <td>The disabled</th>
       <td>People with disabilities</td>
     </tr>
     <tr>
-      <th scope="row">Mentally ill</th>
+      <td>Mentally ill</th>
       <td>People with a mental illness</td>
     </tr>
     <tr>
-      <th scope="row">The homeless</th>
+      <td>The homeless</th>
       <td>People experiencing homelessness</td>
     </tr>
     <tr>
-      <th scope="row">Drug user, addict</th>
-      <td>Person with a substance abuse disorder</td>
+      <td>Drug user, addict</th>
+      <td>Person with a substance use disorder</td>
     </tr>
     <tr>
-      <th scope="row">Diabetic</th>
+      <td>Diabetic</th>
       <td>Person with diabetes</td>
     </tr>
     <tr>
-      <th scope="row">Poor people</th>
+      <td>Poor people</th>
       <td>People with lower incomes</td>
     </tr>
   </tbody>
@@ -98,7 +98,7 @@ Ledbetter points out that the shift in language at the National Institute of Cor
 
 "Be the change you want to see," Ledbetter said.
 
-### 7 concrete actions you can take:
+**7 concrete actions you can take:**
 
 1. Make it part of the agency’s culture by ensuring everyone in the organization is responsible for incorporating people-first language, whether it’s in the name of a program or a technical document that’s hundreds of pages.
 2. Make it part of your style guide.
