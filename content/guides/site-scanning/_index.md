@@ -15,21 +15,23 @@ aliases:
 
 ---
 
-**The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health and best practices. The program is a shared service provided by the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov) (GSA).
-
-**We scan federal agencies for:**
+**The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health, policy compliance, and best practices. 
+  
+The program is a shared service provided at no cost for federal agencies and the public to use. At its core is the Federal Website Index, a reference dataset listing all public federal .gov sites by agency or department. Daily scans generate over 1.5 million fields of data about 26,000 federal .gov websites, made publicly available via API and bulk download.  
+  
+**We scan federal domains for:**  
 
 - The presence of agency websites and subdomains
-- Server status, redirect status, and the relationship between the website and its domain
 - Digital Analytics Program participation
 - Use of the US Web Design System
 - Search engine optimization
 - Third party services
+- IPv6 compliance
 - Other best practices
 
 ## Access the data directly
 
-All scan data can be accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/) or downloaded as a [CSV or JSON file](data/). 
+All scan data can be downloaded directly as a [CSV or JSON file](data/) or accessed through the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/). 
 
 ## Learn more about the program, the scans, and the underlying data
 
