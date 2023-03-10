@@ -1,6 +1,6 @@
 ---
 date: 2020-07-28 09:00:00 -0500
-title: "Understand the Data"
+title: "Data Dictionary"
 deck: ""
 summary: ""
 guide: site-scanning
