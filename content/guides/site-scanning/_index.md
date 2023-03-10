@@ -14,9 +14,11 @@ aliases:
   - /sitescans/
 
 ---
-**The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health and best practices. The program is a shared service provided at no cost for federal agencies and the public to use.  In addition to maintining a Federal Website Index, daily scans generate over 1.5 million fields of data about 26,000 federal .gov websites
-
-**We scan federal agencies for:**
+**The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health, policy compliance, and best practices. 
+  
+The program is a shared service provided at no cost for federal agencies and the public to use. At its core is the Federal Website Index, a reference dataset listing all public federal .gov sites by agency/department. Daily scans generate over 1.5 million fields of data about 26,000 federal .gov websites, made publicly available via API and bulk download.  
+  
+**We scan federal domains for:**  
 
 - The presence of agency websites and subdomains
 - Digital Analytics Program participation
