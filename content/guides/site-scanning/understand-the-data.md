@@ -14,7 +14,7 @@ The Site Scanning engine runs against the [full list of federal goverment websit
 
 The scans operate without authentication over the public internet. Using a headless browser (a browser without a graphical interface), they load each Target URL and inspect what would normally be returned to a user who is visiting that page with a web browser.  The results of these inspections form the data that Site Scanning makes available. 
 
-The scans currently collect the following data about each target URL.  A [complete data dictionary with much more detail](https://github.com/GSA/site-scanning-documentation/blob/main/data/Site_Scanning_Data_Dictionary.csv) can be found in the documentation repository.
+The scans currently collect the following data about each target URL.  A [complete data dictionary with much more detail](https://github.com/GSA/site-scanning-documentation/blob/main/data/Site_Scanning_Data_Dictionary.csv) can be found in the program's documentation [repository](https://github.com/GSA/site-scanning-documentation).
 
 
 | General  |  USWDS | DAP  | SEO  | Third Party Services  |
