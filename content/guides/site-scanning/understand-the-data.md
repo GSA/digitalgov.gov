@@ -24,7 +24,8 @@ The scans currently collect the following data about each target URL.  A complet
 | Domain  |  Degree of Implementation |   |  Elements of the Robots.txt |   |
 |  Agency |   |   | Presence of Sitemap.xml  |   |
 | Bureau  |   |   | Elements of Sitemap.xml  |   |
-|  404 Configuration |   |   |   |   |
+|  404 Configuration |   |   |  Canonical URL |   |
 |  IPv6 Compliance |   |   |   |   |
-  
+|  Underlying Technology |   |   |   |   |
+
 _Have ideas for what else we should be scanning for? Please [file an issue](https://github.com/gsa/site-scanning/issues) or add your idea [to the list of proposed future scans](https://github.com/GSA/site-scanning-documentation/blob/main/pages/candidate-scans.md)!_
