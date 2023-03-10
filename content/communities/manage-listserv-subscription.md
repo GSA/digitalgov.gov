@@ -25,7 +25,7 @@ weight: 0
 
 Digital.gov, a service of the U.S. General Services Administration (GSA), manages several [communities of practice](https://digital.gov/communities/) for government employees and contractors. We manage these communities to fulfill [our mission](https://digital.gov/about/), which includes making open collaboration across government easier. We host events, host community mailing lists, and publish content to facilitate conversations among community members.
 
-{{< note "group" "Who can join?" >}}
+{{< note "group" >}}
 All federal, state, local, tribal, or territorial government employees and contractors are eligible to join our communities. You must use your official government email account, in most cases a .gov or .mil account.
 {{< /note >}}
 
@@ -58,10 +58,7 @@ Words matter. Choose words that create a safe, inclusive, respectful, and welcom
 * [Inclusive language](https://content-guide.18f.gov/our-style/inclusive-language/) - 18F Content Guide
 * [Preferred terms for select population groups and communities](https://www.cdc.gov/healthcommunication/Preferred_Terms.html) - Centers for Disease Control and Prevention.
 
-When participating in the community, community members must follow the ground rules for discussions.
-
 {{< community-guidelines >}}
-
 
 Manage your mailing list subscription.
 Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) and we’ll help you manage your LISTSERV subscription. The most common requests are to:

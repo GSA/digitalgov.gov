@@ -27,7 +27,7 @@
 .cop-table {
   thead tr th:first-child {
     @include u-border-top("05", "green-40v", "solid");
-    @include u-color("green-40v");
+    @include u-color("green-50v");
   }
 
   thead tr th:last-child {
