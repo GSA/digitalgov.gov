@@ -118,7 +118,7 @@
               <div>
                 {{- .Content -}}
               </div>
-
+              
               <div class="community_events">
                 {{- partial "core/get-upcomingevents.html" . -}}
               </div>
@@ -131,9 +131,6 @@
               <div>
                 <br/>
                 {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
-
-                {{/* Touchpoints Form */}}
-                {{- partial "core/touchpoints-form.html" . -}}
               </div>
 
 

@@ -1,4 +1,5 @@
 {{- define "content" -}}
+{{- with site.GetPage "/404" -}}
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
 <main role="main" id="main-content">
@@ -7,16 +8,6 @@
       <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
         <div class="grid-row">
           <div class="grid-col-12">
-
-            {{/* Breadcrumbs */}}
-            <p class="breadcrumb">
-              <a href="{{- "/" | absURL -}}">
-                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                  <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
-                </svg>
-                <span>Home</span>
-              </a>
-            </p>
 
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
@@ -41,8 +32,11 @@
               {{- .Content -}}
             </div>
 
-            {{- partial "core/page-data.html" (dict "page" . "page_type" "404" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
           </div>
 
         </div>
@@ -52,4 +46,5 @@
   </article>
 </main>
 
+{{- end -}}
 {{- end -}}
