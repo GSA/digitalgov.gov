@@ -39,10 +39,6 @@
     width: 50%;
   }
 
-  li {
-    list-style-position: inside;
-  }
-
   svg {
     @include u-margin-right(1);
   }
