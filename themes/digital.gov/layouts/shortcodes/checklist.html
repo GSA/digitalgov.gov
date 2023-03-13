@@ -1,3 +1,31 @@
+{{/* 
+  
+  Sample code for creating a checklist with a list of checkbox items
+ 
+  - Use the checklist shortcode when you want to have a printable checklist
+  - Always leave vertical spaces between * (bullet points) otherwise it will render as a sentence and not as a stacked list
+  - Provide a h2, h3, h4 as the header, this wil generate a grey line to denote the new checkbox section  
+  - Nest {{< checkbox >}} shortcodes within the {{< checklist >}} to create a list of checkbox items
+
+  {{< checklist >}}
+    ## Preparing your presentation
+    {{< checkbox >}} Item number 1 goes here {{< /checkbox >}}
+  
+    * detail one
+    * detail two
+  
+    {{< checkbox >}} Item number 2 goes here, with supporting lines that wrap to the next if this is lopng enough {{< /checkbox >}}
+    {{< checkbox >}} Item number 3 goes here {{< /checkbox >}}
+    {{< checkbox >}} Item number 4 goes here {{< /checkbox >}}
+    
+    * detail one
+    * detail two
+  
+  {{< /checklist >}}  
+  
+*/}}
+
+
 {{- if .Inner -}}
 <ul class="dg-checklist">
   {{- .Inner | markdownify -}}

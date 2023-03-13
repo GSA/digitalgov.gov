@@ -1,13 +1,38 @@
+@use "uswds-core" as *;
+
 .dg-checklist {
-  padding-left: 0 !important;
+  @include u-padding-left(0, !important);
+
+  h2,
+  h3,
+  h4 {
+    @include u-margin-bottom(1);
+    @include u-border-bottom("2px", "gray-cool-10", "solid");
+  }
+
+  ul li {
+    list-style-type: disc !important;
+  }
 
   &__item {
     list-style-type: none;
+    @include u-padding-bottom(1);
+
+    &:has(+ ul) {
+      @include u-padding-bottom(0);
+    }
   }
-  &__item:before {
-    width: 25px !important;
-    height: 25px !important;
-    background-color: black !important;
-    border: 1px solid black !important;
+
+  ul:has(+ li) {
+    @include u-margin-bottom(1);
+  }
+
+  &__item::before {
+    content: "";
+    @include u-border("2px", "gray-cool-90", "solid");
+    @include u-margin-right(1);
+    @include u-display("inline-block");
+    @include u-width(2);
+    @include u-height(2);
   }
 }

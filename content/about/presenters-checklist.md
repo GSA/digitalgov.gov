@@ -14,8 +14,32 @@ featured_image:
 {{< checklist >}}
   ## Preparing your presentation
   {{< checkbox >}} Item number 1 goes here {{< /checkbox >}}
+  
+  * detail one
+  * detail two
+  
+  {{< checkbox >}} Item number 2 goes here, with supporting lines that wrap to the next if this is lopng enough {{< /checkbox >}}
+  {{< checkbox >}} Item number 3 goes here {{< /checkbox >}}
+  {{< checkbox >}} Item number 4 goes here {{< /checkbox >}}
+  
+  * detail one
+  * detail two
+  
+{{< /checklist >}}
 
+
+{{< checklist >}}
+  ## Preparing the slides
+  {{< checkbox >}} Item number 1 goes here {{< /checkbox >}}
+  {{< checkbox >}} Item number 2 goes here, with supporting lines that wrap to the next if this is lopng enough {{< /checkbox >}}
+  {{< checkbox >}} Item number 3 goes here {{< /checkbox >}}
+  
   * detail one
   * detail two
 
+  {{< checkbox >}} Item number 4 goes here {{< /checkbox >}}
+  
+  * detail one
+  * detail two
+  
 {{< /checklist >}}
