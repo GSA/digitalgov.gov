@@ -16,10 +16,12 @@ captions: https://www.streamtext.net/player/?event=BIS-GSA-1731
 date: 2023-03-16 14:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
+
 Join the Design System team as we take a step back and explore how our design decisions both support and are supported by the ways our bodies and brains perceive order and make sense of the world.
 
-In this session, you’ll learn how to: 
+In this session, we'll discuss: 
 
 * How does grouping affect perception?
 * What is cognitive load?
