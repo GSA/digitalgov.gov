@@ -28,7 +28,7 @@ community_list:
     subscribe_email_subject: "Join the Communicators Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
     members: 2,065
-    blurb: "Communicator community members"
+    blurb: "Communicators community members"
 
 # Controls how this page appears across the site
 # 0 -- hidden
