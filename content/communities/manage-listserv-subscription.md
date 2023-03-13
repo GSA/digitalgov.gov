@@ -60,7 +60,7 @@ Words matter. Choose words that create a safe, inclusive, respectful, and welcom
 
 {{< community-guidelines >}}
 
-Manage your mailing list subscription.
+## Manage your mailing list subscription.
 Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) and we’ll help you manage your LISTSERV subscription. The most common requests are to:
 * receive a daily digest (instead of each individual message),
 * access the mailing list archive, and
