@@ -35,15 +35,15 @@ community_list:
     type: government
     subscribe_email: "sm-cop-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Social Media Community"
-    terms: "Federal government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 1,181
+    terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
+    members: 1,251
     blurb: "Social Media community members"
 
 primary_image: "white-bg-digital-gov-card-community"
 
 ---
 
-The Social Media Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists at federal agencies as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.
+The Social Media Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists in government as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.
 
 ## What We Do
 
