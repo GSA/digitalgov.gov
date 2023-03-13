@@ -47,11 +47,11 @@ The Social Media Community of Practice (CoP) was launched in June 2012 to resear
 
 ## What We Do
 
-The CoP hosts educational and networking events, and provides resources to government employees with the goal of improving social media and new digital media outreach efforts. Social media managers face many of the same challenges – join the community to connect with others.
+The CoP hosts educational and networking events, and provides resources to members with the goal of improving social media and new digital media outreach efforts. Social media managers face many of the same challenges – join the community to connect with others.
 
 ## Who We Are
 
-The CoP includes government social media communicators of all specialties and experience levels. If you work in government social media, this community is for you.
+The CoP includes social media communicators of all specialties and experience levels. If you work in government social media, this community is for you.
 
 ## Related Resources
 
