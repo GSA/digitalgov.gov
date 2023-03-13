@@ -20,7 +20,6 @@ topics:
   - content-strategy
   - project-management
   - analytics
-
 # see all authors at https://digital.gov/authors
 authors:
   - toni-bonitto
@@ -46,15 +45,15 @@ community_list:
     type: government_only
     subscribe_email: "content-managers-l-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Web Managers Community"
-    terms: "Government employees with an official .gov or .mil email are eligible to join."
-    members: 1,796
+    terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
+    members: 1,828
     blurb: "Web Manager community members"
 
 primary_image: "white-on-gsa-blue-digital-gov-card-community"
 
 ---
 
-We are a group for federal, tribal, territory, state, and local government employees who create, manage, and contribute to government websites and digital services. We are working to create a trusted, seamless online experience for all. You do not need to be a “manager” to be a part of this community; we are all managing different aspects of the digital experience and all have something to contribute — and something to learn — from one another.
+We are a group for those who create, manage, and contribute to government websites and digital services. We are working to create a trusted, seamless online experience for all. You do not need to be a “manager” to be a part of this community; we are all managing different aspects of the digital experience and all have something to contribute — and something to learn — from one another.
 
 ## What We Do
 
