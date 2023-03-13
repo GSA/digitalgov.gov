@@ -51,17 +51,15 @@ primary_image: "digital-gov-card-community"
 
 ---
 
-The Plain Language Action and Information Network (PLAIN) is a community of government employees dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves government agencies time and money and provides better service to the American public.
+The Plain Language community is a group of government employees and contractors dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves government agencies time and money and provides better service to the American public.
 
 ## What We Do
 
-Throughout the year, PLAIN provides free [plain language training](https://www.plainlanguage.gov/training/) to federal staff and hosts plain-language related events such as monthly meetings and our annual summit. Our community offers support and answers to members’ questions.
-
-To be notified about PLAIN activities and new resources, sign up for the PL-COP.
+Throughout the year, the community provides training and hosts plain-language related events. Our community offers support and answers to members’ questions.
 
 ## Who We Are
 
-We’re a group of  plain language practitioners from government agencies with varying specialties and different levels of expertise.
+We’re a group of plain language practitioners with varying specialties and different levels of expertise.
 
 ## Related Resources
 
