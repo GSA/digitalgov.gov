@@ -40,7 +40,7 @@ community_list:
     subscribe_email: "fmwc-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Multilingual Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 534
+    members: 586
     blurb: "Multilingual community members"
 
 primary_image: "white-bg-digital-gov-card-community"
