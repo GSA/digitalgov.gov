@@ -1,8 +1,11 @@
 ---
-slug: federal-communicators-network
+slug: communicators
 date: 2021-02-24 18:49:00 -0500
-title: Federal Communicators Network
+title: Communicators
 summary: "Brings together government communicators to improve communication and make government more effective."
+
+aliases:
+  - /communities/federal-communicators-network/
 
 
 # See all topics at https://digital.gov/topics
