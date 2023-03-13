@@ -1,0 +1,28 @@
+{{- if (.Get "caption") -}}
+<table class="usa-table usa-table--borderless dg-do-dont-table usa-table--stacked">
+  <caption>{{ .Get "caption" }}</caption>
+  <thead>
+    <tr scope="row">
+      <th scope="col">
+        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{ "uswds/img/sprite.svg#check_circle" | relURL }}"></use>
+        </svg>
+        What you should do
+      </th>
+      <th scope="col">
+        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+        <use xlink:href="{{ "uswds/img/sprite.svg#cancel" | relURL }}"></use>
+        </svg>
+        What you shouldn't do
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- if .Inner -}}
+    <tr scope="row">
+      {{- .Inner | markdownify -}}
+    </tr>
+    {{- end -}}
+  </tbody>
+</table>
+{{- end -}}

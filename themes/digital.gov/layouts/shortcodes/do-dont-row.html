@@ -1,0 +1,8 @@
+{{- if and (.Get "do") (.Get "dont") -}}
+  <td data-label="Do">
+    {{- .Get "do" -}}
+  </td>
+  <td data-label="Don't">
+    {{- .Get "do" -}}.
+  </td>
+{{- end -}}

@@ -21,6 +21,11 @@ _Interested in contributing to Digital.gov? [Check out our contribution page »]
 
 {{< hs-form-subscribe >}}
 
+{{< do-dont-table caption="This is a table" >}}
+  {{< do-dont-row do="do this today" dont="don't do this today">}}
+
+{{< /do-dont-table >}}
+
 
 <br /><br />:envelope: Have additional questions? Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
