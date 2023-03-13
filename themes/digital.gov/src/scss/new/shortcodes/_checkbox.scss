@@ -1,0 +1,13 @@
+.dg-checklist {
+  padding-left: 0 !important;
+
+  &__item {
+    list-style-type: none;
+  }
+  &__item:before {
+    width: 25px !important;
+    height: 25px !important;
+    background-color: black !important;
+    border: 1px solid black !important;
+  }
+}
