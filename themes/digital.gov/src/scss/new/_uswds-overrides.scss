@@ -16,10 +16,30 @@
   }
 
   &__heading {
-    @include u-font('sans', 'sm');
+    @include u-font("sans", "sm");
   }
 
   &__item--sub-item {
     @include u-display("none");
+  }
+}
+
+.cop-table {
+  thead tr th:first-child {
+    @include u-border-top("05", "green-40v", "solid");
+    @include u-color("green-50v");
+  }
+
+  thead tr th:last-child {
+    @include u-border-top("05", "red-50v", "solid");
+    @include u-color("red-50v");
+  }
+
+  tbody tr td {
+    width: 50%;
+  }
+
+  svg {
+    @include u-margin-right(1);
   }
 }
