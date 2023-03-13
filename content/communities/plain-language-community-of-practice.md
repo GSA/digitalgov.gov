@@ -5,7 +5,7 @@
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
 title: "Plain Language"
-summary: "Brings together everyone to promote use of plain language, saving agencies time and money and providing better service to the public."
+summary: "Brings together government plain language practitioners to promote use of plain language, saving agencies time and money and providing better service to the public."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -43,25 +43,25 @@ community_list:
     type: public
     subscribe_email: "pl-cop-main-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Plain Language Community"
-    terms: "Anyone is eligible to join."
-    members: 2,031
+    terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
+    members: 1,643
     blurb: "Plain Language community members"
 
 primary_image: "digital-gov-card-community"
 
 ---
 
-The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves federal agencies time and money and provides better service to the American public.
+The Plain Language Action and Information Network (PLAIN) is a community of government employees dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves government agencies time and money and provides better service to the American public.
 
 ## What We Do
 
-Throughout the year, PLAIN provides free [plain language training](https://www.plainlanguage.gov/training/) to federal staff and hosts plain-language related events such as monthly meetings and our annual summit.  Our community offers support and answers to members’ questions.
+Throughout the year, PLAIN provides free [plain language training](https://www.plainlanguage.gov/training/) to federal staff and hosts plain-language related events such as monthly meetings and our annual summit. Our community offers support and answers to members’ questions.
 
 To be notified about PLAIN activities and new resources, sign up for the PL-COP.
 
 ## Who We Are
 
-We’re a group of  plain language practitioners from federal government agencies and the public, with varying specialties and different levels of expertise.
+We’re a group of  plain language practitioners from government agencies with varying specialties and different levels of expertise.
 
 ## Related Resources
 
