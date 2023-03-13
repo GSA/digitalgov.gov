@@ -52,7 +52,7 @@ Governmeent communicators have relied on this community for best practices, trai
 
 ## Who We Are
 
-The Communicators is a community of government communicators with extensive experience and deep subject knowledge in communications, public affairs, social media, and other related areas.
+Communicators is a community of government communicators with extensive experience and deep subject knowledge in communications, public affairs, social media, and other related areas.
 
 Beginners in the field can ask questions to the group on advice and best practices. The community also shares job opportunities to help members advance in their careers. The community works to bring relevant training to help members develop their communications skills.
 
