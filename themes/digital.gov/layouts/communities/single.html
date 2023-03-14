@@ -1,10 +1,10 @@
 {{ define "content" }}
 
 <main role="main" id="main-content" class="page main-content usa-prose">
-  <article>
+  <article class="grid-container grid-container-desktop">
     <header>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
+      <div class="">
+        <div class="">
           {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
           <div class="grid-col-12" data-edit-this="{{- $path -}}">
 
@@ -29,11 +29,12 @@
       </div>
     </header>
 
-    <section>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-4">
 
-          <div class="grid-col-12 tablet-lg:grid-col-9">
+    <div class="usa-in-page-nav-container">
+      <aside class="usa-in-page-nav" data-title-heading-level="h3" data-root-margin="-350px 0px -350px 0px"></aside>
+      <div class="">
+        <!-- <div class="grid-row tablet-lg:grid-gap-4"> -->
+
 
             {{/* Summary */}}
             {{- if .Params.summary -}}
@@ -137,16 +138,10 @@
             </div>
             {{- end -}}
 
-          </div>
 
-          <div class="grid-col-12 tablet-lg:grid-col-3">
-            {{/* Table of contents */}}
-            {{- partial "core/toc.html" . -}}
-          </div>
-
-        </div>
+        <!-- </div> -->
       </div>
-    </section>
+    </div>
   </article>
 </main>
 {{ end }} {{/* end 'content' block */}}
