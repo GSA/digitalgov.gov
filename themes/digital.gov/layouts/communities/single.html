@@ -3,32 +3,25 @@
 <main role="main" id="main-content" class="page main-content">
   <article class="grid-container grid-container-desktop">
     <header>
-      <div class="">
-        <div class="">
-          {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-          <div class="grid-col-12" data-edit-this="{{- $path -}}">
+      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+      <div data-edit-this="{{- $path -}}">
+        <p class="breadcrumb">
+          <a href="{{ .Parent.Permalink }}" aria-label="Back to {{ .Parent.Title }}">
+            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+              <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
+            </svg>
+            <span>{{ .Parent.Title }}</span>
+          </a>
+        </p>
+        {{/* Page Title */}}
+        <h1>{{ .Title | markdownify }} Community</h1>
 
-            <p class="breadcrumb">
-              <a href="{{ .Parent.Permalink }}" aria-label="Back to {{ .Parent.Title }}">
-                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                  <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
-                </svg>
-                <span>{{ .Parent.Title }}</span>
-              </a>
-            </p>
-            {{/* Page Title */}}
-            <h1>{{ .Title | markdownify }} Community</h1>
-
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-
-          </div>
-        </div>
+        {{/* Deck */}}
+        {{- if .Params.deck -}}
+        <div class="deck">{{- .Params.deck | markdownify -}}</div>
+        {{- end -}}
       </div>
     </header>
-
 
     <div class="usa-in-page-nav-container">
       <aside class="usa-in-page-nav" data-title-heading-level="h3" data-root-margin="-350px 0px -350px 0px"></aside>
