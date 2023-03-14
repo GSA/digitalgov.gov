@@ -9,16 +9,16 @@
 When setting up a **do-dont-table**, you need to make sure you have the correct formatting.
 
 * Start with a a **do-dont-table** then nest **do-dont-row**
+* It is best practice to provide a caption which describes the table contents, should be provided.
 * When you don't provide a matching pair for **do** or **don't**, the table row will not appear. Make sure you have both.
-* Make sure to close the **do-dont't table** with a closing tag, it is not needed for the **do-dont-row**
+* Make sure to close the **do-dont table** with a closing tag, it is not needed for the **do-dont-row**
 
 */}}
 
 
-{{- if (.Get "caption") -}}
 <table class="usa-table usa-table--borderless dg-do-dont-table usa-table--stacked">
-  <caption>{{ .Get "caption" }}</caption>
-  <thead>
+  <caption>{{- if (.Get "caption") -}}{{ .Get "caption" }}{{- else -}} {{- end -}}</caption>
+  <thead class="dg-do-dont-table__head">
     <tr scope="row">
       <th scope="col">
         <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
@@ -34,10 +34,9 @@ When setting up a **do-dont-table**, you need to make sure you have the correct 
       </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody class="dg-do-dont-table__body">
     {{- if .Inner -}}
       {{- .Inner | markdownify -}}
     {{- end -}}
   </tbody>
 </table>
-{{- end -}}
