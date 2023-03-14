@@ -10,9 +10,6 @@ authors:
   - andreanocesigritz
 ---
 
-
-# Using the do and don'ts table
-
 {{< do-dont-table caption="This is a table" >}}
   {{< do-dont-row do="do this today." dont="don't do this today." >}}
   {{< do-dont-row do="open the door for those who need a hand" dont="use inappropriate language in the chats" >}}
