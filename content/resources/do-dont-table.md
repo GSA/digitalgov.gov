@@ -1,7 +1,7 @@
 ---
 slug: do-dont-table
 date: 2013-12-04 4:26:11 -0400
-title: "Do's and Don'ts Table"
+title: "Using the do and don'ts table"
 summary: "What to do and what not to do, that is the question"
 topics:
   - user-experience
