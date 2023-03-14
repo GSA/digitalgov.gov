@@ -3,9 +3,8 @@ display_name: Ana Monroe
 first_name: Ana
 last_name: Monroe
 # Keep it under 50 words and only one paragraph
-bio: Ana is lead design strategist in GSA’s Office of Customer Experience (CX)
-  and team lead for the Enterprise Digital Experience (EDX) Team. She co-curates
-  the CX Symposium series with Sheev Davé. She brings a highly collaborative
+bio: Ana is Service Design Program Manager in GSA’s Office of Customer Experience (CX)
+  and team lead for the Enterprise Digital Experience (EDX) Team. She brings a highly collaborative
   approach to tackling wicked problems across organizations, with an emphasis on
   working across disparate datasets and data types.
 # e.g. U.S. General Services Administration
