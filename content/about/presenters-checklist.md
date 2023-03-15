@@ -11,35 +11,30 @@ featured_image:
 
 # Presenter Checklist
 
-{{< checklist >}}
-  ## Preparing your presentation
-  {{< checkbox >}} Item number 1 goes here {{< /checkbox >}}
-  
-  * detail one
-  * detail two
-  
-  {{< checkbox >}} Item number 2 goes here, with supporting lines that wrap to the next if this is lopng enough {{< /checkbox >}}
-  {{< checkbox >}} Item number 3 goes here {{< /checkbox >}}
-  {{< checkbox >}} Item number 4 goes here {{< /checkbox >}}
-  
-  * detail one
-  * detail two
+{{< checklist header="Preparing your presentation" >}}
+
+  {{< checkbox item="Item number 1 goes here" >}}
+  {{< checkbox-sublist-item sublist-item="detail one" >}}
+  {{< checkbox-sublist-item sublist-item="detail two" >}} 
+  {{< /checkbox >}}
+
+  {{< checkbox item="Item number 2 goes here, with supporting lines that wrap to the next if this is long enough" >}}  {{< /checkbox >}}
+  {{< checkbox item="Item number 3 goes here" >}}{{< /checkbox >}}
   
 {{< /checklist >}}
 
 
-{{< checklist >}}
-  ## Preparing the slides
-  {{< checkbox >}} Item number 1 goes here {{< /checkbox >}}
-  {{< checkbox >}} Item number 2 goes here, with supporting lines that wrap to the next if this is lopng enough {{< /checkbox >}}
-  {{< checkbox >}} Item number 3 goes here {{< /checkbox >}}
-  
-  * detail one
-  * detail two
+{{< checklist header="Preparing the slides">}}
 
-  {{< checkbox >}} Item number 4 goes here {{< /checkbox >}}
-  
-  * detail one
-  * detail two
+  {{< checkbox item="Item number 1 goes here" >}} {{< /checkbox >}}
+  {{< checkbox item="Item number 2 goes here, with supporting lines that wrap to the next if this is long enough" >}} {{< /checkbox >}}
+  {{< checkbox item="Item number 3 goes here " >}} {{< /checkbox >}}
+  {{< checkbox item="Item number 4 goes here" >}} {{< /checkbox >}}
+
+  {{< checkbox item="Item number 5 goes here" >}}
+  {{< checkbox-sublist-item sublist-item="detail one" >}}
+  {{< checkbox-sublist-item sublist-item="detail two" >}} 
+  {{< /checkbox >}}
+
   
 {{< /checklist >}}

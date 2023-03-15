@@ -1,3 +1,7 @@
-{{- if .Inner -}}
-  <li class="dg-checklist__item">{{- .Inner | markdownify -}}</li>
-{{- end -}}
+<li class="dg-checklist__item">{{- if (.Get "item") -}}{{ .Get "item" }}{{- end -}}
+  {{- if .Inner -}}
+    <ul class="dg-checklist__item-sublist">
+      {{- .Inner | markdownify -}}
+    </ul>
+  {{- end -}}
+</li>

@@ -2,32 +2,33 @@
   
   Sample code for creating a checklist with a list of checkbox items
  
-  - Use the checklist shortcode when you want to have a printable checklist
-  - Always leave vertical spaces between * (bullet points) otherwise it will render as a sentence and not as a stacked list
-  - Provide a h2, h3, h4 as the header, this wil generate a grey line to denote the new checkbox section  
-  - Nest {{< checkbox >}} shortcodes within the {{< checklist >}} to create a list of checkbox items
+  1. Use the checklist shortcode when you want to have a printable checklist
+  2. Provide a "header" and the checklist will set a gray bar beneath an H2
+  3. Nest {{< checkbox >}} shortcodes within the {{< checklist >}} to create a list of checkbox items
+  4. Use {{< checkbox-sublist-item sublist-item="sublist bullet point">}} will create a bullet point sublist item
+  5. Follow the same nesting structure as below, don't indent {{< checkbox-sublist-item >}} in the {{< checkbox >}} shortcode, else it will break
 
-  {{< checklist >}}
-    ## Preparing your presentation
-    {{< checkbox >}} Item number 1 goes here {{< /checkbox >}}
+  {{< checklist header="Preparing your presentation" >}}
+
+    {{< checkbox item="Item number 1 goes here" >}}
+    {{< checkbox-sublist-item sublist-item="detail one" >}}
+    {{< checkbox-sublist-item sublist-item="detail two" >}} 
+    {{< /checkbox >}}
+
+    {{< checkbox item="Item number 2 goes here, with supporting lines that wrap to the next if this is long enough" >}}  {{< /checkbox >}}
+    {{< checkbox item="Item number 3 goes here" >}}{{< /checkbox >}}
   
-    * detail one
-    * detail two
-  
-    {{< checkbox >}} Item number 2 goes here, with supporting lines that wrap to the next if this is lopng enough {{< /checkbox >}}
-    {{< checkbox >}} Item number 3 goes here {{< /checkbox >}}
-    {{< checkbox >}} Item number 4 goes here {{< /checkbox >}}
-    
-    * detail one
-    * detail two
-  
-  {{< /checklist >}}  
+  {{< /checklist >}} 
   
 */}}
 
 
 {{- if .Inner -}}
 <ul class="dg-checklist">
+  {{- if (.Get "header") -}}
+    <h2 class="dg-checklist__header">{{ .Get "header" }}</h2>
+    {{- else -}}
+  {{- end -}}
   {{- .Inner | markdownify -}}
 </ul>
 {{- end -}}
