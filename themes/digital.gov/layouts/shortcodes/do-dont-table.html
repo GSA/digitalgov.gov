@@ -18,15 +18,15 @@ When setting up a **do-dont-table**, you need to make sure you have the correct 
 
 <table class="usa-table usa-table--borderless dg-do-dont-table usa-table--stacked">
   <caption>{{- if (.Get "caption") -}}{{ .Get "caption" }}{{- else -}} {{- end -}}</caption>
-  <thead class="dg-do-dont-table__head">
-    <tr class="dg-do-dont-table" scope="row">
-      <th scope="col">
+  <thead class="dg-do-dont-table__header">
+    <tr class="dg-do-dont-table__header-row" scope="row">
+      <th class="dg-do-dont-table__header dg-do-dont-table__header--do" scope="col">
         <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
         <use xlink:href="{{ "uswds/img/sprite.svg#check_circle" | relURL }}"></use>
         </svg>
         What you should do
       </th>
-      <th scope="col">
+      <th class="dg-do-dont-table__header dg-do-dont-table__header--dont" scope="col">
         <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
         <use xlink:href="{{ "uswds/img/sprite.svg#cancel" | relURL }}"></use>
         </svg>
