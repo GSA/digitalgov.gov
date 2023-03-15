@@ -1,23 +1,25 @@
 {{/* 
 
+When setting up a **do-dont-table**, you need to make sure you have the correct formatting.
+
+1. Start with a a **do-dont-table** then nest **do-dont-row**
+2. It is best practice to provide a caption which describes the table contents, should be provided.
+3. When you don't provide a matching pair for **do** or **don't**, the table row will not appear. Make sure you have both.
+4. Make sure to close the **do-dont table** with a closing tag, it is not needed for the **do-dont-row**
+
 {{< do-dont-table caption="This is a table" >}}
   {{< do-dont-row do="do this today" dont="don't do this today" >}}
   {{< do-dont-row do="open the door for those who need a hand" dont="use inappropriate language in the chats" >}}
   {{< do-dont-row do="read the directions before using" dont="forget to wash your hands for 20 seconds" >}}
 {{< /do-dont-table >}}
 
-When setting up a **do-dont-table**, you need to make sure you have the correct formatting.
-
-* Start with a a **do-dont-table** then nest **do-dont-row**
-* It is best practice to provide a caption which describes the table contents, should be provided.
-* When you don't provide a matching pair for **do** or **don't**, the table row will not appear. Make sure you have both.
-* Make sure to close the **do-dont table** with a closing tag, it is not needed for the **do-dont-row**
-
 */}}
 
 
 <table class="usa-table usa-table--borderless dg-do-dont-table usa-table--stacked">
-  <caption>{{- if (.Get "caption") -}}{{ .Get "caption" }}{{- else -}} {{- end -}}</caption>
+  {{- if (.Get "caption") -}}
+  <caption>{{ .Get "caption" }}</caption>
+  {{- end -}}
   <thead class="dg-do-dont-table__header">
     <tr class="dg-do-dont-table__header-row" scope="row">
       <th class="dg-do-dont-table__header dg-do-dont-table__header--do" scope="col">

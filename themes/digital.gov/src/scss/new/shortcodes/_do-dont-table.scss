@@ -11,18 +11,11 @@
     @include u-color("red-50v", "!important");
   }
 
-  &-row-do {
-    @include u-border-top("05", "green-40v", "solid");
-    @include u-color("green-50v");
-  }
-
   svg {
     @include u-margin-right(1);
   }
 
-  &__body {
-    tr td {
-      width: 50%;
-    }
+  &__body td {
+    width: 50%;
   }
 }
