@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://cloud.gov/2023/02/23/cloud-gov-pages-faster-builds/
-source: codegov
+source: cloudgov
 date: 2023-02-23 11:40:00 -0500
 title: Faster build times on cloud.gov Pages
 deck: We’ve made two recent changes to cloud.gov Pages to make website
