@@ -2,15 +2,16 @@
 
 .dg-checklist {
   @include u-padding-left(0, !important);
-
-  &__header {
-    @include u-margin-bottom(2, "!important");
-    @include u-border-bottom("2px", "gray-cool-10", "solid");
-  }
+  @include u-margin-top(0, "!important");
+  @include u-border-top("2px", "gray-cool-10", "solid");
 
   &__item {
     list-style-type: none;
     @include u-padding-bottom(1);
+
+    &:first-child {
+      @include u-margin-top(2, "!important");
+    }
 
     &::before {
       content: "";

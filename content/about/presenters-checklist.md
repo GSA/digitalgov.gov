@@ -11,7 +11,9 @@ featured_image:
 
 # Presenter Checklist
 
-{{< checklist header="Preparing your presentation" >}}
+## Preparing your presentation
+
+{{< checklist >}}
 
   {{< checkbox item="Item number 1 goes here" >}}
   {{< checkbox-sublist-item sublist-item="detail one" >}}
@@ -24,7 +26,9 @@ featured_image:
 {{< /checklist >}}
 
 
-{{< checklist header="Preparing the slides">}}
+## Preparing your slides
+
+{{< checklist >}}
 
   {{< checkbox item="Item number 1 goes here" >}} {{< /checkbox >}}
   {{< checkbox item="Item number 2 goes here, with supporting lines that wrap to the next if this is long enough" >}} {{< /checkbox >}}
