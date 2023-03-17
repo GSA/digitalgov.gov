@@ -45,8 +45,8 @@ This checklist is for people preparing to present at a Digital.gov event. You ma
 
 {{< checkbox item="Submit slides in PowerPoint format." >}}{{< /checkbox >}} 
 {{< checkbox item="Keep the file size under 25 MB." >}}{{< /checkbox >}} 
-{{< checkbox item="Optimize images by selecting an image, clicking on `Picture Format tab → Compress Pictures → On-screen (150 ppi).` Select the option, `All pictures in this file.`" >}}{{< /checkbox >}} 
-{{< checkbox item="Run the [accessibility checker in PowerPoint](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) before submitting slides; remediate all errors and warnings, including reading order. Reach out to [your agency's 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/) if you need any help." >}}{{< /checkbox >}} 
+{{< checkbox item="Optimize images by selecting an image, clicking on {{< highlight >}}Picture Format tab{{< /highlight >}} → {{< highlight >}}Compress Pictures{{< /highlight >}} → {{< highlight >}}On-screen (150 ppi){{< /highlight >}}. Select the option, `All pictures in this file.`" >}}{{< /checkbox >}} 
+{{< checkbox item="Run the [accessibility checker in PowerPoint](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) _before_ submitting slides; remediate all errors and warnings, including reading order. Reach out to [your agency's 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/) if you need any help." >}}{{< /checkbox >}} 
 {{< checkbox item="Meet accessibility requirements, including:" >}}
 {{< checkbox-sublist-item sublist-item="Use large text" >}} 
 {{< checkbox-sublist-item sublist-item="Use typefaces (fonts) that are easy to read like Source Sans Pro or Merriweather." >}} 
@@ -77,7 +77,7 @@ This checklist is for people preparing to present at a Digital.gov event. You ma
 {{< checkbox item="Dress professionally (business casual)." >}}{{< /checkbox >}} 
 {{< checkbox item="Speak slowly and clearly." >}}{{< /checkbox >}} 
 {{< checkbox item="Keep your camera on. This allows people to see you, including those who lip read." >}}{{< /checkbox >}} 
-{{< checkbox item="Announce the slide number instead of saying "Next slide."" >}}{{< /checkbox >}} 
+{{< checkbox item="Announce the slide number instead of saying &#34;Next slide.&#34;" >}}{{< /checkbox >}} 
 {{< checkbox item="To meet [Section 508](https://www.section508.gov/manage/laws-and-policies) requirements for accessibility, provide “audio descriptions” as follows:" >}} 
 {{< checkbox-sublist-item sublist-item="Say your name each time you begin to speak, or announce the new speaker when there is a speaker change" >}} 
 {{< checkbox-sublist-item sublist-item="Describe all images on the slides" >}} 
