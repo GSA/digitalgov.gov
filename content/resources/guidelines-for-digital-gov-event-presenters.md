@@ -77,7 +77,7 @@ This checklist is for people preparing to present at a Digital.gov event. You ma
 {{< checkbox item="Dress professionally (business casual)." >}}{{< /checkbox >}} 
 {{< checkbox item="Speak slowly and clearly." >}}{{< /checkbox >}} 
 {{< checkbox item="Keep your camera on. This allows people to see you, including those who lip read." >}}{{< /checkbox >}} 
-{{< checkbox item="Announce the slide number instead of saying "Next slide."" >}}{{< /checkbox >}} 
+{{< checkbox item="Announce the slide number instead of saying &#34;Next slide.&#34;" >}}{{< /checkbox >}} 
 {{< checkbox item="To meet [Section 508](https://www.section508.gov/manage/laws-and-policies) requirements for accessibility, provide “audio descriptions” as follows:" >}} 
 {{< checkbox-sublist-item sublist-item="Say your name each time you begin to speak, or announce the new speaker when there is a speaker change" >}} 
 {{< checkbox-sublist-item sublist-item="Describe all images on the slides" >}} 
