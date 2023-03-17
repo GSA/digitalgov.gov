@@ -32,7 +32,7 @@ This checklist is for people preparing to present at a Digital.gov event. You ma
 {{< checkbox item="Make your points relevant to federal employees, the primary audience for our events." >}} {{< /checkbox >}}
 {{< checkbox item="Follow [Digital.gov Community Guidelines](https://digital.gov/communities/manage-your-subscription/). Don’t express your political or religious views or use inappropriate language." >}} {{< /checkbox >}} 
 {{< checkbox item="Use plain language in both your slides and speech." >}} {{< /checkbox >}}
-{{< checkbox item="Follow the &#34;less is more&#34; principle. Use fewer slides, fewer images, and less text." >}} {{< /checkbox >}}
+{{< checkbox item="Follow the "less is more" principle. Use fewer slides, fewer images, and less text." >}} {{< /checkbox >}}
 {{< checkbox item="Expect some re-work after submitting slides. Be available to make edits." >}} {{< /checkbox >}}
 
 {{< /checklist >}}
