@@ -34,6 +34,5 @@ Basic description of work done.
 - [ ] run prettier?
 
 ### github
-
 - [ ] review files tab
 - [ ] assign to self, request review
