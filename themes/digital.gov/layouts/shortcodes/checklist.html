@@ -1,0 +1,31 @@
+{{/* 
+  
+  Sample code for creating a checklist with a list of checkbox items
+ 
+  1. Use the {{ < checklist >}} shortcode when you want to have a printable checklist
+  2. Use an H2 (**) before the {{ < checklist >}}, the {{ < checklist >}} will generate a top gray border 
+  3. Nest {{< checkbox >}} shortcodes within the {{< checklist >}} to create a list of checkbox items
+  4. Use {{< checkbox-sublist-item sublist-item="sublist bullet point">}} will create a bullet point sublist item
+  5. Follow the same nesting structure as below, don't indent {{< checkbox-sublist-item >}} in the {{< checkbox >}} shortcode, else it will break
+
+  ## Header goes here
+  {{< checklist header="Preparing your presentation" >}}
+
+    {{< checkbox item="Item number 1 goes here" >}}
+    {{< checkbox-sublist-item sublist-item="detail one" >}}
+    {{< checkbox-sublist-item sublist-item="detail two" >}} 
+    {{< /checkbox >}}
+
+    {{< checkbox item="Item number 2 goes here, with supporting lines that wrap to the next if this is long enough" >}}  {{< /checkbox >}}
+    {{< checkbox item="Item number 3 goes here" >}}{{< /checkbox >}}
+  
+  {{< /checklist >}} 
+  
+*/}}
+
+
+{{- if .Inner -}}
+<ul class="dg-checklist">
+  {{- .Inner | markdownify -}}
+</ul>
+{{- end -}}
