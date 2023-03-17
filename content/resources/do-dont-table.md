@@ -11,7 +11,7 @@ authors:
 ---
 
 {{< do-dont-table caption="This is a table" >}}
-  {{< do-dont-row do="do this today." dont="don't do this today." >}}
+  {{< do-dont-row do="do this today. [Multilingual](https://digital.gov/communities/multilingual/)." dont="don't do this today." >}}
   {{< do-dont-row do="open the door for those who need a hand" dont="use inappropriate language in the chats" >}}
   {{< do-dont-row do="read the directions before using" dont="forget to wash your hands for 20 seconds" >}}
 {{< /do-dont-table >}}
