@@ -2,14 +2,30 @@
 slug: presenters-checklist
 date: 2019-07-10 4:00:00 -0500
 title: Presenters Checklist
-deck: "Stay connected with the innovative work, news, events and ideas from people and teams across government"
-summary: "Stay connected with the innovative work, news, events and ideas from people and teams across government"
-featured_image:
-  uid: subscribe-card-1
+deck: "Deck line"
+summary: "A checklist of requirements for people who are presenting at a Digital.gov event."
+
+authors:
+  - bonnie-cameron
+
+topics:
+  - presentations
+  - user-experience
+  - accessibility
+  - deia
+
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted resource
+# 3 -- homepage
+weight: 2
+
+primary_image: "call-for-participation-2023-government-ux-summit"
+
 ---
 
-
-# Presenter Checklist
+This checklist is for people preparing to present at a Digital.gov event. You may find these guidelines helpful when presenting at other meetings and events, too.
 
 ## Preparing your presentation
 
@@ -25,7 +41,6 @@ featured_image:
   
 {{< /checklist >}}
 
-
 ## Preparing your slides
 
 {{< checklist >}}
@@ -39,6 +54,5 @@ featured_image:
   {{< checkbox-sublist-item sublist-item="detail one" >}}
   {{< checkbox-sublist-item sublist-item="detail two" >}} 
   {{< /checkbox >}}
-
   
 {{< /checklist >}}
