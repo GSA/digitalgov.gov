@@ -41,7 +41,7 @@ This checklist is for people preparing to present at a Digital.gov event. You ma
 
 {{< checklist >}}
 
-{{< checkbox item="Submit slides 5 days before event to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). Copy the event hosts." >}}{{< /checkbox >}}
+{{< checkbox item="Submit slides 5 days before the event to <a href="mailto:digitalgov@gsa.gov?subject=event%20Presentation%20Slides">digitalgov@gsa.gov</a>. Copy the event hosts." >}}{{< /checkbox >}}
 
 {{< checkbox item="Submit slides in PowerPoint format." >}}{{< /checkbox >}} 
 {{< checkbox item="Keep the file size under 25 MB." >}}{{< /checkbox >}} 
