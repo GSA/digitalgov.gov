@@ -41,9 +41,9 @@ This checklist is for people preparing to present at a Digital.gov event. You ma
 
 {{< checklist >}}
 
-{{< checkbox item="Submit slides 5 days before the event to <a href="mailto:digitalgov@gsa.gov?subject=event%20Presentation%20Slides">digitalgov@gsa.gov</a>. Copy the event hosts." >}}{{< /checkbox >}}
+{{< checkbox item="Submit slides 5 days before event to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). Copy the event hosts." >}}{{< /checkbox >}}
 
-{{< checkbox item="Submit slides in PowerPoint format." >}}{{< /checkbox >}} 
+{{< checkbox item="Submit slides in **PowerPoint** format." >}}{{< /checkbox >}} 
 {{< checkbox item="Keep the file size under 25 MB." >}}{{< /checkbox >}} 
 {{< checkbox item="Optimize images by selecting an image, clicking on {{< highlight >}}Picture Format tab{{< /highlight >}} → {{< highlight >}}Compress Pictures{{< /highlight >}} → {{< highlight >}}On-screen (150 ppi){{< /highlight >}}. Select the option, `All pictures in this file.`" >}}{{< /checkbox >}} 
 {{< checkbox item="Run the [accessibility checker in PowerPoint](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) _before_ submitting slides; remediate all errors and warnings, including reading order. Reach out to [your agency's 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/) if you need any help." >}}{{< /checkbox >}} 
