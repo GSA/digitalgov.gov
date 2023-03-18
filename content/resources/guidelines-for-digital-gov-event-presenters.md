@@ -12,13 +12,15 @@ topics:
   - video
 # See all authors at https://digital.gov/authors
 authors:
-  - adam-wong
+  - bonnie-cameron
 slug: guidelines-for-digital-gov-event-presenters
-primary_image: checklist-topics
+primary_image: "completed-checklist-tasks-bullseye-calendar-icon-paperfox-gettyimages-1468937260"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
+# 3 -- homepage
 weight: 2
 
 ---
