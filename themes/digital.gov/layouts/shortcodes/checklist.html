@@ -5,21 +5,28 @@
   1. Use the {{ < checklist >}} shortcode when you want to have a printable checklist
   2. Use an H2 (**) before the {{ < checklist >}}, the {{ < checklist >}} will generate a top gray border 
   3. Nest {{< checkbox >}} shortcodes within the {{< checklist >}} to create a list of checkbox items
-  4. Use {{< checkbox-sublist-item sublist-item="sublist bullet point">}} will create a bullet point sublist item
-  5. Follow the same nesting structure as below, don't indent {{< checkbox-sublist-item >}} in the {{< checkbox >}} shortcode, else it will break
+  4. Use {{< checkbox-sublist-item >}} will create a bullet point sublist item
+  5. Follow the same nesting structure as below, don't indent {{< checkbox-sublist-item >}} in the {{< checkbox-sublist >}} shortcode, else it will break
 
   ## Header goes here
-  {{< checklist header="Preparing your presentation" >}}
+  {{< checklist >}} 
 
-    {{< checkbox item="Item number 1 goes here" >}}
-    {{< checkbox-sublist-item sublist-item="detail one" >}}
-    {{< checkbox-sublist-item sublist-item="detail two" >}} 
-    {{< /checkbox >}}
+    {{< checkbox >}}Dress professionally (business casual).{{< /checkbox >}} 
+    {{< checkbox >}}Speak slowly and clearly.{{< /checkbox >}} 
+    {{< checkbox >}}Keep your camera on. This allows people to see you, including those who lip read.{{< /checkbox >}} 
+    {{< checkbox >}}Announce the slide number instead of saying &#34;Next slide.&#34;"{{< /checkbox >}} 
+    {{< checkbox >}}To meet [Section 508](https://www.section508.gov/manage/laws-and-policies) requirements for accessibility, provide “audio descriptions” as follows:" {{< /checkbox >}}
 
-    {{< checkbox item="Item number 2 goes here, with supporting lines that wrap to the next if this is long enough" >}}  {{< /checkbox >}}
-    {{< checkbox item="Item number 3 goes here" >}}{{< /checkbox >}}
-  
-  {{< /checklist >}} 
+    {{< checklist-sublist >}}
+    {{< checkbox-sublist-item >}} Use large text. {{< /checkbox-sublist-item >}}
+    {{< checkbox-sublist-item >}}Say your name each time you begin to speak, or announce the new speaker when there is a speaker change{{< /checkbox-sublist-item >}}
+    {{< checkbox-sublist-item >}}Describe all images on the slides{{< /checkbox-sublist-item >}}
+    {{< checkbox-sublist-item >}}Speak to the text on the slides including any links referenced on the slides{{< /checkbox-sublist-item >}} 
+    {{< checkbox-sublist-item >}}Describe the information that is important for understanding the content{{< /checkbox-sublist-item >}} 
+    {{< checkbox-sublist-item >}}Try not to read your slides word-for-word{{< /checkbox-sublist-item >}}
+    {{< /checklist-sublist >}}
+
+  {{< /checklist >}}
   
 */}}
 

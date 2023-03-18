@@ -21,8 +21,11 @@
       @include u-width(2);
       @include u-height(2);
     }
+  }
 
-    &-sublist-item {
+  &__sublist {
+
+    &-item {
       list-style-type: disc !important;
     }
   }
