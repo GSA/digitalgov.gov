@@ -42,7 +42,7 @@ This checklist is for people preparing to present at a Digital.gov event. You ma
 {{< checklist >}}
 
   {{< checkbox >}}Submit slides 5 days before the event to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). Copy the event hosts.{{< /checkbox >}} 
-  {{< checkbox >}}Submit slides in **PowerPoint** file format (`.pptx`).{{< /checkbox >}} 
+  {{< checkbox >}}Submit slides in **PowerPoint** file format (.pptx).{{< /checkbox >}} 
   {{< checkbox >}}Keep the file size under 25 MB.{{< /checkbox >}} 
   {{< checkbox >}}To optimize images, select an image, then click {{< highlight >}}File{{< /highlight >}} from the main menu. From the list of options, click on {{< highlight >}}Compress Pictures{{< /highlight >}}. In the pop-up dialog box, select {{< highlight >}}On-screen (150 ppi){{< /highlight >}} in the drop-down list for `Picture Quality`, and make sure {{< highlight >}}All pictures in this file.{{< /highlight >}} is selected for `Apply to`.{{< /checkbox >}} 
   {{< checkbox >}}Run the [accessibility checker in PowerPoint](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) _before_ submitting slides to Digital.gov; remediate all errors and warnings, including "reading order." Reach out to [your agency's 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/) if you need any help.{{< /checkbox >}} 
