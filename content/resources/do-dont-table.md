@@ -19,7 +19,6 @@ authors:
 
   {{< do-row >}} read `the directions` before using {{< /do-row >}}
   {{< dont-row >}}forget {{< highlight >}}to wash your hands{{< /highlight >}} for 20 seconds{{< /dont-row >}}
-
 {{< /do-dont-table >}}
 
 
