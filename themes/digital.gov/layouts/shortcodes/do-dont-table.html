@@ -6,7 +6,8 @@ When setting up a **do-dont-table**, you need to make sure you have the correct 
 2. It is best practice to provide a caption which describes the table contents, should be provided.
 3. {{ do-row }} & {{ dont-row }} short codes need to be paired or else the row will not render
 4. Place text, markdown and shortcodes between the {{ do-row }} & {{ dont-row }} short codes
-5. Make sure to close them with {{< /do-row >}} & {{< /dont-row >}}
+5. Use markdown []() link syntax over {{< link >}} & {{< ref >}} shortcodes, they will not render within the row shortcodes
+6. Make sure to close them with {{< /do-row >}} & {{< /dont-row >}}
 
 {{< do-dont-table caption="This is a table" >}}
   {{< do-row >}} [Multilingual](https://digital.gov/communities/multilingual/) {{< /do-row >}}
