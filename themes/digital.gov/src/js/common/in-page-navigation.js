@@ -4,8 +4,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const inPageNavHeader = document.querySelector(".usa-in-page-nav__heading");
   const navItems = document.querySelectorAll("li.usa-in-page-nav__item:not(.usa-in-page-nav__item--sub-item)");
 
-  console.log(`length: ${navItems.length}`);
-
   if (navItems.length < 3) {
     inPageNav.style.display = "none";
     return;
