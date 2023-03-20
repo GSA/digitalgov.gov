@@ -1,0 +1,6 @@
+{{- if .Inner -}}
+<tr scope="row">
+  <td data-label="Do">
+    {{- .Inner | markdownify -}}
+  </td>
+{{- end -}}
