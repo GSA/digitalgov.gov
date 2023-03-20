@@ -1,6 +1,6 @@
 ---
 date: 2020-07-28 09:00:00 -0500
-title: "Understand the Data"
+title: "Data Dictionary"
 deck: ""
 summary: ""
 guide: site-scanning
@@ -14,7 +14,7 @@ The Site Scanning engine runs against the [full list of federal goverment websit
 
 The scans operate without authentication over the public internet. Using a headless browser (a browser without a graphical interface), they load each Target URL and inspect what would normally be returned to a user who is visiting that page with a web browser.  The results of these inspections form the data that Site Scanning makes available. 
 
-The scans currently collect the following data about each target URL.  A complete data dictionary with much more detail can be found [in the documentation repository](https://github.com/GSA/site-scanning-documentation/blob/main/data/Site_Scanning_Data_Dictionary.csv).
+The scans currently collect the following data about each target URL.  A [complete data dictionary with much more detail](https://github.com/GSA/site-scanning-documentation/blob/main/data/Site_Scanning_Data_Dictionary.csv) can be found in the program's [documentation hub](https://github.com/GSA/site-scanning-documentation).
 
 
 | General  |  USWDS | DAP  | SEO  | Third Party Services  |
@@ -24,7 +24,8 @@ The scans currently collect the following data about each target URL.  A complet
 | Domain  |  Degree of Implementation |   |  Elements of the Robots.txt |   |
 |  Agency |   |   | Presence of Sitemap.xml  |   |
 | Bureau  |   |   | Elements of Sitemap.xml  |   |
-|  404 Configuration |   |   |   |   |
+|  404 Configuration |   |   |  Canonical URL |   |
 |  IPv6 Compliance |   |   |   |   |
-  
+|  Underlying Technology |   |   |   |   |
+
 _Have ideas for what else we should be scanning for? Please [file an issue](https://github.com/gsa/site-scanning/issues) or add your idea [to the list of proposed future scans](https://github.com/GSA/site-scanning-documentation/blob/main/pages/candidate-scans.md)!_

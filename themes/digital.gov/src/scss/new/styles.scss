@@ -92,6 +92,7 @@
 @forward 'layout';
 @forward 'gov-banner';
 @forward 'paper';
+@forward '404';
 
 @forward 'header';
 @forward 'navigation';
@@ -173,8 +174,12 @@
 // Edit Tools
 @forward 'edit-this';
 
+// Print styles
+@forward 'print';
+
 @forward 'shortcodes/accordion';
 @forward 'shortcodes/box';
+@forward 'shortcodes/checklist';
 @forward 'shortcodes/note';
 @forward 'shortcodes/highlight';
 @forward 'shortcodes/card-policy';

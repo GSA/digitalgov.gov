@@ -4,10 +4,12 @@
 
 slug: it-accessibility-section-508
 date: 2018-10-05 13:00:00 -0500
-title: "IT Accessibility and Section 508"
+title: "Section 508 IT Accessibility"
 deck: ""
-summary: "We support people who are working to improve accessibility of information technology."
+summary: "To support people working to enhance access to federal information technology (IT), we identify and promote best practices for compliance with Section 508 law, and conformance to the Revised 508 Standards."
+
 redirectto: https://www.section508.gov/manage/join-the-508-community/
+
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/accessibility/
