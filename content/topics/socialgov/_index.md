@@ -5,10 +5,10 @@
 slug: "socialgov"
 
 # Topic Title
-title: "Socialgov"
+title: "SocialGov"
 
 # description — keep it short and clear
-summary: ""
+summary: "SocialGov is the Social Media Community of Practice."
 
 
 # Weight
