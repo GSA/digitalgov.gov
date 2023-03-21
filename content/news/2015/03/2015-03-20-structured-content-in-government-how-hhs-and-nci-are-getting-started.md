@@ -16,7 +16,6 @@ topics:
   - mobile-ux-guideline-1
   - national-cancer-institute
   - open-and-structured-content-models
-  - united-states-department-of-health-and-human-services
 
 ---
 
