@@ -21,7 +21,7 @@ topics:
 
 Data and code are the foundation, building blocks, and cornerstone of government digital services. They are the keys that open the door to a better digital government future and are [fundamental in making government more open](http://www.whitehouse.gov/open). No matter who you are or where you work in the federal space, data and code enable your projects to meet real needs.
 
-{{< legacy-img src="2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}}
+{{< legacy-img src="2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="Vicente Barcelo Varona, Hemera, Thinkstock" >}}
 
 This month we’re featuring articles around the theme of data and code. Here&#8217;s a sneak peek of what we have lined up:
 
