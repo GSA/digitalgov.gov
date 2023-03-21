@@ -5,6 +5,9 @@ Closes [#issue_no] or [trello_card_title].
 ## Preview
 [Link to Preview]()
 
+<!--
+⚠️ Significant visual changes require submitting previous design to wayback machine.
+-->
 
 ## Solution
 
