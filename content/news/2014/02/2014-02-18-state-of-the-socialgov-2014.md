@@ -8,18 +8,14 @@ authors:
 topics:
   - product-management
   - social-media
-  - american-red-cross
-  - digitalgov-university
-  - peace-corps
   - recaps
   - socialgov
-  - usaid
-  - world-bank
+
 ---
 
-{{< legacy-img src="2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada." caption="" >}} 
-
 If the silos and barriers that separated our programs are smashed, what could we do to realize the full potential of innovation in public service?
+
+{{< legacy-img src="2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland, and Canada." caption="" >}}
 
 Whether you’re a citizen who needs better access to services, an entrepreneur looking to spark innovation in the marketplace, or a public servant who wants to get your mission done more effectively and efficiently &#8212; there have never been more opportunities to achieve these through social media in government.
 
@@ -59,4 +55,4 @@ You can start by <a href="http://www.eventbrite.com/e/socialgov-summit-global-re
 
 Please enjoy the State of the SocialGov 2014:
 
-[youtube https://www.youtube.com/watch?v=mmpG94tDtWQ?list=UU5V8jrK77-8gsa9RL_taG9A]
+{{< youtube mmpG94tDtWQ?list=UU5V8jrK77-8gsa9RL_taG9A >}}
