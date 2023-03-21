@@ -1,8 +1,9 @@
 # Summary
-Basic description of work done.
-Closes [#issue_no] or [trello_card_title].
+
+Basic description of work done. Closes [#issue_no] or [trello_card_title].
 
 ## Preview
+
 [Link to Preview]()
 
 <!--
@@ -11,8 +12,8 @@ Closes [#issue_no] or [trello_card_title].
 
 ## Solution
 
-
 ## How To Test
+
 1. First Step
 2. Second Step
 3. Third Step
