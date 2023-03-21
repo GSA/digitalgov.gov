@@ -55,4 +55,4 @@ You can start by <a href="http://www.eventbrite.com/e/socialgov-summit-global-re
 
 Please enjoy the State of the SocialGov 2014:
 
-{{< youtube mmpG94tDtWQ?list=UU5V8jrK77-8gsa9RL_taG9A >}}
+{{< youtube mmpG94tDtWQ >}}
