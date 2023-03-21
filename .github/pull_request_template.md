@@ -17,6 +17,7 @@ Closes [#issue_no] or [trello_card_title].
 ---
 
 ## Dev Checklist
-- [ ] **a11y**: (voice over testing, meets WCAG, run axe tools)
-- [ ] **code**: (validate html, semantic tags, logical hierarchy, bem naming, formatted code)
-- [ ] **github**: (review files tab, assign to self, request review)
+
+- [ ] PR has correct labels
+- [ ] A11y testing (voice over testing, meets WCAG, run axe tools)
+- [ ] Code is formatted properly
