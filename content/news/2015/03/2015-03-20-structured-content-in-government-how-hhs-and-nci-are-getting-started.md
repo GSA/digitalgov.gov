@@ -21,7 +21,7 @@ topics:
 
 Metadata, tagging, content modeling … they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed.
 
-{{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}}
+{{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="hoodesigns, iStock, Thinkstock" >}}
 
 If you’re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall [content strategy]({{< ref "/topics/content-strategy" >}}). In practice, however, a lot depends on your agency’s culture, its technical resources, its existing practices, and the state of your content.
 
