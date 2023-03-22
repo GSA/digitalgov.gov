@@ -5,7 +5,7 @@
 slug: "socialgov-community"
 
 # Topic Title
-title: "Social Media (SocialGov) Community"
+title: "SocialGov Social Media Community of Practice"
 
 # description — keep it short and clear
 summary: ""
