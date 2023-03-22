@@ -57,7 +57,7 @@ So based on the four benchmark areas, we’ve pulled together a number of resour
 
 When the report looked at page load speed, it took desktop and mobile page speed into account. Of the reviewed sites, only 36% passed the speed test for mobile devices. Websites often failed this test because they failed to implement many of the common optimization techniques, the study found.
 
-Performance/load time for Web pages has become so important that [Google now considers it]({{< ref "2016-03-29-google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may.md" >}}) one of three equal components to good user experience, along with design and functionality, he noted.
+Performance (load time) for Web pages has become so important that [Google now considers it]({{< ref "2016-03-29-google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may.md" >}}) one of three equal components to good user experience, along with design and functionality, he noted.
 
 If you are looking to improve your performance, or just get a sense for how well your site is doing, [start with this article on Why Speed Matters]({{< ref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}). It explains which metrics you should be measuring for and there is a [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) video course, [Speed Matters: Web Design Performance Load Time](https://www.youtube.com/watch?v=sDTgYySlvEI) (duration: 45 minutes), that details a number of free or low-cost testing tools for measuring performance.
 
