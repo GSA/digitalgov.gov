@@ -2,9 +2,10 @@
 slug: webinar-recap-snaps-and-stripes-sharing-public-service-stories-with-snapchat
 date: 2016-09-27 11:00:50 -0400
 title: 'Webinar Recap: Snaps and Stripes—Sharing Public Service Stories with Snapchat'
-summary: What does Snapchat, the disappearing message-and-video platform most used by teenagers, have to do with government outreach and communications programs? Well, Snapchat has quickly become an incredibly effective digital storytelling medium, and content creators across multiple government agencies have adopted it as an important part of their programs. A recent New York Times article described
+summary: 'What does Snapchat, the disappearing message-and-video platform most used by teenagers, have to do with government outreach and communications programs?'
 authors:
   - lisa-bari
+
 topics:
   - accessibility
   - content
@@ -18,27 +19,18 @@ topics:
   - content
   - content-strategy
   - cx
-  - cx
-  - digitalgov-university
-  - digitalgov-university
-  - gsa
-  - nasa
-  - National Museum of African American History and Culture
-  - NMAAHC
-  - peace-corps
   - recaps
   - section-508
-  - smithsonian-institution
   - social-media
-  - us-general-services-administration
   - usagov
   - user-experience
   - video
+
 ---
 
 What does Snapchat, the disappearing message-and-video platform most used by teenagers, have to do with government outreach and communications programs? Well, Snapchat has quickly become an incredibly effective digital storytelling medium, and content creators across multiple government agencies have adopted it as an important part of their programs.
 
-A recent [New York Times article](http://www.nytimes.com/2016/09/26/business/snapchat-known-for-ephemera-proves-its-staying-power-with-videos.html?_r=0) described how nearly 35 million users in the United States watched highlights and stories from the Summer Olympics on Snapchat. Furthermore, it allowed individual athletes to broadcast their unique and personal experiences at the Games. Perhaps most importantly, Snapchat is one of the best ways to reach young people—it reaches a reported 41% of Americans aged 18-34. In comparison, the average TV network only reaches 6% of the same demographic. If you want to engage with Millennials, Snapchat is the social media channel for you.
+A recent [New York Times article](http://www.nytimes.com/2016/09/26/business/snapchat-known-for-ephemera-proves-its-staying-power-with-videos.html) described how nearly 35 million users in the United States watched highlights and stories from the Summer Olympics on Snapchat. Furthermore, it allowed individual athletes to broadcast their unique and personal experiences at the Games. Perhaps most importantly, Snapchat is one of the best ways to reach young people—it reaches a reported 41% of Americans aged 18-34. In comparison, the average TV network only reaches 6% of the same demographic. If you want to engage with Millennials, Snapchat is the social media channel for you.
 
 Last week, [Edgardo Morales]({{< ref "/authors/edgardo-morales" >}}), Outreach and Marketing Specialist at USA.Gov, and Emily Furfaro, Social Media Specialist at NASA, joined [Justin Herman]({{< ref "/authors/jherman" >}}), Manager of Government-wide Social Media and Digital Engagement Programs at the General Services Administration (GSA) for a [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar, [Snaps and Stripes: Sharing Public Service Stories with Snapchat](https://www.youtube.com/watch?v=G82jBHxE4Tk). Edgardo and Emily talked about their agencies’ work using Snapchat to engage and communicate with the public.
 
