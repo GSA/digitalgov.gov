@@ -1,8 +1,8 @@
-# Summary
+## Summary
 
 Basic description of work done. Closes [#issue_no] or [trello_card_title].
 
-## Preview
+### Preview
 
 [Link to Preview]()
 
@@ -10,9 +10,9 @@ Basic description of work done. Closes [#issue_no] or [trello_card_title].
 ⚠️ Significant visual changes require submitting previous design to wayback machine.
 -->
 
-## Solution
+### Solution
 
-## How To Test
+### How To Test
 
 1. First Step
 2. Second Step
@@ -20,7 +20,7 @@ Basic description of work done. Closes [#issue_no] or [trello_card_title].
 
 ---
 
-## Dev Checklist
+### Dev Checklist
 
 - [ ] PR has correct labels
 - [ ] A11y testing (voice over testing, meets WCAG, run axe tools)
