@@ -2,7 +2,7 @@
 slug: innovation-means-more-better-cost-effective-digital-training
 date: 2014-01-28 3:02:41 -0400
 title: Innovation Means More, Better, Cost Effective Digital Training
-summary: A recent FedTech Magazine article asked,
+summary: SocialGov Summits bring together agencies from across government to share and learn how we can improve digital services to make services more effective and cost efficient.
 authors:
   - jherman
 topics:
@@ -14,7 +14,7 @@ topics:
 
 A recent **FedTech Magazine** article asked, &#8220;[When There Are No Barriers to Technology, How Can the Government Innovate?](http://www.fedtechmagazine.com/article/2014/01/when-there-are-no-barriers-technology-how-can-government-innovate)&#8221; We thought we'd take up the challenge and let you know how government uses innovations from digital communities to grow a social media education and training program that provides more opportunities than ever for agencies to share, learn and measurably improve our programs for citizens.
 
-{{< legacy-img-right src="2014/06/250-x-180-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada. Photos by Laura McHugh." >}}
+{{< legacy-img src="2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada. caption="Photos by Laura McHugh." >}}
 
 And by more we mean almost four times more with the same resources.
 
@@ -22,7 +22,7 @@ Many of you may already know [**DigitalGov University**]({{< ref "/about/digital
 
 Did you hear somewhere, though, that social media training opportunities for public servants is lacking? Let's show you how government is changing all that through innovation.
 
-{{< legacy-img-right src="2014/02/All-Services-picture-250x187.jpg" alt="Bridget Serchak, DoD Inspector General office, Adam Connor, Facebook, Brittany Brown, U.S. Army, Jana Baldwin, Ready.gov at the All Services Social Media Conference. Courtesy image. " >}}
+{{< legacy-img src="2013/12/best-month-Dec-2.jpg" alt="Bridget Serchak, DoD Inspector General office, Adam Connor, Facebook, Brittany Brown, U.S. Army, and Jana Baldwin, Ready.gov at the All Services Social Media Conference. Courtesy image." >}}
 
 Through the #**SocialGov Community**, more than 500 digital engagement program managers, directors and practitioners from more than 130 federal agencies are collaborating, sharing and improving knowledge management.
 
@@ -36,7 +36,7 @@ These programs are critical to many agencies, as often today the first line of e
 
 Here's how in 2014 agencies will rise to the challenge. Thanks to contributions of agencies across government and specialists across the private sector, contributions made possible by advancements in the technology and strategies we use, starting in February we aim to:
 
-{{< legacy-img-right src="2014/02/ViralGov-Summit-image-250x250.jpg" alt="Social media leaders from across government gathered for the SocialGov Summit on Viral Government July 30 at the Federal Energy Regulatory Commission. Courtesy image. " >}}
+{{< legacy-img src="2013/08/Viral.jpg" alt="Social media leaders from across government gathered for the SocialGov Summit on Viral Government July 30 at the Federal Energy Regulatory Commission. Courtesy image. " >}}
 
   * Hold more than **40 free online social media training webinars** for any government employee, held on Wednesday each week. This is approximately **400%** the social media webinars available in 2012, and almost **200%** from 2013.
   * Hold **more than a dozen free social media summits and workshops** for any government employee, approximately once a month throughout the year. This is **200%** the summits and workshops available in 2013.
@@ -53,7 +53,7 @@ What can this model mean for education and knowledge management programs across 
 
 To get things started, next week we'll announce the next free **#SocialGov Summit on International Programs**, featuring the **State Department, USAID, Peace Corps, World Bank, Red Cross, Department of Defense** and agencies across government &#8212; a world class lineup to discuss a world-wide mission. This Thursday, Katie Harbath from **Facebook** joins us via webinar to teach how agencies can combine digital and in-person engagement with Instameets.
 
-{{< legacy-img-right src="2014/02/social-gov-summit-250x186.jpeg" alt="SocialGov Summits bring together agencies from across government to share and learn how we can improve digital services to make services more effective and cost efficient. Image courtesy of GSA." caption="" >}}
+{{< legacy-img src="2014/02/social-gov-summit.jpeg" alt="Five panelists are seated on stage during the summit." caption="Image courtesy of GSA." >}}
 
 If you are a federal innovator, platform that has federal terms of service, or a specialist with an idea to share, we invite you to email <justin.herman@gsa.gov> to discuss participating in a DigitalGov University webinar. Training and education is a top priority for us in 2014, and thanks to technology and innovators lowering barriers and smashing silos, we can achieve this mission for citizens better than ever.
 
