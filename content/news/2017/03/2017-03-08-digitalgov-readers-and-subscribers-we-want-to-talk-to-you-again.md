@@ -12,8 +12,7 @@ topics:
   - user-testing-and-research
   - content
   - cx
-  - 'Office of Products and Programs'
-  - OPP
+  - office-of-products-and-programs
   - research
   - user-experience
   
