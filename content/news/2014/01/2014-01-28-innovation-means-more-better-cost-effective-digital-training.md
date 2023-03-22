@@ -1,8 +1,8 @@
 ---
 slug: innovation-means-more-better-cost-effective-digital-training
 date: 2014-01-28 3:02:41 -0400
-title: Innovation Means More, Better, Cost Effective Digital Training
-summary: SocialGov Summits bring together agencies from across government to share and learn how we can improve digital services to make services more effective and cost efficient.
+title: "Innovation Means More, Better, Cost Effective Digital Training"
+summary: "SocialGov Summits bring together agencies from across government to share and learn how we can improve digital services to make services more effective and cost efficient."
 authors:
   - jherman
 topics:
@@ -12,9 +12,9 @@ topics:
 
 ---
 
-A recent **FedTech Magazine** article asked, &#8220;[When There Are No Barriers to Technology, How Can the Government Innovate?](http://www.fedtechmagazine.com/article/2014/01/when-there-are-no-barriers-technology-how-can-government-innovate)&#8221; We thought we'd take up the challenge and let you know how government uses innovations from digital communities to grow a social media education and training program that provides more opportunities than ever for agencies to share, learn and measurably improve our programs for citizens.
+A recent **FedTech Magazine** article asked, [When There Are No Barriers to Technology, How Can the Government Innovate?](http://www.fedtechmagazine.com/article/2014/01/when-there-are-no-barriers-technology-how-can-government-innovate), we thought we'd take up the challenge and let you know how government uses innovations from digital communities to grow a social media education and training program that provides more opportunities than ever for agencies to share, learn and measurably improve our programs for citizens.
 
-{{< legacy-img src="2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada. caption="Photos by Laura McHugh." >}}
+{{< legacy-img src="2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic, GSA's Justin Herman, FAA's Karen Snyder, FAFSA's Nicole Callahan, State's Corina DuBois, Education's Cameron Brenchley, CFPB's Deepa Kunapuli, and livestreamed guests from Australia, Ireland, and Canada." caption="Photos by Laura McHugh." >}}
 
 And by more we mean almost four times more with the same resources.
 
@@ -36,7 +36,7 @@ These programs are critical to many agencies, as often today the first line of e
 
 Here's how in 2014 agencies will rise to the challenge. Thanks to contributions of agencies across government and specialists across the private sector, contributions made possible by advancements in the technology and strategies we use, starting in February we aim to:
 
-{{< legacy-img src="2013/08/Viral.jpg" alt="Social media leaders from across government gathered for the SocialGov Summit on Viral Government July 30 at the Federal Energy Regulatory Commission. Courtesy image. " >}}
+{{< legacy-img src="2013/08/Viral.jpg" alt="Social media leaders from across government gathered for the SocialGov Summit on Viral Government July 30 at the Federal Energy Regulatory Commission. Courtesy image." >}}
 
   * Hold more than **40 free online social media training webinars** for any government employee, held on Wednesday each week. This is approximately **400%** the social media webinars available in 2012, and almost **200%** from 2013.
   * Hold **more than a dozen free social media summits and workshops** for any government employee, approximately once a month throughout the year. This is **200%** the summits and workshops available in 2013.
