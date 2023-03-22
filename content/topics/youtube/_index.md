@@ -5,7 +5,7 @@
 slug: "youtube"
 
 # Topic Title
-title: "Youtube"
+title: "YouTube"
 
 # description — keep it short and clear
 summary: ""
