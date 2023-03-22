@@ -9,7 +9,6 @@ topics:
   - our-work
   - challenges-and-prize-competitions
   - cx
-  - digitalgov-university
   - ecpic
   - mobile-gov
   - open-opportunities-program
