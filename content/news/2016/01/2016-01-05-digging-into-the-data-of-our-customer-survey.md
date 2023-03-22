@@ -36,25 +36,25 @@ For 2015, OCSIT programs ranked “Good,” with an overall GCXi score of 78. No
     <td align="center" bgcolor="#fff2cc"><strong>2013</strong></td>
   </tr>
   <tr>
-    <td>Satisfaction</td>
+    <td><strong>Satisfaction</strong></td>
     <td align="center">79</td>
     <td align="center">85</td>
     <td align="center">87</td>
   </tr>
   <tr>
-    <td>Ease of Use (EoU)</td>
+    <td><strong>Ease of Use (EoU)</strong></td>
     <td align="center">69</td>
     <td align="center">N/A</td>
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td>Likelihood to Return</td>
+    <td><strong>Likelihood to Return</strong></td>
     <td align="center">86</td>
     <td align="center">89</td>
     <td align="center">82</td>
   </tr>
   <tr>
-    <td>Likelihood to Recommend</td>
+    <td><strong>Likelihood to Recommend</strong></td>
     <td align="center">77</td>
     <td align="center">84</td>
     <td align="center">89</td>
@@ -68,8 +68,8 @@ For 2015, OCSIT programs ranked “Good,” with an overall GCXi score of 78. No
   <tr>
     <td align="right"><em>Overall Index Score (Excluding EoU)</em></td>
     <td align="center">81</td>
-    <td align="center"> </td>
-    <td align="center"> </td>
+    <td align="center">N/A</td>
+    <td align="center">N/A</td>
   </tr>
   <tr>
     <td style="padding-left: 30px" colspan="4">*Ease of Use (EoU) metric was added in 2015</td>
@@ -92,7 +92,7 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
     <td align="center" bgcolor="#d9ead3" width="17%"><strong>Industry (Forrester)</strong></td>
   </tr>
   <tr>
-    <td>Very Good (85+)</td>
+    <td><strong>Very Good (85+)</strong></td>
     <td align="center">7</td>
     <td align="center">8</td>
     <td align="center">6</td>
@@ -100,7 +100,7 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
     <td align="center">1%</td>
   </tr>
   <tr>
-    <td>Good (75-84)</td>
+    <td><strong>Good (75-84)</strong></td>
     <td align="center">3</td>
     <td align="center">6</td>
     <td align="center">1</td>
@@ -108,15 +108,15 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
     <td align="center">26%</td>
   </tr>
   <tr>
-    <td>Fair (65-74)</td>
+    <td><strong>Fair (65-74)</strong></td>
     <td align="center">4</td>
     <td align="center">1</td>
-    <td align="center"> </td>
+    <td align="center">0</td>
     <td align="center">22%</td>
     <td align="center">52%</td>
   </tr>
   <tr>
-    <td>Poor (55-65)</td>
+    <td><strong>Poor (55-65)</strong></td>
     <td align="center">1</td>
     <td align="center">1</td>
     <td align="center">1</td>
@@ -124,10 +124,10 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
     <td align="center">19%</td>
   </tr>
   <tr>
-    <td>Very Poor (below 55)</td>
+    <td><strong>Very Poor (below 55)</strong></td>
     <td align="center">3</td>
-    <td align="center"> </td>
-    <td align="center"> </td>
+    <td align="center">0</td>
+    <td align="center">0</td>
     <td align="center">17%</td>
     <td align="center">1%</td>
   </tr>
