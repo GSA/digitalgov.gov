@@ -49,7 +49,7 @@ However, according to ITIF’s findings, 92% of the 297 government websites they
 
 So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information.
 
-{{< legacy-img src="2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="" >}}
+{{< legacy-img src="2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="olm26250, iStock, Thinkstock" >}}
 
 ## Improving Your Site’s Performance
 
@@ -71,6 +71,8 @@ If you are looking to improve your performance, or just get a sense for how well
   * [Rigor](http://rigor.com/)
   * [Pingdom](https://www.pingdom.com/)
   * [Webpagetest](http://webpagetest.org)
+
+{{< youtube sDTgYySlvEI >}}
 
 _Do you want more information on how to improve your page load speeds?_ [_Email us_](mailto:digitalgov@gsa.gov) _and we’ll put something together for you._
 
@@ -97,6 +99,8 @@ How does Search Engine Optimization (SEO) play into this? Here are [7 questions 
   * [The Content Corner: How Google Judges Your Content]({{< ref "2016-03-07-the-content-corner-how-google-judges-your-content.md" >}})
   * DGU video course: [Using Mobile User Experience Guidelines to Create Stellar Mobile Products](https://www.youtube.com/watch?v=SKpu3iIkeGk) (duration: 62 minutes)
 
+{{< youtube SKpu3iIkeGk >}}
+
 _Do you want more information on making your site more mobile friendly?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Mobile) _and we’ll put something together for you._
 
 <hr width="60%" />
@@ -114,6 +118,8 @@ Making the switch to HTTPS can be a difficult change for many websites. But in r
   * [Why Switching to HTTPS Will Make Your Analytics Better]({{< ref "2016-06-06-why-switching-to-https-will-make-your-analytics-better.md" >}})
   * [Automatic HTTPS Enforcement for New Executive Branch .Gov Domains]({{< ref "2017-01-19-automatic-https-enforcement-for-new-executive-branch-gov-domains.md" >}})
   * DGU video course: [Migrating to HTTPS: Common Pain Points and Practical Advice](https://www.youtube.com/watch?v=X5H8JRULDOo) (duration: 68 minutes)
+
+{{< youtube X5H8JRULDOo >}}
 
 _Do you want more information on switching to HTTPS?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Security) _and we’ll put something together for you._
 
@@ -134,6 +140,8 @@ With the January release of the [Access Board’s final rule](https://www.access
   * [CIO Council’s Accessibility Playbook](https://section508.gov/content/it-accessibility-playbook)
   * [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< ref "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
   * DGU video course: [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw) (duration: 65 minutes)
+
+{{< youtube 4XJcswWmmAw >}}
 
 _Do you want more information on accessibility resources?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Accessibility) _and we’ll put something together for you._
 
