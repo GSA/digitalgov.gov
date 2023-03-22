@@ -11,11 +11,9 @@ topics:
 
 ---
 
-
+Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.
 
 {{< legacy-img src="2014/02/Hootsuite-screenshot.jpg" alt="Screenshot of Hootsuite showing two Twitter streams" caption="" >}}
-
-Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.
 
 We dispelled the notion that technology limits agencies from tackling these challenges by highlighting how agencies can achieve all these in one dashboard — and in the process hope it opened eyes to all the possibilities available to government.
 
