@@ -13,13 +13,10 @@ topics:
   - user-experience
   - content
   - cx
-  - cx
-  - digitalgov-university
-  - digitalgov-university
-  - 'Office of Products and Programs'
-  - OPP
+  - office-of-products-and-programs
   - research
   - user-centered-design
+
 ---
 
 As you know, over the last few years DigitalGov has surfaced the innovative advancements many are making across the government space while providing a platform for learning best practices and coming together as a community.
