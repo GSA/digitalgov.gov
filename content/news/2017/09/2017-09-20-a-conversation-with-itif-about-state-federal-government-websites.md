@@ -15,8 +15,6 @@ topics:
   - communities
   - content
   - content-strategy
-  - dgu
-  - digitalgov-university
   - itif
   - metrics
   - mobile
@@ -31,10 +29,9 @@ topics:
   - usability
   - user-experience
   - user-research
-  
-featured_image:
-  uid: itif-presentation-title-slide
-  alt: 'Screen capture of the event in the YouTube player&#46;'
+
+primary_image: "itif-presentation-title-slide"
+
 ---
 
 At the beginning of 2017, the ITIF (Information Technology and Innovation Foundation) released [a report](https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/) that benchmarked 300 federal websites in four areas: page-load speed, mobile friendliness, security and accessibility. Some sites fared better than others, but the report highlighted that our federal sites have a ways to go (DigitalGov included) in these areas.
