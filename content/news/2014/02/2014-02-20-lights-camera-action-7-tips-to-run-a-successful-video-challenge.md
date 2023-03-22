@@ -18,7 +18,7 @@ topics:
 
 Not sure how to craft a video challenge that will result in the creative solutions your agency is looking for? Don&#8217;t worry, we&#8217;ve got you covered.
 
-{{< legacy-img src="2014/07/250-x-188-Cinema-Studio-ktsimage-iStock-Thinkstock-156334978.jpg" alt="Film reel, film slate, director's chair and megaphone" caption="ktsimage, iStock, Thinkstock" >}}
+{{< legacy-img-right src="2014/07/250-x-188-Cinema-Studio-ktsimage-iStock-Thinkstock-156334978.jpg" alt="Film reel, film slate, director's chair and megaphone" caption="ktsimage, iStock, Thinkstock" >}}
 
 Jason Crusan from [NASA](http://www.nasa.gov/) and Tammi Marcoullier from [Challenge.gov](http://www.challenge.gov/) joined a recent DigitalGov University webinar to share best practices and hurdles in running video competitions.
 
