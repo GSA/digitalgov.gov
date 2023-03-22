@@ -26,16 +26,13 @@ topics:
   - HHS
   - innovation
   - OCSIT
-  - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
-  - OPP
+  - office-of-citizen-services-and-innovative-technology
+  - office-of-products-and-programs
   - security
   - summit
   - Technology Industry Day
   - tts
-  - us-department-of-the-treasury
-  - us-general-services-administration
-  - united-states-department-of-health-and-human-services
+
 ---
 
 On September 8th, the General Services Administration (GSA) held a Technology Industry Day to talk to industry leaders about the products and solutions developed by our agency and to hear feedback on how we can better engage industry. We’re thrilled that more than 300 members of the technology industry in person and via the live stream were able to join us for this first step towards a closer partnership and more open lines of communication about how we can work together to transform federal technology.

@@ -22,19 +22,14 @@ topics:
   - FAS
   - Federal Acquisition Service
   - fedramp
-  - gsa
-  - HHS
   - innovation
   - OCSIT
-  - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
-  - OPP
+  - office-of-citizen-services-and-innovative-technology
+  - office-of-products-and-programs
   - summit
   - Technology Industry Day
   - tts
-  - us-department-of-the-treasury
-  - us-general-services-administration
-  - united-states-department-of-health-and-human-services
+
 ---
 
 _Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ {{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}}

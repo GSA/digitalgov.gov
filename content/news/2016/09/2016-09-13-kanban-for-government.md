@@ -13,10 +13,8 @@ topics:
   - agile-lean-community-of-practice
   - kanban
   - OCSIT
-  - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
-  - OPP
-  - Work In Progress
+  - office-of-citizen-services-and-innovative-technology
+  - office-of-products-and-programs
   - workflows
 ---
 
