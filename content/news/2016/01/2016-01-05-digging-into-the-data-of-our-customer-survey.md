@@ -18,7 +18,9 @@ topics:
   - web-content-managers-forum
 ---
 
-As a followup to the [recent post about our annual customer satisfaction survey]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}), we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services. {{< legacy-img src="2015/05/600-x-362-Satisfied-Customer-Concept-olm26250-iStock-Thinkstock-454049039.jpg" alt="The question, Are you satisfied? appears on a console above 3 rating buttons; 1 star to indicate not satisfied, 2 stars to indicate somewhat satisfied, and 3 stars, which has been selected, to indicate very satisfied." caption="" >}} 
+As a followup to the [recent post about our annual customer satisfaction survey]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}), we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services.
+
+{{< legacy-img src="2015/05/600-x-362-Satisfied-Customer-Concept-olm26250-iStock-Thinkstock-454049039.jpg" alt="The question, Are you satisfied? appears on a console above 3 rating buttons; 1 star to indicate not satisfied, 2 stars to indicate somewhat satisfied, and 3 stars, which has been selected, to indicate very satisfied." caption="olm26250, iStock, Thinkstock" >}} 
 
 Background: For the past three years, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) has conducted an annual survey to measure customer satisfaction. The survey is modeled after Forrester’s original Customer Experience Index. In 2015, we polled over 8,800 people from 135 government agencies and bureaus to gather data on 18 programs. Around one-third of the people we surveyed (31%) are customers of more than one OCSIT program.
 
@@ -28,133 +30,49 @@ For 2015, OCSIT programs ranked “Good,” with an overall GCXi score of 78. No
 
 <table border="0" width="100%" cellspacing="2" cellpadding="2">
   <tr>
-    <td align="center" bgcolor="#fff2cc" width="45%">
-      <strong>Overall Rating</strong>
-    </td>
-    
-    <td align="center" bgcolor="#fff2cc">
-      <strong>2015*</strong>
-    </td>
-    
-    <td align="center" bgcolor="#fff2cc">
-      <strong>2014</strong>
-    </td>
-    
-    <td align="center" bgcolor="#fff2cc">
-      <strong>2013</strong>
-    </td>
+    <td align="center" bgcolor="#fff2cc" width="45%"><strong>Overall Rating</strong></td>
+    <td align="center" bgcolor="#fff2cc"><strong>2015*</strong></td>
+    <td align="center" bgcolor="#fff2cc"><strong>2014</strong></td>
+    <td align="center" bgcolor="#fff2cc"><strong>2013</strong></td>
   </tr>
-  
   <tr>
-    <td>
-      Satisfaction
-    </td>
-    
-    <td align="center">
-      79
-    </td>
-    
-    <td align="center">
-      85
-    </td>
-    
-    <td align="center">
-      87
-    </td>
+    <td>Satisfaction</td>
+    <td align="center">79</td>
+    <td align="center">85</td>
+    <td align="center">87</td>
   </tr>
-  
   <tr>
-    <td>
-      Ease of Use (EoU)
-    </td>
-    
-    <td align="center">
-      69
-    </td>
-    
-    <td align="center">
-      N/A
-    </td>
-    
-    <td align="center">
-      N/A
-    </td>
+    <td>Ease of Use (EoU)</td>
+    <td align="center">69</td>
+    <td align="center">N/A</td>
+    <td align="center">N/A</td>
   </tr>
-  
   <tr>
-    <td>
-      Likelihood to Return
-    </td>
-    
-    <td align="center">
-      86
-    </td>
-    
-    <td align="center">
-      89
-    </td>
-    
-    <td align="center">
-      82
-    </td>
+    <td>Likelihood to Return</td>
+    <td align="center">86</td>
+    <td align="center">89</td>
+    <td align="center">82</td>
   </tr>
-  
   <tr>
-    <td>
-      Likelihood to Recommend
-    </td>
-    
-    <td align="center">
-      77
-    </td>
-    
-    <td align="center">
-      84
-    </td>
-    
-    <td align="center">
-      89
-    </td>
+    <td>Likelihood to Recommend</td>
+    <td align="center">77</td>
+    <td align="center">84</td>
+    <td align="center">89</td>
   </tr>
-  
   <tr>
-    <td align="right">
-      <em>Overall Index Score</em>
-    </td>
-    
-    <td align="center">
-      78
-    </td>
-    
-    <td align="center">
-      86
-    </td>
-    
-    <td align="center">
-      86
-    </td>
+    <td align="right"><em>Overall Index Score</em></td>
+    <td align="center">78</td>
+    <td align="center">86</td>
+    <td align="center">86</td>
   </tr>
-  
   <tr>
-    <td align="right">
-      <em>Overall Index Score (Excluding EoU)</em>
-    </td>
-    
-    <td align="center">
-      81
-    </td>
-    
-    <td align="center">
-    </td>
-    
-    <td align="center">
-    </td>
+    <td align="right"><em>Overall Index Score (Excluding EoU)</em></td>
+    <td align="center">81</td>
+    <td align="center"> </td>
+    <td align="center"> </td>
   </tr>
-  
   <tr>
-    <td style="padding-left: 30px" colspan="4">
-      *Ease of Use (EoU) metric was added in 2015
-    </td>
+    <td style="padding-left: 30px" colspan="4">*Ease of Use (EoU) metric was added in 2015</td>
   </tr>
 </table>
 
@@ -162,166 +80,56 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
 
 <table border="0" width="100%" cellspacing="2" cellpadding="2">
   <tr>
-    <td rowspan="2" align="center" width="33%">
-      <strong>Score</strong>
-    </td>
-    
-    <td colspan="3" align="center" bgcolor="#fff2cc">
-      <strong>#Programs</strong>
-    </td>
-    
-    <td colspan="2" align="center" bgcolor="#d9ead3">
-      <strong>2015 Ratings</strong>
-    </td>
+    <td rowspan="2" align="center" width="33%"><strong>Score</strong></td>
+    <td colspan="3" align="center" bgcolor="#fff2cc"><strong>#Programs</strong></td>
+    <td colspan="2" align="center" bgcolor="#d9ead3"><strong>2015 Ratings</strong></td>
   </tr>
-  
   <tr>
-    <td align="center" bgcolor="#fff2cc" width="11%">
-      <strong>2015</strong>
-    </td>
-    
-    <td align="center" bgcolor="#fff2cc" width="11%">
-      <strong>2014</strong>
-    </td>
-    
-    <td align="center" bgcolor="#fff2cc" width="11%">
-      <strong>2013</strong>
-    </td>
-    
-    <td align="center" bgcolor="#d9ead3" width="17%">
-      <strong>OCSIT</strong>
-    </td>
-    
-    <td align="center" bgcolor="#d9ead3" width="17%">
-      <strong>Industry (Forrester)</strong>
-    </td>
+    <td align="center" bgcolor="#fff2cc" width="11%"><strong>2015</strong></td>
+    <td align="center" bgcolor="#fff2cc" width="11%"><strong>2014</strong></td>
+    <td align="center" bgcolor="#fff2cc" width="11%"><strong>2013</strong></td>
+    <td align="center" bgcolor="#d9ead3" width="17%"><strong>OCSIT</strong></td>
+    <td align="center" bgcolor="#d9ead3" width="17%"><strong>Industry (Forrester)</strong></td>
   </tr>
-  
   <tr>
-    <td>
-      Very Good (85+)
-    </td>
-    
-    <td align="center">
-      7
-    </td>
-    
-    <td align="center">
-      8
-    </td>
-    
-    <td align="center">
-      6
-    </td>
-    
-    <td align="center">
-      38%
-    </td>
-    
-    <td align="center">
-      1%
-    </td>
+    <td>Very Good (85+)</td>
+    <td align="center">7</td>
+    <td align="center">8</td>
+    <td align="center">6</td>
+    <td align="center">38%</td>
+    <td align="center">1%</td>
   </tr>
-  
   <tr>
-    <td>
-      Good (75-84)
-    </td>
-    
-    <td align="center">
-      3
-    </td>
-    
-    <td align="center">
-      6
-    </td>
-    
-    <td align="center">
-      1
-    </td>
-    
-    <td align="center">
-      17%
-    </td>
-    
-    <td align="center">
-      26%
-    </td>
+    <td>Good (75-84)</td>
+    <td align="center">3</td>
+    <td align="center">6</td>
+    <td align="center">1</td>
+    <td align="center">17%</td>
+    <td align="center">26%</td>
   </tr>
-  
   <tr>
-    <td>
-      Fair (65-74)
-    </td>
-    
-    <td align="center">
-      4
-    </td>
-    
-    <td align="center">
-      1
-    </td>
-    
-    <td align="center">
-    </td>
-    
-    <td align="center">
-      22%
-    </td>
-    
-    <td align="center">
-      52%
-    </td>
+    <td>Fair (65-74)</td>
+    <td align="center">4</td>
+    <td align="center">1</td>
+    <td align="center"> </td>
+    <td align="center">22%</td>
+    <td align="center">52%</td>
   </tr>
-  
   <tr>
-    <td>
-      Poor (55-65)
-    </td>
-    
-    <td align="center">
-      1
-    </td>
-    
-    <td align="center">
-      1
-    </td>
-    
-    <td align="center">
-      1
-    </td>
-    
-    <td align="center">
-      6%
-    </td>
-    
-    <td align="center">
-      19%
-    </td>
+    <td>Poor (55-65)</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">6%</td>
+    <td align="center">19%</td>
   </tr>
-  
   <tr>
-    <td>
-      Very Poor (below 55)
-    </td>
-    
-    <td align="center">
-      3
-    </td>
-    
-    <td align="center">
-    </td>
-    
-    <td align="center">
-    </td>
-    
-    <td align="center">
-      17%
-    </td>
-    
-    <td align="center">
-      1%
-    </td>
+    <td>Very Poor (below 55)</td>
+    <td align="center">3</td>
+    <td align="center"> </td>
+    <td align="center"> </td>
+    <td align="center">17%</td>
+    <td align="center">1%</td>
   </tr>
 </table>
 
@@ -363,6 +171,4 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
 
 We’re just starting work on this year’s GCXi, and have plans to streamline and simplify the process, to make it easier for you to provide your feedback. When you see a request from our team to take the survey, please share your thoughts. We take your comments to heart.
 
- 
-
-Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!
+_Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!_
