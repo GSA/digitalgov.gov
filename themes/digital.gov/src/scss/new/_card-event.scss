@@ -3,55 +3,138 @@
 .card-event {
   @include u-border-top("2px", "primary-darker", "solid");
   column-gap: units("205"); // Gives border consistent spacing on both sides
+  grid-template-rows: 1fr !important;
+  grid-template-areas:
+    "c-content"
+    "c-date" !important;
+  @include at-media("tablet") {
+    grid-template-areas: "c-content c-date" !important;
+    grid-template-columns: 2fr 1fr !important;
+  }
+  .card__content {
+    @include u-display("flex");
+    @include u-flex-direction("column");
+    // refactor into _card.scss to update all card components from h3 to h2
+    h2 {
+      @include u-font("sans", "lg");
+      @include u-margin(0);
+      @include u-text("bold");
+      a {
+        @include u-text("primary-darker");
+        @include u-text("no-underline");
+        &::after {
+          content: "";
+          @include u-position("absolute");
+          @include u-top(0);
+          @include u-left(0);
+          @include u-right(0);
+          @include u-bottom(0);
+        }
+      }
+    }
+    .date {
+      @include u-display("flex");
+      @include u-flex("row");
+      @include u-flex("align-center");
+      @include u-flex("justify-center");
+      @include at-media("tablet") {
+        @include u-display("none");
+      }
+    }
+    .authors-list {
+      @include at-media("tablet") {
+        @include u-padding-bottom(2);
+      }
+    }
+    .kicker {
+      @include u-display("none");
+      @include at-media("tablet") {
+        @include u-display("flex");
+        flex-basis: 100%;
+      }
+    }
+  }
+  .card__date {
+    grid-area: c-date !important;
+    @include u-display("none");
+    @include u-flex("column");
+    @include u-flex("align-center"); //
+    @include u-width('auto'); //
+    @include u-padding-left(2);
+    @include u-border-left("1px", "indigo-warm-80", "solid");
+    @include at-media("tablet") {
+      @include u-display("block");
+      grid-template-areas: "d-month" "d-day" "d-register" !important;
+      grid-template-rows: auto;
+    }
+  }
 
   .date {
+    @include u-display("flex");
+    @include u-flex("column");
+    @include u-flex("align-center");
     @include u-margin(0);
     @include u-padding-right(0);
-    @include at-media("tablet") {
-      @include u-padding-right("205");
-    }
+    @include u-width("auto");
     span {
       @include u-display("block");
       @include u-text("center");
       @include u-text("medium");
     }
     .date-mo {
-      @include u-text("uppercase");
+      grid-area: d-month;
+      justify-self: end;
+      @include u-padding-right(0.5);
       @include u-font("sans", "sm");
       @include u-text("bold");
+      @include u-text("uppercase");
       @include at-media("tablet") {
-        @include u-text("medium");
+        justify-self: center;
+        @include u-padding-right(0);
+        @include u-font("sans", "xl");
+        @include u-text(800);
       }
     }
     .date-day {
-      @include u-margin-bottom("05");
+      grid-area: d-day;
+      justify-self: start;
       @include u-font("sans", "2xl");
-      @include u-text("thin");
       @include u-line-height("sans", 1);
+      @include u-padding-left(1);
+      @include u-margin-bottom(0);
+      @include u-text("thin");
       @include at-media("tablet") {
-        @include u-font("sans", "3xl");
+        justify-self: center;
+        font-size: 5rem;
+        @include u-padding-left(0);
+        @include u-padding-bottom(1.5);
+        @include u-margin-top(-1);
       }
     }
     .btn-register {
       @include u-display("none");
       @include at-media("tablet") {
         @include u-display("block");
+        width: 80%;
       }
     }
   }
   .btn-register {
-    @include u-padding-y(0);
-    @include u-padding-x(0);
-    @include u-font("sans", "sm");
+    grid-area: d-register;
     @include u-display("block");
+    @include u-flex("align-center");
+    width: 100%;
+    @include u-border("2px", "primary-vivid", "solid");
     @include u-radius("sm");
     @include u-bg("white");
+    @include u-padding(0);
+    @include u-font("sans", "sm");
     @include u-text("primary-vivid");
     @include u-text("center");
-    @include u-border("2px", "primary-vivid", "solid");
     transition: background-color 0.25s, color 0.25s;
     @include at-media("tablet") {
       @include u-display("none");
+      width: 80%;
     }
   }
   &:hover {
@@ -60,7 +143,6 @@
       @include u-text("white");
     }
   }
-
   .host {
     @include u-margin-y("105");
     @include u-text("gray-cool-60");
@@ -77,7 +159,6 @@
   }
 }
 
-
 // ==========================================================================
 // Variants
 // ==========================================================================
@@ -86,20 +167,96 @@
 // Upcoming events
 // ==========================================================================
 .card-event-promo {
-  grid-template-areas:
-  "c-date c-content"
-  "c-meta c-meta" !important;
-  grid-template-columns: 1fr 5fr !important;
-
-  .card__media {
-    @include u-border-right("1px", "indigo-warm-80", "solid");
-    grid-area: c-date !important;
+  .btn-register {
+    @include u-bg("white");
+    @include u-text("primary-vivid");
+    @include u-border("2px", "primary-vivid", "solid");
+    @include at-media("tablet") {
+      @include u-display("none");
+    }
   }
 }
 
-//
 // Past events
 // ==========================================================================
 .card-event-past {
-  border-top: none;
+  @include u-border-top(0);
+  .card__date {
+    @include u-display("block");
+    @include u-border-left(0);
+    @include u-padding-left(0);
+    @include at-media("tablet") {
+      @include u-border-left("1px", "indigo-warm-80", "solid");
+      @include u-padding-left(2);
+    }
+  }
+
+  .date {
+    @include u-padding-left(0);
+    @include u-text("gray-cool-50");
+    @include u-text("normal");
+    transition: color 0.25s;
+    @include at-media("tablet") {
+      grid-template-areas: unset;
+    }
+    &-previous-description {
+      display: grid;
+      grid-template-rows: auto;
+      @include at-media("tablet") {
+        grid-template-areas: "d-month" "d-day" "d-description" !important;
+        grid-template-rows: auto;
+      }
+    }
+    &-previous-description--desktop {
+      @include u-display("none");
+      @include at-media("tablet") {
+        @include u-display("block");
+        width: 80%;
+      }
+      &-box {
+        @include u-display("block");
+        @include u-padding(0);
+        @include u-bg("white");
+        @include u-radius("sm");
+        @include u-border("2px", "gray-cool-50", "solid");
+        @include u-font("sans", "sm");
+        @include u-text("gray-cool-50");
+        @include u-text("center");
+        transition: border 0.25s, color 0.25s;
+      }
+    }
+    &-previous-description--mobile {
+      grid-area: d-description;
+      @include u-display("flex");
+      @include u-flex-direction("row");
+      justify-content: center;
+      @include u-padding(0);
+      @include u-radius("sm");
+      @include u-bg("white");
+      @include u-text("gray-cool-50");
+      @include u-text("center");
+      @include u-font("sans", "sm");
+      @include u-border("2px", "gray-cool-50", "solid");
+      transition: background-color 0.25s, color 0.25s;
+      width: 100%;
+      @include at-media("tablet") {
+        @include u-display("none");
+      }
+    }
+  }
+  .date-mo--mobile {
+    padding-left: 0.5ch;
+  }
+  .date-day--mobile {
+    padding-left: 0.5ch;
+  }
+  &:hover {
+    .date {
+      @include u-text("gray-cool-60");
+    }
+    .date-previous-description--desktop-box {
+      @include u-border("2px", "gray-cool-60", "solid");
+      @include u-text("gray-cool-60");
+    }
+  }
 }

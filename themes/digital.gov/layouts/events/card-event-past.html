@@ -11,17 +11,9 @@
 >
   <div class="card__content">
 
-    {{- if .Params.kicker -}}
-    <div class="kicker">{{- .Params.kicker -}}</div>
-    {{- else -}}
-      {{- if .Params.youtube_id -}}
-      <div class="kicker">Video</div>
-      {{- end -}}
-    {{- end -}}
-
-    <h3 id="{{ $titleID }}">
+    <h2 id="{{ $titleID }}">
       <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
-    </h3>
+    </h2>
     {{- if .Params.summary -}}
       <div class="deck">{{ .Params.summary | markdownify -}}</div>
     {{- else -}}
@@ -29,24 +21,34 @@
     {{- end -}}
 
     {{- partial "core/get_authors_short.html" . -}}
-  </div>
-
-  <div class="card__media">
-    {{- if .Params.youtube_id -}}
-    <div>
-      <div aria-role="img" class="media-featured youtube-player" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
+    {{- if .Params.kicker -}}
+    <div class="kicker flex-align-end">
+      <span>{{- .Params.kicker -}}</span>
     </div>
     {{- else -}}
-    <div class="non-youtube-event-card" data-link="{{ .Permalink }}">
-      <svg xmlns="http://www.w3.org/2000/svg" role="img" alt="" aria-hidden="true" height="150" width="150" viewBox="0 0 25 25">
-        <title>Calendar Event</title>
-        <path d="M0 0h24v24H0z" fill="none"/>
-        <path fill="#252f3e" d="M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z"/>
-      </svg>
-    </div>
+      {{- if .Params.youtube_id -}}
+      <div class="kicker">Video</div>
+      {{- end -}}
     {{- end -}}
-  </div>
-  <div class="card__meta">
-    <div class="date">{{ dateFormat "Jan 02, 2006" .Date }}</div>
+
+ </div>
+
+  <div class="card__date">
+    <div class="date">
+      <div class="date-previous-description date-previous-description--desktop">
+        <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
+        <span class="date-day">{{- dateFormat "02" .Date -}}</span>
+        <span class="date-previous-description--desktop-box">
+          Previous Event
+        </span>
+      </div>
+      <div class="date-previous-description date-previous-description--mobile">
+        <span class="date-previous-description--mobile-box">
+          Previous Event
+        </span>
+        <span class="date-mo--mobile">{{ dateFormat "Jan" .Date }}</span>
+        <span class="date-day--mobile">{{ dateFormat "02" .Date }}</span>
+      </div>
+    </div>
   </div>
 </article>

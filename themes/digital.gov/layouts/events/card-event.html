@@ -10,9 +10,9 @@
     {{- if .Params.kicker -}}
     <div class="kicker">{{- .Params.kicker -}}</div>
     {{- end -}}
-    <h3 id="{{ .Title | urlize }}">
+    <h2 id="{{ .Title | urlize }}">
       <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
-    </h3>
+    </h2>
 
     {{- if .Params.summary -}}
     <div class="summary">{{ .Params.summary | markdownify }}</div>
@@ -30,10 +30,12 @@
       href="{{- .Params.registration_url -}}"
       onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
         Register
+        <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
+        <span class="date-day">{{- dateFormat "02" .Date -}}</span>
     </a>
   </div>
 
-  <div class="card__media">
+  <div class="card__date">
     <div class="date">
       <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
       <span class="date-day">{{- dateFormat "02" .Date -}}</span>
