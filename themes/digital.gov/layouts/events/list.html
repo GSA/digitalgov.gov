@@ -40,6 +40,14 @@
             {{ .Render "card-event"}}
           {{ end }}
         {{ end }}
+      {{ else }}
+        {{/*  @TODO Add as an option for card refactor */}}
+        <section
+          class="upcoming-events__placeholder card card--placeholder"
+          aria-label="There are no scheduled events yet"
+        >
+          No upcoming events scheduled
+        </section>
       {{ end }}
     </div>
   </section>
