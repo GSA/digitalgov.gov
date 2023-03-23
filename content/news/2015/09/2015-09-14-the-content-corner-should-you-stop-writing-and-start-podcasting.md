@@ -20,7 +20,7 @@ This rise in popularity and perhaps the weekly grind of creating written content
 
 ## Benefits of Podcasting
 
-{{< legacy-img-right src="2015/04/featured-301-x-212-Podcasting-arinahabich-iStock-Thinkstock-ThinkstockPhotos-484812187-250x176.jpg" alt="Microphone" caption="" >}} 
+{{< legacy-img-right src="2015/04/featured-301-x-212-Podcasting-arinahabich-iStock-Thinkstock-ThinkstockPhotos-484812187-250x176.jpg" alt="Microphone" caption="arinahabich, iStock, Thinkstock" >}} 
 
 As I mentioned, one of the biggest benefits of podcasting is that people are able to consume your content in a wide variety of ways and can easily fit it into their daily lives. For example, I generally listen to a podcast or two while doing a cardio workout or when mowing the lawn. It allows me to learn and consume content that I might not have time to sit down and read. Podcasts can also be great for long commutes, whether you are in the car or on public transportation. Technology within cars, such as Bluetooth, is making it easier and easier to play podcasts with little or no effort, essentially creating your own curated radio station. Regardless of what happens to mobile devices and e-readers, written content will have a hard time equalling podcasts in the portability category.
 
@@ -56,4 +56,3 @@ So, as is often the case, the final answer to whether you should stop writing an
 As podcasts&#8217; popularity continues to rise and they become more and more mainstream, I predict a resurgence in government podcasting. However, they will remain only another tool along with written and video content to reach and assist as many customers as possible.
 
 _You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
-
