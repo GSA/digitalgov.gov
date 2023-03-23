@@ -3,17 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const inPageNav = document.querySelector(".usa-in-page-nav__nav");
   const inPageNavHeader = document.querySelector(".usa-in-page-nav__heading");
   const navItems = document.querySelectorAll("li.usa-in-page-nav__item:not(.usa-in-page-nav__item--sub-item)");
-  const errorPage = document.querySelector("h1");
 
   if (navItems.length < 3) {
-    inPageNav.style.display = "none";
-    return;
-  }
-
-  console.log(errorPage);
-  
-  if (errorPage.innerText.includes("404 Error")) {
-    console.log("Error Page");
     inPageNav.style.display = "none";
     return;
   }
