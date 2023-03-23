@@ -26,30 +26,21 @@
     </div>
   </header>
 
-  <section class="article-list">
+  <section class="upcoming-events article-list">
     <div class="grid-container grid-container-desktop">
-      <div class="grid-row tablet-lg:grid-gap-3">
-        <div class="grid-col-12">
-          {{ range .Data.Pages.Reverse }}
-          {{ $now := now.Format "2006-01-02" }}
-          {{ $start := .Date.Format "2006-01-02"  }}
+      {{ $now := now.Format "2006-01-02" }}
 
-          {{ if .Params.End_date }}
-            {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-            {{ if or (ge $start $now) (ge $end $now)}}
-              {{ if .Params.registration_url }}
-                {{ .Render "card-event"}}
-              {{ end }}
-            {{ end }}
+      {{/*  Show upcoming events up until event ends  */}}
+      {{ range where .Site.Pages.Reverse "Params.End_date" ">=" $now }}
+        {{ $start := .Date.Format "2006-01-02" }}
 
-            {{ else if ge $start $now }}
-              {{ if .Params.registration_url }}
-                {{ .Render "card-event"}}
-              {{ end }}
-            {{ end }}
+        {{ $end := dateFormat "2006-01-02" .Params.End_date }}
+        {{ if or (ge $start $now) (ge $end $now)}}
+          {{ if .Params.registration_url }}
+            {{ .Render "card-event"}}
           {{ end }}
-        </div>
-      </div>
+        {{ end }}
+      {{ end }}
     </div>
   </section>
 
