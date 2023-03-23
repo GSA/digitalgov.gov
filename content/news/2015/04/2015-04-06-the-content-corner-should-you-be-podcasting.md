@@ -2,7 +2,7 @@
 slug: the-content-corner-should-you-be-podcasting
 date: 2015-04-06 10:00:34 -0400
 title: 'The Content Corner: Should You Be Podcasting?'
-summary: 'Along a somewhat personal journey (that you have chosen to join) to better define the term content,  I’ve stumbled upon the puzzle of podcasts. Full disclosure: I have never been and most likely will never be a consumer of podcasts, ten years ago or today. I tried several times to listen to &ldquo;Serial&rdquo; and my'
+summary: 'Along a somewhat personal journey (that you have chosen to join) to better define the term content,  I’ve stumbled upon the puzzle of podcasts.'
 authors:
   - tyrus-manuel
 topics:
@@ -18,13 +18,13 @@ Along a somewhat personal journey (that you have chosen to join) to better defin
 
 {{< legacy-img src="2015/04/525-x-400-Antenna-and-social-networks-jose-martinez-iStock-Thinkstock-ThinkstockPhotos-93477563.jpg" alt="Broadcast antenna with clusters of figures at its base." caption="Jose Martinez, iStock, Thinkstock" >}}
 
-A quick review of the [U.S. Government Podcast Directory](http://www.usa.gov/Topics/Reference-Shelf/Libraries/Podcasts.shtml) feels like a snapshot of the state of the podcast genre as a whole. Several agencies continue to provide solid offerings with recent updates alongside broken links to long-forgotten podcast directories or podcasts that stopped being produced in 2009 (most likely the year most agencies really started ramping up their social media presence). But what is the way forward? Is it time for government agencies to brush off their microphones and fire up the ol’ RSS again? Let’s all say it together: “it depends.” And what does it depend on? You guessed it: your [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) and goals.
+A quick review of the U.S. Government Podcast Directory feels like a snapshot of the state of the podcast genre as a whole. Several agencies continue to provide solid offerings with recent updates alongside broken links to long-forgotten podcast directories or podcasts that stopped being produced in 2009 (most likely the year most agencies really started ramping up their social media presence). But what is the way forward? Is it time for government agencies to brush off their microphones and fire up the ol’ RSS again? Let’s all say it together: “it depends.” And what does it depend on? You guessed it: your [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) and goals.
 
 Andy Bowers, executive producer of Slate’s podcasts, points out some of the [key characteristics](http://www.slate.com/articles/arts/ten_years_in_your_ears/2014/12/podcast_10th_anniversary_slate_s_executive_producer_andy_bowers_on_the_state.html) that should be explored when trying to determine if they are a fit for your strategy.
 
 ## Podcasts Require Time and Attention
 
-Typically, podcasts are a 20-30 minute segment that will require the user’s attention. Keep this in mind when deciding whether your audience typically is willing to invest this much (mainly distraction-free) time on your content. At times we seem to be chopping content into smaller and smaller bits for faster and easier consumption. In some ways podcasts (like [long form](http://longform.org/) articles) are a step away from this (especially when you combine the two forms, such as the [Longform Podcast](http://longform.org/podcast)). As a positive, they do not require your user to focus on a screen, like a video does, and they can still impart significant information while a user’s eyes can be used for what are hopefully fairly mindless tasks.
+Typically, podcasts are a 20-30 minute segment that will require the user’s attention. Keep this in mind when deciding whether your audience typically is willing to invest this much (mainly distraction-free) time on your content. At times we seem to be chopping content into smaller and smaller bits for faster and easier consumption. In some ways, podcasts (like [long form](https://www.longform.org/) articles) are a step away from this (especially when you combine the two forms, such as the [Longform Podcast](https://www.longform.org/podcast)). As a positive, they do not require your user to focus on a screen, like a video does, and they can still impart significant information while a user’s eyes can be used for what are hopefully fairly mindless tasks.
 
 ## They Don’t Do Viral
 
