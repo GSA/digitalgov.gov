@@ -27,10 +27,8 @@ Justin Herman, GSA lead for the government-wide [SocialGov Community]({{< ref "c
   * Behind the scenes accounts of well-known CIA social media engagements, including: “The Dr. Zhivago Incident” and “The #Sharkweek Case of Julia Child and the Shark Repellent.”
   * What’s next?
 
-Also joining the conversation is Scott Horvath, social media lead for the U.S. Geological Survey, providing perspectives from his more than eight years of experience in government social media.<audio class="wp-audio-shortcode" id="audio-302122-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3" />
+Also joining the conversation is Scott Horvath, social media lead for the U.S. Geological Survey, providing perspectives from his more than eight years of experience in government social media.
 
-<https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3></audio>
-
-
+<audio class="wp-audio-shortcode" id="audio-302122-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3" /><https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3></audio>
 
 To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3) (21 MB). You can also download and [read the transcript](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA-Social-Media-Podcast-Aug-2015-Transcript.docx) (Word document, 14 KB, 10 pages).
