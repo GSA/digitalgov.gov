@@ -22,8 +22,8 @@ You cannot improve your digital outreach without data. Since 2012, the [Digital 
 
 How did the program reach this point, where 4,000 websites have implemented DAP, and why does it matter?
 
-For our second DigitalGov podcast, we spoke with Marina Fox, Manager of DAP, and Tim Lowden, an analyst on the DAP team. They discuss the history of DAP, the surprises that have come up during the DAP journey, their future plans, and how the Dashboard revealed a recent surge of interest in moonquakes.<audio class="wp-audio-shortcode" id="audio-280092-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Inside-look-at-DAP-Digital-Analytics-Program.mp3" /><https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Inside-look-at-DAP-Digital-Analytics-Program.mp3></audio>
+For our second DigitalGov podcast, we spoke with Marina Fox, Manager of DAP, and Tim Lowden, an analyst on the DAP team. They discuss the history of DAP, the surprises that have come up during the DAP journey, their future plans, and how the Dashboard revealed a recent surge of interest in moonquakes.
 
-
+<audio class="wp-audio-shortcode" id="audio-280092-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Inside-look-at-DAP-Digital-Analytics-Program.mp3" /><https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Inside-look-at-DAP-Digital-Analytics-Program.mp3></audio>
 
 To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Inside-look-at-DAP-Digital-Analytics-Program.mp3 "Listen to An Inside look at the Digital Analytics Program") (13 MB). You can also [download and read the transcript](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Podcast-Transcript-Inside-look-at-the-Digital-Analytics-Program-DAP.docx) (Word document, 21 KB,5 pages)._Author&#8217;s note: At the time of podcast recording, DAP was implemented on 3,800 websites. DAP is now on more than 4,000 websites._
