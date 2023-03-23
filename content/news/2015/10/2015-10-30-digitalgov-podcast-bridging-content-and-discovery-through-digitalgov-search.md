@@ -28,9 +28,7 @@ Recently, search analyst Dawn McCleskey sat down to discuss the work of DigitalG
   * Future directions for DigitalGov Search
   * Why you can&#8217;t find everything online (like searching for Ben Franklin&#8217;s jet pack!)
   
-<audio class="wp-audio-shortcode" id="audio-324682-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/10/Podcast-Digitalgov\_Search.mp3?\_=5" />
-
-<https://s3.amazonaws.com/digitalgov/_legacy-img/2015/10/Podcast-Digitalgov_Search.mp3></audio> 
+<audio class="wp-audio-shortcode" id="audio-324682-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/10/Podcast-Digitalgov_Search.mp3" /><https://s3.amazonaws.com/digitalgov/_legacy-img/2015/10/Podcast-Digitalgov_Search.mp3></audio> 
 
 To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/10/Podcast-Digitalgov_Search.mp3). You can also [download and read the transcript](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/10/DG-Search-Podcast-Oct-2015-Transcript.docx) (Word document, 9 KB, 4 pages).
 
