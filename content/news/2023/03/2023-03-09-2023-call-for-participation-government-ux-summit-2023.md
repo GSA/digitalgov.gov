@@ -67,7 +67,7 @@ If your submission is selected for the 2023 UX summit, we will provide guidance 
 
 Presentation materials must be accessible, following the [Revised Section 508 Standards](https://www.section508.gov/create/). Those needing assistance to make their materials accessible should [contact their agency’s 508 Program Manager](https://www.section508.gov/tools/coordinator-listing/).
 
-During the event, presenters must follow [Digital.gov’s accessible event tips](https://github.com/GSA/digitalgov.gov/wiki/Accessible-Event-Tips) and the Digital.gov presenter checklist, providing audio descriptions for images, reciting names for speaker changes, identifying slide numbers for audience members, etc.
+During the event, presenters must follow [Digital.gov’s accessible event tips](https://github.com/GSA/digitalgov.gov/wiki/Accessible-Event-Tips) and the [Digital.gov presenter checklist](https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/), providing audio descriptions for images, reciting names for speaker changes, identifying slide numbers for audience members, etc.
 
 ## Evaluation process 
 
