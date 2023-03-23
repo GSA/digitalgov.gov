@@ -26,13 +26,8 @@
 
       {{/*  Show upcoming events up until event ends  */}}
       {{ range where .Site.Pages.Reverse "Params.End_date" ">=" $now }}
-        {{ $start := .Date.Format "2006-01-02" }}
-
-        {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-        {{ if or (ge $start $now) (ge $end $now)}}
-          {{ if .Params.registration_url }}
-            {{ .Render "card-event"}}
-          {{ end }}
+        {{ if .Params.registration_url }}
+          {{ .Render "card-event"}}
         {{ end }}
       {{ else }}
         {{/*  @TODO Add as an option for card refactor */}}
