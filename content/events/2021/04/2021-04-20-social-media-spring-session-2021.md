@@ -12,6 +12,7 @@ topics:
   - socialgov-community
   - socialgov
   - social-media
+  - podcast
   - marketing
 # See all authors at https://digital.gov/authors
 authors:
