@@ -45,7 +45,7 @@ weight: 0
 
 Get the credit you deserve!
 
-{{< img src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
+{{< img-right src="plain-language" caption="" alt="The plain language quotation marks logo." >}}
 
 We'll discuss your formal and informal plain language work (teaching, training, reviewing, or copyediting) and how to best document and publicize it so you can get credit for the work you’re doing.
 
