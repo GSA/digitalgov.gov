@@ -4,7 +4,7 @@
 slug: socialgov-talks-leveraging-pop-culture-with-paul-lester-doe
 title: "SocialGov Talks: Leveraging Pop Culture With Paul Lester of the DOE"
 deck: ""
-summary: "Learn from a social media expert at Department of Energy how to use pop culture references as a jumping off point to talk about your agency’s work.  "
+summary: "Learn from a social media expert at Department of Energy how to use pop culture references as a jumping off point to talk about your agency’s work."
 host: "Socialgov"
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/socialgov-talks-leveraging-pop-culture-with-paul-lester-of-the-doe-registration-66348428937
@@ -19,6 +19,7 @@ end_date: 2019-09-26 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - social-media
+  - podcast
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -39,7 +40,6 @@ weight: 0
 
 # Make it better ♥
 ---
-
 
 Join Paul Lester, Digital Content Specialist for the [Department of Energy](https://www.energy.gov/) (DOE), to discuss how DOE leveraged the popular TV show, _Stranger Things_ as a conversation starter about the agency’s mission and work using digital media (social media, blog, podcast, etc.). Paul will also discuss how he got management buy-in to use a pop culture phenomenon to promote the agency’s work.
 
