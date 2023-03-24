@@ -16,12 +16,14 @@ authors:
   - rflagg
   - gail-sprinkle
 slug: who-is-your-website-manager
-primary_image: 10x-funded-cover
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 ## Who manages this website?
 
 Seems like a simple question, doesn’t it? But the answer is not always obvious.
