@@ -15,7 +15,7 @@ authors:
   - rflagg
 slug: whos-your-website-manager
 
-primary_image: 
+primary_image:
 
 # Controls how this page appears across the site
 # 0 -- hidden
