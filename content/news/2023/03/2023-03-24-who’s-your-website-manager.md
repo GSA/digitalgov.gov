@@ -1,9 +1,8 @@
 ---
 date: 2023-03-24 09:58:00 -0500
-title: Who’s your website manager?
-deck: Equity and accountability in federal website management
-summary: The importance of HR and accountability to improving digital service
-  delivery at federal agencies.
+title: "Who’s your website manager?"
+deck: "Equity and accountability in federal website management"
+summary: "The importance of HR and accountability to improving digital service delivery at federal agencies."
 # See all topics at https://digital.gov/topics
 topics:
   - governance
@@ -15,12 +14,16 @@ topics:
 authors:
   - rflagg
 slug: whos-your-website-manager
-primary_image: 10x-funded-cover
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 ## Who manages this website?
 
 Seems like a simple question, doesn’t it? But the answer is not always clear-cut.
