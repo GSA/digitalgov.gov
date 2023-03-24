@@ -15,7 +15,7 @@ topics:
 # 2 -- highlighted
 weight: 1
 slug: how-to-start-and-sustain-a-federal-podcast
-primary_image: ""
+primary_image: "podcast-mics-laptop-1200x630-vanessa-nunes-istock-getty-images-1434115344"
 
 ---
 
