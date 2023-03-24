@@ -9,7 +9,7 @@ topics:
   - content
 ---
 
-Style guides are used to set the tone and guidelines for how an agency communicates with the public. This page is a collection of style guides created by government agencies. 
+Style guides are used to set the tone and guidelines for how an agency communicates with the public. This page is a collection of style guides created by government agencies.
 
 {{< note >}}You can add your agency&#8217;s guide here by [emailing DigitalGov]({{< ref "/about/_index.md" >}}). You can also share it with the [Plain Language Community of Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}).{{< /note >}}
 
@@ -65,10 +65,6 @@ Style guides are used to set the tone and guidelines for how an agency communica
 **U.S. Energy Information Administration (EIA)**
 
 - [EIA Writing Style Guide](https://www.eia.gov/about/eiawritingstyleguide.pdf) (PDF, 1.3 MB, 139 pgs)
-
-**U.S. Environmental Protection Agency (EPA)**
-
-- [EPA Communications Style Book](https://www.epa.gov/stylebook)
 
 **U.S. General Services Administration (GSA)**
 
