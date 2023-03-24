@@ -2,7 +2,7 @@
 slug: vendors-and-government-strengthen-partnership-at-technology-industry-day
 date: 2016-09-30 10:00:02 -0400
 title: Vendors and Government Strengthen Partnership at Technology Industry Day
-summary: 'On September 8th, the General Services Administration (GSA) held a Technology Industry Day to talk to industry leaders about the products and solutions developed by our agency and to hear feedback on how we can better engage industry. We’re thrilled that more than 300 members of the technology industry in person and via the live'
+summary: 'On September 8, 2016, the General Services Administration (GSA) held a Technology Industry Day. We’re thrilled that more than 300 members of the technology industry in person and via the live stream were able to join us for this first step towards a closer partnership and more open lines of communication about how we can work together to transform federal technology.'
 authors:
   - andre-francisco
 topics:
@@ -22,15 +22,10 @@ topics:
   - FAS
   - Federal Acquisition Service
   - fedramp
-  - gsa
-  - HHS
   - innovation
-  - OCSIT
-  - office-of-citizen-services-and-innovative-technology
-  - office-of-products-and-programs
   - security
   - summit
-  - Technology Industry Day
+  - technology-industry-day
   - tts
 
 ---
@@ -43,9 +38,9 @@ As GSA Administrator Denise Turner Roth said in her opening remarks, “Governme
 
 “For me, the future is a future where every public facing government service is easy to understand, is a pleasure to use, works on whatever device you’re visit it on, and gives you fast, efficient service,” said Aaron Snow, Deputy Director of TTS.
 
-If you weren’t able to attend, you can watch the first two hours of the event below and [download the slidedeck from the morning presentation](https://18f.gsa.gov/assets/blog/industry-day/deck-2016.pdf).
+If you weren’t able to attend, you can watch the first two hours of the event below and [download the slidedeck from the morning presentation (PDF, 5.3 MB, 67 pages)](https://18f.gsa.gov/assets/blog/industry-day/deck-2016.pdf).
 
-[youtube=http://www.youtube.com/watch?v=NRAlPdiWXN8&w=600]
+{{< youtube NRAlPdiWXN8 >}}
 
 Find out more about the projects and platforms we talked about during the Technology Industry Day.
 
@@ -71,15 +66,15 @@ The Digital Accountability and Transparency Act (DATA Act) is a law that, once i
 
 ## California Child Welfare System {#california-child-welfare-system}
 
-Last year, California began a process to replace their child welfare services case management system. Through a partnership with the Department of Health and Human Services, 18F was able to work on behalf of HHS with California’s Department of Social Services and Office of Systems Integration and Code for America to [simplify the contracting documents](https://18f.gsa.gov/2016/03/22/helping-california-buy-a-new-child-welfare-system/) and to incorporate modular contracting, agile development, user-centered design, and open source practices into their project. Hear more from Stuart Drown, the California Deputy Secretary for Innovation and Accountability, about the project
+Last year, California began a process to replace their child welfare services case management system. Through a partnership with the Department of Health and Human Services, 18F was able to work on behalf of HHS with California’s Department of Social Services and Office of Systems Integration and Code for America to [simplify the contracting documents](https://18f.gsa.gov/2016/03/22/helping-california-buy-a-new-child-welfare-system/) and to incorporate modular contracting, agile development, user-centered design, and open source practices into their project. Hear more from Stuart Drown, the California Deputy Secretary for Innovation and Accountability, about the project:
 
-[youtube=http://www.youtube.com/watch?v=JM4VLjRgqWo&w=600]
+{{< youtube JM4VLjRgqWo >}}
 
 ## login.gov
 
 We’re building an authentication platform to make online interactions with the U.S. government simple, efficient and intuitive. This platform will be a service shared by agencies to streamline logging in and to allow the public to securely access personal information and federal government services. Read the [Identity Playbook](https://pages.18f.gov/identity-playbook/) the team is using to guide their work and watch [Joel Minton’s lightning talk about the project](https://youtu.be/NRAlPdiWXN8).
 
-## What&#8217;s next {#whats-next}
+## What's next {#whats-next}
 
 The Technology Industry Day generated a heap of valuable feedback and potential opportunities for GSA and industry to work together to better serve the public. We’re going through our notes and following up with the participants now, and we plan to publicly share more thoughts and insights from the sessions soon.
 
