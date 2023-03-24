@@ -34,7 +34,7 @@ topics:
 
 _Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ 
 
-{{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}}
+{{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="Mirexon, iStock, Thinkstock" >}}
 
 On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Services Administration](http://www.gsa.gov/) (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA’s path to improve the government’s outdated technology systems. The event featured how GSA buys, builds and shares technology for the federal government.
 
