@@ -16,7 +16,8 @@ authors:
   - rflagg
   - gail-sprinkle
 slug: who-is-your-website-manager
-primary_image: 
+primary_image: "diverse-team-brainstorm-whiteboard-julief514-istock-getty-images-1169460143-comp"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
