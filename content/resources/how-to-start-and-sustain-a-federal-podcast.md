@@ -1,11 +1,8 @@
 ---
 date: 2023-03-24 16:13:00 -0500
 title: How to start and sustain a federal podcast
-deck: It seems like everyone has a podcast these days, including the federal
-  government. Should your agency decide to do the same — and if so, how do you
-  even get started?
-summary: "Discover how to create and maintain a successful podcast at your
-  federal agency. "
+deck: It seems like everyone has a podcast these days, including the federal government. Should your agency decide to do the same — and if so, how do you even get started?
+summary: "Discover how to create and maintain a successful podcast at your federal agency."
 # See all topics at https://digital.gov/topics
 topics:
   - communication
@@ -18,7 +15,10 @@ topics:
 # 2 -- highlighted
 weight: 1
 slug: how-to-start-and-sustain-a-federal-podcast
+primary_image: ""
+
 ---
+
 ## What is a podcast?
 
 A podcast is similar to a radio talk show, except it’s online. And instead of being run live, it is pre-recorded. Unlike radio talk shows, podcasts can vary in length from episode to episode. Because podcasts are downloadable, you can listen to them anywhere at any time, making them ideal for a busy audience on the go.
@@ -73,7 +73,7 @@ To see if your podcast is successful and reaching the intended audience, think a
 
 ### Check out what other federal agencies are doing
 
-If you can,  reach out to agencies with established podcasts via [Digital.gov’s communities of practice](https://digital.gov/communities/). What have they learned? How do they manage and sustain their podcasts?
+If you can, reach out to agencies with established podcasts via [Digital.gov’s communities of practice](https://digital.gov/communities/). What have they learned? How do they manage and sustain their podcasts?
 
 ### Promote your podcast
 
@@ -85,11 +85,11 @@ As you podcast, metrics will start to come in. Listen to what those metrics are 
 
 ## Connect with others interested in government podcasts
 
-Consider joining related Digital.gov communities of practice to connect with teams already doing the work.
+Consider joining related [Digital.gov communities of practice](https://digital.gov/communities/) to connect with teams already doing the work.
 
-* Communicators
-* Web managers
-* Video pros
+* [Communicators](https://digital.gov/communities/communicators/)
+* [Web managers](https://digital.gov/communities/web-content-managers/)
+* [Video production pros](https://digital.gov/communities/video-production/)
 
 ## Resources
 
