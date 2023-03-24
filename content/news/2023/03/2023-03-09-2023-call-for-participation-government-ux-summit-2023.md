@@ -97,11 +97,11 @@ The 2023 UX summit will be held virtually on June 14, 2023 from 10 am to 4 pm ET
 
 **Submissions due**: March 23, 2023
 
-**Presenters notified of selection**: April 14, 2023
+**Presenters notified of selection**: April 21, 2023
 
-**Finalize program**: April 23, 2023
+**Finalize program**: April 28, 2023
 
-**Presentation slides due**: May 26, 2023
+**Presentation slides due**: May 24, 2023
 
 **Dress rehearsals**: June 5 - 9, 2023
 
