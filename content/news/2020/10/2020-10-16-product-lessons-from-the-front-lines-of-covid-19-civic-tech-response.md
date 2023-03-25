@@ -9,6 +9,7 @@ topics:
   - product-management
   - user-research
   - presidential-innovation-fellows
+  - public-safety
 # See all authors at https://digital.gov/authors
 authors:
   - likhitha-patha
@@ -19,7 +20,9 @@ primary_image: hero-image
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 {{< img src="hero-image" >}}
 **Likhitha Patha**: When Kaeli Yuen and I joined the federal government as part of the 2020 cohort of [Presidential Innovation Fellows](https://pif.gov/) (PIF), we did not anticipate a global pandemic on the horizon. For us, this unprecedented time turned out to be a call to step up and serve the American people in a time of need. We prioritized helping agencies respond to COVID-19 by building new digital services that addressed public needs. I was detailed to the Department of Health and Human Services (HHS) and Health Resources and Services Administration (HRSA) where I led the launch of [telehealth.hhs.gov](https://telehealth.hhs.gov/), a website that centralizes telehealth policy updates and resources for health care providers and patients. Kaeli was detailed to the Department of Veterans Affairs (VA), where she led the launch of the [VA coronavirus chatbot](https://www.va.gov/coronavirus-chatbot/) to speed Veteran access to information on the impact of COVID-19 to their VA benefits and services, and the [VA COVID-19 screener tool](https://www.va.gov/covid19screen/) to help assess COVID-19 risk factors at VA medical centers’ building entrances.
 
