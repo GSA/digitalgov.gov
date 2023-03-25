@@ -22,6 +22,7 @@ topics:
   - cx
   - metadata
   - search-engine-optimization
+  - public-safety
 
 authors:
   - matt-harmon
