@@ -10,6 +10,8 @@ topics:
   - user-research
   - writing
   - recaps
+  - public-safety
+
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
