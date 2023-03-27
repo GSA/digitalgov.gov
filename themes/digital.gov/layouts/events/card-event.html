@@ -1,47 +1,52 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
-<article
-  class="card card-event card-event-promo card-linked"
-  data-edit-this="{{- $path -}}"
-  {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
-  aria-labelledby="{{ .Title | urlize }}"
->
+{{/*  Check if event is past  */}}
+{{/*  1. Check the params passed into component  */}}
+{{/*  2. Have a global flag for future or past  */}}
+{{/*  3. Store as variable */}}
+{{/*  4. Use as check in template  */}}
+
+<article class="card card-event card-event-promo card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
   <div class="card__content">
-    {{- if .Params.kicker -}}
-    <div class="kicker">{{- .Params.kicker -}}</div>
-    {{- end -}}
-    <h2 id="{{ .Title | urlize }}">
-      <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
-    </h2>
+    <div class="card__header">
+      {{- if .Params.kicker -}}
+      <div class="card__header-kicker">{{- .Params.kicker -}}</div>
+      {{- end -}}
+      <h2 class="card__header-title" id="{{ .Title | urlize }}">
+        <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
+      </h2>
+    </div>
 
-    {{- if .Params.summary -}}
-    <div class="summary">{{ .Params.summary | markdownify }}</div>
-    {{- else -}}
-    <div class="deck">{{ .Params.deck | markdownify }}</div>
-    {{- end -}}
+    <div class="card__body">
+      {{- if .Params.summary -}}
+      <div class="card__body-summary">{{ .Params.summary | markdownify }}</div>
+      {{- else -}}
+      <div class="card__body-deck">{{ .Params.deck | markdownify }}</div>
+      {{- end -}}
+  
+      {{- if .Params.host -}}
+      <p class="card__body-host">Hosted by Digital.gov and the {{ .Params.host }}</p>
+      {{- end -}}
 
-    {{- if .Params.host -}}
-    <p class="host">Hosted by Digital.gov and the {{ .Params.host }}</p>
-    {{- end -}}
-
-    <a
-      aria-label="Register for {{- .Params.title -}}"
-      class="btn btn-register"
-      href="{{- .Params.registration_url -}}"
-      onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
-        Register
-        <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
-        <span class="date-day">{{- dateFormat "02" .Date -}}</span>
-    </a>
+      <a
+        aria-label="Register for {{- .Params.title -}}"
+        class="card__body-register-button"
+        href="{{- .Params.registration_url -}}"
+        onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
+          Register
+          <span class="card__body-register-date-month">{{- dateFormat "Jan" .Date -}}</span>
+          <span class="card__body-register-date-day">{{- dateFormat "02" .Date -}}</span>
+      </a>
+    </div>
   </div>
 
   <div class="card__date">
-    <div class="date">
-      <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
-      <span class="date-day">{{- dateFormat "02" .Date -}}</span>
+    <div class="card__date-future">
+      <span class="card__date-month">{{- dateFormat "Jan" .Date -}}</span>
+      <span class="card__date-day">{{- dateFormat "02" .Date -}}</span>
       <a
         aria-label="Register for {{- .Params.title -}}"
-        class="btn btn-register"
+        class="card__date-register-button"
         href="{{- .Params.registration_url -}}"
         onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
           Register

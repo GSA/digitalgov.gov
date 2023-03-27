@@ -15,42 +15,78 @@
     @include u-display("flex");
     @include u-flex-direction("column");
     // refactor into _card.scss to update all card components from h3 to h2
-    h2 {
-      @include u-font("sans", "lg");
-      @include u-margin(0);
-      @include u-text("bold");
-      a {
-        @include u-text("primary-darker");
-        @include u-text("no-underline");
-        &::after {
-          content: "";
-          @include u-position("absolute");
-          @include u-top(0);
-          @include u-left(0);
-          @include u-right(0);
-          @include u-bottom(0);
+    .card__header {
+      &-kicker {}
+      &-title {
+        @include u-font("sans", "lg");
+        @include u-margin(0);
+        @include u-text("bold");
+        a {
+          @include u-text("primary-darker");
+          @include u-text("no-underline");
+          &::after {
+            content: "";
+            @include u-position("absolute");
+            @include u-top(0);
+            @include u-left(0);
+            @include u-right(0);
+            @include u-bottom(0);
+          }
         }
       }
     }
-    .date {
+    .card__body {
       @include u-display("flex");
-      @include u-flex("row");
-      @include u-flex("align-center");
-      @include u-flex("justify-center");
-      @include at-media("tablet") {
+      @include u-flex-direction("column");
+      flex-basis: 100%;
+      &-summary, &-deck {
+        @include u-margin-top(1);
+        @include u-line-height("sans", 3);
+        @include u-font("sans", "md");
+        @include u-text("normal");
+      }
+      &-host {
+        @include u-font("sans", "md");
+        @include u-margin-y(1.5);
+        @include u-color("gray-cool-60");
+        @include u-line-height("sans", 1); 
+      }
+      &-kicker {
         @include u-display("none");
+        @include u-margin(0);
+        @include u-margin-bottom("05");
+        @include u-font("sans", "2xs");
+        @include u-text("semibold");
+        @include u-text("uppercase");
+        @include u-color("primary-vivid");
+        @include at-media("tablet") {
+          @include u-display("flex");
+          flex-basis: 100%;
+        }
       }
-    }
-    .authors-list {
-      @include at-media("tablet") {
-        @include u-padding-bottom(2);
+      .authors-list {
+        @include at-media("tablet") {
+          @include u-padding-bottom(2);
+        }
       }
-    }
-    .kicker {
-      @include u-display("none");
-      @include at-media("tablet") {
-        @include u-display("flex");
-        flex-basis: 100%;
+      &-register-button {
+        grid-area: d-register;
+        @include u-display("inline");
+        @include u-flex("align-center");
+        @include u-display("block");
+        @include u-border("2px", "primary-vivid", "solid");
+        @include u-radius("sm");
+        @include u-bg("white");
+        @include u-padding(0);
+        @include u-font("sans", "sm");
+        @include u-text("primary-vivid");
+        @include u-text("center");
+        @include u-text("no-underline");
+        transition: background-color 0.25s, color 0.25s;
+        width: 100%;
+        @include at-media("tablet") {
+          @include u-display("none");
+        }
       }
     }
   }
@@ -67,21 +103,15 @@
       grid-template-areas: "d-month" "d-day" "d-register" !important;
       grid-template-rows: auto;
     }
-  }
-
-  .date {
-    @include u-display("flex");
-    @include u-flex("column");
-    @include u-flex("align-center");
-    @include u-margin(0);
-    @include u-padding-right(0);
-    @include u-width("auto");
-    span {
-      @include u-display("block");
-      @include u-text("center");
-      @include u-text("medium");
+    &-future {
+      @include u-display("flex");
+      @include u-flex("column");
+      @include u-flex("align-center");
+      @include u-margin(0);
+      @include u-padding-right(0);
+      @include u-width("auto");
     }
-    .date-mo {
+    &-month {
       grid-area: d-month;
       justify-self: end;
       @include u-padding-right(0.5);
@@ -95,7 +125,7 @@
         @include u-text(800);
       }
     }
-    .date-day {
+    &-day {
       grid-area: d-day;
       justify-self: start;
       @include u-font("sans", "2xl");
@@ -103,6 +133,7 @@
       @include u-padding-left(1);
       @include u-margin-bottom(0);
       @include u-text("thin");
+      @include u-text(100);
       @include at-media("tablet") {
         justify-self: center;
         font-size: 5rem;
@@ -111,51 +142,32 @@
         @include u-margin-top(-1);
       }
     }
-    .btn-register {
+    &-register-button {
       @include u-display("none");
+      @include u-flex("align-center");
+      grid-area: d-register;
+      @include u-display("block");
+      @include u-border("2px", "primary-vivid", "solid");
+      @include u-radius("sm");
+      @include u-bg("white");
+      @include u-padding(0);
+      @include u-font("sans", "sm");
+      @include u-text("primary-vivid");
+      @include u-text("center");
+      @include u-text("no-underline");
+      transition: background-color 0.25s, color 0.25s;
+      width: 100%;
       @include at-media("tablet") {
         @include u-display("block");
         width: 80%;
       }
     }
-  }
-  .btn-register {
-    grid-area: d-register;
-    @include u-display("block");
-    @include u-flex("align-center");
-    width: 100%;
-    @include u-border("2px", "primary-vivid", "solid");
-    @include u-radius("sm");
-    @include u-bg("white");
-    @include u-padding(0);
-    @include u-font("sans", "sm");
-    @include u-text("primary-vivid");
-    @include u-text("center");
-    transition: background-color 0.25s, color 0.25s;
-    @include at-media("tablet") {
-      @include u-display("none");
-      width: 80%;
+    &:hover {
+      .card__body-register-button {
+        @include u-bg("primary-vivid");
+        @include u-text("white"); 
+      }
     }
-  }
-  &:hover {
-    .btn-register {
-      @include u-bg("primary-vivid");
-      @include u-text("white");
-    }
-  }
-  .host {
-    @include u-margin-y("105");
-    @include u-text("gray-cool-60");
-    @include u-font("sans", "xs");
-    @include at-media("tablet-lg") {
-      @include u-font("sans", "sm");
-    }
-    @include u-line-height("sans", 2);
-  }
-  .time {
-    @include u-font("sans", "md");
-    @include u-text("bold");
-    @include u-text("red-cool-40v");
   }
 }
 
@@ -167,14 +179,6 @@
 // Upcoming events
 // ==========================================================================
 .card-event-promo {
-  .btn-register {
-    @include u-bg("white");
-    @include u-text("primary-vivid");
-    @include u-border("2px", "primary-vivid", "solid");
-    @include at-media("tablet") {
-      @include u-display("none");
-    }
-  }
 }
 
 // Past events
@@ -189,43 +193,39 @@
       @include u-border-left("1px", "indigo-warm-80", "solid");
       @include u-padding-left(2);
     }
-  }
+    &-past {
 
-  .date {
-    @include u-padding-left(0);
-    @include u-text("gray-cool-50");
-    @include u-text("normal");
-    transition: color 0.25s;
-    @include at-media("tablet") {
-      grid-template-areas: unset;
+      @include u-padding-left(0);
+      @include u-text("gray-cool-50");
+      @include u-text(600);
+      transition: color 0.25s;
     }
-    &-previous-description {
-      display: grid;
-      grid-template-rows: auto;
+
+    &-desktop {
+      display: none;
       @include at-media("tablet") {
+        display: grid;
         grid-template-areas: "d-month" "d-day" "d-description" !important;
         grid-template-rows: auto;
       }
+      .card__date-month {}
     }
-    &-previous-description--desktop {
-      @include u-display("none");
-      @include at-media("tablet") {
-        @include u-display("block");
-        width: 80%;
-      }
-      &-box {
-        @include u-display("block");
-        @include u-padding(0);
-        @include u-bg("white");
-        @include u-radius("sm");
-        @include u-border("2px", "gray-cool-50", "solid");
-        @include u-font("sans", "sm");
-        @include u-text("gray-cool-50");
-        @include u-text("center");
-        transition: border 0.25s, color 0.25s;
-      }
+
+    &-label {
+      @include u-display("block");
+      @include u-padding(0);
+      @include u-bg("white");
+      @include u-radius("sm");
+      @include u-border("2px", "gray-cool-50", "solid");
+      @include u-font("sans", "sm");
+      @include u-text("gray-cool-50");
+      @include u-text("center");
+      width: 80%;
+      justify-self: center;
+      transition: border 0.25s, color 0.25s;
     }
-    &-previous-description--mobile {
+
+    &-mobile {
       grid-area: d-description;
       @include u-display("flex");
       @include u-flex-direction("row");
@@ -242,19 +242,32 @@
       @include at-media("tablet") {
         @include u-display("none");
       }
+
+      .card__date-label {
+        border: none;
+        width: auto;
+      }
+
+      .card__date-month {
+        font-size: inherit;
+        font-weight: inherit;
+        padding-left: 0.5ch;
+        text-transform: none;
+      }
+      .card__date-day {
+        font-size: inherit;
+        font-weight: inherit;
+        text-transform: none;
+        line-height: inherit;
+        padding-left: 0;
+      }
     }
-  }
-  .date-mo--mobile {
-    padding-left: 0.5ch;
-  }
-  .date-day--mobile {
-    padding-left: 0.5ch;
   }
   &:hover {
-    .date {
+    .card__date-past {
       @include u-text("gray-cool-60");
     }
-    .date-previous-description--desktop-box {
+    .card__date-label {
       @include u-border("2px", "gray-cool-60", "solid");
       @include u-text("gray-cool-60");
     }
