@@ -2,9 +2,12 @@
 
 {{/*  Unique ID to link article to its title in screen readers  */}}
 {{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
+{{ $now := now.Format "2006-01-02" }}
+{{ $start := .Date.Format "2006-01-02"  }}
+{{ $eventDate := cond (ge $start $now) true false }}
 
 <article
-  class="card card-event card-event-past card-linked {{ if not .Params.youtube_id -}}card-event--no-video{{ end }}"
+  class="card card-event {{ if $eventDate }}card-event-promo{{ else }}card-event-past{{ end }} card-linked {{ if not .Params.youtube_id -}}card-event--no-video{{ end }}"
   data-edit-this="{{- $path -}}"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"

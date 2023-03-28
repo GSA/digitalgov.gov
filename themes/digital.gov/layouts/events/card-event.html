@@ -1,12 +1,9 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+{{ $now := now.Format "2006-01-02" }}
+{{ $start := .Date.Format "2006-01-02"  }}
+{{ $eventDate := cond (ge $start $now) true false }}
 
-{{/*  Check if event is past  */}}
-{{/*  1. Check the params passed into component  */}}
-{{/*  2. Have a global flag for future or past  */}}
-{{/*  3. Store as variable */}}
-{{/*  4. Use as check in template  */}}
-
-<article class="card card-event card-event-promo card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
+<article class="card card-event {{ if $eventDate }}card-event-promo{{ else }}card-event-past{{ end }} card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
   <div class="card__content">
     <div class="card__header">
       {{- if .Params.kicker -}}
@@ -23,7 +20,7 @@
       {{- else -}}
       <div class="card__body-deck">{{ .Params.deck | markdownify }}</div>
       {{- end -}}
-  
+
       {{- if .Params.host -}}
       <p class="card__body-host">Hosted by Digital.gov and the {{ .Params.host }}</p>
       {{- end -}}
