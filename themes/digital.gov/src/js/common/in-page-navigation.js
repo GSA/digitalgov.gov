@@ -5,8 +5,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const navItems = document.querySelectorAll("li.usa-in-page-nav__item:not(.usa-in-page-nav__item--sub-item)");
 
   if (navItems.length < 3) {
-    inPageNav.style.display = "none";
-    return;
+    if (inPageNav) {
+      inPageNav.style.display = "none";
+      return;
+    }
   }
 
   if (!relatedItems) {
