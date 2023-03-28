@@ -68,7 +68,7 @@
           <div class="grid-col-12">
             {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
             {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-              {{ .Render "card-event-past"}}
+              {{ .Render "card-event"}}
             {{ end }}
           </div>
         </div>
