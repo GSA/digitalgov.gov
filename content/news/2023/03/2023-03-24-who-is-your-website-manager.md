@@ -53,18 +53,13 @@ Every GSA website/digital property must have a designated Website Manager. This 
 
 * Must be a federal employee; cannot be a contractor, but may direct and oversee contractors.
 * Is programmatically responsible and accountable for the management of a GSA public-facing website or digital property (including websites, web-based applications, or web-based application log-in pages), including:
-
    * Determining content, design, and development priorities
    * Identifying resources needed for ongoing site management and maintenance
    * Ensuring the digital property fits into the overall GSA digital ecosystem by collaborating with other teams around common content and functionality in terms of customer journey, business function, topic area, technical capabilities, and compliance with federal web policy
-
 * Must have a clear understanding of the website’s customers and their needs, including (but not limited to):
-
    * The mechanisms (interviews, surveys, usability studies, etc,) used to gather customer feedback about the site
    * The actions needed to improve overall customer experience
-
 * Must have a clear understanding of how well the website meets GSA and federal policies and laws related to digital service delivery, including (but not limited to) such things as:
-
    * The state of the site's [508 compliance](https://www.section508.gov/)
    * The progress to adopt the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS)
 
