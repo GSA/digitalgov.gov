@@ -16,7 +16,8 @@
     @include u-flex-direction("column");
     // refactor into _card.scss to update all card components from h3 to h2
     .card__header {
-      &-kicker {}
+      &-kicker {
+      }
       &-title {
         @include u-font("sans", "lg");
         @include u-margin(0);
@@ -39,7 +40,8 @@
       @include u-display("flex");
       @include u-flex-direction("column");
       flex-basis: 100%;
-      &-summary, &-deck {
+      &-summary,
+      &-deck {
         @include u-margin-top(1);
         @include u-line-height("sans", 3);
         @include u-font("sans", "md");
@@ -49,7 +51,7 @@
         @include u-font("sans", "md");
         @include u-margin-y(1.5);
         @include u-color("gray-cool-60");
-        @include u-line-height("sans", 1); 
+        @include u-line-height("sans", 1);
       }
       &-kicker {
         @include u-display("none");
@@ -95,7 +97,7 @@
     @include u-display("none");
     @include u-flex("column");
     @include u-flex("align-center"); //
-    @include u-width('auto'); //
+    @include u-width("auto"); //
     @include u-padding-left(2);
     @include u-border-left("1px", "indigo-warm-80", "solid");
     @include at-media("tablet") {
@@ -165,7 +167,7 @@
     &:hover {
       .card__body-register-button {
         @include u-bg("primary-vivid");
-        @include u-text("white"); 
+        @include u-text("white");
       }
     }
   }
@@ -194,13 +196,11 @@
       @include u-padding-left(2);
     }
     &-past {
-
       @include u-padding-left(0);
       @include u-text("gray-cool-50");
       @include u-text(600);
       transition: color 0.25s;
     }
-
     &-desktop {
       display: none;
       @include at-media("tablet") {
@@ -208,9 +208,9 @@
         grid-template-areas: "d-month" "d-day" "d-description" !important;
         grid-template-rows: auto;
       }
-      .card__date-month {}
+      .card__date-month {
+      }
     }
-
     &-label {
       @include u-display("block");
       @include u-padding(0);
@@ -224,7 +224,6 @@
       justify-self: center;
       transition: border 0.25s, color 0.25s;
     }
-
     &-mobile {
       grid-area: d-description;
       @include u-display("flex");
@@ -242,12 +241,10 @@
       @include at-media("tablet") {
         @include u-display("none");
       }
-
       .card__date-label {
-        border: none;
-        width: auto;
+        @include u-border(0);
+        @include u-width("auto");
       }
-
       .card__date-month {
         font-size: inherit;
         font-weight: inherit;
@@ -259,7 +256,7 @@
         font-weight: inherit;
         text-transform: none;
         line-height: inherit;
-        padding-left: 0;
+        @include u-padding-left(0);
       }
     }
   }
