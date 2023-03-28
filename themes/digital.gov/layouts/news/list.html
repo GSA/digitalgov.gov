@@ -55,7 +55,7 @@
             {{- if ge .Date now.Unix }}
               {{- .Render "card-event" -}}
             {{- else -}}
-              {{- .Render "card-event-past" -}}
+              {{- .Render "card-event" -}}
             {{- end -}}
           {{- end -}}
 

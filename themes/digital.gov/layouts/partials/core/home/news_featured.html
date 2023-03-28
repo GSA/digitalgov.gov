@@ -66,7 +66,7 @@
 
           {{- if eq .Type "events" -}}
             {{- if .Date.Before now -}}
-              {{- .Render "card-event-past" -}}
+              {{- .Render "card-event" -}}
             {{- end -}}
           {{- end -}}
 
