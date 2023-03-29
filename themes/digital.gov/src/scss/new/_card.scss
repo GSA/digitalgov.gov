@@ -144,7 +144,7 @@
 
 // Used in upcoming events section
 .card.card--placeholder {
-  @include u-font("ui", "xl");
+  @include u-font("ui", "lg");
   border-top: 2px solid color("base-lighter");
   display: block;
   font-weight: font-weight(300);

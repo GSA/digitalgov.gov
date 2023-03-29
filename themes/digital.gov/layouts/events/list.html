@@ -2,6 +2,8 @@
 
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
+{{ $now := now.Format "2006-01-02" }}
+
 <main role="main" id="main-content">
   <header class="page-head page-head-{{- .Type -}}">
     <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
@@ -22,7 +24,7 @@
 
   <section class="upcoming-events article-list">
     <div class="grid-container grid-container-desktop">
-      {{ $now := now.Format "2006-01-02" }}
+      <h2>Upcoming Events</h2>
 
       {{/*  Show upcoming events up until event ends  */}}
       {{ range where .Site.Pages.Reverse "Params.End_date" ">=" $now }}
@@ -31,12 +33,10 @@
         {{ end }}
       {{ else }}
         {{/*  @TODO Add as an option for card refactor */}}
-        <section
-          class="upcoming-events__placeholder card card--placeholder"
-          aria-label="There are no scheduled events yet"
-        >
-          No upcoming events scheduled
-        </section>
+        <div class="upcoming-events__placeholder card card--placeholder">
+          <h3>Upcoming events will be added soon</h3>
+          To be notified of new events, <a href="{{ "subscribe" | relURL }}">subscribe to our newsletter</a>!
+        </div>
       {{ end }}
     </div>
   </section>
@@ -53,7 +53,11 @@
       <div class="grid-container grid-container-desktop">
         {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
         {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-          {{ .Render "card-event-past"}}
+          {{ $endDate := .Params.End_date | time.Format "2006-01-02"}}
+
+          {{ if lt $endDate $now }}
+            {{ .Render "card-event-past"}}
+          {{ end }}
         {{ end }}
       </div>
     </div>

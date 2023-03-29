@@ -150,11 +150,3 @@
     }
   }
 }
-
-#events-past {
-  header h2 {
-    @include u-margin-y(2);
-    @include u-font("sans", "xl");
-    @include u-text("heavy");
-  }
-}
