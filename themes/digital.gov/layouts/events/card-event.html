@@ -1,9 +1,9 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 {{ $now := now.Format "2006-01-02" }}
 {{ $start := .Date.Format "2006-01-02"  }}
-{{ $eventDate := cond (ge $start $now) true false }}
+{{ $isPastEvent := true }}
 
-<article class="card card-event {{ if $eventDate }}card-event-promo{{ else }}card-event-past{{ end }} card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
+<article class="card card-event {{ if $isPastEvent }}card-event--past{{ end }} card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
   <div class="card__content">
     <div class="card__header">
       <h2 class="card__header-title" id="{{ .Title | urlize }}">
@@ -18,7 +18,7 @@
       <div class="card__body-deck">{{ .Params.deck | markdownify }}</div>
       {{- end -}}
 
-      {{ if $eventDate }}
+      {{ if $isPastEvent }}
         {{- if .Params.host -}}
         <p class="card__body-host">Hosted by Digital.gov and the {{ .Params.host }}</p>
         {{- end -}}
@@ -47,36 +47,27 @@
     </div>
   </div>
 
-  <div class="card__date">
-    {{ if $eventDate }}
-    <div class="card__date-future">
+  {{/*  Set mobile styles on aside  */}}
+  <div class="card__aside">
+    <div class="card__date">
       <span class="card__date-month">{{- dateFormat "Jan" .Date -}}</span>
       <span class="card__date-day">{{- dateFormat "02" .Date -}}</span>
-      <a
-        aria-label="Register for {{- .Params.title -}}"
-        class="card__date-register-button"
-        href="{{- .Params.registration_url -}}"
-        onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
-          Register
-      </a>
-    </div>
-    {{ else }}
-    <div class="card__date-past">
-      <div class="card__date-desktop">
-        <span class="card__date-month">{{- dateFormat "Jan" .Date -}}</span>
-        <span class="card__date-day">{{- dateFormat "02" .Date -}}</span>
+      
+      {{/*  Only add previous event label if it's a past event  */}}
+      {{/*  In CSS we can set order to -1  */}}
+      {{ if $isPastEvent }}
         <span class="card__date-label">
           Previous Event
         </span>
-      </div>
-      <div class="card__date-mobile">
-        <span class="card__date-label">
-          Previous Event
-        </span>
-        <span class="card__date-month">{{ dateFormat "Jan" .Date }}</span>
-        <span class="card__date-day">{{ dateFormat "02" .Date }}</span>
-      </div>
+      {{ else }}
+        <a
+          aria-label="Register for {{- .Params.title -}}"
+          class="card__date-register-button"
+          href="{{- .Params.registration_url -}}"
+          onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
+            Register
+        </a>
+      {{ end }}
     </div>
-    {{ end }}
   </div>
 </article>
