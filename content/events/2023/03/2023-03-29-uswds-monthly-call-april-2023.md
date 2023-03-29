@@ -1,7 +1,8 @@
 ---
 title: USWDS Monthly Call - April 2023
 kicker: USWDS
-summary: "Top tasks: What the U.S. Web Design System team did and what they found"
+deck: "Top tasks: What the U.S. Web Design System team did and what they found."
+summary: "Tune-in to learn more about what your feedback is doing for the U.S. Web Design System."
 host: U.S. Web Design System
 event_organizer: Digital.gov
 cop_events: ""
