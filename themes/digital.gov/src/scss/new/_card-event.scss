@@ -6,12 +6,13 @@
   grid-template-rows: 1fr !important;
   grid-template-areas:
     "c-content"
-    "c-date" !important;
+    "c-aside" !important;
   @include at-media("tablet") {
-    grid-template-areas: "c-content c-date" !important;
+    grid-template-areas: "c-content c-aside" !important;
     grid-template-columns: 2fr 1fr !important;
   }
   .card__content {
+    grid-area: c-content;
     @include u-display("flex");
     @include u-flex-direction("column");
     // refactor into _card.scss to update all card components from h3 to h2
@@ -92,8 +93,10 @@
       }
     }
   }
+  .card__aside {
+    grid-area: c-aside !important;
+  }
   .card__date {
-    grid-area: c-date !important;
     @include u-display("none");
     @include u-flex("column");
     @include u-flex("align-center"); //
@@ -101,17 +104,9 @@
     @include u-padding-left(2);
     @include u-border-left("1px", "indigo-warm-80", "solid");
     @include at-media("tablet") {
-      @include u-display("block");
+      display: grid;
       grid-template-areas: "d-month" "d-day" "d-register" !important;
       grid-template-rows: auto;
-    }
-    &-future {
-      @include u-display("flex");
-      @include u-flex("column");
-      @include u-flex("align-center");
-      @include u-margin(0);
-      @include u-padding-right(0);
-      @include u-width("auto");
     }
     &-month {
       grid-area: d-month;
@@ -145,9 +140,9 @@
       }
     }
     &-register-button {
-      @include u-display("none");
-      @include u-flex("align-center");
       grid-area: d-register;
+      justify-self: center;
+      @include u-flex("align-center");
       @include u-display("block");
       @include u-border("2px", "primary-vivid", "solid");
       @include u-radius("sm");
@@ -164,11 +159,15 @@
         width: 80%;
       }
     }
-    &:hover {
-      .card__body-register-button {
-        @include u-bg("primary-vivid");
-        @include u-text("white");
-      }
+  }
+  &:hover {
+    .card__body-register-button {
+      @include u-bg("primary-vivid");
+      @include u-text("white");
+    }
+    .card__date-register-button {
+      @include u-bg("primary-vivid");
+      @include u-text("white");
     }
   }
 }
@@ -177,42 +176,70 @@
 // Variants
 // ==========================================================================
 
-//
-// Upcoming events
-// ==========================================================================
-.card-event-promo {
-}
-
 // Past events
 // ==========================================================================
-.card-event-past {
+.card-event--past {
   @include u-border-top(0);
-  .card__date {
+  .card__aside {
     @include u-display("block");
     @include u-border-left(0);
     @include u-padding-left(0);
+  }
+  .card__date {
+    @include u-display("flex");
+    @include u-flex-direction("row");
+    @include u-padding-left(0);
+    @include u-text("gray-cool-50");
+    @include u-text(600);
+    transition: color 0.25s;
+    @include u-border(0);
+    justify-content: center;
+    @include u-border("2px", "gray-cool-50", "solid");
+    @include u-radius("sm");
     @include at-media("tablet") {
-      @include u-border-left("1px", "indigo-warm-80", "solid");
       @include u-padding-left(2);
-    }
-    &-past {
-      @include u-padding-left(0);
-      @include u-text("gray-cool-50");
-      @include u-text(600);
-      transition: color 0.25s;
-    }
-    &-desktop {
-      display: none;
+      @include u-border(0);
+      @include u-border-left("1px", "indigo-warm-80", "solid");
       @include at-media("tablet") {
         display: grid;
         grid-template-areas: "d-month" "d-day" "d-description" !important;
         grid-template-rows: auto;
+        justify-content: normal;
       }
-      .card__date-month {
+    }
+    &-month {
+      font-size: inherit;
+      font-weight: inherit;
+      padding-left: 0.5ch;
+      text-transform: none;
+      @include at-media("tablet") {
+        display: block;
+        @include u-padding-right(0);
+        @include u-font("sans", "xl");
+        @include u-text(800);
+        @include u-text("bold");
+        @include u-text("uppercase");
+      }
+    }
+    &-day {
+      font-size: inherit;
+      font-weight: inherit;
+      text-transform: none;
+      line-height: inherit;
+      @include u-padding-left(0);
+      @include at-media("tablet") {
+        display: block;
+        @include u-font("sans", "2xl");
+        @include u-line-height("sans", 1);
+        @include u-padding-left(1);
+        @include u-margin-bottom(0);
+        @include u-text("thin");
+        @include u-text(100);
+        font-size: 5rem;
       }
     }
     &-label {
-      @include u-display("block");
+      @include u-display("none");
       @include u-padding(0);
       @include u-bg("white");
       @include u-radius("sm");
@@ -223,45 +250,21 @@
       width: 80%;
       justify-self: center;
       transition: border 0.25s, color 0.25s;
-    }
-    &-mobile {
-      grid-area: d-description;
-      @include u-display("flex");
-      @include u-flex-direction("row");
-      justify-content: center;
-      @include u-padding(0);
-      @include u-radius("sm");
-      @include u-bg("white");
-      @include u-text("gray-cool-50");
-      @include u-text("center");
-      @include u-font("sans", "sm");
-      @include u-border("2px", "gray-cool-50", "solid");
-      transition: background-color 0.25s, color 0.25s;
-      width: 100%;
+      @include u-display("none");
       @include at-media("tablet") {
-        @include u-display("none");
+        @include u-display("block");
       }
-      .card__date-label {
-        @include u-border(0);
-        @include u-width("auto");
-      }
-      .card__date-month {
-        font-size: inherit;
-        font-weight: inherit;
-        padding-left: 0.5ch;
-        text-transform: none;
-      }
-      .card__date-day {
-        font-size: inherit;
-        font-weight: inherit;
-        text-transform: none;
-        line-height: inherit;
-        @include u-padding-left(0);
+    }
+
+    &--mobile-label {
+      display: block;
+      @include at-media("tablet") {
+        display: none;
       }
     }
   }
   &:hover {
-    .card__date-past {
+    .card__date {
       @include u-text("gray-cool-60");
     }
     .card__date-label {

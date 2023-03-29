@@ -1,9 +1,9 @@
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 {{ $now := now.Format "2006-01-02" }}
 {{ $start := .Date.Format "2006-01-02"  }}
-{{ $isPastEvent := true }}
+{{ $isPastEvent := cond (lt $start $now) true false }}
 
-<article class="card card-event {{ if $isPastEvent }}card-event--past{{ end }} card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
+<article class="card card-event {{ if $isPastEvent }}card-event--past {{ end }}card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
   <div class="card__content">
     <div class="card__header">
       <h2 class="card__header-title" id="{{ .Title | urlize }}">
@@ -11,6 +11,7 @@
       </h2>
     </div>
 
+    <!-- {{ printf "%#v" $isPastEvent }} -->
     <div class="card__body">
       {{- if .Params.summary -}}
       <div class="card__body-summary">{{ .Params.summary | markdownify }}</div>
@@ -19,20 +20,6 @@
       {{- end -}}
 
       {{ if $isPastEvent }}
-        {{- if .Params.host -}}
-        <p class="card__body-host">Hosted by Digital.gov and the {{ .Params.host }}</p>
-        {{- end -}}
-
-        <a
-          aria-label="Register for {{- .Params.title -}}"
-          class="card__body-register-button"
-          href="{{- .Params.registration_url -}}"
-          onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
-            Register
-            <span class="card__body-register-date-month">{{- dateFormat "Jan" .Date -}}</span>
-            <span class="card__body-register-date-day">{{- dateFormat "02" .Date -}}</span>
-        </a>
-      {{ else }}
         {{- partial "core/get_authors_short.html" . -}}
         {{- if .Params.kicker -}}
         <div class="flex-align-end card__body-kicker">
@@ -43,22 +30,47 @@
           <div class="card__body-kicker">Video</div>
           {{- end -}}
         {{- end -}}
+
+      {{ else }}
+        {{- if .Params.host -}}
+        <p class="card__body-host">Hosted by Digital.gov and the {{ .Params.host }}</p>
+        {{- end -}}
+
+        <a
+          aria-label="Register for {{- .Params.title -}}"
+          class="card__body-register-button"
+          href="{{- .Params.registration_url -}}"
+          onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
+            Register for
+            <span class="card__body-register-date-month">{{- dateFormat "Jan" .Date -}}</span>
+            <span class="card__body-register-date-day">{{- dateFormat "02" .Date -}}</span>
+        </a>
       {{ end }}
     </div>
   </div>
 
-  {{/*  Set mobile styles on aside  */}}
   <div class="card__aside">
     <div class="card__date">
+      {{ if $isPastEvent }}
+      <span class="card__date--mobile-label">
+        Event Held on
+      </span>
+      {{ end }}
       <span class="card__date-month">{{- dateFormat "Jan" .Date -}}</span>
       <span class="card__date-day">{{- dateFormat "02" .Date -}}</span>
       
-      {{/*  Only add previous event label if it's a past event  */}}
-      {{/*  In CSS we can set order to -1  */}}
       {{ if $isPastEvent }}
         <span class="card__date-label">
           Previous Event
         </span>
+
+        <!-- <div class="card__date--mobile">
+          <span class="card__date--mobile-label">
+            Event Held on
+          </span>
+          <span class="card__date--mobile-month">{{- dateFormat "Jan" .Date -}}</span>
+          <span class="card__date--mobile-day">{{- dateFormat "02" .Date -}}</span> 
+        </div> -->
       {{ else }}
         <a
           aria-label="Register for {{- .Params.title -}}"
