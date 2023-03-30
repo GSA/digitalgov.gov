@@ -17,8 +17,6 @@
     @include u-flex-direction("column");
     // refactor into _card.scss to update all card components from h3 to h2
     .card__header {
-      &-kicker {
-      }
       &-title {
         @include u-font("sans", "lg");
         @include u-margin(0);
@@ -41,7 +39,7 @@
       @include u-display("flex");
       @include u-flex-direction("column");
       flex-basis: 100%;
-      &-summary,
+      // &-summary {},
       &-deck {
         @include u-margin-top(1);
         @include u-line-height("sans", 3);
@@ -72,11 +70,15 @@
           @include u-padding-bottom(2);
         }
       }
+
       &-register-button {
         grid-area: d-register;
         @include u-display("inline");
         @include u-flex("align-center");
         @include u-display("block");
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
         @include u-border("2px", "primary-vivid", "solid");
         @include u-radius("sm");
         @include u-bg("white");
@@ -91,72 +93,93 @@
           @include u-display("none");
         }
       }
+      &-register-datetime {
+        display: flex;
+        flex-direction: row;
+      }
+      &-register-date-month {
+        padding-left: 0.5ch;
+      }
+      &-register-date-day {
+        padding-left: 0.5ch;
+      }
     }
   }
   .card__aside {
     grid-area: c-aside !important;
-  }
-  .card__date {
-    @include u-display("none");
-    @include u-flex("column");
-    @include u-flex("align-center"); //
-    @include u-width("auto"); //
-    @include u-padding-left(2);
-    @include u-border-left("1px", "indigo-warm-80", "solid");
-    @include at-media("tablet") {
-      display: grid;
-      grid-template-areas: "d-month" "d-day" "d-register" !important;
-      grid-template-rows: auto;
-    }
-    &-month {
-      grid-area: d-month;
-      justify-self: end;
-      @include u-padding-right(0.5);
-      @include u-font("sans", "sm");
-      @include u-text("bold");
-      @include u-text("uppercase");
+
+    &-datetime {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
       @include at-media("tablet") {
-        justify-self: center;
-        @include u-padding-right(0);
-        @include u-font("sans", "xl");
-        @include u-text(800);
+        flex-direction: column;
       }
     }
-    &-day {
-      grid-area: d-day;
-      justify-self: start;
-      @include u-font("sans", "2xl");
-      @include u-line-height("sans", 1);
-      @include u-padding-left(1);
-      @include u-margin-bottom(0);
-      @include u-text("thin");
-      @include u-text(100);
+
+    &-date {
+      @include u-display("none");
+      @include u-flex("column");
+      @include u-flex("align-center"); //
+      @include u-width("auto"); //
+      @include u-padding-left(2);
+      @include u-border-left("1px", "indigo-warm-80", "solid");
       @include at-media("tablet") {
-        justify-self: center;
-        font-size: 5rem;
-        @include u-padding-left(0);
-        @include u-padding-bottom(1.5);
-        @include u-margin-top(-1);
+        display: grid;
+        grid-template-areas: "d-month" "d-day" "d-register" !important;
+        grid-template-rows: auto;
       }
-    }
-    &-register-button {
-      grid-area: d-register;
-      justify-self: center;
-      @include u-flex("align-center");
-      @include u-display("block");
-      @include u-border("2px", "primary-vivid", "solid");
-      @include u-radius("sm");
-      @include u-bg("white");
-      @include u-padding(0);
-      @include u-font("sans", "sm");
-      @include u-text("primary-vivid");
-      @include u-text("center");
-      @include u-text("no-underline");
-      transition: background-color 0.25s, color 0.25s;
-      width: 100%;
-      @include at-media("tablet") {
+      
+      &-month {
+        grid-area: d-month;
+        justify-self: end;
+        @include u-padding-right(0.5);
+        @include u-font("sans", "sm");
+        @include u-text("bold");
+        @include u-text("uppercase");
+        @include at-media("tablet") {
+          justify-self: center;
+          @include u-padding-right(0);
+          @include u-font("sans", "xl");
+          @include u-text(800);
+        } 
+      }
+      &-day {
+        grid-area: d-day;
+        justify-self: start;
+        @include u-font("sans", "2xl");
+        @include u-line-height("sans", 1);
+        @include u-padding-left(1);
+        @include u-margin-bottom(0);
+        @include u-text("thin");
+        @include u-text(100);
+        @include at-media("tablet") {
+          justify-self: center;
+          font-size: 5rem;
+          @include u-padding-left(0);
+          @include u-padding-bottom(1.5);
+          @include u-margin-top(-1);
+        }
+      }
+      &-register-button {
+        grid-area: d-register;
+        justify-self: center;
+        @include u-flex("align-center");
         @include u-display("block");
-        width: 80%;
+        @include u-border("2px", "primary-vivid", "solid");
+        @include u-radius("sm");
+        @include u-bg("white");
+        @include u-padding(0);
+        @include u-font("sans", "sm");
+        @include u-text("primary-vivid");
+        @include u-text("center");
+        @include u-text("no-underline");
+        transition: background-color 0.25s, color 0.25s;
+        width: 100%;
+        @include at-media("tablet") {
+          @include u-display("block");
+          width: 80%;
+        }
       }
     }
   }
@@ -184,82 +207,82 @@
     @include u-display("block");
     @include u-border-left(0);
     @include u-padding-left(0);
-  }
-  .card__date {
-    @include u-display("flex");
-    @include u-flex-direction("row");
-    @include u-padding-left(0);
-    @include u-text("gray-cool-50");
-    @include u-text(600);
-    transition: color 0.25s;
-    @include u-border(0);
-    justify-content: center;
-    @include u-border("2px", "gray-cool-50", "solid");
-    @include u-radius("sm");
-    @include at-media("tablet") {
-      @include u-padding-left(2);
-      @include u-border(0);
-      @include u-border-left("1px", "indigo-warm-80", "solid");
-      @include at-media("tablet") {
-        display: grid;
-        grid-template-areas: "d-month" "d-day" "d-description" !important;
-        grid-template-rows: auto;
-        justify-content: normal;
-      }
-    }
-    &-month {
-      font-size: inherit;
-      font-weight: inherit;
-      padding-left: 0.5ch;
-      text-transform: none;
-      @include at-media("tablet") {
-        display: block;
-        @include u-padding-right(0);
-        @include u-font("sans", "xl");
-        @include u-text(800);
-        @include u-text("bold");
-        @include u-text("uppercase");
-      }
-    }
-    &-day {
-      font-size: inherit;
-      font-weight: inherit;
-      text-transform: none;
-      line-height: inherit;
-      @include u-padding-left(0);
-      @include at-media("tablet") {
-        display: block;
-        @include u-font("sans", "2xl");
-        @include u-line-height("sans", 1);
-        @include u-padding-left(1);
-        @include u-margin-bottom(0);
-        @include u-text("thin");
-        @include u-text(100);
-        font-size: 5rem;
-      }
-    }
-    &-label {
-      @include u-display("none");
-      @include u-padding(0);
-      @include u-bg("white");
-      @include u-radius("sm");
-      @include u-border("2px", "gray-cool-50", "solid");
-      @include u-font("sans", "sm");
-      @include u-text("gray-cool-50");
-      @include u-text("center");
-      width: 80%;
-      justify-self: center;
-      transition: border 0.25s, color 0.25s;
-      @include u-display("none");
-      @include at-media("tablet") {
-        @include u-display("block");
-      }
-    }
 
-    &--mobile-label {
-      display: block;
+    &-date {
+      @include u-display("flex");
+      @include u-flex-direction("row");
+      @include u-padding-left(0);
+      @include u-text("gray-cool-50");
+      @include u-text(600);
+      transition: color 0.25s;
+      @include u-border(0);
+      justify-content: center;
+      @include u-border("2px", "gray-cool-50", "solid");
+      @include u-radius("sm");
       @include at-media("tablet") {
-        display: none;
+        @include u-padding-left(2);
+        @include u-border(0);
+        @include u-border-left("1px", "indigo-warm-80", "solid");
+        @include at-media("tablet") {
+          display: grid;
+          grid-template-areas: "d-month" "d-day" "d-description" !important;
+          grid-template-rows: auto;
+          justify-content: normal;
+        }
+      }
+      &-month {
+        font-size: inherit;
+        font-weight: inherit;
+        padding-left: 0.5ch;
+        text-transform: none;
+        @include at-media("tablet") {
+          display: block;
+          @include u-padding-right(0);
+          @include u-font("sans", "xl");
+          @include u-text(800);
+          @include u-text("bold");
+          @include u-text("uppercase");
+        }
+      }
+      &-day {
+        font-size: inherit;
+        font-weight: inherit;
+        text-transform: none;
+        line-height: inherit;
+        @include u-padding-left(0);
+        @include at-media("tablet") {
+          display: block;
+          @include u-font("sans", "2xl");
+          @include u-line-height("sans", 1);
+          @include u-padding-left(1);
+          @include u-margin-bottom(0);
+          @include u-text("thin");
+          @include u-text(100);
+          font-size: 5rem;
+        }
+      }
+      &-label {
+        @include u-display("none");
+        @include u-padding(0);
+        @include u-bg("white");
+        @include u-radius("sm");
+        @include u-border("2px", "gray-cool-50", "solid");
+        @include u-font("sans", "sm");
+        @include u-text("gray-cool-50");
+        @include u-text("center");
+        width: 80%;
+        justify-self: center;
+        transition: border 0.25s, color 0.25s;
+        @include u-display("none");
+        @include at-media("tablet") {
+          @include u-display("block");
+        }
+      }
+      &--mobile-label {
+        display: block;
+        @include at-media("tablet") {
+          display: none;
+        }
       }
     }
   }
