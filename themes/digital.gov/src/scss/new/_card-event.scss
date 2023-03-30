@@ -39,7 +39,6 @@
       @include u-display("flex");
       @include u-flex-direction("column");
       flex-basis: 100%;
-      // &-summary {},
       &-deck {
         @include u-margin-top(1);
         @include u-line-height("sans", 3);
@@ -73,11 +72,9 @@
 
       &-register-button {
         grid-area: d-register;
-        @include u-display("inline");
+        @include u-display("flex");
+        @include u-flex-direction("row");
         @include u-flex("align-center");
-        @include u-display("block");
-        display: flex;
-        flex-direction: row;
         justify-content: center;
         @include u-border("2px", "primary-vivid", "solid");
         @include u-radius("sm");
@@ -94,8 +91,8 @@
         }
       }
       &-register-datetime {
-        display: flex;
-        flex-direction: row;
+        @include u-display("flex");
+        @include u-flex-direction("row")
       }
       &-register-date-month {
         padding-left: 0.5ch;
@@ -109,11 +106,11 @@
     grid-area: c-aside !important;
 
     &-datetime {
-      display: flex;
-      flex-direction: row;
-      align-items: center;
+      @include u-display("flex");
+      @include u-flex-direction("row");
+      @include u-flex("align-center");
       @include at-media("tablet") {
-        flex-direction: column;
+        @include u-flex-direction("column")
       }
     }
 
@@ -212,13 +209,14 @@
       @include u-display("flex");
       @include u-flex-direction("row");
       @include u-padding-left(0);
-      @include u-text("gray-cool-50");
-      @include u-text(600);
-      transition: color 0.25s;
-      @include u-border(0);
       justify-content: center;
+      @include u-text("gray-cool-50");
+      @include u-text("normal");
+      @include u-font("sans", "sm");
+      @include u-border(0); // reset inherited styles from card-event 
       @include u-border("2px", "gray-cool-50", "solid");
       @include u-radius("sm");
+      transition: color 0.25s;
       @include at-media("tablet") {
         @include u-padding-left(2);
         @include u-border(0);
@@ -236,7 +234,7 @@
         padding-left: 0.5ch;
         text-transform: none;
         @include at-media("tablet") {
-          display: block;
+          @include u-display("block");
           @include u-padding-right(0);
           @include u-font("sans", "xl");
           @include u-text(800);
@@ -251,7 +249,7 @@
         line-height: inherit;
         @include u-padding-left(0);
         @include at-media("tablet") {
-          display: block;
+          @include u-display("block");
           @include u-font("sans", "2xl");
           @include u-line-height("sans", 1);
           @include u-padding-left(1);
@@ -279,9 +277,9 @@
         }
       }
       &--mobile-label {
-        display: block;
+        @include u-display("block");
         @include at-media("tablet") {
-          display: none;
+          @include u-display("none");
         }
       }
     }
