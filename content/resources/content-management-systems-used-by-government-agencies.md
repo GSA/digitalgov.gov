@@ -213,7 +213,7 @@ We do our best to keep the list current based on information we get from agencie
 - U.S. Embassy Websites (WordPress)
 - IRM Business Center (In-house [PortalX 1.3])
 
-[Tennessee Valley Authority](http://www.tva.gov/) (Dreamweaver/WordPress)
+[Tennessee Valley Authority](https://www.tva.gov/) (Sitefinity)
 
 [Transportation](http://www.dot.gov/) (Drupal)
 
