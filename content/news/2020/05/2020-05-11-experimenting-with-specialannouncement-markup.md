@@ -26,6 +26,7 @@ topics:
   - cx
   - metadata
   - search-engine-optimization
+  - public-safety
 
 # Make it better ♥
 

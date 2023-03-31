@@ -21,7 +21,7 @@ Performance Analytics for Social Media Decision Making. Creating Adaptive Conten
 
 After taking a look at the [most widely attended events in 2014]({{< ref "2015-01-23-training-trends-in-2014.md" >}} "Training Trends in 2014"), we decided to gather ideas we received from community and program leads for our 2015 events lineup through DigitalGov University (DGU).
 
-{{< legacy-img-right src="2015/01/250-x-165-light-bulb-Blank-calendar-ideas-concept-Violka08-iStock-Thinkstock-462210643.jpg" alt="Calendar on a light bulb ideas concept" caption="" >}}
+{{< legacy-img-right src="2015/01/250-x-165-light-bulb-Blank-calendar-ideas-concept-Violka08-iStock-Thinkstock-462210643.jpg" alt="Calendar on a light bulb ideas concept" caption="Violka08, iStock, Thinkstock" >}}
 
 We've identified primary needs in each community, but this is just the top of the line-up because we will continue to offer just-in-time training on the things you need when you need it. We will also host [Mobile Around the Horn calls]({{< tmp "events/mobilegov-community-of-practice-check-in-reveal-december-around-the-horn-call.md" >}} "MobileGov Community of Practice Check-In Reveal: December Around-the-Horn Call"), #SocialGov Summits "U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media"), [UX CoP]({{< ref "2014-02-03-what-happened-at-our-user-experience-summit-with-slides.md" >}} "What Happened at Our User Experience Summit - with slides!") events and other ongoing events you look forward to attending.
 

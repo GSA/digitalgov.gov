@@ -5,7 +5,7 @@
 slug: "office-of-products-and-programs"
 
 # Topic Title
-title: "Office Of Products And Programs"
+title: "Office of Products and Programs"
 
 # description — keep it short and clear
 summary: ""

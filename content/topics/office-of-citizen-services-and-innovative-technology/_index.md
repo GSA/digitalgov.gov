@@ -5,7 +5,7 @@
 slug: "office-of-citizen-services-and-innovative-technology"
 
 # Topic Title
-title: "Office Of Citizen Services And Innovative Technology"
+title: "Office of Citizen Services and Innovative Technology (OCSIT)"
 
 # description — keep it short and clear
 summary: ""

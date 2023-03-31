@@ -51,7 +51,7 @@ The Communicators community was established in recognition that communication is
 
 ## What We Do
 
-Governmeent communicators have relied on this community for best practices, training and networking for almost 30 years.
+Government communicators have relied on this community for best practices, training and networking for almost 30 years.
 
 ## Who We Are
 

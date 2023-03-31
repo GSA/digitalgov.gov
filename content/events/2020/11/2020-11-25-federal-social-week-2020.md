@@ -12,6 +12,7 @@ end_date: 2020-12-11 15:00:00 -0500
 topics:
   - social-media
   - socialgov
+  - podcast
   - socialgov-community
   - social-media-metrics
   - writing
@@ -26,9 +27,13 @@ authors:
   - tanner-iskra
 slug: federal-social-week-2020
 
+# YouTube ID
+youtube_id: GY5uoQt6sZ0
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: social-media-week-2020
+
 ---
 
 Join SocialGov for a week of afternoon sessions on all things federal social media! We’ll be hearing from the best federal government accounts on how they get the job done in the most creative, engaging way possible.
@@ -43,11 +48,9 @@ Join SocialGov for a week of afternoon sessions on all things federal social med
 
 When’s the best time to tweet? The USAGov team behind @USAGovEspanol experimented with Twitter to ensure they’re reaching the right people at the right time with valuable content. Hear some takeaways and lessons learned in rethinking the team's strategy.
 
-In this session you will hear from the following speakers: 
+In this session you will hear from: 
 
 * Carolina Landsberger and Andres Quinones Ortiz, USAGov Outreach Team, U.S. General Services Administration (GSA)
-
-{{< youtube GY5uoQt6sZ0 >}}
 
 ## Session Two
 
@@ -108,7 +111,7 @@ In this session you will hear from:
 
 Hear how the U.S. Department of State's TravelGov team has adapted their Instagram strategy with travel being restricted during COVID-19! 
 
-In this session you will hear from the following speakers: 
+In this session you will hear from: 
 
 * Alyssa Zalenski, Digital Content Manager, Bureau of Consular Affairs
 
