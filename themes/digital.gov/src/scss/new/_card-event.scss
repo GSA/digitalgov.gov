@@ -229,7 +229,7 @@
 // Past events
 // ==========================================================================
 .card-event--past {
-  @include u-border-top(0);
+  @include u-border-top("2px", "transparent", "solid");
   .card-event__date-label {
     display: none;
     @include at-media("tablet") {
