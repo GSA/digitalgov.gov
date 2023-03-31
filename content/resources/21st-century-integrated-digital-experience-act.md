@@ -24,7 +24,7 @@ authors:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 2
+weight: 1
 
 # primary Image (for social media)
 primary_image: "21st-century-idea-resource-card"
