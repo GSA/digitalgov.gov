@@ -16,7 +16,7 @@ jQuery(function ($) {
     if (branch == "main") {
       branchpath = "";
     } else {
-      branchpath = "/" + branch;
+      branchpath = `/${branch}`;
     }
     var commit_api_path = `https://api.github.com/repos/${git_org}/${git_repo}/commits${branchpath}?path=/content/${filepath}`;
     if (commit_api_path !== undefined) {
@@ -42,38 +42,17 @@ jQuery(function ($) {
     var branch_link = get_branch_link(branch);
     var commit_data = Array.isArray(data) ? data[0] : data;
     var commit_date = commit_data.commit.committer.date;
-    var commit_author = (commit_data.author || {}).login;
-    var commit_author_url = `https://github.com/${commit_author}`;
     var commit_history_url = `https://github.com/GSA/digitalgov.gov/commits/${branch}/content/${filepath}`;
-    if (commit_author) {
-      last_commit = [
-        branch_link,
-        `<p>Last updated by
-          <a href="${commit_author_url}" title="${commit_author}">
-          <span class="commit-author">${commit_author}</span>
-          </a> on <a href="${commit_history_url}"><span class="commit-date">${formatDate(
-          commit_date
-        )}</span>
-        </a></p>`,
-      ];
-    } else {
-      last_commit = [
-        branch_link,
-        `<p>Last updated on <a href=${commit_history_url}>
-          <span class='commit-date'>${formatDate(commit_date)}</span>
-        </a></p>`,
-      ];
-    }
+
+    last_commit = [
+      branch_link,
+      `<p>Last updated on <a href=${commit_history_url}>
+        <span class='commit-date'>${formatDate(commit_date)}</span>
+      </a></p>`,
+    ];
+
     $(".edit_file").each(function (i, items_list) {
       $(this).append(last_commit.join("\n"));
-    });
-  }
-
-  function show_branch_last_commit(data, branch) {
-    var branch_link = get_branch_link(branch);
-    var last_commit = [branch_link].join("\n");
-    $(".edit_file").each(function (i, items_list) {
-      $(this).append(last_commit).removeClass("hidden");
     });
   }
 });
