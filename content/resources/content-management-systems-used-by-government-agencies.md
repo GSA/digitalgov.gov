@@ -224,7 +224,7 @@ We do our best to keep the list current based on information we get from agencie
 - [Office of the Comptroller of the Currency](http://occ.gov/) (Commercial Product/SharePoint)
 - U.S. Mint (None [Intranet])
 
-[United States Agency for International Development](http://www.usaid.gov/) (Documentum)
+[United States Agency for International Development](http://www.usaid.gov/) (Drupal)
 
 U.S. Congress, [Congressional Budget Office](https://www.cbo.gov/) (Drupal public website, SharePoint intranet)
 
