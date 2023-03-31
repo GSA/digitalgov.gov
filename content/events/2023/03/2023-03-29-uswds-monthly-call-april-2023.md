@@ -14,7 +14,7 @@ topics:
   - uswds
 slug: uswds-monthly-call-april-2023
 date: 2023-04-20 14:00:00 -0500
-end_date: 2023-04-20 13:00:00 -0500
+end_date: 2023-04-20 15:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-april-title-card
