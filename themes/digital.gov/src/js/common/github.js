@@ -40,7 +40,7 @@ jQuery(function ($) {
 
   function show_last_commit(data, branch) {
     var branch_link = get_branch_link(branch);
-    var commit_data = $.isArray(data) ? data[0] : data;
+    var commit_data = Array.isArray(data) ? data[0] : data;
     var commit_date = commit_data.commit.committer.date;
     var commit_author = (commit_data.author || {}).login;
     var commit_author_url = `https://github.com/${commit_author}`;
