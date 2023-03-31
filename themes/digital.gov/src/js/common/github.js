@@ -76,50 +76,6 @@ jQuery(function ($) {
       $(this).append(last_commit).removeClass("hidden");
     });
   }
-
-  function getFormattedDate(d) {
-    var date = new Date(d);
-    date.setUTCHours(date.getUTCHours() - 4);
-    var monthNames = [
-      "Jan",
-      "Feb",
-      "Mar",
-      "Apr",
-      "May",
-      "Jun",
-      "Jul",
-      "Aug",
-      "Sep",
-      "Oct",
-      "Nov",
-      "Dec",
-    ];
-    var year = date.getUTCFullYear();
-    var month = date.getUTCMonth().toString();
-    var hours;
-    month = monthNames[month];
-    var day = date.getUTCDate().toString();
-    day = day.length > 1 ? day : "0" + day;
-    var globalhours = parseInt(date.getUTCHours().toString());
-    if (globalhours === 0) {
-      hours = 12;
-    } else if (globalhours > 12) {
-      hours = globalhours - 12;
-    } else {
-      hours = globalhours;
-    }
-    var minutes = date.getUTCMinutes().toString();
-    minutes = minutes.length > 1 ? minutes : "0" + minutes;
-    var seconds = date.getUTCSeconds().toString();
-    var ampm;
-    if (globalhours > 11) {
-      ampm = "pm";
-    } else {
-      ampm = "am";
-    }
-    var date_string = `${month} ${day}, ${year} at ${hours}:${minutes} ${ampm} ET`;
-    return date_string;
-  }
 });
 
 function formatDate(timezone_date) {
