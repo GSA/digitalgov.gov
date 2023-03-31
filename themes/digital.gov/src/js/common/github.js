@@ -139,6 +139,9 @@ function formatDate(timezone_date) {
   };
 
   const output_date = input_date.toLocaleDateString(undefined, dateOptions);
-  const output_time = input_date.toLocaleTimeString("en-US", timeOptions).replace('AM', 'a.m.,').replace('PM', 'p.m.,');
+  const output_time = input_date
+    .toLocaleTimeString("en-US", timeOptions)
+    .replace("AM", "a.m.,")
+    .replace("PM", "p.m.,");
   return `${output_date} at ${output_time}`;
 }
