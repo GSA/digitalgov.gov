@@ -4,7 +4,7 @@ jQuery(function ($) {
     // editpathURL is set the <head>
     if (editpathURL !== undefined) {
       // Build the edit link
-      var edit = `<a target='_blank' class='edit_file_link' href='${editpathURL}' title='Edit in GitHub'><span>Edit</span></a>`;
+      var edit = `<a target='_blank' class='edit_file_link' href='${editpathURL}' title='Edit in GitHub'>Edit</a>`;
 
       // Insert the .edit_file_link html into the .edit_file div and remove the .hidden class
       $("#page-data .edit_file").html(edit).removeClass("hidden");
