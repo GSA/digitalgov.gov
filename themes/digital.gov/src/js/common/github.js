@@ -48,10 +48,8 @@ jQuery(function ($) {
     if (commit_author) {
       last_commit = [
         branch_link,
-        `<p>Last updated by
-          <a href="${commit_author_url}" title="${commit_author}">
-          <span class="commit-author">${commit_author}</span>
-          </a> on <a href="${commit_history_url}"><span class="commit-date">${formatDate(
+        `<p>Last updated
+         on <a href="${commit_history_url}"><span class="commit-date">${formatDate(
           commit_date
         )}</span>
         </a></p>`,
