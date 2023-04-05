@@ -1,31 +1,23 @@
 @use "uswds-core" as *;
 
 .card-event {
-  @include u-border-top("2px", "primary-darker", "solid");
-  column-gap: units("205"); // Gives border consistent spacing on both sides
-  grid-template-rows: 1fr !important;
   grid-template-areas:
     "c-main"
-    "c-aside" !important;
+    "c-aside";
 
   @include at-media("tablet") {
-    grid-template-areas: "c-main c-aside" !important;
-    grid-template-columns: 2fr 1fr !important;
+    grid-template-areas: "c-main c-aside";
+    grid-template-columns: 2fr 1fr;
+    column-gap: units("205"); // Gives border consistent spacing on both sides
   }
 
   &__main {
-    @include u-display("flex");
-    @include u-flex-direction("column");
-    grid-area: c-main !important;
+    grid-area: c-main;
   }
 
   &__aside {
-    @include u-flex("column");
-    @include u-flex("align-center");
     @include u-width("auto");
-    @include u-padding-left(0);
-    @include u-border-left(0);
-    grid-area: c-aside !important;
+    grid-area: c-aside;
 
     @include at-media("tablet") {
       @include u-padding-left(2);
@@ -54,12 +46,6 @@
     }
   }
 
-  &__body {
-    @include u-display("flex");
-    @include u-flex-direction("column");
-    flex-basis: 100%;
-  }
-
   &__deck {
     @include u-margin-top(1);
     @include u-line-height("sans", 3);
@@ -83,8 +69,7 @@
     @include u-color("primary-vivid");
 
     @include at-media("tablet") {
-      @include u-display("flex");
-      flex-basis: 100%;
+      display: block;
     }
   }
 
@@ -95,39 +80,7 @@
     @include u-line-height("sans", 1);
   }
 
-  &__cta {
-    @include u-display("flex");
-    @include u-flex-direction("row");
-    @include u-flex("align-center");
-    @include u-border("2px", "primary-vivid", "solid");
-    @include u-radius("sm");
-    @include u-bg("white");
-    @include u-padding(0);
-    @include u-font("sans", "sm");
-    @include u-text("primary-vivid");
-    @include u-text("center");
-    @include u-text("no-underline");
-    grid-area: d-cta;
-    justify-content: center;
-    transition: background-color 0.25s, color 0.25s;
-    width: 100%;
-
-    @include at-media("tablet") {
-      @include u-display("none");
-    }
-  }
-
-  &__date {
-    @include at-media("tablet") {
-      display: grid;
-      grid-template-areas: "d-month" "d-day" "d-cta" !important;
-      grid-template-rows: auto;
-    }
-  }
-
   &__date-label {
-    @include u-display("flex");
-    @include u-flex-direction("row");
     @include u-padding-left(0);
     @include u-text("gray-cool-50");
     @include u-text("normal");
@@ -135,9 +88,8 @@
     @include u-border(0); // reset inherited styles from card-event
     @include u-border-top("2px", "gray-cool-50", "solid");
     @include u-radius("sm");
+    @include u-margin-x("auto");
     width: 80%;
-    justify-content: center;
-    justify-self: center;
 
     &--mobile {
       @include u-display("block");
@@ -153,7 +105,6 @@
 
     @include at-media("tablet") {
       @include u-display("flex");
-      @include u-flex-direction("row");
       @include u-flex("align-center");
       @include u-flex-direction("column");
     }
@@ -177,15 +128,11 @@
     }
 
     &-month {
-      @include u-font("sans", "sm");
-      @include u-text("bold");
-      @include u-text("uppercase");
-      grid-area: d-month;
-      justify-self: end;
-
       @include at-media("tablet") {
         @include u-padding-right(0);
         @include u-font("sans", "xl");
+        @include u-text("bold");
+        @include u-text("uppercase");
         @include u-text(800);
         justify-self: center;
       }
@@ -196,21 +143,18 @@
       @include u-line-height("sans", 1);
       @include u-margin-bottom(0);
       @include u-text("thin");
-      @include u-text(100);
-      grid-area: d-day;
       justify-self: start;
 
       @include at-media("tablet") {
-        @include u-padding-left(0);
         @include u-padding-bottom(1.5);
         @include u-margin-top(-1);
-        justify-self: center;
         font-size: 5rem;
       }
     }
   }
+
+  // @TODO: Refactor into a button variant
   &__cta {
-    @include u-flex("align-center");
     @include u-display("block");
     @include u-border("2px", "primary-vivid", "solid");
     @include u-radius("sm");
@@ -220,21 +164,18 @@
     @include u-text("primary-vivid");
     @include u-text("center");
     @include u-text("no-underline");
-    grid-area: d-cta;
-    justify-self: center;
     transition: background-color 0.25s, color 0.25s;
     width: 100%;
 
     @include at-media("tablet") {
       @include u-display("block");
+      margin-right: auto;
+      margin-left: auto;
       width: 80%;
     }
   }
+
   &:hover {
-    .card-event__cta {
-      @include u-bg("primary-vivid");
-      @include u-text("white");
-    }
     .card-event__cta {
       @include u-bg("primary-vivid");
       @include u-text("white");
@@ -249,13 +190,12 @@
 // Past events
 // ==========================================================================
 .card-event--past {
-  @include u-border-top("2px", "transparent", "solid");
-
   .card-event__date-label {
     display: none;
 
     @include at-media("tablet") {
       display: flex;
+      justify-content: center;
     }
   }
 
