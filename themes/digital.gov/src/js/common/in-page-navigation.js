@@ -6,11 +6,9 @@ document.addEventListener("DOMContentLoaded", () => {
     "li.usa-in-page-nav__item:not(.usa-in-page-nav__item--sub-item)"
   );
 
-  if (inPageNav) {
-    if (navItems.length < 3) {
-      inPageNav.style.display = "none";
-      return;
-    }
+  if (inPageNav && navItems.length < 3) {
+    inPageNav.style.display = "none";
+    return;
   }
 
   if (!relatedItems) {
