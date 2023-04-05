@@ -7,22 +7,25 @@
   grid-template-areas:
     "c-main"
     "c-aside" !important;
+
   @include at-media("tablet") {
     grid-template-areas: "c-main c-aside" !important;
     grid-template-columns: 2fr 1fr !important;
   }
+
   &__main {
     grid-area: c-main !important;
     @include u-display("flex");
     @include u-flex-direction("column");
   }
+
   &__aside {
     grid-area: c-aside !important;
-    
+
     @include u-flex("column");
     @include u-flex("align-center");
     @include u-width("auto");
-    @include u-padding-left(0);    
+    @include u-padding-left(0);
     @include u-border-left(0);
 
     @include at-media("tablet") {
@@ -30,14 +33,17 @@
       @include u-border-left("1px", "indigo-warm-80", "solid");
     }
   }
+
   &__title {
     // refactor into _card.scss to update all card components from h3 to h2
     @include u-font("sans", "lg");
     @include u-margin(0);
     @include u-text("bold");
+
     a {
       @include u-text("primary-darker");
       @include u-text("no-underline");
+
       &::after {
         content: "";
         @include u-position("absolute");
@@ -48,22 +54,26 @@
       }
     }
   }
+
   &__body {
     @include u-display("flex");
     @include u-flex-direction("column");
     flex-basis: 100%;
   }
+
   &__deck {
     @include u-margin-top(1);
     @include u-line-height("sans", 3);
     @include u-font("sans", "md");
     @include u-text("normal");
   }
+
   .authors-list {
     @include at-media("tablet") {
       @include u-padding-bottom(2);
     }
   }
+
   &__kicker {
     @include u-display("none");
     @include u-margin(0);
@@ -77,12 +87,14 @@
       flex-basis: 100%;
     }
   }
+
   &__host {
     @include u-font("sans", "md");
     @include u-margin-y(1.5);
     @include u-color("gray-cool-60");
     @include u-line-height("sans", 1);
   }
+
   &__cta {
     grid-area: d-cta;
     @include u-display("flex");
@@ -99,6 +111,7 @@
     @include u-text("no-underline");
     transition: background-color 0.25s, color 0.25s;
     width: 100%;
+
     @include at-media("tablet") {
       @include u-display("none");
     }
@@ -111,6 +124,7 @@
       grid-template-rows: auto;
     }
   }
+
   &__date-label {
     @include u-display("flex");
     @include u-flex-direction("row");
@@ -118,7 +132,7 @@
     @include u-text("gray-cool-50");
     @include u-text("normal");
     @include u-font("sans", "sm");
-    @include u-border(0); // reset inherited styles from card-event 
+    @include u-border(0); // reset inherited styles from card-event
     @include u-border-top("2px", "gray-cool-50", "solid");
     @include u-radius("sm");
     width: 80%;
@@ -127,6 +141,7 @@
 
     &--mobile {
       @include u-display("block");
+
       @include at-media("tablet") {
         @include u-display("none");
       }
@@ -135,6 +150,7 @@
 
   &__datetime {
     @include u-display("none");
+
     @include at-media("tablet") {
       @include u-display("flex");
       @include u-flex-direction("row");
@@ -151,7 +167,8 @@
         @include u-display("none");
       }
 
-      .card-event__datetime-month, .card-event__datetime-day {
+      .card-event__datetime-month,
+      .card-event__datetime-day {
         font-weight: 400;
         font-size: 1rem;
         text-transform: capitalize;
@@ -165,6 +182,7 @@
       @include u-font("sans", "sm");
       @include u-text("bold");
       @include u-text("uppercase");
+
       @include at-media("tablet") {
         justify-self: center;
         @include u-padding-right(0);
@@ -181,6 +199,7 @@
       @include u-margin-bottom(0);
       @include u-text("thin");
       @include u-text(100);
+
       @include at-media("tablet") {
         justify-self: center;
         font-size: 5rem;
@@ -230,16 +249,19 @@
 // ==========================================================================
 .card-event--past {
   @include u-border-top("2px", "transparent", "solid");
+
   .card-event__date-label {
     display: none;
     @include at-media("tablet") {
       display: flex;
     }
   }
+
   .card-event__date {
     @include u-text("gray-cool-50");
     @include u-text("normal");
     @include u-font("sans", "sm");
+
     @include at-media-max("tablet") {
       @include u-display("flex");
       @include u-flex-direction("row");
@@ -250,23 +272,28 @@
       transition: color 0.25s;
     }
   }
+
   .card-event__datetime {
     @include at-media-max("tablet") {
       padding-left: 0.5ch;
       @include u-display("inline");
     }
   }
-  .card-event__datetime-month, .card-event__datetime-day {
+
+  .card-event__datetime-month,
+  .card-event__datetime-day {
     @include at-media-max("tablet") {
       text-transform: capitalize;
       font-weight: 400;
       font-size: 1rem;
     }
   }
+
   &:hover {
     .card-event__date {
       @include u-text("gray-cool-60");
     }
+
     .card-event__date-label {
       @include u-border-top("2px", "gray-cool-60", "solid");
       @include u-text("gray-cool-60");
