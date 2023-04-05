@@ -20,13 +20,20 @@
 
       <section class="stream" aria-label="Featured news and events">
 
+        <!-- {{- $events := where (where .Site.RegularPages.Reverse "Section" "events") ".Params.End_date" ">=" "$now" -}} -->
         {{/* Future Events ===========================  */}}
         {{- $events := where .Site.RegularPages.Reverse "Section" "events" -}}
 
         {{/* gets the # of news items to display from the config.yml */}}
         {{- $events_count := .Site.Params.events_count -}}
 
-        {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}}
+        <!-- {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}} -->
+
+        {{- $events := $events | first $events_count }}
+
+        <!-- {{ range $events.Reverse }}
+          {{ .Render "card-event"}}
+        {{ end }} -->
 
         {{/* Past Events =========================== */}}
         {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
