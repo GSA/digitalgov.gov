@@ -20,20 +20,11 @@
 
       <section class="stream" aria-label="Featured news and events">
 
-        <!-- {{- $events := where (where .Site.RegularPages.Reverse "Section" "events") ".Params.End_date" ">=" "$now" -}} -->
         {{/* Future Events ===========================  */}}
-        {{- $events := where .Site.RegularPages.Reverse "Section" "events" -}}
-
         {{/* gets the # of news items to display from the config.yml */}}
         {{- $events_count := .Site.Params.events_count -}}
-
-        <!-- {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}} -->
-
+        {{- $events := where .Site.RegularPages "Section" "events" -}}
         {{- $events := $events | first $events_count }}
-
-        <!-- {{ range $events.Reverse }}
-          {{ .Render "card-event"}}
-        {{ end }} -->
 
         {{/* Past Events =========================== */}}
         {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
@@ -44,11 +35,9 @@
 
         {{/* Merges the past events and the recent blog posts */}}
         {{ $stream := union $posts $past_events }}
-        {{/* {{ $stream := union $posts $events }} */}}
 
         {{/* Sorting all the items by date and reverse chron */}}
         {{ $stream := $stream.ByDate.Reverse }}
-        {{/* $stream := $stream.ByWeight */}}
 
         {{/* gets the # of news items to display from the config.yml */}}
         {{ $stream_count := .Site.Params.stream_count }}
@@ -57,6 +46,7 @@
         {{/* The # is defined in the config.yml file */}}
         {{- range $i, $el := first $stream_count $stream -}}
 
+          {{/* Display first future event in 2 position of the stream */}}
           {{- with $events -}}
             {{- if eq $i 2 -}}
               {{- range first 1 $events -}}
@@ -64,6 +54,7 @@
               {{- end -}}
             {{- end -}}
 
+            {{/* Display second future event in 8 position of the stream */}}
             {{- if eq $i 8 -}}
               {{- range first 1 (after 1 $events) -}}
                 {{- .Render "card-event" -}}
