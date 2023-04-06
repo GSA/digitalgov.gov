@@ -46,7 +46,7 @@
         {{/* The # is defined in the config.yml file */}}
         {{- range $i, $el := first $stream_count $stream -}}
 
-          {{/* Display first future event in 2 position of the stream */}}
+          {{/* Display first future event in 3 position of the stream */}}
           {{- with $events -}}
             {{- if eq $i 2 -}}
               {{- range first 1 $events -}}
@@ -54,7 +54,7 @@
               {{- end -}}
             {{- end -}}
 
-            {{/* Display second future event in 8 position of the stream */}}
+            {{/* Display second future event in 9 position of the stream */}}
             {{- if eq $i 8 -}}
               {{- range first 1 (after 1 $events) -}}
                 {{- .Render "card-event" -}}

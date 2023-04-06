@@ -52,11 +52,7 @@
         {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
 
           {{- if eq .Type "events" -}}
-            {{- if ge .Date now.Unix }}
-              {{- .Render "card-event" -}}
-            {{- else -}}
-              {{- .Render "card-event" -}}
-            {{- end -}}
+            {{- .Render "card-event" -}}
           {{- end -}}
 
           {{- if eq .Type "news" -}}
