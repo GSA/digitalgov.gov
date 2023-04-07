@@ -204,7 +204,7 @@ We do our best to keep the list current based on information we get from agencie
 
 [Smithsonian Institution](http://www.si.edu/) (Interwoven)
 
-[Social Security Administration](http://www.socialsecurity.gov/) (None)
+[Social Security Administration](http://www.socialsecurity.gov/) (Drupal)
 
 [State](http://www.state.gov/)
 
@@ -224,7 +224,7 @@ We do our best to keep the list current based on information we get from agencie
 - [Office of the Comptroller of the Currency](http://occ.gov/) (Commercial Product/SharePoint)
 - U.S. Mint (None [Intranet])
 
-[United States Agency for International Development](http://www.usaid.gov/) (Documentum)
+[United States Agency for International Development](http://www.usaid.gov/) (Drupal)
 
 U.S. Congress, [Congressional Budget Office](https://www.cbo.gov/) (Drupal public website, SharePoint intranet)
 
