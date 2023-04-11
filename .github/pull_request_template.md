@@ -1,6 +1,6 @@
 ## Summary
 
-Basic description of work done. Closes [#issue_no] or [trello_card_title].
+Basic description of work done. Closes [#issue_no].
 
 ### Preview
 
