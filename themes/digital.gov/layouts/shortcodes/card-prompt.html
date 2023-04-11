@@ -63,14 +63,13 @@ If not, it will not render the shortcode.
 
   {{/* Checks if the button exists */}}
   {{- if (.Get "button-text") -}}
-  <div class="submit">
-    <button class="usa-button"><a href="{{- .Get "button-url" -}}" title="{{- .Get "button-text" -}}">{{- .Get "button-text" -}}</a></button>
-    <span></span>
-  </div>
-  {{- end -}}
+    {{ partial "core/usa-button.html" (dict "href" (.Get "button-url") "text" (.Get "button-text")) }}
+  {{ end }}
 
   {{/* Fallback text (I forget what this was for) */}}
-  {{- if (.Get "fallback") -}}<p class="fallback">{{- .Get "fallback" | markdownify -}}</p>{{- end -}}
+  {{- if (.Get "fallback") -}}
+    <p class="fallback">{{- .Get "fallback" | markdownify -}}</p>
+  {{- end -}}
 
 </div>
 {{- end -}}

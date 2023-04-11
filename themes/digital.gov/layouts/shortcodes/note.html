@@ -88,11 +88,4 @@ additional text goes here...
 
   {{- .Inner | markdownify -}}
 
-  {{- if (.Get "button-text") -}}
-  <div class="submit">
-    <button class="usa-button"><a href="{{- .Get "button-url" -}}" title="{{- .Get "button-text" -}}">{{- .Get "button-text" -}}</a></button>
-    <span></span>
-  </div>
-  {{- end -}}
-
 </div>
