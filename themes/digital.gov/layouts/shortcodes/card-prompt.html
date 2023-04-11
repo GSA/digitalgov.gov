@@ -63,7 +63,7 @@ If not, it will not render the shortcode.
 
   {{/* Checks if the button exists */}}
   {{- if (.Get "button-text") -}}
-    {{ partial "core/usa-button.html" (dict "href" (.Get " button-url") "text" (.Get "button-text")) }}
+    {{ partial "core/usa-button.html" (dict "href" (.Get "button-url") "text" (.Get "button-text")) }}
   {{ end }}
 
   {{/* Fallback text (I forget what this was for) */}}
