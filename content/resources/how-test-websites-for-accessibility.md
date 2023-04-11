@@ -78,4 +78,4 @@ Visit [Section508.gov](https://www.section508.gov/) for:
 - Accessibility language for contracts through the [Accessibility Requirements Tool](https://www.buyaccessible.gov/), to ensure any IT products or services agencies purchase are accessible ; and
 - Additional tools, training and resources.
 
-For more information and resources on IT accessibility, visit our [Accessibility](https://digital.gov/topics/accessibility/) topic page and [Section508.gov](https://www.section508.gov/).
+For more information and resources on IT accessibility, visit our [Accessibility](https://digital.gov/topics/accessibility/) topic page, and [Section508.gov](https://www.section508.gov/). Join the [Section 508 IT Accessibility Community](https://digital.gov/communities/it-accessibility-section-508/) Listserv.
