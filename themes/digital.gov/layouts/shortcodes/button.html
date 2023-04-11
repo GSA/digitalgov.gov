@@ -1,1 +1,3 @@
-{{ partial "core/usa-button.html" (dict "href" .Params.href "text" .Params.text) }}
+{{ if .Params }}
+  {{ partial "core/usa-button.html" (dict "href" .Params.href "text" .Params.text) }}
+{{ end }}
