@@ -1,24 +1,45 @@
 {{ partial "event-venue--inPerson.html" . }}
 
+
 <!-- Event  -->
 <div class="event entry">
-
   <!-- Event Title -->
   <h3 class="event_title">
-    <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a>
+    <a
+      href="{{ .Permalink }}"
+      title="{{ $.Scratch.Get "displaytitle" }}"
+      rel="bookmark"
+      >{{ $.Scratch.Get "displaytitle" | markdownify }}</a
+    >
   </h3>
 
   <!-- Event Meta -->
   <div class="event-details">
-    <span class="event-date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
+    <span class="event-date">
+      {{ dateFormat "January 02, 3:04 PM" .Date }} -
+      {{ dateFormat "3:04 PM ET" .Params.end_date }}
+    </span>
     {{ partial "event-type.html" . }}
     <p class="summary">{{ .Params.summary | markdownify }}</p>
   </div>
 
   <!-- Event actions -->
   <div class="event-actions">
-
-    <a class="event_btn btn" href="{{ .Permalink }}" title="Details: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Event details</strong></a>
-    <a class="event_btn btn event_register" href="{{ .Params.registration_url }}" title="Register: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Register</strong></a>
+    <a
+      class="event_btn btn"
+      href="{{ .Permalink }}"
+      title="Details: {{ $.Scratch.Get "displaytitle" }}"
+      rel="bookmark"
+    >
+      <strong>Event details</strong>
+    </a>
+    <a
+      class="event_btn btn event_register"
+      href="{{ .Params.registration_url }}"
+      title="Register: {{ $.Scratch.Get "displaytitle" }}"
+      rel="bookmark"
+    >
+      <strong>Register</strong>
+    </a>
   </div>
 </div>
