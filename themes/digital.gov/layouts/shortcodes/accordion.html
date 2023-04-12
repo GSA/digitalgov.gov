@@ -1,36 +1,56 @@
 <div class="usa-accordion accordion">
-
   {{- .Page.Scratch.Add "count" 1 -}}
 
+
   <h3 class="usa-accordion__heading">
-    <button class="usa-accordion__button"
+    <button
+      class="usa-accordion__button"
       title="View {{ .Get "name" | plainify -}}"
       aria-expanded="false"
-      aria-controls="accordion-{{- .Page.Scratch.Get "count" -}}">
-        {{ if (.Get "icon") -}}
-          <span class="icon">
-            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-              <use xlink:href="{{ "uswds/img/sprite.svg#{{- .Get 'icon' -}}" | relURL }}"></use>
-            </svg>
-          </span>
-        {{- else -}}
-          <span class="icon">
-            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-              <use xlink:href="{{ "uswds/img/sprite.svg#unfold_more" | relURL }}"></use>
-            </svg>
-          </span>
-        {{- end -}}
+      aria-controls="accordion-{{- .Page.Scratch.Get "count" -}}"
+    >
+      {{ if (.Get "icon") -}}
+        <span class="icon">
+          <svg
+            class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            {{ $icon := printf "uswds/img/sprite.svg#%s" (.Get "icon") }}
+            <use xlink:href="{{ $icon | relURL }}"></use>
+          </svg>
+        </span>
+      {{- else -}}
+        <span class="icon">
+          <svg
+            class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+            role="img"
+          >
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#unfold_more" | relURL }}"
+            ></use>
+          </svg>
+        </span>
+      {{- end -}}
       <span class="src">
-        {{ if (.Get "kicker") -}}<strong class="kicker">{{- .Get "kicker" -}}</strong>{{- end -}}
+        {{ if (.Get "kicker") -}}
+          <strong class="kicker">{{- .Get "kicker" -}}</strong>
+        {{- end -}}
         {{- .Get "title" | markdownify }}
-        {{ if (.Get "pdf") -}}<em>{{- .Get "pdf" -}}</em>{{- end -}}</span>
+        {{ if (.Get "pdf") -}}<em>{{- .Get "pdf" -}}</em>{{- end -}}</span
+      >
     </button>
   </h3>
 
   {{- if .Inner -}}
-  <div id="accordion-{{- .Page.Scratch.Get "count" -}}" class="accordion-body usa-accordion__content usa-prose">
-    {{- .Inner | markdownify -}}
-  </div>
+    <div
+      id="accordion-{{- .Page.Scratch.Get "count" -}}"
+      class="accordion-body usa-accordion__content usa-prose"
+    >
+      {{- .Inner | markdownify -}}
+    </div>
   {{- end -}}
 
 </div>
