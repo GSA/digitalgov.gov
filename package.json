@@ -56,6 +56,8 @@
     "jsonlint": "^1.6.3",
     "markdownlint-cli": "^0.32.2",
     "postcss": "^8.4.21",
+    "prettier": "^2.8.7",
+    "prettier-plugin-go-template": "^0.0.13",
     "vinyl-paths": "^3.0.1"
   },
   "overrides": {
