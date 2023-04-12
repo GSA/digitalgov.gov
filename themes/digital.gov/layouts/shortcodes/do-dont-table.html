@@ -1,44 +1,74 @@
-{{/* 
+{{/* When setting up a **do-dont-table**, you need to make sure you have the correct formatting.
 
-When setting up a **do-dont-table**, you need to make sure you have the correct formatting.
-
-1. Start with a a **do-dont-table** then nest **do-dont-row**
-2. It is best practice to provide a caption which describes the table contents, should be provided.
-3. {{ do-row }} & {{ dont-row }} short codes need to be paired or else the row will not render
-4. Place text, markdown and shortcodes between the {{ do-row }} & {{ dont-row }} short codes
-5. Use markdown []() link syntax over {{< link >}} & {{< ref >}} shortcodes, they will not render within the row shortcodes
-6. Make sure to close them with {{< /do-row >}} & {{< /dont-row >}}
+  1. Start with a a **do-dont-table** then nest **do-dont-row**
+  2. It is best practice to provide a caption which describes the table contents, should be provided.
+  3. {{ do-row
+}}
+& {{ dont-row }} short codes need to be paired or else the row will not render
+4. Place text, markdown and shortcodes between the {{ do-row }} &
+{{ dont-row }}
+short codes 5. Use markdown []() link syntax over {{< link >}} &
+{{< ref >}}
+shortcodes, they will not render within the row shortcodes 6. Make sure to close
+them with {{< /do-row >}} &
+{{< /dont-row >}}
 
 {{< do-dont-table caption="This is a table" >}}
-  {{< do-row >}} [Multilingual](https://digital.gov/communities/multilingual/) {{< /do-row >}}
-  {{< dont-row >}} Don't follow these bad practices{{< /dont-row >}}
+{{< do-row >}} [Multilingual](https://digital.gov/communities/multilingual/)
+{{< /do-row >}}
+{{< dont-row >}} Don't follow these bad
+practices{{< /dont-row >}}
 
-  {{< do-row >}} open &#34;the door&#34; for those who need a hand {{< /do-row >}}
-  {{< dont-row >}} Don't follow these bad practices {{< /dont-row >}}
+{{< do-row >}} open &#34;the door&#34; for those who need a hand
+{{< /do-row >}}
+{{< dont-row >}} Don't follow these bad practices
+{{< /dont-row >}}
 
-  {{< do-row >}} read `the directions` before using {{< /do-row >}}
-  {{< dont-row >}}forget {{< highlight >}}to wash your hands{{< /highlight >}} for 20 seconds{{< /dont-row >}}
+{{< do-row >}} read `the directions` before using
+{{< /do-row >}}
+{{< dont-row >}}forget {{< highlight >}}to wash your hands{{< /highlight >}} for
+20
+seconds{{< /dont-row >}}
 
 {{< /do-dont-table >}}
 
 */}}
 
-
-<table class="usa-table usa-table--borderless dg-do-dont-table usa-table--stacked">
+<table
+  class="usa-table usa-table--borderless dg-do-dont-table usa-table--stacked"
+>
   {{- if (.Get "caption") -}}
-  <caption>{{ .Get "caption" }}</caption>
+    <caption>
+      {{ .Get "caption" }}
+    </caption>
   {{- end -}}
   <thead class="dg-do-dont-table__header">
     <tr class="dg-do-dont-table__header-row" scope="row">
-      <th class="dg-do-dont-table__header dg-do-dont-table__header--do" scope="col">
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#check_circle" | relURL }}"></use>
+      <th
+        class="dg-do-dont-table__header dg-do-dont-table__header--do"
+        scope="col"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#check_circle" | relURL }}"
+          ></use>
         </svg>
         What you should do
       </th>
-      <th class="dg-do-dont-table__header dg-do-dont-table__header--dont" scope="col">
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#cancel" | relURL }}"></use>
+      <th
+        class="dg-do-dont-table__header dg-do-dont-table__header--dont"
+        scope="col"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="{{ "uswds/img/sprite.svg#cancel" | relURL }}"></use>
         </svg>
         What you shouldn't do
       </th>
