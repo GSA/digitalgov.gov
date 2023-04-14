@@ -54,7 +54,9 @@
   }
 
   .authors-list {
+    @include u-display("none");
     @include at-media("tablet") {
+      @include u-display("flex");
       @include u-padding-bottom(2);
     }
   }
@@ -80,10 +82,12 @@
     @include u-line-height("sans", 1);
   }
 
+
   &__date-label {
     @include u-padding-left(0);
     @include u-text("gray-cool-50");
     @include u-text("normal");
+    font-weight: 600;
     @include u-font("sans", "sm");
     @include u-border(0); // reset inherited styles from card-event
     @include u-border-top("2px", "gray-cool-50", "solid");
@@ -93,7 +97,6 @@
 
     &--mobile {
       @include u-display("block");
-
       @include at-media("tablet") {
         @include u-display("none");
       }
@@ -151,6 +154,19 @@
         font-size: 5rem;
       }
     }
+
+    &-comma {
+      @include u-display("none"); 
+      
+    }
+
+    &-year--mobile {
+      // add styles here to hide on desktop, show on mobile
+      @include u-display("inline");
+      @include at-media("tablet") {
+        @include u-display("none");
+      }
+    }
   }
 
   // @TODO: Refactor into a button variant
@@ -199,6 +215,10 @@
     }
   }
 
+  .card-event__host {
+    @include u-display("none");
+  }
+
   .card-event__date {
     @include u-text("gray-cool-50");
     @include u-text("normal");
@@ -208,17 +228,19 @@
       @include u-display("flex");
       @include u-flex-direction("row");
       @include u-padding-left(0);
-      @include u-border("2px", "gray-cool-50", "solid");
+      // @include u-border("2px", "gray-cool-50", "solid");
       @include u-radius("sm");
-      justify-content: center;
+      // justify-content: center;
       transition: color 0.25s;
     }
   }
 
   .card-event__datetime {
+    @include u-display("flex");
     @include at-media-max("tablet") {
       @include u-display("inline");
-      padding-left: 0.5ch;
+      // @include u-display("inline");
+      // padding-left: 0.5ch;
     }
   }
 
@@ -229,6 +251,17 @@
       font-weight: 400;
       font-size: 1rem;
     }
+  }
+
+  .card-event__datetime-comma {
+    @include u-display("inline");
+    @include at-media("tablet") {
+      @include u-display("none"); 
+    }
+  }
+
+  .card-event__datetime-year {
+
   }
 
   &:hover {

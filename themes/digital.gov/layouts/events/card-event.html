@@ -6,6 +6,11 @@
 <article class="card card-event {{ if $isPastEvent }}card-event--past {{ end }}card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
   <div class="card-event__main">
     <div class="card-event__header">
+      {{ if not $isPastEvent }}
+      <div class="flex-align-end card-event__kicker">
+        <span>{{- .Params.kicker -}}</span>
+      </div>
+      {{ end }}
       <h2 class="card-event__title" id="{{ .Title | urlize }}">
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
       </h2>
@@ -16,6 +21,10 @@
       <div class="card-event__summary">{{ .Params.summary | markdownify }}</div>
       {{- else -}}
       <div class="card-event__deck">{{ .Params.deck | markdownify }}</div>
+      {{- end -}}
+
+      {{- if .Params.host -}}
+      <p class="card-event__host">Hosted by Digital.gov and the {{ .Params.host }}</p>
       {{- end -}}
 
       {{ if $isPastEvent }}
@@ -29,29 +38,22 @@
           <div class="card-event__kicker">Video</div>
           {{- end -}}
         {{- end -}}
-      
-        {{ else }}
-        {{- if .Params.host -}}
-        <p class="card-event__host">Hosted by Digital.gov and the {{ .Params.host }}</p>
-        {{- end -}}
       {{ end }}
     </div>
   </div>
 
   <div class="card-event__aside">
     <div class="card-event__date">
-      {{ if $isPastEvent }}
-      <span class="card-event__date-label--mobile">
-        Event Held on
-      </span>
-      {{ end }}
       <time class="card-event__datetime" datetime="{{- $eventDate -}}">
-        <span class="card-event__datetime-month">{{- dateFormat "Jan" .Date -}}</span>
-        <span class="card-event__datetime-day">{{- dateFormat "02" .Date -}}</span>
+        <span class="card-event__datetime-month">{{ dateFormat "Jan" .Date }}</span>
+        <span class="card-event__datetime-day">{{- dateFormat "02" .Date -}}
+          <span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile">{{ dateFormat "2006" .Date }}</span>
       </time>
       {{ if $isPastEvent }}
         <span class="card-event__date-label">
-          Previous Event
+          <span class="card-event__datetime-year">{{ dateFormat "2006" .Date }}</span>
         </span>
       {{ else }}
         <a
