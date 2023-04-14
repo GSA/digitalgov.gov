@@ -17,7 +17,7 @@ logo: "dap"
 
 # see all authors at https://digital.gov/authors
 authors:
-  - freddie-blicher
+  - 
 
 contact: dap@gsa.gov
 

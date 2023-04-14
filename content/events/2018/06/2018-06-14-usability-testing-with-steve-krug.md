@@ -4,7 +4,7 @@
 slug: usability-testing-with-steve-krug
 title: "Usability Testing with Steve Krug"
 deck: ""
-summary: "Join us for a 90 minute demonstration and talk with Steve Krug, where he will share how you can get started making usability fixes, no matter what your full time job is."
+summary: "Join us for a 90-minute demonstration and talk with Steve Krug, where he will share how you can get started making usability fixes, no matter what your full-time job is."
 host: "User Experience Community of Practice"
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/usability-testing-with-steve-krug-registration-46107266074
@@ -30,7 +30,7 @@ authors:
 youtube_id: 6fjn1Zz3lMU
 
 # Primary Image (for social media)
-primary_image: "usability-testing-steve-krug"
+primary_image: "usability-testing-steve-krug-ux"
 
 # Make it better ♥
 
