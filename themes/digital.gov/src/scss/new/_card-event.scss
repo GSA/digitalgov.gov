@@ -207,10 +207,10 @@
 // ==========================================================================
 .card-event--past {
   .card-event__date-label {
-    display: none;
+    @include u-display("none");
 
     @include at-media("tablet") {
-      display: flex;
+      @include u-display("flex");
       justify-content: center;
     }
   }
@@ -228,9 +228,8 @@
       @include u-display("flex");
       @include u-flex-direction("row");
       @include u-padding-left(0);
-      // @include u-border("2px", "gray-cool-50", "solid");
+      @include u-border-top("2px", "gray-cool-50", "solid");
       @include u-radius("sm");
-      // justify-content: center;
       transition: color 0.25s;
     }
   }
@@ -239,8 +238,6 @@
     @include u-display("flex");
     @include at-media-max("tablet") {
       @include u-display("inline");
-      // @include u-display("inline");
-      // padding-left: 0.5ch;
     }
   }
 
@@ -258,10 +255,6 @@
     @include at-media("tablet") {
       @include u-display("none"); 
     }
-  }
-
-  .card-event__datetime-year {
-
   }
 
   &:hover {
