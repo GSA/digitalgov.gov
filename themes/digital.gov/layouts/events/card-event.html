@@ -53,7 +53,11 @@
       </time>
       {{ if $isPastEvent }}
         <span class="card-event__date-label">
+          {{- if .Params.youtube_id -}}
+          <div class="card-event__watch-label">Watch Video</div>
+          {{- else -}}
           <span class="card-event__datetime-year">{{ dateFormat "2006" .Date }}</span>
+          {{- end -}}
         </span>
       {{ else }}
         <a

@@ -169,6 +169,10 @@
     }
   }
 
+  &__watch-label {
+    @include u-text("uppercase");
+  }
+
   // @TODO: Refactor into a button variant
   &__cta {
     @include u-display("block");
