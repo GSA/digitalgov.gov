@@ -3,9 +3,9 @@
 // Article
 
 main{
-	@include u-padding-y(3);
+	// @include u-padding-y(3);
 	@include at-media('tablet') {
-		@include u-padding-y(4);
+		// @include u-padding-y(4);
 	}
 
 	// Base Article Header Styles
