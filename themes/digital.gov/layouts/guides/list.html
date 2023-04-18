@@ -1,4 +1,5 @@
 {{ define "content" }}
+{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
 <main role="main" id="main-content">
 
@@ -14,7 +15,7 @@
         </div>
 
         <div class="grid-col-12 tablet-lg:grid-col-8">
-          <div class="usa-layout-docs__main usa-prose">
+          <div class="usa-layout-docs__main usa-prose" data-edit-this="{{- $path -}}">
 
             {{- partial "core/guides/guide-page-head.html" . -}}
 
