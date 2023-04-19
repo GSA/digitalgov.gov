@@ -1,10 +1,7 @@
 {{- define "content" -}}
 {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-{{ $fiveYearsFromToday := now.AddDate -5 0 0 }}
 <main role="main" id="main-content">
-  {{- if lt .Date $fiveYearsFromToday -}}
-    {{- partial "partials/core/blog-warning.html" -}}
-  {{- end -}}
+  {{- partial "partials/core/blog-warning.html" . -}}
   <article {{ if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
     <header>
       <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">

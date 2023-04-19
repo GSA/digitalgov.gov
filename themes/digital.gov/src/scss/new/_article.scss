@@ -16,9 +16,9 @@ main {
       @include u-margin-bottom(2);
       @include u-text("bold");
       @include u-font("sans", "md");
-	  @include at-media("tablet") {
-		@include u-margin-top(6);
-	  }
+      @include at-media("tablet") {
+        @include u-margin-top(6);
+      }
       a {
         span {
           @include u-padding-bottom("2px");
