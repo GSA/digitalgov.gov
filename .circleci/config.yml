@@ -54,6 +54,9 @@ jobs:
       - run:
           name: Lint Markdown
           command: npm run lint:markdown
+      - run:
+          name: Template formatting
+          command: npm run test:templates
   process:
     <<: *defaults
     steps:

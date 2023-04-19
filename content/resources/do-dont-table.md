@@ -11,14 +11,20 @@ authors:
 ---
 
 {{< do-dont-table caption="This is a table" >}}
-  {{< do-row >}} [Multilingual](https://digital.gov/communities/multilingual/) {{< /do-row >}}
-  {{< dont-row >}} Don't follow these bad practices {{< /dont-row >}}
+  {{< row >}}
+    {{< do-row >}} [Multilingual](https://digital.gov/communities/multilingual/) {{< /do-row >}}
+    {{< dont-row >}} Don't follow these bad practices {{< /dont-row >}}
+  {{< /row >}}
 
-  {{< do-row >}} open &#34;the door&#34; for those who need a hand {{< /do-row >}}
-  {{< dont-row >}} Don't follow these bad practices {{< /dont-row >}}
+  {{< row >}}
+    {{< do-row >}} open &#34;the door&#34; for those who need a hand {{< /do-row >}}
+    {{< dont-row >}} Don't follow these bad practices {{< /dont-row >}}
+  {{< /row >}}
 
-  {{< do-row >}} read `the directions` before using {{< /do-row >}}
-  {{< dont-row >}}forget {{< highlight >}}to wash your hands{{< /highlight >}} for 20 seconds{{< /dont-row >}}
+  {{< row >}}
+    {{< do-row >}} read `the directions` before using {{< /do-row >}}
+    {{< dont-row >}}forget {{< highlight >}}to wash your hands{{< /highlight >}} for 20 seconds{{< /dont-row >}}
+  {{< /row >}}
 {{< /do-dont-table >}}
 
 
@@ -29,4 +35,3 @@ When setting up a **do-dont-table**, you need to make sure you have the correct 
 * Start with a a **do-dont-table** then nest **do-dont-row**
 * When you don't provide a matching pair for **do** or **don't**, the table row will not appear. Make sure you have both.
 * Make sure to close the **do-dont't table** with a closing tag, it is not needed for the **do-dont-row**
-

@@ -1,12 +1,10 @@
-{{/*
-  ======================================
+{{/* ======================================
   AUTHORS .... short
   ======================================
 */}}
 
 {{- if .Params.authors -}}
   <div class="authors-list authors-list-short">
-
     {{/* Sets the taxonomy we're pulling here */}}
     {{- $taxonomy := "authors" -}}
     {{- $authors := .Param $taxonomy -}}
@@ -20,18 +18,24 @@
       {{- $uid := . -}}
 
       {{/* If the byline was entered as a display name (i.e. - John Smith )
-      then this will turn that into a UID for use in a URL. */}}
+        then this will turn that into a UID for use in a URL.
+      */}}
       {{- $uid := $e | urlize -}}
 
       {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
       {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $uid) -}}
 
-      <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}}" rel="author">
-
-        {{- partial "core/get_author_image.html" (dict "author" . ) -}}
-        <span class="usa-sr-only">Posts by</span>
-        <span>{{- .Params.display_name | default $uid | markdownify -}}</span>
-      </a>{{ if lt (add $i 1) $length }}<!--,--> {{ end }}
+        <a
+          class="author"
+          href="{{- (printf "authors/%s/" $uid) | absURL -}}"
+          rel="author"
+        >
+          {{- partial "core/get_author_image.html" (dict "author" . ) -}}
+          <span class="usa-sr-only">Posts by</span>
+          <span
+            >{{- .Params.display_name | default $uid | markdownify -}}</span
+          > </a
+        >{{ if lt (add $i 1) $length }}<!--,-->{{ end }}
 
       {{- end -}}
     {{- end -}}

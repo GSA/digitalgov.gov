@@ -1,0 +1,19 @@
+{{- $thisHref := .href -}}
+{{- $thisHref := replaceRE "^/" "" $thisHref -}}
+{{- $.Scratch.Set "thisHref" $thisHref -}}
+
+{{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisHref -}}
+{{- $suffix := replaceRE "^.+(.{3,3})$" "$1" $thisHref -}}
+
+{{- if ne $prefix $thisHref -}}
+  {{/* Local links */}}
+{{- else if eq $suffix ".md" -}}
+  {{- $.Scratch.Set "thisHref" (relref $.Page $thisHref) -}}
+{{- else -}}
+  {{- $.Scratch.Set "thisHref" ($thisHref | absURL) -}}
+{{- end -}}
+
+
+<a class="usa-button usa-button--outline" href="{{ .href | safeURL }}">
+  {{- .text -}}
+</a>

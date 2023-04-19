@@ -1,76 +1,66 @@
-{{/*
+{{/* Prompt Shortcode — used when inserting a prompt into a page to get people to comment on GitHub.
 
-Prompt Shortcode — used when inserting a prompt into a page to get people to comment on GitHub.
-
-Needed parameters:
-- intro — this is the opening "ask" for readers
-- inner text (required) — this is the text that goes between the opening `{{< card-prompt >}}` and closing `{{< /card-prompt >}}`
-- button-text — the text for the button. Keep it short.
-- button-url — the URL for the button
-- fallback — I forget what this was for
-
------
-A basic example:
-{{< card-prompt intro="TEXT" button-text="TEXT" button-url="URL">}}
-> Use a blockquote for the prompt question
-additional text can go above or below the blockquote
+  Needed parameters:
+  - intro — this is the opening "ask" for readers
+  - inner text (required) — this is the text that goes between the opening `{{< card-prompt
+>}}`
+and closing `{{< /card-prompt >}}` - button-text — the text for the button. Keep
+it short. - button-url — the URL for the button - fallback — I forget what this
+was for ----- A basic example:
+{{< card-prompt intro="TEXT" button-text="TEXT" button-url="URL" >}}
+> Use a blockquote for the prompt question additional text can go above or below
+the blockquote
 {{< /card-prompt >}}
 
------
-
-Here's an example in use at
+----- Here's an example in use at
 https://digital.gov/2019/11/18/building-elements-that-earn-trust/
+{{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button-text="Submit your answers" button-url="https://github.com/GSA/digitalgov.gov/issues/1517" >}}
 
-{{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button-text="Submit your answers" button-url="https://github.com/GSA/digitalgov.gov/issues/1517">}}
-
-> 1. To deliver an experience that is trustworthy, we need to _____________.
-> 2. To perform this action, we need _______________.
+> 1. To deliver an experience that is trustworthy, we need to _____________. >
+2. To perform this action, we need _______________.
 {{< /card-prompt >}}
 
------
-Styles
-
-The `.card-prompt` inherits styles from `.note.comment` to better align it's styles with the `.comment` note card.
-See `_card-prompt.scss` and _note.scss for styles
-
-*/}}
-
-
-{{/*
-Checks is there is inner contet in the shortcode
-If not, it will not render the shortcode.
+----- Styles The `.card-prompt` inherits styles from `.note.comment` to better
+align it's styles with the `.comment` note card. See `_card-prompt.scss` and
+_note.scss for styles */}}
+{{/* Checks is there is inner contet in the shortcode
+  If not, it will not render the shortcode.
 */}}
 {{- if .Inner -}}
-<div class="note comment card-prompt">
-  {{/* if the intro parameter exists */}}
-  {{- if (.Get "intro") -}}
-    <div class="intro">
-      <div class="icon">
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#comment" | relURL }}"></use>
-        </svg>
+  <div class="note comment card-prompt">
+    {{/* Get intro, if it exists */}}
+    {{- if (.Get "intro") -}}
+      <div class="intro">
+        <div class="icon">
+          <svg
+            class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#comment" | relURL }}"
+            ></use>
+          </svg>
+        </div>
+        {{/* output the intro with markdownify */}}
+        <p>{{ .Get "intro" | markdownify -}}</p>
       </div>
-      {{/* output the intro with markdownify */}}
-      <p>{{ .Get "intro" | markdownify -}}</p>
+    {{- end -}}
+
+    {{/* This is the prompt */}}
+    <div class="prompt">
+      {{- .Inner | markdownify -}}
     </div>
-  {{- end -}}
 
+    {{/* Checks if the button exists */}}
+    {{- if (.Get "button-text") -}}
+      {{ partial "core/usa-button.html" (dict "href" (.Get "button-url") "text" (.Get "button-text")) }}
+    {{ end }}
 
-  {{/* This is the prompt */}}
-  <div class="prompt">
-    {{- .Inner | markdownify -}}
+    {{/* Fallback text (I forget what this was for) */}}
+    {{- if (.Get "fallback") -}}
+      <p class="fallback">{{- .Get "fallback" | markdownify -}}</p>
+    {{- end -}}
+
   </div>
-
-  {{/* Checks if the button exists */}}
-  {{- if (.Get "button-text") -}}
-  <div class="submit">
-    <button class="usa-button"><a href="{{- .Get "button-url" -}}" title="{{- .Get "button-text" -}}">{{- .Get "button-text" -}}</a></button>
-    <span></span>
-  </div>
-  {{- end -}}
-
-  {{/* Fallback text (I forget what this was for) */}}
-  {{- if (.Get "fallback") -}}<p class="fallback">{{- .Get "fallback" | markdownify -}}</p>{{- end -}}
-
-</div>
 {{- end -}}

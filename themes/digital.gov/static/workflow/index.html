@@ -14,7 +14,7 @@
       import { slugify } from "./js/helpers.js";
 
       // Register custom Hugo shortcodes
-      editorComponents.forEach(component =>
+      editorComponents.forEach((component) =>
         CMS.registerEditorComponent(component)
       );
 
@@ -36,7 +36,7 @@
           }
 
           return data;
-        }
+        },
       });
     </script>
   </body>
