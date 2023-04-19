@@ -1,4 +1,9 @@
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+
 
 <article
   class="card card-event card-event-promo card-linked"
@@ -8,28 +13,35 @@
 >
   <div class="card__content">
     {{- if .Params.kicker -}}
-    <div class="kicker">{{- .Params.kicker -}}</div>
+      <div class="kicker">{{- .Params.kicker -}}</div>
     {{- end -}}
     <h3 id="{{ .Title | urlize }}">
-      <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
+      <a
+        href="{{ .Permalink }}"
+        title="{{ .Title | markdownify }}"
+        rel="bookmark"
+        >{{ .Title | markdownify }}</a
+      >
     </h3>
 
     {{- if .Params.summary -}}
-    <div class="summary">{{ .Params.summary | markdownify }}</div>
+      <div class="summary">{{ .Params.summary | markdownify }}</div>
     {{- else -}}
-    <div class="deck">{{ .Params.deck | markdownify }}</div>
+      <div class="deck">{{ .Params.deck | markdownify }}</div>
     {{- end -}}
 
     {{- if .Params.host -}}
-    <p class="host">Hosted by Digital.gov and the {{ .Params.host }}</p>
+      <p class="host">Hosted by Digital.gov and the {{ .Params.host }}</p>
     {{- end -}}
+
 
     <a
       aria-label="Register for {{- .Params.title -}}"
       class="btn btn-register"
       href="{{- .Params.registration_url -}}"
-      onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
-        Register
+      onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
+    >
+      Register
     </a>
   </div>
 
@@ -41,8 +53,9 @@
         aria-label="Register for {{- .Params.title -}}"
         class="btn btn-register"
         href="{{- .Params.registration_url -}}"
-        onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
-          Register
+        onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
+      >
+        Register
       </a>
     </div>
   </div>

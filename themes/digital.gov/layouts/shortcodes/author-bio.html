@@ -1,25 +1,25 @@
-{{/*
-    ======================================
-    AUTHORS Bio .... shortcode
-    {{< authors-bio "authors-id" >}}
-    eg - {{< authors-bio "kelley-holden" >}}
-    ======================================
-  */}}
-    {{- $getauthor := .Get 0 -}}
-    {{- $list := where .Site.Pages "Section" "authors" -}}
-    {{- $list := where $list ".Params.slug" "eq" $getauthor -}} 
-    {{- range $i, $e := uniq $list -}}   
-    {{- $uid := . -}}
-      {{- if .Params.bio }}
-        <h3>{{ .Params.display_name }}
-          {{- if .Params.agency_full_name}}
-            &nbsp;|&nbsp;
-            {{- .Params.agency_full_name}}
-          {{- end -}} 
-        </h3>  
-        <p>
-          {{ .Params.bio }}
-        </p>    
-      {{- end -}}      
-    {{- end -}}
-    
+{{/* ======================================
+  AUTHORS Bio .... shortcode
+  {{< authors-bio "authors-id"
+>}}
+eg -
+{{< authors-bio "kelley-holden" >}}
+====================================== */}}
+{{- $getauthor := .Get 0 -}}
+{{- $list := where .Site.Pages "Section" "authors" -}}
+{{- $list := where $list ".Params.slug" "eq" $getauthor -}}
+{{- range $i, $e := uniq $list -}}
+  {{- $uid := . -}}
+  {{- if .Params.bio }}
+    <h3>
+      {{ .Params.display_name }}
+      {{- if .Params.agency_full_name }}
+        &nbsp;|&nbsp;
+        {{- .Params.agency_full_name }}
+      {{- end -}}
+    </h3>
+    <p>
+      {{ .Params.bio }}
+    </p>
+  {{- end -}}
+{{- end -}}

@@ -11,6 +11,8 @@
     "lint:markdown:format": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "local-build": "gulp buildAssets && gulp watch",
     "start": "npm-run-all --parallel local-build hugo workflow",
+    "prettier:templates": "npx prettier -w ./themes/**/*.html",
+    "test:templates": "npx prettier -c ./themes/**/*.html",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "npx pa11y-ci --config .pa11yci",
     "workflow": "npx netlify-cms-proxy-server"
@@ -56,6 +58,8 @@
     "jsonlint": "^1.6.3",
     "markdownlint-cli": "^0.32.2",
     "postcss": "^8.4.21",
+    "prettier": "^2.8.7",
+    "prettier-plugin-go-template": "^0.0.13",
     "vinyl-paths": "^3.0.1"
   },
   "overrides": {

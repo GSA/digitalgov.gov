@@ -1,35 +1,60 @@
 <div class="usa-accordion card-policy">
-
   {{- .Page.Scratch.Add "count" 1 -}}
 
+
   <h3 class="usa-accordion__heading">
-    <button class="usa-accordion__button"
+    <button
+      class="usa-accordion__button"
       title="View {{ .Get "name" | plainify -}}"
       aria-expanded="false"
-      aria-controls="card-policy-{{- .Page.Scratch.Get "count" -}}">
+      aria-controls="card-policy-{{- .Page.Scratch.Get "count" -}}"
+    >
       <span class="scroll">
-        <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#unfold_more" | relURL }}"></use>
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#unfold_more" | relURL }}"
+          ></use>
         </svg>
       </span>
       <span class="src">
-        {{ if (.Get "kicker") -}}<strong class="kicker">{{- .Get "kicker" -}}</strong>{{- end -}}
+        {{ if (.Get "kicker") -}}
+          <strong class="kicker">{{- .Get "kicker" -}}</strong>
+        {{- end -}}
         {{- .Get "title" | markdownify }}
-        {{ if (.Get "pdf") -}}<em>{{- .Get "pdf" -}}</em>{{- end -}}</span>
+        {{ if (.Get "pdf") -}}<em>{{- .Get "pdf" -}}</em>{{- end -}}</span
+      >
     </button>
   </h3>
 
   {{- if .Inner -}}
-  <div id="card-policy-{{- .Page.Scratch.Get "count" -}}" class="card-policy-body usa-accordion__content usa-prose">
-    {{- .Inner | markdownify -}}
+    <div
+      id="card-policy-{{- .Page.Scratch.Get "count" -}}"
+      class="card-policy-body usa-accordion__content usa-prose"
+    >
+      {{- .Inner | markdownify -}}
 
-    <a class="src" href="{{- .Get "src" }}" title="View {{ .Get "name" | plainify -}}">
-      View the full legislation 
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-      </svg>
-    </a>
-  </div>
+
+      <a
+        class="src"
+        href="{{- .Get "src" }}"
+        title="View {{ .Get "name" | plainify -}}"
+      >
+        View the full legislation
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+          ></use>
+        </svg>
+      </a>
+    </div>
   {{- end -}}
 
 </div>

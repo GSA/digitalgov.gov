@@ -1,41 +1,56 @@
 {{- define "content" -}}
-  {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
   <main role="main" id="main-content">
     <article class="grid-container grid-container-desktop">
       <header>
         <div data-edit-this="{{- $path -}}">
           <p class="breadcrumb">
-            <a href="{{- "resources/" | absURL -}}" aria-label="Back to Resources landing page">
-              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
+            <a
+              href="{{- "resources/" | absURL -}}"
+              aria-label="Back to Resources landing page"
+            >
+              <svg
+                class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                aria-hidden="true"
+                focusable="false"
+              >
+                <use
+                  xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"
+                ></use>
               </svg>
               <span>All Resources</span>
             </a>
           </p>
           {{- if .Params.kicker -}}
-          <p class="kicker">{{- .Params.kicker -}}</p>
+            <p class="kicker">{{- .Params.kicker -}}</p>
           {{- end -}}
           {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}} </h1>
+          <h1>{{- .Title | markdownify -}}</h1>
 
           {{/* Deck */}}
           {{- if .Params.deck -}}
-          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
           {{- end -}}
         </div>
       </header>
 
       <div class="usa-in-page-nav-container">
-        <aside class="usa-in-page-nav" data-title-heading-level="h3" data-root-margin="-350px 0px -350px 0px">
+        <aside
+          class="usa-in-page-nav"
+          data-title-heading-level="h3"
+          data-root-margin="-350px 0px -350px 0px"
+        >
           <div class="content__related-items">
-
             {{/* Related Communities and Services */}}
             {{- partial "core/get_related.html" . -}}
 
           </div>
         </aside>
         <div data-edit-this="{{- $path -}}">
-
           {{/* Content */}}
           <div class="content usa-prose">
             {{- .Content -}}
