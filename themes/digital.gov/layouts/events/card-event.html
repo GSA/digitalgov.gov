@@ -6,11 +6,15 @@
 <article class="card card-event {{ if $isPastEvent }}card-event--past {{ end }}card-linked" data-edit-this="{{- $path -}}" {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }} aria-labelledby="{{ .Title | urlize }}">
   <div class="card-event__main">
     <div class="card-event__header">
-      {{ if not $isPastEvent }}
+      {{- if .Params.kicker -}}
       <div class="flex-align-end card-event__kicker">
         <span>{{- .Params.kicker -}}</span>
       </div>
-      {{ end }}
+      {{- else -}}
+        {{- if .Params.youtube_id -}}
+        <div class="card-event__kicker">Video</div>
+        {{- end -}}
+      {{- end -}}
       <h2 class="card-event__title" id="{{ .Title | urlize }}">
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
       </h2>
@@ -23,21 +27,16 @@
       <div class="card-event__deck">{{ .Params.deck | markdownify }}</div>
       {{- end -}}
 
+      {{- if .Params.youtube_id -}}
+      <div class="card-event__watch-label">Watch Video</div>
+      {{- end -}}
+
       {{- if .Params.host -}}
       <p class="card-event__host">Hosted by Digital.gov and the {{ .Params.host }}</p>
       {{- end -}}
 
       {{ if $isPastEvent }}
         {{- partial "core/get_authors_short.html" . -}}
-        {{- if .Params.kicker -}}
-        <div class="flex-align-end card-event__kicker">
-          <span>{{- .Params.kicker -}}</span>
-        </div>
-        {{- else -}}
-          {{- if .Params.youtube_id -}}
-          <div class="card-event__kicker">Video</div>
-          {{- end -}}
-        {{- end -}}
       {{ end }}
     </div>
   </div>
@@ -53,11 +52,7 @@
       </time>
       {{ if $isPastEvent }}
         <span class="card-event__date-label">
-          {{- if .Params.youtube_id -}}
-          <div class="card-event__watch-label">Watch Video</div>
-          {{- else -}}
           <span class="card-event__datetime-year">{{ dateFormat "2006" .Date }}</span>
-          {{- end -}}
         </span>
       {{ else }}
         <a

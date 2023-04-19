@@ -170,7 +170,11 @@
   }
 
   &__watch-label {
+    @include u-margin-y(2);
+    @include u-font("sans", "2xs");
+    @include u-text("semibold");
     @include u-text("uppercase");
+    @include u-color("primary-darker");
   }
 
   // @TODO: Refactor into a button variant
@@ -263,12 +267,12 @@
 
   &:hover {
     .card-event__date {
-      @include u-text("gray-cool-60");
+      @include u-text("gray-cool-70");
     }
 
     .card-event__date-label {
-      @include u-border-top("2px", "gray-cool-60", "solid");
-      @include u-text("gray-cool-60");
+      @include u-border-top("2px", "gray-cool-70", "solid");
+      @include u-text("gray-cool-70");
     }
   }
 }
