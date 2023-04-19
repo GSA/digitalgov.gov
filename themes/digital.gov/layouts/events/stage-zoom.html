@@ -1,27 +1,68 @@
 <section class="stage stage-zoom">
   <div class="icon">
     <p>
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
         <use xlink:href="{{ "uswds/img/sprite.svg#keyboard" | relURL }}"></use>
       </svg>
     </p>
   </div>
   <div>
     <p>
-      <strong>This event will be held and recorded over <a href="https://zoom.us/government">Zoom for Government</a>.</strong> A link and password will be sent via email 1 hour, 1 day, and 1 week prior to the event start time for those who register. For more info, see the <a href="https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux" title="Zoom computer and device requirements">computer and device requirements</a> and <a href="https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions" title="View the Zoom Frequently Asked Questions">Frequently Asked Questions</a>. If you have specific questions or security concerns about Zoom for Government, please visit  <a href="https://www.zoomgov.com/">ZoomGov.com</a>.
+      <strong
+        >This event will be held and recorded over
+        <a href="https://zoom.us/government">Zoom for Government</a>.</strong
+      >
+      A link and password will be sent via email 1 hour, 1 day, and 1 week prior
+      to the event start time for those who register. For more info, see the
+      <a
+        href="https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux"
+        title="Zoom computer and device requirements"
+        >computer and device requirements</a
+      >
+      and
+      <a
+        href="https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions"
+        title="View the Zoom Frequently Asked Questions"
+        >Frequently Asked Questions</a
+      >. If you have specific questions or security concerns about Zoom for
+      Government, please visit
+      <a href="https://www.zoomgov.com/">ZoomGov.com</a>.
     </p>
-    <p>Before the event, visit the <a href="https://zoomgov.com/download">Zoom Download Center</a> to install the Zoom web browser client.
-    </p>
-    <p>Please contact us directly at <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a> if you need accessible accommodations to be able to attend. </p>
-    {{- if .Params.captions -}}
     <p>
-      <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{ .Title -}}"><strong>
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#closed_caption" | relURL }}"></use>
-        </svg>
-        <span>View captions</span></strong>
-      </a>
+      Before the event, visit the
+      <a href="https://zoomgov.com/download">Zoom Download Center</a> to install
+      the Zoom web browser client.
     </p>
+    <p>
+      Please contact us directly at
+      <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a> if you need
+      accessible accommodations to be able to attend.
+    </p>
+    {{- if .Params.captions -}}
+      <p>
+        <a
+          class="captions"
+          href="{{- .Params.captions -}}"
+          title="Captions for the {{ .Title -}}"
+          ><strong>
+            <svg
+              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#closed_caption" | relURL }}"
+              ></use>
+            </svg>
+            <span>View captions</span></strong
+          >
+        </a>
+      </p>
     {{- end -}}
 
   </div>

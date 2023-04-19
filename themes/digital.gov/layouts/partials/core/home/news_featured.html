@@ -1,26 +1,27 @@
 {{/* News & Updates */}}
 
+
 <section id="news_featured" class="stream">
   <div class="paper">
     <div class="grid-container grid-container-desktop">
-
       <div class="grid-row">
         <div class="grid-col-12">
           <header class="page-head page-head-{{- .Type -}}">
             <h2>News and Events</h2>
-            <p>Innovative work, news, and ideas from people and teams in government</p>
+            <p>
+              Innovative work, news, and ideas from people and teams in
+              government
+            </p>
 
             <div class="join-buttons">
               <a href="{{- "/join" | relURL -}}">Write for us</a>
             </div>
-
           </header>
         </div>
       </div>
 
       <section class="stream" aria-label="Featured news and events">
-
-        {{/* Future Events ===========================  */}}
+        {{/* Future Events =========================== */}}
         {{- $events := where .Site.RegularPages.Reverse "Section" "events" -}}
 
         {{/* gets the # of news items to display from the config.yml */}}
@@ -38,7 +39,6 @@
         {{/* Merges the past events and the recent blog posts */}}
         {{ $stream := union $posts $past_events }}
         {{/* {{ $stream := union $posts $events }} */}}
-
         {{/* Sorting all the items by date and reverse chron */}}
         {{ $stream := $stream.ByDate.Reverse }}
         {{/* $stream := $stream.ByWeight */}}
@@ -49,7 +49,6 @@
         {{/* Gets the first X items for the news stream */}}
         {{/* The # is defined in the config.yml file */}}
         {{- range $i, $el := first $stream_count $stream -}}
-
           {{- with $events -}}
             {{- if eq $i 2 -}}
               {{- range first 1 $events -}}
@@ -74,29 +73,48 @@
             {{/* External links */}}
             {{- if .Params.source -}}
               {{/* see /layouts/news/ for card templates */}}
-              {{ .Render "card-elsewhere"}}
+              {{ .Render "card-elsewhere" }}
             {{ else }}
               {{/* Blog Posts — Internal links */}}
               {{- if .Params.deck }}
                 {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-article"}}
+                {{ .Render "card-article" }}
               {{ else }}
                 {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-article"}}
+                {{ .Render "card-article" }}
               {{ end }}
             {{ end }}
           {{- end -}}
 
         {{- end -}}
 
+
         <footer>
-          <a class="btn" href="{{- "news" | relURL -}}" title="View news and updates page">
+          <a
+            class="btn"
+            href="{{- "news" | relURL -}}"
+            title="View news and updates page"
+          >
             <span>See all News</span>
-            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-              <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
+            <svg
+              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+              aria-hidden="true"
+              focusable="false"
+              role="img"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+              ></use>
             </svg>
           </a>
-          <p>Have a case study to share? Did your team recently launch something?<br/><a href="{{- "contribute" | relURL -}}" title="Contribute to Digital.gov"><strong>Learn how you can contribute</strong></a></p>
+          <p>
+            Have a case study to share? Did your team recently launch
+            something?<br /><a
+              href="{{- "contribute" | relURL -}}"
+              title="Contribute to Digital.gov"
+              ><strong>Learn how you can contribute</strong></a
+            >
+          </p>
         </footer>
       </section>
     </div>

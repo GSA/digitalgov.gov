@@ -21,9 +21,15 @@
     {{- end }}
 
     {{- if eq .id .current.File.UniqueID }}
-    <span class="arrow-right"></span> {{ .current.Title -}}
+      <span class="arrow-right"></span> {{ .current.Title -}}
     {{ else }}
-    <span class="arrow-right"></span> <a href="{{- .current.Permalink -}}" aria-label="Back to {{- .current.Title -}}">{{- .current.Title -}}</a>
+      <span class="arrow-right"></span>
+      <a
+        href="{{- .current.Permalink -}}"
+        aria-label="Back to {{- .current.Title -}}"
+      >
+        {{- .current.Title -}}
+      </a>
     {{- end -}}
 
   {{- end -}}
