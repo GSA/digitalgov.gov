@@ -52,9 +52,9 @@
           {{/* Also sorting all the items by date and reverse chron */}}
           {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
 
-          {{- if eq .Type "events" -}}
-            {{- .Render "card-event" -}}
-          {{- end -}}
+            {{- if eq .Type "events" -}}
+              {{- .Render "card-event" -}}
+            {{- end -}}
 
             {{- if eq .Type "news" -}}
               {{/* External links */}}

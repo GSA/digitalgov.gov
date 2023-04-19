@@ -63,9 +63,9 @@
           {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
           {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
             {{ $endDate := .Params.End_date | time.Format "2006-01-02" }}
-
-          {{ if lt $endDate $now }}
-            {{ .Render "card-event"}}
+            {{ if lt $endDate $now }}
+              {{ .Render "card-event" }}
+            {{ end }}
           {{ end }}
         </div>
       </div>

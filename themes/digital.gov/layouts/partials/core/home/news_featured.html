@@ -21,8 +21,7 @@
       </div>
 
       <section class="stream" aria-label="Featured news and events">
-
-        {{/* Future Events ===========================  */}}
+        {{/* Future Events =========================== */}}
         {{/* gets the # of news items to display from the config.yml */}}
         {{- $events_count := .Site.Params.events_count -}}
         {{- $events := where .Site.RegularPages "Section" "events" -}}

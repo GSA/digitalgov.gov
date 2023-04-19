@@ -248,9 +248,9 @@
                 {{/* Loop through all the pages */}}
                 {{- range $stream -}}
 
-                {{- if eq .Type "events" -}}
-                  {{- .Render "card-event" -}}
-                {{- end -}}
+                  {{- if eq .Type "events" -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
 
                   {{- if eq .Type "news" -}}
                     {{/* External links */}}
