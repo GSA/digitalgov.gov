@@ -5,9 +5,11 @@
 
   <article>
 
-    {{- partial "core/breadcrumbs.html" . -}}
-
+    <!-- <div class="grid-container grid-container-desktop">
+      {{- partial "core/breadcrumbs.html" . -}}
+    </div> -->
     <div class="grid-container grid-container-desktop">
+      {{- partial "core/breadcrumbs.html" . -}}
       <div class="grid-row grid-gap-4">
 
         <div class="grid-col-12 tablet-lg:grid-col-2" data-edit-this="{{- $path -}}">
@@ -18,14 +20,6 @@
           <div class="guide-content usa-layout-docs__main usa-prose" data-edit-this="{{- $path -}}">
 
             {{- partial "core/guides/guide-page-head.html" . -}}
-
-            {{/*
-              Checks if the page has the "guide-section-nav" shortcode
-              If not, it will render the "guide-section-nav".
-            */}}
-            <!-- {{- if not (.HasShortcode "guide-toc") -}}
-              {{- partial "core/guides/guide-toc.html" . -}}
-            {{- end -}} -->
 
             {{ .Content }}
 
