@@ -11,6 +11,23 @@
   </div>
 </nav>
 
+<nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item">
+      <a href="/" class="usa-breadcrumb__link">
+        <span>Home</span>
+      </a>
+    </li>
+    <li class="usa-breadcrumb__list-item">
+      <a href="" class="usa-breadcrumb__link">
+        <span>
+          {{- template "breadcrumb" dict "current" . "id" .File.UniqueID -}}
+        </span>
+      </a>
+    </li>
+  </ol>
+</nav>
+
 <!-- Breadcrumb template -->
 {{- define "breadcrumb" -}}
   {{- if .current.Parent -}}
@@ -21,9 +38,22 @@
     {{- end }}
 
     {{- if eq .id .current.File.UniqueID }}
-    <span class="arrow-right"></span> {{ .current.Title -}}
+    <li class="usa-breadcrumb__list-item">
+      <a href="{{- .current.Permalink -}}" class="usa-breadcrumb__link">
+        <span>
+          {{ .current.Title -}}
+        </span>
+      </a>
+    </li>
     {{ else }}
-    <span class="arrow-right"></span> <a href="{{- .current.Permalink -}}" aria-label="Back to {{- .current.Title -}}">{{- .current.Title -}}</a>
+    <!-- <li class="usa-breadcrumb__list-item usa-current">
+      <a href="{{- .current.Permalink -}}" class="usa-breadcrumb__link" aria-current="page" aria-label="Back to {{ .current.Title }}">
+        <span>
+          {{ .current.Title -}}
+        </span>
+      </a>
+    </li> -->
+    <!-- <span class="arrow-right"></span> <a href="{{- .current.Permalink -}}" aria-label="Back to {{- .current.Title -}}">{{- .current.Title -}}</a> -->
     {{- end -}}
 
   {{- end -}}
