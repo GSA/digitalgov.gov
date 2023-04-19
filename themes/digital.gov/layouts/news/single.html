@@ -1,5 +1,4 @@
 {{- define "content" -}}
-
   {{ $path := "" }}{{ with .File }}
     {{ $path = .Path }}
   {{ else }}
@@ -8,9 +7,9 @@
 
 
   <main role="main" id="main-content">
-    {{- partial "partials/core/blog-warning.html" . -}}
+    {{ partial "core/blog-date-warning.html" . }}
     <article
-      {{ if .Params.short_url -}}
+      {{- if .Params.short_url -}}
         data-short_url="{{- .Params.short_url -}}"
       {{- end -}}
     >

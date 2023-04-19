@@ -1,0 +1,11 @@
+{{- $fiveYearsFromToday := now.AddDate -5 0 0 -}}
+{{- if lt .Date $fiveYearsFromToday -}}
+  <div class="usa-alert usa-alert--warning">
+    <div class="usa-alert__body">
+      <p class="usa-alert__text">
+        This article was published more than 5 years ago. Links may not function
+        and information on the page may be out of date.
+      </p>
+    </div>
+  </div>
+{{- end -}}
