@@ -10,10 +10,6 @@
       <div class="flex-align-end card-event__kicker">
         <span>{{- .Params.kicker -}}</span>
       </div>
-      {{- else -}}
-        {{- if .Params.youtube_id -}}
-        <div class="card-event__kicker">Video</div>
-        {{- end -}}
       {{- end -}}
       <h2 class="card-event__title" id="{{ .Title | urlize }}">
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
@@ -28,7 +24,11 @@
       {{- end -}}
 
       {{- if .Params.youtube_id -}}
-      <div class="card-event__watch-label">Watch Video</div>
+      <div class="card-event__watch-label">
+        <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
+          <use xlink:href="{{ "uswds/img/sprite.svg#youtube" | relURL }}"></use>
+        </svg> Watch Video
+      </div>
       {{- end -}}
 
       {{- if .Params.host -}}
