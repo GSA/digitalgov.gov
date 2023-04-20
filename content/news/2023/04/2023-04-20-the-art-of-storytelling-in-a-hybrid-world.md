@@ -19,7 +19,11 @@ slug: the-art-of-storytelling-in-a-hybrid-world
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
+primary_image: "metamorworks-istock-getty-images-plus-815451162-comp"
+
 ---
+
 Since the days of cave paintings, communicators have been trying to keep up with the flow of information and the evolving needs of their audience. In light of an increasingly global society and our sudden transition to even more supportive technology during the height of the COVID-19 pandemic, our communications capabilities have been increasingly challenged. 
 
 Even more so, we have a new generation — [Gen Z](https://guides.loc.gov/consumer-research/market-segments/generations#s-lg-box-24624903) — joining the workforce. Born between 1997 and 2012, Gen Z are digital natives, meaning that they have grown up with technology at their collective fingertips. This, of course, brings its own unique challenges and opportunities.
@@ -106,4 +110,4 @@ The bottom line? You cannot always be “in person” physically, but you can st
 <li id="fn1">Bohns, Vanessa. 2017. Review of A Face-To-Face Request Is 34 Times More Successful than an Email. Harvard Business Review. April 11, 2017. https://hbr.org/2017/04/a-face-to-face-request-is-34-times-more-successful-than-an-email. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 <li id="fn2">Canaday, Sara. 2021. Review of Post-Pandemic Communication. Reviewed by Gary Drevitch. Psychology Today. August 6, 2021. https://www.psychologytoday.com/us/blog/you-according-them/202108/post-pandemic-communication. <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
 </ol>
-<footer>
+</footer>
