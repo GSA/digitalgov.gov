@@ -19,6 +19,8 @@ end_date: 2023-04-20 15:00:00 -0500
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-april-title-card
 ---
+
+{{< asset-static file="uswds-monthly-call-april-2023.pptx" label="View the slides (PowerPoint presentation, 3.3 MB, 72 pages)" >}}
 Join us this month as we discuss how and why the U.S. Web Design System (USWDS) team performed their Top Tasks research, as well as what they learned and what they'll do next. Tune-in to learn more about what your feedback is doing for the Design System. 
 
 In this session, you’ll learn:
