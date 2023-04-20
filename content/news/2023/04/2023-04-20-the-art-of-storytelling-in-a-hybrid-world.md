@@ -8,6 +8,9 @@ summary: Combined with technology and audience awareness, our increasingly
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
+  - content
+  - social media
+  - writing
   - plain-language
   - communication
   - crowdsourcing
