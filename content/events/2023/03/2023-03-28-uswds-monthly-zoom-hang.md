@@ -1,11 +1,11 @@
 ---
-title: USWDS Monthly Call - May 2023
+title: USWDS Monthly Call - March 2023
 summary: "Making sense: Cognition, perception, and design"
 host: U.S. Web Design System
 event_organizer: Digital.gov
 cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItceqgqjwoHl_zCE4rfcQlOhV1ePPSqjg
-end_date: 2023-05-16 15:00:00 -0500
+end_date: 2023-03-28 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - open-source
@@ -13,7 +13,7 @@ topics:
   - uswds
 slug: uswds-monthly-call-march-2023
 captions: https://www.streamtext.net/player/?event=BIS-GSA-1731
-date: 2023-05-16 14:00:00 -0500
+date: 2023-03-28 14:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 

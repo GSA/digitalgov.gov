@@ -249,7 +249,7 @@
                 {{- range $stream -}}
 
                   {{- if eq .Type "events" -}}
-                    {{- .Render "card-event-past" -}}
+                    {{- .Render "card-event" -}}
                   {{- end -}}
 
                   {{- if eq .Type "news" -}}
