@@ -1,16 +1,13 @@
-<section class="breadcrumbs">
-  <nav class="usa-breadcrumb" aria-label="Breadcrumbs">
-    <ol class="usa-breadcrumb__list">
-      <li class="usa-breadcrumb__list-item">
-        <a href="/" class="usa-breadcrumb__link" ara-label="Back to home">
-          <span>Home</span>
-        </a>
-      </li>
-      {{- template "breadcrumb" dict "current" . "id" .File.UniqueID -}}
-    </ol>
-  </nav>
-</section>
-
+<nav class="usa-breadcrumb" aria-label="Breadcrumb">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item">
+      <a href="/" class="usa-breadcrumb__link" ara-label="Back to home">
+        <span>Home</span>
+      </a>
+    </li>
+    {{- template "breadcrumb" (dict "current" . "id" .File.UniqueID) -}}
+  </ol>
+</nav>
 
 <!-- Breadcrumb template -->
 {{- define "breadcrumb" -}}
@@ -21,11 +18,11 @@
       {{- template "breadcrumb" dict "current" .current.Parent -}}
     {{- end }}
 
-    {{/*  Display the final current active sub-page with no link styling */}}
+    {{/*  Display the page title with no link styling */}}
     {{- if eq .id .current.File.UniqueID }}
     <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
       <span>
-        {{ .current.Title -}}
+        {{ .current.Title | truncate 50 -}}
       </span>
     </li>
     {{/*  Display the hierarchy path as links */}}

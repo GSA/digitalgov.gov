@@ -2,17 +2,10 @@
 
 <main role="main" id="main-content" class="page main-content">
   <article class="grid-container grid-container-desktop">
+    {{- partial "core/breadcrumbs.html" . -}}
     <header>
       {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
       <div data-edit-this="{{- $path -}}">
-        <p class="breadcrumb">
-          <a href="{{ .Parent.Permalink }}" aria-label="Back to {{ .Parent.Title }}">
-            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-              <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
-            </svg>
-            <span>{{ .Parent.Title }}</span>
-          </a>
-        </p>
         {{/* Page Title */}}
         <h1>{{ .Title | markdownify }} Community</h1>
 

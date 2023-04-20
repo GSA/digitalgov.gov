@@ -2,6 +2,11 @@
 
 // Article
 
+// remove border-top from main element - move to overrides?
+.usa-header + main {
+  border-top: none;
+}
+
 main {
   @include u-padding-y(3);
   @include at-media("tablet") {
@@ -14,22 +19,6 @@ main {
   > article > header {
     @include u-padding-bottom(2);
     @include u-margin-bottom(3);
-
-    // Breadcrumbs
-    .breadcrumb {
-      @include u-margin-y(2);
-      @include u-text("bold");
-      @include u-font("sans", "md");
-      a {
-        span {
-          @include u-padding-bottom("2px");
-        }
-        @include u-text("no-underline");
-        &:hover span {
-          border-bottom: 3px #656bd7 solid; // $indigo-40
-        }
-      }
-    }
 
     .kicker {
       @include u-margin(0);

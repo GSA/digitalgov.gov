@@ -4,6 +4,10 @@
   @include u-text("white");
 }
 
+.usa-breadcrumb {
+  padding-top: 0;
+}
+
 //overrides for in-page nav component on /resources
 .usa-in-page-nav {
   // sets in-page column to be even with content

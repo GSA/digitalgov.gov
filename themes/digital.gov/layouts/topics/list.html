@@ -6,15 +6,10 @@
 <main role="main" id="main-content" class="main-topic">
   <div class="grid-container grid-container-desktop">
     {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+    {{- partial "core/breadcrumbs.html" . -}}
     <div class="grid-row tablet-lg:grid-gap-4" data-edit-this="{{- $path -}}">
       <div class="grid-col-12">
         <header class="page-header">
-          <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}" aria-label="Back to Resources">
-            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-              <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
-            </svg>
-            <span>All Resources</span>
-          </a></p>
           <h1>{{- .Title -}}</h1>          
           {{- $allpages := (where .Pages "Section" "news") -}}
 
