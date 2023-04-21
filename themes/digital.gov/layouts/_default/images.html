@@ -13,38 +13,34 @@
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
 
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-          </div>
-        </div>
-      </div>
-    </header>
-
-    <section>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="{{- $path -}}">
-
-            {{/* Content */}}
-            <div class="content">
-              {{- .Content -}}
+              {{/* Deck */}}
+              {{- if .Params.deck -}}
+                <div class="deck">{{- .Params.deck | markdownify -}}</div>
+              {{- end -}}
             </div>
-
-            <div id="stream-images" class="stream usa-prose"></div>
-
-            {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-
-            {{/* Touchpoints Form */}}
-            {{- partial "core/touchpoints-form.html" . -}}
-
           </div>
-
         </div>
-      </div>
-    </section>
+      </header>
 
-  </article>
-</main>
+      <section>
+        <div class="grid-container grid-container-desktop">
+          <div class="grid-row">
+            <div class="grid-col-12" data-edit-this="{{- $path -}}">
+              {{/* Content */}}
+              <div class="content">
+                {{- .Content -}}
+              </div>
+
+              <div id="stream-images" class="stream usa-prose"></div>
+
+              {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+
+              {{/* Touchpoints Form */}}
+              {{- partial "core/touchpoints-form.html" . -}}
+            </div>
+          </div>
+        </div>
+      </section>
+    </article>
+  </main>
 {{- end -}}

@@ -1,34 +1,40 @@
 {{- define "content" -}}
-  {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
   <main role="main" id="main-content">
     <article class="grid-container grid-container-desktop">
       {{- partial "core/breadcrumbs.html" . -}}
       <header>
         <div data-edit-this="{{- $path -}}">
           {{- if .Params.kicker -}}
-          <p class="kicker">{{- .Params.kicker -}}</p>
+            <p class="kicker">{{- .Params.kicker -}}</p>
           {{- end -}}
           {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}} </h1>
+          <h1>{{- .Title | markdownify -}}</h1>
 
           {{/* Deck */}}
           {{- if .Params.deck -}}
-          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
           {{- end -}}
         </div>
       </header>
 
       <div class="usa-in-page-nav-container">
-        <aside class="usa-in-page-nav" data-title-heading-level="h3" data-root-margin="-350px 0px -350px 0px">
+        <aside
+          class="usa-in-page-nav"
+          data-title-heading-level="h3"
+          data-root-margin="-350px 0px -350px 0px"
+        >
           <div class="content__related-items">
-
             {{/* Related Communities and Services */}}
             {{- partial "core/get_related.html" . -}}
 
           </div>
         </aside>
         <div data-edit-this="{{- $path -}}">
-
           {{/* Content */}}
           <div class="content usa-prose">
             {{- .Content -}}

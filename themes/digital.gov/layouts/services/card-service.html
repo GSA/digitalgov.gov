@@ -1,6 +1,9 @@
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
 <div class="card-service" data-edit-this="{{- $path -}}">
-
   {{/* set the href as a variable */}}
   {{- $href := "" -}}
   {{- if .Params.source_url -}}
@@ -10,14 +13,12 @@
   {{- end -}}
 
   {{/* Logos
-  Get the "source" in the file and looks up the icon that is used there.
+    Get the "source" in the file and looks up the icon that is used there.
   */}}
   {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
   {{- if $source -}}
-
     {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
     {{- template "logo" dict "src" $src "alt" $source.Params.name "href" $href -}}
-
   {{- else if .Params.logo -}}
 
     {{- $src := (printf "/logos/%s%s" .Params.logo "-logo.png") -}}
@@ -29,8 +30,13 @@
 
   {{- end -}}
 
+
   <div class="copy">
-    <h3><a href="{{- $href -}}" title="{{- .Params.title -}}">{{- .Params.title -}}</a></h3>
+    <h3>
+      <a href="{{- $href -}}" title="{{- .Params.title -}}"
+        >{{- .Params.title -}}</a
+      >
+    </h3>
 
     <p>{{- .Params.summary | markdownify -}}</p>
 
@@ -39,11 +45,12 @@
     {{- end -}}
 
   </div>
-
 </div>
 
 {{- define "logo" -}}
   <div class="logo">
-    <a href="{{- .href -}}" title="{{- .alt -}}"><img src="{{ .src | relURL }}" alt="{{- .alt }} logo"></a>
+    <a href="{{- .href -}}" title="{{- .alt -}}"
+      ><img src="{{ .src | relURL }}" alt="{{- .alt }} logo"
+    /></a>
   </div>
 {{- end -}}

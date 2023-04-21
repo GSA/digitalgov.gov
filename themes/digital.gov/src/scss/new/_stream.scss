@@ -6,7 +6,7 @@
     @include u-text("bold");
     @include u-text("indigo-warm-80");
     @include at-media("tablet-lg") {
-      @include u-font("sans", "xl");
+      @include u-font("sans", "lg");
     }
   }
   .card:first-child {

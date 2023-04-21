@@ -1,5 +1,6 @@
 {{/* Single Topic + article list
-     This template lists out the articles for a given topic */}}
+  This template lists out the articles for a given topic
+*/}}
 
 {{- define "content" -}}
 
@@ -13,115 +14,111 @@
           <h1>{{- .Title -}}</h1>          
           {{- $allpages := (where .Pages "Section" "news") -}}
 
-          <p class="deck">{{- .Params.summary -}}</p>
-
-        </header>
+            <p class="deck">{{- .Params.summary -}}</p>
+          </header>
+        </div>
       </div>
-    </div>
 
-    {{/* If the topic page has Content */}}
-    {{- if .Content -}}
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <div class="content usa-prose">
-          {{- .Content -}}
+      {{/* If the topic page has Content */}}
+      {{- if .Content -}}
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <div class="content usa-prose">
+              {{- .Content -}}
+            </div>
+          </div>
+        </div>
+      {{- end -}}
+
+
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <section>
+            {{/* If the first page in a paginated sequence */}}
+            {{ if eq .Paginator.PageNumber 1 }}
+
+              {{/* Gets the resource .Pages associated with this topic */}}
+              {{- $resources := (where .Pages "Section" "resources") -}}
+              {{/* Pass $resources to the collection template */}}
+              {{- partial "core/collection.html" (dict "list" $resources "heading" (print "Resources on " .Title)) -}}
+
+              {{/* Gets the services .Pages associated with this topic */}}
+              {{- $services := (where .Pages "Section" "services") -}}
+              {{/* Pass $services to the collection template */}}
+              {{- partial "core/collection.html" (dict "list" $services "heading" "Tools and Services") -}}
+
+              {{/* Gets the communities .Pages associated with this topic */}}
+              {{- $communities := (where .Pages "Section" "communities") -}}
+              {{/* Pass $communities to the collection template */}}
+              {{- partial "core/collection.html" (dict "list" $communities "heading" "Join a Community of Practice") -}}
+
+            {{- end -}}
+
+          </section>
         </div>
       </div>
     </div>
-    {{- end -}}
 
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <section>
+    <section id="news_featured" class="stream">
+      <div class="paper">
+        <div class="grid-container grid-container-desktop">
+          <div class="grid-row tablet-lg:grid-gap-4">
+            <div class="grid-col-12 ">
+              {{/* Blog Posts by Topic —
+                List all of the blog posts and events tagged with this topic
+              */}}
 
-          {{/* If the first page in a paginated sequence */}}
-          {{ if eq .Paginator.PageNumber 1 }}
+              {{/* Gets the past events */}}
+              {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
-            {{/* Gets the resource .Pages associated with this topic */}}
-            {{- $resources := (where .Pages "Section" "resources") -}}
-            {{/* Pass $resources to the collection template */}}
-            {{- partial "core/collection.html" (dict "list" $resources "heading" (print "Resources on " .Title)) -}}
+              {{/* Gets the past events that have youtube_id set */}}
+              {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
-            {{/* Gets the services .Pages associated with this topic */}}
-            {{- $services := (where .Pages "Section" "services") -}}
-            {{/* Pass $services to the collection template */}}
-            {{- partial "core/collection.html" (dict "list" $services "heading" "Tools and Services") -}}
+              {{/* Gets the recent blog posts */}}
+              {{- $posts := where .Paginator.Pages "Section" "news" -}}
 
-            {{/* Gets the communities .Pages associated with this topic */}}
-            {{- $communities := (where .Pages "Section" "communities") -}}
-            {{/* Pass $communities to the collection template */}}
-            {{- partial "core/collection.html" (dict "list" $communities "heading" "Join a Community of Practice") -}}
+              {{/* Merges the past events and the recent blog posts */}}
+              {{ $stream := union $posts $past_events }}
 
-          {{- end -}}
+              {{/* Sorting all the items by date and reverse chron */}}
+              {{ $stream := $stream.ByDate.Reverse }}
 
-        </section>
-      </div>
-    </div>
-  </div>
+              {{/* If there are any blog posts at all... */}}
+              {{- if $stream -}}
+                <h2>News and Events on {{ .Title -}}</h2>
+                <p>{{- len $allpages }} posts</p>
 
-  <section id="news_featured" class="stream">
-    <div class="paper">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-4">
-          <div class="grid-col-12 ">
+                {{/* Loop through all the pages */}}
+                {{- range $stream -}}
+                  {{- if eq .Type "events" -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
 
-          {{/* Blog Posts by Topic —
-          List all of the blog posts and events tagged with this topic */}}
+                  {{- if eq .Type "news" -}}
+                    {{/* External links */}}
+                    {{- if .Params.source -}}
+                      {{/* see /layouts/news/ for card templates */}}
+                      {{ .Render "card-elsewhere" }}
+                    {{ else }}
+                      {{/* Blog Posts — Internal links */}}
+                      {{- if .Params.deck }}
+                        {{/* see /layouts/news/ for card templates */}}
+                        {{ .Render "card-article" }}
+                      {{ else }}
+                        {{/* see /layouts/news/ for card templates */}}
+                        {{ .Render "card-article" }}
+                      {{ end }}
+                    {{ end }}
+                  {{- end -}}
 
-          {{/* Gets the past events */}}
-          {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-          {{/* Gets the past events that have youtube_id set  */}}
-          {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-
-          {{/* Gets the recent blog posts */}}
-          {{- $posts := where .Paginator.Pages "Section" "news" -}}
-
-          {{/* Merges the past events and the recent blog posts */}}
-          {{ $stream := union $posts $past_events }}
-
-          {{/* Sorting all the items by date and reverse chron */}}
-          {{ $stream := $stream.ByDate.Reverse }}
-
-          {{/* If there are any blog posts at all... */}}
-          {{- if $stream -}}
-            <h2>News and Events on {{ .Title -}}</h2>
-            <p>{{- len $allpages }} posts</p>
-
-            {{/* Loop through all the pages */}}
-            {{- range $stream -}}
-
-              {{- if eq .Type "events" -}}
-                {{- .Render "card-event-past" -}}
+                {{- end -}}
               {{- end -}}
 
-              {{- if eq .Type "news" -}}
-                {{/* External links */}}
-                {{- if .Params.source -}}
-                  {{/* see /layouts/news/ for card templates */}}
-                  {{ .Render "card-elsewhere"}}
-                {{ else }}
-                  {{/* Blog Posts — Internal links */}}
-                  {{- if .Params.deck }}
-                    {{/* see /layouts/news/ for card templates */}}
-                    {{ .Render "card-article"}}
-                  {{ else }}
-                    {{/* see /layouts/news/ for card templates */}}
-                    {{ .Render "card-article"}}
-                  {{ end }}
-                {{ end }}
-              {{- end -}}
-
-            {{- end -}}
-          {{- end -}}
-
-          {{- partial "core/pagination.html" . -}}
+              {{- partial "core/pagination.html" . -}}
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
-</main>
-
+    </section>
+  </main>
 {{- end -}}

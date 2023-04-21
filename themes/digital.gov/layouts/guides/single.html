@@ -1,5 +1,10 @@
 {{ define "content" }}
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
+
 
 <main role="main" id="main-content">
 
@@ -13,26 +18,23 @@
           {{- partial "core/guides/guide-nav.html" . -}}
         </div>
 
-        <div class="grid-col-12 tablet-lg:grid-col-8">
-          <div class="guide-content usa-layout-docs__main usa-prose" data-edit-this="{{- $path -}}">
+          <div class="grid-col-12 tablet-lg:grid-col-8">
+            <div
+              class="guide-content usa-layout-docs__main usa-prose"
+              data-edit-this="{{- $path -}}"
+            >
+              {{- partial "core/guides/guide-page-head.html" . -}}
 
-            {{- partial "core/guides/guide-page-head.html" . -}}
+              {{ .Content }}
 
-            {{ .Content }}
+              {{- partial "core/guides/guide-prev-next.html" . -}}
 
-            {{- partial "core/guides/guide-prev-next.html" . -}}
-
-            {{/* Touchpoints Form */}}
-            {{- partial "core/touchpoints-form.html" . -}}
-
+              {{/* Touchpoints Form */}}
+              {{- partial "core/touchpoints-form.html" . -}}
+            </div>
           </div>
-
         </div>
-
       </div>
-    </div>
-  </article>
-
-</main>
-
-{{- end -}} {{/* end 'content' block */}}
+    </article>
+  </main>
+{{- end -}}
