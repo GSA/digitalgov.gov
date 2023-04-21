@@ -18,22 +18,26 @@
       {{- template "breadcrumb" dict "current" .current.Parent -}}
     {{- end }}
 
-    {{/*  Display the page title with no link styling */}}
+    {{/* Display the page title with no link styling */}}
     {{- if eq .id .current.File.UniqueID }}
-    <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
-      <span>
-        {{ .current.Title | truncate 50 -}}
-      </span>
-    </li>
-    {{/*  Display the hierarchy path as links */}}
-    {{ else }}
-    <li class="usa-breadcrumb__list-item">
-      <a href="{{- .current.Permalink -}}" class="usa-breadcrumb__link" aria-label="Back to {{ .current.Title}}">
+      <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
         <span>
-          {{ .current.Title -}}
+          {{ .current.Title | truncate 50 -}}
         </span>
-      </a>
-    </li>
+      </li>
+      {{/* Display the hierarchy path as links */}}
+    {{ else }}
+      <li class="usa-breadcrumb__list-item">
+        <a
+          href="{{- .current.Permalink -}}"
+          class="usa-breadcrumb__link"
+          aria-label="Back to {{ .current.Title }}"
+        >
+          <span>
+            {{ .current.Title -}}
+          </span>
+        </a>
+      </li>
     {{- end -}}
   {{- end -}}
 {{- end -}}

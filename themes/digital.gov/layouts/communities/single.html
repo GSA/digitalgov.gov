@@ -1,13 +1,16 @@
 {{ define "content" }}
-
-<main role="main" id="main-content" class="page main-content">
-  <article class="grid-container grid-container-desktop">
-    {{- partial "core/breadcrumbs.html" . -}}
-    <header>
-      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-      <div data-edit-this="{{- $path -}}">
-        {{/* Page Title */}}
-        <h1>{{ .Title | markdownify }} Community</h1>
+  <main role="main" id="main-content" class="page main-content">
+    <article class="grid-container grid-container-desktop">
+      {{- partial "core/breadcrumbs.html" . -}}
+      <header>
+        {{ $path := "" }}{{ with .File }}
+          {{ $path = .Path }}
+        {{ else }}
+          {{ $path = .Path }}
+        {{ end }}
+        <div data-edit-this="{{- $path -}}">
+          {{/* Page Title */}}
+          <h1>{{ .Title | markdownify }} Community</h1>
 
           {{/* Deck */}}
           {{- if .Params.deck -}}

@@ -6,18 +6,25 @@
   {{ end }}
 
 
-<main role="main" id="main-content">
-  <article {{ if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
-    <header>
-      <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
-        {{- partial "core/breadcrumbs.html" . -}}
-        <div class="grid-row">
-          <div class="grid-col-12">
-            {{- if .Params.kicker -}}
-            <p class="kicker">{{- .Params.kicker -}}</p>
-            {{- end -}}
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
+  <main role="main" id="main-content">
+    <article
+      {{ if .Params.short_url -}}
+        data-short_url="{{- .Params.short_url -}}"
+      {{- end -}}
+    >
+      <header>
+        <div
+          class="grid-container grid-container-desktop"
+          data-edit-this="{{- $path -}}"
+        >
+          {{- partial "core/breadcrumbs.html" . -}}
+          <div class="grid-row">
+            <div class="grid-col-12">
+              {{- if .Params.kicker -}}
+                <p class="kicker">{{- .Params.kicker -}}</p>
+              {{- end -}}
+              {{/* Page Title */}}
+              <h1>{{- .Title | markdownify -}}</h1>
 
               {{/* Deck */}}
               {{- if .Params.deck -}}

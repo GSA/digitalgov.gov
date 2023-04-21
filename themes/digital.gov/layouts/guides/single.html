@@ -6,17 +6,17 @@
   {{ end }}
 
 
-<main role="main" id="main-content">
-
-  <article>
-
-    <div class="grid-container grid-container-desktop">
-      {{- partial "core/breadcrumbs.html" . -}}
-      <div class="grid-row grid-gap-4">
-
-        <div class="grid-col-12 tablet-lg:grid-col-2" data-edit-this="{{- $path -}}">
-          {{- partial "core/guides/guide-nav.html" . -}}
-        </div>
+  <main role="main" id="main-content">
+    <article>
+      <div class="grid-container grid-container-desktop">
+        {{- partial "core/breadcrumbs.html" . -}}
+        <div class="grid-row grid-gap-4">
+          <div
+            class="grid-col-12 tablet-lg:grid-col-2"
+            data-edit-this="{{- $path -}}"
+          >
+            {{- partial "core/guides/guide-nav.html" . -}}
+          </div>
 
           <div class="grid-col-12 tablet-lg:grid-col-8">
             <div

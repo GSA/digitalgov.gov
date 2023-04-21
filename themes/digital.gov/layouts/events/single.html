@@ -16,21 +16,22 @@
   {{ end }}
 
 
-<main role="main" id="main-content" class="event">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop">
-        {{- partial "core/breadcrumbs.html" . -}}
-        <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="{{- $path -}}">
-            {{- if .Params.kicker -}}
-            <p class="kicker">{{- .Params.kicker -}}</p>
-            {{- end -}}
-            <h1>{{- .Title | markdownify -}}</h1>
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
+  <main role="main" id="main-content" class="event">
+    <article>
+      <header>
+        <div class="grid-container grid-container-desktop">
+          {{- partial "core/breadcrumbs.html" . -}}
+          <div class="grid-row">
+            <div class="grid-col-12" data-edit-this="{{- $path -}}">
+              {{- if .Params.kicker -}}
+                <p class="kicker">{{- .Params.kicker -}}</p>
+              {{- end -}}
+              <h1>{{- .Title | markdownify -}}</h1>
+              {{/* Deck */}}
+              {{- if .Params.deck -}}
+                <div class="deck">{{- .Params.deck | markdownify -}}</div>
+              {{- end -}}
+
 
               <p class="datetime">
                 <svg

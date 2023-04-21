@@ -1,17 +1,16 @@
 {{- define "content" -}}
-
-<main role="main" id="main-content">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop">
-        {{- partial "core/breadcrumbs.html" . -}}
-        <div class="grid-row">
-          <div class="grid-col-12">
-            {{- if .Params.kicker -}}
-            <p class="kicker">{{- .Params.kicker -}}</p>
-            {{- end -}}
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
+  <main role="main" id="main-content">
+    <article>
+      <header>
+        <div class="grid-container grid-container-desktop">
+          {{- partial "core/breadcrumbs.html" . -}}
+          <div class="grid-row">
+            <div class="grid-col-12">
+              {{- if .Params.kicker -}}
+                <p class="kicker">{{- .Params.kicker -}}</p>
+              {{- end -}}
+              {{/* Page Title */}}
+              <h1>{{- .Title | markdownify -}}</h1>
 
               {{/* Deck */}}
               {{- if .Params.summary -}}

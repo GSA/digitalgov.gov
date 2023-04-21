@@ -1,17 +1,21 @@
 {{- define "content" -}}
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-<main role="main" id="main-content">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop">
-        {{- partial "core/breadcrumbs.html" . -}}
-        <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="{{- $path -}}">
-            {{- if .Params.kicker -}}
-            <p class="kicker">{{- .Params.kicker -}}</p>
-            {{- end -}}
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
+  <main role="main" id="main-content">
+    <article>
+      <header>
+        <div class="grid-container grid-container-desktop">
+          {{- partial "core/breadcrumbs.html" . -}}
+          <div class="grid-row">
+            <div class="grid-col-12" data-edit-this="{{- $path -}}">
+              {{- if .Params.kicker -}}
+                <p class="kicker">{{- .Params.kicker -}}</p>
+              {{- end -}}
+              {{/* Page Title */}}
+              <h1>{{- .Title | markdownify -}}</h1>
 
               {{/* Deck */}}
               {{- if .Params.deck -}}
