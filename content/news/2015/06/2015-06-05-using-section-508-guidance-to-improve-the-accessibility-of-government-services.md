@@ -2,7 +2,7 @@
 slug: using-section-508-guidance-to-improve-the-accessibility-of-government-services
 date: 2015-06-05 11:10:22 -0400
 title: Using Section 508 Guidance to Improve the Accessibility of Government Services
-summary: 'Section 508 of the Rehabilitation Act requires federal agencies to use accessible information and communication technology (ICT), whether procured, developed, or maintained. Since the U.S. Access Board issued regulations for the law in 2000, much implementation guidance has been prepared by various agencies. While the regulations are being refreshed to account for changes in ICT over'
+summary: 'Section 508 of the Rehabilitation Act requires federal agencies to use accessible information and communication technology (ICT), whether procured, developed, or maintained.'
 authors:
   - jamal-mazrui
 topics:
@@ -17,64 +17,40 @@ Section 508 of the Rehabilitation Act requires federal agencies to use accessibl
 
 This resource list presents a compilation of links to accessibility guidance, organized primarily—though not exclusively—by the ICT categories of Section 508 regulations. Links to downloadable documents, rather than web pages, indicate the file type in parentheses. In each section, links are ordered alphabetically, beginning with an abbreviation for the agency that authored or hosted the content.
 
-<a name="toc"></a>
+_Agency abbreviations are defined as follows:_
 
-<table width="100%">
-  <tr>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Accessibility Glossaries, FAQs and Resource Portals" href="#Resources">Accessibility Glossaries, FAQs and Resource Portals</a></td>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Self-Contained, Closed Products" href="#ClosedProducts">Self-Contained, Closed Products</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Desktop and Portable Computers" href="#Computers">Desktop and Portable Computers</a></td>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Social Media" href="#SocialMedia">Social Media</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Functional Performance Criteria" href="#Criteria">Functional Performance Criteria</a></td>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px" width="50%"><a title="Software Applications and Operating Systems" href="#AppsOS">Software Applications and Operating Systems</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Information, Documentation, and Support" href="#Support">Information, Documentation, and Support</a></td>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Strategic Planning, Reporting, and Policy" href="#Planning">Strategic Planning, Reporting, and Policy</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Meetings, Conferences, and General Etiquette" href="#Etiquette">Meetings, Conferences, and General Etiquette</a></td>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Telecommunications Products" href="#Telecommunications">Telecommunications Products</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px" width="50%"><a title="Procurement" href="#Procurement">Procurement</a></td>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Video and Multimedia Products" href="#Multimedia">Video and Multimedia Products</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Prototyping" href="#Prototyping">Prototyping</a></td>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px"><a title="Web-based Internet Information and Applications" href="#Web">Web-based Internet Information and Applications</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: left;vertical-align: top;border-style: none;padding-top: 50px" colspan="2"><a title="Agency abbreviations" href="#abbreviations"><em>Agency abbreviations</em></a></td>
-  </tr>
-</table>
+  * CDC = Centers for Disease Control and Prevention
+  * CMS = Centers for Medicare and Medicaid Services
+  * DCG = District of Columbia Government
+  * DHS = Department of Homeland Security
+  * DOL = Department of Labor
+  * DOT = Department of Transportation
+  * ED = Department of Education
+  * FDA = Food and Drug Administration
+  * GSA = General Services Administration
+  * HHS = Department of Health and Human Services
+  * NPS = National Park Service
+  * OMB = Office of Management and Budget
+  * SSA = Social Security Administration
+  * VA = Veterans Affairs
 
-<h2 id="Resources">Accessibility Glossaries, FAQs and Resource Portals</h2>
+
+## Accessibility Glossaries, FAQs and Resource Portals [#Resources]
 
   * [FCC Accessibility Clearinghouse](http://ach.fcc.gov/)
   * [GSA Section 508 Frequently Asked Questions](http://www.section508.gov/sites/default/files/documents/Section%20508%20Frequently%20Asked%20Questions_0.pdf) (PDF)
   * [SSA Guide to Applying Section 508 Standards](http://www.ssa.gov/accessibility/files/SSA_Guide_to_Applying_Section_508_Standards.pdf) (PDF)
   * [VA Section 508 Glossary](http://www.section508.va.gov/support/terms/glossary.doc) (doc)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Computers">Desktop and Portable Computers</h2>
+## Desktop and Portable Computers [#Computers]
 
   * [VA Section 508 Checklist for Desktop and Portable Computers](http://www.section508.va.gov/docs/checklist_1194_26.pdf) (PDF)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Criteria">Functional Performance Criteria</h2>
+Functional Performance Criteria [#Criteria]
 
   * [VA Section 508 Checklist for Functional Performance Criteria](http://www.section508.va.gov/docs/1194_31_VASection508_functional_checklist.doc) (doc)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Support">Information, Documentation, and Support</h2>
+## Information, Documentation, and Support [#Support]
 
   * [CMS Quick Reference Guide to Microsoft Office 2010 Accessibility Checker](http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/Tip-sheet-for-Microsoft-Office-Accessibility-Checker.pdf) (PDF)
   * [ED Key Concepts for Creating Accessible Documents](http://www2.ed.gov/web-guidance/accessibility/key-concepts.doc) (doc)
@@ -129,47 +105,35 @@ This resource list presents a compilation of links to accessibility guidance, or
         * [SSA Word 2010 Accessibility Guidance](http://www.ssa.gov/accessibility/checklists/docs/Word2010E_AccessibilityGuidance_Revised.pdf) (PDF)
         * [VA Creating Accessible Documents with Microsoft Word 2010 Tutorials](http://www.section508.va.gov/support/tutorials/word/index.asp)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Etiquette">Meetings, Conferences, and General Etiquette</h2>
+Meetings, Conferences, and General Etiquette [#Etiquette]
 
   * [CDC Making Meetings Accessible](http://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf) (PDF)
   * [DCG Guide on Accessible Meetings & Conferences](http://odr.dc.gov/sites/default/files/dc/sites/odr/publication/attachments/guide_accessible_meetings_3_2008_revised.pdf) (PDF)
   * [DHS Information on Disability Etiquette](http://www.dhs.gov/xlibrary/assets/training/xus/crcl/employmentdisabilities/Employment_Disabilities/pdf/DHS_Disability_Etiquette.pdf) (PDF)
   * [DOT Checklist for Planning Accessible Meetings and Events](http://www.dot.gov/sites/dot.gov/files/docs/DRC_meetings.doc) (doc)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Procurement">Procurement</h2>
+Procurement [#Procurement]
 
   * [GSA BuyAccessible Evaluation Scenarios for Solicitations](http://www.section508.gov/sites/default/files/documents/Evaluation_Scenarios_Document_Final.pdf) (PDF)
   * [GSA Guidance on Conducting Accessibility Market Research](https://www.buyaccessible.gov/sites/default/files/guidance-on-market-research_1.doc) (doc)
   * [GSA Guidance on Creating 508 Compliant IT Solicitations](http://buyaccessible.gov/sites/default/files/guidance-on-508-compliant-solicitations20140711.doc) (doc)
   * [SSA Guide to Completing the Voluntary Product Accessibility Template](http://www.ssa.gov/accessibility/files/SSA_VPAT_Guide.pdf) (PDF)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Prototyping">Prototyping</h2>
+Prototyping [#Prototyping]
 
   * [SSA Accessibility Checklist for Paper Prototypes](http://www.ssa.gov/accessibility/files/The_Social_Security_Administration_Paper_Prototype_Accessibility_Checklist.pdf) (PDF)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="ClosedProducts">Self-Contained, Closed Products</h2>
+Self-Contained, Closed Products [#ClosedProducts]
 
   * [VA Section 508 Checklist for Self Contained, Closed Products](http://www.section508.va.gov/docs/checklist_1194_25.pdf) (PDF)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="SocialMedia">Social Media</h2>
+Social Media [#SocialMedia]
 
   * [DCG Web and Social Media Accessibility Technical Assistance Manual](http://odr.dc.gov/sites/default/files/dc/sites/odr/publication/attachments/Web%20and%20Social%20Media%20AccessibilityTechnical%20Assistance%20Manual.docx) (docx)
   * [ED Digital Guidebook](http://www2.ed.gov/web-guidance/digital-guidebook/digital-guidebook-nov-2014.pdf) (PDF)
   * [GSA/DOL Improving the Accessibility of Social Media in Government]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}})
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="AppsOS">Software Applications and Operating Systems</h2>
+Software Applications and Operating Systems [#AppsOS]
 
   * [DHS Section 508 Application Test Script](http://www.section508.gov/sites/default/files/documents/TestingSW%26WebShare.doc) (doc)
   * [DHS Section 508 Compliance Test Process for Applications](http://www.dhs.gov/sites/default/files/publications/DHS%20Section%20508%20Compliance%20Test%20Process%20for%20Applications%203.3.pdf) (PDF)
@@ -177,9 +141,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   * [VA Course on Testing Software for Section 508 Compliance](http://www.section508.va.gov/support/sw/course.asp)
   * [VA Section 508 Checklist for Software Applications and Operating Systems](http://www.section508.va.gov/docs/1194_21_VASection508_software_checklist.doc) (doc)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Planning">Strategic Planning, Reporting, and Policy</h2>
+Strategic Planning, Reporting, and Policy [#Planning]
 
   * [DOL Framework for Designing and Implementing Accessible Information and Communication Technology (ICT) Strategic Plans](http://www.dol.gov/odep/pdf/20120224FDIA-ICT-StrategicPlans.pdf) (PDF)
   * [OMB Section 508 Baseline Reporting Template Instructions](http://www.section508.gov/sites/default/files/documents/508_Reporting_Template_Instructions.doc) (doc)
@@ -187,17 +149,11 @@ This resource list presents a compilation of links to accessibility guidance, or
   * [OMB Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](http://www.whitehouse.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF)
   * [SSA Internet Accessibility Policy](http://www.section508.gov/sites/default/files/documents/SSA_Internet_Accessibility_Policy.pdf) (PDF)
 
-<p style="text-align: right">
-  <a title="Back to top" href="#toc">Top ↑</a>
-</p>
-
-<h2 id="Telecommunications">Telecommunications Products</h2>
+Telecommunications Products[#Telecommunications]
 
   * [VA Section 508 Checklist for Telecommunications Products](http://www.section508.va.gov/docs/checklist_1194_23.pdf) (PDF)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Multimedia">Video and Multimedia Products</h2>
+Video and Multimedia Products [#Multimedia]
 
   * [GSA Create Section 508-Compliant Videos on Your Government Websites]({{< ref "2013-11-21-create-section-508-compliant-videos-on-your-government-websites.md" >}})
   * [HHS Guidance for Audio Description](http://www.hhs.gov/web/508/accessiblefiles/accessible-audio-description.html)
@@ -208,9 +164,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   * [VA Course on Creating Accessible Flash](http://www.section508.va.gov/support/flash/index.asp)
   * [VA Section 508 Checklist for Video and Multimedia Products](http://www.section508.va.gov/docs/1194_24_VASection508_video_multimedia_checklist.doc) (doc)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<h2 id="Web">Web-based Internet Information and Applications</h2>
+Web-based Internet Information and Applications [#Web]
 
   * [HHS HTML 508 Checklist](http://www.hhs.gov/web/508/accessiblefiles/checklisthtml.html)
   * [HHS Research-Based Web Design and Usability Guidelines](http://www.usability.gov/how-to-and-tools/resources/guidelines_book.pdf) (PDF)
@@ -219,25 +173,3 @@ This resource list presents a compilation of links to accessibility guidance, or
   * [VA Section 508 Checklist for Web-based Internet Information and Applications](http://www.section508.va.gov/docs/1194_22_VASection508_web_checklist.doc) (doc)
   * [VA Web Best Practices Guide](http://www.section508.va.gov/docs/VAWebBestPracticesGuide.pdf) (PDF)
 
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
-
-<hr style="color: white;border-style: none" />
-
-<em id="abbreviations">Agency abbreviations are defined as follows:</em>
-
-  * CDC = Centers for Disease Control and Prevention
-  * CMS = Centers for Medicare and Medicaid Services
-  * DCG = District of Columbia Government
-  * DHS = Department of Homeland Security
-  * DOL = Department of Labor
-  * DOT = Department of Transportation
-  * ED = Department of Education
-  * FDA = Food and Drug Administration
-  * GSA = General Services Administration
-  * HHS = Department of Health and Human Services
-  * NPS = National Park Service
-  * OMB = Office of Management and Budget
-  * SSA = Social Security Administration
-  * VA = Veterans Affairs
-
-<p style="text-align: right"><a title="Back to top" href="#toc">Top ↑</a></p>
