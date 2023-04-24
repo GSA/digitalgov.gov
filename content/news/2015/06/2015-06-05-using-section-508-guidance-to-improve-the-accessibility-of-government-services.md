@@ -35,14 +35,14 @@ _Agency abbreviations are defined as follows:_
   * VA = Veterans Affairs
 
 
-## Accessibility Glossaries, FAQs and Resource Portals [#Resources]
+## Accessibility Glossaries, FAQs and Resource Portals
 
   * [FCC Accessibility Clearinghouse](http://ach.fcc.gov/)
   * [GSA Section 508 Frequently Asked Questions](http://www.section508.gov/sites/default/files/documents/Section%20508%20Frequently%20Asked%20Questions_0.pdf) (PDF)
   * [SSA Guide to Applying Section 508 Standards](http://www.ssa.gov/accessibility/files/SSA_Guide_to_Applying_Section_508_Standards.pdf) (PDF)
   * [VA Section 508 Glossary](http://www.section508.va.gov/support/terms/glossary.doc) (doc)
 
-## Desktop and Portable Computers [#Computers]
+## Desktop and Portable Computers
 
   * [VA Section 508 Checklist for Desktop and Portable Computers](http://www.section508.va.gov/docs/checklist_1194_26.pdf) (PDF)
 
@@ -50,7 +50,7 @@ Functional Performance Criteria [#Criteria]
 
   * [VA Section 508 Checklist for Functional Performance Criteria](http://www.section508.va.gov/docs/1194_31_VASection508_functional_checklist.doc) (doc)
 
-## Information, Documentation, and Support [#Support]
+## Information, Documentation, and Support
 
   * [CMS Quick Reference Guide to Microsoft Office 2010 Accessibility Checker](http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/Tip-sheet-for-Microsoft-Office-Accessibility-Checker.pdf) (PDF)
   * [ED Key Concepts for Creating Accessible Documents](http://www2.ed.gov/web-guidance/accessibility/key-concepts.doc) (doc)
@@ -105,35 +105,35 @@ Functional Performance Criteria [#Criteria]
         * [SSA Word 2010 Accessibility Guidance](http://www.ssa.gov/accessibility/checklists/docs/Word2010E_AccessibilityGuidance_Revised.pdf) (PDF)
         * [VA Creating Accessible Documents with Microsoft Word 2010 Tutorials](http://www.section508.va.gov/support/tutorials/word/index.asp)
 
-Meetings, Conferences, and General Etiquette [#Etiquette]
+## Meetings, Conferences, and General Etiquette
 
   * [CDC Making Meetings Accessible](http://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf) (PDF)
   * [DCG Guide on Accessible Meetings & Conferences](http://odr.dc.gov/sites/default/files/dc/sites/odr/publication/attachments/guide_accessible_meetings_3_2008_revised.pdf) (PDF)
   * [DHS Information on Disability Etiquette](http://www.dhs.gov/xlibrary/assets/training/xus/crcl/employmentdisabilities/Employment_Disabilities/pdf/DHS_Disability_Etiquette.pdf) (PDF)
   * [DOT Checklist for Planning Accessible Meetings and Events](http://www.dot.gov/sites/dot.gov/files/docs/DRC_meetings.doc) (doc)
 
-Procurement [#Procurement]
+## Procurement
 
   * [GSA BuyAccessible Evaluation Scenarios for Solicitations](http://www.section508.gov/sites/default/files/documents/Evaluation_Scenarios_Document_Final.pdf) (PDF)
   * [GSA Guidance on Conducting Accessibility Market Research](https://www.buyaccessible.gov/sites/default/files/guidance-on-market-research_1.doc) (doc)
   * [GSA Guidance on Creating 508 Compliant IT Solicitations](http://buyaccessible.gov/sites/default/files/guidance-on-508-compliant-solicitations20140711.doc) (doc)
   * [SSA Guide to Completing the Voluntary Product Accessibility Template](http://www.ssa.gov/accessibility/files/SSA_VPAT_Guide.pdf) (PDF)
 
-Prototyping [#Prototyping]
+## Prototyping
 
   * [SSA Accessibility Checklist for Paper Prototypes](http://www.ssa.gov/accessibility/files/The_Social_Security_Administration_Paper_Prototype_Accessibility_Checklist.pdf) (PDF)
 
-Self-Contained, Closed Products [#ClosedProducts]
+## Self-Contained, Closed Products
 
   * [VA Section 508 Checklist for Self Contained, Closed Products](http://www.section508.va.gov/docs/checklist_1194_25.pdf) (PDF)
 
-Social Media [#SocialMedia]
+## Social Media
 
   * [DCG Web and Social Media Accessibility Technical Assistance Manual](http://odr.dc.gov/sites/default/files/dc/sites/odr/publication/attachments/Web%20and%20Social%20Media%20AccessibilityTechnical%20Assistance%20Manual.docx) (docx)
   * [ED Digital Guidebook](http://www2.ed.gov/web-guidance/digital-guidebook/digital-guidebook-nov-2014.pdf) (PDF)
   * [GSA/DOL Improving the Accessibility of Social Media in Government]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}})
 
-Software Applications and Operating Systems [#AppsOS]
+## Software Applications and Operating Systems
 
   * [DHS Section 508 Application Test Script](http://www.section508.gov/sites/default/files/documents/TestingSW%26WebShare.doc) (doc)
   * [DHS Section 508 Compliance Test Process for Applications](http://www.dhs.gov/sites/default/files/publications/DHS%20Section%20508%20Compliance%20Test%20Process%20for%20Applications%203.3.pdf) (PDF)
@@ -141,7 +141,7 @@ Software Applications and Operating Systems [#AppsOS]
   * [VA Course on Testing Software for Section 508 Compliance](http://www.section508.va.gov/support/sw/course.asp)
   * [VA Section 508 Checklist for Software Applications and Operating Systems](http://www.section508.va.gov/docs/1194_21_VASection508_software_checklist.doc) (doc)
 
-Strategic Planning, Reporting, and Policy [#Planning]
+## Strategic Planning, Reporting, and Policy
 
   * [DOL Framework for Designing and Implementing Accessible Information and Communication Technology (ICT) Strategic Plans](http://www.dol.gov/odep/pdf/20120224FDIA-ICT-StrategicPlans.pdf) (PDF)
   * [OMB Section 508 Baseline Reporting Template Instructions](http://www.section508.gov/sites/default/files/documents/508_Reporting_Template_Instructions.doc) (doc)
@@ -149,11 +149,11 @@ Strategic Planning, Reporting, and Policy [#Planning]
   * [OMB Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](http://www.whitehouse.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF)
   * [SSA Internet Accessibility Policy](http://www.section508.gov/sites/default/files/documents/SSA_Internet_Accessibility_Policy.pdf) (PDF)
 
-Telecommunications Products[#Telecommunications]
+## Telecommunications Products
 
   * [VA Section 508 Checklist for Telecommunications Products](http://www.section508.va.gov/docs/checklist_1194_23.pdf) (PDF)
 
-Video and Multimedia Products [#Multimedia]
+## Video and Multimedia Products
 
   * [GSA Create Section 508-Compliant Videos on Your Government Websites]({{< ref "2013-11-21-create-section-508-compliant-videos-on-your-government-websites.md" >}})
   * [HHS Guidance for Audio Description](http://www.hhs.gov/web/508/accessiblefiles/accessible-audio-description.html)
@@ -164,7 +164,7 @@ Video and Multimedia Products [#Multimedia]
   * [VA Course on Creating Accessible Flash](http://www.section508.va.gov/support/flash/index.asp)
   * [VA Section 508 Checklist for Video and Multimedia Products](http://www.section508.va.gov/docs/1194_24_VASection508_video_multimedia_checklist.doc) (doc)
 
-Web-based Internet Information and Applications [#Web]
+## Web-based Internet Information and Applications
 
   * [HHS HTML 508 Checklist](http://www.hhs.gov/web/508/accessiblefiles/checklisthtml.html)
   * [HHS Research-Based Web Design and Usability Guidelines](http://www.usability.gov/how-to-and-tools/resources/guidelines_book.pdf) (PDF)
