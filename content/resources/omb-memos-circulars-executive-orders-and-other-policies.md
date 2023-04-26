@@ -15,15 +15,15 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 ## Memos
 
-[M-23-13 “No TikTok on Government Devices” Implementation Guidance (288 KB, 4 pages, February 27, 2023)](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-13-No-TikTok-on-Government-Devices-Implementation-Guidance_final.pdf)
+[**M-23-13:** “No TikTok on Government Devices” Implementation Guidance (288 KB, 4 pages, February 27, 2023)](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-13-No-TikTok-on-Government-Devices-Implementation-Guidance_final.pdf)
 
-[M-23-10 The Registration and Use of .gov Domains in the Federal Government (PDF, 3 pages, 96 KB, February 8, 2023)](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf)
+[**M-23-10:** The Registration and Use of .gov Domains in the Federal Government (PDF, 3 pages, 96 KB, February 8, 2023)](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf)
 
-[M-23-07 Update to Transition to Electronic Records (PDF, 3 pages, 325 KB, December 23, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf)
+[**M-23-07:** Update to Transition to Electronic Records (PDF, 3 pages, 325 KB, December 23, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf)
 
-[M-23-03 FY23 FISMA Guidance (PDF, 319 KB, 17 pages, December 2, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M-23-03-FY23-FISMA-Guidance-2.pdf)
+[**M-23-03:** FY23 FISMA Guidance (PDF, 319 KB, 17 pages, December 2, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M-23-03-FY23-FISMA-Guidance-2.pdf)
 
-[M-22-10 Improving Access to Public Benefits Programs Through the Paperwork Reduction Act (PDF, 602 KB, 8 pages, April 13, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf)
+[**M-22-10:** Improving Access to Public Benefits Programs Through the Paperwork Reduction Act (PDF, 602 KB, 8 pages, April 13, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf)
 
 [**M-17-26:** Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208 KB, 12 pages, June 2017)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/M-17-26.pdf)
 
@@ -31,7 +31,7 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 [**M-15-13:** Policy to Require Secure Connections across Federal Websites and Web Services (PDF, 258 KB, 5 pages, June 2015)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2015/m-15-13.pdf)
 
-[M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management (PDF, 33 pages, 1.86 MB, November 18, 2013)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-04.pdf) 
+[**M-14-04**, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management (PDF, 33 pages, 1.86 MB, November 18, 2013)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-04.pdf) 
 
 [**M-13-13:** Open Data Policy – Managing Information as an Asset (PDF, 5.83 MB, 12 pages, May 2013)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf)
 
