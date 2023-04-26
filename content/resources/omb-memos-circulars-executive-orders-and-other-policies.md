@@ -21,35 +21,37 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 [M-23-07 Update to Transition to Electronic Records (PDF, 3 pages, 325 KB, December 23, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf)
 
-[**M-17-26:** Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208 KB, 12 pages, June 2017)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf)
+[M-23-03 FY23 FISMA Guidance (PDF, 319 KB, 17 pages, December 2, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M-23-03-FY23-FISMA-Guidance-2.pdf)
+
+[M-22-10 Improving Access to Public Benefits Programs Through the Paperwork Reduction Act (PDF, 602 KB, 8 pages, April 13, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf)
+
+[**M-17-26:** Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208 KB, 12 pages, June 2017)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/M-17-26.pdf)
 
 [**M-17-06:** Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
 
-[**M-15-13:** Policy to Require Secure Connections across Federal Websites and Web Services (PDF, 258 KB, 5 pages, June 2015)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2015/m-15-13.pdf)
+[**M-15-13:** Policy to Require Secure Connections across Federal Websites and Web Services (PDF, 258 KB, 5 pages, June 2015)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2015/m-15-13.pdf)
 
-[**M-13-13:** Open Data Policy – Managing Information as an Asset (PDF, 5.83 MB, 12 pages, May 2013)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf)
+[M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management (PDF, 33 pages, 1.86 MB, November 18, 2013)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-04.pdf) 
 
-[**M-13-10:** Antideficiency Act Implications of Certain Online Terms of Service Agreements (PDF, 1.1 MB, 17 pages, April 2013)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf)
+[**M-13-13:** Open Data Policy – Managing Information as an Asset (PDF, 5.83 MB, 12 pages, May 2013)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf)
 
-[**M-12-18:** Managing Government Records Directive (PDF, 2.62 MB, 7 pages, August 2012)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2012/m-12-18.pdf)
+[**M-13-10:** Antideficiency Act Implications of Certain Online Terms of Service Agreements (PDF, 1.1 MB, 17 pages, April 2013)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-10.pdf)
 
-[**M-11-26:** New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act (PDF, 196 KB, 4 pages, June 2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf)
+[**M-12-18:** Managing Government Records Directive (PDF, 2.62 MB, 7 pages, August 2012)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2012/m-12-18.pdf)
 
-[**M-11-24:** Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service (PDF, 2.5 MB, 6 pages, June 2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf)
+[**M-11-26:** New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act (PDF, 196 KB, 4 pages, June 2011)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf)
 
-[**M-11-15:** Final Guidance on Implementing the Plain Writing Act of 2010 (PDF, 276 KB, 6 pages, April 2011)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf)
+[**M-11-24:** Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service (PDF, 2.5 MB, 6 pages, June 2011)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-24.pdf)
 
-[**M-10-22:** Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 KB, 9 pages, June 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf)
+[**M-11-15:** Final Guidance on Implementing the Plain Writing Act of 2010 (PDF, 276 KB, 6 pages, April 2011)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-15.pdf)
 
-[**M-10-11:** Guidance on the Use of Challenges and Prizes to Promote Open Government (PDF, 94 KB, 12 pages, March 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
+[**M-10-22:** Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 KB, 9 pages, June 2010)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-22.pdf)
 
-[**M-10-06:** Open Government Directive (PDF, 82KB, 11 pages, December 2009)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf)
+[**M-10-11:** Guidance on the Use of Challenges and Prizes to Promote Open Government (PDF, 94 KB, 12 pages, March 2010)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-11.pdf)
 
-[**M-05-04:** Policies for Federal Agency Public Websites (PDF, 48 KB, 5 pages, Dec 2004)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf)
+[**M-10-06:** Open Government Directive (PDF, 82KB, 11 pages, December 2009)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-06.pdf)
 
-[**M-04-15:** Reporting Instructions for the Federal Information Security Management Act (FISMA) (PDF, 269 KB, 28 pages, August 2004)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m-04-15.pdf)
-
-[**M-03-22:** OMB Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002 (September 26, 2003)](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22)
+[**M-03-22:** OMB Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002 (September 26, 2003)](https://www.whitehouse.gov/wp-content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-Government-Act-of-2002-1.pdf)
 
 ## Circulars
 
@@ -70,6 +72,8 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 [Executive Order—13571: Streamlining Service Delivery and Improving Customer Service (April 27, 2011)](https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom)
 
 ## Miscellaneous
+
+[21st Century Integrated Digital Experience Act (December 2018)](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)
 
 [Connected Government Act (January 2018)](https://digital.gov/resources/connected-government-act/)
 
