@@ -3,8 +3,8 @@
 source_url: https://18f.gsa.gov/2023/03/23/A-check-up-for-agile-teams/
 source: 18f
 date: 2023-03-23 13:42:00 -0500
-kicker: Agile
-title: Am I doing it right? A check up for agile teams
+kicker: Agile Best Practices
+title: Am I doing it right? A checkup for agile teams
 deck: Even on the best teams, things need to be monitored and adjusted. If you
   are doing this for the first time, it can be even harder. In this article, I
   share some signals of what success looks like and what to do if you are stuck
