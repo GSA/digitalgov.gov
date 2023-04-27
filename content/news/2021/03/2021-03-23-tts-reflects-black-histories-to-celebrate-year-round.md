@@ -40,18 +40,20 @@ The TTS Outreach team also created social media campaigns focused on highlightin
 
 Below are snapshots of these campaigns in action. Each vignette below has been shared by a member of TTS' Black employee affinity group, Working While Black. We hope you enjoy, and find timeless lessons that inspire more inclusive and equitable workplaces and communities, every month of the year. 
 
-{{< note "comment" >}}{{< img-right src="uchenna-moka-solana-300sq" >}}
+{{< note "comment" >}}
+  {{< img-right src="uchenna-moka-solana-300sq" >}}
 
-I used to be a scientist, and I have scientist/engineer parents. I believe in science, and I can’t wait to get vaccinated. As the COVID-19 vaccine continues to roll out throughout our country, the phrase ‘Trust the Science’ has started to pick up. I can’t get down with this phrase, because it rubs me the wrong way. As it pertains to Black communities, 'Trust the science' lacks empathy and contextual understanding of the suffering and sacrifice these communities have been put through to enable us to achieve medical advances over centuries, and the vaccine we have now. 
+  I used to be a scientist, and I have scientist/engineer parents. I believe in science, and I can’t wait to get vaccinated. As the COVID-19 vaccine continues to roll out throughout our country, the phrase ‘Trust the Science’ has started to pick up. I can’t get down with this phrase, because it rubs me the wrong way. As it pertains to Black communities, 'Trust the science' lacks empathy and contextual understanding of the suffering and sacrifice these communities have been put through to enable us to achieve medical advances over centuries, and the vaccine we have now. 
 
-Here are some medical ‘advances’ at the cost of Black lives: <br /><br />
+  Here are some medical ‘advances’ at the cost of Black lives: <br /><br />
 
-* **[Antebellum gynecology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6727302/)**: A group of doctors dedicated four years experimenting on 14 Black enslaved women to develop a treatment for fistulas. To this day, Black women are three times as likely to die giving birth, and are often not believed by medical professionals when they complain of pain. 
-* **[The Tuskegee Study](https://www.cdc.gov/tuskegee/timeline.htm)**: In 1932, the Public Health Service, working with the Tuskegee Institute, began a study to record the natural history of syphilis. The study initially involved 600 black men – 399 with syphilis, 201 who did not have the disease. The study was conducted without the benefit of patients’ informed consent, with some being informed that they were receiving treatment when, in reality, they received no treatment at all. 
+  * **[Antebellum gynecology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6727302/)**: A group of doctors dedicated four years experimenting on 14 Black enslaved women to develop a treatment for fistulas. To this day, Black women are three times as likely to die giving birth, and are often not believed by medical professionals when they complain of pain. 
+  * **[The Tuskegee Study](https://www.cdc.gov/tuskegee/timeline.htm)**: In 1932, the Public Health Service, working with the Tuskegee Institute, began a study to record the natural history of syphilis. The study initially involved 600 black men – 399 with syphilis, 201 who did not have the disease. The study was conducted without the benefit of patients’ informed consent, with some being informed that they were receiving treatment when, in reality, they received no treatment at all. 
 
-Instead of saying, &#34;Trust the science,&#34; maybe we should say, &#34;We're sorry we’ve broken your trust, and we thank and honor the people above, and all who have given their life to scientific research, be it voluntary or not. We can and we will do better.&#34;
+  Instead of saying, &#34;Trust the science,&#34; maybe we should say, &#34;We're sorry we’ve broken your trust, and we thank and honor the people above, and all who have given their life to scientific research, be it voluntary or not. We can and we will do better.&#34;
 
- — **Uchenna Moka-Solana** (she/her), Acting Executive Director, 18F{{< /note >}}
+   — **Uchenna Moka-Solana** (she/her), Acting Executive Director, 18F
+{{< /note >}}
 
 <hr width="75%">
 
