@@ -6,7 +6,7 @@ deck: "Stay connected with the innovative work, news, events and ideas from peop
 summary: "Stay connected with the innovative work, news, events and ideas from people and teams across government"
 featured_image:
   uid: subscribe-card-1
-  alt: ''
+  alt: ""
 aliases:
   - /subscribe/
   - /newsletter
@@ -16,15 +16,13 @@ aliases:
 
 Our strategy is to provide you with just the right amount of information to help you and your team make something better. We’re not interested in flooding your inbox with emails you don’t need.
 
-_Interested in contributing to Digital.gov? [Check out our contribution page »]({{< ref "/about/contribute.md" >}})_ <br /><br />
-
+_Interested in contributing to Digital.gov? [Check out our contribution page »]({{< ref "/about/contribute.md" >}})_
 
 {{< hs-form-subscribe >}}
 
+:envelope:Have additional questions? Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
-<br /><br />:envelope: Have additional questions? Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
-
-## Other ways to subscribe and follow
+### Other ways to subscribe and follow
 
 - [Join a community of practice]({{< ref "/communities/_index.md" >}})
 - [Digital.gov on GitHub](https://github.com/GSA/digitalgov.gov)
