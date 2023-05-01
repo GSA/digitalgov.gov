@@ -46,9 +46,9 @@ Access to the right tools and resources will help them confidently take steps to
 
 **Some examples**
 
-- [A resource page that explains how to do something]({{< ref "how-to-prevent-security-certificates-from-expiring-during-shutdown.md" >}})
-- [A template for a much needed, common document]({{< ref "digital-governance-policies.md" >}})
-- [A link to a helpful guide that your agency relies upon](https://accessibility.18f.gov/)
+- [A resource page that explains how to do something](https://digital.gov/resources/introduction-to-self-description)
+- [A template for a much needed, common document](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites)
+- [A link to a helpful guide that your agency relies upon](https://pra.digital.gov)
 
 ### Examples of problems being solved in government
 
@@ -58,10 +58,10 @@ They want more information that is specific to government — examples of what a
 
 **Some examples**
 
-- [A link to a blog post](https://revenuedata.doi.gov/blog/journey-mapping/)
-- [A blog post from an agency]({{< ref "2019-06-13-building-trust-with-users-through-open-communication-feedback.md" >}})
-- [An explainer in a blog post]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}})
-- [An explainer over video]({{< ref "2019-04-24-dap-learning-series-using-advanced-analysis-tool.md" >}})
+- [A link to a blog post](https://digital.gov/2022/10/14/sunrise-to-sunset-building-a-customer-centric-digital-ecosystem)
+- [A blog post from an agency](https://blog-nrrd.doi.gov/plain-language)
+- [An explainer in a blog post](https://digital.gov/2023/03/24/who-is-your-website-manager)
+- [An explainer over video](https://digital.gov/resources/multilingual-huddle-designing-for-translation)
 
 ## Start Collaborating
 
