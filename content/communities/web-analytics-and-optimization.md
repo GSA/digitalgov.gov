@@ -42,7 +42,7 @@ community_list:
     subscribe_email_subject: "Join the Web Analytics Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
     members: 774
-    blurb: "Web Analytic community members"
+    join_cop_button: "Web Analytic community members"
 
 primary_image: "digital-gov-card-community"
 

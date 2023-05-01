@@ -37,7 +37,7 @@ community_list:
     subscribe_email_subject: "Join the Social Media Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
     members: 1,261
-    blurb: "Social Media community members"
+    join_cop_button: "Social Media community members"
 
 primary_image: "white-bg-digital-gov-card-community"
 
