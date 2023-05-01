@@ -24,7 +24,8 @@ captions: https://www.streamtext.net/player?event=BIS-GSA-2453
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: 2023-05-03_incorporating-ux-practices-into-data-driven-development-of-a-biomedical-software-tool
+
+primary_image: "2023-05-03-incorporating-ux-practices-into-data-driven-development-of-a-biomedical-software-tool-title-card"
 
 ---
 
