@@ -11,7 +11,7 @@
   @include u-radius("sm");
   @include u-text("light");
   @include u-text("gray-90");
-  
+
   &__header {
     @include u-font("sans", "lg");
     @include u-margin-bottom("105");
