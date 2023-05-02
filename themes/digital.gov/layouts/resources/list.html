@@ -81,7 +81,8 @@
                       </div>
                       <div class="grid-row">
                         <div class="grid-col-12 tablet-lg:grid-col-10">
-                          {{/* Pass the $resources_by_topic to the collection template */}}
+                          {{/* Pass the $resources_by_topic to the collection template and display the first 10 */}}
+                          {{- $resources_by_topic := first 10 $resources_by_topic -}}
                           {{- partial "core/collection.html" (dict "list" $resources_by_topic) -}}
                         </div>
                       </div>
