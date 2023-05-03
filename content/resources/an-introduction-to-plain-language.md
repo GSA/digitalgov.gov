@@ -47,8 +47,7 @@ By law, federal agencies must:
 2. Designate one or more points of contact for the implementation of the law and train their staff to use plain language.
 3. Include a [dedicated plain language section](https://digital.gov/resources/required-web-content-and-links/#about-page-2)  that is accessible from the primary website’s homepage that lets the public know about how the agency is complying with this law
 
-| Note: The Plain Writing Act of 2010 does not apply to the text of official regulations.  |
-| ------------------------------------------ |
+{{< note >}} The Plain Writing Act of 2010 does not apply to the text of official regulations. {{< /note >}}
 
 ## How to get started with plain language
 
