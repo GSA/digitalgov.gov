@@ -22,7 +22,7 @@ Plain language is communication that is clear and easy to understand for your ta
 
 But plain language, which is often used interchangeably for plain English or plain writing, is not just best practice or common sense, it is also the law. The [Plain Writing Act of 2010 (P.L. 111-274)](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) defines plain writing as: “writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.”
 
-{{< card-policy src="https://www.congress.gov/111/plaws/publ274/PLAW-111publ274.pdf" kicker="Law" title="**Plain Writing Act of 2010 (P.L. 111-274)" >}}
+{{< card-policy src="https://www.congress.gov/111/plaws/publ274/PLAW-111publ274.pdf" kicker="Law" title="Plain Writing Act of 2010 (P.L. 111-274)" >}}
 To enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly, and for other purposes. <<NOTE: Oct. 13, 2010 -  [H.R. 946]
 
 Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, <<NOTE: Plain Writing Act of 2010.>> 
