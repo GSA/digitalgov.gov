@@ -27,10 +27,10 @@ To enhance citizen access to Government information and services by establishing
 
 Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, <<NOTE: Plain Writing Act of 2010.>> 
 
-SECTION 1. <<NOTE: 5 USC 301 note.>> SHORT TITLE.
+**SECTION 1. SHORT TITLE.
 
 This Act may be cited as the "Plain Writing Act of 2010".
-SEC. 2. <<NOTE: 5 USC 301 note.>> PURPOSE.
+**SEC. 2. PURPOSE.
 
 The purpose of this Act is to improve the effectiveness and accountability of Federal agencies to the public by promoting clear Government communication that the public can understand and use.
 SEC. 3. DEFINITIONS.
@@ -43,13 +43,13 @@ SEC. 3. DEFINITIONS.
                           (iii) explains to the public how to comply with a requirement the Federal Government administers or enforces;
                     (B) includes (whether in paper or electronic form) a letter, publication, form, notice, or instruction; and
                     (C) does not include a regulation.
-            (3) Plain writing.--The term "plain writing" means writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.
+            (3) Plain writing. The term "plain writing" means writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.
 
 SEC. 4.RESPONSIBILITIES OF FEDERAL AGENCIES.
 
     (a) Preparation for Implementation of Plain Writing Requirements.--
-            (1) In general.-- <<NOTE: Deadline.>> Not later than 9 months after the date of enactment of this Act, the head of each agency shall--
-                    (A) <<NOTE: Designation.>> designate 1 or more senior officials within the agency to oversee the agency implementation of this Act;
+            (1) In general. Not later than 9 months after the date of enactment of this Act, the head of each agency shall--
+                    (A) designate 1 or more senior officials within the agency to oversee the agency implementation of this Act;
 
 [[Page 124 STAT. 2862]]
 
@@ -57,39 +57,39 @@ SEC. 4.RESPONSIBILITIES OF FEDERAL AGENCIES.
                     (C) train employees of the agency in plain writing;
                     (D) establish a process for overseeing the ongoing 
                 compliance of the agency with the requirements of this Act;
-                    (E) <<NOTE: Web site.>> create and maintain a plain writing section of the agency's website as required under paragraph (2) that is accessible from the homepage of the agency's website; and
-                    (F) <<NOTE: Designation.>> designate 1 or more agency points-of-contact to receive and respond to public input on--
+                    (E) create and maintain a plain writing section of the agency's website as required under paragraph (2) that is accessible from the homepage of the agency's website; and
+                    (F) designate 1 or more agency points-of-contact to receive and respond to public input on--
                           (i) agency implementation of this Act; and
                           (ii) the agency reports required under section 5.
-            (2) Website.--The plain writing section described under paragraph (1)(E) shall--
+            (2) Website. The plain writing section described under paragraph (1)(E) shall--
                     (A) inform the public of agency compliance with the 
                 requirements of this Act; and
-                    (B) <<NOTE: Public comment.>> provide a mechanism for the agency to receive and respond to public input on--
+                    (B) provide a mechanism for the agency to receive and respond to public input on--
                           (i) agency implementation of this Act; and
                           (ii) the agency reports required under section 5.
 
-    (b) Requirement to Use Plain Writing in New Documents.-- <<NOTE: Effective date.>> Beginning not later than 1 year after the date of enactment of this Act, each agency shall use plain writing in every covered document of the agency that the agency issues or substantially revises.
+    (b) Requirement to Use Plain Writing in New Documents. Beginning not later than 1 year after the date of enactment of this Act, each agency shall use plain writing in every covered document of the agency that the agency issues or substantially revises.
 
-    (c) Guidance.--
-            (1) In general.-- <<NOTE: Deadline.>> Not later than 6 months after the date of enactment of this Act, the Director of the Office of Management and Budget shall develop and issue guidance on implementing the requirements of this section. The Director may designate a lead agency, and may use interagency working groups to assist in developing and issuing the guidance.
+    (c) Guidance.
+            (1) In general. Not later than 6 months after the date of enactment of this Act, the Director of the Office of Management and Budget shall develop and issue guidance on implementing the requirements of this section. The Director may designate a lead agency, and may use interagency working groups to assist in developing and issuing the guidance.
             (2) Interim guidance.--Before the issuance of guidance under paragraph (1), agencies may follow the guidance of--
                     (A) the writing guidelines developed by the Plain Language Action and Information Network; or
                     (B) guidance provided by the head of the agency that  is consistent with the guidelines referred to in 
                 subparagraph (A).
                 
-SEC. 5. <<NOTE: Publication. Web posting. 5 USC 301 note.>> REPORTS TO CONGRESS.
+**SEC. 5. REPORTS TO CONGRESS.
 
-    (a) Initial Report.--Not later than 9 months after the date of enactment of this Act, the head of each agency shall publish on the plain writing section of the agency's website a report that describes the agency plan for compliance with the requirements of this Act.
+    (a) Initial Report. Not later than 9 months after the date of enactment of this Act, the head of each agency shall publish on the plain writing section of the agency's website a report that describes the agency plan for compliance with the requirements of this Act.
     (b) Annual Compliance Report.--Not later than 18 months after the date of enactment of this Act, and annually thereafter, the head of each agency shall publish on the plain writing section of the agency's website a report on agency compliance with the requirements of this Act.
 
-SEC. 6. <<NOTE: 5 USC 301 note.>> JUDICIAL REVIEW AND ENFORCEABILITY.
+**SEC. 6. JUDICIAL REVIEW AND ENFORCEABILITY.
 
     (a) Judicial Review.--There shall be no judicial review of compliance or noncompliance with any provision of this Act.
 
 [[Page 124 STAT. 2863]]
 
-    (b) Enforceability.--No provision of this Act shall be construed to create any right or benefit, substantive or procedural enforceable by any administrative or judicial action.
-SEC. 7. <<NOTE: 5 USC 301 note.>> BUDGETARY EFFECTS OF PAYGO LEGISLATION FOR THIS ACT.
+    (b) Enforceability.No provision of this Act shall be construed to create any right or benefit, substantive or procedural enforceable by any administrative or judicial action.
+**SEC. 7. BUDGETARY EFFECTS OF PAYGO LEGISLATION FOR THIS ACT.
 
 The budgetary effects of this Act, for the purpose of complying  with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled "Budgetary Effects of PAYGO Legislation" for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such 
 statement has been submitted prior to the vote on passage.
