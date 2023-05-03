@@ -20,7 +20,7 @@ _Interested in contributing to Digital.gov? [Check out our contribution page »]
 
 {{< hs-form-subscribe >}}
 
-:envelope:Have additional questions? Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+:envelope: Have additional questions? Email us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
 ### Other ways to subscribe and follow
 
