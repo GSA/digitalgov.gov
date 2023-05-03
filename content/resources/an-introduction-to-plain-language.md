@@ -22,7 +22,18 @@ Plain language is communication that is clear and easy to understand for your ta
 
 But plain language, which is often used interchangeably for plain English or plain writing, is not just best practice or common sense, it is also the law. The [Plain Writing Act of 2010 (P.L. 111-274)](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) defines plain writing as: “writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.”
 
-<ADD HUGO LAW SHORT CODE for the law Like the one on [https://digital.gov/resources/21st-century-integrated-digital-experience-act/](https://www.google.com/url?q=https://digital.gov/resources/21st-century-integrated-digital-experience-act/&sa=D&source=docs&ust=1682969273974070&usg=AOvVaw3dk_6XMU7XU9JYfWvfTlmR)
+{{< card-policy src="https://www.congress.gov/111/plaws/publ274/PLAW-111publ274.pdf" kicker="Law" title="**Plain Writing Act of 2010 (P.L. 111-274)" >}}
+
+To improve executive agency digital services, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+**SECTION 1. SHORT TITLE.**
+
+This Act may be cited as the 21st Century Integrated Digital
+Experience Act or the 21st Century IDEA.
+
+{{ </card-policy >}}
 
 ## Why use plain language on government websites?
 
