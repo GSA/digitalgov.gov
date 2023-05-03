@@ -26,8 +26,9 @@ captions: https://www.streamtext.net/player?event=BIS-GSA-2453
 event_platform: zoom
 
 primary_image: "2023-05-03-incorporating-ux-practices-into-data-driven-development-of-a-biomedical-software-tool-title-card"
-
 ---
+
+{{< asset-static file="2023-may-incorporating-user-experience-practices.pptx" label="View the slides (PowerPoint presentation, 9.9 MB, 38 pages)" >}}
 
 Join us for a discussion with the National Cancer Institute (NCI) on how a university-based researcher uses user experience (UX) design in building tools that display complex, scientific data.
 
