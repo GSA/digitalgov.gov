@@ -56,7 +56,7 @@ Federal agencies are directed to update these accounts in the U.S. Digital Regis
 
 {{< button href="https://touchpoints.app.cloud.gov/registry" text="Register and Manage Accounts" >}}
 
-**To register and manage accounts on the U.S. Digital Registry** you must have a [Login.gov](http://login.gov/) account, which is available to federal government employees and contractors with a valid .gov, .mil, or .[fed.us](http://fed.us/) email address.
+**To register and manage accounts on the U.S. Digital Registry** you must have a [Login.gov](http://login.gov/) account, which is available to federal government employees and contractors with a valid .gov, .mil, or .fed.us email address.
 
 1. Go to the [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry)
 2. In the top navigation bar, far right, access the "`LOG IN`" link. You'll be brought to the [Login.gov](http://login.gov/) log-in page for the U.S. Digital Registry.

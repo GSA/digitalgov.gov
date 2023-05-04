@@ -2,7 +2,6 @@
 title: "Contact Us"
 deck: "We are human, we promise."
 summary: "How to contact the Digital.gov team."
-
 ---
 
 **Digital.gov** is made up of a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
@@ -15,7 +14,7 @@ For a wider list of contacts, see our [**Directory of services, tools, and teams
 
 ---
 
-**On social media**
+## On social media
 
 - Follow [@digital_gov on Twitter](https://twitter.com/digital_gov/)
 - Digital.gov on [GitHub](https://github.com/GSA/digitalgov.gov)
