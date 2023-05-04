@@ -57,7 +57,7 @@ The purpose of this Act is to improve the effectiveness and accountability of Fe
                     F. designate 1 or more agency points-of-contact to receive and respond to public input on--
                           i. agency implementation of this Act; and
                           ii. the agency reports required under section 5.
-            2. Website. The plain writing section described under paragraph (1)(E) shall--
+           2. Website. The plain writing section described under paragraph (1)(E) shall--
                     A. inform the public of agency compliance with the 
                 requirements of this Act; and
                     B. provide a mechanism for the agency to receive and respond to public input on--
