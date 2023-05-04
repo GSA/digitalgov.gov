@@ -11,7 +11,7 @@
   @include u-radius("sm");
   @include u-text("light");
   @include u-text("gray-90");
-  
+
   &__header {
     @include u-font("sans", "lg");
     @include u-margin-bottom("105");
@@ -28,10 +28,10 @@
     @include u-padding-bottom(2);
   }
   &__body-form-button {
-    @include u-bg("cyan-50v");
+    @include u-bg("cyan-60v");
     @include u-text("gray-warm-1");
     &:hover {
-      @include u-bg("cyan-60v");
+      @include u-bg("cyan-70v");
       @include u-text("gray-warm-1");
     }
   }

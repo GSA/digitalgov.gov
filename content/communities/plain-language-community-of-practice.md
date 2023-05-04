@@ -45,7 +45,7 @@ community_list:
     subscribe_email_subject: "Join the Plain Language Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
     members: 1,732
-    blurb: "Plain Language community members"
+    join_cop_button: "Plain Language community members"
 
 primary_image: "digital-gov-card-community"
 
