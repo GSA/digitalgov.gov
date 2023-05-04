@@ -1,0 +1,29 @@
+{{/* Check if current page has a parent page type "News" or "Events" */}}
+{{- if .current.Parent -}}
+  {{/* If the Parent is not the HOME page, keep calling the usa-breadcrumb partial */}}
+  {{- if ne .current.Parent .IsHome -}}
+    {{- partial "partials/core/usa-breadcrumb.html" ( dict "current" .current.Parent ) -}}
+  {{- end }}
+
+  {{/* If .current has no parent, display the last breadcrumb as the current page title with no link styling */}}
+  {{- if eq .id .current.File.UniqueID }}
+    <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+      <span>
+        {{ .current.Title -}}
+      </span>
+    </li>
+    {{/* Otherwise, display the hierarchy path as breadcrumb links */}}
+  {{ else }}
+    <li class="usa-breadcrumb__list-item">
+      <a
+        href="{{- .current.Permalink -}}"
+        class="usa-breadcrumb__link"
+        aria-label="Back to {{ .current.Title }}"
+      >
+        <span>
+          {{ .current.Title -}}
+        </span>
+      </a>
+    </li>
+  {{- end -}}
+{{- end -}}

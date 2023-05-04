@@ -1,13 +1,6 @@
 @use "uswds-core" as *;
 
 .guides {
-	main {
-    @include u-padding(0);
-    @include u-border-top(0, !important);
-  }
-
-  // ================
-  // Header styles
 
   .hero {
     @include u-margin-bottom(0);
