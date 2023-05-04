@@ -11,7 +11,7 @@
 // -------------------------------------
 // Import individual theme settings
 
-@forward 'uswds-theme';
+@forward "uswds-theme";
 
 @forward "usa-site-alert";
 @forward "usa-in-page-navigation";
@@ -49,9 +49,9 @@
 @forward "usa-header/src/styles";
 @forward "usa-icon/src/styles";
 @forward "usa-identifier/src/styles";
-@forward 'usa-input/src/styles';
+@forward "usa-input/src/styles";
 @forward "usa-intro/src/styles";
-@forward 'usa-layout-docs/src/styles';
+@forward "usa-layout-docs/src/styles";
 @forward "usa-layout-grid/src/styles";
 @forward "usa-link/src/styles";
 @forward "usa-list/src/styles";
@@ -89,104 +89,103 @@
 // -------------------------------------
 // Import theme custom styles
 
-@forward 'layout';
-@forward 'gov-banner';
-@forward 'paper';
-@forward '404';
+@forward "layout";
+@forward "gov-banner";
+@forward "paper";
+@forward "404";
 
-@forward 'header';
-@forward 'navigation';
+@forward "header";
 
-@forward 'newsletter-signup';
-@forward 'footer';
+@forward "newsletter-signup";
+@forward "footer";
 
-@forward 'promos';
-@forward 'stream';
+@forward "promos";
+@forward "stream";
 
-@forward 'touchpoints-form';
-@forward 'icons';
+@forward "touchpoints-form";
+@forward "icons";
 
 // Cards
-@forward 'card';
-@forward 'card-article';
-@forward 'card-elsewhere';
-@forward 'card-event';
+@forward "card";
+@forward "card-article";
+@forward "card-elsewhere";
+@forward "card-event";
 
-@forward 'article';
-@forward 'page-head';
+@forward "article";
+@forward "page-head";
 
-@forward 'news';
-@forward 'events';
-@forward 'table-of-contents';
-@forward 'content';
-@forward 'images';
-@forward 'resources';
+@forward "news";
+@forward "events";
+@forward "table-of-contents";
+@forward "content";
+@forward "images";
+@forward "resources";
 
 // Lists of related pages
-@forward 'collection';
+@forward "collection";
 
-@forward 'page-data';
-@forward 'share-tools';
+@forward "page-data";
+@forward "share-tools";
 
-@forward 'guides/guide-header';
-@forward 'guides/guide-nav';
-@forward 'guides/guide-page-head';
-@forward 'guides/guide-toc';
-@forward 'guides/guide-content';
-@forward 'guides/guide-prev-next';
+@forward "guides/guide-header";
+@forward "guides/guide-nav";
+@forward "guides/guide-page-head";
+@forward "guides/guide-toc";
+@forward "guides/guide-content";
+@forward "guides/guide-prev-next";
 
 // Authors lists
-@forward 'authors-list';
-@forward 'authors-list-short';
+@forward "authors-list";
+@forward "authors-list-short";
 
 // Authors profile
-@forward 'author-profile';
+@forward "author-profile";
 
-@forward 'notice-bar';
+@forward "notice-bar";
 
-@forward 'related_promos';
-@forward 'video';
+@forward "related_promos";
+@forward "video";
 
 // Homepage Styles
-@forward 'home/home';
-@forward 'home/events';
-@forward 'home/topics_featured';
-@forward 'resources_featured';
-@forward 'home/communities';
+@forward "home/home";
+@forward "home/events";
+@forward "home/topics_featured";
+@forward "resources_featured";
+@forward "home/communities";
 
-@forward 'community-info';
-@forward 'join-community-form';
+@forward "community-info";
+@forward "join-community-form";
 
-@forward 'related_communities';
-@forward 'services';
-@forward 'related_services';
-@forward 'services-directory';
-@forward 'card-service';
-@forward 'service-contact';
+@forward "related_communities";
+@forward "services";
+@forward "related_services";
+@forward "services-directory";
+@forward "card-service";
+@forward "service-contact";
 
 // Topics styles
-@forward 'topic-buttons';
-@forward 'list-topics';
+@forward "topic-buttons";
+@forward "list-topics";
 
-@forward 'breadcrumbs';
-@forward 'buttons';
+@forward "breadcrumbs";
+@forward "buttons";
 
 // Edit Tools
-@forward 'edit-this';
+@forward "edit-this";
 
 // Print styles
-@forward 'print';
+@forward "print";
 
-@forward 'shortcodes/accordion';
-@forward 'shortcodes/do-dont-table';
-@forward 'shortcodes/box';
-@forward 'shortcodes/checklist';
-@forward 'shortcodes/note';
-@forward 'shortcodes/highlight';
-@forward 'shortcodes/card-policy';
-@forward 'shortcodes/card-quote';
-@forward 'shortcodes/asset-img';
-@forward 'shortcodes/card-prompt';
-@forward 'shortcodes/termsofservice-compatible';
+@forward "shortcodes/accordion";
+@forward "shortcodes/do-dont-table";
+@forward "shortcodes/box";
+@forward "shortcodes/checklist";
+@forward "shortcodes/note";
+@forward "shortcodes/highlight";
+@forward "shortcodes/card-policy";
+@forward "shortcodes/card-quote";
+@forward "shortcodes/asset-img";
+@forward "shortcodes/card-prompt";
+@forward "shortcodes/termsofservice-compatible";
 
-@forward 'uswds-overrides';
+@forward "uswds-overrides";
