@@ -29,10 +29,12 @@ Be it enacted by the Senate and House of Representatives of the United States of
 
 **SECTION 1. SHORT TITLE.**
 This Act may be cited as the "Plain Writing Act of 2010".
+
 **SECTION 2. PURPOSE.**
 The purpose of this Act is to improve the effectiveness and accountability of Federal agencies to the public by promoting clear Government communication that the public can understand and use.
+
 **SEC. 3. DEFINITIONS**
-    In this Act:
+  In this Act:
             1. Agency. The term "agency" means an Executive agency, as defined under section 105 of title 5, United States Code.
             2. Covered document. The term "covered document"
                     A. means any document that--
@@ -42,9 +44,10 @@ The purpose of this Act is to improve the effectiveness and accountability of Fe
                     B. includes (whether in paper or electronic form) a letter, publication, form, notice, or instruction; and
                     C. does not include a regulation.
             3. Plain writing. The term "plain writing" means writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.
+            
 **SECTION 4. RESPONSIBILITIES OF FEDERAL AGENCIES.**
-    a. Preparation for Implementation of Plain Writing Requirements.--
-            1. In general. Not later than 9 months after the date of enactment of this Act, the head of each agency shall--
+  a. Preparation for Implementation of Plain Writing Requirements.--
+          1. In general. Not later than 9 months after the date of enactment of this Act, the head of each agency shall--
                     A. designate 1 or more senior officials within the agency to oversee the agency implementation of this Act;
                     B. communicate the requirements of this Act to the employees of the agency;
                     C. train employees of the agency in plain writing;
@@ -66,13 +69,16 @@ The purpose of this Act is to improve the effectiveness and accountability of Fe
             2. Interim guidance.--Before the issuance of guidance under paragraph (1), agencies may follow the guidance of--
                     A. the writing guidelines developed by the Plain Language Action and Information Network; or
                     B. guidance provided by the head of the agency that  is consistent with the guidelines referred to in 
-                subparagraph (A).        
+                subparagraph (A).  
+                
 **SECTION 5. REPORTS TO CONGRESS.**
     a. Initial Report. Not later than 9 months after the date of enactment of this Act, the head of each agency shall publish on the plain writing section of the agency's website a report that describes the agency plan for compliance with the requirements of this Act.
     b. Annual Compliance Report.--Not later than 18 months after the date of enactment of this Act, and annually thereafter, the head of each agency shall publish on the plain writing section of the agency's website a report on agency compliance with the requirements of this Act.
+    
 **SECTION 6. JUDICIAL REVIEW AND ENFORCEABILITY.**
     a. Judicial Review.--There shall be no judicial review of compliance or noncompliance with any provision of this Act.
     b. Enforceability.No provision of this Act shall be construed to create any right or benefit, substantive or procedural enforceable by any administrative or judicial action.
+    
 **SECTION 7. BUDGETARY EFFECTS OF PAYGO LEGISLATION FOR THIS ACT.**
 The budgetary effects of this Act, for the purpose of complying  with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled "Budgetary Effects of PAYGO Legislation" for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
 
