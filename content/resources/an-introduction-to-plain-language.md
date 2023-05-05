@@ -60,28 +60,33 @@ In this Act:
 
 a. Preparation for Implementation of Plain Writing Requirements.--
 
-    1. In general. Not later than 9 months after the date of enactment of this Act, the head of each agency shall--
+   1. In general. Not later than 9 months after the date of enactment of this Act, the head of each agency shall--
+
       - (A.) designate 1 or more senior officials within the agency to oversee the agency implementation of this Act;
       - (B.) communicate the requirements of this Act to the employees of the agency;
       - (C.) train employees of the agency in plain writing;
       - (D.) establish a process for overseeing the ongoing compliance of the agency with the requirements of this Act;
       - (E.) create and maintain a plain writing section of the agency's website as required under paragraph (2) that is accessible from the homepage of the agency's website; and
       - (F.) designate 1 or more agency points-of-contact to receive and respond to public input on--
-        - (i.) agency implementation of this Act; and
-        - (ii.) the agency reports required under section 5.
 
-    2. Website. The plain writing section described under paragraph (1)(E) shall--
+         - (i.) agency implementation of this Act; and
+         - (ii.) the agency reports required under section 5.
+
+   2. Website. The plain writing section described under paragraph (1)(E) shall--
+
       - (A.)inform the public of agency compliance with the requirements of this Act; and
       - (B.) provide a mechanism for the agency to receive and respond to public input on--
-        - (i.) agency implementation of this Act; and
-        - (ii.) the agency reports required under section 5.
+
+         - (i.) agency implementation of this Act; and
+         - (ii.) the agency reports required under section 5.
 
 b. Requirement to Use Plain Writing in New Documents. Beginning not later than 1 year after the date of enactment of this Act, each agency shall use plain writing in every covered document of the agency that the agency issues or substantially revises.
 
 c. Guidance.
 
-    1. In general. Not later than 6 months after the date of enactment of this Act, the Director of the Office of Management and Budget shall develop and issue guidance on implementing the requirements of this section. The Director may designate a lead agency, and may use interagency working groups to assist in developing and issuing the guidance.
-    2. Interim guidance.--Before the issuance of guidance under paragraph (1), agencies may follow the guidance of--
+   1. In general. Not later than 6 months after the date of enactment of this Act, the Director of the Office of Management and Budget shall develop and issue guidance on implementing the requirements of this section. The Director may designate a lead agency, and may use interagency working groups to assist in developing and issuing the guidance.
+
+   2. Interim guidance.--Before the issuance of guidance under paragraph (1), agencies may follow the guidance of--
       - (A.) the writing guidelines developed by the Plain Language Action and Information Network; or
       - (B.) guidance provided by the head of the agency that  is consistent with the guidelines referred to in subparagraph (A).  
 
