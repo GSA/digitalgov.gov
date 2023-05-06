@@ -28,7 +28,7 @@ But plain language, which is often used interchangeably for plain English or pla
 
 To enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly, and for other purposes.
 
-Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+_Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,_
 
 **SECTION 1. SHORT TITLE.**
 
@@ -54,7 +54,7 @@ In this Act:
 
     - (C.) does not include a regulation.
 
-3. Plain writing. The term "plain writing" means writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.
+3. Plain writing. The term "plain writing" means {{< highlight >}}writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience{{< /highlight >}}.
 
 **SECTION 4. RESPONSIBILITIES OF FEDERAL AGENCIES.**
 
@@ -93,11 +93,13 @@ c. Guidance.
 **SECTION 5. REPORTS TO CONGRESS.**
 
 a. Initial Report. Not later than 9 months after the date of enactment of this Act, the head of each agency shall publish on the plain writing section of the agency's website a report that describes the agency plan for compliance with the requirements of this Act.
+
 b. Annual Compliance Report.--Not later than 18 months after the date of enactment of this Act, and annually thereafter, the head of each agency shall publish on the plain writing section of the agency's website a report on agency compliance with the requirements of this Act.
 
 **SECTION 6. JUDICIAL REVIEW AND ENFORCEABILITY.**
 
 a. Judicial Review.--There shall be no judicial review of compliance or noncompliance with any provision of this Act.
+
 b. Enforceability.No provision of this Act shall be construed to create any right or benefit, substantive or procedural enforceable by any administrative or judicial action.
 
 **SECTION 7. BUDGETARY EFFECTS OF PAYGO LEGISLATION FOR THIS ACT.**
