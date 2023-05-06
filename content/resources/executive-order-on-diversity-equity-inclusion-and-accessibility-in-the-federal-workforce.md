@@ -4,7 +4,7 @@ date: 2021-06-25 20:18:00 -0500
 source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/
 source: whitehouse
 
-title: "Executive Order on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce"
+title: "Executive Order 14035 on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce"
 deck: ""
 summary: ""
 
