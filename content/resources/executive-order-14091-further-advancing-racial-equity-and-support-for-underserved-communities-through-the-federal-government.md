@@ -4,8 +4,8 @@ date: 2023-02-16 10:31:00 -0500
 source_url: https://www.federalregister.gov/documents/2023/02/22/2023-03779/further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal
 source: nara
 
-title: "Executive Order 14091: Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government"
-summary: "A Presidential Document by the Executive Office of the President"
+title: "Executive Order 14091"
+summary: "Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government"
 
 # See all topics at https://digital.gov/topics
 topics:
