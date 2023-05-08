@@ -5,8 +5,7 @@ source_url: https://www.federalregister.gov/documents/2021/06/30/2021-14127/dive
 source: nara
 
 title: "Executive Order 14035: Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce"
-deck: ""
-summary: ""
+summary: "A Presidential Document by the Executive Office of the President"
 
 # See all topics at https://digital.gov/topics
 topics:
