@@ -4,14 +4,18 @@ date: 2023-05-08 11:10:00 -0500
 source_url: https://www.opm.gov/policy-data-oversight/chief-diversity-officers-executive-council/
 source: opm
 title: Chief Diversity Officers Executive Council
-summary: "Principal interagency forum to implement and sustain a national strategy for DEIA across the Federal government and position the federal government as a model for DEIA."
+summary: "Principal interagency forum to implement and sustain a national strategy for DEIA across the federal government and position the federal government as a model for DEIA."
+
 # See all topics at https://digital.gov/topics
 topics:
   - diversity-equity-inclusion-accessibility-deia
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 2
+
 slug: chief-diversity-officers-executive-council
+
 ---
