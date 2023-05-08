@@ -17,6 +17,6 @@ slug: executive-order-14035-diversity-equity-inclusion-and-accessibility-in-the-
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 2
+weight: 5
 
 ---
