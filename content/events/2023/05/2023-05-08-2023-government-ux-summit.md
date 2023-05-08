@@ -59,9 +59,9 @@ The event agenda below includes the speakers, agencies, and descriptions for all
 
 ### 10:00 am - 10:05 am, ET
 
----
-
 Welcome
+
+---
 
 ### Session 1, 10:05 am - 10:45 am, ET
 
