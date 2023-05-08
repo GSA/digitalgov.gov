@@ -5,8 +5,7 @@ source_url: https://www.federalregister.gov/documents/2023/02/22/2023-03779/furt
 source: nara
 
 title: "Executive Order 14091: Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government"
-deck: ""
-summary: ""
+summary: "A Presidential Document by the Executive Office of the President"
 
 # See all topics at https://digital.gov/topics
 topics:
