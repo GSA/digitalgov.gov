@@ -59,11 +59,13 @@ The event agenda below includes the speakers, agencies, and descriptions for all
 
 ### 10:00 am - 10:05 am, ET
 
+---
+
 Welcome
 
-### 10:05 am - 10:45 am, ET
+### Session 1, 10:05 am - 10:45 am, ET
 
-#### Session 1 — Inclusive civic design: Engaging diverse communities to improve the early career experience
+#### Inclusive civic design: Engaging diverse communities to improve the early career experience
 
 Design research with the public can be difficult. It is a balancing act between [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) requirements, time and funding constraints, and the desire to reach a wide, diverse pool of users. OPM’s USAJOBS Program Office is exploring these challenges to build inclusive design research practices.
 
@@ -84,9 +86,11 @@ In this presentation, we will share actionable tips about managing project logis
 
 * **Natalie Buda Smith**—Community co-lead, User Experience community
 
-### 11:00 am - 11:45 am, ET
+---
 
-#### Session 2 — Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
+### Session 2, 11:00 am - 11:45 am, ET
+
+#### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
 
 The [NIH _All of Us_ Research Program](https://allofus.nih.gov/) is poised to make DNA information more accessible by returning free, personalized results about hereditary disease risk and pharmacogenetics to thousands of _All of Us_ research participants who want them.
 
@@ -104,13 +108,15 @@ Presenters will share a stakeholder feedback model that user experience professi
 * **Jennifer Shelley**—Health Communications Strategist, Division of Communications, NIH
 * **Leslie Westendorf**—Contractor, UX Strategy, NIH
 
-### 12:00 pm - 1:00 pm, ET
+---
 
-A one-hour break.
+### Break, 12:00 pm - 1:00 pm, ET
 
-### 1:00 pm - 1:15 pm, ET
+---
 
-#### Session 3-a — Accessibility research in action: VA's Health and Benefits mobile app
+### Session 3-a, 1:00 pm - 1:15 pm, ET
+
+#### Accessibility research in action: VA's Health and Benefits mobile app
 
 The accessibility community talks a lot about the "shift-left" methodology when it comes to thinking about accessibility — embedding accessibility early in a project to prevent problems instead of fixing them after they have happened. This session will provide actionable ways for you to build accessibility research into your practice, or to deepen it if you’ve already started. We hope to inspire UX designers across the government to continue raising the bar on accessibility.
 
@@ -127,9 +133,11 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 * **Martha Wilkes**—Accessibility Strategist, VA Office of the Chief Technology Officer (CTO)
 * **Elizabeth Straghalis**—Contractor, Staff Researcher, VA
 
-### 1:15 pm - 1:30 pm, ET
+---
 
-#### Session 3-b — Operation Rising Tide: Cognitive disability accommodations for the workforce
+### Session 3-b, 1:15 pm - 1:30 pm, ET
+
+#### Operation Rising Tide: Cognitive disability accommodations for the workforce
 
 Government agencies use a range of internal systems to perform their duties, many of which are purpose-built by any number of diverse teams. The design and architecture of these systems is typically focused on fulfilling specific requirements without regard to usability. Currently, there is no established approach to assess or ensure usability of internal government systems regularly used by an agency's workforce. This results in application-specific design and function that is often unintuitive, brittle, and places undue burden on the user. Likewise, users are required to learn application-specific operations which do not generalize to other systems.
 
@@ -142,9 +150,11 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 * **Gordon Banks**—General Engineer, Defense Threat Reduction Agency (DTRA)
 * **Maj. Kirk Shoemaker**—Nuclear and Countering Weapons of Mass Destruction Officer, U.S. Army, DTRA
 
-### 2:00 pm - 2:15 pm, ET
+---
 
-#### Session 4-a — Designing metaphors, designing collaboration
+### Session 4-a, 2:00 pm - 2:15 pm, ET
+
+#### Designing metaphors, designing collaboration
 
 Metaphors are one of our most powerful methods of communication, but they’re often overlooked as worthy of design. Research shows that our metaphors don’t only reflect our way with words — they reflect the way we think. They are plain language tools to help us grasp complicated situations, and share our mental models with our collaborators.
 
@@ -162,9 +172,11 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * **Alex Bielen**—Engineering Supervisor at 18F, GSA
 * **Laura Nash**—Design Supervisor at 18F, GSA
 
-### 2:15 pm - 2:30 pm, ET
+---
 
-#### Session 4-b — Simplifying user experiences for complex content at USAGov
+### Session 4-b, 2:15 pm - 2:30 pm, ET
+
+#### Simplifying user experiences for complex content at USAGov
 
 At USAGov, one of our top questions is, “How do I report a scam?” The answer is that it depends. What kind of scam is it? Identity theft? Housing? Banking? There are a number of details to sort out before you know where to report the scam. It sounds like a simple question, but it's a complex journey to figure out the answer.
 
@@ -186,9 +198,11 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 * **Joanne McGovern**—UX Researcher, USAGov, GSA
 * **Mercedita Andrew**—Contractor, UX Researcher, GSA
 
-### 3:00 pm - 3:45 pm, ET
+---
 
-#### Session 5 — Reconsidering the consent form: the least user-friendly aspect of UX research
+### Session 5, 3:00 pm - 3:45 pm, ET
+
+#### Reconsidering the consent form: the least user-friendly aspect of UX research
 
 The concept of requiring a signed consent form in user experience (UX) or customer experience (CX) research is a holdover from the institutional review board (IRB) process in academic research. Yet even in higher education, UX and CX research is often deemed exempt from IRB and does not actually require a signed form. It’s time we question why the signed consent form process is the standard in civic UX and CX research. Do we really need a signed form to gather consent, or are we just carrying over practices because the signed consent form is what we’ve always done?
 
