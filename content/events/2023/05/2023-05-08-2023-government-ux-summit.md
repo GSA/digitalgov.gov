@@ -2,17 +2,20 @@
 title: 2023 Government UX Summit
 deck: Driving innovation through inclusion
 kicker: Annual Summit
-summary: User experience (UX) experts across the federal government will share
-  case studies and best practices during this virtual summit.
+summary: User experience (UX) experts across the federal government will share case studies and best practices during this virtual summit.
+
 host: User Experience Community of Practice
 event_organizer: Digital.gov
 cop_events:
   - user-experience
   - web-managers
+
 registration_url: https://gsa.zoomgov.com/webinar/register/WN_moRmnMLtQpmmrvtFgR6qiw
-captions: https://www.captionedtext.com/placeholder
+captions: ""
+
 date: 2023-06-14 10:00:00 -0500
 end_date: 2023-06-14 16:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
@@ -22,14 +25,19 @@ topics:
   - accessibility
 # See all authors at https://digital.gov/authors
 authors:
-  - margot-lawton-kern
-  - jared-smith
+  - 
+
 slug: 2023-government-ux-summit
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-youtube_id: hold
-primary_image: 10x-areas-of-focus
+
+youtube_id: ""
+
+primary_image: ""
+
 ---
+
 On June 14, 2023, Digital.gov will bring together user experience (UX) practitioners to share case studies and best practices from across the federal government with the theme of driving innovation through inclusion. Hear from our speakers about their experiences and lessons learned as they apply UX principles and methodologies in line with the [President’s Management Agenda](https://www.performance.gov/pma/) (PMA) to deliver results for all Americans.
 
 At this year’s summit, you will hear from speakers at eight U.S. federal agencies:
@@ -65,14 +73,14 @@ We knew the Early Career Marketplace needed to work for underserved communities,
 
 In this presentation, we will share actionable tips about managing project logistics and recruiting underrepresented and underserved communities. This is by no means an expert level class, but instead a case study in how to begin building more diverse recruiting strategies in a budding research practice.
 
-##### Speakers
+**Speakers**
 
 * **Kelly Wisneski**—Design Researcher, USAJOBS, OPM
 * **McKenna Cole**—Design Researcher, The Lab at OPM
 * **Patricia Morris**—Design Strategist, The Lab at OPM
 * **Simone Saldanha**—Design Researcher, The Lab at OPM
 
-##### Moderator
+**Moderator**
 
 * **Natalie Buda Smith**—Community co-lead, User Experience community
 
@@ -91,7 +99,7 @@ Presenters will share a stakeholder feedback model that user experience professi
 * Methods for engaging with stakeholders and gathering feedback to produce more inclusive and accessible user experiences.
 * A model for gathering, categorizing, prioritizing, implementing, and measuring stakeholder feedback in user experience design and methods to apply in your own work.
 
-##### Speakers
+**Speakers**
 
 * **Jennifer Shelley**—Health Communications Strategist, Division of Communications, NIH
 * **Leslie Westendorf**—Contractor, UX Strategy, NIH
@@ -114,7 +122,7 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 * How we conducted accessibility-first synthesis sessions within the team
 * How research findings led to improvements in the app
 
-#### Speakers
+**Speakers**
 
 * **Martha Wilkes**—Accessibility Strategist, VA Office of the Chief Technology Officer (CTO)
 * **Elizabeth Straghalis**—Contractor, Staff Researcher, VA
@@ -129,7 +137,7 @@ Issues related to usability and user experience affect all users, especially the
 
 The presenters will brief Operation Rising Tide, which is an initiative intended to improve usability of internal government systems by accommodating individuals with cognitive and learning disabilities as required under [Section 508](https://section508.gov/) of the Rehabilitation Act of 1973.
 
-##### Speakers
+**Speakers**
 
 * **Gordon Banks**—General Engineer, Defense Threat Reduction Agency (DTRA)
 * **Maj. Kirk Shoemaker**—Nuclear and Countering Weapons of Mass Destruction Officer, U.S. Army, DTRA
@@ -149,7 +157,7 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * Help you reflect on their strengths, weaknesses, and impacts.
 * Offer methods to quickly generate new metaphors and refresh those that have grown stale.
 
-##### Speakers
+**Speakers**
 
 * **Alex Bielen**—Engineering Supervisor at 18F, GSA
 * **Laura Nash**—Design Supervisor at 18F, GSA
@@ -173,7 +181,7 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 * How we put together a mini product team.
 * Launching imperfect tools and making iterative improvements based on data.
 
-##### Speakers
+**Speakers**
 
 * **Joanne McGovern**—UX Researcher, USAGov, GSA
 * **Mercedita Andrew**—Contractor, UX Researcher, GSA
@@ -192,13 +200,13 @@ This panel includes user and customer experience specialists from three very dif
 * What other options do we have?
 * What power dynamics do we have with our participants when providing government services? And how do consent forms play into those power dynamics?
 
-##### Speakers
+**Speakers**
 
 * **Dana Chisnell**—Acting Director for Customer Experience, DHS
 * **Erin Elzi**—Digital Services Specialist, Office of the Chief Information Officer (CIO), ONRR
 * **Shannon McHarg**—User Experience Designer, DOL
 
-##### Moderator
+**Moderator**
 
 * **Jaime Kern**—Community co-lead, User Experience community
 
