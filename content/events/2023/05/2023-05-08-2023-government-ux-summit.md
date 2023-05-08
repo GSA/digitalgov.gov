@@ -23,9 +23,6 @@ topics:
   - design
   - cx
   - accessibility
-# See all authors at https://digital.gov/authors
-authors:
-  - 
 
 slug: 2023-government-ux-summit
 
