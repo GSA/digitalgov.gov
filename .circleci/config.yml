@@ -55,6 +55,9 @@ jobs:
           name: Lint Markdown
           command: npm run lint:markdown
       - run:
+          name: Styles formatting
+          command: npm run test:styles
+      - run:
           name: Template formatting
           command: npm run test:templates
   process:
