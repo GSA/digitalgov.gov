@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/hhs-svg-seal.png
+  # Image shortcode: {{< img src=hhs-svg-seal >}}'
+  date     :  2023-05-09 13:19:18 -0400
+  uid      :  hhs-svg-seal
+  width    :  1024
+  height   :  1024
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "U.S. Department of Health and Human Services seal."
+  
