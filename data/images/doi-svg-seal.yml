@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/doi-svg-seal.png
+  # Image shortcode: {{< img src=doi-svg-seal >}}'
+  date     :  2023-05-09 13:14:41 -0400
+  uid      :  doi-svg-seal
+  width    :  1028
+  height   :  1024
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "U.S. Department of the Interior seal." 
+  
