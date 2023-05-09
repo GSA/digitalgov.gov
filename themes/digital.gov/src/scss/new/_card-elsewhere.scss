@@ -13,6 +13,7 @@
       @include u-line-height("sans", 3);
       @include u-font("sans", "md");
       @include u-text("normal");
+
       max-width: none;
     }
   }
@@ -26,6 +27,7 @@
 
       &::after {
         content: "";
+
         @include u-position("absolute");
         @include u-top(0);
         @include u-left(0);
@@ -37,11 +39,13 @@
 
   .card__media {
     @include u-square(7);
+
     order: -1;
 
     img {
       @include u-border("1px", "gray-cool-10", "solid");
       @include u-circle(7);
+
       @include at-media("mobile-lg") {
         @include u-circle(7);
       }

@@ -43,9 +43,11 @@ a[aria-describedby="footnote-label"]:focus::after {
   outline: thin dotted;
   outline-offset: 2px;
 }
+
 footer :target {
   background: yellow;
 }
+
 [aria-label="Back to content"] {
   font-size: 0.8em;
 }

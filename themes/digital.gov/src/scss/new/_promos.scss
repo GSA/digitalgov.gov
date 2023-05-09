@@ -11,12 +11,14 @@
   @include u-display("flex");
   @include u-flex("align-center");
   @include u-flex("justify");
+
   & > div {
     @include u-margin-top(0);
     @include u-font("sans", "xs");
     @include u-line-height("sans", 2);
     @include u-text("semibold");
   }
+
   a {
     @include u-margin-top(0);
     @include u-font("sans", "xs");
@@ -28,8 +30,10 @@
     &:hover {
       @include u-border-bottom("05", "accent-warm", "solid");
     }
+
     &::after {
       content: "";
+
       @include u-position("absolute");
       @include u-top(0);
       @include u-left(0);
@@ -37,6 +41,7 @@
       @include u-bottom(0);
     }
   }
+
   .members {
     @include u-font("sans", "3xs");
     @include u-line-height("sans", 3);
@@ -47,21 +52,26 @@
     @include u-padding-y("2px");
     @include u-radius("pill");
   }
+
   img {
     @include u-margin-top(0);
     @include u-width(3);
   }
+
   img.thumb {
     @include u-margin-top("05");
     @include u-margin-right(2);
     @include u-width(5);
     @include u-height(5);
   }
+
   p {
     @include u-margin-top(0);
+
     // @include u-font('sans', 'md');
     // @include u-line-height('sans', 3);
   }
+
   a {
     @include u-text("indigo-80");
     @include u-text("no-underline");
@@ -69,11 +79,14 @@
 
   // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
   position: relative;
+
   &:hover {
     @include u-bg("gray-cool-5");
+
     a {
       @include u-border-bottom("05", "accent-warm", "solid");
     }
+
     p a {
       @include u-border-bottom("05", "accent-warm", "solid");
     }
@@ -84,21 +97,26 @@
   @include u-margin-bottom(1);
   @include u-padding(2);
   @include u-minh(0);
+
   @include at-media("tablet") {
     @include u-margin-bottom("105");
     @include u-minh(15);
   }
+
   &:hover {
     @include u-bg("gray-cool-5");
+
     a {
       @include u-border-bottom("05", "accent-warm", "solid");
     }
   }
+
   p {
     @include u-margin-top(1);
     @include u-font("sans", "sm");
     @include u-line-height("sans", 2);
   }
+
   img {
     @include u-float("right");
     @include u-margin-left(1);

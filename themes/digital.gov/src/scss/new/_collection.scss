@@ -18,9 +18,7 @@
     @include u-text("light");
   }
 
-  .external-link[href^="http"]:not([href*=".gov"]):after {
-    background: url("../" + $theme-image-path + "external-link.png") no-repeat 0
-      0;
+  .external-link[href^="http"]:not([href*=".gov"])::after {
     background: url("../" + $theme-image-path + "external-link.png") no-repeat 0
       0;
     background-size: 100%;
@@ -36,6 +34,7 @@
     @include add-list-reset;
     @include u-margin(0);
     @include u-margin-bottom("105");
+
     li {
       @include u-margin-bottom("105");
       @include u-maxw("tablet-lg");
@@ -48,6 +47,7 @@
       .icon {
         @include u-margin-top("1px");
         @include u-margin-right(1);
+
         img {
           @include u-width(2);
           @include u-maxw(2);
@@ -61,12 +61,15 @@
         & > div {
           @include u-display("flex");
           @include u-flex("align-center");
+
           h3 {
             @include u-font("sans", "sm");
             @include u-line-height("sans", 4);
+
             a {
               @include u-text("no-underline", !important);
               @include u-text("medium");
+
               &:hover {
                 span {
                   @include u-border-bottom("1px", "blue-warm-70v", "solid");
@@ -78,9 +81,11 @@
 
         p {
           @include u-margin-top(0);
+
           a {
             @include u-text("no-underline", !important);
             @include u-text("medium");
+
             &:hover {
               span {
                 @include u-border-bottom("1px", "blue-warm-70v", "solid");
@@ -89,6 +94,7 @@
           }
         }
       }
+
       .members {
         @include u-font("sans", "xs");
       }

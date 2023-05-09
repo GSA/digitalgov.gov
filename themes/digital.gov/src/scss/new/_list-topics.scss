@@ -7,6 +7,7 @@
   @include u-margin-y(2);
   @include u-font("sans", "2xs");
   @include u-text("normal");
+
   a {
     @include u-margin-y("2px");
     @include u-margin-left("2px");
@@ -18,10 +19,14 @@
     @include u-bg("indigo-warm-10");
     @include u-text("indigo-warm-80");
     @include u-line-height("sans", 2);
+
     z-index: 2;
+
     @include u-position("relative");
+
     transition: background-color 0.2s, color 0.2s;
   }
+
   a:hover {
     @include u-bg("indigo-warm-20");
     @include u-text("indigo-warm-80");

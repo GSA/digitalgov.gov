@@ -8,7 +8,7 @@
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
-    "lint:styles": "stylelint ./themes/**/*.scss",
+    "lint:styles": "stylelint ./themes/**/*.scss --fix",
     "lint:markdown:format": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "local-build": "gulp buildAssets && gulp watch",
     "start": "npm-run-all --parallel local-build hugo workflow",

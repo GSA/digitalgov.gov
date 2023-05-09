@@ -18,6 +18,7 @@ main {
       @include u-text("uppercase");
       @include u-color("indigo-warm-80");
     }
+
     // Page Titles
     h1 {
       @include u-margin(0);
@@ -25,6 +26,7 @@ main {
       @include u-text("heavy");
       @include u-line-height("sans", 2);
       @include u-font("sans", "xl");
+
       @include at-media("tablet") {
         @include u-font("sans", "2xl");
         @include u-line-height("sans", 2);
@@ -38,6 +40,7 @@ main {
       @include u-text("light");
       @include u-text("primary-darker");
       @include u-line-height("sans", 2);
+
       @include at-media("tablet") {
         @include u-font("sans", "xl");
         @include u-line-height("sans", 2);
@@ -53,13 +56,16 @@ main {
   // Base Article Styles
   article {
     @include u-margin-bottom(5);
+
     header {
       .authors-list-short {
         @include u-display("flex");
+
         @include at-media("tablet-lg") {
           @include u-display("none");
         }
       }
+
       .meta {
         @include at-media("tablet-lg") {
           @include u-display("none");
@@ -70,26 +76,33 @@ main {
     .meta {
       @include u-margin-top("205");
       @include u-display("flex");
+
       @include at-media("tablet-lg") {
         @include u-margin-top(0);
       }
+
       .date {
         @include u-margin-right("105");
         @include u-font("sans", "2xs");
+
         @include at-media("tablet-lg") {
           @include u-font("sans", "xs");
           @include u-margin-right(2);
         }
+
         @include u-text("gray-cool-60");
         @include u-text("normal");
+
         a {
           @include u-text("gray-cool-60");
           @include u-text("no-underline");
+
           &:hover {
             @include u-border-bottom("2px", "accent-warm", "solid");
           }
         }
       }
+
       .clicks {
       }
     }

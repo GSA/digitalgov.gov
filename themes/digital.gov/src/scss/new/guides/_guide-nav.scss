@@ -2,6 +2,7 @@
 
 .guide-nav-box {
   @include u-display("none");
+
   @include at-media("tablet-lg") {
     @include u-display("block");
   }
@@ -9,12 +10,14 @@
   ul.guide-nav {
     @include u-margin-bottom(3);
     @include u-font("sans", "xs");
+
     li {
       a {
         @include u-padding-y(1);
         @include u-text("black");
         @include u-text("normal");
         @include u-text("no-underline");
+
         // Flex for the arrows
         @include u-display("flex");
         @include u-flex("align-center");
@@ -23,9 +26,11 @@
           @include u-text("underline");
         }
       }
+
       .usa-current {
         @include u-bg("primary");
         @include u-text("white");
+
         &:hover {
           @include u-text("white");
           @include u-bg("primary-dark");
@@ -43,11 +48,14 @@
     // When any child item is selected, the top-most parent li gets the .current class (via javascript)
     li.current {
       @include u-position("relative");
+
       // @include u-border-top('1px', 'base-light', 'solid');
       & > a {
         @include u-text("semibold");
-        &:after {
+
+        &::after {
           content: "";
+
           @include u-border-left("05", "primary-darker", "solid");
           @include u-radius(0);
           @include u-position("absolute");
@@ -57,12 +65,15 @@
           @include u-z(100);
         }
       }
+
       a {
         span.arrow-right {
           @include u-margin-left("105");
+
           transform: rotate(90deg);
         }
       }
+
       a.usa-current {
         @include u-position("static");
       }
@@ -75,18 +86,21 @@
     // Adding arrows to any li that has child elements.
     li {
       @include u-text("medium");
+
       a {
         .arrow-right {
           @include u-margin-left(1);
           @include u-width("105");
           @include u-height(2);
           @include u-display("inline-block");
+
           background-image: url("../uswds/img/angle-arrow-right-black.svg");
           background-size: 0.49rem;
           background-repeat: no-repeat;
           background-position: center bottom;
         }
       }
+
       .usa-current {
         .arrow-right {
           background-image: url("../uswds/img/angle-arrow-right-white.svg");
@@ -97,14 +111,18 @@
       li {
         @include u-text("normal");
         @include u-font("sans", "xs");
+
         a {
           .arrow-right {
             @include u-margin-left("05");
+
             background-size: 0.42rem;
           }
         }
+
         li {
           @include u-font("sans", "2xs");
+
           li {
             @include u-font("sans", "3xs");
           }
