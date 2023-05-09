@@ -60,6 +60,9 @@ jobs:
       - run:
           name: Template formatting
           command: npm run test:templates
+      - run:
+          name: Lint Styles
+          command: npm run lint:styles
   process:
     <<: *defaults
     steps:
