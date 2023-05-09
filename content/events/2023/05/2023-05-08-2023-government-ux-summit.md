@@ -64,6 +64,8 @@ Welcome
 
 #### Inclusive civic design: Engaging diverse communities to improve the early career experience
 
+{{< img-right src="opm-svg-seal" >}}
+
 Design research with the public can be difficult. It is a balancing act between [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) requirements, time and funding constraints, and the desire to reach a wide, diverse pool of users. OPM’s USAJOBS Program Office is exploring these challenges to build inclusive design research practices.
 
 We’ll share the case study of the Early Career Marketplace, a research collaboration between USAJOBS’ Team Discovery and The Lab at OPM. With only 6% of the federal workforce being under the age of 30, USAJOBS is central to achieving PMA Goal 1.2 to “build equitable pathways into the Federal Government for early career positions, particularly from underrepresented and underserved communities.”
@@ -88,6 +90,8 @@ In this presentation, we will share actionable tips about managing project logis
 ### Session 2, 11:00 am - 11:45 am, ET
 
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
+
+{{< img-right src="featured-301-x-212-nih-logo-national-institutes-of-health" >}}
 
 The [NIH _All of Us_ Research Program](https://allofus.nih.gov/) is poised to make DNA information more accessible by returning free, personalized results about hereditary disease risk and pharmacogenetics to thousands of _All of Us_ research participants who want them.
 
@@ -115,6 +119,8 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 #### Accessibility research in action: VA's Health and Benefits mobile app
 
+{{< img-right src="va-svg-seal" >}}
+
 The accessibility community talks a lot about the "shift-left" methodology when it comes to thinking about accessibility — embedding accessibility early in a project to prevent problems instead of fixing them after they have happened. This session will provide actionable ways for you to build accessibility research into your practice, or to deepen it if you’ve already started. We hope to inspire UX designers across the government to continue raising the bar on accessibility.
 
 In 2022, the VA launched the [Health and Benefits flagship mobile app](https://news.va.gov/101836/va-mobile-app/). Since then, the team has deepened its accessibility-first approach in designing new features. This session will serve as a case study and explore the ways the team partnered with blind and low vision veterans to gain a deeper understanding of their experience using the app. Our techniques can be used to design websites, web apps, mobile apps, and other projects.
@@ -136,6 +142,8 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 
 #### Operation Rising Tide: Cognitive disability accommodations for the workforce
 
+{{< img-right src="dod-seal" >}}
+
 Government agencies use a range of internal systems to perform their duties, many of which are purpose-built by any number of diverse teams. The design and architecture of these systems is typically focused on fulfilling specific requirements without regard to usability. Currently, there is no established approach to assess or ensure usability of internal government systems regularly used by an agency's workforce. This results in application-specific design and function that is often unintuitive, brittle, and places undue burden on the user. Likewise, users are required to learn application-specific operations which do not generalize to other systems.
 
 Issues related to usability and user experience affect all users, especially the 5% of the workforce with cognitive and learning disabilities. People with cognitive and learning disabilities have greater difficulty navigating complicated workflows than those without such disabilities. Because everyone has cognitive limits that can vary due to stress, fatigue, and distraction, all users benefit when processes are easily navigated by individuals with cognitive and learning disabilities. Existing policies for disability accommodations under Section 508 of the Rehabilitation Act of 1973 can be applied to improve government systems and increase productivity and morale for everyone.
@@ -152,6 +160,8 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 ### Session 4-a, 2:00 pm - 2:15 pm, ET
 
 #### Designing metaphors, designing collaboration
+
+{{< img-right src="featured-18f-new-logo-black-bg" >}}
 
 Metaphors are one of our most powerful methods of communication, but they’re often overlooked as worthy of design. Research shows that our metaphors don’t only reflect our way with words — they reflect the way we think. They are plain language tools to help us grasp complicated situations, and share our mental models with our collaborators.
 
@@ -174,6 +184,8 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 ### Session 4-b, 2:15 pm - 2:30 pm, ET
 
 #### Simplifying user experiences for complex content at USAGov
+
+{{< img src="featured-usagov-logo-new-2017" >}}
 
 At USAGov, one of our top questions is, “How do I report a scam?” The answer is that it depends. What kind of scam is it? Identity theft? Housing? Banking? There are a number of details to sort out before you know where to report the scam. It sounds like a simple question, but it's a complex journey to figure out the answer.
 
@@ -220,6 +232,8 @@ This panel includes user and customer experience specialists from three very dif
 **Moderator**
 
 * **Jaime Kern**—Community co-lead, User Experience community
+
+{{< img src="dhs-svg-seal" >}} {{< img src="doi-svg-seal" >}} {{< img src="dol-svg-seal" >}}
 
 ## Resources
 
