@@ -13,6 +13,7 @@
     "start": "npm-run-all --parallel local-build hugo workflow",
     "prettier:templates": "npx prettier -w ./themes/**/*.html",
     "test:templates": "npx prettier -c ./themes/**/*.html",
+    "test:styles": "npx prettier -c ./themes/**/*.scss",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "npx pa11y-ci --config .pa11yci",
     "workflow": "npx netlify-cms-proxy-server"
