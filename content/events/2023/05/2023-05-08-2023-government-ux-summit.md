@@ -111,7 +111,7 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 ---
 
-### Session 3-a, 1:00 pm - 1:15 pm, ET
+### Session 3, 1:00 pm - 1:45 pm, ET
 
 #### Accessibility research in action: VA's Health and Benefits mobile app
 
@@ -132,8 +132,6 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 
 ---
 
-### Session 3-b, 1:15 pm - 1:30 pm, ET
-
 #### Operation Rising Tide: Cognitive disability accommodations for the workforce
 
 Government agencies use a range of internal systems to perform their duties, many of which are purpose-built by any number of diverse teams. The design and architecture of these systems is typically focused on fulfilling specific requirements without regard to usability. Currently, there is no established approach to assess or ensure usability of internal government systems regularly used by an agency's workforce. This results in application-specific design and function that is often unintuitive, brittle, and places undue burden on the user. Likewise, users are required to learn application-specific operations which do not generalize to other systems.
@@ -149,7 +147,7 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 ---
 
-### Session 4-a, 2:00 pm - 2:15 pm, ET
+### Session 4, 2:00 pm - 2:45 pm, ET
 
 #### Designing metaphors, designing collaboration
 
@@ -170,8 +168,6 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * **Laura Nash**—Design Supervisor at 18F, GSA
 
 ---
-
-### Session 4-b, 2:15 pm - 2:30 pm, ET
 
 #### Simplifying user experiences for complex content at USAGov
 
