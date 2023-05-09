@@ -11,6 +11,7 @@
     "lint:markdown:format": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "local-build": "gulp buildAssets && gulp watch",
     "start": "npm-run-all --parallel local-build hugo workflow",
+    "prettier:styles": "npx prettier -w ./themes/**/*.scss",
     "prettier:templates": "npx prettier -w ./themes/**/*.html",
     "test:templates": "npx prettier -c ./themes/**/*.html",
     "test:styles": "npx prettier -c ./themes/**/*.scss",

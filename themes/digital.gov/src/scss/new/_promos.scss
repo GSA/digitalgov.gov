@@ -24,9 +24,9 @@
     @include u-text("semibold");
     @include u-text("no-underline");
     @include u-text("indigo-70");
-    
+
     &:hover {
-      @include u-border-bottom('05', "accent-warm", "solid");
+      @include u-border-bottom("05", "accent-warm", "solid");
     }
     &::after {
       content: "";

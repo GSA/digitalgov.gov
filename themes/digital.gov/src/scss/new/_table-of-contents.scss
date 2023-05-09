@@ -4,60 +4,56 @@
 
 // Hiding the bullets on the TOC except for the guide pages
 .toc:not(.guide-toc) {
-
-	border-style: solid;
-	border-image: linear-gradient(to bottom, #4a50c4,#0076d6, #fff ) 1;
-	@include u-text('indigo-80');
-	ul{
-		@include add-list-reset;
-	}
-	a{
-		@include u-padding-y(.5);
-		@include u-padding-x(.5);
-		@include u-text('normal');
-		@include u-text('no-underline');
-		@include u-text('indigo-70');
-		@include u-font('sans', 'sm');
-		@include u-line-height('sans', 2);
-		@include u-display('block');
-	&:hover{
-			@include u-shadow(3);
-		
-	}
-}
-	
-
+  border-style: solid;
+  border-image: linear-gradient(to bottom, #4a50c4, #0076d6, #fff) 1;
+  @include u-text("indigo-80");
+  ul {
+    @include add-list-reset;
+  }
+  a {
+    @include u-padding-y(0.5);
+    @include u-padding-x(0.5);
+    @include u-text("normal");
+    @include u-text("no-underline");
+    @include u-text("indigo-70");
+    @include u-font("sans", "sm");
+    @include u-line-height("sans", 2);
+    @include u-display("block");
+    &:hover {
+      @include u-shadow(3);
+    }
+  }
 }
 
-.toc{
-	@include u-margin-bottom(5);
-	@include u-padding-x('205');
-	@include u-padding-y(2);
+.toc {
+  @include u-margin-bottom(5);
+  @include u-padding-x("205");
+  @include u-padding-y(2);
 
-	h4{
-		@include u-margin(0);
-		@include u-margin-bottom(2);
-	}
+  h4 {
+    @include u-margin(0);
+    @include u-margin-bottom(2);
+  }
 
-	ul{
-		@include u-padding-left(2);
-		li{
-			@include u-margin-y('105');
-			@include u-font('sans', 'xs');
-			@include u-line-height('sans', 3);
-			overflow-wrap: break-word;
-			&:last-child{
-				@include u-margin-bottom(0);
-			}
-			a{
-				@include u-text('primary-dark');
-				@include u-text('no-underline');
-			}
-		}
-	}
+  ul {
+    @include u-padding-left(2);
+    li {
+      @include u-margin-y("105");
+      @include u-font("sans", "xs");
+      @include u-line-height("sans", 3);
+      overflow-wrap: break-word;
+      &:last-child {
+        @include u-margin-bottom(0);
+      }
+      a {
+        @include u-text("primary-dark");
+        @include u-text("no-underline");
+      }
+    }
+  }
 }
 
 /* Hides all navigation that is below an H2 */
-#TableOfContents ul ul{
-	display: none;
+#TableOfContents ul ul {
+  display: none;
 }

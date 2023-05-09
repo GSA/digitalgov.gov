@@ -82,7 +82,6 @@
     @include u-line-height("sans", 1);
   }
 
-
   &__date-label {
     @include u-padding-left(0);
     @include u-text("gray-cool-50");
@@ -156,8 +155,7 @@
     }
 
     &-comma {
-      @include u-display("none"); 
-      
+      @include u-display("none");
     }
 
     &-year--mobile {
@@ -265,7 +263,7 @@
   .card-event__datetime-comma {
     @include u-display("inline");
     @include at-media("tablet") {
-      @include u-display("none"); 
+      @include u-display("none");
     }
   }
 

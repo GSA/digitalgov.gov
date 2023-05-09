@@ -1,7 +1,6 @@
 @use "uswds-core" as *;
 
 .guides {
-
   .hero {
     @include u-margin-bottom(0);
     @include u-padding-y(5);
