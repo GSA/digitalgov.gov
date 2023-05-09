@@ -31,7 +31,7 @@ event_platform: zoom
 
 youtube_id: ""
 
-primary_image: ""
+primary_image: "title-card-2023-government-ux-summit"
 
 ---
 
