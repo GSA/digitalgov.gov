@@ -12,7 +12,6 @@
 // Import individual theme settings
 
 @forward "uswds-theme";
-
 @forward "usa-site-alert";
 @forward "usa-in-page-navigation";
 
@@ -94,15 +93,11 @@
 @forward "gov-banner";
 @forward "paper";
 @forward "404";
-
 @forward "header";
-
 @forward "newsletter-signup";
 @forward "footer";
-
 @forward "promos";
 @forward "stream";
-
 @forward "touchpoints-form";
 @forward "icons";
 
@@ -111,10 +106,8 @@
 @forward "card-article";
 @forward "card-elsewhere";
 @forward "card-event";
-
 @forward "article";
 @forward "page-head";
-
 @forward "news";
 @forward "events";
 @forward "table-of-contents";
@@ -124,10 +117,8 @@
 
 // Lists of related pages
 @forward "collection";
-
 @forward "page-data";
 @forward "share-tools";
-
 @forward "guides/guide-header";
 @forward "guides/guide-nav";
 @forward "guides/guide-page-head";
@@ -141,9 +132,7 @@
 
 // Authors profile
 @forward "author-profile";
-
 @forward "notice-bar";
-
 @forward "related_promos";
 @forward "video";
 
@@ -153,10 +142,8 @@
 @forward "home/topics_featured";
 @forward "resources_featured";
 @forward "home/communities";
-
 @forward "community-info";
 @forward "join-community-form";
-
 @forward "related_communities";
 @forward "services";
 @forward "related_services";
@@ -167,7 +154,6 @@
 // Topics styles
 @forward "topic-buttons";
 @forward "list-topics";
-
 @forward "buttons";
 
 // Edit Tools
@@ -175,7 +161,6 @@
 
 // Print styles
 @forward "print";
-
 @forward "shortcodes/accordion";
 @forward "shortcodes/do-dont-table";
 @forward "shortcodes/box";
@@ -187,5 +172,4 @@
 @forward "shortcodes/asset-img";
 @forward "shortcodes/card-prompt";
 @forward "shortcodes/termsofservice-compatible";
-
 @forward "uswds-overrides";

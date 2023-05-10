@@ -6,10 +6,13 @@
 .toc:not(.guide-toc) {
   border-style: solid;
   border-image: linear-gradient(to bottom, #4a50c4, #0076d6, #fff) 1;
+
   @include u-text("indigo-80");
+
   ul {
     @include add-list-reset;
   }
+
   a {
     @include u-padding-y(0.5);
     @include u-padding-x(0.5);
@@ -19,6 +22,7 @@
     @include u-font("sans", "sm");
     @include u-line-height("sans", 2);
     @include u-display("block");
+
     &:hover {
       @include u-shadow(3);
     }
@@ -37,14 +41,18 @@
 
   ul {
     @include u-padding-left(2);
+
     li {
       @include u-margin-y("105");
       @include u-font("sans", "xs");
       @include u-line-height("sans", 3);
+
       overflow-wrap: break-word;
+
       &:last-child {
         @include u-margin-bottom(0);
       }
+
       a {
         @include u-text("primary-dark");
         @include u-text("no-underline");

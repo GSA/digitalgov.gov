@@ -4,6 +4,7 @@
   @include u-margin-bottom(3);
   @include u-bg("gold-5");
   @include u-radius("sm");
+
   blockquote {
     @include u-margin(0);
     @include u-padding-y(3);
@@ -13,13 +14,16 @@
     @include u-text("gold-60");
     @include u-font("serif", "md");
     @include u-border-left("05", "solid", "gold-30");
+
     @include at-media("tablet") {
       @include u-padding-x(5);
       @include u-padding-right(4);
     }
+
     .q {
       @include u-margin-right("05");
     }
+
     cite {
       @include u-display("block");
       @include u-padding-right(4);
@@ -34,6 +38,7 @@
 
 .card-quote.dark {
   @include u-bg("gray-cool-70");
+
   blockquote {
     @include u-text("white");
     @include u-border-left("05", "solid", "gray-cool-20");

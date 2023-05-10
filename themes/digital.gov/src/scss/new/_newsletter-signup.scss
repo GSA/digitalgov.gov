@@ -5,6 +5,7 @@
   @include at-media("desktop") {
     height: 22.6875rem;
   }
+
   @include u-padding-y("105");
   @include u-bg("indigo-80");
 
@@ -15,12 +16,14 @@
   .usa-sign-up {
     @include u-padding-y(0);
   }
+
   .blurb {
     @include u-margin-top("105");
     @include u-font("sans", "lg");
     @include u-text("light");
     @include u-text("white");
     @include u-line-height("sans", 3);
+
     strong {
       @include u-text("bold");
     }

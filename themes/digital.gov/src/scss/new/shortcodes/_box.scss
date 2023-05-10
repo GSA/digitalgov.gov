@@ -7,14 +7,17 @@
   @include u-radius("sm");
   @include u-text("black");
   @include u-font("sans", "xs");
+
   h5 {
     @include u-text("black");
     @include u-font("sans", "xs");
   }
+
   ul {
     li {
       @include u-margin-bottom("05");
     }
+
     &:last-child {
       @include u-margin-bottom(0);
     }

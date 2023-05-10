@@ -4,6 +4,7 @@
 .image {
   @include u-margin-top(2);
   @include u-margin-bottom(4);
+
   // Captions
   p {
     @include u-margin-top("1px");
@@ -13,17 +14,20 @@
     @include u-color("gray-cool-60");
     @include u-text("light");
     @include u-maxw("full");
+
     span {
       @include u-text("italic");
     }
   }
 }
+
 .image-right {
   @include u-margin-top(1);
   @include u-margin-bottom(3);
   @include u-margin-left(3);
   @include u-float("right");
   @include u-width(15);
+
   @include at-media("tablet") {
     @include u-width("card");
   }

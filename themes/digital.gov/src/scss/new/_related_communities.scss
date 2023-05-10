@@ -4,8 +4,10 @@
 
 #related_communities {
   @include u-margin-bottom(5);
+
   header {
     @include u-margin(0);
+
     h3 {
       @include u-margin(0);
       @include u-margin-bottom(2);

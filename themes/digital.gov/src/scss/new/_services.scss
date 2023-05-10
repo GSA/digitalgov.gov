@@ -8,9 +8,11 @@
 
   .services-list {
     @include u-margin-y(2);
+
     footer {
       @include u-margin-y(2);
       @include u-text("center");
+
       p {
         @include u-maxw("full");
       }

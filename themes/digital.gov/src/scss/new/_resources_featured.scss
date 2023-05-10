@@ -9,14 +9,17 @@
 .home #resources_featured {
   @include u-bg("primary-dark");
   @include u-padding-y(0);
+
   @include at-media("tablet-lg") {
     @include u-padding-top(3);
   }
+
   .box {
     @include u-bg("transparent");
     @include u-margin(0);
     @include u-padding(0);
     @include u-radius(0);
+
     @include at-media("tablet-lg") {
       @include u-display("flex");
       @include u-flex("align-center");
@@ -24,7 +27,7 @@
       @include u-padding-bottom(8);
     }
 
-    .resources_featured__title {
+    .resources-featured__title {
       @include u-margin(0);
       @include u-padding(2);
       @include u-padding-right(4);
@@ -32,6 +35,7 @@
       @include u-line-height("sans", 2);
       @include u-text("white");
       @include u-text("thin");
+
       @include at-media("tablet-lg") {
         @include u-margin-bottom(0);
         @include u-padding(0);
@@ -66,6 +70,7 @@
           @include u-margin-right("105");
           @include u-width(5);
           @include u-minw(5);
+
           @include at-media("tablet-lg") {
             @include u-width(7);
             @include u-minw(7);
@@ -79,6 +84,7 @@
     @include u-bg("white");
     @include u-padding-x(2);
     @include u-padding-y(3);
+
     @include at-media("tablet-lg") {
       @include u-radius-top("lg");
     }

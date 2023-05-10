@@ -7,6 +7,7 @@
   @include u-maxw("full");
   @include u-display("flex");
   @include u-flex("wrap");
+
   .author {
     @include u-margin(0);
     @include u-margin-y("05");
@@ -19,22 +20,28 @@
     @include u-text("medium");
     @include u-text("no-underline");
     @include u-font("sans", "2xs");
+
     @include at-media("tablet") {
       @include u-font("sans", "2xs");
     }
+
     z-index: 2;
+
     img {
       @include u-margin-right("05");
       @include u-circle(3);
     }
+
     span {
       flex: 1;
       white-space: nowrap;
     }
+
     &:hover {
       @include u-text("underline");
     }
   }
+
   .author.contact {
     @include u-margin-right(1);
     @include u-padding-y("2px");
@@ -42,10 +49,9 @@
     @include u-text("primary-darker");
     @include u-bg("white");
     @include u-border-right("1px", "base", "solid");
+
     i {
       @include u-text("primary-darker");
-    }
-    &:hover {
     }
   }
 }

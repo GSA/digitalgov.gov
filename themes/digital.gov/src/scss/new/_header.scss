@@ -3,22 +3,27 @@
 // Header
 .usa-header {
   @include u-bg("white");
+
   .usa-navbar {
     @include at-media("tablet") {
       @include u-bg("transparent");
     }
   }
+
   .usa-logo {
     a {
       @include u-display("flex");
       @include u-flex("align-center");
       @include u-text("black");
+
       @include at-media("tablet") {
         @include u-text("black");
       }
+
       img {
         @include u-margin-right(1);
         @include u-width("card");
+
         @include at-media("tablet") {
           @include u-width("auto");
         }
@@ -29,6 +34,7 @@
         @include u-font("sans", "md");
         @include u-line-height("sans", 1);
         @include u-text("bold");
+
         @include at-media("tablet") {
           @include u-font("sans", "xl");
         }
@@ -54,6 +60,7 @@
     @include u-text("bold");
     @include u-text("black");
     @include u-bg("white");
+
     i {
       @include u-margin-right("2px");
     }
@@ -61,37 +68,43 @@
 
   nav.usa-nav {
     @include u-border-top(0);
+
     border-bottom: 1px solid #dfe1e2;
+
     .usa-nav__primary > .usa-nav__primary-item {
       @include u-font("sans", "sm");
+
       a {
         @include u-text("black");
-        &:hover {
-        }
       }
     }
-    p.agency_refer {
+
+    p.agency-refer {
       @include u-float("right");
     }
+
     #search_form {
       #query {
         @include u-radius-left("sm");
       }
+
       .usa-button {
         @include u-bg("blue-warm-50v");
       }
     }
   }
 
-  .agency_refer {
+  .agency-refer {
     @include u-display("flex");
     @include u-flex("align-center");
     @include u-font("sans", "3xs");
     @include u-text("base-dark");
+
     img {
       @include u-margin-right("05");
       @include u-width(2);
     }
+
     span {
       @include u-font("sans", "3xs");
     }
@@ -102,6 +115,7 @@
   // odd specificity to overrride USWDS
   .usa-header nav.usa-nav .usa-nav__primary > .usa-nav__primary-item {
     @include u-font-size("ui", "lg");
+
     a {
       @include u-font-weight(300);
     }

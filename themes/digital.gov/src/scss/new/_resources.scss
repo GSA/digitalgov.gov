@@ -17,6 +17,7 @@
 #resources_by_topic {
   @include u-bg("white");
   @include u-padding-top(1);
+
   h2 {
     @include u-margin-bottom(2);
     @include u-padding-top(5);
@@ -24,6 +25,7 @@
     @include u-font("sans", "sm");
     @include u-border-top("1px", "base-light", "solid");
   }
+
   .topic-section {
     @include u-margin-top(0);
     @include u-border-top(0);
@@ -36,15 +38,18 @@
       @include u-font("sans", "lg");
       @include u-text("semibold");
       @include u-position("sticky");
+
       a {
         @include u-text("black");
         @include u-text("no-underline");
+
         &:hover {
           @include u-text("underline");
         }
       }
     }
   }
+
   .topic-section ~ .topic-section {
     @include u-margin-top(4);
     @include u-border-top("1px", "base-light", "solid");
@@ -54,10 +59,7 @@
 .usa-prose table.resources__plain-language-table tr td {
   background-color: #fff;
   border: 1px solid #1b1b1b;
-  border-top-style: solid;
-  border-right-style: solid;
-  border-bottom-color: rgb(27, 27, 27);
-  border-bottom-style: solid;
-  border-left-style: solid;
+  border-style: solid;
+  border-bottom-color: rgb(27 27 27);
   font-weight: 400;
 }

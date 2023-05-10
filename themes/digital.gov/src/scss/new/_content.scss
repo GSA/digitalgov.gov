@@ -5,6 +5,7 @@
 .content {
   @include u-margin-bottom(5);
 }
+
 .main-topic .content * {
   @include u-measure(6);
 }
@@ -12,6 +13,7 @@
 .usa-prose {
   a {
     @include u-text("no-underline");
+
     &:hover {
       @include u-text("underline");
     }
@@ -20,8 +22,8 @@
   // Applies the arrow to all external links
   // Select all the links with href that start with "http" and do not contain ".gov"
   // See https://css-tricks.com/attribute-selectors/
-  a[href^="http"]:not([href*=".gov"]):after {
-    background: url(../uswds/img/external-link.svg) no-repeat 0 0;
+  a[href^="http"]:not([href*=".gov"])::after {
+    background: url("../uswds/img/external-link.svg") no-repeat 0 0;
     background-size: 100%;
     content: "";
     display: inline-block;
@@ -46,6 +48,7 @@
   // HR tags
   hr {
     @include u-margin-y(3);
+
     clear: both;
   }
 
@@ -83,6 +86,7 @@
     @include u-color("indigo-warm-80");
     @include u-radius("md");
     @include u-font("mono", "2xs");
+
     white-space: pre-wrap; /* css-3 */
     white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
     white-space: -pre-wrap; /* Opera 4-6 */
@@ -104,26 +108,33 @@
     @include u-margin-y(5);
     @include u-font("sans", "xs");
     @include u-width("full");
+
     tr {
       th,
       td {
         @include u-padding-y(1);
         @include u-padding-x("05");
+
         vertical-align: top;
+
         @include u-border-x(0);
         @include u-border-y("1px", "base-light", "solid");
+
         a {
           @include u-text("no-underline");
+
           &:hover {
             span {
               @include u-text("underline");
             }
           }
         }
+
         .icon {
           @include u-width("205");
         }
       }
+
       th {
         @include u-text("left");
         @include u-text("bold");

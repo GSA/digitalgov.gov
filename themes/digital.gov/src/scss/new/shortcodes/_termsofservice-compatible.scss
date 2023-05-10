@@ -6,6 +6,7 @@ table.tos-list {
     @include u-top("2px");
     @include u-margin-right("2px");
   }
+
   .tos-file {
     @include u-font("sans", "2xs");
     @include u-minw(15);

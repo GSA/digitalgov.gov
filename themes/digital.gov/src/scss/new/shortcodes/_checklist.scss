@@ -7,6 +7,7 @@
 
   &__item {
     list-style-type: none;
+
     @include u-padding-bottom(1);
 
     &:first-child {
@@ -15,6 +16,7 @@
 
     &::before {
       content: "";
+
       @include u-border("2px", "gray-cool-90", "solid");
       @include u-margin-right(1);
       @include u-display("inline-block");
