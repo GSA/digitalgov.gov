@@ -55,10 +55,10 @@ jobs:
           name: Lint Markdown
           command: npm run lint:markdown
       - run:
-          name: Styles formatting
+          name: Format Styles
           command: npm run test:styles
       - run:
-          name: Template formatting
+          name: Format Templates
           command: npm run test:templates
       - run:
           name: Lint Styles
