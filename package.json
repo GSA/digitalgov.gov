@@ -9,6 +9,7 @@
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint:markdown:format": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
+    "lint:styles": "npx stylelint ./themes/**/*.scss --fix",
     "local-build": "gulp buildAssets && gulp watch",
     "start": "npm-run-all --parallel local-build hugo workflow",
     "prettier:templates": "npx prettier -w ./themes/**/*.html",
@@ -48,6 +49,7 @@
     "sass-embedded": "^1.62.0"
   },
   "devDependencies": {
+    "@18f/identity-stylelint-config": "^2.0.0",
     "del": "^6.1.1",
     "dotenv": "^8.2.0",
     "gulp-rename": "^2.0.0",
@@ -60,6 +62,7 @@
     "postcss": "^8.4.23",
     "prettier": "^2.8.8",
     "prettier-plugin-go-template": "^0.0.13",
+    "stylelint": "^15.6.1",
     "vinyl-paths": "^3.0.1"
   },
   "overrides": {
