@@ -95,11 +95,13 @@ In this presentation, we will share actionable tips about managing project logis
 
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
 
-{{< img-right src="featured-301-x-212-nih-logo-national-institutes-of-health" >}}
+{{< img src="hhs-svg-seal" >}}
 
 The [NIH _All of Us_ Research Program](https://allofus.nih.gov/) is poised to make DNA information more accessible by returning free, personalized results about hereditary disease risk and pharmacogenetics to thousands of _All of Us_ research participants who want them.
 
 Returning DNA results is a complex user experience initiative that includes genetic health education, participant consent, report generation, and genetic counseling. The complexity is magnified by the diversity of our participant audience: 80% come from communities that have been historically left out of health research, including racial and ethnic minority populations, people living in rural communities, sexual and gender minorities, and older adults.
+
+{{< img-right src="featured-301-x-212-nih-logo-national-institutes-of-health" >}}
 
 Presenters will share a stakeholder feedback model that user experience professionals can learn from, apply, and adapt to their own organization, projects, and customers to ensure delivery of an inclusive and accessible user experience to a diverse audience. Attendees will learn about the methods the NIH _All of Us_ Research Program used to gather, categorize, and prioritize stakeholder feedback about the user experience. Presenters also will show examples of how the NIH implemented the feedback to ensure an inclusive, participant-first user experience that prioritizes trust, choice, privacy and security, plain language, inclusivity, accessibility, and usability and will discuss how the NIH is measuring the impact of the feedback and applying lessons learned to future initiatives.
 
