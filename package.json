@@ -49,6 +49,7 @@
     "sass-embedded": "^1.60.0"
   },
   "devDependencies": {
+    "@18f/identity-stylelint-config": "^2.0.0",
     "del": "^3.0.0",
     "dotenv": "^8.2.0",
     "gulp-rename": "^2.0.0",
@@ -64,7 +65,6 @@
     "prettier": "^2.8.7",
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.6.1",
-    "stylelint-config-standard-scss": "^9.0.0",
     "vinyl-paths": "^3.0.1"
   },
   "overrides": {

@@ -76,13 +76,10 @@
 
       a {
         @include u-text("black");
-
-        &:hover {
-        }
       }
     }
 
-    p.agency_refer {
+    p.agency-refer {
       @include u-float("right");
     }
 
@@ -97,7 +94,7 @@
     }
   }
 
-  .agency_refer {
+  .agency-refer {
     @include u-display("flex");
     @include u-flex("align-center");
     @include u-font("sans", "3xs");

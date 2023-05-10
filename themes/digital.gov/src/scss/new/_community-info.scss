@@ -2,8 +2,6 @@
 
 .community-info {
   @include u-margin-bottom(3);
-
-  // @include u-bg('gray-warm-4');
   @include u-font("sans", "2xs");
 
   .join-box {
@@ -76,26 +74,8 @@
       }
     }
 
-    .terms {
-      // @include u-font('sans', '2xs');
-      // @include u-text('black');
-    }
-
     .members {
       @include u-font("sans", "3xs");
     }
-  }
-
-  .community_managers {
-    h3 {
-      @include u-margin(0);
-      @include u-margin-bottom("05");
-      @include u-font("sans", "sm");
-    }
-  }
-
-  .community_admin {
-    @include u-padding-y(1);
-    @include u-font("sans", "3xs");
   }
 }

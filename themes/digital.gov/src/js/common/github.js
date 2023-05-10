@@ -4,10 +4,10 @@ jQuery(function ($) {
     // editpathURL is set the <head>
     if (editpathURL !== undefined) {
       // Build the edit link
-      var edit = `<a target='_blank' class='edit_file_link' href='${editpathURL}' title='Edit in GitHub'>Edit</a>`;
+      var edit = `<a target='_blank' class='edit-file-link' href='${editpathURL}' title='Edit in GitHub'>Edit</a>`;
 
-      // Insert the .edit_file_link html into the .edit_file div and remove the .hidden class
-      $("#page-data .edit_file").html(edit).removeClass("hidden");
+      // Insert the .edit-file-link html into the .edit-file div and remove the .hidden class
+      $("#page-data .edit-file").html(edit).removeClass("hidden");
     }
   }
   build_edit_file_link();
@@ -51,7 +51,7 @@ jQuery(function ($) {
       </a></p>`,
     ];
 
-    $(".edit_file").each(function (i, items_list) {
+    $(".edit-file").each(function (i, items_list) {
       $(this).append(last_commit.join("\n"));
     });
   }

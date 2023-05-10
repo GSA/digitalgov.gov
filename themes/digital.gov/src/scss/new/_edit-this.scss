@@ -7,7 +7,7 @@
 
   @include u-bg("yellow-5");
 
-  .edit_this_btn {
+  .edit-this-btn {
     position: absolute;
     top: -10px;
     right: -10px;
@@ -42,7 +42,7 @@
 
     z-index: 100;
 
-    .edit_this_btn {
+    .edit-this-btn {
       @include u-display("block");
 
       width: 40px;
@@ -61,7 +61,7 @@
   }
 }
 
-.edit_tools {
+.edit-tools {
   position: relative;
 
   @include u-display("none");
@@ -107,9 +107,8 @@
   }
 }
 
-.edit_tools.active {
+.edit-tools.active {
   .edit {
-    // padding: 15px;
     @include u-padding("105");
     @include u-border(1, "blue-50v", "solid");
     @include u-text("blue-50v");
@@ -132,13 +131,11 @@
   .edit-issue {
     @include u-padding("105");
     @include u-display("block");
-
-    bottom: 110px;
-
     @include u-bg("red-40v");
     @include u-text("white");
     @include u-border(1, "red-50v", "solid");
     @include u-font("sans", "lg");
+    bottom: 110px;
 
     &:hover {
       @include u-bg("red-50v");

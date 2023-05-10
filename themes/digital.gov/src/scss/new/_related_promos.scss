@@ -2,8 +2,7 @@
 
 // Related promos
 
-.related_promos {
-  // @include u-margin-top(5);
+.related-promos {
   header {
     @include u-margin(0);
 
@@ -17,8 +16,7 @@
   article.promo {
     @include u-margin-bottom(2);
     @include u-bg("gray-1");
-
-    border: 1px #cac9c0 solid;
+    @include u-border("1px", "gray-warm-20", "solid");
 
     h3 {
       @include u-font("sans", "2xs");
@@ -35,7 +33,7 @@
       @include u-bg("gray-cool-5");
 
       h3 a {
-        border-bottom: 2px #fc906d solid;
+        @include u-border-bottom("2px", "orange-warm-30v", "solid");
       }
     }
 
@@ -54,7 +52,7 @@
         @include u-text("primary-vivid");
 
         &:hover {
-          border-bottom: 2px #967efb solid; // $indigo-40
+          @include u-border-bottom("2px", "indigo-warm-40v", "solid");
         }
       }
     }
