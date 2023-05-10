@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/dhs-svg-seal.png
+  # Image shortcode: {{< img src=dhs-svg-seal >}}'
+  date     :  2023-05-09 13:15:44 -0400
+  uid      :  dhs-svg-seal
+  width    :  1024
+  height   :  1024
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "U.S. Department of Homeland Security seal" 
+  

@@ -18,11 +18,14 @@ weight: 1
 
 ---
 
-Here&#8217;s a list of Content Management Systems (CMS) used by government agencies. For more information, please contact each agency to learn about their experience with that product or system.
+Here's a list of Content Management Systems (CMS) used by government agencies. For more information, please contact each agency to learn about their experience with that product or system.
 
-Disclaimer: This list is intended solely as a resource for government employees who manage government websites. This is an unofficial list for informational purposes only. DigitalGov does not endorse the products or services listed below.
+**Disclaimer**: This list is intended solely as a resource for government employees who manage government websites. This is an unofficial list for informational purposes only. Digital.gov does not endorse the products or services listed below.
 
-We do our best to keep the list current based on information we get from agencies. However, accuracy is not assured. If you have additions or changes, please see the box at the end of this page to submit them.
+We do our best to keep the list current based on information we get from agencies. However, accuracy is not assured. **If you have additions or changes**:
+
+1. Please use the "Edit" button at the end of this page to submit them in GitHub.
+2. You may also email an addition or correction to digitalgov@gsa.gov.
 
 ## Federal Government
 

@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/va-svg-seal.png
+  # Image shortcode: {{< img src=va-svg-seal >}}'
+  date     :  2023-05-09 13:20:18 -0400
+  uid      :  va-svg-seal
+  width    :  1024
+  height   :  1024
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "U.S. Department of Veterans Affairs seal." 
+  
