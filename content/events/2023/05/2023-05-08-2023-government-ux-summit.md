@@ -115,7 +115,7 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 ---
 
-### Session 3-a, 1:00 pm - 1:15 pm, ET
+### Session 3, 1:00 pm - 1:45 pm, ET
 
 #### Accessibility research in action: VA's Health and Benefits mobile app
 
@@ -136,10 +136,6 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 * **Martha Wilkes**—Accessibility Strategist, VA Office of the Chief Technology Officer (CTO)
 * **Elizabeth Straghalis**—Contractor, Staff Researcher, VA
 
----
-
-### Session 3-b, 1:15 pm - 1:30 pm, ET
-
 #### Operation Rising Tide: Cognitive disability accommodations for the workforce
 
 {{< img-right src="dod-seal" >}}
@@ -157,13 +153,15 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 ---
 
-### Session 4-a, 2:00 pm - 2:15 pm, ET
+### Session 4, 2:00 pm - 2:45 pm, ET
 
 #### Designing metaphors, designing collaboration
 
 {{< img-right src="featured-18f-new-logo-black-bg" >}}
 
 Metaphors are one of our most powerful methods of communication, but they’re often overlooked as worthy of design. Research shows that our metaphors don’t only reflect our way with words — they reflect the way we think. They are plain language tools to help us grasp complicated situations, and share our mental models with our collaborators.
+
+{{< img src="gsa-logo-blue-bg-1200-x-630" >}}
 
 Alex (an engineer) and Laura (a designer) love that the right phrase can translate concepts from one brain to another. Metaphors structure the actions we take and influence our reasoning. And when we consider multiple metaphors, we can help our teams reframe situations, check cognitive biases, and consider alternative approaches.
 
@@ -179,15 +177,13 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * **Alex Bielen**—Engineering Supervisor at 18F, GSA
 * **Laura Nash**—Design Supervisor at 18F, GSA
 
----
-
-### Session 4-b, 2:15 pm - 2:30 pm, ET
-
 #### Simplifying user experiences for complex content at USAGov
 
 {{< img-right src="featured-usagov-logo-new-2017" >}}
 
 At USAGov, one of our top questions is, “How do I report a scam?” The answer is that it depends. What kind of scam is it? Identity theft? Housing? Banking? There are a number of details to sort out before you know where to report the scam. It sounds like a simple question, but it's a complex journey to figure out the answer.
+
+{{< img-right src="gsa-logo-blue-bg-1200-x-630" >}}
 
 If you call or chat with our contact center, one of our friendly agents will ask some questions to help figure out the correct place to report your scam, but what about visitors to our website? On the website, people had to do a lot of reading to find the answer. Plain language and content formatting weren’t doing enough to simplify the information.
 
