@@ -163,11 +163,11 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 #### 1. Designing metaphors, designing collaboration
 
-{{< img-right src="featured-18f-new-logo-black-bg" >}}
+{{< img-right src="gsa-blue-logo-sq" >}}
 
 Metaphors are one of our most powerful methods of communication, but they’re often overlooked as worthy of design. Research shows that our metaphors don’t only reflect our way with words — they reflect the way we think. They are plain language tools to help us grasp complicated situations, and share our mental models with our collaborators.
 
-{{< img-right src="gsa-blue-logo-sq" >}}
+{{< img-right src="featured-18f-new-logo-black-bg" >}}
 
 Alex (an engineer) and Laura (a designer) love that the right phrase can translate concepts from one brain to another. Metaphors structure the actions we take and influence our reasoning. And when we consider multiple metaphors, we can help our teams reframe situations, check cognitive biases, and consider alternative approaches.
 
@@ -185,11 +185,11 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 
 #### 2. Simplifying user experiences for complex content at USAGov
 
-{{< img-right src="featured-usagov-logo-new-2017" >}}
+{{< img-right src="gsa-blue-logo-sq" >}}
 
 At USAGov, one of our top questions is, “How do I report a scam?” The answer is that it depends. What kind of scam is it? Identity theft? Housing? Banking? There are a number of details to sort out before you know where to report the scam. It sounds like a simple question, but it's a complex journey to figure out the answer.
 
-{{< img-right src="gsa-blue-logo-sq" >}}
+{{< img-right src="featured-usagov-logo-new-2017" >}}
 
 If you call or chat with our contact center, one of our friendly agents will ask some questions to help figure out the correct place to report your scam, but what about visitors to our website? On the website, people had to do a lot of reading to find the answer. Plain language and content formatting weren’t doing enough to simplify the information.
 
