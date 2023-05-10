@@ -27,7 +27,7 @@ a[aria-describedby="footnote-label"] {
  * 5. Reset link styles on the number to show it's usable
  */
 a[aria-describedby="footnote-label"]::after {
-  content: '[' counter(footnotes) ']'; /* 1 */
+  content: "[" counter(footnotes) "]"; /* 1 */
   vertical-align: super; /* 2 */
   font-size: 0.5em; /* 3 */
   margin-left: 2px; /* 4 */

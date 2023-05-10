@@ -61,7 +61,7 @@
 
   nav.usa-nav {
     @include u-border-top(0);
-	border-bottom: 1px solid #dfe1e2;
+    border-bottom: 1px solid #dfe1e2;
     .usa-nav__primary > .usa-nav__primary-item {
       @include u-font("sans", "sm");
       a {
