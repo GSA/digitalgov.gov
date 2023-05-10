@@ -236,8 +236,8 @@ This panel includes user and customer experience specialists from three very dif
 **Speakers**
 
 * **Dana Chisnell**—Acting Director for Customer Experience, DHS
-* **Erin Elzi**—Digital Services Specialist, Office of the Chief Information Officer (CIO), ONRR
-* **Shannon McHarg**—User Experience Designer, DOL
+* **Erin Elzi**—Digital Services Specialist, Office of Natural Resources Revenue, DOI
+* **Shannon McHarg**—User Experience Designer, Office of the Chief Information Officer (CIO), DOL
 
 **Moderator**
 
