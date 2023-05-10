@@ -68,7 +68,11 @@ Welcome
 
 Design research with the public can be difficult. It is a balancing act between [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) requirements, time and funding constraints, and the desire to reach a wide, diverse pool of users. OPM’s USAJOBS Program Office is exploring these challenges to build inclusive design research practices.
 
+{{< img-right src="usa-jobs-red-white-logo-svg" >}}
+
 We’ll share the case study of the Early Career Marketplace, a research collaboration between USAJOBS’ Team Discovery and The Lab at OPM. With only 6% of the federal workforce being under the age of 30, USAJOBS is central to achieving PMA Goal 1.2 to “build equitable pathways into the Federal Government for early career positions, particularly from underrepresented and underserved communities.”
+
+{{< img-right src="lab-at-opm-logo-orange-teal-svg" >}}
 
 We knew the Early Career Marketplace needed to work for underserved communities, and our research participants needed to reflect that. To do so, we pivoted mid-project to reach beyond testing with friends and family. By getting approval to compensate research participants and exploring new outreach channels, we built a recruiting strategy around inclusion.
 
