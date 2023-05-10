@@ -64,9 +64,15 @@ Welcome
 
 #### Inclusive civic design: Engaging diverse communities to improve the early career experience
 
+{{< img-right src="opm-svg-seal" >}}
+
 Design research with the public can be difficult. It is a balancing act between [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) requirements, time and funding constraints, and the desire to reach a wide, diverse pool of users. OPM’s USAJOBS Program Office is exploring these challenges to build inclusive design research practices.
 
+{{< img-right src="usa-jobs-red-white-logo-svg" >}}
+
 We’ll share the case study of the Early Career Marketplace, a research collaboration between USAJOBS’ Team Discovery and The Lab at OPM. With only 6% of the federal workforce being under the age of 30, USAJOBS is central to achieving PMA Goal 1.2 to “build equitable pathways into the Federal Government for early career positions, particularly from underrepresented and underserved communities.”
+
+{{< img-right src="lab-at-opm-logo-orange-teal-svg" >}}
 
 We knew the Early Career Marketplace needed to work for underserved communities, and our research participants needed to reflect that. To do so, we pivoted mid-project to reach beyond testing with friends and family. By getting approval to compensate research participants and exploring new outreach channels, we built a recruiting strategy around inclusion.
 
@@ -89,9 +95,13 @@ In this presentation, we will share actionable tips about managing project logis
 
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
 
+{{< img-right src="hhs-svg-seal" >}}
+
 The [NIH _All of Us_ Research Program](https://allofus.nih.gov/) is poised to make DNA information more accessible by returning free, personalized results about hereditary disease risk and pharmacogenetics to thousands of _All of Us_ research participants who want them.
 
 Returning DNA results is a complex user experience initiative that includes genetic health education, participant consent, report generation, and genetic counseling. The complexity is magnified by the diversity of our participant audience: 80% come from communities that have been historically left out of health research, including racial and ethnic minority populations, people living in rural communities, sexual and gender minorities, and older adults.
+
+{{< img-right src="featured-301-x-212-nih-logo-national-institutes-of-health" >}}
 
 Presenters will share a stakeholder feedback model that user experience professionals can learn from, apply, and adapt to their own organization, projects, and customers to ensure delivery of an inclusive and accessible user experience to a diverse audience. Attendees will learn about the methods the NIH _All of Us_ Research Program used to gather, categorize, and prioritize stakeholder feedback about the user experience. Presenters also will show examples of how the NIH implemented the feedback to ensure an inclusive, participant-first user experience that prioritizes trust, choice, privacy and security, plain language, inclusivity, accessibility, and usability and will discuss how the NIH is measuring the impact of the feedback and applying lessons learned to future initiatives.
 
@@ -113,7 +123,9 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 ### Session 3, 1:00 pm - 1:45 pm, ET
 
-#### Accessibility research in action: VA's Health and Benefits mobile app
+#### 1. Accessibility research in action: VA's Health and Benefits mobile app
+
+{{< img-right src="va-svg-seal" >}}
 
 The accessibility community talks a lot about the "shift-left" methodology when it comes to thinking about accessibility — embedding accessibility early in a project to prevent problems instead of fixing them after they have happened. This session will provide actionable ways for you to build accessibility research into your practice, or to deepen it if you’ve already started. We hope to inspire UX designers across the government to continue raising the bar on accessibility.
 
@@ -130,11 +142,13 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 * **Martha Wilkes**—Accessibility Strategist, VA Office of the Chief Technology Officer (CTO)
 * **Elizabeth Straghalis**—Contractor, Staff Researcher, VA
 
----
+#### 2. Operation Rising Tide: Cognitive disability accommodations for the workforce
 
-#### Operation Rising Tide: Cognitive disability accommodations for the workforce
+{{< img-right src="dod-seal" >}}
 
 Government agencies use a range of internal systems to perform their duties, many of which are purpose-built by any number of diverse teams. The design and architecture of these systems is typically focused on fulfilling specific requirements without regard to usability. Currently, there is no established approach to assess or ensure usability of internal government systems regularly used by an agency's workforce. This results in application-specific design and function that is often unintuitive, brittle, and places undue burden on the user. Likewise, users are required to learn application-specific operations which do not generalize to other systems.
+
+{{< img-right src="dtra-defense-threat-reduction-agency-svg-white-logo-blue-bg" >}}
 
 Issues related to usability and user experience affect all users, especially the 5% of the workforce with cognitive and learning disabilities. People with cognitive and learning disabilities have greater difficulty navigating complicated workflows than those without such disabilities. Because everyone has cognitive limits that can vary due to stress, fatigue, and distraction, all users benefit when processes are easily navigated by individuals with cognitive and learning disabilities. Existing policies for disability accommodations under Section 508 of the Rehabilitation Act of 1973 can be applied to improve government systems and increase productivity and morale for everyone.
 
@@ -149,11 +163,15 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 ### Session 4, 2:00 pm - 2:45 pm, ET
 
-#### Designing metaphors, designing collaboration
+#### 1. Designing metaphors, designing collaboration
+
+{{< img-right src="gsa-blue-logo-sq" >}}
 
 Metaphors are one of our most powerful methods of communication, but they’re often overlooked as worthy of design. Research shows that our metaphors don’t only reflect our way with words — they reflect the way we think. They are plain language tools to help us grasp complicated situations, and share our mental models with our collaborators.
 
 Alex (an engineer) and Laura (a designer) love that the right phrase can translate concepts from one brain to another. Metaphors structure the actions we take and influence our reasoning. And when we consider multiple metaphors, we can help our teams reframe situations, check cognitive biases, and consider alternative approaches.
+
+{{< img-right src="featured-18f-new-logo-black-bg" >}}
 
 **In this session we will:**
 
@@ -167,13 +185,15 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * **Alex Bielen**—Engineering Supervisor at 18F, GSA
 * **Laura Nash**—Design Supervisor at 18F, GSA
 
----
+#### 2. Simplifying user experiences for complex content at USAGov
 
-#### Simplifying user experiences for complex content at USAGov
+{{< img-right src="gsa-blue-logo-sq" >}}
 
 At USAGov, one of our top questions is, “How do I report a scam?” The answer is that it depends. What kind of scam is it? Identity theft? Housing? Banking? There are a number of details to sort out before you know where to report the scam. It sounds like a simple question, but it's a complex journey to figure out the answer.
 
 If you call or chat with our contact center, one of our friendly agents will ask some questions to help figure out the correct place to report your scam, but what about visitors to our website? On the website, people had to do a lot of reading to find the answer. Plain language and content formatting weren’t doing enough to simplify the information.
+
+{{< img-right src="featured-usagov-logo-new-2017" >}}
 
 When we were rethinking our content design for usa.gov, we imagined ways to simplify it for our visitors by building tools that ask a few simple, anonymous questions to deliver a simple answer.
 
@@ -197,11 +217,17 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 
 #### Reconsidering the consent form: the least user-friendly aspect of UX research
 
+{{< img-right src="dhs-svg-seal" >}}
+
 The concept of requiring a signed consent form in user experience (UX) or customer experience (CX) research is a holdover from the institutional review board (IRB) process in academic research. Yet even in higher education, UX and CX research is often deemed exempt from IRB and does not actually require a signed form. It’s time we question why the signed consent form process is the standard in civic UX and CX research. Do we really need a signed form to gather consent, or are we just carrying over practices because the signed consent form is what we’ve always done?
+
+{{< img-right src="doi-svg-seal" >}}
 
 This panel includes user and customer experience specialists from three very different agencies. They will share their thoughts on the need for consent forms in civic user and customer research, how their new consent process is driven by inclusion and equity goals, what it took to change the consent form procedure at their agency, and their revised consent procedures that are in place or forthcoming.
 
 **In this session we will address:**
+
+{{< img-right src="dol-svg-seal" >}}
 
 * Is the signed form a requirement that builds or reduces inclusion?
 * What other options do we have?
