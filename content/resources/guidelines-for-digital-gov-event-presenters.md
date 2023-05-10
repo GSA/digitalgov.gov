@@ -83,7 +83,7 @@ Watch these [presentations training videos](https://www.section508.gov/create/pr
   {{< checkbox >}}Dress professionally (business casual).{{< /checkbox >}} 
   {{< checkbox >}}Speak slowly and clearly.{{< /checkbox >}} 
   {{< checkbox >}}Keep your camera on. This allows people to see you, including those who lip read.{{< /checkbox >}} 
-  {{< checkbox >}}Only share approved slides; do not show other content during your presentation.{{< /checkbox >}}
+  {{< checkbox >}}Only share the approved presentation slides; do not show other content during your presentation.{{< /checkbox >}}
   {{< checkbox >}}Announce the slide number instead of saying &#34;Next slide.&#34;{{< /checkbox >}} 
   {{< checkbox >}}To meet [Section 508](https://www.section508.gov/manage/laws-and-policies) requirements for accessibility, provide “audio descriptions” as follows:{{< /checkbox >}}
 
