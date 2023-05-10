@@ -95,7 +95,7 @@ In this presentation, we will share actionable tips about managing project logis
 
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
 
-{{< img src="hhs-svg-seal" >}}
+{{< img-right src="hhs-svg-seal" >}}
 
 The [NIH _All of Us_ Research Program](https://allofus.nih.gov/) is poised to make DNA information more accessible by returning free, personalized results about hereditary disease risk and pharmacogenetics to thousands of _All of Us_ research participants who want them.
 
@@ -169,9 +169,9 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 Metaphors are one of our most powerful methods of communication, but they’re often overlooked as worthy of design. Research shows that our metaphors don’t only reflect our way with words — they reflect the way we think. They are plain language tools to help us grasp complicated situations, and share our mental models with our collaborators.
 
-{{< img-right src="featured-18f-new-logo-black-bg" >}}
-
 Alex (an engineer) and Laura (a designer) love that the right phrase can translate concepts from one brain to another. Metaphors structure the actions we take and influence our reasoning. And when we consider multiple metaphors, we can help our teams reframe situations, check cognitive biases, and consider alternative approaches.
+
+{{< img-right src="featured-18f-new-logo-black-bg" >}}
 
 **In this session we will:**
 
@@ -191,9 +191,9 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 
 At USAGov, one of our top questions is, “How do I report a scam?” The answer is that it depends. What kind of scam is it? Identity theft? Housing? Banking? There are a number of details to sort out before you know where to report the scam. It sounds like a simple question, but it's a complex journey to figure out the answer.
 
-{{< img-right src="featured-usagov-logo-new-2017" >}}
-
 If you call or chat with our contact center, one of our friendly agents will ask some questions to help figure out the correct place to report your scam, but what about visitors to our website? On the website, people had to do a lot of reading to find the answer. Plain language and content formatting weren’t doing enough to simplify the information.
+
+{{< img-right src="featured-usagov-logo-new-2017" >}}
 
 When we were rethinking our content design for usa.gov, we imagined ways to simplify it for our visitors by building tools that ask a few simple, anonymous questions to deliver a simple answer.
 
