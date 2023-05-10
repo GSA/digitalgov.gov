@@ -221,7 +221,7 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 
 The concept of requiring a signed consent form in user experience (UX) or customer experience (CX) research is a holdover from the institutional review board (IRB) process in academic research. Yet even in higher education, UX and CX research is often deemed exempt from IRB and does not actually require a signed form. It’s time we question why the signed consent form process is the standard in civic UX and CX research. Do we really need a signed form to gather consent, or are we just carrying over practices because the signed consent form is what we’ve always done?
 
-{{< img-right src="doi-svg-seal" >}}
+{{< img-right src="office-of-natural-resources-revenue-onrr-doi-logo" >}}
 
 This panel includes user and customer experience specialists from three very different agencies. They will share their thoughts on the need for consent forms in civic user and customer research, how their new consent process is driven by inclusion and equity goals, what it took to change the consent form procedure at their agency, and their revised consent procedures that are in place or forthcoming.
 
