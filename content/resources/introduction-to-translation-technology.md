@@ -51,10 +51,9 @@ With computer-aided technology, the translation is created by a human translator
 The table below highlights other key differences between the two approaches.
 
 <table class="usa-table usa-table--borderless">
-  <caption>&nbsp;</caption>
   <thead>
     <tr>
-      <th scope="col">&nbsp;</th>
+      <th scope="col">Compare</th>
       <th scope="col">Computer-aided technology</th>
       <th scope="col">Machine translation</th>
     </tr>
