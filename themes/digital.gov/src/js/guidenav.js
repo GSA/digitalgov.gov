@@ -1,5 +1,5 @@
 jQuery(function ($) {
-  var topListItem = $(".usa-current").parents("li").last();
+  const topListItem = $(".usa-current").parents("li").last();
   $(topListItem).addClass("current");
 
   // Cleans up the #TableOfContents from HUGO
@@ -9,7 +9,7 @@ jQuery(function ($) {
   $("#TableOfContents > ul > ul").remove();
 
   function mobile_check() {
-    var isMobile = false; //initiate as false
+    let isMobile = false; // initiate as false
     // device detection
     if (
       /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(
@@ -35,13 +35,13 @@ jQuery(function ($) {
           $(li).removeClass("active");
 
           // Get the title for the Title attribute
-          var title = $(li).html();
+          const title = $(li).html();
 
           // get the anchor link of the li
-          var anchor = $(li).attr("href").substring(1);
+          const anchor = $(li).attr("href").substring(1);
 
           // If the anchor == hash, then set that <li> to 'active'
-          var state;
+          let state;
           if (anchor == hash) {
             state = "active";
           } else {
@@ -56,22 +56,18 @@ jQuery(function ($) {
     // checks if it is a mobile browser
     if (mobile_check() == true) {
       console.log("mobile device!");
-      var num = $("nav#TableOfContents ul:first-child > li").size();
+      const num = $("nav#TableOfContents ul:first-child > li").size();
       console.log(num);
       // if the number of H2 items in the in-page nav is greater than 6
       // then truncate the list after 4 items, by adding the .ex and .display-none classes to the additional <li> tags in the nav
       if (num > 6) {
-        var rem = num - 4;
+        const rem = num - 4;
         $("nav#TableOfContents ul:first-child > li")
           .slice(-rem)
           .addClass("ex display-none");
         // If greater than 6, the show / hide button appears as the last item in the list
         $(
-          '<li class="more"><a href="#" title="view the ' +
-            rem +
-            ' more items in this page">+ ' +
-            rem +
-            " more »</a></li>"
+          `<li class="more"><a href="#" title="view the ${rem} more items in this page">+ ${rem} more »</a></li>`
         ).appendTo($("#TableOfContents ul:first-child"));
         $(
           '<li class="close display-none"><a href="#" title="close the navigation">close</a></li>'
@@ -86,7 +82,7 @@ jQuery(function ($) {
   // Looks out for a click on the in-page nav
   // passes the hash onto format_toc()
   $("#TableOfContents a").click(function () {
-    var hash = $(this).attr("name");
+    const hash = $(this).attr("name");
     console.log(hash);
     format_toc(hash);
   });
@@ -94,7 +90,7 @@ jQuery(function ($) {
   // If the page loads, and there is a hash in the URL,
   // pass that along to format_toc()
   if (window.location.hash) {
-    var hash = window.location.hash.substring(1); //Puts hash in variable, and removes the # character
+    const hash = window.location.hash.substring(1); // Puts hash in variable, and removes the # character
     format_toc(hash);
   }
 

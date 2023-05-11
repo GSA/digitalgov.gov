@@ -5,7 +5,7 @@ jQuery(function ($) {
     // editpathURL is set the <head>
     if (editpathURL !== undefined) {
       // Build the edit link
-      var edit = `<a target='_blank' class='edit-file-link' href='${editpathURL}' title='Edit in GitHub'>Edit</a>`;
+      const edit = `<a target='_blank' class='edit_file_link' href='${editpathURL}' title='Edit in GitHub'>Edit</a>`;
 
       // Insert the .edit-file-link html into the .edit-file div and remove the .hidden class
       $(`#page-data ${editFile}`).html(edit).removeClass("hidden");
@@ -19,7 +19,7 @@ jQuery(function ($) {
     } else {
       branchpath = `/${branch}`;
     }
-    var commit_api_path = `https://api.github.com/repos/${git_org}/${git_repo}/commits${branchpath}?path=/content/${filepath}`;
+    const commit_api_path = `https://api.github.com/repos/${git_org}/${git_repo}/commits${branchpath}?path=/content/${filepath}`;
     if (commit_api_path !== undefined) {
       $.ajax({
         url: commit_api_path,
@@ -34,16 +34,16 @@ jQuery(function ($) {
   get_commit_data(filepath);
 
   function get_branch_link(branch) {
-    var path = `https://github.com/GSA/digitalgov.gov/tree/${branch}`;
-    var branch_link = `<a class="branch" href="${path}" title="${branch}">${branch}</a>`;
+    const path = `https://github.com/GSA/digitalgov.gov/tree/${branch}`;
+    const branch_link = `<a class="branch" href="${path}" title="${branch}">${branch}</a>`;
     return branch_link;
   }
 
   function show_last_commit(data, branch) {
-    var branch_link = get_branch_link(branch);
-    var commit_data = Array.isArray(data) ? data[0] : data;
-    var commit_date = commit_data.commit.committer.date;
-    var commit_history_url = `https://github.com/GSA/digitalgov.gov/commits/${branch}/content/${filepath}`;
+    const branch_link = get_branch_link(branch);
+    const commit_data = Array.isArray(data) ? data[0] : data;
+    const commit_date = commit_data.commit.committer.date;
+    const commit_history_url = `https://github.com/GSA/digitalgov.gov/commits/${branch}/content/${filepath}`;
 
     last_commit = [
       branch_link,

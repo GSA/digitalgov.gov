@@ -1,14 +1,14 @@
 jQuery(function ($) {
   // Gets all the image sizes as paths
   function get_all_image_sizes(uid, format, width, height) {
-    var sizes = ["200", "400", "600", "800", "1200", "2400"]; // all image sizes
-    var imgs = [];
+    const sizes = ["200", "400", "600", "800", "1200", "2400"]; // all image sizes
+    const imgs = [];
     $.each(sizes, function (key, size) {
       if (width > size) {
         // big-bend_w200.jpg
-        var img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}.${format}`;
+        const img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}.${format}`;
         // big-bend_w200bw.jpg
-        var bw_img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}bw.${format}`;
+        const bw_img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}bw.${format}`;
         imgs.push(img, bw_img);
       }
     });
@@ -21,23 +21,23 @@ jQuery(function ($) {
   // Gets all the image from the JSON file and appends them to #all-images div
   $.getJSON(all_images_json, function (data) {
     $.each(data, function (key, img) {
-      var width = img.width;
-      var height = img.height;
-      var date = img.date;
-      var uid = img.uid;
-      var credit = img.credit;
-      var caption = img.caption;
-      var alt = img.alt;
-      var format = img.format;
-      var all_sizes = get_all_image_sizes(uid, format, width, height);
+      const { width } = img;
+      const { height } = img;
+      const { date } = img;
+      const { uid } = img;
+      const { credit } = img;
+      const { caption } = img;
+      const { alt } = img;
+      const { format } = img;
+      const all_sizes = get_all_image_sizes(uid, format, width, height);
 
       // big-bend.jpg
-      var filename = `${uid}.${format}`;
+      const filename = `${uid}.${format}`;
       // big-bend_jpg.jpg
-      var proxy_img = `${root_url}/img/proxy/${uid}_${format}.${format}`;
+      const proxy_img = `${root_url}/img/proxy/${uid}_${format}.${format}`;
 
       // If the image is greater than 400px
-      var thumb;
+      let thumb;
       if (width > 400) {
         // get the w400 image
         // big-bend_w400.jpg
@@ -48,7 +48,7 @@ jQuery(function ($) {
         thumb = `https://s3.amazonaws.com/digitalgov/${uid}.${format}`;
       }
 
-      var img_asset = `<div class="card-img">
+      const img_asset = `<div class="card-img">
         <div class="media">
           <img src="${thumb}">
           <p>${caption}</p>
