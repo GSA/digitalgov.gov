@@ -12,73 +12,56 @@
   if an external link, display external link logo
   else use digital.gov logo
 
+  if source, use source to display logo
+  if source_url, use google lookup for logo
+  else use dg logo
+
+  $src
+  $href
+
 */}}
 
 
 {{/* Gets the full array of items passed into the partial */}}
-{{- $list := .list -}}
+{{ $list := .list }}
+{{ $href := "href value" }}
+{{ $src := "src value" }}
 
 {{/* If there are any items in the array at all... */}}
-{{- if $list -}}
+{{ if $list }}
   <div class="collection">
     {{/* Checks if there a heading is set in the partial */}}
-    {{- if .heading -}}
+    {{ if .heading }}
       <h2>{{- .heading -}}</h2>
-    {{- end -}}
-
+    {{ end }}
 
     <ul>
-      {{- range $list -}}
+      {{ range $list }}
 
-        {{/* A. If an  external link, source_url: content/{news,resources, services} */}}
-        {{- if or .Params.source_url .Params.source -}}
+        {{/* Is the link external, look up in sources for a logo, provide a sample value expected "omb" */}}
+        {{ if .Params.source }}
+        {{ $source := .Site.GetPage (print "source_" .Params.source ) }}
+          {{ if $source.Params.logo }}
+            {{ $src = (printf "/logos/%s%s" $source.Params.logo "-icon.png") }}
+          {{ end }}
+        {{ end }}
 
-          {{/* B. Check if need to get source logo or google lookup */}}
-          {{/* If there is a defined source for this page, these are content/resources */}}
-          {{- if .Params.source -}}
+        {{/* .source_url is a url for looking up the logo */}}
+        {{ if .Params.source_url }}
+          {{ $src = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
+        {{ end }}
 
-            {{/* Get the source data from the resource */}}
-            {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
+        {{/* Use digital.gov logo */}} 
+        {{ if eq .Params.source_url .Params.source }}
+          {{ $src = (print "/img/digit-50.png") }}
+          {{ $href = (print .Permalink "?dg") }}
+        {{ end }}
 
-            {{/* If there is a logo defined in the source */}}
-            {{- if $source.Params.logo -}}
+        {{ partial "partials/core/collection-list-item" (dict "item" . "href" $href "src" $src) }}
 
-              {{/* get the path for the icon — e.g. 18f-icon.png ( "/logos/digitalgov-icon.png" ) */}}
-              {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
-              {{/* Pass these vars into the collection template
-                (see bottom of collection.html partial)
-              */}}
-              {{- partial "partials/core/collection-list-item" (dict "item" . "href" (print .Params.source_url "?dg") "src" $src) -}}
-
-            {{- end -}}
-
-            {{/* No source? let's attempt to get the favicon for the URL */}}
-          {{- else -}}
-
-            {{/* get the Favicon via Google Favicon service */}}
-            {{- $src := (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) -}}
-            {{/* Pass these vars into the collection template
-              (see bottom of collection.html partial)
-            */}}
-
-            {{- partial "partials/core/collection-list-item" (dict "item" . "href" (print .Params.source_url "?dg") "src" $src) -}}
-
-          {{- end -}}
-
-          {{/* If an internal link... */}}
-        {{- else -}}
-
-          {{/* Use the digital.gov logo */}}
-          {{/* Pass these vars into the collection template
-            (see bottom of collection.html partial)
-          */}}
-
-          {{- $src := (print "/img/digit-50.png") -}}
-          {{- $href := (print .Permalink "?dg") -}}
-          {{- partial "partials/core/collection-list-item" (dict "item" . "href" $href "src" $src) -}}
-
-        {{- end -}}
-      {{- end -}}
+      {{ end }}
     </ul>
+
+    
   </div>
 {{- end -}}
