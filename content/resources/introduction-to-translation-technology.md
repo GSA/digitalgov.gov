@@ -37,8 +37,8 @@ All people in this country, regardless of the language they speak, deserve meani
 
 Two executive orders affirm the federal government’s commitment to improving language access services and ensuring full participation by individuals with limited English proficiency (LEP).
 
-* Executive Order 14091, *[Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.federalregister.gov/executive-order/14091)* (February 2023)
-* Executive Order 13166, *[Improving Access to Services for Persons with Limited English Proficiency](https://www.federalregister.gov/executive-order/13166)* (August 2000)
+* Executive Order 14091, [Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.federalregister.gov/executive-order/14091) (February 2023)
+* Executive Order 13166, [Improving Access to Services for Persons with Limited English Proficiency](https://www.federalregister.gov/executive-order/13166) (August 2000)
 
 ## What is translation technology?
 
