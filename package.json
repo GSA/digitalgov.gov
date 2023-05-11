@@ -7,6 +7,7 @@
     "federalist": "export NODE_ENV=production && gulp buildAssets",
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
+    "lint:js": "eslint './themes/digital.gov/src/js/*.js'",
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint:markdown:format": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint:styles": "npx stylelint ./themes/**/*.scss",
