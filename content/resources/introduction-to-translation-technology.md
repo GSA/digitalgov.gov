@@ -17,7 +17,7 @@ authors:
   - fedora-braverman
 
 slug: introduction-to-translation-technology
-primary_image: 10x-areas-of-focus
+primary_image: "gesrey-istock-getty-images-1364367007-comp"
 
 # Controls how this page appears across the site
 # 0 -- hidden
