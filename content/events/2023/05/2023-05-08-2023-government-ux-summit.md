@@ -11,7 +11,7 @@ cop_events:
   - web-managers
 
 registration_url: https://gsa.zoomgov.com/webinar/register/WN_moRmnMLtQpmmrvtFgR6qiw
-captions: ""
+captions: "https://www.streamtext.net/player?event=BIS-GSA-5334455"
 
 date: 2023-06-14 10:00:00 -0500
 end_date: 2023-06-14 16:00:00 -0500
