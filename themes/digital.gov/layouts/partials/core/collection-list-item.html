@@ -1,0 +1,28 @@
+{{- $href := .href -}}
+{{- $src := .src -}}
+{{- with .item -}}
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
+  <li data-edit-this="{{- $path -}}">
+
+    {{- partial "partials/core/collection-icon" (dict "item" . "src" $src "href" $href)  -}} 
+
+    <div class="copy">
+      <p>
+        <a href="{{- $href -}}" title="{{- .Title | markdownify -}}">
+          <span>{{- .Title | markdownify -}}</span>
+        </a>
+        {{- if .Params.summary -}}
+          —
+          {{- .Params.summary | markdownify | truncate 140 -}}
+        {{- else -}}
+          —
+          {{- .Params.deck | markdownify -}}
+        {{- end -}}
+      </p>
+    </div>
+  </li>
+{{- end -}}

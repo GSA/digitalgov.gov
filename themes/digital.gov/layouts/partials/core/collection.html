@@ -1,3 +1,20 @@
+{{/* 
+  
+  1. 41,53 should be used once, same code
+  2. $src on 38 outputs "/logos/digitalgov-icon.png" "/logos/uswds-icon.png"
+  3. $src on 66 outputs "https://www.google.com/s2/favicons?domain=https://www.section508.gov/manage/laws-and-policies/far-update-comparison/" to fetch icon
+  4. write a check that sets via google or hosted logo for $src
+  5. wrote more like factory pattern versus
+  6. 35 prints "Page(/sources/source_digitalgov.md)"
+  7. content/sources/source_*
+  8. logo params ? use it : google lookup
+  9. move out to separate templates
+  if an external link, display external link logo
+  else use digital.gov logo
+
+*/}}
+
+
 {{/* Gets the full array of items passed into the partial */}}
 {{- $list := .list -}}
 
@@ -13,24 +30,25 @@
     <ul>
       {{- range $list -}}
 
-        {{/* If an external link */}}
+        {{/* A. If an  external link, source_url: content/{news,resources, services} */}}
         {{- if or .Params.source_url .Params.source -}}
 
-          {{/* If there is a defined source for this page */}}
+          {{/* B. Check if need to get source logo or google lookup */}}
+          {{/* If there is a defined source for this page, these are content/resources */}}
           {{- if .Params.source -}}
 
-            {{/* Get the source data */}}
+            {{/* Get the source data from the resource */}}
             {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
 
             {{/* If there is a logo defined in the source */}}
             {{- if $source.Params.logo -}}
 
-              {{/* get the path for the icon — e.g. 18f-icon.png */}}
+              {{/* get the path for the icon — e.g. 18f-icon.png ( "/logos/digitalgov-icon.png" ) */}}
               {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
               {{/* Pass these vars into the collection template
                 (see bottom of collection.html partial)
               */}}
-              {{- template "collection-list-item" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+              {{- partial "partials/core/collection-list-item" (dict "item" . "href" (print .Params.source_url "?dg") "src" $src) -}}
 
             {{- end -}}
 
@@ -42,7 +60,8 @@
             {{/* Pass these vars into the collection template
               (see bottom of collection.html partial)
             */}}
-            {{- template "collection-list-item" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+
+            {{- partial "partials/core/collection-list-item" (dict "item" . "href" (print .Params.source_url "?dg") "src" $src) -}}
 
           {{- end -}}
 
@@ -53,51 +72,13 @@
           {{/* Pass these vars into the collection template
             (see bottom of collection.html partial)
           */}}
-          {{- template "collection-list-item" dict "item" . "href" (print .Permalink "?dg") "src" (print "/img/digit-50.png") -}}
+
+          {{- $src := (print "/img/digit-50.png") -}}
+          {{- $href := (print .Permalink "?dg") -}}
+          {{- partial "partials/core/collection-list-item" (dict "item" . "href" $href "src" $src) -}}
 
         {{- end -}}
       {{- end -}}
     </ul>
   </div>
-{{- end -}}
-
-{{- define "collection-list-item" -}}
-  {{- $href := .href -}}
-  {{- $src := .src -}}
-  {{- with .item -}}
-    {{ $path := "" }}{{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
-    <li data-edit-this="{{- $path -}}">
-      {{- template "collection-icon" dict "item" . "src" $src "href" $href -}}
-
-
-      <div class="copy">
-        <p>
-          <a href="{{- $href -}}" title="{{- .Title | markdownify -}}">
-            <span>{{- .Title | markdownify -}}</span>
-          </a>
-          {{- if .Params.summary -}}
-            —
-            {{- .Params.summary | markdownify | truncate 140 -}}
-          {{- else -}}
-            —
-            {{- .Params.deck | markdownify -}}
-          {{- end -}}
-        </p>
-      </div>
-    </li>
-  {{- end -}}
-{{- end -}}
-
-{{- define "collection-icon" -}}
-  {{- $href := .href -}}
-  {{- $src := .src -}}
-  {{- with .item -}}
-    <div class="icon">
-      <img src="{{ $src | relURL }}" alt="" aria-hidden="true" />
-    </div>
-  {{- end -}}
 {{- end -}}

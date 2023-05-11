@@ -1,0 +1,7 @@
+{{- $href := .href -}}
+{{- $src := .src -}}
+{{- with .item -}}
+  <div class="icon">
+    <img src="{{ $src | relURL }}" alt="" aria-hidden="true" />
+  </div>
+{{- end -}}
