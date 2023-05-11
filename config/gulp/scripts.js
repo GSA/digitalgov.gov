@@ -1,40 +1,43 @@
-const { src, dest, series } = require("gulp"),
-  uglify = require("gulp-uglify"),
-  concat = require("gulp-concat"),
-  jshint = require("gulp-jshint");
+const { src, dest, series } = require("gulp");
+const uglify = require("gulp-uglify");
+const concat = require("gulp-concat");
 
 // Directories
 const USWDS = "node_modules/@uswds/uswds/dist";
 const JQUERY_PATH = "node_modules/jquery/dist/jquery.min.js";
 const PROJECT_JS_SRC = "./themes/digital.gov/src/js";
-const JS_DEST = "./themes/digital.gov/static/dist";
+const JS_DEST = "./themes/digital.gov/static/dist/js";
 
-function copyUswdsJs() {
-  return src(`${USWDS}/js/**/**`).pipe(dest(JS_DEST));
+/**
+ * Copy USWDS scripts to dist directory.
+ *
+ * @return {File} uswds - The minified jQuery file from node_modules.
+ */
+function copyUswdsJS() {
+  return src(`${USWDS}/uswds/dist/js/**/**`).pipe(dest(`${JS_DEST}`));
 }
 
+/**
+ * Copy jQuery to dist directory.
+ *
+ * @return {File} jquery.min.js - The minified jQuery file from node_modules.
+ */
 function copyJquery() {
   return src(JQUERY_PATH).pipe(dest(JS_DEST));
 }
 
-// Check .jshintrc for lint rules
-function compileCommon() {
-  return src([`${PROJECT_JS_SRC}/common/**/*.js`])
-    .pipe(jshint())
-    .pipe(jshint.reporter()) // Dump results
+/**
+ * Bundle JavaScript into a single common.js file.
+ *
+ * @return {File} common.js - The bundled and uglified script.
+ */
+function compile() {
+  // Stream images is imported by itself in `content/images/_index.md`.
+  return src([`${PROJECT_JS_SRC}/*.js`, `!${PROJECT_JS_SRC}/stream-images.js`])
     .pipe(uglify())
     .pipe(concat("common.js"))
     .pipe(dest(JS_DEST));
 }
 
-function compile() {
-  // TODO: Move USWDS init to a vendor directory.
-  // That way we can ignore vendor instead of individual files.
-  return src([`${PROJECT_JS_SRC}/*.js`, `!${PROJECT_JS_SRC}/uswds-init.min.js`])
-    .pipe(jshint())
-    .pipe(jshint.reporter()) // Dump results
-    .pipe(uglify())
-    .pipe(dest(JS_DEST));
-}
-
-exports.compile = series(copyUswdsJs, copyJquery, compileCommon, compile);
+exports.copyUswdsJS = copyUswdsJS;
+exports.compile = series(copyUswdsJS, copyJquery, compile);
