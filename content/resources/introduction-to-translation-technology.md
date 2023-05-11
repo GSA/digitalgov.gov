@@ -51,40 +51,40 @@ With computer-aided technology, the translation is created by a human translator
 The table below highlights other key differences between the two approaches.
 
 <table class="usa-table usa-table--borderless">
-  <thead>
-    <tr>
-      <th scope="col">Compare</th>
-      <th scope="col">Computer-aided technology</th>
-      <th scope="col">Machine translation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Quality</th>
-      <td>High-quality translations.</td>
-      <td>Accurate translations for simple and routine text; may struggle with more complex or idiomatic language.</td>
-    </tr>
-    <tr>
-      <th scope="row">Cost and time</th>
-      <td>Expensive and time-consuming.</td>
-      <td>Low cost and quick; may require additional costs and time for post-editing to ensure quality and accuracy.</td>
-    </tr>
-    <tr>
-      <th scope="row">Personnel</th>
-      <td>Requires human translators who use translation software to assist in the translation process; provides a library and translation suggestions for reuse.</td>
-      <td>Mostly automated; doesn’t require human translators.</td>
-    </tr>
-    <tr>
-      <th scope="row">Customization</th>
-      <td>Customizable for specific industries, such as legal, medical, or technical translations; can incorporate specialized terminology, glossaries, and translation memories.</td>
-      <td>Little customization.</td>
-    </tr>
-    <tr>
-      <th scope="row">Examples</th>
-      <td>MateCat, SmartCat, Trados Studio, and WordFast, among others.</td>
-      <td>DeepL Translate and Google Translate, among others.</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th scope="col"> </th>
+<th scope="col">Computer-aided technology</th>
+<th scope="col">Machine translation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Quality</th>
+<td>High-quality translations.</td>
+<td>Accurate translations for simple and routine text; may struggle with more complex or idiomatic language.</td>
+</tr>
+<tr>
+<th scope="row">Cost and time</th>
+<td>Expensive and time-consuming.</td>
+<td>Low cost and quick; may require additional costs and time for post-editing to ensure quality and accuracy.</td>
+</tr>
+<tr>
+<th scope="row">Personnel</th>
+<td>Requires human translators who use translation software to assist in the translation process; provides a library and translation suggestions for reuse.</td>
+<td>Mostly automated; doesn’t require human translators.</td>
+</tr>
+<tr>
+<th scope="row">Customization</th>
+<td>Customizable for specific industries, such as legal, medical, or technical translations; can incorporate specialized terminology, glossaries, and translation memories.</td>
+<td>Little customization.</td>
+</tr>
+<tr>
+<th scope="row">Examples</th>
+<td>MateCat, SmartCat, Trados Studio, and WordFast, among others.</td>
+<td>DeepL Translate and Google Translate, among others.</td>
+</tr>
+</tbody>
 </table>
 
 ## What are the downsides of using translation technology?
@@ -95,7 +95,7 @@ Automated machine translation isn’t delivering 100% accuracy yet, but it is im
 
 Another downside with automated machine translations is that they can struggle with idiomatic expressions and nuanced language use — how humans actually write and speak. In turn, these issues can make the translation sound unnatural and awkward.
 
-But could artificial intelligence (AI) make machine translation more accurate? AI — where algorithms learn human behavior and language use through neural networks — is a promising field. It has the potential of making translations more accurate as it learns, but we are still far from 100% automation.
+But could artificial intelligence (AI) make machine translation more accurate? AI &mdash; where algorithms learn human behavior and language use through neural networks &mdash; is a promising field. It has the potential of making translations more accurate as it learns, but we are still far from 100% automation.
 
 Computer-aided technology is expensive and time-consuming now, but it can improve and lower costs as adoption grows.
 
@@ -105,12 +105,12 @@ Agencies should use translation technology to create accurate, findable content.
 
 According to the Department of Justice’s Limited English Proficiency Committee of the Title VI Interagency Working Group:
 
-{{< box >}}“If the entity utilizes machine translation software, the entity should have a human translator proofread all content containing vital information before posting it to ensure the accuracy of the translated information. Website content that is translated and checked by qualified human translators is more likely to be accurate and locatable by LEP users.”
+{{< box >}}“_If the entity utilizes machine translation software, the entity should have a human translator proofread all content containing vital information before posting it to ensure the accuracy of the translated information. Website content that is translated and checked by qualified human translators is more likely to be accurate and locatable by LEP users._”
 — [Improving Access to Public Websites and Digital Services for Limited English Proficient (LEP) Persons (PDF, 2.4 MB, 17 pages, December 2021)](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf#page=5){{< /box >}}
 
 Related, the Department of Health and Human Services (HHS) tells health programs covered by Section 1557 of the Affordable Care Act:
 
-{{< box >}}“[B]ecause written translation must be provided by a qualified translator, automated translation alone likely would not be sufficient. Machine translation, which is one type of automated translation technology, translates text by performing simple substitution of words using statistical techniques. Given differences across languages in syntax, figures of speech, and vocabulary, the simple substitution of words using statistical techniques may produce highly unreliable translations for certain languages and written content. A quality check performed by a qualified translator, such as reviewing the translation for accuracy and editing the translation if needed, would likely be necessary.
+{{< box >}}“_[B]ecause written translation must be provided by a qualified translator, automated translation alone likely would not be sufficient. Machine translation, which is one type of automated translation technology, translates text by performing simple substitution of words using statistical techniques. Given differences across languages in syntax, figures of speech, and vocabulary, the simple substitution of words using statistical techniques may produce highly unreliable translations for certain languages and written content. A quality check performed by a qualified translator, such as reviewing the translation for accuracy and editing the translation if needed, would likely be necessary._"
 — Question 42 in [Section 1557: Frequently Asked Questions](https://www.hhs.gov/civil-rights/for-individuals/section-1557/1557faqs/index.html#General%20Questions){{< /box >}}
 
 HHS encourages the health programs to understand the strengths and weaknesses of the technology and software programs that qualified translators use.
