@@ -24,10 +24,14 @@ function gulpWatch() {
 }
 
 // Define public tasks
+exports.copyUswdsJS = scripts.copyUswdsJS;
 exports.copyUswdsImages = styles.copyUswdsImages;
-exports.copyUswdsJs = styles.copyUswdsJs;
 exports.copyUswdsFonts = styles.copyUswdsFonts;
-exports.copyUswdsAssets = parallel(styles.copyUswdsImages, styles.copyUswdsJs, styles.copyUswdsFonts);
+exports.copyUswdsAssets = parallel(
+  styles.copyUswdsImages,
+  scripts.copyUswdsJS,
+  styles.copyUswdsFonts
+);
 exports.buildAssets = parallel(styles.buildSass, scripts.compile);
 exports.buildSass = styles.buildSass;
 exports.buildJS = scripts.compile;

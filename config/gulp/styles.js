@@ -50,9 +50,6 @@ const IMG_DEST = "./themes/digital.gov/static/uswds/img";
 // Fonts destination
 const FONTS_DEST = "./themes/digital.gov/static/uswds/fonts";
 
-// Javascript destination
-const JS_DEST = "./themes/digital.gov/static/dist";
-
 // Compiled CSS destination
 const CSS_DEST = "./themes/digital.gov/static/dist";
 
@@ -98,10 +95,6 @@ function copyUswdsFonts() {
 
 function copyUswdsImages() {
   return src(`${USWDS}/uswds/dist/img/**/**`).pipe(dest(`${IMG_DEST}`));
-}
-
-function copyUswdsJs() {
-  return src(`${USWDS}/uswds/dist/js/**/**`).pipe(dest(`${JS_DEST}`));
 }
 
 function buildSass() {
@@ -160,12 +153,10 @@ exports.init = series(
   copyUswdsSetup,
   copyUswdsFonts,
   copyUswdsImages,
-  copyUswdsJs,
   buildSass
 );
 
 exports.copyUswdsFonts = copyUswdsFonts;
 exports.copyUswdsImages = copyUswdsImages;
-exports.copyUswdsJs = copyUswdsJs;
 
 exports.buildSass = buildSass;
