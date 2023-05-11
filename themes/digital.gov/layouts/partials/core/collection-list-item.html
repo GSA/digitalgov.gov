@@ -7,8 +7,8 @@
     {{ $path = .Path }}
   {{ end }}
   <li data-edit-this="{{- $path -}}">
+    {{- partial "partials/core/collection-icon" (dict "item" . "src" $src "href" $href) -}}
 
-    {{- partial "partials/core/collection-icon" (dict "item" . "src" $src "href" $href)  -}} 
 
     <div class="copy">
       <p>

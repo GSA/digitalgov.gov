@@ -1,6 +1,4 @@
-{{/* 
-  
-  1. 41,53 should be used once, same code
+{{/* 1. 41,53 should be used once, same code
   2. $src on 38 outputs "/logos/digitalgov-icon.png" "/logos/uswds-icon.png"
   3. $src on 66 outputs "https://www.google.com/s2/favicons?domain=https://www.section508.gov/manage/laws-and-policies/far-update-comparison/" to fetch icon
   4. write a check that sets via google or hosted logo for $src
@@ -18,9 +16,7 @@
 
   $src
   $href
-
 */}}
-
 
 {{/* Gets the full array of items passed into the partial */}}
 {{ $list := .list }}
@@ -35,12 +31,13 @@
       <h2>{{- .heading -}}</h2>
     {{ end }}
 
+
     <ul>
       {{ range $list }}
 
         {{/* Is the link external, look up in sources for a logo, provide a sample value expected "omb" */}}
         {{ if .Params.source }}
-        {{ $source := .Site.GetPage (print "source_" .Params.source ) }}
+          {{ $source := .Site.GetPage (print "source_" .Params.source ) }}
           {{ if $source.Params.logo }}
             {{ $src = (printf "/logos/%s%s" $source.Params.logo "-icon.png") }}
           {{ end }}
@@ -51,7 +48,7 @@
           {{ $src = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
         {{ end }}
 
-        {{/* Use digital.gov logo */}} 
+        {{/* Use digital.gov logo */}}
         {{ if eq .Params.source_url .Params.source }}
           {{ $src = (print "/img/digit-50.png") }}
           {{ $href = (print .Permalink "?dg") }}
@@ -61,7 +58,5 @@
 
       {{ end }}
     </ul>
-
-    
   </div>
 {{- end -}}
