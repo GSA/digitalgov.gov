@@ -21,8 +21,10 @@ Executive Order 13166, [Improving Access to Services for Persons with Limited En
 
 ## Related Resources
 
-- [Federal Agency Limited English Proficiency (LEP) Guidance](http://www.justice.gov/crt/lep/guidance/guidance_index.html)
+- [Improving Access to Services for People with Limited English Proficiency (EO 13166)](https://digital.gov/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/)
 - [Commonly Asked Questions and Answers Regarding Executive Order 13166](https://www.lep.gov/faq/faqs-executive-order-13166/commonly-asked-questions-and-answers-regarding-executive-order-13166)
+- [Federal Agency Limited English Proficiency (LEP) Guidance](http://www.justice.gov/crt/lep/guidance/guidance_index.html)
+
 
 ---
 
