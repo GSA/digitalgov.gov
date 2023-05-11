@@ -49,11 +49,8 @@ jobs:
           name: Lint JSON
           command: npm run lint:json
       - run:
-          name: Lint Markdown
-          command: npm run lint:markdown
-      - run:
-          name: Format Markdown
-          command: npm run lint:markdown:format
+          name: Lint & fix Markdown
+          command: npm run lint:markdown:fix && npm run lint:markdown
       - run:
           name: Lint Styles
           command: npm run lint:styles
