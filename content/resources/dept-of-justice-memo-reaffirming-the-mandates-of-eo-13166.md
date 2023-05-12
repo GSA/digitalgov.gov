@@ -1,7 +1,7 @@
 ---
 slug: dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166
 date: 2015-12-01 11:30:45 -0400
-title: Department of Justice Memo Reaffirming the Mandates of EO 13166
+title: Department of Justice 2022 Memo Reaffirming the Mandates of EO 13166
 summary: "Executive Order 13166 was issued in August of 2000 and this memorandum reaffirms its mandate."
 topics:
   - multilingual
