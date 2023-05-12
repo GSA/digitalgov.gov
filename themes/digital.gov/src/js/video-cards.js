@@ -1,7 +1,10 @@
+// Disabling ESLint on this doc because it looks like a 3rd party script.
+/* eslint-disable */
+
 /* Light YouTube Embeds by @labnol */
 /* Web: http://labnol.org/?p=27941 */
 
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", () => {
   let div;
   let n;
   const v = document.getElementsByClassName("youtube-player");
