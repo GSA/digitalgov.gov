@@ -11,10 +11,11 @@ const JS_DEST = "./themes/digital.gov/static/dist/js";
 /**
  * Copy USWDS scripts to dist directory.
  *
- * @return {File} uswds - The minified jQuery file from node_modules.
+ * @return {File} uswds - The distributed USWDS JS files from node_modules.
+ * Includes uswds, uswds-init, and map files.
  */
 function copyUswdsJS() {
-  return src(`${USWDS}/uswds/dist/js/**/**`).pipe(dest(`${JS_DEST}`));
+  return src(`${USWDS}/js/**/*`).pipe(dest(JS_DEST));
 }
 
 /**
@@ -33,10 +34,15 @@ function copyJquery() {
  */
 function compile() {
   // Stream images is imported by itself in `content/images/_index.md`.
-  return src([`${PROJECT_JS_SRC}/*.js`, `!${PROJECT_JS_SRC}/stream-images.js`])
+  return src(
+    [`${PROJECT_JS_SRC}/*.js`, `!${PROJECT_JS_SRC}/stream-images.js`],
+    {
+      sourcemaps: true,
+    }
+  )
     .pipe(uglify())
     .pipe(concat("common.js"))
-    .pipe(dest(JS_DEST));
+    .pipe(dest(JS_DEST, { sourcemaps: true }));
 }
 
 exports.copyUswdsJS = copyUswdsJS;
