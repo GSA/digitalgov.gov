@@ -19,14 +19,16 @@ primary_image: 10x-areas-of-focus
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 ## What are pronouns?
 
 In grammar, pronouns are the words we use to refer to ourselves or other people: I, you, we, etc. In some cases, these pronouns can refer to a person’s gender: he, her, them, etc. Just like someone’s name, these pronouns are personal and important to us because they are part of our identity. They are also the words we use to connect with and call on each other:
 
-* Do they need help?
-* I love you!
-* She is his legal guardian.
+* Do **they** need help?
+* **I** love **you**!
+* **She** is **his** legal guardian.
 
 At GSA, we often share our [pronouns](https://pronouns.org/) to include and respect the diverse identities of our colleagues.
 
@@ -51,19 +53,53 @@ Using someone’s pronouns is simply a respectful choice that contributes to a h
 
 Now that [more people are working from home](https://www.census.gov/newsroom/press-releases/2022/people-working-from-home.html), there are more opportunities for people in the federal workforce to display their names.
 
-T﻿ABLE
+{{< do-dont-table caption="When participating in the community, community members must follow the ground rules for discussions." >}}
+  {{< row >}}
+    {{< do-row >}} Share your pronouns. Even if you are not in the LGBTQI+ community, you can choose to share your pronouns when introducing yourself to a new person, when speaking on a group call, etc. This helps normalize the act of sharing pronouns in all settings and prevent “outing” transgender or gender nonconforming people. (Outing someone is when their identity is exposed without their consent.) {{< /do-row >}}
+    {{< dont-row >}} Don’t take offense if someone shares their pronouns or asks about your pronouns. {{< /dont-row >}}
+  {{< /row >}}
+
+  {{< row >}}
+    {{< do-row >}} Add your own pronouns, if you’re comfortable sharing them, in your email signature or other places your name is displayed. {{< /do-row >}}
+    {{< dont-row >}} Don’t share your pronouns if you are not comfortable or ready. {{< /dont-row >}}
+  {{< /row >}}
+
+  {{< row >}}
+    {{< do-row >}} If you’re unsure of someone’s pronouns, use their name or just ask. {{< /do-row >}}
+    {{< dont-row >}} Don’t assume someone’s pronouns based on their name or physical appearance. {{< /dont-row >}}
+  {{< /row >}}
+
+  {{< row >}}
+    {{< do-row >}} Make a real effort to use someone’s pronouns, and encourage others to do the same. {{< /do-row >}}
+    {{< dont-row >}} Don’t ask someone invasive, personal questions about their identity or pronouns. {{< /dont-row >}}
+  {{< /row >}}
+
+  {{< row >}}
+    {{< do-row >}} If you make a mistake, simply apologize, correct your mistake, and move on. {{< /do-row >}}
+    {{< dont-row >}} Don’t intentionally or repeatedly misuse someone’s pronouns or name. {{< /dont-row >}}
+  {{< /row >}}
+
+  {{< row >}}
+    {{< do-row >}} Educate yourself if you have questions. There are [many resources available](https://docs.google.com/document/d/1YNSnfGjeE-QVkGzsdV-3swoQSNMGnpMEOF70Fq5LULk/edit#related-resources) to help you learn about pronouns. {{< /do-row >}}
+    {{< dont-row >}} Don’t ask your coworkers to justify or explain their own or someone else’s identity. {{< /dont-row >}}
+  {{< /row >}}
+
+  {{< row >}}
+    {{< do-row >}} Use the [USWDS patterns for gender identity and sex](https://designsystem.digital.gov/patterns/create-a-user-profile/gender-identity-and-sex/) when building websites and digital services. {{< /do-row >}}
+    {{< dont-row >}} Don’t rely on outdated form fields that may inaccurately record someone’s gender identity or sex. {{< /dont-row >}}
+  {{< /row >}}
+{{< /do-dont-table >}}
+
 
 You can also share this Digital.gov resource in your email signature. After your name and pronouns, include a (what’s this?) with a link to this resource page. See some templates below.
 
-Evan Montero, he/him/his ([what’s this?](http://digital.gov))\
-Web Manager\
-Agency\
-P: 202-555-3456
+<pre>Evan Montero, he/him/his ([what’s this?](http://digital.gov))
+Web Manager
+Agency
+P: 202-555-3456</pre>
 
 ## Related resources
 
 * [Pronouns: A Guide from GLSEN](https://www.glsen.org/activity/pronouns-guide-glsen)
-* ﻿[Pronouns.org: Resources on personal pronouns](https://pronouns.org/)
+* [Pronouns.org: Resources on personal pronouns](https://pronouns.org/)
 * [Gender pronouns: NYC.gov (PDF, 355 KB, 3 pages)](https://www1.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/Gender%20Pronouns%20final%20draft%2010.23.17.pdf)
-
-e﻿nd
