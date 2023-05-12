@@ -7,7 +7,7 @@ const subscribeButton = document.querySelector(".subscribe-button");
 if (subscribeButton) {
   const signupForm = document.querySelector("#newsletter-signup");
 
-  subscribeButton.addEventListener("click", function () {
+  subscribeButton.addEventListener("click", () => {
     signupForm.scrollIntoView({ behavior: "smooth", block: "start" });
     signupForm.focus();
   });
