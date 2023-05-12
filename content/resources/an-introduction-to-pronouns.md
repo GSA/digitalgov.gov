@@ -10,7 +10,7 @@ topics:
   - presentations
 # See all authors at https://digital.gov/authors
 authors:
-  - alex-glade
+  - alex-schulte
   - bonnie-cameron
 slug: an-introduction-to-pronouns
 primary_image: 10x-areas-of-focus
