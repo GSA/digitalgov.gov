@@ -7,21 +7,25 @@
     {{ $path = .Path }}
   {{ end }}
   <li class="usa-collection__item" data-edit-this="{{- $path -}}">
-
     {{- partial "partials/core/collection-icon" (dict "item" . "src" $src "href" $href) -}}
+
 
     <div class="usa-collection__body">
       <h3 class="usa-collection__heading">
-        <a class="usa-link" href="{{- $href -}}" title="{{- .Title | markdownify -}}">
+        <a
+          class="usa-link"
+          href="{{- $href -}}"
+          title="{{- .Title | markdownify -}}"
+        >
           {{- .Title | markdownify -}}
         </a>
       </h3>
       <p class="usa-collection__description">
-      {{- if .Params.summary -}}
-        {{- .Params.summary | markdownify | truncate 140 -}}
-      {{- else -}}
-        {{- .Params.deck | markdownify -}}
-      {{- end -}}
+        {{- if .Params.summary -}}
+          {{- .Params.summary | markdownify | truncate 140 -}}
+        {{- else -}}
+          {{- .Params.deck | markdownify -}}
+        {{- end -}}
       </p>
     </div>
   </li>

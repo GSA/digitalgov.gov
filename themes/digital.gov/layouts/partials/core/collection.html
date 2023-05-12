@@ -1,15 +1,11 @@
-{{/* 
-  Gets the full array of items passed into the partial 
-  
+{{/* Gets the full array of items passed into the partial
+
   @list list of elements, can be single?
   @href set true to display images, else hide images
-  @src 
+  @src
   @link set to false, make h2 a link to something
   @limit set a limit to the number of items displayed
-  
-
-  
-  */}}
+*/}}
 {{ $list := .list }}
 {{ $heading := .heading }}
 {{ $href := "" }}
@@ -24,12 +20,9 @@
       <h2>{{- $heading -}}</h2>
     {{ end }}
 
+
     <ul class="usa-collection">
       {{ range $list }}
-
-        {{/*  if .Params.source_url
-          getImage .
-        end  */}}
 
         {{/* .source_url is a url for looking up the logo */}}
         {{ if .Params.source_url }}
@@ -54,11 +47,5 @@
 
       {{ end }}
     </ul>
-
   </div>
 {{- end -}}
-
-
-{{/*  {{ function getImg }}
-  put template logic into here...
-{{ end }}  */}}
