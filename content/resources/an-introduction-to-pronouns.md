@@ -93,10 +93,10 @@ Now that [more people are working from home](https://www.census.gov/newsroom/pre
 
 You can also share this Digital.gov resource in your email signature. After your name and pronouns, include a (what’s this?) with a link to this resource page. See some templates below.
 
-<pre>Evan Montero, he/him/his ([what’s this?](http://digital.gov))
-Web Manager
-Agency
-P: 202-555-3456</pre>
+Evan Montero, he/him/his ([what’s this?](http://digital.gov))< /br>
+Web Manager< /br>
+Agency< /br>
+P: 202-555-3456
 
 ## Related resources
 
