@@ -1,25 +1,27 @@
+/* eslint-disable no-undef */
 jQuery(function ($) {
   // Gets all the image sizes as paths
-  function get_all_image_sizes(uid, format, width, height) {
+  // eslint-disable-next-line no-unused-vars
+  function getAllImageSizes(uid, format, width, height) {
     const sizes = ["200", "400", "600", "800", "1200", "2400"]; // all image sizes
     const imgs = [];
-    $.each(sizes, function (key, size) {
+    $.each(sizes, (key, size) => {
       if (width > size) {
         // big-bend_w200.jpg
         const img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}.${format}`;
         // big-bend_w200bw.jpg
-        const bw_img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}bw.${format}`;
-        imgs.push(img, bw_img);
+        const bwImg = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}bw.${format}`;
+        imgs.push(img, bwImg);
       }
     });
     return imgs;
   }
 
   // The all-images JSON file is now included via the "footer--custom-js" partial
-  // var all_images_json = '/images/v1/json/';
+  // var all_imagesJson = '/images/v1/json/';
 
   // Gets all the image from the JSON file and appends them to #all-images div
-  $.getJSON(all_images_json, function (data) {
+  $.getJSON(all_imagesJson, function (data) {
     $.each(data, function (key, img) {
       const { width } = img;
       const { height } = img;
@@ -29,12 +31,15 @@ jQuery(function ($) {
       const { caption } = img;
       const { alt } = img;
       const { format } = img;
-      const all_sizes = get_all_image_sizes(uid, format, width, height);
+      // eslint-disable-next-line no-unused-vars
+      const allSizes = getAllImageSizes(uid, format, width, height);
 
       // big-bend.jpg
+      // eslint-disable-next-line no-unused-vars
       const filename = `${uid}.${format}`;
       // big-bend_jpg.jpg
-      const proxy_img = `${root_url}/img/proxy/${uid}_${format}.${format}`;
+      // eslint-disable-next-line no-unused-vars, camelcase
+      const proxyImg = `${root_url}/img/proxy/${uid}_${format}.${format}`;
 
       // If the image is greater than 400px
       let thumb;
@@ -48,7 +53,7 @@ jQuery(function ($) {
         thumb = `https://s3.amazonaws.com/digitalgov/${uid}.${format}`;
       }
 
-      const img_asset = `<div class="card-img">
+      const imgAsset = `<div class="card-img">
         <div class="media">
           <img src="${thumb}">
           <p>${caption}</p>
@@ -74,7 +79,7 @@ jQuery(function ($) {
       </div>`;
 
       // Appends img_asset to DIV
-      $("#stream-images").append(img_asset);
+      $("#stream-images").append(imgAsset);
     });
   });
 });
