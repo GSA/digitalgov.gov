@@ -65,5 +65,3 @@ We are a group of translators, editors, content designers, digital product manag
 - [Executive Order 13166](https://digital.gov/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/#:~:text=All%20Resources-,Improving%20Access%20to%20Services%20for,Limited%20English%20Proficiency%20(EO%2013166)&text=The%20Executive%20Order%20also%20requires,their%20LEP%20applicants%20and%20beneficiaries.)
 - Department of Justice Memorandum for Executive Order 13166, [Strengthening the Federal Government's Commitment to Language Access (PDF, 289 KB, 2 pages)](https://www.justice.gov/file/1553196/download) - Attorney General Merrick B. Garland, November 21, 2022
 - [Commonly Asked Questions and Answers Regarding Executive Order 13166](https://www.lep.gov/faq/faqs-executive-order-13166/commonly-asked-questions-and-answers-regarding-executive-order-13166)
-
-
