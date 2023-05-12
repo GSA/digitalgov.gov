@@ -2,7 +2,7 @@
 date: 2022-05-23 10:22:00 -0500
 title: Embedding Equity in Civic Design to Transform Customer Experience
 deck:
-summary:
+summary: This case study describes how two civic designers at different agencies embed equity in civic design to transform federal customer experience.
 # See all topics at https://digital.gov/topics
 topics:
   - cx
@@ -13,8 +13,10 @@ topics:
 authors:
   - lashanda-hodge
   - aaron-stienstra
+
 slug: embedding-equity-in-civic-design-to-transform-customer-experience
 primary_image: "barriers-illustration-interaction-institute-for-social-change-by-angus-maguire-lg"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
