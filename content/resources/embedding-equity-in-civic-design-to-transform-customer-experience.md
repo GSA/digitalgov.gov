@@ -8,6 +8,7 @@ topics:
   - cx
   - design
   - strategy
+  - diversity-equity-inclusion-accessibility-deia
 # See all authors at https://digital.gov/authors
 authors:
   - lashanda-hodge
@@ -19,6 +20,7 @@ primary_image: "barriers-illustration-interaction-institute-for-social-change-by
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
 
 This article isn’t about a single product or digital solution to improve customer experience (CX), but instead how we as designers in the federal government are leveraging design methods to help build a foundation for improved customer experiences for all people. Equity and customer experience are inextricably linked; and in government, there is no single “target customer.”
