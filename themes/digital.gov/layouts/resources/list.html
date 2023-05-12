@@ -45,6 +45,7 @@
               {{/* Pass $resourcesfeatured to the collection template */}}
               {{- partial "core/collection.html" (dict "list" $resourcesfeatured "heading" "Popular Guides and Resources") -}}
 
+
             </div>
           </div>
         </div>
@@ -71,7 +72,7 @@
 
                   {{/* If there are resources... */}}
                   {{- if $resources_by_topic -}}
-                    <div class="topic-section">
+                    <div class="">
                       <div class="grid-row">
                         <div class="grid-col-12">
                           <h3 id="{{- path.Base .RelPermalink -}}">

@@ -1,51 +1,47 @@
-{{/* 1. 41,53 should be used once, same code
-  2. $src on 38 outputs "/logos/digitalgov-icon.png" "/logos/uswds-icon.png"
-  3. $src on 66 outputs "https://www.google.com/s2/favicons?domain=https://www.section508.gov/manage/laws-and-policies/far-update-comparison/" to fetch icon
-  4. write a check that sets via google or hosted logo for $src
-  5. wrote more like factory pattern versus
-  6. 35 prints "Page(/sources/source_digitalgov.md)"
-  7. content/sources/source_*
-  8. logo params ? use it : google lookup
-  9. move out to separate templates
-  if an external link, display external link logo
-  else use digital.gov logo
+{{/* 
+  Gets the full array of items passed into the partial 
+  
+  @list list of elements, can be single?
+  @href set true to display images, else hide images
+  @src 
+  @link set to false, make h2 a link to something
+  @limit set a limit to the number of items displayed
+  
 
-  if source, use source to display logo
-  if source_url, use google lookup for logo
-  else use dg logo
-
-  $src
-  $href
-*/}}
-
-{{/* Gets the full array of items passed into the partial */}}
+  
+  */}}
 {{ $list := .list }}
-{{ $href := "href value" }}
-{{ $src := "src value" }}
+{{ $heading := .heading }}
+{{ $href := "" }}
+{{ $src := "" }}
 
 {{/* If there are any items in the array at all... */}}
 {{ if $list }}
-  <div class="collection">
+  <div class="">
     {{/* Checks if there a heading is set in the partial */}}
-    {{ if .heading }}
-      <h2>{{- .heading -}}</h2>
+
+    {{ if $heading }}
+      <h2>{{- $heading -}}</h2>
     {{ end }}
 
-
-    <ul>
+    <ul class="usa-collection">
       {{ range $list }}
 
-        {{/* Is the link external, look up in sources for a logo, provide a sample value expected "omb" */}}
+        {{/*  if .Params.source_url
+          getImage .
+        end  */}}
+
+        {{/* .source_url is a url for looking up the logo */}}
+        {{ if .Params.source_url }}
+          {{ $src = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
+        {{ end }}
+
+        {{/* Is the link external, look up in sources for a logo, provide a sample value expected "uswds" => "/logos/uswds-icon.png" */}}
         {{ if .Params.source }}
           {{ $source := .Site.GetPage (print "source_" .Params.source ) }}
           {{ if $source.Params.logo }}
             {{ $src = (printf "/logos/%s%s" $source.Params.logo "-icon.png") }}
           {{ end }}
-        {{ end }}
-
-        {{/* .source_url is a url for looking up the logo */}}
-        {{ if .Params.source_url }}
-          {{ $src = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
         {{ end }}
 
         {{/* Use digital.gov logo */}}
@@ -58,5 +54,11 @@
 
       {{ end }}
     </ul>
+
   </div>
 {{- end -}}
+
+
+{{/*  {{ function getImg }}
+  put template logic into here...
+{{ end }}  */}}
