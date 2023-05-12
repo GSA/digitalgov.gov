@@ -1,6 +1,5 @@
 /* eslint-disable no-undef */
-jQuery(function ($) {
-  // Gets all the image sizes as paths
+jQuery(($) => {
   // eslint-disable-next-line no-unused-vars
   function getAllImageSizes(uid, format, width, height) {
     const sizes = ["200", "400", "600", "800", "1200", "2400"]; // all image sizes
@@ -21,8 +20,8 @@ jQuery(function ($) {
   // var all_imagesJson = '/images/v1/json/';
 
   // Gets all the image from the JSON file and appends them to #all-images div
-  $.getJSON(all_imagesJson, function (data) {
-    $.each(data, function (key, img) {
+  $.getJSON(all_imagesJson, (data) => {
+    $.each(data, (key, img) => {
       const { width } = img;
       const { height } = img;
       const { date } = img;
