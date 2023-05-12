@@ -13,7 +13,8 @@ authors:
   - alex-schulte
   - bonnie-cameron
 slug: an-introduction-to-pronouns
-primary_image: 10x-areas-of-focus
+primary_image: "people-hold-pronoun-signs-ekaterina-tveitan-getty-images-1395383185-comp"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
