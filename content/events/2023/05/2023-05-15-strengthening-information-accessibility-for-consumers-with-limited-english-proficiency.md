@@ -11,7 +11,7 @@ event_organizer: Digital.gov
 cop_events:
   - multilingual
   - communicators
-registration_url: "https://gsa.zoomgov.com/webinar/register/WN_aPfczIYrQ_KwmKQ4ZTYDoQ "
+registration_url: "https://gsa.zoomgov.com/webinar/register/WN_aPfczIYrQ_KwmKQ4ZTYDoQ"
 date: 2023-05-24 14:00:00 -0500
 end_date: 2023-05-24 15:00:00 -0500
 # See all topics at https://digital.gov/topics
