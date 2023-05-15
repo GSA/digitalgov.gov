@@ -1,11 +1,8 @@
 ---
-title: Strengthening information accessibility for consumers with limited
-  English proficiency
+title: Strengthening information accessibility for consumers with limited English proficiency
 deck: ""
-kicker: MULTILINGUAL AND COMMUNICATORS
-summary: Tune in to learn what the CFPB is doing to ensure financial products
-  and services are accessible to all consumers, including those with limited
-  English proficiency.
+kicker: ""
+summary: Tune in to learn what the CFPB is doing to ensure financial products and services are accessible to all consumers, including those with limited English proficiency.
 host: Multilingual Community of Practice and Communicators Community of Practice
 event_organizer: Digital.gov
 cop_events:
@@ -21,10 +18,14 @@ topics:
   - user-experience
   - cx
   - plain-language
+
 slug: strengthening-information-accessibility-for-consumers-with-limited-english-proficiency
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
+
 Join us for a webinar with the Consumer Financial Protection Bureau (CFPB) team to discuss the new work they are doing to increase language access on consumerfinance.gov.
 
 Experiencing a financial challenge can be daunting, and it can be even more overwhelming when critical financial information is not in your primary language. Financial issues can have a significant impact on people's lives, and it is crucial to have access to information that can help them navigate these challenges effectively.
@@ -33,17 +34,17 @@ We will hear from the CFPB team about their work to ensure meaningful access to 
 
 This event is best suited for all levels of multilingual practitioners. Those who work in related fields such as plain language, communications, customer experience, user experience and web management will also benefit from attending.
 
-**Speakers**
+## Speakers
 
 * **Carmen Cruz** - Financial Education Program Analyst, CFPB
 * **Stephanie Osan** - Product Owner and Designer, CFPB
 
-**Moderators**
+## Moderators
 
 * **Fedora Braverman** - Multilingual Community Lead
 * **Laura Godfrey** - Multilingual Community Lead
 
-**Resources**
+## Resources
 
 * [Strengthening information accessibility for consumers with limited English proficiency](https://www.consumerfinance.gov/about-us/blog/strengthening-information-accessibility-for-consumers-limited-english-proficiency/)
 * [LEP.gov](https://www.lep.gov/)
