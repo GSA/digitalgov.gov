@@ -18,7 +18,7 @@ authors:
   - andrew-nielson
 
 slug: a-digital-accessibility-catalyst-for-your-next-policy-refresh
-primary_image: 
+primary_image: "melpomenem-istock-getty-images-1134247984"
 
 # Controls how this page appears across the site
 # 0 -- hidden
