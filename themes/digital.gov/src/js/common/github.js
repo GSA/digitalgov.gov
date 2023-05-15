@@ -1,4 +1,5 @@
 jQuery(function ($) {
+  const editFile = `.edit-file`;
   // Builds the Edit link on posts/pages/events to point to the GitHub file
   function build_edit_file_link() {
     // editpathURL is set the <head>
@@ -7,7 +8,7 @@ jQuery(function ($) {
       var edit = `<a target='_blank' class='edit-file-link' href='${editpathURL}' title='Edit in GitHub'>Edit</a>`;
 
       // Insert the .edit-file-link html into the .edit-file div and remove the .hidden class
-      $("#page-data .edit-file").html(edit).removeClass("hidden");
+      $(`#page-data ${editFile}`).html(edit).removeClass("hidden");
     }
   }
   build_edit_file_link();
@@ -51,7 +52,7 @@ jQuery(function ($) {
       </a></p>`,
     ];
 
-    $(".edit-file").each(function (i, items_list) {
+    $(`${editFile}`).each(function (i, items_list) {
       $(this).append(last_commit.join("\n"));
     });
   }

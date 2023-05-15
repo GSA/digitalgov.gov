@@ -20,12 +20,11 @@
     @include u-text("medium");
     @include u-text("no-underline");
     @include u-font("sans", "2xs");
+    z-index: 2;
 
     @include at-media("tablet") {
       @include u-font("sans", "2xs");
     }
-
-    z-index: 2;
 
     img {
       @include u-margin-right("05");

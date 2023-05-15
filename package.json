@@ -14,10 +14,10 @@
     "start": "npm-run-all --parallel local-build hugo workflow",
     "prettier:templates": "npx prettier -w ./themes/**/*.html",
     "prettier:styles": "npx prettier -w ./themes/**/*.scss",
-    "test:styles": "npx prettier -c ./themes/**/*.scss",
-    "test:templates": "npx prettier -c ./themes/**/*.html",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "npx pa11y-ci --config .pa11yci",
+    "test:styles": "npx prettier -c ./themes/**/*.scss",
+    "test:templates": "npx prettier -c ./themes/**/*.html",
     "workflow": "npx netlify-cms-proxy-server"
   },
   "directories": {
