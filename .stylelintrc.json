@@ -1,3 +1,6 @@
 {
-  "extends": ["@18f/identity-stylelint-config"]
+  "extends": ["@18f/identity-stylelint-config"],
+  "rules": { 
+    "order/properties-alphabetical-order": true
+  }
 }
