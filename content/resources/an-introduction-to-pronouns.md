@@ -81,7 +81,7 @@ Now that [more people are working from home](https://www.census.gov/newsroom/pre
   {{< /row >}}
 
   {{< row >}}
-    {{< do-row >}} Educate yourself if you have questions. There are [many resources available](https://docs.google.com/document/d/1YNSnfGjeE-QVkGzsdV-3swoQSNMGnpMEOF70Fq5LULk/edit#related-resources) to help you learn about pronouns. {{< /do-row >}}
+    {{< do-row >}} Educate yourself if you have questions. There are [many resources available](https://digital.gov/resources/an-introduction-to-pronouns#related-resources) to help you learn about pronouns. {{< /do-row >}}
     {{< dont-row >}} Don’t ask your coworkers to justify or explain their own or someone else’s identity. {{< /dont-row >}}
   {{< /row >}}
 
