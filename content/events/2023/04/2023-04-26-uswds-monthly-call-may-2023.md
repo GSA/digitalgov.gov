@@ -1,9 +1,8 @@
 ---
 title: USWDS Monthly Call - May 2023
 deck: Real-world accessibility
-kicker: USWDS
-summary: Join us as we observe Global Accessibility Awareness Day and talk about
-  the real-world experience of blind users on the web.
+kicker: Accessibility
+summary: Join us as we observe Global Accessibility Awareness Day and talk about the real-world experience of blind users on the web.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 cop_events: ""
