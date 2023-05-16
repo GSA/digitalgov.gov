@@ -1,17 +1,22 @@
 ---
 title: Strengthening information accessibility for consumers with limited English proficiency
 deck: ""
-kicker: MULTILINGUAL AND COMMUNICATORS
+kicker: ""
 summary: Tune in to learn what the CFPB is doing to ensure financial products and services are accessible to all consumers, including those with limited English proficiency.
+
 host: Multilingual Community of Practice and Communicators Community of Practice
 event_organizer: Digital.gov
+
 cop_events:
   - multilingual
   - communicators
+
 registration_url: "https://gsa.zoomgov.com/webinar/register/WN_aPfczIYrQ_KwmKQ4ZTYDoQ"
 captions: https://www.streamtext.net/player?event=BIS-GSA-5351062
+
 date: 2023-05-24 14:00:00 -0500
 end_date: 2023-05-24 15:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
@@ -24,7 +29,8 @@ slug: strengthening-information-accessibility-for-consumers-with-limited-english
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: 2023-05-24-strengthening-information-accessibility-title-card
+
+primary_image: "2023-05-24-strengthening-information-accessibility-title-card"
 
 ---
 
