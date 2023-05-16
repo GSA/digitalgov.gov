@@ -6,9 +6,9 @@
     "c-aside";
 
   @include at-media("tablet") {
+    column-gap: units("205"); // Gives border consistent spacing on both sides
     grid-template-areas: "c-main c-aside";
     grid-template-columns: 2fr 1fr;
-    column-gap: units("205"); // Gives border consistent spacing on both sides
   }
 
   &__main {
@@ -92,13 +92,13 @@
 
     font-weight: 600;
 
+    width: 80%;
+
     @include u-font("sans", "sm");
     @include u-border(0); // reset inherited styles from card-event
     @include u-border-top("2px", "gray-cool-50", "solid");
     @include u-radius("sm");
     @include u-margin-x("auto");
-
-    width: 80%;
 
     &--mobile {
       @include u-display("block");
@@ -131,9 +131,9 @@
       .card-event__datetime-month,
       .card-event__datetime-day {
         @include u-font("sans", "sm");
+        font-size: 1rem;
 
         font-weight: 400;
-        font-size: 1rem;
         text-transform: capitalize;
       }
     }
@@ -210,9 +210,9 @@
 
     @include at-media("tablet") {
       @include u-display("block");
+      margin-left: auto;
 
       margin-right: auto;
-      margin-left: auto;
       width: 80%;
     }
   }
@@ -273,9 +273,9 @@
   .card-event__datetime-month,
   .card-event__datetime-day {
     @include at-media-max("tablet") {
-      text-transform: capitalize;
-      font-weight: 400;
       font-size: 1rem;
+      font-weight: 400;
+      text-transform: capitalize;
     }
   }
 

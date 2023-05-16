@@ -25,6 +25,8 @@
       a {
         @include u-overflow("auto");
 
+        transition: background-color 0.5s, color 0.5s;
+
         white-space: nowrap;
 
         @include u-padding-y(1);
@@ -43,13 +45,11 @@
         @include u-radius("sm");
         @include u-display("block");
 
-        transition: background-color 0.5s, color 0.5s;
-
         span {
           @include u-float("right");
+          margin-right: 10px;
 
           transition: margin 0.4s;
-          margin-right: 10px;
 
           @include u-text("gray-1");
           @include u-display("none");

@@ -9,8 +9,8 @@
   @include u-bg("white");
 
   display: grid;
-  transition: background-color 0.2s;
   gap: units("105"); // Vertical spacing on mobile and horizontal on desktop
+  transition: background-color 0.2s;
 
   @include at-media("tablet") {
     @include u-margin-bottom(1);

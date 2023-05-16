@@ -2,10 +2,10 @@
 
 .paper {
   @include u-bg("white");
+  position: relative;
 
   transition: margin 0.2s;
   z-index: 5;
-  position: relative;
 }
 
 body > .paper.testing {

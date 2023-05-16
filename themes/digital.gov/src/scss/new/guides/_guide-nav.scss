@@ -11,7 +11,14 @@
     @include u-margin-bottom(3);
     @include u-font("sans", "xs");
 
+    // Hides any nested ul that is not part of the current tree
+    ul {
+      @include u-display("none");
+    }
+
     li {
+      @include u-text("medium");
+
       a {
         @include u-padding-y(1);
         @include u-text("black");
@@ -25,6 +32,18 @@
         &:hover {
           @include u-text("underline");
         }
+
+        .arrow-right {
+          @include u-margin-left(1);
+          @include u-width("105");
+          @include u-height(2);
+          @include u-display("inline-block");
+
+          background-image: url("../uswds/img/angle-arrow-right-black.svg");
+          background-position: center bottom;
+          background-repeat: no-repeat;
+          background-size: 0.49rem;
+        }
       }
 
       .usa-current {
@@ -35,13 +54,31 @@
           @include u-text("white");
           @include u-bg("primary-dark");
         }
-      }
-    }
 
-    // Hides any nested ul that is not part of the current tree
-    li {
-      ul {
-        @include u-display("none");
+        .arrow-right {
+          background-image: url("../uswds/img/angle-arrow-right-white.svg");
+        }
+      }
+
+      // Adding arrows to any li that has child elements.
+      li {
+        @include u-text("normal");
+        @include u-font("sans", "xs");
+
+        a {
+          .arrow-right {
+            @include u-margin-left("05");
+
+            background-size: 0.42rem;
+          }
+        }
+
+        li {
+          @include u-font("sans", "2xs");
+          li {
+            @include u-font("sans", "3xs");
+          }
+        }
       }
     }
 
@@ -49,7 +86,6 @@
     li.current {
       @include u-position("relative");
 
-      // @include u-border-top('1px', 'base-light', 'solid');
       & > a {
         @include u-text("semibold");
 
@@ -80,53 +116,6 @@
 
       ul {
         @include u-display("block");
-      }
-    }
-
-    // Adding arrows to any li that has child elements.
-    li {
-      @include u-text("medium");
-
-      a {
-        .arrow-right {
-          @include u-margin-left(1);
-          @include u-width("105");
-          @include u-height(2);
-          @include u-display("inline-block");
-
-          background-image: url("../uswds/img/angle-arrow-right-black.svg");
-          background-size: 0.49rem;
-          background-repeat: no-repeat;
-          background-position: center bottom;
-        }
-      }
-
-      .usa-current {
-        .arrow-right {
-          background-image: url("../uswds/img/angle-arrow-right-white.svg");
-        }
-      }
-
-      // Styles for nested li tags, at each level
-      li {
-        @include u-text("normal");
-        @include u-font("sans", "xs");
-
-        a {
-          .arrow-right {
-            @include u-margin-left("05");
-
-            background-size: 0.42rem;
-          }
-        }
-
-        li {
-          @include u-font("sans", "2xs");
-
-          li {
-            @include u-font("sans", "3xs");
-          }
-        }
       }
     }
   }

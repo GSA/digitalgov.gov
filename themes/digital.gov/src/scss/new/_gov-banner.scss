@@ -25,9 +25,9 @@
 
     background-image: url(#{$theme-image-path}/close-white-alt.svg),
       linear-gradient(transparent, transparent);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 40%;
-    background-position: center;
   }
 
   .usa-accordion .usa-banner__content {

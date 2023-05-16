@@ -1,6 +1,8 @@
 {
   "extends": ["@18f/identity-stylelint-config"],
-  "rules": { 
+  "plugins": ["stylelint-order"],
+  "rules": {
+    "order/order": ["at-variables","declarations"],
     "order/properties-alphabetical-order": true
   }
 }

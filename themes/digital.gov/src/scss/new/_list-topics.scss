@@ -20,11 +20,11 @@
     @include u-text("indigo-warm-80");
     @include u-line-height("sans", 2);
 
+    transition: background-color 0.2s, color 0.2s;
+
     z-index: 2;
 
     @include u-position("relative");
-
-    transition: background-color 0.2s, color 0.2s;
   }
 
   a:hover {

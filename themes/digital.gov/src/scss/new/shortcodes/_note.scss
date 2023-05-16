@@ -6,6 +6,9 @@
   @include u-padding-x(3);
   @include u-text("light");
   @include u-radius("sm");
+  @include u-bg("blue-5");
+  @include u-text("blue-70");
+  @include u-border-left("05", "solid", "blue-20");
 
   h4 {
     @include u-margin-bottom("105");
@@ -20,14 +23,17 @@
 
   a {
     @include u-text("no-underline");
+    @include u-text("blue-70");
+    @include u-border-bottom("1px", "solid", "blue-70");
 
     &:hover {
       @include u-text("no-underline");
+      @include u-text("blue-80");
     }
   }
 
   .highlight {
-    @include u-bg("yellow-5");
+    @include u-bg("blue-10");
   }
 
   strong {
@@ -58,26 +64,6 @@
 li .note {
   @include u-padding-y("05");
   @include u-padding-x(1);
-}
-
-// Note — color settings
-.note {
-  @include u-bg("blue-5");
-  @include u-text("blue-70");
-  @include u-border-left("05", "solid", "blue-20");
-
-  a {
-    @include u-text("blue-70");
-    @include u-border-bottom("1px", "solid", "blue-70");
-
-    &:hover {
-      @include u-text("blue-80");
-    }
-  }
-
-  .highlight {
-    @include u-bg("blue-10");
-  }
 }
 
 // Activities  — color settings

@@ -25,7 +25,7 @@
     @include u-line-height("sans", 2);
     @include u-text("semibold");
     @include u-text("no-underline");
-    @include u-text("indigo-70");
+    @include u-text("indigo-80");
 
     &:hover {
       @include u-border-bottom("05", "accent-warm", "solid");
@@ -67,14 +67,6 @@
 
   p {
     @include u-margin-top(0);
-
-    // @include u-font('sans', 'md');
-    // @include u-line-height('sans', 3);
-  }
-
-  a {
-    @include u-text("indigo-80");
-    @include u-text("no-underline");
   }
 
   // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.

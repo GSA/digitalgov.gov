@@ -63,6 +63,7 @@
     "prettier": "^2.8.8",
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.6.1",
+    "stylelint-order": "^6.0.3",
     "vinyl-paths": "^3.0.1"
   },
   "overrides": {

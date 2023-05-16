@@ -9,8 +9,8 @@
 
   .edit-this-btn {
     position: absolute;
-    top: -10px;
     right: -10px;
+    top: -10px;
     z-index: 100;
 
     @include u-margin-top(0);
@@ -38,24 +38,24 @@
   &:hover {
     outline: 4px #ffcb00 solid;
 
-    @include u-outline-color("gold-20v");
-
     z-index: 100;
+
+    @include u-outline-color("gold-20v");
 
     .edit-this-btn {
       @include u-display("block");
+      height: 40px;
+      right: -20px;
+      top: -20px;
 
       width: 40px;
-      height: 40px;
-      top: -20px;
-      right: -20px;
 
       span {
+        border: none;
         display: block;
+        padding: 9px 6px;
         position: relative;
         text-indent: 0;
-        padding: 9px 6px;
-        border: none;
       }
     }
   }
@@ -71,10 +71,10 @@
   }
 
   .edit {
-    position: fixed;
     bottom: 20px;
-    right: 20px;
     padding: 20px;
+    position: fixed;
+    right: 20px;
 
     @include u-border(0);
     @include u-z("top");
@@ -92,9 +92,9 @@
     }
 
     i {
+      left: 2px;
       position: relative;
       top: 0;
-      left: 2px;
     }
 
     &:focus {

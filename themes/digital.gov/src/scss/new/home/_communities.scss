@@ -3,18 +3,18 @@
 // https://digital.gov/communities/
 .communities-of-practice--list {
   @include at-media("tablet") {
+    column-gap: 2rem;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    column-gap: 2rem;
   }
 }
 
 .usa-card__cop-bar {
-  width: 84%;
-  margin: 0 auto;
   border-radius: 0;
   height: 10px;
+  margin: 0 auto;
   margin-top: 1rem;
+  width: 84%;
 }
 
 $communities-of-practice: (
