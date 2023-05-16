@@ -1,7 +1,7 @@
 ---
 title: Strengthening information accessibility for consumers with limited English proficiency
 deck: ""
-kicker: ""
+kicker: MULTILINGUAL AND COMMUNICATORS
 summary: Tune in to learn what the CFPB is doing to ensure financial products and services are accessible to all consumers, including those with limited English proficiency.
 host: Multilingual Community of Practice and Communicators Community of Practice
 event_organizer: Digital.gov
