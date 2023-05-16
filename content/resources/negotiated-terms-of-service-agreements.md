@@ -35,6 +35,7 @@ aliases:
   - /resources/twitter-federal-terms-of-service/
   - /resources/uservoice-federal-terms-of-service/
   - /resources/vine-federal-terms-of-service/
+
 ---
 
 {{< note "alert" >}}
@@ -46,7 +47,7 @@ aliases:
 - [Federal-Compatible Terms of Service Agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
 {{< /box >}}
 
-**:warning:** Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency.
+**:warning:** Before you decide to use one of the free digital tools below, seek the advice of your agency's Terms of Service Point of Contact to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency.
 
 See [complete implementation guidance]({{< link "federal-compatible-terms-of-service-agreements.md#how-to-implement" >}}) on the main Terms of Service page.
 
