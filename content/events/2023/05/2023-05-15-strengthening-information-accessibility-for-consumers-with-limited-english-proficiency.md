@@ -1,8 +1,8 @@
 ---
 title: Strengthening information accessibility for consumers with limited English proficiency
 deck: ""
-kicker: ""
-summary: Tune in to learn what the CFPB is doing to ensure financial products and services are accessible to all consumers, including those with limited English proficiency.
+kicker: "ConsumerFinance.gov"
+summary: Tune in to learn what the Consumer Financial Protection Bureau (CFPB) is doing to ensure financial products and services are accessible to all consumers, including those with limited English proficiency.
 
 host: Multilingual Community of Practice and Communicators Community of Practice
 event_organizer: Digital.gov
@@ -34,7 +34,7 @@ primary_image: "2023-05-24-strengthening-information-accessibility-title-card"
 
 ---
 
-Join us for a webinar with the Consumer Financial Protection Bureau (CFPB) team to discuss the new work they are doing to increase language access on consumerfinance.gov.
+Join us for a webinar with the Consumer Financial Protection Bureau (CFPB) team to discuss the new work they are doing to increase language access on ConsumerFinance.gov.
 
 Experiencing a financial challenge can be daunting, and it can be even more overwhelming when critical financial information is not in your primary language. Financial issues can have a significant impact on people's lives, and it is crucial to have access to information that can help them navigate these challenges effectively.
 
