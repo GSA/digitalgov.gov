@@ -24,6 +24,19 @@ p.more {
 }
 
 a.btn {
+  transition: background-color 0.2s, border 0.2s, border-color 0.2s;
+
+  i {
+    @include u-margin-left("05");
+  }
+
+  &:hover {
+    @include u-bg("indigo-70");
+
+    span {
+      @include u-border-bottom("2px", "white", "solid");
+    }
+  }
   @include u-padding-y("105");
   @include u-padding-x(2);
   @include u-display("inline-block");
@@ -39,20 +52,6 @@ a.btn {
     @include u-padding-y("105");
     @include u-padding-x(3);
     @include u-font("sans", "md");
-  }
-
-  i {
-    @include u-margin-left("05");
-  }
-
-  transition: background-color 0.2s, border 0.2s, border-color 0.2s;
-
-  &:hover {
-    @include u-bg("indigo-70");
-
-    span {
-      @include u-border-bottom("2px", "white", "solid");
-    }
   }
 }
 

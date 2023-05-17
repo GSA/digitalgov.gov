@@ -4,13 +4,8 @@
 
 // The individual promos
 .promo {
-  @include u-margin-y(1);
-  @include u-padding(1);
-  @include u-border("1px", "gray-cool-10", "solid");
-  @include u-radius("md");
-  @include u-display("flex");
-  @include u-flex("align-center");
-  @include u-flex("justify");
+  // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+  position: relative;
 
   & > div {
     @include u-margin-top(0);
@@ -69,9 +64,6 @@
     @include u-margin-top(0);
   }
 
-  // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
-  position: relative;
-
   &:hover {
     @include u-bg("gray-cool-5");
 
@@ -83,6 +75,13 @@
       @include u-border-bottom("05", "accent-warm", "solid");
     }
   }
+  @include u-margin-y(1);
+  @include u-padding(1);
+  @include u-border("1px", "gray-cool-10", "solid");
+  @include u-radius("md");
+  @include u-display("flex");
+  @include u-flex("align-center");
+  @include u-flex("justify");
 }
 
 .promo-card {

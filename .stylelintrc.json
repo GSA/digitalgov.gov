@@ -2,7 +2,7 @@
   "extends": ["@18f/identity-stylelint-config"],
   "plugins": ["stylelint-order"],
   "rules": {
-    "order/order": ["at-variables","declarations"],
+    "order/order": ["at-variables","declarations","rules"],
     "order/properties-alphabetical-order": true
   }
 }
