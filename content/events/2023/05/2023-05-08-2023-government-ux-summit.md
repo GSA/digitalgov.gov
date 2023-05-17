@@ -115,6 +115,10 @@ Presenters will share a stakeholder feedback model that user experience professi
 * **Jennifer Shelley**—Health Communications Strategist, Division of Communications, NIH
 * **Leslie Westendorf**—Contractor, UX Strategy, NIH
 
+**Moderator**
+
+* **Laura Lourenco**—Business Informatics Specialist, U.S. Food & Drug Administration (FDA)
+
 ---
 
 ### Break, 12:00 pm - 1:00 pm, ET
@@ -142,6 +146,10 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 * **Martha Wilkes**—Accessibility Strategist, VA Office of the Chief Technology Officer (CTO)
 * **Elizabeth Straghalis**—Contractor, Staff Researcher, VA
 
+**Moderator**
+
+* **David Tucker**—Experience Strategist, U.S. Department of State
+
 #### 2. Operation Rising Tide: Cognitive disability accommodations for the workforce
 
 {{< img-right src="dod-seal" >}}
@@ -158,6 +166,10 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 * **Gordon Banks**—General Engineer, Defense Threat Reduction Agency (DTRA)
 * **Maj. Kirk Shoemaker**—Nuclear and Countering Weapons of Mass Destruction Officer, U.S. Army, DTRA
+
+**Moderator**
+
+* **David Tucker**—Experience Strategist, U.S. Department of State
 
 ---
 
@@ -185,6 +197,10 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * **Alex Bielen**—Engineering Supervisor at 18F, GSA
 * **Laura Nash**—Design Supervisor at 18F, GSA
 
+**Moderator**
+
+* **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
+
 #### 2. Simplifying user experiences for complex content at USAGov
 
 {{< img-right src="gsa-blue-logo-sq" >}}
@@ -210,6 +226,10 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 
 * **Joanne McGovern**—UX Researcher, USAGov, GSA
 * **Mercedita Andrew**—Contractor, UX Researcher, GSA
+
+**Moderator**
+
+* **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
 
 ---
 
