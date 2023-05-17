@@ -2,27 +2,47 @@
 
 // .paper sets the background-color for the page
 .resources.section {
-  .paper{
-    @include u-bg('blue-warm-5');
+  .paper {
+    @include u-bg("blue-warm-5");
   }
 }
 
 .main-resources {
-  .in-page{
-    @include u-bg('gray-warm-3');
-    @include u-text('indigo-80');
+  .in-page {
+    @include u-bg("gray-warm-3");
+    @include u-text("indigo-80");
   }
 }
 
-#resources_by_topic{
-  @include u-bg('white');
+#resources_by_topic {
+  @include u-bg("white");
   @include u-padding-top(1);
   h2 {
     @include u-margin-bottom(2);
     @include u-padding-top(5);
-    @include u-text('semibold');
-    @include u-font('sans', 'sm');
-    @include u-border-top('1px', 'base-light', 'solid');
+    @include u-text("semibold");
+    @include u-font("sans", "sm");
+    @include u-border-top("1px", "base-light", "solid");
+  }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+
+    a {
+      color: black;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  footer {
+    padding-bottom: 1.5rem;
   }
   // .topic-section{
   //   @include u-margin-top(0);
@@ -52,7 +72,7 @@
   // }
 }
 
-.usa-prose table.resources__plain-language-table  tr td {
+.usa-prose table.resources__plain-language-table tr td {
   background-color: #fff;
   border: 1px solid #1b1b1b;
   border-top-style: solid;
