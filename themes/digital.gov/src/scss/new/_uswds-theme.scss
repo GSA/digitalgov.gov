@@ -28,7 +28,8 @@ i.e.
   $theme-focus-color: "blue-50v",
   $theme-grid-container-max-width: "widescreen",
   $theme-site-margins-breakpoint: "widescreen",
-  /*typography*/ $theme-global-paragraph-styles: true,
+  // typography
+  $theme-global-paragraph-styles: true,
   $theme-global-link-styles: true,
   $theme-font-type-sans: "public-sans",
   $theme-font-role-heading: "sans",
@@ -44,8 +45,8 @@ i.e.
   $theme-body-line-height: 4,
   $theme-style-body-element: true,
   $theme-text-measure: 5,
-  /*Colors from _uswds_theme-color.scss*/ $theme-color-base-lightest:
-    "gray-cool-5",
+  // Colors from _uswds_theme-color.scss
+  $theme-color-base-lightest: "gray-cool-5",
   $theme-color-primary-light: "blue-30v",
   $theme-color-primary: "blue-warm-50v",
   $theme-color-primary-dark: "blue-70v",

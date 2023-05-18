@@ -59,10 +59,10 @@ jobs:
           command: npm run lint:styles
       - run:
           name: Format Styles
-          command: npm run test:styles
+          command: npm run prettier:styles
       - run:
           name: Format Templates
-          command: npm run test:templates
+          command: npm run prettier:templates
   process:
     <<: *defaults
     steps:
