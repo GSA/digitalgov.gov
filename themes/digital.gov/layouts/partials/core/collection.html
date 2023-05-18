@@ -5,6 +5,7 @@
   @src
   @link set to false, make h2 a link to something
   @limit set a limit to the number of items displayed
+
 */}}
 {{ $list := .list }}
 {{ $heading := .heading }}
@@ -13,7 +14,7 @@
 
 {{/* If there are any items in the array at all... */}}
 {{ if $list }}
-  <div class="">
+  <div class="usa-collection-wrapper">
     {{/* Checks if there a heading is set in the partial */}}
 
     {{ if $heading }}
@@ -37,7 +38,8 @@
           {{ end }}
         {{ end }}
 
-        {{/* Use digital.gov logo */}}
+        {{/* Use digital.gov logo, fix this logic check */}}
+        {{/* if and (eq .Params.source_url "") (eq .Params.source "") */}}
         {{ if eq .Params.source_url .Params.source }}
           {{ $src = (print "/img/digit-50.png") }}
           {{ $href = (print .Permalink "?dg") }}
