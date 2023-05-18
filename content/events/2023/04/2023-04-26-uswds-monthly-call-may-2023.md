@@ -18,7 +18,8 @@ topics:
 slug: uswds-monthly-call-may-2023
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: 2023-uswds-monthly-call-may-title-card
+primary_image: "2023-uswds-monthly-call-may-title-card"
+
 ---
 
 {{< asset-static file="uswds-monthly-call-may-2023.pptx" label="View the slides (PowerPoint presentation, 5.4 MB, 23 pages)" >}}
