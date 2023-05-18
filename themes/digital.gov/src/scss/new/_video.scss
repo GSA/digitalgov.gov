@@ -22,8 +22,8 @@
     @include u-bottom(0);
     @include u-border(0);
     @include u-height("auto");
-    transition: 0.4s all;
     margin: auto;
+    transition: 0.4s all;
   }
 
   iframe {
