@@ -87,7 +87,7 @@ In this presentation, we will share actionable tips about managing project logis
 
 **Moderator**
 
-* **Natalie Buda Smith**—Community co-lead, User Experience community
+* **UX Community co-lead, Natalie Buda Smith**—Director of Digital Strategy, Library of Congress
 
 ---
 
@@ -261,7 +261,7 @@ This panel includes user and customer experience specialists from three very dif
 
 **Moderator**
 
-* **Jaime Kern**—Community co-lead, User Experience community
+* **UX Community co-lead, Jaime Kern**—Strategic Communications Lead, Office of Enterprise Strategy Management, GSA
 
 ## Resources
 
