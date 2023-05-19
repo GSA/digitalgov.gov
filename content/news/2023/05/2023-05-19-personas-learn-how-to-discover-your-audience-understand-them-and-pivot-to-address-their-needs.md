@@ -11,7 +11,8 @@ topics:
   - user-experience
   - cx
 # See all authors at https://digital.gov/authors
-authors: frances-carden
+authors: 
+  - frances-carden
 
 slug: personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs
 primary_image: ""
