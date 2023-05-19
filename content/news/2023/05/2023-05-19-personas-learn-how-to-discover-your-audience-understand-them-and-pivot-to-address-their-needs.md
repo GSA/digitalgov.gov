@@ -3,7 +3,7 @@ date: 2023-05-19 15:48:00 -0500
 kicker: 
 title: "Personas: learn how to discover your audience, understand them, and pivot to address their needs"
 deck: 
-summary: "Advice from five federal experts on creating user personas to better serve your customers."
+summary: "Advice from five federal experts on creating user personas."
 # See all topics at https://digital.gov/topics
 topics:
   - communication
@@ -26,7 +26,7 @@ weight: 1
 
 Clear communication through any channel is key. The best way to do this includes understanding and empathizing with your audience, reaching them, seeing how they use your products or services, and continuing a conversation with them at an appropriate level and cadence. While this all sounds easy enough in a classroom setting, the real-world application can often be daunting. Where do you even start? How do you discover your audience, what they need to know, how they are using your agency’s tools or products, and at what level they need help or clarity?
 
-With these questions in mind, I met with five experts from across the federal government to gather insight and expertise about how they discovered their audience, understood them, and pivoted to address their communications and services. These conversations ranged from informational approaches to user experience (UX) insights on the operations of government tools and products. Their advice amounts to these key takeaways:
+With these questions in mind, I met with five experts from across the federal government to gather insight and expertise about how they discovered their audience, understood them, and pivoted to address their communications and services. These conversations ranged from informational approaches to user experience (UX) insights on the operations of government tools and products. Their advice amounts to these five key takeaways:
 
 * Discover your audience by leveraging agency knowledge
 * Sketch a proto-persona
@@ -36,7 +36,7 @@ With these questions in mind, I met with five experts from across the federal go
 
 A user persona is a fictional representation of a type of user with whom you want to communicate. A user persona is not a real person – but it represents the needs and attributes of real people (the users of your agency’s tool, product, or communications).
 
-## Discover your audience by leveraging agency knowledge
+## 1. Discover your audience by leveraging agency knowledge
 
 “You have to know who you are talking to before you start doing the talking,” noted [Holland Gormley](https://blogs.loc.gov/copyright/author/kigo/), outreach and education specialist at the U.S. Copyright Office’s Public Information and Education division, and former co-lead of the [Communicators community](https://digital.gov/communities/communicators/). Determining your audience is the key to effective communications. How exactly do you do that?
 
@@ -46,7 +46,7 @@ Your agency already has more information about your audience than you suspect. T
 
 [Beth A. Martin](https://digital.gov/authors/beth-martin/), a digital services expert (UX Designer) at the Office of Personnel Management, co-lead of the [Web Managers community](https://digital.gov/communities/web-content-managers/), and member of the original Usability.gov team who drafted a [persona how-to article](https://www.usability.gov/how-to-and-tools/methods/personas.html), noted that you should also consider your “competitors.” Where else is your audience getting their information, their services? What do these organizations provide that you don’t, and how does that reflect on unmet audience needs?
 
-## Sketch a proto-persona
+## 2. Sketch a proto-persona
 
 You know (or think you know) who your audience is. Now you’re ready to  (digitally) “put pen to paper” and develop what is called a proto-persona. A proto-persona is effectively your assumptions about your audience or users – a way of collecting assumptions and hypotheses about what you think you know into a manageable outline for verification and further research.
 
@@ -57,7 +57,7 @@ At the Copyright Office, Gormley leveraged quantitative data aggregated from pub
 
 Of course, the proto-persona leads to the next step: You think you know your users and what they need to do – but do you really?
 
-## Start thinking about the audience’s journey
+## 3. Start thinking about the audience’s journey
 
 As you’re collecting audience information, focus on your audience’s journey. What tasks are they trying to accomplish through your product and how does that fit into the scope of their goals? Martin is passionate about developing user personas with an eye to “the hero’s journey”<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>.
 
@@ -65,7 +65,7 @@ The hero’s journey starts with a call to action that leads to an eventual char
 
 “What you are trying to do is identify the characters who are interacting with your service,” Martin explains, “and tell their story.” Part of this is acknowledging that your agency’s portion in their story is only a small part of the overall tale. Your users may be dealing with significant [life events](https://www.performance.gov/cx/projects/), and they are interacting with your service or application out of a greater need. “Your application is not the end all and be all – people are on a larger journey,” Martin said. “How do they feel about this journey and how do you provide that experience that helps them get through what they need to get done in order to move on?”
 
-## Do your research and create your persona
+## 4. Do your research and create your persona
 
 Depending on your agency’s products, capabilities, and budget, this is the step where you might be able to sit down with actual users. Note that agencies don’t (or can’t) always do this.
 
@@ -87,7 +87,7 @@ Digital Strategy Director Natalie Buda Smith, of the Office of the Chief Informa
 
 As Gormley explained, a persona can be as detailed as you need it to be. A persona can range from a paragraph to multiple pages. “All user personas should cover what’s important to your imaginary character,” Gormley said, “and what needs they have that they are trying to meet either through your product or service or elsewhere, where they are already going for information, any misconceptions they might have. . . . at the core of it, you want to be thinking about what is the question, issue, or need that they are trying to have addressed.”
 
-## User interviews
+### User interviews
 
 If you have set up some sessions with your users, Stengel and Smith detailed some best practices to help you conduct effective sessions.
 
@@ -99,7 +99,7 @@ Smith noted that you don’t necessarily have to be right across the table from 
 
 What you’re looking for is patterns – yes – but you are also looking for the outliers and how they might match an unidentified business need or even spark another type of research method.
 
-## Keep updating your persona.
+## 5. Keep updating your persona
 
 You’ve identified your audience, made your proto-persona, done your research, and have a fully formed persona to help you address your audiences’ needs. You’re done, right? Wrong.
 
@@ -130,8 +130,6 @@ You’ve identified your audience, made your proto-persona, done your research, 
 * [USDA Persona Template (.docx, 185 KB, 2 pages)](https://www.usda.gov/sites/default/files/documents/persona-template.docx)
 * [Energy.gov - Customer Profiles and Personas Templates](https://www.energy.gov/eere/communicationstandards/articles/templates-and-examples-customer-profiles-and-personas)
 * [Digital Services Georgia - Template and Personas Class Materials](https://digital.georgia.gov/training/state-certified-content-workshop/personas)
-
-
 
 <footer>
 <h2 id="footnote-label">Footnotes</h2>
