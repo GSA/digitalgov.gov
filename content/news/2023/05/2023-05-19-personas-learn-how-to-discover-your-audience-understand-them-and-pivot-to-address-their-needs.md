@@ -1,11 +1,9 @@
 ---
 date: 2023-05-19 15:48:00 -0500
-kicker: kicker
-title: "Personas: learn how to discover your audience, understand them, and
-  pivot to address their needs"
-deck: deck
-summary: "Personas: learn how to discover your audience, understand them, and
-  pivot to address their needs."
+kicker: 
+title: "Personas: learn how to discover your audience, understand them, and pivot to address their needs"
+deck: 
+summary: "Advice from five federal experts on creating user personas to better serve your customers."
 # See all topics at https://digital.gov/topics
 topics:
   - communication
@@ -13,14 +11,18 @@ topics:
   - user-experience
   - cx
 # See all authors at https://digital.gov/authors
-authors: []
+authors: frances-carden
+
 slug: personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs
-primary_image: 10x-areas-of-focus
+primary_image: ""
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Clear communication through any channel is key. The best way to do this includes understanding and empathizing with your audience, reaching them, seeing how they use your products or services, and continuing a conversation with them at an appropriate level and cadence. While this all sounds easy enough in a classroom setting, the real-world application can often be daunting. Where do you even start? How do you discover your audience, what they need to know, how they are using your agency’s tools or products, and at what level they need help or clarity?
 
 With these questions in mind, I met with five experts from across the federal government to gather insight and expertise about how they discovered their audience, understood them, and pivoted to address their communications and services. These conversations ranged from informational approaches to user experience (UX) insights on the operations of government tools and products. Their advice amounts to these key takeaways:
@@ -56,7 +58,7 @@ Of course, the proto-persona leads to the next step: You think you know your use
 
 ## Start thinking about the audience’s journey
 
-As you’re collecting audience information, focus on your audience’s journey. What tasks are they trying to accomplish through your product and how does that fit into the scope of their goals? Martin is passionate about developing user personas with an eye to “the hero’s journey”1.
+As you’re collecting audience information, focus on your audience’s journey. What tasks are they trying to accomplish through your product and how does that fit into the scope of their goals? Martin is passionate about developing user personas with an eye to “the hero’s journey”<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>.
 
 The hero’s journey starts with a call to action that leads to an eventual character transformation through challenges and temptations, revelations, and atonement; at the end of the hero’s journey, the person has learned something, coming full circle. As Martin pointed out, this journey is not unique to figures of myth. Your users will need information from your agency or need to use one of your products or services. This starts their journey with you. Your job (as the mythical helper figure) is to figure out the challenges that lie in their way and to find a better way to guide them through their journey towards eventual transformation, which, in this case, is getting the service or information they need.
 
@@ -128,6 +130,11 @@ You’ve identified your audience, made your proto-persona, done your research, 
 * [Energy.gov - Customer Profiles and Personas Templates](https://www.energy.gov/eere/communicationstandards/articles/templates-and-examples-customer-profiles-and-personas)
 * [Digital Services Georgia - Template and Personas Class Materials](https://digital.georgia.gov/training/state-certified-content-workshop/personas)
 
-## Footnotes
 
-1. Campbell, Joseph. (1949) 2008. The Hero with a Thousand Faces. Novato, Calif.: New World Library.
+
+<footer>
+<h2 id="footnote-label">Footnotes</h2>
+<ol>
+<li id="fn1">Campbell, Joseph. (1949) 2008. The Hero with a Thousand Faces. Novato, Calif.: New World Library. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+</ol>
+</footer>
