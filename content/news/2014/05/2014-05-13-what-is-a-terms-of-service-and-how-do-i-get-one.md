@@ -16,9 +16,9 @@ topics:
   - usability
 ---
 
-[{{< legacy-img-right src="2015/02/250-x-384-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg" alt="DigitalGov Terms of Service (TOS) flowchart, February 2, 2015, PDF, 437 KB, 1 page" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/DigitalGov-TOS-flowchart_v6-Feb-2-2015-links.pdf)
+{{< legacy-img-right src="2015/02/250-x-384-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg" alt="DigitalGov Terms of Service (TOS) flowchart" >}}
 
-Imagine this: You just found a great online tool that can help you do your federal job 100% better. You’re all ready to download it and start conquering the world when someone asks, "Have you checked the Terms of Service?" You’re not sure what they’re talking about, what a Terms of Service is, or why you need one. Let’s answer this and more in our [Terms of Service Flowchart](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg) (click the image to the right to download your own PDF copy of this chart for reference) and our **Terms of Service FAQ**:
+Imagine this: You just found a great online tool that can help you do your federal job 100% better. You’re all ready to download it and start conquering the world when someone asks, "Have you checked the Terms of Service?" You’re not sure what they’re talking about, what a Terms of Service is, or why you need one. Let’s answer this and more in our [Terms of Service Flowchart (PDF, 437 KB, 1 page)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/DigitalGov-TOS-flowchart_v6-Feb-2-2015-links.pdf) and our **Terms of Service FAQ**:
 
 ### What are Terms of Service (TOS)?
 
