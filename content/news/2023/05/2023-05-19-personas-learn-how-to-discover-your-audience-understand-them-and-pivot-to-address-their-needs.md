@@ -113,12 +113,12 @@ You’ve identified your audience, made your proto-persona, done your research, 
 
 ## What additional resources are available to me?
 
-* [Usability.gov How to Write a Persona](https://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [Digital.gov Personas 101](https://digital.gov/2015/01/09/personas-101/)
-* [18F - Personas Method](https://methods.18f.gov/decide/personas/)
-* [Understanding your audience - Digital Services Georgia](https://digital.georgia.gov/blog-post/2017-06-27/understanding-your-audience)
-* [Making sure your users feel seen](https://digital.georgia.gov/blog-post/2022-11-01/making-sure-your-users-feel-seen) — Digital Services Georgia
-* [Do your research](https://www.plainlanguage.gov/guidelines/audience/do-your-research/) — PlainLanguage.gov
+* [Usability.gov: How to Write a Persona](https://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [Digital.gov: Personas 101](https://digital.gov/2015/01/09/personas-101/)
+* [18F: Personas Method](https://methods.18f.gov/decide/personas/)
+* [Digital Services Georgia: Understanding your audience](https://digital.georgia.gov/blog-post/2017-06-27/understanding-your-audience)
+* [Digital Services Georgia: Making sure your users feel seen](https://digital.georgia.gov/blog-post/2022-11-01/making-sure-your-users-feel-seen)
+* [PlainLanguage.gov: Do your research](https://www.plainlanguage.gov/guidelines/audience/do-your-research/)
 
 ## Where can I see examples of a government created persona?
 
