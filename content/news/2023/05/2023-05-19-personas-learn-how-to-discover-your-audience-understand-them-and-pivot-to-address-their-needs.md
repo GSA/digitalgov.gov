@@ -15,7 +15,7 @@ authors:
   - frances-carden
 
 slug: personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs
-primary_image: ""
+primary_image: "krugli-istock-getty-images-1330040683-comp"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -35,6 +35,8 @@ With these questions in mind, I met with five experts from across the federal go
 * Keep updating your persona
 
 A user persona is a fictional representation of a type of user with whom you want to communicate. A user persona is not a real person – but it represents the needs and attributes of real people (the users of your agency’s tool, product, or communications).
+
+{{< img src="persona-tempate-usda-full" >}}
 
 ## 1. Discover your audience by leveraging agency knowledge
 
@@ -64,6 +66,8 @@ As you’re collecting audience information, focus on your audience’s journey.
 The hero’s journey starts with a call to action that leads to an eventual character transformation through challenges and temptations, revelations, and atonement; at the end of the hero’s journey, the person has learned something, coming full circle. As Martin pointed out, this journey is not unique to figures of myth. Your users will need information from your agency or need to use one of your products or services. This starts their journey with you. Your job (as the mythical helper figure) is to figure out the challenges that lie in their way and to find a better way to guide them through their journey towards eventual transformation, which, in this case, is getting the service or information they need.
 
 “What you are trying to do is identify the characters who are interacting with your service,” Martin explains, “and tell their story.” Part of this is acknowledging that your agency’s portion in their story is only a small part of the overall tale. Your users may be dealing with significant [life events](https://www.performance.gov/cx/projects/), and they are interacting with your service or application out of a greater need. “Your application is not the end all and be all – people are on a larger journey,” Martin said. “How do they feel about this journey and how do you provide that experience that helps them get through what they need to get done in order to move on?”
+
+{{< img src="6-usda-personas-summaries" >}}
 
 ## 4. Do your research and create your persona
 
@@ -109,21 +113,21 @@ You’ve identified your audience, made your proto-persona, done your research, 
 
 ## What additional resources are available to me?
 
-* [Usability.gov How to Write a Persona](https://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [Digital.gov Personas 101](https://digital.gov/2015/01/09/personas-101/)
-* [18F - Personas Method](https://methods.18f.gov/decide/personas/)
-* [Understanding your audience - Digital Services Georgia](https://digital.georgia.gov/blog-post/2017-06-27/understanding-your-audience)
-* [Making sure your users feel seen](https://digital.georgia.gov/blog-post/2022-11-01/making-sure-your-users-feel-seen) — Digital Services Georgia
-* [Do your research](https://www.plainlanguage.gov/guidelines/audience/do-your-research/) — PlainLanguage.gov
+* [Usability.gov: How to Write a Persona](https://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [Digital.gov: Personas 101](https://digital.gov/2015/01/09/personas-101/)
+* [18F: Personas Method](https://methods.18f.gov/decide/personas/)
+* [Digital Services Georgia: Understanding your audience](https://digital.georgia.gov/blog-post/2017-06-27/understanding-your-audience)
+* [Digital Services Georgia: Making sure your users feel seen](https://digital.georgia.gov/blog-post/2022-11-01/making-sure-your-users-feel-seen)
+* [PlainLanguage.gov: Do your research](https://www.plainlanguage.gov/guidelines/audience/do-your-research/)
 
-### Where can I see examples of a government created persona?
+## Where can I see examples of a government created persona?
 
 * [National Archives Personas](https://www.archives.gov/digitalstrategy/personas)
 * [Library of Congress: Passing the mic to our audience: User personas and strategic planning for the sustainability of digital formats website](https://blogs.loc.gov/thesignal/2021/08/passing-the-mic-to-our-audience-user-personas-and-strategic-planning-for-the-sustainability-of-digital-formats-website/)
 * [Digital.gov: Voices of veterans - introducing personas to better understand our customers](https://digital.gov/2016/09/29/voices-of-veterans-introducing-personas-to-better-understand-our-customers/)
 * [USDA Personas and Use Cases](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Marsh-Personas.pdf)
 
-### Where can I get a persona template?
+## Where can I get a persona template?
 
 * [GSA Open Opportunity Personas (PowerPoint presentation, 94 KB, 1 slide, December 2014)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/OPENOPPS-personas-final.pptx.pptx) and the [Digital.gov article about creating them](https://www.digitalgov.gov/2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities)
 * [Digital.gov Persona Template (PowerPoint presentation, 254 KB, 4 slides, May 2014)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/Persona-Template.pptx)
