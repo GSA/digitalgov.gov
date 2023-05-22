@@ -36,7 +36,7 @@ With these questions in mind, I met with five experts from across the federal go
 
 A user persona is a fictional representation of a type of user with whom you want to communicate. A user persona is not a real person – but it represents the needs and attributes of real people (the users of your agency’s tool, product, or communications).
 
-{{< img src="persona-tempate-usda" >}}
+{{< img src="persona-tempate-usda-full" >}}
 
 ## 1. Discover your audience by leveraging agency knowledge
 
