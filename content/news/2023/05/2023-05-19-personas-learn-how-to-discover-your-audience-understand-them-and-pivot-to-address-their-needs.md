@@ -15,6 +15,7 @@ authors:
   - frances-carden
 
 slug: personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs
+
 primary_image: "krugli-istock-getty-images-1330040683-comp"
 
 # Controls how this page appears across the site
