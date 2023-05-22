@@ -1,43 +1,53 @@
 @use "uswds-core" as *;
 
-.gov-banner{
-  @include u-bg('primary-darkest');
-  .usa-banner__header-text{
-    @include u-text('white');
+.gov-banner {
+  @include u-bg("primary-darkest");
+
+  .usa-banner__header-text {
+    @include u-text("white");
   }
-  .usa-banner__content{
-    @include u-text('white');
+
+  .usa-banner__content {
+    @include u-text("white");
   }
+
   .usa-banner__header-action,
-  .usa-banner__button{
-    @include u-text('base-light');
-    &:hover{
-      @include u-text('base-lighter');
+  .usa-banner__button {
+    @include u-text("base-light");
+
+    &:hover {
+      @include u-text("base-lighter");
     }
   }
 
-  .usa-banner__button[aria-expanded=true]:before{
-    @include u-bg('primary-darker');
-    background-image: url(#{$theme-image-path}/close-white-alt.svg),linear-gradient(transparent,transparent);
+  .usa-banner__button[aria-expanded="true"]::before {
+    @include u-bg("primary-darker");
+
+    background-image: url(#{$theme-image-path}/close-white-alt.svg),
+      linear-gradient(transparent, transparent);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 40%;
-    background-position: center;
   }
 
   .usa-accordion .usa-banner__content {
-    @include u-bg('primary-darker');
+    @include u-bg("primary-darker");
+
     @include at-media("tablet") {
-      @include u-bg('primary-darkest');
+      @include u-bg("primary-darkest");
     }
   }
 
-  .usa-banner__header-action, .usa-banner__button[aria-expanded=true], .usa-banner__button[aria-expanded=false] {
+  .usa-banner__header-action,
+  .usa-banner__button[aria-expanded="true"],
+  .usa-banner__button[aria-expanded="false"] {
     &::after {
-    @include u-bg('base-light');
+      @include u-bg("base-light");
     }
+
     &:hover {
       &::after {
-        @include u-bg('base-lighter');
+        @include u-bg("base-lighter");
       }
     }
   }

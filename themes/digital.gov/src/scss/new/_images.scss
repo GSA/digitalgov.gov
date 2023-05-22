@@ -1,47 +1,51 @@
 @use "uswds-core" as *;
 
 // Images
-.image{
+.image {
   @include u-margin-top(2);
   @include u-margin-bottom(4);
+
   // Captions
-  p{
-    @include u-margin-top('1px');
-    @include u-padding-x('2px');
-    @include u-font('sans', '2xs');
-    @include u-line-height('sans', 3);
-    @include u-color('gray-cool-60');
-    @include u-text('light');
-    @include u-maxw('full');
-    span{
-      @include u-text('italic');
+  p {
+    @include u-margin-top("1px");
+    @include u-padding-x("2px");
+    @include u-font("sans", "2xs");
+    @include u-line-height("sans", 3);
+    @include u-color("gray-cool-60");
+    @include u-text("light");
+    @include u-maxw("full");
+
+    span {
+      @include u-text("italic");
     }
   }
 }
-.image-right{
+
+.image-right {
   @include u-margin-top(1);
   @include u-margin-bottom(3);
   @include u-margin-left(3);
-  @include u-float('right');
+  @include u-float("right");
   @include u-width(15);
-  @include at-media('tablet') {
-    @include u-width('card');
+
+  @include at-media("tablet") {
+    @include u-width("card");
   }
 }
 
 // Making the older, right-aligned images smaller on desktop because they were cut to smaller sizes back then...
-.image-right-legacy{
-  @include at-media('tablet') {
-    @include u-width('card-lg');
+.image-right-legacy {
+  @include at-media("tablet") {
+    @include u-width("card-lg");
   }
 }
 
-.image-left{
-  @include u-margin-y('205');
-  @include u-margin-top('205');
+.image-left {
+  @include u-margin-y("205");
+  @include u-margin-top("205");
   @include u-margin-right(2);
-  @include u-float('left');
-  @include u-width('card-lg');
+  @include u-float("left");
+  @include u-width("card-lg");
 }
 
 img[alt] {

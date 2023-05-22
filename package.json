@@ -9,10 +9,14 @@
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
     "lint:markdown": "markdownlint --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint:markdown:format": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
+    "lint:styles": "npx stylelint ./themes/**/*.scss",
+    "lint:styles:fix": "npx stylelint ./themes/**/*.scss --fix",
     "local-build": "gulp buildAssets && gulp watch",
+    "prettier:styles": "npx prettier -c ./themes/**/*.scss",
+    "prettier:styles:fix": "npx prettier -w ./themes/**/*.scss",
+    "prettier:templates": "npx prettier -c ./themes/**/*.html",
+    "prettier:templates:fix": "npx prettier -w ./themes/**/*.html",
     "start": "npm-run-all --parallel local-build hugo workflow",
-    "prettier:templates": "npx prettier -w ./themes/**/*.html",
-    "test:templates": "npx prettier -c ./themes/**/*.html",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "npx pa11y-ci --config .pa11yci",
     "workflow": "npx netlify-cms-proxy-server"
@@ -46,6 +50,7 @@
     "sass-embedded": "^1.62.0"
   },
   "devDependencies": {
+    "@18f/identity-stylelint-config": "^2.0.0",
     "del": "^6.1.1",
     "dotenv": "^8.2.0",
     "gulp-rename": "^2.0.0",
@@ -58,6 +63,8 @@
     "postcss": "^8.4.23",
     "prettier": "^2.8.8",
     "prettier-plugin-go-template": "^0.0.13",
+    "stylelint": "^15.6.1",
+    "stylelint-order": "^6.0.3",
     "vinyl-paths": "^3.0.1"
   },
   "overrides": {

@@ -11,11 +11,11 @@ article {
  * 2. Reset link styles to make it appear like regular text
  */
 a[aria-describedby="footnote-label"] {
-  counter-increment: footnotes; /* 1 */
-  text-decoration: none; /* 2 */
   color: inherit; /* 2 */
+  counter-increment: footnotes; /* 1 */
   cursor: default; /* 2 */
   outline: none; /* 2 */
+  text-decoration: none; /* 2 */
 }
 
 /**
@@ -27,13 +27,13 @@ a[aria-describedby="footnote-label"] {
  * 5. Reset link styles on the number to show it's usable
  */
 a[aria-describedby="footnote-label"]::after {
-  content: '[' counter(footnotes) ']'; /* 1 */
-  vertical-align: super; /* 2 */
+  color: blue; /* 5 */
+  content: "[" counter(footnotes) "]"; /* 1 */
+  cursor: pointer; /* 5 */
   font-size: 0.5em; /* 3 */
   margin-left: 2px; /* 4 */
-  color: blue; /* 5 */
   text-decoration: underline; /* 5 */
-  cursor: pointer; /* 5 */
+  vertical-align: super; /* 2 */
 }
 
 /**
@@ -43,9 +43,11 @@ a[aria-describedby="footnote-label"]:focus::after {
   outline: thin dotted;
   outline-offset: 2px;
 }
+
 footer :target {
   background: yellow;
 }
+
 [aria-label="Back to content"] {
   font-size: 0.8em;
 }

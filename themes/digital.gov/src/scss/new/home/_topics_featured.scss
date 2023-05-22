@@ -1,9 +1,9 @@
 @use "uswds-core" as *;
 
-#topics_featured{
+#topics_featured {
   h2 {
     @include u-margin-bottom(2);
-    @include u-font('sans', 'sm');
-    @include u-text('semibold');
+    @include u-font("sans", "sm");
+    @include u-text("semibold");
   }
 }

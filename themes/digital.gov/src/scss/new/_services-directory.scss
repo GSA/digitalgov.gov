@@ -1,14 +1,17 @@
 @use "uswds-core" as *;
 
-.services-contacts{
-  @include u-bg('blue-warm-5');
-  header{
+.services-contacts {
+  @include u-bg("blue-warm-5");
+
+  header {
     @include u-margin-bottom(5);
   }
 }
-.service-contact-heading{
-  @include u-display('none');
-  @include at-media('tablet'){
-    @include u-display('block');
+
+.service-contact-heading {
+  @include u-display("none");
+
+  @include at-media("tablet") {
+    @include u-display("block");
   }
 }

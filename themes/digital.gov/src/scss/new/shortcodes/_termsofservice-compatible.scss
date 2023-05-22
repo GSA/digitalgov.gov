@@ -1,20 +1,21 @@
 @use "uswds-core" as *;
 
-table.tos-list{
-	.favicon{
-		@include u-position('relative');
-		@include u-top('2px');
-		@include u-margin-right('2px');
-	}
-	.tos-file{
-		@include u-font('sans', '2xs');
-		@include u-minw(15);
-		@include u-width('card');
+table.tos-list {
+  .favicon {
+    @include u-position("relative");
+    @include u-top("2px");
+    @include u-margin-right("2px");
+  }
 
-		.updated{
-			@include u-margin(0);
-			@include u-font('sans', '3xs');
-			@include u-text('base');
-		}
-	}
+  .tos-file {
+    @include u-font("sans", "2xs");
+    @include u-minw(15);
+    @include u-width("card");
+
+    .updated {
+      @include u-margin(0);
+      @include u-font("sans", "3xs");
+      @include u-text("base");
+    }
+  }
 }

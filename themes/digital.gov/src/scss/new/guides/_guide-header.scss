@@ -1,7 +1,6 @@
 @use "uswds-core" as *;
 
 .guides {
-
   .hero {
     @include u-margin-bottom(0);
     @include u-padding-y(5);
@@ -12,19 +11,23 @@
       @include u-font("sans", "xl");
       @include u-text("heavy");
       @include u-text("primary-darker");
+
       a {
         @include u-text("primary-darker");
         @include u-text("no-underline");
       }
     }
+
     h2 {
       @include u-font("sans", "lg");
       @include u-text("heavy");
+
       a {
         @include u-text("primary-darker");
         @include u-text("no-underline");
       }
     }
+
     .deck {
       @include u-margin(0);
       @include u-margin-top("05");
