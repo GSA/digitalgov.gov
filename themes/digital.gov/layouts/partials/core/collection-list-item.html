@@ -1,32 +1,117 @@
-{{- $href := .href -}}
-{{- $src := .src -}}
+{{/* check the variant
+  $href
+  $src
+  $variant: default, media, headings, calendar
+
+  $meta_source is the referring source link for headings variant
+*/}}
+{{ $variant := .variant }}
+{{ $meta_source := .meta_source }}
+{{ $href := .href }}
+{{ $src := .src }}
+
 {{- with .item -}}
   {{ $path := "" }}{{ with .File }}
     {{ $path = .Path }}
   {{ else }}
     {{ $path = .Path }}
   {{ end }}
-  <li class="usa-collection__item" data-edit-this="{{- $path -}}">
-    {{- partial "partials/core/collection-icon" (dict "item" . "src" $src "href" $href) -}}
 
-
-    <div class="usa-collection__body">
-      <h3 class="usa-collection__heading">
-        <a
-          class="usa-link"
-          href="{{- $href -}}"
-          title="{{- .Title | markdownify -}}"
+  {{ if eq $variant "default" }}
+    <li class="usa-collection__item">
+      <div class="usa-collection__body">
+        <h3 class="usa-collection__heading">
+          <a
+            class="usa-link"
+            href="{{- $href -}}"
+            title="{{- .Title | markdownify -}}"
+          >
+            {{- .Title | markdownify -}}
+          </a>
+        </h3>
+        <p class="usa-collection__description">
+          {{- if .Params.summary -}}
+            {{- .Params.summary | markdownify | truncate 140 -}}
+          {{- else -}}
+            {{- .Params.deck | markdownify -}}
+          {{- end -}}
+        </p>
+      </div>
+    </li>
+  {{ else if eq $variant "media" }}
+    <li class="usa-collection__item" data-edit-this="{{- $path -}}">
+      {{- partial "partials/core/collection-icon" (dict "item" . "src" $src) -}}
+      <div class="usa-collection__body">
+        <h3 class="usa-collection__heading">
+          <a
+            class="usa-link"
+            href="{{- $href -}}"
+            title="{{- .Title | markdownify -}}"
+          >
+            {{- .Title | markdownify -}}
+          </a>
+        </h3>
+        <p class="usa-collection__description">
+          {{- if .Params.summary -}}
+            {{- .Params.summary | markdownify | truncate 140 -}}
+          {{- else -}}
+            {{- .Params.deck | markdownify -}}
+          {{- end -}}
+        </p>
+      </div>
+    </li>
+  {{ else if eq $variant "headings" }}
+    <li class="usa-collection__item">
+      <div class="usa-collection__body">
+        <h3 class="usa-collection__heading">
+          <a
+            class="usa-link"
+            href="{{- $href -}}"
+            title="{{- .Title | markdownify -}}"
+          >
+            {{- .Title | markdownify -}}
+          </a>
+        </h3>
+        <ul class="usa-collection__meta" aria-label="More information">
+          <li class="usa-collection__meta-item position-relative">
+            <svg
+              class="usa-icon position-relative bottom-neg-2px"
+              aria-hidden="true"
+              role="img"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
+              ></use>
+            </svg>
+            {{ $meta_source }}
+          </li>
+        </ul>
+      </div>
+    </li>
+  {{ else if eq $variant "calendar" }}
+    <li class="usa-collection__item">
+      <div class="usa-collection__calendar-date">
+        <time datetime="2020-09-30T12:00:00+01:00"
+          ><span class="usa-collection__calendar-date-month">SEP</span>
+          <span class="usa-collection__calendar-date-day">30</span></time
         >
-          {{- .Title | markdownify -}}
-        </a>
-      </h3>
-      <p class="usa-collection__description">
-        {{- if .Params.summary -}}
-          {{- .Params.summary | markdownify | truncate 140 -}}
-        {{- else -}}
-          {{- .Params.deck | markdownify -}}
-        {{- end -}}
-      </p>
-    </div>
-  </li>
+      </div>
+      <div class="usa-collection__body">
+        <h3 class="usa-collection__heading">
+          <a
+            class="usa-link"
+            href="https://trumpadministration.archives.performance.gov/presidents-winners-press-release/"
+            >Gears of Government President’s Award winners</a
+          >
+        </h3>
+        <p class="usa-collection__description">
+          {{- if .Params.summary -}}
+            {{- .Params.summary | markdownify | truncate 140 -}}
+          {{- else -}}
+            {{- .Params.deck | markdownify -}}
+          {{- end -}}
+        </p>
+      </div>
+    </li>
+  {{ end }}
 {{- end -}}

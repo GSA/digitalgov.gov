@@ -1,0 +1,57 @@
+{{/* https://designsystem.digital.gov/components/collection/
+
+  list
+  limit
+  href
+  src
+  variant type maps to uswds variants
+
+
+  check if list has items
+  fetch agency logo
+  check in content/sources for matching source_url
+  check google external logo logo if matching source
+  else display digital gov logo
+  pass list, href and source into collection-list-item
+
+
+  Refactor range to
+*/}}
+
+{{ $list := .list }}
+{{ $limit := or .limit 10 }}
+{{ $href := "" }}
+{{ $src := "" }}
+{{ $variant := .variant }}
+{{/* default, media, headings */}}
+{{ $meta_source := .meta_source }}
+
+
+<ul class="usa-collection">
+  {{ if $list }}
+    {{ range first $limit $list }}
+      {{/* .source_url is a url for looking up the logo */}}
+      {{ if .Params.source_url }}
+        {{ $src = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
+      {{ end }}
+
+      {{/* Is the link external, look up in sources for a logo, provide a sample value expected "uswds" => "/logos/uswds-icon.png" */}}
+      {{ if .Params.source }}
+        {{ $source := .Site.GetPage (print "source_" .Params.source ) }}
+        {{ if $source.Params.logo }}
+          {{ $src = (printf "/logos/%s%s" $source.Params.logo "-icon.png") }}
+        {{ end }}
+      {{ end }}
+
+      {{/* double check logic for $href */}}
+      {{ if eq .Params.source_url .Params.source }}
+        {{ $src = (print "/img/digit-50.png") }}
+        {{ $href = (print .Permalink "?dg") }}
+      {{ end }}
+
+      {{ partial "partials/core/collection-list-item" (dict "item" . "href" $href "src" $src "variant" $variant "meta_source" .Params.source) }}
+    {{ end }}
+  {{ else }}
+    {{ .Inner }}
+  {{ end }}
+</ul>
