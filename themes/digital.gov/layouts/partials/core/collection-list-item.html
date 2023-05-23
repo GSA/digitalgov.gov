@@ -88,30 +88,5 @@
         </ul>
       </div>
     </li>
-  {{ else if eq $variant "calendar" }}
-    <li class="usa-collection__item">
-      <div class="usa-collection__calendar-date">
-        <time datetime="2020-09-30T12:00:00+01:00"
-          ><span class="usa-collection__calendar-date-month">SEP</span>
-          <span class="usa-collection__calendar-date-day">30</span></time
-        >
-      </div>
-      <div class="usa-collection__body">
-        <h3 class="usa-collection__heading">
-          <a
-            class="usa-link"
-            href="https://trumpadministration.archives.performance.gov/presidents-winners-press-release/"
-            >Gears of Government President’s Award winners</a
-          >
-        </h3>
-        <p class="usa-collection__description">
-          {{- if .Params.summary -}}
-            {{- .Params.summary | markdownify | truncate 140 -}}
-          {{- else -}}
-            {{- .Params.deck | markdownify -}}
-          {{- end -}}
-        </p>
-      </div>
-    </li>
   {{ end }}
 {{- end -}}

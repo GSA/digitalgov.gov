@@ -6,35 +6,57 @@
   @link set to false, make h2 a link to something
   @limit set a limit to the number of items displayed
   @variant uswds collection variant type
+
+  header_title
+  header_size
+  header_link url 
+  header_id is the relative permalink paths ("v21st-century-idea")
 */}}
 {{ $list := .list }}
-{{ $heading := .heading }}
+{{ $header_title := .header_title }}
 {{ $header_size := .header_size }}
-{{ $topic_link := .topic_link }}
-{{ $id := .id }}
+{{ $header_link := .header_link }}
+{{ $header_id := .header_id }}
+
+{{ $footer_text := .footer_text }}
 {{ $variant := .variant }}
 {{ $limit := or .limit 10 }}
-{{/* use value passed in or default to 10 items, use count or length instead of limit */}}
 {{ $meta_source := .meta_source }}
+
+{{/* Remove from this partial?  */}}
 {{ $href := "" }}
 {{ $src := "" }}
 
 {{/* If there are any items in the array at all... */}}
 {{ if $list }}
   <div class="dg-collection">
-    {{/* Checks if there a heading is set in the partial */}}
+    <div class="grid-row">
+      <div class="grid-col-12 tablet-lg:grid-col-10">
+      {{/* Checks if there a heading is set in the partial */}}
+      {{ if $header_title }}
+        {{ partial "partials/core/collection-header" (dict "header_title" $header_title "header_size" $header_size "header_link" $header_link "header_id" $header_id) }}
+      {{ end }}
+      {{ partial "partials/core/collection-uswds" (dict "list" $list "limit" $limit "href" $href "src" $src "variant" $variant) }}
+      </div>
+    </div>
 
-    {{ if $heading }}
-      <h3 id="{{ $id }}" class="dg-collection__heading">
-        <a href="{{ $topic_link }}">
-          {{- $heading -}}
-        </a>
-      </h3>
+    {{ if $footer_text }}
+      <footer class="dg-collection__footer">
+        <p class="more">
+          <a href="{{- $header_link -}}">
+            <span>More on {{ $footer_text }}</span>
+            <svg
+              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+              ></use>
+            </svg>
+          </a>
+        </p>
+      </footer>
     {{ end }}
-
-    {{/* wrapper div/section dg-collection__body */}}
-    {{ partial "partials/core/collection-uswds" (dict "list" $list "limit" $limit "href" $href "src" $src "variant" $variant) }}
-
-    {{/* Move footer here ? */}}
   </div>
 {{ end }}

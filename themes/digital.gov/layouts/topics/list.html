@@ -17,8 +17,6 @@
           <header class="page-header">
             <h1>{{- .Title -}}</h1>
             {{- $allpages := (where .Pages "Section" "news") -}}
-
-
             <p class="deck">{{- .Params.summary -}}</p>
           </header>
         </div>
@@ -44,15 +42,15 @@
 
               {{/* Gets the resource .Pages associated with this topic */}}
               {{- $resources := (where .Pages "Section" "resources") -}}
-              {{- partial "core/collection.html" (dict "list" $resources "heading" (print "Resources on " .Title) "variant" "media") -}}
+              {{- partial "core/collection.html" (dict "list" $resources "header_title" (print "Resources on " .Title) "header_size" 3 "variant" "media") -}}
 
               {{/* Gets the services .Pages associated with this topic */}}
               {{- $services := (where .Pages "Section" "services") -}}
-              {{- partial "core/collection.html" (dict "list" $services "heading" "Tools and Services" "variant" "media") -}}
+              {{- partial "core/collection.html" (dict "list" $services "header_title" "Tools and Services" "header_size" 3 "variant" "media") -}}
 
               {{/* Gets the communities .Pages associated with this topic */}}
               {{- $communities := (where .Pages "Section" "communities") -}}
-              {{- partial "core/collection.html" (dict "list" $communities "heading" "Join a Community of Practice" "variant" "media") -}}
+              {{- partial "core/collection.html" (dict "list" $communities "header_title" "Join a Community of Practice" "header_size" 3 "variant" "media") -}}
 
             {{- end -}}
 

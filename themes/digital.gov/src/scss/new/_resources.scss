@@ -26,24 +26,21 @@
   }
 
   h3 {
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-top: 0;
-    padding-bottom: 0;
+    // margin-top: 0;
+    // margin-bottom: 0;
+    // padding-top: 0;
+    // padding-bottom: 0;
 
-    a {
-      color: black;
-      text-decoration: none;
+    // a {
+    //   color: black;
+    //   text-decoration: none;
 
-      &:hover {
-        text-decoration: underline;
-      }
-    }
+    //   &:hover {
+    //     text-decoration: underline;
+    //   }
+    // }
   }
 
-  footer {
-    padding-bottom: 1.5rem;
-  }
   // .topic-section{
   //   @include u-margin-top(0);
   //   @include u-border-top(0);

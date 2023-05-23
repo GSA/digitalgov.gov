@@ -49,7 +49,7 @@
         {{ $href = (print .Permalink "?dg") }}
       {{ end }}
 
-      {{ partial "partials/core/collection-list-item" (dict "item" . "href" $href "src" $src "variant" $variant "meta_source" .Params.source) }}
+      {{- partial "partials/core/collection-list-item" (dict "item" . "href" $href "src" $src "variant" $variant "meta_source" .Params.source) -}}
     {{ end }}
   {{ else }}
     {{ .Inner }}

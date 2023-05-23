@@ -71,31 +71,9 @@
 
                   {{/* If there are resources... */}}
                   {{- if $resources_by_topic -}}
-                    <div class="">
-                      <div class="grid-row">
-                        <div class="grid-col-12 tablet-lg:grid-col-10">
-                          {{ $id := path.Base .RelPermalink }}
-                          {{- partial "core/collection.html" (dict "list" $resources_by_topic "limit" 10 "heading" .Title "topic_link" .Permalink "id" $id "variant" "media") -}}
-                        </div>
-                      </div>
-                      {{/* Move footer to dg-collection component? */}}
-                      <footer>
-                        <p class="more">
-                          <a href="{{- .Permalink -}}">
-                            <span>More on {{ .Title -}}</span>
-                            <svg
-                              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
-                              aria-hidden="true"
-                              focusable="false"
-                            >
-                              <use
-                                xlink:href="{{ " uswds/img/sprite.svg#arrow_forward" | relURL }}"
-                              ></use>
-                            </svg>
-                          </a>
-                        </p>
-                      </footer>
-                    </div>
+                    {{ $header_id := path.Base .RelPermalink }}
+                    {{ print "%#v" $header_id }}
+                    {{- partial "core/collection.html" (dict "list" $resources_by_topic "limit" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media") -}}
                   {{- end -}}
                 {{ end }}
               {{ end }}

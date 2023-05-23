@@ -1,0 +1,37 @@
+{{/*
+    - id is a relative path to the link
+    - topic_link path to topic link, including make header a link, not including will display just a header
+    - header_title title text for the header
+    - header_size choose header size [2, 3, 4]
+
+
+*/}}
+
+{{ $header_id := .header_id }}
+{{ $header_link := .header_link }}
+{{ $header_title := .header_title }}
+{{ $header_size := .header_size }}
+
+{{ if eq $header_size 2 }}
+  <h2 id="{{- $header_id -}}" class="dg-collection__heading">
+    {{- template "link" dict "header_title" $header_title "header_link" $header_link -}}
+  </h2>
+{{ else if eq $header_size 3 }}
+  <h3 id="{{- $header_id -}}" class="dg-collection__heading">
+    {{- template "link" dict "header_title" $header_title "header_link" $header_link -}}
+  </h3>
+{{ else if eq $header_size 4 }}
+  <h4 id="{{- $header_id -}}" class="dg-collection__heading">
+    {{- template "link" dict "header_title" $header_title "header_link" $header_link -}}
+  </h4>
+{{ end }}
+
+{{- define "link" -}}
+  {{ if .header_link }}
+    <a href="{{- .header_link -}}">
+      {{- .header_title -}}
+    </a>
+  {{ else }}
+    {{- .header_title -}}
+  {{ end }}
+{{- end -}}
