@@ -12,23 +12,19 @@
   header_link url 
   header_id is the relative permalink paths ("v21st-century-idea")
 */}}
-{{ $list := .list }}
+{{ $data := .data }}
+{{ $variant := .variant }}
+{{ $length := or .limit 10 }}
 {{ $header_title := .header_title }}
 {{ $header_size := .header_size }}
 {{ $header_link := .header_link }}
 {{ $header_id := .header_id }}
-
+{{ $list_header := .list_header }}
 {{ $footer_text := .footer_text }}
-{{ $variant := .variant }}
-{{ $limit := or .limit 10 }}
 {{ $meta_source := .meta_source }}
 
-{{/* Remove from this partial?  */}}
-{{ $href := "" }}
-{{ $src := "" }}
-
 {{/* If there are any items in the array at all... */}}
-{{ if $list }}
+{{ if $data }}
   <div class="dg-collection">
     <div class="grid-row">
       <div class="grid-col-12 tablet-lg:grid-col-10">
@@ -36,7 +32,7 @@
       {{ if $header_title }}
         {{ partial "partials/core/collection-header" (dict "header_title" $header_title "header_size" $header_size "header_link" $header_link "header_id" $header_id) }}
       {{ end }}
-      {{ partial "partials/core/collection-uswds" (dict "list" $list "limit" $limit "href" $href "src" $src "variant" $variant) }}
+      {{ partial "partials/core/collection-uswds" (dict "data" $data "length" $length "variant" $variant "list_header" $list_header) }}
       </div>
     </div>
 

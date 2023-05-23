@@ -5,16 +5,16 @@
   @include u-padding-y(1);
   // @include u-border-top('1px', 'gray-cool-40', 'solid');
 
-  h3 {
-    a {
-      color: black;
-      text-decoration: none;
+  // h3 {
+  //   a {
+  //     color: black;
+  //     text-decoration: none;
 
-      &:hover {
-        text-decoration: underline; 
-      }
-    }
-  }
+  //     &:hover {
+  //       text-decoration: underline; 
+  //     }
+  //   }
+  // }
 }
 
 // Placeholder component to preserve current styles for future work
@@ -124,11 +124,15 @@
     padding-top: 0rem;
   }
 
-  &__heading {
+  &__header {
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 0;
     padding-bottom: 0;
+
+    h2, h3, h4 {
+      margin: 0;
+    }
 
     a {
       color: black;
@@ -151,13 +155,13 @@
   font-size: 1rem;
 
   .icon {
-    @include u-margin-top("1px");
+    @include u-margin-top("2px");
     @include u-margin-right(1);
     img {
       @include u-width(2);
       @include u-maxw(2);
       @include u-position("relative");
-      @include u-top("1px");
+      @include u-top("2px");
     }
   }
 
@@ -165,8 +169,19 @@
     padding-top: 0;
   }
 
-  a {
-    @include u-color("blue-warm-60v");
-    text-decoration: none;
+
+  h2, h3, h4 {
+    margin: 0;
+  }
+
+  &__header {
+    a {
+      @include u-color("blue-warm-60v");
+      text-decoration: none;
+  
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 }

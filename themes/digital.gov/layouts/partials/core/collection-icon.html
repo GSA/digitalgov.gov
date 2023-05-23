@@ -1,11 +1,11 @@
 {{/*  */}}
 
-{{ $src := .src }}
+{{ $logo_source := .logo_source }}
 {{- with .item -}}
   <div class="icon">
     <img
       class="usa-collection__img"
-      src="{{ $src | relURL }}"
+      src="{{ $logo_source | relURL }}"
       alt=""
       aria-hidden="true"
     />

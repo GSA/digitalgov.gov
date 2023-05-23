@@ -1,14 +1,22 @@
-{{/* check the variant
-  $href
-  $src
-  $variant: default, media, headings, calendar
+{{/*
 
-  $meta_source is the referring source link for headings variant
+  Collection List Item
+  Returns a list item variant for USWDS Collection
+
+  $href: collection header link
+  $logo_source: logo path or url
+  $variant: default, media, headings, calendar
+  $meta_source: is the referring source link for headings variant
+  $list_header: accepts a header value
+    3 = h3
+    4 = h4
+
 */}}
 {{ $variant := .variant }}
 {{ $meta_source := .meta_source }}
 {{ $href := .href }}
-{{ $src := .src }}
+{{ $logo_source := .logo_source }}
+{{ $list_header := .list_header }}
 
 {{- with .item -}}
   {{ $path := "" }}{{ with .File }}
@@ -20,58 +28,22 @@
   {{ if eq $variant "default" }}
     <li class="usa-collection__item">
       <div class="usa-collection__body">
-        <h3 class="usa-collection__heading">
-          <a
-            class="usa-link"
-            href="{{- $href -}}"
-            title="{{- .Title | markdownify -}}"
-          >
-            {{- .Title | markdownify -}}
-          </a>
-        </h3>
-        <p class="usa-collection__description">
-          {{- if .Params.summary -}}
-            {{- .Params.summary | markdownify | truncate 140 -}}
-          {{- else -}}
-            {{- .Params.deck | markdownify -}}
-          {{- end -}}
-        </p>
+        {{- template "list-item-header" dict "title" .Title "href" $href "list_header" $list_header -}}
+        {{- template "list-item-description" dict "summary" .Params.summary "deck" .Params.deck -}}
       </div>
     </li>
   {{ else if eq $variant "media" }}
     <li class="usa-collection__item" data-edit-this="{{- $path -}}">
-      {{- partial "partials/core/collection-icon" (dict "item" . "src" $src) -}}
+      {{- partial "partials/core/collection-icon" (dict "item" . "logo_source" $logo_source) -}}
       <div class="usa-collection__body">
-        <h3 class="usa-collection__heading">
-          <a
-            class="usa-link"
-            href="{{- $href -}}"
-            title="{{- .Title | markdownify -}}"
-          >
-            {{- .Title | markdownify -}}
-          </a>
-        </h3>
-        <p class="usa-collection__description">
-          {{- if .Params.summary -}}
-            {{- .Params.summary | markdownify | truncate 140 -}}
-          {{- else -}}
-            {{- .Params.deck | markdownify -}}
-          {{- end -}}
-        </p>
+        {{- template "list-item-header" dict "title" .Title "href" $href "list_header" $list_header -}}
+        {{- template "list-item-description" dict "summary" .Params.summary "deck" .Params.deck -}}
       </div>
     </li>
   {{ else if eq $variant "headings" }}
     <li class="usa-collection__item">
       <div class="usa-collection__body">
-        <h3 class="usa-collection__heading">
-          <a
-            class="usa-link"
-            href="{{- $href -}}"
-            title="{{- .Title | markdownify -}}"
-          >
-            {{- .Title | markdownify -}}
-          </a>
-        </h3>
+        {{- template "list-item-header" dict "title" .Title "href" $href "list_header" $list_header -}}
         <ul class="usa-collection__meta" aria-label="More information">
           <li class="usa-collection__meta-item position-relative">
             <svg
@@ -89,4 +61,40 @@
       </div>
     </li>
   {{ end }}
+{{- end -}}
+
+
+{{- define "list-item-header" -}}
+  {{ if eq .list_header 3}}
+    <h3 class="usa-collection__header">
+      <a
+        class="usa-link"
+        href="{{- .href -}}"
+        title="{{- .title | markdownify -}}"
+      >
+        {{- .title | markdownify -}}
+      </a>
+    </h3>
+  {{ else if eq .list_header 4}}
+    <h4 class="usa-collection__header">
+      <a
+        class="usa-link"
+        href="{{- .href -}}"
+        title="{{- .title | markdownify -}}"
+      >
+        {{- .title | markdownify -}}
+      </a>
+    </h4>
+  {{ end }}
+{{- end -}}
+
+
+{{- define "list-item-description" -}}
+  <p class="usa-collection__description">
+    {{- if .summary -}}
+      {{- .summary | markdownify | truncate 140 -}}
+    {{- else -}}
+      {{- .deck | markdownify -}}
+    {{- end -}}
+  </p>
 {{- end -}}
