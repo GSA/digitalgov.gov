@@ -12,7 +12,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - kenneth-myers
-  - hunter-jones
+  - tyler-jones
 
 slug: digital-autopen-playbook-pinpoints-how-agencies-can-leverage-technology-for-digital-signatures
 primary_image: "ficam-digital-autopen-playbook-website"
@@ -32,7 +32,7 @@ Many federal web managers have a role in submitting documents to the [Office of 
 
 Thankfully, the days of being forced to wait for an authorizing sponsor to return from a conference or vacation — where they can’t access the technology to use a federal identification card for their signature — are gone. Now when that sponsor is unavailable, they may authorize the use of a \`digital autopen\` to add their digital signature to a Federal Register document. Digital signatures ensure that signatures are verified, authentic, and legitimate, and a digital autopen allows authorized individuals to ensure better workflow efficiency and timely submission to the Federal Register.
 
-{{< img src="cio-council-logo-comp" >}}
+{{< img-right src="cio-council-logo-comp" >}}
 
 The [Identity, Credential, and Access Management Subcommittee](https://www.idmanagement.gov/governance/ficam/#identity-credential-and-access-management-subcommittee) created the [Digital Autopen Playbook](https://playbooks.idmanagement.gov/playbooks/autopen/) as a practical guide to help federal agencies create and use a digital autopen for Federal Register documents. It outlines controls around the digital autopen certificate to meet the Office of the Federal Register’s digital signature requirements for Federal Register documents and cybersecurity.
 
