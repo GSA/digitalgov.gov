@@ -10,11 +10,12 @@ summary: A report by the Select Committee on Artificial Intelligence of the
   National Science and Technology Council (PDF, 861 KB, 56 pages, May 2023)
 # See all topics at https://digital.gov/topics
 topics:
-  - ai
+  - artificial-intelligence
 slug: national-artificial-intelligence-research-and-development-strategic-plan-2023-update
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
