@@ -1,6 +1,6 @@
 ---
 date: 2023-05-23 15:48:00 -0500
-kicker: kicker
+kicker: 
 title: Digital Autopen Playbook pinpoints how agencies can leverage technology for digital signatures
 deck: How to create and use a digital autopen for Federal Register documents
 summary: The Digital Autopen Playbook is a practical guide to help federal agencies create and use a digital autopen for Federal Register documents.
