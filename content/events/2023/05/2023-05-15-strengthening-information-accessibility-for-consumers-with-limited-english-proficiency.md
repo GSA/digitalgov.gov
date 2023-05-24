@@ -30,7 +30,7 @@ slug: strengthening-information-accessibility-for-consumers-with-limited-english
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
-primary_image: "2023-05-24-strengthening-information-accessibility-title-card"
+primary_image: "cfpb-lep-may-2023-title-card"
 
 ---
 
