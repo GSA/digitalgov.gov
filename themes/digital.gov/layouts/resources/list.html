@@ -72,7 +72,7 @@
                   {{/* If there are resources... */}}
                   {{- if $resources_by_topic -}}
                     {{ $header_id := path.Base .RelPermalink }}
-                    {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
+                    {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 4) -}}
                   {{- end -}}
                 {{ end }}
               {{ end }}

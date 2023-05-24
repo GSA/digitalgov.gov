@@ -18,7 +18,6 @@ primary_image: "uswds-interfaces-dark-1200x630"
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
-
 ---
 
 ## What is a design system?
@@ -28,7 +27,11 @@ A design system is a pre-built set of visual styles, features, and functions for
 ## Why use a design system?
 
 {{< collection >}}
-  Some content goes here
+Some content goes here
+
+{{< box >}}
+box content goes in herer
+{{< /box >}}
 {{< /collection >}}
 
 There are a lot of good reasons to use a design system. Many organizations use them to unify different brands with distinct but unified aesthetics. Using a design system can take the guesswork out of making your site:

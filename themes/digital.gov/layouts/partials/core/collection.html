@@ -1,16 +1,25 @@
-{{/* Gets the full array of items passed into the partial
+{{/* Collection Component
 
-  @list list of elements, can be single?
-  @href link to resource — "//localhost:1313/resources/how-test-websites-for-accessibility/?dg"
-  @src set true to display images —
-  @link set to false, make h2 a link to something
-  @limit set a limit to the number of items displayed
-  @variant uswds collection variant type
+  Wrapper component around uswds-collection that returns a collection of links built from a list of resources
 
-  header_title
-  header_size
-  header_link url 
-  header_id is the relative permalink paths ("v21st-century-idea")
+  @data {object} list of pages or links that have a header title, description, link
+  internal: "/resources/how-test-websites-for-accessibility/?dg"
+  external: "https://designsystem.digital.gov/maturity-model/"
+  @length {number} sets a limit on the number of items to display
+  @variant {string} sets the variant to render for the collection-list-item — "default" "media" "headings"
+  @header_title {string} header title that will be a link
+  @header_size {number} header size (2, 3, 4) will map to (h2, h3, h4)
+  @header_link {relative url} accepts a local path "/topics/accessibility/"
+  @header_id {string} is the relative permalink paths ("v21st-century-idea") to set an id on the header
+  @list_header {number} sets the header value for each list item (h3,h4). Accepts a value of 3 or 4
+  @footer_text {string} accepts a short string description at the footer to link to other resources or page
+  @meta_source {string} the referring source for a link, use .Params.source if using hugo objects. Returns "Performance.gov"
+
+  @example
+
+  {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3)
+-}}
+
 */}}
 {{ $data := .data }}
 {{ $variant := .variant }}
@@ -23,16 +32,14 @@
 {{ $footer_text := .footer_text }}
 {{ $meta_source := .meta_source }}
 
-{{/* If there are any items in the array at all... */}}
 {{ if $data }}
   <div class="dg-collection">
     <div class="grid-row">
       <div class="grid-col-12 tablet-lg:grid-col-10">
-      {{/* Checks if there a heading is set in the partial */}}
-      {{ if $header_title }}
-        {{ partial "partials/core/collection-header" (dict "header_title" $header_title "header_size" $header_size "header_link" $header_link "header_id" $header_id) }}
-      {{ end }}
-      {{ partial "partials/core/collection-uswds" (dict "data" $data "length" $length "variant" $variant "list_header" $list_header) }}
+        {{ if $header_title }}
+          {{ partial "partials/core/collection-header" (dict "header_title" $header_title "header_size" $header_size "header_link" $header_link "header_id" $header_id) }}
+        {{ end }}
+        {{ partial "partials/core/collection-uswds" (dict "data" $data "length" $length "variant" $variant "list_header" $list_header "meta_source" $meta_source) }}
       </div>
     </div>
 
@@ -55,4 +62,10 @@
       </footer>
     {{ end }}
   </div>
+{{ else }}
+  {{ if .Inner }}
+    <p>
+      {{ .Inner | markdownify }}
+    </p>
+  {{ end }}
 {{ end }}

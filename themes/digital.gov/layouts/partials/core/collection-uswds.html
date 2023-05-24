@@ -1,16 +1,10 @@
-{{/*
-
-
-  USWDS Collection Component — https://designsystem.digital.gov/components/collection/
+{{/* USWDS Collection Component — https://designsystem.digital.gov/components/collection/
   Renders a USWDS unordered list wrapped around dg-collection component
 
-  $data
-  $length
-  $href
-  $log_source
-  $variant type maps to uswds variants
-  $meta_source, for the headings only variant
 
+  @see see collection.html for description of other variables
+  @href {string|url} accepts a string path to resource, can be internal or external
+  @logo_source {string} path to agency logo, can be internal or external. Value is calculated on the front matter fields to lookup logo
 */}}
 
 {{ $data := .data }}
@@ -21,38 +15,36 @@
 {{ $meta_source := .meta_source }}
 {{ $list_header := .list_header }}
 
+
 <ul class="usa-collection">
   {{ if $data }}
     {{ range first $length $data }}
-
-      {{/*
-        check .Params.source_url first to get hi quality icon, then .Params.source for local backup icon  
+      {{/* check .Params.source first to get hi quality icon from "static/img/*.png", then .Params.source_url for favicon backup
         if neither exist, then use default digital.gov logo
       */}}
-
-      {{/*  $logo_source returns a url: https://www.google.com/s2/favicons?domain=https://designsystem.digital.gov/maturity-model/  */}}
-      {{ if .Params.source_url }}
-        {{ $logo_source = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
-        {{ $href = .Params.source_url}}
-      {{ end }}
-
-      {{/* Is the link external, look up in sources for a logo, provide a sample value expected "uswds" => "/logos/uswds-icon.png" */}}
       {{ if .Params.source }}
         {{ $source := .Site.GetPage (print "source_" .Params.source ) }}
         {{ if $source.Params.logo }}
           {{ $logo_source = (printf "/logos/%s%s" $source.Params.logo "-icon.png") }}
         {{ end }}
-      {{ end }}
-
-      {{/* will catch if both are empty, then display default digital.gov logo for link — /img/digit-50.png */}}
-      {{ if eq .Params.source_url .Params.source }}
+      {{ else if .Params.source_url }}
+        {{ $logo_source = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
+        {{ $href = .Params.source_url }}
+      {{ else }}
         {{ $logo_source = (print "/img/digit-50.png") }}
         {{ $href = (print .Permalink "?dg") }}
       {{ end }}
 
-      {{- partial "partials/core/collection-list-item" (dict "item" . "href" $href "logo_source" $logo_source "variant" $variant "meta_source" .Params.source "list_header" $list_header) -}}
+      {{/* If using "headings" variant and no meta_source is present, use a placholder value */}}
+      {{ if not $meta_source }}
+        {{ $meta_source = or .Params.source_url .Params.source }}
+      {{ end }}
+
+      {{/* If image exists, then display as list item */}}
+      {{ if $logo_source }}
+        {{- partial "partials/core/collection-list-item" (dict "item" . "href" $href "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header) -}}
+      {{ end }}
+
     {{ end }}
-  {{ else }}
-    {{ .Inner }}
   {{ end }}
 </ul>

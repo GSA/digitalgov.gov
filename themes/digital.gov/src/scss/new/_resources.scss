@@ -17,56 +17,6 @@
 #resources_by_topic {
   @include u-bg("white");
   @include u-padding-top(1);
-  h2 {
-    @include u-margin-bottom(2);
-    @include u-padding-top(5);
-    @include u-text("semibold");
-    @include u-font("sans", "sm");
-    @include u-border-top("1px", "base-light", "solid");
-  }
-
-  h3 {
-    // margin-top: 0;
-    // margin-bottom: 0;
-    // padding-top: 0;
-    // padding-bottom: 0;
-
-    // a {
-    //   color: black;
-    //   text-decoration: none;
-
-    //   &:hover {
-    //     text-decoration: underline;
-    //   }
-    // }
-  }
-
-  // .topic-section{
-  //   @include u-margin-top(0);
-  //   @include u-border-top(0);
-
-  //   h3{
-  //     @include u-margin-top(0);
-  //     @include u-margin-bottom(0);
-  //     // @include u-padding-top(1);
-  //     @include u-padding-bottom('105');
-  //     // @include u-font('sans', 'lg');
-  //     // @include u-text('semibold');
-  //     @include u-position('sticky');
-  //     a{
-  //      @include u-text('no-underline');
-  //     //  @include u-color('blue-warm-60v');
-  //      color: black;
-  //       &:hover{
-  //         @include u-text('underline');
-  //       }
-  //     }
-  //   }
-  // }
-  // .topic-section ~ .topic-section{
-  //   @include u-margin-top(4);
-  //   @include u-border-top('1px', 'base-light', 'solid');
-  // }
 }
 
 .usa-prose table.resources__plain-language-table tr td {

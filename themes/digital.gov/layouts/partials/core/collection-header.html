@@ -7,9 +7,11 @@
   $header_link accepts a url if present will render a link within the header, otherwise just a plain header
   $header_title title text for the header
   $header_size choose header size
+    1 = h1
     2 = h2
     3 = h3
     4 = h4
+    5 = h5
 */}}
 
 {{ $header_id := .header_id }}
@@ -17,26 +19,13 @@
 {{ $header_title := .header_title }}
 {{ $header_size := .header_size }}
 
-{{ if eq $header_size 2 }}
-  <h2 id="{{- $header_id -}}" class="dg-collection__header">
-    {{- template "link" dict "header_title" $header_title "header_link" $header_link -}}
-  </h2>
-{{ else if eq $header_size 3 }}
-  <h3 id="{{- $header_id -}}" class="dg-collection__header">
-    {{- template "link" dict "header_title" $header_title "header_link" $header_link -}}
-  </h3>
-{{ else if eq $header_size 4 }}
-  <h4 id="{{- $header_id -}}" class="dg-collection__header">
-    {{- template "link" dict "header_title" $header_title "header_link" $header_link -}}
-  </h4>
-{{ end }}
-
-{{- define "link" -}}
-  {{ if .header_link }}
-    <a href="{{- .header_link -}}">
-      {{- .header_title -}}
+<!-- prettier-ignore -->
+<h{{- $header_size | safeHTML -}} class="dg-collection__header" {{ if $header_id }}id="{{- $header_id -}}"{{ end }}>
+  {{ if $header_link }}
+    <a href="{{- $header_link -}}">
+      {{- $header_title -}}
     </a>
   {{ else }}
-    {{- .header_title -}}
+    {{- $header_title -}}
   {{ end }}
-{{- end -}}
+</h{{- $header_size | safeHTML -}}>
