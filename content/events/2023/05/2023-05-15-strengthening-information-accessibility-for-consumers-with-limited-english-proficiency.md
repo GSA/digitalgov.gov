@@ -34,6 +34,8 @@ primary_image: "2023-05-24-strengthening-information-accessibility-title-card"
 
 ---
 
+{{< asset-static file="2023-05-24-strengthening-information-accessibility-slides.pptx" label="View the slides (PowerPoint presentation, 1.3 MB, 18 pages)" >}}
+
 Join us for a webinar with the Consumer Financial Protection Bureau (CFPB) team to discuss the new work they are doing to increase language access on ConsumerFinance.gov.
 
 Experiencing a financial challenge can be daunting, and it can be even more overwhelming when critical financial information is not in your primary language. Financial issues can have a significant impact on people's lives, and it is crucial to have access to information that can help them navigate these challenges effectively.
