@@ -3,11 +3,9 @@ date: 2023-05-23 18:25:00 -0500
 # Originally published at the following URL
 source_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf
 source: whitehouse
-title: National Artificial Intelligence Research and Development Strategic Plan
-  2023 Update
+title: National Artificial Intelligence Research and Development Strategic Plan (PDF, 861 KB, 56 pages) 2023 Update
 deck: ""
-summary: A report by the Select Committee on Artificial Intelligence of the
-  National Science and Technology Council (PDF, 861 KB, 56 pages, May 2023)
+summary: A report by the Select Committee on Artificial Intelligence of the National Science and Technology Council.
 # See all topics at https://digital.gov/topics
 topics:
   - artificial-intelligence
