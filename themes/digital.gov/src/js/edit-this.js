@@ -7,7 +7,7 @@ jQuery(($) => {
       // Disabling no-undef & camelcase because these are defined in templates.
       //
       // eslint-disable-next-line no-undef, camelcase
-      const editLink = `<a class="edit_this_btn" href="https://github.com/${git_org}/${git_repo}/edit/${branch}/content/${filepath}" title="edit this" target="_blank"><span>edit</span></a>`;
+      const editLink = `<a class="edit-this-btn" href="https://github.com/${git_org}/${git_repo}/edit/${branch}/content/${filepath}" title="edit this" target="_blank"><span>edit</span></a>`;
 
       $(this).addClass("edit-this").append(editLink);
     });
@@ -15,11 +15,11 @@ jQuery(($) => {
   function disableEditThis() {
     $("*[data-edit-this]").each(() => {
       $(this).removeClass("edit-this");
-      $(".edit_this_btn").remove();
+      $(".edit-this-btn").remove();
     });
   }
 
-  $(".edit_tools .edit-open").on("click", (e) => {
+  $(".edit-tools .edit-open").on("click", (e) => {
     e.preventDefault();
 
     const $editIcon = $(this).find("i");
@@ -27,16 +27,16 @@ jQuery(($) => {
     const editIconActiveClass = "fas fa-times";
 
     // If the editing tool is already active
-    if ($(".edit_tools").is(".active")) {
+    if ($(".edit-tools").is(".active")) {
       // runs a function that removes edit tools from each item on the page that is editable.
       disableEditThis();
       // remove the active class from the edit button
-      $(".edit_tools").removeClass("active");
+      $(".edit-tools").removeClass("active");
       // swap out the icon in the edit button
       $editIcon.addClass(editIconDefaultClass).removeClass(editIconActiveClass);
     } else {
       enableEditThis();
-      $(".edit_tools").addClass("active");
+      $(".edit-tools").addClass("active");
       $editIcon.addClass(editIconActiveClass).removeClass(editIconDefaultClass);
     }
   });
