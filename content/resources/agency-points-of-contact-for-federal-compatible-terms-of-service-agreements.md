@@ -1,5 +1,5 @@
 ---
-url: /resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/
+# url: /resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/
 date: 2014-01-08 10:49:03 -0400
 
 expirydate: "2023-05-18"
