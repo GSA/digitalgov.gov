@@ -3,16 +3,16 @@
   Wrapper component around uswds-collection that returns a collection of links built from a list of resources
 
   @data {object} list of pages or links that have a header, description, link
-    - header that can be a link or plain header text
-    - description
-    - link for internal and external pages
-        internal: "/resources/how-test-websites-for-accessibility/?dg"
-        external: "https://designsystem.digital.gov/maturity-model/"
-    - meta source is the source site for the link for the "headings" variant
+  - header that can be a link or plain header text
+  - description
+  - link for internal and external pages
+  internal: "/resources/how-test-websites-for-accessibility/?dg"
+  external: "https://designsystem.digital.gov/maturity-model/"
+  - meta source is the source site for the link for the "headings" variant
 
   @length {number} sets a limit on the number of items to display, defaults to 10 if not set
   @variant {string} sets the variant to render for the collection-list-item — "default" "media" "headings"
-    see https://designsystem.digital.gov/components/collection/ for variants
+  see https://designsystem.digital.gov/components/collection/ for variants
 
   @header_title {string} header title that will be a link
   @header_size {number} header size that accepts any number from 1-6
@@ -25,7 +25,8 @@
 
   @example
 
-  {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
+  {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3)
+-}}
 
 */}}
 {{ $data := .data }}
