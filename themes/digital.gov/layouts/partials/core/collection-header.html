@@ -1,17 +1,13 @@
 {{/*
 
   Collection Header
-  Return a h2, h3, h4 with an option to include a link, see "link" template at bottom
+  Returns a collection header with an option to wrap in a link
 
-  $header_id is the relative path to the file — "v21st-century-idea", accepts a string
-  $header_link accepts a url if present will render a link within the header, otherwise just a plain header
-  $header_title title text for the header
-  $header_size choose header size
-    1 = h1
-    2 = h2
-    3 = h3
-    4 = h4
-    5 = h5
+  @header_id {string} is the relative path to the file — "v21st-century-idea", accepts a string
+  @header_link {url} accepts a url if present will render a link within the header, otherwise just a plain header
+  @header_title {string} title text for the header
+  @header_size {number} choose header size from 1-6, defaults to 3 if value provided is greater than 6
+
 */}}
 
 {{ $header_id := .header_id }}
@@ -19,8 +15,13 @@
 {{ $header_title := .header_title }}
 {{ $header_size := .header_size }}
 
-<!-- prettier-ignore -->
-<h{{- $header_size | safeHTML -}} class="dg-collection__header" {{ if $header_id }}id="{{- $header_id -}}"{{ end }}>
+
+{{/*  If header size is greater than 6, default to h3  */}}
+{{ if gt $header_size 6 }}
+  {{ $header_size = 3 }}
+{{ end }}
+
+<h{{ $header_size | safeHTML }} class="dg-collection__header" {{ if $header_id }}id="{{- $header_id -}}"{{ end }}>
   {{ if $header_link }}
     <a href="{{- $header_link -}}">
       {{- $header_title -}}
@@ -28,4 +29,4 @@
   {{ else }}
     {{- $header_title -}}
   {{ end }}
-</h{{- $header_size | safeHTML -}}>
+</h{{ $header_size | safeHTML }}>

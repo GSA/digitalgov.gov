@@ -1,6 +1,0 @@
-{{/* Can we call partials/core/collection.html and pass shortcode variables into it? */}}
-{{ if .Inner }}
-  {{ $contents := .Inner | markdownify }}
-  {{ printf "%#v" $contents }}
-  {{ partial "partials/core/collection-uswds" (dict "variant" "media") }}
-{{ end }}

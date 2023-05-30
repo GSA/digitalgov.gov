@@ -2,23 +2,30 @@
 
   Wrapper component around uswds-collection that returns a collection of links built from a list of resources
 
-  @data {object} list of pages or links that have a header title, description, link
-  internal: "/resources/how-test-websites-for-accessibility/?dg"
-  external: "https://designsystem.digital.gov/maturity-model/"
-  @length {number} sets a limit on the number of items to display
+  @data {object} list of pages or links that have a header, description, link
+    - header that can be a link or plain header text
+    - description
+    - link for internal and external pages
+        internal: "/resources/how-test-websites-for-accessibility/?dg"
+        external: "https://designsystem.digital.gov/maturity-model/"
+    - meta source is the source site for the link for the "headings" variant
+
+  @length {number} sets a limit on the number of items to display, defaults to 10 if not set
   @variant {string} sets the variant to render for the collection-list-item — "default" "media" "headings"
+    see https://designsystem.digital.gov/components/collection/ for variants
+
   @header_title {string} header title that will be a link
-  @header_size {number} header size (2, 3, 4) will map to (h2, h3, h4)
-  @header_link {relative url} accepts a local path "/topics/accessibility/"
-  @header_id {string} is the relative permalink paths ("v21st-century-idea") to set an id on the header
-  @list_header {number} sets the header value for each list item (h3,h4). Accepts a value of 3 or 4
+  @header_size {number} header size that accepts any number from 1-6
+  @header_link {relative url} accepts a local hugo rel path "/topics/accessibility/"
+  @header_id {string} is the hyphenated file name ("v21st-century-idea") to set as a id on the header
+  @list_header {number} sets the header value for each list item (h3,h4). Accepts any number value
   @footer_text {string} accepts a short string description at the footer to link to other resources or page
-  @meta_source {string} the referring source for a link, use .Params.source if using hugo objects. Returns "Performance.gov"
+  @footer_text {string} accepts a link topic name — "Accessibility", "Writing", "Video"
+  @meta_source {string} the referring source for an external link, use .Params.source if using hugo objects
 
   @example
 
-  {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3)
--}}
+  {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
 
 */}}
 {{ $data := .data }}
@@ -62,10 +69,4 @@
       </footer>
     {{ end }}
   </div>
-{{ else }}
-  {{ if .Inner }}
-    <p>
-      {{ .Inner | markdownify }}
-    </p>
-  {{ end }}
 {{ end }}

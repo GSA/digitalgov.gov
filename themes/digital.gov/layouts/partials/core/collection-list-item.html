@@ -3,13 +3,8 @@
   Collection List Item
   Returns a list item variant for USWDS Collection
 
-  $href: collection header link
-  $logo_source: logo path or url
-  $variant: default, media, headings, calendar
-  $meta_source: is the referring source link for headings variant,
-  $list_header: accepts a header value
-    3 = h3
-    4 = h4
+  @see see collection.html for description of other variables
+  @link_external {boolean} apply usa-link--external class if url host is not www.digital.gov
 
 */}}
 {{ $variant := .variant }}
@@ -18,8 +13,6 @@
 {{ $link_external := false }}
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
-
-
 {{ $url := urls.Parse $href }}
 
 {{/*  Check if external link  */}}
@@ -40,7 +33,6 @@
       {{- partial "partials/core/collection-icon" (dict "item" . "logo_source" $logo_source) -}}
     {{ end }}
     <div class="usa-collection__body">
-      <!-- prettier-ignore -->
       <h{{ $list_header | safeHTML }} class="usa-collection__header">
         <a class="usa-link {{ if $link_external }}usa-link--external{{ end }}" href="{{- $href -}}" title="{{- .Title | markdownify -}}">
           {{- .Title | markdownify -}}

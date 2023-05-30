@@ -5,7 +5,7 @@
   @include u-padding-y(1);
 }
 
-// Placeholder component to preserve current styles for future work
+// Placeholder component to preserve current styles for future re-work
 // "Popular Guides and Resources" — https://digital.gov/ & https://digital.gov/resources
 .featured-collection {
   @include u-margin-bottom('105');
@@ -104,6 +104,7 @@
   }
 }
 
+// Wrapper component around .usa-collection
 .dg-collection {
   @include u-padding-top(7);
 
