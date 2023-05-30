@@ -1,51 +1,58 @@
 @use "uswds-core" as *;
 
-.asset-img{
-	@include u-margin-y(2);
-	@include u-padding(2);
-	@include u-bg('gray-5');
-	@include u-radius('sm');
-	p{
-		@include u-display('flex');
-		@include u-maxw('full');
-		@include u-font('sans', 'xs');
-		.ext{
-			@include u-margin-right(1);
-			@include u-padding-y(0);
-			@include u-padding-bottom('05');
-			@include u-padding-x('05');
-			@include u-border('1px','base-darkest', 'solid');
-			@include u-radius('sm');
-			@include u-line-height('sans', 2);
-		}
-		.download{
-			@include u-margin-left(3);
-			@include u-text('black');
-			@include u-text('semibold');
-			@include u-text('no-underline');
+.asset-img {
+  @include u-margin-y(2);
+  @include u-padding(2);
+  @include u-bg("gray-5");
+  @include u-radius("sm");
 
-			&:hover{
-				span{
-					@include u-border-bottom('1px','base-darkest', 'solid');
-				}
-			}
-		}
-	}
+  p {
+    @include u-display("flex");
+    @include u-maxw("full");
+    @include u-font("sans", "xs");
+
+    .ext {
+      @include u-margin-right(1);
+      @include u-padding-y(0);
+      @include u-padding-bottom("05");
+      @include u-padding-x("05");
+      @include u-border("1px", "base-darkest", "solid");
+      @include u-radius("sm");
+      @include u-line-height("sans", 2);
+    }
+
+    .download {
+      @include u-margin-left(3);
+      @include u-text("black");
+      @include u-text("semibold");
+      @include u-text("no-underline");
+
+      &:hover {
+        span {
+          @include u-border-bottom("1px", "base-darkest", "solid");
+        }
+      }
+    }
+  }
 }
-.asset-img.dark{
-	@include u-bg('gray-warm-90');
-	@include u-text('white');
-	p{
-		.ext{
-			@include u-border('1px','white', 'solid');
-		}
-		.download{
-			@include u-text('white');
-			&:hover{
-				span{
-					@include u-border-bottom('1px','white', 'solid');
-				}
-			}
-		}
-	}
+
+.asset-img.dark {
+  @include u-bg("gray-warm-90");
+  @include u-text("white");
+
+  p {
+    .ext {
+      @include u-border("1px", "white", "solid");
+    }
+
+    .download {
+      @include u-text("white");
+
+      &:hover {
+        span {
+          @include u-border-bottom("1px", "white", "solid");
+        }
+      }
+    }
+  }
 }

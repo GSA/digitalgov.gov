@@ -4,13 +4,15 @@
 
 #related_services {
   @include u-margin-bottom(5);
-	header{
-		@include u-margin(0);
-		h3{
-			@include u-margin(0);
+
+  header {
+    @include u-margin(0);
+
+    h3 {
+      @include u-margin(0);
       @include u-margin-bottom(2);
-      @include u-font('sans', 'sm');
-      @include u-text('bold');
-		}
-	}
+      @include u-font("sans", "sm");
+      @include u-text("bold");
+    }
+  }
 }

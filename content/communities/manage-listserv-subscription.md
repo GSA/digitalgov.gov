@@ -116,7 +116,7 @@ Words matter. Choose words that create a safe, inclusive, respectful, and welcom
   {{< /row >}}
 
   {{< row >}}
-    {{< do-row >}} Treat other people's identities and cultures with respect. Spell and say their name correctly and use their pronouns. {{< /do-row >}}
+    {{< do-row >}} Treat other people's identities and cultures with respect. Spell and say their name correctly and use their [pronouns](https://digital.gov/resources/an-introduction-to-pronouns/). {{< /do-row >}}
     {{< dont-row >}} Don’t make derogatory comments on race, color, sex, sexual orientation, gender identity, religion, national origin, age, disability, genetic information, marital status, parental status, political affiliation, or appearance. {{< /dont-row >}}
   {{< /row >}}
 

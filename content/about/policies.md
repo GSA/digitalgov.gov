@@ -40,7 +40,7 @@ Most material on DigitalGov is free of copyright and may be copied and distribut
 
 We sometimes use photos or graphics that we licensed or that are restricted. Check to see if there is a copyright or photo credit. **You need to request permission from the original source to use this material.**
 
-_[More about copyright and other rights pertaining to U.S. Government works](http://www.usa.gov/copyright.shtml)._
+*[More about copyright and other rights pertaining to U.S. Government works](https://www.usa.gov/copyrighted-government-works).*
 
 ## Citation Examples
 

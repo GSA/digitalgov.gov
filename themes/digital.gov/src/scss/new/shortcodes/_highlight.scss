@@ -1,7 +1,7 @@
 @use "uswds-core" as *;
 
-.highlight{
-	@include u-padding-y('1px');
-	@include u-padding-x('05');
-	@include u-bg('yellow-10v');
+.highlight {
+  @include u-padding-y("1px");
+  @include u-padding-x("05");
+  @include u-bg("yellow-10v");
 }

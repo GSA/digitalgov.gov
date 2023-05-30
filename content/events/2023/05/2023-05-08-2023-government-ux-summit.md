@@ -11,7 +11,7 @@ cop_events:
   - web-managers
 
 registration_url: https://gsa.zoomgov.com/webinar/register/WN_moRmnMLtQpmmrvtFgR6qiw
-captions: ""
+captions: "https://www.streamtext.net/player?event=BIS-GSA-5334455"
 
 date: 2023-06-14 10:00:00 -0500
 end_date: 2023-06-14 16:00:00 -0500
@@ -87,7 +87,7 @@ In this presentation, we will share actionable tips about managing project logis
 
 **Moderator**
 
-* **Natalie Buda Smith**—Community co-lead, User Experience community
+* **UX Community co-lead, Natalie Buda Smith**—Director of Digital Strategy, Library of Congress
 
 ---
 
@@ -114,6 +114,10 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 * **Jennifer Shelley**—Health Communications Strategist, Division of Communications, NIH
 * **Leslie Westendorf**—Contractor, UX Strategy, NIH
+
+**Moderator**
+
+* **Laura Lourenco**—Business Informatics Specialist, U.S. Food & Drug Administration (FDA)
 
 ---
 
@@ -142,6 +146,10 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 * **Martha Wilkes**—Accessibility Strategist, VA Office of the Chief Technology Officer (CTO)
 * **Elizabeth Straghalis**—Contractor, Staff Researcher, VA
 
+**Moderator**
+
+* **David Tucker**—Experience Strategist, U.S. Department of State
+
 #### 2. Operation Rising Tide: Cognitive disability accommodations for the workforce
 
 {{< img-right src="dod-seal" >}}
@@ -158,6 +166,10 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 * **Gordon Banks**—General Engineer, Defense Threat Reduction Agency (DTRA)
 * **Maj. Kirk Shoemaker**—Nuclear and Countering Weapons of Mass Destruction Officer, U.S. Army, DTRA
+
+**Moderator**
+
+* **David Tucker**—Experience Strategist, U.S. Department of State
 
 ---
 
@@ -185,6 +197,10 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * **Alex Bielen**—Engineering Supervisor at 18F, GSA
 * **Laura Nash**—Design Supervisor at 18F, GSA
 
+**Moderator**
+
+* **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
+
 #### 2. Simplifying user experiences for complex content at USAGov
 
 {{< img-right src="gsa-blue-logo-sq" >}}
@@ -211,6 +227,10 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 * **Joanne McGovern**—UX Researcher, USAGov, GSA
 * **Mercedita Andrew**—Contractor, UX Researcher, GSA
 
+**Moderator**
+
+* **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
+
 ---
 
 ### Session 5, 3:00 pm - 3:45 pm, ET
@@ -221,7 +241,7 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 
 The concept of requiring a signed consent form in user experience (UX) or customer experience (CX) research is a holdover from the institutional review board (IRB) process in academic research. Yet even in higher education, UX and CX research is often deemed exempt from IRB and does not actually require a signed form. It’s time we question why the signed consent form process is the standard in civic UX and CX research. Do we really need a signed form to gather consent, or are we just carrying over practices because the signed consent form is what we’ve always done?
 
-{{< img-right src="doi-svg-seal" >}}
+{{< img-right src="office-of-natural-resources-revenue-onrr-doi-logo" >}}
 
 This panel includes user and customer experience specialists from three very different agencies. They will share their thoughts on the need for consent forms in civic user and customer research, how their new consent process is driven by inclusion and equity goals, what it took to change the consent form procedure at their agency, and their revised consent procedures that are in place or forthcoming.
 
@@ -236,12 +256,12 @@ This panel includes user and customer experience specialists from three very dif
 **Speakers**
 
 * **Dana Chisnell**—Acting Director for Customer Experience, DHS
-* **Erin Elzi**—Digital Services Specialist, Office of the Chief Information Officer (CIO), ONRR
-* **Shannon McHarg**—User Experience Designer, DOL
+* **Erin Elzi**—Digital Services Specialist, Office of Natural Resources Revenue, DOI
+* **Shannon McHarg**—User Experience Designer, Office of the Chief Information Officer (CIO), DOL
 
 **Moderator**
 
-* **Jaime Kern**—Community co-lead, User Experience community
+* **UX Community co-lead, Jaime Kern**—Strategic Communications Lead, Office of Enterprise Strategy Management, GSA
 
 ## Resources
 

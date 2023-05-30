@@ -3,65 +3,70 @@
 
 @use "uswds-core" as *;
 
-.note.comment.card-prompt{
-	.intro{
-		@include u-display('flex');
-		@include u-flex('align-start');
-		@include u-font('sans', 'md');
-		.icon{
-			@include u-font('sans', 'lg');
-			@include u-minw(4);
-			@include u-top(0);
-			@include u-text('blue-cool-50');
-		}
-		p{
-			@include u-margin-y(0);
-		}
-	}
+.note.comment.card-prompt {
+  .intro {
+    @include u-display("flex");
+    @include u-flex("align-start");
+    @include u-font("sans", "md");
 
-	.prompt{
-		@include u-margin-y(3);
-		@include u-font('serif', 'lg');
-		@include u-text('blue-cool-70');
-		@include u-line-height('serif', 3);
+    .icon {
+      @include u-font("sans", "lg");
+      @include u-minw(4);
+      @include u-top(0);
+      @include u-text("blue-cool-50");
+    }
 
-		blockquote{
-			@include u-font('serif', 'lg');
-		}
-	}
+    p {
+      @include u-margin-y(0);
+    }
+  }
 
-	button{
-		@include u-margin-bottom('105');
-		@include u-padding-y('105');
-		@include u-padding-x('105');
-		@include u-text('medium');
-		@include u-text('blue-cool-70');
-		@include u-bg('blue-cool-10');
-		@include u-radius('md');
-		@include u-border('2px', 'solid', 'blue-cool-60');
-		@include u-font('sans', 'md');
-		a{
-			@include u-text('blue-cool-70');
-			@include u-bg('blue-cool-10');
-			@include u-text('no-underline');
-			@include u-border-bottom(0);
-			&:hover{
-				@include u-bg('blue-cool-10');
-				@include u-text('blue-cool-80');
-				@include u-border-bottom('2px', 'solid', 'blue-cool-70');
-			}
-		}
-		&:hover{
-			@include u-bg('blue-cool-10');
-			@include u-border('2px', 'solid', 'blue-cool-70');
-		}
-	}
-	.fallback{
-		@include u-margin-top('205');
-		@include u-margin-bottom(0);
-		@include u-font('sans', 'sm');
-		@include u-text('base-darkest');
-		@include u-line-height('sans', 2);
-	}
+  .prompt {
+    @include u-margin-y(3);
+    @include u-font("serif", "lg");
+    @include u-text("blue-cool-70");
+    @include u-line-height("serif", 3);
 
+    blockquote {
+      @include u-font("serif", "lg");
+    }
+  }
+
+  button {
+    @include u-margin-bottom("105");
+    @include u-padding-y("105");
+    @include u-padding-x("105");
+    @include u-text("medium");
+    @include u-text("blue-cool-70");
+    @include u-bg("blue-cool-10");
+    @include u-radius("md");
+    @include u-border("2px", "solid", "blue-cool-60");
+    @include u-font("sans", "md");
+
+    a {
+      @include u-text("blue-cool-70");
+      @include u-bg("blue-cool-10");
+      @include u-text("no-underline");
+      @include u-border-bottom(0);
+
+      &:hover {
+        @include u-bg("blue-cool-10");
+        @include u-text("blue-cool-80");
+        @include u-border-bottom("2px", "solid", "blue-cool-70");
+      }
+    }
+
+    &:hover {
+      @include u-bg("blue-cool-10");
+      @include u-border("2px", "solid", "blue-cool-70");
+    }
+  }
+
+  .fallback {
+    @include u-margin-top("205");
+    @include u-margin-bottom(0);
+    @include u-font("sans", "sm");
+    @include u-text("base-darkest");
+    @include u-line-height("sans", 2);
+  }
 }

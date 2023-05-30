@@ -15,6 +15,7 @@
   .logo {
     @include u-margin-right("105");
     @include u-square(6);
+
     @include at-media("mobile-lg") {
       @include u-margin-right(3);
       @include u-square(7);
@@ -22,9 +23,11 @@
 
     img {
       @include u-circle(6);
+
       @include at-media("mobile-lg") {
         @include u-circle(7);
       }
+
       @include u-border("1px", "gray-cool-10", "solid");
     }
 
