@@ -7,34 +7,25 @@
 
 
   <main role="main" id="main-content">
-    <article>
-      <div class="grid-container grid-container-desktop">
-        {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-        <div class="grid-row grid-gap-4">
-          <div
-            class="grid-col-12 tablet-lg:grid-col-2"
-            data-edit-this="{{- $path -}}"
-          >
-            {{- partial "core/guides/guide-nav.html" . -}}
-          </div>
+    <article class="grid-container grid-container-desktop">
+      {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+      <section class="grid-row grid-gap-4">
+        {{- partial "core/guides/guide-nav.html" . -}}
 
-          <div class="grid-col-12 tablet-lg:grid-col-8">
-            <div
-              class="guide-content usa-layout-docs__main usa-prose"
-              data-edit-this="{{- $path -}}"
-            >
-              {{- partial "core/guides/guide-page-head.html" . -}}
+        <div
+          class="grid-col-12 tablet-lg:grid-col-8 guide-content usa-prose"
+          data-edit-this="{{- $path -}}"
+        >
+          {{- partial "core/guides/guide-page-head.html" . -}}
 
-              {{ .Content }}
+          {{ .Content }}
 
-              {{- partial "core/guides/guide-prev-next.html" . -}}
+          {{- partial "core/guides/guide-prev-next.html" . -}}
 
-              {{/* Touchpoints Form */}}
-              {{- partial "core/touchpoints-form.html" . -}}
-            </div>
-          </div>
+          {{/* Touchpoints Form */}}
+          {{- partial "core/touchpoints-form.html" . -}}
         </div>
-      </div>
+      </section>
     </article>
   </main>
 {{- end -}}

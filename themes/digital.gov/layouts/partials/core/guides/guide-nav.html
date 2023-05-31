@@ -1,4 +1,13 @@
-<aside class="guide-nav-box usa-layout-docs__sidenav">
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+
+<aside
+  class="guide-nav-box grid-col-12 tablet-lg:grid-col-2"
+  data-edit-this="{{- $path -}}"
+>
   <nav aria-label="Secondary navigation">
     <ul class="usa-sidenav guide-nav">
       {{- $current_page := . -}}
