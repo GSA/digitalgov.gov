@@ -13,7 +13,8 @@ jQuery(($) => {
     });
   }
   function disableEditThis() {
-    $("*[data-edit-this]").each(() => {
+    // eslint-disable-next-line func-names
+    $("*[data-edit-this]").each(function () {
       $(this).removeClass("edit-this");
       $(".edit-this-btn").remove();
     });
