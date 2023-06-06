@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/2023-ux-summit-session-1.pptx
+  # File shortcode: {{< asset-static file="2023-ux-summit-session-1.pptx" label="2023-ux-summit-session-1 (PDF, 4 pages, 2MB)">}}
+  date     :  2023-06-06 18:41:35 -0400
+  uid      :  2023-ux-summit-session-1
+  format   :  pptx
+  
