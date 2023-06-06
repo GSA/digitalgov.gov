@@ -261,7 +261,7 @@ This panel includes user and customer experience specialists from three very dif
 
 **Moderator**
 
-* **UX Community co-lead, Jaime Kern**—Strategic Communications Lead, Office of Enterprise Strategy Management, GSA
+* **Allyssa Allen**—Customer Experience Strategist, Office of Communications, Centers for Medicare & Medicaid Services
 
 ## Resources
 
