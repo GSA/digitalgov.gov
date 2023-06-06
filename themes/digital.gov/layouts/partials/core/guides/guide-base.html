@@ -1,0 +1,35 @@
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+
+
+<main
+  role="main"
+  id="main-content"
+  class="grid-container grid-container-desktop"
+>
+  {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+  <section class="grid-row grid-gap-4 margin-top-2">
+    <aside
+      class="guide-nav-box tablet-lg:grid-col-3"
+      data-edit-this="{{- $path -}}"
+    >
+      {{- partial "core/guides/guide-nav.html" . -}}
+    </aside>
+
+    <div class="tablet-lg:grid-col-9">
+      <div class="guide-content usa-prose" data-edit-this="{{- $path -}}">
+        {{- partial "core/guides/guide-page-head.html" . -}}
+
+        {{- .Content -}}
+
+        {{- partial "core/guides/guide-prev-next.html" . -}}
+
+        {{/* Touchpoints Form */}}
+        {{- partial "core/touchpoints-form.html" . -}}
+      </div>
+    </div>
+  </section>
+</main>
