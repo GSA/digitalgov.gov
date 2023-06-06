@@ -1,6 +1,6 @@
 jQuery(function ($) {
   var topListItem = $(".usa-current").parents("li").last();
-  $(topListItem).addClass("current");
+  $(topListItem).addClass("dg-guide__nav-list--current-item");
 
   // Cleans up the #TableOfContents from HUGO
   // $('#TableOfContents ul').addClass('add-list-reset');

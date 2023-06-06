@@ -3,7 +3,7 @@
 // Table of Contents
 
 // Hiding the bullets on the TOC except for the guide pages
-.toc:not(.guide-toc) {
+.toc:not(.dg-guide__toc) {
   border-image: linear-gradient(to bottom, #4a50c4, #0076d6, #fff) 1;
   border-style: solid;
 

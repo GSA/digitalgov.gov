@@ -1,5 +1,5 @@
 <nav aria-label="Secondary navigation">
-  <ul class="usa-sidenav guide-nav">
+  <ul class="usa-sidenav dg-guide__nav-list">
     {{- $current_page := . -}}
 
     {{/* Guide YML file (optional way of configuring the nav) */}}
@@ -25,7 +25,9 @@
             title="{{- $item.title -}}"
           >
             {{- $item.title }}
-            {{ if $item.subnav -}}<span class="arrow-right"></span>{{- end -}}
+            {{ if $item.subnav -}}
+              <span class="dg-guide__nav-list-arrow-right"></span>
+            {{- end -}}
           </a>
 
           {{/* Sub items — second level down */}}

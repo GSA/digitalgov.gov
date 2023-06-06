@@ -1,121 +1,85 @@
 @use "uswds-core" as *;
 
-.guide-nav-box {
+.dg-guide__nav {
   @include u-display("none");
 
   @include at-media("tablet-lg") {
     @include u-display("block");
   }
 
-  ul.guide-nav {
-    @include u-margin-bottom(3);
+  &-list {
+    margin-bottom: units(3);
     @include u-font("sans", "xs");
 
     // Hides any nested ul that is not part of the current tree
     ul {
       @include u-display("none");
     }
+  }
 
-    li {
-      @include u-text("medium");
+  // Override usa-sidenav styles for digitial.gov styles
+  li.usa-sidenav__item {
+    @include u-text("medium");
 
-      a {
-        @include u-padding-y(1);
-        @include u-text("black");
-        @include u-text("normal");
-        @include u-text("no-underline");
+    a {
+      @include u-padding-y(1);
+      @include u-text("black");
+      @include u-text("normal");
+      @include u-text("no-underline");
 
-        // Flex for the arrows
-        @include u-display("flex");
-        @include u-flex("align-center");
+      // Flex for the arrows
+      @include u-display("flex");
+      @include u-flex("align-center");
 
-        &:hover {
-          @include u-text("underline");
-        }
-
-        .arrow-right {
-          @include u-margin-left(1);
-          @include u-width("105");
-          @include u-height(2);
-          @include u-display("inline-block");
-
-          background-image: url("../uswds/img/angle-arrow-right-black.svg");
-          background-position: center bottom;
-          background-repeat: no-repeat;
-          background-size: 0.49rem;
-        }
-      }
-
-      .usa-current {
-        @include u-bg("primary");
-        @include u-text("white");
-
-        &:hover {
-          @include u-text("white");
-          @include u-bg("primary-dark");
-        }
-
-        .arrow-right {
-          background-image: url("../uswds/img/angle-arrow-right-white.svg");
-        }
-      }
-
-      // Adding arrows to any li that has child elements.
-      li {
-        @include u-text("normal");
-        @include u-font("sans", "xs");
-
-        a {
-          .arrow-right {
-            @include u-margin-left("05");
-
-            background-size: 0.42rem;
-          }
-        }
-
-        li {
-          @include u-font("sans", "2xs");
-          li {
-            @include u-font("sans", "3xs");
-          }
-        }
+      &:hover {
+        @include u-text("underline");
       }
     }
 
-    // When any child item is selected, the top-most parent li gets the .current class (via javascript)
-    li.current {
+    .usa-current {
+      @include u-bg("primary");
+      @include u-text("white");
+      @include u-text("semibold");
+
+      &:hover {
+        @include u-text("white");
+        @include u-bg("primary-dark");
+      }
+    }
+
+    .dg-guide__nav-list--current-item {
+      background-image: url("../uswds/img/angle-arrow-right-white.svg");
+    }
+
+    // When any child item is selected, the top-most parent li gets the .dg-guide__nav-list--current class (via javascript)
+    li.dg-guide__nav-list--current {
       @include u-position("relative");
 
-      & > a {
-        @include u-text("semibold");
-
-        &::after {
-          content: "";
-
-          @include u-border-left("05", "primary-darker", "solid");
-          @include u-radius(0);
-          @include u-position("absolute");
-          @include u-top(0);
-          @include u-bottom(0);
-          @include u-left(0);
-          @include u-z(100);
-        }
-      }
-
-      a {
-        span.arrow-right {
-          @include u-margin-left("105");
-
-          transform: rotate(90deg);
-        }
-      }
-
       a.usa-current {
+        @include u-text("semibold");
         @include u-position("static");
       }
 
       ul {
         @include u-display("block");
+      }
+    }
+
+    // Adding arrows to any li that has child elements.
+    li {
+      @include u-text("normal");
+      @include u-font("sans", "xs");
+
+      .dg-guide__nav-list-arrow-right {
+        background-size: 0.42rem;
+        margin-left: units("05");
+      }
+
+      li {
+        @include u-font("sans", "2xs");
+        li {
+          @include u-font("sans", "3xs");
+        }
       }
     }
   }

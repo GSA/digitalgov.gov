@@ -2,13 +2,13 @@
 
 // Guide page Table of Contents or TOC
 // See also table-of-contents.scss for more .toc styles
-.guide-toc {
+.dg-guide__toc {
   @include u-border-y("1px", "base-lighter", "solid");
   @include u-margin-y(5);
   @include u-padding-y(5);
   @include u-padding-x(0);
 
-  h2 {
+  &-header {
     @include u-margin(0);
     @include u-padding(0);
     @include u-font("sans", "lg");
