@@ -42,15 +42,15 @@
 
               {{/* Gets the resource .Pages associated with this topic */}}
               {{- $resources := (where .Pages "Section" "resources") -}}
-              {{- partial "core/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
+              {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
 
               {{/* Gets the services .Pages associated with this topic */}}
               {{- $services := (where .Pages "Section" "services") -}}
-              {{- partial "core/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
+              {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
 
               {{/* Gets the communities .Pages associated with this topic */}}
               {{- $communities := (where .Pages "Section" "communities") -}}
-              {{- partial "core/collection.html" (dict "data" $communities "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
+              {{- partial "partials/core/collection/collection.html" (dict "data" $communities "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
 
             {{- end -}}
 

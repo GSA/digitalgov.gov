@@ -4,23 +4,22 @@
   Returns a list item variant for USWDS Collection
 
   @see see collection.html for description of other variables
-  @link_external {boolean} apply usa-link--external class if url host is not www.digital.gov
+  @param {boolean} link_external - apply `usa-link--external` class if url host is not www.digital.gov
 
 */}}
+{{ $list_item := .list_item }}
 {{ $variant := .variant }}
-{{ $meta_source := .meta_source }}
-{{ $href := .href }}
 {{ $link_external := false }}
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
+{{ $href := .href }}
 {{ $url := urls.Parse $href }}
+{{ $meta_source := .meta_source }}
 
 {{/*  Check if external link  */}}
-{{ if ne $url.Host "www.digital.gov" }}
-  {{ $link_external = true }}
-{{ end }}
+{{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
 
-{{- with .item -}}
+{{- with .list_item -}}
   {{ $path := "" }}{{ with .File }}
     {{ $path = .Path }}
   {{ else }}
@@ -30,7 +29,7 @@
 
   <li class="usa-collection__item" data-edit-this="{{- $path -}}">
     {{ if eq $variant "media" }}
-      {{- partial "partials/core/collection-icon" (dict "item" . "logo_source" $logo_source) -}}
+      {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source) -}}
     {{ end }}
     <div class="usa-collection__body">
       <h{{ $list_header | safeHTML }} class="usa-collection__header">
@@ -38,7 +37,7 @@
           {{- .Title | markdownify -}}
         </a>
       </h{{ $list_header | safeHTML }}>
-      {{ if or (eq $variant "default") (eq $variant "media") }}
+      {{ if ne $variant "headings" }}
         <p class="usa-collection__description">
           {{- if .Params.summary -}}
             {{- .Params.summary | markdownify | truncate 140 -}}
@@ -46,9 +45,9 @@
             {{- .Params.deck | markdownify -}}
           {{- end -}}
         </p>
-      {{ else if eq $variant "headings" }}
+      {{ else }}
         {{ if $meta_source }}
-          <ul class="usa-collection__meta" aria-label="More information">
+          <ul class="usa-collection__meta">
             <li class="usa-collection__meta-item position-relative">
               <svg
                 class="usa-icon position-relative bottom-neg-2px"

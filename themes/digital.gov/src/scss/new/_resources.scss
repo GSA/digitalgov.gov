@@ -14,15 +14,19 @@
   }
 }
 
-#resources_by_topic {
+.resources-by-topic {
   @include u-bg("white");
   @include u-padding-top(1);
+
+  h2 {
+    @include u-font("sans", "sm");
+  }
 }
 
 .usa-prose table.resources__plain-language-table tr td {
   background-color: #fff;
-  border: 1px solid #1b1b1b;
   border-bottom-color: rgb(27 27 27);
   border-style: solid;
   font-weight: 400;
+  @include u-border-right("1px", "gray-90", "solid");
 }

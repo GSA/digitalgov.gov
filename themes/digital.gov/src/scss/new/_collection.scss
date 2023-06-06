@@ -8,10 +8,10 @@
 // Placeholder component to preserve current styles for future re-work
 // "Popular Guides and Resources" — https://digital.gov/ & https://digital.gov/resources
 .featured-collection {
-  @include u-margin-bottom("105");
+  margin-bottom: units("105");
 
   h2 {
-    @include u-margin-bottom(2);
+    margin-bottom: units(2);
     @include u-font("sans", "md");
     @include u-text("semibold");
   }
@@ -21,75 +21,61 @@
       0;
     background-size: 100%;
     content: "";
-    display: inline-block;
     height: 0.9em;
-    margin-bottom: -2px;
+    margin-bottom: units("neg-2px");
     margin-left: 0.15rem;
     width: 0.9em;
+    @include u-display("inline-block");
   }
 
   .icon {
-    @include u-margin-top("1px");
-    @include u-margin-right(1);
+    margin-right: units(1);
+    margin-top: units("1px");
     img {
-      @include u-width(2);
-      @include u-maxw(2);
+      max-width: units(2);
+      width: units(2);
       @include u-position("relative");
       @include u-top("2px");
     }
   }
 
+  // refactor code to 3 levels of nesting, bem-ify classes
   ul {
     @include add-list-reset;
-    @include u-margin(0);
-    @include u-margin-bottom("105");
+    margin: units(0);
+    margin-bottom: units("105");
 
     li {
-      @include u-margin-bottom("105");
+      margin-bottom: units("105");
       @include u-maxw("tablet-lg");
       @include u-font("sans", "sm");
       @include u-line-height("sans", 3);
       @include u-display("flex");
       @include u-flex("align-start");
+    }
 
-      // the DIV that wraps the icon in collections
-      .icon {
-        @include u-margin-top("1px");
-        @include u-margin-right(1);
+    // the DIV that wraps the icon in collections
+    .icon {
+      margin-right: units(1);
+      margin-top: units("1px");
 
-        img {
-          @include u-width(2);
-          @include u-maxw(2);
-          @include u-position("relative");
-          @include u-top("2px");
-        }
+      img {
+        @include u-width(2);
+        @include u-maxw(2);
+        @include u-position("relative");
+        @include u-top("2px");
       }
+    }
 
-      // the DIV that wraps the text used in collections
-      .copy {
-        & > div {
-          @include u-display("flex");
-          @include u-flex("align-center");
+    // the DIV that wraps the text used in collections
+    .copy {
+      & > div {
+        @include u-display("flex");
+        @include u-flex("align-center");
 
-          h3 {
-            @include u-font("sans", "sm");
-            @include u-line-height("sans", 4);
-
-            a {
-              @include u-text("no-underline", !important);
-              @include u-text("medium");
-
-              &:hover {
-                span {
-                  @include u-border-bottom("1px", "blue-warm-70v", "solid");
-                }
-              }
-            }
-          }
-        }
-
-        p {
-          @include u-margin-top(0);
+        h3 {
+          @include u-font("sans", "sm");
+          @include u-line-height("sans", 4);
 
           a {
             @include u-text("no-underline", !important);
@@ -104,29 +90,44 @@
         }
       }
 
-      .members {
-        @include u-font("sans", "xs");
+      p {
+        margin-top: units(0);
+
+        a {
+          @include u-text("no-underline", !important);
+          @include u-text("medium");
+
+          &:hover {
+            span {
+              @include u-border-bottom("1px", "blue-warm-70v", "solid");
+            }
+          }
+        }
       }
+    }
+
+    .members {
+      @include u-font("sans", "xs");
     }
   }
 }
 
 // Wrapper component around .usa-collection
 .dg-collection {
-  @include u-padding-top(7);
+  padding-top: units(7);
 
   &:first-of-type {
-    @include u-padding-top(0);
+    padding-top: units(0);
   }
 
   &__header {
-    @include u-margin(0);
-    @include u-padding(0);
+    margin: units(0);
+    padding: units(0);
 
     h2,
     h3,
     h4 {
-      @include u-margin(0);
+      margin: units(0);
     }
 
     a {
@@ -135,6 +136,23 @@
 
       &:hover {
         @include u-text("underline");
+      }
+    }
+  }
+
+  &__more {
+    margin-bottom: units("05");
+    margin-top: units("05");
+    @include u-font("sans", "xs");
+    @include u-text("normal", !important);
+
+    a {
+      @include u-text("no-underline");
+
+      &:hover {
+        span {
+          @include u-border-bottom("2px", "solid", "accent-warm");
+        }
       }
     }
   }
@@ -148,9 +166,9 @@
   @include u-font("sans", "md");
   @include u-text("normal");
 
-  .icon {
-    @include u-margin-top("2px");
-    @include u-margin-right(1);
+  &__img-wrapper {
+    margin-right: units(1);
+    margin-top: units("2px");
     img {
       @include u-width(2);
       @include u-maxw(2);
@@ -160,22 +178,21 @@
   }
 
   &__body {
-    @include u-padding-top(0);
+    padding-top: units(0);
   }
 
   h2,
   h3,
   h4 {
-    @include u-margin(0);
+    margin: units(0);
   }
 
   h2 {
-    @include u-padding-top(0);
-    @include u-border(0);
+    padding-top: units(0);
   }
 
   h4 {
-    @include u-padding-top("2px");
+    padding-top: units("2px");
   }
 
   &__header {
@@ -185,6 +202,12 @@
       &:hover {
         @include u-text("underline");
       }
+    }
+  }
+
+  &__meta-item {
+    .usa-icon {
+      margin-right: units("2px");
     }
   }
 }

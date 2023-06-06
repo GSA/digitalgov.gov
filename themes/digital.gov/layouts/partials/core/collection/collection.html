@@ -1,0 +1,72 @@
+{{/* Collection Component
+
+  Wrapper component around uswds-collection that returns a collection of links built from a list of resources
+
+  @param {object} data - The collection of pages or links that have a required header, description, link
+  - header that can be a link or plain header text
+  - description text that follows the header
+  - link url for internal and external pages
+  - internal: "/resources/how-test-websites-for-accessibility/?dg"
+  - external: "https://designsystem.digital.gov/maturity-model/"
+  - meta source is the source site name for the link when the "headings" variant is used
+
+  @param {number} length - The limit on the number of link items to display, defaults to 10 if not set
+  @param {string} variant - The variant to render for the collection-list-item which can be one of the following: "default" "media" "headings"
+  see https://designsystem.digital.gov/components/collection/ for variants
+
+  @param {string} header_title - The title for the header
+  @param {number} header_size - Set the header size from 1-6, defaults to 3 if number provided is greater than 6
+  @param {url} header_link - If present will render a link within the header, otherwise just a plain header
+  @param {string} header_id - The relative path to the file, for example "v21st-century-idea"
+
+  @param {number} list_header - Set the header size from 1-6, defaults to 3 if number provided is greater than 6
+  @param {string} footer_text - Set a short string description (defaults to topic name) at the footer to link to other page that reads "More on {{ $footer_text
+}}"
+@param {string} meta_source - The referring source for an external link that
+reads "Performance.gov". Use .Params.source if using a resources collection
+@example
+{{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
+
+*/}}
+{{ $data := .data }}
+{{ $variant := .variant }}
+{{ $length := or .limit 10 }}
+{{ $header_title := .header_title }}
+{{ $header_size := .header_size }}
+{{ $header_link := .header_link }}
+{{ $header_id := .header_id }}
+{{ $list_header := .list_header }}
+{{ $footer_text := .footer_text }}
+{{ $meta_source := .meta_source }}
+
+{{ if $data }}
+  <div class="dg-collection">
+    <div class="grid-row">
+      <div class="grid-col-12 tablet-lg:grid-col-10">
+        {{ if $header_title }}
+          {{ partial "core/collection/collection-header" (dict "header_title" $header_title "header_size" $header_size "header_link" $header_link "header_id" $header_id) }}
+        {{ end }}
+        {{ partial "core/collection/usa-collection" (dict "data" $data "length" $length "variant" $variant "list_header" $list_header "meta_source" $meta_source) }}
+      </div>
+    </div>
+
+    {{ if $footer_text }}
+      <footer class="dg-collection__footer">
+        <p class="dg-collection__more">
+          <a href="{{- $header_link -}}">
+            <span>More on {{ $footer_text }}</span>
+            <svg
+              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+              ></use>
+            </svg>
+          </a>
+        </p>
+      </footer>
+    {{ end }}
+  </div>
+{{ end }}

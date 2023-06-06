@@ -1,9 +1,9 @@
 {{/* USWDS Collection Component — https://designsystem.digital.gov/components/collection/
   Renders a USWDS unordered list wrapped around dg-collection component
 
-  @see see collection.html for description of other variables
-  @href {relpath|url} accepts a string path to resource, can be internal or external
-  @logo_source {string} path to agency logo, can be internal or external. Value is calculated on the front matter fields to lookup agency logo
+  @see core/collection/collection.html for description of other variables
+  @param {relpath|url} href - Accepts a string path to resource, either internal or external
+  @param {string} logo_source - Path to agency logo, can be internal or external. Value is calculated from front matter fields to lookup agency logo
 */}}
 
 {{ $data := .data }}
@@ -34,14 +34,22 @@
         {{ $href = (print .Permalink "?dg") }}
       {{ end }}
 
-      {{/* If using "headings" variant and no meta_source is present, use a placholder value */}}
+      {{/* If using "headings" variant and no meta_source is present, create one from the source_url or source or set as Digita.gov as the default */}}
       {{ if not $meta_source }}
-        {{ $meta_source = or .Params.source_url .Params.source }}
+        {{ if .Params.source_url }}
+          {{ $url := .Params.source_url }}
+          {{ $meta_source = urls.Parse $url }}
+          {{ $meta_source = $meta_source.Hostname }}
+        {{ else if .Params.source }}
+          {{ $meta_source = .Params.source }}
+        {{ else }}
+          {{ $meta_source = "Digital.gov" }}
+        {{ end }}
       {{ end }}
 
       {{/* If image exists, then display as list item */}}
       {{ if $logo_source }}
-        {{- partial "partials/core/collection-list-item" (dict "item" . "href" $href "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header) -}}
+        {{- partial "core/collection/collection-list-item" (dict "list_item" . "href" $href "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header) -}}
       {{ end }}
 
     {{ end }}
