@@ -49,19 +49,22 @@ jobs:
           name: Lint JSON
           command: npm run lint:json
       - run:
-          name: Lint Markdown
-          command: npm run lint:markdown
-      - run:
-          name: Format Markdown
-          command: npm run lint:markdown:format
+          name: Lint & fix Markdown
+          command: npm run lint:markdown:fix && npm run lint:markdown
       - run:
           name: Lint Styles
           command: npm run lint:styles
       - run:
-          name: Format Styles
+          name: Lint JavaScript
+          command: npm run lint:js
+      - run:
+          name: Check Style formatting
           command: npm run prettier:styles
       - run:
-          name: Format Templates
+          name: Check JavaScript formatting
+          command: npm run prettier:js
+      - run:
+          name: Check Template formatting
           command: npm run prettier:templates
   process:
     <<: *defaults
