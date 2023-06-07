@@ -64,6 +64,8 @@ Welcome
 
 #### Inclusive civic design: Engaging diverse communities to improve the early career experience
 
+{{< asset-static file="2023-ux-summit-session-1.pptx" label="View the slides (PowerPoint presentation, 1.0 MB, 25 pages)" >}}
+
 {{< img-right src="opm-svg-seal" >}}
 
 Design research with the public can be difficult. It is a balancing act between [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) requirements, time and funding constraints, and the desire to reach a wide, diverse pool of users. OPM’s USAJOBS Program Office is exploring these challenges to build inclusive design research practices.
