@@ -97,6 +97,8 @@ In this presentation, we will share actionable tips about managing project logis
 
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
 
+{{< asset-static file="2023-ux-summit-session-2.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 36 pages)" >}}
+
 {{< img-right src="hhs-svg-seal" >}}
 
 The [NIH _All of Us_ Research Program](https://allofus.nih.gov/) is poised to make DNA information more accessible by returning free, personalized results about hereditary disease risk and pharmacogenetics to thousands of _All of Us_ research participants who want them.
@@ -263,7 +265,7 @@ This panel includes user and customer experience specialists from three very dif
 
 **Moderator**
 
-* **Allyssa Allen**—Customer Experience Strategist, Office of Communications, Centers for Medicare & Medicaid Services
+* **UX Community co-lead, Jaime Kern**—Strategic Communications Lead, Office of Enterprise Strategy Management, GSA
 
 ## Resources
 
