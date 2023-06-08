@@ -1,66 +1,55 @@
 {{- define "content" -}}
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
   <main role="main" id="main-content">
-    <article>
+    <article class="grid-container grid-container-desktop">
       <header>
-        <div class="grid-container grid-container-desktop">
-          {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-          <div class="grid-row">
-            <div class="grid-col-12">
-              {{- if .Params.kicker -}}
-                <p class="kicker">{{- .Params.kicker -}}</p>
-              {{- end -}}
-              {{/* Page Title */}}
-              <h1>{{- .Title | markdownify -}}</h1>
+        <div class="grid-row" data-edit-this="{{- $path -}}">
+          {{- if .Parent -}}
+            {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+          {{- end -}}
 
-              {{/* Deck */}}
-              {{- if .Params.summary -}}
-                <div class="deck">{{- .Params.summary | markdownify -}}</div>
-              {{- end -}}
+          {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+          {{- end -}}
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}}</h1>
 
-              {{- if .Params.source_url -}}
-                <p>
-                  <a
-                    href="{{- .Params.source_url -}}"
-                    title="Go to: {{- .Title | markdownify -}}"
-                    >{{- .Params.source_url -}}</a
-                  >
-                </p>
-              {{- end -}}
-            </div>
-          </div>
+          {{/* Deck */}}
+          {{- if .Params.summary -}}
+            <div class="deck">{{- .Params.summary | markdownify -}}</div>
+          {{- end -}}
+
+          {{- if .Params.source_url -}}
+            <p>
+              <a
+                href="{{- .Params.source_url -}}"
+                title="Go to: {{- .Title | markdownify -}}"
+                >{{- .Params.source_url -}}</a
+              >
+            </p>
+          {{- end -}}
         </div>
       </header>
 
-      <section>
-        <div class="grid-container grid-container-desktop">
-          <div class="grid-row tablet-lg:grid-gap-6">
-            <div class="grid-col-12 tablet:grid-col-9">
-              {{/* Content */}}
-              <div class="content">
-                {{- .Content -}}
-              </div>
-
-              {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-
-            </div>
-
-            <div class="grid-col-12 tablet:grid-col-3">
-              {{/* Table of contents */}}
-              {{- partial "core/toc.html" . -}}
-
-              {{/* Last updated */}}
-              {{/* {{- partial "last-updated.html" . -}} */}}
-              {{/* Related Communities and Services */}}
-              {{- partial "core/get_related.html" . -}}
-
-              {{/* Topics */}}
-              {{/* {{- partial "core/list-topics.html" . -}} */}}
-              {{/* Share Tools */}}
-              {{/* {{- partial "core/get_sharetools.html" . -}} */}}
-            </div>
+      <div class="usa-in-page-nav-container">
+        <aside
+          class="usa-in-page-nav"
+          data-title-heading-level="h3"
+          data-root-margin="-350px 0px -350px 0px"
+        ></aside>
+        <div>
+          {{/* Content */}}
+          <div class="content" data-edit-this="{{- $path -}}">
+            {{- .Content -}}
           </div>
+
+          {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
         </div>
-      </section>
+      </div>
     </article>
   </main>
 {{- end -}}
