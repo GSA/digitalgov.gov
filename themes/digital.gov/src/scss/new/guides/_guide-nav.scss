@@ -8,8 +8,8 @@
   }
 
   &-list {
-    margin-bottom: units(3);
     @include u-font("sans", "xs");
+    margin-bottom: units(3);
 
     // Hides any nested ul that is not part of the current tree
     ul {
@@ -77,9 +77,6 @@
 
       li {
         @include u-font("sans", "2xs");
-        li {
-          @include u-font("sans", "3xs");
-        }
       }
     }
   }

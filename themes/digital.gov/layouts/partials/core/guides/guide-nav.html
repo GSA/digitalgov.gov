@@ -8,8 +8,6 @@
     {{- $guide_files := (where .Site.Pages ".Params.guide" .Params.guide) -}}
     {{/* Check for a guide YML file */}}
     {{- if and $guide_data $guide_data.nav -}}
-      {{/* {{ template "guidenav-data-driven" (dict "current_page" $current_page "guide_data" $guide_data.nav "guide_files" $guide_files ) }}
-      */}}
       {{/* Gets the URL of the current page in the guide */}}
       {{- $current_url := $current_page.Permalink -}}
 
