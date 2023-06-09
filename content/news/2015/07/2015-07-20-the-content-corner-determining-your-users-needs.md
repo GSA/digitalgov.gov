@@ -2,7 +2,7 @@
 slug: the-content-corner-determining-your-users-needs
 date: 2015-07-20 10:20:36 -0400
 title: 'The Content Corner: Determining Your User&#8217;s Needs'
-summary: I recently wrapped up a series of user interviews as part of a review of our judiciary-wide intranet in order to provide better digital services to our customers (and yes, our internal users are our customers, not just the general public). As I prepare to delve back into determining user and content needs for a
+summary: 'I recently wrapped up a series of user interviews as part of a review of our judiciary-wide intranet in order to provide better digital services to our customers (and yes, our internal users are our customers, not just the general public).'
 authors:
   - tyrus-manuel
 topics:
@@ -19,7 +19,9 @@ I recently wrapped up a series of user interviews as part of a review of our jud
 
 From my personal experience, I have always learned tons of valuable information regardless of how many users interviewed or analytics I’ve reviewed.
 
-## Many Answers Are Already There {{< legacy-img src="2015/07/600-x-400-Trend-analysis-ClaudioVentrella-iStock-Thinkstock-508633117.jpg" alt="Trend analysis" caption="" >}} 
+## Many Answers Are Already There
+
+{{< legacy-img src="2015/07/600-x-400-Trend-analysis-ClaudioVentrella-iStock-Thinkstock-508633117.jpg" alt="Trend analysis" caption="ClaudioVentrella, iStock, Thinkstock" >}} 
 
 One of the first critical things that I fight to remember during any discovery process or content review is that there is a ton of user feedback already available. You just have to remember to go get it.
 
@@ -48,7 +50,9 @@ Supporting a program that has dedicated help desk staff was a relatively new exp
 
 If there is something that is hard to find or a process on your site is not working correctly or is confusing to a user, the second person after the user to know about it will most likely be a member of your help desk staff. If your site has the benefit of having this level of regular customer interaction, I strongly recommend taking advantage of it. More and more I have my help desk manager involved in everything from blog posts to user interface design.
 
-## Talk to your Users {{< legacy-img src="2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}} 
+## Talk to your Users
+
+{{< legacy-img src="2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="Rawpixel Ltd, iStock, Thinkstock" >}} 
 
 There are tons of resources already available about [usability on DigitalGov]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and some of the challenges particular to federal government and the public sector. All the [information regarding the Paperwork Reduction Act (PRA)]({{< ref "paperwork-reduction-act-fast-track-process.md" >}}) is invaluable in my experience.
 
