@@ -14,7 +14,7 @@ aliases:
 **Have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov) and we’ll get back to you.
 {{< /box >}}
 
-
+{{< guide-toc >}}
 
 ## Digital Analytics Program (DAP) User Agreement
 
