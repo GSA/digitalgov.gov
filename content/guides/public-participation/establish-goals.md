@@ -5,7 +5,7 @@ deck: ""
 summary: ""
 guide: public-participation
 ---
-{{< guide-toc >}}
+
 ## Play 1: Clearly define and communicate your objectives
 
 Federal agencies understand the importance of meaningful public engagement. The type of engagement will differ for each organization, depending on resources, audience and mission. Every agency must set goals that align with its unique definition of success and empowers the public to engage with agencies in order to influence government priorities.

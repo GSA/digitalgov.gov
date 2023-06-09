@@ -5,7 +5,7 @@ deck: ""
 summary: ""
 guide: public-participation
 ---
-{{< guide-toc >}}
+
 ## Play 11: Use Data to Drive Decision Making
 
 Use data to inform decisions about engagement efforts and public participation. Data can help you decide the best format for your engagement effort, the best tools to use, the most receptive audiences and more. Data will help you get the desired results and adapt your engagement effort along the way.

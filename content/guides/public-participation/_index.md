@@ -7,7 +7,7 @@ guide: public-participation
 aliases:
 
 ---
-{{< guide-toc >}}
+
 ## What is the U.S. Public Participation Playbook?
 
 The U.S. Public Participation Playbook is a resource for government managers to effectively evaluate and build better services through public participation using best practices and performance metrics.
