@@ -64,6 +64,8 @@ Welcome
 
 #### Inclusive civic design: Engaging diverse communities to improve the early career experience
 
+{{< asset-static file="2023-ux-summit-session-1.pptx" label="View the slides (PowerPoint presentation, 1.0 MB, 25 pages)" >}}
+
 {{< img-right src="opm-svg-seal" >}}
 
 Design research with the public can be difficult. It is a balancing act between [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) requirements, time and funding constraints, and the desire to reach a wide, diverse pool of users. OPM’s USAJOBS Program Office is exploring these challenges to build inclusive design research practices.
@@ -94,6 +96,8 @@ In this presentation, we will share actionable tips about managing project logis
 ### Session 2, 11:00 am - 11:45 am, ET
 
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
+
+{{< asset-static file="2023-ux-summit-session-2.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 36 pages)" >}}
 
 {{< img-right src="hhs-svg-seal" >}}
 

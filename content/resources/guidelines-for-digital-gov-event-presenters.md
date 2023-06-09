@@ -67,6 +67,7 @@ Watch these [presentations training videos](https://www.section508.gov/create/pr
   {{< checkbox >}}Link to government websites by default.{{< /checkbox >}}
   {{< checkbox >}}Follow the [GSA Linking Policy](https://www.gsa.gov/website-information/website-policies#linking) if you link to any non-government sites; all non-government links will require additional review and approval.{{< /checkbox >}}
   {{< checkbox >}}Recommend and link to books, papers, or studies published by the federal government only. Do not recommend or link to content published by other organizations.{{< /checkbox >}}
+  {{< checkbox >}}Do not include video clips in the presentation; embedding or linking videos will require additional accessibility features.{{< /checkbox >}}
   {{< checkbox >}}Do not include any potentially sensitive or personally identifiable information (PII), including the presenter’s geographic location, age, birthday, etc.{{< /checkbox >}}
   {{< checkbox >}}Do not use copyrighted images, pictures, graphics unless your agency owns the image rights.{{< /checkbox >}}
   {{< checkbox >}}Do not name (endorse) commercial products, services, or non-federal organizations.{{< /checkbox >}}
