@@ -46,7 +46,7 @@ reads "Performance.gov". Use .Params.source if using a resources collection
         {{ if $header_title }}
           {{ partial "core/collection/collection-header" (dict "header_title" $header_title "header_size" $header_size "header_link" $header_link "header_id" $header_id) }}
         {{ end }}
-        {{ partial "core/collection/usa-collection" (dict "data" $data "length" $length "variant" $variant "list_header" $list_header "meta_source" $meta_source) }}
+        {{ partial "core/usa-collection" (dict "data" $data "length" $length "variant" $variant "list_header" $list_header "meta_source" $meta_source) }}
       </div>
     </div>
 
