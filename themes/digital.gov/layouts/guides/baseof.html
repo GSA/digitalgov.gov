@@ -1,0 +1,129 @@
+{{- partial "core/set-env.html" . -}}
+{{ partialCached "core/head-comment.html" . }}
+
+
+<!DOCTYPE html>
+
+<html
+  lang="en-US"
+  itemscope
+  itemtype="http://schema.org/WebSite"
+  prefix="og: http://ogp.me/ns#"
+>
+  {{- partial "core/head.html" . -}}
+
+
+  <body class="{{- .Type }} {{ .Kind -}}">
+    {{- "<!-- Google Tag Manager (noscript) -->" | safeHTML -}}
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MZCKZPQ"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    {{ "<!-- End Google Tag Manager (noscript) -->" | safeHTML }}
+
+
+    <div class="paper">
+      {{- partialCached "core/notice-bar.html" . -}}
+      {{- partialCached "core/usa-banner.html" . -}}
+      {{- partialCached "core/header.html" . -}}
+
+      {{ $path := "" }}{{ with .File }}
+        {{ $path = .Path }}
+      {{ else }}
+        {{ $path = .Path }}
+      {{ end }}
+
+
+      <main
+        role="main"
+        id="main-content"
+        class="grid-container grid-container-desktop"
+      >
+        {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+        <section class="dg-guide grid-row grid-gap-4 margin-top-2">
+          <aside
+            class="dg-guide__nav guide-nav-box tablet-lg:grid-col-3"
+            data-edit-this="{{- $path -}}"
+          >
+            {{- partial "core/guides/guide-nav.html" . -}}
+          </aside>
+
+          <div class="tablet-lg:grid-col-9">
+            <div
+              class="dg-guide__content usa-prose"
+              data-edit-this="{{- $path -}}"
+            >
+              {{- partial "core/guides/guide-page-head.html" . -}}
+
+              {{- .Content -}}
+
+              {{- partial "core/guides/guide-prev-next.html" . -}}
+
+              {{/* Touchpoints Form */}}
+              {{- partial "core/touchpoints-form.html" . -}}
+            </div>
+          </div>
+        </section>
+      </main>
+
+      {{- partialCached "core/newsletter-signup.html" . -}}
+      {{- partialCached "core/footer.html" . -}}
+      {{- partialCached "core/usa-identifier.html" . -}}
+
+    </div>
+    <!-- end paper -->
+
+    <div id="clicks_iframe" class="display-none"></div>
+
+    <div class="edit-tools">
+      <button class="edit edit-open" aria-label="edit" type="button">
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="{{ "uswds/img/sprite.svg#edit" | relURL }}"></use>
+        </svg>
+      </button>
+      <a
+        class="edit edit-issue"
+        role="button"
+        target="_blank"
+        href="https://github.com/GSA/digitalgov.gov/issues/new?body=%0D%0A%2A%2A{{- .Title -}}%2A%2A%0D%0Ahttps%3A%2F%2Fdigital.gov%2F{{- .Permalink -}}%0D%0A%0D%0A---%0D%0A%0D%0A%2A%2APlease+describe+the+issue+clearly.+Include+a+screenshot+if+needed%2A%2A%0D%0A"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#bug_report" | relURL }}"
+          ></use>
+        </svg>
+        <span class="usa-sr-only">Report an issue</span>
+      </a>
+    </div>
+  </body>
+
+  <script src="{{ "dist/js/jquery.min.js" | absURL }}"></script>
+  <script src="{{ "dist/js/uswds.min.js" | absURL }}"></script>
+  <script src="{{ "dist/js/common.js" | absURL }}"></script>
+
+  <!-- Set the Images API as a variable -->
+<script type="text/javascript">
+  var root_url = {{ "" | absURL }};
+  var all_images_json = {{ "images/v1/json/" | absURL }};
+</script> {{/* Custom JS */}}
+  {{- if $.Params.js -}}
+    {{- range $.Params.js -}}
+      {{- $path := (printf "dist/%s" .) | absURL -}}
+      <!-- CUSTOM JS -->
+      <script src="{{ $path }}" type="text/javascript" charset="utf-8"></script>
+    {{- end -}}
+  {{- end -}}
+
+</html>
