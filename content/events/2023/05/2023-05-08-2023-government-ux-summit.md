@@ -171,7 +171,7 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 **Speakers**
 
 * **Gordon Banks**—General Engineer, Defense Threat Reduction Agency (DTRA)
-* **Maj. Kirk Shoemaker**—Nuclear and Countering Weapons of Mass Destruction Officer, U.S. Army, DTRA
+* **MAJ Kirk Shoemaker**—Nuclear and Countering Weapons of Mass Destruction Officer, U.S. Army, DTRA
 
 **Moderator**
 
