@@ -133,6 +133,8 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 #### 1. Accessibility research in action: VA's Health and Benefits mobile app
 
+{{< asset-static file="2023-ux-summit-session-3a.pptx" label="View the slides (PowerPoint presentation, 3.2 MB, 13 pages)" >}}
+
 {{< img-right src="va-svg-seal" >}}
 
 The accessibility community talks a lot about the "shift-left" methodology when it comes to thinking about accessibility — embedding accessibility early in a project to prevent problems instead of fixing them after they have happened. This session will provide actionable ways for you to build accessibility research into your practice, or to deepen it if you’ve already started. We hope to inspire UX designers across the government to continue raising the bar on accessibility.
@@ -181,6 +183,8 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 #### 1. Designing metaphors, designing collaboration
 
+{{< asset-static file="2023-ux-summit-session-4a.pptx" label="View the slides (PowerPoint presentation, 8.4 MB, 46 pages)" >}}
+
 {{< img-right src="gsa-blue-logo-sq" >}}
 
 Metaphors are one of our most powerful methods of communication, but they’re often overlooked as worthy of design. Research shows that our metaphors don’t only reflect our way with words — they reflect the way we think. They are plain language tools to help us grasp complicated situations, and share our mental models with our collaborators.
@@ -206,6 +210,8 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
 
 #### 2. Simplifying user experiences for complex content at USAGov
+
+{{< asset-static file="2023-ux-summit-session-4b.pptx" label="View the slides (PowerPoint presentation, 9.2 MB, 21 pages)" >}}
 
 {{< img-right src="gsa-blue-logo-sq" >}}
 
@@ -240,6 +246,8 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 ### Session 5, 3:00 pm - 3:45 pm, ET
 
 #### Reconsidering the consent form: the least user-friendly aspect of UX research
+
+{{< asset-static file="2023-ux-summit-session-5.pptx" label="View the slides (PowerPoint presentation, 2.3 MB, 23 pages)" >}}
 
 {{< img-right src="dhs-svg-seal" >}}
 
