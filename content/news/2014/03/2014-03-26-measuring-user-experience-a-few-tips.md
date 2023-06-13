@@ -44,6 +44,4 @@ After you make changes, you need to test if it made a difference. Popular ways t
 
 Creating an optimal user experience for your audience can’t be explained in an article or even a full webinar, but we hope this might give you a base to work from. For more information, watch the video below of Achaia talking UX with the Digital User Experience Program’s Jonathan Rubin and <a href="http://bit.ly/uxmeasuredeck" target="_blank">view the slides</a> of the presentation.
 
-{{< youtube x8jALM4I65U >}}
-
 Also, check out the <a href="{{< ref "/resources/digitalgov-user-experience-resources.md" >}}" target="_blank">Digital User Experience Program page</a> on <a href="http://digitalgov.gov" target="_blank">Digitalgov</a>, and if you aren’t already a member of the Federal User Experience Community of Practice listserv, email [Jon Rubin](mailto:jonathan.rubin@cfpb.gov) to request being added to the list.

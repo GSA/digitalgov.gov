@@ -39,5 +39,3 @@ Before the app’s release, ABMC asked the Federal CrowdSource Mobile Testing Pr
 “Please, please, please think about your audience,” Herrmann explained in the webinar. The user's end goal should always be in mind, and working with these user experience guidelines will help.
 
 You can also view the webinar in its entirety.
-
-{{< youtube SKpu3iIkeGk >}}

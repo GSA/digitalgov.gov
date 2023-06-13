@@ -29,8 +29,6 @@ One recent example of this was the development of Medlink, an SMS-based platform
 
 At a recent convention in Atlanta, the Peace Corps’ Director of Innovation met with several inspired developers to describe this global challenge. Excited, developers volunteered their time and skills to help improve the medical resupply process. The result is PC Medlink. As seen in the video, the application allows Volunteers to easily text in a request to refill supplies, allowing medical staff to focus on outreach, prevention, and treatment of volunteers, rather than administrative tasks.
 
-{{< youtube uNkwizhzMVA >}}
-
 This application followed many of the same steps outlined in the recently released [U.S. Digital Services Playbook](https://playbook.cio.gov/). We will continue to leverage open source, crowd-based solutions to better serve volunteers in the field.
 
 We are excited that the developer community has shown support for and developed PC Medlink and we invite you make a difference by plugging into [Peace Corps’ mission on GitHub](https://github.com/PeaceCorps).

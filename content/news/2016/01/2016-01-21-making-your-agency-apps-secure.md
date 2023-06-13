@@ -37,7 +37,3 @@ During the webinar, Sritapan discussed DHS’s efforts to enable the use of secu
 DHS works with the Federal CIO Council’s mobile technology Tiger Team to vet apps and share information across agencies. DHS also works to identify and remediate coding flaws that can impact the security of apps. One common flaw that developers make is giving an app access to a device’s camera when that app does not use the camera’s functionality.
 
 Sritapan offered other tips and noted that the future of mobile security is a collaboration between government and industry. During the second half of the webinar, Josh Bentley from Redhat spoke about how industry tools can support government efforts for secure app development.
-
-The full webinar can be viewed below.
-
-{{< youtube 2gs72FMs44E >}}

@@ -40,7 +40,6 @@ As GSA Administrator Denise Turner Roth said in her opening remarks, “Governme
 
 If you weren’t able to attend, you can watch the first two hours of the event below and [download the slidedeck from the morning presentation (PDF, 5.3 MB, 67 pages)](https://18f.gsa.gov/assets/blog/industry-day/deck-2016.pdf).
 
-{{< youtube NRAlPdiWXN8 >}}
 
 Find out more about the projects and platforms we talked about during the Technology Industry Day.
 
@@ -67,8 +66,6 @@ The Digital Accountability and Transparency Act (DATA Act) is a law that, once i
 ## California Child Welfare System {#california-child-welfare-system}
 
 Last year, California began a process to replace their child welfare services case management system. Through a partnership with the Department of Health and Human Services, 18F was able to work on behalf of HHS with California’s Department of Social Services and Office of Systems Integration and Code for America to [simplify the contracting documents](https://18f.gsa.gov/2016/03/22/helping-california-buy-a-new-child-welfare-system/) and to incorporate modular contracting, agile development, user-centered design, and open source practices into their project. Hear more from Stuart Drown, the California Deputy Secretary for Innovation and Accountability, about the project:
-
-{{< youtube JM4VLjRgqWo >}}
 
 ## login.gov
 

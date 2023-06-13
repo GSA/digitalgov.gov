@@ -42,8 +42,6 @@ According to one AMA participant, an effective selling point is that the Standar
 
 Another community member pointed to “Introducing the Web Design Standards” on the Standards’ team [Video Tutorials page](https://standards.usa.gov/getting-started/video-tutorials/) (scroll to the bottom), and noted that a selling point is that the Standards can save agencies money, as they reduce the need to pay a vendor to design and build a website.
 
-{{< youtube "iLD4Bu6I2I8" >}}
-
 The Standards can help break up the ‘design-by-committee’ deadlock that can stifle digital teams since they provide a place to look to for direction, a third community member chimed in. The Standards also provide a headstart on responsiveness, accessibility and usability, as “there isn’t another UI (user interface) library out there that’s so effectively labeled for all members of the public to interact with.”
 
 A number of developers and designers we’ve interviewed for agency case studies have also noted the Standards help them spend less time on the basic functional components of website design and construction--these components in the Standards have already been user tested and have best practices baked into their design, so these teams can spend their time on the more complicated or agency-specific items.

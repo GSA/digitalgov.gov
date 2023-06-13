@@ -78,6 +78,4 @@ Emily mentioned that they don’t create enough content yet to make the [Snapcha
 
 You can follow the NASA Social Media Team on Twitter at [@NASASocial](https://twitter.com/NASASocial), and USA.gov at [@USAgov](https://twitter.com/USAgov). On Snapchat, just search for NASA and USAGov. The full webinar, with a great Q&A section at the end, is available to [watch on DigitalGov&#8217;s YouTube channel](https://www.youtube.com/watch?v=G82jBHxE4Tk) or the embedded player below.
 
-{{< youtube G82jBHxE4Tk >}}
-
 _Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) and [register for an upcoming event]({{< ref "/events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgovu@gsa.gov). If you have a .gov or .mil email address, check out the various [DigitalGov Communities]({{< ref "/communities" >}}), like SocialGov and MobileGov, that you can join._

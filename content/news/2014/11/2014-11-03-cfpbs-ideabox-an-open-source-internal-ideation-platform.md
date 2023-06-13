@@ -36,8 +36,6 @@ Do you want to build an innovation program at your organization? Learn how you c
 
 CFPB built IdeaBox in-house and <a href="http://cfpb.github.io/">shared its source code on GitHub</a> for anyone to use. It can be fully customized and integrated into your organization’s intranet. <a href="https://www.youtube.com/watch?v=KRQ24645LOE">Check out the webinar</a>, download the <a href="http://www.slideshare.net/DigitalGov/idea-box-digitalgov-webinar-vff2">presentation slides</a>, or <a href="mailto:monte.desai@cfpb.gov">email Monte Desai</a> for more information on IdeaBox. 
 
-{{< youtube KRQ24645LOE >}}
-
 *** 
 
 _**Monte Desai** leads the internal innovation team at the <a href="http://www.consumerfinance.gov/">Consumer Financial Protection Bureau (CFPB)</a>._ 

@@ -42,5 +42,3 @@ JavaScript loading is the tricky component in all of this. Often, common compone
 Vanderlan also emphasized that performance testing should become a regular habit: Make someone accountable for testing, develop an action plan and focus on critical tasks. Start by knowing your website traffic—identify where most people going, and then work from there.
 
 Watch the webinar for other tips and tools that will help improve your website’s speed!
-
-{{< youtube sDTgYySlvEI >}}

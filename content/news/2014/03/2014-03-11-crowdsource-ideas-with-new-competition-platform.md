@@ -63,6 +63,4 @@ _(Click on the hyperlink to be taken directly to that discussion point in the we
 
 Challenge.sites.usa.gov was built with the shared sites.usa.gov service, which aims to offer agencies a system to provide content without having to build a site from scratch.
 
-{{< youtube Yw58jVvppAw >}}
-
 For more information, contact the team at <challenge@gsa.gov>. Happy crowdsourcing!

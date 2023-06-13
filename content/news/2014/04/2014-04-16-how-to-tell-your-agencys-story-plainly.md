@@ -38,10 +38,6 @@ Here are two webinars on plain language Katherine Spivey, Plain Language Launche
 
 Write for a government website? You’ll need the top web writing skills from the plain language set:
 
-{{< youtube j9FCji6-UJE >}}
-
 Write for an agency’s blog, Facebook, or Twitter account? You need to do social media and plain language at the same time:
-
-{{< youtube W756zIegQBs >}}
 
 _**Katherine Spivey** is the General Services Administration (GSA)&#8217;s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)._

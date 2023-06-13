@@ -41,8 +41,5 @@ For more, view Ortega’s slides or the webinar in its entirely below:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/bDhlFKAVs4Bj4V" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/prizes-contracts-grants-digital-gov-tb-corrected-typos-on-slides-1-and-2" title="Slides: Prizes, Contracts &amp; Grants: What Should I Do?" alt="Prizes, Contracts and Grants: What Should I Do?" target="_blank">Prizes, Contracts &amp; Grants: What Should I Do?</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
-{{< youtube 66EX-qTBgUk >}}
-
-
 _If you would like more information on challenges and prize competitions, become part of the_ [_Federal Challenge and Prize Community listserv_]({{< ref "challenges-prizes.md" >}})_. If you are interested in entering a challenge, see the list of government challenges at_ [_Challenge.gov_](http://challenge.gov/)_._
 _This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

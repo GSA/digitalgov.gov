@@ -43,8 +43,6 @@ If this sounds like something you or your agency want to be a part of, you shoul
 
 There, you will find a diverse community that is transforming society within the learning and the science worlds through a variety of collaborations. It’s a perfect illustration of public engagement and open innovation, bringing together people to help solve scientific problems regardless of age, gender, race, class, or other factors.
 
-{{< youtube FfrUME9y-wI >}}
-
 _Zohaa Ahmad is a rising junior at Riverside High School in Leesburg, VA who is interested in pursuing the medical field in the future. She is interning with the Innovation Portfolio in the Technology Transformation Service (TTS) Office of Citizen Services and Innovative Technologies (OCSIT) at GSA for summer 2016._
 
 Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) and [register for an upcoming event]({{< ref "/events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgovu@gsa.gov).

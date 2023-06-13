@@ -42,8 +42,5 @@ To get started, additional plugin software is needed for the Web browser: [JSON 
   3. [Exploring simple APIs](https://youtu.be/taTdJ6oOZX4?t=1626). This section covered detailed examples of how to check status of the API to see if it is functioning, getting the API key, pagination and filtering and a JSON to CSV converter.
 
 **The bottom line**—APIs can be powerful and easy to use tools for agencies and organization to provide new, effective ways of opening data to the public. Getting started is easy.
-  
-{{< youtube taTdJ6oOZX4 >}}
-
 
 _**John Paul** is an IT project manager for the United States Department of Agriculture (USDA). He has worked in information technology since 1999, and specializes in strategy, enterprise architecture and infrastructure._

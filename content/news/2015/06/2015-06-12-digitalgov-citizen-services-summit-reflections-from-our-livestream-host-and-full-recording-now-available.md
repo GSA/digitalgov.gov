@@ -35,8 +35,6 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
 
 **Open** was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
 
-{{< youtube nvB1udoMKfM >}}
-
 Megan Smith, U.S. Chief Technology Officer in the Office of Science and Technology Policy at the White House, gave the keynote opening and challenged agencies to “unlock federal talent.” She noted that agencies should “not just work on products and services,” but that they must unlock the talent of federal employees and make sure techies are brought to the table where the decisions are being made.
 
 {{< tweet user="USDS" id="601405291863920641" >}}

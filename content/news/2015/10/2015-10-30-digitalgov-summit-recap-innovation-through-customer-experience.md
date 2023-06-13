@@ -42,21 +42,3 @@ Thum pointed out internal data plays an important role in balancing customer exp
 “At Ex-Im Bank, we take a very strict view of processing time because our customers have told us that that&#8217;s very important, Thum said. “We have internal measurements where we measure processing time based on the product line, and we balance that with external metrics so that we can bring a holistic and authoritative view of our customers and our partners to the table.”
 
 The panel also discussed how they share CX data, the benefits and reasons for improving CX and the changes that occurred in their agencies.
-
-The full panel discussion is available below.
-
-## Recap Video Table of Contents
-
-[0:00 Introduction](https://www.youtube.com/watch?v=2dH_hvUNEVM)
-  
-[3:00 Identifying and Working with Customers](https://www.youtube.com/watch?v=2dH_hvUNEVM#t=3m00s)
-  
-[8:20 Measuring Success and Sharing Data](https://www.youtube.com/watch?v=2dH_hvUNEVM#t=8m20s)
-  
-[12:35 Why Have a Customer Focus?](https://www.youtube.com/watch?v=2dH_hvUNEVM#t=12m35s)
-  
-[15:33 How a Customer Focus Can Change an Agency](https://www.youtube.com/watch?v=2dH_hvUNEVM#t=15m33s)
-
-## Full Video
-
-{{< youtube 2dH_hvUNEVM >}} 

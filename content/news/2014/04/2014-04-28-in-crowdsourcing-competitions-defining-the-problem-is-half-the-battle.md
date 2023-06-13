@@ -67,6 +67,4 @@ _"Recent weather conditions have caused this year's crop of honey to be thicker 
 
 With this method, the potential solver has a much better idea of what he/she is trying to accomplish.
 
-{{< youtube oLAtcfGCcdc >}}
-
 *For more information on challenges and crowdsourcing, see the <a href="{{< ref "crowdsourcing-toolkit-for-federal-agencies.md" >}}">Crowdsourcing Toolkit for Federal Agencies</a> or email <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> to join the Challenges and Prizes Community of Practice listserv. To join the Federal Ideation Community of Practice, which focuses on internal agency ideation, email <a href="mailto:meredith.lee@st.dhs.gov">meredith.lee@st.dhs.gov</a>.*

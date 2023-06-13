@@ -19,8 +19,6 @@ topics:
 
 Now that Thunderclap has been [approved for government use]({{< ref "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.
 
-{{< youtube QuACkq02GVw >}}
-
 ## What Makes a Thunderclap?
 
  **Nicholas Garlow**, public affairs specialist with the **Department of Health and Human Services (HHS)** used Thunderclap to [support Open Enrollment Season](https://www.thunderclap.it/projects/9544-getcovered-by-march-31st) for Healthcare.gov. He outlined the necessary components to a campaign:
