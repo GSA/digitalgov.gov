@@ -158,6 +158,8 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 
 #### 2. Operation Rising Tide: Cognitive disability accommodations for the workforce
 
+{{< asset-static file="2023-ux-summit-session-3b.pptx" label="View the slides (PowerPoint presentation, 4.4 MB, 14 pages)" >}}
+
 {{< img-right src="dod-seal" >}}
 
 Government agencies use a range of internal systems to perform their duties, many of which are purpose-built by any number of diverse teams. The design and architecture of these systems is typically focused on fulfilling specific requirements without regard to usability. Currently, there is no established approach to assess or ensure usability of internal government systems regularly used by an agency's workforce. This results in application-specific design and function that is often unintuitive, brittle, and places undue burden on the user. Likewise, users are required to learn application-specific operations which do not generalize to other systems.
