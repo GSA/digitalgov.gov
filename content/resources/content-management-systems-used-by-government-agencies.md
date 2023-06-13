@@ -4,6 +4,8 @@ date: 2013-06-13 1:30:35 -0400
 title: Content Management Systems Used by Government Agencies
 summary: "A list of Content Management Systems (CMS) used by government agencies."
 
+redirectto: https://www.digitaldashboard.gov
+
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
