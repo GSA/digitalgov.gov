@@ -1,10 +1,9 @@
 ---
 date: 2023-06-13 15:25:00 -0500
-kicker: kick
+kicker: 
 title: How to choose the right metrics for your intranet
 deck: Establish performance metrics to meet the website’s goals
-summary: Explore key metrics to optimize your agency's intranet to foster
-  improved user engagement, experience, and overall satisfaction.
+summary: Explore key metrics to optimize your agency's intranet to foster improved user engagement, experience, and overall satisfaction.
 # See all topics at https://digital.gov/topics
 topics:
   - metrics
@@ -20,7 +19,9 @@ primary_image: 10x-areas-of-focus
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Intranets are vital tools for fostering collaboration, enhancing user engagement, and improving user experience. However, building a successful intranet for your federal agency is no small feat—it demands careful planning and constant monitoring.
 
 To ensure your intranet meets its intended goals, it's crucial to establish key performance metrics. Today, we're here to guide you through choosing and using these metrics to optimize your intranet.
@@ -31,12 +32,12 @@ Intranet objectives are the foundational bedrock on which your metrics should be
 
 Common intranet objectives for federal agencies vary based on the specific mission, goals, and [user needs](https://digital.gov/2015/07/20/the-content-corner-determining-your-users-needs/) of the agency. Nevertheless, they often include:
 
-* Enhancing internal communication: The intranet should foster efficient and effective communication between departments, teams, and individuals within the agency.
-* Promoting collaboration: The intranet should provide access to tools and platforms that support collaborative work, such as document sharing, project management, and communication channels.
-* Streamlining processes: By providing easy access to resources, tools, and applications, the intranet should improve internal workflows and processes.
-* Centralizing information: The intranet should serve as a centralized, reliable source of essential information, such as policies, procedures, news updates, and more.
-* Fostering a strong agency culture: By encouraging engagement, sharing successes, and strengthening the sense of community, the intranet can help build a solid agency culture.
-* Supporting professional development: The intranet should provide learning resources, training materials, and opportunities for skill development and career growth.
+* **Enhancing internal communication**: The intranet should foster efficient and effective communication between departments, teams, and individuals within the agency.
+* **Promoting collaboration**: The intranet should provide access to tools and platforms that support collaborative work, such as document sharing, project management, and communication channels.
+* **Streamlining processes**: By providing easy access to resources, tools, and applications, the intranet should improve internal workflows and processes.
+* **Centralizing information**: The intranet should serve as a centralized, reliable source of essential information, such as policies, procedures, news updates, and more.
+* **Fostering a strong agency culture**: By encouraging engagement, sharing successes, and strengthening the sense of community, the intranet can help build a solid agency culture.
+* **Supporting professional development**: The intranet should provide learning resources, training materials, and opportunities for skill development and career growth.
 
 Each of these objectives requires a unique set of metrics for evaluation. Below, we'll delve deeper into the types of metrics that might align with these objectives and how to use them effectively.
 
@@ -48,12 +49,12 @@ Intranet metrics, which form the core of any performance measurement plan, can b
 
 Usage metrics provide a comprehensive overview of how your intranet is being used. Some key metrics to consider include:
 
-* Visitors: The number of individual users who visit your intranet within a specific timeframe.
-* Views: The total number of pages viewed on your intranet, including repeated views of a single page.
-* Session duration: The amount of time users spend on your intranet in a single visit.
-* Bounce rate: The percentage of users who leave the intranet site after viewing only one page. A high bounce rate could indicate that users aren't finding the information they need or that the site isn't user-friendly.
-* Pages per session: This metric provides an average of the number of pages a user visits during a single session. High values may indicate that users are engaging with multiple resources or tools during their visit, which can be a positive sign of engagement and utility.
-* Peak usage times: Identifying peak usage times can help you schedule updates, maintenance, or crucial announcements when they're most likely to reach users.
+* **Visitors**: The number of individual users who visit your intranet within a specific timeframe.
+* **Views**: The total number of pages viewed on your intranet, including repeated views of a single page.
+* **Session duration**: The amount of time users spend on your intranet in a single visit.
+* **Bounce rate**: The percentage of users who leave the intranet site after viewing only one page. A high bounce rate could indicate that users aren't finding the information they need or that the site isn't user-friendly.
+* **Pages per session**: This metric provides an average of the number of pages a user visits during a single session. High values may indicate that users are engaging with multiple resources or tools during their visit, which can be a positive sign of engagement and utility.
+* **Peak usage times**: Identifying peak usage times can help you schedule updates, maintenance, or crucial announcements when they're most likely to reach users.
 
 These metrics help determine the reach of your intranet, highlight high-traffic areas, reveal where users spend most of their time, and uncover usage patterns that can guide optimization efforts.
 
@@ -61,13 +62,13 @@ These metrics help determine the reach of your intranet, highlight high-traffic 
 
 Engagement metrics offer a deeper understanding of how users interact with your intranet. They include:
 
-* Social interactions: Metrics such as comments, likes, and shares can indicate user engagement with the content on your intranet.
-* Participation in polls or surveys: High participation rates may suggest that users feel a sense of community and involvement.
-* Downloads: The number of downloads of resources like PDFs, guidelines, or forms can show how actively users are using these resources.
-* Completion of online training courses: Tracking completion rates can offer insights into the level of user engagement and the effectiveness of the resources provided.
-* Forum participation: Metrics like the number of new threads, responses to existing threads, or views on a thread can offer insights into user engagement levels.
-* Use of search box: This can provide insights into whether users are able to find what they need.
-* Attendance at virtual events or webinars: Tracking attendance or registration rates can be a useful engagement metric.
+* **Social interactions**: Metrics such as comments, likes, and shares can indicate user engagement with the content on your intranet.
+* **Participation in polls or surveys**: High participation rates may suggest that users feel a sense of community and involvement.
+* **Downloads**: The number of downloads of resources like PDFs, guidelines, or forms can show how actively users are using these resources.
+* **Completion of online training courses**: Tracking completion rates can offer insights into the level of user engagement and the effectiveness of the resources provided.
+* **Forum participation**: Metrics like the number of new threads, responses to existing threads, or views on a thread can offer insights into user engagement levels.
+* **Use of search box**: This can provide insights into whether users are able to find what they need.
+* **Attendance at virtual events or webinars**: Tracking attendance or registration rates can be a useful engagement metric.
 
 These metrics can reveal how well your intranet fosters communication and collaboration, and they can also indicate the effectiveness of your content strategy.
 
@@ -75,10 +76,10 @@ These metrics can reveal how well your intranet fosters communication and collab
 
 [Satisfaction metrics](https://digital.gov/2016/08/05/csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx/) measure users' perceptions and experiences with your intranet. They include:
 
-* Survey results: Regular surveys can gauge user satisfaction, gather feedback, and identify areas for improvement.
-* Feedback: Regular feedback collection can offer qualitative insights into user satisfaction and highlight potential issues.
-* Customer loyalty score: A measure of how likely users are to recommend the intranet to their colleagues.
-* Customer effort score: A measure of how easy it is for users to complete tasks on the intranet.
+* **Survey results**: Regular surveys can gauge user satisfaction, gather feedback, and identify areas for improvement.
+* **Feedback**: Regular feedback collection can offer qualitative insights into user satisfaction and highlight potential issues.
+* **Customer loyalty score**: A measure of how likely users are to recommend the intranet to their colleagues.
+* **Customer effort score**: A measure of how easy it is for users to complete tasks on the intranet.
 
 Collecting and analyzing these metrics can ensure your intranet meets user expectations, contributing to higher satisfaction and engagement. [Common Metrics: Guidance, Best Practices, and Tools](https://digital.gov/2013/07/15/digital-metrics-for-federal-agencies/#part-1) is also worth a read.
 
