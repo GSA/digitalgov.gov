@@ -87,10 +87,8 @@ Collecting and analyzing these metrics can ensure your intranet meets user expec
 
 To ensure your intranet meets its intended goals, each objective should pair with one or more metrics that provide means to quantify or qualitatively analyze the performance relative to that objective.
 
-The table below outlines eight common objectives for a federal intranet and the corresponding metrics that can help measure the success in achieving these objectives.
-
 <table class="usa-table usa-table--borderless">
-<caption>Borderless table: A borderless table can be useful when you want the information to feel more a part of the text it accompanies and extends.</caption>
+<caption>The table below outlines eight common objectives for a federal intranet and the corresponding metrics that can help measure the success in achieving these objectives.</caption>
   <thead>
     <tr>
       <th scope="col">Objectives</th>
