@@ -14,7 +14,7 @@ topics:
 authors:
   - jessica-dunbar
 slug: how-to-choose-the-right-metrics-for-your-intranet
-primary_image: 10x-areas-of-focus
+primary_image: thapana-onphalai-istock-getty-images-1453749005
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
