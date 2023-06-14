@@ -22,7 +22,7 @@
     "prettier:templates:fix": "npx prettier -w ./themes/**/*.html",
     "start": "npm-run-all --parallel local-build hugo workflow",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
-    "test:pa11y": "npx pa11y-ci --config .pa11yci",
+    "test:pa11y": "npx pa11y-ci --config .pa11yci --sitemap https://digital.gov/sitemap.xml --sitemap-find https://digital.gov --sitemap-replace localhost:1313 --sitemap-exclude '/201*|styleguide|images|img|join|apis'",
     "workflow": "npx netlify-cms-proxy-server"
   },
   "directories": {
