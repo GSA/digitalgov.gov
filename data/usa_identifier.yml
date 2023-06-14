@@ -14,8 +14,8 @@ identifier_data:
     links:
       - label: About GSA
         url: https://www.gsa.gov/about-us
-      - label: Accessibility support
-        url: https://www.gsa.gov/website-information/accessibility-aids
+      - label: Accessibility statement
+        url: https://www.gsa.gov/website-information/accessibility-statement
       - label: FOIA requests
         url: https://www.gsa.gov/reference/freedom-of-information-act-foia
       - label: No FEAR Act data
