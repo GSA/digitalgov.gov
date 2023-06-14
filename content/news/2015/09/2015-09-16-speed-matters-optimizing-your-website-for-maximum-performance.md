@@ -40,5 +40,3 @@ He said the best opportunity for optimization are those pretty images you have s
 JavaScript loading is the tricky component in all of this. Often, common components like jQuery or analytics tools can actually slow down the browser’s rendering speed. This is because JavaScript executes in a single thread in the browser; it blocks other activities from happening. In the case of a tool like Google Analytics, it has no part in rendering content on the page, so if possible, it should always be deferred as one of the last elements to be requested from the server. Each site is different in this respect, but identifying JavaScript that slows down the browser can yield significant performance wins.
 
 Vanderlan also emphasized that performance testing should become a regular habit: Make someone accountable for testing, develop an action plan and focus on critical tasks. Start by knowing your website traffic—identify where most people going, and then work from there.
-
-Watch the webinar for other tips and tools that will help improve your website’s speed!

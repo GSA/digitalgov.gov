@@ -37,5 +37,3 @@ Herrmann suggests developing a clear design model before coding starts. ABMC use
 Before the app’s release, ABMC asked the Federal CrowdSource Mobile Testing Program to help organize mobile testing because there was a concern over having too much content for a mobile app. They created a small test-case, based around a representation of future users, which had really positive results.
 
 “Please, please, please think about your audience,” Herrmann explained in the webinar. The user's end goal should always be in mind, and working with these user experience guidelines will help.
-
-You can also view the webinar in its entirety.

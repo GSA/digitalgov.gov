@@ -46,8 +46,6 @@ Google is far from being the only tech company in the ‘immersive experience’
 
 Looking for a way to add 360-degree photos to your content? <a href="https://www.google.com/streetview/publish/">Google Street View app</a> lets users create immersive photos with 360 cameras. Those looking for high quality satellite imagery of big news events can be alerted about new photos at <a href="http://g.co/GoogleMediaAlerts">g.co/GoogleMediaAlerts</a>. Lastly, Google recently teamed up with Storyful to create <a href="https://www.youtube.com/channel/UCOaMIPk5GtosYNi32liVbRg">Newswire</a>, a channel that features news related user-generated videos that have been verified by fact checkers.
 
-<a href="https://twitter.com/GoogleNewsLab">Follow Newslab on Twitter</a> and <a href="https://www.youtube.com/user/newslabatgoogle">watch Newslab on YouTube</a> to keep up with news about Google’s media production tools and resources. Watch the full webinar below.
-          
-{{< youtube Ae2efgu9As >}}
-          
+<a href="https://twitter.com/GoogleNewsLab">Follow Newslab on Twitter</a> and <a href="https://www.youtube.com/user/newslabatgoogle">watch Newslab on YouTube</a> to keep up with news about Google’s media production tools and resources.
+
 _Note: The mention of Google, Facebook, Twitter, and SnapChat are used for illustrative purposes, and does not imply an endorsement by the federal government or any specific federal agencies of these products or companies._
