@@ -33,7 +33,6 @@ function copyJquery() {
  * @return {File} common.js - The bundled and uglified script.
  */
 function compile() {
-  // Stream images is imported by itself in `content/images/_index.md`.
   return src([`${PROJECT_JS_SRC}/*.js`], {
     sourcemaps: true,
   })
