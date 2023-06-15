@@ -87,7 +87,8 @@
     {{- range $.Params.js -}}
       {{- $path := (printf "dist/%s" .) | absURL -}}
       <!-- CUSTOM JS -->
-      <script src="{{ $path }}" type="text/javascript" charset="utf-8"></script>
+      {{ printf "%#v" $path }}
+      <script src="{{ $path }}"></script>
     {{- end -}}
   {{- end -}}
 </html>
