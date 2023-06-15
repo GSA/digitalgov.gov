@@ -20,6 +20,9 @@ date: 2023-06-15 14:00:00 -0500
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-june-title-card
 ---
+
+{{< asset-static file="uswds-monthly-call-june-2023.pptx" label="View the slides (PowerPoint presentation, 2.0 MB, 79 pages)" >}}
+
 Join us as we talk about the easy-to-follow, manual accessibility and user experience (UX) tests we're developing for U.S. Web Design System ([USWDS) components](https://designsystem.digital.gov/components/). We’re calling these tests `Critical Checklists`.
 
 In this session, you’ll learn how we're approaching `Critical Checklists`:
