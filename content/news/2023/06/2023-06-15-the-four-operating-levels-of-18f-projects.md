@@ -2,8 +2,8 @@
 # Originally published at the following URL
 source_url: https://18f.gsa.gov/2023/06/13/The-four-operating-levels-of-18F-projects/
 source: 18f
-date: 2023-06-13 18:11:00 -0500
-title: "18F: Digital service delivery | The four operating levels of 18F projects"
+date: 2023-06-13 09:10:00 -0500
+title: "The four operating levels of 18F projects"
 deck: "At 18F, we partner with government agencies to help them deliver new or
   modernized digital services and help set them up for success after we conclude
   the project. To support these outcomes, we set up our work to track on four
@@ -22,4 +22,5 @@ slug: the-four-operating-levels-of-18f-projects
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
