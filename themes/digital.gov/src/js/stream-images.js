@@ -1,15 +1,15 @@
 jQuery(function ($) {
-  // Gets all the image sizes as paths
-  function get_all_image_sizes(uid, format, width, height) {
-    var sizes = ["200", "400", "600", "800", "1200", "2400"]; // all image sizes
-    var imgs = [];
-    $.each(sizes, function (key, size) {
+  // eslint-disable-next-line no-unused-vars
+  function getAllImageSizes(uid, format, width, height) {
+    const sizes = ["200", "400", "600", "800", "1200", "2400"]; // all image sizes
+    const imgs = [];
+    $.each(sizes, (key, size) => {
       if (width > size) {
         // big-bend_w200.jpg
-        var img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}.${format}`;
+        const img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}.${format}`;
         // big-bend_w200bw.jpg
-        var bw_img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}bw.${format}`;
-        imgs.push(img, bw_img);
+        const bwImg = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}bw.${format}`;
+        imgs.push(img, bwImg);
       }
     });
     return imgs;
@@ -29,7 +29,7 @@ jQuery(function ($) {
       var caption = img.caption;
       var alt = img.alt;
       var format = img.format;
-      var all_sizes = get_all_image_sizes(uid, format, width, height);
+      var all_sizes = getAllImageSizes(uid, format, width, height);
 
       // big-bend.jpg
       var filename = `${uid}.${format}`;
