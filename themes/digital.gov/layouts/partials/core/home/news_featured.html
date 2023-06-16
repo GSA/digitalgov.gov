@@ -24,8 +24,8 @@
         {{/* Future Events =========================== */}}
         {{/* gets the # of news items to display from the config.yml */}}
         {{- $events_count := .Site.Params.events_count -}}
-        {{- $events := where .Site.RegularPages "Section" "events" -}}
-        {{- $events := $events | first $events_count }}
+        {{- $events_future := where (where .Site.RegularPages "Section" "events") ".Date.Unix" ">" now.Unix -}}
+        {{- $events_future := $events_future | first $events_count }}
 
         {{/* Past Events =========================== */}}
         {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
@@ -48,16 +48,16 @@
         {{- range $i, $el := first $stream_count $stream -}}
 
           {{/* Display first future event in 3 position of the stream */}}
-          {{- with $events -}}
+          {{- with $events_future -}}
             {{- if eq $i 2 -}}
-              {{- range first 1 $events -}}
+              {{- range first 1 $events_future -}}
                 {{- .Render "card-event" -}}
               {{- end -}}
             {{- end -}}
 
             {{/* Display second future event in 9 position of the stream */}}
             {{- if eq $i 8 -}}
-              {{- range first 1 (after 1 $events) -}}
+              {{- range first 1 (after 1 $events_future) -}}
                 {{- .Render "card-event" -}}
               {{- end -}}
             {{- end -}}

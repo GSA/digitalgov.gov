@@ -7,6 +7,7 @@ host: U.S. Web Design System
 event_organizer: Digital.gov
 cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItceGprT0tHyOpdv40WB6ome7t20p6EHQ
+date: 2023-06-15 14:00:00 -0500
 end_date: 2023-06-15 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
@@ -15,7 +16,6 @@ topics:
   - user-experience
 slug: uswds-monthly-call-june-2023
 captions: https://www.streamtext.net/player?event=
-date: 2023-06-15 14:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-june-title-card
