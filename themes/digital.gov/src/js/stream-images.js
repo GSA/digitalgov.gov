@@ -1,4 +1,5 @@
-jQuery(function ($) {
+/* eslint-disable no-undef */
+jQuery(($) => {
   // eslint-disable-next-line no-unused-vars
   function getAllImageSizes(uid, format, width, height) {
     const sizes = ["200", "400", "600", "800", "1200", "2400"]; // all image sizes
@@ -16,28 +17,31 @@ jQuery(function ($) {
   }
 
   // The all-images JSON file is now included via the "footer--custom-js" partial
-  // var all_images_json = '/images/v1/json/';
+  // var all_imagesJson = '/images/v1/json/';
 
   // Gets all the image from the JSON file and appends them to #all-images div
-  $.getJSON(all_images_json, function (data) {
-    $.each(data, function (key, img) {
-      var width = img.width;
-      var height = img.height;
-      var date = img.date;
-      var uid = img.uid;
-      var credit = img.credit;
-      var caption = img.caption;
-      var alt = img.alt;
-      var format = img.format;
-      var all_sizes = getAllImageSizes(uid, format, width, height);
+  $.getJSON(all_imagesJson, (data) => {
+    $.each(data, (key, img) => {
+      let { width } = img;
+      let { height } = img;
+      let { date } = img;
+      let { uid } = img;
+      let { credit } = img;
+      let { caption } = img;
+      let { alt } = img;
+      let { format } = img;
+      // eslint-disable-next-line no-unused-vars
+      let allSizes = getAllImageSizes(uid, format, width, height);
 
       // big-bend.jpg
-      var filename = `${uid}.${format}`;
+      // eslint-disable-next-line no-unused-vars
+      let filename = `${uid}.${format}`;
       // big-bend_jpg.jpg
-      var proxy_img = `${root_url}/img/proxy/${uid}_${format}.${format}`;
+      // eslint-disable-next-line no-unused-vars, camelcase
+      let proxyImg = `${root_url}/img/proxy/${uid}_${format}.${format}`;
 
       // If the image is greater than 400px
-      var thumb;
+      let thumb;
       if (width > 400) {
         // get the w400 image
         // big-bend_w400.jpg
@@ -48,7 +52,7 @@ jQuery(function ($) {
         thumb = `https://s3.amazonaws.com/digitalgov/${uid}.${format}`;
       }
 
-      var img_asset = `<div class="card-img">
+      let imgAsset = `<div class="card-img">
         <div class="media">
           <img src="${thumb}">
           <p>${caption}</p>
@@ -74,7 +78,7 @@ jQuery(function ($) {
       </div>`;
 
       // Appends img_asset to DIV
-      $("#stream-images").append(img_asset);
+      $("#stream-images").append(imgAsset);
     });
   });
 });
