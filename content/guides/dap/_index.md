@@ -11,6 +11,7 @@ aliases:
   - /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
   - /services/dap/dap-digital-metrics-guidance-and-best-practices/
   - /services/dap/guidance-for-dap-gov-wide-data/
+  - /guides/dap/become-a-dap-certified-analyst/
 
 ---
 
