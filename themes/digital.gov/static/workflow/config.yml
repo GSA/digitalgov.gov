@@ -493,7 +493,7 @@ collections:
     description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
-    path: "{{fields.date | date('YYYY-MM')}}/{{slug}}"
+    path: "{{fields.date | date('YYYY-MM-DD')}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
     preview_path_date_field: "date"
@@ -506,15 +506,15 @@ collections:
       - label: "Start Date/Time"
         name: "date"
         widget: "datetime"
-        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
-        timeFormat: "HH:mm" # e.g. 21:00
+        date_format: "YYYY-MM-DD" # e.g. 2021-11.23
+        time_format: "HH:mm" # e.g. 21:00
         format: "YYYY-MM-DD HH:mm:00 -0500"
         hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
       - label: "End time"
         name: "end_date"
         widget: "datetime"
-        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
-        timeFormat: "HH:mm" # e.g. 21:00
+        date_format: "YYYY-MM-DD" # e.g. 2021-11.23
+        time_format: "HH:mm" # e.g. 21:00
         format: "YYYY-MM-DD HH:mm:00 -0500"
         hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
 
