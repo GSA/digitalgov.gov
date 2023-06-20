@@ -493,7 +493,7 @@ collections:
     description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
-    path: "{{fields.date | date('YYYY-MM-DD')}}/{{slug}}"
+    path: "{{fields.date}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
     preview_path_date_field: "date"
