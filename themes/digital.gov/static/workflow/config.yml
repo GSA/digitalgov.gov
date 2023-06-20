@@ -494,10 +494,10 @@ collections:
     folder: "content/events"
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     # path: "{{year}}/{{month}}/{{slug}}"
-    path: "{{start_date | date('YYYY-MM')}}/{{slug}}"
+    path: "{{start_date | date('YYYY')}}/{{start_date | date('MM')}}/{{start_date | date('YYYY')}}-{{start_date | date('MM')}}-{{start_date | date('DD')}}-{{title}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "event/{{year}}/{{month}}/{{day}}/{{title}}"
-    preview_path_date_field: "date"
+    preview_path_date_field: "start_date"
     fields:
       - label: "Event Title"
         name: "title"
