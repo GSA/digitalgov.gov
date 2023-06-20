@@ -19,11 +19,12 @@ captions: https://www.streamtext.net/player?event=
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-june-title-card
+
 ---
 
 {{< asset-static file="uswds-monthly-call-june-2023.pptx" label="View the slides (PowerPoint presentation, 2.0 MB, 79 pages)" >}}
 
-Join us as we talk about the easy-to-follow, manual accessibility and user experience (UX) tests we're developing for U.S. Web Design System ([USWDS) components](https://designsystem.digital.gov/components/). We’re calling these tests `Critical Checklists`.
+Join us as we talk about the easy-to-follow, manual accessibility and user experience (UX) tests we're developing for U.S. Web Design System ([USWDS) components](https://designsystem.digital.gov/components/). We're calling these tests `Critical Checklists`.
 
 In this session, you’ll learn how we're approaching `Critical Checklists`:
 
@@ -36,9 +37,9 @@ In this session, you’ll learn how we're approaching `Critical Checklists`:
 
 ## Speakers
 
-* **Dan Williams -** Product Lead, USWDS
-* **Amy Cole -** Accessibility Specialist, USWDS
-* **Jacline Contrino -** UX Researcher, USWDS
+* **Dan Williams** &mdash; Product Lead, USWDS
+* **Amy Cole** &mdash; Accessibility Specialist, USWDS
+* **Jacline Contrino** &mdash; UX Researcher, USWDS
 
 ## Join our Communities of Practice
 
