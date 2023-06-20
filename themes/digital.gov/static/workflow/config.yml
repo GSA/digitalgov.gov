@@ -390,7 +390,16 @@ collections:
       - label: "Event Related CoP"
         name: "cop_events"
         widget: "select"
-        options: ["communicators", "multilingual", "plain-language", "web-managers", "web-analytics", "social-media", "user-experience"]
+        options:
+          [
+            "communicators",
+            "multilingual",
+            "plain-language",
+            "web-managers",
+            "web-analytics",
+            "social-media",
+            "user-experience",
+          ]
         collection: "events"
         default: ""
         multiple: true
@@ -475,6 +484,39 @@ collections:
         widget: "markdown"
         required: false
         <<: *editorComponents
+
+  # FUTURE EVENTS =======================
+  - <<: *defaults
+    name: "future-events"
+    label: "Future Events"
+    label_singular: "Future Event"
+    description: "This page will help create a new event on Digital.gov"
+    folder: "content/events"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    path: "{{fields.date | date('YYYY-MM')}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
+    preview_path_date_field: "date"
+    fields:
+      - label: "Event Title"
+        name: "title"
+        widget: "string"
+        hint: "Short, topical, no acronyms."
+        required: false
+      - label: "Start Date/Time"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
 
   # NEWS =======================
   - <<: *defaults
@@ -786,7 +828,6 @@ collections:
         required: false
         <<: *editorComponents
 
-
   # SHORT LINK =======================
   - <<: *defaults
     name: "shortlink"
@@ -1047,11 +1088,15 @@ collections:
       - label: "File"
         name: "file"
         widget: "file"
-        pattern: ['.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$', "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m"]
+        pattern:
+          [
+            '.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$',
+            "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m",
+          ]
         media_library:
           config:
             multiple: true
-            
+
   # IMAGE UPLOAD =======================
   - <<: *defaults
     name: "image-upload"
