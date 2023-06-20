@@ -494,7 +494,7 @@ collections:
     folder: "content/events"
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     # path: "{{year}}/{{month}}/{{slug}}"
-    path: "{{fields.start_date}}/{{slug}}"
+    path: "{{start_date}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "event/{{year}}/{{month}}/{{day}}/{{title}}"
     preview_path_date_field: "date"
