@@ -496,7 +496,7 @@ collections:
     # path: "{{year}}/{{month}}/{{slug}}"
     path: "{{fields.start_date}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "event/{{year}}/{{month}}/{{day}}/{{title}}""
+    preview_path: "event/{{year}}/{{month}}/{{day}}/{{title}}"
     preview_path_date_field: "date"
     fields:
       - label: "Event Title"
