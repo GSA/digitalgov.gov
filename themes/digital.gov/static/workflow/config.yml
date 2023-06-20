@@ -487,15 +487,16 @@ collections:
 
   # FUTURE EVENTS =======================
   - <<: *defaults
-    name: "future-events"
+    name: "future_events"
     label: "Future Events"
     label_singular: "Future Event"
     description: "This page will help create a new event on Digital.gov"
     folder: "content/events"
     summary: "{{title}} ({{year}}-{{month}}-{{day}})"
-    path: "{{fields.date}}/{{slug}}"
+    # path: "{{year}}/{{month}}/{{slug}}"
+    path: "{{fields.start_date}}/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: event/{{year}}/{{month}}/{{day}}/{{title}}
+    preview_path: "event/{{year}}/{{month}}/{{day}}/{{title}}""
     preview_path_date_field: "date"
     fields:
       - label: "Event Title"
@@ -504,7 +505,7 @@ collections:
         hint: "Short, topical, no acronyms."
         required: false
       - label: "Start Date/Time"
-        name: "date"
+        name: "start_date"
         widget: "datetime"
         date_format: "YYYY-MM-DD" # e.g. 2021-11.23
         time_format: "HH:mm" # e.g. 21:00
