@@ -29,6 +29,8 @@ There’s no need to reinvent the wheel. Ask what has been meaningful in past jo
 
 Here are 10 ideas (plus 5 bonus ideas for supervisors) to get started.
 
+{{< img src="muhamad-chabib-alwi-istock-getty-images-1443417048" >}}
+
 ## 10 ideas for everyone
 
 ### 1. Create a tradition of celebrating Public Service Recognition Week
@@ -99,6 +101,8 @@ Try to rebalance things so no one ends up with too much to do or all of the less
 ### 4. Capture in detail what the employee does well as part of the yearly performance review
 
 Take the time to do this properly, and don’t fall into the trap of complaining about the extra work inherent in performance reviews to your employees! These documents summarize 52 weeks of their efforts, so don’t undo your appreciation efforts with a rushed job and complaints.
+
+{{< img src="muhamad-chabib-alwi-istock-getty-images-1428703258-2" >}}
 
 ### 5. Use onboarding to learn your employees’ preferences
 
