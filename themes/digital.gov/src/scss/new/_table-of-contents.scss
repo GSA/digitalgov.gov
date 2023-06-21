@@ -19,10 +19,10 @@
     @include add-list-reset;
     li {
       margin: units("105") units(0);
-      @include u-font("sans", "xs");
-      @include u-line-height("sans", 3);
 
       overflow-wrap: break-word;
+      @include u-font("sans", "xs");
+      @include u-line-height("sans", 3);
 
       &:last-child {
         margin-bottom: units(0);
