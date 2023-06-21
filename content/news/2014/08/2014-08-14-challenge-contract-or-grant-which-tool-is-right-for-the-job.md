@@ -1,8 +1,8 @@
 ---
 slug: challenge-contract-or-grant-which-tool-is-right-for-the-job
 date: 2014-08-14 9:52:00 -0400
-title: 'Challenge, Contract or Grant &#8211; Which tool is right for the job?'
-summary: Choosing between a contract, a grant, or a public prize competition to get solutions to the problems your agency faces is a difficult task. Each is a tool that has different qualities and each might be the best choice for varying situations. Sam Ortega, the manager of the Centennial Challenges program at NASA, spoke about
+title: "Challenge, Contract or Grant &#8211; Which tool is right for the job?"
+summary: "Choosing between a contract, a grant, or a public prize competition to get solutions to the problems your agency faces is a difficult task. Each is a tool that has different qualities and each might be the best choice for varying situations."
 authors:
   - tlowden
 topics:
@@ -12,11 +12,11 @@ topics:
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - innovation
-  - nasa
   - recaps
+
 ---
 
-{{< legacy-img src="2014/08/250-x-265-Checklist-PixelEmbargo-iStock-Thinkstock-164155765.jpg" alt="Checklist" caption="PixelEmbargo/iStock/Thinkstock" >}}
+{{< legacy-img-right src="2014/08/250-x-265-Checklist-PixelEmbargo-iStock-Thinkstock-164155765.jpg" alt="Checklist" caption="PixelEmbargo/iStock/Thinkstock" >}}
 
 Choosing between a contract, a grant, or a public prize competition to get solutions to the problems your agency faces is a difficult task. Each is a tool that has different qualities and each might be the best choice for varying situations.
 
