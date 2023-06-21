@@ -6,7 +6,6 @@ summary: 'The Digital Analytics Program (DAP) offers advanced, easy Web analytic
 guide: dap
 aliases:
   - /guide/dap/
-  - /guides/dap/become-a-dap-certified-analyst/
   - /dap/
   - /services/dap/
   - /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
