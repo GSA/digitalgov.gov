@@ -1,8 +1,8 @@
 ---
 slug: six-tips-for-measuring-success-in-challenge-competitions
 date: 2014-03-20 10:09:09 -0400
-title: Six Tips for Measuring Success in Challenge Competitions
-summary: 'You&#8217;ve run a challenge and prize competition, selected your winners, and distributed the prizes. If you think you&#8217;re done, guess again. There&#8217;s much more to challenge and prize competition success than getting a solution that solves your problem or meets the criteria. You need to measure success right'
+title: "Six Tips for Measuring Success in Challenge Competitions"
+summary: "You've run a challenge and prize competition, selected your winners, and distributed the prizes. If you think you're done, guess again. There's much more to challenge and prize competition success than getting a solution that solves your problem or meets the criteria."
 authors:
   - ktrebon
 topics:
@@ -11,12 +11,13 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - data-gov
-  - epa
   - innovation
-  - united-states-department-of-energy
+
 ---
 
-{{< legacy-img src="2014/03/measure-success-250x166.jpg" alt="measuring tape next to the word success" >}}You&#8217;ve run a [challenge and prize competition]({{< ref "2013-11-01-federal-government-challenges-and-contests.md" >}} "Post that defines challenge and prize competition"), selected your winners, and distributed the prizes. If you think you&#8217;re done, guess again. There&#8217;s much more to challenge and prize competition success than getting a solution that solves your problem or meets the criteria.
+You&#8217;ve run a [challenge and prize competition]({{< ref "2013-11-01-federal-government-challenges-and-contests.md" >}} "Post that defines challenge and prize competition"), selected your winners, and distributed the prizes. If you think you&#8217;re done, guess again. There&#8217;s much more to challenge and prize competition success than getting a solution that solves your problem or meets the criteria.
+
+{{< legacy-img-right src="2014/03/measure-success-250x166.jpg" alt="A measuring tape is next to the word success." >}}
 
 You need to measure success right after your challenge as you work to implement the winning solution. But you also need to measure success over time by keeping in touch with your winners and the other contestants. Set aside time on your calendar to follow up by phone or email. Continually measure success and communicate all this information up your chain of command.
 
