@@ -88,18 +88,7 @@
 
       & > a {
         @include u-text("semibold");
-
-        &::after {
-          content: "";
-
-          @include u-border-left("05", "primary-darker", "solid");
-          @include u-radius(0);
-          @include u-position("absolute");
-          @include u-top(0);
-          @include u-bottom(0);
-          @include u-left(0);
-          @include u-z(100);
-        }
+        @include add-bar("05", "gray-cool-90", "left", "pill", 0.5, 0.5);
       }
 
       a {
@@ -135,8 +124,7 @@
 
     li.usa-sidenav__item--read {
       background-color: color("gray-cool-4");
-      // background-color: color("blue-warm-10v");
-      border-left: 0.25rem solid black;
+      @include add-bar("05", "primary", "left", "pill", 0.5, 0.5);
     }
   }
 
