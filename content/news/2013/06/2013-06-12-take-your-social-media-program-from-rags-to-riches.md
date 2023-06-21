@@ -14,7 +14,7 @@ topics:
 
 Are you a small or even one-deep government social media team who wonders how with limited resources you can still deliver the program citizens need? Do you have a larger team but still want to know how you can roll up your sleeves and make a change?
 
-[{{< legacy-img src="2013/06/Panning-for-Gold.jpg" alt="Panning for gold" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/Panning-for-Gold.jpg)
+{{< legacy-img-right src="2013/06/Panning-for-Gold.jpg" alt="Panning for gold" >}}
 
 If either of these or anything in between is you, then take a look at the webinar on how to take your limited social media program from “rags to riches.&#8221;
 
