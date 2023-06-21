@@ -52,7 +52,7 @@
 
         &:hover {
           @include u-text("white");
-          @include u-bg("primary-dark");
+          @include u-bg("blue-warm-60v");
         }
 
         .arrow-right {
@@ -118,5 +118,29 @@
         @include u-display("block");
       }
     }
+
+    li.usa-sidenav__item {
+      border-top: 1px solid color("gray-cool-60");
+
+      a {
+        &:not(.usa-current) {
+          color: color("gray-cool-90");
+        }
+
+        &:hover:not(.usa-current) {
+          color: color("blue-warm-60v");
+        }
+      }
+    }
+
+    li.usa-sidenav__item--read {
+      // background-color: color("blue-warm-10v");
+      border-left: 0.25rem solid black;
+      background-color: color("gray-cool-4");
+    }
+  }
+
+  .usa-sidenav {
+    border-bottom: 1px solid color("gray-cool-60");
   }
 }
