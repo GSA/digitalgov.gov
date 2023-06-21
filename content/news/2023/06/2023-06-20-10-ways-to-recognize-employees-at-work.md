@@ -86,6 +86,8 @@ Who doesn’t want a day off to themselves? Look into whether your agency has �
 
 Supervisors often have more say over the time and tasks of their teams, so here are five bonus ideas specifically for managers.
 
+{{< img src="muhamad-chabib-alwi-istock-getty-images-1428703258-2" >}}
+
 ### 1. Hold meaningful one-on-one meetings
 
 Be fully attentive - don’t multitask or allow these to be regularly postponed or interrupted.
@@ -101,8 +103,6 @@ Try to rebalance things so no one ends up with too much to do or all of the less
 ### 4. Capture in detail what the employee does well as part of the yearly performance review
 
 Take the time to do this properly, and don’t fall into the trap of complaining about the extra work inherent in performance reviews to your employees! These documents summarize 52 weeks of their efforts, so don’t undo your appreciation efforts with a rushed job and complaints.
-
-{{< img src="muhamad-chabib-alwi-istock-getty-images-1428703258-2" >}}
 
 ### 5. Use onboarding to learn your employees’ preferences
 
