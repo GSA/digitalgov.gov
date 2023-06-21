@@ -36,7 +36,7 @@ The participants in the workshop were given a mock scenario, improving the “lu
 
 Emphasis was placed on listening rather than leading, and using phrases like “tell me more” and “why.”
 
-The results were telling and varied.  The &#8220;important&#8221; part of a lunch break was reported in many forms:
+The results were telling and varied. The &#8220;important&#8221; part of a lunch break was reported in many forms:
 
   * Escaping the office
   * A chance to get needed exercise
