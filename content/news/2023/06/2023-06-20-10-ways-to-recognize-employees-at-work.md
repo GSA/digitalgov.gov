@@ -3,8 +3,7 @@ date: 2023-06-21 18:26:00 -0500
 kicker: kicker
 title: 10 ways to recognize employees at work
 deck: Create a culture of appreciation
-summary: Showing appreciation works best when it’s not one-size-fits all. Here
-  are 10 ideas to get started.
+summary: Showing appreciation works best when it’s not one-size-fits all. Here are 10 ideas to get started.
 # See all topics at https://digital.gov/topics
 topics:
   - human-resources
@@ -14,12 +13,14 @@ topics:
 authors:
   - laura-larrimore
 slug: 10-ways-to-recognize-employees-at-work
-primary_image: employee-recognition-muhamad-chabib-alwi-istock-getty-images-1443417048-comp
+primary_image: "muhamad-chabib-alwi-istock-getty-images-1443417048"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 How do you acknowledge your federal colleagues in ways they prefer? While some people love being the center of attention, others may threaten to call in sick at the prospect of going onstage to accept an award. Appreciation is not one-size-fits-all.
 
 Positive professional relationships are cultivated by listening to, learning from, and caring for our colleagues. Through open communication, we can discover how our colleagues like to be recognized and what is most meaningful to them. If you've never had that conversation, it is not too late to ask.
