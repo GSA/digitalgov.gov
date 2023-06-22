@@ -61,7 +61,7 @@ So in addition to those changes, we have a few more notable updates in this rele
 
 - **Stopped using font smoothing.** Font smoothing was a technique that resulted in thinner fonts when displaying light text on dark backgrounds. It's a technique that's no longer in favor and can compromise legibility and readability, so we've removed it from the limited cases where we used it.
 - **Labeled external links for screen readers.** Now screen readers will announce links that use the external link icon as external links. It will also announce links that open in a new tab.
-- Updated individual Sass map settings without affecting defaults.** Previously, changing a USWDS setting that was part of a Sass map — like utility output settings — meant you had to explicitly set every other value in the map as well, or else they'd get set to false. Now you can update only the map setting you want to change, and every other value in the map will retain its default settings.
+- **Updated individual Sass map settings without affecting defaults.** Previously, changing a USWDS setting that was part of a Sass map — like utility output settings — meant you had to explicitly set every other value in the map as well, or else they'd get set to false. Now you can update only the map setting you want to change, and every other value in the map will retain its default settings.
 - **Added two new settings to customize accordion background colors.** Now you can change the background color of accordions site-wide using settings. 
 - **Removed unused utility builder comments from compiled CSS.** Depending on how you compile your Sass, these comments could take up dozens of K. Now they're gone!
 - **Fixed an issue with large file previews in File Upload.** Adding large files into the file upload could result in an infinite spinner for the file's preview. Now the component can better handle large files. 
@@ -109,7 +109,7 @@ Amy: Thanks for the introduction, Dan. I appreciate the time everyone is taking 
 
 **Slide 21:** Lastly, we recognize that our federal design system is held to higher accessibility standards than other design systems. Section 508 is the law, and we need to work hard to provide accessible components, templates, patterns, and guidance — and grow the behaviors and practices that result in better Section 508 conformance across government.
 
-**Slide 22:** **How’d we get started understanding critical checklists? **
+**Slide 22:** **How’d we get started understanding critical checklists?**
 
 **Slide 23:** Was anyone else doing this? In an effort to understand critical checklists in the design system environment, we performed a landscape analysis and reviewed about 30 design systems through the lens of accessibility. What are others doing? What accessibility resources did they offer? What could we emulate? What could we improve upon? What gaps did we find?
 
@@ -259,7 +259,7 @@ Overall, the sessions went really well and we got some excellent feedback. It’
 
 **Slide 64:** We discovered that we are on the right track with the content, mostly.
 
-**Slide 65:** Overall, it meets or exceeds user expectations — the quote you see on this slide shows one user saying "*I think that's it's hard to think of all the pieces of accessibility… and I think this does a really good job (at a) high level, considering all of the pieces and also encouraging testing. Even showing or telling them how to test, (the) tools to use. It's very well put together*.”
+**Slide 65:** Overall, it meets or exceeds user expectations — the quote you see on this slide shows one user saying, "*I think that's it's hard to think of all the pieces of accessibility… and I think this does a really good job (at a) high level, considering all of the pieces and also encouraging testing. Even showing or telling them how to test, (the) tools to use. It's very well put together*.”
 
 **Slide 66:** So, participants were really excited about it and felt that it’d help them feel more confident that the accordion component checks all the accessibility boxes while also empowering them to test their own implementations. The content was also fairly complete — there were a few suggestions for content to add, but overall, the document covered most of what users seemed to need.
 
