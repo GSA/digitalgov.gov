@@ -88,14 +88,16 @@
 
       & > a {
         @include u-text("semibold");
-        @include add-bar("05", "gray-cool-90", "left", "pill", 0.5, 0.5);
       }
 
       a {
         span.arrow-right {
           @include u-margin-left("105");
-
           transform: rotate(90deg);
+        }
+
+        &::after {
+          background-color: transparent;
         }
       }
 
@@ -124,7 +126,6 @@
 
     li.usa-sidenav__item--read {
       background-color: color("gray-cool-4");
-      @include add-bar("05", "primary", "left", "pill", 0.5, 0.5);
     }
   }
 
