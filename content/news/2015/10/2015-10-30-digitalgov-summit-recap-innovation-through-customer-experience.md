@@ -13,27 +13,21 @@ topics:
   - customer-service
   - cx
   - digitalgov-summit
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
-  - Internal Revenue Service
-  - IRS
   - recaps
-  - US Citizenship and Immigration Service
-  - USCIS
 
 ---
 
-{{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
-
 Meeting customer needs can be done, no matter what agency you represent.
 
-A [panel discussion](https://www.youtube.com/watch?v=2dH_hvUNEVM) at the [2015 DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/) delved into customer experience (CX) work at three agencies with diverse missions.
+A panel discussion at the 2015 DigitalGov Citizen Services Summit delved into customer experience (CX) work at three agencies with diverse missions.
+
+{{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="A business concept compass graphic, with the arrow pointing towards the word customer." caption="olm26250, iStock, Thinkstock" >}}
 
 Andrew Hughey, Product Development Director at the Internal Revenue Service (IRS), moderated the panel that featured Stephanie Thum, Vice President of Customer Experience at the Export-Import Bank of the United States (Ex-Im Bank), and David Simeon, myUSCIS product manager for U.S. Citizenship and Immigration Services (USCIS).
 
 To become customer-driven, agencies must first know their customers. Customer data is a starting point, but it is not enough.
 
-“We [are] fortunate enough to have plenty of demographics about our customers,” Simeon said. “We have studies done by independent organizations; we have studies done by ourselves. But, demographics and quantitative numbers don&#8217;t really tell the true story.”
+“We [are] fortunate enough to have plenty of demographics about our customers,” Simeon said. “We have studies done by independent organizations; we have studies done by ourselves. But, demographics and quantitative numbers don't really tell the true story.”
 
 Usability testing, journey mapping, focus groups and interviews with customers and stakeholders are a few of the ways the IRS delves into the customer experience, Hughey said. They even look at app store reviews.
 
