@@ -1,6 +1,6 @@
 ---
 date: 2023-06-21 18:26:00 -0500
-kicker: kicker
+kicker: 
 title: 10 ways to recognize employees at work
 deck: Create a culture of appreciation
 summary: Showing appreciation works best when it’s not one-size-fits all. Here are 10 ideas to get started.
