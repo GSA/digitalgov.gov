@@ -2,14 +2,12 @@
 slug: how-abmc-got-started-with-mobile-app-development
 date: 2015-12-31 10:00:12 -0400
 title: How ABMC Got Started with Mobile App Development
-summary: In the sea of apps, users get choosey with which apps can take up space on their phone. With one uninstall click the user can decide to breakup with the app if they have a bad experience. To keep your app from being all alone, the MobileGov Community of Practice put together six Mobile User
+summary: The MobileGov Community of Practice put together six Mobile User Experience Guidelines to help keep mobile users in love with their apps. DigitalGov University hosted a webinar in which the American Battle Monuments Commission (ABMC) highlighted two of these guidelines.
 authors:
   - jenny-johnson
 topics:
   - mobile
-  - abmc
-  - american-battle-monuments-commission
-  - Federal CrowdSource Mobile Testing Program
+  - federal-crowdsource-mobile-testing-program
   - mobile
   - mobile-testing
   - mobile-ux-guideline-2
