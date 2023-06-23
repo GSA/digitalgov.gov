@@ -40,5 +40,3 @@ Two champions debated this hot topic:
   * Learn the pros and cons of mobile apps and mobile websites
   * Identify which is better to meet your needs
   * Review best practices for each
-
-{{< youtube 1nJDU55PC7A >}}
