@@ -17,13 +17,15 @@ primary_image: "how-ux-solves-problems-umbrella-image-by-dan-willis-uxcrank"
 
 ---
 
+{{< legacy-img-right src="2014/08/250-x-186-How-UX-Solves-Problems-Umbrella-image-by-Dan-Willis-uxcrank.jpg" alt="How UX Solves Problems on an umbrella" caption="Dan Willis, uxcrank" >}}
+
 The good news: Your boss is interested in User Experience!
 
 The news: She wants you to do something about it ... NOW.
 
 Well, don’t be alarmed; you can start by figuring out two simple things:
 
-{{< legacy-img-right src="2014/08/250-x-186-How-UX-Solves-Problems-Umbrella-image-by-Dan-Willis-uxcrank.jpg" alt="How UX Solves Problems on an umbrella" caption="Dan Willis, uxcrank" >}}
+
 
 1. Identify the **Stage** you&#8217;re in in the development cycle. Write it down.
 
