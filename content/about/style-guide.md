@@ -22,9 +22,9 @@ Not everyone who uses government services or engages with federal agencies are U
 Additionally, where possible:
 
 * Avoid using gendered pronouns; instead, use they or their.
-* Avoid age-related descriptions of people unless absolutely necessary for the content; in those cases, try using older people or older person—instead of elderly or senior.
+* Avoid age-related descriptions of people unless absolutely necessary for the content; in those cases, try using `older people` or `older person` &mdash; instead of *elderly* or *senior*.
 
-See the **18F Content Guide** for more on inclusive language: https://content-guide.18f.gov/inclusive-language/
+See the **18F Content Guide** for more on inclusive language: https://content-guide.18f.gov/inclusive-language/.
 
 ## Grammar and spelling
 
@@ -36,8 +36,8 @@ Capitalize proper nouns for people, places, and agency names.
 
 Do not capitalize words like _federal_, _government_, or _agency_ unless it is:
 
-* The first word in a sentence
-* An official title for or name of something (e.g., Federal Bureau of Investigation, U.S. Agency for International Development (USAID))
+* The first word in a sentence.
+* An official title for or name of something (e.g., Federal Bureau of Investigation (FBI), U.S. Agency for International Development (USAID)).
 
 ### Content titles and headers
 
