@@ -8,15 +8,14 @@ authors:
 topics:
   - mobile
   - social-media
-  - DOE
   - mobile
   - mobile-ux-guideline-2
   - terms-of-service
   - tos
-  - united-states-department-of-energy
+
 ---
 
-{{< legacy-img src="2015/09/600-x-400-Contract-signing-Florin1605-iStock-Thinkstock-452421227.jpg" alt="A pen rests on an agreement needing signatures." caption="" >}}
+{{< legacy-img src="2015/09/600-x-400-Contract-signing-Florin1605-iStock-Thinkstock-452421227.jpg" alt="A pen rests on an agreement needing signatures." caption="Florin1605/iStock/Thinkstock" >}}
 
 In our personal lives, most of us barely pay attention to Terms of Service (TOS) agreements. But in our professional lives, as federal employees, mindlessly clicking through a TOS is not an option.
 
