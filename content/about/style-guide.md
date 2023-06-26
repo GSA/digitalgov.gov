@@ -88,16 +88,17 @@ If a person's gender isn't clear from their first name (e.g., Chris, Pat, Lesley
 
 #### Numbers
 
-- Write out all nine numbers under 10, except for percentages
-- Use the word percent; not the percent sign (use twenty-three percent, not 23%)
+- Write out all numbers under 10.
+- Use numbers with the percent symbol (e.g.; 0.9%, 7%, 23%), but use words instead of figures in casual use (She said he has a zero percent chance of winning.).
 
 #### Symbols
 
-Unless the symbol is part of a name or branding, use the word (e.g., use the word _and_ instead of an ampersand & or a plus sign +).
+- Use a forward slash `/` between words can be ambiguous; do not use one to replace words like _and_ or _or_.
+- Unless a symbol is part of a name or branding, use the word (e.g., use the word _and_ instead of an ampersand `&` or a plus sign `+`).
 
 #### Dates
 
-- Use the expanded form of Month Day, Year (e.g., February 16, 2018) to avoid confusion that may arise by using the numeric format—for users in some other countries, 01/11/2018 would mean November 1st; not January 11th.
+- Use the expanded form of _Month Day, Year_ (e.g., February 16, 2022) to avoid confusion that may arise by using the numeric format; for users in some other countries, 01/11/2018 would mean November 1st; not January 11th.
     - For specific dates, use the full, four-digit year
 - Can abbreviate for informal dates (the ‘90s)
 - Include ordinal indicators (st, nd, rd, th) on dates (e.g., use November 23rd instead of November 23)
@@ -127,7 +128,9 @@ To avoid confusion, always provide the full name of an agency or program the fir
 >
 > _Duis aute irure dolor **NASA** in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum._
 
-**Initialism examples; pronounce each letter**:
+**Initialism examples**:
+
+An initialism is an acronym where you prnounce each letter.
 
 - OMG &mdash; Oh, my God (or gosh)
 - LOL &mdash; laughing out loud
@@ -142,11 +145,13 @@ To avoid confusion, always provide the full name of an agency or program the fir
 - HTML &mdash; HyperText Markup Language
 - CSS &mdash; Cascading Style Sheets
 
-**Acronym (an initialism that is used as a word) examples**:
+**Acronym examples**:
+
+An acronym is an initialism that is used as a word.
 
 - scuba &mdash; Self-Contained Underwater Breathing Apparatus
 - laser &mdash; Light Amplification by Stimulated Emission of Radiation
-- radar &mdash; RAdio Detection And Ranging or RAdio Direction And Ranging
+- radar &mdash; Radio Detection and Ranging
 - WYSIWYG (pronounced: Whizzy-wig) &mdash; What You See Is What You Get
 - WCAG (pronounced: way-cag or wuh-cag) &mdash; Web Content Accessibility Guidelines
 - NIOSH (pronouned: nigh-osh) &mdash; National Institute for Occupational Safety and Health
@@ -164,7 +169,7 @@ To avoid confusion, always provide the full name of an agency or program the fir
 
 There is no need to add an _s_ to the end of an initialism or acronym if a word in the original name is already plural.
 
-For example, we use **CoE** for _Center of Excellence_ and _Centers of Excellence_. Adding an _s_ on the end &mdash; CoEs &mdash; would be, _Centers of Excellences_.
+For example, we use **CoE** for both _Center of Excellence_ and _Centers of Excellence_. Adding an _s_ on the end &mdash; CoEs &mdash; would be, _Center of Excellences_.
 
 ### Punctuation
 
@@ -187,7 +192,7 @@ After a colon, capitalize the next word if it starts a complete sentence (i.e., 
 
 Use an apostrophe to indicate:
 
-- Possession&mdash;”Agile also improves the development team’s ability to commit to work.”
+- Possession &mdash; ”Agile also improves the development team’s ability to commit to work.”
 - Missing letters or numbers
     - Contractions: ”For example, with a bilingual English and Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text).”
     - Date abbreviations: ”the ‘90s” (the apostrophe replaces the _19_ in _1990s_)
@@ -222,15 +227,15 @@ The abbreviation “e.g.” stands for the Latin phrase _exempli gratia_, which 
 
 #### versus
 
-Spell the word out in regular writing: 
+Spell the word out in regular writing, and when quoting someone: 
 
-> The proposal to revamp Medicare versus proposals to reform Medicare and Medicaid at the same time ... 
+> "The proposal to revamp Medicare versus proposals to reform Medicare and Medicaid at the same time is ..."
 
 In short expressions, however, use of the abbreviation _vs._ is permitted: 
 
 > The comparison of Star Trek vs. Star Wars has long been an issue with fans of the sci-fi genre.
 
-For court cases, use _v._: 
+For court cases, use _v._:
 
 > Haaland v. Brackeen
 
@@ -276,23 +281,30 @@ The overarching name of the site is Digital.gov. You may see references to “Di
 
 Additionally, we often abbreviate Community of Practice as CoP, and we have [over 20 communities](https://digital.gov/communities/) listed on Digital.gov. However, they are run by federal employees at agencies across the federal government, so they don’t always follow the same naming conventions. If writing about them or topics covered in their listservs, you can get the full, proper name (and any alternates) from their individual Community pages on Digital.gov.
 
-Name examples include: MobileGov, SocialGov, OpenGov, Open Data, PLAIN, Government Contact Center Council (G3C), Web Content Managers Forum, and Federal Community of Practice on Crowdsourcing and Citizen Science (CCS).
+Name examples include: MobileGov (mobile site, apps, devices), SocialGov (Social Media), OpenGov, Open Data, PLAIN, Government Contact Center Council (G3C), Web Content Managers Forum, and Federal Community of Practice on Crowdsourcing and Citizen Science (CCS).
 
 ## Image use
 
+We must have permission or license to use any image posted on Digital.gov. Please do not send copyrighted images such as cartoon characters, or stills from movies or TV shows.
+
 **Image File Types:**
 
+- .png (preferred)
 - .jpg
-- .png
 - .gif (only if animated)
 
 **Image dimensions:**
 
 Please always send us the original image, as large as possible. Our content management system (CMS) will optimize and resize photos as necessary.
 
+- The images seen when a page is shared on social media platforms (featured image) must be sent to us in _landscape orientation_ (a rectangle that is more wide than tall). Currently, the dimensions for Facebook, Twitter, LinkedIn, etc. must be sized at 1200 x 628 pixels (width by height).
+- Images of people can be sent as square images or in portrait orientation (a rectangle that is more tall than wide). A width of at least 600 pixels is preferred.
+
 ### Accessibility
 
 All images require alt text for screen readers, and/or a caption that appears below the photo. Be descriptive, yet succinct. Take care to note if the image is an infographic, factoid, diagram, chart, photo, or logo. If related to a program, agency, or event, include the name and/or acronym (and if an event, please include the date).
+
+Please do not use images of text; we can highlight text in call-out box, an accordion (e.g., [event transcripts](https://digital.gov/event/2023/06/15/uswds-monthly-call-june-2023/) or [policy memos](https://digital.gov/resources/required-web-content-and-links/?dg)), a [quote box](https://digital.gov/2020/05/12/promote-continuity-better-support-customer-journeys/), or other styles.
 
 ### Attribution
 
