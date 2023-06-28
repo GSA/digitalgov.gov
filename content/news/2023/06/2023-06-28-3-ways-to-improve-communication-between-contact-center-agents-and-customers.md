@@ -8,7 +8,7 @@ deck: The USAGov Contact Center is committed to meeting customers’ needs
   empathetically, efficiently, and accurately. Here are three tips recommended
   to USAGov agents for interacting with customers.
 summary: The USAGov Contact Center is committed to meeting customers’ needs
-  empathetically, efficiently, and accurately.  Here are three tips recommended
+  empathetically, efficiently, and accurately. Here are three tips recommended
   to USAGov agents for interacting with customers.
 # See all topics at https://digital.gov/topics
 topics:
