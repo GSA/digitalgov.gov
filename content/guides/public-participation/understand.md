@@ -3,10 +3,9 @@ date: 2020-09-08 09:00:00 -0500
 title: "Understand the Playing Field"
 deck: ""
 summary: ""
+summary_box: true
 guide: public-participation
 ---
-
-{{< guide-toc >}}
 
 ## Play 2: Understand your participants and stakeholder groups
 

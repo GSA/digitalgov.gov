@@ -11,7 +11,7 @@
   @include u-text("indigo-80");
 
   h4 {
-    margin: units(0);
+    margin: 0;
     margin-bottom: units(2);
   }
 
@@ -25,7 +25,7 @@
       @include u-line-height("sans", 3);
 
       &:last-child {
-        margin-bottom: units(0);
+        margin-bottom: 0;
       }
 
       a {

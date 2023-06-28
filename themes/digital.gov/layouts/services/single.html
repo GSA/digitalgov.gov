@@ -7,33 +7,31 @@
   <main role="main" id="main-content">
     <article class="grid-container grid-container-desktop">
       <header>
-        <div class="grid-row" data-edit-this="{{- $path -}}">
-          <div class="grid-col-12">
-            {{- if .Parent -}}
-              {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-            {{- end -}}
+        <div data-edit-this="{{- $path -}}">
+          {{- if .Parent -}}
+            {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+          {{- end -}}
 
-            {{- if .Params.kicker -}}
-              <p class="kicker">{{- .Params.kicker -}}</p>
-            {{- end -}}
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}}</h1>
+          {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+          {{- end -}}
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}}</h1>
 
-            {{/* Deck */}}
-            {{- if .Params.summary -}}
-              <div class="deck">{{- .Params.summary | markdownify -}}</div>
-            {{- end -}}
+          {{/* Deck */}}
+          {{- if .Params.summary -}}
+            <div class="deck">{{- .Params.summary | markdownify -}}</div>
+          {{- end -}}
 
-            {{- if .Params.source_url -}}
-              <p>
-                <a
-                  href="{{- .Params.source_url -}}"
-                  title="Go to: {{- .Title | markdownify -}}"
-                  >{{- .Params.source_url -}}</a
-                >
-              </p>
-            {{- end -}}
-          </div>
+          {{- if .Params.source_url -}}
+            <p>
+              <a
+                href="{{- .Params.source_url -}}"
+                title="Go to: {{- .Title | markdownify -}}"
+                >{{- .Params.source_url -}}</a
+              >
+            </p>
+          {{- end -}}
         </div>
       </header>
 
