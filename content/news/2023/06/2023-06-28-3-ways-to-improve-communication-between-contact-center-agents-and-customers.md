@@ -5,7 +5,7 @@ source: usagov
 date: 2023-06-27 10:41:00 -0500
 title: 3 ways to improve communication between contact center agents and customers
 deck: The USAGov Contact Center is committed to meeting customers’ needs
-  empathetically, efficiently, and accurately.  Here are three tips recommended
+  empathetically, efficiently, and accurately. Here are three tips recommended
   to USAGov agents for interacting with customers.
 summary: The USAGov Contact Center is committed to meeting customers’ needs
   empathetically, efficiently, and accurately.  Here are three tips recommended
