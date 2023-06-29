@@ -17,8 +17,6 @@
           <header class="page-header">
             <h1>{{- .Title -}}</h1>
             {{- $allpages := (where .Pages "Section" "news") -}}
-
-
             <p class="deck">{{- .Params.summary -}}</p>
           </header>
         </div>
@@ -44,18 +42,15 @@
 
               {{/* Gets the resource .Pages associated with this topic */}}
               {{- $resources := (where .Pages "Section" "resources") -}}
-              {{/* Pass $resources to the collection template */}}
-              {{- partial "core/collection.html" (dict "list" $resources "heading" (print "Resources on " .Title)) -}}
+              {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
 
               {{/* Gets the services .Pages associated with this topic */}}
               {{- $services := (where .Pages "Section" "services") -}}
-              {{/* Pass $services to the collection template */}}
-              {{- partial "core/collection.html" (dict "list" $services "heading" "Tools and Services") -}}
+              {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
 
               {{/* Gets the communities .Pages associated with this topic */}}
               {{- $communities := (where .Pages "Section" "communities") -}}
-              {{/* Pass $communities to the collection template */}}
-              {{- partial "core/collection.html" (dict "list" $communities "heading" "Join a Community of Practice") -}}
+              {{- partial "partials/core/collection/collection.html" (dict "data" $communities "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
 
             {{- end -}}
 
