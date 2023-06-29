@@ -22,6 +22,10 @@
             <div class="usa-layout-docs__main usa-prose">
               {{- partial "core/guides/guide-page-head.html" . -}}
 
+              {{- if .Params.summary_box -}}
+                {{- partial "core/usa-summary-box.html" . -}}
+              {{- end -}}
+
               {{- .Content -}}
 
               {{- partial "core/guides/guide-prev-next.html" . -}}

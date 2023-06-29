@@ -5,7 +5,7 @@ deck: ""
 summary: ""
 guide: public-participation
 ---
-{{< guide-toc >}}
+
 ## Play 12: Transparently report outcomes and performance of participation
 
 Transparency builds and maintains trust and respect with participants. When government takes an active role in allowing public participation in the decision-making process, accountability is key to maintaining trust of participants, by transparently reporting outcomes and performance of participation on a regular basis. Transparency allows for equal assessment with internal agencies, stakeholders and the public.
