@@ -4,7 +4,11 @@
 
 // eslint-disable-next-line func-names
 (function () {
-  const guideSummaryList = document.querySelector(".usa-list");
+  const guideSummary = document.querySelector(".dg-guide-summary");
+
+  if (!guideSummary) return;
+
+  const guideSummaryList = guideSummary.querySelector(".usa-list");
   const pageHeaders = document.querySelectorAll("h2");
 
   function createSummaryBox() {
