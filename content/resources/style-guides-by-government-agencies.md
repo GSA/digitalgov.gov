@@ -58,6 +58,9 @@ Style guides are used to set the tone and guidelines for how an agency communica
 - [HHS.gov Style Guide](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
 - [HHS Web Style Guide](https://www.hhs.gov/web/policies-and-standards/web-style-guide/)
 
+**The National Institutes of Health (NIH), HHS**
+- [NIH Style Guide](https://www.nih.gov/nih-style-guide)
+
 **U.S. Department of Veterans Affairs (VA)**
 
 - [VA.gov Content Style Guide](https://design.va.gov/content-style-guide/)
