@@ -1,0 +1,69 @@
+{{ define "content" }}
+{{ $path := "" }}{{ with .File }}
+{{ $path = .Path }}
+{{ else }}
+{{ $path = .Path }}
+{{ end }}
+<main role="main" id="main-content">
+  <article class="grid-container grid-container-desktop">
+    <header>
+      <div class="grid-row">
+        <div class="grid-col-6">
+          <div class="guide-title" data-edit-this="{{- $path -}}">
+            {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+            {{- end -}}
+            <h1>{{- .Title | markdownify -}}</h1>
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+          </div>
+        </div>
+        <div class="grid-col-6">
+          <img src="{{- .Params.image -}}" alt="Guide Header Image" />
+        </div>
+      </div>
+    </header>
+  </article>
+  <div class="menu-bar">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <nav aria-label="Primary navigation" class="usa-nav">
+          <ul class="usa-nav__primary usa-accordion">
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link" id="current" href=""><span>Section One</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link" href=""><span>Section Two</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link" href=""><span>Section Three</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link" href=""><span>Section Four</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link" href=""><span>Section Five</span></a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div class="usa-in-page-nav-container">
+    <aside class="usa-in-page-nav guide" data-title-text="Section One" data-title-heading-level="h3" data-root-margin="100px 0px 0px 0px" data-scroll-offset="100" data-threshold="1">
+    </aside>
+    <article class="grid-container grid-container-desktop">
+      <div data-edit-this="{{- $path -}}">
+        {{/* Content */}}
+        <div class="content usa-prose guide">
+          {{- .Content -}}
+        </div>
+        {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+        {{/* Touchpoints Form */}}
+        {{- partial "core/touchpoints-form.html" . -}}
+      </div>
+    </article>
+  </div>
+</main>
+{{- end -}}

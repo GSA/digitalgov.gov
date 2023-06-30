@@ -1,0 +1,39 @@
+@use "uswds-core" as *;
+
+.menu-bar {
+  @include u-bg("gray-10");
+  @include u-position("sticky");
+  @include u-top(0);
+  @include u-border-y('1px', 'gray-cool-30', 'solid');
+  @include u-z("top");
+
+  .usa-nav .usa-nav__primary-item .usa-nav__link {
+    @include u-font("sans", "lg");
+    @include u-text("light");
+    @include u-line-height("sans", 2);
+    @include u-padding-x(8);
+    @include u-border-top(0);
+    @include u-text("black");
+    @include u-text-align("center");
+    &:hover {
+        @include u-border-bottom('05', 'primary', 'solid');
+      }
+  }
+
+  #current {
+    @include u-border-bottom('05', 'primary', 'solid');
+}
+}
+
+.content.usa-prose.guide {
+  @include u-margin-y(5);
+}
+
+.guide-title {
+  @include u-margin-y(5);
+}
+
+.usa-in-page-nav.guide {
+  @include u-margin-top(5);
+  top: units(15);
+}
