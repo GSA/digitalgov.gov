@@ -1,8 +1,11 @@
 document.addEventListener("DOMContentLoaded", () => {
+  const guideNav = document.querySelector(".guide-nav-box");
+
+  if (!guideNav) return;
+
   // add class to current sidenav list item
-  const guideCurrentListItem = document.querySelector(
-    ".usa-sidenav .usa-current"
-  );
+  const guideCurrentListItem = guideNav.querySelector(".usa-current");
+
   guideCurrentListItem.parentNode.classList.add("current");
 
   // apply style to previous list item to display guide progress
