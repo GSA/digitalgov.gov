@@ -19,7 +19,8 @@ slug: uswds-monthly-call-may-2023
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: "2023-uswds-monthly-call-may-title-card"
-
+# YouTube ID
+youtube_id: SG6Bbv-uKeg
 ---
 
 {{< asset-static file="uswds-monthly-call-may-2023.pptx" label="View the slides (PowerPoint presentation, 5.4 MB, 23 pages)" >}}
@@ -177,8 +178,6 @@ Especially with technology; that’s how we do our jobs. And that's keeping blin
 Thank you, see you next month, and as Mike Horton at the Section 508 program says: Have an Accessible Day!
 
 {{< /accordion >}}
-
-{{< youtube SG6Bbv-uKeg >}}
 
 Join us as we observe Global Accessibility Awareness Day and talk about the real-world experience of blind users on the web. 
 
