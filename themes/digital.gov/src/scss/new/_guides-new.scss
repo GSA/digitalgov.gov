@@ -6,21 +6,23 @@
   @include u-top(0);
   @include u-border-y('1px', 'gray-cool-30', 'solid');
   @include u-z("top");
+  @include u-display("flex");
+  @include u-padding-y(3);
+  justify-content: space-evenly;
 
-  .usa-nav .usa-nav__primary-item .usa-nav__link {
-    @include u-font("sans", "lg");
+  .menu-bar-link {
+    @include u-font("sans", "md");
     @include u-text("light");
-    @include u-line-height("sans", 2);
-    @include u-padding-x(8);
-    @include u-border-top(0);
     @include u-text("black");
     @include u-text-align("center");
+    @include u-text-decoration("no-underline");
     &:hover {
         @include u-border-bottom('05', 'primary', 'solid');
       }
   }
 
   #current {
+    @include u-text("medium");
     @include u-border-bottom('05', 'primary', 'solid');
 }
 }
