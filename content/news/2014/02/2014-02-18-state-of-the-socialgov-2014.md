@@ -52,7 +52,3 @@ Digital engagement to support entrepreneurs and small businesses is just one of 
 If you&#8217;re a federal employee, keep an eye on the <a href="{{< ref "/topics/social-media" >}}" target="_blank">Social Media homepage</a> of **DigitalGov** for posts on digital engagement across government, events and training opportunities from **DigitalGov University**, and information about how you can join the #SocialGov Community. You can also [sign up for daily or weekly updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new) so you don&#8217;t miss a thing.
 
 You can start by <a href="http://www.eventbrite.com/e/socialgov-summit-global-registration-10544780723?aff=eorg" target="_blank">registering for our next workshop</a>, #**SocialGov Summit: Global** &#8212; keynoted by **Edwin Lacierda**, spokesperson of the President of the Philippines, and featuring the **State Department**, **USAID**, **Peace Corps**, **American Red Cross** and **World Bank**. The challenges and opportunities we face in advancing digital engagement is one shared by all agencies, and together we can  work together &#8212; including our international partners &#8212; to continue raising the bar to improve citizen services and make them more cost effective.
-
-Please enjoy the State of the SocialGov 2014:
-
-{{< youtube mmpG94tDtWQ >}}

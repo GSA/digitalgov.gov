@@ -34,14 +34,6 @@ Here are the top 8 ways to write to get read:
   * Use consistent terms, not jargon or acronyms
   * Choose common, everyday words
 
-Here are two webinars on plain language Katherine Spivey, Plain Language Launcher and Web Content and Social Media Manager at the General Services Administration (GSA), gave recently for DigitalGov University.
+Katherine Spivey, Plain Language Launcher and Web Content and Social Media Manager at the General Services Administration (GSA), recently did two webinars for DigitalGov University. In them, she noted that if you write for a government website, you’ll need the top web writing skills from the plain language set &mdash; and those who write for an agency’s blog, Facebook, or Twitter account, need to do social media and plain language at the same time.
 
-Write for a government website? You’ll need the top web writing skills from the plain language set:
-
-{{< youtube j9FCji6-UJE >}}
-
-Write for an agency’s blog, Facebook, or Twitter account? You need to do social media and plain language at the same time:
-
-{{< youtube W756zIegQBs >}}
-
-_**Katherine Spivey** is the General Services Administration (GSA)&#8217;s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)._
+_**Katherine Spivey** is the General Services Administration's Plain Language Launcher and co-chair of the [Plain Language Action and Information Network (PLAIN)](https://digital.gov/communities/plain-language/)._

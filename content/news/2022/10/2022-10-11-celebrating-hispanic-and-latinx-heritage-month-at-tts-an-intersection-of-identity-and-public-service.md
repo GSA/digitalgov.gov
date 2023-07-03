@@ -84,7 +84,7 @@ Special shout-out to the U.S. National Archives and Records Administration (NARA
 
 **How do you show up as Latinx? Why is that important to you?**
 
-Having such a diverse background allows me to share perspectives that don't seem to have been common in government. As individuals, I see how we are helping to improve digital products and services for the public, but as a cultural group, we are also helping to ensure that our government, as a whole, becomes more diverse, inclusive, equitable, and accessible. Over the last eight years, I have been happy to be part of a work culture that is increasingly intentional in how it can better serve the public, actively working to improve not only user and customer experience, but representation in our national workforce&mdash;which I think will be an important factor in improving the public's trust in government.
+Having such a diverse background allows me to share perspectives that don't seem to have been common in government. As individuals, I see how we are helping to improve digital products and services for the public, but as a cultural group, we are also helping to ensure that our government, as a whole, becomes more diverse, equitable, inclusive, and accessible. Over the last eight years, I have been happy to be part of a work culture that is increasingly intentional in how it can better serve the public, actively working to improve not only user and customer experience, but representation in our national workforce&mdash;which I think will be an important factor in improving the public's trust in government.
 
 **Why do you serve?**
 

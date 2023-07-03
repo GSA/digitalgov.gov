@@ -3,6 +3,7 @@ date: 2019-07-31 09:00:00 -0500
 title: "Common Questions about DAP"
 summary: ""
 guide: dap
+summary_box: true
 aliases:
   - /services/dap/common-questions-about-dap-faq/
   - /services/dap/common-questions-about-dap/
@@ -13,8 +14,6 @@ aliases:
 {{< box >}}
 **Have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov) and we’ll get back to you.
 {{< /box >}}
-
-{{< guide-toc >}}
 
 ## Digital Analytics Program (DAP) User Agreement
 

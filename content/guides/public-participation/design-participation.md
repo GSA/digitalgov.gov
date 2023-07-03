@@ -3,9 +3,11 @@ date: 2020-09-08 09:00:00 -0500
 title: "Design Participation"
 deck: ""
 summary: ""
+summary_box: true
 guide: public-participation
 ---
-{{< guide-toc >}}
+
+
 ## Play 5: Select appropriate design format for public participation
 
 Enable broad participation by offering responsive, accessible, intuitive, mobile-ready tools that can be rendered in multiple formats on a wide range of platforms.

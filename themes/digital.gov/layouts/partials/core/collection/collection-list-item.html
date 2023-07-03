@@ -1,0 +1,68 @@
+{{/*
+
+  Collection List Item
+  Returns a list item variant for USWDS Collection
+
+  @see see collection.html for description of other variables
+  @param {boolean} link_external - apply `usa-link--external` class if url host is not www.digital.gov
+
+*/}}
+{{ $list_item := .list_item }}
+{{ $variant := .variant }}
+{{ $link_external := false }}
+{{ $logo_source := .logo_source }}
+{{ $list_header := .list_header }}
+{{ $href := .href }}
+{{ $url := urls.Parse $href }}
+{{ $meta_source := .meta_source }}
+
+{{/*  Check if external link  */}}
+{{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
+
+{{- with .list_item -}}
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
+
+
+  <li class="usa-collection__item" data-edit-this="{{- $path -}}">
+    {{ if eq $variant "media" }}
+      {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source) -}}
+    {{ end }}
+    <div class="usa-collection__body">
+      <h{{ $list_header | safeHTML }} class="usa-collection__header">
+        <a class="usa-link {{ if $link_external }}usa-link--external{{ end }}" href="{{- $href -}}" title="{{- .Title | markdownify -}}">
+          {{- .Title | markdownify -}}
+        </a>
+      </h{{ $list_header | safeHTML }}>
+      {{ if ne $variant "headings" }}
+        <p class="usa-collection__description">
+          {{- if .Params.summary -}}
+            {{- .Params.summary | markdownify | truncate 140 -}}
+          {{- else -}}
+            {{- .Params.deck | markdownify -}}
+          {{- end -}}
+        </p>
+      {{ else }}
+        {{ if $meta_source }}
+          <ul class="usa-collection__meta">
+            <li class="usa-collection__meta-item position-relative">
+              <svg
+                class="usa-icon position-relative bottom-neg-2px"
+                aria-hidden="true"
+                role="img"
+              >
+                <use
+                  xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
+                ></use>
+              </svg>
+              {{- $meta_source -}}
+            </li>
+          </ul>
+        {{ end }}
+      {{ end }}
+    </div>
+  </li>
+{{- end -}}

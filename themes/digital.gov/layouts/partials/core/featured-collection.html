@@ -3,7 +3,7 @@
 
 {{/* If there are any items in the array at all... */}}
 {{- if $list -}}
-  <div class="collection">
+  <div class="featured-collection">
     {{/* Checks if there a heading is set in the partial */}}
     {{- if .heading -}}
       <h2>{{- .heading -}}</h2>
@@ -25,7 +25,7 @@
             {{/* If there is a logo defined in the source */}}
             {{- if $source.Params.logo -}}
 
-              {{/* get the path for the icon — e.g. 18f-icon.png */}}
+              {{/* get the path for the icon — e.g. 18f-icon.png */}}
               {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
               {{/* Pass these vars into the collection template
                 (see bottom of collection.html partial)

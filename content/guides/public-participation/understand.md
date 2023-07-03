@@ -3,9 +3,10 @@ date: 2020-09-08 09:00:00 -0500
 title: "Understand the Playing Field"
 deck: ""
 summary: ""
+summary_box: true
 guide: public-participation
 ---
-{{< guide-toc >}}
+
 ## Play 2: Understand your participants and stakeholder groups
 
 Community and stakeholder understanding is key to organizing a successful participatory effort. Once you determine who you’re trying to reach, you can refine your outreach efforts to effectively communicate with participants and stakeholders.

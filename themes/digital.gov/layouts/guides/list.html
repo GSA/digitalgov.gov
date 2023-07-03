@@ -1,0 +1,41 @@
+{{ define "content" }}
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
+
+
+  <main role="main" id="main-content">
+    <article>
+      <div class="grid-container grid-container-desktop">
+        {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+        <div class="grid-row grid-gap-4">
+          <div class="grid-col-12 tablet-lg:grid-col-2">
+            {{- partial "core/guides/guide-nav.html" . -}}
+          </div>
+
+          <div
+            class="grid-col-12 tablet-lg:grid-col-8"
+            data-edit-this="{{- $path -}}"
+          >
+            <div class="usa-layout-docs__main usa-prose">
+              {{- partial "core/guides/guide-page-head.html" . -}}
+
+              {{- if .Params.summary_box -}}
+                {{- partial "core/usa-summary-box.html" (dict "modifier" "dg-guide-summary") -}}
+              {{- end -}}
+
+              {{- .Content -}}
+
+              {{- partial "core/guides/guide-prev-next.html" . -}}
+            </div>
+
+            {{/* Touchpoints Form */}}
+            {{- partial "core/touchpoints-form.html" . -}}
+          </div>
+        </div>
+      </div>
+    </article>
+  </main>
+{{ end }}

@@ -2,7 +2,7 @@
 slug: webinar-recap-a-look-at-googles-media-tool-and-platform-offerings
 date: 2016-09-13 11:00:15 -0400
 title: 'Webinar Recap: A Look At Google&#8217;s Media Tool and Platform Offerings'
-summary: 'Suddenly, digital video is everywhere on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to'
+summary: 'Suddenly, digital video is everywhere on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer.'
 authors:
   - randy-abramson
 topics:
@@ -30,7 +30,7 @@ Suddenly, [digital video is everywhere]({{< ref "2015-01-30-social-video-making-
 
 When most people think of Google, they often think of the search engine, but Google also has been on the forefront of creating media and research tools, metric suites and content presentation platforms for years. Together, these Google resources can help any digital audio/video producer discover interesting stories, produce/publish content and track consumption.  Google tools are free to use (as are the Facebook video and Facebook Live platforms), but be sure to check with your respective agency to see if agency-wide agreements are in place.
 
-Nick Whitaker, Media Outreach Manager at Google, joined us last week in a DigitalGov University webinar, <a href="https://www.youtube.com/watch?v=-Ae2efgu9As">Video, VR, Mobile Reporting, and More With Google</a>, for the <a href="{{< ref "/communities/video.md" >}}">Digital Audio/Video Community of Practice</a> to discuss Google’s latest media offerings.
+Nick Whitaker, Media Outreach Manager at Google, joined us last week in a DigitalGov University webinar, Video, VR, Mobile Reporting, and More With Google, for the <a href="{{< ref "/communities/video.md" >}}">Digital Audio/Video Community of Practice</a> to discuss Google’s latest media offerings.
   
 ## All About News Lab
   
@@ -46,8 +46,6 @@ Google is far from being the only tech company in the ‘immersive experience’
 
 Looking for a way to add 360-degree photos to your content? <a href="https://www.google.com/streetview/publish/">Google Street View app</a> lets users create immersive photos with 360 cameras. Those looking for high quality satellite imagery of big news events can be alerted about new photos at <a href="http://g.co/GoogleMediaAlerts">g.co/GoogleMediaAlerts</a>. Lastly, Google recently teamed up with Storyful to create <a href="https://www.youtube.com/channel/UCOaMIPk5GtosYNi32liVbRg">Newswire</a>, a channel that features news related user-generated videos that have been verified by fact checkers.
 
-<a href="https://twitter.com/GoogleNewsLab">Follow Newslab on Twitter</a> and <a href="https://www.youtube.com/user/newslabatgoogle">watch Newslab on YouTube</a> to keep up with news about Google’s media production tools and resources. Watch the full webinar below.
-          
-{{< youtube Ae2efgu9As >}}
-          
+<a href="https://twitter.com/GoogleNewsLab">Follow Newslab on Twitter</a> and <a href="https://www.youtube.com/user/newslabatgoogle">watch Newslab on YouTube</a> to keep up with news about Google’s media production tools and resources.
+
 _Note: The mention of Google, Facebook, Twitter, and SnapChat are used for illustrative purposes, and does not imply an endorsement by the federal government or any specific federal agencies of these products or companies._

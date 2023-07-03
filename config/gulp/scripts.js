@@ -34,12 +34,9 @@ function copyJquery() {
  */
 function compile() {
   // Stream images is imported by itself in `content/images/_index.md`.
-  return src(
-    [`${PROJECT_JS_SRC}/*.js`, `!${PROJECT_JS_SRC}/stream-images.js`],
-    {
-      sourcemaps: true,
-    }
-  )
+  return src([`${PROJECT_JS_SRC}/*.js`], {
+    sourcemaps: true,
+  })
     .pipe(uglify())
     .pipe(concat("common.js"))
     .pipe(dest(JS_DEST, { sourcemaps: true }));

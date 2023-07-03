@@ -4,6 +4,8 @@ date: 2013-06-13 1:30:35 -0400
 title: Content Management Systems Used by Government Agencies
 summary: "A list of Content Management Systems (CMS) used by government agencies."
 
+redirectto: https://www.digitaldashboard.gov
+
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
@@ -37,7 +39,7 @@ We do our best to keep the list current based on information we get from agencie
 - [Economic Research Service](http://www.ers.usda.gov/) (Umbraco)
 - [Farm Service Agency](http://www.fsa.usda.gov/FSA/webapp?area=home&subject=landing&topic=landing) (Oracle UCM)
 - [Farmers.gov](https://www.farmers.gov/) (Drupal 8)
-- [Food and Nutrition Service](https://www.fns.usda.gov/) (Drupal 7, moving to Drupal 8 in 2018)
+- [Food and Nutrition Service](https://www.fns.usda.gov/) (Drupal 8)
     - [WIC Works Resource System](https://wicworks.fns.usda.gov/) (Drupal 8)
 - [Forest Service](http://www.fs.fed.us/) (Front end: IBM Websphere Portal; back end: Stellent [now Oracle UCM]. Transitioning to Drupal using a Forest Service curated Drupal distribution)
 - [Office of the Chief Information Officer](https://www.ocio.usda.gov/) (Drupal 7)
@@ -79,7 +81,7 @@ We do our best to keep the list current based on information we get from agencie
 - [Marine Corps Community Services](http://www.usmc-mccs.org/) (In-house)
 - [Military Health System](http://www.health.mil/default.aspx) (Sitecore)
 - Navy Enterprise Maintenance System (Documentum)
-- [Navy Personnel Command](http://www.public.navy.mil/bupers-npc/Pages/default.aspx) (Microsoft&#8217;s Content Management Server)
+- [Navy Personnel Command](http://www.public.navy.mil/bupers-npc/Pages/default.aspx) (Microsoft's Content Management Server)
 - [Office of Naval Research](https://www.onr.navy.mil/) (Sitecore for external, Sharepoint for intranet)
 
 [Education](http://www.ed.gov/) (Drupal/WordPress)
@@ -156,7 +158,7 @@ We do our best to keep the list current based on information we get from agencie
 - [Office of Inspector General](https://www.doioig.gov/) (Drupal PaaS)
 - [U.S. Fish and Wildlife Service&#8217;s National Wildlife Refuge System](https://www.fws.gov/) (Ektron CMS 400)
 
-[Justice](http://www.justice.gov/) (Currently migrating to Drupal; expected completion: Spring 2015)
+[Justice](http://www.justice.gov/) (Drupal)
 
 - [Environmental & Natural Resources Division](http://www.justice.gov/enrd/) (RedDot)
 - [National Institute of Justice](http://www.nij.gov/) (SharePoint 2013/EZRO)

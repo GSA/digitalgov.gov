@@ -12,7 +12,7 @@ primary_image: "rpa-stock-photo-2"
 {{< box >}}
 **Interested in joining the RPA community?** Click here to [learn more](https://digital.gov/communities/rpa/).
 {{< /box >}}
-{{< guide-toc >}}
+
 ## What is RPA?
 
 Robotic Process Automation (RPA) is a low- to no-code Commercial Off the Shelf (COTS) technology that can automate repetitive, rules-based tasks. Like an Excel macro operating within a spreadsheet, RPA can record actions performed across a personal computer, access systems, and perform specific tasks for human users. 
