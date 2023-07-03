@@ -32,7 +32,9 @@ I recently asked members of the [MobileGov Community]({{< ref "/communities" >}}
 
 ## Where to Find It
 
-This is a [Chrome Developer Tool](https://developer.chrome.com/), so naturally, you will only be able to access it when using the Google Chrome browser. You can access the tool either by using the Chrome menu icon at the top right of your browser window (select Tools, then Developer Tools), or by right-clicking on any space inside the browser window and then selecting ‘Inspect’ from the dropdown menu that appears. {{< legacy-img src="2016/11/600-x-375-Chrome-DevTools-Elements-panel.jpg" alt="Chrome DevTools Elements panel.png" caption="" >}}
+This is a [Chrome Developer Tool](https://developer.chrome.com/), so naturally, you will only be able to access it when using the Google Chrome browser. You can access the tool either by using the Chrome menu icon at the top right of your browser window (select Tools, then Developer Tools), or by right-clicking on any space inside the browser window and then selecting ‘Inspect’ from the dropdown menu that appears.
+
+{{< legacy-img src="2016/11/600-x-375-Chrome-DevTools-Elements-panel.jpg" alt="Chrome DevTools Elements panel.png" caption="Google (CC BY 3.0)" >}}
 
 Open the Device Mode toolbar by left-clicking on the icon that resembles a phone in front of a tablet (see [DevTools Windows and Mac keyboard shortcuts](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/shortcuts)). It is found in the top left corner of the ‘Inspect’ window.
 
