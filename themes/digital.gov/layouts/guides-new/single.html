@@ -10,12 +10,10 @@
         <div class="grid-row">
           <div class="grid-col-6">
             <div class="guide-title" data-edit-this="{{- $path -}}">
-              {{- if .Params.kicker -}}
-                <p class="kicker">{{- .Params.kicker -}}</p>
-              {{- end -}}
-              <h1>{{- .Title | markdownify -}}</h1>
-              {{- if .Params.deck -}}
-                <div class="deck">{{- .Params.deck | markdownify -}}</div>
+              <p class="kicker">Digital.gov Guide</p>
+              <h1>{{- .Parent.Title | markdownify -}}</h1>
+              {{- if .Params.summary -}}
+                <div class="deck">{{- .Params.summary | markdownify -}}</div>
               {{- end -}}
             </div>
           </div>
@@ -26,16 +24,26 @@
       </header>
     </article>
     <div class="menu-bar">
-      <a class="menu-bar-link" id="current" href=""><span>Section 1</span></a>
-      <a class="menu-bar-link" href=""><span>Section 2</span></a>
-      <a class="menu-bar-link" href=""><span>Section 3</span></a>
-      <a class="menu-bar-link" href=""><span>Section 4</span></a>
-      <a class="menu-bar-link" href=""><span>Section 5</span></a>
+      <a class="menu-bar-link" href="/guides-new/mobile-principles/"><span>Overview</span></a>
+      <a class="menu-bar-link" id = {{ cond (eq .Page.RelPermalink "/guides-new/mobile-principles/javascript/") "current" ""}} href="/guides-new/mobile-principles/javascript"><span>Javascript</span></a>
+      <a class="menu-bar-link" id = {{ cond (eq .Page.RelPermalink "/guides-new/mobile-principles/viewport/") "current" ""}} href="/guides-new/mobile-principles/viewport"><span>Viewport</span></a>
+      <a class="menu-bar-link" id = {{ cond (eq .Page.RelPermalink "/guides-new/mobile-principles/tap-targets/") "current" ""}} href="/guides-new/mobile-principles/tap-targets"><span>Navigation</span></a>
+      <a class="menu-bar-link" id = {{ cond (eq .Page.RelPermalink "/guides-new/mobile-principles/plugins/") "current" ""}} href="/guides-new/mobile-principles/plugins"><span>Plugins</span></a>
+      <a class="menu-bar-link" id = {{ cond (eq .Page.RelPermalink "/guides-new/mobile-principles/cache/") "current" ""}} href="/guides-new/mobile-principles/cache"><span>Cache</span></a>
+      <a class="menu-bar-link" id = {{ cond (eq .Page.RelPermalink "/guides-new/mobile-principles/optimize-minify-compression/") "current" ""}} href="/guides-new/mobile-principles/optimize-minify-compression/"
+        ><span>Optimize</span></a
+      >
+      <a class="menu-bar-link" id = {{ cond (eq .Page.RelPermalink "/guides-new/mobile-principles/configuration/") "current" ""}} href="/guides-new/mobile-principles/configuration"
+        ><span>Configuration</span></a
+      >
+      <a class="menu-bar-link" id = {{ cond (eq .Page.RelPermalink "/guides-new/mobile-principles/accessibility/") "current" ""}} href="/guides-new/mobile-principles/accessibility"
+        ><span>Accessibility</span></a
+      >
     </div>
     <div class="usa-in-page-nav-container">
       <aside
         class="usa-in-page-nav guide"
-        data-title-text="Section 1"
+        data-title-text="On this page"
         data-title-heading-level="h3"
         data-root-margin="100px 0px 0px 0px"
         data-scroll-offset="100"
