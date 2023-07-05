@@ -1,15 +1,11 @@
-<header class="page-head page-head-{{- .Type -}}">
+<header class="page-head-{{- .Type -}}">
   {{- partial "core/guides/guide-read-time.html" . -}}
 
   {{- if not .IsNode -}}
     {{- if .Params.kicker -}}
-      <p class="kicker">{{- .Params.kicker -}}</p>
+      <h1>{{- .Params.kicker -}}</h1>
     {{- else -}}
-      <p class="kicker">
-        <a href="{{- .Parent.Permalink -}}" title="Go to {{- .Parent.Title -}}"
-          >{{- .Parent.Title -}}</a
-        >
-      </p>
+      <h1>{{- .Parent.Title -}}</h1>
     {{- end -}}
 
     {{/* Page Title */}}
@@ -21,9 +17,9 @@
     {{- end -}}
   {{ else }}
     {{- if .Params.kicker -}}
-      <p class="kicker">{{- .Params.kicker -}}</p>
+      <h1>{{- .Params.kicker -}}</h1>
     {{- else -}}
-      <p class="kicker">{{- .Page.Title -}}</p>
+      <p>{{- .Page.Title -}}</p>
     {{- end -}}
     {{/* Page Title */}}
     <h1>Overview</h1>
