@@ -3,9 +3,9 @@
 
   {{- if not .IsNode -}}
     {{- if .Params.kicker -}}
-      <h1>{{- .Params.kicker -}}</h1>
+      <h1 class="kicker">{{- .Params.kicker -}}</h1>
     {{- else -}}
-      <h1>{{- .Parent.Title -}}</h1>
+      <h1 class="kicker">{{- .Parent.Title -}}</h1>
     {{- end -}}
 
     {{/* Page Title */}}
@@ -17,9 +17,9 @@
     {{- end -}}
   {{ else }}
     {{- if .Params.kicker -}}
-      <h1>{{- .Params.kicker -}}</h1>
+      <h1 class="kicker">{{- .Params.kicker -}}</h1>
     {{- else -}}
-      <p>{{- .Page.Title -}}</p>
+      <h1 class="kicker">{{- .Page.Title -}}</h1>
     {{- end -}}
     {{/* Page Title */}}
     <h1>Overview</h1>

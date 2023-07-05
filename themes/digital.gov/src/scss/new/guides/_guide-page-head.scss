@@ -1,12 +1,19 @@
 @use "uswds-core" as *;
 
 .page-head-guides {
+  @include u-margin-bottom(5);
 
   // Page Title
   h1 {
     @include u-font("sans", "2xl");
-    @include u-text("primary-darker");
     @include u-text("heavy");
+    @include u-line-height("sans", 1);
+    @include u-margin-y(2);
+    @include u-text("primary-darker");
+  }
+
+  h1.kicker {
+    @include u-text("primary-vivid");
   }
 
   // Deck
