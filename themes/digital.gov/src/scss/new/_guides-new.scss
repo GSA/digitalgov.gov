@@ -4,7 +4,7 @@
   @include u-bg("gray-10");
   @include u-position("sticky");
   @include u-top(0);
-  @include u-border-y('1px', 'gray-cool-30', 'solid');
+  @include u-border-y("1px", "gray-cool-30", "solid");
   @include u-z("top");
   @include u-display("flex");
   @include u-padding-y(3);
@@ -17,14 +17,14 @@
     @include u-text-align("center");
     @include u-text-decoration("no-underline");
     &:hover {
-        @include u-border-bottom('05', 'primary', 'solid');
-      }
+      @include u-border-bottom("05", "primary", "solid");
+    }
   }
 
   #current {
     @include u-text("medium");
-    @include u-border-bottom('05', 'primary', 'solid');
-}
+    @include u-border-bottom("05", "primary", "solid");
+  }
 }
 
 .content.usa-prose.guide {
