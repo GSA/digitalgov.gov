@@ -42,6 +42,7 @@
         <div class="content usa-prose guide">
           {{- .Content -}}
         </div>
+        {{- partial "core/guides/guide-prev-next.html" . -}}
         {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
         {{/* Touchpoints Form */}}
         {{- partial "core/touchpoints-form.html" . -}}

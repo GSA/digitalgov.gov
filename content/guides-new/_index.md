@@ -9,6 +9,7 @@ deck: "How to use GitHub in easy, practical steps to create, manage and publish 
 summary: ""
 layout: single
 image: "https://learn.g2.com/hubfs/graphic-design-dev.svg"
+guide: mobile-principles
 ---
 
 ## What is GitHub?
