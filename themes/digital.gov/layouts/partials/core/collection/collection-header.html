@@ -1,0 +1,28 @@
+{{/*
+
+  Collection Header
+  Returns a collection header with an option to wrap in a link
+
+  @param {string} header_id - The relative path to the file, for example "v21st-century-idea"
+  @param {url} header_link - If present will render a link within the header, otherwise just a plain header
+  @param {string} header_title - Title for the header
+  @param {number} header_size - Set the header size from 1-6, defaults to 3 if number provided is greater than 6
+
+*/}}
+
+{{ $header_id := .header_id }}
+{{ $header_link := .header_link }}
+{{ $header_title := .header_title }}
+{{ $header_size := .header_size }}
+
+
+{{/*  If header size is greater than 6, default to h3  */}}
+{{ if gt $header_size 6 }}
+  {{ $header_size = 3 }}
+{{ end }}
+
+<h{{ $header_size | safeHTML }} class="dg-collection__header" {{ if $header_id }} id="{{- $header_id -}}"{{ end }}>
+  {{ if $header_link }}<a href="{{- $header_link | relURL -}}">{{ end }}
+    {{- $header_title -}}
+  {{ if $header_link }}</a>{{ end }}
+</h{{ $header_size | safeHTML }}>

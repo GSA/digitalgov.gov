@@ -1,10 +1,11 @@
 {
   "defaults": {
-  "timeout": 100000,
-  "wait": 1000,
-  "standard": "WCAG2AA"
-    },
-    "urls": [
-    "http://localhost:1313/"
-    ]
+    "timeout": 100000,
+    "wait": 1000,
+    "concurrency": 1,
+    "runners": [
+      "axe"
+    ],
+    "standard": "WCAG2AA"
+  }
 }

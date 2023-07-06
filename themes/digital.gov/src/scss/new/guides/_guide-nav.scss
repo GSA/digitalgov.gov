@@ -52,7 +52,7 @@
 
         &:hover {
           @include u-text("white");
-          @include u-bg("primary-dark");
+          @include u-bg("blue-warm-60v");
         }
 
         .arrow-right {
@@ -88,25 +88,16 @@
 
       & > a {
         @include u-text("semibold");
-
-        &::after {
-          content: "";
-
-          @include u-border-left("05", "primary-darker", "solid");
-          @include u-radius(0);
-          @include u-position("absolute");
-          @include u-top(0);
-          @include u-bottom(0);
-          @include u-left(0);
-          @include u-z(100);
-        }
       }
 
       a {
         span.arrow-right {
           @include u-margin-left("105");
-
           transform: rotate(90deg);
+        }
+
+        &::after {
+          background-color: transparent;
         }
       }
 
@@ -118,5 +109,27 @@
         @include u-display("block");
       }
     }
+
+    li.usa-sidenav__item {
+      border-top: 1px solid color("gray-cool-60");
+
+      a {
+        &:not(.usa-current) {
+          color: color("gray-cool-90");
+        }
+
+        &:hover:not(.usa-current) {
+          color: color("blue-warm-60v");
+        }
+      }
+    }
+
+    li.usa-sidenav__item--read {
+      background-color: color("gray-cool-4");
+    }
+  }
+
+  .usa-sidenav {
+    border-bottom: 1px solid color("gray-cool-60");
   }
 }

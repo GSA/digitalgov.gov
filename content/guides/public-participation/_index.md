@@ -1,8 +1,9 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "U. S. Public Participation Playbook"
+title: "U.S. Public Participation Playbook"
 deck: ""
-summary:
+summary: "The U.S. Public Participation Playbook is a resource for government managers to effectively evaluate and build better services through public participation using best practices and performance metrics."
+summary_box: true 
 guide: public-participation
 aliases:
 image: "https://www.wcls.org/wp-content/uploads/2019/11/survey-graphic.jpg"
@@ -12,7 +13,7 @@ image: "https://www.wcls.org/wp-content/uploads/2019/11/survey-graphic.jpg"
 
 The U.S. Public Participation Playbook is a resource for government managers to effectively evaluate and build better services through public participation using best practices and performance metrics.
 
-Public participation—where citizens help shape and implement government programs—is a foundation of open, transparent, and engaging government services. From emergency management, town hall discussions and regulatory development to science and education, better engagement with those who use public services can measurably improve those services for everyone.
+Public participation&mdash;where citizens help shape and implement government programs—is a foundation of open, transparent, and engaging government services. From emergency management, town hall discussions and regulatory development to science and education, better engagement with those who use public services can measurably improve those services for everyone.
 
 Developing a U.S. Public Participation Playbook is an [open government priority](http://www.whitehouse.gov/blog/2014/04/30/open-government-public-participation-we-can-t-do-it-without-you) included in both the first and second U.S. Open Government National Action Plans as part of the United States effort to increase public integrity in government programs. This resource reflects the commitment of the government and civic partners to measurably improve participation programs, and is designed using the same inclusive principles that it champions.
 

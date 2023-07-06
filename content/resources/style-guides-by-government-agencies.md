@@ -15,10 +15,6 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 ## Federal style guides
 
-**18F**
-
-- [Content Guide](https://content-guide.18f.gov/)
-
 **Centers for Disease Control and Prevention (CDC)**
 
 - [CDC Guide to Writing for Social Media](https://www.cdc.gov/socialmedia/tools/guidelines/guideforwriting.html) (PDF, 1.6 MB, 60 pgs)
@@ -47,16 +43,14 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 - [NARA Style Guide](https://www.archives.gov/files/open/plain-writing/style-guide.pdf) (PDF, 428 KB, 63 pgs)
 
-**Plain Language**
-
-- [PlainLanguage.gov](https://www.plainlanguage.gov/)
-
 **U.S. Department of Health and Human Services (HHS)**
 
 - [Administration for Children & Families Editorial Style Guide](https://www.acf.hhs.gov/digital-toolbox/content/editorial-style-guide)
-- [HealthCare.gov Styleguide](https://styleguide.healthcare.gov/)
-- [HHS.gov Style Guide](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
+- [HealthCare.gov Styleguide](https://styleguide.healthcare.gov/) - Centers for Medicare & Medicaid Services (CMS)
+- [HHS.gov Style Guide](https://www.hhs.gov/web/policies-and-standards/style-guide/)
 - [HHS Web Style Guide](https://www.hhs.gov/web/policies-and-standards/web-style-guide/)
+- [National Institutes of Health (NIH) Style Guide](https://www.nih.gov/nih-style-guide)
+- [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (SAMHSA) (PDF, 285 KB, 4 pgs)
 
 **U.S. Department of Veterans Affairs (VA)**
 
@@ -68,6 +62,8 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 **U.S. General Services Administration (GSA)**
 
+- [18F Content Guide](https://content-guide.18f.gov/)
+- [PlainLanguage.gov](https://www.plainlanguage.gov/)
 - [USAGov Bilingual Style Guide: Table of Contents](https://www.usa.gov/style-guide/table-of-contents)
 
 **U.S. Government Publishing Office (GPO)**
@@ -84,13 +80,9 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 ## Other writing resources
 
-Here&#8217;s a collection of guides created by digital communities of practice and other groups.
+Here's a collection of guides created by digital communities of practice and other groups.
 
+- [Department of Defense's Introduction to Plain Language](http://www.dtic.mil/whs/directives/plainlanguage/PlainLanguageCourse.pdf) (PDF, 407 KB, 44 pgs)
+- [PLAIN's Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
 - [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}})
-- [Department of Defense&#8217;s Introduction to Plain Language](http://www.dtic.mil/whs/directives/plainlanguage/PlainLanguageCourse.pdf) (PDF, 407 KB, 44 pgs)
-- [PLAIN&#8217;s Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
-- [Spanish Health Care Terms in the United States]({{< ref "spanish-health-care-terms-in-the-united-states.md" >}})
-- [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms]({{< ref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}})
-- [Spanish Language Style Guide and Glossaries: Grammar]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md" >}})
-- [Spanish Language Style Guide & Glossaries: Information Technology Terms]({{< ref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}})
-- [Spanish Language Style Guide & Glossaries: Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}})
+- [Spanish Language Style Guides and Glossaries](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/)
