@@ -1,0 +1,34 @@
+@use "uswds-core" as *;
+
+.menu-bar-guide {
+  @include u-bg("gray-10");
+  @include u-position("sticky");
+  @include u-top(0);
+  @include u-border-y("1px", "gray-cool-30", "solid");
+  @include u-padding-y(3);
+  @include u-z("top");
+  @include u-display("flex");
+  @include u-justify-content("justify-start");
+  @include at-media("desktop") {
+    @include u-justify-content("justify-center");
+  }
+  overflow-x: scroll;
+  white-space: nowrap;
+
+  .menu-bar-link {
+    @include u-font("sans", "md");
+    @include u-text("light");
+    @include u-text("black");
+    @include u-text-align("center");
+    @include u-text-decoration("no-underline");
+    @include u-margin-x(5);
+    &:hover {
+      @include u-border-bottom("05", "primary", "solid");
+    }
+  }
+
+  #current {
+    @include u-text("medium");
+    @include u-border-bottom("05", "primary", "solid");
+  }
+}
