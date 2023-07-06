@@ -7,6 +7,7 @@ summary_box: true
 guide: public-participation
 aliases:
 image: "https://www.wcls.org/wp-content/uploads/2019/11/survey-graphic.jpg"
+layout: single
 ---
 
 ## What is the U.S. Public Participation Playbook?

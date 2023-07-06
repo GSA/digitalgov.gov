@@ -13,6 +13,7 @@ aliases:
   - /site-scans/
   - /sitescans/
 image: "https://clym.io/hubfs/graphic_continuous_scanning.svg"
+layout: single
 ---
 
 **The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health, policy compliance, and best practices.
