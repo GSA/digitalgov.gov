@@ -1,11 +1,11 @@
 ---
-# View this page at https://digital.gov/resources/eight-principles-mobilefriendliness
+# View this page at https://digital.gov/guides/rpa
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: guide-to-robotic-process-automation
 date: 2020-11-03 14:000:00 -0500
 title: "Guide to Robotic Process Automation"
-deck: "Automate reptitive business processes without writing code"
+deck: "Automate repetitive business processes without writing code"
 summary: "Configure bots to execute repetitive tasks to save users from performing mundane tasks repeatedly for the same process."
 
 topics:
@@ -22,6 +22,6 @@ source: digitalgov
 authors:
   - james-geoghegan
 
-weight: 3
+weight: 1
 # Make it better ♥
 ---
