@@ -1,15 +1,15 @@
 ---
 date: 2018-10-09 12:30:00 -0500
-title: 'Eight Principles of Mobile-Friendliness'
-summary: 'In order to help agencies comply with mobile website requirements, we will share a principle of mobile-friendliness each week for eight weeks&mdash;and how adhering to these principles can greatly improve their sites.'
+title: "Eight Principles of Mobile-Friendliness"
+summary: "In order to help agencies comply with mobile website requirements, we will share a principle of mobile-friendliness each week for eight weeks&mdash;and how adhering to these principles can greatly improve their sites."
 guide: mobile-principles
 aliases:
   - /resources/mobile/principles/
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - mobile-gov-community-of-practice
-
+image: "https://cdn-icons-png.flaticon.com/512/2013/2013659.png"
 ---
 
 The [Connected Government Act](https://digital.gov/resources/connected-government-act/), which was signed into law in January 2018, requires new, and redesigned, agency websites to be mobile-friendly. The Connected Government Act also codifies the [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) which required agencies to create mobile-friendly websites, back in 2016.

@@ -2,7 +2,7 @@
 date: 2019-07-31 09:00:00 -0500
 title: "Guide to the Digital Analytics Program"
 deck: "A free analytics tool for measuring digital services in the federal government"
-summary: 'The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies.'
+summary: "The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies."
 guide: dap
 aliases:
   - /guide/dap/
@@ -12,7 +12,7 @@ aliases:
   - /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
   - /services/dap/dap-digital-metrics-guidance-and-best-practices/
   - /services/dap/guidance-for-dap-gov-wide-data/
-
+image: "/guides/dap.png"
 ---
 
 {{< box >}}
@@ -26,13 +26,12 @@ aliases:
 - Free web analytics tools for public-facing federal websites that are comprehensive and easy-to-use
 - Scalable infrastructure for measuring a broad range of .gov sites (large and small)
 - Training on analytics tools and reporting
-    - [View upcoming trainings and talks »](https://digital.gov/events/) 
-    - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba) 
-    - Ongoing help-desk support around implementation, data, and reporting
+  - [View upcoming trainings and talks »](https://digital.gov/events/)
+  - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba)
+  - Ongoing help-desk support around implementation, data, and reporting
 
-
-**DAP is required:** 
-On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages), which requires executive branch federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
+**DAP is required:**
+On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages), which requires executive branch federal agencies to implement the DAP JavaScript code on all public facing federal websites.
 
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 

@@ -1,11 +1,11 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "Establish goals"
+title: "Establish Goals"
 deck: ""
 summary: ""
 guide: public-participation
 ---
-{{< guide-toc >}}
+
 ## Play 1: Clearly define and communicate your objectives
 
 Federal agencies understand the importance of meaningful public engagement. The type of engagement will differ for each organization, depending on resources, audience and mission. Every agency must set goals that align with its unique definition of success and empowers the public to engage with agencies in order to influence government priorities.
@@ -20,14 +20,14 @@ Federal agencies understand the importance of meaningful public engagement. The 
 
 ### Case Studies
 
-- [ePolicyWorks](https://www.epolicyworks.org/epw/about/ "ePolicyWorks")  is an initiative by the Department of Labor’s Office of Disability Employment Policy. The tool is designed around a clear policy-making objective and addresses specific challenges in collaborative policy making.
-- Agencies can use the  [Regulations.gov](http://www.regulations.gov/#!home "Regulations.gov")  portal during the commenting period to consider public input and make relevant, appropriate revisions.  [Regulations.gov](http://www.regulations.gov/#!home "Regulations.gov")  is a portal that simplifies finding, reviewing, and submitting comments on Rules and Proposed Rules that appear in the Federal Register.
+- [ePolicyWorks](https://www.epolicyworks.org/epw/about/ "ePolicyWorks") is an initiative by the Department of Labor’s Office of Disability Employment Policy. The tool is designed around a clear policy-making objective and addresses specific challenges in collaborative policy making.
+- Agencies can use the [Regulations.gov](http://www.regulations.gov/#!home "Regulations.gov") portal during the commenting period to consider public input and make relevant, appropriate revisions. [Regulations.gov](http://www.regulations.gov/#!home "Regulations.gov") is a portal that simplifies finding, reviewing, and submitting comments on Rules and Proposed Rules that appear in the Federal Register.
 
 ### Resources
 
-- The [Environmental Protection Agency Public Participation Guide](http://www2.epa.gov/international-cooperation/public-participation-guide "Environmental Protection Agency Public Participation Guide")  contains numerous resources, including an excellent discussion of  [situation assessments](http://www2.epa.gov/international-cooperation/public-participation-guide-situation-assessments "situation assessments").
+- The [Environmental Protection Agency Public Participation Guide](http://www2.epa.gov/international-cooperation/public-participation-guide "Environmental Protection Agency Public Participation Guide") contains numerous resources, including an excellent discussion of [situation assessments](http://www2.epa.gov/international-cooperation/public-participation-guide-situation-assessments "situation assessments").
 - [Synthesis 89](http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_syn_89.pdf "Synthesis 89"), by Scott Giering, discusses The Transit Cooperative Research Program’s efforts to coordinate effective public participation strategies for transit, e.g. goal-setting, information exchange, and identifying “the public.”
-- The Department of Transportation’s Federal Highway Administration provides a  [Transportation Professional Capacity Building site](http://www.planning.dot.gov/focus_publicEngage.asp "Transportation Professional Capacity Building site ")  with many resources and  [case studies](http://www.planning.dot.gov/focus_caseStudies.asp "case studies").
+- The Department of Transportation’s Federal Highway Administration provides a [Transportation Professional Capacity Building site](http://www.planning.dot.gov/focus_publicEngage.asp "Transportation Professional Capacity Building site ") with many resources and [case studies](http://www.planning.dot.gov/focus_caseStudies.asp "case studies").
 
 ### Metrics: How Do You Know You Successfully Established Goals?
 
