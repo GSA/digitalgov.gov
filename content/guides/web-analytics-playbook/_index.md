@@ -5,7 +5,7 @@ deck: "Use web analytics to reach your strategic website goals"
 summary: "Use web analytics to reach your strategic website goals."
 guide: web-analytics-playbook
 aliases:
-image: "/guides/web-analytics.jpg"
+image: "https://i.ibb.co/vcb95v8/web-analytics.jpg"
 ---
 
 Federal websites vary greatly in content and purpose, but they all share a common objective: to deliver information or services to the public in an efficient, easy, and accessible way.
