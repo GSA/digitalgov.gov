@@ -3,19 +3,19 @@ showNextPrevious: true
 nav:
 - title    : 'Overview'
   path     : '/guides/web-analytics-playbook/_index.md'
-- title    : 'Play 1: Create a foundation'
+- title    : 'Play 1'
   path     : '/guides/web-analytics-playbook/create-a-foundation-for-your-strategy.md'
-- title    : 'Play 2: Commit to action'
+- title    : 'Play 2'
   path     : '/guides/web-analytics-playbook/commit-to-action.md'
-- title    : 'Play 3: Implement wisely'
+- title    : 'Play 3'
   path     : '/guides/web-analytics-playbook/implement-wisely.md'
-- title    : "Play 4: Configure your tool's settings carefully"
+- title    : "Play 4"
   path     : '/guides/web-analytics-playbook/configure-your-tools-settings-carefully.md'
-- title    : "Play 5: Know what you're looking for"
+- title    : "Play 5"
   path     : '/guides/web-analytics-playbook/know-what-youre-looking-for.md'
-- title    : 'Play 6: Democratize the data'
+- title    : 'Play 6'
   path     : '/guides/web-analytics-playbook/democratize-the-data.md'
-- title    : 'Play 7: Invest in training and support'
+- title    : 'Play 7'
   path     : '/guides/web-analytics-playbook/invest-in-training-and-support.md'
-- title    : 'Play 8: Do it continuously'
+- title    : 'Play 8'
   path     : '/guides/web-analytics-playbook/do-it-continuously.md'
