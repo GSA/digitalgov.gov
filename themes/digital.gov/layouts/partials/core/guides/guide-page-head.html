@@ -2,25 +2,9 @@
   {{- partial "core/guides/guide-read-time.html" . -}}
 
   {{- if not .IsNode -}}
-    {{- if .Params.kicker -}}
-      <h1 class="kicker">{{- .Params.kicker -}}</h1>
-    {{- else -}}
-      <h1 class="kicker">{{- .Parent.Title -}}</h1>
-    {{- end -}}
-
     {{/* Page Title */}}
     <h1>{{- .Title | markdownify -}}</h1>
-
-    {{/* Deck */}}
-    {{- if .Params.deck -}}
-      <div class="usa-intro">{{- .Params.deck | markdownify -}}</div>
-    {{- end -}}
   {{ else }}
-    {{- if .Params.kicker -}}
-      <h1 class="kicker">{{- .Params.kicker -}}</h1>
-    {{- else -}}
-      <h1 class="kicker">{{- .Page.Title -}}</h1>
-    {{- end -}}
     {{/* Page Title */}}
     <h1>Overview</h1>
   {{- end -}}
