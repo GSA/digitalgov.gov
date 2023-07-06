@@ -1,39 +1,46 @@
 ---
 title: Supporting inclusive language through automation
-kicker: COMMUNICATORS
-summary: Join us as we learn about our Inclusion Bot and how it helps to create
-  an inclusive culture in the workplace.
+kicker: Communicators
+summary: "Join us as we learn about our Inclusion Bot and how it helps to create an inclusive culture in the workplace."
 host: Communicators Community of Practice
 event_organizer: Digital.gov
 cop_events:
   - communicators
-registration_url: "https://gsa.zoomgov.com/webinar/register/WN_K_Q-mZ0URjypymxmVl8OMA "
+registration_url: "https://gsa.zoomgov.com/webinar/register/WN_K_Q-mZ0URjypymxmVl8OMA"
+date: 2023-07-19 13:00:00 -0500
 end_date: 2023-07-19 14:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
   - diversity-equity-inclusion-accessibility-deia
   - open-data
   - open-source
+
 slug: supporting-inclusive-language-through-automation
-captions: "https://www.streamtext.net/player?event=BIS-GSA-5485908 "
-date: 2023-07-19 13:00:00 -0500
+captions: "https://www.streamtext.net/player?event=BIS-GSA-5485908"
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2023-july-inclusion-bot-event-title-card
+
+# YouTube ID
+youtube_id: 
+
 ---
-In 2015, General Services Administration’s Technology Transformation Services (TTS) created “Inclusion Bot” to help staff use more inclusive and thoughtful language in everyday communications.
+
+In 2015, General Services Administration’s Technology Transformation Services (TTS) created "Inclusion Bot" to help staff use more inclusive and thoughtful language in everyday communications.
 
 Over time, the team found this bot could use some improvements. So starting in 2019, they began conducting research and iterating on the bot to further their goal of a welcoming, inclusive culture.
 
-This event is best suited for: Communicators at all levels of experience, from beginners to experts
+**This event is best suited for**: Communicators at all levels of experience, from beginners to experts.
 
 In this session, you’ll learn how to:
 
-* Use technology to promote more inclusive language in the workplace 
-* Establish a common language and clear workplace expectations
-* Build a shared understanding of concepts, values, and norms that are essential in building inclusive teams
-* Implement inclusive automation
-* Make iterative improvements to inclusion automation, including the words that trigger a reminder 
+* Use technology to promote more inclusive language in the workplace.
+* Establish a common language and clear workplace expectations.
+* Build a shared understanding of concepts, values, and norms that are essential in building inclusive teams.
+* Implement inclusive automation.
+* Make iterative improvements to inclusion automation, including the words that trigger a reminder.
 
 ## Resources
 
