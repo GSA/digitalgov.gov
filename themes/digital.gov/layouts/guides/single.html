@@ -4,37 +4,30 @@
   {{ else }}
     {{ $path = .Path }}
   {{ end }}
-
-
   <main role="main" id="main-content">
-    <article>
-      <div class="grid-container grid-container-desktop">
-        {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-        <div class="grid-row grid-gap-4">
-          <div
-            class="grid-col-12 tablet-lg:grid-col-2"
-            data-edit-this="{{- $path -}}"
-          >
-            {{- partial "core/guides/guide-nav.html" . -}}
+    {{- partial "core/guides/guide-header.html" . -}}
+    {{- partial "core/guides/guide-menu-bar.html" . -}}
+    <div class="usa-in-page-nav-container">
+      <aside
+        class="usa-in-page-nav guide"
+        data-title-text="On this page"
+        data-title-heading-level="h3"
+        data-root-margin="100px 0px 0px 0px"
+        data-scroll-offset="100"
+        data-threshold="1"
+      ></aside>
+      <article class="grid-container grid-container-desktop">
+        <div data-edit-this="{{- $path -}}">
+          {{/* Content */}}
+          <div class="content usa-prose guide">
+            {{- .Content -}}
           </div>
-
-          <div class="grid-col-12 tablet-lg:grid-col-8">
-            <div
-              class="guide-content usa-layout-docs__main usa-prose"
-              data-edit-this="{{- $path -}}"
-            >
-              {{- partial "core/guides/guide-page-head.html" . -}}
-
-              {{ .Content }}
-
-              {{- partial "core/guides/guide-prev-next.html" . -}}
-
-              {{/* Touchpoints Form */}}
-              {{- partial "core/touchpoints-form.html" . -}}
-            </div>
-          </div>
+          {{- partial "core/guides/guide-prev-next.html" . -}}
+          {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+          {{/* Touchpoints Form */}}
+          {{- partial "core/touchpoints-form.html" . -}}
         </div>
-      </div>
-    </article>
+      </article>
+    </div>
   </main>
 {{- end -}}
