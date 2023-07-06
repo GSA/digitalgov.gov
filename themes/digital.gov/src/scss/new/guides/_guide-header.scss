@@ -1,41 +1,31 @@
 @use "uswds-core" as *;
 
-.guides {
-  .hero {
-    @include u-margin-bottom(0);
-    @include u-padding-y(5);
-    @include u-bg("base-lightest");
+@include at-media("tablet-lg") {
+  .guide-header {
+    @include u-display("flex");
+    @include u-justify-content("justify-center");
+    @include u-align-items("align-center");
 
-    // If is the guide home
-    h1 {
-      @include u-font("sans", "xl");
-      @include u-text("heavy");
-      @include u-text("primary-darker");
-
-      a {
-        @include u-text("primary-darker");
-        @include u-text("no-underline");
-      }
+    .guide-title {
+      @include u-margin-y(5);
+      @include u-flex(1);
     }
 
-    h2 {
-      @include u-font("sans", "lg");
-      @include u-text("heavy");
-
-      a {
-        @include u-text("primary-darker");
-        @include u-text("no-underline");
-      }
+    .guide-image {
+      @include u-maxw("mobile");
+      @include u-flex(1);
+      @include u-margin-left(15);
     }
+  }
+}
 
-    .deck {
-      @include u-margin(0);
-      @include u-margin-top("05");
-      @include u-font("sans", "lg");
-      @include u-text("normal");
-      @include u-text("primary-dark");
-      @include u-line-height("sans", 2);
-      @include u-maxw("desktop");
-    }
+@include at-media("mobile") {
+  .guide-title {
+    @include u-margin-top(5);
+  }
+
+  .guide-image {
+    @include u-maxw("card-lg");
+    margin: auto;
   }
 }

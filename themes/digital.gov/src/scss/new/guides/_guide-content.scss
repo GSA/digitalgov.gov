@@ -1,5 +1,10 @@
 @use "uswds-core" as *;
 
-.guide-content {
-  // future styles
+.content.usa-prose.guide {
+  @include u-margin-y(5);
+}
+
+.usa-in-page-nav.guide {
+  @include u-margin-top(5);
+  top: units(15);
 }
