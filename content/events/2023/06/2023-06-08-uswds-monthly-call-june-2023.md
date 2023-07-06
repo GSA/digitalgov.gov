@@ -41,8 +41,11 @@ For those of you who find the chat distracting, you’re welcome to close or hid
 So thanks! And, with that, let's get started!
 
 **Slide 3:** So what's our agenda for today? A straightforward call today!
+
 First we'll review a few of the new features in our last release: USWDS 3.5.0.
+
 Then we'll spend the rest of our time talking about the progress we've made on critical checklists — our new accessibility documentation initiative — and where we're going from here.
+
 And then we'll have some time left at the end for Q&A. So let's get right into it.
 
 **Slide 4:** Last month we were at the cusp of releasing [USWDS 3.5.0](https://github.com/uswds/uswds/releases/tag/v3.5.0), and this month it's out and it's a big one, with over 25 new features and bug fixes. I'd like to recap a few of the bigger updates in 3.5.0 then highlight a couple of the updates we weren't able to get to last time.
@@ -241,6 +244,7 @@ Then, we briefly showed them the document with the content we were testing. We g
 Then, we gave them about 7 minutes to thoroughly read through the entire document. Afterwards, we asked them follow-up questions to see what might be missing or how it could be improved to better meet their needs and expectations.
 
 **Slide 60:** Some of the questions we asked were:
+
 - Would you please summarize the information on that page in your own words?
 - What was easy or difficult to understand? Why? 
 - What questions do you have after reading that content?
@@ -326,7 +330,7 @@ In this session, you’ll learn how we're approaching `Critical Checklists`:
 * How we're evaluating checklist content
 * How `Critical Checklists` can support your own accessibility testing
 
-**This event is best suited for:** Designers, developers, and accessibility specialists at all levels
+**This event is best suited for:** Designers, developers, and accessibility specialists at all levels.
 
 ## Speakers
 
