@@ -58,6 +58,10 @@
               data-edit-this="{{- $path -}}"
             >
               {{- partial "core/guides/guide-page-head.html" . -}}
+              
+              {{- if .Params.summary_box -}}
+                {{- partial "core/usa-summary-box.html" (dict "modifier" "dg-guide-summary") -}}
+              {{- end -}}
 
               {{- .Content -}}
 
