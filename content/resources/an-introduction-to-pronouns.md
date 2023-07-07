@@ -40,7 +40,7 @@ You might have seen someone sign an email with a set of pronouns in parentheses,
 * Jesse Nez (they/them)
 * Maria Ruiz (she/her/ella)
 
-When someone shares their pronouns to sign their name, in their email signature block, or to introduce themselves, they are letting you know the pronouns that you should use when referring to them, whether you are in their presence, referring to them in a document, or speaking about them with someone else. Some people who speak multiple languages may also include their pronouns in non-English languages&mdash;for example, *el* and *ella* are the Spanish pronouns for *he* and *her*, respectively.
+When someone shares their pronouns to sign their name, in their email signature block, or to introduce themselves, they are letting you know the pronouns that you should use when referring to them, whether you are in their presence, referring to them in a document, or speaking about them with someone else. Some people who speak multiple languages may indicate this by providing their pronouns in both English and another language&mdash;for example, *el* and *ella* are the Spanish pronouns for *he* and *her*, respectively.
 
 ## Why is it important to use someone’s pronouns?
 
