@@ -8,7 +8,7 @@ summary: "Help create inclusive digital spaces with these tips for using self-de
 topics:
   - best-practices
   - presentations
-  - deia
+  - diversity-equity-inclusion-accessibility-deia/
 
 slug: introduction-to-self-description
 
