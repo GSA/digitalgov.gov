@@ -45,7 +45,7 @@ Language is always evolving, so, you may learn about self-descriptors that are u
 What you include in your self-description is up to you. Some possibilities are:
 
 * Clothing or hair color
-* Background of your screen
+* What's in the background behind you (seen in the room, or a photo filter in use)
 * Personal identity
 * Preferred pronouns
 
