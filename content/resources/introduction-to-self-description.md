@@ -35,7 +35,9 @@ Self-descriptions are one way to make your events more inclusive. We want to rei
 
 ## Why use self-description?
 
-These self-descriptions help people who may not be able to see the presentation know some of the context and identity markers of the presenters. They also let attendees know that this is a space where people of different health statuses, ages, gender identities, family types, etc. are present and leading the conversation. There is a subtext within these introductions that turns sharing personal identity into a way to ensure that the event feels inclusive and welcoming to others.
+These self-descriptions help people who may not be able to see the presentation know some of the context and identity markers of the presenters. They also let attendees know that this is a space where people of different health statuses, ages, gender identities, family types, etc. are present and leading the conversation. There is a subtext within these introductions that turns sharing personal identity into a way to ensure that the event feels inclusive and welcoming. 
+
+You may even learn about self-descriptors that are unfamiliar to you. It's important in these cases to research terms that are unknown to you on your own, rather than asking the speaker directly. For example, if someone describes themselves as "cisgender," and you're unfamiliar with the term, a quick internet search would tell you that "cisgender" is a term to describe someone who identifies as the gender they were assigned at birth, just as "transgender" means that someone identifies as a gender different from what they were assigned at birth. 
 
 ## How to create your self-description
 
