@@ -38,13 +38,14 @@ Self-descriptions are one way to make your events more inclusive. We want to rei
 
 These self-descriptions help people who may not be able to see the presentation know some of the context and identity markers of the presenters. They also let attendees know that this is a space where people of different health statuses, ages, gender identities, family types, etc. are present and leading the conversation. There is a subtext within these introductions that turns sharing personal identity into a way to ensure that the event feels inclusive and welcoming. 
 
-You may even learn about self-descriptors that are unfamiliar to you. It's important in these cases to research terms that are unknown to you on your own, rather than asking the speaker directly. For example, if someone describes themselves as "cisgender" (or “cis” for short) and you're unfamiliar with the term, a quick internet search would tell you that the adjective cisgender is simply a term to describe someone who identifies with the same gender that they were assigned at birth, just as "transgender" means that someone identifies with a gender that is different from what they were assigned at birth. This terminology has its roots in the sciences&mdash;like biology and chemistry&mdash;where the Latin prefix "cis-" is added to a word to indicate that something is "on this side of" or “on the same side,” while the Latin prefix "trans-" means that something is “across from" or “on the other side of.”
+You may even learn about self-descriptors that are unfamiliar to you. It's important in these cases to research terms that are unknown to you on your own, rather than asking the speaker directly. For example, if someone describes themselves as "cisgender" (or “cis” for short) and you're unfamiliar with the term, a quick internet search would tell you that the adjective cisgender is simply a term to describe someone who identifies with the same gender that they were assigned at birth, just as "transgender" means that someone identifies with a gender that is different from what they were assigned at birth. This terminology has its roots in the sciences&mdash;like biology and chemistry&mdash;where the Latin prefix "*cis-*" is added to a word to indicate that something is "on this side of" or “on the same side,” while the Latin prefix "*trans-*" means that something is “across from" or “on the other side of.”
 
 ## How to create your self-description
 
 What you include in your self-description is up to you. Some possibilities are:
 
-* Clothing color or background
+* Clothing or hair color
+* Background of your screen
 * Personal identity
 * Preferred pronouns
 
