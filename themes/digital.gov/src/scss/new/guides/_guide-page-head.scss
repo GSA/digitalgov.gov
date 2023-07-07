@@ -11,25 +11,6 @@
     @include u-text("primary-darker");
   }
 
-  // Guide Title
-  h2 {
-    @include u-text("semibold");
-    @include u-line-height("sans", 1);
-    @include u-margin-y(1);
-    @include u-text("primary-vivid");
-  }
-
-  // Deck
-  .usa-intro {
-    @include u-margin(0);
-    @include u-margin-top("05");
-    @include u-margin-bottom(5);
-    @include u-text("light");
-    @include u-text("primary-darker");
-    @include u-font("sans", "lg");
-    @include u-line-height("sans", 3);
-  }
-
   //Read Time
   #read-time {
     @include u-text("uppercase");
