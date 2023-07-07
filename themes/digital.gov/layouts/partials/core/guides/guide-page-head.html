@@ -2,14 +2,10 @@
   {{- partial "core/guides/guide-read-time.html" . -}}
 
   {{- if not .IsNode -}}
-    {{/* Guide Title */}}
-    <h2>{{- .Parent.Title -}}</h2>
     {{/* Page Title */}}
     <h1>{{- .Title | markdownify -}}</h1>
   {{ else }}
-    {{/* Guide Title */}}
-    <h2>{{- .Page.Title -}}</h2>
-    {{/* Page Title */}}
+    {{/* Page Title when on guide homepage */}}
     <h1>Overview</h1>
   {{- end -}}
 </header>
