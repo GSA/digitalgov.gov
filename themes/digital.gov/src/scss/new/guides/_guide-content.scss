@@ -1,7 +1,8 @@
 @use "uswds-core" as *;
 
-.content.usa-prose.guide {
+article.guide {
   @include u-margin-y(5);
+  @include u-overflow("hidden");
 }
 
 .usa-in-page-nav.guide {
