@@ -11,11 +11,13 @@
         <div class="deck">{{- .Params.summary | markdownify -}}</div>
       {{- end -}}
     </div>
+    {{ if or .Params.Image .Parent.Params.Image }}
     <div class="guide-image">
       <img
         src="{{ cond .IsNode .Params.Image .Parent.Params.Image }}"
         alt="Guide Header Image"
       />
+    {{- end -}}
     </div>
   </header>
 </article>
