@@ -1,11 +1,12 @@
 <header class="page-head-{{- .Type -}}">
   {{- partial "core/guides/guide-read-time.html" . -}}
-
-  {{- if not .IsNode -}}
-    {{/* Page Title */}}
-    <h1>{{- .Title | markdownify -}}</h1>
-  {{ else }}
-    {{/* Page Title when on guide homepage */}}
-    <h1>Overview</h1>
-  {{- end -}}
+  
+  <h1>
+    {{- if not .IsNode -}}
+      {{- .Title | markdownify -}}
+    {{ else }}
+      {{/* Page Title when on guide homepage */}}
+      Overview
+    {{- end -}}
+  </h1>
 </header>
