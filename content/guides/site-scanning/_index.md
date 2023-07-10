@@ -12,7 +12,7 @@ aliases:
   - /sitescan/
   - /site-scans/
   - /sitescans/
-image: "https://clym.io/hubfs/graphic_continuous_scanning.svg"
+image: guide-site-scanning
 layout: single
 ---
 

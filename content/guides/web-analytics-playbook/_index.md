@@ -5,7 +5,7 @@ deck: "Use web analytics to reach your strategic website goals"
 summary: "Use web analytics to reach your strategic website goals."
 guide: web-analytics-playbook
 aliases:
-image: "https://i.ibb.co/vcb95v8/web-analytics.jpg"
+image: guide-web-analytics-playbook
 layout: single
 ---
 

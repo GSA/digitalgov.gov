@@ -7,7 +7,7 @@ guide: rpa
 aliases:
 
 primary_image: "rpa-stock-photo-2"
-image: "https://cdn-icons-png.flaticon.com/512/3696/3696563.png"
+image: guide-rpa
 layout: single
 ---
 

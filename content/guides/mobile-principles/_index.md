@@ -9,7 +9,7 @@ aliases:
 # see all topics at https://digital.gov/topics
 topics:
   - mobile-gov-community-of-practice
-image: "https://cdn-icons-png.flaticon.com/512/2013/2013659.png"
+image: guide-mobile-principles
 layout: single
 ---
 

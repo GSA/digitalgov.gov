@@ -6,7 +6,7 @@ summary: "The U.S. Public Participation Playbook is a resource for government ma
 summary_box: true 
 guide: public-participation
 aliases:
-image: "https://www.wcls.org/wp-content/uploads/2019/11/survey-graphic.jpg"
+image: guide-public-participation
 layout: single
 ---
 
