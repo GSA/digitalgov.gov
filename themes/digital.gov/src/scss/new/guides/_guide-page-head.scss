@@ -10,12 +10,13 @@
     @include u-text("heavy");
     @include u-text("primary-darker");
   }
+}
 
-  //Read Time
-  #read-time {
-    @include u-font("sans", "md");
-    @include u-text("normal");
-    @include u-text("uppercase");
-    margin: 0;
-  }
+.read-time {
+  @include u-font("sans", "2xs");
+  display: inline-block;
+  background-color: color("indigo-10");
+  border-radius: units(2);
+  padding: units("05") units("105");
+  margin: 0;
 }
