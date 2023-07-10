@@ -5,12 +5,11 @@
 {{- $imgBaseCDN := printf "%s/%s" $cdnurl $thisimg.uid -}}
 {{- $imgExt := $thisimg.format -}}
 
-
 {{ if or .Params.Image .Parent.Params.Image }}
-<div class="guide-image">
+  <div class="guide-image">
     <img
       src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
-      alt={{- $thisimg.alt | markdownify -}}
+      alt="{{- $thisimg.alt | markdownify -}}"
     />
-</div>
+  </div>
 {{- end -}}

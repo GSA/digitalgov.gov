@@ -1,6 +1,6 @@
 @use "uswds-core" as *;
 
 .attribution {
-    @include u-text("italic");
-    @include u-font("sans", "xs");
-  }
+  @include u-text("italic");
+  @include u-font("sans", "xs");
+}
