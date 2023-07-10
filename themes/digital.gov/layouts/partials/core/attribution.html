@@ -1,0 +1,14 @@
+{{- $thisuid := cond .IsNode .Params.Image .Parent.Params.Image -}}
+{{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
+{{- $thisimg := index $.Site.Data.images $thisuid -}}
+
+
+<p class="attribution">
+  {{- if $thisimg.credit -}}
+    Header Image Credit:&nbsp
+    {{ $thisimg.credit | markdownify }}
+  {{- else if $thisimg.caption -}}
+    Header Image Credit:&nbsp
+    {{ $thisimg.caption | markdownify }}
+  {{- end -}}
+</p>
