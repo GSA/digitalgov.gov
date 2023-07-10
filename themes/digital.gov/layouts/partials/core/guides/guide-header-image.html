@@ -1,0 +1,16 @@
+{{- $thisuid := cond .IsNode .Params.Image .Parent.Params.Image -}}
+{{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
+{{- $thisimg := index $.Site.Data.images $thisuid -}}
+{{- $cdnurl := .Site.Params.cdnurl -}}
+{{- $imgBaseCDN := printf "%s/%s" $cdnurl $thisimg.uid -}}
+{{- $imgExt := $thisimg.format -}}
+
+
+{{ if or .Params.Image .Parent.Params.Image }}
+<div class="guide-image">
+    <img
+      src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
+      alt={{- $thisimg.alt | markdownify -}}
+    />
+</div>
+{{- end -}}

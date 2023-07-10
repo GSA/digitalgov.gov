@@ -1,23 +1,18 @@
 <article class="grid-container grid-container-desktop">
   <header class="guide-header">
     <div class="guide-title">
-      {{- if .IsNode -}}
-        <p class="kicker">Digital.gov Guide</p>
-      {{- else -}}
-        <p class="kicker">{{- .Parent.Title -}}</p>
-      {{- end -}}
+      <p class="kicker">
+        {{- if .IsNode -}}
+          Digital.gov Guide
+        {{- else -}}
+          {{- .Parent.Title -}}
+        {{- end -}}
+      </p>
       <h1>{{- .Title | markdownify -}}</h1>
       {{- if .Params.summary -}}
         <div class="deck">{{- .Params.summary | markdownify -}}</div>
       {{- end -}}
     </div>
-    {{ if or .Params.Image .Parent.Params.Image }}
-    <div class="guide-image">
-      <img
-        src="{{ cond .IsNode .Params.Image .Parent.Params.Image }}"
-        alt="Guide Header Image"
-      />
-    {{- end -}}
-    </div>
+    {{- partial "core/guides/guide-header-image.html" . -}}
   </header>
 </article>
