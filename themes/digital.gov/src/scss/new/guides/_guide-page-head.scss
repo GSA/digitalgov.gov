@@ -14,9 +14,9 @@
 
 .read-time {
   @include u-font("sans", "2xs");
-  display: inline-block;
   background-color: color("indigo-10");
   border-radius: units(2);
-  padding: units("05") units("105");
+  display: inline-block;
   margin: 0;
+  padding: units("05") units("105");
 }
