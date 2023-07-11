@@ -39,6 +39,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Web Managers
 dg_acronym: WCM
+logo: communities-web-managers.svg
 
 community_list:
   - platform: listserv

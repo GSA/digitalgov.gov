@@ -29,6 +29,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Social Media
 dg_acronym: SM
+logo: communities-social-media.svg
 
 community_list:
   - platform: listserv
