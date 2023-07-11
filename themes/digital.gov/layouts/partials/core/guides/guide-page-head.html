@@ -1,6 +1,4 @@
 <header class="page-head-{{- .Type -}}">
-  {{- partial "core/guides/guide-read-time.html" . -}}
-  
   <h1>
     {{- if not .IsNode -}}
       {{- .Title | markdownify -}}
@@ -9,4 +7,5 @@
       Overview
     {{- end -}}
   </h1>
+  {{- partial "core/guides/guide-read-time.html" . -}}
 </header>
