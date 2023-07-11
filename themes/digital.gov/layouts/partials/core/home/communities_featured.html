@@ -19,26 +19,33 @@
       {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
 
       {{ range $i, $e := $dg_communities }}
+        {{ $path := "" }}{{ with .File }}
+          {{ $path = .Path }}
+        {{ else }}
+          {{ $path = .Path }}
+        {{ end }}
         <div class="tablet-lg:grid-col-3 item">
-          {{ with $e.Params.logo }}
-            <img
-              src="{{- (printf "%s/%s" "img/" $e.Params.logo ) | absURL -}}"
-              alt="{{- (printf "%s/%s" $e.Params.dg_shortname " Community Logo" ) -}}"
-            />
-          {{ end }}
-          <h2>
-            {{- $e.Params.dg_shortname | markdownify -}}
-          </h2>
-          <p>
-            {{- $e.Params.summary | markdownify -}}
-          </p>
-          <a
-            class="usa-button"
-            href="{{- $e.Permalink -}}"
-            title="{{- $e.Params.dg_shortname -}}"
-          >
-            Connect
-          </a>
+          <div data-edit-this="{{- $path -}}">
+            {{ with $e.Params.logo }}
+              <img
+                src="{{- (printf "%s/%s" "img/" $e.Params.logo ) | absURL -}}"
+                alt="{{- (printf "%s/%s" $e.Params.dg_shortname " Community Logo" ) -}}"
+              />
+            {{ end }}
+            <h2>
+              {{- $e.Params.dg_shortname | markdownify -}}
+            </h2>
+            <p>
+              {{- $e.Params.summary | markdownify -}}
+            </p>
+            <a
+              class="usa-button"
+              href="{{- $e.Permalink -}}"
+              title="{{- $e.Params.dg_shortname -}}"
+            >
+              Connect
+            </a>
+          </div>
         </div>
       {{ end }}
     </div>
