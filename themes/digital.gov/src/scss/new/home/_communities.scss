@@ -9,6 +9,20 @@
   }
 }
 
+#communities_featured {
+  .grid-container {
+    .grid-row {
+      justify-content: space-evenly;
+    }
+    .item {
+      @include at-media("tablet-lg") {
+        text-align: center;
+      }
+      @include u-margin-y(3);
+    }
+  }
+}
+
 .usa-card__cop-bar {
   border-radius: 0;
   height: 10px;

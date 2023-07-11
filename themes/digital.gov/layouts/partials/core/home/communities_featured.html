@@ -1,42 +1,46 @@
 {{/* Communities / Featured */}}
-<section id="communities">
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row tablet-lg:grid-gap-4">
-      <div class="grid-col-12 tablet-lg:grid-col-4 tablet-lg:grid-offset-4">
-        <div class="faces">
-          <img src="https://github.com/jeremyzilar.png?size=40" alt="" />
-          <img src="https://github.com/thisisdano.png?size=40" alt="" />
-          <img src="https://github.com/ToniBonittoGSA.png?size=40" alt="" />
-          <img src="https://github.com/jeremyzilar.png?size=40" alt="" />
-          <img src="https://github.com/thisisdano.png?size=40" alt="" />
-          <img src="https://github.com/ToniBonittoGSA.png?size=40" alt="" />
-          <img src="https://github.com/jeremyzilar.png?size=40" alt="" />
-          <img src="https://github.com/thisisdano.png?size=40" alt="" />
-          <img src="https://github.com/ToniBonittoGSA.png?size=40" alt="" />
-          <img src="https://github.com/jeremyzilar.png?size=40" alt="" />
-          <img src="https://github.com/thisisdano.png?size=40" alt="" />
+<section class="usa-section" id="communities_featured">
+  <header class="page-head">
+    <h2>Our Communities</h2>
+    <p>
+      Join over <strong>11,000 people in government</strong> who are
+      collaborating to make our digital services better.
+    </p>
+  </header>
+  <div class="grid-container">
+    <div class="grid-row tablet-lg:grid-gap-6">
+      {{/* Gets all communities pages */}}
+      {{ $dg_communities := (where .Site.Pages "Section" "communities").ByTitle }}
+
+      {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+      {{ $dg_communities := (where $dg_communities ".Params.weight" "ge" 1) }}
+
+      {{/* Gather only the pages with a dg-emphasis key */}}
+      {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
+
+      {{ range $i, $e := $dg_communities }}
+        <div class="tablet-lg:grid-col-3 item">
+          {{ with $e.Params.logo }}
+            <img
+              src="{{- (printf "%s/%s" "img/" $e.Params.logo ) | absURL -}}"
+              alt="{{- (printf "%s/%s" $e.Params.dg_shortname " Community Logo" ) -}}"
+            />
+          {{ end }}
+          <h2>
+            {{- $e.Params.dg_shortname | markdownify -}}
+          </h2>
+          <p>
+            {{- $e.Params.summary | markdownify -}}
+          </p>
+          <a
+            class="usa-button"
+            href="{{- $e.Permalink -}}"
+            title="{{- $e.Params.dg_shortname -}}"
+          >
+            Connect
+          </a>
         </div>
-      </div>
-    </div>
-    <div class="grid-row tablet-lg:grid-gap-4">
-      <div class="grid-col-12 tablet-lg:grid-col-10 tablet-lg:grid-offset-1">
-        <header>
-          <p>
-            <strong>Join over 11,000 people</strong> in government who are
-            collaborating to make digital services better.
-          </p>
-          <p>
-            <a href="{{ "/communities" | absURL }}" title="Join a community"
-              >Join a community of practice</a
-            >
-            <a
-              href="{{ "/contribute" | absURL }}"
-              title="Contribute to our guidance"
-              >Contribute to guidance</a
-            >
-          </p>
-        </header>
-      </div>
+      {{ end }}
     </div>
   </div>
 </section>
