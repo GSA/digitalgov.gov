@@ -9,7 +9,9 @@
   if (!guideSummary) return;
 
   const guideSummaryList = guideSummary.querySelector(".usa-list");
-  const pageHeaders = document.querySelectorAll("h2");
+  const pageHeaders = document.querySelectorAll(
+    "h2:not(.usa-summary-box__heading)"
+  );
 
   function createSummaryBox() {
     const summaryBoxFragment = document.createDocumentFragment();
