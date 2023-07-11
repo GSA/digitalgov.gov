@@ -12,7 +12,7 @@
 
   {{ if $readTime }}
     {{ $readTimeMinutes := cond (gt $readTime 1) "minutes" "minute" }}
-    <p class="dg-guide__header-reading-time">
+    <p class="dg-read-time">
       Reading time:
       {{ $readTime }}
       {{ $readTimeMinutes }}
