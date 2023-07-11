@@ -33,6 +33,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Multilingual
 dg_acronym: ML
+logo: communities-multilingual.svg
 
 community_list:
   - platform: listserv
