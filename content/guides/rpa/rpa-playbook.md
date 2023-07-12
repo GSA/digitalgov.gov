@@ -2,7 +2,7 @@
 date: 2020-05-15 09:00:00 -0500
 title: "RPA Playbook"
 deck: ""
-summary: ""
+summary: "The RPA Playbook provides detailed guidance for federal agencies starting a new RPA program or evolving an existing one."
 guide: rpa
 ---
 ## RPA Playbook

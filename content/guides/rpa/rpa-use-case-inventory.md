@@ -2,7 +2,7 @@
 date: 2020-05-15 09:00:00 -0500
 title: "RPA Use Case Inventory"
 deck: ""
-summary: ""
+summary: "The RPA Use Case Inventory provides detailed information on over 300 RPA use cases across the federal government."
 guide: rpa
 ---
 
