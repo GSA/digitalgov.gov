@@ -6,7 +6,7 @@ nav:
   path     : '/guides/web-analytics-playbook/_index.md'
 - title    : 'Foundation'
   path     : '/guides/web-analytics-playbook/create-a-foundation-for-your-strategy.md'
-- title    : 'Act'
+- title    : 'Action'
   path     : '/guides/web-analytics-playbook/commit-to-action.md'
 - title    : 'Implement'
   path     : '/guides/web-analytics-playbook/implement-wisely.md'
