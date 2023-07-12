@@ -1,16 +1,14 @@
 @use "uswds-core" as *;
 
-article.guide {
+.dg-guide__content {
   @include u-margin-y(5);
   @include u-overflow("hidden");
-  .usa-prose {
-    p {
-      max-width: none;
-    }
+  p {
+    max-width: none;
   }
 }
 
-.usa-in-page-nav.guide {
-  @include u-margin-top(5);
+.dg-guide__nav.usa-in-page-nav {
+  margin-top: units(6);
   top: units(15);
 }

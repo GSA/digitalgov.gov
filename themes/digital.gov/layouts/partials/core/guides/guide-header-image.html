@@ -6,7 +6,7 @@
 {{- $imgExt := $thisimg.format -}}
 
 {{ if or .Params.Image .Parent.Params.Image }}
-  <div class="guide-image">
+  <div class="dg-guide__header-image">
     <img
       src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
       alt="{{- $thisimg.alt | markdownify -}}"

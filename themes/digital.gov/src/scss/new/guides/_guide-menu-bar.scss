@@ -1,6 +1,6 @@
 @use "uswds-core" as *;
 
-.menu-bar-guide {
+.dg-guide__menu-bar {
   @include u-bg("gray-10");
   @include u-position("sticky");
   @include u-top(0);
@@ -15,7 +15,7 @@
   overflow-x: scroll;
   white-space: nowrap;
 
-  .menu-bar-link {
+  &-link {
     @include u-font("sans", "md");
     @include u-text("light");
     @include u-text("black");
@@ -24,6 +24,9 @@
     @include u-margin-x(5);
     &:hover {
       @include u-border-bottom("05", "primary", "solid");
+    }
+    &:visited {
+      @include u-text("black");
     }
   }
 
