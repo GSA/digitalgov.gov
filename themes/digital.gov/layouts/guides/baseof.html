@@ -57,7 +57,15 @@
               class="dg-guide__content usa-prose"
               data-edit-this="{{- $path -}}"
             >
-              {{- partial "core/guides/guide-page-head.html" . -}}
+              <h1>
+                {{- if not .IsNode -}}
+                  {{- .Title | markdownify -}}
+                {{ else }}
+                  {{/* Page Title when on guide homepage */}}
+                  Overview
+                {{- end -}}
+              </h1>
+              {{- partial "core/read-time.html" . -}}
 
               {{- if .Params.summary_box -}}
                 {{- partial "core/usa-summary-box.html" (dict "modifier" "dg-guide-summary") -}}
