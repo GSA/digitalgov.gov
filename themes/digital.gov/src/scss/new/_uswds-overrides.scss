@@ -45,8 +45,32 @@
 }
 
 // improve a11y for color contrast for content links
-.usa-prose a {
-  text-decoration: underline;
-  text-decoration-skip-ink: auto;
-  @include u-color("indigo-cool-50v");
+.usa-prose {
+  p a,
+  ul a {
+    text-decoration: underline;
+    text-decoration-skip-ink: auto;
+    @include u-color("indigo-cool-50v");
+
+    &:hover {
+      @include u-color($theme-link-hover-color);
+    }
+  }
+
+  div:not(.note) p a,
+  div:not(.note) ul li a {
+    text-decoration: underline;
+    text-decoration-skip-ink: auto;
+    @include u-color($theme-link-color);
+
+    &:hover {
+      @include u-color($theme-link-hover-color);
+    }
+  }
+
+  #page-data {
+    a {
+      @include u-color($theme-link-color);
+    }
+  }
 }

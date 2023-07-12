@@ -23,7 +23,7 @@
 
   a {
     @include u-text("no-underline");
-    @include u-text("blue-70");
+    @include u-text("blue-70", !important);
     @include u-border-bottom("1px", "solid", "blue-70");
 
     &:hover {
