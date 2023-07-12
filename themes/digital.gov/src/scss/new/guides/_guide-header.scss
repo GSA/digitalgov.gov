@@ -25,7 +25,7 @@
   }
 
   .guide-image {
-    @include u-maxw("card-lg");
-    margin: auto;
+    @include u-maxw("mobile");
+    @include u-margin-top(5);
   }
 }
