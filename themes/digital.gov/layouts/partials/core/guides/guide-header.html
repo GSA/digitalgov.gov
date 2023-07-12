@@ -1,6 +1,6 @@
 <article class="grid-container grid-container-desktop">
-  <header class="guide-header">
-    <div class="guide-title">
+  <header class="dg-guide__header">
+    <div class="dg-guide__header-title">
       <p class="kicker">
         {{- if .IsNode -}}
           Digital.gov Guide
@@ -10,8 +10,11 @@
       </p>
       <h1>{{- .Title | markdownify -}}</h1>
       {{- if .Params.summary -}}
-        <div class="deck">{{- .Params.summary | markdownify -}}</div>
+        <div class="deck">
+          {{- .Params.summary | markdownify -}}
+        </div>
       {{- end -}}
+      {{- partial "core/read-time.html" . -}}
     </div>
     {{- partial "core/guides/guide-header-image.html" . -}}
   </header>
