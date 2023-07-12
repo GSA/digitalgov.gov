@@ -1,34 +1,22 @@
 {{ define "content" }}
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
   <main role="main" id="main-content">
     {{- partial "core/guides/guide-header.html" . -}}
     {{- partial "core/guides/guide-menu-bar.html" . -}}
-    <div class="usa-in-page-nav-container">
-      <aside
-        class="usa-in-page-nav guide"
-        data-title-text="On this page"
-        data-title-heading-level="h4"
-        data-root-margin="0px 0px 0px 0px"
-        data-scroll-offset="100"
-        data-threshold="1"
-      ></aside>
-      <article class="grid-container grid-container-desktop guide">
-        <div data-edit-this="{{- $path -}}">
-          {{/* Content */}}
-          <div class="content usa-prose guide">
-            {{- .Content -}}
-          </div>
-          {{- partial "core/guides/guide-prev-next.html" . -}}
-          {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-          {{- partial "core/attribution.html" . -}}
-          {{/* Touchpoints Form */}}
-          {{- partial "core/touchpoints-form.html" . -}}
-        </div>
-      </article>
-    </div>
+    {{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
+    {{- if and $guide_data $guide_data.showInPageNav -}}
+      <div class="usa-in-page-nav-container">
+        <aside
+          class="usa-in-page-nav guide"
+          data-title-text="On this page"
+          data-title-heading-level="h4"
+          data-root-margin="0px 0px 0px 0px"
+          data-scroll-offset="100"
+          data-threshold="1"
+        ></aside>
+        {{- partial "core/guides/guide-content.html" . -}}
+      </div>
+    {{- else -}}
+      {{- partial "core/guides/guide-content.html" . -}}
+    {{- end -}}
   </main>
-{{- end -}}
+{{ end }}

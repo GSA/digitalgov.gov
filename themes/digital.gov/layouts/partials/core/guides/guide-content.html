@@ -1,0 +1,19 @@
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+
+
+<article class="grid-container grid-container-desktop guide">
+  <div class="content usa-prose guide">
+    <div data-edit-this="{{- $path -}}">
+      {{- .Content -}}
+    </div>
+  </div>
+  {{- partial "core/guides/guide-prev-next.html" . -}}
+  {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+  {{- partial "core/attribution.html" . -}}
+  {{/* Touchpoints Form */}}
+  {{- partial "core/touchpoints-form.html" . -}}
+</article>
