@@ -5,5 +5,7 @@
   @include u-flex("justify-center");
   @include u-text("italic");
   @include u-font("sans", "xs");
-  margin-top: -1rem;
+  @include at-media("tablet") {
+    margin-top: -1rem;
+  }
 }
