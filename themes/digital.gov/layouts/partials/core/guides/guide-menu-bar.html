@@ -2,8 +2,8 @@
 {{- $current_page := .Page.RelPermalink -}}
 
 
-<nav aria-label="Secondary menu bar">
-  <div class="menu-bar-guide">
+<div class="menu-bar-guide">
+  <nav aria-label="Secondary menu bar">
     {{- if $guide_data.nav -}}
       {{- range $guide_data.nav -}}
         {{- $item := . -}}
@@ -17,5 +17,5 @@
         >
       {{- end -}}
     {{- end -}}
-  </div>
-</nav>
+  </nav>
+</div>
