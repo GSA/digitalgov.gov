@@ -3,9 +3,13 @@
 article.guide {
   @include u-margin-y(5);
   @include u-overflow("hidden");
+  .usa-prose {
+    p {
+      max-width: none;
+    }
+  }
 }
 
 .usa-in-page-nav.guide {
   @include u-margin-top(5);
-  top: units(15);
 }
