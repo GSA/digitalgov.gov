@@ -1,7 +1,7 @@
 ---
 date: 2018-10-09 12:30:00 -0500
 title: "Eight Principles of Mobile-Friendliness"
-summary: "In order to help agencies comply with mobile website requirements, we will share a principle of mobile-friendliness each week for eight weeks&mdash;and how adhering to these principles can greatly improve their sites."
+summary: "We're sharing how eight principles of mobile-friendliness can help agencies greatly improve their sites."
 guide: mobile-principles
 aliases:
   - /resources/mobile/principles/
