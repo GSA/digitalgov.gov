@@ -63,13 +63,13 @@ i.e.
   $theme-utility-breakpoints: (
     "card": false,
     "card-lg": false,
-    "mobile": false,
+    "mobile": true,
     "mobile-lg": true,
     "tablet": true,
     "tablet-lg": true,
-    "desktop": false,
-    "desktop-lg": false,
-    "widescreen": false,
+    "desktop": true,
+    "desktop-lg": true,
+    "widescreen": true,
   ),
   $output-these-utilities: (
     "add-list-reset",

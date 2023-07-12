@@ -12,4 +12,5 @@ article.guide {
 
 .usa-in-page-nav.guide {
   @include u-margin-top(5);
+  top: units(15);
 }

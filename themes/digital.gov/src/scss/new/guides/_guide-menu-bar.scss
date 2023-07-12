@@ -9,7 +9,7 @@
   @include u-z("top");
   @include u-display("flex");
   @include u-justify-content("justify-start");
-  @include at-media("desktop") {
+  @include at-media("widescreen") {
     @include u-justify-content("justify-center");
   }
   overflow-x: scroll;
