@@ -2,6 +2,7 @@
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
 {{- $thisimg := index $.Site.Data.images $thisuid -}}
 
+
 <div class="attribution">
   <p>
     {{- if $thisimg.credit -}}
@@ -11,5 +12,5 @@
       Header Image Credit:&nbsp
       {{ $thisimg.caption | markdownify }}
     {{- end -}}
-  </p>  
+  </p>
 </div>
