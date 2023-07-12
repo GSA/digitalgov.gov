@@ -2,7 +2,7 @@
 date: 2020-07-28 09:00:00 -0500
 title: "Data Dictionary"
 deck: ""
-summary: ""
+summary: "Learn about the various types of data collected from scanned websites."
 guide: site-scanning
 aliases:
   - /guide/site-scanning/understand-the-data/

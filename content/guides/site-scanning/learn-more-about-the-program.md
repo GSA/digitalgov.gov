@@ -2,7 +2,7 @@
 date: 2020-07-28 09:00:00 -0500
 title: "Learn More About The Program"
 deck: ""
-summary: ""
+summary: "Learn about the program, how it operates, and where to find additional information."
 guide: site-scanning
 aliases:
   - /guide/site-scanning/learn-more-about-the-program/

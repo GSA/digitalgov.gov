@@ -4,9 +4,9 @@ showInPageNav: false
 nav:
 - title  : 'Overview'
   path   : '/guides/site-scanning/_index.md'
-- title  : 'Access'
+- title  : 'Access the Data'
   path   : '/guides/site-scanning/data.md'
+- title  : 'Data Dictionary'
+  path   : '/guides/site-scanning/understand-the-data.md'
 - title  : 'Learn More'
   path   : '/guides/site-scanning/learn-more-about-the-program.md'
-- title  : 'Understand the Data'
-  path   : '/guides/site-scanning/understand-the-data.md'
