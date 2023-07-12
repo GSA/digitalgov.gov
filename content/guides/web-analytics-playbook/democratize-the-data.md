@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 6: Democratize the data"
+title: "Democratize the Data"
 deck: ""
-summary: ""
+summary: "Allow the relevant parties to access the data, and empower them with the skills to understand it."
 guide: web-analytics-playbook
 aliases:
 ---

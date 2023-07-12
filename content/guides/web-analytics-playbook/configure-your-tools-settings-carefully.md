@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 4: Configure your tool’s settings carefully"
+title: "Configure Your Tool’s Settings Carefully"
 deck: ""
-summary: ""
+summary: "Be cautious when configuring your tool to maximize insights while minimizing inaccuracies."
 guide: web-analytics-playbook
 aliases:
 ---

@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 1: Create a foundation"
+title: "Create a Foundation"
 deck: ""
-summary: ""
+summary: "Before starting, be sure to define your mission, goals, and key performance indicators."
 guide: web-analytics-playbook
 aliases:
 ---

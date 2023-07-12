@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 8: Do it continuously"
+title: "Do it Continuously"
 deck: ""
-summary: ""
+summary: "Always be learning from past analytics cycles and making improvements for the future."
 guide: web-analytics-playbook
 aliases:
 

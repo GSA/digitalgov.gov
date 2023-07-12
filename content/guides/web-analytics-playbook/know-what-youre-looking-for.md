@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 5: Know what you’re looking for"
+title: "Know What You’re Looking For"
 deck: ""
-summary: ""
+summary: "Be sure to consistently measure against your predetermined metrics to see if you are on track."
 guide: web-analytics-playbook
 aliases:
 ---

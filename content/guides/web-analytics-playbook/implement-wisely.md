@@ -1,8 +1,8 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 3: Implement wisely"
+title: "Implement Wisely"
 deck: ""
-summary: ""
+summary: "Ensuring that your implementation is flexible is key for web analytics."
 guide: web-analytics-playbook
 aliases:
 ---
