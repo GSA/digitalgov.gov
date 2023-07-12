@@ -2,7 +2,7 @@
 date: 2019-07-31 09:00:00 -0500
 title: "Guidelines for Sharing DAP Data"
 deck: ""
-summary: ""
+summary: "Your responsibilities in sharing and managing DAP data. "
 guide: dap
 aliases:
   - /services/dap/guidelines-for-sharing-dap-data/

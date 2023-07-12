@@ -1,7 +1,7 @@
 ---
 date: 2019-07-31 09:00:00 -0500
 title: "Common Questions about DAP"
-summary: ""
+summary: "The most common questions about implementing, customizing, and utilizing the DAP program."
 guide: dap
 summary_box: true
 aliases:
