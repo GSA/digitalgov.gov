@@ -2,7 +2,7 @@
 date: 2020-09-08 09:00:00 -0500
 title: "U.S. Public Participation Playbook"
 deck: ""
-summary: "The U.S. Public Participation Playbook is a resource for government managers to effectively evaluate and build better services through public participation using best practices and performance metrics."
+summary: "A resource for government managers to effectively evaluate and build better services through public participation."
 summary_box: true 
 guide: public-participation
 aliases:

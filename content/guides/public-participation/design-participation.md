@@ -2,7 +2,7 @@
 date: 2020-09-08 09:00:00 -0500
 title: "Design Participation"
 deck: ""
-summary: ""
+summary: "Learn how to design for inclusiveness and participation."
 summary_box: true
 guide: public-participation
 ---
