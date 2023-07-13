@@ -43,10 +43,3 @@
     @include u-margin-right(1);
   }
 }
-
-// improve a11y for color contrast for content links
-.usa-prose a {
-  text-decoration: underline;
-  text-decoration-skip-ink: auto;
-  @include u-color("indigo-cool-50v");
-}

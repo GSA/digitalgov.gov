@@ -10,7 +10,7 @@
   {{- $point_item := 0 -}}
 
 
-  <div class="guide-prev-next grid-row">
+  <div class="dg-guide__guide-buttons grid-row">
     {{- if $guide_data.nav -}}
       {{- range $guide_data.nav -}}
         {{- $item := . -}}
@@ -25,7 +25,7 @@
 
           {{- if eq $current_url $point_page.Permalink -}}
             <a
-              class="prev-item usa-button usa-button--outline"
+              class="dg-guide__guide-buttons-prev-item usa-button usa-button--outline"
               href="{{- $prev_page.Permalink -}}"
               title="{{- $prev_item.title -}}"
             >
@@ -35,7 +35,7 @@
 
           {{- if eq $current_url $prev_page.Permalink -}}
             <a
-              class="next-item usa-button"
+              class="dg-guide__guide-buttons-next-item usa-button"
               href="{{- $point_page.Permalink -}}"
               title="{{- $point_item.title -}}"
             >
@@ -59,7 +59,7 @@
 
               {{- if eq $current_url $point_page.Permalink -}}
                 <a
-                  class="prev-item usa-button usa-button--outline"
+                  class="dg-guide__guide-buttons-prev-item usa-button usa-button--outline"
                   href="{{- $prev_page.Permalink -}}"
                   title="{{- $prev_item.title -}}"
                 >
@@ -69,7 +69,7 @@
 
               {{- if eq $current_url $prev_page.Permalink -}}
                 <a
-                  class="next-item usa-button"
+                  class="dg-guide__guide-buttons-next-item usa-button"
                   href="{{- $point_page.Permalink -}}"
                   title="{{- $point_item.title -}}"
                 >
@@ -92,7 +92,7 @@
 
                   {{- if eq $current_url $point_page.Permalink -}}
                     <a
-                      class="prev-item usa-button usa-button--outline"
+                      class="dg-guide__guide-buttons-prev-item usa-button usa-button--outline"
                       href="{{- $prev_page.Permalink -}}"
                       title="{{- $prev_item.title -}}"
                     >
@@ -102,7 +102,7 @@
 
                   {{- if eq $current_url $prev_page.Permalink -}}
                     <a
-                      class="next-item usa-button"
+                      class="dg-guide__guide-buttons-next-item usa-button"
                       href="{{- $point_page.Permalink -}}"
                       title="{{- $point_item.title -}}"
                     >
@@ -129,7 +129,7 @@
           {{- if eq $current_page.Kind "section" -}}
             {{- if (eq $prev_item 0) -}}
               <a
-                class="next-item usa-button"
+                class="dg-guide__guide-buttons-next-item usa-button"
                 href="{{- $point_item.Permalink | relURL -}}"
                 title="{{- $point_item.Title -}}"
               >
@@ -141,7 +141,7 @@
           {{- if eq $current_url $point_item.Permalink -}}
             {{- if not (eq $prev_item 0) -}}
               <a
-                class="prev-item usa-button usa-button--outline"
+                class="dg-guide__guide-buttons-prev-item usa-button usa-button--outline"
                 href="{{- $prev_item.Permalink | relURL -}}"
                 title="{{- $prev_item.Title -}}"
               >
@@ -149,7 +149,7 @@
               </a>
             {{- else -}}
               <a
-                class="prev-item usa-button usa-button--outline"
+                class="dg-guide__guide-buttons-prev-item usa-button usa-button--outline"
                 href="{{- $current_page.CurrentSection.Permalink | relURL -}}"
                 title="Overview"
               >
@@ -161,7 +161,7 @@
           {{- if not (eq $prev_item 0) -}}
             {{- if eq $current_url $prev_item.Permalink -}}
               <a
-                class="next-item usa-button"
+                class="dg-guide__guide-buttons-next-item usa-button"
                 href="{{- $point_item.Permalink | relURL -}}"
                 title="{{- $point_item.Title -}}"
               >
