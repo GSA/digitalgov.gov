@@ -55,6 +55,21 @@ a.btn {
   }
 }
 
+a.btn-home {
+  @include u-bg("transparent");
+  @include u-border("2px");
+  @include u-margin(2);
+
+  @include at-media("tablet-lg") {
+    @include u-margin-x(0);
+  }
+
+  &:hover {
+    @include u-bg("primary-vivid");
+    @include u-border("primary-vivid");
+  }
+}
+
 a.btn-sm {
   @include u-padding-y("05");
   @include u-padding-x(1);
