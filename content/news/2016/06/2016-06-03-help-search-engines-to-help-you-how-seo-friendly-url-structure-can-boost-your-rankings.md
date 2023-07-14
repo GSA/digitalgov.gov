@@ -13,7 +13,7 @@ topics:
 
 ---
 
-Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? {{< legacy-img src="2016/05/600-x-400-Search-results-concept.-Brain-and-icons-in-flat-style-VMasterArt-iStock-Thinkstock-518857148.jpg" alt="Search results concept. Brain and icons in flat style" caption="" >}}
+Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? {{< legacy-img src="2016/05/600-x-400-Search-results-concept.-Brain-and-icons-in-flat-style-VMasterArt-iStock-Thinkstock-518857148.jpg" alt="Search results concept. Brain and icons in flat style" caption="VMasterArt, iStock, Thinkstock" >}}
 
 How great it would be if that were easy to do.
 
@@ -29,11 +29,11 @@ You might have also noticed that Google shows snippets of the document with the 
 
 For instance, look at each URL. In the URL of three of the top four results, “invasive species” is bolded:
 
-<code>www.fs.fed.us/research/**invasive-species**/</code>
+<code>`www.fs.fed.us`/research/**invasive-species**/</code>
 
-<code>www.fs.fed.us/**invasivespecies**/restoration.shtml</code>
+<code>`www.fs.fed.us`/**invasivespecies**/restoration.shtml</code>
 
-<code>www.nrs.fs.fed.us/&#8230;/**invasive_species**/</code>
+<code>`www.nrs.fs.fed.us`/&#8230;/**invasive_species**/</code>
 
 In studying a number of different examples of search results, I have noticed a pattern:
 
@@ -45,15 +45,15 @@ Does your website take advantage of this fact? Not if it follows some of the mor
 
 - URLs that reflect the agency’s org chart:
 
-  <code>www.agency.gov/**division/section/team**/filename.pdf</code>
+  <code>`www.agency.gov`/**division/section/team**/filename.pdf</code>
 
 - URLs that reflect a document format and naming convention:
 
-  <code>www.agency.gov/<strong>pubs/pdfs</strong>/rg/<strong>123</strong>.pdf</code>
+  <code>`www.agency.gov`/<strong>pubs/pdfs</strong>/rg/<strong>123</strong>.pdf</code>
 
 - URLs that give information that means something to programmers or Web servers or cyborgs but is opaque to all the rest of us:
 
-  <code>www.agency.gov/documents/<strong>cgi-bin</strong>/filename.pdf (“cgi-bin”? Really?)</code>
+  <code>`www.agency.gov`/documents/<strong>cgi-bin</strong>/filename.pdf</code> (“cgi-bin”? Really?)
 
 These and similar terms mean nothing to your customers, so don’t use them in your URLs:
 
