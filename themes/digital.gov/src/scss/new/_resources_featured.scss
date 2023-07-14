@@ -34,42 +34,6 @@
         @include u-font("sans", "2xl");
       }
     }
-
-    p {
-      @include u-margin-top(0);
-      @include u-padding-y("105");
-      @include u-padding-x(2);
-      @include u-border-bottom("1px", "base-lightest", "solid");
-      @include u-bg("primary-darkest");
-      @include u-text("white");
-      @include u-font("sans", "xs");
-      @include u-line-height("sans", 2);
-      @include u-text("normal");
-      @include u-maxw("full");
-
-      @include at-media("tablet-lg") {
-        @include u-font("sans", "sm");
-        @include u-padding(2);
-      }
-
-      a {
-        @include u-display("flex");
-        @include u-flex("align-center");
-        @include u-text("no-underline");
-        @include u-text("white");
-
-        img {
-          @include u-margin-right("105");
-          @include u-width(5);
-          @include u-minw(5);
-
-          @include at-media("tablet-lg") {
-            @include u-width(7);
-            @include u-minw(7);
-          }
-        }
-      }
-    }
   }
 
   .resources-content {
