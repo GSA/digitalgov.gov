@@ -2,7 +2,7 @@
 slug: help-search-engines-to-help-you-how-seo-friendly-url-structure-can-boost-your-rankings
 date: 2016-06-03 11:00:41 -0400
 title: "Help Search Engines Help You: How SEO-Friendly URL Structure Can Boost Your Rankings"
-summary: Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? How great it would be if that were easy to do. Well, actually it is. I realized that recently when I was doing research for one of my personal passions, which is finding invasive
+summary: "Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? How great it would be if that were easy to do. Well, actually it is."
 authors:
   - cliff-tyllick
 topics:
@@ -10,6 +10,7 @@ topics:
   - strategy
   - policy
   - search-engine-optimization
+
 ---
 
 Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? {{< legacy-img src="2016/05/600-x-400-Search-results-concept.-Brain-and-icons-in-flat-style-VMasterArt-iStock-Thinkstock-518857148.jpg" alt="Search results concept. Brain and icons in flat style" caption="" >}}
@@ -28,11 +29,11 @@ You might have also noticed that Google shows snippets of the document with the 
 
 For instance, look at each URL. In the URL of three of the top four results, “invasive species” is bolded:
 
-www.fs.fed.us/research/**invasive-species**/
+<code>www.fs.fed.us/research/**invasive-species**/</code>
 
-www.fs.fed.us/**invasivespecies**/restoration.shtml
+<code>www.fs.fed.us/**invasivespecies**/restoration.shtml</code>
 
-www.nrs.fs.fed.us/&#8230;/**invasive_species**/
+<code>www.nrs.fs.fed.us/&#8230;/**invasive_species**/</code>
 
 In studying a number of different examples of search results, I have noticed a pattern:
 
@@ -44,13 +45,15 @@ Does your website take advantage of this fact? Not if it follows some of the mor
 
 - URLs that reflect the agency’s org chart:
 
-  www.agency.gov/**division/section/team**/filename.pdf
+  <code>www.agency.gov/**division/section/team**/filename.pdf</code>
 
 - URLs that reflect a document format and naming convention:
 
-  <span style="line-height: 1.5">www.agency.gov/<strong>pubs/pdfs</strong>/rg/<strong>123</strong>.pdf</span>
+  <code>www.agency.gov/<strong>pubs/pdfs</strong>/rg/<strong>123</strong>.pdf</code>
 
-- URLs that give information that means something to programmers or Web servers or cyborgs but is opaque to all the rest of us: <span style="line-height: 1.5">www.agency.gov/documents/<strong>cgi-bin</strong>/filename.pdf (“cgi-bin”? Really?)</span>
+- URLs that give information that means something to programmers or Web servers or cyborgs but is opaque to all the rest of us:
+
+  <code>www.agency.gov/documents/<strong>cgi-bin</strong>/filename.pdf (“cgi-bin”? Really?)</code>
 
 These and similar terms mean nothing to your customers, so don’t use them in your URLs:
 
@@ -64,126 +67,64 @@ These and similar terms mean nothing to your customers, so don’t use them in y
 
 How bad could their impact on your customers’ search results be? Consider these two quick experiments:
 
-  <h3>Invasive species</h3>
-  <p>
-    Searching for <strong>cgi bin invasive species</strong>, I found:
-  </p>
+**1. Invasive species**
+
+Searching for <strong>cgi bin invasive species</strong>, I found:
   
-  <p>
-    {{< legacy-img src="2016/05/600-x-381-invasives-cgi-bin.jpg" alt="Screen capture of search results for: cgi bin invasive species." >}}
-  </p>
+{{< legacy-img src="2016/05/600-x-381-invasives-cgi-bin.jpg" alt="Screen capture of search results for: cgi bin invasive species." >}}
   
-  <p>
-    Drop the <strong>cgi bin</strong>, and the results are:
-  </p>
-  
-  <p>
-    {{< legacy-img src="2016/05/600-x-400-invasives.jpg" alt="Screen capture of search results for: invasive species." >}}
-  </p>
-  
-  <p>
-    The top results in the first search aren’t among the results of the second—not in the top four pages of results, anyway. The opposite is also true—the top results in the second search don’t appear when <strong>cgi bin</strong> is used.</li> 
-  </p>
-    
-  <h3>
-    Invasive species in American forests
-  </h3>
-  <p>
-    Searching for <strong>pubs other invasive species American forests</strong>, I found:
-  </p>
-      
-  <p>
-    {{< legacy-img src="2016/05/600-x-525-pubs-other-invasives-forests.jpg" alt="Screen capture of search results for: pubs other invasive species American forests" >}}
-  </p>
-      
-  <p>
-    Without <strong>pubs other</strong>, the results are:
-  </p>
-      
-  <p>
-    {{< legacy-img src="2016/05/600-x-432-invasives-forests.jpg" alt="Screen capture of search results for: invasive species American forests" >}}</li> </ol> 
-  </p>
+Drop the <strong>cgi bin</strong>, and the results are:
+
+{{< legacy-img src="2016/05/600-x-400-invasives.jpg" alt="Screen capture of search results for: invasive species." >}}
+
+The top results in the first search aren’t among the results of the second—not in the top four pages of results, anyway. The opposite is also true—the top results in the second search don’t appear when <strong>cgi bin</strong> is used.
+
+**2. Invasive species in American forests**
+
+Searching for <strong>pubs other invasive species American forests</strong>, I found:
+
+{{< legacy-img src="2016/05/600-x-525-pubs-other-invasives-forests.jpg" alt="Screen capture of search results for: pubs other invasive species American forests" >}}
+
+Without <strong>pubs other</strong>, the results are:
+
+{{< legacy-img src="2016/05/600-x-432-invasives-forests.jpg" alt="Screen capture of search results for: invasive species American forests" >}}
+
+In both of these searches, the Nature Conservancy’s Fading Forests is the fifth result—but that is the only thing the top four pages of results have in common.
+
+These experiments show that Google not only considers the terms that appear in the URL of the page but also puts heavy weight on them in ranking the items it finds. If the URL didn’t matter, the results in each pair of searches should have been virtually the same. Instead, except for the one article by the Nature Conservancy, they have nothing in common.
         
-  <p>
-    In both of these searches, the Nature Conservancy’s Fading Forests is the fifth result—but that is the only thing the top four pages of results have in common.
-  </p>
-        
-  <p>
-    These experiments show that Google not only considers the terms that appear in the URL of the page but also puts heavy weight on them in ranking the items it finds. If the URL didn’t matter, the results in each pair of searches should have been virtually the same. Instead, except for the one article by the Nature Conservancy, they have nothing in common.
-  </p>
-        
-<h2>
-  Try it Out on Your Site
-</h2>
+## Try it Out on Your Site
 
-<p>
-  Do the URLs produced by your website get in the way when your customers try to find your content? Test it out and see:
-</p>
+Do the URLs produced by your website get in the way when your customers try to find your content? Test it out and see:
 
-<ol>
-  <li>
-    Using your website navigation, find several different Web pages or publications. Choose information that many people need or should know.
-  </li>
-  <li>
-    Examine the URL of each item you found. Does it contain words or abbreviations that have nothing to do with the subject of the item?
-  </li>
-  <li>
-    Using Google, search the Web for two or three words people who need this information would have in mind. Is your item in the top page of hits? The top two pages? (Very few people look at even the second page, so the third and fourth hardly matter.)
-  </li>
-  <li>
-    Do the search again, but this time add two terms from the item’s URL. For the greatest impact, put them before the other terms. Are the results the same as you saw before? Have your items risen in the rankings?
-  </li>
-</ol>
+- Using your website navigation, find several different Web pages or publications. Choose information that many people need or should know.
+- Examine the URL of each item you found. Does it contain words or abbreviations that have nothing to do with the subject of the item?
+- Using Google, search the Web for two or three words people who need this information would have in mind. Is your item in the top page of hits? The top two pages? (Very few people look at even the second page, so the third and fourth hardly matter.)
+- Do the search again, but this time add two terms from the item’s URL. For the greatest impact, put them before the other terms. Are the results the same as you saw before? Have your items risen in the rankings?
 
-<p>
-  The differences you see will give you an idea of how important it could be to redesign your website with more meaningful URLs in mind. If your URLs aren’t meaningful, but the difference in the results of your experiment isn’t dramatic, it might be that other factors are counterbalancing the impact of the poor URLs.
-</p>
+The differences you see will give you an idea of how important it could be to redesign your website with more meaningful URLs in mind. If your URLs aren’t meaningful, but the difference in the results of your experiment isn’t dramatic, it might be that other factors are counterbalancing the impact of the poor URLs.
 
-<h2>
-  Tip: Your Link Text Matters, Too
-</h2>
+## Tip: Your Link Text Matters, Too
 
-<p>
-  Google also puts heavy weight on the words used in links that point to your Web pages and documents. So even if you have a URL structure that works something like this:
-</p>
+Google also puts heavy weight on the words used in links that point to your Web pages and documents. So even if you have a URL structure that works something like this:
 
-<p>
-  communications.agency.gov/publications/reports-and-studies/fy2014/lead-water.pdf
-</p>
+<code>communications.agency.gov/publications/reports-and-studies/fy2014/lead-water.pdf</code>
 
-<p>
-  People who need that document might still find it if enough links that point to it read “Lead in My Drinking Water: How Toxic Is It?”
-</p>
+People who need that document might still find it if enough links that point to it read “Lead in My Drinking Water: How Toxic Is It?”
 
-<p>
-  Other words can matter, too. Because of poor practices like these:
-</p>
+Other words can matter, too. Because of poor practices like these:
 
-<p>
-  <span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Download the report</span></span>, “Lead in My Drinking Water: How Toxic Is It?”
-</p>
+{{< box >}}
+<span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Download the report</span></span>, “Lead in My Drinking Water: How Toxic Is It?”
 
-<p>
-  To read “Lead in My Drinking Water: How Toxic Is It?” <span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">click here</span></span>.
-</p>
+To read “Lead in My Drinking Water: How Toxic Is It?” <span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">click here</span></span>.
+{{< /box >}}
 
-<p>
-  Google also pays attention to words that are close to links in your Web pages and documents. After all, Google wants to help its customers find what they need no matter how little the publishers have done to help.
-</p>
+Google also pays attention to words that are close to links in your Web pages and documents. After all, Google wants to help its customers find what they need no matter how little the publishers have done to help.
 
-<p>
-  So keep these two points in mind:
-</p>
+So keep these two points in mind:
 
-<ol>
-  <li>
-    If your URLs are a problem, but you can’t do anything about them right away, work on the wording of links and words close to the links to your most important information. Make sure that you include as many words that would be good search terms as you can without making the sentence hard to read.
-  </li>
-  <li>
-    If you test your own URLs in front of people who need to get this point, be sure you have tested the searches on your own beforehand. You don’t want stunningly powerful link text to hide the impact of poor URLs—at least, not until you’ve made your point.
-  </li>
-</ol>
+1. If your URLs are a problem, but you can’t do anything about them right away, work on the wording of links and words close to the links to your most important information. Make sure that you include as many words that would be good search terms as you can without making the sentence hard to read.
+2. If you test your own URLs in front of people who need to get this point, be sure you have tested the searches on your own beforehand. You don’t want stunningly powerful link text to hide the impact of poor URLs—at least, not until you’ve made your point.
 
-<p>
-  <em>Cliff Tyllick has worked on clear communication, usability, and Web development since the new authoring tools were HyperCard and Owl Guide—in other words, long before there was a World Wide Web. He is now the accessibility coordinator of the Texas Department of Aging and Disability Services.</em>
-</p>
+_Cliff Tyllick has worked on clear communication, usability, and Web development since the new authoring tools were HyperCard and Owl Guide—in other words, long before there was a World Wide Web. He is now the accessibility coordinator of the Texas Department of Aging and Disability Services._
