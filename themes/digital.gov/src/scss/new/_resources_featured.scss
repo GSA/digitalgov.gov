@@ -20,15 +20,7 @@
     @include u-padding(0);
     @include u-radius(0);
 
-    @include at-media("tablet-lg") {
-      @include u-display("flex");
-      @include u-flex("align-center");
-      @include u-height("full");
-      @include u-padding-bottom(8);
-    }
-
     .resources-featured__title {
-      @include u-margin(0);
       @include u-padding(2);
       @include u-padding-right(4);
       @include u-font("sans", "xl");
@@ -37,7 +29,7 @@
       @include u-text("thin");
 
       @include at-media("tablet-lg") {
-        @include u-margin-bottom(0);
+        @include u-margin-y(4);
         @include u-padding(0);
         @include u-font("sans", "2xl");
       }
