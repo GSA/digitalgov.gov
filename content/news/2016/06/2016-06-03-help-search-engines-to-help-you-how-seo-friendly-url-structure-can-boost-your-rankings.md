@@ -69,7 +69,7 @@ How bad could their impact on your customers’ search results be? Consider thes
 
 **1. Invasive species**
 
-Searching for <strong>cgi bin invasive species</strong>, I found:
+Searching for `cgi bin invasive species`, I found:
   
 {{< legacy-img src="2016/05/600-x-381-invasives-cgi-bin.jpg" alt="Screen capture of search results for: cgi bin invasive species." >}}
   
@@ -81,11 +81,11 @@ The top results in the first search aren’t among the results of the second—n
 
 **2. Invasive species in American forests**
 
-Searching for <strong>pubs other invasive species American forests</strong>, I found:
+Searching for `pubs other invasive species American forests`, I found:
 
 {{< legacy-img src="2016/05/600-x-525-pubs-other-invasives-forests.jpg" alt="Screen capture of search results for: pubs other invasive species American forests" >}}
 
-Without <strong>pubs other</strong>, the results are:
+Without `pubs other`, the results are:
 
 {{< legacy-img src="2016/05/600-x-432-invasives-forests.jpg" alt="Screen capture of search results for: invasive species American forests" >}}
 
