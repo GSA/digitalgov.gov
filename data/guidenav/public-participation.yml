@@ -1,6 +1,5 @@
 # Navigation YML file for public participation guide
 showNextPrevious: true
-showReadTime: true
 nav:
 - title    : 'Overview'
   path     : '/guides/public-participation/_index.md'

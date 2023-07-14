@@ -1,6 +1,5 @@
 # Navigation YML file for web analytics guide guide
 showNextPrevious: true
-showReadTime: true
 nav:
 - title    : 'Overview'
   path     : '/guides/web-analytics-playbook/_index.md'

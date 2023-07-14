@@ -1,5 +1,4 @@
 showNextPrevious: true
-showReadTime: true
 nav:
 - title  : 'Overview'
   path   : '/guides/site-scanning/_index.md'
