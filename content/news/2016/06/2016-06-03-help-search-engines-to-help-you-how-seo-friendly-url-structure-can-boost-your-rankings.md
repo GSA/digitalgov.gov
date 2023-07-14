@@ -73,7 +73,7 @@ Searching for `cgi bin invasive species`, I found:
   
 {{< legacy-img src="2016/05/600-x-381-invasives-cgi-bin.jpg" alt="Screen capture of search results for: cgi bin invasive species." >}}
   
-Drop the <strong>cgi bin</strong>, and the results are:
+Drop the `cgi bin`, and the results are:
 
 {{< legacy-img src="2016/05/600-x-400-invasives.jpg" alt="Screen capture of search results for: invasive species." >}}
 
