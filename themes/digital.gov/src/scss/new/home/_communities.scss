@@ -9,18 +9,18 @@
   }
 }
 
-#communities_featured {
-  .grid-container {
-    .grid-row {
-      justify-content: space-evenly;
-    }
-    .item {
-      @include at-media("tablet-lg") {
-        text-align: center;
-      }
-      @include u-margin-y(3);
-    }
+.communities__home {
+  @include u-display("flex");
+  @include u-justify-content("justify-start");
+  @include u-flex("row");
+  overflow-x: scroll;
+  &-title {
+    @include u-margin-top(5);
   }
+}
+
+.usa-card.home {
+  min-width: 20em;
 }
 
 .usa-card__cop-bar {
