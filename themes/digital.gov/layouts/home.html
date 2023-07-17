@@ -8,7 +8,11 @@
               <h1 class="resources-featured__title">
                 Guidance on building better digital services in government.
               </h1>
-              <a class="btn btn-home" href="/events" title="View events page">
+              <a
+                class="btn btn-home"
+                href="{{- "events" | relURL -}}"
+                title="View events page"
+              >
                 <span>View Events</span>
                 <svg
                   class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
@@ -23,7 +27,7 @@
               </a>
               <a
                 class="btn btn-home"
-                href="/communities"
+                href="{{- "communities" | relURL -}}"
                 title="View communities page"
               >
                 <span>Join Communities</span>
