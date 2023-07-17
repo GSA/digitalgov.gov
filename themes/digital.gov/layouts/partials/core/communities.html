@@ -1,0 +1,111 @@
+{{/* Digital.gov Communities Component
+  Renders a list of Digital.gov communities on both the home page and communities page
+
+  @param {string} community_title - Title of the community
+  @param {string} community_deck - Short description of the community page.
+  @param {string} community_page - Either "main" for the community page or "home" for the home page. Dictates the layout of the community cards.
+*/}}
+
+{{/* Gets all communities pages */}}
+{{ $dg_communities := (where .context.Site.Pages "Section" "communities").ByTitle }}
+
+{{/* Gather only the pages with a weight greater than or equal to 1 */}}
+{{ $dg_communities := (where $dg_communities ".Params.weight" "ge" 1) }}
+
+{{/* Gather only the pages with a dg-emphasis key */}}
+{{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
+
+
+<script>
+  function handleScroll(direction) {
+    const scrollAmount = document.querySelector(
+      ".usa-card__container"
+    ).offsetWidth;
+    const scrollContainer = document.querySelector(".communities__home");
+    if (direction == "left") {
+      scrollContainer.scrollLeft -= scrollAmount;
+    } else {
+      scrollContainer.scrollLeft += scrollAmount;
+    }
+  }
+</script>
+
+<div class="grid-container-desktop">
+  <header
+    class="page-head {{ cond (eq .community_page "home") "communities__home-title" "" }}"
+  >
+    {{- with .community_title -}}
+      <h2>{{ . | markdownify }}</h2>
+    {{- end -}}
+    {{- with .community_deck -}}
+      <p>
+        {{ . | markdownify }}
+      </p>
+    {{- end -}}
+  </header>
+</div>
+<section class="usa-section">
+  {{ if eq .community_page "main" }}
+    {{/* If on the main communities page, render communities in a grid */}}
+    <div class="grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-2">
+        <div class="grid-col-12">
+          <ul class="usa-card-group">
+            {{ range $i, $e := $dg_communities }}
+              <li
+                class="usa-card tablet:grid-col-4 {{ if $e.Params.dg_acronym }}
+                  cop-card--{{ $e.Params.dg_acronym }}
+                {{ end }}"
+              >
+                {{- partial "core/community-card.html" (dict "community" $e) -}}
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  {{ else }}
+    {{/* By default, render communities in a singular line */}}
+    <div class="communities__home">
+      {{ range $i, $e := $dg_communities }}
+        <div
+          class="usa-card{{ if $e.Params.dg_acronym }}
+            cop-card--{{ $e.Params.dg_acronym }}
+          {{ end }} home"
+        >
+          {{- partial "core/community-card.html" (dict "community" $e) -}}
+        </div>
+      {{ end }}
+    </div>
+    <div>
+      <button
+        class="communities__home-button left"
+        onClick="handleScroll('left')"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"
+          ></use>
+        </svg>
+      </button>
+      <button
+        class="communities__home-button right"
+        onClick="handleScroll('right')"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+          ></use>
+        </svg>
+      </button>
+    </div>
+  {{ end }}
+</section>
