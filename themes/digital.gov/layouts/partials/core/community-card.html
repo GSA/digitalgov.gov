@@ -7,8 +7,9 @@
   - Permalink - A link to the community
 */}}
 
+{{ $path := .community.Path }}
 
-<div class="usa-card__container">
+<div data-edit-this="{{- $path -}}" class="usa-card__container">
   <div class="usa-card__header">
     <h2 class="usa-card__heading">
       {{- .community.Params.dg_shortname | markdownify -}}

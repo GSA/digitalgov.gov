@@ -13,9 +13,11 @@
   @include u-display("flex");
   @include u-justify-content("justify-start");
   @include u-flex("row");
+  @include u-padding-top(2);
   overflow-x: scroll;
   &-title {
     @include u-margin-top(5);
+    @include u-margin-bottom(-5);
   }
   &-button {
     @include u-bg("gray-10");
