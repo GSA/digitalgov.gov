@@ -65,8 +65,12 @@ a.btn-home {
   }
 
   &:hover {
-    @include u-bg("primary-vivid");
-    @include u-border("primary-vivid");
+    @include u-bg("white");
+    @include u-border("white");
+    @include u-text("black");
+    span {
+      @include u-border-bottom("2px", "black", "solid");
+    }
   }
 }
 
