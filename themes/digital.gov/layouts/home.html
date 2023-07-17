@@ -49,7 +49,7 @@
       </div>
     </section>
     {{/* Communities */}}
-    {{- partialCached "core/home/communities_featured.html" (dict "context" . "community_title" "Our Communities" "community_deck" "Join over <strong>11,000 people in government</strong> who are collaborating to make our digital services better." "community_page" "home") -}}
+    {{- partialCached "core/communities.html" (dict "context" . "community_title" "Our Communities" "community_deck" "Join over <strong>11,000 people in government</strong> who are collaborating to make our digital services better." "community_page" "home") -}}
     {{/* News */}}
     {{- partialCached "core/home/news_featured.html" . -}}
   </main>

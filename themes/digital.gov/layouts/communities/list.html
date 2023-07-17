@@ -1,7 +1,7 @@
 {{ define "content" }}
   <main role="main" id="main-content">
     {{/* Featured Communities */}}
-    {{- partial "core/home/communities_featured.html" (dict "context" . "community_title" .Title "community_deck" .Params.deck "community_page" "main") -}}
+    {{- partial "core/communities.html" (dict "context" . "community_title" .Title "community_deck" .Params.deck "community_page" "main") -}}
     <div class="grid-container grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12">
