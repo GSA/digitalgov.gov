@@ -7,7 +7,7 @@
     @include u-display("block");
   }
 
-  ul.guide-nav {
+  ul.dg-guide__nav-list {
     @include u-margin-bottom(3);
     @include u-font("sans", "xs");
 

@@ -1,7 +1,7 @@
 @use "uswds-core" as *;
 
-.guide-prev-next {
-  .next-item {
+.dg-guide__guide-buttons {
+  &-next-item {
     margin-left: auto;
   }
 }
