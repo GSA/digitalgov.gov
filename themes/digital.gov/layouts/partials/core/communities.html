@@ -34,7 +34,6 @@
   {{ if eq .community_page "main" }}
     <div class="grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-2">
-        <div class="grid-col-12">
           <ul class="usa-card-group">
             {{ range $i, $e := $dg_communities }}
               <li
@@ -46,7 +45,6 @@
               </li>
             {{ end }}
           </ul>
-        </div>
       </div>
     </div>
   {{ else }}
