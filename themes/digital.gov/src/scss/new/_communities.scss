@@ -10,13 +10,13 @@
 }
 
 .communities__home {
-  @include u-display("flex");
   @include u-flex("row", "wrap");
-  @include u-justify-content("justify-center");
-  @include u-padding-top(2);
+  display: flex;
+  justify-content: center;
+  padding-top: units(2);
   &-title {
-    @include u-margin-top(5);
-    @include u-margin-bottom(-5);
+    margin-top: units(5);
+    margin-bottom: units(-5);
   }
 }
 
