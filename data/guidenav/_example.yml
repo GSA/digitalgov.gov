@@ -1,5 +1,6 @@
 # Example YML file for guides
-
+showNextPrevious: true
+showReadTime: false
 nav:
 - title    : 'Overview'
   path     : '/guides/guide-home/'
