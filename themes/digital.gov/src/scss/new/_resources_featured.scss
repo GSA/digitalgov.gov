@@ -21,8 +21,8 @@
     @include u-radius(0);
 
     .resources-featured__title {
-      @include u-padding(2);
-      @include u-padding-right(4);
+      padding: units(2) units(4) 0 units(2);
+      margin: 0;
       @include u-font("sans", "xl");
       @include u-line-height("sans", 2);
       @include u-text("white");

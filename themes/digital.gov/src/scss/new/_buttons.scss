@@ -60,14 +60,18 @@ a.btn-home {
   background-color: transparent;
   margin: units(2);
 
+  &:first-of-type {
+    margin-bottom: units(0);
+  }
+
   @include at-media("tablet-lg") {
     @include u-margin-x(0);
   }
 
   &:hover {
-    background-color: white;
-    border-color: white;
-    color: black;
+    background-color: color("white");
+    border-color: color("white");
+    color: color("black");
     span {
       @include u-border-bottom("2px", "black", "solid");
     }
