@@ -29,7 +29,7 @@
               href="{{- $prev_page.Permalink -}}"
               title="{{- $prev_item.title -}}"
             >
-              Previous
+              Previous Page
             </a>
           {{- end -}}
 
@@ -39,7 +39,7 @@
               href="{{- $point_page.Permalink -}}"
               title="{{- $point_item.title -}}"
             >
-              Next
+              Next Page
             </a>
           {{- end -}}
 
@@ -63,7 +63,7 @@
                   href="{{- $prev_page.Permalink -}}"
                   title="{{- $prev_item.title -}}"
                 >
-                  Previous
+                  Previous Page
                 </a>
               {{- end -}}
 
@@ -73,7 +73,7 @@
                   href="{{- $point_page.Permalink -}}"
                   title="{{- $point_item.title -}}"
                 >
-                  Next
+                  Next Page
                 </a>
               {{- end -}}
             {{- end -}}
@@ -96,7 +96,7 @@
                       href="{{- $prev_page.Permalink -}}"
                       title="{{- $prev_item.title -}}"
                     >
-                      Previous
+                      Previous Page
                     </a>
                   {{- end -}}
 
@@ -106,7 +106,7 @@
                       href="{{- $point_page.Permalink -}}"
                       title="{{- $point_item.title -}}"
                     >
-                      Next
+                      Next Page
                     </a>
                   {{- end -}}
                 {{- end -}}
@@ -133,7 +133,7 @@
                 href="{{- $point_item.Permalink | relURL -}}"
                 title="{{- $point_item.Title -}}"
               >
-                Next
+                Next Page
               </a>
             {{- end -}}
           {{- end -}}
@@ -145,7 +145,7 @@
                 href="{{- $prev_item.Permalink | relURL -}}"
                 title="{{- $prev_item.Title -}}"
               >
-                Previous
+                Previous Page
               </a>
             {{- else -}}
               <a
@@ -153,7 +153,7 @@
                 href="{{- $current_page.CurrentSection.Permalink | relURL -}}"
                 title="Overview"
               >
-                Previous
+                Previous Page
               </a>
             {{- end -}}
           {{- end -}}
@@ -165,7 +165,7 @@
                 href="{{- $point_item.Permalink | relURL -}}"
                 title="{{- $point_item.Title -}}"
               >
-                Next
+                Next Page
               </a>
             {{- end -}}
           {{- end -}}
