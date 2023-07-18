@@ -11,28 +11,19 @@
 
 .communities__home {
   @include u-display("flex");
-  @include u-justify-content("justify-start");
-  @include u-flex("row");
+  @include u-flex("row", "wrap");
+  @include u-justify-content("justify-center");
   @include u-padding-top(2);
-  overflow-x: scroll;
   &-title {
     @include u-margin-top(5);
     @include u-margin-bottom(-5);
   }
-  &-button {
-    @include u-bg("gray-10");
-    @include u-border(0);
-    @include u-radius("pill");
-    @include u-margin-x(5);
-    @include u-padding(2);
-    &.right {
-      float: right;
-    }
-  }
 }
 
 .usa-card.home {
-  min-width: 20em;
+  @include at-media("tablet") {
+    width: 20em;
+  }
 }
 
 .usa-card__cop-bar {

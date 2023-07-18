@@ -15,21 +15,6 @@
 {{/* Gather only the pages with a dg-emphasis key */}}
 {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
 
-
-<script>
-  function handleScroll(direction) {
-    const scrollAmount = document.querySelector(
-      ".usa-card__container"
-    ).offsetWidth;
-    const scrollContainer = document.querySelector(".communities__home");
-    if (direction == "left") {
-      scrollContainer.scrollLeft -= scrollAmount;
-    } else {
-      scrollContainer.scrollLeft += scrollAmount;
-    }
-  }
-</script>
-
 <div class="grid-container-desktop">
   <header
     class="page-head {{ cond (eq .community_page "home") "communities__home-title" "" }}"
@@ -76,36 +61,6 @@
           {{- partial "core/community-card.html" (dict "community" $e) -}}
         </div>
       {{ end }}
-    </div>
-    <div>
-      <button
-        class="communities__home-button left"
-        onClick="handleScroll('left')"
-      >
-        <svg
-          class="usa-icon dg-icon dg-icon--large"
-          aria-hidden="true"
-          focusable="false"
-        >
-          <use
-            xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"
-          ></use>
-        </svg>
-      </button>
-      <button
-        class="communities__home-button right"
-        onClick="handleScroll('right')"
-      >
-        <svg
-          class="usa-icon dg-icon dg-icon--large"
-          aria-hidden="true"
-          focusable="false"
-        >
-          <use
-            xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
-          ></use>
-        </svg>
-      </button>
     </div>
   {{ end }}
 </section>
