@@ -34,17 +34,17 @@
   {{ if eq .community_page "main" }}
     <div class="grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-2">
-          <ul class="usa-card-group">
-            {{ range $i, $e := $dg_communities }}
-              <li
-                class="usa-card tablet:grid-col-4 {{ if $e.Params.dg_acronym }}
-                  cop-card--{{ $e.Params.dg_acronym }}
-                {{ end }}"
-              >
-                {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $e.Path) -}}
-              </li>
-            {{ end }}
-          </ul>
+        <ul class="usa-card-group">
+          {{ range $i, $e := $dg_communities }}
+            <li
+              class="usa-card tablet:grid-col-4 {{ if $e.Params.dg_acronym }}
+                cop-card--{{ $e.Params.dg_acronym }}
+              {{ end }}"
+            >
+              {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $e.Path) -}}
+            </li>
+          {{ end }}
+        </ul>
       </div>
     </div>
   {{ else }}
