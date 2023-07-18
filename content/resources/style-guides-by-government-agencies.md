@@ -55,6 +55,8 @@ Style guides are used to set the tone and guidelines for how an agency communica
 **U.S. Department of Veterans Affairs (VA)**
 
 - [VA.gov Content Style Guide](https://design.va.gov/content-style-guide/)
+- [Documentation Style Guide (PDF, 408 KB, 17 pages)](https://www.va.gov/PROCESS/artifacts/documentation_style_guide.pdf)
+- [DigitalVA Accessibility Guide](https://digital.va.gov/accessibility/)
 
 **U.S. Energy Information Administration (EIA)**
 
