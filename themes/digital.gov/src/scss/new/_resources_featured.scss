@@ -1,14 +1,14 @@
 @use "uswds-core" as *;
 
 #resources_featured {
-  @include u-padding-y(2);
   background-color: color("white");
+  padding: units(2) 0;
   padding-top: units(4);
 }
 
 .home #resources_featured {
-  @include u-padding-y(0);
   background-color: color("primary-dark");
+  padding: 0;
 
   @include at-media("tablet-lg") {
     padding-top: units(3);
@@ -28,17 +28,16 @@
       padding: units(2) units(4) 0 units(2);
 
       @include at-media("tablet-lg") {
-        @include u-margin-y(4);
-        @include u-font("sans", "2xl");
+        margin: units(4) 0;
         padding: 0;
+        @include u-font("sans", "2xl");
       }
     }
   }
 
   .resources-content {
-    @include u-padding-x(2);
-    @include u-padding-y(3);
     background-color: color("white");
+    padding: units(3) units(2);
 
     @include at-media("tablet-lg") {
       @include u-radius-top("lg");
