@@ -27,7 +27,6 @@ weight: 1
 dg_highlight: true
 dg_shortname: User Experience
 dg_acronym: UX
-logo: communities-user-experience.svg
 
 community_list:
   - platform: "listserv"

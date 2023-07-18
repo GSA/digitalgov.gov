@@ -33,7 +33,6 @@ weight: 1
 dg_highlight: true
 dg_shortname: Web Analytics
 dg_acronym: WAO
-logo: communities-web-analytics.svg
 
 # Enter the path of the URL that you want redirected to this page
 community_list:

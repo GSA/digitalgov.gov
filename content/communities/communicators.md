@@ -42,7 +42,6 @@ weight: 1
 dg_highlight: true
 dg_shortname: Communicators
 dg_acronym: FCN
-logo: communities-communicators.svg
 
 primary_image: "white-bg-digital-gov-card-community"
 
