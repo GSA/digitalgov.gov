@@ -15,6 +15,7 @@
 {{/* Gather only the pages with a dg-emphasis key */}}
 {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
 
+
 <div class="grid-container-desktop">
   <header
     class="page-head {{ cond (eq .community_page "home") "communities__home-title" "" }}"
@@ -31,7 +32,6 @@
 </div>
 <section class="usa-section">
   {{ if eq .community_page "main" }}
-    {{/* If on the main communities page, render communities in a grid */}}
     <div class="grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-2">
         <div class="grid-col-12">
@@ -42,7 +42,7 @@
                   cop-card--{{ $e.Params.dg_acronym }}
                 {{ end }}"
               >
-                {{- partial "core/community-card.html" (dict "community" $e) -}}
+                {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with " $e.Params.dg_shortname) "path" $e.Path) -}}
               </li>
             {{ end }}
           </ul>
@@ -50,7 +50,6 @@
       </div>
     </div>
   {{ else }}
-    {{/* By default, render communities in a singular line */}}
     <div class="communities__home">
       {{ range $i, $e := $dg_communities }}
         <div
@@ -58,7 +57,7 @@
             cop-card--{{ $e.Params.dg_acronym }}
           {{ end }} home"
         >
-          {{- partial "core/community-card.html" (dict "community" $e) -}}
+          {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with " $e.Params.dg_shortname) "path" $e.Path) -}}
         </div>
       {{ end }}
     </div>
