@@ -64,6 +64,8 @@ Welcome
 
 #### Inclusive civic design: Engaging diverse communities to improve the early career experience
 
+{{< youtube LE6F_X91UF8 >}}
+
 {{< asset-static file="2023-ux-summit-session-1.pptx" label="View the slides (PowerPoint presentation, 1.0 MB, 25 pages)" >}}
 
 {{< img-right src="opm-svg-seal" >}}
@@ -96,6 +98,8 @@ In this presentation, we will share actionable tips about managing project logis
 ### Session 2, 11:00 am - 11:45 am, ET
 
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
+
+{{< youtube d_vl9Gv8S9w >}}
 
 {{< asset-static file="2023-ux-summit-session-2.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 36 pages)" >}}
 
@@ -133,6 +137,8 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 #### 1. Accessibility research in action: VA's Health and Benefits mobile app
 
+{{< youtube ppTxu65k9HE >}}
+
 {{< asset-static file="2023-ux-summit-session-3a.pptx" label="View the slides (PowerPoint presentation, 3.2 MB, 13 pages)" >}}
 
 {{< img-right src="va-svg-seal" >}}
@@ -157,6 +163,8 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 * **David Tucker**—Experience Strategist, U.S. Department of State
 
 #### 2. Operation Rising Tide: Cognitive disability accommodations for the workforce
+
+{{< youtube mepIMmjjbCU >}}
 
 {{< asset-static file="2023-ux-summit-session-3b.pptx" label="View the slides (PowerPoint presentation, 4.4 MB, 14 pages)" >}}
 
@@ -185,6 +193,8 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 #### 1. Designing metaphors, designing collaboration
 
+{{< youtube 4Fz9xqu89XU >}}
+
 {{< asset-static file="2023-ux-summit-session-4a.pptx" label="View the slides (PowerPoint presentation, 8.4 MB, 46 pages)" >}}
 
 {{< img-right src="gsa-blue-logo-sq" >}}
@@ -212,6 +222,8 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 * **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
 
 #### 2. Simplifying user experiences for complex content at USAGov
+
+{{< youtube cGpOQV1cfI8 >}}
 
 {{< asset-static file="2023-ux-summit-session-4b.pptx" label="View the slides (PowerPoint presentation, 9.2 MB, 21 pages)" >}}
 
@@ -248,6 +260,8 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 ### Session 5, 3:00 pm - 3:45 pm, ET
 
 #### Reconsidering the consent form: the least user-friendly aspect of UX research
+
+{{< youtube pedKxrbdwR4 >}}
 
 {{< asset-static file="2023-ux-summit-session-5.pptx" label="View the slides (PowerPoint presentation, 2.3 MB, 23 pages)" >}}
 
