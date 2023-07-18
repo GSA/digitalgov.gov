@@ -1,44 +1,47 @@
 @use "uswds-core" as *;
 
 #resources_featured {
-  @include u-bg("white");
   @include u-padding-y(2);
-  @include u-padding-top(4);
+  background-color: color("white");
+  padding-top: units(4);
 }
 
 .home #resources_featured {
   @include u-padding-y(0);
+  background-color: color("primary-dark");
+
   @include at-media("tablet-lg") {
     padding-top: units(3);
   }
-  background-color: color("primary-dark");
 
   .box {
+    background-color: color("transparent");
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
+
     .resources-featured__title {
       @include u-font("sans", "xl");
       @include u-line-height("sans", 2);
       @include u-text("white", "thin");
+      margin: 0;
+      padding: units(2) units(4) 0 units(2);
 
       @include at-media("tablet-lg") {
         @include u-margin-y(4);
         @include u-font("sans", "2xl");
         padding: 0;
       }
-      margin: 0;
-      padding: units(2) units(4) 0 units(2);
     }
-    background-color: color("transparent");
-    border-radius: 0;
-    margin: 0;
-    padding: 0;
   }
 
   .resources-content {
     @include u-padding-x(2);
     @include u-padding-y(3);
+    background-color: color("white");
+
     @include at-media("tablet-lg") {
       @include u-radius-top("lg");
     }
-    background-color: color("white");
   }
 }
