@@ -57,11 +57,11 @@ a.btn {
 
 a.btn-home {
   @include u-border("2px");
-  background-color: transparent;
+  background-color: color("transparent");
   margin: units(2);
 
   &:first-of-type {
-    margin-bottom: units(0);
+    margin-bottom: 0;
   }
 
   @include at-media("tablet-lg") {
