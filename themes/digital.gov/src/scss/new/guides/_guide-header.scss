@@ -2,30 +2,30 @@
 
 @include at-media("tablet-lg") {
   .dg-guide__header {
-    @include u-display("flex");
-    @include u-justify-content("justify-center");
-    @include u-align-items("align-center");
+    display: flex;
+    justify-content: center;
+    justify-items: center;
 
     &-title {
-      @include u-margin-y(5);
-      @include u-flex(1);
+      flex: 1;
+      margin: units(5) 0;
     }
 
     &-image {
-      @include u-maxw("mobile");
-      @include u-flex(1);
-      @include u-margin-left(15);
+      flex: 1;
+      margin-left: units(15);
+      max-width: units("mobile");
     }
   }
 }
 
 @include at-media("mobile") {
   .dg-guide__header-title {
-    @include u-margin-top(5);
+    margin-top: units(5);
   }
 
   .dg-guide__header-image {
-    @include u-maxw("mobile");
-    @include u-margin-top(5);
+    margin-top: units(5);
+    max-width: units("mobile");
   }
 }

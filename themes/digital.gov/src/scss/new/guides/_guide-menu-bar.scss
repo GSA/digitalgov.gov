@@ -1,37 +1,37 @@
 @use "uswds-core" as *;
 
 .dg-guide__menu-bar {
-  @include u-bg("gray-10");
-  @include u-position("sticky");
-  @include u-top(0);
   @include u-border-y("1px", "gray-cool-30", "solid");
-  @include u-padding-y(3);
-  @include u-z("top");
-  @include u-display("flex");
-  @include u-justify-content("justify-start");
   @include at-media("widescreen") {
-    @include u-justify-content("justify-center");
+    justify-content: center;
   }
+  background-color: color("gray-10");
+  display: flex;
+  justify-content: start;
   overflow-x: scroll;
+  padding: units(3) 0;
+  position: sticky;
+  top: 0;
   white-space: nowrap;
+  z-index: 1;
 
   &-link {
     @include u-font("sans", "md");
-    @include u-text("light");
-    @include u-text("black");
-    @include u-text-align("center");
-    @include u-text-decoration("no-underline");
-    @include u-margin-x(5);
+    @include u-text("light", "black");
+    margin: 0 units(5);
+    text-align: center;
+    text-decoration: none;
+
     &:hover {
       @include u-border-bottom("05", "primary", "solid");
     }
     &:visited {
-      @include u-text("black");
+      color: color("black");
     }
   }
 
   #current {
-    @include u-text("medium");
     @include u-border-bottom("05", "primary", "solid");
+    @include u-text("medium");
   }
 }

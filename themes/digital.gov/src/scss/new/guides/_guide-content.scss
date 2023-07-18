@@ -1,8 +1,8 @@
 @use "uswds-core" as *;
 
 .dg-guide__content {
-  @include u-margin-y(5);
-  @include u-overflow("hidden");
+  margin: units(5) 0;
+  overflow: hidden;
   p {
     max-width: none;
   }
