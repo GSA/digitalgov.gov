@@ -56,18 +56,18 @@ a.btn {
 }
 
 a.btn-home {
-  @include u-bg("transparent");
   @include u-border("2px");
-  @include u-margin(2);
+  background-color: transparent;
+  margin: units(2);
 
   @include at-media("tablet-lg") {
     @include u-margin-x(0);
   }
 
   &:hover {
-    @include u-bg("white");
-    @include u-border("white");
-    @include u-text("black");
+    background-color: white;
+    border-color: white;
+    color: black;
     span {
       @include u-border-bottom("2px", "black", "solid");
     }
