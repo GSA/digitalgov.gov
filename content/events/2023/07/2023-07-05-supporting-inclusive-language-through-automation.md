@@ -28,7 +28,7 @@ youtube_id:
 
 ---
 
-{{< asset-static file=" 2023-digitalgov-inclusive-language-support-through-automation-event-final-pptx" label="View the slides (PowerPoint presentation, 4 MB, 29 pages)" >}}
+{{< asset-static file="2023-digitalgov-inclusive-language-support-through-automation-event-final-pptx" label="View the slides (PowerPoint presentation, 4.0 MB, 29 pages)" >}}
 
 ---
 
