@@ -1,10 +1,9 @@
 ---
 date: 2023-07-20 14:28:00 -0500
 kicker: kick
-title: " GSA’s Shared Service Provider Program Guide"
+title: "GSA’s Shared Service Provider Program Guide"
 deck: Interested in becoming a Shared Service Provider?
-summary: The newly-released SSP Program Guide was created for commercial vendors
-  interested in becoming a Shared Service Provider.
+summary: The newly-released SSP Program Guide was created for commercial vendors interested in becoming a Shared Service Provider.
 # See all topics at https://digital.gov/topics
 topics:
   - security
@@ -13,12 +12,14 @@ authors:
   - cheryl-jenkins
   - tyler-jones
 slug: gsas-shared-service-provider-program-guide
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 For contractors who provide digital services to the federal government, a public key infrastructure (PKI) is critical to protecting confidential and sensitive information. 
 
 Many agencies offer PKI services, but the General Services Administration’s PKI Shared Services Program gives federal contractors an advantage in competing for contracts as they are compliant with federal government digital exchange requirements and are listed on the GSA Multiple Award Schedule. 
@@ -46,4 +47,4 @@ The [SSP Program Guide](https://www.idmanagement.gov/buy/gsapkissp/) is reviewed
 
 The GSA SSP Program has a long history of successfully providing digital certificate services for employees, contractors, and affiliates. If you are interested in being part of that success, learn more about the [application process](https://www.idmanagement.gov/buy/gsapkissp/#application-process) and the benefits of joining the program. If you have any questions, email the GSA PKI SSP Program at [GSAPKISSP@gsa.gov](mailto:GSAPKISSP@gsa.gov).
 
-{{< note >}} Register now to join the GSA PKI Shared Services Program. Email GSAPKISSP@gsa.gov with any questions or feedback on the GSA PKI Shared Service Program Guide. Include “Register now for GSA’s PKI Shared Services Program” in the subject line. {{< /note >}}
+{{< note >}}Register now to join the GSA PKI Shared Services Program. Email GSAPKISSP@gsa.gov with any questions or feedback on the GSA PKI Shared Service Program Guide. Include “Register now for GSA’s PKI Shared Services Program” in the subject line.{{< /note >}}
