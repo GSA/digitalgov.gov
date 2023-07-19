@@ -29,6 +29,12 @@
 
   &-links {
     overflow-x: scroll;
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;
+  }
+
+  &-links::-webkit-scrollbar { 
+    display: none;
   }
 
   #current {

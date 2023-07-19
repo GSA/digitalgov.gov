@@ -4,20 +4,21 @@ const menuBarImageContainer = document.querySelector(
 );
 const menuBarLinks = document.querySelector(".dg-guide__menu-bar-links");
 const menuBarImage = document.createElement("img");
+const menuBarImageWidth = 150;
 menuBarImage.src = "/img/digitalgov-logo.svg";
 menuBarImage.alt = "Digital Gov Logo";
-menuBarImage.style.maxWidth = "10rem";
-menuBarImage.style.minWidth = "10rem";
+menuBarImage.style.maxWidth = menuBarImageWidth + "px";
+menuBarImage.style.minWidth = menuBarImageWidth + "px";
 
 function intersection(e) {
   if (!e.isIntersecting && e.boundingClientRect.top < 100) {
     menuBarImageContainer.appendChild(menuBarImage);
     menuBar.style.justifyContent = "space-evenly";
-    scrollMenuBar();
+    scrollMenuBar(true);
   } else {
     menuBar.style.justifyContent = "center";
     menuBarImage.remove();
-    scrollMenuBar();
+    scrollMenuBar(false);
   }
 }
 
@@ -27,12 +28,16 @@ const observer = new IntersectionObserver(([e]) => intersection(e), {
 
 observer.observe(menuBar);
 
-function scrollMenuBar() {
+function scrollMenuBar(intersect) {
   const currentItem = document.querySelector(".dg-guide__menu-bar #current");
   if (!currentItem || !menuBarLinks) return;
-  menuBarLinks.scrollIntoView({  block: "none", inline: "end" });
+  if (intersect) {
+    menuBarLinks.scrollLeft = currentItem.offsetLeft - menuBarImageWidth - 100;
+  } else {
+    menuBarLinks.scrollLeft = currentItem.offsetLeft - 100;
+  }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  scrollMenuBar();
+  scrollMenuBar(false);
 });

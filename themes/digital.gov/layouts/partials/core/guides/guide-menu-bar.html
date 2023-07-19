@@ -4,13 +4,14 @@
 
 <div class="dg-guide__menu-bar">
   <div>
-    <a class="dg-guide__menu-bar-image"
-    href="{{- "/" | relURL -}}"
-    title="{{- .Site.Title }} Home"
-    aria-label="{{- .Site.Title }} Home"
-  >
+    <a
+      class="dg-guide__menu-bar-image"
+      href="{{- "/" | relURL -}}"
+      title="{{- .Site.Title }} Home"
+      aria-label="{{- .Site.Title }} Home"
+    >
+    </a>
   </div>
-</a>
   <nav class="dg-guide__menu-bar-links" aria-label="Secondary menu bar">
     {{- if $guide_data.nav -}}
       {{- range $guide_data.nav -}}
