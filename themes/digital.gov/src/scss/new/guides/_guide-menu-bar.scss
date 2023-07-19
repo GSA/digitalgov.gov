@@ -5,25 +5,12 @@
   align-items: center;
   background-color: color("gray-10");
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: units(3) 0;
   position: sticky;
   top: -1px;
   white-space: nowrap;
   z-index: 1;
-
-  &-links {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-  }
-
-  &-image {
-    margin-left: units(5);
-    max-width: units("card");
-    min-width: units("card");
-    visibility: hidden;
-  }
 
   &-link {
     @include u-font("sans", "md");

@@ -5,20 +5,27 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 const menuBar = document.querySelector(".dg-guide__menu-bar");
-const menuBarImage = document.querySelector(".dg-guide__menu-bar-image");
+const menuBarImageContainer = document.querySelector(
+  ".dg-guide__menu-bar-image"
+);
+const menuBarImage = document.createElement("img");
+menuBarImage.src = "/img/digitalgov-logo.svg";
+menuBarImage.alt = "Digital Gov Logo";
+menuBarImage.style.maxWidth = "10rem";
+menuBarImage.style.minWidth = "10rem";
 
 function intersection(e) {
   if (!e.isIntersecting && e.boundingClientRect.top < 100) {
-    menuBarImage.style.visibility = "visible";
+    menuBarImageContainer.appendChild(menuBarImage);
+    menuBar.style.justifyContent = "space-evenly";
   } else {
-    menuBarImage.style.visibility = "hidden";
+    menuBar.style.justifyContent = "center";
+    menuBarImage.remove();
   }
-  menuBarImage.classList.toggle('isSticky');
 }
 
-const observer = new IntersectionObserver( 
-  ([e]) => intersection(e),
-  {threshold: [1]}
-);
+const observer = new IntersectionObserver(([e]) => intersection(e), {
+  threshold: [1],
+});
 
 observer.observe(menuBar);
