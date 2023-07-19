@@ -15,15 +15,8 @@
   &-link {
     @include u-font("sans", "md");
     @include u-text("light", "black");
-    margin: units(1) units(5);
     text-decoration: none;
-    width: 100%;
-
-    @include at-media("tablet") {
-      margin: 0 units(3);
-      text-align: center;
-      width: auto;
-    }
+    margin: 0 units(3);
 
     &:hover {
       text-decoration: underline color("primary") units("05");
@@ -32,6 +25,10 @@
     &:visited {
       color: color("black");
     }
+  }
+
+  &-links {
+    overflow-x: scroll;
   }
 
   #current {
