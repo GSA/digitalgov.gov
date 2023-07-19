@@ -1,3 +1,5 @@
+//Uses manual breakpoints and absolute URLs because USWDS and Hugo are not accessible within JS
+
 const menuBarImageWidth = 150;
 const menuBarImageWidthMobile = 30;
 const menuBarScrollOffset = 40;
@@ -9,7 +11,7 @@ const menuBarImageContainer = document.querySelector(
 );
 const menuBarLinks = document.querySelector(".dg-guide__menu-bar-links");
 const menuBarImage = Object.assign(document.createElement("img"), {
-  src: "/img/digitalgov-logo.svg",
+  src: "https://digital.gov/img/digitalgov-logo.svg",
   alt: "Digital Gov Logo",
 });
 
@@ -21,7 +23,7 @@ Object.assign(menuBarImage.style, {
 });
 
 const menuBarImageMobile = Object.assign(document.createElement("img"), {
-  src: "/img/digit-100.svg",
+  src: "https://digital.gov/img/digit-100.svg",
   alt: "Digital Gov Logo Small",
 });
 
