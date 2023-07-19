@@ -7,7 +7,7 @@
 
 <article class="grid-container grid-container-desktop">
   <div data-edit-this="{{- $path -}}">
-    <div class="dg-guide__content usa-prose">
+    <div class="dg-guide__content usa-prose" id="content-start">
       {{- if .Params.summary_box -}}
         {{- partial "core/usa-summary-box.html" (dict "modifier" "dg-guide-summary") -}}
       {{- end -}}
