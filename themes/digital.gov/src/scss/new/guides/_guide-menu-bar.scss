@@ -2,28 +2,45 @@
 
 .dg-guide__menu-bar {
   @include u-border-y("1px", "gray-cool-30", "solid");
-  @include at-media("widescreen") {
-    justify-content: center;
-  }
+  align-items: center;
   background-color: color("gray-10");
   display: flex;
-  justify-content: start;
-  overflow-x: scroll;
+  justify-content: space-between;
   padding: units(3) 0;
   position: sticky;
-  top: 0;
+  top: -1px;
   white-space: nowrap;
   z-index: 1;
+
+  &-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  &-image {
+    margin-left: units(5);
+    max-width: units("card");
+    min-width: units("card");
+    visibility: hidden;
+  }
 
   &-link {
     @include u-font("sans", "md");
     @include u-text("light", "black");
-    margin: 0 units(5);
-    text-align: center;
+    margin: units(1) units(5);
     text-decoration: none;
+    width: 100%;
+
+    @include at-media("tablet") {
+      margin: 0 units(3);
+      text-align: center;
+      width: auto;
+    }
 
     &:hover {
-      @include u-border-bottom("05", "primary", "solid");
+      text-decoration: underline color("primary") units("05");
+      text-underline-offset: units("05");
     }
     &:visited {
       color: color("black");
@@ -31,7 +48,8 @@
   }
 
   #current {
-    @include u-border-bottom("05", "primary", "solid");
     @include u-text("medium");
+    text-decoration: underline color("primary") units("05");
+    text-underline-offset: units("05");
   }
 }
