@@ -1,8 +1,8 @@
-//Uses manual breakpoints and absolute URLs because USWDS and Hugo are not accessible within JS
+// Uses manual breakpoints and absolute URLs because USWDS and Hugo are not accessible within JS
 
 const menuBarImageWidth = 150;
 const menuBarImageWidthMobile = 30;
-const menuBarScrollOffset = 40;
+const menuBarScrollOffset = 60;
 const deviceBreakpoint = 480;
 
 const menuBar = document.querySelector(".dg-guide__menu-bar");

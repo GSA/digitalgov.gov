@@ -28,13 +28,14 @@
   }
 
   &-links {
-    /* Internet Explorer 10+ */
-    -ms-overflow-style: none;
+    -webkit-mask: linear-gradient(90deg, #0000, #000 5% 80%, #000);
+    mask: linear-gradient(90deg, #0000, #000 5% 80%, #000);
+    -ms-overflow-style: none; //Internet Explorer 10
     overflow-x: scroll;
+    padding: 0 units(3);
     scrollbar-width: none;
   }
 
-  /* Chrome/Safari */
   &-links::-webkit-scrollbar {
     display: none;
   }
