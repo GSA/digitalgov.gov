@@ -19,8 +19,8 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline color("primary") units("05");
-      text-underline-offset: units("05");
+      @include u-border-bottom("05", "primary", "solid");
+      color: color("black");
     }
     &:visited {
       color: color("black");
@@ -42,7 +42,6 @@
 
   #current {
     @include u-text("medium");
-    text-decoration: underline color("primary") units("05");
-    text-underline-offset: units("05");
+    @include u-border-bottom("05", "primary", "solid");
   }
 }
