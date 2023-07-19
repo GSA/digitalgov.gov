@@ -15,8 +15,8 @@
   &-link {
     @include u-font("sans", "md");
     @include u-text("light", "black");
-    text-decoration: none;
     margin: 0 units(3);
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline color("primary") units("05");
@@ -28,12 +28,14 @@
   }
 
   &-links {
+    /* Internet Explorer 10+ */
+    -ms-overflow-style: none;
     overflow-x: scroll;
-    -ms-overflow-style: none;  /* Internet Explorer 10+ */
     scrollbar-width: none;
   }
 
-  &-links::-webkit-scrollbar { 
+  /* Chrome/Safari */
+  &-links::-webkit-scrollbar {
     display: none;
   }
 
