@@ -10,7 +10,7 @@
   position: sticky;
   top: -1px;
   white-space: nowrap;
-  z-index: 1;
+  z-index: 101;
 
   &-link {
     @include u-font("sans", "md");
