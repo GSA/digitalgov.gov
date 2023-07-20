@@ -5,7 +5,7 @@ nav:
   path   : '/guides/site-scanning/_index.md'
 - title  : 'Access The Data'
   path   : '/guides/site-scanning/data.md'
-- title  : 'Understand the Data'
+- title  : 'Understand The Data'
   path   : '/guides/site-scanning/understand-the-data.md'
 - title  : 'Technical Details'
   path   : '/guides/site-scanning/technical-details.md'
