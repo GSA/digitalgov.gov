@@ -1,20 +1,22 @@
 <article class="grid-container grid-container-desktop">
   <header class="dg-guide__header">
     <div class="dg-guide__header-title">
-      <p class="kicker">
-        {{- if .IsNode -}}
-          Digital.gov Guide
-        {{- else -}}
-          {{- .Parent.Title -}}
+      <p class="kicker">Digital.gov Guide</p>
+      {{- if .IsNode -}}
+        <h1>{{- .Title | markdownify -}}</h1>
+        {{- if .Params.summary -}}
+          <div class="deck">
+            {{- .Params.summary | markdownify -}}
+          </div>
         {{- end -}}
-      </p>
-      <h1>{{- .Title | markdownify -}}</h1>
-      {{- if .Params.summary -}}
-        <div class="deck">
-          {{- .Params.summary | markdownify -}}
-        </div>
+      {{- else -}}
+        <h1>{{- .Parent.Title | markdownify -}}</h1>
+        {{- if .Parent.Params.summary -}}
+          <div class="deck">
+            {{- .Parent.Params.summary | markdownify -}}
+          </div>
+        {{- end -}}
       {{- end -}}
-      {{- partial "core/read-time.html" . -}}
     </div>
     {{- partial "core/guides/guide-header-image.html" . -}}
   </header>

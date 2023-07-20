@@ -1,10 +1,19 @@
 @use "uswds-core" as *;
 
 .dg-guide__content {
-  margin: units(5) 0;
+  margin-bottom: units(5);
   overflow: hidden;
   p {
     max-width: none;
+  }
+}
+
+.dg-guide__content-header {
+  margin-top: units(8);
+  hr {
+    margin-left: units(1);
+    margin-top: units(4);
+    width: units(15);
   }
 }
 

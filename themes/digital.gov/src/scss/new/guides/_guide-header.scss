@@ -2,13 +2,12 @@
 
 @include at-media("tablet-lg") {
   .dg-guide__header {
+    align-items: center;
     display: flex;
     justify-content: center;
-    justify-items: center;
 
     &-title {
       flex: 1;
-      margin: units(5) 0;
     }
 
     &-image {
