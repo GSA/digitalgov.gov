@@ -64,9 +64,9 @@ Welcome
 
 #### Inclusive civic design: Engaging diverse communities to improve the early career experience
 
-{{< youtube LE6F_X91UF8 >}}
-
 {{< asset-static file="2023-ux-summit-session-1.pptx" label="View the slides (PowerPoint presentation, 1.0 MB, 25 pages)" >}}
+
+{{< youtube LE6F_X91UF8 >}}
 
 {{< img-right src="opm-svg-seal" >}}
 
@@ -99,9 +99,9 @@ In this presentation, we will share actionable tips about managing project logis
 
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
 
-{{< youtube d_vl9Gv8S9w >}}
-
 {{< asset-static file="2023-ux-summit-session-2.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 36 pages)" >}}
+
+{{< youtube d_vl9Gv8S9w >}}
 
 {{< img-right src="hhs-svg-seal" >}}
 
@@ -137,9 +137,9 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 #### 1. Accessibility research in action: VA's Health and Benefits mobile app
 
-{{< youtube ppTxu65k9HE >}}
-
 {{< asset-static file="2023-ux-summit-session-3a.pptx" label="View the slides (PowerPoint presentation, 3.2 MB, 13 pages)" >}}
+
+{{< youtube ppTxu65k9HE >}}
 
 {{< img-right src="va-svg-seal" >}}
 
@@ -164,9 +164,9 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 
 #### 2. Operation Rising Tide: Cognitive disability accommodations for the workforce
 
-{{< youtube mepIMmjjbCU >}}
-
 {{< asset-static file="2023-ux-summit-session-3b.pptx" label="View the slides (PowerPoint presentation, 4.4 MB, 14 pages)" >}}
+
+{{< youtube mepIMmjjbCU >}}
 
 {{< img-right src="dod-seal" >}}
 
@@ -193,9 +193,9 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 #### 1. Designing metaphors, designing collaboration
 
-{{< youtube 4Fz9xqu89XU >}}
-
 {{< asset-static file="2023-ux-summit-session-4a.pptx" label="View the slides (PowerPoint presentation, 8.4 MB, 46 pages)" >}}
+
+{{< youtube 4Fz9xqu89XU >}}
 
 {{< img-right src="gsa-blue-logo-sq" >}}
 
@@ -223,9 +223,9 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 
 #### 2. Simplifying user experiences for complex content at USAGov
 
-{{< youtube cGpOQV1cfI8 >}}
-
 {{< asset-static file="2023-ux-summit-session-4b.pptx" label="View the slides (PowerPoint presentation, 9.2 MB, 21 pages)" >}}
+
+{{< youtube cGpOQV1cfI8 >}}
 
 {{< img-right src="gsa-blue-logo-sq" >}}
 
@@ -261,9 +261,9 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 
 #### Reconsidering the consent form: the least user-friendly aspect of UX research
 
-{{< youtube pedKxrbdwR4 >}}
-
 {{< asset-static file="2023-ux-summit-session-5.pptx" label="View the slides (PowerPoint presentation, 2.3 MB, 23 pages)" >}}
+
+{{< youtube pedKxrbdwR4 >}}
 
 {{< img-right src="dhs-svg-seal" >}}
 
