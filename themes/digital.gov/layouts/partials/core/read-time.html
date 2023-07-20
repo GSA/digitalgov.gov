@@ -1,10 +1,13 @@
-{{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
 {{- $readTime := 0 -}}
+{{- $guideData := 0 -}}
+{{- if eq .Type "guides" -}}
+  {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
+{{- end -}}
 
 {{- /* Show read time by default. Only disable read time if parameter is set explicitly in guidenav file */ -}}
-{{- $showReadTime := not (and $guide_data (eq $guide_data.showReadTime false)) -}}
+{{- $showReadTime := not (and $guideData (eq $guideData.showReadTime false)) -}}
 
-{{- if or ($showReadTime) (not $guide_data) -}}
+{{- if or ($showReadTime) (not $guideData) -}}
   {{ if isset .Params "readtime" }}
     {{- $readTime = .Params.readTime -}}
   {{- else -}}
