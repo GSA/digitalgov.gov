@@ -12,8 +12,11 @@ topics:
 authors:
   - cheryl-jenkins
   - tyler-jones
+
 slug: gsa-shared-service-provider-program-guide
-primary_image: 
+
+primary_image: "data-security-concept-comp"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
