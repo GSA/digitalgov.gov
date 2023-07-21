@@ -1,25 +1,23 @@
-<main>
-  <article class="grid-container grid-container-desktop">
-    <header class="dg-guide__header">
-      <div class="dg-guide__header-title">
-        <p class="kicker">Digital.gov Guide</p>
-        {{- if .IsNode -}}
-          <h1>{{- .Title | markdownify -}}</h1>
-          {{- if .Params.summary -}}
-            <div class="deck">
-              {{- .Params.summary | markdownify -}}
-            </div>
-          {{- end -}}
-        {{- else -}}
-          <h1>{{- .Parent.Title | markdownify -}}</h1>
-          {{- if .Parent.Params.summary -}}
-            <div class="deck">
-              {{- .Parent.Params.summary | markdownify -}}
-            </div>
-          {{- end -}}
+<article class="grid-container grid-container-desktop">
+  <header class="dg-guide__header">
+    <div class="dg-guide__header-title">
+      <p class="kicker">Digital.gov Guide</p>
+      {{- if .IsNode -}}
+        <h1>{{- .Title | markdownify -}}</h1>
+        {{- if .Params.summary -}}
+          <div class="deck">
+            {{- .Params.summary | markdownify -}}
+          </div>
         {{- end -}}
-      </div>
-      {{- partial "core/guides/guide-header-image.html" . -}}
-    </header>
-  </article>
-</main>
+      {{- else -}}
+        <h1>{{- .Parent.Title | markdownify -}}</h1>
+        {{- if .Parent.Params.summary -}}
+          <div class="deck">
+            {{- .Parent.Params.summary | markdownify -}}
+          </div>
+        {{- end -}}
+      {{- end -}}
+    </div>
+    {{- partial "core/guides/guide-header-image.html" . -}}
+  </header>
+</article>

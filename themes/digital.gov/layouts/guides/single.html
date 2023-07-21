@@ -1,19 +1,21 @@
 {{ define "content" }}
-  {{- partial "core/guides/guide-header.html" . -}}
-  {{- partial "core/guides/guide-menu-bar.html" . -}}
-  {{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
-  {{- if and $guide_data $guide_data.showInPageNav -}}
-    <div class="grid-container">
-      <div class="grid-row">
-        <aside class="dg-guide__nav guide-nav-box tablet-lg:grid-col-2">
-          {{- partial "core/guides/guide-nav.html" . -}}
-        </aside>
-        <div class="tablet-lg:grid-col-10">
-          {{- partial "core/guides/guide-content.html" . -}}
+  <main role="main" id="main-content">
+    {{- partial "core/guides/guide-header.html" . -}}
+    {{- partial "core/guides/guide-menu-bar.html" . -}}
+    {{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
+    {{- if and $guide_data $guide_data.showInPageNav -}}
+      <div class="grid-container">
+        <div class="grid-row">
+          <aside class="dg-guide__nav guide-nav-box tablet-lg:grid-col-2">
+            {{- partial "core/guides/guide-nav.html" . -}}
+          </aside>
+          <div class="tablet-lg:grid-col-10">
+            {{- partial "core/guides/guide-content.html" . -}}
+          </div>
         </div>
       </div>
-    </div>
-  {{- else -}}
-    {{- partial "core/guides/guide-content.html" . -}}
-  {{- end -}}
+    {{- else -}}
+      {{- partial "core/guides/guide-content.html" . -}}
+    {{- end -}}
+  </main>
 {{ end }}
