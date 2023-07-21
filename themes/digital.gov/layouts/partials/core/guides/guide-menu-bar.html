@@ -5,11 +5,20 @@
 <div class="dg-guide__menu-bar">
   <div class="dg-guide__menu-bar-image-container">
     <a
-      class="dg-guide__menu-bar-image"
       href="{{- "/" | relURL -}}"
       title="{{- .Site.Title }} Home"
       aria-label="{{- .Site.Title }} Home"
     >
+      <img
+        class="dg-guide__menu-bar-image full"
+        src="{{- "/img/digitalgov-logo.svg" | relURL -}}"
+        alt="Digital Gov Logo"
+      />
+      <img
+        class="dg-guide__menu-bar-image mobile"
+        src="{{- "/img/digit-100.svg" | relURL -}}"
+        alt="Digital Gov Mobile Logo"
+      />
     </a>
   </div>
   <nav class="dg-guide__menu-bar-links" aria-label="Secondary menu bar">

@@ -1,38 +1,17 @@
-// Uses manual breakpoints and absolute URLs because USWDS and Hugo are not accessible within JS
-
-const menuBarImageWidth = 150;
-const menuBarImageWidthMobile = 30;
-const menuBarScrollOffset = 60;
+// Uses manual breakpoints because USWDS breakpoints are not accessible within JS
 const deviceBreakpoint = 480;
+const menuBarScrollOffsetMobile = 80;
+const menuBarScrollOffsetFull = 240;
+const menuBarScrollOffsetDefault = 30;
 
 const menuBar = document.querySelector(".dg-guide__menu-bar");
-const menuBarImageContainer = document.querySelector(
-  ".dg-guide__menu-bar-image"
-);
 const menuBarLinks = document.querySelector(".dg-guide__menu-bar-links");
-const menuBarImage = Object.assign(document.createElement("img"), {
-  src: "https://digital.gov/img/digitalgov-logo.svg",
-  alt: "Digital Gov Logo",
-});
-
-Object.assign(menuBarImage.style, {
-  maxWidth: `${menuBarImageWidth}px`,
-  minWidth: `${menuBarImageWidth}px`,
-  marginLeft: "1em",
-  marginRight: "1em",
-});
-
-const menuBarImageMobile = Object.assign(document.createElement("img"), {
-  src: "https://digital.gov/img/digit-100.svg",
-  alt: "Digital Gov Logo Small",
-});
-
-Object.assign(menuBarImageMobile.style, {
-  maxWidth: `${menuBarImageWidthMobile}px`,
-  minWidth: `${menuBarImageWidthMobile}px`,
-  marginLeft: "1em",
-  marginRight: "1em",
-});
+const menuBarImageFull = document.querySelector(
+  ".dg-guide__menu-bar-image.full"
+);
+const menuBarImageMobile = document.querySelector(
+  ".dg-guide__menu-bar-image.mobile"
+);
 
 function scrollMenuBar(intersect) {
   const currentItem = document.querySelector(".dg-guide__menu-bar #current");
@@ -40,29 +19,30 @@ function scrollMenuBar(intersect) {
   if (intersect) {
     if (window.innerWidth < deviceBreakpoint) {
       menuBarLinks.scrollLeft =
-        currentItem.offsetLeft - menuBarImageWidthMobile - menuBarScrollOffset;
+        currentItem.offsetLeft - menuBarScrollOffsetMobile;
     } else {
       menuBarLinks.scrollLeft =
-        currentItem.offsetLeft - menuBarImageWidth - menuBarScrollOffset;
+        currentItem.offsetLeft - menuBarScrollOffsetFull;
     }
   } else {
-    menuBarLinks.scrollLeft = currentItem.offsetLeft - menuBarScrollOffset;
+    menuBarLinks.scrollLeft =
+      currentItem.offsetLeft - menuBarScrollOffsetDefault;
   }
 }
 
 function intersection(e) {
   if (!e.isIntersecting && e.boundingClientRect.top < 100) {
     if (window.innerWidth < deviceBreakpoint) {
-      menuBarImageContainer.appendChild(menuBarImageMobile);
+      menuBarImageMobile.classList.add("sticky");
     } else {
-      menuBarImageContainer.appendChild(menuBarImage);
+      menuBarImageFull.classList.add("sticky");
     }
     menuBar.style.justifyContent = "space-evenly";
     scrollMenuBar(true);
   } else {
+    menuBarImageMobile.classList.remove("sticky");
+    menuBarImageFull.classList.remove("sticky");
     menuBar.style.justifyContent = "center";
-    menuBarImage.remove();
-    menuBarImageMobile.remove();
     scrollMenuBar(false);
   }
 }

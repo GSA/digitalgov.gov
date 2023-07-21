@@ -12,6 +12,21 @@
   white-space: nowrap;
   z-index: 101; //Edit page dialog has z-index 100
 
+  &-image {
+    display: none;
+    margin: 0 units(3);
+    &.full {
+      min-width: units("card");
+      width: units("card");
+    }
+    &.mobile {
+      width: units(3);
+    }
+    &.sticky {
+      display: inline;
+    }
+  }
+
   &-link {
     @include u-font("sans", "md");
     @include u-text("light", "black");
