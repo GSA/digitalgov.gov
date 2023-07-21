@@ -8,9 +8,22 @@
   justify-content: center;
   padding-top: units(2);
 
+  &-container-list {
+    max-width: units(desktop);
+    margin: auto;
+  }
+
   &-title {
     margin-bottom: units(-5);
     margin-top: units(8);
+  }
+
+  &-additional {
+    @include at-media("tablet") {
+      column-gap: 2rem;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+    }
   }
 }
 
@@ -42,7 +55,7 @@ $communities-of-practice: (
 
 .usa-card.communities {
   @include at-media("tablet") {
-    width: 20em;
+    max-width: 19em;
   }
 }
 

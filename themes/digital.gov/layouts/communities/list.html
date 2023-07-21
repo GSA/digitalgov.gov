@@ -1,29 +1,22 @@
 {{ define "content" }}
   <main role="main" id="main-content">
     {{/* Featured Communities */}}
-    {{- partial "core/communities.html" (dict "context" . "community_title" .Title "community_deck" .Params.deck "community_page" "main") -}}
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row tablet-lg:grid-gap-4">
-        <div class="grid-col-12">
-          <header class="page-head page-head-{{- .Type -}}">
-            {{/* Other Communities */}}
-            <h2>Other Communities of Practice</h2>
+    {{- partial "core/communities.html" (dict "context" . "community_title" .Title "community_deck" .Params.deck "community_page" "list") -}}
 
-            <div class="deck">
-              These communities are not managed by Digital.gov, but are listed
-              here <br />because they overlap with
-              <a class="usa-link" href="{{- "/about/" | relURL -}}"
-                >our mission</a
-              >.
-            </div>
-          </header>
-        </div>
+
+    <header class="page-head page-head-{{- .Type -}}">
+      {{/* Other Communities */}}
+      <h2>Other Communities of Practice</h2>
+      <div class="deck">
+        These communities are not managed by Digital.gov, but are listed here
+        <br />because they overlap with
+        <a class="usa-link" href="{{- "/about/" | relURL -}}">our mission</a>.
       </div>
-    </div>
+    </header>
 
     <section class="usa-section">
-      <div class="grid-container-desktop">
-        <ul class="communities-of-practice--list usa-collection">
+      <div class="grid-container grid-container-desktop">
+        <ul class="dg-communities-additional usa-collection">
           {{/* Gets all communities pages */}}
           {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
 
