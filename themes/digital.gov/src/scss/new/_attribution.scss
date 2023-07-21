@@ -1,6 +1,6 @@
 @use "uswds-core" as *;
 
-.attribution {
+.dg-attribution {
   @include u-display("flex");
   @include u-flex("justify-center");
   @include u-text("italic");
