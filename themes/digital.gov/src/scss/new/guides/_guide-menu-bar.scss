@@ -47,6 +47,7 @@
     mask: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
     -ms-overflow-style: none; //Internet Explorer 10
     overflow-x: scroll;
+    overflow-y: hidden;
     padding: 0 units(3);
     scrollbar-width: none;
   }
