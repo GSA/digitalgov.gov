@@ -9,8 +9,8 @@
   padding-top: units(2);
 
   &-container-list {
-    max-width: units(desktop);
     margin: auto;
+    max-width: units(desktop);
   }
 
   &-title {
@@ -18,7 +18,7 @@
     margin-top: units(8);
   }
 
-  &-additional {
+  &-additional-communities {
     @include at-media("tablet") {
       column-gap: 2rem;
       display: grid;
