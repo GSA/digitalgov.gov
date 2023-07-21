@@ -2,15 +2,15 @@
 
 .dg-guide__menu-bar {
   @include u-border-y("1px", "gray-cool-30", "solid");
+  @include u-z("top");
   align-items: center;
   background-color: color("gray-10");
   display: flex;
+  height: units(10);
   justify-content: center;
-  padding: units(3) 0;
   position: sticky;
   top: -1px;
   white-space: nowrap;
-  z-index: 101; //Edit page dialog has z-index 100
 
   &-image {
     display: none;
@@ -47,6 +47,7 @@
     mask: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
     -ms-overflow-style: none; //Internet Explorer 10
     overflow-x: scroll;
+    overflow-y: hidden;
     padding: 0 units(3);
     scrollbar-width: none;
   }
