@@ -10,7 +10,7 @@
   position: sticky;
   top: -1px;
   white-space: nowrap;
-  z-index: 101;
+  z-index: 101; //Edit page dialog has z-index 100
 
   &-link {
     @include u-font("sans", "md");

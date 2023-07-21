@@ -68,6 +68,7 @@ function intersection(e) {
 }
 
 const observer = new IntersectionObserver(([e]) => intersection(e), {
+  rootMargin: "-1px 0px 0px 0px",
   threshold: [1],
 });
 

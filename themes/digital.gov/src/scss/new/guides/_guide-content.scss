@@ -17,8 +17,9 @@
   }
 }
 
-.dg-guide__nav.usa-in-page-nav {
-  margin-top: units(6);
+.dg-guide__nav-container {
+  margin: units(5) 0;
+  position: sticky;
   top: units(15);
 }
 
