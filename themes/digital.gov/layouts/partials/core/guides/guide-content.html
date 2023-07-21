@@ -1,4 +1,5 @@
-{{ $path := "" }}{{ with .File }}
+{{ $path := "" }}
+{{ with .File }}
   {{ $path = .Path }}
 {{ else }}
   {{ $path = .Path }}
