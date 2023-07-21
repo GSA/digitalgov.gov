@@ -20,7 +20,7 @@
     {{- if .Params.summary_box -}}
       {{- partial "core/usa-summary-box.html" (dict "modifier" "dg-guide-summary") -}}
     {{- end -}}
-    {{/*  ?   */}}
+    {{/* ? */}}
     <hr align="left" />
   </header>
   <div data-edit-this="{{- $path -}}">
@@ -34,6 +34,5 @@
   {{- partial "core/guides/guide-prev-next.html" . -}}
   {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
   {{- partial "core/attribution.html" . -}}
-  {{- partial "core/touchpoints-form.html" . -}}  
+  {{- partial "core/touchpoints-form.html" . -}}
 </section>
-
