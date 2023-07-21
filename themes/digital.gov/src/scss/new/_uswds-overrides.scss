@@ -43,3 +43,8 @@
     @include u-margin-right(1);
   }
 }
+
+// adds vertical space between content and summary box
+.dg-guide-summary {
+  margin-bottom: units(2);
+}
