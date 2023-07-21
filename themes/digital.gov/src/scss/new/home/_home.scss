@@ -7,22 +7,3 @@
     @include u-padding-y(0);
   }
 }
-
-.communities__home {
-  @include u-flex("row", "wrap");
-  display: flex;
-  justify-content: center;
-  padding-top: units(2);
-  
-  &-title {
-    margin-bottom: units(-5);
-    margin-top: units(8);
-  }
-}
-
-.usa-card.home {
-  @include at-media("tablet") {
-    width: 20em;
-  }
-}
-

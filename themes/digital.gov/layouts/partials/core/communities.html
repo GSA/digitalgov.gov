@@ -18,7 +18,7 @@
 
 <div class="grid-container-desktop">
   <header
-    class="page-head {{ cond (eq .community_page "home") "communities__home-title" "" }}"
+    class="page-head {{ cond (eq .community_page "home") "dg-communities-title" "" }}"
   >
     {{- with .community_title -}}
       <h2>{{ . | markdownify }}</h2>
@@ -31,7 +31,7 @@
   </header>
 </div>
 <section class="usa-section">
-  <div class="communities__home">
+  <div class="dg-communities">
     {{ range $e := $dg_communities }}
       {{ $path := "" }}
       {{ with .File }}
@@ -42,7 +42,7 @@
       <div
         class="usa-card{{ if $e.Params.dg_acronym }}
           cop-card--{{ $e.Params.dg_acronym }}
-        {{ end }} home"
+        {{ end }} communities"
       >
         {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
       </div>

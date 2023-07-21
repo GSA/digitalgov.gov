@@ -1,11 +1,16 @@
 @use "uswds-core" as *;
 
 // https://digital.gov/communities/
-.communities-of-practice--list {
-  @include at-media("tablet") {
-    column-gap: 2rem;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+
+.dg-communities {
+  @include u-flex("row", "wrap");
+  display: flex;
+  justify-content: center;
+  padding-top: units(2);
+
+  &-title {
+    margin-bottom: units(-5);
+    margin-top: units(8);
   }
 }
 
@@ -32,6 +37,12 @@ $communities-of-practice: (
     .usa-card__container {
       border-top: 5px solid $color;
     }
+  }
+}
+
+.usa-card.communities {
+  @include at-media("tablet") {
+    width: 20em;
   }
 }
 
