@@ -1,6 +1,9 @@
-{{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
+{{- $guide_data := index $.Site.Data.guidenav -}}
+{{ if .Params.guide }}
+  {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
+{{ end }}
 
-{{- if and $guide_data $guide_data.showNextPrevious -}}
+{{- if $guide_data.showNextPrevious -}}
   {{- $current_page := . -}}
   {{- $current_url := $current_page.Permalink -}}
 

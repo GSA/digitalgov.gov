@@ -1,4 +1,7 @@
-{{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
+{{- $guide_data := index $.Site.Data.guidenav -}}
+{{ if .Params.guide }}
+  {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
+{{ end }}
 {{- $current_page := .Page.RelPermalink -}}
 
 

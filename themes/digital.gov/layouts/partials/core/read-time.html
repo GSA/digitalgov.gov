@@ -1,7 +1,9 @@
-{{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
+{{- $guide_data := index $.Site.Data.guidenav -}}
+{{ if .Params.guide }}
+  {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
+{{ end }}
 
-{{- if and $guide_data $guide_data.showReadTime -}}
-
+{{- if $guide_data.showReadTime -}}
   {{- $readTime := 0 -}}
 
   {{ if isset .Params "readtime" }}

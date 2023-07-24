@@ -3,8 +3,11 @@
     <article class="dg-guide">
       {{- partial "core/guides/guide-header.html" . -}}
       {{- partial "core/guides/guide-menu-bar.html" . -}}
-      {{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
-      {{- if and $guide_data $guide_data.showInPageNav -}}
+      {{- $guide_data := index $.Site.Data.guidenav -}}
+      {{ if .Params.guide }}
+        {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
+      {{ end }}
+      {{- if $guide_data.showInPageNav -}}
         <div class="grid-container">
           <div class="grid-row">
             <aside class="dg-guide__nav guide-nav-box tablet-lg:grid-col-2">
