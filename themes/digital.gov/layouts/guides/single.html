@@ -1,4 +1,5 @@
 {{ define "content" }}
+<main role="main" id="main-content">
   <article class="dg-guide">
     {{- partial "core/guides/guide-header.html" . -}}
     {{- partial "core/guides/guide-menu-bar.html" . -}}
@@ -18,4 +19,5 @@
       {{- partial "core/guides/guide-content.html" . -}}
     {{- end -}}
   </article>
+</main>
 {{ end }}
