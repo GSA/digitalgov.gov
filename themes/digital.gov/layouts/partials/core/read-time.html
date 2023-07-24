@@ -5,9 +5,12 @@
 {{- end -}}
 
 {{- /* Show read time by default. Only disable read time if parameter is set explicitly in guidenav file */ -}}
-{{- $showReadTime := not (and $guideData (eq $guideData.showReadTime false)) -}}
+{{- $showReadTime := true -}}
+{{- if and (not (eq $guideData 0)) (eq $guideData.showReadTime false) -}}
+  {{- $showReadTime = false -}}
+{{- end -}}
 
-{{- if or ($showReadTime) (not $guideData) -}}
+{{- if $showReadTime -}}
   {{ if isset .Params "readtime" }}
     {{- $readTime = .Params.readTime -}}
   {{- else -}}
