@@ -5,6 +5,7 @@
 // Base Article Header Styles
 main.header.page-header,
 main > header,
+section > header,
 article > header {
   @include u-padding-bottom(2);
   @include u-margin-bottom(3);
