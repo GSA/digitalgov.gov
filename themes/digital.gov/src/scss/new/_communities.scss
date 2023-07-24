@@ -2,27 +2,28 @@
 
 // https://digital.gov/communities/
 
-.dg-communities {
+.dg-featured-communities {
   @include u-flex("row", "wrap");
   display: flex;
   justify-content: center;
   padding-top: units(2);
 
-  &-container-list {
-    margin: auto;
-    max-width: units(desktop);
-  }
-
-  &-title {
-    margin-bottom: units(-5);
-    margin-top: units(8);
-  }
-
-  &-additional-communities {
+  &__additional-communities {
     @include at-media("tablet") {
       column-gap: 2rem;
       display: grid;
       grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  &__title {
+    margin-bottom: units(-5);
+    margin-top: units(8);
+  }
+
+  .usa-card {
+    @include at-media("tablet") {
+      max-width: 19em;
     }
   }
 }
@@ -50,12 +51,6 @@ $communities-of-practice: (
     .usa-card__container {
       border-top: 5px solid $color;
     }
-  }
-}
-
-.usa-card.communities {
-  @include at-media("tablet") {
-    max-width: 19em;
   }
 }
 

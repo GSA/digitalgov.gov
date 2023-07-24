@@ -16,38 +16,34 @@
 {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
 
 
-<div
-  class="dg-communities-container{{ cond (eq .community_page "home") "-home" "-list" }}"
+<header
+  class="page-head {{ cond (eq .community_page "home") "dg-featured-communities__title" "" }} grid-container-desktop"
 >
-  <header
-    class="page-head {{ cond (eq .community_page "home") "dg-communities-title" "" }}"
-  >
-    {{- with .community_title -}}
-      <h2>{{ . | markdownify }}</h2>
-    {{- end -}}
-    {{- with .community_deck -}}
-      <p>
-        {{ . | markdownify }}
-      </p>
-    {{- end -}}
-  </header>
-  <section class="usa-section">
-    <div class="dg-communities">
-      {{ range $e := $dg_communities }}
-        {{ $path := "" }}
-        {{ with .File }}
-          {{ $path = .Path }}
-        {{ else }}
-          {{ $path = .Path }}
-        {{ end }}
-        <div
-          class="usa-card{{ if $e.Params.dg_acronym }}
-            cop-card--{{ $e.Params.dg_acronym }}
-          {{ end }} communities"
-        >
-          {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
-        </div>
+  {{- with .community_title -}}
+    <h2>{{ . | markdownify }}</h2>
+  {{- end -}}
+  {{- with .community_deck -}}
+    <p>
+      {{ . | markdownify }}
+    </p>
+  {{- end -}}
+</header>
+<section class="usa-section">
+  <div class="dg-featured-communities">
+    {{ range $e := $dg_communities }}
+      {{ $path := "" }}
+      {{ with .File }}
+        {{ $path = .Path }}
+      {{ else }}
+        {{ $path = .Path }}
       {{ end }}
-    </div>
-  </section>
-</div>
+      <div
+        class="usa-card{{ if $e.Params.dg_acronym }}
+          cop-card--{{ $e.Params.dg_acronym }}
+        {{ end }}"
+      >
+        {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
+      </div>
+    {{ end }}
+  </div>
+</section>
