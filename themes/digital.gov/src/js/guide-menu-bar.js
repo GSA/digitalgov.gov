@@ -18,9 +18,9 @@ const menuBarImageMobile = document.querySelector(
 function scrollMenuBar(intersect) {
   const currentItem = document.querySelector(".dg-guide__menu-bar #current");
   if (!currentItem || !menuBarLinks) return;
-  //Check if the menu bar is "stuck" to the top of the page (and thus if the logo is being displayed)
+  // Check if the menu bar is "stuck" to the top of the page (and thus if the logo is being displayed)
   if (intersect) {
-    //Check if the menu bar is being viewed on mobile
+    // Check if the menu bar is being viewed on mobile
     if (window.innerWidth < deviceBreakpoint) {
       menuBarLinks.scrollLeft =
         currentItem.offsetLeft - menuBarScrollOffsetMobile;
