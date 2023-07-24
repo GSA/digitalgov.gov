@@ -16,7 +16,7 @@ weight: 3
 
 ---
 
-Customer Experience (CX) is defined as the sum of all experiences a customer has with your organization. Since government is often a sole-source service provider (e.g., there’s only one place to pay taxes, or get a driver’s license), CX is even more important in the public sector than in other organizations. If that’s not enough to convince you, view this [webinar on why federal agencies must improve CX](https://www.youtube.com/watch?v=JFJg-8KwR9I).
+Customer Experience (CX) is defined as the sum of all experiences a customer has with your organization. Since government is often a sole-source service provider (e.g., there’s only one place to pay taxes, or get a driver’s license), CX is even more important in the public sector than in other organizations.
 
 This Toolkit is intended to help government agencies improve how we deliver services and information to the public.
 
