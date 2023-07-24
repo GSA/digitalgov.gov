@@ -13,10 +13,14 @@ const menuBarImageMobile = document.querySelector(
   ".dg-guide__menu-bar-image.mobile"
 );
 
+// Automatically scroll the guide menu bar so that the currently selected item is in view
+// Scroll the distance that the currently selected item is offset from the edge, minus a certain correction factor (to account for the width of the logo)
 function scrollMenuBar(intersect) {
   const currentItem = document.querySelector(".dg-guide__menu-bar #current");
   if (!currentItem || !menuBarLinks) return;
+  //Check if the menu bar is "stuck" to the top of the page (and thus if the logo is being displayed)
   if (intersect) {
+    //Check if the menu bar is being viewed on mobile
     if (window.innerWidth < deviceBreakpoint) {
       menuBarLinks.scrollLeft =
         currentItem.offsetLeft - menuBarScrollOffsetMobile;
@@ -30,8 +34,10 @@ function scrollMenuBar(intersect) {
   }
 }
 
+// Handler for intersection events between the menu bar and the window
 function intersection(e) {
   if (!e.isIntersecting && e.boundingClientRect.top < 100) {
+    // Menu bar has intersected the top of the page
     if (window.innerWidth < deviceBreakpoint) {
       menuBarImageMobile.classList.add("sticky");
     } else {
@@ -40,6 +46,7 @@ function intersection(e) {
     menuBar.style.justifyContent = "space-evenly";
     scrollMenuBar(true);
   } else {
+    // Menu bar is no longer stuck to the top of the page
     menuBarImageMobile.classList.remove("sticky");
     menuBarImageFull.classList.remove("sticky");
     menuBar.style.justifyContent = "center";
@@ -47,6 +54,7 @@ function intersection(e) {
   }
 }
 
+// Register an interaction observer to detect when the menu bar intersects with the window
 const observer = new IntersectionObserver(([e]) => intersection(e), {
   rootMargin: "-1px 0px 0px 0px",
   threshold: [1],
@@ -54,6 +62,7 @@ const observer = new IntersectionObserver(([e]) => intersection(e), {
 
 observer.observe(menuBar);
 
+// Scroll the menu bar to the correct location on page load
 document.addEventListener("DOMContentLoaded", () => {
   scrollMenuBar(false);
 });
