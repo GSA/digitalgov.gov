@@ -42,7 +42,6 @@ The Site Scanning program maintains a number of automated processes that, togeth
   - [Archive of historical snapshots](https://github.com/GSA/site-scanning-snapshots/tree/main/snapshots).
   - [Program issue tracker](https://github.com/GSA/site-scanning/issues).
   - [Program website](https://digital.gov/site-scanning/).
-  - 
 
 - Project Repositories
   - [Primary](https://github.com/GSA/site-scanning)
