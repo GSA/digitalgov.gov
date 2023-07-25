@@ -1,4 +1,29 @@
 jQuery(($) => {
+  const githubScript = document.querySelector("#githubRepo");
+  const gitOrg = githubScript.dataset.gitOrg;
+  const gitRepo = githubScript.dataset.gitRepo;
+  const goUsaUserName = githubScript.dataset.goUsaUserName;
+  const goUsaApiKey = githubScript.dataset.goUsaApiKey;
+  const gitBranch = githubScript.dataset.branch;
+  const gitShortURL = githubScript.dataset.shortUrl;
+  const gitFilename = githubScript.dataset.filename;
+  const gitFilepath = githubScript.dataset.filepath;
+  const gitFilepathURL = githubScript.dataset.filepathUrl;
+  const gitEditpathURL = githubScript.dataset.editpathUrl;
+
+  console.log(
+    gitOrg,
+    gitRepo,
+    goUsaUserName,
+    goUsaApiKey,
+    gitBranch,
+    gitShortURL,
+    gitFilename,
+    gitFilepath,
+    gitFilepathURL,
+    gitEditpathURL
+  );
+
   function enableEditThis() {
     // eslint-disable-next-line func-names
     $("*[data-edit-this]").each(function () {
