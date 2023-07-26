@@ -1,7 +1,9 @@
 <header class="dg-guide__header grid-container grid-container-desktop">
   <div class="dg-guide__header-title">
-    <p class="kicker">Digital.gov Guide</p>
     {{- if .IsNode -}}
+      <p class="kicker">
+        {{- cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide" -}}
+      </p>
       <h1>{{- .Title | markdownify -}}</h1>
       {{- if .Params.summary -}}
         <div class="deck">
@@ -9,6 +11,9 @@
         </div>
       {{- end -}}
     {{- else -}}
+      <p class="kicker">
+        {{- cond (isset .Parent.Params "kicker") .Parent.Params.kicker "Digital.gov Guide" -}}
+      </p>
       <h1>{{- .Parent.Title | markdownify -}}</h1>
       {{- if .Parent.Params.summary -}}
         <div class="deck">
