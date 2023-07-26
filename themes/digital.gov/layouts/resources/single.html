@@ -19,6 +19,7 @@
           {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
           {{- end -}}
+          {{- partial "core/read-time.html" . -}}
         </div>
       </header>
 
