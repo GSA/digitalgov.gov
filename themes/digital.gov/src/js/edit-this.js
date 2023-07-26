@@ -2,27 +2,9 @@ jQuery(($) => {
   const githubScript = document.querySelector("#githubRepo");
   const gitOrg = githubScript.dataset.gitOrg;
   const gitRepo = githubScript.dataset.gitRepo;
-  const goUsaUserName = githubScript.dataset.goUsaUserName;
-  const goUsaApiKey = githubScript.dataset.goUsaApiKey;
   const gitBranch = githubScript.dataset.branch;
-  const gitShortURL = githubScript.dataset.shortUrl;
-  const gitFilename = githubScript.dataset.filename;
   const gitFilepath = githubScript.dataset.filepath;
-  const gitFilepathURL = githubScript.dataset.filepathUrl;
-  const gitEditpathURL = githubScript.dataset.editpathUrl;
-
-  console.log(
-    gitOrg,
-    gitRepo,
-    goUsaUserName,
-    goUsaApiKey,
-    gitBranch,
-    gitShortURL,
-    gitFilename,
-    gitFilepath,
-    gitFilepathURL,
-    gitEditpathURL
-  );
+  console.log(githubScript);
 
   function enableEditThis() {
     // eslint-disable-next-line func-names
@@ -32,7 +14,7 @@ jQuery(($) => {
       // Disabling no-undef & camelcase because these are defined in templates.
       //
       // eslint-disable-next-line no-undef, camelcase
-      const editLink = `<a class="edit-this-btn" href="https://github.com/${git_org}/${git_repo}/edit/${branch}/content/${filepath}" title="edit this" target="_blank"><span>edit</span></a>`;
+      const editLink = `<a class="edit-this-btn" href="https://github.com/${gitOrg}/${gitRepo}/edit/${gitBranch}/content/${gitFilepath}" title="edit this" target="_blank"><span>edit</span></a>`;
 
       $(this).addClass("edit-this").append(editLink);
     });

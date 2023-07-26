@@ -2,6 +2,16 @@
 // @TODO: Remove var setting in Hugo templates.
 /* eslint-disable no-undef */
 
+const githubScript = document.querySelector("#githubRepo");
+const gitOrg = githubScript.dataset.gitOrg;
+const gitRepo = githubScript.dataset.gitRepo;
+const gitBranch = githubScript.dataset.branch;
+const gitShortURL = githubScript.dataset.shortUrl;
+const gitFilename = githubScript.dataset.filename;
+const gitFilepath = githubScript.dataset.filepath;
+const gitFilepathURL = githubScript.dataset.filepathUrl;
+const gitEditpathURL = githubScript.dataset.editpathUrl;
+
 function getBranchLink(branch) {
   const path = `https://github.com/GSA/digitalgov.gov/tree/${branch}`;
   const branchLink = `<a class="branch" href="${path}" title="${branch}">${branch}</a>`;
@@ -54,6 +64,7 @@ function showLastCommit(data, branch) {
 
 jQuery(($) => {
   function buildEditFileLink() {
+    console.log(gitEditpathURL);
     // editpathURL is set the <head>
     if (editpathURL !== undefined) {
       // Build the edit link
