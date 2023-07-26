@@ -50,8 +50,8 @@
               {{/* Get all of the resources */}}
               {{- $resources := (where .Site.Pages.ByTitle "Section" "resources") -}}
 
-              {{/* Get only the pages that are greater than or equal to 3 */}}
-              {{- $resourcesfeatured := (where $resources ".Params.weight" "ge" 3 ) -}}
+              {{/* Get only the pages that are greater than or equal to 5 */}}
+              {{- $resourcesfeatured := (where $resources ".Params.weight" "ge" 5 ) -}}
 
               {{/* Sort all of the resources by weight */}}
               {{- $resourcesfeatured := (sort $resourcesfeatured "Weight" "desc" ) -}}
