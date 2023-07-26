@@ -5,7 +5,7 @@
 slug: "usa-gov-federal-mobile-apps-directory"
 
 # Topic Title
-title: "usa.gov Federal Mobile Apps Directory"
+title: "USA.gov Federal Mobile Apps Directory"
 
 # description — keep it short and clear
 summary: ""

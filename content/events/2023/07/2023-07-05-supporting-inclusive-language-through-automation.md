@@ -28,6 +28,10 @@ youtube_id:
 
 ---
 
+{{< asset-static file="2023-digitalgov-inclusive-language-support-through-automation-event-final.pptx" label="View the slides (PowerPoint presentation, 4 MB, 29 pages)" >}}
+
+---
+
 In 2015, General Services Administration’s Technology Transformation Services (TTS) created "Inclusion Bot" to help staff use more inclusive and thoughtful language in everyday communications.
 
 Over time, the team found this bot could use some improvements. So starting in 2019, they began conducting research and iterating on the bot to further their goal of a welcoming, inclusive culture.

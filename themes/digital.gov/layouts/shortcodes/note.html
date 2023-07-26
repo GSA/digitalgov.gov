@@ -38,7 +38,7 @@ Comment —
 
 */}}
 
-<div class="note {{ if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
+<div class="note {{- if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
     <h4>
       <svg
