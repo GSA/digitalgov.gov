@@ -253,7 +253,11 @@
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-  {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+  {{ $path := "" }}{{ with .File }}
+    {{ $path = .Path }}
+  {{ else }}
+    {{ $path = .Path }}
+  {{ end }}
   <!-- GitHub -->
   <script id="githubRepo" type="text/javascript" data-git-org="{{ .Site.Params.git_org }}" data-git-repo="{{ .Site.Params.git_repo }}" data-go-usa-username="{{ .Site.Params.goUsaUsername }}" data-go-usa-api-key="{{ .Site.Params.goUsaApiKey }}" data-branch="{{ $.Scratch.Get "branch" }}" data-short-url="{{ if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- end -}}" data-filename="{{ with .File -}}{{- .LogicalName -}}{{- end }}" data-filepath="{{ with .File -}}{{ $path }}{{- end }}" data-filepath-url="{{ with .File -}}{{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}{{- end }}" data-editpath-url="{{ with .File -}}{{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}{{- end }}">
     git_org          = {{ .Site.Params.git_org }};
