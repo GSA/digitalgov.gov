@@ -1,0 +1,24 @@
+<aside
+  id="glossary"
+  class="glossary"
+  aria-describedby="glossary-result"
+  aria-hidden="true"
+>
+  <button title="Close glossary" class="js-glossary-close">
+    <img
+      src="{{ "uswds/img/usa-icons-bg/close--white.svg" | relURL }}"
+      alt="Hide glossary"
+    />
+  </button>
+
+  <h2>Glossary</h2>
+  <label for="glossary-search" class="usa-label">Search for a term:</label>
+  <input
+    id="glossary-search"
+    class="js-glossary-search usa-input"
+    type="text"
+  />
+  <div class="glossary__content" id="glossary-result">
+    <ul class="js-glossary-list add-list-reset"></ul>
+  </div>
+</aside>
