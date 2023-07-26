@@ -1,6 +1,6 @@
 const { src, dest, series } = require("gulp");
-const uglify = require("gulp-uglify");
-const concat = require("gulp-concat");
+const webpack = require('webpack-stream');
+const compiler = require('webpack');
 
 // Directories
 const USWDS = "node_modules/@uswds/uswds/dist";
@@ -37,8 +37,9 @@ function compile() {
   return src([`${PROJECT_JS_SRC}/*.js`], {
     sourcemaps: true,
   })
-    .pipe(uglify())
-    .pipe(concat("common.js"))
+    .pipe(webpack({
+      mode: "production"
+    }, compiler))
     .pipe(dest(JS_DEST, { sourcemaps: true }));
 }
 
