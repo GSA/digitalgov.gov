@@ -32,6 +32,6 @@ authors:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 3
+weight: 2
 # Make it better ♥
 ---
