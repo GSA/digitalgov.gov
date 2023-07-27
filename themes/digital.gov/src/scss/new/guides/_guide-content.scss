@@ -14,14 +14,14 @@
 
   &-deck {
     @include u-font("sans", "xl");
-    @include u-text("light");
     color: color("primary-darker");
+    font-weight: font-weight("light");
     margin-top: 0;
   }
 
   &-title {
     @include u-font("sans", "2xl");
-    @include u-text("heavy");
+    font-weight: font-weight("bold");
     margin-bottom: 0;
   }
 }
