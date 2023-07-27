@@ -1,21 +1,14 @@
+{{- $title := cond .IsNode .Title .Parent.Title -}}
+{{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
+
+
 <header class="dg-guide__header grid-container grid-container-desktop">
   <div class="dg-guide__header-title">
     <p class="kicker">Digital.gov Guide</p>
-    {{- if .IsNode -}}
-      <h1>{{- .Title | markdownify -}}</h1>
-      {{- if .Params.summary -}}
-        <div class="deck">
-          {{- .Params.summary | markdownify -}}
-        </div>
-      {{- end -}}
-    {{- else -}}
-      <h1>{{- .Parent.Title | markdownify -}}</h1>
-      {{- if .Parent.Params.summary -}}
-        <div class="deck">
-          {{- .Parent.Params.summary | markdownify -}}
-        </div>
-      {{- end -}}
-    {{- end -}}
+    <h1>{{- $title | markdownify -}}</h1>
+    <div class="deck">
+      {{- $summary | markdownify -}}
+    </div>
   </div>
   {{- partial "core/guides/guide-header-image.html" . -}}
 </header>
