@@ -3,14 +3,12 @@
 {{- $thisimg := index $.Site.Data.images $thisuid -}}
 
 
-<div class="dg-attribution">
-  <p>
-    {{- if $thisimg.credit -}}
-      Header Image Credit:&nbsp
-      {{ $thisimg.credit | markdownify }}
-    {{- else if $thisimg.caption -}}
-      Header Image Credit:&nbsp
-      {{ $thisimg.caption | markdownify }}
-    {{- end -}}
-  </p>
-</div>
+<p class="dg-attribution">
+  {{- if $thisimg.credit -}}
+    Image Credit:&nbsp
+    {{ $thisimg.credit | markdownify }}
+  {{- else if $thisimg.caption -}}
+    Image Credit:&nbsp
+    {{ $thisimg.caption | markdownify }}
+  {{- end -}}
+</p>
