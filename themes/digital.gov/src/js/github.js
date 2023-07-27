@@ -1,5 +1,6 @@
 // Disabling no-undef because some vars are set in templates.
 // @TODO: Remove var setting in Hugo templates.
+// Sets the timestamp for the last github update timestamp
 /* eslint-disable no-undef */
 
 const githubScript = document.querySelector("#githubRepo");
@@ -14,7 +15,7 @@ const gitEditpathURL = githubScript.dataset.editpathUrl;
 
 function getBranchLink(branch) {
   const path = `https://github.com/GSA/digitalgov.gov/tree/${branch}`;
-  const branchLink = `<a class="branch" href="${path}" title="${branch}">${branch}</a>`;
+  const branchLink = `<a class="branch" href="${path}" title="${gitBranch}">${gitBranch}</a>`;
   return branchLink;
 }
 
@@ -47,7 +48,7 @@ function showLastCommit(data, branch) {
   const commitData = Array.isArray(data) ? data[0] : data;
   const commitDate = commitData.commit.committer.date;
   // eslint-disable-next-line no-undef
-  const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${branch}/content/${filepath}`;
+  const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitBranch}/content/${filepath}`;
 
   const lastCommit = [
     branchLink,
@@ -64,7 +65,6 @@ function showLastCommit(data, branch) {
 
 jQuery(($) => {
   function buildEditFileLink() {
-    console.log(gitEditpathURL);
     // editpathURL is set the <head>
     if (editpathURL !== undefined) {
       // Build the edit link
@@ -80,10 +80,10 @@ jQuery(($) => {
     if (branch === "main") {
       branchpath = "";
     } else {
-      branchpath = `/${branch}`;
+      branchpath = `/${gitBranch}`;
     }
     // eslint-disable-next-line camelcase
-    const commitApiPath = `https://api.github.com/repos/${git_org}/${git_repo}/commits${branchpath}?path=/content/${filepath}`;
+    const commitApiPath = `https://api.github.com/repos/${gitOrg}/${gitRepo}/commits${branchpath}?path=/content/${filepath}`;
 
     if (commitApiPath !== undefined) {
       $.ajax({

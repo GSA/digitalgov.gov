@@ -1,24 +1,29 @@
+// Sets the github URL for each resource when edit-mode is enabled
+
 jQuery(($) => {
+  // only returns git information in scope for the page, doesn't update scope for each link in enableEditThis on landing pages
   const githubScript = document.querySelector("#githubRepo");
   const gitOrg = githubScript.dataset.gitOrg;
   const gitRepo = githubScript.dataset.gitRepo;
   const gitBranch = githubScript.dataset.branch;
-  const gitFilepath = githubScript.dataset.filepath;
-  console.log(githubScript);
+  const gitFilepathURL = githubScript.dataset.editpathUrl;
 
+  // loop through all data-edit-this attributes on page and add edit link
   function enableEditThis() {
     // eslint-disable-next-line func-names
     $("*[data-edit-this]").each(function () {
       const filepath = $(this).data("edit-this");
+      console.log(filepath);
       //
       // Disabling no-undef & camelcase because these are defined in templates.
       //
       // eslint-disable-next-line no-undef, camelcase
-      const editLink = `<a class="edit-this-btn" href="https://github.com/${gitOrg}/${gitRepo}/edit/${gitBranch}/content/${gitFilepath}" title="edit this" target="_blank"><span>edit</span></a>`;
-
+      const editLink = `<a class="edit-this-btn" href="https://github.com/${gitOrg}/${gitRepo}/edit/${gitBranch}/content/${filepath}" title="edit this" target="_blank"><span>edit</span></a>`;
       $(this).addClass("edit-this").append(editLink);
     });
   }
+
+  // remove highlight from all editable items
   function disableEditThis() {
     // eslint-disable-next-line func-names
     $("*[data-edit-this]").each(function () {
