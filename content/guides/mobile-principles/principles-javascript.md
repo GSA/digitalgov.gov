@@ -1,8 +1,8 @@
 ---
 slug: javascript
 date: 2018-10-09 12:30:00 -0500
-title: 'JavaScript Is Really Cool, When Used With Care'
-summary: 'Week one of our series covers the benefits of using JavaScript.'
+title: "JavaScript Is Really Cool, When Used With Care"
+summary: "Week one of our series covers the benefits of using JavaScript."
 guide: mobile-principles
 
 aliases:

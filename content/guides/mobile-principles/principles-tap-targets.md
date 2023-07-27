@@ -1,8 +1,8 @@
 ---
 slug: tap-targets
 date: 2018-11-26 10:00:00 -0500
-title: 'Remember That We Navigate Mobile Sites Using Our Fingers'
-summary: 'Week three of our series covers how to size fonts and other tap targets, like links.'
+title: "Remember That We Navigate Mobile Sites Using Our Fingers"
+summary: "Week three of our series covers how to size fonts and other tap targets, like links."
 guide: mobile-principles
 aliases:
   - /resources/mobile/principles/tap-targets

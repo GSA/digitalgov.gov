@@ -1,8 +1,8 @@
 ---
 slug: accessibility
 date: 2019-03-07 12:30:00 -0500
-title: 'Don’t Forget Accessibility!'
-summary: 'Week eight of our series covers accessibility, WCAG 2.0, and the four POUR principles.'
+title: "Don’t Forget Accessibility!"
+summary: "Week eight of our series covers accessibility, WCAG 2.0, and the four POUR principles."
 guide: mobile-principles
 
 aliases:

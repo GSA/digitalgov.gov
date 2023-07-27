@@ -1,8 +1,8 @@
 ---
 slug: configuration
 date: 2019-02-12 12:30:00 -0500
-title: 'Properly Configure the Server'
-summary: 'Week seven of our series covers configuring servers to optimize response time.'
+title: "Properly Configure the Server"
+summary: "Week seven of our series covers configuring servers to optimize response time."
 guide: mobile-principles
 
 aliases:
