@@ -1,5 +1,4 @@
 showNextPrevious: true
-showReadTime: true
 nav:
 - title  : 'Overview'
   path   : '/guides/rpa/_index.md'
