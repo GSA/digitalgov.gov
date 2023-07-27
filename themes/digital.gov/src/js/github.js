@@ -4,21 +4,33 @@
 /* eslint-disable no-undef */
 
 const githubScript = document.querySelector("#githubRepo");
-const gitOrg = githubScript.dataset.gitOrg;
-const gitRepo = githubScript.dataset.gitRepo;
-const gitBranch = githubScript.dataset.branch;
-const gitShortURL = githubScript.dataset.shortUrl;
-const gitFilename = githubScript.dataset.filename;
-const gitFilepath = githubScript.dataset.filepath;
-const gitFilepathURL = githubScript.dataset.filepathUrl;
-const gitEditpathURL = githubScript.dataset.editpathUrl;
+// const gitOrg = githubScript.dataset.gitOrg;
+// const gitRepo = githubScript.dataset.gitRepo;
+// const gitBranch = githubScript.dataset.gitBranch;
+// const gitFilepath = githubScript.dataset.filepath;
+// const gitEditpathURL = githubScript.dataset.editpathUrl;
 
+const {
+  gitOrg,
+  gitRepo,
+  gitBranch,
+  // goUsaUsername,
+  // goUsaApiKey,
+  // shortUrl,
+  // filename,
+  // filepath,
+  // filepathUrl,
+  // editpathUrl,
+} = githubScript.dataset;
+
+// return the branchlink as a link to github
 function getBranchLink(branch) {
   const path = `https://github.com/GSA/digitalgov.gov/tree/${branch}`;
   const branchLink = `<a class="branch" href="${path}" title="${gitBranch}">${gitBranch}</a>`;
   return branchLink;
 }
 
+// format date to display at bottom of the page
 function formatDate(timezoneDate) {
   const inputDate = new Date(timezoneDate);
 
@@ -43,12 +55,13 @@ function formatDate(timezoneDate) {
   return `${outputDate} at ${outputTime}`;
 }
 
+// format data from github api to display as date time string on bottom of page
 function showLastCommit(data, branch) {
   const branchLink = getBranchLink(branch);
   const commitData = Array.isArray(data) ? data[0] : data;
   const commitDate = commitData.commit.committer.date;
   // eslint-disable-next-line no-undef
-  const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitBranch}/content/${filepath}`;
+  const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitBranch}/content/${gitFilepath}`;
 
   const lastCommit = [
     branchLink,
@@ -59,42 +72,45 @@ function showLastCommit(data, branch) {
 
   // eslint-disable-next-line no-unused-vars, func-names
   $(".edit-file").each(function (i, itemsList) {
+    // TODO: replace jquery each with native forEach
     $(this).append(lastCommit.join("\n"));
   });
 }
 
 jQuery(($) => {
   function buildEditFileLink() {
-    // editpathURL is set the <head>
-    if (editpathURL !== undefined) {
+    // gitEditpathURL is set the <head>
+    if (gitEditpathURL !== undefined) {
       // Build the edit link
-      const edit = `<a target='_blank' class='edit-file-link' href='${editpathURL}' title='Edit in GitHub'>Edit</a>`;
+      const edit = `<a target='_blank' class='edit-file-link' href='${gitEditpathURL}' title='Edit in GitHub'>Edit</a>`;
 
       // Insert the .edit-file-link html into the .edit-file div and remove the .hidden class
+      // TODO: replace jquery methods with native javascript
       $("#page-data .edit-file").html(edit).removeClass("hidden");
     }
   }
   buildEditFileLink();
 
   function getCommitData() {
-    if (branch === "main") {
+    if (gitBranch === "main") {
       branchpath = "";
     } else {
       branchpath = `/${gitBranch}`;
     }
     // eslint-disable-next-line camelcase
-    const commitApiPath = `https://api.github.com/repos/${gitOrg}/${gitRepo}/commits${branchpath}?path=/content/${filepath}`;
+    const commitApiPath = `https://api.github.com/repos/${gitOrg}/${gitRepo}/commits${branchpath}?path=/content/${gitFilepath}`;
 
+    // TODO: replace $.ajax with fetch request
     if (commitApiPath !== undefined) {
       $.ajax({
         url: commitApiPath,
         dataType: "json",
       }).done((data) => {
         if (typeof data !== "undefined") {
-          showLastCommit(data, branch);
+          showLastCommit(data, gitBranch);
         }
       });
     }
   }
-  getCommitData(filepath);
+  getCommitData(gitFilepath);
 });

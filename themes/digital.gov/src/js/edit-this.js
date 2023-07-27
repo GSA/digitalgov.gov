@@ -1,38 +1,38 @@
-// Sets the github URL for each resource when edit-mode is enabled
+// Sets the github URL link and button styles for each resource when edit-mode is enabled
 
 jQuery(($) => {
   // only returns git information in scope for the page, doesn't update scope for each link in enableEditThis on landing pages
   const githubScript = document.querySelector("#githubRepo");
-  const gitOrg = githubScript.dataset.gitOrg;
-  const gitRepo = githubScript.dataset.gitRepo;
-  const gitBranch = githubScript.dataset.branch;
-  const gitFilepathURL = githubScript.dataset.editpathUrl;
-
-  // loop through all data-edit-this attributes on page and add edit link
+  const { gitOrg, gitRepo, gitBranch } = githubScript.dataset;
+  // loop through all data-edit-this items on page, add github link button and apply highlight class
   function enableEditThis() {
+    // TODO: replace each with native forEach
     // eslint-disable-next-line func-names
     $("*[data-edit-this]").each(function () {
       const filepath = $(this).data("edit-this");
-      console.log(filepath);
       //
       // Disabling no-undef & camelcase because these are defined in templates.
       //
       // eslint-disable-next-line no-undef, camelcase
       const editLink = `<a class="edit-this-btn" href="https://github.com/${gitOrg}/${gitRepo}/edit/${gitBranch}/content/${filepath}" title="edit this" target="_blank"><span>edit</span></a>`;
+      // TODO: replace with native javascript methods
       $(this).addClass("edit-this").append(editLink);
     });
   }
 
-  // remove highlight from all editable items
+  // remove highlight and edit button from all editable items
   function disableEditThis() {
     // eslint-disable-next-line func-names
     $("*[data-edit-this]").each(function () {
+      // TODO: replace each with native forEach
       $(this).removeClass("edit-this");
       $(".edit-this-btn").remove();
     });
   }
 
+  // toggle edit tools when clicking on edit-tools button in lower right corner
   $(".edit-tools .edit-open").on("click", (e) => {
+    // TODO: replace on with addEventListener
     e.preventDefault();
 
     const $editIcon = $(this).find("i");
@@ -54,6 +54,8 @@ jQuery(($) => {
     }
   });
 });
+
+// TODO: refactor to use native javascript
 // keycode 32 handles spacebar
 $(() => {
   $(".edit-issue").on("keypress", (e) => {
