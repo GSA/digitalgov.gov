@@ -1,6 +1,6 @@
 ---
 date: 2023-07-19 15:15:00 -0500
-kicker: kick
+kicker: 
 title: GSA Shared Service Provider Program Guide
 deck: Interested in becoming a Shared Service Provider?
 summary: The newly-released SSP Program Guide was created for commercial vendors interested in becoming a Shared Service Provider.

@@ -1,6 +1,5 @@
 # Navigation YML file for web analytics guide guide
 showNextPrevious: true
-showReadTime: true
 showInPageNav: false
 nav:
 - title    : 'Overview'

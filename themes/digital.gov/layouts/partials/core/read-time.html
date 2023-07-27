@@ -1,23 +1,26 @@
-{{- $guide_data := index $.Site.Data.guidenav -}}
-{{ if .Params.guide }}
-  {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
-{{ end }}
+{{- $readTime := 0 -}}
+{{- $showReadTime := true -}}
 
-{{- if $guide_data.showReadTime -}}
-  {{- $readTime := 0 -}}
+{{- if eq .Type "guides" -}}
+  {{- $guideData := index $.Site.Data.guidenav (.Params.guide) -}}
 
+  {{- /* Show read time by default. Only disable read time if parameter is set explicitly in guidenav file */ -}}
+  {{- if eq $guideData.showReadTime false -}}
+    {{- $showReadTime = false -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $showReadTime -}}
   {{ if isset .Params "readtime" }}
     {{- $readTime = .Params.readTime -}}
   {{- else -}}
     {{- $readTime = .ReadingTime -}}
   {{- end -}}
 
-  {{ if $readTime }}
-    {{ $readTimeMinutes := cond (gt $readTime 1) "minutes" "minute" }}
-    <p class="dg-read-time">
-      Reading time:
-      {{ $readTime }}
-      {{ $readTimeMinutes }}
-    </p>
-  {{- end -}}
+  {{ $readTimeMinutes := cond (gt $readTime 1) "minutes" "minute" }}
+  <p class="dg-read-time">
+    Reading time:
+    {{ $readTime }}
+    {{ $readTimeMinutes }}
+  </p>
 {{- end -}}
