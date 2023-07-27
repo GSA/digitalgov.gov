@@ -13,7 +13,6 @@
   white-space: nowrap;
 
   &-image {
-    display: none;
     margin: 0 units(3);
     &.full {
       min-width: units("card");
@@ -21,9 +20,6 @@
     }
     &.mobile {
       width: units(3);
-    }
-    &.sticky {
-      display: inline;
     }
   }
 
@@ -56,7 +52,11 @@
     display: none;
   }
 
-  #current {
+  &.sticky {
+    justify-content: space-evenly;
+  }
+
+  .dg-current {
     @include u-text("medium");
     @include u-border-bottom("05", "primary", "solid");
   }

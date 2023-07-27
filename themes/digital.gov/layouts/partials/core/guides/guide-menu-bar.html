@@ -7,20 +7,18 @@
 
 <div class="dg-guide__menu-bar">
   <div class="dg-guide__menu-bar-image-container">
-    <a
-      href="{{- "/" | relURL -}}"
-      title="{{- .Site.Title }} Home"
-      aria-label="{{- .Site.Title }} Home"
-    >
+    <a href="{{- "/" | relURL -}}" title="{{- .Site.Title }} Home">
       <img
         class="dg-guide__menu-bar-image full"
         src="{{- "/img/digitalgov-logo.svg" | relURL -}}"
         alt="Digital Gov Logo"
+        hidden
       />
       <img
         class="dg-guide__menu-bar-image mobile"
         src="{{- "/img/digit-100.svg" | relURL -}}"
         alt="Digital Gov Mobile Logo"
+        hidden
       />
     </a>
   </div>
@@ -30,8 +28,7 @@
         {{- $item := . -}}
         {{- $page := $.Site.GetPage $item.path -}}
         <a
-          class="dg-guide__menu-bar-link"
-          id="{{ cond (eq $current_page $page.RelPermalink) "current" "" }}"
+          class="dg-guide__menu-bar-link {{ cond (eq $current_page $page.RelPermalink) "dg-current" "" }}"
           href="{{- $page.Permalink -}}"
           title="{{- $item.title -}}"
           >{{- $item.title -}}</a

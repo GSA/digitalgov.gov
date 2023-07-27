@@ -5,52 +5,41 @@ const menuBarScrollOffsetFull = 240;
 const menuBarScrollOffsetDefault = 30;
 
 const menuBar = document.querySelector(".dg-guide__menu-bar");
-const menuBarLinks = document.querySelector(".dg-guide__menu-bar-links");
-const menuBarImageFull = document.querySelector(
+const menuBarLinks = menuBar.querySelector(".dg-guide__menu-bar-links");
+const menuBarImageFull = menuBar.querySelector(
   ".dg-guide__menu-bar-image.full"
 );
-const menuBarImageMobile = document.querySelector(
+const menuBarImageMobile = menuBar.querySelector(
   ".dg-guide__menu-bar-image.mobile"
 );
 
-// Automatically scroll the guide menu bar so that the currently selected item is in view
-// Scroll the distance that the currently selected item is offset from the edge, minus a certain correction factor (to account for the width of the logo)
-function scrollMenuBar(intersect) {
-  const currentItem = document.querySelector(".dg-guide__menu-bar #current");
+// Scroll the guide menu bar so that the currently selected item is in view
+function scrollMenuBar(offset) {
+  const currentItem = document.querySelector(".dg-guide__menu-bar .dg-current");
   if (!currentItem || !menuBarLinks) return;
-  // Check if the menu bar is "stuck" to the top of the page (and thus if the logo is being displayed)
-  if (intersect) {
-    // Check if the menu bar is being viewed on mobile
-    if (window.innerWidth < deviceBreakpoint) {
-      menuBarLinks.scrollLeft =
-        currentItem.offsetLeft - menuBarScrollOffsetMobile;
-    } else {
-      menuBarLinks.scrollLeft =
-        currentItem.offsetLeft - menuBarScrollOffsetFull;
-    }
-  } else {
-    menuBarLinks.scrollLeft =
-      currentItem.offsetLeft - menuBarScrollOffsetDefault;
-  }
+  menuBarLinks.scrollLeft = currentItem.offsetLeft - offset;
 }
 
 // Handler for intersection events between the menu bar and the window
 function intersection(e) {
-  if (!e.isIntersecting && e.boundingClientRect.top < 100) {
-    // Menu bar has intersected the top of the page
+  // Check if menu bar intersected the top of the page
+  if (!e.isIntersecting && e.boundingClientRect.top < 1) {
+    menuBar.classList.add("sticky");
+
+    // Check if viewing on mobile device
     if (window.innerWidth < deviceBreakpoint) {
-      menuBarImageMobile.classList.add("sticky");
+      menuBarImageMobile.removeAttribute("hidden");
+      scrollMenuBar(menuBarScrollOffsetMobile);
     } else {
-      menuBarImageFull.classList.add("sticky");
+      menuBarImageFull.removeAttribute("hidden");
+      scrollMenuBar(menuBarScrollOffsetFull);
     }
-    menuBar.style.justifyContent = "space-evenly";
-    scrollMenuBar(true);
+    // Menu bar is no longer intersecting
   } else {
-    // Menu bar is no longer stuck to the top of the page
-    menuBarImageMobile.classList.remove("sticky");
-    menuBarImageFull.classList.remove("sticky");
-    menuBar.style.justifyContent = "center";
-    scrollMenuBar(false);
+    menuBarImageMobile.setAttribute("hidden", "");
+    menuBarImageFull.setAttribute("hidden", "");
+    menuBar.classList.remove("sticky");
+    scrollMenuBar(menuBarScrollOffsetDefault);
   }
 }
 
