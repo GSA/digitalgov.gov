@@ -3,13 +3,27 @@
 .dg-guide__content-body {
   margin-bottom: units(5);
   overflow: hidden;
+
   p {
     max-width: none;
   }
 }
 
 .dg-guide__content-header {
-  margin-top: units(8);
+  margin: units(5) 0;
+
+  &-deck {
+    @include u-font("sans", "xl");
+    @include u-text("light");
+    color: color("primary-darker");
+    margin-top: 0;
+  }
+
+  &-title {
+    @include u-font("sans", "2xl");
+    @include u-text("heavy");
+    margin-bottom: 0;
+  }
 }
 
 .dg-guide__nav-container {
