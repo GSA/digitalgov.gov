@@ -1,5 +1,8 @@
+{{/* Gets the id of the header image and cleans it up*/}}
 {{- $thisuid := cond .IsNode .Params.Image .Parent.Params.Image -}}
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
+
+{{/* Matches the id of the header image to a .yml file*/}}
 {{- $thisimg := index $.Site.Data.images $thisuid -}}
 
 
