@@ -25,6 +25,6 @@ source: digitalgov
 authors:
   - david-fern
 
-weight: 3
+weight: 2
 # Make it better ♥
 ---
