@@ -5,13 +5,12 @@
 
   a {
     color: color($theme-link-color);
-    display: inline;
-    text-decoration: underline;
   }
 
   a:hover {
     border: none;
     color: color($theme-link-color);
+    text-decoration: underline;
   }
 
   h1 {
@@ -19,9 +18,17 @@
     font-weight: font-weight("heavy");
   }
 
-  p {
+  p, ul {
     @include u-font("sans", "lg");
     font-weight: font-weight("light");
     max-width: 100%;
+  }
+
+  .usa-card__img {
+    height: units("card-lg");
+  }
+
+  .usa-card__footer a:hover {
+    color: color("base-lightest");
   }
 }

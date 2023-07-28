@@ -2,10 +2,11 @@
 date: 2023-07-24 09:00:00 -0500
 kicker: HCD Guide Series
 title: "Introduction to Human-Centered Design"
-summary: Everything you need to know to get started with our human-centered design series.
+summary: "Everything you need to know to get started with our human-centered design series."
 guide: hcd-introduction
 image: hcd-guide-intro
 layout: single
+weight: 1
 ---
 
 Human-centered design (HCD) is a qualitative research method that helps groups solve problems and seek solutions that prioritize customer needs over a system’s needs. It’s also a design and management framework to develop solutions to problems by involving the human perspective in all steps of the problem-solving process.

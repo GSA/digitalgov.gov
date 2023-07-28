@@ -2,13 +2,41 @@
   <main role="main" id="main-content">
     {{- partial "core/glossary.html" . -}}
     {{- partial "core/landing-hero.html" . -}}
-    <section class="dg-landing__body" id="content-start">
+    <article class="dg-landing__body" id="content-start">
       {{- .Content -}}
-    </section>
+      <h2>Featured Resources</h2>
+      <ul class="usa-card-group">
+        {{- range .Pages -}}
+          <li class="usa-card tablet:grid-col-4">
+            <div class="usa-card__container">
+              <div class="usa-card__header">
+                <h2 class="usa-card__heading">{{- .Title | markdownify -}}</h2>
+              </div>
+              <div class="usa-card__media usa-card__media--exdent">
+                <div class="usa-card__img">
+                  {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" .Params.image) -}}
+                </div>
+              </div>
+              <div class="usa-card__body">
+                <p>{{- .Params.summary | markdownify -}}</p>
+              </div>
+              <div class="usa-card__footer">
+                <a href="{{- .Permalink | absURL -}}" class="usa-button"
+                  >Read Guide</a
+                >
+              </div>
+            </div>
+          </li>
+        {{- end -}}
+      </ul>
+      {{- if .Params.additional_resources }}
+        {{- partial "core/render-markdown.html" (dict "Site" .Site "file" $.Params.additional_resources) -}}
+      {{- end -}}
+    </article>
     <a
       class="dg-attribution"
       href="https://www.vecteezy.com/free-vector/background"
-      >Background Vectors by Vecteezy</a
-    >
+      >Background Vectors by Vecteezy
+    </a>
   </main>
 {{ end }}

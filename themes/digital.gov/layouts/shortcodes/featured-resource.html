@@ -1,4 +1,5 @@
 {{- $resourcePath := (.Get "resourcePath") -}}
+{{- $kicker := (.Get "kicker") -}}
 {{- if $resourcePath -}}
   {{- $resource := .Site.GetPage $resourcePath -}}
   {{- if $resource -}}
@@ -9,7 +10,13 @@
         class="dg-featured-resource__body"
       >
         <div class="dg-featured-resource__text">
-          <p class="dg-featured-resource__text-kicker">Featured Resource</p>
+          <p class="dg-featured-resource__text-kicker">
+            {{- if $kicker -}}
+              {{- $kicker | markdownify -}}
+            {{- else -}}
+              Featured Resource
+            {{- end -}}
+          </p>
           <h2 class="dg-featured-resource__text-title">
             {{- $resource.Params.title -}}
           </h2>

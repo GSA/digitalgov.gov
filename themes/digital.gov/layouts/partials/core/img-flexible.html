@@ -4,8 +4,11 @@
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $imgBaseCDN := printf "%s/%s" $cdnurl $thisimg.uid -}}
 {{- $imgExt := $thisimg.format -}}
-<img
-  class="dg-img-flexible"
-  src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
-  alt="{{- $thisimg.alt | markdownify -}}"
-/>
+
+{{- if $thisimg -}}
+  <img
+    class="dg-img-flexible"
+    src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
+    alt="{{- $thisimg.alt | markdownify -}}"
+  />
+{{- end -}}
