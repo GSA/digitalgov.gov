@@ -18,9 +18,9 @@ const {
   // goUsaApiKey,
   // shortUrl,
   // filename,
-  // filepath,
+  gitFilepath,
   // filepathUrl,
-  // editpathUrl,
+  gitEditpathUrl,
 } = githubScript.dataset;
 
 // return the branchlink as a link to github
@@ -80,9 +80,9 @@ function showLastCommit(data, branch) {
 jQuery(($) => {
   function buildEditFileLink() {
     // gitEditpathURL is set the <head>
-    if (gitEditpathURL !== undefined) {
+    if (gitEditpathUrl !== undefined) {
       // Build the edit link
-      const edit = `<a target='_blank' class='edit-file-link' href='${gitEditpathURL}' title='Edit in GitHub'>Edit</a>`;
+      const edit = `<a target='_blank' class='edit-file-link' href='${gitEditpathUrl}' title='Edit in GitHub'>Edit</a>`;
 
       // Insert the .edit-file-link html into the .edit-file div and remove the .hidden class
       // TODO: replace jquery methods with native javascript

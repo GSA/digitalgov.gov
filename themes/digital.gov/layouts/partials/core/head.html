@@ -272,11 +272,11 @@
     {{ else }}
     {{- end -}}"
     data-filename="{{ with .File -}}{{- .LogicalName -}}{{- end }}"
-    data-filepath="{{ with .File -}}{{ $path }}{{- end }}"
+    data-git-filepath="{{ with .File -}}{{ $path }}{{- end }}"
     data-filepath-url="{{ with .File -}}
       {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}
     {{- end }}"
-    data-editpath-url="{{ with .File -}}
+    data-git-editpath-url="{{ with .File -}}
       {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}
     {{- end }}"
   ></script>
