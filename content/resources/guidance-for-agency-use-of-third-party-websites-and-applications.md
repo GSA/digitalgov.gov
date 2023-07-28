@@ -11,7 +11,7 @@ authors:
 
 This Memorandum requires Federal agencies to take specific steps to protect individual privacy whenever they use third-party websites and applications to engage with the public.
 
-<a class="button" style="color: #000000" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-23.pdf">View Guidance for Agency Use of Third-Party Websites and Applications</a>
+<a class="button" style="color: #000000" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf">View Guidance for Agency Use of Third-Party Websites and Applications</a>
 
 ## Related Links
 
