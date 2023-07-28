@@ -15,7 +15,7 @@ Digital.gov provides guidance on building better digital services in government.
 
 We’re always on the lookout for contributions from our community members. Keep reading for more information on the requirements and how to contribute.
 
-{{< box color="base-light" >}} 
+{{< box color="light-blue" >}} 
 **Contribution requirements**
 
 **Who:** We welcome insights and expertise from folks across all levels of experience. You must belong to at least one Digital.gov community and be a federal employee or contractor with a .gov or .mil email. Federal employees must have approval from their supervisors for all work submitted to Digital.gov. Federal contractors must have approval from their federal product manager, COR, or both. We cannot accept promotional content or pitches from the public.
