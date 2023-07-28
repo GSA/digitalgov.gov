@@ -1,10 +1,14 @@
 {{ define "content" }}
   <main role="main" id="main-content">
-    <header class="dg-landing__hero">
-      <h1>Landing Page Header</h1>
-    </header>
-    <section class="dg-landing__body">
-      <h1>Landing Page Body</h1>
+    {{- partial "core/glossary.html" . -}}
+    {{- partial "core/landing-hero.html" . -}}
+    <section class="dg-landing__body" id="content-start">
+      {{- .Content -}}
     </section>
+    <a
+      class="dg-attribution"
+      href="https://www.vecteezy.com/free-vector/background"
+      >Background Vectors by Vecteezy</a
+    >
   </main>
 {{ end }}

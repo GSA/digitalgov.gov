@@ -1,7 +1,27 @@
-.dg-landing__hero {
-  //Placeholder
-}
+@use "uswds-core" as *;
 
 .dg-landing__body {
-  //Placeholder
+  margin: 0 units(15) units(5) units(15);
+
+  a {
+    color: color($theme-link-color);
+    display: inline;
+    text-decoration: underline;
+  }
+
+  a:hover {
+    border: none;
+    color: color($theme-link-color);
+  }
+
+  h1 {
+    font-size: 3em;
+    font-weight: font-weight("heavy");
+  }
+
+  p {
+    @include u-font("sans", "lg");
+    font-weight: font-weight("light");
+    max-width: 100%;
+  }
 }
