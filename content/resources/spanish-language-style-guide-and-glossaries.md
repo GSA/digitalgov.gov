@@ -8,6 +8,7 @@ topics:
 authors:
   - lgodfrey
   - lmartinez
+
 ---
 
 Spanish Language Style Guides are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in Spanish. The guide contains information on grammar and style issues as well as glossaries to standardize the use of Spanish across government.
@@ -25,3 +26,4 @@ The guides below were peer reviewed by [Leticia Molinero](http://www.anle.us/344
 - [Information Technology Terms]({{< ref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}} "Spanish Language Style Guide & Glossaries: Information Technology Terms")
 - [Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")
 - [Spanish Health Care Terms in the United States]({{< ref "spanish-health-care-terms-in-the-united-states.md" >}} "Spanish Health Care Terms in the United States")
+- [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}} "Bilingual Glossaries, Dictionaries, and Style Guides")&mdash;Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.
