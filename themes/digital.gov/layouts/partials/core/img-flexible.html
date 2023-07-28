@@ -1,0 +1,11 @@
+{{- $thisuid := .uid -}}
+{{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
+{{- $thisimg := index $.Site.Data.images $thisuid -}}
+{{- $cdnurl := .Site.Params.cdnurl -}}
+{{- $imgBaseCDN := printf "%s/%s" $cdnurl $thisimg.uid -}}
+{{- $imgExt := $thisimg.format -}}
+<img
+  class="dg-img-flexible"
+  src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
+  alt="{{- $thisimg.alt | markdownify -}}"
+/>

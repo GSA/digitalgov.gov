@@ -1,0 +1,23 @@
+{{- $resourcePath := (.Get "resourcePath") -}}
+{{- if $resourcePath -}}
+  {{- $resource := .Site.GetPage $resourcePath -}}
+  {{- if $resource -}}
+
+    <div class="dg-featured-resource">
+      <a href="{{- $resource.Permalink | absURL -}}" class="dg-featured-resource__body">
+        <div class="dg-featured-resource__text">
+          <p class="dg-featured-resource__text-kicker">Featured Resource</p>
+          <h2 class="dg-featured-resource__text-title">
+            {{- $resource.Params.title -}}
+          </h2>
+          <p class="dg-featured-resource__text-description">
+            {{- $resource.Params.summary -}}
+          </p>
+        </div>
+        <div class="dg-featured-resource__image">
+          {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" $resource.Params.image) -}}
+        </div>
+      </a>
+    </div>
+  {{- end -}}
+{{- end -}}
