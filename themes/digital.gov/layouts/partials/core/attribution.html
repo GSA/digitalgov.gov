@@ -7,11 +7,10 @@
 
 
 <p class="dg-attribution">
+  Credit:&nbsp
   {{- if $thisimg.credit -}}
-    Credit:&nbsp
     {{ $thisimg.credit | markdownify }}
   {{- else if $thisimg.caption -}}
-    Credit:&nbsp
     {{ $thisimg.caption | markdownify }}
   {{- end -}}
 </p>
