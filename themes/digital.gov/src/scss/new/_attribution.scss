@@ -6,7 +6,7 @@
   @include u-text("italic");
   @include u-font("sans", "xs");
   @include at-media("tablet") {
-    margin-top: -1rem;
     margin-bottom: units(1);
+    margin-top: -1rem;
   }
 }

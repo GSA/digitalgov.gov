@@ -18,7 +18,8 @@
     font-weight: font-weight("heavy");
   }
 
-  p, ul {
+  p,
+  ul {
     @include u-font("sans", "lg");
     font-weight: font-weight("light");
     max-width: 100%;
