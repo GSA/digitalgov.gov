@@ -11,7 +11,6 @@ aliases:
   - /contribute/
 
 ---
-## Contribute to Digital.gov
 Digital.gov provides guidance on building better digital services in government. Do you have a case study or success story to share? Did your team recently accomplish something noteworthy? 
 
 We’re always on the lookout for contributions from our community members. Keep reading for more information on the requirements and how to contribute.
