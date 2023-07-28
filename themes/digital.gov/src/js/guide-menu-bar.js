@@ -3,10 +3,14 @@ const deviceBreakpoint = 480;
 const menuBarScrollOffsetMobile = 90;
 const menuBarScrollOffsetFull = 270;
 const menuBarScrollOffsetDefault = 65;
+let menuBarLinks = null;
+let menuBarImage = null;
 
 const menuBar = document.querySelector(".dg-guide__menu-bar");
-const menuBarLinks = menuBar.querySelector(".dg-guide__menu-bar-links");
-const menuBarImage = menuBar.querySelector(".dg-guide__menu-bar-image");
+if (menuBar) {
+  menuBarLinks = menuBar.querySelector(".dg-guide__menu-bar-links");
+  menuBarImage = menuBar.querySelector(".dg-guide__menu-bar-image");
+}
 
 // Scroll the guide menu bar so that the currently selected item is in view
 function scrollMenuBar(offset) {
