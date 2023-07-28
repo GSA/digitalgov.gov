@@ -1,17 +1,12 @@
 // Uses manual breakpoints because USWDS breakpoints are not accessible within JS
 const deviceBreakpoint = 480;
-const menuBarScrollOffsetMobile = 80;
-const menuBarScrollOffsetFull = 240;
-const menuBarScrollOffsetDefault = 30;
+const menuBarScrollOffsetMobile = 90;
+const menuBarScrollOffsetFull = 270;
+const menuBarScrollOffsetDefault = 65;
 
 const menuBar = document.querySelector(".dg-guide__menu-bar");
 const menuBarLinks = menuBar.querySelector(".dg-guide__menu-bar-links");
-const menuBarImageFull = menuBar.querySelector(
-  ".dg-guide__menu-bar-image.full"
-);
-const menuBarImageMobile = menuBar.querySelector(
-  ".dg-guide__menu-bar-image.mobile"
-);
+const menuBarImage = menuBar.querySelector(".dg-guide__menu-bar-image");
 
 // Scroll the guide menu bar so that the currently selected item is in view
 function scrollMenuBar(offset) {
@@ -25,19 +20,17 @@ function intersection(e) {
   // Check if menu bar intersected the top of the page
   if (!e.isIntersecting && e.boundingClientRect.top < 1) {
     menuBar.classList.add("sticky");
+    menuBarImage.removeAttribute("hidden");
 
     // Check if viewing on mobile device
     if (window.innerWidth < deviceBreakpoint) {
-      menuBarImageMobile.removeAttribute("hidden");
       scrollMenuBar(menuBarScrollOffsetMobile);
     } else {
-      menuBarImageFull.removeAttribute("hidden");
       scrollMenuBar(menuBarScrollOffsetFull);
     }
     // Menu bar is no longer intersecting
   } else {
-    menuBarImageMobile.setAttribute("hidden", "");
-    menuBarImageFull.setAttribute("hidden", "");
+    menuBarImage.setAttribute("hidden", "");
     menuBar.classList.remove("sticky");
     scrollMenuBar(menuBarScrollOffsetDefault);
   }
