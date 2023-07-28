@@ -32,6 +32,7 @@
   top: units(15);
 }
 
+// Needed to corrrect for header height when scrolling on guide pages
 html {
   scroll-padding-top: units(15);
 }
