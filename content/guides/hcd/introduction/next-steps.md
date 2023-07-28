@@ -23,4 +23,4 @@ You may also wish to review these additional research methods:
 
 Think of the HCD Guides as if it were a travel series through design. In the same way you can collect travel guides to Kyoto and Tokyo and Nagasaki instead of a single, lengthy all-Japan travel guide, our HCD Guide series provides two volumes for each phase of the HCD process: a concept guide, focusing on why the phase works the way it does, and an operations guide with checklists and frameworks to help with the how of the phase.
 
-[HCD Guides - Background](https://docs.google.com/document/d/1GalBoT0V3H4vYQ-IvCVM5M3MGQy_CiC4JDqNpjl7Lh4/edit#heading=h.9irfytfexxic)–Learn about the origins of the HCD Guides.
+{{< featured-resource resourcePath = "/guides/hcd/introduction/background">}}
