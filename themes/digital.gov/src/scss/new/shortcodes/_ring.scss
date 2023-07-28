@@ -1,0 +1,13 @@
+@use "uswds-core" as *;
+
+.ring {
+  @include u-border("primary", 2px);
+  border-radius: radius("lg");
+  margin-bottom: units(1);
+  padding: units(2);
+
+  legend {
+    font-size: 2vw;
+    font-weight: font-weight("semibold");
+  }
+}

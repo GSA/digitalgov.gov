@@ -1,0 +1,8 @@
+{{- $title := (.Get "title") -}}
+
+<fieldset class="ring">
+  <legend>
+    {{- $title -}}
+  </legend>
+  {{ .Inner | markdownify }}
+</fieldset>
