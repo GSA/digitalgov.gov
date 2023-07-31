@@ -1,12 +1,11 @@
 
-  # https://s3.amazonaws.com/digitalgov/guide-site-scanning.png
+  # https://s3.amazonaws.com/digitalgov/guide-site-scanning.jpg
   # Image shortcode: {{< img src=guide-site-scanning >}}'
-  date     :  2023-07-10 21:08:48 -0400
+  date     :  2023-07-31 21:32:15 -0400
   uid      :  guide-site-scanning
-  width    :  600
-  height   :  600
-  format   :  png
-  credit   :  kerismaker via Canva.com
-  caption  :  Site Scanning Guide Header Image
-  alt      : SEO Analysis
-  
+  width    :  7116
+  height   :  5209
+  format   :  jpg
+  credit   :  Visual Generation, iStock, Getty Images Plus
+  caption  :  
+  alt      :  A woman with a magnifying glass inspects an illustration of a website on a desktop computer

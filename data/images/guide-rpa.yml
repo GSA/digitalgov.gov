@@ -1,12 +1,11 @@
 
-  # https://s3.amazonaws.com/digitalgov/guide-rpa.png
+  # https://s3.amazonaws.com/digitalgov/guide-rpa.jpg
   # Image shortcode: {{< img src=guide-rpa >}}'
-  date     :  2023-07-10 21:08:38 -0400
+  date     :  2023-07-31 21:32:30 -0400
   uid      :  guide-rpa
-  width    :  600
-  height   :  600
-  format   :  png
-  credit   :  veronika-oliinyks-images via Canva.com
-  caption  :  RPA Guide Header Image
-  alt      : Vector illustration of developers working on a website
-  
+  width    :  4500
+  height   :  4500
+  format   :  jpg
+  credit   :  Yulia Prykina, iStock, Getty Images Plus
+  caption  :  
+  alt      :  A robotic arm with a magnifying glass searches for bugs in a mobile application

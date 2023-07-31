@@ -1,12 +1,12 @@
 
-  # https://s3.amazonaws.com/digitalgov/guide-dap.png
+  # https://s3.amazonaws.com/digitalgov/guide-dap.jpg
   # Image shortcode: {{< img src=guide-dap >}}'
-  date     :  2023-07-10 21:04:56 -0400
+  date     :  2023-07-31 21:33:59 -0400
   uid      :  guide-dap
-  width    :  600
-  height   :  600
-  format   :  png
-  credit   :  vectorsmarket15 via Flaticon
-  caption  :  DAP Guide Header Image
-  alt      : Digital Analytics Computer Illustration
-  
+  width    :  6458
+  height   :  3871
+  format   :  jpg
+  credit   :  drogatnev, iStock, Getty Images Plus
+  caption  :  
+  alt      :  Business people working on data analytics for the web
+
