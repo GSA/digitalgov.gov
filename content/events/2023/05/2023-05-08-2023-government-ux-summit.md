@@ -66,6 +66,8 @@ Welcome
 
 {{< asset-static file="2023-ux-summit-session-1.pptx" label="View the slides (PowerPoint presentation, 1.0 MB, 25 pages)" >}}
 
+{{< youtube LE6F_X91UF8 >}}
+
 {{< img-right src="opm-svg-seal" >}}
 
 Design research with the public can be difficult. It is a balancing act between [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) requirements, time and funding constraints, and the desire to reach a wide, diverse pool of users. OPM’s USAJOBS Program Office is exploring these challenges to build inclusive design research practices.
@@ -98,6 +100,8 @@ In this presentation, we will share actionable tips about managing project logis
 #### Lessons from the NIH _All of Us_ Research Program: Making DNA information more accessible
 
 {{< asset-static file="2023-ux-summit-session-2.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 36 pages)" >}}
+
+{{< youtube d_vl9Gv8S9w >}}
 
 {{< img-right src="hhs-svg-seal" >}}
 
@@ -135,6 +139,8 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 {{< asset-static file="2023-ux-summit-session-3a.pptx" label="View the slides (PowerPoint presentation, 3.2 MB, 13 pages)" >}}
 
+{{< youtube ppTxu65k9HE >}}
+
 {{< img-right src="va-svg-seal" >}}
 
 The accessibility community talks a lot about the "shift-left" methodology when it comes to thinking about accessibility — embedding accessibility early in a project to prevent problems instead of fixing them after they have happened. This session will provide actionable ways for you to build accessibility research into your practice, or to deepen it if you’ve already started. We hope to inspire UX designers across the government to continue raising the bar on accessibility.
@@ -159,6 +165,8 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 #### 2. Operation Rising Tide: Cognitive disability accommodations for the workforce
 
 {{< asset-static file="2023-ux-summit-session-3b.pptx" label="View the slides (PowerPoint presentation, 4.4 MB, 14 pages)" >}}
+
+{{< youtube mepIMmjjbCU >}}
 
 {{< img-right src="dod-seal" >}}
 
@@ -187,6 +195,8 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 {{< asset-static file="2023-ux-summit-session-4a.pptx" label="View the slides (PowerPoint presentation, 8.4 MB, 46 pages)" >}}
 
+{{< youtube 4Fz9xqu89XU >}}
+
 {{< img-right src="gsa-blue-logo-sq" >}}
 
 Metaphors are one of our most powerful methods of communication, but they’re often overlooked as worthy of design. Research shows that our metaphors don’t only reflect our way with words — they reflect the way we think. They are plain language tools to help us grasp complicated situations, and share our mental models with our collaborators.
@@ -214,6 +224,8 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 #### 2. Simplifying user experiences for complex content at USAGov
 
 {{< asset-static file="2023-ux-summit-session-4b.pptx" label="View the slides (PowerPoint presentation, 9.2 MB, 21 pages)" >}}
+
+{{< youtube cGpOQV1cfI8 >}}
 
 {{< img-right src="gsa-blue-logo-sq" >}}
 
@@ -250,6 +262,8 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 #### Reconsidering the consent form: the least user-friendly aspect of UX research
 
 {{< asset-static file="2023-ux-summit-session-5.pptx" label="View the slides (PowerPoint presentation, 2.3 MB, 23 pages)" >}}
+
+{{< youtube pedKxrbdwR4 >}}
 
 {{< img-right src="dhs-svg-seal" >}}
 

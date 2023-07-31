@@ -19,7 +19,7 @@ primary_image: "people-hold-pronoun-signs-ekaterina-tveitan-getty-images-1395383
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 1
+weight: 5
 
 ---
 

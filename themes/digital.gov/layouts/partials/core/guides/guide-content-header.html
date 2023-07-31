@@ -1,0 +1,14 @@
+<div class="dg-guide__content-header" id="content-start">
+  {{- if not .IsNode -}}
+    <h2 class="dg-guide__content-header-title">{{- .Title | markdownify -}}</h2>
+    <p class="dg-guide__content-header-deck">
+      {{- .Params.summary | markdownify -}}
+    </p>
+  {{ else }}
+    <h2 class="dg-guide__content-header-title">Overview</h2>
+  {{- end -}}
+  {{- partial "core/read-time.html" . -}}
+  {{- if .Params.summary_box -}}
+    {{- partial "core/usa-summary-box.html" (dict "modifier" "dg-guide-summary") -}}
+  {{- end -}}
+</div>

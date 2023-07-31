@@ -7,22 +7,8 @@
 
 
 <section class="dg-guide__content grid-container-desktop">
-  <header class="dg-guide__content-header" id="content-start">
-    {{- if not .IsNode -}}
-      <h1>{{- .Title | markdownify -}}</h1>
-      <div class="deck">
-        {{- .Params.summary | markdownify -}}
-      </div>
-    {{ else }}
-      <h1>Overview</h1>
-    {{- end -}}
-    {{- partial "core/read-time.html" . -}}
-    {{- if .Params.summary_box -}}
-      {{- partial "core/usa-summary-box.html" (dict "modifier" "dg-guide-summary") -}}
-    {{- end -}}
-    {{/* ? */}}
-  </header>
   <div data-edit-this="{{- $path -}}">
+    {{- partial "core/guides/guide-content-header.html" . -}}
     <div class="dg-guide__content-body usa-prose">
       {{- .Content -}}
     </div>
@@ -32,6 +18,5 @@
 <section class="dg-guide__footer grid-container-desktop">
   {{- partial "core/guides/guide-prev-next.html" . -}}
   {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-  {{- partial "core/attribution.html" . -}}
   {{- partial "core/touchpoints-form.html" . -}}
 </section>

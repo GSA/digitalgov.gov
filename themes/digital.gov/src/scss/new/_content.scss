@@ -11,14 +11,6 @@
 }
 
 .usa-prose {
-  a {
-    @include u-text("no-underline");
-
-    &:hover {
-      @include u-text("underline");
-    }
-  }
-
   // Applies the arrow to all external links
   // Select all the links with href that start with "http" and do not contain ".gov"
   // See https://css-tricks.com/attribute-selectors/
@@ -51,18 +43,6 @@
 
     clear: both;
   }
-
-  // Lists
-  // ul{
-  //   li{
-  //     @include u-line-height('sans', 3);
-  //     ul,
-  //     ol{
-  //       @include u-margin-top(1);
-  //       @include u-margin-bottom('105');
-  //     }
-  //   }
-  // }
 
   // Code
   code {

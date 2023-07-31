@@ -2,31 +2,18 @@
 {{ if .Params.guide }}
   {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
 {{ end }}
+{{- $title := cond .IsNode .Title .Parent.Title -}}
+{{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
+{{- $kicker := cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide" -}}
 
 
 <header class="dg-guide__header grid-container grid-container-desktop">
   <div class="dg-guide__header-title">
-    {{- if .IsNode -}}
-      <p class="kicker">
-        {{- cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide" -}}
-      </p>
-      <h1>{{- .Title | markdownify -}}</h1>
-      {{- if .Params.summary -}}
-        <div class="deck">
-          {{- .Params.summary | markdownify -}}
-        </div>
-      {{- end -}}
-    {{- else -}}
-      <p class="kicker">
-        {{- cond (isset .Parent.Params "kicker") .Parent.Params.kicker "Digital.gov Guide" -}}
-      </p>
-      <h1>{{- .Parent.Title | markdownify -}}</h1>
-      {{- if .Parent.Params.summary -}}
-        <div class="deck">
-          {{- .Parent.Params.summary | markdownify -}}
-        </div>
-      {{- end -}}
-    {{- end -}}
+    <p class="kicker">{{- $kicker | markdownify -}}</p>
+    <h1>{{- $title | markdownify -}}</h1>
+    <div class="deck">
+      {{- $summary | markdownify -}}
+    </div>
     {{- if $guide_data.showGlossary -}}
       <a href="javascript:void(0)" class="js-glossary-toggle">
         <svg width="16" height="16">

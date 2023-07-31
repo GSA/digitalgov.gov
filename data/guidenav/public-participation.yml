@@ -1,6 +1,5 @@
 # Navigation YML file for public participation guide
 showNextPrevious: true
-showReadTime: true
 showInPageNav: false
 nav:
 - title    : 'Overview'

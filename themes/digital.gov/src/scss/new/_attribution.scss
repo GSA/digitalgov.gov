@@ -1,12 +1,8 @@
 @use "uswds-core" as *;
 
 .dg-attribution {
-  @include u-display("flex");
-  @include u-flex("justify-center");
-  @include u-text("italic");
-  @include u-font("sans", "xs");
-  @include at-media("tablet") {
-    margin-bottom: units(1);
-    margin-top: -1rem;
-  }
+  @include u-font("sans", "3xs");
+  display: flex;
+  font-style: italic;
+  justify-content: center;
 }

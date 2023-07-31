@@ -7,21 +7,17 @@
 
 <div class="dg-guide__menu-bar">
   <div class="dg-guide__menu-bar-image-container">
-    <a
-      href="{{- "/" | relURL -}}"
-      title="{{- .Site.Title }} Home"
-      aria-label="{{- .Site.Title }} Home"
-    >
-      <img
-        class="dg-guide__menu-bar-image full"
-        src="{{- "/img/digitalgov-logo.svg" | relURL -}}"
-        alt="Digital Gov Logo"
-      />
-      <img
-        class="dg-guide__menu-bar-image mobile"
-        src="{{- "/img/digit-100.svg" | relURL -}}"
-        alt="Digital Gov Mobile Logo"
-      />
+    <a href="{{- "/" | relURL -}}" title="{{- .Site.Title }} Home">
+      <picture class="dg-guide__menu-bar-image" hidden>
+        <source
+          srcset="{{- "/img/digitalgov-logo.svg" | relURL -}}"
+          media="(min-width: 480px)"
+        />
+        <img
+          src="{{- "/img/digit-100.svg" | relURL -}}"
+          alt="Digital Gov Logo"
+        />
+      </picture>
     </a>
   </div>
   <nav class="dg-guide__menu-bar-links" aria-label="Secondary menu bar">
@@ -30,8 +26,7 @@
         {{- $item := . -}}
         {{- $page := $.Site.GetPage $item.path -}}
         <a
-          class="dg-guide__menu-bar-link"
-          id="{{ cond (eq $current_page $page.RelPermalink) "current" "" }}"
+          class="dg-guide__menu-bar-link {{ cond (eq $current_page $page.RelPermalink) "dg-current" "" }}"
           href="{{- $page.Permalink -}}"
           title="{{- $item.title -}}"
           >{{- $item.title -}}</a

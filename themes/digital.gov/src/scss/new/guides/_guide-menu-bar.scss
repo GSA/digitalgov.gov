@@ -12,18 +12,12 @@
   white-space: nowrap;
   z-index: 101;
 
-  &-image {
-    display: none;
+  &-image-container {
+    flex-shrink: 0;
     margin: 0 units(3);
-    &.full {
-      min-width: units("card");
-      width: units("card");
-    }
-    &.mobile {
-      width: units(3);
-    }
-    &.sticky {
-      display: inline;
+
+    img {
+      height: units(4);
     }
   }
 
@@ -37,15 +31,15 @@
       @include u-border-bottom("05", "primary", "solid");
       color: color("black");
     }
+
     &:visited {
       color: color("black");
     }
   }
 
   &-links {
-    -webkit-mask: linear-gradient(90deg, #0000, #000 5% 95%, #0900);
+    // Fade out overflowing items when scrolling
     mask: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
-    -ms-overflow-style: none; //Internet Explorer 10
     overflow-x: scroll;
     overflow-y: hidden;
     padding: 0 units(3);
@@ -56,8 +50,12 @@
     display: none;
   }
 
-  #current {
-    @include u-text("medium");
+  &.sticky {
+    justify-content: space-evenly;
+  }
+
+  .dg-current {
     @include u-border-bottom("05", "primary", "solid");
+    font-weight: font-weight("medium");
   }
 }

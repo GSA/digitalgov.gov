@@ -1,23 +1,22 @@
 # Navigation YML file for web analytics guide guide
 showNextPrevious: true
-showReadTime: true
 showInPageNav: false
 nav:
 - title    : 'Overview'
   path     : '/guides/web-analytics-playbook/_index.md'
-- title    : 'Foundation'
+- title    : 'Build'
   path     : '/guides/web-analytics-playbook/create-a-foundation-for-your-strategy.md'
-- title    : 'Action'
+- title    : 'Commit'
   path     : '/guides/web-analytics-playbook/commit-to-action.md'
 - title    : 'Implement'
   path     : '/guides/web-analytics-playbook/implement-wisely.md'
 - title    : "Configure"
   path     : '/guides/web-analytics-playbook/configure-your-tools-settings-carefully.md'
-- title    : "Metrics"
+- title    : "Measure"
   path     : '/guides/web-analytics-playbook/know-what-youre-looking-for.md'
-- title    : 'Democratize'
+- title    : 'Share'
   path     : '/guides/web-analytics-playbook/democratize-the-data.md'
-- title    : 'Invest'
+- title    : 'Train'
   path     : '/guides/web-analytics-playbook/invest-in-training-and-support.md'
-- title    : 'Continue'
+- title    : 'Iterate'
   path     : '/guides/web-analytics-playbook/do-it-continuously.md'

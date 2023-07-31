@@ -1,14 +1,13 @@
 showNextPrevious: true
-showReadTime: true
 showInPageNav: false
 nav:
 - title  : 'Overview'
   path   : '/guides/dap/_index.md'
-- title  : 'Add Site'
+- title  : 'Add Your Site'
   path   : '/guides/dap/add-your-site-dap.md'
-- title  : 'Questions'
+- title  : 'Common Questions'
   path   : '/guides/dap/common-questions-about-dap.md'
-- title  : 'Accessing'
+- title  : 'Access the Data'
   path   : '/guides/dap/gaining-access-to-dap-data.md'
-- title  : 'Sharing'
+- title  : 'Share DAP Data'
   path   : '/guides/dap/guidelines-for-sharing-dap-data.md'

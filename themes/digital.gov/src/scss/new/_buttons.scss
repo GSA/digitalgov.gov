@@ -55,6 +55,29 @@ a.btn {
   }
 }
 
+a.btn-home {
+  @include u-border("2px");
+  background-color: color("transparent");
+  margin: units(2);
+
+  &:first-of-type {
+    margin-bottom: 0;
+  }
+
+  @include at-media("tablet-lg") {
+    @include u-margin-x(0);
+  }
+
+  &:hover {
+    background-color: color("white");
+    border-color: color("white");
+    color: color("black");
+    span {
+      @include u-border-bottom("2px", "black", "solid");
+    }
+  }
+}
+
 a.btn-sm {
   @include u-padding-y("05");
   @include u-padding-x(1);
