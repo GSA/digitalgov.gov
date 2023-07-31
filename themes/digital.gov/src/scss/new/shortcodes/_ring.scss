@@ -7,7 +7,7 @@
   padding: units(2);
 
   legend {
-    font-size: 2vw;
+    @include u-font("sans", "lg");
     font-weight: font-weight("semibold");
   }
 }
