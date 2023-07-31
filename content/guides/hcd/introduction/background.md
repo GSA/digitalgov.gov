@@ -2,7 +2,6 @@
 date: 2023-07-24 09:00:00 -0500
 title: "HCD Background"
 guide: hcd-introduction
-summary: "Learn about the origins of the Human-Centered Design (HCD) Guides"
 ---
 
 ## Purpose
