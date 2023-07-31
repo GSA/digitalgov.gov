@@ -1,8 +1,6 @@
 @use "uswds-core" as *;
 
 .dg-landing__body {
-  margin: 0 units(15) units(5) units(15);
-
   a {
     color: color($theme-link-color);
   }
@@ -13,9 +11,19 @@
     text-decoration: underline;
   }
 
+  &-featured-resources {
+    font-size: units(4);
+    font-weight: font-weight("heavy");
+    margin-top: units(4);
+  }
+
   h1 {
     font-size: 3em;
     font-weight: font-weight("heavy");
+  }
+
+  .js-glossary-toggle {
+    display: inline;
   }
 
   p,
