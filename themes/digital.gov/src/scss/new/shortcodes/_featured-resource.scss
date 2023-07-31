@@ -29,6 +29,7 @@
     display: none;
     flex-shrink: 0;
     margin-left: units(3);
+    mix-blend-mode: multiply;
 
     @include at-media("mobile-lg") {
       display: inline;

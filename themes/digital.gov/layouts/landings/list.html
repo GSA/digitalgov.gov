@@ -1,10 +1,8 @@
 {{ define "content" }}
   <main role="main" id="main-content">
     {{- partial "core/glossary.html" . -}}
-
-
     <header class="dg-landing__hero">
-      {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" $.Params.image) -}}
+      {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" $.Params.image "small" false) -}}
       <div class="dg-landing__hero-text">
         <h1>{{- .Params.title -}}</h1>
         <a href="#content-start" class="usa-button usa-button--big"
@@ -26,9 +24,9 @@
               <div class="usa-card__header">
                 <h2 class="usa-card__heading">{{- .Title | markdownify -}}</h2>
               </div>
-              <div class="usa-card__media usa-card__media--exdent">
+              <div class="usa-card__media usa-card__media--indent">
                 <div class="usa-card__img">
-                  {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" .Params.image) -}}
+                  {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" .Params.image "small" true) -}}
                 </div>
               </div>
               <div class="usa-card__body">

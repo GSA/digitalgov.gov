@@ -4,6 +4,7 @@
   @include at-media("tablet-lg") {
     align-items: center;
     display: flex;
+    gap: units(10);
     justify-content: center;
   }
 
@@ -11,10 +12,7 @@
     margin-top: units(5);
   }
 
-  &-image {
-    @include at-media("tablet-lg") {
-      margin-left: units(15);
-    }
+  .dg-img-flexible {
     margin-top: units(5);
     max-width: units("mobile");
   }
