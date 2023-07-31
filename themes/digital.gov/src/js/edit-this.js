@@ -51,6 +51,8 @@ jQuery(($) => {
     const editIconDefaultClass = "far fa-edit";
     const editIconActiveClass = "fas fa-times";
 
+    console.log($editIcon);
+
     // If the editing tool is already active
     if ($(".edit-tools").is(".active")) {
       // runs a function that removes edit tools from each item on the page that is editable.

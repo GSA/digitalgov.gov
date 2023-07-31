@@ -91,34 +91,7 @@
 
     <div id="clicks_iframe" class="display-none"></div>
 
-    <div class="edit-tools">
-      <button class="edit edit-open" aria-label="edit" type="button">
-        <svg
-          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-          aria-hidden="true"
-          focusable="false"
-        >
-          <use xlink:href="{{ "uswds/img/sprite.svg#edit" | relURL }}"></use>
-        </svg>
-      </button>
-      <a
-        class="edit edit-issue"
-        role="button"
-        target="_blank"
-        href="https://github.com/GSA/digitalgov.gov/issues/new?body=%0D%0A%2A%2A{{- .Title -}}%2A%2A%0D%0Ahttps%3A%2F%2Fdigital.gov%2F{{- .Permalink -}}%0D%0A%0D%0A---%0D%0A%0D%0A%2A%2APlease+describe+the+issue+clearly.+Include+a+screenshot+if+needed%2A%2A%0D%0A"
-      >
-        <svg
-          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-          aria-hidden="true"
-          focusable="false"
-        >
-          <use
-            xlink:href="{{ "uswds/img/sprite.svg#bug_report" | relURL }}"
-          ></use>
-        </svg>
-        <span class="usa-sr-only">Report an issue</span>
-      </a>
-    </div>
+    {{- partialCached "core/edit-this-button.html" . -}}
   </body>
 
   <script src="{{ "dist/js/jquery.min.js" | absURL }}"></script>
