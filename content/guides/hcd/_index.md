@@ -1,9 +1,6 @@
 ---
 title: "Human-Centered Design Guide Series"
-deck:
-summary:
-aliases:
-image: hcd-guide-hero
+image: hcd-guide-landing
 type: landings
 additional_resources: next-steps.md
 ---

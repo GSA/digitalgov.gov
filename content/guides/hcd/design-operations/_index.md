@@ -4,7 +4,7 @@ kicker: HCD Guide Series
 title: "HCD Design Operations Guide"
 summary: "How to design solutions based on discovery research" 
 guide: hcd-design-operations
-image: 
+image: hcd-design-operations
 layout: single
 weight: 5
 ---

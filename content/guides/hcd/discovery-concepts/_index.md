@@ -4,7 +4,7 @@ kicker: HCD Guide Series
 title: "HCD Discovery Concepts Guide"
 summary: "Explains the “why” behind conducting discovery research"
 guide: hcd-discovery-concepts
-image: 
+image: hcd-discovery-concepts
 layout: single
 weight: 2
 ---

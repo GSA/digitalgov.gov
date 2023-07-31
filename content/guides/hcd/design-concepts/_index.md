@@ -4,7 +4,7 @@ kicker: HCD Guide Series
 title: "HCD Design Concepts Guide"
 summary: "Key concepts of the design process"
 guide: hcd-design-concepts
-image: 
+image: hcd-design-concepts
 layout: single
 weight: 4
 ---

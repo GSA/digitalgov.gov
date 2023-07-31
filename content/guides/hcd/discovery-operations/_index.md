@@ -4,7 +4,7 @@ kicker: HCD Guide Series
 title: "HCD Discovery Operations Guide"
 summary: "Step-by-step guidance on how to conduct discovery research"
 guide: hcd-discovery-operations
-image: 
+image: hcd-discovery-operations
 layout: single
 weight: 3
 ---
