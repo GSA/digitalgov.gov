@@ -3,31 +3,44 @@
 jQuery(($) => {
   const { gitOrg, gitRepo, gitBranch } =
     document.querySelector("#githubRepo").dataset;
+
+  const githubEditLinks = document.querySelectorAll("*[data-edit-this]");
+  const editPageButton = document.querySelector(".edit-tools .edit-open");
+
   // loop through all data-edit-this items on page, add github link button and apply highlight class
   function enableEditThis() {
-    // TODO: replace each with native forEach
-    // eslint-disable-next-line func-names
-    $("*[data-edit-this]").each(function () {
-      const filepath = $(this).data("edit-this");
-      //
-      // Disabling no-undef & camelcase because these are defined in templates.
-      //
-      // eslint-disable-next-line no-undef, camelcase
-      const editLink = `<a class="edit-this-btn" href="https://github.com/${gitOrg}/${gitRepo}/edit/${gitBranch}/content/${filepath}" title="edit this" target="_blank"><span>edit</span></a>`;
-      // TODO: replace with native javascript methods
-      $(this).addClass("edit-this").append(editLink);
+    githubEditLinks.forEach((link) => {
+      let githubFilepath = link.getAttribute("data-edit-this");
+
+      const editSpan = Object.assign(document.createElement("span"), {
+        innerHTML: "edit",
+      });
+
+      const editLinkButton = Object.assign(document.createElement("a"), {
+        classList: "edit-this-btn",
+        href: `https://github.com/${gitOrg}/${gitRepo}/edit/${gitBranch}/content/${githubFilepath}`,
+        target: "_blank",
+        title: "edit this",
+      });
+
+      editLinkButton.appendChild(editSpan);
+      link.appendChild(editLinkButton);
+      link.classList.add("edit-this");
     });
   }
 
   // remove highlight and edit button from all editable items
   function disableEditThis() {
-    // eslint-disable-next-line func-names
-    $("*[data-edit-this]").each(function () {
-      // TODO: replace each with native forEach
-      $(this).removeClass("edit-this");
-      $(".edit-this-btn").remove();
+    githubEditLinks.forEach((link) => {
+      link.classList.remove("edit-this");
+      let editLinkElement = link.querySelector(".edit-this-btn");
+      editLinkElement.remove();
     });
   }
+
+  editPageButton.addEventListener("click", function (event) {
+    // event.preventDefault();
+  });
 
   // toggle edit tools when clicking on edit-tools button in lower right corner
   $(".edit-tools .edit-open").on("click", (e) => {

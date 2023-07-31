@@ -265,15 +265,7 @@
     data-git-org="{{ .Site.Params.git_org }}"
     data-git-repo="{{ .Site.Params.git_repo }}"
     data-git-branch="{{ $.Scratch.Get "branch" }}"
-    data-short-url="{{ if .Params.short_url -}}
-      {{- .Params.short_url -}}
-    {{ else }}
-    {{- end -}}"
-    data-filename="{{ with .File -}}{{- .LogicalName -}}{{- end }}"
     data-git-filepath="{{ with .File -}}{{ $path }}{{- end }}"
-    data-filepath-url="{{ with .File -}}
-      {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}
-    {{- end }}"
     data-git-editpath-url="{{ with .File -}}
       {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}
     {{- end }}"
