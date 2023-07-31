@@ -4,7 +4,7 @@ kicker: HCD Guide Series
 title: "Introduction to Human-Centered Design"
 summary: "Everything you need to know to get started with our human-centered design series."
 guide: hcd-introduction
-image: hcd-guide-intro
+image: 
 layout: single
 weight: 1
 ---
