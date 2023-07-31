@@ -1,16 +1,17 @@
 // Sets the github URL link and button styles for each resource when edit-mode is enabled
-
-jQuery(($) => {
+// eslint-disable-next-line func-names
+(function () {
   const { gitOrg, gitRepo, gitBranch } =
     document.querySelector("#githubRepo").dataset;
 
   const githubEditLinks = document.querySelectorAll("*[data-edit-this]");
-  const editPageButton = document.querySelector(".edit-tools .edit-open");
+  const editToolsButton = document.querySelector(".edit-tools");
+  // const editIssueButton = document.querySelector(".edit-issue");
 
   // loop through all data-edit-this items on page, add github link button and apply highlight class
   function enableEditThis() {
     githubEditLinks.forEach((link) => {
-      let githubFilepath = link.getAttribute("data-edit-this");
+      const githubFilepath = link.getAttribute("data-edit-this");
 
       const editSpan = Object.assign(document.createElement("span"), {
         innerHTML: "edit",
@@ -31,50 +32,41 @@ jQuery(($) => {
 
   // remove highlight and edit button from all editable items
   function disableEditThis() {
+    // eslint-disable-next-line func-names
     githubEditLinks.forEach((link) => {
       link.classList.remove("edit-this");
-      let editLinkElement = link.querySelector(".edit-this-btn");
+      const editLinkElement = link.querySelector(".edit-this-btn");
       editLinkElement.remove();
     });
   }
 
-  editPageButton.addEventListener("click", function (event) {
-    // event.preventDefault();
-  });
+  // eslint-disable-next-line func-names
+  editToolsButton.addEventListener("click", function (event) {
+    event.preventDefault();
 
-  // toggle edit tools when clicking on edit-tools button in lower right corner
-  $(".edit-tools .edit-open").on("click", (e) => {
-    // TODO: replace on with addEventListener
-    e.preventDefault();
-
-    const $editIcon = $(this).find("i");
-    const editIconDefaultClass = "far fa-edit";
-    const editIconActiveClass = "fas fa-times";
-
-    console.log($editIcon);
-
-    // If the editing tool is already active
-    if ($(".edit-tools").is(".active")) {
-      // runs a function that removes edit tools from each item on the page that is editable.
+    if (this.classList.contains("active")) {
       disableEditThis();
-      // remove the active class from the edit button
-      $(".edit-tools").removeClass("active");
-      // swap out the icon in the edit button
-      $editIcon.addClass(editIconDefaultClass).removeClass(editIconActiveClass);
+      this.classList.remove("active");
     } else {
       enableEditThis();
-      $(".edit-tools").addClass("active");
-      $editIcon.addClass(editIconActiveClass).removeClass(editIconDefaultClass);
+      this.classList.add("active");
     }
   });
-});
+
+  // eslint-disable-next-line func-names
+  // editIssueButton.addEventListener("keydown", function (event) {});
+  // if (event.keyCode === 32) {
+
+  // }
+})();
 
 // TODO: refactor to use native javascript
 // keycode 32 handles spacebar
-$(() => {
-  $(".edit-issue").on("keypress", (e) => {
-    if (e.code === 32) {
-      this.click();
-    }
-  });
-});
+// $(() => {
+//   $(".edit-issue").on("keypress", (e) => {
+//     if (e.code === 32) {
+//       console.log("spacebar pressed");
+//       this.click();
+//     }
+//   });
+// });
