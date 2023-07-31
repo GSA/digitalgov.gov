@@ -1,9 +1,8 @@
 // Sets the github URL link and button styles for each resource when edit-mode is enabled
 
 jQuery(($) => {
-  // only returns git information in scope for the page, doesn't update scope for each link in enableEditThis on landing pages
-  const githubScript = document.querySelector("#githubRepo");
-  const { gitOrg, gitRepo, gitBranch } = githubScript.dataset;
+  const { gitOrg, gitRepo, gitBranch } =
+    document.querySelector("#githubRepo").dataset;
   // loop through all data-edit-this items on page, add github link button and apply highlight class
   function enableEditThis() {
     // TODO: replace each with native forEach

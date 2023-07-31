@@ -3,25 +3,8 @@
 // Sets the timestamp for the last github update timestamp
 /* eslint-disable no-undef */
 
-const githubScript = document.querySelector("#githubRepo");
-// const gitOrg = githubScript.dataset.gitOrg;
-// const gitRepo = githubScript.dataset.gitRepo;
-// const gitBranch = githubScript.dataset.gitBranch;
-// const gitFilepath = githubScript.dataset.filepath;
-// const gitEditpathURL = githubScript.dataset.editpathUrl;
-
-const {
-  gitOrg,
-  gitRepo,
-  gitBranch,
-  // goUsaUsername,
-  // goUsaApiKey,
-  // shortUrl,
-  // filename,
-  gitFilepath,
-  // filepathUrl,
-  gitEditpathUrl,
-} = githubScript.dataset;
+const { gitOrg, gitRepo, gitBranch, gitFilepath, gitEditpathUrl } =
+  document.querySelector("#githubRepo").dataset;
 
 // return the branchlink as a link to github
 function getBranchLink(branch) {
