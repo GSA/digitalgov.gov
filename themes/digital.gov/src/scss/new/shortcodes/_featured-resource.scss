@@ -28,6 +28,7 @@
   &__image {
     display: none;
     flex-shrink: 0;
+    margin-left: units(3);
 
     @include at-media("mobile-lg") {
       display: inline;

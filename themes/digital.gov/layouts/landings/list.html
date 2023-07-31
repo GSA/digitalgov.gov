@@ -2,9 +2,12 @@
   <main role="main" id="main-content">
     {{- partial "core/glossary.html" . -}}
     {{- partial "core/landing-hero.html" . -}}
-    <article class="dg-landing__body" id="content-start">
+    <article
+      class="dg-landing__body grid-container grid-container-desktop"
+      id="content-start"
+    >
       {{- .Content -}}
-      <h2>Featured Resources</h2>
+      <h2 class="dg-landing__body-featured-resources">Featured Resources</h2>
       <ul class="usa-card-group">
         {{- range .Pages -}}
           <li class="usa-card tablet:grid-col-4">
@@ -33,10 +36,5 @@
         {{- partial "core/render-markdown.html" (dict "Site" .Site "file" $.Params.additional_resources) -}}
       {{- end -}}
     </article>
-    <a
-      class="dg-attribution"
-      href="https://www.vecteezy.com/free-vector/background"
-      >Background Vectors by Vecteezy
-    </a>
   </main>
 {{ end }}
