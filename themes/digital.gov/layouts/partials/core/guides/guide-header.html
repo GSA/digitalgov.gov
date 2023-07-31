@@ -4,7 +4,7 @@
 {{ end }}
 {{- $title := cond .IsNode .Title .Parent.Title -}}
 {{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
-{{- $kicker := cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide" -}}
+{{- $kicker := cond .IsNode (cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide") (cond (isset .Parent.Params "kicker") .Parent.Params.kicker "Digital.gov Guide") -}}
 
 
 <header class="dg-guide__header grid-container grid-container-desktop">
@@ -29,6 +29,7 @@
   {{ if $uid }}
     <div class="dg-guide__header-image">
       {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" $uid) -}}
+      {{- partial "core/attribution.html" . -}}
     </div>
   {{- end -}}
 </header>
