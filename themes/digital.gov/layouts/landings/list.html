@@ -41,6 +41,7 @@
       {{- if .Params.additional_resources }}
         {{- partial "core/render-markdown.html" (dict "Site" .Site "file" $.Params.additional_resources) -}}
       {{- end -}}
+      {{- partial "core/attribution.html" . -}}
     </article>
   </main>
 {{ end }}

@@ -51,6 +51,10 @@
       margin-top: units(4);
     }
 
+    .dg-attribution {
+      @include u-font("sans", "2xs");
+    }
+
     h1 {
       font-size: 3em;
       font-weight: font-weight("heavy");

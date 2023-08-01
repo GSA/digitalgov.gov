@@ -28,7 +28,7 @@
   {{- $uid := cond .IsNode .Params.Image .Parent.Params.Image -}}
   {{ if $uid }}
     <div class="dg-guide__header-image">
-      {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" $uid "small" true) -}}
+      {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" $uid "small" false) -}}
     </div>
   {{- end -}}
 </header>
