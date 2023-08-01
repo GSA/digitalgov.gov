@@ -1,6 +1,6 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "Evaluate and Report"
+title: "Evaluate and report"
 deck: ""
 summary: "Learn the importance of being transparent when reporting public participation."
 guide: public-participation

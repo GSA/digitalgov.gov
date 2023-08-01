@@ -1,6 +1,6 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "Establish Goals"
+title: "Establish goals"
 deck: ""
 summary: "Learn how to clearly define and communicate your objectives."
 guide: public-participation

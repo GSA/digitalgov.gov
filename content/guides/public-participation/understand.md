@@ -1,6 +1,6 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "Understand the Playing Field"
+title: "Understand the playing field"
 deck: ""
 summary: "Learn how to understand and empower your participants."
 summary_box: true
