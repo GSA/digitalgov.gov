@@ -95,6 +95,11 @@ $communities-of-practice: (
     font-size: size("sans", "2xs");
   }
 
+  .usa-button {
+    font-size: size("sans", "xs");
+    line-height: 1.3;
+  }
+
   // Make web managers the featured card.
   .cop-card--WCM {
     grid-column: 1 / 3;
