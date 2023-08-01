@@ -1,8 +1,8 @@
 
-  # https://s3.amazonaws.com/digitalgov/guide-web-analytics.png
+  # https://s3.amazonaws.com/digitalgov/guide-web-analytics-playbook.png
   # Image shortcode: {{< img src=guide-web-analytics >}}'
   date     :  2023-07-31 21:31:34 -0400
-  uid      :  guide-web-analytics
+  uid      :  guide-web-analytics-playbook
   width    :  1200
   height   :  630
   format   :  png
