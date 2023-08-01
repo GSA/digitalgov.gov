@@ -6,7 +6,7 @@
 slug: introduction-accessibility
 date: 2019-12-04 8:00:00 -0500
 title: "An introduction to accessibility"
-deck: ""
+deck: "An introduction to accessibility, and why it matters."
 summary: "An introduction to accessibility, and why it matters."
 
 # see all topics at https://digital.gov/topics
