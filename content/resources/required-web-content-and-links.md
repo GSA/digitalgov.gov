@@ -1,7 +1,7 @@
 ---
 date: 2011-12-05 12:37:26 -0400
 title: "Required web content and links"
-deck: "A list of required links that all federal websites need to have"
+deck: "A list of required links that all federal websites need to have."
 summary: "Various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website."
 authors:
   - ndavidson
