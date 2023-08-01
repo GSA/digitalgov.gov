@@ -2,7 +2,8 @@
 
 .dg-attribution {
   @include u-font("sans", "3xs");
+  color: color("gray-cool-60");
   display: flex;
-  font-style: italic;
+  font-weight: font-weight("light");
   justify-content: center;
 }
