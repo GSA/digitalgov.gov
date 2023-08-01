@@ -6,8 +6,8 @@
 slug: an-introduction-github
 date: 2020-06-18 13:00:00 -0500
 title: "An introduction to GitHub"
-deck: "How to use GitHub in easy, practical steps to create, manage and publish website content. "
-summary: "Practical steps for managing website content in GitHub"
+deck: "How to use GitHub in easy, practical steps to create, manage, and publish website content."
+summary: "Practical steps for managing website content in GitHub."
 
 # see all topics at https://digital.gov/topics
 topics:
