@@ -5,7 +5,7 @@
 slug: social-media
 date: 2019-12-12 19:00:00 -0500
 title: "Social Media"
-summary: "Brings together government social media communicators to improve social media outreach efforts."
+summary: "Improve social media outreach efforts."
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -41,7 +41,6 @@ community_list:
     join_cop_button: "Social Media community members"
 
 primary_image: "white-bg-digital-gov-card-community"
-
 ---
 
 The Social Media Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists in government as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.

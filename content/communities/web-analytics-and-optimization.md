@@ -2,7 +2,7 @@
 slug: web-analytics-and-optimization
 date: 2021-07-07 09:13:00 -0500
 title: Web Analytics and Optimization
-summary: "Brings together government analytics practitioners to make better decisions using web analytics and other optimization strategies."
+summary: "Make better decisions using web analytics and other optimization strategies."
 # See all topics at https://digital.gov/topics
 topics:
   - a-b-testing
@@ -46,7 +46,6 @@ community_list:
     join_cop_button: "Web Analytic community members"
 
 primary_image: "digital-gov-card-community"
-
 ---
 
 In government, those with analytics as part of their duties are faced with a fast-paced, ever-changing environment. Technologies, strategies, and tools change regularly. This community aims to uncover best practices, case studies, tips, and tools for web analytics and optimization.
@@ -61,7 +60,7 @@ We’re government website analysts, developers, content strategists, user exper
 
 ## Related Resources
 
-* [Digital Analytics Program](https://digital.gov/guides/dap/)
-* [Search.gov](https://search.gov/)
-* [U.S. Web Design System](https://designsystem.digital.gov/)
-* [Web Analytics Playbook](https://digital.gov/guides/web-analytics-playbook/)
+- [Digital Analytics Program](https://digital.gov/guides/dap/)
+- [Search.gov](https://search.gov/)
+- [U.S. Web Design System](https://designsystem.digital.gov/)
+- [Web Analytics Playbook](https://digital.gov/guides/web-analytics-playbook/)

@@ -4,8 +4,8 @@
 
 slug: user-experience
 date: 2014-01-13 2:35:36 -0400
-title: 'User Experience'
-summary: "Brings together government user experience practitioners to create better user-centered products for the public."
+title: "User Experience"
+summary: "Create better user-centered products for the public."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -43,7 +43,6 @@ authors:
   - jean-fox
 
 primary_image: "white-bg-digital-gov-card-community"
-
 ---
 
 Join other government user experience practitioners and learn how to make better user-centered products. Members of the User Experience Community of Practice can:
@@ -55,10 +54,10 @@ Join other government user experience practitioners and learn how to make better
 
 ## What We Do
 
-* Create case studies of why UX works!
-* Webinars and educational sessions for government web managers, usability specialists, project managers, etc…
-* User Experience (UX) networking events
-* Connect people to useful UX resources
+- Create case studies of why UX works!
+- Webinars and educational sessions for government web managers, usability specialists, project managers, etc…
+- User Experience (UX) networking events
+- Connect people to useful UX resources
 
 ## Who We Are
 
@@ -66,4 +65,4 @@ Our community welcomes program managers, subject matter experts, designers, deve
 
 ## Related Resources
 
-* https://www.usability.gov
+- https://www.usability.gov
