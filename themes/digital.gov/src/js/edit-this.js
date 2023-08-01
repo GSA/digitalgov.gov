@@ -6,9 +6,10 @@
 
   const githubEditLinks = document.querySelectorAll("*[data-edit-this]");
   const editToolsButton = document.querySelector(".edit-tools");
-  // const editIssueButton = document.querySelector(".edit-issue");
 
-  // loop through all data-edit-this items on page, add github link button and apply highlight class
+  console.log(window.location.pathname);
+
+  // get all github resources on page, add github link button to markup and apply highlight class
   function enableEditThis() {
     githubEditLinks.forEach((link) => {
       const githubFilepath = link.getAttribute("data-edit-this");
@@ -30,7 +31,7 @@
     });
   }
 
-  // remove highlight and edit button from all editable items
+  // remove highlight class and edit button from markup
   function disableEditThis() {
     // eslint-disable-next-line func-names
     githubEditLinks.forEach((link) => {
@@ -52,21 +53,4 @@
       this.classList.add("active");
     }
   });
-
-  // eslint-disable-next-line func-names
-  // editIssueButton.addEventListener("keydown", function (event) {});
-  // if (event.keyCode === 32) {
-
-  // }
 })();
-
-// TODO: refactor to use native javascript
-// keycode 32 handles spacebar
-// $(() => {
-//   $(".edit-issue").on("keypress", (e) => {
-//     if (e.code === 32) {
-//       console.log("spacebar pressed");
-//       this.click();
-//     }
-//   });
-// });
