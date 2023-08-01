@@ -27,23 +27,22 @@
 
   &__image {
     display: none;
-    flex-shrink: 0;
     margin-left: units(3);
     mix-blend-mode: multiply;
 
-    @include at-media("mobile-lg") {
+    @include at-media("tablet") {
       display: inline;
     }
 
     .dg-img-flexible {
-      height: 12rem;
+      max-height: 12rem;
     }
   }
 
   &__text {
     color: color("black");
 
-    @include at-media("mobile-lg") {
+    @include at-media("tablet") {
       max-width: 70%;
     }
 

@@ -29,7 +29,6 @@
   {{ if $uid }}
     <div class="dg-guide__header-image">
       {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" $uid "small" true) -}}
-      {{- partial "core/attribution.html" . -}}
     </div>
   {{- end -}}
 </header>
