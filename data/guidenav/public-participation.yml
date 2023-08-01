@@ -4,7 +4,7 @@ showInPageNav: false
 nav:
 - title    : 'Overview'
   path     : '/guides/public-participation/_index.md'
-- title    : 'Establish Goals'
+- title    : 'Establish goals'
   path     : '/guides/public-participation/establish-goals.md'
 - title    : 'Understand the Playing Field'
   path     : '/guides/public-participation/understand.md'

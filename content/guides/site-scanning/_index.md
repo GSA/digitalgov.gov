@@ -1,6 +1,6 @@
 ---
 date: 2020-06-25 09:00:00 -0500
-title: "Guide to the Site Scanning Program"
+title: "Guide to the Site Scanning program"
 deck: "A set of daily scans of the federal web presence."
 summary: "A program to automatically generate data about the health and best practices of federal websites."
 guide: site-scanning

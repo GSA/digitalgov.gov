@@ -1,6 +1,6 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Configure Your Tool’s Settings Carefully"
+title: "Configure your tool’s settings carefully"
 deck: ""
 summary: "Be cautious when configuring your tool to maximize insights while minimizing inaccuracies."
 guide: web-analytics-playbook

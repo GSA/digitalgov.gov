@@ -1,6 +1,6 @@
 ---
 date: 2020-07-28 09:00:00 -0500
-title: "Learn More About the Program"
+title: "Learn more about the program"
 deck: ""
 summary: "Learn about the program, how it operates, and where to find additional information."
 guide: site-scanning

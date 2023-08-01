@@ -1,6 +1,6 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Web Analytics Playbook"
+title: "Web analytics playbook"
 deck: "Use web analytics to reach your strategic website goals"
 summary: "Use these plays to reach your strategic website goals."
 guide: web-analytics-playbook

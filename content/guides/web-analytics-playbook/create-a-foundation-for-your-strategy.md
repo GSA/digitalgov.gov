@@ -1,6 +1,6 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Create a Foundation"
+title: "Create a foundation"
 deck: ""
 summary: "Before starting, be sure to define your mission, goals, and key performance indicators."
 guide: web-analytics-playbook

@@ -1,6 +1,6 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Guidelines for Sharing DAP Data"
+title: "Guidelines for sharing DAP data"
 deck: ""
 summary: "Your responsibilities in sharing and managing DAP data. "
 guide: dap

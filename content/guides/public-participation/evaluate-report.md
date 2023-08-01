@@ -20,7 +20,7 @@ Transparency builds and maintains trust and respect with participants. When gove
 - Encourage continued community dialogue and awareness of lessons learned and outcomes.
 - Recognize the contributions of partners and stakeholders in developing and maintaining your agency’s playbook.
 
-### Case Studies
+### Case studies
 
 - The [National Archives and Records Administration](http://www.archives.gov/open/ "National Archives and Records Administration") (NARA) used public feedback to develop the agency’s third Open Government Plan. It also reported outcomes of NARA’s previous Open Government Plans.
 - [NASA](http://www.jpl.nasa.gov/news/news.php?release=2014-032 "NASA") – Disk Detective is a crowdsourcing project whose primary goal is to produce publishable scientific results. It uses citizen science to help astronomers discover embryonic planetary systems, reporting outcomes on time while participants are still engaged.
