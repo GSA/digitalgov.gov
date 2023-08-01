@@ -9,7 +9,10 @@
 
   &-title {
     margin-top: units(5);
-    max-width: units("mobile-lg");
+    @include at-media("tablet") {
+      margin-right: units(5);
+      width: units("desktop");
+    }
   }
 
   &-image {
