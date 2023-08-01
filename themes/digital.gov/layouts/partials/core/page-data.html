@@ -6,12 +6,15 @@
   - `.cc` — for specifying an additional email address to be added to the feedback emails
   - `.page_type` — for specifying the page type (not being used at the moment)
   - `.branch` — for specifying which branch the build is on. This helps the edit button to point to the right branch when viewing a preview page.
+
+  Only branch is used!
 */}}
 
+{{/* ? not used */}}
 {{- $email_copy := (print "We value your feedback and open questions. Thank you for helping to make our pages better.") -}}
 
 
 <div id="page-data" class="branch-{{- .branch -}}" name="page-data">
   <!-- Edit file on GitHub -->
-  <div class="edit-file hidden"></div>
+  <div class="edit-file"></div>
 </div>

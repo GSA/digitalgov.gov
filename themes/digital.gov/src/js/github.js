@@ -3,78 +3,83 @@
 // Sets the timestamp for the last github update timestamp
 /* eslint-disable no-undef */
 
-const { gitOrg, gitRepo, gitBranch, gitFilepath, gitEditpathUrl } =
-  document.querySelector("#githubRepo").dataset;
+// eslint-disable-next-line func-names
+(function () {
+  const { gitOrg, gitRepo, gitBranch, gitFilepath, gitEditpathUrl } =
+    document.querySelector("#githubRepo").dataset;
 
-// return the branchlink as a link to github
-function getBranchLink(branch) {
-  const path = `https://github.com/GSA/digitalgov.gov/tree/${branch}`;
-  const branchLink = `<a class="branch" href="${path}" title="${gitBranch}">${gitBranch}</a>`;
-  return branchLink;
-}
+  const editFileButton = document.querySelector(".edit-file");
+  const editPageLink = document.querySelector("#page-data .edit-file");
 
-// format date to display at bottom of the page
-function formatDate(timezoneDate) {
-  const inputDate = new Date(timezoneDate);
+  // format date to display at bottom of the page
+  function formatDate(timezoneDate) {
+    const inputDate = new Date(timezoneDate);
 
-  const dateOptions = {
-    day: "numeric",
-    month: "short",
-    year: "numeric",
-  };
+    const dateOptions = {
+      day: "numeric",
+      month: "short",
+      year: "numeric",
+    };
 
-  const timeOptions = {
-    hour: "numeric",
-    minute: "2-digit",
-    timeZone: "America/New_York",
-    timeZoneName: "shortGeneric",
-  };
+    const timeOptions = {
+      hour: "numeric",
+      minute: "2-digit",
+      timeZone: "America/New_York",
+      timeZoneName: "shortGeneric",
+    };
 
-  const outputDate = inputDate.toLocaleDateString(undefined, dateOptions);
-  const outputTime = inputDate
-    .toLocaleTimeString("en-US", timeOptions)
-    .replace("AM", "a.m.,")
-    .replace("PM", "p.m.,");
-  return `${outputDate} at ${outputTime}`;
-}
+    const outputDate = inputDate.toLocaleDateString(undefined, dateOptions);
+    const outputTime = inputDate
+      .toLocaleTimeString("en-US", timeOptions)
+      .replace("AM", "a.m.,")
+      .replace("PM", "p.m.,");
+    return `${outputDate} at ${outputTime}`;
+  }
 
-// format data from github api to display as date time string on bottom of page
-function showLastCommit(data, branch) {
-  const branchLink = getBranchLink(branch);
-  const commitData = Array.isArray(data) ? data[0] : data;
-  const commitDate = commitData.commit.committer.date;
-  // eslint-disable-next-line no-undef
-  const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitBranch}/content/${gitFilepath}`;
+  // format data from github api to display as date time string on bottom of page
+  function showLastCommit(data) {
+    const commitData = Array.isArray(data) ? data[0] : data;
+    const commitDate = commitData.commit.committer.date;
+    const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitBranch}/content/${gitFilepath}`;
 
-  const lastCommit = [
-    branchLink,
-    `<p>Last updated on <a href=${commitHistoryUrl}>
-        <span class='commit-date'>${formatDate(commitDate)}</span>
-      </a></p>`,
-  ];
+    const lastCommitParagraph = Object.assign(document.createElement("p"), {
+      innerHTML: "Last updated on ",
+    });
 
-  // eslint-disable-next-line no-unused-vars, func-names
-  $(".edit-file").each(function (i, itemsList) {
-    // TODO: replace jquery each with native forEach
-    $(this).append(lastCommit.join("\n"));
-  });
-}
+    const lastCommitLink = Object.assign(document.createElement("a"), {
+      href: `${commitHistoryUrl}`,
+    });
 
-jQuery(($) => {
+    const lastCommitSpan = Object.assign(document.createElement("span"), {
+      classList: "commit-date",
+      innerHTML: `${formatDate(commitDate)}`,
+    });
+
+    lastCommitLink.appendChild(lastCommitSpan);
+    lastCommitParagraph.appendChild(lastCommitLink);
+
+    if (editFileButton) {
+      editFileButton.appendChild(lastCommitParagraph);
+    }
+  }
+
   function buildEditFileLink() {
     // gitEditpathURL is set the <head>
     if (gitEditpathUrl !== undefined) {
-      // Build the edit link
-      const edit = `<a target='_blank' class='edit-file-link' href='${gitEditpathUrl}' title='Edit in GitHub'>Edit</a>`;
+      const githubEditLink = Object.assign(document.createElement("a"), {
+        classList: "edit-file-link",
+        href: `${gitEditpathUrl}`,
+        innerHTML: "Edit",
+        target: "_blank",
+        title: "Edit in GitHub",
+      });
 
-      // Insert the .edit-file-link html into the .edit-file div and remove the .hidden class
-      // TODO: replace jquery methods with native javascript
-      $("#page-data .edit-file").html(edit).removeClass("hidden");
+      editPageLink.appendChild(githubEditLink);
     }
   }
   buildEditFileLink();
 
-  function getCommitData() {
+  async function getCommitData() {
     if (gitBranch === "main") {
       branchpath = "";
     } else {
@@ -85,15 +90,13 @@ jQuery(($) => {
 
     // TODO: replace $.ajax with fetch request
     if (commitApiPath !== undefined) {
-      $.ajax({
-        url: commitApiPath,
-        dataType: "json",
-      }).done((data) => {
-        if (typeof data !== "undefined") {
-          showLastCommit(data, gitBranch);
-        }
-      });
+      const githubResponse = await fetch(`${commitApiPath}`);
+      const githubData = await githubResponse.json();
+
+      if (typeof githubData !== "undefined") {
+        showLastCommit(githubData);
+      }
     }
   }
   getCommitData(gitFilepath);
-});
+})();

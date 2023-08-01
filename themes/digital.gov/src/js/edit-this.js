@@ -7,8 +7,6 @@
   const githubEditLinks = document.querySelectorAll("*[data-edit-this]");
   const editToolsButton = document.querySelector(".edit-tools");
 
-  console.log(window.location.pathname);
-
   // get all github resources on page, add github link button to markup and apply highlight class
   function enableEditThis() {
     githubEditLinks.forEach((link) => {
