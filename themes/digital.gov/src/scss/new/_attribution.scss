@@ -1,9 +1,9 @@
 @use "uswds-core" as *;
 
 .dg-attribution {
-  @include u-font("sans", "3xs");
+  @include u-font("sans", "2xs");
   color: color("gray-cool-60");
-  display: flex;
   font-weight: font-weight("light");
-  justify-content: center;
+  text-align: center;
+  min-width: 100%;
 }
