@@ -18,5 +18,6 @@
 <section class="dg-guide__footer grid-container-desktop">
   {{- partial "core/guides/guide-prev-next.html" . -}}
   {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+  {{- partial "core/attribution.html" . -}}
   {{- partial "core/touchpoints-form.html" . -}}
 </section>

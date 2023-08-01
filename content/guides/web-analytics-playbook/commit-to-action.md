@@ -1,6 +1,6 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Commit to Action"
+title: "Commit to action"
 deck: ""
 summary: "Create actionable plans based on data to ensure success."
 guide: web-analytics-playbook

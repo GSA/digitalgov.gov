@@ -1,6 +1,6 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "Establish Goals"
+title: "Establish goals"
 deck: ""
 summary: "Learn how to clearly define and communicate your objectives."
 guide: public-participation
@@ -18,7 +18,7 @@ Federal agencies understand the importance of meaningful public engagement. The 
 - Identify internal and external stakeholders and partners.
 - Evaluate and change strategy based on feedback and performance data.
 
-### Case Studies
+### Case studies
 
 - [ePolicyWorks](https://www.epolicyworks.org/epw/about/ "ePolicyWorks") is an initiative by the Department of Labor’s Office of Disability Employment Policy. The tool is designed around a clear policy-making objective and addresses specific challenges in collaborative policy making.
 - Agencies can use the [Regulations.gov](http://www.regulations.gov/#!home "Regulations.gov") portal during the commenting period to consider public input and make relevant, appropriate revisions. [Regulations.gov](http://www.regulations.gov/#!home "Regulations.gov") is a portal that simplifies finding, reviewing, and submitting comments on Rules and Proposed Rules that appear in the Federal Register.
@@ -29,7 +29,7 @@ Federal agencies understand the importance of meaningful public engagement. The 
 - [Synthesis 89](http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_syn_89.pdf "Synthesis 89"), by Scott Giering, discusses The Transit Cooperative Research Program’s efforts to coordinate effective public participation strategies for transit, e.g. goal-setting, information exchange, and identifying “the public.”
 - The Department of Transportation’s Federal Highway Administration provides a [Transportation Professional Capacity Building site](http://www.planning.dot.gov/focus_publicEngage.asp "Transportation Professional Capacity Building site ") with many resources and [case studies](http://www.planning.dot.gov/focus_caseStudies.asp "case studies").
 
-### Metrics: How Do You Know You Successfully Established Goals?
+### Metrics: How do you know you successfully established goals?
 
 Metrics will vary according to the platform you use. Some broad examples include:
 

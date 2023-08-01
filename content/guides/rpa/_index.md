@@ -1,6 +1,6 @@
 ---
 date: 2020-05-15 09:00:00 -0500
-title: "Guide to Robotic Process Automation"
+title: "Guide to robotic process automation"
 deck: "Automate reptitive business processes without writing code"
 summary: "Configure bots to execute repetitive tasks to save users from performing mundane tasks repeatedly for the same process."
 guide: rpa
@@ -23,7 +23,7 @@ Popular uses of RPA include data entry, data reconciliation, spreadsheet manipul
 
 RPA products vary in their exact capabilities, but all RPA technologies emulate human actions, enabling process owners or staff with appropriate training to rapidly design, test, and deploy automations dramatically reducing an organization’s low-value workload.
 
-## Why Deploy RPA at Your Agency?
+## Why deploy RPA at your agency?
 
 Program managers have limited resources and many federal and agency-specific requirements to address. In response, federal mandates such as OMB’s [M-18-23](https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pdf), “Shifting From Low-Value to High-Value Work ” guides agencies to work toward operational improvements, greater efficiencies, increased capabilities, and technology modernization.
 

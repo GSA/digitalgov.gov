@@ -13,7 +13,10 @@
   }
 
   .dg-img-flexible {
+    @include at-media("tablet-lg") {
+      margin-left: units(10);
+    }
     margin-top: units(5);
-    max-width: units("mobile");
+    max-width: units("mobile-lg");
   }
 }

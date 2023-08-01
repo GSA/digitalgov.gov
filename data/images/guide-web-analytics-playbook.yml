@@ -1,12 +1,12 @@
 
-  # https://s3.amazonaws.com/digitalgov/guide-web-analytics-playbook.png
-  # Image shortcode: {{< img src=guide-web-analytics-playbook >}}'
-  date     :  2023-07-10 21:09:05 -0400
-  uid      :  guide-web-analytics-playbook
-  width    :  600
-  height   :  600
+  # https://s3.amazonaws.com/digitalgov/guide-web-analytics.png
+  # Image shortcode: {{< img src=guide-web-analytics >}}'
+  date     :  2023-07-31 21:31:34 -0400
+  uid      :  guide-web-analytics
+  width    :  1200
+  height   :  630
   format   :  png
-  credit   :  Visual Generation via Canva.com
-  caption  : Web Analytics Playbook Guide Header Image 
-  alt      : Dashboard Analytics Illustration
+  credit   :  Visual Generation/iStock via Getty Images
+  caption  :  
+  alt      :  A magnifying glass hovers over a gear on top of a web illustration
   

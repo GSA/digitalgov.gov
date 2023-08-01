@@ -1,6 +1,6 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Democratize the Data"
+title: "Democratize the data"
 deck: ""
 summary: "Allow the relevant parties to access the data, and empower them with the skills to understand it."
 guide: web-analytics-playbook

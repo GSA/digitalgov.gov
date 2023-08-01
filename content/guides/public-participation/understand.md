@@ -1,6 +1,6 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "Understand the Playing Field"
+title: "Understand the playing field"
 deck: ""
 summary: "Learn how to understand and empower your participants."
 summary_box: true
@@ -22,7 +22,7 @@ Community and stakeholder understanding is key to organizing a successful partic
 - Customize your engagement strategies for each type of stakeholder.
 - Meet your audience where they are, not where you want them to be.
 
-### Case Studies
+### Case studies
 
 - [Peace Corps Application Process Redesign](http://www.peacecorps.gov/media/forpress/press/2447/ "Peace Corps Application Process Redesign"): Peace Corps redesigned their application process to meet the expectations of their target audiences. A shortened application allowed applicants to choose which countries they want to serve in. This receptivity to the audience’s needs and experiences resulted in record-breaking application numbers for Peace Corps.
 - The National Geospatial-Intelligence Agency opened unclassified geospatial intelligence information to the general public through their [Ebola Relief Website](https://nga.maps.arcgis.com/home/ "Ebola Relief Website"). They recognized an unprecedented need for a large number of stakeholders to quickly access information that can help NGO’s and other workers battle the virus.
@@ -45,7 +45,7 @@ Participants must understand how they can contribute to a program and why it is 
 - Inform participants when they should expect to hear follow-up from their engagement.
 - Report how participation impacted program efforts.
 
-### Case Studies
+### Case studies
 
 - [National Day of Civic Hacking](http://hackforchange.org/ "National Day of Civic Hacking") organizers submit problem statements to explain an issue, explain how the public can address it, and provide resources to help orient people to the problem. They also outline time commitments and skills needed.
 - [Regulation Room](http://regulationroom.org/learn/why-participate "Regulation Room") is a pilot project sponsored by the Federal Government and operated by the Cornell e-Rulemaking Initiative. Organizers provide participants resources to better understand the rulemaking process and teach them how to make an effective comment. Participants comment on a report after discussion ends to ensure the program captures ideas before the Government receives a final version.
@@ -65,14 +65,14 @@ Leveraging corporate and community partners is a powerful way of gaining support
 - Outline the terms and the specifications of the partnership, including messaging, logo usage, promotional opportunities and boundaries.
 - Create an “authorized partners” list to reduce legal issues
 
-### Case Studies
+### Case studies
 
 - [The Heart Truth®](http://www.nhlbi.nih.gov/health/educational/hearttruth/partners/index.htm "The Heart Truth®") campaign, created by the National Heart Lung and Blood Institute (NHLBI), partners with dozens of corporate and community sponsors. The campaign raises awareness about heart disease and its effect on women through both online and in-person fitness events.
 - In 2014 [LabTV](https://www.labtv.com/Home#/ "LabTV ") launched its vision of creating a free, scientist-to-student web/video platform aimed at inspiring the next generation of researchers. The National Institutes of Health (NIH) worked with LabTV to produce hundreds of videos of NIH researchers with varying backgrounds and interests, and matched students with scientists who can share information about life as a medical researcher.
 - A coalition of private companies, non-profit organizations, and the Department of Homeland Security (DHS) created [STOP.THINK.CONNECT](http://staysafeonline.org/blog/chatstc-transcript-stop-think-connect-online-safety-for-everyone " STOP.THINK.CONNECT.™").™ Partnering with industry leaders, DHS attracts a broader audience and garners significant public participation for online events such as Twitter chats to help spread its message.
 - The U.S. Department of Transportation (DOT) [Distraction.gov](http://www.distraction.gov/ "Distraction.gov") website is dedicated to stamping out distracted driving. DOT enlisted the help of several organizations to spread its message. One partner, the FOX television show “Glee”, helped produce public service announcements that feature characters from the show.
 
-### METRICS: HOW DO YOU KNOW YOU UNDERSTAND THE PLAYING FIELD?
+### Metrics: How do you know you understand the playing field?
 
 Measure:
 

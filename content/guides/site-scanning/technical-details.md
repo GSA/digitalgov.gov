@@ -1,6 +1,6 @@
 ---
 date: 2023-07-19 09:00:00 -0500
-title: "Technical Details"
+title: "Technical details"
 guide: site-scanning
 summary: "Learn about the automated processes behind the site scanning program."
 aliases:

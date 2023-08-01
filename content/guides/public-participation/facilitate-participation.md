@@ -1,6 +1,6 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "Facilitate Participation"
+title: "Facilitate participation"
 deck: ""
 summary: "Learn how to use data to inform decisions about public participation."
 guide: public-participation
@@ -21,7 +21,7 @@ Use data to inform decisions about engagement efforts and public participation. 
 - Prioritize next steps based on public feedback in an iterative process and solicit fresh feedback at each incremental step.
 - Solicit feedback across platforms, mediums, and from all of the public.
 
-### Case Studies
+### Case studies
 
 - [Govcode](http://www.govcode.org/ "Govcode") is a website that features government open source projects. Open source projects that utilize the ‘help wanted’ tag proactively solicit contributions from the public on government technology projects.
 - [Public Participation in Government Web Design](https://www.digitalgov.gov/event/designing-in-the-open-public-participation-in-government-web-design/ "Public Participation in Government Web Design"): The Data.gov team integrated feedback from virtual, online, face to face testing, and social media platforms to dramatically change the site design in response to customer needs.
@@ -35,7 +35,7 @@ Use data to inform decisions about engagement efforts and public participation. 
 - [Enigma](http://enigma.io/solutions/ "Engima") is amassing the largest collection of public data produced by governments, universities, companies, and organizations. Concentrating all of this data provides new insights into economies, companies, places and individuals.
 - [API Release Kit](https://www.digitalgov.gov/2013/05/16/api-release-kit/ "API Release Kit") describes the elements agencies should include in federal API releases.
 
-### METRICS: HOW DO YOU KNOW YOU’RE SUCCESSFULLY FACILITATING PARTICIPATION?
+### Metrics: How do you know you're successfully facilitating participation?
 
 - Measure the % of decision-making processes – anything from project management to policy decisions–that have a public feedback track.
 - Measure how often “next steps” in a decision-making process are informed and prioritized in accordance with public feedback.

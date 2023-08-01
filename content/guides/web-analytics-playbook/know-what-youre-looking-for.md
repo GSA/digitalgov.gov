@@ -1,6 +1,6 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Know What You’re Looking For"
+title: "Know what you’re looking for"
 deck: ""
 summary: "Be sure to consistently measure against your predetermined metrics to see if you are on track."
 guide: web-analytics-playbook

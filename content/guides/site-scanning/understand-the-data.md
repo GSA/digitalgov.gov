@@ -1,6 +1,6 @@
 ---
 date: 2020-07-28 09:00:00 -0500
-title: "Understand the Data"
+title: "Understand the data"
 deck: ""
 summary: "Learn about the various types of data collected from scanned websites."
 guide: site-scanning

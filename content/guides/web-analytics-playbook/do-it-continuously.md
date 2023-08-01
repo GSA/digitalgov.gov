@@ -1,6 +1,6 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Do it Continuously"
+title: "Do it continuously"
 deck: ""
 summary: "Always be learning from past analytics cycles and making improvements for the future."
 guide: web-analytics-playbook

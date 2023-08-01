@@ -1,6 +1,6 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Invest in Training and Support"
+title: "Invest in training and support"
 deck: ""
 summary: "Take the time and effort to ensure stakeholders can understand and use the data."
 guide: web-analytics-playbook

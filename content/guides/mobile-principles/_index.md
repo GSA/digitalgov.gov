@@ -1,6 +1,6 @@
 ---
 date: 2018-10-09 12:30:00 -0500
-title: "Eight Principles of Mobile-Friendliness"
+title: "Eight principles of mobile-friendliness"
 summary: "We're sharing how eight principles of mobile-friendliness can help agencies greatly improve their sites."
 guide: mobile-principles
 aliases:
