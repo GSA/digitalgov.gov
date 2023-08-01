@@ -63,6 +63,9 @@ $communities-of-practice: (
   }
 }
 
+// ==========================================================================
+// Columns view
+// ==========================================================================
 .dg-featured-communities {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
