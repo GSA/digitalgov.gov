@@ -62,3 +62,50 @@ $communities-of-practice: (
     @include u-minh(8);
   }
 }
+
+.dg-featured-communities {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: units(6) units(2);
+  text-align: center;
+
+  > :last-child {
+    grid-column: 2 / 3;
+  }
+
+  .usa-card {
+    margin-bottom: 0;
+    min-height: 320px;
+  }
+
+  .dg-featured-communities__container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  h2 {
+    margin-top: units(2);
+    margin-bottom: units(1);
+  }
+
+  .img {
+    order: -1;
+  }
+
+  p {
+    font-weight: 300;
+  }
+
+  .dg-featured-communities__footer {
+    margin-top: auto;
+  }
+
+  .usa-button {
+    width: auto;
+
+    br {
+      display: none;
+    }
+  }
+}

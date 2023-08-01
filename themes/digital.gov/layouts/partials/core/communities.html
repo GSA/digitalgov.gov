@@ -15,35 +15,34 @@
 {{/* Gather only the pages with a dg-emphasis key */}}
 {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
 
-
-<header
-  class="page-head {{ cond (eq .community_page "home") "dg-featured-communities__title" "" }} grid-container-desktop"
->
-  {{- with .community_title -}}
-    <h2>{{ . | markdownify }}</h2>
-  {{- end -}}
-  {{- with .community_deck -}}
-    <p>
-      {{ . | markdownify }}
-    </p>
-  {{- end -}}
-</header>
 <section class="usa-section">
-  <div class="dg-featured-communities">
-    {{ range $e := $dg_communities }}
-      {{ $path := "" }}
-      {{ with .File }}
-        {{ $path = .Path }}
-      {{ else }}
-        {{ $path = .Path }}
+  <div class="grid-container-desktop">
+    <header class="page-head margin-bottom-8">
+      {{- with .community_title -}}
+        <h2>{{ . | markdownify }}</h2>
+      {{- end -}}
+      {{- with .community_deck -}}
+        <p>
+          {{ . | markdownify }}
+        </p>
+      {{- end -}}
+    </header>
+    <div class="dg-featured-communities">
+      {{ range $e := $dg_communities }}
+        {{ $path := "" }}
+        {{ with .File }}
+          {{ $path = .Path }}
+        {{ else }}
+          {{ $path = .Path }}
+        {{ end }}
+        <div
+          class="usa-card{{ if $e.Params.dg_acronym }}
+            cop-card--{{ $e.Params.dg_acronym }}
+          {{ end }}"
+        >
+          {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "image" $e.Params.logo "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
+        </div>
       {{ end }}
-      <div
-        class="usa-card{{ if $e.Params.dg_acronym }}
-          cop-card--{{ $e.Params.dg_acronym }}
-        {{ end }}"
-      >
-        {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
-      </div>
-    {{ end }}
+    </div>
   </div>
 </section>
