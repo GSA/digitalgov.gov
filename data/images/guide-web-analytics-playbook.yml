@@ -1,12 +1,12 @@
 
-  # https://s3.amazonaws.com/digitalgov/guide-web-analytics.jpg
+  # https://s3.amazonaws.com/digitalgov/guide-web-analytics.png
   # Image shortcode: {{< img src=guide-web-analytics >}}'
   date     :  2023-07-31 21:31:34 -0400
   uid      :  guide-web-analytics
-  width    :  5234
-  height   :  5234
-  format   :  jpg
+  width    :  1200
+  height   :  630
+  format   :  png
   credit   :  Visual Generation/iStock via Getty Images
   caption  :  
-  alt      :  A magnifying glass hovers over a bug on top of a web illustration
+  alt      :  A magnifying glass hovers over a gear on top of a web illustration
   

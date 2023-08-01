@@ -1,11 +1,11 @@
 
-  # https://s3.amazonaws.com/digitalgov/guide-mobile-principles.jpg
+  # https://s3.amazonaws.com/digitalgov/guide-mobile-principles.png
   # Image shortcode: {{< img src=guide-mobile-principles >}}'
   date     :  2023-07-31 21:33:27 -0400
   uid      :  guide-mobile-principles
-  width    :  4528
-  height   :  4528
-  format   :  jpg
-  credit   :  nicescene/iStock via Getty Images
+  width    :  1200
+  height   :  630
+  format   :  png
+  credit   :  Irina_Strelnikova/iStock via Getty Images
   caption  :  
-  alt      :  Vector illustration of a light bulb on a mobile phone
+  alt      :  Vector illustration of a mobile phone
