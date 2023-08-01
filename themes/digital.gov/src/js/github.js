@@ -74,7 +74,7 @@
         title: "Edit in GitHub",
       });
 
-      editPageLink.appendChild(githubEditLink);
+      if (editPageLink) editPageLink.appendChild(githubEditLink);
     }
   }
   buildEditFileLink();

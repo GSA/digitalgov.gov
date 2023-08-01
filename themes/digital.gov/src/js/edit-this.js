@@ -10,6 +10,7 @@
   // get all github resources on page, add github link button to markup and apply highlight class
   function enableEditThis() {
     githubEditLinks.forEach((link) => {
+      console.log(link);
       const githubFilepath = link.getAttribute("data-edit-this");
 
       const editSpan = Object.assign(document.createElement("span"), {
@@ -35,7 +36,7 @@
     githubEditLinks.forEach((link) => {
       link.classList.remove("edit-this");
       const editLinkElement = link.querySelector(".edit-this-btn");
-      editLinkElement.remove();
+      if (editLinkElement) editLinkElement.remove();
     });
   }
 
