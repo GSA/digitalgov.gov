@@ -6,6 +6,7 @@ slug: plain-language
 date: 2016-02-03 10:58:53 -0400
 title: "Plain Language"
 summary: "Brings together government plain language practitioners to promote use of plain language, saving agencies time and money and providing better service to the public."
+short: "Promote plain language to provide better service to the public"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -48,6 +49,7 @@ community_list:
     join_cop_button: "Plain Language community members"
 
 primary_image: "digital-gov-card-community"
+logo: plain-language.png
 
 ---
 

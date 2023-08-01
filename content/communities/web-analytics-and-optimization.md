@@ -3,6 +3,8 @@ slug: web-analytics-and-optimization
 date: 2021-07-07 09:13:00 -0500
 title: Web Analytics and Optimization
 summary: "Brings together government analytics practitioners to make better decisions using web analytics and other optimization strategies."
+short: "Make better decisions using web analytics"
+
 # See all topics at https://digital.gov/topics
 topics:
   - a-b-testing
@@ -45,6 +47,7 @@ community_list:
     join_cop_button: "Web Analytic community members"
 
 primary_image: "digital-gov-card-community"
+logo: web-analytics.png
 
 ---
 

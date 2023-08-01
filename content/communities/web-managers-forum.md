@@ -6,6 +6,7 @@ slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
 title: "Web Managers"
 summary: "Brings together government web content managers to create a better online experience for the public."
+short: "Create a better online experience for the public"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -50,6 +51,7 @@ community_list:
     join_cop_button: "Web Manager community members"
 
 primary_image: "white-on-gsa-blue-digital-gov-card-community"
+logo: web-manager.png
 
 ---
 
