@@ -4,16 +4,16 @@
   @include at-media("tablet") {
     align-items: center;
     display: flex;
-    gap: units(5);
     justify-content: center;
   }
 
   &-title {
     margin-top: units(5);
+    max-width: units("mobile-lg");
   }
 
-  .dg-img-flexible {
+  &-image {
     margin-top: units(5);
-    width: 100%;
+    max-width: 100%;
   }
 }
