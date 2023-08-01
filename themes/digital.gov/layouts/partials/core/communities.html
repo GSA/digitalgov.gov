@@ -37,13 +37,37 @@
       {{ else }}
         {{ $path = .Path }}
       {{ end }}
-      <div
-        class="usa-card{{ if $e.Params.dg_acronym }}
-          cop-card--{{ $e.Params.dg_acronym }}
-        {{ end }}"
-      >
-        {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
-      </div>
+
+      {{- $image := cond (isset $e.Params "logo") (printf "%s/%s" "img/" $e.Params.logo | absURL) "" -}}
+      {{- $alt := $e.Params.dg_shortname -}}
+      {{- $summary := cond (isset $e.Params "short") $e.Params.short $e.Params.summary -}}
+
+      {{- if eq $.community_page "home" -}}
+        <a
+          class="dg-featured-communities__home-container {{ $e.Params.dg_acronym }}"
+          href="{{- $e.Permalink -}}"
+          title="View {{- " " -}} {{- $e.Params.dg_shortname -}} {{- " " -}} Community"
+        >
+          {{- if $e.Params.logo }}
+            <img
+              class="dg-featured-communities__home-logo"
+              src="{{- $image -}}"
+              alt="{{- $alt -}} {{- " " -}} Community"
+            />
+          {{- end -}}
+          <p class="dg-featured-communities__home-description">
+            {{- $summary | markdownify -}}
+          </p>
+        </a>
+      {{ else }}
+        <div
+          class="usa-card{{ if $e.Params.dg_acronym }}
+            cop-card--{{ $e.Params.dg_acronym }}
+          {{ end }}"
+        >
+          {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "image" $image "alt" $alt "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
+        </div>
+      {{ end }}
     {{ end }}
   </div>
 </section>

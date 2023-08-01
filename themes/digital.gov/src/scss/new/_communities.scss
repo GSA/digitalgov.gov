@@ -2,17 +2,64 @@
 
 // https://digital.gov/communities/
 
+$communities-of-practice: (
+  "FCN": #c84281,
+  "ML": #d73a33,
+  "PL": #06648d,
+  "SM": #2672de,
+  "UX": #40807e,
+  "WAO": #775540,
+  "WCM": #4a50c4,
+);
+
 .dg-featured-communities {
   @include u-flex("row", "wrap");
   display: flex;
   justify-content: center;
   padding-top: units(2);
 
+  a {
+    text-decoration: none;
+  }
+
   &__additional-communities {
     @include at-media("tablet") {
       column-gap: 2rem;
       display: grid;
       grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  &__home {
+    &-container {
+      align-items: center;
+      border: units("2px") solid;
+      border-radius: units(3);
+      display: flex;
+      margin: units(2);
+      max-width: 19em;
+      transition: 0.3s;
+
+      @each $community, $color in $communities-of-practice {
+        &.#{$community} {
+          border-color: $color;
+        }
+      }
+
+      &:hover {
+        background-color: color("gray-5");
+      }
+    }
+
+    &-description {
+      color: color("black");
+      font-size: size("body", "xs");
+      padding: units(1);
+    }
+
+    &-logo {
+      margin-top: units(2);
+      max-width: 11em;
     }
   }
 
@@ -25,6 +72,14 @@
     @include at-media("tablet") {
       max-width: 19em;
     }
+
+    &__img {
+      display: none;
+
+      @include at-media("tablet") {
+        display: inline;
+      }
+    }
   }
 }
 
@@ -35,16 +90,6 @@
   margin-top: 1rem;
   width: 84%;
 }
-
-$communities-of-practice: (
-  "FCN": #c84281,
-  "ML": #d73a33,
-  "PL": #06648d,
-  "SM": #2672de,
-  "UX": #40807e,
-  "WAO": #775540,
-  "WCM": #4a50c4,
-);
 
 @each $community, $color in $communities-of-practice {
   .cop-card--#{$community} {
