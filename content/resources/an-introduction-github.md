@@ -5,7 +5,7 @@
 # slug (url path) — changing this requires a redirect
 slug: an-introduction-github
 date: 2020-06-18 13:00:00 -0500
-title: "An Introduction to GitHub"
+title: "An introduction to GitHub"
 deck: "How to use GitHub in easy, practical steps to create, manage and publish website content. "
 summary: ""
 
