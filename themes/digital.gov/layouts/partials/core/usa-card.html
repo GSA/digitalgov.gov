@@ -19,23 +19,23 @@
 {{- $path := default "" .path -}}
 
 
-<div data-edit-this="{{- $path -}}" class="dg-featured-communities__container">
-  <div>
-    <h2>
+<div data-edit-this="{{- $path -}}" class="usa-card__container">
+  <div class="usa-card__header">
+    <h2 class="usa-card__heading">
       {{- $header | markdownify -}}
     </h2>
   </div>
   {{ if not (eq $image "") }}
-    <div class="img">
-      <div>
+    <div class="usa-card__media">
+      <div class="usa-card__img">
         <img src="/img/{{- $image | relURL -}}" alt="{{- $alt -}}" />
       </div>
     </div>
   {{ end }}
-  <div>
+  <div class="usa-card__body">
     <p>{{- $body | markdownify -}}</p>
   </div>
-  <div class="dg-featured-communities__footer">
+  <div class="usa-card__footer">
     <a
       class="usa-button"
       href="{{- $link -}}"

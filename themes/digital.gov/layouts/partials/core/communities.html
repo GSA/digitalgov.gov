@@ -40,7 +40,7 @@
             cop-card--{{ $e.Params.dg_acronym }}
           {{ end }}"
         >
-          {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "image" $e.Params.logo "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
+          {{- partial "core/usa-card.html" (dict "header" $e.Params.dg_shortname "body" $e.Params.summary "link" $e.Permalink "link_title" (printf "%s%s" "Connect with <br/>" $e.Params.dg_shortname) "path" $path) -}}
         </div>
       {{ end }}
     </div>
