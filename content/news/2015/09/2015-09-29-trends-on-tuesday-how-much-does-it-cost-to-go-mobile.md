@@ -27,7 +27,7 @@ A penny saved is a penny earned. But spending your pennies on [mobile developmen
 
 Regardless of how you plan to create that awesome anytime, anywhere mobile experience, it’s going to cost you. While the most obvious parts of the mobile price tag for native app development are initial development and launch, the long term maintenance of the app must also be considered. And you aren’t always penny pinching with [responsive website redesigns]({{< ref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}})—they can also come with a hefty price tag. We asked some [MobileGov Community of Practice]({{< ref "/communities" >}}) members to tell us about their experiences.
 
-{{< legacy-img src="2015/09/250-x-225-Mobile-Development-neyro2008-iStock-Thinkstock-504857917.jpg" alt="Mobile Development" caption="neyro2008/iStock/Thinkstock" >}}
+{{< legacy-img-right src="2015/09/250-x-225-Mobile-Development-neyro2008-iStock-Thinkstock-504857917.jpg" alt="Mobile Development" caption="neyro2008/iStock/Thinkstock" >}}
 
 ## Initial Development
 
