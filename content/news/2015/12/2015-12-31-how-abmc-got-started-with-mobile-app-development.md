@@ -7,6 +7,7 @@ authors:
   - jenny-johnson
 topics:
   - mobile
+  - mobile-apps
   - federal-crowdsource-mobile-testing-program
   - mobile-testing
   - mobile-ux-guideline-2
