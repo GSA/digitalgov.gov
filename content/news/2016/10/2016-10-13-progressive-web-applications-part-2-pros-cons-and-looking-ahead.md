@@ -11,7 +11,6 @@ topics:
   - design
   - mobile
   - user-experience
-  - app
   - code
   - innovation
   - mobile
