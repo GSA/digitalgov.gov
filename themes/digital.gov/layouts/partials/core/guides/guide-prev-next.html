@@ -24,11 +24,11 @@
         {{- $prevPage := $.Site.GetPage $prevItem.path -}}
 
         {{- if eq $currentURL $pointPage.Permalink -}}
-          {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "previous" "item" $prevItem) -}}
+          {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "previous" "item" $prevItem "page" $prevPage) -}}
         {{- end -}}
 
         {{- if eq $currentURL $prevPage.Permalink -}}
-          {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "next" "item" $pointItem) -}}
+          {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "next" "item" $pointItem "page" $pointPage) -}}
         {{- end -}}
 
       {{- end -}}
@@ -46,11 +46,11 @@
             {{- $prevPage := $.Site.GetPage $prevItem.path -}}
 
             {{- if eq $currentURL $pointPage.Permalink -}}
-              {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "previous" "item" $prevItem) -}}
+              {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "previous" "item" $prevItem "page" $prevPage) -}}
             {{- end -}}
 
             {{- if eq $currentURL $prevPage.Permalink -}}
-              {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "next" "item" $pointItem) -}}
+              {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "next" "item" $pointItem "page" $pointPage) -}}
             {{- end -}}
           {{- end -}}
         {{- end -}}
