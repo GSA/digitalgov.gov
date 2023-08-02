@@ -1,6 +1,6 @@
-{{- $guide_data := index $.Site.Data.guidenav -}}
+{{- $guideData := index $.Site.Data.guidenav -}}
 {{ if .Params.guide }}
-  {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
+  {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
 {{ end }}
 {{- $title := cond .IsNode .Title .Parent.Title -}}
 {{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
@@ -14,7 +14,7 @@
     <div class="deck">
       {{- $summary | markdownify -}}
     </div>
-    {{- if $guide_data.showGlossary -}}
+    {{- if $guideData.showGlossary -}}
       <a href="javascript:void(0)" class="js-glossary-toggle">
         <svg width="16" height="16">
           <path
