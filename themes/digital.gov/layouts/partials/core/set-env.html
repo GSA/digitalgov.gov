@@ -3,8 +3,6 @@
 
 
 <!-- If the branch_name is empty (usually on localhost), set it to "main" -->
-{{ $gitBranch := $.Scratch.Get "branch" }}
-{{ printf "%#v" $gitBranch }}
 {{- if eq (getenv "BRANCH") "" -}}
   {{- $.Scratch.Set "branch" "main" -}}
 {{- else if eq (getenv "BRANCH") "demo" -}}
@@ -12,4 +10,3 @@
 {{- else -}}
   {{- $.Scratch.Set "branch" (getenv "BRANCH") -}}
 {{- end -}}
-{{ printf "%#v" $gitBranch }}

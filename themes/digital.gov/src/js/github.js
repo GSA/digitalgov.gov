@@ -1,7 +1,9 @@
-// Disabling no-undef because some vars are set in templates.
-// @TODO: Remove var setting in Hugo templates.
-// Sets the timestamp for the last github update timestamp
-/* eslint-disable no-undef */
+/**
+ * Sets the most recent commit timestamp for the page
+ * This is displayed in #page-data section at the bottom of the page
+ * Sets git details from the <head> tag by reading data-attributes from a script tag
+ * Disabling no-undef because some vars are set in templates.
+ */
 
 // eslint-disable-next-line func-names
 (function () {
@@ -14,7 +16,7 @@
   /**
    * format date from github ISO format to human friendly string
    * @param {timezone} timezoneDate YYYY-MM-DDTHH:MM:SSZ
-   * @returns {string} Jul 6, 2023 at 5:23 p.m., ET
+   * @returns {string} Formatted string that reads like "Jul 6, 2023 at 5:23 p.m., ET"
    */
   function formatDate(timezoneDate) {
     const inputDate = new Date(timezoneDate);
@@ -40,11 +42,9 @@
     return `${outputDate} at ${outputTime}`;
   }
 
-  //
   /**
    * display github commit date in <p> tag at bottom of page
    * @param {json} data response object from github api /commit endpoint
-   * @returns none
    */
   function showLastCommit(data) {
     const commitData = Array.isArray(data) ? data[0] : data;
@@ -93,17 +93,18 @@
   buildEditFileLink();
 
   /**
-   * use the gitFilepath string to retrieve the commit details from github api
-   * @param {string} gitFilepath path of hugo file: events/2023/06/2023-06-08-uswds-monthly-call-june-2023.md
+   * use the gitFilepath string to retrieve the commit details from Github API
+   * @param {string} gitFilepath path of hugo file that returns events/2023/06/2023-06-08-uswds-monthly-call-june-2023.md
    */
-  async function getCommitData(gitFilepath) {
+  async function getCommitData() {
+    let branchPath;
     if (gitBranch === "main") {
-      branchpath = "";
+      branchPath = "";
     } else {
-      branchpath = `/${gitBranch}`;
+      branchPath = `/${gitBranch}`;
     }
     // eslint-disable-next-line camelcase
-    const commitApiPath = `https://api.github.com/repos/${gitOrg}/${gitRepo}/commits${branchpath}?path=/content/${gitFilepath}`;
+    const commitApiPath = `https://api.github.com/repos/${gitOrg}/${gitRepo}/commits${branchPath}?path=/content/${gitFilepath}`;
 
     if (commitApiPath !== undefined) {
       const githubResponse = await fetch(`${commitApiPath}`);
@@ -119,5 +120,5 @@
       }
     }
   }
-  getCommitData(`events/2023/06/2023-06-08-uswds-monthly-call-june-2023.md`);
+  getCommitData();
 })();
