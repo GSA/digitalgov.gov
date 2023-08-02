@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobiel-apps
+  - mobile-apps
   - mobile-ux-guideline-2
   - mobile-friendly
   - native-apps
