@@ -13,13 +13,15 @@ topics:
 
 ---
 
-Google Product Director and author, Luke Wroblewski, wrote a piece about [how perfecting your Day-1 experience for users is critical](http://www.lukew.com/ff/entry.asp?1955) because retention after that point is incredibly difficult. {{< legacy-img src="2016/02/600-x-400-Woman-using-her-Mobile-Phone-Night-Light-Background-LDProd-iStock-Thinkstock-450947285.jpg" alt="Woman using her mobile phone, outside at night." caption="" >}} 
+Google Product Director and author, Luke Wroblewski, wrote a piece about [how perfecting your Day-1 experience for users is critical](http://www.lukew.com/ff/entry.asp?1955) because retention after that point is incredibly difficult.
+
+{{< legacy-img src="2016/02/600-x-400-Woman-using-her-Mobile-Phone-Night-Light-Background-LDProd-iStock-Thinkstock-450947285.jpg" alt="Woman using her mobile phone, outside at night." caption="" >}} 
 
 Wroblewski said that 25% of native mobile apps are abandoned after their first use and that the number of active users drops 77% in the first three days after installation.
 
-To combat that drop off, he suggested focusing on your onboarding and the user’s first experience with the app through things like [gradual sign-ups](http://www.lukew.com/ff/entry.asp?1678), since many people will turn off completely when they hit that wall.
-
 {{< legacy-img-right src="2016/01/250-x-444-Variety-of-federal-mobile-apps.jpg" alt="A variety of federal mobile apps for citizens seen on an Android smartphone screen." >}}
+
+To combat that drop off, he suggested focusing on your onboarding and the user’s first experience with the app through things like [gradual sign-ups](http://www.lukew.com/ff/entry.asp?1678), since many people will turn off completely when they hit that wall.
 
 Also, keep in perspective that this is just among the percentage of users who have found your app in the store and who like your organization or what it does enough to install the app and go through the download and installation process. Each of those steps adds hurdles and is why it’s a risky and expensive proposition for government agencies unless they’re offering a specific experience that absolutely *needs* to be an app.
 
