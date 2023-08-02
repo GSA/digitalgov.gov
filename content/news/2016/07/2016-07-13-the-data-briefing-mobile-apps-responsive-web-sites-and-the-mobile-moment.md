@@ -12,20 +12,19 @@ topics:
   - artificial intelligence
   - big-data
   - cx
-  - cx
   - data
   - mobile
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - native-app
   - native-apps
-  - NOAA
   - open-data
   - responsive-web-design
   - the-data-briefing
+
 ---
 
-The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom’s Digital Service (UKDS) banned the creation of mobile apps. In an [interview with _GovInsider_](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/), the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build and updating the application only requires changing one platform. &#8220;For government services that we were providing, the web is a far far better way… and still works on mobile,&#8221; Terrett said. {{< legacy-img src="2016/07/600-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="" >}} 
+The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom’s Digital Service (UKDS) banned the creation of mobile apps. In an [interview with _GovInsider_](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/), the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build and updating the application only requires changing one platform. &#8220;For government services that we were providing, the web is a far far better way… and still works on mobile,&#8221; Terrett said.
+
+{{< legacy-img src="2016/07/600-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="monicaodo/iStock/Thinkstock" >}} 
 
 These are similar arguments I repeated in my March 2016 column on [mobile apps versus responsive websites]({{< ref "2016-03-09-the-data-briefing-mobile-websites-or-mobile-apps-or-both.md" >}}). When Government Computing News reported on this issue, they asked the General Services Administration’s Jacob Parcell about his view of the debate. According to Parcell, the decision of choosing a mobile app or responsive website [depends on the users’ mobile moments](https://gcn.com/articles/2016/07/06/apps-vs-web.aspx#). That is, determine what the user&#8217;s needs are and build around that. The IRS built a mobile app, [IRS2Go](https://www.irs.gov/uac/irs2goapp), because of the heavy customer demand to check on their tax refund status, make payments, and obtain free tax preparation. Using a mobile app allows for the personalization and complex transactions that the taxpayer demands.
 
