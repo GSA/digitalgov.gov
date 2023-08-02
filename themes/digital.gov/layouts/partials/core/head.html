@@ -253,24 +253,6 @@
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
-  <!-- GitHub -->
-  <script
-    id="githubRepo"
-    type="text/javascript"
-    data-git-org="{{ .Site.Params.git_org }}"
-    data-git-repo="{{ .Site.Params.git_repo }}"
-    data-git-branch="{{ $.Scratch.Get "branch" }}"
-    data-git-filepath="{{ with .File -}}{{ $path }}{{- end }}"
-    data-git-editpath-url="{{ with .File -}}
-      {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}
-    {{- end }}"
-  ></script>
-
   <script
     type="text/javascript"
     src="//script.crazyegg.com/pages/scripts/0007/9651.js"

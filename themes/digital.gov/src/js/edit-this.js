@@ -1,11 +1,22 @@
 // Sets the github URL link and button styles for each resource when edit-mode is enabled
 // eslint-disable-next-line func-names
 (function () {
-  const { gitOrg, gitRepo, gitBranch } =
-    document.querySelector("#githubRepo").dataset;
-
+  let gitBranch;
   const githubEditLinks = document.querySelectorAll("*[data-edit-this]");
   const editToolsButton = document.querySelector(".edit-tools");
+
+  /**
+   * Set the branch from the URL path
+   * If on cloud.pages then get the branch name from the URL
+   * Otherwise, use main for local host and production
+   */
+  const host = window.location.hostname;
+  if (host.includes("/preview/gsa")) {
+    // eslint-disable-next-line prefer-destructuring
+    gitBranch = window.location.pathname.split("/")[4];
+  } else {
+    gitBranch = "main";
+  }
 
   /**
    * add github "button" link and highlight style to github items on the page
@@ -20,7 +31,7 @@
 
       const editLinkButton = Object.assign(document.createElement("a"), {
         classList: "edit-this-btn",
-        href: `https://github.com/${gitOrg}/${gitRepo}/edit/${gitBranch}/content/${githubFilepath}`,
+        href: `https://github.com/gsa/digitalgov.gov/edit/${gitBranch}/content/${githubFilepath}`,
         target: "_blank",
         title: "edit this",
       });
@@ -37,7 +48,6 @@
    */
   function disableEditThis() {
     // eslint-disable-next-line func-names
-
     githubEditLinks.forEach((link) => {
       link.classList.remove("edit-this");
       link.lastChild.remove();

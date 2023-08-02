@@ -7,11 +7,37 @@
 
 // eslint-disable-next-line func-names
 (function () {
-  const { gitOrg, gitRepo, gitBranch, gitFilepath, gitEditpathUrl } =
-    document.querySelector("#githubRepo").dataset;
-
   const editFileButton = document.querySelector(".edit-file");
   const editPageLink = document.querySelector("#page-data .edit-file");
+  let gitFilepath;
+  let gitBranch;
+
+  const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitBranch}/content/${gitFilepath}`;
+
+  /**
+   * get hugo file path from each hugo resource
+   * example string: news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
+   */
+  if (editPageLink) {
+    gitFilepath = document
+      .querySelector("div[data-edit-this]")
+      .getAttribute("data-edit-this");
+  } else {
+    gitFilepath = "";
+  }
+
+  /**
+   * Set the branch from the URL path
+   * If on cloud.pages then get the branch name from the URL
+   * Otherwise, use main for local host and production
+   */
+  const host = window.location.hostname;
+  if (host.includes("/preview/gsa")) {
+    // eslint-disable-next-line prefer-destructuring
+    gitBranch = window.location.pathname.split("/")[4];
+  } else {
+    gitBranch = "main";
+  }
 
   /**
    * format date from github ISO format to human friendly string
@@ -77,11 +103,11 @@
    * @return none
    */
   function buildEditFileLink() {
-    // gitEditpathURL is referenced in the <head> on a script tag
-    if (gitEditpathUrl !== undefined) {
+    // gitEditFilePath is referenced in the <head> on a script tag
+    if (gitEditFilePath !== undefined) {
       const githubEditLink = Object.assign(document.createElement("a"), {
         classList: "edit-file-link",
-        href: `${gitEditpathUrl}`,
+        href: `${gitEditFilePath}`,
         innerHTML: "Edit",
         target: "_blank",
         title: "Edit in GitHub",
@@ -103,8 +129,9 @@
     } else {
       branchPath = `/${gitBranch}`;
     }
+
     // eslint-disable-next-line camelcase
-    const commitApiPath = `https://api.github.com/repos/${gitOrg}/${gitRepo}/commits${branchPath}?path=/content/${gitFilepath}`;
+    const commitApiPath = `https://api.github.com/repos/gsa/digitalgov.gov/commits${branchPath}?path=/content/${gitFilepath}`;
 
     if (commitApiPath !== undefined) {
       const githubResponse = await fetch(`${commitApiPath}`);
