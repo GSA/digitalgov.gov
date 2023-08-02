@@ -8,7 +8,7 @@ slug: "native-apps"
 title: "Native Apps"
 
 # description — keep it short and clear
-summary: "Native apps are device- or platform-specific mobile apps that are downloadable from an app store."
+summary: "Device- or platform-specific mobile apps that are downloadable from an app store."
 
 
 # Weight
