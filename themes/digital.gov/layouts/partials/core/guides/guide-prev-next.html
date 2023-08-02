@@ -7,8 +7,6 @@
   {{- $current_page := . -}}
   {{- $current_url := $current_page.Permalink -}}
 
-  {{- $guide_files := (where .Site.Pages ".Params.guide" .Params.guide) -}}
-
   {{- $prev_item := 0 -}}
   {{- $point_item := 0 -}}
 
@@ -26,23 +24,11 @@
         {{- $prev_page := $.Site.GetPage $prev_item.path -}}
 
         {{- if eq $current_url $point_page.Permalink -}}
-          <a
-            class="dg-guide__guide-buttons-prev-item usa-button usa-button--outline"
-            href="{{- printf "%s%s" $prev_page.Permalink "/#content-start" -}}"
-            title="{{- $prev_item.title -}}"
-          >
-            Previous Section
-          </a>
+          {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "previous" "item" $prev_item) -}}
         {{- end -}}
 
         {{- if eq $current_url $prev_page.Permalink -}}
-          <a
-            class="dg-guide__guide-buttons-next-item usa-button"
-            href="{{- printf "%s%s" $point_page.Permalink "/#content-start" -}}"
-            title="{{- $point_item.title -}}"
-          >
-            Next Section
-          </a>
+          {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "next" "item" $point_item) -}}
         {{- end -}}
 
       {{- end -}}
@@ -60,58 +46,11 @@
             {{- $prev_page := $.Site.GetPage $prev_item.path -}}
 
             {{- if eq $current_url $point_page.Permalink -}}
-              <a
-                class="dg-guide__guide-buttons-prev-item usa-button usa-button--outline"
-                href="{{- $prev_page.Permalink -}}"
-                title="{{- $prev_item.title -}}"
-              >
-                Previous Page
-              </a>
+              {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "previous" "item" $prev_item) -}}
             {{- end -}}
 
             {{- if eq $current_url $prev_page.Permalink -}}
-              <a
-                class="dg-guide__guide-buttons-next-item usa-button"
-                href="{{- $point_page.Permalink -}}"
-                title="{{- $point_item.title -}}"
-              >
-                Next Page
-              </a>
-            {{- end -}}
-          {{- end -}}
-
-          {{- if $sub_item.subnav -}}
-            {{- range $sub_item.subnav -}}
-              {{- $subsub_item := . -}}
-
-              {{- $prev_item = $point_item -}}
-              {{- $point_item = $subsub_item -}}
-
-              {{- if not (eq $prev_item 0) -}}
-
-                {{- $point_page := $.Site.GetPage $point_item.path -}}
-                {{- $prev_page := $.Site.GetPage $prev_item.path -}}
-
-                {{- if eq $current_url $point_page.Permalink -}}
-                  <a
-                    class="dg-guide__guide-buttons-prev-item usa-button usa-button--outline"
-                    href="{{- $prev_page.Permalink -}}"
-                    title="{{- $prev_item.title -}}"
-                  >
-                    Previous Page
-                  </a>
-                {{- end -}}
-
-                {{- if eq $current_url $prev_page.Permalink -}}
-                  <a
-                    class="dg-guide__guide-buttons-next-item usa-button"
-                    href="{{- $point_page.Permalink -}}"
-                    title="{{- $point_item.title -}}"
-                  >
-                    Next Page
-                  </a>
-                {{- end -}}
-              {{- end -}}
+              {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "next" "item" $point_item) -}}
             {{- end -}}
           {{- end -}}
         {{- end -}}

@@ -1,0 +1,20 @@
+{{- $type := .type -}}
+{{- $item := .item -}}
+{{- $className := cond (eq $type "previous") "dg-guide__guide-buttons-prev-item usa-button usa-button--outline" "dg-guide__guide-buttons-next-item usa-button" -}}
+{{- $iconName := cond (eq $type "previous") "uswds/img/sprite.svg#arrow_back" "uswds/img/sprite.svg#arrow_forward" -}}
+
+<a
+  class="{{ $className }}"
+  href="{{- $item.path -}}/#content-start"
+  title="{{- $item.title -}}"
+>
+  <svg
+    class="usa-icon dg-icon dg-icon--standard"
+    aria-hidden="true"
+    focusable="false"
+    role="img"
+  >
+    <use xlink:href="{{ $iconName | relURL }}"></use>
+  </svg>
+  <span>{{- $item.title -}}</span>
+</a>
