@@ -5,8 +5,6 @@ title: Three New Mobile Apps Honor Fallen Veterans Overseas
 summary: "The American Battle Monuments Commission (ABMC) released three new mobile apps this summer to honor fallen veterans in overseas cemeteries in Belgium, France, and Italy."
 topics:
   - mobile
-  - abmc
-  - american-battle-monuments-commission
   - federal-mobile-products-registry
   - ios
   - mobile-apps
@@ -16,9 +14,9 @@ topics:
 
 ---
 
-{{< legacy-img src="2015/08/600-x-331-Three-ABMC-app-home-screens.jpg" alt="A composite of screenshots of homescreens for three American Battle Monuments Commission (ABMC) apps: Flanders Field American Cemetery, Meuse-Argonne American Cemetery, and Sicily-Rome American Cemetery and Memorial." >}}
-
 The [American Battle Monuments Commission](https://www.abmc.gov/) (ABMC) released three new mobile apps this summer to honor fallen veterans in overseas cemeteries in Belgium, France, and Italy.
+
+{{< legacy-img src="2015/08/600-x-331-Three-ABMC-app-home-screens.jpg" alt="A composite of screenshots of homescreens for three American Battle Monuments Commission (ABMC) apps: Flanders Field American Cemetery, Meuse-Argonne American Cemetery, and Sicily-Rome American Cemetery and Memorial." >}}
 
 Information about <a href="https://www.abmc.gov/cemeteries-memorials/europe/flanders-field-american-cemetery#.VdS7CCxViko">Flanders Field</a>, <a href="https://www.abmc.gov/cemeteries-memorials/europe/meuse-argonne-american-cemetery#.VdS61yxViko">Meuse-Argonne</a> and <a href="https://www.abmc.gov/cemeteries-memorials/europe/sicily-rome-american-cemetery#.VdS7JSxViko">Sicily-Rome</a> American Cemeteries are all now accessible via mobile apps for both Android and iOS. ABMC developed these apps in line with their strategy of &#8220;<a href="{{< ref "2015-07-01-planning-with-a-purpose-3-reasons-why-agencies-created-native-apps.md" >}}">providing an inspirational and educational visitor experience through effective outreach and interpretive programs</a>.” Visitors to the cemeteries overseas are able to download these apps prior to travel or via WiFi in the visitor centers. These apps allow you to:</p> 
 
