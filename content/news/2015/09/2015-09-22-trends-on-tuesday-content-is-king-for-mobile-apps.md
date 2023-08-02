@@ -2,7 +2,7 @@
 slug: trends-on-tuesday-content-is-king-for-mobile-apps
 date: 2015-09-22 11:00:51 -0400
 title: 'Trends on Tuesday: Content is King for Mobile Apps'
-summary: ' Yahoo’s mobile analytics service, Flurry, released a new and provocative report about mobile apps versus mobile browser usage, in which they found audiences are spending almost an hour more with their mobile phones than last year. They also discussed the importance of how &ldquo;content is king&rdquo; in mobile apps. The top mobile app categories'
+summary: 'Yahoo’s mobile analytics service, Flurry, released a new and provocative report about mobile apps versus mobile browser usage, in which they found audiences are spending almost an hour more with their mobile phones than last year.'
 authors:
   - wsullivan
 topics:
@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - mobile-friendly
-  - native-app
+  - native-apps
   - trends-on-tuesday
 
 ---
