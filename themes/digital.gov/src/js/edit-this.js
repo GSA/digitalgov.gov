@@ -7,12 +7,13 @@
   const githubEditLinks = document.querySelectorAll("*[data-edit-this]");
   const editToolsButton = document.querySelector(".edit-tools");
 
-  // get all github resources on page, add github link button to markup and apply highlight class
+  /**
+   * add github "button" link and highlight style to github items on the page
+   * add link as last child in the parent element
+   */
   function enableEditThis() {
     githubEditLinks.forEach((link) => {
-      console.log(link);
       const githubFilepath = link.getAttribute("data-edit-this");
-
       const editSpan = Object.assign(document.createElement("span"), {
         innerHTML: "edit",
       });
@@ -30,16 +31,23 @@
     });
   }
 
-  // remove highlight class and edit button from markup
+  /**
+   * remove highlight style and edit button element from github items on the page
+   * removes the last child link from the parent element
+   */
   function disableEditThis() {
     // eslint-disable-next-line func-names
+
     githubEditLinks.forEach((link) => {
       link.classList.remove("edit-this");
-      const editLinkElement = link.querySelector(".edit-this-btn");
-      if (editLinkElement) editLinkElement.remove();
+      link.lastChild.remove();
     });
   }
 
+  /**
+   * add event listener for toggling highlight and normal states for github resources
+   * @return none
+   */
   // eslint-disable-next-line func-names
   editToolsButton.addEventListener("click", function (event) {
     event.preventDefault();
