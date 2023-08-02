@@ -2,9 +2,11 @@
 date: 2023-07-24 09:00:00 -0500
 kicker: HCD Guide Series
 title: "Introduction to human-centered design"
+deck: "Everything you need to know to get started with our human-centered design series"
 summary: "Everything you need to know to get started with our human-centered design series"
 guide: hcd-introduction
 image: hcd-guide-intro
+primary_image: hcd-guide-intro
 layout: single
 weight: 1
 ---

@@ -2,9 +2,11 @@
 date: 2023-07-24 09:00:00 -0500
 kicker: HCD Guide Series
 title: "Design concepts guide"
-summary: "Key concepts of the design process"
+deck: "Select methods for designing products, services, and systems"
+summary: "Select methods for designing products, services, and systems"
 guide: hcd-design-concepts
 image: hcd-design-concepts
+primary_image: hcd-design-concepts
 layout: single
 weight: 4
 ---

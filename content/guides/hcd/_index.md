@@ -1,6 +1,9 @@
 ---
 title: "Human-Centered Design Guide Series"
+deck: "A series of guides to help you understand and practice human-centered design."
+summary: "A series of guides to help you understand and practice human-centered design."
 image: hcd-guide-landing
+primary_image: hcd-guide-intro
 type: landings
 additional_resources: next-steps.md
 ---
