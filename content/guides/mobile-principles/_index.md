@@ -1,6 +1,7 @@
 ---
 date: 2018-10-09 12:30:00 -0500
 title: "Eight principles of mobile-friendliness"
+deck: "How to improve a site's accessibility to mobile devices"
 summary: "We're sharing how eight principles of mobile-friendliness can help agencies greatly improve their sites."
 guide: mobile-principles
 aliases:
@@ -10,6 +11,7 @@ aliases:
 topics:
   - mobile-gov-community-of-practice
 image: guide-mobile-principles
+primary_image: guide-mobile-principles
 layout: single
 ---
 

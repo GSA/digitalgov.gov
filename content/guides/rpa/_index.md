@@ -6,7 +6,7 @@ summary: "Configure bots to execute repetitive tasks to save users from performi
 guide: rpa
 aliases:
 
-primary_image: "rpa-stock-photo-2"
+primary_image: "guide-rpa"
 image: guide-rpa
 layout: single
 ---
