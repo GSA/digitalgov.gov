@@ -2,7 +2,11 @@
 {{ $current := .current }}
 {{ $parentPage := .Site.GetPage .parent.path }}
 <li class="usa-sidenav__item">
-  <a class="{{- cond (eq $parent $current) "usa-current" "" -}}" href="{{- $parentPage.Permalink -}}/#content-start" title="{{- $parent.title -}}">
+  <a
+    class="{{- cond (eq $parent $current) "usa-current" "" -}}"
+    href="{{- $parentPage.Permalink -}}/#content-start"
+    title="{{- $parent.title -}}"
+  >
     {{- $parent.title }}
   </a>
 </li>
@@ -11,7 +15,11 @@
     {{- $subItem := . -}}
     {{- $subPage := $.Site.GetPage $subItem.path -}}
     <li class="usa-sidenav__item">
-      <a class="{{- cond (eq $subItem $current) "usa-current" "" -}}" href="{{- $subPage.Permalink -}}/#content-start" title="{{- $subItem.title -}}">
+      <a
+        class="{{- cond (eq $subItem $current) "usa-current" "" -}}"
+        href="{{- $subPage.Permalink -}}/#content-start"
+        title="{{- $subItem.title -}}"
+      >
         {{- $subItem.title -}}
       </a>
     </li>

@@ -42,7 +42,6 @@
     }
 
     li.usa-sidenav__item {
-
       a {
         &:not(.usa-current) {
           color: color("gray-cool-90");
@@ -60,7 +59,6 @@
   }
 
   .usa-sidenav {
-
     .usa-current::after {
       content: none;
     }
