@@ -10,7 +10,7 @@
   ul.dg-guide__nav-list {
     @include u-font("sans", "xs");
     border-radius: units(2);
-    overflow: hidden;
+    overflow-x: hidden;
 
     li {
       font-weight: font-weight("medium");
@@ -22,6 +22,11 @@
         &:hover {
           text-decoration: none;
         }
+      }
+
+      .dg-current {
+        background-color: color("gray-cool-4");
+        font-weight: font-weight("semibold");
       }
 
       .usa-current {
