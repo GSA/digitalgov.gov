@@ -19,7 +19,7 @@ summary: "**Code.gov Better Know an Engineer: Rayvn Manuel**&mdash;We’re back 
 topics: 
   - design
   - devops
-  - apps
+  - mobile-apps
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
