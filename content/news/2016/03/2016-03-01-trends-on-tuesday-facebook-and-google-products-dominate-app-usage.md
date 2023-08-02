@@ -7,6 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
+  - mobile-apps
   - native-apps
   - responsive-web-design
   - trends-on-tuesday
