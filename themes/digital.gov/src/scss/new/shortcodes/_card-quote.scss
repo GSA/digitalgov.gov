@@ -26,11 +26,11 @@
 
     cite {
       @include u-display("block");
+      @include u-margin-top(2);
       @include u-padding-right(4);
       @include u-text("right");
       @include u-text("italic");
       @include u-line-height("serif", 2);
-      @include u-measure(4);
       @include u-font("sans", "md");
     }
   }
