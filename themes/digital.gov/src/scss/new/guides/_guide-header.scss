@@ -9,16 +9,12 @@
 
   &-title {
     margin-top: units(5);
-    
-    @include at-media("tablet") {
-      margin-right: units(5);
-      width: units("desktop");
-    }
+    max-width: 100%;
   }
 
   &-image {
     height: units("card-lg");
     margin-top: units(5);
-    max-width: 100%;
+    max-width: units("mobile-lg");
   }
 }
