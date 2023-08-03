@@ -35,10 +35,6 @@
   }
 
   &__body {
-    a {
-      color: color($theme-link-color);
-    }
-
     a:hover {
       border: none;
       color: color($theme-link-color);

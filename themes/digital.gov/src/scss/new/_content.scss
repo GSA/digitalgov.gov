@@ -77,7 +77,6 @@
   // Quotes
   blockquote {
     @include u-margin-x(5);
-    @include u-measure(4);
     @include u-margin-left(0);
     @include u-padding-left(5);
     @include u-border-left("05", "solid", "base-lighter");
