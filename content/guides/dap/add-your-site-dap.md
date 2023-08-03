@@ -4,6 +4,7 @@ title: "Add your site to DAP"
 deck: ""
 summary: "The best ways to participate in DAP and add analytics code to federal websites."
 guide: dap
+primary_image: guide-dap
 aliases:
   - /services/dap/add-your-site-dap/
   - /guide/dap/add-your-site-dap/

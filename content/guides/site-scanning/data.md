@@ -6,6 +6,7 @@ aliases:
   - /guide/site-scanning/data/
   - /guides/site-scanning/download-the-data/
 summary: "Learn how to use access scan data via direct download and API."
+primary_image: guide-site-scanning
 
 ---
 

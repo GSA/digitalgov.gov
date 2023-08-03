@@ -13,6 +13,7 @@ aliases:
   - /site-scans/
   - /sitescans/
 image: guide-site-scanning
+primary_image: guide-site-scanning
 layout: single
 ---
 

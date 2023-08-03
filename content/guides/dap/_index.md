@@ -13,6 +13,7 @@ aliases:
   - /services/dap/dap-digital-metrics-guidance-and-best-practices/
   - /services/dap/guidance-for-dap-gov-wide-data/
 image: guide-dap
+primary_image: guide-dap
 layout: single
 ---
 

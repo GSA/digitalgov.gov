@@ -1,9 +1,9 @@
 ---
 slug: checklist-of-requirements-for-federal-digital-services
 date: 2014-01-09 1:20:11 -0400
-title: "Checklist of Requirements for Federal Websites and Digital Services"
-summary: "Links to relevant laws, policies, and regulations for federal agencies."
+title: "Checklist of requirements for federal websites and digital services"
 deck: "The relevant laws, policies, and regulations for federal agencies."
+summary: "Links to relevant laws, policies, and regulations for federal agencies."
 authors:
   - rflagg
   - ammie-farraj-feijoo

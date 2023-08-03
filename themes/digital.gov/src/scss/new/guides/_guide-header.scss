@@ -9,6 +9,7 @@
 
   &-title {
     margin-top: units(5);
+    
     @include at-media("tablet") {
       margin-right: units(5);
       width: units("desktop");

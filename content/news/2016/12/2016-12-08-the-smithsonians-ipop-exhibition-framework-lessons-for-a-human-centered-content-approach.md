@@ -9,10 +9,8 @@ topics:
   - content
   - design
   - mobile
-  - apps
   - augmented-reality
   - mobile-apps
-  - smithsonian-institution
   - user-experience
   - virtual-augmented-reality-community
 

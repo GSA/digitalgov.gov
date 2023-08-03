@@ -6,6 +6,7 @@ summary: "Use these plays to reach your strategic website goals."
 guide: web-analytics-playbook
 aliases:
 image: guide-web-analytics-playbook
+primary_image: guide-web-analytics-playbook
 layout: single
 ---
 

@@ -4,6 +4,7 @@ title: "Establish goals"
 deck: ""
 summary: "Learn how to clearly define and communicate your objectives."
 guide: public-participation
+primary_image: guide-public-participation
 ---
 
 ## Play 1: Clearly define and communicate your objectives

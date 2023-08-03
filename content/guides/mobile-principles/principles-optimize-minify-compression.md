@@ -4,7 +4,7 @@ date: 2018-12-21 10:00:00 -0500
 title: "The smaller the better, when it comes to page resources!"
 summary: "Week six of our series covers making page resources smaller to improve page rendering."
 guide: mobile-principles
-
+primary_image: guide-mobile-principles
 aliases:
   - /resources/mobile/principles/optimize-minify-compression
 

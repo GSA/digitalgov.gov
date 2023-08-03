@@ -3,6 +3,7 @@ date: 2019-07-31 09:00:00 -0500
 title: "Common questions about DAP"
 summary: "The most common questions about implementing, customizing, and utilizing the DAP program."
 guide: dap
+primary_image: guide-dap
 summary_box: true
 aliases:
   - /services/dap/common-questions-about-dap-faq/

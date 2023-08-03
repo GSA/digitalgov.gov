@@ -11,26 +11,14 @@ topics:
   - content
   - mobile
   - social-media
-  - app
   - content
   - content-syndication
-  - dhs
-  - federal-emergency-management-agency
-  - fema
-  - HHS
   - mobile
   - mobile-apps
   - multilingual
-  - national-oceanic-and-atmospheric-administration
-  - National Weather Service
-  - NOAA
-  - NWS
   - sms
   - social-media
   - thursday-mobile-products
-  - us-department-of-veterans-affairs
-  - VA
-  - white-house
 
 ---
 

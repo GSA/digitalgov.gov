@@ -4,6 +4,7 @@ title: "Facilitate participation"
 deck: ""
 summary: "Learn how to use data to inform decisions about public participation."
 guide: public-participation
+primary_image: guide-public-participation
 ---
 
 ## Play 11: Use Data to Drive Decision Making
