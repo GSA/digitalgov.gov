@@ -4,7 +4,9 @@ function getHeadings() {
   if (guideNav) {
     const body = document.querySelector(".dg-guide__content-body");
     if (body) {
-      const headings = body.querySelectorAll("h2, h3");
+      const headings = body.querySelectorAll(
+        "h2:not(.dg-featured-resource__text-title), h3"
+      );
       return headings;
     }
   }
@@ -17,7 +19,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Add "read" class to previously read sections
   const guideCurrentListItem = guideNav.querySelector(".usa-current");
-  guideCurrentListItem.parentNode.classList.add("current");
+  if (guideCurrentListItem) {
+    guideCurrentListItem.parentNode.classList.add("current");
+  }
   const sidenavLinks = document.querySelectorAll(".usa-sidenav__item");
 
   // eslint-disable-next-line no-restricted-syntax
@@ -50,7 +54,9 @@ document.addEventListener("DOMContentLoaded", () => {
     subList.appendChild(link);
   }
   const current = document.querySelector(".usa-sidenav__item.current");
-  current.appendChild(subList);
+  if (current) {
+    current.appendChild(subList);
+  }
 });
 
 // Highlight the current section heading in the sidenav
@@ -69,6 +75,7 @@ function setCurrentHeader() {
     }
     i += 1;
   }
+  if (!topHeading) return;
   const href = topHeading.id;
   const oldLink = document.querySelector(".usa-sidenav__sublist .dg-current");
   if (oldLink) {
@@ -77,6 +84,7 @@ function setCurrentHeader() {
   const currentLink = document.querySelector(
     `.usa-sidenav__sublist [href="#${href}"]`
   );
+  if (!currentLink) return;
   currentLink.classList.add("dg-current");
 }
 
