@@ -4,6 +4,7 @@ title: "Commit to action"
 deck: ""
 summary: "Create actionable plans based on data to ensure success."
 guide: web-analytics-playbook
+primary_image: guide-web-analytics-playbook
 aliases: 
 
 ---

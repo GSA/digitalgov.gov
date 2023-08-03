@@ -4,6 +4,7 @@ title: "RPA use case inventory"
 deck: ""
 summary: "The RPA Use Case Inventory provides detailed information on over 300 RPA use cases across the federal government."
 guide: rpa
+primary_image: "guide-rpa"
 ---
 
 ## What is RPA Use Case Inventory?

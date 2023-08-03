@@ -4,6 +4,7 @@ title: "Implement wisely"
 deck: ""
 summary: "Ensuring that your implementation is flexible is key for web analytics."
 guide: web-analytics-playbook
+primary_image: guide-web-analytics-playbook
 aliases:
 ---
 In the early days of web analytics, almost all analytics tools had to be deployed via script tags in the site’s HTML. Today, we have many tag management options that allow non-developers to adjust and customize implementations.

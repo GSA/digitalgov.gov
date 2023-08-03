@@ -4,6 +4,7 @@ title: "Evaluate and report"
 deck: ""
 summary: "Learn the importance of being transparent when reporting public participation."
 guide: public-participation
+primary_image: guide-public-participation
 ---
 
 ## Play 12: Transparently report outcomes and performance of participation

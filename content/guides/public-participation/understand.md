@@ -5,6 +5,7 @@ deck: ""
 summary: "Learn how to understand and empower your participants."
 summary_box: true
 guide: public-participation
+primary_image: guide-public-participation
 ---
 
 ## Play 2: Understand your participants and stakeholder groups

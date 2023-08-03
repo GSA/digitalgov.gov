@@ -4,6 +4,7 @@ title: "Understand the data"
 deck: ""
 summary: "Learn about the various types of data collected from scanned websites."
 guide: site-scanning
+primary_image: guide-site-scanning
 aliases:
   - /guide/site-scanning/understand-the-data/
   - /guide/site-scanning/understanding-the-data/

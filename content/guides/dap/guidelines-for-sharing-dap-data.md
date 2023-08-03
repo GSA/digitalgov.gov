@@ -4,6 +4,7 @@ title: "Guidelines for sharing DAP data"
 deck: ""
 summary: "Your responsibilities in sharing and managing DAP data. "
 guide: dap
+primary_image: guide-dap
 aliases:
   - /services/dap/guidelines-for-sharing-dap-data/
   - /guide/dap/guidelines-for-sharing-dap-data/

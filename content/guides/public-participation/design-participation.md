@@ -5,6 +5,7 @@ deck: ""
 summary: "Learn how to design for inclusiveness and participation."
 summary_box: true
 guide: public-participation
+primary_image: guide-public-participation
 ---
 
 ## Play 5: Select appropriate design format for public participation

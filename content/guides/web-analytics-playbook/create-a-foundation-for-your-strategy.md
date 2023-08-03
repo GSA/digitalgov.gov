@@ -4,6 +4,7 @@ title: "Create a foundation"
 deck: ""
 summary: "Before starting, be sure to define your mission, goals, and key performance indicators."
 guide: web-analytics-playbook
+primary_image: guide-web-analytics-playbook
 aliases:
 ---
 Build a solid foundation for your team by defining your website mission, goals, and key performance indicators (KPIs). Then your team can focus on reporting that matters. Don’t rely on pageviews alone; shift your team’s analytics framework to discover rich and meaningful insights that make a difference.
