@@ -1,35 +1,37 @@
 @use "uswds-core" as *;
 
-.dg-guide__content-body {
-  margin-bottom: units(5);
-  overflow: hidden;
-
-  p {
-    max-width: none;
-  }
+.dg-guide__container {
+  display: flex;
 }
 
-.dg-guide__content-header {
-  margin: units(5) 0;
+.dg-guide__content {
+  flex-shrink: 1;
 
-  &-deck {
-    @include u-font("sans", "xl");
-    color: color("primary-darker");
-    font-weight: font-weight("light");
-    margin-top: 0;
+  &-body {
+    margin-bottom: units(5);
+    overflow: hidden;
+
+    p {
+      max-width: none;
+    }
   }
 
-  &-title {
-    @include u-font("sans", "2xl");
-    font-weight: font-weight("bold");
-    margin-bottom: 0;
-  }
-}
+  &-header {
+    margin: units(5) 0;
 
-.dg-guide__nav-container {
-  margin: units(5) 0;
-  position: sticky;
-  top: units(15);
+    &-deck {
+      @include u-font("sans", "xl");
+      color: color("primary-darker");
+      font-weight: font-weight("light");
+      margin-top: 0;
+    }
+
+    &-title {
+      @include u-font("sans", "2xl");
+      font-weight: font-weight("bold");
+      margin-bottom: 0;
+    }
+  }
 }
 
 // Needed to corrrect for header height when scrolling on guide pages
