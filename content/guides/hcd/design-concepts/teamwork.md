@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Principle 2: Teamwork"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 [![](https://lh3.googleusercontent.com/4JcQtq1pShT-1jh65cdkAg8cGNlD6bTngDO7VKTwCOICtJBqzh49tMN3m3eNDqhg8f7BTX6shHvpYm0ftFetEHNkr6IjoEmIew1fq8O8w7s5ApYY6tPnyTDgZJ2LzgQBiKL9DvUQu-psTTCfoxEO2Z6gNq4ibXimBIRQX-itSagfkc1qPtvFWIddrBkGuQ)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/principles-team.svg)
 

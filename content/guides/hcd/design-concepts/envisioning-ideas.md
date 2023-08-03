@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Envisioning ideas"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 
 The design phase is all about creation. To aid idea expression and development, designers use non-verbal and non-text-based communication to show their ideas and thoughts, in addition to talking and/or writing about them. We use these because it can be difficult to express the fullness of ideas verbally or in text, especially collaboratively, when the idea is still emerging, vague, or unfinished.

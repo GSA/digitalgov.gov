@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "HCD principles"
 guide: hcd-introduction
+primary_image: hcd-guide-intro
 ---
 
 **The guiding principles of human-centered design include:**

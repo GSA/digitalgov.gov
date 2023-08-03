@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Systems"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 
 Economists divide economies into two categories of activity: manufacturing products, and executing services. This parsing is not quite precise enough for the challenges of design, however. In the design process, we have a third possible category of designed thing: systems.

@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Feedback"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 
 Feedback is an integral part of the design process and should be sought out when designing anything, be it a product, service, or system. 

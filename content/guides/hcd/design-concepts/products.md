@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Products"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 
 [![](https://lh3.googleusercontent.com/mIZ-OGuF-cQJa5s6xPJwc1Q1nryxEwUWG5XXnUalnc_BZOIGsl5gSqWoE5jQhWIzLrixgR1mEZScAj3hTuRzFcqh-bCu4FAK6MxrlIMjkVSwmabuNu3MO9Swmi7RHfbN6ixGr3EO5GW75bjsh6ISlCbnODkQC9gTY7iS3LIY5iQtO5UoX28fi1Sr8EEprg)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/Coffee_as_product.svg)

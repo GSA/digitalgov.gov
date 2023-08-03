@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Services"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 
 [![](https://lh5.googleusercontent.com/y2iRh8n8EfozpWTLIAUu11ukfr0pJ8O0x0XAhWkOJenSmqkk-wsUUzlfscV9iyRJrrSxhIASO92fo7be_Nq0uVXyECkhkUppmuV0Vj8_IEEqwTV4imoPXP-P46WFEyCPInQ1AW2R4Yl6-nykYKe-EGCuOO-JN9VmVcoQBhI0MWVaxZK0vTAq2LL-PHyVTw)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/coffee_as_service.svg)

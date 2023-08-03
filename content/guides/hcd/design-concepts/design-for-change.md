@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Principle 5: Design for change"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 [![](https://lh4.googleusercontent.com/A5WVCF4Z-NpaRhfE2rbriTAzNhtSPLwCEjozeeajAdlJiXhlqunlCNMArJ0p8KWkVqk8ufp8X5ZBS9v8TtA6LD6Xwywc8_-gwQ80V-fMzE1x_twpIanhYwvL5CMEBX7iqvISZ5mPkhI94AFFDq5MV5jTFKeBVmYiiGMcIhK2u0Vlraf-61f6c8BO5SKpdA)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/principles-change.svg)
 

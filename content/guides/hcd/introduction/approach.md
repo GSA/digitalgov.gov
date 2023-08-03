@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "The HCD approach"
 guide: hcd-introduction
+primary_image: hcd-guide-intro
 ---
 
 Anthropologist Dr. Margaret Mead famously stated that "What people say, and what people do, and what people say they do, are entirely different things." This is a central truth to the social sciences and processes that build on them.

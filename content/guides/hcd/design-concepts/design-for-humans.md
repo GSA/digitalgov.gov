@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Principle 3: Design for humans"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 [![](https://lh3.googleusercontent.com/WkDzlmQVdp8tTSMT1ro87vIFkaGi4_OHmecK4UZ8nlXlDdbmKq0F2TXeL-VURttE3AQlN3jeXAlMeyRBFK9Y4n3XPZN0OHxKNj31rhKEvm2PK8NHUHxu-mCbP570BzRKJ28ms8WgGEmh1DUeZu2a05KvECRihJ8XvclwkmaJ1eryPGZKrYlFl9R5U-AhuQ)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/principles-participants.svg) 
 

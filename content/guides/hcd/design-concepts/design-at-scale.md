@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Principle 4: Design at scale"
 guide: hcd-design-concepts
+primary_image: hcd-design-concepts
 ---
 
 [![](https://lh4.googleusercontent.com/vQYMxRGarsRgdAP16Uh7xNA6VPplDeWFyE0A40SgxUV-zCq6kxlSx2OJx154lqkRABZsPzi0JBDFqt901ItGB8eCsWz4aZPccfjkLYneHOMZr6xtsyMeE995Mq1u0T2btMkAsGn8HzhnzFMipXs5qoFf6rnL7YNY2ar7zqUdqIMGV1cM_mr8ihOnjx7_ZA)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/principles-participants.svg)
