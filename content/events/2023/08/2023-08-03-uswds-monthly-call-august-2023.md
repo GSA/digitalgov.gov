@@ -2,7 +2,7 @@
 title: USWDS Monthly Call - August 2023
 deck: Looking ahead to 2024 for the U.S. Web Design System
 kicker: USWDS product roadmap updates
-summary: What's on the newest iteration of the U.S. Web Design System's product roadmap
+summary: What's in the newest iteration of the U.S. Web Design System's product roadmap.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 cop_events: ""
@@ -18,7 +18,11 @@ slug: uswds-monthly-call-august-2023
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-august-title-card
+# YouTube ID
+youtube_id: 
+
 ---
+
 Join us as we talk about what's on the newest iteration of the U.S. Web Design System's [product roadmap](https://github.com/orgs/uswds/projects/13/views/1?visibleFields=%5B%22Title%22%2C%22Labels%22%5D). We'll look at what the USWDS team is working on for the rest of 2023 and into 2024.
 
 In this session, you’ll learn about our roadmap process:
