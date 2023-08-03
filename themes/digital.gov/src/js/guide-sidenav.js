@@ -55,14 +55,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Highlight the current section heading in the sidenav
 function setCurrentHeader() {
-  const scrollOffset = 380; // Needed to account for height of sticky header
+  const scrollOffset = 130; // Needed to account for height of sticky header
   const headings = getHeadings();
-  const scrollPos = document.documentElement.scrollTop;
+  const scrollPos = document.documentElement.scrollTop + scrollOffset;
   let topHeading = headings[0];
   let i = 0;
   let found = false;
   while (!found && i < headings.length) {
-    if (scrollPos < headings[i].offsetTop + scrollOffset) {
+    if (scrollPos < headings[i].offsetTop) {
       found = true;
     } else {
       topHeading = headings[i];
