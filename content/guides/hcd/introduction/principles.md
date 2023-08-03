@@ -28,8 +28,7 @@ guide: hcd-introduction
 
 HCD allows us to understand the types of experiences customers want from a system, product, or service. We refer to the customers’ desired experience as the “frontstage” of the design effort. HCD helps us craft the processes that create those desired experiences. We refer to this behind-the-scenes work as “the backstage'' of the design effort. By tending to both the front and back stages, HCD allows us to put the customer at the center of our design development.
 
-{{< ring title="Key Example">}}
-
+{{< ring title="Case in point">}}
 An example of HCD in practice involves rethinking USDA’s application process for free and reduced lunch for low-income students. By leveraging HCD techniques to identify issues and simplify the form from five pages to one, USDA anticipated a system-wide savings of $600M over five years. USDA used rapid iteration through a challenge platform to create a digital prototype that school districts nationwide tested to create even greater cost savings and efficiency, as well as a better experience for parents and program administrators.
 
 {{< /ring >}}

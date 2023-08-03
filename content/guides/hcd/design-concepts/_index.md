@@ -43,8 +43,8 @@ Since you have either completed or are wrapping up the discovery phase, that mea
 
 If you're not sure if you've completed all these points, or feel that you need more information or direction on them, please see the HCD discovery guides.
 
-- [HCD Discovery Concepts Guide](https://docs.google.com/document/d/1lzAGFR1rnYGb366GmFt4PxQe8iTWdxrtfwO-QQvjUBE/edit#heading=h.xzhytf3qtsv0) - explains the “why” behind discovery research
-- [HCD Discovery Operations Guide](https://docs.google.com/document/d/1mr8hjU-hYVICcVMY3Animpl1Khegvg0auFyG6BJ1E64/edit#heading=h.kxok5jj0fped) - step-by-step guidance on “how” to conduct discovery research
+{{< featured-resource resourcePath = "/guides/hcd/discovery-concepts">}}
+{{< featured-resource resourcePath = "/guides/hcd/discovery-operations">}}
 
 
 ### A note on team structure
@@ -89,7 +89,7 @@ If the majority of your answers are strategic, create a generous timeline for yo
 On the other hand, if your answers are more tactical, consider expanding your parameters to take on a slightly larger, more strategic opportunity space that can increase the impact of your product, service, or system.
 
 
-## A note on “Participants”
+### A note on “Participants”
 
 Throughout this guide, we will refer to the people for whom we’re designing as participants, because they are participating in the use of the products, services, and systems we design. They might participate by using our products, services, and systems in different ways than we intended, adapting them to their own needs, or they might use them for a while and abandon them. In this way, the participants have an active role in the life cycle of this work. This approach is sometimes called [participatory design](https://lab.opm.gov/class-sign-up/).
 

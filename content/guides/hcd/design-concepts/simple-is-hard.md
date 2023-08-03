@@ -17,13 +17,14 @@ A successful design phase requires the team to make a lot of decisions. Some of 
 
 This process can be anxiety-inducing, as it means the design won’t meet all the needs of all the participants. This decision-making is, however, necessary. What a design team is trying to do is to make a precisely useful solution for a precise problem, not to make a large, unwieldy solution that tries (and fails) to solve all the problems encountered by the participants.
 
-
-### Case in point: the semester model as a rational time constraint
+{{< ring title="Case in point">}}
+### The semester model as a rational time constraint
 
 We will go further into the details of scheduling a design phase in the [HCD Design Operations Guide](https://docs.google.com/document/d/1M3UG4zZo25tELl8Kctpyo3xetRO_gIegTiB3Vr1z2OE/edit#heading=h.mucwfqif2h5u), but for now, one useful rule of thumb is based on a familiar time unit, the academic semester. The semester model can also be compared to “pics” in the Agile process. 
 
-|                                                                                                                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _Agile is a process for rapid, iterative digital product development, often used by developers and engineers. Learn more about the Agile process in_ [_Digital.gov’s resources on Agile_](https://digital.gov/topics/agile/)_._  |
+{{< box >}}                                                                                                                  
+Agile is a process for rapid, iterative digital product development, often used by developers and engineers. Learn more about the Agile process in [Digital.gov’s resources on Agile](https://digital.gov/topics/agile/)
+{{< /box >}}
 
 In the semester model, timelines generally consist of twelve to fifteen weeks of continuous work. Graduate thesis-level design projects typically take an entire semester, with students primarily working on their own or with a tight team, and focusing on nothing else. If your team can follow this model (narrow focus on the immediate task), then a semester (12 - 15 weeks) might be a good timeline for producing design work that has been developed through an iterative process and tested with either one or two rounds of participants, depending on how easy it is to schedule time with them. At 12 weeks, you can reasonably be able to offer your leadership and stakeholders a (hopefully brief) report on your design phase, including iterations and testing, and share your plan to move into secondary testing and piloting. We’ll cover this process in more detail in the Feedback section.
+{{< /ring >}}
