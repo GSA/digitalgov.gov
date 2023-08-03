@@ -1,9 +1,10 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 2: Commit to action"
+title: "Commit to action"
 deck: ""
-summary: ""
+summary: "Create actionable plans based on data to ensure success."
 guide: web-analytics-playbook
+primary_image: guide-web-analytics-playbook
 aliases: 
 
 ---

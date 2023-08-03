@@ -1,9 +1,10 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 7: Invest in training and support"
+title: "Invest in training and support"
 deck: ""
-summary: ""
+summary: "Take the time and effort to ensure stakeholders can understand and use the data."
 guide: web-analytics-playbook
+primary_image: guide-web-analytics-playbook
 aliases:
 
 ---

@@ -1,9 +1,10 @@
 ---
 date: 2020-05-15 09:00:00 -0500
 title: "State of Federal RPA Report"
-deck: 
-summary: 'Configure bots to execute repetitive tasks to save users from performing mundane tasks repeatedly for the same process.'
+deck: ""
+summary: "This report provides a comprehensive analysis of the adoption and impact of RPA in the Federal Government."
 guide: rpa
+primary_image: "guide-rpa"
 aliases: 
 
 ---

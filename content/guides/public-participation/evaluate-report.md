@@ -1,9 +1,10 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "Evaluate and Report"
+title: "Evaluate and report"
 deck: ""
-summary: ""
+summary: "Learn the importance of being transparent when reporting public participation."
 guide: public-participation
+primary_image: guide-public-participation
 ---
 
 ## Play 12: Transparently report outcomes and performance of participation
@@ -20,11 +21,11 @@ Transparency builds and maintains trust and respect with participants. When gove
 - Encourage continued community dialogue and awareness of lessons learned and outcomes.
 - Recognize the contributions of partners and stakeholders in developing and maintaining your agency’s playbook.
 
-### Case Studies
+### Case studies
 
-- The  [National Archives and Records Administration](http://www.archives.gov/open/ "National Archives and Records Administration")  (NARA) used public feedback to develop the agency’s third Open Government Plan. It also reported outcomes of NARA’s previous Open Government Plans.
-- [NASA](http://www.jpl.nasa.gov/news/news.php?release=2014-032 "NASA")  – Disk Detective is a crowdsourcing project whose primary goal is to produce publishable scientific results. It uses citizen science to help astronomers discover embryonic planetary systems, reporting outcomes on time while participants are still engaged.
-- [Ford’s Theatre: Remembering Lincoln on HistoryPin](https://www.historypin.org/project/57-remembering-lincoln/ "Ford's Theatre: Remembering Lincoln on HistoryPin")  – The HistoryPin platform encourages participants to contribute content, share findings and continue community dialogue. Ford’s Theatre is working with a range of partner institutions to collect, digitize and share local responses from the 13 months after former U.S. President Abraham Lincoln’s assassination.
+- The [National Archives and Records Administration](http://www.archives.gov/open/ "National Archives and Records Administration") (NARA) used public feedback to develop the agency’s third Open Government Plan. It also reported outcomes of NARA’s previous Open Government Plans.
+- [NASA](http://www.jpl.nasa.gov/news/news.php?release=2014-032 "NASA") – Disk Detective is a crowdsourcing project whose primary goal is to produce publishable scientific results. It uses citizen science to help astronomers discover embryonic planetary systems, reporting outcomes on time while participants are still engaged.
+- [Ford’s Theatre: Remembering Lincoln on HistoryPin](https://www.historypin.org/project/57-remembering-lincoln/ "Ford's Theatre: Remembering Lincoln on HistoryPin") – The HistoryPin platform encourages participants to contribute content, share findings and continue community dialogue. Ford’s Theatre is working with a range of partner institutions to collect, digitize and share local responses from the 13 months after former U.S. President Abraham Lincoln’s assassination.
 
 ### Resources
 

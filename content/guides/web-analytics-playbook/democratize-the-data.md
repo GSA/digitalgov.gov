@@ -1,9 +1,10 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 6: Democratize the data"
+title: "Democratize the data"
 deck: ""
-summary: ""
+summary: "Allow the relevant parties to access the data, and empower them with the skills to understand it."
 guide: web-analytics-playbook
+primary_image: guide-web-analytics-playbook
 aliases:
 ---
 Data democratization means breaking down barriers to information. Don’t force stakeholders to request data from a single data owner. Allow relevant parties access to data—and, crucially, empower them with the skills to understand it. That’s the best way to have the team holistically understand what success means for the project.

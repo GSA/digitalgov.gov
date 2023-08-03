@@ -2,6 +2,10 @@
 
 .dg-guide__guide-buttons {
   &-next-item {
+    @include at-media("mobile-lg") {
+      margin-top: 0;
+    }
     margin-left: auto;
+    margin-top: units(3);
   }
 }
