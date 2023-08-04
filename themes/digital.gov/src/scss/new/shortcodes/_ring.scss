@@ -1,0 +1,19 @@
+@use "uswds-core" as *;
+
+.ring {
+  @include u-border("primary", 2px);
+  @include u-measure(6);
+  border-radius: radius("lg");
+  margin-bottom: units(1);
+  padding: units(2);
+
+  legend {
+    @include u-font("sans", "lg");
+    font-weight: font-weight("semibold");
+  }
+
+  h2,
+  h3 {
+    margin-top: 0;
+  }
+}
