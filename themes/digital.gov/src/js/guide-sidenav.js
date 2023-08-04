@@ -13,6 +13,12 @@ function getHeadings() {
   return [];
 }
 
+function scrollIntoView(element) {
+  document.querySelector(element).scrollIntoView({
+    behavior: "smooth",
+  });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const guideNav = document.querySelector(".dg-guide__nav-list");
   if (!guideNav) return;
@@ -47,9 +53,12 @@ document.addEventListener("DOMContentLoaded", () => {
     link.innerText = text;
     link.addEventListener("click", (e) => {
       e.preventDefault();
-      document.querySelector(link.getAttribute("href")).scrollIntoView({
-        behavior: "smooth",
-      });
+      scrollIntoView(link.getAttribute("href"));
+
+      // This is necessary to account for a bug with multiple scroll listeners in Chromium browsers
+      setTimeout(() => {
+        scrollIntoView(link.getAttribute("href"));
+      }, 500);
     });
     subList.appendChild(link);
   }
