@@ -3,9 +3,9 @@
 {{ $parentPage := .Site.GetPage .parent.path }}
 <li class="usa-sidenav__item">
   <a
-    class="{{- cond (eq $parent $current) "usa-current" "" -}}"
     href="{{- $parentPage.Permalink -}}/#content-start"
     title="{{- $parent.title -}}"
+    {{- if (eq $parent $current) -}}class="usa-current"{{- end -}}
   >
     {{- $parent.title }}
   </a>
@@ -16,9 +16,9 @@
     {{- $subPage := $.Site.GetPage $subItem.path -}}
     <li class="usa-sidenav__item">
       <a
-        class="{{- cond (eq $subItem $current) "usa-current" "" -}}"
         href="{{- $subPage.Permalink -}}/#content-start"
         title="{{- $subItem.title -}}"
+        {{- if (eq $subItem $current) -}}class="usa-current"{{- end -}}
       >
         {{- $subItem.title -}}
       </a>

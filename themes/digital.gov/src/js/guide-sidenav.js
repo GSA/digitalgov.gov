@@ -79,7 +79,7 @@ function setCurrentHeader() {
   const href = topHeading.id;
   const oldLink = document.querySelector(".usa-sidenav__sublist .dg-current");
   if (oldLink) {
-    oldLink.classList.remove("dg-current");
+    oldLink.removeAttribute("class"); // Don't leave behind an empty class
   }
   const currentLink = document.querySelector(
     `.usa-sidenav__sublist [href="#${href}"]`
