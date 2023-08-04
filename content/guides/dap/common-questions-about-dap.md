@@ -17,16 +17,20 @@ aliases:
 {{< /box >}}
 
 ---
+## About the Digital Analytics Program’s migration to Google Analytics 4
+Understand how and why DAP is transitioning from Universal Analytics to Google Analytics 4
 
-## When will the Digital Analytics program migrate to Google Analytics 4?
-On July 1, 2024, the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) will replace Universal Analytics (UA) with [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4). 
+### Q: When will the Digital Analytics program migrate to Google Analytics 4?
+
+A: On July 1, 2024, the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) will replace Universal Analytics (UA) with [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4). 
 
 Between August 1, 2023, and June 31, 2024, DAP users will have access to both the legacy UA data and the new GA4 data. This overlap will allow everyone to become accustomed to interpreting and analyzing data in GA4. 
 
 Keep reading to learn more about how the DAP team is preparing for the transition and what you need to do.
 
-## How is DAP preparing for the GA4 migration?
-GA4 is very different from UA — from data collection and metrics, to user interface and reporting features. For example, GA4 tracks analytics for both websites and applications, while UA tracks analytics for websites only. Also, while UA uses measurement based on pageviews, GA4 uses a measurement model based solely on events. 
+### Q: How is DAP preparing for the GA4 migration?
+
+A: GA4 is very different from UA — from data collection and metrics, to user interface and reporting features. For example, GA4 tracks analytics for both websites and applications, while UA tracks analytics for websites only. Also, while UA uses measurement based on pageviews, GA4 uses a measurement model based solely on events. 
 
 The DAP team is taking several steps to prepare for the GA4 migration.
 
@@ -40,8 +44,9 @@ The DAP team is taking several steps to prepare for the GA4 migration.
 - **The DAP team is supporting the parallel UA (PUA) tracking parameter.** They will provide more information about the parallel GA4 tracking parameter soon
 The DAP team will continue to update this page and provide more information in the coming months. 
 
-## What actions are required for me to move to GA4?
-As a DAP customer, you should begin to explore the new GA4 data, reports, and available training resources. You should also complete the following two actions as soon as possible.
+### Q: What actions are required for me to move to GA4?
+
+A: As a DAP customer, you should begin to explore the new GA4 data, reports, and available training resources. You should also complete the following two actions as soon as possible.
 
 **Action 1: Review whether you use central hosting or host the DAP code locally.**
 
