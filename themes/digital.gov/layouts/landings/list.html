@@ -10,7 +10,7 @@
   <main role="main" id="main-content">
     {{- partial "core/glossary.html" . -}}
     <header class="dg-landing__hero">
-      {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" $.Params.image "small" false) -}}
+      {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $.Params.image "small" "false") -}}
       <div class="dg-landing__hero-text">
         <h1>{{- .Params.title -}}</h1>
         <a href="#content-start" class="usa-button usa-button--big"
@@ -30,7 +30,7 @@
             <div class="usa-card__container">
               <div class="usa-card__media usa-card__media--indent">
                 <div class="usa-card__img">
-                  {{- partial "core/img-flexible.html" (dict "Site" .Site "uid" .Params.image "small" true) -}}
+                  {{- partial "core/img-flexible.html" (dict "Site" .Site "src" .Params.image "small" "true") -}}
                 </div>
               </div>
               <div class="usa-card__header">
