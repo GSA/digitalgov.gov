@@ -4,7 +4,7 @@ title: "Principle 2: Teamwork"
 guide: hcd-design-concepts
 primary_image: hcd-design-concepts
 ---
-[![](https://lh3.googleusercontent.com/4JcQtq1pShT-1jh65cdkAg8cGNlD6bTngDO7VKTwCOICtJBqzh49tMN3m3eNDqhg8f7BTX6shHvpYm0ftFetEHNkr6IjoEmIew1fq8O8w7s5ApYY6tPnyTDgZJ2LzgQBiKL9DvUQu-psTTCfoxEO2Z6gNq4ibXimBIRQX-itSagfkc1qPtvFWIddrBkGuQ)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/principles-team.svg)
+{{< img src=hcd-design-concepts-2 >}}
 
 The myth of a solitary genius solving a huge problem no one else could solve is just that — a myth. Although CEOs, sports team leaders, and award-winners tend to get public credit, none of those people achieve their goals without the consistent, robust support of a variety of other people.
 
@@ -25,7 +25,7 @@ Designing for those unlike yourself depends on practicing empathy, to create des
 
 The word “empathy” is often used in the design circles to describe an ideal emotional state between designers and participants, in which the designers have so deeply learned about the participants’ experience with a product, service, system, or lack thereof, that they can, as nearly as possible, stand in their shoes. Practicing this emotional intelligence during the design phase allows designers to create solutions for people whose experiences they may never have, but with whom they can empathize successfully, to codesign new or evolved products, services, and systems that improve participants’ future experiences.
 
-Your team has practiced empathy throughout the discovery phase during [Interviews](https://docs.google.com/document/d/1mr8hjU-hYVICcVMY3Animpl1Khegvg0auFyG6BJ1E64/edit#heading=h.mcujc1yrmlov). As you move deeper into design, lean on that deep empathy or sympathy you developed while iterating, to help you design for your participants, even if they are different from you.
+Your team has practiced empathy throughout the discovery phase during [Interviews]({{< ref "/guides/hcd/discovery-operations/_index.md" >}}). As you move deeper into design, lean on that deep empathy or sympathy you developed while iterating, to help you design for your participants, even if they are different from you.
 
 {{< ring title="Case in point">}}
 ### VEO and transitioning veterans

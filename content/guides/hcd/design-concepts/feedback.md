@@ -52,14 +52,30 @@ This group will also encounter a closer-to-launch-fidelity prototype, which prep
 
 All participants outlined below should be current or future users of the product, service, or system that the team is currently designing. The differences between these people are their closeness to the research and design process of the new product, system, or service.
 
-|         |                                                                                                                                                                                                                                                      |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Round # | Ideal Candidate                                                                                                                                                                                                                                      |
-| 1       | Someone who was previously involved in the project, and is familiar with the research or design of the project phases. This can be one of your primarily research or design partners.                                                                |
-| 2       | Someone who is close to, but not directly involved in the research or design. This can be a teammate of someone who provided feedback in Round 1, but someone you haven't yet talked to.                                                             |
-| 3       | Someone who is aware of the project, but not previously involved in the research or design. This can be another teammate of people in Rounds 1 or 2 but, for whatever reasons, has been somewhat distanced from the project development.             |
-| 4       | Someone who has not previously talked to the team or the other participants about this project at all. This person's fresh eyes will help head off any stumbling blocks that, due to familiarity, the previous testers might have taken for granted. |
-
+<table class="usa-table usa-table--stacked">
+    <thead>
+      <tr>
+        <th>Round #</th>
+        <th>Ideal Candidate</th>
+      </tr>
+    </thead>
+    <tr>
+      <td data-label="Round #">1</td>
+      <td data-label="Ideal Candidate">Someone who was previously involved in the project, and is familiar with the research or design of the project phases. This can be one of your primarily research or design partners.</td>
+    </tr>
+    <tr>
+      <td data-label="Round #">2</td>
+      <td data-label="Ideal Candidate">Someone who is close to, but not directly involved in the research or design. This can be a teammate of someone who provided feedback in Round 1, but someone you haven't yet talked to.</td>
+    </tr>
+    <tr>
+      <td data-label="Round #">3</td>
+      <td data-label="Ideal Candidate">Someone who is aware of the project, but not previously involved in the research or design. This can be another teammate of people in Rounds 1 or 2 but, for whatever reasons, has been somewhat distanced from the project development.</td>
+    </tr>
+    <tr>
+      <td data-label="Round #">4</td>
+      <td data-label="Ideal Candidate">Someone who has not previously talked to the team or the other participants about this project at all. This person's fresh eyes will help head off any stumbling blocks that, due to familiarity, the previous testers might have taken for granted.</td>
+    </tr>
+</table>
 
 ### Use feedback to make changes
 
@@ -67,32 +83,23 @@ Each time the team gathers feedback on the designed product, service, or system,
 
 You work with the resources you have, within the constraints of the product, service, or system you first designed based on your research, to better fit the needs of the ultimate participants in your work. This means tweaks, not systemic changes.
 
-[![](https://lh6.googleusercontent.com/s5CxA_F8b9QquCznY3eMhCOCkS9bOtvFTEZn6dNRnrQeFjts5o2_K4VvJMVN9rPgtqVWzPPicIajHsIqFKBkHJqDDJhNzr3QYcQJjMNm8-uhzfS1d4b6ZvTkjirSt8I7akJlKNVxmoxyf9Ej-T77H87IscSorbhEQBHeYuBbjzkDMy-oMmAWLDaJvx6Glg)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/shapes_v1.gif)
-
-_This animation shows how the design changes as the team receives feedback on the proposed design. After each feedback round, the team makes changes to the design to reflect the needs expressed by the participants. Important to note: the changes should be to the details, not the core concept, of the design. If changes to the core concept of the design appear to be needed, the team should consult their discovery phase findings once again, and restart their design phase._
+{{< img src=hcd-design-concepts-19 >}}
 
 At this point, if you find the need for large scale, thematic or systemic changes, it means the design that you forwarded does not accurately reflect the opportunities identified in the discovery phase. The team will need to start again on the design process. This outcome is not failure; it simply means you know more about what your participants need. And, if you designed in quick iterations, you’ll easily be able to go back and change your direction without adding a great deal of cost or time to your project.
 
 Below, find another visualization of making small changes based on feedback. As you can see, the tangram shape stays roughly the same shape through all the revisions. They all look vaguely like a person standing up in different poses. Those different poses are created by moving around some of the pieces that make up the puzzle. These changes are analogous to the changes the design team should be making in the feedback cycle: ones that change details to the overall design, but not the core idea of the design itself.
 
-[__![](https://lh3.googleusercontent.com/DNMmSYZcN-oWUuTWPfHLwmYD-92mSiuN397mrG3m1PSQiucXUKxAotS3aoHSJEQJzsN747I4TmgnSp4I3mGfVX-Kp7OD16jWjRIzC4k1brm9ZXlOmvKH-pS4-YAfkgLrxB5FmDlkhkiyI2KFrNDyhLXv1NkdKIzSlz-ysNTb0NSpi6HfnetwfLizgli4ug)__](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/revision-dance_v3.gif)__![](https://lh6.googleusercontent.com/YAiRb8LWKXKnTk18E1yhY1N6N8GL4cNLEgAxbcyUQePtc6RFy2PS35BRc7FBy3V6UkTQV1KyZFXvWmd3mutzHR1X2Wri1fL65clSjGZ7EY-OACcjubdJLHDpLZpkKuZ5HZQdSNlEDNqePsD3dJ4hZQ7aJWQQ_iC79r4mwTGF4PbmL_Sr_z7vVtizBczGYw)__
-
-_This animation shows how, as the team makes changes to the design, the core thematic structure of the design should remain consistent and resonant with the participants’ core needs. At this stage, changes should be to details, not to overall design themes or needs._
-
+{{< img src=hcd-design-concepts-20 >}}
 
 ### Bringing it all together
 
 Through the feedback cycle, the team will talk to a variety of people to gather feedback on the product, service, or system the team is designing. Those people will have different positions around, and awareness of, the project and its history. As you gather feedback from these people, the team will make changes to its design in response to that input.
 
-[![](https://lh3.googleusercontent.com/cVEvqCUBY_jCZSCVZ6_vmwQ_1i6WDzBFbM9MmMIgh9G4x6pm66FWy0qnrnUXgD7N8a82sBNVeXDLLZqTEbf3OJSzoxqgWhWA6keNlK3WjXwdbg5WaByEQvR80LH3m0aJ9KNMrVSZsS78oVnXTK0bLh2r_FYrochBm46Ja0OGJobxlv6ZYe-bGQkzk45Y8w)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/comet_v2.gif)
-
-_This animation demonstrates that, as the team iterates on their design, they should seek out participants who are increasingly removed from the design process. In the first round of feedback, stay close to the participants who are familiar with your project. But, as the iterative loops continue, travel farther away from that group. This ensures that the feedback you receive reflects the experience of people who have not had previous information on your design work, and thusly do not have prior experience with or impression of the design. These people can provide "fresh eyes" on the team’ design, helping to ensure that your work will be clear to future, wholly new participants._
-
 If the feedback points the team to an entirely different design, that's okay, but the team must throw out its design and start the design process again. In this case, the team might want to review the opportunities from their discovery phase and identify a new direction for their design.
 
-
-### A note on using feedback
-
+                                                                                                    
+{{< note >}}
 Not every piece of feedback from each participant can or should be integrated. Be aware of the primary principles of the design phase (and review them if you need to) as well as the principles from your problem framing phase.
 
 If your design resonates deeply, people will be excited about its potential, have great ideas for improvements, and really want to see those improvements. Ensure that you compare those suggestions to your original project scope and technical ability. If you cannot integrate an improvement into this stage, that’s okay. Communicate to the participant that their feedback is well-placed and important, and that you will note it for integration into a future version or as an idea for a related product or service.
+{{< /note >}}

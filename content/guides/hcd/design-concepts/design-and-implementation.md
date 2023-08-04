@@ -1,10 +1,10 @@
 ---
 date: 2023-07-24 09:00:00 -0500
 title: "Design & Implementation"
+summary: "Learn about the issues with \"hand-offs\" and \"waterfall\""
 guide: hcd-design-concepts
 primary_image: hcd-design-concepts
 ---
-## No “hand-offs” or “waterfall”
 
 When the web was young, the “waterfall” process of development organically developed as a way content-makers and designers could push content to the engineering teams to be published on the web. The waterfall process of content development is linear: one team completes their tasks and passes to another team who completes their tasks and then pushes to another team, and so on, until the final product is realized.
 
@@ -18,4 +18,8 @@ So, in traditional print media, the groups had to do overlapping work; they had 
 
 The design phase is analogous to the communications phase during discovery: the discovery team must effectively communicate their findings to their leadership and partners, before the discovery stage can be considered complete. Until the design team works with the implementation team to conduct a small pilot and help that team create an implementation plan, their design work is not done, because the team has not set the design(s) they crafted up for success; the designs have been carefully, painstakingly crafted and then shoved out into the world without support or thought of sustainability.
 
-So never plan to just “hand off” your design work and roll off a project; stay in it through the first pilot and help your implementation team develop and test an implementation strategy. Only then will you have set your carefully designed solution up for success
+{{< note "plain">}}
+## Key Idea
+<br/>
+Never plan to just “hand off” your design work and roll off a project; stay in it through the first pilot and help your implementation team develop and test an implementation strategy. Only then will you have set your carefully designed solution up for success.
+{{< /note >}}

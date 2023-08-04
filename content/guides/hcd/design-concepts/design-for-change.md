@@ -4,7 +4,7 @@ title: "Principle 5: Design for change"
 guide: hcd-design-concepts
 primary_image: hcd-design-concepts
 ---
-[![](https://lh4.googleusercontent.com/A5WVCF4Z-NpaRhfE2rbriTAzNhtSPLwCEjozeeajAdlJiXhlqunlCNMArJ0p8KWkVqk8ufp8X5ZBS9v8TtA6LD6Xwywc8_-gwQ80V-fMzE1x_twpIanhYwvL5CMEBX7iqvISZ5mPkhI94AFFDq5MV5jTFKeBVmYiiGMcIhK2u0Vlraf-61f6c8BO5SKpdA)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/principles-change.svg)
+{{< img src=hcd-design-concepts-5 >}}
 
 The design phase requires energy and effort to reach the goal of usable products, services, and systems. While teams may think they must make all the right decisions or get everything perfect before launch, it’s important to remember that no design is permanent; everything will need to change and flex, and will ultimately be succeeded by something that is hopefully more useful and more delightful than the thing originally designed. To prepare for this and to build in space for flexibility and change, many design teams work as though they are always in an iterative loop: constantly designing, testing, delivering, and measuring designs they know aren’t perfect but are getting closer and closer to a perceived ideal. This state can last months or even years, and setting up designs to undergo this cycle is an important part of the design process.
 

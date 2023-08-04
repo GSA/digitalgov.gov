@@ -5,7 +5,7 @@ guide: hcd-design-concepts
 primary_image: hcd-design-concepts
 ---
 
-[![](https://lh4.googleusercontent.com/vQYMxRGarsRgdAP16Uh7xNA6VPplDeWFyE0A40SgxUV-zCq6kxlSx2OJx154lqkRABZsPzi0JBDFqt901ItGB8eCsWz4aZPccfjkLYneHOMZr6xtsyMeE995Mq1u0T2btMkAsGn8HzhnzFMipXs5qoFf6rnL7YNY2ar7zqUdqIMGV1cM_mr8ihOnjx7_ZA)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/principles-participants.svg)
+{{< img src=hcd-design-concepts-4 >}}
 
 Design in the public sector can seem a slower, more complicated affair than its private sector counterpart. However, each sector has its own unique values and pressures, terms to fulfill, and spaces to explore. While the private sector is pressured by a constant need for increasing profit and the short-term thinking that such a challenge requires, the public sector must respond to and support the public through long life spans, which means nurturing ideas that support planning ahead for decades of growth and change.
 

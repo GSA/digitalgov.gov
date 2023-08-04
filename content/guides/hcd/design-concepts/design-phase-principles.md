@@ -19,27 +19,33 @@ Global design phase principles are a high-level means of defining design phase w
 
 Below, find a sample set of global design principles. These principles, alongside those that you might create for your specific project, will help ensure that the designed product, service, or solution that your team develops embodies the perspectives and needs of your current and potential participants. These will be explained in detail in the following sections.
 
-1. Simple is hard
+{{< note "plain">}}
+## Key principles
+<br/>
 
-2. Teamwork
+1. [Simple is hard]({{< ref "/guides/hcd/design-concepts/simple-is-hard.md" >}})
 
-   1. No solitary geniuses
-   2. In their shoes
+2. [Teamwork]({{< ref "/guides/hcd/design-concepts/teamwork.md" >}})
 
-3. Design for humans
+   - No solitary geniuses
+   - In their shoes
 
-   1. Consider potential change
-   2. Value new participants
+3. [Design for humans]({{< ref "/guides/hcd/design-concepts/design-for-humans.md" >}})
 
-4. Design at scale
+   - Consider potential change
+   - Value new participants
 
-   1. Plan for long-term use
-   2. Public sector design
+4. [Design at scale]({{< ref "/guides/hcd/design-concepts/design-at-scale.md" >}})
 
-5. Design for change
+   - Plan for long-term use
+   - Public sector design
 
-   1. Wait for the right opportunity
-   2. Designs have a life cycle
+5. [Design for change]({{< ref "/guides/hcd/design-concepts/design-for-change.md" >}})
+
+   - Wait for the right opportunity
+   - Designs have a life cycle
+
+{{< /note >}}
 
 
 ## Project-level principles

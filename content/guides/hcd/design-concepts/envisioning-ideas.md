@@ -33,18 +33,10 @@ In design, we bring our metaphors into visual, audio, and tactile forms so that 
 ### Using references: communicating happiness
 
 In this example, a team member would like to describe a product or service that should have a happy, sunny feeling. To do this, the team member has collected images to help them communicate what they mean when they talk about a happy, sunny feeling.
-![](https://lh5.googleusercontent.com/39Pn75kHTE7w9rXxIy4XAFooHkNyyElVB1JX1AGRbD1WqgD44nf-g2I2PX724tcngNSS6_VOe30F2PS9sfMqu1KnKILbnnvewx6CFHKmZQWQ4vhpIYP_jz4_TlWCtdLqBGzh4HXX6gbyT1uTFNjmvuINhqt6s8lmigvtAnbhEpRNLg35-YX8Xc0lvDxI0g)
 
-[![](https://lh6.googleusercontent.com/uwYoPFf9Dw7opBfpuF2Ap7waNY4ucApxciYBiS1un8r_5p0zMhlcBu-lakRm7HRdhrCna7fiENmLt1HY3Od2QKFCZFt5T1sI0OVk6kG-pB1tDmedqxGBy61hCDsdD-tfICEZduSWv9DHyN4TxlQS7FDmvgyoYQMgUvF7bACyY-pkB-czz-tz23v9zVuEPg)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/sunny_logo.svg)
-
-[![](https://lh5.googleusercontent.com/al8SGSow4Hm0k3mNRIPnvouFrM2cJ0l5igvPNLXqCfxhXbd-wSby3EJHJCzYyuSkfSVxKCwlrna4DWkdfQBPsPozBSnrzGA8thUgvOV3E-4hn5CoTg-mXOetAowt-0sLYmoZetMU0r7xp5C5FspS-qVvJYwpxWOjQqv9TFvon5ISXGN6r8fEztVyXvU01Q)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/walking.svg)
-
-[![](https://lh4.googleusercontent.com/jhk5ynIs-XEItLCSXvd8nkJ0JigQH6MjWM_AElfOArDYt14Tgjy56tN42sbuDBtP2NhPTLeRi-ZsKTt_bb5Df2Q5mES4HJ6pxJbRaQ_QD732n137iXEHhY4RfUzO8wO9HklR8GZilYdSU0-IM3xAi6e9o229H0-piYF0LbesAOdDWSO5ZQ0S5mcg0X16Mg)](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/sunny_beach.svg)
-
+{{< img src=hcd-design-concepts-15 >}}
 
 None of these images are actually images of “happy.” One is a line drawing of two people talking to each other with stars around them. One is a logo that uses a sun-like form that seems like it might be quite happy and optimistic. The third is just the words “I’m walking on sunshine,” but in a font that looks happy and fat, sort of like it’s written in toothpaste. And the fourth is a photo of a beach on a sunny day, which many people associate with happiness.
-
-[\[Link 1\]](https://the-lab-at-opm.github.io/website/assets/img/lab/hcd-guide/design/talking.svg)
 
 None of these images are actually images of happiness, and none of them are particularly sophisticated. In fact, they look homemade or pulled off the internet. And that’s part of the point: references shouldn’t be polished; they’re a quick way to communicate your thoughts, not your final presentation. But what is a picture of happiness, and how could your final idea be just “happiness”? First, there isn’t one picture of happiness, because it’s different for all of us, and second, this is not the time to have a final idea; you’re still envisioning and communicating your first draft ideas. This is why using references is so useful when talking about abstract concepts like happiness, and when working at the early stages of your design phase.
 
@@ -59,4 +51,7 @@ For example, although a student cannot bring to class the hike in the woods they
 
 As adults, images and objects function in the same way: an object or visualization allows us to give shapes to ideas. From that starting point, we can then talk about a desired experience, substance, process, etc., that cannot be present. For this reason, the old game of Show and Tell is as useful in meetings as it was in your grade school’s class.
 
-Note: It’s important to understand that different cultures assign different meanings to shapes, colors, gestural forms, and groupings, the same way different parts of the U.S. assign different meanings to words (try ordering a “pop” in a restaurant in the South. No one will know what you’re talking about.) Additionally, people with different cognitive abilities may not immediately understand these abstract methods of representation. For this reason, if the design work is to be shared across languages or cultures, some research is required to ensure that the work retains the intended impact across all audiences, and during Show and Tell, the connection between the reference and the intended effect should be explicitly stated.
+{{< note >}}
+
+It’s important to understand that different cultures assign different meanings to shapes, colors, gestural forms, and groupings, the same way different parts of the U.S. assign different meanings to words (try ordering a “pop” in a restaurant in the South. No one will know what you’re talking about.) Additionally, people with different cognitive abilities may not immediately understand these abstract methods of representation. For this reason, if the design work is to be shared across languages or cultures, some research is required to ensure that the work retains the intended impact across all audiences, and during Show and Tell, the connection between the reference and the intended effect should be explicitly stated.
+{{< /note >}}
