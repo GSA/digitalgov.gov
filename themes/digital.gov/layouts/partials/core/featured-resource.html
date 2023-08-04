@@ -1,0 +1,33 @@
+{{- $resourcePath := .resourcePath -}}
+{{- $kicker := .kicker -}}
+{{- if $resourcePath -}}
+  {{- $resource := .Site.GetPage $resourcePath -}}
+  {{- if $resource -}}
+
+    <div class="dg-featured-resource">
+      <a
+        href="{{- $resource.Permalink | absURL -}}"
+        class="dg-featured-resource__body"
+      >
+        <div class="dg-featured-resource__text">
+          <p class="dg-featured-resource__text-kicker">
+            {{- if $kicker -}}
+              {{- $kicker | markdownify -}}
+            {{- else -}}
+              Featured Resource
+            {{- end -}}
+          </p>
+          <h2 class="dg-featured-resource__text-title">
+            {{- $resource.Params.title -}}
+          </h2>
+          <p class="dg-featured-resource__text-description">
+            {{- $resource.Params.summary -}}
+          </p>
+        </div>
+        <div class="dg-featured-resource__image">
+          {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $resource.Params.image "small" "true") -}}
+        </div>
+      </a>
+    </div>
+  {{- end -}}
+{{- end -}}
