@@ -5,7 +5,7 @@ function getHeadings() {
     const body = document.querySelector(".dg-guide__content-body");
     if (body) {
       const headings = body.querySelectorAll(
-        "h2:not(.dg-featured-resource__text-title), h3"
+        "h2:not(.dg-featured-resource__text-title), h3:not(.usa-accordion__heading)"
       );
       return headings;
     }
