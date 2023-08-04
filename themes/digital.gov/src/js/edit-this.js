@@ -22,7 +22,7 @@
    * Adds github "button" link and highlight style to Github items
    * Add link as last child in the parent element
    */
-  function enableEditThis() {
+  function enableEditMode() {
     githubEditLinks.forEach((link) => {
       const githubFilepath = link.getAttribute("data-edit-this");
       const editSpan = Object.assign(document.createElement("span"), {
@@ -46,7 +46,7 @@
    * Remove highlight style and edit button element from Github items
    * Removes the last child link from the parent element
    */
-  function disableEditThis() {
+  function disableEditMode() {
     // eslint-disable-next-line func-names
     githubEditLinks.forEach((link) => {
       link.classList.remove("edit-this");
@@ -62,10 +62,10 @@
     event.preventDefault();
 
     if (this.classList.contains("active")) {
-      disableEditThis();
+      disableEditMode();
       this.classList.remove("active");
     } else {
-      enableEditThis();
+      enableEditMode();
       this.classList.add("active");
     }
   });
