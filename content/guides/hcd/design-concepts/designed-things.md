@@ -8,7 +8,7 @@ primary_image: hcd-design-concepts
 
 It’s easy to believe that the thing a design team makes is, in fact, the “design." However, it’s actually a physical expression of the nuanced, well-informed, and carefully constructed design ideas that the team has formed through the process of discovery and design. In other words, it’s exciting to create a new thing based on your research, and to test that thing with participants, and launch it into the world, but that thing must adhere to needs found in discovery, and be constrained by the opportunities found during synthesis.
 
-{{< img src=hcd-design-concepts-6 >}}
+{{< img-flexible src="hcd-design-concepts-6" small="true">}}
 
 This is a process illustration of turning insights into opportunities. The illustration uses tangrams to show how each opportunity can be developed into multiple iterations. Tangrams are dissection puzzles consisting of seven flat shapes, called tans, which are put together to form shapes. Since a tangram puzzle allows us to create many shapes out of the same component parts, they represent a useful parallel to solving a design problem. If these tangram puzzles were actual design solutions, they would reflect the similarities of their origins while illustrating the process of iterating on ideas.
 

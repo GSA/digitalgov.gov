@@ -23,6 +23,6 @@ This program was a match between The Lab’s mission to provide education and tr
 
 Since its establishment in 2015, VEO had relied almost exclusively on a combination of designs from The Lab at OPM and HCD contract resources to source expertise in applying HCD to solve complex problems. As the designated CX organization in VA, VEO sought to increase its HCD capacity through this program to deepen VEO’s understanding of Veteran needs and develop innovative tools and solutions to meet those needs. This program was also an opportunity for VEO and The Lab at OPM to build an HCD capacity building program that could be leveraged by other Agencies in support of the President’s Management Agenda (PMA), Cross-Agency Priority (CAP) Goal of Improving Customer Experience with Federal Services. This program was designed to increase VEO’s capacity to provide HCD support to VA and provide a framework for other Agencies to use as well.
 
-{{< img src=hcd-design-concepts-13 >}}
+{{< img-flexible src="hcd-design-concepts-13" small="true">}}
 
 The HCD Capacity Building program is an example of a service that one agency (OPM) provides to another agency (VA). The exchange consisted of knowledge and practice, and return on investment was long-term and strategic.

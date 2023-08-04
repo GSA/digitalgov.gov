@@ -20,7 +20,7 @@ To understand iteration at the immediate, daily level, think about emails. Any e
 
 Designs must emerge from discovery. You may recognize this process diagram from the [designed things]({{< ref "/guides/hcd/design-concepts/designed-things.md" >}}) section of this guide. It shows how each opportunity can be developed into multiple iterations.
 
-{{< img src=hcd-design-concepts-6 >}}
+{{< img-flexible src="hcd-design-concepts-6" small="true" >}}
 
 The tangrams in the fields of opportunity are stand-ins for an iterative design process. Why tangrams? Because a tangram puzzle is a useful way to talk about the cycle of ideation and iteration during the design phase. Every tangram consists of the same seven shapes, called tans.
 
