@@ -18,7 +18,7 @@ aliases:
 
 ---
 ## About the Digital Analytics Program’s migration to Google Analytics 4
-Understand how and why DAP is transitioning from Universal Analytics to Google Analytics 4
+Understand how and why DAP is transitioning from Universal Analytics to Google Analytics 4.
 
 ### Q: When will the Digital Analytics program migrate to Google Analytics 4?
 
