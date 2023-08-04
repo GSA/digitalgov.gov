@@ -1,7 +1,7 @@
 {{- $type := .type -}}
 {{- $item := .item -}}
 {{- $page := .page -}}
-{{- $className := cond (eq $type "previous") "dg-guide__guide-buttons-prev-item usa-button usa-button--outline" "dg-guide__guide-buttons-next-item usa-button" -}}
+{{- $className := cond (eq $type "previous") "dg-guide__prev-next-prev-item usa-button usa-button--outline" "dg-guide__prev-next-next-item usa-button" -}}
 {{- $iconName := cond (eq $type "previous") "uswds/img/sprite.svg#arrow_back" "uswds/img/sprite.svg#arrow_forward" -}}
 
 
