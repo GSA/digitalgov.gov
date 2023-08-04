@@ -9,11 +9,8 @@ nav:
   subnav   :
   - title  : 'Three Easy Tasks'
     path   : '/guides/guide-home/getting-started/basics/three-easy-tasks/'
-  - title  : 'Example Subnav'
-    path   : '/guides/guide-home/getting-started/example-subnav/'
-    subnav :
-    - title: 'Example Page'
-      path : '/guides/guide-home/getting-started/example-subnav/example-page/'
+  - title  : 'Something Else'
+    path   : '/guides/guide-home/getting-started/something-else/'
 - title    : 'Design Principles'
   path     : '/guides/guide-home/design-principles/'
   subnav   :
