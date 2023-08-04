@@ -45,12 +45,14 @@ The DAP team will continue to update this page and provide more information in t
 ### Two actions are required as soon as possible
 As a DAP customer, you should begin to explore the new GA4 data, reports, and available training resources. You should also complete the following two actions as soon as possible.
 
-**Action 1:** Review whether you use central hosting or host the DAP code locally
+**Action 1: Review whether you use central hosting or host the DAP code locally.**
+
 Most agencies call the DAP code from the centrally hosted file, [https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js](https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js). If you use central hosting, no action is needed to switch to DAP GA4 and the latest code. 
 
 If your agency hosts the DAP code locally on your own servers, you will be required to replace the existing DAP code version with the new DAP dual tracking code. See the latest [Universal-Federated-Analytics-Min.js](https://github.com/digital-analytics-program/gov-wide-code/blob/master/Universal-Federated-Analytics-Min.js) file under the `gov-wide-code` repository in the [Digital Analytics program Github organization](https://github.com/digital-analytics-program) (published on August 1, 2023).
 
-**Action 2:** Use the agency parameter 
+**Action 2: Use the agency parameter.**
+
 Use the custom agency parameter to more efficiently analyze and filter data in GA4 and understand differences in trends across participating agencies. Also use the custom sub-agency parameter, if applicable. See, for example, the agency parameter used in a DAP tag with central hosting:
 ```
 <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script>. 
