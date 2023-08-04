@@ -63,7 +63,7 @@ Use the custom agency parameter to more efficiently analyze and filter data in G
 
 Contact the DAP team at [dap@gsa.gov](dap@gsa.gov) with any questions about these two action items.
 
-**Connect with others interested in the DAP GA4 migration**
+**Connect with others interested in the DAP GA4 migration.**
 
 Want to learn more? 
 Join the [Web Analytics community of practice](https://digital.gov/communities/web-analytics-and-optimization/) to connect with other federal analytics professionals who are using data to transform how the government interacts with the public.
