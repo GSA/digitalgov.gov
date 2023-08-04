@@ -1,3 +1,7 @@
+{{- $guideData := index $.Site.Data.guidenav -}}
+{{ if .Params.guide }}
+  {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
+{{ end }}
 {{- $title := cond .IsNode .Title .Parent.Title -}}
 {{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
 
