@@ -109,6 +109,7 @@ Comment —
       </svg>
       Who can join?
     </h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "plain") -}}
   {{- else -}}
     <h4>
       <svg
