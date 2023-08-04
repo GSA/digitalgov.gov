@@ -1,8 +1,6 @@
 /**
  * Sets the most recent commit timestamp for the page
  * This is displayed in #page-data section at the bottom of the page
- * Sets git details from the <head> tag by reading data-attributes from a script tag
- * Disabling no-undef because some vars are set in templates.
  */
 
 // eslint-disable-next-line func-names
@@ -15,7 +13,7 @@
   const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitBranch}/content/${gitFilepath}`;
 
   /**
-   * get hugo file path from each hugo resource
+   * Get hugo file path from the data-edit-this attribute
    * example string: news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
    */
   if (editPageLink) {
@@ -40,7 +38,7 @@
   }
 
   /**
-   * format date from github ISO format to human friendly string
+   * format github ISO date format to human friendly string
    * @param {timezone} timezoneDate YYYY-MM-DDTHH:MM:SSZ
    * @returns {string} Formatted string that reads like "Jul 6, 2023 at 5:23 p.m., ET"
    */
@@ -70,6 +68,7 @@
 
   /**
    * display github commit date in <p> tag at bottom of page
+   * creates the markup and adds the commit date and URL path for editing on github
    * @param {json} data response object from github api /commit endpoint
    */
   function showLastCommit(data) {
@@ -99,11 +98,10 @@
   }
 
   /**
-   * if #page-data component exists, add "edit in github" button to it
-   * @return none
+   * Add "Edit" link to the #page-data element before the "Last updated on" commit timestamp
+   * Checks if page has the #page-data element for single pages, not displayed on landing pages
    */
   function buildEditFileLink() {
-    // gitEditFilePath is referenced in the <head> on a script tag
     if (gitEditFilePath !== undefined) {
       const githubEditLink = Object.assign(document.createElement("a"), {
         classList: "edit-file-link",
@@ -116,11 +114,10 @@
       if (editPageLink) editPageLink.appendChild(githubEditLink);
     }
   }
-  buildEditFileLink();
 
   /**
-   * use the gitFilepath string to retrieve the commit details from Github API
-   * @param {string} gitFilepath path of hugo file that returns events/2023/06/2023-06-08-uswds-monthly-call-june-2023.md
+   * Retrieves Github API commit information for hugo resource/page
+   * @param {string} gitFilepath path of hugo file that returns "events/2023/06/2023-06-08-uswds-monthly-call-june-2023.md"
    */
   async function getCommitData() {
     let branchPath;
@@ -147,5 +144,7 @@
       }
     }
   }
+
+  buildEditFileLink();
   getCommitData();
 })();

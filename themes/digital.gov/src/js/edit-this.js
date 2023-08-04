@@ -1,16 +1,16 @@
 // Sets the github URL link and button styles for each resource when edit-mode is enabled
 // eslint-disable-next-line func-names
 (function () {
-  let gitBranch;
   const githubEditLinks = document.querySelectorAll("*[data-edit-this]");
   const editToolsButton = document.querySelector(".edit-tools");
 
   /**
-   * Set the branch from the URL path
+   * Gets the branch from the URL path to set the github filepath
    * If on cloud.pages then get the branch name from the URL
    * Otherwise, use main for local host and production
    */
   const host = window.location.hostname;
+  let gitBranch;
   if (host.includes("/preview/gsa")) {
     // eslint-disable-next-line prefer-destructuring
     gitBranch = window.location.pathname.split("/")[4];
@@ -19,8 +19,8 @@
   }
 
   /**
-   * add github "button" link and highlight style to github items on the page
-   * add link as last child in the parent element
+   * Adds github "button" link and highlight style to Github items
+   * Add link as last child in the parent element
    */
   function enableEditThis() {
     githubEditLinks.forEach((link) => {
@@ -43,8 +43,8 @@
   }
 
   /**
-   * remove highlight style and edit button element from github items on the page
-   * removes the last child link from the parent element
+   * Remove highlight style and edit button element from Github items
+   * Removes the last child link from the parent element
    */
   function disableEditThis() {
     // eslint-disable-next-line func-names
@@ -55,8 +55,7 @@
   }
 
   /**
-   * add event listener for toggling highlight and normal states for github resources
-   * @return none
+   * Add event listener to the edit tools button for toggling highlight and normal states
    */
   // eslint-disable-next-line func-names
   editToolsButton.addEventListener("click", function (event) {
