@@ -10,6 +10,9 @@
   href="{{- $page.Permalink -}}/#content-start"
   title="{{- $item.title -}}"
 >
+  {{ if (eq $type "next") }}
+    <span>{{- $item.title -}}</span>
+  {{ end }}
   <svg
     class="usa-icon dg-icon dg-icon--standard"
     aria-hidden="true"
@@ -18,5 +21,7 @@
   >
     <use xlink:href="{{ $iconName | relURL }}"></use>
   </svg>
-  <span>{{- $item.title -}}</span>
+  {{ if (eq $type "previous") }}
+    <span>{{- $item.title -}}</span>
+  {{ end }}
 </a>
