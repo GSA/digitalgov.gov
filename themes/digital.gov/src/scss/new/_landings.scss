@@ -51,20 +51,30 @@
       @include u-font("sans", "2xs");
     }
 
+    .dg-featured-resource {
+      max-width: none;
+    }
+
     h1 {
       font-size: 3em;
       font-weight: font-weight("heavy");
     }
 
     .js-glossary-toggle {
+      color: color($theme-link-color);
       display: inline;
+      text-decoration: underline;
     }
 
     p,
     ul {
       @include u-font("sans", "lg");
+      @include u-measure(6);
       font-weight: font-weight("light");
-      max-width: 100%;
+    }
+
+    .ring {
+      max-width: none;
     }
 
     .usa-card__img {

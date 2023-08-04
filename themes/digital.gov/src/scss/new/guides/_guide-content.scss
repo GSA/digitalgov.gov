@@ -11,8 +11,13 @@
     margin-bottom: units(5);
     overflow: hidden;
 
+    h2,
+    h3 {
+      @include u-measure(6);
+    }
+
     p {
-      max-width: none;
+      @include u-measure(6);
     }
   }
 
@@ -21,6 +26,7 @@
 
     &-deck {
       @include u-font("sans", "xl");
+      @include u-measure(2);
       color: color("primary-darker");
       font-weight: font-weight("light");
       margin-top: 0;
@@ -28,6 +34,7 @@
 
     &-title {
       @include u-font("sans", "2xl");
+      @include u-measure(2);
       font-weight: font-weight("bold");
       margin-bottom: 0;
     }

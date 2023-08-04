@@ -2,6 +2,7 @@
 
 .ring {
   @include u-border("primary", 2px);
+  @include u-measure(6);
   border-radius: radius("lg");
   margin-bottom: units(1);
   padding: units(2);

@@ -1,6 +1,7 @@
 @use "uswds-core" as *;
 
 .card-quote {
+  @include u-measure(6);
   @include u-margin-bottom(3);
   @include u-bg("gold-5");
   @include u-radius("sm");

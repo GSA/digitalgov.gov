@@ -1,6 +1,8 @@
 @use "uswds-core" as *;
 
 .dg-featured-resource {
+  @include u-measure(6);
+
   a,
   a:hover {
     text-decoration: none;
