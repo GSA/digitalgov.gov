@@ -5,12 +5,18 @@ function getHeadings() {
     const body = document.querySelector(".dg-guide__content-body");
     if (body) {
       const headings = body.querySelectorAll(
-        "h2:not(.dg-featured-resource__text-title), h3"
+        "h2:not(.dg-featured-resource__text-title), h3:not(.usa-accordion__heading)"
       );
       return headings;
     }
   }
   return [];
+}
+
+function scrollIntoView(element) {
+  document.querySelector(element).scrollIntoView({
+    behavior: "smooth",
+  });
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -47,9 +53,12 @@ document.addEventListener("DOMContentLoaded", () => {
     link.innerText = text;
     link.addEventListener("click", (e) => {
       e.preventDefault();
-      document.querySelector(link.getAttribute("href")).scrollIntoView({
-        behavior: "smooth",
-      });
+      scrollIntoView(link.getAttribute("href"));
+
+      // This is necessary to account for a bug with multiple scroll listeners in Chromium browsers
+      setTimeout(() => {
+        scrollIntoView(link.getAttribute("href"));
+      }, 500);
     });
     subList.appendChild(link);
   }
