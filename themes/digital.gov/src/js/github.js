@@ -7,40 +7,39 @@
 (function () {
   const editFileButton = document.querySelector(".edit-file");
   const editPageLink = document.querySelector("#page-data .edit-file");
-  let gitFilepath;
-  let gitBranch;
+  const gitRepo = {};
 
-  const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitBranch}/content/${gitFilepath}`;
+  const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
 
   /**
-   * Get hugo file path from the data-edit-this attribute
+   * Get hugo file path from the data-edit-this attribute to link to Github repo location
    * example string: news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
    */
   if (editPageLink) {
-    gitFilepath = document
+    gitRepo.filepath = document
       .querySelector("div[data-edit-this]")
       .getAttribute("data-edit-this");
   } else {
-    gitFilepath = "";
+    gitRepo.filepath = "";
   }
 
   /**
    * Set the branch from the URL path
-   * If on cloud.pages then get the branch name from the URL
-   * Otherwise, use main for local host and production
+   * If on cloud.pages get the branch name from the URL
+   * Otherwise, use main for localhost and production
    */
   const host = window.location.hostname;
-  if (host.includes("/preview/gsa")) {
+  if (host.includes("sites.pages.cloud.gov")) {
     // eslint-disable-next-line prefer-destructuring
-    gitBranch = window.location.pathname.split("/")[4];
+    gitRepo.branch = window.location.pathname.split("/")[4];
   } else {
-    gitBranch = "main";
+    gitRepo.branch = "main";
   }
 
   /**
-   * format github ISO date format to human friendly string
+   * format github ISO date format to human friendly datetime string
    * @param {timezone} timezoneDate YYYY-MM-DDTHH:MM:SSZ
-   * @returns {string} Formatted string that reads like "Jul 6, 2023 at 5:23 p.m., ET"
+   * @returns {string} Formatted string that reads "Jul 6, 2023 at 5:23 p.m., ET"
    */
   function formatDate(timezoneDate) {
     const inputDate = new Date(timezoneDate);
@@ -67,14 +66,14 @@
   }
 
   /**
-   * display github commit date in <p> tag at bottom of page
-   * creates the markup and adds the commit date and URL path for editing on github
+   * Display github commit date in <p> tag at bottom of page
+   * Creates the markup and adds the commit date and URL path for editing on github
    * @param {json} data response object from github api /commit endpoint
    */
   function showLastCommit(data) {
     const commitData = Array.isArray(data) ? data[0] : data;
     const commitDate = commitData.commit.committer.date;
-    const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitBranch}/content/${gitFilepath}`;
+    const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitRepo.branch}/content/${gitRepo.filepath}`;
 
     const lastCommitParagraph = Object.assign(document.createElement("p"), {
       innerHTML: "Last updated on ",
@@ -116,19 +115,19 @@
   }
 
   /**
-   * Retrieves Github API commit information for hugo resource/page
-   * @param {string} gitFilepath path of hugo file that returns "events/2023/06/2023-06-08-uswds-monthly-call-june-2023.md"
+   * Retrieves Github API commit information for single hugo resource/page
+   * Uses branchPath and gitRepo.filepath to build Github URL
    */
   async function getCommitData() {
     let branchPath;
-    if (gitBranch === "main") {
+    if (gitRepo.branch === "main") {
       branchPath = "";
     } else {
-      branchPath = `/${gitBranch}`;
+      branchPath = `/${gitRepo.branch}`;
     }
 
     // eslint-disable-next-line camelcase
-    const commitApiPath = `https://api.github.com/repos/gsa/digitalgov.gov/commits${branchPath}?path=/content/${gitFilepath}`;
+    const commitApiPath = `https://api.github.com/repos/gsa/digitalgov.gov/commits${branchPath}?path=/content/${gitRepo.filepath}`;
 
     if (commitApiPath !== undefined) {
       const githubResponse = await fetch(`${commitApiPath}`);
