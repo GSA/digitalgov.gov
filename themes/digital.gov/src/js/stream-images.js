@@ -2,94 +2,44 @@
  *
  * Reads json file of hosted at /images/v1/json/ and displays images and meta-data on /images
  *
- * 1. Add pagination
- * 2. Refactor to use native js
- * 3. Remove hugo setting all_imagesJson, refactor to use variable
+ * TODO: Add pagination
+ * TODO: create img-card component
+ * DONE Refactor to use native js
+ * DONE Remove hugo setting all_imagesJson, refactor to use variable
  */
 
+// eslint-disable-next-line func-names
 (function () {
   const imagesJSONPath = "/images/v1/json/";
-  /**
-   * ! This function is called but it's results are not used!
-   * @param {string} uid
-   * @param {string} format
-   * @param {number} width
-   * @returns array of URLS to AWS endpoints
-   *
-   *  https://s3.amazonaws.com/digitalgov/guide-web-analytics-playbook_w200.png
-   *  https://s3.amazonaws.com/digitalgov/guide-web-analytics-playbook_w200bw.png
-   */
-  function listAllImageSizes(uid, format, width) {
-    const imageSizes = ["200", "400", "600", "800", "1200", "2400"]; // all image sizes
-    const imageURLS = [];
-
-    imageSizes.forEach((size) => {
-      if (width > size) {
-        // big-bend_w200.jpg
-        const img = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}.${format}`;
-        // big-bend_w200bw.jpg
-        const bwImg = `https://s3.amazonaws.com/digitalgov/${uid}_w${size}bw.${format}`;
-        imageURLS.push(img, bwImg);
-      }
-    });
-    return imageURLS;
-  }
 
   /**
-   *
-   * Fetch images json and create array of image objects
-   * @return {array} array of image objects
-   */
-  async function fetchImagesData() {
-    const imagesData = await fetch(`${imagesJSONPath}`);
-    const imagesJSON = await imagesData.json();
-    const imagesToDisplay = [];
-
-    imagesJSON.forEach(function (image) {
-      const { width, date, uid, credit, caption, alt, format } = image;
-      const imageObject = Object.assign(
-        {},
-        {
-          width,
-          date,
-          uid,
-          credit,
-          caption,
-          alt,
-          format,
-        }
-      );
-      imagesToDisplay.push(imageObject);
-    });
-
-    createImagesStream(imagesToDisplay);
-  }
-
-  fetchImagesData();
-
-  /**
-   * Returns image thumbnail path and checks to see if size is greater than 400px
-   * Only want to display 400px or smaller for thumbnail
+   * Returns image thumbnail path
+   * Checks if image size is greater than 400px
+   * Will display 400px or smaller for thumbnail
    * @param {object} image object
    * @returns {string} URL string path for image thumbnail
    */
   function createImageThumbnail(image) {
+    let thumbnail = "";
     // If the image is greater than 400px
     if (image.width > 400) {
       // get the w400 format, e.g. big-bend_w400.jpg
-      return `https://s3.amazonaws.com/digitalgov/${image.uid}_w400.${image.format}`;
+      thumbnail = `https://s3.amazonaws.com/digitalgov/${image.uid}_w400.${image.format}`;
     } else {
       // else get the original image (which should be less than 400px), e.g. big-bend.jpg
-      return `https://s3.amazonaws.com/digitalgov/${image.uid}.${image.format}`;
+      thumbnail = `https://s3.amazonaws.com/digitalgov/${image.uid}.${image.format}`;
     }
+    return thumbnail;
   }
 
   /**
    * Returns image element markup as string
    * TODO: Refactor to return elements not strings
+   * Add to DOM as HTML elements using createElement and fragment
+   * Or Add as template strings merged into one large template string and added at one time
    *
    * @param {object} image object
-   * @returns {string} HTML string to be rendered in markup
+   * @returns {string} HTML markup for image element
    */
   function createImageElement(image) {
     return `<div class="card-img">
@@ -112,8 +62,9 @@
           <pre>{{< img src="${image.uid}" >}}</pre>
         </div>
         <p class="edit btn"><a target="_new" href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${image.uid}.yml" title="view on GitHub">Edit on GitHub »</a></p>
+        <hr>
+        <p class="meta">Uploaded on ${image.date}</p>
       </div>
-    <p class="meta">Uploaded on ${image.date}</p>
     </div>
   </div>`;
   }
@@ -125,14 +76,32 @@
    */
   function createImagesStream(imagesToDisplay) {
     const imagesStreamContainer = document.querySelector("#stream-images");
-    const imagesStreamFragment = document.createDocumentFragment();
+    // const imagesStreamFragment = document.createDocumentFragment();
+    let imagesMarkupString = "";
 
     imagesToDisplay.forEach((image) => {
+      // eslint-disable-next-line no-param-reassign
       image.thumbNail = createImageThumbnail(image);
-      let imageElement = createImageElement(image);
-      imagesStreamFragment.append(imageElement);
+      const imageElement = createImageElement(image);
+      imagesMarkupString += imageElement;
     });
-
-    imagesStreamContainer.append(imagesStreamFragment);
+    imagesStreamContainer.innerHTML = imagesMarkupString;
   }
+
+  /**
+   * Fetch images json and create array of image objects
+   * @return {array} array of image objects
+   */
+  async function fetchImagesData() {
+    const imagesData = await fetch(`${imagesJSONPath}`);
+
+    if (!imagesData.ok) {
+      throw new Error("Images json error");
+    }
+    const imagesJSON = await imagesData.json();
+    createImagesStream(imagesJSON);
+  }
+
+  // fetch data, render markup, add to DOM
+  fetchImagesData();
 })();

@@ -77,12 +77,7 @@
   <script src="{{ "dist/js/jquery.min.js" | absURL }}"></script>
   <script src="{{ "dist/js/uswds.min.js" | absURL }}"></script>
   <script src="{{ "dist/js/common.js" | absURL }}"></script>
-
-  <!-- Set the Images API as a variable -->
-<script type="text/javascript">
-  var root_url = {{ "" | absURL }};
-  var all_imagesJson = {{ "images/v1/json/" | absURL }};
-</script> {{/* Custom JS */}}
+  {{/* Custom JS */}}
   {{- if $.Params.js -}}
     {{- range $.Params.js -}}
       {{- $path := (printf "dist/%s" .) | absURL -}}
