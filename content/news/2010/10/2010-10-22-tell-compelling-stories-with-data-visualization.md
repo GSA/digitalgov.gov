@@ -30,4 +30,4 @@ Information design expert and Yale professor **[Edward Tufte](http://www.stanfor
 
 > “Clutter and confusion are not attributes of information; they are failures of design.”
 
-Watch the on-demand event with presenter **Stephen Few**. Stephen is a principal with Perceptual Edge and presents [simple skills and common mistakes you should avoid when "telling stories" using data visualization](https://web.archive.org/web/20140801222759/www.digitalgov.gov/files/2013/12/telling-stories-with-numbers-slides.pdf).
+Watch the on-demand event with presenter **Stephen Few**. Stephen is a principal with Perceptual Edge and presents [simple skills and common mistakes you should avoid when "telling stories" using data visualization (PDF, 3.5 MB, 49 pages)](https://web.archive.org/web/20140801222759/www.digitalgov.gov/files/2013/12/telling-stories-with-numbers-slides.pdf).
