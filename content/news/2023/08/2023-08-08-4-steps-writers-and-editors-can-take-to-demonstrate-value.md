@@ -1,11 +1,9 @@
 ---
 date: 2023-08-08 21:00:00 -0500
-kicker: kick
+kicker: 
 title: 4 steps writers and editors can take to demonstrate value
 deck: How to strike a balance between cost and value
-summary: As plain language writers and editors, we need to demonstrate the value
-  we bring to projects. This writeup explains how to calculate the costs of our
-  work and articulate its value.
+summary: As plain language writers and editors, we need to demonstrate the value we bring to projects. This writeup explains how to calculate the costs of our work and articulate its value.
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
@@ -15,13 +13,20 @@ topics:
   - performance
   - professional-development
   - writing
+
+# See all authors at https://digital.gov/authors
+authors:
+  - katherine-spivey
+
 slug: 4-steps-writers-and-editors-can-take-to-demonstrate-value
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 On May 10, 2023, the [Plain Language community of practice](https://digital.gov/topics/plain-language-community-of-practice/) huddled around the concept of `content costs`. The conversation touched on:
 
 * Project management,
@@ -39,6 +44,7 @@ Many editors are brought in at the end and, likely, not part of the planning. Ed
 One way to help managers appreciate what we do is to translate our time and talent into costs. In all projects, there are three salient factors: time, quality, and cost. If you need something faster or of higher quality, costs will rise. If you have limited resources (money or staff time), then you may need to adjust other factors.
 
 So how can we help estimate the cost of our work? The basic equation is:
+
 
 {{< highlight >}}Cost = Time spent writing, revising, and editing x Hourly wage{{< /highlight >}}
 
