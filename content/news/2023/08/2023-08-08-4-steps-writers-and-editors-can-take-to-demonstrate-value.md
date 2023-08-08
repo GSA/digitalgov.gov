@@ -19,7 +19,7 @@ authors:
   - katherine-spivey
 
 slug: 4-steps-writers-and-editors-can-take-to-demonstrate-value
-primary_image: 
+primary_image: "content-strategy-tarikvision-istock-getty-images-1411514984-comp"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
