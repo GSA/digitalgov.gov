@@ -10,13 +10,13 @@ topics:
   - TSA
 ---
 
-_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This__ entry is a story shared by the Transportation Security Administration._
-
-{{< legacy-img-right src="2013/12/MyTSAmobile-app.jpg" alt="My TSA mobile app home screen" >}}
+_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Transportation Security Administration._
 
 The [MY TSA mobile app and website](http://apps.usa.gov/tsa-app/) developed by the Transportation Security Administration (TSA) is designed to help passengers better prepare for security so they can get through TSA airport security checkpoints more efficiently. The app has multiple functions to help travelers and uses information from TSA, the Federal Aviation Administration (FAA), NOAA and users.
 
 ## Why We Did It
+
+{{< legacy-img-right src="2013/12/MyTSAmobile-app.jpg" alt="My TSA mobile app home screen" >}}
 
 TSA gets hundreds of thousands of calls and emails each year, mainly from people asking about security procedures, ID requirements or if an item is permitted on a plane. Countless others forgo asking TSA or don&#8217;t know where to go for help, and just show up at the airport unprepared. The introduction of an app would provide the public with 24/7 access to the most frequently requested information—anywhere, anytime. Better preparing passengers to go through security with less stress is part of TSA&#8217;s overall strategy to calm security checkpoints and enable TSA officers to focus on real threats.
 
