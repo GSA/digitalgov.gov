@@ -56,9 +56,14 @@ document.addEventListener("DOMContentLoaded", () => {
       scrollIntoView(link.getAttribute("href"));
 
       // This is necessary to account for a bug with multiple scroll listeners in Chromium browsers
-      setTimeout(() => {
-        scrollIntoView(link.getAttribute("href"));
-      }, 500);
+      const menuBar = document.querySelector(".dg-guide__menu-bar");
+      if (menuBar && !menuBar.classList.contains("sticky")) {
+        setTimeout(() => {
+          scrollIntoView(link.getAttribute("href"));
+        }, 500);
+      }
+
+      headings[i].focus();
     });
     subList.appendChild(link);
   }
