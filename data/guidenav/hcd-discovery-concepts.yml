@@ -4,31 +4,31 @@ showInPageNav: true
 showGlossary: true
 nav:
 - title  : 'Overview'
-  path   : '/guides/discovery-concepts/_index.md'
+  path   : '/guides/hcd/discovery-concepts/_index.md'
   subnav   :
   - title  : 'Steps to discovery'
-    path   : '/guides/hcd/discovery-concepts/steps-to-discovery.md'
+    path   : '/guides/hcd/discovery-concepts/steps-to-discovery'
 - title  : 'Plan'
-  path   : '/guides/discovery-concepts/plan.md'
+  path   : '/guides/hcd/discovery-concepts/plan'
   subnav   :
   - title  : 'Methods'
-    path   : '/guides/hcd/discovery-concepts/methods.md'
+    path   : '/guides/hcd/discovery-concepts/methods'
 - title  : 'Recruit'
-  path   : '/guides/discovery-concepts/recruit-participants.md'
+  path   : '/guides/hcd/discovery-concepts/recruit-participants'
 - title  : 'Research'
-  path   : '/guides/discovery-concepts/plan-research.md'
+  path   : '/guides/hcd/discovery-concepts/plan-research'
   subnav   :
   - title  : 'Do your research'
-    path   : '/guides/hcd/discovery-concepts/do-research.md'
+    path   : '/guides/hcd/discovery-concepts/do-research'
 - title  : 'Synthesize'
-  path   : '/guides/discovery-concepts/synthesize.md'
+  path   : '/guides/hcd/discovery-concepts/synthesize'
   subnav   :
   - title  : 'Goals & Insights'
-    path   : '/guides/hcd/discovery-concepts/goals-and-insights.md'
+    path   : '/guides/hcd/discovery-concepts/goals-and-insights'
 - title  : 'Discover'
-  path   : '/guides/discovery-concepts/find-opportunities.md'
+  path   : '/guides/hcd/discovery-concepts/find-opportunities'
 - title  : 'Present'
-  path   : '/guides/discovery-concepts/present.md'
+  path   : '/guides/hcd/discovery-concepts/present'
 - title  : 'Up next'
-  path   : '/guides/discovery-concepts/up-next.md'
+  path   : '/guides/hcd/discovery-concepts/up-next'
 
