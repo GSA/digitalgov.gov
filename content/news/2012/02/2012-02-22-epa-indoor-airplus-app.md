@@ -2,17 +2,19 @@
 slug: epa-indoor-airplus-app
 date: 2012-02-22 12:02:12 -0400
 title: EPA Indoor airPLUS App
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency. The Indoor airPLUS app provides home builders and verifier partners in the field easy access to the tools and resources of EPA’s Indoor airPLUS'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency about their Indoor airPLUS app.'
 authors:
   - jparcell
 topics:
   - mobile
-  - epa
   - mobile-apps
   - mobile-gov-experience
+
 ---
 
-_[{{< legacy-img src="2013/12/EPAairPLUS.png" alt="EPAairPLUS" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/EPAairPLUS.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency._
+_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency._
+
+{{< legacy-img-right src="2013/12/EPAairPLUS.png" alt="EPAairPLUS" >}}
 
 The <a href="http://apps.usa.gov/epa-indoor-airplus/" rel="nofollow">Indoor airPLUS app</a> provides home builders and verifier partners in the field easy access to the tools and resources of EPA’s Indoor airPLUS program, which is designed to help builders meet the growing consumer preference for homes with improved indoor air quality and energy efficiency. The Beta version is currently available for program partners to test in the field. An official version is scheduled for release in March 2012.
 
