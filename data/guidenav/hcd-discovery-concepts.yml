@@ -10,11 +10,11 @@ nav:
     path   : '/guides/hcd/discovery-concepts/steps-to-discovery'
 - title  : 'Plan'
   path   : '/guides/hcd/discovery-concepts/plan'
+- title  : 'Recruit'
+  path   : '/guides/hcd/discovery-concepts/recruit-participants'
   subnav   :
   - title  : 'Methods'
     path   : '/guides/hcd/discovery-concepts/methods'
-- title  : 'Recruit'
-  path   : '/guides/hcd/discovery-concepts/recruit-participants'
 - title  : 'Research'
   path   : '/guides/hcd/discovery-concepts/plan-research'
   subnav   :
@@ -23,7 +23,7 @@ nav:
 - title  : 'Synthesize'
   path   : '/guides/hcd/discovery-concepts/synthesize'
   subnav   :
-  - title  : 'Goals & Insights'
+  - title  : 'Goals and insights'
     path   : '/guides/hcd/discovery-concepts/goals-and-insights'
 - title  : 'Discover'
   path   : '/guides/hcd/discovery-concepts/find-opportunities'
