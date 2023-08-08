@@ -43,7 +43,7 @@ Map your team's skills, resources, and assets to the requirements of your propos
 Setting expectations is one of the hardest parts of the design phase. Since you are making something that is not yet known, estimating time and personnel needs is by definition difficult. On the other hand, your design team will need to make some sort of time and personnel estimation for supervisors, partners, and other stakeholders to get approval to start the design phase. The following illustration of the design phase work, and the accompanying framework, will help you envision the work that will occur in the design phase, to help your planning.
 
 {{< img src=hcd-design-operations-2 >}}
-[Click to enlarge the above image](https://raw.githubusercontent.com/anatecture/HCD-Design-Operations-Guide/45b0373672c2291b9b8e45f3fccdf10dd26debd5/img/design-phase-timeline-horizontal-01.svg)
+<a href="https://s3.amazonaws.com/digitalgov/hcd-design-operations-2.svg" target="_blank">Click to enlarge the above image</a>
 
 ## Initial project timeline
 
