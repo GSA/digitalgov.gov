@@ -93,7 +93,7 @@
    * @return {array} array of image objects
    */
   async function fetchImagesData() {
-    let currentURL = window.location.href;
+    const currentURL = window.location.href;
     const imagesData = await fetch(`${currentURL}${imagesJSONPath}`);
 
     if (!imagesData.ok) {
