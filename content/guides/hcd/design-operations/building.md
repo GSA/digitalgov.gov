@@ -11,7 +11,7 @@ Now that you have your design ideas generated and your constraints mapped, think
 
 ## Exploring features and form through references
 
-In the HCD Design Concepts Guide's [envisioning ideas](https://docs.google.com/document/d/1N8bsH4NOzKHrXg4erXi4iFusGNiuRRvcZJiu5vB8BNs/edit#heading=h.z1f7r06qhxud) section, we talk about references as a way to talk about the emotions and/or general direction the design seeks to evoke. In addition, references can also be used to help the team gain a greater understanding of other team members' ideas and communicate those ideas to stakeholders. So emotional references can show, for example,  how a design concept revolves around giving people a sense of community, while we’ll now discuss how references can move the team towards a first design expression, also known as a low-fidelity prototype.
+In the HCD Design Concepts Guide's [envisioning ideas]({{< ref "/guides/hcd/design-concepts/envisioning-ideas.md" >}}) section, we talk about references as a way to talk about the emotions and/or general direction the design seeks to evoke. In addition, references can also be used to help the team gain a greater understanding of other team members' ideas and communicate those ideas to stakeholders. So emotional references can show, for example,  how a design concept revolves around giving people a sense of community, while we’ll now discuss how references can move the team towards a first design expression, also known as a low-fidelity prototype.
 
 Because design teams evolve or create new products, services, or systems, there's no photo or sketch or recording of it yet. So it’s essential to develop a collection of references that are like the product, service, or system you’re envisioning, to express all your thoughts on how a design might look, feel, and function. The purpose of using references, whether drawn, photographed, recorded, etc., is to meet four primary goals:
 
@@ -42,6 +42,6 @@ Take anywhere from a few minutes to a few days to build your reference decks. Yo
 
 Reconvene as a group to discuss and decide on the design concept(s) the team will forward to physical expression. Facilitate the discussion and decision-making through the following steps:
 
-1. Present your reference decks to each other, using the [Question Time](https://hcd-design-ops-guide.netlify.app/divergent-thinking-activity.html) format from the divergent thinking section. Use the Notes framework to record the name and some details about each proposed design that the team generates.
+1. Present your reference decks to each other, using the [Question Time](/guides/hcd/design-operations/thinking/#top-five) format from the divergent thinking section. Use the Notes framework to record the name and some details about each proposed design that the team generates.
 2. Silently vote on the expression you would like to forward to a low fidelity prototype. If there is a tie and you have time and bandwidth to forward more than one expression, do so. The additional thinking will result in a better, more meaningful design solution for participants.
 3. If you do not have time or bandwidth to forward more than one design expression, discuss the possibilities through the lens of your project constraints and decide as a team on the best expression to forward.

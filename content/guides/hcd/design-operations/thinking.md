@@ -10,7 +10,8 @@ primary_image: hcd-design-operations
 
 The design phase is made up of successive cycles of convergent and divergent thinking. This means that, as you move through the design phase, you will have to flow between thinking generatively, and creatively, and analytically, and reductively. The balance between these thought paradigms characterizes a successful design phase, as both convergent and divergent thinking are necessary to realizing the potential of the opportunity spaces identified in the discovery phase.
 
-[![](https://lh4.googleusercontent.com/igryHY5o4q6cw5YFw4hdHJ65SJhL3mej8-0vAjLa9AMqTNL6hCydixoD80qqLW_facLlyZYWFrMrrmkPjpH8TmuSwGL0CRTo443-5FOpHuW4JJ4rixJUeAoMjD9kcZC77PMKuzE7tqpWFnewHKYPoXg)](https://github.com/anatecture/HCD-Design-Operations-Guide/blob/master/img/illo-convergent-divergent-thinking-v2-01.svg)
+{{< img src=hcd-design-operations-3 >}}
+[Click to enlarge the above image](https://raw.githubusercontent.com/anatecture/HCD-Design-Operations-Guide/45b0373672c2291b9b8e45f3fccdf10dd26debd5/img/illo-convergent-divergent-thinking-v2-01.svg)
 
 Get started with divergent and convergent thinking in the following section as you generate project ideas, then identify constraints.
 

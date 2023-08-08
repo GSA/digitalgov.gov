@@ -18,20 +18,20 @@ To break down your design, examine it analytically to understand if it is simple
 
 We recommend creating simple designs to express your design.
 
-[![](https://lh5.googleusercontent.com/Elmp4IltFW5v1CJwAn-w4Qa_Gk6inAatGc5W-6PuryKTh5-Pu7KNexor3v7i8L4QxoErxZyKgbXEM4RC0DQbA3sYIUm3LlhyurlPxAgABkEn_uXOQoCfaK-KWh3Crftqgy-IdJYfkvq5QlZ0Isly9wY)](https://github.com/anatecture/HCD-Design-Operations-Guide/blob/master/img/illo-simple-design-string.jpg)
+{{< img src=hcd-design-operations-4 >}}
 
 There is power in simplicity, and power in a series of simple designs, well-executed, acting in concert.
 
-[![](https://lh4.googleusercontent.com/vURk1IlZQU2P8pOyNf43chdoc4asosqsb29c-e9dc59P73I8c49tUXNs83IfOl1h0iPDZUaG5_53vEpynYKxhzv6id-04p7zEELM3XGsNkU8U038ILzMdo7w2aYBbMm1032XgR18_e04lkZyIQPMONA)](https://github.com/anatecture/HCD-Design-Operations-Guide/blob/master/img/illo-simple-design-surrounds-01.svg)
+{{< img src=hcd-design-operations-5 >}}
 
-If you create a series of simple designs that answer participant needs, with time it is possible to serve your most complex design principles and achieve high-level strategic goals. As the global design principles in the design concept guide state, though, [getting to simple is hard.](https://hcd-design-phase-concept-guide.netlify.com/simple_is_hard.html) A simple design is not always one that is obvious: it is focused and flexible; focused because it answers participant needs; flexible because it can function as context and usage changes over time.
+If you create a series of simple designs that answer participant needs, with time it is possible to serve your most complex design principles and achieve high-level strategic goals. As the global design principles in the design concept guide state, though, [getting to simple is hard.]({{< ref "/guides/hcd/design-concepts/simple-is-hard.md" >}}) A simple design is not always one that is obvious: it is focused and flexible; focused because it answers participant needs; flexible because it can function as context and usage changes over time.
 
 
 ## Making complicated designs
 
 When you break down your design, if you find that you've proposed a complicated design, that's okay, but it will have implications for your timeline. You and the team will need to identify all the parts of the design, isolate them, create different expressions of them, test the expressions, bring the parts together in an intentional, rational sequence and test each time you add a part, then finally test the design as a whole. It is a do-able process; however, it can be quite lengthy.
 
-[![](https://lh3.googleusercontent.com/oeEsYPBhcNjESxn6u16xa2hi0JcHjC9G4xV7O8fosWtMeTkyUGg0Pt-6Yn6-qvQG5vRIrJBMhbudx4OTIdWDvfYrCH3AYq_1XHpl-yMGvBew0lXWXhPcqooAui8CERqNUerGEA3h9cBMd0djDlIunJQ)](https://github.com/anatecture/HCD-Design-Operations-Guide/blob/master/img/illo-complicated-design-breaks.svg)
+{{< img src=hcd-design-operations-6 >}}
 
 In addition, complicated designs are brittle. With so many parts, they tend to break over time. Be aware of maintenance requirements if you decide to design a complicated product, service, or system.
 
@@ -40,6 +40,6 @@ In addition, complicated designs are brittle. With so many parts, they tend to b
 
 If you break down your design and find that you have proposed something that is complex, don’t worry; just return to your design principles and divergent/convergent thinking activities, and center on a less-involved design idea.
 
-[![](https://lh6.googleusercontent.com/dNsovCeAlUVM2mE9PV-rGtTB8GebobOEJYCQ55xZihYqax4vRl2nmyq5RXMhoLGN-AB4TPN1zNcgvOBlh6CaFTfmR1cpbb-MsFl1w5MvoNtMyIAG2Pt6rSCw0IlmzGqu8dfUKgQ2F5FnSfxMl65PxRs)](https://github.com/anatecture/HCD-Design-Operations-Guide/blob/master/img/illo-complex-design-brittle.svg)
+{{< img src=hcd-design-operations-7 >}}
 
 A complex product is, by nature, a tenuous design. Even if you can make it, its own complexity renders it brittle and prone to breakage. Most of the time, these designs are hard to realize because they depend on too many disparate factors to all come together. Do not attempt to design a complex product, service, or system unless you have years of lead time, deep, cross-institutional buy-in, occupy a very high-level, strategic position in your organization, and have a reasonable belief that you will occupy that position for years to come. Even if you believe you have leadership buy-in, unless you are the leader, we would not advise this course.

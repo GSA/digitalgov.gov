@@ -5,7 +5,7 @@ guide: hcd-design-operations
 primary_image: hcd-design-operations
 ---
 
-The methods you should use to express your design concept depends on the type of concept you choose. Look back at your references: what is the nature of the expression you're creating, based on that collection of references? Is it a product? A service? A system? Or is it more complex than that, like a large service that needs multiple products to support it? If you're unsure, review the [designed things section](https://docs.google.com/document/d/1N8bsH4NOzKHrXg4erXi4iFusGNiuRRvcZJiu5vB8BNs/edit#heading=h.iz77b8abopny) of the Design Concepts Guide, where you'll find explanations of the nature of products, services, and systems.
+The methods you should use to express your design concept depends on the type of concept you choose. Look back at your references: what is the nature of the expression you're creating, based on that collection of references? Is it a product? A service? A system? Or is it more complex than that, like a large service that needs multiple products to support it? If you're unsure, review the [designed things section]({{< ref "/guides/hcd/design-concepts/designed-things.md" >}}) of the Design Concepts Guide, where you'll find explanations of the nature of products, services, and systems.
 
 Depending on what you're designing, you can select from the following methods to generate version 1 of your design expression, or investigate design methods from other sources.
 

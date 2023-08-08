@@ -21,6 +21,8 @@ If your design is a form, participants should move through the form fluidly and 
 
 ## Balancing participant needs
 
-[![](https://lh5.googleusercontent.com/tcLYmjUQ_1nllfKd-ls13AOktRurg6krQesohDmhHYQPw5H8ewy0IIQDQfQQtbZU7fPAPeghNn9tLv_wLuoZRQSZ1pamONGoyNUGXXvlfzUDtfEsuzAQyVFVA_siu1ao37BHgKhgIDOb9M83j--QnD4)](https://github.com/anatecture/HCD-Design-Operations-Guide/blob/master/img/illo-balance-participant-needs.svg)As testing progresses, you may find that you're getting different, contradictory feedback from participants. This is especially true in **complicated** designs, as the team is trying to create a product, service, or system that serves multiple groups.
+{{< img src=hcd-design-operations-10 >}}
+
+As testing progresses, you may find that you're getting different, contradictory feedback from participants. This is especially true in **complicated** designs, as the team is trying to create a product, service, or system that serves multiple groups.
 
 An example of this is when software has both public- as well as internal-facing participants. Both groups have needs that overlap, but they also might have needs that are diverse from or conflict with each other. In this case, the design team must work to balance participant needs. The final design can neither privilege the public participants to the point that the internal ones can't get what they need from software, nor can it privilege the internal people to the point that the public participants struggle to use the software correctly.

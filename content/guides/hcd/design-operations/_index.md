@@ -13,9 +13,9 @@ weight: 5
 
 ## Get started with design
 
-Human-centered design generally has four phases: discover, design, deliver, and measure. This guide focuses on the operational components of the second phase, design, and should be used in conjunction with its [companion design concepts guide](https://docs.google.com/document/d/1N8bsH4NOzKHrXg4erXi4iFusGNiuRRvcZJiu5vB8BNs/edit#heading=h.5puuc7bnnhao). Design happens after discovery research, when you take all that you’ve learned, and use it to create something that improves people’s experiences with a product, process, or system.
+Human-centered design generally has four phases: discover, design, deliver, and measure. This guide focuses on the operational components of the second phase, design, and should be used in conjunction with its [companion design concepts guide]({{< ref "/guides/hcd/design-concepts/_index.md" >}}). Design happens after discovery research, when you take all that you’ve learned, and use it to create something that improves people’s experiences with a product, process, or system.
 
-[![](https://lh3.googleusercontent.com/8jIJG8P7QzZ7-2rWISAJhYC3g_hnDf6Ou76gMEC1Yz10kEgFX5teJYqoxWZUPhxFMLedQ1UuTGO8ZtKVyv9eYwHVEpjBT68vquf_oL80yZL008ZjsH0Ttp4ZIf--5Suy7qmK2OJph7ZsH9Ep6ztoXh4)](https://github.com/anatecture/HCD-Design-Operations-Guide/blob/master/img/bubble_diagram-blue-01.svg)
+{{< img src=hcd-design-operations-1 >}}
 
 This guide explains _how_ to go about the work of design, while the concept guide explains _why_ we do design. Together, the two will give you an orientation to HCD, and walk you through the workflow to move a project from research insights towards product development.
 
@@ -26,7 +26,7 @@ Participants are the people for and with whom design teams work, because they pa
 
 Thinking of participants as "users" or "customers" sidelines them into simply receiving products, services, and systems. In contrast, “participants” are equal to the design team and the leadership stakeholders, and the project is driven primarily by participants' input. While designers create prototypes and solutions, they can only create and refine them through continued collaboration with the participants throughout the design process.
 
-Please see the [HCD Design Concepts Guide](https://docs.google.com/document/d/1N8bsH4NOzKHrXg4erXi4iFusGNiuRRvcZJiu5vB8BNs/edit#heading=h.kk8ohnnaalup) for more details on the reasoning behind this terminology.
+Please see the [HCD Design Concepts Guide]({{< ref "/guides/hcd/design-concepts/_index.md" >}}) for more details on the reasoning behind this terminology.
 
 Giving participants an active role in the life cycle of our work is sometimes called participatory design. You can [take a class from the Lab at OPM](https://lab.opm.gov/class-sign-up/) to learn more about this practice.
 
@@ -40,8 +40,8 @@ Map your team's skills, resources, and assets to the requirements of your propos
 
 Setting expectations is one of the hardest parts of the design phase. Since you are making something that is not yet known, estimating time and personnel needs is by definition difficult. On the other hand, your design team will need to make some sort of time and personnel estimation for supervisors, partners, and other stakeholders to get approval to start the design phase. The following illustration of the design phase work, and the accompanying framework, will help you envision the work that will occur in the design phase, to help your planning.
 
-[![](https://lh3.googleusercontent.com/7WEGBjnRbWP_X34_VuK89jf-0-blQlrgnFTXEgmFehMphhXGetchUdsiLd8jGqL9IG2WbT2L54UaYN80pAqZhMeS7UWc_c2J_oP1wnzjkpDwm5kMRsq7arqGOOTFC_7gLzszssj7GYyRxc7VDr8VzxU)](https://github.com/anatecture/HCD-Design-Operations-Guide/blob/master/img/design-phase-timeline-horizontal-01.svg)
-
+{{< img src=hcd-design-operations-2 >}}
+[Click to enlarge the above image](https://raw.githubusercontent.com/anatecture/HCD-Design-Operations-Guide/45b0373672c2291b9b8e45f3fccdf10dd26debd5/img/design-phase-timeline-horizontal-01.svg)
 
 ## Initial project timeline
 
