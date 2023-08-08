@@ -11,7 +11,7 @@
    * Otherwise, use main for local host and production
    */
   const host = window.location.hostname;
-  if (host.includes("/preview/gsa")) {
+  if (host.includes("sites.pages.cloud.gov")) {
     // eslint-disable-next-line prefer-destructuring
     gitRepo.branch = window.location.pathname.split("/")[4];
   } else {
