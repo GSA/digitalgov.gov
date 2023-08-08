@@ -41,37 +41,29 @@
    * @param {object} image object
    * @returns {string} HTML markup for image element
    */
-  function createImageElement({
-    thumbNail,
-    caption,
-    uid,
-    credit,
-    caption,
-    alt,
-    date,
-  }) {
+  function createImageElement(image) {
     return `<div class="card-img">
     <div class="media">
-      <img src="${thumbNail}">
-      <p>${caption}</p>
+      <img src="${image.thumbnail}">
+      <p>${image.caption}</p>
     </div>
     <div class="img-data">
       <div class="box">
-        <p><strong>uid:</strong> ${uid}</p>
-        <p><strong>credit:</strong> ${credit}</p>
-        <p><strong>caption:</strong> ${caption}</p>
-        <p><strong>alt:</strong> ${alt}</p>
+        <p><strong>uid:</strong> ${image.uid}</p>
+        <p><strong>credit:</strong> ${image.credit}</p>
+        <p><strong>caption:</strong> ${image.caption}</p>
+        <p><strong>alt:</strong> ${image.alt}</p>
         <div class="code">
           <p class="label">Use this field in the front matter</p>
-          <pre>primary_image: "${uid}"</pre>
+          <pre>primary_image: "${image.uid}"</pre>
         </div>
         <div class="code">
           <p class="label">Use this shortcode in the content body</p>
-          <pre>{{< img src="${uid}" >}}</pre>
+          <pre>{{< img src="${image.uid}" >}}</pre>
         </div>
-        <p class="edit btn"><a target="_new" href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml" title="view on GitHub">Edit on GitHub »</a></p>
+        <p class="edit btn"><a target="_new" href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${image.uid}.yml" title="view on GitHub">Edit on GitHub »</a></p>
         <hr>
-        <p class="meta">Uploaded on ${date}</p>
+        <p class="meta">Uploaded on ${image.date}</p>
       </div>
     </div>
   </div>`;
@@ -89,7 +81,7 @@
 
     imagesToDisplay.forEach((image) => {
       // eslint-disable-next-line no-param-reassign
-      image.thumbNail = createImageThumbnail(image);
+      image.thumbnail = createImageThumbnail(image);
       const imageElement = createImageElement(image);
       imagesMarkupString += imageElement;
     });
