@@ -10,7 +10,7 @@
 
 // eslint-disable-next-line func-names
 (function () {
-  const imagesJSONPath = "/images/v1/json/";
+  const imagesJSONPath = "images/v1/json/";
 
   /**
    * Returns image thumbnail path
@@ -93,7 +93,8 @@
    * @return {array} array of image objects
    */
   async function fetchImagesData() {
-    const imagesData = await fetch(`${imagesJSONPath}`);
+    let currentURL = window.location.href;
+    const imagesData = await fetch(`${currentURL}${imagesJSONPath}`);
 
     if (!imagesData.ok) {
       throw new Error("Images json error");
