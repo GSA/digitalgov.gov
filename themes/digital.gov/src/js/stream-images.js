@@ -10,7 +10,7 @@
 
 // eslint-disable-next-line func-names
 (function () {
-  const imagesJSONPath = "images/v1/json/";
+  const imagesJSONPath = "/images/v1/json/";
 
   /**
    * Returns image thumbnail path
@@ -41,29 +41,37 @@
    * @param {object} image object
    * @returns {string} HTML markup for image element
    */
-  function createImageElement(image) {
+  function createImageElement({
+    thumbNail,
+    caption,
+    uid,
+    credit,
+    caption,
+    alt,
+    date,
+  }) {
     return `<div class="card-img">
     <div class="media">
-      <img src="${image.thumbNail}">
-      <p>${image.caption}</p>
+      <img src="${thumbNail}">
+      <p>${caption}</p>
     </div>
     <div class="img-data">
       <div class="box">
-        <p><strong>uid:</strong> ${image.uid}</p>
-        <p><strong>credit:</strong> ${image.credit}</p>
-        <p><strong>caption:</strong> ${image.caption}</p>
-        <p><strong>alt:</strong> ${image.alt}</p>
+        <p><strong>uid:</strong> ${uid}</p>
+        <p><strong>credit:</strong> ${credit}</p>
+        <p><strong>caption:</strong> ${caption}</p>
+        <p><strong>alt:</strong> ${alt}</p>
         <div class="code">
           <p class="label">Use this field in the front matter</p>
-          <pre>primary_image: "${image.uid}"</pre>
+          <pre>primary_image: "${uid}"</pre>
         </div>
         <div class="code">
           <p class="label">Use this shortcode in the content body</p>
-          <pre>{{< img src="${image.uid}" >}}</pre>
+          <pre>{{< img src="${uid}" >}}</pre>
         </div>
-        <p class="edit btn"><a target="_new" href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${image.uid}.yml" title="view on GitHub">Edit on GitHub »</a></p>
+        <p class="edit btn"><a target="_new" href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml" title="view on GitHub">Edit on GitHub »</a></p>
         <hr>
-        <p class="meta">Uploaded on ${image.date}</p>
+        <p class="meta">Uploaded on ${date}</p>
       </div>
     </div>
   </div>`;
@@ -93,7 +101,7 @@
    * @return {array} array of image objects
    */
   async function fetchImagesData() {
-    const currentURL = window.location.href;
+    const currentURL = window.location.origin;
     const imagesData = await fetch(`${currentURL}${imagesJSONPath}`);
 
     if (!imagesData.ok) {
