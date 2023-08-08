@@ -3,4 +3,32 @@ showReadTime: true
 showInPageNav: true
 showGlossary: true
 nav:
+- title  : 'Overview'
+  path   : '/guides/discovery-concepts/_index.md'
+  subnav   :
+  - title  : 'Steps to discovery'
+    path   : '/guides/hcd/discovery-concepts/steps-to-discovery.md'
+- title  : 'Plan'
+  path   : '/guides/discovery-concepts/plan.md'
+  subnav   :
+  - title  : 'Methods'
+    path   : '/guides/hcd/discovery-concepts/methods.md'
+- title  : 'Recruit'
+  path   : '/guides/discovery-concepts/recruit-participants.md'
+- title  : 'Research'
+  path   : '/guides/discovery-concepts/plan-research.md'
+  subnav   :
+  - title  : 'Do your research'
+    path   : '/guides/hcd/discovery-concepts/do-research.md'
+- title  : 'Synthesize'
+  path   : '/guides/discovery-concepts/synthesize.md'
+  subnav   :
+  - title  : 'Goals & Insights'
+    path   : '/guides/hcd/discovery-concepts/goals-and-insights.md'
+- title  : 'Discover'
+  path   : '/guides/discovery-concepts/find-opportunities.md'
+- title  : 'Present'
+  path   : '/guides/discovery-concepts/present.md'
+- title  : 'Up next'
+  path   : '/guides/discovery-concepts/up-next.md'
 
