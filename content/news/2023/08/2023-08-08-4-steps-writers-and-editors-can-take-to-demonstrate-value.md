@@ -43,7 +43,7 @@ Many editors are brought in at the end and, likely, not part of the planning. Ed
 
 One way to help managers appreciate what we do is to translate our time and talent into costs. In all projects, there are three salient factors: time, quality, and cost. If you need something faster or of higher quality, costs will rise. If you have limited resources (money or staff time), then you may need to adjust other factors.
 
-So how can we help estimate the cost of our work? The basic equation is:<br>
+So how can we help estimate the cost of our work? The basic equation is:<br><br>
 
 {{< highlight >}}Cost = Time spent writing, revising, and editing x Hourly wage{{< /highlight >}}
 
