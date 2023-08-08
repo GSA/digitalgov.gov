@@ -128,7 +128,7 @@
             </div>
             <div>
               <br />
-              {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
+              {{- partial "core/page-data.html" . -}}
             </div>
           </div>
         {{- end -}}

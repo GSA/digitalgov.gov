@@ -50,7 +50,7 @@
             <div class="content usa-prose">
               {{- .Content -}}
             </div>
-            {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/page-data.html" . -}}
           </div>
         </div>
       </section>

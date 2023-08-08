@@ -37,7 +37,7 @@
                 </div>
 
                 {{/* Github edit link */}}
-                {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+                {{- partial "core/page-data.html" . -}}
               </div>
             </div>
           </div>

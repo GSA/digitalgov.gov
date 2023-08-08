@@ -37,7 +37,7 @@
 
               <div id="stream-images" class="stream usa-prose"></div>
 
-              {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+              {{- partial "core/page-data.html" . -}}
 
               {{/* Touchpoints Form */}}
               {{- partial "core/touchpoints-form.html" . -}}
