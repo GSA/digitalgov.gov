@@ -8,7 +8,7 @@ summary: 'Department of Justice'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-domain: 'https://www.doj.gov/'
+domain: 'https://www.justice.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
