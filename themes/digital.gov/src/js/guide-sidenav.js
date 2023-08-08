@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
   for (let i = 0; i < headings.length; i += 1) {
     // Clean heading text and create link to append to subnav
     const text = headings[i].innerText;
-    const regex = /[!"#$%&'()*+,./:;<=>?@[\]^_`{|}~“”’]/g;
+    const regex = /[!"#$%&'()*+,./:;<=>?@[\]^_`{|}~“”‘’]/g;
     const cleanText = text.replace(regex, "");
     const textElements = cleanText.split(" ");
     const href = textElements.join("-").toLowerCase();
