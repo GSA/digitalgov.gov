@@ -14,11 +14,11 @@ topics:
 
 _Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency._
 
-{{< legacy-img-right src="2013/12/EPAairPLUS.png" alt="EPAairPLUS" >}}
-
 The <a href="http://apps.usa.gov/epa-indoor-airplus/" rel="nofollow">Indoor airPLUS app</a> provides home builders and verifier partners in the field easy access to the tools and resources of EPA’s Indoor airPLUS program, which is designed to help builders meet the growing consumer preference for homes with improved indoor air quality and energy efficiency. The Beta version is currently available for program partners to test in the field. An official version is scheduled for release in March 2012.
 
 ## Why We Did It
+
+{{< legacy-img-right src="2013/12/EPAairPLUS.png" alt="EPAairPLUS" >}}
 
 We (the EPA) were asked by the home building industry to develop an app they could easily use onsite to gather data and complete and email the Verification Cheklist that qualifies a house for the Indoor airPlus quality label. This eliminates the hassle of completing a paper checklist that can be lost and is not easily replicated.
 
