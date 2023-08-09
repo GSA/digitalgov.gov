@@ -17,6 +17,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
+  - meredith-larson
 
 slug: 4-steps-writers-and-editors-can-take-to-demonstrate-value
 primary_image: "content-strategy-tarikvision-istock-getty-images-1411514984-comp"
