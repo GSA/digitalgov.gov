@@ -1,29 +1,42 @@
 ---
+# View this page at https://digital.gov/sources/nih
+# Learn how to edit our pages at https://workflow.digital.gov
+
 # What is the headline of this promo?
-slug: 'nih'
-name: 'nih'
+slug: nih
+
+# Source Name
+name: "National Institutes of Health"
 
 # Keep it short — should be no longer than 10 words.
-summary: ''
+summary: "The National Institutes of Health (NIH), a part of the U.S. Department of Health and Human Services, is the nation’s medical research agency."
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-domain: 'https://www.nih.gov/'
+# Primary Domain — the link to your website, blog homepage, or news feed. (e.g., https://18f.gsa.gov/)
+# Note: We'll automatically add ?dg to the end of your URL, to help you track links back to your site.
+domain: "https://www.nih.gov"
 
-# Images need to be 200x200px with a transparent background
+# Images need to be 250x250 px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/source/
-# The filename should reflect the name of the source or team (e.g., usds-logo.png)
-logo: "nih"
+# https://github.com/GSA/digitalgov.gov/tree/main/static/source/
+# The filename should reflect the name of the agency or team (e.g., gsa-logo.png or 18f-logo.png)
+logo: nih
+
+# To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.
+# Copy and paste that full path here: 
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage
-
 # 1 == will show on the all services page
 # 0 == hidden promo
 # weight: 3
 
+# See all topics at https://digital.gov/topics
+# Topics that best describe this product or service
 # topics:
 #   - accessibility
 #   - design
+
+# Make it better ♥
+
 ---
