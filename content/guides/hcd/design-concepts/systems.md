@@ -19,7 +19,7 @@ For this reason, throughout their project’s development, the designers mapped 
 {{< /ring >}}
 
 {{< img src=hcd-design-concepts-14 >}}
-{{< asset-static file="hcd-design-concepts-hiring.pdf" label="Click to Enlarge (PDF, 4 pages, 2MB)">}}
+{{< asset-static file="hcd-design-concepts-hiring.pdf" label="Click to enlarge the above image">}}
 
 A simple glance at the diagram above shows that the system of hiring is complex and involves multiple groups and stakeholders. The USAJobs team created an illustration of the hiring path components: people, stages, and touchpoints. Through this diagram, the team was able to explore the system of hiring, and that exploration resulted in greater understanding. The diagram clarifies nuances in the system to viewers, and communicates ideas for the systems’ many possible throughlines and values in a concise yet thorough manner. This understanding then informed the development of the USAJobs site product in terms of the various stakeholders’ positions and needs in the system.
 

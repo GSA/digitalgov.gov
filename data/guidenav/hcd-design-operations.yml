@@ -11,7 +11,7 @@ nav:
 - title    : 'Thinking'
   path     : '/guides/hcd/design-operations/thinking'
 - title    : 'Building'
-  path     : '/guides/hcd/design-operations/building.md'
+  path     : '/guides/hcd/design-operations/building'
   subnav   :
   - title  : 'Communicate to stakeholders'
     path   : '/guides/hcd/design-operations/communicate-to-stakeholders'
