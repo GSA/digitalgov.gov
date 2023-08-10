@@ -29,6 +29,9 @@ nav:
     path   : '/guides/hcd/discovery-operations/getting-buy-in'
 - title    : 'Research'
   path     : '/guides/hcd/discovery-operations/research-planning'
+  subnav   :
+  - title  : 'Research by week and day'
+    path   : '/guides/hcd/discovery-operations/research-by-week-and-day'
 - title    : 'Interviews'
   path     : '/guides/hcd/discovery-operations/interviews'
   subnav   :
