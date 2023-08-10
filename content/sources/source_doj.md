@@ -33,7 +33,7 @@ logo: doj
 
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
-# topics:
+topics:
   - diversity-equity-inclusion-accessibility-deia
 
 # Make it better ♥
