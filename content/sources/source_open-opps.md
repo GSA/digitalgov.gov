@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/sources/open-opps
 # Learn how to edit our pages at https://workflow.digital.gov
 
-# What is the headline of this promo?
+# The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 slug: open-opps
 
 # Source Name
@@ -16,10 +16,10 @@ summary: "Discover opportunities across government that will help you build and 
 # Note: We'll automatically add ?dg to the end of your URL, to help you track links back to your site.
 domain: "https://openopps.usajobs.gov"
 
-# Images need to be 250x250 px with a transparent background
+# Images need to be 250x250 px with a transparent background.
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/main/static/source/
-# The filename should reflect the name of the agency or team (e.g., gsa-logo.png or 18f-logo.png)
+# The filename should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 logo: open-opps
 
 # Weight: control how services appear across the site

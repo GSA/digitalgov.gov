@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/sources/doi-revenuedata
 # Learn how to edit our pages at https://workflow.digital.gov
 
-# What is the headline of this promo?
+# The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 slug: doi-revenuedata
 
 # Source Name
@@ -16,10 +16,10 @@ summary: "The ONRR collects payments from companies that produce energy and mine
 # Note: We'll automatically add ?dg to the end of your URL, to help you track links back to your site.
 domain: "https://revenuedata.doi.gov"
 
-# Images need to be 250x250 px with a transparent background
+# Images need to be 250x250 px with a transparent background.
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/main/static/source/
-# The filename should reflect the name of the agency or team (e.g., gsa-logo.png or 18f-logo.png)
+# The filename should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 logo: doi-revenuedata
 
 # To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.

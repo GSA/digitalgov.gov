@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/sources/18f
 # Learn how to edit our pages at https://workflow.digital.gov
 
-# What is the headline of this promo?
+# The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 slug: 18f
 
 # Source Name
@@ -16,10 +16,10 @@ summary: ""
 # Note: We'll automatically add ?dg to the end of your URL, to help you track links back to your site.
 domain: "https://18f.gsa.gov"
 
-# Images need to be 250x250 px with a transparent background
+# Images need to be 250x250 px with a transparent background.
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/main/static/source/
-# The filename should reflect the name of the agency or team (e.g., gsa-logo.png or 18f-logo.png)
+# The filename should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 logo: 18f
 
 # To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.
