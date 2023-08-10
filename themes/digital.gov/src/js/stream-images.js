@@ -2,10 +2,6 @@
  *
  * Reads json file of hosted at /images/v1/json/ and displays images and meta-data on /images
  *
- * TODO: Add pagination
- * TODO: create img-card component
- * DONE Refactor to use native js
- * DONE Remove hugo setting all_imagesJson, refactor to use variable
  */
 
 // eslint-disable-next-line func-names
@@ -33,11 +29,7 @@
   }
 
   /**
-   * Returns image element markup as string
-   * TODO: Refactor to return elements not strings
-   * Add to DOM as HTML elements using createElement and fragment
-   * Or Add as template strings merged into one large template string and added at one time
-   *
+   * Creates img card markup for indivual images, returns template markup string
    * @param {object} image object
    * @returns {string} HTML markup for image element
    */
@@ -70,7 +62,7 @@
   }
 
   /**
-   * Displays list of images from images/v1/json
+   * Displays list of images from /images/v1/json data file
    * @param {object} imagesToDisplay array of image objects
    *
    */
@@ -89,20 +81,32 @@
   }
 
   /**
-   * Fetch images json and create array of image objects
-   * @return {array} array of image objects
+   * Fetch images json and return images json
+   * @return {array} json array of image objects
    */
   async function fetchImagesData() {
-    const currentURL = window.location.origin;
-    const imagesData = await fetch(`${currentURL}${imagesJSONPath}`);
+    let path;
+    const { origin } = window.location.origin;
+
+    if (window.location.origin.includes("sites.pages.cloud.gov")) {
+      // set path to work on cloud.pages
+      const [, preview, gsa, digitalgov, branch] =
+        window.location.pathname.split("/");
+      path = `${origin}/${preview}/${gsa}/${digitalgov}/${branch}${imagesJSONPath}`;
+    } else {
+      // set path to work on localhost and production
+      path = imagesJSONPath;
+    }
+
+    const imagesData = await fetch(`${path}`);
 
     if (!imagesData.ok) {
       throw new Error("Images json error");
     }
+
     const imagesJSON = await imagesData.json();
     createImagesStream(imagesJSON);
   }
 
-  // fetch data, render markup, add to DOM
   fetchImagesData();
 })();
