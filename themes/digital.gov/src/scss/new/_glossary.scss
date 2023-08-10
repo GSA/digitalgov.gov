@@ -1,79 +1,92 @@
 @use "uswds-core" as *;
-.glossary {
-  background: color("primary-dark");
-  bottom: 0;
-  color: color("base-lightest");
-  overflow-y: scroll;
-  padding: units(5);
-  position: fixed;
-  right: 0;
-  top: 0;
-  transition: right 0.2s;
-  width: units("mobile");
-  z-index: 102;
 
-  &[aria-hidden="true"] {
-    right: calc(units("mobile") * -1);
+.dg-glossary {
+  &__container {
+    @include u-z(300);
+    background: color("primary-darker");
+    bottom: 0;
+    color: color("base-lightest");
+    overflow-y: scroll;
+    padding: units(5);
+    position: fixed;
+    right: 0;
+    top: 0;
+    transition: right 0.2s;
+    width: units("mobile");
+
+    &[aria-hidden="true"] {
+      right: units("mobile") * -1;
+    }
   }
 
-  div[aria-hidden="true"] {
-    display: none !important;
-  }
-
-  button {
+  &__close {
     background: none;
     border: 0;
     color: color("base-lightest");
     cursor: pointer;
-    text-align: left;
+    float: right;
   }
 
-  .glossary__definition {
+  &__definition {
     @include u-font("sans", "xs");
     @include u-line-height("sans", 6);
     margin: units(2) 0;
     width: full;
-  }
 
-  .glossary__term {
-    background-image: url("data:image/svg+xml;charset=utf8, %3Csvg%20%20fill%3D%27%23ffffff%27%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M10%2020c5.523%200%2010-4.477%2010-10S15.523%200%2010%200%200%204.477%200%2010s4.477%2010%2010%2010zm4.208-9.063h-3.175v3.126a.945.945%200%200%201-.953.937.945.945%200%200%201-.952-.938v-3.124H5.953A.945.945%200%200%201%205%2010c0-.518.426-.938.953-.938h3.175V5.938c0-.518.426-.938.952-.938s.953.42.953.938v3.125h3.175c.526%200%20.952.42.952.937a.945.945%200%200%201-.952.938z%22%2F%3E%3C%2Fsvg%3E");
-    background-position: 100% 50%;
-    background-repeat: no-repeat;
-    border-bottom-style: solid;
-    border-color: color("base-lightest");
-    border-width: thin;
-    font-weight: bold;
-    margin: units("05") 0;
-    padding: units(1) units(3) units(1) 0;
-    width: 100%;
-
-    &[aria-expanded="true"] {
-      background-image: url("data:image/svg+xml;charset=utf8, %3Csvg%20%20fill%3D%27%23ffffff%27%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M10%2020c5.523%200%2010-4.477%2010-10S15.523%200%2010%200%200%204.477%200%2010s4.477%2010%2010%2010zm1.033-9.125h-5.08A.945.945%200%200%201%205%209.937C5%209.42%205.426%209%205.953%209H14.208c.526%200%20.952.42.952.938a.945.945%200%200%201-.952.937h-3.175z%22%2F%3E%3C%2Fsvg%3E");
+    &[aria-hidden="true"] {
+      display: none;
     }
   }
 
-  .js-glossary-close {
-    float: right;
+  &__icon {
+    margin-top: units(1);
+    position: absolute;
+    right: units(4);
+    transition: 0.3s;
+
+    &[aria-hidden="true"] {
+      transform: rotate(-90deg);
+    }
   }
 
-  .js-glossary-search {
+  &__search {
     margin-bottom: units(3);
   }
-}
 
-.js-glossary-toggle {
-  @include u-text("light", "black");
-  align-items: center;
-  display: flex;
-  gap: units("05");
-  height: units(4);
-  text-decoration: none;
-  width: max-content;
-  &:hover {
-    @include u-border-bottom("05", "primary", "solid");
-    color: color("black");
+  &__term {
+    background: none;
+    border: 0;
+    border-bottom-style: solid;
+    border-color: color("base-lightest");
+    border-width: thin;
+    color: color("base-lightest");
+    cursor: pointer;
+    font-weight: bold;
+    margin: units("05") 0;
+    padding: units(1) units(3) units(1) 0;
+    position: relative;
+    text-align: left;
+    width: 100%;
   }
-  &:visited {
-    color: color("black");
+
+  &__toggle {
+    @include u-text("light", "black");
+    align-items: center;
+    background: none;
+    border: none;
+    display: flex;
+    gap: units("05");
+    height: units(4);
+    text-decoration: none;
+    width: max-content;
+
+    &:hover {
+      color: color("primary");
+      fill: color("primary");
+    }
+
+    &:visited {
+      color: color("black");
+    }
   }
 }
