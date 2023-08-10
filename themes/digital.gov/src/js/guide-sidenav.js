@@ -62,8 +62,9 @@ document.addEventListener("DOMContentLoaded", () => {
           scrollIntoView(link.getAttribute("href"));
         }, 500);
       }
-
-      headings[i].focus();
+      const heading = document.querySelector(link.getAttribute("href"));
+      heading.setAttribute("tabindex", -1);
+      heading.focus({ preventScroll: true });
     });
     subList.appendChild(link);
   }

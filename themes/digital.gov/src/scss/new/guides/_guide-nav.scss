@@ -29,6 +29,12 @@
         @include u-padding-y(2);
         @include u-text("black", "normal", "no-underline");
 
+        &:focus {
+          border: units("05") solid color("primary");
+          border-radius: units(2);
+          outline: 0;
+        }
+
         &:hover {
           text-decoration: none;
         }
