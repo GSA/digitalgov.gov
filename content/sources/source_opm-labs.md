@@ -8,7 +8,6 @@ slug: opm-labs
 # Source Name for Workflow
 name: "The Lab at OPM"
 
-# line
 # Keep it short — should be no longer than 10 words.
 summary: ""'a one-line summary of the source'""
 
