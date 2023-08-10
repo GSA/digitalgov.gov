@@ -39,12 +39,12 @@ For more information, refer back to the videos and slides from DigitalGov Univer
 
 ## Metrics and Measuring for Results
 
-Presenter: Cristin Dorgelo, White House Office of Science & Technology Policy
+Presenter: Tammi Marcoullier, GSA, <a href="https://challenge.gov/">Challenge.gov</a>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/v4iUbxPZACiHoO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/challengegov-federal-challenge-prize-competitions-metrics-measuring-for-success" title="Challenge.gov Federal Challenge &amp; Prize Competitions: Metrics &amp; Measuring for Success" target="_blank" alt="Slides: Challenge.gov Federal Challenge and Prize Competitions: Metrics and Measuring for Success">Challenge.gov Federal Challenge &amp; Prize Competitions: Metrics &amp; Measuring for Success</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
 ## Metrics and Measuring for Success
 
-Presenter: Tammi Marcoullier, GSA, <a href="https://challenge.gov/">Challenge.gov</a>
+Presenter: Cristin Dorgelo, White House Office of Science & Technology Policy
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1Mu3ehdE0SLswD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/incentive-prizes" title="Incentive Prizes: Designing and Measuring for Impact" alt="Slides: Incentive Prizes: Designing and Measuring for Impact" target="_blank">Incentive Prizes: Designing and Measuring for Impact</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
