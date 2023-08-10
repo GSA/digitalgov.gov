@@ -8,8 +8,8 @@ event_organizer: Digital.gov
 cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItce2vqT4oG9uTweWBp0zBt9111H3ovcc
 captions: ""
-date: 2023-08-17 13:00:00 -0500
-end_date: 2023-08-17 14:00:00 -0500
+date: 2023-08-17 14:00:00 -0500
+end_date: 2023-08-17 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
