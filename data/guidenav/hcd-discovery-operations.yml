@@ -54,9 +54,7 @@ nav:
   - title  : 'Finding opportunities'
     path   : '/guides/hcd/discovery-operations/finding-opportunities'
 - title    : 'Up next'
-  path     : '/guides/hcd/discovery-operations/up-next'
+  path     : '/guides/hcd/discovery-operations/present'
   subnav   :
-  - title  : 'Present'
-    path   : '/guides/hcd/discovery-operations/present'
   - title  : 'Production'
     path   : '/guides/hcd/discovery-operations/production'
