@@ -26,7 +26,7 @@ const classes = {
  */
 function Glossary() {
   this.body = document.querySelector(selectors.glossaryID);
-  this.toggleBtn = document.querySelector(selectors.toggle);
+  this.toggleBtn = document.querySelectorAll(selectors.toggle);
   this.closeBtn = document.querySelector(selectors.close);
   this.search = this.body.querySelector(selectors.searchClass);
   this.listElm = this.body.querySelector(selectors.listClass);
@@ -35,7 +35,9 @@ function Glossary() {
 
   this.initGlossary();
 
-  this.addEventListener(this.toggleBtn, "click", this.toggle.bind(this));
+  this.toggleBtn.forEach((btn) => {
+    this.addEventListener(btn, "click", this.toggle.bind(this));
+  });
   this.addEventListener(this.closeBtn, "click", this.hide.bind(this));
   this.addEventListener(this.search, "input", this.handleInput.bind(this));
   this.addEventListener(document.body, "keyup", this.handleKeyup.bind(this));
@@ -142,7 +144,7 @@ Glossary.prototype.toggle = function toggle() {
 // Show glossary
 Glossary.prototype.show = function show() {
   this.body.setAttribute("aria-hidden", "false");
-  this.toggleBtn.setAttribute("aria-expanded", "true");
+  this.toggleBtn.forEach((button) => button.setAttribute("aria-expanded", "true"));
   this.search.focus();
   this.isOpen = true;
 };
@@ -150,7 +152,7 @@ Glossary.prototype.show = function show() {
 // Hide glossary
 Glossary.prototype.hide = function hide() {
   this.body.setAttribute("aria-hidden", "true");
-  this.toggleBtn.setAttribute("aria-expanded", "false");
+  this.toggleBtn.forEach((button) => button.setAttribute("aria-expanded", "false"));
   this.isOpen = false;
 };
 
@@ -184,7 +186,10 @@ function closest(element, selector) {
 
 // Close glossary when clicking outside of aside
 Glossary.prototype.closeOpenGlossary = function closeOpenGlossary(e) {
-  if (e.target !== this.toggleBtn && this.isOpen) {
+  const buttons = Array.from(this.toggleBtn);
+  console.log(buttons);
+  console.log(e.target);
+  if (!buttons.includes(e.target) && this.isOpen) {
     if (!closest(e.target, selectors.glossaryID)) {
       this.hide();
     }
