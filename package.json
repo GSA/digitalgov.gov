@@ -38,7 +38,6 @@
     "@uswds/uswds": "^3.4.1",
     "autoprefixer": "^10.4.14",
     "eslint": "^8.43.0",
-    "glossary-panel": "^1.0.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-postcss": "^9.0.1",
@@ -75,8 +74,7 @@
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.9.0",
     "stylelint-order": "^6.0.3",
-    "vinyl-paths": "^3.0.1",
-    "webpack-stream": "^7.0.0"
+    "vinyl-paths": "^3.0.1"
   },
   "overrides": {
     "gulp-responsive": {
