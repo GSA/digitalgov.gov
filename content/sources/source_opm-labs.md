@@ -3,8 +3,19 @@
 slug: 'opm-labs'
 name: 'The Lab at OPM'
 
+<<<<<<< Updated upstream
 # Keep it short — should be no longer than 10 words.
 summary: 'a one-line summary of the source'
+=======
+# The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
+slug: opm-labs
+
+# Source Name for Workflow
+name: "The Lab at OPM"
+
+# Keep it short — should be no longer than 10 words.
+summary: ""
+>>>>>>> Stashed changes
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
