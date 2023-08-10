@@ -60,8 +60,9 @@
       font-weight: font-weight("heavy");
     }
 
-    .js-glossary-toggle {
+    .dg-glossary__toggle {
       color: color($theme-link-color);
+      cursor: pointer;
       display: inline;
       text-decoration: underline;
     }

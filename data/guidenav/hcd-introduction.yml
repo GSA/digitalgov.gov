@@ -1,7 +1,6 @@
 showNextPrevious: true
 showReadTime: true
 showInPageNav: false
-showGlossary: true
 nav:
 - title  : 'Overview'
   path   : '/guides/hcd/introduction/_index.md'

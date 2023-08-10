@@ -6,7 +6,7 @@ headless: true
 
 {{< ring title="Additional Resources">}}
 
-If you encounter unfamiliar words or concepts in these guides, you can find definitions and explanations in the <a href="javascript:void(0)" class="js-glossary-toggle">glossary</a>
+If you encounter unfamiliar words or concepts in these guides, you can find definitions and explanations in the <button class="dg-glossary__toggle">glossary</button>
 
 You may also wish to review these additional research methods:
 

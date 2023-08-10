@@ -1,7 +1,6 @@
 showNextPrevious: true
 showReadTime: true
 showInPageNav: true
-showGlossary: true
 nav:
 - title    : 'Overview'
   path     : '/guides/hcd/design-concepts/_index.md'
