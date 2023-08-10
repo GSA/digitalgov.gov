@@ -9,7 +9,7 @@ let menuBarImage = null;
 const menuBar = document.querySelector(".dg-guide__menu-bar");
 if (menuBar) {
   menuBarLinks = menuBar.querySelector(".dg-guide__menu-bar-links");
-  menuBarImage = menuBar.querySelector(".dg-guide__menu-bar-image");
+  menuBarImage = menuBar.querySelector(".dg-guide__menu-bar-image-container");
 }
 
 // Scroll the guide menu bar so that the currently selected item is in view
