@@ -71,18 +71,26 @@
 
   &__toggle {
     @include u-text("light", "black");
-    align-items: center;
     background: none;
     border: none;
-    display: flex;
     gap: units("05");
     height: units(4);
     text-decoration: none;
     width: max-content;
 
-    &:hover {
+    &-icon {
+      pointer-events: none;
+
+      &.menu-bar {
+        margin-left: units(1);
+        margin-bottom: units("05");
+      }
+    }
+
+    &:focus, &:hover {
       color: color("primary");
       fill: color("primary");
+      outline: none !important;
     }
 
     &:visited {
