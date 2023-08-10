@@ -5,6 +5,7 @@ title: "Design concepts guide"
 deck: "Select methods for designing products, services, and systems"
 summary: "Select methods for designing products, services, and systems"
 guide: hcd-design-concepts
+glossary: hcd-glossary.json
 image: hcd-design-concepts
 primary_image: hcd-design-concepts
 layout: single

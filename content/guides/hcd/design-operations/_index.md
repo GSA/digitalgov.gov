@@ -5,6 +5,7 @@ title: "Design operations guide"
 deck: "How to design solutions based on discovery research"
 summary: "How to design solutions based on discovery research" 
 guide: hcd-design-operations
+glossary: hcd-glossary.json
 image: hcd-design-operations
 primary_image: hcd-design-operations
 layout: single
