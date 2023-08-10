@@ -30,7 +30,7 @@ weight: 1
 
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
- topics:
+topics:
   - professional-development
 
 # Make it better ♥
