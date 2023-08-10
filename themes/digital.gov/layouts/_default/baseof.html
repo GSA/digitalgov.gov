@@ -82,7 +82,6 @@
     {{- end -}}
     {{- $glossaryPath := $terms | printf "%s%s" "/glossary/" -}}
     let glossaryPath = "{{ $glossaryPath | absURL }}";
-    console.log(glossaryPath);
   </script>
 
   <script src="{{ "dist/js/jquery.min.js" | absURL }}"></script>
