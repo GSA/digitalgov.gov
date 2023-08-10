@@ -85,14 +85,14 @@
    * @return {array} json array of image objects
    */
   async function fetchImagesData() {
-    let path;
     const { origin } = window.location.origin;
+    let path;
 
-    if (window.location.origin.includes("sites.pages.cloud.gov")) {
+    if (origin.includes("sites.pages.cloud.gov")) {
       // set path to work on cloud.pages
       const [, preview, gsa, digitalgov, branch] =
         window.location.pathname.split("/");
-      path = `${origin}/${preview}/${gsa}/${digitalgov}/${branch}${imagesJSONPath}`;
+      path = `${preview}/${gsa}/${digitalgov}/${branch}${imagesJSONPath}`;
     } else {
       // set path to work on localhost and production
       path = imagesJSONPath;
