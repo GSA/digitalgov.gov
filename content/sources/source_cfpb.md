@@ -5,7 +5,7 @@
 # The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 slug: cfpb
 
-# Source Name
+# Source Name for Workflow
 name: "Consumer Financial Protection Bureau"
 
 # Keep it short — should be no longer than 10 words.

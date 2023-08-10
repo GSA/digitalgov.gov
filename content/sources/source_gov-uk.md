@@ -5,7 +5,7 @@
 # The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 slug: gov-uk
 
-# Source Name
+# Source Name for Workflow
 name: "GOV.UK"
 
 # Keep it short — should be no longer than 10 words.

@@ -5,7 +5,7 @@
 # The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
 slug: doi-revenuedata
 
-# Source Name
+# Source Name for Workflow
 name: "Office of Natural Resources Revenue"
 
 # Keep it short — should be no longer than 10 words.
@@ -33,7 +33,7 @@ logo: doi-revenuedata
 
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
-# topics:
+topics:
   - data
 
 # Make it better ♥
