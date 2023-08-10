@@ -82,12 +82,13 @@
       pointer-events: none;
 
       &.menu-bar {
-        margin-left: units(1);
         margin-bottom: units("05");
+        margin-left: units(1);
       }
     }
 
-    &:focus, &:hover {
+    &:focus,
+    &:hover {
       color: color("primary");
       fill: color("primary");
       outline: none !important;

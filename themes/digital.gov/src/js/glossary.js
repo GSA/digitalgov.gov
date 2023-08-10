@@ -144,7 +144,9 @@ Glossary.prototype.toggle = function toggle() {
 // Show glossary
 Glossary.prototype.show = function show() {
   this.body.setAttribute("aria-hidden", "false");
-  this.toggleBtn.forEach((button) => button.setAttribute("aria-expanded", "true"));
+  this.toggleBtn.forEach((button) =>
+    button.setAttribute("aria-expanded", "true")
+  );
   this.search.focus();
   this.isOpen = true;
 };
@@ -152,7 +154,9 @@ Glossary.prototype.show = function show() {
 // Hide glossary
 Glossary.prototype.hide = function hide() {
   this.body.setAttribute("aria-hidden", "true");
-  this.toggleBtn.forEach((button) => button.setAttribute("aria-expanded", "false"));
+  this.toggleBtn.forEach((button) =>
+    button.setAttribute("aria-expanded", "false")
+  );
   this.isOpen = false;
 };
 
@@ -187,8 +191,6 @@ function closest(element, selector) {
 // Close glossary when clicking outside of aside
 Glossary.prototype.closeOpenGlossary = function closeOpenGlossary(e) {
   const buttons = Array.from(this.toggleBtn);
-  console.log(buttons);
-  console.log(e.target);
   if (!buttons.includes(e.target) && this.isOpen) {
     if (!closest(e.target, selectors.glossaryID)) {
       this.hide();
