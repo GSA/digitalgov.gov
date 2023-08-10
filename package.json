@@ -73,8 +73,7 @@
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.9.0",
     "stylelint-order": "^6.0.3",
-    "vinyl-paths": "^3.0.1",
-    "webpack-stream": "^7.0.0"
+    "vinyl-paths": "^3.0.1"
   },
   "overrides": {
     "gulp-responsive": {
