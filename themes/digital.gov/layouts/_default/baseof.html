@@ -74,6 +74,15 @@
     </div>
   </body>
 
+  <!-- Set the glossary terms as a variable -->
+  <script type="text/javascript">
+    {{- $terms := .Params.glossary -}}
+    {{- if (not .IsNode) -}}
+      {{- $terms = .Parent.Params.glossary -}}
+    {{- end -}}
+    let glossaryPath = "/glossary/{{ $terms }}";
+  </script>
+
   <script src="{{ "dist/js/jquery.min.js" | absURL }}"></script>
   <script src="{{ "dist/js/uswds.min.js" | absURL }}"></script>
   <script src="{{ "dist/js/main.js" | absURL }}"></script>
