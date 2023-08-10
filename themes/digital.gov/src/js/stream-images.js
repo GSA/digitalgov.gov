@@ -1,12 +1,24 @@
 /**
  *
- * Reads json file of hosted at /images/v1/json/ and displays images and meta-data on /images
+ * Reads json file of hosted at /images/v1/json/ and displays images and meta-data on digital.gov/images
+ * Uses imagesJSONPath set in baseof.html to create
  *
+ * 1. Check if on /images page
+ * 2. Fetch /images/v1/json file
+ * 3. Render json data in img-card markup
+ * 4. Add to DOM in one update
  */
 
 // eslint-disable-next-line func-names
 (function () {
-  // const imagesJSONPath = "/images/v1/json/";
+  // check for #stream-images in layouts/_default/images.html
+  const imagesStreamContainer = document.querySelector("#stream-images");
+  const jsonPath = "v1/json";
+
+  if (imagesStreamContainer) {
+    // eslint-disable-next-line no-use-before-define
+    fetchImagesData();
+  }
 
   /**
    * Returns image thumbnail path
@@ -63,21 +75,18 @@
 
   /**
    * Displays list of images from /images/v1/json data file
+   * Loop through images json file, return populated markup for each image and display within #stream-images container
    * @param {object} imagesToDisplay array of image objects
-   *
    */
   function createImagesStream(imagesToDisplay) {
-    const imagesStreamContainer = document.querySelector("#stream-images");
-    // const imagesStreamFragment = document.createDocumentFragment();
-    let imagesMarkupString = "";
-
+    let imagesMarkup = "";
     imagesToDisplay.forEach((image) => {
       // eslint-disable-next-line no-param-reassign
       image.thumbnail = createImageThumbnail(image);
       const imageElement = createImageElement(image);
-      imagesMarkupString += imageElement;
+      imagesMarkup += imageElement;
     });
-    imagesStreamContainer.innerHTML = imagesMarkupString;
+    imagesStreamContainer.innerHTML = imagesMarkup;
   }
 
   /**
@@ -85,21 +94,7 @@
    * @return {array} json array of image objects
    */
   async function fetchImagesData() {
-    // eslint-disable-next-line no-unused-vars
-    // let path;
-
-    // if (window.location.origin.includes("sites.pages.cloud.gov")) {
-    //   // set path to work on cloud.pages
-    //   const [, preview, gsa, digitalgov, branch] =
-    //     window.location.pathname.split("/");
-    //   path = `${preview}/${gsa}/${digitalgov}/${branch}${imagesJSONPath}`;
-    // } else {
-    //   // set path to work on localhost and production
-    //   no-unused-vars
-    //   path = imagesJSONPath;
-    // }
-
-    const imagesData = await fetch(`/images/v1/json`);
+    const imagesData = await fetch(`${jsonPath}`);
 
     if (!imagesData.ok) {
       throw new Error("Images json error");
@@ -108,6 +103,4 @@
     const imagesJSON = await imagesData.json();
     createImagesStream(imagesJSON);
   }
-
-  fetchImagesData();
 })();
