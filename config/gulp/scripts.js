@@ -1,6 +1,6 @@
 const { src, dest, series } = require("gulp");
-const webpack = require('webpack-stream');
-const compiler = require('webpack');
+const webpack = require("webpack-stream");
+const compiler = require("webpack");
 
 // Directories
 const USWDS = "node_modules/@uswds/uswds/dist";
@@ -37,9 +37,14 @@ function compile() {
   return src([`${PROJECT_JS_SRC}/*.js`], {
     sourcemaps: true,
   })
-    .pipe(webpack({
-      mode: "production"
-    }, compiler))
+    .pipe(
+      webpack(
+        {
+          mode: "production",
+        },
+        compiler
+      )
+    )
     .pipe(dest(JS_DEST, { sourcemaps: true }));
 }
 
