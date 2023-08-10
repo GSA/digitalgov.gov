@@ -6,7 +6,7 @@
 
 // eslint-disable-next-line func-names
 (function () {
-  const imagesJSONPath = "/images/v1/json/";
+  // const imagesJSONPath = "/images/v1/json/";
 
   /**
    * Returns image thumbnail path
@@ -85,17 +85,19 @@
    * @return {array} json array of image objects
    */
   async function fetchImagesData() {
-    let path;
+    // eslint-disable-next-line no-unused-vars
+    // let path;
 
-    if (window.location.origin.includes("sites.pages.cloud.gov")) {
-      // set path to work on cloud.pages
-      const [, preview, gsa, digitalgov, branch] =
-        window.location.pathname.split("/");
-      path = `${preview}/${gsa}/${digitalgov}/${branch}${imagesJSONPath}`;
-    } else {
-      // set path to work on localhost and production
-      path = imagesJSONPath;
-    }
+    // if (window.location.origin.includes("sites.pages.cloud.gov")) {
+    //   // set path to work on cloud.pages
+    //   const [, preview, gsa, digitalgov, branch] =
+    //     window.location.pathname.split("/");
+    //   path = `${preview}/${gsa}/${digitalgov}/${branch}${imagesJSONPath}`;
+    // } else {
+    //   // set path to work on localhost and production
+    //   no-unused-vars
+    //   path = imagesJSONPath;
+    // }
 
     const imagesData = await fetch(`/images/v1/json`);
 
