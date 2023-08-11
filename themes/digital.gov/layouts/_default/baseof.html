@@ -85,6 +85,8 @@
     if ({{- $terms -}}) {
       glossaryPath = "{{ $glossaryPath | absURL }}";
     }
+    // Needed to pass relURL to JS
+    const glossaryIcon = "{{ "/uswds/img/sprite.svg#expand_more" | relURL }}"
   </script>
 
   <script src="{{ "dist/js/jquery.min.js" | absURL }}"></script>
