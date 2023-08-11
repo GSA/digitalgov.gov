@@ -4,6 +4,7 @@
 const List = require("list.js");
 
 const KEYCODE_ESC = 27;
+const KEYCODE_TAB = 9;
 
 const selectors = {
   glossaryID: "#dg-glossary",
@@ -86,6 +87,17 @@ Glossary.prototype.initGlossary = async function initGlossary() {
       searchClass,
     };
     this.list = new List(glossaryID, options);
+
+    // When last term is reached, focus top of glossary
+    this.addEventListener(
+      this.listElm.lastChild.firstElementChild,
+      "keydown",
+      (e) => {
+        if (e.keyCode === KEYCODE_TAB) {
+          this.search.focus();
+        }
+      }
+    );
   } catch (e) {
     throw new Error("Error loading glossary");
   }
