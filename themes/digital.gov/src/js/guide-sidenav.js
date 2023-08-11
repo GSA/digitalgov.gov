@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
   for (let i = 0; i < headings.length; i += 1) {
     // Clean heading text and create link to append to subnav
     const text = headings[i].innerText;
-    const regex = /[!"#$%&'()*+,./:;<=>?@[\]^_`{|}~“”’]/g;
+    const regex = /[!"#$%&'()*+,./:;<=>?@[\]^_`{|}~“”‘’]/g;
     const cleanText = text.replace(regex, "");
     const textElements = cleanText.split(" ");
     const href = textElements.join("-").toLowerCase();
@@ -62,8 +62,9 @@ document.addEventListener("DOMContentLoaded", () => {
           scrollIntoView(link.getAttribute("href"));
         }, 500);
       }
-
-      headings[i].focus();
+      const heading = document.querySelector(link.getAttribute("href"));
+      heading.setAttribute("tabindex", -1);
+      heading.focus({ preventScroll: true });
     });
     subList.appendChild(link);
   }
