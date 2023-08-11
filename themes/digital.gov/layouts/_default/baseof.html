@@ -81,7 +81,10 @@
       {{- $terms = .Parent.Params.glossary -}}
     {{- end -}}
     {{- $glossaryPath := $terms | printf "%s%s" "/glossary/" -}}
-    let glossaryPath = "{{ $glossaryPath | absURL }}";
+    let glossaryPath = null;
+    if ({{- $terms -}}) {
+      glossaryPath = "{{ $glossaryPath | absURL }}";
+    }
   </script>
 
   <script src="{{ "dist/js/jquery.min.js" | absURL }}"></script>
