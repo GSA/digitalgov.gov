@@ -29,8 +29,10 @@ function Glossary() {
   this.body = document.querySelector(selectors.glossaryID);
   this.toggleBtn = document.querySelectorAll(selectors.toggle);
   this.closeBtn = document.querySelector(selectors.close);
-  this.search = this.body.querySelector(selectors.searchClass);
-  this.listElm = this.body.querySelector(selectors.listClass);
+  if (this.body) {
+    this.search = this.body.querySelector(selectors.searchClass);
+    this.listElm = this.body.querySelector(selectors.listClass);
+  }
 
   this.isOpen = false;
 
@@ -63,7 +65,10 @@ Glossary.prototype.initGlossary = async function initGlossary() {
   try {
     // Fetch the glossary terms from the "glossaryPath" variable set in baseof.html
     /* eslint-disable no-undef */
-    const response = await fetch(glossaryPath);
+    let response = null;
+    if (glossaryPath) {
+      response = await fetch(glossaryPath);
+    }
     const terms = await response.json();
     terms.forEach((term, i) => {
       const opts = {
@@ -99,7 +104,7 @@ Glossary.prototype.initGlossary = async function initGlossary() {
       }
     );
   } catch (e) {
-    throw new Error("Error loading glossary");
+    // No glossary on this page
   }
 };
 
