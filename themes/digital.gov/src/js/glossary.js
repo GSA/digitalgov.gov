@@ -49,11 +49,12 @@ function Glossary() {
 }
 
 function itemTemplate(values) {
+  /* eslint-disable no-undef */
   const id = `glossary-term-${values.termId}`;
   const template = `<li class="${values.glossaryItemClass}">
     <button class="${values.termClass}" aria-controls="${id}" aria-expanded="false">${values.term}</button>
     <svg id="${id}" class="${values.iconClass} usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img">
-      <use class="${values.iconClass}"xlink:href="/uswds/img/sprite.svg#expand_more"></use>
+      <use class="${values.iconClass}"xlink:href="${glossaryIcon}"></use>
     </svg>
     <div id="${id}" class="${values.definitionClass}" aria-hidden="true">${values.definition}</div>
   </li>`;
