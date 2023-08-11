@@ -103,6 +103,13 @@ Glossary.prototype.initGlossary = async function initGlossary() {
         }
       }
     );
+
+    // When first item (close button) is reached, focus top of glossary
+    this.addEventListener(this.closeBtn, "keydown", (e) => {
+      if (e.keyCode === KEYCODE_TAB) {
+        this.search.focus();
+      }
+    });
   } catch (e) {
     // No glossary on this page
   }
@@ -174,6 +181,7 @@ Glossary.prototype.hide = function hide() {
   this.toggleBtn.forEach((button) =>
     button.setAttribute("aria-expanded", "false")
   );
+  this.toggleBtn[0].focus();
   this.isOpen = false;
 };
 
