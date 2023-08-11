@@ -9,18 +9,18 @@
   const editPageLink = document.querySelector("#page-data .edit-file");
   const gitRepo = {};
 
-  const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
-
   /**
    * Get hugo file path from the data-edit-this attribute to link to Github repo location
    * example string: news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
    */
-  if (editPageLink) {
-    gitRepo.filepath = document
-      .querySelector("div[data-edit-this]")
-      .getAttribute("data-edit-this");
-  } else {
-    gitRepo.filepath = "";
+  function getFilepath() {
+    if (editPageLink) {
+      gitRepo.filepath = document
+        .querySelector("div[data-edit-this]")
+        .getAttribute("data-edit-this");
+    } else {
+      gitRepo.filepath = "";
+    }
   }
 
   /**
@@ -28,12 +28,14 @@
    * If on cloud.pages get the branch name from the URL
    * Otherwise, use main for localhost and production
    */
-  const host = window.location.hostname;
-  if (host.includes("sites.pages.cloud.gov")) {
-    // eslint-disable-next-line prefer-destructuring
-    gitRepo.branch = window.location.pathname.split("/")[4];
-  } else {
-    gitRepo.branch = "main";
+  function getBranch() {
+    const host = window.location.hostname;
+    if (host.includes("sites.pages.cloud.gov")) {
+      // eslint-disable-next-line prefer-destructuring
+      gitRepo.branch = window.location.pathname.split("/")[4];
+    } else {
+      gitRepo.branch = "main";
+    }
   }
 
   /**
@@ -66,11 +68,64 @@
   }
 
   /**
+   * Add "Edit" link to the #page-data element before the "Last updated on" commit timestamp
+   * Checks if page has the #page-data element for single pages, not displayed on landing pages
+   */
+  function displayGithubEditLink() {
+    const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
+    if (gitEditFilePath !== undefined) {
+      const githubEditLink = Object.assign(document.createElement("a"), {
+        classList: "edit-file-link",
+        href: `${gitEditFilePath}`,
+        innerHTML: "Edit",
+        target: "_blank",
+        title: "Edit in GitHub",
+      });
+
+      if (editPageLink) editPageLink.appendChild(githubEditLink);
+    }
+  }
+
+  /**
+   * Retrieves Github API commit information for single hugo resource/page
+   * Uses branchPath and gitRepo.filepath to build Github URL
+   */
+
+  // eslint-disable-next-line consistent-return
+  async function getCommitData() {
+    let branchPath;
+    if (gitRepo.branch === "main") {
+      branchPath = "";
+    } else {
+      branchPath = `/${gitRepo.branch}`;
+    }
+
+    // eslint-disable-next-line camelcase
+    const commitApiPath = `https://api.github.com/repos/gsa/digitalgov.gov/commits${branchPath}?path=/content/${gitRepo.filepath}`;
+
+    if (commitApiPath !== undefined) {
+      const githubResponse = await fetch(`${commitApiPath}`);
+
+      if (!githubResponse.ok) {
+        throw new Error(`HTTP error! status: ${githubResponse.status}`);
+      }
+
+      const githubData = await githubResponse.json();
+
+      if (typeof githubData !== "undefined" || githubData.length !== 0) {
+        // showLastCommit(githubData);
+        return githubData;
+      }
+    }
+  }
+
+  /**
    * Display github commit date in <p> tag at bottom of page
    * Creates the markup and adds the commit date and URL path for editing on github
    * @param {json} data response object from github api /commit endpoint
    */
-  function showLastCommit(data) {
+  async function displayGithubCommitLink() {
+    const data = await getCommitData();
     const commitData = Array.isArray(data) ? data[0] : data;
     const commitDate = commitData.commit.committer.date;
     const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitRepo.branch}/content/${gitRepo.filepath}`;
@@ -96,54 +151,8 @@
     }
   }
 
-  /**
-   * Add "Edit" link to the #page-data element before the "Last updated on" commit timestamp
-   * Checks if page has the #page-data element for single pages, not displayed on landing pages
-   */
-  function buildEditFileLink() {
-    if (gitEditFilePath !== undefined) {
-      const githubEditLink = Object.assign(document.createElement("a"), {
-        classList: "edit-file-link",
-        href: `${gitEditFilePath}`,
-        innerHTML: "Edit",
-        target: "_blank",
-        title: "Edit in GitHub",
-      });
-
-      if (editPageLink) editPageLink.appendChild(githubEditLink);
-    }
-  }
-
-  /**
-   * Retrieves Github API commit information for single hugo resource/page
-   * Uses branchPath and gitRepo.filepath to build Github URL
-   */
-  async function getCommitData() {
-    let branchPath;
-    if (gitRepo.branch === "main") {
-      branchPath = "";
-    } else {
-      branchPath = `/${gitRepo.branch}`;
-    }
-
-    // eslint-disable-next-line camelcase
-    const commitApiPath = `https://api.github.com/repos/gsa/digitalgov.gov/commits${branchPath}?path=/content/${gitRepo.filepath}`;
-
-    if (commitApiPath !== undefined) {
-      const githubResponse = await fetch(`${commitApiPath}`);
-
-      if (!githubResponse.ok) {
-        throw new Error(`HTTP error! status: ${githubResponse.status}`);
-      }
-
-      const githubData = await githubResponse.json();
-
-      if (typeof githubData !== "undefined" || githubData.length !== 0) {
-        showLastCommit(githubData);
-      }
-    }
-  }
-
-  buildEditFileLink();
-  getCommitData();
+  getFilepath();
+  getBranch();
+  displayGithubEditLink();
+  displayGithubCommitLink();
 })();
