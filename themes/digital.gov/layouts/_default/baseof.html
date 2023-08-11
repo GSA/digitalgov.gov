@@ -80,7 +80,7 @@
     {{- if (not .IsNode) -}}
       {{- $terms = .Parent.Params.glossary -}}
     {{- end -}}
-    {{- $glossaryPath := $terms | printf "%s%s" "/glossary/" -}}
+    {{- $glossaryPath := (printf "%s/%s" "glossary/" $terms | absURL) -}}
     let glossaryPath = null;
     if ({{- $terms -}}) {
       glossaryPath = "{{ $glossaryPath | absURL }}";
