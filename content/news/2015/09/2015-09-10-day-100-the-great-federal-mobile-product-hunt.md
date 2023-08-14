@@ -16,7 +16,7 @@ topics:
   - thursday-mobile-products
   - us-department-of-veterans-affairs
   - united-states-department-of-health-and-human-services
-  - usa-gov-federal-mobile-apps-directory
+ 
   - VA
 ---
 
