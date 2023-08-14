@@ -18,7 +18,7 @@ topics:
   - native-apps
   - open-data
   - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
+ 
 
 ---
 

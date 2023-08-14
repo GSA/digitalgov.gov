@@ -12,7 +12,7 @@ topics:
   - ios
   - mobile-apps
   - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
+ 
 
 ---
 

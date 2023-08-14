@@ -9,7 +9,7 @@ topics:
   - mobile-apps
   - thursday-mobile-products
   - US Department of Agriculture
-  - usa-gov-federal-mobile-apps-directory
+ 
   - USDA
 ---
 

@@ -11,7 +11,7 @@ topics:
   - data
   - mobile
   - the-data-briefing
-  - usa-gov-federal-mobile-apps-directory
+ 
 
 ---
 

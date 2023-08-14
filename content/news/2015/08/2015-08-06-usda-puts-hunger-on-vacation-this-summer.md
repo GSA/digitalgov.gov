@@ -7,7 +7,7 @@ topics:
   - mobile
   - api
   - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
+ 
   - USDA
 ---
 
