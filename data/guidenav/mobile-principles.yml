@@ -1,21 +1,21 @@
 showNextPrevious: true
 showInPageNav: false
 nav:
-- title  : 'Overview'
-  path   : '/guides/mobile-principles/_index.md'
-- title  : 'Javascript'
-  path   : '/guides/mobile-principles/principles-javascript.md'
-- title  : 'Viewport'
-  path   : '/guides/mobile-principles/principles-viewport.md'
-- title  : 'Navigation'
-  path   : '/guides/mobile-principles/principles-tap-targets.md'
-- title  : 'Plugins'
-  path   : '/guides/mobile-principles/principles-plugins.md'
-- title  : 'Cache'
-  path   : '/guides/mobile-principles/principles-cache.md'
-- title  : 'Optimization'
-  path   : '/guides/mobile-principles/principles-optimize-minify-compression.md'
-- title  : 'Configuration'
-  path   : '/guides/mobile-principles/principles-configuration.md'
-- title  : 'Accessibility'
-  path   : '/guides/mobile-principles/principles-accessibility.md'
+  - title: "Overview"
+    path: "/guides/mobile-principles/_index.md"
+  - title: "Javascript"
+    path: "/guides/mobile-principles/principles-javascript.md"
+  - title: "Viewport"
+    path: "/guides/mobile-principles/principles-viewport.md"
+  - title: "Navigation"
+    path: "/guides/mobile-principles/principles-tap-targets.md"
+  - title: "Plugins"
+    path: "/guides/mobile-principles/principles-plugins.md"
+  - title: "Cache"
+    path: "/guides/mobile-principles/principles-cache.md"
+  - title: "Optimization"
+    path: "/guides/mobile-principles/principles-optimize-minify-compression.md"
+  - title: "Configuration"
+    path: "/guides/mobile-principles/principles-configuration.md"
+  - title: "Accessibility"
+    path: "/guides/mobile-principles/principles-accessibility.md"
