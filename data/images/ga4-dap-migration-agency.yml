@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/ga4-dap-migration-agency.png
+  # Image shortcode: {{< img src=ga4-dap-migration-agency >}}'
+  date     :  2023-08-10 22:57:51 -0400
+  uid      :  ga4-dap-migration-agency
+  width    :  950
+  height   :  500
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "An image of the GA4 Governmentwide DAP account structure with agency-specific subproperties."
+  
