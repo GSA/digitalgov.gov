@@ -61,7 +61,7 @@ When distributing materials related to the Hawaii wildfires, please include link
 When posting information to your agency website, please only post information related to your individual agency. Then, link to the authoritative information from other government agencies that is related to your agency mission or ”lane.” Do NOT copy and paste content from other agencies or websites onto your site.
 {{< /note >}}
 
-Coordinate emergency response-related web and digital communications with your <a href="https://digital.gov/resources/federal-web-council/#current-council-members">Federal Web Council representative</a>.
+Coordinate emergency response-related web and digital communications with your [Federal Web Council representative](https://digital.gov/resources/federal-web-council#current-council-members).
 
 
 
