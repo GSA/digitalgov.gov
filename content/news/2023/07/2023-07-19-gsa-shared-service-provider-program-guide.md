@@ -1,20 +1,21 @@
 ---
 date: 2023-07-19 15:15:00 -0500
 kicker: 
-title: GSA Shared Service Provider Program Guide
-deck: Interested in becoming a Shared Service Provider?
-summary: The newly-released SSP Program Guide was created for commercial vendors interested in becoming a Shared Service Provider.
+title: "GSA Shared Service Provider Program Guide"
+deck: "Interested in becoming a Shared Service Provider?"
+summary: "The newly-released SSP Program Guide was created for commercial vendors interested in becoming a Shared Service Provider."
+
 # See all topics at https://digital.gov/topics
 topics:
   - security
   - infrastructure
+
 # See all authors at https://digital.gov/authors
 authors:
   - cheryl-jenkins
   - tyler-jones
 
 slug: gsa-shared-service-provider-program-guide
-
 primary_image: "data-security-concept-comp"
 
 # Controls how this page appears across the site
