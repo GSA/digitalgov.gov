@@ -7,233 +7,245 @@ const KEYCODE_ESC = 27;
 const KEYCODE_TAB = 9;
 
 const selectors = {
-  glossaryID: "#dg-glossary",
-  toggle: ".dg-glossary__toggle",
   close: ".dg-glossary__close",
-  listClass: ".dg-glossary__list",
-  searchClass: ".dg-glossary__search",
+  container: ".dg-glossary__container",
+  list: ".dg-glossary__list",
+  search: ".dg-glossary__search",
+  toggle: ".dg-glossary__toggle",
 };
 
-const classes = {
-  definitionClass: "dg-glossary__definition",
-  glossaryItemClass: "dg-glossary__item",
-  termClass: "dg-glossary__term",
-  iconClass: "dg-glossary__icon",
+const cssClasses = {
+  definition: "dg-glossary__definition",
+  item: "dg-glossary__item",
+  icon: "dg-glossary__icon",
+  term: "dg-glossary__term",
 };
+
+const glossaryBody = document.querySelector(selectors.container);
+let listElement = null;
+let search = null;
+let toggleButtons = null;
+let toggleButtonTrigger = null;
+let closeButton = null;
+let list = null;
+let definitions = null;
 
 /**
- * Glossary side panel
- * @constructor
+ * Query the document for glossary elements and assign them to the relevant variables
  */
-function Glossary() {
-  this.body = document.querySelector(selectors.glossaryID);
-  this.toggleBtn = document.querySelectorAll(selectors.toggle);
-  this.closeBtn = document.querySelector(selectors.close);
-  if (this.body) {
-    this.search = this.body.querySelector(selectors.searchClass);
-    this.listElm = this.body.querySelector(selectors.listClass);
-  }
 
-  this.isOpen = false;
-
-  this.initGlossary();
-
-  this.toggleBtn.forEach((btn) => {
-    this.addEventListener(btn, "click", this.toggle.bind(this));
-  });
-  this.addEventListener(this.closeBtn, "click", this.hide.bind(this));
-  this.addEventListener(this.search, "input", this.handleInput.bind(this));
-  this.addEventListener(document.body, "keyup", this.handleKeyup.bind(this));
-  this.addEventListener(document, "click", this.closeOpenGlossary.bind(this));
-  this.addEventListener(this.body, "click", this.handleTermTouch.bind(this));
+function initializeElements() {
+  toggleButtons = document.body.querySelectorAll(selectors.toggle);
+  listElement = glossaryBody.querySelector(selectors.list);
+  search = glossaryBody.querySelector(selectors.search);
+  closeButton = glossaryBody.querySelector(selectors.close);
 }
+
+/**
+ * Generate glossary term markup
+ * @param {object} values object of glossary term & definition data from json, class and aria values for markup
+ * @returns {string} template string of list markup
+ */
 
 function itemTemplate(values) {
   /* eslint-disable no-undef */
   const id = `glossary-term-${values.termId}`;
-  const template = `<li class="${values.glossaryItemClass}">
-    <button class="${values.termClass}" aria-controls="${id}" aria-expanded="false">${values.term}</button>
-    <svg id="${id}" class="${values.iconClass} usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img">
+  const template = `<li class="${values.itemClass}">
+    <button class="${values.termClass}" aria-controls="${id}" disabled>${values.term}</button>
+    <svg id="${id}-icon" class="${values.iconClass} usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img" hidden>
       <use class="${values.iconClass}"xlink:href="${glossaryIcon}"></use>
     </svg>
-    <div id="${id}" class="${values.definitionClass}" aria-hidden="true">${values.definition}</div>
+    <div id="${id}" class="${values.definitionClass}" hidden>${values.definition}</div>
   </li>`;
   return template;
 }
 
-// Initialize the glossary list with terms
-Glossary.prototype.initGlossary = async function initGlossary() {
-  try {
-    // Fetch the glossary terms from the "glossaryPath" variable set in baseof.html
-    /* eslint-disable no-undef */
-    let response = null;
-    if (glossaryPath) {
-      response = await fetch(glossaryPath);
-    }
-    const terms = await response.json();
-    terms.forEach((term, i) => {
-      const opts = {
-        term: term.term,
-        definition: term.definition,
-        definitionClass: classes.definitionClass,
-        glossaryItemClass: classes.glossaryItemClass,
-        termClass: classes.termClass,
-        iconClass: classes.iconClass,
-        termId: i,
-      };
-      this.listElm.insertAdjacentHTML("beforeend", itemTemplate(opts));
-    }, this);
+/**
+ * Generate list markup and insert into list element to display
+ * @param {object} terms json data list of terms and definitions
+ */
 
-    const glossaryID = selectors.glossaryID.slice(1);
-    const listClass = selectors.listClass.slice(1);
-    const searchClass = selectors.searchClass.slice(1);
-    const options = {
-      valueNames: [classes.termClass],
-      listClass,
-      searchClass,
+function generateListMarkup(terms) {
+  let termsMarkup = "";
+  terms.forEach((term, i) => {
+    const values = {
+      term: term.term,
+      definition: term.definition,
+      definitionClass: cssClasses.definition,
+      itemClass: cssClasses.item,
+      termClass: cssClasses.term,
+      iconClass: cssClasses.icon,
+      termId: i,
     };
-    this.list = new List(glossaryID, options);
+    termsMarkup += itemTemplate(values);
+  });
+  listElement.insertAdjacentHTML("beforeend", termsMarkup);
+}
 
-    // When last term is reached, focus top of glossary
-    this.addEventListener(
-      this.listElm.lastChild.firstElementChild,
-      "keydown",
-      (e) => {
-        if (e.keyCode === KEYCODE_TAB) {
-          this.search.focus();
-        }
-      }
+/**
+ * Construct new list object from list.js library
+ */
+
+function initializeList() {
+  const listClass = selectors.list.slice(1);
+  const searchClass = selectors.search.slice(1);
+  const options = {
+    valueNames: [cssClasses.term],
+    listClass,
+    searchClass,
+  };
+  list = new List(glossaryBody, options);
+  definitions = glossaryBody.querySelectorAll(`.${cssClasses.term}`);
+}
+
+/**
+ * Hide glossary and disable all focusable elements
+ */
+
+function hideGlossary() {
+  if (toggleButtonTrigger) {
+    glossaryBody.setAttribute("aria-hidden", "true");
+    closeButton.setAttribute("disabled", "");
+    search.setAttribute("disabled", "");
+    definitions.forEach((definition) =>
+      definition.setAttribute("disabled", "")
     );
+    toggleButtonTrigger.focus({ preventScroll: true });
+    toggleButtonTrigger = null;
+  }
+}
 
-    // When first item (close button) is reached, focus top of glossary
-    this.addEventListener(this.closeBtn, "keydown", (e) => {
-      if (e.keyCode === KEYCODE_TAB) {
-        this.search.focus();
+/**
+ * Show glossary and enable all focusable elements
+ * @param {element} toggleButton button which was clicked to open the glossary
+ */
+
+function showGlossary(toggleButton) {
+  if (!toggleButtonTrigger) {
+    glossaryBody.setAttribute("aria-hidden", "false");
+    closeButton.removeAttribute("disabled");
+    search.removeAttribute("disabled");
+    search.focus();
+    definitions.forEach((definition) => definition.removeAttribute("disabled"));
+    toggleButtonTrigger = toggleButton;
+  } else {
+    hideGlossary();
+  }
+}
+
+/**
+ * Toggle glossary term expansion when clicked
+ * @param {event} event fired when term is clicked
+ */
+
+function handleTermClick(e) {
+  if (e.target.matches(`.${cssClasses.term}`)) {
+    const termNumber = e.target.getAttribute("aria-controls");
+    e.target.setAttribute(
+      "aria-expanded",
+      e.target.getAttribute("aria-expanded") === "true" ? "false" : "true"
+    );
+    glossaryBody
+      .querySelectorAll(`#${termNumber}, #${termNumber}-icon`)
+      .forEach((definition) => definition.toggleAttribute("hidden"));
+  }
+}
+
+function initializeEventListeners() {
+  /**
+   * Open glossary when toggle button is clicked
+   */
+  toggleButtons.forEach((button) => {
+    button.addEventListener("click", () => showGlossary(button));
+  });
+
+  /**
+   * Close glossary on escape keypress
+   * @param {event} e to handle keycode lookup when "escape" is pressed
+   */
+  document.body.addEventListener("keyup", (e) => {
+    if (e.keyCode === KEYCODE_ESC) {
+      hideGlossary();
+    }
+  });
+
+  /**
+   * Close glossary when clicking outside of aside (and not on toggle button)
+   * @param {event} e to handle click on document body
+   */
+  document.body.addEventListener("click", (e) => {
+    const buttons = Array.from(toggleButtons);
+    if (!buttons.includes(e.target)) {
+      if (!glossaryBody.contains(e.target)) {
+        hideGlossary();
       }
-    });
-  } catch (e) {
-    // No glossary on this page
-  }
-};
+    }
+  });
 
-// https://davidwalsh.name/element-matches-selector
-function selectorMatches(el, selector) {
-  const p = Element.prototype;
-  const f =
-    p.matches ||
-    p.webkitMatchesSelector ||
-    p.mozMatchesSelector ||
-    p.msMatchesSelector ||
-    function selectorMatch(s) {
-      return [].indexOf.call(document.querySelectorAll(s), this) !== -1;
-    };
-  return f.call(el, selector);
+  /**
+   * Close glossary when close button is clicked
+   */
+  closeButton.addEventListener("click", hideGlossary);
+
+  /**
+   * When the first item (close button) is reached, refocus the top of glossary
+   * @param {event} e to handle tab key press (changing focus)
+   */
+  closeButton.addEventListener("keydown", (e) => {
+    if (e.keyCode === KEYCODE_TAB) {
+      search.focus();
+    }
+  });
+
+  /**
+   * When the last element in the list is reached, focus the top of the glossary
+   * @param {event} e to handle tab key press (changing focus)
+   */
+  listElement.lastChild.firstElementChild.addEventListener("keydown", (e) => {
+    if (e.keyCode === KEYCODE_TAB) {
+      search.focus();
+    }
+  });
+
+  /**
+   * Filter glossary terms on search
+   */
+  search.addEventListener("input", () => {
+    if (list.filtered) {
+      list.filter();
+    }
+  });
+
+  /**
+   * When a glossary term is clicked, toggle the definition expansion
+   */
+  glossaryBody.addEventListener("click", (e) => handleTermClick(e));
 }
 
-// Toggle glossary term visibility
-Glossary.prototype.handleTermTouch = function handleTermTouch(e) {
-  if (
-    selectorMatches(e.target, `.${classes.termClass}`) ||
-    selectorMatches(e.target, `.${classes.iconClass}`)
-  ) {
-    // Needed to handle icon clicks
-    let { target } = e;
-    if (target.tagName.toLowerCase() === "svg") {
-      target = target.previousElementSibling;
-    } else if (target.tagName.toLowerCase() === "use") {
-      target = target.parentElement.previousElementSibling;
-    }
+/**
+ * Initialize the glossary DOM elements
+ * Fetch the glossary terms from the "glossaryPath" variable set in baseof.html
+ * Generate list markup, initialize new list, and initialize event listeners
+ * @param {string} path relative path to the json file with terms
+ */
 
-    const expanded = target.getAttribute("aria-expanded");
-    const termNumber = target.getAttribute("aria-controls");
-    if (expanded === "false") {
-      target.setAttribute("aria-expanded", "true");
-      document
-        .querySelectorAll(`#${termNumber}`)
-        .forEach((el) => el.setAttribute("aria-hidden", "false"));
-    } else {
-      target.setAttribute("aria-expanded", "false");
-      document
-        .querySelectorAll(`#${termNumber}`)
-        .forEach((el) => el.setAttribute("aria-hidden", "true"));
-    }
-  }
-};
+async function initializeGlossary(path) {
+  initializeElements();
 
-// Toggle glossary visibility
-Glossary.prototype.toggle = function toggle() {
-  const method = this.isOpen ? this.hide : this.show;
-  method.apply(this);
-};
+  const response = await fetch(path);
+  if (!response.ok) return;
+  const terms = await response.json();
 
-// Show glossary
-Glossary.prototype.show = function show() {
-  this.body.setAttribute("aria-hidden", "false");
-  this.toggleBtn.forEach((button) =>
-    button.setAttribute("aria-expanded", "true")
-  );
-  this.search.focus();
-  this.isOpen = true;
-};
+  generateListMarkup(terms);
 
-// Hide glossary
-Glossary.prototype.hide = function hide() {
-  this.body.setAttribute("aria-hidden", "true");
-  this.toggleBtn.forEach((button) =>
-    button.setAttribute("aria-expanded", "false")
-  );
-  this.toggleBtn[0].focus();
-  this.isOpen = false;
-};
+  initializeList();
 
-// Filter glossary terms on search
-Glossary.prototype.handleInput = function handleInput() {
-  if (this.list.filtered) {
-    this.list.filter();
-  }
-};
-
-// Close glossary on escape keypress
-Glossary.prototype.handleKeyup = function handleKeyup(e) {
-  if (e.keyCode === KEYCODE_ESC) {
-    if (this.isOpen) {
-      this.hide();
-    }
-  }
-};
-
-// Helper function to identify closest parent element
-function closest(element, selector) {
-  let el = element;
-  while (el) {
-    if (selectorMatches(el, selector)) {
-      break;
-    }
-    el = el.parentElement;
-  }
-  return el;
+  initializeEventListeners();
 }
 
-// Close glossary when clicking outside of aside
-Glossary.prototype.closeOpenGlossary = function closeOpenGlossary(e) {
-  const buttons = Array.from(this.toggleBtn);
-  if (!buttons.includes(e.target) && this.isOpen) {
-    if (!closest(e.target, selectors.glossaryID)) {
-      this.hide();
-    }
+/* eslint-disable no-undef */
+if (glossaryBody) {
+  if (glossaryPath) {
+    initializeGlossary(glossaryPath);
   }
-};
-
-// Helper function to add event listeners to Glossary object
-Glossary.prototype.addEventListener = function addEventListener(
-  elm,
-  event,
-  callback
-) {
-  if (elm) {
-    elm.addEventListener(event, callback);
-  }
-};
-
-/* eslint-disable no-new */
-new Glossary();
+}

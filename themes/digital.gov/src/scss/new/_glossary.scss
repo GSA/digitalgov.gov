@@ -32,19 +32,16 @@
     @include u-line-height("sans", 6);
     margin: units(2) 0;
     width: full;
-
-    &[aria-hidden="true"] {
-      display: none;
-    }
   }
 
   &__icon {
     margin-top: units(1);
+    pointer-events: none;
     position: absolute;
     right: units(4);
     transition: 0.3s;
 
-    &[aria-hidden="true"] {
+    &[hidden] {
       transform: rotate(-90deg);
     }
   }
@@ -71,8 +68,10 @@
 
   &__toggle {
     @include u-text("light", "black");
+    align-items: center;
     background: none;
     border: none;
+    display: flex;
     gap: units("05");
     height: units(4);
     text-decoration: none;
@@ -80,11 +79,6 @@
 
     &-icon {
       pointer-events: none;
-
-      &.menu-bar {
-        margin-bottom: units("05");
-        margin-left: units(1);
-      }
     }
 
     &:focus,

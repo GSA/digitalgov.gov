@@ -82,9 +82,9 @@
     {{- end -}}
     {{- $glossaryPath := (printf "%s/%s" "glossary/" $terms | absURL) -}}
     let glossaryPath = null;
-    if ({{- $terms -}}) {
+    {{- if and ($terms) (os.FileExists (printf "%s/%s" "themes/digital.gov/static/glossary/" $terms)) -}}
       glossaryPath = "{{ $glossaryPath | absURL }}";
-    }
+    {{- end -}}
     // Needed to pass relURL to JS
     const glossaryIcon = "{{ "/uswds/img/sprite.svg#expand_more" | relURL }}"
   </script>

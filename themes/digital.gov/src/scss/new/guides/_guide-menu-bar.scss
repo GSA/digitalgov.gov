@@ -57,10 +57,23 @@
 
   &.sticky {
     justify-content: space-evenly;
+
+    .dg-guide__menu-bar-image-container {
+      align-items: flex-end;
+      display: flex;
+    }
   }
 
   .dg-current {
     @include u-border-bottom("05", "primary", "solid");
     font-weight: font-weight("medium");
+  }
+
+  .dg-glossary__toggle {
+    display: inline;
+
+    &-icon {
+      margin-left: units(1);
+    }
   }
 }
