@@ -1,6 +1,6 @@
 ---
-# View this page at https://digital.gov/resources/hawaii-widfires-guidance-for-us-government  
-# Learn how to edit our pages at https://workflow.digital.gov 
+# View this page at https://digital.gov/resources/hawaii-widfires-guidance-for-us-government
+# Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
 slug: hawaii-wildfires-guidance-for-us-government
@@ -34,6 +34,7 @@ topics:
 primary_image: "card-hawaii-wildfires-guidance"
 
 ---
+
 In response to the Hawaii wildfires that began on August 8, 2023, the U.S. Department of Homeland Security (DHS) is issuing guidance for the coordination of federal web and social media communications related to this incident.
 
 The authority for this action comes from [Emergency Support Function 15](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response#esf) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response) where, during incidents of national significance, DHS has the authority to coordinate all U.S. government communications.
@@ -43,7 +44,7 @@ On August 15, 2023, in conjunction with the [Federal Web Council](https://digita
 {{< note >}} **All federal agencies are required to follow this guidance.** {{< /note >}}
 
 {{< note "action" >}}
-NOTE: Use the phrase “Hawaii wildfires” instead of “Hawaiian wildfires” to be respectful of Hawaii’s culture and history. The term "Hawaiian" should only be used to refer to the islands’ Indigenous people.
+**NOTE**: Use the phrase “Hawaii wildfires” instead of “Hawaiian wildfires” to be respectful of Hawaii’s culture and history. The term "Hawaiian" should only be used to refer to the islands’ Indigenous people.
 {{< /note >}}
 
 ## In brief
@@ -61,10 +62,7 @@ When distributing materials related to the Hawaii wildfires, please include link
 When posting information to your agency website, please only post information related to your individual agency. Then, link to the authoritative information from other government agencies that is related to your agency mission or ”lane.” Do NOT copy and paste content from other agencies or websites onto your site.
 {{< /note >}}
 
-Coordinate emergency response-related web and digital communications with your <a href="https://digital.gov/resources/federal-web-council/#current-council-members">Federal Web Council representative</a>.
-
-
-
+Coordinate emergency response-related web and digital communications with your [Federal Web Council representative](https://digital.gov/resources/federal-web-council#current-council-members).
 
 ## Lanes of communication
 
