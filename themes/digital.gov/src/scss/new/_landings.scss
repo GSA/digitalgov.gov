@@ -53,11 +53,10 @@
 
     .dg-featured-resource {
       max-width: none;
-    }
 
-    h1 {
-      font-size: 3em;
-      font-weight: font-weight("heavy");
+      p {
+        @include u-font("sans", "sm");
+      }
     }
 
     .dg-glossary__toggle {
@@ -65,6 +64,11 @@
       cursor: pointer;
       display: inline;
       text-decoration: underline;
+    }
+
+    h1 {
+      font-size: 3em;
+      font-weight: font-weight("heavy");
     }
 
     p,
