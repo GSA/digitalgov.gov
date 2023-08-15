@@ -43,7 +43,7 @@ The Shared Services Program offers several different certificates to fulfill you
 
 The [SSP Program Guide](https://www.idmanagement.gov/gsapkissp/) is reviewed annually and has three major sections:
 
-**[Section 1](https://www.idmanagement.gov/buy/gsapkissp#section-i-gsa-pki-ssp-program)** - Outlines GSA management and acquisition controls of the GSA SSP Program according to [OMB Memo 19-17](https://www.cio.gov/policies-and-priorities/ICAM/).
+**[Section 1](https://www.idmanagement.gov/gsapkissp#section-i-gsa-pki-ssp-program)** - Outlines GSA management and acquisition controls of the GSA SSP Program according to [OMB Memo 19-17](https://www.cio.gov/policies-and-priorities/ICAM/).
 
 **[Section 2](https://www.idmanagement.gov/gsapkissp#section-ii-application-and-maintenance-activities)** - Defines the application and ongoing maintenance process to apply and stay in the GSA SSP Program.
 
