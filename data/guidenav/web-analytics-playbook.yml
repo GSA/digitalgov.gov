@@ -1,22 +1,21 @@
-# Navigation YML file for web analytics guide guide
 showNextPrevious: true
 showInPageNav: false
 nav:
-- title    : 'Overview'
-  path     : '/guides/web-analytics-playbook/_index.md'
-- title    : 'Build'
-  path     : '/guides/web-analytics-playbook/create-a-foundation-for-your-strategy.md'
-- title    : 'Commit'
-  path     : '/guides/web-analytics-playbook/commit-to-action.md'
-- title    : 'Implement'
-  path     : '/guides/web-analytics-playbook/implement-wisely.md'
-- title    : "Configure"
-  path     : '/guides/web-analytics-playbook/configure-your-tools-settings-carefully.md'
-- title    : "Measure"
-  path     : '/guides/web-analytics-playbook/know-what-youre-looking-for.md'
-- title    : 'Share'
-  path     : '/guides/web-analytics-playbook/democratize-the-data.md'
-- title    : 'Train'
-  path     : '/guides/web-analytics-playbook/invest-in-training-and-support.md'
-- title    : 'Iterate'
-  path     : '/guides/web-analytics-playbook/do-it-continuously.md'
+  - title: "Overview"
+    path: "/guides/web-analytics-playbook/_index.md"
+  - title: "Build"
+    path: "/guides/web-analytics-playbook/create-a-foundation-for-your-strategy.md"
+  - title: "Commit"
+    path: "/guides/web-analytics-playbook/commit-to-action.md"
+  - title: "Implement"
+    path: "/guides/web-analytics-playbook/implement-wisely.md"
+  - title: "Configure"
+    path: "/guides/web-analytics-playbook/configure-your-tools-settings-carefully.md"
+  - title: "Measure"
+    path: "/guides/web-analytics-playbook/know-what-youre-looking-for.md"
+  - title: "Share"
+    path: "/guides/web-analytics-playbook/democratize-the-data.md"
+  - title: "Train"
+    path: "/guides/web-analytics-playbook/invest-in-training-and-support.md"
+  - title: "Iterate"
+    path: "/guides/web-analytics-playbook/do-it-continuously.md"
