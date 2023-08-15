@@ -49,8 +49,7 @@
   margin-bottom: units(2);
 }
 
-// remove margin-top for no space between banner and alert
-
+// set margin-top to 0 to leave no space between banner and alert
 .usa-site-alert.usa-site-alert--info .usa-alert {
   margin-top: 0rem;
 }
