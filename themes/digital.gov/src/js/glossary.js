@@ -25,10 +25,14 @@ const glossaryBody = document.querySelector(selectors.container);
 let listElement = null;
 let search = null;
 let toggleButtons = null;
+let toggleButtonTrigger = null;
 let closeButton = null;
 let list = null;
 let definitions = null;
-let trigger = null;
+
+/**
+ * Query the document for glossary elements and assign them to the relevant variables
+ */
 
 function initializeElements() {
   toggleButtons = document.body.querySelectorAll(selectors.toggle);
@@ -36,6 +40,12 @@ function initializeElements() {
   search = glossaryBody.querySelector(selectors.search);
   closeButton = glossaryBody.querySelector(selectors.close);
 }
+
+/**
+ * Generate glossary term markup
+ * @param {object} values object of glossary term & definition data from json, class and aria values for markup
+ * @returns {string} template string of list markup
+ */
 
 function itemTemplate(values) {
   /* eslint-disable no-undef */
@@ -49,6 +59,11 @@ function itemTemplate(values) {
   </li>`;
   return template;
 }
+
+/**
+ * Generate list markup and insert into list element to display
+ * @param {object} terms json data list of terms and definitions
+ */
 
 function generateListMarkup(terms) {
   let termsMarkup = "";
@@ -67,6 +82,10 @@ function generateListMarkup(terms) {
   listElement.insertAdjacentHTML("beforeend", termsMarkup);
 }
 
+/**
+ * Construct new list object from list.js library
+ */
+
 function initializeList() {
   const listClass = selectors.list.slice(1);
   const searchClass = selectors.search.slice(1);
@@ -79,31 +98,45 @@ function initializeList() {
   definitions = glossaryBody.querySelectorAll(`.${cssClasses.term}`);
 }
 
+/**
+ * Hide glossary and disable all focusable elements
+ */
+
 function hideGlossary() {
-  if (trigger) {
+  if (toggleButtonTrigger) {
     glossaryBody.setAttribute("aria-hidden", "true");
     closeButton.setAttribute("disabled", "");
     search.setAttribute("disabled", "");
     definitions.forEach((definition) =>
       definition.setAttribute("disabled", "")
     );
-    trigger.focus({ preventScroll: true });
-    trigger = null;
+    toggleButtonTrigger.focus({ preventScroll: true });
+    toggleButtonTrigger = null;
   }
 }
 
-function showGlossary(button) {
-  if (!trigger) {
+/**
+ * Show glossary and enable all focusable elements
+ * @param {element} toggleButton button which was clicked to open the glossary
+ */
+
+function showGlossary(toggleButton) {
+  if (!toggleButtonTrigger) {
     glossaryBody.setAttribute("aria-hidden", "false");
     closeButton.removeAttribute("disabled");
     search.removeAttribute("disabled");
     search.focus();
     definitions.forEach((definition) => definition.removeAttribute("disabled"));
-    trigger = button;
+    toggleButtonTrigger = toggleButton;
   } else {
     hideGlossary();
   }
 }
+
+/**
+ * Toggle glossary term expansion when clicked
+ * @param {event} event fired when term is clicked
+ */
 
 function handleTermClick(e) {
   if (e.target.matches(`.${cssClasses.term}`)) {
@@ -119,18 +152,27 @@ function handleTermClick(e) {
 }
 
 function initializeEventListeners() {
-  // Open the glossary when toggle buttons are clicked
+  /**
+   * Open glossary when toggle button is clicked
+   */
   toggleButtons.forEach((button) => {
     button.addEventListener("click", () => showGlossary(button));
   });
 
-  // Hide the glossary when the close button is clicked, the escape key is pressed, or the user clicks outside of the glossary
+  /**
+   * Close glossary on escape keypress
+   * @param {event} e to handle keycode lookup when "escape" is pressed
+   */
   document.body.addEventListener("keyup", (e) => {
     if (e.keyCode === KEYCODE_ESC) {
       hideGlossary();
     }
   });
 
+  /**
+   * Close glossary when clicking outside of aside (and not on toggle button)
+   * @param {event} e to handle click on document body
+   */
   document.body.addEventListener("click", (e) => {
     const buttons = Array.from(toggleButtons);
     if (!buttons.includes(e.target)) {
@@ -140,38 +182,60 @@ function initializeEventListeners() {
     }
   });
 
+  /**
+   * Close glossary when close button is clicked
+   */
   closeButton.addEventListener("click", hideGlossary);
 
-  // When the first item (close button) is reached, refocus the top of glossary
+  /**
+   * When the first item (close button) is reached, refocus the top of glossary
+   * @param {event} e to handle tab key press (changing focus)
+   */
   closeButton.addEventListener("keydown", (e) => {
     if (e.keyCode === KEYCODE_TAB) {
       search.focus();
     }
   });
 
-  // When the last element in the list is reached, focus the top of the glossary
+  /**
+   * When the last element in the list is reached, focus the top of the glossary
+   * @param {event} e to handle tab key press (changing focus)
+   */
   listElement.lastChild.firstElementChild.addEventListener("keydown", (e) => {
     if (e.keyCode === KEYCODE_TAB) {
       search.focus();
     }
   });
 
-  // Filter the term list as the user searches
+  /**
+   * Filter glossary terms on search
+   */
   search.addEventListener("input", () => {
     if (list.filtered) {
       list.filter();
     }
   });
 
-  // When a glossary term is clicked, toggle the definition expansion
+  /**
+   * When a glossary term is clicked, toggle the definition expansion
+   */
   glossaryBody.addEventListener("click", (e) => handleTermClick(e));
 }
+
+/**
+ * Initialize the glossary DOM elements
+ * Fetch the glossary terms from the "glossaryPath" variable set in baseof.html
+ * Generate list markup, initialize new list, and initialize event listeners
+ * @param {string} path relative path to the json file with terms
+ */
 
 async function initializeGlossary(path) {
   initializeElements();
 
   const response = await fetch(path);
+  if (!response.ok) return;
   const terms = await response.json();
+
   generateListMarkup(terms);
 
   initializeList();
@@ -179,9 +243,8 @@ async function initializeGlossary(path) {
   initializeEventListeners();
 }
 
+/* eslint-disable no-undef */
 if (glossaryBody) {
-  // Fetch the glossary terms from the "glossaryPath" variable set in baseof.html
-  /* eslint-disable no-undef */
   if (glossaryPath) {
     initializeGlossary(glossaryPath);
   }
