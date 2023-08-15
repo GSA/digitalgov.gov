@@ -68,8 +68,10 @@
 
   &__toggle {
     @include u-text("light", "black");
+    align-items: center;
     background: none;
     border: none;
+    display: flex;
     gap: units("05");
     height: units(4);
     text-decoration: none;
@@ -77,11 +79,6 @@
 
     &-icon {
       pointer-events: none;
-
-      &.menu-bar {
-        margin-bottom: units("05");
-        margin-left: units(1);
-      }
     }
 
     &:focus,

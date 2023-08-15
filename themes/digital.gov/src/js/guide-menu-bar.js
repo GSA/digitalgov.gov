@@ -1,8 +1,8 @@
 // Uses manual breakpoints because USWDS breakpoints are not accessible within JS
 const deviceBreakpoint = 480;
-const menuBarScrollOffsetMobile = 130;
+const menuBarScrollOffsetMobile = 150;
 const menuBarScrollOffsetFull = 320;
-const menuBarScrollOffsetDefault = 110;
+const menuBarScrollOffsetDefault = 30;
 let menuBarLinks = null;
 let menuBarImage = null;
 

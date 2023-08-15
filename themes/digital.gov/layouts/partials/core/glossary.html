@@ -2,9 +2,8 @@
   class="dg-glossary__container"
   aria-describedby="dg-glossary__result"
   aria-hidden="true"
-  role="dialog"
 >
-  <button title="Close glossary" class="dg-glossary__close">
+  <button title="Close glossary" class="dg-glossary__close" disabled>
     <svg
       class="usa-icon dg-icon dg-icon--large"
       aria-hidden="true"
@@ -17,7 +16,12 @@
 
   <h2>Glossary</h2>
   <label for="dg-glossary__search" class="usa-label">Search for a term:</label>
-  <input class="dg-glossary__search usa-input" type="text" />
+  <input
+    id="dg-glossary__search"
+    class="dg-glossary__search usa-input"
+    type="text"
+    disabled
+  />
   <div class="dg-glossary__content" id="dg-glossary__result">
     <ul class="dg-glossary__list add-list-reset"></ul>
   </div>
