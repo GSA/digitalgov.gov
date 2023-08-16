@@ -3,12 +3,12 @@
  *
  */
 
-const guideNav;
-const guideContentBody; 
-const guideCurrentListItem; 
-const sidenavLinks; 
-const currentSidenavItem;
-const menuBar; 
+const guideNav = null;
+const guideContentBody = null; 
+const guideCurrentListItem = null; 
+const sidenavLinks = null; 
+const currentSidenavItem = null;
+const menuBar = null; 
 const scrollOffset = 130; // Needed to account for height of sticky header
 
 function initializeElements() {
@@ -47,15 +47,16 @@ function scrollIntoView(attribute) {
 
 function createLinkAction(event, link) {
   event.preventDefault();
-  scrollIntoView(link.getAttribute("href"));
+  const href = link.getAttribute("href");
+  scrollIntoView(href);
 
   // This is necessary to account for a bug with simultaneous scrolling in Chromium browsers
   if (menuBar && !menuBar.classList.contains("sticky")) {
     setTimeout(() => {
-      scrollIntoView(link.getAttribute("href"));
+      scrollIntoView(href);
     }, 500);
   }
-  const heading = document.querySelector(link.getAttribute("href"));
+  const heading = document.querySelector(href);
   heading.setAttribute("tabindex", -1);
   heading.focus({ preventScroll: true });
 }
