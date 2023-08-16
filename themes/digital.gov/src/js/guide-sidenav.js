@@ -1,87 +1,147 @@
-// Return all of the h2 and h3 elements in the guide content body
-function getHeadings() {
-  const guideNav = document.querySelector(".dg-guide__nav-list");
-  if (guideNav) {
-    const body = document.querySelector(".dg-guide__content-body");
-    if (body) {
-      const headings = body.querySelectorAll(
-        "h2:not(.dg-featured-resource__text-title), h3:not(.usa-accordion__heading)"
-      );
-      return headings;
-    }
-  }
-  return [];
+/**
+ * Javscript code for using the secondary navigation on the left side of guide pages
+ *
+ */
+
+const guideNav;
+const guideContentBody; 
+const guideCurrentListItem; 
+const sidenavLinks; 
+const currentSidenavItem;
+const menuBar; 
+const scrollOffset = 130; // Needed to account for height of sticky header
+
+function initializeElements() {
+   guideContentBody = document.querySelector(".dg-guide__content-body");
+   guideCurrentListItem = guideNav.querySelector(".usa-current");
+   sidenavLinks = document.querySelectorAll(".usa-sidenav__item");
+   currentSidenavItem = document.querySelector(".usa-sidenav__item.current");
+   menuBar = document.querySelector(".dg-guide__menu-bar");
 }
 
-function scrollIntoView(element) {
-  document.querySelector(element).scrollIntoView({
-    behavior: "smooth",
-  });
-}
-
-document.addEventListener("DOMContentLoaded", () => {
-  const guideNav = document.querySelector(".dg-guide__nav-list");
-  if (!guideNav) return;
-
-  // Add "read" class to previously read sections
-  const guideCurrentListItem = guideNav.querySelector(".usa-current");
+/**
+ * Helper function to style previously read sections
+ */
+function setupLinkStyles() {
   if (guideCurrentListItem) {
     guideCurrentListItem.parentNode.classList.add("current");
   }
-  const sidenavLinks = document.querySelectorAll(".usa-sidenav__item");
 
   // eslint-disable-next-line no-restricted-syntax
   for (const link of sidenavLinks) {
     if (link.classList.contains("current")) break;
     link.classList.add("usa-sidenav__item--read");
   }
+}
 
-  // Add headings as subnav to current section
+/**
+ * Helper function to apply scrollIntoView onto an element with a certain attribute
+ * @param {string} attribute of the element to scroll into view
+ */
+function scrollIntoView(attribute) {
+  const element = document.querySelector(attribute);
+  element.scrollIntoView({
+    behavior: "smooth",
+  });
+}
+
+function createLinkAction(event, link) {
+  event.preventDefault();
+  scrollIntoView(link.getAttribute("href"));
+
+  // This is necessary to account for a bug with simultaneous scrolling in Chromium browsers
+  if (menuBar && !menuBar.classList.contains("sticky")) {
+    setTimeout(() => {
+      scrollIntoView(link.getAttribute("href"));
+    }, 500);
+  }
+  const heading = document.querySelector(link.getAttribute("href"));
+  heading.setAttribute("tabindex", -1);
+  heading.focus({ preventScroll: true });
+}
+
+function createLink(text, href) {
+  const link = document.createElement("a");
+  link.href = `#${href}`;
+  link.innerText = text;
+  link.addEventListener("click", (e) => createLinkAction(e, link));
+}
+
+/**
+ * Return all of the h2 and h3 elements in the guide content body
+ * @returns {array} array of h2, h3 tags
+ */
+function getHeadings() {
+  if (guideNav && guideContentBody) {
+    // Markdown h2, h3 have no classes, so we can filter for all non content headers
+    const headings = body.querySelectorAll("h2:not([class]), h3:not([class])");
+    return headings;
+  }
+  return [];
+}
+
+function headingToLink(heading) {
+  const link = heading.textContent
+  .toLowerCase()
+  // Replace non-alphanumeric characters with dashes
+  .replace(/[^a-z\d]/g, "-")
+  // Replace a sequence of two or more dashes with a single dash
+  .replace(/-{2,}/g, "-")
+  // Trim leading or trailing dash (there should only ever be one)
+  .replace(/^-|-$/g, "");
+
+  return link;
+}
+
+function getOccurrences(array, value) {
+  let count = 0;
+  array.forEach((v) => (v === value && count++));
+  return count;
+}
+
+function createLinks() {
+  let hrefs = [];
+  let links = [];
   const headings = getHeadings();
+
+  headings.forEach((heading) => {
+    let href = headingToLink(heading);
+    const occurrences = getOccurrences(hrefs, href);
+    hrefs.push(href);
+    if (occurrences >= 1) {
+      href += `-${occurrences}`;
+    }
+    const link = createLink(heading.textContent, href);
+    links.push(link);
+  });
+
+  return links;
+}
+
+function createSublist() {
   const subList = document.createElement("ul");
   subList.classList.add("usa-sidenav__sublist");
-
-  for (let i = 0; i < headings.length; i += 1) {
-    // Clean heading text and create link to append to subnav
-    const text = headings[i].innerText;
-    const regex = /[!"#$%&'()*+,./:;<=>?@[\]^_`{|}~“”‘’]/g;
-    const cleanText = text.replace(regex, "");
-    const textElements = cleanText.split(" ");
-    const href = textElements.join("-").toLowerCase();
-    const link = document.createElement("a");
-    link.href = `#${href}`;
-    link.innerText = text;
-    link.addEventListener("click", (e) => {
-      e.preventDefault();
-      scrollIntoView(link.getAttribute("href"));
-
-      // This is necessary to account for a bug with multiple scroll listeners in Chromium browsers
-      const menuBar = document.querySelector(".dg-guide__menu-bar");
-      if (menuBar && !menuBar.classList.contains("sticky")) {
-        setTimeout(() => {
-          scrollIntoView(link.getAttribute("href"));
-        }, 500);
-      }
-      const heading = document.querySelector(link.getAttribute("href"));
-      heading.setAttribute("tabindex", -1);
-      heading.focus({ preventScroll: true });
-    });
-    subList.appendChild(link);
+  const links = createLinks();
+  links.forEach((link) => {
+    const subItem = document.createElement("li");
+    subItem.classList.add("usa-sidenav__item");
+    subItem.appendChild(link);
+    subList.appendChild(subItem);
+  });
+  if (currentSidenavItem) {
+    currentSidenavItem.appendChild(subList);
   }
-  const current = document.querySelector(".usa-sidenav__item.current");
-  if (current) {
-    current.appendChild(subList);
-  }
-});
+}
 
 // Highlight the current section heading in the sidenav
 function setCurrentHeader() {
-  const scrollOffset = 130; // Needed to account for height of sticky header
   const headings = getHeadings();
   const scrollPos = document.documentElement.scrollTop + scrollOffset;
   let topHeading = headings[0];
   let i = 0;
   let found = false;
+  // TODO: would be nice to refactor to something that is not a while loop, recursion is an option
+  // See this example refactoring — https://www.phind.com/agent?cache=clldvnbnw00kymd08rtfaa7z3
   while (!found && i < headings.length) {
     if (scrollPos < headings[i].offsetTop) {
       found = true;
@@ -103,4 +163,23 @@ function setCurrentHeader() {
   currentLink.classList.add("dg-current");
 }
 
-window.addEventListener("scroll", setCurrentHeader);
+// https://gomakethings.com/debouncing-your-javascript-events/
+function listenForScroll() {
+  let timeout;
+  window.addEventListener('scroll', (event) => {
+    if (timeout) {
+      window.cancelAnimationFrame(timeout);
+    }
+    timeout = window.requestAnimationFrame(setCurrentHeader);
+  }, false);
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  // Check if navigation is present on page
+  guideNav = document.querySelector(".dg-guide__nav-list");
+  if (!guideNav) return;
+  initializeElements();
+  setupLinkStyles();
+  createSublist();
+  listenForScroll();
+});
