@@ -3,25 +3,19 @@
 
 const List = require("list.js");
 
-const KEYCODE_ESC = 27;
-const KEYCODE_TAB = 9;
-
-const selectors = {
-  close: ".dg-glossary__close",
-  container: ".dg-glossary__container",
-  list: ".dg-glossary__list",
-  search: ".dg-glossary__search",
-  toggle: ".dg-glossary__toggle",
-};
-
 const cssClasses = {
+  close: "dg-glossary__close",
+  container: "dg-glossary__container",
   definition: "dg-glossary__definition",
-  item: "dg-glossary__item",
   icon: "dg-glossary__icon",
+  item: "dg-glossary__item",
+  list: "dg-glossary__list",
+  search: "dg-glossary__search",
   term: "dg-glossary__term",
+  toggle: "dg-glossary__toggle",
 };
 
-const glossaryBody = document.querySelector(selectors.container);
+const glossaryBody = document.querySelector(`.${cssClasses.container}`);
 let listElement = null;
 let search = null;
 let toggleButtons = null;
@@ -35,10 +29,10 @@ let definitions = null;
  */
 
 function initializeElements() {
-  toggleButtons = document.body.querySelectorAll(selectors.toggle);
-  listElement = glossaryBody.querySelector(selectors.list);
-  search = glossaryBody.querySelector(selectors.search);
-  closeButton = glossaryBody.querySelector(selectors.close);
+  toggleButtons = document.body.querySelectorAll(`.${cssClasses.toggle}`);
+  closeButton = glossaryBody.querySelector(`.${cssClasses.close}`);
+  listElement = glossaryBody.querySelector(`.${cssClasses.list}`);
+  search = glossaryBody.querySelector(`.${cssClasses.search}`);
 }
 
 /**
@@ -51,9 +45,9 @@ function itemTemplate(values) {
   /* eslint-disable no-undef */
   const id = `glossary-term-${values.termId}`;
   const template = `<li class="${values.itemClass}">
-    <button class="${values.termClass}" aria-controls="${id}" disabled>${values.term}</button>
-    <svg id="${id}-icon" class="${values.iconClass} usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img" hidden>
-      <use class="${values.iconClass}"xlink:href="${glossaryIcon}"></use>
+    <button class="${values.termClass}" aria-controls="${id}" aria-expanded="false" disabled>${values.term}</button>
+    <svg id="${id}-icon" class="${values.iconClass} usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="${glossaryIcon}"></use>
     </svg>
     <div id="${id}" class="${values.definitionClass}" hidden>${values.definition}</div>
   </li>`;
@@ -87,8 +81,8 @@ function generateListMarkup(terms) {
  */
 
 function initializeList() {
-  const listClass = selectors.list.slice(1);
-  const searchClass = selectors.search.slice(1);
+  const listClass = cssClasses.list;
+  const searchClass = cssClasses.search;
   const options = {
     valueNames: [cssClasses.term],
     listClass,
@@ -141,13 +135,14 @@ function showGlossary(toggleButton) {
 function handleTermClick(e) {
   if (e.target.matches(`.${cssClasses.term}`)) {
     const termNumber = e.target.getAttribute("aria-controls");
-    e.target.setAttribute(
-      "aria-expanded",
-      e.target.getAttribute("aria-expanded") === "true" ? "false" : "true"
-    );
+    const isTermExpanded = e.target.getAttribute("aria-expanded");
+    e.target.setAttribute("aria-expanded", !isTermExpanded);
     glossaryBody
-      .querySelectorAll(`#${termNumber}, #${termNumber}-icon`)
+      .querySelectorAll(`#${termNumber}`)
       .forEach((definition) => definition.toggleAttribute("hidden"));
+    glossaryBody
+      .querySelectorAll(`#${termNumber}-icon`)
+      .forEach((icon) => icon.classList.toggle("active"));
   }
 }
 
@@ -164,7 +159,7 @@ function initializeEventListeners() {
    * @param {event} e to handle keycode lookup when "escape" is pressed
    */
   document.body.addEventListener("keyup", (e) => {
-    if (e.keyCode === KEYCODE_ESC) {
+    if (e.code === "Escape") {
       hideGlossary();
     }
   });
@@ -175,10 +170,8 @@ function initializeEventListeners() {
    */
   document.body.addEventListener("click", (e) => {
     const buttons = Array.from(toggleButtons);
-    if (!buttons.includes(e.target)) {
-      if (!glossaryBody.contains(e.target)) {
-        hideGlossary();
-      }
+    if (!buttons.includes(e.target) && !glossaryBody.contains(e.target)) {
+      hideGlossary();
     }
   });
 
@@ -192,7 +185,7 @@ function initializeEventListeners() {
    * @param {event} e to handle tab key press (changing focus)
    */
   closeButton.addEventListener("keydown", (e) => {
-    if (e.keyCode === KEYCODE_TAB) {
+    if (e.code === "Tab") {
       search.focus();
     }
   });
@@ -202,7 +195,7 @@ function initializeEventListeners() {
    * @param {event} e to handle tab key press (changing focus)
    */
   listElement.lastChild.firstElementChild.addEventListener("keydown", (e) => {
-    if (e.keyCode === KEYCODE_TAB) {
+    if (e.code === "Tab") {
       search.focus();
     }
   });
@@ -244,8 +237,6 @@ async function initializeGlossary(path) {
 }
 
 /* eslint-disable no-undef */
-if (glossaryBody) {
-  if (glossaryPath) {
-    initializeGlossary(glossaryPath);
-  }
+if (glossaryBody && glossaryPath) {
+  initializeGlossary(glossaryPath);
 }

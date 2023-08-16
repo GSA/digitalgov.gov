@@ -39,10 +39,11 @@
     pointer-events: none;
     position: absolute;
     right: units(4);
+    transform: rotate(-90deg);
     transition: 0.3s;
 
-    &[hidden] {
-      transform: rotate(-90deg);
+    &.active {
+      transform: rotate(0deg);
     }
   }
 
