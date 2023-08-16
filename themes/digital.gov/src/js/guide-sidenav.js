@@ -4,19 +4,19 @@
  */
 
 const guideNav = null;
-const guideContentBody = null; 
-const guideCurrentListItem = null; 
-const sidenavLinks = null; 
+const guideContentBody = null;
+const guideCurrentListItem = null;
+const sidenavLinks = null;
 const currentSidenavItem = null;
-const menuBar = null; 
+const menuBar = null;
 const scrollOffset = 130; // Needed to account for height of sticky header
 
 function initializeElements() {
-   guideContentBody = document.querySelector(".dg-guide__content-body");
-   guideCurrentListItem = guideNav.querySelector(".usa-current");
-   sidenavLinks = document.querySelectorAll(".usa-sidenav__item");
-   currentSidenavItem = document.querySelector(".usa-sidenav__item.current");
-   menuBar = document.querySelector(".dg-guide__menu-bar");
+  guideContentBody = document.querySelector(".dg-guide__content-body");
+  guideCurrentListItem = guideNav.querySelector(".usa-current");
+  sidenavLinks = document.querySelectorAll(".usa-sidenav__item");
+  currentSidenavItem = document.querySelector(".usa-sidenav__item.current");
+  menuBar = document.querySelector(".dg-guide__menu-bar");
 }
 
 /**
@@ -83,20 +83,20 @@ function getHeadings() {
 
 function headingToLink(heading) {
   const link = heading.textContent
-  .toLowerCase()
-  // Replace non-alphanumeric characters with dashes
-  .replace(/[^a-z\d]/g, "-")
-  // Replace a sequence of two or more dashes with a single dash
-  .replace(/-{2,}/g, "-")
-  // Trim leading or trailing dash (there should only ever be one)
-  .replace(/^-|-$/g, "");
+    .toLowerCase()
+    // Replace non-alphanumeric characters with dashes
+    .replace(/[^a-z\d]/g, "-")
+    // Replace a sequence of two or more dashes with a single dash
+    .replace(/-{2,}/g, "-")
+    // Trim leading or trailing dash (there should only ever be one)
+    .replace(/^-|-$/g, "");
 
   return link;
 }
 
 function getOccurrences(array, value) {
   let count = 0;
-  array.forEach((v) => (v === value && count++));
+  array.forEach((v) => v === value && count++);
   return count;
 }
 
@@ -167,12 +167,16 @@ function setCurrentHeader() {
 // https://gomakethings.com/debouncing-your-javascript-events/
 function listenForScroll() {
   let timeout;
-  window.addEventListener('scroll', (event) => {
-    if (timeout) {
-      window.cancelAnimationFrame(timeout);
-    }
-    timeout = window.requestAnimationFrame(setCurrentHeader);
-  }, false);
+  window.addEventListener(
+    "scroll",
+    (event) => {
+      if (timeout) {
+        window.cancelAnimationFrame(timeout);
+      }
+      timeout = window.requestAnimationFrame(setCurrentHeader);
+    },
+    false
+  );
 }
 
 document.addEventListener("DOMContentLoaded", () => {
