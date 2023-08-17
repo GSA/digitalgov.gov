@@ -41,7 +41,7 @@ GitHub allows multiple developers to work on a single project at the same time, 
 During the video, Carpenter defines some of the common terms teams will need to understand when using GitHub. They are:
 
 - **Repository (repo)** &mdash; a folder in which all files and their version histories are stored.
-- **Branch** &mdash; a workspace in which you can make changes that won’t affect the live site.
+- **Branch** &mdash; a version of the repo that allows work without affecting other branches. Repos may have many branches for different possible changes being tested or considered, along with a default branch that serves as the source of truth.
 - **Markdown (.md)** &mdash; a way to write in Github that converts plain text to GitHub code. Sites such as [Atom](https://atom.io/packages/markdown-preview) and [Sublime Text](https://www.sublimetext.com/) are examples of free resources for developers using Markdown.
 - **Commit Changes** &mdash; a saved record of a change made to a file within the repo.
 - **Pull Request (PR)** &mdash; the way to ask for changes made to a branch to be merged into another branch that also allows for multiple users to see, discuss and review work being done.
