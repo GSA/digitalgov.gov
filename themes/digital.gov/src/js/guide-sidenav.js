@@ -96,7 +96,6 @@ function getHeadings() {
   return [];
 }
 
-
 /**
  * For each heading, append a link object to an array
  * @returns {array} array of links corresponding to each heading
