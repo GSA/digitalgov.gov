@@ -105,7 +105,7 @@ function createLinks() {
   const headings = getHeadings();
 
   headings.forEach((heading) => {
-    let href = heading.id;
+    const href = heading.id;
     const link = createLink(heading.textContent, href);
     links.push(link);
   });
