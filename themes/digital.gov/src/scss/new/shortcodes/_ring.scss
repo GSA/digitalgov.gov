@@ -5,7 +5,7 @@
   @include u-border("primary", 2px);
   @include u-measure(6);
   border-radius: radius("lg");
-  margin: units(3) 0;
+  margin: units(5) 0 !important;
   padding: units(3);
   position: relative;
 
