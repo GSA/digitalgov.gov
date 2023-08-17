@@ -19,11 +19,15 @@
     display: flex;
     justify-content: space-between;
     margin: units(5) 0;
-    padding: units(2) units(7);
+    padding: units(2) units(3);
     transition: 0.3s;
 
     &:hover {
       background-color: color("gray-10");
+    }
+
+    @include at-media("tablet") {
+      padding: units(2) units(7);
     }
   }
 
