@@ -6,8 +6,8 @@
 slug: an-introduction-github
 date: 2020-06-18 13:00:00 -0500
 title: "An introduction to GitHub"
-deck: "How to use GitHub in easy, practical steps to create, manage, and publish website content."
-summary: "Practical steps for managing website content in GitHub."
+deck: "How to use GitHub to create, manage, and publish website content."
+summary: "Steps for managing website content in GitHub."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -40,14 +40,20 @@ GitHub allows multiple developers to work on a single project at the same time, 
 
 During the video, Carpenter defines some of the common terms teams will need to understand when using GitHub. They are:
 
-- **Repository (repo)** &mdash; a folder in which all files and their version histories are stored.
+- **Git** &mdash; a tool that allows developers and others to use version control
+- **GitHub** &mdash; one of many web interfaces for using Git
+- **Organization (org)** &mdash; a grouping mechanism allowing teams to collaborate across many projects at once
+-  **Repository (repo)** &mdash; a folder in which all files and their version histories are stored
 - **Branch** &mdash; a version of the repo that allows work without affecting other branches. Repos may have many branches for different possible changes being tested or considered, along with a default branch that serves as the source of truth.
-- **Markdown (.md)** &mdash; a way to write in Github that converts plain text to GitHub code. Sites such as [Atom](https://atom.io/packages/markdown-preview) and [Sublime Text](https://www.sublimetext.com/) are examples of free resources for developers using Markdown.
+- **Fork** &mdash; a new repository that inherits from a parent “upstream” repo. It is used to suggest changes to an “upstream” public repo by someone who doesn’t have access to edit in the repo’s home org.
+- **Markdown (.md)** &mdash; a way to write content that converts plain text to formatted text.
 - **Commit Changes** &mdash; a saved record of a change made to a file within the repo.
-- **Pull Request (PR)** &mdash; the way to ask for changes made to a branch to be merged into another branch that also allows for multiple users to see, discuss and review work being done.
+- **Pull Request (PR)** &mdash; a request for changes made to a branch to be pulled into another branch. Allows multiple users to see, discuss and review work being suggested.
 - **Merge** &mdash; after a pull request is approved, the commit will be pulled in (or merged) from one branch to another and then, deployed on the live site
-- **Issues** &mdash; how work is tracked when using git. Issues allow users to report new tasks and content fixes, as well as allows users to track progress on a project board from beginning to end of a specific project.
+- **Issues** &mdash; allow users to report issues/bugs and track progress of assigning the fix for the issues.
 - **[Federalist](https://federalist.18f.gov/features/)** &mdash; a platform that securely deploys a website from a GitHub repository in minutes and lets users preview proposed and published changes.
+- **Projects** &mdash; allows you to use GitHub for project management and tracking a set of issues, either for a specific repo or an entire org
+- **Wiki** &mdash; a section of a repo made for hosting documentation. Documentation may be in the repo’s README files instead.
 
 Carpenter notes that becoming fluent in GitHub terminology might seem intimidating at first, but the more team members engage with the platform, the easier it is to understand the ins and outs of GitHub.
 
