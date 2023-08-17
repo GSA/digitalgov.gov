@@ -62,7 +62,7 @@ function createLinkAction(event, link) {
       scrollIntoView(href);
     }, 500);
   }
-  const heading = document.querySelector(href);
+  const heading = document.getElementById(href.slice(1));
   heading.setAttribute("tabindex", -1);
   heading.focus({ preventScroll: true });
 }
