@@ -1,22 +1,19 @@
 /**
- * Javscript code for using the secondary navigation on the left side of guide pages
- *
+ * Javscript code for the secondary navigation on the left side of guide pages
  */
 
-const guideNav = null;
-const guideContentBody = null;
-const guideCurrentListItem = null;
-const sidenavLinks = null;
-const currentSidenavItem = null;
-const menuBar = null;
+let guideNav = null;
+let guideContentBody = null;
+let guideCurrentListItem = null;
+let sidenavLinks = null;
+let guideMenuBar = null;
 const scrollOffset = 130; // Needed to account for height of sticky header
 
 function initializeElements() {
   guideContentBody = document.querySelector(".dg-guide__content-body");
   guideCurrentListItem = guideNav.querySelector(".usa-current");
   sidenavLinks = document.querySelectorAll(".usa-sidenav__item");
-  currentSidenavItem = document.querySelector(".usa-sidenav__item.current");
-  menuBar = document.querySelector(".dg-guide__menu-bar");
+  guideMenuBar = document.querySelector(".dg-guide__menu-bar");
 }
 
 /**
@@ -51,7 +48,7 @@ function createLinkAction(event, link) {
   scrollIntoView(href);
 
   // This is necessary to account for a bug with simultaneous scrolling in Chromium browsers
-  if (menuBar && !menuBar.classList.contains("sticky")) {
+  if (guideMenuBar && !guideMenuBar.classList.contains("sticky")) {
     setTimeout(() => {
       scrollIntoView(href);
     }, 500);
@@ -66,6 +63,7 @@ function createLink(text, href) {
   link.href = `#${href}`;
   link.innerText = text;
   link.addEventListener("click", (e) => createLinkAction(e, link));
+  return link;
 }
 
 /**
@@ -75,7 +73,9 @@ function createLink(text, href) {
 function getHeadings() {
   if (guideNav && guideContentBody) {
     // Markdown h2, h3 have no classes, so we can filter for all non content headers
-    const headings = body.querySelectorAll("h2:not([class]), h3:not([class])");
+    const headings = guideContentBody.querySelectorAll(
+      "h2:not([class]), h3:not([class])"
+    );
     return headings;
   }
   return [];
@@ -96,19 +96,23 @@ function headingToLink(heading) {
 
 function getOccurrences(array, value) {
   let count = 0;
-  array.forEach((v) => v === value && count++);
+  array.forEach((v) => {
+    if (v === value) {
+      count += 1;
+    }
+  });
   return count;
 }
 
 function createLinks() {
-  let hrefs = [];
-  let links = [];
+  const pastHrefs = [];
+  const links = [];
   const headings = getHeadings();
 
   headings.forEach((heading) => {
     let href = headingToLink(heading);
-    const occurrences = getOccurrences(hrefs, href);
-    hrefs.push(href);
+    const occurrences = getOccurrences(pastHrefs, href);
+    pastHrefs.push(href);
     if (occurrences >= 1) {
       href += `-${occurrences}`;
     }
@@ -129,28 +133,40 @@ function createSublist() {
     subItem.appendChild(link);
     subList.appendChild(subItem);
   });
-  if (currentSidenavItem) {
-    currentSidenavItem.appendChild(subList);
+  const currentItem = document.querySelector(".usa-sidenav__item.current");
+  if (currentItem) {
+    currentItem.appendChild(subList);
   }
+}
+
+function findTopHeading(
+  i,
+  found,
+  scrollPos,
+  headings,
+  topHeading = headings[0]
+) {
+  // Base case
+  if (i >= headings.length || found) {
+    return topHeading;
+  }
+
+  // Recursive case
+  /* eslint-disable no-param-reassign */
+  if (scrollPos < headings[i].offsetTop) {
+    found = true;
+  } else {
+    topHeading = headings[i];
+  }
+  return findTopHeading(i + 1, found, scrollPos, headings, topHeading);
 }
 
 // Highlight the current section heading in the sidenav
 function setCurrentHeader() {
   const headings = getHeadings();
   const scrollPos = document.documentElement.scrollTop + scrollOffset;
-  let topHeading = headings[0];
-  let i = 0;
-  let found = false;
-  // TODO: would be nice to refactor to something that is not a while loop, recursion is an option
-  // See this example refactoring — https://www.phind.com/agent?cache=clldvnbnw00kymd08rtfaa7z3
-  while (!found && i < headings.length) {
-    if (scrollPos < headings[i].offsetTop) {
-      found = true;
-    } else {
-      topHeading = headings[i];
-    }
-    i += 1;
-  }
+  const topHeading = findTopHeading(0, false, scrollPos, headings);
+
   if (!topHeading) return;
   const href = topHeading.id;
   const oldLink = document.querySelector(".usa-sidenav__sublist .dg-current");
@@ -169,7 +185,7 @@ function listenForScroll() {
   let timeout;
   window.addEventListener(
     "scroll",
-    (event) => {
+    () => {
       if (timeout) {
         window.cancelAnimationFrame(timeout);
       }
