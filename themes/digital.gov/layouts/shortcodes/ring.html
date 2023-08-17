@@ -1,9 +1,10 @@
+{{/* Displays a blue ring around a piece of content in order to highlight it */}}
 {{- $title := (.Get "title") -}}
 
 
-<fieldset class="ring">
-  <legend>
+<div class="dg-ring">
+  <h1 class="dg-ring__title">
     {{- $title -}}
-  </legend>
+  </h1>
   {{ .Inner | markdownify }}
-</fieldset>
+</div>
