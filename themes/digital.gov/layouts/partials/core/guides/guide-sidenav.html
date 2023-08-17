@@ -1,3 +1,6 @@
+{{/* Create the side navigation for a guide using the corresponding guideData file */}}
+
+
 <nav aria-label="Secondary navigation" class="dg-guide__nav-container">
   <ul class="usa-sidenav dg-guide__nav-list">
     {{- $currentPage := . -}}
@@ -8,14 +11,14 @@
         {{- $item := . -}}
         {{- $page := $.Site.GetPage $item.path }}
         {{- if eq $current_url $page.Permalink -}}
-          {{- partial "core/guides/guide-nav-subnav" (dict "Site" $.Site "parent" $item "current" $item) -}}
+          {{- partial "core/guides/guide-subnav" (dict "Site" $.Site "parent" $item "current" $item) -}}
         {{- else -}}
           {{- if $item.subnav -}}
             {{- range $item.subnav }}
               {{- $sub_item := . -}}
               {{- $sub_page := $.Site.GetPage $sub_item.path -}}
               {{- if eq $current_url $sub_page.Permalink -}}
-                {{- partial "core/guides/guide-nav-subnav" (dict "Site" $.Site "parent" $item "current" $sub_item) -}}
+                {{- partial "core/guides/guide-subnav" (dict "Site" $.Site "parent" $item "current" $sub_item) -}}
               {{- end -}}
             {{- end -}}
           {{- end -}}
