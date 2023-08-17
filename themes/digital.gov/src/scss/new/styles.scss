@@ -118,7 +118,6 @@
 
 // Lists of related pages
 @forward "collection";
-@forward "featured-resource";
 @forward "page-data";
 @forward "attribution";
 @forward "share-tools";
@@ -163,6 +162,9 @@
 
 // Print styles
 @forward "print";
+
+// Shortcode styles
+@forward "featured-resource";
 @forward "shortcodes/accordion";
 @forward "shortcodes/do-dont-table";
 @forward "shortcodes/box";
@@ -175,4 +177,5 @@
 @forward "shortcodes/asset-img";
 @forward "shortcodes/card-prompt";
 @forward "shortcodes/termsofservice-compatible";
+
 @forward "uswds-overrides";
