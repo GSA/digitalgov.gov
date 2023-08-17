@@ -39,7 +39,7 @@ function setupLinkStyles() {
  * @param {string} attribute of the element to scroll into view
  */
 function scrollIntoView(attribute) {
-  const element = document.querySelector(attribute);
+  const element = document.getElementById(attribute.slice(1));
   element.scrollIntoView({
     behavior: "smooth",
   });
