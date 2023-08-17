@@ -96,56 +96,17 @@ function getHeadings() {
   return [];
 }
 
-/**
- * Convert a document heading to a clean link
- * @param {string} heading to be converted
- * @returns {string} cleaned text
- */
-function headingToLink(heading) {
-  const link = heading.textContent
-    .toLowerCase()
-    // Replace non-alphanumeric characters with dashes
-    .replace(/[^a-z\d]/g, "-")
-    // Replace a sequence of two or more dashes with a single dash
-    .replace(/-{2,}/g, "-")
-    // Trim leading or trailing dash (there should only ever be one)
-    .replace(/^-|-$/g, "");
-
-  return link;
-}
-
-/**
- * Helper function to determine the number of times a value appears in an array
- * @param {array} array of elements
- * @param {*} value to search for in the array
- * @returns {int} count of the number of times the element appears
- */
-function getOccurrences(array, value) {
-  let count = 0;
-  array.forEach((v) => {
-    if (v === value) {
-      count += 1;
-    }
-  });
-  return count;
-}
 
 /**
  * For each heading, append a link object to an array
  * @returns {array} array of links corresponding to each heading
  */
 function createLinks() {
-  const pastHrefs = [];
   const links = [];
   const headings = getHeadings();
 
   headings.forEach((heading) => {
-    let href = headingToLink(heading);
-    const occurrences = getOccurrences(pastHrefs, href);
-    pastHrefs.push(href);
-    if (occurrences >= 1) {
-      href += `-${occurrences}`;
-    }
+    let href = heading.id;
     const link = createLink(heading.textContent, href);
     links.push(link);
   });
