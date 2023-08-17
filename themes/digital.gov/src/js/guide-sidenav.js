@@ -9,6 +9,9 @@ let sidenavLinks = null;
 let guideMenuBar = null;
 const scrollOffset = 130; // Needed to account for height of sticky header
 
+/**
+ * Query the document for the relevant elements and assign them to variables
+ */
 function initializeElements() {
   guideContentBody = document.querySelector(".dg-guide__content-body");
   guideCurrentListItem = guideNav.querySelector(".usa-current");
@@ -42,12 +45,18 @@ function scrollIntoView(attribute) {
   });
 }
 
+/**
+ * Event that's fired when an in-page navigation link is clicked
+ * @param {event} event fired when link is clicked
+ * @param {element} link element with href to scroll to
+ */
 function createLinkAction(event, link) {
   event.preventDefault();
   const href = link.getAttribute("href");
   scrollIntoView(href);
 
   // This is necessary to account for a bug with simultaneous scrolling in Chromium browsers
+  // https://bugs.chromium.org/p/chromium/issues/detail?id=1043933
   if (guideMenuBar && !guideMenuBar.classList.contains("sticky")) {
     setTimeout(() => {
       scrollIntoView(href);
@@ -58,6 +67,12 @@ function createLinkAction(event, link) {
   heading.focus({ preventScroll: true });
 }
 
+/**
+ * Create a link element given inner text and an href
+ * @param {string} text
+ * @param {string} href
+ * @returns {element} resulting link element
+ */
 function createLink(text, href) {
   const link = document.createElement("a");
   link.href = `#${href}`;
@@ -81,6 +96,11 @@ function getHeadings() {
   return [];
 }
 
+/**
+ * Convert a document heading to a clean link
+ * @param {string} heading to be converted
+ * @returns {string} cleaned text
+ */
 function headingToLink(heading) {
   const link = heading.textContent
     .toLowerCase()
@@ -94,6 +114,12 @@ function headingToLink(heading) {
   return link;
 }
 
+/**
+ * Helper function to determine the number of times a value appears in an array
+ * @param {array} array of elements
+ * @param {*} value to search for in the array
+ * @returns {int} count of the number of times the element appears
+ */
 function getOccurrences(array, value) {
   let count = 0;
   array.forEach((v) => {
@@ -104,6 +130,10 @@ function getOccurrences(array, value) {
   return count;
 }
 
+/**
+ * For each heading, append a link object to an array
+ * @returns {array} array of links corresponding to each heading
+ */
 function createLinks() {
   const pastHrefs = [];
   const links = [];
@@ -123,6 +153,9 @@ function createLinks() {
   return links;
 }
 
+/**
+ * For each link on the page, append an item to the sublist
+ */
 function createSublist() {
   const subList = document.createElement("ul");
   subList.classList.add("usa-sidenav__sublist");
@@ -139,6 +172,14 @@ function createSublist() {
   }
 }
 
+/**
+ * Recursive helper function to identify the top heading that has been scrolled to
+ * @param {int} i counter of the number of headings that have been searched
+ * @param {boolean} found whether or not the top heading has been found
+ * @param {int} scrollPos the current scroll position
+ * @param {array} headings all of the headings on the page
+ * @param {element} topHeading the current heading element
+ */
 function findTopHeading(
   i,
   found,
@@ -161,7 +202,9 @@ function findTopHeading(
   return findTopHeading(i + 1, found, scrollPos, headings, topHeading);
 }
 
-// Highlight the current section heading in the sidenav
+/**
+ * Highlight the current header in the side navigation
+ */
 function setCurrentHeader() {
   const headings = getHeadings();
   const scrollPos = document.documentElement.scrollTop + scrollOffset;
@@ -180,7 +223,10 @@ function setCurrentHeader() {
   currentLink.classList.add("dg-current");
 }
 
-// https://gomakethings.com/debouncing-your-javascript-events/
+/**
+ * On scroll events, set the current header
+ * https://gomakethings.com/debouncing-your-javascript-events/
+ */
 function listenForScroll() {
   let timeout;
   window.addEventListener(
@@ -195,6 +241,14 @@ function listenForScroll() {
   );
 }
 
+/**
+ * On content load, do the following:
+ * 1. Query the document for a side navigation element
+ * 2. Initialize the rest of the relevant elements
+ * 3. Style the already-read elements
+ * 4. Add all of the section headers as a sublist of the current section
+ * 5. Listen for scroll events and update the current section accordingly
+ */
 document.addEventListener("DOMContentLoaded", () => {
   // Check if navigation is present on page
   guideNav = document.querySelector(".dg-guide__nav-list");
