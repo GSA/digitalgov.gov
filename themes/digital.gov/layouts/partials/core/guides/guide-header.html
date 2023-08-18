@@ -1,11 +1,16 @@
+{{- $guideData := index $.Site.Data.guidenav -}}
+{{ if .Params.guide }}
+  {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
+{{ end }}
 {{- $title := cond .IsNode .Title .Parent.Title -}}
 {{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
+{{- $kicker := cond .IsNode (cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide") (cond (isset .Parent.Params "kicker") .Parent.Params.kicker "Digital.gov Guide") -}}
 {{- $glossary := cond .IsNode .Params.glossary .Parent.Params.glossary -}}
 
 
 <header class="dg-guide__header grid-container grid-container-desktop">
   <div class="dg-guide__header-title">
-    <p class="kicker">Digital.gov Guide</p>
+    <p class="kicker">{{- $kicker | markdownify -}}</p>
     <h1>{{- $title | markdownify -}}</h1>
     <div class="deck">
       {{- $summary | markdownify -}}
@@ -26,5 +31,10 @@
       </button>
     {{- end -}}
   </div>
-  {{- partial "core/guides/guide-header-image.html" . -}}
+  {{- $uid := cond .IsNode .Params.Image .Parent.Params.Image -}}
+  {{ if $uid }}
+    <div class="dg-guide__header-image">
+      {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $uid "small" "false") -}}
+    </div>
+  {{- end -}}
 </header>

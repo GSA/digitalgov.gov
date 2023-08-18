@@ -25,6 +25,7 @@ function intersection(e) {
   if (!e.isIntersecting && e.boundingClientRect.top < 1) {
     menuBar.classList.add("sticky");
     menuBarImage.removeAttribute("hidden");
+    menuBarImage.setAttribute("tabindex", "0");
 
     // Check if viewing on mobile device
     if (window.innerWidth < deviceBreakpoint) {
@@ -35,6 +36,7 @@ function intersection(e) {
     // Menu bar is no longer intersecting
   } else {
     menuBarImage.setAttribute("hidden", "");
+    menuBarImage.setAttribute("tabindex", "-1");
     menuBar.classList.remove("sticky");
     scrollMenuBar(menuBarScrollOffsetDefault);
   }
