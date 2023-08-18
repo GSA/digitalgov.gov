@@ -1,6 +1,6 @@
 {{/* Partial for displaying any image type given its uid
   @param {string} src - The uid of the image to display
-  @param {boolean} small - Whether or not to display the small version of the image
+  @param {boolean} [small] - Whether or not to display the small version of the image
 */}}
 
 {{/* Gets the id of the image and matches it to a .yml file */}}
@@ -12,7 +12,8 @@
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $imgBaseCDN := printf "%s/%s" $cdnurl $thisimg.uid -}}
 {{- $imgExt := $thisimg.format -}}
-{{- $imgSmall := cond (eq .small "true") "_w600" "" -}}
+{{- $small := or (.small) "false" -}}
+{{- $imgSmall := cond (eq $small "true") "_w600" "" -}}
 
 {{- if $thisimg -}}
   <img
