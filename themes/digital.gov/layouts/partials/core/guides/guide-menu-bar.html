@@ -2,7 +2,7 @@
 {{ if .Params.guide }}
   {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
 {{ end }}
-{{- $current_page := .Page.RelPermalink -}}
+{{- $currentPage := .Page.RelPermalink -}}
 {{- $glossary := cond .IsNode .Params.glossary .Parent.Params.glossary -}}
 
 
