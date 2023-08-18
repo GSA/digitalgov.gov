@@ -24,8 +24,8 @@ With nested shortcodes, text based only:
 
 
 <article class="dg-ring" aria-labelledby="{{ $randomHeaderID }}">
-  <h1 id="{{ $randomHeaderID }}" class="dg-ring__title">
+  <h2 id="{{ $randomHeaderID }}" class="dg-ring__title">
     {{- $title -}}
-  </h1>
+  </h2>
   {{ .Inner | markdownify }}
 </article>

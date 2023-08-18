@@ -21,13 +21,8 @@
     top: 0;
   }
 
-  h1 {
+  h2 {
     @include u-font("sans", "lg");
     font-weight: font-weight("semibold");
-  }
-
-  h2,
-  h3 {
-    margin-top: 0;
   }
 }
