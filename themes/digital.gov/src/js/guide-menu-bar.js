@@ -1,15 +1,15 @@
 // Uses manual breakpoints because USWDS breakpoints are not accessible within JS
 const deviceBreakpoint = 480;
-const menuBarScrollOffsetMobile = 90;
-const menuBarScrollOffsetFull = 270;
-const menuBarScrollOffsetDefault = 65;
+const menuBarScrollOffsetMobile = 150;
+const menuBarScrollOffsetFull = 320;
+const menuBarScrollOffsetDefault = 30;
 let menuBarLinks = null;
 let menuBarImage = null;
 
 const menuBar = document.querySelector(".dg-guide__menu-bar");
 if (menuBar) {
   menuBarLinks = menuBar.querySelector(".dg-guide__menu-bar-links");
-  menuBarImage = menuBar.querySelector(".dg-guide__menu-bar-image");
+  menuBarImage = menuBar.querySelector(".dg-guide__menu-bar-image-container");
 }
 
 // Scroll the guide menu bar so that the currently selected item is in view
