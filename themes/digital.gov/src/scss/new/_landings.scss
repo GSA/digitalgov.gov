@@ -63,6 +63,7 @@
       color: color($theme-link-color);
       cursor: pointer;
       display: inline;
+      padding-left: 0;
       text-decoration: underline;
     }
 
@@ -78,7 +79,7 @@
       font-weight: font-weight("light");
     }
 
-    .ring {
+    .dg-ring {
       max-width: none;
     }
 
