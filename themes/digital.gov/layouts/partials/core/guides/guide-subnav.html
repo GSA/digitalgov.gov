@@ -1,0 +1,29 @@
+{{/* Given a parent element, append it to the side navigation along with each of its children */}}
+
+{{ $parent := .parent }}
+{{ $current := .current }}
+{{ $parentPage := .Site.GetPage .parent.path }}
+<li class="usa-sidenav__item">
+  <a
+    href="{{- $parentPage.Permalink -}}#content-start"
+    title="{{- $parent.title -}}"
+    {{- if (eq $parent $current) -}}class="usa-current"{{- end -}}
+  >
+    {{- $parent.title }}
+  </a>
+</li>
+{{- if $parent.subnav -}}
+  {{- range $parent.subnav -}}
+    {{- $subItem := . -}}
+    {{- $subPage := $.Site.GetPage $subItem.path -}}
+    <li class="usa-sidenav__item">
+      <a
+        href="{{- $subPage.Permalink -}}#content-start"
+        title="{{- $subItem.title -}}"
+        {{- if (eq $subItem $current) -}}class="usa-current"{{- end -}}
+      >
+        {{- $subItem.title -}}
+      </a>
+    </li>
+  {{- end -}}
+{{- end -}}

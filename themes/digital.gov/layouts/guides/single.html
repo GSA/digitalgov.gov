@@ -3,19 +3,17 @@
     <article class="dg-guide">
       {{- partial "core/guides/guide-header.html" . -}}
       {{- partial "core/guides/guide-menu-bar.html" . -}}
-      {{- $guide_data := index $.Site.Data.guidenav -}}
+      {{- $guideData := index $.Site.Data.guidenav -}}
       {{ if .Params.guide }}
-        {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
+        {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
       {{ end }}
-      {{- if $guide_data.showInPageNav -}}
-        <div class="grid-container">
-          <div class="grid-row">
-            <aside class="dg-guide__nav guide-nav-box tablet-lg:grid-col-2">
-              {{- partial "core/guides/guide-nav.html" . -}}
-            </aside>
-            <div class="tablet-lg:grid-col-10">
-              {{- partial "core/guides/guide-content.html" . -}}
-            </div>
+      {{- if $guideData.showInPageNav -}}
+        <div class="dg-guide__container">
+          <aside class="dg-guide__nav">
+            {{- partial "core/guides/guide-sidenav.html" . -}}
+          </aside>
+          <div class="dg-guide__content">
+            {{- partial "core/guides/guide-content.html" . -}}
           </div>
         </div>
       {{- else -}}

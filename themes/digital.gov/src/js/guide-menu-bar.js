@@ -46,11 +46,10 @@ const observer = new IntersectionObserver(([e]) => intersection(e), {
   threshold: [1],
 });
 
-if (menuBar) {
-  observer.observe(menuBar);
-}
-
 // Scroll the menu bar to the correct location on page load
 document.addEventListener("DOMContentLoaded", () => {
+  if (menuBar) {
+    observer.observe(menuBar);
+  }
   scrollMenuBar(false);
 });

@@ -1,8 +1,8 @@
-{{- $guide_data := index $.Site.Data.guidenav -}}
+{{- $guideData := index $.Site.Data.guidenav -}}
 {{ if .Params.guide }}
-  {{- $guide_data = index $.Site.Data.guidenav (.Params.guide) -}}
+  {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
 {{ end }}
-{{- $current_page := .Page.RelPermalink -}}
+{{- $currentPage := .Page.RelPermalink -}}
 {{- $glossary := cond .IsNode .Params.glossary .Parent.Params.glossary -}}
 
 
@@ -38,12 +38,25 @@
     {{- end -}}
   </div>
   <nav class="dg-guide__menu-bar-links" aria-label="Secondary menu bar">
-    {{- if $guide_data.nav -}}
-      {{- range $guide_data.nav -}}
+    {{- if $guideData.nav -}}
+      {{- range $guideData.nav -}}
         {{- $item := . -}}
         {{- $page := $.Site.GetPage $item.path -}}
+        {{- $current := false -}}
+        {{- if eq $currentPage $page.RelPermalink -}}
+          {{- $current = true -}}
+        {{- end -}}
+        {{- if $item.subnav -}}
+          {{- range $item.subnav -}}
+            {{- $subItem := . -}}
+            {{- $subPage := $.Site.GetPage $subItem.path -}}
+            {{- if eq $currentPage $subPage.RelPermalink -}}
+              {{- $current = true -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
         <a
-          class="dg-guide__menu-bar-link {{ cond (eq $current_page $page.RelPermalink) "dg-current" "" }}"
+          class="dg-guide__menu-bar-link {{ cond $current "dg-current" "" }}"
           href="{{- $page.Permalink -}}"
           title="{{- $item.title -}}"
           >{{- $item.title -}}</a
