@@ -1,8 +1,8 @@
 // Uses manual breakpoints because USWDS breakpoints are not accessible within JS
 const deviceBreakpoint = 480;
-const menuBarScrollOffsetMobile = 90;
-const menuBarScrollOffsetFull = 270;
-const menuBarScrollOffsetDefault = 65;
+const menuBarScrollOffsetMobile = 150;
+const menuBarScrollOffsetFull = 320;
+const menuBarScrollOffsetDefault = 30;
 let menuBarLinks = null;
 let menuBarImage = null;
 
@@ -48,11 +48,10 @@ const observer = new IntersectionObserver(([e]) => intersection(e), {
   threshold: [1],
 });
 
-if (menuBar) {
-  observer.observe(menuBar);
-}
-
 // Scroll the menu bar to the correct location on page load
 document.addEventListener("DOMContentLoaded", () => {
+  if (menuBar) {
+    observer.observe(menuBar);
+  }
   scrollMenuBar(false);
 });
