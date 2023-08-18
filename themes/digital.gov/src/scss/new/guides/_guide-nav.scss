@@ -1,118 +1,68 @@
 @use "uswds-core" as *;
 
-.guide-nav-box {
-  @include u-display("none");
+.dg-guide__nav-container {
+  display: none;
+  flex-shrink: 0;
+  margin: units(5) units(2) units(0) units(2);
+  position: sticky;
+  top: units(15);
+  width: 10rem;
 
-  @include at-media("tablet-lg") {
-    @include u-display("block");
+  @include at-media("tablet") {
+    display: block;
+  }
+
+  @include at-media("desktop") {
+    margin: units(5);
+    width: 15rem;
   }
 
   ul.dg-guide__nav-list {
-    @include u-margin-bottom(3);
     @include u-font("sans", "xs");
-
-    // Hides any nested ul that is not part of the current tree
-    ul {
-      @include u-display("none");
-    }
+    border-radius: units(2);
+    overflow-x: hidden;
 
     li {
-      @include u-text("medium");
+      font-weight: font-weight("medium");
 
       a {
-        @include u-padding-y(1);
-        @include u-text("black");
-        @include u-text("normal");
-        @include u-text("no-underline");
+        @include u-padding-y(2);
+        @include u-text("black", "normal", "no-underline");
 
-        // Flex for the arrows
-        @include u-display("flex");
-        @include u-flex("align-center");
+        &:focus {
+          border: units("05") solid color("primary");
+          border-radius: units(2);
+          outline: 0;
+        }
 
         &:hover {
-          @include u-text("underline");
+          text-decoration: none;
         }
+      }
 
-        .arrow-right {
-          @include u-margin-left(1);
-          @include u-width("105");
-          @include u-height(2);
-          @include u-display("inline-block");
-
-          background-image: url("../uswds/img/angle-arrow-right-black.svg");
-          background-position: center bottom;
-          background-repeat: no-repeat;
-          background-size: 0.49rem;
-        }
+      .dg-current {
+        background-color: color("gray-cool-4");
+        font-weight: font-weight("semibold");
       }
 
       .usa-current {
-        @include u-bg("primary");
-        @include u-text("white");
+        background-color: color("primary");
+        color: color("white");
 
         &:hover {
-          @include u-text("white");
-          @include u-bg("blue-warm-60v");
-        }
-
-        .arrow-right {
-          background-image: url("../uswds/img/angle-arrow-right-white.svg");
-        }
-      }
-
-      // Adding arrows to any li that has child elements.
-      li {
-        @include u-text("normal");
-        @include u-font("sans", "xs");
-
-        a {
-          .arrow-right {
-            @include u-margin-left("05");
-
-            background-size: 0.42rem;
-          }
-        }
-
-        li {
-          @include u-font("sans", "2xs");
-          li {
-            @include u-font("sans", "3xs");
-          }
+          background-color: color("blue-warm-60v");
+          color: color("white");
         }
       }
     }
 
-    // When any child item is selected, the top-most parent li gets the .current class (via javascript)
     li.current {
-      @include u-position("relative");
-
       & > a {
-        @include u-text("semibold");
-      }
-
-      a {
-        span.arrow-right {
-          @include u-margin-left("105");
-          transform: rotate(90deg);
-        }
-
-        &::after {
-          background-color: transparent;
-        }
-      }
-
-      a.usa-current {
-        @include u-position("static");
-      }
-
-      ul {
-        @include u-display("block");
+        font-weight: font-weight("semibold");
       }
     }
 
     li.usa-sidenav__item {
-      border-top: 1px solid color("gray-cool-60");
-
       a {
         &:not(.usa-current) {
           color: color("gray-cool-90");
@@ -130,6 +80,8 @@
   }
 
   .usa-sidenav {
-    border-bottom: 1px solid color("gray-cool-60");
+    .usa-current::after {
+      content: none;
+    }
   }
 }

@@ -35,6 +35,7 @@ function formatDate(timezoneDate) {
 function showLastCommit(data, branch) {
   const branchLink = getBranchLink(branch);
   const commitData = Array.isArray(data) ? data[0] : data;
+  if (!commitData) return;
   const commitDate = commitData.commit.committer.date;
   // eslint-disable-next-line no-undef
   const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${branch}/content/${filepath}`;
