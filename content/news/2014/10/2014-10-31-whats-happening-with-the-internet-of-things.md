@@ -10,8 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - our-work
-  - Defense Intelligence Agency
-  - DIA
   - DOT
   - Federal Trade Commission
   - FTC
