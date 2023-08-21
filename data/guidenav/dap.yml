@@ -1,5 +1,5 @@
 showNextPrevious: true
-showInPageNav: false
+showInPageNav: true
 nav:
   - title: "Overview"
     path: "/guides/dap/_index.md"
