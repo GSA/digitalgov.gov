@@ -8,7 +8,7 @@ slug: "internet-of-things"
 title: "Internet of Things"
 
 # description — keep it short and clear
-summary: "The term internet of things (IoT) is ussed to describe devices that utilize various technologies to communicate with each other via the internet, the cloud, or other networks."
+summary: "Internet of things (IoT) describes devices that utilize various technologies to communicate with each other via the internet, the cloud, or other networks."
 
 
 # Weight
