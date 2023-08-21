@@ -15,6 +15,7 @@ aliases:
 image: guide-dap
 primary_image: guide-dap
 layout: single
+glossary: hcd-glossary.json
 ---
 
 {{< box >}}
