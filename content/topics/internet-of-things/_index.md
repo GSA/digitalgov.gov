@@ -5,7 +5,7 @@
 slug: "internet-of-things"
 
 # Topic Title
-title: "Internet Of Things"
+title: "Internet of Things"
 
 # description — keep it short and clear
 summary: ""
