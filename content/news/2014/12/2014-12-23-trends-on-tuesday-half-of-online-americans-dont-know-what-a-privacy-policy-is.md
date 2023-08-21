@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - Defense Intelligence Agency
-  - DIA
   - digitalgov-summit
   - Federal Trade Commission
   - FTC
