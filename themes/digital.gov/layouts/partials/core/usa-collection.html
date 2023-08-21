@@ -29,9 +29,11 @@
       {{ else if .Params.source_url }}
         {{ $logo_source = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
         {{ $href = .Params.source_url }}
+        {{/*  {{ printf "%#v" $href }}  */}}
       {{ else }}
         {{ $logo_source = (print "/img/digit-50.png") }}
         {{ $href = (print .Permalink "?dg") }}
+        {{/*  {{ printf "%#v" $href }}  */}}
       {{ end }}
 
       {{/* If using "headings" variant and no meta_source is present, create one from the source_url or source or set as Digita.gov as the default */}}
@@ -48,6 +50,7 @@
       {{ end }}
 
       {{/* If image exists, then display as list item */}}
+      
       {{ if $logo_source }}
         {{- partial "core/collection/collection-list-item" (dict "list_item" . "href" $href "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header) -}}
       {{ end }}

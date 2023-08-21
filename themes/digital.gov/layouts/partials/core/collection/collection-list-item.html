@@ -26,6 +26,9 @@
     {{ $path = .Path }}
   {{ end }}
 
+  {{/*  {{ printf "%#v" $list_item }}  */}}
+  {{ $link := .Permalink }}
+  {{ printf "%#v" $link }}
 
   <li class="usa-collection__item" data-edit-this="{{- $path -}}">
     {{ if eq $variant "media" }}
