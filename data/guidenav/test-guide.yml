@@ -1,0 +1,14 @@
+showNextPrevious: true
+showInPageNav: true
+nav:
+  - title: "Test Guide Overview"
+    path: "/guides/test-guide/_index.md"
+  - title: "Test Page One"
+    path: "/guides/test-guide/test-page-1.md"
+    subnav:
+      - title: "Test Page 2"
+        path: "/guides/test-guide/sub-section/test-page-2.md"
+      - title: "Test Page 3"
+        path: "/guides/test-guide/sub-section/test-page-3.md"
+      - title: "Test Page 4"
+        path: "/guides/test-guide/sub-section/test-page-4.md"
