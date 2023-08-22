@@ -20,9 +20,7 @@
 {{/* TODO: fix logic */}}
 {{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
 {{ printf "%#v" $url.Host }}
-{{/*  {{ $link_external := cond (ne $meta_source "Digital.gov") true false }}  */}}
-{{/*  {{ printf "%#v" $url }}  */}}
-{{/*  {{ printf "%#v" $url }}  */}}
+{{ printf "%#v" $href }}
 
 {{- with .list_item -}}
   {{ $path := "" }}{{ with .File }}
