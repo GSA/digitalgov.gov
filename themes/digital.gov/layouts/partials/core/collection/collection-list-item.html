@@ -18,9 +18,10 @@
 
 {{/*  Check if external link  */}}
 {{/* TODO: fix logic */}}
-{{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
-{{ printf "%#v" $url.Hostname }}
 {{ printf "%#v" $href }}
+{{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
+{{ printf "%#v" $url.Host }}
+
 
 
 {{- with .list_item -}}
