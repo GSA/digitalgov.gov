@@ -19,8 +19,8 @@
 {{/*  Check if external link  */}}
 {{/* TODO: fix logic */}}
 {{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
-{{ printf "%#v" $url.Host }}
-{{ printf "%#v" $href }}
+{{/*  {{ printf "%#v" $url.Host }}  */}}
+{{/*  {{ printf "%#v" $href }}  */}}
 
 {{- with .list_item -}}
   {{ $path := "" }}{{ with .File }}
