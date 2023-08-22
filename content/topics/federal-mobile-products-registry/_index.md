@@ -8,7 +8,7 @@ slug: "federal-mobile-products-registry"
 title: "Federal Mobile Products Registry"
 
 # description — keep it short and clear
-summary: "The Federal Mobile Products Registry has been replaced by the U.S. Digital Registry: https://digital.gov/services/u-s-digital-registry/"
+summary: "The Federal Mobile Products Registry has been replaced by the U.S. Digital Registry."
 
 
 # Weight
