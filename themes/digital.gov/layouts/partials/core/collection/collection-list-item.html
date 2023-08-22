@@ -17,7 +17,12 @@
 {{ $meta_source := .meta_source }}
 
 {{/*  Check if external link  */}}
+{{/* TODO: fix logic */}}
 {{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
+{{ printf "%#v" $link_external }}
+{{/*  {{ $link_external := cond (ne $meta_source "Digital.gov") true false }}  */}}
+{{/*  {{ printf "%#v" $url }}  */}}
+{{/*  {{ printf "%#v" $url }}  */}}
 
 {{- with .list_item -}}
   {{ $path := "" }}{{ with .File }}
@@ -26,11 +31,9 @@
     {{ $path = .Path }}
   {{ end }}
 
-  {{/*  {{ printf "%#v" $list_item }}  */}}
   {{ $link := .Permalink }}
-  {{ printf "%#v" $link }}
 
-  <li class="usa-collection__item" data-edit-this="{{- $path -}}">
+  <li class="usa-collection__item" data-edit-this="{{- $path -}}">    
     {{ if eq $variant "media" }}
       {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source) -}}
     {{ end }}

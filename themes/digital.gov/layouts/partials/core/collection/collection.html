@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 {{/* Collection Component
 
   Wrapper component around uswds-collection that returns a collection of links built from a list of resources
@@ -20,14 +21,13 @@
   @param {string} header_id - The relative path to the file, for example "v21st-century-idea"
 
   @param {number} list_header - Set the header size from 1-6, defaults to 3 if number provided is greater than 6
-  @param {string} footer_text - Set a short string description (defaults to topic name) at the footer to link to other page that reads "More on {{ $footer_text
-}}"
-@param {string} meta_source - The referring source for an external link that
-reads "Performance.gov". Use .Params.source if using a resources collection
-@example
-{{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
+  @param {string} footer_text - Set a short string description (defaults to topic name) at the footer to link to other page that reads "More on {{ $footer_text }}"
+  @param {string} meta_source - The referring source for an external link that reads "Performance.gov". Use .Params.source if using a resources collection
+
+  @example {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
 
 */}}
+<!-- prettier-ignore-end -->
 {{ $data := .data }}
 {{ $variant := .variant }}
 {{ $length := or .limit 10 }}
