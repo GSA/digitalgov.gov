@@ -42,7 +42,7 @@
 
               {{/* Gets the resource .Pages associated with this topic */}}
               {{- $resources := (where .Pages "Section" "resources") -}}
-              {{/*  {{ printf "%#v" $resources}}  */}}
+              {{/* {{ printf "%#v" $resources }} */}}
               {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
 
               {{/* Gets the services .Pages associated with this topic */}}

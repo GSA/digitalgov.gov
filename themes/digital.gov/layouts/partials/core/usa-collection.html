@@ -22,7 +22,6 @@
         if neither exist, then use default digital.gov logo
       */}}
       {{ if .Params.source }}
-      {{ $source := .Params.source }}
         {{ $source := .Site.GetPage (print "source_" .Params.source ) }}
         {{ if $source.Params.logo }}
           {{ $logo_source = (printf "/logos/%s%s" $source.Params.logo "-icon.png") }}
@@ -50,7 +49,7 @@
       {{ end }}
 
       {{/* If image exists, then display as list item */}}
-      
+
       {{ if $logo_source }}
         {{- partial "core/collection/collection-list-item" (dict "list_item" . "href" $href "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header) -}}
       {{ end }}
