@@ -23,9 +23,7 @@
     {{ $path = .Path }}
   {{ end }}
 
-  {{ $link := .Permalink }}
-
-  <li class="usa-collection__item" data-edit-this="{{- $path -}}">    
+  <li class="usa-collection__item" data-edit-this="{{- $path -}}">
     {{ if eq $variant "media" }}
       {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source) -}}
     {{ end }}
