@@ -74,12 +74,12 @@
       }
     }
 
-    // * Indent top level links after the first one to show sidenav hierarchy
+    // * After first top level link, indent following subnav links to show visual hierarchy
     & > li.usa-sidenav__item:not(:first-child) a:not(.usa-button) {
       padding-left: 2rem;
     }
 
-    // * Indent sublist links to show hierarchy
+    // * Indent sublist links for current page to show visual hierarchy
     ul.usa-sidenav__sublist li.usa-sidenav__item a:not(.usa-button) {
       padding-left: 2.75rem;
     }
