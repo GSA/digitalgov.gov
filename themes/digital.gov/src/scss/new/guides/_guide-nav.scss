@@ -74,6 +74,16 @@
       }
     }
 
+    // * After first top level link, indent following subnav links to show visual hierarchy
+    & > li.usa-sidenav__item:not(:first-child) a:not(.usa-button) {
+      padding-left: 2rem;
+    }
+
+    // * Indent sublist links for current page to show visual hierarchy
+    ul.usa-sidenav__sublist li.usa-sidenav__item a:not(.usa-button) {
+      padding-left: 2.75rem;
+    }
+
     li.usa-sidenav__item--read {
       background-color: color("gray-cool-4");
     }
