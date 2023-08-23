@@ -18,9 +18,10 @@
 
 {{/*  Check if external link  */}}
 {{/* TODO: fix logic */}}
-{{ printf "%#v" $href }}
+{{ printf "%#v" $href }} {{/* "//localhost:1313/resources/how-test-websites-for-accessibility/?dg" || https://designsystem.digital.gov/website-standards/ */}}
+{{ printf "%#v" $url.Host }} {{/* localhost:1313 || designsystem.digital.gov  */}}
+{{ printf "%#v" $url.Hostname }} {{/* localhost:1313 || designsystem.digital.gov  */}}
 {{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
-{{ printf "%#v" $url.Host }}
 
 
 
