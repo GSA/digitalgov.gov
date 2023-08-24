@@ -4,8 +4,12 @@ source_url: https://18f.gsa.gov/2023/08/22/7-tips-on-facilitating-unplanned-topi
 source: 18f
 date: 2023-08-22 12:53:00 -0500
 title: Seven tips on facilitating unplanned topics in meetings
-deck: Here are several tips for facilitating a workshop when attendees bring up an important thought, idea or topic that you had not originally incorporated into your planning.
-summary: 18F shared seven tips to help you incorporate unplanned but important topics of discussion while maintaining a structured and organized workshop.
+deck: Facilitating a workshop can feel like a daunting task. Here at 18F, we’ve
+  identified seven tips to keep your workshop organized and flowing, despite
+  unplanned scenarios.
+summary: Facilitating a workshop can feel like a daunting task. Here at 18F,
+  we’ve identified seven tips to keep your workshop organized and flowing,
+  despite unplanned scenarios.
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
