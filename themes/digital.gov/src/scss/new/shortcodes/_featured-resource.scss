@@ -1,0 +1,70 @@
+@use "uswds-core" as *;
+
+.dg-featured-resource {
+  @include u-measure(6);
+
+  a,
+  a:hover {
+    text-decoration: none;
+  }
+
+  a:focus {
+    outline-offset: calc(units(2) * -1);
+  }
+
+  &__body {
+    align-items: center;
+    background-color: color("gray-5");
+    border-radius: units(3);
+    display: flex;
+    justify-content: space-between;
+    margin: units(5) 0;
+    padding: units(2) units(3);
+    transition: 0.3s;
+
+    &:hover {
+      background-color: color("gray-10");
+    }
+
+    @include at-media("tablet") {
+      padding: units(2) units(7);
+    }
+  }
+
+  &__image {
+    display: none;
+    margin-left: units(3);
+    mix-blend-mode: multiply;
+
+    @include at-media("tablet") {
+      display: inline;
+    }
+
+    .dg-img-flexible {
+      max-height: 12rem;
+    }
+  }
+
+  &__text {
+    color: color("black");
+
+    @include at-media("tablet") {
+      max-width: 70%;
+    }
+
+    &-kicker {
+      @include u-font("sans", "3xs");
+      font-weight: font-weight("light");
+      text-transform: uppercase;
+    }
+
+    &-title {
+      font-weight: font-weight("heavy");
+      margin: 0;
+    }
+
+    &-description {
+      margin: 0;
+    }
+  }
+}

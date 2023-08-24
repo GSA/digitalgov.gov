@@ -1,0 +1,27 @@
+{{- $type := .type -}}
+{{- $item := .item -}}
+{{- $page := .page -}}
+{{- $className := cond (eq $type "previous") "dg-guide__prev-next-prev-item usa-button usa-button--outline" "dg-guide__prev-next-next-item usa-button" -}}
+{{- $iconName := cond (eq $type "previous") "uswds/img/sprite.svg#arrow_back" "uswds/img/sprite.svg#arrow_forward" -}}
+
+
+<a
+  class="{{ $className }}"
+  href="{{- $page.Permalink -}}#content-start"
+  title="{{- $item.title -}}"
+>
+  {{ if (eq $type "next") }}
+    <span>{{- $item.title -}}</span>
+  {{ end }}
+  <svg
+    class="usa-icon dg-icon dg-icon--standard"
+    aria-hidden="true"
+    focusable="false"
+    role="img"
+  >
+    <use xlink:href="{{ $iconName | relURL }}"></use>
+  </svg>
+  {{ if (eq $type "previous") }}
+    <span>{{- $item.title -}}</span>
+  {{ end }}
+</a>
