@@ -1,10 +1,9 @@
 ---
 date: 2023-08-28 19:28:00 -0500
-title: Inclusivity and automation
-deck: How a bot can help you stay accountable
-summary: Bots can help us improve our inclusivity by gently nudging us to use
-  more appropriate language, explaining why some terms are offensive, and
-  prompting us to consider others.
+title: "Inclusivity and automation"
+deck: "How a bot can help you stay accountable"
+summary: "Bots can help us improve our inclusivity by gently nudging us to use more appropriate language, explaining why some terms are offensive, and prompting us to consider others."
+
 # See all topics at https://digital.gov/topics
 topics:
   - communication
@@ -12,16 +11,22 @@ topics:
   - rpa
   - diversity-equity-inclusion-accessibility-deia
   - plain-language
+
 # See all authors at https://digital.gov/authors
 authors:
   - frances-carden
+
 slug: inclusivity-and-automation
+
 primary_image: chatbot-group-comments-gmast3r-istock-getty-images-1362558433-comp
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 We use language every day to describe our wants and desires, how we’re feeling, and to share general updates and assumptions. This is something we do automatically, without thinking&mdash;but we all innately know that despite how casually language is used, it makes an impact. Language is powerful, and we often use words and phrases without really knowing what they mean or the history behind them.
 
 What’s an example? When you say that someone has “stolen your thunder,” you’re actually referring to an idea from John Dennis, an 18th century dramatist. He decided to create a thunder machine for his play, but the machine didn’t work. Later on, the thunder machine idea was stolen and successfully used in a play you might be familiar with … Macbeth!
