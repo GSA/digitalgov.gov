@@ -30,7 +30,7 @@ Today is the first day of a new era in our agency. Just as we were the first age
 
 Additional Resources:
 
-  * Press Release: [GSA Stands Up New Service To Solidify Agile, User Centered Approach for the Delivery of Technology](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-creates-new-service-to-help-agencies-transform-05032016)
+  * Press Release: [GSA Creates New Service to Help Agencies Transform their Technology](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-creates-new-service-to-help-agencies-transform-05032016)
 
 _Editor’s Note: This blog was updated 5/3/2016 at 3 p.m._
 
