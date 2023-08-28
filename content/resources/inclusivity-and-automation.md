@@ -1,25 +1,38 @@
 ---
 date: 2023-08-28 18:29:00 -0500
-title: Inclusivity and automation
-deck: How a bot can help you stay accountable
-summary: Bots can help us improve our inclusivity by gently nudging us to use
-  more appropriate language, explaining why some terms are offensive, and
-  prompting us to consider others.
+title: "Inclusivity and automation"
+deck: "How a bot can help you stay accountable"
+summary: "Bots can help us improve our inclusivity by gently nudging us to use more appropriate language, explaining why some terms are offensive, and prompting us to consider others."
+
 # See all topics at https://digital.gov/topics
-topics: []
+topics:
+  - communication
+  - artificial-intelligence
+  - diversity-equity-inclusion-accessibility-deia
+  - rpa
+  - plain-language
+
+# see all authors at https://digital.gov/authors
+authors:
+  - frances-carden
+
 slug: inclusivity-and-automation
+
 primary_image: chatbot-group-comments-gmast3r-istock-getty-images-1362558433-comp
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
-We use language every day to describe our wants and desires, how we’re feeling, and to share general updates and assumptions. This is something we do automatically, without thinking—but we all innately know that despite how casually language is used, it makes an impact. Language is powerful, and we often use words and phrases without really knowing what they mean or the history behind them.
+
+We use language every day to describe our wants and desires, how we’re feeling, and to share general updates and assumptions. This is something we do automatically, without thinking&mdash;but we all innately know that despite how casually language is used, it makes an impact. Language is powerful, and we often use words and phrases without really knowing what they mean or the history behind them.
 
 What’s an example? When you say that someone has “stolen your thunder,” you’re actually referring to an idea from John Dennis, an 18th century dramatist. He decided to create a thunder machine for his play, but the machine didn’t work. Later on, the thunder machine idea was stolen and successfully used in a play you might be familiar with … Macbeth!
 
-But not all etymology is so innocuous. I guarantee that you’ve heard (and probably used) the term \`grandfathered\` when talking about a project or initiative being retroactively included. But the term actually arose from voter restrictions that prevented Black people from voting. This is just one example among many.
+But not all etymology is so innocuous. I guarantee that you’ve heard (and probably used) the term `grandfathered` when talking about a project or initiative being retroactively included. But the term actually arose from voter restrictions that prevented Black people from voting. This is just one example among many.
 
 It’s not easy (and certainly not always possible), though, to research the history and connotations of every word before you use it. We all know that we should be responsible for our language — the terms we use, and the way we engage people around us — but sometimes we need a little nudge. Enter the [Inclusion Bot](https://18f.gsa.gov/2022/11/14/improving-inclusion-continuously-how-we-iterated-on-our-bot-to-promote-more-inclusive-and-thoughtful-language/), developed by GSA’s Technology Transformation Services (TTS) office.
 
@@ -27,7 +40,7 @@ On July 19, 2023, the [Communicators Community of Practice](https://digital.gov/
 
 ## How it started: Guys Bot
 
-The [Inclusion Bot started small](https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/), publicly flagging uses of the gendered term \`guys\`. It would provide examples of more inclusive language, using terms such as \`folks\` or \`y’all\` (you all). But it wasn’t perfect. The bot also included references from popular TV shows — however, suggesting \`fellow kids\` as an alternative to \`guys\`, unintentionally alienated users not familiar with the show that famously used that phrase. The bot also couldn’t differentiate between guys when used in other contexts either, such as a business or brand name.
+The [Inclusion Bot started small](https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/), publicly flagging uses of the gendered term \`guys\`. It would provide examples of more inclusive language, using terms such as `folks` or `y’all` (you all). But it wasn’t perfect. The bot also included references from popular TV shows — however, suggesting `fellow kids` as an alternative to `guys`, unintentionally alienated users not familiar with the show that famously used that phrase. The bot also couldn’t differentiate between guys when used in other contexts either, such as a business or brand name.
 
 ## Where it is now: Inclusion Bot
 
