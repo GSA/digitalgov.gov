@@ -1,0 +1,11 @@
+
+  # https://s3.amazonaws.com/digitalgov/hcd-design-concepts-20.png
+  # Image shortcode: {{< img src=hcd-design-concepts-20 >}}'
+  date     :  2023-08-03 22:31:23 -0400
+  uid      :  hcd-design-concepts-20
+  width    :  1200
+  height   :  400
+  format   :  png
+  credit   :  
+  caption  :  "This image shows how, as the team makes changes to the design, the core thematic structure of the design should remain consistent and resonant with the participants’ core needs. At this stage, changes should be to details, not to overall design themes or needs."
+  alt      : "A shape which changes slightly over four rounds of feedback"

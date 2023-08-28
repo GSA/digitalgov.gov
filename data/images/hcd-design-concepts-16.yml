@@ -1,0 +1,11 @@
+
+  # https://s3.amazonaws.com/digitalgov/hcd-design-concepts-16.png
+  # Image shortcode: {{< img src=hcd-design-concepts-16 >}}'
+  date     :  2023-08-04 00:14:44 -0400
+  uid      :  hcd-design-concepts-16
+  width    :  1200
+  height   :  851
+  format   :  png
+  credit   :  
+  caption  : "An illustration of the iterative process. Every iteration is related to each other and either directly builds on the previous round or contradicts or changes previous iteration(s), acting as a comparison or contrast to other iterations."
+  alt      : "Decorative"
