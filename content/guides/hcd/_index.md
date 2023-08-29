@@ -7,6 +7,23 @@ primary_image: hcd-guide-intro
 glossary: hcd-glossary.json
 type: landings
 additional_resources: next-steps.md
+
+# see all topics at https://digital.gov/topics
+topics:
+  - design
+  - user-experience
+  - user-centered-design
+  - user-research
+  - web-content-managers-forum
+  - user-experience-community-of-practice
+  - cx
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+weight: 1
+
 ---
 
 # Welcome!
