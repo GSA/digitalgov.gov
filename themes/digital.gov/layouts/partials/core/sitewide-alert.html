@@ -1,7 +1,7 @@
 <!--
 Creates sitewide banner alert at top of page under the banner
 -->
-<section class="usa-site-alert usa-site-alert--info" aria-label="Site alert">
+{{/*  <section class="usa-site-alert usa-site-alert--info" aria-label="Site alert">
   <div class="usa-alert">
     <div class="usa-alert__body">
       <p class="usa-alert__text">
@@ -12,6 +12,77 @@ Creates sitewide banner alert at top of page under the banner
           href="{{- "/resources/hawaii-wildfires-guidance-for-us-government/" | relURL -}}"
           >digital.gov/hawaii-wildfires</a
         >
+      </p>
+    </div>
+  </div>
+</section>  */}}
+
+<!-- prettier-ignore-start -->
+{{/*
+  
+    USWDS Site Alert Component — https://designsystem.digital.gov/components/site-alert/
+    Display a sitewide alert at the top of the page
+
+    @param {string} variant - variant types: [standard, emergency, emergency-no-header, emergency-list, list, no-icon, slim]
+    @param {string} heading - copy for heading
+    @param {string} text_bold - bold copy text that comes before text
+    @param {string} text - copy for body text
+    @param {string} link_text - copy for link
+    @param {href}   link_href - url for link, e.g. "/resources/hawaii-wildfires-guidance-for-us-government/"
+    @param {string} aria_label - optional text for aria label
+
+    @example {{< dg-site-alert variant="" heading="" text-bold="" text="" link-text="" link-href="" aria-label="" >}}
+    {{- partialCached "core/sitewide-alert.html" (dict "variant" "standard" "heading" "Alert message" "text_bold" "Hawaii Wildfires" "text" "guidance for U.S. government websites
+      and social media" "link_text" "digital.gov/hawaii-wildfires" "link_href" "/resources/hawaii-wildfires-guidance-for-us-government/" "aria_label" "alert") -}}
+  
+*/}}
+<!-- prettier-ignore-end -->
+
+{{/* Initial Settings */}}
+{{ $variant := .variant }}
+{{ $heading := .heading }}
+{{ $text_bold := .text_bold }}
+{{ $text := .text }}
+{{ $link_text := .link_text }}
+{{ $link_href := .link_href }}
+{{ $aria_label := .aria_label | default "Site Alert" }}
+{{ $component_class := "" }}
+
+{{/* Logic Checks */}}
+
+{{ if eq $variant "standard" }}
+  {{ $component_class = "usa-site-alert--info"}}
+{{ else if eq $variant "emergency" }}
+  {{ $component_class = "usa-site-alert--emergency"}}
+{{ else if eq $variant "emergency-no-header" }}
+  {{ $component_class = "usa-site-alert--emergency usa-site-alert--no-heading"}}
+{{ else if eq $variant "emergency-slim" }}
+  {{ $component_class = "usa-site-alert--emergency usa-site-alert--slim"}}
+{{ else if eq $variant "emergency-no-icon" }}
+  {{ $component_class = "usa-site-alert--emergency usa-site-alert--no-icon"}}
+{{ end }}
+
+
+{{/* Template */}}
+
+<section class="usa-site-alert {{ $component_class }}" aria-label="{{ $aria_label }}">
+  <div class="usa-alert">
+    <div class="usa-alert__body">
+      {{ if $heading }}
+      <h3 class="usa-alert__heading">{{$heading}}</h3>
+      {{ end }}
+      <p class="usa-alert__text">
+        {{ if $text_bold }}
+          <strong>{{$text_bold}}</strong> 
+        {{ end }}
+        {{$text}}
+        {{ if $link_text }}
+          <a
+            class="usa-link"
+            href="{{- $link_href | relURL -}}"
+            >{{ $link_text }}</a
+          >
+        {{ end }}
       </p>
     </div>
   </div>
