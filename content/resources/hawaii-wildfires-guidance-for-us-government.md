@@ -29,6 +29,8 @@ topics:
   - content-strategy
   - strategy
   - customer-service
+  - multilingual
+  - communication
 
 # Primary Image (for social media)
 primary_image: "card-hawaii-wildfires-guidance"
