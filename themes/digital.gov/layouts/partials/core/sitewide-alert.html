@@ -4,12 +4,19 @@
     USWDS Site Alert Component — https://designsystem.digital.gov/components/site-alert/
     Display a sitewide alert at the top of the page
 
-    @param {string} variant - variant types: [standard, emergency, emergency-no-header, emergency-slim, emergency-no-icon]
+    TODO: 
+    - [ ] support lists
+    - [ ] use a data file for list items
+    - [ ] pass data object into partial or call from within?
+
+    @param {string} variant - variant types: [standard, standard-list, emergency, emergency-no-header, emergency-slim, emergency-no-icon, emergency-list]
     @param {string} heading - copy for heading
     @param {string} text_bold - bold copy text that comes before text
     @param {string} text - copy for body text
     @param {string} link_text - copy for link
     @param {href}   link_href - url for link, e.g. "/resources/hawaii-wildfires-guidance-for-us-government/"
+    @param {string} list_text_first - copy for first list item
+    @param {href}   list_link_first - link path for first list item 
     @param {string} aria_label - optional text for aria label
 
     @example
@@ -25,13 +32,24 @@
 {{ $link_text := .link_text }}
 {{ $link_href := .link_href }}
 {{ $aria_label := .aria_label | default "Site Alert" }}
+{{ $list_text_first := .list_text_first }}
+{{ $list_link_text_first := .list_link_text_first }}
+{{ $list_link_href_first := .list_link_href_first }}
+{{ $list_text_second := .list_text_second }}
+{{ $list_link_text_second := .list_link_text_second }}
+{{ $list_link_href_second := .list_link_href_second }}
+{{ $list_text_third := .list_text_third }}
+{{ $list_link_text_third := .list_link_text_third }}
+{{ $list_link_href_third := .list_link_href_third }}
 {{ $component_class := "" }}
+{{/* set flag for displaying the list */}}
+{{ $is_list := cond (or (eq $variant "standard-list") (eq $variant "emergency-list")) true false }}
 
 {{/* Logic Checks */}}
 
-{{ if eq $variant "standard" }}
+{{ if or (eq $variant "standard") (eq $variant "standard-list") }}
   {{ $component_class = "usa-site-alert--info" }}
-{{ else if eq $variant "emergency" }}
+{{ else if or (eq $variant "emergency") (eq $variant "emergency-list") }}
   {{ $component_class = "usa-site-alert--emergency" }}
 {{ else if eq $variant "emergency-no-header" }}
   {{ $component_class = "usa-site-alert--emergency usa-site-alert--no-heading" }}
@@ -43,27 +61,58 @@
 
 {{/* Template */}}
 
-
-<section
-  class="usa-site-alert {{ $component_class }}"
-  aria-label="{{ $aria_label }}"
->
-  <div class="usa-alert">
-    <div class="usa-alert__body">
-      {{ if $heading }}
-        <h3 class="usa-alert__heading">{{ $heading }}</h3>
-      {{ end }}
-      <p class="usa-alert__text">
-        {{ if $text_bold }}
-          <strong>{{ $text_bold }}</strong>
+{{ if $component_class }}
+  <section
+    class="usa-site-alert {{ $component_class }}"
+    aria-label="{{ $aria_label }}"
+  >
+    <div class="usa-alert">
+      <div class="usa-alert__body">
+        {{ if $heading }}
+          <h3 class="usa-alert__heading">{{ $heading }}</h3>
         {{ end }}
-        {{ $text }}
-        {{ if $link_text }}
-          <a class="usa-link" href="{{- $link_href | relURL -}}"
-            >{{ $link_text }}</a
-          >
+        {{ if $text }}
+          <p class="usa-alert__text">
+            {{ if $text_bold }}
+              <strong>{{ $text_bold }}</strong>
+            {{ end }}
+            {{ $text }}
+            {{ if $link_text }}
+              <a class="usa-link" href="{{- $link_href | relURL -}}"
+                >{{ $link_text }}</a
+              >
+            {{ end }}
+          </p>
         {{ end }}
-      </p>
+        {{ if $is_list }}
+          <ul class="usa-list">
+            <li>
+              {{ $list_text_first }}
+              {{ if $list_link_href_first }}
+                <a class="usa-link" href="{{ $list_link_href_first }}"
+                  >{{ $list_link_text_first }}</a
+                >
+              {{ end }}
+            </li>
+            <li>
+              {{ $list_text_second }}
+              {{ if $list_link_href_second }}
+                <a class="usa-link" href="{{ $list_link_href_second }}"
+                  >{{ $list_link_text_second }}</a
+                >
+              {{ end }}
+            </li>
+            <li>
+              {{ $list_text_third }}
+              {{ if $list_link_href_third }}
+                <a class="usa-link" href="{{ $list_link_href_third }}"
+                  >{{ $list_link_text_third }}</a
+                >
+              {{ end }}
+            </li>
+          </ul>
+        {{ end }}
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+{{ end }}
