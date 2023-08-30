@@ -1,18 +1,19 @@
 <!--
 Creates sitewide banner alert at top of page under the banner
 -->
+
 <section class="usa-site-alert usa-site-alert--info" aria-label="Site alert">
   <div class="usa-alert">
     <div class="usa-alert__body">
-      <p class="usa-alert__text">
-        <strong>Hawaii wildfires</strong> guidance for U.S. government websites
-        and social media
-        <a
-          class="usa-link"
-          href="{{- "/resources/hawaii-wildfires-guidance-for-us-government/" | relURL -}}"
-          >digital.gov/hawaii-wildfires</a
-        >
-      </p>
+      <h3 class="usa-alert__heading">Guidance for U.S. government websites and social media for:</h3>
+      <ul class="usa-list">
+        <li>
+          Hawaii wildfires: <a class="usa-link" href="{{- "/resources/hawaii-wildfires-guidance-for-us-government/" | relURL -}}">digital.gov/hawaii-wildfires</a>
+        </li>
+        <li>
+          Hurricane Idalia: <a class="usa-link" href="{{- "/resources/hurricane-idalia-guidance-for-us-government/" | relURL -}}">digital.gov/hurricane-idalia</a>
+        </li>
+      </ul>
     </div>
   </div>
 </section>
