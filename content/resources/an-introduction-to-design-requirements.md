@@ -1,6 +1,6 @@
 ---
 date: 2023-08-30 15:32:00 -0500
-title: An introduction to design requirements
+title: An introduction to design for federal websites
 deck: Understand how and why design impacts user experience
 summary: Guidance, resources, and community to help you use design and user
   experience to create government websites that meet customer needs, work well
@@ -13,7 +13,7 @@ topics:
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
-slug: an-introduction-to-design-requirements
+slug: an-introduction-to-design-federal-sites
 ---
 ## What is design?
 
