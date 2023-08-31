@@ -141,10 +141,6 @@ Financial and retirement terminology:
 
 The EPA’s [Glosario ambiental bilingüe](https://espanol.epa.gov/espanol/glosario-ambiental-bilingue) has a wealth of terminology, abbreviations, and acronyms used by many of the EPA’s environmental programs.
 
-#### San Francisco City and County
-
-The [Translation Glossary page](https://sfenvironment.org/download/translation-glossary) provides a link to download a Microsoft Excel.xlsx file for glossaries in three languages: Spanish, Vietnamese, and Filipino (Tagalog).
-
 ### Education
 
 Below is a compilation of available resources from different education organizations.
@@ -170,7 +166,7 @@ The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-cont
 
 #### The City and County of San Francisco
 
-The [Filipino Translation Style Guide](https://drive.google.com/file/d/0B5nsVoOnh9x8Ul9uYzNSRDlXY2M/view) provides guidelines for translation in the Filipino language for the City and County of San Francisco.
+The Office of Civic Engagement and Immigrant Affairs has [translation style guides for Chinese, Spanish, and Filipino](https://sites.google.com/site/sflanguageaccessordinance/other-resources/style-guides?authuser=0) for the City and County of San Francisco.
 
 #### National Institutes of Health (NIH)
 
