@@ -1,9 +1,13 @@
 // Sets the github URL link and button styles for each resource when edit-mode is enabled
 // eslint-disable-next-line func-names
 (function () {
-  const githubEditLinks = document.querySelectorAll("*[data-edit-this]");
+  const githubEditLinks = document.querySelectorAll("[data-edit-this]");
   const editToolsButton = document.querySelector(".edit-tools");
-  const gitRepo = {};
+  const repoBaseUrl = "https://github.com/gsa/digitalgov.gov";
+  const gitRepo = {
+    filepath: null,
+    branch: null,
+  };
 
   /**
    * Gets the branch from the URL path to set the github filepath
@@ -24,15 +28,16 @@
    */
   function enableEditMode() {
     githubEditLinks.forEach((link) => {
-      gitRepo.filepath = link.getAttribute("data-edit-this");
+      gitRepo.filepath = link.dataset.editThis;
       const editSpan = Object.assign(document.createElement("span"), {
-        innerHTML: "edit",
+        textContent: "edit",
       });
 
       const editLinkButton = Object.assign(document.createElement("a"), {
         classList: "edit-this-btn",
-        href: `https://github.com/gsa/digitalgov.gov/edit/${gitRepo.branch}/content/${gitRepo.filepath}`,
+        href: `${repoBaseUrl}/edit/${gitRepo.branch}/content/${gitRepo.filepath}`,
         target: "_blank",
+        rel: "noreferrer",
         title: "edit this",
       });
 
@@ -48,9 +53,9 @@
    */
   function disableEditMode() {
     // eslint-disable-next-line func-names
-    githubEditLinks.forEach((link) => {
-      link.classList.remove("edit-this");
-      link.lastChild.remove();
+    githubEditLinks.forEach((editLink) => {
+      editLink.classList.remove("edit-this");
+      editLink.lastChild.remove();
     });
   }
 
@@ -58,9 +63,7 @@
    * Add event listener to the edit tools button in lower right corner
    */
   // eslint-disable-next-line func-names
-  editToolsButton.addEventListener("click", function (event) {
-    event.preventDefault();
-
+  editToolsButton.addEventListener("click", function () {
     if (this.classList.contains("active")) {
       disableEditMode();
       this.classList.remove("active");

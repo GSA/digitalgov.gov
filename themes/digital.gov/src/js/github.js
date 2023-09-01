@@ -73,7 +73,7 @@
    */
   function displayGithubEditLink() {
     const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
-    if (gitEditFilePath !== undefined) {
+    if (gitEditFilePath) {
       const githubEditLink = Object.assign(document.createElement("a"), {
         classList: "edit-file-link",
         href: `${gitEditFilePath}`,
