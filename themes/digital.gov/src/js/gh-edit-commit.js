@@ -5,9 +5,11 @@
 
 // eslint-disable-next-line func-names
 (function () {
-  const editFileButton = document.querySelector(".edit-file");
-  const editPageLink = document.querySelector("#page-data .edit-file");
-  const gitRepo = {};
+  const editPageLink = document.querySelector("#page-data .gh-commit-date");
+  const gitRepo = {
+    filepath: "",
+    branch: null,
+  };
 
   /**
    * Get hugo file path from the data-gh-edit-page attribute to link to Github repo location
@@ -18,8 +20,6 @@
       gitRepo.filepath = document
         .querySelector("div[data-gh-edit-page]")
         .getAttribute("data-gh-edit-page");
-    } else {
-      gitRepo.filepath = "";
     }
   }
 
@@ -75,7 +75,7 @@
     const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
     if (gitEditFilePath) {
       const githubEditLink = Object.assign(document.createElement("a"), {
-        classList: "edit-file-link",
+        classList: "gh-commit-date__edit-button",
         href: `${gitEditFilePath}`,
         innerHTML: "Edit",
         target: "_blank",
@@ -131,6 +131,7 @@
     const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitRepo.branch}/content/${gitRepo.filepath}`;
 
     const lastCommitParagraph = Object.assign(document.createElement("p"), {
+      classList: "gh-commit-date__description",
       innerHTML: "Last updated on ",
     });
 
@@ -139,15 +140,15 @@
     });
 
     const lastCommitSpan = Object.assign(document.createElement("span"), {
-      classList: "commit-date",
+      classList: "gh-commit-date__timestamp",
       innerHTML: `${formatDate(commitDate)}`,
     });
 
     lastCommitLink.appendChild(lastCommitSpan);
     lastCommitParagraph.appendChild(lastCommitLink);
 
-    if (editFileButton) {
-      editFileButton.appendChild(lastCommitParagraph);
+    if (editPageLink) {
+      editPageLink.appendChild(lastCommitParagraph);
     }
   }
 

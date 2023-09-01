@@ -38,7 +38,7 @@
         href: `${repoBaseUrl}/edit/${gitRepo.branch}/content/${gitRepo.filepath}`,
         target: "_blank",
         rel: "noreferrer",
-        title: "github edit page section",
+        title: "edit page on github",
       });
 
       editLinkButton.appendChild(editSpan);
