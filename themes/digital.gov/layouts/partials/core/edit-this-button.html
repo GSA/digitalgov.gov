@@ -1,5 +1,11 @@
-<div class="edit-tools">
-  <button class="edit edit-open" aria-label="edit" type="button">
+{{/* 
+  .gh-edit-tools styles the bottom right corner button styles for displaying the .gh-edit-page__button yellow highlights
+  and github report an issue red button
+*/}}
+
+
+<div class="gh-edit-tools">
+  <button class="gh-edit-tools__button" aria-label="edit" type="button">
     <svg
       class="usa-icon dg-icon dg-icon--large margin-bottom-05"
       aria-hidden="true"
@@ -9,7 +15,7 @@
     </svg>
   </button>
   <a
-    class="edit edit-issue"
+    class="gh-edit-tools__button gh-edit-tools__issue-link"
     role="button"
     target="_blank"
     href="https://github.com/GSA/digitalgov.gov/issues/new?assignees=&labels=Bug&projects=&template=bug_report.md&title=Bug:+"

@@ -2,7 +2,7 @@
 // eslint-disable-next-line func-names
 (function () {
   const githubEditLinks = document.querySelectorAll("[data-gh-edit-page]");
-  const editToolsButton = document.querySelector(".edit-tools");
+  const editToolsButton = document.querySelector(".gh-edit-tools");
   const repoBaseUrl = "https://github.com/gsa/digitalgov.gov";
   const gitRepo = {
     filepath: null,
@@ -64,12 +64,12 @@
    */
   // eslint-disable-next-line func-names
   editToolsButton.addEventListener("click", function () {
-    if (this.classList.contains("active")) {
+    if (this.classList.contains("gh-edit-tools--active")) {
       disableEditMode();
-      this.classList.remove("active");
+      this.classList.remove("gh-edit-tools--active");
     } else {
       enableEditMode();
-      this.classList.add("active");
+      this.classList.add("gh-edit-tools--active");
     }
   });
 })();
