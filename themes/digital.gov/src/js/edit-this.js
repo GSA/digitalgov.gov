@@ -1,7 +1,7 @@
 // Sets the github URL link and button styles for each resource when edit-mode is enabled
 // eslint-disable-next-line func-names
 (function () {
-  const githubEditLinks = document.querySelectorAll("[data-edit-this]");
+  const githubEditLinks = document.querySelectorAll("[data-gh-edit-page]");
   const editToolsButton = document.querySelector(".edit-tools");
   const repoBaseUrl = "https://github.com/gsa/digitalgov.gov";
   const gitRepo = {
@@ -28,11 +28,10 @@
    */
   function enableEditMode() {
     githubEditLinks.forEach((link) => {
-      gitRepo.filepath = link.dataset.editThis;
+      gitRepo.filepath = link.dataset.ghEditPage;
       const editSpan = Object.assign(document.createElement("span"), {
         textContent: "edit",
       });
-
       const editLinkButton = Object.assign(document.createElement("a"), {
         classList: "edit-this-btn",
         href: `${repoBaseUrl}/edit/${gitRepo.branch}/content/${gitRepo.filepath}`,

@@ -10,14 +10,14 @@
   const gitRepo = {};
 
   /**
-   * Get hugo file path from the data-edit-this attribute to link to Github repo location
+   * Get hugo file path from the data-gh-edit-page attribute to link to Github repo location
    * example string: news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
    */
   function getFilepath() {
     if (editPageLink) {
       gitRepo.filepath = document
-        .querySelector("div[data-edit-this]")
-        .getAttribute("data-edit-this");
+        .querySelector("div[data-gh-edit-page]")
+        .getAttribute("data-gh-edit-page");
     } else {
       gitRepo.filepath = "";
     }

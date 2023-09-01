@@ -25,7 +25,7 @@
             {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
               {{- if eq .Params.weight 2 -}}
                 <div class="grid-col-12 tablet:grid-col-4">
-                  <div class="topic" data-edit-this="{{- $path -}}">
+                  <div class="topic" data-gh-edit-page="{{- $path -}}">
                     <h3>
                       <a
                         href="{{- .Permalink | absURL -}}"
@@ -69,7 +69,7 @@
               {{/* Output the topic HTML */}}
               <li
                 class="topic topic-buttons__list-item"
-                data-edit-this="{{- $path -}}"
+                data-gh-edit-page="{{- $path -}}"
               >
                 <p>
                   <a href="{{- .Permalink -}}" title="{{- $name -}}">

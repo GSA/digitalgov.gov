@@ -8,7 +8,7 @@
     <article class="grid-container grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
-        <div data-edit-this="{{- $path -}}">
+        <div data-gh-edit-page="{{- $path -}}">
           {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
           {{- end -}}
@@ -34,7 +34,7 @@
 
           </div>
         </aside>
-        <div data-edit-this="{{- $path -}}">
+        <div data-gh-edit-page="{{- $path -}}">
           {{/* Content */}}
           <div class="content usa-prose">
             {{- .Content -}}

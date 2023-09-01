@@ -11,7 +11,7 @@
       <header class="page-head page-head-{{- .Type -}}">
         <div class="grid-container grid-container-desktop">
           <div class="grid-row">
-            <div class="grid-col-12" data-edit-this="{{- $path -}}">
+            <div class="grid-col-12" data-gh-edit-page="{{- $path -}}">
               {{/* Page Title */}}
               <h1>{{- .Title | markdownify -}}</h1>
 
@@ -136,7 +136,7 @@
               {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
                 {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
                   <div class="grid-col-12 tablet:grid-col-4">
-                    <div class="topic" data-edit-this="{{- $path -}}">
+                    <div class="topic" data-gh-edit-page="{{- $path -}}">
                       <h3>
                         <a
                           href="{{- .Permalink | absURL -}}"

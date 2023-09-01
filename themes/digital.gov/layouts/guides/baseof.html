@@ -47,7 +47,7 @@
         <section class="dg-guide grid-row grid-gap-4 margin-top-2">
           <aside
             class="dg-guide__nav guide-nav-box tablet-lg:grid-col-3"
-            data-edit-this="{{- $path -}}"
+            data-gh-edit-page="{{- $path -}}"
           >
             {{- partial "core/guides/guide-nav.html" . -}}
           </aside>
@@ -55,7 +55,7 @@
           <div class="tablet-lg:grid-col-9">
             <div
               class="dg-guide__content usa-prose"
-              data-edit-this="{{- $path -}}"
+              data-gh-edit-page="{{- $path -}}"
             >
               <h1>
                 {{- if not .IsNode -}}
