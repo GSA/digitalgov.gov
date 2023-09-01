@@ -2,6 +2,7 @@
 date: 2023-08-30 15:32:00 -0500
 title: An introduction to design for federal websites
 deck: Understand how and why design impacts user experience
+author: Rachel Flagg
 summary: Guidance, resources, and community to help you use design and user
   experience to create government websites that meet customer needs, work well
   on any device, and follow federal web requirements.
@@ -17,7 +18,7 @@ slug: an-introduction-to-design-federal-sites
 ---
 ## What is design?
 
-[American designer Charles Eames](https://www.loc.gov/exhibits/eames/bio.html) has described design as “a plan for arranging elements to accomplish a particular purpose.”1 This can easily be applied to government websites, as the purpose of most agency websites is to enable users to accomplish specific tasks.
+[American designer Charles Eames](https://www.loc.gov/exhibits/eames/bio.html) has described design as “a plan for arranging elements to accomplish a particular purpose.”<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> This can easily be applied to government websites, as the purpose of most agency websites is to enable users to accomplish specific tasks.
 
 ## Why does design matter?
 
@@ -56,3 +57,10 @@ The UX Community of Practice is a group of managers, subject matter experts, des
 The Web Managers Community of Practice is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).
 
 Developed in collaboration with GSA’s Service Design Program, Office of Customer Experience.
+
+<footer>
+<h3 id="footnote-label">Footnotes</h3>
+  <ol>
+    <li id="fn1"> Editors, The. n.d. Review of Design Q & A: Charles and Ray Eames. Herman Miller. WHY Magazine. <[https://www.hermanmiller.com/stories/why-magazine/design-q-and-a-charles-and-ray-eames/](https://www.hermanmiller.com/stories/why-magazine/design-q-and-a-charles-and-ray-eames/.)> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+  </ol>
+</footer>
