@@ -26,6 +26,12 @@ weight: 6
 {{< youtube lZD7_kmc_zs >}}  
 {{< note >}}
 In this training, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content.
+
+{{< /note >}}
+
+{{< youtube gLozuPQ34EQ >}}
+{{<note>}}
+This tutorial and live demonstration covers a variety of Git related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation](https://trello.com/1/cards/64cd22eb676b517856f45a98/attachments/64efb199e87985934db325b6/download/07-25-2023_GitHub_Basics_FINAL.pptx).
 {{< /note >}}
 
 ## What is GitHub?
@@ -38,7 +44,7 @@ GitHub allows multiple developers to work on a single project at the same time, 
 
 ## How Do I Speak GitHub?
 
-During the video, Carpenter defines some of the common terms teams will need to understand when using GitHub. They are:
+There are some common terms teams will need to understand when using GitHub. They are:
 
 - **Git** &mdash; a tool that allows developers and others to use version control
 - **GitHub** &mdash; one of many web interfaces for using Git
@@ -55,11 +61,11 @@ During the video, Carpenter defines some of the common terms teams will need to 
 - **Projects** &mdash; allows you to use GitHub for project management and tracking a set of issues, either for a specific repo or an entire org
 - **Wiki** &mdash; a section of a repo made for hosting documentation. Documentation may be in the repo’s README files instead.
 
-Carpenter notes that becoming fluent in GitHub terminology might seem intimidating at first, but the more team members engage with the platform, the easier it is to understand the ins and outs of GitHub.
+Becoming fluent in GitHub terminology might seem intimidating at first, but the more team members engage with the platform, the easier it is to understand the ins and outs of GitHub.
 
 ## How Do I Use GitHub?
 
-In her live demonstration, Carpenter shows how files are changed and merged in GitHub. This can be done by any member on the team, developers and non-developers, that has access to a GitHub repository. The following is a step-by-step method in which GitHub users can develop their websites:
+In the demonstrations, both presenters show how files are changed and merged in GitHub. This can be done by any member on the team, developers and non-developers, that has access to a GitHub repository. The following is a step-by-step method in which GitHub users can develop their websites:
 
 - **Step 1** &mdash; Team members will open an issue via a project board.
 - **Step 2** &mdash; Team members will create a new branch from the most recent version of the main branch in the repository where the entire team works to avoid conflicts.
@@ -69,11 +75,11 @@ In her live demonstration, Carpenter shows how files are changed and merged in G
 
 ## What Else Do I Need to Know About GitHub?
 
-Carpenter provides some helpful hints when using GitHub. For example, when starting a project using issues and project boards, she suggests GitHub users write their content on external word processors or via Google Docs, and then, save these files to their respective project boards. These steps allow developers and content creators to have a master copy of the file(s), thus helping them track changes over the course of a project.
+When starting a project using issues and project boards, write your content on external word processors or via Google Docs, and then, save these files to their respective project boards. These steps allow developers and content creators to have a master copy of the file(s), thus helping them track changes over the course of a project.
 
-In addition, Carpenter suggests developers download [GitHub Desktop](https://desktop.github.com/). GitHub Desktop allows users to do everything that could be done on GitHub’s web interface, but locally on a user’s machine.
+In addition, developers should consider downloading [GitHub Desktop](https://desktop.github.com/). GitHub Desktop allows users to do everything that could be done on GitHub’s web interface, but locally on a user’s machine.
 
-GitHub is built to be a collaborative interface. By allowing multiple users to work on the same project simultaneously and requiring cross-team approval for pull requests, GitHub not only allows for, but encourages collaboration within design teams. Carpenter states that this type of collaboration can help produce a higher level of quality control.
+GitHub is built to be a collaborative interface. By allowing multiple users to work on the same project simultaneously and requiring cross-team approval for pull requests, GitHub not only allows for, but encourages collaboration within design teams. This type of collaboration can help produce a higher level of quality control.
 
 ## Additional Resources
 
