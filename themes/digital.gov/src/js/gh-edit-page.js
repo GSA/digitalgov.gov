@@ -30,19 +30,20 @@
     githubEditLinks.forEach((link) => {
       gitRepo.filepath = link.dataset.ghEditPage;
       const editSpan = Object.assign(document.createElement("span"), {
+        classList: "gh-edit-page__button-text",
         textContent: "edit",
       });
       const editLinkButton = Object.assign(document.createElement("a"), {
-        classList: "edit-this-btn",
+        classList: "gh-edit-page__button",
         href: `${repoBaseUrl}/edit/${gitRepo.branch}/content/${gitRepo.filepath}`,
         target: "_blank",
         rel: "noreferrer",
-        title: "edit this",
+        title: "github edit page section",
       });
 
       editLinkButton.appendChild(editSpan);
       link.appendChild(editLinkButton);
-      link.classList.add("edit-this");
+      link.classList.add("gh-edit-page");
     });
   }
 
@@ -53,7 +54,7 @@
   function disableEditMode() {
     // eslint-disable-next-line func-names
     githubEditLinks.forEach((editLink) => {
-      editLink.classList.remove("edit-this");
+      editLink.classList.remove("gh-edit-page");
       editLink.lastChild.remove();
     });
   }

@@ -1,13 +1,16 @@
 @use "uswds-core" as *;
 
-// Edit this
+/*
+  gh-edit-page applies yellow highlight box for components that use the attribute [gh-edit-page]
+  for linking to github repo link
+*/
 
-.edit-this {
+.gh-edit-page {
   position: relative;
 
   @include u-bg("yellow-5");
 
-  .edit-this-btn {
+  &__button {
     position: absolute;
     right: -10px;
     top: -10px;
@@ -23,40 +26,39 @@
     @include u-circle(2);
     @include u-text("center");
     @include u-shadow(5);
+  }
 
-    span {
-      @include u-display("none");
-    }
+  &__button-text {
+    @include u-display("none");
 
     &:hover {
       @include u-bg("gold-20v");
-
       text-decoration: underline;
     }
   }
 
   &:hover {
-    outline: 4px #ffcb00 solid;
-
-    z-index: 100;
-
     @include u-outline-color("gold-20v");
 
-    .edit-this-btn {
+    outline: 4px #ffcb00 solid;
+    z-index: 100;
+
+    .gh-edit-page__button {
+      @include u-text("white");
       @include u-display("block");
       height: 40px;
       right: -20px;
       top: -20px;
-
       width: 40px;
+    }
 
-      span {
-        border: none;
-        display: block;
-        padding: 9px 6px;
-        position: relative;
-        text-indent: 0;
-      }
+    .gh-edit-page__button-text {
+      border: none;
+      display: block;
+      padding: 9px 6px;
+      position: relative;
+      text-indent: 0;
+      border-radius: 99em;
     }
   }
 }
