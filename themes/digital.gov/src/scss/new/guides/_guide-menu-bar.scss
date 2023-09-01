@@ -73,6 +73,8 @@
 
     &-icon {
       margin-left: units(1);
+      // Set width explicitly for proper rendering on Safari browsers
+      width: units(5);
     }
   }
 }
