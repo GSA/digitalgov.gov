@@ -29,20 +29,15 @@ In this training, Content Strategy and Design Specialist for GSA’s Technology 
 
 {{< /note >}}
 
-{{< youtube gLozuPQ34EQ >}}
-{{<note>}}
-This tutorial and live demonstration covers a variety of Git related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation](https://trello.com/1/cards/64cd22eb676b517856f45a98/attachments/64efb199e87985934db325b6/download/07-25-2023_GitHub_Basics_FINAL.pptx).
-{{< /note >}}
-
 ## What is GitHub?
 
 [GitHub](https://github.com/) is a web-based interface that uses [Git](https://git-scm.com/), the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.
 
-## How Can GitHub Help My Team and Me?
+## How can GitHub help my team and me?
 
 GitHub allows multiple developers to work on a single project at the same time, reduces the risk of duplicative or conflicting work, and can help decrease production time. With GitHub, developers can build code, track changes, and innovate solutions to problems that might arise during the site development process simultaneously. Non-developers can also use it to create, edit, and update website content, which Carpenter demonstrates in her tutorial.
 
-## How Do I Speak GitHub?
+## How do I speak GitHub?
 
 There are some common terms teams will need to understand when using GitHub. They are:
 
@@ -63,9 +58,14 @@ There are some common terms teams will need to understand when using GitHub. The
 
 Becoming fluent in GitHub terminology might seem intimidating at first, but the more team members engage with the platform, the easier it is to understand the ins and outs of GitHub.
 
-## How Do I Use GitHub?
+## How do I use GitHub?
 
-In the demonstrations, both presenters show how files are changed and merged in GitHub. This can be done by any member on the team, developers and non-developers, that has access to a GitHub repository. The following is a step-by-step method in which GitHub users can develop their websites:
+{{< youtube gLozuPQ34EQ >}}
+{{<note>}}
+This tutorial and live demonstration covers a variety of Git related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation](https://trello.com/1/cards/64cd22eb676b517856f45a98/attachments/64efb199e87985934db325b6/download/07-25-2023_GitHub_Basics_FINAL.pptx).
+{{< /note >}}
+
+In the demonstrations on this page, both presenters show how files are changed and merged in GitHub. This can be done by any member on the team, developers and non-developers, that has access to a GitHub repository. The following is a step-by-step method in which GitHub users can develop their websites:
 
 - **Step 1** &mdash; Team members will open an issue via a project board.
 - **Step 2** &mdash; Team members will create a new branch from the most recent version of the main branch in the repository where the entire team works to avoid conflicts.
@@ -73,7 +73,7 @@ In the demonstrations, both presenters show how files are changed and merged in 
 - **Step 4** &mdash; Team members will open a pull request in which users can assign other team members to review content changes and internally discuss the details of the commits.
 - **Step 5** &mdash; After waiting for the Federalist build to complete, team members can preview the change on a test version of the website and request reviewers to approve or comment on the change. Once the reviewers approve the pull request, the commits merge into the main branch and are published on the live site.
 
-## What Else Do I Need to Know About GitHub?
+## What else do I need to know about GitHub?
 
 When starting a project using issues and project boards, write your content on external word processors or via Google Docs, and then, save these files to their respective project boards. These steps allow developers and content creators to have a master copy of the file(s), thus helping them track changes over the course of a project.
 
@@ -81,7 +81,7 @@ In addition, developers should consider downloading [GitHub Desktop](https://des
 
 GitHub is built to be a collaborative interface. By allowing multiple users to work on the same project simultaneously and requiring cross-team approval for pull requests, GitHub not only allows for, but encourages collaboration within design teams. This type of collaboration can help produce a higher level of quality control.
 
-## Additional Resources
+## Additional resources
 
 - [Intro to GitHub | TTS Handbook](https://handbook.tts.gsa.gov/intro-to-github/) - a guide on how to use GitHub from understanding basic level terminology to understanding more complicated concepts.
 - [Simple Guide to GitHub for Non-Developers](https://unito.io/blog/guide-to-github-for-project-managers/) - a resource that explains the basics of GitHub language.
