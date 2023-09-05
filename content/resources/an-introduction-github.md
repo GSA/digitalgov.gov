@@ -20,14 +20,16 @@ topics:
 # 1 -- visible
 # 2 -- highlighted
 weight: 6
+
 # Make it better ♥
+
 ---
 
-{{< youtube lZD7_kmc_zs >}}  
 {{< note >}}
 In this training, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content.
-
 {{< /note >}}
+
+{{< youtube lZD7_kmc_zs >}}
 
 ## What is GitHub?
 
@@ -44,7 +46,7 @@ There are some common terms teams will need to understand when using GitHub. The
 - **Git** &mdash; a tool that allows developers and others to use version control
 - **GitHub** &mdash; one of many web interfaces for using Git
 - **Organization (org)** &mdash; a grouping mechanism allowing teams to collaborate across many projects at once
--  **Repository (repo)** &mdash; a folder in which all files and their version histories are stored
+- **Repository (repo)** &mdash; a folder in which all files and their version histories are stored
 - **Branch** &mdash; a version of the repo that allows work without affecting other branches. Repos may have many branches for different possible changes being tested or considered, along with a default branch that serves as the source of truth.
 - **Fork** &mdash; a new repository that inherits from a parent “upstream” repo. It is used to suggest changes to an “upstream” public repo by someone who doesn’t have access to edit in the repo’s home org.
 - **Markdown (.md)** &mdash; a way to write content that converts plain text to formatted text.
@@ -60,10 +62,11 @@ Becoming fluent in GitHub terminology might seem intimidating at first, but the 
 
 ## How do I use GitHub?
 
-{{< youtube gLozuPQ34EQ >}}
 {{<note>}}
 This tutorial and live demonstration covers a variety of Git related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation](https://trello.com/1/cards/64cd22eb676b517856f45a98/attachments/64efb199e87985934db325b6/download/07-25-2023_GitHub_Basics_FINAL.pptx).
 {{< /note >}}
+
+{{< youtube gLozuPQ34EQ >}}
 
 In the demonstrations on this page, both presenters show how files are changed and merged in GitHub. This can be done by any member on the team, developers and non-developers, that has access to a GitHub repository. The following is a step-by-step method in which GitHub users can develop their websites:
 
