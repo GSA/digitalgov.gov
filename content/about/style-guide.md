@@ -130,7 +130,7 @@ To avoid confusion, always provide the full name of an agency or program the fir
 
 **Initialism examples**:
 
-An initialism is an acronym where you prnounce each letter.
+An initialism is an acronym where you pronounce each letter.
 
 - OMG &mdash; Oh, my God (or gosh)
 - LOL &mdash; laughing out loud
@@ -158,7 +158,7 @@ An acronym is an initialism that is used as a word.
 - NASA &mdash; National Aeronautics and Space Administration
 - OPEC (pronounced: oh-peck) &mdash; Organization of the Petroleum Exporting Countries
 - NARA &mdash; National Archives and Records Administration
-- DARPA &mdash; olDefense Advanced Research Projects Agency
+- DARPA &mdash; Defense Advanced Research Projects Agency
 - NATO (pronounced: nay-toe) &mdash; North Atlantic Treaty Organization
 - FEMA &mdash; Federal Emergency Management Agency
 - SWAT &mdash; special weapons and tactics
@@ -192,10 +192,10 @@ After a colon, capitalize the next word if it starts a complete sentence (i.e., 
 
 Use an apostrophe to indicate:
 
-- Possession &mdash; ”Agile also improves the development team’s ability to commit to work.”
+- Possession &mdash; “Agile also improves the development team’s ability to commit to work.”
 - Missing letters or numbers
-    - Contractions: ”For example, with a bilingual English and Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text).”
-    - Date abbreviations: ”the ‘90s” (the apostrophe replaces the _19_ in _1990s_)
+    - Contractions: “For example, with a bilingual English and Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text).”
+    - Date abbreviations: “the ‘90s” (the apostrophe replaces the _19_ in _1990s_)
 
 Do not use an apostrophe to make words plural.
 Ever.
@@ -222,7 +222,7 @@ The abbreviation “i.e.” stands for the Latin phrase, _id est_, which means �
 
 The abbreviation “e.g.” stands for the Latin phrase _exempli gratia_, which means “for example” &mdash; use it to list one or more examples.
 
-> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the altenrate "Kelvin" timeline. 
+> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the alternate "Kelvin" timeline. 
 
 
 #### versus
