@@ -170,7 +170,7 @@ The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-cont
 
 #### The City and County of San Francisco
 
-The Office of Civic Engagement and Immigrant Affairs has [translation style guides for Chinese, Spanish, and Filipino](https://sites.google.com/site/sflanguageaccessordinance/other-resources/style-guides?authuser=0) for the City and County of San Francisco.
+The Office of Civic Engagement and Immigrant Affairs has [translation style guides for Chinese, Spanish, and Filipino](https://sites.google.com/site/sflanguageaccessordinance/other-resources/style-guides) for the City and County of San Francisco.
 
 #### National Institutes of Health (NIH)
 
