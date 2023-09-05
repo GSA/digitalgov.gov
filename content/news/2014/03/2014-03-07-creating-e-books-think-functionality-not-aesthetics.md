@@ -21,11 +21,13 @@ E-books are great for one thing: reading on mobile devices. Their [reflowable](h
 
 But e-books are not great for design. They’re generally single column, with images “anchored” within the text flow. Graphical enhancements are very limited, and are supported differently (if at all) on different devices. The layout will change with the e-reader it’s viewed on, and with the e-reader’s font and type size settings.
 
+Both images below show the beginning of Part I of the 2013 Consumer Action Handbook. The first image is from the pdf of the print version.
+
 [{{< legacy-img src="2014/03/2013-CAH-Buyer_Beware_Print_pdf_232x300-193x250.png" alt="Click here to view the printed PDF version at full size." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2013-CAH-Buyer_Beware_Print_pdf.png)       
 
-[{{< legacy-img src="2014/03/2013-CAH-Buyer-Beware-Nook-Color_176x300-146x250.png" alt="Click here to view the Nook Color version at full size." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2013-CAH-Buyer-Beware-Nook-Color.png)
+The second image is from the e-book on the NOOK Color e-reader device. Note the e-book’s simplified, single-column layout.
 
-Both images above show the beginning of Part I of the 2013 Consumer Action Handbook. The first image is from the pdf of the print version. The second image is from the e-book on the NOOK Color e-reader device. Note the e-book’s simplified, single-column layout.
+[{{< legacy-img src="2014/03/2013-CAH-Buyer-Beware-Nook-Color_176x300-146x250.png" alt="Click here to view the Nook Color version at full size." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2013-CAH-Buyer-Beware-Nook-Color.png)
 
 ## What Content Works Well on e-Books?
 
@@ -39,11 +41,15 @@ The [Government Printing Office](http://www.gpo.gov/), the federal government’
 
 The [Government Online Bookstore’s e-books section](http://bookstore.gpo.gov/ebooks) lists more than 250 publications, from the departments of Defense, Transportation, Labor, and others, most in the 200+ page printed length. Most are history or reference books or government reports. And while the federal publishing community as a whole has not yet widely embraced e-books, a few individual agencies, including [NASA](http://www.nasa.gov/connect/ebooks/index.html) and the [Department of Housing and Urban Development](http://www.huduser.org/portal/eBookStore.html), have.
 
-[{{< legacy-img src="2014/03/2011-CAH-Banks-Kindle-for-PC-247x250.png" alt="Image shows the beginning of the 2011 Consumer Action Handbook’s Banking section in Kindle for PC preview software" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2011-CAH-Banks-Kindle-for-PC.png)       
+The first image below shows the beginning of the 2011 Consumer Action Handbook’s Banking section in Kindle for PC preview software. 
+
+[{{< legacy-img src="2014/03/2011-CAH-Banks-Kindle-for-PC-247x250.png" alt="Image shows the beginning of the 2011 Consumer Action Handbook’s Banking section in Kindle for PC preview software" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2011-CAH-Banks-Kindle-for-PC.png)
+
+The second image shows the same section on the Kindle Keyboard e-reader device.
 
 [{{< legacy-img src="2014/03/2011-CAH-Banks-Kindle-Keyboard-187x250.gif" alt="Image shows the beginning of the 2011 Consumer Action Handbook’s Banking section on the Kindle Keyboard e-reader device" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2011-CAH-Banks-Kindle-Keyboard.gif)
   
-The first image above shows the beginning of the 2011 Consumer Action Handbook’s Banking section in Kindle for PC preview software. The second image shows the same section on the Kindle Keyboard e-reader device. Notice that the small “Banking” section header above the Bank photo in Kindle for PC, left, is not visible on the Kindle Keyboard, right. This is an example of why e-books should be reviewed on the actual e-reader devices, not just in computer software.
+Notice that the small “Banking” section header above the bank photo in the first image (for Kindle for PC), is not visible on the second image (for Kindle Keyboard). This is an example of why e-books should be reviewed on the actual e-reader devices, not just in computer software.
 
 ## Tips and Best Practices
 
