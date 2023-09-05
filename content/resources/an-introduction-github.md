@@ -26,7 +26,7 @@ weight: 6
 ---
 
 {{< note >}}
-In this training, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content.
+In this first training video, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content.
 {{< /note >}}
 
 {{< youtube lZD7_kmc_zs >}}
@@ -53,7 +53,7 @@ There are some common terms teams will need to understand when using GitHub. The
 - **Commit Changes** &mdash; a saved record of a change made to a file within the repo.
 - **Pull Request (PR)** &mdash; a request for changes made to a branch to be pulled into another branch. Allows multiple users to see, discuss and review work being suggested.
 - **Merge** &mdash; after a pull request is approved, the commit will be pulled in (or merged) from one branch to another and then, deployed on the live site
-- **Issues** &mdash; allow users to report issues/bugs and track progress of assigning the fix for the issues.
+- **Issues** &mdash; allow users to report issues or bugs and track progress of assigning the fix for the issues.
 - **[Federalist](https://federalist.18f.gov/features/)** &mdash; a platform that securely deploys a website from a GitHub repository in minutes and lets users preview proposed and published changes.
 - **Projects** &mdash; allows you to use GitHub for project management and tracking a set of issues, either for a specific repo or an entire org
 - **Wiki** &mdash; a section of a repo made for hosting documentation. Documentation may be in the repo’s README files instead.
@@ -63,7 +63,7 @@ Becoming fluent in GitHub terminology might seem intimidating at first, but the 
 ## How do I use GitHub?
 
 {{<note>}}
-This tutorial and live demonstration covers a variety of Git related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation](https://trello.com/1/cards/64cd22eb676b517856f45a98/attachments/64efb199e87985934db325b6/download/07-25-2023_GitHub_Basics_FINAL.pptx).
+This second tutorial and live demonstration covers a variety of Git-related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation (.pptx, 28.4 MB, 41 slides)](https://trello.com/1/cards/64cd22eb676b517856f45a98/attachments/64efb199e87985934db325b6/download/07-25-2023_GitHub_Basics_FINAL.pptx).
 {{< /note >}}
 
 {{< youtube gLozuPQ34EQ >}}
@@ -72,7 +72,7 @@ In the demonstrations on this page, both presenters show how files are changed a
 
 - **Step 1** &mdash; Team members will open an issue via a project board.
 - **Step 2** &mdash; Team members will create a new branch from the most recent version of the main branch in the repository where the entire team works to avoid conflicts.
-- **Step 3** &mdash; Team members will add commits (edits/ changes) to their respective branches.
+- **Step 3** &mdash; Team members will add commits (edits or changes) to their respective branches.
 - **Step 4** &mdash; Team members will open a pull request in which users can assign other team members to review content changes and internally discuss the details of the commits.
 - **Step 5** &mdash; After waiting for the Federalist build to complete, team members can preview the change on a test version of the website and request reviewers to approve or comment on the change. Once the reviewers approve the pull request, the commits merge into the main branch and are published on the live site.
 
