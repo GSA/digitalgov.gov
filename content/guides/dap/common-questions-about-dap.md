@@ -57,9 +57,8 @@ If your agency hosts the DAP code locally on your own servers, you will be requi
 **Action 2: Use the agency parameter.**
 
 Use the custom agency parameter to more efficiently analyze and filter data in GA4 and understand differences in trends across participating agencies. Also use the custom sub-agency parameter, if applicable. See, for example, the agency parameter used in a DAP tag with central hosting:
-```
-<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script>. 
-```
+
+`<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script>`
 
 Contact the DAP team at [dap@gsa.gov](dap@gsa.gov) with any questions about these two action items.
 
