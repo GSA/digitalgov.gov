@@ -49,4 +49,4 @@ _This talk is hosted by the TTS Research Guild and [Digital.gov](https://digital
 
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 

@@ -41,7 +41,7 @@ weight: 0
 # Make it better ♥
 ---
 
-*Thank you for your interest in this Digital.gov event. Please contact us directly at [DigitalGovU@gsa.gov](mailto:Digitalgovu@gsa.gov) if you need accessible accommodations to be able to attend.*
+*Thank you for your interest in this Digital.gov event. Please contact us directly at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) if you need accessible accommodations to be able to attend.*
 
 Over the last nine years, the United States Agency for International Development (USAID) has organized 11 [Grand Challenges for Development](https://www.usaid.gov/news-information/frontlines/grand-challenges). These programs bring together governments, foundations, and the private sector to improve global development problems. The latest grand challenge, Securing Water for Food (SWFF), recently published their final report detailing the processes and culture that made the program such a success.
 

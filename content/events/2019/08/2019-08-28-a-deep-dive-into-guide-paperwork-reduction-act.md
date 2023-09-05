@@ -25,7 +25,7 @@ In this talk, we’ll cover how the PRA guide came about and explore the methods
 
 We’ll also talk with the team from OIRA about how they arrived at the idea to submit a pitch to 10x in the first place, and what new things they’ve learned about building a product from the ground up.
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 
 ---
 

@@ -67,6 +67,7 @@ params:
   goUsaUsername         : ""
   goUsaApiKey           : ""
   devmode               : false
+  email:                : "digitalgov@gsa.gov"
 
   # Homepage settings
   dg_tagline: "Build better digital services"

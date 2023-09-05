@@ -55,7 +55,7 @@ Join Paul Lester, Digital Content Specialist for the [Department of Energy](http
 
 He moved to Washington in 2008 for a web editor role with [The Guardian](http://www.theguardian.com/us) before working as a contractor for the [Wind](https://www.energy.gov/node/779761) and [Water](https://www.energy.gov/node/779756) Technologies Office, the [Small Business Administration](https://www.sba.gov/), and DOE’s [Office of Energy Efficiency and Renewable Energy](https://www.energy.gov/eere/office-energy-efficiency-renewable-energy). Paul joined the Energy.gov team in March 2015, contributing to [Energy Blog](https://www.energy.gov/blog-archive) and assisting with managing the Energy Department’s [social media channels](https://www.energy.gov/about-us/web-policies/social-media). When he’s not in the office, Paul can be seen slowly running around D.C. training for his next half marathon.
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 
 This SocialGov Talk is hosted by [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media Community of Practice (CoP). SocialGov has over 1,200 members from 90+ departments and agencies across the federal government. 
 
