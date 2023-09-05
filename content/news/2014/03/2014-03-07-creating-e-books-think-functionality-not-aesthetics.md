@@ -17,7 +17,7 @@ topics:
 
 ---
 
-E-books are great for one thing: reading on mobile devices. Their [reflowable](http://www.google.com/url?q=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReflowable_document&sa=D&sntz=1&usg=AFQjCNGHPbuxl9TzOwMhiP_xOxKNlK84GA) text adjusts to fit the reader’s smartphone, tablet, or e-reader in the type size the reader chooses. They are essential for reading on smartphones, and better than pdf’s for all but the biggest tablets.
+E-books are great for one thing: reading on mobile devices. Their [reflowable](https://en.wikipedia.org/wiki/Reflowable_document) text adjusts to fit the reader’s smartphone, tablet, or e-reader in the type size the reader chooses. They are essential for reading on smartphones, and better than pdf’s for all but the biggest tablets.
 
 But e-books are not great for design. They’re generally single column, with images “anchored” within the text flow. Graphical enhancements are very limited, and are supported differently (if at all) on different devices. The layout will change with the e-reader it’s viewed on, and with the e-reader’s font and type size settings.
 
