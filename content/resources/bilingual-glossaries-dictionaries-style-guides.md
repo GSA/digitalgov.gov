@@ -141,6 +141,10 @@ Financial and retirement terminology:
 
 The EPA’s [Glosario ambiental bilingüe](https://espanol.epa.gov/espanol/glosario-ambiental-bilingue) has a wealth of terminology, abbreviations, and acronyms used by many of the EPA’s environmental programs.
 
+#### San Francisco City and County
+
+The [Translation Glossary page](https://sfenvironment.org/download/sf-environment-translation-glossary) provides a link to download a .xlsx spreadsheet file for glossaries in three languages: Spanish, Chinese, and Filipino (Tagalog).
+
 ### Education
 
 Below is a compilation of available resources from different education organizations.
