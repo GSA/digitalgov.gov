@@ -61,6 +61,6 @@ Developed in collaboration with GSA’s Service Design Program, Office of Custom
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
   <ol>
-    <li id="fn1"> Editors, The. n.d. Review of Design Q & A: Charles and Ray Eames. Herman Miller. WHY Magazine. [Review of Design Q&A](https://www.hermanmiller.com/stories/why-magazine/design-q-and-a-charles-and-ray-eames/) <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+    <li id="fn1"> Editors, The. n.d. Review of Design Q & A: Charles and Ray Eames. Herman Miller. WHY Magazine. [https://www.hermanmiller.com/stories/why-magazine/design-q-and-a-charles-and-ray-eames/](https://www.hermanmiller.com/stories/why-magazine/design-q-and-a-charles-and-ray-eames/) <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
   </ol>
 </footer>
