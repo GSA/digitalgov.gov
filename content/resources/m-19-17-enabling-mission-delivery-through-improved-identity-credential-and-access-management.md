@@ -28,6 +28,8 @@ OMB's 2019 Memorandum, M-19-17, sets forth the federal government's<sup><a aria-
 5. Improving Digital Interactions with the American Public
 6. Enumerating Government-wide Responsibilities
 
+{{< button href="https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf" text="View the full Memo on Enabling Mission Delivery through Improved Identity, Credential, and Access Management" >}}
+
 ## Rescissions
 
 OMB rescinds the following with the release of this memorandum:
@@ -41,8 +43,6 @@ OMB rescinds the following with the release of this memorandum:
 ## Policy Assistance
 
 Address all questions or inquiries regarding this memorandum to the OMB Office ofthe Federal Chief Information Officer (OFCIO) via email: ofcio@omb.eop.gov.
-
-{{< button href="https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf" text="View the full Memo on Enabling Mission Delivery through Improved Identity, Credential, and Access Management" >}}
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
