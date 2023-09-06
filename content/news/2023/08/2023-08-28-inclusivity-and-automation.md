@@ -37,6 +37,8 @@ It’s not easy (and certainly not always possible), though, to research the his
 
 On July 19, 2023, the [Communicators Community of Practice](https://digital.gov/communities/communicators/) hosted a [webinar to introduce the Inclusion Bot](https://digital.gov/event/2023/07/19/supporting-inclusive-language-through-automation/), talk about how automation can support inclusive language, and show the audience how to apply these principles to create their own automations. Speakers from TTS engaged with the audience, leading with a presentation to show why the bot was developed, how it evolved, and how we can leverage the idea of automation to continue supporting inclusive language. The speakers engaged in a live question and answer session afterward, where the audience asked questions to understand the parameters of the bot, understand how they can apply these ideas, and suggest additional terms that should be added.
 
+{{< youtube 4xwC2q8G4J8 >}}
+
 ## How it started: Guys Bot
 
 The [Inclusion Bot started small](https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/), publicly flagging uses of the gendered term `guys`. It would provide examples of more inclusive language, using terms such as `folks` or `y’all` (you all). But it wasn’t perfect. The bot also included references from popular TV shows — however, suggesting `fellow kids` as an alternative to `guys`, unintentionally alienated users not familiar with the show that famously used that phrase. The bot also couldn’t differentiate between guys when used in other contexts either, such as a business or brand name.
