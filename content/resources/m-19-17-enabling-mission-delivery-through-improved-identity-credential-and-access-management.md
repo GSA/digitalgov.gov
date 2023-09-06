@@ -47,6 +47,6 @@ Address all questions or inquiries regarding this memorandum to the OMB Office o
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">This memorandum is not applicable to national security systems (NSS) as defined in 44 U.S.C. § 3552 (Federal Information Security Modernization Act of2014), although OMB encourages owners and operators ofNSS to utilize the requirements in this document where appropriate. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">This memorandum is not applicable to national security systems (NSS) as defined in 44 U.S.C. § 3552 (Federal Information Security Modernization Act of 2014), although OMB encourages owners and operators of NSS to utilize the requirements in this document where appropriate. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
