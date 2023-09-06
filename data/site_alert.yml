@@ -1,0 +1,9 @@
+# When using the standard-list or emergency-list variant for sitewide-alert, set the list items to display below
+
+data:
+  - text: "Hawaii wildfires"
+    link_text: "digital.gov/hawaii-wildfires"
+    link_href: "/resources/hawaii-wildfires-guidance-for-us-government/"
+  - text: "Hurricane Idalia"
+    link_text: "digital.gov/hurricane-idalia"
+    link_href: "/resources/hurricane-idalia-guidance-for-us-government/"
