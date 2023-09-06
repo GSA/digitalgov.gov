@@ -13,7 +13,7 @@ topics:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 1
+weight: 2
 
 slug: m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management
 
