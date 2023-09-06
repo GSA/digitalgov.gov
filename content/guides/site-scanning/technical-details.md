@@ -43,7 +43,7 @@ The Site Scanning program maintains a number of automated processes that, togeth
   - [Sample dataset that represents different edge cases](https://github.com/GSA/site-scanning-documentation/blob/main/data/Representative_Sample_Dataset.csv).
   - [List of proposed but not yet built scans](https://github.com/GSA/site-scanning-documentation/blob/main/pages/candidate-scans.md).
   - [Archive of historical snapshots](https://github.com/GSA/site-scanning-snapshots/tree/main/snapshots).
-  - [Description of the Federal web presence](https://github.com/GSA/federal-website-index/blob/main/criteria/federal-web-presence.md)
+  - [Description of the federal web presence](https://github.com/GSA/federal-website-index/blob/main/criteria/federal-web-presence.md)
   - [Program issue tracker](https://github.com/GSA/site-scanning/issues).
   - [Program website](https://digital.gov/site-scanning/).
 
