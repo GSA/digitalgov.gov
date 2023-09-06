@@ -25,6 +25,8 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 [**M-22-10:** Improving Access to Public Benefits Programs Through the Paperwork Reduction Act (PDF, 602 KB, 8 pages, April 13, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf)
 
+[M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management (May 21, 2019) (13 pages, 1 MB)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf)
+
 [**M-17-26:** Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda (PDF, 208 KB, 12 pages, June 2017)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/M-17-26.pdf)
 
 [**M-17-06:** Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
