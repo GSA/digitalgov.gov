@@ -44,4 +44,4 @@ _* If unfamiliar with this pop culture reference, watch Schoolhouse Rock’s edu
 
 _This talk is hosted by [Code.gov](https://code.gov/) and [Digital.gov](https://digital.gov/)._
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).

@@ -66,4 +66,4 @@ The [SocialGov Community of Practice](https://digital.gov/communities/social-med
 
 Our team will send a reminder email prior to the event that will include your link to join the video.
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._

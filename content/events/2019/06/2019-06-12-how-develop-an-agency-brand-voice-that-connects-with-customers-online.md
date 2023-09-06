@@ -49,4 +49,4 @@ Noted trainer Leslie O’Flahavan will cover what brand voice is and how it’s 
 
 _The [Plain Language Action and Information Network](https://www.plainlanguage.gov/about/) (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._ 
 
-Questions about this event or future events? Email them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Email them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 

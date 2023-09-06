@@ -36,4 +36,4 @@ This talk is hosted by the [Federal Leadership Seminar ](http://cma.ahrq.gov/112
 
 For more information, please contact the FLPDSS Chair – Kim Wittenberg – at [kim.wittenberg@ahrq.hhs.gov](mailto:kim.wittenberg@ahrq.hhs.gov).
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
