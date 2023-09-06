@@ -41,7 +41,7 @@ In this talk, we will review the architecture of Recreation.gov and how it is op
 
 [Join the DevOps Community of Practice](https://digital.gov/communities/devops/) 
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._ 
 
 --- 
 

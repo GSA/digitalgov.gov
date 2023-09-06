@@ -52,7 +52,7 @@ This talk is hosted by Search.gov and Digital.gov.
 
 For more information about Search.gov, email [search@support.digitalgov.gov](mailto:search@support.digitalgov.gov), or call 202-969-7426.
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 
 ### Related links
 

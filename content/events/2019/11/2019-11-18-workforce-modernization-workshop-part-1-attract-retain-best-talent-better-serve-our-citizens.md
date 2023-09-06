@@ -43,6 +43,6 @@ We’ll also examine various themes and topics, including:
 
 **NOTE:** In-person tickets are limited and going quickly, so sign-up fast!
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 
 Our team will send a reminder email prior to the event.
