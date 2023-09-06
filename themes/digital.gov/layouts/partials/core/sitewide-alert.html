@@ -17,9 +17,8 @@
 
     @example standard
     {{- partialCached "core/sitewide-alert.html" (dict "variant" "standard" "text_bold" "Hawaii wildfires" "text" "guidance for U.S. government websites and social media" "link_text" "digital.gov/hawaii-wildfires" "link_href" "/resources/hawaii-wildfires-guidance-for-us-government/") -}}
-
-    @example standard-list & emergency-list
-    {{- partialCached "core/sitewide-alert.html" (dict "variant" "standard-list" "heading" "Guidance for U.S. government websites and social media for:" "list_text_first" "Hawaii wildfires:" "list_link_text_first" "digital.gov/hawaii-wildfires" "list_link_href_first" "/resources/hawaii-wildfires-guidance-for-us-government/" "list_text_second" "Hurricane Idalia:" "list_link_text_second" "digital.gov/hurricane-idalia" "list_link_href_second" "/resources/hurricane-idalia-guidance-for-us-government/") -}}
+@example standard-list & emergency-list
+{{- partialCached "core/sitewide-alert.html" (dict "variant" "standard-list" "heading" "Guidance for U.S. government websites and social media for:" "list_text_first" "Hawaii wildfires:" "list_link_text_first" "digital.gov/hawaii-wildfires" "list_link_href_first" "/resources/hawaii-wildfires-guidance-for-us-government/" "list_text_second" "Hurricane Idalia:" "list_link_text_second" "digital.gov/hurricane-idalia" "list_link_href_second" "/resources/hurricane-idalia-guidance-for-us-government/") -}}
 */}}
 <!-- prettier-ignore-end -->
 
@@ -45,7 +44,6 @@
 {{ $component_class := "" }}
 {{/* variable boolean flag for displaying the list */}}
 {{ $is_list := cond (or (eq $variant "standard-list") (eq $variant "emergency-list")) true false }}
-
 
 {{/* Logic Checks */}}
 {{ if or (eq $variant "standard") (eq $variant "standard-list") }}
@@ -90,7 +88,9 @@
             {{ range .Site.Data.site_alert.data }}
               <li>
                 {{ if .link_href }}
-                  <a class="usa-link" href="{{- .link_href -}}">{{ .link_text }}</a>
+                  <a class="usa-link" href="{{- .link_href -}}"
+                    >{{ .link_text }}</a
+                  >
                 {{ end }}
                 {{ .text }}
                 {{ .link_text }}
