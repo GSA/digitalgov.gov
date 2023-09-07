@@ -2,7 +2,7 @@
 slug: using-visual-content-to-drive-engagement
 date: 2014-06-23 10:00:41 -0400
 title: "Using Visual Content to Drive Engagement"
-summary: "when USA.gov was preparing to launch our campaign introducing the 2014 Consumer Action Handbook (CAH), we wanted to create highly-visual social content to see how it would do in comparison to standard text and link social media content."
+summary: "When USA.gov was preparing to launch our campaign introducing the 2014 Consumer Action Handbook (CAH), we wanted to create highly-visual social content to see how it would do in comparison to standard text and link social media content."
 
 authors:
   - jonathan-rubin
