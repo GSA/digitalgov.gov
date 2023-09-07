@@ -17,15 +17,18 @@ topics:
 
 ---
 
+{{< note "alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
+To request other free U.S. government publications, visit the U.S. Government Publishing Office (GPO) [Pueblo Distribution Center website](https://pueblo.gpo.gov/).{{< /note >}}
+
 E-books are great for one thing: reading on mobile devices. Their [reflowable](https://en.wikipedia.org/wiki/Reflowable_document) text adjusts to fit the reader’s smartphone, tablet, or e-reader in the type size the reader chooses. They are essential for reading on smartphones, and better than pdf’s for all but the biggest tablets.
 
 But e-books are not great for design. They’re generally single column, with images “anchored” within the text flow. Graphical enhancements are very limited, and are supported differently (if at all) on different devices. The layout will change with the e-reader it’s viewed on, and with the e-reader’s font and type size settings.
 
-Both images below show the beginning of Part I of the 2013 Consumer Action Handbook. The first image is from the pdf of the print version [(view full size)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2013-CAH-Buyer_Beware_Print_pdf.png).
+Both images below show the beginning of Part I of the 2013 Consumer Action Handbook. The first image is from the pdf of the print version [(view full size image)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2013-CAH-Buyer_Beware_Print_pdf.png).
 
 {{< legacy-img src="2014/03/2013-CAH-Buyer_Beware_Print_pdf_232x300-193x250.png" alt="Click here to view the printed PDF version at full size." >}}       
 
-The second image is from the e-book on the NOOK Color e-reader device. Note the e-book’s simplified, single-column layout [(view full size)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2013-CAH-Buyer-Beware-Nook-Color.png).
+The second image is from the e-book on the NOOK Color e-reader device. Note the e-book’s simplified, single-column layout [(view full size image)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2013-CAH-Buyer-Beware-Nook-Color.png).
 
 {{< legacy-img src="2014/03/2013-CAH-Buyer-Beware-Nook-Color_176x300-146x250.png" alt="Click here to view the Nook Color version at full size." >}}
 
@@ -41,11 +44,11 @@ The [Government Printing Office](http://www.gpo.gov/), the federal government’
 
 The [Government Online Bookstore’s e-books section](http://bookstore.gpo.gov/ebooks) lists more than 250 publications, from the departments of Defense, Transportation, Labor, and others, most in the 200+ page printed length. Most are history or reference books or government reports. And while the federal publishing community as a whole has not yet widely embraced e-books, a few individual agencies, including [NASA](http://www.nasa.gov/connect/ebooks/index.html) and the [Department of Housing and Urban Development](http://www.huduser.org/portal/eBookStore.html), have.
 
-The first image below shows the beginning of the 2011 Consumer Action Handbook’s Banking section in Kindle for PC preview software [(view full size)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2011-CAH-Banks-Kindle-for-PC.png). 
+The first image below shows the beginning of the 2011 Consumer Action Handbook’s Banking section in Kindle for PC preview software [(view full size image)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2011-CAH-Banks-Kindle-for-PC.png). 
 
 {{< legacy-img src="2014/03/2011-CAH-Banks-Kindle-for-PC-247x250.png" alt="Image shows the beginning of the 2011 Consumer Action Handbook’s Banking section in Kindle for PC preview software" >}}
 
-The second image shows the same section on the Kindle Keyboard e-reader device [(view full size)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2011-CAH-Banks-Kindle-Keyboard.gif).
+The second image shows the same section on the Kindle Keyboard e-reader device [(view full size image)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/2011-CAH-Banks-Kindle-Keyboard.gif).
 
 {{< legacy-img src="2014/03/2011-CAH-Banks-Kindle-Keyboard-187x250.gif" alt="Image shows the beginning of the 2011 Consumer Action Handbook’s Banking section on the Kindle Keyboard e-reader device" >}}
   
