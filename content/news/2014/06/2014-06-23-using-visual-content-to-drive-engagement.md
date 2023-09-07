@@ -2,7 +2,7 @@
 slug: using-visual-content-to-drive-engagement
 date: 2014-06-23 10:00:41 -0400
 title: "Using Visual Content to Drive Engagement"
-summary: "when USA.gov was preparing to launch our campaign introducing the 2014 Consumer Action Handbook (CAH), we wanted to create highly-visual social content to see how it would do in comparison to standard text and link social content."
+summary: "when USA.gov was preparing to launch our campaign introducing the 2014 Consumer Action Handbook (CAH), we wanted to create highly-visual social content to see how it would do in comparison to standard text and link social media content."
 
 authors:
   - jonathan-rubin
@@ -16,6 +16,9 @@ topics:
   - usagov
 
 ---
+
+{{< note "alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
+To request other free U.S. government publications, visit the U.S. Government Publishing Office (GPO) [Pueblo Distribution Center website](https://pueblo.gpo.gov/).{{< /note >}}
 
 You’ve probably noticed the trend toward more visual content being shared across social platforms—pictures, infographics and how-to videos seem to be popping up everywhere.
 
@@ -51,4 +54,4 @@ What has your experience been with visuals and multimedia?
 
 _**Jessica Milcetich** is a Social Media and Digital Strategist on the USA.gov marketing team at the U.S. General Services Administration (GSA)._
 
-_This article is part of this month&#8217;s editorial theme on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month's editorial theme on Social Media. Check out more articles related to this theme._
