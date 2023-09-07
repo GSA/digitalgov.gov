@@ -1,42 +1,57 @@
 /**
  * Sets the most recent commit timestamp for the page
- * This is displayed in #page-data section at the bottom of the page
+ * This is displayed in div.gh-commit-date section at the bottom of the page
  */
 
 // eslint-disable-next-line func-names
 (function () {
-  const editPageLink = document.querySelector("#page-data .gh-commit-date");
-  const gitRepo = {
-    filepath: "",
-    branch: null,
-  };
+  const baseURL = `https://github.com/GSA/digitalgov.gov`;
+  const apiURL = `https://api.github.com/repos/gsa/digitalgov.gov`;
+  const editPageLink = document.querySelector(".gh-commit-date");
 
   /**
-   * Get hugo file path from the data-gh-edit-page attribute to link to Github repo location
-   * example string: news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
+   * Get hugo file path from the [data-gh-edit-page] attribute to link to Github repo location
+   * @returns {string} news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
    */
-  function getFilepath() {
-    if (editPageLink) {
-      gitRepo.filepath = document
-        .querySelector("div[data-gh-edit-page]")
-        .getAttribute("data-gh-edit-page");
+  function setFilepath() {
+    if (!editPageLink) {
+      return "";
     }
+
+    return document
+      .querySelector("[data-gh-edit-page]")
+      .getAttribute("data-gh-edit-page");
   }
 
   /**
-   * Set the branch from the URL path
    * If on cloud.pages get the branch name from the URL
-   * Otherwise, use main for localhost and production
+   * Otherwise, use "main" for localhost and production
+   *
+   * @example:
+   * Given: https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-site-alert-component/
+   * Expect: nl-site-alert-component
+   *
+   * @returns {string} example string: nl-site-alert-component
    */
-  function getBranch() {
+  function setBranch() {
     const host = window.location.hostname;
-    if (host.includes("sites.pages.cloud.gov")) {
-      // eslint-disable-next-line prefer-destructuring
-      gitRepo.branch = window.location.pathname.split("/")[4];
+    let currentBranch = "";
+    if (!host.includes("sites.pages.cloud.gov")) {
+      currentBranch = "main";
     } else {
-      gitRepo.branch = "main";
+      // eslint-disable-next-line prefer-destructuring
+      currentBranch = host.split("/")[4];
     }
+    return currentBranch;
   }
+
+  /**
+   * Object for storing the git file edit path and branch
+   */
+  const gitRepo = {
+    filepath: setFilepath(),
+    branch: setBranch(),
+  };
 
   /**
    * format github ISO date format to human friendly datetime string
@@ -59,6 +74,9 @@
       timeZoneName: "shortGeneric",
     };
 
+    // `undefined` is used for the locales parameter, it let's the local host determine the date formatting based on region
+    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
+    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat#locales
     const outputDate = inputDate.toLocaleDateString(undefined, dateOptions);
     const outputTime = inputDate
       .toLocaleTimeString("en-US", timeOptions)
@@ -68,40 +86,13 @@
   }
 
   /**
-   * Add "Edit" link to the #page-data element before the "Last updated on" commit timestamp
-   * Checks if page has the #page-data element for single pages, not displayed on landing pages
-   */
-  function displayGithubEditLink() {
-    const gitEditFilePath = `https://github.com/GSA/digitalgov.gov/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
-    if (gitEditFilePath) {
-      const githubEditLink = Object.assign(document.createElement("a"), {
-        classList: "gh-commit-date__edit-button",
-        href: `${gitEditFilePath}`,
-        innerHTML: "Edit",
-        target: "_blank",
-        title: "Edit in GitHub",
-      });
-
-      if (editPageLink) editPageLink.appendChild(githubEditLink);
-    }
-  }
-
-  /**
    * Retrieves Github API commit information for single hugo resource/page
    * Uses branchPath and gitRepo.filepath to build Github URL
+   * @returns {string} commit date string — 2023-09-06T21:05:57Z
    */
-
   // eslint-disable-next-line consistent-return
   async function getCommitData() {
-    let branchPath;
-    if (gitRepo.branch === "main") {
-      branchPath = "";
-    } else {
-      branchPath = `/${gitRepo.branch}`;
-    }
-
-    // eslint-disable-next-line camelcase
-    const commitApiPath = `https://api.github.com/repos/gsa/digitalgov.gov/commits${branchPath}?path=/content/${gitRepo.filepath}`;
+    const commitApiPath = `${apiURL}/commits/${gitRepo.branch}?path=/content/${gitRepo.filepath}`;
 
     if (commitApiPath !== undefined) {
       const githubResponse = await fetch(`${commitApiPath}`);
@@ -113,22 +104,29 @@
       const githubData = await githubResponse.json();
 
       if (typeof githubData !== "undefined" || githubData.length !== 0) {
-        // showLastCommit(githubData);
-        return githubData;
+        let commitDate = Array.isArray(githubData) ? githubData[0] : githubData;
+        commitDate = commitDate.commit.committer.date;
+        return commitDate;
       }
     }
   }
 
   /**
-   * Display github commit date in <p> tag at bottom of page
-   * Creates the markup and adds the commit date and URL path for editing on github
-   * @param {json} data response object from github api /commit endpoint
+   * Display the github commit date in div.gh-commit-date element
+   * Creates and displays the markup for reading and editing the most recent commit date
    */
   async function displayGithubCommitLink() {
-    const data = await getCommitData();
-    const commitData = Array.isArray(data) ? data[0] : data;
-    const commitDate = commitData.commit.committer.date;
-    const commitHistoryUrl = `https://github.com/GSA/digitalgov.gov/commits/${gitRepo.branch}/content/${gitRepo.filepath}`;
+    const commitDate = await getCommitData();
+    const commitHistoryUrl = `${baseURL}/commits/${gitRepo.branch}/content/${gitRepo.filepath}`;
+    const gitEditFilePath = `${baseURL}/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
+
+    const githubEditLink = Object.assign(document.createElement("a"), {
+      classList: "gh-commit-date__edit-button",
+      href: `${gitEditFilePath}`,
+      innerHTML: "Edit",
+      target: "_blank",
+      title: "Edit in GitHub",
+    });
 
     const lastCommitParagraph = Object.assign(document.createElement("p"), {
       classList: "gh-commit-date__description",
@@ -147,13 +145,16 @@
     lastCommitLink.appendChild(lastCommitSpan);
     lastCommitParagraph.appendChild(lastCommitLink);
 
+    const githubCommitFragment = new DocumentFragment();
+
+    githubCommitFragment.appendChild(githubEditLink);
+    githubCommitFragment.appendChild(lastCommitParagraph);
+
+    // if on a page that has a div.gh-commit-date element
     if (editPageLink) {
-      editPageLink.appendChild(lastCommitParagraph);
+      editPageLink.appendChild(githubCommitFragment);
     }
   }
 
-  getFilepath();
-  getBranch();
-  displayGithubEditLink();
   displayGithubCommitLink();
 })();
