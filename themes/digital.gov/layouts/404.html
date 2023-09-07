@@ -7,12 +7,11 @@
     {{ end }}
 
 
-    <main role="main" id="main-content">
+    <main role="main" id="main-content" data-gh-edit-page="{{- $path -}}">
       <article>
         <header>
           <div
             class="grid-container grid-container-desktop"
-            data-gh-edit-page="{{- $path -}}"
           >
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}}</h1>
@@ -27,7 +26,6 @@
         <section>
           <div
             class="grid-container grid-container-desktop"
-            data-gh-edit-page="{{- $path -}}"
           >
             <div class="grid-row">
               <div class="grid-col-12 tablet:grid-col-9">

@@ -2,16 +2,16 @@
  * Sets the most recent commit timestamp for the page
  * This is displayed in div.gh-commit-info section at the bottom of the page
  */
-
-// eslint-disable-next-line func-names
-(function () {
+(() => {
   const baseURL = `https://github.com/GSA/digitalgov.gov`;
   const apiURL = `https://api.github.com/repos/gsa/digitalgov.gov`;
   const editPageLink = document.querySelector(".gh-commit-info__container");
 
   /**
    * Get hugo file path from the [data-gh-edit-page] attribute to link to Github repo location
-   * @returns {string} news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
+   * @returns {string} hugo file path
+   * @example
+   * news/2023/07/2023-07-19-gsa-shared-service-provider-program-guide.md
    */
   function setFilepath() {
     if (!editPageLink) {
@@ -26,12 +26,10 @@
   /**
    * If on cloud.pages get the branch name from the URL
    * Otherwise, use "main" for localhost and production
-   *
+   * @returns {string} branch name
    * @example:
    * Given: https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-site-alert-component/
    * Expect: nl-site-alert-component
-   *
-   * @returns {string} example string: nl-site-alert-component
    */
   function setBranch() {
     const host = window.location.hostname;
@@ -54,9 +52,12 @@
   };
 
   /**
-   * format github ISO date format to human friendly datetime string
+   * Takes a github ISO date format and converts it to a human friendly datetime string
    * @param {timezone} timezoneDate YYYY-MM-DDTHH:MM:SSZ
-   * @returns {string} Formatted string that reads "Jul 6, 2023 at 5:23 p.m., ET"
+   * @returns {string} Formatted datetime string
+   * @example
+   *  returns string:
+   *  "Jul 6, 2023 at 5:23 p.m., ET"
    */
   function formatDate(timezoneDate) {
     const inputDate = new Date(timezoneDate);
@@ -74,7 +75,7 @@
       timeZoneName: "shortGeneric",
     };
 
-    // `undefined` is used for the locales parameter, it let's the local host determine the date formatting based on region
+    // `undefined` is used for the locales parameter, this option lets the local host determine the date formatting based on browser region location
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat#locales
     const outputDate = inputDate.toLocaleDateString(undefined, dateOptions);
