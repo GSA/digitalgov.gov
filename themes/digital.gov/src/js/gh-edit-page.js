@@ -4,23 +4,31 @@
   const githubEditLinks = document.querySelectorAll("[data-gh-edit-page]");
   const editToolsButton = document.querySelector(".gh-edit-tools");
   const repoBaseUrl = "https://github.com/gsa/digitalgov.gov";
-  const gitRepo = {
-    filepath: null,
-    branch: null,
-  };
 
   /**
-   * Gets the branch from the URL path to set the github filepath
-   * If on cloud.pages then get the branch name from the URL
-   * Otherwise, use main for local host and production
+   * If on cloud.pages get the branch name from the URL
+   * Otherwise, use "main" for localhost and production
+   * @returns {string} branch name
+   * @example:
+   * Given: https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-site-alert-component/
+   * Expect: nl-site-alert-component
    */
-  const host = window.location.hostname;
-  if (host.includes("sites.pages.cloud.gov")) {
-    // eslint-disable-next-line prefer-destructuring
-    gitRepo.branch = window.location.pathname.split("/")[4];
-  } else {
-    gitRepo.branch = "main";
+  function setBranch() {
+    const host = window.location.hostname;
+    let currentBranch = "";
+    if (!host.includes("sites.pages.cloud.gov")) {
+      currentBranch = "main";
+    } else {
+      // eslint-disable-next-line prefer-destructuring
+      currentBranch = host.split("/")[4];
+    }
+    return currentBranch;
   }
+
+  const gitRepo = {
+    filepath: null,
+    branch: setBranch(),
+  };
 
   /**
    * Adds github "button" link and highlight style to Github items
