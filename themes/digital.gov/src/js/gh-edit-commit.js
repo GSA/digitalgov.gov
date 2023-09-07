@@ -1,13 +1,13 @@
 /**
  * Sets the most recent commit timestamp for the page
- * This is displayed in div.gh-commit-date section at the bottom of the page
+ * This is displayed in div.gh-commit-info section at the bottom of the page
  */
 
 // eslint-disable-next-line func-names
 (function () {
   const baseURL = `https://github.com/GSA/digitalgov.gov`;
   const apiURL = `https://api.github.com/repos/gsa/digitalgov.gov`;
-  const editPageLink = document.querySelector(".gh-commit-date");
+  const editPageLink = document.querySelector(".gh-commit-info__container");
 
   /**
    * Get hugo file path from the [data-gh-edit-page] attribute to link to Github repo location
@@ -112,7 +112,7 @@
   }
 
   /**
-   * Display the github commit date in div.gh-commit-date element
+   * Display the github commit date in div.gh-commit-info element
    * Creates and displays the markup for reading and editing the most recent commit date
    */
   async function displayGithubCommitLink() {
@@ -121,7 +121,7 @@
     const gitEditFilePath = `${baseURL}/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
 
     const githubEditLink = Object.assign(document.createElement("a"), {
-      classList: "gh-commit-date__edit-button",
+      classList: "gh-commit-info__edit-button",
       href: `${gitEditFilePath}`,
       innerHTML: "Edit",
       target: "_blank",
@@ -129,7 +129,7 @@
     });
 
     const lastCommitParagraph = Object.assign(document.createElement("p"), {
-      classList: "gh-commit-date__description",
+      classList: "gh-commit-info__description",
       innerHTML: "Last updated on ",
     });
 
@@ -138,7 +138,7 @@
     });
 
     const lastCommitSpan = Object.assign(document.createElement("span"), {
-      classList: "gh-commit-date__timestamp",
+      classList: "gh-commit-info__timestamp",
       innerHTML: `${formatDate(commitDate)}`,
     });
 
@@ -150,7 +150,7 @@
     githubCommitFragment.appendChild(githubEditLink);
     githubCommitFragment.appendChild(lastCommitParagraph);
 
-    // if on a page that has a div.gh-commit-date element
+    // if on a page that has a div.gh-commit-info element
     if (editPageLink) {
       editPageLink.appendChild(githubCommitFragment);
     }
