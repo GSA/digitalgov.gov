@@ -2,7 +2,7 @@
 slug: consumer-action-handbook-usability-case-study
 date: 2014-06-06 10:00:32 -0400
 title: "Consumer Action Handbook &#8211; Usability Case Study"
-summary: "The Consumer Action Handbook was a guide to making smarter decisions with your money. It's print and online formats were available in English and Spanish, and included a compilation of buying tips from across government agencies, updates on the latest scams, and a robust consumer contact directory."
+summary: "The Consumer Action Handbook is a guide to making smarter decisions with your money. It's print and online formats, available in English and Spanish, include a compilation of buying tips from across government agencies, updates on the latest scams, and a robust consumer contact directory."
 
 authors:
   - tlowden
