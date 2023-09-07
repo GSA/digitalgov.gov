@@ -17,8 +17,8 @@ topics:
 
 ---
 
-{{< note "alert" >}}**The Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
-To request free U.S. government publications, visit the U.S. Government Publishing Office (GPO) [Pueblo Distribution Center website](https://pueblo.gpo.gov/), or place an order via GPO's [online bookstore](https://bookstore.gpo.gov/).{{< /note >}}
+{{< note "alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
+To request free U.S. government publications, visit the U.S. Government Publishing Office (GPO) [Pueblo Distribution Center website](https://pueblo.gpo.gov/).{{< /note >}}
 
 You’ve probably noticed the trend toward more visual content being shared across social platforms—pictures, infographics and how-to videos seem to be popping up everywhere.
 
