@@ -1,32 +1,31 @@
 @use "uswds-core" as *;
 
 .gh-commit-info {
-  @include u-margin-y("105");
+  margin: units("105") 0;
 
   &__container {
-    @include u-margin-top(2);
-    @include u-padding-y(2);
-    @include u-border-top("1px", "solid", "base-light");
-    @include u-display("flex");
-    @include u-flex("align-center");
-    @include u-flex("justify-center");
+    align-items: center;
+    border-top: 1px color("base-light") solid;
+    display: flex;
+    justify-content: center;
+    margin-top: units(2);
+    padding: units(2) 0;
   }
 
   &__edit-button {
-    @include u-padding-x(1);
-    @include u-padding-y("2px");
-    @include u-bg("white");
-    @include u-border("2px", "solid", "blue-warm-50v");
     @include u-font("sans", "xs");
-    @include u-radius("md");
-    @include u-text("blue-warm-50v");
-    @include u-text("medium");
-    @include u-text("no-underline");
+    background-color: white;
+    border: 2px color("blue-warm-50v") solid;
+    border-radius: 0.25rem;
+    color: color("blue-warm-50v");
+    font-weight: 600;
+    padding: units("2px") units(1);
+    text-decoration: none;
   }
 
   &__description {
-    @include u-margin(0);
-    @include u-padding-x(1);
     @include u-font("sans", "xs");
+    margin: 0;
+    padding: 0 units(1);
   }
 }
