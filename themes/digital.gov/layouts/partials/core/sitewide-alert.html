@@ -1,105 +1,18 @@
-<!-- prettier-ignore-start -->
-{{/*
-  
-    USWDS Site Alert Component — https://designsystem.digital.gov/components/site-alert/
-    Display a sitewide alert at the top of the page
-
-    @param {string} variant - variant types: [standard, standard-list, emergency, emergency-no-header, emergency-slim, emergency-no-icon, emergency-list]
-    @param {string} heading - copy for heading
-    @param {string} text_bold - bold copy text that comes before text
-    @param {string} text - copy for body text
-    @param {string} link_text - copy for link
-    @param {href}   link_href - url for link, e.g. "/resources/hawaii-wildfires-guidance-for-us-government/"
-    @param {string} list_text_first - copy for first list item
-    @param {string} list_link_text_first - link path for first list item
-    @param {href}   list_link_href_first - URL for first list link
-    @param {string} aria_label - optional text for aria label
-
-    @example standard
-    {{- partialCached "core/sitewide-alert.html" (dict "variant" "standard" "text_bold" "Hawaii wildfires" "text" "guidance for U.S. government websites and social media" "link_text" "digital.gov/hawaii-wildfires" "link_href" "/resources/hawaii-wildfires-guidance-for-us-government/") -}}
-@example standard-list & emergency-list
-{{- partialCached "core/sitewide-alert.html" (dict "variant" "standard-list" "heading" "Guidance for U.S. government websites and social media for:" "list_text_first" "Hawaii wildfires:" "list_link_text_first" "digital.gov/hawaii-wildfires" "list_link_href_first" "/resources/hawaii-wildfires-guidance-for-us-government/" "list_text_second" "Hurricane Idalia:" "list_link_text_second" "digital.gov/hurricane-idalia" "list_link_href_second" "/resources/hurricane-idalia-guidance-for-us-government/") -}}
-*/}}
-<!-- prettier-ignore-end -->
-
-{{/* Settings */}}
-{{ $variant := .variant }}
-{{ $heading := .heading }}
-{{ $text_bold := .text_bold }}
-{{ $text := .text }}
-{{ $link_text := .link_text }}
-{{ $link_href := .link_href }}
-{{ $aria_label := .aria_label | default "Site Alert" }}
-{{ $list_text_first := .list_text_first }}
-{{ $list_link_text_first := .list_link_text_first }}
-{{ $list_link_href_first := .list_link_href_first }}
-{{ $list_text_second := .list_text_second }}
-{{ $list_link_text_second := .list_link_text_second }}
-{{ $list_link_href_second := .list_link_href_second }}
-{{ $list_text_third := .list_text_third }}
-{{ $list_link_text_third := .list_link_text_third }}
-{{ $list_link_href_third := .list_link_href_third }}
-
-{{/* variable for holding the component class names */}}
-{{ $component_class := "" }}
-{{/* variable boolean flag for displaying the list */}}
-{{ $is_list := cond (or (eq $variant "standard-list") (eq $variant "emergency-list")) true false }}
-
-{{/* Logic Checks */}}
-{{ if or (eq $variant "standard") (eq $variant "standard-list") }}
-  {{ $component_class = "usa-site-alert--info" }}
-{{ else if or (eq $variant "emergency") (eq $variant "emergency-list") }}
-  {{ $component_class = "usa-site-alert--emergency" }}
-{{ else if eq $variant "emergency-no-header" }}
-  {{ $component_class = "usa-site-alert--emergency usa-site-alert--no-heading" }}
-{{ else if eq $variant "emergency-slim" }}
-  {{ $component_class = "usa-site-alert--emergency usa-site-alert--slim" }}
-{{ else if eq $variant "emergency-no-icon" }}
-  {{ $component_class = "usa-site-alert--emergency usa-site-alert--no-icon" }}
-{{ end }}
-
-{{/* Template */}}
-
-{{ if $component_class }}
-  <section
-    class="usa-site-alert {{ $component_class }}"
-    aria-label="{{ $aria_label }}"
-  >
-    <div class="usa-alert">
-      <div class="usa-alert__body">
-        {{ if $heading }}
-          <h3 class="usa-alert__heading">{{ $heading }}</h3>
-        {{ end }}
-        {{ if $text }}
+{{ range .Site.Data.sitewide_alert }}
+  {{ $is_emergency := .is_emergency }}
+  {{ $has_icon := .has_icon }}
+  {{ if (eq .display true ) }}
+    <section class="usa-site-alert {{ if $is_emergency }}usa-site-alert--emergency {{ else }}usa-site-alert--info{{ end }}{{ if not $has_icon }}usa-site-alert--no-icon {{ end }}" aria-label="Site alert">
+      <div class="usa-alert">
+        <div class="usa-alert__body">
+          <h3 class="usa-alert__heading">{{- .header -}}</h3>
           <p class="usa-alert__text">
-            {{ if $text_bold }}
-              <strong>{{ $text_bold }}</strong>
-            {{ end }}
-            {{ $text }}
-            {{ if $link_text }}
-              <a class="usa-link" href="{{- $link_href | relURL -}}"
-                >{{ $link_text }}</a
-              >
-            {{ end }}
+            <strong>Bold text emphasis text</strong>
+            followed by main message text
+            <a class="usa-link" href="">Hurricane Idalia</a>
           </p>
-        {{ end }}
-        {{ if $is_list }}
-          <ul class="usa-list">
-            {{ range .Site.Data.site_alert.data }}
-              <li>
-                {{ if .link_href }}
-                  <a class="usa-link" href="{{- .link_href -}}"
-                    >{{ .link_text }}</a
-                  >
-                {{ end }}
-                {{ .text }}
-                {{ .link_text }}
-                {{ .link_href }}
-              </li>
-            {{ end }}
-          </ul>
-        {{ end }}
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
+  {{ end }}
 {{ end }}

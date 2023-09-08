@@ -1,0 +1,15 @@
+# is_emergency: true will display with orange emergency colors else will display as blue info box
+#
+#
+
+data:
+  display: true
+  is_emergency: true
+  has_icon: false
+  # slim: false
+  header: "Guidance for U.S. government websites and social media for:"
+  # text_bold: "Warning to users"
+  # text_normal: "this is an official alert"
+  # link_text: "digital.gov/hawaii-wildfires"
+  # link_href: "/resources/hawaii-wildfires-guidance-for-us-government/"
+  # aria_label: "Site alert"
