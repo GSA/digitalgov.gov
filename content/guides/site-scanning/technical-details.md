@@ -27,7 +27,7 @@ The Site Scanning program maintains a number of automated processes that, togeth
 - The resulting information is stored in a database that is queryable via API, but each week, a series of static snapshot of the data are generated and made available for download.  
   - [API Documentation](https://open.gsa.gov/api/site-scanning-api/).
   - The ['All' snapshot](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot-all.csv) (CSV) includes every URL in the Federal Website Index.
-  - The ['Primary' snapshot](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.csv) (CSV) is a subset of the initial snapshot and includes only live URLs. This is likely the best starting point for most users.
+  - The ['Primary' snapshot](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.csv) (CSV) is a subset of the initial snapshot and includes only live, human-readable URLs. This is likely the best starting point for most users.
   - The ['Unique Final URL' snapshot](https://raw.githubusercontent.com/GSA/site-scanning-analysis/main/unique_website_list/results/weekly-snapshot-unique-final-urls.csv) (CSV) then further trims the Primary snapshot by removing duplicative Final URLs ([details](https://github.com/GSA/site-scanning-analysis/tree/main/unique_website_list/results#readme)).
   - The ['Unique Final Website' snapshot](https://raw.githubusercontent.com/GSA/site-scanning-analysis/main/unique_website_list/results/weekly-snapshot-unique-final-websites.csv) (CSV) then finally trims the Unique Final URL snapshot by removing duplicative Final URL - Base Websites ([details](https://github.com/GSA/site-scanning-analysis/tree/main/unique_website_list/results#readme)). This is arguably the best count of federal public .gov websites.
 
