@@ -7,7 +7,7 @@ slug: 21st-century-integrated-digital-experience-act
 date: 2019-11-01 3:00:00 -0500
 title: "21st Century Integrated Digital Experience Act"
 deck: "21st Century IDEA aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
-summary: "21st Century IDEA aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
+summary: "21st Century IDEA aims to improve the digital experience for government customers."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -24,7 +24,7 @@ authors:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 1
+weight: 10
 
 # primary Image (for social media)
 primary_image: "21st-century-idea-resource-card"

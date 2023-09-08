@@ -14,8 +14,7 @@ topics:
   - cx
   - mobile
   - content-strategy
-  - apps
-  - fema
+  - mobile-apps
   - thursday-mobile-products
 
 # see all authors at https://digital.gov/authors
@@ -26,8 +25,8 @@ authors:
 primary_image: "fema-mobile-app-home-updated"
 
 # Make it better ♥
----
 
+---
 
 “If it’s not broke, don’t fix it,” doesn’t work with mobile apps. A patch, update, or platform change upstream often means preventive maintenance downstream. The unavoidable fixes keep things from getting dammed up, even if there’s no sure way to prevent every interruption of the information flow.
 

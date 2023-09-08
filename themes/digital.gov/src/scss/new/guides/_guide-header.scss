@@ -1,0 +1,20 @@
+@use "uswds-core" as *;
+
+.dg-guide__header {
+  @include at-media("tablet") {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  &-title {
+    margin-top: units(5);
+    max-width: 100%;
+  }
+
+  &-image {
+    height: units("card-lg");
+    margin-top: units(5);
+    max-width: units("mobile-lg");
+  }
+}

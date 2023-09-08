@@ -13,7 +13,7 @@ topics:
   - american-battle-monuments-commission
   - mobile-apps
   - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
+ 
 ---
 
 <div class="testimonial small">

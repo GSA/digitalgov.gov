@@ -1,0 +1,51 @@
+@use "uswds-core" as *;
+
+.dg-guide__container {
+  display: flex;
+}
+
+.dg-guide__content {
+  flex-shrink: 1;
+
+  &-body {
+    margin-bottom: units(5);
+    overflow: hidden;
+
+    h2,
+    h3 {
+      @include u-measure(6);
+
+      &:focus {
+        outline: 0;
+      }
+    }
+
+    p {
+      @include u-measure(6);
+    }
+  }
+
+  &-header {
+    margin: units(5) 0;
+
+    &-deck {
+      @include u-font("sans", "xl");
+      @include u-measure(2);
+      color: color("primary-darker");
+      font-weight: font-weight("light");
+      margin-top: 0;
+    }
+
+    &-title {
+      @include u-font("sans", "2xl");
+      @include u-measure(2);
+      font-weight: font-weight("bold");
+      margin-bottom: 0;
+    }
+  }
+}
+
+// Needed to corrrect for header height when scrolling on guide pages
+html {
+  scroll-padding-top: units(15);
+}

@@ -16,7 +16,7 @@ topics:
   - mobile-gov
   - social-media
   - us-digital-registry
-  - usa-gov-federal-mobile-apps-directory
+ 
 ---
 
 We have received an amazing response to the [U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}), our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.

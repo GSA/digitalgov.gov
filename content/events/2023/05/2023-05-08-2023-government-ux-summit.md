@@ -23,6 +23,7 @@ topics:
   - design
   - cx
   - accessibility
+  - mobile-apps
 
 slug: 2023-government-ux-summit
 

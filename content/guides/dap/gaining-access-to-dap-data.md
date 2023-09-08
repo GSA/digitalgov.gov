@@ -1,9 +1,10 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Gaining Access to the Data"
+title: "Gaining access to the data"
 deck: ""
-summary: ""
+summary: "The best way to register for access to the DAP reporting interface."
 guide: dap
+primary_image: guide-dap
 aliases:
   - /services/dap/gaining-access-to-dap-data/
   - /guide/dap/gaining-access-to-dap-data/

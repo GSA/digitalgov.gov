@@ -9,15 +9,12 @@
 */}}
 {{ $list_item := .list_item }}
 {{ $variant := .variant }}
-{{ $link_external := false }}
+{{ $link_external := false }} {{/* TODO: fix external link logic to work on all environments */}}
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
 {{ $href := .href }}
 {{ $url := urls.Parse $href }}
 {{ $meta_source := .meta_source }}
-
-{{/*  Check if external link  */}}
-{{ $link_external := cond (ne $url.Host "www.digital.gov") true false }}
 
 {{- with .list_item -}}
   {{ $path := "" }}{{ with .File }}

@@ -7,7 +7,7 @@ topics:
   - mobile
   - DOT
   - National Highway Traffic Safety Administration
-  - usa-gov-federal-mobile-apps-directory
+ 
 ---
 
 {{< legacy-img src="2014/06/250-x-440-SaferCar-Android-Apps-on-Google-Play.jpg" alt="Screen capture of the Android Safer Car app on Google Play" >}}With the [start of &#8220;astronomical summer&#8221;](http://www.ncdc.noaa.gov/news/meteorological-versus-astronomical-summer) later this week on June 21, that means two things: road trips and car buying.

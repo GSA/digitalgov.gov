@@ -59,7 +59,7 @@ For 20+ years, Beth has led business development efforts and program execution t
 - [Systran Translation Tool](https://translate.systran.net/translationTools/text)
 - [Designing for Translation](https://digital.gov/2018/12/20/designing-for-translation/)
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 
 ---
 

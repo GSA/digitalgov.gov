@@ -1,10 +1,12 @@
 ---
 date: 2020-07-28 09:00:00 -0500
-title: "Access the Data"
+title: "Access the data"
 guide: site-scanning
 aliases:
   - /guide/site-scanning/data/
   - /guides/site-scanning/download-the-data/
+summary: "Learn how to use access scan data via direct download and API."
+primary_image: guide-site-scanning
 
 ---
 

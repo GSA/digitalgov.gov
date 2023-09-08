@@ -1,0 +1,25 @@
+{{ define "content" }}
+  <main role="main" id="main-content">
+    <article class="dg-guide">
+      {{- partial "core/guides/guide-header.html" . -}}
+      {{- partial "core/guides/guide-menu-bar.html" . -}}
+      {{- $guideData := index $.Site.Data.guidenav -}}
+      {{ if .Params.guide }}
+        {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
+      {{ end }}
+      {{- if $guideData.showInPageNav -}}
+        <div class="dg-guide__container">
+          <aside class="dg-guide__nav">
+            {{- partial "core/guides/guide-sidenav.html" . -}}
+          </aside>
+          <div class="dg-guide__content">
+            {{- partial "core/guides/guide-content.html" . -}}
+          </div>
+        </div>
+      {{- else -}}
+        {{- partial "core/guides/guide-content.html" . -}}
+      {{- end -}}
+      {{- partial "core/glossary.html" . -}}
+    </article>
+  </main>
+{{ end }}

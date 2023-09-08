@@ -1,0 +1,9 @@
+@use "uswds-core" as *;
+
+.dg-attribution {
+  @include u-font("sans", "2xs");
+  color: color("gray-cool-60");
+  font-weight: font-weight("light");
+  min-width: 100%;
+  text-align: center;
+}

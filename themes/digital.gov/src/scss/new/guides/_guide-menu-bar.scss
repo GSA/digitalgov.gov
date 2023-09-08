@@ -1,0 +1,80 @@
+@use "uswds-core" as *;
+
+.dg-guide__menu-bar {
+  @include u-border-y("1px", "gray-cool-30", "solid");
+  @include u-z(200);
+  align-items: center;
+  background-color: color("gray-10");
+  display: flex;
+  height: units(10);
+  justify-content: center;
+  position: sticky;
+  top: -1px;
+  white-space: nowrap;
+
+  &-image-container {
+    flex-shrink: 0;
+    margin: 0 units(3);
+
+    a {
+      text-decoration: none;
+    }
+
+    img {
+      height: units(4);
+    }
+  }
+
+  &-link {
+    @include u-font("sans", "md");
+    @include u-text("light", "black");
+    margin: 0 units(3);
+    text-decoration: none;
+
+    &:hover {
+      @include u-border-bottom("05", "primary", "solid");
+      color: color("black");
+    }
+
+    &:visited {
+      color: color("black");
+    }
+  }
+
+  &-links {
+    // Fade out overflowing items when scrolling
+    mask: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding: 0 units(3);
+    scrollbar-width: none;
+  }
+
+  &-links::-webkit-scrollbar {
+    display: none;
+  }
+
+  &.sticky {
+    justify-content: space-evenly;
+
+    .dg-guide__menu-bar-image-container {
+      align-items: flex-end;
+      display: flex;
+    }
+  }
+
+  .dg-current {
+    @include u-border-bottom("05", "primary", "solid");
+    font-weight: font-weight("medium");
+  }
+
+  .dg-glossary__toggle {
+    display: inline;
+
+    &-icon {
+      margin-left: units(1);
+      // Set width explicitly for proper rendering on Safari browsers
+      width: units(5);
+    }
+  }
+}

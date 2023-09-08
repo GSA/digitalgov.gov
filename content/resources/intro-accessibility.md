@@ -5,8 +5,8 @@
 # slug (url path) — changing this requires a redirect
 slug: introduction-accessibility
 date: 2019-12-04 8:00:00 -0500
-title: "An Introduction to Accessibility"
-deck: ""
+title: "An introduction to accessibility"
+deck: "An introduction to accessibility, and why it matters."
 summary: "An introduction to accessibility, and why it matters."
 
 # see all topics at https://digital.gov/topics
@@ -25,6 +25,9 @@ primary_image: "accessibility-101-title-card"
 
 aliases:
   - /resources/intro-accessibility
+
+weight: 7
+
 # Make it better ♥
 
 ---

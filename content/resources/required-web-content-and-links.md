@@ -1,8 +1,8 @@
 ---
 date: 2011-12-05 12:37:26 -0400
-title: "Required Web Content and Links"
-deck: "A list of required links that all federal websites need to have"
-summary: "If you manage a public website in the federal government's executive branch, various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website."
+title: "Required web content and links"
+deck: "A list of required links that all federal websites need to have."
+summary: "Various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website."
 authors:
   - ndavidson
   - rflagg
@@ -17,7 +17,7 @@ topics:
   - cx
   - user-experience
 
-weight: 3
+weight: 8
 primary_image: "website-wireframes-ademay-istock-getty-images-plus-1235556451"
 
 ---

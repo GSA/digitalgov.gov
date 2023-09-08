@@ -1,6 +1,7 @@
 @use "uswds-core" as *;
 
 .card-quote {
+  @include u-measure(6);
   @include u-margin-bottom(3);
   @include u-bg("gold-5");
   @include u-radius("sm");
@@ -26,11 +27,11 @@
 
     cite {
       @include u-display("block");
+      @include u-margin-top(2);
       @include u-padding-right(4);
       @include u-text("right");
       @include u-text("italic");
       @include u-line-height("serif", 2);
-      @include u-measure(4);
       @include u-font("sans", "md");
     }
   }

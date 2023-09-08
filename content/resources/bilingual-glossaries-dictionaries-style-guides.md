@@ -143,7 +143,7 @@ The EPA’s [Glosario ambiental bilingüe](https://espanol.epa.gov/espanol/glosa
 
 #### San Francisco City and County
 
-The [Translation Glossary page](https://sfenvironment.org/download/translation-glossary) provides a link to download a Microsoft Excel.xlsx file for glossaries in three languages: Spanish, Vietnamese, and Filipino (Tagalog).
+The [Translation Glossary page](https://sfenvironment.org/download/sf-environment-translation-glossary) provides a link to download a .xlsx spreadsheet file for glossaries in three languages: Spanish, Chinese, and Filipino (Tagalog).
 
 ### Education
 
@@ -170,7 +170,7 @@ The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-cont
 
 #### The City and County of San Francisco
 
-The [Filipino Translation Style Guide](https://drive.google.com/file/d/0B5nsVoOnh9x8Ul9uYzNSRDlXY2M/view) provides guidelines for translation in the Filipino language for the City and County of San Francisco.
+The Office of Civic Engagement and Immigrant Affairs has [translation style guides for Chinese, Spanish, and Filipino](https://sites.google.com/site/sflanguageaccessordinance/other-resources/style-guides) for the City and County of San Francisco.
 
 #### National Institutes of Health (NIH)
 
@@ -178,9 +178,9 @@ NIH has a new Spanish Style Guide available in {{< asset-static file="NIH_Spanis
 
 ## Additional Resources
 
-- [Spanish Grammar](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/) <br />This page was peer reviewed by Leticia Molinero, Maria Cornelio and Jack Segura, members of the North American Academy of the Spanish Language (ANLE).
-- [Frequently Mistranslated English Terms](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/) <br />This page was peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE).
+- [Spanish Grammar](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/) <br />TThis page was peer reviewed by [Leticia Molinero](https://www.anle.us/nuestra-academia/miembros/academicos-de-numero/leticia-molinero/), Maria Cornelio, and [Jack Segura](https://www.anle.us/nuestra-academia/miembros/academicos-de-honor/joaquin-segura/), members of the North American Academy of the Spanish Language (ANLE).
+- [Frequently Mistranslated English Terms](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/) <br />This page was peer reviewed by [Leticia Molinero](https://www.anle.us/nuestra-academia/miembros/academicos-de-numero/leticia-molinero/), Maria Cornelio, and [Jack Segura](https://www.anle.us/nuestra-academia/miembros/academicos-de-honor/joaquin-segura/), members of the North American Academy of the Spanish Language (ANLE).
 - [Information Technology Terms](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/)
 - [Internet Resources English/Spanish Internet Terminology Glossaries](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/)
-- [Spanish Health Care Terms in the United States](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/) <br />This page was peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE).
+- [Spanish Health Care Terms in the United States](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/) <br />This page was peer reviewed by [Leticia Molinero](https://www.anle.us/nuestra-academia/miembros/academicos-de-numero/leticia-molinero/), Maria Cornelio, and [Jack Segura](https://www.anle.us/nuestra-academia/miembros/academicos-de-honor/joaquin-segura/), members of the North American Academy of the Spanish Language (ANLE).
 - [Glosario Técnico de Computación, Electrónica y Telecomunicaciones](https://www.certifiedchinesetranslation.com/Spanish/glosario.html) (computing, electronics and telecommunications glossary) <br />The glossary’s landing page is in Spanish. Click on the letter of the English term you need to translate and you’ll be directed to the Spanish equivalent term. Also included in the glossary are definitions (shown in italics when applicable) and the abbreviation of the country (listed in brackets) where a translation is used. If a country code is not shown, it is assumed that the translation is valid in all countries where Spanish is spoken.

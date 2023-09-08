@@ -105,14 +105,14 @@ If a person's gender isn't clear from their first name (e.g., Chris, Pat, Lesley
 
 #### Time
 
-- Time descriptors “ante meridiem” (before noon) and “post meridiem” (after noon) should be abbreviated with lowercase letters as am and pm, respectively.
+- Time descriptors "ante meridiem" (before noon) and "post meridiem" (after noon) should be abbreviated with lowercase letters as am and pm, respectively.
 - Use the 12-hour clock (8:00 am, 4:00 pm)
 - Avoid redundancies, such as, "10 am this morning"
 - Seasons (winter, spring, summer, fall, autumn) are not capitalized
 
 #### Places
 
-- When referring to a number of states, the word “state” should be lowercase (e.g., All 50 states responded.)
+- When referring to a number of states, the word "state" should be lowercase (e.g., All 50 states responded.)
 - Locations
     - District of Columbia: abbreviate as D.C. in copy, but use the official postal code, DC (without periods), for an address
     - United States: abbreviate as U.S.
@@ -130,7 +130,7 @@ To avoid confusion, always provide the full name of an agency or program the fir
 
 **Initialism examples**:
 
-An initialism is an acronym where you prnounce each letter.
+An initialism is an acronym where you pronounce each letter.
 
 - OMG &mdash; Oh, my God (or gosh)
 - LOL &mdash; laughing out loud
@@ -158,12 +158,12 @@ An acronym is an initialism that is used as a word.
 - NASA &mdash; National Aeronautics and Space Administration
 - OPEC (pronounced: oh-peck) &mdash; Organization of the Petroleum Exporting Countries
 - NARA &mdash; National Archives and Records Administration
-- DARPA &mdash; olDefense Advanced Research Projects Agency
+- DARPA &mdash; Defense Advanced Research Projects Agency
 - NATO (pronounced: nay-toe) &mdash; North Atlantic Treaty Organization
 - FEMA &mdash; Federal Emergency Management Agency
 - SWAT &mdash; special weapons and tactics
 
-**_Note_**: Avoid redundancies, such as, “ATM machine” (automated teller machine machine) and “PIN number” (personal identification number number).
+**_Note_**: Avoid redundancies, such as, "ATM machine" (automated teller machine machine) and "PIN number" (personal identification number number).
 
 ##### Pluralization
 
@@ -179,8 +179,8 @@ In writing, oral pauses are indicated by commas. They are also used to order thi
 
 It can be confusing (or potentially [costly](https://www.washingtonpost.com/news/morning-mix/wp/2017/03/16/the-ruling-in-this-maine-labor-dispute-hinged-on-the-omission-of-an-oxford-comma/) in [unexpected](https://www.instagram.com/p/BSTmAS2lZ_6/) ways) to omit the Oxford comma, so, we’d like to err on the side of caution. As noted by [AP Stylebook in their Twitter Chat on September 12, 2017](https://twitter.com/APStylebook/status/907673471865507841):
 
-- “We don't ban Oxford commas! We say: If omitting a comma could lead to confusion or misinterpretation, then use the comma.”
-- “But: If a comma doesn't help make clear what is being said, don't use it. "The flag is red, white and blue" is clear.”
+- "We don't ban Oxford commas! We say: If omitting a comma could lead to confusion or misinterpretation, then use the comma."
+- "But: If a comma doesn't help make clear what is being said, don't use it. "The flag is red, white and blue" is clear."
 
 So, use your best judgement. If anything is unclear, we’ll help you clarify.
 
@@ -192,10 +192,10 @@ After a colon, capitalize the next word if it starts a complete sentence (i.e., 
 
 Use an apostrophe to indicate:
 
-- Possession &mdash; ”Agile also improves the development team’s ability to commit to work.”
+- Possession &mdash; "Agile also improves the development team’s ability to commit to work."
 - Missing letters or numbers
-    - Contractions: ”For example, with a bilingual English and Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text).”
-    - Date abbreviations: ”the ‘90s” (the apostrophe replaces the _19_ in _1990s_)
+    - Contractions: "For example, with a bilingual English and Spanish website, we would’ve clearly labeled captions (for English text) and subtitles (for Spanish text)."
+    - Date abbreviations: "the ‘90s" (the apostrophe replaces the _19_ in _1990s_)
 
 Do not use an apostrophe to make words plural.
 Ever.
@@ -216,13 +216,13 @@ If it’s a list of fragments, do not use punctuation at the end. Capitalize the
 
 These two terms are not interchangeable; each has its own meaning and usage. 
 
-The abbreviation “i.e.” stands for the Latin phrase, _id est_, which means “that is” or “in other words.”
+The abbreviation "i.e." stands for the Latin phrase, _id est_, which means "that is" or "in other words."
 
 > Since 1977, Star Wars, which belongs to a sub-genre of science fiction (i.e., the _space opera_ or _science fantasy_), has released nine main live-action films in the Skywalker Saga, and three spin-off films; two live-action, and one computer-animated film.
 
-The abbreviation “e.g.” stands for the Latin phrase _exempli gratia_, which means “for example” &mdash; use it to list one or more examples.
+The abbreviation "e.g." stands for the Latin phrase _exempli gratia_, which means "for example" &mdash; use it to list one or more examples.
 
-> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the altenrate "Kelvin" timeline. 
+> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the alternate "Kelvin" timeline. 
 
 
 #### versus
@@ -241,7 +241,7 @@ For court cases, use _v._:
 
 ## Digital.gov branding
 
-The overarching name of the site is Digital.gov. You may see references to “DigitalGov” in our archives, but it should be referred to as “Digital.gov” going forward.
+The overarching name of the site is Digital.gov. You may see references to "DigitalGov" in our archives, but it should be referred to as "Digital.gov" going forward.
 
 ## Logos
 

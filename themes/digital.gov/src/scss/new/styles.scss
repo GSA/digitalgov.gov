@@ -90,7 +90,6 @@
 // -------------------------------------
 // Import theme custom styles
 
-@forward "layout";
 @forward "gov-banner";
 @forward "paper";
 @forward "404";
@@ -113,6 +112,7 @@
 @forward "news";
 @forward "events";
 @forward "table-of-contents";
+@forward "glossary";
 @forward "content";
 @forward "images";
 @forward "resources";
@@ -121,6 +121,10 @@
 @forward "collection";
 @forward "gh-commit-info";
 @forward "share-tools";
+@forward "landings";
+@forward "guides/guide-content";
+@forward "guides/guide-header";
+@forward "guides/guide-menu-bar";
 @forward "guides/guide-nav";
 @forward "guides/guide-prev-next";
 
@@ -159,15 +163,20 @@
 
 // Print styles
 @forward "print";
+
+// Shortcode styles
+@forward "shortcodes/featured-resource";
 @forward "shortcodes/accordion";
 @forward "shortcodes/do-dont-table";
 @forward "shortcodes/box";
 @forward "shortcodes/checklist";
 @forward "shortcodes/note";
 @forward "shortcodes/highlight";
+@forward "shortcodes/ring";
 @forward "shortcodes/card-policy";
 @forward "shortcodes/card-quote";
 @forward "shortcodes/asset-img";
 @forward "shortcodes/card-prompt";
 @forward "shortcodes/termsofservice-compatible";
+
 @forward "uswds-overrides";

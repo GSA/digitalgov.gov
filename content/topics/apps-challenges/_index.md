@@ -5,10 +5,10 @@
 slug: "apps-challenges"
 
 # Topic Title
-title: "Apps Challenges"
+title: "App Challenges"
 
 # description — keep it short and clear
-summary: ""
+summary: "Learn about app challenges from GSA's Challenge.gov, and other federal agencies."
 
 
 # Weight

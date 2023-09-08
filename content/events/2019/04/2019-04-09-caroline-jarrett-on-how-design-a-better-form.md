@@ -47,4 +47,4 @@ We have a lot of forms in government, and many of them would benefit from better
 
 *This talk is hosted by the TTS Research Guild and Digital.gov. [The TTS Research Guild](https://github.com/18F/g-research) is a GSA-local community of practice for design researchers and design research enthusiasts led by Ben Peterson and Aditi Rao.*
 
-*Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).* 
+*Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).* 

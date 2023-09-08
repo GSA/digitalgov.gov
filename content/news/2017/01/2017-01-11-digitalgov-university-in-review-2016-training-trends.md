@@ -103,4 +103,4 @@ Lastly, we took a look at our webinar recordings and evaluated which were most v
 
 We are planning more great events for 2017 and we hope you can join us.
 
-_Federal employees:_ [_email us_](mailto:DigitalGovU@gsa.gov) _and let us know what you’d like to see in the upcoming year — or [fill out this form]({{< ref "/about/digitalgov-university.md" >}}) to contact the team about creating an online or in-person DGU event._
+_Federal employees:_ [_email us_](mailto:digitalgov@gsa.gov) _and let us know what you’d like to see in the upcoming year — or [fill out this form]({{< ref "/about/digitalgov-university.md" >}}) to contact the team about creating an online or in-person DGU event._

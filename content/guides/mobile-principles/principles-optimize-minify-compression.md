@@ -1,10 +1,10 @@
 ---
 slug: optimize-minify-compression
 date: 2018-12-21 10:00:00 -0500
-title: 'The Smaller the Better, When It Comes to Page Resources!'
-summary: "This week's addition to the Eight Principles of Mobile-Friendliness guide covers making page resources smaller to improve page rendering."
+title: "The smaller the better, when it comes to page resources!"
+summary: "Week six of our series covers making page resources smaller to improve page rendering."
 guide: mobile-principles
-
+primary_image: guide-mobile-principles
 aliases:
   - /resources/mobile/principles/optimize-minify-compression
 

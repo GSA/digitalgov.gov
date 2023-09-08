@@ -1,9 +1,10 @@
 ---
 date: 2020-09-15 09:00:00 -0500
-title: "Play 5: Know what you’re looking for"
+title: "Know what you’re looking for"
 deck: ""
-summary: ""
+summary: "Be sure to consistently measure against your predetermined metrics to see if you are on track."
 guide: web-analytics-playbook
+primary_image: guide-web-analytics-playbook
 aliases:
 ---
 Although certain data sometimes stand out as surprising or odd, you need to consistently measure your predetermined success metrics to see if you are meeting your KPI targets.

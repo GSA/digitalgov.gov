@@ -1,9 +1,10 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Add Your Site to DAP"
+title: "Add your site to DAP"
 deck: ""
-summary: ""
+summary: "The best ways to participate in DAP and add analytics code to federal websites."
 guide: dap
+primary_image: guide-dap
 aliases:
   - /services/dap/add-your-site-dap/
   - /guide/dap/add-your-site-dap/

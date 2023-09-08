@@ -1,7 +1,11 @@
 @use "uswds-core" as *;
 
-.dg-guide__guide-buttons {
+.dg-guide__prev-next {
   &-next-item {
+    @include at-media("mobile-lg") {
+      margin-top: 0;
+    }
     margin-left: auto;
+    margin-top: units(3);
   }
 }

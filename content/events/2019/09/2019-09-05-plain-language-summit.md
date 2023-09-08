@@ -89,7 +89,7 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Join the [community](https://digital.gov/communities/plain-language/)
 - Follow [@GovPlainLang on Twitter](https://twitter.com/govplainlang)
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 
 
 ---
