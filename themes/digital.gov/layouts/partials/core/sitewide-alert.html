@@ -1,5 +1,4 @@
 {{ range .Site.Data.sitewide_alert }}
-
   {{ $is_emergency := .is_emergency }}
   {{ $has_icon := .has_icon }}
   {{ $is_slim := .is_slim }}
@@ -10,9 +9,17 @@
   {{ $link_text := .link_text }}
   {{ $link_url := .link_url }}
 
-
   {{ if (eq .display_alert true ) }}
-    <section class="usa-site-alert {{ if $is_emergency }}usa-site-alert--emergency {{ else }}usa-site-alert--info{{ end }}{{ if not $has_icon }}usa-site-alert--no-icon {{ end }}{{ if $is_slim }}usa-site-alert--slim{{ end }}" aria-label="Site alert">
+    <section
+      class="usa-site-alert {{ if $is_emergency }}
+        usa-site-alert--emergency
+      {{ else }}
+        usa-site-alert--info
+      {{ end }}{{ if not $has_icon }}
+        usa-site-alert--no-icon
+      {{ end }}{{ if $is_slim }}usa-site-alert--slim{{ end }}"
+      aria-label="Site alert"
+    >
       <div class="usa-alert">
         <div class="usa-alert__body">
           {{ if $header }}
@@ -32,14 +39,15 @@
           {{ if .list_alerts }}
             <ul class="usa-list">
               {{ range .list_alerts }}
-              <li>
-                {{ .alert | safeHTML }}
-              </li>
+                <li>
+                  {{ .alert | safeHTML }}
+                </li>
               {{ end }}
-              {{/*  {{ .text }}
+              {{/* {{ .text }}
               {{ if .link_url }}
                 <a class="usa-link" href="{{ .link_url }}">{{ .link_text }}</a>
-              {{ end }}  */}}
+              {{ end }}
+              */}}
             </ul>
           {{ end }}
         </div>
