@@ -49,7 +49,6 @@
     } else {
       // eslint-disable-next-line prefer-destructuring
       currentBranch = window.location.pathname.split("/")[4];
-      console.log(currentBranch);
     }
     return currentBranch;
   }

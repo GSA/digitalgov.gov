@@ -30,7 +30,6 @@
     } else {
       // eslint-disable-next-line prefer-destructuring
       currentBranch = window.location.pathname.split("/")[4];
-      console.log(currentBranch);
     }
     return currentBranch;
   }
@@ -42,7 +41,6 @@
   function enableEditMode() {
     githubEditLinks.forEach((link) => {
       gitRepo.filepath = link.dataset.ghEditPage;
-      console.log(gitRepo);
       const editSpan = Object.assign(document.createElement("span"), {
         classList: "gh-edit-page__button-text",
         textContent: "edit",
