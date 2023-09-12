@@ -16,6 +16,7 @@ date: 2023-09-19 14:00:00 -0500
 end_date: 2023-09-19 15:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: cultivating-a-dynamic-career-in-UX-title-card
 ---
 Join us as we explore what success can look like in a dynamic user experience (UX) career. Speakers from the Department of the Treasury and the Library of Congress will share their insights on how their careers in UX have continued to evolve.
 
