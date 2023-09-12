@@ -3,12 +3,8 @@
 */}}
 
 {{- define "content" -}}
-
-
-
-
   <main role="main" id="main-content" class="main-topic">
-    {{ if .Params.collection }}
+    {{ if .Params.topic_collection }}
       {{ partial "core/topics/topics-collection.html" . }}
     {{ else }}
       {{ partial "core/topics/topics-standard.html" . }}

@@ -1,116 +1,86 @@
-<h1>Topic Collection</h1>
-<div class="grid-container grid-container-desktop">
-    {{ $path := "" }}{{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
-    {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-    <div class="grid-row tablet-lg:grid-gap-4" data-edit-this="{{- $path -}}">
-      <div class="grid-col-12">
-        <header class="page-header">
-          <h1>{{- .Title -}}</h1>
-          {{- $allpages := (where .Pages "Section" "news") -}}
-          <p class="deck">{{- .Params.summary -}}</p>
-        </header>
-      </div>
-    </div>
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
 
-    {{/* If the topic page has Content */}}
-    {{- if .Content -}}
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <div class="content usa-prose">
-            {{- .Content -}}
-          </div>
-        </div>
-      </div>
-    {{- end -}}
-
-
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <section>
-          {{/* If the first page in a paginated sequence */}}
-          {{ if eq .Paginator.PageNumber 1 }}
-
-            {{/* Gets the resource .Pages associated with this topic */}}
-            {{- $resources := (where .Pages "Section" "resources") -}}
-            {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
-
-            {{/* Gets the services .Pages associated with this topic */}}
-            {{- $services := (where .Pages "Section" "services") -}}
-            {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
-
-            {{/* Gets the communities .Pages associated with this topic */}}
-            {{- $communities := (where .Pages "Section" "communities") -}}
-            {{- partial "partials/core/collection/collection.html" (dict "data" $communities "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
-
-          {{- end -}}
-
-        </section>
-      </div>
+<article class="grid-container grid-container-desktop topics-collection" data-edit-this="{{- $path -}}">
+  {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+  <div class="grid-row tablet-lg:grid-gap-4">
+    <div class="grid-col-12">
+      <header class="page-header">
+        <h1>{{- .Title -}}</h1>
+        <p class="deck">{{- .Params.deck -}}</p>
+      </header>
     </div>
   </div>
 
-  <section id="news_featured" class="stream">
-    <div class="paper">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-4">
-          <div class="grid-col-12 ">
-            {{/* Blog Posts by Topic —
-              List all of the blog posts and events tagged with this topic
-            */}}
-
-            {{/* Gets the past events */}}
-            {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-            {{/* Gets the past events that have youtube_id set */}}
-            {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-
-            {{/* Gets the recent blog posts */}}
-            {{- $posts := where .Paginator.Pages "Section" "news" -}}
-
-            {{/* Merges the past events and the recent blog posts */}}
-            {{ $stream := union $posts $past_events }}
-
-            {{/* Sorting all the items by date and reverse chron */}}
-            {{ $stream := $stream.ByDate.Reverse }}
-
-            {{/* If there are any blog posts at all... */}}
-            {{- if $stream -}}
-              <h2>News and Events on {{ .Title -}}</h2>
-              <p>{{- len $allpages }} posts</p>
-
-              {{/* Loop through all the pages */}}
-              {{- range $stream -}}
-                {{- if eq .Type "events" -}}
-                  {{- .Render "card-event" -}}
-                {{- end -}}
-
-                {{- if eq .Type "news" -}}
-                  {{/* External links */}}
-                  {{- if .Params.source -}}
-                    {{/* see /layouts/news/ for card templates */}}
-                    {{ .Render "card-elsewhere" }}
-                  {{ else }}
-                    {{/* Blog Posts — Internal links */}}
-                    {{- if .Params.deck }}
-                      {{/* see /layouts/news/ for card templates */}}
-                      {{ .Render "card-article" }}
-                    {{ else }}
-                      {{/* see /layouts/news/ for card templates */}}
-                      {{ .Render "card-article" }}
-                    {{ end }}
-                  {{ end }}
-                {{- end -}}
-
-              {{- end -}}
-            {{- end -}}
-
-            {{- partial "core/pagination.html" . -}}
-          </div>
-        </div>
-      </div>
+  <div class="grid-row tablet-lg:grid-gap-4">
+    <div class="grid-col-6 content usa-prose dg-landing__body">
+      {{/*  Use same prose styles as HCD guides  */}}
+      <p class="">
+        {{- .Params.summary -}}
+      </p>
     </div>
-  </section>
+
+    <div class="grid-col-6">
+      <ul class="usa-card-group">
+        <li class="usa-card usa-card--flag">
+          <div class="usa-card__container">
+            {{/*  <div class="usa-card__header">
+              <h2 class="usa-card__heading">Default flag</h2>
+            </div>  */}}
+            <div class="usa-card__media">
+              <div class="usa-card__img">
+                <img
+                  src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
+                  alt="A placeholder image"
+                />
+              </div>
+            </div>
+            <div class="usa-card__body">
+              <p>Executive Order 14058 on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government</p>
+            </div>
+            <div class="usa-card__footer">
+              <a href="https://www.govinfo.gov/app/details/DCPD-202101050" class="usa-button">View Executive Order</a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" "/guides/hcd/discovery-concepts" "kicker" "HCD Guides") -}}
+  </div>
+
+  {{/* Resources, Services/Tools, Guides  */}}
+  <div class="grid-row tablet-lg:grid-gap-4">
+    <h2>Resources</h2>
+    <div class="grid-col-12">
+      {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" "/communities/user-experience" "kicker" "Join a Community") -}}
+    </div>
+    <div class="grid-col-6">
+      <h2>Resources & Guides</h2>
+      {{- $resources := (where .Pages "Section" "resources") -}}
+      {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
+    </div>
+    <div class="grid-col-6">
+      <h2>Services & Tools</h2>
+      {{- $services := (where .Pages "Section" "services") -}}
+      {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "headings" "list_header" 3) -}}
+    </div>
+  </div>
+
+  {{/* Resources, Services/Tools, Guides  */}}
+  <div class="grid-row tablet-lg:grid-gap-4">
+    <h2>News & Events</h2>
+    <div class="grid-col-6">
+      <h2>Resources & Guides</h2>
+      {{- $resources := (where .Pages "Section" "resources") -}}
+      {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
+    </div>
+    <div class="grid-col-6">
+      <h2>Services & Tools</h2>
+      {{- $services := (where .Pages "Section" "services") -}}
+      {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "headings" "list_header" 3) -}}
+    </div>
+  </div>
+</article>

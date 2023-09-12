@@ -5,10 +5,11 @@
 slug: "2-topics-collection"
 
 # Topic Title
-title: "Topic Collections"
+title: "Design & User Experience"
+deck: "Understand how and why design impacts user experience"
 
 # description — keep it short and clear
-summary: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+summary: "Like a tour guide or museum docent, well-designed websites are helpful, courteous, informational, and relevant, escorting people through their journey to a successful outcome. When agencies deliver customer-centric digital services that work well, it increases satisfaction, confidence, and trust in government."
 
 topic_collection: true
 
