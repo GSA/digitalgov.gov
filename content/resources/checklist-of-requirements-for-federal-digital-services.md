@@ -23,7 +23,7 @@ primary_image: "checklist-topics"
 You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations.
 {{< /note >}}
 
-## Overarching Policies
+## Overarching policies
 
 These high-level policies cover basic requirements for all websites and digital services. Use this handy {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 KB, 14 tabs)" >}} to ensure you've addressed all critical requirements.
 
@@ -79,7 +79,7 @@ Understand customer needs, set performance standards, collect and address custom
   </a>
 </p>
 
-## Coordination During Incidents of National Significance
+## Coordination during incidents of national significance
 
 Federal websites must provide timely and accurate information during incidents of national significance. During such incidents, the Department of Homeland Security has the authority to coordinate all U.S. government communications to ensure consistent public information through an integrated federal incident communications system. Coordinate emergency response-related web communications with your [Federal Web Council representative](https://digital.gov/resources/federal-web-council/#current-council-members).
 
@@ -94,7 +94,7 @@ Inform the public about your policies on digital rights, copyrights, trademarks,
 - [U.S. Patent Law, U.S. Code 35, Chapter 26](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+35USC261)
 - [U.S. Copyright Office](https://www.copyright.gov/)
 
-## Customer Experience
+## Customer experience
 
 Understand the needs of your customers, collect and address customer feedback, and use data and feedback to continuously improve your programs. Ensure that information collected from the public minimizes burden and maximizes public utility. Use social media and other third-party platforms to listen to and serve customers. Secure OMB approval before collecting information from the public (surveys, forms, etc.), and include the OMB control number on the collection. Enable digital interactions with the public and deliver services via your customers' channel of choice.
 
@@ -186,13 +186,13 @@ Establish a digital governance structure to provide accountability and enforce p
   </a>
 </p>
 
-## Information Quality
+## Information quality
 
 Create content that's accurate, relevant, easy-to-use, and conveyed in plain language. Maximize the quality, objectivity, utility, and integrity of information and services provided to the public, and make information and services available on a timely and equitable basis.
 
 - [Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515)](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information) (PDF, 161 kb, 10 pages, February 2002)
 
-## Mandatory Content
+## Mandatory content
 
 Include all required content and links. Implement the [U.S. Web Design System](https://designsystem.digital.gov/), particularly the [banner](https://designsystem.digital.gov/components/banner/) and [identifier](https://designsystem.digital.gov/components/identifier/) components, to enable more consistency across federal websites around common content elements.
 
@@ -215,7 +215,7 @@ Improve priority customer facing services for mobile use. Shift to an enterprise
   </a>
 </p>
 
-## Multilingual Websites
+## Multilingual websites
 
 Comply with the requirements of Executive Order 13166, based on Title VI of the Civil Rights Act of 1964, which bans discrimination on the basis of national origin.
 
@@ -233,7 +233,7 @@ Comply with the requirements of Executive Order 13166, based on Title VI of the 
   </a>
 </p>
 
-## Open Government, Data, and Content
+## Open Government, data, and content
 
 Publish information in ways that make it easy to find, access, share, distribute, and re-purpose; Structure content and tag with standard metadata. Make open data, content, and application programming interfaces (APIs) the new default, and make existing high-value data and content available through APIs. Use challenges and prizes to promote open government, innovation, and other national priorities.
 
@@ -244,7 +244,7 @@ Publish information in ways that make it easy to find, access, share, distribute
 - [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
 - [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
 
-## Paperwork Reduction
+## Paperwork reduction
 
 Information you collect from the public should minimize burden and maximize public utility. Get OMB approval before collecting information from the public via surveys, forms, etc., and include the OMB control number on the collection. Use OMB's Fast-Track PRA Review Process to speed the PRA approval process. Use digital processes (forms, filing, signatures, etc.) and deliver services via your customers' channel of choice (online, apps, etc.) whenever possible. Designate a single point of contact for small businesses, and post the contact information on your website.
 
@@ -255,13 +255,13 @@ Information you collect from the public should minimize burden and maximize publ
 - [Government Paperwork Elimination Act (GPEA)](http://obamawhitehouse.archives.gov/omb/fedreg_gpea2/) (1998)
 - [Small Business Paperwork Relief Act of 2002](https://www.gpo.gov/fdsys/pkg/STATUTE-116/pdf/STATUTE-116-Pg729.pdf) (PDF, 49 kb, 5 pages, June 2002)
 
-## Performance Measurement and Reporting
+## Performance measurement and reporting
 
 Regularly evaluate all digital products for performance and cost effectiveness by collecting and acting on metrics and customer feedback, conducting usability testing, and measuring return on investment. Establish performance measures to demonstrate mission achievement; Make your annual performance plans readily available to the public.
 
 - [Government Performance and Results (GPRA) Modernization Act of 2010](https://www.congress.gov/bill/111th-congress/house-bill/2142)
 
-## Plain Writing
+## Plain writing
 
 Federal executive branch agencies are required to write all new or significantly revised publications, forms and publicly distributed documents in a "clear, concise, well-organized" manner.
 
@@ -270,7 +270,7 @@ Federal executive branch agencies are required to write all new or significantly
 - [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
 - [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 kb, 6 pages, April 2011)
 
-## Privacy and Identity Management
+## Privacy and identity management
 
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide service through a secure connection. Provide a link to your privacy policy on every page, or in your overall site policies. Conduct a privacy impact assessment of your website. Post a "Privacy Act Statement" that explains your legal authority for collecting personal data and how the data will be used.
 
@@ -283,13 +283,13 @@ Implement security and management controls to prevent the inappropriate disclosu
 - [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
 - [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
 
-## Prohibition on Advertising
+## Prohibition on advertising
 
 Comply with existing laws that prohibit federal public websites from being used for direct or indirect lobbying. Consult your agency's legal staff for guidance to ensure that your site does not advertise for, nor provide preferential treatment to, private individuals, firms, or corporations.
 
 - [Prohibition of Lobbying](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+18USC1913) (Title 18, Section 1913, U.S. Code)
 
-## Records Management
+## Records management
 
 Work with your agency Records Officer and follow NARA guidance to establish and maintain inventories, priorities, and records schedules, and regularly delete or archive content that is obsolete and is not required by law or regulation. Create content inventories which identify categories of information (e.g., press releases or publications), not specific documents. Post inventories, priorities, and schedules for posting additional content on the website for comment.
 
@@ -319,14 +319,14 @@ Implement security and management controls to prevent the inappropriate disclosu
 - [NIST Guidelines on Securing Public Web Servers](http://csrc.nist.gov/publications/nistpubs/800-44-ver2/SP800-44v2.pdf) (PDF, 960 kb, 142 pages, September 2007)
 - [OMB M-04-15 Reporting Instructions for the Federal Information Security Management Act](https://georgewbush-whitehouse.archives.gov/omb/memoranda/fy04/m-04-15.pdf) (PDF, 121 kb, 14 pages, August 2004)
 
-## Technology Standards
+## Technology standards
 
 Use the most recent and up-to-date technical standards for your digital services. Provide service through a secure connection. Deploy and use IPv6.
 
 - [The HTTPS-Only Standard](https://https.cio.gov/)
 - [OMB M-21-07 Completing the Transition to Internet Protocol Version 6 (IPv6)](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf) (PDF, 5.9 MB, 7 pages, November 2020)
 
-## Third-Party Services and Social Media
+## Third-party services and social media
 
 Use social tools to interact with customers and improve the customer experience.
 
