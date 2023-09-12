@@ -94,7 +94,6 @@ Inform the public about your policies on digital rights, copyrights, trademarks,
 - [Digital Millennium Copyright Act](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=105_cong_public_laws&docid=f:publ304.105.pdf) (PDF, 277 kb, 60 pages, January 1999)
 - [U.S. Patent Law, U.S. Code 35, Chapter 26](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+35USC261)
 - [Copyright.gov](http://www.copyright.gov/)
-- [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/United-States-government-works-and-copyright.docx) (Word document, 16 kb, 2 pages, June 2011)
 
 ## Customer Experience
 
