@@ -1,10 +1,9 @@
 ---
 date: 2023-09-12 10:12:00 -0500
 title: A conversation about content audits
-deck: Two content designers discuss why content audits are important and how to
-  get started
-summary: Content audits can be tedious. Two content designers discuss why we do
-  them anyway, and how to get started.
+deck: Two content designers discuss why content audits are important and how to get started
+summary: Content audits can be tedious. Two content designers discuss why we do them anyway, and how to get started.
+
 # See all topics at https://digital.gov/topics
 topics:
   - content
@@ -18,13 +17,18 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - michelle-rago
+  - ryan-johnson
+
 slug: a-conversation-about-content-audits
 primary_image: website-audit-control-panel-olivier-le-moal-istock-getty-images-693699396-comp
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Content audits are a core part of a content strategist’s toolkit. Following a recent content audit, Ryan Johnson (GSA Service Delivery) met with Michelle Rago (18F) to talk about them, including why they can be both crucial and challenging, what conditions might prompt a content audit, and how to get started.
 
 ## Crucial yet challenging
