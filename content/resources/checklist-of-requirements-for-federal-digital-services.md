@@ -89,7 +89,7 @@ Federal websites must provide timely and accurate information during incidents o
 
 Inform the public about your policies on digital rights, copyrights, trademarks, and patents. If your organization uses or duplicates private sector information, protect the property rights of the source. (These protections apply to any material posted to federal public websites, such as documents, graphics, or audio files.)
 
-- [Copyright Law](http://www.copyright.gov/)
+- [Copyright Law](https://www.copyright.gov/title17/)
 - [U.S. Trademark Law](http://www.uspto.gov/trademarks/law/tmlaw.pdf) (PDF, 1.5 MB, 260 pages, March 2010)
 - [Digital Millennium Copyright Act](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=105_cong_public_laws&docid=f:publ304.105.pdf) (PDF, 277 kb, 60 pages, January 1999)
 - [U.S. Patent Law, U.S. Code 35, Chapter 26](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+35USC261)
