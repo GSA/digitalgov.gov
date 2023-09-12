@@ -1,0 +1,16 @@
+{{/* Partial for easily rendering other markdown files within existing templates */}}
+
+{{- $file := .file -}}
+{{- $page := .Site.GetPage $file -}}
+{{ $path := "" }}
+{{ with $page.File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+
+{{- with $page -}}
+  <div data-edit-this="{{- $path -}}">
+    {{- .Content -}}
+  </div>
+{{- end -}}

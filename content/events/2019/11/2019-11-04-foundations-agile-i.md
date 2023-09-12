@@ -95,4 +95,4 @@ _Learn more about how 18F can support your team at [https://18f.gsa.gov](https:/
 
 ---
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 

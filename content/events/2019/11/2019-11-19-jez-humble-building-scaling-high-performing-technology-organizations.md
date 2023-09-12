@@ -54,5 +54,5 @@ This talk presents the findings of that research, including how to measure the p
 
 **Join the DevOps Community** by visiting [our community page](https://digital.gov/communities/devops/).
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 

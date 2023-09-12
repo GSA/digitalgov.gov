@@ -1,0 +1,31 @@
+<!-- prettier-ignore-start -->
+{{/* Displays a blue ring around a piece of content in order to highlight it
+
+Can accept nested text based shortcodes like note and box.
+Img shortcodes will not render, do not use within ring shortcode
+
+Shortcode usage:
+{{< ring title="Case in point">}}
+This is a ring shortcode
+{{< /ring >}}
+
+With nested shortcodes, text based only:
+{{< ring title="Nested text only shortcodes" >}}
+{{< note "plain" >}}
+**Note Goes Here** More note content goes into here
+{{< /note >}}
+{{< /ring >}}
+*/}}
+<!-- prettier-ignore-end -->
+
+{{- $title := (.Get "title") -}}
+{{/* Generate a random ID for ally using the md5 function */}}
+{{ $randomHeaderID := delimit (shuffle (split (md5 $title) "" )) "" }}
+
+
+<article class="dg-ring" aria-labelledby="{{ $randomHeaderID }}">
+  <h2 id="{{ $randomHeaderID }}" class="dg-ring__title">
+    {{- $title -}}
+  </h2>
+  {{ .Inner | markdownify }}
+</article>

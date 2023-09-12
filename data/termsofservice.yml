@@ -23,11 +23,11 @@ termsofservice:
 
   - name          : "AddThis"
     url           : 'http://www.addthis.com/'
-    description   : 'Bookmarking & sharing'
+    description   : 'Bookmarking & sharing. Closed down May 31, 2023.'
     uri           : '2014/07/addthis-updated-tos-amendment.pdf'
     type          : 'PDF'
     updated       : 07-2014
-    status        :
+    status        : inactive
 
   - name          : 'Asana'
     url           : 'https://www.asana.com/'

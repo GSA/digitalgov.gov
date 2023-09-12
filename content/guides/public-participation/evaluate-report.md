@@ -33,7 +33,7 @@ Transparency builds and maintains trust and respect with participants. When gove
 - [Effective Engagement: building relationships with community and other stakeholders: The Engagement Planning Workbook](http://www.dse.vic.gov.au/__data/assets/pdf_file/0020/105824/Book_2_-_The_Engagement_Planning_Workbook.pdf "Effective Engagement: building relationships with community and other stakeholders: The Engagement Planning Workbook"), by the Victorian (Australia) Department of Sustainability and Environment, provides tools for evaluating engagement.
 - [Democracy On-Line: An Evaluation of the National Dialogue on Public Involvement in EPA Decisions](http://www.rff.org/rff/Documents/RFF-RPT-demonline.pdf "Democracy On-Line: An Evaluation of the National Dialogue on Public Involvement in EPA Decisions"), by Thomas C. Beierle, offers insight into a two-week on-line discussion of public participation at the Environmental Protection Agency (EPA).
 
-### METRICS: HOW DO YOU KNOW YOU’RE SUCCESSFULLY EVALUATING AND REPORTING OUTCOMES?
+### Metrics: How do you know you're successfully evaluating and reporting outcomes?
 
 - Highlight performance of participation through use of data visualizations and infographics, illustrating transparent outcome.
 - Quantify outcomes of performance of participation through Town Hall meetings and/or presentations

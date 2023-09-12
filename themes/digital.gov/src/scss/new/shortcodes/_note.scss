@@ -1,6 +1,7 @@
 @use "uswds-core" as *;
 
 .note {
+  @include u-measure(6);
   @include u-margin-bottom(2);
   @include u-padding-y(2.5);
   @include u-padding-x(3);

@@ -41,6 +41,6 @@ This presentation will share the agile and iterative process of creating Concord
 
 This talk is hosted by the [Library of Congress](https://www.loc.gov/) and Digital.gov
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 
 
