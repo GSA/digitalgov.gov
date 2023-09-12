@@ -44,11 +44,12 @@
   function setBranch() {
     const host = window.location.hostname;
     let currentBranch = "";
-    if (host.includes("sites.pages.cloud.gov")) {
-      // eslint-disable-next-line prefer-destructuring
-      currentBranch = host.split("/")[4];
-    } else {
+    if (!host.includes("sites.pages.cloud.gov")) {
       currentBranch = "main";
+    } else {
+      // eslint-disable-next-line prefer-destructuring
+      currentBranch = window.location.pathname.split("/")[4];
+      console.log(currentBranch);
     }
     return currentBranch;
   }
