@@ -12,7 +12,10 @@
   &__button {
     @include u-font("sans", "2xs");
     background-color: color("gold-20v");
+    border-radius: 99rem;
+    box-shadow: 0 1rem 2rem 0 rgba(0, 0, 0, 0.1);
     color: color("gray-1");
+    height: 1rem;
     margin-top: 0;
     padding: 0;
     position: absolute;
@@ -20,13 +23,8 @@
     text-align: center;
     text-decoration: none;
     top: -10px;
-    z-index: 100;
-    border-radius: 99rem;
-    right: -10px;
-    top: -10px;
     width: 1rem;
-    height: 1rem;
-    box-shadow: 0 1rem 2rem 0 rgba(0, 0, 0, 0.1);
+    z-index: 100;
   }
 
   &__button-text {
@@ -76,8 +74,6 @@
 
   &__button {
     @include u-font("sans", "sm");
-    height: 4.5rem;
-    width: 4.5rem;
     background-color: color("blue-50v");
     border: 0;
     border-radius: 99rem;
@@ -86,11 +82,13 @@
     box-shadow: 0 1rem 2rem 0 rgba(0, 0, 0, 0.1);
     color: white;
     display: block;
+    height: 4.5rem;
     padding: 20px;
     position: fixed;
     right: 20px;
     text-align: center;
     text-decoration: none;
+    width: 4.5rem;
     z-index: 99999;
 
     &:hover {

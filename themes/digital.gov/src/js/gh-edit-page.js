@@ -25,11 +25,11 @@
   function setBranch() {
     const host = window.location.hostname;
     let currentBranch = "";
-    if (!host.includes("sites.pages.cloud.gov")) {
-      currentBranch = "main";
-    } else {
+    if (host.includes("sites.pages.cloud.gov")) {
       // eslint-disable-next-line prefer-destructuring
       currentBranch = host.split("/")[4];
+    } else {
+      currentBranch = "main";
     }
     return currentBranch;
   }
