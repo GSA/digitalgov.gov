@@ -1,0 +1,28 @@
+@use "uswds-core" as *;
+@use "sass:math";
+
+.dg-ring {
+  @include u-border("primary", 2px);
+  @include u-measure(6);
+  border-radius: radius("lg");
+  margin: units(5) 0 !important;
+  padding: units(3);
+  position: relative;
+
+  &__title {
+    $font-size: units(3);
+
+    background: color("white");
+    font-size: $font-size;
+    line-height: 1;
+    margin: (math.div($font-size, 2) * -1) 0 0;
+    padding: 0 units("05");
+    position: absolute;
+    top: 0;
+  }
+
+  h2 {
+    @include u-font("sans", "lg");
+    font-weight: font-weight("semibold");
+  }
+}

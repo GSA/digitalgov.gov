@@ -5,7 +5,6 @@ aliases:
   - /resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/
 
 title: "Federal-Compatible Terms of Service Agreements"
-guidenav: termsofservice
 summary: "Agreements negotiated between the federal government and vendors who offer digital tools and services."
 deck: "A guide to the agreements negotiated between the federal government and vendors who offer digital tools and services."
 weight: 1

@@ -7,8 +7,6 @@ authors:
   - jordan-higgins
 topics:
   - social-media
-  - Defense Intelligence Agency
-  - DIA
   - internet-of-things
   - security
 ---

@@ -14,7 +14,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-friendly
   - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
+ 
 ---
 
 {{< legacy-img src="2015/05/600-x-211-MobileGov-Shared-Tweet-Photo.jpg" alt="The Digital Gov Hunters of the Lost Apps Twitter promo graphic, inviting users to Join the Hunt and use the Lost Apps hashtag." caption="" >}} 

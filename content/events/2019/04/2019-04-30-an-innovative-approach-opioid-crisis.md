@@ -42,4 +42,4 @@ Featured guests will overview current and ongoing initiatives in the federal sec
 
 _This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market and manage their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010. **For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._
 
-**Questions about this event or future events?** Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+**Questions about this event or future events?** Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 

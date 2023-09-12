@@ -13,7 +13,7 @@ topics:
   - native-app
   - thursday-mobile-products
   - united-states-geological-survey
-  - usa-gov-federal-mobile-apps-directory
+ 
   - USGS
 ---
 

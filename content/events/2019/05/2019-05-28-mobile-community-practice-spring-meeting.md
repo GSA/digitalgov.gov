@@ -47,7 +47,7 @@ In addition, we will provide updates on the [Mobile Community of Practice]({{< r
 
 This talk is hosted by the [Mobile Community of Practice]({{< ref "/communities" >}}) and [Digital.gov](https://digital.gov)
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).  _
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).  _
 
 
 ## Related

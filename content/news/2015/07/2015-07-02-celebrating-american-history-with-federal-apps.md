@@ -16,7 +16,7 @@ topics:
   - native-apps
   - smithsonian-institution
   - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
+ 
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Cake-with-American-flag-frosting-and-sparkling-candles-Jupiterimages-liquidlibrary-Thinkstock-87648597.jpg" alt="Cake with American flag frosting and sparkling candles" caption="" >}} 

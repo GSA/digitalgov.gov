@@ -50,6 +50,6 @@ DevOps is as much about culture as it is about the process. Initiatives can crea
 
 Visit the [DevOps Community of Practice] (https://digital.gov/communities/devops/) page to join either the federal or public Listserv. 
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._ 
 
 ---

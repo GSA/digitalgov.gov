@@ -10,7 +10,7 @@ topics:
   - mobile-apps
   - native-apps
   - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
+ 
 
 ---
 

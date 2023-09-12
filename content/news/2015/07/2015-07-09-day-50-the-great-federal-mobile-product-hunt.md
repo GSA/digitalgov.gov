@@ -17,7 +17,7 @@ topics:
   - us-coast-guard
   - us-department-of-veterans-affairs
   - us-small-business-administration
-  - usa-gov-federal-mobile-apps-directory
+ 
 ---
 
 {{< legacy-img src="2015/07/600-x-200-Day-50.jpg" alt="Day 50 banner" >}}{{< legacy-img src="2015/07/600-x-200-Tally-Graphic.jpg" alt="Leaderboard Tally" >}}

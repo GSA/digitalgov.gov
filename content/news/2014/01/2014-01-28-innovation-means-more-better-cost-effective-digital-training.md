@@ -59,4 +59,4 @@ If you are a federal innovator, platform that has federal terms of service, or a
 
 If you have a .gov or .mil email address and would like to join the SocialGov Community, email <justin.herman@gsa.gov> with a description of your work in social media and &#8220;Subscribe to #SocialGov&#8221; in the subject line.
 
-And remember, social media is just one of the many topics covered via DigitalGov University events. For questions, email us at <digitalgovu@gsa.gov> and [sign up for email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45) to get alerts on upcoming trainings.
+And remember, social media is just one of the many topics covered via DigitalGov University events. For questions, email us at <digitalgov@gsa.gov> and [sign up for email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45) to get alerts on upcoming trainings.

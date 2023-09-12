@@ -1,4 +1,4 @@
-{{/* Note Shortcode — the following are all the iterations of the "note" shortcode and how to use them.
+{{/* Note Shortcode — the following are all the iterations of the "note" shortcode and how to use them.
 
   Note —
   {{< note
@@ -38,7 +38,7 @@ Comment —
 
 */}}
 
-<div class="note {{- if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
+<div class="note {{ if .Get 0 }}{{- .Get 0 -}}{{ end }}">
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
     <h4>
       <svg
@@ -109,6 +109,7 @@ Comment —
       </svg>
       Who can join?
     </h4>
+  {{- else if and (.Get 0) (eq (.Get 0) "plain") -}}
   {{- else -}}
     <h4>
       <svg

@@ -10,7 +10,7 @@ topics:
   - native-app
   - SAMHSA
   - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
+ 
 ---
 
 [{{< legacy-img src="2014/10/600-x-400-Stop-Bullying-2014-what-you-need-to-know-full-cropped-infographic.jpg" alt="2014 infographic for: Bullying: What You Need to Know. Click for full image." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/691-x-2200-Stop-Bullying-2014-what-you-need-to-know-full-infographic.jpg) 

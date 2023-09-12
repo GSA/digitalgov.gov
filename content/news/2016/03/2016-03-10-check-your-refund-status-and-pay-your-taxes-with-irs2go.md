@@ -13,7 +13,7 @@ topics:
   - mobile-apps
   - thursday-mobile-products
   - us-digital-registry
-  - usa-gov-federal-mobile-apps-directory
+ 
 primary_image: irs2go-google-play-logo-1200
 
 ---
