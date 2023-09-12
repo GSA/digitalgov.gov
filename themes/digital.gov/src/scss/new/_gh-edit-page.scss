@@ -21,10 +21,12 @@
     text-decoration: none;
     top: -10px;
     z-index: 100;
-
-    @include u-radius("lg");
-    @include u-circle(2);
-    @include u-shadow(5);
+    border-radius: 99rem;
+    right: -10px;
+    top: -10px;
+    width: 1rem;
+    height: 1rem;
+    box-shadow: 0 1rem 2rem 0 rgba(0, 0, 0, 0.1);
   }
 
   &__button-text {
@@ -37,7 +39,6 @@
   }
 
   &:hover {
-    // @include u-outline-color("gold-20v");
     outline: units(0.5) color("yellow-20v") solid;
     z-index: 100;
 
@@ -52,7 +53,7 @@
 
     .gh-edit-page__button-text {
       border: none;
-      border-radius: 99em;
+      border-radius: 99rem;
       display: block;
       padding: 9px 6px;
       position: relative;
@@ -75,10 +76,11 @@
 
   &__button {
     @include u-font("sans", "sm");
-    @include u-circle(9);
+    height: 4.5rem;
+    width: 4.5rem;
     background-color: color("blue-50v");
     border: 0;
-    // border-radius: 99rem;
+    border-radius: 99rem;
 
     bottom: 20px;
     box-shadow: 0 1rem 2rem 0 rgba(0, 0, 0, 0.1);

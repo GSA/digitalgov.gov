@@ -6,6 +6,15 @@
   const repoBaseUrl = "https://github.com/gsa/digitalgov.gov";
 
   /**
+   * Object for storing the git file edit path and branch
+   */
+  const gitRepo = {
+    filepath: null,
+    // eslint-disable-next-line no-use-before-define
+    branch: setBranch(),
+  };
+
+  /**
    * If on cloud.pages get the branch name from the URL
    * Otherwise, use "main" for localhost and production
    * @returns {string} branch name
@@ -25,11 +34,6 @@
     return currentBranch;
   }
 
-  const gitRepo = {
-    filepath: null,
-    branch: setBranch(),
-  };
-
   /**
    * Adds github "button" link and highlight style to Github items
    * Add link as last child in the parent element
@@ -37,6 +41,7 @@
   function enableEditMode() {
     githubEditLinks.forEach((link) => {
       gitRepo.filepath = link.dataset.ghEditPage;
+      console.log(gitRepo);
       const editSpan = Object.assign(document.createElement("span"), {
         classList: "gh-edit-page__button-text",
         textContent: "edit",

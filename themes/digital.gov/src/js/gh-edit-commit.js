@@ -8,6 +8,16 @@
   const editPageLink = document.querySelector(".gh-commit-info__container");
 
   /**
+   * Object for storing the git file edit path and branch
+   */
+  const gitRepo = {
+    // eslint-disable-next-line no-use-before-define
+    filepath: setFilepath(),
+    // eslint-disable-next-line no-use-before-define
+    branch: setBranch(),
+  };
+
+  /**
    * Get hugo file path from the [data-gh-edit-page] attribute to link to Github repo location
    * @returns {string} hugo file path
    * @example
@@ -34,22 +44,14 @@
   function setBranch() {
     const host = window.location.hostname;
     let currentBranch = "";
-    if (!host.includes("sites.pages.cloud.gov")) {
-      currentBranch = "main";
-    } else {
+    if (host.includes("sites.pages.cloud.gov")) {
       // eslint-disable-next-line prefer-destructuring
       currentBranch = host.split("/")[4];
+    } else {
+      currentBranch = "main";
     }
     return currentBranch;
   }
-
-  /**
-   * Object for storing the git file edit path and branch
-   */
-  const gitRepo = {
-    filepath: setFilepath(),
-    branch: setBranch(),
-  };
 
   /**
    * Takes a github ISO date format and converts it to a human friendly datetime string
