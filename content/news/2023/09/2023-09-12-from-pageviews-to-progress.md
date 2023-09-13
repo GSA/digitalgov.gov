@@ -52,7 +52,7 @@ From January 1, 2013 to August 4, 2023, visitors cumulatively spent **approximat
 * [Applying for social security benefits (SSA) ](http://ssa.gov)
 * [Researching tax information and filing taxes (IRS)](https://www.irs.gov/) 
 
-**DAP reported that there were close to 4 b pdf downloadsillion** across government websites in the last ten years, with the most downloaded documents being the Internal Revenue Service (IRS) Form 1040 and the Form 1040 Instructions. Other top downloaded pdf documents included the IRS Form W-9 (Request for Taxpayer Identification Number and Certification), Department of State Form DS-11 (Application for U.S. Passport), U.S. Citizenship and Immigration Services (USCIS) Form I-9 (Employment Eligibility Verification), and Social Security Administration (SSA) Form SS-5 (Application for a Social Security Card).
+**DAP reported that there were close to 4 billion pdf downloads** across government websites in the last ten years, with the most downloaded documents being the Internal Revenue Service (IRS) Form 1040 and the Form 1040 Instructions. Other top downloaded pdf documents included the IRS Form W-9 (Request for Taxpayer Identification Number and Certification), Department of State Form DS-11 (Application for U.S. Passport), U.S. Citizenship and Immigration Services (USCIS) Form I-9 (Employment Eligibility Verification), and Social Security Administration (SSA) Form SS-5 (Application for a Social Security Card).
 
 **Mobile traffic had a strong and steady growth** from just 13% of all visitors on government websites in 2013 to nearly six out of ten (58%) visitors in 2023. The majority of mobile visitors (56%) used Apple iPhones when on government websites.
 
