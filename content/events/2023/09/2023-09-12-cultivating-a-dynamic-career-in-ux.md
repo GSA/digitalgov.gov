@@ -37,7 +37,7 @@ In this session, you’ll learn how to:
 ## Moderator
 
 * **UX Community co-lead, Jaime Kern** - Lead Strategist for the Federal Marketplace, GSA
-* 
-* - - -
+ 
+- - -
 
 *The UX Community of Practice is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies. [Join the UX Community](https://digital.gov/communities/user-experience/).*
