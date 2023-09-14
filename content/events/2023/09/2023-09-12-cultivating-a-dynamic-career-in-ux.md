@@ -1,23 +1,29 @@
 ---
 title: Cultivating a dynamic career in UX
 kicker: User Experience
-summary: Join us for a discussion on how to adapt your career in user experience
-  (UX) to a quickly changing world.
+summary: Join us for a discussion on how to adapt your career in user experience (UX) to a quickly changing world.
 host: User Experience Community of Practice
 event_organizer: Digital.gov
 cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItdOmpqTgpEygCPS5a5zwjlr-_nNeqAR4
+
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
   - professional-development
+
 slug: cultivating-a-dynamic-career-in-ux
+
 date: 2023-09-19 14:00:00 -0500
 end_date: 2023-09-19 15:00:00 -0500
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: cultivating-a-dynamic-career-in-UX-title-card
+
+primary_image: "cultivating-a-dynamic-career-in-ux-title-card"
+
 ---
+
 Join us as we explore what success can look like in a dynamic user experience (UX) career. Speakers from the Department of the Treasury and the Library of Congress will share their insights on how their careers in UX have continued to evolve.
 
 In this session, you’ll learn how to:
