@@ -1,0 +1,25 @@
+# Topics collection data for design and user experience
+data:
+  header:
+    title: ""
+    deck:
+  content:
+    description:
+    legislation:
+      name: ""
+      description:
+      link_text:
+      link_url:
+  community:
+    name:
+    link_text:
+    link_url:
+  resources:
+    featured_resource:
+      title:
+      link_text:
+      link_url:
+    top_resources:
+      - link:
+      - link:
+      - link:

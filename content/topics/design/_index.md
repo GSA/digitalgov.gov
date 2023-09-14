@@ -8,8 +8,9 @@ slug: "design"
 title: "Design"
 
 # description — keep it short and clear
-summary: ""
+summary: "Like a tour guide or museum docent, well-designed websites are helpful, courteous, informational, and relevant, escorting people through their journey to a successful outcome. When agencies deliver customer-centric digital services that work well, it increases satisfaction, confidence, and trust in government."
 
+topic_collection: true
 
 # Weight
 weight: 2

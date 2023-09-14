@@ -15,6 +15,8 @@
 {{ $href := .href }}
 {{ $url := urls.Parse $href }}
 {{ $meta_source := .meta_source }}
+{{ $list_default_width := .list_default_width }}
+{{ $is_truncated := .is_truncated }}
 
 {{- with .list_item -}}
   {{ $path := "" }}{{ with .File }}
@@ -23,7 +25,7 @@
     {{ $path = .Path }}
   {{ end }}
 
-  <li class="usa-collection__item" data-edit-this="{{- $path -}}">
+  <li class="usa-collection__item{{ if not $list_default_width }} usa-collection__item--full-width{{ end }}" data-edit-this="{{- $path -}}">
     {{ if eq $variant "media" }}
       {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source) -}}
     {{ end }}
@@ -36,7 +38,11 @@
       {{ if ne $variant "headings" }}
         <p class="usa-collection__description">
           {{- if .Params.summary -}}
-            {{- .Params.summary | markdownify | truncate 140 -}}
+            {{- if .Params.is_truncated -}}
+              {{- .Params.summary | markdownify | truncate 140 -}}
+            {{ else }}
+              {{- .Params.summary | markdownify -}}
+            {{ end }}
           {{- else -}}
             {{- .Params.deck | markdownify -}}
           {{- end -}}

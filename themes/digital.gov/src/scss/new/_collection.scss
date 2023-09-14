@@ -154,6 +154,14 @@
   @include u-font("sans", "md");
   @include u-text("normal");
 
+  &__item--full-width {
+    max-width: 100%;
+
+    .usa-collection__description {
+      max-width: 100%;
+    }
+  }
+
   &__img-wrapper {
     margin-right: units(1);
     margin-top: units("2px");

@@ -48,39 +48,29 @@
         </li>
       </ul>
     </div>
-    {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" "/guides/hcd/discovery-concepts" "kicker" "HCD Guides") -}}
-  </div>
-
-  {{/* Resources, Services/Tools, Guides  */}}
-  <div class="grid-row tablet-lg:grid-gap-4">
-    <h2>Resources</h2>
+    <div class="grid-col-12">
+      {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" "/guides/hcd/discovery-concepts" "kicker" "HCD Guides") -}}
+    </div>
     <div class="grid-col-12">
       {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" "/communities/user-experience" "kicker" "Join a Community") -}}
     </div>
-    <div class="grid-col-6">
-      <h2>Resources & Guides</h2>
-      {{- $resources := (where .Pages "Section" "resources") -}}
-      {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
-    </div>
-    <div class="grid-col-6">
-      <h2>Services & Tools</h2>
-      {{- $services := (where .Pages "Section" "services") -}}
-      {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "headings" "list_header" 3) -}}
-    </div>
   </div>
 
   {{/* Resources, Services/Tools, Guides  */}}
   <div class="grid-row tablet-lg:grid-gap-4">
-    <h2>News & Events</h2>
-    <div class="grid-col-6">
-      <h2>Resources & Guides</h2>
-      {{- $resources := (where .Pages "Section" "resources") -}}
-      {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
+    <div class="grid-col-6 content usa-prose dg-landing__body">
+      <h2>What you need to know</h2>
     </div>
-    <div class="grid-col-6">
-      <h2>Services & Tools</h2>
+
+
+    
+    <div class="grid-col-12">
+      {{- $resources := (where .Pages "Section" "resources") -}}
+      {{- partial "partials/core/collection/collection.html" (dict "data" $resources "variant" "media" "list_header" 3 "list_default_width" false "is_truncated" false) -}}
+    </div>
+    <div class="grid-col-12">
       {{- $services := (where .Pages "Section" "services") -}}
-      {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "headings" "list_header" 3) -}}
+      {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_size" 2 "variant" "headings" "list_header" 3 "list_default_width" false "is_truncated" false) -}}
     </div>
   </div>
 </article>
