@@ -11,7 +11,7 @@ topics:
   - content
   - design
   - writing
-slug: making-the-case-for-sentence-case-on-usagovs-websites
+slug: making-the-case-for-sentence-case-on-usagov-websites
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
