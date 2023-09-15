@@ -57,7 +57,7 @@
               </div>
               <div class="usa-card__footer">
                 {{ if .contents.legislation.link_url }}
-                  <a href="{{- .legislation.link_url -}}" class="usa-button"
+                  <a href="{{- .contents.legislation.link_url -}}" class="usa-button"
                     >{{ .contents.legislation.link_text }}</a
                   >
                 {{ end }}
@@ -110,89 +110,77 @@
     </div>
   </div>
 
-  <div>
-    <section>
-      <div class="">
-        <div class="">
-          <div class="grid-row">
-            <div class="grid-col-12">
-              {{- $now := now.Format "2006-01-02" -}}
-              {{- $future_events := where .Site.Pages.Reverse "Params.End_date" ">=" $now -}}
 
-              {{/* Gets the past events */}}
-              {{- $past_events := where (where .Site.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-              {{/* Gets the past events that have youtube_id set */}}
-              {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-
-              {{/* Merges the past events and the recent blog posts */}}
-              {{ $events_stream := union $future_events $past_events }}
-
-              {{/* Sorting all the items by date and reverse chron */}}
-              {{ $events_stream := $events_stream.ByDate.Reverse }}
-
-              {{/* If there are any events */}}
-              {{- if $events_stream -}}
-                <h2>Events for {{ .Title -}}</h2>
-
-                {{/* Loop through all the pages */}}
-                {{- range first 5 $events_stream -}}
-                  {{ if .Params.registration_url }}
-                    {{ .Render "card-event" }}
-                  {{ else }}
-                    {{- .Render "card-event" -}}
-                  {{ end }}
-                {{- end -}}
-                {{/* {{- partial "core/pagination.html" . -}} */}}
-              {{- else -}}
-                No Events to Display
-              {{ end }}
-            </div>
-          </div>
-        </div>
+  <section class="margin-top-4">
+    <div class="grid-row">
+      <div class="grid-col-12">
+        {{- $now := now.Format "2006-01-02" -}}
+        {{- $future_events := where .Site.Pages.Reverse "Params.End_date" ">=" $now -}}
+  
+        {{/* Gets the past events */}}
+        {{- $past_events := where (where .Site.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+  
+        {{/* Gets the past events that have youtube_id set */}}
+        {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+  
+        {{/* Merges the past events and the recent blog posts */}}
+        {{ $events_stream := union $future_events $past_events }}
+  
+        {{/* Sorting all the items by date and reverse chron */}}
+        {{ $events_stream := $events_stream.ByDate.Reverse }}
+  
+        {{/* If there are any events */}}
+        {{- if $events_stream -}}
+          <h2>Events for {{ .Title -}}</h2>
+  
+          {{/* Loop through all the pages */}}
+          {{- range first 5 $events_stream -}}
+            {{ if .Params.registration_url }}
+              {{ .Render "card-event" }}
+            {{ else }}
+              {{- .Render "card-event" -}}
+            {{ end }}
+          {{- end -}}
+          {{/* {{- partial "core/pagination.html" . -}} */}}
+        {{- else -}}
+          No Events to Display
+        {{ end }}
       </div>
-    </section>
+    </div>
+  </section>
+
+  <div class="grid-row tablet-lg:grid-gap-4">
+    <div class="grid-col-12 ">
+      {{/* Gets the recent blog posts */}}
+      {{- $posts := where .Paginator.Pages "Section" "news" -}}
+
+      {{/* Sorting all the items by date and reverse chron */}}
+      {{ $posts_stream := $posts.ByDate.Reverse }}
+
+      {{/* If there are any events */}}
+      {{- if $posts_stream -}}
+        <h2>News on {{ .Title -}}</h2>
+
+        {{/* Loop through all the pages */}}
+        {{- range first 10 $posts_stream -}}
+          {{/* External links */}}
+          {{- if .Params.source -}}
+            {{/* see /layouts/news/ for card templates */}}
+            {{ .Render "card-elsewhere" }}
+          {{ else }}
+            {{/* Blog Posts — Internal links */}}
+            {{- if .Params.deck }}
+              {{/* see /layouts/news/ for card templates */}}
+              {{ .Render "card-article" }}
+            {{ else }}
+              {{/* see /layouts/news/ for card templates */}}
+              {{ .Render "card-article" }}
+            {{ end }}
+          {{- end -}}
+        {{- end -}}
+        {{- partial "core/pagination.html" . -}}
+      {{- end -}}
+    </div>
   </div>
 
-  <div>
-    <section>
-      <div class="">
-        <div class="">
-          <div class="grid-row tablet-lg:grid-gap-4">
-            <div class="grid-col-12 ">
-              {{/* Gets the recent blog posts */}}
-              {{- $posts := where .Paginator.Pages "Section" "news" -}}
-
-              {{/* Sorting all the items by date and reverse chron */}}
-              {{ $posts_stream := $posts.ByDate.Reverse }}
-
-              {{/* If there are any events */}}
-              {{- if $posts_stream -}}
-                <h2>News on {{ .Title -}}</h2>
-
-                {{/* Loop through all the pages */}}
-                {{- range $posts_stream -}}
-                  {{/* External links */}}
-                  {{- if .Params.source -}}
-                    {{/* see /layouts/news/ for card templates */}}
-                    {{ .Render "card-elsewhere" }}
-                  {{ else }}
-                    {{/* Blog Posts — Internal links */}}
-                    {{- if .Params.deck }}
-                      {{/* see /layouts/news/ for card templates */}}
-                      {{ .Render "card-article" }}
-                    {{ else }}
-                      {{/* see /layouts/news/ for card templates */}}
-                      {{ .Render "card-article" }}
-                    {{ end }}
-                  {{- end -}}
-                {{- end -}}
-                {{- partial "core/pagination.html" . -}}
-              {{- end -}}
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  </div>
 </article>
