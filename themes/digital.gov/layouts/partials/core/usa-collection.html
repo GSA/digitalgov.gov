@@ -39,6 +39,7 @@
           {{ $href = (print .Permalink "?dg") }}
         {{ else }}
           {{ $href = .href }}
+          {{ $title = .title }}
         {{ end }}
       {{ end }}
 
@@ -53,10 +54,6 @@
         {{ else }}
           {{ $meta_source = "Digital.gov" }}
         {{ end }}
-      {{ end }}
-
-      {{ if .title }}
-        {{ $title = .title }}
       {{ end }}
 
       {{/* If image exists, then display as list item */}}
