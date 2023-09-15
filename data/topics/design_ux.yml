@@ -1,25 +1,30 @@
 # Topics collection data for design and user experience
-data:
+design_ux:
   header:
-    title: ""
-    deck:
-  content:
-    description:
+    title: "Design & User Experience"
+    deck: "Understand how and why design impacts user experience"
+  contents:
+    summary: "Guidance, resources, and community to help you use design and user experience to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
     legislation:
-      name: ""
-      description:
-      link_text:
-      link_url:
-  community:
-    name:
-    link_text:
-    link_url:
-  resources:
-    featured_resource:
-      title:
-      link_text:
-      link_url:
-    top_resources:
-      - link:
-      - link:
-      - link:
+      name: "21 Idea"
+      description: "View legislation for this topic"
+      link_text: "View Executive Order"
+      link_url: "https://www.govinfo.gov/app/details/DCPD-202101050"
+  featured_resources:
+    - link: "/guides/hcd/discovery-concepts"
+      kicker: "HCD Guides"
+  communities:
+    - link: "/communities/user-experience"
+  top_resources:
+    - title: "An introduction to design requirements"
+      href: "/resources/an-introduction-to-design-requirements/"
+    - title: "USWDS Design principles — Earn trust by following consistent design principles"
+      href: "/guides/hcd/"
+    - title: "Get.Gov — Host your site on a .gov or .mil domain to assure users it’s an official government site"
+      href: "https://get.gov/"
+    - title: "To Build Trust, Aim for Easy — Trust is built up with good experiences, and broken with bad ones."
+      href: "https://digital.gov/2022/12/13/to-build-trust-aim-for-easy/"
+    - title: "See more user experience resources"
+      href: "https://digital.gov/topics/user-experience/"
+    - title: "Seem more design resources"
+      href: https://digital.gov/topics/design

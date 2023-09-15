@@ -2,15 +2,22 @@
 # This topic lives at
 # https://digital.gov/topics/design
 
-slug: "design"
+slug: "design-user-experience"
 
 # Topic Title
-title: "Design"
+title: "Design & User Experience"
 
 # description — keep it short and clear
-summary: "Like a tour guide or museum docent, well-designed websites are helpful, courteous, informational, and relevant, escorting people through their journey to a successful outcome. When agencies deliver customer-centric digital services that work well, it increases satisfaction, confidence, and trust in government."
+summary: "Guidance, resources, and community to help you use design and user experience to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
+deck: "Understand how and why design impacts user experience"
 
 topic_collection: true
+yaml_file: "design_ux"
+legal_stamp: "21 Idea"
+legal_stamp_link: "https://www.govinfo.gov/app/details/DCPD-202101050"
+guides_link: "https://digital.gov/guides/hcd/"
+primary_image: topics-header-bg-image
+
 
 # Weight
 weight: 2

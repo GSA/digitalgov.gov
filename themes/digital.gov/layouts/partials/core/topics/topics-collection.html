@@ -4,73 +4,195 @@
   {{ $path = .Path }}
 {{ end }}
 
-<article class="grid-container grid-container-desktop topics-collection" data-edit-this="{{- $path -}}">
+
+<article
+  class="grid-container grid-container-desktop topics-collection"
+  data-edit-this="{{- $path -}}"
+>
   {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-  <div class="grid-row tablet-lg:grid-gap-4">
-    <div class="grid-col-12">
-      <header class="page-header">
-        <h1>{{- .Title -}}</h1>
-        <p class="deck">{{- .Params.deck -}}</p>
-      </header>
-    </div>
-  </div>
 
-  <div class="grid-row tablet-lg:grid-gap-4">
-    <div class="grid-col-6 content usa-prose dg-landing__body">
-      {{/*  Use same prose styles as HCD guides  */}}
-      <p class="">
-        {{- .Params.summary -}}
-      </p>
-    </div>
+  {{ range .Site.Data.topics.design_ux }}
+    <header>
+      <div data-edit-this="{{- $path -}}">
+        <h1>{{- .header.title -}}</h1>
+        {{- if .header.deck -}}
+          <div class="deck">{{- .header.deck -}}</div>
+        {{- end -}}
+      </div>
+    </header>
 
-    <div class="grid-col-6">
-      <ul class="usa-card-group">
-        <li class="usa-card usa-card--flag">
-          <div class="usa-card__container">
-            {{/*  <div class="usa-card__header">
-              <h2 class="usa-card__heading">Default flag</h2>
-            </div>  */}}
-            <div class="usa-card__media">
-              <div class="usa-card__img">
-                <img
-                  src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-                  alt="A placeholder image"
-                />
+    <div class="grid-row tablet-lg:grid-gap-4">
+      <div class="grid-col-6 content usa-prose dg-landing__body">
+        {{/* Use same prose styles as HCD guides */}}
+        {{ if .contents.summary }}
+          <p>
+            {{- .contents.summary -}}
+          </p>
+        {{ end }}
+      </div>
+
+      <div class="grid-col-6">
+        <ul class="usa-card-group">
+          <li class="usa-card usa-card--flag">
+            <div class="usa-card__container">
+              {{ if .contents.legislation.name }}
+                <div class="usa-card__header">
+                  <h2 class="usa-card__heading">
+                    {{ .contents.legislation.name }}
+                  </h2>
+                </div>
+              {{ end }}
+              <div class="usa-card__media">
+                <div class="usa-card__img">
+                  <img
+                    src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
+                    alt="A placeholder image"
+                  />
+                </div>
+              </div>
+              <div class="usa-card__body">
+                <p>
+                  {{ .contents.legislation.description }}
+                </p>
+              </div>
+              <div class="usa-card__footer">
+                {{ if .contents.legislation.link_url }}
+                  <a href="{{- .legislation.link_url -}}" class="usa-button"
+                    >{{ .contents.legislation.link_text }}</a
+                  >
+                {{ end }}
               </div>
             </div>
-            <div class="usa-card__body">
-              <p>Executive Order 14058 on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government</p>
-            </div>
-            <div class="usa-card__footer">
-              <a href="https://www.govinfo.gov/app/details/DCPD-202101050" class="usa-button">View Executive Order</a>
-            </div>
-          </div>
-        </li>
-      </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  {{ end }}
+
+
+  <div class="grid-row">
+    {{ $featured_resource_path := "" }}
+    {{ $featured_resource_kicker := "" }}
+
+    {{ $communty_path := "" }}
+
+    {{ range .Site.Data.topics.design_ux }}
+      {{ range .featured_resources }}
+        {{ $featured_resource_path = .link }}
+        {{ $featured_resource_kicker = .kicker }}
+      {{ end }}
+
+      {{ range .communities }}
+        {{ $communty_path = .link }}
+      {{ end }}
+    {{ end }}
+
+
+    <div class="grid-col-12">
+      {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" $featured_resource_path "kicker" $featured_resource_kicker ) -}}
     </div>
     <div class="grid-col-12">
-      {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" "/guides/hcd/discovery-concepts" "kicker" "HCD Guides") -}}
-    </div>
-    <div class="grid-col-12">
-      {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" "/communities/user-experience" "kicker" "Join a Community") -}}
+      {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" $communty_path "kicker" "Join a Community") -}}
     </div>
   </div>
 
-  {{/* Resources, Services/Tools, Guides  */}}
+  {{/* Resources, Services/Tools, Guides */}}
   <div class="grid-row tablet-lg:grid-gap-4">
-    <div class="grid-col-6 content usa-prose dg-landing__body">
+    <div class="grid-col-12">
       <h2>What you need to know</h2>
-    </div>
-
-
-    
-    <div class="grid-col-12">
       {{- $resources := (where .Pages "Section" "resources") -}}
-      {{- partial "partials/core/collection/collection.html" (dict "data" $resources "variant" "media" "list_header" 3 "list_default_width" false "is_truncated" false) -}}
+
+      {{ range .Site.Data.topics.design_ux }}
+        {{ $top_resources := .top_resources }}
+        {{- partial "partials/core/collection/collection.html" (dict "data" $top_resources "variant" "custom" "limit" 5 "list_header" 3 "list_default_width" false "is_truncated" false) -}}
+      {{ end }}
+
     </div>
-    <div class="grid-col-12">
-      {{- $services := (where .Pages "Section" "services") -}}
-      {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_size" 2 "variant" "headings" "list_header" 3 "list_default_width" false "is_truncated" false) -}}
-    </div>
+  </div>
+
+  <div>
+    <section>
+      <div class="">
+        <div class="">
+          <div class="grid-row">
+            <div class="grid-col-12">
+              {{- $now := now.Format "2006-01-02" -}}
+              {{- $future_events := where .Site.Pages.Reverse "Params.End_date" ">=" $now -}}
+
+              {{/* Gets the past events */}}
+              {{- $past_events := where (where .Site.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+
+              {{/* Gets the past events that have youtube_id set */}}
+              {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+
+              {{/* Merges the past events and the recent blog posts */}}
+              {{ $events_stream := union $future_events $past_events }}
+
+              {{/* Sorting all the items by date and reverse chron */}}
+              {{ $events_stream := $events_stream.ByDate.Reverse }}
+
+              {{/* If there are any events */}}
+              {{- if $events_stream -}}
+                <h2>Events for {{ .Title -}}</h2>
+
+                {{/* Loop through all the pages */}}
+                {{- range first 5 $events_stream -}}
+                  {{ if .Params.registration_url }}
+                    {{ .Render "card-event" }}
+                  {{ else }}
+                    {{- .Render "card-event" -}}
+                  {{ end }}
+                {{- end -}}
+                {{/* {{- partial "core/pagination.html" . -}} */}}
+              {{- else -}}
+                No Events to Display
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div>
+    <section>
+      <div class="">
+        <div class="">
+          <div class="grid-row tablet-lg:grid-gap-4">
+            <div class="grid-col-12 ">
+              {{/* Gets the recent blog posts */}}
+              {{- $posts := where .Paginator.Pages "Section" "news" -}}
+
+              {{/* Sorting all the items by date and reverse chron */}}
+              {{ $posts_stream := $posts.ByDate.Reverse }}
+
+              {{/* If there are any events */}}
+              {{- if $posts_stream -}}
+                <h2>News on {{ .Title -}}</h2>
+
+                {{/* Loop through all the pages */}}
+                {{- range $posts_stream -}}
+                  {{/* External links */}}
+                  {{- if .Params.source -}}
+                    {{/* see /layouts/news/ for card templates */}}
+                    {{ .Render "card-elsewhere" }}
+                  {{ else }}
+                    {{/* Blog Posts — Internal links */}}
+                    {{- if .Params.deck }}
+                      {{/* see /layouts/news/ for card templates */}}
+                      {{ .Render "card-article" }}
+                    {{ else }}
+                      {{/* see /layouts/news/ for card templates */}}
+                      {{ .Render "card-article" }}
+                    {{ end }}
+                  {{- end -}}
+                {{- end -}}
+                {{- partial "core/pagination.html" . -}}
+              {{- end -}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </article>

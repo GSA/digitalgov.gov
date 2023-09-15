@@ -12,6 +12,7 @@
 {{ $link_external := false }} {{/* TODO: fix external link logic to work on all environments */}}
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
+{{ $title := .title }}
 {{ $href := .href }}
 {{ $url := urls.Parse $href }}
 {{ $meta_source := .meta_source }}
@@ -26,14 +27,21 @@
   {{ end }}
 
   <li class="usa-collection__item{{ if not $list_default_width }} usa-collection__item--full-width{{ end }}" data-edit-this="{{- $path -}}">
-    {{ if eq $variant "media" }}
+    {{ if or (eq $variant "media") (eq $variant "custom") }}
       {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source) -}}
     {{ end }}
     <div class="usa-collection__body">
       <h{{ $list_header | safeHTML }} class="usa-collection__header">
-        <a class="usa-link {{ if $link_external }}usa-link--external{{ end }}" href="{{- $href -}}" title="{{- .Title | markdownify -}}">
-          {{- .Title | markdownify -}}
-        </a>
+        {{ if .Title }}
+          <a class="usa-link {{ if $link_external }}usa-link--external{{ end }}" href="{{- $href -}}" title="{{- .Title | markdownify -}}">
+            {{- .Title | markdownify -}}
+          </a>
+        {{ end }}
+        {{ if $title }}
+          <a class="usa-link {{ if $link_external }}usa-link--external{{ end }}" href="{{- $href -}}" title="{{- $title | markdownify -}}">
+            {{- $title | markdownify -}}
+          </a>
+        {{ end }}
       </h{{ $list_header | safeHTML }}>
       {{ if ne $variant "headings" }}
         <p class="usa-collection__description">

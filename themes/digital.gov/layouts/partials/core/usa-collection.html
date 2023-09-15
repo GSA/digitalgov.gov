@@ -9,12 +9,14 @@
 {{ $data := .data }}
 {{ $length := or .length 10 }}
 {{ $href := "" }}
+{{ $title := "" }}
 {{ $logo_source := "" }}
 {{ $variant := .variant }}
 {{ $meta_source := .meta_source }}
 {{ $list_header := .list_header }}
 {{ $list_default_width := .list_default_width }}
 {{ $is_truncated := .is_truncated }}
+
 
 <ul class="usa-collection">
   {{ if $data }}
@@ -33,7 +35,11 @@
         {{ $href = .Params.source_url }}
       {{ else }}
         {{ $logo_source = (print "/img/digit-50.png") }}
-        {{ $href = (print .Permalink "?dg") }}
+        {{ if .Permalink }}
+          {{ $href = (print .Permalink "?dg") }}
+        {{ else }}
+          {{ $href = .href }}
+        {{ end }}
       {{ end }}
 
       {{/* If using "headings" variant and no meta_source is present, create one from the source_url or source or set as Digita.gov as the default */}}
@@ -49,9 +55,13 @@
         {{ end }}
       {{ end }}
 
+      {{ if .title }}
+        {{ $title = .title }}
+      {{ end }}
+
       {{/* If image exists, then display as list item */}}
       {{ if $logo_source }}
-        {{- partial "core/collection/collection-list-item" (dict "list_item" . "href" $href "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "is_truncated" $is_truncated) -}}
+        {{- partial "core/collection/collection-list-item" (dict "list_item" . "title" $title "href" $href "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "is_truncated" $is_truncated) -}}
       {{ end }}
 
     {{ end }}

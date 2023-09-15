@@ -24,10 +24,10 @@
   @param {string} footer_text - Set a short string description (defaults to topic name) at the footer to link to other page that reads "More on {{ $footer_text }}"
 @param {string} meta_source - The referring source for an external link that
 reads "Performance.gov". Use .Params.source if using a resources collection
-  @param {boolean} list_default_width - true will default uswds width of 72ex, false will set to 100% full width
-  @param {boolean} is_truncated - true will truncate the list item description summary to 140 characters, false will display full summary
-
-@example
+@param {boolean} list_default_width - true will default uswds width of 72ex,
+false will set to 100% full width @param {boolean} is_truncated - true will
+truncate the list item description summary to 140 characters, false will display
+full summary @example
 {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
 
 */}}
@@ -48,7 +48,11 @@ reads "Performance.gov". Use .Params.source if using a resources collection
 {{ if $data }}
   <div class="dg-collection">
     <div class="grid-row">
-      <div class="grid-col-12 {{ if $list_default_width }}tablet-lg:grid-col-10 {{ end }}">
+      <div
+        class="grid-col-12 {{ if $list_default_width }}
+          tablet-lg:grid-col-10
+        {{ end }}"
+      >
         {{ if $header_title }}
           {{ partial "core/collection/collection-header" (dict "header_title" $header_title "header_size" $header_size "header_link" $header_link "header_id" $header_id) }}
         {{ end }}
