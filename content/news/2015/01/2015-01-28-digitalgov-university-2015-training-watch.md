@@ -81,4 +81,4 @@ Did we hit the mark? What else would you suggest? Add your suggestions in the co
 
 Also, don’t forget, in May we will host our 2nd DigitalGov Citizen Services Summit and we are Crowdsourcing the panels and presentations. You can [suggest ideas](https://crowdhall.com/h/299/) for the Summit on our crowdsourcing platform that relate to the theme of "Open."
 
-We work with our community leaders and program managers who cull the listservs, and keep their finger on the pulse of the communities to make sure we are getting you the info you need. We’d also love to hear from you too—suggestions below or [email us](mailto:digitalgovu@gsa.gov).
+We work with our community leaders and program managers who cull the listservs, and keep their finger on the pulse of the communities to make sure we are getting you the info you need. We’d also love to hear from you too—suggestions below or [email us](mailto:digitalgov@gsa.gov).

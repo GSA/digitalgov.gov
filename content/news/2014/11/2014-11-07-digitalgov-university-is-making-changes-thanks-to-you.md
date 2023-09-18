@@ -28,7 +28,7 @@ More than a few of you who&#8217;ve attended an event commented that you were su
 
 We&#8217;ve heard from you that your boss, supervisor, colleagues or staff aren&#8217;t aware of our programs or the benefits. This year we will be looking to expand our reach. We [have an Open Opportunity available](http://http://gsablogs.gsa.gov/dsic/2014/09/09/create-an-event-widget-for-digitalgov-u/) for some help in developing a widget we can share across agencies to post on intranets. We will also do some additional outreach and marketing. However our largest and most successful channel for acquiring new attendees is YOU. We hope you [share our daily/weekly digest subscription](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new), and tell colleagues about our events.
 
-Last, and most important, [tell us how the event](mailto:digitalgovu@gsa.gov?subject=Making%20Changes with DGU) has helped you make change at your agency.
+Last, and most important, [tell us how the event](mailto:digitalgov@gsa.gov?subject=Making%20Changes with DGU) has helped you make change at your agency.
 
 ## Finding 3: You want to BE HERE when you can&#8217;t be here (and we want you here, too)
 

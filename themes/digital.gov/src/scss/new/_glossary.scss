@@ -1,0 +1,96 @@
+@use "uswds-core" as *;
+
+.dg-glossary {
+  &__container {
+    @include u-z(300);
+    background: color("primary-darker");
+    bottom: 0;
+    color: color("base-lightest");
+    overflow-y: scroll;
+    padding: units(5);
+    position: fixed;
+    right: 0;
+    top: 0;
+    transition: right 0.2s;
+    width: units("mobile");
+
+    &[aria-hidden="true"] {
+      right: units("mobile") * -1;
+    }
+  }
+
+  &__close {
+    background: none;
+    border: 0;
+    color: color("base-lightest");
+    cursor: pointer;
+    float: right;
+  }
+
+  &__definition {
+    @include u-font("sans", "xs");
+    @include u-line-height("sans", 6);
+    margin: units(2) 0;
+    width: full;
+  }
+
+  &__icon {
+    margin-top: units(1);
+    pointer-events: none;
+    position: absolute;
+    right: units(4);
+    transform: rotate(-90deg);
+    transition: 0.3s;
+
+    &.active {
+      transform: rotate(0deg);
+    }
+  }
+
+  &__search {
+    margin-bottom: units(3);
+  }
+
+  &__term {
+    background: none;
+    border: 0;
+    border-bottom-style: solid;
+    border-color: color("base-lightest");
+    border-width: thin;
+    color: color("base-lightest");
+    cursor: pointer;
+    font-weight: bold;
+    margin: units("05") 0;
+    padding: units(1) units(3) units(1) 0;
+    position: relative;
+    text-align: left;
+    width: 100%;
+  }
+
+  &__toggle {
+    @include u-text("light", "black");
+    align-items: center;
+    background: none;
+    border: none;
+    display: flex;
+    gap: units("05");
+    height: units(4);
+    text-decoration: none;
+    width: max-content;
+
+    &-icon {
+      pointer-events: none;
+    }
+
+    &:focus,
+    &:hover {
+      color: color("primary");
+      fill: color("primary");
+      outline: none !important;
+    }
+
+    &:visited {
+      color: color("black");
+    }
+  }
+}

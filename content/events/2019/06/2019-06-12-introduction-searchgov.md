@@ -45,4 +45,4 @@ In this online event, we’ll provide a basic overview of Search.gov’s essenti
 
 For more information about Search.gov, email [search@support.digitalgov.gov](mailto:search@support.digitalgov.gov), or call 202-969-7426. 
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._

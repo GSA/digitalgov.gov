@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/sources/dotgoc
+# View this page at https://digital.gov/sources/dotgov
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)

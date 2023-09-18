@@ -26,6 +26,7 @@
         {{ if $source.Params.logo }}
           {{ $logo_source = (printf "/logos/%s%s" $source.Params.logo "-icon.png") }}
         {{ end }}
+        {{ $href = .Params.source_url }}
       {{ else if .Params.source_url }}
         {{ $logo_source = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
         {{ $href = .Params.source_url }}

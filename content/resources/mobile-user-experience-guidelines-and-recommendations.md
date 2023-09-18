@@ -4,7 +4,6 @@ date: 2013-12-11 4:13:00 -0400
 title: Mobile User Experience Guidelines
 summary: "Six user experience guidelines for creating a mobile product."
 deck: "Six user experience guidelines for creating a mobile product."
-guidenav: connected-government
 authors:
   - jparcell
 topics:

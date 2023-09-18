@@ -40,7 +40,7 @@ This talk is hosted by the [Presidential Innovation Fellows](https://www.preside
 
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
-_Questions about this event or future events?_ Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+_Questions about this event or future events?_ Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 
 
 ---
 
