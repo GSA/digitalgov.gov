@@ -25,29 +25,15 @@
           {{ if $header }}
             <h3 class="usa-alert__heading">{{- $header -}}</h3>
           {{ end }}
-          {{ if $text_normal }}
+          {{ if eq (len .alerts) 1 }}
             <p class="usa-alert__text">
-              {{ if $text_bold }}
-                <strong>Bold text emphasis text</strong>
-              {{ end }}
-              {{ $text_normal }}
-              {{ if $link_url }}
-                <a class="usa-link" href="{{ $link_url }}">{{ $link_text }}</a>
-              {{ end }}
+              {{ index (.alerts) 0 | markdownify }}
             </p>
-          {{ end }}
-          {{ if .list_alerts }}
+          {{ else }}
             <ul class="usa-list">
-              {{ range .list_alerts }}
-                <li>
-                  {{ .alert | safeHTML }}
-                </li>
-              {{ end }}
-              {{/* {{ .text }}
-              {{ if .link_url }}
-                <a class="usa-link" href="{{ .link_url }}">{{ .link_text }}</a>
-              {{ end }}
-              */}}
+            {{ range .alerts }}
+              <li>{{ . | markdownify }}</li>
+            {{ end }}
             </ul>
           {{ end }}
         </div>

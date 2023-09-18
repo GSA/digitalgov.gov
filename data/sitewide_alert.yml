@@ -12,16 +12,9 @@ data:
   has_icon: true
   is_slim: false
   header: "Guidance for U.S. government websites and social media for:"
-  text_bold: "Warning to users"
-  text_normal: "Hawaii wildfires"
-  link_text: "digital.gov/hawaii-wildfires"
-  link_url: "/resources/hawaii-wildfires-guidance-for-us-government/"
-  list_alerts:
-    - alert: 'Hawaii wildfires: <a class="usa-link" href="/resources/hawaii-wildfires-guidance-for-us-government/">digital.gov/hawaii-wildfires</a>'
-    - alert: 'Hawaii wildfires: <a class="usa-link" href="/resources/hawaii-wildfires-guidance-for-us-government/">digital.gov/hawaii-wildfires</a>'
+  alerts:
+    - "Hawaii wildfires: [digital.gov/hawaii-wildfires](/hawaii-wildfires)"
     # - text: "Hawaii wildfires"
     #   link_text: "digital.gov/hawaii-wildfires"
     #   link_url: "/resources/hawaii-wildfires-guidance-for-us-government/"
-    # - text: "Hawaii wildfires"
-    #   link_text: "digital.gov/hawaii-wildfires"
-    #   link_url: "/resources/hawaii-wildfires-guidance-for-us-government/"
+    # - 'Hurricane Idalia: <a class="usa-link" href="/resources/hurricane-idalia-guidance-for-us-government/">digital.gov/hurricane-idalia</a>'
