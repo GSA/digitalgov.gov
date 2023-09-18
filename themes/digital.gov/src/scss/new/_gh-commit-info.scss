@@ -12,17 +12,6 @@
     padding: units(2) 0;
   }
 
-  &__edit-button {
-    @include u-font("sans", "xs");
-    background-color: white;
-    border: 2px color("blue-warm-50v") solid;
-    border-radius: 0.25rem;
-    color: color("blue-warm-50v");
-    font-weight: 600;
-    padding: units("2px") units(1);
-    text-decoration: none;
-  }
-
   &__description {
     @include u-font("sans", "xs");
     margin: 0;

@@ -124,7 +124,7 @@
     const gitEditFilePath = `${baseURL}/edit/${gitRepo.branch}/content/${gitRepo.filepath}`;
 
     const githubEditLink = Object.assign(document.createElement("a"), {
-      classList: "gh-commit-info__edit-button",
+      classList: "usa-button usa-button--outline",
       href: `${gitEditFilePath}`,
       innerHTML: "Edit",
       target: "_blank",

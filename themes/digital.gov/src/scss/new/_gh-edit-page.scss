@@ -91,10 +91,7 @@
     width: 4.5rem;
     z-index: 99999;
 
-    &:hover {
-      background-color: color("blue-60v");
-    }
-
+    &:hover,
     &:focus {
       background-color: color("blue-60v");
     }
@@ -113,10 +110,7 @@
     color: color("blue-50v");
     padding: 12px;
 
-    &:hover {
-      background-color: color("gray-3");
-    }
-
+    &:hover,
     &:focus {
       background-color: color("gray-3");
     }
@@ -129,14 +123,9 @@
     bottom: 110px;
     color: white;
     display: block;
-
     padding: 12px;
 
-    &:hover {
-      background-color: color("red-40v");
-      border: units(1) color("red-60v") solid;
-    }
-
+    &:hover,
     &:focus {
       background-color: color("red-40v");
       border: units(1) color("red-60v") solid;
