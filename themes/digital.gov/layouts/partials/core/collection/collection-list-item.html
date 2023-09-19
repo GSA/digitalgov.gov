@@ -13,7 +13,10 @@
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
 {{ $title := .title }}
+
+{{ $topic_icon := .topic_icon }}
 {{ $href := .href }}
+{{ $summary := .summary }}
 {{ $url := urls.Parse $href }}
 {{ $meta_source := .meta_source }}
 {{ $list_default_width := .list_default_width }}
@@ -28,7 +31,7 @@
 
   <li class="usa-collection__item{{ if not $list_default_width }} usa-collection__item--full-width{{ end }}" data-edit-this="{{- $path -}}">
     {{ if or (eq $variant "media") (eq $variant "custom") }}
-      {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source) -}}
+      {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source "topic_icon" $topic_icon) -}}
     {{ end }}
     <div class="usa-collection__body">
       <h{{ $list_header | safeHTML }} class="usa-collection__header">
@@ -45,11 +48,19 @@
       </h{{ $list_header | safeHTML }}>
       {{ if ne $variant "headings" }}
         <p class="usa-collection__description">
-          {{- if .Params.summary -}}
+          {{/*  Use .Params.summary if data is hugo page object, else use the custom .summary field to populate the description  */}}
+          {{ $item_summary := "" }}
+          {{ if .Params.summary }}
+            {{ $item_summary = .Params.summary }}
+          {{ else if .summary }}
+            {{ $item_summary = .summary }}
+          {{ end }}
+
+          {{- if $item_summary -}}
             {{- if .Params.is_truncated -}}
-              {{- .Params.summary | markdownify | truncate 140 -}}
+              {{- $item_summary | markdownify | truncate 140 -}}
             {{ else }}
-              {{- .Params.summary | markdownify -}}
+              {{- $item_summary | markdownify -}}
             {{ end }}
           {{- else -}}
             {{- .Params.deck | markdownify -}}

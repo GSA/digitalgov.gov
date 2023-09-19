@@ -10,6 +10,8 @@
 {{ $length := or .length 10 }}
 {{ $href := "" }}
 {{ $title := "" }}
+{{ $summary := "" }}
+{{ $topic_icon := "" }}
 {{ $logo_source := "" }}
 {{ $variant := .variant }}
 {{ $meta_source := .meta_source }}
@@ -40,6 +42,8 @@
         {{ else }}
           {{ $href = .href }}
           {{ $title = .title }}
+          {{ $summary = .summary }}
+          {{ $topic_icon = .topic_redirect }}
         {{ end }}
       {{ end }}
 
@@ -58,7 +62,7 @@
 
       {{/* If image exists, then display as list item */}}
       {{ if $logo_source }}
-        {{- partial "core/collection/collection-list-item" (dict "list_item" . "title" $title "href" $href "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "is_truncated" $is_truncated) -}}
+        {{- partial "core/collection/collection-list-item" (dict "list_item" . "title" $title "summary" $summary "href" $href "logo_source" $logo_source "topic_icon" $topic_icon "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "is_truncated" $is_truncated) -}}
       {{ end }}
 
     {{ end }}

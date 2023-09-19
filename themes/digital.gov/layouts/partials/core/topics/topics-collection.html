@@ -68,20 +68,38 @@
     </div>
   </div>
 
-
   <div class="grid-row tablet-lg:grid-gap-4">
-
-    {{ $multiple_resources := eq (.Params.data.featured_resources | len) 2 }}
+    {{/* {{ $multiple_resources := eq (.Params.data.featured_resources | len) 2 }}
+    */}}
+    {{ $multiple_resources := true }}
     {{ range .Params.data.featured_resources }}
-      <div class="{{ if $multiple_resources }}grid-col-6{{else}}grid-col-12{{end}}">
-        {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" .kicker ) -}} 
+      <div
+        class="{{ if $multiple_resources }}
+          grid-col-6
+        {{ else }}
+          grid-col-12
+        {{ end }}"
+      >
+        {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" .kicker ) -}}
       </div>
     {{ end }}
 
-    {{ $multiple_communities := eq (.Params.data.communities | len) 2 }}
+    {{/* {{ $number := .Params.data.communities | len }} */}}
+    {{/* {{ printf "%#v" $number }} */}}
+    {{/* {{ $condition := gt (len .Params.data.communities) 1 }} */}}
+    {{/* {{ printf "%#v" $condition }} */}}
+    {{/* {{ $multiple_communities := eq (.Params.data.communities | len) 2 }}
+    */}}
+    {{ $multiple_communities := true }}
     {{ range .Params.data.communities }}
-      <div class="{{ if $multiple_communities }}grid-col-6{{else}}grid-col-12{{end}}">
-        {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" "Join a Community" ) -}} 
+      <div
+        class="{{ if $multiple_communities }}
+          grid-col-6
+        {{ else }}
+          grid-col-12
+        {{ end }}"
+      >
+        {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" "Join a Community" ) -}}
       </div>
     {{ end }}
   </div>
@@ -91,8 +109,8 @@
     <div class="grid-col-12">
       <h2>What you need to know</h2>
 
-        {{ $top_resources := .Params.data.top_resources }}
-        {{- partial "partials/core/collection/collection.html" (dict "data" $top_resources "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "is_truncated" false) -}}
+      {{ $top_resources := .Params.data.top_resources }}
+      {{- partial "partials/core/collection/collection.html" (dict "data" $top_resources "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "is_truncated" false) -}}
 
     </div>
   </div>
