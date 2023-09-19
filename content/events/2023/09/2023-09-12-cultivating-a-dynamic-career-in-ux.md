@@ -39,7 +39,7 @@ In this session, you’ll learn how to:
 ## Speakers
 
 * **UX Community co-lead, Natalie Buda Smith** - Director of Digital Strategy, Library of Congress 
-* **Michelle Zager** - TEI
+* **Michelle Zager** - Program Manager, Treasury Executive Institute (TEI), Department of the Treasury
 * **Carlos Alvarado** - Senior UX Designer, Library of Congress
 
 ## Moderator
