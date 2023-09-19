@@ -10,107 +10,80 @@
   data-edit-this="{{- $path -}}"
 >
   {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+  <header>
+    <div data-edit-this="{{- $path -}}">
+      <h1>{{- .Params.data.header.title -}}</h1>
+      {{- if .Params.data.header.deck -}}
+        <div class="deck">{{- .Params.data.header.deck -}}</div>
+      {{- end -}}
+    </div>
+  </header>
 
-  {{/*  Look up the yaml file for the topic collection  */}}
-  {{/*  {{ $data := (index .Site.Data.topics .Params.yaml_file) }}  */}}
-  {{ $data := "" }}
-  {{ with .Params.yaml }}
-    {{ $data = index .Site.Data.topics .name }}
-  {{ end }}
-  {{/*  {{ $data := (index .Site.Data.topics.design) }}  */}}
-  {{/*  {{ $yaml := .Params.yaml_file }}
-  {{ printf "%#v" $yaml }}  */}}
+  <div class="grid-row tablet-lg:grid-gap-4">
+    <div class="grid-col-6 content usa-prose dg-landing__body">
+      {{/* Use same prose styles as HCD guides */}}
+      {{ if .Params.data.contents.summary }}
+        <p>
+          {{- .Params.data.contents.summary -}}
+        </p>
+      {{ end }}
+    </div>
 
-  {{ range $data }}
-    <header>
-      <div data-edit-this="{{- $path -}}">
-        <h1>{{- .header.title -}}</h1>
-        {{- if .header.deck -}}
-          <div class="deck">{{- .header.deck -}}</div>
-        {{- end -}}
-      </div>
-    </header>
-
-    <div class="grid-row tablet-lg:grid-gap-4">
-      <div class="grid-col-6 content usa-prose dg-landing__body">
-        {{/* Use same prose styles as HCD guides */}}
-        {{ if .contents.summary }}
-          <p>
-            {{- .contents.summary -}}
-          </p>
-        {{ end }}
-      </div>
-
-      <div class="grid-col-6">
-        <ul class="usa-card-group">
-          <li class="usa-card usa-card--flag">
-            <div class="usa-card__container">
-              {{ if .contents.legislation.name }}
-                <div class="usa-card__header">
-                  <h2 class="usa-card__heading">
-                    {{ .contents.legislation.name }}
-                  </h2>
-                </div>
-              {{ end }}
-              <div class="usa-card__media">
-                <div class="usa-card__img">
-                  <img
-                    src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-                    alt="A placeholder image"
-                  />
-                </div>
+    <div class="grid-col-6">
+      <ul class="usa-card-group">
+        <li class="usa-card usa-card--flag">
+          <div class="usa-card__container">
+            {{ if .Params.data.contents.legislation.name }}
+              <div class="usa-card__header">
+                <h2 class="usa-card__heading">
+                  {{ .Params.data.contents.legislation.name }}
+                </h2>
               </div>
-              <div class="usa-card__body">
-                <p>
-                  {{ .contents.legislation.description }}
-                </p>
-              </div>
-              <div class="usa-card__footer">
-                {{ if .contents.legislation.link_url }}
-                  <a
-                    href="{{- .contents.legislation.link_url -}}"
-                    class="usa-button"
-                    >{{ .contents.legislation.link_text }}</a
-                  >
-                {{ end }}
+            {{ end }}
+            <div class="usa-card__media">
+              <div class="usa-card__img">
+                <img
+                  src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
+                  alt="A placeholder image"
+                />
               </div>
             </div>
-          </li>
-        </ul>
-      </div>
+            <div class="usa-card__body">
+              <p>
+                {{ .Params.data.contents.legislation.description }}
+              </p>
+            </div>
+            <div class="usa-card__footer">
+              {{ if .Params.data.contents.legislation.link_url }}
+                <a
+                  href="{{- .Params.data.contents.legislation.link_url -}}"
+                  class="usa-button"
+                  >{{ .Params.data.contents.legislation.link_text }}</a
+                >
+              {{ end }}
+            </div>
+          </div>
+        </li>
+      </ul>
     </div>
-  {{ end }}
+  </div>
 
 
-  <div class="grid-row">
+  <div class="grid-row tablet-lg:grid-gap-4">
 
-    {{/*  TODO: replace with a loop  */}}
-    {{ $featured_resource_path := "" }}
-    {{ $featured_resource_kicker := "" }}
-
-    {{ $communty_path := "" }}
-
-    {{ range $data }}
-      {{ range .featured_resources }}
-        {{ $featured_resource_path = .link }}
-        {{ $featured_resource_kicker = .kicker }}
-      {{ end }}
-
-      {{ range .communities }}
-        {{ $communty_path = .link }}
-      {{ end }}
+    {{ $multiple_resources := eq (.Params.data.featured_resources | len) 2 }}
+    {{ range .Params.data.featured_resources }}
+      <div class="{{ if $multiple_resources }}grid-col-6{{else}}grid-col-12{{end}}">
+        {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" .kicker ) -}} 
+      </div>
     {{ end }}
 
-
-    {{/*  TODO: Check if there is 1 or more resources  */}}
-    <div class="grid-col-12">
-      {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" $featured_resource_path "kicker" $featured_resource_kicker ) -}}
-    </div>
-
-    {{/*  TODO: Check if there is 1 or more community  */}}
-    <div class="grid-col-12">
-      {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" $communty_path "kicker" "Join a Community") -}}
-    </div>
+    {{ $multiple_communities := eq (.Params.data.communities | len) 2 }}
+    {{ range .Params.data.communities }}
+      <div class="{{ if $multiple_communities }}grid-col-6{{else}}grid-col-12{{end}}">
+        {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" "Join a Community" ) -}} 
+      </div>
+    {{ end }}
   </div>
 
   {{/* Resources, Services/Tools, Guides */}}
@@ -118,10 +91,8 @@
     <div class="grid-col-12">
       <h2>What you need to know</h2>
 
-      {{ range $data }}
-        {{ $top_resources := .top_resources }}
+        {{ $top_resources := .Params.data.top_resources }}
         {{- partial "partials/core/collection/collection.html" (dict "data" $top_resources "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "is_truncated" false) -}}
-      {{ end }}
 
     </div>
   </div>
