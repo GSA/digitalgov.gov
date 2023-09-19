@@ -47,7 +47,7 @@ Great websites are rooted in customer understanding, so learn what your customer
 * [USWDS Patterns](https://designsystem.digital.gov/patterns/) - Employ patterns to provide a m.ore consistent user experience
 * [Eight principles of mobile-friendliness](https://digital.gov/guides/mobile-principles/?dg) - Test your site to ensure it works well on any size of screen
 * [Sunrise to Sunset: Building a Customer-centric Digital Ecosystem](https://digital.gov/2022/10/14/sunrise-to-sunset-building-a-customer-centric-digital-ecosystem/) - Learn how GSA built the Digital Lifecycle Program to help GSA web teams manage a website throughout its entire lifecycle.
-* [The U.S. Web Design System (USWDS) and onrr.gov](https://blog-nrrd.doi.gov/USWDS/) - Read this USWDS case study from Dept. of Interior 
+* [The U.S. Web Design System (USWDS) and onrr.gov](https://blog-nrrd.doi.gov/USWDS/) - Read this USWDS case study from Dept. of Interior
 * [Barriers to Government’s Adoption of User-centered Design — And How To Address Them](https://18f.gsa.gov/2019/11/07/barriers-to-governments-adoption-of-user-centered-design-and-how-to-address-them/?dg) - Practical advice to help government agencies get started with user research
 
 ## Connect with others interested in design
