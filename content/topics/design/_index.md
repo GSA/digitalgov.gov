@@ -2,21 +2,21 @@
 # This topic lives at
 # https://digital.gov/topics/design
 
-slug: "design-user-experience"
+slug: "design"
 
 # Topic Title
-title: "Design & User Experience"
+title: "Design"
 
 # description — keep it short and clear
-summary: "Guidance, resources, and community to help you use design and user experience to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
+summary: "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
 deck: "Understand how and why design impacts user experience"
 
 topic_collection: true
-yaml_file: "design_ux"
-legal_stamp: "21 Idea"
+yaml:
+  name: "design"
+legal_stamp: "21 Century IDEA"
 legal_stamp_link: "https://www.govinfo.gov/app/details/DCPD-202101050"
 guides_link: "https://digital.gov/guides/hcd/"
-primary_image: topics-header-bg-image
 
 
 # Weight

@@ -1,5 +1,5 @@
 # Topics collection data for design and user experience
-design_ux:
+design:
   header:
     title: "Design"
     deck: "Understand how and why design impacts user experience"
@@ -7,7 +7,7 @@ design_ux:
     summary: "Guidance, resources, and community to help you use design and user experience to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
     legislation:
       name: "21 Century IDEA"
-      description: "View policy"
+      description: ""
       link_text: "View Policy"
       link_url: "https://www.govinfo.gov/app/details/DCPD-202101050"
   featured_resources:
@@ -26,5 +26,5 @@ design_ux:
       href: "https://digital.gov/2022/12/13/to-build-trust-aim-for-easy/"
     - title: "See more user experience resources"
       href: "https://digital.gov/topics/user-experience/"
-    - title: "Seem more design resources"
+    - title: "See more design resources"
       href: https://digital.gov/topics/design

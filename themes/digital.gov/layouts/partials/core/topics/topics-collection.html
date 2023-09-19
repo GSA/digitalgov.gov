@@ -11,7 +11,17 @@
 >
   {{- partial "partials/core/usa-breadcrumbs.html" . -}}
 
-  {{ range .Site.Data.topics.design_ux }}
+  {{/*  Look up the yaml file for the topic collection  */}}
+  {{/*  {{ $data := (index .Site.Data.topics .Params.yaml_file) }}  */}}
+  {{ $data := "" }}
+  {{ with .Params.yaml }}
+    {{ $data = index .Site.Data.topics .name }}
+  {{ end }}
+  {{/*  {{ $data := (index .Site.Data.topics.design) }}  */}}
+  {{/*  {{ $yaml := .Params.yaml_file }}
+  {{ printf "%#v" $yaml }}  */}}
+
+  {{ range $data }}
     <header>
       <div data-edit-this="{{- $path -}}">
         <h1>{{- .header.title -}}</h1>
@@ -73,12 +83,14 @@
 
 
   <div class="grid-row">
+
+    {{/*  TODO: replace with a loop  */}}
     {{ $featured_resource_path := "" }}
     {{ $featured_resource_kicker := "" }}
 
     {{ $communty_path := "" }}
 
-    {{ range .Site.Data.topics.design_ux }}
+    {{ range $data }}
       {{ range .featured_resources }}
         {{ $featured_resource_path = .link }}
         {{ $featured_resource_kicker = .kicker }}
@@ -90,9 +102,12 @@
     {{ end }}
 
 
+    {{/*  TODO: Check if there is 1 or more resources  */}}
     <div class="grid-col-12">
       {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" $featured_resource_path "kicker" $featured_resource_kicker ) -}}
     </div>
+
+    {{/*  TODO: Check if there is 1 or more community  */}}
     <div class="grid-col-12">
       {{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" $communty_path "kicker" "Join a Community") -}}
     </div>
@@ -102,11 +117,10 @@
   <div class="grid-row tablet-lg:grid-gap-4">
     <div class="grid-col-12">
       <h2>What you need to know</h2>
-      {{- $resources := (where .Pages "Section" "resources") -}}
 
-      {{ range .Site.Data.topics.design_ux }}
+      {{ range $data }}
         {{ $top_resources := .top_resources }}
-        {{- partial "partials/core/collection/collection.html" (dict "data" $top_resources "variant" "custom" "limit" 5 "list_header" 3 "list_default_width" false "is_truncated" false) -}}
+        {{- partial "partials/core/collection/collection.html" (dict "data" $top_resources "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "is_truncated" false) -}}
       {{ end }}
 
     </div>
