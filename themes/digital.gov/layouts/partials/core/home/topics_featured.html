@@ -17,7 +17,7 @@
               {{ else }}
                 {{ $path = .Path }}
               {{ end }}
-              <div class="topic" data-edit-this="{{- $path -}}">
+              <div class="topic" data-gh-edit-page="{{- $path -}}">
                 <h3>
                   <a href="{{- .Permalink | absURL -}}" title="{{- .Title -}}"
                     >{{- .Title -}} <span>&#8594;</span></a

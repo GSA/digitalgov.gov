@@ -13,7 +13,7 @@
   class="card card-event {{ if $isPastEvent }}
     card-event--past
   {{ end }}card-linked"
-  data-edit-this="{{- $path -}}"
+  data-gh-edit-page="{{- $path -}}"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ .Title | urlize }}"
 >

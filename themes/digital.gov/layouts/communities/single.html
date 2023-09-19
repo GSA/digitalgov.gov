@@ -8,7 +8,7 @@
         {{ else }}
           {{ $path = .Path }}
         {{ end }}
-        <div data-edit-this="{{- $path -}}">
+        <div data-gh-edit-page="{{- $path -}}">
           {{/* Page Title */}}
           <h1>{{ .Title | markdownify }} Community</h1>
 
@@ -31,7 +31,7 @@
         ></aside>
         {{/* Summary */}}
         {{- if .Params.summary -}}
-          <div class="content usa-prose">
+          <div class="content usa-prose" data-gh-edit-page="{{- $path -}}">
             <p>{{- .Params.summary | markdownify -}}</p>
 
             {{- if .Params.community_list -}}
@@ -128,7 +128,7 @@
             </div>
             <div>
               <br />
-              {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
+              {{- partial "core/gh-commit-info.html" . -}}
             </div>
           </div>
         {{- end -}}

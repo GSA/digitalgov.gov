@@ -253,22 +253,6 @@
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-  <!-- GitHub -->
-  <script type="text/javascript">
-    git_org          = {{ .Site.Params.git_org }};
-    git_repo         = {{ .Site.Params.git_repo }};
-    goUsaUsername    = {{ .Site.Params.goUsaUsername }};
-    goUsaApiKey      = {{ .Site.Params.goUsaApiKey }};
-    branch           = {{ $.Scratch.Get "branch" }};
-    short_url        = {{ if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}""{{- end -}};
-    filename         = {{ with .File -}}{{- .LogicalName -}}{{- end }};
-    {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-    filepath         = {{ with .File -}}{{ $path }}{{- end }};
-    filepathURL      = {{ with .File -}}{{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}{{- end }};
-    editpathURL      = {{ with .File -}}{{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}{{- end }};
-    <!-- {{ getenv "BRANCH" }} | {{ $.Scratch.Get "branch" }} -->
-  </script>
-
   <script
     type="text/javascript"
     src="//script.crazyegg.com/pages/scripts/0007/9651.js"
