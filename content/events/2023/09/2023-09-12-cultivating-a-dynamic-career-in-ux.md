@@ -24,6 +24,8 @@ primary_image: "cultivating-a-dynamic-career-in-ux-title-card"
 
 ---
 
+{{< asset-static file="cultivating-a-dynamic-UX-career.pptx" label="View the slides (PowerPoint presentation, 1.3 MB, 25 pages)" >}}
+
 Join us as we explore what success can look like in a dynamic user experience (UX) career. Speakers from the Department of the Treasury and the Library of Congress will share their insights on how their careers in UX have continued to evolve.
 
 In this session, you’ll learn how to:
