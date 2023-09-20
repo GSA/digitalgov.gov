@@ -22,7 +22,7 @@ Not everyone who uses government services or engages with federal agencies are U
 Additionally, where possible:
 
 * Avoid using gendered pronouns; instead, use they or their.
-* Avoid age-related descriptions of people unless absolutely necessary for the content; in those cases, try using `older people` or `older person` &mdash; instead of *elderly* or *senior*.
+* Avoid age-related descriptions of people unless absolutely necessary for the content; in those cases, try using `older people` or `older person` &mdash; instead of _elderly_ or _senior_.
 
 See the **18F Content Guide** for more on inclusive language: https://content-guide.18f.gov/inclusive-language/.
 
@@ -43,7 +43,7 @@ Do not capitalize words like _federal_, _government_, or _agency_ unless it is:
 
 #### Format
 
-**December 2022**: We are switching from [title case](https://en.wikipedia.org/wiki/Letter_case#Title_case) to [sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) for all titles and paragraph headers. 
+**December 2022**: We are switching from [title case](https://en.wikipedia.org/wiki/Letter_case#Title_case) to [sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) for all titles and paragraph headers.
 
 Headlines are key to a story. They have to stand on their own in conveying the story, and must include key context. They should tempt readers to want to read more, without misleading or overpromising. A concise, well-worded headline will tempt readers to want to learn more. Try to keep titles to under 64 characters.
 
@@ -66,7 +66,7 @@ Title case: `How Effective Is Your Communication?`<br />
 Title case: `User Experience (UX) vs Customer Experience (CX): What’s the Dif?`<br />
 **New sentence case**: `User experience (UX) vs customer experience (CX): What’s the dif?`
 
-If you’re unsure, many free, web-based title case tools use filters to set AP Style and title case (Examples: [capitalizemytitle.com](http://www.capitalizemytitle.com) and [titlecase.com](http://www.titlecase.com)). 
+If you’re unsure, many free, web-based title case tools use filters to set AP Style and title case (Examples: [capitalizemytitle.com](http://www.capitalizemytitle.com) and [titlecase.com](http://www.titlecase.com)).
 
 #### Size
 
@@ -214,7 +214,7 @@ If it’s a list of fragments, do not use punctuation at the end. Capitalize the
 
 #### i.e., vs. e.g.,
 
-These two terms are not interchangeable; each has its own meaning and usage. 
+These two terms are not interchangeable; each has its own meaning and usage.
 
 The abbreviation "i.e." stands for the Latin phrase, _id est_, which means "that is" or "in other words."
 
@@ -222,16 +222,16 @@ The abbreviation "i.e." stands for the Latin phrase, _id est_, which means "that
 
 The abbreviation "e.g." stands for the Latin phrase _exempli gratia_, which means "for example" &mdash; use it to list one or more examples.
 
-> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the alternate "Kelvin" timeline. 
+> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the alternate "Kelvin" timeline.
 
 
 #### versus
 
-Spell the word out in regular writing, and when quoting someone: 
+Spell the word out in regular writing, and when quoting someone:
 
 > "The proposal to revamp Medicare versus proposals to reform Medicare and Medicaid at the same time is ..."
 
-In short expressions, however, use of the abbreviation _vs._ is permitted: 
+In short expressions, however, use of the abbreviation _vs._ is permitted:
 
 > The comparison of Star Trek vs. Star Wars has long been an issue with fans of the sci-fi genre.
 
@@ -334,7 +334,7 @@ Examples on Digital.gov:
 * [Social Media: Accessibility Issues and Solutions](https://digital.gov/2014/06/30/social-media-accessibility-issues-and-solutions/)
 * [Celebrating Black History at TTS: Reflections on the Challenges of the Past and Present](https://digital.gov/2022/03/14/celebrating-black-history-at-tts-reflections-on-the-challenges-of-the-past-and-present/)
 
-4. **flickr** photos 
+4. **flickr** photos
 
 Many Flickr users have chosen to offer their work under a Creative Commons license.
 https://www.flickr.com/creativecommons/

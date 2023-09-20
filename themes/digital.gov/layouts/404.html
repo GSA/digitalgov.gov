@@ -7,13 +7,10 @@
     {{ end }}
 
 
-    <main role="main" id="main-content">
+    <main role="main" id="main-content" data-gh-edit-page="{{- $path -}}">
       <article>
         <header>
-          <div
-            class="grid-container grid-container-desktop"
-            data-edit-this="{{- $path -}}"
-          >
+          <div class="grid-container grid-container-desktop">
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}}</h1>
 
@@ -25,10 +22,7 @@
         </header>
 
         <section>
-          <div
-            class="grid-container grid-container-desktop"
-            data-edit-this="{{- $path -}}"
-          >
+          <div class="grid-container grid-container-desktop">
             <div class="grid-row">
               <div class="grid-col-12 tablet:grid-col-9">
                 {{/* Content */}}
@@ -37,7 +31,7 @@
                 </div>
 
                 {{/* Github edit link */}}
-                {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+                {{- partial "core/gh-commit-info.html" . -}}
               </div>
             </div>
           </div>

@@ -7,7 +7,7 @@
   <main role="main" id="main-content">
     <article class="grid-container grid-container-desktop">
       <header>
-        <div data-edit-this="{{- $path -}}">
+        <div data-gh-edit-page="{{- $path -}}">
           {{- if .Parent -}}
             {{- partial "partials/core/usa-breadcrumbs.html" . -}}
           {{- end -}}
@@ -43,11 +43,11 @@
         ></aside>
         <div>
           {{/* Content */}}
-          <div class="content" data-edit-this="{{- $path -}}">
+          <div class="content" data-gh-edit-page="{{- $path -}}">
             {{- .Content -}}
           </div>
 
-          {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+          {{- partial "core/gh-commit-info.html" . -}}
         </div>
       </div>
     </article>

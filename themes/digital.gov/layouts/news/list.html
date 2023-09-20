@@ -7,7 +7,7 @@
         {{ else }}
           {{ $path = .Path }}
         {{ end }}
-        <div class="grid-col-12" data-edit-this="{{- $path -}}">
+        <div class="grid-col-12" data-gh-edit-page="{{- $path -}}">
           <header class="page-head page-head-{{- .Type -}}">
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}}</h1>
