@@ -1,5 +1,20 @@
 .topics-collection {
+  margin-bottom: 0;
+
   .dg-featured-resource {
     max-width: none;
+  }
+
+  &__resources {
+    padding: units(4) 0;
+  }
+
+  &__events,
+  &__news {
+    background-color: color("blue-warm-5");
+  }
+
+  &__news {
+    padding-bottom: units(4);
   }
 }

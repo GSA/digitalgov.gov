@@ -25,15 +25,18 @@ data:
       name: "21 Century IDEA"
       description: ""
       link_text: "View Policy"
+      image: "hcd-discovery-operations.png"
       link_url: "https://www.govinfo.gov/app/details/DCPD-202101050"
   featured_resources:
-    - link: "/guides/hcd/discovery-concepts"
-      kicker: "HCD Guides"
-    - link: "/guides/hcd/discovery-concepts"
-      kicker: "HCD Guides"
+      multiple: false
+      resources:
+      - link: "/guides/hcd/discovery-concepts"
+        kicker: "HCD Guides"
   communities:
-    - link: "/communities/user-experience"
-    - link: "/communities/social-media"
+      multiple: false
+      community:
+        - link: "/communities/user-experience"
+  top_resources_header: "Essential knowledge for design"
   top_resources:
     - title: "An introduction to design requirements"
       href: "/resources/an-introduction-to-design-requirements/"

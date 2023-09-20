@@ -5,185 +5,177 @@
 {{ end }}
 
 
-<article
-  class="grid-container grid-container-desktop topics-collection"
-  data-edit-this="{{- $path -}}"
->
-  {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-  <header>
-    <div data-edit-this="{{- $path -}}">
-      <h1>{{- .Params.data.header.title -}}</h1>
-      {{- if .Params.data.header.deck -}}
-        <div class="deck">{{- .Params.data.header.deck -}}</div>
-      {{- end -}}
-    </div>
-  </header>
+<article class="topics-collection">
+  <section
+    class="grid-container grid-container-desktop"
+    data-edit-this="{{- $path -}}"
+  >
+    {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+    <header>
+      <div>
+        {{- if .Params.data.header.title -}}
+          <h1>{{- .Params.data.header.title -}}</h1>
+        {{- end -}}
 
-  <div class="grid-row tablet-lg:grid-gap-4">
-    <div class="grid-col-6 content usa-prose dg-landing__body">
-      {{/* Use same prose styles as HCD guides */}}
-      {{ if .Params.data.contents.summary }}
-        <p>
-          {{- .Params.data.contents.summary -}}
-        </p>
+        {{- if .Params.data.header.deck -}}
+          <div class="deck">{{- .Params.data.header.deck -}}</div>
+        {{- end -}}
+      </div>
+    </header>
+
+    <div class="grid-row tablet-lg:grid-gap-4">
+      <div class="tablet:grid-col content usa-prose dg-landing__body">
+        {{ if .Params.data.contents.summary }}
+          <p>
+            {{- .Params.data.contents.summary -}}
+          </p>
+        {{ end }}
+      </div>
+
+      <div class="tablet:grid-col">
+        <ul class="usa-card-group">
+          <li class="usa-card usa-card--flag">
+            <div class="usa-card__container">
+              {{ if .Params.data.contents.legislation.name }}
+                <div class="usa-card__header">
+                  <h2 class="usa-card__heading">
+                    {{ .Params.data.contents.legislation.name }}
+                  </h2>
+                </div>
+              {{ end }}
+              <div class="usa-card__media">
+                <div class="usa-card__img">
+                  {{ if .Params.data.contents.legislation.image }}
+                    <img
+                      src="{{ .Site.Params.cdnurl }}/{{ .Params.data.contents.legislation.image }}"
+                      alt="21 Century IDEA image"
+                    />
+                  {{ end }}
+                </div>
+              </div>
+              <div class="usa-card__body">
+                {{ if .Params.data.contents.legislation.description }}
+                  <p>
+                    {{ .Params.data.contents.legislation.description }}
+                  </p>
+                {{ end }}
+              </div>
+              <div class="usa-card__footer">
+                {{ if .Params.data.contents.legislation.link_url }}
+                  <a
+                    href="{{- .Params.data.contents.legislation.link_url -}}"
+                    class="usa-button"
+                    >{{ .Params.data.contents.legislation.link_text }}</a
+                  >
+                {{ end }}
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="grid-row tablet-lg:grid-gap-4">
+      {{/* TODO: use len instead of boolean, investigate error when using len to */}}
+      {{ $multiple_resources := .Params.data.featured_resources.multiple }}
+      {{ range .Params.data.featured_resources.resources }}
+        <div
+          class="{{ if $multiple_resources }}
+            grid-col-6
+          {{ else }}
+            grid-col-12
+          {{ end }}"
+        >
+          {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" .kicker ) -}}
+        </div>
+      {{ end }}
+
+      {{ $multiple_communities := .Params.data.communities.multiple }}
+      {{ range .Params.data.communities.community }}
+        <div
+          class="{{ if $multiple_communities }}
+            grid-col-6
+          {{ else }}
+            grid-col-12
+          {{ end }}"
+        >
+          {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" "Join a Community" ) -}}
+        </div>
       {{ end }}
     </div>
 
-    <div class="grid-col-6">
-      <ul class="usa-card-group">
-        <li class="usa-card usa-card--flag">
-          <div class="usa-card__container">
-            {{ if .Params.data.contents.legislation.name }}
-              <div class="usa-card__header">
-                <h2 class="usa-card__heading">
-                  {{ .Params.data.contents.legislation.name }}
-                </h2>
-              </div>
-            {{ end }}
-            <div class="usa-card__media">
-              <div class="usa-card__img">
-                <img
-                  src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-                  alt="A placeholder image"
-                />
-              </div>
-            </div>
-            <div class="usa-card__body">
-              <p>
-                {{ .Params.data.contents.legislation.description }}
-              </p>
-            </div>
-            <div class="usa-card__footer">
-              {{ if .Params.data.contents.legislation.link_url }}
-                <a
-                  href="{{- .Params.data.contents.legislation.link_url -}}"
-                  class="usa-button"
-                  >{{ .Params.data.contents.legislation.link_text }}</a
-                >
-              {{ end }}
-            </div>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="grid-row tablet-lg:grid-gap-4">
-    {{/* {{ $multiple_resources := eq (.Params.data.featured_resources | len) 2 }}
-    */}}
-    {{ $multiple_resources := true }}
-    {{ range .Params.data.featured_resources }}
-      <div
-        class="{{ if $multiple_resources }}
-          grid-col-6
-        {{ else }}
-          grid-col-12
-        {{ end }}"
-      >
-        {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" .kicker ) -}}
-      </div>
-    {{ end }}
-
-    {{/* {{ $number := .Params.data.communities | len }} */}}
-    {{/* {{ printf "%#v" $number }} */}}
-    {{/* {{ $condition := gt (len .Params.data.communities) 1 }} */}}
-    {{/* {{ printf "%#v" $condition }} */}}
-    {{/* {{ $multiple_communities := eq (.Params.data.communities | len) 2 }}
-    */}}
-    {{ $multiple_communities := true }}
-    {{ range .Params.data.communities }}
-      <div
-        class="{{ if $multiple_communities }}
-          grid-col-6
-        {{ else }}
-          grid-col-12
-        {{ end }}"
-      >
-        {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" "Join a Community" ) -}}
-      </div>
-    {{ end }}
-  </div>
-
-  {{/* Resources, Services/Tools, Guides */}}
-  <div class="grid-row tablet-lg:grid-gap-4">
-    <div class="grid-col-12">
-      <h2>What you need to know</h2>
+    <div class="grid-row tablet-lg:grid-gap-4 topics-collection__resources">
+      {{ if .Params.data.top_resources_header }}
+        <h2>{{ .Params.data.top_resources_header }}</h2>
+      {{ else }}
+        <h2>What you need to know</h2>
+      {{ end }}
 
       {{ $top_resources := .Params.data.top_resources }}
       {{- partial "partials/core/collection/collection.html" (dict "data" $top_resources "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "is_truncated" false) -}}
-
-    </div>
-  </div>
-
-  <section class="margin-top-4">
-    <div class="grid-row">
-      <div class="grid-col-12">
-        {{- $now := now.Format "2006-01-02" -}}
-        {{- $future_events := where .Site.Pages.Reverse "Params.End_date" ">=" $now -}}
-
-        {{/* Gets the past events */}}
-        {{- $past_events := where (where .Site.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-        {{/* Gets the past events that have youtube_id set */}}
-        {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-
-        {{/* Merges the past events and the recent blog posts */}}
-        {{ $events_stream := union $future_events $past_events }}
-
-        {{/* Sorting all the items by date and reverse chron */}}
-        {{ $events_stream := $events_stream.ByDate.Reverse }}
-
-        {{/* If there are any events */}}
-        {{- if $events_stream -}}
-          <h2>Events for {{ .Title -}}</h2>
-
-          {{/* Loop through all the pages */}}
-          {{- range first 5 $events_stream -}}
-            {{ if .Params.registration_url }}
-              {{ .Render "card-event" }}
-            {{ else }}
-              {{- .Render "card-event" -}}
-            {{ end }}
-          {{- end -}}
-          {{/* {{- partial "core/pagination.html" . -}} */}}
-        {{- else -}}
-          No Events to Display
-        {{ end }}
-      </div>
     </div>
   </section>
 
-  <div class="grid-row tablet-lg:grid-gap-4">
-    <div class="grid-col-12 ">
+  <section class="topics-collection__events">
+    <div class="grid-row grid-container grid-container-desktop">
+      {{- $now := now.Format "2006-01-02" -}}
+      {{- $future_events := where .Site.Pages.Reverse "Params.End_date" ">=" $now -}}
+
+      {{/* Gets the past events */}}
+      {{- $past_events := where (where .Site.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+
+      {{/* Gets the past events that have youtube_id set */}}
+      {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+
+      {{/* Merges the future and past events into one set */}}
+      {{- $events_stream := union $future_events $past_events -}}
+
+      {{/* Sorting all the items by date and reverse chron */}}
+      {{- $events_stream := $events_stream.ByDate.Reverse -}}
+
+      {{/* If there are any events */}}
+      {{- if $events_stream -}}
+        <h2>Events for {{ .Title }}</h2>
+
+        {{/* Loop through the first 4 events */}}
+        {{- range first 5 $events_stream -}}
+          {{- if .Params.registration_url -}}
+            {{ .Render "card-event" }}
+          {{- else -}}
+            {{- .Render "card-event" -}}
+          {{- end -}}
+        {{- end -}}
+      {{- else -}}
+        <h3>No Events to Display</h3>
+      {{- end -}}
+    </div>
+  </section>
+
+  <section class="topics-collection__news">
+    <div class="grid-row grid-container grid-container-desktop">
       {{/* Gets the recent blog posts */}}
       {{- $posts := where .Paginator.Pages "Section" "news" -}}
 
       {{/* Sorting all the items by date and reverse chron */}}
-      {{ $posts_stream := $posts.ByDate.Reverse }}
+      {{- $posts_stream := $posts.ByDate.Reverse -}}
 
       {{/* If there are any events */}}
       {{- if $posts_stream -}}
         <h2>News on {{ .Title -}}</h2>
 
-        {{/* Loop through all the pages */}}
+        {{/* Loop through first 10 pages */}}
         {{- range first 10 $posts_stream -}}
-          {{/* External links */}}
           {{- if .Params.source -}}
-            {{/* see /layouts/news/ for card templates */}}
             {{ .Render "card-elsewhere" }}
-          {{ else }}
-            {{/* Blog Posts — Internal links */}}
+          {{- else -}}
             {{- if .Params.deck }}
-              {{/* see /layouts/news/ for card templates */}}
               {{ .Render "card-article" }}
-            {{ else }}
-              {{/* see /layouts/news/ for card templates */}}
+            {{- else -}}
               {{ .Render "card-article" }}
-            {{ end }}
+            {{- end -}}
           {{- end -}}
         {{- end -}}
-        {{- partial "core/pagination.html" . -}}
       {{- end -}}
     </div>
-  </div>
+  </section>
 </article>
