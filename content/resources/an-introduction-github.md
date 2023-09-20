@@ -63,7 +63,7 @@ Becoming fluent in GitHub terminology might seem intimidating at first, but the 
 ## How do I use GitHub?
 
 {{<note>}}
-This second tutorial and live demonstration covers a variety of Git-related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation (.pptx, 28.4 MB, 41 slides)](https://trello.com/1/cards/64cd22eb676b517856f45a98/attachments/64efb199e87985934db325b6/download/07-25-2023_GitHub_Basics_FINAL.pptx).
+This second tutorial and live demonstration covers a variety of Git-related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation (.pptx, 28.4 MB, 41 slides)](https://s3.amazonaws.com/digitalgov/static/07-25-2023-github-basics-final.pptx).
 {{< /note >}}
 
 {{< youtube gLozuPQ34EQ >}}

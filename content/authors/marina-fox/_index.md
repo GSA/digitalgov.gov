@@ -17,13 +17,13 @@ pronoun: ""
 slug: marina-fox
 
 # if you include an email address, it will be displayed on your profile page
-email: "marina.fox@gsa.gov"
+email: ""
 
 # Bio — keep it under 50 words
 bio: "Marina Fox leads GSA&#39;s [DotGov Domain Services](https://home.dotgov.gov/) in the Office of Government-wide Policy (OGP). She has 20&#43; years of experience in data analysis, business intelligence and enterprise reporting, web performance analysis, advanced analytics, artificial intelligence (AI) and Big Data. Previously, Marina led a government-wide [Digital Analytics Program](https://digital.gov/dap/) (DAP) at GSA. Prior to becoming a public servant, Marina held various analytical and leadership roles at Deloitte, AOL, Booz Allen Hamilton, and Dow Jones. Her LinkedIn account is below."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: "https://home.dotgov.gov/"
+bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "General Services Administration"
@@ -36,12 +36,12 @@ location: "Washington, DC"
 
 # Your GitHub username [e.g. 'jeremyzilar']
 # See [URL] Having a GitHub account will allow you to edit pages on DigitalGov. The image used in your GitHub account can also be used to populate your digital.gov profile photo.
-github: ""
+github: "smarina04"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
-profile_source: ""
+profile_source: "github"
 
 # Professional Social Media [e.g., Digital_Gov]
 twitter: ""

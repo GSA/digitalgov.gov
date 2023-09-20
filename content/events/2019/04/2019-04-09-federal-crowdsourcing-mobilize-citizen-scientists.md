@@ -42,7 +42,7 @@ _{{< asset-static file="ep1-challengegov.pdf" label="View the slides from this p
 
 This is the first installment in GSA’s Federal Crowdsourcing Webinar Series. You will hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
-The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
+The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
 
 Learn about resources produced by the community and available on [CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 

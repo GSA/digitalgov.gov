@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/nist-sp-800-82-rev-2-ia-3-device-identification-authentication-2.png
+  # Image shortcode: {{< img src=nist-sp-800-82-rev-2-ia-3-device-identification-authentication-2 >}}'
+  date     :  2023-09-12 16:49:24 -0400
+  uid      :  nist-sp-800-82-rev-2-ia-3-device-identification-authentication-2
+  width    :  1200
+  height   :  356
+  format   :  png
+  credit   :  
+  caption  :  "Source: NIST Special Publication 800-82, Revision 2: Guide to Industrial Control Systems (ICS) Security (page 213)."
+  alt      :  "Screen capture of the IA-3 Device Identification and Authentication table that is described in the copy."
+  

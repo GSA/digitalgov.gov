@@ -9,7 +9,7 @@
       <header>
         <div
           class="grid-container grid-container-desktop"
-          data-edit-this="{{- $path -}}"
+          data-gh-edit-page="{{- $path -}}"
         >
           <div class="grid-row">
             <div class="grid-col-12">
@@ -50,7 +50,7 @@
             <div class="content usa-prose">
               {{- .Content -}}
             </div>
-            {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/gh-commit-info.html" . -}}
           </div>
         </div>
       </section>

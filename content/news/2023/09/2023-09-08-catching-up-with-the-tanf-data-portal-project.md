@@ -1,6 +1,6 @@
 ---
 # Originally published at the following URL
-source_url: https://18f.gsa.gov/blog/
+source_url: https://18f.gsa.gov/2023/09/07/catching-up-with-the-tanf-data-portal-project/
 source: 18f
 date: 2023-09-07 15:22:00 -0500
 title: Catching up with the TANF Data Portal project
