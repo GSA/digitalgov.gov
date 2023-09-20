@@ -7,9 +7,8 @@ slug: "design"
 # Topic Title
 title: "Design"
 
-# description — keep it short and clear
-summary: "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
-deck: "Understand how and why design impacts user experience"
+# Weight
+weight: 2
 
 # display topic-collection template for this topic
 topic_collection: true
@@ -49,19 +48,9 @@ data:
     - title: "To Build Trust, Aim for Easy — Trust is built up with good experiences, and broken with bad ones."
       href: "https://digital.gov/2022/12/13/to-build-trust-aim-for-easy/"
       summary: "Trust is earned through consistency and commitment. Build sites that build trust by considering user needs, respecting people’s time, and avoiding customer experience pitfalls."
-    - title: "See more user experience resources"
-      href: "https://digital.gov/topics/user-experience/"
-      # summary: "See all resources for user experience"
-      topic_redirect: true
     - title: "See more design resources"
       href: https://digital.gov/topics/design
-      # summary: "See all resources for design"
       topic_redirect: true
-
-
-
-# Weight
-weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki

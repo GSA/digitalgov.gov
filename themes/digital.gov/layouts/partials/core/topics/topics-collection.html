@@ -5,11 +5,8 @@
 {{ end }}
 
 
-<article class="topics-collection">
-  <section
-    class="grid-container grid-container-desktop"
-    data-edit-this="{{- $path -}}"
-  >
+<article class="topics-collection" gh-data-edit-this="{{- $path -}}">
+  <section class="grid-container grid-container-desktop">
     {{- partial "partials/core/usa-breadcrumbs.html" . -}}
     <header>
       <div>
@@ -23,8 +20,8 @@
       </div>
     </header>
 
-    <div class="grid-row tablet-lg:grid-gap-4">
-      <div class="tablet:grid-col content usa-prose dg-landing__body">
+    <div class="grid-row desktop:grid-gap-4">
+      <div class="desktop:grid-col topics-collection__summary">
         {{ if .Params.data.contents.summary }}
           <p>
             {{- .Params.data.contents.summary -}}
@@ -32,7 +29,7 @@
         {{ end }}
       </div>
 
-      <div class="tablet:grid-col">
+      <div class="desktop:grid-col">
         <ul class="usa-card-group">
           <li class="usa-card usa-card--flag">
             <div class="usa-card__container">
@@ -99,7 +96,7 @@
             grid-col-12
           {{ end }}"
         >
-          {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" "Join a Community" ) -}}
+          {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" "Join the community" ) -}}
         </div>
       {{ end }}
     </div>
