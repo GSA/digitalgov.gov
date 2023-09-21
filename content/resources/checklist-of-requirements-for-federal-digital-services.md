@@ -11,7 +11,7 @@ aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
   - /resources/policies-for-federal-agency-public-websites-m-05-04/
-weight: 9
+weight: 2
 topics:
   - product-management
   - policy

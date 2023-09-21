@@ -19,7 +19,7 @@ aliases:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 20
+weight: 1
 
 topics:
   - web-content-managers-forum

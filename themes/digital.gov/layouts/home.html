@@ -49,14 +49,18 @@
             <div class="resources-content">
               {{/* Get all of the resources */}}
               {{- $resources := (where .Site.Pages.ByTitle "Section" "resources") -}}
+              {{- $guides := (where .Site.Pages.ByTitle "Section" "guides") -}}
 
               {{/* Get only the pages that are greater than or equal to 3 */}}
               {{- $resourcesfeatured := (where $resources ".Params.weight" "ge" 3 ) -}}
+              {{- $guidesfeatured := (where $guides ".Params.weight" "ge" 6 ) -}}
+
+              {{ $allFeatured := union $resourcesfeatured $guidesfeatured }}
 
               {{/* Sort all of the resources by weight */}}
-              {{- $resourcesfeatured := (sort $resourcesfeatured "Weight" "desc" ) -}}
+              {{- $resourcesfeatured := (sort $allFeatured "Weight" "desc" ) -}}
 
-              {{- partialCached "core/featured-collection.html" (dict "list" $resourcesfeatured "heading" "Featured guides and resources") -}}
+              {{- partialCached "core/featured-collection.html" (dict "list" $resourcesfeatured "heading" "How to implement 21st Century IDEA") -}}
               <footer>
                 <div class="grid-row tablet-lg:grid-gap-2">
                   <div class="grid-col-12">
