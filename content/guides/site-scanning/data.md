@@ -14,7 +14,7 @@ There's a complete API available for accessing all of the scan data. Full docume
 
 **Direct Downloads**
 
-The scan data is also exported on a weekly basis and can be downloaded in one of two sets. The primary set includes scan data for all live URLs (i.e. `Final URL - Live` = TRUE):
+The scan data is also exported on a weekly basis and can be downloaded in one of two sets. The primary set includes scan data for all live URLs (i.e. `Final URL - Live` = TRUE), but excludes machine-readable data files (e.g. XML, JSON):
 
 * [CSV](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.csv) | [JSON](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.json)
 
