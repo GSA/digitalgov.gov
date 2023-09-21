@@ -24,6 +24,7 @@ event_platform: zoom
 primary_image: 2023-uswds-monthly-call-september-title-card
 
 ---
+{{< asset-static file="uswds-monthly-call-september-2023.pptx" label="View the slides (PowerPoint presentation, 3.4 MB, 99 pages)" >}}
 
 It's been eight years since the first public release of the U.S. Web Design System (USWDS). What have we done? Where are we going? What have we learned? Let's revisit our mission and vision as we look out in the direction of the next eight years.
 
