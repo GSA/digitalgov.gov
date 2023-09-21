@@ -5,23 +5,16 @@
 # is_emergency: true will display with orange emergency colors else it will display as blue info box
 # has_icon: hide/show icon
 # is_slim: sets a thinner banner height
+# header: bold text that appears next the icon at top of alert box
+# alerts: text field that supports markdown, will display a bulleted list if multiple, otherwise displays as standard text block
 
 data:
-  display_alert: true
+  display_alert: false
   is_emergency: false
   has_icon: true
   is_slim: false
   header: "Guidance for U.S. government websites and social media for:"
-  text_bold: "Warning to users"
-  text_normal: "Hawaii wildfires"
-  link_text: "digital.gov/hawaii-wildfires"
-  link_url: "/resources/hawaii-wildfires-guidance-for-us-government/"
-  list_alerts:
-    - alert: 'Hawaii wildfires: <a class="usa-link" href="/resources/hawaii-wildfires-guidance-for-us-government/">digital.gov/hawaii-wildfires</a>'
-    - alert: 'Hawaii wildfires: <a class="usa-link" href="/resources/hawaii-wildfires-guidance-for-us-government/">digital.gov/hawaii-wildfires</a>'
-    # - text: "Hawaii wildfires"
-    #   link_text: "digital.gov/hawaii-wildfires"
-    #   link_url: "/resources/hawaii-wildfires-guidance-for-us-government/"
-    # - text: "Hawaii wildfires"
-    #   link_text: "digital.gov/hawaii-wildfires"
-    #   link_url: "/resources/hawaii-wildfires-guidance-for-us-government/"
+  alerts:
+    - "Hawaii wildfires: [digital.gov/hawaii-wildfires](/hawaii-wildfires)"
+    # - "Hawaii wildfires: [digital.gov/hawaii-wildfires](/hawaii-wildfires)"
+    # - "Hawaii wildfires: [digital.gov/hawaii-wildfires](/hawaii-wildfires)"

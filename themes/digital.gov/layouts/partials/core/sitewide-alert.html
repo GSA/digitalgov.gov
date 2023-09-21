@@ -4,10 +4,6 @@
   {{ $is_slim := .is_slim }}
 
   {{ $header := .header }}
-  {{ $text_bold := .text_bold }}
-  {{ $text_normal := .text_normal }}
-  {{ $link_text := .link_text }}
-  {{ $link_url := .link_url }}
 
   {{ if (eq .display_alert true ) }}
     <section
@@ -25,29 +21,15 @@
           {{ if $header }}
             <h3 class="usa-alert__heading">{{- $header -}}</h3>
           {{ end }}
-          {{ if $text_normal }}
+          {{ if eq (len .alerts) 1 }}
             <p class="usa-alert__text">
-              {{ if $text_bold }}
-                <strong>Bold text emphasis text</strong>
-              {{ end }}
-              {{ $text_normal }}
-              {{ if $link_url }}
-                <a class="usa-link" href="{{ $link_url }}">{{ $link_text }}</a>
-              {{ end }}
+              {{ index (.alerts) 0 | markdownify }}
             </p>
-          {{ end }}
-          {{ if .list_alerts }}
+          {{ else }}
             <ul class="usa-list">
-              {{ range .list_alerts }}
-                <li>
-                  {{ .alert | safeHTML }}
-                </li>
+              {{ range .alerts }}
+                <li>{{ . | markdownify }}</li>
               {{ end }}
-              {{/* {{ .text }}
-              {{ if .link_url }}
-                <a class="usa-link" href="{{ .link_url }}">{{ .link_text }}</a>
-              {{ end }}
-              */}}
             </ul>
           {{ end }}
         </div>
@@ -55,3 +37,9 @@
     </section>
   {{ end }}
 {{ end }}
+
+<script type="text/javascript">
+  {{/*  Add the usa-link classes to for consistent link styles  */}}
+  const links = document.querySelectorAll(".usa-alert__body a");
+  links.forEach((link) => link.classList.add("usa-link"));
+</script>
