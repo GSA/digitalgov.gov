@@ -113,7 +113,7 @@ Driving cultural change starts with people with different experiences making dec
 
 ## We’re Hiring
 
-We hope more join us in this journey. Currently, TTS is hiring a number of positions for [Designers—UX, Service, Content Strategy, and/or Product](https://join.tts.gsa.gov/join/tts-designer/), and the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) will be [opening applications in October](https://digitalcorps.gsa.gov/apply/). We are also opening a role specifically for [bilingual (Spanish & English) UX Designers and Content Strategists](https://join.tts.gsa.gov/join/tts-bilingualdesigner/) to help improve services for the Spanish-speaking public.
+We hope more join us on this journey. Currently, TTS is hiring a number of positions for Designers—UX, Service, Content Strategy, and/or Product, and the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) opens applications [each October](https://digitalcorps.gsa.gov/apply/). We are also opening a role specifically for bilingual (Spanish & English) UX Designers and Content Strategists to help improve services for the Spanish-speaking public.
 
 Check out open positions or register for an info session to ask questions and learn more [on the Join TTS page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/). <a href="#hiring" aria-label="Back to content">↩</a></span>
 
