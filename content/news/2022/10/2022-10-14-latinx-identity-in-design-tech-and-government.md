@@ -107,7 +107,7 @@ Another example is the USAGov program and websites in TTS' Public Experience Por
 
 Driving cultural change starts with people with different experiences making decisions that impact a broader audience. Communities that have been historically marginalized, by both lawful and unlawful discrimination, are voices we need in government.
 
-{{< note >}} In case you missed it, read part one: [Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection of Identity and Public Service: Members of the Latinx employee resource group share their stories of public service](https://digital.gov/2022/10/11/celebrating-hispanic-and-latinx-heritage-month-at-tts-an-intersection-of-identity-and-public-service/). {{< /note >}}
+{{< note >}} In case you missed it, read part one: [Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection of Identity and Public Service](https://digital.gov/2022/10/11/celebrating-hispanic-and-latinx-heritage-month-at-tts-an-intersection-of-identity-and-public-service/) where members of the Latinx employee resource group share their stories of public service. {{< /note >}}
 
 <span id="ttsjobs">
 
