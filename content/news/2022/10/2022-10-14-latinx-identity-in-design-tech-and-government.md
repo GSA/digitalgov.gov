@@ -111,7 +111,7 @@ Driving cultural change starts with people with different experiences making dec
 
 We hope more join us in this journey. Currently, TTS is hiring a number of positions for [Designers—UX, Service, Content Strategy, and/or Product](https://join.tts.gsa.gov/join/tts-designer/), and the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) will be [opening applications in October](https://digitalcorps.gsa.gov/apply/). We are also opening a role specifically for [bilingual (Spanish & English) UX Designers and Content Strategists](https://join.tts.gsa.gov/join/tts-bilingualdesigner/) to help improve services for the Spanish-speaking public.
 
-Check out open positions or register for an info session to ask questions and learn more [on the Join TTS page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/). <a href="#hiring" aria-label="Back to content">↩</a> {{< /note >}}
+Check out open positions or register for an info session to ask questions and learn more [on the Join TTS page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/). <a href="#hiring" aria-label="Back to content">↩</a>
 
 {{< note >}} In case you missed it, read part one: [Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection of Identity and Public Service: Members of the Latinx employee resource group share their stories of public service](https://digital.gov/2022/10/11/celebrating-hispanic-and-latinx-heritage-month-at-tts-an-intersection-of-identity-and-public-service/). {{< /note >}}
 
