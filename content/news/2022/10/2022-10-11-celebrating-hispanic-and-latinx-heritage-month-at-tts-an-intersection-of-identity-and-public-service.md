@@ -242,6 +242,6 @@ Using my communications and marketing skills to ensure underrepresented communit
 
 ## Join our team
 
-We are currently have a number of positions open for Designers—UX, Service, Content Strategy, and Product. We are opening a role specifically for bilingual (Spanish/English) UX Designers and Content Strategists to help improve services for the Spanish-speaking public. Check out open positions or register for an info session to ask questions and learn more about the process [on the TTS join page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/).
+We currently have a number of positions open for Designers—UX, Service, Content Strategy, and Product. We are opening a role specifically for bilingual (Spanish/English) UX Designers and Content Strategists to help improve services for the Spanish-speaking public. Check out open positions or register for an info session to ask questions and learn more about the process [on the TTS join page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/).
 
 {{< note >}} Read part two: [Latinx Identity in Design, Tech, and Government: The TTS Latinx employee resource group shares definitions, data, and the importance of representation in civic tech](https://digital.gov/2022/10/14/latinx-identity-in-design-tech-and-government/). {{< /note >}}
