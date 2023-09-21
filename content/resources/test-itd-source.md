@@ -12,4 +12,10 @@ summary: test source summary
 # 2 -- highlighted
 weight: 1
 slug: test-itd-source
+
+# See all topics at https://digital.gov/topics
+# Topics that best describe this product or service
+topics:
+  - analytics
+
 ---
