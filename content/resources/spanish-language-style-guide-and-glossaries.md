@@ -34,4 +34,4 @@ The guides below were peer reviewed by [Leticia Molinero](https://www.anle.us/nu
 ### Additional resources
 
 - [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}} "Bilingual Glossaries, Dictionaries, and Style Guides")&mdash;Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.
-- [Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")
+- [Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")&mdash;List of resources in Spanish.
