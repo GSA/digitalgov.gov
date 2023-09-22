@@ -94,12 +94,4 @@
   <script src="{{ "dist/js/uswds.min.js" | absURL }}"></script>
   <script src="{{ "dist/js/main.js" | absURL }}"></script>
 
-  {{- if $.Params.js -}}
-    {{- range $.Params.js -}}
-      {{- $path := (printf "dist/%s" .) | absURL -}}
-      <!-- CUSTOM JS -->
-      <script src="{{ $path }}" type="text/javascript" charset="utf-8"></script>
-    {{- end -}}
-  {{- end -}}
-
 </html>
