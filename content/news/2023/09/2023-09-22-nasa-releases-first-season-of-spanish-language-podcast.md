@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast/
-source: 10x
+source: nasa
 date: 2023-09-15 19:56:00 -0500
 title: NASA Releases First Season of Spanish-language Podcast
 deck: In celebration of Hispanic Heritage Month, NASA is releasing new content
@@ -34,4 +34,5 @@ slug: nasa-releases-first-season-of-spanish-language-podcast
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
