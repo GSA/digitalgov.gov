@@ -19,7 +19,7 @@ The guides below were peer reviewed by [Leticia Molinero](https://www.anle.us/nu
 
 **Please Note**: We continue to make improvements to these guides, so please send any comments or suggestions for additional resources to [Laura Godfrey](mailto:laura.godfrey@gsa.gov), Lead, [Multilingual Community of Practice](https://digital.gov/communities/multilingual/).
 
-## Related Pages
+## Guides and Glossary Pages
 
 - [Grammar]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md" >}} "Spanish Language Style Guide and Glossaries: Grammar")
 - [Frequently Mistranslated English Terms]({{< ref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}} "Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms")
