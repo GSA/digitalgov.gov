@@ -1,54 +1,48 @@
 /**
  *
- * Reads json file of hosted at /images/v1/json/ and displays images and meta-data on digital.gov/images
- * Uses imagesJSONPath set in baseof.html to create
+ * Reads json file of hosted at /images/v1/json/index.json and
+ * displays images and meta-data on https:/digital.gov/images.
  *
- * 1. Check if on /images page
- * 2. Fetch /images/v1/json file
- * 3. Render json data in img-card markup
- * 4. Add to DOM in one update
  */
 
-// eslint-disable-next-line func-names
-(function () {
-  // check for #stream-images in layouts/_default/images.html
-  const imagesStreamContainer = document.querySelector("#stream-images");
-  const jsonPath = "v1/json";
+(() => {
+  const imagesStreamContainer = document.querySelector(".dg-image-stream");
+  const jsonPath = "/images/v1/json/index.json";
+  const baseURL = "https://s3.amazonaws.com/digitalgov";
 
-  if (imagesStreamContainer) {
-    // eslint-disable-next-line no-use-before-define
-    fetchImagesData();
-  }
+  if (!imagesStreamContainer) return;
 
   /**
-   * Returns image thumbnail path
-   * Checks if image size is greater than 400px
-   * Will display 400px or smaller for thumbnail
+   * Creates a thumbnail image with original image as fallback.
+   *
+   * Checks if image size is greater than 400px, otherwise use original.
    * @param {object} image object
    * @returns {string} URL string path for image thumbnail
    */
   function createImageThumbnail(image) {
     let thumbnail = "";
-    // If the image is greater than 400px
+
     if (image.width > 400) {
-      // get the w400 format, e.g. big-bend_w400.jpg
-      thumbnail = `https://s3.amazonaws.com/digitalgov/${image.uid}_w400.${image.format}`;
+      // Example: big-bend_w400.jpg
+      thumbnail = `${baseURL}/${image.uid}_w400.${image.format}`;
     } else {
-      // else get the original image (which should be less than 400px), e.g. big-bend.jpg
-      thumbnail = `https://s3.amazonaws.com/digitalgov/${image.uid}.${image.format}`;
+      // Example: big-bend.jpg
+      thumbnail = `${baseURL}/${image.uid}.${image.format}`;
     }
-    return thumbnail;
+    // return thumbnail;
+    return `<img src="${thumbnail}" loading="lazy" ></img>`;
   }
 
   /**
-   * Creates img card markup for indivual images, returns template markup string
-   * @param {object} image object
+   * Creates img card markup for individual images, returns template markup string
+   *
+   * @param {object} image - Image information, such as width & UID.
    * @returns {string} HTML markup for image element
    */
   function createImageElement(image) {
     return `<div class="card-img">
     <div class="media">
-      <img src="${image.thumbnail}">
+      ${createImageThumbnail(image)}
       <p>${image.caption}</p>
     </div>
     <div class="img-data">
@@ -65,7 +59,9 @@
           <p class="label">Use this shortcode in the content body</p>
           <pre>{{< img src="${image.uid}" >}}</pre>
         </div>
-        <p class="edit btn"><a target="_new" href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${image.uid}.yml" title="view on GitHub">Edit on GitHub »</a></p>
+        <p class="edit btn"><a target="_new" href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${
+          image.uid
+        }.yml" title="view on GitHub">Edit on GitHub »</a></p>
         <hr>
         <p class="meta">Uploaded on ${image.date}</p>
       </div>
@@ -74,24 +70,27 @@
   }
 
   /**
-   * Displays list of images from /images/v1/json data file
-   * Loop through images json file, return populated markup for each image and display within #stream-images container
-   * @param {object} imagesToDisplay array of image objects
+   * Creates a stream of images from an array of images.
+   *
+   * Loop through images json file, return markup for each image and display within imagesStreamContainer.
+   * @param {Array<object>} imagesToDisplay - An array of image objects.
    */
   function createImagesStream(imagesToDisplay) {
     let imagesMarkup = "";
+
     imagesToDisplay.forEach((image) => {
-      // eslint-disable-next-line no-param-reassign
-      image.thumbnail = createImageThumbnail(image);
       const imageElement = createImageElement(image);
+
       imagesMarkup += imageElement;
     });
+
     imagesStreamContainer.innerHTML = imagesMarkup;
   }
 
   /**
-   * Fetch images json and return images json
-   * @return {array} json array of image objects
+   * Fetches data for a list of images from a JSON file.
+   *
+   * @return {array} - A promise that returns a data object.
    */
   async function fetchImagesData() {
     const imagesData = await fetch(`${jsonPath}`);
@@ -101,6 +100,10 @@
     }
 
     const imagesJSON = await imagesData.json();
-    createImagesStream(imagesJSON);
+    const imageData = JSON.parse(imagesJSON.item[0].content);
+
+    createImagesStream(imageData);
   }
+
+  fetchImagesData();
 })();
