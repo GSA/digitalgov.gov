@@ -7,8 +7,8 @@
 
 (() => {
   const imagesStreamContainer = document.querySelector(".dg-image-stream");
-  const jsonPath = "/images/v1/json/index.json";
   const baseURL = "https://s3.amazonaws.com/digitalgov";
+  const { jsonPath } = imagesStreamContainer.dataset;
 
   if (!imagesStreamContainer) return;
 
