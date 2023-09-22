@@ -31,7 +31,7 @@ The guides below were peer reviewed by [Leticia Molinero](https://www.anle.us/nu
 - [Information Technology Terms]({{< ref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}} "Spanish Language Style Guide & Glossaries: Information Technology Terms")
 - [Spanish Health Care Terms in the United States]({{< ref "spanish-health-care-terms-in-the-united-states.md" >}} "Spanish Health Care Terms in the United States")
 
-### Additional resources
+## Additional resources
 
 - [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}} "Bilingual Glossaries, Dictionaries, and Style Guides")&mdash;Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.
-- [Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")&mdash;List of resources in Spanish.
+- [Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")&mdash;A list of resources in Spanish.
