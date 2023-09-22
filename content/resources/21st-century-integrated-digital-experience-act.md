@@ -6,7 +6,7 @@
 slug: 21st-century-integrated-digital-experience-act
 date: 2019-11-01 3:00:00 -0500
 title: "21st Century Integrated Digital Experience Act"
-deck: "21st Century IDEA aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
+deck: "Delivering a digital-first public experience."
 summary: "21st Century IDEA aims to improve the digital experience for government customers."
 
 # see all topics at https://digital.gov/topics
@@ -27,40 +27,35 @@ authors:
 weight: 10
 
 # primary Image (for social media)
-primary_image: "21st-century-idea-resource-card"
+primary_image: "office-team-ideas-scyther5"
 # Make it better ♥
 
 ---
 
-The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
+## What is 21st Century IDEA?
 
-## Why Is It Important?
+The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was a bipartisan act signed into law in December 2018. In September 2023, the Office of Management and Budget (OMB) issued [M-23-23, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-23.pdf) (PDF, 0.5 MB, 32 pages). In part, this memo provides further policy guidance to help agencies fully implement 21st Century IDEA. The law and guidance collectively establish a framework and the requirements for a digital-first public experience. Read more in the fact sheet, Fact Sheet Title, for the guidance.
 
-In 2019, there were over [14 billion sessions and 38 billion page views](https://analytics.usa.gov/) on federal websites. Customer expectations are being ratcheted up by the private sector. Government services should be delivered in ways the public now demands and expects—quick, easy, secure, and accessible.
 
-We can, and should, do more.
+## Why is it important?
 
-**21st Century IDEA is a significant opportunity** to improve the lives of the public by transforming how government uses technology. It is a way to make this change happen, and it provides a clear, practical path forward.
+Each year, the federal government provides information and services to more than 400 million individuals, families, businesses, and organizations. And according to [analytics.usa.gov](https://analytics.usa.gov/), there are about 2 billion visits to federal websites each month, representing over 80 billion hours of interactions with the public. Over 50% of these visits occur on mobile devices.
+
+Digitally is now the default way the public wants to interact with the government.<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> More than ever, digital experiences are central to federal agencies' mission delivery. And of course, the public expects their digital interactions with the government to be on par with their favorite consumer websites and mobile apps.
+
+Delivering a digital-first public experience is a significant opportunity to improve the lives of millions by making it easier to access the information and services they use and count on each and every day.
 
 ## What’s in the Law?
 
-So what is in 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna, summed it up by saying, _“Government exists to serve citizens, and this bill ensures government leverages available technology to provide cohesive, user-friendly online service that people around this country expect and deserve.”_
+21st Century IDEA requires all executive branch agencies to:
 
-Specifically, the Act requires all executive branch agencies to:
-
-- modernize their websites,
-- digitize services and forms,
-- accelerate use of e-signatures,
-- improve customer experience, and
-- standardize and transition to centralized [shared services]({{< ref "/services/_index.md" >}}).
-
-It also requires agencies to comply with the [website standards](https://designsystem.digital.gov/website-standards/), using the [U.S. Web Design System](https://designsystem.digital.gov/).
+- Modernize their websites
+- Digitize services and forms
+- Accelerate use of e-signatures
+- Improve customer experience
+- Standardize and transition to centralized shared services
 
 {{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}
-
-To improve executive agency digital services, and for other purposes.
-
-Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
 
 **SECTION 1. SHORT TITLE.**
 
@@ -161,32 +156,111 @@ The Chief Information Officer of each executive agency, or a designee, shall--
 
 ## What Does It Mean to Modernize Websites?
 
-Public-facing websites and digital services should use the [U.S. Web Design System](https://designsystem.digital.gov/) and meet eight specific requirements.
 
-1. **Accessible** - be accessible to individuals with disabilities in accordance with [Section 508](https://www.section508.gov/)
-2. **Consistent** - have a consistent appearance
-3. **Authoritative** - not overlap with or duplicate existing websites
-4. **Searchable** - contain a search function
-5. **Secure** - be provided through a secure connection
-6. **User-centered** - be designed around user needs with data-driven analysis
-7. **Customizable** - provide an option for a more customized digital experience
-8. **Mobile-friendly** - be functional and usable on mobile devices
+OMB’s policy guidance (M-23-23) requires that agencies ensure their websites, web applications, digital services, and mobile applications conform to the following requirements and principles:
 
-## Agencies Must Report Progress on Website Modernization
+- Accessible to people of diverse abilities
+- Consistent visual design and agency brand identity
+- Content that is authoritative and easy to understand
+- Information and services that are discoverable and optimized for search
+- Secure by design, secure by default
+- User-centered and data-driven design
+- Customized and dynamic user experiences
+- Mobile-first design that scales across varying device sizes
 
-Section 3 of **21st Century IDEA** requires executive agencies to report their progress in implementing the website modernization requirements in the Act. Each agency that maintains a public website or digital service must report to:
+## What does it mean to digitize services and forms?
 
-- Congress on those websites and services, including the cost and schedule of modernization, and
-- OMB and the public annually (for the next 5 years) on the agency's progress in implementing the requirements.
+OMB’s policy guidance (M-23-23) requires to the greatest extent practicable that agencies:
 
-## What Are the Deadlines?
+- Make forms available to the public in a digital format
+- Make services provided to the public available in a digital channel and in a manner that maximizes self-service task or transaction completion
+- Not require a handwritten signature (“wet signature”) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with an equivalent digital method
 
-Refer to [Public Law 115–336](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf) (PDF, 315 kb, 4 pages, December 2018) for more detailed information on the deadlines and reporting requirements in 21st Century IDEA.
 
-## More Information
+## What are the implementation timelines?
 
-- Visit our topic page for [21st Century IDEA-related resources, news, and training events](https://digital.gov/topics/21st-century-idea/).
-- Learn about the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
-- Resource pages:
-    - [Checklist of Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)&mdash;The relevant laws, policies, and regulations for federal agencies.
-    - [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/)&mdash;A list of required links that all federal websites need to have.
+Since the passage of the law, agencies have taken steps to improve and better integrate their digital experiences.
+
+OMB’s policy guidance (M-23-23) further clarifies requirements and sets specific timelines and priorities for implementation
+
+- **For new or redesigned websites, digital services, and forms:** Within 180 days of issuance, any new or redesigned website, service, and form is expected to meet the requirements outlined in guidance
+
+- **For existing websites, digital services, and forms:** Agencies are expected to prioritize remediation and/or digitization based on the criteria outlined in Section IV of the guidance
+
+
+## What are the agency reporting requirements?
+
+
+21st Century IDEA requires agencies to send an annual report to OMB on the progress of implementing the requirements of the law. This reporting requirement concludes after 2023 and will be replaced by the below actions.
+
+OMB’s policy guidance (M-23-23) requires agencies to complete a series of reporting actions within one year of issuance. This section will continually be updated with additional instructions and resources to help agencies in completing the required actions.
+
+For questions on reporting actions, please email the Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov)
+
+### Action 1. Identify digital experience delivery lead
+
+Within `30 days` of issuance
+
+- **Purpose:** Each agency must identify a single lead. This lead will be responsible for communicating information to the relevant stakeholders across the agency, providing requested information to OMB, engaging with other agencies to share best practices for implementation, and overseeing delivery of the requirements and recommendations of this memorandum. Once designated, leads from larger agencies may work with OMB to designate secondary points of contact for agency subcomponents, but the overall lead will remain responsible for the above.
+
+- **Instructions:** Submit name and contact information using the online form, Agency action #1: Identify digital experience delivery lead.
+
+### Action 2. Identify public-facing websites
+
+Within `90 days` of issuance; additional details and instructions are forthcoming.
+
+### Action 3. Identify and assess top websites
+
+Within `180 days` of issuance; additional details and instructions are forthcoming.
+
+### Action 4. Assess common questions and top content for deduplication and SEO
+
+Within `180 days` of issuance; additional details and instructions are forthcoming.
+
+### Action 5. Assess top tasks for self-service optimization
+
+Within `180 days` of issuance; additional details and instructions are forthcoming.
+
+### Action 6. Inventory public services
+
+Within `180 days` of the launch of the Federal Services Index; additional details and instructions are forthcoming.
+
+### Action 7. Update internal controls and policies
+
+Within `365 days` of issuance; additional details and instructions are forthcoming.
+
+## Resources
+
+- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/21st-century-idea/)
+- Use the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
+- Learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/)
+- Learn more about the [Site Scanning Program](https://digital.gov/guides/site-scanning/)
+- Learn more about the [U.S. Web Design System](https://designsystem.digital.gov/)
+
+## Connect with others interested in delivering a digital-first public experience
+
+Want to learn more?
+
+Join the [Web Managers Community](https://digital.gov/communities/web-content-managers/) to learn about other related best practices and share your knowledge. We encourage everyone to join this community — whether you are already familiar with how to deliver a digital-first public experience or just getting started.
+
+Also, reach out to your agency’s [Federal Web Council](https://digital.gov/2019/11/12/meet-your-federal-web-council/) representative and get involved in your agency’s digital services working group or guild. If one doesn’t exist, consider setting one up in your agency.
+
+{{< note >}}
+Digital.gov provides information and resources for federal agencies related to web and digital policies.  However, we cannot interpret the statutes or specific requirements.
+
+Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) with any questions about interpretations of the law and guidance, which collectively establish a framework and the requirements for a digital-first public experience.
+{{</ note>}}
+
+<br>
+
+<footer>
+<h3 id="footnote-label">Footnotes</h3>
+<ol>
+<li id="fn1">
+  Review of <i>Digital Government Experience, the Digital Citizen</i>. 2023. Deloitte Insights. Deloitte. 2023.
+  <br>
+  https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html
+  </a>
+  <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+</ol>
+</footer>
