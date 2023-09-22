@@ -100,7 +100,7 @@ Understand the needs of your customers, collect and address customer feedback, a
 
 - [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)
 - [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
-- [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf) (2021) (PDF, 410 kb, 11 pages)
+- [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 - See all [Government Customer Service Policies and Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
 - [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
 

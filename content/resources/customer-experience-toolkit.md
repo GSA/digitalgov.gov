@@ -36,7 +36,7 @@ Make the customer experience a strategic priority for your entire organization.
 
 - [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) (December 2021)
     - [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/) (December 2021)
-- [OMB Circular A-11, Section 280: Managing Customer Experience and Improving Service Delivery (PDF, 420 kb, 11 pages, 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)
+- [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.htm)
 - [The CX Cookbook: A Collection of Key Ingredients & Recipes for Embedding Customer Experience in Federal Services (PDF, 1.8 MB, 34 pages, 2020)](https://www.va.gov/ve/docs/cx/customer-experience-cookbook.pdf) - U.S. Department of Veterans Affairs
 - [Customer Service Cross-Agency Priority (CAP) Goal Update (2015)](https://digital.gov/2015/12/14/government-customer-service-update-webinar-recap/)
