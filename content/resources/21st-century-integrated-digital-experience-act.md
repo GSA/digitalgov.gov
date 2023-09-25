@@ -34,7 +34,11 @@ primary_image: "office-team-ideas-scyther5"
 
 ## What is 21st Century IDEA?
 
-The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was a bipartisan act signed into law in December 2018. In September 2023, the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) (PDF, 220 KB, 32 pages). In part, this memo provides further policy guidance to help agencies fully implement 21st Century IDEA. The law and guidance collectively establish a framework and the requirements for a digital-first public experience. Read more in the fact sheet, [Building Digital Experiences for the American People](https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/), for the guidance.
+The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was a bipartisan act signed into law in December 2018.
+
+In September 2023, the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience (PDF, 220 KB, 32 pages)](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf). In part, this memo provides further policy guidance to help agencies fully implement 21st Century IDEA. The law and policy guidance collectively establish a framework and the requirements for a digital-first public experience.
+
+For the policy guidance, read more in the fact sheet, [Building Digital Experiences for the American People](https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/).
 
 
 ## Why is it important?
@@ -45,7 +49,7 @@ Digitally is now the default way the public wants to interact with the governmen
 
 Delivering a digital-first public experience is a significant opportunity to improve the lives of millions by making it easier to access the information and services they use and count on each and every day.
 
-## What’s in the Law?
+## What’s in the law?
 
 21st Century IDEA requires all executive branch agencies to:
 
@@ -154,7 +158,7 @@ The Chief Information Officer of each executive agency, or a designee, shall--
 
 {{< /card-policy >}}
 
-## What Does It Mean to Modernize Websites?
+## What does it mean to modernize websites?
 
 
 OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, web applications, digital services, and mobile applications conform to the following requirements and principles:
@@ -203,7 +207,7 @@ Within `30 days` of issuance
 
 - **Purpose:** Each agency must identify a single lead. This lead will be responsible for communicating information to the relevant stakeholders across the agency, providing requested information to OMB, engaging with other agencies to share best practices for implementation, and overseeing delivery of the requirements and recommendations of this memorandum. Once designated, leads from larger agencies may work with OMB to designate secondary points of contact for agency subcomponents, but the overall lead will remain responsible for the above.
 
-- **Instructions:** Submit name and contact information using the online form, Agency action #1: Identify digital experience delivery lead.
+- **Instructions:** Submit name and contact information using the online form, [Agency action #1: Identify digital experience delivery lead](https://touchpoints.app.cloud.gov/touchpoints/37ac6817/submit).
 
 ### Action 2. Identify public-facing websites
 
@@ -235,11 +239,9 @@ Within `365 days` of issuance; additional details and instructions are forthcomi
 - Use the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
 - Learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/)
 - Learn more about the [Site Scanning Program](https://digital.gov/guides/site-scanning/)
-- Learn more about the [U.S. Web Design System](https://designsystem.digital.gov/)
+- Learn more about [how to use the U.S. Web Design System](https://designsystem.digital.gov/how-to-use-uswds/#get-started-with-uswds)
 
 ## Connect with others interested in delivering a digital-first public experience
-
-Want to learn more?
 
 Join the [Web Managers Community](https://digital.gov/communities/web-content-managers/) to learn about other related best practices and share your knowledge. We encourage everyone to join this community — whether you are already familiar with how to deliver a digital-first public experience or just getting started.
 
@@ -259,6 +261,7 @@ Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@om
 <li id="fn1">
   Review of <i>Digital Government Experience, the Digital Citizen</i>. 2023. Deloitte Insights. Deloitte. 2023.
   <br>
+  <a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html">
   https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html
   </a>
   <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
