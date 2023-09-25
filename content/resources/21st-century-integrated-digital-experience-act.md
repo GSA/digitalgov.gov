@@ -199,7 +199,7 @@ OMB’s policy guidance (M-23-22) further clarifies requirements and sets specif
 
 OMB’s policy guidance (M-23-22) requires agencies to complete a series of reporting actions within one year of issuance. This section will continually be updated with additional instructions and resources to help agencies in completing the required actions.
 
-For questions on reporting actions, please email the Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov)
+For questions on reporting actions, please email the Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov).
 
 ### Action 1. Identify digital experience delivery lead
 
