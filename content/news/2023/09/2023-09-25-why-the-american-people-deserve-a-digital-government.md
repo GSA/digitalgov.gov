@@ -4,7 +4,7 @@ source_url: https://www.whitehouse.gov/omb/briefing-room/2023/09/22/why-the-amer
 source: whitehouse
 date: 2023-09-22 13:26:00 -0500
 title: Why the American People Deserve a Digital Government
-deck: OMB recently released new policy guidance for government that includes a
+deck: OMB released new policy guidance for government that includes a
   variety of actions and standards to help Federal agencies design, develop, and
   deliver modern websites and digital services.
 summary: OMB recently released new policy guidance for government that includes
