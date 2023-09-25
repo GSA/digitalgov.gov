@@ -26,7 +26,7 @@ primary_image: "accessibility-101-title-card"
 aliases:
   - /resources/intro-accessibility
 
-weight: 7
+weight: 2
 
 # Make it better ♥
 

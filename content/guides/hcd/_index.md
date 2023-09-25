@@ -22,7 +22,7 @@ topics:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 2
+weight: 9
 
 ---
 
