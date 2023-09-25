@@ -34,7 +34,7 @@ primary_image: "office-team-ideas-scyther5"
 
 ## What is 21st Century IDEA?
 
-The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was a bipartisan act signed into law in December 2018. In September 2023, the Office of Management and Budget (OMB) issued [M-23-23, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-23.pdf) (PDF, 0.5 MB, 32 pages). In part, this memo provides further policy guidance to help agencies fully implement 21st Century IDEA. The law and guidance collectively establish a framework and the requirements for a digital-first public experience. Read more in the fact sheet, Fact Sheet Title, for the guidance.
+The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was a bipartisan act signed into law in December 2018. In September 2023, the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) (PDF, 220 KB, 32 pages). In part, this memo provides further policy guidance to help agencies fully implement 21st Century IDEA. The law and guidance collectively establish a framework and the requirements for a digital-first public experience. Read more in the fact sheet, [Building Digital Experiences for the American People](https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/), for the guidance.
 
 
 ## Why is it important?
@@ -157,7 +157,7 @@ The Chief Information Officer of each executive agency, or a designee, shall--
 ## What Does It Mean to Modernize Websites?
 
 
-OMB’s policy guidance (M-23-23) requires that agencies ensure their websites, web applications, digital services, and mobile applications conform to the following requirements and principles:
+OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, web applications, digital services, and mobile applications conform to the following requirements and principles:
 
 - Accessible to people of diverse abilities
 - Consistent visual design and agency brand identity
@@ -170,7 +170,7 @@ OMB’s policy guidance (M-23-23) requires that agencies ensure their websites, 
 
 ## What does it mean to digitize services and forms?
 
-OMB’s policy guidance (M-23-23) requires to the greatest extent practicable that agencies:
+OMB’s policy guidance (M-23-22) requires to the greatest extent practicable that agencies:
 
 - Make forms available to the public in a digital format
 - Make services provided to the public available in a digital channel and in a manner that maximizes self-service task or transaction completion
@@ -181,7 +181,7 @@ OMB’s policy guidance (M-23-23) requires to the greatest extent practicable th
 
 Since the passage of the law, agencies have taken steps to improve and better integrate their digital experiences.
 
-OMB’s policy guidance (M-23-23) further clarifies requirements and sets specific timelines and priorities for implementation
+OMB’s policy guidance (M-23-22) further clarifies requirements and sets specific timelines and priorities for implementation
 
 - **For new or redesigned websites, digital services, and forms:** Within 180 days of issuance, any new or redesigned website, service, and form is expected to meet the requirements outlined in guidance
 
@@ -193,7 +193,7 @@ OMB’s policy guidance (M-23-23) further clarifies requirements and sets specif
 
 21st Century IDEA requires agencies to send an annual report to OMB on the progress of implementing the requirements of the law. This reporting requirement concludes after 2023 and will be replaced by the below actions.
 
-OMB’s policy guidance (M-23-23) requires agencies to complete a series of reporting actions within one year of issuance. This section will continually be updated with additional instructions and resources to help agencies in completing the required actions.
+OMB’s policy guidance (M-23-22) requires agencies to complete a series of reporting actions within one year of issuance. This section will continually be updated with additional instructions and resources to help agencies in completing the required actions.
 
 For questions on reporting actions, please email the Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov)
 
