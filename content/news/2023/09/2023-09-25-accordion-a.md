@@ -209,7 +209,7 @@ Agencies should consult USWDS and Digital.gov for more specific recommendations 
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
-<ol>
+<ol "list-style: none">
 
 <li id="fn5"><sup>5</sup> 29 U.S.C. § 794d; see 36 C.F.R. part 1194. The scope of Section 508 differs from the scope of this memorandum. For example, Section 508 applies broadly to “electronic and information technology,” not just websites and digital services. See 29 U.S.C. § 794d(a)(1)(A). Agencies are responsible for determining the extent of their responsibilities under Section 508 and the associated accessibility standards.<a href="#footnotes-ref5" aria-label="Back to content">↩</a></li>
 
