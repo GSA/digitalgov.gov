@@ -4,8 +4,8 @@ source_url: https://www.whitehouse.gov/omb/briefing-room/2023/09/22/why-the-amer
 source: whitehouse
 date: 2023-09-22 13:26:00 -0500
 title: "Why the American People Deserve a Digital Government"
-deck: "OMB released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services."
-summary: "OMB recently released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services."
+deck: "OMB released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services. Memo M-23-22, Delivering a Digital-First Public Experience, will make it seamless for the public to obtain government information and services online, and help agencies fully implement the 21st Century Integrated Digital Experience Act (21st Century IDEA)."
+summary: "OMB recently released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services. Memo M-23-22, Delivering a Digital-First Public Experience, will make it seamless for the public to obtain government information and services online, and help agencies fully implement the 21st Century Integrated Digital Experience Act (21st Century IDEA)."
 
 # See all topics at https://digital.gov/topics
 topics:
