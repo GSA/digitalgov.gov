@@ -7,10 +7,11 @@
 
 (() => {
   const imagesStreamContainer = document.querySelector(".dg-image-stream");
-  const baseURL = "https://s3.amazonaws.com/digitalgov";
-  const { jsonPath } = imagesStreamContainer.dataset;
 
   if (!imagesStreamContainer) return;
+
+  const baseURL = "https://s3.amazonaws.com/digitalgov";
+  const jsonPath = `${imagesStreamContainer.baseURI}/v1/json/index.json`;
 
   /**
    * Creates a thumbnail image with original image as fallback.
