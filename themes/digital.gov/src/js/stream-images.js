@@ -11,7 +11,12 @@
   if (!imagesStreamContainer) return;
 
   const baseURL = "https://s3.amazonaws.com/digitalgov";
-  const jsonPath = `${imagesStreamContainer.baseURI}/v1/json/index.json`;
+  const imageDataURI = imagesStreamContainer.baseURI;
+
+  // Replace any double backslash with single.
+  const jsonPath = `${imageDataURI}/v1/json/index.json`
+    .split("//v1")
+    .join("/v1");
 
   /**
    * Creates a thumbnail image with original image as fallback.
