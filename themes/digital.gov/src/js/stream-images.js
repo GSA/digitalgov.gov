@@ -97,7 +97,7 @@
     const imagesData = await fetch(`${jsonPath}`);
 
     if (!imagesData.ok) {
-      throw new Error("Images json error");
+      throw new Error("Error fetching images JSON.");
     }
 
     const imagesJSON = await imagesData.json();
