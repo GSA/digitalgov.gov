@@ -10,7 +10,7 @@ slug: accordion-a
 
 ---
 
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section III.A: Requirements for Websites and Digital Services" >}}*Note: Open the document to review all footnotes and citations.*
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section III.A: Requirements for Websites and Digital Services" >}}*Note: Open the .pdf document to review all footnotes (5 through 69) for this section.*
 
 **III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
