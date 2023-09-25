@@ -3,9 +3,10 @@
 source_url: https://www.whitehouse.gov/omb/briefing-room/2023/09/22/why-the-american-people-deserve-a-digital-government/
 source: whitehouse
 date: 2023-09-22 13:26:00 -0500
-title: Why the American People Deserve a Digital Government
-deck: OMB released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services.
-summary: OMB recently released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services.
+title: "Why the American People Deserve a Digital Government"
+deck: "OMB released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services."
+summary: "OMB recently released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services."
+
 # See all topics at https://digital.gov/topics
 topics:
   - white-house
@@ -29,7 +30,7 @@ topics:
   - analytics
   - metrics
   - privacy
-  - securtity
+  - security
   - policy
   - accessibility
   - governance
