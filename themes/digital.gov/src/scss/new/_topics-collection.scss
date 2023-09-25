@@ -21,6 +21,18 @@
       margin: 0;
       position: relative;
     }
+
+    .usa-card__img {
+      background-color: white;
+    }
+
+    .usa-card__heading {
+      font-size: 1.1rem;
+    }
+
+    img {
+      object-fit: contain;
+    }
   }
 
   // Reduce vertical spacing between sibling .dg-feature-resource components

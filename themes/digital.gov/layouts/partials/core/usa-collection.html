@@ -9,11 +9,13 @@
 {{ $data := .data }}
 {{ $length := or .length 10 }}
 {{ $href := "" }}
+{{ $page_href := "" }}
 {{ $title := "" }}
 {{ $summary := "" }}
 {{ $topic_icon := "" }}
 {{ $logo_source := "" }}
 {{ $variant := .variant }}
+{{ $url := "" }}
 {{ $meta_source := .meta_source }}
 {{ $list_header := .list_header }}
 {{ $list_default_width := .list_default_width }}
@@ -37,20 +39,13 @@
         {{ $href = .Params.source_url }}
       {{ else }}
         {{ $logo_source = (print "/img/digit-50.png") }}
-        {{ if .Permalink }}
-          {{ $href = (print .Permalink "?dg") }}
-        {{ else }}
-          {{ $href = .href }}
-          {{ $title = .title }}
-          {{ $summary = .summary }}
-          {{ $topic_icon = .topic_redirect }}
-        {{ end }}
+        {{ $href = (print .Permalink "?dg") }}
       {{ end }}
 
       {{/* If using "headings" variant and no meta_source is present, create one from the source_url or source or set as Digita.gov as the default */}}
       {{ if not $meta_source }}
         {{ if .Params.source_url }}
-          {{ $url := .Params.source_url }}
+          {{ $url = .Params.source_url }}
           {{ $meta_source = urls.Parse $url }}
           {{ $meta_source = $meta_source.Hostname }}
         {{ else if .Params.source }}
@@ -60,9 +55,26 @@
         {{ end }}
       {{ end }}
 
+      {{/* If not a hugo page object */}}
+      {{ if not .IsPage }}
+        {{ $href = .href }}
+        {{ $title = .title }}
+        {{ $summary = .summary }}
+        {{ $topic_icon = .topic_redirect }}
+      {{ end }}
+
+      {{/* Build the data object for each list item */}}
+      {{ $item_title := or .Params.title $title }}
+      {{ $item_summary := or (or .Params.summary .Params.deck ) $summary }}
+      {{ $item_href := $href }}
+      {{ $list_item_data := ( dict "title" $item_title "summary" $item_summary "href" $href ) }}
+
+      {{/* Build Settings Object */}}
+      {{ $list_item_settings := (dict "logo_source" $logo_source "topic_icon" $topic_icon "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "is_truncated" $is_truncated ) }}
+
       {{/* If image exists, then display as list item */}}
       {{ if $logo_source }}
-        {{- partial "core/collection/collection-list-item" (dict "list_item" . "title" $title "summary" $summary "href" $href "logo_source" $logo_source "topic_icon" $topic_icon "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "is_truncated" $is_truncated) -}}
+        {{- partial "core/collection/collection-list-item.html" (dict "list_item" $list_item_data "list_item_settings" $list_item_settings) -}}
       {{ end }}
 
     {{ end }}

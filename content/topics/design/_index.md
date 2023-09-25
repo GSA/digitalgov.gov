@@ -21,21 +21,21 @@ data:
   contents:
     summary: "Guidance, resources, and community to help you use design and user experience to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
     legislation:
-      name: "21 Century IDEA"
+      name: "21st Century Integrated Digital Experience Act (21st Century IDEA)"
       description: ""
       link_text: "View Policy"
-      image: "hcd-discovery-operations.png"
+      image: "legislative-stamp-card-logo.png"
       link_url: "https://www.govinfo.gov/app/details/DCPD-202101050"
   featured_resources:
       multiple: false
       resources:
       - link: "/guides/hcd/discovery-concepts"
-        kicker: "HCD Guides"
+        kicker: "Human-Centered Design Guide Series"
   communities:
       multiple: false
       community:
         - link: "/communities/user-experience"
-  top_resources_header: "Essential knowledge for design"
+  top_resources_header: "Design: essential knowledge"
   top_resources:
     - title: "An introduction to design requirements"
       href: "/resources/an-introduction-to-design-requirements/"

@@ -35,6 +35,9 @@
             <div class="usa-card__container">
               {{ if .Params.data.contents.legislation.name }}
                 <div class="usa-card__header">
+                  <h2 class="dg-featured-resource__text-kicker">
+                    Related Policy
+                  </h2>
                   <h2 class="usa-card__heading">
                     {{ .Params.data.contents.legislation.name }}
                   </h2>
@@ -132,7 +135,7 @@
 
       {{/* If there are any events */}}
       {{- if $events_stream -}}
-        <h2>Events for {{ .Title }}</h2>
+        <h2>{{ .Title }} events</h2>
 
         {{/* Loop through the first 4 events */}}
         {{- range first 5 $events_stream -}}
@@ -158,7 +161,7 @@
 
       {{/* If there are any events */}}
       {{- if $posts_stream -}}
-        <h2>News on {{ .Title -}}</h2>
+        <h2>{{ .Title }} news</h2>
 
         {{/* Loop through first 10 pages */}}
         {{- range first 10 $posts_stream -}}

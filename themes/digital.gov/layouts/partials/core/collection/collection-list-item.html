@@ -22,6 +22,10 @@
 {{ $list_default_width := .list_default_width }}
 {{ $is_truncated := .is_truncated }}
 
+{{ $list_item_data := .list_item }}
+{{ $settings := .list_item_settings }}
+{{ printf "%#v" $settings }}
+
 {{- with .list_item -}}
   {{ $path := "" }}{{ with .File }}
     {{ $path = .Path }}
@@ -29,46 +33,30 @@
     {{ $path = .Path }}
   {{ end }}
 
-
-  <li class="usa-collection__item{{ if not $list_default_width }} usa-collection__item--full-width{{ end }}" data-gh-edit-page="{{- $path -}}">
-    {{ if or (eq $variant "media") (eq $variant "custom") }}
-      {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source "topic_icon" $topic_icon) -}}
+  <li class="usa-collection__item{{ if not $settings.list_default_width }} usa-collection__item--full-width{{ end }}" data-gh-edit-page="{{- $path -}}">
+    {{ if or (eq $settings.variant "media") (eq $settings.variant "custom") }}
+      {{- partial "core/collection/collection-icon" (dict "logo_source" $settings.logo_source "topic_icon" $settings.topic_icon) -}}
     {{ end }}
     <div class="usa-collection__body">
-      <h{{ $list_header | safeHTML }} class="usa-collection__header">
-        {{ if .Title }}
-          <a class="usa-link {{ if $link_external }}usa-link--external{{ end }}" href="{{- $href -}}" title="{{- .Title | markdownify -}}">
-            {{- .Title | markdownify -}}
+      <h{{ $settings.list_header | safeHTML }} class="usa-collection__header">
+        {{ if .title }}
+          <a class="usa-link {{ if $settings.link_external }}usa-link--external{{ end }}" href="{{- .href -}}" title="{{- .title | markdownify -}}">
+            {{- .title | markdownify -}}
           </a>
         {{ end }}
-        {{ if $title }}
-          <a class="usa-link {{ if $link_external }}usa-link--external{{ end }}" href="{{- $href -}}" title="{{- $title | markdownify -}}">
-            {{- $title | markdownify -}}
-          </a>
-        {{ end }}
-      </h{{ $list_header | safeHTML }}>
-      {{ if ne $variant "headings" }}
+      </h{{ $settings.list_header | safeHTML }}>
+      {{ if ne $settings.variant "headings" }}
         <p class="usa-collection__description">
-          {{/*  Use .Params.summary if data is hugo page object, else use the custom .summary field to populate the description  */}}
-          {{ $item_summary := "" }}
-          {{ if .Params.summary }}
-            {{ $item_summary = .Params.summary }}
-          {{ else if .summary }}
-            {{ $item_summary = .summary }}
-          {{ end }}
-
-          {{- if $item_summary -}}
-            {{- if .Params.is_truncated -}}
-              {{- $item_summary | markdownify | truncate 140 -}}
+          {{ if .summary }}
+            {{ if $settings.is_truncated }}
+              {{ .summary | markdownify | truncate 140 }}
             {{ else }}
-              {{- $item_summary | markdownify -}}
+              {{ .summary | markdownify }}
             {{ end }}
-          {{- else -}}
-            {{- .Params.deck | markdownify -}}
-          {{- end -}}
+          {{ end }}
         </p>
       {{ else }}
-        {{ if $meta_source }}
+        {{ if $settings.meta_source }}
           <ul class="usa-collection__meta">
             <li class="usa-collection__meta-item position-relative">
               <svg
@@ -80,7 +68,7 @@
                   xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
                 ></use>
               </svg>
-              {{- $meta_source -}}
+              {{- $settings.meta_source -}}
             </li>
           </ul>
         {{ end }}
