@@ -1,20 +1,23 @@
-# Site Wide Alert setting that is displayed at the top of the website
+# Site Wide Alert
+# Displays at the top of the website.
+#
+# Based on USWDS Component USA Site Alert:
 # https://designsystem.digital.gov/components/site-alert/
 #
-# display_alert: hide/show the sitewide alert on the site
-# is_emergency: true will display with orange emergency colors else it will display as blue info box
-# has_icon: hide/show icon
-# is_slim: sets a thinner banner height
-# header: bold text that appears next the icon at top of alert box
-# alerts: text field that supports markdown, will display a bulleted list if multiple, otherwise displays as standard text block
+#
+# @param {boolean} [display_alert: false] - Toggle the display of the alert.
+# @param {boolean} [is_emergency: false] - Uses info variant by default. When enabled, it will show the orange emergency variant.
+# @param {boolean} [has_icon: true] - Toggle visibility of the information icon.
+# @param {boolean} [is_slim: false] - The slimmer, shorter, variant of the alert.
+# @param {string} [header: ""] - Bold text that appears next the icon at top.
+# @param {array} [alerts] - Each item is an individual alert. Accepts markdown. Uses an unordered list when there's more than a single item.
 
 data:
-  display_alert: false
+  display_alert: true
   is_emergency: false
   has_icon: true
   is_slim: false
   header: "Guidance for U.S. government websites and social media for:"
   alerts:
     - "Hawaii wildfires: [digital.gov/hawaii-wildfires](/hawaii-wildfires)"
-    # - "Hawaii wildfires: [digital.gov/hawaii-wildfires](/hawaii-wildfires)"
-    # - "Hawaii wildfires: [digital.gov/hawaii-wildfires](/hawaii-wildfires)"
+    - "Hurricane Idalia: [digital.gov/hurricane-idalia](/hurricane-idalia)"

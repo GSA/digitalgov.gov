@@ -4,15 +4,16 @@
   {{ $is_slim := .is_slim }}
   {{ $header := .header }}
 
+  {{ $variant := "usa-site-alert--info" }}
+  {{ if $is_emergency }}
+    {{ $variant = "usa-site-alert--emergency" }}
+  {{ end }}
+
   {{ if (eq .display_alert true ) }}
     <section
-      class="usa-site-alert {{ if $is_emergency }}
-        usa-site-alert--emergency
-      {{ else }}
-        usa-site-alert--info
-      {{ end }}{{ if not $has_icon }}
-        usa-site-alert--no-icon
-      {{ end }}{{ if $is_slim }}usa-site-alert--slim{{ end }}"
+      class="dg-site-alert usa-site-alert {{ $variant }}
+      {{ if not $has_icon }}usa-site-alert--no-icon{{ end }}
+      {{ if $is_slim }}usa-site-alert--slim{{ end }}"
       aria-label="Site alert"
     >
       <div class="usa-alert">
@@ -39,6 +40,6 @@
 
 <script type="text/javascript">
   {{/*  Add the usa-link classes to for consistent link styles  */}}
-  const links = document.querySelectorAll(".usa-alert__body a");
+  const links = document.querySelectorAll(".dg-site-alert a");
   links.forEach((link) => link.classList.add("usa-link"));
 </script>
