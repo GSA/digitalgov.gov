@@ -210,137 +210,71 @@ Agencies should consult USWDS and Digital.gov for more specific recommendations 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol "list-style: none">
-
 <li id="fn5"><sup>5</sup> 29 U.S.C. § 794d; see 36 C.F.R. part 1194. The scope of Section 508 differs from the scope of this memorandum. For example, Section 508 applies broadly to “electronic and information technology,” not just websites and digital services. See 29 U.S.C. § 794d(a)(1)(A). Agencies are responsible for determining the extent of their responsibilities under Section 508 and the associated accessibility standards.<a href="#footnotes-ref5" aria-label="Back to content">↩</a></li>
-
-<li id="fn6"><sup>6</sup> *See* World Wide Web Consortium (W3C) Accessibility Standards (https://www.w3.org/WAI/standardsguidelines/). As of the publication of this memo, the most current version of the Web Content Accessibility Guidelines (WCAG) would be 2.1, with Web Content Accessibility Guidelines (WCAG) 2.2 pending release.<a href="#footnotes-ref6" aria-label="Back to content">↩</a></li>
-
-<li id="fn7"><sup>7</sup> *See* OMB’s “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” (Jan. 24, 2013), https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf.<a href="#footnotes-ref7" aria-label="Back to content">↩</a></li>
-
+<li id="fn6"><sup>6</sup> _See_ World Wide Web Consortium (W3C) Accessibility Standards (https://www.w3.org/WAI/standardsguidelines/). As of the publication of this memo, the most current version of the Web Content Accessibility Guidelines (WCAG) would be 2.1, with Web Content Accessibility Guidelines (WCAG) 2.2 pending release.<a href="#footnotes-ref6" aria-label="Back to content">↩</a></li>
+<li id="fn7"><sup>7</sup> _See_ OMB’s “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” (Jan. 24, 2013), https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf.<a href="#footnotes-ref7" aria-label="Back to content">↩</a></li>
 <li id="fn8"><sup>8</sup> 21st Century IDEA, § 3(e).<a href="#footnotes-ref8" aria-label="Back to content">↩</a></li>
-
 <li id="fn9"><sup>9</sup> See General Services Administration, U.S. Web Design System: Federal Website Standards, https://designsystem.digital.gov/website-standards/.<a href="#footnotes-ref9" aria-label="Back to content">↩</a></li>
-
 <li id="fn10"><sup>10</sup> Agencies, departments, components, offices, or programs may establish independent organizational brands, as appropriate. However, all public-facing websites and digital services within a single organization should use the same brand identity and visual design. When an organization establishes an independent brand, agency-led reviews or other processes should be conducted at the organizational level that established the brand, using such internal controls to ensure the brand is consistently applied prior to public release.<a href="#footnotes-ref10" aria-label="Back to content">↩</a></li>
-
-<li id="fn11"><sup>11</sup> *See* OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications*.<a href="#footnotes-ref11" aria-label="Back to content">↩</a></li>
-
+<li id="fn11"><sup>11</sup> _See_ OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications*.<a href="#footnotes-ref11" aria-label="Back to content">↩</a></li>
 <li id="fn12"><sup>12</sup> See OMB Memorandum M-23-10, *The Registration and Use of .gov Domains in the Federal Government*.<a href="#footnotes-ref12" aria-label="Back to content">↩</a></li>
-
-<li id="fn13"><sup>13</sup> For example, to the extent practicable, an agency should add its seal or emblem to its profile page on a social media website to indicate that it is an official agency account. Similarly, to the extent practicable, an agency may leverage a third-party service on a non-governmental domain to host websites or content for official communication or delivery of services on behalf of the government, but the agency should perform domain name masking with a .gov or .mil domain name to verify to the public that they are interacting with the government and not a nongovernmental actor. *See* OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications*.<a href="#footnotes-ref13" aria-label="Back to content">↩</a></li>
-
+<li id="fn13"><sup>13</sup> For example, to the extent practicable, an agency should add its seal or emblem to its profile page on a social media website to indicate that it is an official agency account. Similarly, to the extent practicable, an agency may leverage a third-party service on a non-governmental domain to host websites or content for official communication or delivery of services on behalf of the government, but the agency should perform domain name masking with a .gov or .mil domain name to verify to the public that they are interacting with the government and not a nongovernmental actor. _See_ OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications*.<a href="#footnotes-ref13" aria-label="Back to content">↩</a></li>
 <li id="fn14"><sup>14</sup> Specifically, agencies should not interpret related controls in the National Institute of Standards and Technology (NIST) Special Publication 800-53 (such as AC-8 in SP 800-53 revision 5) as requiring the display of warning banners on digital services designed for access by the general public.<a href="#footnotes-ref14" aria-label="Back to content">↩</a></li>
-
 <li id="fn15"><sup>15</sup> Agencies should consult USWDS and Digital.gov for more specific guidance on how best to display required links and other relevant information on websites and digital services.<a href="#footnotes-ref15" aria-label="Back to content">↩</a></li>
-
-<li id="fn16"><sup>16</sup> *See* OMB’s *Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies*, 67 Fed. Reg. 8452 (Feb. 22, 2002).<a href="#footnotes-ref16" aria-label="Back to content">↩</a></li>
-
+<li id="fn16"><sup>16</sup> _See_ OMB’s *Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies*, 67 Fed. Reg. 8452 (Feb. 22, 2002).<a href="#footnotes-ref16" aria-label="Back to content">↩</a></li>
 <li id="fn17"><sup>17</sup> Agencies are reminded of their obligation to comply with applicable laws and OMB guidance for information quality. See OMB’s *Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies*, 67 Fed. Reg. 8452, and guidance from the National Archives and Records Administration for the management of electronic records.<a href="#footnotes-ref17" aria-label="Back to content">↩</a></li>
-
-<li id="fn18"><sup>18</sup> *See* OMB Circular No. A-130, *Managing Information as a Strategic Resource* (2016); 44 U.S.C. § 3506(d).<a href="#footnotes-ref18" aria-label="Back to content">↩</a></li>
-
+<li id="fn18"><sup>18</sup> _See_ OMB Circular No. A-130, *Managing Information as a Strategic Resource* (2016); 44 U.S.C. § 3506(d).<a href="#footnotes-ref18" aria-label="Back to content">↩</a></li>
 <li id="fn19"><sup>19</sup> For example, when a website or digital service is focused on improving access for a unique and specific class of people within or across agencies.<a href="#footnotes-ref19" aria-label="Back to content">↩</a></li>
-
 <li id="fn20"><sup>20</sup> Plain Writing Act of 2010, Pub. L. No. 111-274.<a href="#footnotes-ref20" aria-label="Back to content">↩</a></li>
-
-<li id="fn20"><sup>21</sup> *See* OMB Memorandum M-11-15, *Final Guidance on Implementing the Plain Writing Act of 2010*.<a href="#footnotes-ref21" aria-label="Back to content">↩</a></li>
-
-<li id="fn20"><sup>22</sup> *See* Federal plain language guidelines (https://www.plainlanguage.gov/guidelines/).<a href="#footnotes-ref22" aria-label="Back to content">↩</a></li>
-
+<li id="fn20"><sup>21</sup> _See_ OMB Memorandum M-11-15, *Final Guidance on Implementing the Plain Writing Act of 2010*.<a href="#footnotes-ref21" aria-label="Back to content">↩</a></li>
+<li id="fn20"><sup>22</sup> _See_ Federal plain language guidelines (https://www.plainlanguage.gov/guidelines/).<a href="#footnotes-ref22" aria-label="Back to content">↩</a></li>
 <li id="fn20"><sup>23</sup> “Readability of Patient Education Materials on the American Association for Surgery of Trauma Website” (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139691/#:~:text=The%20average%20reading%20skill%20of,at%20the%20eighth%2Dgrade%20level).<a href="#footnotes-ref23" aria-label="Back to content">↩</a></li>
-
-<li id="fn20"><sup>24</sup> *See* Executive Order 13166, *Improving Access to Services for Persons with Limited English Proficiency* (August 11, 2000).<a href="#footnotes-ref24" aria-label="Back to content">↩</a></li>
-
+<li id="fn20"><sup>24</sup> _See_ Executive Order 13166, *Improving Access to Services for Persons with Limited English Proficiency* (August 11, 2000).<a href="#footnotes-ref24" aria-label="Back to content">↩</a></li>
 <li id="fn20"><sup>25</sup> Translation is the process of adapting content from one language into another language. Localization is the process of adapting content for a more specific linguistic or cultural audience. Localization may go beyond translation of text and might involve changing images, color palettes, symbols and systems, etc. For example, English content can be translated into French, but there are many regional dialects and cultural differences to consider if the target audience is a French speaker in France, Canada, or the Caribbean. In this situation, localization may be more appropriate.<a href="#footnotes-ref25" aria-label="Back to content">↩</a></li>
-
 <li id="fn20"><sup>26</sup> For example, statistical agencies and units should conduct the review of their own content.<a href="#footnotes-ref26" aria-label="Back to content">↩</a></li>
-
-<li id="fn20"><sup>27</sup> *See* OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications*.<a href="#footnotes-ref27" aria-label="Back to content">↩</a></li>
-
+<li id="fn20"><sup>27</sup> _See_ OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications*.<a href="#footnotes-ref27" aria-label="Back to content">↩</a></li>
 <li id="fn20"><sup>28</sup> For example, popups, overlays, and interstitials are not recommended for this purpose due to their disruptive nature and negative impact to the user experience. Agencies should consult USWDS for best practices for labeling content that includes external links.<a href="#footnotes-ref28" aria-label="Back to content">↩</a></li>
-
 <li id="fn20"><sup>29</sup> Robots.txt standard (or robots exclusion standard) is used by websites to indicate to web crawlers or other automated web robots (or bots) which part of a website they are allowed to visit. This is used to optimize crawling and to prevent overloading a site with requests. It is not designed to prevent indexing or to prevent bots from accessing a website.<a href="#footnotes-ref29" aria-label="Back to content">↩</a></li>
-
 <li id="fn30"><sup>30</sup> Timestamps may not be appropriate for dynamic websites and web applications with server-generated content.<a href="#footnotes-ref30" aria-label="Back to content">↩</a></li>
-
 <li id="fn31"><sup>31</sup> These requirements concerning HTTPS are established in OMB M-22-09, *Moving the U.S. Government Toward Zero Trust Cybersecurity Principles*, which extends the requirements of OMB Memorandum M-15-13, *Policy to Require Secure Connections Across Federal Websites and Web Services*, from internet-accessible websites to all Federally operated websites.<a href="#footnotes-ref31" aria-label="Back to content">↩</a></li>
-
-<li id="fn32"><sup>32</sup> *See* OMB Memorandum M-22-09, *Moving the U.S. Government Toward Zero Trust Cybersecurity Principles*.<a href="#footnotes-ref32" aria-label="Back to content">↩</a></li>
-
+<li id="fn32"><sup>32</sup> _See_ OMB Memorandum M-22-09, *Moving the U.S. Government Toward Zero Trust Cybersecurity Principles*.<a href="#footnotes-ref32" aria-label="Back to content">↩</a></li>
 <li id="fn33"><sup>33</sup> *See id*. &#91;*idem*; refer to the immediately preceding citation; 32&#93;<a href="#footnotes-ref33" aria-label="Back to content">↩</a></li>
-
 <li id="fn34"><sup>34</sup> For example, if the users of a given website are expected to log in only rarely (e.g., once a year for tax purposes), then the agency administering the website must not deactivate accounts simply because they have been inactive for almost a year.<a href="#footnotes-ref34" aria-label="Back to content">↩</a></li>
-
-<li id="fn35"><sup>35</sup> *See* OMB Memorandum M-23-16, *Update to Memorandum M-22-18, Enhancing the Security of the Software Supply Chain through Secure Software Development Practices*; NIST’s *Secure Software Development Framework* (SSDF), https://csrc.nist.gov/Projects/ssdf; and the Cybersecurity and Infrastructure Security Agency (CISA)’s *Shifting the Balance of Cybersecurity Risk: Principles and Approaches for Security-by-Design and Default*, https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf.<a href="#footnotes-ref35" aria-label="Back to content">↩</a></li>
-
+<li id="fn35"><sup>35</sup> _See_ OMB Memorandum M-23-16, *Update to Memorandum M-22-18, Enhancing the Security of the Software Supply Chain through Secure Software Development Practices*; NIST’s *Secure Software Development Framework* (SSDF), https://csrc.nist.gov/Projects/ssdf; and the Cybersecurity and Infrastructure Security Agency (CISA)’s *Shifting the Balance of Cybersecurity Risk: Principles and Approaches for Security-by-Design and Default*, https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf.<a href="#footnotes-ref35" aria-label="Back to content">↩</a></li>
 <li id="fn36"><sup>36</sup> These requirements for vulnerability disclosure policies are stated in OMB Memorandum M-20-32, *Improving Vulnerability Identification, Management, and Remediation*, and CISA BOD 20-01, *Develop and Publish a Vulnerability Disclosure Policy*. Agencies were permitted upon the initial issuance of those policies to incrementally expand the scope of their vulnerability disclosure policies (VDP) over time. However, all relevant deadlines have passed, and agencies are no longer permitted to exclude an internet-accessible system or service from the scope of their VDP.<a href="#footnotes-ref36" aria-label="Back to content">↩</a></li>
-
 <li id="fn37"><sup>37</sup> In this context, static assets refer to files, such as images or code, that are not expected to be changed by the server before they are delivered to the user.<a href="#footnotes-ref37" aria-label="Back to content">↩</a></li>
-
 <li id="fn38"><sup>38</sup> User research focuses on understanding user behaviors, needs, and motivations through observation, interviews, collaborative design methods, and other feedback methodologies (such as focus groups or usability testing). See Digital.gov for more information.<a href="#footnotes-ref38" aria-label="Back to content">↩</a></li>
-
 <li id="fn39"><sup>39</sup> For example, agencies may designate subject matter experts to help ensure that websites and web applications meet mission outcomes and legal, policy, and other requirements. However, these activities are complementary to user research and should not be considered as user research or a substitute for user research.<a href="#footnotes-ref39" aria-label="Back to content">↩</a></li>
-
 <li id="fn40"><sup>40</sup> Personas (or user personas) are semi-fictional character profiles, which are created based on user research for products and services. They serve as an archetypal representation of your current (or ideal) customer for design and development.<a href="#footnotes-ref40" aria-label="Back to content">↩</a></li>
-
 <li id="fn41"><sup>41</sup> There may be legal limitations on compensating participants. Agencies should consult their counsel and Chief Financial Officer appropriately when establishing policies and processes for compensation.<a href="#footnotes-ref41" aria-label="Back to content">↩</a></li>
-
-<li id="fn42"><sup>42</sup> *See* OMB Memorandum M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies.<a href="#footnotes-ref42" aria-label="Back to content">↩</a></li>
-
-<li id="fn43"><sup>43</sup> *See* Digital Analytics Program (DAP), https://digital.gov/guides/dap/.<a href="#footnotes-ref43" aria-label="Back to content">↩</a></li>
-
+<li id="fn42"><sup>42</sup> _See_ OMB Memorandum M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies.<a href="#footnotes-ref42" aria-label="Back to content">↩</a></li>
+<li id="fn43"><sup>43</sup> _See_ Digital Analytics Program (DAP), https://digital.gov/guides/dap/.<a href="#footnotes-ref43" aria-label="Back to content">↩</a></li>
 <li id="fn44"><sup>44</sup> *See id*. &#91;*idem*; refer to the immediately preceding citation; 43&#93;<a href="#footnotes-ref44" aria-label="Back to content">↩</a></li>
-
 <li id="fn45"><sup>45</sup> *See id*. &#91;*idem*; refer to the immediately preceding citation; 44&#93;<a href="#footnotes-ref45" aria-label="Back to content">↩</a></li>
-
 <li id="fn46"><sup>46</sup> As measured via the Digital Analytics Program (https://analytics.usa.gov/), as of the publication of this memo.<a href="#footnotes-ref46" aria-label="Back to content">↩</a></li>
-
 <li id="fn47"><sup>47</sup> Connected Government Act, Pub. L. No. 115-406 (2018).<a href="#footnotes-ref47" aria-label="Back to content">↩</a></li>
-
 <li id="fn48"><sup>48</sup> Mobile-first design is an approach in which a website or digital service is designed for mobile devices first. This typically involves designing for the smallest screen first and gradually working up to larger screen sizes. Designing for small screens first encourages user experience designers to remove anything that is not essential for rendering and navigation, which optimizes the experience for the user.<a href="#footnotes-ref48" aria-label="Back to content">↩</a></li>
-
-<li id="fn49"><sup>49</sup> *See* tools recommended in the U.S. Web Design System’s performance guidance, https://designsystem.digital.gov/performance/.<a href="#footnotes-ref49" aria-label="Back to content">↩</a></li>
-
+<li id="fn49"><sup>49</sup> _See_ tools recommended in the U.S. Web Design System’s performance guidance, https://designsystem.digital.gov/performance/.<a href="#footnotes-ref49" aria-label="Back to content">↩</a></li>
 <li id="fn50"><sup>50</sup> Mobile applications are software applications designed to run natively on a mobile device’s operating system and should not be confused with mobile web applications, which are applications that are optimized to be used on a browser on a mobile device.<a href="#footnotes-ref50" aria-label="Back to content">↩</a></li>
-
-<li id="fn51"><sup>51</sup> *See* OMB Circular No. A-130, *Managing Information as a Strategic Resource*. Agencies are responsible for ensuring their activities and policies comply with all applicable laws (e.g., the Children’s Online Privacy Protection Act), which may have additional requirements.<a href="#footnotes-ref51" aria-label="Back to content">↩</a></li>
-
-<li id="fn52"><sup>52</sup> *See* OMB Circular No. A-130, *Managing Information as a Strategic Resource*, for the definition of PII.<a href="#footnotes-ref52" aria-label="Back to content">↩</a></li>
-
-<li id="fn53"><sup>53</sup> *See* OMB Memorandum M-16-24, *Role and Designation of Senior Agency Officials for Privacy*.<a href="#footnotes-ref53" aria-label="Back to content">↩</a></li>
-
-<li id="fn54"><sup>54</sup> *See* OMB Circular No. A-130, *Managing Information as a Strategic Resource*.<a href="#footnotes-ref54" aria-label="Back to content">↩</a></li>
-
+<li id="fn51"><sup>51</sup> _See_ OMB Circular No. A-130, *Managing Information as a Strategic Resource*. Agencies are responsible for ensuring their activities and policies comply with all applicable laws (e.g., the Children’s Online Privacy Protection Act), which may have additional requirements.<a href="#footnotes-ref51" aria-label="Back to content">↩</a></li>
+<li id="fn52"><sup>52</sup> _See_ OMB Circular No. A-130, *Managing Information as a Strategic Resource*, for the definition of PII.<a href="#footnotes-ref52" aria-label="Back to content">↩</a></li>
+<li id="fn53"><sup>53</sup> _See_ OMB Memorandum M-16-24, *Role and Designation of Senior Agency Officials for Privacy*.<a href="#footnotes-ref53" aria-label="Back to content">↩</a></li>
+<li id="fn54"><sup>54</sup> _See_ OMB Circular No. A-130, *Managing Information as a Strategic Resource*.<a href="#footnotes-ref54" aria-label="Back to content">↩</a></li>
 <li id="fn55"><sup>55</sup> This requirement does not apply to internal agency activities (such as on intranets or online interactions that do not involve the public).<a href="#footnotes-ref55" aria-label="Back to content">↩</a></li>
-
-<li id="fn56"><sup>56</sup> *See* OMB Memorandum M-99-18, *Privacy Policies on Federal Web Sites*, and OMB Memorandum M-03-22, *OMB Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002*.<a href="#footnotes-ref56" aria-label="Back to content">↩</a></li>
-
-<li id="fn57"><sup>57</sup> *See* 5 U.S.C. § 552a(e)(3). *See also* Privacy Act Implementation: Guidelines and Responsibilities, 40 Fed. Reg. 28,961, 28,962 (July 9, 1975); OMB Circular No. A-108, *Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act* (2016).<a href="#footnotes-ref57" aria-label="Back to content">↩</a></li>
-
-<li id="fn58"><sup>58</sup> *See* OMB Circular No. A-108, *Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act*.<a href="#footnotes-ref58" aria-label="Back to content">↩</a></li>
-
-<li id="fn59"><sup>59</sup> *See* the requirements for each of these items in OMB Circular No. A-108, *Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act*. The requirement to provide links to complete, up-to-date versions of SORNs on the agency’s Privacy Program Page does not replace the Privacy Act’s statutory requirement to publish SORNs in the *Federal Register*.<a href="#footnotes-ref59" aria-label="Back to content">↩</a></li>
-
+<li id="fn56"><sup>56</sup> _See_ OMB Memorandum M-99-18, *Privacy Policies on Federal Web Sites*, and OMB Memorandum M-03-22, *OMB Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002*.<a href="#footnotes-ref56" aria-label="Back to content">↩</a></li>
+<li id="fn57"><sup>57</sup> _See_ 5 U.S.C. § 552a(e)(3). *See also* Privacy Act Implementation: Guidelines and Responsibilities, 40 Fed. Reg. 28,961, 28,962 (July 9, 1975); OMB Circular No. A-108, *Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act* (2016).<a href="#footnotes-ref57" aria-label="Back to content">↩</a></li>
+<li id="fn58"><sup>58</sup> _See_ OMB Circular No. A-108, *Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act*.<a href="#footnotes-ref58" aria-label="Back to content">↩</a></li>
+<li id="fn59"><sup>59</sup> _See_ the requirements for each of these items in OMB Circular No. A-108, *Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act*. The requirement to provide links to complete, up-to-date versions of SORNs on the agency’s Privacy Program Page does not replace the Privacy Act’s statutory requirement to publish SORNs in the *Federal Register*.<a href="#footnotes-ref59" aria-label="Back to content">↩</a></li>
 <li id="fn60"><sup>60</sup> In this context, loosely coupling is an approach in which components in a system are weakly associated with each other, and depend on each other to the least extent practicable. This means changes in one component least affect existence or performance of another component.<a href="#footnotes-ref60" aria-label="Back to content">↩</a></li>
-
 <li id="fn61"><sup>61</sup> Web standards, such as those developed by the World Wide Web Consortium (W3C), are non-proprietary standards, technical specifications, or guidelines that define and describe aspects of the World Wide Web (e.g., development and design practices for websites).<a href="#footnotes-ref61" aria-label="Back to content">↩</a></li>
-
 <li id="fn62"><sup>62</sup> Due to the wide ranges of browsers and browser-related standards, universal browser access is impractical, but, nevertheless, agencies should strive for browser compatibility rather than designing for a singular browser as a means to save development time and reduce costs.<a href="#footnotes-ref62" aria-label="Back to content">↩</a></li>
-
 <li id="fn63"><sup>63</sup> Agencies have flexibility in how to present or organize this information unless explicitly stated by law or OMB guidance. For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.<a href="#footnotes-ref63" aria-label="Back to content">↩</a></li>
-
 <li id="fn64"><sup>64</sup> Each department or agency, as well as its significant components, offices, or programs, as determined by law or the agency, should provide the required links on its primary homepage. Components, offices, or programs may utilize the same required links as their parent agency, if appropriate.<a href="#footnotes-ref64" aria-label="Back to content">↩</a></li>
-
-<li id="fn65"><sup>65</sup> *See* E-Government Act of 2002, Pub. L. No. 107-347, § 207(f)(1)(A).<a href="#footnotes-ref65" aria-label="Back to content">↩</a></li>
-
-<li id="fn66"><sup>66</sup> *See* 5 U.S.C. § 552(g).<a href="#footnotes-ref66" aria-label="Back to content">↩</a></li>
-
-<li id="fn67"><sup>67</sup> *See* OMB’s “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” (Jan. 24, 2013), https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf.<a href="#footnotes-ref67" aria-label="Back to content">↩</a></li>
-
+<li id="fn65"><sup>65</sup> _See_ E-Government Act of 2002, Pub. L. No. 107-347, § 207(f)(1)(A).<a href="#footnotes-ref65" aria-label="Back to content">↩</a></li>
+<li id="fn66"><sup>66</sup> _See_ 5 U.S.C. § 552(g).<a href="#footnotes-ref66" aria-label="Back to content">↩</a></li>
+<li id="fn67"><sup>67</sup> _See_ OMB’s “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” (Jan. 24, 2013), https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf.<a href="#footnotes-ref67" aria-label="Back to content">↩</a></li>
 <li id="fn68"><sup>68</sup> Pub. L. No. 107-174, § 301; 29 C.F.R. § 1614.704.<a href="#footnotes-ref68" aria-label="Back to content">↩</a></li>
-
-<li id="fn69"><sup>69</sup> *See* Digital.gov: Required Web Content and Links, https://digital.gov/resources/required-web-content-andlinks/?=checklist.<a href="#footnotes-ref69" aria-label="Back to content">↩</a></li>
-
+<li id="fn69"><sup>69</sup> _See_ Digital.gov: Required Web Content and Links, https://digital.gov/resources/required-web-content-andlinks/?=checklist.<a href="#footnotes-ref69" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
 
