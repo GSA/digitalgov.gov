@@ -44,6 +44,8 @@ full summary @example
 {{ $meta_source := .meta_source }}
 {{ $list_default_width := .list_default_width | default true }}
 {{ $is_truncated := .is_truncated | default true }}
+{{ $settings := ( dict "length" $length "variant" $variant "list_header" $list_header "meta_source" $meta_source "list_default_width" $list_default_width "is_truncated" $is_truncated) }}
+{{ $header_data := ( dict "title" $header_title "size" $header_size "link" $header_link "id" $header_id ) }}
 
 {{ if $data }}
   <div class="dg-collection">
@@ -54,9 +56,9 @@ full summary @example
         {{ end }}"
       >
         {{ if $header_title }}
-          {{ partial "core/collection/collection-header" (dict "header_title" $header_title "header_size" $header_size "header_link" $header_link "header_id" $header_id) }}
+          {{ partial "core/collection/collection-header" (dict "data" $header_data) }}
         {{ end }}
-        {{ partial "core/usa-collection" (dict "data" $data "length" $length "variant" $variant "list_header" $list_header "meta_source" $meta_source "list_default_width" $list_default_width "is_truncated" $is_truncated) }}
+        {{ partial "core/usa-collection" (dict "data" $data "settings" $settings) }}
       </div>
     </div>
 

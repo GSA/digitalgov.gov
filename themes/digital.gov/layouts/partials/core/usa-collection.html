@@ -7,19 +7,20 @@
 */}}
 
 {{ $data := .data }}
-{{ $length := or .length 10 }}
+{{ $settings := .settings }}
+{{ $length := or $settings.length 10 }}
 {{ $href := "" }}
 {{ $page_href := "" }}
 {{ $title := "" }}
 {{ $summary := "" }}
 {{ $topic_icon := "" }}
 {{ $logo_source := "" }}
-{{ $variant := .variant }}
+{{ $variant := $settings.variant }}
 {{ $url := "" }}
-{{ $meta_source := .meta_source }}
-{{ $list_header := .list_header }}
-{{ $list_default_width := .list_default_width }}
-{{ $is_truncated := .is_truncated }}
+{{ $meta_source := $settings.meta_source }}
+{{ $list_header := $settings.list_header }}
+{{ $list_default_width := $settings.list_default_width }}
+{{ $is_truncated := $settings.is_truncated }}
 
 
 <ul class="usa-collection">
@@ -55,7 +56,7 @@
         {{ end }}
       {{ end }}
 
-      {{/* If not a hugo page object */}}
+      {{/* If not a hugo page object, string map from yaml file */}}
       {{ if not .IsPage }}
         {{ $href = .href }}
         {{ $title = .title }}

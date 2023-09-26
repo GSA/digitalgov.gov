@@ -8,12 +8,12 @@
 
 */}}
 {{ $list_item := .list_item }}
+{{ $settings := .list_item_settings }}
 {{ $variant := .variant }}
 {{ $link_external := false }} {{/* TODO: fix external link logic to work on all environments */}}
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
 {{ $title := .title }}
-
 {{ $topic_icon := .topic_icon }}
 {{ $href := .href }}
 {{ $summary := .summary }}
@@ -21,10 +21,7 @@
 {{ $meta_source := .meta_source }}
 {{ $list_default_width := .list_default_width }}
 {{ $is_truncated := .is_truncated }}
-
 {{ $list_item_data := .list_item }}
-{{ $settings := .list_item_settings }}
-{{ printf "%#v" $settings }}
 
 {{- with .list_item -}}
   {{ $path := "" }}{{ with .File }}
