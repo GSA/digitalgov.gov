@@ -59,7 +59,7 @@ Delivering a digital-first public experience is a significant opportunity to imp
 - Improve customer experience
 - Standardize and transition to centralized shared services
 
-{{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}
+{{< card-policy icon="content_copy" src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}
 
 **SECTION 1. SHORT TITLE.**
 
