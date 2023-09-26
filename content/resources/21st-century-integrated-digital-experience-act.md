@@ -62,7 +62,7 @@ Delivering a digital-first public experience is a significant opportunity to imp
 
 {{< accordion kicker="Last update" title="April 1, 2020" icon="unfold_more" >}} inner text of what you want to collapse {{< /accordion >}}
 
-{{< accordion kicker="Last update" title="April 1, 2020" icon="content_copy" >}} inner text of what you want to collapse {{< /accordion >}}
+{{< accordion icon="content_copy" kicker="M-23-22, Delivering a Digital-First Public Experience" title="Section III.A: Requirements for Websites and Digital Services" src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" >}} inner text of what you want to collapse {{< /accordion >}}
 
 
 {{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}
