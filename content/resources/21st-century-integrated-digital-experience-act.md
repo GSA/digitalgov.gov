@@ -503,11 +503,21 @@ Within `365 days` of issuance; additional details and instructions are forthcomi
 {{< /card-policy >}}
 
 
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.C**: Ongoing Agency Assessment and Reporting Requirements" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.C**: Ongoing Agency Assessment and Reporting Requirements" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+
+**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
 **C. Ongoing Agency Assessment and Reporting Requirements**
 
-4. **Update internal controls and policies:** Agency Chief Information Officers (or designees) should periodically review policies and internal control processes in coordination with other appropriate agency officials and update them as necessary to ensure that websites and digital services meet applicable legal and policy requirements, including those established or reiterated by this memorandum.
+1. **Keep public-facing website information up-to-date:** Agencies should regularly review and identify their public-facing websites.
+
+2. **Keep service information up-to-date:** Agencies should periodically review service information in the Federal Services Index and update this information as needed.
+
+3. **Keep form information up-to-date:** When seeking to obtain approval to collect information or extend or revise an existing collection, agencies must continue to document in their Information Collection Request submission materials to OMB’s Office of Information and Regulatory Affairs (OIRA) how forms and associated websites and services are consistent with digitization requirements. <sup>89</sup>
+
+4. {{< highlight >}}**Update internal controls and policies:**{{< /highlight >}} Agency Chief Information Officers (or designees) should periodically review policies and internal control processes in coordination with other appropriate agency officials and update them as necessary to ensure that websites and digital services meet applicable legal and policy requirements, including those established or reiterated by this memorandum.
+
+5. **Perform evidence-based accountability reviews:** The Chief Information Officer at any agency listed in 31 U.S.C. § 901(b)(1) or (b)(2) should regularly review and evaluate IT investments to identify struggling or underperforming IT projects (i.e., public-facing websites and digital services that are in significant misalignment with the requirements and recommendations of this memorandum). Agencies should use evidence-based accountability review processes, such as TechStat sessions, <sup>90</sup> to identify performance issues, conduct a root-cause analysis of those issues, identify challenges or barriers (including any resource and budget constraints), develop corrective action plans that may potentially address these causes, and develop a timeline for implementing corrective actions.
 
 {{< /card-policy >}}
 
