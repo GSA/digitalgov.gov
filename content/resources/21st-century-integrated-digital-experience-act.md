@@ -59,12 +59,10 @@ Delivering a digital-first public experience is a significant opportunity to imp
 - Improve customer experience
 - Standardize and transition to centralized shared services
 
-{{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}
 
-**SECTION 1. SHORT TITLE.**
+{{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}**SECTION 1. SHORT TITLE.**
 
-This Act may be cited as the 21st Century Integrated Digital
-Experience Act or the 21st Century IDEA.
+This Act may be cited as the 21st Century Integrated Digital Experience Act or the 21st Century IDEA.
 
 **SEC. 2. DEFINITIONS.**
 
@@ -170,6 +168,7 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 6. User-centered and data-driven design
 7. Customized and dynamic user experiences
 8. Mobile-first design that scales across varying device sizes
+
 
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
@@ -368,13 +367,14 @@ Agencies should consult USWDS and Digital.gov for more specific recommendations 
 
 {{< /card-policy >}}
 
-## What does it mean to digitize services and forms?
+## What does it mean to digitize forms and services?
 
 OMB’s policy guidance (M-23-22) requires to the greatest extent practicable that agencies:
 
 - Make forms available to the public in a digital format
 - Make services provided to the public available in a digital channel and in a manner that maximizes self-service task or transaction completion
 - Not require a handwritten signature (“wet signature”) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with an equivalent digital method
+
 
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
@@ -427,6 +427,7 @@ OMB’s policy guidance (M-23-22) further clarifies requirements and sets specif
 - **For new or redesigned websites, digital services, and forms:** Within 180 days of issuance, any new or redesigned website, service, and form is expected to meet the requirements outlined in guidance
 
 - **For existing websites, digital services, and forms:** Agencies are expected to prioritize remediation and/or digitization based on the criteria outlined in Section IV of the guidance
+
 
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV, Criteria**: Ensuring Agencies Deliver Integrated Digital Experiences" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
@@ -485,6 +486,7 @@ Within `180 days` of the launch of the Federal Services Index; additional detail
 
 Within `365 days` of issuance; additional details and instructions are forthcoming.
 
+
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
 **IV. Ensuring Agencies Deliver Integrated Digital Experiences**
@@ -525,12 +527,8 @@ Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@om
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">
-  Review of <i>Digital Government Experience, the Digital Citizen</i>. 2023. Deloitte Insights. Deloitte. 2023.
-  <br>
-  <a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html">
-  https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html
-  </a>
-  <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">Review of <i>Digital Government Experience, the Digital Citizen</i>. 2023. Deloitte Insights. Deloitte. 2023.<br>
+<a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html">
+https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html</a> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
