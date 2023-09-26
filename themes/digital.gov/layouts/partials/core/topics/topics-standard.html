@@ -35,15 +35,18 @@
 
           {{/* Gets the resource .Pages associated with this topic */}}
           {{- $resources := (where .Pages "Section" "resources") -}}
-          {{- partial "partials/core/collection/collection.html" (dict "data" $resources "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
+          {{- $resource_settings := ( dict "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
+          {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources "settings" $resource_settings ) -}}
 
           {{/* Gets the services .Pages associated with this topic */}}
           {{- $services := (where .Pages "Section" "services") -}}
-          {{- partial "partials/core/collection/collection.html" (dict "data" $services "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
+          {{- $services_settings := ( dict "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
+          {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
 
           {{/* Gets the communities .Pages associated with this topic */}}
           {{- $communities := (where .Pages "Section" "communities") -}}
-          {{- partial "partials/core/collection/collection.html" (dict "data" $communities "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
+          {{- $community_settings := ( dict "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
+          {{- partial "partials/core/collection/collection.html" (dict "collection_data" $communities "settings" $community_settings) -}}
 
         {{- end -}}
 
@@ -78,7 +81,10 @@
 
           {{/* If there are any blog posts at all... */}}
           {{- if $stream -}}
-            <h2>News and Events on {{ .Title -}}</h2>
+            <h2 class="main-topic__news-featured-header">
+              News and Events on
+              {{ .Title -}}
+            </h2>
             <p>{{- len $allpages }} posts</p>
 
             {{/* Loop through all the pages */}}

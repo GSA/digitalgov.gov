@@ -112,7 +112,8 @@
       {{ end }}
 
       {{ $top_resources := .Params.data.top_resources }}
-      {{- partial "partials/core/collection/collection.html" (dict "data" $top_resources "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "is_truncated" false) -}}
+      {{ $collection_settings := ( dict "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "is_truncated" false) }}
+      {{- partial "partials/core/collection/collection.html" (dict "collection_data" $top_resources "settings" $collection_settings) -}}
     </div>
   </section>
 

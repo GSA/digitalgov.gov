@@ -7,8 +7,9 @@
   @param {boolean} link_external - apply `usa-link--external` class if url host is not www.digital.gov
 
 */}}
-{{ $list_item := .list_item }}
-{{ $settings := .list_item_settings }}
+
+{{ $list_item_data := .list_item_data }}
+{{ $settings := .settings }}
 {{ $variant := .variant }}
 {{ $link_external := false }} {{/* TODO: fix external link logic to work on all environments */}}
 {{ $logo_source := .logo_source }}
@@ -21,9 +22,8 @@
 {{ $meta_source := .meta_source }}
 {{ $list_default_width := .list_default_width }}
 {{ $is_truncated := .is_truncated }}
-{{ $list_item_data := .list_item }}
 
-{{- with .list_item -}}
+{{- with $list_item_data -}}
   {{ $path := "" }}{{ with .File }}
     {{ $path = .Path }}
   {{ else }}
@@ -45,11 +45,7 @@
       {{ if ne $settings.variant "headings" }}
         <p class="usa-collection__description">
           {{ if .summary }}
-            {{ if $settings.is_truncated }}
-              {{ .summary | markdownify | truncate 140 }}
-            {{ else }}
-              {{ .summary | markdownify }}
-            {{ end }}
+            {{ .summary | markdownify }}
           {{ end }}
         </p>
       {{ else }}
