@@ -7,10 +7,10 @@ summary: summary
 # 1 -- visible
 weight: 1
 slug: section-iv-criteria
----
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section IV, Criteria: Ensuring Agencies Deliver Integrated Digital Experiences" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
-C﻿riteria
+---
+
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section IV, Criteria: Ensuring Agencies Deliver Integrated Digital Experiences" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
 OMB recommends that agencies prioritize remediation of websites and digital services based on the following criteria:
 
@@ -23,9 +23,5 @@ OMB recommends that agencies prioritize developing digital options for existing 
 1. Forms directly supporting the delivery of a service or benefit to the public, starting with those forms associated with the highest volume of annual transactions or highest average adjudication times.
 2. Forms directly supporting the delivery of a service or benefit to the public that, if provided digitally, would address user needs, reduce public burden, or improve public impact, as determined based on user research or business analysis.
 3. Assistance provided through customer call center support that could be designed as self-service digital tasks for customers to reach resolution on their own.
-
-Finally, agencies should also consider the digital experience of Federal employees by striving to also remediate those internal-facing websites and digital services that serve Federal employees. Improvements to internal-facing websites and digital services can increase the efficiency of government operations. Such gains in efficiencies enable employees to better deliver information and services to the public and fulfill their agencies’ respective missions.
-
-With regards to internal-facing websites and digital services, OMB recommends prioritizing websites and digital services that, if remediated, would enable agency employees to better deliver information and services to the public, websites and digital services that have been identified for improvements through employee feedback, and websites and digital services with the highest severity of issue (e.g., security or privacy risks, complaints or litigation due to non-accessible design).
 
 {{< /card-policy >}}
