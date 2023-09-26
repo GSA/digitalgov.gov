@@ -10,7 +10,7 @@ slug: accordion-section-iii-b
 
 ---
 
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section III.B: Digitization of Forms and Services" >}}*Note: Open the .pdf document to view the footnotes for this section.*
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section III.B: Digitization of Forms and Services" >}}*Note: For footnotes, use the link at the bottom to open the .pdf file.*
 
 **III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
