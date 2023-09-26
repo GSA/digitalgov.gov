@@ -502,6 +502,15 @@ Within `365 days` of issuance; additional details and instructions are forthcomi
 
 {{< /card-policy >}}
 
+
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.C**: Ongoing Agency Assessment and Reporting Requirements" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
+
+**C. Ongoing Agency Assessment and Reporting Requirements**
+
+4. **Update internal controls and policies:** Agency Chief Information Officers (or designees) should periodically review policies and internal control processes in coordination with other appropriate agency officials and update them as necessary to ensure that websites and digital services meet applicable legal and policy requirements, including those established or reiterated by this memorandum.
+
+{{< /card-policy >}}
+
 ## Resources
 
 - Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/21st-century-idea/)
