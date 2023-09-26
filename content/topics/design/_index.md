@@ -41,7 +41,7 @@ data:
       href: "/resources/an-introduction-to-design-requirements/"
       summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started."
     - title: "USWDS design principles"
-      href: "/guides/hcd/"
+      href: "https://designsystem.digital.gov/design-principles/"
       summary: "Earn trust by following consistent design principles."
     - title: "Get .gov"
       href: "https://get.gov/"
