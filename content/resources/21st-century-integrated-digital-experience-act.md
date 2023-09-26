@@ -368,7 +368,7 @@ In the footer of each agency’s website, or the entry point for a digital servi
 
 Agencies should consult USWDS and Digital.gov for more specific recommendations on how to best display required links and other relevant information on websites and digital services.<sup>69</sup>
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full legislation <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"><use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full legislation <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"><use xlink:href="https://digital.gov/themes/digital.gov/static/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
