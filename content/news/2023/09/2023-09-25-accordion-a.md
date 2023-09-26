@@ -1,6 +1,6 @@
 ---
 date: 2023-09-25 10:34:00 -0500
-title: Accordion A
+title: Accordion A, version 1
 summary: summary
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -10,9 +10,7 @@ slug: accordion-a
 
 ---
 
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section III.A: Requirements for Websites and Digital Services" >}}*Note: Open the .pdf document to review all footnotes (5 through 69) for this section.*
-
-**III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section III.A: Requirements for Websites and Digital Services" >}}**III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
 **A. Requirements for Websites and Digital Services**
 
@@ -271,7 +269,7 @@ Agencies should consult USWDS and Digital.gov for more specific recommendations 
 <li id="fn64"><sup>64</sup> Each department or agency, as well as its significant components, offices, or programs, as determined by law or the agency, should provide the required links on its primary homepage. Components, offices, or programs may utilize the same required links as their parent agency, if appropriate.<a href="#footnotes-ref64" aria-label="Back to content">↩</a></li>
 <li id="fn65"><sup>65</sup> <em>See</em> E-Government Act of 2002, Pub. L. No. 107-347, § 207(f)(1)(A).<a href="#footnotes-ref65" aria-label="Back to content">↩</a></li>
 <li id="fn66"><sup>66</sup> <em>See</em> 5 U.S.C. § 552(g).<a href="#footnotes-ref66" aria-label="Back to content">↩</a></li>
-<li id="fn67"><sup>67</sup> <em>See</em> OMB’s “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” (Jan. 24, 2013), https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf.<a href="#footnotes-ref67" aria-label="Back to content">↩</a></li>
+<li id="fn67"><sup>67</sup> <em>See</em> OMB’s “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” (Jan. 24, 2013).<a href="#footnotes-ref67" aria-label="Back to content">↩</a></li>
 <li id="fn68"><sup>68</sup> Pub. L. No. 107-174, § 301; 29 C.F.R. § 1614.704.<a href="#footnotes-ref68" aria-label="Back to content">↩</a></li>
 <li id="fn69"><sup>69</sup> <em>See</em> Digital.gov: Required Web Content and Links, https://digital.gov/resources/required-web-content-andlinks/?=checklist.<a href="#footnotes-ref69" aria-label="Back to content">↩</a></li></ol>
 </footer>
