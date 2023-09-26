@@ -152,3 +152,7 @@ menu:
       Identifier: "policies"
       URL: "/policies/"
       Weight: 2
+    - Name: "Contact"
+      Identifier: "contact"
+      URL: "/about/contact/"  
+      Weight: 3
