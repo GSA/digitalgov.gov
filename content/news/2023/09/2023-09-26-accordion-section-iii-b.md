@@ -1,20 +1,24 @@
 ---
 date: 2023-09-26 23:45:00 -0500
 title: Accordion Section III B
-summary: "summary "
+summary: "summary"
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
 slug: accordion-section-iii-b
+
 ---
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section III.B: Digitization of Forms and Services" >}}*Note: Open the .pdf document to review the footnotes for this section.*
+
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section III.B: Digitization of Forms and Services" >}}*Note: Open the .pdf document to view the footnotes for this section.*
+
+**III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
 **B. Digitization of Forms and Services**
 
 Reliance on paper-based processes, forms, and services precludes a digital experience, which is what the majority of the public now expects. Forms, services, and associated processes should be designed and modernized with digital service delivery in mind for the public and agencies to fully reap the transformational benefits and promises of a digital government, including increased convenience of online transactions, greater cost savings, and higher levels of public satisfaction with and trust in government.
 
-1. **Forms**
+1. {{< highlight >}}**Forms**{{< /highlight >}}
 
 Forms are an essential component of government and often a prerequisite to obtaining Federal Government services or benefits. Web-based forms, also called digital forms, provide numerous advantages when compared to paper-based forms. As a web application, a digital form has the capability to capture, validate, submit, and process structured information digitally and in an automated manner. <sup>70</sup> Digital forms, when designed correctly, can help improve information collection accuracy and usability, reduce business inefficiency, enhance security, and reduce costs and labor associated with managing and reviewing paper-based documents.
 
@@ -24,7 +28,7 @@ Forms are an essential component of government and often a prerequisite to obtai
 * **Build adaptable and resilient digital forms:** In building new or upgraded digital forms, agencies should prioritize designing platforms that allow for efficient future alterations to question sets or response options. Similarly, agencies should prioritize building digital forms that can be scaled or replicated for use in similar information collections or transactions that an agency administers.
 * **Keep digital forms digital, end-to-end:** Agencies should ensure that information collected via a digital form remains digital throughout the information lifecycle. For example, if information is collected from a digital form, it should not be converted or transformed into a paper or electronic format and then back into a digital format, unless strictly necessary.
 
-2. **Services**
+2. {{< highlight >}}**Services**{{< /highlight >}}
 
 While websites, digital services, and other digital interactions should make up the majority of the public’s interactions with the Federal Government, services can and should be provided over different channels to best meet the needs of the public. The public increasingly expects to complete tasks and transactions using omni-channel and multi-channel offerings. Omni-channel means customers can start a task or transaction in one channel (e.g., online) and seamlessly continue or finish the same task or transaction in another channel (e.g., in person). Multi-channel means customers have the option to complete a task or transaction, from start to finish, in the channel that works best for them (e.g., online, in person, over the phone, through the mail).
 
@@ -33,7 +37,7 @@ While websites, digital services, and other digital interactions should make up 
 * **Design a seamless, unified customer experience:** Agencies are strongly encouraged, where appropriate, to take an omni-channel approach to service design and delivery. With that approach, customers have a consistent, high-quality experience regardless of channel and are allowed to advance toward task or transaction completion using the channel that is most convenient to them.
 * **Maintain non-digital interaction options:** Agencies must always maintain an accessible method (i.e., physical availability) for completing a digital service through in-person, paper-based, or other means, so customers without the ability to use a digital service are not deprived of or impeded in their ability to access it. This means that agencies should afford the public the ability to complete a transaction over at least one traditional service channel (e.g., in person, postal mail, or phone).
 
-3. **Signatures**
+3. {{< highlight >}}**Signatures**{{< /highlight >}}
 
 Signature requirements are common for Federal Government forms and services. Signatures are typically the means by which a person indicates an intent to associate themselves with a document in a manner that has legal significance. This often constitutes legally-binding evidence of the signer’s intention with regard to a document. The reasons for signing a document will vary with the transaction.
 
@@ -45,15 +49,5 @@ The use of signatures may not be appropriate for every scenario involving a publ
 * **Avoid unnecessary signature requirements for forms and services:** Agencies should avoid establishing unnecessary signature or identity proofing requirements that create user friction and prevent or impede an individual from successfully utilizing a form or service. <sup>75</sup> When signatures or identity verification are required for a transaction, agencies should not collect more information from the user than is required to securely complete the transaction. <sup>76</sup>
 * **Maintain a digital equivalent method:** To the greatest extent practicable, agencies should not require a handwritten signature (i.e., wet signature) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with a comparable digital equivalent method for submitting information or transacting with an agency. To the greatest extent practicable, agencies should ensure that any public-facing form or service can be provided and completed by the user over different channels, preferably over at least one traditional service channel (e.g., in person) and one digital service channel (e.g., web application) and ideally in the channel that is most convenient to the user.
 * **Use identity verification when greater assurance of identity is needed:** Agencies should use appropriate identity verification processes for online transactions, commensurate with the agency’s risk assessment, when there is a need for assurance of the identity of the user or the authenticity and integrity of the transaction. Signatures alone do not provide identity assurance and should not be used by themselves for identity verification, identity proofing, or non-repudiation purposes when identity assurance is required.
-
--﻿--
-
-{{< footnote >}}
-<sup>70<s/up> Since a digital form is a web application itself, then all the aforementioned website requirements would apply in addition to the specific form requirements listed in this section. <br />
-<sup>71</sup> <em>Government Paperwork Elimination Act</em> (GPEA), Pub. L. No. 105-277, § 1710(1). <br />
-<sup>72</sup> <em>Id</em>. <br />
-<sup>73</sup> Those procedures are set out in OMB Memorandum M-00-10, <em>OMB Procedures and Guidance on Implementing the Government Paperwork Elimination Act (Apr. 25, 2000)</em>. <br />
-<sup>74</sup> <em>Id</em>. § 1707.
-{{< /footnote >}}
 
 {{< /card-policy >}}
