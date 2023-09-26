@@ -37,7 +37,7 @@ QR codes (or Quick Response codes) are two-dimensional codes that you can scan w
 
 QR codes are a tool used to connect web resources with physical places or processes, but they may not be right in every context. Before using this tool, ask yourself: why do I need a QR code?
 
-It's important to know that there can be security issues with QR codes. Cybercriminals can tamper with QR codes, replacing them altogether with QR code stickers or interferring with the link that's embedded in the code. The [FBI published guidance in 2022](https://www.ic3.gov/Media/Y2022/PSA220118) that details steps you can take to keep yourself safe. If possible, it may be wise to consider using alternatives listed later in this article.  
+It's important to know that there can be security issues with QR codes. Cybercriminals can tamper with QR codes, replacing them altogether with QR code stickers or interfering with the link that's embedded in the code. The [FBI published guidance in 2022](https://www.ic3.gov/Media/Y2022/PSA220118) that details steps you can take to keep yourself safe. If possible, it may be wise to consider using alternatives listed later in this article.  
 
 If you have assessed your situation and choose to use a QR code to bridge the online and offline worlds, here are a few examples of them used in ideal ways:
 
