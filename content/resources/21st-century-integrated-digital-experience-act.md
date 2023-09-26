@@ -171,9 +171,7 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 7. Customized and dynamic user experiences
 8. Mobile-first design that scales across varying device sizes
 
-
-
-{{< accordion icon="content_copy" kicker="M-23-22, Delivering a Digital-First Public Experience" title="Section III.A: Requirements for Websites and Digital Services" src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="**M-23-22**, Delivering a Digital-First Public Experience" title="Section III.A: Requirements for Websites and Digital Services" src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
 **III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
@@ -368,7 +366,7 @@ In the footer of each agency’s website, or the entry point for a digital servi
 
 Agencies should consult USWDS and Digital.gov for more specific recommendations on how to best display required links and other relevant information on websites and digital services.<sup>69</sup>
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full legislation <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"><use xlink:href="https://digital.gov/themes/digital.gov/static/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full legislation <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"><use xlink:href="uswds/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
