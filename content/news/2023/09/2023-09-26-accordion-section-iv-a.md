@@ -7,8 +7,12 @@ summary: summary
 # 1 -- visible
 weight: 1
 slug: accordion-section-iv-a
+
 ---
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section IV.A: Immediate Agency Actions" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
+
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Law" title="**M-23-22**: Delivering a Digital-First Public Experience, Section IV.A: Immediate Agency Actions" >}}*Note: Open the .pdf document to review the footnotes for this section.*
+
+**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
 **A. Immediate Agency Actions**
 
@@ -20,13 +24,5 @@ slug: accordion-section-iv-a
    180 days, agencies shall identify the most common questions received across all channels (e.g., online search, social media, message boards, chat, email, phone, in person); review available web metrics to identify top pages for common searches; and conduct a highlevel review of potentially duplicative or substantively similar content across websites within the agency or across agencies. Agencies shall provide to OMB a list, in aggregate across channels, of the 25 to 50 most commonly asked questions and a list of no less than 10 opportunities to retire, consolidate, or explain duplicative web content; redesign or rewrite underperforming web content; or further optimize web content to improve search engine results.
 5. **Assess top tasks for self-service optimization:** Within 180 days, agencies that provide services to the public shall review the highest volume public-facing services and identify the tasks required to access each service as well as the channels available to complete each task (e.g., online, phone, mail, in person). Agencies shall provide to OMB a list of opportunities for no less than 5 top tasks that can be newly designed or further optimized as self-service digital options.
 6. **Inventory public-facing services:** Within 180 days of the release of the Federal Services Index, each agency shall develop and submit a preliminary inventory to the Federal Services Index <sup>86</sup> of all public-facing services. For each service that cannot be made available in a digital format, the agency must provide the information specified by section 4(d) of the 21st Century IDEA. <sup>87</sup> Within one year of the release of the Federal Services Index, agencies shall finalize the inventory and make it publicly available online.
-
-{{< footnote >}}
-<sup>83<s/up> See Digital.gov for additional information on role responsibilities and reporting instructions. <br />
-<sup>84</sup> See Site Scanner, https://digital.gov/guides/site-scanning/. <br />
-<sup>85</sup> See Digital.gov for additional information on reporting instructions. <br />
-<sup>86</sup> See Digital.gov for additional information about reporting instructions. <br />
-<sup>87</sup> Pub. L. No. 115-336, § 4.
-{{< /footnote >}}
 
 {{< /card-policy >}}
