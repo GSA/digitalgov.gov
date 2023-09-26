@@ -207,6 +207,7 @@ Agencies should consult USWDS and Digital.gov for more specific recommendations 
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
+
 <ol style="list-style: none"><li id="fn5"><sup>5</sup> 29 U.S.C. § 794d; see 36 C.F.R. part 1194. The scope of Section 508 differs from the scope of this memorandum. For example, Section 508 applies broadly to “electronic and information technology,” not just websites and digital services. See 29 U.S.C. § 794d(a)(1)(A). Agencies are responsible for determining the extent of their responsibilities under Section 508 and the associated accessibility standards.<a href="#footnotes-ref5" aria-label="Back to content">↩</a></li>
 <li id="fn6"><sup>6</sup> <em>See</em> World Wide Web Consortium (W3C) Accessibility Standards (https://www.w3.org/WAI/standardsguidelines/). As of the publication of this memo, the most current version of the Web Content Accessibility Guidelines (WCAG) would be 2.1, with Web Content Accessibility Guidelines (WCAG) 2.2 pending release.<a href="#footnotes-ref6" aria-label="Back to content">↩</a></li>
 <li id="fn7"><sup>7</sup> <em>See</em> OMB’s “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” (Jan. 24, 2013).<a href="#footnotes-ref7" aria-label="Back to content">↩</a></li>
@@ -271,7 +272,9 @@ Agencies should consult USWDS and Digital.gov for more specific recommendations 
 <li id="fn66"><sup>66</sup> <em>See</em> 5 U.S.C. § 552(g).<a href="#footnotes-ref66" aria-label="Back to content">↩</a></li>
 <li id="fn67"><sup>67</sup> <em>See</em> OMB’s “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” (Jan. 24, 2013).<a href="#footnotes-ref67" aria-label="Back to content">↩</a></li>
 <li id="fn68"><sup>68</sup> Pub. L. No. 107-174, § 301; 29 C.F.R. § 1614.704.<a href="#footnotes-ref68" aria-label="Back to content">↩</a></li>
-<li id="fn69"><sup>69</sup> <em>See</em> Digital.gov: Required Web Content and Links, https://digital.gov/resources/required-web-content-andlinks/?=checklist.<a href="#footnotes-ref69" aria-label="Back to content">↩</a></li></ol>
+<li id="fn69"><sup>69</sup> <em>See</em> Digital.gov: Required Web Content and Links, https://digital.gov/resources/required-web-content-andlinks/?=checklist.<a href="#footnotes-ref69" aria-label="Back to content">↩</a></li>
+</ol>
+
 </footer>
 
 {{< /card-policy >}}
