@@ -171,7 +171,7 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 7. Customized and dynamic user experiences
 8. Mobile-first design that scales across varying device sizes
 
-{{< accordion icon="content_copy" kicker="**M-23-22**, Delivering a Digital-First Public Experience" title="Section III.A: Requirements for Websites and Digital Services" src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="M-23-22" title="Delivering a Digital-First Public Experience, Section III.A: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
 **III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
