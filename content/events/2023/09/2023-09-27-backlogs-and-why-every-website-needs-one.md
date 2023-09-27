@@ -40,3 +40,15 @@ This event is best suited for: web managers, product managers, program managers,
 ## Moderator
 
 * **Web Managers** **Community co-lead, Beth A. Martin** - Digital Services Expert (UX Designer), Office of Personnel Management (OPM)
+
+## You may also be interested in:
+
+* [Agile fundamentals](https://agile.18f.gov/agile-fundamentals/)
+* [Foundations of Agile, Part I](https://digital.gov/event/2019/11/04/foundations-agile-i/)
+* [Foundations of Agile, Part II](https://digital.gov/event/2019/11/05/foundations-agile-ii/)
+* [Search.gov roadmap](https://search.gov/about/updates/roadmap/)
+* [U.S. Web Design System roadmap: August 2023 monthly call](https://digital.gov/event/2023/08/17/uswds-monthly-call-august-2023/)
+
+- - -
+
+*The Web Managers Community of Practice is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).*
