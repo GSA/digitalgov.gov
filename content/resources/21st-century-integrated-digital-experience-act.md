@@ -178,7 +178,7 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 
 Federal websites and digital services serve agencies’ missions and help users find the information and support they need. Agencies should ensure their websites, including web applications, digital services, and mobile applications, conform to the requirements and principles described below to design and deliver a high-quality, integrated digital experience that is simple, seamless, and secure across agencies for all users.
 
-   1. {{< highlight >}}**Accessible to People of Diverse Abilities**{{< /highlight >}}
+1. {{< highlight >}}**Accessible to People of Diverse Abilities**{{< /highlight >}}
 
 The Federal Government serves people of all abilities. In designing their websites and digital services, agencies must strive from the start to maximize access and usability so the widest possible range of people may reach and interact with the government through its websites and digital services.
 
@@ -188,7 +188,7 @@ The Federal Government serves people of all abilities. In designing their websit
   - **Conduct inclusive research:** Agencies should incorporate the needs of individuals with disabilities into the design and development of websites and digital services, and should include individuals with disabilities in usability testing of new tools or features. Considering the needs of individuals with disabilities early and often through user research demonstrates a commitment to accessibility that goes beyond baseline compliance.
   - **Promote accessibility and welcome feedback:** Agencies should develop and publish an accessibility statement that provides a public feedback mechanism to contact the agency in case a user encounters problems and wishes to seek assistance or report an accessibility issue.<sup>7</sup>
 
-   2. {{< highlight >}}**Consistent Visual Design and Agency Brand Identity**{{< /highlight >}}
+2. {{< highlight >}}**Consistent Visual Design and Agency Brand Identity**{{< /highlight >}}
 
 Members of the public depend on the Federal Government for authoritative and trustworthy information and services that they cannot get from any other entity. It is critical that the public knows when they are accessing information from the Federal Government, utilizing a Federal Government service, or communicating with someone who represents the Federal Government.
 
@@ -203,20 +203,20 @@ Trust in Federal Government information and services depends on the public’s a
   - **Reduce user friction by limiting warnings:** Agencies should simplify the user experience to reduce friction for users. In general, agencies should avoid the use of unnecessary pop-ups, modals, overlays, interstitials, and other messages that interrupt the user experience and impede the user from completing a task, unless it is a necessary part of the design of the user experience (e.g., a warning before permanently deleting an item) or is otherwise required by law. When determining whether or not to use a warning, agencies should consider the urgency of the information and whether a user action is required as a result of the message.
   - **Do not alarm or frighten your users in ways that erode trust:** Agencies should consider how legal, security, and error messages are presented and conveyed to users. Agencies should avoid using a tone in their notices to users (such as about access, authorized use, or monitoring) that may have the unintended consequences of eroding trust and impacting the ability of users to successfully transact or engage with government.<sup>14</sup> Instead, agencies should provide notice in a way that communicates the information clearly and with a tone that still welcomes appropriate engagement with the website or digital service. To the extent appropriate, agencies should convey necessary legal and other required information (such as about acceptable use and access conditions, government responsibilities to the user, or other responsibilities associated with using the website or digital service) in a centralized manner.<sup>15</sup>
 
-   3. {{< highlight >}}**Content That Is Authoritative and Easy to Understand**{{< /highlight >}}
+3. {{< highlight >}}**Content That Is Authoritative and Easy to Understand**{{< /highlight >}}
 
 The Federal Government produces a large amount of official and authoritative information not available from other entities. This content serves many purposes and audiences, helping the public obtain services from agencies or answers to their questions. Agencies are responsible for the content they disseminate and should take affirmative steps to maximize its quality, objectivity, utility, and integrity.<sup>16</sup> Poor information quality reduces public trust, introduces confusion that could negatively impact individuals who seek government information and services, and hinders government operations.
 
 For agency websites and digital services, content can easily become outdated or abandoned over time without strong internal agency controls to ensure that information is timely and accurate. Duplicative websites and content can also be problematic because they may cause public confusion (about, for example, which answer is the right one) or obscure the most appropriate content (by, for example, making it unclear which agency is positioned to give an authoritative answer). Regular agency review (and interagency coordination and review, as appropriate) of content is necessary to ensure that outdated, inaccurate, or duplicative information does not negatively impact the public. Proper content strategy should provide consistent answers to commonly asked questions and other top-trafficked web content, and those answers should be accurate, targeted to the appropriate audience, and non-duplicative.
 
-**3 a. One Answer**
+   **3 a. One Answer**
 
   - **Remove outdated content:** Agencies should address outdated and inaccurate content as soon as practicable. At the same time, agencies should be cognizant of potentially relevant obligations and policies,<sup>17</sup> such as the need to provide adequate notice when initiating, substantially modifying, or terminating significant information that the public may be using (such as historical information); removal of information that is useful to the public can also negatively impact trust.<sup>18</sup> When removing content, where appropriate, agencies should create redirects (e.g., an HTTP 301) to direct the public and search engines to new or more accurate content.
   - **Do not publish duplicative content:** Agencies should avoid unnecessary duplication and repetition of content or similarly related content and should establish processes to review and deduplicate content across websites within their agency as well as across government for cross-agency information and services, whenever possible. Similar content on multiple websites may be appropriate when those websites serve different audiences or user needs.<sup>19</sup> However, duplication can create confusion when the information is not consistent, and can impose extra cost and effort to maintain.
   - **Retire duplicate websites and digital services:** Agencies should decommission or consolidate websites and digital services that duplicate content or functionality. Each website, digital service, and piece of content should serve the express purposes of the organization and identified wants and needs of users, and users should feel confident that they are being directed to appropriate content and tools when they seek to take advantage of an agency’s informational or transactional services.
   - **Get user feedback on content:** Agencies should provide a feedback mechanism for users to report satisfaction or dissatisfaction with each web page or piece of web content, which enables the public to identify potentially inaccurate, outdated, confusing, or duplicative content. Agencies are encouraged to continuously monitor, measure, and optimize content for performance so the public get the answers they need.
 
-**3 b. Plain Language**
+   **3 b. Plain Language**
 
 Federal agencies should publish content online so the public can find what they need, understand what they find, and use what they find to meet their needs. Ideally, content should be designed and written so it is conversational, structured, and scannable by users.
 
@@ -225,7 +225,7 @@ Federal agencies should publish content online so the public can find what they 
   - **Write content in conversational language:** Agencies should write online content with an active voice; use clear and concise sentences; avoid slang, jargon, and acronyms; and use logical organization and informational headings. Agencies should write conversationally, like regular people talk to each other.
   - **Avoid unnecessary “legalese”:** Unnecessary legal jargon may inhibit public comprehension. When publishing content for websites and digital services, agencies should consider possible ways to balance competing needs for readability and legal precision. For example, an agency might publish a highly technical webpage on a legal issue for an expert audience, but also publish a complementary page that addresses the same issue in more easily understandable terms for a general audience.
 
-**3 c. Translation and Localization**
+   **3 c. Translation and Localization**
 
 Many members of the public who interact with Federal agencies have limited-English proficiency (LEP) or use a language other than English. Agencies may in some circumstances be required by statute or Executive order to provide information and services in multiple languages. Even in the absence of such an obligation, agencies should ensure that websites and digital services are offered in languages that meet the needs of their customers.
 
@@ -233,7 +233,7 @@ Many members of the public who interact with Federal agencies have limited-Engli
   - **Translate or localize content:** Agencies must translate content when required by law and should translate or adapt content based on user needs to more effectively communicate with people served by the website or digital service.<sup>25</sup> If a significant portion of the target audience speaks a language other than English, translation or localization and developing multilingual content for a website or digital service should be a priority. Agencies should develop an internal strategy for developing and managing multilingual content in conjunction with the information architecture of their websites and digital services.
   - **Do not rely on auto-translation alone:** Agencies should utilize human-based multilingual content creation and test with native language speakers to verify accuracy and to understand cultural context instead of relying solely upon machine translation services (e.g., services where a computer algorithm translates text automatically into another language without human assistance or review).
 
-**3 d. Content Governance**
+   **3 d. Content Governance**
 
 The public should not be overly burdened with the responsibility to determine which online content published by the Federal Government is most current or most appropriate for their needs when published content differs or conflicts. While the members of the public are always free to draw their own conclusions, agencies should take steps to reduce the cognitive burden or potential uncertainty that users might experience while also ensuring the quality and accuracy of the information they publish online. Accomplishing this at an enterprise level means establishing internal controls and management practices for the publishing of high-quality, authoritative information the public can rely on.
 
@@ -243,14 +243,14 @@ The public should not be overly burdened with the responsibility to determine wh
   - **Involve subject matter experts:** Agency control processes should ensure that decisions regarding content, especially the removal or modification of existing content, are informed by persons knowledgeable of the content (such as subject matter experts)<sup>26</sup> and, to the extent practicable, the target audience of the content.
   - **Clearly label non-governmental content:** Agencies should establish processes to label or distinguish non-governmental content (e.g., third-party information or research, user-generated content) that is disseminated on an agency website or digital service, including links to third-party websites,<sup>27</sup> in a manner that minimizes the impact of such labeling on the usability of their websites and digital services.<sup>28</sup>
 
-**3 e. Public Awareness Campaigns**
+   **3 e. Public Awareness Campaigns**
 
 To better inform the public of government information and services, agencies may need to use websites and digital services to promote awareness of government services, benefits, and programs.
 
   - **Ensure campaigns are strategic and time-bound:** Consistent with applicable law, agencies may establish campaigns (e.g., informational, public awareness, public affairs) to communicate with the public about an issue, service, benefit, or opportunity. However, online campaigns should be time-bound, strategic, and measured for performance. Agencies should monitor timeliness and duration of public awareness and advertising campaigns to ensure that expired online content does not persist.
   - **Utilize campaign landing pages:** Agencies should avoid creating standalone websites (“micro sites”) for marketing, advertising, and public awareness campaigns that unnecessarily duplicate information or functionality found on the agency’s principal website. Instead, agencies should use the URL for the authoritative web page or tool on the agency’s principal website in their awareness campaigns (e.g., `[agency].gov/find-services`); use vanity URLs that automatically redirect users to an authoritative web page or tool (e.g., `get[agency]services.gov`); or design and publish a single campaign landing page (e.g., `[agency].gov/services`) that directs users to authoritative web pages or tools. These strategies help prevent an agency’s websites from competing with each other for visibility in third-party search results and reduce user confusion over which source is authoritative.
 
-   4. {{< highlight >}}**Information and Services That Are Discoverable and Optimized for Search**{{< /highlight >}}
+4. {{< highlight >}}**Information and Services That Are Discoverable and Optimized for Search**{{< /highlight >}}
 
 Search is a basic and universal part of using the internet, and search functionality is an expected feature for websites and digital services. Moreover, the public currently gets to Federal Government information and services online primarily through external search engines, which are critical to discoverability. Agencies’ websites must be structured well; contain rich, descriptive metadata; feature machine-readable content to the extent practicable; and follow search engine optimization (SEO) practices to ensure that members of the public can access government information and services from third-party websites and applications. In addition to SEO and public discoverability, a well-structured website also can be friendlier to assistive technology, archival software or services, and for other uses.
 
@@ -263,7 +263,7 @@ The Federal Government’s public web presence is an open book that may be crawl
   - **Indicate timeliness of content:** Agencies should indicate when content on static,<sup>30</sup> public-facing websites was created or last updated by including temporal information in line with content or by using “Last Modified” in the HTTP header, in metadata tags, or in XML sitemaps. Time-and-date stamps provide transparency to the user and help the public better understand the freshness of content. When developing a timestamp strategy, agencies should prioritize adding timestamps to content that is time-sensitive, frequently changed, or top-trafficked.
   - **Permit automated web scraping:** Generally, agencies shall permit web scraping and archival services to operate unimpeded without challenge-response restrictions (e.g., without presenting CAPTCHAs). Blocking or throttling of even potentially abusive crawlers is only appropriate in exceptional circumstances, such as an active denial-of-service attack, and, even then, is appropriate only on a temporary basis. If an agency detects significant public interest in scraping information from web pages, the agency should strongly consider making that information available as machine-readable data that can be accessed in bulk and optimized for automated access (such as through an API).
 
-  5.  {{< highlight >}}**Secure by Design, Secure by Default**{{< /highlight >}}
+5. {{< highlight >}}**Secure by Design, Secure by Default**{{< /highlight >}}
 
 Federal agencies must ensure that every phase of the design and development lifecycle for their websites and digital services accounts for application security and its impact on users. Accordingly, OMB Memorandum M-22-09, *Moving the U.S. Government Toward Zero Trust Cybersecurity Principles*, establishes requirements for agencies to meet specific cybersecurity standards as part of the Federal Government’s zero trust architecture strategy.
 
@@ -283,7 +283,7 @@ In addition to M-22-09, a variety of other authorities and this memorandum requi
   - **Allow users to safely report security issues:** As required by Binding Operational Directive (BOD) 20-01, issued by the Cybersecurity and Infrastructure Security Agency (CISA), each agency must have a vulnerability disclosure policy that applies to all its internet-accessible websites and digital services, even those that are not intentionally made available to the public. This policy must allow the public to report potential security vulnerabilities and provide that the agency will not pursue legal action based on activities that represent a good faith attempt to comply with the policy. While agencies may list their registered domains as a reference, they must not limit the scope of the policy to specific websites or use an allow list to restrict the range of users who may submit reports.<sup>36</sup>
   - **Avoid unnecessary third-party resources:** Agencies must not embed static, unchanging web assets, such as a specific version of a common and widely used code library (e.g., JavaScript, CSS, fonts) that are hosted on third-party services not under the control of the agency. Embedding static third-party assets is an outdated practice that no longer confers significant performance benefits, and it creates unnecessary security risks. This restriction only applies to static (unchanging) third-party assets<sup>37</sup> and does not bar the practice of embedding dynamic third-party resources that are necessary for digital service delivery (e.g., analytics services).
 
-   6. {{< highlight >}}**User-Centered and Data-Driven Design**{{< /highlight >}}
+6. {{< highlight >}}**User-Centered and Data-Driven Design**{{< /highlight >}}
 
 Federal websites and digital services should be designed and delivered with users at the center of the experience while also achieving an agency’s business or organizational goals. Every website and digital service should have a defined core customer, segmented group, or user. By identifying the core audience for each, and clarifying each audience’s specific needs through user research and design, agencies can best optimize the digital experience to help that audience meet their needs. Only after agencies have researched and validated the specific wants and needs of users should they create a new website or digital service. Agencies should have a continuous, user-centered design process for gathering and responding to user wants and needs, with both qualitative and quantitative research and data-driven analysis influencing design, technology, and related business decisions.
 
@@ -294,7 +294,7 @@ Federal websites and digital services should be designed and delivered with user
   - **Make data-driven design and development decisions:** Agencies should enhance the functionality of their websites and digital services through data-driven decision-making. This should include, but is not limited to, measuring task completion, using web analytics to understand user flows and behavior, assessing user satisfaction through feedback surveys, optimizing web pages and content for performance, and conducting research on user burden.
   - **Utilize web analytics:** Agencies should use web analytics to better understand user behavior for the purpose of improving public-facing websites and digital services. The use of web measurement technologies (such as cookies, tracking pixels, tags, and other tracking technologies) is subject to limitations.<sup>42</sup> Agencies are required to participate in GSA’s government-wide Digital Analytics Program (DAP).<sup>43</sup> Participation in DAP does not preclude agencies from using other web analytics services.
 
-   7. {{< highlight >}}**Customized and Dynamic User Experiences**{{< /highlight >}}
+7. {{< highlight >}}**Customized and Dynamic User Experiences**{{< /highlight >}}
 
 The public increasingly expects digital experiences to be customizable, which makes for a dynamic experience and reduces burden when completing tasks. Customization<sup>44</sup> is controlled by users, who can make changes manually to a digital service or experience to meet their needs. Customization relies on user choice. Customization is different from personalization, which relies on data about the user and is not controlled by the user.
 
@@ -303,7 +303,7 @@ The public increasingly expects digital experiences to be customizable, which ma
   - **Pre-populate with user data:** Agencies should leverage data previously provided by users, where appropriate, to reduce the burden of future interactions. For example, when providing an authenticated experience, agencies should consider using existing information about the person to populate or pre-fill known form data about the person, as appropriate. Pre-population can help improve the user experience and save time. Agencies should consider privacy risks when assessing whether to pre-populate user data, particularly if users provided that data for a different purpose, and ensure that its deployment incorporates appropriate privacy safeguards.
   - **Communicate to users through their preferred channels:** Where appropriate, agencies are encouraged to develop multi-channel messaging (such as sending email and text/SMS notifications in addition to physical letters) to communicate timely, important, and personalized information to customers or users in the channel(s) they prefer. Agencies should also allow users to adjust online settings to establish their preferred channels and frequency for receiving notifications and communications.
 
-   8. {{< highlight >}}**Mobile-First Design That Scales Across Varying Device Sizes**{{< /highlight >}}
+8. {{< highlight >}}**Mobile-First Design That Scales Across Varying Device Sizes**{{< /highlight >}}
 
 Federal websites and digital services targeted at the public should be available, accessible, and usable on a wide range of devices and platforms. A majority of the public accesses Federal information and services online, increasingly from mobile devices.<sup>46</sup>
 
@@ -315,9 +315,9 @@ Federal websites and digital services targeted at the public should be available
   - **Use modern protocols:** Agencies must employ the latest stable versions of HTTP (i.e., HTTP/2, HTTP/3, and any successor versions), HTML, and other relevant standards. In recent years, the web platform and its associated technical protocols have prioritized making the mobile web more responsive and resilient to network disruption. Agencies must keep pace with these developments and optimize for real-world situations (such as intermittent connectivity or throttled bandwidth).
   - **Avoid building or maintaining unnecessary mobile apps:** An agency should avoid building native mobile applications<sup>50</sup> unless it has validated a compelling user need through research, and has balanced the need against additional long-term cost implications. Agencies should evaluate their existing mobile apps and retire those that are not continuing to provide significant user or business value. Instead, agencies should prioritize the design, development, and management of web applications that can be used on mobile devices.
 
-   9. {{< highlight >}}**Other Digital Experience Requirements**{{< /highlight >}}
+9. {{< highlight >}}**Other Digital Experience Requirements**{{< /highlight >}}
 
-**9 a. Privacy**
+   **9 a. Privacy**
 
 The Federal Government must consider and protect an individual’s privacy throughout the information lifecycle.<sup>51</sup> Integrating privacy into agency websites and digital services takes two primary forms: (1) addressing privacy risks related to these products, and (2) providing clear and accessible notice through these products about how an agency creates, collects, uses, processes, stores, maintains, disseminates, discloses, and disposes of personally identifiable information (PII).<sup>52</sup> Clear communication and transparency with the public are critical to both activities—whether internal to the agency, when agency officials communicate early and often about privacy considerations, or external to the agency, when its websites inform the public about how it handles PII.
 
@@ -338,7 +338,7 @@ The Federal Government must consider and protect an individual’s privacy throu
      - *Contact information for submitting a privacy question or complaint*. Agencies must provide appropriate agency contact information for individuals who wish to submit a privacy-related question or complaint.
      - *Contact information for the SAOP*. Agencies must identify their SAOP and provide contact information for the SAOP’s office. Agencies may also identify and provide contact information for any component-level privacy officials.
 
-**9 b. Software Development Principles**
+   **9 b. Software Development Principles**
 
 Complex systems can make websites and digital services costly and difficult to manage and maintain over time. Building around principles of agility, reliability, scalability, maintainability, interoperability, and simplicity can reduce these burdens.
 
@@ -350,7 +350,7 @@ Complex systems can make websites and digital services costly and difficult to m
   - **Default to HTML:** HyperText Markup Language (HTML) is the standard for publishing documents designed to be displayed in a web browser. HTML provides numerous advantages (e.g., easier to make accessible, friendlier to assistive technology, more dynamic and responsive, easier to maintain). When developing information for the web, agencies should default to creating and publishing content in an HTML format in lieu of publishing content in other electronic document formats that are designed for printing or preserving and protecting the content and layout of the document (e.g., PDF and DOCX formats). An agency should develop online content in a non-HTML format only if necessitated by a specific user need.
   - **Promote resources to developers:** Agencies should maintain a developer page (e.g., `[agency].gov/developer` or `developer.[agency].gov`) to centralize information about relevant technical materials for external developers. This should include information on how to access and use public web APIs, public source code or code repositories, and any other appropriate developer tools or technical documentation that could help developers build integrated digital experiences.
 
-**9 c. Required Links**
+   **9 c. Required Links**
 
 Agencies may need to convey information about legal compliance, points of contact, or other topics of interest to the public on their websites.<sup>63</sup> In the footer of each agency’s principal website or principal sub-agency websites,<sup>64</sup> the agency must include links to:
 
