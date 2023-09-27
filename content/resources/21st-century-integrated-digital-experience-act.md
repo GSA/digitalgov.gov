@@ -28,6 +28,7 @@ weight: 10
 
 # primary Image (for social media)
 primary_image: "office-team-ideas-scyther5"
+
 # Make it better ♥
 
 ---
@@ -169,8 +170,7 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 7. Customized and dynamic user experiences
 8. Mobile-first design that scales across varying device sizes
 
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
 **III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
@@ -365,7 +365,9 @@ In the footer of each agency’s website, or the entry point for a digital servi
 
 Agencies should consult USWDS and Digital.gov for more specific recommendations on how to best display required links and other relevant information on websites and digital services.<sup>69</sup>
 
-{{< /card-policy >}}
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full memorandum<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+
+{{< /accordion >}}
 
 ## What does it mean to digitize forms and services?
 
@@ -376,7 +378,7 @@ OMB’s policy guidance (M-23-22) requires to the greatest extent practicable th
 - Not require a handwritten signature (“wet signature”) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with an equivalent digital method
 
 
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
 **III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
@@ -416,7 +418,9 @@ The use of signatures may not be appropriate for every scenario involving a publ
 * **Maintain a digital equivalent method:** To the greatest extent practicable, agencies should not require a handwritten signature (i.e., wet signature) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with a comparable digital equivalent method for submitting information or transacting with an agency. To the greatest extent practicable, agencies should ensure that any public-facing form or service can be provided and completed by the user over different channels, preferably over at least one traditional service channel (e.g., in person) and one digital service channel (e.g., web application) and ideally in the channel that is most convenient to the user.
 * **Use identity verification when greater assurance of identity is needed:** Agencies should use appropriate identity verification processes for online transactions, commensurate with the agency’s risk assessment, when there is a need for assurance of the identity of the user or the authenticity and integrity of the transaction. Signatures alone do not provide identity assurance and should not be used by themselves for identity verification, identity proofing, or non-repudiation purposes when identity assurance is required.
 
-{{< /card-policy >}}
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full memorandum<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+
+{{< /accordion >}}
 
 ## What are the implementation timelines?
 
@@ -429,7 +433,7 @@ OMB’s policy guidance (M-23-22) further clarifies requirements and sets specif
 - **For existing websites, digital services, and forms:** Agencies are expected to prioritize remediation and/or digitization based on the criteria outlined in Section IV of the guidance
 
 
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV, Criteria**: Ensuring Agencies Deliver Integrated Digital Experiences" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV, Criteria**: Ensuring Agencies Deliver Integrated Digital Experiences" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
 OMB recommends that agencies prioritize remediation of websites and digital services based on the following criteria:
 
@@ -443,10 +447,11 @@ OMB recommends that agencies prioritize developing digital options for existing 
 2. Forms directly supporting the delivery of a service or benefit to the public that, if provided digitally, would address user needs, reduce public burden, or improve public impact, as determined based on user research or business analysis.
 3. Assistance provided through customer call center support that could be designed as self-service digital tasks for customers to reach resolution on their own.
 
-{{< /card-policy >}}
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full memorandum<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+
+{{< /accordion >}}
 
 ## What are the agency reporting requirements?
-
 
 21st Century IDEA requires agencies to send an annual report to OMB on the progress of implementing the requirements of the law. This reporting requirement concludes after 2023 and will be replaced by the below actions.
 
@@ -482,12 +487,8 @@ Within `180 days` of issuance; additional details and instructions are forthcomi
 
 Within `180 days` of the launch of the Federal Services Index; additional details and instructions are forthcoming.
 
-### Action 7. Update internal controls and policies
 
-Within `365 days` of issuance; additional details and instructions are forthcoming.
-
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
 **IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
@@ -500,26 +501,9 @@ Within `365 days` of issuance; additional details and instructions are forthcomi
 5. **Assess top tasks for self-service optimization:** {{< highlight >}}Within 180 days{{< /highlight >}}, agencies that provide services to the public shall review the highest volume public-facing services and identify the tasks required to access each service as well as the channels available to complete each task (e.g., online, phone, mail, in person). Agencies shall provide to OMB a list of opportunities for no less than 5 top tasks that can be newly designed or further optimized as self-service digital options.
 6. **Inventory public-facing services:** {{< highlight >}}Within 180 days{{< /highlight >}} of the release of the Federal Services Index, each agency shall develop and submit a preliminary inventory to the Federal Services Index <sup>86</sup> of all public-facing services. For each service that cannot be made available in a digital format, the agency must provide the information specified by section 4(d) of the 21st Century IDEA. <sup>87</sup> Within one year of the release of the Federal Services Index, agencies shall finalize the inventory and make it publicly available online.
 
-{{< /card-policy >}}
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full memorandum<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
 
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.C**: Ongoing Agency Assessment and Reporting Requirements" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
-
-**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
-
-**C. Ongoing Agency Assessment and Reporting Requirements**
-
-1. **Keep public-facing website information up-to-date:** Agencies should regularly review and identify their public-facing websites.
-
-2. **Keep service information up-to-date:** Agencies should periodically review service information in the Federal Services Index and update this information as needed.
-
-3. **Keep form information up-to-date:** When seeking to obtain approval to collect information or extend or revise an existing collection, agencies must continue to document in their Information Collection Request submission materials to OMB’s Office of Information and Regulatory Affairs (OIRA) how forms and associated websites and services are consistent with digitization requirements. <sup>89</sup>
-
-4. {{< highlight >}}**Update internal controls and policies:**{{< /highlight >}} Agency Chief Information Officers (or designees) should periodically review policies and internal control processes in coordination with other appropriate agency officials and update them as necessary to ensure that websites and digital services meet applicable legal and policy requirements, including those established or reiterated by this memorandum.
-
-5. **Perform evidence-based accountability reviews:** The Chief Information Officer at any agency listed in 31 U.S.C. § 901(b)(1) or (b)(2) should regularly review and evaluate IT investments to identify struggling or underperforming IT projects (i.e., public-facing websites and digital services that are in significant misalignment with the requirements and recommendations of this memorandum). Agencies should use evidence-based accountability review processes, such as TechStat sessions, <sup>90</sup> to identify performance issues, conduct a root-cause analysis of those issues, identify challenges or barriers (including any resource and budget constraints), develop corrective action plans that may potentially address these causes, and develop a timeline for implementing corrective actions.
-
-{{< /card-policy >}}
+{{< /accordion >}}
 
 ## Resources
 
@@ -544,7 +528,7 @@ Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@om
 <br>
 
 <footer>
-<h3 id="footnote-label">Footnotes</h3>
+<h3 id="footnote-label">Citations</h3>
 <ol>
 <li id="fn1">Review of <i>Digital Government Experience, the Digital Citizen</i>. 2023. Deloitte Insights. Deloitte. 2023.<br>
 <a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html">
