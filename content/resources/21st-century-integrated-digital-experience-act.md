@@ -170,7 +170,7 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 7. Customized and dynamic user experiences
 8. Mobile-first design that scales across varying device sizes
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
 
 **Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
@@ -378,7 +378,11 @@ OMB’s policy guidance (M-23-22) requires to the greatest extent practicable th
 - Not require a handwritten signature (“wet signature”) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with an equivalent digital method
 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
+
+**Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
+
+**B. Digitization of Forms and Services**
 
 Reliance on paper-based processes, forms, and services precludes a digital experience, which is what the majority of the public now expects. Forms, services, and associated processes should be designed and modernized with digital service delivery in mind for the public and agencies to fully reap the transformational benefits and promises of a digital government, including increased convenience of online transactions, greater cost savings, and higher levels of public satisfaction with and trust in government.
 
@@ -429,7 +433,9 @@ OMB’s policy guidance (M-23-22) further clarifies requirements and sets specif
 - **For existing websites, digital services, and forms:** Agencies are expected to prioritize remediation and/or digitization based on the criteria outlined in Section IV of the guidance
 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV, Criteria**: Ensuring Agencies Deliver Integrated Digital Experiences" >}}**IV. Ensuring Agencies Deliver Integrated Digital Experiences**
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV, Criteria**: Ensuring Agencies Deliver Integrated Digital Experiences" >}}*Note: Use the link at the end of this section to open the full .pdf file.*
+
+**Section IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
 OMB recommends that agencies prioritize remediation of websites and digital services based on the following criteria:
 
@@ -484,7 +490,7 @@ Within `180 days` of issuance; additional details and instructions are forthcomi
 Within `180 days` of the launch of the Federal Services Index; additional details and instructions are forthcoming.
 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
 
 **IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
