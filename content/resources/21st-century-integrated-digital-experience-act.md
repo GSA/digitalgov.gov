@@ -172,13 +172,13 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 
 {{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
-**III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
+**Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
 **A. Requirements for Websites and Digital Services**
 
 Federal websites and digital services serve agencies’ missions and help users find the information and support they need. Agencies should ensure their websites, including web applications, digital services, and mobile applications, conform to the requirements and principles described below to design and deliver a high-quality, integrated digital experience that is simple, seamless, and secure across agencies for all users.
 
-1. {{< highlight >}}**Accessible to People of Diverse Abilities**{{< /highlight >}}
+{{< highlight >}}**1. Accessible to People of Diverse Abilities**{{< /highlight >}}
 
 The Federal Government serves people of all abilities. In designing their websites and digital services, agencies must strive from the start to maximize access and usability so the widest possible range of people may reach and interact with the government through its websites and digital services.
 
@@ -188,7 +188,7 @@ The Federal Government serves people of all abilities. In designing their websit
   - **Conduct inclusive research:** Agencies should incorporate the needs of individuals with disabilities into the design and development of websites and digital services, and should include individuals with disabilities in usability testing of new tools or features. Considering the needs of individuals with disabilities early and often through user research demonstrates a commitment to accessibility that goes beyond baseline compliance.
   - **Promote accessibility and welcome feedback:** Agencies should develop and publish an accessibility statement that provides a public feedback mechanism to contact the agency in case a user encounters problems and wishes to seek assistance or report an accessibility issue.<sup>7</sup>
 
-2. {{< highlight >}}**Consistent Visual Design and Agency Brand Identity**{{< /highlight >}}
+{{< highlight >}}**2. Consistent Visual Design and Agency Brand Identity**{{< /highlight >}}
 
 Members of the public depend on the Federal Government for authoritative and trustworthy information and services that they cannot get from any other entity. It is critical that the public knows when they are accessing information from the Federal Government, utilizing a Federal Government service, or communicating with someone who represents the Federal Government.
 
@@ -203,7 +203,7 @@ Trust in Federal Government information and services depends on the public’s a
   - **Reduce user friction by limiting warnings:** Agencies should simplify the user experience to reduce friction for users. In general, agencies should avoid the use of unnecessary pop-ups, modals, overlays, interstitials, and other messages that interrupt the user experience and impede the user from completing a task, unless it is a necessary part of the design of the user experience (e.g., a warning before permanently deleting an item) or is otherwise required by law. When determining whether or not to use a warning, agencies should consider the urgency of the information and whether a user action is required as a result of the message.
   - **Do not alarm or frighten your users in ways that erode trust:** Agencies should consider how legal, security, and error messages are presented and conveyed to users. Agencies should avoid using a tone in their notices to users (such as about access, authorized use, or monitoring) that may have the unintended consequences of eroding trust and impacting the ability of users to successfully transact or engage with government.<sup>14</sup> Instead, agencies should provide notice in a way that communicates the information clearly and with a tone that still welcomes appropriate engagement with the website or digital service. To the extent appropriate, agencies should convey necessary legal and other required information (such as about acceptable use and access conditions, government responsibilities to the user, or other responsibilities associated with using the website or digital service) in a centralized manner.<sup>15</sup>
 
-3. {{< highlight >}}**Content That Is Authoritative and Easy to Understand**{{< /highlight >}}
+{{< highlight >}}**3. Content That Is Authoritative and Easy to Understand**{{< /highlight >}}
 
 The Federal Government produces a large amount of official and authoritative information not available from other entities. This content serves many purposes and audiences, helping the public obtain services from agencies or answers to their questions. Agencies are responsible for the content they disseminate and should take affirmative steps to maximize its quality, objectivity, utility, and integrity.<sup>16</sup> Poor information quality reduces public trust, introduces confusion that could negatively impact individuals who seek government information and services, and hinders government operations.
 
@@ -250,7 +250,7 @@ To better inform the public of government information and services, agencies may
   - **Ensure campaigns are strategic and time-bound:** Consistent with applicable law, agencies may establish campaigns (e.g., informational, public awareness, public affairs) to communicate with the public about an issue, service, benefit, or opportunity. However, online campaigns should be time-bound, strategic, and measured for performance. Agencies should monitor timeliness and duration of public awareness and advertising campaigns to ensure that expired online content does not persist.
   - **Utilize campaign landing pages:** Agencies should avoid creating standalone websites (“micro sites”) for marketing, advertising, and public awareness campaigns that unnecessarily duplicate information or functionality found on the agency’s principal website. Instead, agencies should use the URL for the authoritative web page or tool on the agency’s principal website in their awareness campaigns (e.g., `[agency].gov/find-services`); use vanity URLs that automatically redirect users to an authoritative web page or tool (e.g., `get[agency]services.gov`); or design and publish a single campaign landing page (e.g., `[agency].gov/services`) that directs users to authoritative web pages or tools. These strategies help prevent an agency’s websites from competing with each other for visibility in third-party search results and reduce user confusion over which source is authoritative.
 
-4. {{< highlight >}}**Information and Services That Are Discoverable and Optimized for Search**{{< /highlight >}}
+{{< highlight >}}**4. Information and Services That Are Discoverable and Optimized for Search**{{< /highlight >}}
 
 Search is a basic and universal part of using the internet, and search functionality is an expected feature for websites and digital services. Moreover, the public currently gets to Federal Government information and services online primarily through external search engines, which are critical to discoverability. Agencies’ websites must be structured well; contain rich, descriptive metadata; feature machine-readable content to the extent practicable; and follow search engine optimization (SEO) practices to ensure that members of the public can access government information and services from third-party websites and applications. In addition to SEO and public discoverability, a well-structured website also can be friendlier to assistive technology, archival software or services, and for other uses.
 
@@ -263,7 +263,7 @@ The Federal Government’s public web presence is an open book that may be crawl
   - **Indicate timeliness of content:** Agencies should indicate when content on static,<sup>30</sup> public-facing websites was created or last updated by including temporal information in line with content or by using “Last Modified” in the HTTP header, in metadata tags, or in XML sitemaps. Time-and-date stamps provide transparency to the user and help the public better understand the freshness of content. When developing a timestamp strategy, agencies should prioritize adding timestamps to content that is time-sensitive, frequently changed, or top-trafficked.
   - **Permit automated web scraping:** Generally, agencies shall permit web scraping and archival services to operate unimpeded without challenge-response restrictions (e.g., without presenting CAPTCHAs). Blocking or throttling of even potentially abusive crawlers is only appropriate in exceptional circumstances, such as an active denial-of-service attack, and, even then, is appropriate only on a temporary basis. If an agency detects significant public interest in scraping information from web pages, the agency should strongly consider making that information available as machine-readable data that can be accessed in bulk and optimized for automated access (such as through an API).
 
-5. {{< highlight >}}**Secure by Design, Secure by Default**{{< /highlight >}}
+{{< highlight >}}**5. Secure by Design, Secure by Default**{{< /highlight >}}
 
 Federal agencies must ensure that every phase of the design and development lifecycle for their websites and digital services accounts for application security and its impact on users. Accordingly, OMB Memorandum M-22-09, *Moving the U.S. Government Toward Zero Trust Cybersecurity Principles*, establishes requirements for agencies to meet specific cybersecurity standards as part of the Federal Government’s zero trust architecture strategy.
 
@@ -283,7 +283,7 @@ In addition to M-22-09, a variety of other authorities and this memorandum requi
   - **Allow users to safely report security issues:** As required by Binding Operational Directive (BOD) 20-01, issued by the Cybersecurity and Infrastructure Security Agency (CISA), each agency must have a vulnerability disclosure policy that applies to all its internet-accessible websites and digital services, even those that are not intentionally made available to the public. This policy must allow the public to report potential security vulnerabilities and provide that the agency will not pursue legal action based on activities that represent a good faith attempt to comply with the policy. While agencies may list their registered domains as a reference, they must not limit the scope of the policy to specific websites or use an allow list to restrict the range of users who may submit reports.<sup>36</sup>
   - **Avoid unnecessary third-party resources:** Agencies must not embed static, unchanging web assets, such as a specific version of a common and widely used code library (e.g., JavaScript, CSS, fonts) that are hosted on third-party services not under the control of the agency. Embedding static third-party assets is an outdated practice that no longer confers significant performance benefits, and it creates unnecessary security risks. This restriction only applies to static (unchanging) third-party assets<sup>37</sup> and does not bar the practice of embedding dynamic third-party resources that are necessary for digital service delivery (e.g., analytics services).
 
-6. {{< highlight >}}**User-Centered and Data-Driven Design**{{< /highlight >}}
+{{< highlight >}}**6. User-Centered and Data-Driven Design**{{< /highlight >}}
 
 Federal websites and digital services should be designed and delivered with users at the center of the experience while also achieving an agency’s business or organizational goals. Every website and digital service should have a defined core customer, segmented group, or user. By identifying the core audience for each, and clarifying each audience’s specific needs through user research and design, agencies can best optimize the digital experience to help that audience meet their needs. Only after agencies have researched and validated the specific wants and needs of users should they create a new website or digital service. Agencies should have a continuous, user-centered design process for gathering and responding to user wants and needs, with both qualitative and quantitative research and data-driven analysis influencing design, technology, and related business decisions.
 
@@ -294,7 +294,7 @@ Federal websites and digital services should be designed and delivered with user
   - **Make data-driven design and development decisions:** Agencies should enhance the functionality of their websites and digital services through data-driven decision-making. This should include, but is not limited to, measuring task completion, using web analytics to understand user flows and behavior, assessing user satisfaction through feedback surveys, optimizing web pages and content for performance, and conducting research on user burden.
   - **Utilize web analytics:** Agencies should use web analytics to better understand user behavior for the purpose of improving public-facing websites and digital services. The use of web measurement technologies (such as cookies, tracking pixels, tags, and other tracking technologies) is subject to limitations.<sup>42</sup> Agencies are required to participate in GSA’s government-wide Digital Analytics Program (DAP).<sup>43</sup> Participation in DAP does not preclude agencies from using other web analytics services.
 
-7. {{< highlight >}}**Customized and Dynamic User Experiences**{{< /highlight >}}
+{{< highlight >}}**7. Customized and Dynamic User Experiences**{{< /highlight >}}
 
 The public increasingly expects digital experiences to be customizable, which makes for a dynamic experience and reduces burden when completing tasks. Customization<sup>44</sup> is controlled by users, who can make changes manually to a digital service or experience to meet their needs. Customization relies on user choice. Customization is different from personalization, which relies on data about the user and is not controlled by the user.
 
@@ -303,7 +303,7 @@ The public increasingly expects digital experiences to be customizable, which ma
   - **Pre-populate with user data:** Agencies should leverage data previously provided by users, where appropriate, to reduce the burden of future interactions. For example, when providing an authenticated experience, agencies should consider using existing information about the person to populate or pre-fill known form data about the person, as appropriate. Pre-population can help improve the user experience and save time. Agencies should consider privacy risks when assessing whether to pre-populate user data, particularly if users provided that data for a different purpose, and ensure that its deployment incorporates appropriate privacy safeguards.
   - **Communicate to users through their preferred channels:** Where appropriate, agencies are encouraged to develop multi-channel messaging (such as sending email and text/SMS notifications in addition to physical letters) to communicate timely, important, and personalized information to customers or users in the channel(s) they prefer. Agencies should also allow users to adjust online settings to establish their preferred channels and frequency for receiving notifications and communications.
 
-8. {{< highlight >}}**Mobile-First Design That Scales Across Varying Device Sizes**{{< /highlight >}}
+{{< highlight >}}**8. Mobile-First Design That Scales Across Varying Device Sizes**{{< /highlight >}}
 
 Federal websites and digital services targeted at the public should be available, accessible, and usable on a wide range of devices and platforms. A majority of the public accesses Federal information and services online, increasingly from mobile devices.<sup>46</sup>
 
@@ -315,7 +315,7 @@ Federal websites and digital services targeted at the public should be available
   - **Use modern protocols:** Agencies must employ the latest stable versions of HTTP (i.e., HTTP/2, HTTP/3, and any successor versions), HTML, and other relevant standards. In recent years, the web platform and its associated technical protocols have prioritized making the mobile web more responsive and resilient to network disruption. Agencies must keep pace with these developments and optimize for real-world situations (such as intermittent connectivity or throttled bandwidth).
   - **Avoid building or maintaining unnecessary mobile apps:** An agency should avoid building native mobile applications<sup>50</sup> unless it has validated a compelling user need through research, and has balanced the need against additional long-term cost implications. Agencies should evaluate their existing mobile apps and retire those that are not continuing to provide significant user or business value. Instead, agencies should prioritize the design, development, and management of web applications that can be used on mobile devices.
 
-9. {{< highlight >}}**Other Digital Experience Requirements**{{< /highlight >}}
+{{< highlight >}}**9. Other Digital Experience Requirements**{{< /highlight >}}
 
    **9 a. Privacy**
 
@@ -365,7 +365,7 @@ In the footer of each agency’s website, or the entry point for a digital servi
 
 Agencies should consult USWDS and Digital.gov for more specific recommendations on how to best display required links and other relevant information on websites and digital services.<sup>69</sup>
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy guidance (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -380,13 +380,9 @@ OMB’s policy guidance (M-23-22) requires to the greatest extent practicable th
 
 {{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, use the link at the bottom to open the full .pdf file.*
 
-**III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
-
-**B. Digitization of Forms and Services**
-
 Reliance on paper-based processes, forms, and services precludes a digital experience, which is what the majority of the public now expects. Forms, services, and associated processes should be designed and modernized with digital service delivery in mind for the public and agencies to fully reap the transformational benefits and promises of a digital government, including increased convenience of online transactions, greater cost savings, and higher levels of public satisfaction with and trust in government.
 
-1. {{< highlight >}}**Forms**{{< /highlight >}}
+{{< highlight >}}**1. Forms**{{< /highlight >}}
 
 Forms are an essential component of government and often a prerequisite to obtaining Federal Government services or benefits. Web-based forms, also called digital forms, provide numerous advantages when compared to paper-based forms. As a web application, a digital form has the capability to capture, validate, submit, and process structured information digitally and in an automated manner. <sup>70</sup> Digital forms, when designed correctly, can help improve information collection accuracy and usability, reduce business inefficiency, enhance security, and reduce costs and labor associated with managing and reviewing paper-based documents.
 
@@ -396,7 +392,7 @@ Forms are an essential component of government and often a prerequisite to obtai
 * **Build adaptable and resilient digital forms:** In building new or upgraded digital forms, agencies should prioritize designing platforms that allow for efficient future alterations to question sets or response options. Similarly, agencies should prioritize building digital forms that can be scaled or replicated for use in similar information collections or transactions that an agency administers.
 * **Keep digital forms digital, end-to-end:** Agencies should ensure that information collected via a digital form remains digital throughout the information lifecycle. For example, if information is collected from a digital form, it should not be converted or transformed into a paper or electronic format and then back into a digital format, unless strictly necessary.
 
-2. {{< highlight >}}**Services**{{< /highlight >}}
+{{< highlight >}}**2. Services**{{< /highlight >}}
 
 While websites, digital services, and other digital interactions should make up the majority of the public’s interactions with the Federal Government, services can and should be provided over different channels to best meet the needs of the public. The public increasingly expects to complete tasks and transactions using omni-channel and multi-channel offerings. Omni-channel means customers can start a task or transaction in one channel (e.g., online) and seamlessly continue or finish the same task or transaction in another channel (e.g., in person). Multi-channel means customers have the option to complete a task or transaction, from start to finish, in the channel that works best for them (e.g., online, in person, over the phone, through the mail).
 
@@ -405,7 +401,7 @@ While websites, digital services, and other digital interactions should make up 
 * **Design a seamless, unified customer experience:** Agencies are strongly encouraged, where appropriate, to take an omni-channel approach to service design and delivery. With that approach, customers have a consistent, high-quality experience regardless of channel and are allowed to advance toward task or transaction completion using the channel that is most convenient to them.
 * **Maintain non-digital interaction options:** Agencies must always maintain an accessible method (i.e., physical availability) for completing a digital service through in-person, paper-based, or other means, so customers without the ability to use a digital service are not deprived of or impeded in their ability to access it. This means that agencies should afford the public the ability to complete a transaction over at least one traditional service channel (e.g., in person, postal mail, or phone).
 
-3. {{< highlight >}}**Signatures**{{< /highlight >}}
+{{< highlight >}}**3. Signatures**{{< /highlight >}}
 
 Signature requirements are common for Federal Government forms and services. Signatures are typically the means by which a person indicates an intent to associate themselves with a document in a manner that has legal significance. This often constitutes legally-binding evidence of the signer’s intention with regard to a document. The reasons for signing a document will vary with the transaction.
 
@@ -418,7 +414,7 @@ The use of signatures may not be appropriate for every scenario involving a publ
 * **Maintain a digital equivalent method:** To the greatest extent practicable, agencies should not require a handwritten signature (i.e., wet signature) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with a comparable digital equivalent method for submitting information or transacting with an agency. To the greatest extent practicable, agencies should ensure that any public-facing form or service can be provided and completed by the user over different channels, preferably over at least one traditional service channel (e.g., in person) and one digital service channel (e.g., web application) and ideally in the channel that is most convenient to the user.
 * **Use identity verification when greater assurance of identity is needed:** Agencies should use appropriate identity verification processes for online transactions, commensurate with the agency’s risk assessment, when there is a need for assurance of the identity of the user or the authenticity and integrity of the transaction. Signatures alone do not provide identity assurance and should not be used by themselves for identity verification, identity proofing, or non-repudiation purposes when identity assurance is required.
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy guidance (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -447,7 +443,7 @@ OMB recommends that agencies prioritize developing digital options for existing 
 2. Forms directly supporting the delivery of a service or benefit to the public that, if provided digitally, would address user needs, reduce public burden, or improve public impact, as determined based on user research or business analysis.
 3. Assistance provided through customer call center support that could be designed as self-service digital tasks for customers to reach resolution on their own.
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy guidance (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -501,7 +497,7 @@ Within `180 days` of the launch of the Federal Services Index; additional detail
 5. **Assess top tasks for self-service optimization:** {{< highlight >}}Within 180 days{{< /highlight >}}, agencies that provide services to the public shall review the highest volume public-facing services and identify the tasks required to access each service as well as the channels available to complete each task (e.g., online, phone, mail, in person). Agencies shall provide to OMB a list of opportunities for no less than 5 top tasks that can be newly designed or further optimized as self-service digital options.
 6. **Inventory public-facing services:** {{< highlight >}}Within 180 days{{< /highlight >}} of the release of the Federal Services Index, each agency shall develop and submit a preliminary inventory to the Federal Services Index <sup>86</sup> of all public-facing services. For each service that cannot be made available in a digital format, the agency must provide the information specified by section 4(d) of the 21st Century IDEA. <sup>87</sup> Within one year of the release of the Federal Services Index, agencies shall finalize the inventory and make it publicly available online.
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy guidance (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
