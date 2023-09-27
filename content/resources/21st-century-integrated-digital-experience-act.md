@@ -61,7 +61,7 @@ Delivering a digital-first public experience is a significant opportunity to imp
 - Standardize and transition to centralized shared services
 
 
-{{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**P.L. 115-336**: 21st Century Integrated Digital Experience Act" >}}**SECTION 1. SHORT TITLE.**
+{{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**Public Law 115-336**: 21st Century Integrated Digital Experience Act" >}}**SECTION 1. SHORT TITLE.**
 
 This Act may be cited as the 21st Century Integrated Digital Experience Act or the 21st Century IDEA.
 
@@ -154,6 +154,8 @@ The Chief Information Officer of each executive agency, or a designee, shall--
 
 1. In general.--The General Services Administration shall make available under a Federal Supply Schedule the systems and services necessary to fulfill the requirements of this Act.
 2. Requirements.--The Federal Supply Schedule described in paragraph (1) shall, to the extent practicable, ensure interoperability between executive agencies, compliance with industry standards, and adherence to best practices for design, accessibility, and information security.
+
+*Note: The link below opens a .pdf file hosted on Congress.gov. It is 246 KB in size and four pages long.*
 
 {{< /card-policy >}}
 
