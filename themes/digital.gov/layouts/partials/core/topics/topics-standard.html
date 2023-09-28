@@ -26,33 +26,28 @@
     </div>
   {{- end -}}
 
+  {{/* Resources, Services, and Communities */}}
+  {{ if eq .Paginator.PageNumber 1 }}
+    <section>
+      {{/* If the first page in a paginated sequence */}}
 
-  <div class="grid-row">
-    <div class="grid-col-12">
-      <section>
-        {{/* If the first page in a paginated sequence */}}
-        {{ if eq .Paginator.PageNumber 1 }}
+      {{/* Gets the resource .Pages associated with this topic */}}
+      {{- $resources := (where .Pages "Section" "resources") -}}
+      {{- $resource_settings := ( dict "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
+      {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources "settings" $resource_settings ) -}}
 
-          {{/* Gets the resource .Pages associated with this topic */}}
-          {{- $resources := (where .Pages "Section" "resources") -}}
-          {{- $resource_settings := ( dict "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
-          {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources "settings" $resource_settings ) -}}
+      {{/* Gets the services .Pages associated with this topic */}}
+      {{- $services := (where .Pages "Section" "services") -}}
+      {{- $services_settings := ( dict "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
+      {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
 
-          {{/* Gets the services .Pages associated with this topic */}}
-          {{- $services := (where .Pages "Section" "services") -}}
-          {{- $services_settings := ( dict "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
-          {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
+      {{/* Gets the communities .Pages associated with this topic */}}
+      {{- $communities := (where .Pages "Section" "communities") -}}
+      {{- $community_settings := ( dict "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
+      {{- partial "partials/core/collection/collection.html" (dict "collection_data" $communities "settings" $community_settings) -}}
+    </section>
+  {{- end -}}
 
-          {{/* Gets the communities .Pages associated with this topic */}}
-          {{- $communities := (where .Pages "Section" "communities") -}}
-          {{- $community_settings := ( dict "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
-          {{- partial "partials/core/collection/collection.html" (dict "collection_data" $communities "settings" $community_settings) -}}
-
-        {{- end -}}
-
-      </section>
-    </div>
-  </div>
 </div>
 
 <section id="news_featured" class="stream">
