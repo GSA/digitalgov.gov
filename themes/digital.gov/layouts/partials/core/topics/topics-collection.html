@@ -10,22 +10,20 @@
     {{- partial "partials/core/usa-breadcrumbs.html" . -}}
     <header>
       <div>
-        {{- if .Params.data.header.title -}}
-          <h1>{{- .Params.data.header.title -}}</h1>
-        {{- end -}}
+        <h1>{{- .Title -}}</h1>
 
-        {{- if .Params.data.header.deck -}}
-          <div class="deck">{{- .Params.data.header.deck -}}</div>
-        {{- end -}}
+        {{ if .Params.deck }}
+          <div class="deck">
+            {{ .Params.deck }}
+          </div>
+        {{ end }}
       </div>
     </header>
 
     <div class="grid-row desktop:grid-gap-4">
       <div class="desktop:grid-col topics-collection__summary">
-        {{ if .Params.data.contents.summary }}
-          <p>
-            {{- .Params.data.contents.summary -}}
-          </p>
+        {{ if .Params.summary }}
+          <p>{{- .Params.summary -}}</p>
         {{ end }}
       </div>
 

@@ -7,6 +7,10 @@ slug: "design"
 # Topic Title
 title: "Design"
 
+deck: "Understand how and why design impacts user experience"
+
+summary: "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
+
 # Weight
 weight: 2
 
@@ -15,11 +19,7 @@ topic_collection: true
 
 # populate the topic-collection template with featured links
 data:
-  header:
-    title: "Design"
-    deck: "Understand how and why design impacts user experience"
   contents:
-    summary: "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
     legislation:
       name: "21st Century Integrated Digital Experience Act"
       description: ""
@@ -27,14 +27,14 @@ data:
       image: "legislative-stamp-card-logo.png"
       link_url: "https://digital.gov/resources/21st-century-integrated-digital-experience-act/"
   featured_resources:
-      multiple: false
-      resources:
+    multiple: false
+    resources:
       - link: "/guides/hcd/discovery-concepts"
         kicker: "Human-centered design guide series"
   communities:
-      multiple: false
-      community:
-        - link: "/communities/user-experience"
+    multiple: false
+    community:
+      - link: "/communities/user-experience"
   top_resources_header: "Design: essential knowledge"
   top_resources:
     - title: "An introduction to design requirements"
@@ -52,7 +52,6 @@ data:
     - title: "See more design resources"
       href: https://digital.gov/topics/design
       topic_redirect: true
-
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
 ---
