@@ -16,13 +16,10 @@
   </div>
 
   {{/* If the topic page has Content */}}
+  {{/* @TODO Confirm output, if not remove. */}}
   {{- if .Content -}}
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <div class="content usa-prose">
-          {{- .Content -}}
-        </div>
-      </div>
+    <div class="content usa-prose">
+      {{- .Content -}}
     </div>
   {{- end -}}
 
