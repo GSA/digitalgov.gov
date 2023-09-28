@@ -19,7 +19,7 @@ topics:
 slug: backlogs-and-why-every-website-needs-one
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: ""
+primary_image: "backlogs-and-why-every-website-needs-one-title-card"
 ---
 Come learn about backlogs and how they can support iterative development practices that focus on delivering value to users. Speakers will share case studies from [Touchpoints](https://touchpoints.digital.gov/), [GSA SmartPay](https://smartpay.gsa.gov/), and [Search.gov](https://search.gov/).
 
