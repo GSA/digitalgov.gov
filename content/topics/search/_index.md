@@ -1,10 +1,19 @@
 ---
-title: Search
-summary: "Search functionality enables people to find information on the internet. "
-# Controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-# 2 -- featured on the Resource page
+# This topic lives at
+# https://digital.gov/topics/search
+
+slug: "search"
+
+# Topic Title
+title: "Search"
+
+# description — keep it short and clear
+summary: "Search functionality enables people to find information on the internet."
+
+# Weight
 weight: 1
-slug: search
+
+# For more information on managing topics,
+# see https://github.com/GSA/digitalgov.gov/wiki
+
 ---
