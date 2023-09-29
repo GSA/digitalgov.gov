@@ -11,7 +11,7 @@ topics:
   - analytics
   - bbg
   - broadcasting-board-of-governors
-  - digitalgov-search
+  - search
   - DOI
   - epa
   - facebook

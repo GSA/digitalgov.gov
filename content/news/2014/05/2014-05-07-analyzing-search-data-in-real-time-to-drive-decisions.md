@@ -10,7 +10,7 @@ topics:
   - data
   - metrics
   - our-work
-  - digitalgov-search
+  - search
   - open-source
 
 ---

@@ -20,7 +20,7 @@ topics:
   - strategy
   - user-centered-design
   - multilingual
-  - digitalgov-search
+  - search
   - search-engine-optimization
   - uswds
   - plain-language

@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - content
-  - digitalgov-search
+  - search
   - open-source
   - recaps
 ---

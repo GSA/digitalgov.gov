@@ -11,7 +11,7 @@ topics:
   - cx
   - customer-satisfaction
   - customer-service
-  - digitalgov-search
+  - search
   - search-engine-optimization
 ---
 
