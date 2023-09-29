@@ -8,7 +8,7 @@ slug: "search"
 title: "Search"
 
 # description — keep it short and clear
-summary: "Search functionality connects the public with the information they need from the government. Learn about Search.gov, a no-cost by government, for government service for federal websites, search engine optimization (SEO), search data, and more."
+summary: "Search functionality connects the public with the information they need from the government. Learn about Search.gov, a no-cost 'by government, for government' service for federal websites, search engine optimization (SEO), effectively using search data, and more."
 
 # Weight
 weight: 1
