@@ -1,8 +1,18 @@
 @use "uswds-core" as *;
 
 // move to topics styles, this affects only on topics/{topic}
-.main-topic .dg-collection {
-  @include u-padding-y(1);
+.main-topic {
+  .dg-collection {
+    @include u-padding-y(1);
+  }
+
+  // set h2 on topics-standard to be consistent with collection component h2's
+  #news_featured {
+    .main-topic__news-featured-header {
+      font-size: 1.5em;
+      font-weight: 700;
+    }
+  }
 }
 
 // Placeholder component to preserve current styles for future re-work
@@ -153,6 +163,14 @@
 .usa-collection {
   @include u-font("sans", "md");
   @include u-text("normal");
+
+  &__item--full-width {
+    max-width: 100%;
+
+    .usa-collection__description {
+      max-width: 100%;
+    }
+  }
 
   &__img-wrapper {
     margin-right: units(1);
