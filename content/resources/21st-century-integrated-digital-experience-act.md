@@ -37,7 +37,7 @@ primary_image: "office-team-ideas-scyther5"
 
 The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was a bipartisan act signed into law in December 2018.
 
-In September 2023, the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience (PDF, 220 KB, 32 pages)](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf). In part, this memo provides further policy guidance to help agencies fully implement 21st Century IDEA. The law and policy guidance collectively establish a framework and the requirements for a digital-first public experience.
+In September 2023, the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/). In part, this memo provides further policy guidance to help agencies fully implement 21st Century IDEA. The law and policy guidance collectively establish a framework and the requirements for a digital-first public experience.
 
 For the policy guidance, read more in the fact sheet, [Building Digital Experiences for the American People](https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/).
 
@@ -367,7 +367,7 @@ In the footer of each agency’s website, or the entry point for a digital servi
 
 Agencies should consult USWDS and Digital.gov for more specific recommendations on how to best display required links and other relevant information on websites and digital services.<sup>69</sup>
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy guidance (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -420,7 +420,7 @@ The use of signatures may not be appropriate for every scenario involving a publ
 * **Maintain a digital equivalent method:** To the greatest extent practicable, agencies should not require a handwritten signature (i.e., wet signature) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with a comparable digital equivalent method for submitting information or transacting with an agency. To the greatest extent practicable, agencies should ensure that any public-facing form or service can be provided and completed by the user over different channels, preferably over at least one traditional service channel (e.g., in person) and one digital service channel (e.g., web application) and ideally in the channel that is most convenient to the user.
 * **Use identity verification when greater assurance of identity is needed:** Agencies should use appropriate identity verification processes for online transactions, commensurate with the agency’s risk assessment, when there is a need for assurance of the identity of the user or the authenticity and integrity of the transaction. Signatures alone do not provide identity assurance and should not be used by themselves for identity verification, identity proofing, or non-repudiation purposes when identity assurance is required.
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy guidance (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -451,7 +451,7 @@ OMB recommends that agencies prioritize developing digital options for existing 
 2. Forms directly supporting the delivery of a service or benefit to the public that, if provided digitally, would address user needs, reduce public burden, or improve public impact, as determined based on user research or business analysis.
 3. Assistance provided through customer call center support that could be designed as self-service digital tasks for customers to reach resolution on their own.
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy guidance (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -505,7 +505,7 @@ Within `180 days` of the launch of the Federal Services Index; additional detail
 5. **Assess top tasks for self-service optimization:** {{< highlight >}}Within 180 days{{< /highlight >}}, agencies that provide services to the public shall review the highest volume public-facing services and identify the tasks required to access each service as well as the channels available to complete each task (e.g., online, phone, mail, in person). Agencies shall provide to OMB a list of opportunities for no less than 5 top tasks that can be newly designed or further optimized as self-service digital options.
 6. **Inventory public-facing services:** {{< highlight >}}Within 180 days{{< /highlight >}} of the release of the Federal Services Index, each agency shall develop and submit a preliminary inventory to the Federal Services Index <sup>86</sup> of all public-facing services. For each service that cannot be made available in a digital format, the agency must provide the information specified by section 4(d) of the 21st Century IDEA. <sup>87</sup> Within one year of the release of the Federal Services Index, agencies shall finalize the inventory and make it publicly available online.
 
-<a class="src" href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" title="View ">View the full policy guidance (PDF, 220 KB, 32 pages)<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false"> <use xlink:href="/uswds/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
