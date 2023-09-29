@@ -16,7 +16,7 @@ summary: Search.gov's goal is to deliver a high-quality, government-wide search
 topics:
   - design
   - user-experience
-  - digitalgov-search
+  - search
   - uswds
 slug: get-to-know-search-gov
 # Controls how this page appears across the site

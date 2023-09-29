@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - digitalgov-search
+  - search
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - mobile-first

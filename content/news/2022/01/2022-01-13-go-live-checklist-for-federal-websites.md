@@ -15,7 +15,7 @@ topics:
   - governance
   - analytics
   - metrics
-  - digitalgov-search
+  - search
   - privacy
   - security
   - 21st-century-idea

@@ -13,7 +13,7 @@ topics:
   - our-work
   - api
   - Consumer Financial Protection Bureau
-  - digitalgov-search
+  - search
   - GitHub
   - open-source
 ---

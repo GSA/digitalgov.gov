@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - our-work
-  - digitalgov-search
+  - search
   - podcast
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 

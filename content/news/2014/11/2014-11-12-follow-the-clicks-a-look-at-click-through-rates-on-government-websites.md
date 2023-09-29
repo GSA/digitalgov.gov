@@ -9,7 +9,7 @@ topics:
   - content
   - our-work
   - analytics
-  - digitalgov-search
+  - search
 ---
 
 How important is it to show the most relevant result at the top of your search results page? Very.

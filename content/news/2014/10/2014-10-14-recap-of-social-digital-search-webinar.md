@@ -11,7 +11,7 @@ topics:
   - our-work
   - social-media
   - video
-  - digitalgov-search
+  - search
   - federal-register
   - National Library of Medicine
   - NLM

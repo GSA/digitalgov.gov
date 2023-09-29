@@ -9,7 +9,7 @@ topics:
   - metrics
   - our-work
   - analytics
-  - digitalgov-search
+  - search
   - user-experience
   
 ---
