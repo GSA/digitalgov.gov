@@ -3,16 +3,20 @@ date: 2023-10-02 14:53:00 -0500
 title: New IDManagement.gov is refreshing the conversation about Zero Trust
 deck: Understanding identity management is now easier than ever.
 summary: IDmanagement.gov has received an update that makes it easier for users to find exactly what they need.
+
 # See all topics at https://digital.gov/topics
 topics:
   - security
   - user-experience
   - project-management
+
 # See all authors at https://digital.gov/authors
 authors:
   - babur-kohy
+
 slug: new-idmanagement-gov-is-refreshing-the-conversation-about-zero-trust
-primary_image: id-management-homepage
+primary_image: "id-management-zero-trust"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -26,7 +30,7 @@ The General Services Administration Office of Government-wide Policy’s (OGP) I
 
 Zero Trust is an approach to cybersecurity that goes beyond “trust but verify” and treats all networks and correspondence as potential threats. IDManagement.gov can help federal agencies, vendors, acquisition professionals, program managers, and anyone else interested learn how to plan for, implement, and reach Zero Trust more quickly — enabling the right individual to access the right resource at the right time for the right reasons.
 
-{{< img src="id-management-homepage" >}}
+{{< img src="id-management-zero-trust" >}}
 
 Explore the different areas within IDManagement.gov that include:
 
