@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - aws
-  - digitalgov-search
+  - search
   - infrastructure
 ---
 

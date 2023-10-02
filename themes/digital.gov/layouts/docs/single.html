@@ -32,7 +32,7 @@
 
         <div class="grid-row tablet-lg:grid-gap-6">
           <div class="grid-col-12">
-            {{ partial "core/page-data.html" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
+            {{- partial "core/gh-commit-info.html" . -}}
 
             {{/* Touchpoints Form */}}
             {{- partial "core/touchpoints-form.html" . -}}

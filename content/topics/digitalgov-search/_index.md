@@ -8,12 +8,12 @@ slug: "digitalgov-search"
 title: "Digital.gov Search"
 
 # description — keep it short and clear
-summary: ""
-
+summary: "Our hosted service, DigitalGov Search (formerly USA Search), powers search on federal government websites, helping you to improve visitors’ search experience at no cost."
 
 # Weight
-weight: 1
+weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
+
 ---

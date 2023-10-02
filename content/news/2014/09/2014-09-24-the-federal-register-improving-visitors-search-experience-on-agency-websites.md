@@ -10,7 +10,7 @@ topics:
   - product-management
   - our-work
   - api
-  - digitalgov-search
+  - search
   - federal-register
   - instagram
   - NLM

@@ -70,7 +70,7 @@
     {{ else }}
       {{ $path = .Path }}
     {{ end }}
-    <li data-edit-this="{{- $path -}}">
+    <li data-gh-edit-page="{{- $path -}}">
       {{- template "collection-icon" dict "item" . "src" $src "href" $href -}}
 
 

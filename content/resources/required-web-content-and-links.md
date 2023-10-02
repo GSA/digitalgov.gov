@@ -17,7 +17,7 @@ topics:
   - cx
   - user-experience
 
-weight: 8
+weight: 2
 primary_image: "website-wireframes-ademay-istock-getty-images-plus-1235556451"
 
 ---

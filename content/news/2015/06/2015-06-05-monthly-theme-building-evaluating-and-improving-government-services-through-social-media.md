@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - social-media
   - accessibility
-  - digitalgov-search
+  - search
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - social-media

@@ -9,7 +9,7 @@ topics:
   - content
   - metrics
   - our-work
-  - digitalgov-search
+  - search
   - recaps
   - search-engine-optimization
 ---

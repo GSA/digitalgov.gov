@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - our-work
-  - digitalgov-search
+  - search
   - https
   - plain-language
   - search-engine-optimization

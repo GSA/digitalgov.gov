@@ -7,7 +7,7 @@ authors:
   - dmccleskey
 topics:
   - mobile
-  - digitalgov-search
+  - search
   - mobile
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5

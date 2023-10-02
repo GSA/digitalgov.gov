@@ -155,7 +155,7 @@
     {{ else }}
       {{ $path = .Path }}
     {{ end }}
-    <li class="promo" data-edit-this="{{- $path -}}">
+    <li class="promo" data-gh-edit-page="{{- $path -}}">
       <div class="promo__link-wrapper">
         {{- if isset .Params "source_url" }}
           <a

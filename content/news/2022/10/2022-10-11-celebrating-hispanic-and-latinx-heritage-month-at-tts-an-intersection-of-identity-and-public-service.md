@@ -1,8 +1,8 @@
 ---
 date: 2022-10-11 12:10:00 -0500
 title: "Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection of Identity and Public Service"
-deck: Members of the Latinx employee resource group share their stories of public service.
-summary: In this blog, six Technology Transformation Services (TTS) employees share stories of identity and their paths into public service.
+deck: "Members of the Latinx employee resource group share their stories of public service."
+summary: "In this blog, six Technology Transformation Services (TTS) employees share stories of identity and their paths into public service."
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -240,6 +240,8 @@ Using my communications and marketing skills to ensure underrepresented communit
 
 <hr width="75%">
 
+{{< note >}} Read part two: [Latinx Identity in Design, Tech, and Government: The TTS Latinx employee resource group shares definitions, data, and the importance of representation in civic tech](https://digital.gov/2022/10/14/latinx-identity-in-design-tech-and-government/). {{< /note >}}
+
 ## Join our team
 
-We are currently have a number of positions open for [Designers—UX, Service, Content Strategy, and Product](https://join.tts.gsa.gov/join/tts-designer/). We are opening a role specifically for [bilingual (Spanish/English) UX Designers and Content Strategists](https://join.tts.gsa.gov/join/tts-bilingualdesigner/) to help improve services for the Spanish-speaking public. Check out open positions or register for an info session to ask questions and learn more about the process [on the TTS join page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/).
+We currently have a number of positions open for Designers—UX, Service, Content Strategy, and Product. We are opening a role specifically for bilingual (Spanish/English) UX Designers and Content Strategists to help improve services for the Spanish-speaking public. Check out open positions or register for an info session to ask questions and learn more about the process [on the TTS join page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/).

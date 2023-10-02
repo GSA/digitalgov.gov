@@ -31,6 +31,7 @@ authors:
 topics:
   - search-engine-optimization
   - seo
+  - search
 
 ---
 

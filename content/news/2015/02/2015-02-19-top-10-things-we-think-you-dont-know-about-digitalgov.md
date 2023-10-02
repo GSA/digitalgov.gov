@@ -10,7 +10,7 @@ topics:
   - our-work
   - analytics
   - content-strategy
-  - digitalgov-search
+  - search
   - gsa
 ---
 

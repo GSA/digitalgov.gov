@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - analytics
-  - digitalgov-search
+  - search
   - usagov
 ---
 

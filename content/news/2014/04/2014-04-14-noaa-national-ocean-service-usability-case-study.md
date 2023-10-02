@@ -9,7 +9,7 @@ topics:
   - design
   - user-testing-and-research
   - user-experience
-  - digitalgov-search
+  - search
   - National Ocean Service
   - national-oceanic-and-atmospheric-administration
   - NOAA

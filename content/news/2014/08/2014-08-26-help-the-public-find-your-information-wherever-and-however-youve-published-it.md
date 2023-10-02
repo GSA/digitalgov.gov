@@ -14,7 +14,7 @@ topics:
   - 18f
   - CMS
   - content-management-system
-  - digitalgov-search
+  - search
   - federal-register
   - open-data
   - open-source

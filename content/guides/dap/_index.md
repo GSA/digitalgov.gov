@@ -14,6 +14,7 @@ aliases:
   - /services/dap/guidance-for-dap-gov-wide-data/
 image: guide-dap
 primary_image: guide-dap
+weight: 8
 layout: single
 ---
 

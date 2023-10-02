@@ -9,7 +9,7 @@ slug: nara
 name: "National Archives and Records Administration"
 
 # Keep it short — should be no longer than 10 words.
-summary: "MARA's mission is to drive openness, cultivate public participation, and strengthen our nation’s democracy through equitable public access to high-value government records."
+summary: "NARA's mission is to drive openness, cultivate public participation, and strengthen our nation’s democracy through equitable public access to high-value government records."
 
 # What is the URL for this product or service?
 # Primary Domain — the link to your website, blog homepage, or news feed. (e.g., https://18f.gsa.gov/)

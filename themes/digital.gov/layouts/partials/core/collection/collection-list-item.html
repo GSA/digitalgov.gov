@@ -7,42 +7,49 @@
   @param {boolean} link_external - apply `usa-link--external` class if url host is not www.digital.gov
 
 */}}
-{{ $list_item := .list_item }}
+
+{{ $list_item_data := .list_item_data }}
+{{ $settings := .settings }}
 {{ $variant := .variant }}
 {{ $link_external := false }} {{/* TODO: fix external link logic to work on all environments */}}
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
+{{ $title := .title }}
+{{ $topic_icon := .topic_icon }}
 {{ $href := .href }}
+{{ $summary := .summary }}
 {{ $url := urls.Parse $href }}
 {{ $meta_source := .meta_source }}
+{{ $list_default_width := .list_default_width }}
+{{ $is_truncated := .is_truncated }}
 
-{{- with .list_item -}}
+{{- with $list_item_data -}}
   {{ $path := "" }}{{ with .File }}
     {{ $path = .Path }}
   {{ else }}
     {{ $path = .Path }}
   {{ end }}
 
-  <li class="usa-collection__item" data-edit-this="{{- $path -}}">
-    {{ if eq $variant "media" }}
-      {{- partial "core/collection/collection-icon" (dict "logo_source" $logo_source) -}}
+  <li class="usa-collection__item{{ if not $settings.list_default_width }} usa-collection__item--full-width{{ end }}" data-gh-edit-page="{{- $path -}}">
+    {{ if or (eq $settings.variant "media") (eq $settings.variant "custom") }}
+      {{- partial "core/collection/collection-icon" (dict "logo_source" $settings.logo_source "topic_icon" $settings.topic_icon) -}}
     {{ end }}
     <div class="usa-collection__body">
-      <h{{ $list_header | safeHTML }} class="usa-collection__header">
-        <a class="usa-link {{ if $link_external }}usa-link--external{{ end }}" href="{{- $href -}}" title="{{- .Title | markdownify -}}">
-          {{- .Title | markdownify -}}
-        </a>
-      </h{{ $list_header | safeHTML }}>
-      {{ if ne $variant "headings" }}
+      <h{{ $settings.list_header | safeHTML }} class="usa-collection__header">
+        {{ if .title }}
+          <a class="usa-link {{ if $settings.link_external }}usa-link--external{{ end }}" href="{{- .href -}}" title="{{- .title | markdownify -}}">
+            {{- .title | markdownify -}}
+          </a>
+        {{ end }}
+      </h{{ $settings.list_header | safeHTML }}>
+      {{ if ne $settings.variant "headings" }}
         <p class="usa-collection__description">
-          {{- if .Params.summary -}}
-            {{- .Params.summary | markdownify | truncate 140 -}}
-          {{- else -}}
-            {{- .Params.deck | markdownify -}}
-          {{- end -}}
+          {{ if .summary }}
+            {{ .summary | markdownify }}
+          {{ end }}
         </p>
       {{ else }}
-        {{ if $meta_source }}
+        {{ if $settings.meta_source }}
           <ul class="usa-collection__meta">
             <li class="usa-collection__meta-item position-relative">
               <svg
@@ -54,7 +61,7 @@
                   xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
                 ></use>
               </svg>
-              {{- $meta_source -}}
+              {{- $settings.meta_source -}}
             </li>
           </ul>
         {{ end }}

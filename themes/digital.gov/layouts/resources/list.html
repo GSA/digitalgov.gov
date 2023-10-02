@@ -11,7 +11,7 @@
       <header class="page-head page-head-{{- .Type -}}">
         <div class="grid-container grid-container-desktop">
           <div class="grid-row">
-            <div class="grid-col-12" data-edit-this="{{- $path -}}">
+            <div class="grid-col-12" data-gh-edit-page="{{- $path -}}">
               {{/* Page Title */}}
               <h1>{{- .Title | markdownify -}}</h1>
 
@@ -72,7 +72,8 @@
                   {{/* If there are resources... */}}
                   {{- if $resources_by_topic -}}
                     {{ $header_id := path.Base .RelPermalink }}
-                    {{- partial "partials/core/collection/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 4) -}}
+                    {{ $settings := (dict "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 4) }}
+                    {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources_by_topic "settings" $settings) -}}
                   {{- end -}}
                 {{ end }}
               {{ end }}
@@ -136,7 +137,7 @@
               {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
                 {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
                   <div class="grid-col-12 tablet:grid-col-4">
-                    <div class="topic" data-edit-this="{{- $path -}}">
+                    <div class="topic" data-gh-edit-page="{{- $path -}}">
                       <h3>
                         <a
                           href="{{- .Permalink | absURL -}}"

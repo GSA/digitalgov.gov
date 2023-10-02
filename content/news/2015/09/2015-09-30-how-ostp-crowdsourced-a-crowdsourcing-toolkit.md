@@ -15,7 +15,7 @@ topics:
   - crowdsourcing
   - dap
   - digital-analytics-program
-  - digitalgov-search
+  - search
   - FCPCCS
   - open-opportunities-program
   - OSTP
