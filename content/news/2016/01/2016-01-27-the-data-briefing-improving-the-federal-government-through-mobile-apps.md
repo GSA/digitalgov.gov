@@ -2,7 +2,7 @@
 slug: the-data-briefing-improving-the-federal-government-through-mobile-apps
 date: 2016-01-27 10:00:08 -0400
 title: 'The Data Briefing: Improving the Federal Government Through Mobile Apps'
-summary: 'Federal agencies are doing well in fulfilling the 2012 Digital Government Strategy by providing numerous mobile apps for American citizens. According to a report from IBM’s Center for the Business of Government, 76 federal agencies have at least one mobile app. As of July 2015, there are nearly 300 federal government mobile apps that provide'
+summary: 'Federal agencies are doing well in fulfilling the 2012 Digital Government Strategy by providing numerous mobile apps for American citizens.'
 authors:
   - bbrantley
 topics:

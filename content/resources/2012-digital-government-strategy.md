@@ -1,13 +1,19 @@
 ---
 slug: 2012-digital-government-strategy
+
+redirectto: https://digital.gov/resources/21st-century-integrated-digital-experience-act/
+
 date: 2015-09-29 10:15:27 -0400
 title: 2012 Digital Government Strategy
 summary: "The 2012 Digital Government Strategy mission drives agencies, and the need to deliver better services to customers at a lower cost."
+
 # see all topics at https://digital.gov/topics
 topics:
   - governance
+
 authors:
   - andreanocesigritz
+
 ---
 
 [The 2012 Digital Government Strategy](https://obamawhitehouse.archives.gov/digitalgov/about) mission drives agencies, and the need to deliver better services to customers at a lower cost—whether an agency is supporting the warfighter overseas, a teacher seeking classroom resources, or a family figuring out how to pay for college is pushing every level of government to look for new solutions.
