@@ -68,6 +68,7 @@
 
                   {{/* Get all resource pages with this current taxonomy */}}
                   {{- $resources_by_topic := (where .Pages "Section" "resources") -}}
+                  {{- $resources_by_topic = (sort $resources_by_topic "Weight" "desc") -}}
 
                   {{/* If there are resources... */}}
                   {{- if $resources_by_topic -}}

@@ -30,6 +30,7 @@
 
       {{/* Gets the resource .Pages associated with this topic */}}
       {{- $resources := (where .Pages "Section" "resources") -}}
+      {{- $resources = (sort $resources "Weight" "desc") -}}
       {{- $resource_settings := ( dict "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
       {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources "settings" $resource_settings ) -}}
 
