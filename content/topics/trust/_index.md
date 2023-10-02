@@ -8,7 +8,7 @@ slug: "trust"
 title: "Trust"
 
 # description — keep it short and clear
-summary: ""
+summary: "Understand how digital services impact trust in government."
 
 # Weight
 weight: 1
