@@ -61,7 +61,6 @@ Jeff has been a long-time UX event organizer, including GoodGov UX, World IA Day
 
 ## Related Links
 
-  * [2012 Digital Government Strategy](https://digital.gov/resources/2012-digital-government-strategy/) 
   * [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) 
   * [USPS Digital Style Guide](https://www.usps.com/styleguide/) 
   * [Analytics.usa.gov](https://analytics.usa.gov/) 

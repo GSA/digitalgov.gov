@@ -1,5 +1,8 @@
 ---
 slug: 2012-digital-government-strategy
+aliases:
+  - /resources/21st-century-integrated-digital-experience-act/
+
 date: 2015-09-29 10:15:27 -0400
 title: 2012 Digital Government Strategy
 summary: "The 2012 Digital Government Strategy mission drives agencies, and the need to deliver better services to customers at a lower cost."

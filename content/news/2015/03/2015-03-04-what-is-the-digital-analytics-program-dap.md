@@ -2,7 +2,7 @@
 slug: what-is-the-digital-analytics-program-dap
 date: 2015-03-04 10:00:23 -0400
 title: What is the Digital Analytics Program (DAP)?
-summary: ' The Digital Analytics Program (DAP) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal'
+summary: 'The Digital Analytics Program (DAP) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale.'
 authors:
   - tlowden
   - marina-fox
