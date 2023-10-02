@@ -6,9 +6,10 @@ slug: "trust"
 
 # Topic Title
 title: "Trust"
+deck: "Understand how digital services impact trust in government."
 
 # description — keep it short and clear
-summary: "Understand how digital services impact trust in government."
+summary: "The guidance, resources, and community you find here will help to create government websites that inspire trust in federal digital resources."
 
 # Weight
 weight: 1
