@@ -1,7 +1,7 @@
 ---
 slug: 2012-digital-government-strategy-2
-aliases:
-  - /resources/21st-century-integrated-digital-experience-act/
+
+redirectto: https://digital.gov/resources/21st-century-integrated-digital-experience-act/
 
 date: 2015-12-03 12:21:21 -0400
 title: 2012 Digital Government Strategy
