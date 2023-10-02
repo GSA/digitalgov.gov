@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/id-management-zero-trust.png
+  # Image shortcode: {{< img src=id-management-zero-trust >}}'
+  date     :  2023-10-02 19:23:58 -0400
+  uid      :  id-management-zero-trust
+  width    :  1200
+  height   :  630
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "A screen capture of the I.D. Management.gov homepage shows a carousel on the second slide. It reads: Zero Trust concept assumes there is no implicit trust granted to assets or user accounts based solely on their physical or network location (i.e., local area networks versus the internet) or based on asset ownership (enterprise or personally owned). Authentication and authorization (both subject and device) are discrete functions performed before a session to an enterprise resource is established. Below the text is a blue button with white text that says, Learn more about Zero Trust."
+  
