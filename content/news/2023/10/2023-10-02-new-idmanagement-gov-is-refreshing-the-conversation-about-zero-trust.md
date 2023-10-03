@@ -40,7 +40,7 @@ Explore the different areas within IDManagement.gov that include:
 
 The site is designed to help both new and seasoned professionals stay current with digital identity and security concepts. There, users can refresh, upskill, or learn about robust identity implementation as part of an agency’s cybersecurity and FICAM practice.
 
-Ken Myers, the director of the Identity Assurance and Trusted Access Division, said he hopes IDManagement.gov will help more agencies reach Zero Trust by the September 2024 deadline set by the Office of Management and Budget’s memo, [M-22-09 Federal Zero Trust Strategy (PDF, 29 pages, 935 KB, January 26, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdfhttps://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf).
+Ken Myers, the director of the Identity Assurance and Trusted Access Division, said he hopes IDManagement.gov will help more agencies reach Zero Trust by the September 2024 deadline set by the Office of Management and Budget’s memo, [M-22-09 Federal Zero Trust Strategy (PDF, 29 pages, 935 KB, January 26, 2022)](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf).
 
 "I'm proud of the work our team has done to modernize the website to ensure better user experience, enhance accessibility, and improve continuous learning on digital identity topics,” Myers said. “I can confidently say we are at the forefront of cyber and our digital identity focus areas are helping agencies achieve Zero Trust maturity quickly through identity first approach.”
 
