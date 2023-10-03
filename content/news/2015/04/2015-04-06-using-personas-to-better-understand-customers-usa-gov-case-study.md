@@ -10,7 +10,7 @@ topics:
   - analytics
   - customer-service
   - digital-analytics-program
-  - digitalgov-search
+  - search
   - GobiernoUSAgov
   - personas
   - usa-gov

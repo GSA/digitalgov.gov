@@ -11,14 +11,14 @@ summary: "We've been working on a new version of Digital.gov, and we’re ready 
 
 topics:
   - digitalgov
+  - our-work
   - uswds
   - 21st-century-idea
+  - design
 
 # see all authors at https://digital.gov/authors
 authors:
   - jeremyzilar
-
-
 
 featured_image:
   uid: digitalgov-new-2019

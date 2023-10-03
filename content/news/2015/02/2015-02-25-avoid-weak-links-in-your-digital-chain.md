@@ -9,7 +9,7 @@ topics:
   - content
   - monthly-theme
   - analytics
-  - digitalgov-search
+  - search
   - digitalgov-user-experience-program
   - epa
   - fda

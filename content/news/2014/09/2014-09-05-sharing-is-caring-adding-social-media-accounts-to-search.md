@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - social-media
-  - digitalgov-search
+  - search
   - federal-register
   - instagram
   - National Library of Medicine

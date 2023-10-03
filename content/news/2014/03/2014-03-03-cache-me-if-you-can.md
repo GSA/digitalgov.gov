@@ -10,7 +10,7 @@ topics:
   - data
   - our-work
   - cx
-  - digitalgov-search
+  - search
   - GitHub
 ---
 

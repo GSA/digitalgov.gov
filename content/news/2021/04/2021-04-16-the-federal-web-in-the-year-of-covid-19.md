@@ -8,7 +8,7 @@ topics:
   - data
   - metrics
   - analytics
-  - digitalgov-search
+  - search
 # See all authors at https://digital.gov/authors
 authors:
   - dmccleskey

@@ -11,6 +11,7 @@ topics:
   - user-experience
   - usability
   - search-engine-optimization
+  - search
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:

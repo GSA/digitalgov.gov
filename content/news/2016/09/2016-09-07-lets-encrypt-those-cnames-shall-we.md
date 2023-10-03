@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - our-work
   - aws
-  - digitalgov-search
+  - search
   - infrastructure
 ---
 
