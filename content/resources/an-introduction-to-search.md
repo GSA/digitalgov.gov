@@ -38,17 +38,34 @@ Finally, the [21st Century Integrated Digital Experience Act](https://digital.go
 
 Section III.A.4 of OMB’s policy guidance, [M-23-22, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/), clarifies this requirement, “Agencies’ public-facing websites must contain a search function that allows users to easily search content intended for public use.” 
 
-{{add a policy guidance accordion from Section III.A.4 of the memo}}
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A - Section III.A.4**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
 
-Including search functionality on your site has a basis in law, policy guidance, and best practice.
+**Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
+
+**A. Requirements for Websites and Digital Services**
+
+Federal websites and digital services serve agencies’ missions and help users find the information and support they need. Agencies should ensure their websites, including web applications, digital services, and mobile applications, conform to the requirements and principles described below to design and deliver a high-quality, integrated digital experience that is simple, seamless, and secure across agencies for all users.
+
+{{< highlight >}}**4. Information and Services That Are Discoverable and Optimized for Search**{{< /highlight >}}
+
+Search is a basic and universal part of using the internet, and search functionality is an expected feature for websites and digital services. Moreover, the public currently gets to Federal Government information and services online primarily through external search engines, which are critical to discoverability. Agencies’ websites must be structured well; contain rich, descriptive metadata; feature machine-readable content to the extent practicable; and follow search engine optimization (SEO) practices to ensure that members of the public can access government information and services from third-party websites and applications. In addition to SEO and public discoverability, a well-structured website also can be friendlier to assistive technology, archival software or services, and for other uses.
+
+The Federal Government’s public web presence is an open book that may be crawled, archived, or “scraped” by anyone in the general public, at any time. Enabling short- and long-term preservation of government content is critical to public understanding of the government and its history, when appropriate. Web scraping plays an important role in making government information and data available and useful for a variety of public uses, including potentially for the training of large language models that enable artificial intelligence chatbots and services to accurately represent information about the government.
+
+  - **Use on-site search functionality:** Agencies’ public-facing websites must contain a search function that allows users to easily search content intended for public use. This search function should be a site-wide global search and, when appropriate, could be a feature-specific search for a subset of the website content that is of significant public12 interest (e.g., find-a-form tool). Agencies should participate in the Search.gov program by utilizing Search.gov for on-site search solutions or by integrating search solutions with Search.gov.
+  - **Design search-engine optimized content:** Agencies should ensure that publicly available content (i.e., content that does not require user authentication or sign in) is designed and structured so it can be effectively crawled and indexed by search engines. Agencies must not limit which search engines or crawlers can access or archive their public content. Agencies should employ best practices to improve crawling or indexing of web content, including using sitemaps, robots.txt files,<sup>29</sup> and descriptive metadata in commonly parsed fields (e.g., meta element tags).
+  - **Promote the “right” content:** Agencies should be strategic with SEO efforts and should think about SEO in the context of the intended audience. Agencies generate a lot of content and not all of this content is of equal importance. Unoptimized or poorly optimized content will result in negative user experiences and poor customer satisfaction. Agencies should perform keyword research and actively look at third-party search results to better understand how the public is trying to find information and should optimize content accordingly so that search terms generate results that are most likely to address the user’s query.
+  - **Optimize content for discoverability and utility:** Agencies should optimize and organize online content to help the public find what they are looking for as efficiently as possible, with the fewest number of steps or clicks, and without forcing the user to understand bureaucratic jargon, internal government concepts and structures, or any other superfluous information that would unnecessarily impede the public’s understanding.
+  - **Indicate timeliness of content:** Agencies should indicate when content on static,<sup>30</sup> public-facing websites was created or last updated by including temporal information in line with content or by using “Last Modified” in the HTTP header, in metadata tags, or in XML sitemaps. Time-and-date stamps provide transparency to the user and help the public better understand the freshness of content. When developing a timestamp strategy, agencies should prioritize adding timestamps to content that is time-sensitive, frequently changed, or top-trafficked.
+  - **Permit automated web scraping:** Generally, agencies shall permit web scraping and archival services to operate unimpeded without challenge-response restrictions (e.g., without presenting CAPTCHAs). Blocking or throttling of even potentially abusive crawlers is only appropriate in exceptional circumstances, such as an active denial-of-service attack, and, even then, is appropriate only on a temporary basis. If an agency detects significant public interest in scraping information from web pages, the agency should strongly consider making that information available as machine-readable data that can be accessed in bulk and optimized for automated access (such as through an API).
 
 ## How to improve searchability
 
-Install a search function on your website.
+Install a **search function** on your website.
 
 * [Search.gov](https://search.gov/) is a shared service offered by GSA, and free to federal agencies. It’s secure, compliant, and tailored for government use.
 
-Follow search engine optimization (SEO) best practices to help search engines discover your content:
+Follow **search engine optimization (SEO)** best practices to help search engines discover your content:
 
 * Write content that is clear, concise, unique, and authoritative, to increase page rankings on commercial search engines.
 * Use semantic HTML, which helps search engines differentiate types of content on a page, such as the title, description, or headings, delivers more descriptive search results, and increases the effectiveness of assistive technologies, such as screen readers.
