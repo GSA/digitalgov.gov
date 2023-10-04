@@ -4,7 +4,6 @@ const compiler = require("webpack");
 
 // Directories
 const USWDS = "node_modules/@uswds/uswds/dist";
-const JQUERY_PATH = "node_modules/jquery/dist/jquery.min.js";
 const PROJECT_JS_SRC = "./themes/digital.gov/src/js";
 const JS_DEST = "./themes/digital.gov/static/dist/js";
 
@@ -16,15 +15,6 @@ const JS_DEST = "./themes/digital.gov/static/dist/js";
  */
 function copyUswdsJS() {
   return src(`${USWDS}/js/**/*`).pipe(dest(JS_DEST));
-}
-
-/**
- * Copy jQuery to dist directory.
- *
- * @return {File} jquery.min.js - The minified jQuery file from node_modules.
- */
-function copyJquery() {
-  return src(JQUERY_PATH).pipe(dest(JS_DEST));
 }
 
 /**
@@ -49,4 +39,4 @@ function compile() {
 }
 
 exports.copyUswdsJS = copyUswdsJS;
-exports.compile = series(copyUswdsJS, copyJquery, compile);
+exports.compile = series(copyUswdsJS, compile);
