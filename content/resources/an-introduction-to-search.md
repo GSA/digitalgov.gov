@@ -8,6 +8,7 @@ summary: Learn why search functionality is an important component of federal
 topics:
   - seo
   - 21st-century-idea
+  - search-engine-optimization
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
