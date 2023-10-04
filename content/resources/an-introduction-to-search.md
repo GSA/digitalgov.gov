@@ -58,4 +58,4 @@ Follow search engine optimization (SEO) best practices to help search engines di
 
 **Register your site with [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) and [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en).**
 
-{{< note "alert">}} All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency. {{< /note >}}
+{{< note "activity">}}  All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.  {{< /note >}}
