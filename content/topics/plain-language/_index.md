@@ -48,9 +48,6 @@ data:
     - title: "OMB Final Guidance on Implementing the Plain Writing Act of 2010 (M 11-15)"
       href: "/resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15/"
       summary: "This memorandum provides final guidance on implementing the Act and is designed to promote the goals of the President’s Open Government Initiative."
-    - title: "See more design resources"
-      href: https://digital.gov/topics/design
-      topic_redirect: true
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
