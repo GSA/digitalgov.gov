@@ -10,7 +10,9 @@
 
 <header class="dg-guide__header grid-container grid-container-desktop">
   <div class="dg-guide__header-title">
-    <p class="kicker">{{- $kicker | markdownify -}}</p>
+    <a class="usa-link kicker" href="/guides/hcd/?dg"
+      >{{- $kicker | markdownify -}}</a
+    >
     <h1>{{- $title | markdownify -}}</h1>
     <div class="deck">
       {{- $summary | markdownify -}}
