@@ -38,7 +38,7 @@ Finally, the [21st Century Integrated Digital Experience Act](https://digital.go
 
 Section III.A.4 of OMB’s policy guidance, [M-23-22, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/), clarifies this requirement, “Agencies’ public-facing websites must contain a search function that allows users to easily search content intended for public use.” 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A - Section III.A.4**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A.4**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
 
 **Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
