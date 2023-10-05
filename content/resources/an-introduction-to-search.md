@@ -15,7 +15,9 @@ topics:
 # 2 -- highlighted
 weight: 1
 slug: an-introduction-to-search
+
 ---
+
 ## What is search functionality?
 
 Search functionality enables people to find information. Whether they use a commercial search engine, or search within a single website via its search function, searching is a commonplace activity for users.
@@ -76,7 +78,6 @@ Follow **search engine optimization (SEO)** best practices to help search engine
 * Properly structure headings. Include only one H1 on a page, and use it for your page title. Use H2, H3, etc. to organize content into sections and subsections.
 * Create an XML sitemap that includes all URLs that you want to be discoverable through search.
 * Create a robots.txt file.
+* Register your site with [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) and [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en).
 
-**Register your site with [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) and [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en).**
-
-{{< note >}}  All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.  {{< /note >}}
+{{< note >}} All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency. {{< /note >}}
