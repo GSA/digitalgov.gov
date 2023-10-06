@@ -47,10 +47,10 @@ data:
       href: "https://designsystem.digital.gov/design-principles/"
       summary: "Earn trust by following consistent design principles."
     - title: "Understanding design in 10 questions"
-      href: "/2023/03/03/understanding-design-in-10-questions/"
+      href: "https://digital.gov/2023/03/03/understanding-design-in-10-questions/"
       summary: "Learn how the discipline of design can help your agency improve customer experience."
       - title: "Bringing design in-house"
-      href: "/2023/01/27/bringing-design-in-house/"
+      href: "https://digital.gov/2023/01/27/bringing-design-in-house/"
       summary: "What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative."
       topic_redirect: true
 # For more information on managing topics,
