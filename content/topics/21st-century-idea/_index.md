@@ -31,7 +31,7 @@ data:
     resources:
       - link: "/guides/hcd/discovery-concepts"
         kicker: "Human-centered design guide series"
-     resources:
+    resources:
       - link: "/guides/dap/"
         kicker: "Guide to the Digital Analytics Program"
     resources:
