@@ -17,9 +17,7 @@ topics:
 weight: 1
 slug: an-introduction-to-trust
 ---
-## An introduction to trust
-
-Understand how digital services impact trust in government
+## What is trust in digital services?
 
 Almost every interaction with government today has an online component, from looking up an agency’s phone number, to making an appointment or filling out a form, to completing an entire transaction online. Consequently, agency websites have come to represent the U.S. government. And because people tend to think about the federal government as a single thing, one poor experience with one agency website can diminish trust in the entire government.
 
@@ -33,7 +31,7 @@ According to a 2022 report by Pew Research, “Public trust in government remain
 
 ## How to build websites that people can trust
 
-There are practical steps you can take to meet the trust-related [federal web requirements](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/). Start improving in these four areas to increase the trustworthiness of your site:
+There are practical steps you can take to meet the trust-related [federal web requirements](/resources/checklist-of-requirements-for-federal-digital-services/). Start improving in these four areas to increase the trustworthiness of your site:
 
 1. **Improve design quality:** Have a clear and meaningful navigational structure, copyedited writing, and a professional looking visual design.
 2. **Upfront disclosure:** Prominently display contact information and provide clear links to policy or documentation.
@@ -50,7 +48,7 @@ Trust is hard to earn, and even harder to regain once broken. Federal websites m
 
 ## Connect with others interested in improving trust in government
 
-The Web Managers Community of Practice is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).
+The Web Managers Community of Practice is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](/communities/web-content-managers/).
 
 Developed in collaboration with GSA’s Service Design Program, Office of Customer Experience.
 
@@ -58,6 +56,6 @@ Developed in collaboration with GSA’s Service Design Program, Office of Custom
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
 <li id="fn1">Public Trust in Government: 1958-2023, <em>Pew Research Center.</em> 2023. <a href="https://www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/">www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/</a></li>
-<li id="fn2">4 Trustworthiness Factors, <em>Nielsen Norman Group.</em> 2021. <a href="https://www.youtube.com/watch?v=pAWcYSBQHNc>https://www.youtube.com/watch?v=pAWcYSBQHNc</a></li>  
+<li id="fn2">4 Trustworthiness Factors, <em>Nielsen Norman Group.</em> 2021. <a href="https://www.youtube.com/watch?v=pAWcYSBQHNc">https://www.youtube.com/watch?v=pAWcYSBQHNc</a></li>  
 </ol>
 </footer>
