@@ -38,7 +38,7 @@ data:
   top_resources_header: "Design: essential knowledge"
   top_resources:
     - title: "An introduction to design"
-      href: "/resources/an-introduction-to-design-requirements/"
+      href: "/resources/an-introduction-to-design/"
       summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started."
     - title: "An introduction to design systems"
       href: "https://digital.gov/resources/introduction-to-design-systems/"
