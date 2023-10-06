@@ -4,6 +4,13 @@ title: An introduction to trust
 author: Rachel Flagg
 deck: Understand how digital services impact trust in government
 summary: Guidance on how to build government websites that people can trust.
+# See all topics at https://digital.gov/topics
+topics:
+  - trust
+  - content-strategy
+  - customer-experience
+  - governance
+  - plain-language
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
