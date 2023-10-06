@@ -1,6 +1,7 @@
 ---
 date: 2023-10-06 12:29:00 -0500
 title: An introduction to trust
+author: Rachel Flagg
 deck: Understand how digital services impact trust in government
 summary: Guidance on how to build government websites that people can trust.
 # Controls how this page appears across the site
@@ -47,7 +48,10 @@ The Web Managers Community of Practice is a group of government employees who ma
 
 Developed in collaboration with GSA’s Service Design Program, Office of Customer Experience.
 
-Footnotes
-
-1. Public Trust in Government: 1958-2023, Pew Research Center. 2023. https://www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/ 
-2. 4 Trustworthiness Factors, Nielsen Norman Group. 2021. https://www.youtube.com/watch?v=pAWcYSBQHNc  
+<footer>
+<h3 id="footnote-label">Footnotes</h3>
+<ol>
+<li id="fn1">Public Trust in Government: 1958-2023, <em>Pew Research Center.</em> 2023. <a href="https://www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/">www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/</a></li>
+<li id="fn2">4 Trustworthiness Factors, <em>Nielsen Norman Group.</em> 2021. <a href="https://www.youtube.com/watch?v=pAWcYSBQHNc>https://www.youtube.com/watch?v=pAWcYSBQHNc</a></li>  
+</ol>
+</footer>
