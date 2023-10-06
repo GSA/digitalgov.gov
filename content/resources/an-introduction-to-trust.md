@@ -27,7 +27,7 @@ Trusted digital services meet customer expectations, and they are easy to find, 
 
 Because websites are sometimes the only way the public interacts with agencies, it’s our duty to deliver a well-designed and helpful online experience. People expect government services to work well, especially online. When they don’t, it erodes public trust and reinforces negative perceptions of government.
 
-According to a 2022 report by Pew Research, “Public trust in government remains low. Only about one-quarter of Americans say they can trust the government in Washington to do what is right “just about always” (2%) or “most of the time” (22%).”1
+According to a 2022 report by Pew Research, “Public trust in government remains low. Only about one-quarter of Americans say they can trust the government in Washington to do what is right “just about always” (2%) or “most of the time” (22%).”<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>
 
 ## How to build websites that people can trust
 
@@ -36,7 +36,7 @@ There are practical steps you can take to meet the trust-related [federal web re
 1. **Improve design quality:** Have a clear and meaningful navigational structure, copyedited writing, and a professional looking visual design.
 2. **Upfront disclosure:** Prominently display contact information and provide clear links to policy or documentation.
 3. **Correct and current content:** Knowledge and intention should inform the organization of the website, and users should feel that your site is knowledgeable  and supportive of what they are trying to do.
-4. **Connection to the rest of the web:** Present links to other government sources to be transparent and inspire confidence in the services your agency provides.2
+4. **Connection to the rest of the web:** Present links to other government sources to be transparent and inspire confidence in the services your agency provides.<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[2]</a></sup>
 
 Trust is hard to earn, and even harder to regain once broken. Federal websites must demonstrate that they can be trusted by working well, meeting customer needs, and delivering real value. 
 
