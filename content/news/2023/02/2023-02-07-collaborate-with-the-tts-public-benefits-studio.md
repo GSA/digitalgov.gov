@@ -45,7 +45,7 @@ There are many reasons why **it’s advantageous for benefits agencies to offer 
 
 As our first bet, **the Studio is exploring opportunities to close this gap in adoption of plain-language, multi-channel notifications. We’re starting by piloting a digital notifications service, which we are currently calling Notify.gov**, designed to allow benefits program staff to start sending customized text messages to program participants at minimal cost. Notify.gov’s easy, web-based interface requires no technical expertise to use and can be set up in as little as 10 minutes.
 
-{{< img src="public-benefits-studio-u-s-notify-screencapture" alt="" >}}
+{{< img src="notify-gov-dashboard" alt="Screenshot of the Notify.gov dashboard page that displays the number of text messages sent over a period of time." >}}
 
 Notify.gov builds upon the success of open-source tools and service models from other government agencies (see: the United Kingdom’s [GOV.UK Notify](https://www.notifications.service.gov.uk/), Canada’s [GC Notify](https://notification.canada.ca/), and the U.S. Veterans Affairs’ [VANotify](https://va.org/the-department-of-veterans-affairs-launches-vanotify-expected-to-streamline-official-communication/)) and past government pilots from organizations like the Benefits Data Trust<sup><a aria-describedby="footnote-label" href="#fn2" id="footnotes-ref2">\[2]</a></sup> and Code for America<sup><a aria-describedby="footnote-label" href="#fn3" id="footnotes-ref3">\[3]</a></sup> that demonstrate meaningful outcomes across benefit programs.
 
