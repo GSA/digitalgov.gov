@@ -26,12 +26,12 @@ data:
       image: "legislative-stamp-card-logo.png"
       link_url: "https://www.govinfo.gov/app/details/PLAW-111publ274"
   featured_resources:
-    multiple: true
+    multiple: false
     resources:
       - link: "https://www.plainlanguage.gov/"
         kicker: "Plainlanguage.gov"
   communities:
-    multiple: true
+    multiple: false
     community:
       - link: "https://digital.gov/communities/plain-language/"
   top_resources_header: "Plain language: essential knowledge"
