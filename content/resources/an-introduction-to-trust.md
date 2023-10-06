@@ -8,7 +8,6 @@ summary: Guidance on how to build government websites that people can trust.
 topics:
   - trust
   - content-strategy
-  - customer-experience
   - governance
   - plain-language
 # Controls how this page appears across the site
