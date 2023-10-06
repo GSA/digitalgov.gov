@@ -7,9 +7,9 @@ slug: "21st-century-idea"
 # Topic Title
 title: "21st Century IDEA"
 
-# description — keep it short and clear
-summary: "Digital service delivery is about improving improve the digital experience for government customers and reinforcing existing requirements for federal public websites."
+deck: "21st Century IDEA aims to improve the digital experience for government customers."
 
+summary: "Guidance, resources, and community to help you to manage government websites that meet customer needs, work well on any device, and follow federal web requirements."
 
 # Weight
 weight: 2
@@ -84,7 +84,6 @@ data:
     - title: "Get .gov"
       href: "https://get.gov/"
       summary: ".gov is the top-level domain for U.S.-based government organizations. Host your site on a .gov or .mil domain to assure users it’s an official government site."
-    
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
 ---
