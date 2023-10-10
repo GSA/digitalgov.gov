@@ -1,4 +1,4 @@
-.---
+---
 # This topic lives at
 # https://digital.gov/topics/plain-language
 
