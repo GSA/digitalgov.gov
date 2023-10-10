@@ -33,7 +33,7 @@ data:
   communities:
     multiple: false
     community:
-      - link: "https://digital.gov/plain-language-community-of-practice"
+      - link: "/communities/plain-language-community-of-practice"
   top_resources_header: "Plain language: essential knowledge"
   top_resources:
     - title: "An introduction to plain language"
