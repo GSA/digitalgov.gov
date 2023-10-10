@@ -26,7 +26,7 @@ primary_image: 2023-uswds-monthly-call-september-title-card
 ---
 {{< asset-static file="uswds-monthly-call-september-2023.pptx" label="View the slides (PowerPoint presentation, 3.4 MB, 99 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for August 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2023, where we've celebrated Labor Day, shown here with a USWDS logo in red white and blue. And if you squint perhaps you can see the form of Rosie the Riveter, with her bicep, blue shirt, and red bandana?
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for September 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2023, where we've celebrated Labor Day, shown here with a USWDS logo in red white and blue. And if you squint perhaps you can see the form of Rosie the Riveter, with her bicep, blue shirt, and red bandana?
 
 And Saturday is the fall equinox, with the USWDS logo showing the seasons change: from green and gold, to brown and red.
 
