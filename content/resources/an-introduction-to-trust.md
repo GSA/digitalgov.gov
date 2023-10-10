@@ -31,7 +31,7 @@ According to a 2022 report by Pew Research, “Public trust in government remain
 
 ## How to build websites that people can trust
 
-There are practical steps you can take to meet the trust-related [federal web requirements](/resources/checklist-of-requirements-for-federal-digital-services/). Start improving in these four areas to increase the trustworthiness of your site:
+There are practical steps you can take to meet the trust-related [federal web requirements](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/). Start improving in these four areas to increase the trustworthiness of your site:
 
 1. **Improve design quality:** Have a clear and meaningful navigational structure, copyedited writing, and a professional looking visual design.
 2. **Upfront disclosure:** Prominently display contact information and provide clear links to policy or documentation.
@@ -48,7 +48,7 @@ Trust is hard to earn, and even harder to regain once broken. Federal websites m
 
 ## Connect with others interested in improving trust in government
 
-The Web Managers Community of Practice is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](/communities/web-content-managers/).
+The Web Managers Community of Practice is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).
 
 Developed in collaboration with GSA’s Service Design Program, Office of Customer Experience.
 
