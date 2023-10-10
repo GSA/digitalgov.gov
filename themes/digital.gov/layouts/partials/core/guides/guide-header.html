@@ -6,13 +6,20 @@
 {{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
 {{- $kicker := cond .IsNode (cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide") (cond (isset .Parent.Params "kicker") .Parent.Params.kicker "Digital.gov Guide") -}}
 {{- $glossary := cond .IsNode .Params.glossary .Parent.Params.glossary -}}
+{{ $landingURL := $guideData.landingURL }}
 
 
 <header class="dg-guide__header grid-container grid-container-desktop">
   <div class="dg-guide__header-title">
-    <a class="usa-link kicker" href="/guides/hcd/?dg"
-      >{{- $kicker | markdownify -}}</a
-    >
+    {{ if isset $guideData "landingURL" }}
+      <a class="usa-link kicker" href="{{ $landingURL | relURL }}"
+        >{{- $kicker | markdownify -}}</a
+      >
+    {{ else }}
+      <p class="kicker">{{- $kicker | markdownify -}}</p>
+    {{ end }}
+
+
     <h1>{{- $title | markdownify -}}</h1>
     <div class="deck">
       {{- $summary | markdownify -}}
