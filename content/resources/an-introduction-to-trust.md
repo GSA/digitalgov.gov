@@ -55,7 +55,7 @@ Developed in collaboration with GSA’s Service Design Program, Office of Custom
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">Public Trust in Government: 1958-2023, <em>Pew Research Center.</em> 2023. <a href="https://www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/">www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/</a></li>
-<li id="fn2">4 Trustworthiness Factors, <em>Nielsen Norman Group.</em> 2021. <a href="https://www.youtube.com/watch?v=pAWcYSBQHNc">https://www.youtube.com/watch?v=pAWcYSBQHNc</a></li>  
+<li id="fn1">Public Trust in Government: 1958-2023, <em>Pew Research Center.</em> 2023. <a href="https://www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/">www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/</a><a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn2">4 Trustworthiness Factors, <em>Nielsen Norman Group.</em> 2021. <a href="https://www.youtube.com/watch?v=pAWcYSBQHNc">https://www.youtube.com/watch?v=pAWcYSBQHNc</a><a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>  
 </ol>
 </footer>
