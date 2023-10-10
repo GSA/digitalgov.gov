@@ -1,6 +1,7 @@
 showNextPrevious: true
 showReadTime: true
 showInPageNav: false
+landingURL: "/guides/hcd"
 nav:
   - title: "Overview"
     path: "/guides/hcd/introduction/_index.md"
