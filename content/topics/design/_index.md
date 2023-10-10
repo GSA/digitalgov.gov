@@ -52,7 +52,6 @@ data:
     - title: "Bringing design in-house"
       href: "/2023/01/27/bringing-design-in-house/"
       summary: "What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative."
-      topic_redirect: true
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
 ---
