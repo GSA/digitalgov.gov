@@ -1,4 +1,4 @@
----
+.---
 # This topic lives at
 # https://digital.gov/topics/plain-language
 
@@ -33,7 +33,7 @@ data:
   communities:
     multiple: false
     community:
-      - link: "https://digital.gov/communities/plain-language/"
+      - link: "https://digital.gov/plain-language-community-of-practice"
   top_resources_header: "Plain language: essential knowledge"
   top_resources:
     - title: "An introduction to plain language"
