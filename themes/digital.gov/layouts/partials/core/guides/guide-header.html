@@ -4,7 +4,7 @@
 {{ end }}
 {{- $title := cond .IsNode .Title .Parent.Title -}}
 {{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
-{{- $kicker := cond .IsNode (cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide") (cond (isset .Parent.Params "kicker") .Parent.Params.kicker "Digital.gov Guide") | markdownify -}}
+{{- $kicker := cond .IsNode (cond (isset .Params "kicker") .Params.kicker "Digital.gov Guide") (cond (isset .Parent.Params "kicker") .Parent.Params.kicker "Digital.gov Guide") -}}
 {{- $glossary := cond .IsNode .Params.glossary .Parent.Params.glossary -}}
 {{ $landingURL := $guideData.landingURL }}
 
