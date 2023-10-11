@@ -2,8 +2,7 @@
 title: USWDS Monthly Call - October 2023
 deck: How to develop a sustainable, repeatable research process
 kicker: Conducting user research with people with disabilities
-summary: This month we'll share progress and findings from our recent effort to
-  improve our ongoing research practice.
+summary: This month, we'll share progress and findings from our recent effort to improve our ongoing research practice.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 cop_events: ""
@@ -25,7 +24,9 @@ slug: uswds-monthly-call-october-2023
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-oct-title-card
+
 ---
+
 One of our roadmap goals is to conduct more user research with people with disabilities — and to ensure we’re doing so regularly. 
 
 Over the last few months, we've made a lot of progress. This month we'll share our progress and report on findings from our first round of this research: conducting usability tests on [Design System components](https://designsystem.digital.gov/components/overview/) focused on users with visual impairments.
@@ -50,11 +51,11 @@ We’ll discuss:
 
 ## Related resources
 
-[https://designsystem.digital.gov/documentation/accessibility/](https://designsystem.digital.gov/documentation/accessibility/)
+[Accessibility: Usability for every ability](https://designsystem.digital.gov/documentation/accessibility/)
 
-[https://accessibility.digital.gov/](https://accessibility.digital.gov/)
+[Accessibility for Teams](https://accessibility.digital.gov/)
 
-[https://digital.gov/event/2023/02/07/increasing-public-participation-in-user-research/](https://digital.gov/event/2023/02/07/increasing-public-participation-in-user-research/)
+[Increasing public participation in user research](https://digital.gov/event/2023/02/07/increasing-public-participation-in-user-research/)
 
 ## Join our Communities of Practice
 
