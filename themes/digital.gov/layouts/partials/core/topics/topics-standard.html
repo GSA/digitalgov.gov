@@ -9,14 +9,16 @@
     <div class="grid-col-12">
       <header class="page-header">
         <h1>{{- .Title -}}</h1>
-        {{- $allpages := (where .Pages "Section" "news") -}}
+        {{/* TODO: move to where it is used :81 */}}
+
+
         <p class="deck">{{- .Params.summary -}}</p>
       </header>
     </div>
   </div>
 
   {{/* If the topic page has Content */}}
-  {{/* @TODO Confirm output, if not remove. */}}
+  {{/* TODO: Confirm output, if not remove. */}}
   {{- if .Content -}}
     <div class="content usa-prose">
       {{- .Content -}}
@@ -73,6 +75,7 @@
 
           {{/* If there are any blog posts at all... */}}
           {{- if $stream -}}
+            {{- $allpages := (where .Pages "Section" "news") -}}
             <h2 class="main-topic__news-featured-header">
               News and Events on
               {{ .Title -}}

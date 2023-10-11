@@ -1,0 +1,82 @@
+@use "uswds-core" as *;
+
+.dg-topic {
+  &__header {
+    margin-top: units(2);
+    padding-bottom: units(1);
+  }
+
+  &__header-title {
+    font-size: 2.5rem;
+    margin: 0;
+
+    &--collection {
+      font-weight: 900;
+    }
+  }
+
+  &__header-deck {
+    margin: 0;
+    @include u-font("sans", "lg");
+    @include u-text("light");
+    @include u-text("primary-darker");
+    @include u-line-height("sans", 2);
+
+    @include at-media("tablet") {
+      @include u-font("sans", "xl");
+      @include u-line-height("sans", 2);
+    }
+  }
+
+  &__summary {
+    @include u-font("sans", "lg");
+    font-weight: font-weight("light");
+    line-height: 1.5;
+    padding-bottom: units(4);
+  }
+
+  &__description {
+    padding-top: units(4);
+
+    &-summary {
+      @include u-font("sans", "lg");
+      font-weight: font-weight("light");
+      line-height: 1.5;
+      padding-bottom: units(4);
+    }
+
+    .usa-card-group {
+      @include at-media("desktop") {
+        left: 0.55rem;
+        margin: 0;
+        position: relative;
+      }
+
+      .usa-card__img {
+        background-color: white;
+      }
+
+      .usa-card__heading {
+        font-size: 1.1rem;
+      }
+
+      img {
+        object-fit: contain;
+      }
+    }
+  }
+
+  &__featured-resources {
+    .dg-featured-resource {
+      max-width: none;
+    }
+
+    .dg-featured-resource__body {
+      margin: 1.5rem 0;
+    }
+  }
+
+  &__top-resources {
+    padding-bottom: units(4);
+  }
+}
