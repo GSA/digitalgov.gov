@@ -21,6 +21,8 @@ slug: backlogs-and-why-every-website-needs-one
 event_platform: zoom
 primary_image: "backlogs-and-why-every-website-needs-one-title-card"
 ---
+{{< asset-static file="backlogs-and-why-every-website-needs-one-slides.pptx" label="View the slides (PowerPoint presentation, 5.8 MB, 43 pages)" >}}
+
 Come learn about backlogs and how they can support iterative development practices that focus on delivering value to users. Speakers will share case studies from [Touchpoints](https://touchpoints.digital.gov/), [GSA SmartPay](https://smartpay.gsa.gov/), and [Search.gov](https://search.gov/).
 
 In this session, we’ll discuss:
