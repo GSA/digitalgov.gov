@@ -21,7 +21,7 @@
   @param {string} header_id - The relative path to the file, for example "v21st-century-idea"
 
   @param {number} list_header - Set the header size from 1-6, defaults to 3 if number provided is greater than 6
-  @param {string} footer_text - Set a short string description (defaults to topic name) at the footer to link to other page that reads "More on {{ $footer_text }}"
+  @param {string} footer - Dictionary with title and href for setting a footer message that reads "More on topic"
 @param {string} meta_source - The referring source for an external link that
 reads "Performance.gov". Use .Params.source if using a resources collection
 @param {boolean} list_default_width - true will default uswds width of 72ex,
@@ -29,7 +29,6 @@ false will set to 100% full width @param {boolean} is_truncated - true will
 truncate the list item description summary to 140 characters, false will display
 full summary @example
 {{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
-
 */}}
 <!-- prettier-ignore-end -->
 {{ $collection_data := .collection_data }}
@@ -41,7 +40,7 @@ full summary @example
 {{ $header_link := $settings.header_link }}
 {{ $header_id := $settings.header_id }}
 {{ $list_header := $settings.list_header }}
-{{ $footer_text := $settings.footer_text }}
+{{ $footer := $settings.footer }}
 {{ $meta_source := $settings.meta_source }}
 {{ $list_default_width := $settings.list_default_width | default true }}
 {{ $is_truncated := $settings.is_truncated | default true }}
@@ -63,11 +62,11 @@ full summary @example
       </div>
     </div>
 
-    {{ if $footer_text }}
+    {{ if $footer.title }}
       <div class="dg-collection__footer">
         <p class="dg-collection__more">
-          <a href="{{- $header_link -}}">
-            <span>More on {{ $footer_text }}</span>
+          <a href="{{- $footer.href -}}">
+            <span>{{ $footer.title }}</span>
             <svg
               class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
               aria-hidden="true"

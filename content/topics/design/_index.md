@@ -21,45 +21,42 @@ weight: 2
 # - Remove redundant settings, like `multiple`. Check length of array instead.
 
 # display topic-collection template for this topic
+# @TODO: Remove this option.
 topic_collection: true
 
 # populate the topic-collection template with featured links
 legislation:
-  image: "legislative-stamp-card-logo.png"
   title: "21st Century Integrated Digital Experience Act"
-  link:
-    # Optional label.
-    label: "View policy"
-    # Use `relURL` filter in template.
-    href: "https://digital.gov/resources/21st-century-integrated-digital-experience-act/"
+  link: "/resources/21st-century-integrated-digital-experience-act/"
 
 featured_resources:
   resources:
-    - kicker: "Human-centered design guide series"
-      link: "/guides/hcd/discovery-concepts"
-    - kicker: "Human-centered design guide series"
-      link: "/guides/hcd/discovery-concepts"
+    - link: "/guides/hcd/discovery-concepts"
 
+# @TODO: Update template to include path with fallback if wrong/nonexistant.
+# Avoid issue with `plain-language` vs `plain-language-community-of-practice`
 related_communities:
-  - "/communities/user-experience"
-  - "/communities/social-media"
+  - "user-experience"
 
 top_resources:
   title: "Design: essential knowledge"
   resources:
-  - title: "An introduction to design requirements"
+  - title: "An introduction to design"
     summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started."
-    href: "/resources/an-introduction-to-design-requirements/"
+    href: "/resources/an-introduction-to-design/"
+  - title: "An introduction to design systems"
+    summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started."
+    href: "/resources/introduction-to-design-systems/"
   - title: "USWDS design principles"
     summary: "Earn trust by following consistent design principles."
     href: "https://designsystem.digital.gov/design-principles/"
-  - title: "Get .gov"
-    summary: ".gov is the top-level domain for U.S.-based government organizations. Host your site on a .gov or .mil domain to assure users it’s an official government site."
-    href: "https://get.gov/"
-  - title: "To build trust, aim for easy"
-    summary: "Trust is earned through consistency and commitment. Build sites that build trust by considering user needs, respecting people’s time, and avoiding customer experience pitfalls."
-    href: "https://digital.gov/2022/12/13/to-build-trust-aim-for-easy/"
-  # Footer should generated in code, but allow users to override.
+  - title: "Understanding design in 10 questions"
+    summary: "Learn how the discipline of design can help your agency improve customer experience."
+    href: "/2023/03/03/understanding-design-in-10-questions/"
+  - title: "Bringing design in-house"
+    summary: "What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative."
+    href: "/2023/01/27/bringing-design-in-house/"
+  # @TODO: fixed collection logic for default message
   footer:
     title: "See more design resources"
     # Remove this URL if we're just re-linking to the page we're currently on.

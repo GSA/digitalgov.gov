@@ -1,0 +1,41 @@
+{{ $card_data := .card_data }}
+
+
+<div class="desktop:grid-col dg-card-legislation">
+  <ul class="usa-card-group">
+    <li class="usa-card usa-card--flag">
+      <div class="usa-card__container">
+        {{ if $card_data.title }}
+          <div class="usa-card__header">
+            <h2 class="dg-featured-resource__text-kicker">Related Policy</h2>
+            <h2 class="usa-card__heading">
+              {{ $card_data.title }}
+            </h2>
+          </div>
+        {{ end }}
+        <div class="usa-card__media">
+          <div class="usa-card__img">
+            <img
+              src="{{ .image }}/legislative-stamp-card-logo.png"
+              alt="21 Century IDEA image"
+            />
+          </div>
+        </div>
+        <div class="usa-card__body">
+          {{ if $card_data.description }}
+            <p>
+              {{ $card_data.description }}
+            </p>
+          {{ end }}
+        </div>
+        <div class="usa-card__footer">
+          {{ if $card_data.link }}
+            <a href="{{- $card_data.link | relURL -}}" class="usa-button"
+              >View policy</a
+            >
+          {{ end }}
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
