@@ -26,7 +26,7 @@ primary_image: 2023-uswds-monthly-call-september-title-card
 ---
 {{< asset-static file="uswds-monthly-call-september-2023.pptx" label="View the slides (PowerPoint presentation, 3.4 MB, 99 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for August 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2023, where we've celebrated Labor Day, shown here with a USWDS logo in red white and blue. And if you squint perhaps you can see the form of Rosie the Riveter, with her bicep, blue shirt, and red bandana?
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for September 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2023, where we've celebrated Labor Day, shown here with a USWDS logo in red white and blue. And if you squint perhaps you can see the form of Rosie the Riveter, with her bicep, blue shirt, and red bandana?
 
 And Saturday is the fall equinox, with the USWDS logo showing the seasons change: from green and gold, to brown and red.
 
@@ -50,7 +50,7 @@ And finally we'll continue our discussion from last month, stepping back from ou
 
 **Slide 4:** So let's get into it with site launches.
 
-**Slide 5:** Today we've got a new redesign launch from 18F, built on USWDS 3. 18F is, like us, a part of GSA's Technology Transformation Services. 18F helps other government agencies build, buy, and share technology products. Their redesigned website homepage features a crisp, simple layout, focussed on the words "18F knows how to work within government because we're already here," alongside a schematic illustration of connected government products.
+**Slide 5:** Today we've got a new redesign launch from 18F, built on USWDS 3. 18F is, like us, a part of GSA's Technology Transformation Services. 18F helps other government agencies build, buy, and share technology products. Their redesigned website homepage features a crisp, simple layout, focused on the words "18F knows how to work within government because we're already here," alongside a schematic illustration of connected government products.
 
 **Slide 6:** Congratulations to the team! And be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
@@ -120,7 +120,7 @@ We didn't have an explicit mission or vision in those days, but you can see thes
 
 **Slide 20:** At this point, we —then, a two-person team maintaining the design system — decided we needed a mission and a vision. But why?
 
-**Slide 21:** Our mission and vision was meant to give us stability through all this change, to keep us focussed on what was really important, and on what we knew was important to the teams that use or might use the design system.
+**Slide 21:** Our mission and vision was meant to give us stability through all this change, to keep us focused on what was really important, and on what we knew was important to the teams that use or might use the design system.
 
 **Slide 22:** So in 2020, we developed the mission and vision that [you can see on the USWDS website today](https://designsystem.digital.gov/about/). Our mission:
 
@@ -288,7 +288,7 @@ So what did we find?
 
 **Slide 82:** We identified some descriptive words that describe our best future. Words like **Empowered**, **Centered**, **Equitable**, **Trustworthy**, **Familiar**, **Reliable**, and **Better**.
 
-**Slide 83:** Thinking about the future, I keep coming back to the Jane Jacobs quote we looked at last week: “Development isn’t a collection of things, it’s a process that yields things.” It's a warning about seeking solutions that exist outside of the culture that supports them, focussing only on the outputs and not a process that sustains them.
+**Slide 83:** Thinking about the future, I keep coming back to the Jane Jacobs quote we looked at last week: “Development isn’t a collection of things, it’s a process that yields things.” It's a warning about seeking solutions that exist outside of the culture that supports them, focusing only on the outputs and not a process that sustains them.
 
 **Slide 84:** When we think about our vision of the future, no valuable, generative future is sustainable without people and process.
 
@@ -310,7 +310,7 @@ So what did we find?
 
 **Slide 93:** Together, this USWDS mission, vision, and polestar function as a better strategic tool as we evolve as a product and as the expectations teams and the public have for us evolve as well. 
 
-Our mission — **Shaping the future of government services** — keeps the future always in front of us, focussed on a dynamic, collaborative creative process.
+Our mission — **Shaping the future of government services** — keeps the future always in front of us, focused on a dynamic, collaborative creative process.
 
 Our vision — **Empowered and supported digital service teams Familiar and easy-to-use digital services.** — helps us more fully understand our value and the goals of this process.
 

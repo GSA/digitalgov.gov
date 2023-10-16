@@ -1,9 +1,13 @@
 ---
-# View this page at https://digital.gov/resources/best-practices-for-writing-for-accessible
+# View this page at https://digital.gov/resources/best-practices-writing-for-accessible-web
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
-slug: best-practices-for-writing-for-accessible
+slug: best-practices-writing-for-accessible-web
+
+aliases:
+  - /resources/best-practices-for-writing-for-accessible/
+
 date: 2020-07-02 14:00:00 -0500
 title: "Best Practices for Writing for the Accessible Web"
 deck: ""
@@ -20,6 +24,7 @@ topics:
 authors:
   - ryan-johnson
 # Make it better ♥
+
 ---
 
 When developing accessible content, authors need to think about how users will access and engage with content both visually or auditorily. By considering the following ways to create accessible content, you can enhance the way content is searched, used, and accessed. Here are some important Do’s and Don’ts to help you think about creating accessible content.
@@ -106,4 +111,4 @@ Thinking about accessibility goes well beyond simply making sure content is read
 
 As content creators, we need to think about the purpose and mission, not just of individual components of a digital content, but how these components fit together to optimize the user experience for everyone, especially for those with accessible needs.
 
-For more information on how you can create accessible web development, watch this [presentation](https://digital.gov/event/2020/03/20/writing-for-accessible-web/) from 18F Content Strategist, Ryan Johnson.
+For more information on how you can create accessible web development, [watch this presentation](https://digital.gov/event/2020/03/20/writing-for-accessible-web/) from 18F Content Strategist, Ryan Johnson.
