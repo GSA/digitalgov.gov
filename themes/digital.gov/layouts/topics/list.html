@@ -39,7 +39,7 @@
     </header>
 
     {{/* Collection — Summary & Legislation */}}
-    {{ if $is_collection }}
+    {{ if or .Params.summary .Params.legislation }}
       <div
         class="grid-container-desktop margin-top-2"
         data-gh-edit-page="{{- $path -}}"
@@ -55,40 +55,38 @@
           {{ end }}
         </div>
       </div>
-
-      {{/* Collection — Featured Resources */}}
-      {{ if or .Params.featured_resources .Params.related_communities }}
-        <div
-          class="dg-topic__featured grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
-          {{ range .Params.featured_resources.resources }}
-            {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" .kicker ) -}}
-          {{ end }}
-
-          {{ range .Params.related_communities }}
-            {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" (printf "/communities/%s" .) "kicker" "Join the community" ) -}}
-          {{ end }}
-        </div>
-      {{ end }}
     {{ end }}
 
-    {{ if $is_collection }}
-      {{/* Collection Top Resources */}}
-      {{ if .Params.top_resources }}
-        <div class="grid-container-desktop margin-y-6">
-          {{ if .Params.top_resources.title }}
-            <h2>{{ .Params.top_resources.title }}</h2>
-          {{ else }}
-            <h2>What you need to know</h2>
-          {{ end }}
+    {{/* Collection — Featured Resources */}}
+    {{ if or .Params.featured_resources .Params.related_communities }}
+      <div
+        class="dg-topic__featured grid-container-desktop"
+        data-gh-edit-page="{{- $path -}}"
+      >
+        {{ range .Params.featured_resources.resources }}
+          {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" .kicker ) -}}
+        {{ end }}
 
-          {{ $top_resources := .Params.top_resources.resources }}
-          {{ $footer := ( dict "title" .Params.top_resources.footer.title "href" .Params.top_resources.footer.href ) }}
-          {{ $collection_settings := ( dict "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "footer" $footer ) }}
-          {{- partial "partials/core/collection/collection.html" (dict "collection_data" $top_resources "settings" $collection_settings) -}}
-        </div>
-      {{ end }}
+        {{ range .Params.related_communities }}
+          {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" (printf "/communities/%s" .) "kicker" "Join the community" ) -}}
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ if .Params.top_resources }}
+      {{/* Collection Top Resources */}}
+      <div class="grid-container-desktop margin-y-6">
+        {{ if .Params.top_resources.title }}
+          <h2>{{ .Params.top_resources.title }}</h2>
+        {{ else }}
+          <h2>What you need to know</h2>
+        {{ end }}
+
+        {{ $top_resources := .Params.top_resources.resources }}
+        {{ $footer := ( dict "title" .Params.top_resources.footer.title "href" .Params.top_resources.footer.href ) }}
+        {{ $collection_settings := ( dict "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "footer" $footer ) }}
+        {{- partial "partials/core/collection/collection.html" (dict "collection_data" $top_resources "settings" $collection_settings) -}}
+      </div>
     {{ else }}
       {{/* Default - Related resources, services, and communities */}}
       <div class="grid-container-desktop margin-top-2">
@@ -106,23 +104,18 @@
       </div>
     {{ end }}
 
-    {{ if $is_collection }}
+    {{/* Topic Collection will always have a legislation card, use this as flag to display first 5 events & news */}}
+    {{ if .Params.legislation }}
       <section class="dg-stream padding-bottom-2">
         <div class="grid-row grid-container-desktop">
-          {{/* Get all events, grab first 5 DESC */}}
+          {{/* Display first 5 events */}}
           {{- $events := first 5 (where .Site.Pages.ByDate.Reverse "Section" "events") -}}
 
-          {{/* If there are any events */}}
           {{- if $events -}}
             <h2>{{ .Title }} events</h2>
 
-            {{/* Loop through the first 4 events */}}
             {{- range $events -}}
-              {{- if .Params.registration_url -}}
-                {{- .Render "card-event" -}}
-              {{- else -}}
-                {{- .Render "card-event" -}}
-              {{- end -}}
+              {{- .Render "card-event" -}}
             {{- end -}}
           {{- else -}}
             <h3>No Events to Display</h3>
@@ -130,26 +123,19 @@
         </div>
 
         <div class="grid-row grid-container-desktop">
-          {{/* Gets the recent blog posts */}}
+          {{/* Display first 5 news posts */}}
           {{- $posts := first 5 (where .Paginator.Pages "Section" "news") -}}
-
-          {{/* Sorting all the items by date and reverse chron */}}
           {{- $posts_stream := $posts.ByDate.Reverse -}}
 
-          {{/* If there are any events */}}
           {{- if $posts_stream -}}
             <h2>{{ .Title }} news</h2>
 
-            {{/* Loop through first 5 pages */}}
             {{- range $posts_stream -}}
               {{- if .Params.source -}}
+                {{/* Display external links, see layouts/news for news card template */}}
                 {{- .Render "card-elsewhere" -}}
               {{- else -}}
-                {{- if .Params.deck }}
-                  {{ .Render "card-article" }}
-                {{- else -}}
-                  {{ .Render "card-article" }}
-                {{- end -}}
+                {{ .Render "card-article" }}
               {{- end -}}
             {{- end -}}
           {{- end -}}
@@ -159,55 +145,35 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-4">
           <div class="grid-col-12 ">
-            {{/* Gets the past events */}}
+            {{/* Display events and news in one stream with pagination for topic default */}}
             {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-            {{/* Gets the past events that have youtube_id set */}}
             {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-
-            {{/* Gets the recent blog posts */}}
             {{- $posts := where .Paginator.Pages "Section" "news" -}}
-
-            {{/* Merges the past events and the recent blog posts */}}
             {{- $stream := union $posts $past_events -}}
-
-            {{/* Sorting all the items by date and reverse chron */}}
             {{- $stream := $stream.ByDate.Reverse -}}
+            {{- $newsPostCount := (where .Pages "Section" "news") -}}
 
-            {{- $allpages := (where .Pages "Section" "news") -}}
-
-            {{/* If there are any blog posts at all... */}}
             {{- if $stream -}}
-
               <h2>
                 News and Events on
                 {{ .Title -}}
               </h2>
-              <p>{{- len $allpages }} posts</p>
+              <p>{{- len $newsPostCount }} posts</p>
 
-              {{/* Loop through all the pages */}}
               {{- range $stream -}}
                 {{- if eq .Type "events" -}}
                   {{- .Render "card-event" -}}
                 {{- end -}}
 
                 {{- if eq .Type "news" -}}
-                  {{/* External links */}}
+                  {{/* Display external links, see layouts/news for news card template */}}
                   {{- if .Params.source -}}
-                    {{/* see /layouts/news/ for card templates */}}
                     {{ .Render "card-elsewhere" }}
                   {{ else }}
-                    {{/* Blog Posts — Internal links */}}
-                    {{- if .Params.deck }}
-                      {{/* see /layouts/news/ for card templates */}}
-                      {{ .Render "card-article" }}
-                    {{ else }}
-                      {{/* see /layouts/news/ for card templates */}}
-                      {{ .Render "card-article" }}
-                    {{ end }}
+                    {{/* Internal links */}}
+                    {{ .Render "card-article" }}
                   {{ end }}
                 {{- end -}}
-
               {{- end -}}
             {{- end -}}
 
@@ -217,7 +183,8 @@
       </div>
     {{ end }}
 
-    {{ if $is_collection }}
+    {{ if .Params.legislation }}
+      {{/* Display remaining resources, events and news for topic collection */}}
       <section class="grid-container-desktop margin-top-2">
         {{- $resources := (where .Pages "Section" "resources") -}}
         {{- $resource_settings := ( dict "header_title" (print "More Resources on " .Title) "header_size" 2 "list_default_width" false "variant" "media" "list_header" 3) -}}
@@ -228,55 +195,35 @@
         {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
       </section>
       <div class="grid-container grid-container-desktop">
-        {{/* Gets the past events */}}
+        {{/* Display the next set of events and news pages after the first 5 */}}
         {{- $past_events := after 5 (where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix) -}}
-
-        {{/* Gets the past events that have youtube_id set */}}
         {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-
-        {{/* Gets the recent blog posts */}}
         {{- $posts := after 5 (where .Paginator.Pages "Section" "news") -}}
-
-        {{/* Merges the past events and the recent blog posts */}}
         {{- $stream := union $posts $past_events -}}
-
-        {{/* Sorting all the items by date and reverse chron */}}
         {{- $stream := $stream.ByDate.Reverse -}}
+        {{- $newsPostCount := (where .Pages "Section" "news") -}}
 
-        {{- $allpages := (where .Pages "Section" "news") -}}
-
-        {{/* If there are any blog posts at all... */}}
         {{- if $stream -}}
-
           <h2>
             More News and Events on
             {{ .Title -}}
           </h2>
-          <p>{{- len $allpages }} posts</p>
+          <p>{{- len $newsPostCount }} posts</p>
 
-          {{/* Loop through all the pages */}}
           {{- range $stream -}}
             {{- if eq .Type "events" -}}
               {{- .Render "card-event" -}}
             {{- end -}}
 
             {{- if eq .Type "news" -}}
-              {{/* External links */}}
+              {{/* Display external links, see layouts/news for news card template */}}
               {{- if .Params.source -}}
-                {{/* see /layouts/news/ for card templates */}}
                 {{ .Render "card-elsewhere" }}
               {{ else }}
-                {{/* Blog Posts — Internal links */}}
-                {{- if .Params.deck }}
-                  {{/* see /layouts/news/ for card templates */}}
-                  {{ .Render "card-article" }}
-                {{ else }}
-                  {{/* see /layouts/news/ for card templates */}}
-                  {{ .Render "card-article" }}
-                {{ end }}
+                {{/* Display internal links */}}
+                {{ .Render "card-article" }}
               {{ end }}
             {{- end -}}
-
           {{- end -}}
         {{- end -}}
 

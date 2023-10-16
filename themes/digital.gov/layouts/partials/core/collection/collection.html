@@ -1,51 +1,44 @@
-<!-- prettier-ignore-start -->
 {{/* Collection Component
 
-  Wrapper component around uswds-collection that returns a collection of links built from a list of resources
+  Wrapper component around uswds-collection that returns a collection of links built from a list of internal resources or external links.
+  Takes in a collection_data object and settings object
 
-  @param {object} data - The collection of pages or links that have a required header, description, link
-  - header that can be a link or plain header text
-  - description text that follows the header
-  - link url for internal and external pages
-  - internal: "/resources/how-test-websites-for-accessibility/?dg"
-  - external: "https://designsystem.digital.gov/maturity-model/"
-  - meta source is the source site name for the link when the "headings" variant is used
+  @param {object} collection_data - List of pages or links that have a required header, description, link
+  @param {string} collection_data.header - header that can be a link or plain header text
+  @param {string} collection_data.summary - description text that follows the header
+  @param {string} collection_data.href - link url for internal pages and external sites
 
-  @param {number} length - The limit on the number of link items to display, defaults to 10 if not set
-  @param {string} variant - The variant to render for the collection-list-item which can be one of the following: "default" "media" "headings"
-  see https://designsystem.digital.gov/components/collection/ for variants
+  @param {object} settings — Settings to control how the collection list should be displayed
+  @param {string} settings.variant — collection list type according to https://designsystem.digital.gov/components/collection/
+  - @type default - displays title and description. Used for hugo internal pages
+  - @type media - displays agency icon, title and description. Used for hugo internal pages
+  - @type headings - display title and meta_source. Used for external links
+  - @type custom - displays agency icon, title and description. Used for custom data set in front matter pages like topic/design
+  @param {number} settings.limit — number of list items to be displayed, defaults to 10 max
+  @param {string} settings.header_title — header title at top of the list
+  @param {string} settings.header_size — list item header size ranging from h1-h6
+  @param {string} settings.header_link — if present will make the header a link, otherwise just a plain header
+  @param {string} settings.header_id — The relative path to the file, for example "v21st-century-idea"
+  @param {string} settings.meta_source - The referring source for an external link used with the "headings" variant that reads "Performance.gov".
+  - @description - Pass in .Params.source if using a set of resources pages for the collection component, otherwise provide a external link source
+  @param {string} settings.list_default_width - true will use USWDS default width of 72ex, false will set to 100% full width
+  @param {object} settings.footer - an object for setting the footer message
+  - @param {string } settings.footer.title - link text that should read "More on ..." with an arrow icon before the text
+  - @param {string } settings.footer.href - url for the link
 
-  @param {string} header_title - The title for the header
-  @param {number} header_size - Set the header size from 1-6, defaults to 3 if number provided is greater than 6
-  @param {url} header_link - If present will render a link within the header, otherwise just a plain header
-  @param {string} header_id - The relative path to the file, for example "v21st-century-idea"
-
-  @param {number} list_header - Set the header size from 1-6, defaults to 3 if number provided is greater than 6
-  @param {string} footer - Dictionary with title and href for setting a footer message that reads "More on topic"
-@param {string} meta_source - The referring source for an external link that
-reads "Performance.gov". Use .Params.source if using a resources collection
-@param {boolean} list_default_width - true will default uswds width of 72ex,
-false will set to 100% full width @param {boolean} is_truncated - true will
-truncate the list item description summary to 140 characters, false will display
-full summary @example
-{{- partial "core/collection.html" (dict "data" $resources_by_topic "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 3) -}}
+  @example
+  {{ $top_resources := .Params.top_resources.resources
+}}
+{{ $footer := ( dict "title" .Params.top_resources.footer.title "href" .Params.top_resources.footer.href ) }}
+{{ $collection_settings := ( dict "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "footer" $footer ) }}
+{{- partial "partials/core/collection/collection.html" (dict "collection_data" $top_resources "settings" $collection_settings) -}}
 */}}
-<!-- prettier-ignore-end -->
-{{ $collection_data := .collection_data }}
 {{ $settings := .settings }}
-{{ $variant := $settings.variant }}
-{{ $length := or $settings.limit 10 }}
-{{ $header_title := $settings.header_title }}
-{{ $header_size := $settings.header_size }}
-{{ $header_link := $settings.header_link }}
-{{ $header_id := $settings.header_id }}
-{{ $list_header := $settings.list_header }}
-{{ $footer := $settings.footer }}
-{{ $meta_source := $settings.meta_source }}
+{{ $collection_data := .collection_data }}
+{{ $collection_settings := ( dict "length" (or $settings.limit 10) "variant" $settings.variant "list_header" $settings.list_header "meta_source" $settings.meta_source "list_default_width" ($settings.list_default_width | default true)) }}
+{{ $header_data := ( dict "title" $settings.header_title "size" $settings.header_size "link" $settings.header_link "id" $settings.header_id ) }}
 {{ $list_default_width := $settings.list_default_width | default true }}
-{{ $is_truncated := $settings.is_truncated | default true }}
-{{ $settings := ( dict "length" $length "variant" $variant "list_header" $list_header "meta_source" $meta_source "list_default_width" $list_default_width "is_truncated" $is_truncated) }}
-{{ $header_data := ( dict "title" $header_title "size" $header_size "link" $header_link "id" $header_id ) }}
+{{ $footer := $settings.footer }}
 
 {{ if $collection_data }}
   <div class="dg-collection">
@@ -55,17 +48,17 @@ full summary @example
           tablet-lg:grid-col-10
         {{ end }}"
       >
-        {{ if $header_title }}
+        {{ if $settings.header_title }}
           {{ partial "core/collection/collection-header" (dict "data" $header_data) }}
         {{ end }}
-        {{ partial "core/usa-collection" (dict "collection_data" $collection_data "settings" $settings) }}
+        {{ partial "core/usa-collection" (dict "collection_data" $collection_data "settings" $collection_settings) }}
       </div>
     </div>
 
     {{ if $footer.title }}
       <div class="dg-collection__footer">
         <p class="dg-collection__more">
-          <a href="{{- $footer.href -}}">
+          <a href="{{- $footer.href | relURL -}}">
             <span>{{ $footer.title }}</span>
             <svg
               class="usa-icon dg-icon dg-icon--standard margin-bottom-05"

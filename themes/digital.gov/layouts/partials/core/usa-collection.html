@@ -1,11 +1,10 @@
 {{/* USWDS Collection Component — https://designsystem.digital.gov/components/collection/
   Renders a USWDS unordered list wrapped around dg-collection component
 
-
-
   @see core/collection/collection.html for description of other variables
   @param {relpath|url} href - Accepts a string path to resource, either internal or external
   @param {string} logo_source - Path to agency logo, can be internal or external. Value is calculated from front matter fields to lookup agency logo
+  @param {string} url - the name of the external link to be displayed on "headings" collection lists, should read hostname.domain like "Performance.gov"
 */}}
 
 {{ $collection_data := .collection_data }}
@@ -15,6 +14,7 @@
 {{ $page_href := "" }}
 {{ $title := "" }}
 {{ $summary := "" }}
+{{ $path := "" }}
 {{ $topic_icon := "" }}
 {{ $logo_source := "" }}
 {{ $variant := $settings.variant }}
@@ -22,7 +22,6 @@
 {{ $meta_source := $settings.meta_source }}
 {{ $list_header := $settings.list_header }}
 {{ $list_default_width := $settings.list_default_width }}
-{{ $is_truncated := $settings.is_truncated }}
 
 
 <ul class="usa-collection">
@@ -63,17 +62,22 @@
         {{ $href = .href }}
         {{ $title = .title }}
         {{ $summary = .summary }}
-        {{ $topic_icon = .topic_redirect }}
+        {{/* TODO: Need to lookup $href and return filepath to set $path for github editing */}}
       {{ end }}
 
-      {{/* Build the data object for each list item */}}
+      {{/* List item data */}}
       {{ $item_title := or .Params.title $title }}
       {{ $item_summary := or (or .Params.summary .Params.deck ) $summary }}
       {{ $item_href := $href }}
       {{ $list_item_data := ( dict "title" $item_title "summary" $item_summary "href" $href ) }}
 
-      {{/* Build Settings Object */}}
-      {{ $settings := (dict "logo_source" $logo_source "topic_icon" $topic_icon "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "is_truncated" $is_truncated ) }}
+      {{/* Set filepath with before injecting into collection-list-item partial */}}
+      {{ if .IsPage }}
+        {{ $path = .Page.File.Path }}
+      {{ end }}
+
+      {{/* List item settings */}}
+      {{ $settings := (dict "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "path" $path ) }}
 
       {{/* If image exists, then display as list item */}}
       {{ if $logo_source }}

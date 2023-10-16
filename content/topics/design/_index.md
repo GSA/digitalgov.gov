@@ -16,13 +16,6 @@ weight: 2
 
 # Overall guidance:
 # - Prefer setting section titles and footers in code, with option of user override.
-# - Place items in the order they appear, ex: image first.
-# - Remove unused settings, like description.
-# - Remove redundant settings, like `multiple`. Check length of array instead.
-
-# display topic-collection template for this topic
-# @TODO: Remove this option.
-topic_collection: true
 
 # populate the topic-collection template with featured links
 legislation:
@@ -33,8 +26,6 @@ featured_resources:
   resources:
     - link: "/guides/hcd/discovery-concepts"
 
-# @TODO: Update template to include path with fallback if wrong/nonexistant.
-# Avoid issue with `plain-language` vs `plain-language-community-of-practice`
 related_communities:
   - "user-experience"
 
@@ -56,10 +47,4 @@ top_resources:
   - title: "Bringing design in-house"
     summary: "What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative."
     href: "/2023/01/27/bringing-design-in-house/"
-  # @TODO: fixed collection logic for default message
-  footer:
-    title: "See more design resources"
-    # Remove this URL if we're just re-linking to the page we're currently on.
-    href: https://digital.gov/topics/design
-
 ---
