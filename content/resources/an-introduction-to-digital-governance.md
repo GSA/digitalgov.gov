@@ -25,7 +25,7 @@ Governance can be defined as the act or process of governing or overseeing the c
 
 ## Why is digital governance important?
 
-Just as a magazine has an editor-in-chief, someone must be in charge of the public’s experience on a federal government website. Digital governance clarifies who’s responsible for the management and operation of your agency’s websites and digital services. It includes content, design, technical infrastructure, security, funding, and product, project, and program management. A strong governance structure improves [public trust](https://digital.gov/topics/trust/) through better organizational performance, and better customer outcomes.
+Just as a magazine has an editor-in-chief, someone must be in charge of the public’s experience on a federal government website. Digital governance clarifies who’s responsible for the management and operation of your agency’s websites and digital services. It includes content, design, technical infrastructure, security, funding, and product, project, and program management. A strong governance structure improves [public trust](https://digital.gov/resources/an-introduction-to-trust/) through better organizational performance, and better customer outcomes.
 
 ## How to implement digital governance
 
