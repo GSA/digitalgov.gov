@@ -38,7 +38,7 @@ There are practical steps you can take to meet the trust-related [federal web re
 3. **Correct and current content:** Knowledge and intention should inform the organization of the website, and users should feel that your site is knowledgeable  and supportive of what they are trying to do.
 4. **Connection to the rest of the web:** Present links to other government sources to be transparent and inspire confidence in the services your agency provides.<sup><a aria-describedby="footnote-label" href="#fn2" id="footnotes-ref2">[2]</a></sup>
 
-Trust is hard to earn, and even harder to regain once broken. Federal websites must demonstrate that they can be trusted by working well, meeting customer needs, and delivering real value. 
+Trust is hard to earn, and even harder to regain once broken. Federal websites must demonstrate that they can be trusted by working well, meeting customer needs, and delivering real value.
 
 ## Resources
 
