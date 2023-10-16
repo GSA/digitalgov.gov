@@ -65,7 +65,7 @@ There are some things to consider when making this decision. Your agency point-o
 
 * A leadership role in your existing agency digital governance structure
 * A leadership role in governmentwide communities of practice
-* Influence in the management of the flagship \`agency.gov\` website
+* Influence in the management of the flagship `agency.gov` website
 * Experience interpreting and implementing web and digital policy
 * Ability to coordinate across agency business lines
 
