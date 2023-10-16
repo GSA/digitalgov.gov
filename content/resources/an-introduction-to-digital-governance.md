@@ -4,6 +4,7 @@ title: An introduction to digital governance
 deck: Understand how and why to implement digital governance
 summary: Learn why governance is essential to digital experience.
 # See all topics at https://digital.gov/topics
+author: Rachel Flagg
 topics:
   - governance
   - 21st-century-idea
