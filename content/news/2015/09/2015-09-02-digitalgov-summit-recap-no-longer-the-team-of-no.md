@@ -6,13 +6,11 @@ summary: "During a panel discussion at the second annual DigitalGov Citizen Serv
 
 authors:
   - andreanocesigritz
-
 topics:
   - cx
   - our-work
   - digitalgov-summit
   - DOJ
-  - US Department of Agriculture
   - us-department-of-justice
   - united-states-department-of-energy
   - USDA
