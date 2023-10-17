@@ -2,7 +2,7 @@
 slug: last-chance-submit-your-summit-idea
 date: 2015-01-21 8:00:03 -0400
 title: "Last Chance: Submit Your Summit Idea"
-summary: "We’re accepting proposals for the 2015 DigitalGov Citizen Services Summit through the end of January."
+summary: "We are accepting proposals for the 2015 DigitalGov Citizen Services Summit through the end of January."
 authors:
   - apiazza
 topics:
