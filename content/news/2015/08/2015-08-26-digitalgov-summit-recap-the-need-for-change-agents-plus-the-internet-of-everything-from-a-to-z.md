@@ -1,8 +1,8 @@
 ---
 slug: digitalgov-summit-recap-the-need-for-change-agents-plus-the-internet-of-everything-from-a-to-z
 date: 2015-08-26 10:00:11 -0400
-title: 'DigitalGov Summit Recap: The Need for Change Agents, plus the Internet of Everything, from A to Z'
-summary: 'The Internet of Things is already here. How will we prepare for the Internet of Everything?'
+title: "DigitalGov Summit Recap: The Need for Change Agents, plus the Internet of Everything, from A to Z"
+summary: "The Internet of Things is already here. How will we prepare for the Internet of Everything?"
 
 authors:
   - awichman
@@ -28,5 +28,3 @@ These questions were at the forefront of discussions Bray had with leaders in Ta
 > “Your role as change agents is needed now more than ever,” Bray said. “By change agents, I mean individuals willing to brave and change the status quo.”
 
 Bray ended his presentation with an A to Z list of predictions about an IoE world: from “always-on access, accessibility, and affordability—we must address the digital divide,” to “zeroes and ones—it’s much more than that; zooming toward the future, while remaining true to ‘We, the People.’” The full presentation can be viewed below.
-
-{{< youtube gQgSpwksCaI >}}
