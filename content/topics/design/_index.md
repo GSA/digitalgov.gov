@@ -14,21 +14,21 @@ summary: "Guidance, resources, and community to help you use design to create go
 # Weight
 weight: 2
 
-# Overall guidance:
-# - Prefer setting section titles and footers in code, with option of user override.
-
-# populate the topic-collection template with featured links
+# set the legislation card title and link
 legislation:
   title: "21st Century Integrated Digital Experience Act"
   link: "/resources/21st-century-integrated-digital-experience-act/"
 
+# featured resource to display above the fold
 featured_resources:
   resources:
     - link: "/guides/hcd/discovery-concepts"
 
+# featured communtity to display above the fold
 related_communities:
   - "user-experience"
 
+# curated list of resources, can be internal or external links
 top_resources:
   title: "Design: essential knowledge"
   resources:

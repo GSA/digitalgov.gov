@@ -3,8 +3,6 @@
 */}}
 
 {{- define "content" -}}
-  {{ $is_collection := isset .Params "topic_collection" }}
-
 
   <main role="main" id="main-content">
     {{ $path := "" }}{{ with .File }}
@@ -21,7 +19,7 @@
     {{/* Default & Collection Header */}}
     <header class="grid-container-desktop" data-gh-edit-page="{{- $path -}}">
       <h1
-        class="{{ if $is_collection }}
+        class="{{ if .Params.legislation }}
           dg-topic__header-title--collection
         {{ else }}
           dg-topic__header-title
