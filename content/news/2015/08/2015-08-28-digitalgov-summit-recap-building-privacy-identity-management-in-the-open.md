@@ -10,11 +10,7 @@ topics:
   - security
   - our-work
   - digitalgov-summit
-  - DOT
-  - national-institute-of-standards-and-technology
-  - NIST
   - recaps
-  - united-states-department-of-transportation
 
 ---
 
