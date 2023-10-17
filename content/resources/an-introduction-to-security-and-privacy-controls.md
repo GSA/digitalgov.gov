@@ -56,7 +56,7 @@ The three-column table below lists the 20 control families alphabetically by the
 
 The second column provides the full name of the control family. The third column provides a plain language description of the control to give you a feel for what kind of security concern that control family covers.
 
-<table class="usa-table usa-table--borderless">
+<table class="usa-table usa-table--striped">
   <caption></caption>
   <thead>
     <tr>
