@@ -2,10 +2,12 @@
 slug: digitalgov-summit-recap-building-privacy-identity-management-in-the-open
 date: 2015-08-28 10:00:32 -0400
 title: 'DigitalGov Summit Recap: Building Privacy & Identity Management in the Open'
-summary: 'How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the 2015 DigitalGov Citizen Services Summit. &#8220;Cybersecurity has really come a long way in the last 10 years, unifying the conversation about risk across organizations,&#8221; said'
+summary: 'How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the 2015 DigitalGov Citizen Services Summit.'
+
 authors:
   - andreanocesigritz
 topics:
+  - security
   - our-work
   - digitalgov-summit
   - DOT
@@ -13,11 +15,12 @@ topics:
   - NIST
   - recaps
   - united-states-department-of-transportation
+
 ---
 
-{{< legacy-img src="2015/08/600-x-400-Cyber-Attack-A01-Matej-Moderc-iStock-Thinkstock-479801072.jpg" alt="Data and identity security concept of cyber attack warning messages on a computer screen." caption="" >}} 
-
 How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the [2015 DigitalGov Citizen Services Summit]({{< ref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}).
+
+{{< legacy-img src="2015/08/600-x-400-Cyber-Attack-A01-Matej-Moderc-iStock-Thinkstock-479801072.jpg" alt="Data and identity security concept of cyber attack warning messages on a computer screen." caption="Matej Moderc/iStock/Thinkstock" >}} 
 
 &#8220;Cybersecurity has really come a long way in the last 10 years, unifying the conversation about risk across organizations,&#8221; said Sean Brooks, panelist and privacy engineer at the National Institute of Standards and Technology (NIST), &#8220;but privacy has really lagged behind.&#8221; And NIST is trying to help agencies understand the risks they’re trying to mitigate with controls in their information systems, Brooks added.
 
@@ -31,4 +34,4 @@ NIST’s draft publication on privacy engineering framework will be going out fo
 
 You can watch the video below to see the rest of the 15 minute panel.
 
-[youtube=http://www.youtube.com/watch?v=KjlYjkXzFzM&w=600]
+{{< youtube KjlYjkXzFzM >}}
