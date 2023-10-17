@@ -39,6 +39,3 @@ The biggest learning opportunities can happen when things go wrong, Hishikawa sa
 At the end of the day, it comes down to telling people what your requirements are, asking them for theirs and seeing if they do really conflict,” Dunbar said.
 
 The rest of the 25 minute panel can be viewed below.
-
-{{< youtube VkesfglhH8Q >}}
- 
