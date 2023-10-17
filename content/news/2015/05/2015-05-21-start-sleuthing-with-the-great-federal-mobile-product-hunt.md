@@ -21,7 +21,7 @@ Mobile-friendliness is a [must for government]({{< ref "2015-03-31-trends-on-tue
 
 {{< legacy-img src="2015/05/600-x-211-MobileGov-Shared-Tweet-Photo.jpg" alt="The Digital Gov Hunters of the Lost Apps Twitter promo graphic, inviting users to Join the Hunt and use the Lost Apps hashtag." caption="" >}}
 
-We need your help to find them. So today, at the DigitalGov Citizen Services Summit you will find the MobileGov Community of Practice [Expo Table](https://summit.digitalgov.gov/expo/), where we are kicking off the Great Federal Mobile Product Hunt. The mission of the hunt is simple—find the mobile apps or websites not listed on the registry.
+We need your help to find them. So today, at the DigitalGov Citizen Services Summit you will find the MobileGov Community of Practice [Expo Table](https://web.archive.org/web/20150706193127/https://summit.digitalgov.gov/expo/), where we are kicking off the Great Federal Mobile Product Hunt. The mission of the hunt is simple—find the mobile apps or websites not listed on the registry.
 
 The [Federal Mobile Products Registry](http://apps.usa.gov/register) is the authoritative source for federal mobile Web products, and we want to make sure your agency’s products are included. Agencies that do not have their apps registered here are losing out on valuable promotional opportunites on USA.gov and DigitalGov.
 
