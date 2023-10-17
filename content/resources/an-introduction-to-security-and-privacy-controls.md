@@ -21,6 +21,19 @@ primary_image: 10x-areas-of-focus
 # 2 -- highlighted
 weight: 1
 
+# populate the topic-collection template with featured links
+data:
+  featured_resources:
+    multiple: false
+    resources:
+      - link: "/topics/security/"
+        kicker: "Security resources"
+  communities:
+    multiple: true
+    community:
+      - link: "/communities/web-content-managers/"
+      - link: "/communities/devops/"
+
 ---
 
 ## What are the NIST controls?
@@ -157,9 +170,3 @@ The second column provides the full name of the control family. The third column
 </table>
 
 You may have noticed that many of the controls require the efforts of your whole team. To get them onboard, it helps to describe the larger objectives of your policies and procedures. Taking the time to explain controls can help everyone better contribute to your system's security and compliance. View NIST's [Cybersecurity and Privacy Reference Tool](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home) for more on control families.
-
-{{Resources card}}
-
-{{Community card}}
-
-.﻿..
