@@ -1,8 +1,8 @@
 ---
 slug: digitalgov-summit-recap-building-privacy-identity-management-in-the-open
 date: 2015-08-28 10:00:32 -0400
-title: 'DigitalGov Summit Recap: Building Privacy & Identity Management in the Open'
-summary: 'How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the 2015 DigitalGov Citizen Services Summit.'
+title: "DigitalGov Summit Recap: Building Privacy & Identity Management in the Open"
+summary: "How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the 2015 DigitalGov Citizen Services Summit."
 
 authors:
   - andreanocesigritz
@@ -33,5 +33,3 @@ Government can &#8220;build all these beautiful digital services, but if people 
 NIST’s draft publication on privacy engineering framework will be going out for public comment, and it will be critical to get comments from people “trying to build stuff and do things” at agencies, Brooks said. One of the goals of the privacy engineering framework is to make communication across different staff at agencies more productive. It will contain worksheets that will help facilitate an iterative approach to this work in agencies.
 
 You can watch the video below to see the rest of the 15 minute panel.
-
-{{< youtube KjlYjkXzFzM >}}
