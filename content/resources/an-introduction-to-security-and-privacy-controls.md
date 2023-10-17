@@ -47,7 +47,7 @@ The second column provides the full name of the control family. The third column
   <caption></caption>
   <thead>
     <tr>
-      <th scope="col" width="10%">ID</th>
+      <th scope="col" width="5%">ID</th>
       <th scope="col">Control family</th>
       <th scope="col">Plain language description</th>
     </tr>
