@@ -13,7 +13,7 @@ topics:
   - recaps
 ---
 
-{{< legacy-img src="2014/09/600-x-512-Symbol-Person-Choice-Silhouettes-Michael-Brown-Hemera-Thinkstock-96068072.jpg" alt="A silhouette of a hand picks up a stick figure from a line of figures." caption="" >}} 
+{{< legacy-img src="2014/09/600-x-512-Symbol-Person-Choice-Silhouettes-Michael-Brown-Hemera-Thinkstock-96068072.jpg" alt="A silhouette of a hand picks up a stick figure from a line of figures." caption="Michael Brown/Hemera/Thinkstock" >}} 
 
 Who do you need to bring to the table to make a better world?
 
@@ -32,3 +32,4 @@ Instead of looking at a problem and thinking of a solution, Smith suggested acti
 “You know someone who solves some of our most pressing problems,” Smith said. “How can we use our network of us to source those things and then together collaboratively bring our skills to get the solutions done, whatever they are?”
 
 The full keynote address can be viewed below.
+
