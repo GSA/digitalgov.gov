@@ -6,12 +6,17 @@ summary: Performance Analytics for Social Media Decision Making. Creating Adapti
 authors:
   - apiazza
 topics:
-  - monthly-theme
-  - our-work
-  - digitalgov-summit
-  - mobile-gov-community-of-practice
-  - socialgov-community
-  - user-experience-community-of-practice
+  - social-media
+  - user-experience
+  - cx
+  - design
+  - content
+  - plain-language
+  - analytics
+  - mobile
+  - api
+  - contact-centers
+  - open-data
 
 ---
 
