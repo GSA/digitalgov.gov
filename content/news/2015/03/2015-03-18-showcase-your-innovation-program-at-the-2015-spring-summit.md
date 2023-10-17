@@ -1,8 +1,8 @@
 ---
 slug: showcase-your-innovation-program-at-the-2015-spring-summit
 date: 2015-03-18 1:00:21 -0400
-title: Showcase Your Innovation Program at the 2015 Spring Summit
-summary: "Here is another other opportunity to show DigitalGov innovators what you got! The spring Digital Citizen Services Summit will host an expo, like we did in 2014, where you can showcase your program or service.'
+title: "Showcase Your Innovation Program at the 2015 Spring Summit"
+summary: "Here is another other opportunity to show DigitalGov innovators what you got! The spring Digital Citizen Services Summit will host an expo, like we did in 2014, where you can showcase your program or service."
 authors:
   - apiazza
 topics:
@@ -25,9 +25,9 @@ Here's what we are looking for. Tables must be:
   * Hosted by a federal agency
   * Showcasing or demoing a government-wide service, community, or tool with a digital theme
 
-{{< legacy-img src="2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-20140530_103909.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
+{{< legacy-img src="2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-20140530_103909.jpg" alt="2014 Summit Expo tables and crowd of attendees." >}}
 
-{{< legacy-img src="2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-Jonathan-Rubin-Usability-20140530_103927.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
+{{< legacy-img src="2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-Jonathan-Rubin-Usability-20140530_103927.jpg" alt="2014 Summit Expo tables and crowd of attendees." >}}
 
 Last year we had tables hosted by the Millenium Challenge Corporation, Department of Education's Federal Student Aid office, GSA's 18F, the MobileGov Community of Practice, and more.
 
