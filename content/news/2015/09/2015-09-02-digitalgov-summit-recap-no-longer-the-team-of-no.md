@@ -1,11 +1,12 @@
 ---
 slug: digitalgov-summit-recap-no-longer-the-team-of-no
 date: 2015-09-02 10:00:51 -0400
-title: "DigitalGov Summit Recap: No Longer the Team of No"
-summary: "A group of self-proclaimed naysayers came together to dispel myths and share advice to help everyone work together, during a panel discussion at the second annual DigitalGov Citizen Services Summit."
+title: "DigitalGov Summit Recap&#58; No Longer the Team of No"
+summary: "During a panel discussion at the second annual DigitalGov Citizen Services Summit, a group of self-proclaimed naysayers came together to dispel myths and share advice to help everyone work together."
 
 authors:
   - andreanocesigritz
+
 topics:
   - cx
   - our-work
@@ -18,11 +19,11 @@ topics:
 
 ---
 
-No one likes to be told no. This is especially true at work, when you’re moving toward something that you feel is in the best interest of your customers. But so often in government, our forward progress gets slowed down by others in our organization who we think "just don’t get it"&mdash;namely those in content, legal, procurement and security.
+No one likes to be told no. This is especially true at work, when you’re moving toward something that you feel is in the best interest of your customers. But so often in government, our forward progress gets slowed down by others in our organization who we think "just don’t get it"&mdash;namely those in content, legal, procurement, and security.
 
 {{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="cogal/iStock/Thinkstock" >}}
 
-A group of self-proclaimed naysayers came together to dispel myths and share advice to help everyone work together, during a panel discussion at the second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/), held in May.
+A group of self-proclaimed naysayers came together to dispel myths and share advice to help everyone work together, during a panel discussion at the second annual [DigitalGov Citizen Services Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/), held in May.
 
 These groups, stereotypically, are often viewed as in conflict with each other, with each feeling as though the others are working against them. “How did we get to (what feels like) opposing teams?” Janet Stevens, Chief Information Officer in the Food Safety and Inspection Service at the U.S. Department of Agriculture, and moderator, asked the panel.
 
