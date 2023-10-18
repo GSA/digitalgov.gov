@@ -8,7 +8,6 @@ authors:
   - andreanocesigritz
 topics:
   - cx
-  - our-work
   - digitalgov-summit
 
 ---
