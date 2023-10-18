@@ -112,3 +112,5 @@ The agency's security team usually supports projects with things like regular se
 As the system changes, the system owner needs to work with the security team to update the SSPP documentation. This process is called a Significant Change Request (SCR). For example, if your website is adding a new service like emailing updates to users, this adds new technical tools and data to your system; you’ll need to go through the SCR process to gain permission.
 
 Finally, you will also need to follow your agency's policies for renewing or updating your ATO. That may mean redoing this process every several years, or reviewing a subset of the process every year to make sure the SSPP is up to date.
+
+{{< featured-resource resourcePath = "/communities/web-content-managers/" kicker = "Join the web managers community">}}
