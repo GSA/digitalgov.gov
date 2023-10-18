@@ -47,6 +47,8 @@ community_list:
     members: 1,823
     join_cop_button: "Plain Language community members"
 
+kicker: "Join the Plain Language Community"
+
 primary_image: "digital-gov-card-community"
 
 ---
