@@ -9,7 +9,6 @@ topics:
   - product-management
   - our-work
   - cx
-  - customer-satisfaction
   - customer-service
   - digitalgov-summit
   - recaps
