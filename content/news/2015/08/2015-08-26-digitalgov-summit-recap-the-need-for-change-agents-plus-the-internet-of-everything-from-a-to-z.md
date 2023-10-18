@@ -28,5 +28,3 @@ These questions were at the forefront of discussions Bray had with leaders in Ta
 > “Your role as change agents is needed now more than ever,” Bray said. “By change agents, I mean individuals willing to brave and change the status quo.”
 
 Bray ended his presentation with an A to Z list of predictions about an IoE world: from “always-on access, accessibility, and affordability—we must address the digital divide,” to “zeroes and ones—it’s much more than that; zooming toward the future, while remaining true to ‘We, the People.’” The full presentation can be viewed below.
-
-{{< youtube gQgSpwksCaI >}}
