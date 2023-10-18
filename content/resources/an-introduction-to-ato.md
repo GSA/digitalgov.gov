@@ -3,6 +3,7 @@ date: 2023-10-18 09:39:00 -0500
 title: An introduction to ATOs
 deck: Understand the authority to operate process
 summary: What is an Authorization to Operate? Before you use software in government, you need to make sure it is allowed. You should know what an ATO is and when you need one.
+
 # See all topics at https://digital.gov/topics
 topics:
   - security
@@ -14,7 +15,8 @@ authors:
   - lindsay-young
 
 slug: an-introduction-to-ato
-primary_image: 10x-areas-of-focus
+primary_image: "cloud-gov-example-diagram"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
