@@ -2,22 +2,27 @@
 date: 2023-10-18 09:39:00 -0500
 title: An introduction to ATOs
 deck: Understand the authority to operate process
-summary: What is an Authorization to Operate? Before you use software in
-  government, you need to make sure it is allowed. You should know what an ATO
-  is and when you need one.
+summary: What is an Authorization to Operate? Before you use software in government, you need to make sure it is allowed. You should know what an ATO is and when you need one.
 # See all topics at https://digital.gov/topics
 topics:
   - security
   - policy
   - regulation
-slug: an-introduction-to-atos
+
+# See all authors at https://digital.gov/authors
+authors:
+  - lindsay-young
+
+slug: an-introduction-to-ato
 primary_image: 10x-areas-of-focus
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 ## What is an ATO?
 
 ATO stands for authorization to operate, also known as "authority to operate." Because there is no perfect, risk-free software system, the ATO process is aimed at minimizing and managing risk responsibility. This process mostly comes from the [Federal Information Security Management Act](https://security.cms.gov/learn/federal-information-security-management-act-fisma) (FISMA) legislation. FISMA was an effort to standardize and consolidate security review and reporting across agencies.
@@ -26,9 +31,9 @@ You can think of this process as having five steps. We will go over each step in
 
 1. To determine the **system's security impact level**, you first need to understand the risks that you are taking on.
 2. You need to have a clear understanding of your project. Document your software and policies with a **System Security and Privacy Plan** (SSPP).
-3. Then, there is an assessment of your system and your security plan. This process reviews your SSPP and looks for ways to improve the security of your system. 
+3. Then, there is an **assessment** of your system and your security plan. This process reviews your SSPP and looks for ways to improve the security of your system. 
 4. Once outstanding risks are identified, the Authorizing Official, (AO) signs off on remaining risk in an **ATO memo**.
-5. This process doesn't end. Create a [Plan of Action and Milestones](https://www.fedramp.gov/2022-06-28-update-poam-template/) (POA&M) to help you create and maintain security improvements. Continue to monitor and update your system.
+5. This process doesn't end. Create a [**Plan of Action and Milestones**] (POA&M) to help you create and maintain security improvements. Continue to monitor and update your system.
 
 ## Why do we need ATOs?
 
@@ -40,14 +45,14 @@ ATOs can feel very bureaucratic—but they can also be a good opportunity to tak
 
 It takes many people to collaborate on an ATO, but here are three key roles to understand so you'll know who to talk to, and what their responsibilities are.
 
-1. **System Owner**\
+1. **System Owner**
    **Responsibilities**: Overall procurement, development, integration, modification, operation, maintenance, and retirement of a system. They will work with the team to create documentation, and they are responsible for making sure the team makes security fixes in a timely manner.
-2. **Information System Security Officer** (ISSO)\
+2. **Information System Security Officer** (ISSO)
    **Responsibilities**: Research, develop, implement, test, and review an organization's information security. They assess the impacts on new systems and system modifications, review the ATO package, and they may have contracts for penetration testing, etc. This person usually works as a liaison to the agency's security team. Your agency may also have **Information System Security Managers** (ISSM) supporting the ISSO.
-3. **Authorizing Official** (AO)\
+3. **Authorizing Official** (AO)
    **Responsibilities**: Signs a memo that accepts the risks of a system. This person is personally liable for that risk. They will be your agency's Chief Information Officer (CIO) or someone designated by the CIO. A huge part of the ATO process is aiming to educate the AO on what the risks to the system are. You also want to make sure your paperwork is detailed enough so that it can be a good resource if there is an audit. The risks that they are taking are not trivial.
 
-## How to ATO your system
+## How to get your system ATO-ready
 
 How this process is interpreted and administered across agencies varies. The best advice is to talk early and often to the person or team that will be accessing your system and find out what works best for them. 
 
@@ -127,8 +132,9 @@ Finally, you will also need to follow your agency's policies for renewing or upd
 * * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
   * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 * [Lifecycle of a launch](https://handbook.tts.gsa.gov/launching-software/lifecycle/), outlines how to prepare for ATOs at GSA. It has a lot of good advice that is transferable to other agencies.
-* [TTS engineering practices guide, Security section](https://engineering.18f.gov/security/) by 18F provides technical advice on implementing and documenting your ATO
+* [TTS engineering practices guide, Security section](https://engineering.18f.gov/security/) by 18F provides technical advice on implementing and documenting your ATO.
+* FedRAMP - [Understanding the Transition from SP 800-53 Rev. 4 to Rev. 5](https://www.fedramp.gov/rev5-transition/)
+   * [FedRAMP Plan of Action and Milestones (POA&M) Template (.xlsm, 70 KB)](https://www.fedramp.gov/assets/resources/templates/FedRAMP-POAM-Template.xlsm)
 
 {{< /ring >}}
 
-{{Community card}}
