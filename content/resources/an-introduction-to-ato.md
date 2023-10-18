@@ -69,12 +69,17 @@ First, you want to understand what kind of impact a disaster or attack on your d
 Security impact level is a combination of the following three questions:
 
 1. How **confidential** is the system's data?
-   a. Are there secrets or private information that you need to protect?
-   b. Is there personal identifiable information (PII), contract data, or other special kinds of data?
+
+    a. Are there secrets or private information that you need to protect?
+    b. Is there personal identifiable information (PII), contract data, or other special kinds of data?
+
 2. What is the importance of the system's **integrity**?
+
    a. What would be the impacts of the system getting defaced?
    b. What could happen if the data was altered
+
 3. How important is the **availability** of the data?
+
    a. What are the impacts of things like downtime?
 
 For each question, you categorize the impact as low, medium, or high. The system's security impact level will be the highest answer to the three questions. This will result in your system being classified as either FISMA low, FISMA moderate, or FISMA high.
