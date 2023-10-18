@@ -47,12 +47,12 @@ ATOs can feel very bureaucratic—but they can also be a good opportunity to tak
 
 It takes many people to collaborate on an ATO, but here are three key roles to understand so you'll know who to talk to, and what their responsibilities are.
 
-1. **System Owner**
-   **Responsibilities**: Overall procurement, development, integration, modification, operation, maintenance, and retirement of a system. They will work with the team to create documentation, and they are responsible for making sure the team makes security fixes in a timely manner.
-2. **Information System Security Officer** (ISSO)
-   **Responsibilities**: Research, develop, implement, test, and review an organization's information security. They assess the impacts on new systems and system modifications, review the ATO package, and they may have contracts for penetration testing, etc. This person usually works as a liaison to the agency's security team. Your agency may also have **Information System Security Managers** (ISSM) supporting the ISSO.
-3. **Authorizing Official** (AO)
-   **Responsibilities**: Signs a memo that accepts the risks of a system. This person is personally liable for that risk. They will be your agency's Chief Information Officer (CIO) or someone designated by the CIO. A huge part of the ATO process is aiming to educate the AO on what the risks to the system are. You also want to make sure your paperwork is detailed enough so that it can be a good resource if there is an audit. The risks that they are taking are not trivial.
+1. **System Owner**<br />
+**Responsibilities**: Overall procurement, development, integration, modification, operation, maintenance, and retirement of a system. They will work with the team to create documentation, and they are responsible for making sure the team makes security fixes in a timely manner.
+2. **Information System Security Officer** (ISSO)<br />
+**Responsibilities**: Research, develop, implement, test, and review an organization's information security. They assess the impacts on new systems and system modifications, review the ATO package, and they may have contracts for penetration testing, etc. This person usually works as a liaison to the agency's security team. Your agency may also have **Information System Security Managers** (ISSM) supporting the ISSO.
+3. **Authorizing Official** (AO)<br />
+**Responsibilities**: Signs a memo that accepts the risks of a system. This person is personally liable for that risk. They will be your agency's Chief Information Officer (CIO) or someone designated by the CIO. A huge part of the ATO process is aiming to educate the AO on what the risks to the system are. You also want to make sure your paperwork is detailed enough so that it can be a good resource if there is an audit. The risks that they are taking are not trivial.
 
 ## How to get your system ATO-ready
 
@@ -70,12 +70,12 @@ Security impact level is a combination of the following three questions:
 
 1. How **confidential** is the system's data?
 
-    a. Are there secrets or private information that you need to protect?
+    a. Are there secrets or private information that you need to protect?<br />
     b. Is there personal identifiable information (PII), contract data, or other special kinds of data?
 
 2. What is the importance of the system's **integrity**?
 
-   a. What would be the impacts of the system getting defaced?
+   a. What would be the impacts of the system getting defaced?<br />
    b. What could happen if the data was altered
 
 3. How important is the **availability** of the data?
