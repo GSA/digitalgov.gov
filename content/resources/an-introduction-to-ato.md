@@ -35,7 +35,7 @@ You can think of this process as having five steps. We will go over each step in
 2. You need to have a clear understanding of your project. Document your software and policies with a **System Security and Privacy Plan** (SSPP).
 3. Then, there is an **assessment** of your system and your security plan. This process reviews your SSPP and looks for ways to improve the security of your system. 
 4. Once outstanding risks are identified, the Authorizing Official, (AO) signs off on remaining risk in an **ATO memo**.
-5. This process doesn't end. Create a [**Plan of Action and Milestones**] (POA&M) to help you create and maintain security improvements. Continue to monitor and update your system.
+5. This process doesn't end. Create a **Plan of Action and Milestones** (POA&M) to help you create and maintain security improvements. Continue to monitor and update your system.
 
 ## Why do we need ATOs?
 
@@ -68,18 +68,15 @@ First, you want to understand what kind of impact a disaster or attack on your d
 
 Security impact level is a combination of the following three questions:
 
-1. How **confidential** is the system's data?
-
+1. How **confidential** is the system's data?<br />
     a. Are there secrets or private information that you need to protect?<br />
     b. Is there personal identifiable information (PII), contract data, or other special kinds of data?
 
-2. What is the importance of the system's **integrity**?
-
+2. What is the importance of the system's **integrity**?<br />
    a. What would be the impacts of the system getting defaced?<br />
    b. What could happen if the data was altered
 
-3. How important is the **availability** of the data?
-
+3. How important is the **availability** of the data?<br />
    a. What are the impacts of things like downtime?
 
 For each question, you categorize the impact as low, medium, or high. The system's security impact level will be the highest answer to the three questions. This will result in your system being classified as either FISMA low, FISMA moderate, or FISMA high.
@@ -140,8 +137,7 @@ Finally, you will also need to follow your agency's policies for renewing or upd
   * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 * [Lifecycle of a launch](https://handbook.tts.gsa.gov/launching-software/lifecycle/), outlines how to prepare for ATOs at GSA. It has a lot of good advice that is transferable to other agencies.
 * [TTS engineering practices guide, Security section](https://engineering.18f.gov/security/) by 18F provides technical advice on implementing and documenting your ATO.
-* FedRAMP - [Understanding the Transition from SP 800-53 Rev. 4 to Rev. 5](https://www.fedramp.gov/rev5-transition/)
-   * [FedRAMP Plan of Action and Milestones (POA&M) Template (.xlsm, 70 KB)](https://www.fedramp.gov/assets/resources/templates/FedRAMP-POAM-Template.xlsm)
+* [FedRAMP Plan of Action and Milestones (POA&M) Template (.xlsm, 70 KB)](https://www.fedramp.gov/assets/resources/templates/FedRAMP-POAM-Template.xlsm)
 
 {{< /ring >}}
 
