@@ -29,7 +29,7 @@ Federal security compliance is based on evaluating security criteria. Those crit
 
 To use, buy, or build software for the government, you need authorization to operate (ATO). A huge part of that process is documenting how you are addressing the controls in your system security and privacy plan (SSPP). During the ATO process, assessors determine what controls apply to a given system. The higher the risk of the system, the more controls. Then, that system needs to document those considerations and prove that they have taken those security measures into account. 
 
-For an overview of ATOs, read An introduction to ATOs.
+For an overview of ATOs, read [An introduction to ATOs](https://digital.gov/resources/an-introduction-to-ato/).
 
 ## Why worry about controls?
 
