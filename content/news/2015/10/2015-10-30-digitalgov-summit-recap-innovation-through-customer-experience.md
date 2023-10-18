@@ -1,7 +1,7 @@
 ---
 slug: digitalgov-summit-recap-innovation-through-customer-experience
 date: 2015-10-30 11:10:21 -0400
-title: 'DigitalGov Summit Recap: Innovation Through Customer Experience'
+title: "DigitalGov Summit Recap: Innovation Through Customer Experience"
 summary: "A panel discussion at the 2015 DigitalGov Citizen Services Summit delved into customer experience (CX) work at three agencies with diverse missions."
 authors:
   - awichman
@@ -11,7 +11,6 @@ topics:
   - cx
   - customer-satisfaction
   - customer-service
-  - cx
   - digitalgov-summit
   - recaps
 
