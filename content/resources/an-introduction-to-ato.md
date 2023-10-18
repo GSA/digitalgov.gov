@@ -69,15 +69,15 @@ First, you want to understand what kind of impact a disaster or attack on your d
 Security impact level is a combination of the following three questions:
 
 1. How **confidential** is the system's data?<br />
-    a. Are there secrets or private information that you need to protect?<br />
-    b. Is there personal identifiable information (PII), contract data, or other special kinds of data?
+  a. Are there secrets or private information that you need to protect?<br />
+  b. Is there personal identifiable information (PII), contract data, or other special kinds of data?
 
 2. What is the importance of the system's **integrity**?<br />
-   a. What would be the impacts of the system getting defaced?<br />
-   b. What could happen if the data was altered
+  a. What would be the impacts of the system getting defaced?<br />
+  b. What could happen if the data was altered
 
 3. How important is the **availability** of the data?<br />
-   a. What are the impacts of things like downtime?
+  a. What are the impacts of things like downtime?
 
 For each question, you categorize the impact as low, medium, or high. The system's security impact level will be the highest answer to the three questions. This will result in your system being classified as either FISMA low, FISMA moderate, or FISMA high.
 
@@ -130,14 +130,14 @@ Finally, you will also need to follow your agency's policies for renewing or upd
 
 {{< ring title="Resources">}}
 
+* [FedRAMP Plan of Action and Milestones (POA&M) Template (.xlsm, 70 KB)](https://www.fedramp.gov/assets/resources/templates/FedRAMP-POAM-Template.xlsm)
 * [CIO Council guide to FISMA](https://www.cio.gov/policies-and-priorities/FISMA/)
 * [FIPS 199 Workbook](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.199.pdf)
 * [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
-* * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+  * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
   * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 * [Lifecycle of a launch](https://handbook.tts.gsa.gov/launching-software/lifecycle/), outlines how to prepare for ATOs at GSA. It has a lot of good advice that is transferable to other agencies.
 * [TTS engineering practices guide, Security section](https://engineering.18f.gov/security/) by 18F provides technical advice on implementing and documenting your ATO.
-* [FedRAMP Plan of Action and Milestones (POA&M) Template (.xlsm, 70 KB)](https://www.fedramp.gov/assets/resources/templates/FedRAMP-POAM-Template.xlsm)
 
 {{< /ring >}}
 
