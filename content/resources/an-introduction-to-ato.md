@@ -29,7 +29,7 @@ weight: 1
 
 ATO stands for authorization to operate, also known as "authority to operate." Because there is no perfect, risk-free software system, the ATO process is aimed at minimizing and managing risk responsibility. This process mostly comes from the [Federal Information Security Management Act](https://security.cms.gov/learn/federal-information-security-management-act-fisma) (FISMA) legislation. FISMA was an effort to standardize and consolidate security review and reporting across agencies.
 
-You can think of this process as having five steps. We will go over each step in depth below in How to ATO your system.
+You can think of this process as having five steps. We will go over each step in depth below in _How to ATO your system_.
 
 1. To determine the **system's security impact level**, you first need to understand the risks that you are taking on.
 2. You need to have a clear understanding of your project. Document your software and policies with a **System Security and Privacy Plan** (SSPP).
@@ -54,7 +54,7 @@ It takes many people to collaborate on an ATO, but here are three key roles to u
 3. **Authorizing Official** (AO)<br />
 **Responsibilities**: Signs a memo that accepts the risks of a system. This person is personally liable for that risk. They will be your agency's Chief Information Officer (CIO) or someone designated by the CIO. A huge part of the ATO process is aiming to educate the AO on what the risks to the system are. You also want to make sure your paperwork is detailed enough so that it can be a good resource if there is an audit. The risks that they are taking are not trivial.
 
-## How to get your system ATO-ready
+## How to ATO your system
 
 How this process is interpreted and administered across agencies varies. The best advice is to talk early and often to the person or team that will be accessing your system and find out what works best for them. 
 
@@ -104,7 +104,7 @@ Many controls can be covered by implementing software correctly, like making sur
 
 These controls are defined in NIST Special Publication (SP) 800-53. To look up controls, you can use the section that details [Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final). Agency chief information security officer (CISO) shops usually have additional guidance for select controls on how to apply these standards to your project.
 
-For an overview of NIST Controls, read An introduction to security and privacy controls.
+For an overview of NIST Controls, read [An introduction to security and privacy controls](https://digital.gov/resources/an-introduction-to-security-and-privacy-controls/).
 
 ### 3) Assessment
 
@@ -128,7 +128,7 @@ As the system changes, the system owner needs to work with the security team to 
 
 Finally, you will also need to follow your agency's policies for renewing or updating your ATO. That may mean redoing this process every several years, or reviewing a subset of the process every year to make sure the SSPP is up to date.
 
-{{< ring title="Resources">}}
+{{< ring title="Additional Resources">}}
 
 * [FedRAMP Plan of Action and Milestones (POA&M) Template (.xlsm, 70 KB)](https://www.fedramp.gov/assets/resources/templates/FedRAMP-POAM-Template.xlsm)
 * [CIO Council guide to FISMA](https://www.cio.gov/policies-and-priorities/FISMA/)
