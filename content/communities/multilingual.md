@@ -43,6 +43,8 @@ community_list:
     members: 628
     join_cop_button: "Multilingual community members"
 
+kicker: "Join the Multilingual Community"
+
 primary_image: "white-bg-digital-gov-card-community"
 
 ---

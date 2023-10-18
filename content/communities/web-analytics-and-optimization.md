@@ -45,6 +45,8 @@ community_list:
     members: 811
     join_cop_button: "Web Analytic community members"
 
+kicker: "Join the Web Analytics Community"
+
 primary_image: "digital-gov-card-community"
 
 ---

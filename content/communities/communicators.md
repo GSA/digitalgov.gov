@@ -43,6 +43,9 @@ dg_highlight: true
 dg_shortname: Communicators
 dg_acronym: FCN
 
+kicker: "Join the Communicators Community"
+
+
 primary_image: "white-bg-digital-gov-card-community"
 
 ---
