@@ -51,6 +51,8 @@ community_list:
 
 primary_image: "white-on-gsa-blue-digital-gov-card-community"
 
+kicker: "Join the Web Managers Community"
+
 ---
 
 We are a group for those who create, manage, and contribute to government websites and digital services. We are working to create a trusted, seamless online experience for all. You do not need to be a “manager” to be a part of this community; we are all managing different aspects of the digital experience and all have something to contribute — and something to learn — from one another.
