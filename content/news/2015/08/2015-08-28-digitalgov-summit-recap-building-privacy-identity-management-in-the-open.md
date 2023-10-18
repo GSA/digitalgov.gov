@@ -33,5 +33,3 @@ Government can &#8220;build all these beautiful digital services, but if people 
 NIST’s draft publication on privacy engineering framework will be going out for public comment, and it will be critical to get comments from people “trying to build stuff and do things” at agencies, Brooks said. One of the goals of the privacy engineering framework is to make communication across different staff at agencies more productive. It will contain worksheets that will help facilitate an iterative approach to this work in agencies.
 
 You can watch the video below to see the rest of the 15 minute panel.
-
-{{< youtube KjlYjkXzFzM >}}
