@@ -6,11 +6,11 @@ slug: tips-for-starting-your-customer-experience
 date: 2020-01-07 24:00:00 -0500
 time: 24:00:00
 title: "Tips for Starting Your Customer Experience Journey"
-deck: "Low-cost, low-lift actions that any federal employee can take to improve customer experience. "
-summary: "Low-cost, low-lift actions that any federal employee can take to improve customer experience. "
+deck: "Low-cost, low-lift actions that any federal employee can take to improve customer experience."
+summary: "Low-cost, low-lift actions that any federal employee can take to improve customer experience."
 
 # originally published at the following URL
-source_url: "https://www.performance.gov/tips-for-starting-your-customer-experience-journey/"
+source_url: "https://www.performance.gov/cx/blog/tips-for-starting-your-customer-experience-journey/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
@@ -30,5 +30,7 @@ topics:
 # 1 -- visible
 # 2 -- highlighted
 weight: 2
+
 # Make it better ♥
+
 ---
