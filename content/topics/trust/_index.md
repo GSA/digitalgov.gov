@@ -35,6 +35,7 @@ data:
     multiple: false
     community:
       - link: "/communities/web-content-managers"
+      kicker: "Join the Web Managers Community"
   top_resources_header: "Trust: essential knowledge"
   top_resources:
     - title: "An introduction to trust"
