@@ -10,6 +10,7 @@ topics:
   - cx
   - usability
   - accessibility
+  - trust
 
 # see all authors at https://digital.gov/authors
 authors:
