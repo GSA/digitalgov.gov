@@ -14,6 +14,7 @@ topics:
   - uswds
   - policy
   - 21st-century-idea
+  - trust
 
 # see all authors at https://digital.gov/authors
 authors:
