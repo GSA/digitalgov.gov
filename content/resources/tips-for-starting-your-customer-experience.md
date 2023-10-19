@@ -10,7 +10,7 @@ deck: "Low-cost, low-lift actions that any federal employee can take to improve 
 summary: "Low-cost, low-lift actions that any federal employee can take to improve customer experience. "
 
 # originally published at the following URL
-source_url: "https://www.performance.gov/tips-for-starting-your-customer-experience-journey/"
+source_url: "https://www.performance.gov/cx/blog/tips-for-starting-your-customer-experience-journey/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
