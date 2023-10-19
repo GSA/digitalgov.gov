@@ -13,6 +13,7 @@ end_date: 2020-11-04 13:00:00 -0500
 topics:
   - emerging-tech
   - artificial-intelligence
+  - trust
 # See all authors at https://digital.gov/authors
 authors:
   - steven-babitch
