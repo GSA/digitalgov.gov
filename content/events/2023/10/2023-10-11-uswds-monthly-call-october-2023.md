@@ -26,6 +26,7 @@ event_platform: zoom
 primary_image: 2023-uswds-monthly-call-oct-title-card
 
 ---
+{{< asset-static file="uswds-monthly-call-october-2023.pptx" label="View the slides (PowerPoint presentation, 9.2 MB, 111 pages)" >}}
 
 One of our roadmap goals is to conduct more user research with people with disabilities — and to ensure we’re doing so regularly. 
 
