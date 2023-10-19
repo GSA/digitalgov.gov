@@ -12,7 +12,7 @@ topics:
 
 ---
 
-Recently, the Pew Internet and the American Life Project released [a report that analyzed the use of digital tools for different groups of tech literacies and found some interesting ‘digital divides’](http://www.pewinternet.org/2016/09/20/digital-readiness-gaps/) and levels of trust, usage, and skill.
+Recently, the Pew Internet and the American Life Project released [a report that analyzed the use of digital tools for different groups of tech literacies](http://www.pewinternet.org/2016/09/20/digital-readiness-gaps/) and found some interesting ‘digital divides’ and levels of trust, usage, and skill.
 
 {{< legacy-img-right src="2016/11/600-x-450-American-flag-Pie-graph-with-5-pieces-grki-iStock-Thinkstock-165677616.jpg" alt="American flag Pie graph with 5 pieces." caption="grki/iStock/Thinkstock" >}}
 
