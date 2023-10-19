@@ -6,16 +6,18 @@ source: whitehouse
 title: "Executive Order 14058: Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government"
 deck: A more simple, seamless, and secure customer experience for the American public.
 summary: A more simple, seamless, and secure customer experience for the American public.
+
 # See all topics at https://digital.gov/topics
 topics:
   - trust
   - cx
+
 slug: executive-order-14058-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government
 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 10
+weight: 1
 
 ---
