@@ -33,7 +33,6 @@ data:
         kicker: 
   communities:
     multiple: false
-    community:
       - link: "/communities/web-content-managers"
       kicker: "Join the Web Managers Community"
   top_resources_header: "Trust: essential knowledge"
