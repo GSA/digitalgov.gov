@@ -8,6 +8,7 @@ summary: Highlights from the Web Managers Community of Practice panel that share
 topics:
   - governance
   - professional-development
+  - project-management
   - recaps
 # See all authors at https://digital.gov/authors
 authors:
