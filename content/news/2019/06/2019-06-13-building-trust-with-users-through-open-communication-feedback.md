@@ -12,6 +12,7 @@ summary: "A look at how FEMA responds to user needs and bugs in their app develo
 # see all topics at https://digital.gov/topics
 topics:
   - cx
+  - trust
   - mobile
   - content-strategy
   - mobile-apps
