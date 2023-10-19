@@ -23,7 +23,7 @@ authors:
   - r-fitz-fitzhenry
 
 # Primary Image
-primary_image: "fema-mobile-app-home-updated"
+primary_image: "fema-mobile-app-home-updated-comp"
 
 # Make it better ♥
 
