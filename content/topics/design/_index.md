@@ -34,7 +34,7 @@ data:
   communities:
     multiple: false
     community:
-      - link: "/communities/user-experience"
+      - link: "/communities/web-content-managers/"
   top_resources_header: "Design: essential knowledge"
   top_resources:
     - title: "An introduction to design"
