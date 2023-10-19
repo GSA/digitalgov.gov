@@ -14,9 +14,11 @@ topics:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 1
+weight: 9
 slug: an-introduction-to-trust
+
 ---
+
 ## What is trust in digital services?
 
 Almost every interaction with government today has an online component, from looking up an agency’s phone number, to making an appointment or filling out a form, to completing an entire transaction online. Consequently, agency websites have come to represent the U.S. government. And because people tend to think about the federal government as a single thing, one poor experience with one agency website can diminish trust in the entire government.
