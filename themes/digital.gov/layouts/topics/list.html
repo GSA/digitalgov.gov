@@ -66,7 +66,18 @@
         {{ end }}
 
         {{ range .Params.related_communities }}
-          {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" (printf "/communities/%s" .) "kicker" "Join the community" ) -}}
+          {{/* Get the Page object and grab the kicker set on the md */}}
+          {{ $community_page := $.GetPage (printf "communities/%s" .) }}
+          {{ printf "%#v" $community_page }}
+          {{ if not $community_page }}
+            {{/* TODO: handle wrong path to get file */}}
+            {{/* {{ $community_page = }} */}}
+          {{ end }}
+          {{ $kicker := "" }}
+          {{ if $community_page.Params.kicker }}
+            {{ $kicker = $community_page.Params.kicker }}
+          {{ end }}
+          {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" (printf "/communities/%s" .) "kicker" $kicker ) -}}
         {{ end }}
       </div>
     {{ end }}
