@@ -31,7 +31,7 @@ data:
     resources:
       - link: 
         kicker: 
-communities:
+  communities:
     multiple: false
     community:
       - link: "/communities/web-content-managers/"
