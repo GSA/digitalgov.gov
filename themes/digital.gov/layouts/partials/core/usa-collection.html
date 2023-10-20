@@ -21,7 +21,6 @@
 {{ $url := "" }}
 {{ $meta_source := $settings.meta_source }}
 {{ $list_header := $settings.list_header }}
-{{ $list_default_width := $settings.list_default_width }}
 
 
 <ul class="usa-collection">
@@ -76,7 +75,7 @@
       {{ end }}
 
       {{/* List item settings */}}
-      {{ $settings := (dict "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header "list_default_width" $list_default_width "path" $path ) }}
+      {{ $settings := (dict "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header "path" $path ) }}
 
       {{/* If image exists, then display as list item */}}
       {{ if $logo_source }}
