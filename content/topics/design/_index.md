@@ -25,11 +25,11 @@ featured_resources:
     - link: "/guides/hcd/discovery-concepts"
 
 # Featured community to display at the top of the page
-related_communities:
+featured_communities:
   - "user-experience"
 
 # Curated list of resources, can be internal or external links
-top_resources:
+featured_resources:
   title: "Design: essential knowledge"
   resources:
   - title: "An introduction to design"
