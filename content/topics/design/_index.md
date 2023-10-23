@@ -14,22 +14,22 @@ summary: "Guidance, resources, and community to help you use design to create go
 # Weight
 weight: 2
 
-# set the legislation card title and link
+# Set the legislation card title and link
 legislation:
   title: "21st Century Integrated Digital Experience Act"
   link: "/resources/21st-century-integrated-digital-experience-act/"
 
-# featured resource to display above the fold
+# Featured resource to at the top of the page
 featured_resources:
   resources:
     - link: "/guides/hcd/discovery-concepts"
 
-# featured communtity to display above the fold
-related_communities:
+# Featured community to display at the top of the page
+featured_communities:
   - "user-experience"
 
-# curated list of resources, can be internal or external links
-top_resources:
+# Curated list of resources, can be internal or external links
+featured_resources:
   title: "Design: essential knowledge"
   resources:
   - title: "An introduction to design"

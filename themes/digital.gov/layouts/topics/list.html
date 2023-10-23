@@ -93,7 +93,7 @@
 
         {{ $top_resources := .Params.top_resources.resources }}
         {{ $footer := ( dict "title" .Params.top_resources.footer.title "href" .Params.top_resources.footer.href ) }}
-        {{ $collection_settings := ( dict "variant" "custom" "limit" 10 "list_header" 3 "list_default_width" false "footer" $footer ) }}
+        {{ $collection_settings := ( dict "variant" "custom" "limit" 10 "list_header" 3 false "footer" $footer ) }}
         {{- partial "partials/core/collection/collection.html" (dict "collection_data" $top_resources "settings" $collection_settings) -}}
       </div>
     {{ else }}
@@ -196,11 +196,11 @@
       {{/* Display remaining resources, events and news for topic collection */}}
       <section class="grid-container-desktop margin-top-2">
         {{- $resources := (where .Pages "Section" "resources") -}}
-        {{- $resource_settings := ( dict "header_title" (print "More Resources on " .Title) "header_size" 2 "list_default_width" false "variant" "media" "list_header" 3) -}}
+        {{- $resource_settings := ( dict "header_title" (print "More Resources on " .Title) "header_size" 2 false "variant" "media" "list_header" 3) -}}
         {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources "settings" $resource_settings ) -}}
 
         {{- $services := (where .Pages "Section" "services") -}}
-        {{- $services_settings := ( dict "header_title" "More Tools and Services" "header_size" 2 "variant" "media" "list_default_width" false "list_header" 3) -}}
+        {{- $services_settings := ( dict "header_title" "More Tools and Services" "header_size" 2 "variant" "media" false "list_header" 3) -}}
         {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
       </section>
       <div class="grid-container grid-container-desktop">
