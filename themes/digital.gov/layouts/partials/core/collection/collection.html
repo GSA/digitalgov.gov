@@ -4,23 +4,9 @@
   Takes in a collection_data object and settings object
 
   @param {object} collection_data - List of pages or links that have a required header, description, link
-  @param {string} collection_data.header - header that can be a link or plain header text
-  @param {string} collection_data.summary - description text that follows the header
-  @param {string} collection_data.href - link url for internal pages and external sites
-
   @param {object} settings — Settings to control how the collection list should be displayed
-  @param {string} settings.variant — collection list type according to https://designsystem.digital.gov/components/collection/
-  - @type default - displays title and description. Used for hugo internal pages
-  - @type media - displays agency icon, title and description. Used for hugo internal pages
-  - @type headings - display title and meta_source. Used for external links
-  - @type custom - displays agency icon, title and description. Used for custom data set in front matter pages like topic/design
+  @see collection-list-item.html for explanation on each setting type
   @param {number} settings.limit — number of list items to be displayed, defaults to 10 max
-  @param {string} settings.header_title — header title at top of the list
-  @param {string} settings.header_size — list item header size ranging from h1-h6
-  @param {string} settings.header_link — if present will make the header a link, otherwise just a plain header
-  @param {string} settings.header_id — The relative path to the file, for example "v21st-century-idea"
-  @param {string} settings.meta_source - The referring source for an external link used with the "headings" variant that reads "Performance.gov".
-  - @description - Pass in .Params.source if using a set of resources pages for the collection component, otherwise provide a external link source
   @param {object} settings.footer - an object for setting the footer message
   - @param {string } settings.footer.title - link text that should read "More on ..." with an arrow icon before the text
   - @param {string } settings.footer.href - url for the link
@@ -40,12 +26,11 @@
 
 {{ if $collection_data }}
   <div class="dg-collection">
-    <div class="grid-row">
-      {{ if $settings.header_title }}
-        {{ partial "core/collection/collection-header" (dict "data" $header_data) }}
-      {{ end }}
-      {{ partial "core/usa-collection" (dict "collection_data" $collection_data "settings" $collection_settings) }}
-    </div>
+    {{ if $settings.header_title }}
+      {{ partial "core/collection/collection-header" (dict "header_data" $header_data) }}
+    {{ end }}
+
+    {{ partial "core/usa-collection" (dict "collection_data" $collection_data "settings" $collection_settings) }}
 
     {{ if $footer.title }}
       <div class="dg-collection__footer">
