@@ -162,7 +162,7 @@ You may have noticed that many of the controls require the efforts of your whole
 
 {{< ring title="Additional Resources">}}
 
-* [FedRAMP Plan of Action and Milestones (POA&M) Template (.xlsm, 70 KB)](https://www.fedramp.gov/assets/resources/templates/FedRAMP-POAM-Template.xlsm)
+* [FedRAMP: Understanding the Transition from NIST SP 800-53 Rev. 4 to Rev. 5](https://www.fedramp.gov/rev5-transition/)
 * [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
   * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
   * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
@@ -170,5 +170,6 @@ You may have noticed that many of the controls require the efforts of your whole
 {{< /ring >}}
 
 {{< note >}} **Web Managers Community**
+
 The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/). {{< /note >}}
 
