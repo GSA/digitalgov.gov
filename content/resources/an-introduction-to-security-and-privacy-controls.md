@@ -15,7 +15,7 @@ authors:
   - lindsay-young
 
 slug: an-introduction-to-security-and-privacy-controls
-primary_image: 
+primary_image: "intro-security-privacy-controls-nist-800-53-rabbit-photo-istock-getty-images-1203479919"
 
 # Controls how this page appears across the site
 # 0 -- hidden
