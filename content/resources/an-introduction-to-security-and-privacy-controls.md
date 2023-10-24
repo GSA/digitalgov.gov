@@ -7,6 +7,8 @@ summary: What do the control families of NIST 800-53 mean? Here's an overview of
 # See all topics at https://digital.gov/topics
 topics:
   - security
+  - policy
+  - regulation
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -157,3 +159,16 @@ The second column provides the full name of the control family. The third column
 </table>
 
 You may have noticed that many of the controls require the efforts of your whole team. To get them onboard, it helps to describe the larger objectives of your policies and procedures. Taking the time to explain controls can help everyone better contribute to your system's security and compliance. View NIST's [Cybersecurity and Privacy Reference Tool](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home) for more on control families.
+
+{{< ring title="Additional Resources">}}
+
+* [FedRAMP Plan of Action and Milestones (POA&M) Template (.xlsm, 70 KB)](https://www.fedramp.gov/assets/resources/templates/FedRAMP-POAM-Template.xlsm)
+* [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+  * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+  * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
+
+{{< /ring >}}
+
+{{< note >}} **Web Managers Community**
+The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/). {{< /note >}}
+
