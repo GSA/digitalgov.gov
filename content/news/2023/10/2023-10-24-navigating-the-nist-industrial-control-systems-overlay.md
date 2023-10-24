@@ -2,8 +2,8 @@
 date: 2023-10-25 19:35:00 -0500
 title: Navigating the NIST industrial control systems overlay
 deck: How to determine whether overlays apply to your IT system
-summary: A quick-start user guide for information technology professionals to
-  begin using overlays as a part of their regular security assessments.
+summary: A quick-start user guide for information technology professionals to begin using overlays as a part of their regular security assessments.
+
 # See all topics at https://digital.gov/topics
 topics:
   - security
@@ -11,13 +11,17 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - michael-marin
+
 slug: navigating-the-nist-industrial-control-systems-overlay
 primary_image: ics-industrial-control-system-genestro-istock-getty-images-1414920594
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 ## Overview
 
 Federal technologists who manage, own, or administer information technology systems should become familiar with NIST’s special publications (SP), especially if they manage specialized systems that incorporate overlays into their system boundary. People managing IT systems in physical locations, such as laboratories or factories, probably need to apply overlays. After familiarizing themselves with the publications, they should take note of the overlay repository to determine applicability (or non-applicability) to their systems.
