@@ -141,3 +141,9 @@ Finally, you will also need to follow your agency's policies for renewing or upd
 
 {{< /ring >}}
 
+
+
+{{< note >}} **Web Managers Community**
+The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/). {{< /note >}}
+
+
