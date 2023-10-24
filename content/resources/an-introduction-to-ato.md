@@ -15,7 +15,7 @@ authors:
   - lindsay-young
 
 slug: an-introduction-to-ato
-primary_image: "cloud-gov-example-diagram"
+primary_image: "title-card-intro-ato-karpenko-ilia-istock-getty-images-604030034-comp"
 
 # Controls how this page appears across the site
 # 0 -- hidden
