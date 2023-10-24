@@ -160,7 +160,7 @@ The second column provides the full name of the control family. The third column
 
 You may have noticed that many of the controls require the efforts of your whole team. To get them onboard, it helps to describe the larger objectives of your policies and procedures. Taking the time to explain controls can help everyone better contribute to your system's security and compliance. View NIST's [Cybersecurity and Privacy Reference Tool](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home) for more on control families.
 
-## {{< ring title="Additional Resources">}}
+{{< ring title=" ## Additional Resources">}}
 
 * [FedRAMP: Understanding the Transition from NIST SP 800-53 Rev. 4 to Rev. 5](https://www.fedramp.gov/rev5-transition/)
 * [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
