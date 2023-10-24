@@ -37,11 +37,11 @@ For an overview of ATOs, read [An introduction to ATOs](https://digital.gov/reso
 
 Understanding the controls is an important part of the ATO process. Specifically when writing a system security and privacy plan. With hundreds of controls, approaching ATOs can be quite daunting. That's why it's good to start off with an overview of the controls.
 
-The controls are grouped by topic, and those topics are called families. Next, we'll explore each control family and what kind of considerations that control family focuses on.
+The controls are grouped by *topic*, and those topics are called *families*. Next, we'll explore each control family and what kind of considerations that control family focuses on.
 
 ## Meet the family
 
-The three-column table below lists the 20 control families alphabetically by their two-character ID \[ID code]. Security and compliance folks often refer to the controls by this ID. For each, the ID is linked to the full list of controls for that family.
+The three-column table below lists the 20 control families alphabetically by their two-character ID (identification code). Security and compliance folks often refer to the controls by this ID. For each, the ID is linked to the full list of controls for that family.
 
 The second column provides the full name of the control family. The third column provides a plain language description of the control to give you a feel for what kind of security concern that control family covers.
 
@@ -166,10 +166,10 @@ You may have noticed that many of the controls require the efforts of your whole
 * [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
   * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
   * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
+* [NIST Computer Security Resource Center Glossary](https://csrc.nist.gov/glossary)
 
 {{< /ring >}}
 
 {{< note >}} **Web Managers Community**
 
 The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/). {{< /note >}}
-
