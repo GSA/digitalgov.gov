@@ -1,3 +1,24 @@
+{{/* Featured Resource Component
+
+  @params {string} resourcePath - a relative hugo path to lookup a page to feature, use a forward slash before the path and no trailing slash
+  @params {string} kicker - text that is displayed above the main content
+
+  @example shortcode
+  {{< featured-resource resourcePath = "/guides/hcd/discovery-concepts"
+>}}
+{{< featured-resource resourcePath = "/resources/an-introduction-to-plain-language" >}}
+
+@example shortcode for communities, use the filepath in the second level for
+resourcePath to look up correctly
+{{< featured-resource resourcePath = "/communities/communicators" kicker = "Join the Community" >}}
+{{< featured-resource resourcePath = "/communities/multilingual" kicker = "Join the Community" >}}
+{{< featured-resource resourcePath = "/communities/plain-language-community-of-practice" kicker = "Join the Community" >}}
+{{< featured-resource resourcePath = "/communities/social-media" kicker = "Join the Community" >}}
+{{< featured-resource resourcePath = "/communities/user-experience" kicker = "Join the Community" >}}
+{{< featured-resource resourcePath = "/communities/web-analytics-and-optimization" kicker = "Join the Community" >}}
+{{< featured-resource resourcePath = "/communities/web-managers-forum" kicker = "Join the Community" >}}
+
+*/}}
 {{- $resourcePath := .resourcePath -}}
 {{- $kicker := .kicker -}}
 {{- if $resourcePath -}}
