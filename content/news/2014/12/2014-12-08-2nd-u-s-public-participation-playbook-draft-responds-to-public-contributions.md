@@ -8,8 +8,6 @@ authors:
 topics:
   - social-media
   - Census
-  - Defense Commissary Agency
-  - Defense Logistics Agency
   - department-of-commerce
   - dhs
   - DOL
@@ -23,15 +21,12 @@ topics:
   - Firstnet
   - FWS
   - gsa
-  - International Trade Administration
-  - ITA
   - Library of Congress
   - LOC
   - nasa
   - National Defense University
   - national-institutes-of-health
   - National Library of Medicine
-  - Navy Army Community Credit Union
   - NDU
   - nih
   - NLM

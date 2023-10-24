@@ -33,7 +33,7 @@ You can think of this process as having five steps. We will go over each step in
 
 1. To determine the **system's security impact level**, you first need to understand the risks that you are taking on.
 2. You need to have a clear understanding of your project. Document your software and policies with a **System Security and Privacy Plan** (SSPP).
-3. Then, there is an **assessment** of your system and your security plan. This process reviews your SSPP and looks for ways to improve the security of your system. 
+3. Then, there is an **assessment** of your system and your security plan. This process reviews your SSPP and looks for ways to improve the security of your system.
 4. Once outstanding risks are identified, the Authorizing Official, (AO) signs off on remaining risk in an **ATO memo**.
 5. This process doesn't end. Create a **Plan of Action and Milestones** (POA&M) to help you create and maintain security improvements. Continue to monitor and update your system.
 
@@ -56,7 +56,7 @@ It takes many people to collaborate on an ATO, but here are three key roles to u
 
 ## How to ATO your system
 
-How this process is interpreted and administered across agencies varies. The best advice is to talk early and often to the person or team that will be accessing your system and find out what works best for them. 
+How this process is interpreted and administered across agencies varies. The best advice is to talk early and often to the person or team that will be accessing your system and find out what works best for them.
 
 Sharing a [product roadmap](https://product-guide.18f.gov/define/roadmap/) can help other teams that you work with understand what your future needs may be. Waiting too long to talk to security will make the process take longer. The ATO process is a communication exercise, so creating your documentation as your system grows can be helpful. And you need to talk to your security team to know what kind of documentation they need and how they like things documented. If you start those conversations too late, it may take more time to make changes to meet requirements.
 
@@ -85,7 +85,7 @@ You will notice that the above questions are about the substance of the system a
 
 This is also a good time to research any [Paperwork Reduction Act](https://pra.digital.gov/) (PRA) or Privacy Act requirements, and find out if your project needs a System of Record Notice (SORN).
 
-### 2) System Security and Privacy Plan 
+### 2) System Security and Privacy Plan
 
 The System Security and Privacy Plan (SSPP), also known as the System Security Plan (SSP), is where you document how the project operates and its security measures.
 
@@ -118,7 +118,7 @@ After the authorizing official (AO) reviews the SSPP and Assessment package, the
 
 This is also a human process. The project team needs to build trust with the assessment team and IT leadership. That is an important part of reaching an agreement on an ATO in a timely manner.
 
-### 5) POA&M and monitoring 
+### 5) POA&M and monitoring
 
 The ATO process doesn't end once the product is approved. The system owner is responsible for continuing to comply with rules and regulations. That means things like following the practices and policies you said you would do in your SSPP.
 
@@ -134,8 +134,8 @@ Finally, you will also need to follow your agency's policies for renewing or upd
 * [CIO Council guide to FISMA](https://www.cio.gov/policies-and-priorities/FISMA/)
 * [FIPS 199 Workbook](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.199.pdf)
 * [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
-  * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
-  * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
+    * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+    * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 * [Lifecycle of a launch](https://handbook.tts.gsa.gov/launching-software/lifecycle/), outlines how to prepare for ATOs at GSA. It has a lot of good advice that is transferable to other agencies.
 * [TTS engineering practices guide, Security section](https://engineering.18f.gov/security/) by 18F provides technical advice on implementing and documenting your ATO.
 

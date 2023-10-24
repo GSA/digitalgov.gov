@@ -12,7 +12,6 @@ topics:
   - uswds
   - emerging-tech
   - design
-  - digitalgov
   - accessibility
   - mobile
   - 21st-century-idea

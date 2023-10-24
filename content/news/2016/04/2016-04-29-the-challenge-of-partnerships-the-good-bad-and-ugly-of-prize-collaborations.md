@@ -10,7 +10,6 @@ topics:
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - HHS
-  - National Institute of Standards
   - NIST
   - united-states-department-of-health-and-human-services
 ---

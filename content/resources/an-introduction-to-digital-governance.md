@@ -37,7 +37,7 @@ Just as a magazine has an editor-in-chief, someone must be in charge of the publ
 
 Every federal agency should have an enterprise-wide governance structure that provides both high-level strategic direction and oversight, as well as day-to-day management and coordination of digital initiatives.
 
-Another key component of governance is to ensure that employees who manage digital properties have appropriate language in their position descriptions  describing these duties. Accurate position descriptions enable employees to get credit in their performance plans for this important and complex work. Senior leaders should also have appropriate language in their performance plans related to digital service delivery, to ensure accountability and oversight. 
+Another key component of governance is to ensure that employees who manage digital properties have appropriate language in their position descriptions  describing these duties. Accurate position descriptions enable employees to get credit in their performance plans for this important and complex work. Senior leaders should also have appropriate language in their performance plans related to digital service delivery, to ensure accountability and oversight.
 
 In addition to a website manager, [Who’s on your digital dream team?](https://digital.gov/2020/05/27/whos-on-your-digital-dream-team/) explains the various roles your agency should include on your web team(s).
 
@@ -45,13 +45,13 @@ In addition to a website manager, [Who’s on your digital dream team?](https://
 
 For example, at the General Services Administration (GSA), we operate a Digital Experience Executive Board, supported by an agency-wide Digital Council. The Board is composed of senior executives who provide high-level direction, and Council members coordinate implementation of digital initiatives within their business line. We also have an Enterprise Digital Experience team to coordinate enterprise improvements to our agency’s digital experience. Read more about [digital governance at GSA](https://digital.gov/2023/02/23/digital-governance-at-gsa/). Note that digital governance may look different at your agency, depending on how digital teams and functions are organized.
 
-At GSA, we also [defined the work of a website manager](https://digital.gov/2023/03/24/who-is-your-website-manager/) and identified one website manager for each digital property. Then, we updated their position descriptions. 
+At GSA, we also [defined the work of a website manager](https://digital.gov/2023/03/24/who-is-your-website-manager/) and identified one website manager for each digital property. Then, we updated their position descriptions.
 
 {{< /ring >}}
 
 ## How to identify your agency digital experience delivery lead
 
-[OMB M-23-22: Delivering a digital-first public experience](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) requires federal agencies to identify a primary point-of-contact to coordinate implementation. 
+[OMB M-23-22: Delivering a digital-first public experience](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) requires federal agencies to identify a primary point-of-contact to coordinate implementation.
 
 {{< card-policy src="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" kicker="Law" title="**MEMO M-23-22, Section IV.A.1: Immediate Agency Actions, Number 1**" >}}
 **A. Immediate Agency Actions**

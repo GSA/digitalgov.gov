@@ -19,7 +19,6 @@ topics:
   - fema
   - firstnet
   - mobile
-  - National Guard
   - National Weather Service
   - NWS
   - social-media
