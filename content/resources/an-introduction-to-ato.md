@@ -136,6 +136,7 @@ Finally, you will also need to follow your agency's policies for renewing or upd
 * [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
   * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
   * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
+* [NIST Computer Security Resource Center Glossary](https://csrc.nist.gov/glossary)
 * [Lifecycle of a launch](https://handbook.tts.gsa.gov/launching-software/lifecycle/), outlines how to prepare for ATOs at GSA. It has a lot of good advice that is transferable to other agencies.
 * [TTS engineering practices guide, Security section](https://engineering.18f.gov/security/) by 18F provides technical advice on implementing and documenting your ATO.
 
@@ -144,4 +145,3 @@ Finally, you will also need to follow your agency's policies for renewing or upd
 {{< note >}} **Web Managers Community**
 
 The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/). {{< /note >}}
-
