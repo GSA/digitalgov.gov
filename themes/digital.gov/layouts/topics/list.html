@@ -160,9 +160,6 @@
       {{ end }}
     {{ else }}
       <div class="grid-container grid-container-desktop">
-        {{ if .Paginator.HasPrev }}
-          {{- partial "core/pagination.html" . -}}
-        {{ end }}
         {{/* Display events and news in one stream with pagination for topic default */}}
         {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
         {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
@@ -177,6 +174,10 @@
             {{ .Title -}}
           </h2>
           <p>{{- len $newsPostCount }} posts</p>
+
+          {{ if .Paginator.HasPrev }}
+            {{- partial "core/pagination.html" . -}}
+          {{ end }}
 
           {{- range $stream -}}
             {{- if eq .Type "events" -}}
@@ -214,9 +215,6 @@
         {{ end }}
       </section>
       <div class="grid-container grid-container-desktop">
-        {{ if .Paginator.HasPrev }}
-          {{- partial "core/pagination.html" . -}}
-        {{ end }}
         {{/* Display the next set of events and news pages after the first 5 */}}
         {{- $past_events := after 5 (where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix) -}}
         {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
@@ -231,6 +229,10 @@
             {{ .Title -}}
           </h2>
           <p>{{- len $newsPostCount }} posts</p>
+
+          {{ if .Paginator.HasPrev }}
+            {{- partial "core/pagination.html" . -}}
+          {{ end }}
 
           {{- range $stream -}}
             {{- if eq .Type "events" -}}
