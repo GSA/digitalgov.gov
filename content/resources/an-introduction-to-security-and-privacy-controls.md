@@ -164,8 +164,8 @@ You may have noticed that many of the controls require the efforts of your whole
 
 * [FedRAMP: Understanding the Transition from NIST SP 800-53 Rev. 4 to Rev. 5](https://www.fedramp.gov/rev5-transition/)
 * [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
-  * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
-  * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
+    * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+    * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 * [NIST Computer Security Resource Center Glossary](https://csrc.nist.gov/glossary)
 
 {{< /ring >}}
