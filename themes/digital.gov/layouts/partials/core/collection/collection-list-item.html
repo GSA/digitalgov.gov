@@ -34,42 +34,44 @@
 
 {{- with $list_item_data -}}
 
-  <li class="usa-collection__item" data-gh-edit-page="{{- $path -}}">
-    {{ if or (eq $settings.variant "media") (eq $settings.variant "custom") }}
-      {{- partial "core/collection/collection-icon" (dict "logo_source" $settings.logo_source) -}}
-    {{ end }}
-    <div class="usa-collection__body">
-      {{ if .title }}
-      <h{{ $settings.list_header | safeHTML }} class="usa-collection__header">
-        <a class="usa-link" href="{{- .href -}}" title="{{- .title | markdownify -}}">
-          {{- .title | markdownify -}}
-        </a>
-      </h{{ $settings.list_header | safeHTML }}>
+  {{ if .title }}
+    <li class="usa-collection__item" data-gh-edit-page="{{- $path -}}">
+      {{ if or (eq $settings.variant "media") (eq $settings.variant "custom") }}
+        {{- partial "core/collection/collection-icon" (dict "logo_source" $settings.logo_source) -}}
       {{ end }}
-      {{ if ne $settings.variant "headings" }}
-        {{ if .summary }}
-          <p class="usa-collection__description">
-            {{ .summary | markdownify }}
-          </p>
+      <div class="usa-collection__body">
+        {{ if .title }}
+        <h{{ $settings.list_header | safeHTML }} class="usa-collection__header">
+          <a class="usa-link" href="{{- .href -}}" title="{{- .title | markdownify -}}">
+            {{- .title | markdownify -}}
+          </a>
+        </h{{ $settings.list_header | safeHTML }}>
         {{ end }}
-      {{ else }}
-        {{ if $settings.meta_source }}
-          <ul class="usa-collection__meta">
-            <li class="usa-collection__meta-item position-relative">
-              <svg
-                class="usa-icon position-relative bottom-neg-2px"
-                aria-hidden="true"
-                role="img"
-              >
-                <use
-                  xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
-                ></use>
-              </svg>
-              {{- $settings.meta_source -}}
-            </li>
-          </ul>
+        {{ if ne $settings.variant "headings" }}
+          {{ if .summary }}
+            <p class="usa-collection__description">
+              {{ .summary | markdownify }}
+            </p>
+          {{ end }}
+        {{ else }}
+          {{ if $settings.meta_source }}
+            <ul class="usa-collection__meta">
+              <li class="usa-collection__meta-item position-relative">
+                <svg
+                  class="usa-icon position-relative bottom-neg-2px"
+                  aria-hidden="true"
+                  role="img"
+                >
+                  <use
+                    xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
+                  ></use>
+                </svg>
+                {{- $settings.meta_source -}}
+              </li>
+            </ul>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-  </li>
+      </div>
+    </li>
+  {{ end }}
 {{- end -}}

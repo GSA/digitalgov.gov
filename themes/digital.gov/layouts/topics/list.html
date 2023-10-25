@@ -3,6 +3,19 @@
 */}}
 
 {{- define "content" -}}
+  {{- $resources := (where .Pages "Section" "resources") -}}
+  {{- $services := (where .Pages "Section" "services") -}}
+  {{- $communities := (where .Pages "Section" "communities") -}}
+  {{- $events := (where .Pages.ByDate.Reverse "Section" "events") -}}
+  {{- $posts := (where .Pages "Section" "news") -}}
+  {{/* Use pagination query for news and event streams */}}
+  {{- $events_paginated := (where .Paginator.Pages.ByDate.Reverse "Section" "events") -}}
+  {{- $past_events_paginated := (where $events_paginated ".Date.Unix" "<" now.Unix) -}}
+  {{- $past_events_paginated = (where $events_paginated ".Params.youtube_id" "!=" nil) -}}
+  {{- $posts_paginated := (where .Paginator.Pages "Section" "news") -}}
+  {{- $stream := union $posts_paginated $past_events_paginated -}}
+  {{- $stream = $stream.ByDate.Reverse -}}
+
 
   <main role="main" id="main-content">
     {{ $path := "" }}{{ with .File }}
@@ -73,7 +86,6 @@
         {{ end }}
 
         {{ range .Params.featured_communities }}
-          {{/* TODO: handle error on getting wrong path for communities page */}}
           {{ $community_page := $.GetPage (printf "communities/%s" .) }}
           {{ $kicker := "" }}
           {{ if $community_page.Params.kicker }}
@@ -102,16 +114,13 @@
       {{/* Only show these sections when on page 1, otherwise hide to show only More News and Events */}}
       {{ if lt .Paginator.PageNumber 2 }}
         {{/* Default - Related resources, services, and communities */}}
-        <div class="grid-container-desktop margin-top-2">
-          {{- $resources := (where .Pages "Section" "resources") -}}
+        <div class="grid-container-desktop usa-section">
           {{- $resource_settings := ( dict "header_title" (print "Resources on " .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
           {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources "settings" $resource_settings ) -}}
 
-          {{- $services := (where .Pages "Section" "services") -}}
           {{- $services_settings := ( dict "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
           {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
 
-          {{- $communities := (where .Pages "Section" "communities") -}}
           {{- $community_settings := ( dict "header_title" "Join a Community of Practice" "header_size" 2 "variant" "media" "list_header" 3) -}}
           {{- partial "partials/core/collection/collection.html" (dict "collection_data" $communities "settings" $community_settings) -}}
         </div>
@@ -122,15 +131,15 @@
     {{ if .Params.legislation }}
       {{/* Only show these sections when on page 1, otherwise hide to show only More News and Events */}}
       {{ if lt .Paginator.PageNumber 2 }}
-        <section class="dg-stream padding-bottom-2">
+        <section class="dg-stream usa-section">
           <div class="grid-row grid-container-desktop">
             {{/* Display first 5 events */}}
-            {{- $events := first 5 (where .Site.Pages.ByDate.Reverse "Section" "events") -}}
+            {{- $featured_events_stream := first 5 $events -}}
 
-            {{- if $events -}}
+            {{- if $featured_events_stream -}}
               <h2>{{ .Title }} events</h2>
 
-              {{- range $events -}}
+              {{- range $featured_events_stream -}}
                 {{- .Render "card-event" -}}
               {{- end -}}
             {{- else -}}
@@ -140,8 +149,7 @@
 
           <div class="grid-row grid-container-desktop">
             {{/* Display first 5 news posts */}}
-            {{- $posts := first 5 (where .Paginator.Pages "Section" "news") -}}
-            {{- $posts_stream := $posts.ByDate.Reverse -}}
+            {{- $posts_stream := first 5 $posts.ByDate.Reverse -}}
 
             {{- if $posts_stream -}}
               <h2>{{ .Title }} news</h2>
@@ -159,99 +167,84 @@
         </section>
       {{ end }}
     {{ else }}
-      <div class="grid-container grid-container-desktop">
-        {{/* Display events and news in one stream with pagination for topic default */}}
-        {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-        {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-        {{- $posts := where .Paginator.Pages "Section" "news" -}}
-        {{- $stream := union $posts $past_events -}}
-        {{- $stream := $stream.ByDate.Reverse -}}
-        {{- $newsPostCount := (where .Pages "Section" "news") -}}
+      <section class="usa-section">
+        <div class="grid-container grid-container-desktop">
+          {{/* Display events and news in one stream with pagination for topic default */}}
+          {{- if $stream -}}
+            <h2>
+              News and Events on
+              {{ .Title -}}
+            </h2>
+            <p>{{- len $posts }} posts</p>
 
-        {{- if $stream -}}
-          <h2>
-            News and Events on
-            {{ .Title -}}
-          </h2>
-          <p>{{- len $newsPostCount }} posts</p>
+            {{- range $stream -}}
+              {{- if eq .Type "events" -}}
+                {{- .Render "card-event" -}}
+              {{- end -}}
 
-          {{ if .Paginator.HasPrev }}
-            {{- partial "core/pagination.html" . -}}
-          {{ end }}
-
-          {{- range $stream -}}
-            {{- if eq .Type "events" -}}
-              {{- .Render "card-event" -}}
-            {{- end -}}
-
-            {{- if eq .Type "news" -}}
-              {{/* Display external links, see layouts/news for news card template */}}
-              {{- if .Params.source -}}
-                {{ .Render "card-elsewhere" }}
-              {{ else }}
-                {{/* Internal links */}}
-                {{ .Render "card-article" }}
-              {{ end }}
+              {{- if eq .Type "news" -}}
+                {{/* Display external links, see layouts/news for news card template */}}
+                {{- if .Params.source -}}
+                  {{ .Render "card-elsewhere" }}
+                {{ else }}
+                  {{/* Internal links */}}
+                  {{ .Render "card-article" }}
+                {{ end }}
+              {{- end -}}
             {{- end -}}
           {{- end -}}
-        {{- end -}}
 
-        {{- partial "core/pagination.html" . -}}
-      </div>
+          {{- partial "core/pagination.html" . -}}
+        </div>
+      </section>
     {{ end }}
 
     {{ if .Params.legislation }}
       {{/* Display remaining resources, events and news for topic collection */}}
-      <section class="grid-container-desktop margin-top-2">
-        {{/* Only show these sections when on page 1, otherwise hide to show only More News and Events */}}
-        {{ if lt .Paginator.PageNumber 2 }}
-          {{- $resources := (where .Pages "Section" "resources") -}}
+      {{ if lt .Paginator.PageNumber 2 }}
+        <section class="grid-container-desktop usa-section">
+          {{/* Only show these sections when on page 1, otherwise hide to show only More News and Events */}}
           {{- $resource_settings := ( dict "header_title" (printf "More Resources on %s" .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
           {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources "settings" $resource_settings ) -}}
 
-          {{- $services := (where .Pages "Section" "services") -}}
           {{- $services_settings := ( dict "header_title" "More Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
           {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
-        {{ end }}
-      </section>
-      <div class="grid-container grid-container-desktop">
-        {{/* Display the next set of events and news pages after the first 5 */}}
-        {{- $past_events := after 5 (where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix) -}}
-        {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-        {{- $posts := after 5 (where .Paginator.Pages "Section" "news") -}}
-        {{- $stream := union $posts $past_events -}}
-        {{- $stream := $stream.ByDate.Reverse -}}
-        {{- $newsPostCount := (where .Pages "Section" "news") -}}
+        </section>
+      {{ end }}
+      <div class="usa-section usa-section--light">
+        <div class="grid-container grid-container-desktop">
+          {{/* Display stream of events and news after the first 5 for both types with pagination for topic collection */}}
+          {{- $past_events_paginated := after 5 $past_events_paginated -}}
+          {{- $posts_paginated := after 5 $posts_paginated -}}
+          {{- $stream := union $posts_paginated $past_events_paginated -}}
+          {{- $stream := $stream.ByDate.Reverse -}}
 
-        {{- if $stream -}}
-          <h2>
-            More News and Events on
-            {{ .Title -}}
-          </h2>
-          <p>{{- len $newsPostCount }} posts</p>
+          {{- if $stream -}}
+            <h2>
+              More News and Events on
+              {{ .Title -}}
+            </h2>
+            <p>{{- len $posts }} posts</p>
 
-          {{ if .Paginator.HasPrev }}
-            {{- partial "core/pagination.html" . -}}
-          {{ end }}
+            {{- range $stream -}}
+              {{- if eq .Type "events" -}}
+                {{- .Render "card-event" -}}
+              {{- end -}}
 
-          {{- range $stream -}}
-            {{- if eq .Type "events" -}}
-              {{- .Render "card-event" -}}
-            {{- end -}}
-
-            {{- if eq .Type "news" -}}
-              {{/* Display external links, see layouts/news for news card template */}}
-              {{- if .Params.source -}}
-                {{ .Render "card-elsewhere" }}
-              {{ else }}
-                {{/* Display internal links */}}
-                {{ .Render "card-article" }}
-              {{ end }}
+              {{- if eq .Type "news" -}}
+                {{/* Display external links, see layouts/news for news card template */}}
+                {{- if .Params.source -}}
+                  {{ .Render "card-elsewhere" }}
+                {{ else }}
+                  {{/* Display internal links */}}
+                  {{ .Render "card-article" }}
+                {{ end }}
+              {{- end -}}
             {{- end -}}
           {{- end -}}
-        {{- end -}}
 
-        {{- partial "core/pagination.html" . -}}
+          {{- partial "core/pagination.html" . -}}
+        </div>
       </div>
     {{ end }}
 
