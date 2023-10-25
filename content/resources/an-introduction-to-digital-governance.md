@@ -23,7 +23,7 @@ slug: an-introduction-to-digital-governance
 
 ## What is digital governance?
 
-Governance can be defined as the act or process of governing or overseeing the control and direction of something (such as a country or an organization). For federal agencies, digital governance refers to the internal systems and processes we use to manage our digital presence, including:
+Governance can be defined as *the act or process of governing or overseeing the control and direction of something (such as a country or an organization)* <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>. For federal agencies, digital governance refers to the internal systems and processes we use to manage our digital presence, including:
 
 * Establishing clear operating rules
 * Defining responsibilities and lines of authority
@@ -70,3 +70,11 @@ In addition to a website manager, [Who’s on your digital dream team?](https://
 * [Webinar Recap: How to Build Your Digital Dream Team](https://digital.gov/2022/08/01/webinar-recap-how-to-build-your-digital-dream-team/)
 * [Sunrise to Sunset: Building a Customer-centric Digital Ecosystem](https://digital.gov/2022/10/14/sunrise-to-sunset-building-a-customer-centric-digital-ecosystem/)
 * [Taking a Design-led Approach to Digital Modernization](https://digital.gov/2022/10/07/taking-a-design-led-approach-to-digital-modernization/)
+
+
+<footer>
+<h3 id="footnote-label">Footnotes</h3>
+<ol>
+<li id="fn1">Merriam-Webster. 2018. “Definition of GOVERNANCE.” Merriam-Webster.com. 2018. https://www.merriam-webster.com/dictionary/governance. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+</ol>
+</footer>
