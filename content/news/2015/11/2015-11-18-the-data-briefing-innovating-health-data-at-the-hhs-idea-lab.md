@@ -10,7 +10,6 @@ topics:
   - data
   - data-gov
   - HHS
-  - Indian Health Service
   - innovation
   - open-data
   - the-data-briefing
