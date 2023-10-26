@@ -16,5 +16,3 @@ You may also wish to review these additional research methods:
 - The Book Apart Series, specifically [Design for Real Life](https://abookapart.com/products/design-for-real-life) by Eric Meyer & Sara Wachter-Boettcher
 
 {{< /ring >}}
-
-{{< featured-resource resourcePath = "/guides/hcd/introduction" kicker = "Get Started">}}
