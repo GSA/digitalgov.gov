@@ -66,7 +66,7 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 Understand customer needs, set performance standards, collect and address customer feedback, and use data to continuously improve your programs.
 
 - [Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/download/attachments/636161243/8_2_DGS_Implementation_Instructions_v_final.docx?version=1&modificationDate=1350935840136)</a> (OMB guidance accessible to federal employees on the OMB MAX wiki)
-- [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf)
+- [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-22.pdf)
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
     - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
 
