@@ -58,7 +58,7 @@ Note that digital governance may look different at your agency, depending on how
 
 {{< /ring >}}
 
-Another key component of governance is to ensure that employees who manage digital properties have appropriate language in their position descriptions describing these duties. Accurate position descriptions enable employees to get credit in their performance plans for this important and complex work. Senior leaders should also have appropriate language in their performance plans related to digital service delivery, to ensure accountability and oversight. 
+Another key component of governance is to ensure that employees who manage digital properties have appropriate language in their position descriptions describing these duties. Accurate position descriptions enable employees to get credit in their performance plans for this important and complex work. Senior leaders should also have appropriate language in their performance plans related to digital service delivery, to ensure accountability and oversight.
 
 In addition to a website manager, [Who’s on your digital dream team?](https://digital.gov/2020/05/27/whos-on-your-digital-dream-team/) explains the various roles your agency should include on your web team(s).
 
