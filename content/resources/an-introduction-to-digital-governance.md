@@ -72,6 +72,7 @@ In addition to a website manager, [Who’s on your digital dream team?](https://
 - [Taking a Design-led Approach to Digital Modernization](https://digital.gov/2022/10/07/taking-a-design-led-approach-to-digital-modernization/)
 
 {{< note >}} **Web Managers Community**
+
 The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/). {{< /note >}}
 
 <footer>
