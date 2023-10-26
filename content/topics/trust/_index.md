@@ -36,7 +36,7 @@ data:
     community:
       - link: "/communities/web-content-managers/"
   top_resources_header: "Trust: essential knowledge"
-  top_resources:
+    top_resources:
     - title: "An introduction to trust"
       href: "/resources/an-introduction-to-trust/"
       summary: "Trusted digital services meet customer expectations, and they are easy to find, understand, and use. Understand how digital services impact trust in government."
