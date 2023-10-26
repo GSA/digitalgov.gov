@@ -40,9 +40,9 @@ data:
     - title: "An introduction to trust"
       href: "/resources/an-introduction-to-trust/"
       summary: "Trusted digital services meet customer expectations, and they are easy to find, understand, and use. Understand how digital services impact trust in government."
-    - title: "Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government"
+    - title: "Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government"
       href: "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government"
-      summary: "An executive order outlining how technology must modernize government"
+      summary: "An executive order outlining how technology must modernize government services"
     - title: U.S. Web Design System Design principles: Earn trust
       href: "https://designsystem.digital.gov/design-principles/#earn-trust"
       summary: "A list of key considerations and practical actions you can take to earn trust with users."
