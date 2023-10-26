@@ -27,7 +27,7 @@ data:
       image: "legislative-stamp-card-logo.png"
       link_url: "/resources/21st-century-integrated-digital-experience-act/"
   featured_resources:
-    multiple: true
+    multiple: false
     resources:
       - link: 
         kicker: 
