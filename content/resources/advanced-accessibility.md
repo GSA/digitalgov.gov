@@ -1,5 +1,4 @@
 ---
-# View this page at https://digital.gov/resources/introduction-accessibility
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
