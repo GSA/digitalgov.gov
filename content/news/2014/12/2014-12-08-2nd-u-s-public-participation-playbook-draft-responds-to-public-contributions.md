@@ -8,8 +8,6 @@ authors:
 topics:
   - social-media
   - Census
-  - Defense Commissary Agency
-  - Defense Logistics Agency
   - department-of-commerce
   - dhs
   - DOL
