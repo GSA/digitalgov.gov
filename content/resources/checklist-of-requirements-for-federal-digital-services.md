@@ -268,7 +268,7 @@ Federal executive branch agencies are required to write all new or significantly
 - [OMB Memo on Testing and Simplifying Federal Forms](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/memos/testing-and-simplifying-federal-forms.pdf) (PDF, 94 kb, 2 pages, August 2012)
 - [Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) (PDF, 153 kb, 3 pages, January 2010)
 - [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
-- [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 kb, 6 pages, April 2011)
+- [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 kb, 6 pages, April 2011)
 
 ## Privacy and identity management
 
