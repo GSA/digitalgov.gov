@@ -12,7 +12,7 @@ authors:
 
 In September 2009, the President released his Strategy for American Innovation, calling for agencies to increase their ability to promote and harness innovation by using policy tools such as prizes and challenges. This guidance calls for the increased use of challenges and prizes to develop new tools and approaches to improve open government, and highlights for agencies policy and legal issues related to the use of prizes and challenges as tools for promoting open government, innovation, and other national priorities.
 
-{{< asset-static button="true" button-variant="outline" file="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf" label="View Guidance on the Use of Challenges and Prizes to Promote Open Gov" >}}
+{{< asset-static button="true" button-variant="outline" file="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-11.pdf" label="View Guidance on the Use of Challenges and Prizes to Promote Open Gov" >}}
 
 ## Related Resources
 
