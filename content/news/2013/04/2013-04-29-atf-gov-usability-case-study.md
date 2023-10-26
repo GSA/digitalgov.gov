@@ -7,8 +7,6 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - atf
-  - Bureau of Alcohol Tobacco Firearms and Explosives
   - digitalgov-user-experience-program
   - usability-case-study
   - usability-testing

@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - data
-  - bea
   - us-bureau-of-economic-analysis
 ---
 
