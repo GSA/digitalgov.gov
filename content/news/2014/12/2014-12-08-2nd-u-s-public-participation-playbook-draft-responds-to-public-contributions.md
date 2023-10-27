@@ -21,7 +21,6 @@ topics:
   - Firstnet
   - FWS
   - gsa
-  - ITA
   - Library of Congress
   - LOC
   - nasa

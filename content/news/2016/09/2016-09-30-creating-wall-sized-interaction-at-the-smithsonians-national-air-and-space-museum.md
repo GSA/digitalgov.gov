@@ -14,7 +14,6 @@ topics:
   - mobile
   - mobile-apps
   - NASM
-  - National Air and Space Museum
   - smithsonian-institution
   - user-centered-design
   - user-experience
