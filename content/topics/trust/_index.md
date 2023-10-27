@@ -21,11 +21,11 @@ topic_collection: true
 data:
   contents:
     legislation:
-      name: "21st Century Integrated Digital Experience Act"
-      description: ""
+      name: "Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government"
+      description: "Executive order 14058 outlines how we must design and deliver services in a manner that people of all abilities can navigate, using technology to modernize government and services for the public."
       link_text: "View policy"
       image: "legislative-stamp-card-logo.png"
-      link_url: "/resources/21st-century-integrated-digital-experience-act/"
+      link_url: "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government"
   featured_resources:
     multiple: false
     resources:
@@ -40,9 +40,9 @@ data:
     - title: "An introduction to trust"
       href: "/resources/an-introduction-to-trust/"
       summary: "Trusted digital services meet customer expectations, and they are easy to find, understand, and use. Understand how digital services impact trust in government."
-    - title: "Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government"
-      href: "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government"
-      summary: "Executive order 14058 outlines how we must design and deliver services in a manner that people of all abilities can navigate, using technology to modernize government and services for the public."
+    - title: "21st Century Integrated Digital Experience Act"
+      href: "resources/21st-century-integrated-digital-experience-act/"
+      summary: "Delivering a digital-first public experience is a significant opportunity to improve the lives of millions by making it easier to access the information and services they use and count on each and every day."
     - title: "U.S. Web Design System Design principles: Earn trust"
       href: "https://designsystem.digital.gov/design-principles/#earn-trust"
       summary: "A list of key considerations and practical actions you can take to earn trust with users."
