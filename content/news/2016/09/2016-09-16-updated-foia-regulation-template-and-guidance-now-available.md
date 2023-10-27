@@ -12,7 +12,6 @@ topics:
   - DOJ
   - FOIA
   - freedom-of-information-act
-  - Office of Government Information Services
   - office-of-information-policy
   - OGIS
   - OIP

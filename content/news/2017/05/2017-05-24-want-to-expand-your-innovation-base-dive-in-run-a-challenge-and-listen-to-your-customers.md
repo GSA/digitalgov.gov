@@ -15,8 +15,6 @@ topics:
   - crowdsourcing
   - hhs
   - innovation
-  - office-of-minority-health
-  - office-of-the-national-coordinator-for-health-it
   - omh
   - onc
   - prizes-and-competitions
