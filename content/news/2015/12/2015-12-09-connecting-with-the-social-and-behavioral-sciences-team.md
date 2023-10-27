@@ -13,7 +13,6 @@ topics:
   - customer-experience-community-of-practice
   - cx
   - recaps
-  - SBST
   - social-and-behavioral-sciences-team
   - user-experience
 
