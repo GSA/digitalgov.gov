@@ -46,7 +46,6 @@ topics:
   - us-department-of-state
   - us-environmental-protection-agency
   - us-food-and-drug-administration
-  - US Global Change Research Program
   - us-national-park-service
   - us-small-business-administration
   - united-states-army

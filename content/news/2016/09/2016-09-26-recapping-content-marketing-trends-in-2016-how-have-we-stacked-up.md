@@ -25,7 +25,6 @@ topics:
   - the-content-corner
   - us-department-of-the-interior
   - us-department-of-the-treasury
-  - US Health Resources and Services Administration
   - united-states-department-of-health-and-human-services
   - USAJOBS
   - white-house
