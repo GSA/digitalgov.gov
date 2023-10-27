@@ -18,7 +18,6 @@ topics:
   - department-of-commerce
   - kanban
   - lean
-  - National Technical Information Service
   - NTIS
   - sprint
   - workflows

@@ -27,7 +27,6 @@ topics:
   - National Defense University
   - national-institutes-of-health
   - National Library of Medicine
-  - Navy Army Community Credit Union
   - NDU
   - nih
   - NLM

@@ -10,7 +10,6 @@ topics:
   - content-syndication
   - HHS
   - national-institutes-of-health
-  - NHLBI
   - nih
   - united-states-department-of-health-and-human-services
 ---
