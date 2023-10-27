@@ -22,7 +22,7 @@ data:
   contents:
     legislation:
       name: "Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government"
-      description: "Executive order 14058 outlines how we must design and deliver services in a manner that people of all abilities can navigate, using technology to modernize government and services for the public."
+      description: ""
       link_text: "View policy"
       image: "legislative-stamp-card-logo.png"
       link_url: "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government"
