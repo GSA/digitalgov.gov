@@ -9,7 +9,7 @@ title: "Trust"
 deck: "Understand how digital services impact trust in government."
 
 # description — keep it short and clear
-summary: "The guidance, resources, and community you find here will help to create government websites that inspire trust in federal digital resources."
+summary: "Trust has to be earned every time. Federal websites and digital services can’t assume it. The guidance, resources, and community you find here will help to create government websites that inspire trust in federal digital resources."
 
 # Weight
 weight: 1
@@ -46,7 +46,7 @@ data:
     - title: "U.S. Web Design System Design principles: Earn trust"
       href: "https://designsystem.digital.gov/design-principles/#earn-trust"
       summary: "A list of key considerations and practical actions you can take to earn trust with users."
-    - title: "Get.gov"
+    - title: "Get .gov"
       href: "https://get.gov/"
       summary: "Host your site on a .gov or .mil domain to assure users it’s an official government site."
     - title: "To build trust, aim for easy"
