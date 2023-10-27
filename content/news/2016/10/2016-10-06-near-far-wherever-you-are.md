@@ -13,7 +13,6 @@ topics:
   - cloud
   - content-strategy
   - Contingency Contracting Corps
-  - FAI
   - FAR
   - FAS
   - Federal Acquisition Institute
