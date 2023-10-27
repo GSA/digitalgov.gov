@@ -15,8 +15,6 @@ topics:
   - crowdsourcing
   - hhs
   - innovation
-  - omh
-  - onc
   - prizes-and-competitions
   - united-states-department-of-health-and-human-services
   - user-centered-design
