@@ -8,7 +8,6 @@ authors:
 topics:
   - monthly-theme
   - IES
-  - Institute for Education Sciences
   - plain-language
   - us-department-of-education
   - usability-case-study

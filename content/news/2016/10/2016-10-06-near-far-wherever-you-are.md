@@ -15,7 +15,6 @@ topics:
   - Contingency Contracting Corps
   - FAR
   - FAS
-  - Federal Acquisition Institute
   - Federal Acquisition Regulation
   - Federal Acquisition Service
   - gsa

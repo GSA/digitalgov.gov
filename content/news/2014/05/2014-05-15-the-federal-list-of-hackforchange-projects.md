@@ -18,7 +18,6 @@ topics:
   - HHS
   - HUD
   - IMLS
-  - Institute of Museum and Library Services
   - nasa
   - national-day-of-civic-hacking
   - national-institutes-of-health

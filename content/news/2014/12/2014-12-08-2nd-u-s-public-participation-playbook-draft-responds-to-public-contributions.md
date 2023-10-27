@@ -21,7 +21,6 @@ topics:
   - Firstnet
   - FWS
   - gsa
-  - International Trade Administration
   - ITA
   - Library of Congress
   - LOC
