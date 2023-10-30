@@ -230,7 +230,7 @@ Ok, so let’s dig into the details!
 
 **Slide 71:** I’m going to play a short video clip to demonstrate what we saw with input mask.
 
-video clip plays
+(Video clip plays)
 
 So, we could see there that folks felt unsure of whether the characters they typed were being accepted or not, and it just wasn’t giving them any error communication. We already knew about this feedback issue, so this testing was validation that it is something to improve in the near future.
 
