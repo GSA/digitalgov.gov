@@ -173,18 +173,14 @@
 // topics page card-legislation
 .dg-card-legislation {
   .usa-card-group {
-    @include at-media("desktop") {
-      left: 0.55rem;
-      margin: 0;
-      position: relative;
-    }
+    margin: 0;
 
     .usa-card__img {
       background-color: white;
     }
 
     .usa-card__heading {
-      font-size: 1.1rem;
+      @include u-font("sans", "md");
     }
 
     img {
