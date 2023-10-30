@@ -1,5 +1,5 @@
 ---
-date: 2023-10-27 10:31:00 -0500
+date: 2023-10-30 10:00:00 -0500
 title: "Decoding public sentiment: Harnessing open data to gain insights into service delivery"
 deck: An analysis of High-Impact Service Provider (HISP) data
 summary: Exploring High-Impact Service Provider performance through open source data analysis to enhance customer experience with federal services.
