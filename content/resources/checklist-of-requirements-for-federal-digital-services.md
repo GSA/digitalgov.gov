@@ -102,7 +102,7 @@ Understand the needs of your customers, collect and address customer feedback, a
 - [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
 - [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 - See all [Government Customer Service Policies and Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
-- [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
+- [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
 
 <p class="more">
   <a href="{{< ref "/topics/cx" >}}">More on Customer Experience
@@ -239,7 +239,7 @@ Publish information in ways that make it easy to find, access, share, distribute
 
 - [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
 - [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
-- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
+- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
 - [OMB M-10-06, Open Government Directive](https://obamawhitehouse.archives.gov/open/documents/open-government-directive) (December 2009)
 - [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
 - [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
