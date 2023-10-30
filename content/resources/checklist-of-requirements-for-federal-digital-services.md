@@ -240,7 +240,7 @@ Publish information in ways that make it easy to find, access, share, distribute
 - [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
 - [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
 - [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
-- [OMB M-10-06, Open Government Directive](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf) (December 2009)
+- [OMB M-10-06, Open Government Directive](https://obamawhitehouse.archives.gov/open/documents/open-government-directive) (December 2009)
 - [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
 - [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
 
