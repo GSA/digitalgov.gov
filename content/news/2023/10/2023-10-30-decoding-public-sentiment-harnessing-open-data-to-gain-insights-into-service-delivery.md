@@ -13,7 +13,7 @@ authors:
   - michael-kelty
 
 slug: decoding-public-sentiment-harnessing-open-data-to-gain-insights-into-service-delivery
-primary_image: 
+primary_image: "dashboard-templates-dmitry-kostrov-istock-getty-images-1145665438-comp"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -28,7 +28,7 @@ In the era of digital transformation, open source data has become a critical too
 
 The GSA Analytics and Decision Support Division within the Office of the Chief Financial Officer recently "hacked" open data from [Performance.gov](https://www.performance.gov/cx/hisps/) to see what we could learn about public sentiment around federal service delivery. The analysis focused on survey data collected by High-Impact Service Providers (HISPs), and a dashboard created to visualize the data. The [High-Impact Service Providers Dashboard (HISP-D)](https://d2d.gsa.gov/report/hisp-cx-dashboard) is available on the [Data2Decision (D2D) platform](https://d2d.gsa.gov/) to all federal employees who are curious about customer experience (CX).
 
-Alternative Text for Image: Screenshot of HISP CX Dashboard landing page top section where user can select parent organization, HISP, and service. Above the filters are definition of survey rating scale and links to data sources.
+{{< img src="high-impact-service-provider-hisp-dashboard-filter" >}}
 
 ## Collecting data on High-Impact Service Providers
 
@@ -73,17 +73,17 @@ To highlight how analysts can use the dashboard to generate insights on both ser
 
 First, an analyst can use the dashboard to see customers’ perceptions of the service, including how respondents are rating an agency or a specific HISP across the seven driver areas, as well as trends over time. For one HISP, depicted in the screenshot below, we observed that although the percentage of positive responses had been on the rise, there were still clear areas where the service was underperforming. Specifically, a significant number of customers reported negative responses across the `Quality`, `Simplicity`, and `Efficiency` questions. This suggests that even if a service seems to be improving overall, there could be certain aspects that need targeted improvement.
 
-Alternative Text for Image: Screenshot of Question Level Analysis for an unnamed HISP, showing the distribution of scores across the seven driver questions, and the trend of positive vs. negative scores over time.
+{{< img src="question-level-analysis-hisp-dashboard" >}}
 
 ### Example 2: Survey design
 
 A second use for the dashboard is to analyze the design of the survey itself. The dashboard displays the count of responses for each question (respondents are not required to answer every question). At the aggregate level, we saw that the `Satisfaction` question had the most responses, and the `Equity` question had the fewest responses. At the individual HISP level, we saw that some services have relatively equal response numbers across prompts, whereas others reveal a drop-off in responses after certain questions. The screenshot below shows that respondents for this particular HISP are answering the `Satisfaction` and `Trust` questions at the highest rate. This data may have implications for the length of the survey and how the questions are sequenced and worded. 
 
-Alternative Text for Image: Screenshot of Question Level Analysis for an unnamed HISP, showing the counts of responses for each question across 2023 Q1 and 2023 Q2.
+{{< img src="question-response-counts-comparison-hisp-dashboard" >}}
 
 The dashboard also displays the distribution of scores by survey channel, as well as the trends in the numbers of responses collected through each channel over time. We found that for certain services, customer satisfaction ratings differed significantly depending on the survey channel. In the screenshot below we see that the HISP receives a high volume of survey responses by computer but customer satisfaction levels are lowest among those responses relative to other channels. This data may point to a number of implications that would require further investigation, for example, the channel may be underperforming or the timing of email surveys may affect responses.
 
-Alternative Text for Image: Screenshot of Service Level Analysis for an unnamed HISP showing the distribution of scores by survey channel, and the survey channel response counts over time for automated phone and computer (other channels not shown).
+{{< img src="survey-channel-response-values-hisp-dashboard" >}}
 
 ## Final thoughts: Using open data for service improvement and collaboration
 
