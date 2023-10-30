@@ -12,5 +12,5 @@ agency: GSA
 github: GeneralSyntaxAnomoly
 # See [URL] for a full list of profile photo options
 profile_photo: github
-slug: michael-kelty
+slug: GeneralSyntaxAnomaly
 ---
