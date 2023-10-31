@@ -151,7 +151,7 @@ Below is a compilation of available resources from different education organizat
 
 - The [English-Spanish Glossary of Student Financial Aid and Postsecondary Education](https://www.nasfaa.org/uploads/documents/ektron/88fdd293-2f4e-4c63-996e-f4bb95192879/0787ae7a3bcd4d0e98888ea6e82a69344.pdf) (513 kb, PDF, 44 pages) is led by TG and the U.S. Department of Education in partnership with many other organizations.
 - The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870).
-- This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/wp-content/uploads/repo_items/osep-english-spanish-glossary.pdf), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition.
+- This glossary of Special Education terminology, [Glossary of Spanish Translations of Common IDEA Terms](https://www.parentcenterhub.org/osep-english-to-spanish-translation-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). In this 3rd ediiton, new terms that were not included in the first two editions were added to reflect the common use of digital terminology.
 
 ## Dictionaries
 
