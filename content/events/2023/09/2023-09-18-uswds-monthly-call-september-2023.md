@@ -22,7 +22,8 @@ slug: uswds-monthly-call-september-2023
 event_platform: zoom
 
 primary_image: 2023-uswds-monthly-call-september-title-card
-
+# YouTube ID
+youtube_id: rl5hgoOK22o
 ---
 {{< asset-static file="uswds-monthly-call-september-2023.pptx" label="View the slides (PowerPoint presentation, 3.4 MB, 99 pages)" >}}
 
