@@ -49,5 +49,4 @@ Following accessibility guidelines often also leads to improvements in usability
 * [Section508.gov](https://www.section508.gov/) - Guidance on creating accessible websites and documents, accessibility testing, and accessibility in contracting and procurement
 * [Accessibility playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) - Past Digital.gov events and training related to accessibility
 * [Accessibility Training, Tools, and Events](https://www.section508.gov/training/) - Find more training on accessibility
-
-**[Developing a Website Accessibility Statement | Section508.gov](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) - Guidance on creating this required information**
+* [Developing a Website Accessibility Statement | Section508.gov](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) - Guidance on creating this required information
