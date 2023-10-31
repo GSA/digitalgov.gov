@@ -2,25 +2,29 @@
 date: 2023-10-31 09:39:00 -0500
 title: Who is controlling your control system?
 deck: A starting point for federal information managers
-summary: Best practices for security administration of control systems and their
-  components. Specific guidance and lessons learned from a federal information
-  system manager.
+summary: Best practices for security administration of control systems and their components. Specific guidance and lessons learned from a federal information system manager.
+
 # See all topics at https://digital.gov/topics
 topics:
   - security
   - open-source
   - best-practices
   - policy
+
 # See all authors at https://digital.gov/authors
 authors:
   - michael-marin
+
 slug: who-is-controlling-your-control-system
-primary_image: ics-industrial-control-system-genestro-istock-getty-images-1414920594
+primary_image: "title-card-who-controls-your-control-systems-chor-muang-istock-getty-images-1423481986-comp"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 ## Background
 
 The convergence of Information Technology (IT) and Operational Technology (OT) in federal information assets provides a unique challenge for cybersecurity specialists, facility control engineers, and other stakeholders responsible for managing these systems. Because [control systems](https://digital.gov/resources/an-introduction-to-security-and-privacy-controls/) are becoming ubiquitous solutions in IT environments, federal technologists who otherwise may not have had a stake in these systems are becoming involved in their operations. As control systems become interconnected and more accessible, technology specialists must be prepared to handle an array of controls that may follow.
