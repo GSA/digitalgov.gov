@@ -1,13 +1,12 @@
 ---
-# View this page at https://digital.gov/resources/introduction-accessibility
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
-slug: introduction-accessibility
+slug: advanced-accessibility
 date: 2019-12-04 8:00:00 -0500
-title: "An introduction to accessibility"
-deck: "An introduction to accessibility, and why it matters."
-summary: "An introduction to accessibility, and why it matters."
+title: "An advanced approach to accessibility"
+deck: "An advanced approach to accessibility, including what to do, how to do it, and why it matters."
+summary: "An advanced approach to accessibility, including what to do, how to do it, and why it matters."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -25,6 +24,7 @@ primary_image: "accessibility-101-title-card"
 
 aliases:
   - /resources/intro-accessibility
+  - /resources/itroduction-accessibility
 
 weight: 2
 
