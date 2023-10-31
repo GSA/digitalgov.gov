@@ -1,15 +1,17 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/cx
+# https://digital.gov/topics/customer-experience
 
-slug: "cx"
+slug: "Customer experience"
 
 # Topic Title
-title: "Customer Experience"
+title: "Customer experience"
 
 # description — keep it short and clear
-summary: ""
+summary: "Improving customer experience drives better results in the federal government"
 
+aliases:
+- /topics/cx
 
 # Weight
 weight: 2
