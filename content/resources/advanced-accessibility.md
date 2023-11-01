@@ -10,7 +10,7 @@ summary: "An advanced approach to accessibility, including what to do, how to do
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
-  - /resources/introduction-accessibility
+  - /resources/intro-accessibility
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -24,6 +24,7 @@ topics:
   - plain-language
   - content
   - content-strategy
+  - cx
 
 # primary Image (for social media)
 primary_image: "accessibility-101-title-card"
