@@ -51,4 +51,4 @@ This approach makes it easier for people to find, understand, and use government
 
 ### Disclaimer
 
-References to the product and/or service names of the hardware and/or software products used in this resource do not constitute an endorsement
+References to the product and/or service names of the hardware and/or software products mentioned in this resource do not constitute an endorsement
