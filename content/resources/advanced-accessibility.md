@@ -44,7 +44,7 @@ This is the start of a conversation that we hope continues throughout your time 
 
 Accessibility is one of the most important values underlying all of the work that we do. Now, you might already have some experience with accessibility, but other people that you work with might be new to the topic, or need methods or tools to see how to improve the accessibility of a product or service.
 
-This page is an introduction to why accessibility matters, and we hope that you share it with your team.
+We have an introduction to accessibility, but this page is a deeper dive into why accessibility matters, and we hope that you share it with your team.
 
 ## Accessibility is the Law
 
