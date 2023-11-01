@@ -6,8 +6,11 @@ summary: Structured content improves search results, enables “create once,
   publish everywhere,” and help people more easily find, use, and reuse your
   content.
 # See all topics at https://digital.gov/topics
+author:
+  -Rachel Flagg
 topics:
   - content-strategy
+  - information-architecture
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
