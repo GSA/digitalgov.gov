@@ -2,9 +2,8 @@
 date: 2023-11-01 13:38:00 -0500
 title: An introduction to structured content
 deck: Understand the benefits of structuring digital content
-summary: Structured content improves search results, enables “create once,
-  publish everywhere,” and help people more easily find, use, and reuse your
-  content.
+summary: Structured content improves search results, enables “create once, publish everywhere,” and help people more easily find, use, and reuse your content.
+
 # See all topics at https://digital.gov/topics
 author:
   -Rachel Flagg
@@ -16,7 +15,9 @@ topics:
 # 2 -- highlighted
 weight: 1
 slug: an-introduction-to-structured-content
+
 ---
+
 ## What is structured content?
 
 Structured content refers to the concept of organizing and treating digital content like data. Publishing content as modular, discrete pieces of information that are tagged with machine-readable descriptions can transform how people find, understand, share, use, and reuse government information.
@@ -51,6 +52,6 @@ This approach makes it easier for people to find, understand, and use government
 * [Dublin Core Metadata Initiative](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) - Specifications for Dublin Core metadata terms[](https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology)
 * [Semantic Web](https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology) - The goal of the Semantic Web is to make Internet data machine-readable
 
-### Disclaimer
+## Disclaimer
 
-References to the product and/or service names of the hardware and/or software products mentioned in this resource do not constitute an endorsement
+All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
