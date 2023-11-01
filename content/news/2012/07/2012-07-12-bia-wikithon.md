@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - BIA
   - mobile
   - mobile-gov-experience
   - Tribal

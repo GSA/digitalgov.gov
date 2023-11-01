@@ -14,7 +14,6 @@ topics:
   - innovation
   - nasa
   - National Institute on Drug Abuse
-  - NIDA
   - nih
 ---
 

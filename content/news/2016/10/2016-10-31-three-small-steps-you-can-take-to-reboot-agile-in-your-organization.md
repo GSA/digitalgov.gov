@@ -18,7 +18,6 @@ topics:
   - department-of-commerce
   - kanban
   - lean
-  - NTIS
   - sprint
   - workflows
 ---

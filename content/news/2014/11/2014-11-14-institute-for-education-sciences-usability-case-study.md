@@ -7,7 +7,6 @@ authors:
   - katina-stapleton
 topics:
   - monthly-theme
-  - IES
   - plain-language
   - us-department-of-education
   - usability-case-study
