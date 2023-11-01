@@ -52,6 +52,12 @@ This approach makes it easier for people to find, understand, and use government
 * [Dublin Core Metadata Initiative](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) - Specifications for Dublin Core metadata terms[](https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology)
 * [Semantic Web](https://www.w3.org/2001/sw/wiki/Semantic_Web_terminology) - The goal of the Semantic Web is to make Internet data machine-readable
 
+## Connect with others interested in content
+
+Want to learn more? The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).
+
+The Plain Language Action and Information Network (PLAIN) is a group of content strategists, writers, and communications professionals across government who support the use of clear communication in government writing. [Join the Plain Language Community](https://digital.gov/communities/plain-language/).
+
 ## Disclaimer
 
 All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
