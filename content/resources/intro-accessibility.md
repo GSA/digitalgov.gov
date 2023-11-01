@@ -34,7 +34,7 @@ primary_image: "accessibility-101-title-card"
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 4
+weight: 3
 
 # Make it better ♥
 
