@@ -8,25 +8,32 @@ title: "An advanced approach to accessibility"
 deck: "An advanced approach to accessibility, including what to do, how to do it, and why it matters."
 summary: "An advanced approach to accessibility, including what to do, how to do it, and why it matters."
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /resources/intro-accessibility
+  - /resources/introduction-accessibility
+
+# see all authors at https://digital.gov/authors
+authors:
+  - toni-bonitto
+  - jeremyzilar
+
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
   - product-management
   - plain-language
-
-# see all authors at https://digital.gov/authors
-authors:
-  - jeremyzilar
-  - toni-bonitto
+  - content
+  - content-strategy
 
 # primary Image (for social media)
 primary_image: "accessibility-101-title-card"
 
-aliases:
-  - /resources/intro-accessibility
-  - /resources/itroduction-accessibility
-
-weight: 2
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+weight: 4
 
 # Make it better ♥
 
