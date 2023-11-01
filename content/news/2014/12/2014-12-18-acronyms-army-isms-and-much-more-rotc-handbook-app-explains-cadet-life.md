@@ -9,7 +9,6 @@ topics:
   - mobile
   - api
   - native-app
-  - ROTC
   - thursday-mobile-products
   - united-states-army
 ---

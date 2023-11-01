@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - code
-  - memo
   - nasa
   - National Aeronautics and Space Administration
   - Office of Management and Budget

@@ -21,7 +21,6 @@ topics:
   - VA
   - va-center-for-innovation
   - VACI
-  - veterans-health-administration
 ---
 
 Two significant items in federal government data in the last few weeks:

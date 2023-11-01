@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - crowdsourcing
   - data
-  - Humanitarian Information Unit
   - open-data
   - peace-corps
   - us-department-of-state

@@ -12,7 +12,6 @@ topics:
   - nasa
   - national-institutes-of-health
   - nih
-  - SBIR
   - small-business-innovation-research
 ---
 

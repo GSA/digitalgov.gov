@@ -10,7 +10,6 @@ topics:
   - social-media
   - DOI
   - facebook
-  - National Resources Conservation Service
   - Twitter
   - US Department of Agriculture
   - us-department-of-the-interior
