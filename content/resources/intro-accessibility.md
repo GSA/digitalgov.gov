@@ -11,6 +11,7 @@ summary: "An advanced approach to accessibility, including what to do, how to do
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /resources/intro-accessibility/
+  - /resources/introduction-accessibility/
 
 # see all topics at https://digital.gov/topics
 topics:
