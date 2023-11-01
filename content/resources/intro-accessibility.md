@@ -41,11 +41,11 @@ weight: 2
 
 ---
 
-This is the start of a conversation that we hope continues throughout your time in government.
+This is part of a conversation that we hope continues throughout your time in government.
 
 Accessibility is one of the most important values underlying all of the work that we do. Now, you might already have some experience with accessibility, but other people that you work with might be new to the topic, or need methods or tools to see how to improve the accessibility of a product or service.
 
-We have an introduction to accessibility, but this page is a deeper dive into why accessibility matters, and we hope that you share it with your team.
+We do have [an introduction to accessibility](https://digital.gov/resources/an-introduction-to-accessibility/), so consider this page a deeper look into why accessibility matters, and we hope that you share it with your team.
 
 ## Accessibility is the Law
 
@@ -194,7 +194,8 @@ If you are able to test screen readers with multiple browsers, the following is 
 ## Additional Resources
 
 - [Section508.gov](https://www.section508.gov/) — Provides guidance to federal agency staff who play a role in IT accessibility. Key topics include program management, procurement, tools & training, and policy compliance.
-    - [Find Your 508 Program Manager](https://www.section508.gov/tools/coordinator-listing/)
+    - [Find your agency's 508 Program Manager](https://www.section508.gov/tools/coordinator-listing/)
+- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/) - An Accessibility Statement is required on all internal and external federal websites.
 - [Accessibility for Teams](https://accessibility.digital.gov/) — A guide to incorporating accessibility into product development teams.
 - [18F Accessibility Guide](https://accessibility.18f.gov/?=dg) — A resource for developing accessible products.
 - [U.S. Web Design System](https://designsystem.digital.gov/) — Our design system for the federal government was built with accessibility first.
