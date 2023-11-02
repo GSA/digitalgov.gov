@@ -4,15 +4,12 @@
 {{ else }}
   {{ $path = .Path }}
 {{ end }}
-{{ printf "%#v" $path }}
 
 
 <!-- Test syntax -->
 <section class="share-tools">
   <div class="grid-row">
     <div class="grid-col-4">
-      {{ $urls := .Permalink }}
-      {{ printf "%#v" $urls }}
       <a
         class="twitter"
         aria-label="Share on Twitter"
