@@ -215,7 +215,7 @@ _This introduction to accessibility was based on content created by the [Technol
 
 {{< note "activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)&mdash;a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
 
-[**Join** our Communities of Practice](https://digital.gov/communities/)&mdash;share resources and collaborate with others focused on building better digital experiences in government. Content- and accessibility-related communities on that page include:<br>
+[**Join** our Communities of Practice](https://digital.gov/communities/)&mdash;share resources and collaborate with others focused on building better digital experiences in government. Some of the communities in the list that discuss accessible digital content and services include:<br>
 
 * [Section 508 IT Accessibility Community](https://digital.gov/communities/it-accessibility-section-508/)
 * [Web Managers Community](https://digital.gov/communities/web-content-managers/)
