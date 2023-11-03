@@ -6,7 +6,7 @@ slug: advanced-accessibility
 date: 2019-12-04 8:00:00 -0500
 title: "An advanced approach to accessibility"
 deck: "What to do, how to do it, and why it matters"
-summary: "An advanced approach to accessibility, including what to do, how to do it, and why it matters."
+summary: "A deeper look at accessibility&mdash;what to do, how to do it, and why it matters."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
