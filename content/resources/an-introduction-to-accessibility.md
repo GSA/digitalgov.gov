@@ -4,6 +4,10 @@ title: An introduction to accessibility
 deck: Accessibility is not just the right thing to do; it’s the law
 summary: An overview of how to design and deliver accessible digital products and services in the federal government
 
+# see all authors at https://digital.gov/authors
+authors:
+  - rflagg
+
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
