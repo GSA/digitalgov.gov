@@ -5,16 +5,8 @@ source: doi-revenuedata
 date: 2023-08-21 09:22:00 -0500
 title: "Advanced Section 508 compliance testing: moving beyond automated testing
   and screen readers"
-deck: The Office of Natural Resources Revenue was excited to learn about a
-  comprehensive manual testing training  offered by the Department of Homeland
-  Security. Two of their team members recently completed this training known as
-  the Trusted Tester Training. Here is what the team members learned and how
-  they practiced their newly acquired Trusted Tester knowledge.
-summary: The Office of Natural Resources Revenue was excited to learn about a
-  comprehensive manual testing training  offered by the Department of Homeland
-  Security. Two of their team members recently completed this training known as
-  the Trusted Tester Training. Here is what the team members learned and how
-  they practiced their newly acquired Trusted Tester knowledge.
+deck: "Members of the Office of Natural Resources Revenue team recently completed the free, six-course Trusted Tester accessibility compliance training and certification from the Department of Homeland Security. Here's what they learned, and how they applied this new knowledge to the two websites they manage."
+summary: "Members of the Office of Natural Resources Revenue team recently completed the free, six-course Trusted Tester accessibility compliance training and certification from the Department of Homeland Security. Here's what they learned, and how they applied this new knowledge to the two websites they manage."
 # See all topics at https://digital.gov/topics
 topics:
   - section-508
@@ -25,4 +17,5 @@ slug: advanced-section-508-compliance-testing-moving-beyond-automated-testing-an
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
