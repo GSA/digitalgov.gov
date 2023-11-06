@@ -12,10 +12,6 @@
   }
 }
 
-div.more {
-  @include u-margin-y(2);
-}
-
 p.more {
   @include u-margin-top("05");
   @include u-margin-bottom("05");
