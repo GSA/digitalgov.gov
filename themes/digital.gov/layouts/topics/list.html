@@ -138,7 +138,6 @@
           <div class="grid-row grid-container-desktop">
             {{/* Display first 5 events */}}
             {{- $featured_events_stream := first 5 $events -}}
-
             {{- if $featured_events_stream -}}
               <h2>{{ .Title }} events</h2>
 
@@ -165,6 +164,8 @@
                   {{ .Render "card-article" }}
                 {{- end -}}
               {{- end -}}
+            {{- else -}}
+              <h3>No News to Display</h3>
             {{- end -}}
           </div>
         </section>
@@ -214,9 +215,10 @@
           {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
         </section>
       {{ end }}
-      <div class="usa-section usa-section--light">
-        <div class="grid-container grid-container-desktop">
-          {{- if $stream_paginated -}}
+
+      {{- if $stream_paginated -}}
+        <div class="usa-section usa-section--light">
+          <div class="grid-container grid-container-desktop">
             <h2 id="dg-stream-pagination-header">
               More News and Events on
               {{ .Title -}}
@@ -238,11 +240,10 @@
                 {{ end }}
               {{- end -}}
             {{ end }}
-          {{- end -}}
-
-          {{- partial "core/pagination.html" . -}}
+            {{- partial "core/pagination.html" . -}}
+          </div>
         </div>
-      </div>
+      {{ end }}
     {{ end }}
 
   </main>
