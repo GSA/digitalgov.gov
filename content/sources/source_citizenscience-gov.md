@@ -34,9 +34,9 @@ logo: citizensciencegov
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
 # topics:
- - citizen-science
- - crowdsourcing
- - crowdsourcing-and-citizen-science
+  - citizen-science
+  - crowdsourcing
+  - crowdsourcing-and-citizen-science
 
 # Make it better ♥
 
