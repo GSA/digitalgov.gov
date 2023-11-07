@@ -92,6 +92,6 @@ Stay curious, be proactive, and continually invest in your growth to thrive in t
 <footer>
 <h2 id="footnote-label">Footnotes</h2>
 <ol>
-<li id="fn1">n.d. Abdul Latif Jameel World Education Lab (J-WEL). Massachusetts Institute of Technology (MIT).Accessed October 17, 2023. <https://www.jwel.mit.edu/ <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li> 
+<li id="fn1">n.d. Abdul Latif Jameel World Education Lab (J-WEL). Massachusetts Institute of Technology (MIT).Accessed October 17, 2023. <https://www.jwel.mit.edu/> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
