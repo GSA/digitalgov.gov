@@ -1,6 +1,6 @@
 ---
 # Originally published at the following URL
-source_url: https://blog.usa.gov/speaking-your-language-usagov-outreachs-approach-to-bilingual-content
+source_url: https://blog.usa.gov/speaking-your-language-usagov-outreach-approach-to-bilingual-content
 source: usagov
 date: 2023-10-31 09:00:00 -0500
 title: "Speaking your language: USAGov outreach’s approach to bilingual content"
@@ -17,7 +17,7 @@ topics:
   - multilingual
   - user-research
   - communication
-slug: speaking-your-language-usagov-outreachs-approach-to-bilingual-content
+slug: speaking-your-language-usagov-outreach-approach-to-bilingual-content
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
