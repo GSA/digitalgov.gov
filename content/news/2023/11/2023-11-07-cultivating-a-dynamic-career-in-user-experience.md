@@ -2,24 +2,29 @@
 date: 2023-11-07 08:48:00 -0500
 title: Cultivating a dynamic career in user experience
 deck: Considerations for a resilient career path
-summary: Dynamic careers are derived from creativity, accountability, influence
-  and strategic planning. Learn about how enhancing job skills builds resilience
-  in today's work environment.
+summary: Dynamic careers are derived from creativity, accountability, influence and strategic planning. Learn about how enhancing job skills builds resilience in today's work environment.
+
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
   - professional-development
+
 # See all authors at https://digital.gov/authors
 authors:
   - carlos-alvarado
-  - jaime-mears
+  - jaime-kern
+  - natalie-buda-smith
+
 slug: cultivating-a-dynamic-career-in-user-experience
-primary_image: 10x-areas-of-focus
+primary_image: "dynamic-ux-career-path-lines-horizon-sylverarts-istock-getty-images-1409312484"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 In today's rapidly evolving economy, traditional career paths are giving way to dynamic and often transient lifecycles. A dynamic career is an adaptable journey that responds to change with self-reflection, fosters creativity, and encourages growth. It is an approach tailored for the ever-changing business landscape characterized by evolving roles and demands.
 
  In this article, we will explore the importance of developing a dynamic career and delve into the top job skills required for resilience and longevity. We'll also discuss successful habits specific to dynamic careers, with a focus on user experience (UX) professionals.
