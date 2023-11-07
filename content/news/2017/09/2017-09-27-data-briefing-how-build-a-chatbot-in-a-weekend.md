@@ -14,7 +14,6 @@ topics:
   - chatbots
   - content
   - personas
-  - skills
   - social-media
   - training
   - writing

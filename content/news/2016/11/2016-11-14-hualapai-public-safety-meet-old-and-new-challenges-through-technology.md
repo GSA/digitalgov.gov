@@ -20,7 +20,6 @@ topics:
   - mobile
   - NPS
   - public safety
-  - Tribal
   - Tribal Government
   - us-national-park-service
   - user research

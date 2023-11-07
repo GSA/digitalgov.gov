@@ -26,8 +26,6 @@ topics:
   - OCSIT
   - office-of-citizen-services-and-innovative-technology
   - office-of-products-and-programs
-  - summit
-  - technology-industry-day
   - tts
 
 ---

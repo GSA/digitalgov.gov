@@ -22,7 +22,6 @@ topics:
   - socialgov-community
   - trends-on-tuesday
   - US Department of Agriculture
-  - us-forest-service
   - USDA
 ---
 

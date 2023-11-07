@@ -9,7 +9,6 @@ authors:
 topics:
   - api
   - mobile
-  - Digital Services Playbook
   - GitHub
   - mobile-ux-guideline-5
   - open-source

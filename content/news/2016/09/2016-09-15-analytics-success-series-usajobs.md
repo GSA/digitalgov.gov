@@ -17,7 +17,6 @@ topics:
   - metrics
   - OPM
   - united-states-office-of-personnel-management
-  - USAJOBS
   - user-experience
   
 ---

@@ -15,8 +15,6 @@ topics:
   - Census
   - department-of-commerce
   - digital-analytics-program
-  - Government Publishing Office
-  - GPO
   - HHS
   - USDA
 ---

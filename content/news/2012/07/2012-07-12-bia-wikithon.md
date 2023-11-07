@@ -9,7 +9,6 @@ topics:
   - mobile
   - mobile
   - mobile-gov-experience
-  - Tribal
   - Tribal Government
   - us-department-of-the-interior
 ---

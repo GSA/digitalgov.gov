@@ -9,7 +9,6 @@ deck: "The CIO Council released the CIO Handbook to aide CIOs, Deputy CIOs, agen
 # See all topics at https://digital.gov/topics
 topics:
   - cio-council
-  - cio
 slug: cio-handbook
 # Controls how this page appears across the site
 # 0 -- hidden

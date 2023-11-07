@@ -21,7 +21,6 @@ topics:
   - fema
   - HHS
   - HUD
-  - IMLS
   - nasa
   - national-day-of-civic-hacking
   - national-institutes-of-health
