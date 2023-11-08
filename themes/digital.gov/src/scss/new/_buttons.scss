@@ -1,26 +1,11 @@
 @use "uswds-core" as *;
 
-.more {
-  a {
-    @include u-text("no-underline");
-
-    &:hover {
-      span {
-        @include u-border-bottom("2px", "solid", "accent-warm");
-      }
+.dg-more-link {
+  &:hover {
+    span {
+      @include u-border-bottom("2px", "solid", "accent-warm");
     }
   }
-}
-
-div.more {
-  @include u-margin-y(2);
-}
-
-p.more {
-  @include u-margin-top("05");
-  @include u-margin-bottom("05");
-  @include u-font("sans", "xs");
-  @include u-text("normal", !important);
 }
 
 a.btn {

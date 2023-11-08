@@ -136,7 +136,6 @@
 // Authors profile
 @forward "author-profile";
 @forward "notice-bar";
-@forward "related_promos";
 @forward "video";
 
 // Homepage Styles
@@ -147,7 +146,6 @@
 @forward "home/communities";
 @forward "community-info";
 @forward "join-community-form";
-@forward "related_communities";
 @forward "services";
 @forward "related_services";
 @forward "services-directory";
@@ -182,3 +180,7 @@
 @forward "shortcodes/termsofservice-compatible";
 
 @forward "uswds-overrides";
+
+a {
+  text-underline-offset: 2px;
+}
