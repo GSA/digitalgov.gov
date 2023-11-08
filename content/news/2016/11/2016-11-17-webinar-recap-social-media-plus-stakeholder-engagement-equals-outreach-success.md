@@ -14,7 +14,6 @@ topics:
   - content
   - content-strategy
   - content-syndication
-  - disease
   - multilingual
   - recaps
   - social-media

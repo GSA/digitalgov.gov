@@ -20,7 +20,6 @@ topics:
   - data
   - data-act
   - digital-accountability-and-transparency-act
-  - event
   - FAS
   - federal-acquisition-service
   - fedramp

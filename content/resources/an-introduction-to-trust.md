@@ -4,19 +4,24 @@ title: An introduction to trust
 author: Rachel Flagg
 deck: Understand how digital services impact trust in government
 summary: Guidance on how to build government websites that people can trust.
+
 # See all topics at https://digital.gov/topics
 topics:
   - trust
   - content-strategy
   - governance
   - plain-language
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 slug: an-introduction-to-trust
+
 ---
+
 ## What is trust in digital services?
 
 Almost every interaction with government today has an online component, from looking up an agency’s phone number, to making an appointment or filling out a form, to completing an entire transaction online. Consequently, agency websites have come to represent the U.S. government. And because people tend to think about the federal government as a single thing, one poor experience with one agency website can diminish trust in the entire government.

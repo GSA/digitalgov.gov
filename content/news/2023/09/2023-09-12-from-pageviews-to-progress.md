@@ -87,7 +87,7 @@ The data is across all DAP-participating, public-facing government websites. The
 
 This directional information should only be used for general insights into online visitor behavior trends.{{< /note >}}
 
-Contact the DAP team at [dap@gsa.gov](https://digital.gov/guides/dap/common-questions-about-dap/dap@gsa.gov) with any questions about the Digital Analytics Program.
+Contact the DAP team at [dap@gsa.gov](mailto:dap@gsa.gov) with any questions about the Digital Analytics Program.
 
 Want to learn more? Join the [Web Analytics community of practice](https://digital.gov/communities/web-analytics-and-optimization/) to connect with other federal analytics professionals who are using data to transform how the government interacts with the public.
 

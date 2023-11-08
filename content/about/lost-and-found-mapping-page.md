@@ -2,7 +2,7 @@
 url: /lost-and-found-mapping-page/
 date: 2014-09-16 4:20:55 -0400
 title: "Lost and Found &#8211; Mapping Page"
-summary: "Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL. About Us Policies and Guidelines for Federal Public Websites: Recommendations of ICGI Report howto.gov/about-us/documents/icgi-report-recommendations ICGI Report Attachments ICGI Recommendations for Federal Public Websites &ndash; 2004 howto.gov/about-us/documents/icgi-report-summary-and-background ICGI Summary and Background Site Policies"
+summary: "Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL."
 expiryDate: 2020-10-20
 aliases:
   - /resources/
@@ -418,7 +418,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="How to Create Open, Structured Content" href="{{< ref "2013-07-29-how-to-create-open-structured-content.md" >}}">How to Create Open, Structured Content</a>
+      <a title="How to Create Open, Structured Content" href="https://digital.gov/2013/07/29/how-to-create-open-structured-content/">How to Create Open, Structured Content</a>
     </td>
 
   </tr>

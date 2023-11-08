@@ -1,6 +1,6 @@
 ---
+slug: m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management
 date: 2023-09-06 11:30:00 -0500
-source: whitehouse
 title: M-19-17 Enabling Mission Delivery through Improved Identity, Credential, and Access Management
 summary: This 2019 memorandum sets forth the federal government's Identity, Credential, and Access Management (ICAM) policy.
 
@@ -15,7 +15,6 @@ topics:
 # 2 -- highlighted
 weight: 2
 
-slug: m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management
 
 ---
 

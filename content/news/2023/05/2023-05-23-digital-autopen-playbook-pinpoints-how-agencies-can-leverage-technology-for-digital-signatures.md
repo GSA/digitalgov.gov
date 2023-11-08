@@ -34,7 +34,7 @@ Thankfully, the days of being forced to wait for an authorizing sponsor to retur
 
 {{< img-right src="cio-council-logo-comp" >}}
 
-The [Identity, Credential, and Access Management Subcommittee](https://www.idmanagement.gov/governance/ficam/#identity-credential-and-access-management-subcommittee) created the [Digital Autopen Playbook](https://playbooks.idmanagement.gov/playbooks/autopen/) as a practical guide to help federal agencies create and use a digital autopen for Federal Register documents. It outlines controls around the digital autopen certificate to meet the Office of the Federal Register’s digital signature requirements for Federal Register documents and cybersecurity.
+The [Identity, Credential, and Access Management Subcommittee](https://www.idmanagement.gov/ficam/#identity-credential-and-access-management-subcommittee) created the [Digital Autopen Playbook](https://playbooks.idmanagement.gov/playbooks/autopen/) as a practical guide to help federal agencies create and use a digital autopen for Federal Register documents. It outlines controls around the digital autopen certificate to meet the Office of the Federal Register’s digital signature requirements for Federal Register documents and cybersecurity.
 
 The playbook includes the three steps that allow federal agencies to create and implement a Federal Register digital autopen process: 
 

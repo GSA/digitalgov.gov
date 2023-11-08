@@ -8,7 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - Office of Natural Resources Revenue
   - ONRR
   - Tribal
   - Tribal Government

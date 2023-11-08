@@ -1,50 +1,59 @@
 ---
-# View this page at https://digital.gov/resources/introduction-accessibility
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
-slug: introduction-accessibility
+slug: advanced-accessibility
 date: 2019-12-04 8:00:00 -0500
-title: "An introduction to accessibility"
-deck: "An introduction to accessibility, and why it matters."
-summary: "An introduction to accessibility, and why it matters."
+title: "An advanced approach to accessibility"
+deck: "What to do, how to do it, and why it matters"
+summary: "A deeper look at accessibility: what to do, how to do it, and why it matters."
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /resources/intro-accessibility/
+  - /resources/introduction-accessibility/
 
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
   - product-management
   - plain-language
+  - content
+  - content-strategy
+  - cx
+  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:
-  - jeremyzilar
   - toni-bonitto
+  - jeremyzilar
 
 # primary Image (for social media)
 primary_image: "accessibility-101-title-card"
 
-aliases:
-  - /resources/intro-accessibility
-
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
 weight: 2
 
 # Make it better ♥
 
 ---
 
-This is the start of a conversation that we hope continues throughout your time in government.
+This is part of a conversation that we hope continues throughout your time in government.
 
 Accessibility is one of the most important values underlying all of the work that we do. Now, you might already have some experience with accessibility, but other people that you work with might be new to the topic, or need methods or tools to see how to improve the accessibility of a product or service.
 
-This page is an introduction to why accessibility matters, and we hope that you share it with your team.
+We do have [an introduction to accessibility](https://digital.gov/resources/an-introduction-to-accessibility/), so consider this page a deeper look into why accessibility matters, and we hope that you share it with your team.
 
 ## Accessibility is the Law
 
 [Section 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh) are established and maintained by the [U. S. Access Board](https://www.access-board.gov/). Under Section 508 of the Rehabilitation Act of 1973, agencies must give disabled employees and members of the public access to information that is comparable to the access available to others.
 
-How do we get there? The shortest version is to make sure that everyone ensures that their products meet the minimum [Level-A](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aa%2Caaa#top) and [Level-AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=a%2Caaa#top) Success Criteria (SC) of the Web Content Accessibility Guidelines (WCAG) — the globally recognized guidelines for creating accessible digital experiences from the [World Wide Web Consortium](https://www.w3.org/) (W3C).
+How do we get there? The shortest version is to make sure that everyone ensures that their products meet the minimum [Level-A](https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_customize&levels=aa%2Caaa) and [Level-AA](https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_customize&levels=a%2Caaa) Success Criteria (SC) of the Web Content Accessibility Guidelines (WCAG) — the globally recognized guidelines for creating accessible digital experiences from the [World Wide Web Consortium](https://www.w3.org/) (W3C) [Web Accessibility Initiative](https://www.w3.org/WAI/) (WAI).
 
-[WCAG 2.0](https://www.w3.org/TR/WCAG20/) outlines the **principles**, **guidelines**, testable **success criteria**, and **techniques** needed to optimize content. There are four principles known as “POUR,” where all online content should be:
+[WCAG 2.2](https://www.w3.org/TR/WCAG22/), released in October 2023, outlines the **principles**, **guidelines**, testable **success criteria**, and **techniques** needed to optimize content. There are four principles known as “POUR,” where all online content should be:
 
 1. **Perceivable** - Information and user interface components must be presentable to users in ways they can perceive (it can't be invisible to all of their senses).
 
@@ -185,14 +194,16 @@ If you are able to test screen readers with multiple browsers, the following is 
 ## Additional Resources
 
 - [Section508.gov](https://www.section508.gov/) — Provides guidance to federal agency staff who play a role in IT accessibility. Key topics include program management, procurement, tools & training, and policy compliance.
-    - [Find Your 508 Program Manager](https://www.section508.gov/tools/coordinator-listing/)
+    - [Find your agency's 508 Program Manager](https://www.section508.gov/tools/coordinator-listing/)
+- [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) — 21st Century IDEA, signed into law in December 2018, directs agencies to maximize the number of federal services available to the public in a digital format, and establishes or reiterates requirements for accessibility, design, usability, security, and overall customer experience of federal websites and digital services.
+- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/) - An Accessibility Statement is required on all internal and external federal websites.
 - [Accessibility for Teams](https://accessibility.digital.gov/) — A guide to incorporating accessibility into product development teams.
 - [18F Accessibility Guide](https://accessibility.18f.gov/?=dg) — A resource for developing accessible products.
 - [U.S. Web Design System](https://designsystem.digital.gov/) — Our design system for the federal government was built with accessibility first.
-- [Eight Principles of Mobile-Friendliness: Accessibility](https://digital.gov/resources/mobile/principles/accessibility/) — Created by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to highlight ways we can ensure that our mobile products also meet accessibility standards.
-- [Accessibility](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) — A DigitalGov playlist on YouTube (accessibility literacy, and how-to videos)
-- [WCAG 2.0](https://www.w3.org/TR/WCAG20/) — This outlines the principles, guidelines, testable success criteria, and techniques needed to optimize content.
-- [W3C’s WCAG quick reference guide](https://www.w3.org/WAI/WCAG21/quickref/) — A compliance checklist; it will help you satisfy your Section 508 obligations. Be sure to review the white “Understanding” button given in each criteria section for more in-depth information. Remember: the success criteria are just the baseline. We are encouraged to surpass the values specified; not see them as a ceiling to build to.
+- [Eight Principles of Mobile-Friendliness: Accessibility](https://digital.gov/guides/mobile-principles/accessibility/) — Created by the MobileGov [Community of Practice](https://digital.gov/communities/mobile/) to highlight ways we can ensure that our mobile products also meet accessibility standards.
+- [Accessibility videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) — A Digital.gov playlist of accessibility literacy and how-to videos on YouTube.
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) — This outlines the principles, guidelines, testable success criteria, and techniques needed to optimize content.
+- [W3C WAI: How to Meet WCAG 2.2 (quick-reference guide)](https://www.w3.org/WAI/WCAG22/quickref/) — A compliance checklist; it will help you satisfy your Section 508 obligations. Be sure to review the white “Understanding” button given in each criteria section for more in-depth information. Remember: the success criteria for Level A and Level AA are just the baseline. We are encouraged to surpass the values specified; not see them as a ceiling to build to.
 - [W3C’s Web Accessibility Initiative (WAI) perspective videos](https://www.w3.org/WAI/perspective-videos/) — A variety of short videos that give examples of different kinds of disabilities.
 - [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) — An introduction to how people with disabilities, including people with age-related impairments, use the Web. It describes assistive technology tools and approaches that people with different kinds of disabilities use to browse the Web (and the barriers they encounter due to poor design).
 - [Microsoft’s Inclusive Design Toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf) (PDF, 22 MB, 32 pages) — An approachable introduction to the history and principles of inclusive design ([they also have a full site about Inclusive Design](https://www.microsoft.com/design/inclusive/)).
@@ -204,6 +215,15 @@ _This introduction to accessibility was based on content created by the [Technol
 
 {{< note "activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)&mdash;a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
 
-[**Join** our Communities of Practice](https://digital.gov/communities/)&mdash;share resources and collaborate with others focused on building better digital experiences in government. {{< /note >}}
+[**Join** our Communities of Practice](https://digital.gov/communities/)&mdash;share resources and collaborate with others focused on building better digital experiences in government.
 
-_(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+Some of the communities in the list that have discussions around accessible digital content and services include:<br><br>
+
+* [Section 508 IT Accessibility Community](https://digital.gov/communities/it-accessibility-section-508/)
+* [Web Managers Community](https://digital.gov/communities/web-content-managers/)
+* [Plain Language Community](https://digital.gov/communities/plain-language/)
+* [Multilingual Community](https://digital.gov/communities/multilingual/)
+
+{{< /note >}}
+
+_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

@@ -9,6 +9,7 @@ topics:
   - design
   - strategy
   - diversity-equity-inclusion-accessibility-deia
+  - trust
 # See all authors at https://digital.gov/authors
 authors:
   - lashanda-hodge

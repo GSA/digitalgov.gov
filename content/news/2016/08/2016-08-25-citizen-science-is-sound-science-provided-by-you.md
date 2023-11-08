@@ -9,7 +9,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - FS
   - us-forest-service
 ---
 

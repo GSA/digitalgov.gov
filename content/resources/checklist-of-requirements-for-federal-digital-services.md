@@ -66,7 +66,7 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 Understand customer needs, set performance standards, collect and address customer feedback, and use data to continuously improve your programs.
 
 - [Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/download/attachments/636161243/8_2_DGS_Implementation_Instructions_v_final.docx?version=1&modificationDate=1350935840136)</a> (OMB guidance accessible to federal employees on the OMB MAX wiki)
-- [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf)
+- [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-22.pdf)
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
     - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
 
@@ -102,7 +102,7 @@ Understand the needs of your customers, collect and address customer feedback, a
 - [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
 - [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 - See all [Government Customer Service Policies and Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
-- [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
+- [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
 
 <p class="more">
   <a href="{{< ref "/topics/cx" >}}">More on Customer Experience
@@ -239,8 +239,8 @@ Publish information in ways that make it easy to find, access, share, distribute
 
 - [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
 - [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
-- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
-- [OMB M-10-06, Open Government Directive](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf) (December 2009)
+- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
+- [OMB M-10-06, Open Government Directive](https://obamawhitehouse.archives.gov/open/documents/open-government-directive) (December 2009)
 - [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
 - [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
 
@@ -268,7 +268,7 @@ Federal executive branch agencies are required to write all new or significantly
 - [OMB Memo on Testing and Simplifying Federal Forms](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/memos/testing-and-simplifying-federal-forms.pdf) (PDF, 94 kb, 2 pages, August 2012)
 - [Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) (PDF, 153 kb, 3 pages, January 2010)
 - [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
-- [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 kb, 6 pages, April 2011)
+- [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 kb, 6 pages, April 2011)
 
 ## Privacy and identity management
 
@@ -295,7 +295,7 @@ Work with your agency Records Officer and follow NARA guidance to establish and 
 
 - [OMB M-19-21: Transition of Electronic Records (PDF, 239 KB, 4 pages)](https://www.whitehouse.gov/wp-content/uploads/2019/08/M-19-21-new-2.pdf) (June 28, 2019)
     - [OMB M-23-07: Update to Transition to Electronic Records (PDF, 325 KB, 3 pages)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) (December 23, 2022)
-- [Code of Federal Regulations (CFR), Parts 1220-1238](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=194bdc93344a881d5119af1e8f66a2a9&rgn=div5&view=text&node=36:3.0.10.2.10&idno=36)
+- [Code of Federal Regulations (CFR), Parts 1220-1238](https://www.ecfr.gov/current/title-36/chapter-XII/subchapter-B/part-1220)
 - [NARA guidance for implementing Section 207(e) of the E-Gov Act](https://www.archives.gov/records-mgmt/bulletins/2010/2010-02.html)
 - [NARA guidance on managing Web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
 - [NARA guidance on managing social media records](https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html)

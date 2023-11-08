@@ -9,7 +9,7 @@ title: "Trust"
 deck: "Understand how digital services impact trust in government."
 
 # description — keep it short and clear
-summary: "The guidance, resources, and community you find here will help to create government websites that inspire trust in federal digital resources."
+summary: "Trust has to be earned every time. Federal websites and digital services can’t assume it. The guidance, resources, and community you find here will help to create government websites that inspire trust in federal digital resources."
 
 # Weight
 weight: 1

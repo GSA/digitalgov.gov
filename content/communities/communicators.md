@@ -30,7 +30,7 @@ community_list:
     subscribe_email: "fcn-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Communicators Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 2,194
+    members: 2,281
     join_cop_button: "Communicators community members"
 
 # Controls how this page appears across the site
@@ -42,6 +42,9 @@ weight: 1
 dg_highlight: true
 dg_shortname: Communicators
 dg_acronym: FCN
+
+kicker: "Join the Communicators Community"
+
 
 primary_image: "white-bg-digital-gov-card-community"
 

@@ -10,8 +10,6 @@ topics:
   - instagram
   - Library of Congress
   - LOC
-  - National Museum of American History
-  - NMAH
   - smithsonian-institution
   - Twitter
   - YouTube

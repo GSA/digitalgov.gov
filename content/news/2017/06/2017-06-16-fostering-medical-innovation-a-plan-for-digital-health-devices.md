@@ -10,7 +10,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - digital-health-innovation-plan
   - fda
   - HHS
   - innovation

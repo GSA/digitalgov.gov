@@ -11,9 +11,7 @@ topics:
   - user-testing-and-research
   - content
   - gamification
-  - NMAI
   - smithsonian-institution
-  - Smithsonian National Museum of the American Indian
   - user-centered-design
   - user-experience
   

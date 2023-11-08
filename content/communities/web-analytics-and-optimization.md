@@ -42,8 +42,10 @@ community_list:
     subscribe_email: "analyze-optimize-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Web Analytics Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 811
+    members: 851
     join_cop_button: "Web Analytic community members"
+
+kicker: "Join the Web Analytics Community"
 
 primary_image: "digital-gov-card-community"
 
