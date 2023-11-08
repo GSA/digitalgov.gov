@@ -1,6 +1,6 @@
 {{ define "content" }}
   <main role="main" id="main-content">
-    <div class="grid-container grid-container-desktop">
+    <div class="grid-container grid-container-desktop usa-section">
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12">
           <header class="page-head page-head-{{- .Type -}}">
@@ -18,6 +18,9 @@
       </div>
     </div>
 
+    {{ partial "core/featured-communities.html" . }}
+
+
     <section class="usa-section">
       <div class="grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-2">
@@ -32,28 +35,28 @@
               {{/* Gather only the pages with a dg-emphasis key */}}
               {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
 
-              {{ range $i, $e := $dg_communities }}
+              {{ range $dg_communities }}
                 <li
-                  class="usa-card tablet:grid-col-4 {{ if $e.Params.dg_acronym }}
-                    cop-card--{{ $e.Params.dg_acronym }}
+                  class="usa-card tablet:grid-col-4 {{ if .Params.dg_acronym }}
+                    cop-card--{{ .Params.dg_acronym }}
                   {{ end }}"
                 >
                   <div class="usa-card__container">
                     <div class="usa-card__header">
                       <h2 class="usa-card__heading">
-                        {{- $e.Params.dg_shortname | markdownify -}}
+                        {{- .Params.dg_shortname | markdownify -}}
                       </h2>
                     </div>
                     <div class="usa-card__body">
-                      <p>{{- $e.Params.summary | markdownify -}}</p>
+                      <p>{{- .Params.summary | markdownify -}}</p>
                     </div>
                     <div class="usa-card__footer">
                       <a
                         class="usa-button"
-                        href="{{- $e.Permalink -}}"
-                        title="{{- $e.Params.dg_shortname -}}"
+                        href="{{- .Permalink -}}"
+                        title="{{- .Params.dg_shortname -}}"
                       >
-                        Connect with <br />{{ $e.Params.dg_shortname }}
+                        Connect with <br />{{ .Params.dg_shortname }}
                       </a>
                     </div>
                   </div>
@@ -96,22 +99,22 @@
           {{/* Gather only the pages with a dg-emphasis key */}}
           {{ $communities := (where $communities ".Params.dg_highlight" "!=" true) }}
 
-          {{ range $i, $e := $communities }}
+          {{ range $communities }}
             <li class="usa-collection__item">
               <div class="usa-collection__body">
                 <h2 class="usa-collection__heading">
                   <a
-                    class="usa-link {{ if $e.Params.redirectto }}
+                    class="usa-link {{ if .Params.redirectto }}
                       usa-link--external
                     {{ end }}"
-                    href="{{- $e.Permalink -}}"
-                    title="{{- $e.Title | markdownify -}}"
+                    href="{{- .Permalink -}}"
+                    title="{{- .Title | markdownify -}}"
                   >
-                    {{- $e.Title | markdownify -}}
+                    {{- .Title | markdownify -}}
                   </a>
                 </h2>
                 <p class="usa-collection__description">
-                  {{- $e.Params.summary | markdownify -}}
+                  {{- .Params.summary | markdownify -}}
                 </p>
               </div>
             </li>

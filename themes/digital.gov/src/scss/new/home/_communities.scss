@@ -1,3 +1,4 @@
+@use "sass:map";
 @use "uswds-core" as *;
 
 // https://digital.gov/communities/
@@ -41,5 +42,64 @@ $communities-of-practice: (
     @include u-flex("align-center");
     @include u-flex("justify-center");
     @include u-minh(8);
+  }
+}
+
+// ==========================================================================
+// Cards view
+// ==========================================================================
+.dg-featured-communities {
+  display: grid;
+  gap: units(6) units(2);
+  grid-template-columns: repeat(4, 1fr);
+  text-align: center;
+
+  .usa-card {
+    max-width: none !important;
+  }
+
+  .usa-card__container {
+    // border-top-color: color("base-lighter");
+    // border-top: 2px solid color("base-lighter");
+
+    br {
+      display: none;
+    }
+  }
+
+  .usa-card__img {
+    background-color: transparent;
+  }
+
+  p {
+    font-size: size("sans", "2xs");
+  }
+
+  .usa-button {
+    font-size: size("sans", "xs");
+    line-height: 1.3;
+  }
+
+  // Make web managers the featured card.
+  /* stylelint-disable selector-class-pattern */
+  .cop-card--WCM {
+    grid-column: 1 / 3;
+    order: -1;
+
+    .usa-card__container,
+    .usa-card__container > * {
+      background-color: map.get($communities-of-practice, "WCM");
+      color: #fff;
+    }
+
+    .usa-button {
+      background-color: transparent;
+      border: 2px solid currentColor;
+      color: white;
+
+      &:hover {
+        background-color: #292e90;
+      }
+    }
   }
 }
