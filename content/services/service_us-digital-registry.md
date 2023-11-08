@@ -42,7 +42,6 @@ topics:
 aliases:
   - /services/social-media-registry/
   - /services/the-federal-mobile-apps-registry/
-  - /topics/usa-gov-federal-mobile-apps-directory/
 
 ---
 
