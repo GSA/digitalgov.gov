@@ -10,6 +10,8 @@ title: "Mobile Apps"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/usa-gov-federal-mobile-apps-directory/
 
 # Weight
 weight: 1
