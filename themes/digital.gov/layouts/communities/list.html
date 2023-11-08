@@ -12,11 +12,9 @@
         <div class="grid-col-12">
           <header class="page-head page-head-{{- .Type -}}">
             <h1>{{- .Title | markdownify -}}</h1>
-
             {{- if .Params.deck -}}
               <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
-
           </header>
         </div>
       </div>

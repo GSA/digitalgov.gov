@@ -87,6 +87,29 @@
       </div>
     </section>
 
+    <div class="grid-container grid-container-desktop usa-section">
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12">
+          <header class="page-head page-head-{{- .Type -}}">
+            <h1>Digital.gov Communities of Practice</h1>
+            <div class="deck">
+              Collaborate and share resources with other communities across
+              government who are focused on building better digital experience
+              in government.
+            </div>
+          </header>
+        </div>
+      </div>
+    </div>
+
+    {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
+    {{ $communities = (where $communities ".Params.weight" "ge" 1) }}
+    {{ $dg_communities := (where $communities ".Params.dg_highlight" "eq" true) }}
+    {{/* Digital.gov Communities of Practice */}}
+    <section class="grid-container-desktop">
+      {{ partial "core/featured-communities.html" (dict "data" $dg_communities ) }}
+    </section>
+
     {{/* News */}}
     {{- partialCached "core/home/news_featured.html" . -}}
   </main>
