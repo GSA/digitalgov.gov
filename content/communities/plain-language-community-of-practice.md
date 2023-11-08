@@ -37,6 +37,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Plain Language
 dg_acronym: PL
+dg_logo: communities-plain-language.svg
 
 community_list:
   - platform: listserv

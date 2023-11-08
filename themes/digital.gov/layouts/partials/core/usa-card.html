@@ -10,13 +10,13 @@
   @param {string} [path] - String passed into the "data-edit-this" field so that the card can be edited
 */}}
 
-{{- $header := default "" .header -}}
-{{- $body := default "" .body -}}
-{{- $link := default "" .link -}}
-{{- $link_title := default "" .link_title -}}
-{{- $image := default "" .image -}}
-{{- $alt := default "" .alt -}}
-{{- $path := default "" .path -}}
+{{- $header := default "" .card_data.header -}}
+{{- $body := default "" .card_data.body -}}
+{{- $link := default "" .card_data.link -}}
+{{- $link_title := default "" .card_data.link_title -}}
+{{- $image := default "" .card_data.image -}}
+{{- $alt := default "" .card_data.alt -}}
+{{- $path := default "" .card_data.path -}}
 
 
 <div data-edit-this="{{- $path -}}" class="usa-card__container">

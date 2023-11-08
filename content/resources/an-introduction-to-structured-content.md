@@ -26,7 +26,7 @@ Structured content refers to the concept of organizing and treating digital cont
 
 According to [analytics.USA.gov](https://analytics.usa.gov/), most people today use mobile devices to view government websites. Structuring content allows it to be separated from presentation, making information easier to consume on devices with small screens. Content published on static HTML web pages ("unstructured” content) doesn't always adapt well to smaller screens, and it’s harder to discover, share, or reuse.
 
-Structured content gives you granular control over your information, so you can Create Once, Publish Everywhere (known as the COPE model), instead of re-creating similar content for different platforms. 
+Structured content gives you granular control over your information, so you can Create Once, Publish Everywhere (known as the COPE model), instead of re-creating similar content for different platforms.
 
 Search engines use structured content to deliver more meaningful descriptions in search results. The more context and information you provide about your content, the more machine-readable it becomes, enabling web services and search engines to get your content to the people who need it.
 
@@ -36,7 +36,7 @@ As an example, if you publish information about an event as structured content, 
 
 ## How to create structured content
 
-Structure content by adding metadata ("data about data"). Metadata is a way to tag pieces of content with information describing what the content is about. 
+Structure content by adding metadata ("data about data"). Metadata is a way to tag pieces of content with information describing what the content is about.
 
 Web pages typically consist of several common pieces of information, such as titles, dates, descriptions, or contributors. It’s important to describe things consistently by using a common taxonomy and controlled vocabularies. When you add metadata to your content that consistently identifies and describes each of these elements, you’ve created structured content.
 

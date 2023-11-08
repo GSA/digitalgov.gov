@@ -50,29 +50,43 @@ $communities-of-practice: (
 // ==========================================================================
 .dg-featured-communities {
   display: grid;
-  gap: units(6) units(2);
-  grid-template-columns: repeat(4, 1fr);
-  text-align: center;
+  // gap: units(6) units(2);
+  grid-template-columns: repeat(2, 1fr);
+  // grid-template-columns: 1fr;
+  // grid-template-rows: 1fr;
+
+  @include at-media("tablet") {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @include at-media("tablet-lg") {
+    grid-template-columns: repeat(4, 1fr);
+  }
 
   .usa-card {
     max-width: none !important;
   }
 
   .usa-card__container {
-    // border-top-color: color("base-lighter");
-    // border-top: 2px solid color("base-lighter");
-
     br {
       display: none;
     }
   }
 
+  .usa-card__media {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+  }
+
   .usa-card__img {
     background-color: transparent;
+    max-width: 4rem;
   }
 
   p {
-    font-size: size("sans", "2xs");
+    font-size: size("sans", "sm");
   }
 
   .usa-button {
@@ -86,19 +100,15 @@ $communities-of-practice: (
     grid-column: 1 / 3;
     order: -1;
 
-    .usa-card__container,
-    .usa-card__container > * {
-      background-color: map.get($communities-of-practice, "WCM");
-      color: #fff;
+    .usa-card__container {
+      border: units(0.5) solid map.get($communities-of-practice, "WCM");
     }
 
     .usa-button {
-      background-color: transparent;
       border: 2px solid currentColor;
-      color: white;
 
       &:hover {
-        background-color: #292e90;
+        background-color: map.get($communities-of-practice, "WCM");
       }
     }
   }

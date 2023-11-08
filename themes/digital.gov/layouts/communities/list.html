@@ -1,40 +1,37 @@
 {{ define "content" }}
+  {{/* Gets all communities pages */}}
+  {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
+  {{ $communities = (where $communities ".Params.weight" "ge" 1) }}
+  {{ $dg_communities := (where $communities ".Params.dg_highlight" "eq" true) }}
+  {{ $other_communities := (where $communities ".Params.dg_highlight" "!=" true) }}
+
+
   <main role="main" id="main-content">
     <div class="grid-container grid-container-desktop usa-section">
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12">
           <header class="page-head page-head-{{- .Type -}}">
-            {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}}</h1>
 
-            {{/* Deck */}}
             {{- if .Params.deck -}}
               <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
 
-            {{/* {{ partial "last-updated.html" . }} */}}
           </header>
         </div>
       </div>
     </div>
 
-    {{ partial "core/featured-communities.html" . }}
-
+    {{/* Digital.gov Communities of Practice */}}
+    <section class="grid-container-desktop">
+      {{ partial "core/featured-communities.html" (dict "data" $dg_communities ) }}
+    </section>
 
     <section class="usa-section">
       <div class="grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-2">
           <div class="grid-col-12">
             <ul class="usa-card-group">
-              {{/* Gets all communities pages */}}
-              {{ $dg_communities := (where .Site.Pages "Section" "communities").ByTitle }}
-
-              {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-              {{ $dg_communities := (where $dg_communities ".Params.weight" "ge" 1) }}
-
-              {{/* Gather only the pages with a dg-emphasis key */}}
-              {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
-
               {{ range $dg_communities }}
                 <li
                   class="usa-card tablet:grid-col-4 {{ if .Params.dg_acronym }}
@@ -68,6 +65,7 @@
       </div>
     </section>
 
+    {{/* Other Communities of Practice */}}
     <div class="grid-container grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12">
@@ -90,16 +88,7 @@
     <section class="usa-section">
       <div class="grid-container-desktop">
         <ul class="communities-of-practice--list usa-collection">
-          {{/* Gets all communities pages */}}
-          {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
-
-          {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-          {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
-
-          {{/* Gather only the pages with a dg-emphasis key */}}
-          {{ $communities := (where $communities ".Params.dg_highlight" "!=" true) }}
-
-          {{ range $communities }}
+          {{ range $other_communities }}
             <li class="usa-collection__item">
               <div class="usa-collection__body">
                 <h2 class="usa-collection__heading">

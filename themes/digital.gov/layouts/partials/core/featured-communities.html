@@ -6,34 +6,24 @@
   @param {string} community_page - Either "list" for the community page or "home" for the home page. Dictates the layout of the community cards.
 */}}
 
-{{/* Gets all communities pages */}}
-{{ $dg_communities := (where .Site.Pages "Section" "communities").ByTitle }}
-
-{{/* Gather only the pages with a weight greater than or equal to 1 */}}
-{{ $dg_communities := (where $dg_communities ".Params.weight" "ge" 1) }}
-
-{{/* Gather only the pages with a dg-emphasis key */}}
-{{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
+{{ $dg_communities := .data }}
 
 {{/* TODO: remove wrapper classes for component */}}
-<section class="usa-section">
-  <div class="grid-container-desktop">
-    <div class="dg-featured-communities">
-      {{ range $dg_communities }}
-        {{ $path := "" }}
-        {{ with .File }}
-          {{ $path = .Path }}
-        {{ else }}
-          {{ $path = .Path }}
-        {{ end }}
-        <div
-          class="usa-card{{ if .Params.dg_acronym }}
-            cop-card--{{ .Params.dg_acronym }}
-          {{ end }}"
-        >
-          {{- partial "core/usa-card.html" (dict "header" .Params.dg_shortname "body" .Params.summary "link" .Permalink "link_title" (printf "%s%s" "Connect with <br/>" .Params.dg_shortname) "path" $path) -}}
-        </div>
-      {{ end }}
+<div class="dg-featured-communities">
+  {{ range $dg_communities }}
+    {{ $path := "" }}
+    {{ with .File }}
+      {{ $path = .Path }}
+    {{ else }}
+      {{ $path = .Path }}
+    {{ end }}
+    <div
+      class="usa-card{{ if .Params.dg_acronym }}
+        cop-card--{{ .Params.dg_acronym }}
+      {{ end }}"
+    >
+      {{ $card_data := (dict "header" .Params.dg_shortname "body" .Params.summary "link" .Permalink "link_title" (printf "%s%s" "Connect with <br/>" .Params.dg_shortname) "image" .Params.dg_logo "path" $path) }}
+      {{- partial "core/usa-card.html" (dict "card_data" $card_data) -}}
     </div>
-  </div>
-</section>
+  {{ end }}
+</div>
