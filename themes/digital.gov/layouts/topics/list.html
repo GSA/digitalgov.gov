@@ -208,10 +208,10 @@
       {{ if $is_first_page }}
         <section class="grid-container-desktop usa-section">
           {{/* Only show these sections when on page 1, otherwise hide to show only More News and Events */}}
-          {{- $resource_settings := ( dict "header_title" (printf "More Resources on %s" .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
+          {{- $resource_settings := ( dict "header_title" (printf "Resources on %s" .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}
           {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources "settings" $resource_settings ) -}}
 
-          {{- $services_settings := ( dict "header_title" "More Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
+          {{- $services_settings := ( dict "header_title" "Tools and Services" "header_size" 2 "variant" "media" "list_header" 3) -}}
           {{- partial "partials/core/collection/collection.html" (dict "collection_data" $services "settings" $services_settings) -}}
         </section>
       {{ end }}

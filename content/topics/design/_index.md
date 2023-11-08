@@ -27,7 +27,7 @@ featured_resources:
 featured_communities:
   - "user-experience"
 
-# Curated list of resources, can be internal or external links
+# Curated list of content, can be internal or external links
 featured_links:
   title: "Design: essential knowledge"
   resources:

@@ -41,6 +41,8 @@ community_list:
 authors:
   - jean-fox
 
+kicker: "Join the User Experience Community"
+
 primary_image: "white-bg-digital-gov-card-community"
 
 ---

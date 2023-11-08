@@ -42,7 +42,7 @@
       <div class="usa-collection__body">
         {{ if .title }}
         <h{{ $settings.list_header | safeHTML }} class="usa-collection__header">
-          <a class="usa-link" href="{{- .href -}}" title="{{- .title | markdownify -}}">
+          <a class="usa-link" href="{{- .href | relURL -}}" title="{{- .title | markdownify -}}">
             {{- .title | markdownify -}}
           </a>
         </h{{ $settings.list_header | safeHTML }}>

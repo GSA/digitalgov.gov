@@ -28,7 +28,7 @@ featured_resources:
 featured_communities:
   - "web-managers-forum"
 
-# Curated list of resources, can be internal or external links
+# Curated list of content, can be internal or external links
 featured_links:
   title: "Design: essential knowledge"
   resources:
@@ -36,7 +36,7 @@ featured_links:
     href: "/resources/an-introduction-to-trust/"
     summary: "Trusted digital services meet customer expectations, and they are easy to find, understand, and use. Understand how digital services impact trust in government."
   - title: "21st Century Integrated Digital Experience Act"
-    href: "resources/21st-century-integrated-digital-experience-act/"
+    href: "/resources/21st-century-integrated-digital-experience-act/"
     summary: "Delivering a digital-first public experience is a significant opportunity to improve the lives of millions by making it easier to access the information and services they use and count on each and every day."
   - title: "U.S. Web Design System Design principles: Earn trust"
     href: "https://designsystem.digital.gov/design-principles/#earn-trust"

@@ -27,7 +27,7 @@ featured_resources:
 featured_communities:
   - "plain-language-community-of-practice"
 
-# Curated list of resources, can be internal or external links
+# Curated list of content, can be internal or external links
 featured_links:
   title: "Plain language: essential knowledge"
   resources:
@@ -35,7 +35,7 @@ featured_links:
     href: "/resources/an-introduction-to-plain-language/"
     summary: "Using plain language is required on all government websites and also creates a better user experience."
   - title: "Plain language web writing tips"
-    href: "resources/plain-language-web-writing-tips/"
+    href: "/resources/plain-language-web-writing-tips/"
     summary: "On the web, people are in a hurry. They skim and scan, looking for fast answers to their questions, so it’s important to get to the point—quickly."
   - title: "Lessons from the 2021 Federal Plain Language Report Card"
     href: "resources/lessons-from-the-2021-federal-plain-language-report-card/"
