@@ -172,7 +172,8 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 7. Customized and dynamic user experiences
 8. Mobile-first design that scales across varying device sizes
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, <a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">view the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}
+*Note: For footnotes, [view the full policy guidance as a web page](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/).*
 
 **Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
@@ -388,7 +389,7 @@ OMB’s policy guidance (M-23-22) requires to the greatest extent practicable th
 - Not require a handwritten signature (“wet signature”) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with an equivalent digital method
 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, <a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">view the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, [view the full policy guidance as a web page](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience).*
 
 **Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
@@ -501,7 +502,7 @@ Within `180 days` of issuance; additional details and instructions are forthcomi
 Within `180 days` of the launch of the Federal Services Index; additional details and instructions are forthcoming.
 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, <a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">view the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, [view the full policy guidance as a web page](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/).*
 
 **IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
