@@ -3,10 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
-slug: delivering-digital-first-public-experience
-
-aliases:
-  - /resources/21st-century-integrated-digital-experience-act/
+slug: 21st-century-integrated-digital-experience-act
 date: 2019-11-01 3:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
 deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
@@ -371,13 +368,13 @@ Agencies should consult USWDS and Digital.gov for more specific recommendations 
 
 {{< /accordion >}}
 
-Note
+{{< note >}}
 
 OMB Memorandum M-23-22 rescinds M-17-06, Policies for Federal Agency Public Websites and Digital Services, published by OMB on November 8, 2016.
 
 M-23-22 also supersedes guidance in the digital government strategy, Digital Government: Building a 21st Century Platform to Better Serve the American People, released by OMB in 2012.
 
-
+{{< /note >}}
 
 ## What does it mean to digitize forms and services?
 
