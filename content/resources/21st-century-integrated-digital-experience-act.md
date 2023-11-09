@@ -11,7 +11,6 @@ summary: "Learn how to implement 21st Century IDEA to design and deliver better 
 
 # see all topics at https://digital.gov/topics
 topics:
-  - budgeting-and-performance 
   - digital-service-delivery
   - governance
   - trust
