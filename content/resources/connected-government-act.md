@@ -204,10 +204,6 @@ When you are building an app or creating a mobile-friendly site, there are certa
 
 - This is a list of free tools and services that have federal-compatible Terms of Service agreements. <br />[https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)
 
-### Federal Mobile Apps Directory
-
-A sortable list of all known federal government apps. <br />[https://www.usa.gov/mobile-apps](https://www.usa.gov/mobile-apps)
-
 ### U.S. Digital Registry
 
 Resource to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites. <br />[https://digital.gov/services/u-s-digital-registry/](https://digital.gov/services/u-s-digital-registry/)
