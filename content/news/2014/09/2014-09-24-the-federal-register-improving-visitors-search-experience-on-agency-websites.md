@@ -14,7 +14,6 @@ topics:
   - federal-register
   - instagram
   - NLM
-  - 'Occupational Safety and Health Administration'
   - OSHA
   - SEC
   - Twitter
