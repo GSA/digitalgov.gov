@@ -1,11 +1,19 @@
 ---
-title: budgeting-and-performance
-summary: Budgeting aligns agency resources with agency goals to achieve desired
-  performance outcomes.
-# Controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-# 2 -- featured on the Resource page
-weight: 0
-slug: budgeting-and-performance
+# This topic lives at
+# https://digital.gov/topics/budgeting-and-performance
+
+slug: "budgeting-and-performance"
+
+# Topic Title
+title: "Budgeting and performance"
+
+# description — keep it short and clear
+summary: "Budgeting aligns agency resources with agency goals to achieve desired
+  performance outcomes."
+
+# Weight
+weight: 1
+
+# For more information on managing topics,
+# see https://github.com/GSA/digitalgov.gov/wiki
 ---
