@@ -7,60 +7,9 @@
 
 
   <main role="main" id="main-content">
-    <div class="grid-container grid-container-desktop usa-section">
-      <div class="grid-row tablet-lg:grid-gap-4">
-        <div class="grid-col-12">
-          <header class="page-head page-head-{{- .Type -}}">
-            <h1>{{- .Title | markdownify -}}</h1>
-            {{- if .Params.deck -}}
-              <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-          </header>
-        </div>
-      </div>
-    </div>
-
     {{/* Digital.gov Communities of Practice */}}
-    <section class="grid-container-desktop">
-      {{ partial "core/featured-communities.html" (dict "data" $dg_communities ) }}
-    </section>
-
-    <section class="usa-section">
-      <div class="grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-2">
-          <div class="grid-col-12">
-            <ul class="usa-card-group">
-              {{ range $dg_communities }}
-                <li
-                  class="usa-card tablet:grid-col-4 {{ if .Params.dg_acronym }}
-                    cop-card--{{ .Params.dg_acronym }}
-                  {{ end }}"
-                >
-                  <div class="usa-card__container">
-                    <div class="usa-card__header">
-                      <h2 class="usa-card__heading">
-                        {{- .Params.dg_shortname | markdownify -}}
-                      </h2>
-                    </div>
-                    <div class="usa-card__body">
-                      <p>{{- .Params.summary | markdownify -}}</p>
-                    </div>
-                    <div class="usa-card__footer">
-                      <a
-                        class="usa-button"
-                        href="{{- .Permalink -}}"
-                        title="{{- .Params.dg_shortname -}}"
-                      >
-                        Connect with <br />{{ .Params.dg_shortname }}
-                      </a>
-                    </div>
-                  </div>
-                </li>
-              {{ end }}
-            </ul>
-          </div>
-        </div>
-      </div>
+    <section class="grid-container-desktop usa-section">
+      {{ partial "core/featured-communities.html" (dict "context" . "layout" "list") }}
     </section>
 
     {{/* Other Communities of Practice */}}

@@ -2,7 +2,7 @@
 slug: communicators
 date: 2021-02-24 18:49:00 -0500
 title: Communicators
-summary: "Brings together government communicators to improve communication and make government more effective."
+summary: "Improve communication and make government more effective."
 
 aliases:
   - /communities/federal-communicators-network/

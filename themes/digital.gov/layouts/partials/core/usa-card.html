@@ -8,6 +8,7 @@
   @param {string} [image] - String passed into the "src" field of the image displayed at the top of the card
   @param {string} [alt] - String passed into the "alt" field of the image displayed at the top of the card
   @param {string} [path] - String passed into the "data-edit-this" field so that the card can be edited
+  @param {string} [layout] - String used to adjust styles for home page
 */}}
 
 {{- $header := default "" .card_data.header -}}
@@ -17,9 +18,18 @@
 {{- $image := default "" .card_data.image -}}
 {{- $alt := default "" .card_data.alt -}}
 {{- $path := default "" .card_data.path -}}
+{{- $layout := default "" .card_data.layout -}}
+{{- $is_home := "" -}}
+
+{{- if eq $layout "home" -}}
+  {{ $is_home = true }}
+{{- end -}}
 
 
-<div data-edit-this="{{- $path -}}" class="usa-card__container">
+<div
+  data-edit-this="{{- $path -}}"
+  class="usa-card__container {{ if $is_home }}usa-card__container-home{{ end }}"
+>
   {{ if $header }}
     <div class="usa-card__header">
       <h2 class="usa-card__heading">
@@ -28,11 +38,13 @@
     </div>
   {{ end }}
   {{ if not (eq $image "") }}
-    <div class="usa-card__media">
-      <div class="usa-card__img">
-        <img src="/img{{- $image | relURL -}}" alt="{{- $alt -}}" />
+    {{ if not $is_home }}
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img src="/img{{- $image | relURL -}}" alt="{{- $alt -}}" />
+        </div>
       </div>
-    </div>
+    {{ end }}
   {{ end }}
   {{ if $body }}
     <div class="usa-card__body">
@@ -42,7 +54,7 @@
   {{ if $link_title }}
     <div class="usa-card__footer">
       <a
-        class="usa-button"
+        class="usa-button {{ if $is_home }}usa-button--outline{{ end }}"
         href="{{- $link -}}"
         title="{{- $link_title | markdownify -}}"
       >
