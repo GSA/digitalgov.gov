@@ -1,5 +1,5 @@
 {{/* ======================================
-  Related Communities and Services
+  Related Communities
   ======================================
 */}}
 
@@ -65,55 +65,4 @@
       </a>
     </footer>
   </section>
-{{- end -}}
-
-{{/* Services ====================== */}}
-
-{{/* gets only the related service pages */}}
-{{- $services := where $related_pages "Section" "services" -}}
-
-{{- $.Scratch.Set "services" (where $related_pages "Section" "services") -}}
-
-{{/* Now conditionally shuffle the service pages and pick the first 5 */}}
-{{ if (gt (len ($.Scratch.Get "services")) 5) }}
-  {{- $.Scratch.Set "services" (first 5 ($.Scratch.Get "services") | shuffle) -}}
-{{ end }}
-{{ $services := ($.Scratch.Get "services") }}
-
-{{- define "promo" -}}
-  {{- $href := .href -}}
-  {{- $src := .src -}}
-  {{- with .item -}}
-    {{ $path := "" }}{{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
-
-
-    <li class="dg-promos__list-item" data-gh-edit-page="{{- $path -}}">
-      {{ $sourceUrl := .Permalink }}
-
-      {{- if isset .Params "source_url" }}
-        {{ $sourceUrl = .Params.source_url }}
-      {{- end -}}
-
-
-      <a
-        class="dg-promos__link dg-promos__link--has-media external-link"
-        href="{{- $sourceUrl -}}"
-        title="Visit {{ .Title | markdownify -}} services page"
-      >
-        <span>{{- .Title | markdownify -}}</span>
-        <img
-          class="dg-promos__img"
-          src="{{- $src | relURL -}}"
-          alt=""
-          aria-hidden="true"
-          height="24"
-          width="24"
-        />
-      </a>
-    </li>
-  {{- end -}}
 {{- end -}}
