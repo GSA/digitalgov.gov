@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - our-work
-  - cio-council
   - DOT
   - epa
   - open-opportunities-program

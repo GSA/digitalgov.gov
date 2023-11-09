@@ -22,7 +22,6 @@ end_date: 2020-03-06 11:00:00 -0500
 topics:
   - emerging-tech
   - rpa
-  - cio-council
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform:

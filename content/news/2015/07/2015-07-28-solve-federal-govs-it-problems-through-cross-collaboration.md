@@ -8,7 +8,6 @@ authors:
 topics:
   - communities
   - monthly-theme
-  - CIO Council
   - cloud
   - data
 ---
