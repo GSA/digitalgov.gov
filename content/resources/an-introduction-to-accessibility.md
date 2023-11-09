@@ -11,9 +11,6 @@ authors:
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - customer-experience
-  - policies-and-regulations
-  - user-experience
   - 21st-century-idea
 
 # Controls how this page appears across the site
