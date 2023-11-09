@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/resources/delivering-digital-first-public-experience-act
+# View this page at https://digital.gov/resources/21st-century-integrated-digital-experience-act
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
