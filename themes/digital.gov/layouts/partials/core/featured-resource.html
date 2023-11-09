@@ -24,9 +24,11 @@
             {{- $resource.Params.summary -}}
           </p>
         </div>
-        <div class="dg-featured-resource__image">
-          {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $resource.Params.image "small" "true") -}}
-        </div>
+        {{ if $resource.Params.image }}
+          <div class="dg-featured-resource__image">
+            {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $resource.Params.image "small" "true") -}}
+          </div>
+        {{ end }}
       </a>
     </div>
   {{- end -}}

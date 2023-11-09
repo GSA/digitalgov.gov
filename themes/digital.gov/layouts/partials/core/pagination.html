@@ -112,7 +112,7 @@
 
       <!-- Output page numbers. -->
       {{ if eq ($.Scratch.Get "page_number_flag") true }}
-        <li class="page{{ if eq . $paginator }}active{{ end }}">
+        <li class="page {{ if eq . $paginator }}active{{ end }}">
           <a href="{{ .URL }}" class="pagination__link">
             {{ .PageNumber }}
           </a>
