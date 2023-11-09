@@ -1,9 +1,13 @@
 ---
-# View this page at https://digital.gov/resources/21st-century-integrated-digital-experience-act
+# View this page at https://digital.gov/resources/delivering-digital-first-public-experience
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
-slug: 21st-century-integrated-digital-experience-act
+slug: delivering-digital-first-public-experience
+
+aliases:
+  - /resources/21st-century-integrated-digital-experience-act/
+  
 date: 2019-11-01 3:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
 deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
