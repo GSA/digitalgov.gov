@@ -1,25 +1,26 @@
----
-# View this page at https://digital.gov/resources/21st-century-integrated-digital-experience-act
+# View this page at https://digital.gov/resources/delivering-digital-first-public-experience
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
-slug: 21st-century-integrated-digital-experience-act
+slug: delivering-digital-first-public-experience
+
+aliases:
+  - /resources/21st-century-integrated-digital-experience-act/
 date: 2019-11-01 3:00:00 -0500
-title: "21st Century Integrated Digital Experience Act"
-deck: "Delivering a digital-first public experience."
-summary: "21st Century IDEA aims to improve the digital experience for government customers."
+title: "Requirements for delivering a digital-first public experience"
+deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
+summary: "Learn how to implement 21st Century IDEA to design and deliver better websites and digital services."
 
 # see all topics at https://digital.gov/topics
 topics:
-  - uswds
-  - policy
-  - 21st-century-idea
+  - budgeting-and-performance 
+  - digital-service-delivery
+  - governance
   - trust
 
-# see all authors at https://digital.gov/authors
+# see all authors at https://digital.gov/authors 
 authors:
   - ammie-farraj-feijoo
-  - jeremyzilar
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -30,8 +31,6 @@ weight: 10
 # primary Image (for social media)
 primary_image: "office-team-ideas-scyther5"
 
-# Make it better ♥
-
 ---
 
 ## What is 21st Century IDEA?
@@ -40,14 +39,13 @@ The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bi
 
 In September 2023, the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/). In part, this memo provides further policy guidance to help agencies fully implement 21st Century IDEA. The law and policy guidance collectively establish a framework and the requirements for a digital-first public experience.
 
-For the policy guidance, read more in the fact sheet, [Building Digital Experiences for the American People](https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/).
-
+For the policy guidance, read more in the fact sheet, [Building Digital Experiences for the American people](https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/).
 
 ## Why is it important?
 
 Each year, the federal government provides information and services to more than 400 million individuals, families, businesses, and organizations. And according to [analytics.usa.gov](https://analytics.usa.gov/), there are about 2 billion visits to federal websites each month, representing over 80 billion hours of interactions with the public. Over 50% of these visits occur on mobile devices.
 
-Digitally is now the default way the public wants to interact with the government.<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> More than ever, digital experiences are central to federal agencies' mission delivery. And of course, the public expects their digital interactions with the government to be on par with their favorite consumer websites and mobile apps.
+Digitally is now the default way the public wants to interact with the government. <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> More than ever, digital experiences are central to federal agencies' mission delivery. And of course, the public expects their digital interactions with the government to be on par with their favorite consumer websites and mobile apps.
 
 Delivering a digital-first public experience is a significant opportunity to improve the lives of millions by making it easier to access the information and services they use and count on each and every day.
 
@@ -173,7 +171,7 @@ OMB’s policy guidance (M-23-22) requires that agencies ensure their websites, 
 7. Customized and dynamic user experiences
 8. Mobile-first design that scales across varying device sizes
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.A**: Requirements for Websites and Digital Services" >}}*Note: For footnotes, <a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">view the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>.*
 
 **Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
@@ -372,6 +370,14 @@ Agencies should consult USWDS and Digital.gov for more specific recommendations 
 
 {{< /accordion >}}
 
+Note
+
+OMB Memorandum M-23-22 rescinds M-17-06, Policies for Federal Agency Public Websites and Digital Services, published by OMB on November 8, 2016.
+
+M-23-22 also supersedes guidance in the digital government strategy, Digital Government: Building a 21st Century Platform to Better Serve the American People, released by OMB in 2012.
+
+
+
 ## What does it mean to digitize forms and services?
 
 OMB’s policy guidance (M-23-22) requires to the greatest extent practicable that agencies:
@@ -381,7 +387,7 @@ OMB’s policy guidance (M-23-22) requires to the greatest extent practicable th
 - Not require a handwritten signature (“wet signature”) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with an equivalent digital method
 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section III.B**: Digitization of Forms and Services" >}}*Note: For footnotes, <a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">view the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>.*
 
 **Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE**
 
@@ -436,7 +442,7 @@ OMB’s policy guidance (M-23-22) further clarifies requirements and sets specif
 - **For existing websites, digital services, and forms:** Agencies are expected to prioritize remediation and/or digitization based on the criteria outlined in Section IV of the guidance
 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV, Criteria**: Ensuring Agencies Deliver Integrated Digital Experiences" >}}*Note: Use the link at the end of this section to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV, Criteria**: Ensuring Agencies Deliver Integrated Digital Experiences" >}}
 
 **Section IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
@@ -455,6 +461,7 @@ OMB recommends that agencies prioritize developing digital options for existing 
 <a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
+
 
 ## What are the agency reporting requirements?
 
@@ -493,7 +500,7 @@ Within `180 days` of issuance; additional details and instructions are forthcomi
 Within `180 days` of the launch of the Federal Services Index; additional details and instructions are forthcoming.
 
 
-{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, use the link at the end of this section to open the full .pdf file.*
+{{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, <a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">view the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>.*
 
 **IV. Ensuring Agencies Deliver Integrated Digital Experiences**
 
