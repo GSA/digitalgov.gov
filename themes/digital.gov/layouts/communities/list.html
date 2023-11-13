@@ -22,28 +22,7 @@
     </header>
 
     <section class="usa-section">
-      <ul class="communities-of-practice--list usa-collection">
-        {{ range $other_communities }}
-          <li class="usa-collection__item">
-            <div class="usa-collection__body">
-              <h2 class="usa-collection__heading">
-                <a
-                  class="usa-link {{ if .Params.redirectto }}
-                    usa-link--external
-                  {{ end }}"
-                  href="{{- .Permalink -}}"
-                  title="{{- .Title | markdownify -}}"
-                >
-                  {{- .Title | markdownify -}}
-                </a>
-              </h2>
-              <p class="usa-collection__description">
-                {{- .Params.summary | markdownify -}}
-              </p>
-            </div>
-          </li>
-        {{ end }}
-      </ul>
+      {{ partial "core/collection/collection-grid-list.html" (dict "list_data" $other_communities) }}
     </section>
   </main>
 {{ end }}

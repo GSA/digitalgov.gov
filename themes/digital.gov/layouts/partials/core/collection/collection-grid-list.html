@@ -1,0 +1,32 @@
+{{/* Collection Grid List Component
+
+  Used on communities page for the "Other Communities" page
+
+  @param {object} list_data - Page collection of other communities pages
+*/}}
+
+{{ $other_communities := .list_data }}
+
+
+<ul class="communities-of-practice--list usa-collection">
+  {{ range $other_communities }}
+    <li class="usa-collection__item">
+      <div class="usa-collection__body">
+        <h2 class="usa-collection__heading">
+          <a
+            class="usa-link {{ if .Params.redirectto }}
+              usa-link--external
+            {{ end }}"
+            href="{{- .Permalink -}}"
+            title="{{- .Title | markdownify -}}"
+          >
+            {{- .Title | markdownify -}}
+          </a>
+        </h2>
+        <p class="usa-collection__description">
+          {{- .Params.summary | markdownify -}}
+        </p>
+      </div>
+    </li>
+  {{ end }}
+</ul>
