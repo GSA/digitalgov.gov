@@ -32,7 +32,7 @@ featured_links:
   title: "Design: essential knowledge"
   resources:
   - title: "An introduction to design"
-    summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started."
+    summary: "Guidance on how to design government websites that meet customer needs, work well on any device, and follow federal web requirements."
     href: "/resources/an-introduction-to-design/"
   - title: "An introduction to design systems"
     summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started."
