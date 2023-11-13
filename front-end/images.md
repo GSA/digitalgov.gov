@@ -8,7 +8,7 @@ question: Do images have good alt text?
 personas:
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 
 - Amanda is blind and has to read the alt text to understand the contents of the image. 
-- John is looking for information with a search engine and needs help being directed to the right content (descriptive alt tags will improve search).
+- John is looking for information with a search engine and needs help being directed to the right content (descriptive alt text will improve search).
 ---
 
 ### Steps to take
