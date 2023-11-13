@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - go-usa-gov
-  - National Institute of Allergy and Infectious Diseases
   - NIAID
   - United States Patent and Trademark Office
   - USPTO

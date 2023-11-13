@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - 18f
-  - connect-gov
   - data-gov
   - FOIA
   - gsa

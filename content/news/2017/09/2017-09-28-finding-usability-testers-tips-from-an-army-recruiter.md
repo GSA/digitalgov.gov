@@ -11,7 +11,6 @@ topics:
   - united-states-office-of-personnel-management
   - usability
   - usability-testing
-  - usajobs
   - user-centered-design
   - user-experience
 

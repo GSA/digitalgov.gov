@@ -9,7 +9,6 @@ authors:
 topics:
   - product-management
   - cloud
-  - connect-gov
   - trust
   - privacy
   - security

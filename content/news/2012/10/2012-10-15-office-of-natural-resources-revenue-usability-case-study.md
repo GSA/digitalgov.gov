@@ -8,8 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - ONRR
-  - Tribal
   - Tribal Government
   - us-department-of-the-interior
   - usability-case-study

@@ -30,7 +30,6 @@ topics:
   - us-department-of-the-interior
   - us-department-of-the-treasury
   - us-digital-service
-  - united-states-air-force
   - USCIS
   - USDS
   - white-house
