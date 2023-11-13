@@ -2,15 +2,18 @@
 title: "Guides and Resources"
 deck: ":evergreen_tree: Essential ‘how-to’ guidance for product managers in government."
 summary: "Essential ‘how-to’ guidance from across government product managers in government."
+
 aliases:
   - /tools/
   - /pages/
   - /coronavirus/
   - /resources/coronavirus-covid19-guidance-for-us-government/
+  - /hawaii-wildfires/
+  - /resources/hawaii-wildfires-guidance-for-us-government/
+  - /hurricane-idalia/
+  - /resources/hurricane-idalia-guidance-for-us-government/
+
 ---
-
-
-
 
 {{< search-resources >}}
 
