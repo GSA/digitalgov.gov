@@ -3,9 +3,7 @@ date: 2023-08-30 15:32:00 -0500
 title: An introduction to design
 deck: Understand how to implement a design-driven user experience 
 author: Rachel Flagg
-summary: Guidance, resources, and community to help you use design and user
-  experience to create government websites that meet customer needs, work well
-  on any device, and follow federal web requirements.
+summary: How to design government websites that meet customer needs, work well on any device, and follow federal web requirements.
 # See all topics at https://digital.gov/topics
 topics:
   - design
