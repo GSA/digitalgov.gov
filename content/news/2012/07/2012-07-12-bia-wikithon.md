@@ -16,11 +16,11 @@ topics:
 
 _Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**._
 
-{{< legacy-img-right src="2012/07/BIA_Wikithon_Picture_Lady_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}
-
 The Bureau of Indian Affairs (BIA) held three separate Wikithons in three different locations to help improve and build upon their Wiki pages.
 
 ## Why We Did It
+
+{{< legacy-img-right src="2012/07/BIA_Wikithon_Picture_Lady_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}
 
 The goal of these was to promote creation of employee profiles on our Wiki and to get people started on writing articles.
 
