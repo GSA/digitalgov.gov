@@ -20,11 +20,11 @@ The Bureau of Indian Affairs (BIA) held three separate Wikithons in three differ
 
 ## Why We Did It
 
-{{< legacy-img-right src="2012/07/BIA_Wikithon_Picture_Lady_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}
-
 The goal of these was to promote creation of employee profiles on our Wiki and to get people started on writing articles.
 
 ## What We Did
+
+{{< legacy-img-right src="2012/07/BIA_Wikithon_Picture_Lady_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}
 
 With some very solid advice from some folks at GSA, we held three seperate Wikithons in Reston, Herndon, and D.C. offices.
 
