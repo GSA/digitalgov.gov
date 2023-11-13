@@ -1,8 +1,8 @@
 ---
 slug: the-data-briefing-innovating-health-data-at-the-hhs-idea-lab
 date: 2015-11-18 10:00:07 -0400
-title: 'The Data Briefing: Innovating Health Data at the HHS Idea Lab'
-summary: 'The Department of Health and Human Services’ (HHS) Idea Lab is an outstanding example of a federal agency using open data to foster economic growth through empowering federal employees with innovative ideas and opening health data to the private sector.'
+title: 'The Data Briefing: Innovating Health Data at the HHS IDEA Lab'
+summary: 'By the time this is published, the United States, along with 160 other countries, will be celebrating Global Entrepreneurship Week 2015. The Department of Health and Human Services’ (HHS) IDEA Lab is an outstanding example of a federal agency using open data to foster economic growth through empowering federal employees with innovative ideas and opening health data to the private sector.'
 authors:
   - bbrantley
 topics:
@@ -15,7 +15,7 @@ topics:
 
 ---
 
-By the time this is published, the United States, along with 160 other countries, will be celebrating <a href="https://web.archive.org/web/20151122103108/https://www.wearegen.co/gew" target="_blank">Global Entrepreneurship Week</a> (November 16th through November 22nd). November is also <a href="https://obamawhitehouse.archives.gov/the-press-office/2015/11/02/presidential-proclamation-national-entrepreneurship-month-2015">National Entrepreneurship Month</a> with November 17th being National Entrepreneurs’ Day. As President Obama stated in his proclamation: “In keeping with our goal of fostering economic growth through private-sector collaboration, the federal government is accelerating the movement of new technologies from the laboratory to the marketplace, increasing access to research awards for small businesses, **making more data open to the public** [emphasis mine] and catalyzing new industry partnerships in critical fields such as advanced manufacturing and clean energy.” 
+By the time this is published, the United States, along with 160 other countries, will be celebrating <a href="https://www.genglobal.org/gew" target="_blank">Global Entrepreneurship Week</a> (November 16th through November 22nd). November is also <a href="https://obamawhitehouse.archives.gov/the-press-office/2015/11/02/presidential-proclamation-national-entrepreneurship-month-2015">National Entrepreneurship Month</a> with November 17th being National Entrepreneurs’ Day. As President Obama stated in his proclamation: “In keeping with our goal of fostering economic growth through private-sector collaboration, the federal government is accelerating the movement of new technologies from the laboratory to the marketplace, increasing access to research awards for small businesses, **making more data open to the public** [emphasis mine] and catalyzing new industry partnerships in critical fields such as advanced manufacturing and clean energy.” 
 
 {{< legacy-img src="2015/11/600-x-400-Health-future-medical-app-nevarpp-iStock-Thinkstock-491119888.jpg" alt="Futuristic concept art of medical icons and binary data streams" caption="nevarpp/iStock/Thinkstock" >}} 
 
