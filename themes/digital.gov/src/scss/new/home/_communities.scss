@@ -50,10 +50,7 @@ $communities-of-practice: (
 // ==========================================================================
 .dg-featured-communities {
   display: grid;
-  // gap: units(6) units(2);
   grid-template-columns: repeat(2, 1fr);
-  // grid-template-columns: 1fr;
-  // grid-template-rows: 1fr;
 
   @include at-media("tablet") {
     grid-template-columns: repeat(3, 1fr);
@@ -65,11 +62,35 @@ $communities-of-practice: (
 
   .usa-card {
     max-width: none !important;
+
+    // Make the first card wider for emphasis
+    &:first-child {
+      grid-column: 1 / 3;
+
+      .usa-button {
+        &:hover {
+          background-color: map.get($communities-of-practice, "WCM");
+        }
+      }
+
+      .usa-button--outline {
+        box-shadow: inset 0 0 0 2px map.get($communities-of-practice, "WCM");
+        color: map.get($communities-of-practice, "WCM");
+        &:hover {
+          color: #fff;
+        }
+      }
+    }
   }
 
   .usa-card__container {
     br {
       display: none;
+    }
+
+    // Hide the top color border when on home page
+    &-home {
+      // border-top: 2px solid color("gray-cool-10");
     }
   }
 
@@ -92,24 +113,5 @@ $communities-of-practice: (
   .usa-button {
     font-size: size("sans", "xs");
     line-height: 1.3;
-  }
-
-  // Make web managers the featured card.
-  /* stylelint-disable selector-class-pattern */
-  .cop-card--WCM {
-    grid-column: 1 / 3;
-    order: -1;
-
-    .usa-card__container {
-      border: units(0.5) solid map.get($communities-of-practice, "WCM");
-    }
-
-    .usa-button {
-      border: 2px solid currentColor;
-
-      &:hover {
-        background-color: map.get($communities-of-practice, "WCM");
-      }
-    }
   }
 }

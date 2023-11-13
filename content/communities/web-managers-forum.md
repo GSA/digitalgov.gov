@@ -33,7 +33,7 @@ event_cop:
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 2
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
