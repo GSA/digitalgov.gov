@@ -1,7 +1,6 @@
 {{ define "content" }}
-  {{/* Gets all communities pages */}}
-  {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
-  {{ $communities = (where $communities ".Params.weight" "ge" 1) }}
+  {{/* Gets all community pages and filter out those that are not the featured dg top 7 */}}
+  {{ $communities := (where (where .Site.Pages "Section" "communities").ByTitle ".Params.weight" "ge" 1) }}
   {{ $other_communities := (where $communities ".Params.dg_highlight" "!=" true) }}
 
 
