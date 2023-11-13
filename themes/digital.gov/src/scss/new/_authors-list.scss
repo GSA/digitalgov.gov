@@ -45,9 +45,6 @@
         @include u-margin(0);
         @include u-font("sans", "3xs");
       }
-      h5 {
-        margin: 0;
-      }
     }
 
     &:first-child {
