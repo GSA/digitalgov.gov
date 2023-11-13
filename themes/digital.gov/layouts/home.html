@@ -55,7 +55,7 @@
               {{- $resourcesfeatured := (where $resources ".Params.weight" "ge" 3 ) -}}
               {{- $guidesfeatured := (where $guides ".Params.weight" "ge" 6 ) -}}
 
-              {{ $allFeatured := union $resourcesfeatured $guidesfeatured }}
+              {{- $allFeatured := union $resourcesfeatured $guidesfeatured -}}
 
               {{/* Sort all of the resources by weight */}}
               {{- $resourcesfeatured := (sort $allFeatured "Weight" "desc" ) -}}

@@ -2,61 +2,48 @@
   {{/* Gets all communities pages */}}
   {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
   {{ $communities = (where $communities ".Params.weight" "ge" 1) }}
-  {{ $dg_communities := (where $communities ".Params.dg_highlight" "eq" true) }}
   {{ $other_communities := (where $communities ".Params.dg_highlight" "!=" true) }}
 
 
-  <main role="main" id="main-content">
+  <main role="main" class="grid-container-desktop" id="main-content">
     {{/* Digital.gov Communities of Practice */}}
-    <section class="grid-container-desktop usa-section">
+    <section class="usa-section">
       {{ partial "core/featured-communities.html" (dict "context" . "layout" "list") }}
     </section>
 
     {{/* Other Communities of Practice */}}
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row tablet-lg:grid-gap-4">
-        <div class="grid-col-12">
-          <header class="page-head page-head-{{- .Type -}}">
-            {{/* Page Title */}}
-            <h2>Other Communities of Practice</h2>
-
-            <div class="deck">
-              These communities are not managed by Digital.gov, but are listed
-              here <br />because they overlap with
-              <a class="usa-link" href="{{- "/about/" | relURL -}}"
-                >our mission</a
-              >.
-            </div>
-          </header>
-        </div>
+    <header class="page-head">
+      <h2>Other Communities of Practice</h2>
+      <div class="deck">
+        These communities are not managed by Digital.gov, but are listed here
+        <br />because they overlap with
+        <a class="usa-link" href="{{- "/about/" | relURL -}}">our mission</a>.
       </div>
-    </div>
+    </header>
 
     <section class="usa-section">
-      <div class="grid-container-desktop">
-        <ul class="communities-of-practice--list usa-collection">
-          {{ range $other_communities }}
-            <li class="usa-collection__item">
-              <div class="usa-collection__body">
-                <h2 class="usa-collection__heading">
-                  <a
-                    class="usa-link {{ if .Params.redirectto }}
-                      usa-link--external
-                    {{ end }}"
-                    href="{{- .Permalink -}}"
-                    title="{{- .Title | markdownify -}}"
-                  >
-                    {{- .Title | markdownify -}}
-                  </a>
-                </h2>
-                <p class="usa-collection__description">
-                  {{- .Params.summary | markdownify -}}
-                </p>
-              </div>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
+      <ul class="communities-of-practice--list usa-collection">
+        {{ range $other_communities }}
+          <li class="usa-collection__item">
+            <div class="usa-collection__body">
+              <h2 class="usa-collection__heading">
+                <a
+                  class="usa-link {{ if .Params.redirectto }}
+                    usa-link--external
+                  {{ end }}"
+                  href="{{- .Permalink -}}"
+                  title="{{- .Title | markdownify -}}"
+                >
+                  {{- .Title | markdownify -}}
+                </a>
+              </h2>
+              <p class="usa-collection__description">
+                {{- .Params.summary | markdownify -}}
+              </p>
+            </div>
+          </li>
+        {{ end }}
+      </ul>
     </section>
   </main>
 {{ end }}
