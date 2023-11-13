@@ -6,12 +6,10 @@ date: 2023-09-21 08:06:00 -0500
 title: Creating a functional inventory database for website content audits
 deck: The Office of Natural Resources Revenue recently completed a site-wide
   content inventory and audit. Here is how they modified an existing content
-  inventory spreadsheet to function as a database for making content
-  enhancements throughout the site.
+  inventory spreadsheet to function as a database for enhancing content throughout the site.
 summary: The Office of Natural Resources Revenue recently completed a site-wide
   content inventory and audit. Here is how they modified an existing content
-  inventory spreadsheet to function as a database for making content
-  enhancements throughout the site.
+  inventory spreadsheet to function as a database for enhancing content throughout the site.
 # See all topics at https://digital.gov/topics
 topics:
   - content
