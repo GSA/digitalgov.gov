@@ -15,8 +15,8 @@ topics:
   - user-testing-and-research
   - content
   - content-strategy
-  - cx
-  - cx
+  - customer-experience
+  - customer-experience
   - national-center-for-complementary-and-integrative-health
   - national-institutes-of-health
   - nccih

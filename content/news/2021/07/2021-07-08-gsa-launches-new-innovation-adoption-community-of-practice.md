@@ -9,7 +9,7 @@ summary: >
   government service delivery.
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - strategy
   - design
   - training

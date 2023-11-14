@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - user-experience
-  - cx
+  - customer-experience
 ---
 
 {{< legacy-img src="2013/07/250-x-100-Who-is-our-customer-Zoonar-RF-Zoonar-Thinkstock-127029271.jpg" alt="Who is our customer? spelled out on old-fashioned, wooden typography blocks" caption="" >}}

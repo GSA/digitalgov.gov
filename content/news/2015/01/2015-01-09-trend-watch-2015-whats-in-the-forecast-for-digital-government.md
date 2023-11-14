@@ -15,7 +15,7 @@ topics:
   - aoi
   - big-data
   - challenges-and-prize-competitions
-  - cx
+  - customer-experience
   - mobile-gov
 ---
 

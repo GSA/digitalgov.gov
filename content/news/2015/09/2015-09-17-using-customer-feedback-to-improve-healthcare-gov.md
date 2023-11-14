@@ -7,9 +7,9 @@ authors:
   - jacqueline-snee
 topics:
   - product-management
-  - cx
+  - customer-experience
   - customer-experience-community-of-practice
-  - cx
+  - customer-experience
 ---
 
 {{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 

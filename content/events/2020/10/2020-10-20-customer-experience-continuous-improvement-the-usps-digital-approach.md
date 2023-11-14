@@ -10,7 +10,7 @@ end_date: 2020-11-12 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
-  - cx
+  - customer-experience
   - best-practices
   - usability
   - seo

@@ -9,7 +9,7 @@ deck: "**3 Examples of How USAGov Engaged With the Public in 2021**&mdash;USAGov
 summary: summ
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - usagov-outreach-team

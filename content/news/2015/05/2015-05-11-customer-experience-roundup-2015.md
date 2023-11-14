@@ -9,7 +9,7 @@ topics:
   - product-management
   - monthly-theme
   - centers-for-disease-control-and-prevention
-  - cx
+  - customer-experience
   - customer-satisfaction
   - Export-Import Bank of the United States
   - national-cancer-institute

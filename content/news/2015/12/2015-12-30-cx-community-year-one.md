@@ -7,11 +7,11 @@ authors:
   - rflagg
 topics:
   - product-management
-  - cx
+  - customer-experience
   - customer-experience-community-of-practice
   - customer-satisfaction
   - customer-service
-  - cx
+  - customer-experience
 ---
 
 Customer experience, or CX, is everywhere these days. Companies tout how they’re improving the customer experience with faster service, greater convenience or better products. If you’re wondering how customer “experience” differs from customer “service,” customer service usually involves a single interaction, such as a phone call to your cable company, while the customer experience encompasses the entire relationship, e.g., from how you originally selected your cable company, to their service throughout the course of your entire relationship with them.

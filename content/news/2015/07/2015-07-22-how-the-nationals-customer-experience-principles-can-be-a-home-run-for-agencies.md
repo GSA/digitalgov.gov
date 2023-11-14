@@ -9,7 +9,7 @@ authors:
 topics:
   - communities
   - monthly-theme
-  - cx
+  - customer-experience
   - customer-experience-community-of-practice
   - customer-satisfaction
   - customer-service

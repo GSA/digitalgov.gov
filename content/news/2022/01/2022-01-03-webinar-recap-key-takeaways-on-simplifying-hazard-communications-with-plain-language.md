@@ -5,7 +5,7 @@ title: "Webinar Recap: Key Takeaways on Simplifying Hazard Communications With P
 summary: "An overview of the presentation by Danielle Nagele of NOAA at the 2021 Plain Language Summit. Learn how she and her team used feedback to decrease confusion and increase impact."
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - nws
   - noaa
   - national-oceanic-and-atmospheric-administration

@@ -8,8 +8,8 @@ authors:
   - rflagg
 topics:
   - product-management
-  - cx
-  - cx
+  - customer-experience
+  - customer-experience
   - DOL
   - HUD
   - OPM

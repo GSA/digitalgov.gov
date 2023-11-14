@@ -7,7 +7,7 @@ authors:
   - zachary-lerner
 topics:
   - product-management
-  - cx
+  - customer-experience
   - customer-service
   - HUD
   - united-states-department-of-housing-and-urban-development

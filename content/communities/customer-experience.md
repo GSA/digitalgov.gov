@@ -12,7 +12,7 @@ redirectto: https://coe.gsa.gov/communities/cx.html
 
 # see all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

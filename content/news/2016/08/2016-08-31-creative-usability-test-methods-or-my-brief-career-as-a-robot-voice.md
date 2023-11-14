@@ -7,7 +7,7 @@ authors:
   - joanne-mcgovern
 topics:
   - user-testing-and-research
-  - cx
+  - customer-experience
   - customer-experience-community-of-practice
   - customer-service
   - Government Contact Center Council

@@ -7,8 +7,8 @@ authors:
   - andrea-d-williamson
 topics:
   - product-management
-  - cx
-  - cx
+  - customer-experience
+  - customer-experience
   - dhs
   - HHS
   - HUD

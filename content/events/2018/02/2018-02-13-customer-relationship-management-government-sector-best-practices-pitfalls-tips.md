@@ -25,8 +25,8 @@ venue:
 aliases:
   - /event/customer-relationship-management-government-sector-best-practices-pitfalls-tips/
 topics:
-  - cx
-  - cx
+  - customer-experience
+  - customer-experience
   - customer-experience-community-of-practice
 
 ---

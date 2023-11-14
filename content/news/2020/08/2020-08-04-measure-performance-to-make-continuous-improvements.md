@@ -22,7 +22,7 @@ topics:
   - this-weeks-idea
   - uswds
   - analytics
-  - cx
+  - customer-experience
 
 # See all authors at https://digital.gov/authors
 authors:

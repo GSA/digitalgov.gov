@@ -20,7 +20,7 @@ topics:
   - plain-language
   - content
   - content-strategy
-  - cx
+  - customer-experience
   - user-experience
 
 # see all authors at https://digital.gov/authors

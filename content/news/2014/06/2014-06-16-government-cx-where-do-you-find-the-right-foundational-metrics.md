@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - metrics
-  - cx
+  - customer-experience
   - customer-satisfaction
   - Export-Import Bank of the United States
 ---

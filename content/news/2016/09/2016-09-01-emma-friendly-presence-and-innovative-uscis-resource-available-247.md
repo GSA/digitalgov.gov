@@ -11,8 +11,8 @@ topics:
   - product-management
   - ai
   - artificial intelligence
-  - cx
-  - cx
+  - customer-experience
+  - customer-experience
   - multilingual
   - US Citizenship and Immigration Service
   - USCIS

@@ -8,7 +8,7 @@ authors:
 topics:
   - strategy
   - policy
-  - cx
+  - customer-experience
 ---
 
 <p>

@@ -27,7 +27,7 @@ topics:
   - data
   - 21st-century-idea
   - open
-  - cx
+  - customer-experience
   - accessibility
   - analytics
   - research

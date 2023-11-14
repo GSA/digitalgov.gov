@@ -22,7 +22,7 @@ topics:
   - multilingual
   - communication
   - user-experience
-  - cx
+  - customer-experience
   - plain-language
 
 slug: strengthening-information-accessibility-for-consumers-with-limited-english-proficiency

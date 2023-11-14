@@ -23,7 +23,7 @@ weight: 1
 
 topics: 
   - content-strategy
-  - cx
+  - customer-experience
   - metadata
   - search-engine-optimization
   - public-safety

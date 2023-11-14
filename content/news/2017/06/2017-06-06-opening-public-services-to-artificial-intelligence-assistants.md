@@ -12,7 +12,7 @@ topics:
   - our-work
   - user-experience
   - artificial-intelligence
-  - cx
+  - customer-experience
   - innovation
 ---
 

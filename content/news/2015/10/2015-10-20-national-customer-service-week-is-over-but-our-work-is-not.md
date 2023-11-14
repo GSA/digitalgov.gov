@@ -11,10 +11,10 @@ topics:
   - policy
   - "508"
   - accessibility
-  - cx
+  - customer-experience
   - customer-satisfaction
   - customer-service
-  - cx
+  - customer-experience
   - personas
   - section-508
   - user-experience

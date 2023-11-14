@@ -10,7 +10,7 @@ end_date: 2022-03-31 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - customer-service
-  - cx
+  - customer-experience
   - emerging-tech
   - acquisition
   - strategy

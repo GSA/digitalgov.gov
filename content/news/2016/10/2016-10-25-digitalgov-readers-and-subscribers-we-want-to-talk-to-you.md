@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - user-experience
   - content
-  - cx
+  - customer-experience
   - office-of-products-and-programs
   - research
   - user-centered-design

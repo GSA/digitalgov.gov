@@ -18,7 +18,7 @@ source: performancegov
 
 # see all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - product-management
   - contact-centers
   - strategy

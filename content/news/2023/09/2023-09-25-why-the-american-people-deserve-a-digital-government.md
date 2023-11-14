@@ -13,7 +13,7 @@ topics:
   - omb
   - 21st-century-idea
   - design
-  - cx
+  - customer-experience
   - trust
   - user-experience
   - content

@@ -15,7 +15,7 @@ topics:
   - multilingual
   - multilingual-community
   - user-experience
-  - cx
+  - customer-experience
   - content
 # See all authors at https://digital.gov/authors
 authors:

@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - product-management
-  - cx
+  - customer-experience
   - customer-satisfaction
   - customer-service
   - Ex-Im Bank

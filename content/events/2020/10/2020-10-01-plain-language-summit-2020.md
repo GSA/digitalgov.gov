@@ -13,7 +13,7 @@ end_date: 2020-10-28 16:15:00 -0500
 topics:
   - content
   - content-strategy
-  - cx
+  - customer-experience
   - professional-development
   - training
   - user-experience

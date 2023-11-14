@@ -8,9 +8,9 @@ authors:
 topics:
   - monthly-theme
   - 18f
-  - cx
+  - customer-experience
   - customer-experience-community-of-practice
-  - cx
+  - customer-experience
   - usability starter kit
   - user-experience-community-of-practice
   - user-experience

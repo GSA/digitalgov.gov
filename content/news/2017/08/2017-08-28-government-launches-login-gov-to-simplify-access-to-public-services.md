@@ -13,10 +13,10 @@ topics:
   - product-management
   - 18f
   - us-customs-and-border-protection
-  - cx
+  - customer-experience
   - login-gov
   - customer-service
-  - cx
+  - customer-experience
   - gsa
   - Internal Revenue Service
   - IRS

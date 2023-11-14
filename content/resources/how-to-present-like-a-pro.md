@@ -5,7 +5,7 @@ deck: Presenting and Instructing via Streaming Video Using TV Pros’ Techniques
 summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares her tips and tricks for presenting virtually.
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - plain-language
   - audio-video
   - professional-development

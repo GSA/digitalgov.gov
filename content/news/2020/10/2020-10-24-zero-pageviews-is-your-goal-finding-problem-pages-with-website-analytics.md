@@ -7,7 +7,7 @@ summary: Improve customer experience by turning your website analytics upside do
 topics:
   - metrics
   - data
-  - cx
+  - customer-experience
   - usability
 # See all authors at https://digital.gov/authors
 authors:

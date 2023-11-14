@@ -8,7 +8,7 @@ deck: "The recent redesign of the Office of Natural Resources Revenue (ONRR) web
 summary: "The recent redesign of the Office of Natural Resources Revenue (ONRR) website stands as an example for agencies seeking to enhance their online platforms. ONRR’s Open Data, Design, and Development (ODDD) team played a pivotal role in this website transformation by embracing open data, user-centered design, accessibility, collaboration, and continuous improvement."
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - open-data
   - user-centered-design
   - design
