@@ -9,7 +9,7 @@ topics:
   - our-work
   - challenges-and-prize-competitions
   - cx
-  - ecpic
+  - budgeting-and-performance
   - mobile-gov
   - open-opportunities-program
   - socialgov

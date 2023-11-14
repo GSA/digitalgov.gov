@@ -16,8 +16,8 @@ topics:
   - 18f
   - best-practices
   - data
-  - data-act
-  - digital-accountability-and-transparency-act
+  - budgeting-and-performance
+  - budgeting-and-performance
   - us-department-of-the-treasury
 ---
 

@@ -28,7 +28,7 @@ aliases:
 topics:
   - audio-video
   - video
-  - digital-audio-video-community
+  - multimedia
   - video-production-pros-community
 
 ---

@@ -19,7 +19,7 @@ topics:
   - firstnet
   - mobile
   - NPS
-  - public safety
+  - communication
   - Tribal Government
   - us-national-park-service
   - user research

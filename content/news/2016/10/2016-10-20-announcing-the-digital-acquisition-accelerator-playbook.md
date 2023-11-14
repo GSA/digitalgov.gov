@@ -12,8 +12,6 @@ topics:
   - 18f
   - acquisition
   - agile
-  - Digital Acquisition Playbook
-  - Digital Acquisitions Accelerator
   - innovation
   - lean
   - open

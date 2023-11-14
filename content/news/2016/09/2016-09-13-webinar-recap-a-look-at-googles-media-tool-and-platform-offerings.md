@@ -15,7 +15,7 @@ topics:
   - audio-video
   - content
   - content-strategy
-  - digital-audio-video-community
+  - multimedia
   - metrics
   - mobile
   - recaps

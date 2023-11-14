@@ -32,7 +32,7 @@ topics:
   - analytics
   - research
   - user-research
-  - foia
+  - open-government
   - section-508
   - design
 slug: measuring-and-justifying-the-government-experience
