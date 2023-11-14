@@ -11,7 +11,7 @@ topics:
   - accessibility
   - video
   - section-508
-  - YouTube
+  - social-media
 ---
 
 {{< legacy-img src="2014/07/505-x-320-Resource-Accessible-How-to-Caption-Videos-NASA.jpg" alt="505-x-320-Resource-Accessible-How-to-Caption-Videos-NASA" >}}
