@@ -55,22 +55,22 @@ To effectively optimize your intranet, you must establish benchmarks and targets
   </thead>
   <tbody>
     <tr>
-      <th scope="row"><strong>1) 30% engagement rate</strong>strong></th>
+      <th scope="row"><strong>1) 30% engagement rate</strong></th>
       <td>Increase to 50% within the next quarter.</td>
       <td>Measure the percentage of active users who interact with your intranet content and features.</td>
     </tr>
     <tr>
-      <th scope="row"><strong>2) 500,000 views per month</strong>strong></th>
+      <th scope="row"><strong>2) 500,000 views per month</strong></th>
       <td>Reach 750,000 views per month within the next quarter.</td>
       <td>Track the total number of pages viewed on your intranet within a specified timeframe.</td>
     </tr>
     <tr>
-      <th scope="row"><strong>3) 10 minutes per session</strong>strong></th>
+      <th scope="row"><strong>3) 10 minutes per session</strong></th>
       <td>Extend to 15 minutes per session within the next quarter.</td>
       <td>Determine the average time users spend on your intranet during a single visit.</td>
     </tr>
     <tr>
-      <th scope="row"><strong>4) 20% bounce rate</strong>strong></th>
+      <th scope="row"><strong>4) 20% bounce rate</strong></th>
       <td>Reduce to 15% within the next quarter.</td>
       <td>Calculate the percentage of users who leave the intranet site after viewing only one page.</td>
     </tr>
@@ -117,7 +117,7 @@ This table provides a comprehensive overview of eight **objectives**, and the **
 
 #### 1) Enhance user engagement
 
-**Metrics**
+##### Metrics
 
 * Comments, likes, shares
 * Participation in polls or surveys
@@ -127,7 +127,7 @@ This table provides a comprehensive overview of eight **objectives**, and the **
 * Use of search box
 * Attendance at virtual events or webinars
 
-**Benchmarks**
+##### Benchmarks
 
 * 30% engagement rate
 * 1,000 downloads per week
@@ -136,7 +136,7 @@ This table provides a comprehensive overview of eight **objectives**, and the **
 * 60% utilization rate
 * 200 attendees per webinar
 
-**Targets**
+##### Targets
 
 * Increase engagement rate to 40%
 * Achieve 1,200 downloads per week
@@ -147,18 +147,18 @@ This table provides a comprehensive overview of eight **objectives**, and the **
 
 #### 2) Improve user experience
 
-**Metrics**
+##### Metrics
 
 * Session duration
 * Pages per session
 * Bounce rate
 
-**Benchmarks**
+##### Benchmarks
 
 * 10 minutes per session
 * 20% bounce rate
 
-**Targets**
+##### Targets
 
 * Extend session duration to 12 minutes
 * Increase pages per session to 3.5
@@ -166,63 +166,63 @@ This table provides a comprehensive overview of eight **objectives**, and the **
 
 #### 3) Facilitate access to services
 
-**Metrics**
+##### Metrics
 
 * Downloads of resources
 * Completion of online training courses
 * Usage of search functions
 
-**Benchmarks**
+##### Benchmarks
 
 * 500 downloads per week
 * 70% utilization rate
 
-**Targets**
+##### Targets
 
 * Achieve 600 downloads per week
 * Reach a utilization rate of 75%
 
 #### 4) Encourage collaboration
 
-**Metrics**
+##### Metrics
 
 * Participation in polls or surveys
 * Forum participation
 * Attendance at virtual events or webinars
 
-**Benchmarks**
+##### Benchmarks
 
 * 100 new threads per month
 * 200 attendees per webinar
 
-**Targets**
+##### Targets
 
 * Maintain 120 new threads per month
 * Increase webinar attendance to 250 attendees
 
 #### 5) Improve communication
 
-**Metrics**
+##### Metrics
 
 * Comments
 * Likes
 * Shares
 * Attendance at virtual events or webinars
 
-**Benchmarks**
+##### Benchmarks
 
 * 50 likes
 * 25 shares
 * 100 attendees
 
-**Targets**
+##### Targets
 
 * Maintain or increase interaction rates
 * Boost webinar attendance by 20%
 
 #### 6) Promote transparency and accountability
 
-**Metrics**
+##### Metrics
 
 * Participation in polls or surveys
 * Forum participation
@@ -230,50 +230,50 @@ This table provides a comprehensive overview of eight **objectives**, and the **
 * Likes
 * Shares
 
-**Benchmarks**
+##### Benchmarks
 
 * 30% participation rate in polls and surveys
 * 80% forum participation rate
 
-**Targets**
+##### Targets
 
 * Increase participation rate to 40%
 * Achieve 85% forum participation rate
 
 #### 7) Support training and development
 
-**Metrics**
+##### Metrics
 
 * Completion of online training courses
 * Attendance at virtual events or webinars
 
-**Benchmarks**
+##### Benchmarks
 
 * 85% course completion rate
 * 200 attendees per webinar
 
-**Targets**
+##### Targets
 
 * Attain a 90% course completion rate
 * Increase webinar attendance to 250 attendees
 
 #### 8) Increase usage and adoption
 
-**Metrics**
+##### Metrics
 
 * Visitors
 * Views
 * Session duration
 * Peak usage times
 
-**Benchmarks**
+##### Benchmarks
 
 * 10,000 monthly visitors
 * 100,000 monthly views
 * 12 minutes per session
 * Identify peak usage times
 
-**Targets**
+##### Targets
 
 * Achieve 12,000 monthly visitors
 * Reach 120,000 monthly views
