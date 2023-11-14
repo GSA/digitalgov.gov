@@ -82,6 +82,13 @@ The scans currently collect the following data about each target URL. A [complet
       <td data-label="SEO"></td>
       <td data-label="Third Party Services"></td>
     </tr>
+    <tr>
+      <td data-label="General">Mobile Friendliness</td>
+      <td data-label="USWDS"></td>
+      <td data-label="DAP"></td>
+      <td data-label="SEO"></td>
+      <td data-label="Third Party Services"></td>
+    </tr>
 </table>
 
 _Have ideas for what else we should be scanning for? Please [file an issue](https://github.com/gsa/site-scanning/issues) or add your idea [to the list of proposed future scans](https://github.com/GSA/site-scanning-documentation/blob/main/pages/candidate-scans.md)!_
