@@ -25,7 +25,6 @@ featured_resources:
 
 # Featured community to display at the top of the page
 featured_communities:
-  - "[join-the-508-community](https://www.section508.gov/manage/join-the-508-community/)"
   - "web-content-managers"
 
 # Curated list of content, can be internal or external links
