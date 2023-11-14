@@ -55,52 +55,52 @@ To effectively optimize your intranet, you must establish benchmarks and targets
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1) 30% engagement rate</th>
+      <th scope="row"><strong>1) 30% engagement rate</strong>strong></th>
       <td>Increase to 50% within the next quarter.</td>
       <td>Measure the percentage of active users who interact with your intranet content and features.</td>
     </tr>
     <tr>
-      <th scope="row">2) 500,000 views per month</th>
+      <th scope="row"><strong>2) 500,000 views per month</strong>strong></th>
       <td>Reach 750,000 views per month within the next quarter.</td>
       <td>Track the total number of pages viewed on your intranet within a specified timeframe.</td>
     </tr>
     <tr>
-      <th scope="row">3) 10 minutes per session</th>
+      <th scope="row"><strong>3) 10 minutes per session</strong>strong></th>
       <td>Extend to 15 minutes per session within the next quarter.</td>
       <td>Determine the average time users spend on your intranet during a single visit.</td>
     </tr>
     <tr>
-      <th scope="row">4) 20% bounce rate</th>
+      <th scope="row"><strong>4) 20% bounce rate</strong>strong></th>
       <td>Reduce to 15% within the next quarter.</td>
       <td>Calculate the percentage of users who leave the intranet site after viewing only one page.</td>
     </tr>
     <tr>
-      <th scope="row">5) 50 new articles per month</th>
+      <th scope="row"><strong>5) 50 new articles per month</strong></th>
       <td>Increase to 75 articles per month within the next quarter.</td>
       <td>Monitor the creation of new content, such as articles, blogs, or updates.</td>
     </tr>
     <tr>
-      <th scope="row">6) 1,000 downloads per week</th>
+      <th scope="row"><strong>6) 1,000 downloads per week</strong></th>
       <td>Achieve 1,500 downloads per week within the next quarter.</td>
       <td>Count the number of downloads for resources, guidelines, forms, and other documents.</td>
     </tr>
     <tr>
-      <th scope="row">7) 100 new threads per month</th>
+      <th scope="row"><strong>7) 100 new threads per month</strong></th>
       <td>Reach 150 new threads per month within the next quarter.</td>
       <td>Track user interactions within forums, including new threads, responses, and views.</td>
     </tr>
     <tr>
-      <th scope="row">8) 80% course completion rate</th>
+      <th scope="row"><strong>8) 80% course completion rate</strong></th>
       <td>Increase to 90% within the next quarter.</td>
       <td>Measure the percentage of users who successfully complete online training courses.</td>
     </tr>
     <tr>
-      <th scope="row">9) 60% utilization rate</th>
+      <th scope="row"><strong>9) 60% utilization rate</strong></th>
       <td>Achieve 70% utilization rate within the next quarter.</td>
       <td>Determine the percentage of users who utilize the intranet's search function for information retrieval.</td>
     </tr>
     <tr>
-      <th scope="row">10) 200 attendees per webinar</th>
+      <th scope="row"><strong>10) 200 attendees per webinar</strong></th>
       <td>Reach 250 attendees per webinar within the next quarter.</td>
       <td>Keep tabs on the number of users participating in virtual events or webinars.</td>
     </tr>
