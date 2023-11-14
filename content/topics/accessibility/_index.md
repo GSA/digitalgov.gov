@@ -25,7 +25,7 @@ featured_resources:
 
 # Featured community to display at the top of the page
 featured_communities:
-  - "accessibility"
+  - "it-accessibility-section-508"
   - "web-managers-forum"
 
 
