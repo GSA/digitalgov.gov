@@ -111,7 +111,7 @@ Remember, these benchmarks and targets should evolve with your intranet's object
 
 ## Bringing it all together
 
-This table provides a comprehensive overview of eight **objectives**, and the **corresponding metrics**, **benchmark values**, and the **targeted improvements**—all working together to propel your intranet towards success.
+This list provides a comprehensive overview of eight **objectives**, and the **corresponding metrics**, **benchmark values**, and the **targeted improvements**—all working together to propel your intranet towards success.
 
 ### Objectives
 
