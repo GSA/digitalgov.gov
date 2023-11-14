@@ -26,7 +26,6 @@ featured_resources:
 # Featured community to display at the top of the page
 featured_communities:
   - "it-accessibility-section-508"
-  - "web-managers-forum"
 
 
 # Curated list of content, can be internal or external links
@@ -41,7 +40,7 @@ featured_links:
     href: "https://digital.gov/resources/best-practices-writing-for-accessible-web/"
   - title: "An introduction to accessibility"
     summary: "Accessibility is one of the most important values underlying all the work that we do. This is an introduction to why accessibility matters, especially in government."
-    href: "https://digital.gov/resources/introduction-accessibility/"
+    href: "https://digital.gov/resources/an-introduction-to-accessibility/"
   - title: "Accessibility: Usability for every ability"
     summary: "Incorporate accessibility from the start and celebrate accessibility guidelines that help build better products and services for all users."
     href: "https://designsystem.digital.gov/documentation/accessibility/#what-project-teams-should-do/"
