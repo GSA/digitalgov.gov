@@ -12,7 +12,7 @@ topics:
   - api
   - search
   - federal-register
-  - instagram
+  - social-media
   - NLM
   - OSHA
   - SEC

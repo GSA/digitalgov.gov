@@ -10,7 +10,6 @@ topics:
   - social-media
   - search
   - federal-register
-  - instagram
   - National Library of Medicine
   - social-media
   - transportation-security-administration

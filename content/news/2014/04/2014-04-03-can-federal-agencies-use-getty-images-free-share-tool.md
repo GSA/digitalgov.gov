@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - DoD
-  - instagram
   - Library of Congress
   - LOC
   - national-archives-and-records-administration

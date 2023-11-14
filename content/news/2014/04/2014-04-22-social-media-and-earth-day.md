@@ -12,7 +12,6 @@ topics:
   - social-media
   - epa
   - gsa
-  - instagram
   - nasa
   - national-institutes-of-health
   - National Zoological Park

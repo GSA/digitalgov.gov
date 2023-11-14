@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - social-media
-  - instagram
   - Library of Congress
   - LOC
   - smithsonian-institution
