@@ -2,7 +2,7 @@
 # This topic lives at
 # https://digital.gov/topics/digital-service-delivery
 
-slug: "Digital service delivery"
+slug: "digital-service-delivery"
 
 # Topic Title
 title: "Digital service delivery"
@@ -23,7 +23,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-  - link: "/guides/hcd/ "
+  - link: "/guides/hcd/"
 
 # Featured community to display at the top of the page
 featured_communities:
