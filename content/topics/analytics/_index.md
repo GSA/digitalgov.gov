@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "ttps://digital.gov/guides/dap/"
+    - link: "https://digital.gov/guides/dap/"
 
 # Featured community to display at the top of the page
 featured_communities:
