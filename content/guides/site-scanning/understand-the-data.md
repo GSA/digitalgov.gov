@@ -85,3 +85,33 @@ The scans currently collect the following data about each target URL. A [complet
 </table>
 
 _Have ideas for what else we should be scanning for? Please [file an issue](https://github.com/gsa/site-scanning/issues) or add your idea [to the list of proposed future scans](https://github.com/GSA/site-scanning-documentation/blob/main/pages/candidate-scans.md)!_
+
+
+
+## Where to start
+
+The easiest way to begin using data from the Site Scanning program is to download the [primary snapshot](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.csv) and open it in your spreadsheet program of choice.  Next, apply filters to the sheet so that you can easily filter to just the websites for your agency, bureau, or domain.  
+
+At this point, you'll want to take a quick look at the [data dictionary](https://github.com/GSA/site-scanning-documentation/blob/main/data/Site_Scanning_Data_Dictionary.csv), which gives a brief explanation of what data is collected about each website.  With these two things in hand, the best way to interact with this data is probably to go ahead and start looking at it and thinking about how you could use different fields.  One trick that some users do is to hide or delete columns that you don't expect to use so as to make the spreadsheet faster and more responsive.
+
+Many of the data fields are fairly straightforward but if you'd like to get into much deeper detail and pursue more sophisticated tasks, the [technical details page](https://digital.gov/guides/site-scanning/technical-details/) should have all of the information you want (and more!).  
+
+* To notify us about a public federal website [that is missing from our index](https://github.com/GSA/site-scanning-documentation/blob/main/pages/agency-questions.md#a-public-federal-gov-website-is-missing-from-the-the-site-scanning-data--how-can-i-add-it), please email us at [site-scanning@gsa.gov](mailto:site-scanning@gsa.gov).  
+* To notify us about a website that you think [should not be included in our results](https://github.com/GSA/site-scanning-documentation/blob/main/pages/agency-questions.md#you-include-a-website-which-should-be-filtered-out--how-can-i-have-it-removed-from-the-site-scanning-data), please emails us at [site-scanning@gsa.gov](mailto:site-scanning@gsa.gov).
+
+## Using Site Scanning data for 21st Century Idea implementation
+
+Among the agency requirements laid out in [OMB 23-22](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf) ("Delivering a Digital-First Public Experience") are several that Site Scanning data can help with.  Helpful data fields include: 
+
+* Fields that begin with `DAP` - "Agencies should use web analytics..."
+* Fields that begin with `DAP` - "Agencies are required to participate in GSA’s government-wide Digital Analytics Program (DAP)."
+* Fields that begin with `USWDS` - "Agencies should use the United States Web Design System (USWDS)..."
+* `Target URL - Top Level Domain` and `Final URL - Top Level Domain` - "Agencies generally must use a .gov or .mil domain name..."
+* `Site Search - Detected` - "Agencies’ public-facing websites must contain a search function..."
+* Fields that begin with `SEO`, `Robots.txt` and `Sitemap.xml` - "Agencies should employ best practices to improve crawling or indexing of web content..."
+* Fields that begin with `Third Party` - "Agencies must not embed static, unchanging web assets..."
+* `Viewport Meta Tag` - "...agencies must ensure that public-facing websites and digital services are mobile-friendly..."
+* Fields that begin with `Required Links` - "For each website, agencies must post a link to that website’s Privacy Policy..."
+* Fields that begin with `Required Links` - "In the footer of each agency’s principal website or principal sub-agency websites, the agency must include links to:..."
+* Fields that begin with `Third Party` - "Agencies are encouraged to collect common customer metrics, measures, and outcomes for websites and digital services.... Agencies should regularly measure customer perceptions of trust, confidence, and satisfaction..."
+* Fields that begin with `Shared Service` - "Agencies should utilize government-wide programs provided by GSA, the Department of Homeland Security (DHS), and other Federal shared-service providers..."
