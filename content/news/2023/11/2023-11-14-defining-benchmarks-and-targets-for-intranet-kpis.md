@@ -1,26 +1,31 @@
 ---
 date: 2023-11-15 16:41:00 -0500
-kicker: kpi
+kicker: 
 title: Defining benchmarks and targets for intranet KPIs
 deck: Paving the path to success
-summary: Discover the keys to intranet success by harmonizing objectives,
-  metrics, benchmarks, and targets. Elevate your organization's intranet to new
-  heights!
+summary: Discover the keys to intranet success by harmonizing objectives, metrics, benchmarks, and targets. Elevate your organization's intranet to new heights!
+
 # See all topics at https://digital.gov/topics
 topics:
   - metrics
   - performance
   - strategy
+
 # See all authors at https://digital.gov/authors
 authors:
   - jessica-dunbar
+
 slug: defining-benchmarks-and-targets-for-intranet-kpis
-primary_image: 10x-areas-of-focus
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 In a previous post, we explored [selecting the right metrics to optimize your intranet's performance](https://digital.gov/2023/06/13/how-to-choose-the-right-metrics-for-your-intranet/). In this post we will explore the next step — defining benchmarks and targets for key performance indicators (KPIs). This sequel blog post is designed to build upon the insights from our initial post and help you craft a comprehensive strategy for intranet optimization.
 
 ## Why benchmarks and targets are vital
