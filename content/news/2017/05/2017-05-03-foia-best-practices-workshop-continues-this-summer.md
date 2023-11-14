@@ -14,7 +14,6 @@ topics:
   - FOIA
   - freedom-of-information-act
   - office-of-information-policy
-  - OIP
   - training
   - us-department-of-justice
 ---

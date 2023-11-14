@@ -13,7 +13,6 @@ topics:
   - user-experience
   - cx
   - customer-service
-  - Digital Services Playbook
   - government-contact-centers
   - personas
 ---

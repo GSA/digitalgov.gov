@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - search
-  - National Ocean Service
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - usability

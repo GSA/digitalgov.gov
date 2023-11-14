@@ -29,7 +29,7 @@ These high-level policies cover basic requirements for all websites and digital 
 
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
+- [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.federalregister.gov/documents/2016/07/28/2016-17872/revision-of-omb-circular-no-a-130-managing-information-as-a-strategic-resource) (July 28, 2016)
 - [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 - [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 - See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
@@ -102,7 +102,7 @@ Understand the needs of your customers, collect and address customer feedback, a
 - [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
 - [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 - See all [Government Customer Service Policies and Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
-- [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
+- [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
 
 <p class="more">
   <a href="{{< ref "/topics/cx" >}}">More on Customer Experience
@@ -239,9 +239,9 @@ Publish information in ways that make it easy to find, access, share, distribute
 
 - [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
 - [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
-- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
+- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
 - [OMB M-10-06, Open Government Directive](https://obamawhitehouse.archives.gov/open/documents/open-government-directive) (December 2009)
-- [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
+- [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-11.pdf) (PDF, 92.5 kb, 12 pages, March 2010)
 - [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
 
 ## Paperwork reduction
@@ -250,7 +250,7 @@ Information you collect from the public should minimize burden and maximize publ
 
 - [Paperwork Reduction Act (44 U.S.C. 3501 et seq.)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm)
 - [Federal Collection of Information](https://obamawhitehouse.archives.gov/omb/inforeg_infocoll/)
-- [OMB M-11-26, Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (PDF, 196 kb, 4 pages, June 2011)
+- [OMB M-11-26, New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf) (PDF, 196 kb, 4 pages, June 2011)
 - [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act](http://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 kb, 7 pages, April 2010)
 - [Government Paperwork Elimination Act (GPEA)](http://obamawhitehouse.archives.gov/omb/fedreg_gpea2/) (1998)
 - [Small Business Paperwork Relief Act of 2002](https://www.gpo.gov/fdsys/pkg/STATUTE-116/pdf/STATUTE-116-Pg729.pdf) (PDF, 49 kb, 5 pages, June 2002)

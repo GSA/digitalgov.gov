@@ -7,7 +7,6 @@ topics:
   - mobile
   - american-red-cross
   - fema
-  - National Hurricane Center
   - thursday-mobile-products
 ---
 

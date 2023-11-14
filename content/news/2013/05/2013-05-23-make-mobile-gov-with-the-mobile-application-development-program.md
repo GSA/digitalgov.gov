@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - code
-  - cio-council
   - mobile
   - our-work
   - accessibility

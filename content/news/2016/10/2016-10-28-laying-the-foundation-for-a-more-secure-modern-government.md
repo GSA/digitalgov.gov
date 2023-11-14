@@ -14,7 +14,6 @@ topics:
   - best-practices
   - cloud
   - Cybersecurity National Action Plan
-  - fact sheet
   - gsa
   - infrastructure
   - innovation

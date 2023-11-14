@@ -10,7 +10,6 @@ topics:
   - data
   - api
   - data
-  - 'Occupational Safety and Health Administration'
   - open-data
   - OSHA
   - us-department-of-labor

@@ -13,14 +13,12 @@ topics:
   - policy
   - 18f
   - agile
-  - CIO
   - cloud
   - cloud-gov
   - code
   - data
   - data-act
   - digital-accountability-and-transparency-act
-  - event
   - FAS
   - federal-acquisition-service
   - fedramp
@@ -28,8 +26,6 @@ topics:
   - OCSIT
   - office-of-citizen-services-and-innovative-technology
   - office-of-products-and-programs
-  - summit
-  - technology-industry-day
   - technology-transformation-services
   - tts
 

@@ -11,7 +11,6 @@ topics:
   - data
   - monthly-theme
   - api
-  - Centers for Medicare and Medicaid Services
   - data
   - data-gov
   - HHS

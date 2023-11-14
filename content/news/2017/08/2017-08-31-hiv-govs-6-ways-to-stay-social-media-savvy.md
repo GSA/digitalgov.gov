@@ -13,7 +13,6 @@ topics:
   - strategy
   - policy
   - content-strategy
-  - hiv-gov
   - social-media
 ---
 

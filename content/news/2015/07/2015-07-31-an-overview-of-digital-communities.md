@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - 18f
   - api
-  - CIO Council
   - citizen-science-and-crowdsourcing-community-of-practice
   - communities
   - drupal

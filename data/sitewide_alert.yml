@@ -13,7 +13,7 @@
 # @param {array} [alerts] - Each item is an individual alert. Accepts markdown. Uses an unordered list when there's more than a single item.
 
 data:
-  display_alert: true
+  display_alert: false
   is_emergency: false
   has_icon: true
   is_slim: false

@@ -15,7 +15,6 @@ topics:
   - NARA
   - national-archives-and-records-administration
   - smithsonian-institution
-  - Smithsonian Libraries
   - social-media
   - terms-of-service
   - tos
