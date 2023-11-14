@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - social-media
-  - linkedin
   - mobile
   - mobile-apps
   - mobile-ux-guideline-1
