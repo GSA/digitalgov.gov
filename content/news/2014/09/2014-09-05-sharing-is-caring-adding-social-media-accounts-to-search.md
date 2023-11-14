@@ -14,7 +14,6 @@ topics:
   - social-media
   - transportation-security-administration
   - TSA
-  - Twitter
   - YouTube
 ---
 

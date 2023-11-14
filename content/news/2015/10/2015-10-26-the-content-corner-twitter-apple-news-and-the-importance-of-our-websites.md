@@ -11,7 +11,6 @@ topics:
   - content-strategy
   - social-media
   - the-content-corner
-  - Twitter
 ---
 
 First, McDonald’s started serving breakfast all day. Now, [Twitter announced it is dropping its 140 character limit](http://recode.net/2015/09/29/twitter-plans-to-go-beyond-its-140-character-limit/) for tweets. Black is white, up is down. Or is it really that big a deal? Is Twitter just keeping itself relevant in the [battle for your content]({{< ref "2015-04-27-the-content-corner-the-content-wars.md" >}})?

@@ -20,7 +20,6 @@ topics:
   - recaps
   - SBA
   - social-media
-  - Twitter
   - us-small-business-administration
   - usa-gov
   - usagov

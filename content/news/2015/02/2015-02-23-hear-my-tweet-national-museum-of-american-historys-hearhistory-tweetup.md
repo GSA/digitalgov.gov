@@ -10,7 +10,6 @@ topics:
   - Library of Congress
   - LOC
   - smithsonian-institution
-  - Twitter
   - YouTube
 ---
 

@@ -10,7 +10,6 @@ topics:
   - social-media
   - NPS
   - social-media
-  - Twitter
   - us-national-park-service
 ---
 

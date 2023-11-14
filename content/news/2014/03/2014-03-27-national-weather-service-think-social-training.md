@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - National Weather Service
-  - Twitter
   - YouTube
 ---
 

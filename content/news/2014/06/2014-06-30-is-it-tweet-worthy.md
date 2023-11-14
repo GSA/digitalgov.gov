@@ -14,7 +14,6 @@ topics:
   - peace-corps
   - plain-language
   - socialgov-community
-  - Twitter
   - us-government-accountability-office
   - web-content-managers-forum
 ---

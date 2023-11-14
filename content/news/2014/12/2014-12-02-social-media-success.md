@@ -9,7 +9,6 @@ topics:
   - metrics
   - social-media
   - DOI
-  - Twitter
   - US Department of Agriculture
   - us-department-of-the-interior
   - USDA

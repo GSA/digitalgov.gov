@@ -12,7 +12,6 @@ topics:
   - national-archives-and-records-administration
   - social-media
   - the-content-corner
-  - Twitter
   - UGC
   - white-house
 ---

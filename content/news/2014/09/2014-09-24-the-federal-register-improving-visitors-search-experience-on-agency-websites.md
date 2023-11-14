@@ -16,7 +16,6 @@ topics:
   - NLM
   - OSHA
   - SEC
-  - Twitter
   - us-securities-and-exchange-commission
   - YouTube
 ---

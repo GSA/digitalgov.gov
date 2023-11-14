@@ -9,7 +9,6 @@ topics:
   - social-media
   - GobiernoUSAgov
   - social-media
-  - Twitter
   - usagov
 ---
 
