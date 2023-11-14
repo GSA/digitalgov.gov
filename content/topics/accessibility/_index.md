@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-  - href: "https://accessibility.digital.gov/"
+    - link: "https://accessibility.digital.gov/"
 
 # Featured community to display at the top of the page
 featured_communities:
