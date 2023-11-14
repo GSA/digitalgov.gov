@@ -32,7 +32,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: ": essential knowledge"
+  title: "Diversity, equity, inclusion, and accessibility: essential knowledge"
   resources:
   - title: "Embedding equity in civic design to transform customer experience"
     summary: "Learn how designers in the federal government leverage design methods to build a foundation for improved customer experiences for all people."
