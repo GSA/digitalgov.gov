@@ -4,20 +4,44 @@
 
 slug: "mobile"
 
-aliases:
-  - /services/mobile-application-testing-program/
-
 # Topic Title
 title: "Mobile"
+deck: "Mobile-friendly government websites improve access and user experience"
 
-# description — keep it short and clear
-summary: ""
-
+summary: "People increasingly use their mobile devices to access critical information. Ensuring that government websites work well on mobile devices not only improves the overall user experience but also increases visibility of government services and information. Mobile-friendly federal websites are a part of digital inclusion, transparency, and accountability."
 
 # Weight
 weight: 2
 
-# For more information on managing topics,
-# see https://github.com/GSA/digitalgov.gov/wiki
+# Set the legislation card title and link
+legislation:
+  title: "Connected Government Act"
+  link: "https://digital.gov/resources/connected-government-act/"
 
+# Featured resource to at the top of the page
+featured_resources:
+  resources:
+    - link: "https://designsystem.digital.gov/whats-new/updates/2022/04/28/introducing-uswds-3-0/"
+
+# Featured community to display at the top of the page
+featured_communities:
+  - "user-experience"
+  - "web-managers-forum"
+
+# Curated list of content, can be internal or external links
+featured_links:
+  title: "Mobile: essential knowledge"
+  resources:
+  - title: "Eight principles of mobile-friendliness"
+    summary: "Use these eight principles of mobile-friendliness to greatly improve the mobile-friendliness of your websites."
+    href: "https://digital.gov/guides/mobile-principles/"
+  - title: "How to make a mobile paper prototype: A USAGov case study"
+    summary: "Learn how you can use a single piece of paper to make your mobile app work 20 percent better."
+    href: "https://digital.gov/2014/05/22/how-to-make-a-mobile-paper-prototype/"
+  - title: "Mobile development strategies"
+    summary: "Learn about the most common mobile development strategies."
+    href: "https://digital.gov/resources/mobile-development-strategies "
+  - title: "How to contract for mobile development services"
+    summary: "Find out how to structure a Statement of Work (SOW) for the development of mobile products."
+    href: "https://digital.gov/resources/mobile-sow-and-developer-qualifications/"
 ---
