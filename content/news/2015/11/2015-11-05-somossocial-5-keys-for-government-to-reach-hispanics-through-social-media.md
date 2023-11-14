@@ -12,7 +12,6 @@ topics:
   - social-media
   - cdc
   - centers-for-disease-control-and-prevention
-  - facebook
   - federal-emergency-management-agency
   - fema
   - GobiernoUSAgov

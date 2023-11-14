@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - DoD
-  - facebook
   - instagram
   - Library of Congress
   - LOC

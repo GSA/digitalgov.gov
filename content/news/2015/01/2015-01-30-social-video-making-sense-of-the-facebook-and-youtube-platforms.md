@@ -11,7 +11,6 @@ topics:
   - bbg
   - broadcasting-board-of-governors
   - DOI
-  - facebook
   - us-department-of-the-interior
   - YouTube
 ---

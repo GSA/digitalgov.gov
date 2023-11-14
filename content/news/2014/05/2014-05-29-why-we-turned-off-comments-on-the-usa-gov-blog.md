@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - social-media
-  - facebook
   - social-media
   - Twitter
 ---

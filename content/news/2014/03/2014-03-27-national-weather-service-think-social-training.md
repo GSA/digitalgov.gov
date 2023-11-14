@@ -7,7 +7,6 @@ authors:
   - tim-brice
 topics:
   - social-media
-  - facebook
   - National Weather Service
   - Twitter
   - YouTube

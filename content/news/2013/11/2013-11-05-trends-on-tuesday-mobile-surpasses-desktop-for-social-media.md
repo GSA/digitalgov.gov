@@ -7,7 +7,6 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - facebook
   - mobile
   - mobile-first
   - social-media

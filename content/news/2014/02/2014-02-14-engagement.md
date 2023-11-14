@@ -7,7 +7,6 @@ authors:
   - dorothy-amatucci
 topics:
   - social-media
-  - facebook
   - social-media
   - Twitter
 

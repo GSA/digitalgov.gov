@@ -13,7 +13,6 @@ topics:
   - product-management
   - social-media
   - data-gov
-  - facebook
   - socialgov-community
   - user-experience
 ---

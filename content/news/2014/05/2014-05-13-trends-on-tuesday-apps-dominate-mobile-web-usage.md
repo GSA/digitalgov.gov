@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - facebook
+  - social-media
   - mobile-apps
   - mobile-ux-guideline-5
   - mobile-first

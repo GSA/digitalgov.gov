@@ -11,7 +11,6 @@ authors:
 topics:
   - social-media
   - epa
-  - facebook
   - gsa
   - instagram
   - nasa

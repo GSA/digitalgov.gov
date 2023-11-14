@@ -7,7 +7,6 @@ authors:
   - michelle-chronister
 topics:
   - social-media
-  - facebook
   - GobiernoUSAgov
   - social-media
   - Twitter
