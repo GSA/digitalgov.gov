@@ -26,10 +26,10 @@ bio: "As part of his four-year term with [18F](https://www.18f.gov), Jeremy serv
 bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "General Services Administration"
+agency_full_name: ""
 
 # Agency Acronym [e.g., GSA]
-agency: "GSA"
+agency: ""
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: "New York City"
