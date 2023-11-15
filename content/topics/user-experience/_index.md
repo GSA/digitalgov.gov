@@ -36,7 +36,7 @@ featured_links:
   - title: "An introduction to design"
     summary: "Understand how and why design impacts user experience."
     href: "https://digital.gov/resources/an-introduction-to-design/"
-  - title: "Usability testing kit"
+  - title: "DHS usability testing kit"
     summary: "Use the kit’s guidelines and templates to test the usability of your services and solutions."
     href: "https://digital.gov/event/2022/09/27/dhs-usability-testing-kit-so-easy-anyone-can-do-it/"
   - title: "U.S. Web Design System: Design principles"
