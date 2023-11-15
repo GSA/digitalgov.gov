@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://digital.gov/guides/site-scanning/"
+    - link: "/guides/site-scanning/"
 
 # Featured community to display at the top of the page
 featured_communities:
