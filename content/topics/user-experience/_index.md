@@ -5,9 +5,9 @@ slug: ""
 
 # Topic Title
 title: "User experience"
-deck: "User experience involves every interaction a user has with an agency"
+deck: "User experience involves every interaction a user has with an agency."
 
-summary: "Websites and digital services provide better results when they are designed and delivered with the user in mind. In the current digital landscape, it is critical to adopt a user-centered approach to understand and respond to the individual needs of users. By evaluating the user experience on federal websites and digital services, agencies can increase customer satisfaction, build public trust, and reduce the burden on the public."
+summary: "Websites and digital services provide better results when they are designed and delivered with the user in mind. In the current digital landscape, it is critical to adopt a user-centered approach to understand and respond to the individual needs of users. By evaluating the user experience on federal websites and digital services, agencies can increase customer satisfaction, build public trust, and reduce burden on the public."
 
 # Weight
 weight: 2
@@ -20,7 +20,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://digital.gov/guides/hcd/"
+    - link: "/guides/hcd/"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -44,5 +44,5 @@ featured_links:
     href: "https://designsystem.digital.gov/design-principles/"
   - title: "18F Methods: Human-centered design tools"
     summary: "Use this collection of tools to put human-centered design into practice. They are focused on digital services, but can also be adapted to non-technical projects."
-    href: "https://methods.18f.gov/ "
+    href: "https://methods.18f.gov/"
 ---
