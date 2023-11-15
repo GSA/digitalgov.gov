@@ -20,6 +20,7 @@ end_date: 2019-08-21 16:00:00 -0500
 topics: 
   - social-media
   - marketing
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -37,6 +38,7 @@ primary_image: "socialgov-linkedin-2"
 weight: 0
 
 # Make it better ♥
+
 ---
 
 Does your agency’s LinkedIn content strategy need an update? Have you been successful in gaining followers? Hear some tips and best practices from Matt Ross, of LinkedIn’s Marketing Solutions Government & Advocacy team, on how to improve your agency’s use of content to maximize engagement with your core audience.
