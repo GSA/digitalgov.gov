@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://accessibility.digital.gov/"
+    - link: "/an-introduction-to-accessibility"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -31,19 +31,20 @@ featured_communities:
 featured_links:
   title: "Accessibility: essential knowledge"
   resources:
-  - title: "Section 508"
+  - title: "Section508.gov"
     summary: "This site provides guidance for federal agencies on several topics in IT accessibility, including creating accessible websites and documents, accessibility testing, accessibility training, and accessibility in contracting and procurement."
-    href: "https://www.section508.gov/"
+    href: "https://www.section508.gov"
   - title: "Best practices for writing for the accessible web"
     summary: "Tips for making online information accessible for those with auditory and visual needs."
-    href: "https://digital.gov/resources/best-practices-writing-for-accessible-web/"
-  - title: "An introduction to accessibility"
-    summary: "Accessibility is one of the most important values underlying all the work that we do. This is an introduction to why accessibility matters, especially in government."
-    href: "https://digital.gov/resources/introduction-accessibility/"
+    href: "https://digital.gov/resources/best-practices-writing-for-accessible-web"
+  - title: "An advanced approach to accessibility"
+    summary: "Accessibility is one of the most important values underlying all the work that we do. This is a deeper look into accessibility: what to do, how to do it, and why it matters, especially in government."
+    href: "https://digital.gov/resources/advanced-accessibility"
   - title: "Accessibility: Usability for every ability"
     summary: "Incorporate accessibility from the start and celebrate accessibility guidelines that help build better products and services for all users."
-    href: "https://designsystem.digital.gov/documentation/accessibility/#what-project-teams-should-do/"
-  - title: "Executive Guide to Federal IT Accessibility"
-    summary: "Guidance to help federal agencies improve accessibility to increase compliance with Federal policy."
-    href: "https://www.section508.gov/manage/playbooks/exec-guide-accessibility/"
+    href: "https://designsystem.digital.gov/documentation/accessibility/#what-project-teams-should-do"
+  - title: "Accessibility for Teams"
+    summary: "A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow."
+    href: "https://accessibility.digital.gov"
+
 ---
