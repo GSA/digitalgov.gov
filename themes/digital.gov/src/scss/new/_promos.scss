@@ -10,12 +10,12 @@
 }
 
 .dg-promos__heading {
-  font-size: size("sans", 6);
-  margin-bottom: 0;
+  margin-bottom: units(1);
 }
 
 .dg-promos__list {
   list-style: none;
+  margin-top: 0;
   padding-left: 0;
 }
 

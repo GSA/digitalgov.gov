@@ -19,8 +19,8 @@
 
 {{/* If there are community pages... */}}
 {{- with $communities -}}
-  <section id="related-communities" class="dg-promos dg-related-communities">
-    <h4 class="dg-promos__heading">Join a Community</h4>
+  <article class="dg-promos dg-related-communities">
+    <h3 class="dg-promos__heading">Join a Community</h3>
 
     <ul class="dg-promos__list">
       {{- range $communities -}}
@@ -64,5 +64,5 @@
         </svg>
       </a>
     </footer>
-  </section>
+  </article>
 {{- end -}}
