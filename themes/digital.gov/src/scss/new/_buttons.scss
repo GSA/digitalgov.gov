@@ -2,9 +2,7 @@
 
 .dg-more-link {
   &:hover {
-    span {
-      @include u-border-bottom("2px", "solid", "accent-warm");
-    }
+    text-decoration-color: color("accent-warm");
   }
 }
 
