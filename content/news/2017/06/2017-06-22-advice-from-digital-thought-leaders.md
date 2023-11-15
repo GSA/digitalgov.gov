@@ -12,7 +12,6 @@ topics:
   - strategy
   - policy
   - data
-  - hiv-gov
   - HHS
   - innovation
   - united-states-department-of-health-and-human-services

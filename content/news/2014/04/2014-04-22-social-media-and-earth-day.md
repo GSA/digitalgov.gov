@@ -17,7 +17,6 @@ topics:
   - nasa
   - national-institutes-of-health
   - National Zoological Park
-  - NDU
   - nih
   - NOAA
   - nsf

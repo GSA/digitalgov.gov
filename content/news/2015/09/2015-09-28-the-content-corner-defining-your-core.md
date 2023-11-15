@@ -8,10 +8,8 @@ authors:
 topics:
   - content
   - social-media
-  - BLM
   - content-strategy
   - social-media
-  - The Bureau of Land Management
   - the-content-corner
 ---
 

@@ -16,7 +16,6 @@ topics:
   - HHS
   - mobile-apps
   - mobile-gov
-  - NRC
   - Nuclear Regulatory Commission
   - thursday-mobile-products
   - us-environmental-protection-agency

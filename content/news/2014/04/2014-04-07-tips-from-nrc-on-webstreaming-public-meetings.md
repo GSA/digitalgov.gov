@@ -8,7 +8,6 @@ authors:
   - danita-stenberg
 topics:
   - video
-  - NRC
   - Nuclear Regulatory Commission
   - open-government
 ---

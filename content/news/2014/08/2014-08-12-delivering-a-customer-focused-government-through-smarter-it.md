@@ -13,7 +13,6 @@ topics:
   - mobile
   - 18f
   - cx
-  - Digital Services Playbook
   - us-digital-service
   - USDS
 ---

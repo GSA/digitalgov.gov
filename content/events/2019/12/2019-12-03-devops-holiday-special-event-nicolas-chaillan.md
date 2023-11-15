@@ -23,7 +23,6 @@ topics:
   - cloud
   - dod
   - internet-of-things
-  - united-states-air-force
   - virtual-reality
 
 # see all authors at https://digital.gov/authors
