@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/api-keys
+# https://digital.gov/topics/application-programming-interface
 
-slug: "api-keys"
+slug: "application-programming-interface"
 
 # Topic Title
-title: "API Keys"
+title: "Application Programming Interface"
 
 # description — keep it short and clear
 summary: ""

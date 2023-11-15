@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/aws
+# https://digital.gov/topics/cloud-and-infrastructure
 
-slug: "aws"
+slug: "cloud-and-infrastructure"
 
 # Topic Title
-title: "AWS"
+title: "Cloud And Infrastructure"
 
 # description — keep it short and clear
 summary: ""
