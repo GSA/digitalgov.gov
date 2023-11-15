@@ -46,4 +46,5 @@ featured_links:
   - title: "Executive Guide to Federal IT Accessibility"
     summary: "Guidance to help federal agencies improve accessibility to increase compliance with Federal policy."
     href: "https://www.section508.gov/manage/playbooks/exec-guide-accessibility"
+
 ---
