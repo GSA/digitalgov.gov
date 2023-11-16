@@ -3,7 +3,7 @@ slug: mobile-user-experience-guidelines
 date: 2013-12-11 4:13:00 -0400
 title: Mobile User Experience Guidelines
 deck: "Six user experience guidelines for creating a mobile product."
-summary: "From community member feedback about mobile user experiences practices, we have distilled the following six mobile UX guidelines."
+summary: "These mobile user experience guidelines were distilled from community feedback about mobile UX practices."
 
 authors:
   - jparcell
@@ -31,11 +31,11 @@ As more agencies develop mobile apps and websites, they need quick guidance on m
 
 **[Guideline 3](#guideline3 "Mobile User Experience Guidelines and Recommendations 3")**: Leverage the device’s features for usability and accessibility
 
-**[Guideline 4](#guideline4 "Mobile User Experience Guidelines and Recommendations 4")**: Test at multiple points in the design/development process
+**[Guideline 4](#guideline4 "Mobile User Experience Guidelines and Recommendations 4")**: Test at multiple points in the design or development process
 
-**[Guideline 5](#guideline5 "Mobile User Experience Guidelines and Recommendations 5")**: Collect and use data (quantitative and qualitative) to determine what content your users want and where
+**[Guideline 5](#guideline5 "Mobile User Experience Guidelines and Recommendations 5")**: Collect and use quantitative and qualitative data to determine what content your users want and where
 
-**[Guideline 6](#guideline6 "Mobile User Experience Guidelines and Recommendations 6")**: Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems
+**[Guideline 6](#guideline6 "Mobile User Experience Guidelines and Recommendations 6")**: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems
 
 Below we have added specific resources to each guideline.
 
@@ -97,7 +97,7 @@ Below we have added specific resources to each guideline.
 - [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)
 - [Accordions on Mobile](http://www.nngroup.com/articles/mobile-accordions/)
 
-<h2 id="guideline4">Guideline 4: Test at multiple points in the design/development process</h2>
+<h2 id="guideline4">Guideline 4: Test at multiple points in the design or development process</h2>
 
 ### Government Examples and Resources:
 
@@ -116,7 +116,7 @@ Below we have added specific resources to each guideline.
 - [W3C Mobile OK Checker](https://validator.w3.org/mobile/)
 - [Why Mobile Testing is Tough](http://www.softwaretestinghelp.com/why-mobile-testing-is-tough/)
 
-<h2 id="guideline5">Guideline 5: Collect and use data (quantitative and qualitative) to determine what content your users want and where</h2>
+<h2 id="guideline5">Guideline 5: Collect and use quantitative and qualitative data to determine what content your users want and where</h2>
 
 ### Government Examples & Resources:
 
@@ -134,7 +134,7 @@ Below we have added specific resources to each guideline.
 - [Multi-armed Bandit Approach to Testing](http://stevehanov.ca/blog/index.php?id=132)
 - [The Ultimate Guide to A/B Testing](http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/)
 
-<h2 id="guideline6">Guideline 6: Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems</h2>
+<h2 id="guideline6">Guideline 6: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems</h2>
 
 ### Government Examples & Resources:
 
