@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "/mobile-user-experience-guidelines"
+    - link: "/resources/mobile-sow-and-developer-qualifications"
 
 # Featured community to display at the top of the page
 featured_communities:
