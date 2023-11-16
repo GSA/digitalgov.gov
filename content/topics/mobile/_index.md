@@ -16,7 +16,7 @@ weight: 2
 # Set the legislation card title and link
 legislation:
   title: "Connected Government Act"
-  link: "https://digital.gov/resources/connected-government-act/"
+  link: "/resources/connected-government-act/"
 
 # Featured resource to at the top of the page
 featured_resources:
@@ -36,7 +36,7 @@ featured_links:
     summary: "Use these eight principles of mobile-friendliness to greatly improve the mobile-friendliness of your websites."
     href: "https://digital.gov/guides/mobile-principles/"
 
-  - title: "How to make a mobile paper prototype: A USAGov case study"
+  - title: "How to make a mobile paper prototype: A USA.gov case study"
     summary: "Learn how you can use a single piece of paper to make your mobile app work 20 percent better."
     href: "https://digital.gov/2014/05/22/how-to-make-a-mobile-paper-prototype/"
 
