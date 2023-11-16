@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://www.lep.gov/"
+    - link: "/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -36,7 +36,7 @@ featured_links:
     summary: "Learn how and when to use translation technology to provide meaningful access for people with limited English proficiency."
     href: "https://digital.gov/resources/introduction-to-translation-technology"
   - title: "Select a language: Help a user to choose their preferred language"
-    summary: "Get technical guidance on how to support users in their language of choice."
+    summary: "U.S. Web Design System technical guidance on how to support users in their language of choice."
     href: "https://designsystem.digital.gov/patterns/select-a-language/"
   - title: "Designing for translation"
     summary: "Learn about the importance of communicating information in several languages and designing for translation."
