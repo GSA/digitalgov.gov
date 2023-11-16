@@ -2,25 +2,28 @@
 slug: mobile-user-experience-guidelines
 date: 2013-12-11 4:13:00 -0400
 title: Mobile User Experience Guidelines
-summary: "Six user experience guidelines for creating a mobile product."
 deck: "Six user experience guidelines for creating a mobile product."
+summary: "From community member feedback about mobile user experiences practices, we have distilled the following six mobile UX guidelines."
+
 authors:
   - jparcell
+
 topics:
   - mobile
   - user-experience
   - mobile-gov
   - mobile-gov-community-of-practice
+
 aliases:
   - /resources/mobile-user-experience-guidelines-and-recommendations/
 
 ---
 
-If your app doesn&#8217;t have a good user experience, it goes to the [app graveyard]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
+If your app doesn't have a good user experience, it goes to the [app graveyard]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
 
 The need for digital products to work better is not new in the federal government. Resources like the [Digital Playbook](https://playbook.cio.gov/) and [Public Participation Playbook](https://digital.gov/guides/public-participation/) have had impact helping agencies become user-friendly and both of these resources note the importance of developing usable products for mobile users.
 
-As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< ref "/communities" >}}) members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
+As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do's and Don'ts. To answer their call, we asked [MobileGov Community of Practice]({{< ref "/communities" >}}) members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
 
 **[Guideline 1](#guideline1 "Mobile User Experience Guidelines and Recommendations 1")**: Make sure your content is structured and chunked appropriately for multiple devices
 
@@ -36,9 +39,7 @@ As more agencies develop mobile apps and websites, they need quick guidance on m
 
 Below we have added specific resources to each guideline.
 
-<h2 id="guideline1">
-  Guideline 1: Make sure your content is structured and chunked appropriately for multiple devices
-</h2>
+<h2 id="guideline1">Guideline 1: Make sure your content is structured and chunked appropriately for multiple devices</h2>
 
 ### Government Examples and Resources:
 
@@ -61,9 +62,7 @@ Below we have added specific resources to each guideline.
 - Guidelines to [making Mobile Websites]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}) mobile search friendly &#8211; A how-to guide written by the Search.gov _(formerly DigitalGov Search)_ team
 - [How to Use Open Source CMS to Implement Responsive Web Design]({{< ref "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}})
 
-<h2 id="guideline2">
-  Guideline 2: Follow industry user interface guidelines and government regulations (like 508) in the development of your mobile product
-</h2>
+<h2 id="guideline2">Guideline 2: Follow industry user interface guidelines and government regulations (like 508) in the development of your mobile product</h2>
 
 ### Government Regulations and Resources:
 
@@ -84,9 +83,7 @@ Below we have added specific resources to each guideline.
 - [Google Mobile Friendly PDF](http://services.google.com/fh/files/misc/mobile-friendly-starter-guide.pdf) &#8211; Basic one sheeter for webmasters.
 - [Google Principles of Mobile Site Design](http://static.googleusercontent.com/media/www.google.com/en//intl/ALL_ALL/think/multiscreen/pdf/multi-screen-moblie-whitepaper_research-studies.pdf) &#8211; Tips for delighting mobile users and increasing mobile conversions.
 
-<h2 id="guideline3">
-  Guideline 3: Leverage the device’s features for usability and accessibility
-</h2>
+<h2 id="guideline3">Guideline 3: Leverage the device’s features for usability and accessibility</h2>
 
 ### Government Examples and Resources:
 
@@ -100,9 +97,7 @@ Below we have added specific resources to each guideline.
 - [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)
 - [Accordions on Mobile](http://www.nngroup.com/articles/mobile-accordions/)
 
-<h2 id="guideline4">
-  Guideline 4: Test at multiple points in the design/development process
-</h2>
+<h2 id="guideline4">Guideline 4: Test at multiple points in the design/development process</h2>
 
 ### Government Examples and Resources:
 
@@ -121,9 +116,7 @@ Below we have added specific resources to each guideline.
 - [W3C Mobile OK Checker](https://validator.w3.org/mobile/)
 - [Why Mobile Testing is Tough](http://www.softwaretestinghelp.com/why-mobile-testing-is-tough/)
 
-<h2 id="guideline5">
-  Guideline 5: Collect and use data (quantitative and qualitative) to determine what content your users want and where
-</h2>
+<h2 id="guideline5">Guideline 5: Collect and use data (quantitative and qualitative) to determine what content your users want and where</h2>
 
 ### Government Examples & Resources:
 
@@ -141,9 +134,7 @@ Below we have added specific resources to each guideline.
 - [Multi-armed Bandit Approach to Testing](http://stevehanov.ca/blog/index.php?id=132)
 - [The Ultimate Guide to A/B Testing](http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/)
 
-<h2 id="guideline6">
-  Guideline 6: Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems
-</h2>
+<h2 id="guideline6">Guideline 6: Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems</h2>
 
 ### Government Examples & Resources:
 
