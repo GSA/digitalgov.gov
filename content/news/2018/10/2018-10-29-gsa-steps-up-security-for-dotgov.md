@@ -2,16 +2,19 @@
 slug: gsa-steps-up-security-for-dotgov
 date: 2018-10-29 15:00:00 -0500
 title: "GSA Steps Up Security for .gov"
-summary: "GSA’s DotGov Program is modernizing the security of .gov to make government websites and systems more secure.'
-deck: "How GSA’s DotGov Program is modernizing the security of .gov to make government websites and systems more secure.'
+summary: "GSA’s DotGov Program is modernizing the security of .gov to make government websites and systems more secure."
+deck: "How GSA’s DotGov Program is modernizing the security of .gov to make government websites and systems more secure."
+
 authors:
   - cameron-dixon
   - marina-fox
+
 topics:
   - product-management
   - domain-management
   - security
   - national-cyber-security-awareness-month
+
 featured_image:
   uid: dotgov-card
   alt: 'The new DotGov logo has the .gov top-level domain text in light blue on a dark blue background.'
