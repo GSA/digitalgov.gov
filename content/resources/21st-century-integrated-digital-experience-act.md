@@ -18,6 +18,15 @@ topics:
   - digital-service-delivery
   - governance
   - trust
+  - accessibility
+  - user-experience
+  - content-strategy
+  - analytics
+  - multilingual
+  - plain-language
+  - product-management
+  - dap
+  - digital-analytics-program
 
 # see all authors at https://digital.gov/authors 
 authors:
