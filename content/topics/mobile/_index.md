@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://designsystem.digital.gov/whats-new/updates/2022/04/28/introducing-uswds-3-0/"
+    - link: "/resources/mobile-user-experience-guidelines/"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -40,7 +40,10 @@ featured_links:
     href: "https://digital.gov/2014/05/22/how-to-make-a-mobile-paper-prototype/"
   - title: "Mobile development strategies"
     summary: "Learn about the most common mobile development strategies."
-    href: "https://digital.gov/resources/mobile-development-strategies "
+    href: "https://digital.gov/resources/mobile-development-strategies"
+  - title: "How to track performance"
+    summary: "A step-by-step guide to picking metrics and tools for tracking performance on your site."
+    href: "https://designsystem.digital.gov/performance/how/"
   - title: "How to contract for mobile development services"
     summary: "Find out how to structure a Statement of Work (SOW) for the development of mobile products."
     href: "https://digital.gov/resources/mobile-sow-and-developer-qualifications/"
