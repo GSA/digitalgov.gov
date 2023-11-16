@@ -32,6 +32,9 @@ featured_communities:
 featured_links:
   title: "Multilingual: essential knowledge"
   resources:
+  - title: "Top 10 best practices for multilingual websites"
+    summary: "Tips for creating and managing multilingual government websites."
+    href: "https://digital.gov/resources/top-10-best-practices-for-multilingual-websites/"
   - title: "Introduction to translation technology"
     summary: "Learn how and when to use translation technology to provide meaningful access for people with limited English proficiency."
     href: "https://digital.gov/resources/introduction-to-translation-technology"
@@ -44,7 +47,5 @@ featured_links:
   - title: "Bilingual glossaries, dictionaries, and style guides"
     summary: "Multilingual resources that improve the way we communicate with people in languages other than English."
     href: "https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides"
-  - title: "Top 10 best practices for multilingual websites"
-    summary: "Tips for creating and managing multilingual government websites."
-    href: "https://digital.gov/resources/top-10-best-practices-for-multilingual-websites/"
+
 ---
