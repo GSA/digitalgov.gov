@@ -7,7 +7,6 @@ slug: "diversity-equity-inclusion-accessibility-deia"
 # Topic Title
 title: "Diversity, equity, inclusion, and accessibility"
 deck: "Find out how to incorporate diversity, equity, inclusion, and accessibility into digital experiences."
-
 summary: "When digital experiences are designed to be inclusive, they are accessible to all — people with diverse abilities, people who speak different languages, and people from diverse cultural, ethnic, and economic backgrounds. Inclusion creates a better user experience for everyone. When we consider inclusion from the start of designing digital experiences, we create a wider impact for the products and services we design."
 
 # Weight
@@ -23,7 +22,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://accessibility.digital.gov/"
+    - link: "/2023/08/28/inclusivity-and-automation/"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -46,4 +45,8 @@ featured_links:
   - title: "Introduction to self-description"
     summary: "Understand how and why to create self-descriptions when you introduce yourself during events and presentations."
     href: "https://digital.gov/resources/introduction-to-self-description/"
+  - title: "Accessibility for Teams"
+    summary: "A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow."
+    href: "https://accessibility.digital.gov"
+
 ---
