@@ -15,7 +15,6 @@ end_date: 2021-07-15 15:00:00 -0500
 topics:
   - web-content-managers-forum
   - customer-experience
-  - customer-experience
   - user-centered-design
   - user-experience
 # See all authors at https://digital.gov/authors
