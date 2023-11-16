@@ -24,6 +24,8 @@ slug: uswds-monthly-call-november-2023
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-nov-title-card
 ---
+{{< asset-static file="uswds-monthly-call-november-2023.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 63 pages)" >}}
+
 During the [October 2023 monthly call](https://digital.gov/event/2023/10/19/uswds-monthly-call-october-2023/), the U.S. Web Design System team shared the progress we’re making on usability research with people who have disabilities.
 
 This month we’ll discuss:
