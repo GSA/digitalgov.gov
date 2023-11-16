@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - product-management
-  - cx
+  - customer-experience
   - Export-Import Bank of the United States
 ---
 

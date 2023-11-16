@@ -8,8 +8,8 @@ authors:
   - rflagg
 topics:
   - product-management
-  - cx
-  - customer-experience-community-of-practice
+  - customer-experience
+  - customer-experience
   - customer-satisfaction
   - customer-service
 ---

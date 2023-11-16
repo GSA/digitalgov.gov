@@ -11,7 +11,7 @@ topics:
   - our-work
   - user-testing-and-research
   - content
-  - cx
+  - customer-experience
   - office-of-products-and-programs
   - research
   - user-experience

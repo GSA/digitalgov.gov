@@ -10,7 +10,7 @@ topics:
   - ai
   - artificial-intelligence
   - social-media
-  - cx
+  - customer-experience
   - customer-satisfaction
 
 # See all authors at https://digital.gov/authors

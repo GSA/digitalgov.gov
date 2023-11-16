@@ -5,7 +5,7 @@ summary: Our purpose is to build innovation and intrapreneurship capacity across
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
-  - cx
+  - customer-experience
   - agile
 # See all authors at https://digital.gov/authors
 authors:

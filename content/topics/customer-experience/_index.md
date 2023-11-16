@@ -2,7 +2,7 @@
 # This topic lives at
 # https://digital.gov/topics/cx
 
-slug: "cx"
+slug: "customer-experience"
 
 # Topic Title
 title: "Customer Experience"

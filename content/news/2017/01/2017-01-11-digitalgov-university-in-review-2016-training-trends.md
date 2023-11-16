@@ -34,8 +34,8 @@ topics:
   - cloud
   - cloud-gov
   - content
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
+  - customer-experience
   - dap
   - digital-analytics-program
   - fedramp

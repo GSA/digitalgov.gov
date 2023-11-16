@@ -16,7 +16,7 @@ topics:
   - diversity-equity-inclusion-accessibility-deia
   - user-research
   - user-experience
-  - cx
+  - customer-experience
   - content-strategy
   - product-management
 slug: uswds-monthly-call-november-2023

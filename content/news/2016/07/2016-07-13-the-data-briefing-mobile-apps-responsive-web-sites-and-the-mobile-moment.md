@@ -11,7 +11,7 @@ topics:
   - ai
   - artificial intelligence
   - big-data
-  - cx
+  - customer-experience
   - data
   - mobile
   - mobile-apps

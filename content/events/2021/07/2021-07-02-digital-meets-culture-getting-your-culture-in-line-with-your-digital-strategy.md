@@ -14,8 +14,8 @@ end_date: 2021-07-15 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - web-content-managers-forum
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
+  - customer-experience
   - user-centered-design
   - user-experience
 # See all authors at https://digital.gov/authors

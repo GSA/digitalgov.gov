@@ -5,7 +5,7 @@ title: "The Customer Experience (CX) Symposium Series: A Thought Incubator for F
 summary: What is the past, present, and future of public sector customer experience practice? The CX Symposium series gathers practitioners to map our way.
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - governance
   - design
   - strategy

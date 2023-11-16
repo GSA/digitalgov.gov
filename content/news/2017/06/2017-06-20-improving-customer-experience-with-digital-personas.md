@@ -9,9 +9,9 @@ topics:
   - content
   - design
   - user-experience
-  - cx
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
+  - customer-experience
+  - customer-experience
   - NARA
   - national-archives-and-records-administration
   - personas

@@ -9,7 +9,7 @@ topics:
   - product-management
   - our-work
   - 18f
-  - cx
+  - customer-experience
   - customer-service
   - Ex-Im Bank
   - Export-Import Bank of the United States

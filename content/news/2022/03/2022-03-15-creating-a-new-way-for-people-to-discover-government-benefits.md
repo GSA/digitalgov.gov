@@ -18,7 +18,7 @@ summary: summ
 topics:
   - content
   - user-experience
-  - cx
+  - customer-experience
   - accessibility
   - multilingual
   - design

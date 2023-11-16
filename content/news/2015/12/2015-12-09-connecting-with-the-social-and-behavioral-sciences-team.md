@@ -9,9 +9,9 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - cx
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
+  - customer-experience
+  - customer-experience
   - recaps
   - social-and-behavioral-sciences-team
   - user-experience

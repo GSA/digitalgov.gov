@@ -18,7 +18,7 @@ topics:
   - best-practices
   - content
   - content-strategy
-  - cx
+  - customer-experience
   - recaps
   - section-508
   - social-media

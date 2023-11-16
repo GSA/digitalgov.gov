@@ -7,9 +7,9 @@ authors:
   - stephanie-thum
 topics:
   - user-experience
-  - cx
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
+  - customer-experience
+  - customer-experience
   - Ex-Im Bank
   - GAO
   - us-government-accountability-office

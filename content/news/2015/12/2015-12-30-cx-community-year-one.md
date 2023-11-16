@@ -7,11 +7,11 @@ authors:
   - rflagg
 topics:
   - product-management
-  - cx
-  - customer-experience-community-of-practice
+  - customer-experience
+  - customer-experience
   - customer-satisfaction
   - customer-service
-  - cx
+  - customer-experience
 ---
 
 Customer experience, or CX, is everywhere these days. Companies tout how they’re improving the customer experience with faster service, greater convenience or better products. If you’re wondering how customer “experience” differs from customer “service,” customer service usually involves a single interaction, such as a phone call to your cable company, while the customer experience encompasses the entire relationship, e.g., from how you originally selected your cable company, to their service throughout the course of your entire relationship with them.
@@ -29,7 +29,7 @@ A big focus for the CX-COP in 2015 was on education. First, we conducted a [trai
   * [Connecting with the Social and Behavioral Sciences Team]({{< ref "2015-12-09-connecting-with-the-social-and-behavioral-sciences-team.md" >}})
   * [Government Customer Service Cross Agency Priority (CAP) Goal Update]({{< ref "2015-12-14-government-customer-service-update-webinar-recap.md" >}}) {{< legacy-img src="2015/11/600-x-300-Marketing-concept-target-and-Customer-Satisfaction-on-wall-background-maxkabakov-iStock-Thinkstock-453577131.jpg" alt="Marketing concept target and Customer Satisfaction on wall background" caption="" >}} 
 
-You can view more CX training on our [CX Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW). We also published several [CX-related stories on DigitalGov]({{< ref "/topics/cx" >}}), and encouraged agencies to [participate in Customer Service Week]({{< ref "2015-09-11-how-will-you-celebrate-customer-service-week.md" >}}) by sharing lessons learned and hosting activities designed to improve customer service.
+You can view more CX training on our [CX Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW). We also published several [CX-related stories on DigitalGov]({{< ref "/topics/customer-experience" >}}), and encouraged agencies to [participate in Customer Service Week]({{< ref "2015-09-11-how-will-you-celebrate-customer-service-week.md" >}}) by sharing lessons learned and hosting activities designed to improve customer service.
 
 Finally, we’re developing a CX Toolkit to help agencies improve their CX programs. The Toolkit will feature hiring and onboarding tips to build a customer-centric culture, best practices for using voice-of-the-customer data to make meaningful improvements, guidance on designing customer-friendly digital experiences and more.
 

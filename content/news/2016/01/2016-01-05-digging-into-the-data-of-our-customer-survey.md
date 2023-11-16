@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - challenges-and-prize-competitions
-  - cx
+  - customer-experience
   - ecpic
   - mobile-gov
   - open-opportunities-program

@@ -20,7 +20,7 @@ topics:
   - accessibility
   - content-strategy
   - content
-  - cx
+  - customer-experience
   - professional-development
   - social-media
   - usability

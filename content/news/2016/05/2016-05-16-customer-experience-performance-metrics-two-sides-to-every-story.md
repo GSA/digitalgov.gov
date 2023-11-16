@@ -8,8 +8,8 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - cx
-  - cx
+  - customer-experience
+  - customer-experience
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - metrics

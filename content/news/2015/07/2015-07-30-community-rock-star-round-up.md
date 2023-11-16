@@ -9,7 +9,7 @@ topics:
   - communities
   - monthly-theme
   - 18f
-  - customer-experience-community-of-practice
+  - customer-experience
   - Federal CrowdSource Mobile Testing Program
   - gsa
   - HHS

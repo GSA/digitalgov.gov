@@ -7,7 +7,7 @@ authors:
   - zachary-lerner
 topics:
   - product-management
-  - cx
+  - customer-experience
   - customer-satisfaction
   - customer-service
   - federal-student-aid

@@ -8,8 +8,8 @@ authors:
   - rflagg
 topics:
   - product-management
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
+  - customer-experience
   - DOL
   - recaps
 

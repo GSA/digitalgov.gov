@@ -10,7 +10,7 @@ deck: "**What is Customer Experience?**&mdash;With the new Executive Order on Tr
   Let’s take a look at what it is."
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - digitalgov-team

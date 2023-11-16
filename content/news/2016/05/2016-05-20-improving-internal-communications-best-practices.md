@@ -8,9 +8,9 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - cx
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
+  - customer-experience
+  - customer-experience
   - Ex-Im Bank
   - federal-student-aid
   - FSA

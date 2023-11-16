@@ -15,9 +15,9 @@ topics:
   - api
   - blockchain
   - chatbots
-  - cx
+  - customer-experience
   - customer-service
-  - cx
+  - customer-experience
   - data
   - internet-of-things
   - security

@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - cx
+  - customer-experience
   - user-experience
 ---
 

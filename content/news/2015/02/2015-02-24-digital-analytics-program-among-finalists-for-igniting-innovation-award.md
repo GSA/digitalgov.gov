@@ -10,7 +10,7 @@ topics:
   - metrics
   - our-work
   - analytics
-  - cx
+  - customer-experience
   - data-gov
   - digital-analytics-program
   - innovation

@@ -17,7 +17,7 @@ summary: Executive Order 14058, released today, reinforces the second priority
   streamlining processes.
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - trust
 slug: using-technology-to-improve-customer-experience-and-service-delivery-for-the-american-people
 # Controls how this page appears across the site

@@ -5,7 +5,7 @@ summary: Education's FSA team behind Aidan® shares what they’ve learned over 
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - cx
+  - customer-experience
   - user-experience
   - chatbots
   - artificial-intelligence

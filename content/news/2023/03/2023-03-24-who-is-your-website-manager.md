@@ -10,7 +10,7 @@ topics:
   - governance
   - project-management
   - 21st-century-idea
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - rflagg

@@ -7,11 +7,11 @@ authors:
   - jsnee
 topics:
   - product-management
-  - cx
-  - customer-experience-community-of-practice
+  - customer-experience
+  - customer-experience
   - customer-satisfaction
   - customer-service
-  - cx
+  - customer-experience
   - Office of Management and Budget
   - OMB
   - recaps
