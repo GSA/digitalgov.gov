@@ -22,7 +22,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://digital.gov/2023/08/28/inclusivity-and-automation/"
+    - link: ""
 
 # Featured community to display at the top of the page
 featured_communities:
