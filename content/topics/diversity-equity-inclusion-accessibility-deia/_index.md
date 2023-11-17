@@ -5,8 +5,8 @@
 slug: "diversity-equity-inclusion-accessibility-deia"
 
 # Topic Title
-title: "Diversity, equity, inclusion, and accessibility"
-deck: "Find out how to incorporate diversity, equity, inclusion, and accessibility into digital experiences."
+title: "DEIA"
+deck: "Find out how to incorporate diversity, equity, inclusion, and accessibility (DEIA) into digital experiences."
 summary: "When digital experiences are designed to be inclusive, they are accessible to all — people with diverse abilities, people who speak different languages, and people from diverse cultural, ethnic, and economic backgrounds. Inclusion creates a better user experience for everyone. When we consider inclusion from the start of designing digital experiences, we create a wider impact for the products and services we design."
 
 # Weight
@@ -14,7 +14,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government "
+  title: "Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government"
   link: "https://www.federalregister.gov/documents/2023/02/22/2023-03779/further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal"
   title: "Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce"
   link: "https://www.federalregister.gov/documents/2021/06/30/2021-14127/diversity-equity-inclusion-and-accessibility-in-the-federal-workforce"
