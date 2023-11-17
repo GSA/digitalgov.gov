@@ -35,7 +35,7 @@ Accessibility must be considered throughout design, development, content creatio
 * **Insufficient color contrast** - Follow the [U.S. Web Design System (USWDS) guidance on color](https://designsystem.digital.gov/utilities/color/) to ensure sufficient contrast between text and background colors.
 * **Content quality** - Write concisely and clearly using [plain language](https://digital.gov/resources/an-introduction-to-plain-language/?dg), and put the most important information at the top of the page.
 
-Automated testing can find some accessibility issues, but only manual testing will catch everything, so use your agency’s standard testing tool and follow the [Section 508 ICT Testing Baseline](https://ictbaseline.access-board.gov/) to test all code and content before publication. Using this testing baseline ensures you address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
+Automated testing can find some accessibility issues, but only manual testing will catch everything, so use your agency’s standard testing tool and follow the [Section 508 ICT Testing Baseline](https://ictbaseline.access-board.gov/) to test all code and content before publication. Using this testing baseline ensures you address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.
 
 ## Why is accessibility important?
 
@@ -46,12 +46,12 @@ Accessibility is not only the right thing to do, it’s also the law. Under [Sec
 Following accessibility guidelines often also leads to improvements in [usability](https://digital.gov/topics/usability/) as well. This means your websites and digital services will work better, not only for those with disabilities, but for everyone. Promote accessibility at your agency by:
 * Designing accessible experiences
 * Following accessibility standards
-* Testing against the [Section 508 ICT Testing Baseline](https://ictbaseline.access-board.gov/) 
+* Testing against the [Section 508 ICT Testing Baseline](https://ictbaseline.access-board.gov/)
 * Conducting inclusive [research](https://digital.gov/topics/research/) and welcoming feedback
 * Learning more about accessibility by watching [Digital.gov videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) and [attending training](https://www.section508.gov/training/)
 
 ## What can I do next?
 
-Federal agencies are required to provide an accessibility statement. GSA’s Government-wide IT Accessibility Program also encourages all digital product owners to include information about an organization’s commitment towards providing equal access to information. 
+Federal agencies are required to provide an accessibility statement. GSA’s Government-wide IT Accessibility Program also encourages all digital product owners to include information about an organization’s commitment towards providing equal access to information.
 
-Visit Section508.gov to learn how to [develop a website accessibility statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/), including why you should publish a statement, what to include, and where to publish it. 
+Visit Section508.gov to learn how to [develop a website accessibility statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/), including why you should publish a statement, what to include, and where to publish it.
