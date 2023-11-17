@@ -29,26 +29,16 @@
 
 .dg-promos__link {
   @include u-border("1px", "gray-cool-10", "solid");
-  @include u-display("flex");
-  @include u-flex("align-center");
-  @include u-flex("justify");
   @include u-line-height("sans", 2);
   @include u-radius("md");
   @include u-text("semibold");
   color: color("indigo-80");
+  display: flex;
   margin-top: 0;
   padding: units("105");
 
   &:hover {
     @include u-bg("gray-cool-5");
     text-decoration-color: color("accent-warm");
-  }
-}
-
-// Image included, example "Get Started Building" sidebar section.
-.dg-promos__link--has-media {
-  .dg-promos__img {
-    flex-shrink: 0;
-    margin-left: auto;
   }
 }

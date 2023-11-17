@@ -31,14 +31,6 @@
             class="dg-promos__link"
           >
             {{ .Title }}
-
-            {{ range .Page.Params.community_list }}
-              {{ if .members }}
-                <span class="dg-community__count">
-                  {{- .members -}}+ <span class="usa-sr-only"> members</span>
-                </span>
-              {{ end }}
-            {{ end }}
           </a>
         </li>
       {{- end -}}
