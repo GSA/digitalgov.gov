@@ -17,7 +17,6 @@ topics:
   - artificial intelligence
   - chatbots
   - customer-experience
-  - customer-experience
   - data
   - FCC
   - federal-communications-commission

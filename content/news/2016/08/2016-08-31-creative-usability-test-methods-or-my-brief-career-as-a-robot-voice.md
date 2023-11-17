@@ -8,7 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - customer-experience
-  - customer-experience
   - customer-service
   - Government Contact Center Council
   - government-contact-centers

@@ -35,7 +35,6 @@ topics:
   - cloud-gov
   - content
   - customer-experience
-  - customer-experience
   - dap
   - digital-analytics-program
   - fedramp

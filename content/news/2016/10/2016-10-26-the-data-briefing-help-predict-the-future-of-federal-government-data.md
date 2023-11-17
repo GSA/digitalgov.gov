@@ -24,7 +24,6 @@ topics:
   - chatbots
   - customer-experience
   - customer-service
-  - customer-experience
   - data
   - innovation
   - internet-of-things

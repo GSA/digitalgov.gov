@@ -10,8 +10,6 @@ topics:
   - design
   - user-experience
   - customer-experience
-  - customer-experience
-  - customer-experience
   - NARA
   - national-archives-and-records-administration
   - personas

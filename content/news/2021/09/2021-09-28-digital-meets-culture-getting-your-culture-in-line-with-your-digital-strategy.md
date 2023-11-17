@@ -14,7 +14,6 @@ topics:
   - recaps
   - web-content-managers-forum
   - customer-experience
-  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - ruxi-giura

@@ -14,7 +14,6 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - customer-experience
   - personas
   - section-508
   - user-experience

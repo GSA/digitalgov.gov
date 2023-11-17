@@ -12,7 +12,6 @@ topics:
   - ai
   - artificial intelligence
   - customer-experience
-  - customer-experience
   - multilingual
   - US Citizenship and Immigration Service
   - USCIS

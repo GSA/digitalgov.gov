@@ -18,7 +18,6 @@ topics:
   - content
   - content-strategy
   - customer-experience
-  - customer-experience
   - draft-web-design-standards
   - gsa
   - metrics

@@ -11,7 +11,6 @@ topics:
   - content
   - customer-experience
   - customer-service
-  - customer-experience
   - multilingual
   - SSA
   - the-united-states-social-security-administration

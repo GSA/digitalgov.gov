@@ -9,8 +9,6 @@ topics:
   - product-management
   - monthly-theme
   - customer-experience
-  - customer-experience
-  - customer-experience
   - Ex-Im Bank
   - federal-student-aid
   - FSA

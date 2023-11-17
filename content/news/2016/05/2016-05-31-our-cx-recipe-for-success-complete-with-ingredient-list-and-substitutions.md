@@ -12,7 +12,6 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - customer-experience
   - section-508
   - user-experience
   

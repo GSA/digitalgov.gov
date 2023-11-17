@@ -11,7 +11,6 @@ topics:
   - policy
   - analytics
   - customer-experience
-  - customer-experience
   - data
   - metrics
 

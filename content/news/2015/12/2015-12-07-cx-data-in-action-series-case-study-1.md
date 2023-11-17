@@ -9,7 +9,6 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-experience
   - DOL
   - recaps
 

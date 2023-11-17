@@ -1,6 +1,6 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/cx
+# https://digital.gov/topics/customer-experience
 
 slug: "customer-experience"
 

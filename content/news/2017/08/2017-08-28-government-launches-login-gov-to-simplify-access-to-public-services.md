@@ -13,7 +13,6 @@ topics:
   - product-management
   - 18f
   - us-customs-and-border-protection
-  - customer-experience
   - login-gov
   - customer-service
   - customer-experience

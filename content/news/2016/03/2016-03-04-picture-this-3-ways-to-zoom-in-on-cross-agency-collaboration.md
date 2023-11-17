@@ -8,8 +8,6 @@ authors:
 topics:
   - user-experience
   - customer-experience
-  - customer-experience
-  - customer-experience
   - Ex-Im Bank
   - GAO
   - us-government-accountability-office

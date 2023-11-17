@@ -8,9 +8,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-experience
   - customer-service
-  - customer-experience
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Office-old-and-vintage-telephone-with-the-USA-flag-Bombaert-iStock-Thinkstock-497375023.jpg" alt="Bombaert/iStock/Thinkstock" caption="" >}}

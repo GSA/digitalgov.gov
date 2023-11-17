@@ -10,7 +10,6 @@ topics:
   - communities
   - monthly-theme
   - customer-experience
-  - customer-experience
   - customer-satisfaction
   - customer-service
   - recaps

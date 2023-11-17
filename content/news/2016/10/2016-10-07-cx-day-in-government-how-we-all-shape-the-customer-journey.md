@@ -8,7 +8,6 @@ authors:
 topics:
   - strategy
   - policy
-  - customer-experience
   - customer-service
   - customer-experience
   - FAS
