@@ -54,7 +54,7 @@ Keep in mind, if a website is developed using a content management system (CMS) 
 
 {{< img src="army-mobile" alt="A closeup on the hands of a person wearing Army camouflage, holding a cell phone with the Army website homepage on the screen." >}}
 
-## 1. Optimize JavaScript
+## Tactic 1: Optimize JavaScript
 
 The most common issue found is JavaScript use. JavaScript is used on many desktop and mobile applications because it extends the functionality of web pages, is a relatively easy language to learn and use, and it executes relatively quickly on the client side. However, if JavaScript is not placed and executed from an optimal place in the code, not minimized, nor used inline, it may negatively affect the application performance on mobile devices that traditionally have minimal resources.
 
@@ -102,7 +102,7 @@ Scripts with the `defer` attribute are executed in order (i.e., first script one
 
 - JavaScript: Advantages and Disadvantages http://www.jscripters.com/javascript-advantages-and-disadvantages/
 
-## 2. Optimize CSS
+## Tactic 2: Optimize CSS
 
 Cascading Style Sheets (CSS) describe how HTML elements are to be displayed on screen, can save a lot of work, and can control the layout of multiple web pages simultaneously.
 
@@ -151,7 +151,7 @@ However, CSS can increase application load time if absolute dimensions and posit
 
 - What is CSS? | [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
 
-## 3. Optimize Images
+## Tactic 3: Optimize Images
 
 Page weight, also known as "the gravity of the web," decreases your application performance by increasing load time and reducing network data usage. Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.
 
@@ -209,7 +209,7 @@ If no dimensions are specified in the containing document, or if the dimensions 
 - Fixit – Specify Image Sizes | https://mobiforge.com/design-development/fixit-specify-image-sizes
 - Specify Image Dimensions | https://gtmetrix.com/specify-image-dimensions.html
 
-## 4. Utilize Caching
+## Tactic 4: Utilize Caching
 
 Reducing the number of times your application requests and processes resources will improve your load time and reduce network data usage. You can do this in two ways: local caching or minimizing the use of external scripts and objects.
 
@@ -243,7 +243,7 @@ Cache-Control: max-age=2592000, public
 - How to Reduce HTTP requests to Speed Up Your WordPress Site | [https://yoast.com/reduce-http-requests-wordpress/](https://yoast.com/reduce-http-requests-wordpress/)
 - Easy Steps to Improve Page Load Times | [http://www.peachpit.com/articles/article.aspx?p=1431494&seqNum=5](http://www.peachpit.com/articles/article.aspx?p=1431494&seqNum=5)
 
-## 5. Avoid Pop-ups
+## Tactic 5: Avoid Pop-ups
 
 The use of pop-ups is not necessarily bad on a desktop application. However, if the application uses responsive design or is used on a mobile application, pop-ups often obstruct and hurt the user experience. They draw the user's attention away from the page to the pop-up, and the novice user quickly becomes confused and frustrated.
 
