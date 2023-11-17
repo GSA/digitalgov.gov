@@ -25,7 +25,7 @@ You should regularly review your agency's websites and other digital products an
 
 ## Overarching policies
 
-These high-level policies cover basic requirements for all websites and digital services. Use this handy {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 KB, 14 tabs)" >}} to ensure you've addressed all critical requirements.
+These high-level policies cover basic requirements for all websites and digital services. Use this handy {{< asset-static file="go-live-checklist-for-federal-websites-and-digital-services-nov2023.xlsx" label="go-live-checklist-for-federal-websites-and-digital-services-nov2023 (PDF, 4 pages, 2MB) >}} to ensure you've addressed all critical requirements. If you have difficulty viewing this file, please [reach out to us](https://digital.gov/about/contact/). 
 
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
