@@ -22,7 +22,8 @@ event_cop:
 # see all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - content
+  - content-strategy
+  - user-experience
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
