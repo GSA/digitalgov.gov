@@ -60,7 +60,7 @@ Some leaders from the [User Experience]({{< ref "communities/user-experience.md"
 
 **Silvia Salazar,** of the National Institutes of Health at the National Cancer Institute, leads the National Cancer Institute&#8217;s UX lab, offering tours and webinars to teach the greater community. She is a leader in Spanish-language UX and currently working on an incredible research project to catalog the effects of nuclear tests on U.S. citizens (now in their 80s and 90s!).
 
-You may have heard there is a newly coordinated [Customer Experience Community]({{< ref "customer-experience.md" >}}). **Martha Dorris**, of GSA, has led the effort to pull together customer experience practitioners from across government to share stories, hurdles, innovations and accomplishments.
+You may have heard there is a newly coordinated [Customer Experience Community]({{< ref "/communities/customer-experience.md" >}}). **Martha Dorris**, of GSA, has led the effort to pull together customer experience practitioners from across government to share stories, hurdles, innovations and accomplishments.
 
 ## Multilingual Community of Practice
 

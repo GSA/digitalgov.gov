@@ -52,4 +52,4 @@ Lisa says ”There is no greater need now than to develop a more holistic approa
 
 [youtube=http://www.youtube.com/watch?v=JZvGF8UsanU&w=600&start=0]
 
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting]({{< ref "customer-experience.md" >}}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.
+Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting]({{< ref "/communities/customer-experience.md" >}}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.

@@ -46,4 +46,4 @@ How can CX, UX and social and behavioral sciences collaborate to improve the pub
 
 Each group asks a different but important question. By combining these disciplines, you can develop a great product.
 
-Keep up with all that’s happening in government customer experience by [joining the CX Community]({{< ref "customer-experience.md" >}}) and by [viewing our government customer experience playlist of on-demand training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW).
+Keep up with all that’s happening in government customer experience by [joining the CX Community]({{< ref "/communities/customer-experience.md" >}}) and by [viewing our government customer experience playlist of on-demand training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW).
