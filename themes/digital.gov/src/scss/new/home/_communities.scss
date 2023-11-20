@@ -38,10 +38,10 @@ $communities-of-practice: (
 
 .usa-card__footer {
   a.usa-button {
-    @include u-display("flex");
-    @include u-flex("align-center");
-    @include u-flex("justify-center");
-    @include u-minh(8);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: units(8);
   }
 }
 
@@ -80,17 +80,6 @@ $communities-of-practice: (
           color: #fff;
         }
       }
-    }
-  }
-
-  .usa-card__container {
-    br {
-      display: none;
-    }
-
-    // Hide the top color border when on home page
-    &-home {
-      // border-top: 2px solid color("gray-cool-10");
     }
   }
 
