@@ -12,6 +12,6 @@ logo: congressgov
 topics:
   - policy
 
-slug: congress-gov
+slug: congressgov
 
 ---
