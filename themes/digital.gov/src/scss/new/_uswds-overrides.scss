@@ -47,3 +47,12 @@
 .dg-guide-summary {
   margin-bottom: units(2);
 }
+
+// Archived alerts
+// Seen on: `2011/06/21/making-mobile-gov-project`
+.dg-alert--out-of-date {
+  .usa-alert__body::before {
+    background-image: url("/img/svg-icons/material-icon-inventory_2.svg"); // Fallback for mask-image
+    mask-image: url("/img/svg-icons/material-icon-inventory_2.svg");
+  }
+}
