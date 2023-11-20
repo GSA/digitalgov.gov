@@ -2,19 +2,19 @@
 slug: digging-into-the-data-of-our-customer-survey
 date: 2016-01-05 9:00:06 -0400
 title: Digging Into the Data of Our Customer Survey
-summary: 'As a followup to the recent post about our annual customer satisfaction survey, we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services. Background: For the past three years, GSA’s Office of Citizen'
+summary: 'As a followup to the recent post about our annual customer satisfaction survey, we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services.'
 authors:
   - rflagg
 topics:
   - our-work
   - challenges-and-prize-competitions
-  - cx
+  - customer-experience
   - budgeting-and-performance
-  - mobile-gov
+  - mobile
   - open-opportunities-program
-  - socialgov
+  - social-media
   - user-experience
-  - web-content-managers-forum
+
 ---
 
 As a followup to the [recent post about our annual customer satisfaction survey]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}), we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services.
@@ -170,4 +170,4 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
 
 We’re just starting work on this year’s GCXi, and have plans to streamline and simplify the process, to make it easier for you to provide your feedback. When you see a request from our team to take the survey, please share your thoughts. We take your comments to heart.
 
-_Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!_
+_Interested in more great content like this? Sign up for our [DigitalGov newsletter](https://digital.gov/about/subscribe/)!_
