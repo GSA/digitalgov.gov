@@ -47,7 +47,7 @@ For example, at GSA, our Customer Team helps program offices learn to approach t
 CX and UX are everywhere in government now. However you define them, agencies are making huge strides to improve our products and services, making it easier for citizens and businesses to work with us. Both the UX and CX communities offer content and training to help you improve the customer experience at your agency. Check out these resources:
 
   * Join a community
-      * [Customer Experience]({{< ref "/communities/customer-experience.md" >}})
+      * [Customer Experience](https://digital.gov/communities/customer-experience/)
       * [User Experience]({{< ref "communities/user-experience.md" >}})
   * Take some training
       * [Upcoming events from DigitalGov University]({{< ref "/events" >}})
@@ -58,4 +58,4 @@ CX and UX are everywhere in government now. However you define them, agencies ar
 
 How has your agency embraced CX and UX? Tell us in the comments.
 
-_Thanks to members of the [UX]({{< ref "communities/user-experience.md" >}}) and [CX]({{< ref "/communities/customer-experience.md" >}}) communities for their contributions to this article._
+_Thanks to members of the [UX]({{< ref "communities/user-experience.md" >}}) and [CX](https://digital.gov/communities/customer-experience/) communities for their contributions to this article._
