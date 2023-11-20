@@ -5,7 +5,7 @@
 slug: "customer-experience"
 
 # Topic Title
-title: "Customer experience"
+title: "Customer Experience"
 
 # description — keep it short and clear
 summary: ""
