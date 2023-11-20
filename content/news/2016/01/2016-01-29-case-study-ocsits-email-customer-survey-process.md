@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - user-testing-and-research
-  - cx
+  - customer-experience
 
 ---
 
@@ -112,4 +112,4 @@ As background, here are some of the resources that inspired us as we developed t
 
 While this post focused on our email surveys, it’s worth noting that we follow a similar process for most of our website surveys, asking the same core questions, as well as asking about task completion (but that’s a topic for another post!).
 
-Our GCXi has given us a framework to listen to customers, benchmark progress in a consistent way and evaluate whether we&#8217;re improving over time. If you have suggestions or ideas to help us better serve you, <a href="mailto:rachel.flagg@gsa.gov" target="_blank">please let us know</a>! Interested in learning more about improving the government customer experience? Join the <a href="{{< ref "customer-experience.md" >}}" target="_blank">Government Customer Experience Community</a> and review the <a href="{{< ref "customer-experience-toolkit.md" >}}" target="_blank">Customer Experience Toolkit</a>.
+Our GCXi has given us a framework to listen to customers, benchmark progress in a consistent way and evaluate whether we&#8217;re improving over time. If you have suggestions or ideas to help us better serve you, <a href="mailto:rachel.flagg@gsa.gov" target="_blank">please let us know</a>! Interested in learning more about improving the government customer experience? Join the <a href="{{< ref "/communities/customer-experience.md" >}}" target="_blank">Government Customer Experience Community</a> and review the <a href="{{< ref "customer-experience-toolkit.md" >}}" target="_blank">Customer Experience Toolkit</a>.

@@ -7,7 +7,7 @@ authors:
   - jacqueline-snee
 topics:
   - product-management
-  - cx
+  - customer-experience
 ---
 
 {{< legacy-img src="2014/07/250-x-160-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 

@@ -12,7 +12,7 @@ topics:
   - data
   - mobile
   - 18f
-  - cx
+  - customer-experience
   - us-digital-service
   - USDS
 ---

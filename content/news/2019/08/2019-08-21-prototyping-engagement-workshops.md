@@ -13,7 +13,7 @@ categories:
 tag:
   - data
   - design
-  - cx
+  - customer-experience
   - policy
   - workforce
   - pif

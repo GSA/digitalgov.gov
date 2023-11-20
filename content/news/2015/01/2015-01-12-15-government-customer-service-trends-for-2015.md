@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - our-work
   - user-experience
-  - cx
+  - customer-experience
   - customer-service
   - government-contact-centers
   - personas

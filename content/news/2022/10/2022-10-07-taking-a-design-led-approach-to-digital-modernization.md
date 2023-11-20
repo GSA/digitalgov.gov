@@ -10,7 +10,7 @@ topics:
   - design
   - governance
   - performance
-  - cx
+  - customer-experience
   - 21st-century-idea
 
 # See all authors at https://digital.gov/authors

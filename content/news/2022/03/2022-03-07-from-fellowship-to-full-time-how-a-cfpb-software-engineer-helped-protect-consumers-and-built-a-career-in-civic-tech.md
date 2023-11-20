@@ -7,7 +7,7 @@ topics:
   - cfpb
   - consumer-financial-protection-bureau
   - professional-development
-  - cx
+  - customer-experience
   - user-experience
   - accessibility
   - 21st-century-idea

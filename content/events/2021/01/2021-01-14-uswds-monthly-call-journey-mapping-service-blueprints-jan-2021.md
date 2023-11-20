@@ -14,7 +14,7 @@ topics:
   - design
   - 21st-century-idea
   - user-centered-design
-  - cx
+  - customer-experience
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

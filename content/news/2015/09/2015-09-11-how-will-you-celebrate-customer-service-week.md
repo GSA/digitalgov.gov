@@ -7,10 +7,8 @@ authors:
   - rflagg
 topics:
   - product-management
-  - cx
-  - customer-experience-community-of-practice
+  - customer-experience
   - customer-service
-  - cx
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Office-old-and-vintage-telephone-with-the-USA-flag-Bombaert-iStock-Thinkstock-497375023.jpg" alt="Bombaert/iStock/Thinkstock" caption="" >}}
@@ -74,4 +72,4 @@ How does your agency use social media to serve customers? Talk to your agency’
           * Document customer success stories, such as the Transportation Security Administration’s “Kudos Across America,” and share with your staff
           * Develop recommendations for next year’s celebrations
 
-        Want to improve customer experience in government? Join the Customer Experience Community of Practice (CX-COP). It’s a platform for government CX practitioners to share knowledge, ask questions, and collaborate to improve the government customer experience. Visit the [Customer Experience Community page]({{< ref "customer-experience.md" >}}) to register. {{< legacy-img src="2015/09/600-x-400-Callcenter-Strong-team-Teamwork-Androsov-Konstantin-iStock-Thinkstock-93536156.jpg" alt="Team of call center figures" caption="" >}}
+        Want to improve customer experience in government? Join the Customer Experience Community of Practice (CX-COP). It’s a platform for government CX practitioners to share knowledge, ask questions, and collaborate to improve the government customer experience. Visit the [Customer Experience Community page]({{< ref "/communities/customer-experience.md" >}}) to register. {{< legacy-img src="2015/09/600-x-400-Callcenter-Strong-team-Teamwork-Androsov-Konstantin-iStock-Thinkstock-93536156.jpg" alt="Team of call center figures" caption="" >}}

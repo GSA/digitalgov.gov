@@ -8,7 +8,7 @@ authors:
   - tim-hudak
 topics:
   - user-testing-and-research
-  - cx
+  - customer-experience
   - HHS
   - USDA
 ---

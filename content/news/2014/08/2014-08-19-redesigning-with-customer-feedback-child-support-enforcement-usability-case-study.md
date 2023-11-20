@@ -9,7 +9,7 @@ topics:
   - design
   - user-testing-and-research
   - user-experience
-  - cx
+  - customer-experience
   - HHS
   - Office of Child Support Enforcement
   - united-states-department-of-health-and-human-services

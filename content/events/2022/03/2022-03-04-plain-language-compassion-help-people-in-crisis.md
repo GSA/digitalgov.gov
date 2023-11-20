@@ -11,7 +11,7 @@ end_date: 2022-03-09 15:00:00 -0500
 topics:
   - content
   - content-strategy
-  - cx
+  - customer-experience
   - plain-language
   - plain-language-community-of-practice
   - research

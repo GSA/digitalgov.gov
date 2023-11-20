@@ -10,8 +10,7 @@ topics:
   - strategy
   - policy
   - analytics
-  - cx
-  - cx
+  - customer-experience
   - data
   - metrics
 

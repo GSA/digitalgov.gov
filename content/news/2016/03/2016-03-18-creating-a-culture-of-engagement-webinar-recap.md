@@ -8,8 +8,7 @@ authors:
   - rflagg
 topics:
   - product-management
-  - cx
-  - cx
+  - customer-experience
   - DOL
   - HUD
   - OPM
@@ -138,4 +137,4 @@ You can [view the presentation slides](https://s3.amazonaws.com/digitalgov/_lega
 
 
 
-For more content like this, [join the Customer Experience Community (CX-COP)]({{< ref "customer-experience.md" >}}).
+For more content like this, [join the Customer Experience Community (CX-COP)]({{< ref "/communities/customer-experience.md" >}}).

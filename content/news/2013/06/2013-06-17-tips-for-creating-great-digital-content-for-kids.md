@@ -9,7 +9,7 @@ authors:
   - jill-james
 topics:
   - content
-  - cx
+  - customer-experience
   - HHS
   - innovation
   - nasa

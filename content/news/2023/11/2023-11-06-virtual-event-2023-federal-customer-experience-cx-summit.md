@@ -9,7 +9,7 @@ summary: The inaugural Federal CX Summit will be held November 16th, 2023. Featu
 
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - customer-service
 
 slug: virtual-event-2023-federal-customer-experience-cx-summit

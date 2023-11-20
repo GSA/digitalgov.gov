@@ -9,7 +9,7 @@ date: 2022-05-17 14:00:00 -0500
 end_date: 2022-05-17 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - governance
   - professional-development
   - training

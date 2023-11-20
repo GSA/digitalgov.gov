@@ -7,7 +7,7 @@ summary: Exploring High-Impact Service Provider performance through open source 
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - michael-kelty
