@@ -5,7 +5,7 @@ source_url: https://www.congress.gov/bill/116th-congress/house-bill/133/text/enr
 source: congressgov
 title: DOTGOV Online Trust in Government Act of 2020
 deck: Title IX of Public Law No. 116-260, §§ 901-907 (DOTGOV Act of 2020)
-summary: Title IX of Public Law No. 116-260, §§ 901-907 (DOTGOV Act of 2020). The citizens of the United States deserve online public services that are safe, recognizable, and trustworthy. The .gov internet domain provides a critical service to those federal, state, local, tribal, and territorial governments for use in their official services, operations, and communications and should be operated transparently and in the spirit of public accessibility, privacy, and security.
+summary: Title IX of Public Law No. 116-260, §§ 901-907 (DOTGOV Act of 2020) authorizes the Cybersecurity and Infrastructure Security Agency (CISA) to manage the domain registration process for federal, state, local, tribal, and territorial governments.
 
 # See all topics at https://digital.gov/topics
 topics:
