@@ -10,10 +10,11 @@ topics:
   - challenges-and-prize-competitions
   - customer-experience
   - ecpic
-  - mobile
+  - mobile-gov
   - open-opportunities-program
-  - social-media
+  - socialgov
   - user-experience
+  - web-content-managers-forum
 
 ---
 
