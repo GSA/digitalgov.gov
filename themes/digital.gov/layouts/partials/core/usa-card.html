@@ -41,7 +41,8 @@
     {{ if not $is_home }}
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="/img{{- $image | relURL -}}" alt="{{- $alt -}}" />
+          {{ $image_path := (printf "%s/%s" "/img" $image | relURL) }}
+          <img src="{{- $image_path -}}" alt="{{- $alt -}}" />
         </div>
       </div>
     {{ end }}
