@@ -14,8 +14,6 @@ topics:
   - dhs
   - epa
   - fema
-  - Government Publishing Office
-  - GPO
   - HHS
   - HUD
   - NARA

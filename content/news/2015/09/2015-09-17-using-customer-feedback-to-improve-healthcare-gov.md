@@ -7,7 +7,6 @@ authors:
   - jacqueline-snee
 topics:
   - product-management
-  - Centers for Medicare and Medicaid Services
   - cx
   - customer-experience-community-of-practice
   - cx

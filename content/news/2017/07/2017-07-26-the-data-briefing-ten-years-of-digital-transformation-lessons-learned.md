@@ -26,7 +26,6 @@ topics:
   - infrastructure
   - innovation
   - internet-of-things
-  - skills
   - virtual-reality
   - virtual-augmented-reality-community
 ---

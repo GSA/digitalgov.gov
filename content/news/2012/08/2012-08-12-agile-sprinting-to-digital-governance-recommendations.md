@@ -11,7 +11,6 @@ topics:
   - us-department-of-education
   - us-department-of-veterans-affairs
   - USDA
-  - cio-council
 
 ---
 

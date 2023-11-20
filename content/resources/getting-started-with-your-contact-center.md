@@ -4,15 +4,20 @@ date: 2014-02-05 10:25:54 -0400
 title: "Getting Started with your Contact Center"
 summary: "This guide provides you with the information to get a governement contact center started"
 deck: "Planning and creating a successful government contact center is a complex endeavor. This guide will provide you with the information and tools to get you started."
+
+authors:
+  - tonya-beres
+
 topics:
   - contact-centers
+
 ---
 
 ## What is a Contact Center? {#what}
 
 A contact center is a central point in an organization where your customer contact channels, such as telephone, email, text, chat, fax, Text Telephones (TTY), web or mail, are managed. For telephone activities, a contact center can handle in-bound only calls, out-bound only calls, or both, depending on business requirements. Contact centers can be any size, from just a few workstations to more than a thousand, and can be located in single or multiple sites.
 
-### Why It&#8217;s Important
+### Why It's Important
 
 Contact centers are the most common medium for two-way communications between customers and organizations. They:
 
@@ -26,8 +31,7 @@ Contact centers are the most common medium for two-way communications between cu
 Four major contact center components:
 
 - **Network Access** enables customers to contact you and includes telephone network circuits, Internet connections, toll-free, and long-distance services.
-
-- **Contact Center Facilit\*\***ies\*\* can either be physical (one location that houses all your technology, workstations and staff) or virtual (customer service personnel who work in several small centers, or from their homes). It’s a good idea to have facilities in different locations to handle overflow, longer operating hours, or provide emergency backup.
+- **Contact Center Facilities** can either be physical (one location that houses all your technology, workstations and staff) or virtual (customer service personnel who work in several small centers, or from their homes). It’s a good idea to have facilities in different locations to handle overflow, longer operating hours, or provide emergency backup.
 - **Telephone, Computer Hardware and Software** respond to incoming contacts, route them to the right resources to handle them at the right time, and collect, store, and disseminate information as necessary. These systems also provide recorded messages, perform recording and monitoring functions, and produce vital reports to enable the oversight and management of the contact center. Depending on implementation, these systems may reside inside the contact center facility (physical) or outside of the contact center facility (virtual).
 - **Customer Service and Support Staff** are needed to sustain operation of the contact center. The majority of contact center operating costs will reside in employing customer service representatives/agents, supervisors, quality monitors, site managers, trainers, technical specialists, security personnel, and human resource personnel.
 
@@ -37,12 +41,12 @@ Across the government, contact centers are being stretched by increasing demands
 
 High-performing contact centers generally possess the following attributes:
 
-- **Clearly Defined Strategy—**The center has a clear vision of its mission and goals. The strategy is customer-focused and service oriented, forward thinking and open-minded, proactive and willing to accept change, and committed to service excellence.
-- **Skilled Workforce—**The single biggest investment for a contact center makes is in the human resources needed to operate and run the contact center. To achieve high performance, the center must have a well-trained, motivated and seasoned workforce with ongoing training to continually build business knowledge and customer service expertise. The employees must be committed to building trusting relationships with customers.
-- **New Technologies—**To get the most productivity out of the skilled workforce and to provide the tools to deliver a superior customer experience, the center must invest in new technologies and provide self-service and multi-channel support to provide customers with choices and ease of access to information and services.
-- **Solid Management Team—**The center has a mature and flexible management team that adheres to best practices, encourages teamwork, and empowers team decision making.
-- **Total Commitment to Quality—**The center preaches quality in all aspects of its operation and has an effective ongoing quality management/process program to improve performance and customer satisfaction.
-- **Effective Cost Controls—**The center can maintain a balance of quality, quantity, and cost in delivering customer service.
+- **Clearly Defined Strategy**&mdash;The center has a clear vision of its mission and goals. The strategy is customer-focused and service oriented, forward thinking and open-minded, proactive and willing to accept change, and committed to service excellence.
+- **Skilled Workforce**&mdash;The single biggest investment for a contact center makes is in the human resources needed to operate and run the contact center. To achieve high performance, the center must have a well-trained, motivated and seasoned workforce with ongoing training to continually build business knowledge and customer service expertise. The employees must be committed to building trusting relationships with customers.
+- **New Technologies**&mdash;To get the most productivity out of the skilled workforce and to provide the tools to deliver a superior customer experience, the center must invest in new technologies and provide self-service and multi-channel support to provide customers with choices and ease of access to information and services.
+- **Solid Management Team**&mdash;The center has a mature and flexible management team that adheres to best practices, encourages teamwork, and empowers team decision making.
+- **Total Commitment to Quality**&mdash;The center preaches quality in all aspects of its operation and has an effective ongoing quality management/process program to improve performance and customer satisfaction.
+- **Effective Cost Controls**&mdash;The center can maintain a balance of quality, quantity, and cost in delivering customer service.
 
 Managing and operating a contact center requires a constant balancing act of quality, quantity, and cost in order to attain the goal of ultimate customer satisfaction. Your center can only achieve this goal with proper support. If your senior management believes that operating and managing a contact center is a simple operation and that attaining these attributes is not critical to delivering good customer service, then the chances your contact center ever attaining high-performance status will be greatly diminished.
 
@@ -81,7 +85,7 @@ Seasonality and support for special events play a part in volume decisions as we
 
 Ensure your content/service is unique to your agency. Don’t duplicate content/service that is owned or managed by someone else. Instead, provide the responsible agency’s website or contact information. If you find other agencies duplicating your content/service, ask them to refer their customers to you. If jurisdiction over a particular a topic is shared, work with the other agency to decide on a clear division point, have your agents handle the portion within your agency’s jurisdiction, and refer to the other agency for the balance.
 
-- Medicare is a prime example. While Medicare entitlement is determined by the Social Security Administration (SSA), issues around Medicare coverage falls under the jurisdiction of the Centers for Medicare and Medicaid Services (CMS). SSA can help customers decide if they are eligible for Medicare, but refer questions about disputed services to CMS. Each agent handles the aspect of Medicare for which their agency has jurisdiction.
+Medicare is a prime example. While Medicare entitlement is determined by the Social Security Administration (SSA), issues around Medicare coverage falls under the jurisdiction of the Centers for Medicare and Medicaid Services (CMS). SSA can help customers decide if they are eligible for Medicare, but refer questions about disputed services to CMS. Each agent handles the aspect of Medicare for which their agency has jurisdiction.
 
 ### Customer Contact Strategy
 
@@ -93,7 +97,7 @@ Site diversity can mitigate the effects of weather, power or telecom failures by
 
 ### Sourcing Strategy
 
-Will your contact center be in-house, out-sourced, or a hybrid? [The A76 Competitive Sourcing Process](http://www.whitehouse.gov/omb/circulars_a076_a76_incl_tech_correction/), union obligations, and your agency’s current philosophy will all factor into whether your center is based in-house or outsourced. If your center will be outsourced, you can outline the high-level outcomes you’re looking for in your solicitation request and leave the technological details to the contractor who wins your award. If your center will be in-house, you’ll need a lot of specific in-house expertise.
+Will your contact center be in-house, out-sourced, or a hybrid? [The A76 Competitive Sourcing Process](https://obamawhitehouse.archives.gov/omb/circulars_a076_a76_incl_tech_correction/), union obligations, and your agency’s current philosophy will all factor into whether your center is based in-house or outsourced. If your center will be outsourced, you can outline the high-level outcomes you’re looking for in your solicitation request and leave the technological details to the contractor who wins your award. If your center will be in-house, you’ll need a lot of specific in-house expertise.
 
 ### Performance Goals
 
@@ -107,7 +111,7 @@ Where will your center be located? Location can critically impact the service qu
 
 ### Resources
 
-[USA Contact &#8211; a multiple awards IDIQ contract vehicle for federal agencies to procure contact center services](http://www.gsa.gov/portal/content/105215)
+[USA Contact](https://www.gsa.gov/contact-center-services) &mdash; a multiple awards IDIQ contract vehicle for federal agencies to procure contact center services
 
 ## Customer Contact Channels and Strategies {#customer}
 

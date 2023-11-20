@@ -13,7 +13,6 @@ topics:
   - FOIA
   - freedom-of-information-act
   - office-of-information-policy
-  - OIP
   - us-department-of-justice
 ---
 

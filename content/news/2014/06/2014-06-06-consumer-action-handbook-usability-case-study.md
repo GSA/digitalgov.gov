@@ -10,7 +10,6 @@ authors:
 
 topics:
   - design
-  - consumer-action-handbook
   - user-testing-and-research
   - user-experience
   - digitalgov-user-experience-program

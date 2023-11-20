@@ -13,7 +13,6 @@ topics:
   - DOE
   - epa
   - nasa
-  - national-institute-of-justice
   - NPS
   - OSTP
   - us-department-of-education

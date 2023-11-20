@@ -6,7 +6,7 @@ slug: the-us-web-design-system
 source_url: "https://designsystem.digital.gov/"
 
 date: 2019-04-11 23:37:00 -0500
-title: "U.S Web Design System"
+title: "U.S. Web Design System"
 deck: "A design system for the federal government."
 summary: "A design system for the federal government that makes it easier to build accessible, mobile-friendly government websites for the American public."
 authors:

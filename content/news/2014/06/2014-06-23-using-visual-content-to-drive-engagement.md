@@ -12,7 +12,6 @@ topics:
   - social-media
   - video
   - writing
-  - consumer-action-handbook
   - usagov
 
 ---

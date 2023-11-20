@@ -25,7 +25,6 @@ topics:
   - NLM
   - NOAA
   - ODNI
-  - Office of the Director of National Intelligence
   - peace-corps
   - socialgov-community
   - us-department-of-education

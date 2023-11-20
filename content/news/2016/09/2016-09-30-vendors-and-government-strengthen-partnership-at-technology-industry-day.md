@@ -24,8 +24,6 @@ topics:
   - fedramp
   - innovation
   - security
-  - summit
-  - technology-industry-day
   - tts
 
 ---

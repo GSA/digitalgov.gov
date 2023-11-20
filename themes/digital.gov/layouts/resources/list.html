@@ -6,7 +6,7 @@
   {{ end }}
 
 
-  <main role="main" id="main-content" class="main-resources">
+  <main id="main-content" class="main-resources">
     <article>
       <header class="page-head page-head-{{- .Type -}}">
         <div class="grid-container grid-container-desktop">
@@ -73,7 +73,8 @@
                   {{/* If there are resources... */}}
                   {{- if $resources_by_topic -}}
                     {{ $header_id := path.Base .RelPermalink }}
-                    {{ $settings := (dict "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "footer_text" .Title "variant" "media" "list_header" 4) }}
+                    {{ $footer := ( dict "title" (printf "More on %s" .Title) "href" .Permalink ) }}
+                    {{ $settings := (dict "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "variant" "media" "list_header" 4 "footer" $footer) }}
                     {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources_by_topic "settings" $settings) -}}
                   {{- end -}}
                 {{ end }}
@@ -106,8 +107,8 @@
 
                 </ul>
               </nav>
-              <p class="more">
-                <a href="{{- "/topics" | absURL -}}">
+              <p>
+                <a href="{{- "/topics" | absURL -}}" class="dg-more-link">
                   <span>See all topics</span>
                   <svg
                     class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
@@ -153,8 +154,8 @@
             {{- end -}}
           </div>
           <footer>
-            <p class="more">
-              <a href="/topics">
+            <p>
+              <a href="/topics" class="dg-more-link">
                 <span>See all topics</span>
                 <svg
                   class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
