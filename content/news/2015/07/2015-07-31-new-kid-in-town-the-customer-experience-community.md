@@ -2,7 +2,7 @@
 slug: new-kid-in-town-the-customer-experience-community
 date: 2015-07-31 10:00:20 -0400
 title: 'New Kid in Town: The Customer Experience Community'
-summary: Cross-Agency Priority (CAP) Goals prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government. To build on the momentum of this goal, the government Customer Experience Community of Practice (CX-COP)
+summary: Cross-Agency Priority (CAP) Goals prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government.
 authors:
   - jacqueline-snee
   - rflagg
@@ -11,13 +11,14 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
----
 
-{{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
+---
 
 [Cross-Agency Priority (CAP) Goals](http://www.performance.gov/node/3400/view?view=public#overview) prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government. To build on the momentum of this goal, the government Customer Experience Community of Practice (CX-COP) was launched in early 2015.
 
-The CX-COP supports collaboration and sharing among government customer experience practitioners. The group is sponsored by [GSA’s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729), which also sponsors several other [government Communities of Practice]({{< ref "/communities" >}}). The CX-COP, though it is the newest community, already has over 450 members from over 70 government agencies, with more people joining every day.
+{{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="olm26250/iStock/Thinkstock" >}}
+
+The CX-COP supports collaboration and sharing among government customer experience practitioners. The group is sponsored by [GSA’s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729), which also sponsors several other [government Communities of Practice](https://digital.gov/communities/). The CX-COP, though it is the newest community, already has over 450 members from over 70 government agencies, with more people joining every day.
 
 ## Bring Customers to the Table
 
