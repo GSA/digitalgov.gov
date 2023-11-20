@@ -9,7 +9,7 @@ topics:
   - our-work
   - challenges-and-prize-competitions
   - customer-experience
-  - budgeting-and-performance
+  - ecpic
   - mobile
   - open-opportunities-program
   - social-media
