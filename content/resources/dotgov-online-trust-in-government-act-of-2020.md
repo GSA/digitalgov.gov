@@ -6,7 +6,7 @@ source: congressgov
 
 title: DOTGOV Online Trust in Government Act of 2020
 deck: Title IX of Public Law No. 116-260, §§ 901-907 (DOTGOV Act of 2020)
-summary: Title IX of Public Law No. 116-260, §§ 901-907 (DOTGOV Act of 2020) authorizes the Cybersecurity and Infrastructure Security Agency (CISA) to manage the domain registration process for federal, state, local, tribal, and territorial governments.
+summary: Title IX of Public Law No. 116-260, §§ 901-907 (DOTGOV Act of 2020), which outlines responsibilities, authorities, duties, strategies, and requirements related to the process of creating top-level .gov domains, authorizes the Cybersecurity and Infrastructure Security Agency (CISA) to manage the domain registration process for federal, state, local, tribal, and territorial governments.
 
 # See all topics at https://digital.gov/topics
 topics:
