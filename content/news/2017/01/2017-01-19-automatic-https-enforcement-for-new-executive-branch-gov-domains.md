@@ -22,11 +22,11 @@ topics:
   - search-engine-optimization
   - security
 
+primary_image: "dot-gov-tld-wood-block-marekuliasz-istock-gettyimages-476434043-1-comp"
+
 ---
 
 HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.
-
-{{< legacy-img src="2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" caption="weerapatkiatdumrong/iStock/Thinkstock" >}}
 
 In June 2015, the White House required all new federal web services to [support and enforce HTTPS connections over the public internet](https://https.cio.gov/#guidelines), and for agencies to migrate existing web services to HTTPS by the end of calendar year 2016. GSA’s Office of Government-wide Policy has supported the growth of HTTPS in the federal government by providing a [public HTTPS monitoring dashboard](https://pulse.cio.gov/) and [thorough policy guidance and technical assistance](https://https.cio.gov/).
 
