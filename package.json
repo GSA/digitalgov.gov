@@ -65,7 +65,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "gulp-responsive": "3.0.1",
     "gulp-s3-upload": "^1.7.3",
-    "gulp-strip-css-comments": "^2.0.0",
+    "gulp-strip-css-comments": "^3.0.0",
     "gulp-tap": "^2.0.0",
     "husky": "^8.0.3",
     "image-size": "^0.8.3",
