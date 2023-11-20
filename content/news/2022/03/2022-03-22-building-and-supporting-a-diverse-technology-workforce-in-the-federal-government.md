@@ -7,7 +7,6 @@ summary: Brian Whittaker, acting Chief Innovation Officer at the Federal Deposit
 topics:
   - tts
   - professional-development
-  - cio
   - diversity-equity-inclusion-accessibility-deia
 # See all authors at https://digital.gov/authors
 authors:

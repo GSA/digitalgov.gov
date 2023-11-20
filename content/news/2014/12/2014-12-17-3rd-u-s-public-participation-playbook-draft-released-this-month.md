@@ -9,7 +9,6 @@ topics:
   - product-management
   - metrics
   - social-media
-  - Digital Services Playbook
   - national-action-plan-on-open-government
 ---
 

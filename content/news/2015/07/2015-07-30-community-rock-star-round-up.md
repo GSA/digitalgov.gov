@@ -17,7 +17,6 @@ topics:
   - mobile-gov
   - NCI
   - nih
-  - Office of the Director of National Intelligence
   - open-and-structured-content-models
   - OPM
   - socialgov-community

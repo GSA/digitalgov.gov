@@ -3,8 +3,7 @@
 title: "Section508.gov"
 
 # Keep it short — should be no longer than 10 words.
-summary: "Guidance for Federal agencies on IT accessibility compliance."
-
+summary: "Guidance for federal agencies on IT accessibility compliance."
 
 # What source published this?
 source: 'gsa'

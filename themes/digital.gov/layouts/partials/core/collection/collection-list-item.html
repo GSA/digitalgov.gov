@@ -3,69 +3,75 @@
   Collection List Item
   Returns a list item variant for USWDS Collection
 
-  @see see collection.html for description of other variables
-  @param {boolean} link_external - apply `usa-link--external` class if url host is not www.digital.gov
+  @see see collection.html for other component settings
+
+  @param {string} settings.variant — the collection list type according to https://designsystem.digital.gov/components/collection/
+  - @type default - displays title and description. Used for hugo internal pages
+  - @type media - displays agency icon, title and description. Used for hugo internal pages
+  - @type headings - display title and meta_source. Used for external links
+  - @type custom - displays agency icon, title and description. Used for custom data set in front matter pages like topic/design
+
+  @param {string} list_header - header that can be a link or plain header text
+  @param {string} summary - description text that follows the header
+  @param {string} href - link url for internal pages and external sites
+  @param {string} settings.meta_source - The referring source for an external link used with the "headings" variant that reads "Performance.gov".
+  - @description - Pass in .Params.source if using a set of resources pages for the collection component, otherwise provide a external link source
 
 */}}
 
 {{ $list_item_data := .list_item_data }}
 {{ $settings := .settings }}
+{{ $path := $settings.path}}
 {{ $variant := .variant }}
-{{ $link_external := false }} {{/* TODO: fix external link logic to work on all environments */}}
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
 {{ $title := .title }}
-{{ $topic_icon := .topic_icon }}
 {{ $href := .href }}
 {{ $summary := .summary }}
 {{ $url := urls.Parse $href }}
 {{ $meta_source := .meta_source }}
-{{ $list_default_width := .list_default_width }}
-{{ $is_truncated := .is_truncated }}
+
 
 {{- with $list_item_data -}}
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
 
-  <li class="usa-collection__item{{ if not $settings.list_default_width }} usa-collection__item--full-width{{ end }}" data-gh-edit-page="{{- $path -}}">
-    {{ if or (eq $settings.variant "media") (eq $settings.variant "custom") }}
-      {{- partial "core/collection/collection-icon" (dict "logo_source" $settings.logo_source "topic_icon" $settings.topic_icon) -}}
-    {{ end }}
-    <div class="usa-collection__body">
-      <h{{ $settings.list_header | safeHTML }} class="usa-collection__header">
+  {{ if .title }}
+    <li class="usa-collection__item" data-gh-edit-page="{{- $path -}}">
+      {{ if or (eq $settings.variant "media") (eq $settings.variant "custom") }}
+        {{- partial "core/collection/collection-icon" (dict "logo_source" $settings.logo_source) -}}
+      {{ end }}
+      <div class="usa-collection__body">
         {{ if .title }}
-          <a class="usa-link {{ if $settings.link_external }}usa-link--external{{ end }}" href="{{- .href -}}" title="{{- .title | markdownify -}}">
+        <h{{ $settings.list_header | safeHTML }} class="usa-collection__header">
+          <a class="usa-link" href="{{- .href | relURL -}}" title="{{- .title | markdownify -}}">
             {{- .title | markdownify -}}
           </a>
+        </h{{ $settings.list_header | safeHTML }}>
         {{ end }}
-      </h{{ $settings.list_header | safeHTML }}>
-      {{ if ne $settings.variant "headings" }}
-        <p class="usa-collection__description">
+        {{ if ne $settings.variant "headings" }}
           {{ if .summary }}
-            {{ .summary | markdownify }}
+            <p class="usa-collection__description">
+              {{ .summary | markdownify }}
+            </p>
           {{ end }}
-        </p>
-      {{ else }}
-        {{ if $settings.meta_source }}
-          <ul class="usa-collection__meta">
-            <li class="usa-collection__meta-item position-relative">
-              <svg
-                class="usa-icon position-relative bottom-neg-2px"
-                aria-hidden="true"
-                role="img"
-              >
-                <use
-                  xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
-                ></use>
-              </svg>
-              {{- $settings.meta_source -}}
-            </li>
-          </ul>
+        {{ else }}
+          {{ if $settings.meta_source }}
+            <ul class="usa-collection__meta">
+              <li class="usa-collection__meta-item position-relative">
+                <svg
+                  class="usa-icon position-relative bottom-neg-2px"
+                  aria-hidden="true"
+                  role="img"
+                >
+                  <use
+                    xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
+                  ></use>
+                </svg>
+                {{- $settings.meta_source -}}
+              </li>
+            </ul>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-  </li>
+      </div>
+    </li>
+  {{ end }}
 {{- end -}}

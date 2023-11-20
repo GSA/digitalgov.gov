@@ -48,10 +48,9 @@
   code {
     @include u-padding-x("05");
     @include u-padding-y("1px");
-    @include u-bg("gray-cool-3");
+    @include u-bg("base-lightest");
     @include u-font("mono", "xs");
     @include u-line-height("mono", 1);
-    @include u-color("red-50");
     @include u-border("1px", "solid", "base-lighter");
     @include u-radius(sm);
   }
@@ -61,16 +60,12 @@
     @include u-padding-y(2);
     @include u-padding-right(4);
     @include u-padding-bottom("205");
-    @include u-bg("gray-cool-3");
+    @include u-bg("base-lightest");
     @include u-border("1px", "solid", "base-lighter");
     @include u-color("indigo-warm-80");
     @include u-radius("md");
     @include u-font("mono", "2xs");
-
-    white-space: pre-wrap; /* css-3 */
-    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
-    white-space: -pre-wrap; /* Opera 4-6 */
-    white-space: -o-pre-wrap; /* Opera 7 */
+    white-space: pre-wrap;
     word-wrap: break-word; /* Internet Explorer 5.5+ */
   }
 

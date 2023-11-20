@@ -7,9 +7,7 @@ authors:
   - colleen-blessing
 topics:
   - writing
-  - EIA
   - plain-language
-  - US Energy Information Administration
 ---
 
 {{< legacy-img src="2015/10/600-x-366-English-Dictionary-Alan-Crawford-iStock-Thinkstock-166091799.jpg" alt="A large English dictionary." caption="" >}} 

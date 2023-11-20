@@ -11,7 +11,6 @@ topics:
   - video
   - audio-video
   - content
-  - hiv-gov
   - social-media
   - video
   - video-production-pros-community

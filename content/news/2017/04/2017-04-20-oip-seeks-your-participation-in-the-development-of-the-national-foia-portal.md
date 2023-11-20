@@ -13,7 +13,6 @@ topics:
   - 18f
   - FOIA
   - gsa
-  - OIP
   - us-department-of-justice
   - us-general-services-administration
 ---

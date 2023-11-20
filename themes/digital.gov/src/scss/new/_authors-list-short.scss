@@ -18,7 +18,6 @@
     @include u-border(0);
     @include u-text("primary-darker");
     @include u-text("medium");
-    @include u-text("no-underline");
     @include u-font("sans", "2xs");
     z-index: 2;
 
@@ -34,10 +33,6 @@
     span {
       flex: 1;
       white-space: nowrap;
-    }
-
-    &:hover {
-      @include u-text("underline");
     }
   }
 
