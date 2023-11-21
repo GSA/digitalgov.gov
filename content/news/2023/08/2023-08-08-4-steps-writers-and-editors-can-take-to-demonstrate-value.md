@@ -4,6 +4,7 @@ kicker:
 title: 4 steps writers and editors can take to demonstrate value
 deck: How to strike a balance between cost and value
 summary: As plain language writers and editors, we need to demonstrate the value we bring to projects. This writeup explains how to calculate the costs of our work and articulate its value.
+
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
@@ -13,6 +14,7 @@ topics:
   - performance
   - professional-development
   - writing
+  - digital-service-delivery
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -21,6 +23,7 @@ authors:
 
 slug: 4-steps-writers-and-editors-can-take-to-demonstrate-value
 primary_image: "content-strategy-tarikvision-istock-getty-images-1411514984-comp"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
