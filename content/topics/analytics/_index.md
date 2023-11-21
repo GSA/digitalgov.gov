@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://digital.gov/guides/dap/"
+    - link: "/guides/dap/"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -33,10 +33,10 @@ featured_links:
   title: "Analytics: essential knowledge"
   resources:
   - title: "How to build an analytics strategy"
-    summary: "Learn about setting up a digital analytics strategy from Digital.gov’s partnership with DAP."
+    summary: "The Digital Analytics Program (DAP) provides a start-to-finish approach for assessing, reporting, and taking action using Digital.gov in a case study with videos."
     href: "https://digital.gov/resources/how-to-build-an-analytics-strategy/"
-  - title: "Continuously improve your website by using customer feedback and web analytics: An IRS case study (video 31:27)"
-    summary: " Learn how you can use web analytics to make improvements to user experience."
+  - title: "Video: Continuously improve your website by using customer feedback and web analytics: An IRS case study (length: 31:27)"
+    summary: "Learn how you can use web analytics to make improvements to user experience."
     href: "https://www.youtube.com/watch?v=8zkHN3rxXHw"
   - title: "An introduction to search"
     summary: "Follow search engine optimization (SEO) best practices to help search engines discover your content."
@@ -45,6 +45,6 @@ featured_links:
     summary: "Learn how you can take a deep dive into analytics and uncover phishing attempts or other improper use of your agency’s content, logo, or brand."
     href: "https://digital.gov/2020/10/26/true-crime-detectives-how-we-used-free-web-metrics-tools-to-uncover-a-cybersecurity-incident/"
   - title: "How to track performance"
-    summary: "Use this step-by-step guide to pick metrics and tools for tracking performance on your site."
+    summary: "Use this step-by-step guide to choose metrics & tools, set budgets & goals, and add site tracking on your website."
     href: "https://designsystem.digital.gov/performance/how/"
 ---
