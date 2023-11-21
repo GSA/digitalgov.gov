@@ -21,7 +21,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "/resources/an-introduction-to-search/"
+    - link: "/resources/an-introduction-to-search"
 
 # Featured community to display at the top of the page
 featured_communities:
