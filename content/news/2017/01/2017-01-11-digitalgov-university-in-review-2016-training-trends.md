@@ -3,7 +3,9 @@ slug: digitalgov-university-in-review-2016-training-trends
 date: 2017-01-11 12:00:02 -0400
 title: 'DigitalGov University in Review: 2016 Training Trends'
 summary: 'Thanks to your participation, DigitalGov University (DGU), the events platform for DigitalGov, hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.'
+
 authors:
+
   - jthalls
 topics:
   - accessibility
@@ -27,9 +29,7 @@ topics:
   - ai
   - analytics
   - api
-  - artificial intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - challenges-and-prizes-community-of-practice
+  - artificial-intelligence
   - chatbots
   - cloud
   - cloud-gov
@@ -37,22 +37,14 @@ topics:
   - customer-experience
   - dap
   - digital-analytics-program
-  - fedramp
   - metrics
-  - mobile-gov
-  - OCSIT
-  - Office of Citizen Services and Innovative Technology
-  - office-of-products-and-programs
+  - mobile
   - open-data
   - open-opportunities-program
   - social-media
-  - socialgov-community
-  - technology-transformation-services
   - training
-  - tts
   - virtual-reality
   - virtual-augmented-reality-community
-  - webinar
 
 ---
 
