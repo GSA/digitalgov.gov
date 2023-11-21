@@ -6,7 +6,7 @@ slug: "diversity-equity-and-inclusion"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
-  - /diversity-equity-inclusion-accessibility-deia/
+  - /topics/diversity-equity-inclusion-accessibility-deia/
 
 # Topic Title
 title: "Diversity, Equity, and Inclusion"
