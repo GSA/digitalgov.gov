@@ -11,6 +11,7 @@ deck: "A guide to the agreements negotiated between the federal government and v
 weight: 1
 topics:
   - terms-of-service
+expirydate: "2023-11-21"
 
 
 ---
