@@ -8,7 +8,7 @@ slug: "governance"
 title: "Governance"
 deck: "Good digital governance leads to better internal team performance as well as better public digital experiences."
 
-summary: "Governance clarifies roles and responsibilities, establishes standards and procedures, and provides a framework for decision-making. Digital governance encompasses all aspects of website management and operation, including content, design, technical infrastructure, security, funding, and product, project, and program management."
+summary: "Governance provides a framework for decision-making by establishing standards and procedures and clarifying roles and responsibilities. Digital governance encompasses all aspects of website management and operation, including content, design, technical infrastructure, security, funding, and product, project, and program management."
 
 # Weight
 weight: 2
@@ -16,7 +16,7 @@ weight: 2
 # Set the legislation card title and link
 legislation:
   title: "21st Century IDEA & M-23-22"
-  link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
+  link: "/resources/delivering-digital-first-public-experience/"
 
 # Featured resource to at the top of the page
 featured_resources:
@@ -32,7 +32,7 @@ featured_links:
   title: "Governance: essential knowledge"
   resources:
   - title: "An introduction to digital governance"
-    summary: " Get an overview of the internal systems and processes used to manage digital presence."
+    summary: "Get an overview of the internal systems and processes used to manage digital presence."
     href: "https://digital.gov/resources/an-introduction-to-digital-governance/"
   - title: "What are agency reporting requirements?"
     summary: "Learn what the Office of Management and Budget (OMB) requires federal executive agencies to complete by September 2024 (one year after  M-23-22 issuance)."
